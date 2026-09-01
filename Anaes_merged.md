@@ -98,25 +98,46 @@
 > `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
-## 0.6 Group & Hold / Crossmatch
+## 0.8 Postoperative Care and Complications
 
-> [!warning] FLAG 2026-09-01 — three homes
-> `Heme Onc_merged 10_08 ## ABO and Rh Compatibility — The Two Opposite Rules` and
-> `NEW_Investigations_Haematology ## Immunohematology`. Flagged, nothing merged.
+> [!warning] FLAG 2026-09-01 — same topic twice in this file, and twice more elsewhere
+> `AN1 §0.5 Postoperative Complications` is the Corpus B version.
+> Also `Emergency and Crit Care_merged A1 §0.5 Post-Procedural Deterioration`, `§0.6 Failure to Wake
+> Post-Sedation`, and `Infectious Disease_merged K1 §0.6 Post-Operative and Drug Fever`.
+> ⚠️ **Three inbound flags are destined for `AN1 §0.3 Perioperative Medication Management` and
+> `§0.7 Specific Perioperative Situations`** — perioperative diabetes management (Endocrine),
+> surgical fluid and electrolyte principles (Endocrine), and TURP syndrome (Renal). Check for
+> duplication before any of them is actioned.
 
-> [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Low yield) — not covered in the source primer.
+> [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Medium yield, "partially covered" via the PONV section above) — general postoperative complications beyond PONV weren't covered in the source primer.
 
-**D:** Pre-transfusion testing to determine a patient's blood group and screen for red cell antibodies, done routinely before surgery with any meaningful blood loss risk.
+**Immediate recovery (PACU/recovery room):** airway/breathing/circulation monitoring until the patient meets discharge criteria (stable observations, adequate pain control, minimal nausea, able to protect their own airway); regular observations per local protocol.
 
-**Group & hold (G&H, also "group & save"):** determines the patient's ABO/Rh(D) group and screens serum for atypical red cell antibodies, but does **not** physically reserve specific blood units — the sample is held (typically valid ~72h if the patient hasn't been recently transfused/pregnant, shorter if they have, given the risk of new antibody formation) so that crossmatching can be done rapidly if blood is later needed. Appropriate for procedures with a low likelihood of significant blood loss.
+### 0.8.1 Common postoperative complications by timing
 
-**Crossmatch (X-match):** physically tests the patient's serum against specific donor units to confirm compatibility before those units are issued and available for transfusion. Appropriate for procedures with an anticipated higher blood loss risk, or urgently if a G&H patient starts bleeding.
+**Immediate (within hours):**
+- Airway obstruction/hypoventilation — residual anaesthetic/paralytic effect; manage with airway manoeuvres, reversal agents if paralysis-related (see neostigmine above), escalate to re-intubation if needed
+- Hypotension — commonly from residual anaesthetic vasodilation, bleeding, or (rarely) anaphylaxis; assess and treat the specific cause rather than fluids alone
+- Pain — undertreated pain itself contributes to other complications (tachycardia, hypertension, delayed mobilisation) — a standing priority in recovery, not an afterthought
+- PONV — see dedicated section above
 
-> [!tip] Practical distinction: G&H is "just in case," crossmatch is "blood physically reserved and ready." The decision of which to order (and how many units to crossmatch) is typically guided by a **Maximum Surgical Blood Ordering Schedule (MSBOS)** — an institution-specific list mapping each procedure type to the recommended G&H-only vs crossmatch-with-a-specified-unit-count approach, based on typical blood loss for that operation.
+**Early (first few post-op days):**
+- Fever — a useful clinical approach is the "5 W's" mnemonic: **W**ind (atelectasis/pneumonia — most common cause in the first 24–48h), **W**ater (UTI, typically day 3–5), **W**alking (DVT/PE, typically day 5+), **W**ound (surgical site infection, typically day 5–7), **W**onder drugs (drug fever/reaction — consider at any time)
+- Atelectasis — encourage early mobilisation, deep breathing exercises/incentive spirometry, adequate analgesia (pain itself causes shallow breathing and atelectasis)
+- VTE (DVT/PE) — see [[01_Cardiovascular]] Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE) (two separate sections, 0.28 and 0.29) for full disease-level content; perioperative VTE prophylaxis (mechanical — TED stockings/intermittent pneumatic compression, ± pharmacological LMWH depending on procedure-specific bleeding-vs-thrombosis risk balance) is a standard part of postoperative care, not an optional extra
+- Surgical site infection — see wound-specific content below
+- Ileus — see [[03_Gastrointestinal]] Ileus for full disease-level content; common and usually self-limiting after abdominal surgery specifically
 
-**In an emergency where there's no time for group & hold/crossmatch:** O-negative ("universal donor") red cells can be given immediately without waiting for typing — used only when the delay of proper typing would itself be dangerous, since group-specific or fully crossmatched blood is always preferred once available given O-negative supply is limited and reserved for genuine emergencies.
+**Wound-specific complications:**
+- Infection (surgical site infection) — erythema, warmth, discharge, fever, typically day 5–7; Mx per severity — oral/IV antibiotics ± wound drainage
+- Dehiscence — wound edges separating, may be superficial or full-thickness (the latter a surgical emergency, especially if bowel/fascia involved); risk factors include infection, poor nutrition, obesity, smoking, steroid use
+- Haematoma/seroma — fluid/blood collection under the wound; may need drainage if large/symptomatic
 
----
+**Chronic/long-term:**
+- Chronic post-surgical pain — a recognised complication of many procedure types, more likely with nerve injury during surgery, poorly controlled acute post-op pain, and certain procedure types (e.g. thoracotomy, hernia repair, amputation)
+- Hypertrophic/keloid scarring
+- Adhesions (following abdominal/pelvic surgery) — can cause chronic pain, subfertility, or later present as small bowel obstruction (see [[03_Gastrointestinal]] Small Bowel Obstruction (SBO))
+
 
 ## 0.7 Assessment and Basic Management of Pain
 
@@ -171,46 +192,25 @@
 
 ---
 
-## 0.8 Postoperative Care and Complications
+## 0.6 Group & Hold / Crossmatch
 
-> [!warning] FLAG 2026-09-01 — same topic twice in this file, and twice more elsewhere
-> `AN1 §0.5 Postoperative Complications` is the Corpus B version.
-> Also `Emergency and Crit Care_merged A1 §0.5 Post-Procedural Deterioration`, `§0.6 Failure to Wake
-> Post-Sedation`, and `Infectious Disease_merged K1 §0.6 Post-Operative and Drug Fever`.
-> ⚠️ **Three inbound flags are destined for `AN1 §0.3 Perioperative Medication Management` and
-> `§0.7 Specific Perioperative Situations`** — perioperative diabetes management (Endocrine),
-> surgical fluid and electrolyte principles (Endocrine), and TURP syndrome (Renal). Check for
-> duplication before any of them is actioned.
+> [!warning] FLAG 2026-09-01 — three homes
+> `Heme Onc_merged 10_08 ## ABO and Rh Compatibility — The Two Opposite Rules` and
+> `NEW_Investigations_Haematology ## Immunohematology`. Flagged, nothing merged.
 
-> [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Medium yield, "partially covered" via the PONV section above) — general postoperative complications beyond PONV weren't covered in the source primer.
+> [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Low yield) — not covered in the source primer.
 
-**Immediate recovery (PACU/recovery room):** airway/breathing/circulation monitoring until the patient meets discharge criteria (stable observations, adequate pain control, minimal nausea, able to protect their own airway); regular observations per local protocol.
+**D:** Pre-transfusion testing to determine a patient's blood group and screen for red cell antibodies, done routinely before surgery with any meaningful blood loss risk.
 
-### 0.8.1 Common postoperative complications by timing
+**Group & hold (G&H, also "group & save"):** determines the patient's ABO/Rh(D) group and screens serum for atypical red cell antibodies, but does **not** physically reserve specific blood units — the sample is held (typically valid ~72h if the patient hasn't been recently transfused/pregnant, shorter if they have, given the risk of new antibody formation) so that crossmatching can be done rapidly if blood is later needed. Appropriate for procedures with a low likelihood of significant blood loss.
 
-**Immediate (within hours):**
-- Airway obstruction/hypoventilation — residual anaesthetic/paralytic effect; manage with airway manoeuvres, reversal agents if paralysis-related (see neostigmine above), escalate to re-intubation if needed
-- Hypotension — commonly from residual anaesthetic vasodilation, bleeding, or (rarely) anaphylaxis; assess and treat the specific cause rather than fluids alone
-- Pain — undertreated pain itself contributes to other complications (tachycardia, hypertension, delayed mobilisation) — a standing priority in recovery, not an afterthought
-- PONV — see dedicated section above
+**Crossmatch (X-match):** physically tests the patient's serum against specific donor units to confirm compatibility before those units are issued and available for transfusion. Appropriate for procedures with an anticipated higher blood loss risk, or urgently if a G&H patient starts bleeding.
 
-**Early (first few post-op days):**
-- Fever — a useful clinical approach is the "5 W's" mnemonic: **W**ind (atelectasis/pneumonia — most common cause in the first 24–48h), **W**ater (UTI, typically day 3–5), **W**alking (DVT/PE, typically day 5+), **W**ound (surgical site infection, typically day 5–7), **W**onder drugs (drug fever/reaction — consider at any time)
-- Atelectasis — encourage early mobilisation, deep breathing exercises/incentive spirometry, adequate analgesia (pain itself causes shallow breathing and atelectasis)
-- VTE (DVT/PE) — see [[01_Cardiovascular]] Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE) (two separate sections, 0.28 and 0.29) for full disease-level content; perioperative VTE prophylaxis (mechanical — TED stockings/intermittent pneumatic compression, ± pharmacological LMWH depending on procedure-specific bleeding-vs-thrombosis risk balance) is a standard part of postoperative care, not an optional extra
-- Surgical site infection — see wound-specific content below
-- Ileus — see [[03_Gastrointestinal]] Ileus for full disease-level content; common and usually self-limiting after abdominal surgery specifically
+> [!tip] Practical distinction: G&H is "just in case," crossmatch is "blood physically reserved and ready." The decision of which to order (and how many units to crossmatch) is typically guided by a **Maximum Surgical Blood Ordering Schedule (MSBOS)** — an institution-specific list mapping each procedure type to the recommended G&H-only vs crossmatch-with-a-specified-unit-count approach, based on typical blood loss for that operation.
 
-**Wound-specific complications:**
-- Infection (surgical site infection) — erythema, warmth, discharge, fever, typically day 5–7; Mx per severity — oral/IV antibiotics ± wound drainage
-- Dehiscence — wound edges separating, may be superficial or full-thickness (the latter a surgical emergency, especially if bowel/fascia involved); risk factors include infection, poor nutrition, obesity, smoking, steroid use
-- Haematoma/seroma — fluid/blood collection under the wound; may need drainage if large/symptomatic
+**In an emergency where there's no time for group & hold/crossmatch:** O-negative ("universal donor") red cells can be given immediately without waiting for typing — used only when the delay of proper typing would itself be dangerous, since group-specific or fully crossmatched blood is always preferred once available given O-negative supply is limited and reserved for genuine emergencies.
 
-**Chronic/long-term:**
-- Chronic post-surgical pain — a recognised complication of many procedure types, more likely with nerve injury during surgery, poorly controlled acute post-op pain, and certain procedure types (e.g. thoracotomy, hernia repair, amputation)
-- Hypertrophic/keloid scarring
-- Adhesions (following abdominal/pelvic surgery) — can cause chronic pain, subfertility, or later present as small bowel obstruction (see [[03_Gastrointestinal]] Small Bowel Obstruction (SBO))
-
+---
 
 <!-- ===== SOURCE: AN1_Perioperative_Care.md ===== -->
 
@@ -283,6 +283,34 @@
 > **· Stop intravenous fluids as soon as the patient is drinking.**
 
 ---
+
+## 0.7 Specific Perioperative Situations
+
+> [!warning] The steroid-dependent patient
+> **Long-term corticosteroid therapy suppresses the hypothalamic-pituitary-adrenal axis, so the patient cannot mount the cortisol response that surgery demands.**
+> **Perioperative stress dosing is required, scaled to the magnitude of surgery, and their usual dose must be continued.**
+> **Omitting it causes intraoperative or postoperative hypotension that does not respond to fluids and vasopressors — and adrenal crisis.** Cross-refer [[I4]] 0.3 and [[F0.3]] 0.6. `UNVERIFIED — the stress dosing regimens.`
+
+> [!danger] The frail older patient — "can we" is a different question from "should we"
+> **Frailty predicts postoperative mortality, complications, delirium, functional decline and institutionalisation better than age or the individual comorbidities.**
+> **The conversation that matters is not only whether the patient can survive the operation, but what their function and quality of life will be afterwards, and whether that aligns with what they want.**
+> **This requires: a frailty assessment · a clear discussion of realistic outcomes including the possibility of not returning home · involvement of the patient and family · and consideration of non-operative management as a legitimate option rather than a failure.**
+> **Document goals of care and the ceiling of treatment BEFORE the operation, not after the deterioration.** Cross-refer [[GER1]] 0.2, [[GER2]] 0.6 and [[A10]] 0.3.
+
+> [!tip] Other situations worth anticipating
+> **· NON-OBSTETRIC SURGERY IN PREGNANCY — defer elective surgery; use LEFT LATERAL TILT or manual uterine displacement after about 20 weeks to avoid aortocaval compression; involve obstetrics; arrange fetal monitoring appropriate to gestation; and do not withhold necessary imaging or surgery.** Cross-refer [[L8]] 0.6 and [[O2]].
+> **· JEHOVAH'S WITNESS PATIENTS — plan in ADVANCE.** Establish precisely which products and techniques are acceptable (individuals differ), document it, and use **preoperative iron and erythropoietin, tranexamic acid, cell salvage where acceptable, meticulous haemostasis and a lower transfusion threshold.** **A competent adult's refusal of blood is binding even if death results.** Cross-refer [[A10]] 0.2 and [[A9]].
+> **· EMERGENCY SURGERY IN SEPSIS — resuscitate, but do NOT delay SOURCE CONTROL for the sake of optimisation.** In a septic patient with an intra-abdominal source, the operation is part of the resuscitation. Cross-refer [[F0.3]] 0.7.
+> **· PAEDIATRIC — weight-based everything, parental presence at induction, attention to fasting (children tolerate prolonged fasting poorly), and emergence delirium.**
+> **· OBESITY — airway, positioning, vascular access, drug dosing (some by lean body weight, some by total), higher VTE risk, and OSA.**
+
+**Ix:** **Postoperative: targeted rather than routine.** **FBC and UEC where there has been significant blood loss, fluid shifts or ongoing losses** (*why:* anaemia and electrolyte disturbance, particularly sodium; *what:* haemoglobin, sodium, potassium, renal function). **ECG and troponin in a deteriorating high-risk patient** (*why:* silent perioperative infarction; *what:* ischaemic change, troponin rise). **CT of the operative field in the patient who is not progressing** (*why:* anastomotic leak and collection are the diagnoses to exclude, and clinical signs are unreliable postoperatively; *what:* collection, free gas, leak). **Bladder scan for the agitated or oliguric patient** (*why:* retention is common, easily missed and easily fixed; *what:* residual volume). **Ketones in any unwell patient on an SGLT2 inhibitor, regardless of glucose** (*why:* euglycaemic DKA; *what:* beta-hydroxybutyrate). Blood cultures and septic screen for fever (*why:* per the postoperative fever timeline; *what:* source — cross-refer [[K1]] 0.6).
+
+---
+
+> [!note] Cross-references
+> Anticoagulant and antiplatelet management and reversal → [[A9]] 0.4 · Patient blood management and transfusion → [[A9]] and [[J1]] · Airway assessment and compromise → [[A2]] · Malignant hyperthermia and hyperthermic syndromes → [[A6]] 0.3 · The deteriorating patient and anastomotic leak → [[A1]] 0.5 and [[C7]] 0.5 · Perioperative myocardial infarction and troponin → [[B1]] 0.2 · Euglycaemic DKA and SGLT2 inhibitors → [[F0.2]] 0.3 and [[I2]] 0.7 · Insulin management and basal insulin → [[I2]] 0.3, 0.7 · Steroid stress dosing and adrenal crisis → [[I4]] 0.3 and [[F0.3]] 0.6 · Parkinson medication timing → [[D6]] 0.5 · Rheumatoid cervical spine and ankylosing spondylitis → [[L2]] 0.2–0.3 · Fascia iliaca block and hip fracture care → [[L7]] 0.4 · Epidural haematoma and cauda equina → [[L4]] 0.2 · Post-dural puncture headache → [[D1]] 0.4 · Postoperative delirium → [[D2]] 0.2 · Postoperative fever timeline → [[K1]] 0.6 · PONV and antiemetic selection → [[C2]] 0.5 · Ileus versus obstruction → [[C5]] 0.5 · Opioid stewardship → [[F0.4]] 0.9 · Obstructive sleep apnoea → [[RESP-X]] 0.5 · Fluids and hyponatraemia → [[F0.2]] 0.6 and [[I5]] 0.5 · Frailty and goals of care → [[GER1]] 0.2 and [[GER2]] 0.6 · Consent and refusal of treatment → [[A10]] 0.2 · Trauma and surgery in pregnancy → [[L8]] 0.6 and [[O2]]
+
 
 ## 0.5 Postoperative Complications
 
@@ -359,34 +387,6 @@
 
 ---
 
-## 0.7 Specific Perioperative Situations
-
-> [!warning] The steroid-dependent patient
-> **Long-term corticosteroid therapy suppresses the hypothalamic-pituitary-adrenal axis, so the patient cannot mount the cortisol response that surgery demands.**
-> **Perioperative stress dosing is required, scaled to the magnitude of surgery, and their usual dose must be continued.**
-> **Omitting it causes intraoperative or postoperative hypotension that does not respond to fluids and vasopressors — and adrenal crisis.** Cross-refer [[I4]] 0.3 and [[F0.3]] 0.6. `UNVERIFIED — the stress dosing regimens.`
-
-> [!danger] The frail older patient — "can we" is a different question from "should we"
-> **Frailty predicts postoperative mortality, complications, delirium, functional decline and institutionalisation better than age or the individual comorbidities.**
-> **The conversation that matters is not only whether the patient can survive the operation, but what their function and quality of life will be afterwards, and whether that aligns with what they want.**
-> **This requires: a frailty assessment · a clear discussion of realistic outcomes including the possibility of not returning home · involvement of the patient and family · and consideration of non-operative management as a legitimate option rather than a failure.**
-> **Document goals of care and the ceiling of treatment BEFORE the operation, not after the deterioration.** Cross-refer [[GER1]] 0.2, [[GER2]] 0.6 and [[A10]] 0.3.
-
-> [!tip] Other situations worth anticipating
-> **· NON-OBSTETRIC SURGERY IN PREGNANCY — defer elective surgery; use LEFT LATERAL TILT or manual uterine displacement after about 20 weeks to avoid aortocaval compression; involve obstetrics; arrange fetal monitoring appropriate to gestation; and do not withhold necessary imaging or surgery.** Cross-refer [[L8]] 0.6 and [[O2]].
-> **· JEHOVAH'S WITNESS PATIENTS — plan in ADVANCE.** Establish precisely which products and techniques are acceptable (individuals differ), document it, and use **preoperative iron and erythropoietin, tranexamic acid, cell salvage where acceptable, meticulous haemostasis and a lower transfusion threshold.** **A competent adult's refusal of blood is binding even if death results.** Cross-refer [[A10]] 0.2 and [[A9]].
-> **· EMERGENCY SURGERY IN SEPSIS — resuscitate, but do NOT delay SOURCE CONTROL for the sake of optimisation.** In a septic patient with an intra-abdominal source, the operation is part of the resuscitation. Cross-refer [[F0.3]] 0.7.
-> **· PAEDIATRIC — weight-based everything, parental presence at induction, attention to fasting (children tolerate prolonged fasting poorly), and emergence delirium.**
-> **· OBESITY — airway, positioning, vascular access, drug dosing (some by lean body weight, some by total), higher VTE risk, and OSA.**
-
-**Ix:** **Postoperative: targeted rather than routine.** **FBC and UEC where there has been significant blood loss, fluid shifts or ongoing losses** (*why:* anaemia and electrolyte disturbance, particularly sodium; *what:* haemoglobin, sodium, potassium, renal function). **ECG and troponin in a deteriorating high-risk patient** (*why:* silent perioperative infarction; *what:* ischaemic change, troponin rise). **CT of the operative field in the patient who is not progressing** (*why:* anastomotic leak and collection are the diagnoses to exclude, and clinical signs are unreliable postoperatively; *what:* collection, free gas, leak). **Bladder scan for the agitated or oliguric patient** (*why:* retention is common, easily missed and easily fixed; *what:* residual volume). **Ketones in any unwell patient on an SGLT2 inhibitor, regardless of glucose** (*why:* euglycaemic DKA; *what:* beta-hydroxybutyrate). Blood cultures and septic screen for fever (*why:* per the postoperative fever timeline; *what:* source — cross-refer [[K1]] 0.6).
-
----
-
-> [!note] Cross-references
-> Anticoagulant and antiplatelet management and reversal → [[A9]] 0.4 · Patient blood management and transfusion → [[A9]] and [[J1]] · Airway assessment and compromise → [[A2]] · Malignant hyperthermia and hyperthermic syndromes → [[A6]] 0.3 · The deteriorating patient and anastomotic leak → [[A1]] 0.5 and [[C7]] 0.5 · Perioperative myocardial infarction and troponin → [[B1]] 0.2 · Euglycaemic DKA and SGLT2 inhibitors → [[F0.2]] 0.3 and [[I2]] 0.7 · Insulin management and basal insulin → [[I2]] 0.3, 0.7 · Steroid stress dosing and adrenal crisis → [[I4]] 0.3 and [[F0.3]] 0.6 · Parkinson medication timing → [[D6]] 0.5 · Rheumatoid cervical spine and ankylosing spondylitis → [[L2]] 0.2–0.3 · Fascia iliaca block and hip fracture care → [[L7]] 0.4 · Epidural haematoma and cauda equina → [[L4]] 0.2 · Post-dural puncture headache → [[D1]] 0.4 · Postoperative delirium → [[D2]] 0.2 · Postoperative fever timeline → [[K1]] 0.6 · PONV and antiemetic selection → [[C2]] 0.5 · Ileus versus obstruction → [[C5]] 0.5 · Opioid stewardship → [[F0.4]] 0.9 · Obstructive sleep apnoea → [[RESP-X]] 0.5 · Fluids and hyponatraemia → [[F0.2]] 0.6 and [[I5]] 0.5 · Frailty and goals of care → [[GER1]] 0.2 and [[GER2]] 0.6 · Consent and refusal of treatment → [[A10]] 0.2 · Trauma and surgery in pregnancy → [[L8]] 0.6 and [[O2]]
-
-
 <!-- ===== SOURCE: NEW_Drugs_02_Anaesthetics.md ===== -->
 
 
@@ -399,6 +399,59 @@
 > [!info] **Depth note.** An intern does not prescribe or administer general anaesthesia, and this file is not written as if they will. It is written for what an intern actually does: **consent and prepare patients for theatre, recognise anaesthetic complications on the ward and in recovery, use local anaesthetic themselves for procedures, and recognise local anaesthetic systemic toxicity and malignant hyperthermia.** Those are the parts that carry the danger callouts.
 
 ---
+
+## 0.2 General Anaesthetics
+*(covers build-list classes: IV general anaesthetics; Intravenous Anesthetics (GABA-A Modulators); Intravenous Anesthetics (NMDA Antagonists); Barbiturates (GABA-A Modulators); Benzodiazepines (GABA-A Modulators); Inhaled anaesthetics; Inhalational Anesthetics (Gases); Inhalational Anesthetics (Volatiles))*
+
+### 0.2.1 Intravenous Induction Agents — GABA-A Modulators
+
+- **Mechanism:** positive modulation at the **GABA-A receptor**, increasing chloride conductance and hyperpolarising neurons — global CNS depression.
+- **Propofol** — the standard induction and sedation agent.
+  - **Advantages:** rapid onset and offset, antiemetic, smooth emergence.
+  - **Adverse effects:** **dose-dependent hypotension and vasodilation** (marked in the hypovolaemic, septic or elderly patient — which is why the dose is reduced in exactly those patients); **apnoea**; **pain on injection**; involuntary movements. Formulated in a **lipid emulsion**, so it provides a calorie load on prolonged infusion and supports bacterial growth if not handled aseptically.
+  - **PROPOFOL INFUSION SYNDROME** — rare but frequently fatal, seen with **prolonged high-dose infusion**, particularly in critically ill and paediatric patients: **metabolic acidosis, rhabdomyolysis, hyperkalaemia, renal failure, hepatomegaly, arrhythmia and cardiac failure**. Suspect it in any ICU patient on a long propofol infusion who develops an unexplained metabolic acidosis, and check CK and lactate.
+- **Thiopentone (thiopental)** — a **barbiturate**; rapid onset, redistribution-limited duration, still used in rapid sequence induction in some settings and in status epilepticus and raised ICP.
+  - **Adverse effects:** more cardiovascular depression than propofol; **no analgesia**; **intra-arterial injection causes severe vasospasm, thrombosis and tissue necrosis** — a surgical emergency; **extravasation** causes tissue damage.
+  - **Contraindication:** **acute porphyria.** Sources state that thiopentone **may precipitate porphyria** through hepatic enzyme induction, with severe consequences. See [[10_03b_Haemonc_-_Acute_Intermittent_Porphyria]].
+- **Benzodiazepines (midazolam)** — GABA-A modulators used for **premedication, procedural sedation, anxiolysis and amnesia**, and as an anaesthesia adjunct rather than a sole induction agent.
+  - **Adverse effects:** **respiratory depression, profoundly potentiated by concurrent opioids** — the combination is the commonest cause of serious sedation-related harm; hypotension; **paradoxical agitation** (children and the elderly); accumulation with prolonged infusion and in renal/hepatic impairment; **delirium in older patients.**
+  - **Reversal:** **flumazenil**, a competitive antagonist. **Use with great caution:** it can precipitate **seizures** in benzodiazepine-dependent patients and in mixed overdose (especially with tricyclics), and its **half-life is shorter than that of most benzodiazepines**, so re-sedation follows. It is not a routine part of sedation practice.
+- **Etomidate** — hemodynamically the most stable induction agent, which is why it is used in the shocked patient; but sources are clear that it causes **adrenal suppression by inhibiting cortisol and aldosterone synthesis for up to 8 hours after a single dose**, with concern about adrenal insufficiency and mortality in the critically ill. Also causes myoclonus and a high incidence of nausea.
+
+### 0.2.2 Intravenous Anaesthetics — NMDA Antagonists (Ketamine)
+
+- **Mechanism:** **non-competitive NMDA receptor antagonism**, producing **dissociative anaesthesia** — the patient appears awake with eyes open but is dissociated and amnestic.
+- **The property that makes it distinctive:** it is **sympathomimetic**, so it **maintains or increases blood pressure and heart rate** and **preserves respiratory drive and airway reflexes** better than any other induction agent. This makes it the agent of choice in **haemodynamic instability, trauma and severe asthma** (it is also bronchodilating).
+- **Indications:** induction in shock and trauma; procedural sedation, particularly in **children**; analgesia at sub-anaesthetic doses; status asthmaticus; prehospital and austere settings.
+- **Adverse effects:** **emergence phenomena** — sources describe **vivid unpleasant dreams, excitement, confusion and fear**, occurring in the first hour and settling over hours, **reduced by pretreatment with a benzodiazepine** and by a quiet, low-stimulus recovery environment; **hypersalivation** (an anticholinergic is sometimes co-administered); nausea and vomiting; **nystagmus**; raised intraocular pressure; tachycardia and hypertension (a disadvantage in ischaemic heart disease); **laryngospasm**, particularly in children.
+- **Note:** the traditional teaching that ketamine is contraindicated in raised intracranial pressure has been substantially revised, but it remains a specialist decision — **do not act on this note in a head-injured patient**.
+
+### 0.2.3 Inhalational Anaesthetics — Volatiles
+
+- **Key agents:** **sevoflurane, desflurane, isoflurane** (and historically halothane, now essentially abandoned because of halothane hepatitis).
+- **Mechanism:** incompletely understood; effects at GABA-A, glycine and other channels. Potency is described by **MAC — minimum alveolar concentration**, defined as the alveolar concentration at which **50% of patients do not move to a skin incision**.
+- **Comparative properties (sources agree):**
+  - **MAC values** are approximately **sevoflurane ~2%, isoflurane ~1.1%, desflurane ~6%** — i.e. **lower MAC means more potent**. The full ordering from highest MAC (least potent) to lowest is **nitrous oxide > desflurane > sevoflurane > isoflurane > halothane**.
+  - **Sevoflurane** — **non-pungent** and low solubility, hence fast onset and offset; **the agent used for gaseous (inhalational) induction**, especially in children and in the difficult airway.
+  - **Desflurane** — fastest offset, but **pungent and airway-irritant**, so it is **contraindicated for induction** and used for maintenance; also causes tachycardia at rapid concentration increases, and has the highest greenhouse-gas footprint of the group.
+  - **Isoflurane** — cheaper, more soluble, slower on and off.
+- **Adverse effects (class):** dose-dependent **hypotension** and myocardial depression, **respiratory depression**, uterine relaxation (relevant in obstetrics), **postoperative nausea and vomiting**, shivering, and **environmental impact** — volatile agents are potent greenhouse gases, which is now a real consideration in agent choice.
+
+> [!danger] **MALIGNANT HYPERTHERMIA — triggered by volatile anaesthetics and by suxamethonium**
+> A rare, inherited (**RYR1**, autosomal dominant) hypermetabolic crisis of skeletal muscle.
+> - **Recognise it:** **unexplained rising end-tidal CO₂** (the earliest and most sensitive sign), tachycardia, **masseter spasm and generalised muscle rigidity**, hyperthermia (a **late** sign — do not wait for it), metabolic and respiratory acidosis, **hyperkalaemia**, arrhythmias, **rhabdomyolysis with myoglobinuria** and acute kidney injury.
+> - **Treat it:** **STOP the trigger** (volatile agent, suxamethonium), call for help and the MH box, **hyperventilate with 100% oxygen** on a clean circuit, and give **DANTROLENE** — the specific antidote, which sources describe as acting on the **RYR1** receptor to block calcium release from the sarcoplasmic reticulum. Then: active cooling, treat hyperkalaemia and arrhythmias, maintain urine output, and admit to intensive care.
+> - **Prevent it:** **ask every patient about personal and family history of anaesthetic problems** before theatre — this is part of the pre-operative assessment an intern does. A positive history means a **trigger-free anaesthetic** and referral for MH testing; family members need counselling and testing too.
+> - **Related but distinct:** **neuroleptic malignant syndrome** and **serotonin syndrome** present with hyperthermia and rigidity but have different triggers and treatment; dantrolene is used in NMS but the drug histories separate them.
+
+### 0.2.4 Inhalational Anaesthetics — Gases (Nitrous Oxide)
+
+- **Mechanism:** NMDA antagonism and other effects; a **weak anaesthetic but a good analgesic**, used as a carrier gas to reduce the required volatile concentration ("second gas effect") and, mixed 50:50 with oxygen (**Entonox**), as a self-administered analgesic in labour, ambulance transport and painful procedures.
+- **Advantages:** rapid on and off, patient-controlled, no cannula required, minimal cardiovascular depression.
+- **Adverse effects and contraindications — three distinct problems:**
+  1. **Expansion of closed air spaces.** Nitrous oxide is far more soluble than nitrogen, so it diffuses into any closed gas-containing space faster than nitrogen leaves — **expanding it**. Sources name the contraindications: **pneumothorax, bowel obstruction, middle-ear disease or recent middle-ear surgery, alveolar bullae**, and also intracranial air, recent intraocular gas injection, and decompression sickness. **A patient with a pneumothorax given Entonox will get a tension pneumothorax.**
+  2. **Vitamin B₁₂ / methionine synthase inactivation.** Sources describe this as **rapid, potent and irreversible**: nitrous oxide oxidises **methylcobalamin**, the cofactor of **methionine synthase**, disrupting methionine and folate metabolism. With prolonged or repeated exposure this causes **megaloblastic anaemia** and **subacute combined degeneration of the cord — a myeloneuropathy**. Contraindicated or hazardous in **known B₁₂ deficiency, pernicious anaemia, MTHFR deficiency**, and the critically ill. **Recreational nitrous oxide use is an increasingly common cause of B₁₂-deficiency myeloneuropathy in young people presenting with paraesthesia and gait disturbance** — ask about it, and remember serum B₁₂ can be normal (check homocysteine and methylmalonic acid). See [[10_06a_Haemonc_-_Macrocytic_Anaemia]].
+  3. **Diffusion hypoxia** on cessation, and **postoperative nausea and vomiting**. Occupational exposure and greenhouse-gas impact are also real considerations.
 
 ## 0.1 Drugs for Local Anaesthesia
 *(covers build-list classes: Local anaesthetics; Local Anesthetics (Amides); Local Anesthetics (Esters); Local Anesthetics (VG Na+ Blockers); Local anaesthetics (eye))*
@@ -460,59 +513,6 @@
 > - **Monitor after stabilisation** — recurrence is described, so the patient does not simply go back to the ward.
 >
 > **Prevention is the real lesson:** know the maximum dose for the patient's weight, **aspirate before injecting** and inject **incrementally**, use ultrasound guidance for blocks, and never inject a large volume rapidly into a vascular area.
-
-## 0.2 General Anaesthetics
-*(covers build-list classes: IV general anaesthetics; Intravenous Anesthetics (GABA-A Modulators); Intravenous Anesthetics (NMDA Antagonists); Barbiturates (GABA-A Modulators); Benzodiazepines (GABA-A Modulators); Inhaled anaesthetics; Inhalational Anesthetics (Gases); Inhalational Anesthetics (Volatiles))*
-
-### 0.2.1 Intravenous Induction Agents — GABA-A Modulators
-
-- **Mechanism:** positive modulation at the **GABA-A receptor**, increasing chloride conductance and hyperpolarising neurons — global CNS depression.
-- **Propofol** — the standard induction and sedation agent.
-  - **Advantages:** rapid onset and offset, antiemetic, smooth emergence.
-  - **Adverse effects:** **dose-dependent hypotension and vasodilation** (marked in the hypovolaemic, septic or elderly patient — which is why the dose is reduced in exactly those patients); **apnoea**; **pain on injection**; involuntary movements. Formulated in a **lipid emulsion**, so it provides a calorie load on prolonged infusion and supports bacterial growth if not handled aseptically.
-  - **PROPOFOL INFUSION SYNDROME** — rare but frequently fatal, seen with **prolonged high-dose infusion**, particularly in critically ill and paediatric patients: **metabolic acidosis, rhabdomyolysis, hyperkalaemia, renal failure, hepatomegaly, arrhythmia and cardiac failure**. Suspect it in any ICU patient on a long propofol infusion who develops an unexplained metabolic acidosis, and check CK and lactate.
-- **Thiopentone (thiopental)** — a **barbiturate**; rapid onset, redistribution-limited duration, still used in rapid sequence induction in some settings and in status epilepticus and raised ICP.
-  - **Adverse effects:** more cardiovascular depression than propofol; **no analgesia**; **intra-arterial injection causes severe vasospasm, thrombosis and tissue necrosis** — a surgical emergency; **extravasation** causes tissue damage.
-  - **Contraindication:** **acute porphyria.** Sources state that thiopentone **may precipitate porphyria** through hepatic enzyme induction, with severe consequences. See [[10_03b_Haemonc_-_Acute_Intermittent_Porphyria]].
-- **Benzodiazepines (midazolam)** — GABA-A modulators used for **premedication, procedural sedation, anxiolysis and amnesia**, and as an anaesthesia adjunct rather than a sole induction agent.
-  - **Adverse effects:** **respiratory depression, profoundly potentiated by concurrent opioids** — the combination is the commonest cause of serious sedation-related harm; hypotension; **paradoxical agitation** (children and the elderly); accumulation with prolonged infusion and in renal/hepatic impairment; **delirium in older patients.**
-  - **Reversal:** **flumazenil**, a competitive antagonist. **Use with great caution:** it can precipitate **seizures** in benzodiazepine-dependent patients and in mixed overdose (especially with tricyclics), and its **half-life is shorter than that of most benzodiazepines**, so re-sedation follows. It is not a routine part of sedation practice.
-- **Etomidate** — hemodynamically the most stable induction agent, which is why it is used in the shocked patient; but sources are clear that it causes **adrenal suppression by inhibiting cortisol and aldosterone synthesis for up to 8 hours after a single dose**, with concern about adrenal insufficiency and mortality in the critically ill. Also causes myoclonus and a high incidence of nausea.
-
-### 0.2.2 Intravenous Anaesthetics — NMDA Antagonists (Ketamine)
-
-- **Mechanism:** **non-competitive NMDA receptor antagonism**, producing **dissociative anaesthesia** — the patient appears awake with eyes open but is dissociated and amnestic.
-- **The property that makes it distinctive:** it is **sympathomimetic**, so it **maintains or increases blood pressure and heart rate** and **preserves respiratory drive and airway reflexes** better than any other induction agent. This makes it the agent of choice in **haemodynamic instability, trauma and severe asthma** (it is also bronchodilating).
-- **Indications:** induction in shock and trauma; procedural sedation, particularly in **children**; analgesia at sub-anaesthetic doses; status asthmaticus; prehospital and austere settings.
-- **Adverse effects:** **emergence phenomena** — sources describe **vivid unpleasant dreams, excitement, confusion and fear**, occurring in the first hour and settling over hours, **reduced by pretreatment with a benzodiazepine** and by a quiet, low-stimulus recovery environment; **hypersalivation** (an anticholinergic is sometimes co-administered); nausea and vomiting; **nystagmus**; raised intraocular pressure; tachycardia and hypertension (a disadvantage in ischaemic heart disease); **laryngospasm**, particularly in children.
-- **Note:** the traditional teaching that ketamine is contraindicated in raised intracranial pressure has been substantially revised, but it remains a specialist decision — **do not act on this note in a head-injured patient**.
-
-### 0.2.3 Inhalational Anaesthetics — Volatiles
-
-- **Key agents:** **sevoflurane, desflurane, isoflurane** (and historically halothane, now essentially abandoned because of halothane hepatitis).
-- **Mechanism:** incompletely understood; effects at GABA-A, glycine and other channels. Potency is described by **MAC — minimum alveolar concentration**, defined as the alveolar concentration at which **50% of patients do not move to a skin incision**.
-- **Comparative properties (sources agree):**
-  - **MAC values** are approximately **sevoflurane ~2%, isoflurane ~1.1%, desflurane ~6%** — i.e. **lower MAC means more potent**. The full ordering from highest MAC (least potent) to lowest is **nitrous oxide > desflurane > sevoflurane > isoflurane > halothane**.
-  - **Sevoflurane** — **non-pungent** and low solubility, hence fast onset and offset; **the agent used for gaseous (inhalational) induction**, especially in children and in the difficult airway.
-  - **Desflurane** — fastest offset, but **pungent and airway-irritant**, so it is **contraindicated for induction** and used for maintenance; also causes tachycardia at rapid concentration increases, and has the highest greenhouse-gas footprint of the group.
-  - **Isoflurane** — cheaper, more soluble, slower on and off.
-- **Adverse effects (class):** dose-dependent **hypotension** and myocardial depression, **respiratory depression**, uterine relaxation (relevant in obstetrics), **postoperative nausea and vomiting**, shivering, and **environmental impact** — volatile agents are potent greenhouse gases, which is now a real consideration in agent choice.
-
-> [!danger] **MALIGNANT HYPERTHERMIA — triggered by volatile anaesthetics and by suxamethonium**
-> A rare, inherited (**RYR1**, autosomal dominant) hypermetabolic crisis of skeletal muscle.
-> - **Recognise it:** **unexplained rising end-tidal CO₂** (the earliest and most sensitive sign), tachycardia, **masseter spasm and generalised muscle rigidity**, hyperthermia (a **late** sign — do not wait for it), metabolic and respiratory acidosis, **hyperkalaemia**, arrhythmias, **rhabdomyolysis with myoglobinuria** and acute kidney injury.
-> - **Treat it:** **STOP the trigger** (volatile agent, suxamethonium), call for help and the MH box, **hyperventilate with 100% oxygen** on a clean circuit, and give **DANTROLENE** — the specific antidote, which sources describe as acting on the **RYR1** receptor to block calcium release from the sarcoplasmic reticulum. Then: active cooling, treat hyperkalaemia and arrhythmias, maintain urine output, and admit to intensive care.
-> - **Prevent it:** **ask every patient about personal and family history of anaesthetic problems** before theatre — this is part of the pre-operative assessment an intern does. A positive history means a **trigger-free anaesthetic** and referral for MH testing; family members need counselling and testing too.
-> - **Related but distinct:** **neuroleptic malignant syndrome** and **serotonin syndrome** present with hyperthermia and rigidity but have different triggers and treatment; dantrolene is used in NMS but the drug histories separate them.
-
-### 0.2.4 Inhalational Anaesthetics — Gases (Nitrous Oxide)
-
-- **Mechanism:** NMDA antagonism and other effects; a **weak anaesthetic but a good analgesic**, used as a carrier gas to reduce the required volatile concentration ("second gas effect") and, mixed 50:50 with oxygen (**Entonox**), as a self-administered analgesic in labour, ambulance transport and painful procedures.
-- **Advantages:** rapid on and off, patient-controlled, no cannula required, minimal cardiovascular depression.
-- **Adverse effects and contraindications — three distinct problems:**
-  1. **Expansion of closed air spaces.** Nitrous oxide is far more soluble than nitrogen, so it diffuses into any closed gas-containing space faster than nitrogen leaves — **expanding it**. Sources name the contraindications: **pneumothorax, bowel obstruction, middle-ear disease or recent middle-ear surgery, alveolar bullae**, and also intracranial air, recent intraocular gas injection, and decompression sickness. **A patient with a pneumothorax given Entonox will get a tension pneumothorax.**
-  2. **Vitamin B₁₂ / methionine synthase inactivation.** Sources describe this as **rapid, potent and irreversible**: nitrous oxide oxidises **methylcobalamin**, the cofactor of **methionine synthase**, disrupting methionine and folate metabolism. With prolonged or repeated exposure this causes **megaloblastic anaemia** and **subacute combined degeneration of the cord — a myeloneuropathy**. Contraindicated or hazardous in **known B₁₂ deficiency, pernicious anaemia, MTHFR deficiency**, and the critically ill. **Recreational nitrous oxide use is an increasingly common cause of B₁₂-deficiency myeloneuropathy in young people presenting with paraesthesia and gait disturbance** — ask about it, and remember serum B₁₂ can be normal (check homocysteine and methylmalonic acid). See [[10_06a_Haemonc_-_Macrocytic_Anaemia]].
-  3. **Diffusion hypoxia** on cessation, and **postoperative nausea and vomiting**. Occupational exposure and greenhouse-gas impact are also real considerations.
 
 ## 0.3 Neuromuscular Blockers
 *(covers build-list classes: Depolarising neuromuscular blockers; Non-depolarising neuromuscular blockers; Drugs for reversing neuromuscular blockade)*
@@ -622,134 +622,6 @@
 
 ---
 
-## 0.1 Drugs for Gout
-
-> [!warning] FLAG 2026-09-01 — an AMH chapter is not a clinical grouping
-> `NEW_Drugs_03_Analgesics` contains **gout, migraine and opioid dependence** alongside analgesics
-> because AMH section 3 does. Their clinical homes are `MSK_merged 12_02 §0.2 Gout`,
-> `Neuro_merged ## Migraine` / `D1 §0.3`, and `Psychiatry_merged 14a-1 ## Opioid misuse`.
-> **This is a property of the source's provenance, not a misfile by anyone.** Flagged, nothing moved.
-
-> [!danger] **The single most important prescribing principle in gout: NEVER start, stop or change the dose of a urate-lowering drug during an acute flare unless the patient is already established on it.**
-> Any shift in serum urate — up **or down** — destabilises crystal deposits and precipitates or prolongs an attack. If the patient is **already on allopurinol, continue it unchanged** through the flare. If they are not, treat the flare first and start urate-lowering therapy afterwards, with **flare prophylaxis co-prescribed**.
-
-### 0.1.1 Xanthine Oxidase Inhibitors
-
-- **Mechanism:** inhibit **xanthine oxidase**, the enzyme converting hypoxanthine → xanthine → uric acid, so **less urate is produced**.
-- **Key agents:** **allopurinol** (first-line in Australia), **febuxostat** (second-line).
-- **Indications:** **recurrent gout flares, tophi, urate nephrolithiasis, gouty arthropathy on imaging**, and **tumour lysis syndrome** prophylaxis. **Asymptomatic hyperuricaemia is generally not treated.**
-- **How they are used — "start low, go slow, treat to target":** sources agree allopurinol is **started at a low dose** (lower still in renal impairment) and **titrated every 2–4 weeks against the serum urate**, to a **target below 0.36 mmol/L** (lower where there are tophi or frequent flares). **The dose that matters is the one that reaches target, not the starting dose** — under-titration is the commonest reason gout stays uncontrolled. See `NEW_Investigations_General_and_Preventive.md` 0.5.
-- **Adverse effects — allopurinol:** rash (common and usually benign, but see below); gastrointestinal upset; deranged LFTs; **precipitation of flares on initiation**, which is why prophylaxis is co-prescribed for **at least 3–6 months**; rarely bone marrow suppression.
-
-> [!danger] **ALLOPURINOL HYPERSENSITIVITY SYNDROME (DRESS / SJS-TEN) is rare and can be fatal.**
-> **Any rash on starting allopurinol must be taken seriously and the drug stopped** until it is characterised — a benign-looking maculopapular rash can be the prodrome. Features: rash, **fever, eosinophilia, hepatitis, acute kidney injury**, and mucosal involvement.
-> **Risk factors:** **renal impairment** and a **higher starting dose** (which is the reason for "start low"), diuretic use, and — the pharmacogenomic association — **HLA-B\*58:01**. Sources recommend **testing for HLA-B\*58:01 before starting allopurinol in patients of Korean, Han Chinese, Thai and African ancestry**, where the allele is common. See `NEW_Investigations_General_and_Preventive.md` 0.16.
-
-> [!warning] **Febuxostat is second-line, and cardiovascular safety is why.** Sources describe febuxostat as limited by **increased cardiovascular and all-cause mortality** in trial data, so it is generally reserved for patients intolerant of, or inadequately controlled on, allopurinol — and used with caution in established cardiovascular disease. It requires **less dose adjustment in mild-to-moderate renal impairment** than allopurinol, which is its main advantage.
-
-- **Interactions (both agents):**
-  - **AZATHIOPRINE and MERCAPTOPURINE — the dangerous one.** Xanthine oxidase metabolises them, so inhibiting it causes **massive accumulation and life-threatening myelosuppression**. This combination should generally be avoided; where unavoidable it requires drastic dose reduction and specialist supervision. **Never prescribe allopurinol to a patient on azathioprine without checking.**
-  - **Warfarin, theophylline** — levels may rise.
-  - **Thiazide and loop diuretics** raise urate and worsen gout; **ACE inhibitors, ARBs and aspirin** also affect urate handling. Review the whole medication list — sometimes the best gout treatment is changing an antihypertensive.
-- **Monitoring:** **serum urate to target**, renal and liver function, FBC, and any rash.
-
-### 0.1.2 Other Drugs for Gout
-
-- **Colchicine**
-  - **Mechanism:** binds tubulin, disrupting microtubule assembly and so **neutrophil migration, chemotaxis and inflammasome activation**.
-  - **Use:** acute flares and **flare prophylaxis** when starting urate-lowering therapy (sources support continuing prophylaxis for **at least 3–6 months**).
-  - **Adverse effects — dose-limiting and predictable:** **diarrhoea, nausea, vomiting and abdominal pain**; at higher exposure, **myelosuppression, myopathy, neuropathy and multi-organ failure**. **Colchicine has a narrow therapeutic index and overdose is potentially fatal with no antidote.**
-  - **Dose reduction is required in renal and hepatic impairment and in the elderly** — sources describe reduced dose or reduced frequency in lower creatinine clearance.
-  - **Interactions that cause toxicity:** **clarithromycin and erythromycin, azole antifungals, ciclosporin, verapamil and diltiazem, and statins** — via CYP3A4 and P-glycoprotein. **The colchicine–clarithromycin combination has caused deaths**, and this is a genuinely common prescribing scenario (a patient with gout who gets a chest infection).
-- **Uricosurics — probenecid**
-  - **Mechanism:** blocks renal tubular reabsorption of urate, **increasing urinary excretion**.
-  - **Use:** an option in under-excretors intolerant of xanthine oxidase inhibitors; sources describe it as **minimally effective** and **not recommended when creatinine clearance is below about 30 mL/min**.
-  - **Cautions:** requires **good hydration** — increasing urinary urate risks **urate stones**; contraindicated where there is a history of urolithiasis; interacts with many renally secreted drugs (it was historically used deliberately to prolong penicillin levels).
-- **Corticosteroids** (oral, intra-articular or intramuscular) — a first-line option for acute flares, particularly where NSAIDs and colchicine are contraindicated (renal impairment, anticoagulation, heart failure). **Aspirate the joint and exclude septic arthritis before injecting a steroid into it.**
-- **NSAIDs** — first-line for acute flares in patients without contraindications (see 0.4.2).
-- **Pegloticase (recombinant uricase)** and **IL-1 inhibitors (anakinra, canakinumab)** — specialist agents for refractory or tophaceous gout, or where all else is contraindicated.
-
-> [!danger] **A hot swollen joint is septic arthritis until proven otherwise** — aspirate, Gram stain and culture. A history of gout and a raised urate do not exclude infection, and the two can coexist. See [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]].
-
-## 0.2 Drugs for Migraine
-
-### 0.2.1 Triptans (5-HT₁B/₁D Agonists)
-*(covers build-list classes: Triptans; Triptans (5-HT1B/1D Agonists))*
-
-- **Mechanism:** agonists at **5-HT₁B** (cranial vasoconstriction) and **5-HT₁D/1F** (inhibition of trigeminal nociceptive transmission and of CGRP and other neuropeptide release). They are **migraine-specific acute treatments**, not general analgesics.
-- **Key agents:** **sumatriptan** (oral, **subcutaneous** and intranasal — the subcutaneous route is the fastest and most reliable, and matters in severe attacks and in cluster headache), **rizatriptan, zolmitriptan, naratriptan, eletriptan, almotriptan, frovatriptan**.
-- **Indications:** **acute treatment of moderate-to-severe migraine**, and **cluster headache** (subcutaneous or intranasal sumatriptan, plus high-flow oxygen).
-- **How to use them well — the practical points that determine whether they work:**
-  - **Take early in the attack**, while the pain is still mild — efficacy falls once central sensitisation and allodynia are established.
-  - **If one triptan fails, another may work** — non-response to one does not predict non-response to the class, and switching is a standard step.
-  - **Gastric stasis in migraine impairs oral absorption**; co-administering an antiemetic (metoclopramide, prochlorperazine, domperidone) improves both nausea and drug absorption. Non-oral routes bypass the problem entirely.
-- **Adverse effects:** **"triptan sensations"** — chest, throat, neck and jaw tightness, pressure or heaviness; flushing, paraesthesia, dizziness, drowsiness. These are common, usually benign and **not** typically cardiac — but a first episode of chest tightness needs assessment rather than assumption.
-- **Contraindications:** sources and product labelling agree — **ischaemic heart disease or previous myocardial infarction, coronary vasospasm (Prinzmetal angina), stroke or TIA, peripheral vascular disease, uncontrolled hypertension**, hemiplegic and basilar migraine, and severe hepatic impairment. **The absolute risk of a vascular event is very low** — sources describe roughly 1 in 30,000 initiators — but the contraindications stand.
-
-> [!danger] **Do not give a triptan within 24 hours of an ergot alkaloid, or an ergot within 6 hours of a triptan** — sources state both intervals explicitly. The additive vasoconstriction is the reason.
-
-- **Interactions:** **MAOIs** (sumatriptan, rizatriptan, zolmitriptan are metabolised by MAO-A); **serotonergic drugs** — the risk of serotonin syndrome with SSRIs and SNRIs is described but is now considered low, and is not a reason to withhold a triptan from a patient on an antidepressant without discussion; propranolol raises rizatriptan levels.
-
-> [!danger] **Not every severe headache is a migraine, and triptans do not treat the dangerous causes.** Red flags — **thunderclap onset, first or worst headache, fever with meningism, new headache over 50, focal neurology, papilloedema, immunosuppression or cancer, headache worse lying flat or on waking, pregnancy/postpartum, or a change in a long-standing headache pattern** — require investigation, not an acute migraine treatment. See [[04_Neurology]].
-
-### 0.2.2 Ergot Alkaloids (5-HT Agonists)
-
-- **Key agents:** **ergotamine** (usually with caffeine), **dihydroergotamine**.
-- **Mechanism:** non-selective agonism at serotonin, dopamine and **α-adrenergic** receptors — hence potent and prolonged **vasoconstriction**, which is both the therapeutic effect and the problem.
-- **Role:** **largely superseded by triptans** and now rarely first-line. Retained for occasional patients with long-duration attacks who respond to nothing else.
-- **Adverse effects:** nausea and vomiting (prominent), **peripheral vasoconstriction and ischaemia (ergotism)**, muscle cramps, and **a strong tendency to cause medication overuse headache and rebound**.
-- **Contraindications:** sources list **peripheral vascular disease, coronary artery disease, uncontrolled hypertension, stroke, severe renal or hepatic impairment**, and **pregnancy** (ergot alkaloids are uterotonic and are teratogenic).
-- **Interactions:** **potent CYP3A4 inhibitors — macrolides, azole antifungals, HIV protease inhibitors — can precipitate severe ergotism**; and the triptan spacing rule above.
-
-### 0.2.3 Calcitonin Gene-Related Peptide (CGRP) Antagonists
-*(covers build-list classes: CGRP Antagonists (Monoclonal Antibodies); Calcitonin gene-related peptide antagonists)*
-
-- **Mechanism:** CGRP is a neuropeptide released from trigeminal afferents that is central to migraine pathophysiology. Two drug types block it:
-  - **Monoclonal antibodies** — against the **CGRP ligand** (fremanezumab, galcanezumab, eptinezumab) or the **CGRP receptor** (erenumab). Given by **subcutaneous injection monthly or quarterly** (eptinezumab intravenously).
-  - **Small-molecule receptor antagonists ("gepants")** — oral, used acutely and, for some agents, preventively.
-- **Indications:** **migraine prevention**, in Australia typically after failure of several conventional preventives, with **PBS authority criteria** governing access (chronic migraine, documented failure of prior preventives, and required response for continuation). **Check the current PBS criteria — they change.**
-- **Evidence:** sources report all four monoclonal antibodies are **safe and effective for prevention**, with **no cardiovascular or immunological safety signals in trials**, and note particular value in the **most disabled subgroups — chronic migraine, multiple prior preventive failures, and medication overuse headache**.
-- **Adverse effects:** **injection site reactions** (the commonest), **constipation** (notably with erenumab), hypertension, and hypersensitivity. Long-term safety data are still accumulating — CGRP is a vasodilator with a physiological role, so caution is advised in significant vascular disease despite reassuring trial data.
-- **Practical points:** they are **preventives, not acute treatments** (except the acute gepants); assess response over **about 3 months** before judging them; **avoid in pregnancy** (long half-life; discuss contraception and planning).
-
-### 0.2.4 Other Drugs to Prevent Migraine
-*(covers build-list class: Migraine Therapies (Calcium Channel Blockers))*
-
-- **When to offer prevention:** frequent, disabling or prolonged attacks, poor response to or overuse of acute treatment, or hemiplegic/brainstem-aura migraine. **A headache diary is part of the assessment and of measuring response.**
-- **The conventional classes, all of which are drugs borrowed from other indications:**
-  - **β-blockers — propranolol, metoprolol.** Best evidence, often first choice. **Avoid in asthma**; caution in depression, bradycardia and peripheral vascular disease.
-  - **Tricyclic antidepressants — amitriptyline, nortriptyline.** Particularly useful with **coexisting tension-type headache, insomnia or chronic pain**. Anticholinergic effects, sedation, weight gain, QT prolongation.
-  - **Anticonvulsants — topiramate, sodium valproate.** Topiramate: paraesthesia, cognitive slowing ("word-finding difficulty"), weight loss, renal stones, **acute angle-closure glaucoma**, and **teratogenicity**.
-  - **Calcium channel blockers — verapamil, flunarizine, pizotifen** (a serotonin antagonist grouped here in some references). **Verapamil is first-line for CLUSTER headache prevention** (requiring ECG monitoring for heart block as the dose rises) rather than for migraine, and this distinction is worth holding.
-  - **Candesartan** — an ARB with reasonable evidence in prevention.
-  - **Botulinum toxin type A** — for **chronic migraine** specifically (≥15 headache days per month), under specialist protocol.
-  - **Riboflavin, magnesium, coenzyme Q10** — modest evidence, low harm.
-
-> [!danger] **VALPROATE AND TOPIRAMATE IN PEOPLE WHO CAN BECOME PREGNANT**
-> **Sodium valproate is highly teratogenic** — neural tube defects, other major malformations, and a substantial risk of **neurodevelopmental disorder** — and **must not be used for migraine prevention in anyone who could become pregnant** other than under specialist supervision with a formal pregnancy prevention programme. **Topiramate is also teratogenic** and additionally **reduces the efficacy of combined hormonal contraception at higher doses**. Migraine predominantly affects women of reproductive age, so **this is not an edge case — it is the main population being prescribed to.** Discuss contraception and pregnancy planning explicitly before prescribing either.
-
-> [!danger] **MEDICATION OVERUSE HEADACHE — always ask, because it is the reason the preventives are not working.**
-> Sources give the ICHD definition: **headache on ≥15 days per month for more than 3 months in a patient with a pre-existing primary headache disorder, caused by overuse of acute headache medication.** The thresholds differ by drug class — **simple analgesics** at a higher frequency, and **triptans, ergots, opioids and combination analgesics** at a lower one. Risk factors named include **female sex, psychiatric comorbidity, pre-existing pain and medication use**.
-> **Management** is to **withdraw the overused drug** (with warning that headache worsens transiently), start or optimise a **preventive**, and support the patient through it — CGRP antibodies are noted to be effective in this group. **A patient using acute treatment more than about two days a week needs prevention, not more acute treatment.**
-
-## 0.3 Drugs for Opioid Dependence
-
-- **Scope:** **opioid agonist treatment (OAT)** — the evidence-based, long-term management of opioid dependence — plus **naltrexone** for relapse prevention and **naloxone** for overdose reversal (0.4.6).
-- **Methadone** — a **full µ-agonist**, long half-life, given as a daily oral liquid, historically usually under **supervised dosing**.
-  - **Advantages:** long track record; effective; suits patients needing full agonist activity.
-  - **Risks:** **respiratory depression, particularly during induction and dose increases**, when the half-life exceeds the duration of the analgesic effect and levels accumulate over days — **most methadone deaths occur in the first two weeks of treatment**. **QT prolongation and torsades de pointes** (dose-related; ECG monitoring is required, more so at higher doses and with other QT-prolonging drugs). Numerous CYP interactions.
-- **Buprenorphine and buprenorphine/naloxone** — buprenorphine is a **partial µ-agonist** with **high receptor affinity** and a **ceiling on respiratory depression**, which makes it substantially safer in overdose than methadone. The **naloxone** component in the combination product is poorly absorbed sublingually and is there to deter injection.
-  - **PRECIPITATED WITHDRAWAL** is the characteristic hazard: because buprenorphine binds more avidly than full agonists but activates less, **giving it to someone with a full agonist still on board displaces it and precipitates acute severe withdrawal**. Induction therefore requires the patient to be **in objective withdrawal first**, and is done to protocol by an experienced prescriber.
-  - **Long-acting injectable buprenorphine (LAIB)** — sources describe **weekly and monthly depot formulations (Buvidal, Sublocade) available in Australia since April 2020**, removing the need for daily supervised dosing. Uptake has been rapid: sources report that by December 2022 Australian treatment was roughly **48% methadone, 26% sublingual buprenorphine and 26% long-acting injectable buprenorphine**, and that **buprenorphine has overtaken methadone as the most common opioid agonist medicine in Australia**.
-- **Naltrexone** — a **µ-antagonist** used for relapse prevention after detoxification (and in alcohol use disorder). It **blocks** opioid effects rather than substituting for them, and adherence is the limiting factor. **The patient must be fully opioid-free before starting or it precipitates withdrawal**, and **tolerance is lost while taking it — so overdose risk on relapse is very high.**
-
-> [!danger] **Things an intern must get right around opioid agonist treatment**
-> - **NEVER omit or "hold" a patient's regular methadone or buprenorphine dose without specialist advice**, and **confirm the dose and the last dispensed date with the dosing pharmacy or clinic before prescribing it** — a missed dose causes withdrawal, and a wrong dose can be fatal. Tolerance is lost after a few days off treatment.
-> - **OAT is a maintenance treatment; it does not provide analgesia for acute pain.** A patient on methadone or buprenorphine with a fracture or after surgery **needs their usual OAT dose continued AND additional analgesia**, often at higher opioid doses than usual because of tolerance and, with buprenorphine, receptor occupancy. Withholding analgesia because "they're on methadone" is a recognised and inhumane failure.
-> - **Take-home naloxone** should be offered to anyone at risk of opioid overdose and to their household — it is available in Australia without prescription through the **Take Home Naloxone program**.
-> - **Stigma is a clinical problem.** Document the treatment neutrally, involve the addiction medicine service early, and do not discharge a dependent patient without a plan.
-> - See [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]].
-
 ## 0.4 Drugs for Pain Relief
 
 > [!info] **The framework.** Use the **analgesic ladder** as a starting structure but not a rule: **non-opioid → weak opioid → strong opioid**, with **adjuvants at every step**. Modern practice is **multimodal** — combining paracetamol, an NSAID (if safe), a regional or local anaesthetic technique, and adjuvants (gabapentinoids, ketamine, antidepressants for neuropathic pain) to **minimise opioid dose**. In chronic non-cancer pain, opioids have **poor long-term evidence and substantial harm**, and non-pharmacological management is central.
@@ -846,6 +718,134 @@
 - **Peripherally acting antagonists — methylnaltrexone, naloxegol, and naloxone in fixed combination with oxycodone.** These block **gut** µ-receptors to treat **opioid-induced constipation** without crossing the blood–brain barrier, so analgesia is preserved. Useful when standard aperients fail, particularly in palliative care.
 
 ---
+
+## 0.2 Drugs for Migraine
+
+### 0.2.1 Triptans (5-HT₁B/₁D Agonists)
+*(covers build-list classes: Triptans; Triptans (5-HT1B/1D Agonists))*
+
+- **Mechanism:** agonists at **5-HT₁B** (cranial vasoconstriction) and **5-HT₁D/1F** (inhibition of trigeminal nociceptive transmission and of CGRP and other neuropeptide release). They are **migraine-specific acute treatments**, not general analgesics.
+- **Key agents:** **sumatriptan** (oral, **subcutaneous** and intranasal — the subcutaneous route is the fastest and most reliable, and matters in severe attacks and in cluster headache), **rizatriptan, zolmitriptan, naratriptan, eletriptan, almotriptan, frovatriptan**.
+- **Indications:** **acute treatment of moderate-to-severe migraine**, and **cluster headache** (subcutaneous or intranasal sumatriptan, plus high-flow oxygen).
+- **How to use them well — the practical points that determine whether they work:**
+  - **Take early in the attack**, while the pain is still mild — efficacy falls once central sensitisation and allodynia are established.
+  - **If one triptan fails, another may work** — non-response to one does not predict non-response to the class, and switching is a standard step.
+  - **Gastric stasis in migraine impairs oral absorption**; co-administering an antiemetic (metoclopramide, prochlorperazine, domperidone) improves both nausea and drug absorption. Non-oral routes bypass the problem entirely.
+- **Adverse effects:** **"triptan sensations"** — chest, throat, neck and jaw tightness, pressure or heaviness; flushing, paraesthesia, dizziness, drowsiness. These are common, usually benign and **not** typically cardiac — but a first episode of chest tightness needs assessment rather than assumption.
+- **Contraindications:** sources and product labelling agree — **ischaemic heart disease or previous myocardial infarction, coronary vasospasm (Prinzmetal angina), stroke or TIA, peripheral vascular disease, uncontrolled hypertension**, hemiplegic and basilar migraine, and severe hepatic impairment. **The absolute risk of a vascular event is very low** — sources describe roughly 1 in 30,000 initiators — but the contraindications stand.
+
+> [!danger] **Do not give a triptan within 24 hours of an ergot alkaloid, or an ergot within 6 hours of a triptan** — sources state both intervals explicitly. The additive vasoconstriction is the reason.
+
+- **Interactions:** **MAOIs** (sumatriptan, rizatriptan, zolmitriptan are metabolised by MAO-A); **serotonergic drugs** — the risk of serotonin syndrome with SSRIs and SNRIs is described but is now considered low, and is not a reason to withhold a triptan from a patient on an antidepressant without discussion; propranolol raises rizatriptan levels.
+
+> [!danger] **Not every severe headache is a migraine, and triptans do not treat the dangerous causes.** Red flags — **thunderclap onset, first or worst headache, fever with meningism, new headache over 50, focal neurology, papilloedema, immunosuppression or cancer, headache worse lying flat or on waking, pregnancy/postpartum, or a change in a long-standing headache pattern** — require investigation, not an acute migraine treatment. See [[04_Neurology]].
+
+### 0.2.2 Ergot Alkaloids (5-HT Agonists)
+
+- **Key agents:** **ergotamine** (usually with caffeine), **dihydroergotamine**.
+- **Mechanism:** non-selective agonism at serotonin, dopamine and **α-adrenergic** receptors — hence potent and prolonged **vasoconstriction**, which is both the therapeutic effect and the problem.
+- **Role:** **largely superseded by triptans** and now rarely first-line. Retained for occasional patients with long-duration attacks who respond to nothing else.
+- **Adverse effects:** nausea and vomiting (prominent), **peripheral vasoconstriction and ischaemia (ergotism)**, muscle cramps, and **a strong tendency to cause medication overuse headache and rebound**.
+- **Contraindications:** sources list **peripheral vascular disease, coronary artery disease, uncontrolled hypertension, stroke, severe renal or hepatic impairment**, and **pregnancy** (ergot alkaloids are uterotonic and are teratogenic).
+- **Interactions:** **potent CYP3A4 inhibitors — macrolides, azole antifungals, HIV protease inhibitors — can precipitate severe ergotism**; and the triptan spacing rule above.
+
+### 0.2.3 Calcitonin Gene-Related Peptide (CGRP) Antagonists
+*(covers build-list classes: CGRP Antagonists (Monoclonal Antibodies); Calcitonin gene-related peptide antagonists)*
+
+- **Mechanism:** CGRP is a neuropeptide released from trigeminal afferents that is central to migraine pathophysiology. Two drug types block it:
+  - **Monoclonal antibodies** — against the **CGRP ligand** (fremanezumab, galcanezumab, eptinezumab) or the **CGRP receptor** (erenumab). Given by **subcutaneous injection monthly or quarterly** (eptinezumab intravenously).
+  - **Small-molecule receptor antagonists ("gepants")** — oral, used acutely and, for some agents, preventively.
+- **Indications:** **migraine prevention**, in Australia typically after failure of several conventional preventives, with **PBS authority criteria** governing access (chronic migraine, documented failure of prior preventives, and required response for continuation). **Check the current PBS criteria — they change.**
+- **Evidence:** sources report all four monoclonal antibodies are **safe and effective for prevention**, with **no cardiovascular or immunological safety signals in trials**, and note particular value in the **most disabled subgroups — chronic migraine, multiple prior preventive failures, and medication overuse headache**.
+- **Adverse effects:** **injection site reactions** (the commonest), **constipation** (notably with erenumab), hypertension, and hypersensitivity. Long-term safety data are still accumulating — CGRP is a vasodilator with a physiological role, so caution is advised in significant vascular disease despite reassuring trial data.
+- **Practical points:** they are **preventives, not acute treatments** (except the acute gepants); assess response over **about 3 months** before judging them; **avoid in pregnancy** (long half-life; discuss contraception and planning).
+
+### 0.2.4 Other Drugs to Prevent Migraine
+*(covers build-list class: Migraine Therapies (Calcium Channel Blockers))*
+
+- **When to offer prevention:** frequent, disabling or prolonged attacks, poor response to or overuse of acute treatment, or hemiplegic/brainstem-aura migraine. **A headache diary is part of the assessment and of measuring response.**
+- **The conventional classes, all of which are drugs borrowed from other indications:**
+  - **β-blockers — propranolol, metoprolol.** Best evidence, often first choice. **Avoid in asthma**; caution in depression, bradycardia and peripheral vascular disease.
+  - **Tricyclic antidepressants — amitriptyline, nortriptyline.** Particularly useful with **coexisting tension-type headache, insomnia or chronic pain**. Anticholinergic effects, sedation, weight gain, QT prolongation.
+  - **Anticonvulsants — topiramate, sodium valproate.** Topiramate: paraesthesia, cognitive slowing ("word-finding difficulty"), weight loss, renal stones, **acute angle-closure glaucoma**, and **teratogenicity**.
+  - **Calcium channel blockers — verapamil, flunarizine, pizotifen** (a serotonin antagonist grouped here in some references). **Verapamil is first-line for CLUSTER headache prevention** (requiring ECG monitoring for heart block as the dose rises) rather than for migraine, and this distinction is worth holding.
+  - **Candesartan** — an ARB with reasonable evidence in prevention.
+  - **Botulinum toxin type A** — for **chronic migraine** specifically (≥15 headache days per month), under specialist protocol.
+  - **Riboflavin, magnesium, coenzyme Q10** — modest evidence, low harm.
+
+> [!danger] **VALPROATE AND TOPIRAMATE IN PEOPLE WHO CAN BECOME PREGNANT**
+> **Sodium valproate is highly teratogenic** — neural tube defects, other major malformations, and a substantial risk of **neurodevelopmental disorder** — and **must not be used for migraine prevention in anyone who could become pregnant** other than under specialist supervision with a formal pregnancy prevention programme. **Topiramate is also teratogenic** and additionally **reduces the efficacy of combined hormonal contraception at higher doses**. Migraine predominantly affects women of reproductive age, so **this is not an edge case — it is the main population being prescribed to.** Discuss contraception and pregnancy planning explicitly before prescribing either.
+
+> [!danger] **MEDICATION OVERUSE HEADACHE — always ask, because it is the reason the preventives are not working.**
+> Sources give the ICHD definition: **headache on ≥15 days per month for more than 3 months in a patient with a pre-existing primary headache disorder, caused by overuse of acute headache medication.** The thresholds differ by drug class — **simple analgesics** at a higher frequency, and **triptans, ergots, opioids and combination analgesics** at a lower one. Risk factors named include **female sex, psychiatric comorbidity, pre-existing pain and medication use**.
+> **Management** is to **withdraw the overused drug** (with warning that headache worsens transiently), start or optimise a **preventive**, and support the patient through it — CGRP antibodies are noted to be effective in this group. **A patient using acute treatment more than about two days a week needs prevention, not more acute treatment.**
+
+## 0.1 Drugs for Gout
+
+> [!warning] FLAG 2026-09-01 — an AMH chapter is not a clinical grouping
+> `NEW_Drugs_03_Analgesics` contains **gout, migraine and opioid dependence** alongside analgesics
+> because AMH section 3 does. Their clinical homes are `MSK_merged 12_02 §0.2 Gout`,
+> `Neuro_merged ## Migraine` / `D1 §0.3`, and `Psychiatry_merged 14a-1 ## Opioid misuse`.
+> **This is a property of the source's provenance, not a misfile by anyone.** Flagged, nothing moved.
+
+> [!danger] **The single most important prescribing principle in gout: NEVER start, stop or change the dose of a urate-lowering drug during an acute flare unless the patient is already established on it.**
+> Any shift in serum urate — up **or down** — destabilises crystal deposits and precipitates or prolongs an attack. If the patient is **already on allopurinol, continue it unchanged** through the flare. If they are not, treat the flare first and start urate-lowering therapy afterwards, with **flare prophylaxis co-prescribed**.
+
+### 0.1.1 Xanthine Oxidase Inhibitors
+
+- **Mechanism:** inhibit **xanthine oxidase**, the enzyme converting hypoxanthine → xanthine → uric acid, so **less urate is produced**.
+- **Key agents:** **allopurinol** (first-line in Australia), **febuxostat** (second-line).
+- **Indications:** **recurrent gout flares, tophi, urate nephrolithiasis, gouty arthropathy on imaging**, and **tumour lysis syndrome** prophylaxis. **Asymptomatic hyperuricaemia is generally not treated.**
+- **How they are used — "start low, go slow, treat to target":** sources agree allopurinol is **started at a low dose** (lower still in renal impairment) and **titrated every 2–4 weeks against the serum urate**, to a **target below 0.36 mmol/L** (lower where there are tophi or frequent flares). **The dose that matters is the one that reaches target, not the starting dose** — under-titration is the commonest reason gout stays uncontrolled. See `NEW_Investigations_General_and_Preventive.md` 0.5.
+- **Adverse effects — allopurinol:** rash (common and usually benign, but see below); gastrointestinal upset; deranged LFTs; **precipitation of flares on initiation**, which is why prophylaxis is co-prescribed for **at least 3–6 months**; rarely bone marrow suppression.
+
+> [!danger] **ALLOPURINOL HYPERSENSITIVITY SYNDROME (DRESS / SJS-TEN) is rare and can be fatal.**
+> **Any rash on starting allopurinol must be taken seriously and the drug stopped** until it is characterised — a benign-looking maculopapular rash can be the prodrome. Features: rash, **fever, eosinophilia, hepatitis, acute kidney injury**, and mucosal involvement.
+> **Risk factors:** **renal impairment** and a **higher starting dose** (which is the reason for "start low"), diuretic use, and — the pharmacogenomic association — **HLA-B\*58:01**. Sources recommend **testing for HLA-B\*58:01 before starting allopurinol in patients of Korean, Han Chinese, Thai and African ancestry**, where the allele is common. See `NEW_Investigations_General_and_Preventive.md` 0.16.
+
+> [!warning] **Febuxostat is second-line, and cardiovascular safety is why.** Sources describe febuxostat as limited by **increased cardiovascular and all-cause mortality** in trial data, so it is generally reserved for patients intolerant of, or inadequately controlled on, allopurinol — and used with caution in established cardiovascular disease. It requires **less dose adjustment in mild-to-moderate renal impairment** than allopurinol, which is its main advantage.
+
+- **Interactions (both agents):**
+  - **AZATHIOPRINE and MERCAPTOPURINE — the dangerous one.** Xanthine oxidase metabolises them, so inhibiting it causes **massive accumulation and life-threatening myelosuppression**. This combination should generally be avoided; where unavoidable it requires drastic dose reduction and specialist supervision. **Never prescribe allopurinol to a patient on azathioprine without checking.**
+  - **Warfarin, theophylline** — levels may rise.
+  - **Thiazide and loop diuretics** raise urate and worsen gout; **ACE inhibitors, ARBs and aspirin** also affect urate handling. Review the whole medication list — sometimes the best gout treatment is changing an antihypertensive.
+- **Monitoring:** **serum urate to target**, renal and liver function, FBC, and any rash.
+
+### 0.1.2 Other Drugs for Gout
+
+- **Colchicine**
+  - **Mechanism:** binds tubulin, disrupting microtubule assembly and so **neutrophil migration, chemotaxis and inflammasome activation**.
+  - **Use:** acute flares and **flare prophylaxis** when starting urate-lowering therapy (sources support continuing prophylaxis for **at least 3–6 months**).
+  - **Adverse effects — dose-limiting and predictable:** **diarrhoea, nausea, vomiting and abdominal pain**; at higher exposure, **myelosuppression, myopathy, neuropathy and multi-organ failure**. **Colchicine has a narrow therapeutic index and overdose is potentially fatal with no antidote.**
+  - **Dose reduction is required in renal and hepatic impairment and in the elderly** — sources describe reduced dose or reduced frequency in lower creatinine clearance.
+  - **Interactions that cause toxicity:** **clarithromycin and erythromycin, azole antifungals, ciclosporin, verapamil and diltiazem, and statins** — via CYP3A4 and P-glycoprotein. **The colchicine–clarithromycin combination has caused deaths**, and this is a genuinely common prescribing scenario (a patient with gout who gets a chest infection).
+- **Uricosurics — probenecid**
+  - **Mechanism:** blocks renal tubular reabsorption of urate, **increasing urinary excretion**.
+  - **Use:** an option in under-excretors intolerant of xanthine oxidase inhibitors; sources describe it as **minimally effective** and **not recommended when creatinine clearance is below about 30 mL/min**.
+  - **Cautions:** requires **good hydration** — increasing urinary urate risks **urate stones**; contraindicated where there is a history of urolithiasis; interacts with many renally secreted drugs (it was historically used deliberately to prolong penicillin levels).
+- **Corticosteroids** (oral, intra-articular or intramuscular) — a first-line option for acute flares, particularly where NSAIDs and colchicine are contraindicated (renal impairment, anticoagulation, heart failure). **Aspirate the joint and exclude septic arthritis before injecting a steroid into it.**
+- **NSAIDs** — first-line for acute flares in patients without contraindications (see 0.4.2).
+- **Pegloticase (recombinant uricase)** and **IL-1 inhibitors (anakinra, canakinumab)** — specialist agents for refractory or tophaceous gout, or where all else is contraindicated.
+
+> [!danger] **A hot swollen joint is septic arthritis until proven otherwise** — aspirate, Gram stain and culture. A history of gout and a raised urate do not exclude infection, and the two can coexist. See [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]].
+
+## 0.3 Drugs for Opioid Dependence
+
+- **Scope:** **opioid agonist treatment (OAT)** — the evidence-based, long-term management of opioid dependence — plus **naltrexone** for relapse prevention and **naloxone** for overdose reversal (0.4.6).
+- **Methadone** — a **full µ-agonist**, long half-life, given as a daily oral liquid, historically usually under **supervised dosing**.
+  - **Advantages:** long track record; effective; suits patients needing full agonist activity.
+  - **Risks:** **respiratory depression, particularly during induction and dose increases**, when the half-life exceeds the duration of the analgesic effect and levels accumulate over days — **most methadone deaths occur in the first two weeks of treatment**. **QT prolongation and torsades de pointes** (dose-related; ECG monitoring is required, more so at higher doses and with other QT-prolonging drugs). Numerous CYP interactions.
+- **Buprenorphine and buprenorphine/naloxone** — buprenorphine is a **partial µ-agonist** with **high receptor affinity** and a **ceiling on respiratory depression**, which makes it substantially safer in overdose than methadone. The **naloxone** component in the combination product is poorly absorbed sublingually and is there to deter injection.
+  - **PRECIPITATED WITHDRAWAL** is the characteristic hazard: because buprenorphine binds more avidly than full agonists but activates less, **giving it to someone with a full agonist still on board displaces it and precipitates acute severe withdrawal**. Induction therefore requires the patient to be **in objective withdrawal first**, and is done to protocol by an experienced prescriber.
+  - **Long-acting injectable buprenorphine (LAIB)** — sources describe **weekly and monthly depot formulations (Buvidal, Sublocade) available in Australia since April 2020**, removing the need for daily supervised dosing. Uptake has been rapid: sources report that by December 2022 Australian treatment was roughly **48% methadone, 26% sublingual buprenorphine and 26% long-acting injectable buprenorphine**, and that **buprenorphine has overtaken methadone as the most common opioid agonist medicine in Australia**.
+- **Naltrexone** — a **µ-antagonist** used for relapse prevention after detoxification (and in alcohol use disorder). It **blocks** opioid effects rather than substituting for them, and adherence is the limiting factor. **The patient must be fully opioid-free before starting or it precipitates withdrawal**, and **tolerance is lost while taking it — so overdose risk on relapse is very high.**
+
+> [!danger] **Things an intern must get right around opioid agonist treatment**
+> - **NEVER omit or "hold" a patient's regular methadone or buprenorphine dose without specialist advice**, and **confirm the dose and the last dispensed date with the dosing pharmacy or clinic before prescribing it** — a missed dose causes withdrawal, and a wrong dose can be fatal. Tolerance is lost after a few days off treatment.
+> - **OAT is a maintenance treatment; it does not provide analgesia for acute pain.** A patient on methadone or buprenorphine with a fracture or after surgery **needs their usual OAT dose continued AND additional analgesia**, often at higher opioid doses than usual because of tolerance and, with buprenorphine, receptor occupancy. Withholding analgesia because "they're on methadone" is a recognised and inhumane failure.
+> - **Take-home naloxone** should be offered to anyone at risk of opioid overdose and to their household — it is available in Australia without prescription through the **Take Home Naloxone program**.
+> - **Stigma is a clinical problem.** Document the treatment neutrally, involve the addiction medicine service early, and do not discharge a dependent patient without a plan.
+> - See [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]].
 
 ## Build status
 
