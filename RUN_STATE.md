@@ -170,3 +170,63 @@ generated one of each per presentation.
   `04_Neurology ### CSF Interpretation` · plus GI M-1 (`## 0.32 CSF Studies`), which the user
   approved moving **to Neuro**. Recommend redirecting M-1 to Investigation-Interpretation.
   **Needs a user ruling.**
+
+---
+
+## PART A EXECUTED (2026-09-01) — A1 to A7
+
+The user ruled on the ledger and authorised PART A only. **PART B is untouched** and needs
+individual approval by destination.
+
+| | What | Commit | Verified by |
+|---|---|---|---|
+| **A1** | `N1`–`N8` (8 whole sources, 1,624 lines) `Neuro_merged.md` → `Psychiatry_merged.md` | `f5e49c9` | block sha256 `b395c26c7c69a568` identical before/after · Neuro 5,867→4,243 · Psych 1,405→3,029 · 8 `SOURCE: N#_` dividers present in order, **0 left in Neuro** · duplicate-header counts unchanged vs `git show HEAD:` |
+| **A1** | `GER3` (196 lines) and `GER4` (224 lines) out of `Geriatrics_merged.md` | `16a9386` | Geriatrics 1,347→928 · remainder byte-matching · content identical apart from trailing blanks |
+| **A2** | Four new files created: `Procedures.md` · `Safeguarding.md` · `Preventive-Health.md` · `Palliative-and-End-of-Life-Care.md` | `16a9386` | vault grepped before creation (§1.14) · `Preventive-Health` holds `GER3` whole, `Safeguarding` holds `GER4` whole, the other two are scaffolds with manifests |
+| **A3/A4/A5** | **80 in-text flags** across all 19 system files, incl. GI's `M-10`, `M-17`, `M-18`; both ends of the three two-way disagreements; the `CF-PAIR` markers and the `N1 §0.5` verification warning on both SA mental health law copies | `90dc93f` | `applyflags.py` refuses any anchor matching ≠1 time — **80 applied, 0 failed to anchor** |
+| **A6** | Trauma report — **report only, nothing moved**, `M-6` NOT executed | `cfba800` | `_meta/flags/_TRAUMA.md` |
+| **A7** | Rule 5 figure inventory — **report only** | `cfba800` | `_meta/flags/_RULE5_FIGURES.md` · 11 spans, 48 figure-bearing lines, line numbers re-verified post-A1/A3 |
+| — | Psychiatry section groupings, produced now the file is whole | `cfba800` | 12 groups over 175 sections, 19 not-groupable, **0 unaccounted** (`scratchpad/recon.py`) |
+| — | All 248 move rows grouped **by destination**, 15 blocks | this commit | `_meta/flags/_BY_DESTINATION.md` |
+
+### The A1 retarget finding — measured, and it contradicts the instruction's premise
+
+The ruling required retargeting every inbound pointer. **There was nothing to retarget.**
+209 `[[N1]]`–`[[N8]]` references exist; **none broke**, because wikilinks in this corpus name
+the **source** file, which the move did not rename. 84 `[[GER3]]`/`[[GER4]]` references
+likewise. `dangling` still 1 (the deliberate `[[B2]] 0.5`), `misaimed` 0, drift map unchanged.
+
+**What did change is reachability: 45 references flipped intra-file → cross-file** (9 `[[N#]]`
+left in Neuro, 36 `[[D#]]` carried into Psychiatry). **Locator notes were added at all three
+ends** instead of a retarget — that is the correct repair for a reachability change, and
+rewriting 209 correct links would have been damage.
+
+## FOURTH TOOL DEFECT (found while building `_BY_DESTINATION.md`, fixed) — CLAUDE.md rule 9
+
+The evidence classifier keyed on the flag-row ID alone. **`P-5`, `P-6` and `P-7` each exist
+in two different flag files** (GP and Paediatrics), as do **`R-2`, `R-3` and `R-6`** (Resp and
+Geriatrics). Three rows were silently marked with another row's evidence class — the false-hit
+direction of rule 9, on an identifier rather than a substring.
+
+**Found by counting the emitted column**, which returned `13 / 213 / 22` where the header
+asserted `12 / 205 / 31`. Re-keyed on `(file, id)`; corrected output `12 / 19 / 217`, quoted
+verbatim in the report. **The check that caught it was running the count instead of trusting
+the input set** — rule 11 in its ordinary form.
+
+## RESUME POINT
+
+**Everything the user asked for in the PART A message has been delivered.** Nothing is
+half-done. The next action is the user's: **approve destinations**, not rows.
+
+**Blocked on user ruling, in the order they matter:**
+1. `Investigation-Interpretation.md` — 59 rows, the largest block, and it creates the corpus's
+   first general ECG entry. **9 known duplicate pairs to be marked, never merged.**
+2. Trauma as one question across four files (`_TRAUMA.md`) — `M-6` withdrawn pending this.
+3. `M-1` (CSF) and `M-2` (Coombs/DAT) — approvals withdrawn, recommendations recorded.
+4. The 39 rows with **no destination proposed**.
+5. Clinical Process file combinations (`_Clinical_Process_set.md`) — none executed.
+
+**Standing prohibitions until then:** no section moves beyond A1's · no moves to
+Investigation-Interpretation, Examination, History-Taking, Emergency, Paediatrics or any
+system file · no Clinical Process combinations · **no merging of any duplicate pair, anywhere**
+· nothing from the 11 approved-but-unexecuted rows.
