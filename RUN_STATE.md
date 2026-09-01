@@ -447,3 +447,67 @@ Now committed and self-testing (`scripts/checkall.sh`, all self-tests passing):
 
 **What is still NOT automated:** nothing forces a row's line number to be re-checked before
 execution. `reanchor.py` makes it cheap; only the banner makes it expected.
+
+---
+
+## `gapcheck.py` — WHAT WAS ACTUALLY RUN FOR THE EARLIER ABSENT VERDICTS
+
+**Plainly: it was never this repository's code, because this repository had none.**
+
+Established against all 33 commits: before `fab04f5` (2026-09-01) the repo contained **69 `.md`
+files, one `.csv`, and zero scripts**. The path `scripts/gapcheck.py` that CLAUDE.md §1.3 names
+at line 228 **did not exist**. So:
+
+- **In this session I never ran it, not once.** Every gap and presence check I made used plain
+  `grep`, `dangling.py`, `misaimed.py`, `drift.py`, or matchers written in the scratchpad. Twice
+  I put `cut` on a grep feeding a verdict — the thing rule 10 prohibits as a **hard prohibition**
+  — and caught it myself only on the second occasion (the dermatome/Tinel check).
+- **For the earlier C-block audits, paste-era gap checks and OSCE pair checks I cannot say what
+  ran**, because nothing was committed and no session's tooling survived it. What is certain is
+  the negative: **no two sessions ran the same code**, because there was no code to share. Each
+  session either reconstructed something from CLAUDE.md's prose description or used grep.
+- **So your reading is right.** The verdicts may well be sound — the prose describes the required
+  behaviour in unusual detail, and the incidents it records (Glasgow-Imrie, West Haven,
+  `lipohaemarthrosis`) were real finds. But **they were not made by the same tool twice**, and
+  CLAUDE.md rule 11 is explicit that reasoning about behaviour is not evidence of behaviour: *"the
+  same misreading that puts a bug in a regex puts it in the explanation of that regex."*
+
+**`scripts/gapcheck.py` now exists.** It is a reconstruction too — but a committed, self-tested
+one, and the same code next time. It implements what CLAUDE.md requires: never truncates, refuses
+to report zero as a verdict (a zero triggers the retry automatically and returns **WITHHELD**),
+folds all five dash variants both ways, runs the single-word and substring retries as a standing
+step, and prints a **collision profile** so a count cannot be read as a verdict.
+
+Verified against the three incidents CLAUDE.md records as its reason for existing:
+
+| Case | Result |
+|---|---|
+| `pulmonary-renal` | **12 hits**, including the **en-dash** `pulmonary–renal` forms — dash folding works on real corpus data, not just in the unit test |
+| `ANA` | **3641 hits**, collision profile led by `management` ×1196, `anaemia` ×628, `analgesia` ×302 — the documented ceiling case reproduced with current numbers |
+| `West Haven` | zero hits → **VERDICT: WITHHELD**, retry run and printed. It does **not** find the scale, because the corpus's copy sits under a heading reading only `Grading` with no "West Haven" text anywhere. **That is the tool being honest about its limit**, which it states: spelling variants, eponym-versus-plain-name, and the concept in different words remain rule 2's territory and yours. |
+
+**Six self-tests, all passing** (`scripts/gapcheck.py --selftest`), including that a
+markdown-bolded acronym expansion (`**H**aemolysis`) is reachable by the substring retry.
+
+## THE COMPLETENESS AUDIT — `_meta/flags/_INVENTORY.md`
+
+**707 decision-bearing items**, enumerated by whatever structure each file uses.
+
+**My 275-row extraction read only tables with an ID in the first cell**, and therefore missed
+silently: `_Clinical_Process_set.md` **entirely** (its 10 proposals are `###` headings, its
+reverse-flag table is keyed on destination), the **59 `KEEP + IN-TEXT FLAG` bullets**, and **GI's
+28 groupings** (run-on prose). **Three grouping formats coexist** — run-on prose, bullets, `###`
+headings — and no single parser sees all three.
+
+| Ledger claim | Actual | Δ |
+|---|---:|---:|
+| moves and flags **280** | **319** | +39 |
+| groupings **291** | **350** | +59 |
+
+**Sixth sampled-not-counted figure in this project.** Both numbers were correct counts *of the
+table-shaped items the parser could see*, then quoted as facts about the whole.
+
+**Needs a ruling: 211.** 104 pending moves with a named destination · 63 with no destination
+proposed · 32 arguable · 10 file combinations (`C1`–`C10`, none ruled on) · 2 axis questions.
+**Resolved by a pattern already set: 435** — 350 groupings ("groupings need no ruling"), 59
+keep-and-flag (A3: "no ruling needed on any of these"), 20 narrative findings, 4 recorded, 2 done.

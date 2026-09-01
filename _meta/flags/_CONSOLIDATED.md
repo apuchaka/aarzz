@@ -37,8 +37,9 @@ A6/A7 reports and Psychiatry groupings (`cfba800`). **No other content has moved
 | | |
 |---|---:|
 | outputs written | 20 |
-| moves and flags | 280 |
-| groupings | 291 (214 high · 77 medium) |
+| **decision-bearing items (full inventory)** | **707** — see `_INVENTORY.md` |
+| ~~moves and flags 280~~ **corrected** | **319** (260 moves + 59 keep-and-flag) |
+| ~~groupings 291~~ **corrected** | **350** |
 | approved by user, **not yet executed** | 11 |
 | cross-references repaired | 23 |
 | structural findings | 4 |
@@ -99,6 +100,14 @@ genetic cancer predisposition (Heme ↔ GP)
 ## COUNTING NOTE
 The brief says 20 system files. There are **19** merged system files plus 16 Clinical Process files.
 After GI there were **18** remaining, not 19.
+
+> [!warning] **The 280 and 291 in the table above were counts of what one parser could see, not
+> of what exists.** That parser read only markdown tables with an ID in the first cell, so it
+> missed `_Clinical_Process_set.md` entirely (its proposals are `###` headings), the 59
+> `KEEP + IN-TEXT FLAG` bullets, and GI's 28 groupings (written as run-on prose). Full
+> enumeration by structure: **`_INVENTORY.md`, 707 items.** This is the sixth sampled-not-counted
+> figure in this project — the number was right for the thing it measured and was then quoted as
+> a fact about the whole.
 
 ## LIMITATIONS THAT TRAVEL WITH THIS REPORT
 - HIGH confidence = "same topic", **not** "one is a subset of the other". No claim-level testing;
