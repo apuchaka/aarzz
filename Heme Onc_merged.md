@@ -114,15 +114,12 @@
 | **Relative** (↓circulating volume) | Dehydration; stress ("Gaisbock syndrome" — HTN, ↑RBC, plethora without splenomegaly) |
 | **Secondary** (↑stimulation to produce RBCs) | COPD, high altitude, obstructive sleep apnoea, excessive erythropoietin (cerebellar haemangioma, hypernephroma, hepatoma, uterine fibroids), iatrogenic/doping |
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
->
-> `0.9 How to interpret blood results — a quick approach`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+## 0.9 How to interpret blood results — a quick approach
+
+1. Look at lymphocytes — ↓ suggests ALL or AML.
+2. Look at WBC — >100 suggests a chronic process (e.g. CML).
+3. Look at the WBC differential — bands suggest CML; blasts suggest AML.
+
 
 <!-- ===== SOURCE: 10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma.md ===== -->
 
@@ -408,15 +405,35 @@
 
 > [!info] Definition: anaemia = Hb <120 g/L in non-pregnant females; Hb <130 g/L in males.
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 2 sections from this source block.**
->
-> `Anaemia — differential diagnosis by MCV and reticulocyte index` · `Iron studies interpretation`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+## Anaemia — differential diagnosis by MCV and reticulocyte index
+
+> [!info] Microcytic (MCV <80 fL)
+> Thalassaemias, anaemia of chronic disease, iron deficiency, lead poisoning, sideroblastic anaemia.
+
+> [!info] Normocytic (MCV 80–100 fL) — non-haemolytic (reticulocyte index ≤2%)
+> Iron deficiency (early), anaemia of chronic disease, aplastic anaemia, chronic kidney disease.
+
+> [!info] Normocytic (MCV 80–100 fL) — haemolytic (reticulocyte index >2%)
+> **Intrinsic:** membrane defects (hereditary spherocytosis, paroxysmal nocturnal haemoglobinuria); enzyme deficiencies (G6PD deficiency, pyruvate kinase deficiency); haemoglobinopathies (sickle cell anaemia, HbC disease).
+> **Extrinsic:** autoimmune (warm/cold); microangiopathic (TTP/HUS, DIC, malignancy, pre-eclampsia); macroangiopathic (prosthetic heart valves); infections (malaria).
+
+> [!info] Macrocytic (MCV >100 fL)
+> **Megaloblastic:** folate deficiency, vitamin B12 deficiency, Fanconi anaemia.
+> **Non-megaloblastic:** liver disease, alcohol, hypothyroidism, pregnancy, reticulocytosis, myelodysplasia, drugs (e.g. cytotoxics).
+
+*(See [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] for normocytic anaemia in detail, and [[10_06a_Haemonc_-_Macrocytic_Anaemia]] for macrocytic anaemia in detail.)*
+
+## Iron studies interpretation
+
+| | Serum iron | Transferrin/TIBC | Ferritin | % transferrin saturation |
+|---|:---:|:---:|:---:|:---:|
+| **Iron deficiency** | ↓ | ↑ | ↓ | <8 |
+| **Chronic disease** | ↓ | ↓ | ↑ | <15 |
+| **Haemochromatosis (screening)** | ↑ | ↓ | ↑ | >45 |
+
+> [!tip] Transferrin transports iron in the blood. TIBC (total iron binding capacity) is an indirect measure of transferrin. Ferritin functions as iron storage but is also a marker of inflammation — an acute phase reactant, so it can be falsely elevated in active inflammation even with true iron deficiency.
+
+> [!note] See [[03_Gastrointestinal]] Haemochromatosis for the full disease-level entry (genetics, complications, reversibility of specific complications with treatment, and venesection Mx), not repeated here — this table covers only the iron-studies screening pattern.
 
 ## Anaemia of chronic disease
 
@@ -2129,15 +2146,39 @@
 
 ---
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
->
-> `0.1 Interpreting the Coagulation Screen`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+## 0.1 Interpreting the Coagulation Screen
+
+> [!tip] What each test measures, and what it is sensitive to
+> **· PT / INR — the EXTRINSIC and COMMON pathways (VII, X, V, II, fibrinogen).** **Most sensitive to WARFARIN, liver disease and vitamin K deficiency** — because factor VII has the shortest half-life and falls first.
+> **· APTT — the INTRINSIC and COMMON pathways (XII, XI, IX, VIII, plus the common factors).** **Most sensitive to HEPARIN, haemophilia, von Willebrand disease and the LUPUS ANTICOAGULANT.**
+
+> [!info] The patterns
+> | Pattern | Think |
+> |---|---|
+> | **Isolated prolonged PT/INR** | Warfarin · EARLY liver disease · early vitamin K deficiency · factor VII deficiency |
+> | **Isolated prolonged APTT** | Heparin · **HAEMOPHILIA A or B** · von Willebrand disease · factor XI or XII deficiency · **LUPUS ANTICOAGULANT** |
+> | **BOTH prolonged** | Liver disease · **DIC** · vitamin K deficiency · massive transfusion and dilution · warfarin excess · common pathway deficiency |
+> | **BOTH NORMAL but the patient bleeds** | **PLATELET disorder (number or function)** · **VON WILLEBRAND DISEASE** · **FACTOR XIII deficiency** · vascular and connective tissue disorders · antiplatelet drugs · mild factor deficiency |
+
+> [!danger] A normal coagulation screen does not exclude a bleeding disorder
+> **The PT and APTT test only the plasma clotting factors. They say NOTHING about platelet FUNCTION, about von Willebrand factor (which may give a normal APTT if factor VIII is preserved), or about factor XIII (which is not measured by either test and causes DELAYED bleeding and umbilical stump bleeding).**
+> **THE BLEEDING HISTORY IS MORE INFORMATIVE THAN THE SCREEN.**
+> **Ask about: epistaxis requiring intervention · bleeding after DENTAL EXTRACTION · bleeding after previous surgery or childbirth · POSTPARTUM HAEMORRHAGE · HEAVY MENSTRUAL BLEEDING since menarche · easy bruising without trauma · joint or muscle bleeds · and a FAMILY history.**
+> **Structured bleeding assessment tools exist and outperform the coagulation screen for predicting a genuine disorder.**
+
+> [!warning] Two interpretive points that come up constantly
+> **1. THE MIXING STUDY.** Mix the patient's plasma with normal plasma and repeat the test.
+> **· CORRECTS → a FACTOR DEFICIENCY (the normal plasma supplied what was missing).**
+> **· DOES NOT CORRECT → an INHIBITOR — a lupus anticoagulant, or an acquired factor inhibitor.**
+> **2. THE LUPUS ANTICOAGULANT PARADOX.** **It PROLONGS the APTT in vitro but causes THROMBOSIS in vivo, not bleeding.** **It is named for what it does in the test tube, not to the patient.** **An unexpectedly prolonged APTT in a patient with thrombosis, recurrent miscarriage, or an autoimmune disease should prompt antiphospholipid testing** — see 0.6.
+
+> [!danger] The coagulation screen does not monitor DOACs
+> **Direct oral anticoagulants may produce a NORMAL PT and APTT at therapeutic levels, and the degree of prolongation correlates poorly with drug effect.**
+> **A NORMAL COAGULATION SCREEN DOES NOT MEAN A PATIENT IS NOT ANTICOAGULATED.**
+> **This matters acutely — in bleeding, in trauma, and before urgent surgery or a lumbar puncture — where the relevant question is which drug, what dose, when was the last one, and what is the renal function.**
+> **Specific assays exist (anti-Xa activity calibrated for the agent, dilute thrombin time for dabigatran) but are not universally or rapidly available.** **The history is the practical test.** Cross-refer [[A9]] 0.4 and [[AN1]] 0.3.
+
+---
 
 ## 0.2 Inherited Bleeding Disorders
 
@@ -3192,15 +3233,100 @@
 
 > [!danger] **Reference ranges: read this before using any number below.** Reference intervals are **assay- and laboratory-specific**, and the interval printed on the patient's own report is the one that applies. The ranges given below are typical Australian adult values that recurred across sources; they are for orientation, **not for deciding whether a given patient's result is abnormal**. Where a range could not be sourced to the standard, it is omitted and said so.
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 10 sections from this source block.**
->
-> `CBC & Peripheral Blood (Complete Blood Count, Reticulocyte count, Peri` · `Vitamin B12 Level (Serum Cobalamin)` · `Methylmalonate (Methylmalonic Acid — MMA)` · `Homocysteine` · `Anti-Intrinsic Factor Ab (Anti-Intrinsic Factor Antibodies)` · `Anti-Parietal Cell Ab (Anti-Parietal Cell Antibodies — APCA)` · `Haptoglobin` · `Immunohematology (Blood Group & Rh, Type & Screen, Direct Antiglobulin` · `Hb Electrophoresis (Haemoglobin Electrophoresis / HPLC)` · `Erythropoietin Level (Serum EPO)`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+## CBC & Peripheral Blood (Complete Blood Count, Reticulocyte count, Peripheral blood film, Morphological variants)
+
+- **Indication:** the single most-ordered test in hospital medicine — screening and monitoring across anaemia, infection, bleeding, malignancy, and as a baseline before most interventions. **The reticulocyte count and the blood film are separate requests in most Australian labs and must be asked for**; an FBC alone does not include them, and this is the most common practical error in the anaemia work-up.
+- **Interpretation — the structure that makes it usable:**
+  - **Anaemia is classified first by MCV**: microcytic (iron deficiency, thalassaemia, anaemia of chronic disease, sideroblastic), normocytic (acute blood loss, anaemia of chronic disease, renal, haemolysis, marrow failure, mixed deficiency), macrocytic (B12 or folate deficiency, alcohol, liver disease, hypothyroidism, myelodysplasia, drugs — methotrexate, hydroxyurea, azathioprine).
+  - **Then by reticulocyte count**, which is the branch point most often skipped: **a raised reticulocyte count means the marrow is responding** — blood loss or haemolysis. **A low or inappropriately normal reticulocyte count in an anaemic patient means the marrow is not responding** — deficiency, marrow disease, renal failure, or anaemia of chronic disease. Ordering the reticulocyte count at the same time as the FBC saves a day.
+  - **The blood film is the test that changes the diagnosis** when the indices are ambiguous. Morphological findings worth recognising: **spherocytes** (hereditary spherocytosis or autoimmune haemolysis), **schistocytes/fragments** (microangiopathy — TTP, HUS, DIC, mechanical valve; a finding that demands same-day escalation), **sickle cells**, **target cells** (thalassaemia, liver disease, post-splenectomy), **basophilic stippling** (thalassaemia, lead), **Howell–Jolly bodies** (hyposplenism), **hypersegmented neutrophils** (B12/folate deficiency), **blasts** (acute leukaemia — an immediate call), **rouleaux** (paraproteinaemia), **left shift and toxic granulation** (sepsis), **tear-drop cells** (marrow infiltration or myelofibrosis).
+  - **Pancytopenia**, or any unexplained cytopenia with blasts, is a haematology referral, not a repeat-in-a-month result.
+- **Typical Australian adult reference ranges** *(orientation only — use the reporting laboratory's own interval)*: **haemoglobin ~130–180 g/L (men), ~115–160 g/L (women); MCV ~80–100 fL; platelets ~150–400 ×10⁹/L; white cells ~4.0–11.0 ×10⁹/L.** **The reticulocyte reference range is deliberately omitted** — it did not reach three agreeing sources, and labs report it variably as a percentage and as an absolute count, which are not interchangeable. **Use the absolute reticulocyte count where available**, since the percentage is falsely reassuring when the red cell count is low.
+- **What changes management:** a **raised reticulocyte count** redirects the work-up from deficiency to blood loss or haemolysis. **Schistocytes** trigger an urgent microangiopathy pathway. **Blasts** trigger immediate haematology contact. **Isolated thrombocytopenia with an otherwise normal film** raises ITP and changes whether the patient is transfused or treated immunologically. **Anaemia found before surgery** changes the operative plan and is a recognised, treatable predictor of transfusion.
+
+## Vitamin B12 Level (Serum Cobalamin)
+
+- **Indication:** macrocytic anaemia; unexplained neurological or cognitive symptoms (peripheral neuropathy, subacute combined degeneration, cognitive change) — **which can occur with a normal haemoglobin and a normal MCV, so a normal FBC does not exclude clinically important B12 deficiency**; glossitis; risk groups — vegan or restricted diet, **metformin**, **long-term proton pump inhibitors or H2 antagonists**, bariatric or gastric surgery, ileal disease or resection (Crohn's), alcohol dependence, older age, pernicious anaemia.
+- **Interpretation:** the assay measures **total** B12, most of which is bound to haptocorrin and metabolically unavailable, which is why the test performs poorly in the middle of its range.
+  - **Clearly low** — deficiency, treat.
+  - **Clearly normal with no clinical suspicion** — deficiency unlikely.
+  - **Borderline / low-normal — the problem zone, and the reason MMA and homocysteine exist.** Sources agree that when B12 sits in the low-normal band, deficiency should be assessed with **methylmalonic acid and/or homocysteine** rather than by repeating the B12. *(A numeric cut-off for the "grey zone" was found in one source only and is **deliberately not stated** — it did not reach three sources and the boundary is assay-dependent.)*
+  - **Falsely low** in pregnancy, oral contraceptive use, folate deficiency, myeloma. **Falsely normal or high** in liver disease, myeloproliferative disease, and — importantly — **recent B12 supplementation, so take the sample before starting treatment.**
+- **Normal range:** **omitted** — assay-dependent and reported in ng/L or pmol/L depending on the laboratory. Use the report's interval and units.
+- **What changes management:** a low result with neurological features means **treat immediately without waiting for further tests** — neurological damage can become irreversible, and this is the one situation where the borderline discussion is set aside. A confirmed deficiency prompts a search for the **cause** (see the antibody entries below), not just replacement.
+
+## Methylmalonate (Methylmalonic Acid — MMA)
+
+- **Indication:** a **second-line test used to resolve a borderline or low-normal B12**, and to confirm true tissue deficiency where the clinical picture and the B12 level disagree.
+- **Interpretation:** MMA accumulates when B12 is functionally deficient, because B12 is a cofactor for the conversion of methylmalonyl-CoA to succinyl-CoA. Sources agree that **MMA is the more sensitive and more specific of the two metabolites** for B12 deficiency, and that the pattern is diagnostic:
+  - **MMA raised + homocysteine raised → B12 deficiency.**
+  - **MMA normal + homocysteine raised → folate deficiency** (the discriminating pattern, and the single most useful thing in this entry).
+- **The major limitation, agreed across sources:** **MMA also rises in renal impairment**, which substantially reduces its specificity in exactly the older population most likely to be tested. Check the eGFR before interpreting it. Volume depletion and small bowel bacterial overgrowth also raise it.
+- **Normal range: omitted** — assay-dependent, and no range reached the sourcing standard.
+- **What changes management:** a raised MMA converts a "borderline B12" into a treat decision. A normal MMA in a patient with a borderline B12 and no symptoms supports **not** treating and avoids indefinite unnecessary supplementation.
+
+## Homocysteine
+
+- **Indication:** as above, alongside MMA, to clarify a borderline B12 or folate status. Also requested in the work-up of unexplained or premature thrombosis and in suspected inherited homocystinuria — a different and much rarer indication.
+- **Interpretation:** homocysteine rises in **both** B12 and folate deficiency, which is precisely why it cannot stand alone — **its value is in combination with MMA**, per the two-pattern rule above. Sources agree it is **less specific than MMA** for B12 deficiency.
+- **Non-deficiency causes of a raised level, which matter because they are common:** **renal impairment**, hypothyroidism, smoking, several drugs, and inherited MTHFR variants. Sample handling matters — homocysteine rises in the tube if the sample is not separated promptly, so a spuriously high result should prompt a repeat with attention to collection.
+- **Normal range: omitted** — assay- and laboratory-dependent.
+- **What changes management:** in the B12 work-up, it refines the deficiency call. **In cardiovascular risk assessment it does not change management** — testing homocysteine as a cardiovascular risk factor, and treating it, has not been shown to improve outcomes, and is a low-value test in that setting.
+
+## Anti-Intrinsic Factor Ab (Anti-Intrinsic Factor Antibodies)
+
+- **Indication:** to establish **pernicious anaemia** as the cause of a confirmed B12 deficiency. It answers "why is this patient B12 deficient?", not "is this patient B12 deficient?" — and that distinction is the whole point of ordering it.
+- **Interpretation — the numbers here did reach the standard and are worth carrying:** intrinsic factor antibody is **highly specific (reported around 98–99%) but poorly sensitive (roughly 40–60%)**. The consequences follow directly:
+  - **A positive result effectively confirms pernicious anaemia.**
+  - **A negative result does not exclude it** — roughly half of patients with pernicious anaemia are antibody-negative, so a negative test in a patient with an otherwise convincing picture should not stop the diagnosis being made clinically.
+- **False positives** occur if the sample is taken **within about two weeks of a B12 injection**, so take it before starting replacement or defer it.
+- **What changes management:** a positive result establishes a **lifelong** requirement for parenteral (or high-dose oral) B12 replacement, and flags the associated autoimmune conditions — **autoimmune thyroid disease, type 1 diabetes, vitiligo** — plus the **increased risk of gastric carcinoma and gastric carcinoid** that follows atrophic gastritis.
+
+## Anti-Parietal Cell Ab (Anti-Parietal Cell Antibodies — APCA)
+
+- **Indication:** the same question as above — the cause of a confirmed B12 deficiency — with the opposite test characteristics, which is why the two are discussed together and often ordered together.
+- **Interpretation:** parietal cell antibody is **more sensitive (reported around 80–90%) but much less specific** than intrinsic factor antibody. **It is present in a meaningful proportion of healthy people (reported up to about 10%) and in other autoimmune diseases**, so a positive result on its own does not establish pernicious anaemia.
+  - Sources describe the practical strategy as **parietal cell antibody as the screening test, intrinsic factor antibody as the confirmatory test**, with combined testing giving better overall performance than either alone.
+- **What changes management:** a positive APCA with a negative IFAB in a B12-deficient patient still supports autoimmune gastritis and warrants the same replacement and the same awareness of associated autoimmune and gastric malignancy risk — but it is weaker evidence, and the diagnosis rests more on the clinical picture. **A positive APCA in a patient who is not B12 deficient is not a diagnosis** and should not trigger treatment.
+
+## Haptoglobin
+
+- **Indication:** part of the **haemolysis screen**, ordered when anaemia is normocytic with a raised reticulocyte count, or when jaundice, dark urine or a falling haemoglobin suggests red cell destruction. The screen as a whole is **FBC, blood film, reticulocytes, LDH, bilirubin (unconjugated), haptoglobin and a direct antiglobulin test** — ordering haptoglobin alone is not informative.
+- **Interpretation:** haptoglobin binds free haemoglobin released from lysed red cells, and the complex is cleared, so **haptoglobin falls in haemolysis** — and falls **most markedly in intravascular haemolysis**, where free haemoglobin enters the circulation directly. In predominantly **extravascular** haemolysis (spleen, liver) haptoglobin may be only mildly reduced or normal.
+  - The confirmatory pattern for haemolysis, agreed across sources: **raised reticulocytes + raised LDH + raised unconjugated bilirubin + low haptoglobin.**
+- **The traps:** haptoglobin is an **acute-phase reactant, so it rises with inflammation, infection and malignancy** — which can mask haemolysis and produce a falsely normal result in exactly the unwell patient in whom haemolysis is suspected. It is **low in liver disease** without haemolysis, since it is hepatically synthesised, and congenitally absent in a small proportion of people.
+- **Normal range: omitted** — assay-dependent, and a specific diagnostic cut-off did not reach three sources.
+- **What changes management:** a low haptoglobin with the rest of the screen establishes haemolysis and directs the next step — **DAT** to separate immune from non-immune causes, and **the blood film** to identify microangiopathy, which is the time-critical branch.
+
+## Immunohematology (Blood Group & Rh, Type & Screen, Direct Antiglobulin Test)
+
+- **Indication:** before any possible transfusion; in antenatal care; in suspected haemolytic disease of the newborn; and, for the **DAT**, whenever immune haemolysis is being considered.
+- **Interpretation:**
+  - **Group and screen ("group and hold")** determines ABO and RhD group and screens the patient's plasma for clinically significant red cell antibodies. **It is not a crossmatch** — it does not reserve compatible units. It is appropriate where transfusion is possible but unlikely.
+  - **Crossmatch** establishes compatibility between donor units and the patient and is what makes units available. It may be a **computer (electronic) crossmatch** where the group and antibody screen allow it, which is faster.
+  - **Direct antiglobulin test (DAT / direct Coombs)** detects antibody or complement **already bound to the patient's red cells** — a **positive DAT indicates immune-mediated haemolysis** (autoimmune haemolytic anaemia, haemolytic transfusion reaction, haemolytic disease of the newborn, drug-induced). A **negative DAT does not exclude haemolysis** — it points to a non-immune cause (microangiopathy, mechanical, hereditary membrane or enzyme defects, infection).
+- **The specimen validity rule, and it is Australian-sourced:** if the patient has been **transfused with red cells, or is or has been pregnant, within the preceding 3 months**, the pretransfusion sample is normally valid for **72 hours** — the "72-hour rule." Longer validity may apply where there is no such history. **Practical consequence: a sample taken on Monday will not cover a Thursday theatre list in a recently transfused or pregnant patient**, and this is a routine cause of avoidable delay.
+- **What changes management:** the presence of **red cell antibodies** on the screen can make finding compatible units slow, which changes surgical timing and means the laboratory must be told early. A **positive DAT** changes the anaemia work-up from a search for bleeding to a search for an immune trigger. **Sample labelling errors are the dominant cause of ABO-incompatible transfusion**, so bedside identification and labelling at the bedside are part of the test, not administrative overhead.
+
+## Hb Electrophoresis (Haemoglobin Electrophoresis / HPLC)
+
+- **Indication:** microcytic anaemia **not explained by iron deficiency**, or microcytosis with a normal or high red cell count; family or ethnic background from a region with high haemoglobinopathy prevalence; antenatal and preconception screening; a positive newborn screen; suspected sickle cell disease or trait.
+- **Interpretation:** modern laboratories use **HPLC or capillary electrophoresis** rather than classical gel electrophoresis; the quantities that matter are **HbA, HbA₂, HbF** and any variant bands (**HbS, HbC, HbE**).
+  - **A raised HbA₂ is the practical marker of β-thalassaemia trait.** Sources give the diagnostic threshold as **HbA₂ above ~3.5%** taken together with a **low MCV and low MCH**, with trait values typically in the **4.0–6.0%** range. *(One source proposed ≥4.0% as a refined cut-off; because sources differ on the exact boundary, treat 3.5% as the threshold that triggers interpretation rather than as a hard line, and read it with the red cell indices.)*
+  - **α-thalassaemia trait is not diagnosed by this test** — HbA₂ is normal or low, so a normal electrophoresis in a microcytic patient with normal iron studies does not exclude it, and **DNA studies are required**.
+- **The critical confounder, agreed across sources: iron deficiency lowers HbA₂ and can mask β-thalassaemia trait**, producing a falsely normal result. **Correct the iron deficiency and repeat**, or interpret alongside iron studies — this is the single most important practical point in the entry.
+- **What changes management:** identifying **trait** changes nothing for the patient's own health but changes **genetic counselling and partner testing**, since two carriers risk a severely affected child — which is why this test belongs in preconception and antenatal care. It also **stops the futile cycle of iron supplementation** given for a microcytosis that is not iron deficiency.
+
+## Erythropoietin Level (Serum EPO)
+
+- **Indication:** the work-up of **polycythaemia (erythrocytosis)** — to help separate a primary marrow disorder from a secondary, hypoxia- or tumour-driven cause. It is **not** a test for anaemia in routine practice, though a low EPO supports renal anaemia in advanced kidney disease.
+- **Interpretation:**
+  - **Low or suppressed EPO with a raised haemoglobin** points to **polycythaemia vera**, where autonomous marrow production suppresses the normal feedback loop. Sources agree it is a **minor diagnostic criterion** for PV.
+  - **Raised or normal EPO with a raised haemoglobin** points to **secondary erythrocytosis** — hypoxia (chronic lung disease, obstructive sleep apnoea, high altitude, right-to-left shunt, smoking), **EPO-secreting tumours** (renal cell carcinoma, hepatocellular carcinoma, cerebellar haemangioblastoma, uterine fibroids), renal artery stenosis, post-renal-transplant, and **exogenous testosterone or EPO use** — which should be asked about directly.
+  - **The limitation, and it is important:** a low EPO is **highly specific but very insensitive** for polycythaemia vera — one source reports specificity above 99% but sensitivity around 12% at a low threshold, and **PV can present with a normal or even raised EPO**. So a normal EPO does not exclude PV.
+- **What changes management:** EPO does not stand alone — **JAK2 V617F mutation testing is the decisive investigation**, and the combination of a positive JAK2 with a low EPO confirms PV, while wild-type JAK2 with a normal or raised EPO directs the search to a secondary cause. In practice this determines whether the patient goes to haematology for venesection and cytoreduction, or to a search for hypoxia or a tumour.
+
+---
 
 ## Batching test — Batch 1 record
 
@@ -3233,15 +3359,302 @@
 
 ---
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 13 sections from this source block.**
->
-> `0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)` · `0.12 Factor VIII Assay` · `0.13 von Willebrand Factor Antigen and Ristocetin Cofactor Activity` · `0.14 ADAMTS13 Activity` · `0.15 HIT ELISA (Anti-PF4/Heparin Antibody Immunoassay)` · `0.16 Serotonin Release Assay (Functional HIT Assay)` · `0.17 Flow Cytometry (Immunophenotyping)` · `0.18 Biopsy and Procedures (Bone Marrow Aspirate and Trephine, Lymph N` · `0.19 Serum Electrophoresis and Serum Free Light Chain Quantification` · `0.20 Beta-2 Microglobulin` · `0.21 Osmotic Fragility Test` · `0.22 Sickle Cell Prep (Sickle Solubility Test)` · `0.23 Schilling Test`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)
+
+**D:** The routine screen of the clotting cascade. **PT/INR** assesses the **extrinsic and common** pathways (factors VII, X, V, II, fibrinogen); **APTT** assesses the **intrinsic and common** pathways (XII, XI, IX, VIII, X, V, II, fibrinogen); **fibrinogen** and **D-dimer** complete the picture.
+
+**Ind:** Bleeding or bruising; before invasive procedures in at-risk patients; monitoring warfarin (INR) and unfractionated heparin (APTT); suspected liver disease, DIC or massive transfusion; suspected inherited bleeding disorder; suspected antiphospholipid syndrome.
+
+**Role:** A **screen that localises the problem to a part of the cascade** — it does not identify the factor, and it does not measure bleeding risk directly.
+
+> [!info] **Reading the pattern is the skill**
+> - **Isolated prolonged PT/INR** → factor **VII** deficiency; **early liver disease**; **early vitamin K deficiency or warfarin** (factor VII has the shortest half-life, so it falls first).
+> - **Isolated prolonged APTT** → haemophilia A (**VIII**) or B (**IX**), factor XI or XII deficiency, **von Willebrand disease**, heparin, or a **lupus anticoagulant**.
+> - **Both prolonged** → liver disease, **DIC**, vitamin K deficiency, massive transfusion, common pathway factor deficiency.
+> - **Both normal in a patient who is clearly bleeding** → **platelet disorder, von Willebrand disease, factor XIII deficiency, or a vascular/connective tissue cause.** The coagulation screen is normal in all of them, and this is the trap.
+
+> [!warning] **The MIXING STUDY is the next step and it separates the two possibilities.** Mix the patient's plasma 1:1 with normal plasma: **if it CORRECTS, it is a factor DEFICIENCY** (the normal plasma supplies the missing factor); **if it does NOT correct, there is an INHIBITOR** — a lupus anticoagulant (thrombosis risk) or a factor inhibitor such as acquired haemophilia (bleeding risk). **The same prolonged APTT therefore means opposite things**, and the mixing study is what tells them apart. See `NEW_Investigations_Cardiology.md` 0.1.
+
+> [!danger] **Do not ignore**
+> - **Pre-analytical error is the commonest cause of a wrong result:** an underfilled citrate tube (wrong blood-to-anticoagulant ratio), a difficult or clotted collection, a sample taken from a **heparinised line** (a classic and very common false result — always flush and discard, or take from elsewhere), and delayed processing.
+> - **The INR is only validated for warfarin.** Using it to grade liver disease severity is done (Child-Pugh, MELD) but it is not a warfarin-equivalent measure, and **DOACs affect the PT and APTT unpredictably** — a normal or abnormal screen does not tell you whether a DOAC is present or at what level.
+> - **A normal coagulation screen does NOT exclude a bleeding disorder** — take a proper **bleeding history** (menorrhagia, dental extractions, surgery, postpartum haemorrhage, family history) and use a structured bleeding assessment tool, because history outperforms the screen.
+> - **Do not "correct" an abnormal INR with FFP before a procedure reflexively** — the evidence for benefit is poor and transfusion carries real harm; discuss with haematology.
+> - **D-dimer is a rule-out test only, in a patient with a low or intermediate pre-test probability.** It is raised by age, pregnancy, infection, malignancy, surgery, trauma and inflammation, and **must never be used alone to rule in thrombosis.**
+
+**Normal/abnormal:** Laboratory reference intervals, with the **INR target set by indication** for warfarinised patients. **Age-adjusted D-dimer thresholds** exist and are laboratory-specific; the numeric cut-offs are **not stated here**.
+
+**Alt:** Individual **factor assays**; **mixing studies**; **thromboelastography/ROTEM** (viscoelastic point-of-care testing in trauma, cardiac surgery and obstetric haemorrhage, which assesses clot formation and lysis as a whole and guides targeted product use); anti-Xa assay for LMWH and specific DOAC assays; platelet function testing; **FBC and film**. See [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]].
+
+## 0.12 Factor VIII Assay
+
+**D:** A functional (one-stage clotting or chromogenic) assay measuring **factor VIII activity**, reported as a percentage of normal or in IU/dL.
+
+**Ind:** **Prolonged APTT**; suspected or known **haemophilia A**; suspected **von Willebrand disease** (where factor VIII is carried and stabilised by VWF, so it falls when VWF falls); **acquired haemophilia** (an autoantibody, typically in an older person or postpartum, presenting with sudden severe bleeding and no prior history); monitoring factor replacement; pre-operative assessment in a known carrier or patient.
+
+**Role:** Distinguishes haemophilia A from haemophilia B and from von Willebrand disease, and **grades severity**, which determines bleeding phenotype and treatment.
+
+> [!info] **Severity bands (factor activity)** — sources agree: **severe <1%** (spontaneous joint and muscle bleeds), **moderate 1–5%** (bleeding with minor trauma), **mild 5–40%** (bleeding with surgery or significant trauma, often diagnosed late or after a procedure).
+
+> [!danger] **Do not ignore**
+> - **Haemophilia A is X-linked recessive** — but **carrier females can have low levels and can bleed**, particularly with menorrhagia and childbirth, and they must not be dismissed as "just carriers".
+> - **Factor VIII is an ACUTE-PHASE REACTANT** — it rises with inflammation, pregnancy, exercise, stress and oestrogen. **A "normal" level taken during acute illness can conceal mild haemophilia or type 1 von Willebrand disease**, so equivocal results are repeated in a well, unstressed state.
+> - **INHIBITORS (alloantibodies) are the major complication of treatment** and cause factor replacement to stop working — suspect them when a treated patient stops responding, and quantify with a **Bethesda assay**.
+> - **A bleeding haemophiliac gets factor FIRST.** Do not delay replacement for imaging or investigation — head injury in particular is treated presumptively and urgently, and **any head strike in a severe haemophiliac is treated as intracranial bleeding until excluded.**
+> - **Avoid intramuscular injections, aspirin and NSAIDs**, and involve the haemophilia treatment centre in every presentation.
+
+**Normal/abnormal:** As the severity bands above, against the laboratory's reference range. Note that **one-stage and chromogenic assays can disagree** in some variants.
+
+**Alt:** **Factor IX assay** (haemophilia B); **VWF antigen and activity** (0.13); mixing study; **Bethesda inhibitor assay**; genetic testing for the family; **FBC and coagulation screen** (0.11). See [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]].
+
+## 0.13 von Willebrand Factor Antigen and Ristocetin Cofactor Activity
+
+**D:** Two halves of the same question, always interpreted together with factor VIII.
+- **VWF antigen (VWF:Ag)** — **how much** VWF protein is present (quantity).
+- **VWF activity — the ristocetin cofactor assay (VWF:RCo)** and its modern automated equivalents — **how well it works** (function). Ristocetin induces VWF to bind platelet GPIb, so the assay detects **functional defects that a quantitative antigen assay cannot see**. Sources note that many contemporary automated systems no longer use platelets, instead relying on **latex particle agglutination** measured immunoturbidimetrically on routine coagulation analysers.
+
+**Ind:** Easy bruising, **menorrhagia**, epistaxis, prolonged bleeding after dental work or surgery, postpartum haemorrhage, and a family history of bleeding. **Von Willebrand disease is the commonest inherited bleeding disorder and is substantially under-diagnosed, particularly in women**, in whom heavy menstrual bleeding is normalised for years.
+
+**Role:** Diagnoses and **subtypes** von Willebrand disease — and the subtype determines treatment.
+
+> [!info] **The activity-to-antigen ratio is what separates the types**
+> - **Type 1 (~75%, quantitative partial deficiency):** VWF:Ag and activity **both reduced proportionately**; **ratio normal**. Factor VIII often mildly reduced.
+> - **Type 2 (qualitative defect):** **activity reduced OUT OF PROPORTION to antigen** — sources describe a normal or near-normal antigen with reduced ristocetin cofactor activity as pointing to type 2, with an **abnormally increased activity:antigen discrepancy** triggering reflex ristocetin cofactor testing and, subsequently, **multimer analysis** to determine the subtype (2A, 2B, 2M, 2N).
+> - **Type 3 (rare, severe):** **VWF essentially absent**, with markedly low factor VIII — clinically resembling haemophilia.
+
+> [!danger] **Do not ignore**
+> - **VWF is an ACUTE-PHASE REACTANT and rises with inflammation, stress, exercise, pregnancy, oestrogen (including the combined oral contraceptive) and with blood group.** **Levels are physiologically LOWER in blood group O.** A single normal result does **not** exclude von Willebrand disease — **repeat testing on more than one occasion in a well state is standard**, and the history matters more than one number.
+> - **Type 2B is the exception that changes management: DESMOPRESSIN IS CONTRAINDICATED** because it releases abnormal VWF that binds platelets and causes **thrombocytopenia**. Subtyping therefore precedes treatment.
+> - **Menorrhagia in an adolescent that has been heavy since menarche warrants a bleeding disorder work-up**, not just an oral contraceptive.
+> - **Tranexamic acid is a genuinely useful and under-used treatment** in mild disease and in menorrhagia (see `NEW_Drugs_06_Cardiovascular.md` 0.5).
+
+**Normal/abnormal:** Laboratory-specific reference ranges; sources describe a **VWF activity below about 55%, or an abnormally increased activity:antigen ratio**, as the trigger for reflex ristocetin cofactor testing in one laboratory's protocol. **Diagnostic cut-offs are laboratory- and assay-specific and are not stated here.**
+
+**Alt:** **Factor VIII assay** (0.12); **VWF multimer analysis** and collagen-binding assay for subtyping; **VWF:FVIII binding assay** for type 2N; platelet function analysis; genetic testing; and — before all of them — a **structured bleeding assessment tool**.
+
+## 0.14 ADAMTS13 Activity
+
+**D:** A functional assay of **ADAMTS13**, the plasma metalloprotease that cleaves ultra-large von Willebrand factor multimers. Reported as a percentage of normal activity, with an accompanying **inhibitor/antibody assay** where activity is low.
+
+**Ind:** **Suspected thrombotic thrombocytopenic purpura (TTP)** — the essential test; and differentiation of the thrombotic microangiopathies.
+
+**Role:** Confirms TTP and separates it from the other causes of **microangiopathic haemolytic anaemia with thrombocytopenia** — HUS, complement-mediated (atypical) HUS, DIC, malignant hypertension, HELLP, and drug-induced microangiopathy — which have entirely different treatments.
+
+> [!info] **Interpretation.** Sources are consistent: **immune-mediated TTP presents with ADAMTS13 activity <10%**, and one assay evaluation reported **sensitivity 100% and specificity 99%**. A low activity with a demonstrable inhibitor indicates **acquired (immune) TTP**; low activity without an inhibitor raises **congenital TTP (Upshaw-Schulman syndrome)**.
+
+> [!danger] **DO NOT WAIT FOR THE RESULT. Sources state this explicitly: the decision to start plasma exchange must not be delayed pending the ADAMTS13 assay.**
+> **Untreated TTP has a mortality approaching 90%; with prompt plasma exchange it falls dramatically.** The assay is usually a **send-away test with a turnaround of days**, so it confirms the diagnosis retrospectively and guides ongoing therapy — it does not gate treatment.
+> **Take the sample BEFORE plasma exchange or any plasma product**, because transfused plasma supplies ADAMTS13 and destroys the result.
+> **Recognise TTP clinically:** **microangiopathic haemolytic anaemia (anaemia, raised LDH, low haptoglobin, SCHISTOCYTES/red cell fragments on the film) plus thrombocytopenia**, with neurological features, renal impairment and fever variably present — **the classic pentad is present in a minority and waiting for it is dangerous.** The **PLASMIC score** helps stratify probability while the assay is pending. **A normal coagulation screen distinguishes TTP from DIC.**
+
+> [!danger] **Do not ignore**
+> - **PLATELET TRANSFUSION IS RELATIVELY CONTRAINDICATED in TTP** — it can fuel further microvascular thrombosis. Do not treat the low platelet count as if it were ITP or marrow failure.
+> - **Urgent haematology involvement is mandatory**; treatment is **plasma exchange plus corticosteroids**, with **rituximab** and **caplacizumab** in current regimens.
+> - **Look for a trigger:** drugs (quinine, clopidogrel, ticlopidine, calcineurin inhibitors, gemcitabine), pregnancy, HIV, autoimmune disease, malignancy.
+
+**Normal/abnormal:** Activity as a percentage, with **<10% supporting TTP**; interpreted with the inhibitor assay and the clinical picture.
+
+**Alt:** **Blood film for schistocytes — the immediate bedside-equivalent test**; FBC, reticulocytes, LDH, haptoglobin, bilirubin, direct antiglobulin test (**negative** in microangiopathy); coagulation screen and fibrinogen (to exclude DIC); renal function; **stool testing for Shiga toxin / STEC** in suspected typical HUS; complement studies in atypical HUS; pregnancy test. See [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] and [[15_11_Paeds_-_Urological_and_Renal_Anomalies__Wilms_Tumour__HUS]].
+
+## 0.15 HIT ELISA (Anti-PF4/Heparin Antibody Immunoassay)
+
+**D:** An **enzyme immunoassay** detecting antibodies against **platelet factor 4 (PF4) complexed with heparin** — the immune basis of heparin-induced thrombocytopenia.
+
+**Ind:** Suspected **HIT**, in a patient with an **intermediate or high 4Ts score** (see `NEW_Drugs_06_Cardiovascular.md` 0.1.2). **It should not be sent in low-probability patients** — doing so generates false positives and unnecessary switching to more expensive, less familiar anticoagulants.
+
+**Role:** A **sensitive screening test with limited specificity** — it detects antibodies, many of which are **clinically irrelevant**, so a positive result must be interpreted with the 4Ts score and, where doubt remains, confirmed functionally (0.16).
+
+> [!info] **Performance.** Sources report a PF4/heparin ELISA sensitivity and specificity of about **87% and 92%** for an in-house assay and **90% and 98%** for a commercial kit. **The high sensitivity means a NEGATIVE test in a low- or intermediate-probability patient effectively excludes HIT** — which is its main clinical value. A **positive** test in a low-probability patient is more likely to be a false positive than HIT.
+
+> [!danger] **Do not wait for the result before acting.**
+> **If HIT is clinically suspected, STOP ALL HEPARIN — including flushes and heparin-bonded lines — and START A NON-HEPARIN ANTICOAGULANT immediately.** HIT is **prothrombotic**: the danger is thrombosis, not bleeding, and simply stopping anticoagulation leaves the patient at high risk for weeks. The immunoassay confirms or refutes afterwards.
+> **Do NOT give warfarin alone during acute HIT** (venous limb gangrene and skin necrosis), and **do NOT transfuse platelets routinely.**
+
+> [!warning] **Optical density matters.** Many laboratories report a numeric optical density with the qualitative result: **a strongly positive OD correlates much better with true, functionally active HIT than a weakly positive one.** A weak positive with a low 4Ts score usually is not HIT. **Numeric OD thresholds are assay-specific and are not stated here.**
+
+**Normal/abnormal:** Positive or negative, usually with an optical density value; interpreted alongside the 4Ts score and, if needed, a functional assay.
+
+**Alt:** **4Ts score** (the essential first step, and free); **serotonin release assay or heparin-induced platelet activation assay** (0.16) as the confirmatory functional test; **serial platelet counts** (the trigger for suspicion in the first place); imaging for thrombosis, which should be actively sought — including **bilateral leg ultrasound**, since silent DVT is common in HIT.
+
+## 0.16 Serotonin Release Assay (Functional HIT Assay)
+
+**D:** A **functional** assay: donor platelets are loaded with radiolabelled serotonin and incubated with the patient's serum at high and low heparin concentrations. **Release of serotonin at low but not high heparin concentrations** demonstrates that the antibody is genuinely **platelet-activating**. The heparin-induced platelet activation (HIPA) assay is a related functional method.
+
+**Ind:** **Confirmation of HIT** where the immunoassay is positive but the diagnosis remains uncertain, and in high-probability cases where a definitive answer will change long-term management.
+
+**Role:** **The reference standard for HIT** — sources describe HIT being affirmed by demonstrating heparin-dependent anti-platelet antibodies with the ¹⁴C-serotonin release assay. It has **high specificity**, which is exactly what the immunoassay lacks.
+
+> [!warning] **Its limitations are practical rather than analytical.** It is **technically demanding, performed only in specialised reference laboratories, and has a turnaround of days to weeks.** It is therefore a **retrospective confirmation**, never a test that guides the acute decision. **Its main clinical value is for the rest of the patient's life** — a confirmed diagnosis means a permanent, documented heparin allergy label affecting every future admission, dialysis, cardiac surgery and pregnancy; an excluded diagnosis returns a useful and often necessary drug to the patient.
+
+> [!danger] **Do not ignore**
+> - **The diagnostic sequence is: 4Ts score → PF4 immunoassay if intermediate or high → functional assay to confirm.** Skipping to the functional assay wastes a scarce test; skipping the 4Ts score generates false positives.
+> - **Whatever the assay shows, the acute management is decided clinically** (see 0.15) — a functional assay result arriving a week later cannot help the patient who is clotting today.
+> - **Document the outcome explicitly** in the discharge summary, on the allergy list, and to the patient — an unrecorded HIT diagnosis will lead to heparin re-exposure.
+
+**Normal/abnormal:** Positive (serotonin release at low heparin concentrations, suppressed at high) or negative.
+
+**Alt:** **HIT ELISA** (0.15); **4Ts score**; heparin-induced platelet activation and flow-cytometric functional assays; serial platelet counts and imaging for thrombosis.
+
+## 0.17 Flow Cytometry (Immunophenotyping)
+
+**D:** Cells in suspension are labelled with **fluorochrome-conjugated antibodies** against surface and intracellular antigens and passed single-file through a laser, so each cell's **size, granularity and antigen expression** are measured individually. Sources list the usable specimens as **peripheral blood, bone marrow aspirate, fine needle aspirate, body fluids (including CSF) and cell suspensions from fresh tissue.**
+
+**Ind:** Suspected **acute leukaemia** (unexplained cytopenias, blasts on the film, leucocytosis); suspected **lymphoma or chronic lymphoproliferative disorder** (lymphocytosis, lymphadenopathy); **myeloma** (plasma cell phenotyping); **minimal residual disease** monitoring; **paroxysmal nocturnal haemoglobinuria** (loss of CD55/CD59 — the diagnostic test); **CD4 counts in HIV**; **primary immunodeficiency** lymphocyte subsets; fetomaternal haemorrhage quantification (see `NEW_Investigations_Obstetrics_and_Gynaecology.md` 0.9).
+
+**Role:** **Classifies haematological malignancy by lineage and maturation** — sources describe it as essential for the diagnosis and immunologic classification of B-cell ALL, and as a **valuable complement to morphology** that resolves differential diagnostic problems morphology alone cannot.
+
+> [!danger] **The specimen requirement is the thing an intern must get right: flow cytometry needs FRESH, UNFIXED cells.**
+> **Send the sample in EDTA or heparin (per your laboratory's requirement), unfixed, and get it to the laboratory promptly** — **formalin destroys the cells and makes flow cytometry impossible**, and the sample usually cannot be retaken without repeating an invasive procedure. **Ring the laboratory before taking the sample**, especially out of hours, because cells degrade and some laboratories cannot process overnight. This is the single commonest practical failure with this test.
+
+> [!warning] **Interpretation is not automatic.** Sources include a case report of **follicular lymphoma in leukaemic phase misdiagnosed as CLL** on flow cytometry — the immunophenotype is read as a pattern in the context of morphology, clinical picture and, usually, cytogenetics and molecular studies. **A single marker never makes a diagnosis.**
+
+> [!danger] **Do not ignore**
+> - **Suspected acute leukaemia is an emergency**: check for **tumour lysis** (potassium, phosphate, urate, calcium, renal function), **neutropenic sepsis**, **DIC** (especially in **acute promyelocytic leukaemia**, which is a haematological emergency requiring immediate ATRA and haematology involvement), **hyperleucocytosis and leucostasis**, and anaemia and thrombocytopenia. **Take the samples and call haematology the same day** — do not book an outpatient appointment.
+> - **Flow cytometry does not show tissue architecture**, so it does not replace a **lymph node excision biopsy** for lymphoma classification (see `NEW_Investigations_General_and_Preventive.md` 0.10).
+> - **Take samples before starting corticosteroids** wherever possible — steroids lyse lymphoblasts and can render the diagnosis unobtainable, which then compromises treatment stratification for the whole illness.
+
+**Normal/abnormal:** Reported as an interpreted **immunophenotype with a diagnosis or differential**, not as raw numbers. Read the conclusion.
+
+**Alt:** **Morphology on blood film and marrow aspirate**; **immunohistochemistry** on fixed tissue (which does show architecture — see `NEW_Investigations_General_and_Preventive.md` 0.11); **cytogenetics and FISH**; **molecular studies and next-generation sequencing**; lymph node or tissue biopsy. See [[10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders]].
+
+## 0.18 Biopsy and Procedures (Bone Marrow Aspirate and Trephine, Lymph Node Biopsy)
+
+**D:** **Bone marrow aspirate** — liquid marrow drawn from the posterior iliac crest (or sternum in adults, rarely) for **morphology, flow cytometry, cytogenetics, molecular studies and iron staining**. **Trephine biopsy** — a **core of intact bone and marrow** taken through the same site, showing **architecture, cellularity, fibrosis and infiltration** that an aspirate cannot. The two are complementary and are almost always taken together.
+
+**Ind:** Unexplained cytopenias or pancytopenia; suspected **acute leukaemia, myelodysplastic syndrome, myeloproliferative neoplasm, myeloma, lymphoma or aplastic anaemia**; **staging** of lymphoma; unexplained splenomegaly; suspected marrow infiltration by solid tumour; suspected storage disorder; **pyrexia of unknown origin** (with culture, including mycobacterial); assessment of iron stores where serum tests are uninterpretable.
+
+**Role:** The **definitive assessment of haematopoiesis** and the diagnostic procedure for most primary marrow disease.
+
+> [!info] **What each part answers, and why "dry tap" is informative rather than a failure**
+> The **aspirate** gives cell detail — blast percentage, dysplasia, plasma cells, iron stores. The **trephine** gives **cellularity relative to age, fibrosis, and the pattern of infiltration**. **A "dry tap" (no aspirable marrow) is itself a finding** — it points to **myelofibrosis, hairy cell leukaemia, or a packed/infiltrated marrow** — and it makes the trephine essential rather than optional.
+
+> [!danger] **Do not ignore**
+> - **Coagulopathy and thrombocytopenia must be assessed and, where necessary, corrected** before the procedure. Severe thrombocytopenia is **not** an absolute contraindication (the posterior iliac crest is compressible), but the decision is a haematologist's.
+> - **Send the samples correctly and in the right media** — **fresh and unfixed for flow cytometry and cytogenetics, formalin for the trephine, and separate specimens for microbiology culture where infection is a question.** Getting this wrong wastes an invasive procedure.
+> - **Take the samples before starting corticosteroids or chemotherapy** where at all possible.
+> - **Analgesia and explanation matter.** The procedure is painful — particularly the aspiration itself — and patients should be warned about the brief intense suction sensation, offered adequate local anaesthesia, and considered for sedation. Complications are uncommon but include bleeding, infection, and (with sternal aspiration) very rare but catastrophic mediastinal injury.
+> - **Lymph node biopsy for suspected lymphoma should be an EXCISION biopsy of a whole node where feasible** — core biopsy is often adequate but **fine-needle aspiration alone is usually not**, because classification requires architecture. Choose the most abnormal, and not simply the most accessible, node.
+
+**Normal/abnormal:** A descriptive report integrating morphology, cellularity, immunophenotype, cytogenetics and molecular findings into a diagnosis and, where relevant, a risk stratification.
+
+**Alt:** Peripheral **blood film and flow cytometry** (which increasingly answer the question without marrow sampling in some conditions); **imaging including PET/CT** for staging; **tissue biopsy** of an involved site; **liquid biopsy / circulating tumour DNA** in selected settings.
+
+## 0.19 Serum Electrophoresis and Serum Free Light Chain Quantification
+
+**D:** **Serum protein electrophoresis (SPEP)** separates serum proteins by charge, revealing a **monoclonal band (M-band or paraprotein)**; **immunofixation/immunotyping** identifies its heavy and light chain class; **serum free light chain (sFLC) assay** measures unbound κ and λ chains and — critically — their **ratio**.
+
+**Ind:** Suspected **myeloma** (bone pain, pathological fracture, unexplained anaemia, renal impairment, hypercalcaemia, very high ESR); **amyloidosis**; monoclonal gammopathy of undetermined significance monitoring; peripheral neuropathy of unknown cause; recurrent infection; and **monitoring response to treatment**.
+
+**Role:** Detects, characterises and **quantifies** the monoclonal protein — and the sFLC ratio provides a sensitive measure of clonal burden that the electrophoresis alone cannot.
+
+> [!danger] **The myeloma screen is a SET of tests and ordering only the electrophoresis misses cases.**
+> **SPEP alone misses light-chain-only myeloma** — roughly a fifth of cases — because those patients produce no intact immunoglobulin and therefore no serum M-band. **The screen is: serum electrophoresis + immunofixation + SERUM FREE LIGHT CHAINS, plus urine for Bence-Jones protein.** Reporting "electrophoresis negative" as excluding myeloma is a recognised and serious error. (See also `NEW_Investigations_Orthopaedics_Neurology_and_Other.md` 0.8, which covers the same panel from the orthopaedic back-pain angle.)
+
+> [!warning] **The free light chain RATIO, not the absolute value, is the meaningful result — and the reference range differs in renal impairment.** Light chains are renally cleared, so both κ and λ rise together when the kidneys fail; **a renal reference range for the κ:λ ratio must be applied** or normal renal impairment will be read as a clone.
+
+> [!danger] **Do not ignore**
+> - **A paraprotein without end-organ damage is MGUS, not myeloma.** Myeloma requires the **CRAB** features — hyperCalcaemia, Renal impairment, Anaemia, Bone lesions — or a defined biomarker of malignancy. MGUS is common, increases with age, and needs lifelong monitoring rather than treatment.
+> - **AL amyloidosis can present with a small or even absent M-band but an abnormal free light chain ratio** — think of it in unexplained nephrotic syndrome, cardiomyopathy with a low-voltage ECG, hepatomegaly, macroglossia, periorbital purpura, or carpal tunnel syndrome. It needs tissue biopsy with **Congo red** staining and specialist referral.
+> - **Hypercalcaemia with renal impairment and anaemia in an older patient is myeloma until excluded**, and hypercalcaemia itself is an emergency.
+> - **A normal bone scan does not exclude myeloma** (lesions are lytic without osteoblastic response) — imaging is **whole-body low-dose CT, MRI or PET/CT**.
+> - **Avoid nephrotoxins and contrast** where myeloma with renal impairment is suspected, and maintain hydration.
+
+**Normal/abnormal:** Presence, class and **quantity** of any monoclonal band; free light chains as absolute κ and λ with the **κ:λ ratio** against the appropriate (renal or non-renal) range. **Numeric diagnostic thresholds are not stated here** — the criteria are specialist, assay-dependent and periodically revised.
+
+**Alt:** **Urine electrophoresis and immunofixation** (Bence-Jones protein); **urine protein:creatinine ratio**; FBC and film (**rouleaux**), calcium, renal function, albumin, LDH, **β₂-microglobulin** (0.20); **bone marrow aspirate and trephine with cytogenetics — the diagnostic test** (0.18); **whole-body low-dose CT / MRI / PET-CT**; tissue biopsy with Congo red for amyloid. See [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]].
+
+## 0.20 Beta-2 Microglobulin
+
+**D:** The **light chain of the MHC class I molecule**, shed from the surface of all nucleated cells and **cleared almost entirely by the kidney** — filtered at the glomerulus and reabsorbed and catabolised in the proximal tubule.
+
+**Ind:** **Staging and prognosis in multiple myeloma** — it is a component of the **International Staging System**; prognosis in **lymphoma and CLL**; monitoring in some lymphoproliferative disorders; and, in nephrology, as a marker of **proximal tubular dysfunction** and of dialysis-related amyloidosis.
+
+**Role:** A **prognostic marker reflecting both tumour burden and renal function** — which is exactly why it is useful in myeloma staging (where both matter) and useless as a diagnostic test.
+
+> [!danger] **It is NOT a diagnostic or screening test for any malignancy.** Sources note it is elevated in lymphoproliferative disease with abnormal levels indicating potentially worse disease characteristics — but it is also raised by **any renal impairment**, by **infection (notably HIV and CMV)**, by **inflammatory and autoimmune disease**, and by **liver disease**. **A raised β₂-microglobulin in isolation means very little**, and it must never be used to look for cancer in an undifferentiated patient.
+
+> [!warning] **The renal confound is the whole interpretive problem.** Because it is renally cleared, a raised level in a myeloma patient may reflect **the myeloma, the renal impairment the myeloma caused, or unrelated kidney disease** — which is precisely why the ISS combines it with **serum albumin** rather than using it alone, and why the revised staging system adds cytogenetics and LDH.
+
+**Normal/abnormal:** Laboratory reference interval; **staging thresholds are part of formal, periodically revised staging systems and are not reproduced here** — they must come from the current criteria, not from a note.
+
+**Alt:** **Serum albumin, LDH and cytogenetics** — the other components of myeloma staging; **serum and urine electrophoresis and free light chains** (0.19); renal function; imaging; bone marrow examination (0.18). See [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]].
+
+## 0.21 Osmotic Fragility Test
+
+**D:** Red cells are incubated in **progressively hypotonic saline** and the concentration at which haemolysis occurs is measured. **Spherocytes**, having lost membrane surface area relative to volume, tolerate less water entry and **lyse at higher (less hypotonic) concentrations** — increased osmotic fragility.
+
+**Ind:** Suspected **hereditary spherocytosis** — a Coombs-negative haemolytic anaemia with spherocytes on the film, splenomegaly, jaundice, pigment gallstones, and a family history.
+
+**Role:** A **historical test that has largely been superseded**, retained here because the name persists in teaching and in older records.
+
+> [!warning] **Its limitations are why it was replaced**
+> - **Neither sensitive nor specific.** It is **normal in a significant minority of patients with hereditary spherocytosis** (particularly mild cases), and it is **abnormal in any condition producing spherocytes** — including **autoimmune haemolytic anaemia**, which is a completely different disease with completely different management.
+> - **Recent transfusion invalidates it**, because donor cells dominate the sample.
+> - **Coexisting iron deficiency masks it** (iron-deficient cells are relatively resistant to osmotic lysis), so a patient with both can test normal.
+> - **Incubated (24-hour) osmotic fragility** is more sensitive than the immediate test but is slower and still imperfect.
+
+> [!info] **What has replaced it: the EMA (eosin-5-maleimide) binding test by flow cytometry**, which measures band 3 protein and is more sensitive and specific and much faster, usually combined with the **acidified glycerol lysis test** or **cryohaemolysis**, and with **genetic testing** where the diagnosis remains unclear. **If your laboratory offers EMA binding, request that instead.**
+
+> [!danger] **Do not ignore**
+> - **The FIRST test in a spherocytic haemolytic anaemia is the DIRECT ANTIGLOBULIN TEST (Coombs).** **A positive DAT means autoimmune haemolytic anaemia, not hereditary spherocytosis** — and the treatments (immunosuppression versus supportive care and, sometimes, splenectomy) are opposite. Never order an osmotic fragility test before a DAT.
+> - **Parvovirus B19 causes APLASTIC CRISIS in hereditary spherocytosis and other chronic haemolytic states** — a sudden fall in haemoglobin with a **low reticulocyte count** in a patient with known haemolysis is aplastic crisis until proven otherwise, and needs urgent transfusion support.
+> - **Folate supplementation** is standard in chronic haemolysis, and **gallstones** should be anticipated.
+> - **Splenectomy** (which is not undertaken lightly, and requires **vaccination against encapsulated organisms and long-term antibiotic prophylaxis and education**) is reserved for significant disease. See [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]].
+
+**Normal/abnormal:** Increased fragility supports spherocytosis; a normal result does not exclude it.
+
+**Alt:** **EMA binding test by flow cytometry — the current test of choice**; acidified glycerol lysis test; cryohaemolysis; **blood film** (the first and most informative test); **direct antiglobulin test** (mandatory first); reticulocytes, bilirubin, LDH and haptoglobin; genetic testing of the membrane protein genes.
+
+## 0.22 Sickle Cell Prep (Sickle Solubility Test)
+
+**D:** A **solubility screening test**: deoxygenating reagent is added to blood, and **haemoglobin S polymerises and precipitates**, producing turbidity. A positive test means **haemoglobin S is present** — nothing more.
+
+**Ind:** Screening for haemoglobin S — historically in emergency, pre-operative and antenatal settings, and in family and population screening.
+
+**Role:** **A screening test that is now largely obsolete in Australian practice**, because it answers only half the question.
+
+> [!danger] **THE CRITICAL LIMITATION: the sickle solubility test CANNOT DISTINGUISH SICKLE CELL TRAIT (HbAS) FROM SICKLE CELL DISEASE (HbSS), or from the compound heterozygous states (HbSC, HbS/β-thalassaemia).**
+> It is **positive in all of them** — and their clinical implications could hardly be more different. **A positive test must always be followed by HAEMOGLOBIN ELECTROPHORESIS OR HPLC** to quantify the haemoglobin fractions and make the actual diagnosis. Acting on a positive solubility test alone — labelling a trait carrier as having sickle cell disease, or vice versa — has real consequences for the patient, for anaesthetic planning, and for genetic counselling.
+
+> [!warning] **Other failure modes**
+> - **FALSE NEGATIVE in infants under about 6 months**, because **fetal haemoglobin still predominates** and HbS levels are too low — which is exactly the age at which newborn screening is instead done on the bloodspot by electrophoresis/HPLC.
+> - **False negative** in severe anaemia and after recent transfusion (donor HbA dilutes the sample).
+> - **False positive** in hyperproteinaemia, hyperlipidaemia, and other rare sickling haemoglobin variants.
+
+> [!danger] **Do not ignore**
+> - **Sickle cell TRAIT is usually benign but is not entirely without consequence** — it is associated with **renal medullary carcinoma (rare but important), papillary necrosis and haematuria, hyposthenuria, splenic infarction at altitude, and exertional rhabdomyolysis under extreme conditions.** It should be **documented and communicated for genetic counselling**, since two carriers have a 1-in-4 risk per pregnancy.
+> - **Sickle cell DISEASE presenting acutely is a medical emergency**: **vaso-occlusive crisis needs prompt, adequate analgesia — often opioids — without delay or suspicion**, alongside hydration, oxygen, and a search for the precipitant (infection, dehydration, cold, hypoxia). **Acute chest syndrome, stroke, splenic sequestration, aplastic crisis and priapism are the life- and organ-threatening complications.** Patients are **functionally hyposplenic** and at risk from encapsulated organisms — fever is treated urgently.
+> - **Under-treatment of sickle pain in emergency departments is a well-documented failure with a racial dimension.** Believe the patient, use their individualised plan where one exists, and involve haematology.
+> - See [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] and [[15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP]].
+
+**Normal/abnormal:** Positive (HbS present, type undetermined) or negative.
+
+**Alt:** **Haemoglobin electrophoresis or HPLC — the definitive test** (built as 0.9 of `NEW_Investigations_Haematology.md`); **newborn bloodspot screening**; blood film (sickle cells, target cells, Howell-Jolly bodies indicating hyposplenism); FBC and reticulocytes; **genetic testing** for antenatal diagnosis and family screening.
+
+## 0.23 Schilling Test
+
+**D:** A historical, multi-stage test of **vitamin B₁₂ absorption**, using **radiolabelled B₁₂** given orally with an intramuscular unlabelled flushing dose, and measuring **urinary excretion of the label**. A second stage repeated **with intrinsic factor** distinguished **pernicious anaemia** (corrected by intrinsic factor) from **intestinal malabsorption** (not corrected).
+
+**Ind:** **None in current practice.**
+
+**Role:** **Entirely obsolete, and it is included here only because it appears on the build list and persists in older textbooks and exam questions.** It was abandoned because it required **radioisotopes**, a **complete and reliable 24-hour urine collection**, and was **inaccurate in renal impairment** — and because serology and simpler biochemistry answer the question better.
+
+> [!info] **What replaced it, and how the question is actually answered now**
+> 1. **Serum B₁₂** — with the caveat that it is an unreliable test at the margins.
+> 2. **Metabolites where B₁₂ is borderline: METHYLMALONIC ACID and HOMOCYSTEINE**, both of which rise in true tissue deficiency (**MMA is the more specific for B₁₂**, since homocysteine also rises in folate deficiency). These are built as 0.3 and 0.4 of `NEW_Investigations_Haematology.md`.
+> 3. **Anti-intrinsic factor antibodies** — highly **specific but insensitive**, so a positive result confirms pernicious anaemia and a negative one does not exclude it; and **anti-parietal cell antibodies** — sensitive but non-specific. Both are built as 0.5 and 0.6 of `NEW_Investigations_Haematology.md`.
+> 4. **Gastroscopy with biopsy** where atrophic gastritis or malignancy is suspected, and **coeliac serology** where malabsorption is the question.
+
+> [!danger] **Do not ignore — the clinical points that outlast the test**
+> - **NEUROLOGICAL DAMAGE FROM B₁₂ DEFICIENCY CAN OCCUR WITH A NORMAL FULL BLOOD COUNT AND NO ANAEMIA OR MACROCYTOSIS.** **Subacute combined degeneration of the cord** — dorsal column and corticospinal involvement with paraesthesia, ataxia and weakness — is treatable early and **irreversible late**. Do not wait for a macrocytosis.
+> - **TREAT BEFORE FOLATE.** Giving folate to a B₁₂-deficient patient corrects the anaemia while **allowing the neurological disease to progress**. **Check and replace B₁₂ first.**
+> - **Look for the cause**, not just the number: pernicious anaemia, **metformin**, **proton pump inhibitors and H₂ antagonists**, gastrectomy or bariatric surgery, terminal ileal disease or resection (Crohn disease), coeliac disease, strict vegan diet, and **nitrous oxide exposure — including recreational use** (see `NEW_Drugs_02_Anaesthetics.md` 0.2.4).
+> - **Pernicious anaemia carries an increased risk of gastric carcinoma and carcinoid**, and is associated with other autoimmune disease (thyroid, type 1 diabetes, vitiligo).
+> - See [[10_06a_Haemonc_-_Macrocytic_Anaemia]].
+
+**Normal/abnormal:** Not applicable — the test is not performed.
+
+**Alt:** All of the above: serum B₁₂, **MMA and homocysteine**, **anti-intrinsic factor and anti-parietal cell antibodies**, FBC and film, reticulocytes, LDH and bilirubin (ineffective erythropoiesis causes a degree of intramedullary haemolysis), coeliac serology, and endoscopy.
 
 ## 0.24 Lymphoscintigraphy
 
@@ -3323,7 +3736,8 @@
 
 # 2 Block-5 moves merged in (2026-09-01)
 
-> [!info] **Block 5.** `M-2` Coombs/DAT was held — the evidence changed under `ac620de`. `M-3` G-CSF arrives here because AXIS-1 de-duplicated `NEW_Drugs_07` to this file.
+> [!info] **Block 5.** `M-2` Coombs/DAT was held — the evidence changed under `ac620de`, which was
+> itself reverted on 2026-09-01. The hold stands and `M-2` needs re-deciding against the current tree. `M-3` G-CSF arrives here because AXIS-1 de-duplicated `NEW_Drugs_07` to this file.
 
 <!-- ===== SOURCE: NEW_Investigations_Endocrine.md ===== -->
 *Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*

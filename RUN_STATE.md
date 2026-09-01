@@ -233,6 +233,50 @@ system file · no Clinical Process combinations · **no merging of any duplicate
 
 ---
 
+## REVERTED — `ac620de` (2026-09-01, on your instruction)
+
+**The section below is history. It describes a state the vault is no longer in.**
+
+You reverted it: *"I study by system, and having thyroid function tests one file away from the
+thyroid entry is the retrieval problem I started with."* All **104 sections** are back in the
+**12 system files** they came from, and `Investigation-Interpretation.md` is Part 1 (§1.1–§1.22,
+its own original content) plus Part 3 (the `GER7` merge from `eb71338`, which was a separate
+ruling and stands).
+
+**What the revert had to do beyond reversing the commit**, because three later commits had
+already built on top of it:
+
+| | |
+|---|---|
+| `Anaes §0.6 Group & Hold` | conflicted with the later `Examination` split, which had stubbed `§0.5` in the same region. `§0.5` stub kept, `§0.6` restored. |
+| `GP §0.14–0.16` genetics | conflicted with the later `Preventive-Health` move of `§0.12–0.13`. Both stubs kept, all three genetics sections restored. |
+| 10 co-located accounts | `d37842c` had moved 10 of the 104 **up into Part 1**, beside their pair. Those went back to their source files too. |
+| `Renal H1 §0.6 Renal Biopsy` | the one section a **later** commit moved *out* of Part 2, to `Procedures.md` under AXIS-2. That move stands: the restored copy was removed from `Renal and Urology_merged.md` and replaced with a stub, and `Procedures.md`'s provenance line now names Renal, not Investigation-Interpretation. This was the `RU-13` re-point. |
+| troponin trio | needed **no** change. All three markers describe Part 1 §1.12, Part 3 §0.4 and `Cardio §0.5` — none of them referenced Part 2. |
+| 2 orphan stubs | `Preventive-Health.md` and `Examination.md` each carried a *"moved to Part 2"* stub that had travelled with content moved out of GP and Anaes. Both described sections that are now back in their original files, so both were removed. |
+| 4 stale references | `Procedures.md` three-way `CF-PAIR`, `GER8`'s scope note, `OBGYN`'s C3 note, and `Heme Onc`'s block-5 note each named Part 2. All re-pointed. |
+
+**Part 3 keeps its number.** There is no Part 2 and the numbering is not repaired — §1.14 forbids
+renumbering sections. A `[!info]` block above Part 3 says so, so the gap reads as deliberate.
+
+**Verification, all against `ac620de~1`:** 123 headings (the 104 sections plus their
+subheadings) restored **line-for-line identical**, bar three whose span now also contains a stub
+left by a *later* commit · Part 1 byte-identical to `ac620de~1` apart from two `CF-PAIR` markers
+that predate or survive the revert · total headings 4899 → 4898, the one loss being the Part 2
+header itself · **duplicate-heading counts unchanged in every file in the vault** · `## 0.6 Renal
+Biopsy` no longer exists twice · dividers 411, all conforming · dangling 1 (the deliberate
+`[[B2]] 0.5`) · misaimed 0 · broken callouts 25 before, 25 after, and the one net change in
+`Endocrine` is a callout that was already that shape at `ac620de~1`.
+
+**Consequence you should know about.** `d37842c` co-located 10 accounts into Part 1 precisely
+because they were duplicate pairs. Reverting has split those 10 pairs again — the Part 1 half
+stays in `Investigation-Interpretation.md`, the other half is back in its system file. The
+co-location rule and the by-system rule point in opposite directions for exactly these 10, and
+the revert was the later instruction, so the revert won. If you want them co-located again the
+move has to go the other way: the Part 1 account down into the system file.
+
+---
+
 ## INVESTIGATION-INTERPRETATION EXECUTED (2026-09-01, `ac620de`) — the first destination approval
 
 **104 sections · 2,285 lines · 23 source blocks · 12 system files.**

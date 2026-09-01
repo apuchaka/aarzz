@@ -616,17 +616,6 @@ The **National Immunisation Program (NIP)** provides funded vaccines. The **chil
 **Normal/abnormal:** Reported against a structured nodule classification with an explicit **risk category and recommended return interval** — very low risk (routine 2-yearly) through to findings requiring prompt diagnostic assessment.
 
 **Alt:** **Chest X-ray — NOT an acceptable screening test** for lung cancer (it does not reduce mortality, and offering it as a substitute is misleading); diagnostic CT with contrast in the symptomatic patient; PET/CT and biopsy for characterising a detected nodule; **smoking cessation** as the intervention with the largest effect. See [[02_Respiratory]].
-
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 3 sections from this source block.**
->
-> `0.14 Genetic Risk Assessment` · `0.15 Genetics and Molecular Testing` · `0.16 Pharmacogenomic Assessment`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
-
 <!-- ===== SOURCE: 08_01-03_Infectious_Disease_-_Bacterial_Infections.md ===== -->
 *Moved here from `Infectious Disease_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 

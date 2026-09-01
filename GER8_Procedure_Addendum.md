@@ -21,5 +21,6 @@ source: built in chat, model knowledge, NOT source-verified
 > **0 inbound wikilinks**, so nothing breaks.
 >
 > `§0.3` and `§0.5` carry `CF-PAIR` markers: Gastrografin against `GI §0.36` (`M-18`), and
-> Arthrocentesis against **two** entries in `[[Investigation-Interpretation]]` — §1.15 and the
-> `MSK L1 §0.6` block moved there on `ac620de`. Three copies, none merged.
+> Arthrocentesis against `[[Investigation-Interpretation]] §1.15` and the `MSK L1 §0.6` block
+> (which was briefly in that file on `ac620de` and is back in `MSK_merged.md` since the revert
+> of 2026-09-01). Three copies, none merged.

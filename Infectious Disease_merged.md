@@ -3014,15 +3014,60 @@ Immunotherapy or biologic therapy through a specialist service.
 
 ---
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 3 sections from this source block.**
->
-> `0.1 Gram Stain` · `0.2 Microbiology Panel (Wound Culture and Sensitivity)` · `0.3 Viral Culture`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+## 0.1 Gram Stain
+
+**D:** Rapid microscopic stain separating bacteria by cell wall structure — **Gram-positive stain blue/purple, Gram-negative stain red/pink** — combined with morphology (cocci, bacilli) and arrangement (clusters, chains, diplococci).
+
+**Ind:** Any specimen from a suspected bacterial infection where a same-hour answer changes management — CSF, joint aspirate, pleural or ascitic fluid, sputum, wound swab, positive blood culture bottles, urine in some settings.
+
+**Role:** **Initial, not definitive.** Its value is speed: a result in under an hour, against 24–48h for culture. It narrows empirical therapy and, in CSF or joint fluid, can convert a suspicion into an immediate treatment decision.
+
+**Safety/cost:** Cheap, non-invasive on an already-collected specimen. The risk sits entirely in the **collection** (lumbar puncture, joint aspiration), not the stain.
+
+> [!danger] **Do not ignore**
+> - **Organisms on CSF Gram stain** — bacterial meningitis; antibiotics immediately, and the result should be phoned.
+> - **Organisms on joint aspirate** — septic arthritis until proven otherwise.
+> - **Gram-positive cocci in clusters from blood cultures** — possible *S. aureus* bacteraemia, which is never a contaminant to be ignored and mandates source hunting and echocardiography consideration.
+> - **Any organism from a normally sterile site.**
+
+**Normal:** No organisms seen. In sputum, an assessment of specimen quality is reported alongside — **abundant squamous epithelial cells indicate oropharyngeal contamination and make the specimen uninterpretable**, which is the commonest reason a sputum result is worthless.
+
+**Abnormal:** Report morphology and match to the likely organism — Gram-positive cocci in clusters (staphylococci), in chains (streptococci/enterococci), Gram-negative diplococci (*Neisseria*), Gram-negative bacilli (Enterobacterales, *Pseudomonas*), Gram-positive bacilli (*Listeria*, *Clostridium*). **A negative Gram stain does not exclude infection** — sensitivity is limited, particularly after antibiotics have been given.
+
+**Alt:** Culture (definitive, gives susceptibilities); **PCR/NAAT** (more sensitive, unaffected by prior antibiotics, but gives no susceptibility data); MALDI-TOF on cultured isolates for rapid species identification.
+
+## 0.2 Microbiology Panel (Wound Culture and Sensitivity)
+
+**D:** Aerobic ± anaerobic culture of a wound, tissue or fluid specimen with antimicrobial susceptibility testing.
+
+**Ind:** Clinically infected wound; failure of empirical therapy; suspected resistant organism; deep or surgical-site infection; osteomyelitis; any infection where targeted therapy will follow.
+
+**Role:** **Gold standard for organism identification and susceptibility**, which is what distinguishes it from PCR. The specimen matters more than the test: **tissue or deep aspirate is far superior to a superficial swab**, which frequently grows colonising skin flora and misdirects therapy.
+
+**Safety/cost:** Inexpensive; risk is in obtaining deep specimens. **Take cultures before antibiotics wherever it does not delay treatment of a septic patient** — the yield falls sharply afterwards.
+
+> [!danger] **Do not ignore**
+> Growth of a **multi-resistant organism** (MRSA, VRE, ESBL, CPE) — triggers infection-control isolation as well as a therapy change. **Anaerobes or mixed growth from a rapidly progressing soft tissue infection** — think necrotising infection and call surgery; do not wait for sensitivities.
+
+**Normal:** No growth, or growth reported as normal skin/commensal flora. Sources describe **>10⁵ organisms per gram of tissue or per mL of aspirate** as the conventional quantitative threshold for wound infection; treat it as an aid, not a rule, and interpret with the clinical picture.
+
+**Abnormal:** Identify organism and read the susceptibility panel. **Interpret "sensitive" against the site** — an antibiotic reported sensitive in vitro may not penetrate bone, CSF or abscess cavities. Mixed anaerobic/aerobic growth suggests a polymicrobial deep infection.
+
+**Alt:** Gram stain (speed); 16S rRNA PCR or targeted NAAT where the patient is pre-treated with antibiotics; blood cultures; imaging for a collection needing drainage — **no antibiotic sterilises an undrained abscess**.
+
+## 0.3 Viral Culture
+
+**D:** Growth of virus in cell culture with identification by cytopathic effect or immunostaining.
+
+**Ind:** Largely **historical in routine Australian practice** — displaced by PCR for almost every indication. Retains niche use where a viable isolate is needed: phenotypic antiviral resistance testing, novel or unsubtyped virus characterisation, reference and public health laboratory work.
+
+**Role:** Neither initial nor gold standard in current practice. **PCR/NAAT has replaced it** on sensitivity and turnaround.
+
+**Safety/cost:** Expensive, slow (days to weeks), requires specialised containment. Not available in most general laboratories.
+
+**Normal/abnormal:** A negative culture has poor negative predictive value and **should not be used to exclude viral infection**.
+
+**Alt:** **PCR/NAAT — the answer for essentially all clinical questions**; antigen detection; serology for exposure history rather than acute diagnosis.
 
 ## 0.4 Bacteroides
 
@@ -3118,15 +3163,25 @@ Immunotherapy or biologic therapy through a specialist service.
 
 **Alt:** Blood cultures; T2Candida and PCR assays; tissue histopathology (definitive for invasive disease); imaging for deep foci.
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
->
-> `0.9 Stool & Fecal Studies (Culture, Multiplex PCR, Ova/Cysts/Parasites`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+## 0.9 Stool & Fecal Studies (Culture, Multiplex PCR, Ova/Cysts/Parasites, Faecal Calprotectin, FOBT/FIT)
+
+**D:** A family of tests on faeces: **bacterial culture**, **faecal multiplex PCR** for bacterial, viral and parasitic pathogens, **microscopy for ova, cysts and parasites (OCP)**, **faecal calprotectin** (an inflammatory marker), and **FOBT/FIT** (occult blood).
+
+**Ind:** Sources are explicit that **most infectious diarrhoea is mild, self-limiting and needs no microbiological testing** — supportive rehydration is sufficient. Test when: severe illness, bloody diarrhoea, systemic toxicity, immunosuppression or significant comorbidity, prolonged symptoms, recent travel, an outbreak or public-health concern, recent antibiotics or hospitalisation (*C. difficile*), or a food-handler/childcare occupation.
+
+**Role:** **Multiplex PCR has largely replaced culture** for pathogen detection on speed and sensitivity, and detects viral causes that culture misses entirely — important because viruses cause much of the paediatric burden. **Culture is still needed where an isolate is required** for susceptibility testing or public-health typing. **OCP microscopy must be specifically requested** and is indicated in returned travellers, agricultural exposure and prolonged symptoms — write the history on the request form.
+
+**Safety/cost:** Non-invasive. Multiplex PCR is more expensive per test but reduces repeat testing. Its main drawback is **detection of organisms that may be colonising rather than causative**, which requires clinical judgement.
+
+> [!danger] **Do not ignore**
+> **Bloody diarrhoea with acute kidney injury and a falling platelet count** — consider Shiga toxin-producing *E. coli* and **haemolytic uraemic syndrome**; see [[08_10_Infectious_Disease_-_Diarrhoea_DDx_and_Gastroenteritis]] and [[15_11_Paeds_-_Urological_and_Renal_Anomalies__Wilms_Tumour__HUS]]. **Antibiotics and antimotility agents are avoided** where STEC is suspected.
+> ***C. difficile* toxin positive** in a patient on antibiotics — stop the precipitant where possible, isolate, and treat.
+
+**Normal:** No pathogen detected. **Faecal calprotectin** distinguishes inflammatory from functional bowel disease — a low result argues strongly against active IBD and supports IBS, avoiding colonoscopy; **the numeric cut-off is deliberately omitted, being assay-specific and not confirmable to three sources here.**
+
+**Abnormal:** Match organism to syndrome and to public-health notification requirements. **FIT positivity** is a bowel-cancer screening result requiring colonoscopy, not an infection result — see [[19_General_Practice_and_Preventive_Medicine]] for the screening programme.
+
+**Alt:** Blood cultures if systemically septic; sigmoidoscopy/colonoscopy where IBD or ischaemic colitis is likely; imaging for complications.
 
 ## 0.10 Cryptosporidium
 
@@ -3163,15 +3218,230 @@ Immunotherapy or biologic therapy through a specialist service.
 
 **Alt:** Faecal multiplex PCR; duodenal aspirate/biopsy in refractory cases; consider **coeliac serology** in persistent malabsorptive symptoms (see 0.18).
 
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 10 sections from this source block.**
+## 0.12 HIV Panel (Fourth-Generation Antigen/Antibody Screen, HIV RNA Viral Load)
+
+**D:** **Fourth-generation combined assay** detecting HIV antibody **and p24 antigen**, plus **HIV RNA (viral load)** by NAAT for diagnosis in the window period and for monitoring.
+
+**Ind:** Diagnostic testing on clinical suspicion — including **any acute seroconversion illness** (fever, rash, pharyngitis, lymphadenopathy, mononucleosis-like); routine screening in antenatal care, at STI checks, in TB and hepatitis diagnosis, and in blood/tissue donation; after occupational or non-occupational exposure; and as part of the work-up of unexplained immunosuppression.
+
+**Role:** Fourth-generation assay is the **initial screening test** in Australia and other high-income settings, using highly sensitive antigen/antibody sandwich technology. Sources state that **Western blot is currently the standard confirmatory assay used in Australia** — noting that many other countries have moved to alternative confirmatory algorithms (see 0.13).
+
+> [!warning] **The window period, and the second window.** Sources give the fourth-generation window as approximately **18–45 days**, with about **45 days required to detect 99%** of infections. There is also a described **"second diagnostic window"** — a period of assay non-reactivity after the p24 antigen falls below detection but before antibody becomes reactive, reported as lasting **up to about 28 days**. **In both windows the answer is HIV NAAT (RNA or proviral DNA), not a repeat serology.**
+> Because sources vary on the precise window boundaries, treat these as approximate and **repeat testing at the interval your local protocol specifies** after a significant exposure.
+
+**Safety/cost:** Venepuncture only. **Consent and pre-/post-test discussion** are part of the test — a positive result has major personal consequences, and Australian practice requires the result be given in person by someone able to arrange immediate linkage to care.
+
+> [!danger] **Do not ignore**
+> A **reactive screen must never be given to a patient as a diagnosis before confirmatory testing** — false positives occur, and the consequences of a wrong result are severe. Equally, **a negative screen in someone with a compelling acute seroconversion picture does not exclude HIV** — request NAAT.
+
+**Normal:** Non-reactive. Report with the caveat about window periods where recent exposure is possible.
+
+**Abnormal:** Reactive screen → confirmatory testing → if confirmed, **baseline viral load, CD4 count, resistance genotype, hepatitis B and C serology, syphilis serology, and screening for other STIs and TB**, with urgent referral. See [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]].
+
+**Alt:** Point-of-care rapid tests (useful for reach and speed; **all reactive results require laboratory confirmation**); HIV NAAT for the window period; CD4 count for staging, not diagnosis.
+
+## 0.13 Western Blot
+
+**D:** Immunoblot separating viral proteins by electrophoresis and detecting antibody against individual bands.
+
+**Ind:** **Confirmatory testing after a reactive HIV screening immunoassay** — sources identify it as the current standard confirmatory assay in Australia. Historically also used for Lyme disease confirmation.
+
+**Role:** **Confirmatory, never a screening test.** It is a first-generation technology retained for its specificity.
+
+**Safety/cost:** Labour-intensive, slow, and expensive relative to modern alternatives; performed in reference laboratories.
+
+> [!warning] **Its known weakness is early infection.** Because it detects antibody only, **Western blot can be negative or indeterminate during seroconversion when the fourth-generation screen is already reactive on the p24 antigen** — precisely the situation in acute HIV. An **indeterminate** result therefore requires **HIV NAAT and repeat serology**, not reassurance. This assay-generation mismatch is the main reason other countries have moved to antigen/antibody differentiation assays plus NAAT.
+
+**Normal:** Negative — no bands, or bands below the criteria for reactivity.
+
+**Abnormal:** Positive confirms infection. **Indeterminate** requires the follow-up above and is the result most likely to be mishandled.
+
+**Alt:** HIV-1/HIV-2 antibody differentiation immunoassay; **HIV NAAT** — faster, and positive earlier.
+
+## 0.14 Syphilis Panel (Treponemal EIA/CMIA, RPR, VDRL, TPPA/FTA-ABS)
+
+**D:** Two classes of test used together: **treponemal** (EIA/CMIA, TPPA, FTA-ABS — detect antibody to *T. pallidum*, usually **positive for life** after infection) and **non-treponemal** (**RPR, VDRL** — detect non-specific reagin, reported as a **quantitative titre**, and fall with successful treatment).
+
+**Ind:** STI screening; antenatal screening; any genital ulcer, unexplained rash (**especially palms and soles**), unexplained neurological or ophthalmic disease; HIV diagnosis; blood donation.
+
+**Role:** Modern laboratories use the **reverse-sequence algorithm**: a treponemal immunoassay first, reflexing to a **quantitative RPR**, with a second treponemal test (**TPPA**) as tiebreaker when the two disagree.
+
+> [!info] **Interpreting the combinations** (three-source agreement on the pattern)
+> | EIA | RPR | TPPA | Interpretation |
+> |---|---|---|---|
+> | Reactive | Reactive | Reactive | Syphilis infection — stage clinically; if previously treated with a **falling** titre, consistent with treated disease |
+> | Reactive | Non-reactive | Reactive | **Past, successfully treated syphilis** (or very early, or late latent) |
+> | Reactive | Non-reactive | Non-reactive | **False-positive screen** |
+> | Non-reactive | — | — | No serological evidence of syphilis — but does not exclude very early primary infection |
+
+> [!warning] **Titres, not positives, are what you follow.** RPR/VDRL must be reported quantitatively (1:2, 1:4, 1:8…). **A four-fold change is the meaningful unit** — a four-fold fall indicates treatment response, a four-fold rise suggests reinfection or treatment failure. Some patients remain **"serofast"** — a persistent low titre for life despite adequate treatment — and this is not failure. **Always compare against the same laboratory's previous titre.**
+> **Biological false-positive RPR** occurs in pregnancy, autoimmune disease (especially antiphospholipid syndrome), acute infection including EBV, IV drug use and older age.
+
+> [!danger] **Do not ignore**
+> **Syphilis in pregnancy** — congenital syphilis is preventable and devastating; treatment is time-critical. **Any neurological, ophthalmic or otological symptom in a patient with syphilis** — neurosyphilis can occur at any stage and requires CSF examination and different treatment.
+
+**Normal:** Non-reactive treponemal screen.
+
+**Abnormal:** Stage the infection clinically, treat, **notify and trace contacts**, and **test for other STIs including HIV**. **Regimens are not stated here** — Australian STI guidelines are egress-blocked and stage-specific.
+
+**Alt:** **Dark-field microscopy** and lesion PCR for primary chancre (marked `[CUT]` on the build list, noted here only for completeness); CSF examination for neurosyphilis.
+
+## 0.15 Monospot (Heterophile Antibody Test)
+
+**D:** Latex/slide agglutination detecting **heterophile antibodies** produced in acute EBV infection.
+
+**Ind:** Suspected infectious mononucleosis — sore throat, fever, marked cervical (especially posterior) lymphadenopathy, fatigue, splenomegaly.
+
+**Role:** **Initial, rapid and cheap**, but with an important sensitivity profile.
+
+> [!warning] **False negatives are common and predictable.** Sources give a consistent pattern: negative in around **25% in the first week** of illness, **5–10% in the second**, and **~5% in the third**; and it performs poorly **in children under about 4 years**, in whom heterophile antibodies are often simply not produced. **A negative Monospot early, or in a young child, does not exclude glandular fever** — request EBV-specific serology.
+
+**Safety/cost:** Cheap, rapid, minimal blood volume.
+
+> [!danger] **Do not ignore**
+> **Splenomegaly** — advise avoidance of contact sport and heavy lifting because of splenic rupture risk (**the duration of avoidance is not stated here; sources differ**). **Stridor, drooling or airway compromise** from tonsillar hypertrophy is an airway emergency. **A morbilliform rash after amoxicillin** in this setting is the classic association and is not a penicillin allergy.
+
+**Normal:** Negative — interpret against duration of illness and age as above.
+
+**Abnormal:** Positive supports acute EBV. **FBC and film typically show lymphocytosis with atypical/reactive lymphocytes**; LFTs are commonly mildly deranged. Note that heterophile antibodies are also implicated in **false-positive treponemal syphilis serology**, a documented cross-reaction.
+
+**Alt:** **EBV-specific serology (VCA IgM/IgG, EBNA)** — the test when Monospot is negative but suspicion persists; sources support VCA IgM plus transient early-antigen antibody as diagnostic of acute infection in heterophile-negative serum. **Consider the mononucleosis-like differentials — CMV, acute HIV, toxoplasmosis, adenovirus** — which specific serology distinguishes and which Monospot cannot.
+
+## 0.16 Parvovirus Serology (Parvovirus B19 IgM and IgG)
+
+**D:** Serology for parvovirus B19 — the cause of **erythema infectiosum (fifth disease, "slapped cheek")**.
+
+**Ind:** Rash illness in a child or adult; **acute symmetrical arthropathy**, especially in adult women; **exposure in pregnancy**; **transient aplastic crisis** in a patient with a haemolytic anaemia; unexplained anaemia in the immunocompromised.
+
+**Role:** Serology is the initial test in the immunocompetent. **PCR is preferred in pregnancy for fetal assessment and in the immunocompromised**, who may not mount an antibody response.
+
+> [!info] **Interpretation** (source-supported)
+> | IgM | IgG | Interpretation |
+> |---|---|---|
+> | Negative | Positive | **Past infection — immune, no fetal risk** |
+> | Positive | Positive | **Infection within roughly the last 7–120 days — possible fetal risk if pregnant** |
+> | Positive | Negative | Very recent infection |
+> | Negative | Negative | Susceptible — repeat if recent exposure |
 >
-> `0.12 HIV Panel (Fourth-Generation Antigen/Antibody Screen, HIV RNA Vir` · `0.13 Western Blot` · `0.14 Syphilis Panel (Treponemal EIA/CMIA, RPR, VDRL, TPPA/FTA-ABS)` · `0.15 Monospot (Heterophile Antibody Test)` · `0.16 Parvovirus Serology (Parvovirus B19 IgM and IgG)` · `0.17 ASOT (Anti-Streptolysin O Titre) and Anti-DNase B` · `0.18 Coeliac Serology (Anti-tTG IgA, Deamidated Gliadin Peptide IgA/Ig` · `0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl` · `0.20 Positive Autoimmune Serology (approach to an unexpected positive)` · `0.21 Vasculitis Serology (ANCA, PR3, MPO, Anti-GBM)`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+> IgM becomes detectable around **10–12 days** after infection and may persist **3–4 months or longer**; IgG persists for life.
+
+> [!danger] **Do not ignore**
+> **Parvovirus exposure or infection in pregnancy** — risks include **fetal anaemia, hydrops fetalis and miscarriage**, and confirmed maternal infection requires **serial fetal ultrasound with middle cerebral artery Doppler** surveillance under obstetric care. **Aplastic crisis** in sickle cell disease or hereditary spherocytosis — a sudden severe anaemia with an inappropriately **low reticulocyte count**, which is the discriminating finding.
+
+**Normal:** IgG positive/IgM negative in a large share of adults — immunity, and reassuring in pregnancy.
+
+**Abnormal:** Acute infection in pregnancy → obstetric referral. In the immunocompromised → **parvovirus PCR**, since serology is unreliable.
+
+**Alt:** **Parvovirus B19 PCR** (blood, or amniotic fluid in fetal assessment); FBC and reticulocyte count where aplastic crisis is suspected — see 0.1 of `NEW_Investigations_Haematology.md`.
+
+## 0.17 ASOT (Anti-Streptolysin O Titre) and Anti-DNase B
+
+**D:** Antibody titres against streptococcal exotoxins — evidence of **recent** group A streptococcal infection, not current infection.
+
+**Ind:** Suspected **acute rheumatic fever**, **post-streptococcal glomerulonephritis**, or post-streptococcal reactive arthritis — where the streptococcal infection has usually resolved by the time the complication presents.
+
+**Role:** Supportive evidence of antecedent infection. **Neither test diagnoses acute pharyngitis** — throat swab culture or PCR does that.
+
+> [!warning] **Which test to order depends on the site of the preceding infection, and this is the high-yield point.** Sources agree that **after skin infection (impetigo/pyoderma) ASOT is unreliable and anti-DNase B is the test to use.** ASOT responds well after pharyngitis. **Ordering both increases sensitivity**, and this matters in Australia because post-streptococcal complications following **skin** infection are a major issue in remote Aboriginal and Torres Strait Islander communities.
+
+> [!info] **Sensitivity** — sources report elevated ASOT in **over 80%** of acute rheumatic fever and around **95%** of post-streptococcal glomerulonephritis; conversely, roughly **15%** of rheumatic fever cases have a normal ASOT. **A normal titre does not exclude the diagnosis.**
+
+**Safety/cost:** Venepuncture; inexpensive.
+
+**Normal:** **Numeric cut-offs are deliberately omitted** — they are laboratory- and age-dependent (titres are higher in school-aged children), and no single figure met the three-source bar. **Paired sera showing a rising titre are far more informative than a single result** interpreted against a population cut-off.
+
+**Abnormal:** A raised or rising titre supports recent streptococcal infection. **It does not by itself diagnose rheumatic fever** — that is a clinical diagnosis against defined criteria, with an Australian-specific high-risk stratification; see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] and [[01_Cardiovascular]] 0.22 Rheumatic Fever.
+
+**Alt:** Throat swab culture/PCR (for current infection); skin swab; ECG and echocardiography where rheumatic fever is suspected; urinalysis, UEC and complement (**low C3**) where post-streptococcal glomerulonephritis is suspected.
+
+## 0.18 Coeliac Serology (Anti-tTG IgA, Deamidated Gliadin Peptide IgA/IgG)
+
+**D:** Antibody testing for coeliac disease — **anti-tissue transglutaminase IgA (tTG-IgA)** as the primary test, with **total serum IgA** measured at the same time, and **DGP-IgG / tTG-IgG** where IgA is deficient.
+
+**Ind:** Chronic diarrhoea or malabsorption; **iron deficiency anaemia**, especially unexplained or refractory; unexplained weight loss; faltering growth in children; osteoporosis at a young age; unexplained transaminitis; **dermatitis herpetiformis**; first-degree relatives; type 1 diabetes and autoimmune thyroid disease.
+
+**Role:** **tTG-IgA is the first-line serological test.** Duodenal biopsy remains the diagnostic gold standard in adults.
+
+> [!danger] **Two errors that invalidate the test, both common**
+> **(1) Total IgA must be measured with it.** Sources are consistent: **tTG-IgA is falsely low in IgA deficiency**, which affects around **2%** of people with coeliac disease. If IgA is deficient, reflex to **tTG-IgG and/or DGP-IgG**, which are unaffected.
+> **(2) The patient must be eating gluten.** Serology and histology **normalise on a gluten-free diet**, so testing someone who has already excluded gluten produces a false negative and leaves them without a diagnosis — with lifelong consequences for screening, family testing and access to support. **Test before advising dietary change.**
+
+**Safety/cost:** Venepuncture. Biopsy carries endoscopy risks.
+
+**Normal:** Negative tTG-IgA with normal total IgA makes coeliac disease unlikely — **provided gluten was being eaten.**
+
+**Abnormal:** Positive serology → **gastroenterology referral for duodenal biopsy** while still on gluten. **A specific antibody titre threshold for proceeding without biopsy is deliberately omitted** — paediatric no-biopsy pathways exist but the threshold is expressed as a multiple of an assay-specific upper limit and is guideline-dependent. See [[03_Gastrointestinal]] Coeliac Disease.
+
+**Alt:** Duodenal biopsy (gold standard); HLA-DQ2/DQ8 — useful for its **negative** predictive value, since absence makes coeliac disease very unlikely, but a positive is common in the general population and does not diagnose.
+
+## 0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl-70, Anti-histone, Myositis Antibodies)
+
+**D:** Panel of autoantibodies used to characterise connective tissue disease, usually beginning with **ANA** and reflexing to **extractable nuclear antigen (ENA)** specificities.
+
+**Ind:** Clinical features suggesting connective tissue disease — inflammatory arthritis, photosensitive rash, serositis, Raynaud phenomenon, sicca symptoms, unexplained cytopenias, unexplained renal or interstitial lung disease, proximal myopathy.
+
+**Role:** **Supportive, never diagnostic alone.** These are tests to order when a clinical syndrome already suggests the diagnosis.
+
+> [!danger] **ANA is a poor screening test in an unselected patient, and this is the single most consequential point.** A low-titre positive ANA is common in **healthy people** — more so with increasing age and in women — and in other conditions entirely. Ordering ANA on non-specific fatigue or widespread pain generates false positives, anxiety and unnecessary referral. **Order it against a clinical question, not as a screen.**
+
+> [!info] **Specificities worth associating**
+> - **Anti-dsDNA, anti-Sm** — SLE (dsDNA titre can track disease activity, particularly renal).
+> - **Anti-Ro/SSA, anti-La/SSB** — Sjögren syndrome; **anti-Ro also matters in pregnancy** because of the risk of congenital heart block and neonatal lupus.
+> - **Anti-Scl-70 (topoisomerase I)** — diffuse systemic sclerosis, associated with interstitial lung disease.
+> - **Anti-centromere** — limited cutaneous systemic sclerosis/CREST.
+> - **Anti-histone** — **drug-induced lupus** (a pattern relevant to hydralazine, procainamide, isoniazid and others).
+> - **Myositis antibodies (anti-Jo-1 and the antisynthetases, anti-Mi-2, anti-SRP, anti-MDA5)** — inflammatory myopathies; **anti-Jo-1 with the antisynthetase syndrome** (myositis, interstitial lung disease, mechanic's hands, Raynaud, arthritis) and **anti-MDA5** with rapidly progressive interstitial lung disease and relatively little muscle involvement.
+
+**Safety/cost:** Venepuncture; panels are expensive and frequently over-ordered.
+
+**Normal:** Negative ANA makes SLE unlikely but does not exclude every connective tissue disease.
+
+**Abnormal:** Interpret **titre and pattern** with the clinical picture, and refer. See [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]].
+
+**Alt:** Complement C3/C4; inflammatory markers; organ-specific assessment (urinalysis and UPCR, CK, pulmonary function tests, high-resolution CT chest); biopsy.
+
+## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)
+
+**D:** Not a test — the **clinical problem of an autoantibody result returned positive without a matching clinical syndrome**, most often an incidentally ordered ANA or rheumatoid factor.
+
+**Ind:** Applies whenever such a result lands.
+
+**Role:** The task is to decide whether this is disease, a marker of risk, or noise.
+
+> [!warning] **The approach, in order**
+> 1. **Why was it ordered?** If there was no clinical question, the pre-test probability was low and the post-test probability of disease remains low — **Bayes, not the assay, is the issue.**
+> 2. **What is the titre?** Low-titre ANA is frequently a normal finding; higher titres carry more weight but still need a syndrome.
+> 3. **Is there a pattern or specificity?** A positive ANA with a negative ENA and negative dsDNA in an asymptomatic person is usually not disease.
+> 4. **Is there organ involvement?** Examine, and check **urinalysis, FBC, creatinine, LFTs and inflammatory markers** — cheap tests that find the disease if it is there.
+> 5. **Are there confounders?** Age, infection (EBV, hepatitis C), drugs, malignancy, and other autoimmune disease all produce positives.
+> 6. **If all negative:** document, explain to the patient, and **arrange clinical review rather than serial re-testing** — repeating the antibody adds nothing.
+
+> [!danger] **Do not ignore**
+> A positive result **with** a clinical syndrome. The failure mode runs both ways: over-investigating an asymptomatic positive, and dismissing a positive in someone who genuinely has rash, arthritis, serositis or renal involvement. **The result is only as good as the question that generated it.**
+
+**Alt:** Nothing further, in most cases — **the correct next test is often no test**, plus a clinical review interval.
+
+## 0.21 Vasculitis Serology (ANCA, PR3, MPO, Anti-GBM)
+
+**D:** **ANCA** by antigen-specific immunoassay for **PR3** and **MPO**, with indirect immunofluorescence (cANCA/pANCA patterns) in some laboratories; and **anti-glomerular basement membrane (anti-GBM)** antibody.
+
+**Ind:** Suspected small-vessel vasculitis — **rapidly progressive glomerulonephritis**, pulmonary haemorrhage, pulmonary–renal syndrome, mononeuritis multiplex, unexplained multisystem illness with constitutional symptoms, chronic destructive upper airway disease, palpable purpura.
+
+**Role:** **Sensitive and specific markers for ANCA-associated vasculitis**; sources note the 2017 international consensus supports **primary use of PR3- and MPO-specific immunoassays without categorically requiring immunofluorescence**. **Anti-GBM is highly specific** for anti-GBM disease (formerly Goodpasture).
+
+> [!danger] **This is one of the few serology requests that is an emergency.**
+> **Suspected pulmonary–renal syndrome — haemoptysis with acute kidney injury and an active urinary sediment — needs same-day nephrology/rheumatology involvement, and the serology should be phoned through.** Treatment (immunosuppression, and plasma exchange in anti-GBM disease) is time-critical and delay costs renal function irreversibly. **Do not wait for serology to make the referral.**
+> **Both ANCA and anti-GBM can be positive together** — a documented dual-positive phenotype with a worse prognosis, and a reason to send both rather than one.
+
+**Safety/cost:** Venepuncture. **Renal biopsy** — the usual definitive step — carries bleeding risk and requires coagulation screening and a platelet count first.
+
+**Normal:** Negative ANCA does not exclude vasculitis; a proportion of patients with clinically definite disease are ANCA-negative, particularly with limited/localised forms.
+
+**Abnormal:** **PR3-ANCA** associates with granulomatosis with polyangiitis; **MPO-ANCA** with microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis — associations, not equivalences. Confirm with **biopsy** wherever feasible before committing to long-term immunosuppression. Beware **drug-induced ANCA vasculitis** — hydralazine, propylthiouracil, cocaine/levamisole. See [[12_04_Rheum_-_Vasculitis]].
+
+**Alt:** Urinalysis with microscopy for casts (**the cheapest and fastest test in this presentation, and it must be done**); UEC and urine protein:creatinine ratio; CXR and CT chest; renal or other tissue biopsy; complement, cryoglobulins and hepatitis serology for the mimics.
+
+---
 
 ## 0.22 Campylobacter (Stool Culture / Multiplex PCR)
 

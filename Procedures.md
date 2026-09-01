@@ -263,7 +263,7 @@ source: created 2026-09-01 as the destination for procedure content currently sp
 ---
 
 ## 0.5 Arthrocentesis
-`CF-PAIR` **THREE-WAY, and two of the three now sit in one file. `Investigation-Interpretation §1.15 Joint Aspirate (Synovial Fluid) Analysis` and `Investigation-Interpretation` Part 2 `## 0.6 Joint Aspiration and Synovial Fluid Interpretation` (from `MSK L1`, moved `ac620de`) both cover this. All three kept in full, NOT reconciled — this one is the procedure, the other two are the interpretation.**
+`CF-PAIR` **THREE-WAY. `Investigation-Interpretation §1.15 Joint Aspirate (Synovial Fluid) Analysis` and `MSK_merged.md` `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration and Synovial Fluid Interpretation` both cover this. All three kept in full, NOT reconciled — this one is the procedure, the other two are the interpretation.**
 
 > [!danger] You cannot exclude septic arthritis without aspirating the joint
 > **THIS IS THE MOST IMPORTANT SINGLE PROCEDURE IN THE ASSESSMENT OF A HOT, SWOLLEN, PAINFUL JOINT.**
@@ -600,7 +600,7 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 
 
 <!-- ===== SOURCE: H1_Haematuria_and_Proteinuria.md ===== -->
-*Moved here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+*Moved here from `Renal and Urology_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
 ## 0.6 Renal Biopsy
 

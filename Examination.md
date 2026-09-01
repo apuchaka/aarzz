@@ -396,17 +396,6 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 **Optimisation:** the pre-operative assessment is also the opportunity to optimise modifiable risk factors before surgery where time allows — e.g. improving glycaemic control in poorly controlled diabetes (see the ADS-ANZCA guideline's specific HbA1c threshold and delay-vs-proceed framework in [[06_Metabolic_Medicine_and_Endocrinology]], not repeated here), treating active infection, optimising heart failure or COPD control, correcting significant anaemia, and smoking cessation advice — all aimed at reducing perioperative risk rather than simply documenting it.
 
 **Consent:** discussing the procedure, anaesthetic technique, and material risks with the patient is a core part of this process — see [[Clinical-Process-EBM-Consent-Capacity]] for the general principles of informed consent, not repeated here.
-
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
->
-> `0.6 Group & Hold / Crossmatch`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
-
 <!-- ===== SOURCE: AN1_Perioperative_Care.md ===== -->
 *Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
 
