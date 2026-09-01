@@ -53,7 +53,7 @@ Zero inbound: `08_04_Infectious_Disease_-_Antibiogram`, `NEW_Infectious_Diseases
 ### Topic in the wrong system
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| I-10 | `## Vaccination Schedule (Australia — NIP)` + `### Influenza vaccination` + `## Passive Immunisation — Immunoglobulin After an Exposure` | 332–404 | **preventive health** — `GER3_Preventive_and_Occupational_Health` (per CLAUDE.md §1.10's mapping) or `PH1` | schedule and eligibility, not infection management. Pairs with `NEW_Drugs_20 §0.1 Vaccines` (2957) |
+| I-10 | `## Vaccination Schedule (Australia — NIP)` + `### Influenza vaccination` + `## Passive Immunisation — Immunoglobulin After an Exposure` | 332–404 | **preventive health** — `GER3_Preventive_and_Occupational_Health` (per CLAUDE.md §1.10's mapping) or `PH1` | schedule and eligibility, not infection management. Pairs with `NEW_Drugs_20 §0.1 Vaccines` (2957) **✅ EXECUTED 2026-09-01 → `Preventive-Health.md` (`98ceb40`)** |
 | I-11 | `## Notifiable Diseases (Australia)` **and** `## Notifiable Diseases in Australia — What "Notifiable" Actually Means` | 327, 1313 | **`A10_Ethics__Capacity__Consent_and_Certification` or `PH1`** | **two sections on the same topic in one merged file, from two different sources.** The duty to notify is a legal/public-health obligation |
 | I-12 | `## Mastitis and Breast Abscess` | 1133 | **OBGYN** | lactational mastitis. Ties to Heme H-19 (the breast source) |
 | I-13 | `## Sepsis` | 1242 | **flag — Emergency owns it** | `Emergency A1 §0.2 SIRS, Sepsis and Septic Shock`, `§0.3 Sepsis Phenotypes by Source`, `F0-3 §0.7`–`§0.10`. Five sepsis sections across two files |

@@ -41,7 +41,7 @@ Investigation-Interpretation ×12)
 ## LEAD: self-declaring misfile (free, per the method)
 | ID | Section | L | From → To | Evidence |
 |---|---|---|---|---|
-| C-1 | `## 0.4 Non-Stress Test (NST / Cardiotocography — CTG)` | 4239 | Cardio → **OBGYN** | self-flagged: *"Mis-filed — an obstetric investigation listed under Cardiology & Vascular"*, repeated at L4275. **A home already exists**: `GER7_Investigation_and_Lab_Addendum.md §0.5 Fetal Scalp Blood Sampling and Intrapartum Assessment` (L119–145) already covers intrapartum CTG. Decide OBGYN vs GER7. |
+| C-1 | `## 0.4 Non-Stress Test (NST / Cardiotocography — CTG)` | 4239 | Cardio → **OBGYN** | self-flagged: *"Mis-filed — an obstetric investigation listed under Cardiology & Vascular"*, repeated at L4275. **A home already exists**: `GER7_Investigation_and_Lab_Addendum.md §0.5 Fetal Scalp Blood Sampling and Intrapartum Assessment` (L119–145) already covers intrapartum CTG. Decide OBGYN vs GER7. **✅ EXECUTED 2026-09-01 → `OBGYN_merged.md` (`98ceb40`)** |
 
 ## PROPOSED MOVES
 

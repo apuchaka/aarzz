@@ -44,7 +44,7 @@ The file states them itself at L1776 and again in its build status at L2014.
 ### Investigation interpretation (standing rule, as extended)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| RU-5 | `## 0.1 Urinalysis Panel (Dipstick, pH, SG, Microscopy, Culture)` | 1780 | **Investigation-Interpretation.md §1.14** | **§1.14 "Urinalysis and Urine Microscopy, Culture & Sensitivity" already exists there.** Duplicate, not a gap **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
+| RU-5 | `## 0.1 Urinalysis Panel (Dipstick, pH, SG, Microscopy, Culture)` | 1780 | **Investigation-Interpretation.md §1.14** | **§1.14 "Urinalysis and Urine Microscopy, Culture & Sensitivity" already exists there.** Duplicate, not a gap **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`), then FOLDED INTO `Procedures.md` under C2/AXIS-2 (`98ceb40`) — a procedure, as this row said** |
 | RU-6 | `## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)` | 1819 | **Investigation-Interpretation.md** | no equivalent there **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | RU-7 | `## 0.2 Urine ACR` | 1801 | **Investigation-Interpretation.md** | carries a deliberate refusal to convert mg/g→mg/mmol — **keep that note with it** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | RU-8 | `## 0.5 Elevated PSA` | 1858 | **Investigation-Interpretation.md** | *"prostate-specific, not prostate-cancer-specific, which is the entire interpretive problem"* — pure interpretation **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |

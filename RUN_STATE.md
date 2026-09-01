@@ -543,3 +543,64 @@ from the manifests rather than from a text match, so it cannot drift again for t
 **Dependencies flagged in the file:** `C8` cannot be settled before `AXIS-1`; `C2` and `AXIS-2`
 are one decision seen twice, and settling them removes about 9 of block 5's 51 and fixes the shape
 of `Procedures.md`, `Preventive-Health.md` and `Safeguarding.md`.
+
+---
+
+## BLOCKS 1 AND 2 EXECUTED (2026-09-01) — all ten file combinations and both axis questions
+
+| | Ruling | Commit | Verified |
+|---|---|---|---|
+| **C1** | `GER5` → `Communication.md` Part 2; `EBM1` declared owner of open disclosure and handover | `535ebd2` | 6/6 |
+| **C2 / AXIS-2** | `NEW_Exam_Manoeuvres` split: Part 1 → Examination, Part 2 → Procedures; `Procedures.md` populated from five sources | `88cab6f` | 15/15 · 19/19 |
+| **C3** | `GER7` ×4 general + troponin → Investigation-Interpretation; fetal scalp + CTG/NST → OBGYN | `eb71338` | 5/5 · 2/2 |
+| **C4** | consent half of `Clinical-Process-EBM` + `Communication` ×3 → `A10` | `98ceb40` | 10/10 |
+| **C5** | research-literacy half → `PH1` | `98ceb40` | 5/5 |
+| **C6** | all four safeguarding sources → `Safeguarding.md` | `98ceb40` | 6/6 |
+| **C7** | 11 sections → `Preventive-Health.md`; one Austroads home | `98ceb40` | 3/3 · 8/8 |
+| **C8 / AXIS-1** | drug files stay distributed; `NEW_Drugs_21` → Endocrine; `NEW_Drugs_07` de-duplicated | `98ceb40` | 1/1 |
+| **C9** | `AU1` standalone; equity blocks flagged as a set | `98ceb40` | — |
+| **C10** | standalone confirmed | — | no operation |
+
+**80 sections moved, 80 verified line-for-line against pre-move HEAD. Zero mismatches.**
+356 `SOURCE` dividers all conforming · dangling **1** (the deliberate `[[B2]] 0.5`) · misaimed **0**
+· no new duplicate headers anywhere (Endocrine went 22 → 21 through the de-duplication).
+
+### Judgement calls I was asked to make
+
+- **Troponin → Investigation-Interpretation, not a fourth home.** There are **three** homes, not
+  four: `GER7 §0.4`, `Cardio §0.5`, `Inv-Interp §1.12`. `GER7 §0.4` leads on *"a marker of myocardial
+  INJURY, not of myocardial INFARCTION"* — that is interpretation, so it lands in the interpretation
+  file. **Two of three are now in one file**, marked as a pair; `Cardio §0.5` stays with the disease
+  and is marked as the third.
+- **`NEW_Drugs_07` — kept the Heme Onc copy.** Three of its four sections are haematological
+  (`Blood Products`, `Drugs for Anaemias`, `Vitamins and Supplements`); only `Drugs for Electrolyte
+  Imbalance` is metabolic, and the filename leads with *Blood*. 249 duplicate lines removed from
+  Endocrine, replaced by a pointer that names the electrolyte section as the one that file wanted.
+- **`NEW_Drugs_21` → `Endocrine and metabolics_merged.md`.** Enzyme replacement and rare metabolic
+  disease are the weight of its content; dantrolene and sugammadex are the anaesthetic minority.
+  **Its `> [!danger]` NEVER-OMIT block travelled intact** — checked explicitly, as it is the element
+  most easily lost in a move.
+- **`GER6` not moved.** It is the crosswalk *across* the drug set, so it belongs to no single system.
+  Recorded in the file itself, with the AXIS-1 reasoning.
+
+### Two things deliberately NOT done
+
+- **`OBGYN B-9`'s biophysical profile was not moved twice.** It went to Investigation-Interpretation
+  on `ac620de`, before C3 ruled it obstetric. It is marked as a pair from both ends instead —
+  **moving executed content a second time is how provenance gets lost.**
+- **Notifiable diseases stayed in Infectious Disease**, with a `> [!warning]` at both ends stating
+  that mandatory reporting and notifiable diseases are **different legal duties**. That was the
+  point of the ruling and it is now written where a reader meets either one.
+
+### Engine defects found and fixed before any file was written
+
+1. **`write()` joined a string instead of a list**, producing a **105,801-line** `Communication.md`.
+   Reverted, fixed, and `write()` now raises on a string. The engine has an **8-check self-test on
+   scratch files** covering subheading capture, divider format, stub, and untouched siblings.
+2. **The verifier read stored line numbers from `HEAD`**, which are invalid the moment an earlier
+   uncommitted pass has edited the same source. It now locates by heading in the old revision.
+3. **A stray `---` rule travelled with `PH1 §0.6`** because its span ran into the Part 1 header that
+   the C5 pass had just appended. Caught by the verifier, removed, separator restored.
+
+**Blocks 1 and 2 resolved 11 of block 5's 51.** 140 items remain: 38 arguable · 56 no destination ·
+46 block-approvable.
