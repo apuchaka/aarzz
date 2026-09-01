@@ -349,6 +349,40 @@ Croup is recurrent in some children and parents should have written advice on re
 
 ---
 
+
+<!-- ===== SOURCE: NEW_Respiratory.md ===== -->
+*Co-located here from `Resp_merged.md` on 2026-09-01. Verbatim.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED — a second account of this presentation, intact, nothing reconciled.**
+> Acute stridor is an airway emergency first and a respiratory diagnosis second. Both accounts are here so you read them together rather than opening a second file.
+> **Neither file named the other**, so no flag row caught this — every row was generated per source file.
+
+## Acute Stridor
+
+> **Note on tier and overlap:** the bare topic **Stridor** is Tier 1 and was **skipped** on a header match (see the skip table). **Acute Stridor** is a separate Tier 2 list topic that matched no header, so it is built here. If your review finds the existing corpus stridor entries do not carry the airway-emergency content, this entry is the material to merge.
+
+- **D:** a harsh, high-pitched noise from turbulent airflow through a **narrowed upper airway**. **Stridor means the airway is obstructed, and the volume of the noise is not the measure of severity — a quietening stridor in a tiring patient is deterioration, not improvement.**
+- **The localising value of the sound:** **inspiratory stridor** suggests obstruction above or at the vocal cords (supraglottic/glottic); **biphasic** suggests obstruction at the glottis or subglottis; **expiratory stridor or wheeze** suggests a lower tracheal or bronchial cause.
+- **DDx:**
+  - **Children:** **croup (laryngotracheobronchitis)** — barking cough, coryzal prodrome, worse at night, the commonest cause; **epiglottitis/supraglottitis** — rapid onset, high fever, drooling, muffled voice, tripod posture, minimal cough, and **now uncommon where Hib immunisation is high but not eliminated, and still occurring in unimmunised children and in adults**; **bacterial tracheitis**; **inhaled foreign body** — sudden onset in a previously well toddler; **anaphylaxis**; **retropharyngeal abscess**; **laryngomalacia** (chronic, positional, in infants); subglottic stenosis after previous intubation; **burns and inhalation injury**.
+  - **Adults:** **anaphylaxis and angioedema — including ACE inhibitor–induced**; **epiglottitis**; **laryngeal tumour**; **bilateral vocal cord palsy** (often after thyroid surgery); **post-extubation oedema**; deep neck space infection including **Ludwig's angina**; **inhalation and thermal airway injury**; foreign body; external compression by a large goitre or mediastinal mass; **vocal cord dysfunction** (a mimic, and a diagnosis of exclusion).
+- **Focused Hx — kept brief, because assessment must not delay airway management:** speed of onset; **fever**; **drooling and inability to swallow saliva**; voice change; **choking episode**; **allergen exposure, sting, food, or new drug**; **ACE inhibitor use**; burns, smoke or steam exposure; **immunisation status**; previous intubation or neck surgery; known airway abnormality; and previous similar episodes.
+- **Examination:** **this is where the greatest harm is done, so the first rule is what not to do.**
+  - **Do not distress the patient — particularly a child.** **Do not examine the throat with a tongue depressor, do not lie them flat, do not attempt cannulation or venepuncture, and do not separate a child from their parent**, if epiglottitis or severe obstruction is possible: distress can precipitate complete obstruction.
+  - **Observe from a distance:** work of breathing, respiratory rate, **tracheal tug, intercostal and subcostal recession, nasal flaring**, position adopted (**tripoding, sniffing position**), drooling, colour, conscious level, ability to speak or cry.
+  - **SpO₂ if it can be obtained without distress — and remember it is a late sign.**
+  - **Assess the character of the stridor and whether it is present at rest** (stridor at rest indicates more severe obstruction than stridor only on exertion or crying).
+  - Look for **urticaria, angioedema, lip and tongue swelling**, and for **facial or oral burns, soot in the nostrils or mouth, and singed nasal hairs**.
+  - **Full examination happens after the airway is secured or the patient is stabilised**, not before.
+- **First-line Ix:** **stridor is a clinical diagnosis and the immediate priority is the airway, not investigation.** Nothing should delay senior, anaesthetic and ENT involvement. Once safe: **lateral soft-tissue neck X-ray** (the "thumbprint" sign of epiglottitis, the "steeple" sign of croup) — **of limited use, frequently non-diagnostic, and never to be obtained by sending an unstable patient to radiology**; **flexible nasendoscopy** by ENT; **CT neck** where a mass or deep space infection is suspected and the airway is secure; **FBC, CRP, blood cultures** once the airway is safe; **arterial blood gas** where ventilatory failure is suspected — **but a normal gas does not reassure in upper airway obstruction**.
+
+> [!danger] **The single most important principle: in suspected epiglottitis or severe upper airway obstruction, call for the people who can secure an airway — senior emergency, anaesthetics and ENT — before doing anything else, and keep the patient calm and upright with a parent if a child.** Definitive airway management is planned for theatre or a controlled environment, not attempted on the ward.
+> **Drug doses are deliberately omitted throughout** — corticosteroid and nebulised adrenaline regimens for croup, and adrenaline for anaphylaxis, are all protocol- and weight-specific, all differ between Australian services, and all are egress-blocked here. **Use your local paediatric or adult airway protocol; do not reconstruct a weight-based dose from memory in this presentation.**
+
+---
+
+<!-- ===== SOURCE: A2_Airway_Compromise__Stridor_and_Tracheostomy_Emergencies.md ===== -->
+
 ## 0.6 Chronic Stridor
 
 **D:** Persistent or recurrent stridor over weeks to months.
@@ -771,6 +805,48 @@ Cause-specific. Cross-refer [[F0.5]] and [[F0.3]].
 Address the underlying condition and its preventer or maintenance therapy.
 
 ---
+
+
+<!-- ===== SOURCE: NEW_Respiratory.md ===== -->
+*Co-located here from `Resp_merged.md` on 2026-09-01. Verbatim.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED — a second account of this presentation, intact, nothing reconciled.**
+> Acute dyspnoea is a presentation you manage before you know the cause — the same reasoning as shock. Both accounts are here so you read them together rather than opening a second file.
+> **Neither file named the other**, so no flag row caught this — every row was generated per source file.
+
+## Acute Dyspnoea
+
+- **D:** breathlessness of recent onset. **The assessment is simultaneous rather than sequential** — resuscitation, examination and investigation happen together, because the patient who is tiring will not wait for a differential to be completed.
+- **DDx — by system, with the immediately life-threatening marked:**
+  - **Respiratory:** **acute severe asthma**, **COPD exacerbation**, **pneumonia**, **pneumothorax — and tension pneumothorax**, pleural effusion, **pulmonary embolism**, upper airway obstruction (foreign body, angioedema, epiglottitis, anaphylaxis), aspiration, bronchiectasis exacerbation, interstitial lung disease, lung malignancy with obstruction or lymphangitis.
+  - **Cardiac:** **acute pulmonary oedema / decompensated heart failure**, **acute coronary syndrome** (dyspnoea may be the only symptom, especially in older people, women and people with diabetes), **arrhythmia**, **cardiac tamponade**, valvular disease, myocarditis.
+  - **Metabolic and haematological:** **diabetic ketoacidosis and other metabolic acidoses** (Kussmaul breathing — **the patient is breathless because they are acidotic, not because of the lungs**, and treating the lungs will not help), **severe anaemia**, **sepsis**, thyrotoxicosis, salicylate toxicity, renal failure.
+  - **Neuromuscular:** **Guillain–Barré syndrome**, myasthenic crisis, motor neurone disease, high cervical cord lesion, phrenic nerve palsy — a group easy to miss because **the chest sounds normal and the chest X-ray is normal until the patient decompensates**.
+  - **Other:** **anaphylaxis**, obesity, ascites or massive abdominal distension, pain limiting inspiration, pregnancy, **panic and hyperventilation** — the last being a diagnosis of exclusion in an acute setting, never a first-pass label.
+- **Focused Hx:** speed of onset (**instantaneous → pneumothorax, PE; over hours → asthma, pulmonary oedema, pneumonia; over days → effusion, anaemia, heart failure**); **exercise tolerance now versus baseline, quantified**; **orthopnoea and paroxysmal nocturnal dyspnoea**; chest pain and its character; cough, sputum and haemoptysis; fever; wheeze; **leg swelling and calf pain**; **VTE risk factors in full**; known asthma or COPD with previous exacerbations, **previous ICU or ventilation**, and current inhaler and steroid use; cardiac history; **medication adherence and recent changes**; **allergen exposure, new drugs, sting or food** (anaphylaxis); trauma; smoking and occupational exposure; **and in a child, choking or a witnessed foreign-body episode**.
+- **Examination:** **A–E, and the general impression matters as much as any sign.**
+  - **Can the patient speak in full sentences?** Position adopted, use of accessory muscles, tripoding, exhaustion, sweating, conscious level.
+  - **Vital signs including respiratory rate — the most sensitive and most frequently omitted vital sign — SpO₂ with the inspired oxygen recorded, heart rate, blood pressure, temperature.**
+  - **Airway**: stridor, drooling, angioedema, swelling of lips or tongue.
+  - **Chest**: tracheal position, expansion, percussion note, breath sounds, **wheeze — and a silent chest as a sign of severity, not improvement**, crackles (localised in pneumonia, bibasal in oedema), pleural rub, reduced sounds with hyperresonance (pneumothorax) or stony dullness (effusion).
+  - **Cardiac**: JVP, apex, added sounds and murmurs, peripheral and sacral oedema.
+  - **Legs** for unilateral swelling; **abdomen** for distension and ascites.
+  - **Skin**: urticaria, cyanosis, pallor.
+  - **Peak expiratory flow** where asthma is plausible and the patient can perform it.
+- **First-line Ix:**
+  - **Bedside first: SpO₂, ECG, capillary glucose, peak flow where appropriate, and an arterial or venous blood gas** — the gas is the highest-yield single test in a sick breathless patient, giving oxygenation, ventilation (**CO₂ retention**), acid–base status and lactate together. **A rising or normal CO₂ in an acutely severe asthmatic is an ominous sign of exhaustion, not reassurance.**
+  - **Chest X-ray** — but **a tension pneumothorax is a clinical diagnosis decompressed before imaging**, and waiting for a film is a recognised cause of death.
+  - **Bloods:** FBC, UEC, CRP, **troponin**, **BNP or NT-proBNP** where heart failure is uncertain, LFTs, **β-hCG**.
+  - **Blood cultures and sputum culture** where infection is suspected; **respiratory virus PCR** where relevant.
+  - **D-dimer only within a validated pretest-probability pathway**; **CTPA** where PE probability is high.
+  - **Bedside ultrasound** for pneumothorax, effusion, B-lines of pulmonary oedema and right heart strain, where available.
+  - **Echocardiography**; **spirometry** once stable, not acutely.
+  - **Forced vital capacity — not oxygen saturation — where neuromuscular weakness is suspected**, because saturations remain normal until respiratory failure is imminent, and this is the measurement that detects deterioration in time.
+
+> [!danger] **Three traps in this presentation.** **(1) Oxygen saturation is a late sign in several of these diagnoses** — in neuromuscular weakness, in metabolic acidosis and in early PE, the patient can be dangerously unwell with normal saturations, so the respiratory rate, the work of breathing and the blood gas carry more information. **(2) "Silent chest" in asthma and a normalising CO₂ both indicate deterioration, not improvement.** **(3) Acidotic breathing is a metabolic problem** — check the glucose and the gas before treating the lungs.
+> **Oxygen targets, drug doses and ventilation thresholds are deliberately omitted** — they differ between conditions (notably the lower target range used in COPD with CO₂ retention), they are protocol-specific, and the Australian guidelines are egress-blocked. Use the local protocol.
+
+<!-- ===== SOURCE: A4_Dyspnoea__Cough_and_the_Solitary_Pulmonary_Nodule.md ===== -->
 
 ## 0.2 Chronic and Chronic Progressive Dyspnoea
 
@@ -2865,6 +2941,118 @@ Continued steroid replacement, tapering to maintenance as the crisis resolves. E
 **Sick-day rules** taught explicitly — doubling the dose during febrile illness, and injectable hydrocortisone at home for vomiting. Medical alert bracelet and steroid emergency card. Written action plan. Education is the intervention that prevents the next crisis, and it is frequently the thing that was missing before this one.
 
 ---
+
+
+<!-- ===== SOURCE: 01_Cardiovascular.md ===== -->
+*Co-located here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of shock, side by side, both intact.**
+> `Cardio §0.20` and `F0-3 §0.1`–`§0.6` above are **the same four-phenotype framework taught twice**,
+> in two files, subdivided differently. Neither file declared the other, so no flag row caught it —
+> every row was generated per source file.
+>
+> **Nothing is reconciled.** They are together because a cross-reference means opening a second
+> file, and this is content read under time pressure.
+>
+> **`Cardio §0.20` adds:** septic, anaphylactic and neurogenic as named subtypes of distributive
+> shock · haemorrhagic hypovolaemic shock · **a full ASCIA IM adrenaline box including the `<7.5 kg`
+> infant row**, one of only two places in the corpus carrying it.
+> **`F0-3` adds:** tamponade and massive PE as separate obstructive sections, and Addisonian crisis.
+
+## 0.20 Shock
+
+**D:** Life-threatening acute circulatory failure causing cellular and tissue hypoxia.
+
+> [!danger] General Mx — Immediate/acute (ABCDE, applies to all shock types before the type-specific Mx below)
+> - 2x wide-bore cannulas ASAP
+> - Bloods: ABG/VBG, group & save + X-match if transfusion needed, troponin (cardiogenic), blood cultures (septic)
+> - IV fluids — 500 mL bolus + further fluids according to response
+> - Further Mx according to type of shock (see below)
+
+> [!tip] Mnemonic "Nacho+": Neurogenic, Anaphylactic, Cardiogenic, Hypovolaemic, Obstructive, other misc causes (e.g. mitochondrial failure) — from *Deranged Physiology*
+
+### 0.20.1 Cardiogenic shock
+Pump failure (heart cannot pump blood around the body).
+**A:** MI, arrhythmias, toxic substances (alcohol, other drugs), heart failure, chest trauma
+**S/smx:** ↓BP, ↑HR, ↑RR
+**Ix:** troponin (*why:* identifies MI as the precipitant; *what:* elevated if ischaemic cause), ECG (*why:* identifies the precipitating rhythm/ischaemia; *what:* STEMI changes, arrhythmia), echo (*why:* confirms pump failure and its mechanism/severity at the bedside; *what:* severely reduced LV function, regional wall motion abnormality, or mechanical complication e.g. acute MR/VSD)
+**Mx:**
+- **Immediate/acute:** ABCDE as above; loop diuretic if fluid-overloaded; vasopressors/inotropes (e.g. dobutamine, noradrenaline — specialist-guided); mechanical circulatory support (e.g. IABP, ECMO) in refractory cases.
+- **Definitive:** treat the underlying cause — urgent PCI if MI-driven, antiarrhythmic/cardioversion if arrhythmia-driven, surgical repair if mechanical complication.
+- **Chronic/long-term:** manage as per chronic heart failure (section 0.27) once stabilised.
+**P:** very high mortality if occurring secondary to MI
+
+### 0.20.2 Hypovolaemic shock
+Decreased intravascular volume.
+
+> [!info] Haemorrhagic shock classification by blood loss
+> Class I: <750 mL | Class II: 750–1500 mL | Class III: 1500–2000 mL | Class IV: >2000 mL
+
+**A:** haemorrhage, dehydration, GI loss, third-spacing (e.g. hypoalbuminaemia)
+**S/smx:** ↓BP, ↑HR, ↑RR; may have obvious wound/bleeding, but internal bleeding may not be obvious
+**Ix:** bloods, especially group & save + X-match (*why:* prepares for transfusion if haemorrhagic; *what:* determines blood type/compatibility — note Hb may not accurately reflect acute blood loss, since haemodilution takes time, so treat clinically rather than by Hb alone); may need exploratory surgery/endoscopy (*why:* to identify and control an occult bleeding source when not clinically obvious; *what:* localises the bleeding site).
+**Mx:**
+- **Immediate/acute:** ABCDE as above ± major haemorrhage protocol (blood products in fixed ratios) if haemorrhagic.
+- **Definitive:** source control — surgical/endoscopic/interventional-radiological haemostasis if haemorrhagic; rehydration and treat the underlying cause if non-haemorrhagic (GI losses, third-spacing).
+- **Chronic/long-term:** address the underlying cause to prevent recurrence (e.g. investigate and treat the source of chronic GI blood loss).
+
+### 0.20.3 Distributive shock
+Failure of vasoregulation — further divided into septic, anaphylactic, and neurogenic shock.
+
+**Septic shock**
+Systemic immune response to infection (including cytokine storm) → increased peripheral vasodilation.
+**S/smx:** as per sepsis — ↑temp, warm peripheries, ↑RR, ↑HR, WBC <4 or >12
+**Ix:** blood cultures (*why:* identifies the causative organism to guide targeted antibiotic therapy; *what:* positive culture with organism and sensitivities, though often negative even in confirmed sepsis), ABG/VBG for lactate (*why:* lactate is a marker of tissue hypoperfusion and severity, and trends guide resuscitation response; *what:* elevated lactate correlates with severity/mortality), urine output monitoring (*why:* a simple continuous marker of end-organ (renal) perfusion; *what:* oliguria suggests inadequate perfusion), source-finding Ix if unknown (CXR, urine MC&S) (*why:* identifying and controlling the source is essential to definitive treatment; *what:* may reveal pneumonia, UTI, or other focus)
+**Mx:**
+- **Immediate/acute:** ABCDE as above + IV antibiotics (broad-spectrum, per the Sepsis/Surviving Sepsis "hour-1 bundle" principles — cultures before antibiotics where feasible but don't delay antibiotics for this) + fluid resuscitation; vasopressors (noradrenaline first-line) if fluid-refractory.
+- **Definitive:** source control (drain an abscess, remove an infected line, etc.) + de-escalate antibiotics once cultures/sensitivities return.
+- **Chronic/long-term:** not applicable acutely; post-sepsis, address any underlying immunocompromise/recurrent-source risk factors.
+
+**Anaphylactic shock**
+Systemic IgE-mediated hypersensitivity — massive mast cell degranulation → inflammation and vasodilation.
+**S/smx:** ↓BP, ↑HR, ↑RR; facial/throat swelling, hives, difficulty breathing
+**Ix:** clinical diagnosis (*why:* anaphylaxis is diagnosed and treated on clinical grounds — waiting for confirmatory testing would delay life-saving treatment; *what:* consistent with the S/Smx above); mast cell tryptase can be checked after treatment (*why:* retrospectively supports the diagnosis if it was unclear; *what:* elevated tryptase supports mast cell degranulation, though a normal level doesn't exclude anaphylaxis).
+
+**Mx:**
+- **Immediate/acute:**
+
+> [!danger] **Adrenaline 1:1000 IM injection — ASCIA weight-and-age criteria** (corrected during the L3 seam audit; this box previously gave the superseded pure age-band split)
+> - **>50 kg and ≥12 years: 0.5 mL (500 mcg)** — the adult dose
+> - **>20 kg and ≥5 years: 0.3 mL (300 mcg)**
+> - **7.5–20 kg and ≤5 years: 0.15 mL (150 mcg)**
+> - **<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)** — unverified, see `PENDING_GUIDELINE_CHECKS.md` **B50**
+> `CF-PAIR` **THIS IS THE SECOND OF ONLY TWO PLACES IN THE CORPUS CARRYING THE `<7.5 kg` INFANT ADRENALINE ROW.** The other is `[[09_01_Dermatology_-_Dermatological_Emergencies]]` Anaphylaxis, which this box already points at as the owner. **Neither is redundant and neither should be deleted** — the copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and `NEW_Drugs_01 §0.5` both begin at 7.5 kg. Units differ (`mL` here, `mg` there) and are the same quantity at 1:1000. Both flag `PENDING_GUIDELINE_CHECKS.md` **B50**.
+>
+> Overall rule: **0.01 mg/kg up to a maximum of 0.5 mg**. See [[09_01_Dermatology_-_Dermatological_Emergencies]] Anaphylaxis for the full entry, and [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific observation criteria — the ASCIA correction from age bands to weight-and-age was made in that file and had not been carried across to here.
+> - Repeat every 5 min if necessary
+> - IM injection into anterolateral thigh (if using an Epipen — count "3 elephants")
+> - If refractory after 2 doses of IM adrenaline, consider IV adrenaline infusion (expert only)
+> - Plus ABCDE, high-flow O2, IV fluids for hypotension; remove the trigger if identifiable.
+
+- **Definitive:** observation period post-resolution (biphasic reactions can occur hours later — duration depends on severity/local protocol); antihistamines and corticosteroids are adjuncts only, not substitutes for adrenaline.
+- **Chronic/long-term:** allergy specialist referral, allergen identification/avoidance, adrenaline auto-injector prescription and training, medical alert identification.
+
+**Neurogenic shock**
+Interruption of the autonomic nervous system.
+**A:** spinal cord transection
+**S/smx:** ↓BP, ↓HR, ↑RR, warm flushed skin; ↓HR due to increased vagal response with no opposing sympathetic tone; if injury above C3, may progress to respiratory arrest
+**Ix:** MRI whole spine (*why:* defines the level and nature of spinal cord injury, guiding urgent surgical decision-making; *what:* identifies the site/extent of cord compression or transection)
+**Mx:**
+- **Immediate/acute:** ABCDE; vasopressors (to counter unopposed vasodilation) and atropine (for bradycardia from unopposed vagal tone); maintain spinal precautions/immobilisation.
+- **Definitive:** urgent neurosurgical referral — decompression/stabilisation surgery as indicated by the injury.
+- **Chronic/long-term:** rehabilitation, autonomic dysreflexia monitoring/management, ongoing spinal injury multidisciplinary care.
+
+### 0.20.4 Obstructive shock
+Obstruction of blood flow → hypoperfusion of tissues distal to obstruction.
+**A:** tension pneumothorax, cardiac tamponade
+**Mx:**
+- **Immediate/acute:** ABCDE; needle decompression for tension pneumothorax, pericardiocentesis for tamponade — mechanical obstruction requires mechanical relief, not just fluids/pressors.
+- **Definitive:** chest drain insertion (pneumothorax) or definitive pericardial drainage/surgery (tamponade), treating the underlying cause (see sections 0.29 PE, 0.33 Tamponade).
+- **Chronic/long-term:** dependent on underlying cause — e.g. anticoagulation if PE-driven obstruction (massive PE causing obstructive physiology).
+
+---
+
+<!-- ===== SOURCE: F0-3_Shock_Phenotypes_and_Sepsis_Syndromes.md ===== -->
 
 ## 0.7 Adult Sepsis
 

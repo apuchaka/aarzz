@@ -149,6 +149,81 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ---
 
+
+> [!info] **CO-LOCATED — 2 further accounts of this topic are directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: F0-2_Acid-Base__DKA_and_Fluid_States.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Acid-Base Interpretation — Framework
+`CF-PAIR §1.5` **This section and Part 1 §1.5 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+**D:** A structured method for converting a blood gas plus electrolytes into a named disorder, or disorders, and a differential.
+
+**A/P:** A primary process shifts pH → the body compensates through the opposite system (respiratory compensation is fast, renal compensation takes days) → compensation never fully corrects pH and never overshoots → therefore a pH that has corrected fully, or overshot, means a second primary process is present rather than vigorous compensation.
+
+> [!tip] The interpretation sequence
+> **1. pH** — acidaemic or alkalaemic? This names the *primary* disorder even when a second process is hidden underneath.
+> **2. pCO₂ and bicarbonate** — which one moves in the direction that explains the pH? That system is primary; the other is compensating.
+> **3. Anion gap**, on every metabolic acidosis, and arguably on every gas — a raised gap can be present with a normal pH and normal bicarbonate when a second alkalotic process masks it.
+> **4. Delta ratio**, if the gap is raised — does the rise in gap account for the fall in bicarbonate, or is there a second metabolic process?
+> **5. Is compensation appropriate?** If not, there is a second primary disorder.
+
+> [!info] The calculations
+> **Anion gap** = Na⁺ − (Cl⁻ + HCO₃⁻). Some formulations include potassium; be consistent about which you use, because the normal range differs between them. The gap must be **corrected for albumin** — a hypoalbuminaemic ICU or cirrhotic patient can have a significant unmeasured-anion load with an apparently normal gap. `UNVERIFIED — normal anion gap range, the albumin correction factor, Winter's formula constants for expected pCO₂, and the delta ratio cut-offs all require verification against the Oxford Handbook of Clinical and Laboratory Investigation or a current source. No numeric values are stated here.`
+
+> [!warning] Three interpretive traps
+> **A normal bicarbonate does not exclude a metabolic acidosis** — a coexisting metabolic alkalosis (vomiting, diuretics) can normalise it while the anion gap stays wide. Always calculate the gap.
+> **A "normal" pCO₂ in a tiring asthmatic is a pre-arrest finding**, not reassurance — it means the patient can no longer sustain the hyperventilation that was keeping them alive.
+> **Venous gases are adequate for pH, bicarbonate, potassium and lactate**, which covers most ward decisions. They are unreliable for pO₂ and only approximate for pCO₂. Do not delay a decision waiting for arterial access.
+
+> [!tip] Causes by category
+> **HAGMA — GOLD MARK:** Glycols (ethylene glycol, propylene glycol) · Oxoproline (chronic paracetamol, malnourished women) · L-lactate · D-lactate (short bowel) · Methanol · Aspirin · Renal failure · Ketoacidosis.
+> **NAGMA:** GI bicarbonate loss (diarrhoea, high-output stoma, ureteric diversion) · renal tubular acidosis · carbonic anhydrase inhibitors · large-volume saline resuscitation.
+> **Metabolic alkalosis:** vomiting and NG loss · diuretics · hyperaldosteronism · profound hypokalaemia.
+> **Respiratory acidosis:** anything reducing minute ventilation — sedation, neuromuscular weakness, severe airflow obstruction, chest wall disease.
+> **Respiratory alkalosis:** pain, anxiety, hypoxia, sepsis, PE, salicylate, pregnancy, hepatic failure.
+
+**Ix:** VBG or ABG with electrolytes (*why:* gives pH, pCO₂, bicarbonate, potassium and lactate in minutes and is the substrate for the whole sequence above; *what:* the primary disorder and its compensation). Full UEC including chloride (*why:* the anion gap cannot be calculated without chloride, and chloride is frequently omitted from the ordered panel — this is the commonest practical reason an acid-base assessment cannot be completed; *what:* sodium, chloride, bicarbonate for the gap). Albumin (*why:* corrects the anion gap, without which unmeasured anions are missed in the sick and malnourished; *what:* hypoalbuminaemia requiring correction). Lactate (*why:* separates the largest single HAGMA category and tracks resuscitation response; *what:* elevation, and clearance on repeat). Serum ketones, preferably beta-hydroxybutyrate (*why:* urine ketone dipsticks detect acetoacetate and can read falsely low early in DKA and falsely high during recovery, so they mislead in both directions; *what:* elevated beta-hydroxybutyrate). Serum osmolality with calculated gap where a toxic alcohol is possible (*why:* detects the parent alcohol before the acid metabolite forms; *what:* raised osmolar gap — cross-refer [[F0.1]] 0.8). Salicylate and paracetamol levels where the pattern is mixed or unexplained (*why:* salicylate produces a distinctive mixed picture and is easily missed; *what:* level).
+
+### 0.1.1 Mx – Immediate
+Treat the patient, not the number. The pH itself is rarely the therapeutic target; the underlying process is. Restore perfusion and ventilation.
+
+### 0.1.2 Mx – Definitive
+Directed at the identified cause. Bicarbonate therapy is contentious in most metabolic acidoses and is not a routine intern decision. `UNVERIFIED — indications and thresholds for bicarbonate therapy require verification and vary by cause.`
+
+### 0.1.3 Mx – Chronic/long-term
+Recurrent unexplained acidosis warrants investigation for renal tubular acidosis, malabsorption or occult toxin exposure.
+
+---
+
+<!-- ===== SOURCE: 06_Metabolic_Medicine_and_Endocrinology.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+### 0.20.6 Arterial Blood Gas Reference Values
+`CF-PAIR §1.5` **This section and Part 1 §1.5 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+| Parameter | Normal range |
+|---|---|
+| pH | 7.35–7.45 |
+| pO2 | 10–14 kPa (hypoxia if <8) |
+| pCO2 | 4.7–6 kPa |
+| Base excess | −2 to +2 mmol/L (>2 = metabolic alkalosis or respiratory acidosis; <−2 = metabolic acidosis or respiratory alkalosis) |
+| HCO3 | 22–26 mmol/L |
+| Lactate | <1 mmol/L (raised in increased anaerobic respiration, poor tissue perfusion) |
+| Anion gap | raised if >14 |
+
+> [!danger] Corrected factual error — the source's original wording ("Type I — ↑CO2 only shown as raised") contradicted its own clarifying parenthetical and was simply incorrect. The correct pattern: **Type I respiratory failure** — hypoxaemia with a **normal or low** PCO2 (a ventilation-perfusion mismatch problem, e.g. pneumonia, PE, early asthma/COPD exacerbation, where the patient can still adequately ventilate CO2 out despite poor oxygenation); **Type II respiratory failure** — hypoxaemia **with** hypercapnia (↑CO2) — a ventilatory pump failure problem, e.g. COPD, opioid overdose, neuromuscular weakness, where the patient can no longer adequately ventilate at all. See [[02_Respiratory]] for the fuller disease-level context these categories map onto, not repeated here.
+**Respiratory failure types:** Type I — hypoxaemia with normal or low CO2; Type II — hypoxaemia with raised CO2.
+
+**Substances clearable by haemodialysis:**
+> [!tip] Mnemonic "SLIME": Salicylates, Lithium, Isopropanol, Methanol, Ethylene glycol
+
+---
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+
 ## 1.6 Abdominal X-Ray — Systematic Approach
 
 **Why this matters:** less universally diagnostic than CXR, but still tested for its classic patterns — bowel obstruction, free air (usually better seen on erect CXR — see the CXR entry above), toxic megacolon, and calcifications. A systematic approach avoids missing a subtle but significant finding.
@@ -206,6 +281,36 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 **Practical pitfall worth naming explicitly:** subtle but significant findings can be missed without deliberately looking for them — e.g. a posterior fat pad sign at the elbow (suggesting an occult fracture even when no fracture line is clearly visible, given a haemarthrosis elevates the fat pad) — see [[11_02_Ortho_-_Upper_Limb__Shoulder__Elbow__Distal_Radius_Fractures_]] for this specific sign in context, not repeated here; a systematic PLACES-based read, rather than only scanning for an obvious fracture line, is what catches these subtler findings.
 
 ---
+
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: L7_Fractures_and_Eponyms.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Describing a Fracture
+`CF-PAIR §1.7` **This section and Part 1 §1.7 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!tip] The systematic description — examinable, and it forces you to see everything
+> **1. The film itself** — patient details, date, which side, which views, adequacy.
+> **2. WHICH BONE and WHERE** — proximal, middle or distal third; or epiphysis, metaphysis, diaphysis.
+> **3. SIMPLE (two fragments), COMMINUTED (more than two), or SEGMENTAL.**
+> **4. PATTERN — transverse · oblique · spiral · avulsion · impacted · greenstick · buckle (torus).**
+> **5. DISPLACEMENT — always described by where the DISTAL fragment has gone relative to the proximal.** This convention is universal and getting it backwards makes the description meaningless.
+> **6. ANGULATION** — conventionally by the direction the APEX points, though many describe the distal fragment's tilt; **state which convention you are using.**
+> **7. ROTATION and SHORTENING.**
+> **8. INTRA-ARTICULAR extension** — because it changes management: intra-articular fractures need anatomical reduction to prevent post-traumatic arthritis.
+> **9. OPEN or CLOSED.**
+> **10. ASSOCIATED findings** — dislocation, effusion or lipohaemarthrosis, foreign body, and the **neurovascular status**, which is clinical rather than radiological but belongs in the same assessment.
+
+> [!danger] Two views at right angles, and the joint above and below
+> **A single view misses displacement, angulation and sometimes the fracture entirely.** **Minimum two orthogonal views.**
+> **Imaging the joint above and below is what catches the associated dislocations** — a Monteggia or Galeazzi injury is missed when only the mid-shaft is imaged, and the dislocation is the part that causes long-term disability. See 0.3.
+
+---
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
 
 ## 1.8 CT Chest / CT Abdomen (brief orientation)
 
@@ -386,6 +491,64 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 **Cross-reference:** see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis, [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout and Pseudogout, and [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] for the disease-level context each finding above feeds into.
 
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.6 Joint Aspiration and Synovial Fluid Interpretation
+`CF-PAIR §1.15` **This section and Part 1 §1.15 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!warning] Technique and contraindications
+> **· Strict aseptic technique**, with local anaesthetic and adequate explanation.
+> **· DO NOT aspirate through overlying cellulitis** — it risks introducing organisms into a sterile joint. Approach from an uninvolved area or defer to a specialist.
+> **· Prosthetic joints** — aspirate in consultation with the orthopaedic team, under appropriate conditions.
+> **· Anticoagulation** is not an absolute contraindication for a large joint, but requires care and consideration of the INR.
+> **· Ultrasound guidance** improves success in small joints, deep joints (hip) and obese patients, and should be used where available rather than persisting with blind attempts.
+
+> [!info] What to send, and what not to bother with
+> **SEND: cell count and differential · Gram stain · culture (in blood culture bottles as well as a sterile container improves yield) · and crystal examination under POLARISED light.**
+> **Do not bother with synovial fluid glucose and protein** — they add nothing to the four tests above and are a hangover from older practice.
+
+> [!tip] Interpreting the fluid
+> | | **Normal** | **Non-inflammatory** | **Inflammatory** | **Septic** | **Haemorrhagic** |
+> |---|---|---|---|---|---|
+> | Appearance | Clear, viscous | Clear, yellow | Cloudy, yellow | **Turbid, purulent** | **Bloody** |
+> | White cells | Very low | Low | Raised | **Markedly raised** | Variable |
+> | Neutrophils | Low % | Low % | Higher % | **Predominant** | Variable |
+> | Typical cause | — | **Osteoarthritis, trauma** | **Crystal, RA, reactive, spondyloarthritis** | **Bacterial infection** | **Trauma, bleeding disorder, PVNS** |
+> `UNVERIFIED — all cell count thresholds. These are the numbers that determine whether a joint is washed out, and they must come from a current source.`
+
+> [!danger] Two negatives that do not exclude septic arthritis
+> **1. A NEGATIVE GRAM STAIN.** **The Gram stain is negative in the majority of proven septic arthritis.** It is useful when positive and meaningless when negative.
+> **2. A synovial white cell count BELOW the usual septic threshold.** **This occurs in early infection, in partially treated infection, in prosthetic joint infection (where the thresholds are lower), and in the immunosuppressed.**
+> **The decision to treat as septic is clinical**, informed by the fluid but not dictated by it. **If the clinical picture is septic, treat it as septic while cultures are pending.**
+
+> [!tip] Crystal identification
+> **· Monosodium urate (gout) — NEEDLE-shaped, strongly NEGATIVELY birefringent** (yellow when parallel to the compensator axis).
+> **· Calcium pyrophosphate (CPPD) — RHOMBOID or rod-shaped, weakly POSITIVELY birefringent** (blue when parallel).
+> **Crystal examination requires a polarising microscope and an experienced operator — it is operator-dependent and false negatives occur**, so a negative crystal result in a convincing clinical picture of gout does not exclude it.
+
+**Ix:** As above.
+
+### 0.6.1 Mx – Immediate
+Aspiration relieves pain in a tense effusion as well as being diagnostic.
+
+### 0.6.2 Mx – Definitive
+Determined by the fluid and the clinical picture.
+
+### 0.6.3 Mx – Chronic/long-term
+**Document the aspirate results clearly**, because a future presentation with a hot joint will be interpreted against them — and a previously documented crystal diagnosis is exactly what leads to a later septic joint being dismissed.
+
+---
+
+> [!note] Cross-references
+> Polyarthralgia and inflammatory arthritis → [[L2]] · Muscle symptoms and widespread pain → [[L3]] · Regional limb pain → [[L5]] · Cellulitis and pseudocellulitis → [[K2]] 0.1 · Fever workup → [[K1]] · Disseminated gonococcal infection and STI testing → [[O6]] 0.2 · Ross River and vector-borne arthritis → [[K3]] 0.6 · Bleeding disorders and haemophilia → [[A9]] 0.3 and [[J3]] · Calcium, PTH and haemochromatosis in CPPD → [[I3]] · Charcot joint and the diabetic foot → [[I2]] 0.6 · Allopurinol hypersensitivity and SCARs → [[A5]] 0.6 · Sarcoma referral before biopsy → [[B6]] 0.8 · Paediatric limp and hip → [[M5]] · Aboriginal and Torres Strait Islander health and gout equity → [[AU1]]
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+
 ## 1.16 Autoimmune Markers — Systematic Reference
 
 `CF-PAIR` **4 sections covering this topic arrived in Part 2 and were NOT merged into this one:** `0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl-70, Anti-histone, Myositis Antibodies)` · `0.20 Positive Autoimmune Serology (approach to an unexpected positive)` · `0.21 Vasculitis Serology (ANCA, PR3, MPO, Anti-GBM)` · `0.6 Autoantibody and Serology Interpretation` — from L2_Polyarthralgia_and_Inflammatory_Arthritis.md · NEW_Investigations_Infectious_Diseases.md. **Both copies are kept in full. Neither supersedes the other.**
@@ -418,6 +581,100 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 **Cross-reference:** see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] for the full disease-level detail each marker pattern above feeds into.
 
+
+> [!info] **CO-LOCATED — 3 further accounts of this topic are directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.6 Autoantibody and Serology Interpretation
+`CF-PAIR §1.16` **This section and Part 1 §1.16 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!danger] The principle that governs everything: order antibodies to CONFIRM a suspicion, never to screen
+> **The predictive value of every autoantibody depends on the pre-test probability.**
+> **In a patient with a convincing clinical syndrome, a positive result confirms. In a patient with fatigue and vague aches, a positive result is far more likely to be a false positive — and it causes real harm: anxiety, a mistaken diagnostic label that follows them for years, unnecessary referral, and occasionally inappropriate immunosuppression.**
+> **"Rheumatology screen" ordered reflexively on an undifferentiated patient is one of the more harmful habits in general medicine.**
+
+> [!tip] What each test is actually for
+> **· ANA** — **a SENSITIVE but NOT SPECIFIC entry test for connective tissue disease.** **It is positive in a meaningful proportion of the healthy population, and the proportion rises with age.** **A low-titre positive ANA in a well person is usually meaningless.** Titre and pattern matter: a high titre with a compatible clinical picture is significant.
+> **· ENA panel and anti-dsDNA** — **ordered only if the ANA is positive and the clinical picture warrants it.** These are the specific antibodies: **anti-dsDNA and anti-Sm are specific for lupus; anti-Ro and anti-La for Sjögren; anti-Scl-70 and anti-centromere for systemic sclerosis subtypes; anti-Jo-1 for myositis; anti-U1-RNP for mixed connective tissue disease.**
+> **· Rheumatoid factor** — **poor specificity.** Positive in Sjögren syndrome, **hepatitis C, infective endocarditis, sarcoidosis, chronic infection and a proportion of healthy older people.** A positive RF in someone without inflammatory arthritis means very little.
+> **· Anti-CCP** — **high specificity for rheumatoid arthritis**, and predicts erosive disease.
+> **· ANCA** — order when vasculitis is genuinely suspected. **Request PR3 and MPO specificity, not just the immunofluorescence pattern.** **False positives occur in infection — notably endocarditis — and in inflammatory bowel disease.**
+> **· Complement C3 and C4** — **consumed in active immune complex disease**, so they FALL with active lupus and cryoglobulinaemia. Useful for monitoring.
+> **· HLA-B27** — **present in a significant minority of the healthy Caucasian population.** **It is NOT a diagnostic test and NOT a screening test** — it shifts probability in a patient who already has inflammatory back pain or a compatible syndrome.
+
+> [!warning] ESR and CRP are not interchangeable, and their discordance is informative
+> **CRP is a hepatic acute phase protein — it rises within hours and falls quickly.**
+> **ESR reflects plasma protein composition and is slower to rise and fall, and it is raised by AGE, ANAEMIA, PREGNANCY, obesity, renal failure and PARAPROTEINS independently of inflammation.**
+> **A very high ESR with a normal or near-normal CRP is a recognised and useful pattern** — it points toward **systemic lupus erythematosus (where CRP is characteristically not raised unless there is infection or serositis), MYELOMA and other paraproteinaemias**, and it should prompt a serum protein electrophoresis. Cross-refer [[J4]].
+> **Conversely, a raised CRP in a lupus patient should raise INFECTION rather than being assumed to be a flare** — which is a genuinely useful clinical rule.
+
+**Ix:** As described. **The practical rule: take the history, examine the patient, form a clinical hypothesis, and then order the two or three tests that will confirm or refute it** — not a panel.
+
+---
+
+> [!note] Cross-references
+> The hot swollen joint and septic arthritis → [[L1]] · Muscle symptoms, PMR and giant cell arteritis → [[L3]] · Inflammatory back pain and axial disease → [[L4]] · Regional limb pain → [[L5]] · Giant cell arteritis → [[D1]] 0.4 · Mononeuritis multiplex and inflammatory myopathy → [[D4]] 0.4, 0.6 · Palpable purpura → [[G3]] · Anterior uveitis → [[E1]] · Interstitial lung disease → [[RESP-X]] · Cervical spine and anaesthesia → [[F0.4]] 0.6 and [[AN1]] · Pre-immunosuppression screening → [[K3]] 0.5 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Cardiovascular risk in inflammatory disease → [[B2]] 0.1 · Anticoagulation in antiphospholipid syndrome → [[A9]] 0.4 and [[J3]] · Pregnancy, anti-Ro and congenital heart block → [[O2]] · Myeloma and the ESR-CRP discordance → [[J4]] · IgA vasculitis in children → [[M5]] · Aboriginal and Torres Strait Islander health → [[AU1]]
+
+<!-- ===== SOURCE: NEW_Investigations_Infectious_Diseases.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl-70, Anti-histone, Myositis Antibodies)
+`CF-PAIR §1.16` **This section and Part 1 §1.16 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+**D:** Panel of autoantibodies used to characterise connective tissue disease, usually beginning with **ANA** and reflexing to **extractable nuclear antigen (ENA)** specificities.
+
+**Ind:** Clinical features suggesting connective tissue disease — inflammatory arthritis, photosensitive rash, serositis, Raynaud phenomenon, sicca symptoms, unexplained cytopenias, unexplained renal or interstitial lung disease, proximal myopathy.
+
+**Role:** **Supportive, never diagnostic alone.** These are tests to order when a clinical syndrome already suggests the diagnosis.
+
+> [!danger] **ANA is a poor screening test in an unselected patient, and this is the single most consequential point.** A low-titre positive ANA is common in **healthy people** — more so with increasing age and in women — and in other conditions entirely. Ordering ANA on non-specific fatigue or widespread pain generates false positives, anxiety and unnecessary referral. **Order it against a clinical question, not as a screen.**
+
+> [!info] **Specificities worth associating**
+> - **Anti-dsDNA, anti-Sm** — SLE (dsDNA titre can track disease activity, particularly renal).
+> - **Anti-Ro/SSA, anti-La/SSB** — Sjögren syndrome; **anti-Ro also matters in pregnancy** because of the risk of congenital heart block and neonatal lupus.
+> - **Anti-Scl-70 (topoisomerase I)** — diffuse systemic sclerosis, associated with interstitial lung disease.
+> - **Anti-centromere** — limited cutaneous systemic sclerosis/CREST.
+> - **Anti-histone** — **drug-induced lupus** (a pattern relevant to hydralazine, procainamide, isoniazid and others).
+> - **Myositis antibodies (anti-Jo-1 and the antisynthetases, anti-Mi-2, anti-SRP, anti-MDA5)** — inflammatory myopathies; **anti-Jo-1 with the antisynthetase syndrome** (myositis, interstitial lung disease, mechanic's hands, Raynaud, arthritis) and **anti-MDA5** with rapidly progressive interstitial lung disease and relatively little muscle involvement.
+
+**Safety/cost:** Venepuncture; panels are expensive and frequently over-ordered.
+
+**Normal:** Negative ANA makes SLE unlikely but does not exclude every connective tissue disease.
+
+**Abnormal:** Interpret **titre and pattern** with the clinical picture, and refer. See [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]].
+
+**Alt:** Complement C3/C4; inflammatory markers; organ-specific assessment (urinalysis and UPCR, CK, pulmonary function tests, high-resolution CT chest); biopsy.
+
+<!-- ===== SOURCE: NEW_Investigations_Infectious_Diseases.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)
+`CF-PAIR §1.16` **This section and Part 1 §1.16 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+**D:** Not a test — the **clinical problem of an autoantibody result returned positive without a matching clinical syndrome**, most often an incidentally ordered ANA or rheumatoid factor.
+
+**Ind:** Applies whenever such a result lands.
+
+**Role:** The task is to decide whether this is disease, a marker of risk, or noise.
+
+> [!warning] **The approach, in order**
+> 1. **Why was it ordered?** If there was no clinical question, the pre-test probability was low and the post-test probability of disease remains low — **Bayes, not the assay, is the issue.**
+> 2. **What is the titre?** Low-titre ANA is frequently a normal finding; higher titres carry more weight but still need a syndrome.
+> 3. **Is there a pattern or specificity?** A positive ANA with a negative ENA and negative dsDNA in an asymptomatic person is usually not disease.
+> 4. **Is there organ involvement?** Examine, and check **urinalysis, FBC, creatinine, LFTs and inflammatory markers** — cheap tests that find the disease if it is there.
+> 5. **Are there confounders?** Age, infection (EBV, hepatitis C), drugs, malignancy, and other autoimmune disease all produce positives.
+> 6. **If all negative:** document, explain to the patient, and **arrange clinical review rather than serial re-testing** — repeating the antibody adds nothing.
+
+> [!danger] **Do not ignore**
+> A positive result **with** a clinical syndrome. The failure mode runs both ways: over-investigating an asymptomatic positive, and dismissing a positive in someone who genuinely has rash, arthritis, serositis or renal involvement. **The result is only as good as the question that generated it.**
+
+**Alt:** Nothing further, in most cases — **the correct next test is often no test**, plus a clinical review interval.
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+
 ## 1.17 Coagulation Screen and D-dimer Interpretation
 
 `CF-PAIR` **2 sections covering this topic arrived in Part 2 and were NOT merged into this one:** `0.1 Interpreting the Coagulation Screen` · `0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)` — from J3_Bleeding_and_Thrombosis.md · NEW_Investigations_Haematology_Part2.md. **Both copies are kept in full. Neither supersedes the other.**
@@ -440,6 +697,81 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 - **Elevated in DIC specifically** (alongside the low platelets, low fibrinogen, and prolonged PT/APTT pattern) — see [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation (DIC) for the full disease-level detail, not repeated here.
 
 **Cross-reference:** see [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Von Willebrand disease (vWD) and Haemophilia, [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation, [[10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia]] Antiphospholipid syndrome (APS), and [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin for the disease-level context each finding above feeds into.
+
+
+> [!info] **CO-LOCATED — 2 further accounts of this topic are directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: J3_Bleeding_and_Thrombosis.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Interpreting the Coagulation Screen
+`CF-PAIR §1.17` **This section and Part 1 §1.17 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!tip] What each test measures, and what it is sensitive to
+> **· PT / INR — the EXTRINSIC and COMMON pathways (VII, X, V, II, fibrinogen).** **Most sensitive to WARFARIN, liver disease and vitamin K deficiency** — because factor VII has the shortest half-life and falls first.
+> **· APTT — the INTRINSIC and COMMON pathways (XII, XI, IX, VIII, plus the common factors).** **Most sensitive to HEPARIN, haemophilia, von Willebrand disease and the LUPUS ANTICOAGULANT.**
+
+> [!info] The patterns
+> | Pattern | Think |
+> |---|---|
+> | **Isolated prolonged PT/INR** | Warfarin · EARLY liver disease · early vitamin K deficiency · factor VII deficiency |
+> | **Isolated prolonged APTT** | Heparin · **HAEMOPHILIA A or B** · von Willebrand disease · factor XI or XII deficiency · **LUPUS ANTICOAGULANT** |
+> | **BOTH prolonged** | Liver disease · **DIC** · vitamin K deficiency · massive transfusion and dilution · warfarin excess · common pathway deficiency |
+> | **BOTH NORMAL but the patient bleeds** | **PLATELET disorder (number or function)** · **VON WILLEBRAND DISEASE** · **FACTOR XIII deficiency** · vascular and connective tissue disorders · antiplatelet drugs · mild factor deficiency |
+
+> [!danger] A normal coagulation screen does not exclude a bleeding disorder
+> **The PT and APTT test only the plasma clotting factors. They say NOTHING about platelet FUNCTION, about von Willebrand factor (which may give a normal APTT if factor VIII is preserved), or about factor XIII (which is not measured by either test and causes DELAYED bleeding and umbilical stump bleeding).**
+> **THE BLEEDING HISTORY IS MORE INFORMATIVE THAN THE SCREEN.**
+> **Ask about: epistaxis requiring intervention · bleeding after DENTAL EXTRACTION · bleeding after previous surgery or childbirth · POSTPARTUM HAEMORRHAGE · HEAVY MENSTRUAL BLEEDING since menarche · easy bruising without trauma · joint or muscle bleeds · and a FAMILY history.**
+> **Structured bleeding assessment tools exist and outperform the coagulation screen for predicting a genuine disorder.**
+
+> [!warning] Two interpretive points that come up constantly
+> **1. THE MIXING STUDY.** Mix the patient's plasma with normal plasma and repeat the test.
+> **· CORRECTS → a FACTOR DEFICIENCY (the normal plasma supplied what was missing).**
+> **· DOES NOT CORRECT → an INHIBITOR — a lupus anticoagulant, or an acquired factor inhibitor.**
+> **2. THE LUPUS ANTICOAGULANT PARADOX.** **It PROLONGS the APTT in vitro but causes THROMBOSIS in vivo, not bleeding.** **It is named for what it does in the test tube, not to the patient.** **An unexpectedly prolonged APTT in a patient with thrombosis, recurrent miscarriage, or an autoimmune disease should prompt antiphospholipid testing** — see 0.6.
+
+> [!danger] The coagulation screen does not monitor DOACs
+> **Direct oral anticoagulants may produce a NORMAL PT and APTT at therapeutic levels, and the degree of prolongation correlates poorly with drug effect.**
+> **A NORMAL COAGULATION SCREEN DOES NOT MEAN A PATIENT IS NOT ANTICOAGULATED.**
+> **This matters acutely — in bleeding, in trauma, and before urgent surgery or a lumbar puncture — where the relevant question is which drug, what dose, when was the last one, and what is the renal function.**
+> **Specific assays exist (anti-Xa activity calibrated for the agent, dilute thrombin time for dabigatran) but are not universally or rapidly available.** **The history is the practical test.** Cross-refer [[A9]] 0.4 and [[AN1]] 0.3.
+
+---
+
+<!-- ===== SOURCE: NEW_Investigations_Haematology_Part2.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)
+`CF-PAIR §1.17` **This section and Part 1 §1.17 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+**D:** The routine screen of the clotting cascade. **PT/INR** assesses the **extrinsic and common** pathways (factors VII, X, V, II, fibrinogen); **APTT** assesses the **intrinsic and common** pathways (XII, XI, IX, VIII, X, V, II, fibrinogen); **fibrinogen** and **D-dimer** complete the picture.
+
+**Ind:** Bleeding or bruising; before invasive procedures in at-risk patients; monitoring warfarin (INR) and unfractionated heparin (APTT); suspected liver disease, DIC or massive transfusion; suspected inherited bleeding disorder; suspected antiphospholipid syndrome.
+
+**Role:** A **screen that localises the problem to a part of the cascade** — it does not identify the factor, and it does not measure bleeding risk directly.
+
+> [!info] **Reading the pattern is the skill**
+> - **Isolated prolonged PT/INR** → factor **VII** deficiency; **early liver disease**; **early vitamin K deficiency or warfarin** (factor VII has the shortest half-life, so it falls first).
+> - **Isolated prolonged APTT** → haemophilia A (**VIII**) or B (**IX**), factor XI or XII deficiency, **von Willebrand disease**, heparin, or a **lupus anticoagulant**.
+> - **Both prolonged** → liver disease, **DIC**, vitamin K deficiency, massive transfusion, common pathway factor deficiency.
+> - **Both normal in a patient who is clearly bleeding** → **platelet disorder, von Willebrand disease, factor XIII deficiency, or a vascular/connective tissue cause.** The coagulation screen is normal in all of them, and this is the trap.
+
+> [!warning] **The MIXING STUDY is the next step and it separates the two possibilities.** Mix the patient's plasma 1:1 with normal plasma: **if it CORRECTS, it is a factor DEFICIENCY** (the normal plasma supplies the missing factor); **if it does NOT correct, there is an INHIBITOR** — a lupus anticoagulant (thrombosis risk) or a factor inhibitor such as acquired haemophilia (bleeding risk). **The same prolonged APTT therefore means opposite things**, and the mixing study is what tells them apart. See `NEW_Investigations_Cardiology.md` 0.1.
+
+> [!danger] **Do not ignore**
+> - **Pre-analytical error is the commonest cause of a wrong result:** an underfilled citrate tube (wrong blood-to-anticoagulant ratio), a difficult or clotted collection, a sample taken from a **heparinised line** (a classic and very common false result — always flush and discard, or take from elsewhere), and delayed processing.
+> - **The INR is only validated for warfarin.** Using it to grade liver disease severity is done (Child-Pugh, MELD) but it is not a warfarin-equivalent measure, and **DOACs affect the PT and APTT unpredictably** — a normal or abnormal screen does not tell you whether a DOAC is present or at what level.
+> - **A normal coagulation screen does NOT exclude a bleeding disorder** — take a proper **bleeding history** (menorrhagia, dental extractions, surgery, postpartum haemorrhage, family history) and use a structured bleeding assessment tool, because history outperforms the screen.
+> - **Do not "correct" an abnormal INR with FFP before a procedure reflexively** — the evidence for benefit is poor and transfusion carries real harm; discuss with haematology.
+> - **D-dimer is a rule-out test only, in a patient with a low or intermediate pre-test probability.** It is raised by age, pregnancy, infection, malignancy, surgery, trauma and inflammation, and **must never be used alone to rule in thrombosis.**
+
+**Normal/abnormal:** Laboratory reference intervals, with the **INR target set by indication** for warfarinised patients. **Age-adjusted D-dimer thresholds** exist and are laboratory-specific; the numeric cut-offs are **not stated here**.
+
+**Alt:** Individual **factor assays**; **mixing studies**; **thromboelastography/ROTEM** (viscoelastic point-of-care testing in trauma, cardiac surgery and obstetric haemorrhage, which assesses clot formation and lysis as a whole and guides targeted product use); anti-Xa assay for LMWH and specific DOAC assays; platelet function testing; **FBC and film**. See [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]].
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
 
 ## 1.18 Blood Cultures and Microbiology Basics
 
@@ -468,6 +800,38 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 - **Antimicrobial stewardship**: narrow empirical therapy to the specific organism/sensitivities once results return, rather than continuing broad-spectrum cover unnecessarily — see the various disease-specific eTG-verified regimens throughout [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] and other Infectious Disease files for the AU-specific empirical-to-targeted therapy principle in practice.
 
 **Cross-reference:** see [[01_Cardiovascular]] Infective Endocarditis, [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] and the other Infectious Disease files throughout this project for the disease-level context each type of microbiology result feeds into.
+
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: NEW_Investigations_Respiratory.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.5 Sputum Culture (with Gram Stain and Microscopy)
+`CF-PAIR §1.18` **This section and Part 1 §1.18 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+**D:** Expectorated lower-respiratory secretions examined by **Gram stain and microscopy**, then cultured with susceptibility testing. In a ventilated patient the equivalent specimens are a **tracheal aspirate** or **bronchoalveolar lavage**.
+
+**Ind:** **Severe or hospital-acquired pneumonia**; failure to respond to empirical therapy; suspected resistant organism or prior resistant isolate; **bronchiectasis** and **cystic fibrosis** (where colonising organisms, notably *Pseudomonas aeruginosa*, direct long-term management); suspected **tuberculosis** (a different, specific request — see 0.7); immunosuppression.
+
+**Role:** Narrows empirical antibiotics to targeted therapy. **It is not indicated in uncomplicated community-acquired pneumonia managed in the community**, where empirical treatment is the standard and the yield does not change management.
+
+> [!warning] **Specimen quality determines whether the result means anything, and the laboratory screens for it.**
+> Microscopy is used to distinguish lower-respiratory secretions from saliva by counting **squamous epithelial cells** and **polymorphs** per low-power field. Sources agree on the general standard: **a good specimen has few squamous cells (<10/LPF) with abundant polymorphs; a specimen with >25 squamous cells/LPF is oropharyngeal contamination and is rejected.** A "sputum" specimen that is saliva grows normal oral flora and produces a plausible-looking, entirely misleading report.
+> **Practical consequence:** ask for a **deep cough first thing in the morning**, use physiotherapy or nebulised saline induction if the patient cannot produce one, and **do not send saliva.**
+
+> [!danger] **Do not ignore**
+> - **Take blood cultures and the sputum specimen BEFORE the first antibiotic dose** — but **do not delay antibiotics in sepsis to obtain them.** Antibiotics markedly reduce yield.
+> - **Growth is not infection.** *Candida* from sputum is essentially always colonisation and should not be treated. Upper-airway flora in a poor specimen means nothing. Interpret every isolate against the patient.
+> - **Suspected TB must be requested explicitly.** Routine culture does not detect mycobacteria — see 0.7.
+> - **Frank haemoptysis, weight loss or a smoking history changes the question** from infection to malignancy and TB; sputum cytology is a poor test for lung cancer and imaging is the correct next step.
+
+**Normal/abnormal:** Reported as specimen quality, Gram stain appearance, organism(s) grown, and susceptibilities. A **predominant organism in a good-quality specimen with matching Gram stain morphology** is the result that should change therapy.
+
+**Alt:** **Blood cultures**; *Legionella* and pneumococcal **urinary antigen**; **respiratory PCR panel** (0.1); pleural fluid sampling where an effusion is present; bronchoscopy with BAL in the non-expectorating or immunosuppressed patient; chest X-ray or CT. See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]].
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
 
 ## 1.19 Growth Charts and Percentile Interpretation
 
@@ -1099,71 +1463,8 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 <!-- ===== SOURCE: J3_Bleeding_and_Thrombosis.md ===== -->
 *Moved here from `Heme Onc_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
 
-## 0.1 Interpreting the Coagulation Screen
-`CF-PAIR §1.17` **This section and Part 1 §1.17 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!tip] What each test measures, and what it is sensitive to
-> **· PT / INR — the EXTRINSIC and COMMON pathways (VII, X, V, II, fibrinogen).** **Most sensitive to WARFARIN, liver disease and vitamin K deficiency** — because factor VII has the shortest half-life and falls first.
-> **· APTT — the INTRINSIC and COMMON pathways (XII, XI, IX, VIII, plus the common factors).** **Most sensitive to HEPARIN, haemophilia, von Willebrand disease and the LUPUS ANTICOAGULANT.**
-
-> [!info] The patterns
-> | Pattern | Think |
-> |---|---|
-> | **Isolated prolonged PT/INR** | Warfarin · EARLY liver disease · early vitamin K deficiency · factor VII deficiency |
-> | **Isolated prolonged APTT** | Heparin · **HAEMOPHILIA A or B** · von Willebrand disease · factor XI or XII deficiency · **LUPUS ANTICOAGULANT** |
-> | **BOTH prolonged** | Liver disease · **DIC** · vitamin K deficiency · massive transfusion and dilution · warfarin excess · common pathway deficiency |
-> | **BOTH NORMAL but the patient bleeds** | **PLATELET disorder (number or function)** · **VON WILLEBRAND DISEASE** · **FACTOR XIII deficiency** · vascular and connective tissue disorders · antiplatelet drugs · mild factor deficiency |
-
-> [!danger] A normal coagulation screen does not exclude a bleeding disorder
-> **The PT and APTT test only the plasma clotting factors. They say NOTHING about platelet FUNCTION, about von Willebrand factor (which may give a normal APTT if factor VIII is preserved), or about factor XIII (which is not measured by either test and causes DELAYED bleeding and umbilical stump bleeding).**
-> **THE BLEEDING HISTORY IS MORE INFORMATIVE THAN THE SCREEN.**
-> **Ask about: epistaxis requiring intervention · bleeding after DENTAL EXTRACTION · bleeding after previous surgery or childbirth · POSTPARTUM HAEMORRHAGE · HEAVY MENSTRUAL BLEEDING since menarche · easy bruising without trauma · joint or muscle bleeds · and a FAMILY history.**
-> **Structured bleeding assessment tools exist and outperform the coagulation screen for predicting a genuine disorder.**
-
-> [!warning] Two interpretive points that come up constantly
-> **1. THE MIXING STUDY.** Mix the patient's plasma with normal plasma and repeat the test.
-> **· CORRECTS → a FACTOR DEFICIENCY (the normal plasma supplied what was missing).**
-> **· DOES NOT CORRECT → an INHIBITOR — a lupus anticoagulant, or an acquired factor inhibitor.**
-> **2. THE LUPUS ANTICOAGULANT PARADOX.** **It PROLONGS the APTT in vitro but causes THROMBOSIS in vivo, not bleeding.** **It is named for what it does in the test tube, not to the patient.** **An unexpectedly prolonged APTT in a patient with thrombosis, recurrent miscarriage, or an autoimmune disease should prompt antiphospholipid testing** — see 0.6.
-
-> [!danger] The coagulation screen does not monitor DOACs
-> **Direct oral anticoagulants may produce a NORMAL PT and APTT at therapeutic levels, and the degree of prolongation correlates poorly with drug effect.**
-> **A NORMAL COAGULATION SCREEN DOES NOT MEAN A PATIENT IS NOT ANTICOAGULATED.**
-> **This matters acutely — in bleeding, in trauma, and before urgent surgery or a lumbar puncture — where the relevant question is which drug, what dose, when was the last one, and what is the renal function.**
-> **Specific assays exist (anti-Xa activity calibrated for the agent, dilute thrombin time for dabigatran) but are not universally or rapidly available.** **The history is the practical test.** Cross-refer [[A9]] 0.4 and [[AN1]] 0.3.
-
----
-
 <!-- ===== SOURCE: NEW_Investigations_Haematology_Part2.md ===== -->
 *Moved here from `Heme Onc_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
-
-## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)
-`CF-PAIR §1.17` **This section and Part 1 §1.17 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-**D:** The routine screen of the clotting cascade. **PT/INR** assesses the **extrinsic and common** pathways (factors VII, X, V, II, fibrinogen); **APTT** assesses the **intrinsic and common** pathways (XII, XI, IX, VIII, X, V, II, fibrinogen); **fibrinogen** and **D-dimer** complete the picture.
-
-**Ind:** Bleeding or bruising; before invasive procedures in at-risk patients; monitoring warfarin (INR) and unfractionated heparin (APTT); suspected liver disease, DIC or massive transfusion; suspected inherited bleeding disorder; suspected antiphospholipid syndrome.
-
-**Role:** A **screen that localises the problem to a part of the cascade** — it does not identify the factor, and it does not measure bleeding risk directly.
-
-> [!info] **Reading the pattern is the skill**
-> - **Isolated prolonged PT/INR** → factor **VII** deficiency; **early liver disease**; **early vitamin K deficiency or warfarin** (factor VII has the shortest half-life, so it falls first).
-> - **Isolated prolonged APTT** → haemophilia A (**VIII**) or B (**IX**), factor XI or XII deficiency, **von Willebrand disease**, heparin, or a **lupus anticoagulant**.
-> - **Both prolonged** → liver disease, **DIC**, vitamin K deficiency, massive transfusion, common pathway factor deficiency.
-> - **Both normal in a patient who is clearly bleeding** → **platelet disorder, von Willebrand disease, factor XIII deficiency, or a vascular/connective tissue cause.** The coagulation screen is normal in all of them, and this is the trap.
-
-> [!warning] **The MIXING STUDY is the next step and it separates the two possibilities.** Mix the patient's plasma 1:1 with normal plasma: **if it CORRECTS, it is a factor DEFICIENCY** (the normal plasma supplies the missing factor); **if it does NOT correct, there is an INHIBITOR** — a lupus anticoagulant (thrombosis risk) or a factor inhibitor such as acquired haemophilia (bleeding risk). **The same prolonged APTT therefore means opposite things**, and the mixing study is what tells them apart. See `NEW_Investigations_Cardiology.md` 0.1.
-
-> [!danger] **Do not ignore**
-> - **Pre-analytical error is the commonest cause of a wrong result:** an underfilled citrate tube (wrong blood-to-anticoagulant ratio), a difficult or clotted collection, a sample taken from a **heparinised line** (a classic and very common false result — always flush and discard, or take from elsewhere), and delayed processing.
-> - **The INR is only validated for warfarin.** Using it to grade liver disease severity is done (Child-Pugh, MELD) but it is not a warfarin-equivalent measure, and **DOACs affect the PT and APTT unpredictably** — a normal or abnormal screen does not tell you whether a DOAC is present or at what level.
-> - **A normal coagulation screen does NOT exclude a bleeding disorder** — take a proper **bleeding history** (menorrhagia, dental extractions, surgery, postpartum haemorrhage, family history) and use a structured bleeding assessment tool, because history outperforms the screen.
-> - **Do not "correct" an abnormal INR with FFP before a procedure reflexively** — the evidence for benefit is poor and transfusion carries real harm; discuss with haematology.
-> - **D-dimer is a rule-out test only, in a patient with a low or intermediate pre-test probability.** It is raised by age, pregnancy, infection, malignancy, surgery, trauma and inflammation, and **must never be used alone to rule in thrombosis.**
-
-**Normal/abnormal:** Laboratory reference intervals, with the **INR target set by indication** for warfarinised patients. **Age-adjusted D-dimer thresholds** exist and are laboratory-specific; the numeric cut-offs are **not stated here**.
-
-**Alt:** Individual **factor assays**; **mixing studies**; **thromboelastography/ROTEM** (viscoelastic point-of-care testing in trauma, cardiac surgery and obstetric haemorrhage, which assesses clot formation and lysis as a whole and guides targeted product use); anti-Xa assay for LMWH and specific DOAC assays; platelet function testing; **FBC and film**. See [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]].
 
 ## 0.12 Factor VIII Assay
 
@@ -1463,37 +1764,6 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 <!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
 *Moved here from `MSK_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
 
-## 0.6 Autoantibody and Serology Interpretation
-`CF-PAIR §1.16` **This section and Part 1 §1.16 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!danger] The principle that governs everything: order antibodies to CONFIRM a suspicion, never to screen
-> **The predictive value of every autoantibody depends on the pre-test probability.**
-> **In a patient with a convincing clinical syndrome, a positive result confirms. In a patient with fatigue and vague aches, a positive result is far more likely to be a false positive — and it causes real harm: anxiety, a mistaken diagnostic label that follows them for years, unnecessary referral, and occasionally inappropriate immunosuppression.**
-> **"Rheumatology screen" ordered reflexively on an undifferentiated patient is one of the more harmful habits in general medicine.**
-
-> [!tip] What each test is actually for
-> **· ANA** — **a SENSITIVE but NOT SPECIFIC entry test for connective tissue disease.** **It is positive in a meaningful proportion of the healthy population, and the proportion rises with age.** **A low-titre positive ANA in a well person is usually meaningless.** Titre and pattern matter: a high titre with a compatible clinical picture is significant.
-> **· ENA panel and anti-dsDNA** — **ordered only if the ANA is positive and the clinical picture warrants it.** These are the specific antibodies: **anti-dsDNA and anti-Sm are specific for lupus; anti-Ro and anti-La for Sjögren; anti-Scl-70 and anti-centromere for systemic sclerosis subtypes; anti-Jo-1 for myositis; anti-U1-RNP for mixed connective tissue disease.**
-> **· Rheumatoid factor** — **poor specificity.** Positive in Sjögren syndrome, **hepatitis C, infective endocarditis, sarcoidosis, chronic infection and a proportion of healthy older people.** A positive RF in someone without inflammatory arthritis means very little.
-> **· Anti-CCP** — **high specificity for rheumatoid arthritis**, and predicts erosive disease.
-> **· ANCA** — order when vasculitis is genuinely suspected. **Request PR3 and MPO specificity, not just the immunofluorescence pattern.** **False positives occur in infection — notably endocarditis — and in inflammatory bowel disease.**
-> **· Complement C3 and C4** — **consumed in active immune complex disease**, so they FALL with active lupus and cryoglobulinaemia. Useful for monitoring.
-> **· HLA-B27** — **present in a significant minority of the healthy Caucasian population.** **It is NOT a diagnostic test and NOT a screening test** — it shifts probability in a patient who already has inflammatory back pain or a compatible syndrome.
-
-> [!warning] ESR and CRP are not interchangeable, and their discordance is informative
-> **CRP is a hepatic acute phase protein — it rises within hours and falls quickly.**
-> **ESR reflects plasma protein composition and is slower to rise and fall, and it is raised by AGE, ANAEMIA, PREGNANCY, obesity, renal failure and PARAPROTEINS independently of inflammation.**
-> **A very high ESR with a normal or near-normal CRP is a recognised and useful pattern** — it points toward **systemic lupus erythematosus (where CRP is characteristically not raised unless there is infection or serositis), MYELOMA and other paraproteinaemias**, and it should prompt a serum protein electrophoresis. Cross-refer [[J4]].
-> **Conversely, a raised CRP in a lupus patient should raise INFECTION rather than being assumed to be a flare** — which is a genuinely useful clinical rule.
-
-**Ix:** As described. **The practical rule: take the history, examine the patient, form a clinical hypothesis, and then order the two or three tests that will confirm or refute it** — not a panel.
-
----
-
-> [!note] Cross-references
-> The hot swollen joint and septic arthritis → [[L1]] · Muscle symptoms, PMR and giant cell arteritis → [[L3]] · Inflammatory back pain and axial disease → [[L4]] · Regional limb pain → [[L5]] · Giant cell arteritis → [[D1]] 0.4 · Mononeuritis multiplex and inflammatory myopathy → [[D4]] 0.4, 0.6 · Palpable purpura → [[G3]] · Anterior uveitis → [[E1]] · Interstitial lung disease → [[RESP-X]] · Cervical spine and anaesthesia → [[F0.4]] 0.6 and [[AN1]] · Pre-immunosuppression screening → [[K3]] 0.5 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Cardiovascular risk in inflammatory disease → [[B2]] 0.1 · Anticoagulation in antiphospholipid syndrome → [[A9]] 0.4 and [[J3]] · Pregnancy, anti-Ro and congenital heart block → [[O2]] · Myeloma and the ESR-CRP discordance → [[J4]] · IgA vasculitis in children → [[M5]] · Aboriginal and Torres Strait Islander health → [[AU1]]
-
-
 <!-- ===== SOURCE: NEW_Investigations_Infectious_Diseases.md ===== -->
 *Moved here from `Infectious Disease_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
 
@@ -1731,55 +2001,6 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 **Alt:** Duodenal biopsy (gold standard); HLA-DQ2/DQ8 — useful for its **negative** predictive value, since absence makes coeliac disease very unlikely, but a positive is common in the general population and does not diagnose.
 
-## 0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl-70, Anti-histone, Myositis Antibodies)
-`CF-PAIR §1.16` **This section and Part 1 §1.16 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-**D:** Panel of autoantibodies used to characterise connective tissue disease, usually beginning with **ANA** and reflexing to **extractable nuclear antigen (ENA)** specificities.
-
-**Ind:** Clinical features suggesting connective tissue disease — inflammatory arthritis, photosensitive rash, serositis, Raynaud phenomenon, sicca symptoms, unexplained cytopenias, unexplained renal or interstitial lung disease, proximal myopathy.
-
-**Role:** **Supportive, never diagnostic alone.** These are tests to order when a clinical syndrome already suggests the diagnosis.
-
-> [!danger] **ANA is a poor screening test in an unselected patient, and this is the single most consequential point.** A low-titre positive ANA is common in **healthy people** — more so with increasing age and in women — and in other conditions entirely. Ordering ANA on non-specific fatigue or widespread pain generates false positives, anxiety and unnecessary referral. **Order it against a clinical question, not as a screen.**
-
-> [!info] **Specificities worth associating**
-> - **Anti-dsDNA, anti-Sm** — SLE (dsDNA titre can track disease activity, particularly renal).
-> - **Anti-Ro/SSA, anti-La/SSB** — Sjögren syndrome; **anti-Ro also matters in pregnancy** because of the risk of congenital heart block and neonatal lupus.
-> - **Anti-Scl-70 (topoisomerase I)** — diffuse systemic sclerosis, associated with interstitial lung disease.
-> - **Anti-centromere** — limited cutaneous systemic sclerosis/CREST.
-> - **Anti-histone** — **drug-induced lupus** (a pattern relevant to hydralazine, procainamide, isoniazid and others).
-> - **Myositis antibodies (anti-Jo-1 and the antisynthetases, anti-Mi-2, anti-SRP, anti-MDA5)** — inflammatory myopathies; **anti-Jo-1 with the antisynthetase syndrome** (myositis, interstitial lung disease, mechanic's hands, Raynaud, arthritis) and **anti-MDA5** with rapidly progressive interstitial lung disease and relatively little muscle involvement.
-
-**Safety/cost:** Venepuncture; panels are expensive and frequently over-ordered.
-
-**Normal:** Negative ANA makes SLE unlikely but does not exclude every connective tissue disease.
-
-**Abnormal:** Interpret **titre and pattern** with the clinical picture, and refer. See [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]].
-
-**Alt:** Complement C3/C4; inflammatory markers; organ-specific assessment (urinalysis and UPCR, CK, pulmonary function tests, high-resolution CT chest); biopsy.
-
-## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)
-`CF-PAIR §1.16` **This section and Part 1 §1.16 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-**D:** Not a test — the **clinical problem of an autoantibody result returned positive without a matching clinical syndrome**, most often an incidentally ordered ANA or rheumatoid factor.
-
-**Ind:** Applies whenever such a result lands.
-
-**Role:** The task is to decide whether this is disease, a marker of risk, or noise.
-
-> [!warning] **The approach, in order**
-> 1. **Why was it ordered?** If there was no clinical question, the pre-test probability was low and the post-test probability of disease remains low — **Bayes, not the assay, is the issue.**
-> 2. **What is the titre?** Low-titre ANA is frequently a normal finding; higher titres carry more weight but still need a syndrome.
-> 3. **Is there a pattern or specificity?** A positive ANA with a negative ENA and negative dsDNA in an asymptomatic person is usually not disease.
-> 4. **Is there organ involvement?** Examine, and check **urinalysis, FBC, creatinine, LFTs and inflammatory markers** — cheap tests that find the disease if it is there.
-> 5. **Are there confounders?** Age, infection (EBV, hepatitis C), drugs, malignancy, and other autoimmune disease all produce positives.
-> 6. **If all negative:** document, explain to the patient, and **arrange clinical review rather than serial re-testing** — repeating the antibody adds nothing.
-
-> [!danger] **Do not ignore**
-> A positive result **with** a clinical syndrome. The failure mode runs both ways: over-investigating an asymptomatic positive, and dismissing a positive in someone who genuinely has rash, arthritis, serositis or renal involvement. **The result is only as good as the question that generated it.**
-
-**Alt:** Nothing further, in most cases — **the correct next test is often no test**, plus a clinical review interval.
-
 ## 0.21 Vasculitis Serology (ANCA, PR3, MPO, Anti-GBM)
 `CF-PAIR §1.16` **This section and Part 1 §1.16 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
 
@@ -1806,79 +2027,8 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 <!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
 *Moved here from `MSK_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
 
-## 0.6 Joint Aspiration and Synovial Fluid Interpretation
-`CF-PAIR §1.15` **This section and Part 1 §1.15 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!warning] Technique and contraindications
-> **· Strict aseptic technique**, with local anaesthetic and adequate explanation.
-> **· DO NOT aspirate through overlying cellulitis** — it risks introducing organisms into a sterile joint. Approach from an uninvolved area or defer to a specialist.
-> **· Prosthetic joints** — aspirate in consultation with the orthopaedic team, under appropriate conditions.
-> **· Anticoagulation** is not an absolute contraindication for a large joint, but requires care and consideration of the INR.
-> **· Ultrasound guidance** improves success in small joints, deep joints (hip) and obese patients, and should be used where available rather than persisting with blind attempts.
-
-> [!info] What to send, and what not to bother with
-> **SEND: cell count and differential · Gram stain · culture (in blood culture bottles as well as a sterile container improves yield) · and crystal examination under POLARISED light.**
-> **Do not bother with synovial fluid glucose and protein** — they add nothing to the four tests above and are a hangover from older practice.
-
-> [!tip] Interpreting the fluid
-> | | **Normal** | **Non-inflammatory** | **Inflammatory** | **Septic** | **Haemorrhagic** |
-> |---|---|---|---|---|---|
-> | Appearance | Clear, viscous | Clear, yellow | Cloudy, yellow | **Turbid, purulent** | **Bloody** |
-> | White cells | Very low | Low | Raised | **Markedly raised** | Variable |
-> | Neutrophils | Low % | Low % | Higher % | **Predominant** | Variable |
-> | Typical cause | — | **Osteoarthritis, trauma** | **Crystal, RA, reactive, spondyloarthritis** | **Bacterial infection** | **Trauma, bleeding disorder, PVNS** |
-> `UNVERIFIED — all cell count thresholds. These are the numbers that determine whether a joint is washed out, and they must come from a current source.`
-
-> [!danger] Two negatives that do not exclude septic arthritis
-> **1. A NEGATIVE GRAM STAIN.** **The Gram stain is negative in the majority of proven septic arthritis.** It is useful when positive and meaningless when negative.
-> **2. A synovial white cell count BELOW the usual septic threshold.** **This occurs in early infection, in partially treated infection, in prosthetic joint infection (where the thresholds are lower), and in the immunosuppressed.**
-> **The decision to treat as septic is clinical**, informed by the fluid but not dictated by it. **If the clinical picture is septic, treat it as septic while cultures are pending.**
-
-> [!tip] Crystal identification
-> **· Monosodium urate (gout) — NEEDLE-shaped, strongly NEGATIVELY birefringent** (yellow when parallel to the compensator axis).
-> **· Calcium pyrophosphate (CPPD) — RHOMBOID or rod-shaped, weakly POSITIVELY birefringent** (blue when parallel).
-> **Crystal examination requires a polarising microscope and an experienced operator — it is operator-dependent and false negatives occur**, so a negative crystal result in a convincing clinical picture of gout does not exclude it.
-
-**Ix:** As above.
-
-### 0.6.1 Mx – Immediate
-Aspiration relieves pain in a tense effusion as well as being diagnostic.
-
-### 0.6.2 Mx – Definitive
-Determined by the fluid and the clinical picture.
-
-### 0.6.3 Mx – Chronic/long-term
-**Document the aspirate results clearly**, because a future presentation with a hot joint will be interpreted against them — and a previously documented crystal diagnosis is exactly what leads to a later septic joint being dismissed.
-
----
-
-> [!note] Cross-references
-> Polyarthralgia and inflammatory arthritis → [[L2]] · Muscle symptoms and widespread pain → [[L3]] · Regional limb pain → [[L5]] · Cellulitis and pseudocellulitis → [[K2]] 0.1 · Fever workup → [[K1]] · Disseminated gonococcal infection and STI testing → [[O6]] 0.2 · Ross River and vector-borne arthritis → [[K3]] 0.6 · Bleeding disorders and haemophilia → [[A9]] 0.3 and [[J3]] · Calcium, PTH and haemochromatosis in CPPD → [[I3]] · Charcot joint and the diabetic foot → [[I2]] 0.6 · Allopurinol hypersensitivity and SCARs → [[A5]] 0.6 · Sarcoma referral before biopsy → [[B6]] 0.8 · Paediatric limp and hip → [[M5]] · Aboriginal and Torres Strait Islander health and gout equity → [[AU1]]
-
-
 <!-- ===== SOURCE: L7_Fractures_and_Eponyms.md ===== -->
 *Moved here from `MSK_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
-
-## 0.1 Describing a Fracture
-`CF-PAIR §1.7` **This section and Part 1 §1.7 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!tip] The systematic description — examinable, and it forces you to see everything
-> **1. The film itself** — patient details, date, which side, which views, adequacy.
-> **2. WHICH BONE and WHERE** — proximal, middle or distal third; or epiphysis, metaphysis, diaphysis.
-> **3. SIMPLE (two fragments), COMMINUTED (more than two), or SEGMENTAL.**
-> **4. PATTERN — transverse · oblique · spiral · avulsion · impacted · greenstick · buckle (torus).**
-> **5. DISPLACEMENT — always described by where the DISTAL fragment has gone relative to the proximal.** This convention is universal and getting it backwards makes the description meaningless.
-> **6. ANGULATION** — conventionally by the direction the APEX points, though many describe the distal fragment's tilt; **state which convention you are using.**
-> **7. ROTATION and SHORTENING.**
-> **8. INTRA-ARTICULAR extension** — because it changes management: intra-articular fractures need anatomical reduction to prevent post-traumatic arthritis.
-> **9. OPEN or CLOSED.**
-> **10. ASSOCIATED findings** — dislocation, effusion or lipohaemarthrosis, foreign body, and the **neurovascular status**, which is clinical rather than radiological but belongs in the same assessment.
-
-> [!danger] Two views at right angles, and the joint above and below
-> **A single view misses displacement, angulation and sometimes the fracture entirely.** **Minimum two orthogonal views.**
-> **Imaging the joint above and below is what catches the associated dislocations** — a Monteggia or Galeazzi injury is missed when only the mid-shaft is imaged, and the dislocation is the part that causes long-term disability. See 0.3.
-
----
 
 <!-- ===== SOURCE: NEW_Investigations_Renal_and_Urology.md ===== -->
 *Moved here from `Renal and Urology_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
@@ -2149,29 +2299,6 @@ Determined by the fluid and the clinical picture.
 
 **Alt:** **STOP-BANG** and Epworth questionnaires as pre-test screening tools (screening, not diagnostic); overnight oximetry alone (crude, high false-negative rate, but sometimes the only available test); daytime arterial blood gas and bicarbonate where hypoventilation is suspected; echocardiography where pulmonary hypertension or right heart strain is suspected.
 
-## 0.5 Sputum Culture (with Gram Stain and Microscopy)
-`CF-PAIR §1.18` **This section and Part 1 §1.18 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-**D:** Expectorated lower-respiratory secretions examined by **Gram stain and microscopy**, then cultured with susceptibility testing. In a ventilated patient the equivalent specimens are a **tracheal aspirate** or **bronchoalveolar lavage**.
-
-**Ind:** **Severe or hospital-acquired pneumonia**; failure to respond to empirical therapy; suspected resistant organism or prior resistant isolate; **bronchiectasis** and **cystic fibrosis** (where colonising organisms, notably *Pseudomonas aeruginosa*, direct long-term management); suspected **tuberculosis** (a different, specific request — see 0.7); immunosuppression.
-
-**Role:** Narrows empirical antibiotics to targeted therapy. **It is not indicated in uncomplicated community-acquired pneumonia managed in the community**, where empirical treatment is the standard and the yield does not change management.
-
-> [!warning] **Specimen quality determines whether the result means anything, and the laboratory screens for it.**
-> Microscopy is used to distinguish lower-respiratory secretions from saliva by counting **squamous epithelial cells** and **polymorphs** per low-power field. Sources agree on the general standard: **a good specimen has few squamous cells (<10/LPF) with abundant polymorphs; a specimen with >25 squamous cells/LPF is oropharyngeal contamination and is rejected.** A "sputum" specimen that is saliva grows normal oral flora and produces a plausible-looking, entirely misleading report.
-> **Practical consequence:** ask for a **deep cough first thing in the morning**, use physiotherapy or nebulised saline induction if the patient cannot produce one, and **do not send saliva.**
-
-> [!danger] **Do not ignore**
-> - **Take blood cultures and the sputum specimen BEFORE the first antibiotic dose** — but **do not delay antibiotics in sepsis to obtain them.** Antibiotics markedly reduce yield.
-> - **Growth is not infection.** *Candida* from sputum is essentially always colonisation and should not be treated. Upper-airway flora in a poor specimen means nothing. Interpret every isolate against the patient.
-> - **Suspected TB must be requested explicitly.** Routine culture does not detect mycobacteria — see 0.7.
-> - **Frank haemoptysis, weight loss or a smoking history changes the question** from infection to malignancy and TB; sputum cytology is a poor test for lung cancer and imaging is the correct next step.
-
-**Normal/abnormal:** Reported as specimen quality, Gram stain appearance, organism(s) grown, and susceptibilities. A **predominant organism in a good-quality specimen with matching Gram stain morphology** is the result that should change therapy.
-
-**Alt:** **Blood cultures**; *Legionella* and pneumococcal **urinary antigen**; **respiratory PCR panel** (0.1); pleural fluid sampling where an effusion is present; bronchoscopy with BAL in the non-expectorating or immunosuppressed patient; chest X-ray or CT. See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]].
-
 ## 0.6 Sweat Chloride Test
 
 **D:** **Pilocarpine iontophoresis** stimulates local sweating; the sweat is collected, weighed and its **chloride** concentration measured. It is the biochemical demonstration of defective CFTR chloride transport.
@@ -2396,71 +2523,8 @@ Determined by the fluid and the clinical picture.
 <!-- ===== SOURCE: 06_Metabolic_Medicine_and_Endocrinology.md ===== -->
 *Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
 
-### 0.20.6 Arterial Blood Gas Reference Values
-`CF-PAIR §1.5` **This section and Part 1 §1.5 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-| Parameter | Normal range |
-|---|---|
-| pH | 7.35–7.45 |
-| pO2 | 10–14 kPa (hypoxia if <8) |
-| pCO2 | 4.7–6 kPa |
-| Base excess | −2 to +2 mmol/L (>2 = metabolic alkalosis or respiratory acidosis; <−2 = metabolic acidosis or respiratory alkalosis) |
-| HCO3 | 22–26 mmol/L |
-| Lactate | <1 mmol/L (raised in increased anaerobic respiration, poor tissue perfusion) |
-| Anion gap | raised if >14 |
-
-> [!danger] Corrected factual error — the source's original wording ("Type I — ↑CO2 only shown as raised") contradicted its own clarifying parenthetical and was simply incorrect. The correct pattern: **Type I respiratory failure** — hypoxaemia with a **normal or low** PCO2 (a ventilation-perfusion mismatch problem, e.g. pneumonia, PE, early asthma/COPD exacerbation, where the patient can still adequately ventilate CO2 out despite poor oxygenation); **Type II respiratory failure** — hypoxaemia **with** hypercapnia (↑CO2) — a ventilatory pump failure problem, e.g. COPD, opioid overdose, neuromuscular weakness, where the patient can no longer adequately ventilate at all. See [[02_Respiratory]] for the fuller disease-level context these categories map onto, not repeated here.
-**Respiratory failure types:** Type I — hypoxaemia with normal or low CO2; Type II — hypoxaemia with raised CO2.
-
-**Substances clearable by haemodialysis:**
-> [!tip] Mnemonic "SLIME": Salicylates, Lithium, Isopropanol, Methanol, Ethylene glycol
-
----
-
 <!-- ===== SOURCE: F0-2_Acid-Base__DKA_and_Fluid_States.md ===== -->
 *Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
-
-## 0.1 Acid-Base Interpretation — Framework
-`CF-PAIR §1.5` **This section and Part 1 §1.5 cover the same topic. Both are kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-**D:** A structured method for converting a blood gas plus electrolytes into a named disorder, or disorders, and a differential.
-
-**A/P:** A primary process shifts pH → the body compensates through the opposite system (respiratory compensation is fast, renal compensation takes days) → compensation never fully corrects pH and never overshoots → therefore a pH that has corrected fully, or overshot, means a second primary process is present rather than vigorous compensation.
-
-> [!tip] The interpretation sequence
-> **1. pH** — acidaemic or alkalaemic? This names the *primary* disorder even when a second process is hidden underneath.
-> **2. pCO₂ and bicarbonate** — which one moves in the direction that explains the pH? That system is primary; the other is compensating.
-> **3. Anion gap**, on every metabolic acidosis, and arguably on every gas — a raised gap can be present with a normal pH and normal bicarbonate when a second alkalotic process masks it.
-> **4. Delta ratio**, if the gap is raised — does the rise in gap account for the fall in bicarbonate, or is there a second metabolic process?
-> **5. Is compensation appropriate?** If not, there is a second primary disorder.
-
-> [!info] The calculations
-> **Anion gap** = Na⁺ − (Cl⁻ + HCO₃⁻). Some formulations include potassium; be consistent about which you use, because the normal range differs between them. The gap must be **corrected for albumin** — a hypoalbuminaemic ICU or cirrhotic patient can have a significant unmeasured-anion load with an apparently normal gap. `UNVERIFIED — normal anion gap range, the albumin correction factor, Winter's formula constants for expected pCO₂, and the delta ratio cut-offs all require verification against the Oxford Handbook of Clinical and Laboratory Investigation or a current source. No numeric values are stated here.`
-
-> [!warning] Three interpretive traps
-> **A normal bicarbonate does not exclude a metabolic acidosis** — a coexisting metabolic alkalosis (vomiting, diuretics) can normalise it while the anion gap stays wide. Always calculate the gap.
-> **A "normal" pCO₂ in a tiring asthmatic is a pre-arrest finding**, not reassurance — it means the patient can no longer sustain the hyperventilation that was keeping them alive.
-> **Venous gases are adequate for pH, bicarbonate, potassium and lactate**, which covers most ward decisions. They are unreliable for pO₂ and only approximate for pCO₂. Do not delay a decision waiting for arterial access.
-
-> [!tip] Causes by category
-> **HAGMA — GOLD MARK:** Glycols (ethylene glycol, propylene glycol) · Oxoproline (chronic paracetamol, malnourished women) · L-lactate · D-lactate (short bowel) · Methanol · Aspirin · Renal failure · Ketoacidosis.
-> **NAGMA:** GI bicarbonate loss (diarrhoea, high-output stoma, ureteric diversion) · renal tubular acidosis · carbonic anhydrase inhibitors · large-volume saline resuscitation.
-> **Metabolic alkalosis:** vomiting and NG loss · diuretics · hyperaldosteronism · profound hypokalaemia.
-> **Respiratory acidosis:** anything reducing minute ventilation — sedation, neuromuscular weakness, severe airflow obstruction, chest wall disease.
-> **Respiratory alkalosis:** pain, anxiety, hypoxia, sepsis, PE, salicylate, pregnancy, hepatic failure.
-
-**Ix:** VBG or ABG with electrolytes (*why:* gives pH, pCO₂, bicarbonate, potassium and lactate in minutes and is the substrate for the whole sequence above; *what:* the primary disorder and its compensation). Full UEC including chloride (*why:* the anion gap cannot be calculated without chloride, and chloride is frequently omitted from the ordered panel — this is the commonest practical reason an acid-base assessment cannot be completed; *what:* sodium, chloride, bicarbonate for the gap). Albumin (*why:* corrects the anion gap, without which unmeasured anions are missed in the sick and malnourished; *what:* hypoalbuminaemia requiring correction). Lactate (*why:* separates the largest single HAGMA category and tracks resuscitation response; *what:* elevation, and clearance on repeat). Serum ketones, preferably beta-hydroxybutyrate (*why:* urine ketone dipsticks detect acetoacetate and can read falsely low early in DKA and falsely high during recovery, so they mislead in both directions; *what:* elevated beta-hydroxybutyrate). Serum osmolality with calculated gap where a toxic alcohol is possible (*why:* detects the parent alcohol before the acid metabolite forms; *what:* raised osmolar gap — cross-refer [[F0.1]] 0.8). Salicylate and paracetamol levels where the pattern is mixed or unexplained (*why:* salicylate produces a distinctive mixed picture and is easily missed; *what:* level).
-
-### 0.1.1 Mx – Immediate
-Treat the patient, not the number. The pH itself is rarely the therapeutic target; the underlying process is. Restore perfusion and ventilation.
-
-### 0.1.2 Mx – Definitive
-Directed at the identified cause. Bicarbonate therapy is contentious in most metabolic acidoses and is not a routine intern decision. `UNVERIFIED — indications and thresholds for bicarbonate therapy require verification and vary by cause.`
-
-### 0.1.3 Mx – Chronic/long-term
-Recurrent unexplained acidosis warrants investigation for renal tubular acidosis, malabsorption or occult toxin exposure.
-
----
 
 <!-- ===== SOURCE: NEW_Investigations_Obstetrics_and_Gynaecology.md ===== -->
 *Moved here from `OBGYN_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*

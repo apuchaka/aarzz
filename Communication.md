@@ -55,6 +55,50 @@ source: built from Grind Time CSV task-led rows, routed here per project workflo
 
 > [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `1.4 Goals of Care and Ceiling of Care (Treatment Escalation Planning)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: GER5_Communication_and_Consultation_Skills.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.2 Breaking Bad News
+`CF-PAIR §1.2` **Direct duplicate of Part 1 §1.2 Breaking Bad News (New Diagnosis). Both kept in full; this one is written in sayable sentences and Part 1 is the structural treatment. NOT reconciled.**
+
+> [!danger] SPIKES — the framework, with the words
+> **S — SETTING.** Private room, phone silenced, no interruptions, tissues available, adequate time. **SIT DOWN at eye level. Ask whether they would like someone with them — and wait for that person if they would.**
+> **P — PERCEPTION. FIND OUT WHAT THEY ALREADY KNOW BEFORE YOU TELL THEM ANYTHING.**
+> **"Before I go through the results, can you tell me what your understanding is of what's been happening?" / "What have you been told so far?" / "What were you expecting the tests might show?"**
+> **This tells you where to start, reveals misconceptions, and frequently reveals that they already suspect — which changes the whole conversation.**
+> **I — INVITATION. ASK HOW MUCH THEY WANT TO KNOW.**
+> **"Some people want to know every detail, and others prefer the broad picture and to leave the details to us. What would suit you best?"**
+> **K — KNOWLEDGE. Give a WARNING SHOT, PAUSE, then deliver it plainly.**
+> **"I'm afraid I have some difficult news."** *(pause — let them prepare)* **"The biopsy has shown that this is cancer."**
+> **THEN STOP TALKING.**
+> **E — EMOTIONS. This is where the conversation is won or lost.** **Allow the silence. Let them cry. Do not fill the gap with information, reassurance or logistics.** When you speak, acknowledge: **"I'm so sorry." / "Take whatever time you need." / "I can see this is a shock."**
+> **S — STRATEGY AND SUMMARY. Only once the emotion has been acknowledged: what happens next, one concrete next step, written information, a contact number, and a FOLLOW-UP APPOINTMENT.**
+
+> [!danger] Use the word, and expect them to remember almost nothing
+> **SAY "CANCER". SAY "DIED".**
+> **Euphemisms — "a shadow", "a growth", "a mass", "she passed", "we lost him", "he's gone" — cause genuine confusion, prolong uncertainty, and are frequently not understood as meaning what you intended.** **Families have left conversations not realising their relative had died.**
+> **Be plain, be kind, and be unambiguous. Kindness is in the manner, not in the vagueness.**
+> **AND: PEOPLE RETAIN VERY LITTLE AFTER HEARING BAD NEWS.** The moment they hear the word, most of what follows is lost.
+> **THEREFORE: keep the immediate information minimal · offer a support person's presence · provide WRITTEN information · and ARRANGE A FOLLOW-UP APPOINTMENT to go through it again.** **Expect to repeat everything, and do not be surprised or frustrated when you do.**
+
+> [!warning] Prognosis, and telling someone a person has died
+> **PROGNOSIS: ask first — "would it help to talk about time, or would you rather not?"**
+> **Use RANGES in units of time — "days to weeks", "weeks to short months", "months to a year" — never a single number, which is almost always wrong and is remembered exactly.**
+> **Acknowledge the uncertainty honestly: "I can't tell you precisely, and anyone who gives you an exact number is guessing. What I can say is..."** Cross-refer [[J5]] 0.4.
+> **TELLING SOMEONE A PERSON HAS DIED — in person wherever possible; if by phone, ask them to sit down and whether someone is with them.**
+> **"I'm so sorry, I have some very sad news. Despite everything we did, [name] died a short time ago."**
+> **Use the person's NAME. Say "died". Then be silent.**
+> **Afterwards: what happened, in simple terms · whether they suffered (answer honestly and kindly) · whether they were alone · the opportunity to SEE the body · practical information IN WRITING (certification, the funeral director, what to do next) · and bereavement contacts.** Cross-refer [[J5]] 0.6.
+> **CULTURE: some families and cultures expect information to go to the family first, or prefer that a dying person not be told directly.** **DO NOT ASSUME IN EITHER DIRECTION — ASK THE PATIENT, EARLY AND BEFORE THE NEWS EXISTS: "if there were ever difficult news, would you want me to tell you directly, or would you prefer I speak with your family?"** **Asking respects both the individual's right to know and the family's cultural framework.** Cross-refer [[AU1]] 0.3.
+
+---
+
+<!-- ===== SOURCE: Communication.md ===== -->
+
 ## 1.5 Motivational Interviewing and the Stages of Change
 
 > [!note] Gap-filled from CSV ("Motivational interviewing: stages of change model," High yield). The exact "assumed but never explained" pattern from Step 5 of the workflow, applied to a communication framework rather than a clinical score: motivational interviewing is **named as a treatment modality twice** in [[14a-1_Psych_-_Substance_Misuse__Recreational_Drug_Profiles_]] (under Alcohol use disorder and Gambling disorder (gambling-related harms)) without the model ever being explained, and the stages themselves appeared **nowhere in the corpus** — zero hits for "precontemplation" or any other stage name. Verified against RACGP *Australian Family Physician* guidance on motivational interviewing techniques in general practice and on influencing behaviour change, Aug 2026.
@@ -242,6 +286,57 @@ An intern's list is almost always longer than the shift. The workable ordering:
 > [!info] **The part interns most often skip: your own debrief.** Being shouted at is distressing, and the effect on the next patient you see is real. This is a normal part of the work rather than evidence you handled it badly, and services have employee assistance programs and senior colleagues for exactly this.
 
 ---
+
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: GER5_Communication_and_Consultation_Skills.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.3 Difficult Conversations
+`CF-PAIR §1.8` **Direct duplicate of Part 1 §1.8 Talking to Angry Patients and Relatives. Both kept in full. NOT reconciled.**
+
+> [!tip] The angry patient or family
+> **Anger is usually fear, grief or a loss of control, and frequently there is a legitimate grievance underneath it.**
+> **· LET THEM SPEAK WITHOUT INTERRUPTING. Most anger de-escalates once the person feels heard.**
+> **· SIT DOWN, lower your voice, and stay calm — voices converge.**
+> **· ACKNOWLEDGE THE EMOTION AND THE SUBSTANCE: "I can see you're really angry, and I want to understand what's happened." / "You've been waiting a long time and nobody's explained anything — I'd be frustrated too."**
+> **· APOLOGISE FOR WHAT IS APOLOGISABLE.** "I'm sorry you've had that experience" is honest, is not an admission of liability, and defuses.
+> **· DO NOT become defensive, do not argue the facts early, and DO NOT BLAME OTHER STAFF OR OTHER TEAMS — it is unprofessional and it destroys confidence in all of you.**
+> **· AGREE CONCRETE ACTIONS with a timeframe, and offer the formal complaints pathway without defensiveness.**
+> **· AND KNOW WHEN TO STOP — if you feel unsafe, leave and get help.** Cross-refer [[N1]] 0.4.
+
+> [!warning] When the patient asks for something you should not give
+> **Antibiotics for a viral illness, a scan that is not indicated, opioids, a certificate you cannot justify.**
+> **THE APPROACH IS NOT A FLAT REFUSAL — it is EXPLORE, EXPLAIN, ALTERNATIVE:**
+> **· EXPLORE: "Tell me what you're most worried about" / "What were you hoping the scan would show?"** **Frequently the request is a proxy for a fear, and addressing the fear removes the request.**
+> **· ACKNOWLEDGE: "I can see why you'd want to get to the bottom of this."**
+> **· EXPLAIN briefly and without condescension, including the HARMS — "the trouble with scanning everyone is that we find things that were never going to cause a problem, and then you end up having a biopsy you didn't need."**
+> **· OFFER AN ALTERNATIVE PLAN: "here's what I suggest instead..." plus specific safety netting and review. A "no" with a plan attached is heard very differently from a bare "no".**
+> **Saying no while preserving the relationship is a core skill, and the alternative plan is what makes it possible.**
+
+> [!danger] Uncertainty, and goals of care
+> **SAYING "I DON'T KNOW" WELL BUILDS TRUST — provided it is followed by what you will do about it.**
+> **"I don't know what's causing this yet. What I do know is that the dangerous causes have been ruled out, and here's how we're going to find out."** **Feigned certainty is detected and is far more damaging.**
+> **GOALS OF CARE CONVERSATIONS — the single most important framing point:**
+> **DO NOT ASK "DO YOU WANT US TO DO EVERYTHING?"** **It is meaningless (everything is not a coherent plan), it is coercive (nobody says no), and it makes families feel they are choosing to withhold care from someone they love.**
+> **ASK INSTEAD ABOUT THE PERSON:**
+> **· "Tell me about your mum — what was she like before all this?"**
+> **· "What matters most to her?" / "What would she say if she could join this conversation?"**
+> **· "What would be an unacceptable outcome for her?"**
+> **· "Has she ever talked about what she'd want if she became very unwell?"**
+> **Then make a RECOMMENDATION, rather than handing over a menu: "Based on what you've told me about her, I'd recommend we focus on keeping her comfortable and free of pain, and that we don't put her through intensive care, which I don't think would help her and would be distressing. How does that sit with you?"**
+> **Families should not be made to feel they are deciding to end a life. The clinical team recommends; the family tells us about the person.** Cross-refer [[GER2]] 0.6 and [[A10]] 0.3.
+
+> [!tip] Three other difficult conversations
+> **· DELIVERING A DIAGNOSIS THE PATIENT MAY NOT ACCEPT — functional neurological disorder, chronic pain, somatic symptom disorder.** **The key is to give a POSITIVE diagnosis with a mechanism, to state clearly that you believe the symptoms are real, and to avoid "there's nothing wrong" and "it's stress".** Cross-refer [[N6]] 0.1.
+> **· THE PATIENT WHO DOES NOT WANT TO KNOW — a legitimate choice. Confirm it, document it, and leave the door open: "that's completely fine, and if you change your mind at any point, just say."**
+> **· FAMILY DISAGREEMENT — bring them together where possible, return repeatedly to what the PATIENT would have wanted rather than what each family member wants, and name the conflict gently: "I can see you each want the best for him and you see it differently. Can we come back to what he would say?"**
+
+---
+
+<!-- ===== SOURCE: Communication.md ===== -->
 
 ## 1.9 Explaining a Safeguarding Referral
 
@@ -575,83 +670,6 @@ This is the CSV's actual scenario, and the intern's instinct — to ignore it an
 > **· WRITE IT DOWN, or draw it. Patients retain a small fraction of what is said, and less when anxious.**
 > **CLOSING: summarise the plan · agree who does what · SAFETY NET SPECIFICALLY (see below) · check understanding with teach-back · and ask "what questions do you have?" rather than "do you have any questions?", which invites no.**
 > **SAFETY NETTING must be concrete: WHAT to look for, WHEN to act, and WHERE to go.** "Come back if you're worried" is not safety netting.
-
----
-
-## 0.2 Breaking Bad News
-`CF-PAIR §1.2` **Direct duplicate of Part 1 §1.2 Breaking Bad News (New Diagnosis). Both kept in full; this one is written in sayable sentences and Part 1 is the structural treatment. NOT reconciled.**
-
-> [!danger] SPIKES — the framework, with the words
-> **S — SETTING.** Private room, phone silenced, no interruptions, tissues available, adequate time. **SIT DOWN at eye level. Ask whether they would like someone with them — and wait for that person if they would.**
-> **P — PERCEPTION. FIND OUT WHAT THEY ALREADY KNOW BEFORE YOU TELL THEM ANYTHING.**
-> **"Before I go through the results, can you tell me what your understanding is of what's been happening?" / "What have you been told so far?" / "What were you expecting the tests might show?"**
-> **This tells you where to start, reveals misconceptions, and frequently reveals that they already suspect — which changes the whole conversation.**
-> **I — INVITATION. ASK HOW MUCH THEY WANT TO KNOW.**
-> **"Some people want to know every detail, and others prefer the broad picture and to leave the details to us. What would suit you best?"**
-> **K — KNOWLEDGE. Give a WARNING SHOT, PAUSE, then deliver it plainly.**
-> **"I'm afraid I have some difficult news."** *(pause — let them prepare)* **"The biopsy has shown that this is cancer."**
-> **THEN STOP TALKING.**
-> **E — EMOTIONS. This is where the conversation is won or lost.** **Allow the silence. Let them cry. Do not fill the gap with information, reassurance or logistics.** When you speak, acknowledge: **"I'm so sorry." / "Take whatever time you need." / "I can see this is a shock."**
-> **S — STRATEGY AND SUMMARY. Only once the emotion has been acknowledged: what happens next, one concrete next step, written information, a contact number, and a FOLLOW-UP APPOINTMENT.**
-
-> [!danger] Use the word, and expect them to remember almost nothing
-> **SAY "CANCER". SAY "DIED".**
-> **Euphemisms — "a shadow", "a growth", "a mass", "she passed", "we lost him", "he's gone" — cause genuine confusion, prolong uncertainty, and are frequently not understood as meaning what you intended.** **Families have left conversations not realising their relative had died.**
-> **Be plain, be kind, and be unambiguous. Kindness is in the manner, not in the vagueness.**
-> **AND: PEOPLE RETAIN VERY LITTLE AFTER HEARING BAD NEWS.** The moment they hear the word, most of what follows is lost.
-> **THEREFORE: keep the immediate information minimal · offer a support person's presence · provide WRITTEN information · and ARRANGE A FOLLOW-UP APPOINTMENT to go through it again.** **Expect to repeat everything, and do not be surprised or frustrated when you do.**
-
-> [!warning] Prognosis, and telling someone a person has died
-> **PROGNOSIS: ask first — "would it help to talk about time, or would you rather not?"**
-> **Use RANGES in units of time — "days to weeks", "weeks to short months", "months to a year" — never a single number, which is almost always wrong and is remembered exactly.**
-> **Acknowledge the uncertainty honestly: "I can't tell you precisely, and anyone who gives you an exact number is guessing. What I can say is..."** Cross-refer [[J5]] 0.4.
-> **TELLING SOMEONE A PERSON HAS DIED — in person wherever possible; if by phone, ask them to sit down and whether someone is with them.**
-> **"I'm so sorry, I have some very sad news. Despite everything we did, [name] died a short time ago."**
-> **Use the person's NAME. Say "died". Then be silent.**
-> **Afterwards: what happened, in simple terms · whether they suffered (answer honestly and kindly) · whether they were alone · the opportunity to SEE the body · practical information IN WRITING (certification, the funeral director, what to do next) · and bereavement contacts.** Cross-refer [[J5]] 0.6.
-> **CULTURE: some families and cultures expect information to go to the family first, or prefer that a dying person not be told directly.** **DO NOT ASSUME IN EITHER DIRECTION — ASK THE PATIENT, EARLY AND BEFORE THE NEWS EXISTS: "if there were ever difficult news, would you want me to tell you directly, or would you prefer I speak with your family?"** **Asking respects both the individual's right to know and the family's cultural framework.** Cross-refer [[AU1]] 0.3.
-
----
-
-## 0.3 Difficult Conversations
-`CF-PAIR §1.8` **Direct duplicate of Part 1 §1.8 Talking to Angry Patients and Relatives. Both kept in full. NOT reconciled.**
-
-> [!tip] The angry patient or family
-> **Anger is usually fear, grief or a loss of control, and frequently there is a legitimate grievance underneath it.**
-> **· LET THEM SPEAK WITHOUT INTERRUPTING. Most anger de-escalates once the person feels heard.**
-> **· SIT DOWN, lower your voice, and stay calm — voices converge.**
-> **· ACKNOWLEDGE THE EMOTION AND THE SUBSTANCE: "I can see you're really angry, and I want to understand what's happened." / "You've been waiting a long time and nobody's explained anything — I'd be frustrated too."**
-> **· APOLOGISE FOR WHAT IS APOLOGISABLE.** "I'm sorry you've had that experience" is honest, is not an admission of liability, and defuses.
-> **· DO NOT become defensive, do not argue the facts early, and DO NOT BLAME OTHER STAFF OR OTHER TEAMS — it is unprofessional and it destroys confidence in all of you.**
-> **· AGREE CONCRETE ACTIONS with a timeframe, and offer the formal complaints pathway without defensiveness.**
-> **· AND KNOW WHEN TO STOP — if you feel unsafe, leave and get help.** Cross-refer [[N1]] 0.4.
-
-> [!warning] When the patient asks for something you should not give
-> **Antibiotics for a viral illness, a scan that is not indicated, opioids, a certificate you cannot justify.**
-> **THE APPROACH IS NOT A FLAT REFUSAL — it is EXPLORE, EXPLAIN, ALTERNATIVE:**
-> **· EXPLORE: "Tell me what you're most worried about" / "What were you hoping the scan would show?"** **Frequently the request is a proxy for a fear, and addressing the fear removes the request.**
-> **· ACKNOWLEDGE: "I can see why you'd want to get to the bottom of this."**
-> **· EXPLAIN briefly and without condescension, including the HARMS — "the trouble with scanning everyone is that we find things that were never going to cause a problem, and then you end up having a biopsy you didn't need."**
-> **· OFFER AN ALTERNATIVE PLAN: "here's what I suggest instead..." plus specific safety netting and review. A "no" with a plan attached is heard very differently from a bare "no".**
-> **Saying no while preserving the relationship is a core skill, and the alternative plan is what makes it possible.**
-
-> [!danger] Uncertainty, and goals of care
-> **SAYING "I DON'T KNOW" WELL BUILDS TRUST — provided it is followed by what you will do about it.**
-> **"I don't know what's causing this yet. What I do know is that the dangerous causes have been ruled out, and here's how we're going to find out."** **Feigned certainty is detected and is far more damaging.**
-> **GOALS OF CARE CONVERSATIONS — the single most important framing point:**
-> **DO NOT ASK "DO YOU WANT US TO DO EVERYTHING?"** **It is meaningless (everything is not a coherent plan), it is coercive (nobody says no), and it makes families feel they are choosing to withhold care from someone they love.**
-> **ASK INSTEAD ABOUT THE PERSON:**
-> **· "Tell me about your mum — what was she like before all this?"**
-> **· "What matters most to her?" / "What would she say if she could join this conversation?"**
-> **· "What would be an unacceptable outcome for her?"**
-> **· "Has she ever talked about what she'd want if she became very unwell?"**
-> **Then make a RECOMMENDATION, rather than handing over a menu: "Based on what you've told me about her, I'd recommend we focus on keeping her comfortable and free of pain, and that we don't put her through intensive care, which I don't think would help her and would be distressing. How does that sit with you?"**
-> **Families should not be made to feel they are deciding to end a life. The clinical team recommends; the family tells us about the person.** Cross-refer [[GER2]] 0.6 and [[A10]] 0.3.
-
-> [!tip] Three other difficult conversations
-> **· DELIVERING A DIAGNOSIS THE PATIENT MAY NOT ACCEPT — functional neurological disorder, chronic pain, somatic symptom disorder.** **The key is to give a POSITIVE diagnosis with a mechanism, to state clearly that you believe the symptoms are real, and to avoid "there's nothing wrong" and "it's stress".** Cross-refer [[N6]] 0.1.
-> **· THE PATIENT WHO DOES NOT WANT TO KNOW — a legitimate choice. Confirm it, document it, and leave the door open: "that's completely fine, and if you change your mind at any point, just say."**
-> **· FAMILY DISAGREEMENT — bring them together where possible, return repeatedly to what the PATIENT would have wanted rather than what each family member wants, and name the conflict gently: "I can see you each want the best for him and you see it differently. Can we come back to what he would say?"**
 
 ---
 

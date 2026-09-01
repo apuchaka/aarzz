@@ -592,98 +592,11 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 
 ---
 
-## 0.20 Shock
-
-**D:** Life-threatening acute circulatory failure causing cellular and tissue hypoxia.
-
-> [!danger] General Mx — Immediate/acute (ABCDE, applies to all shock types before the type-specific Mx below)
-> - 2x wide-bore cannulas ASAP
-> - Bloods: ABG/VBG, group & save + X-match if transfusion needed, troponin (cardiogenic), blood cultures (septic)
-> - IV fluids — 500 mL bolus + further fluids according to response
-> - Further Mx according to type of shock (see below)
-
-> [!tip] Mnemonic "Nacho+": Neurogenic, Anaphylactic, Cardiogenic, Hypovolaemic, Obstructive, other misc causes (e.g. mitochondrial failure) — from *Deranged Physiology*
-
-### 0.20.1 Cardiogenic shock
-Pump failure (heart cannot pump blood around the body).
-**A:** MI, arrhythmias, toxic substances (alcohol, other drugs), heart failure, chest trauma
-**S/smx:** ↓BP, ↑HR, ↑RR
-**Ix:** troponin (*why:* identifies MI as the precipitant; *what:* elevated if ischaemic cause), ECG (*why:* identifies the precipitating rhythm/ischaemia; *what:* STEMI changes, arrhythmia), echo (*why:* confirms pump failure and its mechanism/severity at the bedside; *what:* severely reduced LV function, regional wall motion abnormality, or mechanical complication e.g. acute MR/VSD)
-**Mx:**
-- **Immediate/acute:** ABCDE as above; loop diuretic if fluid-overloaded; vasopressors/inotropes (e.g. dobutamine, noradrenaline — specialist-guided); mechanical circulatory support (e.g. IABP, ECMO) in refractory cases.
-- **Definitive:** treat the underlying cause — urgent PCI if MI-driven, antiarrhythmic/cardioversion if arrhythmia-driven, surgical repair if mechanical complication.
-- **Chronic/long-term:** manage as per chronic heart failure (section 0.27) once stabilised.
-**P:** very high mortality if occurring secondary to MI
-
-### 0.20.2 Hypovolaemic shock
-Decreased intravascular volume.
-
-> [!info] Haemorrhagic shock classification by blood loss
-> Class I: <750 mL | Class II: 750–1500 mL | Class III: 1500–2000 mL | Class IV: >2000 mL
-
-**A:** haemorrhage, dehydration, GI loss, third-spacing (e.g. hypoalbuminaemia)
-**S/smx:** ↓BP, ↑HR, ↑RR; may have obvious wound/bleeding, but internal bleeding may not be obvious
-**Ix:** bloods, especially group & save + X-match (*why:* prepares for transfusion if haemorrhagic; *what:* determines blood type/compatibility — note Hb may not accurately reflect acute blood loss, since haemodilution takes time, so treat clinically rather than by Hb alone); may need exploratory surgery/endoscopy (*why:* to identify and control an occult bleeding source when not clinically obvious; *what:* localises the bleeding site).
-**Mx:**
-- **Immediate/acute:** ABCDE as above ± major haemorrhage protocol (blood products in fixed ratios) if haemorrhagic.
-- **Definitive:** source control — surgical/endoscopic/interventional-radiological haemostasis if haemorrhagic; rehydration and treat the underlying cause if non-haemorrhagic (GI losses, third-spacing).
-- **Chronic/long-term:** address the underlying cause to prevent recurrence (e.g. investigate and treat the source of chronic GI blood loss).
-
-### 0.20.3 Distributive shock
-Failure of vasoregulation — further divided into septic, anaphylactic, and neurogenic shock.
-
-**Septic shock**
-Systemic immune response to infection (including cytokine storm) → increased peripheral vasodilation.
-**S/smx:** as per sepsis — ↑temp, warm peripheries, ↑RR, ↑HR, WBC <4 or >12
-**Ix:** blood cultures (*why:* identifies the causative organism to guide targeted antibiotic therapy; *what:* positive culture with organism and sensitivities, though often negative even in confirmed sepsis), ABG/VBG for lactate (*why:* lactate is a marker of tissue hypoperfusion and severity, and trends guide resuscitation response; *what:* elevated lactate correlates with severity/mortality), urine output monitoring (*why:* a simple continuous marker of end-organ (renal) perfusion; *what:* oliguria suggests inadequate perfusion), source-finding Ix if unknown (CXR, urine MC&S) (*why:* identifying and controlling the source is essential to definitive treatment; *what:* may reveal pneumonia, UTI, or other focus)
-**Mx:**
-- **Immediate/acute:** ABCDE as above + IV antibiotics (broad-spectrum, per the Sepsis/Surviving Sepsis "hour-1 bundle" principles — cultures before antibiotics where feasible but don't delay antibiotics for this) + fluid resuscitation; vasopressors (noradrenaline first-line) if fluid-refractory.
-- **Definitive:** source control (drain an abscess, remove an infected line, etc.) + de-escalate antibiotics once cultures/sensitivities return.
-- **Chronic/long-term:** not applicable acutely; post-sepsis, address any underlying immunocompromise/recurrent-source risk factors.
-
-**Anaphylactic shock**
-Systemic IgE-mediated hypersensitivity — massive mast cell degranulation → inflammation and vasodilation.
-**S/smx:** ↓BP, ↑HR, ↑RR; facial/throat swelling, hives, difficulty breathing
-**Ix:** clinical diagnosis (*why:* anaphylaxis is diagnosed and treated on clinical grounds — waiting for confirmatory testing would delay life-saving treatment; *what:* consistent with the S/Smx above); mast cell tryptase can be checked after treatment (*why:* retrospectively supports the diagnosis if it was unclear; *what:* elevated tryptase supports mast cell degranulation, though a normal level doesn't exclude anaphylaxis).
-
-**Mx:**
-- **Immediate/acute:**
-
-> [!danger] **Adrenaline 1:1000 IM injection — ASCIA weight-and-age criteria** (corrected during the L3 seam audit; this box previously gave the superseded pure age-band split)
-> - **>50 kg and ≥12 years: 0.5 mL (500 mcg)** — the adult dose
-> - **>20 kg and ≥5 years: 0.3 mL (300 mcg)**
-> - **7.5–20 kg and ≤5 years: 0.15 mL (150 mcg)**
-> - **<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)** — unverified, see `PENDING_GUIDELINE_CHECKS.md` **B50**
-> `CF-PAIR` **THIS IS THE SECOND OF ONLY TWO PLACES IN THE CORPUS CARRYING THE `<7.5 kg` INFANT ADRENALINE ROW.** The other is `[[09_01_Dermatology_-_Dermatological_Emergencies]]` Anaphylaxis, which this box already points at as the owner. **Neither is redundant and neither should be deleted** — the copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and `NEW_Drugs_01 §0.5` both begin at 7.5 kg. Units differ (`mL` here, `mg` there) and are the same quantity at 1:1000. Both flag `PENDING_GUIDELINE_CHECKS.md` **B50**.
+> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `## 0.20 Shock` and its four subsections, verbatim.**
 >
-> Overall rule: **0.01 mg/kg up to a maximum of 0.5 mg**. See [[09_01_Dermatology_-_Dermatological_Emergencies]] Anaphylaxis for the full entry, and [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific observation criteria — the ASCIA correction from age bands to weight-and-age was made in that file and had not been carried across to here.
-> - Repeat every 5 min if necessary
-> - IM injection into anterolateral thigh (if using an Epipen — count "3 elephants")
-> - If refractory after 2 doses of IM adrenaline, consider IV adrenaline infusion (expert only)
-> - Plus ABCDE, high-flow O2, IV fluids for hypotension; remove the trigger if identifiable.
-
-- **Definitive:** observation period post-resolution (biphasic reactions can occur hours later — duration depends on severity/local protocol); antihistamines and corticosteroids are adjuncts only, not substitutes for adrenaline.
-- **Chronic/long-term:** allergy specialist referral, allergen identification/avoidance, adrenaline auto-injector prescription and training, medical alert identification.
-
-**Neurogenic shock**
-Interruption of the autonomic nervous system.
-**A:** spinal cord transection
-**S/smx:** ↓BP, ↓HR, ↑RR, warm flushed skin; ↓HR due to increased vagal response with no opposing sympathetic tone; if injury above C3, may progress to respiratory arrest
-**Ix:** MRI whole spine (*why:* defines the level and nature of spinal cord injury, guiding urgent surgical decision-making; *what:* identifies the site/extent of cord compression or transection)
-**Mx:**
-- **Immediate/acute:** ABCDE; vasopressors (to counter unopposed vasodilation) and atropine (for bradycardia from unopposed vagal tone); maintain spinal precautions/immobilisation.
-- **Definitive:** urgent neurosurgical referral — decompression/stabilisation surgery as indicated by the injury.
-- **Chronic/long-term:** rehabilitation, autonomic dysreflexia monitoring/management, ongoing spinal injury multidisciplinary care.
-
-### 0.20.4 Obstructive shock
-Obstruction of blood flow → hypoperfusion of tissues distal to obstruction.
-**A:** tension pneumothorax, cardiac tamponade
-**Mx:**
-- **Immediate/acute:** ABCDE; needle decompression for tension pneumothorax, pericardiocentesis for tamponade — mechanical obstruction requires mechanical relief, not just fluids/pressors.
-- **Definitive:** chest drain insertion (pneumothorax) or definitive pericardial drainage/surgery (tamponade), treating the underlying cause (see sections 0.29 PE, 0.33 Tamponade).
-- **Chronic/long-term:** dependent on underlying cause — e.g. anticoagulation if PE-driven obstruction (massive PE causing obstructive physiology).
-
----
+> Shock is a presentation you manage, not a cardiac disease, and `F0-3 §0.1`–`§0.6` there is the same
+> four-phenotype framework taught a second time. **Both accounts are now side by side and intact** —
+> including this entry's ASCIA adrenaline box, one of only two places carrying the `<7.5 kg` row.
 
 ## 0.21 Valvular Heart Disease
 

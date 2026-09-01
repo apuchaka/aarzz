@@ -101,6 +101,40 @@ source: created 2026-09-01 to hold safeguarding content that was split four ways
 
 ---
 
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: 15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## Non-accidental injury (NAI)
+`CF-PAIR §0.2` **Part 0 §0.2 Recognising Child Abuse and Neglect covers the same ground from the recognition side. Both kept in full, NOT reconciled.**
+
+> [!info] The equivalent safeguarding entry for older people is [[18_Geriatrics_and_Older_Persons_Health]] Abuse of Older People (Elder Abuse) and Carer Stress, built to the same structure. Worth reading alongside this one specifically because the **reporting duties are genuinely different**: doctors are mandatory reporters for child abuse in South Australia, whereas there is **no general statutory mandatory reporting obligation for elder abuse in Australia** — carrying the assumption across from this entry to an older patient is a recognised error in both directions.
+
+- **R:** birth weight <2.5kg, mother <30 years old, unwanted pregnancy, poverty, prematurity, multiple medical conditions, child <2 years old, domestic abuse. Parental factors: substance and alcohol misuse, intellectual disability, history of childhood abuse, mental health problems.
+
+> [!warning] S/Smx suggestive of NAI: child may disclose it themselves; story inconsistent with injuries; repeated attendances at the Emergency Department; delayed presentation; child with a frightened, withdrawn appearance ("frozen watchfulness"); bruising; fractures (particularly metaphyseal, posterior rib fractures, or multiple fractures at different stages of healing); torn frenulum (e.g. from forcing a bottle into a child's mouth); burns or scalds; failure to thrive; STIs (e.g. gonorrhoea, trichomonas).
+
+### Investigation of suspected physical abuse
+
+- <2 years old: skeletal survey, ophthalmology review (retinal haemorrhages indicate 71% of abusive head trauma in <3 year olds).
+- Head CT: for <1 year old, consider in >1 year old.
+- Bruising: clotting screen, FBC, film.
+- Fractures: bone profile, vitamin D, PTH.
+- Consider urine toxicology if poisoning is possible, and medical photography to document injuries.
+
+### Information sharing
+
+- Contact social services to check if the patient/family is known. Contact GP, health visitor, school.
+
+> [!note] DDx: osteogenesis imperfecta, ITP, leukaemia, HSP, coagulation disorder, scurvy, blue spots (Mongolian spots), osteoporosis.
+
+- **Mx:** raise a safeguarding concern. Document everything; differentiate fact from opinion.
+
+<!-- ===== SOURCE: GER4_Safeguarding_and_Forensic.md ===== -->
+
 ## 0.3 Responding to a Child Protection Concern
 
 > [!danger] What to do — in order
@@ -318,31 +352,6 @@ source: created 2026-09-01 to hold safeguarding content that was split four ways
 
 <!-- ===== SOURCE: 15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse.md ===== -->
 *Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## Non-accidental injury (NAI)
-`CF-PAIR §0.2` **Part 0 §0.2 Recognising Child Abuse and Neglect covers the same ground from the recognition side. Both kept in full, NOT reconciled.**
-
-> [!info] The equivalent safeguarding entry for older people is [[18_Geriatrics_and_Older_Persons_Health]] Abuse of Older People (Elder Abuse) and Carer Stress, built to the same structure. Worth reading alongside this one specifically because the **reporting duties are genuinely different**: doctors are mandatory reporters for child abuse in South Australia, whereas there is **no general statutory mandatory reporting obligation for elder abuse in Australia** — carrying the assumption across from this entry to an older patient is a recognised error in both directions.
-
-- **R:** birth weight <2.5kg, mother <30 years old, unwanted pregnancy, poverty, prematurity, multiple medical conditions, child <2 years old, domestic abuse. Parental factors: substance and alcohol misuse, intellectual disability, history of childhood abuse, mental health problems.
-
-> [!warning] S/Smx suggestive of NAI: child may disclose it themselves; story inconsistent with injuries; repeated attendances at the Emergency Department; delayed presentation; child with a frightened, withdrawn appearance ("frozen watchfulness"); bruising; fractures (particularly metaphyseal, posterior rib fractures, or multiple fractures at different stages of healing); torn frenulum (e.g. from forcing a bottle into a child's mouth); burns or scalds; failure to thrive; STIs (e.g. gonorrhoea, trichomonas).
-
-### Investigation of suspected physical abuse
-
-- <2 years old: skeletal survey, ophthalmology review (retinal haemorrhages indicate 71% of abusive head trauma in <3 year olds).
-- Head CT: for <1 year old, consider in >1 year old.
-- Bruising: clotting screen, FBC, film.
-- Fractures: bone profile, vitamin D, PTH.
-- Consider urine toxicology if poisoning is possible, and medical photography to document injuries.
-
-### Information sharing
-
-- Contact social services to check if the patient/family is known. Contact GP, health visitor, school.
-
-> [!note] DDx: osteogenesis imperfecta, ITP, leukaemia, HSP, coagulation disorder, scurvy, blue spots (Mongolian spots), osteoporosis.
-
-- **Mx:** raise a safeguarding concern. Document everything; differentiate fact from opinion.
 
 ## Sexual abuse
 

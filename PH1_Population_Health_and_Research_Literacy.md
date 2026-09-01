@@ -153,6 +153,50 @@ source: built in chat, model knowledge, NOT source-verified
 
 ---
 
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: Clinical-Process-EBM-Consent-Capacity.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## Diagnostic Test Characteristics — Sensitivity, Specificity, PPV and NPV
+`CF-PAIR §0.3` **Part 0 §0.3 Diagnostic Test Statistics covers the same ground. Both kept in full, NOT reconciled.**
+
+> [!warning] **Correction to this project's own record.** The workflow's N2 entry instructs a future round to "verify Notifiable Diseases and sensitivity/specificity are genuinely already adequate first, don't rebuild what exists." Notifiable diseases *is* adequate (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia)). **Sensitivity and specificity were not.** The terms appear eight times across the corpus, every one of them an *application* to a specific test — D-dimer's high sensitivity, faecal calprotectin, the Ottawa rules — with the concepts themselves never defined and PPV/NPV never mentioned at all. This is the same failure mode that produced the false "SNAP is covered" claim: **applied in context is not the same as built as a topic.**
+
+> [!note] Gap-filled from CSV ("Sensitivity, specificity, PPV/NPV interpretation," High yield, Public Health/Epidemiology category). Verified against the RACGP practical guide to statistics for general practice and Australian Prescriber's *Evidence, risk and the patient*, Aug 2026.
+
+**The four measures, and the distinction that carries all the clinical weight:**
+
+| | Question it answers | Fixed or variable? |
+|---|---|---|
+| **Sensitivity** | Of people **with** the disease, what proportion test positive? | A property of the **test** — does not change with population |
+| **Specificity** | Of people **without** the disease, what proportion test negative? | A property of the **test** |
+| **PPV** | Of people who test **positive**, what proportion actually have the disease? | Depends on **prevalence** — changes with the population |
+| **NPV** | Of people who test **negative**, what proportion are genuinely disease-free? | Depends on **prevalence** |
+
+> [!danger] **The single most important consequence, and the reason this belongs in a clinical file rather than a statistics one: PPV falls as prevalence falls, even though the test has not changed.** Order a test in a population where the disease is rare and most of your positives will be false positives — not because the test is bad, but because there were so few true cases available to find. This is the mechanism behind three things already stated elsewhere in this project without their underlying reason:
+> - Why **screening programmes are restricted by age and risk band** rather than offered to everyone (see [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
+> - Why **general practice investigates differently from an emergency department** — the same symptom carries a far lower pre-test probability there (see [[19_General_Practice_and_Preventive_Medicine]] Continuity of Care, and What Makes General Practice Different).
+> - Why **a positive allergy test is sensitisation rather than disease** unless it fits the history (see [[13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_]] Allergic Rhinitis (Hay Fever)).
+
+**The two mnemonics, and what they actually mean:**
+- **SnNout** — a highly **Sen**sitive test, when **N**egative, rules **out**. High sensitivity means few false negatives, so a negative result is trustworthy.
+- **SpPin** — a highly **Sp**ecific test, when **P**ositive, rules **in**. High specificity means few false positives, so a positive result is trustworthy.
+
+**Worked example already in this project:** **D-dimer** is highly sensitive and poorly specific, which is exactly why it functions as a **rule-out** test in a patient with low pre-test probability of VTE and is useless as a rule-in test — see [[Investigation-Interpretation]] Coagulation Screen and D-dimer Interpretation, which states the practical rule; this entry is the reasoning underneath it.
+
+> [!danger] **A test or risk tool validated in one population does not automatically perform the same way in another, and this is a recurring Australian equity problem rather than a theoretical one.** Sensitivity and specificity are properties of a test *in the population it was validated in*; move to a population with different disease prevalence, different age structure, or a different spectrum of disease, and both the predictive values and sometimes the test characteristics themselves shift.
+> The worked example is already in this project: **AUSDRISK is not recommended for Aboriginal and Torres Strait Islander people**, because it was derived in a population with a different baseline prevalence and age of onset, and applying it unadjusted under-identifies risk in exactly the group at greatest risk (see [[06_Metabolic_Medicine_and_Endocrinology]]). The same reasoning underlies why **MMSE and MoCA over-diagnose cognitive impairment** where formal schooling, literacy or cultural content differ, and why a separately validated instrument exists (see [[04_Neurology]] Mild Cognitive Impairment (MCI)).
+> **The generalisable question to ask of any test or score: who was it validated in, and is my patient like them?** This is the formal version of the recurring Step 10 pattern in this project — a standard tool being inappropriate or under-inclusive for a specific population.
+
+> [!tip] **Pre-test probability is not optional context — it is half the calculation.** A test result does not tell you whether the patient has the disease; it *moves* your estimate from where it already was. This is why clinical decision rules (Wells, Ottawa, Centor) exist: they establish the pre-test probability *before* the test is ordered, so the result can be interpreted rather than merely read. An intern who orders a test without having formed a pre-test probability cannot interpret the answer either way.
+
+---
+
+<!-- ===== SOURCE: PH1_Population_Health_and_Research_Literacy.md ===== -->
+
 ## 0.4 Measures of Effect
 
 `CF-PAIR` **`Clinical-Process-EBM ## Interpreting Treatment Effects` arrived in Part 1 and was NOT merged into this section.**
@@ -213,6 +257,44 @@ source: built in chat, model knowledge, NOT source-verified
 
 ---
 
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: Clinical-Process-EBM-Consent-Capacity.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## Interpreting Treatment Effects — Absolute vs Relative Risk, and NNT
+`CF-PAIR §0.4` **Part 0 §0.4 Measures of Effect covers the same ground. Both kept in full.**
+
+> [!note] Gap-filled from CSV ("Absolute vs relative risk reduction, NNT," High yield, Public Health/Epidemiology category). Genuinely absent: corpus-wide search returned **zero hits** for NNT, number needed to treat, absolute risk reduction, or confidence interval — despite the project quoting relative risk figures in several entries (HRT's breast cancer risk, endometrial cancer RR) where the absolute/relative distinction is exactly what a patient will ask about. Verified against Australian Prescriber's *Evidence, risk and the patient* and the NHMRC levels of evidence framework, Aug 2026.
+
+**The three numbers, using one worked example throughout.** Suppose an event occurs in **0.2%** of a control group and **0.1%** of a treated group:
+
+- **Absolute risk reduction (ARR)** = control rate − treated rate = **0.1 percentage points**.
+- **Relative risk reduction (RRR)** = ARR ÷ control rate = **50%**.
+- **Number needed to treat (NNT)** = 1 ÷ ARR = 1 ÷ 0.001 = **1,000** patients treated to prevent one event.
+
+> [!danger] **Those three numbers describe the same result, and they do not feel the same.** "Halves your risk" and "one in a thousand benefit" are both true here. **Relative figures are larger and more persuasive precisely because they conceal the baseline**, which is why they dominate drug advertising, media reporting and abstracts — and why an intern quoting an RRR to a patient without the ARR is misleading them while saying something technically correct.
+>
+> The rule that follows: **whenever you are given a relative figure, ask what the baseline risk is.** A 50% reduction in a common event is transformative; the same 50% in a rare one may be worth almost nothing to that individual, while carrying the same side effects and the same cost.
+
+**NNT in practice:**
+- **Lower is better.** An NNT of 10 means treating 10 people to prevent one event; an NNT of 1,000 means treating 1,000.
+- **NNT is meaningless without its time frame and its outcome.** "NNT 20" is uninterpretable; "NNT 20 over 5 years to prevent one non-fatal MI" can be discussed with a patient. Always ask *over what period* and *to prevent what*.
+- **Its counterpart is NNH — number needed to harm.** The decision is the comparison of the two, not the NNT alone: an NNT of 50 against an NNH of 500 is a very different proposition from an NNT of 50 against an NNH of 60.
+- **NNT is not transferable between populations** with different baseline risks. The same treatment has a much lower NNT in a high-risk patient, which is the arithmetic behind **absolute cardiovascular risk assessment** — treating on calculated absolute risk rather than on individual risk factors is a way of directing treatment to the people with the lowest NNT (see [[01_Cardiovascular]] 0.40 Dyslipidaemia and [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
+
+> [!info] **Why this matters for the time-to-benefit reasoning already used elsewhere in this project.** The deprescribing entry says a preventive medicine whose benefit accrues over 5–10 years offers little to a patient whose life expectancy is shorter (see [[18_Geriatrics_and_Older_Persons_Health]] Polypharmacy and Deprescribing). NNT is the formal version of that argument: the NNT is quoted *over a period*, and if the patient will not live through that period, the benefit does not accrue while the harms are immediate. The two entries are the same reasoning at different levels of formality.
+
+> [!info] **The equity consequence of NNT depending on baseline risk, which is not obvious and runs opposite to intuition.** Because NNT falls as baseline risk rises, **the same treatment delivers more absolute benefit to a higher-risk patient**. Aboriginal and Torres Strait Islander Australians carry higher baseline risk for several of the conditions this project covers — cardiovascular disease, chronic kidney disease, rheumatic heart disease. It follows arithmetically that **under-treatment in a higher-risk population forgoes *more* absolute benefit than the same under-treatment elsewhere** — the gap in outcomes is widened not only by the difference in baseline risk but by any difference in treatment rates on top of it. The practical reading: a treatment-access gap is not a separate issue from an incidence gap; it compounds it, which is why this project's equity entries repeatedly check for both (see [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
+
+**Confidence intervals, briefly:** a result is reported with a range of values consistent with the data. Two intern-level uses — **a 95% CI for a risk ratio that crosses 1 means no statistically significant difference was demonstrated**, and **a wide CI signals an imprecise estimate**, usually from a small study, even when the point estimate looks impressive.
+
+---
+
+<!-- ===== SOURCE: PH1_Population_Health_and_Research_Literacy.md ===== -->
+
 # 1 Research literacy merged in from `Clinical-Process-EBM` (C5, 2026-09-01)
 
 > [!info] **C5 executed.** The second half of `Clinical-Process-EBM` — everything after the
@@ -267,70 +349,6 @@ Asking these in order prevents most prescribing errors, because each one can sto
 > **The actionable point is that registration is the prescriber's job**, done through Health Professional Online Services, and the programme is under-used because clinicians do not think of it. Given that cost drives non-adherence and non-adherence drives the outcome gap, **failing to register an eligible patient is a clinical omission, not a paperwork one.** Verified against the PBS Closing the Gap Co-payment Program factsheet and Services Australia prescriber guidance, Aug 2026.
 
 > [!tip] The single most useful habit: **write the indication and the intended duration or review date on every prescription you start.** It answers questions 2, 4 and 5 at once, and it is what makes the medicine reviewable by the next person rather than something they inherit and dare not stop.
-
----
-
-## Diagnostic Test Characteristics — Sensitivity, Specificity, PPV and NPV
-`CF-PAIR §0.3` **Part 0 §0.3 Diagnostic Test Statistics covers the same ground. Both kept in full, NOT reconciled.**
-
-> [!warning] **Correction to this project's own record.** The workflow's N2 entry instructs a future round to "verify Notifiable Diseases and sensitivity/specificity are genuinely already adequate first, don't rebuild what exists." Notifiable diseases *is* adequate (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia)). **Sensitivity and specificity were not.** The terms appear eight times across the corpus, every one of them an *application* to a specific test — D-dimer's high sensitivity, faecal calprotectin, the Ottawa rules — with the concepts themselves never defined and PPV/NPV never mentioned at all. This is the same failure mode that produced the false "SNAP is covered" claim: **applied in context is not the same as built as a topic.**
-
-> [!note] Gap-filled from CSV ("Sensitivity, specificity, PPV/NPV interpretation," High yield, Public Health/Epidemiology category). Verified against the RACGP practical guide to statistics for general practice and Australian Prescriber's *Evidence, risk and the patient*, Aug 2026.
-
-**The four measures, and the distinction that carries all the clinical weight:**
-
-| | Question it answers | Fixed or variable? |
-|---|---|---|
-| **Sensitivity** | Of people **with** the disease, what proportion test positive? | A property of the **test** — does not change with population |
-| **Specificity** | Of people **without** the disease, what proportion test negative? | A property of the **test** |
-| **PPV** | Of people who test **positive**, what proportion actually have the disease? | Depends on **prevalence** — changes with the population |
-| **NPV** | Of people who test **negative**, what proportion are genuinely disease-free? | Depends on **prevalence** |
-
-> [!danger] **The single most important consequence, and the reason this belongs in a clinical file rather than a statistics one: PPV falls as prevalence falls, even though the test has not changed.** Order a test in a population where the disease is rare and most of your positives will be false positives — not because the test is bad, but because there were so few true cases available to find. This is the mechanism behind three things already stated elsewhere in this project without their underlying reason:
-> - Why **screening programmes are restricted by age and risk band** rather than offered to everyone (see [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
-> - Why **general practice investigates differently from an emergency department** — the same symptom carries a far lower pre-test probability there (see [[19_General_Practice_and_Preventive_Medicine]] Continuity of Care, and What Makes General Practice Different).
-> - Why **a positive allergy test is sensitisation rather than disease** unless it fits the history (see [[13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_]] Allergic Rhinitis (Hay Fever)).
-
-**The two mnemonics, and what they actually mean:**
-- **SnNout** — a highly **Sen**sitive test, when **N**egative, rules **out**. High sensitivity means few false negatives, so a negative result is trustworthy.
-- **SpPin** — a highly **Sp**ecific test, when **P**ositive, rules **in**. High specificity means few false positives, so a positive result is trustworthy.
-
-**Worked example already in this project:** **D-dimer** is highly sensitive and poorly specific, which is exactly why it functions as a **rule-out** test in a patient with low pre-test probability of VTE and is useless as a rule-in test — see [[Investigation-Interpretation]] Coagulation Screen and D-dimer Interpretation, which states the practical rule; this entry is the reasoning underneath it.
-
-> [!danger] **A test or risk tool validated in one population does not automatically perform the same way in another, and this is a recurring Australian equity problem rather than a theoretical one.** Sensitivity and specificity are properties of a test *in the population it was validated in*; move to a population with different disease prevalence, different age structure, or a different spectrum of disease, and both the predictive values and sometimes the test characteristics themselves shift.
-> The worked example is already in this project: **AUSDRISK is not recommended for Aboriginal and Torres Strait Islander people**, because it was derived in a population with a different baseline prevalence and age of onset, and applying it unadjusted under-identifies risk in exactly the group at greatest risk (see [[06_Metabolic_Medicine_and_Endocrinology]]). The same reasoning underlies why **MMSE and MoCA over-diagnose cognitive impairment** where formal schooling, literacy or cultural content differ, and why a separately validated instrument exists (see [[04_Neurology]] Mild Cognitive Impairment (MCI)).
-> **The generalisable question to ask of any test or score: who was it validated in, and is my patient like them?** This is the formal version of the recurring Step 10 pattern in this project — a standard tool being inappropriate or under-inclusive for a specific population.
-
-> [!tip] **Pre-test probability is not optional context — it is half the calculation.** A test result does not tell you whether the patient has the disease; it *moves* your estimate from where it already was. This is why clinical decision rules (Wells, Ottawa, Centor) exist: they establish the pre-test probability *before* the test is ordered, so the result can be interpreted rather than merely read. An intern who orders a test without having formed a pre-test probability cannot interpret the answer either way.
-
----
-
-## Interpreting Treatment Effects — Absolute vs Relative Risk, and NNT
-`CF-PAIR §0.4` **Part 0 §0.4 Measures of Effect covers the same ground. Both kept in full.**
-
-> [!note] Gap-filled from CSV ("Absolute vs relative risk reduction, NNT," High yield, Public Health/Epidemiology category). Genuinely absent: corpus-wide search returned **zero hits** for NNT, number needed to treat, absolute risk reduction, or confidence interval — despite the project quoting relative risk figures in several entries (HRT's breast cancer risk, endometrial cancer RR) where the absolute/relative distinction is exactly what a patient will ask about. Verified against Australian Prescriber's *Evidence, risk and the patient* and the NHMRC levels of evidence framework, Aug 2026.
-
-**The three numbers, using one worked example throughout.** Suppose an event occurs in **0.2%** of a control group and **0.1%** of a treated group:
-
-- **Absolute risk reduction (ARR)** = control rate − treated rate = **0.1 percentage points**.
-- **Relative risk reduction (RRR)** = ARR ÷ control rate = **50%**.
-- **Number needed to treat (NNT)** = 1 ÷ ARR = 1 ÷ 0.001 = **1,000** patients treated to prevent one event.
-
-> [!danger] **Those three numbers describe the same result, and they do not feel the same.** "Halves your risk" and "one in a thousand benefit" are both true here. **Relative figures are larger and more persuasive precisely because they conceal the baseline**, which is why they dominate drug advertising, media reporting and abstracts — and why an intern quoting an RRR to a patient without the ARR is misleading them while saying something technically correct.
->
-> The rule that follows: **whenever you are given a relative figure, ask what the baseline risk is.** A 50% reduction in a common event is transformative; the same 50% in a rare one may be worth almost nothing to that individual, while carrying the same side effects and the same cost.
-
-**NNT in practice:**
-- **Lower is better.** An NNT of 10 means treating 10 people to prevent one event; an NNT of 1,000 means treating 1,000.
-- **NNT is meaningless without its time frame and its outcome.** "NNT 20" is uninterpretable; "NNT 20 over 5 years to prevent one non-fatal MI" can be discussed with a patient. Always ask *over what period* and *to prevent what*.
-- **Its counterpart is NNH — number needed to harm.** The decision is the comparison of the two, not the NNT alone: an NNT of 50 against an NNH of 500 is a very different proposition from an NNT of 50 against an NNH of 60.
-- **NNT is not transferable between populations** with different baseline risks. The same treatment has a much lower NNT in a high-risk patient, which is the arithmetic behind **absolute cardiovascular risk assessment** — treating on calculated absolute risk rather than on individual risk factors is a way of directing treatment to the people with the lowest NNT (see [[01_Cardiovascular]] 0.40 Dyslipidaemia and [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
-
-> [!info] **Why this matters for the time-to-benefit reasoning already used elsewhere in this project.** The deprescribing entry says a preventive medicine whose benefit accrues over 5–10 years offers little to a patient whose life expectancy is shorter (see [[18_Geriatrics_and_Older_Persons_Health]] Polypharmacy and Deprescribing). NNT is the formal version of that argument: the NNT is quoted *over a period*, and if the patient will not live through that period, the benefit does not accrue while the harms are immediate. The two entries are the same reasoning at different levels of formality.
-
-> [!info] **The equity consequence of NNT depending on baseline risk, which is not obvious and runs opposite to intuition.** Because NNT falls as baseline risk rises, **the same treatment delivers more absolute benefit to a higher-risk patient**. Aboriginal and Torres Strait Islander Australians carry higher baseline risk for several of the conditions this project covers — cardiovascular disease, chronic kidney disease, rheumatic heart disease. It follows arithmetically that **under-treatment in a higher-risk population forgoes *more* absolute benefit than the same under-treatment elsewhere** — the gap in outcomes is widened not only by the difference in baseline risk but by any difference in treatment rates on top of it. The practical reading: a treatment-access gap is not a separate issue from an incidence gap; it compounds it, which is why this project's equity entries repeatedly check for both (see [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
-
-**Confidence intervals, briefly:** a result is reported with a range of values consistent with the data. Two intern-level uses — **a 95% CI for a risk ratio that crosses 1 means no statistically significant difference was demonstrated**, and **a wide CI signals an imprecise estimate**, usually from a small study, even when the point estimate looks impressive.
 
 ---
 

@@ -50,6 +50,84 @@ This file collects examination technique across all systems as an action checkli
 
 ---
 
+
+> [!info] **CO-LOCATED — 2 further accounts of this topic are directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: 04_Neurology.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+### Glasgow Coma Scale (GCS)
+`CF-PAIR §1.1` **This block and Part 1 §1.1 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+| Eyes | Verbal | Motor |
+|---|---|---|
+| 4 — spontaneously | 5 — oriented | 6 — obeys commands |
+| 3 — opens to voice | 4 — confusion | 5 — localises to pain |
+| 2 — opens to pain | 3 — inappropriate words | 4 — withdraws from pain |
+| 1 — no opening | 2 — sounds | 3 — abnormal flexion to pain |
+| | 1 — none | 2 — extends to pain |
+| | | 1 — none |
+
+> [!danger] If GCS <8, requires intubation (patient may not be able to secure their own airway). Minimum possible GCS is 3.
+
+> [!info] Gap-filled from CSV — AVPU scale, not covered in the source notes. A simpler, faster alternative to GCS used in rapid initial assessment (e.g. primary survey/triage) rather than detailed ongoing neurological monitoring: **A**lert, responds to **V**oice, responds to **P**ain, **U**nresponsive. AVPU is quicker to perform but far less granular than GCS — a patient scored "responds to Voice" on AVPU could correspond to a wide range of GCS scores, so AVPU is appropriate for rapid triage/primary survey but GCS is preferred for ongoing, more precise neurological monitoring once the patient is stabilised. A rough correspondence sometimes used: Alert ≈ GCS 15, Voice ≈ GCS <13, Pain ≈ GCS <8, Unresponsive ≈ GCS 3 — though this is only a rough guide, not a validated conversion.
+
+> [!info] Gap-filled from CSV ("Loss or altered conscious state," Medium yield) — the GCS/AVPU tools above score conscious state, but nothing covered the actual differential for *why* it's reduced. **Causes of an altered/reduced conscious state — mnemonic "AEIOU-TIPS":**
+> - **A**lcohol (intoxication or withdrawal)
+> - **E**pilepsy (post-ictal state) / **E**lectrolytes (hyponatraemia, hypercalcaemia, and others)
+> - **I**nsulin (hypo- or hyperglycaemia)
+> - **O**pioids/**O**verdose (any sedating drug or toxin)
+> - **U**raemia (and other metabolic causes — hepatic encephalopathy, hypothyroidism)
+> - **T**rauma / **T**emperature (hypo- or hyperthermia)
+> - **I**nfection (meningitis, encephalitis, sepsis-associated encephalopathy)
+> - **P**sychiatric (rarely a true cause of reduced GCS — consider once organic causes are reasonably excluded, not as a default explanation)
+> - **S**troke/**S**AH/**S**pace-occupying lesion (and other structural causes — raised ICP, hydrocephalus)
+>
+> **Practical approach:** a bedside glucose and this differential should be run through systematically for any patient with reduced conscious state of unclear cause — hypoglycaemia specifically is rapidly reversible and must never be missed, which is precisely why capillary glucose is checked immediately in any collapsed or confused patient regardless of what else seems obvious. Also always consider the **specific reversal agents** available for two treatable causes: naloxone for suspected opioid toxicity, and IV thiamine before/with glucose in a patient with possible alcohol-related nutritional deficiency (to avoid precipitating Wernicke's encephalopathy — see [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) for the specific AU-verified thiamine dosing, not repeated here).
+
+---
+
+<!-- ===== SOURCE: F0-4_Resuscitation_Algorithms_and_Emergency_Procedures.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 The A–E Approach
+`CF-PAIR §1.1` **This block and Part 1 §1.1 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+**D:** A sequential assessment framework that treats life threats in the order they kill, and that is restarted from the top after every intervention and every deterioration.
+
+**A/P:** The ordering is physiological, not arbitrary — an obstructed airway kills in minutes, inadequate breathing in slightly longer, circulatory failure over longer again. Assessing in this order guarantees the fastest-killing problem is addressed first, and **restarting from A after each intervention** catches the deterioration your treatment caused.
+
+> [!tip] The sequence
+> **A — Airway:** patent, threatened or obstructed? Talking normally means patent. Stridor, gurgling, snoring or silence with effort mean it is not.
+> **B — Breathing:** rate, effort, saturation, air entry, percussion, trachea. Give oxygen.
+> **C — Circulation:** heart rate, blood pressure, capillary refill, JVP, peripheral temperature. IV access, fluids, bleeding control.
+> **D — Disability:** conscious level, pupils, **glucose**, focal deficit.
+> **E — Exposure:** expose fully, look at the back, temperature, rashes, wounds, drains, lines.
+
+> [!info] The F and G vary by context
+> The extension to **ABCDEFG** is not standardised. In paediatric teaching it usually adds **Fluids and Glucose**, captured by the mnemonic **"DEFG — Don't Ever Forget Glucose"**. Other sources use F for Family or Fluids and G for Glucose or Goals of care. `UNVERIFIED — confirm which expansion your curriculum and examiners use; do not assume the one you learned is universal.`
+
+> [!danger] Three rules that get broken
+> **Do not move past a letter until it is addressed.** A cannula is not more urgent than an obstructed airway, however uncomfortable the pause feels.
+> **Restart at A after every intervention and every change.** Deterioration after treatment is common and the framework only works if it loops.
+> **Call for help at the point you recognise the problem, not after you have finished assessing it.** Both can happen at once.
+
+**Ix:** Full vital signs with a manually counted respiratory rate (*why:* respiratory rate rises first and is the most predictive and most frequently estimated observation; *what:* rising trend across the chart). Bedside glucose (*why:* the D of the sequence, instantly reversible, and mimics every neurological catastrophe; *what:* hypoglycaemia). VBG with lactate (*why:* quantifies perfusion and ventilation faster than any other single test; *what:* acidosis, raised lactate, raised CO₂). ECG (*why:* arrhythmia and ischaemia as silent causes; *what:* rhythm, ischaemic change). Directed further investigation once the sequence identifies where the problem sits.
+
+### 0.1.1 Mx – Immediate
+Treat each abnormality as it is found, before moving on. Escalate while assessing.
+
+### 0.1.2 Mx – Definitive
+Directed at the cause identified. Cross-refer [[A1]] 0.1 The Deteriorating Patient.
+
+### 0.1.3 Mx – Chronic/long-term
+Documentation, structured handover with ISBAR, and review of whether the deterioration was preventable.
+
+---
+
+<!-- ===== SOURCE: Examination.md ===== -->
+
 ## 1.2 Vital Signs and Early Warning Scores (Recognising the Deteriorating Patient)
 
 `CF-PAIR` **1 block covering this ground arrived in Part 2 and was NOT merged into this section:** `0.1 The Deteriorating Patient — Recognition` — from A1_Emergency_-_Deteriorating_Patient__Sepsis__Cardiac_Arrest.md. **Both copies kept in full.**
@@ -270,6 +348,160 @@ This file collects examination technique across all systems as an action checkli
 
 ---
 
+
+> [!info] **CO-LOCATED — 3 further accounts of this topic are directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: 03a_Anaesthetics_Primer.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.5 Pre-Operative Assessment
+`CF-PAIR §1.12` **This block and Part 1 §1.12 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!warning] FLAG 2026-09-01 — this file already defers to `Examination.md` in one place and duplicates it here
+> **`Anaes_merged.md:23` says *"See [[Examination]] Pre-Anaesthetic Assessment (Airway + Fitness for
+> Anaesthesia)"*** — and `Examination.md §1.12` carries that title. This section, and
+> `AN1 §0.1 Preoperative Assessment` and `§0.2 Airway Assessment and Anaesthetic Technique`, duplicate it.
+> **The file has made the deferral once and not the second time.** Flagged, nothing moved.
+
+> [!note] Gap-filled from CSV ("Pre operation assessment," Medium yield) — genuinely absent despite being fundamental to safe anaesthetic practice; the ASA classification and fasting guidance were already referenced elsewhere in this source but the assessment framework itself was never built.
+
+**D:** the systematic clinical evaluation of a patient before anaesthesia/surgery, aiming to identify factors that increase perioperative risk, optimise modifiable conditions where possible, and plan the anaesthetic approach accordingly.
+
+**History:**
+- **Presenting surgical condition** and planned procedure — informs anaesthetic technique, positioning, expected blood loss/fluid shifts, and duration.
+- **Past anaesthetic history** — previous anaesthetics and any complications (difficult intubation, PONV, awareness, prolonged recovery), family history of anaesthetic complications (specifically screening for malignant hyperthermia susceptibility — see General Anaesthesia above for the fuller detail on this emergency, not repeated here — and pseudocholinesterase deficiency, relevant to suxamethonium metabolism).
+- **Medical comorbidities** — cardiovascular, respiratory, renal, hepatic, and endocrine disease all carry specific perioperative implications; diabetes specifically has a comprehensive dedicated management pathway — see [[06_Metabolic_Medicine_and_Endocrinology]] Perioperative Diabetes Management for the full AU-verified detail (the ADS-ANZCA national guideline), not repeated here.
+- **Medications** — full medication reconciliation, since several classes need specific perioperative adjustment (anticoagulants, antiplatelets, diabetes medications, and others) — see General Anaesthesia above for the AU-verified DOAC/warfarin perioperative timing and bridging detail, not repeated here.
+- **Allergies** — drug allergies specifically, and any history of anaphylaxis under a previous anaesthetic (raising suspicion for a specific anaesthetic-related allergen, e.g. neuromuscular blocking agents, latex, or chlorhexidine).
+- **Fasting status** — see the "Sip Til Send" ANZCA PG07 (2024) guidance already established elsewhere in this source, not repeated here.
+- **Airway history** — previous difficult intubation, obstructive sleep apnoea, limited neck mobility, dental issues — directly informs airway management planning.
+- **Social history** — smoking (increases perioperative respiratory complication risk; cessation even shortly before surgery has some benefit), alcohol use (relevant to withdrawal risk and anaesthetic drug interactions), and functional capacity (a practical, low-cost way to estimate cardiovascular reserve — the ability to climb ≥2 flights of stairs or achieve ≥4 METs of exertion without symptoms is a widely used threshold suggesting adequate reserve for most non-cardiac surgery without further cardiac work-up).
+
+**Examination:** general examination with particular attention to the airway (see Airway Adjuncts above for the specific airway assessment features relevant to predicting a difficult airway, not repeated here), cardiovascular and respiratory systems, and any specific findings relevant to the planned procedure or identified comorbidities.
+
+> [!info] ASA Physical Status Classification — a widely used, simple system summarising overall perioperative risk, referenced throughout this source
+> **ASA I:** normal healthy patient | **ASA II:** mild systemic disease (e.g. well-controlled hypertension, smoker) | **ASA III:** severe systemic disease, not life-threatening (e.g. poorly controlled diabetes, stable angina) | **ASA IV:** severe systemic disease that is a constant threat to life (e.g. recent MI, severe heart failure) | **ASA V:** moribund, not expected to survive without the operation | **ASA VI:** declared brain-dead, organs being harvested. An "E" suffix denotes emergency surgery, which independently increases risk regardless of the underlying ASA class.
+
+**Ix:** investigations should be **targeted to the history/examination findings and the planned procedure, not ordered routinely/reflexively** — a genuinely important modern principle, since indiscriminate pre-operative testing in low-risk patients undergoing low-risk procedures doesn't improve outcomes and can generate false-positive findings that delay surgery unnecessarily. Common targeted investigations include:
+- **FBC** — if anaemia is suspected, significant blood loss is anticipated, or as a baseline before major surgery.
+- **U&Es** — if renal impairment is known/suspected, in patients on medications affecting electrolytes (diuretics, ACEI/ARB), or before major surgery with expected significant fluid shifts.
+- **Coagulation studies** — if a bleeding history is present, the patient is anticoagulated, or significant blood loss is anticipated.
+- **Group & hold/crossmatch** — see Group & Hold / Crossmatch below for the fuller detail, not repeated here.
+- **ECG** — for patients with known cardiac disease, significant cardiovascular risk factors, or as a baseline before major surgery, particularly in older patients.
+- **HbA1c/glucose** — see the diabetes screening detail in [[06_Metabolic_Medicine_and_Endocrinology]] Perioperative Diabetes Management, not repeated here.
+- **Pregnancy test** — for people of childbearing potential, given the implications for anaesthetic drug choice and timing.
+- **Further cardiac/respiratory work-up** (e.g. echocardiogram, spirometry, cardiology/respiratory referral) — reserved for patients with reduced functional capacity, significant symptoms, or high-risk surgery, rather than routine screening.
+
+**Optimisation:** the pre-operative assessment is also the opportunity to optimise modifiable risk factors before surgery where time allows — e.g. improving glycaemic control in poorly controlled diabetes (see the ADS-ANZCA guideline's specific HbA1c threshold and delay-vs-proceed framework in [[06_Metabolic_Medicine_and_Endocrinology]], not repeated here), treating active infection, optimising heart failure or COPD control, correcting significant anaemia, and smoking cessation advice — all aimed at reducing perioperative risk rather than simply documenting it.
+
+**Consent:** discussing the procedure, anaesthetic technique, and material risks with the patient is a core part of this process — see [[Clinical-Process-EBM-Consent-Capacity]] for the general principles of informed consent, not repeated here.
+
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.6 Group & Hold / Crossmatch`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
+
+<!-- ===== SOURCE: AN1_Perioperative_Care.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Preoperative Assessment
+`CF-PAIR §1.12` **This block and Part 1 §1.12 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!tip] The purpose is four things, and knowing them shapes the assessment
+> **1. Identify and OPTIMISE modifiable risk** before the operation.
+> **2. Plan the anaesthetic** — airway, technique, monitoring.
+> **3. Inform CONSENT** with a realistic discussion of individual risk.
+> **4. Plan the POSTOPERATIVE pathway** — level of care, analgesia, disposition.
+> **The assessment that changes nothing was not worth doing** — which is the principle governing investigation below.
+
+> [!info] Risk stratification tools
+> **· ASA physical status classification (I–V, with E for emergency)** — a global descriptor of systemic disease, widely used and simple. `UNVERIFIED — the class definitions.`
+> **· FUNCTIONAL CAPACITY in metabolic equivalents (METs).** **The practical question: "can you climb two flights of stairs without stopping?"** A patient who can generally has adequate reserve; one who cannot, or whose activity is limited by symptoms rather than by joints, warrants closer assessment. `UNVERIFIED — the MET threshold.`
+> **· Revised Cardiac Risk Index (RCRI)** — combines ischaemic heart disease, heart failure, cerebrovascular disease, diabetes on insulin, renal impairment and high-risk surgery. `UNVERIFIED — components and interpretation.`
+> **· FRAILTY — a better predictor of postoperative outcome than chronological age**, and increasingly used to inform whether to operate at all. Cross-refer [[GER1]] 0.2.
+
+> [!danger] Do not stop dual antiplatelet therapy after a recent coronary stent
+> **Premature cessation of dual antiplatelet therapy after coronary stenting causes STENT THROMBOSIS, which carries very high mortality.**
+> **There is a mandatory minimum duration of DAPT after stenting, which differs by stent type and indication, and elective surgery should be DEFERRED until it is complete.**
+> **If surgery cannot wait, the decision requires explicit discussion with cardiology and the surgical and anaesthetic teams** — it is never a decision for a junior doctor or a pre-admission clinic to make unilaterally.
+> **Similarly, elective surgery is deferred for a defined period after myocardial infarction.** `UNVERIFIED — the DAPT durations by stent type, and the interval after infarction.`
+
+> [!warning] Preoperative anaemia should be found and treated weeks in advance
+> **Anaemia before elective surgery is common, is an INDEPENDENT risk factor for morbidity, mortality and transfusion, and is frequently ignored until the day.**
+> **Patient Blood Management principles: identify anaemia EARLY (weeks before), determine the cause, and treat it — most often with INTRAVENOUS IRON for iron deficiency, which works within weeks.**
+> **Australia has a National Blood Authority Patient Blood Management framework**, and this is one of the clearest examples of a preoperative intervention that measurably improves outcomes.
+> **The practical failure: the haemoglobin is checked on admission the day before surgery, when it is too late to do anything but transfuse.** Cross-refer [[A9]] and [[J1]]. `UNVERIFIED — the PBM thresholds and iron regimens.`
+
+> [!tip] The other optimisable factors
+> **· SMOKING — cessation reduces respiratory and wound complications, and the benefit increases with the duration of abstinence. Even short-term cessation before surgery helps, and the preoperative period is a highly effective teachable moment** — patients are more likely to succeed at quitting around surgery than at almost any other time. `UNVERIFIED — the recommended cessation interval.`
+> **· ALCOHOL — reduction reduces complications, and withdrawal must be anticipated in dependent patients.**
+> **· DIABETES — glycaemic optimisation, and identification of unrecognised diabetes.**
+> **· OBSTRUCTIVE SLEEP APNOEA — screen with STOP-BANG; it predicts postoperative respiratory complications and changes monitoring.** Cross-refer [[RESP-X]] 0.5.
+> **· Nutrition, exercise ("prehabilitation"), and management of heart failure, COPD and asthma.**
+
+> [!danger] Do not order routine preoperative investigations in well patients
+> **Routine blood tests, ECGs and chest radiographs in asymptomatic patients undergoing low-risk surgery do not improve outcomes.** They generate incidental abnormalities that cause delay, further testing, and anxiety without benefit.
+> **Investigations should be targeted by the PATIENT (comorbidity, medications, age) and the PROCEDURE (magnitude, expected blood loss).**
+> **What is usually justified: FBC where anaemia or bleeding is plausible or blood loss expected · UEC in renal disease, diuretics, ACE inhibitors or major surgery · glucose or HbA1c in diabetes · ECG in cardiac disease or above an age threshold for major surgery · group and hold or crossmatch where transfusion is possible · pregnancy test where relevant.**
+> `UNVERIFIED — the specific indications and age thresholds.`
+
+**Ix:** As above — **targeted rather than routine.** **Group and hold or crossmatch** (*why:* preparation for transfusion, and antibody screening takes time; *what:* group and antibodies). **Echocardiography only where it will change management** — new or worsening heart failure, an undiagnosed murmur with symptoms, or suspected severe valvular disease (*why:* **severe aortic stenosis substantially changes anaesthetic conduct and risk**, whereas an echo that confirms known stable disease changes nothing; *what:* valve disease, ventricular function). Respiratory function tests in significant lung disease undergoing thoracic or major surgery (*why:* predicts postoperative respiratory failure; *what:* FEV1, DLCO). **Cervical spine imaging in rheumatoid arthritis** (*why:* atlantoaxial subluxation risks cord injury on intubation; *what:* instability — cross-refer [[L2]] 0.2).
+
+---
+
+<!-- ===== SOURCE: AN1_Perioperative_Care.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.2 Airway Assessment and Anaesthetic Technique
+`CF-PAIR §1.12` **This block and Part 1 §1.12 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!warning] Predictors of a difficult airway
+> **· Previous difficult intubation — the single most useful predictor, and the reason to ASK and to CHECK old anaesthetic records.**
+> **· Mallampati class, limited MOUTH OPENING, short THYROMENTAL distance, reduced NECK EXTENSION, prominent incisors, receding mandible.**
+> **· Obesity, particularly with a large neck circumference · obstructive sleep apnoea · pregnancy · beard.**
+> **· Pathology: head and neck cancer, previous neck RADIOTHERAPY or surgery, burns contractures, airway tumours, and infection.**
+> **· RHEUMATOID ARTHRITIS — atlantoaxial instability.** Cross-refer [[L2]] 0.2.
+> **· ANKYLOSING SPONDYLITIS — a fixed flexed cervical spine, which makes both intubation and neuraxial access difficult.** Cross-refer [[L2]] 0.3.
+> **DOCUMENT a difficult airway prominently in the record AND give the patient written documentation to carry** — a difficult airway discovered a second time, unwarned, is a preventable catastrophe.
+
+> [!tip] Regional anaesthesia and analgesia — the advantages worth knowing
+> **Reduced opioid requirement, superior analgesia, less postoperative nausea and vomiting, earlier mobilisation, and — importantly in older patients — LESS DELIRIUM.**
+> **The fascia iliaca or femoral nerve block in hip fracture is a specific, high-value example** that reduces opioid use and delirium and is under-used. Cross-refer [[L7]] 0.4.
+
+> [!danger] New back pain with neurological deficit after neuraxial anaesthesia is an emergency
+> **EPIDURAL HAEMATOMA or ABSCESS causes permanent paraplegia if not decompressed quickly.**
+> **The warning features: new or worsening back pain · a motor or sensory block that is DENSER, HIGHER or LASTING LONGER than expected · a block that recurs after wearing off · new bladder dysfunction · and, with abscess, fever and raised inflammatory markers.**
+> **A patient whose epidural block should have worn off and has not, or who develops new leg weakness, needs URGENT MRI and urgent neurosurgical discussion — not observation overnight.**
+> **This is why anticoagulant timing around neuraxial procedures is strictly protocolised**, and why those intervals must be checked rather than estimated. Cross-refer [[A9]] 0.4 and [[L4]] 0.2. `UNVERIFIED — all anticoagulant timing intervals for neuraxial procedures.`
+
+> [!warning] Post-dural puncture headache
+> **A POSTURAL headache — markedly worse on sitting or standing, relieved by lying flat** — following dural puncture, typically appearing within a day or two. Often frontal or occipital, sometimes with neck stiffness, photophobia, tinnitus or diplopia.
+> **The postural nature is the diagnostic feature**, and it distinguishes it from other postoperative headaches.
+> **Managed conservatively at first, with an EPIDURAL BLOOD PATCH for persistent or severe symptoms, which is often dramatically effective.** Cross-refer [[D1]] 0.4.
+
+> [!danger] Local anaesthetic systemic toxicity — know that lipid emulsion exists and where it is
+> **Occurs after inadvertent intravascular injection or excessive dose, particularly with large-volume blocks.**
+> **The progression: perioral tingling, TINNITUS, a METALLIC TASTE, visual disturbance, agitation and confusion → SEIZURES → cardiovascular collapse and arrhythmia refractory to standard resuscitation.**
+> **Management: STOP the injection · call for help · A–B–C with 100% oxygen · control seizures · and give INTRAVENOUS LIPID EMULSION ("Intralipid"), which is the specific antidote.**
+> **Prolonged resuscitation may be required, and recovery is possible after extended arrest — do not stop early.**
+> **Every area where regional blocks are performed should have a LAST kit and a copy of the protocol. Know where yours is.** `UNVERIFIED — the lipid emulsion regimen; follow the ANZCA/ASRA protocol on the wall.`
+
+> [!tip] The anaesthetic drug problems worth recognising
+> **· MALIGNANT HYPERTHERMIA — triggered by volatile agents and suxamethonium. A rising END-TIDAL CO₂ is the earliest sign, before temperature rises. Dantrolene is the antidote, and the family requires screening.** Cross-refer [[A6]] 0.3.
+> **· SUXAMETHONIUM — causes a transient rise in potassium, which becomes DANGEROUS HYPERKALAEMIA in burns beyond about 24–48 hours, denervation injury, spinal cord injury, and prolonged immobility, through upregulation of acetylcholine receptors.** **Also: suxamethonium apnoea in pseudocholinesterase deficiency — prolonged paralysis requiring continued ventilation, which is inherited and should be documented and communicated to the family.**
+> **· Residual neuromuscular blockade — a cause of postoperative respiratory compromise and aspiration**, and a reason for careful monitoring in recovery.
+> **· AWARENESS under anaesthesia — rare, deeply distressing, and requires acknowledgement, explanation and psychological follow-up rather than dismissal.**
+
+---
+
+<!-- ===== SOURCE: Examination.md ===== -->
+
 ## 1.13 Cranial Nerve Examination
 
 > [!note] No single exact-matching CSV row for this, but it's implied by extensive content already built in [[04_Neurology]] (Bell's Palsy, Horner's Syndrome, brainstem stroke syndromes, myasthenia gravis) that depends on a systematic cranial nerve exam — added given how foundational and high-yield this station is.
@@ -345,6 +577,142 @@ This file collects examination technique across all systems as an action checkli
 **Cross-reference:** see [[09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers]], [[09_03a_Dermatology_-_Non-Melanoma_Skin_Cancer]], and [[History-Taking]] Skin Lesion / Rash for the disease-level differentials and history-taking approach this exam feeds into.
 
 ---
+
+
+> [!info] **CO-LOCATED — 4 further accounts of this topic are directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: G5_Lumps__Ulcers_and_Nails.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Assessing a Pigmented Lesion
+`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!danger] The single most important feature is CHANGE
+> **Australia has the highest incidence of melanoma in the world, and melanoma is a leading cause of cancer death in young Australian adults** — which sets the threshold for how seriously a changing lesion should be taken.
+> **ABCDE: ASYMMETRY · BORDER irregularity · COLOUR variation within the lesion · DIAMETER (conventionally above about 6 mm) · EVOLVING.**
+> **"E" IS THE MOST IMPORTANT. A lesion that is CHANGING — in size, shape, colour, elevation, or by bleeding, itching or ulcerating — warrants assessment regardless of how it scores on the other letters.**
+> **A patient who says "this one has changed" is providing better information than any single morphological feature.**
+
+> [!tip] The ugly duckling sign — often more useful than ABCDE
+> **Most people's naevi RESEMBLE EACH OTHER — they share a family likeness.**
+> **THE UGLY DUCKLING is the lesion that looks DIFFERENT from the patient's others.**
+> **This works because it uses the patient as their own control, and it detects the lesion that ABCDE misses in someone with many atypical naevi (where every lesion scores badly on ABCDE) or someone with very few (where a small early melanoma may not yet meet the criteria).**
+> **Stand back and look at the whole back at once, rather than examining lesions one at a time through a lens.**
+
+> [!warning] The history that stratifies risk
+> **· PERSONAL history of melanoma or keratinocyte cancer — the strongest single risk factor for another.**
+> **· FAMILY history of melanoma, particularly in a first-degree relative or at a young age.**
+> **· SKIN TYPE — fair skin, red or blond hair, blue eyes, freckling, poor tanning.**
+> **· SUN EXPOSURE HISTORY, and specifically the number of episodes of BLISTERING SUNBURN, particularly in CHILDHOOD.** Intermittent intense exposure relates to melanoma; cumulative chronic exposure relates to SCC.
+> **· Number of naevi, and the presence of ATYPICAL naevi.**
+> **· IMMUNOSUPPRESSION — see 0.3, where the transplant population is discussed. This dramatically changes risk.**
+> **· Previous solaria use, outdoor occupation, and prior phototherapy.**
+
+> [!danger] Examine the whole skin, and if in doubt, excise
+> **A "check this mole" consultation should include a FULL SKIN EXAMINATION — including the SCALP (part the hair), BEHIND THE EARS, BETWEEN THE TOES, the SOLES, the NAILS, and the genital and perianal skin where appropriate and consented.**
+> **Melanomas occur at sites that never see the sun, and acral and subungual melanomas are diagnosed late precisely because nobody looks.**
+> **AND THE OPERATING RULE: IF YOU ARE NOT SURE, EXCISE IT OR REFER IT. DO NOT "WATCH" A SUSPICIOUS LESION.**
+> **"Review in three months" applied to a lesion that concerns you is how thin, curable melanomas become thick ones — and the patient frequently does not return.**
+> **Serial photography has a role for monitoring multiple naevi in high-risk patients under specialist follow-up; it is not a substitute for excising a lesion you are worried about.**
+
+---
+
+<!-- ===== SOURCE: 09_08_Dermatology_-_Miscellaneous.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## Skin lesion morphology — reference terms
+`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!info] Flat, non-palpable changes in skin colour
+> - **Macule:** flat, non-palpable change in skin colour, <0.5cm diameter. Freckles are pigmented macules.
+> - **Patch:** flat, non-palpable change in skin colour, >0.5cm diameter.
+
+> [!info] Elevation due to fluid in a cavity
+> - **Vesicle/Blister:** fluid within the upper layers of skin, <0.5cm diameter.
+> - **Bulla:** large, fluid-filled lesion below the epidermis, >1.0cm diameter.
+> - **Pustule:** collection of pus in the subcutis, >0.5cm diameter.
+
+> [!info] Elevation due to solid masses
+> - **Papule:** raised area, <0.5cm diameter.
+> - **Plaque:** raised area, >2cm diameter.
+> - **Nodule:** mass/lump, >0.5cm diameter.
+> - **Wheal:** dermal oedema.
+
+> [!info] Loss of skin
+> - **Erosion:** partial epidermal loss, heals without scars.
+> - **Ulcer:** full-thickness skin loss.
+> - **Fissure:** linear crack.
+> - **Atrophy:** thinning of the epidermis.
+
+> [!info] Vascular changes
+> - **Telangiectasia:** easily visible superficial blood vessels.
+> - **Spider naevus:** single telangiectatic arteriole in the skin.
+> - **Purpura:** rash caused by blood in the skin, often multiple petechiae.
+> - **Petechiae:** micro-haemorrhage, 1–2mm diameter.
+
+*(Chart concept derived from the Oxford Handbook of Clinical Specialties.)*
+
+---
+
+<!-- ===== SOURCE: G1_Acute_Rash_and_Erythema.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Describing a Rash
+`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!tip] The vocabulary — because an accurate description gets you a diagnosis over the phone
+> **PRIMARY LESIONS:**
+> **· MACULE — flat, small, colour change only. PATCH — flat, larger.**
+> **· PAPULE — raised, small. PLAQUE — raised, larger, with a flat top. NODULE — raised and DEEPER.**
+> **· VESICLE — fluid-filled, small. BULLA — fluid-filled, larger. PUSTULE — pus-filled.**
+> **· WHEAL — a transient, oedematous, itchy swelling that moves and resolves within hours (the defining feature of urticaria).**
+> **· PURPURA — NON-BLANCHING. PETECHIAE are small; ECCHYMOSES are large.**
+> **SECONDARY CHANGES: scale · crust · excoriation · LICHENIFICATION (thickened skin with accentuated markings, from chronic rubbing) · EROSION (loss of epidermis only — heals WITHOUT scarring) · ULCER (extends into dermis — heals WITH a scar) · fissure · atrophy.**
+> **CONFIGURATION: annular · TARGETOID · linear · GROUPED/herpetiform · reticulate (net-like) · serpiginous · DERMATOMAL.**
+> **DISTRIBUTION: flexural · extensor · PHOTODISTRIBUTED (face, V of neck, dorsal hands, sparing under the chin and behind the ears — the shadowed sites are the clue) · acral · truncal · symmetrical or asymmetrical.**
+
+> [!danger] Two things to do with every rash
+> **1. PRESS ON IT. BLANCHING VERSUS NON-BLANCHING is the single most important bedside test in dermatology**, and it separates a benign exanthem from purpura requiring urgent assessment. Use a glass. Cross-refer [[G3]].
+> **2. EXAMINE THE WHOLE SKIN, UNDRESSED — plus the MUCOSAE (mouth, eyes, genitals), the NAILS, the SCALP, and the PALMS AND SOLES.**
+> **Mucosal involvement changes the diagnosis completely** — it is what distinguishes a straightforward drug rash from Stevens-Johnson syndrome. **A rash examined through a gap in a gown is a rash half seen.**
+
+> [!danger] Erythema is under-recognised in darker skin — and it causes delayed diagnosis
+> **Erythema in richly pigmented skin may appear VIOLACEOUS, BROWN, GREY or simply darker rather than red**, and the classic textbook descriptions ("bright red", "salmon pink") are written from white skin.
+> **The consequences are documented and serious: DELAYED DIAGNOSIS OF CELLULITIS · under-recognition of erythroderma · missed CYANOSIS and missed pallor · and jaundice detected late.**
+> **What to do instead: PALPATE — warmth, induration, tenderness and swelling do not depend on colour · COMPARE with the patient's own unaffected skin, ideally the contralateral side · use good natural light · examine the mucosae, conjunctivae, palms and soles where colour change is easier to appreciate · and ASK the patient what has changed, since they know their own skin.**
+> **Also: post-inflammatory HYPER- and HYPOpigmentation are more prominent and more persistent in darker skin, and are a significant cause of distress that should be acknowledged rather than dismissed as cosmetic.**
+> **Photograph lesions with consent** — for monitoring, for referral, and because dermatology advice by phone is far better with an image.
+
+---
+
+<!-- ===== SOURCE: G5_Lumps__Ulcers_and_Nails.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.5 Nails
+`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!tip] Nail signs of systemic disease
+> **· CLUBBING — cross-refer [[A4]] 0.1.**
+> **· KOILONYCHIA (spoon-shaped) — IRON DEFICIENCY.**
+> **· BEAU LINES — transverse grooves across all nails, caused by temporary arrest of nail growth during a severe systemic illness.** **They are useful because they DATE THE INSULT: knowing that nails grow at a roughly predictable rate, the distance from the cuticle indicates how long ago the illness occurred.**
+> **· LEUKONYCHIA (white nails) — hypoalbuminaemia, from liver disease or nephrotic syndrome.**
+> **· TERRY NAILS (proximal white nail with a distal band) — cirrhosis. HALF-AND-HALF nails — chronic kidney disease.**
+> **· SPLINTER HAEMORRHAGES — TRAUMA is by far the commonest cause, but they are a recognised sign of INFECTIVE ENDOCARDITIS and vasculitis.** Cross-refer [[B5]] 0.1.
+> **· PERIUNGUAL TELANGIECTASIA AND ABNORMAL NAILFOLD CAPILLARIES — a genuinely valuable bedside sign of CONNECTIVE TISSUE DISEASE, particularly systemic sclerosis and dermatomyositis.** **Look at the nailfolds with a dermatoscope or even an ophthalmoscope in anyone with Raynaud phenomenon — dilated, dropped-out capillaries indicate a secondary rather than primary Raynaud and change the workup entirely.** Cross-refer [[L2]] 0.4 and [[L3]] 0.6.
+> **· Nail PITTING, ONYCHOLYSIS and oil-drop change — PSORIASIS.** Cross-refer [[G4]] 0.2.
+> **· Yellow nail syndrome — with lymphoedema and pleural effusions.**
+
+> [!danger] Confirm onychomycosis before treating it
+> **A substantial proportion of dystrophic nails that look fungal are NOT — the differential includes PSORIASIS, TRAUMA (particularly the great toenails in runners and in people with foot deformity), lichen planus, and — critically — SUBUNGUAL MELANOMA.**
+> **SYSTEMIC ANTIFUNGALS ARE NOT TRIVIAL: they require months of treatment, carry HEPATOTOXICITY, and have significant DRUG INTERACTIONS (terbinafine and the azoles).**
+> **TAKE NAIL CLIPPINGS AND SUBUNGUAL DEBRIS FOR MICROSCOPY AND CULTURE BEFORE PRESCRIBING** — and take an adequate sample from the affected proximal part, not just a snip of the distal edge.
+> **Treating a psoriatic or traumatic nail with months of terbinafine achieves nothing and risks harm.**
+> **PARONYCHIA: ACUTE — usually staphylococcal, painful, red, may need incision and drainage. CHRONIC — associated with WET WORK and irritant exposure, with loss of the cuticle and secondary candida; the treatment is AVOIDING MOISTURE AND IRRITANTS plus a topical steroid, and antifungals alone do not work.**
+
+---
+
+<!-- ===== SOURCE: Examination.md ===== -->
 
 ## 1.16 Lymph Node Examination
 
@@ -445,6 +813,52 @@ This file collects examination technique across all systems as an action checkli
 
 ---
 
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: F1_Ear.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Examining the Ear and Assessing Hearing
+`CF-PAIR §1.19` **This block and Part 1 §1.19 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!tip] Otoscopy — and the part of the drum everyone forgets
+> **· PULL THE PINNA UP AND BACK IN ADULTS, DOWN AND BACK IN INFANTS AND YOUNG CHILDREN** — the infant canal runs in a different direction, and pulling the wrong way obscures the view.
+> **· Use the LARGEST speculum that comfortably fits (it gives more light and a wider view), hold the otoscope like a pen, and rest your hand against the patient's head so that a sudden movement moves the scope with them.**
+> **· EXAMINE THE UNAFFECTED EAR FIRST** — it establishes what normal looks like in that patient and it is less painful.
+> **· Be systematic: the pinna and post-auricular area · the CANAL (wax, debris, oedema, discharge, granulation) · then the DRUM — colour, translucency, the light reflex, position (bulging or retracted), mobility, perforation, and any fluid or bubbles behind it.**
+> **AND LOOK AT THE ATTIC — THE PARS FLACCIDA — EVERY TIME.**
+> **The pars flaccida sits above the lateral process of the malleus, it is small, it is easy to skip, and it is WHERE CHOLESTEATOMA HIDES.** **A retraction pocket or crust in the attic is the finding that matters, and it is missed by clinicians who look only at the pars tensa.** See 0.3.
+
+> [!danger] Tuning fork tests — and the false negative Rinne
+> **Use a 512 Hz fork.**
+> **RINNE — compare air conduction (beside the ear) with bone conduction (on the mastoid):**
+> **· AC > BC ("Rinne positive") = NORMAL or SENSORINEURAL loss.**
+> **· BC > AC ("Rinne negative") = CONDUCTIVE loss in that ear.**
+> **WEBER — fork on the vertex or forehead, ask where the sound is heard:**
+> **· Lateralises TOWARDS a CONDUCTIVE loss.**
+> **· Lateralises AWAY FROM a SENSORINEURAL loss.**
+> **THE TRAP — THE FALSE NEGATIVE RINNE: in SEVERE UNILATERAL SENSORINEURAL loss, the bone-conducted sound crosses the skull and is heard by the OPPOSITE, normal cochlea — so the test appears to show BC > AC, mimicking a conductive loss.**
+> **THE WEBER RESOLVES IT: in a true conductive loss the Weber lateralises TO the affected ear; in a dead ear with a false negative Rinne it lateralises AWAY from it.**
+> **Always do both tests together, and interpret them together.** **This matters most in sudden hearing loss — see 0.5.**
+
+> [!tip] The other assessments, and how to talk to a hearing-impaired patient
+> **· WHISPERED VOICE TEST — a reasonable bedside screen: mask the other ear, stand behind the patient at arm's length, and whisper a combination of numbers and letters after a full exhalation.**
+> **· PURE TONE AUDIOMETRY with air and bone conduction — the formal test, distinguishing conductive from sensorineural and quantifying the loss.**
+> **· TYMPANOMETRY — measures middle ear compliance. A FLAT (type B) trace indicates middle ear fluid or a perforation; a negative-pressure (type C) trace indicates Eustachian tube dysfunction.** `UNVERIFIED — the classification and normal values.`
+> **· Always also examine the NOSE, THROAT, NECK for lymphadenopathy, and the CRANIAL NERVES — particularly the facial nerve.**
+> **COMMUNICATING WITH A HEARING-IMPAIRED PATIENT — practical and consistently done badly:**
+> **· FACE THEM, at their level, with your face in good light so they can lip-read. Do not talk while looking at the notes or the screen, and do not talk from behind or while wearing a mask if it can be avoided.**
+> **· SPEAK CLEARLY AND SLIGHTLY MORE SLOWLY — do NOT SHOUT, which distorts speech and looks aggressive.**
+> **· REDUCE BACKGROUND NOISE — turn off the television, close the door, move away from the nurses' station.**
+> **· CHECK THE HEARING AID IS IN, TURNED ON, AND HAS A WORKING BATTERY.** **Hearing aids left in the locker are a routine and preventable cause of "confusion" in hospitalised older people, and they contribute directly to delirium.** Cross-refer [[D2]] 0.2.
+> **· WRITE DOWN key information, and confirm understanding.**
+
+---
+
+<!-- ===== SOURCE: Examination.md ===== -->
+
 ## 1.20 Rinne and Weber Tests
 
 > [!note] Gap-filled — referenced as part of the Cranial Nerve Examination (CN VIII) above and constantly assumed throughout [[13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_]] Hearing loss — differential diagnosis, but the actual technique and interpretation had never been written up as its own entry — a genuinely classic, high-yield bedside pair of tests using a 512Hz tuning fork to distinguish conductive from sensorineural hearing loss before any formal audiometry is available.
@@ -525,6 +939,74 @@ This file collects examination technique across all systems as an action checkli
 
 ---
 
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: D5_Dizziness__Vertigo_and_Gait.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.2 Acute Vestibular Syndrome and the HINTS Examination
+`CF-PAIR §1.21` **This block and Part 1 §1.21 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+**D:** Acute-onset **continuous** vertigo lasting more than 24 hours, with nausea and vomiting, nystagmus, head-motion intolerance and gait unsteadiness.
+
+**A/P:** The differential is essentially two conditions with opposite implications: **vestibular neuritis** (benign, self-limiting, from inflammation of the vestibular nerve, often post-viral) and **posterior circulation stroke** — cerebellar or brainstem infarction. **A meaningful proportion of patients presenting with isolated acute vertigo have a stroke**, and they are the group most likely to be discharged home.
+
+> [!danger] HINTS is more sensitive than early MRI for posterior circulation stroke
+> **Early diffusion-weighted MRI has a false negative rate in the first 24–48 hours for small posterior fossa infarcts.** A properly performed HINTS examination by a trained examiner outperforms it.
+> **This is the single most important fact in this file**, because it inverts the instinct to reassure on the basis of a negative scan.
+
+> [!info] HINTS — the three components
+> **Only valid in a patient with CONTINUOUS, ONGOING vertigo and nystagmus at the time of examination.** It is **not** applicable to episodic vertigo, and it is **not** applicable to a currently asymptomatic patient — using it there produces dangerously misleading results.
+>
+> **1. Head Impulse test** — rapid small-amplitude head turn while the patient fixates on your nose.
+> **· ABNORMAL (a corrective catch-up saccade) = PERIPHERAL** — the vestibulo-ocular reflex is broken on that side.
+> **· NORMAL (eyes stay locked on target) = CENTRAL.** This is counterintuitive: **a normal test is the worrying one.**
+>
+> **2. Nystagmus** —
+> **· Unidirectional, horizontal (with a torsional component), fast phase always in the same direction = PERIPHERAL.**
+> **· Direction-changing on gaze to either side, or PURELY VERTICAL, or purely torsional = CENTRAL.**
+>
+> **3. Test of Skew** — alternate cover test.
+> **· Any vertical corrective movement (skew deviation) = CENTRAL.**
+>
+> **The mnemonic for the central pattern is "INFARCT": Impulse Normal, Fast-phase Alternating, Refixation on Cover Test.**
+> **Any ONE central finding makes it central.** All three must be peripheral to call it peripheral.
+
+> [!warning] HINTS-plus, and why hearing loss does not mean peripheral
+> Adding **new unilateral hearing loss** to the examination improves sensitivity.
+> **New hearing loss with acute vertigo is NOT reassuring** — an **anterior inferior cerebellar artery (AICA) infarct supplies the labyrinth as well as the brainstem and cerebellum, so it can cause hearing loss with vertigo.** The historical teaching that hearing loss localises to the ear is not safe in this setting.
+
+> [!danger] Other features that make it central
+> **· Inability to stand or walk unaided.** **A patient with acute vertigo who cannot walk without falling has a central lesion until proven otherwise** — patients with vestibular neuritis veer toward the affected side but can generally walk.
+> **· Severe headache or neck pain** — consider **vertebral artery dissection**, especially in a younger patient.
+> **· Any other brainstem or cerebellar sign** — diplopia, dysarthria, dysphagia, facial numbness, limb ataxia, Horner syndrome, hemisensory loss.
+> **· Sudden onset**, vascular risk factors, or age.
+> **· Deterioration over hours** — cerebellar stroke swells and compresses the brainstem. Cross-refer [[D3]] 0.2.
+
+> [!tip] Vestibular neuritis — treat, but do not over-treat
+> Vestibular suppressants (prochlorperazine, promethazine, benzodiazepines) relieve acute symptoms.
+> **Limit them to the first few days.** **Prolonged use PREVENTS central vestibular compensation and produces a patient who remains dizzy for months.** This is a common and avoidable iatrogenic problem.
+> **Early vestibular rehabilitation — movement rather than rest — accelerates compensation**, and telling the patient to lie still in a dark room is the wrong advice beyond the first day or two. `UNVERIFIED — the recommended duration limit for suppressants, and the evidence for corticosteroids, which is contested.`
+
+**S/Smx:** Continuous vertigo, nausea and vomiting, nystagmus, unsteadiness, and — where central — additional neurological signs.
+
+**Ix:** **HINTS examination in the patient with ongoing nystagmus** (*why:* more sensitive than early MRI, immediate, and free; *what:* the INFARCT pattern versus a peripheral pattern). **Gait assessment — can the patient stand and walk unaided?** (*why:* inability to walk is a strong central indicator and takes seconds to test; *what:* truncal ataxia, falling). **MRI brain with diffusion, including posterior fossa** where central features are present or suspicion persists (*why:* CT is very poor for the posterior fossa; *what:* infarct — noting the false negative rate in the first 48 hours, so **a negative early MRI in a patient with a central HINTS pattern does not exclude stroke and should be repeated**). CT angiography of the vertebral and basilar arteries where dissection or vertebrobasilar disease is suspected (*why:* dissection is a leading cause of posterior circulation stroke in the young; *what:* dissection, stenosis). Audiometry where hearing loss (*why:* characterises the loss and distinguishes labyrinthine from retrocochlear; *what:* pattern and side). ECG and cardiac assessment (*why:* embolic source, and arrhythmia as an alternative cause of "dizziness"; *what:* AF, arrhythmia). Postural blood pressure (*why:* excludes orthostatic hypotension; *what:* postural drop).
+
+### 0.2.1 Mx – Immediate
+**HINTS and gait assessment.** Antiemetics and vestibular suppressants short-term. **Urgent imaging and stroke pathway if any central feature.** Admit and observe if the patient cannot mobilise safely.
+
+### 0.2.2 Mx – Definitive
+Stroke management per [[D3]], or supportive care with early vestibular rehabilitation for neuritis.
+
+### 0.2.3 Mx – Chronic/long-term
+**Vestibular rehabilitation** for persistent symptoms, which is effective and under-referred. Secondary prevention after stroke. Driving advice.
+
+---
+
+<!-- ===== SOURCE: Examination.md ===== -->
+
 ## 1.22 Mental State Examination (MSE)
 
 `CF-PAIR` **1 block covering this ground arrived in Part 2 and was NOT merged into this section:** `0.1 Psychiatric Assessment and the Mental State Examination` — from N1_Mental_State_Examination_and_Risk.md. **Both copies kept in full.**
@@ -550,6 +1032,42 @@ This file collects examination technique across all systems as an action checkli
 **Cross-reference:** see [[History-Taking]] for the presentation-led history-taking entries (e.g. Bruising and Bleeding, Joint Pain) this pairs with in the same way GALS pairs with Joint Pain history — the MSE is the psychiatric examination counterpart to a full psychiatric history, which isn't separately built here given the disease-specific diagnostic criteria boxes throughout [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] through [[14_05c_Psych_-_Unexplained_Symptoms__Somatoform__Dissociative__Factitious_Disorders_]] already function as the history-taking framework for each specific presentation.
 
 ---
+
+
+> [!info] **CO-LOCATED — a second account of this topic is directly below, intact, nothing reconciled.**
+> They were elsewhere in this file. A cross-reference means opening a second place to read.
+
+<!-- ===== SOURCE: N1_Mental_State_Examination_and_Risk.md ===== -->
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+
+## 0.1 Psychiatric Assessment and the Mental State Examination
+`CF-PAIR §1.22` **This block and Part 1 §1.22 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!tip] The MSE is an EXAMINATION, not a history
+> **It describes what you observe and elicit in the room, at this moment** — in the same way a cardiovascular examination describes what you find on this occasion.
+> **What the patient reports about last week belongs in the history. What they say and do now belongs in the MSE.**
+> **Write it descriptively, so another clinician could picture the encounter** — "sat with head lowered, made brief eye contact when addressed, spoke in short sentences with long pauses" tells the reader more than "flat affect".
+
+> [!info] The components
+> **· APPEARANCE AND BEHAVIOUR** — grooming, dress, nutritional state, psychomotor activity (retardation or agitation), eye contact, rapport, cooperation, and **abnormal movements: extrapyramidal side effects, tardive dyskinesia, tremor, catatonic features.**
+> **· SPEECH** — rate, rhythm, volume, quantity, tone. **Pressured** speech, **poverty** of speech, latency of response, and dysarthria or dysphasia, which point to an organic cause.
+> **· MOOD AND AFFECT** — **MOOD is the patient's SUBJECTIVE report, ideally in their own words. AFFECT is your OBJECTIVE observation** — range (full, restricted, blunted, flat), reactivity, and congruence with stated mood and with content.
+> **· THOUGHT FORM** — how thinking is organised: **circumstantiality, tangentiality, flight of ideas, loosening of associations, thought blocking, neologisms, perseveration.**
+> **· THOUGHT CONTENT** — **delusions** (persecutory, grandiose, nihilistic, somatic, of reference, of control; **mood-congruent or incongruent**), overvalued ideas, obsessions, ruminations, and **suicidal or homicidal ideation, which must be actively asked about and documented.**
+> **· THOUGHT POSSESSION** — insertion, withdrawal, broadcasting.
+> **· PERCEPTION** — **hallucinations, specifying the modality.** **Auditory hallucinations in the second person ("you are worthless") or third person (voices discussing the patient) are more typical of primary psychiatric illness; VISUAL, olfactory and tactile hallucinations should raise an ORGANIC cause.** Also illusions, depersonalisation and derealisation.
+> **· COGNITION** — orientation, attention and concentration, memory; formal testing where indicated.
+> **· INSIGHT AND JUDGEMENT** — **not binary.** Describe: does the person recognise something is wrong, do they attribute it to illness, do they see a need for treatment, and can they weigh options? These can be present in one respect and absent in another.
+
+> [!danger] Collateral history is not optional, and neither is the physical examination
+> **Collateral from family, carers, the GP, the community team, previous records and ambulance staff frequently changes the assessment entirely** — particularly regarding timeline, baseline function, substance use and risk.
+> **Obtain it, with consent where possible — and in an emergency, obtaining information necessary to assess risk is generally justified without it.** Document what you did and why.
+> **EVERY psychiatric presentation requires observations, a physical examination and a targeted medical assessment.** See 0.6.
+> **Attributing new symptoms to a known psychiatric diagnosis without examining the patient is DIAGNOSTIC OVERSHADOWING**, and it is a documented cause of missed serious illness and premature death in people with mental illness. Cross-refer [[AU1]] 0.5.
+
+---
+
+<!-- ===== SOURCE: Examination.md ===== -->
 
 ## 1.23 Approach to Paediatric Examination
 
@@ -752,74 +1270,8 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 <!-- ===== SOURCE: F0-4_Resuscitation_Algorithms_and_Emergency_Procedures.md ===== -->
 *Moved here from `Emergency and Crit Care_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-## 0.1 The A–E Approach
-`CF-PAIR §1.1` **This block and Part 1 §1.1 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-**D:** A sequential assessment framework that treats life threats in the order they kill, and that is restarted from the top after every intervention and every deterioration.
-
-**A/P:** The ordering is physiological, not arbitrary — an obstructed airway kills in minutes, inadequate breathing in slightly longer, circulatory failure over longer again. Assessing in this order guarantees the fastest-killing problem is addressed first, and **restarting from A after each intervention** catches the deterioration your treatment caused.
-
-> [!tip] The sequence
-> **A — Airway:** patent, threatened or obstructed? Talking normally means patent. Stridor, gurgling, snoring or silence with effort mean it is not.
-> **B — Breathing:** rate, effort, saturation, air entry, percussion, trachea. Give oxygen.
-> **C — Circulation:** heart rate, blood pressure, capillary refill, JVP, peripheral temperature. IV access, fluids, bleeding control.
-> **D — Disability:** conscious level, pupils, **glucose**, focal deficit.
-> **E — Exposure:** expose fully, look at the back, temperature, rashes, wounds, drains, lines.
-
-> [!info] The F and G vary by context
-> The extension to **ABCDEFG** is not standardised. In paediatric teaching it usually adds **Fluids and Glucose**, captured by the mnemonic **"DEFG — Don't Ever Forget Glucose"**. Other sources use F for Family or Fluids and G for Glucose or Goals of care. `UNVERIFIED — confirm which expansion your curriculum and examiners use; do not assume the one you learned is universal.`
-
-> [!danger] Three rules that get broken
-> **Do not move past a letter until it is addressed.** A cannula is not more urgent than an obstructed airway, however uncomfortable the pause feels.
-> **Restart at A after every intervention and every change.** Deterioration after treatment is common and the framework only works if it loops.
-> **Call for help at the point you recognise the problem, not after you have finished assessing it.** Both can happen at once.
-
-**Ix:** Full vital signs with a manually counted respiratory rate (*why:* respiratory rate rises first and is the most predictive and most frequently estimated observation; *what:* rising trend across the chart). Bedside glucose (*why:* the D of the sequence, instantly reversible, and mimics every neurological catastrophe; *what:* hypoglycaemia). VBG with lactate (*why:* quantifies perfusion and ventilation faster than any other single test; *what:* acidosis, raised lactate, raised CO₂). ECG (*why:* arrhythmia and ischaemia as silent causes; *what:* rhythm, ischaemic change). Directed further investigation once the sequence identifies where the problem sits.
-
-### 0.1.1 Mx – Immediate
-Treat each abnormality as it is found, before moving on. Escalate while assessing.
-
-### 0.1.2 Mx – Definitive
-Directed at the cause identified. Cross-refer [[A1]] 0.1 The Deteriorating Patient.
-
-### 0.1.3 Mx – Chronic/long-term
-Documentation, structured handover with ISBAR, and review of whether the deterioration was preventable.
-
----
-
 <!-- ===== SOURCE: 04_Neurology.md ===== -->
 *Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-### Glasgow Coma Scale (GCS)
-`CF-PAIR §1.1` **This block and Part 1 §1.1 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-| Eyes | Verbal | Motor |
-|---|---|---|
-| 4 — spontaneously | 5 — oriented | 6 — obeys commands |
-| 3 — opens to voice | 4 — confusion | 5 — localises to pain |
-| 2 — opens to pain | 3 — inappropriate words | 4 — withdraws from pain |
-| 1 — no opening | 2 — sounds | 3 — abnormal flexion to pain |
-| | 1 — none | 2 — extends to pain |
-| | | 1 — none |
-
-> [!danger] If GCS <8, requires intubation (patient may not be able to secure their own airway). Minimum possible GCS is 3.
-
-> [!info] Gap-filled from CSV — AVPU scale, not covered in the source notes. A simpler, faster alternative to GCS used in rapid initial assessment (e.g. primary survey/triage) rather than detailed ongoing neurological monitoring: **A**lert, responds to **V**oice, responds to **P**ain, **U**nresponsive. AVPU is quicker to perform but far less granular than GCS — a patient scored "responds to Voice" on AVPU could correspond to a wide range of GCS scores, so AVPU is appropriate for rapid triage/primary survey but GCS is preferred for ongoing, more precise neurological monitoring once the patient is stabilised. A rough correspondence sometimes used: Alert ≈ GCS 15, Voice ≈ GCS <13, Pain ≈ GCS <8, Unresponsive ≈ GCS 3 — though this is only a rough guide, not a validated conversion.
-
-> [!info] Gap-filled from CSV ("Loss or altered conscious state," Medium yield) — the GCS/AVPU tools above score conscious state, but nothing covered the actual differential for *why* it's reduced. **Causes of an altered/reduced conscious state — mnemonic "AEIOU-TIPS":**
-> - **A**lcohol (intoxication or withdrawal)
-> - **E**pilepsy (post-ictal state) / **E**lectrolytes (hyponatraemia, hypercalcaemia, and others)
-> - **I**nsulin (hypo- or hyperglycaemia)
-> - **O**pioids/**O**verdose (any sedating drug or toxin)
-> - **U**raemia (and other metabolic causes — hepatic encephalopathy, hypothyroidism)
-> - **T**rauma / **T**emperature (hypo- or hyperthermia)
-> - **I**nfection (meningitis, encephalitis, sepsis-associated encephalopathy)
-> - **P**sychiatric (rarely a true cause of reduced GCS — consider once organic causes are reasonably excluded, not as a default explanation)
-> - **S**troke/**S**AH/**S**pace-occupying lesion (and other structural causes — raised ICP, hydrocephalus)
->
-> **Practical approach:** a bedside glucose and this differential should be run through systematically for any patient with reduced conscious state of unclear cause — hypoglycaemia specifically is rapidly reversible and must never be missed, which is precisely why capillary glucose is checked immediately in any collapsed or confused patient regardless of what else seems obvious. Also always consider the **specific reversal agents** available for two treatable causes: naloxone for suspected opioid toxicity, and IV thiamine before/with glucose in a patient with possible alcohol-related nutritional deficiency (to avoid precipitating Wernicke's encephalopathy — see [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) for the specific AU-verified thiamine dosing, not repeated here).
-
----
 
 ## Brain Lesion Localisation
 `CF-PAIR` **Pairs with `## 0.1 Localising the Lesion` below — the same task from the Corpus A and Corpus B sides. Both kept in full, not reconciled.**
@@ -889,274 +1341,17 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 <!-- ===== SOURCE: 03a_Anaesthetics_Primer.md ===== -->
 *Moved here from `Anaes_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-## 0.5 Pre-Operative Assessment
-`CF-PAIR §1.12` **This block and Part 1 §1.12 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!warning] FLAG 2026-09-01 — this file already defers to `Examination.md` in one place and duplicates it here
-> **`Anaes_merged.md:23` says *"See [[Examination]] Pre-Anaesthetic Assessment (Airway + Fitness for
-> Anaesthesia)"*** — and `Examination.md §1.12` carries that title. This section, and
-> `AN1 §0.1 Preoperative Assessment` and `§0.2 Airway Assessment and Anaesthetic Technique`, duplicate it.
-> **The file has made the deferral once and not the second time.** Flagged, nothing moved.
-
-> [!note] Gap-filled from CSV ("Pre operation assessment," Medium yield) — genuinely absent despite being fundamental to safe anaesthetic practice; the ASA classification and fasting guidance were already referenced elsewhere in this source but the assessment framework itself was never built.
-
-**D:** the systematic clinical evaluation of a patient before anaesthesia/surgery, aiming to identify factors that increase perioperative risk, optimise modifiable conditions where possible, and plan the anaesthetic approach accordingly.
-
-**History:**
-- **Presenting surgical condition** and planned procedure — informs anaesthetic technique, positioning, expected blood loss/fluid shifts, and duration.
-- **Past anaesthetic history** — previous anaesthetics and any complications (difficult intubation, PONV, awareness, prolonged recovery), family history of anaesthetic complications (specifically screening for malignant hyperthermia susceptibility — see General Anaesthesia above for the fuller detail on this emergency, not repeated here — and pseudocholinesterase deficiency, relevant to suxamethonium metabolism).
-- **Medical comorbidities** — cardiovascular, respiratory, renal, hepatic, and endocrine disease all carry specific perioperative implications; diabetes specifically has a comprehensive dedicated management pathway — see [[06_Metabolic_Medicine_and_Endocrinology]] Perioperative Diabetes Management for the full AU-verified detail (the ADS-ANZCA national guideline), not repeated here.
-- **Medications** — full medication reconciliation, since several classes need specific perioperative adjustment (anticoagulants, antiplatelets, diabetes medications, and others) — see General Anaesthesia above for the AU-verified DOAC/warfarin perioperative timing and bridging detail, not repeated here.
-- **Allergies** — drug allergies specifically, and any history of anaphylaxis under a previous anaesthetic (raising suspicion for a specific anaesthetic-related allergen, e.g. neuromuscular blocking agents, latex, or chlorhexidine).
-- **Fasting status** — see the "Sip Til Send" ANZCA PG07 (2024) guidance already established elsewhere in this source, not repeated here.
-- **Airway history** — previous difficult intubation, obstructive sleep apnoea, limited neck mobility, dental issues — directly informs airway management planning.
-- **Social history** — smoking (increases perioperative respiratory complication risk; cessation even shortly before surgery has some benefit), alcohol use (relevant to withdrawal risk and anaesthetic drug interactions), and functional capacity (a practical, low-cost way to estimate cardiovascular reserve — the ability to climb ≥2 flights of stairs or achieve ≥4 METs of exertion without symptoms is a widely used threshold suggesting adequate reserve for most non-cardiac surgery without further cardiac work-up).
-
-**Examination:** general examination with particular attention to the airway (see Airway Adjuncts above for the specific airway assessment features relevant to predicting a difficult airway, not repeated here), cardiovascular and respiratory systems, and any specific findings relevant to the planned procedure or identified comorbidities.
-
-> [!info] ASA Physical Status Classification — a widely used, simple system summarising overall perioperative risk, referenced throughout this source
-> **ASA I:** normal healthy patient | **ASA II:** mild systemic disease (e.g. well-controlled hypertension, smoker) | **ASA III:** severe systemic disease, not life-threatening (e.g. poorly controlled diabetes, stable angina) | **ASA IV:** severe systemic disease that is a constant threat to life (e.g. recent MI, severe heart failure) | **ASA V:** moribund, not expected to survive without the operation | **ASA VI:** declared brain-dead, organs being harvested. An "E" suffix denotes emergency surgery, which independently increases risk regardless of the underlying ASA class.
-
-**Ix:** investigations should be **targeted to the history/examination findings and the planned procedure, not ordered routinely/reflexively** — a genuinely important modern principle, since indiscriminate pre-operative testing in low-risk patients undergoing low-risk procedures doesn't improve outcomes and can generate false-positive findings that delay surgery unnecessarily. Common targeted investigations include:
-- **FBC** — if anaemia is suspected, significant blood loss is anticipated, or as a baseline before major surgery.
-- **U&Es** — if renal impairment is known/suspected, in patients on medications affecting electrolytes (diuretics, ACEI/ARB), or before major surgery with expected significant fluid shifts.
-- **Coagulation studies** — if a bleeding history is present, the patient is anticoagulated, or significant blood loss is anticipated.
-- **Group & hold/crossmatch** — see Group & Hold / Crossmatch below for the fuller detail, not repeated here.
-- **ECG** — for patients with known cardiac disease, significant cardiovascular risk factors, or as a baseline before major surgery, particularly in older patients.
-- **HbA1c/glucose** — see the diabetes screening detail in [[06_Metabolic_Medicine_and_Endocrinology]] Perioperative Diabetes Management, not repeated here.
-- **Pregnancy test** — for people of childbearing potential, given the implications for anaesthetic drug choice and timing.
-- **Further cardiac/respiratory work-up** (e.g. echocardiogram, spirometry, cardiology/respiratory referral) — reserved for patients with reduced functional capacity, significant symptoms, or high-risk surgery, rather than routine screening.
-
-**Optimisation:** the pre-operative assessment is also the opportunity to optimise modifiable risk factors before surgery where time allows — e.g. improving glycaemic control in poorly controlled diabetes (see the ADS-ANZCA guideline's specific HbA1c threshold and delay-vs-proceed framework in [[06_Metabolic_Medicine_and_Endocrinology]], not repeated here), treating active infection, optimising heart failure or COPD control, correcting significant anaemia, and smoking cessation advice — all aimed at reducing perioperative risk rather than simply documenting it.
-
-**Consent:** discussing the procedure, anaesthetic technique, and material risks with the patient is a core part of this process — see [[Clinical-Process-EBM-Consent-Capacity]] for the general principles of informed consent, not repeated here.
-
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
->
-> `0.6 Group & Hold / Crossmatch`
->
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
-
 <!-- ===== SOURCE: AN1_Perioperative_Care.md ===== -->
 *Moved here from `Anaes_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.1 Preoperative Assessment
-`CF-PAIR §1.12` **This block and Part 1 §1.12 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!tip] The purpose is four things, and knowing them shapes the assessment
-> **1. Identify and OPTIMISE modifiable risk** before the operation.
-> **2. Plan the anaesthetic** — airway, technique, monitoring.
-> **3. Inform CONSENT** with a realistic discussion of individual risk.
-> **4. Plan the POSTOPERATIVE pathway** — level of care, analgesia, disposition.
-> **The assessment that changes nothing was not worth doing** — which is the principle governing investigation below.
-
-> [!info] Risk stratification tools
-> **· ASA physical status classification (I–V, with E for emergency)** — a global descriptor of systemic disease, widely used and simple. `UNVERIFIED — the class definitions.`
-> **· FUNCTIONAL CAPACITY in metabolic equivalents (METs).** **The practical question: "can you climb two flights of stairs without stopping?"** A patient who can generally has adequate reserve; one who cannot, or whose activity is limited by symptoms rather than by joints, warrants closer assessment. `UNVERIFIED — the MET threshold.`
-> **· Revised Cardiac Risk Index (RCRI)** — combines ischaemic heart disease, heart failure, cerebrovascular disease, diabetes on insulin, renal impairment and high-risk surgery. `UNVERIFIED — components and interpretation.`
-> **· FRAILTY — a better predictor of postoperative outcome than chronological age**, and increasingly used to inform whether to operate at all. Cross-refer [[GER1]] 0.2.
-
-> [!danger] Do not stop dual antiplatelet therapy after a recent coronary stent
-> **Premature cessation of dual antiplatelet therapy after coronary stenting causes STENT THROMBOSIS, which carries very high mortality.**
-> **There is a mandatory minimum duration of DAPT after stenting, which differs by stent type and indication, and elective surgery should be DEFERRED until it is complete.**
-> **If surgery cannot wait, the decision requires explicit discussion with cardiology and the surgical and anaesthetic teams** — it is never a decision for a junior doctor or a pre-admission clinic to make unilaterally.
-> **Similarly, elective surgery is deferred for a defined period after myocardial infarction.** `UNVERIFIED — the DAPT durations by stent type, and the interval after infarction.`
-
-> [!warning] Preoperative anaemia should be found and treated weeks in advance
-> **Anaemia before elective surgery is common, is an INDEPENDENT risk factor for morbidity, mortality and transfusion, and is frequently ignored until the day.**
-> **Patient Blood Management principles: identify anaemia EARLY (weeks before), determine the cause, and treat it — most often with INTRAVENOUS IRON for iron deficiency, which works within weeks.**
-> **Australia has a National Blood Authority Patient Blood Management framework**, and this is one of the clearest examples of a preoperative intervention that measurably improves outcomes.
-> **The practical failure: the haemoglobin is checked on admission the day before surgery, when it is too late to do anything but transfuse.** Cross-refer [[A9]] and [[J1]]. `UNVERIFIED — the PBM thresholds and iron regimens.`
-
-> [!tip] The other optimisable factors
-> **· SMOKING — cessation reduces respiratory and wound complications, and the benefit increases with the duration of abstinence. Even short-term cessation before surgery helps, and the preoperative period is a highly effective teachable moment** — patients are more likely to succeed at quitting around surgery than at almost any other time. `UNVERIFIED — the recommended cessation interval.`
-> **· ALCOHOL — reduction reduces complications, and withdrawal must be anticipated in dependent patients.**
-> **· DIABETES — glycaemic optimisation, and identification of unrecognised diabetes.**
-> **· OBSTRUCTIVE SLEEP APNOEA — screen with STOP-BANG; it predicts postoperative respiratory complications and changes monitoring.** Cross-refer [[RESP-X]] 0.5.
-> **· Nutrition, exercise ("prehabilitation"), and management of heart failure, COPD and asthma.**
-
-> [!danger] Do not order routine preoperative investigations in well patients
-> **Routine blood tests, ECGs and chest radiographs in asymptomatic patients undergoing low-risk surgery do not improve outcomes.** They generate incidental abnormalities that cause delay, further testing, and anxiety without benefit.
-> **Investigations should be targeted by the PATIENT (comorbidity, medications, age) and the PROCEDURE (magnitude, expected blood loss).**
-> **What is usually justified: FBC where anaemia or bleeding is plausible or blood loss expected · UEC in renal disease, diuretics, ACE inhibitors or major surgery · glucose or HbA1c in diabetes · ECG in cardiac disease or above an age threshold for major surgery · group and hold or crossmatch where transfusion is possible · pregnancy test where relevant.**
-> `UNVERIFIED — the specific indications and age thresholds.`
-
-**Ix:** As above — **targeted rather than routine.** **Group and hold or crossmatch** (*why:* preparation for transfusion, and antibody screening takes time; *what:* group and antibodies). **Echocardiography only where it will change management** — new or worsening heart failure, an undiagnosed murmur with symptoms, or suspected severe valvular disease (*why:* **severe aortic stenosis substantially changes anaesthetic conduct and risk**, whereas an echo that confirms known stable disease changes nothing; *what:* valve disease, ventricular function). Respiratory function tests in significant lung disease undergoing thoracic or major surgery (*why:* predicts postoperative respiratory failure; *what:* FEV1, DLCO). **Cervical spine imaging in rheumatoid arthritis** (*why:* atlantoaxial subluxation risks cord injury on intubation; *what:* instability — cross-refer [[L2]] 0.2).
-
----
-
-## 0.2 Airway Assessment and Anaesthetic Technique
-`CF-PAIR §1.12` **This block and Part 1 §1.12 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!warning] Predictors of a difficult airway
-> **· Previous difficult intubation — the single most useful predictor, and the reason to ASK and to CHECK old anaesthetic records.**
-> **· Mallampati class, limited MOUTH OPENING, short THYROMENTAL distance, reduced NECK EXTENSION, prominent incisors, receding mandible.**
-> **· Obesity, particularly with a large neck circumference · obstructive sleep apnoea · pregnancy · beard.**
-> **· Pathology: head and neck cancer, previous neck RADIOTHERAPY or surgery, burns contractures, airway tumours, and infection.**
-> **· RHEUMATOID ARTHRITIS — atlantoaxial instability.** Cross-refer [[L2]] 0.2.
-> **· ANKYLOSING SPONDYLITIS — a fixed flexed cervical spine, which makes both intubation and neuraxial access difficult.** Cross-refer [[L2]] 0.3.
-> **DOCUMENT a difficult airway prominently in the record AND give the patient written documentation to carry** — a difficult airway discovered a second time, unwarned, is a preventable catastrophe.
-
-> [!tip] Regional anaesthesia and analgesia — the advantages worth knowing
-> **Reduced opioid requirement, superior analgesia, less postoperative nausea and vomiting, earlier mobilisation, and — importantly in older patients — LESS DELIRIUM.**
-> **The fascia iliaca or femoral nerve block in hip fracture is a specific, high-value example** that reduces opioid use and delirium and is under-used. Cross-refer [[L7]] 0.4.
-
-> [!danger] New back pain with neurological deficit after neuraxial anaesthesia is an emergency
-> **EPIDURAL HAEMATOMA or ABSCESS causes permanent paraplegia if not decompressed quickly.**
-> **The warning features: new or worsening back pain · a motor or sensory block that is DENSER, HIGHER or LASTING LONGER than expected · a block that recurs after wearing off · new bladder dysfunction · and, with abscess, fever and raised inflammatory markers.**
-> **A patient whose epidural block should have worn off and has not, or who develops new leg weakness, needs URGENT MRI and urgent neurosurgical discussion — not observation overnight.**
-> **This is why anticoagulant timing around neuraxial procedures is strictly protocolised**, and why those intervals must be checked rather than estimated. Cross-refer [[A9]] 0.4 and [[L4]] 0.2. `UNVERIFIED — all anticoagulant timing intervals for neuraxial procedures.`
-
-> [!warning] Post-dural puncture headache
-> **A POSTURAL headache — markedly worse on sitting or standing, relieved by lying flat** — following dural puncture, typically appearing within a day or two. Often frontal or occipital, sometimes with neck stiffness, photophobia, tinnitus or diplopia.
-> **The postural nature is the diagnostic feature**, and it distinguishes it from other postoperative headaches.
-> **Managed conservatively at first, with an EPIDURAL BLOOD PATCH for persistent or severe symptoms, which is often dramatically effective.** Cross-refer [[D1]] 0.4.
-
-> [!danger] Local anaesthetic systemic toxicity — know that lipid emulsion exists and where it is
-> **Occurs after inadvertent intravascular injection or excessive dose, particularly with large-volume blocks.**
-> **The progression: perioral tingling, TINNITUS, a METALLIC TASTE, visual disturbance, agitation and confusion → SEIZURES → cardiovascular collapse and arrhythmia refractory to standard resuscitation.**
-> **Management: STOP the injection · call for help · A–B–C with 100% oxygen · control seizures · and give INTRAVENOUS LIPID EMULSION ("Intralipid"), which is the specific antidote.**
-> **Prolonged resuscitation may be required, and recovery is possible after extended arrest — do not stop early.**
-> **Every area where regional blocks are performed should have a LAST kit and a copy of the protocol. Know where yours is.** `UNVERIFIED — the lipid emulsion regimen; follow the ANZCA/ASRA protocol on the wall.`
-
-> [!tip] The anaesthetic drug problems worth recognising
-> **· MALIGNANT HYPERTHERMIA — triggered by volatile agents and suxamethonium. A rising END-TIDAL CO₂ is the earliest sign, before temperature rises. Dantrolene is the antidote, and the family requires screening.** Cross-refer [[A6]] 0.3.
-> **· SUXAMETHONIUM — causes a transient rise in potassium, which becomes DANGEROUS HYPERKALAEMIA in burns beyond about 24–48 hours, denervation injury, spinal cord injury, and prolonged immobility, through upregulation of acetylcholine receptors.** **Also: suxamethonium apnoea in pseudocholinesterase deficiency — prolonged paralysis requiring continued ventilation, which is inherited and should be documented and communicated to the family.**
-> **· Residual neuromuscular blockade — a cause of postoperative respiratory compromise and aspiration**, and a reason for careful monitoring in recovery.
-> **· AWARENESS under anaesthesia — rare, deeply distressing, and requires acknowledgement, explanation and psychological follow-up rather than dismissal.**
-
----
 
 <!-- ===== SOURCE: 09_08_Dermatology_-_Miscellaneous.md ===== -->
 *Moved here from `Derm_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-## Skin lesion morphology — reference terms
-`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!info] Flat, non-palpable changes in skin colour
-> - **Macule:** flat, non-palpable change in skin colour, <0.5cm diameter. Freckles are pigmented macules.
-> - **Patch:** flat, non-palpable change in skin colour, >0.5cm diameter.
-
-> [!info] Elevation due to fluid in a cavity
-> - **Vesicle/Blister:** fluid within the upper layers of skin, <0.5cm diameter.
-> - **Bulla:** large, fluid-filled lesion below the epidermis, >1.0cm diameter.
-> - **Pustule:** collection of pus in the subcutis, >0.5cm diameter.
-
-> [!info] Elevation due to solid masses
-> - **Papule:** raised area, <0.5cm diameter.
-> - **Plaque:** raised area, >2cm diameter.
-> - **Nodule:** mass/lump, >0.5cm diameter.
-> - **Wheal:** dermal oedema.
-
-> [!info] Loss of skin
-> - **Erosion:** partial epidermal loss, heals without scars.
-> - **Ulcer:** full-thickness skin loss.
-> - **Fissure:** linear crack.
-> - **Atrophy:** thinning of the epidermis.
-
-> [!info] Vascular changes
-> - **Telangiectasia:** easily visible superficial blood vessels.
-> - **Spider naevus:** single telangiectatic arteriole in the skin.
-> - **Purpura:** rash caused by blood in the skin, often multiple petechiae.
-> - **Petechiae:** micro-haemorrhage, 1–2mm diameter.
-
-*(Chart concept derived from the Oxford Handbook of Clinical Specialties.)*
-
----
-
 <!-- ===== SOURCE: G1_Acute_Rash_and_Erythema.md ===== -->
 *Moved here from `Derm_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-## 0.1 Describing a Rash
-`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!tip] The vocabulary — because an accurate description gets you a diagnosis over the phone
-> **PRIMARY LESIONS:**
-> **· MACULE — flat, small, colour change only. PATCH — flat, larger.**
-> **· PAPULE — raised, small. PLAQUE — raised, larger, with a flat top. NODULE — raised and DEEPER.**
-> **· VESICLE — fluid-filled, small. BULLA — fluid-filled, larger. PUSTULE — pus-filled.**
-> **· WHEAL — a transient, oedematous, itchy swelling that moves and resolves within hours (the defining feature of urticaria).**
-> **· PURPURA — NON-BLANCHING. PETECHIAE are small; ECCHYMOSES are large.**
-> **SECONDARY CHANGES: scale · crust · excoriation · LICHENIFICATION (thickened skin with accentuated markings, from chronic rubbing) · EROSION (loss of epidermis only — heals WITHOUT scarring) · ULCER (extends into dermis — heals WITH a scar) · fissure · atrophy.**
-> **CONFIGURATION: annular · TARGETOID · linear · GROUPED/herpetiform · reticulate (net-like) · serpiginous · DERMATOMAL.**
-> **DISTRIBUTION: flexural · extensor · PHOTODISTRIBUTED (face, V of neck, dorsal hands, sparing under the chin and behind the ears — the shadowed sites are the clue) · acral · truncal · symmetrical or asymmetrical.**
-
-> [!danger] Two things to do with every rash
-> **1. PRESS ON IT. BLANCHING VERSUS NON-BLANCHING is the single most important bedside test in dermatology**, and it separates a benign exanthem from purpura requiring urgent assessment. Use a glass. Cross-refer [[G3]].
-> **2. EXAMINE THE WHOLE SKIN, UNDRESSED — plus the MUCOSAE (mouth, eyes, genitals), the NAILS, the SCALP, and the PALMS AND SOLES.**
-> **Mucosal involvement changes the diagnosis completely** — it is what distinguishes a straightforward drug rash from Stevens-Johnson syndrome. **A rash examined through a gap in a gown is a rash half seen.**
-
-> [!danger] Erythema is under-recognised in darker skin — and it causes delayed diagnosis
-> **Erythema in richly pigmented skin may appear VIOLACEOUS, BROWN, GREY or simply darker rather than red**, and the classic textbook descriptions ("bright red", "salmon pink") are written from white skin.
-> **The consequences are documented and serious: DELAYED DIAGNOSIS OF CELLULITIS · under-recognition of erythroderma · missed CYANOSIS and missed pallor · and jaundice detected late.**
-> **What to do instead: PALPATE — warmth, induration, tenderness and swelling do not depend on colour · COMPARE with the patient's own unaffected skin, ideally the contralateral side · use good natural light · examine the mucosae, conjunctivae, palms and soles where colour change is easier to appreciate · and ASK the patient what has changed, since they know their own skin.**
-> **Also: post-inflammatory HYPER- and HYPOpigmentation are more prominent and more persistent in darker skin, and are a significant cause of distress that should be acknowledged rather than dismissed as cosmetic.**
-> **Photograph lesions with consent** — for monitoring, for referral, and because dermatology advice by phone is far better with an image.
-
----
-
 <!-- ===== SOURCE: G5_Lumps__Ulcers_and_Nails.md ===== -->
 *Moved here from `Derm_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.1 Assessing a Pigmented Lesion
-`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!danger] The single most important feature is CHANGE
-> **Australia has the highest incidence of melanoma in the world, and melanoma is a leading cause of cancer death in young Australian adults** — which sets the threshold for how seriously a changing lesion should be taken.
-> **ABCDE: ASYMMETRY · BORDER irregularity · COLOUR variation within the lesion · DIAMETER (conventionally above about 6 mm) · EVOLVING.**
-> **"E" IS THE MOST IMPORTANT. A lesion that is CHANGING — in size, shape, colour, elevation, or by bleeding, itching or ulcerating — warrants assessment regardless of how it scores on the other letters.**
-> **A patient who says "this one has changed" is providing better information than any single morphological feature.**
-
-> [!tip] The ugly duckling sign — often more useful than ABCDE
-> **Most people's naevi RESEMBLE EACH OTHER — they share a family likeness.**
-> **THE UGLY DUCKLING is the lesion that looks DIFFERENT from the patient's others.**
-> **This works because it uses the patient as their own control, and it detects the lesion that ABCDE misses in someone with many atypical naevi (where every lesion scores badly on ABCDE) or someone with very few (where a small early melanoma may not yet meet the criteria).**
-> **Stand back and look at the whole back at once, rather than examining lesions one at a time through a lens.**
-
-> [!warning] The history that stratifies risk
-> **· PERSONAL history of melanoma or keratinocyte cancer — the strongest single risk factor for another.**
-> **· FAMILY history of melanoma, particularly in a first-degree relative or at a young age.**
-> **· SKIN TYPE — fair skin, red or blond hair, blue eyes, freckling, poor tanning.**
-> **· SUN EXPOSURE HISTORY, and specifically the number of episodes of BLISTERING SUNBURN, particularly in CHILDHOOD.** Intermittent intense exposure relates to melanoma; cumulative chronic exposure relates to SCC.
-> **· Number of naevi, and the presence of ATYPICAL naevi.**
-> **· IMMUNOSUPPRESSION — see 0.3, where the transplant population is discussed. This dramatically changes risk.**
-> **· Previous solaria use, outdoor occupation, and prior phototherapy.**
-
-> [!danger] Examine the whole skin, and if in doubt, excise
-> **A "check this mole" consultation should include a FULL SKIN EXAMINATION — including the SCALP (part the hair), BEHIND THE EARS, BETWEEN THE TOES, the SOLES, the NAILS, and the genital and perianal skin where appropriate and consented.**
-> **Melanomas occur at sites that never see the sun, and acral and subungual melanomas are diagnosed late precisely because nobody looks.**
-> **AND THE OPERATING RULE: IF YOU ARE NOT SURE, EXCISE IT OR REFER IT. DO NOT "WATCH" A SUSPICIOUS LESION.**
-> **"Review in three months" applied to a lesion that concerns you is how thin, curable melanomas become thick ones — and the patient frequently does not return.**
-> **Serial photography has a role for monitoring multiple naevi in high-risk patients under specialist follow-up; it is not a substitute for excising a lesion you are worried about.**
-
----
-
-## 0.5 Nails
-`CF-PAIR §1.15` **This block and Part 1 §1.15 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!tip] Nail signs of systemic disease
-> **· CLUBBING — cross-refer [[A4]] 0.1.**
-> **· KOILONYCHIA (spoon-shaped) — IRON DEFICIENCY.**
-> **· BEAU LINES — transverse grooves across all nails, caused by temporary arrest of nail growth during a severe systemic illness.** **They are useful because they DATE THE INSULT: knowing that nails grow at a roughly predictable rate, the distance from the cuticle indicates how long ago the illness occurred.**
-> **· LEUKONYCHIA (white nails) — hypoalbuminaemia, from liver disease or nephrotic syndrome.**
-> **· TERRY NAILS (proximal white nail with a distal band) — cirrhosis. HALF-AND-HALF nails — chronic kidney disease.**
-> **· SPLINTER HAEMORRHAGES — TRAUMA is by far the commonest cause, but they are a recognised sign of INFECTIVE ENDOCARDITIS and vasculitis.** Cross-refer [[B5]] 0.1.
-> **· PERIUNGUAL TELANGIECTASIA AND ABNORMAL NAILFOLD CAPILLARIES — a genuinely valuable bedside sign of CONNECTIVE TISSUE DISEASE, particularly systemic sclerosis and dermatomyositis.** **Look at the nailfolds with a dermatoscope or even an ophthalmoscope in anyone with Raynaud phenomenon — dilated, dropped-out capillaries indicate a secondary rather than primary Raynaud and change the workup entirely.** Cross-refer [[L2]] 0.4 and [[L3]] 0.6.
-> **· Nail PITTING, ONYCHOLYSIS and oil-drop change — PSORIASIS.** Cross-refer [[G4]] 0.2.
-> **· Yellow nail syndrome — with lymphoedema and pleural effusions.**
-
-> [!danger] Confirm onychomycosis before treating it
-> **A substantial proportion of dystrophic nails that look fungal are NOT — the differential includes PSORIASIS, TRAUMA (particularly the great toenails in runners and in people with foot deformity), lichen planus, and — critically — SUBUNGUAL MELANOMA.**
-> **SYSTEMIC ANTIFUNGALS ARE NOT TRIVIAL: they require months of treatment, carry HEPATOTOXICITY, and have significant DRUG INTERACTIONS (terbinafine and the azoles).**
-> **TAKE NAIL CLIPPINGS AND SUBUNGUAL DEBRIS FOR MICROSCOPY AND CULTURE BEFORE PRESCRIBING** — and take an adequate sample from the affected proximal part, not just a snip of the distal edge.
-> **Treating a psoriatic or traumatic nail with months of terbinafine achieves nothing and risks harm.**
-> **PARONYCHIA: ACUTE — usually staphylococcal, painful, red, may need incision and drainage. CHRONIC — associated with WET WORK and irritant exposure, with loss of the cuticle and secondary candida; the treatment is AVOIDING MOISTURE AND IRRITANTS plus a topical steroid, and antifungals alone do not work.**
-
----
 
 <!-- ===== SOURCE: O7_Breast_Disease.md ===== -->
 *Moved here from `OBGYN_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
@@ -1233,104 +1428,8 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 <!-- ===== SOURCE: F1_Ear.md ===== -->
 *Moved here from `ENT_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-## 0.1 Examining the Ear and Assessing Hearing
-`CF-PAIR §1.19` **This block and Part 1 §1.19 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!tip] Otoscopy — and the part of the drum everyone forgets
-> **· PULL THE PINNA UP AND BACK IN ADULTS, DOWN AND BACK IN INFANTS AND YOUNG CHILDREN** — the infant canal runs in a different direction, and pulling the wrong way obscures the view.
-> **· Use the LARGEST speculum that comfortably fits (it gives more light and a wider view), hold the otoscope like a pen, and rest your hand against the patient's head so that a sudden movement moves the scope with them.**
-> **· EXAMINE THE UNAFFECTED EAR FIRST** — it establishes what normal looks like in that patient and it is less painful.
-> **· Be systematic: the pinna and post-auricular area · the CANAL (wax, debris, oedema, discharge, granulation) · then the DRUM — colour, translucency, the light reflex, position (bulging or retracted), mobility, perforation, and any fluid or bubbles behind it.**
-> **AND LOOK AT THE ATTIC — THE PARS FLACCIDA — EVERY TIME.**
-> **The pars flaccida sits above the lateral process of the malleus, it is small, it is easy to skip, and it is WHERE CHOLESTEATOMA HIDES.** **A retraction pocket or crust in the attic is the finding that matters, and it is missed by clinicians who look only at the pars tensa.** See 0.3.
-
-> [!danger] Tuning fork tests — and the false negative Rinne
-> **Use a 512 Hz fork.**
-> **RINNE — compare air conduction (beside the ear) with bone conduction (on the mastoid):**
-> **· AC > BC ("Rinne positive") = NORMAL or SENSORINEURAL loss.**
-> **· BC > AC ("Rinne negative") = CONDUCTIVE loss in that ear.**
-> **WEBER — fork on the vertex or forehead, ask where the sound is heard:**
-> **· Lateralises TOWARDS a CONDUCTIVE loss.**
-> **· Lateralises AWAY FROM a SENSORINEURAL loss.**
-> **THE TRAP — THE FALSE NEGATIVE RINNE: in SEVERE UNILATERAL SENSORINEURAL loss, the bone-conducted sound crosses the skull and is heard by the OPPOSITE, normal cochlea — so the test appears to show BC > AC, mimicking a conductive loss.**
-> **THE WEBER RESOLVES IT: in a true conductive loss the Weber lateralises TO the affected ear; in a dead ear with a false negative Rinne it lateralises AWAY from it.**
-> **Always do both tests together, and interpret them together.** **This matters most in sudden hearing loss — see 0.5.**
-
-> [!tip] The other assessments, and how to talk to a hearing-impaired patient
-> **· WHISPERED VOICE TEST — a reasonable bedside screen: mask the other ear, stand behind the patient at arm's length, and whisper a combination of numbers and letters after a full exhalation.**
-> **· PURE TONE AUDIOMETRY with air and bone conduction — the formal test, distinguishing conductive from sensorineural and quantifying the loss.**
-> **· TYMPANOMETRY — measures middle ear compliance. A FLAT (type B) trace indicates middle ear fluid or a perforation; a negative-pressure (type C) trace indicates Eustachian tube dysfunction.** `UNVERIFIED — the classification and normal values.`
-> **· Always also examine the NOSE, THROAT, NECK for lymphadenopathy, and the CRANIAL NERVES — particularly the facial nerve.**
-> **COMMUNICATING WITH A HEARING-IMPAIRED PATIENT — practical and consistently done badly:**
-> **· FACE THEM, at their level, with your face in good light so they can lip-read. Do not talk while looking at the notes or the screen, and do not talk from behind or while wearing a mask if it can be avoided.**
-> **· SPEAK CLEARLY AND SLIGHTLY MORE SLOWLY — do NOT SHOUT, which distorts speech and looks aggressive.**
-> **· REDUCE BACKGROUND NOISE — turn off the television, close the door, move away from the nurses' station.**
-> **· CHECK THE HEARING AID IS IN, TURNED ON, AND HAS A WORKING BATTERY.** **Hearing aids left in the locker are a routine and preventable cause of "confusion" in hospitalised older people, and they contribute directly to delirium.** Cross-refer [[D2]] 0.2.
-> **· WRITE DOWN key information, and confirm understanding.**
-
----
-
 <!-- ===== SOURCE: D5_Dizziness__Vertigo_and_Gait.md ===== -->
 *Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.2 Acute Vestibular Syndrome and the HINTS Examination
-`CF-PAIR §1.21` **This block and Part 1 §1.21 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-**D:** Acute-onset **continuous** vertigo lasting more than 24 hours, with nausea and vomiting, nystagmus, head-motion intolerance and gait unsteadiness.
-
-**A/P:** The differential is essentially two conditions with opposite implications: **vestibular neuritis** (benign, self-limiting, from inflammation of the vestibular nerve, often post-viral) and **posterior circulation stroke** — cerebellar or brainstem infarction. **A meaningful proportion of patients presenting with isolated acute vertigo have a stroke**, and they are the group most likely to be discharged home.
-
-> [!danger] HINTS is more sensitive than early MRI for posterior circulation stroke
-> **Early diffusion-weighted MRI has a false negative rate in the first 24–48 hours for small posterior fossa infarcts.** A properly performed HINTS examination by a trained examiner outperforms it.
-> **This is the single most important fact in this file**, because it inverts the instinct to reassure on the basis of a negative scan.
-
-> [!info] HINTS — the three components
-> **Only valid in a patient with CONTINUOUS, ONGOING vertigo and nystagmus at the time of examination.** It is **not** applicable to episodic vertigo, and it is **not** applicable to a currently asymptomatic patient — using it there produces dangerously misleading results.
->
-> **1. Head Impulse test** — rapid small-amplitude head turn while the patient fixates on your nose.
-> **· ABNORMAL (a corrective catch-up saccade) = PERIPHERAL** — the vestibulo-ocular reflex is broken on that side.
-> **· NORMAL (eyes stay locked on target) = CENTRAL.** This is counterintuitive: **a normal test is the worrying one.**
->
-> **2. Nystagmus** —
-> **· Unidirectional, horizontal (with a torsional component), fast phase always in the same direction = PERIPHERAL.**
-> **· Direction-changing on gaze to either side, or PURELY VERTICAL, or purely torsional = CENTRAL.**
->
-> **3. Test of Skew** — alternate cover test.
-> **· Any vertical corrective movement (skew deviation) = CENTRAL.**
->
-> **The mnemonic for the central pattern is "INFARCT": Impulse Normal, Fast-phase Alternating, Refixation on Cover Test.**
-> **Any ONE central finding makes it central.** All three must be peripheral to call it peripheral.
-
-> [!warning] HINTS-plus, and why hearing loss does not mean peripheral
-> Adding **new unilateral hearing loss** to the examination improves sensitivity.
-> **New hearing loss with acute vertigo is NOT reassuring** — an **anterior inferior cerebellar artery (AICA) infarct supplies the labyrinth as well as the brainstem and cerebellum, so it can cause hearing loss with vertigo.** The historical teaching that hearing loss localises to the ear is not safe in this setting.
-
-> [!danger] Other features that make it central
-> **· Inability to stand or walk unaided.** **A patient with acute vertigo who cannot walk without falling has a central lesion until proven otherwise** — patients with vestibular neuritis veer toward the affected side but can generally walk.
-> **· Severe headache or neck pain** — consider **vertebral artery dissection**, especially in a younger patient.
-> **· Any other brainstem or cerebellar sign** — diplopia, dysarthria, dysphagia, facial numbness, limb ataxia, Horner syndrome, hemisensory loss.
-> **· Sudden onset**, vascular risk factors, or age.
-> **· Deterioration over hours** — cerebellar stroke swells and compresses the brainstem. Cross-refer [[D3]] 0.2.
-
-> [!tip] Vestibular neuritis — treat, but do not over-treat
-> Vestibular suppressants (prochlorperazine, promethazine, benzodiazepines) relieve acute symptoms.
-> **Limit them to the first few days.** **Prolonged use PREVENTS central vestibular compensation and produces a patient who remains dizzy for months.** This is a common and avoidable iatrogenic problem.
-> **Early vestibular rehabilitation — movement rather than rest — accelerates compensation**, and telling the patient to lie still in a dark room is the wrong advice beyond the first day or two. `UNVERIFIED — the recommended duration limit for suppressants, and the evidence for corticosteroids, which is contested.`
-
-**S/Smx:** Continuous vertigo, nausea and vomiting, nystagmus, unsteadiness, and — where central — additional neurological signs.
-
-**Ix:** **HINTS examination in the patient with ongoing nystagmus** (*why:* more sensitive than early MRI, immediate, and free; *what:* the INFARCT pattern versus a peripheral pattern). **Gait assessment — can the patient stand and walk unaided?** (*why:* inability to walk is a strong central indicator and takes seconds to test; *what:* truncal ataxia, falling). **MRI brain with diffusion, including posterior fossa** where central features are present or suspicion persists (*why:* CT is very poor for the posterior fossa; *what:* infarct — noting the false negative rate in the first 48 hours, so **a negative early MRI in a patient with a central HINTS pattern does not exclude stroke and should be repeated**). CT angiography of the vertebral and basilar arteries where dissection or vertebrobasilar disease is suspected (*why:* dissection is a leading cause of posterior circulation stroke in the young; *what:* dissection, stenosis). Audiometry where hearing loss (*why:* characterises the loss and distinguishes labyrinthine from retrocochlear; *what:* pattern and side). ECG and cardiac assessment (*why:* embolic source, and arrhythmia as an alternative cause of "dizziness"; *what:* AF, arrhythmia). Postural blood pressure (*why:* excludes orthostatic hypotension; *what:* postural drop).
-
-### 0.2.1 Mx – Immediate
-**HINTS and gait assessment.** Antiemetics and vestibular suppressants short-term. **Urgent imaging and stroke pathway if any central feature.** Admit and observe if the patient cannot mobilise safely.
-
-### 0.2.2 Mx – Definitive
-Stroke management per [[D3]], or supportive care with early vestibular rehabilitation for neuritis.
-
-### 0.2.3 Mx – Chronic/long-term
-**Vestibular rehabilitation** for persistent symptoms, which is effective and under-referred. Secondary prevention after stroke. Driving advice.
-
----
 
 <!-- ===== SOURCE: 11_07a_Ortho_-_Dermatomes_and_Myotomes_Reference.md ===== -->
 *Moved here from `MSK_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
@@ -1428,33 +1527,6 @@ Stroke management per [[D3]], or supportive care with early vestibular rehabilit
 
 <!-- ===== SOURCE: N1_Mental_State_Examination_and_Risk.md ===== -->
 *Moved here from `Psychiatry_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.1 Psychiatric Assessment and the Mental State Examination
-`CF-PAIR §1.22` **This block and Part 1 §1.22 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
-
-> [!tip] The MSE is an EXAMINATION, not a history
-> **It describes what you observe and elicit in the room, at this moment** — in the same way a cardiovascular examination describes what you find on this occasion.
-> **What the patient reports about last week belongs in the history. What they say and do now belongs in the MSE.**
-> **Write it descriptively, so another clinician could picture the encounter** — "sat with head lowered, made brief eye contact when addressed, spoke in short sentences with long pauses" tells the reader more than "flat affect".
-
-> [!info] The components
-> **· APPEARANCE AND BEHAVIOUR** — grooming, dress, nutritional state, psychomotor activity (retardation or agitation), eye contact, rapport, cooperation, and **abnormal movements: extrapyramidal side effects, tardive dyskinesia, tremor, catatonic features.**
-> **· SPEECH** — rate, rhythm, volume, quantity, tone. **Pressured** speech, **poverty** of speech, latency of response, and dysarthria or dysphasia, which point to an organic cause.
-> **· MOOD AND AFFECT** — **MOOD is the patient's SUBJECTIVE report, ideally in their own words. AFFECT is your OBJECTIVE observation** — range (full, restricted, blunted, flat), reactivity, and congruence with stated mood and with content.
-> **· THOUGHT FORM** — how thinking is organised: **circumstantiality, tangentiality, flight of ideas, loosening of associations, thought blocking, neologisms, perseveration.**
-> **· THOUGHT CONTENT** — **delusions** (persecutory, grandiose, nihilistic, somatic, of reference, of control; **mood-congruent or incongruent**), overvalued ideas, obsessions, ruminations, and **suicidal or homicidal ideation, which must be actively asked about and documented.**
-> **· THOUGHT POSSESSION** — insertion, withdrawal, broadcasting.
-> **· PERCEPTION** — **hallucinations, specifying the modality.** **Auditory hallucinations in the second person ("you are worthless") or third person (voices discussing the patient) are more typical of primary psychiatric illness; VISUAL, olfactory and tactile hallucinations should raise an ORGANIC cause.** Also illusions, depersonalisation and derealisation.
-> **· COGNITION** — orientation, attention and concentration, memory; formal testing where indicated.
-> **· INSIGHT AND JUDGEMENT** — **not binary.** Describe: does the person recognise something is wrong, do they attribute it to illness, do they see a need for treatment, and can they weigh options? These can be present in one respect and absent in another.
-
-> [!danger] Collateral history is not optional, and neither is the physical examination
-> **Collateral from family, carers, the GP, the community team, previous records and ambulance staff frequently changes the assessment entirely** — particularly regarding timeline, baseline function, substance use and risk.
-> **Obtain it, with consent where possible — and in an emergency, obtaining information necessary to assess risk is generally justified without it.** Document what you did and why.
-> **EVERY psychiatric presentation requires observations, a physical examination and a targeted medical assessment.** See 0.6.
-> **Attributing new symptoms to a known psychiatric diagnosis without examining the patient is DIAGNOSTIC OVERSHADOWING**, and it is a documented cause of missed serious illness and premature death in people with mental illness. Cross-refer [[AU1]] 0.5.
-
----
 
 <!-- ===== SOURCE: M1_The_Seriously_Unwell_Child.md ===== -->
 *Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
