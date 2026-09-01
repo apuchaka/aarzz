@@ -119,9 +119,9 @@ generated one of each per presentation.
 - [x] **Neuro_merged.md** — done. **Contains N1–N8, the whole Corpus B psychiatry set.**
 - [x] **Heme Onc_merged.md** — done
 - [x] **Infectious Disease_merged.md** — done
-- [ ] MSK_merged.md  <-- RESUME HERE
+- [x] **MSK_merged.md** — done
+- [ ] Derm_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Derm_merged.md
 - [ ] OBGYN_merged.md
 - [ ] Pediatrics_merged.md
 - [ ] Psychiatry_merged.md
