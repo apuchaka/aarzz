@@ -230,3 +230,80 @@ half-done. The next action is the user's: **approve destinations**, not rows.
 Investigation-Interpretation, Examination, History-Taking, Emergency, Paediatrics or any
 system file · no Clinical Process combinations · **no merging of any duplicate pair, anywhere**
 · nothing from the 11 approved-but-unexecuted rows.
+
+---
+
+## INVESTIGATION-INTERPRETATION EXECUTED (2026-09-01, `ac620de`) — the first destination approval
+
+**104 sections · 2,285 lines · 23 source blocks · 12 system files.**
+`Investigation-Interpretation.md` 533 → **2,986 lines**.
+
+**Structure chosen, and why.** Part 1 (§1.1–§1.22) is **not renumbered and not edited**, apart
+from one `CF-PAIR` marker beneath each of the 14 paired headings — CLAUDE.md §1.14 forbids
+renumbering, and renumbering Part 1 would have broken every inbound pointer to it. Part 2
+reproduces every incoming heading **verbatim and unrenumbered** under a `SOURCE:` divider naming
+its origin file, which is the convention the merged files already use, so a pointer written as
+`[[NEW_Investigations_Renal_and_Urology]] 0.3` still resolves by name wherever the block lives.
+Each source file keeps its divider and gains a stub naming what left and why — **30 stubs for 30
+contiguous runs**.
+
+**Nothing merged.** 24 incoming sections cover topics Part 1 already has; both copies kept in
+full, each carrying a `CF-PAIR` marker naming the other. Two further pairs are
+**incoming-to-incoming**: the Mantoux appears in both respiratory sections, and group-and-hold
+pairs with immunohaematology.
+
+> [!warning] **It is 14 destination sections receiving 24 incoming, not the "9 duplicates" every
+> earlier report in this project stated.** The 9 came from the Clinical Process analysis, whose
+> list omitted **§1.2, §1.3, §1.13, §1.18 and §1.20**. Determined this time by hand against all
+> 104 incoming headings and all 22 Part 1 headings, because the automated pair scorer had a
+> **high false-negative rate** — it missed ABG↔§1.5 (acronym versus expansion, rule 2's exact
+> trap), autoantibody↔autoimmune (synonym), and two more that fell a hundredth under threshold.
+
+### Verification, all against the pre-move `git HEAD`
+
+| Check | Result |
+|---|---|
+| blocks arriving line-for-line identical | **104 of 104** |
+| moved headings still present in a source file | **0** |
+| duplicate-header counts, all 13 files | **unchanged**; destination has none |
+| `SOURCE:` divider counts, all 12 source files | **unchanged** |
+| dangling pointers | **1** — the deliberate `[[B2]] 0.5`, unchanged |
+| misaimed pointers | **0** |
+| `drift.py` output | **byte-identical before and after** |
+
+## FIFTH, SIXTH AND SEVENTH TOOL DEFECTS — all three found executing this move
+
+**5 · Every line number in every flag file is stale, and the flag files do not say so.**
+50 of the 59 rows pointed at something that is not a heading. Cause: the **80 in-text flags
+applied in `90dc93f` shifted every system file** *after* the flag files were written. The
+`_BY_DESTINATION.md` limitation *"line numbers are valid at `90dc93f`; any move invalidates
+them"* was true and insufficient — they were **already** invalid when written.
+**Consequence for the remaining destinations: do not execute any block from its recorded line
+numbers. Re-anchor on heading text first.**
+
+**6 · The section names in the flag rows are paraphrases, not verbatim headings.**
+`0.1 Thyroid Panel (TSH, fT4, fT3, antibodies)` against an actual heading of
+`0.1 Thyroid Panel (TSH, Free T4, Free T3, Thyroid Antibodies)`. 20 rows failed an exact text
+match. **This is CLAUDE.md rule 10's PARAPHRASE clause, committed in my own records** — I wrote
+the concept, not the author's phrase, and then tried to search on it. Resolved by token overlap
+with the section number weighted, and every hit read.
+
+**7 · The first block verifier reported 4 mismatches that were its own bug** — it rebuilt each
+block by stopping at the next heading, so any section with subheadings (`C-2` ECG and its twelve,
+`E-6`, `K-13`, `P-7`) failed. **Loss rate 0%. Verifier false-negative rate 4 in 104.** Same shape
+as the merge-verification defect already recorded under rule 11: *"a false MISSING says content
+was destroyed, which invites a restore that re-adds a block already present."*
+
+**Also, and it is worth its own line: the `SOURCE:` dividers were first written as
+`SOURCE: file.md  (moved from X, date)`.** `dangling.py` parses `SOURCE: (.*?) =====` and took
+the whole string as the filename, registering every moved section under a key nothing points at
+— **60 broken pointers reported.** Normalising the dividers to the exact corpus convention
+returned it to 1. **No pointer was ever broken.** A format that merely *looked* like the
+convention was enough to make the checker report catastrophe.
+
+### One figure corrected
+
+`drift.py` reports **158 of 172** sources with no drift signal, not the **171 of 172** recorded
+earlier in this file. The 13 extra were flagged **before any of my work** — confirmed by running
+the checker against a clean `git archive HEAD` extract. The claim that matters is unchanged and
+now stronger: **before and after are byte-identical.**

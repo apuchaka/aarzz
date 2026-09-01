@@ -4,7 +4,7 @@
 **Per-file detail:** `_meta/flags/<file>.md` — 20 files.
 **Moves by destination:** `_meta/flags/_BY_DESTINATION.md` — 248 rows, 15 blocks.
 **Rule 5 figure inventory:** `_meta/flags/_RULE5_FIGURES.md` · **Trauma:** `_meta/flags/_TRAUMA.md`
-**Status: PART A EXECUTED (A1–A7). PART B untouched.** `N1`–`N8` → Psychiatry (`f5e49c9`),
+**Status: PART A EXECUTED (A1–A7) · Investigation-Interpretation EXECUTED (`ac620de`). Rest of PART B untouched.** `N1`–`N8` → Psychiatry (`f5e49c9`),
 `GER3`/`GER4` out of Geriatrics + four new files (`16a9386`), 80 in-text flags (`90dc93f`),
 A6/A7 reports and Psychiatry groupings (`cfba800`). **No other content has moved.**
 
@@ -26,9 +26,11 @@ A6/A7 reports and Psychiatry groupings (`cfba800`). **No other content has moved
 2. ~~`GER4` and `GER3` are not geriatrics~~ **RESOLVED `16a9386`.** `GER3` → `Preventive-Health.md`,
    `GER4` → `Safeguarding.md`. Geriatrics 1,347 → 928, remainder byte-matching. 84 `[[GER3]]`/
    `[[GER4]]` references, all still resolving.
-3. **Investigation interpretation has no home.** 60+ sections across 12 files; 9 duplicate a section
-   `Investigation-Interpretation.md` already has. **ECG interpretation is absent from the entire
-   Clinical Process set** — its only two section-level homes in the vault are inside `Cardio_merged`.
+3. ~~Investigation interpretation has no home~~ **RESOLVED `ac620de`.** **104 sections, 2,285 lines,
+   23 source blocks, 12 files** moved into a new Part 2; the file goes 533 → 2,986 lines. Part 1
+   unrenumbered and unedited apart from pair markers. **24 sections pair with 14 Part 1 sections —
+   not the 9 this line previously claimed**, which omitted §1.2, §1.3, §1.13, §1.18 and §1.20.
+   **Nothing merged.** ECG interpretation is now in the Clinical Process set for the first time.
 4. **Safeguarding is a four-way split whose pieces do not overlap**, and the largest piece is in
    Geriatrics.
 
@@ -38,7 +40,7 @@ Full detail, with the evidence class of every row: **`_meta/flags/_BY_DESTINATIO
 
 | Destination | Rows | of which lean on inbound counts | Note |
 |---|---:|---:|---|
-| `Investigation-Interpretation.md` | **59** | 1 | grows several-fold; **9 known duplicate pairs**; ECG interpretation is its first general entry |
+| ~~`Investigation-Interpretation.md`~~ **DONE `ac620de`** | **59** | 1 | 104 sections moved · **24 pairs marked, 0 merged** · 533→2,986 lines |
 | **No destination proposed — flag only** | **39** | 1 | 20 `X owns it` · 12 `arguable` · 7 `keep, flag` |
 | `Examination.md` | **24** | 1 | + ~60 embedded blocks |
 | `Examination.md` **and** `History-Taking.md` (paired) | **12** | 0 | one `Focused Hx` + one `Examination` block splitting two ways |
