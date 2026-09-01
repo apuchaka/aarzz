@@ -1563,27 +1563,15 @@
 <!-- ===== SOURCE: 15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP.md ===== -->
 
 
-## Anaemia in children — approach
-
-> [!danger] Red flags: SOB; syncope; fever; lymphadenopathy; bruising; hepatosplenomegaly; jaundice; unexplained bone pain; ↓WCC; haematuria; melaena; faltering growth; ↓platelets.
-
-- **Ix:** FBC, reticulocytes, film, ferritin, CRP/ESR.
-
-> [!info] Differential diagnosis by MCV
-> - **Microcytic:** iron deficiency anaemia (↓Fe, ↓ferritin); thalassaemia; G6PD deficiency; sideroblastic anaemia.
-> - **Normocytic:** haemolysis; marrow failure; thyroid dysfunction; anaemia of chronic disease.
-> - **Macrocytic:** ↓folate (malabsorption, phenytoin); ↓B12 (breast milk from a vegetarian mother, ↓intrinsic factor, malabsorption); Diamond-Blackfan anaemia; Fanconi anaemia.
-
-> [!info] Severe tropical anaemia — malaria; bacteraemia; worms; HIV, TB; ↓B12, G6PD deficiency, malnutrition, sickle cell disease.
-> Eosinophilia + recent tropical travel → consider helminth infection (hookworm, roundworm, etc).
-
-### Approach to haemolysis
-
-- Is malaria or sickle cell disease possible?
-- Intravascular vs extravascular — intravascular suggests haemoglobinuria; extravascular suggests splenomegaly.
-- Inborn error or acquired defect? Acquired: Coombs test.
-
-*(See [[10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia]] and [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] for more detail on anaemia in general, not repeated here.)*
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `Anaemia in children — approach`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## Iron deficiency anaemia in children
 
@@ -3316,32 +3304,15 @@
 
 ---
 
-## 0.1 Measuring and Plotting Growth
-
-> [!danger] The trajectory matters more than the centile
-> **A child tracking steadily along the 3rd centile is usually normal — they are simply small.**
-> **A child CROSSING DOWN through centiles is abnormal, even if they are still on the 50th.**
-> **This is the single most important principle in growth assessment, and it means a single measurement is nearly uninterpretable.** **You need serial measurements plotted over time**, which is why the child health record and previous weights are worth chasing.
-> **Growth is the most sensitive general indicator of a child's health** — chronic disease of almost any kind shows up in the growth chart before it shows up elsewhere.
-
-> [!tip] Plot everything, on the right chart
-> **· WEIGHT · LENGTH or HEIGHT · HEAD CIRCUMFERENCE (routinely to about age two or three) · and BMI in older children.**
-> **· Use the appropriate chart for age and population, and CONDITION-SPECIFIC charts where they exist — Down syndrome, Turner syndrome, and preterm infants.**
-> **· CORRECT FOR PREMATURITY until the defined age.** **Failing to correct makes a normally growing preterm infant look like they are failing.** `UNVERIFIED — the chart in use and the age to which correction applies.`
-> **· TECHNIQUE matters: LENGTH is measured lying down with two people to about age two; HEIGHT standing thereafter — and the transition produces an artefactual drop of a centimetre or two that should not be over-interpreted.** Infants are weighed naked.
-
-> [!warning] Head circumference — and the pattern that means urgent imaging
-> **A RAPIDLY INCREASING head circumference crossing centiles upward means RAISED INTRACRANIAL PRESSURE until proven otherwise — hydrocephalus, tumour, or a SUBDURAL COLLECTION from abusive head trauma.**
-> **Look also for: a tense or bulging fontanelle · splayed sutures · "sunsetting" eyes · vomiting · irritability or lethargy · and developmental regression.**
-> **MICROCEPHALY** — congenital infection, genetic syndromes, perinatal injury, or a familial small head (check the parents' head circumferences before alarming anyone).
-> Cross-refer [[M6]] and [[M1]] 0.5.
-
-> [!tip] Mid-parental height puts the child in family context
-> **Calculate the expected height range from the parents' heights and compare it with the child's projected adult height.**
-> **A child who is short but tracking within their genetic target range is a different problem from one who is short relative to their own family.**
-> **Measure the parents if they are present rather than accepting reported heights** — reported heights are unreliable, usually upward. `UNVERIFIED — the mid-parental height formula and target range.`
-
----
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.1 Measuring and Plotting Growth`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## 0.2 Growth Faltering
 

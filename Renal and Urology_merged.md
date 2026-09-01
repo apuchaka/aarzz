@@ -972,28 +972,15 @@ Failure rate 1:2000 (more effective than female sterilisation). Semen analysis m
 
 ---
 
-## 0.6 Renal Biopsy
-
-> [!tip] When it is indicated
-> **· Nephrotic syndrome in an ADULT without an obvious cause.**
-> **· Nephritic syndrome and any suspicion of RPGN — urgently.**
-> **· Unexplained acute kidney injury**, particularly with an active urinary sediment.
-> **· Systemic disease with renal involvement — lupus, vasculitis, myeloma, amyloid — where the histology determines treatment intensity.**
-> **· Unexplained progressive chronic kidney disease with normal-sized kidneys.**
-> **· Renal transplant dysfunction.**
-> **When it is NOT indicated: typical childhood nephrotic syndrome · typical diabetic nephropathy with a compatible history and retinopathy · and SMALL, ECHOGENIC KIDNEYS, where the disease is already irreversible and the biopsy carries risk without benefit.**
-
-> [!warning] Before and after
-> **Before: control the BLOOD PRESSURE · check FBC, coagulation and platelets · CEASE antiplatelets and anticoagulants for the appropriate interval · confirm two kidneys and their size on ultrasound · and obtain informed consent covering the bleeding risk.**
-> **After: BLEEDING is the main complication** — ranging from microscopic haematuria (common and expected) through visible haematuria to perinephric haematoma requiring transfusion or embolisation, and rarely nephrectomy. **Observation with regular observations and haemoglobin is standard.**
-> **Arteriovenous fistula formation is a recognised late complication.**
-> **The specimen is examined by LIGHT MICROSCOPY, IMMUNOFLUORESCENCE (which gives the linear/granular/pauci-immune pattern that classifies RPGN) and ELECTRON MICROSCOPY (which shows podocyte and basement membrane detail).** All three are needed, which is why the specimen must be handled correctly at collection.
-
----
-
-> [!note] Cross-references
-> Acute kidney injury, chronic kidney disease and CKD-MBD → [[H3]] · Lower urinary tract symptoms and retention → [[H2]] · Renal colic, scrotal and groin problems → [[H4]] · Vasculitis, ANCA and pulmonary-renal syndrome → [[L2]] 0.5 · Autoantibody interpretation → [[L2]] 0.6 · Lupus nephritis and urinalysis at every visit → [[L2]] 0.4 · Haemoptysis → [[A4]] 0.3 · Myeloma and light chains → [[J4]] · Rhabdomyolysis and myoglobinuria → [[A7]] 0.6 · Diabetic kidney disease → [[I2]] 0.5 · RAS blockade and the expected creatinine rise → [[CV-X]] 0.3 · Post-streptococcal disease and skin infection → [[K2]] 0.6 and [[AU1]] 0.4 · Paediatric nephrotic syndrome → [[M5]] · Hypertension → [[B2]]
-
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.6 Renal Biopsy`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 <!-- ===== SOURCE: H2_LUTS__Retention_and_Incontinence.md ===== -->
 
@@ -1788,65 +1775,15 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ---
 
-## 0.1 Urinalysis Panel (Dipstick, pH, Specific Gravity, Microscopy, Culture)
-
-**D:** Bedside **reagent strip** testing (pH, specific gravity, blood, protein, glucose, ketones, nitrites, leucocyte esterase, bilirubin, urobilinogen) plus laboratory **microscopy** (cells, casts, crystals, organisms) and **culture with sensitivities**.
-
-**Ind:** Suspected urinary tract infection; haematuria; proteinuria; acute kidney injury and CKD assessment; suspected glomerulonephritis; diabetes and its complications; unexplained systemic illness; antenatal screening; pre-operative assessment.
-
-**Role:** **The cheapest, fastest and highest-yield test in nephrology and urology**, and the one most often under-used. In suspected glomerular disease it is effectively the bedside biopsy — **an active sediment changes the whole pathway**.
-
-> [!danger] **Do not ignore**
-> **Red cell casts or dysmorphic red cells** — glomerulonephritis. With acute kidney injury this is a **nephrological emergency**; see the vasculitis serology entry in `NEW_Investigations_Infectious_Diseases.md` 0.21 and [[12_04_Rheum_-_Vasculitis]].
-> **Visible (macroscopic) haematuria in an adult** — urological malignancy until excluded, regardless of anticoagulation or a concurrent UTI.
-> **Glycosuria with ketonuria** — check a capillary glucose and ketones; consider DKA, including **euglycaemic DKA on an SGLT2 inhibitor**, where the glucose may be near-normal.
-
-> [!warning] **Asymptomatic bacteriuria is not a UTI.** It is common in older people, in the catheterised, and in residential care, and **treating it does not help and drives resistance and *C. difficile***. The exceptions where it *is* treated are **pregnancy** and **before urological procedures that breach the mucosa**. A positive dipstick in a delirious older person does not explain the delirium — see the Acute Confusion entry in `NEW_Neurology.md`.
-
-**Normal/interpretation:** Dipstick positives for protein, nitrite, leucocytes or blood should prompt **microscopy**. Nitrites are reasonably specific for Enterobacterales but insensitive (organisms that do not reduce nitrate, or short bladder dwell time give false negatives). Leucocyte esterase is more sensitive, less specific. **Sterile pyuria** — think prior antibiotics, urethritis/STI, **renal tract tuberculosis**, stones, tumour, interstitial nephritis. **Heavy proteinuria on dipstick (≥3+)** is described in sources as high-grade and warrants quantification (see 0.2).
-
-**Abnormal → next steps:** Culture before antibiotics where practical; quantify proteinuria by ACR/PCR; ultrasound for obstruction or stones; nephrology referral for an active sediment.
-
-**Alt:** ACR/PCR (quantification); renal tract ultrasound; CT KUB for stones; cystoscopy for haematuria; renal biopsy.
-
-## 0.2 Urine ACR (Albumin-to-Creatinine Ratio)
-
-**D:** Ratio of urinary albumin to creatinine, correcting for urine concentration; measured on a **first-morning spot sample** where possible.
-
-**Ind:** **Screening and staging of CKD**, especially in diabetes and hypertension; quantifying proteinuria; cardiovascular risk assessment.
-
-**Role:** **The standard quantitative measure of albuminuria**, and it has replaced 24-hour collections for most purposes. Albuminuria is an **independent predictor of both renal and cardiovascular outcome**, not just a marker of kidney damage — which is why it belongs in cardiovascular risk assessment as well as renal.
-
-> [!info] **CKD is staged on two axes together — eGFR *and* albuminuria (KDIGO)**
-> **Albuminuria categories:** **A1** normal to mildly increased · **A2** moderately increased · **A3** severely increased. **Persistence for ≥3 months** is required for a CKD diagnosis.
-> **eGFR categories:** **G1** ≥90 · **G2** 60–<90 · **G3a** 45–<60 · **G3b** 30–<45 · **G4** 15–<30 · **G5** <15 mL/min/1.73 m².
-
-> [!danger] **A units trap, and it is a real one in Australia.** The KDIGO albuminuria category boundaries are commonly published in **mg/g**, while **Australian laboratories report ACR in mg/mmol** — the numeric boundaries are therefore completely different. **Converting the figures myself would be presenting my own arithmetic as a sourced threshold, so the numeric boundaries are deliberately omitted here.** Use the **A1/A2/A3 category printed on the Australian report**, which the laboratory has already applied to its own units. This is the same class of error as quoting a US prolactin or PSA figure in the wrong units.
-
-**Normal/abnormal:** Confirm an abnormal result on a repeat sample. **Transient albuminuria** occurs with fever, exercise, heart failure, hyperglycaemia and UTI — repeat when the patient is well before labelling CKD.
-
-**Alt:** Urine protein:creatinine ratio (**PCR** — better where non-albumin proteins matter, as in myeloma); 24-hour urine protein (largely superseded, error-prone); dipstick (screening only — sources note it performs less well than ACR for CKD screening).
-
-## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)
-
-**D:** Serum urea, creatinine and calculated **eGFR**, with sodium, potassium, chloride and bicarbonate.
-
-**Ind:** Ubiquitous — acute illness, drug dosing and monitoring, CKD staging and surveillance, before contrast or nephrotoxic drugs, fluid and electrolyte problems.
-
-**Role:** First-line and continuous. **eGFR is an estimate with assumptions**, and knowing where it fails is what distinguishes safe prescribing.
-
-> [!warning] **Where eGFR misleads, and it matters most in exactly the patients you worry about**
-> - **Creatinine depends on muscle mass** — so eGFR **overestimates** function in the **elderly, cachectic, amputees, and those with chronic liver disease or malnutrition**, and **underestimates** it in the very muscular. A "normal" creatinine in a frail 85-year-old can conceal substantial renal impairment.
-> - **eGFR equations assume steady state** and are **invalid in acute kidney injury**, where creatinine lags behind the true GFR by hours to days — so a rising creatinine understates how bad things already are.
-> - Drugs alter creatinine without altering GFR — **trimethoprim** and others reduce tubular secretion; this is a benign rise, not injury.
-> - **Cystatin C-based eGFR** is recommended by KDIGO alongside creatinine where available, and helps precisely in these discordant situations.
-
-> [!danger] **Do not ignore**
-> **Hyperkalaemia** — an ECG and treatment decision, not a number to file. **A rising creatinine with anuria** — think obstruction, and scan the bladder and kidneys; post-renal AKI is the reversible one. **Any AKI: review the drug chart immediately** and withhold nephrotoxics (NSAIDs, ACE inhibitors/ARBs, diuretics, metformin, SGLT2 inhibitors) per local sick-day guidance.
-
-**Normal/abnormal:** Reference intervals are laboratory-specific and **not stated here**. A **urea:creatinine ratio raised out of proportion** supports pre-renal states or upper GI bleeding.
-
-**Alt:** Cystatin C; measured creatinine clearance; renal tract ultrasound; urinalysis; **CKD staging requires ACR alongside** (see 0.2).
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 3 sections from this source block.**
+>
+> `0.1 Urinalysis Panel (Dipstick, pH, Specific Gravity, Microscopy, Cult` · `0.2 Urine ACR (Albumin-to-Creatinine Ratio)` · `0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## 0.4 Dark Urine
 
@@ -1873,68 +1810,15 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 **Next steps:** Dipstick, microscopy, split bilirubin, CK, LDH and haptoglobin, and a drug history.
 
-## 0.5 Elevated PSA (Prostate-Specific Antigen)
-
-**D:** Serum glycoprotein produced by prostatic epithelium — **prostate-specific, not prostate-cancer-specific**, which is the entire interpretive problem.
-
-**Ind:** Symptomatic assessment of suspected prostate cancer; monitoring known disease; and — separately and more contentiously — **screening of asymptomatic men**.
-
-**Role:** Screening role in Australia is **conditional on shared decision-making, not routine**. Sources describe RACGP and Cancer Council Australia guidance as **offering PSA screening to asymptomatic men aged 50–69** (or **from 45 with a first-degree family history**) **only after a conversation that explicitly covers benefits and harms**. *(Guidance in this area is actively being revised — sources reference a draft update — so confirm current recommendations.)*
-
-> [!warning] **Causes of a raised PSA other than cancer** — benign prostatic hyperplasia, **prostatitis or UTI** (which can raise it dramatically and take months to settle), urinary retention, recent **ejaculation, cycling, digital rectal examination, catheterisation, prostate biopsy or surgery**, and increasing age. **Repeat an unexpected result after an interval, having excluded infection, before acting on it.**
-> **Free:total PSA ratio** adds discrimination in the intermediate band — sources describe its use where total PSA is between **4 and 10 ng/mL**, with a **lower free:total fraction indicating higher cancer risk**. Note the caveat sources raise: **chronic prostatitis also lowers the free fraction**, so it does not cleanly separate inflammation from cancer.
-> **DRE has high specificity but low sensitivity** — a normal examination does not exclude cancer, and DRE alone is not a screening test.
-
-> [!danger] **Do not ignore**
-> **A hard, irregular, nodular prostate on DRE**, or PSA with **bone pain, anaemia or raised ALP** — consider metastatic disease and refer urgently, regardless of the PSA value.
-
-**Normal/abnormal:** **No single "normal" cut-off is stated here** — thresholds are age-referenced, assay-dependent, and used differently between guidelines. **PSA velocity and density** are used in interpretation. Rising or persistently elevated PSA → urology referral; contemporary pathways use **multiparametric MRI before biopsy** to reduce unnecessary biopsies.
-
-**Alt:** mpMRI prostate; transperineal or transrectal biopsy; bone scan and CT for staging.
-
-## 0.6 Urine Cytology
-
-**D:** Microscopic examination of exfoliated urothelial cells in voided or washing specimens.
-
-**Ind:** Haematuria work-up; surveillance of known urothelial carcinoma; suspected **carcinoma in situ**; occupational exposure surveillance (aromatic amines, aniline dyes, rubber).
-
-**Role:** **Adjunct, never a substitute for cystoscopy.** Its performance is strongly grade-dependent: **good for high-grade urothelial carcinoma and carcinoma in situ, poor for low-grade papillary tumours**, which exfoliate bland cells. **A numeric sensitivity is deliberately not stated — it did not reach the sourcing standard in this build.**
-
-**Safety/cost:** Non-invasive and inexpensive. **A first-morning specimen is not used** — overnight cells degenerate; a fresh voided sample later in the morning is preferred.
-
-**Normal/abnormal:** Negative cytology **does not exclude bladder cancer**. Positive cytology with a normal cystoscopy should prompt a search for an **upper tract** or prostatic urethral source. False positives occur with stones, infection, instrumentation, and after intravesical BCG or chemotherapy.
-
-**Alt:** **Cystoscopy — the definitive test for bladder mucosa**; CT urography for the upper tracts; urinary tumour-marker assays (variable adoption).
-
-## 0.7 Uroflowmetry
-
-**D:** Non-invasive measurement of urinary flow rate over time, producing a flow curve, with a **post-void residual** measured by bladder scan.
-
-**Ind:** Lower urinary tract symptoms, particularly voiding symptoms in men; suspected bladder outlet obstruction; before and after prostate surgery.
-
-**Role:** Sources describe it as **the initial, non-invasive urodynamic investigation for LUTS**. It is a screening test — **it demonstrates a poor flow but cannot say why**, because obstruction and a weak detrusor produce similar curves.
-
-**Safety/cost:** Non-invasive, cheap, no complications. **Requires an adequately full bladder** — a low voided volume makes the study uninterpretable, which is the commonest technical failure.
-
-**Normal/abnormal:** A normal flow rate and curve with a low residual makes significant obstruction unlikely. **Numeric flow-rate thresholds are not stated** — they are volume- and age-dependent. An intermittent or plateau curve suggests obstruction or stricture; a **significant post-void residual** raises retention and the risk of upper tract damage.
-
-**Alt:** **Formal urodynamics** (see 0.8) where the cause of a poor flow must be established; bladder scan; symptom scores; flexible cystoscopy for stricture.
-
-## 0.8 Urodynamic Studies (UDS)
-
-**D:** Invasive multichannel study measuring bladder and abdominal pressures during filling and voiding, with provocative manoeuvres (cough, Valsalva); **video-urodynamics** adds fluoroscopy.
-
-**Ind:** Sources list: **incongruity between symptoms and clinical findings**; **neurogenic bladder** and neurological disease; persistent LUTS despite appropriate therapy; **before surgery for incontinence**, and in recurrent incontinence after previous surgery; **mixed stress and urge incontinence**; young men with LUTS; selected children with persistent daytime wetting or spinal abnormality; and where a planned therapy carries high complication risk or the diagnosis is otherwise unclear.
-
-**Role:** **The functional gold standard** — it distinguishes detrusor overactivity, stress incontinence, poor compliance, detrusor underactivity and bladder outlet obstruction, which no non-invasive test reliably separates.
-
-> [!warning] **Not a routine test for uncomplicated incontinence.** Straightforward stress or urge incontinence is managed on history, examination and a bladder diary. UDS is reserved for the situations above; performing it routinely subjects patients to an invasive, uncomfortable study that does not change management.
-
-**Safety/cost:** Catheterisation is uncomfortable and carries **UTI risk** (antibiotic prophylaxis is used in some settings), plus haematuria and, rarely, retention. Expensive and specialist.
-
-**Normal/abnormal:** Reported as filling and voiding phase findings. **Numeric pressure thresholds are not stated here.**
-
-**Alt:** Bladder diary and pad testing (cheap, informative, always do first); uroflowmetry with residual; imaging; cystoscopy.
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 4 sections from this source block.**
+>
+> `0.5 Elevated PSA (Prostate-Specific Antigen)` · `0.6 Urine Cytology` · `0.7 Uroflowmetry` · `0.8 Urodynamic Studies (UDS)`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## 0.9 Adrenal / Cortisol Testing (Morning Cortisol, 24-h Urine Free Cortisol, Salivary Cortisol, Short Synacthen, Dexamethasone Suppression)
 
@@ -1973,43 +1857,15 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 **Alt:** Clonidine suppression test in equivocal cases; CT/MRI adrenals; functional imaging (MIBG, DOTATATE PET) for localisation and metastatic disease; genetic testing.
 
-## 0.11 24-hour Urine Copper
-
-**D:** Quantification of copper excreted in a 24-hour urine collection, used with **serum caeruloplasmin**.
-
-**Ind:** Suspected **Wilson disease** — unexplained liver disease in a young person, unexplained neurological or psychiatric disease with liver abnormality, haemolytic anaemia with liver disease, or a family history.
-
-**Role:** Part of a **composite diagnosis** — no single test is diagnostic.
-
-> [!info] **The figures sources give** — serum caeruloplasmin **below about 0.2 g/L**, with 24-hour urinary copper excretion **above roughly 40 µg/day in children and 100 µg/day in adults**, supporting the diagnosis. **Treat these as orientation, not as a rule**: sources describe the biochemical thresholds as imperfect, and a systematic review of biochemical testing exists precisely because performance varies. Where results are equivocal — raised transaminases, no Kayser–Fleischer rings, indeterminate caeruloplasmin and copper — **liver biopsy for hepatic copper concentration** is the arbiter, with penicillamine-provocation testing used in some centres.
-
-**Safety/cost:** Requires a complete, correctly collected 24-hour sample in a **copper-free container** — incomplete collection is the commonest cause of a spurious result. Cheap otherwise.
-
-> [!danger] **Do not ignore**
-> **Wilson disease presenting as acute liver failure with a Coombs-negative haemolytic anaemia** — a recognised, rapidly fatal presentation, typically in a young person, requiring urgent transplant assessment. **A disproportionately low ALP relative to bilirubin** is a described clue.
-
-**Normal/abnormal:** As above. **Caeruloplasmin is an acute-phase reactant** and can be falsely normal in inflammation, pregnancy or oestrogen use — a normal level does not exclude Wilson disease.
-
-**Alt:** Slit-lamp examination for **Kayser–Fleischer rings**; serum caeruloplasmin and free copper; liver biopsy with quantitative copper; *ATP7B* genetic testing; MRI brain.
-
-## 0.12 Urine Protein Electrophoresis (UPEP / Bence-Jones Protein)
-
-**D:** Electrophoresis of urine with **immunofixation** to detect monoclonal **free light chains** — historically "Bence-Jones protein".
-
-**Ind:** Suspected **multiple myeloma or related plasma cell disorder** — unexplained anaemia, bone pain or lytic lesions, hypercalcaemia, renal impairment, raised total protein or globulin gap, recurrent infection; and monitoring of known disease.
-
-**Role:** Part of the myeloma screen alongside **serum protein electrophoresis (SPEP), immunofixation, and serum free light chains**.
-
-> [!warning] **Two technical points that decide whether the test works**
-> **(1) Free light chains are not detected by urine dipstick** — the dipstick detects albumin. **A negative dipstick for protein does not exclude Bence-Jones proteinuria**, and this is the classic trap in light-chain-only myeloma presenting with renal failure.
-> **(2) Specimen type matters** — sources describe a clean-catch early-morning sample for screening by UPEP/immunofixation, with a **24-hour collection preferred for quantification**. Sources also describe **serum free light chain assays reducing the need for urine testing**, and note algorithms using sFLC to rule out unnecessary Bence-Jones testing.
-
-> [!danger] **Do not ignore**
-> **Unexplained renal impairment with anaemia, hypercalcaemia or bone pain in an older patient** — screen for myeloma; **cast nephropathy from free light chains is a treatable cause of AKI where delay costs renal function.** Also request **calcium, ALP** and a skeletal survey or whole-body imaging as directed.
-
-**Normal/abnormal:** No monoclonal band. A monoclonal band requires quantification, typing, and haematology referral. Note that a small monoclonal band may represent **MGUS**, which requires surveillance rather than treatment.
-
-**Alt:** **Serum free light chain assay** (more sensitive, avoids collection problems); SPEP with immunofixation; quantitative immunoglobulins; bone marrow biopsy; imaging.
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 2 sections from this source block.**
+>
+> `0.11 24-hour Urine Copper` · `0.12 Urine Protein Electrophoresis (UPEP / Bence-Jones Protein)`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## 0.13 Fecal Incontinence
 

@@ -30,21 +30,15 @@
 
 **Ix:** ECG (*why:* first-line, identifies STEMI/ischaemic changes within minutes and localises the territory; *what:* ST elevation/depression, T wave changes, new LBBB — see criteria and territories below). Troponin (*why:* confirms myocyte necrosis and distinguishes NSTEMI/STEMI from unstable angina; *what:* elevated in MI, normal in unstable angina — see table above). FBC (*why:* screens for anaemia as a contributor to demand ischaemia, and infection/inflammation; *what:* may be normal or show anaemia). Lipids, HbA1c (*why:* establishes cardiovascular risk factor burden for secondary prevention; *what:* often deranged, guides statin/diabetes management). U&E (*why:* baseline renal function before contrast/ACEI and to guide fluid/drug dosing; *what:* usually normal, deranged in CKD). LFT (*why:* baseline before statin therapy; *what:* usually normal). TFT (*why:* screens for thyrotoxicosis as a precipitant of demand ischaemia/arrhythmia; *what:* usually normal). ABG (*why:* assesses oxygenation and lactate if haemodynamically compromised; *what:* may show hypoxia or metabolic acidosis in cardiogenic shock). CXR (*why:* screens for pulmonary oedema/complications and alternative diagnoses e.g. widened mediastinum in dissection; *what:* may show pulmonary oedema, cardiomegaly, or be normal). Echo (*why:* assesses regional wall motion, LV function, and mechanical complications; *what:* regional wall motion abnormality in the infarct territory, reduced EF). Blood glucose (*why:* hyperglycaemia is common in acute MI and worsens outcomes; *what:* often elevated even in non-diabetics acutely).
 
-### 0.1.1 ECG cardiac territories
-| Leads | Territory | Vessel |
-|---|---|---|
-| V1–6, aVL | Proximal | LAD |
-| I, aVL, V5–6 | Lateral | LCx |
-| II, III, aVF | Inferior | RCA |
-| V1–3 (anterior/septal) | Anteroseptal | LAD |
-
-> [!note] Posterior STEMI
-> Reciprocal V1–3 changes: ST depression, tall/broad R waves, upright T waves. Confirmed by ST elevation and Q waves in posterior leads (V7–9). Inferior MIs are associated with AV block.
-
-**DDx of ST changes:**
-- Global T wave inversion → think non-cardiac cause
-- Pericarditis → global ST elevation
-- PE → sinus tachycardia (most common), S1Q3T3
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.1.1 ECG cardiac territories`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ### 0.1.2 Mx – Immediate (all patients)
 Aspirin 300 mg, O2 if sats <94%, paracetamol 1 g PO/IV (morphine only if severe pain), GTN 1 spray (caution hypotension), ± ondansetron 4 mg IV
@@ -477,78 +471,15 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 
 ---
 
-## 0.12 ECG Interpretation
-
-**Normal ranges:** PR 120–200 ms | QRS 80–100 ms | QTc 360–440 ms (M), 360–460 ms (F)
-QTc = corrected QT interval; estimates QT at a standard HR of 60 bpm.
-Usual ECG settings: voltage 10 mV, speed 25 mm/s.
-
-### 0.12.1 P wave
-- ↑Amplitude → cor pulmonale
-- Broad, notched (bifid) — often most pronounced in lead II; ≈ left atrial enlargement; seen in mitral stenosis
-- Absent P wave → atrial fibrillation
-
-### 0.12.2 PR interval
-- **Prolonged (>200 ms):** ischaemic heart disease, digoxin toxicity, hypokalaemia, rheumatic fever, aortic root pathology, Lyme disease, sarcoidosis, myotonic dystrophy, idiopathic, athletes
-- **Short:** Wolff-Parkinson-White (δ wave)
-
-### 0.12.3 AV blocks
-> [!info] Heart block classification
-> - **1st degree:** PR >200 ms
-> - **2nd degree Type 1 (Mobitz I, Wenckebach):** progressively prolonging PR until a dropped beat occurs
-> - **2nd degree Type 2 (Mobitz II):** constant PR interval between dropped beats
-> - **3rd degree (complete):** dissociation between P waves and QRS complexes; if post-MI, think RCA lesion
-
-### 0.12.4 QRS complex
-- Normal: 80–100 ms
-- Broad-complex tachycardia (>100–120 ms) — assume VT until otherwise proven
-- Narrow-complex tachycardia — likely supraventricular (AVNRT, AVRT, junctional tachycardia)
-
-### 0.12.5 Bundle branch blocks
-| | Cause of slowed conduction | Causes | Mnemonic |
-|---|---|---|---|
-| RBBB | Slow/absent RBB conduction, longer RV depolarisation | Normal variant (↑age), RV hypertrophy, PE, MI | "MaRRoW" — M in V1, W in V6 |
-| LBBB | Slow/absent LBB conduction, longer LV depolarisation | Acute MI, aortic stenosis, HTN | "WiLLiaM" — W in V1, M in V6. A new LBBB is always assumed to be MI until otherwise proven |
-
-**Fascicular blocks (hemiblocks)** — the left bundle branch splits into anterior and posterior fascicles; block of one in isolation (without a full bundle branch block pattern) causes a characteristic axis shift without QRS widening beyond the fascicular-block range (typically <120ms, distinguishing isolated hemiblock from a full bundle branch block):
-- **Left anterior fascicular block (LAFB):** left axis deviation (more marked than −45°) with a small Q wave and tall R wave in lead I/aVL (qR pattern), small R wave and deep S wave in II/III/aVF (rS pattern) — the anterior fascicle is thinner and more vulnerable, making LAFB the more common isolated hemiblock of the two.
-- **Left posterior fascicular block (LPFB):** right axis deviation with a small R wave and deep S wave in I/aVL (rS pattern), small Q wave and tall R wave in II/III/aVF (qR pattern) — genuinely rarer in isolation than LAFB, since the posterior fascicle is thicker and has a dual blood supply, so isolated LPFB should prompt consideration of significant underlying conduction system disease rather than being dismissed as an incidental finding.
-
-**Bi-fascicular block:** RBBB + left anterior or posterior hemiblock (→ RBBB + left/right axis deviation)
-
-**Tri-fascicular block:** RBBB + left hemiblock + 3rd degree heart block
-
-> [!note] Source discrepancy: PassMed describes tri-fascicular block as above with 1st degree block, but LITFL states true trifascicular block requires 3rd degree heart block.
-
-### 0.12.6 Axis deviation
-| | ECG pattern | Causes |
-|---|---|---|
-| Left axis deviation (LAD) | QRS +ve lead I; −ve leads II, III, aVF | Left anterior hemiblock, LBBB, inferior MI, WPW (right-sided accessory pathway), hyperkalaemia, congenital ASD |
-| Right axis deviation (RAD) | QRS −ve lead I; +ve leads II, III, aVF | RV hypertrophy, left posterior hemiblock, lateral MI, cor pulmonale, PE, WPW (left-sided accessory pathway), normal in infants <1yo |
-
-### 0.12.7 ST segment
-- **Elevation:** MI (STEMI), pericarditis/myocarditis (diffuse elevation + PR depression), normal variant ("high take-off"), LV aneurysm, Prinzmetal angina (coronary artery spasm), Takotsubo cardiomyopathy (difficult to differentiate from MI), subarachnoid haemorrhage (rare)
-- **Depression:** MI (NSTEMI), secondary to abnormal QRS (LVH, LBBB, RBBB), digoxin, hypokalaemia, cardiac syndrome X
-
-### 0.12.8 T wave
-Represents ventricular repolarisation. "Inversion" is normal in aVR and V1.
-- **Peaked:** hyperkalaemia, MI
-- **Inverted:** MI, digoxin toxicity, subarachnoid haemorrhage, arrhythmogenic right ventricular cardiomyopathy, PE (S1Q3T3 — most commonly presents with sinus tachycardia), Brugada syndrome
-
-### 0.12.9 Chamber hypertrophy/enlargement
-- **LVH:** sum of S wave in V1 + R wave in V5 or V6 >40 mm
-- **RVH:** left atrial enlargement — bifid P wave in lead II, duration >120 ms; right atrial enlargement — tall P waves in leads II and V1 exceeding 25 ms
-
-### 0.12.10 Normal variants in athletes
-Sinus bradycardia, junctional escape rhythm, first degree heart block, second degree Mobitz I
-
-### 0.12.11 Hypothermia
-Bradycardia, J wave (Osborne wave — small hump at end of QRS), 1st degree heart block, long QT interval, atrial and ventricular arrhythmias
-
-### 0.12.12 Digoxin effect
-Down-sloping ST depression, flattened/inverted T waves, short QT interval, arrhythmias (AV block, bradycardia)
-
----
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.12 ECG Interpretation`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## 0.13 Wolff-Parkinson-White (WPW) Syndrome
 

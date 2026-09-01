@@ -2184,54 +2184,15 @@ Physiotherapy and rehabilitation. **In haemophilia, prophylactic factor regimens
 
 ---
 
-## 0.6 Joint Aspiration and Synovial Fluid Interpretation
-
-> [!warning] Technique and contraindications
-> **· Strict aseptic technique**, with local anaesthetic and adequate explanation.
-> **· DO NOT aspirate through overlying cellulitis** — it risks introducing organisms into a sterile joint. Approach from an uninvolved area or defer to a specialist.
-> **· Prosthetic joints** — aspirate in consultation with the orthopaedic team, under appropriate conditions.
-> **· Anticoagulation** is not an absolute contraindication for a large joint, but requires care and consideration of the INR.
-> **· Ultrasound guidance** improves success in small joints, deep joints (hip) and obese patients, and should be used where available rather than persisting with blind attempts.
-
-> [!info] What to send, and what not to bother with
-> **SEND: cell count and differential · Gram stain · culture (in blood culture bottles as well as a sterile container improves yield) · and crystal examination under POLARISED light.**
-> **Do not bother with synovial fluid glucose and protein** — they add nothing to the four tests above and are a hangover from older practice.
-
-> [!tip] Interpreting the fluid
-> | | **Normal** | **Non-inflammatory** | **Inflammatory** | **Septic** | **Haemorrhagic** |
-> |---|---|---|---|---|---|
-> | Appearance | Clear, viscous | Clear, yellow | Cloudy, yellow | **Turbid, purulent** | **Bloody** |
-> | White cells | Very low | Low | Raised | **Markedly raised** | Variable |
-> | Neutrophils | Low % | Low % | Higher % | **Predominant** | Variable |
-> | Typical cause | — | **Osteoarthritis, trauma** | **Crystal, RA, reactive, spondyloarthritis** | **Bacterial infection** | **Trauma, bleeding disorder, PVNS** |
-> `UNVERIFIED — all cell count thresholds. These are the numbers that determine whether a joint is washed out, and they must come from a current source.`
-
-> [!danger] Two negatives that do not exclude septic arthritis
-> **1. A NEGATIVE GRAM STAIN.** **The Gram stain is negative in the majority of proven septic arthritis.** It is useful when positive and meaningless when negative.
-> **2. A synovial white cell count BELOW the usual septic threshold.** **This occurs in early infection, in partially treated infection, in prosthetic joint infection (where the thresholds are lower), and in the immunosuppressed.**
-> **The decision to treat as septic is clinical**, informed by the fluid but not dictated by it. **If the clinical picture is septic, treat it as septic while cultures are pending.**
-
-> [!tip] Crystal identification
-> **· Monosodium urate (gout) — NEEDLE-shaped, strongly NEGATIVELY birefringent** (yellow when parallel to the compensator axis).
-> **· Calcium pyrophosphate (CPPD) — RHOMBOID or rod-shaped, weakly POSITIVELY birefringent** (blue when parallel).
-> **Crystal examination requires a polarising microscope and an experienced operator — it is operator-dependent and false negatives occur**, so a negative crystal result in a convincing clinical picture of gout does not exclude it.
-
-**Ix:** As above.
-
-### 0.6.1 Mx – Immediate
-Aspiration relieves pain in a tense effusion as well as being diagnostic.
-
-### 0.6.2 Mx – Definitive
-Determined by the fluid and the clinical picture.
-
-### 0.6.3 Mx – Chronic/long-term
-**Document the aspirate results clearly**, because a future presentation with a hot joint will be interpreted against them — and a previously documented crystal diagnosis is exactly what leads to a later septic joint being dismissed.
-
----
-
-> [!note] Cross-references
-> Polyarthralgia and inflammatory arthritis → [[L2]] · Muscle symptoms and widespread pain → [[L3]] · Regional limb pain → [[L5]] · Cellulitis and pseudocellulitis → [[K2]] 0.1 · Fever workup → [[K1]] · Disseminated gonococcal infection and STI testing → [[O6]] 0.2 · Ross River and vector-borne arthritis → [[K3]] 0.6 · Bleeding disorders and haemophilia → [[A9]] 0.3 and [[J3]] · Calcium, PTH and haemochromatosis in CPPD → [[I3]] · Charcot joint and the diabetic foot → [[I2]] 0.6 · Allopurinol hypersensitivity and SCARs → [[A5]] 0.6 · Sarcoma referral before biopsy → [[B6]] 0.8 · Paediatric limp and hip → [[M5]] · Aboriginal and Torres Strait Islander health and gout equity → [[AU1]]
-
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.6 Joint Aspiration and Synovial Fluid Interpretation`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 <!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
 
@@ -2494,35 +2455,15 @@ Induction with corticosteroids plus cyclophosphamide or rituximab, then maintena
 
 ---
 
-## 0.6 Autoantibody and Serology Interpretation
-
-> [!danger] The principle that governs everything: order antibodies to CONFIRM a suspicion, never to screen
-> **The predictive value of every autoantibody depends on the pre-test probability.**
-> **In a patient with a convincing clinical syndrome, a positive result confirms. In a patient with fatigue and vague aches, a positive result is far more likely to be a false positive — and it causes real harm: anxiety, a mistaken diagnostic label that follows them for years, unnecessary referral, and occasionally inappropriate immunosuppression.**
-> **"Rheumatology screen" ordered reflexively on an undifferentiated patient is one of the more harmful habits in general medicine.**
-
-> [!tip] What each test is actually for
-> **· ANA** — **a SENSITIVE but NOT SPECIFIC entry test for connective tissue disease.** **It is positive in a meaningful proportion of the healthy population, and the proportion rises with age.** **A low-titre positive ANA in a well person is usually meaningless.** Titre and pattern matter: a high titre with a compatible clinical picture is significant.
-> **· ENA panel and anti-dsDNA** — **ordered only if the ANA is positive and the clinical picture warrants it.** These are the specific antibodies: **anti-dsDNA and anti-Sm are specific for lupus; anti-Ro and anti-La for Sjögren; anti-Scl-70 and anti-centromere for systemic sclerosis subtypes; anti-Jo-1 for myositis; anti-U1-RNP for mixed connective tissue disease.**
-> **· Rheumatoid factor** — **poor specificity.** Positive in Sjögren syndrome, **hepatitis C, infective endocarditis, sarcoidosis, chronic infection and a proportion of healthy older people.** A positive RF in someone without inflammatory arthritis means very little.
-> **· Anti-CCP** — **high specificity for rheumatoid arthritis**, and predicts erosive disease.
-> **· ANCA** — order when vasculitis is genuinely suspected. **Request PR3 and MPO specificity, not just the immunofluorescence pattern.** **False positives occur in infection — notably endocarditis — and in inflammatory bowel disease.**
-> **· Complement C3 and C4** — **consumed in active immune complex disease**, so they FALL with active lupus and cryoglobulinaemia. Useful for monitoring.
-> **· HLA-B27** — **present in a significant minority of the healthy Caucasian population.** **It is NOT a diagnostic test and NOT a screening test** — it shifts probability in a patient who already has inflammatory back pain or a compatible syndrome.
-
-> [!warning] ESR and CRP are not interchangeable, and their discordance is informative
-> **CRP is a hepatic acute phase protein — it rises within hours and falls quickly.**
-> **ESR reflects plasma protein composition and is slower to rise and fall, and it is raised by AGE, ANAEMIA, PREGNANCY, obesity, renal failure and PARAPROTEINS independently of inflammation.**
-> **A very high ESR with a normal or near-normal CRP is a recognised and useful pattern** — it points toward **systemic lupus erythematosus (where CRP is characteristically not raised unless there is infection or serositis), MYELOMA and other paraproteinaemias**, and it should prompt a serum protein electrophoresis. Cross-refer [[J4]].
-> **Conversely, a raised CRP in a lupus patient should raise INFECTION rather than being assumed to be a flare** — which is a genuinely useful clinical rule.
-
-**Ix:** As described. **The practical rule: take the history, examine the patient, form a clinical hypothesis, and then order the two or three tests that will confirm or refute it** — not a panel.
-
----
-
-> [!note] Cross-references
-> The hot swollen joint and septic arthritis → [[L1]] · Muscle symptoms, PMR and giant cell arteritis → [[L3]] · Inflammatory back pain and axial disease → [[L4]] · Regional limb pain → [[L5]] · Giant cell arteritis → [[D1]] 0.4 · Mononeuritis multiplex and inflammatory myopathy → [[D4]] 0.4, 0.6 · Palpable purpura → [[G3]] · Anterior uveitis → [[E1]] · Interstitial lung disease → [[RESP-X]] · Cervical spine and anaesthesia → [[F0.4]] 0.6 and [[AN1]] · Pre-immunosuppression screening → [[K3]] 0.5 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Cardiovascular risk in inflammatory disease → [[B2]] 0.1 · Anticoagulation in antiphospholipid syndrome → [[A9]] 0.4 and [[J3]] · Pregnancy, anti-Ro and congenital heart block → [[O2]] · Myeloma and the ESR-CRP discordance → [[J4]] · IgA vasculitis in children → [[M5]] · Aboriginal and Torres Strait Islander health → [[AU1]]
-
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.6 Autoantibody and Serology Interpretation`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 <!-- ===== SOURCE: L3_Muscle_Symptoms_and_Widespread_Pain.md ===== -->
 
@@ -3528,25 +3469,15 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 
 ---
 
-## 0.1 Describing a Fracture
-
-> [!tip] The systematic description — examinable, and it forces you to see everything
-> **1. The film itself** — patient details, date, which side, which views, adequacy.
-> **2. WHICH BONE and WHERE** — proximal, middle or distal third; or epiphysis, metaphysis, diaphysis.
-> **3. SIMPLE (two fragments), COMMINUTED (more than two), or SEGMENTAL.**
-> **4. PATTERN — transverse · oblique · spiral · avulsion · impacted · greenstick · buckle (torus).**
-> **5. DISPLACEMENT — always described by where the DISTAL fragment has gone relative to the proximal.** This convention is universal and getting it backwards makes the description meaningless.
-> **6. ANGULATION** — conventionally by the direction the APEX points, though many describe the distal fragment's tilt; **state which convention you are using.**
-> **7. ROTATION and SHORTENING.**
-> **8. INTRA-ARTICULAR extension** — because it changes management: intra-articular fractures need anatomical reduction to prevent post-traumatic arthritis.
-> **9. OPEN or CLOSED.**
-> **10. ASSOCIATED findings** — dislocation, effusion or lipohaemarthrosis, foreign body, and the **neurovascular status**, which is clinical rather than radiological but belongs in the same assessment.
-
-> [!danger] Two views at right angles, and the joint above and below
-> **A single view misses displacement, angulation and sometimes the fracture entirely.** **Minimum two orthogonal views.**
-> **Imaging the joint above and below is what catches the associated dislocations** — a Monteggia or Galeazzi injury is missed when only the mid-shaft is imaged, and the dislocation is the part that causes long-term disability. See 0.3.
-
----
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.1 Describing a Fracture`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## 0.2 Fracture Healing and Complications
 

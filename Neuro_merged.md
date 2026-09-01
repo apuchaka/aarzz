@@ -704,17 +704,15 @@ Both are toxidromes causing the triad of **hyperthermia, altered mental status, 
 
 **P:** if ART started early, better chance of improvement, but 70% have residual neurological disability. JCV persists in the host.
 
-### CSF Interpretation
-
-| | Normal | Bacterial | Viral | TB | Fungal |
-|---|---|---|---|---|---|
-| Opening pressure | 12–20 | ↑ | normal, mildly ↑ | ↑ | ↑ |
-| Appearance | Clear | Turbid, cloudy, purulent | Clear | Clear or cloudy | Clear or cloudy |
-| WCC | <5 | ↑, typically >100 | ↑, 5–1000 | ↑, 5–500 | ↑, 5–500 |
-| Predominant cell type | n/a | Neutrophils | Lymphocytes | Lymphocytes | Lymphocytes |
-| Protein (g/L) | <0.4 | ↑ | mildly ↑ | ↑↑ | ↑ |
-| Glucose (mmol) | 2.6–4.5 | ↓↓ | normal, slightly ↓ | ↓↓ | ↓ |
-| CSF/plasma glucose ratio | >0.66 | ↓↓ | normal, slightly ↓ | ↓↓ | ↓ |
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `CSF Interpretation`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ### Glasgow Coma Scale (GCS)
 
@@ -1456,20 +1454,15 @@ Most often presents as a global pattern, ?generalised fatigue. Causes: cardio-pu
 
 ## CT Head, Head Injury, and Intracranial Pressure
 
-### Who gets a CT head for head injury?
-
-> [!info] Verified — this UK NICE-derived algorithm (ABCDE/LATE mnemonics) is a reasonable reflection of the evidence base, but **at least some Australian diagnostic-imaging pathway guidance is explicitly built on the Canadian CT Head Rule (CCHR) instead of NICE**, so don't assume this exact mnemonic-based version is "the" Australian standard — practice varies by state/hospital, and the underlying high-risk-factor logic is broadly similar between the two rules but not identical in detail. The Canadian CT Head Rule's own high-risk factors (CT mandatory): GCS <15 at 2h post-injury, suspected open/depressed skull fracture, any sign of basal skull fracture, ≥2 episodes of vomiting, age ≥65 — closely overlapping with, but not worded identically to, the ABCDE list below. Its medium-risk factors (CT recommended, since a clinically important brain injury could still be missed): amnesia before impact ≥30min, dangerous mechanism (similar to the "L" in LATE below). Note the CCHR only applies to patients who had loss of consciousness or amnesia — patients without either aren't covered by it, though evidence suggests some residual risk can still exist if other risk factors are present. Given this genuine local variation, check the current protocol at the specific institution/state rather than treating either the NICE-style ABCDE/LATE mnemonic below or the CCHR as the single definitive Australian answer.
-
-**CT within 1 hour if any of:**
-> [!danger] Mnemonic "ABCDE"
-> **A**fter-hit seizures, **B**one fractures (suspected open/depressed skull fracture, or signs of basal skull fracture — racoon eyes, mastoid ecchymosis, haemotympanum, CSF otorrhoea/rhinorrhoea), **C**oma (GCS <13 initially, or GCS <15 at 2h post-injury), **D**eficit (focal neurological), **E**mesis (>1 episode of vomiting since injury)
-
-If none of the above, but loss of consciousness or amnesia after injury occurred, check for:
-
-> [!warning] Mnemonic "LATE"
-> **L**egendary tale (dangerous mechanism — pedestrian/cyclist struck by vehicle, occupant ejected from vehicle, fall from >1m or >5 stairs), **A**mnesia (>30 min retrograde amnesia of events before injury), **T**hrombin disorder (Hx of bleeding/clotting disorder), **E**lderly (≥65yo)
-
-If any present → CT within 8h of injury (and check if the patient is on warfarin → if so, CT <8h regardless). If none present → no CT head required.
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `Who gets a CT head for head injury?`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ### Intracranial Pressure
 

@@ -235,25 +235,15 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 
 **Consent:** discussing the procedure, anaesthetic technique, and material risks with the patient is a core part of this process — see [[Clinical-Process-EBM-Consent-Capacity]] for the general principles of informed consent, not repeated here.
 
-## 0.6 Group & Hold / Crossmatch
-
-> [!warning] FLAG 2026-09-01 — three homes
-> `Heme Onc_merged 10_08 ## ABO and Rh Compatibility — The Two Opposite Rules` and
-> `NEW_Investigations_Haematology ## Immunohematology`. Flagged, nothing merged.
-
-> [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Low yield) — not covered in the source primer.
-
-**D:** Pre-transfusion testing to determine a patient's blood group and screen for red cell antibodies, done routinely before surgery with any meaningful blood loss risk.
-
-**Group & hold (G&H, also "group & save"):** determines the patient's ABO/Rh(D) group and screens serum for atypical red cell antibodies, but does **not** physically reserve specific blood units — the sample is held (typically valid ~72h if the patient hasn't been recently transfused/pregnant, shorter if they have, given the risk of new antibody formation) so that crossmatching can be done rapidly if blood is later needed. Appropriate for procedures with a low likelihood of significant blood loss.
-
-**Crossmatch (X-match):** physically tests the patient's serum against specific donor units to confirm compatibility before those units are issued and available for transfusion. Appropriate for procedures with an anticipated higher blood loss risk, or urgently if a G&H patient starts bleeding.
-
-> [!tip] Practical distinction: G&H is "just in case," crossmatch is "blood physically reserved and ready." The decision of which to order (and how many units to crossmatch) is typically guided by a **Maximum Surgical Blood Ordering Schedule (MSBOS)** — an institution-specific list mapping each procedure type to the recommended G&H-only vs crossmatch-with-a-specified-unit-count approach, based on typical blood loss for that operation.
-
-**In an emergency where there's no time for group & hold/crossmatch:** O-negative ("universal donor") red cells can be given immediately without waiting for typing — used only when the delay of proper typing would itself be dangerous, since group-specific or fully crossmatched blood is always preferred once available given O-negative supply is limited and reserved for genuine emergencies.
-
----
+> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+>
+> `0.6 Group & Hold / Crossmatch`
+>
+> Moved under the standing rule as extended to investigation interpretation: **how to read the
+> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
+> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
+> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
+> still resolves.
 
 ## 0.7 Assessment and Basic Management of Pain
 
