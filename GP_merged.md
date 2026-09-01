@@ -17,32 +17,6 @@
 
 > [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `0.2 Lifestyle Risk Factors (SNAP) and Smoking Cessation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-## 0.3 Hospital Avoidance and Potentially Preventable Hospitalisations
-
-> [!note] Gap-filled from CSV ("Hospital avoidance," Medium yield). Verified absent: the only corpus-wide hit was this file's own placement-rule line listing it as a row to build. Placed here rather than in a disease file because it is a **property of how care is organised** rather than of any one condition — the same test that put continuity of care in this file. Verified against the AIHW *Atlas of avoidable hospitalisations in Australia: ambulatory care-sensitive conditions* and Victorian and NSW health department ACSC work, Aug 2026.
-
-**D:** an **ambulatory care-sensitive condition (ACSC)** is one for which hospitalisation is considered **potentially avoidable through timely and effective care in the community**. Admissions for these are counted as **potentially preventable hospitalisations**, and the rate is used in Australia as a health-system performance measure — which is why the term appears in service planning as well as clinically.
-
-> [!info] **The concept is a measure of the *system*, not a judgement about the patient or the admitting doctor — and this distinction matters clinically.** A "potentially preventable" admission does not mean the admission was wrong at the point it happened. It means that somewhere upstream — access, follow-up, medication supply, education, or a review that did not occur — there was a modifiable opportunity. **Admitting a patient who needs admitting is always correct**; the question the measure asks is what happened in the weeks before.
-
-**The conditions this applies to** fall into three groups:
-- **Chronic** — diabetes complications, COPD, congestive heart failure, angina, hypertension, asthma. These dominate the numbers, and the modifiable factor is usually **continuity, medication access and early review** (see Continuity of Care, and What Makes General Practice Different below).
-- **Acute** — urinary tract and other infections, dehydration, cellulitis: conditions where earlier community treatment could have prevented deterioration.
-- **Vaccine-preventable** — influenza, pneumococcal disease (see Preventive Medicine and Screening in Australian General Practice above, not repeated here).
-
-### 0.3.1 What an intern can actually do
-
-The temptation is to read this as policy. It is not — several of the levers sit with the person doing the discharge:
-
-- **Ask why this admission happened now**, not only what to treat. Ran out of medicine? Could not get a GP appointment? Did not understand the sick-day plan? Nobody at home? Each has a different fix, and none is addressed by treating the presenting problem alone.
-- **Make the discharge do the preventive work** — accurate medication list, a follow-up appointment that actually exists, a written action plan for the chronic condition, and a discharge summary the GP receives promptly. This is the single largest lever an inpatient team holds (see [[18_Geriatrics_and_Older_Persons_Health]] Discharge Planning and Home Safety Assessment, not repeated here).
-- **Know the alternatives to admission** your service has: **Hospital in the Home (HITH)** for conditions treatable with community-delivered IV therapy or monitoring, ambulatory or rapid-access clinics, outreach and post-acute services, and — for older patients — the aged care pathways in [[18_Geriatrics_and_Older_Persons_Health]] Discharge Planning and Home Safety Assessment.
-- **In residential aged care**, transfer decisions turn on whether the facility can deliver the care and on the resident's **advance care directive and ceiling of care** — an admission that contradicts a documented plan is a failure of communication rather than of medicine (see [[Communication]] Goals of Care and Ceiling of Care (Treatment Escalation Planning)).
-
-> [!danger] **Aboriginal and Torres Strait Islander Australians experience substantially higher rates of potentially preventable hospitalisation**, including frequent avoidable admissions for chronic conditions — and the drivers identified in Australian research are **access and continuity**, not disease severity alone. The clinical consequence sits with the discharging team: **the generic discharge plan is the one most likely to fail here.** Ask specifically whether the patient can get the medicine (see [[Clinical-Process-EBM-Consent-Capacity]] Choosing a Medicine — Quality Use of Medicines for the Closing the Gap PBS Co-payment Program, not repeated here), whether follow-up is with a service they will actually attend — an **Aboriginal Community Controlled Health Organisation** may be that service — and whether the discharge summary is going to the clinician who will see them. Verified against Australian cohort research on frequent avoidable admissions among Aboriginal people with chronic conditions in NSW, Aug 2026.
-
----
-
 ## 0.4 Continuity of Care, and What Makes General Practice Different
 
 > [!warning] FLAG 2026-09-01 — structural observation about this file
@@ -80,6 +54,32 @@ Worth understanding because it explains why GP reasoning differs from hospital r
 - **Whole-person and longitudinal care** — comorbidity, family and social context, and the same clinician seeing the consequences of their own decisions over years, which is a genuinely different accountability from an episode of hospital care.
 - **The gatekeeping and coordinating role** — managing the interface with specialist services rather than being one, and holding the whole picture when several specialists each hold part of it (see [[Communication]] Management of Patients with Multiple Chronic Medical Problems).
 
+
+## 0.3 Hospital Avoidance and Potentially Preventable Hospitalisations
+
+> [!note] Gap-filled from CSV ("Hospital avoidance," Medium yield). Verified absent: the only corpus-wide hit was this file's own placement-rule line listing it as a row to build. Placed here rather than in a disease file because it is a **property of how care is organised** rather than of any one condition — the same test that put continuity of care in this file. Verified against the AIHW *Atlas of avoidable hospitalisations in Australia: ambulatory care-sensitive conditions* and Victorian and NSW health department ACSC work, Aug 2026.
+
+**D:** an **ambulatory care-sensitive condition (ACSC)** is one for which hospitalisation is considered **potentially avoidable through timely and effective care in the community**. Admissions for these are counted as **potentially preventable hospitalisations**, and the rate is used in Australia as a health-system performance measure — which is why the term appears in service planning as well as clinically.
+
+> [!info] **The concept is a measure of the *system*, not a judgement about the patient or the admitting doctor — and this distinction matters clinically.** A "potentially preventable" admission does not mean the admission was wrong at the point it happened. It means that somewhere upstream — access, follow-up, medication supply, education, or a review that did not occur — there was a modifiable opportunity. **Admitting a patient who needs admitting is always correct**; the question the measure asks is what happened in the weeks before.
+
+**The conditions this applies to** fall into three groups:
+- **Chronic** — diabetes complications, COPD, congestive heart failure, angina, hypertension, asthma. These dominate the numbers, and the modifiable factor is usually **continuity, medication access and early review** (see Continuity of Care, and What Makes General Practice Different below).
+- **Acute** — urinary tract and other infections, dehydration, cellulitis: conditions where earlier community treatment could have prevented deterioration.
+- **Vaccine-preventable** — influenza, pneumococcal disease (see Preventive Medicine and Screening in Australian General Practice above, not repeated here).
+
+### 0.3.1 What an intern can actually do
+
+The temptation is to read this as policy. It is not — several of the levers sit with the person doing the discharge:
+
+- **Ask why this admission happened now**, not only what to treat. Ran out of medicine? Could not get a GP appointment? Did not understand the sick-day plan? Nobody at home? Each has a different fix, and none is addressed by treating the presenting problem alone.
+- **Make the discharge do the preventive work** — accurate medication list, a follow-up appointment that actually exists, a written action plan for the chronic condition, and a discharge summary the GP receives promptly. This is the single largest lever an inpatient team holds (see [[18_Geriatrics_and_Older_Persons_Health]] Discharge Planning and Home Safety Assessment, not repeated here).
+- **Know the alternatives to admission** your service has: **Hospital in the Home (HITH)** for conditions treatable with community-delivered IV therapy or monitoring, ambulatory or rapid-access clinics, outreach and post-acute services, and — for older patients — the aged care pathways in [[18_Geriatrics_and_Older_Persons_Health]] Discharge Planning and Home Safety Assessment.
+- **In residential aged care**, transfer decisions turn on whether the facility can deliver the care and on the resident's **advance care directive and ceiling of care** — an admission that contradicts a documented plan is a failure of communication rather than of medicine (see [[Communication]] Goals of Care and Ceiling of Care (Treatment Escalation Planning)).
+
+> [!danger] **Aboriginal and Torres Strait Islander Australians experience substantially higher rates of potentially preventable hospitalisation**, including frequent avoidable admissions for chronic conditions — and the drivers identified in Australian research are **access and continuity**, not disease severity alone. The clinical consequence sits with the discharging team: **the generic discharge plan is the one most likely to fail here.** Ask specifically whether the patient can get the medicine (see [[Clinical-Process-EBM-Consent-Capacity]] Choosing a Medicine — Quality Use of Medicines for the Closing the Gap PBS Co-payment Program, not repeated here), whether follow-up is with a service they will actually attend — an **Aboriginal Community Controlled Health Organisation** may be that service — and whether the discharge summary is going to the clinician who will see them. Verified against Australian cohort research on frequent avoidable admissions among Aboriginal people with chronic conditions in NSW, Aug 2026.
+
+---
 
 <!-- ===== SOURCE: NEW_Investigations_General_and_Preventive.md ===== -->
 
@@ -293,29 +293,6 @@ Worth understanding because it explains why GP reasoning differs from hospital r
 
 **Alt:** **CEA** (co-secreted, tracked alongside calcitonin); thyroid **ultrasound** and **FNA cytology** with calcitonin measured in the needle washout; **RET** germline and somatic testing; plasma metanephrines and calcium/PTH for the MEN2 components; neck and staging imaging.
 
-## 0.9 Gallium Scan
-
-**D:** **Gallium-67 citrate scintigraphy** — a SPECT nuclear medicine study in which Ga-67, an iron analogue that binds transferrin and lactoferrin, localises to sites of infection, inflammation and some tumours. Imaging is delayed, typically **48–72 hours** after injection.
-
-**Ind:** Historically: **pyrexia of unknown origin**, occult infection and abscess, osteomyelitis and discitis, **sarcoidosis** disease activity, interstitial lung disease, and lymphoma staging.
-
-**Role:** **Largely historical.** Sources state plainly that **Ga-67 has been largely replaced by 18F-FDG PET/CT**, which gives earlier imaging, better resolution and quantification (SUV). An intern needs to recognise the name, understand why it was used, and know what has superseded it.
-
-> [!warning] **Do not confuse gallium-67 with the gallium-68 PET tracers, which are contemporary and completely different tests.** Sources distinguish them clearly: **Ga-67 is a SPECT agent**; **Ga-68 is a PET isotope** used to label targeting molecules —
-> - **Ga-68 DOTATATE** targets **somatostatin receptors** — the imaging standard for well-differentiated **neuroendocrine tumours**;
-> - **Ga-68 PSMA** targets prostate-specific membrane antigen — **prostate cancer** staging and detection of recurrence.
-> These share only the element. Reading "gallium scan" on a request and assuming a 1970s infection study when the patient is being staged for prostate cancer is a real and avoidable error.
-
-> [!danger] **Do not ignore**
-> - **Delayed imaging means a delayed answer** — Ga-67 requires the patient to return at 48–72 hours, which is why it is impractical in acute illness.
-> - **Radiation dose is significant** and higher than most alternatives.
-> - **Physiological bowel and hepatic uptake** limits abdominal interpretation; normal uptake occurs in liver, spleen, bone marrow, bowel and lacrimal glands.
-> - **Sarcoidosis** patterns (lambda and panda signs) are classic teaching but are not specific, and **serial CT and lung function** now drive management.
-
-**Normal/abnormal:** Reported qualitatively as abnormal focal uptake against the known physiological distribution.
-
-**Alt:** **18F-FDG PET/CT** — the modern replacement for essentially all the historical indications; **labelled white cell scan** for infection where PET is unsuitable; **CT and MRI**; **Tc-99m bone scan** for osteomyelitis; echocardiography and blood cultures for endocarditis; the **Ga-68 PET tracers** above for their specific tumour indications.
-
 ## 0.10 Incisional Biopsy
 
 **D:** Surgical removal of a **representative portion** of a lesion, leaving the remainder in situ. Distinguished from **excisional** biopsy (the whole lesion removed), **punch** biopsy (a small full-thickness cylinder), **core** biopsy (a needle core), and **fine-needle aspiration** (cells only, no architecture).
@@ -375,6 +352,29 @@ Worth understanding because it explains why GP reasoning differs from hospital r
 > [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `0.12 Health Screening (Australian Population Screening Programs)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 > [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `0.13 Low-Dose CT Screening (National Lung Cancer Screening Program)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## 0.9 Gallium Scan
+
+**D:** **Gallium-67 citrate scintigraphy** — a SPECT nuclear medicine study in which Ga-67, an iron analogue that binds transferrin and lactoferrin, localises to sites of infection, inflammation and some tumours. Imaging is delayed, typically **48–72 hours** after injection.
+
+**Ind:** Historically: **pyrexia of unknown origin**, occult infection and abscess, osteomyelitis and discitis, **sarcoidosis** disease activity, interstitial lung disease, and lymphoma staging.
+
+**Role:** **Largely historical.** Sources state plainly that **Ga-67 has been largely replaced by 18F-FDG PET/CT**, which gives earlier imaging, better resolution and quantification (SUV). An intern needs to recognise the name, understand why it was used, and know what has superseded it.
+
+> [!warning] **Do not confuse gallium-67 with the gallium-68 PET tracers, which are contemporary and completely different tests.** Sources distinguish them clearly: **Ga-67 is a SPECT agent**; **Ga-68 is a PET isotope** used to label targeting molecules —
+> - **Ga-68 DOTATATE** targets **somatostatin receptors** — the imaging standard for well-differentiated **neuroendocrine tumours**;
+> - **Ga-68 PSMA** targets prostate-specific membrane antigen — **prostate cancer** staging and detection of recurrence.
+> These share only the element. Reading "gallium scan" on a request and assuming a 1970s infection study when the patient is being staged for prostate cancer is a real and avoidable error.
+
+> [!danger] **Do not ignore**
+> - **Delayed imaging means a delayed answer** — Ga-67 requires the patient to return at 48–72 hours, which is why it is impractical in acute illness.
+> - **Radiation dose is significant** and higher than most alternatives.
+> - **Physiological bowel and hepatic uptake** limits abdominal interpretation; normal uptake occurs in liver, spleen, bone marrow, bowel and lacrimal glands.
+> - **Sarcoidosis** patterns (lambda and panda signs) are classic teaching but are not specific, and **serial CT and lung function** now drive management.
+
+**Normal/abnormal:** Reported qualitatively as abnormal focal uptake against the known physiological distribution.
+
+**Alt:** **18F-FDG PET/CT** — the modern replacement for essentially all the historical indications; **labelled white cell scan** for infection where PET is unsuitable; **CT and MRI**; **Tc-99m bone scan** for osteomyelitis; echocardiography and blood cultures for endocarditis; the **Ga-68 PET tracers** above for their specific tumour indications.
 
 ## 0.14 Genetic Risk Assessment
 
