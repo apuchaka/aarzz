@@ -117,9 +117,9 @@ generated one of each per presentation.
 - [x] **Renal and Urology_merged.md** — done
 - [x] **Endocrine and metabolics_merged.md** — done
 - [x] **Neuro_merged.md** — done. **Contains N1–N8, the whole Corpus B psychiatry set.**
-- [ ] Heme Onc_merged.md  <-- RESUME HERE
+- [x] **Heme Onc_merged.md** — done
+- [ ] Infectious Disease_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Infectious Disease_merged.md
 - [ ] MSK_merged.md
 - [ ] Derm_merged.md
 - [ ] OBGYN_merged.md
