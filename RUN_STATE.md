@@ -116,9 +116,9 @@ generated one of each per presentation.
 - [x] **Resp_merged.md** — done, `_meta/flags/Resp_merged.md`
 - [x] **Renal and Urology_merged.md** — done
 - [x] **Endocrine and metabolics_merged.md** — done
-- [ ] Neuro_merged.md  <-- RESUME HERE
+- [x] **Neuro_merged.md** — done. **Contains N1–N8, the whole Corpus B psychiatry set.**
+- [ ] Heme Onc_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Heme Onc_merged.md
 - [ ] Infectious Disease_merged.md
 - [ ] MSK_merged.md
 - [ ] Derm_merged.md
@@ -154,4 +154,13 @@ generated one of each per presentation.
   read the test* → `Investigation-Interpretation.md`; *what the result means in this disease* →
   system file. "How to work through an ECG" is Investigation-Interpretation; "new AF on ECG in
   thyrotoxicosis" is Endocrine.
-- Alcohol withdrawal split GI §0.6.1 / Neuro §0.1 L4077 + L804 / Psychiatry L917 + L1268 (M-5).
+- Alcohol withdrawal is in **four** places across three files (GI M-5 said three): `GI §0.6.1` ·
+  `N2 §0.1` (in Neuro) · `04_Neurology ### Alcohol Withdrawal Seizures` · `Psychiatry 14a-1`.
+- **BIGGEST STRUCTURAL FINDING: `Neuro_merged.md:3829–5452` holds N1–N8, the entire Corpus B
+  psychiatry set — 1,624 lines, 28% of the file. `Psychiatry_merged.md` has none of it.**
+  8-for-8 mapping onto Psychiatry's Corpus A files. Recommend one move of eight whole sources,
+  **before** any other move, since it changes what the Psychiatry file contains.
+- **CSF would end up in three homes**: `Investigation-Interpretation §1.13` (exists) ·
+  `04_Neurology ### CSF Interpretation` · plus GI M-1 (`## 0.32 CSF Studies`), which the user
+  approved moving **to Neuro**. Recommend redirecting M-1 to Investigation-Interpretation.
+  **Needs a user ruling.**
