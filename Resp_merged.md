@@ -629,30 +629,6 @@ Lower lobe fibrosis due to asbestos exposure (latency 15–30 years, severity re
 
 ---
 
-## 0.20 Pneumoconioses (Occupational Lung Disease — brief overview)
-
-> [!note] Gap-filled from CSV (Respiratory category, Medium yield, "unlikely covered") — covered only implicitly via the upper-zone-fibrosis mnemonic in the IPF section above; no dedicated entry existed. Cross-reference asbestosis above (section under Mesothelioma), which is the most exam-relevant individual pneumoconiosis and already has its own full entry.
-
-**D:** A group of interstitial lung diseases caused by inhalation of specific occupational/environmental dusts, causing a fibrotic tissue reaction.
-
-**R:** occupational exposure — mining (coal, silica-containing rock), sandblasting/stonework/quarrying (silica), asbestos-related trades (see Asbestosis, above) — latency typically many years/decades between exposure and disease.
-
-**Key entities (beyond asbestosis, covered above):**
-- **Coal workers' pneumoconiosis:** from coal dust inhalation; simple form often asymptomatic; progressive massive fibrosis is the severe complicated form.
-- **Silicosis:** from crystalline silica dust (mining, stonework, engineered stone/benchtop cutting — a recognised and increasing cause of severe disease in Australia in recent years); classically causes upper-zone fibrosis with "eggshell calcification" of hilar lymph nodes; increases TB risk substantially.
-
-**S/Smx:** progressive exertional dyspnoea, dry cough, reduced exercise tolerance — often insidious onset over years, may only become symptomatic once fibrosis is well established.
-
-**Ix:** occupational history is central to diagnosis (*why:* the exposure history is often the key diagnostic clue, since imaging/histology alone may not distinguish the specific cause; *what:* identifies the relevant occupational exposure and its duration/intensity). CXR/HRCT (*why:* screens for and characterises the fibrotic pattern; *what:* upper-zone nodular/fibrotic changes, eggshell hilar calcification in silicosis). Spirometry (*why:* quantifies functional impairment; *what:* typically restrictive pattern, though mixed patterns occur with concurrent COPD from shared exposures e.g. coal/silica dust also causing airway disease).
-
-**Mx:**
-- **Definitive (no acute tier — chronic, generally irreversible fibrotic disease):** primarily supportive — no treatment reverses established fibrosis; remove/reduce further exposure is the single most important intervention once diagnosed.
-- **Chronic/long-term:** TB screening/surveillance (silicosis substantially increases TB reactivation risk); pulmonary rehabilitation; monitor for progression to respiratory failure/cor pulmonale; workers' compensation/occupational health referral is often relevant given the occupational causation.
-
-**P:** variable depending on the specific dust and cumulative exposure — ranges from asymptomatic radiological changes to progressive respiratory failure; silicosis in particular has seen a resurgence in Australia linked to engineered stone benchtop manufacturing, prompting recent regulatory changes (a 2024 national prohibition on engineered stone) — worth knowing as a current Australian public health issue.
-
----
-
 ## 0.7 Idiopathic Pulmonary Fibrosis (IPF)
 
 **D:** chronic, life-threatening disease characterised by scar tissue formation within the lungs and increasing SOB.
@@ -708,6 +684,30 @@ Spirometry (*why:* quantifies functional impact and tracks progression; *what:* 
 - **Chronic/long-term:** steroid-sparing immunosuppressants (e.g. methotrexate, azathioprine) considered for steroid-refractory or steroid-dependent disease requiring prolonged treatment; regular monitoring (spirometry, symptoms) even in untreated patients given the possibility of late progression.
 
 **P:** poor prognosis associated with insidious onset, symptoms >6 months, absence of erythema nodosum, extrapulmonary manifestations (e.g. lupus pernio, splenomegaly), CXR stage 3–4, black ethnicity.
+
+---
+
+## 0.20 Pneumoconioses (Occupational Lung Disease — brief overview)
+
+> [!note] Gap-filled from CSV (Respiratory category, Medium yield, "unlikely covered") — covered only implicitly via the upper-zone-fibrosis mnemonic in the IPF section above; no dedicated entry existed. Cross-reference asbestosis above (section under Mesothelioma), which is the most exam-relevant individual pneumoconiosis and already has its own full entry.
+
+**D:** A group of interstitial lung diseases caused by inhalation of specific occupational/environmental dusts, causing a fibrotic tissue reaction.
+
+**R:** occupational exposure — mining (coal, silica-containing rock), sandblasting/stonework/quarrying (silica), asbestos-related trades (see Asbestosis, above) — latency typically many years/decades between exposure and disease.
+
+**Key entities (beyond asbestosis, covered above):**
+- **Coal workers' pneumoconiosis:** from coal dust inhalation; simple form often asymptomatic; progressive massive fibrosis is the severe complicated form.
+- **Silicosis:** from crystalline silica dust (mining, stonework, engineered stone/benchtop cutting — a recognised and increasing cause of severe disease in Australia in recent years); classically causes upper-zone fibrosis with "eggshell calcification" of hilar lymph nodes; increases TB risk substantially.
+
+**S/Smx:** progressive exertional dyspnoea, dry cough, reduced exercise tolerance — often insidious onset over years, may only become symptomatic once fibrosis is well established.
+
+**Ix:** occupational history is central to diagnosis (*why:* the exposure history is often the key diagnostic clue, since imaging/histology alone may not distinguish the specific cause; *what:* identifies the relevant occupational exposure and its duration/intensity). CXR/HRCT (*why:* screens for and characterises the fibrotic pattern; *what:* upper-zone nodular/fibrotic changes, eggshell hilar calcification in silicosis). Spirometry (*why:* quantifies functional impairment; *what:* typically restrictive pattern, though mixed patterns occur with concurrent COPD from shared exposures e.g. coal/silica dust also causing airway disease).
+
+**Mx:**
+- **Definitive (no acute tier — chronic, generally irreversible fibrotic disease):** primarily supportive — no treatment reverses established fibrosis; remove/reduce further exposure is the single most important intervention once diagnosed.
+- **Chronic/long-term:** TB screening/surveillance (silicosis substantially increases TB reactivation risk); pulmonary rehabilitation; monitor for progression to respiratory failure/cor pulmonale; workers' compensation/occupational health referral is often relevant given the occupational causation.
+
+**P:** variable depending on the specific dust and cumulative exposure — ranges from asymptomatic radiological changes to progressive respiratory failure; silicosis in particular has seen a resurgence in Australia linked to engineered stone benchtop manufacturing, prompting recent regulatory changes (a 2024 national prohibition on engineered stone) — worth knowing as a current Australian public health issue.
 
 ---
 
