@@ -62,10 +62,10 @@ both ends instead of a retarget** — that is the correct repair for a reachabil
 ## PROPOSED MOVES
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| Y-1 | `14a-2 Overdose and Poisoning Management` — `§0.1 by agent` · `§0.2 Digoxin` · `§0.3 Salicylate` · `§0.4 TCA` | **1079–1120** | **Emergency** | `Emergency A5 §0.1 The Poisoned Patient`, `§0.2 TCA Overdose`, `F0-1 §0.1`–`§0.8`, `NEW_Drugs_04 Antidotes and Antivenoms`. **Salicylate also duplicates `Endocrine F0-2 §0.8`.** 1 inbound (Examination) |
+| Y-1 | `14a-2 Overdose and Poisoning Management` — `§0.1 by agent` · `§0.2 Digoxin` · `§0.3 Salicylate` · `§0.4 TCA` | **1079–1120** | **Emergency** | `Emergency A5 §0.1 The Poisoned Patient`, `§0.2 TCA Overdose`, `F0-1 §0.1`–`§0.8`, `NEW_Drugs_04 Antidotes and Antivenoms`. **Salicylate also duplicates `Endocrine F0-2 §0.8`.** 1 inbound (Examination) **✅ EXECUTED 2026-09-01 → `Emergency and Crit Care_merged.md` (block 5)** |
 | Y-2 | `## 0.5 Postpartum (Puerperal) Psychosis` | **362** | **OBGYN** | ⚠️ **the other half of OBGYN B-10** (`## Puerperal psychosis`, OBGYN 1481) and `O3 §0.6 Perinatal Mental Health`. **Three homes** |
 | Y-3 | `## Perinatal depression` | 158 | **flag — with Y-2** | same cluster |
-| Y-4 | `## Guardianship — a related but distinct framework` | **900** | **`A10_Ethics__Capacity__Consent_and_Certification`** | guardianship is a capacity framework, not a psychiatric disorder |
+| Y-4 | `## Guardianship — a related but distinct framework` | **900** | **`A10_Ethics__Capacity__Consent_and_Certification`** | guardianship is a capacity framework, not a psychiatric disorder **✅ EXECUTED 2026-09-01 → `A10_Ethics__Capacity__Consent_and_Certification.md` (block 5)** |
 | Y-5 | `14_06b Mental Health Act and Sectioning` (9 sections: involuntary treatment, CTOs, ITOs, SACAT, interstate transfer, safeguards, police, voluntary inpatients) | **855–904** | **flag — `A10` or keep** | **SA-specific mental health law.** Its Corpus B partner `N1 §0.5 Mental Health Legislation in South Australia` **carries a `> [!danger] Verify everything in this section` warning.** Keep the warning with whichever copy survives |
 | Y-6 | `14_07 Attention Deficit Hyperactivity Disorder` | **908–930** | **decide with Paediatrics** | **5 inbound, Paediatrics ×3.** `Pediatrics M7 §0.6 ADHD` (4086) is the partner; `NEW_Drugs_17 §0.5` is the drug half |
 | Y-7 | `## Gambling disorder (gambling-related harms)` | **1045** | **arguable — GP / PH1** | a behavioural-addiction and public-health topic filed under recreational drug profiles |

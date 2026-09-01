@@ -742,3 +742,38 @@ This is the CSV's actual scenario, and the intern's instinct — to ignore it an
 
 > [!note] Cross-references
 > Handover, ISBAR, discharge summaries and open disclosure → [[EBM1]] 0.5–0.6 · Preventive consultation, behaviour change and motivational interviewing → [[GER3]] 0.1, 0.5 · Safeguarding, seeing the person alone and interpreter rules → [[GER4]] · Goals of care, advance care planning and the dying patient → [[GER2]] 0.5–0.6 and [[J5]] 0.4, 0.6 · Consent, capacity and information disclosure → [[A10]] 0.1–0.2 · Cultural safety, gratuitous concurrence and Aboriginal Liaison Officers → [[AU1]] 0.3 · Risk communication and absolute numbers → [[PH1]] 0.4 · Explaining a functional diagnosis → [[N6]] 0.1 · De-escalating the angry or agitated person → [[N1]] 0.4 · Adolescent confidentiality → [[M7]] 0.3 · Diagnosis disclosure in developmental disability → [[M4]] 0.6 · Clinician self-care and having your own GP → [[GER3]] 0.6
+
+---
+
+# 3 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** The adolescent consultation is a communication skill, not a paediatric disease entry.
+
+<!-- ===== SOURCE: M7_Adolescent_and_Behavioural_Health.md ===== -->
+*Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.1 Adolescent Development and the Consultation
+
+> [!tip] Risk-taking is developmental, not a character flaw
+> **The limbic reward system matures EARLIER than the prefrontal cortex responsible for impulse control, planning and consequence appraisal — and that mismatch peaks in mid-adolescence.**
+> **Neurological maturation continues into the mid-twenties.**
+> **This means risk-taking, sensation-seeking, peer-influenced behaviour and poor long-term planning are DEVELOPMENTALLY EXPECTED rather than evidence of a bad character or bad parenting.**
+> **The clinical consequence: moralising does not work, and lecturing an adolescent reliably ends the conversation.** **Harm reduction, concrete short-term framing, and respecting their autonomy work better than warnings about consequences decades away.**
+
+> [!danger] The paradox that defines adolescent health
+> **Adolescents have among the HIGHEST rates of preventable morbidity and mortality — from injury, suicide, substance use, and sexual health — and among the LOWEST rates of healthcare utilisation.**
+> **They present rarely, and often for something else. So the presentation you have is frequently the only opportunity you get.**
+> **Which is the entire argument for doing a psychosocial screen opportunistically, at a visit that was ostensibly about acne or a sports injury.**
+
+> [!warning] How to run the consultation
+> **· SEE THEM ALONE for part of EVERY consultation, from early adolescence onward.**
+> **NORMALISE IT rather than negotiating it: "I see everyone your age on their own for part of the visit — it's just what we do. Mum, would you mind stepping out for ten minutes, and then we'll bring you back in."**
+> **Framing it as routine avoids implying suspicion of either the young person or the parent, and it avoids the parent feeling excluded or the adolescent feeling singled out.**
+> **· ADDRESS THE YOUNG PERSON, not the parent.** Ask them the questions, look at them, and let them answer even when the parent tries to.
+> **· Explain CONFIDENTIALITY and its limits at the start** — see 0.3.
+> **· Use OPEN questions, avoid jargon, and do not attempt to use their slang.** Adolescents detect inauthenticity immediately.
+> **· Ask about STRENGTHS as well as problems** — what they are good at, what they enjoy, who they can talk to. It builds rapport and identifies protective factors.
+> **· Give the information TO THEM, in their own hands** — and check what they have understood.
+> **· Early adolescents think concretely and are focused on the immediate and on peer comparison; older adolescents can think abstractly about the future.** Pitch accordingly.
+
+---

@@ -317,77 +317,11 @@
 
 ---
 
-## Delirium vs Dementia vs Depression — the "3 Ds" in Older People
+> [!note] **Moved to `[[Geriatrics_merged]]` on 2026-09-01:** `Delirium vs Dementia vs Depression — the "3 Ds" in Older People` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] Gap-filled from CSV ("Delirium vs dementia vs depression (differentiating in the elderly)," High yield, Older Persons Health / Geriatrics category). Each of the three conditions was already built — Delirium immediately above, Dementias earlier in this file, and [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Depression (Major depressive disorder) — but the *differential between them* existed only as a one-line tip about serial 7s. Built here rather than in the new Geriatrics file because both structural anchors (Dementias, Delirium) already live in this file, and separating the comparison from the things being compared would make it harder to find, not easier. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition), which carries the same comparison, Aug 2026.
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-This is the single most commonly tested geriatric discriminator, and the single most common source of avoidable harm in an older inpatient — because the default assumption when an older person is confused is usually "dementia", and the answer is usually delirium.
-
-| | **Delirium** | **Dementia** | **Depression** |
-|---|---|---|---|
-| **Onset** | Acute — hours to days, and usually datable | Insidious — months to years, no clear start | Subacute — weeks to months |
-| **Course** | **Fluctuating**, characteristically worse in the evening and at night | Progressive; stable within any given day | Relatively stable day to day, often with diurnal variation (worse in the morning) |
-| **Attention** | **Markedly impaired — this is the cardinal feature** | Preserved until late disease | May be reduced by poor concentration, but the patient can be engaged and redirected |
-| **Level of consciousness** | Altered — drowsy, or hypervigilant | Clear until very late | Clear |
-| **Psychomotor activity** | Hyperactive, **hypoactive**, or mixed | Usually normal early | Retardation, or sometimes agitation |
-| **Perception** | Hallucinations common, characteristically **visual**; fleeting delusions | Possible, especially in Lewy body dementia (see Lewy Body Dementia above) | Uncommon unless psychotic depression |
-| **Sleep–wake cycle** | Disrupted, often reversed | Fragmented | Early morning waking |
-| **The patient's own account** | Cannot sustain attention well enough to give one | Often **minimises or confabulates**; typically unaware of the deficit | **Complains prominently** of poor memory; answers "I don't know" rather than guessing |
-| **Reversibility** | Usually reversible once the precipitant is treated | Not reversible | Treatable |
-
-> [!danger] Three traps, in order of how often they cause harm
-> 1. **Hypoactive delirium mistaken for depression, or dismissed as "just their dementia."** The quiet, withdrawn, drowsy patient is the one who gets missed — and hypoactive delirium carries a *worse* prognosis than the hyperactive form that attracts attention. Being difficult to rouse is not being depressed.
-> 2. **Delirium superimposed on dementia — the commonest scenario of all, not an edge case.** Dementia is the single largest risk factor for delirium. So the two are not alternatives to choose between: **any acute change in cognition or behaviour in a person with known dementia is delirium until proven otherwise**, and needs the precipitant hunt in the Delirium entry above, not a shrug and a note saying "known dementia".
-> 3. **Assuming the three are mutually exclusive.** They coexist frequently — depression is common in early dementia, and both predispose to delirium.
-
-> [!info] **Two of the table's rows are usually memorised when they are actually derivable, and both come from the same mechanism.** Delirium is a global disturbance of the brain's arousal and attentional networks rather than a failure of memory *storage* — which is why **attention is the first and most severely affected domain**, and why memory appears impaired mainly because nothing was attended to well enough to be encoded in the first place. The same network dependence explains the **fluctuation and the evening worsening**: attention is the most effort-dependent cognitive function, so it degrades first as the day's reserve is spent, and it degrades further once the external cues that support orientation — daylight, routine, staff presence, visitors — are withdrawn at night. Sundowning is therefore not a separate phenomenon to remember; it is the same attentional vulnerability under worse conditions.
-
-**The practical bedside discriminators:**
-- **Test attention, not memory.** Attention is what delirium impairs first and most, for the reason above; memory testing is slower and less specific. Serial 7s, months of the year backwards, or digit span will separate delirium from dementia far more efficiently than a full cognitive battery — and the serial-7s point already noted in the Delirium entry above is really this principle in miniature.
-- **Get a collateral history with a timeline.** "How was she two weeks ago?" does more diagnostic work than any bedside test. An acute change over days is delirium; a slow decline over years is dementia; a change over weeks with low mood and anhedonia is depression.
-- **Screening tools are for screening.** The tools in [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS) measure impairment, not its cause — a low MMSE is equally consistent with all three, and in delirium the fluctuating course means a single score can mislead in either direction.
-
-> [!info] **Depressive pseudodementia** — depression in an older person presenting as cognitive impairment, and a genuine diagnostic trap because the cognitive deficits are real, not feigned. Suggestive features: the patient complains of memory loss more than their family does (the reverse of dementia), the onset is relatively abrupt and datable, effort on testing is poor with "I don't know" answers rather than confabulated wrong ones, and low mood and anhedonia are prominent. **The cognitive impairment improves with treatment of the depression** — which is precisely why it must not be labelled dementia and left. The honest caveat: late-life depression can also be an early manifestation of an emerging dementia rather than a purely reversible mimic, so treat the depression and then **reassess cognition once mood has responded**, rather than treating a single improved score as having settled the question permanently.
-
-**Why this matters beyond the diagnosis:** delirium is a marker of acute illness and demands a search for the precipitant (see Delirium above); it also predicts falls, longer admission, functional decline and institutionalisation (see [[18_Geriatrics_and_Older_Persons_Health]] Falls in Older People). Getting the label wrong sends the patient down the wrong pathway entirely — a missed delirium means a missed sepsis, a missed drug effect, or a missed urinary retention.
-
----
-
-## Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS)
-
-> [!note] Gap-filled — genuinely absent from any file despite being one of the classic contrasting-pair topics in medicine (both cause hyperthermia + altered mental status + muscle rigidity from different drug mechanisms, and distinguishing them is a frequently-tested skill), and despite haloperidol/antipsychotic use for delirium being covered immediately above, making NMS a directly relevant differential. Built together as a comparison, in the same spirit as the Warm vs Cold AIHA and Pemphigus vs Bullous Pemphigoid comparisons elsewhere in this project.
-
-Both are toxidromes causing the triad of **hyperthermia, altered mental status, and neuromuscular abnormality** — but with different causative drug classes, timing, and specific neuromuscular findings, which is exactly what makes distinguishing them a classic exam skill.
-
-| | Serotonin syndrome | Neuroleptic malignant syndrome (NMS) |
-|---|---|---|
-| **A/P** | Excess serotonergic activity — typically from combining serotonergic drugs (e.g. an SSRI/SNRI plus an MAOI, tramadol, or another serotonergic agent), or from a single-drug overdose | Dopamine receptor blockade — typically from antipsychotics (both typical and atypical, including haloperidol used for delirium above), or from abrupt withdrawal of a dopaminergic drug (e.g. levodopa in Parkinson's disease) |
-| **Onset** | Rapid — typically within 24h of starting/increasing the causative drug or combination | Slower — typically days, sometimes 1–2 weeks after starting/increasing the causative antipsychotic |
-| **Neuromuscular findings** | **Hyperreflexia and clonus** (particularly lower-limb, and particularly inducible/spontaneous clonus is a relatively specific finding), tremor, myoclonus | **"Lead-pipe" rigidity** (uniform, non-cogwheel rigidity throughout range of motion) with **reduced or normal reflexes** (a genuinely important distinguishing point from serotonin syndrome's hyperreflexia) |
-| **Other features** | Autonomic instability (tachycardia, hypertension, diaphoresis, diarrhoea), agitation/confusion, dilated pupils | Autonomic instability (similar pattern), altered mental status ranging from confusion to stupor, diaphoresis |
-| **Ix** | Clinical diagnosis (Hunter Serotonin Toxicity Criteria are sometimes used) — no specific confirmatory test; bloods may show raised CK if significant rigidity/agitation present, though typically less markedly elevated than in NMS | Clinical diagnosis; **CK is typically markedly elevated** (often >1000, sometimes much higher, reflecting more sustained rigidity) — a useful supporting distinguishing feature from serotonin syndrome's more modest CK elevation; raised WCC is also common, sometimes prompting an incorrect initial diagnosis of infection |
-| **Mx** | **Immediate:** stop the causative drug(s) — the single most important step for both conditions; supportive care (cooling for hyperthermia, IV fluids, benzodiazepines for agitation/to reduce muscle activity and associated hyperthermia). **Definitive:** cyproheptadine (a serotonin antagonist) for moderate-severe cases not responding to supportive care alone. **Course:** typically resolves within 24–72h of stopping the causative drug, given the shorter onset also reflects a shorter, more self-limiting course once the drug is stopped | **Immediate:** stop the causative antipsychotic (or reinstate the dopaminergic drug if NMS was precipitated by abrupt withdrawal) — again the single most important step; supportive care (cooling, IV fluids, benzodiazepines). **Definitive:** dantrolene (a direct-acting skeletal muscle relaxant) or bromocriptine (a dopamine agonist, replacing the blocked dopaminergic tone) for severe cases. **Course:** typically slower to resolve than serotonin syndrome (days to over a week), consistent with its slower onset |
-| **Complications if untreated** | Rhabdomyolysis, DIC, multi-organ failure — both conditions can be fatal if unrecognised and untreated, which is the underlying reason distinguishing and promptly treating either matters | Rhabdomyolysis (often more pronounced given the higher CK), acute kidney injury from myoglobin release, DIC, multi-organ failure |
-
-> [!tip] The reflex/tone pattern is the single most useful bedside discriminator once the trigger-drug history has narrowed the differential: **hyperreflexia and clonus point toward serotonin syndrome; reduced reflexes with lead-pipe rigidity point toward NMS** — genuinely opposite findings despite both conditions sharing the hyperthermia-plus-altered-mental-status-plus-rigidity picture at a glance.
-
----
-
-## Opioid Toxicity
-
-> [!note] Gap-filled — mentioned in passing as a cause of Type II respiratory failure in [[06_Metabolic_Medicine_and_Endocrinology]] and as a naloxone-reversible cause of reduced consciousness in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), but never built as its own entry, despite the extensive opioid content already established in [[10_11c_Oncology_-_Palliative_Care_Prescribing]] (opioid conversion, dosing) that this connects to directly.
-
-- **A/P:** excess opioid receptor agonism (μ-receptor predominantly) causing CNS and respiratory depression — can occur from prescribed opioid accumulation (e.g. in renal impairment, or rapid dose escalation without adequate tolerance), accidental or intentional overdose, or opioid use disorder-related overdose (particularly with illicit opioids of variable/unpredictable potency).
-- **S/Smx — the classic opioid toxidrome triad:** **respiratory depression** (reduced rate and/or depth of breathing — the feature most directly responsible for mortality), **pinpoint (miotic) pupils**, and **reduced conscious level** — the combination of all three is highly suggestive, though any one feature alone has a broader differential. Other features: reduced bowel sounds/constipation, hypotension and bradycardia in severe toxicity, hypothermia.
-- **Ix:** primarily a clinical diagnosis based on the toxidrome above and history/collateral information (empty pill packets, known opioid prescription, drug paraphernalia) — **do not delay treatment (naloxone) to await any test result** in a patient with respiratory depression, given this is a time-critical, reversible cause of death. Blood glucose (*why:* hypoglycaemia is a differential for reduced consciousness and should always be excluded alongside opioid toxicity, per the same general principle in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), not repeated here; *what:* excludes hypoglycaemia as a co-existing or alternative cause). ABG (*why:* confirms and quantifies the respiratory depression/hypercapnia — see [[06_Metabolic_Medicine_and_Endocrinology]] for the Type II respiratory failure pattern this produces, not repeated here; *what:* hypoxaemia with hypercapnia in significant toxicity).
-- **Mx:**
-  - **Immediate/acute:** **naloxone** (IV, IM, subcutaneous, or intranasal depending on setting and access) — a competitive opioid receptor antagonist that rapidly reverses respiratory depression; supportive airway/breathing management (per [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient)) while naloxone takes effect or if inadequately responsive.
-  - **Definitive:** **naloxone's duration of action is often shorter than that of the causative opioid**, particularly long-acting or modified-release opioids — meaning **re-sedation after an initial response is a genuine, well-recognised risk**, and patients require a period of monitoring/observation after naloxone reversal, not single-dose treatment and immediate discharge; repeat naloxone dosing or an infusion may be needed for longer-acting opioids.
-  - **Chronic/long-term:** for opioid use disorder-related overdose specifically, this is an opportunity for harm-reduction discussion and referral (opioid substitution therapy, take-home naloxone programs for the patient/family, drug and alcohol service referral) — genuinely important given overdose survivors remain at high risk of a future, potentially fatal, event without intervention.
-
-> [!tip] Naloxone reversal in a patient physically dependent on opioids can precipitate acute, uncomfortable (though not typically life-threatening) opioid withdrawal — titrate the dose to reverse dangerous respiratory depression rather than to fully "wake the patient up," particularly in a known opioid-dependent patient, to avoid unnecessarily severe precipitated withdrawal while still achieving the safety-critical goal.
-
----
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Opioid Toxicity` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Movement Disorders
 
@@ -767,15 +701,7 @@ Start in a specific area of the brain, typically the temporal lobe; further divi
 
 > [!info] Mx (focal seizures): lamotrigine or levetiracetam first-line; carbamazepine, oxcarbazepine, or zonisamide second-line — these drug class choices are internationally standard, including in Australia; no valproate-specific sex caveat applies here since valproate isn't the first-line choice for focal seizures in the first place.
 
-### Febrile Convulsions
-Children 6 months to 5 years old, ~3% of children; occurs early in a viral infection when temperature rises rapidly; brief, generalised tonic-clonic or tonic.
-
-> [!warning] **This is a one-line definition and was the whole entry.** [[15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus]] Febrile seizures/convulsions owns it, and carries the three things missing here that change what you do:
-> - **Simple vs complex.** A *simple* febrile seizure is generalised, lasts **<15 minutes**, and occurs **once in 24 hours**. Focal onset, duration >15 minutes, or recurrence within 24 hours make it **complex** — which changes the risk and the threshold for investigation.
-> - **Meningitis must be actively excluded** — the fever is the presenting feature of both, and this entry named neither the differential nor the work-up (source of infection, MSU, CXR, ENT swabs; avoid LP in the postictal period).
-> - **Management**, including that a seizure lasting **>5 minutes is treated as status epilepticus** — see Status Epilepticus below in this file.
->
-> Linked and summarised by the G27 round (2026-08-29). Both entries agree on the ~3% incidence and the seizure description.
+> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `Febrile Convulsions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ### Alcohol Withdrawal Seizures
 Peak incidence ~36h after last drink — **one point on a withdrawal timeline, not an isolated event.** **Delirium tremens peaks later, at 48–72h**, and is the phase that carries the mortality, so a patient who has had a withdrawal seizure at 36h is heading into the higher-risk window rather than past it. The full timeline, the CIWA-Ar/AWS severity scoring and the AU-verified regimen are owned by [[03_Gastrointestinal]] Alcohol withdrawal. Carried here by the G21 round (2026-08-29): this entry gave the seizure timing alone.
@@ -972,20 +898,7 @@ Peak incidence ~36h after last drink — **one point on a withdrawal timeline, n
 
 > [!info] Recognised risk factors also include intranasal influenza vaccination and pregnancy (particularly the third trimester and immediate postpartum period, ~3× risk) and diabetes (~5× risk) — an association with COVID-19 has also been noted (see [[02_Respiratory]] Viral pneumonia/pneumonitis (including COVID-19) for the general COVID-19 entry, not repeated here), though the mechanism (as with the broader HSV-reactivation theory) remains incompletely understood.
 
-### Horner's Syndrome
-
-**D:** a clinical triad resulting from disruption of the sympathetic nerve supply to the eye/face, localising to one of three neuron levels along the sympathetic pathway.
-
-**S/Smx (the classic triad, all ipsilateral to the lesion):** partial ptosis (drooping of the upper eyelid — partial, not complete, since sympathetic fibres only supply the accessory levator muscle, unlike the more complete ptosis of a CN III palsy); miosis (constricted pupil, from unopposed parasympathetic activity); anhidrosis (reduced sweating — present or absent depending on which of the three neurons is affected, since sweat fibres to the face branch off at different points along the pathway).
-
-> [!info] Localising by associated features (three-neuron pathway)
-> **1st-order neuron** (hypothalamus → brainstem → spinal cord C8–T2): associated with brainstem/spinal cord pathology (e.g. lateral medullary/Wallenberg syndrome — see the Arterial Territory Syndromes table above) — anhidrosis affects the whole ipsilateral body/face.
-> **2nd-order neuron** (spinal cord → sympathetic chain → superior cervical ganglion, passing near the lung apex and subclavian vessels): associated with **Pancoast tumour** (apical lung cancer — a critical diagnosis not to miss in a smoker presenting with Horner's), brachial plexus trauma, thyroid/neck surgery, central line insertion — anhidrosis affects the face only.
-> **3rd-order neuron** (superior cervical ganglion → along the internal carotid artery → eye): associated with carotid artery dissection (a critical diagnosis in a younger patient with sudden-onset Horner's ± neck pain — see [[01_Cardiovascular]] for carotid-related content), cluster headache (see above), cavernous sinus pathology — anhidrosis is typically absent, since sweat fibres to the face have already branched off before this point.
-
-**Ix:** the priority is identifying the underlying cause given how variable (and sometimes life-threatening) it can be — CXR/CT chest (*why:* screens for Pancoast tumour, a critical and treatable-if-caught-early cause; *what:* apical lung mass). CT/MR angiogram of the neck (*why:* screens for carotid dissection, particularly urgent in a younger patient with acute-onset Horner's and neck pain, given the stroke risk from dissection; *what:* may show an intimal flap or narrowed true lumen). Apraclonidine or cocaine eye drops (*why:* a pharmacological test that can confirm the diagnosis and distinguish Horner's from other causes of anisocoria when the clinical picture is ambiguous; *what:* pupillary response pattern differs between the Horner's-affected and normal eye) — a specialist-ordered test, not routine first-line.
-
-**Mx:** entirely dependent on the underlying cause identified above — Horner's syndrome itself is a sign, not a disease, so Mx targets the causative pathology (e.g. oncological management for Pancoast tumour, urgent anticoagulation/antiplatelet therapy and vascular referral for carotid dissection).
+> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `Horner's Syndrome` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)
 
@@ -3613,53 +3526,7 @@ Prisms or occlusion for persistent diplopia. Strabismus surgery once stable. **D
 
 ---
 
-## 0.4 Speech, Voice and Swallowing
-
-> [!tip] Three different problems that all sound like "trouble talking"
-> **· Dysphasia (aphasia) — a LANGUAGE problem.** The content is wrong. Dominant hemisphere.
-> **· Dysarthria — an ARTICULATION problem.** The language is intact but the production is impaired; **writing is normal.**
-> **· Dysphonia — a VOICE problem.** Volume and quality of phonation; larynx and recurrent laryngeal nerve.
-> **Asking the patient to WRITE a sentence separates dysphasia from dysarthria immediately** — the dysarthric patient writes normally, the dysphasic patient does not.
-
-> [!info] Aphasia types
-> **Broca (expressive, non-fluent)** — effortful, telegraphic, sparse output; **comprehension relatively preserved**, so **the patient knows what they want to say and cannot say it, and is visibly frustrated.** Often with a right hemiparesis.
-> **Wernicke (receptive, fluent)** — fluent, normal rhythm, but full of paraphasias and neologisms — "word salad"; **comprehension is poor and the patient is typically UNAWARE**, which is why they can be mistaken for confused or psychotic.
-> **Conduction aphasia** — fluent, good comprehension, but **repetition is disproportionately impaired.**
-> **Global aphasia** — both expressive and receptive, with large dominant hemisphere lesions.
-
-> [!info] Dysarthria types localise the lesion
-> **· Spastic** — strained, slow, effortful. **Bilateral UMN.**
-> **· Flaccid** — breathy, **nasal**, with weak consonants. **LMN or bulbar.**
-> **· Ataxic** — irregular, **"scanning"**, with variable volume and explosive bursts. **Cerebellar.**
-> **· Hypokinetic** — quiet, monotonous, rapid and festinant, with reduced articulation. **Parkinsonism.**
-> **· Hyperkinetic** — irregular interruptions. Chorea, dystonia.
-
-> [!danger] Bulbar versus pseudobulbar palsy
-> **· Bulbar palsy — LOWER motor neurone.** **Flaccid, wasted, FASCICULATING tongue; absent gag; nasal speech; nasal regurgitation of fluids.** Causes: motor neurone disease, Guillain–Barré, myasthenia, brainstem lesions, poliomyelitis.
-> **· Pseudobulbar palsy — bilateral UPPER motor neurone.** **Small, spastic, immobile tongue with NO fasciculation; BRISK jaw jerk; slow strained speech; and EMOTIONAL LABILITY (pathological laughing and crying) which is characteristic and distressing.** Causes: bilateral strokes, motor neurone disease, multiple sclerosis, extensive small vessel disease.
-> **A fasciculating tongue with brisk reflexes elsewhere is motor neurone disease until proven otherwise.**
-
-> [!warning] Dysphagia — the first question is oropharyngeal or oesophageal
-> **· Oropharyngeal** — **difficulty INITIATING the swallow**, coughing or choking immediately, nasal regurgitation, drooling, recurrent chest infections. **Neurological or muscular.** Cross-refer [[F3]].
-> **· Oesophageal** — **food "sticking" seconds AFTER swallowing**, pointed to at the sternum. **Structural or motility.** Cross-refer [[C6]] 0.3.
-> **Aspiration risk is the acute concern in oropharyngeal dysphagia.** **Nil by mouth pending a swallow screen** in any acute neurological presentation with speech or swallow disturbance — cross-refer [[D3]] 0.1. **Silent aspiration — aspiration without coughing — is common and is precisely why a formal screen is needed rather than watching them sip water.**
-
-> [!danger] Hoarseness lasting more than about three weeks needs laryngoscopy
-> **Persistent hoarseness is laryngeal carcinoma until proven otherwise, particularly in a smoker.** It also indicates recurrent laryngeal nerve palsy — and **the left recurrent laryngeal nerve loops under the aortic arch, so a left vocal cord palsy can be caused by lung cancer, mediastinal disease, an aortic aneurysm, or thyroid or oesophageal malignancy.**
-> **A new hoarse voice is a symptom to investigate, not to treat with reassurance and voice rest.** Cross-refer [[F3]]. `UNVERIFIED — the duration threshold for referral in current Australian guidance.`
-
-**Ix:** **Ask the patient to write** (*why:* separates dysphasia from dysarthria in seconds; *what:* normal writing in dysarthria). Full neurological examination including tongue, palate and gag (*why:* localises bulbar versus pseudobulbar; *what:* fasciculation, wasting, jaw jerk). **Formal swallow screen, then speech pathology assessment** (*why:* prevents aspiration pneumonia, and detects silent aspiration that bedside observation misses; *what:* aspiration risk). **Videofluoroscopy or fibreoptic endoscopic evaluation of swallowing** (*why:* the definitive assessment of oropharyngeal dysphagia and of silent aspiration; *what:* penetration, aspiration, residue). **Flexible nasendoscopy for hoarseness** (*why:* visualises the cords and detects malignancy and palsy; *what:* mass, cord palsy). CT chest and neck for a left vocal cord palsy (*why:* traces the recurrent laryngeal nerve along its course; *what:* lung, mediastinal, thyroid or oesophageal lesion). MRI brain (*why:* stroke, demyelination, brainstem lesion; *what:* structural cause). EMG and nerve conduction studies (*why:* motor neurone disease, myasthenia; *what:* denervation, decrement).
-
-### 0.4.1 Mx – Immediate
-**Nil by mouth pending swallow screen.** Airway protection where bulbar function is severely impaired.
-
-### 0.4.2 Mx – Definitive
-Cause-specific, with speech pathology central to management.
-
-### 0.4.3 Mx – Chronic/long-term
-Speech pathology for both communication and swallowing. Modified diets and fluids. **Communication aids — and the recognition that being unable to communicate is profoundly isolating and is a major cause of low mood after stroke.** Consideration of enteral feeding in progressive disease, ideally discussed in advance as part of advance care planning.
-
----
+> [!note] **Moved to `[[ENT_merged]]` on 2026-09-01:** `0.4 Speech, Voice and Swallowing` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.5 Smell and Taste
 
@@ -4161,3 +4028,73 @@ Eight Neurology topics matched an existing corpus header and were **not built**.
 | **Headache** (T3, not yet built) | `Cluster Headache`, `Tension Headache`, `Medication Overuse Headache`, `Other Headache Causes` (`04_Neurology`) | All four are **specific headache types**. There is no general "approach to headache" header. Flagged for your decision when T3 is reached. |
 | **Coma** (T3, not yet built) | `Glasgow Coma Scale (GCS)`, `Myxoedema Coma` | A scoring tool and a specific endocrine emergency — neither is an approach to coma. |
 | **Cognitive Impairment** (T3, not yet built) | `Mild Cognitive Impairment (MCI)` | MCI is a specific diagnostic entity, not the presentation. |
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** `C-12` (🔻) and `M-1` (CSF) were held — see the report.
+
+<!-- ===== SOURCE: NEW_Drugs_03_Analgesics.md ===== -->
+*Moved here from `Anaes_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.2 Drugs for Migraine
+
+### 0.2.1 Triptans (5-HT₁B/₁D Agonists)
+*(covers build-list classes: Triptans; Triptans (5-HT1B/1D Agonists))*
+
+- **Mechanism:** agonists at **5-HT₁B** (cranial vasoconstriction) and **5-HT₁D/1F** (inhibition of trigeminal nociceptive transmission and of CGRP and other neuropeptide release). They are **migraine-specific acute treatments**, not general analgesics.
+- **Key agents:** **sumatriptan** (oral, **subcutaneous** and intranasal — the subcutaneous route is the fastest and most reliable, and matters in severe attacks and in cluster headache), **rizatriptan, zolmitriptan, naratriptan, eletriptan, almotriptan, frovatriptan**.
+- **Indications:** **acute treatment of moderate-to-severe migraine**, and **cluster headache** (subcutaneous or intranasal sumatriptan, plus high-flow oxygen).
+- **How to use them well — the practical points that determine whether they work:**
+  - **Take early in the attack**, while the pain is still mild — efficacy falls once central sensitisation and allodynia are established.
+  - **If one triptan fails, another may work** — non-response to one does not predict non-response to the class, and switching is a standard step.
+  - **Gastric stasis in migraine impairs oral absorption**; co-administering an antiemetic (metoclopramide, prochlorperazine, domperidone) improves both nausea and drug absorption. Non-oral routes bypass the problem entirely.
+- **Adverse effects:** **"triptan sensations"** — chest, throat, neck and jaw tightness, pressure or heaviness; flushing, paraesthesia, dizziness, drowsiness. These are common, usually benign and **not** typically cardiac — but a first episode of chest tightness needs assessment rather than assumption.
+- **Contraindications:** sources and product labelling agree — **ischaemic heart disease or previous myocardial infarction, coronary vasospasm (Prinzmetal angina), stroke or TIA, peripheral vascular disease, uncontrolled hypertension**, hemiplegic and basilar migraine, and severe hepatic impairment. **The absolute risk of a vascular event is very low** — sources describe roughly 1 in 30,000 initiators — but the contraindications stand.
+
+> [!danger] **Do not give a triptan within 24 hours of an ergot alkaloid, or an ergot within 6 hours of a triptan** — sources state both intervals explicitly. The additive vasoconstriction is the reason.
+
+- **Interactions:** **MAOIs** (sumatriptan, rizatriptan, zolmitriptan are metabolised by MAO-A); **serotonergic drugs** — the risk of serotonin syndrome with SSRIs and SNRIs is described but is now considered low, and is not a reason to withhold a triptan from a patient on an antidepressant without discussion; propranolol raises rizatriptan levels.
+
+> [!danger] **Not every severe headache is a migraine, and triptans do not treat the dangerous causes.** Red flags — **thunderclap onset, first or worst headache, fever with meningism, new headache over 50, focal neurology, papilloedema, immunosuppression or cancer, headache worse lying flat or on waking, pregnancy/postpartum, or a change in a long-standing headache pattern** — require investigation, not an acute migraine treatment. See [[04_Neurology]].
+
+### 0.2.2 Ergot Alkaloids (5-HT Agonists)
+
+- **Key agents:** **ergotamine** (usually with caffeine), **dihydroergotamine**.
+- **Mechanism:** non-selective agonism at serotonin, dopamine and **α-adrenergic** receptors — hence potent and prolonged **vasoconstriction**, which is both the therapeutic effect and the problem.
+- **Role:** **largely superseded by triptans** and now rarely first-line. Retained for occasional patients with long-duration attacks who respond to nothing else.
+- **Adverse effects:** nausea and vomiting (prominent), **peripheral vasoconstriction and ischaemia (ergotism)**, muscle cramps, and **a strong tendency to cause medication overuse headache and rebound**.
+- **Contraindications:** sources list **peripheral vascular disease, coronary artery disease, uncontrolled hypertension, stroke, severe renal or hepatic impairment**, and **pregnancy** (ergot alkaloids are uterotonic and are teratogenic).
+- **Interactions:** **potent CYP3A4 inhibitors — macrolides, azole antifungals, HIV protease inhibitors — can precipitate severe ergotism**; and the triptan spacing rule above.
+
+### 0.2.3 Calcitonin Gene-Related Peptide (CGRP) Antagonists
+*(covers build-list classes: CGRP Antagonists (Monoclonal Antibodies); Calcitonin gene-related peptide antagonists)*
+
+- **Mechanism:** CGRP is a neuropeptide released from trigeminal afferents that is central to migraine pathophysiology. Two drug types block it:
+  - **Monoclonal antibodies** — against the **CGRP ligand** (fremanezumab, galcanezumab, eptinezumab) or the **CGRP receptor** (erenumab). Given by **subcutaneous injection monthly or quarterly** (eptinezumab intravenously).
+  - **Small-molecule receptor antagonists ("gepants")** — oral, used acutely and, for some agents, preventively.
+- **Indications:** **migraine prevention**, in Australia typically after failure of several conventional preventives, with **PBS authority criteria** governing access (chronic migraine, documented failure of prior preventives, and required response for continuation). **Check the current PBS criteria — they change.**
+- **Evidence:** sources report all four monoclonal antibodies are **safe and effective for prevention**, with **no cardiovascular or immunological safety signals in trials**, and note particular value in the **most disabled subgroups — chronic migraine, multiple prior preventive failures, and medication overuse headache**.
+- **Adverse effects:** **injection site reactions** (the commonest), **constipation** (notably with erenumab), hypertension, and hypersensitivity. Long-term safety data are still accumulating — CGRP is a vasodilator with a physiological role, so caution is advised in significant vascular disease despite reassuring trial data.
+- **Practical points:** they are **preventives, not acute treatments** (except the acute gepants); assess response over **about 3 months** before judging them; **avoid in pregnancy** (long half-life; discuss contraception and planning).
+
+### 0.2.4 Other Drugs to Prevent Migraine
+*(covers build-list class: Migraine Therapies (Calcium Channel Blockers))*
+
+- **When to offer prevention:** frequent, disabling or prolonged attacks, poor response to or overuse of acute treatment, or hemiplegic/brainstem-aura migraine. **A headache diary is part of the assessment and of measuring response.**
+- **The conventional classes, all of which are drugs borrowed from other indications:**
+  - **β-blockers — propranolol, metoprolol.** Best evidence, often first choice. **Avoid in asthma**; caution in depression, bradycardia and peripheral vascular disease.
+  - **Tricyclic antidepressants — amitriptyline, nortriptyline.** Particularly useful with **coexisting tension-type headache, insomnia or chronic pain**. Anticholinergic effects, sedation, weight gain, QT prolongation.
+  - **Anticonvulsants — topiramate, sodium valproate.** Topiramate: paraesthesia, cognitive slowing ("word-finding difficulty"), weight loss, renal stones, **acute angle-closure glaucoma**, and **teratogenicity**.
+  - **Calcium channel blockers — verapamil, flunarizine, pizotifen** (a serotonin antagonist grouped here in some references). **Verapamil is first-line for CLUSTER headache prevention** (requiring ECG monitoring for heart block as the dose rises) rather than for migraine, and this distinction is worth holding.
+  - **Candesartan** — an ARB with reasonable evidence in prevention.
+  - **Botulinum toxin type A** — for **chronic migraine** specifically (≥15 headache days per month), under specialist protocol.
+  - **Riboflavin, magnesium, coenzyme Q10** — modest evidence, low harm.
+
+> [!danger] **VALPROATE AND TOPIRAMATE IN PEOPLE WHO CAN BECOME PREGNANT**
+> **Sodium valproate is highly teratogenic** — neural tube defects, other major malformations, and a substantial risk of **neurodevelopmental disorder** — and **must not be used for migraine prevention in anyone who could become pregnant** other than under specialist supervision with a formal pregnancy prevention programme. **Topiramate is also teratogenic** and additionally **reduces the efficacy of combined hormonal contraception at higher doses**. Migraine predominantly affects women of reproductive age, so **this is not an edge case — it is the main population being prescribed to.** Discuss contraception and pregnancy planning explicitly before prescribing either.
+
+> [!danger] **MEDICATION OVERUSE HEADACHE — always ask, because it is the reason the preventives are not working.**
+> Sources give the ICHD definition: **headache on ≥15 days per month for more than 3 months in a patient with a pre-existing primary headache disorder, caused by overuse of acute headache medication.** The thresholds differ by drug class — **simple analgesics** at a higher frequency, and **triptans, ergots, opioids and combination analgesics** at a lower one. Risk factors named include **female sex, psychiatric comorbidity, pre-existing pain and medication use**.
+> **Management** is to **withdraw the overused drug** (with warning that headache worsens transiently), start or optimise a **preventive**, and support the patient through it — CGRP antibodies are noted to be effective in this group. **A patient using acute treatment more than about two days a week needs prevention, not more acute treatment.**

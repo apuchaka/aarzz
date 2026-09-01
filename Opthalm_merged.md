@@ -1728,3 +1728,81 @@ Both skips are T3.
 | **Vision Loss** | `## Causes of Sudden, Sustained Vision Loss` | `05_Ophthalmology.md` | Partial |
 
 > [!note] **The T1 topic `Acute Visual Loss` was built despite the existing `Causes of Sudden, Sustained Vision Loss` header**, because the literal topic string does not appear in any header and the existing entry is a causes list rather than a DDx/Hx/Ex/Ix build. **Expect overlap; decide ownership on review.** The T3 topic `Vision Loss` matches that header directly and was skipped.
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5 executed for this destination.** `N-11` was held — it carries the 🔻 inbound mark.
+
+<!-- ===== SOURCE: NEW_Drugs_01_Allergy_and_Anaphylaxis.md ===== -->
+*Moved here from `Emergency and Crit Care_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.2 Drugs for Allergic and Inflammatory Eye Conditions
+*(covers build-list classes: Corticosteroids (eye), NSAIDs (eye); and the ocular antihistamines from 0.1)*
+
+### 0.2.1 Topical Ocular Antihistamines and Dual-Acting Agents
+
+- **Mechanism:** H₁ antagonism at the conjunctiva; the modern agents are **dual-acting**, combining H₁ blockade (fast symptom relief) with **mast cell stabilisation** (prevention with continued use).
+- **Key agents:** **olopatadine, ketotifen** (dual-acting); levocabastine, azelastine, pheniramine (with a vasoconstrictor in some over-the-counter products).
+- **Indications:** **allergic conjunctivitis** — seasonal and perennial.
+- **Comparative evidence:** sources report **olopatadine and ketotifen have comparable efficacy and tolerability**, with **ketotifen available without prescription and cheaper**, and one meta-analysis finding **less conjunctival hyperaemia with olopatadine** but **no significant difference in itching, tearing or papillae**. In practice they are interchangeable.
+- **Adverse effects:** transient stinging, dryness, headache, taste disturbance.
+- **Caution:** **avoid over-the-counter decongestant/vasoconstrictor eye drops for more than a few days** — they cause **rebound hyperaemia (conjunctivitis medicamentosa)** and a cycle of worsening redness.
+
+### 0.2.2 Topical Ocular Corticosteroids
+
+- **Mechanism:** broad anti-inflammatory action, suppressing the late-phase allergic and inflammatory response.
+- **Key agents:** prednisolone acetate, dexamethasone, fluorometholone, loteprednol (the last two designed to be less pressure-raising).
+- **Indications:** **severe allergic eye disease unresponsive to other agents** (vernal and atopic keratoconjunctivitis), uveitis, post-operative inflammation — **generally under ophthalmological supervision**.
+- **Adverse effects:** **raised intraocular pressure and steroid-induced glaucoma**; **posterior subcapsular cataract**; **impaired corneal healing**; **potentiation of infection**.
+
+> [!danger] **Never start a topical ocular corticosteroid in a red eye without excluding herpes simplex keratitis and without slit-lamp examination.**
+> A steroid applied to a **dendritic herpetic ulcer** causes it to spread — a **geographic ulcer** — and can lead to corneal perforation and permanent visual loss. The same applies to an undiagnosed bacterial or fungal keratitis. **Steroid eye drops are an ophthalmologist's prescription**, and a patient using one needs their intraocular pressure monitored. See [[05_Ophthalmology]].
+
+### 0.2.3 Topical Ocular NSAIDs
+
+- **Mechanism:** cyclo-oxygenase inhibition in ocular tissue, reducing prostaglandin-mediated inflammation, pain and miosis — **without** the intraocular pressure and cataract risks of corticosteroids.
+- **Key agents:** ketorolac, diclofenac, nepafenac, bromfenac.
+- **Indications:** post-operative inflammation and **cystoid macular oedema** prophylaxis after cataract surgery; maintenance of intra-operative mydriasis; **pain relief in corneal abrasion** (short-term); seasonal allergic conjunctivitis as an adjunct.
+- **Adverse effects:** **stinging and burning on instillation**; and the serious one — **corneal melting, ulceration and perforation** with prolonged use, in dry eye, in diabetes, in rheumatoid arthritis and after complicated surgery. Use for the shortest period.
+- **Caution:** as with systemic NSAIDs, avoid in **aspirin-exacerbated respiratory disease** where sensitivity is known; systemic absorption is small but not zero.
+
+## 0.3 Other Drugs for Allergic Eye Conditions
+
+- **Scope:** the agents that are neither antihistamine, corticosteroid nor NSAID — principally **topical mast cell stabilisers** (see 0.4) used specifically in the eye, **ocular lubricants**, and **topical calcineurin inhibitors (ciclosporin)** for severe disease.
+- **Ocular lubricants (artificial tears)** — the most underused intervention in allergic eye disease. They **physically dilute and wash out allergen**, relieve symptoms, and have essentially no adverse effects. **Preservative-free** preparations are preferred where drops are used frequently, because **benzalkonium chloride itself causes ocular surface toxicity** with chronic use. Keeping them **refrigerated** improves symptomatic relief.
+- **Topical ciclosporin** — a calcineurin inhibitor used in **vernal and atopic keratoconjunctivitis** and severe dry eye, as a **steroid-sparing** agent under ophthalmological supervision. Causes stinging on instillation; takes weeks to work.
+- **Non-pharmacological measures matter here more than in most areas:** cool compresses, allergen avoidance, **not rubbing the eyes** (rubbing degranulates mast cells and, in atopic children, is associated with **keratoconus**), and removing contact lenses during a flare.
+
+> [!danger] **Know which red eye is dangerous.** Allergic conjunctivitis is **bilateral, itchy, with watery discharge and no visual loss**. **Pain, photophobia, reduced vision, a fixed or irregular pupil, or a unilateral red eye are NOT allergy** — that is keratitis, uveitis, scleritis or acute angle-closure glaucoma, and it needs same-day ophthalmology. **Itch is the symptom that makes allergy likely; pain and visual loss are the symptoms that exclude it.**
+
+<!-- ===== SOURCE: 11_09b_Ortho_-_Trauma.md ===== -->
+*Moved here from `MSK_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Ocular trauma
+
+- Presents as hyphema (blood in the anterior chamber of the eye), eye pain/swelling, proptosis, "rock hard" eyelids, and a relative afferent pupillary defect (RAPD).
+
+> [!danger] Increased risk of vision loss due to increased intraocular pressure.
+
+- **Mx:** immediate referral to ophthalmology; admit + strict bed rest; urgent lateral canthotomy to decompress the orbit.
+
+
+<!-- ===== SOURCE: 04_Neurology.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+### Horner's Syndrome
+
+**D:** a clinical triad resulting from disruption of the sympathetic nerve supply to the eye/face, localising to one of three neuron levels along the sympathetic pathway.
+
+**S/Smx (the classic triad, all ipsilateral to the lesion):** partial ptosis (drooping of the upper eyelid — partial, not complete, since sympathetic fibres only supply the accessory levator muscle, unlike the more complete ptosis of a CN III palsy); miosis (constricted pupil, from unopposed parasympathetic activity); anhidrosis (reduced sweating — present or absent depending on which of the three neurons is affected, since sweat fibres to the face branch off at different points along the pathway).
+
+> [!info] Localising by associated features (three-neuron pathway)
+> **1st-order neuron** (hypothalamus → brainstem → spinal cord C8–T2): associated with brainstem/spinal cord pathology (e.g. lateral medullary/Wallenberg syndrome — see the Arterial Territory Syndromes table above) — anhidrosis affects the whole ipsilateral body/face.
+> **2nd-order neuron** (spinal cord → sympathetic chain → superior cervical ganglion, passing near the lung apex and subclavian vessels): associated with **Pancoast tumour** (apical lung cancer — a critical diagnosis not to miss in a smoker presenting with Horner's), brachial plexus trauma, thyroid/neck surgery, central line insertion — anhidrosis affects the face only.
+> **3rd-order neuron** (superior cervical ganglion → along the internal carotid artery → eye): associated with carotid artery dissection (a critical diagnosis in a younger patient with sudden-onset Horner's ± neck pain — see [[01_Cardiovascular]] for carotid-related content), cluster headache (see above), cavernous sinus pathology — anhidrosis is typically absent, since sweat fibres to the face have already branched off before this point.
+
+**Ix:** the priority is identifying the underlying cause given how variable (and sometimes life-threatening) it can be — CXR/CT chest (*why:* screens for Pancoast tumour, a critical and treatable-if-caught-early cause; *what:* apical lung mass). CT/MR angiogram of the neck (*why:* screens for carotid dissection, particularly urgent in a younger patient with acute-onset Horner's and neck pain, given the stroke risk from dissection; *what:* may show an intimal flap or narrowed true lumen). Apraclonidine or cocaine eye drops (*why:* a pharmacological test that can confirm the diagnosis and distinguish Horner's from other causes of anisocoria when the clinical picture is ambiguous; *what:* pupillary response pattern differs between the Horner's-affected and normal eye) — a specialist-ordered test, not routine first-line.
+
+**Mx:** entirely dependent on the underlying cause identified above — Horner's syndrome itself is a sign, not a disease, so Mx targets the causative pathology (e.g. oncological management for Pancoast tumour, urgent anticoagulation/antiplatelet therapy and vascular referral for carotid dissection).

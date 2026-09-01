@@ -45,9 +45,9 @@ The other two are drug files. `AN1` is referenced only from outside anaesthetics
 | A-5 | `## 0.6 Group & Hold / Crossmatch` | 232 | **Heme Onc / Investigation-Interpretation** | `Heme 10_08 ## ABO and Rh Compatibility`, `NEW_Inv_Haem ## Immunohematology`. **Three homes** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | A-6 | `## 0.4 Post-Operative Nausea and Vomiting (PONV)` | 172 | **flag — GI owns antiemetics** | `GI C2 §0.5 Antiemetic Selection by Mechanism` (**16 inbound, Anaes ×2**) and `NEW_Drugs_12 §0.2`. **The mechanism table is in GI; the perioperative application is here** — that split is defensible. Flag only |
 | A-7 | `## 0.7 Assessment and Basic Management of Pain` +`.1 assessment` +`.2 management` | 248–300 | **flag** | with `AN1 §0.6 Postoperative Analgesia` (520), `NEW_Drugs_03 §0.4 Drugs for Pain Relief` (942), `Heme 10_11c ## Conversion between opioids` (H-21). **Opioid conversion is in two files** |
-| A-8 | `## 0.1 Drugs for Gout` +`.1 xanthine oxidase inhibitors` +`.2 other` (NEW_Drugs_03) | 820–862 | **MSK** | gout is `MSK 12_02 §0.2`; **nothing to do with analgesia or anaesthesia** beyond the AMH chapter it came from |
-| A-9 | `## 0.2 Drugs for Migraine` +`.1 triptans` +`.2 ergots` +`.3 CGRP` +`.4 prevention` | 863–923 | **Neuro** | migraine is `Neuro ## Migraine` and `D1 §0.3` |
-| A-10 | `## 0.3 Drugs for Opioid Dependence` | 924 | **Psychiatry** | `Psychiatry 14a-1 ## Opioid misuse` +`### acute` +`### long-term` (998–1020) |
+| A-8 | `## 0.1 Drugs for Gout` +`.1 xanthine oxidase inhibitors` +`.2 other` (NEW_Drugs_03) | 820–862 | **MSK** | gout is `MSK 12_02 §0.2`; **nothing to do with analgesia or anaesthesia** beyond the AMH chapter it came from **✅ EXECUTED 2026-09-01 → `MSK_merged.md` (block 5)** |
+| A-9 | `## 0.2 Drugs for Migraine` +`.1 triptans` +`.2 ergots` +`.3 CGRP` +`.4 prevention` | 863–923 | **Neuro** | migraine is `Neuro ## Migraine` and `D1 §0.3` **✅ EXECUTED 2026-09-01 → `Neuro_merged.md` (block 5)** |
+| A-10 | `## 0.3 Drugs for Opioid Dependence` | 924 | **Psychiatry** | `Psychiatry 14a-1 ## Opioid misuse` +`### acute` +`### long-term` (998–1020) **✅ EXECUTED 2026-09-01 → `Psychiatry_merged.md` (block 5)** |
 
 ## KEEP + IN-TEXT FLAG
 - **Inbound flags landing here, from other files' passes:**

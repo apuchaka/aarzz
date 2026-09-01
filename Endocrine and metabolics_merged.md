@@ -3229,59 +3229,11 @@ None — the single topic in this category had no header match.
 > unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
 > still resolves.
 
-## 0.7 G6PD Assay (Glucose-6-Phosphate Dehydrogenase Screen)
+> [!note] **Moved to `[[Heme Onc_merged]]` on 2026-09-01:** `0.7 G6PD Assay (Glucose-6-Phosphate Dehydrogenase Screen)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-**D:** Quantitative enzyme activity assay (or flow-cytometric assay) on red cells.
+> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `0.8 Carnitine Levels (Free and Total Carnitine)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-**Ind:** Unexplained **haemolytic anaemia**, especially episodic and triggered; **neonatal jaundice**, particularly prolonged, severe, or in an at-risk ethnic background; **before prescribing an oxidant drug** — most importantly **primaquine, tafenoquine, dapsone, rasburicase, nitrofurantoin, sulfonamides, methylene blue**; family history.
-
-**Role:** Definitive for the enzyme deficiency, but **the timing of the sample determines whether the answer is true**.
-
-> [!danger] **The false-negative trap, and it is the whole entry.** Sources agree that **the assay can be falsely normal during or immediately after acute haemolysis**, because the G6PD-deficient older red cells have already been destroyed and the surviving population is enriched with **reticulocytes, which have several-fold higher G6PD activity**. **Testing at the time of the haemolytic crisis is therefore the worst time to test.**
-> **The rule: if the assay is normal but the clinical picture fits, repeat it 2–3 months after the acute event**, once the red cell mass has been repopulated with cells of all ages. Sources are consistent on this interval.
-> The same reasoning means **a normal result after recent transfusion is uninterpretable** — you are measuring the donor's cells.
-
-> [!warning] **X-linked inheritance matters for interpretation.** Males are hemizygous and results are usually clear-cut. **Heterozygous females have two red cell populations and can have intermediate or normal-looking enzyme activity while still being clinically susceptible** — sources note the flow-cytometric assay is more reliable than the quantitative assay in women and in anaemic patients for exactly this reason.
-
-**Normal/abnormal:** **Numeric activity thresholds are not stated** — assay-dependent. Interpret with the reticulocyte count and the timing of the episode. A deficient result means **lifelong avoidance advice** — oxidant drugs, **fava beans**, naphthalene (mothballs) — and family testing.
-
-**Alt:** Blood film (**bite cells, blister cells, Heinz bodies** on supravital stain); haemolysis screen (see `NEW_Investigations_Haematology.md`); genetic testing.
-
-## 0.8 Carnitine Levels (Free and Total Carnitine)
-
-**D:** Plasma free and total carnitine, usually interpreted with an **acylcarnitine profile** by tandem mass spectrometry.
-
-**Ind:** Suspected **fatty acid oxidation disorder** or organic acidaemia — hypoketotic hypoglycaemia, unexplained encephalopathy, cardiomyopathy, rhabdomyolysis, sudden unexplained infant death or a sibling with one; abnormal **newborn screening**; long-term valproate or certain other therapy; and secondary carnitine deficiency in renal replacement therapy or severe malnutrition.
-
-**Role:** Part of a **metabolic panel**, not a standalone test. **Interpretation is a metabolic-specialist task** and results are read alongside urine organic acids, plasma amino acids, glucose, ketones, ammonia, lactate and blood gas.
-
-> [!danger] **The critical point is sample timing, not the assay.** In suspected metabolic decompensation, **the diagnostic samples must be taken during the acute illness — before glucose or other treatment is given** — because metabolites normalise rapidly once the patient is treated. **Treatment is never delayed for the samples**; they are taken alongside resuscitation. A "critical sample" protocol exists in most Australian paediatric units — **know where yours is.**
-> **Hypoketotic hypoglycaemia** — hypoglycaemia with inappropriately low ketones — is the pattern that specifically suggests a **fatty acid oxidation disorder** and should trigger the metabolic screen.
-
-> [!warning] **Per CLAUDE.md rule 5, no absolute quantities are stated in this entry.** Reference intervals for carnitine and acylcarnitines are **age-dependent** and differ substantially between neonates, infants and adults; sources note that acylcarnitine profiles differ between preterm and term newborns and that samples are conventionally collected on around the third day of life for newborn screening. **Interpret only against age-appropriate, laboratory-specific ranges, with metabolic specialist input.**
-
-**Normal/abnormal:** Low free carnitine with a raised acyl:free ratio suggests secondary deficiency from accumulating acyl groups. Specific acylcarnitine species point to specific disorders. **A normal profile between episodes does not exclude a disorder.**
-
-**Alt:** Urine organic acids; plasma amino acids (0.9); ammonia, lactate, glucose, ketones and blood gas; genetic testing, which increasingly gives the definitive answer.
-
-## 0.9 Plasma Amino Acid Screen
-
-**D:** Quantitative plasma amino acid profile, usually with urine organic acids and an acylcarnitine profile.
-
-**Ind:** Suspected **inherited metabolic disease** — unexplained neonatal or infant encephalopathy, vomiting, poor feeding, seizures, developmental regression, unexplained metabolic acidosis or hyperammonaemia; abnormal newborn screening; a previously affected sibling; unexplained intellectual disability.
-
-**Role:** Part of the same metabolic panel as 0.8. Sources note that **for an at-risk sibling, urine organic acids, plasma amino acids and acylcarnitine profile are measured immediately in the newborn period in parallel with newborn screening** — rather than waiting for the screening result.
-
-> [!danger] **Hyperammonaemia in a neonate or infant is a metabolic emergency** — urea cycle disorders present this way, and delay causes irreversible neurological injury. **Send ammonia on a free-flowing sample transported immediately on ice**, because a delayed or squeezed sample gives a spuriously high result and a real result gets dismissed as artefact. Stop protein intake, give glucose, and involve the metabolic service immediately.
-
-> [!warning] **Sample conditions change the answer.** Amino acids are ideally taken **fasting or before a feed**, and the **clinical state at the time of sampling must be recorded** — a profile taken when the child is well may be normal in a disorder that only decompensates under catabolic stress.
-> **Per CLAUDE.md rule 5, no absolute quantities are given.** Amino acid reference intervals are strongly **age-dependent** and must be read against neonatal, infant or adult ranges as appropriate.
-
-**Normal/abnormal:** Specific patterns point to specific disorders — raised phenylalanine (PKU), raised branched-chain amino acids (maple syrup urine disease), raised glutamine with low citrulline patterns in urea cycle defects. **Interpretation is specialist.**
-
-**Alt:** Newborn screening card (the Australian programme covers a defined panel); urine organic acids; ammonia, lactate, glucose, ketones; genetic and genomic testing.
-
----
+> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `0.9 Plasma Amino Acid Screen` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Build status of this file
 

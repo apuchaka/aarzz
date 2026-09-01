@@ -1039,23 +1039,7 @@
 - **Mx of Eron Class I & II:** PO flucloxacillin (purulent) or phenoxymethylpenicillin (non-purulent) per the AU-specific distinction above, or clarithromycin/erythromycin (in pregnancy) or doxycycline for penicillin allergy. Class II may need IV treatment, but try to treat in the community.
 - **Mx of Eron Class III/IV:** admit if rapidly deteriorating, <1 year old, immunocompromised, significant lymphoedema, or facial/periorbital involvement. Treatment: IV flucloxacillin or cefazolin first-line, escalating to IV co-amoxiclav, clindamycin, cefuroxime, or ceftriaxone for more serious/broader-spectrum indications per the notes above.
 
-## Mastitis and Breast Abscess
-
-> [!note] Gap-filled from CSV ("Mastitis and breast abscess," High yield) — genuinely absent anywhere in this project despite being a common presentation. Verified against RACGP's "Lactational mastitis and breast abscess" clinical guidance and WA Health/SESLHD lactational mastitis protocols, Aug 2026.
-
-- **D:** an inflammatory condition of the breast, most commonly in the lactational/postpartum context — encompassing a spectrum from simple milk stasis/engorgement (inflammation without infection) through to established infective mastitis and, if untreated or inadequately treated, breast abscess. **Lactational mastitis affects roughly 1 in 5 breastfeeding women** and is a frequent, genuinely important reason women stop breastfeeding — a point worth conveying to patients given continuing to breastfeed through mastitis is both safe and part of effective management, not something that needs to stop.
-- **A/P:** most often begins as non-infective milk stasis (a blocked duct, incomplete drainage) causing localised inflammation; this can progress to infective mastitis if bacteria (typically *S. aureus*) enter via a cracked or damaged nipple — the inflammatory and infective processes exist on a spectrum rather than being two entirely separate conditions, which is why management addresses both drainage and (where infection is present) antibiotics.
-- **R:** cracked/damaged nipples, poor attachment/positioning during feeding, engorgement, infrequent or incomplete feeding/expressing, rapid weaning, external pressure on the breast (tight bra, sleeping position), previous mastitis.
-- **S/Smx:** localised breast pain, redness, and swelling (classically wedge/segmental-shaped, following the distribution of the affected duct system), a palpable tender lump or hardened area, ± fever and systemic symptoms (myalgia, malaise — can mimic influenza, and systemic symptoms don't necessarily mean infection is present, given severe milk stasis alone can also cause them). **Breast abscess** should be suspected when a discrete, fluctuant, persistently tender mass develops, or when symptoms fail to improve despite appropriate mastitis management — genuinely important to actively consider rather than simply escalating the same treatment, since an abscess needs drainage, not just more antibiotics.
-- **Ix:** primarily a clinical diagnosis; routine bloods, cultures, and imaging are **not** required for straightforward mastitis (Australian GP practice data confirms these are rarely performed, and correctly so) — reserve breast ultrasound for suspected abscess (to confirm and guide drainage) or where the diagnosis is unclear; breast milk or nipple swab culture is occasionally useful in recurrent, severe, or treatment-resistant cases, or where MRSA is a concern.
-
-> [!danger] Always keep the differential for inflammatory breast cancer in mind, particularly if symptoms fail to resolve as expected with appropriate treatment — a red, swollen breast that doesn't respond to standard mastitis management (rather than the acute lactational presentation described above) warrants further assessment rather than being assumed to be treatment-resistant mastitis by default.
-
-- **Mx:**
-  - **Immediate/acute:** **continue breastfeeding/effective milk removal** from the affected breast — this is a core, active part of treatment, not something to pause; feed on the affected side first, or hand-express/pump if feeding is too painful, given effective drainage is central to resolving the underlying stasis. Regular analgesia (paracetamol first-line ± NSAIDs, both safe in lactation) — genuinely important given untreated pain itself can inhibit the let-down reflex and worsen stasis. **Cold packs** between/after feeds for pain and inflammation; avoid heat, which can worsen inflammation despite feeling temporarily soothing (a genuinely counterintuitive point worth stating explicitly, since heat is a common but incorrect home remedy).
-  - **Antibiotics — for confirmed or suspected infective mastitis (not required for simple milk stasis without infective features):** flucloxacillin or dicloxacillin (di/flucloxacillin is the most common Australian first-line choice in real-world GP practice), or cefalexin as a common alternative; clindamycin for penicillin allergy. Both first-line agents are safe in breastfeeding. Symptoms should meaningfully improve within 24–48 hours of appropriate treatment — if not, or if the patient is more significantly unwell, escalate assessment (consider ultrasound to exclude abscess, and reconsider the diagnosis, including inflammatory breast cancer per the danger box above).
-  - **Breast abscess:** ultrasound-guided needle aspiration is now generally preferred over surgical incision and drainage where feasible, given comparable efficacy with less scarring/cosmetic impact and less disruption to breastfeeding — surgical drainage remains an option for larger or more complex abscesses, or where aspiration fails. Breastfeeding can generally continue on the affected side once an abscess is being appropriately managed, though this should be individualised with the treating clinician, particularly if drainage affects the ability to feed directly from that breast.
-  - **Chronic/long-term:** address contributing factors (attachment/positioning review, feeding frequency) to prevent recurrence; lactation consultant input is genuinely valuable given how much of the underlying problem (poor drainage, positioning) is addressed through practical feeding support rather than medication alone.
+> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `Mastitis and Breast Abscess` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Lemierre's syndrome
 
@@ -3251,3 +3235,43 @@ Immunotherapy or biologic therapy through a specialist service.
 
 > [!warning] **Two items were added on audit (2026-08-30), and the omission is recorded rather than quietly corrected.**
 > `Campylobacter` and `Clostridium perfringens` are both `[T3]` no-header rows in `data/build_list_investigations.md` and were **missed at first build**. The original status block claimed 21 built and its arithmetic did not reconcile with the build list (27 + 6 CUT ≠ 30 rows). They are now built as **0.22** and **0.23**, and the counts above are corrected. **The gap was found only by re-deriving the row list from the build list and checking each row against the file** — a narrative completeness claim would not have caught it.
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.**
+
+<!-- ===== SOURCE: NEW_Investigations_Gastroenterology.md ===== -->
+*Moved here from `GI_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.35 Rubella / Varicella Serology (Rubella IgG, Varicella IgG)
+
+> [!warning] **Mis-filed in the source list** — an infectious diseases/antenatal screening test, listed under Gastroenterology.
+
+**D:** IgG serology establishing **immunity** (not acute infection) to rubella and varicella-zoster virus.
+
+**Ind:** **Antenatal booking screening**; pre-conception counselling; healthcare worker immunity screening; before immunosuppression or transplant; after significant exposure in a pregnant or immunocompromised person.
+
+**Role:** These are **immunity checks**. Acute infection is diagnosed by **IgM, PCR or clinical picture**, not by IgG.
+
+> [!danger] **Do not ignore**
+> **A non-immune pregnant woman exposed to varicella** — VZV immunoglobulin is time-critical and maternal varicella pneumonitis is dangerous; **the exposure-to-prophylaxis window is not stated here** (Australian guidance egress-blocked). **Rubella infection in the first trimester** causes congenital rubella syndrome. **Rubella and varicella vaccines are live and are contraindicated in pregnancy** — a non-immune woman is vaccinated **postpartum**, and this is the routine action that gets forgotten.
+
+**Normal/abnormal:** IgG positive → immune. IgG negative → susceptible; vaccinate at the appropriate time and counsel about exposure.
+
+**Alt:** PCR and IgM for acute infection; documented vaccination history (though serology is used where records are unavailable).
+
+<!-- ===== SOURCE: 10_09b_Haemonc_-_Miscellaneous_Haematology.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Hereditary angioedema
+`CF-PAIR` **An angioedema entry already exists in this file (`K4 §0.6 Urticaria, Angioedema and Mast Cell Disorders`). Both kept in full — this one is the hereditary complement-mediated disease, that one the mast-cell spectrum.**
+
+- **D:** ↓plasma levels of complement C1 inhibitor protein → uncontrolled release of bradykinin → oedema of tissues. Autosomal dominant.
+- **S/Smx:** painless, non-pruritic swelling of subcutaneous/submucosal tissues (angioedema); may affect the upper airways, skin, or abdominal organs; a painful macular rash may precede an attack; urticaria is rare.
+- **Ix:** ↓C1 inhibitor during attacks; ↓C2 and C4 at all times.
+
+> [!danger] No response to IM adrenaline, antihistamines, or glucocorticoids — hereditary angioedema is not mast-cell/IgE-mediated, so standard anaphylaxis treatment is ineffective.
+
+- **Mx:** IV C1-inhibitor concentrate; FFP if not available.

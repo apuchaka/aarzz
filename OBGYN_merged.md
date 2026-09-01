@@ -1060,21 +1060,7 @@ If mother has primary infection lesions at time of delivery:
 
 ---
 
-## Birth injuries
-
-| Injury | Description |
-|---|---|
-| Moulding (not an injury) | Overriding of skull bones |
-| Cephalhaematoma | Subperiosteal swelling, limited by suture lines, fluctuant; may take weeks to resolve; may contribute to jaundice |
-| Caput succedaneum | Oedematous scalp swelling superficial to periosteum; **not** limited by suture lines; from venous congestion + exuded serum during labour ("chignon" if ventouse-caused); resolves in first few days |
-| Erb's palsy | Brachial trunk nerve damage — flaccid arm/hand in fixed posture; most resolve; exclude fractured clavicle, arrange physio; unlikely to improve further if not resolved by 6 months |
-| Subaponeurotic haematoma | Blood between aponeurosis and periosteum; associated with vacuum extraction; may contribute to anaemia or jaundice |
-| Skull fractures | Associated with difficult forceps delivery or impacted head at 2nd-stage C-section; parietal/frontal bones most affected; check CNS signs → neurosurgery consult |
-| Intracranial injuries | ICH associated with difficult/fast labour, instrumental or breech delivery, especially in premature babies; anoxia may cause intraventricular haemorrhage; asphyxia may cause ICH → cerebral palsy (extradural, subdural, or subarachnoid); supportive Mx |
-| Fetal laceration | 1–2% of C-section deliveries (more common in breech C-section and post-membrane-rupture C-section); most superficial, heal without scarring; warn parents when consenting for C-section |
-
-*See 15.23 for minor neonatal problems.*
-
+> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `Birth injuries` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 16_10-13_Labour_and_Delivery.md ===== -->
 
@@ -5447,3 +5433,59 @@ Specialist paediatric endocrine referral for precocious or pathological delayed 
 **Alt:** Intermittent auscultation (low-risk labour); **ultrasound with umbilical artery Doppler and biophysical profile** for antenatal surveillance; fetal scalp blood sampling; fetal scalp lactate.
 
 ---
+
+---
+
+# 3 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** `Y-2` puerperal psychosis was held — it and `B-10` point at each other in opposite directions.
+
+<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Postpartum Infection and Thromboembolism
+
+> [!warning] FLAG 2026-09-01 — obstetric content inside a thrombophilia source
+> This sits in `10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia`, a file about
+> none of those things. **Puerperal sepsis is obstetric.**
+> `OBGYN_merged 16_14-15 ## Sepsis in the puerperium` is the counterpart. Flagged, not moved.
+
+> [!note] Gap-filled from CSV ("Postpartum infection and Thromboembolism," High yield) — genuinely absent as a standalone topic despite both components (endometritis, VTE risk) being individually high-yield; this entry covers the postpartum-specific presentation and risk factors, cross-referencing the disease-level detail already built elsewhere (DVT/PE Mx above, general sepsis principles in [[08_09_Infectious_Disease_-_Miscellaneous]]) rather than repeating it.
+
+### Postpartum (puerperal) infection
+
+- **A/P:** the postpartum genital tract is a genuinely vulnerable site for infection — placental separation leaves a large raw surface area, and the cervix remains open in the immediate postpartum period; **endometritis** (infection of the uterine lining) is the classic and most common postpartum infection, with polymicrobial aetiology (mixed aerobic and anaerobic vaginal/bowel flora) typical rather than a single causative organism.
+- **R:** Caesarean section (a significantly higher risk than vaginal delivery — the single most important risk factor), prolonged rupture of membranes, prolonged labour, multiple vaginal examinations during labour, retained products of conception, manual placental removal, pre-existing genital tract infection (e.g. untreated Group B Strep colonisation, chorioamnionitis).
+- **S/Smx:** fever (classically within the first 24h–10 days postpartum), uterine tenderness, offensive/heavy lochia (postpartum vaginal discharge), sub-involution of the uterus (failure of the uterus to contract down to its expected size on serial examination); may progress to sepsis if untreated, given the same general sepsis physiology and red flags established in [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis, not repeated here.
+- **Ix:** FBC, CRP, blood cultures if systemically unwell; high vaginal/endocervical swab; pelvic ultrasound if retained products of conception are suspected as a driving cause (given retained tissue is a nidus for ongoing infection that antibiotics alone won't resolve).
+- **Mx:** broad-spectrum antibiotics covering the polymicrobial aetiology above (specific AU regimen not detailed here — check current eTG obstetric/gynaecological infection guidance); evacuation of retained products of conception if identified as the underlying driver, given antibiotics alone are unlikely to succeed while infected tissue remains in the uterus; the same general sepsis escalation principles as [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis apply if the patient is systemically unwell.
+
+### Postpartum venous thromboembolism (VTE)
+
+- **A/P:** pregnancy and the postpartum period are a well-established hypercoagulable state (part of the normal physiological adaptation to reduce haemorrhage risk at delivery, but with the trade-off of increased thrombosis risk) — **the risk is highest in the immediate postpartum period and remains elevated for approximately 6 weeks after delivery**, gradually returning to baseline thereafter; this genuinely elevated, time-limited risk window is the key concept distinguishing postpartum VTE risk assessment from the general population.
+- **R:** Caesarean section (particularly emergency Caesarean), pre-existing thrombophilia (see Factor V Leiden and the broader Thrombophilia section above, not repeated here), obesity, immobility, pre-eclampsia, postpartum haemorrhage requiring transfusion, multiple pregnancy, increasing maternal age, personal or family history of VTE, smoking.
+- **S/Smx:** the same DVT/PE presentation as the general population — see [[01_Cardiovascular]] 0.29 Deep Vein Thrombosis (DVT) and 0.30 Pulmonary Embolism (PE) for the full disease-level S/Smx, Ix, and Mx, not repeated here — though clinical suspicion should be maintained proactively in this population given the elevated background risk, and normal pregnancy/postpartum physiological changes (mild leg swelling, physiological dyspnoea) can make clinical diagnosis genuinely more challenging than in a non-pregnant patient.
+- **Ix:** the same general VTE diagnostic approach as the general population (compression ultrasound for suspected DVT, CTPA or V/Q scan for suspected PE) — D-dimer is **less useful diagnostically in pregnancy and the postpartum period** given it's physiologically elevated in normal pregnancy, reducing its negative-predictive value compared to non-pregnant use — a genuinely important limitation worth knowing rather than applying the same "normal D-dimer excludes VTE" logic used in non-pregnant patients.
+- **Mx:** LMWH is the anticoagulant of choice in pregnancy and postpartum (given its safety profile and lack of placental crossing, relevant if the patient is breastfeeding too) — DOACs and warfarin are generally avoided or used with caution in this population, a genuinely different first-line choice from the general population's DOAC-preferred approach in [[10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets]], not repeated here; risk-based thromboprophylaxis (e.g. for patients with multiple risk factors above, even without a confirmed VTE) is a standard part of postpartum care, with the specific duration and dose guided by individualised risk assessment.
+
+
+<!-- ===== SOURCE: 08_09_Infectious_Disease_-_Miscellaneous.md ===== -->
+*Moved here from `Infectious Disease_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Mastitis and Breast Abscess
+
+> [!note] Gap-filled from CSV ("Mastitis and breast abscess," High yield) — genuinely absent anywhere in this project despite being a common presentation. Verified against RACGP's "Lactational mastitis and breast abscess" clinical guidance and WA Health/SESLHD lactational mastitis protocols, Aug 2026.
+
+- **D:** an inflammatory condition of the breast, most commonly in the lactational/postpartum context — encompassing a spectrum from simple milk stasis/engorgement (inflammation without infection) through to established infective mastitis and, if untreated or inadequately treated, breast abscess. **Lactational mastitis affects roughly 1 in 5 breastfeeding women** and is a frequent, genuinely important reason women stop breastfeeding — a point worth conveying to patients given continuing to breastfeed through mastitis is both safe and part of effective management, not something that needs to stop.
+- **A/P:** most often begins as non-infective milk stasis (a blocked duct, incomplete drainage) causing localised inflammation; this can progress to infective mastitis if bacteria (typically *S. aureus*) enter via a cracked or damaged nipple — the inflammatory and infective processes exist on a spectrum rather than being two entirely separate conditions, which is why management addresses both drainage and (where infection is present) antibiotics.
+- **R:** cracked/damaged nipples, poor attachment/positioning during feeding, engorgement, infrequent or incomplete feeding/expressing, rapid weaning, external pressure on the breast (tight bra, sleeping position), previous mastitis.
+- **S/Smx:** localised breast pain, redness, and swelling (classically wedge/segmental-shaped, following the distribution of the affected duct system), a palpable tender lump or hardened area, ± fever and systemic symptoms (myalgia, malaise — can mimic influenza, and systemic symptoms don't necessarily mean infection is present, given severe milk stasis alone can also cause them). **Breast abscess** should be suspected when a discrete, fluctuant, persistently tender mass develops, or when symptoms fail to improve despite appropriate mastitis management — genuinely important to actively consider rather than simply escalating the same treatment, since an abscess needs drainage, not just more antibiotics.
+- **Ix:** primarily a clinical diagnosis; routine bloods, cultures, and imaging are **not** required for straightforward mastitis (Australian GP practice data confirms these are rarely performed, and correctly so) — reserve breast ultrasound for suspected abscess (to confirm and guide drainage) or where the diagnosis is unclear; breast milk or nipple swab culture is occasionally useful in recurrent, severe, or treatment-resistant cases, or where MRSA is a concern.
+
+> [!danger] Always keep the differential for inflammatory breast cancer in mind, particularly if symptoms fail to resolve as expected with appropriate treatment — a red, swollen breast that doesn't respond to standard mastitis management (rather than the acute lactational presentation described above) warrants further assessment rather than being assumed to be treatment-resistant mastitis by default.
+
+- **Mx:**
+  - **Immediate/acute:** **continue breastfeeding/effective milk removal** from the affected breast — this is a core, active part of treatment, not something to pause; feed on the affected side first, or hand-express/pump if feeding is too painful, given effective drainage is central to resolving the underlying stasis. Regular analgesia (paracetamol first-line ± NSAIDs, both safe in lactation) — genuinely important given untreated pain itself can inhibit the let-down reflex and worsen stasis. **Cold packs** between/after feeds for pain and inflammation; avoid heat, which can worsen inflammation despite feeling temporarily soothing (a genuinely counterintuitive point worth stating explicitly, since heat is a common but incorrect home remedy).
+  - **Antibiotics — for confirmed or suspected infective mastitis (not required for simple milk stasis without infective features):** flucloxacillin or dicloxacillin (di/flucloxacillin is the most common Australian first-line choice in real-world GP practice), or cefalexin as a common alternative; clindamycin for penicillin allergy. Both first-line agents are safe in breastfeeding. Symptoms should meaningfully improve within 24–48 hours of appropriate treatment — if not, or if the patient is more significantly unwell, escalate assessment (consider ultrasound to exclude abscess, and reconsider the diagnosis, including inflammatory breast cancer per the danger box above).
+  - **Breast abscess:** ultrasound-guided needle aspiration is now generally preferred over surgical incision and drainage where feasible, given comparable efficacy with less scarring/cosmetic impact and less disruption to breastfeeding — surgical drainage remains an option for larger or more complex abscesses, or where aspiration fails. Breastfeeding can generally continue on the affected side once an abscess is being appropriately managed, though this should be individualised with the treating clinician, particularly if drainage affects the ability to feed directly from that breast.
+  - **Chronic/long-term:** address contributing factors (attachment/positioning review, feeding frequency) to prevent recurrence; lactation consultant input is genuinely valuable given how much of the underlying problem (poor drainage, positioning) is addressed through practical feeding support rather than medication alone.

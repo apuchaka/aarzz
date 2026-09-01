@@ -71,7 +71,7 @@ GI ×6, ID ×5, Neuro ×4, Paediatrics — i.e. it is already the de facto owner
 | B-12 | `## Male subfertility` | 2492 | **misplaced within OBGYN** | it sits inside `17_05_PID__Endometriosis__Fibroids` — a source about none of those. Belongs with `17_06 Subfertility` (2623) at minimum, or **Renal/Urology**, which owns ED and vasectomy |
 | B-13 | `## Female genital mutilation (FGM)` | 1956 | **arguable — `NEW_Safeguarding_and_Forensic`** | mandatory reporting and legal dimensions. Counter: the clinical management is gynaecological. **Flag** |
 | B-14 | `## Ophthalmia neonatorum` | 825 | **Ophthalmology / Paediatrics** | neonatal conjunctivitis |
-| B-15 | `## Birth injuries` | 1054 | **Paediatrics** | `Pediatrics 15_22b Neonatal Respiratory Distress and Jaundice`, `M3 Neonatal Problems` |
+| B-15 | `## Birth injuries` | 1054 | **Paediatrics** | `Pediatrics 15_22b Neonatal Respiratory Distress and Jaundice`, `M3 Neonatal Problems` **✅ EXECUTED 2026-09-01 → `Pediatrics_merged.md` (block 5)** |
 | B-16 | `## 0.5 Routine Postnatal and Newborn Care` (O3) | 4605 | **flag — Paediatrics** | `Examination.md §1.24 Newborn Examination` already exists |
 | B-17 | `## Urinary incontinence` (17_08) + `## 0.6 Prolapse and Urinary Incontinence` (O5) | 2967, 5123 | **flag — Renal owns it** | `Renal 07 §0.13 Incontinence`, `H2 §0.6 Incontinence`. **Four homes.** Prolapse legitimately stays in OBGYN |
 | B-18 | `## 0.6 Gender Diversity and Puberty` (O6) | 5435 | **flag** | with `NEW_Drugs_16 §0.13.3 Gender-Affirming Hormone Care` (3523) and `16_16-17 ### Transgender and non-binary people` (1937). **Three places** |

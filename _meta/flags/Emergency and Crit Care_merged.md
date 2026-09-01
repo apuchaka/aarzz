@@ -69,7 +69,7 @@ per-kg figure and every injector band survives.**
 | X-8 | `## 0.6 Acute Severe Headache` · `## 0.7 Major Head Injury` · `## 0.8 Minor Head Injury` (F0-5) | 3560–3653 | **flag — Neuro** | `Neuro D1 §0.2 Thunderclap Headache and SAH`, `### Head Injury`, `### Who gets a CT head` (Neuro N-2) |
 | X-9 | `## 0.9 Acute Renal Colic` (F0-5) | 3654 | **flag — Renal** | `Renal 07 §0.15 Urinary Tract Stones`, `H4 §0.4 Renal Colic and Urolithiasis` |
 | X-10 | `## 0.10 Tonsillitis and Peritonsillar Abscess (Quinsy)` (F0-5) | 3689 | **flag — ENT** | `ENT ## Sore throat` +`### Complications of tonsillitis` +`### DDx of unilateral tonsillar enlargement` |
-| X-11 | `## 0.2 Drugs for Allergic and Inflammatory Eye Conditions` · `## 0.3 Other Drugs for Allergic Eye Conditions` (NEW_Drugs_01) | 3776, 3806 | **Ophthalmology** | `Opthalm NEW_Drugs_11_Eye` is the eye-drug file |
+| X-11 | `## 0.2 Drugs for Allergic and Inflammatory Eye Conditions` · `## 0.3 Other Drugs for Allergic Eye Conditions` (NEW_Drugs_01) | 3776, 3806 | **Ophthalmology** | `Opthalm NEW_Drugs_11_Eye` is the eye-drug file **✅ EXECUTED 2026-09-01 → `Opthalm_merged.md` (block 5)** |
 | X-12 | `## 0.4 Corneal and Ocular Foreign Body` (A8) · `## 0.4 Chemical Eye Injury` (A7) | 1938, 1723 | **flag — Ophthalmology** | `Opthalm E1 §0.5 Chemical Injury, Trauma and Foreign Bodies` (1018). See MSK K-21 |
 | X-13 | `## 0.2 Aural Foreign Body` · `## 0.3 Nasal Foreign Body` · `## 0.5 Oropharyngeal Foreign Body` (A8) | 1872–1997 | **flag — ENT** | `ENT:535` explicitly cites the FB content in `13_06b` and `13_02` |
 | X-14 | `## 0.7 Rectal Foreign Body` (A8) | 2032 | **flag — GI** | |

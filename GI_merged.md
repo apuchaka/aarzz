@@ -93,26 +93,7 @@ Patient is systemically well, but can progress to acute cholecystitis. **Mx — 
 
 ---
 
-## 0.4 Ascending Cholangitis
-
-**D:** acute, ascending inflammation of the biliary tree.
-
-**R:** >50yo, gallstones, benign or malignant stricture, post-procedure bile duct injury (e.g. ERCP), history of primary or secondary sclerosing cholangitis
-
-**A:** gallstones stuck in the biliary tree, causing biliary obstruction.
-
-**P:** causes bacterial seeding in the gallbladder + sludge formation → haematogenous spread can lead to sepsis.
-
-**S/Smx:** Charcot's triad — fever, RUQ pain, jaundice / Reynolds' pentad (+ shock, altered mental status)
-
-**Ix:** labs (*why:* supports the diagnosis and assesses severity/sepsis; *what:* ↑inflammatory markers, LFT stasis picture — a cholestatic pattern reflecting the obstructing lesion). US (*why:* first-line imaging, identifies the obstructing stone/stricture and duct dilation; *what:* dilated common bile duct ± visible stone).
-
-**Mx:**
-- **Immediate/acute:** IV antibiotics + resuscitation (sepsis pathway given the risk of rapid deterioration — this is a genuine emergency, not just "cholecystitis with jaundice").
-- **Definitive:** ERCP within 24–48h to relieve the obstruction (sphincterotomy/stone extraction/stent) — this is the source-control step that antibiotics alone cannot substitute for.
-- **Chronic/long-term:** interval cholecystectomy once stabilised if gallstones are the cause, to prevent recurrence.
-
----
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Ascending Cholangitis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.5 Liver Cancers
 
@@ -465,39 +446,7 @@ Hepatitis E — faecal-oral route, especially contaminated water. Usually self-l
 
 ---
 
-## 0.10 Paracetamol Overdose
-
-> [!info] Verified against the 2020 Australian and New Zealand paracetamol poisoning guidelines (Chiew et al., MJA — endorsed by eTG and all Australian/NZ Poisons Information Centres), Aug 2026 — **Australia uses a materially different NAC infusion regimen from the UK's 3-bag "SNAP" protocol** — this is a genuine, clinically important difference, not just terminology. Use the AU 2-bag regimen below.
-
-**Assessment steps:**
-1. Time of overdose
-2. Amount ingested
-3. Weigh patient → ≥40kg vs <40kg (if <40kg, look up local paediatric toxicology resource)
-4. Calculate mg/kg
-
-**Risk factors for hepatotoxicity:** patients taking enzyme-inducing drugs (rifampicin, phenytoin, carbamazepine, chronic alcohol excess, St John's wort), malnourished patients. Acute alcohol intake may be protective.
-
-**Staggered/repeated supratherapeutic overdose:** discuss with the Poisons Information Centre (13 11 26) or a clinical toxicologist — management differs from a single acute ingestion and is not simply "start treatment early" the way the source note implies; see the RCH/ACI algorithms for the specific repeated-supratherapeutic-ingestion pathway.
-
-**Timing-based pathway (paracetamol treatment nomogram, acute immediate-release ingestion with known time):**
-- **<8h:** activated charcoal if presenting within 1–2h and no contraindication; take paracetamol level at (or after) 4h post-ingestion — plot against the nomogram treatment line; start NAC if on/above the line, or immediately (without waiting for the level) if the level won't be available within 8h of ingestion or the patient presents ≥8h post-ingestion.
-- **≥8h or unknown time/modified-release/repeated supratherapeutic ingestion:** discuss with the Poisons Information Centre — these scenarios need individualised management, not the standard nomogram pathway. Note increased risk of liver injury with any delay >8h in starting NAC where indicated.
-- Also start/continue NAC regardless of level if: acute liver injury (ALT >50 U/L) at presentation, or paracetamol level more than double the nomogram line (discuss increased NAC dosing with the Poisons Information Centre for levels ≥2x the line).
-
-> [!info] Two-bag acetylcysteine (NAC) regimen (replaced the old 3-bag regimen in the 2020 AU/NZ update, reducing adverse reactions)
-> - **Bag 1:** 200 mg/kg over 4 hours
-> - **Bag 2:** 100 mg/kg over 16 hours
-> - Total: 300mg/kg over 20 hours (note this total dose matches the old regimen, but the AU infusion structure/duration — 2 bags over 20h — differs from the UK's 3-bag-over-12h "SNAP" structure; don't mix the two protocols)
-> - Repeat ALT ~2h before completion of the infusion in all patients; continue NAC if paracetamol level >10mg/L (66 µmol/L), or ALT is elevated (>50 U/L) and rising.
-> - "NAC" is not an approved abbreviation on Australian charts — write acetylcysteine in full.
-
-**N-acetylcysteine anaphylactoid reaction:** pause infusion; antihistamine (e.g. promethazine or another non-sedating/sedating antihistamine per local protocol); salbutamol nebuliser if bronchospasm; ondansetron for nausea/vomiting; restart treatment (often at a reduced rate) once the patient settled.
-
-### 0.10.1 Liver transplantation criteria (King's College Criteria)
-- Arterial pH <7.3, 24h after ingestion
-- OR PT >100s + serum creatinine >300 µmol/L + grade III or IV encephalopathy
-
----
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.10 Paracetamol Overdose` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.11 Acute Pancreatitis
 
@@ -4250,28 +4199,9 @@ All 11 skips are T3, so none affects Tier 1 completeness.
 
 **Alt:** Full haemolysis screen — reticulocytes, LDH, haptoglobin, bilirubin, blood film.
 
-## 0.34 G-CSF (Granulocyte Colony-Stimulating Factor)
+> [!note] **Moved to `[[Heme Onc_merged]]` on 2026-09-01:** `0.34 G-CSF (Granulocyte Colony-Stimulating Factor)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!warning] **Mis-filed, and mis-categorised as an investigation** — G-CSF is a **drug**, not a test. Recorded here for traceability; the drug-class treatment belongs in the drug files (`Colony stimulating factors`, AMH section 7, `NEW_Drugs_07_Blood_and_Electrolytes.md`).
-
-**Brief note:** granulocyte colony-stimulating factor (filgrastim and analogues) stimulates neutrophil production and is used for chemotherapy-induced neutropenia prophylaxis and treatment, and for stem cell mobilisation. **Common adverse effect: bone pain.** A **serum G-CSF *level*** is not a routine clinical test. **UNRESOLVED — needs review:** confirm whether the build list intended a G-CSF assay or the drug class, and delete from the investigations axis if the latter.
-
-## 0.35 Rubella / Varicella Serology (Rubella IgG, Varicella IgG)
-
-> [!warning] **Mis-filed in the source list** — an infectious diseases/antenatal screening test, listed under Gastroenterology.
-
-**D:** IgG serology establishing **immunity** (not acute infection) to rubella and varicella-zoster virus.
-
-**Ind:** **Antenatal booking screening**; pre-conception counselling; healthcare worker immunity screening; before immunosuppression or transplant; after significant exposure in a pregnant or immunocompromised person.
-
-**Role:** These are **immunity checks**. Acute infection is diagnosed by **IgM, PCR or clinical picture**, not by IgG.
-
-> [!danger] **Do not ignore**
-> **A non-immune pregnant woman exposed to varicella** — VZV immunoglobulin is time-critical and maternal varicella pneumonitis is dangerous; **the exposure-to-prophylaxis window is not stated here** (Australian guidance egress-blocked). **Rubella infection in the first trimester** causes congenital rubella syndrome. **Rubella and varicella vaccines are live and are contraindicated in pregnancy** — a non-immune woman is vaccinated **postpartum**, and this is the routine action that gets forgotten.
-
-**Normal/abnormal:** IgG positive → immune. IgG negative → susceptible; vaccinate at the appropriate time and counsel about exposure.
-
-**Alt:** PCR and IgM for acute infection; documented vaccination history (though serology is used where records are unavailable).
+> [!note] **Moved to `[[Infectious Disease_merged]]` on 2026-09-01:** `0.35 Rubella / Varicella Serology (Rubella IgG, Varicella IgG)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.36 Gastrografin (Water-Soluble Contrast Study)
 
@@ -4322,3 +4252,47 @@ All 11 skips are T3, so none affects Tier 1 completeness.
 **Mis-filed items built as listed, with the mis-filing noted in each:** CSF Studies (neurology) · Coombs/Direct Testing (haematology) · G-CSF (**a drug, not an investigation** — logged `UNRESOLVED — needs review` in 0.33) · Rubella/Varicella Serology (infectious diseases/antenatal).
 
 **Omissions under the sourcing standard, each stated in place:** all LFT reference intervals · FibroScan kPa cut-offs · faecal elastase cut-off · gastrin threshold and PPI washout duration · *H. pylori* post-treatment retest interval · CSF cell-count and glucose-ratio thresholds · VZV immunoglobulin administration window · pH/manometry normative values · all antimicrobial and eradication regimens.
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5 — `M-R1`, approved in your first ruling and executed now.** Dysphagia approach, pharyngeal pouch and globus deliberately STAY in ENT, as you specified.
+
+<!-- ===== SOURCE: 13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology.md ===== -->
+*Moved here from `ENT_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.3 Barrett's oesophagus
+
+> [!warning] FLAG 2026-09-01 — `M-R1` approved for GI, and a stale pointer sits below
+> **`## 0.3 Barrett's oesophagus` and `## 0.4 Oesophageal carcinoma` are approved to move to
+> `GI_merged.md`** — both are taught in the GI block. `## 0.1 Dysphagia — approach`,
+> `## 0.5 Pharyngeal pouch` and `## 0.6 Globus pharyngeus` stay in ENT.
+> **Not yet executed: the move is held pending approval by destination.**
+> ⚠️ **The pointer `*(See also 03.08 for GORD…)*` below is WRONG. `03.08` is not GORD; GORD is
+> `03_Gastrointestinal §0.28`.** It has no wikilink and no filename, so neither `dangling.py` nor
+> `misaimed.py` can see it — **it must be fixed by hand when this section moves.**
+
+- **D:** metaplasia of the lower oesophageal mucosa (columnar epithelium replacing squamous epithelium).
+- **R:** GORD, M>F (7:1), smoking, central obesity.
+- **S/Smx:** GORD symptoms; Barrett's itself is asymptomatic.
+- **Ix:** endoscopy and biopsy required for histological diagnosis.
+
+> [!info] Metaplasia = cell transformation (squamous → columnar). Dysplasia = replacement of mature cells with less mature ones.
+
+*(See also 03.08 for GORD, and when patients get endoscopies for GORD.)*
+
+- **Mx:** high-dose PPI (evidence uncertain). If metaplasia confirmed — endoscopic surveillance with biopsies every 3–5 years. If dysplasia — offer endoscopic interventions, including radiofrequency ablation and endoscopic mucosal resection.
+
+## 0.4 Oesophageal carcinoma
+
+- **D:** neoplastic mucosal lesions, divided into SCC or adenocarcinoma (rarely other kinds).
+
+> [!info] Risk factors by histological subtype
+> - **SCC (upper 2/3):** smoking, alcohol, achalasia, Plummer-Vinson syndrome, ↑nitrosamines.
+> - **Adenocarcinoma (lower 1/3):** GORD, Barrett's oesophagus, smoking, obesity.
+
+> [!danger] Red flag symptoms: dysphagia, anorexia, weight loss, vomiting, odynophagia, hoarseness, melaena, cough.
+
+- **Ix/Dx:** upper GI endoscopy for diagnosis. Endoscopic ultrasound for locoregional staging. CT or PET-CT for initial staging (metastases). Laparoscopy to detect occult peritoneal disease.
+- **Mx:** operable disease — surgical resection (risk of anastomotic leak). Adjuvant chemotherapy. Palliation if not operable.

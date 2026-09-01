@@ -3664,44 +3664,9 @@ Tonsillectomy assessment for recurrent tonsillitis or recurrent quinsy against d
 
 Topical ocular antihistamines are covered with the other drugs for allergic eye conditions in **0.2**, since in practice the useful agents are **dual-acting antihistamine/mast cell stabilisers** and separating them is artificial.
 
-## 0.2 Drugs for Allergic and Inflammatory Eye Conditions
-*(covers build-list classes: Corticosteroids (eye), NSAIDs (eye); and the ocular antihistamines from 0.1)*
+> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.2 Drugs for Allergic and Inflammatory Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-### 0.2.1 Topical Ocular Antihistamines and Dual-Acting Agents
-
-- **Mechanism:** H₁ antagonism at the conjunctiva; the modern agents are **dual-acting**, combining H₁ blockade (fast symptom relief) with **mast cell stabilisation** (prevention with continued use).
-- **Key agents:** **olopatadine, ketotifen** (dual-acting); levocabastine, azelastine, pheniramine (with a vasoconstrictor in some over-the-counter products).
-- **Indications:** **allergic conjunctivitis** — seasonal and perennial.
-- **Comparative evidence:** sources report **olopatadine and ketotifen have comparable efficacy and tolerability**, with **ketotifen available without prescription and cheaper**, and one meta-analysis finding **less conjunctival hyperaemia with olopatadine** but **no significant difference in itching, tearing or papillae**. In practice they are interchangeable.
-- **Adverse effects:** transient stinging, dryness, headache, taste disturbance.
-- **Caution:** **avoid over-the-counter decongestant/vasoconstrictor eye drops for more than a few days** — they cause **rebound hyperaemia (conjunctivitis medicamentosa)** and a cycle of worsening redness.
-
-### 0.2.2 Topical Ocular Corticosteroids
-
-- **Mechanism:** broad anti-inflammatory action, suppressing the late-phase allergic and inflammatory response.
-- **Key agents:** prednisolone acetate, dexamethasone, fluorometholone, loteprednol (the last two designed to be less pressure-raising).
-- **Indications:** **severe allergic eye disease unresponsive to other agents** (vernal and atopic keratoconjunctivitis), uveitis, post-operative inflammation — **generally under ophthalmological supervision**.
-- **Adverse effects:** **raised intraocular pressure and steroid-induced glaucoma**; **posterior subcapsular cataract**; **impaired corneal healing**; **potentiation of infection**.
-
-> [!danger] **Never start a topical ocular corticosteroid in a red eye without excluding herpes simplex keratitis and without slit-lamp examination.**
-> A steroid applied to a **dendritic herpetic ulcer** causes it to spread — a **geographic ulcer** — and can lead to corneal perforation and permanent visual loss. The same applies to an undiagnosed bacterial or fungal keratitis. **Steroid eye drops are an ophthalmologist's prescription**, and a patient using one needs their intraocular pressure monitored. See [[05_Ophthalmology]].
-
-### 0.2.3 Topical Ocular NSAIDs
-
-- **Mechanism:** cyclo-oxygenase inhibition in ocular tissue, reducing prostaglandin-mediated inflammation, pain and miosis — **without** the intraocular pressure and cataract risks of corticosteroids.
-- **Key agents:** ketorolac, diclofenac, nepafenac, bromfenac.
-- **Indications:** post-operative inflammation and **cystoid macular oedema** prophylaxis after cataract surgery; maintenance of intra-operative mydriasis; **pain relief in corneal abrasion** (short-term); seasonal allergic conjunctivitis as an adjunct.
-- **Adverse effects:** **stinging and burning on instillation**; and the serious one — **corneal melting, ulceration and perforation** with prolonged use, in dry eye, in diabetes, in rheumatoid arthritis and after complicated surgery. Use for the shortest period.
-- **Caution:** as with systemic NSAIDs, avoid in **aspirin-exacerbated respiratory disease** where sensitivity is known; systemic absorption is small but not zero.
-
-## 0.3 Other Drugs for Allergic Eye Conditions
-
-- **Scope:** the agents that are neither antihistamine, corticosteroid nor NSAID — principally **topical mast cell stabilisers** (see 0.4) used specifically in the eye, **ocular lubricants**, and **topical calcineurin inhibitors (ciclosporin)** for severe disease.
-- **Ocular lubricants (artificial tears)** — the most underused intervention in allergic eye disease. They **physically dilute and wash out allergen**, relieve symptoms, and have essentially no adverse effects. **Preservative-free** preparations are preferred where drops are used frequently, because **benzalkonium chloride itself causes ocular surface toxicity** with chronic use. Keeping them **refrigerated** improves symptomatic relief.
-- **Topical ciclosporin** — a calcineurin inhibitor used in **vernal and atopic keratoconjunctivitis** and severe dry eye, as a **steroid-sparing** agent under ophthalmological supervision. Causes stinging on instillation; takes weeks to work.
-- **Non-pharmacological measures matter here more than in most areas:** cool compresses, allergen avoidance, **not rubbing the eyes** (rubbing degranulates mast cells and, in atopic children, is associated with **keratoconus**), and removing contact lenses during a flare.
-
-> [!danger] **Know which red eye is dangerous.** Allergic conjunctivitis is **bilateral, itchy, with watery discharge and no visual loss**. **Pain, photophobia, reduced vision, a fixed or irregular pupil, or a unilateral red eye are NOT allergy** — that is keratitis, uveitis, scleritis or acute angle-closure glaucoma, and it needs same-day ophthalmology. **Itch is the symptom that makes allergy likely; pain and visual loss are the symptoms that exclude it.**
+> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.3 Other Drugs for Allergic Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.4 Other Drugs for Allergy
 *(covers build-list class: Mast cell stabilisers)*
@@ -3932,3 +3897,185 @@ The antidotes an intern should be able to name when the poison is identified. **
 | 0.3 | Iron Chelating Agents | CLS | yes | Same content as the subsection — the build list carries both; built once. |
 
 **Rows in file: 8 (3 SUB + 5 CLS). AMH section 4 build-list rows: 8. Section complete.**
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5 executed for this destination.** Seven rows, all with a single named home.
+> **Two of these are deliberate duplicates on your instruction** — `M-8` paracetamol and `M-9`
+> ascending cholangitis — *"Do NOT merge or reconcile them. I want both versions in front of me."*
+> Both carry `CF-PAIR` markers naming the copy already here.
+>
+> **`M-6` abdominal trauma and `K-19` burns were NOT executed** — see the report.
+
+<!-- ===== SOURCE: 03_Gastrointestinal.md ===== -->
+*Moved here from `GI_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.4 Ascending Cholangitis
+`CF-PAIR` **DELIBERATE DUPLICATE, on instruction. Both kept in full, NOT reconciled.**
+
+**D:** acute, ascending inflammation of the biliary tree.
+
+**R:** >50yo, gallstones, benign or malignant stricture, post-procedure bile duct injury (e.g. ERCP), history of primary or secondary sclerosing cholangitis
+
+**A:** gallstones stuck in the biliary tree, causing biliary obstruction.
+
+**P:** causes bacterial seeding in the gallbladder + sludge formation → haematogenous spread can lead to sepsis.
+
+**S/Smx:** Charcot's triad — fever, RUQ pain, jaundice / Reynolds' pentad (+ shock, altered mental status)
+
+**Ix:** labs (*why:* supports the diagnosis and assesses severity/sepsis; *what:* ↑inflammatory markers, LFT stasis picture — a cholestatic pattern reflecting the obstructing lesion). US (*why:* first-line imaging, identifies the obstructing stone/stricture and duct dilation; *what:* dilated common bile duct ± visible stone).
+
+**Mx:**
+- **Immediate/acute:** IV antibiotics + resuscitation (sepsis pathway given the risk of rapid deterioration — this is a genuine emergency, not just "cholecystitis with jaundice").
+- **Definitive:** ERCP within 24–48h to relieve the obstruction (sphincterotomy/stone extraction/stent) — this is the source-control step that antibiotics alone cannot substitute for.
+- **Chronic/long-term:** interval cholecystectomy once stabilised if gallstones are the cause, to prevent recurrence.
+
+---
+
+## 0.10 Paracetamol Overdose
+`CF-PAIR` **DELIBERATE DUPLICATE, on instruction. `A5 §0.1 The Poisoned Patient` is here already. Both kept in full and NOT reconciled — you asked to see both versions.**
+
+> [!info] Verified against the 2020 Australian and New Zealand paracetamol poisoning guidelines (Chiew et al., MJA — endorsed by eTG and all Australian/NZ Poisons Information Centres), Aug 2026 — **Australia uses a materially different NAC infusion regimen from the UK's 3-bag "SNAP" protocol** — this is a genuine, clinically important difference, not just terminology. Use the AU 2-bag regimen below.
+
+**Assessment steps:**
+1. Time of overdose
+2. Amount ingested
+3. Weigh patient → ≥40kg vs <40kg (if <40kg, look up local paediatric toxicology resource)
+4. Calculate mg/kg
+
+**Risk factors for hepatotoxicity:** patients taking enzyme-inducing drugs (rifampicin, phenytoin, carbamazepine, chronic alcohol excess, St John's wort), malnourished patients. Acute alcohol intake may be protective.
+
+**Staggered/repeated supratherapeutic overdose:** discuss with the Poisons Information Centre (13 11 26) or a clinical toxicologist — management differs from a single acute ingestion and is not simply "start treatment early" the way the source note implies; see the RCH/ACI algorithms for the specific repeated-supratherapeutic-ingestion pathway.
+
+**Timing-based pathway (paracetamol treatment nomogram, acute immediate-release ingestion with known time):**
+- **<8h:** activated charcoal if presenting within 1–2h and no contraindication; take paracetamol level at (or after) 4h post-ingestion — plot against the nomogram treatment line; start NAC if on/above the line, or immediately (without waiting for the level) if the level won't be available within 8h of ingestion or the patient presents ≥8h post-ingestion.
+- **≥8h or unknown time/modified-release/repeated supratherapeutic ingestion:** discuss with the Poisons Information Centre — these scenarios need individualised management, not the standard nomogram pathway. Note increased risk of liver injury with any delay >8h in starting NAC where indicated.
+- Also start/continue NAC regardless of level if: acute liver injury (ALT >50 U/L) at presentation, or paracetamol level more than double the nomogram line (discuss increased NAC dosing with the Poisons Information Centre for levels ≥2x the line).
+
+> [!info] Two-bag acetylcysteine (NAC) regimen (replaced the old 3-bag regimen in the 2020 AU/NZ update, reducing adverse reactions)
+> - **Bag 1:** 200 mg/kg over 4 hours
+> - **Bag 2:** 100 mg/kg over 16 hours
+> - Total: 300mg/kg over 20 hours (note this total dose matches the old regimen, but the AU infusion structure/duration — 2 bags over 20h — differs from the UK's 3-bag-over-12h "SNAP" structure; don't mix the two protocols)
+> - Repeat ALT ~2h before completion of the infusion in all patients; continue NAC if paracetamol level >10mg/L (66 µmol/L), or ALT is elevated (>50 U/L) and rising.
+> - "NAC" is not an approved abbreviation on Australian charts — write acetylcysteine in full.
+
+**N-acetylcysteine anaphylactoid reaction:** pause infusion; antihistamine (e.g. promethazine or another non-sedating/sedating antihistamine per local protocol); salbutamol nebuliser if bronchospasm; ondansetron for nausea/vomiting; restart treatment (often at a reduced rate) once the patient settled.
+
+### 0.10.1 Liver transplantation criteria (King's College Criteria)
+- Arterial pH <7.3, 24h after ingestion
+- OR PT >100s + serum creatinine >300 µmol/L + grade III or IV encephalopathy
+
+---
+
+<!-- ===== SOURCE: 04_Neurology.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS)
+
+> [!note] Gap-filled — genuinely absent from any file despite being one of the classic contrasting-pair topics in medicine (both cause hyperthermia + altered mental status + muscle rigidity from different drug mechanisms, and distinguishing them is a frequently-tested skill), and despite haloperidol/antipsychotic use for delirium being covered immediately above, making NMS a directly relevant differential. Built together as a comparison, in the same spirit as the Warm vs Cold AIHA and Pemphigus vs Bullous Pemphigoid comparisons elsewhere in this project.
+
+Both are toxidromes causing the triad of **hyperthermia, altered mental status, and neuromuscular abnormality** — but with different causative drug classes, timing, and specific neuromuscular findings, which is exactly what makes distinguishing them a classic exam skill.
+
+| | Serotonin syndrome | Neuroleptic malignant syndrome (NMS) |
+|---|---|---|
+| **A/P** | Excess serotonergic activity — typically from combining serotonergic drugs (e.g. an SSRI/SNRI plus an MAOI, tramadol, or another serotonergic agent), or from a single-drug overdose | Dopamine receptor blockade — typically from antipsychotics (both typical and atypical, including haloperidol used for delirium above), or from abrupt withdrawal of a dopaminergic drug (e.g. levodopa in Parkinson's disease) |
+| **Onset** | Rapid — typically within 24h of starting/increasing the causative drug or combination | Slower — typically days, sometimes 1–2 weeks after starting/increasing the causative antipsychotic |
+| **Neuromuscular findings** | **Hyperreflexia and clonus** (particularly lower-limb, and particularly inducible/spontaneous clonus is a relatively specific finding), tremor, myoclonus | **"Lead-pipe" rigidity** (uniform, non-cogwheel rigidity throughout range of motion) with **reduced or normal reflexes** (a genuinely important distinguishing point from serotonin syndrome's hyperreflexia) |
+| **Other features** | Autonomic instability (tachycardia, hypertension, diaphoresis, diarrhoea), agitation/confusion, dilated pupils | Autonomic instability (similar pattern), altered mental status ranging from confusion to stupor, diaphoresis |
+| **Ix** | Clinical diagnosis (Hunter Serotonin Toxicity Criteria are sometimes used) — no specific confirmatory test; bloods may show raised CK if significant rigidity/agitation present, though typically less markedly elevated than in NMS | Clinical diagnosis; **CK is typically markedly elevated** (often >1000, sometimes much higher, reflecting more sustained rigidity) — a useful supporting distinguishing feature from serotonin syndrome's more modest CK elevation; raised WCC is also common, sometimes prompting an incorrect initial diagnosis of infection |
+| **Mx** | **Immediate:** stop the causative drug(s) — the single most important step for both conditions; supportive care (cooling for hyperthermia, IV fluids, benzodiazepines for agitation/to reduce muscle activity and associated hyperthermia). **Definitive:** cyproheptadine (a serotonin antagonist) for moderate-severe cases not responding to supportive care alone. **Course:** typically resolves within 24–72h of stopping the causative drug, given the shorter onset also reflects a shorter, more self-limiting course once the drug is stopped | **Immediate:** stop the causative antipsychotic (or reinstate the dopaminergic drug if NMS was precipitated by abrupt withdrawal) — again the single most important step; supportive care (cooling, IV fluids, benzodiazepines). **Definitive:** dantrolene (a direct-acting skeletal muscle relaxant) or bromocriptine (a dopamine agonist, replacing the blocked dopaminergic tone) for severe cases. **Course:** typically slower to resolve than serotonin syndrome (days to over a week), consistent with its slower onset |
+| **Complications if untreated** | Rhabdomyolysis, DIC, multi-organ failure — both conditions can be fatal if unrecognised and untreated, which is the underlying reason distinguishing and promptly treating either matters | Rhabdomyolysis (often more pronounced given the higher CK), acute kidney injury from myoglobin release, DIC, multi-organ failure |
+
+> [!tip] The reflex/tone pattern is the single most useful bedside discriminator once the trigger-drug history has narrowed the differential: **hyperreflexia and clonus point toward serotonin syndrome; reduced reflexes with lead-pipe rigidity point toward NMS** — genuinely opposite findings despite both conditions sharing the hyperthermia-plus-altered-mental-status-plus-rigidity picture at a glance.
+
+---
+
+## Opioid Toxicity
+`CF-PAIR` **A second opioid entry exists in this file. Both kept in full, NOT reconciled — `Psychiatry 14a-1 ## Opioid misuse` is the third, and it already defers to this one for the toxidrome.**
+
+> [!note] Gap-filled — mentioned in passing as a cause of Type II respiratory failure in [[06_Metabolic_Medicine_and_Endocrinology]] and as a naloxone-reversible cause of reduced consciousness in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), but never built as its own entry, despite the extensive opioid content already established in [[10_11c_Oncology_-_Palliative_Care_Prescribing]] (opioid conversion, dosing) that this connects to directly.
+
+- **A/P:** excess opioid receptor agonism (μ-receptor predominantly) causing CNS and respiratory depression — can occur from prescribed opioid accumulation (e.g. in renal impairment, or rapid dose escalation without adequate tolerance), accidental or intentional overdose, or opioid use disorder-related overdose (particularly with illicit opioids of variable/unpredictable potency).
+- **S/Smx — the classic opioid toxidrome triad:** **respiratory depression** (reduced rate and/or depth of breathing — the feature most directly responsible for mortality), **pinpoint (miotic) pupils**, and **reduced conscious level** — the combination of all three is highly suggestive, though any one feature alone has a broader differential. Other features: reduced bowel sounds/constipation, hypotension and bradycardia in severe toxicity, hypothermia.
+- **Ix:** primarily a clinical diagnosis based on the toxidrome above and history/collateral information (empty pill packets, known opioid prescription, drug paraphernalia) — **do not delay treatment (naloxone) to await any test result** in a patient with respiratory depression, given this is a time-critical, reversible cause of death. Blood glucose (*why:* hypoglycaemia is a differential for reduced consciousness and should always be excluded alongside opioid toxicity, per the same general principle in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), not repeated here; *what:* excludes hypoglycaemia as a co-existing or alternative cause). ABG (*why:* confirms and quantifies the respiratory depression/hypercapnia — see [[06_Metabolic_Medicine_and_Endocrinology]] for the Type II respiratory failure pattern this produces, not repeated here; *what:* hypoxaemia with hypercapnia in significant toxicity).
+- **Mx:**
+  - **Immediate/acute:** **naloxone** (IV, IM, subcutaneous, or intranasal depending on setting and access) — a competitive opioid receptor antagonist that rapidly reverses respiratory depression; supportive airway/breathing management (per [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient)) while naloxone takes effect or if inadequately responsive.
+  - **Definitive:** **naloxone's duration of action is often shorter than that of the causative opioid**, particularly long-acting or modified-release opioids — meaning **re-sedation after an initial response is a genuine, well-recognised risk**, and patients require a period of monitoring/observation after naloxone reversal, not single-dose treatment and immediate discharge; repeat naloxone dosing or an infusion may be needed for longer-acting opioids.
+  - **Chronic/long-term:** for opioid use disorder-related overdose specifically, this is an opportunity for harm-reduction discussion and referral (opioid substitution therapy, take-home naloxone programs for the patient/family, drug and alcohol service referral) — genuinely important given overdose survivors remain at high risk of a future, potentially fatal, event without intervention.
+
+> [!tip] Naloxone reversal in a patient physically dependent on opioids can precipitate acute, uncomfortable (though not typically life-threatening) opioid withdrawal — titrate the dose to reverse dangerous respiratory depression rather than to fully "wake the patient up," particularly in a known opioid-dependent patient, to avoid unnecessarily severe precipitated withdrawal while still achieving the safety-critical goal.
+
+---
+
+<!-- ===== SOURCE: 14a-2_Psych_-_Overdose_and_Poisoning_Management.md ===== -->
+*Moved here from `Psychiatry_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.1 Overdose / poisoning — management by agent
+
+| Agent | Management |
+|---|---|
+| **Benzodiazepines** | Antidote: flumazenil. Otherwise, supportive management. |
+| **Beta-blockers** | If HR <40 or unstable: atropine, glucagon. |
+| **Carbon monoxide** | 100% oxygen; hyperbaric oxygen. |
+| **Cyanide** | Hydroxocobalamin (vitamin B12); or combination of amyl nitrite, sodium nitrite, and sodium thiosulfate. |
+| **Digoxin** | Digibind; correct potassium levels and manage arrhythmias. |
+| **Ethylene glycol & methanol** | Fomepizole (inhibits alcohol dehydrogenase); ethanol if fomepizole unavailable; haemodialysis if refractory. |
+| **Heparin** | Protamine sulfate. |
+| **Iron** | Desferrioxamine (iron chelating agent). |
+| **Lead poisoning** | Dimercaprol, calcium edetate. |
+| **Organophosphates (insecticides)** | Atropine ± pralidoxime. |
+| **Paracetamol** | See [[03_Gastrointestinal]] Paracetamol Overdose (N-acetylcysteine, activated charcoal). |
+| **Salicylates (e.g. aspirin)** | IV bicarbonate (urinary alkalinisation); charcoal if presenting early; haemodialysis if severe. |
+| **Tricyclic antidepressants** | IV bicarbonate — ↓risk of seizures and arrhythmias. |
+| **Lithium** | Volume resuscitation (IV fluids); haemodialysis if severe; ± IV sodium bicarbonate. |
+| **Warfarin** | See [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin — management of high INR (Vitamin K, PCC, FFP, etc). |
+
+## 0.2 Digoxin toxicity — detail
+
+- **S/Smx:** generally unwell, anorexia, confusion, yellow-green vision, arrhythmias, gynaecomastia.
+- Toxicity may be precipitated by hypokalaemia (and ↓Mg, ↑Ca, ↑Na, acidosis), renal failure, MI, hypoalbuminaemia, hypothyroidism.
+- **Drug-drug interactions:** quinidine, verapamil, diltiazem, spironolactone, ciclosporin, thiazides, loop diuretics.
+
+## 0.3 Salicylate toxicity — detail
+`CF-PAIR` **`[[Endocrine and metabolics_merged]] F0-2 §0.8 Mixed Acid-Base Disorder — Salicylate Toxicity` covers the same poisoning from the acid-base side. Both kept in full.**
+
+- **S/Smx:** respiratory alkalosis (secondary to hyperventilation), then metabolic acidosis; tinnitus; GI upset/bleeding; seizures; coma.
+
+## 0.4 Tricyclic antidepressant toxicity — detail
+`CF-PAIR` **`A5 §0.2 TCA Overdose` is here already. Both kept in full, NOT reconciled.**
+
+> [!danger] If arrhythmias develop, DO NOT use class 1a and 1c antiarrhythmics; avoid class 3 drugs.
+
+
+> [!note] The Corpus B psychiatry sources arrived here on 2026-09-01
+> **`N1`–`N8` were cut from `Neuro_merged.md:3829–5452` (1,624 lines) and inserted here**, between
+> the Corpus A psychiatry files and the drug files, matching the A → B → NEW ordering used by every
+> other merged file. They map onto the Corpus A files above eight for eight.
+> **The `[[D1]]`–`[[D7]]` wikilinks below still resolve** — they name the source file, which is
+> unchanged — but **36 of them are now cross-file**, pointing into [[Neuro_merged]].
+
+<!-- ===== SOURCE: 10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Lead poisoning
+
+- **S/Smx:** abdominal pain, peripheral neuropathy (mainly motor), neuropsychiatric features, fatigue, constipation; blue lines on the gum margin (20% of adult patients, rare in children).
+- **Ix:** blood lead levels; blood films will show basophilic stippling.
+- **Mx:** chelating agents — DMSA, D-penicillamine, EDTA, dimercaprol.
+
+<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Methaemoglobinaemia
+
+- **D:** Hb which has been oxidised from Fe²⁺ to Fe³⁺, causing tissue hypoxia.
+- **Causes:**
+  - Congenital — HbM, HbH, NADH methaemoglobin reductase deficiency.
+  - Acquired — drugs (sulphonamides, nitrates, dapsone, sodium nitroprusside, primaquine); chemicals (e.g. aniline dyes).
+- **S/Smx:** chocolate brown blood; cyanosis; dyspnoea, anxiety, headache. Severe: acidosis, arrhythmias, seizures, coma.
+
+> [!info] "Refractory hypoxaemia" — pulse oximetry constant at 85%; pO2 on ABG will be falsely normal (the machine cannot differentiate between normal Hb and metHb). A saturation gap should hint towards a haemoglobinopathy.
+
+- **Mx:** ascorbic acid if congenital; IV methylene blue if acquired.

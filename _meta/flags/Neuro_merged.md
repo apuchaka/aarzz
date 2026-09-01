@@ -73,14 +73,14 @@ report should be actioned before this one, because it changes what "the Psychiat
 | N-9 | `## Syncope` + `### Cardiac syncope` + `### Non-cardiac syncope` | 879–919 | **Cardio** | `Cardio B4` is an entire syncope/collapse source (`§0.1 TLoC Framework`, `§0.2 Syncope`, `§0.3 Presyncope`). Syncope is taught cardiac-first |
 | N-10 | `### Seizures vs Syncope` (comparison table) | 823 | **keep, flag** | the discriminator legitimately belongs to whoever owns both. Flag against N-9 |
 | N-11 | `## 0.3 Diplopia and Disorders of Eye Movement` (D7) | 3646 | **Ophthalmology** | **D7 has 8 inbound and 6 are from Opthalm_merged** |
-| N-12 | `### Horner's Syndrome` | 1001 | **Ophthalmology** | ptosis/miosis/anhidrosis; `Derm:2242` already routes *"Horner syndrome and carotid dissection → [[E3]] and [[D5]]"* |
-| N-13 | `## 0.4 Speech, Voice and Swallowing` (D7) | 3704 | **ENT** | dysphonia and dysphagia; ENT owns `## Dysphonia (hoarseness)` and `## 0.4 Oropharyngeal Dysphagia` |
+| N-12 | `### Horner's Syndrome` | 1001 | **Ophthalmology** | ptosis/miosis/anhidrosis; `Derm:2242` already routes *"Horner syndrome and carotid dissection → [[E3]] and [[D5]]"* **✅ EXECUTED 2026-09-01 → `Opthalm_merged.md` (block 5)** |
+| N-13 | `## 0.4 Speech, Voice and Swallowing` (D7) | 3704 | **ENT** | dysphonia and dysphagia; ENT owns `## Dysphonia (hoarseness)` and `## 0.4 Oropharyngeal Dysphagia` **✅ EXECUTED 2026-09-01 → `ENT_merged.md` (block 5)** |
 | N-14 | `## 0.5 Smell and Taste` (D7) | 3752 | **arguable — ENT** | ENT owns nose and sinus. Counter-argument in its own text: *"hyposmia is an early feature of neurodegenerative disease"* |
 | N-15 | `### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` | 1016 | **decide with ENT** | ENT owns BPPV, Ménière's, vestibular neuronitis, labyrinthitis as full entries. **D5 has 21 inbound, ENT ×6 — the largest external referrer** |
-| N-16 | `## Serotonin Syndrome and NMS` | 356 | **Emergency** | Emergency owns `A6 §0.3 Hyperthermia versus Fever, and the Drug-Induced Hyperthermias` and the toxidrome framework |
-| N-17 | `## Opioid Toxicity` | 376 | **Emergency** | Emergency owns `F0-1 §0.5 Opioid-Induced Respiratory Depression` |
-| N-18 | `### Febrile Convulsions` | 794 | **Paediatrics** | Paediatrics owns `15_12a Epilepsy Syndromes and Status Epilepticus` |
-| N-19 | `## Delirium vs Dementia vs Depression — the "3 Ds" in Older People` | 320 | **Geriatrics** | **self-declares** it was gap-filled from the *"Older Persons Health / Geriatrics category"* |
+| N-16 | `## Serotonin Syndrome and NMS` | 356 | **Emergency** | Emergency owns `A6 §0.3 Hyperthermia versus Fever, and the Drug-Induced Hyperthermias` and the toxidrome framework **✅ EXECUTED 2026-09-01 → `Emergency and Crit Care_merged.md` (block 5)** |
+| N-17 | `## Opioid Toxicity` | 376 | **Emergency** | Emergency owns `F0-1 §0.5 Opioid-Induced Respiratory Depression` **✅ EXECUTED 2026-09-01 → `Emergency and Crit Care_merged.md` (block 5)** |
+| N-18 | `### Febrile Convulsions` | 794 | **Paediatrics** | Paediatrics owns `15_12a Epilepsy Syndromes and Status Epilepticus` **✅ EXECUTED 2026-09-01 → `Pediatrics_merged.md` (block 5)** |
+| N-19 | `## Delirium vs Dementia vs Depression — the "3 Ds" in Older People` | 320 | **Geriatrics** | **self-declares** it was gap-filled from the *"Older Persons Health / Geriatrics category"* **✅ EXECUTED 2026-09-01 → `Geriatrics_merged.md` (block 5)** |
 | N-20 | `### Cauda Equina Syndrome` · `### Malignant Spinal Cord Compression` | 1559, 1582 | **arguable — MSK/spinal** | MSK owns `11_06 Spinal Orthopaedics`; both present as back pain. **Counter: both are neurosurgical emergencies.** Decide with MSK |
 | N-21 | `### Neurofibromatosis` · `### Tuberous Sclerosis` | 1691, 1709 | **arguable — Derm/genetics** | neurocutaneous; Paediatrics owns the microdeletion/genetic syndromes |
 | N-22 | `### Subacute Combined Degeneration of the Spinal Cord` | 1614 | **flag only** | B₁₂ deficiency; Heme Onc owns pernicious anaemia. Neurological presentation justifies staying |

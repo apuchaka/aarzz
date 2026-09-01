@@ -40,13 +40,13 @@ Sources: 11 · headings 352 (132 are `Mx – Immediate/Definitive/Chronic` boile
 |---|---|---|---|---|
 | M-1 | `## 0.32 CSF Studies (β-transferrin)` | 4180 | GI → **Neuro** | self-declared misfile |
 | M-2 | `## 0.33 Coombs / DAT-IAT` | 4197 | GI → **Heme Onc** | self-declared misfile |
-| M-3 | `## 0.34 G-CSF` | 4211 | GI → **NEW_Drugs_07** | a drug, not a test; carries live `UNRESOLVED` marker |
-| M-4 | `## 0.35 Rubella / Varicella Serology` | 4217 | GI → **Infectious Disease** | self-declared misfile |
-| M-R1 | `## 0.3 Barrett's oesophagus`, `## 0.4 Oesophageal carcinoma` | ENT 653, 666 | **ENT → GI** | Dysphagia approach, pharyngeal pouch, globus **STAY in ENT** |
+| M-3 | `## 0.34 G-CSF` | 4211 | GI → **NEW_Drugs_07** | a drug, not a test; carries live `UNRESOLVED` marker **✅ EXECUTED 2026-09-01 → `Heme Onc_merged.md` (block 5)** |
+| M-4 | `## 0.35 Rubella / Varicella Serology` | 4217 | GI → **Infectious Disease** | self-declared misfile **✅ EXECUTED 2026-09-01 → `Infectious Disease_merged.md` (block 5)** |
+| M-R1 | `## 0.3 Barrett's oesophagus`, `## 0.4 Oesophageal carcinoma` | ENT 653, 666 | **ENT → GI** | Dysphagia approach, pharyngeal pouch, globus **STAY in ENT** **✅ EXECUTED 2026-09-01 → `GI_merged.md (from ENT)` (block 5)** |
 | M-6 | `## 0.10 Abdominal Trauma` | 1789 | GI → **Emergency** | user accepts it stays orphaned there; `FAST` appears 1× in Emergency |
 | M-7 | examination half of `## 0.2 Assessment, Peritonism…` | 1532–1557 | GI → **Examination.md §1.9** | **`**Ix — the core panel**` para at L1558 STAYS in GI** |
-| M-8 | `## 0.10 Paracetamol Overdose` + `### 0.10.1 King's College` | 459 | GI → **Emergency** | **deliberate duplicate — do NOT merge with Emergency §0.6** |
-| M-9 | `## 0.4 Ascending Cholangitis` | 96 | GI → **Emergency** | **deliberate duplicate — do NOT merge with Emergency §0.11** |
+| M-8 | `## 0.10 Paracetamol Overdose` + `### 0.10.1 King's College` | 459 | GI → **Emergency** | **deliberate duplicate — do NOT merge with Emergency §0.6** **✅ EXECUTED 2026-09-01 → `Emergency and Crit Care_merged.md` (block 5)** |
+| M-9 | `## 0.4 Ascending Cholangitis` | 96 | GI → **Emergency** | **deliberate duplicate — do NOT merge with Emergency §0.11** **✅ EXECUTED 2026-09-01 → `Emergency and Crit Care_merged.md` (block 5)** |
 | M-16 | `**Focused Hx:**` + `**Examination:**` blocks of `## Acute Abdominal Pain` and `## Upper GI Bleeding` | 3684–3688, 3715–3717 | GI → **History-Taking.md / Examination.md** | leave pointers |
 
 ### Carry with M-8 / M-9

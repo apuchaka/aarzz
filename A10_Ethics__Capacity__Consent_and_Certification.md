@@ -498,3 +498,50 @@ The relationship: the Advance Care Directive **informs** the goals-of-care docum
 > [!warning] Common errors: writing "not for escalation" without saying what the ceiling actually is; setting a ceiling on the basis of age alone; treating the decision as permanent when the patient's trajectory has changed; and — the most consequential — allowing a DNACPR order to silently become a ceiling on active treatment that nobody ever actually decided. Where the frail patient's overall picture is the reason for the discussion, see [[18_Geriatrics_and_Older_Persons_Health]] Frailty for the reserve assessment that should inform it.
 
 ---
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** Both are capacity/consent frameworks that were sitting in disease files.
+> `Y-4`'s own text says it is the **Guardianship and Administration Act 1993 (SA)** operating
+> *"instead of or alongside the Mental Health Act"* — a capacity framework, not a psychiatric one.
+
+<!-- ===== SOURCE: M7_Adolescent_and_Behavioural_Health.md ===== -->
+*Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.3 Confidentiality, Consent and the Mature Minor
+`CF-PAIR` **Part 1 `## Consent and children` (from `Clinical-Process-EBM`, C4) covers the same ground. Both kept in full, NOT reconciled.**
+
+> [!danger] Confidentiality is the single biggest barrier to adolescents seeking care
+> **Young people consistently report that fear of parents finding out prevents them from seeking help — for mental health, sexual health and substance use.**
+> **So the confidentiality conversation is not a formality; it determines whether you get a truthful history.**
+> **A usable script, delivered at the start and to both the young person and the parent:**
+> **"What we talk about in here is private, and I won't share it with your parents without your say-so. The exception is if I'm worried that you or someone else is at serious risk of being hurt — then I'd need to involve someone else to keep you safe. And if that happens, I'll tell you first and we'll work out together how to do it."**
+> **The last sentence matters: adolescents fear loss of control more than disclosure itself, and promising to involve them in the process makes disclosure more likely.**
+> **NEVER PROMISE ABSOLUTE CONFIDENTIALITY**, because you cannot deliver it, and breaking it later destroys the relationship and their trust in health services generally.
+
+> [!warning] Capacity, the mature minor, and the limits
+> **Capacity is DECISION-SPECIFIC and depends on the young person's understanding, not their age alone.** **A "mature minor" who understands the nature and consequences of a proposed treatment may consent to it themselves.**
+> **South Australia has SPECIFIC STATUTORY PROVISIONS governing consent by minors, which differ from the common law position in other states.**
+> **`UNVERIFIED — the SA provisions, the relevant ages, and the requirements (including any requirement for a second practitioner's opinion). Verify against the Consent to Medical Treatment and Palliative Care Act 1995 (SA) and SA Health policy. Do NOT apply another jurisdiction's rules.`**
+> Cross-refer [[A10]] 0.1.
+> **PARENTAL INVOLVEMENT SHOULD BE ENCOURAGED, NOT COMPELLED.** **In most situations, involving a supportive parent produces better outcomes — and part of the clinical work is helping the young person find a way to tell them, rather than either forcing disclosure or colluding in secrecy.**
+> **Ask: "who could you tell about this?" and "what would help you talk to your mum about it?"**
+
+> [!danger] What overrides confidentiality
+> **· MANDATORY REPORTING of suspected child abuse or neglect — which applies to doctors and is a legal obligation, not a discretionary judgement.**
+> **· Risk of serious harm to the young person or to others.**
+> **· Specific legal provisions regarding sexual activity involving young people below defined ages, or involving significant age gaps or a position of power or authority.**
+> **`UNVERIFIED — the SA mandatory reporting requirements, the ages, and the specific provisions relating to sexual activity. These are legal obligations and must be confirmed.`**
+> Cross-refer [[GER4]].
+> **Where a report must be made, tell the young person, explain why, and support them through it wherever it is safe to do so.**
+
+---
+
+<!-- ===== SOURCE: 14_06b_Psych_-_Mental_Health_Act_and_Sectioning.md ===== -->
+*Moved here from `Psychiatry_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Guardianship — a related but distinct framework
+
+Where a person is unable to manage their own health, safety, or welfare more broadly (not specifically limited to a mental illness needing treatment), the **Guardianship and Administration Act 1993 (SA)** may apply instead of or alongside the Mental Health Act — see [[Clinical-Process-EBM-Consent-Capacity]] for the general capacity/substitute decision-maker framework this connects to, not repeated here. The two Acts serve genuinely different purposes and aren't interchangeable — the Mental Health Act is specifically about treatment for mental illness; guardianship is broader welfare decision-making.

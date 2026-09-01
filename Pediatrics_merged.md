@@ -3882,31 +3882,7 @@
 
 ---
 
-## 0.1 Adolescent Development and the Consultation
-
-> [!tip] Risk-taking is developmental, not a character flaw
-> **The limbic reward system matures EARLIER than the prefrontal cortex responsible for impulse control, planning and consequence appraisal — and that mismatch peaks in mid-adolescence.**
-> **Neurological maturation continues into the mid-twenties.**
-> **This means risk-taking, sensation-seeking, peer-influenced behaviour and poor long-term planning are DEVELOPMENTALLY EXPECTED rather than evidence of a bad character or bad parenting.**
-> **The clinical consequence: moralising does not work, and lecturing an adolescent reliably ends the conversation.** **Harm reduction, concrete short-term framing, and respecting their autonomy work better than warnings about consequences decades away.**
-
-> [!danger] The paradox that defines adolescent health
-> **Adolescents have among the HIGHEST rates of preventable morbidity and mortality — from injury, suicide, substance use, and sexual health — and among the LOWEST rates of healthcare utilisation.**
-> **They present rarely, and often for something else. So the presentation you have is frequently the only opportunity you get.**
-> **Which is the entire argument for doing a psychosocial screen opportunistically, at a visit that was ostensibly about acne or a sports injury.**
-
-> [!warning] How to run the consultation
-> **· SEE THEM ALONE for part of EVERY consultation, from early adolescence onward.**
-> **NORMALISE IT rather than negotiating it: "I see everyone your age on their own for part of the visit — it's just what we do. Mum, would you mind stepping out for ten minutes, and then we'll bring you back in."**
-> **Framing it as routine avoids implying suspicion of either the young person or the parent, and it avoids the parent feeling excluded or the adolescent feeling singled out.**
-> **· ADDRESS THE YOUNG PERSON, not the parent.** Ask them the questions, look at them, and let them answer even when the parent tries to.
-> **· Explain CONFIDENTIALITY and its limits at the start** — see 0.3.
-> **· Use OPEN questions, avoid jargon, and do not attempt to use their slang.** Adolescents detect inauthenticity immediately.
-> **· Ask about STRENGTHS as well as problems** — what they are good at, what they enjoy, who they can talk to. It builds rapport and identifies protective factors.
-> **· Give the information TO THEM, in their own hands** — and check what they have understood.
-> **· Early adolescents think concretely and are focused on the immediate and on peer comparison; older adolescents can think abstractly about the future.** Pitch accordingly.
-
----
+> [!note] **Moved to `[[Communication]]` on 2026-09-01:** `0.1 Adolescent Development and the Consultation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 > [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
@@ -3916,33 +3892,7 @@
 > `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
-## 0.3 Confidentiality, Consent and the Mature Minor
-
-> [!danger] Confidentiality is the single biggest barrier to adolescents seeking care
-> **Young people consistently report that fear of parents finding out prevents them from seeking help — for mental health, sexual health and substance use.**
-> **So the confidentiality conversation is not a formality; it determines whether you get a truthful history.**
-> **A usable script, delivered at the start and to both the young person and the parent:**
-> **"What we talk about in here is private, and I won't share it with your parents without your say-so. The exception is if I'm worried that you or someone else is at serious risk of being hurt — then I'd need to involve someone else to keep you safe. And if that happens, I'll tell you first and we'll work out together how to do it."**
-> **The last sentence matters: adolescents fear loss of control more than disclosure itself, and promising to involve them in the process makes disclosure more likely.**
-> **NEVER PROMISE ABSOLUTE CONFIDENTIALITY**, because you cannot deliver it, and breaking it later destroys the relationship and their trust in health services generally.
-
-> [!warning] Capacity, the mature minor, and the limits
-> **Capacity is DECISION-SPECIFIC and depends on the young person's understanding, not their age alone.** **A "mature minor" who understands the nature and consequences of a proposed treatment may consent to it themselves.**
-> **South Australia has SPECIFIC STATUTORY PROVISIONS governing consent by minors, which differ from the common law position in other states.**
-> **`UNVERIFIED — the SA provisions, the relevant ages, and the requirements (including any requirement for a second practitioner's opinion). Verify against the Consent to Medical Treatment and Palliative Care Act 1995 (SA) and SA Health policy. Do NOT apply another jurisdiction's rules.`**
-> Cross-refer [[A10]] 0.1.
-> **PARENTAL INVOLVEMENT SHOULD BE ENCOURAGED, NOT COMPELLED.** **In most situations, involving a supportive parent produces better outcomes — and part of the clinical work is helping the young person find a way to tell them, rather than either forcing disclosure or colluding in secrecy.**
-> **Ask: "who could you tell about this?" and "what would help you talk to your mum about it?"**
-
-> [!danger] What overrides confidentiality
-> **· MANDATORY REPORTING of suspected child abuse or neglect — which applies to doctors and is a legal obligation, not a discretionary judgement.**
-> **· Risk of serious harm to the young person or to others.**
-> **· Specific legal provisions regarding sexual activity involving young people below defined ages, or involving significant age gaps or a position of power or authority.**
-> **`UNVERIFIED — the SA mandatory reporting requirements, the ages, and the specific provisions relating to sexual activity. These are legal obligations and must be confirmed.`**
-> Cross-refer [[GER4]].
-> **Where a report must be made, tell the young person, explain why, and support them through it wherever it is safe to do so.**
-
----
+> [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `0.3 Confidentiality, Consent and the Mature Minor` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.4 Common Adolescent Health Issues
 
@@ -4064,3 +4014,79 @@
 
 > [!note] Cross-references
 > The seriously unwell child → [[M1]] · Growth, puberty, autism and developmental assessment → [[M4]] · Paediatric abdominal pain and functional pain → [[M5]] 0.1 · Absence epilepsy and paediatric neurology → [[M6]] 0.6 · CHILD PROTECTION AND MANDATORY REPORTING → [[GER4]] · Capacity, consent and the mature minor → [[A10]] 0.1 · Risk assessment, self-harm and suicidality → [[N1]] 0.2–0.3 · Substance use and vaping → [[N2]] · Mood and anxiety disorders → [[N4]] and [[N5]] · Trauma-informed practice → [[N5]] 0.5 · Somatic symptom and functional disorders → [[N6]] 0.2 · Sleep phase delay and OSA in children → [[N7]] 0.3, 0.6 and [[RESP-X]] 0.5 · Eating disorders, ARFID and body image in boys → [[N8]] · Contraception, LARC, STIs and gender diversity → [[O6]] · Functional hypothalamic amenorrhoea and RED-S → [[O4]] 0.4 and [[L5]] 0.7 · Type 1 diabetes and insulin omission → [[I2]] 0.3 · Preventive health and immunisation → [[GER3]] · Aboriginal and Torres Strait Islander youth health → [[AU1]] 0.4
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5 executed for this destination.**
+
+<!-- ===== SOURCE: NEW_Investigations_Endocrine.md ===== -->
+*Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.8 Carnitine Levels (Free and Total Carnitine)
+
+**D:** Plasma free and total carnitine, usually interpreted with an **acylcarnitine profile** by tandem mass spectrometry.
+
+**Ind:** Suspected **fatty acid oxidation disorder** or organic acidaemia — hypoketotic hypoglycaemia, unexplained encephalopathy, cardiomyopathy, rhabdomyolysis, sudden unexplained infant death or a sibling with one; abnormal **newborn screening**; long-term valproate or certain other therapy; and secondary carnitine deficiency in renal replacement therapy or severe malnutrition.
+
+**Role:** Part of a **metabolic panel**, not a standalone test. **Interpretation is a metabolic-specialist task** and results are read alongside urine organic acids, plasma amino acids, glucose, ketones, ammonia, lactate and blood gas.
+
+> [!danger] **The critical point is sample timing, not the assay.** In suspected metabolic decompensation, **the diagnostic samples must be taken during the acute illness — before glucose or other treatment is given** — because metabolites normalise rapidly once the patient is treated. **Treatment is never delayed for the samples**; they are taken alongside resuscitation. A "critical sample" protocol exists in most Australian paediatric units — **know where yours is.**
+> **Hypoketotic hypoglycaemia** — hypoglycaemia with inappropriately low ketones — is the pattern that specifically suggests a **fatty acid oxidation disorder** and should trigger the metabolic screen.
+
+> [!warning] **Per CLAUDE.md rule 5, no absolute quantities are stated in this entry.** Reference intervals for carnitine and acylcarnitines are **age-dependent** and differ substantially between neonates, infants and adults; sources note that acylcarnitine profiles differ between preterm and term newborns and that samples are conventionally collected on around the third day of life for newborn screening. **Interpret only against age-appropriate, laboratory-specific ranges, with metabolic specialist input.**
+
+**Normal/abnormal:** Low free carnitine with a raised acyl:free ratio suggests secondary deficiency from accumulating acyl groups. Specific acylcarnitine species point to specific disorders. **A normal profile between episodes does not exclude a disorder.**
+
+**Alt:** Urine organic acids; plasma amino acids (0.9); ammonia, lactate, glucose, ketones and blood gas; genetic testing, which increasingly gives the definitive answer.
+
+## 0.9 Plasma Amino Acid Screen
+
+**D:** Quantitative plasma amino acid profile, usually with urine organic acids and an acylcarnitine profile.
+
+**Ind:** Suspected **inherited metabolic disease** — unexplained neonatal or infant encephalopathy, vomiting, poor feeding, seizures, developmental regression, unexplained metabolic acidosis or hyperammonaemia; abnormal newborn screening; a previously affected sibling; unexplained intellectual disability.
+
+**Role:** Part of the same metabolic panel as 0.8. Sources note that **for an at-risk sibling, urine organic acids, plasma amino acids and acylcarnitine profile are measured immediately in the newborn period in parallel with newborn screening** — rather than waiting for the screening result.
+
+> [!danger] **Hyperammonaemia in a neonate or infant is a metabolic emergency** — urea cycle disorders present this way, and delay causes irreversible neurological injury. **Send ammonia on a free-flowing sample transported immediately on ice**, because a delayed or squeezed sample gives a spuriously high result and a real result gets dismissed as artefact. Stop protein intake, give glucose, and involve the metabolic service immediately.
+
+> [!warning] **Sample conditions change the answer.** Amino acids are ideally taken **fasting or before a feed**, and the **clinical state at the time of sampling must be recorded** — a profile taken when the child is well may be normal in a disorder that only decompensates under catabolic stress.
+> **Per CLAUDE.md rule 5, no absolute quantities are given.** Amino acid reference intervals are strongly **age-dependent** and must be read against neonatal, infant or adult ranges as appropriate.
+
+**Normal/abnormal:** Specific patterns point to specific disorders — raised phenylalanine (PKU), raised branched-chain amino acids (maple syrup urine disease), raised glutamine with low citrulline patterns in urea cycle defects. **Interpretation is specialist.**
+
+**Alt:** Newborn screening card (the Australian programme covers a defined panel); urine organic acids; ammonia, lactate, glucose, ketones; genetic and genomic testing.
+
+---
+
+<!-- ===== SOURCE: 04_Neurology.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+### Febrile Convulsions
+Children 6 months to 5 years old, ~3% of children; occurs early in a viral infection when temperature rises rapidly; brief, generalised tonic-clonic or tonic.
+
+> [!warning] **This is a one-line definition and was the whole entry.** [[15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus]] Febrile seizures/convulsions owns it, and carries the three things missing here that change what you do:
+> - **Simple vs complex.** A *simple* febrile seizure is generalised, lasts **<15 minutes**, and occurs **once in 24 hours**. Focal onset, duration >15 minutes, or recurrence within 24 hours make it **complex** — which changes the risk and the threshold for investigation.
+> - **Meningitis must be actively excluded** — the fever is the presenting feature of both, and this entry named neither the differential nor the work-up (source of infection, MSU, CXR, ENT swabs; avoid LP in the postictal period).
+> - **Management**, including that a seizure lasting **>5 minutes is treated as status epilepticus** — see Status Epilepticus below in this file.
+>
+> Linked and summarised by the G27 round (2026-08-29). Both entries agree on the ~3% incidence and the seizure description.
+
+<!-- ===== SOURCE: 16_08-09_Antenatal_and_Perinatal_Problems.md ===== -->
+*Moved here from `OBGYN_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Birth injuries
+
+| Injury | Description |
+|---|---|
+| Moulding (not an injury) | Overriding of skull bones |
+| Cephalhaematoma | Subperiosteal swelling, limited by suture lines, fluctuant; may take weeks to resolve; may contribute to jaundice |
+| Caput succedaneum | Oedematous scalp swelling superficial to periosteum; **not** limited by suture lines; from venous congestion + exuded serum during labour ("chignon" if ventouse-caused); resolves in first few days |
+| Erb's palsy | Brachial trunk nerve damage — flaccid arm/hand in fixed posture; most resolve; exclude fractured clavicle, arrange physio; unlikely to improve further if not resolved by 6 months |
+| Subaponeurotic haematoma | Blood between aponeurosis and periosteum; associated with vacuum extraction; may contribute to anaemia or jaundice |
+| Skull fractures | Associated with difficult forceps delivery or impacted head at 2nd-stage C-section; parietal/frontal bones most affected; check CNS signs → neurosurgery consult |
+| Intracranial injuries | ICH associated with difficult/fast labour, instrumental or breech delivery, especially in premature babies; anoxia may cause intraventricular haemorrhage; asphyxia may cause ICH → cerebral palsy (extradural, subdural, or subarachnoid); supportive Mx |
+| Fetal laceration | 1–2% of C-section deliveries (more common in breech C-section and post-membrane-rupture C-section); most superficial, heal without scarring; warn parents when consenting for C-section |
+
+*See 15.23 for minor neonatal problems.*

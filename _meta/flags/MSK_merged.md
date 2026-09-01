@@ -72,7 +72,7 @@ Its own title says *"and Other"*. **18 entries; 11 are neither orthopaedic nor n
 |---|---|---|---|---|
 | K-19 | `## Burns and Scalds` + `### First aid` + `### Assessment — depth and TBSA` + `### Mx` (11_09b) | 1183–1263 | **Emergency** | `Emergency A7 §0.1 Burns — Assessment`, `§0.2 Burns — Resuscitation and Management`, `§0.3 Chemical Burns`. **Duplicate** |
 | K-20 | `## 0.3 Rhabdomyolysis` (11_01) | 58 | **flag** | `Emergency A7 §0.6 Crush Injury and Rhabdomyolysis`. **Duplicate** |
-| K-21 | `## Ocular trauma` (11_09b) | 1304 | **Ophthalmology** | `Emergency A7 §0.4 Chemical Eye Injury`, `A8 §0.4 Corneal and Ocular FB` also exist |
+| K-21 | `## Ocular trauma` (11_09b) | 1304 | **Ophthalmology** | `Emergency A7 §0.4 Chemical Eye Injury`, `A8 §0.4 Corneal and Ocular FB` also exist **✅ EXECUTED 2026-09-01 → `Opthalm_merged.md` (block 5)** |
 | K-22 | `## Lower genitourinary tract trauma` · `## Splenic trauma` · `## Liver trauma` · `## Head injuries` (11_09b) | 1277–1303 | **flag** | GU trauma duplicates `Renal §0.19` and `H4 §0.6`; head injury duplicates `Neuro ### Head Injury`; splenic/liver duplicate `L8 §0.4` and `GI C1 §0.10` |
 | K-23 | `## Autonomic dysreflexia` (11_06) | 694 | **arguable — Neuro** | a spinal-cord-injury complication, filed under spinal orthopaedics |
 | K-24 | `## Henoch-Schönlein purpura` (12_04) | 1918 | **flag — Paediatrics** | `Pediatrics 15_14` is titled *"Anaemia, Sickle Cell, Hereditary Spherocytosis, **HSP**"*. Also `Derm` (purpura) |

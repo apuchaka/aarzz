@@ -881,10 +881,7 @@ Police officers have a role in bringing a person to a treatment centre where an 
 
 The Act also explicitly provides for voluntary inpatients (Part 3) — a person who consents to admission and treatment without being subject to any order above. Voluntary inpatients must be given a statement of rights, the same as involuntary patients, reflecting the Act's broader emphasis on patient rights regardless of voluntary/involuntary status.
 
-## Guardianship — a related but distinct framework
-
-Where a person is unable to manage their own health, safety, or welfare more broadly (not specifically limited to a mental illness needing treatment), the **Guardianship and Administration Act 1993 (SA)** may apply instead of or alongside the Mental Health Act — see [[Clinical-Process-EBM-Consent-Capacity]] for the general capacity/substitute decision-maker framework this connects to, not repeated here. The two Acts serve genuinely different purposes and aren't interchangeable — the Mental Health Act is specifically about treatment for mental illness; guardianship is broader welfare decision-making.
-
+> [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `Guardianship — a related but distinct framework` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder.md ===== -->
 
@@ -1060,47 +1057,13 @@ Where a person is unable to manage their own health, safety, or welfare more bro
 
 > [!warning] This is a quick-reference antidote table only — always confirm doses and current protocols against Australian poisons information (Poisons Information Centre 13 11 26) and eTG before treating any overdose.
 
-## 0.1 Overdose / poisoning — management by agent
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.1 Overdose / poisoning — management by agent` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-| Agent | Management |
-|---|---|
-| **Benzodiazepines** | Antidote: flumazenil. Otherwise, supportive management. |
-| **Beta-blockers** | If HR <40 or unstable: atropine, glucagon. |
-| **Carbon monoxide** | 100% oxygen; hyperbaric oxygen. |
-| **Cyanide** | Hydroxocobalamin (vitamin B12); or combination of amyl nitrite, sodium nitrite, and sodium thiosulfate. |
-| **Digoxin** | Digibind; correct potassium levels and manage arrhythmias. |
-| **Ethylene glycol & methanol** | Fomepizole (inhibits alcohol dehydrogenase); ethanol if fomepizole unavailable; haemodialysis if refractory. |
-| **Heparin** | Protamine sulfate. |
-| **Iron** | Desferrioxamine (iron chelating agent). |
-| **Lead poisoning** | Dimercaprol, calcium edetate. |
-| **Organophosphates (insecticides)** | Atropine ± pralidoxime. |
-| **Paracetamol** | See [[03_Gastrointestinal]] Paracetamol Overdose (N-acetylcysteine, activated charcoal). |
-| **Salicylates (e.g. aspirin)** | IV bicarbonate (urinary alkalinisation); charcoal if presenting early; haemodialysis if severe. |
-| **Tricyclic antidepressants** | IV bicarbonate — ↓risk of seizures and arrhythmias. |
-| **Lithium** | Volume resuscitation (IV fluids); haemodialysis if severe; ± IV sodium bicarbonate. |
-| **Warfarin** | See [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin — management of high INR (Vitamin K, PCC, FFP, etc). |
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.2 Digoxin toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-## 0.2 Digoxin toxicity — detail
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.3 Salicylate toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-- **S/Smx:** generally unwell, anorexia, confusion, yellow-green vision, arrhythmias, gynaecomastia.
-- Toxicity may be precipitated by hypokalaemia (and ↓Mg, ↑Ca, ↑Na, acidosis), renal failure, MI, hypoalbuminaemia, hypothyroidism.
-- **Drug-drug interactions:** quinidine, verapamil, diltiazem, spironolactone, ciclosporin, thiazides, loop diuretics.
-
-## 0.3 Salicylate toxicity — detail
-
-- **S/Smx:** respiratory alkalosis (secondary to hyperventilation), then metabolic acidosis; tinnitus; GI upset/bleeding; seizures; coma.
-
-## 0.4 Tricyclic antidepressant toxicity — detail
-
-> [!danger] If arrhythmias develop, DO NOT use class 1a and 1c antiarrhythmics; avoid class 3 drugs.
-
-
-> [!note] The Corpus B psychiatry sources arrived here on 2026-09-01
-> **`N1`–`N8` were cut from `Neuro_merged.md:3829–5452` (1,624 lines) and inserted here**, between
-> the Corpus A psychiatry files and the drug files, matching the A → B → NEW ordering used by every
-> other merged file. They map onto the Corpus A files above eight for eight.
-> **The `[[D1]]`–`[[D7]]` wikilinks below still resolve** — they name the source file, which is
-> unchanged — but **36 of them are now cross-file**, pointing into [[Neuro_merged]].
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Tricyclic antidepressant toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: N1_Mental_State_Examination_and_Risk.md ===== -->
 
@@ -3027,3 +2990,31 @@ All four skips are T3.
 | **Anxiety** | `Generalised anxiety disorder (GAD)`, `Illness anxiety disorder` | Both are **specific diagnoses**; anxiety as an undifferentiated presentation has a wider differential including organic causes. |
 | **Anorexia** | `Anorexia nervosa` | **Different concepts.** Anorexia the symptom is loss of appetite; anorexia nervosa is an eating disorder. Treating the header as a match would leave appetite loss uncovered. |
 | **Hyperactivity** | `Attention deficit hyperactivity disorder (ADHD)` | Hyperactivity as a presenting symptom has a differential beyond ADHD. |
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** `B-10` puerperal psychosis was held — it and `Y-2` point at each other in opposite directions.
+
+<!-- ===== SOURCE: NEW_Drugs_03_Analgesics.md ===== -->
+*Moved here from `Anaes_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.3 Drugs for Opioid Dependence
+`CF-PAIR` **`NEW_Drugs_17 §0.8 Other Psychotropic Drugs` in this file covers opioid dependence and already defers to `NEW_Drugs_03`. Both kept in full.**
+
+- **Scope:** **opioid agonist treatment (OAT)** — the evidence-based, long-term management of opioid dependence — plus **naltrexone** for relapse prevention and **naloxone** for overdose reversal (0.4.6).
+- **Methadone** — a **full µ-agonist**, long half-life, given as a daily oral liquid, historically usually under **supervised dosing**.
+  - **Advantages:** long track record; effective; suits patients needing full agonist activity.
+  - **Risks:** **respiratory depression, particularly during induction and dose increases**, when the half-life exceeds the duration of the analgesic effect and levels accumulate over days — **most methadone deaths occur in the first two weeks of treatment**. **QT prolongation and torsades de pointes** (dose-related; ECG monitoring is required, more so at higher doses and with other QT-prolonging drugs). Numerous CYP interactions.
+- **Buprenorphine and buprenorphine/naloxone** — buprenorphine is a **partial µ-agonist** with **high receptor affinity** and a **ceiling on respiratory depression**, which makes it substantially safer in overdose than methadone. The **naloxone** component in the combination product is poorly absorbed sublingually and is there to deter injection.
+  - **PRECIPITATED WITHDRAWAL** is the characteristic hazard: because buprenorphine binds more avidly than full agonists but activates less, **giving it to someone with a full agonist still on board displaces it and precipitates acute severe withdrawal**. Induction therefore requires the patient to be **in objective withdrawal first**, and is done to protocol by an experienced prescriber.
+  - **Long-acting injectable buprenorphine (LAIB)** — sources describe **weekly and monthly depot formulations (Buvidal, Sublocade) available in Australia since April 2020**, removing the need for daily supervised dosing. Uptake has been rapid: sources report that by December 2022 Australian treatment was roughly **48% methadone, 26% sublingual buprenorphine and 26% long-acting injectable buprenorphine**, and that **buprenorphine has overtaken methadone as the most common opioid agonist medicine in Australia**.
+- **Naltrexone** — a **µ-antagonist** used for relapse prevention after detoxification (and in alcohol use disorder). It **blocks** opioid effects rather than substituting for them, and adherence is the limiting factor. **The patient must be fully opioid-free before starting or it precipitates withdrawal**, and **tolerance is lost while taking it — so overdose risk on relapse is very high.**
+
+> [!danger] **Things an intern must get right around opioid agonist treatment**
+> - **NEVER omit or "hold" a patient's regular methadone or buprenorphine dose without specialist advice**, and **confirm the dose and the last dispensed date with the dosing pharmacy or clinic before prescribing it** — a missed dose causes withdrawal, and a wrong dose can be fatal. Tolerance is lost after a few days off treatment.
+> - **OAT is a maintenance treatment; it does not provide analgesia for acute pain.** A patient on methadone or buprenorphine with a fracture or after surgery **needs their usual OAT dose continued AND additional analgesia**, often at higher opioid doses than usual because of tolerance and, with buprenorphine, receptor occupancy. Withholding analgesia because "they're on methadone" is a recognised and inhumane failure.
+> - **Take-home naloxone** should be offered to anyone at risk of opioid overdose and to their household — it is available in Australia without prescription through the **Take Home Naloxone program**.
+> - **Stigma is a clinical problem.** Document the treatment neutrally, involve the addiction medicine service early, and do not discharge a dependent patient without a plan.
+> - See [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]].

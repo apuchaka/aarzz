@@ -53,12 +53,12 @@ Zero inbound: `10_10b_Haemonc_-_Transplant_Medicine`.
 ### Topic in the wrong system
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| H-10 | `## Postpartum Infection and Thromboembolism` + `### Postpartum (puerperal) infection` + `### Postpartum VTE` | 782–808 | **OBGYN** | **puerperal sepsis is obstetric.** It sits inside `10_06b Thrombophilia, APS, Thrombocytosis, Methaemoglobinaemia` — a file about none of those things |
+| H-10 | `## Postpartum Infection and Thromboembolism` + `### Postpartum (puerperal) infection` + `### Postpartum VTE` | 782–808 | **OBGYN** | **puerperal sepsis is obstetric.** It sits inside `10_06b Thrombophilia, APS, Thrombocytosis, Methaemoglobinaemia` — a file about none of those things **✅ EXECUTED 2026-09-01 → `OBGYN_merged.md` (block 5)** |
 | H-11 | `### Haemolytic uraemic syndrome (HUS)` | 630 | **decide with Paediatrics** | `Pediatrics_merged 15_11` is titled *"Urological and Renal Anomalies, Wilms Tumour, **HUS**"* |
 | H-12 | `## Primary Immunodeficiencies` (whole source, 15 sections) | 251–372 | **decide with Paediatrics / ID** | `Pediatrics_merged 15_15b` is *"Primary Immunodeficiencies and SCID"*. **3 inbound: Paediatrics ×2, ID ×1 — none from haematology** |
-| H-13 | `## Lead poisoning` | 457 | **Emergency / toxicology** | sits under microcytic anaemia as a cause; the poisoning itself is tox |
-| H-14 | `## Methaemoglobinaemia` | 718 | **Emergency / toxicology** | `Derm:2237` routes co-oximetry and methylene blue with the toxidromes |
-| H-15 | `## Hereditary angioedema` | 1137 | **Immunology / ID** | `ENT:1252` already routes *"anaphylaxis and angioedema in [[K4]] 0.2"* |
+| H-13 | `## Lead poisoning` | 457 | **Emergency / toxicology** | sits under microcytic anaemia as a cause; the poisoning itself is tox **✅ EXECUTED 2026-09-01 → `Emergency and Crit Care_merged.md` (block 5)** |
+| H-14 | `## Methaemoglobinaemia` | 718 | **Emergency / toxicology** | `Derm:2237` routes co-oximetry and methylene blue with the toxidromes **✅ EXECUTED 2026-09-01 → `Emergency and Crit Care_merged.md` (block 5)** |
+| H-15 | `## Hereditary angioedema` | 1137 | **Immunology / ID** | `ENT:1252` already routes *"anaphylaxis and angioedema in [[K4]] 0.2"* **✅ EXECUTED 2026-09-01 → `Infectious Disease_merged.md` (block 5)** |
 | H-16 | `## Anaemia of chronic kidney disease` | 508 | **flag only** | duplicates `Renal §0.2.3 CKD-Related Anaemia`. Renal RU-17 is the other half |
 | H-17 | `## 0.2 Organ transplant` +`.1 matching` +`.2 rejection types` | 1323–1351 | **flag — overlaps Renal** | `Renal §0.2.4 RRT Modalities`, `§0.2.5 Rejection`, `§0.2.6 Transplant complications`. **`10_10b` has zero inbound**; Renal's copy is referenced |
 | H-18 | `## Cancer Outcomes in Aboriginal and Torres Strait Islander Australians` | 1487 | **arguable — `AU1_Australian_Health_Context_and_ATSI_Health`** | decide at the Clinical Process pass. Note `Resp §0.4` and `Neuro ## Strokes` carry parallel ATSI equity blocks — **a pattern, not a one-off** |

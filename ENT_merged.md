@@ -659,40 +659,9 @@
 - **A:** reflux, swallowing corrosives, foreign body, trauma.
 - **Mx:** dilatation.
 
-## 0.3 Barrett's oesophagus
+> [!note] **Moved to `[[GI_merged]]` on 2026-09-01:** `0.3 Barrett's oesophagus` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!warning] FLAG 2026-09-01 — `M-R1` approved for GI, and a stale pointer sits below
-> **`## 0.3 Barrett's oesophagus` and `## 0.4 Oesophageal carcinoma` are approved to move to
-> `GI_merged.md`** — both are taught in the GI block. `## 0.1 Dysphagia — approach`,
-> `## 0.5 Pharyngeal pouch` and `## 0.6 Globus pharyngeus` stay in ENT.
-> **Not yet executed: the move is held pending approval by destination.**
-> ⚠️ **The pointer `*(See also 03.08 for GORD…)*` below is WRONG. `03.08` is not GORD; GORD is
-> `03_Gastrointestinal §0.28`.** It has no wikilink and no filename, so neither `dangling.py` nor
-> `misaimed.py` can see it — **it must be fixed by hand when this section moves.**
-
-- **D:** metaplasia of the lower oesophageal mucosa (columnar epithelium replacing squamous epithelium).
-- **R:** GORD, M>F (7:1), smoking, central obesity.
-- **S/Smx:** GORD symptoms; Barrett's itself is asymptomatic.
-- **Ix:** endoscopy and biopsy required for histological diagnosis.
-
-> [!info] Metaplasia = cell transformation (squamous → columnar). Dysplasia = replacement of mature cells with less mature ones.
-
-*(See also 03.08 for GORD, and when patients get endoscopies for GORD.)*
-
-- **Mx:** high-dose PPI (evidence uncertain). If metaplasia confirmed — endoscopic surveillance with biopsies every 3–5 years. If dysplasia — offer endoscopic interventions, including radiofrequency ablation and endoscopic mucosal resection.
-
-## 0.4 Oesophageal carcinoma
-
-- **D:** neoplastic mucosal lesions, divided into SCC or adenocarcinoma (rarely other kinds).
-
-> [!info] Risk factors by histological subtype
-> - **SCC (upper 2/3):** smoking, alcohol, achalasia, Plummer-Vinson syndrome, ↑nitrosamines.
-> - **Adenocarcinoma (lower 1/3):** GORD, Barrett's oesophagus, smoking, obesity.
-
-> [!danger] Red flag symptoms: dysphagia, anorexia, weight loss, vomiting, odynophagia, hoarseness, melaena, cough.
-
-- **Ix/Dx:** upper GI endoscopy for diagnosis. Endoscopic ultrasound for locoregional staging. CT or PET-CT for initial staging (metastases). Laparoscopy to detect occult peritoneal disease.
-- **Mx:** operable disease — surgical resection (risk of anastomotic leak). Adjuvant chemotherapy. Palliation if not operable.
+> [!note] **Moved to `[[GI_merged]]` on 2026-09-01:** `0.4 Oesophageal carcinoma` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.5 Pharyngeal pouch (Zenker's diverticulum)
 
@@ -1852,3 +1821,60 @@ All six skips are T3.
 |---|---|---|
 | **Rhinorrhoea** (T3) | `### CSF rhinorrhoea` | CSF rhinorrhoea is a specific post-traumatic entity, not the symptom of a runny nose. False positive. |
 | **Facial Swelling** (T3) | `### Facial swellings due to dental infection` | The existing header is scoped to dental causes only; the presentation is broader. |
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.**
+
+<!-- ===== SOURCE: D7_Cranial_Nerves_and_Special_Senses.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.4 Speech, Voice and Swallowing
+
+> [!tip] Three different problems that all sound like "trouble talking"
+> **· Dysphasia (aphasia) — a LANGUAGE problem.** The content is wrong. Dominant hemisphere.
+> **· Dysarthria — an ARTICULATION problem.** The language is intact but the production is impaired; **writing is normal.**
+> **· Dysphonia — a VOICE problem.** Volume and quality of phonation; larynx and recurrent laryngeal nerve.
+> **Asking the patient to WRITE a sentence separates dysphasia from dysarthria immediately** — the dysarthric patient writes normally, the dysphasic patient does not.
+
+> [!info] Aphasia types
+> **Broca (expressive, non-fluent)** — effortful, telegraphic, sparse output; **comprehension relatively preserved**, so **the patient knows what they want to say and cannot say it, and is visibly frustrated.** Often with a right hemiparesis.
+> **Wernicke (receptive, fluent)** — fluent, normal rhythm, but full of paraphasias and neologisms — "word salad"; **comprehension is poor and the patient is typically UNAWARE**, which is why they can be mistaken for confused or psychotic.
+> **Conduction aphasia** — fluent, good comprehension, but **repetition is disproportionately impaired.**
+> **Global aphasia** — both expressive and receptive, with large dominant hemisphere lesions.
+
+> [!info] Dysarthria types localise the lesion
+> **· Spastic** — strained, slow, effortful. **Bilateral UMN.**
+> **· Flaccid** — breathy, **nasal**, with weak consonants. **LMN or bulbar.**
+> **· Ataxic** — irregular, **"scanning"**, with variable volume and explosive bursts. **Cerebellar.**
+> **· Hypokinetic** — quiet, monotonous, rapid and festinant, with reduced articulation. **Parkinsonism.**
+> **· Hyperkinetic** — irregular interruptions. Chorea, dystonia.
+
+> [!danger] Bulbar versus pseudobulbar palsy
+> **· Bulbar palsy — LOWER motor neurone.** **Flaccid, wasted, FASCICULATING tongue; absent gag; nasal speech; nasal regurgitation of fluids.** Causes: motor neurone disease, Guillain–Barré, myasthenia, brainstem lesions, poliomyelitis.
+> **· Pseudobulbar palsy — bilateral UPPER motor neurone.** **Small, spastic, immobile tongue with NO fasciculation; BRISK jaw jerk; slow strained speech; and EMOTIONAL LABILITY (pathological laughing and crying) which is characteristic and distressing.** Causes: bilateral strokes, motor neurone disease, multiple sclerosis, extensive small vessel disease.
+> **A fasciculating tongue with brisk reflexes elsewhere is motor neurone disease until proven otherwise.**
+
+> [!warning] Dysphagia — the first question is oropharyngeal or oesophageal
+> **· Oropharyngeal** — **difficulty INITIATING the swallow**, coughing or choking immediately, nasal regurgitation, drooling, recurrent chest infections. **Neurological or muscular.** Cross-refer [[F3]].
+> **· Oesophageal** — **food "sticking" seconds AFTER swallowing**, pointed to at the sternum. **Structural or motility.** Cross-refer [[C6]] 0.3.
+> **Aspiration risk is the acute concern in oropharyngeal dysphagia.** **Nil by mouth pending a swallow screen** in any acute neurological presentation with speech or swallow disturbance — cross-refer [[D3]] 0.1. **Silent aspiration — aspiration without coughing — is common and is precisely why a formal screen is needed rather than watching them sip water.**
+
+> [!danger] Hoarseness lasting more than about three weeks needs laryngoscopy
+> **Persistent hoarseness is laryngeal carcinoma until proven otherwise, particularly in a smoker.** It also indicates recurrent laryngeal nerve palsy — and **the left recurrent laryngeal nerve loops under the aortic arch, so a left vocal cord palsy can be caused by lung cancer, mediastinal disease, an aortic aneurysm, or thyroid or oesophageal malignancy.**
+> **A new hoarse voice is a symptom to investigate, not to treat with reassurance and voice rest.** Cross-refer [[F3]]. `UNVERIFIED — the duration threshold for referral in current Australian guidance.`
+
+**Ix:** **Ask the patient to write** (*why:* separates dysphasia from dysarthria in seconds; *what:* normal writing in dysarthria). Full neurological examination including tongue, palate and gag (*why:* localises bulbar versus pseudobulbar; *what:* fasciculation, wasting, jaw jerk). **Formal swallow screen, then speech pathology assessment** (*why:* prevents aspiration pneumonia, and detects silent aspiration that bedside observation misses; *what:* aspiration risk). **Videofluoroscopy or fibreoptic endoscopic evaluation of swallowing** (*why:* the definitive assessment of oropharyngeal dysphagia and of silent aspiration; *what:* penetration, aspiration, residue). **Flexible nasendoscopy for hoarseness** (*why:* visualises the cords and detects malignancy and palsy; *what:* mass, cord palsy). CT chest and neck for a left vocal cord palsy (*why:* traces the recurrent laryngeal nerve along its course; *what:* lung, mediastinal, thyroid or oesophageal lesion). MRI brain (*why:* stroke, demyelination, brainstem lesion; *what:* structural cause). EMG and nerve conduction studies (*why:* motor neurone disease, myasthenia; *what:* denervation, decrement).
+
+### 0.4.1 Mx – Immediate
+**Nil by mouth pending swallow screen.** Airway protection where bulbar function is severely impaired.
+
+### 0.4.2 Mx – Definitive
+Cause-specific, with speech pathology central to management.
+
+### 0.4.3 Mx – Chronic/long-term
+Speech pathology for both communication and swallowing. Modified diets and fluids. **Communication aids — and the recognition that being unable to communicate is profoundly isolating and is a major cause of low mood after stroke.** Consideration of enteral feeding in progressive disease, ideally discussed in advance as part of advance care planning.
+
+---
