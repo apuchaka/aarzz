@@ -123,10 +123,10 @@ generated one of each per presentation.
 - [x] **Derm_merged.md** — done
 - [x] **OBGYN_merged.md** — done
 - [x] **Pediatrics_merged.md** — done
-- [ ] Psychiatry_merged.md  <-- RESUME HERE
+- [x] **Psychiatry_merged.md** — done (groupings deferred: half the corpus is in Neuro)
+- [x] **Geriatrics_merged.md** — done. **GER3 and GER4 are not geriatrics.**
+- [ ] Anaes_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Geriatrics_merged.md
-- [ ] Anaes_merged.md
 - [ ] Emergency and Crit Care_merged.md
 - [ ] ENT_merged.md
 - [ ] Opthalm_merged.md
