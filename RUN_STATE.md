@@ -128,10 +128,12 @@ generated one of each per presentation.
 - [x] **Anaes_merged.md** — done
 - [x] **Opthalm_merged.md** — done
 - [x] **GP_merged.md** — done
-- [ ] Emergency and Crit Care_merged.md  <-- RESUME HERE
+- [x] **Emergency and Crit Care_merged.md** — done
+- [x] **ENT_merged.md** — done
+
+**ALL 19 SYSTEM FILES DONE.**
+- [ ] **Clinical Process set (16 files)**  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] ENT_merged.md
-- [ ] **Clinical Process set (16 files)** — file-combination output, separate
 - [ ] **Consolidated report** — moves by destination file · all in-text flags · groupings by
       confidence · anything unplaceable
 
