@@ -13,6 +13,16 @@ This file answers "here's a result — what does it mean," organised by investig
 >
 > The phrase "and others below" in the first sentence should also be read narrowly: it means *some* further entries received targeted verification, **not** that the file as a whole has. This box was rewritten after the M10 audit found it read as broader than it is — the same failure that let a UK drug-timing figure survive under an accurate Australian verification box in `15_01a`.
 
+> [!warning] **Six of this file's entries have left it (2026-09-01).**
+> `§1.5 ABG / VBG`, `§1.7 Limb X-Ray and Fracture Description`, `§1.15 Joint Aspirate`,
+> `§1.16 Autoimmune Markers`, `§1.17 Coagulation Screen and D-dimer` and
+> `§1.18 Blood Cultures and Microbiology Basics` were **co-located into the system file that
+> already held a second account of the same topic**, so the two sit side by side. A stub at each
+> old position names the destination. **The numbering is deliberately not repaired** — CLAUDE.md
+> §1.14 forbids renumbering sections, and the gaps make the moves visible rather than silent.
+> The box above still names some of them; it is describing the verification history of those
+> entries, which travelled with them.
+
 ---
 
 ## 1.1 Chest X-Ray — Systematic Approach
@@ -108,40 +118,9 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ---
 
-## 1.5 ABG / VBG Interpretation
-
-**What it measures:** oxygenation, ventilation (CO2), and acid-base status — one of the highest-yield "read the result" skills across both MCQ and OSCE, since it's tested via numbers rather than an image and rewards a consistent stepwise approach.
-
-**Systematic approach:**
-
-1. **Assess oxygenation first (independent of acid-base status):** PaO2 <80mmHg (~10.6kPa) on room air suggests hypoxaemia — check the FiO2/O2 delivery the patient was on at the time, since a "normal" PaO2 on high-flow O2 may still represent significant underlying lung disease. See [[02_Respiratory]] Respiratory Failure for the Type I (hypoxaemic) vs Type II (hypoxaemic + hypercapnoeic) classification this feeds into.
-
-2. **Check the pH:** <7.35 = acidaemia; >7.45 = alkalaemia. This tells you the net direction but not yet the cause.
-
-3. **Check PaCO2 (the respiratory component):**
-   - PaCO2 >45mmHg (~6kPa) with acidaemia → respiratory acidosis (hypoventilation — e.g. COPD exacerbation, opioid overdose, exhaustion in severe asthma — see [[02_Respiratory]] Asthma acute exacerbation, where a rising/normalising CO2 in a tachypnoeic patient is a red flag for exhaustion, not reassurance)
-   - PaCO2 <35mmHg (~4.7kPa) with alkalaemia → respiratory alkalosis (hyperventilation — anxiety, PE, early asthma/sepsis before exhaustion sets in, pain)
-
-4. **Check HCO3⁻ (the metabolic component):**
-   - HCO3⁻ <22mmol/L with acidaemia → metabolic acidosis
-   - HCO3⁻ >26mmol/L with alkalaemia → metabolic alkalosis
-
-5. **Match the direction of pH change to which component (respiratory or metabolic) moved the "wrong way" to explain it** — the disturbance that matches the direction of the pH change is the primary one; the other value has either not yet responded (acute) or is compensating (chronic/compensated).
-   - **Compensation logic:** the body always compensates in the *same direction* as the primary disturbance (i.e. it doesn't overcorrect past normal) — a metabolic acidosis triggers respiratory compensation (hyperventilation, ↓CO2) via the same pH-lowering-opposing direction, and a chronic respiratory acidosis (e.g. COPD) triggers renal compensation (↑HCO3⁻ reabsorption) over days. **Fully compensated** = pH has returned to (near-)normal despite the underlying primary disturbance still being present — this is the "compensated respiratory acidosis" pattern expected in a stable COPD patient (see [[02_Respiratory]] COPD Exacerbation), and its *absence* (an uncompensated/partially-compensated picture in a known chronic retainer) suggests a more acute superimposed process.
-
-6. **If metabolic acidosis — calculate the anion gap** (Na⁺ − [Cl⁻ + HCO3⁻], normal ~8–16mmol/L) to narrow the cause:
-   - **Raised anion gap:** mnemonic "MUDPILES" — Methanol, Uraemia, DKA, Propylene glycol/Paraldehyde, Iron/Isoniazid, Lactic acidosis (e.g. sepsis, tissue hypoperfusion, seizure), Ethylene glycol, Salicylates
-   - **Normal anion gap (hyperchloraemic):** GI bicarbonate loss (diarrhoea), renal tubular acidosis, early renal failure
-
-7. **Check lactate specifically if raised/unwell:** elevated lactate is a marker of tissue hypoperfusion/anaerobic metabolism — relevant to sepsis severity (see [[01_Cardiovascular]] Shock, Septic shock) and can itself widen the anion gap.
-
-**Where this feeds into disease-specific content already documented (not repeated here):** [[02_Respiratory]] Asthma (acute exacerbation — hypercapnoea as a marker of exhaustion), COPD (chronic compensated respiratory acidosis and controlled O2 targets in known CO2 retainers), ARDS (severe hypoxaemia, PaO2/FiO2 ratio as a diagnostic/severity criterion), and Respiratory Failure (Type I vs Type II classification table). See [[01_Cardiovascular]] Shock for lactate's role in septic/hypovolaemic shock assessment.
-
-**Pitfalls:**
-- VBG is a reasonable substitute for ABG for pH/HCO3⁻/lactate in most acute settings (avoiding a painful arterial stab), but venous PaO2/PaCO2 do **not** reliably reflect arterial values — an ABG is still needed when oxygenation/ventilation status specifically must be known precisely (e.g. confirming hypercapnoea in a COPD exacerbation).
-- A "normal" pH does not mean no acid-base disturbance is present — mixed disturbances (e.g. a metabolic acidosis and a respiratory alkalosis occurring together) can partially cancel out and normalise the pH while both underlying processes remain clinically significant.
-
----
+> [!note] **Moved to `[[Endocrine and metabolics_merged]]` on 2026-09-01:** `1.5 ABG / VBG Interpretation` — co-located there
+> immediately after `0.1 Acid-Base Interpretation — Framework`, its duplicate pair, both intact. Reproduced verbatim and
+> unrenumbered under a `SOURCE:` divider naming this file.
 
 ## 1.6 Abdominal X-Ray — Systematic Approach
 
@@ -167,37 +146,9 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ---
 
-## 1.7 Limb X-Ray and Fracture Description — Systematic Approach
-
-> [!note] Gap-filled from CSV ("Fracture lines in FRACTUREs," High yield, and "deformities (displacement vs angulation vs rotation)," Low yield) — genuinely absent as a unifying systematic approach despite CXR and AXR both having one above, and despite individual fracture entries throughout [[11_02_Ortho_-_Upper_Limb__Shoulder__Elbow__Distal_Radius_Fractures_]] and elsewhere in Orthopaedics describing displacement/angulation for specific fractures without a single reference explaining the underlying descriptive framework itself.
-
-**Why this matters:** unlike CXR/AXR, a limb X-ray read is less about spotting one classic pattern and more about **precisely and reproducibly describing what's found**, since that description directly drives the reduction-vs-surgery decision for the specific fracture — the same displacement/angulation vocabulary is used throughout the individual fracture entries elsewhere in this project, so understanding it here as a standalone skill makes each of those entries easier to interpret rather than needing to be re-explained fracture by fracture.
-
-**Practical basics first:** at least **two orthogonal views** (typically AP and lateral) are required to properly assess a fracture — a single view can hide displacement, angulation, or rotation that's only apparent from the second plane, and can make a foreshortened-but-actually-normal-length bone look shortened when it's really just angulated out of the imaging plane. Include the joint above and below a long bone fracture on the request where clinically relevant, given a second, less obvious injury can otherwise be missed.
-
-**The PLACES framework — a systematic structure for describing any fracture:**
-
-1. **Pattern:** the configuration of the fracture line itself, which reflects the mechanism of injury and gives a clue to stability —
-   - **Transverse** (straight across, perpendicular to the long axis — typically a direct blow).
-   - **Oblique** (diagonal across the bone — typically an angulatory force).
-   - **Spiral** (curves around the bone — typically a rotational/torsional force; a genuinely important pattern to recognise given an unexplained spiral fracture, particularly in a non-ambulatory child, raises concern for non-accidental injury — see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]], not repeated here).
-   - **Comminuted** (more than two fragments — implies a higher-energy mechanism and is generally less stable).
-   - **Avulsion** (a bone fragment pulled off at a tendon/ligament attachment by traction, rather than a direct fracturing force through the bone shaft).
-   - **Buckle/torus and greenstick** (incomplete fractures specific to the more pliable, still-growing paediatric skeleton — these patterns occur because a child's bone bends and buckles rather than breaking cleanly the way an adult's more brittle bone does).
-2. **Location:** described by the specific bone and the region within it — long bones are conventionally divided into **epiphysis** (the end, at/near the joint), **metaphysis** (the flared region between epiphysis and shaft), and **diaphysis** (the shaft) — and further specified as proximal/middle/distal third where relevant. Note specifically whether the fracture is **intra-articular** (extends into the joint surface) versus **extra-articular**, given intra-articular involvement generally raises the surgical threshold given the risk of post-traumatic arthritis if the joint surface isn't accurately restored.
-3. **Alignment (displacement, angulation, rotation, and length) — the core of the "deformity" description:**
-   - **Displacement:** the offset of the distal fragment relative to the proximal fragment, described as a percentage of bone width or in millimetres, and by direction (e.g. "50% dorsal displacement") — **translation** specifically means side-to-side offset, while **distraction** means the fragments have separated with a gap between them.
-   - **Angulation:** the angle between fragments, described by the direction the distal fragment's apex points relative to the bone's long axis (e.g. dorsal/volar for the wrist, valgus/varus more generally — valgus meaning the distal fragment points away from the midline, varus meaning it points toward the midline).
-   - **Rotation:** twisting of the distal fragment relative to the proximal fragment along the bone's long axis — often better assessed clinically (e.g. finger cascade/alignment when the hand is examined in flexion) than on plain X-ray, and best seen radiographically on oblique views specifically; a genuinely important pattern to actively check for in spiral fractures of the hand and forearm, given rotational malalignment is easy to miss if not specifically sought.
-   - **Length:** shortening (from impaction or fragment overriding/"bayonet apposition") or lengthening (from distraction) — an oblique fracture shortens more readily than a transverse one, since a transverse fracture would need to fully "off-end" before length is lost, a useful point for anticipating which fracture patterns are prone to shortening.
-   - **Convention:** displacement, angulation, and rotation are all described **of the distal fragment relative to the proximal fragment** — this consistent convention is what makes fracture descriptions reproducible between clinicians, and confusing the direction (describing the proximal fragment's position relative to the distal one) is a common source of miscommunication.
-4. **Closed vs open (Compound):** whether the overlying skin is breached, communicating the fracture site with the external environment — a genuinely important distinction changing management urgency (open fractures need urgent debridement/antibiotics given the markedly higher infection risk) and classification (e.g. Gustilo-Anderson grading for open fractures) — see the individual fracture entries throughout Orthopaedics for open-fracture-specific management where relevant, not repeated here.
-5. **Examination findings:** neurovascular status specifically (distal pulses, capillary refill, and the specific nerves at risk for that fracture's location and displacement direction) — genuinely the most clinically important part of the assessment for many fractures, not just a box-ticking addition to the imaging description, given nerve/vascular injury needs urgent recognition and can be missed if the assessment focuses on the X-ray alone.
-6. **Special investigations:** further imaging where plain film is insufficient — CT for complex intra-articular fractures needing precise 3D characterisation before surgical planning, or MRI where an occult fracture is suspected clinically despite a normal/equivocal X-ray (e.g. suspected scaphoid fracture with a normal initial film — see [[11_03_Ortho_-_Hand_and_Foot]] for the disease-level detail on this specific scenario, not repeated here).
-
-**Practical pitfall worth naming explicitly:** subtle but significant findings can be missed without deliberately looking for them — e.g. a posterior fat pad sign at the elbow (suggesting an occult fracture even when no fracture line is clearly visible, given a haemarthrosis elevates the fat pad) — see [[11_02_Ortho_-_Upper_Limb__Shoulder__Elbow__Distal_Radius_Fractures_]] for this specific sign in context, not repeated here; a systematic PLACES-based read, rather than only scanning for an obvious fracture line, is what catches these subtler findings.
-
----
+> [!note] **Moved to `[[MSK_merged]]` on 2026-09-01:** `1.7 Limb X-Ray and Fracture Description — Systematic Approach` — co-located there
+> immediately after `0.1 Describing a Fracture`, its duplicate pair, both intact. Reproduced verbatim and
+> unrenumbered under a `SOURCE:` divider naming this file.
 
 ## 1.8 CT Chest / CT Abdomen (brief orientation)
 
@@ -341,111 +292,21 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ---
 
-## 1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach
+> [!note] **Moved to `[[MSK_merged]]` on 2026-09-01:** `1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach` — co-located there
+> immediately after `0.6 Joint Aspiration and Synovial Fluid Interpretation`, its duplicate pair, both intact. Reproduced verbatim and
+> unrenumbered under a `SOURCE:` divider naming this file.
 
-`CF-PAIR` **THREE-WAY: `GER8 §0.5 Arthrocentesis` (now `[[Procedures]]`, the procedure) and `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration and Synovial Fluid Interpretation` (returned to `MSK_merged.md`) both cover this. All three kept in full, NOT reconciled.**
+> [!note] **Moved to `[[MSK_merged]]` on 2026-09-01:** `1.16 Autoimmune Markers — Systematic Reference` — co-located there
+> immediately after `0.6 Autoantibody and Serology Interpretation`, its duplicate pair, both intact. Reproduced verbatim and
+> unrenumbered under a `SOURCE:` divider naming this file.
 
-> [!note] Gap-filled from CSV ("Joint aspirate analysis," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — the individual synovial fluid findings for specific diagnoses are scattered throughout [[11_01_Ortho_-_Orthopaedic_Emergencies]] (Septic arthritis), [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], and [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] (Gout, Pseudogout), but never consolidated into one systematic interpretation framework — built here in the same spirit as the FBC/Blood Film and Coagulation Screen entries above.
+> [!note] **Moved to `[[Heme Onc_merged]]` on 2026-09-01:** `1.17 Coagulation Screen and D-dimer Interpretation` — co-located there
+> immediately after `0.1 Interpreting the Coagulation Screen`, its duplicate pair, both intact. Reproduced verbatim and
+> unrenumbered under a `SOURCE:` divider naming this file.
 
-**Why aspirate:** a hot, swollen, acutely painful joint should prompt joint aspiration essentially routinely, given the single most important diagnostic task is **excluding septic arthritis** — see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis for the disease-level urgency and Mx this feeds into, not repeated here. Aspiration should ideally occur **before** starting antibiotics where possible, given antibiotics can sterilise the fluid and reduce diagnostic yield — the same principle as blood cultures before antibiotics elsewhere in this project.
-
-**Systematic interpretation — work through in this order:**
-
-1. **Appearance:** normal synovial fluid is clear/pale yellow and viscous; **turbid/purulent fluid** raises concern for infection; **blood-stained fluid (haemarthrosis)** suggests trauma, a bleeding disorder, or anticoagulation — a genuinely different differential from turbid fluid, worth distinguishing early by simple visual inspection before any lab result returns.
-2. **Cell count and differential:** the single most useful quantitative discriminator between inflammatory and non-inflammatory processes — very high white cell counts (particularly with a neutrophil predominance) point strongly toward septic arthritis or crystal arthropathy (gout/pseudogout can produce counts nearly as high as infection, which is exactly why microscopy for crystals, not cell count alone, is needed to distinguish them); lower counts with a more mixed or mononuclear picture are more typical of non-inflammatory (e.g. osteoarthritis) or milder inflammatory processes.
-3. **Gram stain and culture:** the definitive test for septic arthritis, though a negative Gram stain does **not** exclude infection given its imperfect sensitivity — culture remains the reference standard, and empirical treatment for septic arthritis should not be withheld while awaiting culture results if clinical suspicion is high, per the urgency principle in [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis.
-4. **Polarised light microscopy for crystals — the key test distinguishing the two major crystal arthropathies:**
-   - **Gout:** needle-shaped, **negatively birefringent** monosodium urate crystals — see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout for the disease-level detail, not repeated here.
-   - **Pseudogout:** rhomboid-shaped, **weakly positively birefringent** calcium pyrophosphate crystals — see the same file's Pseudogout entry, not repeated here.
-   - The birefringence direction (negative vs weakly positive) is the classic, frequently-tested distinguishing feature between the two — worth having genuinely automatic given how similarly gout and pseudogout can present clinically despite this clear lab distinction.
-
-> [!info] Quick-reference summary table
-> | Finding | Non-inflammatory (e.g. OA) | Inflammatory (e.g. RA, reactive arthritis) | Septic | Crystal (gout/pseudogout) |
-> |---|---|---|---|---|
-> | Appearance | Clear/straw | Cloudy/yellow | Turbid/purulent | Cloudy |
-> | WCC | Low (<2000/mm³) | Moderate-high | Very high | High (can overlap with septic) |
-> | Neutrophil % | Low | Moderate | High | High |
-> | Gram stain/culture | Negative | Negative | Often positive | Negative |
-> | Crystals | Absent | Absent | Absent | Present (see birefringence distinction above) |
-
-**Cross-reference:** see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis, [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout and Pseudogout, and [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] for the disease-level context each finding above feeds into.
-
-## 1.16 Autoimmune Markers — Systematic Reference
-
-> [!note] Gap-filled from CSV ("Autoimmune markers," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — genuinely absent as a consolidated reference despite ANA, RF, anti-CCP, ANCA, and complement levels being scattered across [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] without ever being brought together into one interpretive framework. This entry consolidates the pattern; disease-specific detail is cross-referenced rather than repeated here.
-
-**General interpretive principle:** autoimmune markers should always be interpreted in the context of clinical suspicion, not used as a screening panel in patients with a low pre-test probability of autoimmune disease — most of these markers have a meaningful false-positive rate in the general population (particularly ANA), so an isolated positive result in a patient without a compatible clinical picture is more often a false positive than a new diagnosis.
-
-**ANA (antinuclear antibody):**
-- Highly **sensitive** but poorly **specific** — positive in 99% of SLE (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE)) but also positive in a meaningful proportion of the healthy general population (increasing with age), and in many other autoimmune and even non-autoimmune conditions — a positive ANA alone is a starting point for further testing, not a diagnosis.
-- A negative ANA makes SLE genuinely unlikely (given its high sensitivity) and is a reasonable test to rule the diagnosis out; a positive ANA needs to be followed by more specific antibody testing (anti-dsDNA, anti-Smith, extractable nuclear antigens) to build a clinically meaningful picture. **Anti-Smith (anti-Sm) is the inverse of ANA in this respect: highly specific (close to 99%) for SLE but poorly sensitive (only around 30% of SLE patients test positive)** — a positive anti-Smith result is genuinely strong supporting evidence for SLE given how few other conditions produce it, but a negative result does very little to rule the diagnosis out, unlike a negative ANA.
-
-**Rheumatoid factor (RF) and anti-CCP:**
-- **RF:** positive in ~70% of RA (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Rheumatoid arthritis (RA)) but also positive in other autoimmune conditions (Sjögren syndrome, SLE) and in a proportion of healthy older adults — genuinely non-specific on its own.
-- **Anti-CCP:** more specific for RA than RF (90–95% positive in RA, with fewer false positives in unrelated conditions) — anti-CCP positivity, particularly combined with clinical features, carries more diagnostic weight than RF alone, and can also be a useful early marker (sometimes positive before RF or before overt joint disease is established).
-
-**ANCA (anti-neutrophil cytoplasmic antibody) — cANCA vs pANCA:**
-- **cANCA** — classically associated with granulomatosis with polyangiitis (GPA/Wegener's), positive in >90% (see [[12_04_Rheum_-_Vasculitis]] Granulomatosis with polyangiitis (GPA, formerly Wegener's)).
-- **pANCA** — classically associated with eosinophilic granulomatosis with polyangiitis (EGPA/Churg-Strauss, ~60%) and microscopic polyangiitis (50–75%) — see [[12_04_Rheum_-_Vasculitis]] for the disease-level detail and the GPA vs EGPA comparison table, not repeated here.
-- **Neither pattern is perfectly specific to a single disease** — some overlap exists (e.g. cANCA in a minority of EGPA, pANCA in a minority of GPA), so ANCA pattern narrows the differential rather than confirming a single diagnosis in isolation; always interpret alongside the clinical picture per the general principle above.
-
-**Complement levels (C3, C4):**
-- **Low complement** reflects consumption by active immune complex formation — classically tracked in SLE, where **falling complement alongside rising anti-dsDNA titres supports an active lupus flare** (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE), not repeated here) — complement trending is a genuinely useful way to monitor disease activity over time, distinct from a one-off diagnostic test.
-- Low C4 specifically is also relevant to hereditary angioedema (see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hereditary angioedema) — a good example of why the same lab value can mean genuinely different things depending on the clinical context it's ordered in.
-
-**Extractable nuclear antigens (ENA) — anti-Ro/La, anti-Scl-70, anti-centromere, anti-Jo-1:**
-- **Anti-Ro (SSA) and anti-La (SSB):** associated with Sjögren syndrome (70% and 30% respectively — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Sjögren syndrome) and SLE; anti-Ro specifically also carries relevance in pregnancy given the (rare) risk of neonatal lupus/congenital heart block.
-- **Anti-Scl-70 (topoisomerase I):** associated with diffuse cutaneous systemic sclerosis, generally the more severe phenotype; **anti-centromere antibodies** associated with limited cutaneous systemic sclerosis (CREST) — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic sclerosis (scleroderma) for the LeRoy classification this maps onto, not repeated here.
-- **Anti-Jo-1:** associated with dermatomyositis/polymyositis, particularly the subset with interstitial lung disease — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Dermatomyositis, not repeated here.
-
-**Cross-reference:** see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] for the full disease-level detail each marker pattern above feeds into.
-
-## 1.17 Coagulation Screen and D-dimer Interpretation
-
-> [!note] Gap-filled from CSV ("Coags + D-dimer," Low yield) — a systematic interpretation approach without a dedicated template despite PT/APTT/D-dimer being referenced throughout the Haematology & Oncology files (e.g. [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Von Willebrand disease (vWD) and Haemophilia, [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation) without a standalone approach to interpreting the pattern itself.
-
-**The basic coagulation screen: PT, APTT, platelet count (± fibrinogen)**
-
-1. **PT (prothrombin time) tests the extrinsic and common pathways** — factors I, II, V, VII, X. Prolonged in: warfarin therapy, vitamin K deficiency, liver disease, factor VII deficiency (rare), DIC.
-2. **APTT (activated partial thromboplastin time) tests the intrinsic and common pathways** — factors I, II, V, VIII, IX, X, XI, XII. Prolonged in: heparin therapy, haemophilia A/B (factor VIII/IX deficiency — see [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Haemophilia, not repeated here), von Willebrand disease (factor VIII carrier effect — see the same file's vWD entry), lupus anticoagulant/antiphospholipid syndrome (paradoxically prolongs APTT in vitro despite being a pro-thrombotic condition clinically — a classically confusing point worth knowing explicitly, given the lab result looks like a bleeding tendency while the clinical reality is the opposite), DIC.
-3. **Both PT and APTT prolonged** — suggests a common pathway defect or a global process: DIC, severe liver disease, vitamin K deficiency/warfarin overdose, massive transfusion/dilutional coagulopathy.
-4. **INR (international normalised ratio)** is a standardised way of expressing PT specifically, correcting for variation between different laboratory PT reagents — used specifically to monitor warfarin therapy (see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin — management of high INR for the AU-verified reversal protocol, not repeated here) given raw PT values aren't comparable between labs the way INR is designed to be.
-5. **Mixing studies** (patient plasma + normal plasma, 50:50) help distinguish a **factor deficiency** (the prolonged time corrects, since normal plasma supplies the missing factor) from an **inhibitor** (e.g. a specific factor antibody, or lupus anticoagulant — the prolonged time does *not* correct, since the inhibitor persists and continues to interfere) — see [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Haemophilia for the specific application of this test to suspected factor VIII antibodies, not repeated here.
-
-**D-dimer**
-
-- **What it measures:** a fibrin degradation product, elevated whenever there has been clot formation *and* subsequent fibrinolysis — reflects clot turnover, not simply clot presence.
-- **High sensitivity, low specificity** — the key interpretive principle: a **negative D-dimer in a patient with low pre-test probability of VTE is genuinely useful for ruling out DVT/PE** (a normal result makes clinically significant clot very unlikely), but a **positive D-dimer is not diagnostic of VTE on its own**, given it's also elevated by pregnancy, recent surgery, malignancy, infection/sepsis, trauma, and simply increasing age — a positive result in a patient with low pre-test probability doesn't reliably indicate VTE and shouldn't automatically trigger extensive imaging without considering the overall clinical picture (e.g. Wells score) first.
-- **Practical use:** D-dimer is a rule-out test in the right clinical context (low-to-moderate pre-test probability), not a rule-in test — always interpret alongside a pre-test probability score rather than in isolation, given the specificity limitation above means a positive result alone carries limited diagnostic weight.
-- **Elevated in DIC specifically** (alongside the low platelets, low fibrinogen, and prolonged PT/APTT pattern) — see [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation (DIC) for the full disease-level detail, not repeated here.
-
-**Cross-reference:** see [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Von Willebrand disease (vWD) and Haemophilia, [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation, [[10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia]] Antiphospholipid syndrome (APS), and [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin for the disease-level context each finding above feeds into.
-
-## 1.18 Blood Cultures and Microbiology Basics
-
-> [!note] Gap-filled from CSV ("Blood cultures/microbiology basics," Medium yield; "Wound swab/surgical site MC&S," Medium yield) — genuinely absent as a systematic topic despite being referenced constantly throughout the Infectious Disease files. This entry covers the general principles of specimen collection and interpretation that apply across essentially all microbiology testing; disease-specific culture findings are covered in their respective sections (e.g. [[08_01-03_Infectious_Disease_-_Bacterial_Infections]], [[07_Renal_Medicine_and_Urology]] Urinary Tract Infections), not repeated here.
-
-**Blood cultures:**
-1. **Timing and technique matter enormously for result validity** — ideally taken **before** antibiotics are started, since even a single dose can sterilise a culture and produce a false negative in a genuinely bacteraemic patient; if the patient is already on antibiotics and cultures are urgently needed, take them anyway rather than waiting, but interpret a negative result cautiously in that context.
-2. **Take from two separate peripheral sites** (not through an existing IV cannula alone, given the risk of contamination or dilution) — this is standard practice both to increase diagnostic yield and to help distinguish true bacteraemia from contamination (see point 4 below).
-3. **Volume matters** — under-filling culture bottles significantly reduces sensitivity; aim for the manufacturer-recommended fill volume per bottle.
-4. **Distinguishing true bacteraemia from contamination:**
-   - **Organism identity is the single most useful clue** — coagulase-negative staphylococci (e.g. *S. epidermidis*), diphtheroids, and *Bacillus* species (non-anthracis) growing from only one of two/multiple bottles are commonly skin-flora contaminants, particularly in a clinically well patient; the same organisms growing from multiple separate draws, or in a patient with an indwelling line/prosthetic material, are more likely to represent true infection.
-   - *S. aureus*, *E. coli* and other Enterobacterales, and *Candida* species growing from blood cultures should generally be treated as significant/true bacteraemia even from a single bottle, given these organisms rarely represent contamination.
-   - Time-to-positivity (how quickly the culture flags positive) can be a supporting clue — a more heavily-inoculated true infection typically flags faster than a lightly-contaminated specimen, though this is a supporting feature, not a definitive discriminator on its own.
-5. **Result timing:** most cultures flag positive within 24–48h if organisms are present, though some fastidious/slow-growing organisms (e.g. some causes of culture-negative endocarditis — see [[01_Cardiovascular]] Infective Endocarditis for the disease-level detail on this, not repeated here) take substantially longer or never grow on standard culture, requiring specific serological or molecular testing instead.
-
-**Wound and surgical site swabs:**
-1. **Technique affects yield** — swab the wound base/leading edge of active infection where present, not just surface exudate or slough, which often yields colonising rather than infecting organisms.
-2. **Colonisation vs infection is the key interpretive challenge** — essentially all open wounds grow some organisms on culture; a positive swab alone doesn't establish clinical infection, which requires supporting clinical signs (increasing pain, spreading erythema, purulent discharge, systemic symptoms, delayed healing) — treating a positive swab in a clinically well-healing wound risks unnecessary antibiotic use and resistance selection.
-3. **Deep tissue/bone specimens are more reliable than superficial swabs** when osteomyelitis or deep surgical site infection is specifically suspected, given superficial swabs are prone to surface-flora contamination that doesn't reflect the deep infecting organism.
-
-**General principles across all microbiology specimens:**
-- **Always interpret microbiology results alongside the clinical picture**, not in isolation — the recurring theme across urine, blood, and wound specimens above is that a positive culture confirms an organism is present, not necessarily that it's causing clinically significant infection requiring treatment.
-- **Send specimens before starting/changing antibiotics wherever feasible**, for the same sensitivity reasons noted for blood cultures above — this applies across specimen types.
-- **Antimicrobial stewardship**: narrow empirical therapy to the specific organism/sensitivities once results return, rather than continuing broad-spectrum cover unnecessarily — see the various disease-specific eTG-verified regimens throughout [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] and other Infectious Disease files for the AU-specific empirical-to-targeted therapy principle in practice.
-
-**Cross-reference:** see [[01_Cardiovascular]] Infective Endocarditis, [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] and the other Infectious Disease files throughout this project for the disease-level context each type of microbiology result feeds into.
+> [!note] **Moved to `[[Infectious Disease_merged]]` on 2026-09-01:** `1.18 Blood Cultures and Microbiology Basics` — co-located there
+> immediately after `0.2 Microbiology Panel (Wound Culture and Sensitivity)`, its duplicate pair, both intact. Reproduced verbatim and
+> unrenumbered under a `SOURCE:` divider naming this file.
 
 ## 1.19 Growth Charts and Percentile Interpretation
 

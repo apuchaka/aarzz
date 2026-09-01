@@ -1097,6 +1097,7 @@ Encompasses BiPAP, CPAP, etc.
 **Alt:** **STOP-BANG** and Epworth questionnaires as pre-test screening tools (screening, not diagnostic); overnight oximetry alone (crude, high false-negative rate, but sometimes the only available test); daytime arterial blood gas and bicarbonate where hypoventilation is suspected; echocardiography where pulmonary hypertension or right heart strain is suspected.
 
 ## 0.5 Sputum Culture (with Gram Stain and Microscopy)
+`CF-PAIR` **The general specimen-collection and culture-interpretation account is `§1.18 Blood Cultures and Microbiology Basics`, co-located into `[[Infectious Disease_merged]]` beside `§0.1 Gram Stain` and `§0.2 Microbiology Panel` on 2026-09-01. Sputum culture stays here because it is respiratory. Both kept in full, NOT reconciled.**
 
 **D:** Expectorated lower-respiratory secretions examined by **Gram stain and microscopy**, then cultured with susceptibility testing. In a ventilated patient the equivalent specimens are a **tracheal aspirate** or **bronchoalveolar lavage**.
 

@@ -523,7 +523,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 > [!danger] Red flags warranting urgent assessment/escalation: fever with any feature of sepsis (see [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis and the Australian "SEPSIS KILLS" pathway), fever with a non-blanching rash (see [[09_08_Dermatology_-_Miscellaneous]] Non-blanching rashes), fever in a returned traveller from a malaria-endemic area (exclude malaria urgently regardless of how mild the presentation looks), fever in an asplenic or otherwise significantly immunosuppressed patient (treat as a medical emergency given the deterioration risk), fever with neck stiffness/photophobia/non-blanching rash (meningococcal disease until proven otherwise).
 
-**Closing:** summarise back, check understanding, explain next steps (examination, targeted investigation guided by localising symptoms — see [[Investigation-Interpretation]] Blood Cultures and Microbiology Basics for the general specimen-collection principles, not repeated here), safety-net explicitly for any red flag features developing.
+**Closing:** summarise back, check understanding, explain next steps (examination, targeted investigation guided by localising symptoms — see [[Infectious Disease_merged]] Blood Cultures and Microbiology Basics for the general specimen-collection principles, not repeated here), safety-net explicitly for any red flag features developing.
 
 ---
 
@@ -775,7 +775,7 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 
 > [!danger] Red flags warranting urgent assessment: a hot, swollen, acutely painful single joint with fever/systemic upset (septic arthritis until proven otherwise), joint pain with new neurological deficit or red flag back pain features (see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Back pain red flags → urgent MRI and Cauda equina syndrome), sudden visual disturbance/jaw claudication in a patient >50yo with new headache (giant cell arteritis — see [[12_04_Rheum_-_Vasculitis]] Giant cell arteritis (GCA), a genuine same-day ophthalmology-review emergency given the irreversible vision loss risk).
 
-**Closing:** summarise back, check understanding, explain next steps (examination — see [[Examination]] GALS Screen (Gait, Arms, Legs, Spine) for the systematic approach; targeted investigation guided by the pattern established above — joint aspiration if a hot swollen joint, autoimmune serology if inflammatory pattern with systemic features, per [[Investigation-Interpretation]] Autoimmune Markers — Systematic Reference), safety-net for any red flag features developing.
+**Closing:** summarise back, check understanding, explain next steps (examination — see [[Examination]] GALS Screen (Gait, Arms, Legs, Spine) for the systematic approach; targeted investigation guided by the pattern established above — joint aspiration if a hot swollen joint, autoimmune serology if inflammatory pattern with systemic features, per [[MSK_merged]] Autoimmune Markers — Systematic Reference), safety-net for any red flag features developing.
 
 ---
 

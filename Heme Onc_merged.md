@@ -2180,6 +2180,39 @@
 
 ---
 
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of the coagulation screen, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> A third, `NEW_Investigations_Haematology_Part2 §0.11 Coagulation Profile`, is further down this same file.
+
+## 1.17 Coagulation Screen and D-dimer Interpretation
+
+> [!note] Gap-filled from CSV ("Coags + D-dimer," Low yield) — a systematic interpretation approach without a dedicated template despite PT/APTT/D-dimer being referenced throughout the Haematology & Oncology files (e.g. [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Von Willebrand disease (vWD) and Haemophilia, [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation) without a standalone approach to interpreting the pattern itself.
+
+**The basic coagulation screen: PT, APTT, platelet count (± fibrinogen)**
+
+1. **PT (prothrombin time) tests the extrinsic and common pathways** — factors I, II, V, VII, X. Prolonged in: warfarin therapy, vitamin K deficiency, liver disease, factor VII deficiency (rare), DIC.
+2. **APTT (activated partial thromboplastin time) tests the intrinsic and common pathways** — factors I, II, V, VIII, IX, X, XI, XII. Prolonged in: heparin therapy, haemophilia A/B (factor VIII/IX deficiency — see [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Haemophilia, not repeated here), von Willebrand disease (factor VIII carrier effect — see the same file's vWD entry), lupus anticoagulant/antiphospholipid syndrome (paradoxically prolongs APTT in vitro despite being a pro-thrombotic condition clinically — a classically confusing point worth knowing explicitly, given the lab result looks like a bleeding tendency while the clinical reality is the opposite), DIC.
+3. **Both PT and APTT prolonged** — suggests a common pathway defect or a global process: DIC, severe liver disease, vitamin K deficiency/warfarin overdose, massive transfusion/dilutional coagulopathy.
+4. **INR (international normalised ratio)** is a standardised way of expressing PT specifically, correcting for variation between different laboratory PT reagents — used specifically to monitor warfarin therapy (see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin — management of high INR for the AU-verified reversal protocol, not repeated here) given raw PT values aren't comparable between labs the way INR is designed to be.
+5. **Mixing studies** (patient plasma + normal plasma, 50:50) help distinguish a **factor deficiency** (the prolonged time corrects, since normal plasma supplies the missing factor) from an **inhibitor** (e.g. a specific factor antibody, or lupus anticoagulant — the prolonged time does *not* correct, since the inhibitor persists and continues to interfere) — see [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Haemophilia for the specific application of this test to suspected factor VIII antibodies, not repeated here.
+
+**D-dimer**
+
+- **What it measures:** a fibrin degradation product, elevated whenever there has been clot formation *and* subsequent fibrinolysis — reflects clot turnover, not simply clot presence.
+- **High sensitivity, low specificity** — the key interpretive principle: a **negative D-dimer in a patient with low pre-test probability of VTE is genuinely useful for ruling out DVT/PE** (a normal result makes clinically significant clot very unlikely), but a **positive D-dimer is not diagnostic of VTE on its own**, given it's also elevated by pregnancy, recent surgery, malignancy, infection/sepsis, trauma, and simply increasing age — a positive result in a patient with low pre-test probability doesn't reliably indicate VTE and shouldn't automatically trigger extensive imaging without considering the overall clinical picture (e.g. Wells score) first.
+- **Practical use:** D-dimer is a rule-out test in the right clinical context (low-to-moderate pre-test probability), not a rule-in test — always interpret alongside a pre-test probability score rather than in isolation, given the specificity limitation above means a positive result alone carries limited diagnostic weight.
+- **Elevated in DIC specifically** (alongside the low platelets, low fibrinogen, and prolonged PT/APTT pattern) — see [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation (DIC) for the full disease-level detail, not repeated here.
+
+**Cross-reference:** see [[10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia]] Von Willebrand disease (vWD) and Haemophilia, [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation, [[10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia]] Antiphospholipid syndrome (APS), and [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin for the disease-level context each finding above feeds into.
+
+---
+
+<!-- ===== SOURCE: J3_Bleeding_and_Thrombosis.md ===== -->
+
 ## 0.2 Inherited Bleeding Disorders
 
 > [!warning] Von Willebrand disease — the commonest, and the pattern is mucocutaneous
@@ -3360,6 +3393,7 @@
 ---
 
 ## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)
+`CF-PAIR` **A third account. `J3 §0.1 Interpreting the Coagulation Screen` and `§1.17 Coagulation Screen and D-dimer Interpretation` sit side by side earlier in this same file. All three kept in full, NOT reconciled.**
 
 **D:** The routine screen of the clotting cascade. **PT/INR** assesses the **extrinsic and common** pathways (factors VII, X, V, II, fibrinogen); **APTT** assesses the **intrinsic and common** pathways (XII, XI, IX, VIII, X, V, II, fibrinogen); **fibrinogen** and **D-dimer** complete the picture.
 

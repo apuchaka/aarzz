@@ -1137,6 +1137,51 @@ Recurrent unexplained acidosis warrants investigation for renal tubular acidosis
 
 ---
 
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of blood-gas interpretation, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> The framework above and the step-by-step reading below were written separately and overlap heavily. A third account, `### 0.20.6 Arterial Blood Gas Reference Values`, is also in this file.
+
+## 1.5 ABG / VBG Interpretation
+
+**What it measures:** oxygenation, ventilation (CO2), and acid-base status — one of the highest-yield "read the result" skills across both MCQ and OSCE, since it's tested via numbers rather than an image and rewards a consistent stepwise approach.
+
+**Systematic approach:**
+
+1. **Assess oxygenation first (independent of acid-base status):** PaO2 <80mmHg (~10.6kPa) on room air suggests hypoxaemia — check the FiO2/O2 delivery the patient was on at the time, since a "normal" PaO2 on high-flow O2 may still represent significant underlying lung disease. See [[02_Respiratory]] Respiratory Failure for the Type I (hypoxaemic) vs Type II (hypoxaemic + hypercapnoeic) classification this feeds into.
+
+2. **Check the pH:** <7.35 = acidaemia; >7.45 = alkalaemia. This tells you the net direction but not yet the cause.
+
+3. **Check PaCO2 (the respiratory component):**
+   - PaCO2 >45mmHg (~6kPa) with acidaemia → respiratory acidosis (hypoventilation — e.g. COPD exacerbation, opioid overdose, exhaustion in severe asthma — see [[02_Respiratory]] Asthma acute exacerbation, where a rising/normalising CO2 in a tachypnoeic patient is a red flag for exhaustion, not reassurance)
+   - PaCO2 <35mmHg (~4.7kPa) with alkalaemia → respiratory alkalosis (hyperventilation — anxiety, PE, early asthma/sepsis before exhaustion sets in, pain)
+
+4. **Check HCO3⁻ (the metabolic component):**
+   - HCO3⁻ <22mmol/L with acidaemia → metabolic acidosis
+   - HCO3⁻ >26mmol/L with alkalaemia → metabolic alkalosis
+
+5. **Match the direction of pH change to which component (respiratory or metabolic) moved the "wrong way" to explain it** — the disturbance that matches the direction of the pH change is the primary one; the other value has either not yet responded (acute) or is compensating (chronic/compensated).
+   - **Compensation logic:** the body always compensates in the *same direction* as the primary disturbance (i.e. it doesn't overcorrect past normal) — a metabolic acidosis triggers respiratory compensation (hyperventilation, ↓CO2) via the same pH-lowering-opposing direction, and a chronic respiratory acidosis (e.g. COPD) triggers renal compensation (↑HCO3⁻ reabsorption) over days. **Fully compensated** = pH has returned to (near-)normal despite the underlying primary disturbance still being present — this is the "compensated respiratory acidosis" pattern expected in a stable COPD patient (see [[02_Respiratory]] COPD Exacerbation), and its *absence* (an uncompensated/partially-compensated picture in a known chronic retainer) suggests a more acute superimposed process.
+
+6. **If metabolic acidosis — calculate the anion gap** (Na⁺ − [Cl⁻ + HCO3⁻], normal ~8–16mmol/L) to narrow the cause:
+   - **Raised anion gap:** mnemonic "MUDPILES" — Methanol, Uraemia, DKA, Propylene glycol/Paraldehyde, Iron/Isoniazid, Lactic acidosis (e.g. sepsis, tissue hypoperfusion, seizure), Ethylene glycol, Salicylates
+   - **Normal anion gap (hyperchloraemic):** GI bicarbonate loss (diarrhoea), renal tubular acidosis, early renal failure
+
+7. **Check lactate specifically if raised/unwell:** elevated lactate is a marker of tissue hypoperfusion/anaerobic metabolism — relevant to sepsis severity (see [[01_Cardiovascular]] Shock, Septic shock) and can itself widen the anion gap.
+
+**Where this feeds into disease-specific content already documented (not repeated here):** [[02_Respiratory]] Asthma (acute exacerbation — hypercapnoea as a marker of exhaustion), COPD (chronic compensated respiratory acidosis and controlled O2 targets in known CO2 retainers), ARDS (severe hypoxaemia, PaO2/FiO2 ratio as a diagnostic/severity criterion), and Respiratory Failure (Type I vs Type II classification table). See [[01_Cardiovascular]] Shock for lactate's role in septic/hypovolaemic shock assessment.
+
+**Pitfalls:**
+- VBG is a reasonable substitute for ABG for pH/HCO3⁻/lactate in most acute settings (avoiding a painful arterial stab), but venous PaO2/PaCO2 do **not** reliably reflect arterial values — an ABG is still needed when oxygenation/ventilation status specifically must be known precisely (e.g. confirming hypercapnoea in a COPD exacerbation).
+- A "normal" pH does not mean no acid-base disturbance is present — mixed disturbances (e.g. a metabolic acidosis and a respiratory alkalosis occurring together) can partially cancel out and normalise the pH while both underlying processes remain clinically significant.
+
+---
+
+<!-- ===== SOURCE: F0-2_Acid-Base__DKA_and_Fluid_States.md ===== -->
+
 ## 0.2 HAGMA — Diabetic Ketoacidosis (the acid-base picture)
 
 **D:** High anion gap metabolic acidosis produced by accumulation of ketoacids in absolute or relative insulin deficiency.

@@ -3055,6 +3055,44 @@ Immunotherapy or biologic therapy through a specialist service.
 
 **Alt:** Gram stain (speed); 16S rRNA PCR or targeted NAAT where the patient is pre-treated with antibiotics; blood cultures; imaging for a collection needing drainage — **no antibiotic sterilises an undrained abscess**.
 
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of microbiology specimen collection and interpretation, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> **This is not the partner the flag rows named.** The pair-mark was against `NEW_Investigations_Respiratory §0.5 Sputum Culture` in `[[Resp_merged]]`. The wound-swab and Gram-stain entries above are the closer match, and sputum culture is genuinely respiratory, so the entry came here instead. The Resp account is marked from both ends.
+
+## 1.18 Blood Cultures and Microbiology Basics
+
+> [!note] Gap-filled from CSV ("Blood cultures/microbiology basics," Medium yield; "Wound swab/surgical site MC&S," Medium yield) — genuinely absent as a systematic topic despite being referenced constantly throughout the Infectious Disease files. This entry covers the general principles of specimen collection and interpretation that apply across essentially all microbiology testing; disease-specific culture findings are covered in their respective sections (e.g. [[08_01-03_Infectious_Disease_-_Bacterial_Infections]], [[07_Renal_Medicine_and_Urology]] Urinary Tract Infections), not repeated here.
+
+**Blood cultures:**
+1. **Timing and technique matter enormously for result validity** — ideally taken **before** antibiotics are started, since even a single dose can sterilise a culture and produce a false negative in a genuinely bacteraemic patient; if the patient is already on antibiotics and cultures are urgently needed, take them anyway rather than waiting, but interpret a negative result cautiously in that context.
+2. **Take from two separate peripheral sites** (not through an existing IV cannula alone, given the risk of contamination or dilution) — this is standard practice both to increase diagnostic yield and to help distinguish true bacteraemia from contamination (see point 4 below).
+3. **Volume matters** — under-filling culture bottles significantly reduces sensitivity; aim for the manufacturer-recommended fill volume per bottle.
+4. **Distinguishing true bacteraemia from contamination:**
+   - **Organism identity is the single most useful clue** — coagulase-negative staphylococci (e.g. *S. epidermidis*), diphtheroids, and *Bacillus* species (non-anthracis) growing from only one of two/multiple bottles are commonly skin-flora contaminants, particularly in a clinically well patient; the same organisms growing from multiple separate draws, or in a patient with an indwelling line/prosthetic material, are more likely to represent true infection.
+   - *S. aureus*, *E. coli* and other Enterobacterales, and *Candida* species growing from blood cultures should generally be treated as significant/true bacteraemia even from a single bottle, given these organisms rarely represent contamination.
+   - Time-to-positivity (how quickly the culture flags positive) can be a supporting clue — a more heavily-inoculated true infection typically flags faster than a lightly-contaminated specimen, though this is a supporting feature, not a definitive discriminator on its own.
+5. **Result timing:** most cultures flag positive within 24–48h if organisms are present, though some fastidious/slow-growing organisms (e.g. some causes of culture-negative endocarditis — see [[01_Cardiovascular]] Infective Endocarditis for the disease-level detail on this, not repeated here) take substantially longer or never grow on standard culture, requiring specific serological or molecular testing instead.
+
+**Wound and surgical site swabs:**
+1. **Technique affects yield** — swab the wound base/leading edge of active infection where present, not just surface exudate or slough, which often yields colonising rather than infecting organisms.
+2. **Colonisation vs infection is the key interpretive challenge** — essentially all open wounds grow some organisms on culture; a positive swab alone doesn't establish clinical infection, which requires supporting clinical signs (increasing pain, spreading erythema, purulent discharge, systemic symptoms, delayed healing) — treating a positive swab in a clinically well-healing wound risks unnecessary antibiotic use and resistance selection.
+3. **Deep tissue/bone specimens are more reliable than superficial swabs** when osteomyelitis or deep surgical site infection is specifically suspected, given superficial swabs are prone to surface-flora contamination that doesn't reflect the deep infecting organism.
+
+**General principles across all microbiology specimens:**
+- **Always interpret microbiology results alongside the clinical picture**, not in isolation — the recurring theme across urine, blood, and wound specimens above is that a positive culture confirms an organism is present, not necessarily that it's causing clinically significant infection requiring treatment.
+- **Send specimens before starting/changing antibiotics wherever feasible**, for the same sensitivity reasons noted for blood cultures above — this applies across specimen types.
+- **Antimicrobial stewardship**: narrow empirical therapy to the specific organism/sensitivities once results return, rather than continuing broad-spectrum cover unnecessarily — see the various disease-specific eTG-verified regimens throughout [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] and other Infectious Disease files for the AU-specific empirical-to-targeted therapy principle in practice.
+
+**Cross-reference:** see [[01_Cardiovascular]] Infective Endocarditis, [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] and the other Infectious Disease files throughout this project for the disease-level context each type of microbiology result feeds into.
+
+---
+
+<!-- ===== SOURCE: NEW_Investigations_Infectious_Diseases.md ===== -->
+
 ## 0.3 Viral Culture
 
 **D:** Growth of virus in cell culture with identification by cytopathic effect or immunostaining.
@@ -3375,6 +3413,7 @@ Immunotherapy or biologic therapy through a specialist service.
 **Alt:** Duodenal biopsy (gold standard); HLA-DQ2/DQ8 — useful for its **negative** predictive value, since absence makes coeliac disease very unlikely, but a positive is common in the general population and does not diagnose.
 
 ## 0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl-70, Anti-histone, Myositis Antibodies)
+`CF-PAIR` **Two further accounts of autoantibody interpretation sit side by side in `[[MSK_merged]]` — `L2 §0.6 Autoantibody and Serology Interpretation` and `§1.16 Autoimmune Markers — Systematic Reference`. Autoimmune serology in an infectious-diseases investigations file is arguably a misfile; that is a separate decision and nothing was moved. All kept in full, NOT reconciled.**
 
 **D:** Panel of autoantibodies used to characterise connective tissue disease, usually beginning with **ANA** and reflexing to **extractable nuclear antigen (ENA)** specificities.
 
@@ -3401,6 +3440,7 @@ Immunotherapy or biologic therapy through a specialist service.
 **Alt:** Complement C3/C4; inflammatory markers; organ-specific assessment (urinalysis and UPCR, CK, pulmonary function tests, high-resolution CT chest); biopsy.
 
 ## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)
+`CF-PAIR` **See the marker on `§0.19` above — the two rheumatology accounts are side by side in `[[MSK_merged]]`. All kept in full, NOT reconciled.**
 
 **D:** Not a test — the **clinical problem of an autoantibody result returned positive without a matching clinical syndrome**, most often an incidentally ordered ANA or rheumatoid factor.
 

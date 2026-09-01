@@ -2194,6 +2194,47 @@ Determined by the fluid and the clinical picture.
 > Polyarthralgia and inflammatory arthritis → [[L2]] · Muscle symptoms and widespread pain → [[L3]] · Regional limb pain → [[L5]] · Cellulitis and pseudocellulitis → [[K2]] 0.1 · Fever workup → [[K1]] · Disseminated gonococcal infection and STI testing → [[O6]] 0.2 · Ross River and vector-borne arthritis → [[K3]] 0.6 · Bleeding disorders and haemophilia → [[A9]] 0.3 and [[J3]] · Calcium, PTH and haemochromatosis in CPPD → [[I3]] · Charcot joint and the diabetic foot → [[I2]] 0.6 · Allopurinol hypersensitivity and SCARs → [[A5]] 0.6 · Sarcoma referral before biopsy → [[B6]] 0.8 · Paediatric limp and hip → [[M5]] · Aboriginal and Torres Strait Islander health and gout equity → [[AU1]]
 
 
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of synovial fluid interpretation, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> A third account is the **procedure** itself, `GER8 §0.5 Arthrocentesis`, now in `[[Procedures]]`. Three copies, none reconciled.
+
+## 1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach
+
+`CF-PAIR` **THREE-WAY. The second account is `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration and Synovial Fluid Interpretation`, immediately above this one. The third is the **procedure**, `GER8 §0.5 Arthrocentesis`, in `[[Procedures]]`. All three kept in full, NOT reconciled.**
+
+> [!note] Gap-filled from CSV ("Joint aspirate analysis," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — the individual synovial fluid findings for specific diagnoses are scattered throughout [[11_01_Ortho_-_Orthopaedic_Emergencies]] (Septic arthritis), [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], and [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] (Gout, Pseudogout), but never consolidated into one systematic interpretation framework — built here in the same spirit as the FBC/Blood Film and Coagulation Screen entries above.
+
+**Why aspirate:** a hot, swollen, acutely painful joint should prompt joint aspiration essentially routinely, given the single most important diagnostic task is **excluding septic arthritis** — see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis for the disease-level urgency and Mx this feeds into, not repeated here. Aspiration should ideally occur **before** starting antibiotics where possible, given antibiotics can sterilise the fluid and reduce diagnostic yield — the same principle as blood cultures before antibiotics elsewhere in this project.
+
+**Systematic interpretation — work through in this order:**
+
+1. **Appearance:** normal synovial fluid is clear/pale yellow and viscous; **turbid/purulent fluid** raises concern for infection; **blood-stained fluid (haemarthrosis)** suggests trauma, a bleeding disorder, or anticoagulation — a genuinely different differential from turbid fluid, worth distinguishing early by simple visual inspection before any lab result returns.
+2. **Cell count and differential:** the single most useful quantitative discriminator between inflammatory and non-inflammatory processes — very high white cell counts (particularly with a neutrophil predominance) point strongly toward septic arthritis or crystal arthropathy (gout/pseudogout can produce counts nearly as high as infection, which is exactly why microscopy for crystals, not cell count alone, is needed to distinguish them); lower counts with a more mixed or mononuclear picture are more typical of non-inflammatory (e.g. osteoarthritis) or milder inflammatory processes.
+3. **Gram stain and culture:** the definitive test for septic arthritis, though a negative Gram stain does **not** exclude infection given its imperfect sensitivity — culture remains the reference standard, and empirical treatment for septic arthritis should not be withheld while awaiting culture results if clinical suspicion is high, per the urgency principle in [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis.
+4. **Polarised light microscopy for crystals — the key test distinguishing the two major crystal arthropathies:**
+   - **Gout:** needle-shaped, **negatively birefringent** monosodium urate crystals — see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout for the disease-level detail, not repeated here.
+   - **Pseudogout:** rhomboid-shaped, **weakly positively birefringent** calcium pyrophosphate crystals — see the same file's Pseudogout entry, not repeated here.
+   - The birefringence direction (negative vs weakly positive) is the classic, frequently-tested distinguishing feature between the two — worth having genuinely automatic given how similarly gout and pseudogout can present clinically despite this clear lab distinction.
+
+> [!info] Quick-reference summary table
+> | Finding | Non-inflammatory (e.g. OA) | Inflammatory (e.g. RA, reactive arthritis) | Septic | Crystal (gout/pseudogout) |
+> |---|---|---|---|---|
+> | Appearance | Clear/straw | Cloudy/yellow | Turbid/purulent | Cloudy |
+> | WCC | Low (<2000/mm³) | Moderate-high | Very high | High (can overlap with septic) |
+> | Neutrophil % | Low | Moderate | High | High |
+> | Gram stain/culture | Negative | Negative | Often positive | Negative |
+> | Crystals | Absent | Absent | Absent | Present (see birefringence distinction above) |
+
+**Cross-reference:** see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis, [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout and Pseudogout, and [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] for the disease-level context each finding above feeds into.
+
+---
+
+<!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
+
 <!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
 
 
@@ -2484,6 +2525,48 @@ Induction with corticosteroids plus cyclophosphamide or rituximab, then maintena
 > [!note] Cross-references
 > The hot swollen joint and septic arthritis → [[L1]] · Muscle symptoms, PMR and giant cell arteritis → [[L3]] · Inflammatory back pain and axial disease → [[L4]] · Regional limb pain → [[L5]] · Giant cell arteritis → [[D1]] 0.4 · Mononeuritis multiplex and inflammatory myopathy → [[D4]] 0.4, 0.6 · Palpable purpura → [[G3]] · Anterior uveitis → [[E1]] · Interstitial lung disease → [[RESP-X]] · Cervical spine and anaesthesia → [[F0.4]] 0.6 and [[AN1]] · Pre-immunosuppression screening → [[K3]] 0.5 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Cardiovascular risk in inflammatory disease → [[B2]] 0.1 · Anticoagulation in antiphospholipid syndrome → [[A9]] 0.4 and [[J3]] · Pregnancy, anti-Ro and congenital heart block → [[O2]] · Myeloma and the ESR-CRP discordance → [[J4]] · IgA vasculitis in children → [[M5]] · Aboriginal and Torres Strait Islander health → [[AU1]]
 
+
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of autoantibody interpretation, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> Two further accounts sit in `[[Infectious Disease_merged]]` — `NEW_Investigations_Infectious_Diseases §0.19` and `§0.20` — where autoimmune serology is arguably misfiled. They were not moved; that is a separate decision.
+
+## 1.16 Autoimmune Markers — Systematic Reference
+
+> [!note] Gap-filled from CSV ("Autoimmune markers," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — genuinely absent as a consolidated reference despite ANA, RF, anti-CCP, ANCA, and complement levels being scattered across [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] without ever being brought together into one interpretive framework. This entry consolidates the pattern; disease-specific detail is cross-referenced rather than repeated here.
+
+**General interpretive principle:** autoimmune markers should always be interpreted in the context of clinical suspicion, not used as a screening panel in patients with a low pre-test probability of autoimmune disease — most of these markers have a meaningful false-positive rate in the general population (particularly ANA), so an isolated positive result in a patient without a compatible clinical picture is more often a false positive than a new diagnosis.
+
+**ANA (antinuclear antibody):**
+- Highly **sensitive** but poorly **specific** — positive in 99% of SLE (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE)) but also positive in a meaningful proportion of the healthy general population (increasing with age), and in many other autoimmune and even non-autoimmune conditions — a positive ANA alone is a starting point for further testing, not a diagnosis.
+- A negative ANA makes SLE genuinely unlikely (given its high sensitivity) and is a reasonable test to rule the diagnosis out; a positive ANA needs to be followed by more specific antibody testing (anti-dsDNA, anti-Smith, extractable nuclear antigens) to build a clinically meaningful picture. **Anti-Smith (anti-Sm) is the inverse of ANA in this respect: highly specific (close to 99%) for SLE but poorly sensitive (only around 30% of SLE patients test positive)** — a positive anti-Smith result is genuinely strong supporting evidence for SLE given how few other conditions produce it, but a negative result does very little to rule the diagnosis out, unlike a negative ANA.
+
+**Rheumatoid factor (RF) and anti-CCP:**
+- **RF:** positive in ~70% of RA (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Rheumatoid arthritis (RA)) but also positive in other autoimmune conditions (Sjögren syndrome, SLE) and in a proportion of healthy older adults — genuinely non-specific on its own.
+- **Anti-CCP:** more specific for RA than RF (90–95% positive in RA, with fewer false positives in unrelated conditions) — anti-CCP positivity, particularly combined with clinical features, carries more diagnostic weight than RF alone, and can also be a useful early marker (sometimes positive before RF or before overt joint disease is established).
+
+**ANCA (anti-neutrophil cytoplasmic antibody) — cANCA vs pANCA:**
+- **cANCA** — classically associated with granulomatosis with polyangiitis (GPA/Wegener's), positive in >90% (see [[12_04_Rheum_-_Vasculitis]] Granulomatosis with polyangiitis (GPA, formerly Wegener's)).
+- **pANCA** — classically associated with eosinophilic granulomatosis with polyangiitis (EGPA/Churg-Strauss, ~60%) and microscopic polyangiitis (50–75%) — see [[12_04_Rheum_-_Vasculitis]] for the disease-level detail and the GPA vs EGPA comparison table, not repeated here.
+- **Neither pattern is perfectly specific to a single disease** — some overlap exists (e.g. cANCA in a minority of EGPA, pANCA in a minority of GPA), so ANCA pattern narrows the differential rather than confirming a single diagnosis in isolation; always interpret alongside the clinical picture per the general principle above.
+
+**Complement levels (C3, C4):**
+- **Low complement** reflects consumption by active immune complex formation — classically tracked in SLE, where **falling complement alongside rising anti-dsDNA titres supports an active lupus flare** (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE), not repeated here) — complement trending is a genuinely useful way to monitor disease activity over time, distinct from a one-off diagnostic test.
+- Low C4 specifically is also relevant to hereditary angioedema (see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hereditary angioedema) — a good example of why the same lab value can mean genuinely different things depending on the clinical context it's ordered in.
+
+**Extractable nuclear antigens (ENA) — anti-Ro/La, anti-Scl-70, anti-centromere, anti-Jo-1:**
+- **Anti-Ro (SSA) and anti-La (SSB):** associated with Sjögren syndrome (70% and 30% respectively — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Sjögren syndrome) and SLE; anti-Ro specifically also carries relevance in pregnancy given the (rare) risk of neonatal lupus/congenital heart block.
+- **Anti-Scl-70 (topoisomerase I):** associated with diffuse cutaneous systemic sclerosis, generally the more severe phenotype; **anti-centromere antibodies** associated with limited cutaneous systemic sclerosis (CREST) — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic sclerosis (scleroderma) for the LeRoy classification this maps onto, not repeated here.
+- **Anti-Jo-1:** associated with dermatomyositis/polymyositis, particularly the subset with interstitial lung disease — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Dermatomyositis, not repeated here.
+
+**Cross-reference:** see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] for the full disease-level detail each marker pattern above feeds into.
+
+---
+
+<!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
 
 <!-- ===== SOURCE: L3_Muscle_Symptoms_and_Widespread_Pain.md ===== -->
 
@@ -3508,6 +3591,48 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 > **Imaging the joint above and below is what catches the associated dislocations** — a Monteggia or Galeazzi injury is missed when only the mid-shaft is imaged, and the dislocation is the part that causes long-term disability. See 0.3.
 
 ---
+
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of describing a fracture on a film, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> The ten-point description above and the systematic approach below cover the same task in different words.
+
+## 1.7 Limb X-Ray and Fracture Description — Systematic Approach
+
+> [!note] Gap-filled from CSV ("Fracture lines in FRACTUREs," High yield, and "deformities (displacement vs angulation vs rotation)," Low yield) — genuinely absent as a unifying systematic approach despite CXR and AXR both having one above, and despite individual fracture entries throughout [[11_02_Ortho_-_Upper_Limb__Shoulder__Elbow__Distal_Radius_Fractures_]] and elsewhere in Orthopaedics describing displacement/angulation for specific fractures without a single reference explaining the underlying descriptive framework itself.
+
+**Why this matters:** unlike CXR/AXR, a limb X-ray read is less about spotting one classic pattern and more about **precisely and reproducibly describing what's found**, since that description directly drives the reduction-vs-surgery decision for the specific fracture — the same displacement/angulation vocabulary is used throughout the individual fracture entries elsewhere in this project, so understanding it here as a standalone skill makes each of those entries easier to interpret rather than needing to be re-explained fracture by fracture.
+
+**Practical basics first:** at least **two orthogonal views** (typically AP and lateral) are required to properly assess a fracture — a single view can hide displacement, angulation, or rotation that's only apparent from the second plane, and can make a foreshortened-but-actually-normal-length bone look shortened when it's really just angulated out of the imaging plane. Include the joint above and below a long bone fracture on the request where clinically relevant, given a second, less obvious injury can otherwise be missed.
+
+**The PLACES framework — a systematic structure for describing any fracture:**
+
+1. **Pattern:** the configuration of the fracture line itself, which reflects the mechanism of injury and gives a clue to stability —
+   - **Transverse** (straight across, perpendicular to the long axis — typically a direct blow).
+   - **Oblique** (diagonal across the bone — typically an angulatory force).
+   - **Spiral** (curves around the bone — typically a rotational/torsional force; a genuinely important pattern to recognise given an unexplained spiral fracture, particularly in a non-ambulatory child, raises concern for non-accidental injury — see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]], not repeated here).
+   - **Comminuted** (more than two fragments — implies a higher-energy mechanism and is generally less stable).
+   - **Avulsion** (a bone fragment pulled off at a tendon/ligament attachment by traction, rather than a direct fracturing force through the bone shaft).
+   - **Buckle/torus and greenstick** (incomplete fractures specific to the more pliable, still-growing paediatric skeleton — these patterns occur because a child's bone bends and buckles rather than breaking cleanly the way an adult's more brittle bone does).
+2. **Location:** described by the specific bone and the region within it — long bones are conventionally divided into **epiphysis** (the end, at/near the joint), **metaphysis** (the flared region between epiphysis and shaft), and **diaphysis** (the shaft) — and further specified as proximal/middle/distal third where relevant. Note specifically whether the fracture is **intra-articular** (extends into the joint surface) versus **extra-articular**, given intra-articular involvement generally raises the surgical threshold given the risk of post-traumatic arthritis if the joint surface isn't accurately restored.
+3. **Alignment (displacement, angulation, rotation, and length) — the core of the "deformity" description:**
+   - **Displacement:** the offset of the distal fragment relative to the proximal fragment, described as a percentage of bone width or in millimetres, and by direction (e.g. "50% dorsal displacement") — **translation** specifically means side-to-side offset, while **distraction** means the fragments have separated with a gap between them.
+   - **Angulation:** the angle between fragments, described by the direction the distal fragment's apex points relative to the bone's long axis (e.g. dorsal/volar for the wrist, valgus/varus more generally — valgus meaning the distal fragment points away from the midline, varus meaning it points toward the midline).
+   - **Rotation:** twisting of the distal fragment relative to the proximal fragment along the bone's long axis — often better assessed clinically (e.g. finger cascade/alignment when the hand is examined in flexion) than on plain X-ray, and best seen radiographically on oblique views specifically; a genuinely important pattern to actively check for in spiral fractures of the hand and forearm, given rotational malalignment is easy to miss if not specifically sought.
+   - **Length:** shortening (from impaction or fragment overriding/"bayonet apposition") or lengthening (from distraction) — an oblique fracture shortens more readily than a transverse one, since a transverse fracture would need to fully "off-end" before length is lost, a useful point for anticipating which fracture patterns are prone to shortening.
+   - **Convention:** displacement, angulation, and rotation are all described **of the distal fragment relative to the proximal fragment** — this consistent convention is what makes fracture descriptions reproducible between clinicians, and confusing the direction (describing the proximal fragment's position relative to the distal one) is a common source of miscommunication.
+4. **Closed vs open (Compound):** whether the overlying skin is breached, communicating the fracture site with the external environment — a genuinely important distinction changing management urgency (open fractures need urgent debridement/antibiotics given the markedly higher infection risk) and classification (e.g. Gustilo-Anderson grading for open fractures) — see the individual fracture entries throughout Orthopaedics for open-fracture-specific management where relevant, not repeated here.
+5. **Examination findings:** neurovascular status specifically (distal pulses, capillary refill, and the specific nerves at risk for that fracture's location and displacement direction) — genuinely the most clinically important part of the assessment for many fractures, not just a box-ticking addition to the imaging description, given nerve/vascular injury needs urgent recognition and can be missed if the assessment focuses on the X-ray alone.
+6. **Special investigations:** further imaging where plain film is insufficient — CT for complex intra-articular fractures needing precise 3D characterisation before surgical planning, or MRI where an occult fracture is suspected clinically despite a normal/equivocal X-ray (e.g. suspected scaphoid fracture with a normal initial film — see [[11_03_Ortho_-_Hand_and_Foot]] for the disease-level detail on this specific scenario, not repeated here).
+
+**Practical pitfall worth naming explicitly:** subtle but significant findings can be missed without deliberately looking for them — e.g. a posterior fat pad sign at the elbow (suggesting an occult fracture even when no fracture line is clearly visible, given a haemarthrosis elevates the fat pad) — see [[11_02_Ortho_-_Upper_Limb__Shoulder__Elbow__Distal_Radius_Fractures_]] for this specific sign in context, not repeated here; a systematic PLACES-based read, rather than only scanning for an obvious fracture line, is what catches these subtler findings.
+
+---
+
+<!-- ===== SOURCE: L7_Fractures_and_Eponyms.md ===== -->
 
 ## 0.2 Fracture Healing and Complications
 

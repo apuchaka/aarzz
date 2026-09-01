@@ -233,6 +233,67 @@ system file · no Clinical Process combinations · **no merging of any duplicate
 
 ---
 
+## RESUME POINT — 2026-09-01, section-reorder run
+
+**Queue:** (1) resolve the 10 split pairs downward — **DONE**, commit below.
+(2) reorder sections within each file for studying — **IN PROGRESS**, one commit per file,
+progress table kept in this section. (3) whole-vault verification.
+
+### 1 · The 10 split pairs — resolved DOWNWARD (done)
+
+Six Part 1 accounts left `Investigation-Interpretation.md` and now sit **immediately after**
+their duplicate partner in the system file:
+
+| Part 1 account | now sits after | in |
+|---|---|---|
+| `§1.5 ABG / VBG Interpretation` | `F0-2 §0.1 Acid-Base Interpretation — Framework` | `Endocrine and metabolics_merged.md` |
+| `§1.7 Limb X-Ray and Fracture Description` | `L7 §0.1 Describing a Fracture` | `MSK_merged.md` |
+| `§1.15 Joint Aspirate (Synovial Fluid) Analysis` | `L1 §0.6 Joint Aspiration and Synovial Fluid Interpretation` | `MSK_merged.md` |
+| `§1.16 Autoimmune Markers — Systematic Reference` | `L2 §0.6 Autoantibody and Serology Interpretation` | `MSK_merged.md` |
+| `§1.17 Coagulation Screen and D-dimer Interpretation` | `J3 §0.1 Interpreting the Coagulation Screen` | `Heme Onc_merged.md` |
+| `§1.18 Blood Cultures and Microbiology Basics` | `§0.2 Microbiology Panel (Wound Culture and Sensitivity)` | `Infectious Disease_merged.md` |
+
+Six moves cover the ten split accounts because four of the ten are **second and third**
+partners of the same Part 1 entry. Those four are marked from their own end instead:
+`ID §0.19`, `ID §0.20` (→ the `§1.16` pair), `Heme Onc §0.11` (→ the `§1.17` pair) and
+`Resp §0.5 Sputum Culture` (→ `§1.18`).
+
+**One decision taken alone, and it is reversible by moving one section.** `§1.18 Blood
+Cultures and Microbiology Basics` went to **Infectious Disease, not Respiratory**. The
+flag rows had paired it with `NEW_Investigations_Respiratory §0.5 Sputum Culture`, but the
+entry is blood cultures, wound swabs and general specimen principles, and Infectious Disease
+already holds `§0.1 Gram Stain` and `§0.2 Microbiology Panel (Wound Culture and Sensitivity)` —
+the wound-swab half of the entry has its partner there. **The alternative, if you disagree:
+move `§1.18` to `Resp_merged.md` directly after `§0.5 Sputum Culture`.** Both ends are marked
+either way.
+
+**A second, smaller one.** `§1.16` had three partners in two files. It went to `MSK_merged.md`
+beside the rheumatology account, not to Infectious Disease. Autoimmune serology sitting in an
+ID investigations file looks like a misfile; that is a separate decision and nothing was moved.
+
+Part 1 keeps `§1.1–1.4`, `§1.6`, `§1.8–1.14`, `§1.19–1.22`, which have no system-file partner.
+**The numbering is not repaired** — §1.14 forbids it, and the gaps make the moves visible.
+
+### 2 · Reorder — progress
+
+`scripts/aftermove.py` runs after every file. It carries its own known-answer self-test and
+refuses to report if the self-test fails.
+
+| File | Status |
+|---|---|
+| *(none yet — starting)* | |
+
+### Standing finding, not caused by either pass
+
+`aftermove.py` check 3 reports **29 prose `[[File]] Section` pointers whose named section is
+not in the target file**. All 29 line-for-line predate this run — verified against `HEAD` — and
+several are artefacts of the matcher clipping a long heading. The real ones come from earlier
+passes that moved content (e.g. `[[Examination]] Pleural Aspiration`, which is now in
+`Procedures.md`). **Recorded, not fixed**: fixing them is its own small job and does not belong
+inside a reorder commit.
+
+---
+
 ## REVERTED — `ac620de` (2026-09-01, on your instruction)
 
 **The section below is history. It describes a state the vault is no longer in.**
