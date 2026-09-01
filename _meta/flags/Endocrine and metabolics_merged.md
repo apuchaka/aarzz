@@ -1,5 +1,31 @@
 # Endocrine and metabolics_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 9 · lines 3667 · `06_Metabolic_Medicine_and_Endocrinology` 37 inbound.
 Numbering drift: **none**. Zero inbound: `NEW_Acid-Base_Fluids_and_Electrolytes`, `NEW_Investigations_Endocrine`.
@@ -20,11 +46,11 @@ in the vault (1 of 295) concatenated into two merged docs.** Needs a single home
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
 | E-1 | `## 0.1 Thyroid Panel (TSH, fT4, fT3, antibodies)` | 3468 | **Investigation-Interpretation.md** | |
-| E-2 | `## 0.2 Thyroid Ultrasound` · `## 0.3 Radioactive Iodine Uptake and Scintigraphy` | 3497, 3516 | **Investigation-Interpretation.md** | TIRADS reporting; uptake patterns |
+| E-2 | `## 0.2 Thyroid Ultrasound` · `## 0.3 Radioactive Iodine Uptake and Scintigraphy` | 3497, 3516 | **Investigation-Interpretation.md** | TIRADS reporting; uptake patterns **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | E-3 | `## 0.4 Glucose / Diabetes Testing (glucose, HbA1c, OGTT)` | 3536 | **Investigation-Interpretation.md** | |
-| E-4 | `## 0.5 Prolactin` · `## 0.6 Renin–Aldosterone (ARR)` | 3558, 3575 | **Investigation-Interpretation.md** | macroprolactin; ARR interference |
-| E-5 | `### 0.20.6 Arterial Blood Gas Reference Values` | 768 | **Investigation-Interpretation.md §1.5** | **§1.5 "ABG / VBG Interpretation" already exists there** |
-| E-6 | `## 0.1 Acid-Base Interpretation — Framework` (F0-2) | 1077 | **Investigation-Interpretation.md §1.5** | *"a structured method for converting a blood gas plus electrolytes into a named disorder"* — that is §1.5's job description |
+| E-4 | `## 0.5 Prolactin` · `## 0.6 Renin–Aldosterone (ARR)` | 3558, 3575 | **Investigation-Interpretation.md** | macroprolactin; ARR interference **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| E-5 | `### 0.20.6 Arterial Blood Gas Reference Values` | 768 | **Investigation-Interpretation.md §1.5** | **§1.5 "ABG / VBG Interpretation" already exists there** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| E-6 | `## 0.1 Acid-Base Interpretation — Framework` (F0-2) | 1077 | **Investigation-Interpretation.md §1.5** | *"a structured method for converting a blood gas plus electrolytes into a named disorder"* — that is §1.5's job description **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 
 ### Misplaced investigations (not self-declared — found by reading)
 | ID | Section | L | → | Why |

@@ -1,5 +1,31 @@
 # MSK_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 24 · lines 5052 · numbering drift: **none**.
 Zero inbound: `NEW_Orthopaedics_and_Trauma`, `NEW_Rheumatology_and_Immunology`.
@@ -24,15 +50,15 @@ Its own title says *"and Other"*. **18 entries; 11 are neither orthopaedic nor n
 ## PROPOSED MOVES — investigation interpretation (standing rule, as extended)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| K-13 | `## 0.6 Joint Aspiration and Synovial Fluid Interpretation` (L1) | 2161 | **Investigation-Interpretation.md §1.15** | **§1.15 "Joint Aspirate (Synovial Fluid) Analysis" already exists** |
-| K-14 | `## 0.6 Autoantibody and Serology Interpretation` (L2) | 2471 | **Investigation-Interpretation.md §1.16** | **§1.16 already exists.** With ID I-2/I-3/I-4 this makes **four** files sending autoantibody interpretation to §1.16 |
-| K-15 | `## 0.1 Describing a Fracture` (L7) | 3505 | **Investigation-Interpretation.md §1.7** | **§1.7 is titled "Limb X-Ray and Fracture Description"** — the same job |
-| K-16 | `## Dermatomes — quick reference` + the 5 nerve-root/peripheral-nerve tables + `## Brachial Plexus Injury` (11_07a) | 797–891 | **Examination.md** | **5 inbound: Examination ×2, NEW_Exam_Manoeuvres, internal ×2.** A pure reference for the neurological examination. `GI C1` already cites it as *"the anatomy is already tabulated in [[11_07a…]]"* |
+| K-13 | `## 0.6 Joint Aspiration and Synovial Fluid Interpretation` (L1) | 2161 | **Investigation-Interpretation.md §1.15** | **§1.15 "Joint Aspirate (Synovial Fluid) Analysis" already exists** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| K-14 | `## 0.6 Autoantibody and Serology Interpretation` (L2) | 2471 | **Investigation-Interpretation.md §1.16** | **§1.16 already exists.** With ID I-2/I-3/I-4 this makes **four** files sending autoantibody interpretation to §1.16 **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| K-15 | `## 0.1 Describing a Fracture` (L7) | 3505 | **Investigation-Interpretation.md §1.7** | **§1.7 is titled "Limb X-Ray and Fracture Description"** — the same job **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| K-16 | `## Dermatomes — quick reference` + the 5 nerve-root/peripheral-nerve tables + `## Brachial Plexus Injury` (11_07a) | 797–891 | **Examination.md** | **5 inbound: Examination ×2, NEW_Exam_Manoeuvres, internal ×2.** A pure reference for the neurological examination. `GI C1` already cites it as *"the anatomy is already tabulated in [[11_07a…]]"* **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 
 ## PROPOSED MOVES — examination (standing rule)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| K-17 | 8 × `**Focused Hx:**` + 8 × `**Examination:**` in `NEW_Orthopaedics_and_Trauma` and `NEW_Rheumatology_and_Immunology` | 4889–5021 | **History-Taking.md / Examination.md** | L5021 is the classic *"look, feel, move, and assess neurovascular status"* |
+| K-17 | **6** × `**Focused Hx:**` + **6** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Orthopaedics_and_Trauma` and `NEW_Rheumatology_and_Immunology` | 4889–5021 | **History-Taking.md / Examination.md** | L5021 is the classic *"look, feel, move, and assess neurovascular status"* |
 | K-18 | `> Tinel's sign` · `> Phalen's sign` (11_03) | 395, 396 | **Examination.md** | *how to elicit*. **The carpal tunnel disease entry stays.** `NEW_Exam_Manoeuvres` already owns the analogous tests |
 
 > **Structural note for the Clinical Process output: `NEW_Exam_Manoeuvres_and_Procedures.md` Part 1

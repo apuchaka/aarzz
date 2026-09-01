@@ -1,5 +1,31 @@
 # Neuro_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 18 · lines 5867 (largest file) · `04_Neurology` **143 inbound — the most-referenced source
 in the vault** (Examination ×21, Opthalm ×16, Investigation-Interpretation ×15, Paediatrics ×13).
@@ -32,13 +58,13 @@ report should be actioned before this one, because it changes what "the Psychiat
 ## PROPOSED MOVES — investigation interpretation & examination (standing rule)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| N-1 | `### CSF Interpretation` (table: normal/bacterial/viral/TB/fungal) | 707 | **Investigation-Interpretation.md §1.13** | **§1.13 "CSF Interpretation" already exists.** ⚠️ **And you approved GI M-1 (`## 0.32 CSF Studies`) → Neuro.** With this, CSF would have **three** homes. **Recommend redirecting M-1 to Investigation-Interpretation instead** — please confirm |
-| N-2 | `### Who gets a CT head for head injury?` | 1452 | **Investigation-Interpretation.md §1.2** | §1.2 "CT Head — Systematic Approach" already exists. Carries a live note that AU pathways use the **Canadian CT Head Rule**, not NICE — **keep that caveat with it** |
-| N-3 | `### Glasgow Coma Scale (GCS)` | 719 | **Examination.md** | a scoring scale applied at the bedside |
-| N-4 | `## 0.1 Psychiatric Assessment and the Mental State Examination` (N1) | 3841 | **Examination.md §1.22** | opens *"The MSE is an EXAMINATION, not a history"* — the file argues the move itself. §1.22 MSE already exists |
-| N-5 | `## 0.2 Acute Vestibular Syndrome and the HINTS Examination` (D5) | 3016 | **Examination.md §1.21.2** | §1.21.2 "HINTS exam" already exists there |
-| N-6 | `## 0.1 Localising the Lesion` (D4) | 2700 | **Examination.md** | *"from cortex to muscle"* — the neurological examination's organising method |
-| N-7 | `## Brain Lesion Localisation` | 952 | **Examination.md** | lobe-by-lobe sign lists |
+| N-1 | `### CSF Interpretation` (table: normal/bacterial/viral/TB/fungal) | 707 | **Investigation-Interpretation.md §1.13** | **§1.13 "CSF Interpretation" already exists.** ⚠️ **And you approved GI M-1 (`## 0.32 CSF Studies`) → Neuro.** With this, CSF would have **three** homes. **Recommend redirecting M-1 to Investigation-Interpretation instead** — please confirm **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| N-2 | `### Who gets a CT head for head injury?` | 1452 | **Investigation-Interpretation.md §1.2** | §1.2 "CT Head — Systematic Approach" already exists. Carries a live note that AU pathways use the **Canadian CT Head Rule**, not NICE — **keep that caveat with it** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| N-3 | `### Glasgow Coma Scale (GCS)` | 719 | **Examination.md** | a scoring scale applied at the bedside **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| N-4 | `## 0.1 Psychiatric Assessment and the Mental State Examination` (N1) | 3841 | **Examination.md §1.22** | opens *"The MSE is an EXAMINATION, not a history"* — the file argues the move itself. §1.22 MSE already exists **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| N-5 | `## 0.2 Acute Vestibular Syndrome and the HINTS Examination` (D5) | 3016 | **Examination.md §1.21.2** | §1.21.2 "HINTS exam" already exists there **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| N-6 | `## 0.1 Localising the Lesion` (D4) | 2700 | **Examination.md** | *"from cortex to muscle"* — the neurological examination's organising method **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| N-7 | `## Brain Lesion Localisation` | 952 | **Examination.md** | lobe-by-lobe sign lists **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | N-8 | 8 × `**Focused Hx:**` + 8 × `**Examination:**` in `NEW_Neurology` | 5695–5830 | **History-Taking.md / Examination.md** | L5786 *"test the forehead first and explicitly — ask the patient to raise their eyebrows"* is pure technique |
 
 ## PROPOSED MOVES — topic in the wrong system
@@ -62,7 +88,7 @@ report should be actioned before this one, because it changes what "the Psychiat
 
 ## KEEP + IN-TEXT FLAG
 - **Alcohol withdrawal is now in four places across three files**: `GI §0.6.1` (the AU-verified core,
-  5 inbound) · `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` (4077, **currently in Neuro**) ·
+  5 inbound) · `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` (**moved to `Psychiatry_merged.md` by A1, `f5e49c9`; was Neuro:4077**) ·
   `04_Neurology ### Alcohol Withdrawal Seizures` (804) · `Psychiatry 14a-1`. **GI M-5 flagged this
   with three; it is four.** The N2 copy moves with the psychiatry block.
 - `### Wernicke's Encephalopathy` (1799) also appears as `GI C2 §0.7 Complications of Vomiting`.

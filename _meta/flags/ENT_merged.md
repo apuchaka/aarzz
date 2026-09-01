@@ -1,5 +1,31 @@
 # ENT_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 18 · lines 1858 · numbering drift: **none** · no self-declared misfiles.
 Zero inbound: `13_06c Bell's Palsy`, `13_07b Salivary Gland Problems`, `NEW_Drugs_09_ENT`,
@@ -31,14 +57,14 @@ name**, so neither `dangling.py` nor `misaimed.py` can see it. **Fix by hand whe
 ## PROPOSED MOVES OUT
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| T-1 | `## 0.1 Examining the Ear and Assessing Hearing` (F1) | 852 | **Examination.md §1.19/§1.20** | **§1.19 "Otoscopy" and §1.20 "Rinne and Weber Tests" already exist.** `13_02` and `13_03` have **Examination ×5 and ×4 inbound** |
+| T-1 | `## 0.1 Examining the Ear and Assessing Hearing` (F1) | 852 | **Examination.md §1.19/§1.20** | **§1.19 "Otoscopy" and §1.20 "Rinne and Weber Tests" already exist.** `13_02` and `13_03` have **Examination ×5 and ×4 inbound** **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | T-2 | 4 × `**Focused Hx:**` + 4 × `**Examination:**` in `NEW_ENT_and_Oral` | 1779–1819 | **History-Taking.md / Examination.md** | L1780 *"assess the airway before the throat"*; L1793 *"otoscopy of both ears"*; L1819 *"listen to the voice and characterise it"* |
 | T-3 | `## 0.1 Lumps in the neck — approach` (13_07a) · `## 0.1 Approach to a Neck Lump` (F4) | 705, 1454 | **flag — same topic twice** | and **cross-file with `Cardio B6 §0.8 Undifferentiated Lump`** (19 inbound, none cardiac — Cardio C-10) |
 | T-4 | `## 0.4 Thyroid Nodules` (F4) | 1532 | **flag — Endocrine** | `Endocrine 06 §0.3 Thyroid Cancers`, `§0.4 Goitre`, `I1 §0.5 Thyroid Nodule and Goitre`, `NEW_Inv_Endo §0.2 Thyroid Ultrasound`. **Five homes** |
 | T-5 | `## Bell's palsy` (13_06c) | 697 | **keep as the stub it is** | **This is the model to follow elsewhere.** It is a deliberate stub that defers to `[[04_Neurology]]` and explains why. **Zero inbound and that is correct** — it exists to preserve one cross-reference. Do not delete it |
 | T-6 | `## 0.5 Head and Neck Cancer` (F4) · `## HNSCC` +`### HPV-related` (13_06a) | 1563, 598, 618 | **flag** | with `Heme 10_11a ## Common cancers` and `## Tumour markers`. HPV ties to `OBGYN 17_07 ## Genital warts` and `O6` |
 | T-7 | `## Dentistry for doctors` +`### Assessing tooth pain` · `## Trismus` · `## Facial swellings due to dental infection` · `## Systemic disease complicating dental infection` · `## Periodontal disease` +`### Vincent's angina` (13_07c) | 796–851 | **flag — arguable own home** | **1 inbound, internal.** Dental content in an ENT file; `F3 §0.6 Salivary Glands and Dental Problems` (1406) is the partner |
-| T-8 | `## Obstructive sleep apnoea` · `## Primary (simple) snoring` (13_05b) | 570, 560 | **flag — Resp** | `Resp §0.18 Sleep Apnoea`, `RESP-X §0.5 Sleep-Disordered Breathing`, `NEW_Inv_Resp §0.4 Sleep Studies`, `Neuro N7 §0.5 Excessive Daytime Sleepiness`. **Five homes** |
+| T-8 | `## Obstructive sleep apnoea` · `## Primary (simple) snoring` (13_05b) | 570, 560 | **flag — Resp** | `Resp §0.18 Sleep Apnoea`, `RESP-X §0.5 Sleep-Disordered Breathing`, `NEW_Inv_Resp §0.4 Sleep Studies`, `Psychiatry N7 §0.5 Excessive Daytime Sleepiness` (**moved out of Neuro by A1, `f5e49c9`**). **Five homes** |
 | T-9 | `## CSF rhinorrhoea` (13_04) | 361 | **flag** | ⚠️ **the destination of approved GI M-1** is CSF studies incl. **β-transferrin**, which is exactly this. `Neuro ### CSF Interpretation` and `Investigation-Interpretation §1.13` are the others. **Four-way — see Neuro N-1** |
 | T-10 | `## Cancer of the paranasal sinuses` (324) · `## Nasopharyngeal cancer` (400) | | **keep, flag** | with T-6 |
 

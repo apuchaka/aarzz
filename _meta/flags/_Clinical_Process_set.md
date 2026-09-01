@@ -1,5 +1,31 @@
 # The 16 Clinical Process files — FILE-COMBINATION output
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Per the brief: these are **not** grouped by topic and their content is **not** flagged for system
 files. This output answers *which files should combine*, plus the reverse flags collected from all
@@ -99,7 +125,7 @@ Consent and capacity is currently in **three** Clinical Process files:
 `Paediatrics P-3` (mature minor) · `Geriatrics GER2 §0.6 Advance Care Planning`.
 ⚠️ **Mandatory reporting is a separate three-way**: `Clinical-Process-EBM ## Mandatory Reporting`
 + `## Notifiable conduct` · `A10 §0.5 Professional Practice Concern` ·
-`Geriatrics GER4 §0.1 The Safeguarding Mindset and Mandatory Reporting` ·
+`GER4 §0.1 The Safeguarding Mindset and Mandatory Reporting` (**now `Safeguarding.md`, `16a9386`**) ·
 plus `ID I-11` (notifiable **diseases**, twice in one file — a different duty, easily conflated).
 
 ### C5 · Research literacy — **MERGE** `PH1` + the second half of `Clinical-Process-EBM`
@@ -112,15 +138,15 @@ question below, not with research literacy.**
 | File | Covers | Does **not** cover |
 |---|---|---|
 | `NEW_Safeguarding_and_Forensic` (standalone, 81 lines) | neglect · emotional abuse · fabricated illness · safe sleep — **all paediatric** | elder abuse · family violence · sexual assault |
-| `Geriatrics GER4` (**37 inbound, 14 from Paediatrics, 1 internal**) | safeguarding mindset · child abuse recognition · responding to a concern · family violence · sexual assault · elder abuse | the four topics above |
+| `GER4` — **now `Safeguarding.md` (`16a9386`)** (**37 inbound, 14 from Paediatrics, 1 internal**) | safeguarding mindset · child abuse recognition · responding to a concern · family violence · sexual assault · elder abuse | the four topics above |
 | `Pediatrics 15_24a` (14 inbound) | non-accidental injury · sexual abuse | |
 | `Communication §1.9` | explaining a safeguarding referral to a family | |
 **The brief lists `NEW_Safeguarding_and_Forensic` as standalone. It is not — it is one quarter of a
-topic**, and the largest quarter (`GER4`) is filed under Geriatrics. **Recommend one safeguarding
+topic**, and the largest quarter (`GER4`) **was** filed under Geriatrics **and is now `Safeguarding.md` (`16a9386`)**. **Recommend one safeguarding
 file**, built from all four, with `Communication §1.9` staying as the conversation.
 
 ### C7 · Preventive health — **SIX SOURCES, FOUR FILES, no owner**
-`Geriatrics GER3 §0.1`–`§0.5` (31 inbound) · `GP 19_ §0.1`–`§0.2` · `GP NEW_Inv_General §0.12`,`§0.13` ·
+`GER3 §0.1`–`§0.5` — **now `Preventive-Health.md` (`16a9386`)** (31 inbound) · `GP 19_ §0.1`–`§0.2` · `GP NEW_Inv_General §0.12`,`§0.13` ·
 `PH1 §0.5 Screening`, `§0.6 Public Health Practice` · `ID 08_01-03 ## Vaccination Schedule` +
 `## Passive Immunisation` (I-10) · `NEW_Drugs_20 Vaccines` · `Pediatrics 15_24b`.
 **Recommend one preventive-health file.** `GER3` is the largest and best-referenced candidate.

@@ -1,5 +1,31 @@
 # Resp_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 5 · lines 1578 · `02_Respiratory` 63 inbound — **Investigation-Interpretation ×22**, the
 heaviest test-file dependency of any system file so far (History-Taking ×9, Examination ×7).
@@ -25,15 +51,15 @@ asbestos exposure; `02_Respiratory` is richer on mesothelioma staging.
 ### Investigation interpretation (standing rule, as extended by the user)
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| R-1 | `## 0.2 Pulmonary Function Tests (Spirometry, Lung Volumes, DLCO)` | 1013 | **Investigation-Interpretation.md §1.3** | §1.3 *"Spirometry and Peak Flow"* already exists there. This entry is **richer** — adds lung volumes, TLC/RV, DLCO. *How to read the test.* |
-| R-2 | `## 0.3 Pulse Oximetry (SpO₂)` | 1041 | **Investigation-Interpretation.md** | functional vs fractional saturation, the failure modes. No equivalent exists there. 2 inbound (MSK, internal) |
+| R-1 | `## 0.2 Pulmonary Function Tests (Spirometry, Lung Volumes, DLCO)` | 1013 | **Investigation-Interpretation.md §1.3** | §1.3 *"Spirometry and Peak Flow"* already exists there. This entry is **richer** — adds lung volumes, TLC/RV, DLCO. *How to read the test.* **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| R-2 | `## 0.3 Pulse Oximetry (SpO₂)` | 1041 | **Investigation-Interpretation.md** | functional vs fractional saturation, the failure modes. No equivalent exists there. 2 inbound (MSK, internal) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | R-3 | `## 0.4 Sleep Studies (Polysomnography, HSAT)` | 1064 | **Investigation-Interpretation.md** | level 1 vs home testing, channels. 1 inbound (Anaes) |
 | R-4 | `## 0.5 Sputum Culture` | 1087 | **Investigation-Interpretation.md** | sits beside §1.18 Blood Cultures and Microbiology Basics |
-| R-5 | `## 0.6 Sweat Chloride Test` | 1109 | **Investigation-Interpretation.md** | how the test works |
+| R-5 | `## 0.6 Sweat Chloride Test` | 1109 | **Investigation-Interpretation.md** | how the test works **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | R-6 | `## 0.7 TB Screening (TST/Mantoux and IGRA)` | 1134 | **Investigation-Interpretation.md** | *how to read the induration*. **The disease content stays** — see R-13. 2 inbound (Heme, ID) |
 | R-7 | `## 0.8 V/Q Scan` | 1159 | **Investigation-Interpretation.md** | mismatched-defect reading |
 | R-8 | `## 0.1 Nasopharyngeal Swab` | 992 | **Investigation-Interpretation.md** *or* `NEW_Exam_Manoeuvres_and_Procedures` | it is a **procedure description** (*"floor of the nose, parallel to the palate, not angled upwards"*) — axis question, flag |
-| R-9 | `### 0.9.1 Diagnosis of latent TB — Mantoux test` | 440 | **Investigation-Interpretation.md**, with R-6 | *"0.1 mL of 1:1,000 PPD injected intradermally; read 2–3 days later"* is technique, not disease |
+| R-9 | `### 0.9.1 Diagnosis of latent TB — Mantoux test` | 440 | **Investigation-Interpretation.md**, with R-6 | *"0.1 mL of 1:1,000 PPD injected intradermally; read 2–3 days later"* is technique, not disease **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 
 > **R-1 – R-9 empty `NEW_Investigations_Respiratory` almost entirely.** That is the expected shape:
 > it is an investigations file that was filed under a system.
@@ -43,7 +69,7 @@ asbestos exposure; `02_Respiratory` is richer on mesothelioma staging.
 |---|---|---|---|---|
 | R-10 | `> [!danger] Ask the occupational history — it is systematically not taken` | 1374 | **History-Taking.md** | a history schema, not a disease fact |
 | R-11 | `> [!warning] Hypersensitivity pneumonitis — take the exposure history properly` | 1334 | **History-Taking.md** | ditto; leave the disease content in Resp |
-| R-12 | 3 × `**Focused Hx:**` + 3 × `**Examination:**` blocks in `NEW_Respiratory` | 1221–1264 | **History-Taking.md / Examination.md** | acute dyspnoea, acute cough, acute stridor. `L1264` opens *"this is where the greatest harm is done, so the first rule is what not to do"* — examination technique |
+| R-12 | **2** × `**Focused Hx:**` + **3** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Respiratory` | 1221–1264 | **History-Taking.md / Examination.md** | acute dyspnoea, acute cough, acute stridor. `L1264` opens *"this is where the greatest harm is done, so the first rule is what not to do"* — examination technique |
 
 ### Cross-file topic ownership
 | ID | Section | L | → | Note |

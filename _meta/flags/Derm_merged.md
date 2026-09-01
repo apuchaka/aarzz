@@ -1,5 +1,31 @@
 # Derm_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 12 · lines 2609 · numbering drift: **none**. Zero inbound: `NEW_Dermatology`.
 **The tidiest Corpus-A-to-Corpus-B mapping in the vault so far** — G1–G6 map cleanly onto 09_01–09_08.
@@ -24,11 +50,11 @@ Sources: 12 · lines 2609 · numbering drift: **none**. Zero inbound: `NEW_Derma
 ### Examination / investigation interpretation (standing rule)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| D-12 | `## Skin lesion morphology — reference terms` | 942 | **Examination.md §1.15** | **§1.15 "Dermatological Examination" already exists.** This is the vocabulary that examination uses |
-| D-13 | `## 0.1 Describing a Rash` (G1) | 1048 | **Examination.md §1.15** | *how to describe*, not what it is. Same shape as MSK K-15 (`Describing a Fracture`) |
-| D-14 | `## 0.1 Assessing a Pigmented Lesion` (G5) | 1873 | **Examination.md §1.15** | ABCDE / dermatoscopy assessment method. **`09_02` has 10 inbound: Examination ×4, Communication ×2, History-Taking** — the referrer profile is the Clinical Process set |
-| D-15 | 6 × `**Focused Hx:**` + 6 × `**Examination:**` in `NEW_Dermatology` | 2264–2318 | **History-Taking.md / Examination.md** | L2274 *"full skin examination with the patient undressed"*; L2304 *"Nikolsky's sign"* |
-| D-16 | `## 0.5 Nails` (G5) | 1985 | **flag — Examination** | nail signs are read in every system examination (`Examination.md §1.9` already lists clubbing, leuconychia, koilonychia) |
+| D-12 | `## Skin lesion morphology — reference terms` | 942 | **Examination.md §1.15** | **§1.15 "Dermatological Examination" already exists.** This is the vocabulary that examination uses **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| D-13 | `## 0.1 Describing a Rash` (G1) | 1048 | **Examination.md §1.15** | *how to describe*, not what it is. Same shape as MSK K-15 (`Describing a Fracture`) **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| D-14 | `## 0.1 Assessing a Pigmented Lesion` (G5) | 1873 | **Examination.md §1.15** | ABCDE / dermatoscopy assessment method. **`09_02` has 10 inbound: Examination ×4, Communication ×2, History-Taking** — the referrer profile is the Clinical Process set **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| D-15 | **5** × `**Focused Hx:**` + **5** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Dermatology` | 2264–2318 | **History-Taking.md / Examination.md** | L2274 *"full skin examination with the patient undressed"*; L2304 *"Nikolsky's sign"* |
+| D-16 | `## 0.5 Nails` (G5) | 1985 | **flag — Examination** | nail signs are read in every system examination (`Examination.md §1.9` already lists clubbing, leuconychia, koilonychia) **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 
 ## KEEP + IN-TEXT FLAG
 - **`## Non-blanching rashes — approach and differential` (920) and `G3 §0.1 Approach to the

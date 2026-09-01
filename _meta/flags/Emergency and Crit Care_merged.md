@@ -1,5 +1,31 @@
 # Emergency and Crit Care_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 15 · lines 4034 · numbering drift: **none** · no self-declared misfiles.
 `F0-4_Resuscitation_Algorithms` 15 inbound (**Paediatrics ×6**);
@@ -33,8 +59,8 @@ per-kg figure and every injector band survives.**
 ## PROPOSED MOVES OUT
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| X-1 | `## 0.1 The A–E Approach` (F0-4) | 3042 | **Examination.md §1.1** | **§1.1 "ABCDE Assessment (Acutely Unwell / Deteriorating Patient)" already exists.** `Examination:32` was one of the off-by-one pointers fixed in `48a870f` and points back into Cardio for Beck's triad |
-| X-2 | `## 0.1 The Deteriorating Patient — Recognition` (A1) · `## 0.2 Vital Signs and Early Warning Scores` (Examination §1.2's topic) | 11 | **flag — Examination.md §1.2** | **§1.2 "Vital Signs and Early Warning Scores (Recognising the Deteriorating Patient)" already exists.** Same title, two files |
+| X-1 | `## 0.1 The A–E Approach` (F0-4) | 3042 | **Examination.md §1.1** | **§1.1 "ABCDE Assessment (Acutely Unwell / Deteriorating Patient)" already exists.** `Examination:32` was one of the off-by-one pointers fixed in `48a870f` and points back into Cardio for Beck's triad **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| X-2 | `## 0.1 The Deteriorating Patient — Recognition` (A1) · `## 0.2 Vital Signs and Early Warning Scores` (Examination §1.2's topic) | 11 | **flag — Examination.md §1.2** | **§1.2 "Vital Signs and Early Warning Scores (Recognising the Deteriorating Patient)" already exists.** Same title, two files **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | X-3 | `## 0.2 Basic Life Support` · `## 0.3 Advanced Life Support — Adult` (F0-4) | 3076, 3110 | **flag — Cardio duplicate** | `Cardio §0.5 Advanced Life Support (Adult)` (314) carries an **ANZCOR verification box** with a correction: *"ANZCOR timing is NOT the same as the UK/ERC protocol — adrenaline timing genuinely differs by one shock"*. **Keep that box with whichever copy survives.** Cardio G-C24 is the other half |
 | X-4 | `## 0.7 Mechanical Ventilation` · `## 0.8 Procedural Sedation` · `## 0.11 Fascia Iliaca Block` (F0-4) | 3241, 3270, 3359 | **`GER8_Procedure_Addendum` / `NEW_Exam_Manoeuvres_and_Procedures`** | procedures, not emergencies |
 | X-5 | `## 0.9 Adult Analgesia` · `## 0.10 Paediatric Analgesia` (F0-4) | 3298, 3330 | **flag** | with `Anaes 03a §0.7`, `AN1 §0.6`, `NEW_Drugs_03 §0.4`, `Heme 10_11c ## Conversion between opioids`. **Five analgesia homes** |

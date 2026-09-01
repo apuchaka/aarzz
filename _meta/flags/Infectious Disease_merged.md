@@ -1,5 +1,31 @@
 # Infectious Disease_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 12 · lines 3594 · numbering drift: **none**.
 Zero inbound: `08_04_Infectious_Disease_-_Antibiogram`, `NEW_Infectious_Diseases`.
@@ -9,19 +35,19 @@ Zero inbound: `08_04_Infectious_Disease_-_Antibiogram`, `NEW_Infectious_Diseases
 ### History-taking (standing rule) — the clearest one in the vault so far
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| I-1 | `## The STI Check — Sexual History, What to Test, and When` + `### Taking a sexual history` + `### What a standard asymptomatic check consists of` + `### Window periods` + `### After the result` | 870–923 | **History-Taking.md** | a named history-taking framework with its own heading. The disease entries below it (chlamydia, gonorrhoea, syphilis…) stay. **This is an OSCE station in its own right** |
+| I-1 | `## The STI Check — Sexual History, What to Test, and When` + `### Taking a sexual history` + `### What a standard asymptomatic check consists of` + `### Window periods` + `### After the result` | 870–923 | **History-Taking.md** | a named history-taking framework with its own heading. The disease entries below it (chlamydia, gonorrhoea, syphilis…) stay. **This is an OSCE station in its own right** **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
 
 ### Investigation interpretation (standing rule, as extended)
 `NEW_Investigations_Infectious_Diseases` is **23 investigation entries filed under a system**.
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
 | I-2 | `## 0.19 Autoimmune / Rheumatological Serology (ANA, anti-La/SSB, Scl-70, histone, myositis)` | 3464 | **Investigation-Interpretation.md §1.16** | **§1.16 "Autoimmune Markers — Systematic Reference" already exists** |
-| I-3 | `## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)` | 3490 | **Investigation-Interpretation.md §1.16** | pure interpretation — *"approach to an unexpected positive"* |
-| I-4 | `## 0.21 Vasculitis Serology (ANCA, PR3, MPO, anti-GBM)` | 3511 | **Investigation-Interpretation.md §1.16** | serves `Renal §0.7 ANCA-Associated GN` and MSK vasculitis |
+| I-3 | `## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)` | 3490 | **Investigation-Interpretation.md §1.16** | pure interpretation — *"approach to an unexpected positive"* **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| I-4 | `## 0.21 Vasculitis Serology (ANCA, PR3, MPO, anti-GBM)` | 3511 | **Investigation-Interpretation.md §1.16** | serves `Renal §0.7 ANCA-Associated GN` and MSK vasculitis **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | I-5 | `## 0.18 Coeliac Serology (anti-tTG IgA, DGP)` | 3444 | **Investigation-Interpretation.md**; serves **GI §0.17 Coeliac Disease** | `Pediatrics:802` already cites *"[[03_Gastrointestinal]] Coeliac Disease — IgA-tTG plus total IgA"* |
-| I-6 | `## 0.1 Gram Stain` · `## 0.2 Microbiology Panel (Wound C&S)` · `## 0.3 Viral Culture` | 3104–3158 | **Investigation-Interpretation.md §1.18** | **§1.18 "Blood Cultures and Microbiology Basics" already exists** |
+| I-6 | `## 0.1 Gram Stain` · `## 0.2 Microbiology Panel (Wound C&S)` · `## 0.3 Viral Culture` | 3104–3158 | **Investigation-Interpretation.md §1.18** | **§1.18 "Blood Cultures and Microbiology Basics" already exists** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | I-7 | `## 0.9 Stool & Fecal Studies` (culture, multiplex PCR, O/C/P, **faecal calprotectin, FOBT/FIT**) | 3253 | **Investigation-Interpretation.md**; calprotectin and FIT serve **GI** (IBD, bowel screening) | |
-| I-8 | `## 0.12 HIV Panel` · `## 0.13 Western Blot` · `## 0.14 Syphilis Panel` · `## 0.15 Monospot` · `## 0.16 Parvovirus Serology` · `## 0.17 ASOT / anti-DNase B` | 3308–3443 | **Investigation-Interpretation.md** | ASOT serves `Cardio §0.22 Rheumatic Fever` |
+| I-8 | `## 0.12 HIV Panel` · `## 0.13 Western Blot` · `## 0.14 Syphilis Panel` · `## 0.15 Monospot` · `## 0.16 Parvovirus Serology` · `## 0.17 ASOT / anti-DNase B` | 3308–3443 | **Investigation-Interpretation.md** | ASOT serves `Cardio §0.22 Rheumatic Fever` **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | I-9 | organism entries `## 0.4 Bacteroides` · `0.5 Fusobacterium` · `0.6 Enterococcus` · `0.7 CPE` · `0.8 Candida` · `0.10 Cryptosporidium` · `0.11 Giardia` · `0.22 Campylobacter` · `0.23 C. perfringens` | 3159–3576 | **flag — axis question** | these are **organisms**, not investigations. They duplicate the disease entries in `08_01-03` and `08_07`. Recommend folding into those, not moving to Investigation-Interpretation |
 
 ### Topic in the wrong system

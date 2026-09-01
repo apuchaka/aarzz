@@ -1,5 +1,31 @@
 # OBGYN_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 24 · lines 5714 (2nd largest) · numbering drift: **none**.
 Zero inbound: `NEW_Gynaecology_and_Reproductive`, `NEW_Obstetrics`.
@@ -9,8 +35,8 @@ Zero inbound: `NEW_Gynaecology_and_Reproductive`, `NEW_Obstetrics`.
 ## THE HEADLINE: sexual history is now in three files
 | Where | Section | L |
 |---|---|---|
-| **OBGYN** | `## 0.1 The Sexual History and STI Assessment` (O6) — carries the **"five Ps"** and the normalising script *"I ask everyone these questions…"* | 5185 |
-| **Infectious Disease** | `## The STI Check — Sexual History, What to Test, and When` + `### Taking a sexual history` (ID I-1) | 870 |
+| **OBGYN** | `## 0.1 The Sexual History and STI Assessment` (O6) — carries the **"five Ps"** and the normalising script *"I ask everyone these questions…"* | 5185 **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
+| **Infectious Disease** | `## The STI Check — Sexual History, What to Test, and When` + `### Taking a sexual history` (ID I-1) | 870 **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
 | **MSK** | `## 0.18 STI Screening (asymptomatic sexual health check)` (MSK K-10) | 4497 |
 
 **Three sources, three files, one OSCE station.** `O6` has **23 inbound and only 2 internal** —
@@ -22,19 +48,19 @@ GI ×6, ID ×5, Neuro ×4, Paediatrics — i.e. it is already the de facto owner
 ### History-taking / examination (standing rule)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| B-1 | `## 0.1 The Sexual History and STI Assessment` (O6) | 5185 | **History-Taking.md** | see above. Merge with ID I-1 and MSK K-10 |
-| B-2 | `## 0.1 Triple Assessment` (O7) | 5499 | **Examination.md §1.17** | **§1.17 "Breast Examination" already exists.** Triple assessment is the examination-plus-imaging-plus-biopsy method |
+| B-1 | `## 0.1 The Sexual History and STI Assessment` (O6) | 5185 | **History-Taking.md** | see above. Merge with ID I-1 and MSK K-10 **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
+| B-2 | `## 0.1 Triple Assessment` (O7) | 5499 | **Examination.md §1.17** | **§1.17 "Breast Examination" already exists.** Triple assessment is the examination-plus-imaging-plus-biopsy method **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | B-3 | `## 0.1 Pre-pregnancy counselling` (16_01-05) | 12 | **arguable — Communication.md** | a counselling consultation. Counter: it is heavily clinical (folate, rubella, medication review). **Flag, do not move** |
-| B-4 | 12 × `**Focused Hx:**` / `**Examination:**` blocks in `NEW_Obstetrics` and `NEW_Gynaecology_and_Reproductive` | 4000–3628 | **History-Taking.md / Examination.md** | both sources have zero inbound |
+| B-4 | **6** × `**Focused Hx:**` + **6** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Obstetrics` and `NEW_Gynaecology_and_Reproductive` | 4000–3628 | **History-Taking.md / Examination.md** | both sources have zero inbound |
 
 ### Investigation interpretation (standing rule, as extended)
 `NEW_Investigations_Obstetrics_and_Gynaecology` — 12 entries, 4 inbound (GP ×2, MSK, NEW_Exam).
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
 | B-5 | `## 0.1 Cervical Screening Test and Abnormality (Australian NCSP)` · `## 0.2 Liquid-Based Cytology` | 3666, 3696 | **Investigation-Interpretation.md** | **duplicates `17_09 ## Cervical cancer screening`** (3034). `GP_merged` and `Clinical-Process-EBM` both cite `17_09` |
-| B-6 | `## 0.3 Genital / Cervical Swab Panel` | 3718 | **Investigation-Interpretation.md** | overlaps `17_08 ## Vaginal discharge — DDx` and `ID 08_08` |
-| B-7 | `## 0.4 Hormone Panel (Gynaecological / Reproductive)` | 3744 | **Investigation-Interpretation.md** | serves amenorrhoea, PCOS, menopause |
-| B-8 | `## 0.5 Prenatal Screening Panel` · `## 0.6 CVS` · `## 0.7 Amniocentesis` · `## 0.8 Cordocentesis` | 3769–3858 | **Investigation-Interpretation.md** | ⚠️ **§0.6 and §0.7 duplicate `16_01-05 §0.6.1 Chorionic villus sampling` and `§0.6.2 Amniocentesis`** (203, 209), and `§0.5` duplicates `§0.5.4`–`§0.5.6` (NIPT, combined and quadruple tests) |
+| B-6 | `## 0.3 Genital / Cervical Swab Panel` | 3718 | **Investigation-Interpretation.md** | overlaps `17_08 ## Vaginal discharge — DDx` and `ID 08_08` **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| B-7 | `## 0.4 Hormone Panel (Gynaecological / Reproductive)` | 3744 | **Investigation-Interpretation.md** | serves amenorrhoea, PCOS, menopause **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| B-8 | `## 0.5 Prenatal Screening Panel` · `## 0.6 CVS` · `## 0.7 Amniocentesis` · `## 0.8 Cordocentesis` | 3769–3858 | **Investigation-Interpretation.md** | ⚠️ **§0.6 and §0.7 duplicate `16_01-05 §0.6.1 Chorionic villus sampling` and `§0.6.2 Amniocentesis`** (203, 209), and `§0.5` duplicates `§0.5.4`–`§0.5.6` (NIPT, combined and quadruple tests) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | B-9 | `## 0.9 Kleihauer-Betke` · `## 0.10 Ferning and Nitrazine` · `## 0.11 Fetal Fibronectin` · `## 0.12 Biophysical Profile` | 3859–3964 | **Investigation-Interpretation.md** | ⚠️ **the BPP and CTG cluster is where approved Cardio C-1 (`Non-Stress Test / CTG`) should land**, alongside `GER7 §0.5 Fetal Scalp Blood Sampling`. **Three CTG/fetal-monitoring homes** |
 
 ### Topic in the wrong system

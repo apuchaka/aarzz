@@ -1,5 +1,31 @@
 # Opthalm_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 6 · lines 1716 · numbering drift: **none**.
 `05_Ophthalmology` 32 inbound (**History-Taking ×8, Examination ×6**);
@@ -18,9 +44,9 @@ strongest single argument for N-11.
 ## PROPOSED MOVES
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| E-1 | `## 0.2 Drugs for Eye Examinations and Procedures` (NEW_Drugs_11) | 1506 | **Examination.md §1.18** | mydriatics and topical anaesthetic for fundoscopy. **§1.18 "Fundoscopy (Direct Ophthalmoscopy)" already exists** |
+| E-1 | `## 0.2 Drugs for Eye Examinations and Procedures` (NEW_Drugs_11) | 1506 | **Examination.md §1.18** | mydriatics and topical anaesthetic for fundoscopy. **§1.18 "Fundoscopy (Direct Ophthalmoscopy)" already exists** **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | E-2 | 4 × `**Focused Hx:**` + 4 × `**Examination:**` in `NEW_Ophthalmology` | 1632–1692 | **History-Taking.md / Examination.md** | L1662 *"visual acuity each eye separately — first, and always"*; L1679 *"pupils with the swinging-flashlight test"*; L1692 *"visual fields to confrontation"*. **Pure examination technique, and the RAPD test appears nowhere in `Examination.md`** |
-| E-3 | `## Eye Anatomy Reference` | 6 | **flag — Examination.md** | a reference diagram for the examination |
+| E-3 | `## Eye Anatomy Reference` | 6 | **flag — Examination.md** | a reference diagram for the examination **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | E-4 | `## Ocular Manifestations of Systemic Disease — Consolidated Reference` | 873 | **keep, flag** | a cross-system index — the eye findings of diabetes, hypertension, thyroid, MS, sarcoid, RA. **Preserve as a routing artefact**; several targets are contested |
 | E-5 | `## Tropical Eye Diseases` — `### Xerophthalmia` · `### Trachoma` · `### Onchocerciasis` | 828–872 | **arguable — Infectious Disease** | `ID 08_07 §0.9.3 Filariasis` and the vector-borne cluster. Counter: they are blinding eye diseases. **Flag** |
 | E-6 | `## Thyroid Eye Disease` | 804 | **flag** | `Endocrine 06 §0.2.1 Graves' Disease`, `I1 §0.3`. `E3 §0.3 Proptosis and Orbital Disease` (1360) is the local partner |

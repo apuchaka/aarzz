@@ -6,6 +6,32 @@ status: PROPOSALS ONLY — nothing in this file has been executed
 
 # All moves, by destination
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 **248 move rows · 15 destination blocks · 0 executed.**
 
 The per-file flag files list moves **by source**, which answers *"what does this file lose?"*
@@ -94,71 +120,71 @@ the one that changes character rather than merely growing.
 **Evidence quality: 54 of 59 rows rest on content reasoning alone**, i.e. the section
 describes how to read a test rather than what a result means in one disease — the standing
 rule applied directly. **One** rests primarily on inbound distribution: **`GP P-6`**, and it
-does so because `## 0.14 Genetic Risk Assessment` overlaps `Heme 10_11b Genetic Cancer
+does so because `## 0.14 Genetic Risk Assessment` overlaps `Heme 10_11b Genetic Cancer **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)**
 Predisposition Syndromes`, **which has 3 inbound, ALL from GP** — one of the three two-way
 disagreements under A4. **No row in this block argues from an absence of pointers.**
 
 | ID | From | Section | L | Proposed destination | Evidence |
 |---|---|---|---|---|---|
-| `A-5` | Anaes | `## 0.6 Group & Hold / Crossmatch` | 232 | **Heme Onc / Investigation-Interpretation** | content |
-| `C-2` | Cardio | `## 0.12 ECG Interpretation` + `.1`–`.12` (P wave, PR, AV blocks, QRS, BBB, axis, ST, T wave, chamber hypertrophy, athlete variants, hypothermia, digoxin effect) | 474–546 | **Investigation-Interpretation.md** | content |
-| `C-3` | Cardio | `### 0.1.1 ECG cardiac territories` | 33 | **Investigation-Interpretation.md**, with C-2 | content |
+| `A-5` | Anaes | `## 0.6 Group & Hold / Crossmatch` | 232 | **Heme Onc / Investigation-Interpretation** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `C-2` | Cardio | `## 0.12 ECG Interpretation` + `.1`–`.12` (P wave, PR, AV blocks, QRS, BBB, axis, ST, T wave, chamber hypertrophy, athlete variants, hypothermia, digoxin effect) | 474–546 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `C-3` | Cardio | `### 0.1.1 ECG cardiac territories` | 33 | **Investigation-Interpretation.md**, with C-2 | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `E-1` | Endocrine | `## 0.1 Thyroid Panel (TSH, fT4, fT3, antibodies)` | 3468 | **Investigation-Interpretation.md** | content |
-| `E-2` | Endocrine | `## 0.2 Thyroid Ultrasound` · `## 0.3 Radioactive Iodine Uptake and Scintigraphy` | 3497, 3516 | **Investigation-Interpretation.md** | content |
+| `E-2` | Endocrine | `## 0.2 Thyroid Ultrasound` · `## 0.3 Radioactive Iodine Uptake and Scintigraphy` | 3497, 3516 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `E-3` | Endocrine | `## 0.4 Glucose / Diabetes Testing (glucose, HbA1c, OGTT)` | 3536 | **Investigation-Interpretation.md** | content |
-| `E-4` | Endocrine | `## 0.5 Prolactin` · `## 0.6 Renin–Aldosterone (ARR)` | 3558, 3575 | **Investigation-Interpretation.md** | content |
-| `E-5` | Endocrine | `### 0.20.6 Arterial Blood Gas Reference Values` | 768 | **Investigation-Interpretation.md §1.5** | content |
-| `E-6` | Endocrine | `## 0.1 Acid-Base Interpretation — Framework` (F0-2) | 1077 | **Investigation-Interpretation.md §1.5** | content |
-| `P-1` | GP | `## 0.1 Inflammatory Markers (CRP, ESR, Procalcitonin)` | 186 | **Investigation-Interpretation.md §1.21** | content |
+| `E-4` | Endocrine | `## 0.5 Prolactin` · `## 0.6 Renin–Aldosterone (ARR)` | 3558, 3575 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `E-5` | Endocrine | `### 0.20.6 Arterial Blood Gas Reference Values` | 768 | **Investigation-Interpretation.md §1.5** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `E-6` | Endocrine | `## 0.1 Acid-Base Interpretation — Framework` (F0-2) | 1077 | **Investigation-Interpretation.md §1.5** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `P-1` | GP | `## 0.1 Inflammatory Markers (CRP, ESR, Procalcitonin)` | 186 | **Investigation-Interpretation.md §1.21** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `P-2` | GP | `## 0.2 Albumin` · `## 0.3 ALP` · `## 0.4 LDH` · `## 0.5 Uric Acid` · `## 0.6 Ammonia` | 209–337 | **Investigation-Interpretation.md** | content |
-| `P-3` | GP | `## 0.7 Serum Ceruloplasmin` | 338 | **Investigation-Interpretation.md** | content |
-| `P-4` | GP | `## 0.8 Calcitonin` | 364 | **Investigation-Interpretation.md** | content |
-| `P-5` | GP | `## 0.9 Gallium Scan` · `## 0.10 Incisional Biopsy` · `## 0.11 Stains (histochemical and immunohistochemistry)` | 387–465 | **Investigation-Interpretation.md** | content |
-| `P-6` | GP | `## 0.14 Genetic Risk Assessment` · `## 0.15 Genetics and Molecular Testing` · `## 0.16 Pharmacogenomic Assessment` | 519–597 | **Investigation-Interpretation.md** | **inbound-PRIMARY** |
+| `P-3` | GP | `## 0.7 Serum Ceruloplasmin` | 338 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `P-4` | GP | `## 0.8 Calcitonin` | 364 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `P-5` | GP | `## 0.9 Gallium Scan` · `## 0.10 Incisional Biopsy` · `## 0.11 Stains (histochemical and immunohistochemistry)` | 387–465 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `P-6` | GP | `## 0.14 Genetic Risk Assessment` · `## 0.15 Genetics and Molecular Testing` · `## 0.16 Pharmacogenomic Assessment` | 519–597 | **Investigation-Interpretation.md** | **inbound-PRIMARY** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `H-2` | Heme | `## CBC & Peripheral Blood` | 3240 | **Investigation-Interpretation.md §1.11** | content |
-| `H-3` | Heme | `## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)` | 3366 | **Investigation-Interpretation.md §1.17** | content |
-| `H-4` | Heme | `## 0.1 Interpreting the Coagulation Screen` (J3) | 2160 | **Investigation-Interpretation.md §1.17** | content |
-| `H-5` | Heme | `## 0.9 How to interpret blood results — a quick approach` | 117 | **Investigation-Interpretation.md §1.11** | content |
-| `H-6` | Heme | `## Iron studies interpretation` | 426 | **Investigation-Interpretation.md** | content |
+| `H-3` | Heme | `## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)` | 3366 | **Investigation-Interpretation.md §1.17** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `H-4` | Heme | `## 0.1 Interpreting the Coagulation Screen` (J3) | 2160 | **Investigation-Interpretation.md §1.17** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `H-5` | Heme | `## 0.9 How to interpret blood results — a quick approach` | 117 | **Investigation-Interpretation.md §1.11** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `H-6` | Heme | `## Iron studies interpretation` | 426 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `H-7` | Heme | `## Anaemia — DDx by MCV and reticulocyte index` | 408 | **Investigation-Interpretation.md** | content |
 | `H-8` | Heme | `## Immunohematology (Blood Group & Rh, DAT)` | 3305 | **Investigation-Interpretation.md** | content |
 | `H-9` | Heme | remaining 20 entries of `NEW_Investigations_Haematology` + `_Part2` (B12, MMA, homocysteine, anti-IF, APCA, haptoglobin, Hb electrophoresis, EPO, factor VIII, vWF, ADAMTS13, HIT ELISA, SRA, flow cytometry, marrow/node biopsy, SPEP/SFLC, β2-microglobulin, osmotic fragility, sickle solubility, Schilling, lymphoscintigraphy) | 3251–3686 | **Investigation-Interpretation.md** | content |
 | `I-2` | Infectious | `## 0.19 Autoimmune / Rheumatological Serology (ANA, anti-La/SSB, Scl-70, histone, myositis)` | 3464 | **Investigation-Interpretation.md §1.16** | content |
-| `I-3` | Infectious | `## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)` | 3490 | **Investigation-Interpretation.md §1.16** | content |
-| `I-4` | Infectious | `## 0.21 Vasculitis Serology (ANCA, PR3, MPO, anti-GBM)` | 3511 | **Investigation-Interpretation.md §1.16** | content |
+| `I-3` | Infectious | `## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)` | 3490 | **Investigation-Interpretation.md §1.16** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `I-4` | Infectious | `## 0.21 Vasculitis Serology (ANCA, PR3, MPO, anti-GBM)` | 3511 | **Investigation-Interpretation.md §1.16** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `I-5` | Infectious | `## 0.18 Coeliac Serology (anti-tTG IgA, DGP)` | 3444 | **Investigation-Interpretation.md**; serves **GI §0.17 Coeliac Disease** | content |
-| `I-6` | Infectious | `## 0.1 Gram Stain` · `## 0.2 Microbiology Panel (Wound C&S)` · `## 0.3 Viral Culture` | 3104–3158 | **Investigation-Interpretation.md §1.18** | content |
+| `I-6` | Infectious | `## 0.1 Gram Stain` · `## 0.2 Microbiology Panel (Wound C&S)` · `## 0.3 Viral Culture` | 3104–3158 | **Investigation-Interpretation.md §1.18** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `I-7` | Infectious | `## 0.9 Stool & Fecal Studies` (culture, multiplex PCR, O/C/P, **faecal calprotectin, FOBT/FIT**) | 3253 | **Investigation-Interpretation.md**; calprotectin and FIT serve **GI** (IBD, bowel screening) | content |
-| `I-8` | Infectious | `## 0.12 HIV Panel` · `## 0.13 Western Blot` · `## 0.14 Syphilis Panel` · `## 0.15 Monospot` · `## 0.16 Parvovirus Serology` · `## 0.17 ASOT / anti-DNase B` | 3308–3443 | **Investigation-Interpretation.md** | content |
-| `K-13` | MSK | `## 0.6 Joint Aspiration and Synovial Fluid Interpretation` (L1) | 2161 | **Investigation-Interpretation.md §1.15** | content |
-| `K-14` | MSK | `## 0.6 Autoantibody and Serology Interpretation` (L2) | 2471 | **Investigation-Interpretation.md §1.16** | content |
-| `K-15` | MSK | `## 0.1 Describing a Fracture` (L7) | 3505 | **Investigation-Interpretation.md §1.7** | content |
-| `N-1` | Neuro | `### CSF Interpretation` (table: normal/bacterial/viral/TB/fungal) | 707 | **Investigation-Interpretation.md §1.13** | content |
-| `N-2` | Neuro | `### Who gets a CT head for head injury?` | 1452 | **Investigation-Interpretation.md §1.2** | content |
+| `I-8` | Infectious | `## 0.12 HIV Panel` · `## 0.13 Western Blot` · `## 0.14 Syphilis Panel` · `## 0.15 Monospot` · `## 0.16 Parvovirus Serology` · `## 0.17 ASOT / anti-DNase B` | 3308–3443 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `K-13` | MSK | `## 0.6 Joint Aspiration and Synovial Fluid Interpretation` (L1) | 2161 | **Investigation-Interpretation.md §1.15** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `K-14` | MSK | `## 0.6 Autoantibody and Serology Interpretation` (L2) | 2471 | **Investigation-Interpretation.md §1.16** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `K-15` | MSK | `## 0.1 Describing a Fracture` (L7) | 3505 | **Investigation-Interpretation.md §1.7** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `N-1` | Neuro | `### CSF Interpretation` (table: normal/bacterial/viral/TB/fungal) | 707 | **Investigation-Interpretation.md §1.13** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `N-2` | Neuro | `### Who gets a CT head for head injury?` | 1452 | **Investigation-Interpretation.md §1.2** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `B-5` | OBGYN | `## 0.1 Cervical Screening Test and Abnormality (Australian NCSP)` · `## 0.2 Liquid-Based Cytology` | 3666, 3696 | **Investigation-Interpretation.md** | content |
-| `B-6` | OBGYN | `## 0.3 Genital / Cervical Swab Panel` | 3718 | **Investigation-Interpretation.md** | content |
-| `B-7` | OBGYN | `## 0.4 Hormone Panel (Gynaecological / Reproductive)` | 3744 | **Investigation-Interpretation.md** | content |
-| `B-8` | OBGYN | `## 0.5 Prenatal Screening Panel` · `## 0.6 CVS` · `## 0.7 Amniocentesis` · `## 0.8 Cordocentesis` | 3769–3858 | **Investigation-Interpretation.md** | content |
+| `B-6` | OBGYN | `## 0.3 Genital / Cervical Swab Panel` | 3718 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `B-7` | OBGYN | `## 0.4 Hormone Panel (Gynaecological / Reproductive)` | 3744 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `B-8` | OBGYN | `## 0.5 Prenatal Screening Panel` · `## 0.6 CVS` · `## 0.7 Amniocentesis` · `## 0.8 Cordocentesis` | 3769–3858 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `B-9` | OBGYN | `## 0.9 Kleihauer-Betke` · `## 0.10 Ferning and Nitrazine` · `## 0.11 Fetal Fibronectin` · `## 0.12 Biophysical Profile` | 3859–3964 | **Investigation-Interpretation.md** | content |
-| `P-6` | Pediatrics | `## 0.1 Measuring and Plotting Growth` (M4) | 3281 | **Investigation-Interpretation.md §1.19** | content |
-| `P-7` | Pediatrics | `## Anaemia in children — approach` + `### Approach to haemolysis` (15_14) | 1528, 1542 | **Investigation-Interpretation.md §1.20** | content |
+| `P-6` | Pediatrics | `## 0.1 Measuring and Plotting Growth` (M4) | 3281 | **Investigation-Interpretation.md §1.19** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `P-7` | Pediatrics | `## Anaemia in children — approach` + `### Approach to haemolysis` (15_14) | 1528, 1542 | **Investigation-Interpretation.md §1.20** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `RU-5` | Renal | `## 0.1 Urinalysis Panel (Dipstick, pH, SG, Microscopy, Culture)` | 1780 | **Investigation-Interpretation.md §1.14** | content |
-| `RU-6` | Renal | `## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)` | 1819 | **Investigation-Interpretation.md** | content |
+| `RU-6` | Renal | `## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)` | 1819 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `RU-7` | Renal | `## 0.2 Urine ACR` | 1801 | **Investigation-Interpretation.md** | content |
 | `RU-8` | Renal | `## 0.5 Elevated PSA` | 1858 | **Investigation-Interpretation.md** | content |
-| `RU-9` | Renal | `## 0.6 Urine Cytology` · `## 0.7 Uroflowmetry` · `## 0.8 Urodynamic Studies` | 1877, 1891, 1905 | **Investigation-Interpretation.md** | content |
-| `RU-10` | Renal | `## 0.11 24-hour Urine Copper` | 1958 | **Investigation-Interpretation.md**; content serves `GI §0.7 Wilson's Disease` | content |
+| `RU-9` | Renal | `## 0.6 Urine Cytology` · `## 0.7 Uroflowmetry` · `## 0.8 Urodynamic Studies` | 1877, 1891, 1905 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `RU-10` | Renal | `## 0.11 24-hour Urine Copper` | 1958 | **Investigation-Interpretation.md**; content serves `GI §0.7 Wilson's Disease` | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `RU-11` | Renal | `## 0.12 Urine Protein Electrophoresis / Bence-Jones` | 1977 | **Investigation-Interpretation.md**; serves `Renal §0.8 Myeloma Kidney` and Heme Onc | inbound-corrob. |
-| `RU-13` | Renal | `## 0.6 Renal Biopsy` (H1) | 970 | **`GER8_Procedure_Addendum`** *or* Investigation-Interpretation | content |
-| `R-1` | Resp | `## 0.2 Pulmonary Function Tests (Spirometry, Lung Volumes, DLCO)` | 1013 | **Investigation-Interpretation.md §1.3** | content |
-| `R-2` | Resp | `## 0.3 Pulse Oximetry (SpO₂)` | 1041 | **Investigation-Interpretation.md** | inbound-corrob. |
+| `RU-13` | Renal | `## 0.6 Renal Biopsy` (H1) | 970 | **`GER8_Procedure_Addendum`** *or* Investigation-Interpretation | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `R-1` | Resp | `## 0.2 Pulmonary Function Tests (Spirometry, Lung Volumes, DLCO)` | 1013 | **Investigation-Interpretation.md §1.3** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| `R-2` | Resp | `## 0.3 Pulse Oximetry (SpO₂)` | 1041 | **Investigation-Interpretation.md** | inbound-corrob. **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `R-3` | Resp | `## 0.4 Sleep Studies (Polysomnography, HSAT)` | 1064 | **Investigation-Interpretation.md** | inbound-corrob. |
 | `R-4` | Resp | `## 0.5 Sputum Culture` | 1087 | **Investigation-Interpretation.md** | content |
-| `R-5` | Resp | `## 0.6 Sweat Chloride Test` | 1109 | **Investigation-Interpretation.md** | content |
+| `R-5` | Resp | `## 0.6 Sweat Chloride Test` | 1109 | **Investigation-Interpretation.md** | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | `R-6` | Resp | `## 0.7 TB Screening (TST/Mantoux and IGRA)` | 1134 | **Investigation-Interpretation.md** | inbound-corrob. |
 | `R-7` | Resp | `## 0.8 V/Q Scan` | 1159 | **Investigation-Interpretation.md** | content |
 | `R-8` | Resp | `## 0.1 Nasopharyngeal Swab` | 992 | **Investigation-Interpretation.md** *or* `NEW_Exam_Manoeuvres_and_Procedures` | content |
-| `R-9` | Resp | `### 0.9.1 Diagnosis of latent TB — Mantoux test` | 440 | **Investigation-Interpretation.md**, with R-6 | content |
+| `R-9` | Resp | `### 0.9.1 Diagnosis of latent TB — Mantoux test` | 440 | **Investigation-Interpretation.md**, with R-6 | content **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 
 
 ---
@@ -189,29 +215,29 @@ it is still only 10 pointers, of which the 0.9% validation rate applies.
 
 | ID | From | Section | L | Proposed destination | Evidence |
 |---|---|---|---|---|---|
-| `A-1` | Anaes | `## 0.5 Pre-Operative Assessment` + its `**History:**` and `**Examination:**` blocks | 197–231 | **Examination.md §1.12** | content |
-| `A-2` | Anaes | `## 0.1 Preoperative Assessment` (AN1) · `## 0.2 Airway Assessment and Anaesthetic Technique` (AN1) | 344, 388 | **Examination.md §1.12** | content |
+| `A-1` | Anaes | `## 0.5 Pre-Operative Assessment` + its `**History:**` and `**Examination:**` blocks | 197–231 | **Examination.md §1.12** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `A-2` | Anaes | `## 0.1 Preoperative Assessment` (AN1) · `## 0.2 Airway Assessment and Anaesthetic Technique` (AN1) | 344, 388 | **Examination.md §1.12** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | `C-4` | Cardio | `> [!info] Dynamic manoeuvres` (RILE; Valsalva/standing; squatting/handgrip; the HOCM and MVP exceptions) | 2483 | **Examination.md** | content |
-| `C-5` | Cardio | `### 0.21.2 Heart sounds`, `### 0.21.4 Pulses` | 790, 800 | **Examination.md §1.5** | content |
+| `C-5` | Cardio | `### 0.21.2 Heart sounds`, `### 0.21.4 Pulses` | 790, 800 | **Examination.md §1.5** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | `C-6` | Cardio | `> [!tip] Valsalva manoeuvre` (L438) and `> [!info] Vagal manoeuvres — do them properly` (L2051) | 438, 2051 | **Examination.md** | content |
 | `C-7` | Cardio | `> [!danger] Fundoscopy is the examination that most often makes the diagnosis` | 1927 | **Examination.md §1.18** (Fundoscopy already exists there) | content |
-| `D-12` | Derm | `## Skin lesion morphology — reference terms` | 942 | **Examination.md §1.15** | content |
-| `D-13` | Derm | `## 0.1 Describing a Rash` (G1) | 1048 | **Examination.md §1.15** | content |
-| `D-14` | Derm | `## 0.1 Assessing a Pigmented Lesion` (G5) | 1873 | **Examination.md §1.15** | **inbound-PRIMARY** |
-| `D-16` | Derm | `## 0.5 Nails` (G5) | 1985 | **flag — Examination** | content |
-| `T-1` | ENT | `## 0.1 Examining the Ear and Assessing Hearing` (F1) | 852 | **Examination.md §1.19/§1.20** | inbound-corrob. |
-| `X-1` | Emergency | `## 0.1 The A–E Approach` (F0-4) | 3042 | **Examination.md §1.1** | content |
-| `X-2` | Emergency | `## 0.1 The Deteriorating Patient — Recognition` (A1) · `## 0.2 Vital Signs and Early Warning Scores` (Examination §1.2's topic) | 11 | **flag — Examination.md §1.2** | content |
-| `K-16` | MSK | `## Dermatomes — quick reference` + the 5 nerve-root/peripheral-nerve tables + `## Brachial Plexus Injury` (11_07a) | 797–891 | **Examination.md** | inbound-corrob. |
+| `D-12` | Derm | `## Skin lesion morphology — reference terms` | 942 | **Examination.md §1.15** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `D-13` | Derm | `## 0.1 Describing a Rash` (G1) | 1048 | **Examination.md §1.15** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `D-14` | Derm | `## 0.1 Assessing a Pigmented Lesion` (G5) | 1873 | **Examination.md §1.15** | **inbound-PRIMARY** **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `D-16` | Derm | `## 0.5 Nails` (G5) | 1985 | **flag — Examination** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `T-1` | ENT | `## 0.1 Examining the Ear and Assessing Hearing` (F1) | 852 | **Examination.md §1.19/§1.20** | inbound-corrob. **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `X-1` | Emergency | `## 0.1 The A–E Approach` (F0-4) | 3042 | **Examination.md §1.1** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `X-2` | Emergency | `## 0.1 The Deteriorating Patient — Recognition` (A1) · `## 0.2 Vital Signs and Early Warning Scores` (Examination §1.2's topic) | 11 | **flag — Examination.md §1.2** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `K-16` | MSK | `## Dermatomes — quick reference` + the 5 nerve-root/peripheral-nerve tables + `## Brachial Plexus Injury` (11_07a) | 797–891 | **Examination.md** | inbound-corrob. **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | `K-18` | MSK | `> Tinel's sign` · `> Phalen's sign` (11_03) | 395, 396 | **Examination.md** | content |
-| `N-3` | Neuro | `### Glasgow Coma Scale (GCS)` | 719 | **Examination.md** | content |
-| `N-4` | Neuro | `## 0.1 Psychiatric Assessment and the Mental State Examination` (N1) | 3841 | **Examination.md §1.22** | content |
-| `N-5` | Neuro | `## 0.2 Acute Vestibular Syndrome and the HINTS Examination` (D5) | 3016 | **Examination.md §1.21.2** | content |
-| `N-6` | Neuro | `## 0.1 Localising the Lesion` (D4) | 2700 | **Examination.md** | content |
-| `N-7` | Neuro | `## Brain Lesion Localisation` | 952 | **Examination.md** | content |
-| `B-2` | OBGYN | `## 0.1 Triple Assessment` (O7) | 5499 | **Examination.md §1.17** | content |
-| `E-1` | Opthalm | `## 0.2 Drugs for Eye Examinations and Procedures` (NEW_Drugs_11) | 1506 | **Examination.md §1.18** | content |
-| `E-3` | Opthalm | `## Eye Anatomy Reference` | 6 | **flag — Examination.md** | content |
+| `N-3` | Neuro | `### Glasgow Coma Scale (GCS)` | 719 | **Examination.md** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `N-4` | **Psychiatry** (was Neuro; A1 `f5e49c9`) | `## 0.1 Psychiatric Assessment and the Mental State Examination` (N1) | 3841 | **Examination.md §1.22** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `N-5` | Neuro | `## 0.2 Acute Vestibular Syndrome and the HINTS Examination` (D5) | 3016 | **Examination.md §1.21.2** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `N-6` | Neuro | `## 0.1 Localising the Lesion` (D4) | 2700 | **Examination.md** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `N-7` | Neuro | `## Brain Lesion Localisation` | 952 | **Examination.md** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `B-2` | OBGYN | `## 0.1 Triple Assessment` (O7) | 5499 | **Examination.md §1.17** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `E-1` | Opthalm | `## 0.2 Drugs for Eye Examinations and Procedures` (NEW_Drugs_11) | 1506 | **Examination.md §1.18** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
+| `E-3` | Opthalm | `## Eye Anatomy Reference` | 6 | **flag — Examination.md** | content **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | `P-4` | Pediatrics | `> Get down to the child's level, introduce yourself to THEM…` (M1 §0.6 Practical Paediatrics) | 2806–2851 | **Examination.md / Communication.md** | content |
 
 
@@ -230,10 +256,10 @@ pointer left behind. **No row here rests on inbound evidence at all.**
 | ID | From | Section | L | Proposed destination | Evidence |
 |---|---|---|---|---|---|
 | `C-8` | Cardio | `> [!danger] The collateral history is the investigation` | 2268 | **History-Taking.md** | content |
-| `R-4` | Geriatrics | `### Distinguishing a fall from a collapse — do this first` | 18 | **History-Taking.md** | content |
-| `I-1` | Infectious | `## The STI Check — Sexual History, What to Test, and When` + `### Taking a sexual history` + `### What a standard asymptomatic check consists of` + `### Window periods` + `### After the result` | 870–923 | **History-Taking.md** | content |
-| `B-1` | OBGYN | `## 0.1 The Sexual History and STI Assessment` (O6) | 5185 | **History-Taking.md** | content |
-| `P-1` | Pediatrics | `## 0.2 The HEEADSSS Psychosocial Assessment` (M7) | 3970 | **History-Taking.md** | content |
+| `R-4` | Geriatrics | `### Distinguishing a fall from a collapse — do this first` | 18 | **History-Taking.md** | content **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
+| `I-1` | Infectious | `## The STI Check — Sexual History, What to Test, and When` + `### Taking a sexual history` + `### What a standard asymptomatic check consists of` + `### Window periods` + `### After the result` | 870–923 | **History-Taking.md** | content **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
+| `B-1` | OBGYN | `## 0.1 The Sexual History and STI Assessment` (O6) | 5185 | **History-Taking.md** | content **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
+| `P-1` | Pediatrics | `## 0.2 The HEEADSSS Psychosocial Assessment` (M7) | 3970 | **History-Taking.md** | content **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
 | `R-10` | Resp | `> [!danger] Ask the occupational history — it is systematically not taken` | 1374 | **History-Taking.md** | content |
 | `R-11` | Resp | `> [!warning] Hypersensitivity pneumonitis — take the exposure history properly` | 1334 | **History-Taking.md** | content |
 
@@ -260,17 +286,17 @@ and **the pointer left behind has to name both**. `OBGYN B-4` alone is twelve su
 | ID | From | Section | L | Proposed destination | Evidence |
 |---|---|---|---|---|---|
 | `C-9` | Cardio | **14 `**Focused Hx:**` + 14 `**Examination:**` blocks**, all in `NEW_Cardiology_and_Vascular` | 3375–3541 | **History-Taking.md / Examination.md** | content |
-| `D-15` | Derm | 6 × `**Focused Hx:**` + 6 × `**Examination:**` in `NEW_Dermatology` | 2264–2318 | **History-Taking.md / Examination.md** | content |
+| `D-15` | Derm | **5** × `**Focused Hx:**` + **5** × `**Examination:**` in `NEW_Dermatology` *(count corrected 2026-09-01; the row said 6+6)* | 2264–2318 | **History-Taking.md / Examination.md** | content |
 | `T-2` | ENT | 4 × `**Focused Hx:**` + 4 × `**Examination:**` in `NEW_ENT_and_Oral` | 1779–1819 | **History-Taking.md / Examination.md** | content |
 | `E-14` | Endocrine | `**Focused Hx:**` + `**Examination:**` in `NEW_Acid-Base_Fluids_and_Electrolytes ## Dehydration` | 2852–2853 | **History-Taking.md / Examination.md** | content |
 | `R-3` | Geriatrics | `**History:**` + `**Examination:**` blocks under `## Falls in Older People` | 51, 55 | **History-Taking.md / Examination.md** | content |
-| `K-17` | MSK | 8 × `**Focused Hx:**` + 8 × `**Examination:**` in `NEW_Orthopaedics_and_Trauma` and `NEW_Rheumatology_and_Immunology` | 4889–5021 | **History-Taking.md / Examination.md** | content |
+| `K-17` | MSK | **6** × `**Focused Hx:**` + **6** × `**Examination:**` in `NEW_Orthopaedics_and_Trauma` *(count corrected 2026-09-01; the row said 8+8)* and `NEW_Rheumatology_and_Immunology` | 4889–5021 | **History-Taking.md / Examination.md** | content |
 | `N-8` | Neuro | 8 × `**Focused Hx:**` + 8 × `**Examination:**` in `NEW_Neurology` | 5695–5830 | **History-Taking.md / Examination.md** | content |
-| `B-4` | OBGYN | 12 × `**Focused Hx:**` / `**Examination:**` blocks in `NEW_Obstetrics` and `NEW_Gynaecology_and_Reproductive` | 4000–3628 | **History-Taking.md / Examination.md** | inbound-corrob. |
+| `B-4` | OBGYN | **6** × `**Focused Hx:**` + **6** × `**Examination:**` in `NEW_Obstetrics` *(count corrected 2026-09-01; the row said 12 blocks)* and `NEW_Gynaecology_and_Reproductive` | 4000–3628 | **History-Taking.md / Examination.md** | inbound-corrob. |
 | `E-2` | Opthalm | 4 × `**Focused Hx:**` + 4 × `**Examination:**` in `NEW_Ophthalmology` | 1632–1692 | **History-Taking.md / Examination.md** | content |
 | `Y-9` | Psychiatry | `**Focused Hx:** / **Examination:**` in `NEW_Psychiatry ## Acute Behavioural Disturbance` | **3019–3020** | **History-Taking.md / Examination.md** | content |
 | `RU-14` | Renal | 2 × `**Focused Hx:**` + 2 × `**Examination:**` in `NEW_Renal_and_Urology` | 2043–2072 | **History-Taking.md / Examination.md**. L2044 is explicit technique: *"examine the patient standing and lying, with consent and a chaperone"*; L2072 *"palpate and percuss for a distended bladder"* | content |
-| `R-12` | Resp | 3 × `**Focused Hx:**` + 3 × `**Examination:**` blocks in `NEW_Respiratory` | 1221–1264 | **History-Taking.md / Examination.md** | content |
+| `R-12` | Resp | **2** × `**Focused Hx:**` + **3** × `**Examination:**` in `NEW_Respiratory` *(count corrected 2026-09-01; the row said 3+3)* | 1221–1264 | **History-Taking.md / Examination.md** | content |
 
 
 ---

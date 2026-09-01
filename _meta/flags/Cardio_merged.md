@@ -1,5 +1,31 @@
 # Cardio_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.** Awaiting user decisions.
 Sources: 10 · lines 4279 · most-referenced file in the vault (**92 inbound to `01_Cardiovascular`
 alone**, of which **44 come from the Clinical Process set**: History-Taking ×19, Examination ×13,
@@ -22,8 +48,8 @@ Investigation-Interpretation ×12)
 ### Investigation-interpretation content in a disease file
 | ID | Section | L | → | Why | Inbound |
 |---|---|---|---|---|---|
-| C-2 | `## 0.12 ECG Interpretation` + `.1`–`.12` (P wave, PR, AV blocks, QRS, BBB, axis, ST, T wave, chamber hypertrophy, athlete variants, hypothermia, digoxin effect) | 474–546 | **Investigation-Interpretation.md** | **`Investigation-Interpretation.md` contains NO ECG content.** Tested: `ECG` appears there twice — once as a CXR artefact (L59), once as *"correlate with the ECG"* inside the troponin entry (L274). Across all 16 Clinical Process files there are 10 mentions, every one incidental. **ECG has exactly two section-level homes in the whole vault and both are inside Cardio_merged.** That file's own subtitle is *"Template G — test-led, not disease-led"*, which is precisely what §0.12 is. | 0 section-level |
-| C-3 | `### 0.1.1 ECG cardiac territories` | 33 | **Investigation-Interpretation.md**, with C-2 | leads → territory → vessel table; interpretation, not disease | 0 |
+| C-2 | `## 0.12 ECG Interpretation` + `.1`–`.12` (P wave, PR, AV blocks, QRS, BBB, axis, ST, T wave, chamber hypertrophy, athlete variants, hypothermia, digoxin effect) | 474–546 | **Investigation-Interpretation.md** | **`Investigation-Interpretation.md` contains NO ECG content.** Tested: `ECG` appears there twice — once as a CXR artefact (L59), once as *"correlate with the ECG"* inside the troponin entry (L274). Across all 16 Clinical Process files there are 10 mentions, every one incidental. **ECG has exactly two section-level homes in the whole vault and both are inside Cardio_merged.** That file's own subtitle is *"Template G — test-led, not disease-led"*, which is precisely what §0.12 is. | 0 section-level **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| C-3 | `### 0.1.1 ECG cardiac territories` | 33 | **Investigation-Interpretation.md**, with C-2 | leads → territory → vessel table; interpretation, not disease | 0 **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 
 > **Scope question for the user.** The standing rule from GI M-16 names *history-taking, examination
 > and communication*. C-2/C-3 are **investigation interpretation** — the fourth Clinical Process
@@ -33,7 +59,7 @@ Investigation-Interpretation ×12)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
 | C-4 | `> [!info] Dynamic manoeuvres` (RILE; Valsalva/standing; squatting/handgrip; the HOCM and MVP exceptions) | 2483 | **Examination.md** | pure technique — *"this pair of exceptions is examined repeatedly"* |
-| C-5 | `### 0.21.2 Heart sounds`, `### 0.21.4 Pulses` | 790, 800 | **Examination.md §1.5** | how to interpret what you hear/feel. **`### 0.21.1 Murmurs — DDx` STAYS** — that is disease-mapping |
+| C-5 | `### 0.21.2 Heart sounds`, `### 0.21.4 Pulses` | 790, 800 | **Examination.md §1.5** | how to interpret what you hear/feel. **`### 0.21.1 Murmurs — DDx` STAYS** — that is disease-mapping **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | C-6 | `> [!tip] Valsalva manoeuvre` (L438) and `> [!info] Vagal manoeuvres — do them properly` (L2051) | 438, 2051 | **Examination.md** | **two copies of one technique in one file**; the modified-Valsalva detail is in the B3 copy |
 | C-7 | `> [!danger] Fundoscopy is the examination that most often makes the diagnosis` | 1927 | **Examination.md §1.18** (Fundoscopy already exists there) | leave a pointer from B2 §0.3 |
 | C-8 | `> [!danger] The collateral history is the investigation` | 2268 | **History-Taking.md** | syncope collateral history |

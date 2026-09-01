@@ -348,3 +348,102 @@ existing row-ID order is **identical** before and after.
 
 `_meta/PENDING_ROWS_TO_ADD.md` is retained as the record of why the rows were staged rather than
 filed at the time. **Do not paste from it again** — that would duplicate B66/B67.
+
+---
+
+## THE STALENESS SWEEP AND THE DRIFT ANALYSIS (2026-09-01)
+
+### Is the drift growing? YES — and it is entirely caused by later work
+
+**I was wrong earlier.** I said the flag files' line numbers "were already stale when written."
+**They were not.** Measured on the 219 rows carrying both a line number and a cited heading:
+
+| Tree | Line number lands on a heading | Cause of the change |
+|---|---:|---|
+| `73aebe0` last commit before ANY content moved | **213/219 · 97%** | — |
+| `f5e49c9` after A1 (`N1`–`N8`, `GER3`/`GER4`) | 212/219 · 97% | **−1.** Whole-source-block moves cost almost nothing |
+| `16a9386` after A2 (four new files) | 212/219 · 97% | 0 |
+| `90dc93f` after the 80 in-text flags | **53/219 · 24%** | **−159 in ONE commit** |
+| `ac620de` after Investigation-Interpretation | 42/219 · 19% | −11 |
+| `c5df174` after the OSCE block | 35/219 · 16% | −7 |
+
+**"Stale when written" is 3%. "Stale because of later work" is 81%.** Only the second is
+accumulating, and it will keep accumulating with every approved block.
+
+> [!danger] **The counter-intuitive result: INSERTIONS are far more destructive than MOVES.**
+> The 80 in-text flags moved no content at all and destroyed **73%** of the line numbers in one
+> commit. The Investigation-Interpretation move relocated **104 sections and 2,285 lines** and
+> cost **11 rows**. An insertion near the top of a file shifts everything below it; a move
+> removes and adds in different places, and the two partly cancel.
+>
+> **So the cheap-looking operation is the expensive one.** Any future round of in-text flagging
+> will cost more line-number validity than the block moves it annotates.
+
+### Re-anchor cost per future block — measured on the two already executed
+
+| | Investigation-Interpretation | OSCE |
+|---|---|---|
+| rows in the block | 59 | 31 |
+| anchors needed | 103 | 38 |
+| resolved by `scripts/reanchor.py` | 100 | 35 |
+| **needed a hand decision** | **3** | **3** |
+| line numbers still valid at execution | 9 of 59 (15%) | not usable |
+
+**Cost is one script run plus about three hand decisions per block**, regardless of block size —
+the hand cases are structural (a tie, a row naming a destination rather than a source, a row
+whose file changed under A1), not proportional to the number of rows. **It does not grow with
+the size of the block, and it does not grow as the line numbers rot further**, because the
+method already ignores them entirely.
+
+**The forward rule: never execute a row from its recorded line number. Re-anchor on heading
+text.** Every flag file now carries that as a banner.
+
+### The sweep — 672 rows checked
+
+| | |
+|---|---:|
+| rows checked across 25 flag files | **672** |
+| stale filename assertions found and corrected | **8** |
+| candidates rejected as false positives after reading them | **8** |
+| lines marked `✅ EXECUTED` with destination and commit | **128** |
+| flag files given the staleness banner | **25** |
+
+**The 8 false positives matter as much as the 8 real ones.** A first pass using fuzzy heading
+matching returned **214** candidates. Most were rows in a *destination's* flag file describing
+*incoming* content (`GI M-R1` describes Barrett's oesophagus, which is in ENT and proposed to
+move to GI — the row is correct), or lines I had written myself recording that a move was done.
+**Re-run against the execution manifests — exact heading text, not fuzzy matching — the real
+number was 8 filename assertions and 144 executed-section citations.** Same lesson as §1.10's
+`SRC:` token: when an exact key exists, use it instead of a content search.
+
+The 8 corrected: `ENT:41` (`Neuro N7`), `Neuro:65` (`N2 … currently in Neuro`), `GP:27`
+(`Geriatrics GER3`), `_Clinical_Process_set` ×4 (`Geriatrics GER4` ×3, `Geriatrics GER3`),
+`_BY_DESTINATION:208` (`N-4` From column).
+
+## `scripts/` — TOOLS NOW COMMITTED, WITH KNOWN-ANSWER TESTS
+
+**Answering the second question directly: before today, NO tool in this project was committed.**
+Both defects were one-off corrections inside the runs that found them. The entire toolchain
+lived in a session scratchpad that is destroyed when the session ends, so the next session began
+with nothing and the next author would have hit both again.
+
+**`gapcheck.py` — which CLAUDE.md §1.3 cites throughout as mandatory before any `ABSENT`
+verdict, and describes as the tool that "cannot truncate" and "refuses to report zero as a
+verdict" — is still not in this repository.** Same shape as `PENDING_GUIDELINE_CHECKS.md`: a
+thing the rules require, that does not exist here.
+
+Now committed and self-testing (`scripts/checkall.sh`, all self-tests passing):
+
+- **`check_dividers.py`** — enforces the `SOURCE:` convention. Its self-test includes **the
+  exact string that produced the 60 false dangling pointers** and asserts it is rejected. Run
+  against the vault: **347 dividers, all conforming.** **The convention is now enforced rather
+  than remembered.**
+- **`verify_move.py`** — the fixed block verifier. Its self-test builds a section with
+  subheadings, confirms the fixed rule keeps them, **and reproduces the old rule to show it
+  truncates** — the bug is pinned by a test that fails if it returns.
+- **`reanchor.py`** — resolves a paraphrased heading to its current file and line. Self-test
+  uses the thyroid-panel paraphrase that defeated exact matching.
+- `dangling.py`, `misaimed.py`, `drift.py`, `xref.py`, `sections.py` — as used throughout.
+
+**What is still NOT automated:** nothing forces a row's line number to be re-checked before
+execution. `reanchor.py` makes it cheap; only the banner makes it expected.

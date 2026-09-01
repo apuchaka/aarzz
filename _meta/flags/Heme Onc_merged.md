@@ -1,5 +1,31 @@
 # Heme Onc_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 22 (most of any file) · lines 3730 · numbering drift: **none**.
 Zero inbound: `10_10b_Haemonc_-_Transplant_Medicine`.
@@ -16,10 +42,10 @@ Zero inbound: `10_10b_Haemonc_-_Transplant_Medicine`.
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
 | H-2 | `## CBC & Peripheral Blood` | 3240 | **Investigation-Interpretation.md §1.11** | **§1.11 "Full Blood Count and Blood Film" already exists** |
-| H-3 | `## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)` | 3366 | **Investigation-Interpretation.md §1.17** | **§1.17 "Coagulation Screen and D-dimer Interpretation" already exists** |
-| H-4 | `## 0.1 Interpreting the Coagulation Screen` (J3) | 2160 | **Investigation-Interpretation.md §1.17** | **a third copy of the same topic** |
-| H-5 | `## 0.9 How to interpret blood results — a quick approach` | 117 | **Investigation-Interpretation.md §1.11** | fourth interpretation entry |
-| H-6 | `## Iron studies interpretation` | 426 | **Investigation-Interpretation.md** | |
+| H-3 | `## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)` | 3366 | **Investigation-Interpretation.md §1.17** | **§1.17 "Coagulation Screen and D-dimer Interpretation" already exists** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| H-4 | `## 0.1 Interpreting the Coagulation Screen` (J3) | 2160 | **Investigation-Interpretation.md §1.17** | **a third copy of the same topic** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| H-5 | `## 0.9 How to interpret blood results — a quick approach` | 117 | **Investigation-Interpretation.md §1.11** | fourth interpretation entry **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| H-6 | `## Iron studies interpretation` | 426 | **Investigation-Interpretation.md** | **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | H-7 | `## Anaemia — DDx by MCV and reticulocyte index` | 408 | **Investigation-Interpretation.md** | the index table; the disease entries stay |
 | H-8 | `## Immunohematology (Blood Group & Rh, DAT)` | 3305 | **Investigation-Interpretation.md** | ⚠️ **destination of approved GI M-2** (`## 0.33 Coombs / DAT-IAT` → Heme Onc). This is the fuller entry M-2's own text points at. **Recommend both land in Investigation-Interpretation, not Heme Onc — needs a ruling**, same shape as the Neuro N-1/CSF conflict |
 | H-9 | remaining 20 entries of `NEW_Investigations_Haematology` + `_Part2` (B12, MMA, homocysteine, anti-IF, APCA, haptoglobin, Hb electrophoresis, EPO, factor VIII, vWF, ADAMTS13, HIT ELISA, SRA, flow cytometry, marrow/node biopsy, SPEP/SFLC, β2-microglobulin, osmotic fragility, sickle solubility, Schilling, lymphoscintigraphy) | 3251–3686 | **Investigation-Interpretation.md** | `## 0.18 Biopsy and Procedures` may belong with procedures instead — axis question |
@@ -53,7 +79,7 @@ Zero inbound: `10_10b_Haemonc_-_Transplant_Medicine`.
   `J1 §0.2` (1761) · `J2 §0.6 Thalassaemia` (2107)
 - **G-H3 Macrocytic anaemia** — `10_06a ## B12 deficiency` (668) · `## Folate deficiency` (682) ·
   `## Other causes` +`### liver` +`### alcohol` +`### hypothyroidism` (695–716) · `J1 §0.3` (1803) ·
-  `NEW_Inv_Haem ## B12` `## MMA` `## Homocysteine` `## Anti-IF` `## APCA` (3251–3295)
+  `NEW_Inv_Haem ## B12` `## MMA` `## Homocysteine` `## Anti-IF` `## APCA` (3251–3295) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)**
 - **G-H4 Normocytic and haemolytic anaemia** — `10_05 ## Normocytic haemolytic — intrinsic`
   +`### spherocytosis` +`### G6PD` +`### PNH` +`### HbC` (564–606) · `## extrinsic` +`### AIHA`
   +`### TTP` +`### HUS` +`### DIC` +`### macroangiopathic` +`### infections` (607–666) ·

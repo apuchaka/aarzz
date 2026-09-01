@@ -1,5 +1,31 @@
 # Consolidated report — corpus reorganisation
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 **Navigable version:** https://claude.ai/code/artifact/47915732-d749-41d4-beee-6c21b2ee4e26
 **Per-file detail:** `_meta/flags/<file>.md` — 20 files.
 **Moves by destination:** `_meta/flags/_BY_DESTINATION.md` — 248 rows, 15 blocks.
@@ -58,7 +84,7 @@ Full detail, with the evidence class of every row: **`_meta/flags/_BY_DESTINATIO
 | **New: `Palliative-and-End-of-Life-Care.md`** | **0** | — | **no move rows** — its case comes from the Clinical Process output, not a system file |
 
 ## CONFLICTS WITH ALREADY-APPROVED DECISIONS — need a ruling
-- **`M-1` CSF Studies → Neuro.** Neuro already has `### CSF Interpretation`;
+- **`M-1` CSF Studies → Neuro.** Neuro already has `### CSF Interpretation`; **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)**
   `Investigation-Interpretation §1.13` also exists; ENT has CSF rhinorrhoea with β-transferrin.
   Moving it makes CSF **four-way**. **Recommend redirecting to Investigation-Interpretation.**
 - **`M-2` Coombs/DAT → Heme Onc.** The fuller entry it points at should itself go to

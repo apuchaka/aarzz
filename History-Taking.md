@@ -969,3 +969,111 @@ Pathogen-specific treatment, partner notification, and notification.
 > **"What do you do for work? What have you done in the past — including holiday and student jobs? What are you exposed to? Does anyone else at work have the same symptoms? Are you better on days off or on holiday?"**
 > **Occupational lung disease is missed because the question is not asked**, and by the time it is, the exposure has continued for years and the damage is irreversible.
 > **The latency can be decades**, so a current desk job does not exclude an occupational cause.
+
+---
+
+## 2 Presentation-specific focused histories and examinations — deliberately NOT here
+
+> [!note] **This is a deferral, not a gap. It is the shape of `ENT 13_06c ## Bell's palsy`:
+> a stub that points, and explains why it points.**
+> **109 `**Focused Hx:**` and `**Examination:**` bullets** live inside **55 presentation entries
+> across 12 system files**, and they stay there. They were considered for this file on
+> 2026-09-01 and **deliberately left in place**.
+>
+> **Why.** Each is one bullet in a fixed entry skeleton — `D:` / `DDx:` / `Focused Hx:` /
+> `Examination:` / `First-line Ix:` — and **the standing rule's boundary runs inside the bullet,
+> not between bullets.** 30 carry examination technique, 32 carry diagnostic reasoning, and 5
+> carry both interleaved in a single sentence. ENT `## Acute Hoarseness` reads *"**listen to the
+> voice and characterise it** — breathy suggests glottic incompetence or cord palsy"*: the first
+> clause is technique and belongs here, the second is what the finding means in that
+> presentation and belongs in ENT. **They are the same clause.** The 53 bullets matching neither
+> marker are mostly pure presentation-specific reasoning, which the rule places in the system
+> file.
+>
+> Moving them whole would relocate the diagnostic reasoning against the rule and put a hole in
+> the middle of 55 entries. Extracting the technique sentence by sentence is **109 rewrites**,
+> and a rewrite cannot be verified line-for-line against the pre-move file the way all 139
+> blocks moved on 2026-09-01 were. **So: indexed here, moved nowhere.**
+>
+> Full reasoning and the measurements: `_meta/flags/_PAIRED_BLOCKS.md`.
+
+### 2.1 Where they are — the 55 entries
+**`Cardio_merged.md`** — 14 entries
+- `Acute Chest Pain` — NEW_Cardiology_and_Vascular.md
+- `Bradycardia and Symptomatic Bradycardia` — NEW_Cardiology_and_Vascular.md
+- `Chest Tightness` — NEW_Cardiology_and_Vascular.md
+- `Chronic Chest Pain` — NEW_Cardiology_and_Vascular.md
+- `Claudication` — NEW_Cardiology_and_Vascular.md
+- `Elevated Blood Pressure` — NEW_Cardiology_and_Vascular.md
+- `Hypertensive Urgency` — NEW_Cardiology_and_Vascular.md
+- `Hypotension` — NEW_Cardiology_and_Vascular.md
+- `Multifocal Atrial Tachycardia` — NEW_Cardiology_and_Vascular.md
+- `Orthopnoea and Paroxysmal Nocturnal Dyspnoea` — NEW_Cardiology_and_Vascular.md
+- `Paroxysmal Hypertension` — NEW_Cardiology_and_Vascular.md
+- `Pleuritic Chest Pain` — NEW_Cardiology_and_Vascular.md
+- `Presyncope` — NEW_Cardiology_and_Vascular.md
+- `Tachycardia` — NEW_Cardiology_and_Vascular.md
+
+**`Derm_merged.md`** — 5 entries
+- `Acute Rash` — NEW_Dermatology.md
+- `Blistering Rash` — NEW_Dermatology.md
+- `Chronic Rash` — NEW_Dermatology.md
+- `Maculopapular Rash` — NEW_Dermatology.md
+- `Non-Blanching Rash and Purpuric Rash` — NEW_Dermatology.md
+
+**`ENT_merged.md`** — 4 entries
+- `Acute Ear Pain` — NEW_ENT_and_Oral.md
+- `Acute Epistaxis` — NEW_ENT_and_Oral.md
+- `Acute Hoarseness` — NEW_ENT_and_Oral.md
+- `Acute Sore Throat` — NEW_ENT_and_Oral.md
+
+**`Endocrine and metabolics_merged.md`** — 1 entries
+- `Dehydration` — NEW_Acid-Base_Fluids_and_Electrolytes.md
+
+**`Geriatrics_merged.md`** — 1 entries
+- `Assessment — the multifactorial falls risk assessment` — 18_Geriatrics_and_Older_Persons_Health.md
+
+**`MSK_merged.md`** — 6 entries
+- `Acute Back Pain` — NEW_Orthopaedics_and_Trauma.md
+- `Acute Limb Pain` — NEW_Orthopaedics_and_Trauma.md
+- `Acute Neck Pain` — NEW_Orthopaedics_and_Trauma.md
+- `Acute Soft Tissue Swelling` — NEW_Orthopaedics_and_Trauma.md
+- `Acute Joint Pain` — NEW_Rheumatology_and_Immunology.md
+- `Acute Joint Trauma` — NEW_Rheumatology_and_Immunology.md
+
+**`Neuro_merged.md`** — 8 entries
+- `Acute Confusion` — NEW_Neurology.md
+- `Acute Facial Weakness` — NEW_Neurology.md
+- `Acute Focal Neurological Deficit` — NEW_Neurology.md
+- `Acute Neuromuscular Weakness` — NEW_Neurology.md
+- `Acute Sensory Disturbance` — NEW_Neurology.md
+- `Acute Vertigo` — NEW_Neurology.md
+- `Reduced Consciousness` — NEW_Neurology.md
+- `Thunderclap Headache` — NEW_Neurology.md
+
+**`OBGYN_merged.md`** — 6 entries
+- `Breast Lump` — NEW_Breast.md
+- `Breast Pain` — NEW_Breast.md
+- `Galactorrhoea` — NEW_Breast.md
+- `Acute Pelvic Pain` — NEW_Gynaecology_and_Reproductive.md
+- `Acute Vaginal Bleeding` — NEW_Gynaecology_and_Reproductive.md
+- `First-Trimester Pain` — NEW_Obstetrics.md
+
+**`Opthalm_merged.md`** — 4 entries
+- `Acute Eye Pain` — NEW_Ophthalmology.md
+- `Acute Floaters` — NEW_Ophthalmology.md
+- `Acute Visual Disturbance` — NEW_Ophthalmology.md
+- `Acute Visual Loss` — NEW_Ophthalmology.md
+
+**`Psychiatry_merged.md`** — 1 entries
+- `Acute Behavioural Disturbance` — NEW_Psychiatry.md
+
+**`Renal and Urology_merged.md`** — 2 entries
+- `Acute Scrotal Pain` — NEW_Renal_and_Urology.md
+- `Acute Urinary Retention` — NEW_Renal_and_Urology.md
+
+**`Resp_merged.md`** — 3 entries
+- `Acute Cough` — NEW_Respiratory.md
+- `Acute Dyspnoea` — NEW_Respiratory.md
+- `Acute Stridor` — NEW_Respiratory.md (0 Hx, 1 Exam)
+

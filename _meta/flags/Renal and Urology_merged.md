@@ -1,5 +1,31 @@
 # Renal and Urology_merged.md — grouping and misplacement flags
 
+> [!danger] **BOTH THE LINE NUMBERS AND THE FILE NAMES IN THIS FILE MAY BE STALE. RE-ANCHOR ON HEADING TEXT BEFORE EXECUTING ANY ROW.**
+> **The line numbers were CORRECT when written and were invalidated afterwards — measured, and it
+> corrects an earlier claim of mine that they were stale from the start.** On a 219-row sample,
+> the recorded line number landed on a heading in **97%** of rows at `73aebe0`, the last commit
+> before any content moved. **The 80 in-text flags (`90dc93f`) took that from 212/219 to 53/219
+> in one commit** — 73% destroyed by insertions, not by moves. Each executed block since has cost
+> a further 15–20% of what survived. **They are now valid in 16% of rows and still falling.**
+>
+> **File names go stale too, and a filename reads as authoritative in a way a line number does
+> not.** A1 (`f5e49c9`) moved `N1`–`N8` from Neuro to Psychiatry and `GER3`/`GER4` out of
+> Geriatrics; `ac620de` and `c5df174` moved 139 blocks into `Investigation-Interpretation.md`,
+> `Examination.md` and `History-Taking.md`. A row still naming the old file is not a typo — it
+> will send a reader to a file that no longer holds the content.
+>
+> **Rows already executed are marked `✅ EXECUTED` inline, with the destination and commit.**
+> Everything else is a proposal.
+>
+> **The section names in these rows are PARAPHRASES, not verbatim headings.** `0.1 Thyroid Panel
+> (TSH, fT4, fT3, antibodies)` against an actual `0.1 Thyroid Panel (TSH, Free T4, Free T3,
+> Thyroid Antibodies)`. An exact-text search will miss about a third of them — match on the
+> section number plus distinctive words, and **read every hit** before acting.
+>
+> Sweep of 2026-09-01: 672 rows checked, **8 stale filename assertions corrected**, **128 lines
+> marked executed**. See `RUN_STATE.md` for the drift analysis.
+
+
 Status: **ANALYSED. NOTHING MOVED.**
 Sources: 7 · lines 2103 · `07_Renal_Medicine_and_Urology` 36 inbound (Investigation-Interpretation ×10,
 History-Taking ×4, MSK ×4). Numbering drift: **none**.
@@ -19,11 +45,11 @@ The file states them itself at L1776 and again in its build status at L2014.
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
 | RU-5 | `## 0.1 Urinalysis Panel (Dipstick, pH, SG, Microscopy, Culture)` | 1780 | **Investigation-Interpretation.md §1.14** | **§1.14 "Urinalysis and Urine Microscopy, Culture & Sensitivity" already exists there.** Duplicate, not a gap |
-| RU-6 | `## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)` | 1819 | **Investigation-Interpretation.md** | no equivalent there |
+| RU-6 | `## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)` | 1819 | **Investigation-Interpretation.md** | no equivalent there **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | RU-7 | `## 0.2 Urine ACR` | 1801 | **Investigation-Interpretation.md** | carries a deliberate refusal to convert mg/g→mg/mmol — **keep that note with it** |
 | RU-8 | `## 0.5 Elevated PSA` | 1858 | **Investigation-Interpretation.md** | *"prostate-specific, not prostate-cancer-specific, which is the entire interpretive problem"* — pure interpretation |
-| RU-9 | `## 0.6 Urine Cytology` · `## 0.7 Uroflowmetry` · `## 0.8 Urodynamic Studies` | 1877, 1891, 1905 | **Investigation-Interpretation.md** | how to read the trace |
-| RU-10 | `## 0.11 24-hour Urine Copper` | 1958 | **Investigation-Interpretation.md**; content serves `GI §0.7 Wilson's Disease` | flag the GI link |
+| RU-9 | `## 0.6 Urine Cytology` · `## 0.7 Uroflowmetry` · `## 0.8 Urodynamic Studies` | 1877, 1891, 1905 | **Investigation-Interpretation.md** | how to read the trace **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
+| RU-10 | `## 0.11 24-hour Urine Copper` | 1958 | **Investigation-Interpretation.md**; content serves `GI §0.7 Wilson's Disease` | flag the GI link **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | RU-11 | `## 0.12 Urine Protein Electrophoresis / Bence-Jones` | 1977 | **Investigation-Interpretation.md**; serves `Renal §0.8 Myeloma Kidney` and Heme Onc | 1 inbound (GP) |
 
 > RU-5 – RU-11 empty `NEW_Investigations_Renal_and_Urology` of everything except the four
@@ -33,7 +59,7 @@ The file states them itself at L1776 and again in its build status at L2014.
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
 | RU-12 | `## 0.5 Catheters` (H2) | 1122 | **`NEW_Exam_Manoeuvres_and_Procedures` / `GER8_Procedure_Addendum`** | *"The indications are narrow, and 'incontinence' is not one of them"* — procedure indications and technique. Axis question, flag |
-| RU-13 | `## 0.6 Renal Biopsy` (H1) | 970 | **`GER8_Procedure_Addendum`** *or* Investigation-Interpretation | indications/complications of a procedure |
+| RU-13 | `## 0.6 Renal Biopsy` (H1) | 970 | **`GER8_Procedure_Addendum`** *or* Investigation-Interpretation | indications/complications of a procedure **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 
 ### History / examination (standing rule)
 | ID | Section | L | → |
