@@ -125,12 +125,12 @@ generated one of each per presentation.
 - [x] **Pediatrics_merged.md** — done
 - [x] **Psychiatry_merged.md** — done (groupings deferred: half the corpus is in Neuro)
 - [x] **Geriatrics_merged.md** — done. **GER3 and GER4 are not geriatrics.**
-- [ ] Anaes_merged.md  <-- RESUME HERE
+- [x] **Anaes_merged.md** — done
+- [x] **Opthalm_merged.md** — done
+- [x] **GP_merged.md** — done
+- [ ] Emergency and Crit Care_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Emergency and Crit Care_merged.md
 - [ ] ENT_merged.md
-- [ ] Opthalm_merged.md
-- [ ] GP_merged.md
 - [ ] **Clinical Process set (16 files)** — file-combination output, separate
 - [ ] **Consolidated report** — moves by destination file · all in-text flags · groupings by
       confidence · anything unplaceable
