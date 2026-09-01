@@ -654,6 +654,7 @@ Systemic IgE-mediated hypersensitivity — massive mast cell degranulation → i
 > - **>20 kg and ≥5 years: 0.3 mL (300 mcg)**
 > - **7.5–20 kg and ≤5 years: 0.15 mL (150 mcg)**
 > - **<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)** — unverified, see `PENDING_GUIDELINE_CHECKS.md` **B50**
+> `CF-PAIR` **THIS IS THE SECOND OF ONLY TWO PLACES IN THE CORPUS CARRYING THE `<7.5 kg` INFANT ADRENALINE ROW.** The other is `[[09_01_Dermatology_-_Dermatological_Emergencies]]` Anaphylaxis, which this box already points at as the owner. **Neither is redundant and neither should be deleted** — the copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and `NEW_Drugs_01 §0.5` both begin at 7.5 kg. Units differ (`mL` here, `mg` there) and are the same quantity at 1:1000. Both flag `PENDING_GUIDELINE_CHECKS.md` **B50**.
 >
 > Overall rule: **0.01 mg/kg up to a maximum of 0.5 mg**. See [[09_01_Dermatology_-_Dermatological_Emergencies]] Anaphylaxis for the full entry, and [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific observation criteria — the ASCIA correction from age bands to weight-and-age was made in that file and had not been carried across to here.
 > - Repeat every 5 min if necessary

@@ -866,8 +866,8 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 <!-- ===== SOURCE: B5_Murmurs__Endocarditis_and_Vascular_Disease.md ===== -->
 *Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-> [!info] Dynamic manoeuvres
 `CF-PAIR §1.5` **This block and Part 1 §1.5 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+> [!info] Dynamic manoeuvres
 > **Inspiration increases venous return to the right heart, so right-sided murmurs get louder** — the mnemonic **RILE** (Right on Inspiration, Left on Expiration).
 > **Valsalva and standing reduce preload, so most murmurs get quieter — with two exceptions that get LOUDER: hypertrophic cardiomyopathy and mitral valve prolapse.** Reduced ventricular volume worsens outflow obstruction in HOCM and increases prolapse in MVP. This pair of exceptions is examined repeatedly.
 > **Squatting and handgrip increase afterload and preload**, increasing mitral regurgitation, ventricular septal defect and aortic regurgitation murmurs, and reducing the HOCM murmur.
@@ -875,15 +875,15 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 <!-- ===== SOURCE: B2_Hypertension_Spectrum.md ===== -->
 *Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-> [!danger] Fundoscopy is the examination that most often makes the diagnosis
 `CF-PAIR §1.18` **This block and Part 1 §1.18 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+> [!danger] Fundoscopy is the examination that most often makes the diagnosis
 > **Malignant (accelerated) hypertension** is defined by severe hypertension with **retinal haemorrhages, cotton wool spots, hard exudates or papilloedema.** It is the finding that converts an alarming number into an emergency, it is available at the bedside for free, and it is the assessment most often skipped. Look at the fundi in any patient with severe hypertension.
 
 <!-- ===== SOURCE: B3_Arrhythmia__Bradycardia_and_Cardiac_Devices.md ===== -->
 *Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-> [!info] Vagal manoeuvres — do them properly
 `CF-PAIR` **Pairs with `> [!tip] Valsalva manoeuvre` above. Both kept in full, not reconciled.**
+> [!info] Vagal manoeuvres — do them properly
 > The **modified Valsalva** — standard strain, then immediately laid flat with the legs passively raised — is substantially more effective than the conventional Valsalva and should be the default technique. It is free, it works in a meaningful proportion of SVT, and it is worth doing well before reaching for a drug. `UNVERIFIED — strain pressure and duration.`
 
 <!-- ===== SOURCE: 03a_Anaesthetics_Primer.md ===== -->
@@ -1459,8 +1459,8 @@ Stroke management per [[D3]], or supportive care with early vestibular rehabilit
 <!-- ===== SOURCE: M1_The_Seriously_Unwell_Child.md ===== -->
 *Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-> **· Get down to the child's level, introduce yourself to THEM, and explain what you are doing in words they understand.**
 `CF-PAIR §1.23` **This block and Part 1 §1.23 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+> **· Get down to the child's level, introduce yourself to THEM, and explain what you are doing in words they understand.**
 > **· Do the least distressing parts of the examination first and the ears and throat last.**
 > **· Use DISTRACTION — a parent's phone, bubbles, a toy, counting — which measurably reduces distress and improves cooperation.**
 > **· Keep the parent close, and use them: a child examined on a parent's lap tolerates far more than one on a couch.**

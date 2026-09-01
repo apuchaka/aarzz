@@ -262,6 +262,7 @@ Deliberately figure-free. Same status as 1d: a correct abstaining copy, not an i
 | Anaphylaxis | Paeds `15_01b` | `Pediatrics_merged.md:153–188` | 3 | bands only, defers to Derm for the table |
 | Anaphylaxis | Emerg `NEW_Drugs_01 §0.5` | `Emergency…:3854–3892` | 2 | `mL/kg` not `mg/kg`; weight-only bands |
 | Anaphylaxis | Emerg `F0-1 §0.9` | `Emergency…:2564–2598` | **0** | deliberately abstains |
+| Anaphylaxis | **Cardio `§0.20.3` Distributive shock** | `Cardio_merged.md:632–676` | **6** | **MISSED BY THIS INVENTORY — added 2026-09-01. It is a FIFTH copy and it carries the `<7.5 kg` row.** |
 | Life support | Paeds `15_01a` | `Pediatrics_merged.md:3–152` | **11** | **owner**; ANZCOR-verified; one live timing correction |
 | Life support | Emerg `F0-4 §0.4` | `Emergency…:3167–3194` | **0** | abstains; owns the length-based-tape instruction |
 | Life support | Emerg `F0-4 §0.5` | `Emergency…:3195–3222` | **0** | abstains (neonatal) |
@@ -271,6 +272,23 @@ Deliberately figure-free. Same status as 1d: a correct abstaining copy, not an i
 | Paed DKA | Endo `F0-2 §0.4` | `Endocrine…:1193–1219` | **0** | deliberately abstains |
 
 ---
+
+> [!danger] **THIS INVENTORY MISSED A COPY, AND IT IS THE ONE THAT MATTERS MOST AFTER THE OWNER.**
+> Found 2026-09-01 while checking whether the moves had damaged any callouts. **`Cardio_merged.md
+> §0.20.3 Distributive shock` carries a full ASCIA adrenaline box, including
+> `<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)`** — the infant row. So the row exists in **two**
+> places, not one: `Derm 09_01` and here.
+>
+> **Why it was missed.** This inventory was built by extracting figures from eleven spans chosen by
+> topic name — the three topics named in the ruling. **`§0.20.3` is filed under *shock*, not under
+> *anaphylaxis***, so a topic-name scope never reached it. That is CLAUDE.md §1.3's plain-English-name
+> rule in its exact documented form: *"a search for a name the corpus does not use returns an honest
+> zero about a topic the corpus covers under another heading."*
+>
+> **What it changes.** The Derm callout says the `<7.5 kg` figure "came from `[[01_Cardiovascular]]`
+> Shock" — which was right, and I still did not put Cardio in the inventory. The two copies now
+> disagree in units (`0.1–0.15 mg` in Derm, `0.1–0.15 mL` in Cardio — the same quantity at 1:1000)
+> and both flag `B50`. **Neither should be deleted; the pair should be marked.**
 
 ## The five things a merge would most plausibly destroy
 

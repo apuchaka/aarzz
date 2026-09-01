@@ -144,3 +144,26 @@ and never re-totalled.
 Everything else — 350 groupings, 59 keep-and-flag, **61 executed moves**, **12 paired-block rows
 resolved as Option 1**, 20 narrative findings, 4 recorded, 2 done, and the ungrouped "stays put"
 lists — **is resolved by a pattern you have already set. 546 items.**
+
+---
+
+## SHOCK — an unflagged duplication, found 2026-09-01
+
+**14 headings contain "shock". None moved — the count is identical to the initial upload.**
+But two parallel breakdowns exist and **no flag row in any of the 25 files ever covered them:**
+
+| File | Structure |
+|---|---|
+| `Cardio_merged.md §0.20 Shock` | `§0.20.1` Cardiogenic · `§0.20.2` Hypovolaemic · `§0.20.3` Distributive · `§0.20.4` Obstructive |
+| `Emergency and Crit Care_merged.md F0-3` | `§0.1` Recognition and Phenotype Framework · `§0.2` Hypovolaemic · `§0.3` Cardiogenic · `§0.4` Obstructive (tamponade) · `§0.5` Obstructive (PE) · `§0.6` Distributive (Addisonian) |
+
+Plus `Emergency §0.2 SIRS, Sepsis and Septic Shock`, `§0.10 Urosepsis and Gram-Negative Septic
+Shock`, and `Infectious Disease ### Toxic shock syndrome`.
+
+**The same four-phenotype framework, taught twice, in two files, with different subdivisions.**
+It is the shape the whole exercise was looking for and the analysis did not find it — because
+every flag row was generated per source file, and neither file *declares* the other.
+
+**`Cardio §0.20.3 Distributive shock` also holds a full ASCIA adrenaline box** including the
+`<7.5 kg` infant row — a fifth anaphylaxis copy, and the second of only two places carrying that
+row. See `_RULE5_FIGURES.md`, which had missed it.

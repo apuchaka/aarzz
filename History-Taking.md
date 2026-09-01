@@ -789,8 +789,8 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 <!-- ===== SOURCE: B4_Syncope__Collapse_and_Hypotension.md ===== -->
 *Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-> [!danger] The collateral history is the investigation
 `CF-PAIR §1.2` **This block and Part 1 §1.2 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+> [!danger] The collateral history is the investigation
 > **What a witness saw is worth more than any test in this presentation.** The patient by definition did not observe their own event. Ring the family member, the ambulance officer, the bystander. Ask specifically: how long were they out, what colour were they, did they jerk and for how long, were their eyes open or closed, how long before they were talking sensibly again, and what were they doing immediately beforehand.
 > Failing to obtain a collateral history is the commonest reason this presentation goes unresolved.
 
@@ -953,8 +953,8 @@ Pathogen-specific treatment, partner notification, and notification.
 <!-- ===== SOURCE: RESP-X_Occupational_and_Chronic_Lung_Disease.md ===== -->
 *Moved here from `Resp_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-> [!warning] Hypersensitivity pneumonitis — take the exposure history properly
 `CF-PAIR` **Pairs with `> [!danger] Ask the occupational history — it is systematically not taken` above — both are the exposure-history question. Both kept in full, not reconciled.**
+> [!warning] Hypersensitivity pneumonitis — take the exposure history properly
 > **An immune response to an inhaled organic antigen**, producing acute, subacute or chronic disease. **Chronic forms can be fibrotic and mistaken for IPF.**
 > **The antigen is found only by asking, in detail:**
 > **· BIRDS — including a neighbour's aviary, feather bedding and down duvets, which patients do not consider "bird exposure".**
@@ -964,8 +964,8 @@ Pathogen-specific treatment, partner notification, and notification.
 > **Ask what changed in the months before symptoms began, and ask whether symptoms improve on holiday or away from home** — that question is as useful here as it is in occupational asthma.
 > **Removal of the antigen is the treatment**, and it can arrest or reverse the disease — which makes finding it disproportionately valuable.
 
-> [!danger] Ask the occupational history — it is systematically not taken
 `CF-PAIR` **Pairs with `> [!warning] Hypersensitivity pneumonitis — take the exposure history properly` below — both are the exposure-history question. Both kept in full, not reconciled.**
+> [!danger] Ask the occupational history — it is systematically not taken
 > **"What do you do for work? What have you done in the past — including holiday and student jobs? What are you exposed to? Does anyone else at work have the same symptoms? Are you better on days off or on holiday?"**
 > **Occupational lung disease is missed because the question is not asked**, and by the time it is, the exposure has continued for years and the damage is irreversible.
 > **The latency can be decades**, so a current desk job does not exclude an occupational cause.
