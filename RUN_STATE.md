@@ -132,7 +132,8 @@ generated one of each per presentation.
 - [x] **ENT_merged.md** — done
 
 **ALL 19 SYSTEM FILES DONE.**
-- [ ] **Clinical Process set (16 files)**  <-- RESUME HERE
+- [x] **Clinical Process set (16 files)** — done, `_meta/flags/_Clinical_Process_set.md`
+- [ ] **Consolidated report**  <-- RESUME HERE
 - [ ] Resp_merged.md
 - [ ] **Consolidated report** — moves by destination file · all in-text flags · groupings by
       confidence · anything unplaceable
