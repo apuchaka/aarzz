@@ -1212,6 +1212,8 @@ Right heart failure arising from lung disease specifically — COPD, PE, interst
 
 ### 0.35.5 Austroads cardiovascular driving rules (private vehicle standards)
 
+> [!note] **`[[Preventive-Health]] §0.6 Occupational Health, Certification and Driving` is the AUSTROADS HOME (C7, 2026-09-01).** This section is the condition-specific rule set and stays here, where a reader meets the disease. The general standard, the private-versus-commercial distinction and the reporting obligation are there, not repeated here.
+
 > [!warning] FLAG 2026-09-01 — Austroads driving standards are in four files
 > Here · `Endocrine and metabolics_merged §0.15.8 Austroads Driving Standards for Diabetes` ·
 > `Neuro_merged ### Austroads Driving Standards (Neurological Conditions)` ·

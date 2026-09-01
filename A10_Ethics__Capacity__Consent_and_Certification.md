@@ -158,6 +158,8 @@ Family bereavement support. **Team debrief** — these cases are difficult for s
 
 ## 0.5 Professional Practice Concern
 
+`CF-PAIR` **Mandatory reporting is in three places. Part 1 `## Mandatory Reporting — the Overarching Duty` (from `Clinical-Process-EBM`) and `[[Safeguarding]] §0.1` are the others. All kept in full. NOT the same duty as notifiable **diseases** in `[[Infectious Disease_merged]]`.**
+
 **D:** Situations where a clinician must raise, escalate or report a concern about care, conduct or a colleague — including their own.
 
 > [!tip] Escalating a clinical concern — graded assertiveness
@@ -247,3 +249,252 @@ Review at the interval the standard specifies. For permanent cessation, address 
 
 > [!note] Cross-references
 > Delirium and reversible causes of incapacity → [[D2]] Altered Consciousness & Cognition · Goals of care in chronic respiratory failure → [[A3]] 0.3 · End-of-life and palliative care → [[J5]] · Safeguarding and mandatory reporting of child abuse → [[P3]] · Occupational health certification → [[P1]] · The deteriorating patient and escalation → [[A1]] 0.1
+
+---
+
+# 1 Consent, capacity and reporting merged in (C4, 2026-09-01)
+
+> [!info] **C4 executed.** Consent and capacity was in **three** Clinical Process files. The
+> first half of `Clinical-Process-EBM` and the consent/goals-of-care sections of
+> `Communication` are reproduced here verbatim. **The second half of `Clinical-Process-EBM`
+> is research literacy and went to `[[PH1_Population_Health_and_Research_Literacy]]` under C5.**
+>
+> **MANDATORY REPORTING IS NOT NOTIFIABLE DISEASES.** They are different legal duties.
+> Mandatory reporting — a duty about *people at risk and about colleagues* — is resolved here
+> across three sources. **Notifiable diseases** — a public-health duty about *organisms* —
+> stays in `[[Infectious Disease_merged]]` and is marked at both ends so the distinction is
+> visible rather than assumed.
+
+<!-- ===== SOURCE: Clinical-Process-EBM-Consent-Capacity.md ===== -->
+*Moved here from `Clinical-Process-EBM-Consent-Capacity.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## General principles of informed consent
+
+For consent to be valid, it must be:
+- **Voluntary** — given freely, without coercion from family, staff, or circumstances (e.g. a patient agreeing only because they feel pressured by time constraints or a persuasive clinician is not genuinely voluntary).
+- **Informed** — the patient has been given an adequate explanation of the nature of the proposed treatment, its material risks and benefits, and reasonable alternatives (including the alternative of no treatment) in a way they can understand — "material" risk is judged from what a reasonable patient in this specific patient's position would want to know, not a fixed checklist of risks to recite regardless of relevance.
+- **Given by someone with capacity** for the specific decision at hand — see the capacity framework below.
+
+**Consent can be verbal, written, or implied** (e.g. a patient holding out their arm for a blood test) — written consent is not legally required for every intervention, but is standard practice for higher-risk procedures/interventions specifically because it provides clear documentation that the discussion occurred, not because verbal consent is legally insufficient for lower-risk interventions.
+
+## Capacity assessment — the general framework
+`CF-PAIR §0.1` **Part 0 §0.1 Capacity Assessment covers the same ground. Both kept in full, NOT reconciled.**
+
+Capacity is **decision-specific and time-specific** — a patient can lack capacity for one decision (e.g. complex financial planning) while retaining it for another (e.g. consenting to a simple blood test), and capacity can fluctuate over time (e.g. with delirium, intoxication, or a fluctuating psychiatric or neurological condition) — a capacity assessment is only valid for the specific decision and point in time it was made, not a blanket, permanent determination. **Adults are presumed to have capacity unless demonstrated otherwise** — the burden is on showing incapacity, not on the patient proving they have capacity.
+
+The widely-used four-part test for capacity to make a specific decision — can the patient:
+1. **Understand** the relevant information about the decision (the nature of the treatment, risks, benefits, alternatives).
+2. **Retain** that information for long enough to make the decision (doesn't need to be permanent retention — retaining it through the decision-making conversation is sufficient).
+3. **Weigh/use** the information as part of the decision-making process (genuinely engaging with and balancing the information, not simply repeating it back).
+4. **Communicate** their decision (by any means — verbal, written, or other communication method; a patient who cannot speak but can communicate via other means, e.g. writing or assistive technology, is not automatically deemed to lack capacity on that basis alone).
+
+**A patient can lack capacity for reasons unrelated to a formal psychiatric or cognitive diagnosis** (e.g. severe pain, acute intoxication, delirium, or extreme fear/distress can all transiently impair capacity) and, conversely, **having a diagnosis (dementia, intellectual disability, mental illness) does not automatically mean a patient lacks capacity** — the assessment is always decision-specific, not diagnosis-based.
+
+> [!tip] A patient making a decision the treating team disagrees with, or that seems unwise, is **not** in itself evidence of incapacity — a capacitous adult has the right to make decisions others consider unwise, and this must be respected (see Right to refuse treatment below). The capacity test is about the *process* of decision-making (understanding, retaining, weighing, communicating), not the *outcome* of the decision.
+
+## Consent to Medical Treatment and Palliative Care Act 1995 (SA)
+
+> [!info] Verified against the Consent to Medical Treatment and Palliative Care Act 1995 (SA) and SA Law Handbook, Aug 2026 — the current, in-force South Australian legislation governing this area.
+
+- **Age of consent:** people **16 years and over** with decision-making capacity have the legal right to consent to or refuse their own medical treatment in South Australia — a specific statutory age threshold, distinct from the general age of majority (18).
+- **Two-step nature of valid consent under the Act:** (1) legal competence to consent (age + capacity) is established by the Act itself, but (2) whether a specific instance of consent was actually adequately informed remains a separate question of fact — the Act gives the *legal capacity* to consent, it doesn't by itself guarantee any particular consent conversation met the informed-consent standard above; inadequate or incorrect information given to a patient can still amount to a failure of the consent process even where the patient had the legal capacity to consent.
+- **Emergency treatment (s13):** treatment can lawfully be given without consent where the patient is incapable of consenting, a medical practitioner considers the treatment necessary to meet an imminent risk to life or health (supported by a second practitioner's written opinion where practicable), the patient hasn't previously refused the treatment, and reasonable inquiry has been made about any advance care directive — this is the legal basis for treating an unconscious or otherwise incapacitated patient in a genuine emergency without first obtaining consent.
+- **Impaired decision-making capacity (Part 2A):** where a patient lacks capacity for a specific treatment decision, a "person responsible" (a substitute decision-maker, following a defined hierarchy — see [[Communication]] Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation) for the related Advance Care Directives Act 2013 substitute-decision-maker framework, not repeated here, given the two Acts interact) may make the decision on the patient's behalf in defined circumstances.
+- **Disputes:** the Office of the Public Advocate and the South Australian Civil and Administrative Tribunal (SACAT) are the mechanisms for resolving disagreements about a patient's capacity, a substitute decision-maker's decisions, or end-of-life treatment decisions — genuinely relevant if the clinical team and a substitute decision-maker (or family) cannot reach agreement.
+
+## Right to refuse treatment
+
+A capacitous adult has the right to refuse any treatment, **even where the refusal will result in serious harm or death**, and even where the treating team disagrees with the decision — this must be respected, not talked around or overridden. This applies regardless of how the decision appears to others (see the Jehovah's Witness blood transfusion scenario in [[Communication]] Consent for Blood Transfusion for a worked example of this principle in practice, not repeated here). Document the refusal, the capacity assessment supporting it, and the information given clearly.
+
+**Advance refusals** (given while the patient had capacity, for a future time when they may lack it) are given effect via an Advance Care Directive under SA's Advance Care Directives Act 2013 — see [[Communication]] Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation) for the fuller detail on this Act, not repeated here; a valid, applicable binding refusal in an Advance Care Directive must be followed even if the patient has since lost the capacity to reaffirm it.
+
+## Consent and children
+
+- In SA, a person **16 years or older with capacity can consent to their own treatment** under the Act, without requiring parental consent, per the age threshold above.
+- For children under 16, **Gillick competence** (a common law concept, not specific to SA legislation) is the relevant test — a child can consent to their own treatment if they demonstrate sufficient maturity and understanding to fully appreciate the nature, purpose, and implications of the proposed treatment, judged on the specific decision and the specific child rather than a fixed age — a genuinely mature 14-year-old may be Gillick competent for a straightforward decision while a less mature 15-year-old may not be, and the same child may be competent for a simple decision but not a complex/high-risk one.
+- Parental consent is otherwise required for a child's treatment, with the same general emergency-treatment principles above applying if urgent treatment is needed and a parent/guardian isn't immediately available.
+- Disagreement between parents, or between a Gillick-competent minor and their parents, over a child's treatment can require escalation (senior clinician input, ethics consultation, or ultimately court involvement in genuinely contested or high-stakes cases) — genuinely complex territory beyond the scope of a single consultation, not detailed further here.
+
+## Documenting in the Medical Notes
+`CF-PAIR` **`[[EBM1_Evidence_and_Clinical_Process]] §0.4 Documentation` covers the same topic and stays there as the process owner. Both kept in full.**
+
+> [!note] Gap-filled from CSV ("Documenting in the medical notes," Medium yield). Genuinely absent as a topic: documentation is *instructed* in a dozen entries across the project ("document the refusal", "document the discussion", "document thoroughly and objectively" in the safeguarding entries) with **no entry saying what good documentation actually consists of**. Placed here rather than [[Communication]] because the record is a legal and professional-standards obligation rather than a consultation skill. Verified against Ahpra's *Good medical practice: a code of conduct for doctors in Australia* and its health-records guidance, RACGP practice standards on the content of patient health records, and the ACSQHC Communicating for Safety Standard, Aug 2026.
+
+**Why an intern should take this seriously beyond being told to:** the record is simultaneously a **clinical handover tool**, a **medicolegal document**, and the **evidence of your reasoning**. Those three purposes rarely conflict, but they set the standard: notes are written for the next clinician who has never met this patient, and read later by people reconstructing what was known at the time.
+
+> [!danger] **The one rule that matters most: "if it isn't documented, it didn't happen" is not a slogan — it is how a record is read in retrospect.** Where a coroner, tribunal or complaints body reviews care, an undocumented conversation or examination is functionally indistinguishable from one that never occurred. This applies most sharply to the things easiest to omit: the risk you considered and excluded, the advice you gave, the refusal the patient made, and the safety-netting you provided.
+
+**What a note must contain:**
+- **Date, time, and your identity** — name, role, and legible signature or electronic identity. In a paper record, print your surname; an illegible signature identifies nobody.
+- **What you were told, what you found, what you thought, and what you did.** The *thought* is the part most often missing: an assessment with no impression records data without reasoning.
+- **Your reasoning where a decision was finely balanced** — including **the differential you considered and excluded, and why.** This is the single highest-value thing an intern can add, because it is what demonstrates a decision was reasonable even if the outcome was poor.
+- **Advice given and safety-netting** — what you told the patient to look out for and what to do about it.
+- **Who else was involved** — who you escalated to, when, and what they said.
+
+**How it must be written:**
+- **Contemporaneously**, at the time or as soon as practicable afterwards. Accuracy degrades quickly, and a note written days later is worth far less.
+- **Legibly and understandably by another practitioner** — this is an explicit standard, not a courtesy. Avoid non-standard abbreviations.
+- **Factually and objectively**, distinguishing what you observed from what you inferred. Record the patient's own words in quotation marks where they matter — as required in the safeguarding entries (see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Non-accidental injury (NAI) and [[Communication]] Domestic and Family Violence — Identification and Initial Response, not repeated here).
+- **Without disparaging or gratuitous comment.** Patients can and do access their records. A note describing someone as "difficult" or "drug-seeking" is unprofessional, is discoverable, and prejudices the next clinician's assessment before they have seen the patient.
+
+> [!warning] **Never alter a record to make it read better after the fact.** If something needs correcting, make a **new, dated, timed entry** identifying the correction, or use the electronic record's amendment function which preserves the original. Do not overwrite, delete, backdate, or obscure. **An honest error in a record is a small problem; an altered record is a very large one** — it is the alteration rather than the original mistake that ends careers, because it destroys the credibility of everything else in the file.
+
+**Australian specifics worth knowing:**
+- **Retention:** generally **at least 7 years from the last entry** for an adult, and for a child **until they turn 25**. State legislation varies — check locally.
+- **Patients have a right of access** to their own records, under privacy legislation.
+- **Your correspondence with your medical defence organisation or lawyers is not part of the health record** and should be kept separate from the clinical file — as should the administrative file on a complaint.
+- **Security and confidentiality** of the record are your responsibility, including not leaving records or screens accessible and not accessing records you have no clinical reason to open.
+
+> [!tip] The practical test when deciding whether something is worth writing down: **would the next person to read this, at 3am, with no other information, be able to understand what was going on and what to do?** If not, the note is incomplete regardless of its length — and length is not the measure. A short note containing an impression and a plan is more useful than a long one containing neither.
+
+---
+
+## Mandatory Reporting — the Overarching Duty
+`CF-PAIR` **THREE SOURCES, and one thing it is NOT. Also at `§0.5 Professional Practice Concern` in this file and `[[Safeguarding]] §0.1 The Safeguarding Mindset and Mandatory Reporting`. **This is a duty about people and colleagues. `[[Infectious Disease_merged]] ## Notifiable Diseases` is a DIFFERENT duty, about organisms — do not conflate them.** All kept in full.
+
+> [!note] Gap-filled from CSV ("Mandatory reporting (Overall Skill)," Medium yield). **Partially present, in a specific and misleading way:** the project carried four *condition-specific* instances — child abuse, elder abuse, family violence, notifiable diseases — with **no entry connecting them**, and **zero corpus-wide hits for Ahpra or notifiable conduct**, meaning the duty to report an unsafe *colleague* was absent entirely. Built here rather than in [[Communication]] because this is a legal duty rather than a consultation skill. Verified against Ahpra's guidelines on mandatory notifications about registered health practitioners and Avant's guidance for Australian practitioners, Aug 2026.
+
+> [!danger] **There is no single "mandatory reporting" duty in Australia. There are several separate ones, with different triggers, different thresholds and different recipients — and the commonest error is assuming a duty you have met in one context transfers to another.** This project has already documented one such error directly: doctors *are* mandatory reporters for child abuse, and there is **no general statutory duty to report elder abuse** (see [[18_Geriatrics_and_Older_Persons_Health]] Abuse of Older People (Elder Abuse) and Carer Stress). Carrying the child-protection intuition across is a recognised mistake in both directions.
+
+### The duties, and what actually triggers each
+
+| Duty | Trigger | Report to | Where it is built |
+|---|---|---|---|
+| **Child protection** | Reasonable suspicion of child abuse or neglect. Doctors **are** mandated reporters; failing to report can itself be an offence | State child protection department (± police) | [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Non-accidental injury (NAI) and Sexual abuse |
+| **Notifiable diseases** | Diagnosis or suspicion of a listed condition | State/territory health department, feeding the national system | [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia) |
+| **Notifiable conduct (Ahpra)** | Reasonable belief a registered practitioner has engaged in one of four defined behaviours — see below | Ahpra | *this entry* |
+| **Fitness to drive** | A condition affecting safe driving; the duty is to **advise the patient**, who must notify the licensing authority — a reporting *pathway*, not usually a direct practitioner duty | Patient notifies; practitioner may report in defined circumstances | [[01_Cardiovascular]] 0.35.5 Austroads cardiovascular driving rules (private vehicle standards); [[04_Neurology]] Austroads Driving Standards (Neurological Conditions) |
+| **Elder abuse** | **No general statutory duty.** Limited provider obligations in Commonwealth-funded aged care (SIRS) | — | [[18_Geriatrics_and_Older_Persons_Health]] Abuse of Older People (Elder Abuse) and Carer Stress |
+| **Family violence (adult victim)** | **No general duty** for a competent adult; obligations vary by jurisdiction. **Children exposed to it does trigger child protection** | — | [[Communication]] Domestic and Family Violence — Identification and Initial Response |
+
+### Notifiable conduct — reporting a colleague
+
+The half that was entirely missing, and the one an intern is least prepared for. **All registered health practitioners** (not only supervisors) must notify Ahpra on forming a **reasonable belief** that another registered practitioner has engaged in **notifiable conduct**, which is defined as exactly four things:
+
+1. **Practising while intoxicated** by alcohol or drugs.
+2. **Sexual misconduct** in connection with practice.
+3. **Placing the public at risk of substantial harm because of an impairment** — a health condition, including mental illness or substance dependence, that is affecting practice.
+4. **A significant departure from accepted professional standards** placing the public at risk of harm.
+
+> [!info] **Two features of the threshold that matter, because both are commonly misunderstood.**
+> - **"Impairment" alone is not notifiable.** A colleague with a mental illness or a health condition is notifiable only where it is **placing the public at risk of substantial harm**. A doctor receiving treatment and practising safely is not a notification — treating them as one deters help-seeking, which is the harm the threshold is drawn to avoid.
+> - **A treating practitioner faces a higher threshold.** A doctor treating another doctor as a *patient* must notify only where they form a reasonable belief the patient is placing the public at **substantial risk of harm** — deliberately narrower, so that practitioners can seek care without their treating doctor being obliged to report them. Jurisdictional variation exists here; check the applicable provision if you are in this position.
+
+**Protection:** a practitioner who makes a notification **in good faith is protected from civil, criminal and administrative liability**. Good faith, not correctness, is the standard — you are not required to be right.
+
+**What an intern should actually do:** the realistic scenario is noticing something about a colleague, not being certain about it. **Do not sit on it and do not report reflexively.** Discuss it with your supervisor, the Director of Clinical Training, or your medical defence organisation — all of whom can help you work out whether the threshold is met, and none of whom require you to have decided first. Ahpra's own material is written on the assumption that most concerns are resolved without a notification.
+
+> [!tip] The generalisable question, given the duties differ: **for any concern, ask three things — is there a duty here at all, what exactly triggers it, and who does it go to?** The answers are different for a child, an older person, an infectious disease and a colleague, and assuming otherwise is how both over-reporting and under-reporting happen.
+
+---
+
+<!-- ===== SOURCE: Communication.md ===== -->
+*Moved here from `Communication.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 1.1 Consent for Blood Transfusion
+
+> [!note] Gap-filled from CSV ("Consent for blood transfusion," High yield) — a genuinely distinct consent/counselling station, absent despite the disease-level detail already built in [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] (blood products, indications, complications). This entry covers the consent conversation itself; cross-references the disease-level content for clinical detail rather than repeating it.
+
+**Station framework:** standard informed consent principles apply (indication, benefits, risks, alternatives, and the opportunity to ask questions/decline), but this conversation has some genuinely distinctive content given the specific risks and cultural/religious considerations involved.
+
+**Opening approach:**
+- Explain why a transfusion is being recommended in plain language, tied to the patient's actual clinical situation (e.g. "your blood count is low enough that it's affecting how you feel, and a transfusion should help").
+- Establish the patient's baseline understanding and any prior transfusion experience or concerns before launching into a standard explanation.
+
+**Key content/checkpoints to cover (checklist):**
+- [ ] **What the product is and where it comes from** — donated blood, screened and processed per Australian Red Cross Lifeblood standards; explain the specific product being given (packed red cells, platelets, FFP — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Blood products for the disease-level detail on each, not repeated here) if relevant to the patient's understanding.
+- [ ] **Benefits** — specific to the indication (e.g. symptom relief from anaemia, correction of active bleeding/coagulopathy).
+- [ ] **Risks** — in proportionate, honest terms rather than either minimising or catastrophising: common/minor reactions (febrile non-haemolytic reactions, minor allergic reactions — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Blood product transfusion complications for the full list and relative frequencies, not repeated here) are relatively common and manageable; serious reactions (haemolytic reactions, TRALI, TACO, anaphylaxis) are rare but should still be mentioned given the consent needs to be genuinely informed; infection transmission risk is now extremely low given current screening standards, worth stating explicitly given this is a common patient concern even though it's a comparatively minor modern risk.
+- [ ] **Alternatives** — explain what the alternatives actually are (watchful waiting if clinically appropriate, iron/erythropoiesis-stimulating agents for some anaemias, cell salvage in surgical contexts) and why transfusion is being recommended over them in this specific situation, rather than presenting transfusion as the only option without explanation.
+- [ ] **Process** — what the patient can expect practically (monitoring during the transfusion, approximate duration, what to report if they feel unwell during the infusion).
+- [ ] **The right to decline** — patients have the right to refuse blood products, and this must be explored respectfully and without pressure, particularly relevant for patients with religious objections (see the Jehovah's Witness point below) — refusal doesn't end the conversation, but shifts it to discussing alternatives and the implications of declining.
+
+**Jehovah's Witness patients — a genuinely important, specific scenario:**
+- Many Jehovah's Witnesses decline blood transfusion on religious grounds, though the specific position can vary between individuals — **never assume a blanket refusal without asking the individual patient directly**, since some accept certain fractionated products (e.g. albumin, clotting factor concentrates) while declining whole blood/red cells/plasma/platelets — this is genuinely individual and must be explored rather than assumed from the patient's stated faith alone.
+- Cell saver devices (see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Cell saver devices) may be an acceptable alternative to some Jehovah's Witness patients specifically, given blood remains connected to the patient's own circulation throughout — worth raising as an option where clinically relevant.
+- A capacitous adult's informed refusal of blood products must be respected, even where the clinical team disagrees with the decision or where it carries serious risk — this is a genuine test of respecting patient autonomy, not a scenario to be talked around; document the discussion and decision clearly.
+- For a child of Jehovah's Witness parents needing a transfusion, this becomes a different and more complex situation (parental refusal on behalf of a minor is not equivalent to informed adult self-determination) — genuinely difficult and involves urgent senior/legal input rather than a simple parallel to the adult scenario; not detailed further here given the complexity, but worth flagging as a materially different situation if it comes up.
+
+**Useful phrases/scripts:**
+- Introducing risk without alarming: "Transfusions are generally very safe, but like any medical treatment there are some risks I want to make sure you understand."
+- Exploring religious/personal objection respectfully: "Some people have personal or religious reasons for not wanting blood products — is that something that's relevant for you?" (open, non-assuming phrasing)
+- Confirming genuine understanding, not just passive agreement: "Can you tell me in your own words what we've talked about, so I can check I've explained it clearly?"
+
+**Closing:** confirm the patient's decision (consent or informed refusal), document the discussion, arrange the transfusion (or discuss alternatives if declined), safety-net for any symptoms during/after the transfusion that should prompt them to alert staff.
+
+**Common pitfalls / what OSCE mark schemes typically penalise:**
+- Presenting transfusion as the only option without genuinely discussing alternatives
+- Minimising or omitting risks to make the conversation easier, undermining genuinely informed consent
+- Assuming a Jehovah's Witness patient's position on blood products rather than asking directly, or assuming it's an all-or-nothing refusal
+- Not exploring the patient's own concerns/questions before moving on
+- Failing to check genuine understanding, mistaking passive nodding for informed consent
+
+---
+
+## 1.3 Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation)
+
+**Station framework:** no single universal mnemonic, but SPIKES (Setting, Perception, Invitation, Knowledge, Empathy, Summarise) is commonly adapted for this conversation, alongside general shared decision-making principles.
+
+**Opening approach:**
+- Ensure privacy, adequate time, minimise interruptions; involve family/substitute decision-maker if the patient wishes.
+- Assess the patient's (or substitute decision-maker's) current understanding of their condition and prognosis before introducing the topic ("What have the other doctors told you about how things are going?").
+- Explain the purpose of the conversation clearly and gently — this is about future care planning, not abandoning current treatment.
+
+**Key content/checkpoints to cover (checklist):**
+- [ ] Explain what CPR actually involves (chest compressions, defibrillation, intubation) — many patients have inaccurate expectations, often from media portrayal
+- [ ] Explain realistic outcomes of CPR in this specific clinical context (survival rates in the frail/multimorbid/terminally unwell are much lower than commonly assumed) — be honest but compassionate
+- [ ] Clarify that a DNACPR decision applies specifically to CPR and does **not** mean withdrawal of other active treatment (pain relief, antibiotics, other supportive care continue as clinically appropriate) — this is the most common misconception and needs explicit correction
+- [ ] Explore the patient's own values, goals of care, and what quality of life means to them
+- [ ] Establish who has decision-making authority if the patient lacks capacity (substitute decision-maker per SA's Advance Care Directives Act 2013 framework — confirm the applicable state legislation if outside SA) — see [[Clinical-Process-EBM-Consent-Capacity]] for full capacity/substitute-decision-maker detail
+- [ ] Document the outcome clearly and ensure it is communicated to the wider care team
+
+**Useful phrases/scripts:**
+- Naming emotion: "I can see this is difficult to hear/talk about."
+- Checking understanding: "Can you tell me in your own words what we've just discussed?"
+- Handling distress/anger: pause, acknowledge the emotion explicitly, don't rush to fill silence, avoid becoming defensive.
+- Reframing away from "giving up": "This isn't about doing less for you — it's about making sure the care you receive matches what matters most to you."
+
+**Closing:** summarise the decision reached (or that more time/a further conversation is needed — this is a legitimate outcome, not a failure), safety-net (explain the decision can be revisited), arrange follow-up, offer written information if available.
+
+**Common pitfalls / what OSCE mark schemes typically penalise:**
+- Leading with medical jargon ("code status," "CPR") before establishing the patient's understanding
+- Implying CPR is being "withheld" rather than framing it as a clinical judgement about likely benefit vs harm
+- Not exploring the patient's own values/goals before presenting a recommendation
+- Rushing the conversation or failing to pause for the patient's emotional reaction
+- Conflating DNACPR with broader treatment withdrawal
+- Failing to clarify decision-making authority when the patient lacks capacity
+
+---
+
+## 1.4 Goals of Care and Ceiling of Care (Treatment Escalation Planning)
+
+> [!note] Gap-filled from CSV ("Long-term care planning (e.g. advanced directives, ceiling of care)," High yield, Older Persons Health / Geriatrics category). The DNACPR conversation above and the Advance Care Directives Act 2013 (SA) legal framework in [[Clinical-Process-EBM-Consent-Capacity]] Right to refuse treatment were both already built and are not repeated here — but **"ceiling of care" as a named concept, distinct from a resuscitation decision, existed nowhere in the corpus**. Verified against the Australian Commission on Safety and Quality in Health Care's goals-of-care and Comprehensive Care Standard guidance and Advance Care Planning Australia, Aug 2026.
+
+**The distinction this entry exists to make:** a DNACPR order answers exactly one question — what happens at cardiac arrest. A **ceiling of care** (treatment escalation plan) answers a much more frequently relevant one: **how far do we escalate for the deterioration that stops short of arrest?** The two are separate decisions, and conflating them causes harm in both directions.
+
+- A patient can be **not for CPR but fully for everything else** — antibiotics, IV fluids, non-invasive ventilation, even ICU admission. This is a common and entirely coherent position, and treating a DNACPR order as though it meant "ward-based comfort care" is a well-recognised failure.
+- A patient can be **for CPR in principle but not for ICU or intubation**, where the underlying reserve makes prolonged organ support futile.
+
+> [!info] The escalation ladder to think in, so the plan is specific rather than a vague "not for escalation":
+> **Ward-based care** (oral/IV antibiotics, IV fluids, oxygen) → **ward-based non-invasive support** (NIV/CPAP, high-flow oxygen) → **ICU-level organ support** (intubation and ventilation, vasopressors, renal replacement) → **CPR**.
+> A useful plan names **where on this ladder the ceiling sits**, and what *is* being done below it — not merely what is being withheld.
+
+**Getting the documents straight**, because they are routinely confused and an intern is expected to know which is which in Australia:
+- **Advance Care Directive** — made by the *patient* while they have capacity, recording their values, what outcomes they would find unacceptable, and any binding refusals of treatment. Legally binding as a refusal (see [[Clinical-Process-EBM-Consent-Capacity]] Right to refuse treatment for its statutory basis, not repeated here). Made in advance, and *not* a medical order.
+- **Goals of care / resuscitation plan** — a *clinical* document completed by the treating team for this admission, recording the agreed goals and the escalation ceiling. It is a medical order and it acts now.
+- **Substitute decision-maker** — the person who decides if the patient loses capacity (see [[Clinical-Process-EBM-Consent-Capacity]] Consent to Medical Treatment and Palliative Care Act 1995 (SA) for the hierarchy).
+
+The relationship: the Advance Care Directive **informs** the goals-of-care document; it does not replace it. A patient with an ACD still needs a current escalation plan written for the admission in front of you.
+
+**Checklist for the conversation** (the communication approach itself is as per Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation) above, not repeated here):
+- [ ] Establish the clinical picture and realistic prognosis first — the ceiling should follow from what treatment can actually achieve, not from age or a frailty score used as a proxy
+- [ ] Ask about an existing Advance Care Directive and about the substitute decision-maker **before** the conversation, not during it
+- [ ] Explore what outcomes the person would find unacceptable, which is usually more informative than asking which treatments they want
+- [ ] State clearly **what will be done**, not only what will not — this is the single most important framing point
+- [ ] Name the ceiling specifically on the ladder above, so the covering team at 3am knows what to do
+- [ ] Document the reasoning, who was present, and the review date — a ceiling of care is **reversible** and should be revisited if the clinical situation changes
+- [ ] Communicate it: the plan is useless if it is not visible to the after-hours team and, on discharge, to the GP and any residential aged care facility
+
+> [!warning] Common errors: writing "not for escalation" without saying what the ceiling actually is; setting a ceiling on the basis of age alone; treating the decision as permanent when the patient's trajectory has changed; and — the most consequential — allowing a DNACPR order to silently become a ceiling on active treatment that nobody ever actually decided. Where the frail patient's overall picture is the reason for the discussion, see [[18_Geriatrics_and_Older_Persons_Health]] Frailty for the reserve assessment that should inform it.
+
+---

@@ -105,6 +105,8 @@ source: built in chat, model knowledge, NOT source-verified
 
 ## 0.4 Documentation
 
+`CF-PAIR` **`Clinical-Process-EBM ## Documenting in the Medical Notes` moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` under C4 and covers the same topic. Both kept in full; this file owns the process.**
+
 > [!tip] What the notes are for
 > **Continuity of care · communication between clinicians · a record of reasoning · a medicolegal document · and a source for audit and quality improvement.**
 > **The first two are the reasons that matter day to day, and they are the ones served by good documentation.** **The medicolegal function follows automatically from doing the first two well — writing "defensively" produces worse notes than writing clearly for the next clinician.**

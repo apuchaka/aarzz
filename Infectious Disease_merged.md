@@ -332,6 +332,9 @@
 
 ## Notifiable Diseases (Australia)
 
+> [!warning] **NOTIFIABLE DISEASES IS NOT MANDATORY REPORTING. Two different legal duties, easily conflated (C4 ruling, 2026-09-01).**
+> **This** is a public-health duty about **organisms** — you notify the health department that a case exists. **Mandatory reporting** is a duty about **people at risk and about colleagues** — child protection, elder abuse, notifiable conduct — and lives in `[[A10_Ethics__Capacity__Consent_and_Certification]]` and `[[Safeguarding]] §0.1`. **This section stays here and was deliberately not merged with them.**
+
 > [!warning] FLAG 2026-09-01 — the same topic appears twice in this file, from two different sources
 > `## Notifiable Diseases in Australia — What "Notifiable" Actually Means` (in `08_09_Infectious_Disease_-_Miscellaneous`)
 > covers the same duty. **Both retained; pair marked, not merged.**
@@ -343,76 +346,9 @@
 > [!info] Verified against the Australian Centre for Disease Control's National Notifiable Diseases Surveillance System (NNDSS) framework, Aug 2026 — Australia's notifiable disease system is structured genuinely differently from the UK's flat list, and the specific disease *list* also differs (some UK-notifiable diseases aren't Australian-notifiable and vice versa). This entry no longer carries the UK list it was originally written against — do not reintroduce one and do not quote a UK list as the Australian standard.
 > The NNDSS coordinates surveillance of **>70 diseases nationally**, organised into **8 categories** rather than one flat list, and reported to the Australian Centre for Disease Control: **bloodborne viral hepatitis** (hepatitis B, C, D), **gastrointestinal diseases** (e.g. campylobacteriosis — the most commonly notified gastrointestinal disease, salmonellosis, shigellosis, listeriosis, typhoid/paratyphoid, botulism, HUS), **other bacterial infections** (e.g. tuberculosis — the most commonly notified in this category, invasive pneumococcal disease, invasive meningococcal disease, legionellosis, leprosy), **quarantinable diseases** (cholera, plague, rabies/lyssaviruses, viral haemorrhagic fevers, yellow fever, smallpox), **sexually transmissible infections** (chlamydia — the most commonly notified STI, gonorrhoea, syphilis, donovanosis, LGV), **vector-borne diseases** (e.g. Ross River virus — the most commonly notified in this category, dengue, malaria, Japanese encephalitis, Murray Valley encephalitis), **vaccine-preventable diseases** (e.g. influenza — currently the most commonly notified VPD, measles, mumps, rubella, pertussis, diphtheria, tetanus, polio; note VPDs like rubella, diphtheria, and tetanus are now rare in Australia given high childhood immunisation rates), and **zoonotic diseases** (e.g. Q fever — the most commonly notified in this category, brucellosis, anthrax, leptospirosis). **HIV and Creutzfeldt-Jakob disease are notifiable but tracked under separate dedicated national surveillance systems**, not the general NNDSS categories above — worth knowing as a specific exception. Individual states/territories also maintain their own notifiable disease lists, which can include additional diseases beyond the national list — so "notifiable" can genuinely vary slightly by jurisdiction within Australia itself, not just between countries. Given the size and periodic revision of the full current list, check the Australian Centre for Disease Control's current National Notifiable Disease List directly for the definitive disease-by-disease list rather than relying on a static reproduction here.
 
-## Vaccination Schedule (Australia — National Immunisation Program)
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Vaccination Schedule (Australia — National Immunisation Program)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!info] Verified against the National Immunisation Program (NIP) Schedule, current from May 2026 (health.gov.au), Aug 2026 — the Australian schedule is structurally quite different from the UK NHS schedule (different vaccine combinations, different ages, and notably a **routine adolescent HPV single dose at age 12–13** and a much more developed **adult/pregnancy/at-risk-group vaccination component** than the UK-sourced note implied). This entry no longer carries that UK schedule — the table that follows is the Australian NIP schedule, and no UK schedule should be quoted as the Australian standard.
-
-| Age | Vaccines |
-|---|---|
-| Birth | Hepatitis B (ideally within 24h, must be within 7 days) |
-| 6 weeks–2 months | Diphtheria/tetanus/pertussis/hep B/polio/Hib (hexavalent), rotavirus (1st dose — must be given by 14 weeks), pneumococcal (Prevenar 20) |
-| 4 months | Diphtheria/tetanus/pertussis/hep B/polio/Hib (hexavalent), rotavirus (2nd dose — must be given by 24 weeks), pneumococcal |
-| 6 months | Diphtheria/tetanus/pertussis/hep B/polio/Hib (hexavalent) |
-| 6 months–<5yo | Influenza — annual, 2 doses ≥4 weeks apart in the first year if <9yo, then annual single dose |
-| 12 months | Meningococcal ACWY, MMR, pneumococcal |
-| 18 months | **Hib** ⚠️ *(see note below)*, MMR + varicella (combined), diphtheria/tetanus/pertussis |
-| 4 years | Diphtheria/tetanus/pertussis/polio |
-| 12–13 years (Year 7) | **HPV — single dose** (Gardasil 9; catch-up available to age 25 if missed), diphtheria/tetanus/pertussis booster |
-| 14–16 years (Year 10) | Meningococcal ACWY booster |
-| Pregnancy | Pertussis (single dose each pregnancy, ideally 20–32 weeks), influenza (any stage, every pregnancy), RSV (single dose, 28–36 weeks) |
-| 65+ (non-Indigenous) | Annual influenza, shingles (2 doses) |
-| 70+ (non-Indigenous) | Pneumococcal |
-| 75+ | RSV |
-| 50+ (Aboriginal and Torres Strait Islander) | Pneumococcal, shingles (2 doses) — **funded from an earlier age than the general population**, reflecting higher risk |
-| 60+ (Aboriginal and Torres Strait Islander) | RSV |
-
-> [!warning] **Hib booster timing is unresolved between this schedule and the one in [[15_24b_Paeds_-_Screening__SIDS__Vaccination_Schedule]].** This table places the Hib booster at **18 months**; that file places it at **12 months**. One is wrong; the NIP schedule could not be reached to settle it (`health.gov.au` egress-blocked). **Correct both files together once checked** — `PENDING_GUIDELINE_CHECKS.md` **B47**. The adolescent meningococcal timing, which also differed, has been resolved in favour of this table (14–16 years / Year 10).
-
-> [!note] A genuinely important, distinctive feature of the Australian schedule: several vaccines are funded **from a younger age specifically for Aboriginal and Torres Strait Islander people** (e.g. pneumococcal and shingles from 50, RSV from 60, versus 70/65/75 respectively for the general population) — reflecting a specific, deliberate equity-focused design feature of the NIP, not present in the UK schedule and worth knowing as a distinctly Australian element in its own right. Additional NIP-funded vaccines exist for people with specified medical risk conditions (e.g. asplenia, immunocompromise) at various ages — not reproduced in full here given the complexity; refer to the Australian Immunisation Handbook for the complete risk-condition-specific schedule. State/territory health departments may also fund additional vaccines beyond the national list.
-
-### Influenza vaccination
-
-> [!info] Verified against the current NIP Schedule and ATAGI seasonal influenza advice, Aug 2026 — the structure differs from the UK note in some specifics.
-> **Children:** injectable inactivated vaccine (not the UK's intranasal live vaccine, which is not the Australian standard product) — 2 doses ≥4 weeks apart in the first year of vaccination if aged 6 months to <9 years, then annual single dose thereafter.
-> **Adults & at-risk groups:** annual injectable vaccine, funded under the NIP for: all people ≥65yo (non-Indigenous) or Aboriginal/Torres Strait Islander people of any age with the vaccine recommended more broadly for this group; pregnant women (any stage, every pregnancy); people ≥6 months with specified medical risk conditions (chronic respiratory, cardiac, renal, liver, or neurological disease, diabetes, immunosuppression, asplenia/hyposplenia, BMI ≥40). This is broadly consistent in spirit with the UK-sourced note's risk-group list, though the exact funding/eligibility mechanism (NIP-funded vs privately purchased outside these groups) is Australia-specific.
-
-*(see also Sore throat 13.05)*
-
----
-
-## Passive Immunisation — Immunoglobulin After an Exposure
-
-> [!note] Gap-filled during the abbreviation triage that followed the `undefined_terms.py` run (2026-08-29), and it is the **eighth instance of the conflation pattern**. Six different immunoglobulin products are *prescribed* across this corpus — **VZIG** (10×, in [[09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa]], [[15_03a_Paeds_-_Childhood_Viral_Exanthems]] and [[16_06-07_Ante-Perinatal_Infections]]), **anti-D/Rh D immunoglobulin** (20×, in [[16_01-05_Antenatal_Care]]), plus tetanus, rabies and normal immunoglobulin — each with its own dose and its own time window. **Nothing anywhere said what class of thing they are.** Corpus-wide search returned **zero hits** for *passive immunisation*, *active immunisation* as a concept, or *preformed antibody*. Placed here because this file already owns the Vaccination Schedule, and passive immunisation is only comprehensible next to the active immunisation it is not.
-
-**The distinction, and everything else follows from it.**
-
-| | **Active** immunisation (vaccination) | **Passive** immunisation (immunoglobulin) |
-|---|---|---|
-| What is given | An antigen — the immune system is asked to respond | **Preformed antibody**, made by someone else (pooled human plasma) or in a lab |
-| Onset | **Slow** — days to weeks while the response develops | **Immediate** — the antibody is already there |
-| Duration | **Long**, often lifelong; immune memory is created | **Temporary** — no memory is created; the antibody decays with a half-life of roughly 3–4 weeks |
-| Used for | Preventing future exposure | **An exposure that has already happened**, in someone who cannot mount their own response in time |
-
-> [!danger] **The three practical consequences an intern actually needs, each of which follows from "the antibody is already there and nobody is making more".**
-> 1. **It is time-critical, and the windows are short.** There is no point giving antibody after the pathogen has established. This is the reason every immunoglobulin in this corpus carries a deadline — **VZIG within 10 days of exposure** (see the varicella entries cross-referenced above), **anti-D within 72 hours** of a sensitising event or delivery (see [[16_01-05_Antenatal_Care]]), tetanus and rabies immunoglobulin **at presentation**, with the wound. Recognising that an exposure needs immunoglobulin is useless a week late; **treat the referral or the order as urgent, not routine.**
-> 2. **It protects, it does not immunise.** The patient is not covered against the next exposure, and their antibody test afterwards reflects the product, not their own immunity. Where a vaccine also exists, the person still needs it — for tetanus and rabies, immunoglobulin and vaccine are given **together, at different sites**, precisely because one covers now and the other covers later.
-> 3. **It blunts live vaccines.** Circulating antibody neutralises a live vaccine virus before it can replicate, so **MMR and varicella vaccines are deferred for months after immunoglobulin**, and immunoglobulin given shortly after a live vaccine can undo it. Check the current interval in the Australian Immunisation Handbook rather than from memory — it varies by product and dose.
-
-> [!info] **Immunoglobulin has three distinct uses, and this entry covers one of them.** Added after a propagation sweep found the other two being prescribed elsewhere in the corpus with nothing connecting them.
-> 1. **Passive protection** — everything in this entry. Targeted antibody, given after an exposure, working directly, time-critical.
-> 2. **Immunomodulation** — **high-dose IVIG** in Guillain-Barré, CIDP, myasthenic crisis, ITP and Kawasaki disease. The point is not what the antibodies bind; it is that a large load of pooled immunoglobulin dampens the patient's own autoimmune attack. Larger dose, autoimmune indication, no window (see [[04_Neurology]] Guillain-Barré Syndrome (GBS)).
-> 3. **Replacement** — in **primary immunodeficiency**, where the patient cannot make antibody at all, so it is supplied indefinitely rather than for one exposure or one flare (see [[10_03a_Haemonc_-_Primary_Immunodeficiencies]]).
->
-> **All three are the same class of product and none of the three reasoning applies to the others** — which is why "give immunoglobulin" is never a complete instruction without saying which of the three you mean.
-
-> [!info] **Why the products are specific rather than interchangeable.** *Normal* (pooled) immunoglobulin contains whatever antibodies the donor population happens to have. **Hyperimmune** preparations — VZIG, anti-D, tetanus and rabies immunoglobulin — are made from donors with high titres against that one target, which is why a patient needing varicella cover cannot be given a different immunoglobulin instead. They are **blood products**, so they carry the consent, documentation and traceability requirements of any blood product (see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]]).
-
-> [!info] **Anti-D is the one that does something different, and it is worth seeing why it is still passive immunisation.** It is not given to protect the mother from an infection — it is given to **destroy fetal red cells in her circulation before her own immune system sees them and forms anti-D**. The mechanism is the same (preformed antibody, acting immediately, then gone); the purpose is preventing *sensitisation* rather than preventing infection. The 72-hour window exists for the same reason all the others do — after that, her own response has begun and there is nothing left to pre-empt.
-
-> [!info] **Equity, stated as a mechanism rather than a figure (Step 10).** Immunoglobulins are **cold-chain blood products with short deadlines**, and those two properties interact badly with distance. A 72-hour or 10-day window is straightforward to meet where the product is on the shelf; it is a genuine logistical problem where the nearest stock is a transfer away, and the clock runs from the exposure, not from presentation. The practical instruction, which generalises beyond this entry: **when a treatment is time-limited and not held locally, the time-critical step is starting the process of getting it, not completing the assessment first.** No disparity figure is asserted here — the supply and cold-chain constraint is the mechanism, and it has not been verified against an Australian source (see `PENDING_GUIDELINE_CHECKS.md` B36).
-
-**Cross-reference:** Vaccination Schedule (Australia — National Immunisation Program) above in this file for the active-immunisation counterpart; [[16_01-05_Antenatal_Care]] for anti-D dosing and the sensitising events that trigger it; [[09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa]] and [[16_06-07_Ante-Perinatal_Infections]] for VZIG in varicella exposure and in pregnancy.
-
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Passive Immunisation — Immunoglobulin After an Exposure` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 08_04_Infectious_Disease_-_Antibiogram.md ===== -->
 

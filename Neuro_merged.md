@@ -1737,6 +1737,8 @@ Primary injuries divided into focal or diffuse.
 
 ### Austroads Driving Standards (Neurological Conditions)
 
+> [!note] **`[[Preventive-Health]] §0.6 Occupational Health, Certification and Driving` is the AUSTROADS HOME (C7, 2026-09-01).** This section is the condition-specific rule set and stays here, where a reader meets the disease. The general standard, the private-versus-commercial distinction and the reporting obligation are there, not repeated here.
+
 > [!warning] FLAG 2026-09-01 — one of four Austroads homes
 > `Cardio_merged §0.35.5` · `Endocrine and metabolics_merged §0.15.8` · `Preventive-Health.md §0.6`.
 > **`Clinical-Process-EBM-Consent-Capacity.md:102` points at two of them from a single table row**, and

@@ -209,3 +209,22 @@ source: built in chat, model knowledge, NOT source-verified
 
 > [!note] Cross-references
 > Anticoagulants, antiplatelets and reversal → [[A9]] 0.4 and [[J3]] 0.5 · Antipsychotics and clozapine → [[N3]] 0.4–0.6 · Antidepressants, lithium and mood stabilisers → [[N4]] 0.3, 0.5 · Antiepileptics, valproate and enzyme induction → [[D6]] 0.3 · Insulin, metformin and SGLT2 inhibitors → [[I2]] and [[AN1]] 0.3 · Corticosteroids, stress dosing and adrenal suppression → [[I4]] 0.3 · Antimicrobial choice and stewardship → [[K1]]–[[K3]] · Drug allergy, delabelling and anaphylaxis → [[K4]] 0.1, 0.3 · Severe cutaneous adverse reactions → [[G1]] 0.3 · Opioid stewardship and neuropathic agents → [[F0.4]] 0.8–0.9 and [[J5]] 0.5 · Toxidromes and overdose → [[F0.1]] and [[A5]] · Serotonin toxicity, NMS and malignant hyperthermia → [[A6]] 0.3 · QT prolongation → [[B3]] 0.3 · Nephrotoxic drugs and the triple whammy → [[H3]] 0.2, 0.5 · Deprescribing and polypharmacy → [[GER1]] 0.4 · Prescribing in pregnancy → [[O2]] 0.6 · Perioperative medication management → [[AN1]] 0.3 · Medication reconciliation and discharge summaries → [[EBM1]] 0.5 · Paediatric dosing → [[M1]] 0.3
+
+> [!info] **AXIS-1 ruled 2026-09-01: the drug files STAY DISTRIBUTED inside their system files, and this file stays as their crosswalk addendum.**
+> **Where it sits conceptually:** `GER6` is the **crosswalk for the `NEW_Drugs_01`–`21` set**, which
+> is stored across the system files rather than gathered. 20 of the 21 were already inside system
+> files; the 21st (`NEW_Drugs_21_Miscellaneous`) was placed in
+> `[[Endocrine and metabolics_merged]]` under C8, so **the set is now complete and uniformly stored.**
+>
+> **This file is not moved**, because it belongs to no single system — it is the index across them.
+> It has **0 inbound wikilinks**, so nothing depends on its location.
+>
+> **The reasoning behind AXIS-1, recorded here because this is the file it governs:** the drug set
+> was already coherent *as a set* and incoherent only in *where it was stored*. Relocating 21 files
+> to make the set addressable would optimise for a reading order nobody uses — the corpus is studied
+> by system, and the drug is met where the disease is met.
+>
+> **One anomaly fixed at the same time:** `NEW_Drugs_07_Blood_and_Electrolytes` was byte-identical in
+> two merged files. The `[[Heme Onc_merged]]` copy was kept (3 of its 4 sections are haematological);
+> `[[Endocrine and metabolics_merged]]` now carries a pointer.
+

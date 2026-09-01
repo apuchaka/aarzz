@@ -129,6 +129,17 @@ source: built in chat, model knowledge, NOT source-verified
 
 ## 0.4 Conditions With Disproportionate Burden
 
+> [!info] **C9 ruled 2026-09-01: `AU1` STANDALONE, and the equity blocks are FLAGGED AS A SET, NOT CONSOLIDATED.**
+> This section is the hub. The blocks it indexes **stay in their disease entries**, because the whole
+> point of each is that it sits where a reader meets the disease:
+> - `[[Resp_merged]] §0.4 Lung Cancers`
+> - `[[Neuro_merged]] ## Strokes`
+> - `[[Heme Onc_merged]] 10_11a ## Cancer Outcomes in ATSI Australians` (`H-18`)
+> - `[[Cardio_merged]] §0.23 Rheumatic Heart Disease`
+>
+> **They are a deliberate pattern, not duplicates.** Consolidating them into this file would destroy
+> what makes the pattern work — a reader looking up RHD would have to already know to come here.
+
 > [!danger] Acute rheumatic fever and rheumatic heart disease
 > **Australia has among the highest reported rates of ARF and RHD in the world among Aboriginal and Torres Strait Islander people in remote communities** — a condition essentially eliminated in most high-income settings.
 > **The chain is: crowded housing and limited access to washing facilities → GROUP A STREPTOCOCCAL SKIN AND THROAT INFECTION → ARF → RHD → heart failure, stroke, endocarditis, pregnancy complications and premature death.**

@@ -11,6 +11,8 @@ source: built in chat, model knowledge, NOT source-verified
 
 ## 0.1 Study Design
 
+`CF-PAIR` **`Clinical-Process-EBM ## Study Design and Bias` arrived in Part 1 and was NOT merged into this section.**
+
 > [!tip] The hierarchy — with the caveat that matters
 > **Systematic review and meta-analysis of RCTs > randomised controlled trial > cohort study > case-control study > cross-sectional study > case series and case report > expert opinion.**
 > **THE CAVEAT: a well-conducted cohort study is better evidence than a poorly conducted RCT.** **Design determines the CEILING of evidence quality; CONDUCT determines whether it gets there.** The hierarchy is about study type, not about any individual study.
@@ -106,6 +108,8 @@ source: built in chat, model knowledge, NOT source-verified
 
 ## 0.3 Diagnostic Test Statistics
 
+`CF-PAIR` **`Clinical-Process-EBM ## Diagnostic Test Characteristics` arrived in Part 1 and was NOT merged into this section.**
+
 > [!tip] Draw the 2×2 table every single time
 > |  | **Disease PRESENT** | **Disease ABSENT** |
 > |---|---|---|
@@ -150,6 +154,8 @@ source: built in chat, model knowledge, NOT source-verified
 ---
 
 ## 0.4 Measures of Effect
+
+`CF-PAIR` **`Clinical-Process-EBM ## Interpreting Treatment Effects` arrived in Part 1 and was NOT merged into this section.**
 
 > [!info] The measures, and where each comes from
 > **· RELATIVE RISK (risk ratio) = risk in exposed / risk in unexposed.** From cohort studies and RCTs.
@@ -201,92 +207,195 @@ source: built in chat, model knowledge, NOT source-verified
 
 ---
 
-## 0.5 Screening
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `0.5 Screening` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!info] The Wilson and Jungner criteria — grouped by what they concern
-> **THE CONDITION: an important health problem · a recognisable LATENT or early symptomatic stage · a natural history that is adequately understood.**
-> **THE TEST: suitable, ACCEPTABLE to the population, sufficiently sensitive and specific, safe.**
-> **THE TREATMENT: an ACCEPTED and EFFECTIVE treatment must exist, and treating early must produce BETTER OUTCOMES than treating at the usual time of presentation.**
-> **THE PROGRAMME: facilities for diagnosis and treatment available · an agreed policy on whom to treat · cost balanced against benefit · and case-finding must be a CONTINUING process, not a one-off project.**
-> **The criterion most often failed in practice is the third group: EARLY TREATMENT MUST IMPROVE OUTCOMES.** Detecting something early is worthless if treating it early does not help.
-
-> [!danger] Lead time, length time, and overdiagnosis — the three reasons screening looks better than it is
-> **1. LEAD TIME BIAS.** **Screening moves the DATE OF DIAGNOSIS earlier without changing the DATE OF DEATH — so measured "survival from diagnosis" lengthens while the person dies at exactly the same moment.**
-> **A patient diagnosed at 60 and dying at 65 has "5-year survival". Screen them at 55 and they have "10-year survival" and die on the same day.**
-> **2. LENGTH TIME BIAS.** **Screening at intervals preferentially detects SLOW-GROWING disease, because fast-growing disease appears and becomes symptomatic between screening rounds.**
-> **So the screen-detected cases are systematically the ones with a better prognosis — making the screened group look better regardless of any treatment effect.**
-> **3. OVERDIAGNOSIS — the most important and least understood harm.**
-> **Detection of disease that meets the pathological definition but WOULD NEVER HAVE CAUSED SYMPTOMS OR DEATH IN THAT PERSON'S LIFETIME.**
-> **The overdiagnosed patient CANNOT BENEFIT, because there was nothing to prevent — but they receive all the harms: the diagnosis, the anxiety, the label, the surgery, the radiotherapy, the complications, and the insurance and employment consequences.**
-> **Overdiagnosis also makes screening look effective, because each overdiagnosed "case" is counted as a survivor.**
-> **Demonstrated examples include neuroblastoma screening in infants, thyroid cancer screening, and — to a contested degree — prostate and some breast cancer screening.**
-> **THE CONSEQUENCE FOR APPRAISAL: A SCREENING PROGRAMME MUST BE JUDGED ON DISEASE-SPECIFIC AND IDEALLY ALL-CAUSE MORTALITY IN RANDOMISED TRIALS — NOT on survival from diagnosis, not on stage shift, and not on the number of cancers detected.** **All three of those improve with a useless screening test.**
-
-> [!warning] The Australian programmes
-> **· BreastScreen Australia — mammography for asymptomatic women in a defined age range.** **REMEMBER: SCREENING IS FOR ASYMPTOMATIC PEOPLE. A symptomatic woman needs diagnostic assessment.** Cross-refer [[O7]] 0.5.
-> **· National Cervical Screening Program — now HPV-BASED rather than cytology-based, at longer intervals, with SELF-COLLECTION available**, which has substantially improved participation among under-screened groups. Cross-refer [[O6]] 0.2.
-> **· National Bowel Cancer Screening Program — immunochemical faecal occult blood testing mailed to eligible ages.** **Participation is the main limitation, and a GP endorsement measurably improves it.** **A POSITIVE iFOBT REQUIRES COLONOSCOPY, and delays in that pathway are a recognised problem.** Cross-refer [[C5]] 0.5.
-> **· Newborn bloodspot screening, newborn hearing screening, and pulse oximetry screening.** Cross-refer [[M3]] 0.6.
-> **· A national LUNG CANCER SCREENING programme for high-risk smokers has been introduced.**
-> **· PSA testing for prostate cancer is NOT a national screening programme — it remains a shared decision-making conversation because of the overdiagnosis and overtreatment problem.** Cross-refer [[GER3]] and [[H2]] 0.2.
-> `UNVERIFIED — all ages, intervals, tests and eligibility. These change and must be checked.`
-> **INFORMED CHOICE, NOT COERCION: people have a right to decline screening, and the conversation should present benefits AND harms — including false positives, overdiagnosis and the consequences of further investigation — in absolute numbers.**
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `0.6 Public Health Practice` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ---
 
-## 0.6 Public Health Practice
+# 1 Research literacy merged in from `Clinical-Process-EBM` (C5, 2026-09-01)
 
-> [!danger] Notify on suspicion — do not wait for confirmation
-> **Notification of specified diseases is a LEGAL OBLIGATION on medical practitioners and laboratories, discharged to the state health department (in South Australia, through SA Health's communicable disease control).**
-> **FOR SOME CONDITIONS, NOTIFICATION IS REQUIRED IMMEDIATELY AND ON CLINICAL SUSPICION — before laboratory confirmation.** **MEASLES and MENINGOCOCCAL DISEASE are the paradigm examples**, because contact tracing and prophylaxis are time-critical and waiting for confirmation wastes the window.
-> **Notification enables: contact tracing and post-exposure prophylaxis · outbreak detection · source identification · and surveillance.**
-> **It is not optional, it is not a breach of confidentiality, and it is not somebody else's job.**
-> `UNVERIFIED — the SA notifiable disease list, the urgency categories, and the notification mechanism. Know where to find it before you need it.`
+> [!info] **C5 executed.** The second half of `Clinical-Process-EBM` — everything after the
+> consent sections, which went to `[[A10_Ethics__Capacity__Consent_and_Certification]]` under C4.
+>
+> **`[[EBM1_Evidence_and_Clinical_Process]]` stays separate as the APPLICATION file** — critical
+> appraisal in practice, using guidelines, clinical reasoning and diagnostic error, documentation,
+> handover, open disclosure. This file is the statistics and study-design half.
+>
+> **`## Screening` did NOT come here.** It went to `[[Preventive-Health]]` with this file's own
+> `§0.5 Screening` and `§0.6 Public Health Practice`, under C7 — screening is a preventive-health
+> topic, not a research-literacy one, even though its *biases* are.
 
-> [!tip] Outbreak investigation — the ordered steps
-> **1. CONFIRM THE OUTBREAK (is this more than expected?) and CONFIRM THE DIAGNOSIS.**
-> **2. DEFINE A CASE — an explicit case definition by person, place and time, usually with confirmed, probable and possible categories.**
-> **3. FIND CASES — active case finding.**
-> **4. DESCRIPTIVE EPIDEMIOLOGY — describe by TIME (the epidemic curve), PLACE (mapping) and PERSON (who is affected).**
-> **5. GENERATE HYPOTHESES about source and transmission.**
-> **6. TEST THE HYPOTHESES with an analytical study — usually a RETROSPECTIVE COHORT (if the exposed population is defined, e.g. a wedding) or a CASE-CONTROL study (if it is not).**
-> **7. IMPLEMENT CONTROL MEASURES.**
-> **8. COMMUNICATE — to clinicians, the public and stakeholders.**
-> **9. EVALUATE and report.**
-> **THE CRITICAL PRACTICAL POINT: CONTROL MEASURES DO NOT WAIT FOR STEP 7.** **Implement what you can as soon as you have a plausible hypothesis — steps run in parallel, and an outbreak investigation that withholds action pending analysis costs cases.**
+<!-- ===== SOURCE: Clinical-Process-EBM-Consent-Capacity.md ===== -->
+*Moved here from `Clinical-Process-EBM-Consent-Capacity.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-> [!info] Epidemic curves and the numbers that matter
-> **THE SHAPE OF THE EPIDEMIC CURVE SUGGESTS THE TRANSMISSION MODE:**
-> **· POINT SOURCE — a single sharp peak, with all cases occurring within one incubation period. Everyone exposed at one time (a contaminated meal).**
-> **· CONTINUOUS COMMON SOURCE — a plateau, as exposure continues over time (a contaminated water supply).**
-> **· PROPAGATED (person-to-person) — successive peaks separated by roughly one incubation period, each larger than the last.**
-> **The time from exposure to the peak approximates the median INCUBATION PERIOD, which helps identify the pathogen.**
-> **ATTACK RATE = number of cases / number of people at risk — calculated for each exposure to identify the source.**
-> **R₀ (basic reproduction number) — the average number of secondary cases from one case in a fully susceptible population.**
-> **HERD IMMUNITY THRESHOLD = 1 − 1/R₀.** **So a disease with R₀ of 4 requires 75% immunity to interrupt transmission; measles, with a very high R₀, requires very high coverage — which is why measles is the first disease to return when vaccination rates slip.**
+## Choosing a Medicine — Quality Use of Medicines
 
-> [!warning] Immunisation, and how to talk about it
-> **HERD IMMUNITY protects those who cannot be vaccinated — infants too young, the immunosuppressed, and those in whom vaccines fail.** **This makes vaccination a collective as well as an individual act.**
-> **The Australian Immunisation Register records vaccinations across the lifespan, and the National Immunisation Program provides funded vaccines on a schedule.** `UNVERIFIED — the current schedule.`
-> **VACCINE HESITANCY — the evidence on communication:**
-> **· Most hesitant parents are NOT ideologically opposed; they are anxious and seeking reassurance. Treating them as anti-vaccine is counterproductive.**
-> **· BLUNTLY REFUTING MYTHS CAN BACKFIRE — repeating a myth in order to deny it increases its familiarity and, in some studies, its perceived truth.** **Lead with the accurate positive message rather than with the correction.**
-> **· A PRESUMPTIVE approach ("today we're doing three vaccinations") produces higher uptake than a participatory one ("what would you like to do about vaccines?"), while still allowing questions.**
-> **· The clinician's own clear recommendation is one of the strongest determinants of uptake.**
-> **· Address the specific concern, acknowledge it as reasonable to ask about, and do not rush.**
+> [!note] Gap-filled from CSV ("Key factors to consider when selecting the most appropriate medication," Medium yield). Verified absent with the teach-vs-mention check: the corpus contains **hundreds of specific drug choices** across every disease entry, and **no entry teaching how such a choice is made**. Zero hits for drug selection, rational prescribing or comparable phrasing.
+>
+> **Placement overrides the queue's allocation** (which said `19_General_Practice_and_Preventive_Medicine`): prescribing is clinical process, not general-practice discipline or preventive care, and this entry is the therapeutic counterpart to Diagnostic Test Characteristics and Interpreting Treatment Effects below — the same file, the same reasoning applied to treatment rather than diagnosis. Verified against Australia's **National Medicines Policy** Quality Use of Medicines objective and the **National Prescribing Competencies Framework**, Aug 2026.
 
-> [!tip] The levels of prevention — including the one nobody knows
-> **· PRIMORDIAL — preventing the emergence of risk factors at all (urban design that makes walking normal, tobacco advertising bans).**
-> **· PRIMARY — preventing disease in those with risk factors (immunisation, smoking cessation, statins in high-risk patients).**
-> **· SECONDARY — detecting disease early to improve outcome (screening).**
-> **· TERTIARY — reducing the impact of established disease (rehabilitation, secondary prevention after myocardial infarction).**
-> **· QUATERNARY — PROTECTING PATIENTS FROM OVER-MEDICALISATION AND FROM THE HARMS OF UNNECESSARY INTERVENTION.**
-> **Quaternary prevention is the least known and arguably the most relevant to daily practice: not ordering the test that will generate an incidentaloma, not prescribing the drug whose NNT is 300, deprescribing, and declining to screen someone who will not benefit.** **"First, do no harm" expressed as a public health concept.** Cross-refer [[GER1]] 0.4 and [[GER3]].
-> **And the social determinants of health — the conditions in which people are born, grow, work and age — account for more variation in health outcomes than healthcare does.** Cross-refer [[AU1]] 0.2.
+**Quality Use of Medicines (QUM)** is the Australian framework, and its four words are the actual test: medicines should be used **judiciously, appropriately, safely and effectively**.
 
-**Ix:** Not applicable — but the analogous discipline is: **before ordering any test, ask what the PRE-TEST PROBABILITY is, and what you will do with a positive and with a negative result** (*why:* a test that will not change management should not be ordered, and in low pre-test probability a positive result is more likely false than true; *what:* a genuinely useful answer). **Before accepting a reported treatment benefit, ask for the ABSOLUTE risk reduction and the NNT** (*why:* relative measures conceal magnitude; *what:* the number that lets a patient decide). **Before accepting a screening claim, ask whether it reduces MORTALITY in randomised trials** (*why:* survival, stage shift and detection rates all improve with a useless test; *what:* mortality benefit or its absence).
+### The question sequence
+
+Asking these in order prevents most prescribing errors, because each one can stop the process:
+
+1. **Is a medicine needed at all?** Non-drug options first where they exist — and the honest version of this question is whether the *problem* needs treating, not whether a drug exists for it.
+2. **What am I trying to achieve, and how will I know?** A prescription without a defined endpoint cannot be reviewed, and becomes permanent by default (see [[18_Geriatrics_and_Older_Persons_Health]] Polypharmacy and Deprescribing, not repeated here).
+3. **Which medicine?** — see the factors below.
+4. **What dose, route, frequency and duration?** Duration is the one most often left blank.
+5. **How will I monitor it, and when will I stop?** **Decide the stopping or review point at the time of starting**, not later.
+
+### Choosing between medicines
+
+**Patient factors:**
+- **Age and physiology** — renal and hepatic function, which change dose rather than only drug choice; frailty (see [[18_Geriatrics_and_Older_Persons_Health]] Frailty).
+- **Pregnancy and breastfeeding.**
+- **Comorbidity and drug–disease interaction** — the drug that suits the condition may be wrong for the patient.
+- **Allergies and previous adverse reactions**, distinguishing true allergy from intolerance, because recording an intolerance as an allergy removes a whole class unnecessarily.
+- **Current medicines and interactions** — and the cumulative burden, not only pairwise interactions.
+- **What the patient can actually manage** — dose frequency, formulation, dexterity, vision, cognition, and whether they can open the packaging.
+
+**Medicine factors:** efficacy for *this* indication, safety and adverse-effect profile, suitability of formulation and frequency, and **cost**.
+
+> [!info] **Cost is a clinical factor, not an administrative one — and the mechanism is worth stating.** A medicine the patient does not fill or takes intermittently because of cost has a real-world efficacy of approximately zero, however good the trial data. So cost affects outcome through adherence, which makes it part of the drug-choice decision rather than something to consider afterwards. Practically: know whether the medicine is **PBS-listed**, whether it requires an **authority**, and what the patient will actually pay.
+
+**Evidence:** what is the **absolute** benefit for a patient like this one, over what period? A drug with an impressive relative risk reduction may offer very little to a low-risk patient (see Interpreting Treatment Effects — Absolute vs Relative Risk, and NNT below, not repeated here).
+
+> [!danger] **Aboriginal and Torres Strait Islander patients — a specific, funded, under-used measure that directly addresses the cost mechanism above.** The **Closing the Gap (CTG) PBS Co-payment Program** reduces or removes the PBS co-payment for eligible Aboriginal and Torres Strait Islander people. Eligibility is broad — **any age, any location, registered with Medicare, self-identifying**, where in the prescriber's opinion the person has or is at risk of chronic disease and would be unlikely to adhere to their regimen without the assistance. Patients who would normally pay the full PBS amount pay the **concessional rate**; concession-card holders pay **nothing**.
+> **The actionable point is that registration is the prescriber's job**, done through Health Professional Online Services, and the programme is under-used because clinicians do not think of it. Given that cost drives non-adherence and non-adherence drives the outcome gap, **failing to register an eligible patient is a clinical omission, not a paperwork one.** Verified against the PBS Closing the Gap Co-payment Program factsheet and Services Australia prescriber guidance, Aug 2026.
+
+> [!tip] The single most useful habit: **write the indication and the intended duration or review date on every prescription you start.** It answers questions 2, 4 and 5 at once, and it is what makes the medicine reviewable by the next person rather than something they inherit and dare not stop.
 
 ---
 
-> [!note] Cross-references
-> Preventive health, screening and immunisation in practice → [[GER3]] · Evidence appraisal, guidelines and clinical reasoning → [[EBM1]] · Deprescribing and polypharmacy → [[GER1]] 0.4 · Australian health system, Closing the Gap and social determinants → [[AU1]] · Cervical and breast screening → [[O6]] 0.2 and [[O7]] 0.5 · Bowel cancer screening and iFOBT → [[C5]] 0.5 · PSA and prostate screening → [[H2]] 0.2 · Newborn screening → [[M3]] 0.6 · Notifiable infections and contact tracing → [[F0.3]] 0.9 and [[M2]] 0.6 · Occupational disease notification → [[RESP-X]] 0.2 · Communication of risk and shared decision-making → [[GER5]] · Consent and information disclosure → [[A10]] 0.2
+## Diagnostic Test Characteristics — Sensitivity, Specificity, PPV and NPV
+`CF-PAIR §0.3` **Part 0 §0.3 Diagnostic Test Statistics covers the same ground. Both kept in full, NOT reconciled.**
+
+> [!warning] **Correction to this project's own record.** The workflow's N2 entry instructs a future round to "verify Notifiable Diseases and sensitivity/specificity are genuinely already adequate first, don't rebuild what exists." Notifiable diseases *is* adequate (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia)). **Sensitivity and specificity were not.** The terms appear eight times across the corpus, every one of them an *application* to a specific test — D-dimer's high sensitivity, faecal calprotectin, the Ottawa rules — with the concepts themselves never defined and PPV/NPV never mentioned at all. This is the same failure mode that produced the false "SNAP is covered" claim: **applied in context is not the same as built as a topic.**
+
+> [!note] Gap-filled from CSV ("Sensitivity, specificity, PPV/NPV interpretation," High yield, Public Health/Epidemiology category). Verified against the RACGP practical guide to statistics for general practice and Australian Prescriber's *Evidence, risk and the patient*, Aug 2026.
+
+**The four measures, and the distinction that carries all the clinical weight:**
+
+| | Question it answers | Fixed or variable? |
+|---|---|---|
+| **Sensitivity** | Of people **with** the disease, what proportion test positive? | A property of the **test** — does not change with population |
+| **Specificity** | Of people **without** the disease, what proportion test negative? | A property of the **test** |
+| **PPV** | Of people who test **positive**, what proportion actually have the disease? | Depends on **prevalence** — changes with the population |
+| **NPV** | Of people who test **negative**, what proportion are genuinely disease-free? | Depends on **prevalence** |
+
+> [!danger] **The single most important consequence, and the reason this belongs in a clinical file rather than a statistics one: PPV falls as prevalence falls, even though the test has not changed.** Order a test in a population where the disease is rare and most of your positives will be false positives — not because the test is bad, but because there were so few true cases available to find. This is the mechanism behind three things already stated elsewhere in this project without their underlying reason:
+> - Why **screening programmes are restricted by age and risk band** rather than offered to everyone (see [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
+> - Why **general practice investigates differently from an emergency department** — the same symptom carries a far lower pre-test probability there (see [[19_General_Practice_and_Preventive_Medicine]] Continuity of Care, and What Makes General Practice Different).
+> - Why **a positive allergy test is sensitisation rather than disease** unless it fits the history (see [[13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_]] Allergic Rhinitis (Hay Fever)).
+
+**The two mnemonics, and what they actually mean:**
+- **SnNout** — a highly **Sen**sitive test, when **N**egative, rules **out**. High sensitivity means few false negatives, so a negative result is trustworthy.
+- **SpPin** — a highly **Sp**ecific test, when **P**ositive, rules **in**. High specificity means few false positives, so a positive result is trustworthy.
+
+**Worked example already in this project:** **D-dimer** is highly sensitive and poorly specific, which is exactly why it functions as a **rule-out** test in a patient with low pre-test probability of VTE and is useless as a rule-in test — see [[Investigation-Interpretation]] Coagulation Screen and D-dimer Interpretation, which states the practical rule; this entry is the reasoning underneath it.
+
+> [!danger] **A test or risk tool validated in one population does not automatically perform the same way in another, and this is a recurring Australian equity problem rather than a theoretical one.** Sensitivity and specificity are properties of a test *in the population it was validated in*; move to a population with different disease prevalence, different age structure, or a different spectrum of disease, and both the predictive values and sometimes the test characteristics themselves shift.
+> The worked example is already in this project: **AUSDRISK is not recommended for Aboriginal and Torres Strait Islander people**, because it was derived in a population with a different baseline prevalence and age of onset, and applying it unadjusted under-identifies risk in exactly the group at greatest risk (see [[06_Metabolic_Medicine_and_Endocrinology]]). The same reasoning underlies why **MMSE and MoCA over-diagnose cognitive impairment** where formal schooling, literacy or cultural content differ, and why a separately validated instrument exists (see [[04_Neurology]] Mild Cognitive Impairment (MCI)).
+> **The generalisable question to ask of any test or score: who was it validated in, and is my patient like them?** This is the formal version of the recurring Step 10 pattern in this project — a standard tool being inappropriate or under-inclusive for a specific population.
+
+> [!tip] **Pre-test probability is not optional context — it is half the calculation.** A test result does not tell you whether the patient has the disease; it *moves* your estimate from where it already was. This is why clinical decision rules (Wells, Ottawa, Centor) exist: they establish the pre-test probability *before* the test is ordered, so the result can be interpreted rather than merely read. An intern who orders a test without having formed a pre-test probability cannot interpret the answer either way.
+
+---
+
+## Interpreting Treatment Effects — Absolute vs Relative Risk, and NNT
+`CF-PAIR §0.4` **Part 0 §0.4 Measures of Effect covers the same ground. Both kept in full.**
+
+> [!note] Gap-filled from CSV ("Absolute vs relative risk reduction, NNT," High yield, Public Health/Epidemiology category). Genuinely absent: corpus-wide search returned **zero hits** for NNT, number needed to treat, absolute risk reduction, or confidence interval — despite the project quoting relative risk figures in several entries (HRT's breast cancer risk, endometrial cancer RR) where the absolute/relative distinction is exactly what a patient will ask about. Verified against Australian Prescriber's *Evidence, risk and the patient* and the NHMRC levels of evidence framework, Aug 2026.
+
+**The three numbers, using one worked example throughout.** Suppose an event occurs in **0.2%** of a control group and **0.1%** of a treated group:
+
+- **Absolute risk reduction (ARR)** = control rate − treated rate = **0.1 percentage points**.
+- **Relative risk reduction (RRR)** = ARR ÷ control rate = **50%**.
+- **Number needed to treat (NNT)** = 1 ÷ ARR = 1 ÷ 0.001 = **1,000** patients treated to prevent one event.
+
+> [!danger] **Those three numbers describe the same result, and they do not feel the same.** "Halves your risk" and "one in a thousand benefit" are both true here. **Relative figures are larger and more persuasive precisely because they conceal the baseline**, which is why they dominate drug advertising, media reporting and abstracts — and why an intern quoting an RRR to a patient without the ARR is misleading them while saying something technically correct.
+>
+> The rule that follows: **whenever you are given a relative figure, ask what the baseline risk is.** A 50% reduction in a common event is transformative; the same 50% in a rare one may be worth almost nothing to that individual, while carrying the same side effects and the same cost.
+
+**NNT in practice:**
+- **Lower is better.** An NNT of 10 means treating 10 people to prevent one event; an NNT of 1,000 means treating 1,000.
+- **NNT is meaningless without its time frame and its outcome.** "NNT 20" is uninterpretable; "NNT 20 over 5 years to prevent one non-fatal MI" can be discussed with a patient. Always ask *over what period* and *to prevent what*.
+- **Its counterpart is NNH — number needed to harm.** The decision is the comparison of the two, not the NNT alone: an NNT of 50 against an NNH of 500 is a very different proposition from an NNT of 50 against an NNH of 60.
+- **NNT is not transferable between populations** with different baseline risks. The same treatment has a much lower NNT in a high-risk patient, which is the arithmetic behind **absolute cardiovascular risk assessment** — treating on calculated absolute risk rather than on individual risk factors is a way of directing treatment to the people with the lowest NNT (see [[01_Cardiovascular]] 0.40 Dyslipidaemia and [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
+
+> [!info] **Why this matters for the time-to-benefit reasoning already used elsewhere in this project.** The deprescribing entry says a preventive medicine whose benefit accrues over 5–10 years offers little to a patient whose life expectancy is shorter (see [[18_Geriatrics_and_Older_Persons_Health]] Polypharmacy and Deprescribing). NNT is the formal version of that argument: the NNT is quoted *over a period*, and if the patient will not live through that period, the benefit does not accrue while the harms are immediate. The two entries are the same reasoning at different levels of formality.
+
+> [!info] **The equity consequence of NNT depending on baseline risk, which is not obvious and runs opposite to intuition.** Because NNT falls as baseline risk rises, **the same treatment delivers more absolute benefit to a higher-risk patient**. Aboriginal and Torres Strait Islander Australians carry higher baseline risk for several of the conditions this project covers — cardiovascular disease, chronic kidney disease, rheumatic heart disease. It follows arithmetically that **under-treatment in a higher-risk population forgoes *more* absolute benefit than the same under-treatment elsewhere** — the gap in outcomes is widened not only by the difference in baseline risk but by any difference in treatment rates on top of it. The practical reading: a treatment-access gap is not a separate issue from an incidence gap; it compounds it, which is why this project's equity entries repeatedly check for both (see [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice).
+
+**Confidence intervals, briefly:** a result is reported with a range of values consistent with the data. Two intern-level uses — **a 95% CI for a risk ratio that crosses 1 means no statistically significant difference was demonstrated**, and **a wide CI signals an imprecise estimate**, usually from a small study, even when the point estimate looks impressive.
+
+---
+
+## Study Design and Bias — Reading the Evidence Behind a Recommendation
+`CF-PAIR §0.1 §0.2` **Part 0 §0.1 Study Design and §0.2 Bias, Confounding and Validity cover the same ground. All kept in full.**
+
+> [!note] Gap-filled from CSV ("Study design types and sources of bias," Public Health/Epidemiology category). Genuinely absent, and confirmed with the teach-vs-mention lens rather than a presence hit: corpus-wide search returned **zero hits** for *case-control*, *cohort study* as a study design, *selection bias*, *recall bias* or *confounding* — the only matches were "cohort" in the sense of a patient group and "confirms" partial-matching *confound*. The file's previous "Evidence-based medicine — a brief note" placeholder explicitly recorded this as an unbuilt topic; this entry replaces it. Verified against the **NHMRC Designation of Levels of Evidence** (the Australian hierarchy in use since 1999, extended in 2009 to cover diagnostic, prognostic, aetiological and screening questions as well as treatment), Aug 2026.
+
+**Why an intern needs this at all.** You will not design a study. You will constantly be handed a claim — by a drug rep, a consultant, a patient with a printout, a guideline — and have to judge how much weight it carries. The whole skill reduces to two questions: **what kind of study is this**, and **what could have produced this result other than the effect being claimed?**
+
+### The designs, ordered by how well they control for the alternatives
+
+| Design | What it does | The alternative explanation it cannot rule out |
+|---|---|---|
+| **Case report / case series** | Describes one or several patients. | Everything. No comparison group, so there is nothing to attribute the outcome *against*. Generates hypotheses; settles nothing. |
+| **Cross-sectional** (a survey/prevalence study) | Measures exposure and outcome **at the same moment**. | **Which came first.** Finding that people with back pain are less active cannot tell you whether inactivity caused the pain or the pain stopped the activity. |
+| **Case-control** | Starts with people who **have** the outcome, finds similar people who don't, looks **backwards** at exposure. | **Recall bias** — people with a disease search their memory harder for exposures than healthy controls do. Efficient for rare diseases and long latencies; cannot give you incidence. |
+| **Cohort** | Starts with **exposure**, follows people **forwards** to see who develops the outcome. | **Confounding**, and **loss to follow-up** — if the people who drop out differ from those who stay, the remaining group is no longer the group you recruited. |
+| **Randomised controlled trial (RCT)** | Allocates the intervention **by chance**. | Less than the above — but see blinding below. Chance allocation is the only method that balances the confounders you *didn't think of*, which is the entire reason it sits at the top. |
+| **Systematic review / meta-analysis** | Pools all studies meeting pre-set criteria. | **The quality of what went in.** Pooling biased trials produces a precise, confident, biased answer. |
+
+> [!info] **The NHMRC levels, which is the hierarchy Australian guidelines cite.** **Level I** — systematic review of RCTs · **Level II** — at least one properly designed RCT · **Level III** — comparative studies without randomised allocation (cohort, case-control, interrupted time series with control) · **Level IV** — case series. Guidelines you will actually read (RACGP, eTG, RANZCOG) grade recommendations against this, so "Level III evidence" in a guideline is telling you *the design*, not the strength of the effect.
+
+### The biases, and the mechanism of each
+
+The word *bias* here does not mean prejudice. It means **a systematic error in how the result was produced** — one that does not shrink by studying more people. That distinction is the single most useful thing in this entry: a larger study fixes imprecision, never bias.
+
+- **Selection bias** — the people studied differ systematically from the people the result will be applied to. *Mechanism:* the comparison groups were assembled by something related to the outcome. A trial recruiting only under-65s with no comorbidity tells you little about the 82-year-old in front of you.
+- **Confounding** — a third factor causes both the exposure and the outcome, manufacturing an association between them. *Mechanism:* the classic worked example is coffee and lung cancer — coffee drinkers smoked more, and smoking causes both the coffee habit's company and the cancer. Handled by randomisation (prospectively) or by statistical adjustment (retrospectively, and only for confounders you measured).
+- **Recall bias** — differential accuracy of memory between groups. *Mechanism:* having the disease changes how hard you search your memory. Specific to retrospective designs.
+- **Observer and performance bias** — knowing who got what changes how outcomes are assessed and how patients are treated. *Mechanism:* this is what **blinding** exists to prevent. *Single-blind* = the participant doesn't know; *double-blind* = neither participant nor assessor knows. Blinding matters most for subjective outcomes (pain scores) and least for hard ones (death).
+- **Attrition bias** — differential dropout. *Mechanism:* if the people for whom the drug wasn't working left the trial, the survivors flatter the drug. Countered by **intention-to-treat analysis** — analysing every participant in the group they were *allocated* to, regardless of what they actually received. **Per-protocol** analysis (only those who completed as assigned) systematically favours the intervention, so when a paper reports both and they disagree, believe the intention-to-treat one.
+- **Publication bias** — positive results get published; negative ones sit in drawers. *Mechanism:* a meta-analysis can therefore be a faithful synthesis of a distorted sample of reality. This is what trial registration exists to counter.
+
+> [!danger] **Association is not causation, and the specific reason matters more than the slogan.** Any observed association has four possible explanations before causation is one of them: **chance**, **bias**, **confounding**, and **reverse causation** (the outcome caused the exposure). Work through those four before concluding anything. It is also the honest answer to the patient who has read that something "causes" something else.
+
+> [!info] **Selection bias with a name and a consequence, already established elsewhere in this project (Step 10).** This is the one place the equity point here is concrete rather than general. **AUSDRISK — the Australian type 2 diabetes risk tool — is not validated for Aboriginal and Torres Strait Islander people**, and a different, earlier screening approach applies (see [[06_Metabolic_Medicine_and_Endocrinology]] and [[19_General_Practice_and_Preventive_Medicine]] Preventive Medicine and Screening in Australian General Practice). The mechanism is exactly the selection bias above: a tool derived in a population that under-represented the group it is later applied to will mis-estimate risk in that group, and the direction of the error is not predictable from first principles. The general lesson an intern can carry: **before applying a risk score or a trial result, ask who was in the derivation population.** Where that answer is "not this patient", the score is a prompt for clinical judgement, not a substitute for it.
+
+> [!tip] **What this looks like at intern level, practically.** You are not appraising papers on the ward. You are being asked, on a round, "why do we do it this way?" — and the useful answer distinguishes *this is Level I evidence* from *this is how the unit has always done it*. The second is not illegitimate, but it should be said out loud as what it is.
+
+---
+
+## Statistical Significance — p-values and Confidence Intervals
+
+> [!note] Gap-filled from CSV ("Interpretation of p-values," Public Health/Epidemiology category). Genuinely absent — corpus-wide search returned **zero hits** for *p-value*, *p value* or *statistical significance*; the only related content was the two-line "confidence intervals, briefly" note in the entry above, which stated the two intern-level uses of a CI without defining what either a CI or a p-value actually is. Verified against **Australian Prescriber**'s statistics-for-clinicians material and the NHMRC evidence framework, Aug 2026.
+
+**What a p-value actually is.** It is the probability of seeing a difference **at least as large as the one observed, if there were truly no difference** between the groups. Nothing more. The conventional threshold of **p < 0.05** is a social convention, not a law of nature — it means "this result would arise by chance less than 1 time in 20 if the treatment did nothing."
+
+> [!danger] **The three misreadings, each of which will be said out loud on a ward round.**
+> - **"p = 0.04 means there is a 96% chance the treatment works."** No. The p-value assumes there is no effect and asks how surprising the data are under that assumption. It is not the probability that the hypothesis is true.
+> - **"p = 0.06 means the treatment doesn't work."** No. It means the study did not demonstrate an effect at the conventional threshold — which is also what you would see with a real effect and too few patients. **Absence of evidence is not evidence of absence.**
+> - **"p < 0.001 means the treatment works really well."** No. p measures how *confident* you can be that a difference exists, not **how big it is**. A trivial difference becomes highly significant in a large enough study. The clinically relevant question is the effect size — which is the ARR/NNT reasoning in the entry above.
+
+**Why the confidence interval is the more useful number.** A 95% CI gives the range of effect sizes compatible with the data, so it answers "is it big enough to matter?" and "was it demonstrated?" at once:
+- **A CI for a ratio (risk ratio, odds ratio, hazard ratio) that crosses 1** — or **a CI for a difference that crosses 0** — means no statistically significant effect was demonstrated. The two null values differ because a ratio of 1 and a difference of 0 both mean "no effect"; using the wrong one is a common slip.
+- **The width tells you the precision.** RR 0.60 (95% CI 0.58–0.62) and RR 0.60 (95% CI 0.20–1.80) have the identical point estimate; the first is an answer and the second is barely more than a guess.
+- **Read the whole interval clinically, not just whether it crosses the null.** If the entire interval lies within a range you would consider trivial, the result is significant *and* unimportant. If a wide interval includes both trivial and major benefit, the honest conclusion is that the size of the effect is still unknown.
+
+> [!info] **Multiple testing, because it explains a specific pattern you will see in papers.** Test twenty outcomes at p < 0.05 and one will come up "significant" by chance alone. *Mechanism:* the 1-in-20 threshold applies to each test independently. This is why a **pre-specified primary outcome** carries so much more weight than a subgroup finding announced after the fact, and why a trial that missed its primary outcome but reports an impressive secondary one deserves scepticism rather than enthusiasm.
+
+**Cross-reference:** the effect-size half of this — absolute vs relative risk, NNT — is the entry immediately above; a p-value tells you whether a difference was demonstrated, and the ARR/NNT tell you whether it is worth anything to the patient. Neither is interpretable without the other.
+
+---
+
+> [!note] **C5 / C7 executed 2026-09-01. This file kept its identity and gained the research-literacy half of `Clinical-Process-EBM`.**
+> `§0.5 Screening` and `§0.6 Public Health Practice` **left** for `[[Preventive-Health]]` — screening
+> is a preventive-health topic even though its biases are a research-literacy one, and both halves are
+> now adjacent there. **15 wikilinks point at this file**, all still resolving.

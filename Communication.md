@@ -9,45 +9,7 @@ source: built from Grind Time CSV task-led rows, routed here per project workflo
 
 ---
 
-## 1.1 Consent for Blood Transfusion
-
-> [!note] Gap-filled from CSV ("Consent for blood transfusion," High yield) — a genuinely distinct consent/counselling station, absent despite the disease-level detail already built in [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] (blood products, indications, complications). This entry covers the consent conversation itself; cross-references the disease-level content for clinical detail rather than repeating it.
-
-**Station framework:** standard informed consent principles apply (indication, benefits, risks, alternatives, and the opportunity to ask questions/decline), but this conversation has some genuinely distinctive content given the specific risks and cultural/religious considerations involved.
-
-**Opening approach:**
-- Explain why a transfusion is being recommended in plain language, tied to the patient's actual clinical situation (e.g. "your blood count is low enough that it's affecting how you feel, and a transfusion should help").
-- Establish the patient's baseline understanding and any prior transfusion experience or concerns before launching into a standard explanation.
-
-**Key content/checkpoints to cover (checklist):**
-- [ ] **What the product is and where it comes from** — donated blood, screened and processed per Australian Red Cross Lifeblood standards; explain the specific product being given (packed red cells, platelets, FFP — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Blood products for the disease-level detail on each, not repeated here) if relevant to the patient's understanding.
-- [ ] **Benefits** — specific to the indication (e.g. symptom relief from anaemia, correction of active bleeding/coagulopathy).
-- [ ] **Risks** — in proportionate, honest terms rather than either minimising or catastrophising: common/minor reactions (febrile non-haemolytic reactions, minor allergic reactions — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Blood product transfusion complications for the full list and relative frequencies, not repeated here) are relatively common and manageable; serious reactions (haemolytic reactions, TRALI, TACO, anaphylaxis) are rare but should still be mentioned given the consent needs to be genuinely informed; infection transmission risk is now extremely low given current screening standards, worth stating explicitly given this is a common patient concern even though it's a comparatively minor modern risk.
-- [ ] **Alternatives** — explain what the alternatives actually are (watchful waiting if clinically appropriate, iron/erythropoiesis-stimulating agents for some anaemias, cell salvage in surgical contexts) and why transfusion is being recommended over them in this specific situation, rather than presenting transfusion as the only option without explanation.
-- [ ] **Process** — what the patient can expect practically (monitoring during the transfusion, approximate duration, what to report if they feel unwell during the infusion).
-- [ ] **The right to decline** — patients have the right to refuse blood products, and this must be explored respectfully and without pressure, particularly relevant for patients with religious objections (see the Jehovah's Witness point below) — refusal doesn't end the conversation, but shifts it to discussing alternatives and the implications of declining.
-
-**Jehovah's Witness patients — a genuinely important, specific scenario:**
-- Many Jehovah's Witnesses decline blood transfusion on religious grounds, though the specific position can vary between individuals — **never assume a blanket refusal without asking the individual patient directly**, since some accept certain fractionated products (e.g. albumin, clotting factor concentrates) while declining whole blood/red cells/plasma/platelets — this is genuinely individual and must be explored rather than assumed from the patient's stated faith alone.
-- Cell saver devices (see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Cell saver devices) may be an acceptable alternative to some Jehovah's Witness patients specifically, given blood remains connected to the patient's own circulation throughout — worth raising as an option where clinically relevant.
-- A capacitous adult's informed refusal of blood products must be respected, even where the clinical team disagrees with the decision or where it carries serious risk — this is a genuine test of respecting patient autonomy, not a scenario to be talked around; document the discussion and decision clearly.
-- For a child of Jehovah's Witness parents needing a transfusion, this becomes a different and more complex situation (parental refusal on behalf of a minor is not equivalent to informed adult self-determination) — genuinely difficult and involves urgent senior/legal input rather than a simple parallel to the adult scenario; not detailed further here given the complexity, but worth flagging as a materially different situation if it comes up.
-
-**Useful phrases/scripts:**
-- Introducing risk without alarming: "Transfusions are generally very safe, but like any medical treatment there are some risks I want to make sure you understand."
-- Exploring religious/personal objection respectfully: "Some people have personal or religious reasons for not wanting blood products — is that something that's relevant for you?" (open, non-assuming phrasing)
-- Confirming genuine understanding, not just passive agreement: "Can you tell me in your own words what we've talked about, so I can check I've explained it clearly?"
-
-**Closing:** confirm the patient's decision (consent or informed refusal), document the discussion, arrange the transfusion (or discuss alternatives if declined), safety-net for any symptoms during/after the transfusion that should prompt them to alert staff.
-
-**Common pitfalls / what OSCE mark schemes typically penalise:**
-- Presenting transfusion as the only option without genuinely discussing alternatives
-- Minimising or omitting risks to make the conversation easier, undermining genuinely informed consent
-- Assuming a Jehovah's Witness patient's position on blood products rather than asking directly, or assuming it's an all-or-nothing refusal
-- Not exploring the patient's own concerns/questions before moving on
-- Failing to check genuine understanding, mistaking passive nodding for informed consent
-
----
+> [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `1.1 Consent for Blood Transfusion` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 1.2 Breaking Bad News (New Diagnosis)
 
@@ -89,73 +51,9 @@ source: built from Grind Time CSV task-led rows, routed here per project workflo
 
 ---
 
-## 1.3 Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation)
+> [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `1.3 Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-**Station framework:** no single universal mnemonic, but SPIKES (Setting, Perception, Invitation, Knowledge, Empathy, Summarise) is commonly adapted for this conversation, alongside general shared decision-making principles.
-
-**Opening approach:**
-- Ensure privacy, adequate time, minimise interruptions; involve family/substitute decision-maker if the patient wishes.
-- Assess the patient's (or substitute decision-maker's) current understanding of their condition and prognosis before introducing the topic ("What have the other doctors told you about how things are going?").
-- Explain the purpose of the conversation clearly and gently — this is about future care planning, not abandoning current treatment.
-
-**Key content/checkpoints to cover (checklist):**
-- [ ] Explain what CPR actually involves (chest compressions, defibrillation, intubation) — many patients have inaccurate expectations, often from media portrayal
-- [ ] Explain realistic outcomes of CPR in this specific clinical context (survival rates in the frail/multimorbid/terminally unwell are much lower than commonly assumed) — be honest but compassionate
-- [ ] Clarify that a DNACPR decision applies specifically to CPR and does **not** mean withdrawal of other active treatment (pain relief, antibiotics, other supportive care continue as clinically appropriate) — this is the most common misconception and needs explicit correction
-- [ ] Explore the patient's own values, goals of care, and what quality of life means to them
-- [ ] Establish who has decision-making authority if the patient lacks capacity (substitute decision-maker per SA's Advance Care Directives Act 2013 framework — confirm the applicable state legislation if outside SA) — see [[Clinical-Process-EBM-Consent-Capacity]] for full capacity/substitute-decision-maker detail
-- [ ] Document the outcome clearly and ensure it is communicated to the wider care team
-
-**Useful phrases/scripts:**
-- Naming emotion: "I can see this is difficult to hear/talk about."
-- Checking understanding: "Can you tell me in your own words what we've just discussed?"
-- Handling distress/anger: pause, acknowledge the emotion explicitly, don't rush to fill silence, avoid becoming defensive.
-- Reframing away from "giving up": "This isn't about doing less for you — it's about making sure the care you receive matches what matters most to you."
-
-**Closing:** summarise the decision reached (or that more time/a further conversation is needed — this is a legitimate outcome, not a failure), safety-net (explain the decision can be revisited), arrange follow-up, offer written information if available.
-
-**Common pitfalls / what OSCE mark schemes typically penalise:**
-- Leading with medical jargon ("code status," "CPR") before establishing the patient's understanding
-- Implying CPR is being "withheld" rather than framing it as a clinical judgement about likely benefit vs harm
-- Not exploring the patient's own values/goals before presenting a recommendation
-- Rushing the conversation or failing to pause for the patient's emotional reaction
-- Conflating DNACPR with broader treatment withdrawal
-- Failing to clarify decision-making authority when the patient lacks capacity
-
----
-
-## 1.4 Goals of Care and Ceiling of Care (Treatment Escalation Planning)
-
-> [!note] Gap-filled from CSV ("Long-term care planning (e.g. advanced directives, ceiling of care)," High yield, Older Persons Health / Geriatrics category). The DNACPR conversation above and the Advance Care Directives Act 2013 (SA) legal framework in [[Clinical-Process-EBM-Consent-Capacity]] Right to refuse treatment were both already built and are not repeated here — but **"ceiling of care" as a named concept, distinct from a resuscitation decision, existed nowhere in the corpus**. Verified against the Australian Commission on Safety and Quality in Health Care's goals-of-care and Comprehensive Care Standard guidance and Advance Care Planning Australia, Aug 2026.
-
-**The distinction this entry exists to make:** a DNACPR order answers exactly one question — what happens at cardiac arrest. A **ceiling of care** (treatment escalation plan) answers a much more frequently relevant one: **how far do we escalate for the deterioration that stops short of arrest?** The two are separate decisions, and conflating them causes harm in both directions.
-
-- A patient can be **not for CPR but fully for everything else** — antibiotics, IV fluids, non-invasive ventilation, even ICU admission. This is a common and entirely coherent position, and treating a DNACPR order as though it meant "ward-based comfort care" is a well-recognised failure.
-- A patient can be **for CPR in principle but not for ICU or intubation**, where the underlying reserve makes prolonged organ support futile.
-
-> [!info] The escalation ladder to think in, so the plan is specific rather than a vague "not for escalation":
-> **Ward-based care** (oral/IV antibiotics, IV fluids, oxygen) → **ward-based non-invasive support** (NIV/CPAP, high-flow oxygen) → **ICU-level organ support** (intubation and ventilation, vasopressors, renal replacement) → **CPR**.
-> A useful plan names **where on this ladder the ceiling sits**, and what *is* being done below it — not merely what is being withheld.
-
-**Getting the documents straight**, because they are routinely confused and an intern is expected to know which is which in Australia:
-- **Advance Care Directive** — made by the *patient* while they have capacity, recording their values, what outcomes they would find unacceptable, and any binding refusals of treatment. Legally binding as a refusal (see [[Clinical-Process-EBM-Consent-Capacity]] Right to refuse treatment for its statutory basis, not repeated here). Made in advance, and *not* a medical order.
-- **Goals of care / resuscitation plan** — a *clinical* document completed by the treating team for this admission, recording the agreed goals and the escalation ceiling. It is a medical order and it acts now.
-- **Substitute decision-maker** — the person who decides if the patient loses capacity (see [[Clinical-Process-EBM-Consent-Capacity]] Consent to Medical Treatment and Palliative Care Act 1995 (SA) for the hierarchy).
-
-The relationship: the Advance Care Directive **informs** the goals-of-care document; it does not replace it. A patient with an ACD still needs a current escalation plan written for the admission in front of you.
-
-**Checklist for the conversation** (the communication approach itself is as per Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation) above, not repeated here):
-- [ ] Establish the clinical picture and realistic prognosis first — the ceiling should follow from what treatment can actually achieve, not from age or a frailty score used as a proxy
-- [ ] Ask about an existing Advance Care Directive and about the substitute decision-maker **before** the conversation, not during it
-- [ ] Explore what outcomes the person would find unacceptable, which is usually more informative than asking which treatments they want
-- [ ] State clearly **what will be done**, not only what will not — this is the single most important framing point
-- [ ] Name the ceiling specifically on the ladder above, so the covering team at 3am knows what to do
-- [ ] Document the reasoning, who was present, and the review date — a ceiling of care is **reversible** and should be revisited if the clinical situation changes
-- [ ] Communicate it: the plan is useless if it is not visible to the after-hours team and, on discharge, to the GP and any residential aged care facility
-
-> [!warning] Common errors: writing "not for escalation" without saying what the ceiling actually is; setting a ceiling on the basis of age alone; treating the decision as permanent when the patient's trajectory has changed; and — the most consequential — allowing a DNACPR order to silently become a ceiling on active treatment that nobody ever actually decided. Where the frail patient's overall picture is the reason for the discussion, see [[18_Geriatrics_and_Older_Persons_Health]] Frailty for the reserve assessment that should inform it.
-
----
+> [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `1.4 Goals of Care and Ceiling of Care (Treatment Escalation Planning)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 1.5 Motivational Interviewing and the Stages of Change
 
@@ -346,6 +244,8 @@ An intern's list is almost always longer than the shift. The workable ordering:
 ---
 
 ## 1.9 Explaining a Safeguarding Referral
+
+> [!note] **STAYS HERE (C6 ruling, 2026-09-01).** Safeguarding recognition and response are consolidated in `[[Safeguarding]]`; **this is the conversation with the family**, which is this file's subject. Deliberately not moved.
 
 > [!note] Gap-filled from CSV ("Safeguarding (e.g. explaining a safeguarding referral)," Medium yield). **Same pattern as the two entries below it, and this one is the clearest case yet.** Four entries in this project now *instruct* the reader to raise a safeguarding concern — [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Non-accidental injury (NAI) says "raise a safeguarding concern" twice, [[17_01_FGM__Amenorrhoea__PCOS]] requires engaging child safeguarding, [[18_Geriatrics_and_Older_Persons_Health]] Abuse of Older People (Elder Abuse) and Carer Stress and [[Communication]]'s own family-violence entry both give pathways — and **not one of them teaches the conversation in which you tell the family it is happening.** The instruction was everywhere; the skill nowhere. Verified against AIFS guidance on reporting child abuse and neglect and on responding to disclosures, RACGP child-abuse and mandatory-reporting material, and RCH Melbourne's reporting-to-child-protection guidance, Aug 2026.
 

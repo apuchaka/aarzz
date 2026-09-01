@@ -2569,56 +2569,16 @@
 <!-- ===== SOURCE: 15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse.md ===== -->
 
 
-## Non-accidental injury (NAI)
+> [!note] **Moved to `[[Safeguarding]]` on 2026-09-01:** `Non-accidental injury (NAI)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!info] The equivalent safeguarding entry for older people is [[18_Geriatrics_and_Older_Persons_Health]] Abuse of Older People (Elder Abuse) and Carer Stress, built to the same structure. Worth reading alongside this one specifically because the **reporting duties are genuinely different**: doctors are mandatory reporters for child abuse in South Australia, whereas there is **no general statutory mandatory reporting obligation for elder abuse in Australia** — carrying the assumption across from this entry to an older patient is a recognised error in both directions.
-
-- **R:** birth weight <2.5kg, mother <30 years old, unwanted pregnancy, poverty, prematurity, multiple medical conditions, child <2 years old, domestic abuse. Parental factors: substance and alcohol misuse, intellectual disability, history of childhood abuse, mental health problems.
-
-> [!warning] S/Smx suggestive of NAI: child may disclose it themselves; story inconsistent with injuries; repeated attendances at the Emergency Department; delayed presentation; child with a frightened, withdrawn appearance ("frozen watchfulness"); bruising; fractures (particularly metaphyseal, posterior rib fractures, or multiple fractures at different stages of healing); torn frenulum (e.g. from forcing a bottle into a child's mouth); burns or scalds; failure to thrive; STIs (e.g. gonorrhoea, trichomonas).
-
-### Investigation of suspected physical abuse
-
-- <2 years old: skeletal survey, ophthalmology review (retinal haemorrhages indicate 71% of abusive head trauma in <3 year olds).
-- Head CT: for <1 year old, consider in >1 year old.
-- Bruising: clotting screen, FBC, film.
-- Fractures: bone profile, vitamin D, PTH.
-- Consider urine toxicology if poisoning is possible, and medical photography to document injuries.
-
-### Information sharing
-
-- Contact social services to check if the patient/family is known. Contact GP, health visitor, school.
-
-> [!note] DDx: osteogenesis imperfecta, ITP, leukaemia, HSP, coagulation disorder, scurvy, blue spots (Mongolian spots), osteoporosis.
-
-- **Mx:** raise a safeguarding concern. Document everything; differentiate fact from opinion.
-
-## Sexual abuse
-
-- Adults often do not believe children's allegations of abuse.
-- Higher incidence in children with special needs.
-
-> [!danger] Localised for Australia — verified against the Children and Young People (Safety) Act 2017 (SA) and current Australian Institute of Family Studies data on age of consent laws, Aug 2026. **The age of consent in South Australia is 17** — genuinely different from most other Australian jurisdictions (16 in ACT, NSW, NT, Qld, Vic, WA) and from Tasmania (also 17); below this age, a young person is deemed by law not to have the legal capacity to consent to sexual activity, regardless of whether they appear to agree. **Doctors are mandatory reporters in South Australia** under the Children and Young People (Safety) Act 2017 — any doctor who suspects on reasonable grounds that a child has been or is being sexually abused must report this to the Department for Child Protection, and in some circumstances directly to police; a genuinely important point often missed is that **failing to report can itself constitute an offence** under SA legislation. Consensual sexual activity between two young people close in age is treated differently to abuse involving a significant power imbalance, coercion, or a large age gap — but mandatory reporting obligations apply regardless of a young person's stated consent whenever the interaction falls below the age of consent or involves the features of abuse described in this entry; if genuinely uncertain whether a specific situation meets the mandatory reporting threshold, seek advice rather than assuming it doesn't apply.
-
-- **Abusers:** 30% father, 15% unrelated man, 10% older brother.
-
-> [!warning] Possible presentations: pregnancy; STIs; recurrent UTIs; sexually precocious behaviour; anal fissure; bruising; reflex anal dilatation; enuresis and encopresis; behavioural problems, self-harm; recurrent symptoms (e.g. headaches, abdominal pain).
-
-- **Mx:** raise a safeguarding concern. Forensic evidence may be obtained up to 7 days from vaginal intercourse. STI screening.
-
+> [!note] **Moved to `[[Safeguarding]]` on 2026-09-01:** `Sexual abuse` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 15_24b_Paeds_-_Screening__SIDS__Vaccination_Schedule.md ===== -->
 
 
 > [!info] Localised for Australia — verified against the Australian Government National Immunisation Program (NIP) Schedule, Aug 2026. The Australian schedule differs structurally from the UK NHS schedule this file was originally written against, not just in vaccine naming — the timing points themselves differ (Australia: birth/2mo/4mo/6mo/12mo/18mo/4yr/12–13yr, vs the UK's 8wk/12wk/16wk/1yr/40mo/11yr/13yr pattern), and Australia does **not** include a routine MenB dose in the standard national schedule (nationally funded only for Aboriginal and Torres Strait Islander children with specified medical risk conditions — some states/territories fund it more broadly for all infants, so check the current local program).
 
-## Screening schedule
-
-- **Newborn:** immediate physical examination after birth, then a full physical exam before discharge.
-- **Newborn bloodspot screening ("heel prick"/Guthrie test):** performed at 48–72 hours of age in Australia — tests for conditions including congenital hypothyroidism, cystic fibrosis, phenylketonuria, and a range of other inherited metabolic disorders (the specific panel varies slightly by state/territory pathology service).
-- **Universal newborn hearing screening:** performed before discharge or within the first few weeks of life — see [[13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_]] and [[13_03_ENT_-_Deafness_and_Vertigo_Conditions]] Childhood deafness for the disease-level context this screening feeds into, not repeated here.
-- **Child health checks (state-based — e.g. via Child and Family Health services, timing/naming varies by state):** typically include checks around 6–8 weeks, 4 months, 8 months, 12 months, 18 months, and around 3–4 years, covering growth, development, feeding, and parental mental health/wellbeing alongside physical examination — broadly analogous in purpose to the UK's health visitor review schedule, though the specific ages and delivery model (health visitor vs GP vs child health nurse) differ by jurisdiction.
-- **Pre-school vision and hearing screening:** typically offered around school entry age, timing varies by state.
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Screening schedule` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Sudden infant death syndrome (SIDS)
 
@@ -2640,38 +2600,7 @@
 
 > [!info] In Australia, safe sleeping advice (sleep on back, face uncovered, no bed-sharing, smoke-free environment, room-sharing without bed-sharing) is promoted by **Red Nose Australia** — the relevant Australian public health body/resource for SIDS/safe sleep education, distinct from the general risk-factor evidence above.
 
-## Vaccination schedule (Australia — National Immunisation Program)
-
-| Age | Vaccines |
-|---|---|
-| Birth | Hepatitis B (1st dose) |
-| 6 weeks–2 months | Hexavalent (diphtheria, tetanus, pertussis, hepatitis B, polio, Hib) — 1st dose; Pneumococcal conjugate — 1st dose; **Rotavirus — 1st dose, which must be given by 14 weeks** |
-| 4 months | Hexavalent — 2nd dose; Pneumococcal conjugate — 2nd dose; **Rotavirus — 2nd dose, which must be given by 24 weeks** |
-| 6 months | Hexavalent — 3rd dose (note: some state schedules give only 2 primary hexavalent doses with the 3rd as part of the 6-month point — check current state guidance); Pneumococcal conjugate — 3rd dose in some schedules |
-| 12 months | MMR — 1st dose; Meningococcal ACWY — 1st dose; Pneumococcal conjugate — booster; Hib — booster (4th dose) ⚠️ *(see the note below — the two schedules in this corpus place the Hib booster differently)* |
-| 18 months | MMR-Varicella (combined 2nd MMR dose + varicella); DTPa booster |
-| 4 years | DTPa-IPV booster (diphtheria, tetanus, pertussis, polio) |
-| 12–13 years (Year 7, school-based) | HPV — single dose (Australia moved to a single-dose HPV schedule); dTpa booster (diphtheria, tetanus, pertussis) |
-| 14–16 years (Year 10, school-based) | **Meningococcal ACWY booster** |
-| 6 months – <5 years | Influenza — annual, free on the NIP given the seriousness of influenza in young children |
-| 28–36 weeks' gestation (maternal, in pregnancy) | RSV vaccine (maternal, protects the newborn from birth) — free on the NIP |
-| 20–32 weeks' gestation (maternal, **every** pregnancy) | **dTpa (pertussis)** — protects the newborn before their own primary course begins |
-| Any stage of pregnancy, every pregnancy | **Influenza** |
-
-> [!warning] **Two schedule discrepancies found by the L4 seam audit (2026-08-29); one fixed, one open.**
->
-> **Fixed — the adolescent meningococcal dose.** This table previously placed the **Meningococcal ACWY booster in the Year 7 (12–13) school program**. The adolescent NIP dose is at **14–16 years (Year 10)**, with catch-up from 15. Year 7 carries HPV and dTpa. [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) had this right and the two files disagreed.
->
-> **Open — the Hib booster.** This table gives the Hib booster at **12 months**; the schedule in `08_01-03` gives it at **18 months**. **One of them is wrong and it has not been resolved here**, because the NIP schedule itself could not be reached (`health.gov.au` is egress-blocked). Both places are now marked. **Check the current NIP schedule and correct both files together** — see `PENDING_GUIDELINE_CHECKS.md` **B47**.
->
-> These two schedules exist in different files with **different headings**, so Step 1c's duplicate-header check could not see them as a pair. (`check_structure.sh` gained a case-insensitive **Step 1c-bis** on 2026-08-29 which does surface them.) They should be read together and kept in step.
->
-> **Three further differences found by the pairs audit (2026-08-29), all gaps here rather than conflicts** — added above from [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program): the **rotavirus upper age limits** (1st dose by 14 weeks, 2nd by 24 weeks — hard cut-offs, because the vaccine is not given beyond them given the intussusception risk profile), **maternal dTpa at 20–32 weeks in every pregnancy**, and **maternal influenza at any stage**. A paediatric vaccination table that omits the rotavirus deadlines is missing the one part of the infant schedule that cannot simply be caught up later.
-
-> [!info] RSV protection for infants not covered by the maternal vaccine — nirsevimab (a long-acting monoclonal antibody given directly to the baby) is available through **state and territory programs** rather than the national NIP schedule, so availability/funding varies by jurisdiction; check current local program.
-> Meningococcal B vaccine is not part of the standard national schedule above (nationally funded only for Aboriginal and Torres Strait Islander children with specified medical risk conditions) — some states fund it more broadly for all infants outside the NIP; check current state guidance if this is relevant to a specific patient.
-> Aboriginal and Torres Strait Islander children may be recommended additional vaccines (e.g. additional pneumococcal doses, hepatitis A) beyond the schedule above — always check the current Australian Immunisation Handbook for the complete, authoritative schedule including these additions, catch-up schedules, and medical-risk-condition-specific recommendations, given schedules are reviewed and can change.
-
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Vaccination schedule (Australia — National Immunisation Program)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: M1_The_Seriously_Unwell_Child.md ===== -->
 
