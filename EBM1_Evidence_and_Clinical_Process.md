@@ -129,6 +129,8 @@ source: built in chat, model knowledge, NOT source-verified
 
 ## 0.5 Handover and Transitions of Care
 
+`CF-PAIR` **DECLARED OWNER of clinical handover (C1, 2026-09-01).** `Communication §1.7 (ISBAR)` carries the station treatment and is kept in full. This file owns the process.
+
 > [!danger] Communication failure is the commonest contributor to serious harm
 > **Handover is where information is lost, and transitions of care — emergency department to ward, ward to ward, shift to shift, hospital to general practice — are the highest-risk moments in a patient's admission.**
 > **Each transfer loses information, and the losses compound.**
@@ -160,6 +162,8 @@ source: built in chat, model knowledge, NOT source-verified
 ---
 
 ## 0.6 Error, Incident Reporting and Open Disclosure
+
+`CF-PAIR` **DECLARED OWNER of open disclosure (C1, 2026-09-01).** `Communication §1.13` carries the OSCE-station treatment of the same topic and is kept in full. Neither supersedes the other; this file owns the process.
 
 > [!tip] Systems thinking, and what a "just culture" means
 > **THE SWISS CHEESE MODEL: serious harm rarely results from one person's failure. It results from an ACTIVE FAILURE (the error at the sharp end) passing through gaps in multiple LATENT conditions — staffing, design, fatigue, training, equipment, protocols — that were already there.**
