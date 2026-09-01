@@ -279,9 +279,27 @@ Part 1 keeps `§1.1–1.4`, `§1.6`, `§1.8–1.14`, `§1.19–1.22`, which have
 `scripts/aftermove.py` runs after every file. It carries its own known-answer self-test and
 refuses to report if the self-test fails.
 
+**Baseline for every positional check in this run: `78cd7b3`** (15 references already
+pointing the wrong way at that commit; every file is diffed against it).
+
+**Method per file:** parse into SOURCE blocks · permute sections inside a block and blocks
+inside the file, **never across a divider**, so no divider line is added or removed and the
+file's **LINE MULTISET is identical** before and after · then `positional.py --base 78cd7b3`,
+`positional.py --audit` read by hand, `aftermove.py`, dividers/dangling/misaimed · one commit.
+
+**Recorded alternative, not taken:** splitting a SOURCE block so sections from different
+sources could interleave. That would let, say, the spirometry entry sit inside the asthma
+section. It needs a NEW divider line per split, whose filename contains digits, so the
+digit-multiset check would no longer be able to prove nothing was edited. The conservative
+option was taken and is reversible.
+
 | File | Status |
 |---|---|
-| *(none yet — starting)* | |
+| `Resp_merged.md` | done — `32b74f6`, corrected in `5ca2bf6` |
+| `GP_merged.md` | done — `38944ca` |
+| `Anaes_merged.md` | done — `47219c7` |
+| `Geriatrics_merged.md` | done — `98873c9` |
+| *(next: Opthalm, Derm, ENT, Endocrine, Neuro, Renal, Psychiatry, Cardio, Emergency, GI, Infectious Disease, Heme Onc, Pediatrics, MSK, OBGYN)* | |
 
 ### Standing finding, not caused by either pass
 
