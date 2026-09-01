@@ -122,9 +122,9 @@ generated one of each per presentation.
 - [x] **MSK_merged.md** — done
 - [x] **Derm_merged.md** — done
 - [x] **OBGYN_merged.md** — done
-- [ ] Pediatrics_merged.md  <-- RESUME HERE
+- [x] **Pediatrics_merged.md** — done
+- [ ] Psychiatry_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Psychiatry_merged.md
 - [ ] Geriatrics_merged.md
 - [ ] Anaes_merged.md
 - [ ] Emergency and Crit Care_merged.md
