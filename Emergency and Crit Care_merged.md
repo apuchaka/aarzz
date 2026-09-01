@@ -3212,62 +3212,9 @@ Document any difficulty encountered on the record and in the discharge summary, 
 
 ---
 
-## 0.7 Mechanical Ventilation
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.7 Mechanical Ventilation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-**D:** Positive pressure ventilatory support, invasive or non-invasive, replacing or supplementing spontaneous breathing.
-
-**A/P:** Spontaneous breathing generates **negative** intrathoracic pressure, which draws air in and augments venous return. Positive pressure ventilation inverts this → intrathoracic pressure rises → **venous return falls** → in a hypovolaemic patient, blood pressure drops immediately after intubation. This is the mechanism behind post-intubation hypotension and the reason volume status matters before the tube goes in.
-
-> [!info] The intern-level parameters
-> **Tidal volume** — set against predicted body weight, not actual weight, since lung size tracks height rather than obesity. **Respiratory rate** — set with minute ventilation in mind. **PEEP** — maintains alveolar recruitment and improves oxygenation. **FiO₂** — titrated down as tolerated. **Plateau pressure** — the marker of alveolar distension and the number that limits tidal volume. `UNVERIFIED — lung-protective tidal volume in mL/kg predicted body weight, plateau pressure limits, PEEP tables, and oxygenation targets are all omitted; obtain from local ICU protocol and current ARDS guidance.`
-
-> [!danger] Auto-PEEP and breath stacking in obstructive disease
-> In severe asthma and COPD, expiration is prolonged. If the ventilator delivers the next breath before the last has been exhaled, air trapping accumulates → intrathoracic pressure rises progressively → venous return collapses → **PEA arrest.** The asthmatic who arrests shortly after intubation is the classic scenario.
-> **The management is counterintuitive: disconnect the circuit and allow full exhalation**, apply lateral chest compression if needed, then resume with a longer expiratory time, lower rate and accepting a high CO₂ (permissive hypercapnia). Exclude tension pneumothorax at the same time.
-
-> [!warning] Non-invasive ventilation — where it helps and where it delays
-> **CPAP** benefits acute cardiogenic pulmonary oedema. **BiPAP** benefits hypercapnic exacerbations of COPD. Both fail in the patient who cannot protect their airway, is vomiting, is haemodynamically unstable, or is agitated and non-compliant. **The harm is using NIV to postpone an intubation that is going to happen anyway** — set a time-limited trial with explicit review criteria rather than an open-ended one.
-
-**Ix:** ABG or VBG after each significant settings change (*why:* the response to a change is the only way to know it was right; *what:* pCO₂, pH, oxygenation). Continuous waveform capnography (*why:* real-time ventilation monitoring and disconnection alarm; *what:* trace and value). Plateau pressure measurement (*why:* distinguishes high airway resistance from stiff lungs and is the number that guides lung protection; *what:* elevated plateau indicating alveolar overdistension). CXR (*why:* tube position, pneumothorax, evolving infiltrates; *what:* findings). Blood pressure with continuous monitoring (*why:* post-intubation hypotension from reduced venous return is expected and must be anticipated; *what:* fall following positive pressure initiation).
-
-### 0.7.1 Mx – Immediate
-Adequate sedation and analgesia. Set initial parameters per protocol, confirm with a gas, and reassess. Anticipate and treat post-intubation hypotension.
-
-### 0.7.2 Mx – Definitive
-ICU management with lung-protective strategy, daily sedation interruption and weaning assessment where appropriate.
-
-### 0.7.3 Mx – Chronic/long-term
-Ventilator-associated pneumonia prevention, early mobilisation, and follow-up for post-intensive-care syndrome.
-
----
-
-## 0.8 Procedural Sedation
-
-**D:** Administration of sedative or dissociative agents to tolerate an unpleasant procedure while maintaining cardiorespiratory function, on a continuum from minimal sedation to general anaesthesia.
-
-> [!danger] Sedation is a continuum and patients move along it unpredictably
-> The depth you intended is not necessarily the depth you get. **Anyone administering procedural sedation must be prepared to manage the next level down**, including airway obstruction and apnoea. This is why a dedicated sedationist — separate from the person performing the procedure — is the standard, not a luxury.
-
-> [!tip] Pre-procedure assessment
-> Fasting status, airway assessment (as per LEMON in 0.6), comorbidities and ASA class, allergies, previous anaesthetic problems, current medications including opioids and benzodiazepines, and consent. Extremes of age, obstructive sleep apnoea and significant cardiorespiratory disease all raise the risk substantially.
-
-> [!warning] Monitoring and staffing
-> Continuous pulse oximetry, ECG, blood pressure and **capnography**, which detects apnoea well before desaturation — particularly important in a patient on supplemental oxygen, whose saturation stays normal while they stop breathing. Resuscitation equipment and reversal agents immediately available. A second clinician whose only job is the patient.
-
-Agents commonly used in Australian emergency departments include ketamine (which is dissociative rather than sedative and preserves airway reflexes and respiratory drive better than alternatives), propofol, midazolam, fentanyl and nitrous oxide. `UNVERIFIED — all agent doses, titration increments, combinations, fasting guidance and reversal agent dosing are omitted; obtain from ACEM guidance and local policy.`
-
-**Ix:** Pre-procedure assessment as above (*why:* identifies the patient in whom sedation should happen in theatre rather than the emergency department; *what:* difficult airway features, high ASA class). Continuous monitoring throughout (*why:* the complications are respiratory and occur without warning; *what:* apnoea on capnography, desaturation, hypotension). Recovery assessment against discharge criteria (*why:* premature discharge risks re-sedation at home, particularly with longer-acting agents; *what:* return to baseline conscious state, mobility, tolerance of oral intake).
-
-### 0.8.1 Mx – Immediate
-Prepare, monitor, pre-oxygenate, titrate to effect, and stop at the depth required. Manage airway obstruction with positioning and adjuncts before reaching for reversal.
-
-### 0.8.2 Mx – Definitive
-Recovery with continued monitoring until discharge criteria are met.
-
-### 0.8.3 Mx – Chronic/long-term
-Written discharge advice: no driving, no operating machinery, no significant decisions, and a responsible adult for the remainder of the day.
-
----
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.8 Procedural Sedation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.9 Adult Analgesia
 
@@ -3330,37 +3277,7 @@ Clear written analgesia advice for parents with weight-based doses, maximum dail
 
 ---
 
-## 0.11 Fascia Iliaca Block
-
-**D:** A regional anaesthetic technique depositing local anaesthetic beneath the fascia iliaca to anaesthetise the femoral and lateral femoral cutaneous nerves, used principally for fractured neck of femur.
-
-**A/P:** The femoral nerve, lateral femoral cutaneous nerve and — variably — the obturator nerve run deep to the fascia iliaca in the iliac fossa. A volume of local anaesthetic placed in this potential space spreads along it to reach the nerves without direct needle contact with them. Blocking these provides analgesia to the hip, anterior thigh and femoral shaft.
-
-> [!tip] Why it matters in the elderly hip fracture patient
-> This population tolerates opioids poorly — delirium, respiratory depression, constipation, falls. A fascia iliaca block is **opioid-sparing**, and it is associated with reduced delirium and better pain scores. In many Australian hospitals it is part of the hip fracture pathway and is expected within a defined time of presentation. It is a technique interns are frequently taught and asked to perform.
-
-> [!warning] Contraindications and cautions
-> Patient refusal or inability to consent, local infection at the site, allergy to local anaesthetic, anticoagulation (relative — check local policy), and previous femoral vascular surgery or graft. Document a neurovascular examination **before** the block, since the block will obscure subsequent assessment.
-
-> [!danger] Local anaesthetic systemic toxicity
-> The volumes used are large. LAST presents with perioral tingling, tinnitus, metallic taste, agitation and confusion, progressing to seizures, arrhythmia and cardiac arrest. **Aspirate before injecting, inject incrementally, and have intravenous lipid emulsion immediately available and know where it is kept.** `UNVERIFIED — maximum safe local anaesthetic doses by weight, the block volume and concentration, and the intralipid regimen for LAST are all omitted; obtain from your local protocol, the Australian Medicines Handbook and ANZCA guidance.`
-
-**Ix:** Pre-block neurovascular examination documented (*why:* the block abolishes sensation and motor function in the distribution, so a deficit found afterwards cannot be attributed without a baseline; *what:* sensation, motor function, distal pulses). Weight (*why:* maximum local anaesthetic dose is weight-based and toxicity is dose-dependent; *what:* weight in kilograms). Coagulation profile and medication review where anticoagulated (*why:* bleeding risk into the compartment; *what:* INR, anticoagulant agent and last dose). Ultrasound guidance where available (*why:* improves accuracy of fascial plane identification and reduces vascular puncture compared with landmark technique; *what:* fascia iliaca, femoral artery, needle tip position). Post-block pain score (*why:* confirms success and identifies the need for an alternative; *what:* reduction in score).
-
-### 0.11.1 Mx – Immediate
-Consent, position, sterile technique, ultrasound guidance where available, aspirate and inject incrementally with continuous verbal contact with the patient to detect early LAST.
-
-### 0.11.2 Mx – Definitive
-Multimodal analgesia continues alongside the block. Repeat or catheter techniques for prolonged analgesia are anaesthetic decisions.
-
-### 0.11.3 Mx – Chronic/long-term
-Document the block, agent, volume and time in the notes and on the anaesthetic record, since duration affects the peri-operative plan. Cross-refer [[L5]] Hip Pain and [[11_08a_Ortho_-_Joint_Replacements]].
-
----
-
-> [!note] Cross-references
-> Cardiac arrest and the 4 Hs and 4 Ts → [[A1]] 0.4 · Deteriorating patient recognition → [[A1]] 0.1 · Shock phenotypes and fluid decisions → [[F0.3]] · Opioid-induced respiratory depression → [[F0.1]] 0.5 · Acute asthma and COPD ventilation detail → [[F0.5]]
-
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.11 Fascia Iliaca Block` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: F0-5_Acute_Respiratory__Headache_and_Head_Injury.md ===== -->
 

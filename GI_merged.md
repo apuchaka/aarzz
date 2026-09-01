@@ -4275,6 +4275,8 @@ All 11 skips are T3, so none affects Tier 1 completeness.
 
 ## 0.36 Gastrografin (Water-Soluble Contrast Study)
 
+`CF-PAIR` **`GER8 §0.3 Gastrografin and Contrast Studies` covers the same study and is now in `[[Procedures]]`. Both kept in full, NOT reconciled. This is the `M-18` duplication, now visible from both ends.**
+
 > [!warning] FLAG 2026-09-01 — `M-18` the heading above is misleading and has been corrected below
 > **The words "OUT OF SCOPE, built in error" describe the BUILD LIST this entry came from, not this file.**
 > The content is correct, clinically useful, and belongs here with the bowel-obstruction group

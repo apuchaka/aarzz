@@ -738,23 +738,7 @@
 <!-- ===== SOURCE: 14_05d_Psych_-_Electroconvulsive_Therapy.md ===== -->
 
 
-## Electroconvulsive therapy (ECT)
-
-- **D:** psychiatric treatment where a generalised seizure is induced in a patient to manage refractory mental disorders.
-
-> [!info] Indications
-> - Refractory severe depression (~50% response rate).
-> - Life-threatening catatonia.
-> - Prolonged or severe manic episode.
-> - Prior good response.
-
-> [!info] Alternatives: transcranial magnetic stimulation; vagus nerve stimulation; deep brain stimulation.
-
-- **Other points:**
-  - Must be administered under anaesthesia with a muscle relaxant.
-  - Cognitive impairment afterwards, including retrograde and anterograde amnesia.
-  - Generally regarded as safe in pregnancy.
-
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `Electroconvulsive therapy (ECT)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 14_06a_Psych_-_Drugs_Used_in_Psychiatry.md ===== -->
 

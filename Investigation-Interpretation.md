@@ -355,6 +355,8 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ## 1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach
 
+`CF-PAIR` **THREE-WAY: `GER8 §0.5 Arthrocentesis` (now `[[Procedures]]`, the procedure) and Part 2 `## 0.6 Joint Aspiration and Synovial Fluid Interpretation` (from `MSK L1`) both cover this. All three kept in full, NOT reconciled.**
+
 `CF-PAIR` **1 section covering this topic arrived in Part 2 and was NOT merged into this one:** `0.6 Joint Aspiration and Synovial Fluid Interpretation` — from L1_Hot_and_Swollen_Joint.md. **Both copies are kept in full. Neither supersedes the other.**
 
 > [!note] Gap-filled from CSV ("Joint aspirate analysis," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — the individual synovial fluid findings for specific diagnoses are scattered throughout [[11_01_Ortho_-_Orthopaedic_Emergencies]] (Septic arthritis), [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], and [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] (Gout, Pseudogout), but never consolidated into one systematic interpretation framework — built here in the same spirit as the FBC/Blood Film and Coagulation Screen entries above.
@@ -2044,28 +2046,7 @@ Determined by the fluid and the clinical picture.
 <!-- ===== SOURCE: H1_Haematuria_and_Proteinuria.md ===== -->
 *Moved here from `Renal and Urology_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
 
-## 0.6 Renal Biopsy
-
-> [!tip] When it is indicated
-> **· Nephrotic syndrome in an ADULT without an obvious cause.**
-> **· Nephritic syndrome and any suspicion of RPGN — urgently.**
-> **· Unexplained acute kidney injury**, particularly with an active urinary sediment.
-> **· Systemic disease with renal involvement — lupus, vasculitis, myeloma, amyloid — where the histology determines treatment intensity.**
-> **· Unexplained progressive chronic kidney disease with normal-sized kidneys.**
-> **· Renal transplant dysfunction.**
-> **When it is NOT indicated: typical childhood nephrotic syndrome · typical diabetic nephropathy with a compatible history and retinopathy · and SMALL, ECHOGENIC KIDNEYS, where the disease is already irreversible and the biopsy carries risk without benefit.**
-
-> [!warning] Before and after
-> **Before: control the BLOOD PRESSURE · check FBC, coagulation and platelets · CEASE antiplatelets and anticoagulants for the appropriate interval · confirm two kidneys and their size on ultrasound · and obtain informed consent covering the bleeding risk.**
-> **After: BLEEDING is the main complication** — ranging from microscopic haematuria (common and expected) through visible haematuria to perinephric haematoma requiring transfusion or embolisation, and rarely nephrectomy. **Observation with regular observations and haemoglobin is standard.**
-> **Arteriovenous fistula formation is a recognised late complication.**
-> **The specimen is examined by LIGHT MICROSCOPY, IMMUNOFLUORESCENCE (which gives the linear/granular/pauci-immune pattern that classifies RPGN) and ELECTRON MICROSCOPY (which shows podocyte and basement membrane detail).** All three are needed, which is why the specimen must be handled correctly at collection.
-
----
-
-> [!note] Cross-references
-> Acute kidney injury, chronic kidney disease and CKD-MBD → [[H3]] · Lower urinary tract symptoms and retention → [[H2]] · Renal colic, scrotal and groin problems → [[H4]] · Vasculitis, ANCA and pulmonary-renal syndrome → [[L2]] 0.5 · Autoantibody interpretation → [[L2]] 0.6 · Lupus nephritis and urinalysis at every visit → [[L2]] 0.4 · Haemoptysis → [[A4]] 0.3 · Myeloma and light chains → [[J4]] · Rhabdomyolysis and myoglobinuria → [[A7]] 0.6 · Diabetic kidney disease → [[I2]] 0.5 · RAS blockade and the expected creatinine rise → [[CV-X]] 0.3 · Post-streptococcal disease and skin infection → [[K2]] 0.6 and [[AU1]] 0.4 · Paediatric nephrotic syndrome → [[M5]] · Hypertension → [[B2]]
-
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.6 Renal Biopsy` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: NEW_Investigations_Respiratory.md ===== -->
 *Moved here from `Resp_merged.md` on 2026-09-01. Headings verbatim and unrenumbered.*
