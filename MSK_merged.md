@@ -392,8 +392,8 @@
 - **S/Smx:** pain, pins and needles in the thumb, index and middle finger — classically worse at night, patient might shake their hand to obtain relief; weakness of thumb abduction; wasting of the thenar eminence.
 
 > [!info] Clinical tests
-> - Tinel's sign — tapping the carpal tunnel causes paraesthesia.
-> - Phalen's sign — flexion of the wrist causes symptoms.
+> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `- Tinel's sign — tapping the carpal tunnel causes paraesthesia.` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 
 - **Ix:** electrophysiology will show prolongation of the action potential.
 - **Mx:** 6-week trial of conservative treatment (corticosteroid injection, wrist splint at night). If severe or refractory, surgical decompression (flexor retinaculum division).
@@ -794,33 +794,13 @@
 <!-- ===== SOURCE: 11_07a_Ortho_-_Dermatomes_and_Myotomes_Reference.md ===== -->
 
 
-## Dermatomes — quick reference
-
-| Level | Area |
-|---|---|
-| C2 | Posterior half of the skull ("cap") |
-| C3 | High turtleneck shirt |
-| C4 | Low-collar shirt |
-| C5 | Ventral axial line of upper limb |
-| C6 | Thumb + index finger |
-| C7 | Middle finger + palm of hand |
-| C8 | Ring + little finger |
-| T4 | Nipples |
-| T5 | Inframammary fold |
-| T6 | Xiphoid process |
-| T10 | Umbilicus |
-| L1 | Inguinal ligament |
-| L2, L3 | Anterior & medial thigh |
-| L4 | Kneecaps |
-| L5 | Big toe, dorsum of foot (except lateral aspect) |
-| S1 | Lateral foot, small toe |
-| S2, S3 | Genitalia |
-
-> [!tip] Memory aids
-> - **C6:** make a "6" with your left hand by touching the tip of the thumb and index finger together.
-> - **L4:** "down on all fours" — L4.
-> - **L5:** "L5 = Largest of the 5 toes" (big toe).
-> - **S1:** "S1 = the smallest one" (small toe).
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Dermatomes — quick reference`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## Upper limb nerve roots — sensory, motor, and reflexes
 
@@ -867,25 +847,13 @@
 | Superior gluteal | None | Hip abduction | Positive Trendelenburg sign |
 | Inferior gluteal | None | Hip extension, lateral rotation | Associated with sciatic nerve injury; difficulty rising from a seated position |
 
-## Brachial Plexus Injury — Erb's Palsy vs Klumpke's Palsy
-
-> [!note] Gap-filled — genuinely absent as a dedicated entry despite Erb's palsy being mentioned in passing elsewhere in this project (as a neonatal birth injury, see [[16_08-09_Antenatal_and_Perinatal_Problems]], not repeated here) without ever explaining the classic clinical picture or contrasting it with Klumpke's palsy — a natural extension of the C5–T1 nerve root content immediately above.
-
-**The brachial plexus (C5–T1) has an upper and lower portion, and injury to each produces a genuinely distinct, classically-tested clinical picture:**
-
-| | Erb's (Erb–Duchenne) palsy | Klumpke's palsy |
-|---|---|---|
-| **Roots involved** | Upper plexus — C5–C6 (± C7) | Lower plexus — C8–T1 (± C7) |
-| **Mechanism** | Excessive **increase** in the angle between shoulder and neck — forced lateral neck flexion away from the shoulder, or shoulder depression | Excessive **arm abduction** ("hyperabduction traction") — e.g. reaching overhead and being pulled, or breech extraction in obstetric cases |
-| **Classic causes** | Shoulder dystocia/difficult vaginal delivery (most common obstetric cause — genuinely the **more common** of the two obstetric brachial plexus injuries, with the better spontaneous-recovery prognosis); motorcycle accidents; traction injuries ("stinger"/"burner" in contact sports) | Rare in obstetric palsy specifically (usually from arm-first/breech presentation with subsequent traction); adult traumatic hyperabduction injuries |
-| **Classic posture/deformity** | **"Waiter's tip"** — arm adducted, internally rotated, elbow extended, wrist and fingers flexed (biceps/deltoid/brachialis weakness — "can't lift the arm to wave") | **"Claw hand"** — the intrinsic hand muscles are affected (same appearance as the ulnar/median nerve claw-hand pattern described above, since these lower plexus roots feed those same distal nerves) |
-| **Reflex** | Absent biceps reflex (C5–C6) | Reflexes largely preserved (the affected roots don't carry major upper-limb reflexes) |
-| **A genuinely important associated finding** | — | **Horner's syndrome** may co-occur if the injury is proximal enough to involve the T1 sympathetic fibres — the same anatomical link already established in the T1 nerve root entry above, not repeated here |
-
-**Ix:** clinical diagnosis based on the pattern of weakness/deformity above; nerve conduction studies/EMG and MRI of the plexus for more detailed localisation or when surgical planning is being considered.
-
-**Mx:** many cases (particularly obstetric Erb's palsy) **recover spontaneously with time** — physiotherapy/occupational therapy to maintain range of motion while awaiting recovery is the mainstay of initial management; surgical exploration and repair (nerve grafting, tendon transfers) is considered for severe injuries or those failing to show adequate recovery by around 3–6 months, given delayed surgical intervention is associated with poorer functional outcomes.
-
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Brachial Plexus Injury — Erb's Palsy vs Klumpke's Palsy`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 11_07b_Ortho_-_Osteomyelitis__Osteochondritis_Dissecans__Fat_Embolism__Charcot_Joint__Osteomalacia.md ===== -->
 

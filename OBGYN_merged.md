@@ -4917,60 +4917,13 @@ Conservative management first — **supervised pelvic floor physiotherapy, pessa
 
 ---
 
-## 0.1 The Sexual History and STI Assessment
-
-> [!warning] FLAG 2026-09-01 — the sexual history exists in three files
-> Here (the "five Ps" and the normalising script) · `Infectious Disease_merged 08_08 ## The STI Check —
-> Sexual History, What to Test, and When` + `### Taking a sexual history` ·
-> `MSK_merged NEW_Inv_Ortho §0.18 STI Screening (Asymptomatic Sexual Health Check)`.
-> **`O6` has 23 inbound references and only 2 internal** — GI ×6, ID ×5, Neuro ×4, Paediatrics — so this
-> is already the de facto owner. **A history-taking framework, flagged for `History-Taking.md`;
-> not moved.**
-
-> [!tip] Structure it, normalise it, and do not assume
-> **Normalise before asking:** "I ask everyone these questions because they're important for your health — is that alright?" This single sentence changes the encounter.
-> **Do not assume the gender of partners, the type of sex, or that a person is or is not sexually active.** Ask.
-> **The "five Ps" structure it:**
-> **· Partners** — number, gender, and whether they are regular or casual, and any overseas or travel-related contact.
-> **· Practices** — **vaginal, anal, oral — receptive and insertive.** This is not prurience: **it determines which sites you swab**, and getting it wrong means missing the infection.
-> **· Protection** — condom use, consistently or occasionally, and with whom.
-> **· Past history of STIs.**
-> **· Prevention of pregnancy** — contraception, and whether pregnancy is desired.
-> **Also: symptoms, last test, vaccination status (HPV, hepatitis A and B), injecting drug use, sex work, and — always — whether all sexual contact has been wanted and consensual.**
-
-> [!danger] Site-specific testing — a genital swab misses most extragenital infection
-> **Most rectal and pharyngeal chlamydia and gonorrhoea are ASYMPTOMATIC**, and **testing only the urine or the cervix misses them entirely.**
-> **Test the sites of exposure**, which is why the "practices" question matters.
-> **Self-collected specimens are as sensitive as clinician-collected for chlamydia and gonorrhoea NAAT** — a **self-collected vaginal swab** and a **first-void urine** in men — and acceptability is far higher, which increases uptake.
-> **First-void means the first part of the stream, and the patient should not have passed urine for a period beforehand** — instructions matter or the test underperforms.
-
-> [!warning] Confidentiality — and being accurate about its limits
-> **Say what confidentiality means, including its limits**, rather than promising absolute secrecy you cannot deliver.
-> **Notifiable diseases are notified. Contact tracing occurs. Child protection obligations apply.**
-> **For adolescents, confidentiality is central to whether they attend at all** — and capacity to consent is assessed by maturity and understanding rather than age alone. **South Australia also has statutory provisions on the age of consent to medical treatment.** Cross-refer [[A10]] 0.1. **Be clear about what you would need to share and why**, and involve them in that decision where possible.
-
-> [!danger] Contact tracing and notification are a core competency, not someone else's job
-> **Chlamydia, gonorrhoea, syphilis, HIV and hepatitis are notifiable.**
-> **Partner notification prevents reinfection and onward transmission**, and it can be done by **patient referral** (the person tells their contacts), **provider referral** (the clinician or public health unit does), or **contract referral**.
-> **Australian tools exist to make this easier** — anonymous SMS and email notification services — and knowing they exist and offering them is practical and effective. `UNVERIFIED — current services and their names.`
-> **Look back periods differ by infection**, and the sexual health service or public health unit will advise.
-
-> [!warning] The Australian epidemiology that changes practice
-> **Rates of chlamydia, gonorrhoea and infectious syphilis are substantially higher in some remote Aboriginal and Torres Strait Islander communities**, and there has been a **sustained infectious syphilis outbreak across northern and central Australia, with cases of CONGENITAL SYPHILIS** — a condition that should not occur where antenatal screening and treatment are accessible.
-> **The practical consequences: a lower testing threshold, opportunistic screening, repeat syphilis screening in pregnancy in high-prevalence settings rather than a single test, and prompt treatment.** Cross-refer [[AU1]] and [[O2]]. `UNVERIFIED — the current outbreak status and the recommended antenatal retesting schedule.`
-
-**Ix:** **Chlamydia and gonorrhoea NAAT from all exposed sites** (*why:* extragenital infection is common and asymptomatic; *what:* positive NAAT). **Gonorrhoea CULTURE where positive or symptomatic, before treatment** (*why:* **NAAT does not give antimicrobial sensitivities, and gonorrhoea resistance is a growing and serious problem — culture is what allows resistance to be tracked and treatment adjusted**; *what:* organism and sensitivities). **Syphilis serology** (*why:* rising incidence, protean presentations, and it is easily treated; *what:* treponemal and non-treponemal results). **HIV testing** (*why:* offer broadly rather than selectively; *what:* fourth-generation assay — cross-refer [[K3]] 0.4). **Hepatitis B serology, and hepatitis C where risk factors** (*why:* vaccination status, chronic infection, and hepatitis C is now curable; *what:* serology). Pregnancy test where relevant (*why:* changes management and drug choice; *what:* positive). **Repeat testing after the window period** (*why:* early infection may not yet be detectable, and a negative test taken too soon gives false reassurance; *what:* seroconversion — `UNVERIFIED — window periods for each infection`).
-
-### 0.1.1 Mx – Immediate
-Empirical treatment where the presentation is symptomatic and follow-up is uncertain — **treating presumptively is often correct in sexual health**, since the cost of overtreatment is low and loss to follow-up is common.
-
-### 0.1.2 Mx – Definitive
-Pathogen-specific treatment, partner notification, and notification.
-
-### 0.1.3 Mx – Chronic/long-term
-**Retesting for reinfection**, which is common. Vaccination (HPV, hepatitis A and B). **Discuss PrEP where there is ongoing HIV risk** — cross-refer [[K3]] 0.2.
-
----
+> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 The Sexual History and STI Assessment`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 The Major Sexually Transmissible Infections
 
@@ -5239,44 +5192,13 @@ Specialist paediatric endocrine referral for precocious or pathological delayed 
 
 ---
 
-## 0.1 Triple Assessment
-
-> [!danger] Triple assessment means all three components, and they must be CONCORDANT
-> **1. CLINICAL assessment — history and examination.**
-> **2. IMAGING — ultrasound and/or mammography, chosen by age.**
-> **3. PATHOLOGY — core biopsy.**
-> **The critical principle is CONCORDANCE. If any one component is suspicious and the others are not, the case is NOT closed.**
-> **A benign biopsy result in a clinically or radiologically suspicious lump means the biopsy may have missed the lesion — it does not mean the lump is benign.** **Escalate: repeat sampling, excision biopsy, or multidisciplinary discussion.**
-> **Discordance is the mechanism by which cancers are missed after a "normal" biopsy**, and recognising it is the single most important safety concept in breast assessment.
-
-> [!tip] Imaging is chosen by age, because breast density changes
-> **· Younger women (broadly under 35–40) — ULTRASOUND first.** Dense glandular tissue makes mammography insensitive, and the yield of malignancy is low.
-> **· Older women — MAMMOGRAPHY plus ULTRASOUND.**
-> **· MRI — for high-risk screening (BRCA carriers, chest irradiation), assessing disease extent particularly in LOBULAR carcinoma, and for implant assessment.**
-> `UNVERIFIED — the age thresholds.`
-> **CORE BIOPSY is preferred over fine needle aspiration**, because it provides tissue architecture (distinguishing invasive from in situ disease), grade, and **receptor status (ER, PR, HER2)** — all of which determine treatment. **FNA retains a role for cyst aspiration and for lymph node sampling.**
-
-> [!warning] Take the family history properly — it changes the pathway
-> **The features that suggest a hereditary predisposition:**
-> **· Multiple affected relatives on the SAME side of the family.**
-> **· YOUNG age at diagnosis (particularly under 50).**
-> **· BILATERAL breast cancer.**
-> **· MALE breast cancer — a strong indicator, particularly of BRCA2.**
-> **· OVARIAN cancer in the family, and breast plus ovarian in the same person or family.**
-> **· Ashkenazi Jewish ancestry.**
-> **· Known familial mutation.**
-> **These warrant referral to a familial cancer service**, because the implications extend to surveillance, risk-reducing surgery, treatment choice (PARP inhibitors) and cascade testing of relatives.
-
-> [!tip] Risk factors — dominated by age and oestrogen exposure
-> **· AGE — the dominant risk factor by a wide margin.**
-> **· Family history and germline mutations (BRCA1, BRCA2, PALB2 and others).**
-> **· Lifetime oestrogen exposure — early menarche, late menopause, nulliparity, later first pregnancy, and menopausal hormone therapy.**
-> **· Previous breast biopsy showing ATYPIA or lobular carcinoma in situ.**
-> **· Previous CHEST RADIOTHERAPY, particularly for lymphoma in adolescence — these women need early, intensive surveillance and it is frequently overlooked.**
-> **· Dense breast tissue · ALCOHOL · obesity after menopause · physical inactivity.**
-> **Protective: parity, BREASTFEEDING, and physical activity.**
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 Triple Assessment`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Breast Lump
 

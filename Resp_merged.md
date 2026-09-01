@@ -1171,15 +1171,14 @@ Encompasses BiPAP, CPAP, etc.
 > **IMMUNOSUPPRESSION IS HARMFUL IN IPF.** A landmark trial of combined prednisolone, azathioprine and N-acetylcysteine was stopped early because of **increased mortality and hospitalisation in the treatment arm.**
 > **So the reflex to give corticosteroids for "lung inflammation" is actively dangerous in IPF** — which is precisely why distinguishing fibrotic from inflammatory ILD matters, and why this is a specialist multidisciplinary diagnosis rather than one to make and treat alone. `UNVERIFIED — antifibrotic agents, PBS criteria and monitoring.`
 
-> [!warning] Hypersensitivity pneumonitis — take the exposure history properly
-> **An immune response to an inhaled organic antigen**, producing acute, subacute or chronic disease. **Chronic forms can be fibrotic and mistaken for IPF.**
-> **The antigen is found only by asking, in detail:**
-> **· BIRDS — including a neighbour's aviary, feather bedding and down duvets, which patients do not consider "bird exposure".**
-> **· MOULD — damp housing, water damage, humidifiers, air conditioning, hot tubs and spa baths.**
-> **· Occupational — farming (mouldy hay), mushroom growing, woodworking, metalworking fluids.**
-> **· Hobbies — cheese making, malting, gardening compost.**
-> **Ask what changed in the months before symptoms began, and ask whether symptoms improve on holiday or away from home** — that question is as useful here as it is in occupational asthma.
-> **Removal of the antigen is the treatment**, and it can arrest or reverse the disease — which makes finding it disproportionately valuable.
+> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Hypersensitivity pneumonitis — take the exposure history properly`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
 
 > [!warning] The drugs that cause ILD
 > **· AMIODARONE — dose- and duration-related, can occur years in, and may progress after cessation because of the very long half-life.**
@@ -1211,10 +1210,8 @@ Encompasses BiPAP, CPAP, etc.
 
 ## 0.2 Occupational Lung Disease
 
-> [!danger] Ask the occupational history — it is systematically not taken
-> **"What do you do for work? What have you done in the past — including holiday and student jobs? What are you exposed to? Does anyone else at work have the same symptoms? Are you better on days off or on holiday?"**
-> **Occupational lung disease is missed because the question is not asked**, and by the time it is, the exposure has continued for years and the damage is irreversible.
-> **The latency can be decades**, so a current desk job does not exclude an occupational cause.
+> [!note] **Moved to `[[History-Taking]]` Part 2 (2026-09-01):** `Ask the occupational history — it is systematically not taken` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 
 > [!danger] Accelerated silicosis from engineered stone — an Australian public health failure
 > **Engineered (artificial) stone benchtops contain a very high proportion of crystalline silica. Dry cutting and grinding generates respirable silica dust in enormous concentrations.**

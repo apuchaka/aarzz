@@ -8,34 +8,13 @@
 
 ---
 
-## 0.1 The Deteriorating Patient — Recognition
-
-**D:** Physiological decline in a ward inpatient that precedes arrest or ICU transfer, usually detectable in observations hours beforehand.
-
-**R/Causes:** Post-operative day 1–3, recent ICU step-down, age, frailty, sepsis, opioid or sedative administration, new oxygen requirement, missed or incomplete observation rounds, out-of-hours and weekend admission, language barrier or delirium limiting symptom reporting.
-
-**A/P:** Physiological insult → compensation (tachycardia, tachypnoea, vasoconstriction) maintains normal BP and conscious state → compensatory reserve exhausted → hypotension and altered mentation appear late → tissue hypoperfusion → organ failure → arrest. The clinical point: **blood pressure falls last.** Respiratory rate rises first and is the single most predictive and most commonly unrecorded observation.
-
-**S/Smx:** Rising respiratory rate, new or increasing oxygen requirement, tachycardia, narrowing pulse pressure, falling urine output, new confusion or agitation, "just not right" from nursing staff or family. The last of these carries genuine predictive weight and is a formal escalation criterion in most Australian track-and-trigger systems.
-
-> [!danger] The three that get missed
-> **Rising respiratory rate with a normal saturation** — compensation, not reassurance. **New confusion in an older patient** — assume hypoxia, hypoglycaemia or sepsis before assuming delirium. **A single grossly abnormal observation** — one red-zone parameter triggers escalation on its own; you do not need a total score.
-
-> [!info] Track-and-trigger
-> Australian hospitals use a colour-zoned observation chart with graded escalation (nursing review → registrar → rapid response/MET). Zone boundaries and the MET call criteria differ between health networks. `UNVERIFIED — do not memorise generic numbers; obtain the observation chart and MET criteria for your own health network, as these are what you will be examined and audited against.`
-
-**Ix:** Full set of vital signs including respiratory rate counted for a full minute and conscious state (*why:* the escalation decision is made on observations, not on tests, and an estimated respiratory rate is the commonest source of a missed deterioration; *what:* rising RR, widening trend across the chart rather than a single reading). Bedside glucose (*why:* hypoglycaemia is instantly reversible and mimics almost every neurological deterioration; *what:* low value demanding immediate treatment). VBG or ABG with lactate (*why:* separates a compensating patient from one already in anaerobic metabolism, and gives CO₂ which pulse oximetry cannot; *what:* rising lactate, or a rising CO₂ signalling ventilatory failure in a patient who looks merely drowsy). FBC, UEC, CRP (*why:* baseline organ function and infective marker to direct the search for a cause; *what:* new renal impairment, leucocytosis or leucopenia). Blood cultures before antibiotics if infection is plausible (*why:* yield falls sharply once antibiotics are given; *what:* organism and sensitivities). ECG (*why:* arrhythmia and ischaemia are silent causes of deterioration in the elderly and diabetic; *what:* new arrhythmia, ischaemic change). Erect CXR (*why:* pneumonia, pulmonary oedema and pneumothorax are the highest-frequency ward causes of a new oxygen requirement; *what:* consolidation, effusion, upper-lobe diversion, absent lung markings).
-
-### 0.1.1 Mx – Immediate
-A–E assessment at the bedside before any investigation. Airway patency, oxygen titrated to target saturation, IV access, fluids or vasopressor decision per [[A1]] 0.2 if sepsis is suspected, bedside glucose, and escalation according to local criteria. Escalate *while* assessing, not after — the call is not a failure of your own assessment. Document the trigger, the time, who was called, and the response.
-
-### 0.1.2 Mx – Definitive
-Directed at the identified cause. The parallel task is a resuscitation-status and goals-of-care conversation if none is documented: deterioration is the point at which an undocumented ceiling of care causes harm in both directions. See [[A10]] Capacity Concern and Treatment Refusal.
-
-### 0.1.3 Mx – Chronic/long-term
-Post-event review, incident documentation, and where relevant an ICU outreach follow-up. Structured handover using ISBAR at every transition of care.
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 The Deteriorating Patient — Recognition`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 SIRS, Sepsis and Septic Shock — Definitions
 
@@ -3053,39 +3032,13 @@ Definitive management of the underlying obstruction. Interval cholecystectomy fo
 
 ---
 
-## 0.1 The A–E Approach
-
-**D:** A sequential assessment framework that treats life threats in the order they kill, and that is restarted from the top after every intervention and every deterioration.
-
-**A/P:** The ordering is physiological, not arbitrary — an obstructed airway kills in minutes, inadequate breathing in slightly longer, circulatory failure over longer again. Assessing in this order guarantees the fastest-killing problem is addressed first, and **restarting from A after each intervention** catches the deterioration your treatment caused.
-
-> [!tip] The sequence
-> **A — Airway:** patent, threatened or obstructed? Talking normally means patent. Stridor, gurgling, snoring or silence with effort mean it is not.
-> **B — Breathing:** rate, effort, saturation, air entry, percussion, trachea. Give oxygen.
-> **C — Circulation:** heart rate, blood pressure, capillary refill, JVP, peripheral temperature. IV access, fluids, bleeding control.
-> **D — Disability:** conscious level, pupils, **glucose**, focal deficit.
-> **E — Exposure:** expose fully, look at the back, temperature, rashes, wounds, drains, lines.
-
-> [!info] The F and G vary by context
-> The extension to **ABCDEFG** is not standardised. In paediatric teaching it usually adds **Fluids and Glucose**, captured by the mnemonic **"DEFG — Don't Ever Forget Glucose"**. Other sources use F for Family or Fluids and G for Glucose or Goals of care. `UNVERIFIED — confirm which expansion your curriculum and examiners use; do not assume the one you learned is universal.`
-
-> [!danger] Three rules that get broken
-> **Do not move past a letter until it is addressed.** A cannula is not more urgent than an obstructed airway, however uncomfortable the pause feels.
-> **Restart at A after every intervention and every change.** Deterioration after treatment is common and the framework only works if it loops.
-> **Call for help at the point you recognise the problem, not after you have finished assessing it.** Both can happen at once.
-
-**Ix:** Full vital signs with a manually counted respiratory rate (*why:* respiratory rate rises first and is the most predictive and most frequently estimated observation; *what:* rising trend across the chart). Bedside glucose (*why:* the D of the sequence, instantly reversible, and mimics every neurological catastrophe; *what:* hypoglycaemia). VBG with lactate (*why:* quantifies perfusion and ventilation faster than any other single test; *what:* acidosis, raised lactate, raised CO₂). ECG (*why:* arrhythmia and ischaemia as silent causes; *what:* rhythm, ischaemic change). Directed further investigation once the sequence identifies where the problem sits.
-
-### 0.1.1 Mx – Immediate
-Treat each abnormality as it is found, before moving on. Escalate while assessing.
-
-### 0.1.2 Mx – Definitive
-Directed at the cause identified. Cross-refer [[A1]] 0.1 The Deteriorating Patient.
-
-### 0.1.3 Mx – Chronic/long-term
-Documentation, structured handover with ISBAR, and review of whether the deterioration was preventable.
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 The A–E Approach`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Basic Life Support
 

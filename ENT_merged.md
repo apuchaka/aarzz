@@ -873,41 +873,13 @@
 
 ---
 
-## 0.1 Examining the Ear and Assessing Hearing
-
-> [!tip] Otoscopy — and the part of the drum everyone forgets
-> **· PULL THE PINNA UP AND BACK IN ADULTS, DOWN AND BACK IN INFANTS AND YOUNG CHILDREN** — the infant canal runs in a different direction, and pulling the wrong way obscures the view.
-> **· Use the LARGEST speculum that comfortably fits (it gives more light and a wider view), hold the otoscope like a pen, and rest your hand against the patient's head so that a sudden movement moves the scope with them.**
-> **· EXAMINE THE UNAFFECTED EAR FIRST** — it establishes what normal looks like in that patient and it is less painful.
-> **· Be systematic: the pinna and post-auricular area · the CANAL (wax, debris, oedema, discharge, granulation) · then the DRUM — colour, translucency, the light reflex, position (bulging or retracted), mobility, perforation, and any fluid or bubbles behind it.**
-> **AND LOOK AT THE ATTIC — THE PARS FLACCIDA — EVERY TIME.**
-> **The pars flaccida sits above the lateral process of the malleus, it is small, it is easy to skip, and it is WHERE CHOLESTEATOMA HIDES.** **A retraction pocket or crust in the attic is the finding that matters, and it is missed by clinicians who look only at the pars tensa.** See 0.3.
-
-> [!danger] Tuning fork tests — and the false negative Rinne
-> **Use a 512 Hz fork.**
-> **RINNE — compare air conduction (beside the ear) with bone conduction (on the mastoid):**
-> **· AC > BC ("Rinne positive") = NORMAL or SENSORINEURAL loss.**
-> **· BC > AC ("Rinne negative") = CONDUCTIVE loss in that ear.**
-> **WEBER — fork on the vertex or forehead, ask where the sound is heard:**
-> **· Lateralises TOWARDS a CONDUCTIVE loss.**
-> **· Lateralises AWAY FROM a SENSORINEURAL loss.**
-> **THE TRAP — THE FALSE NEGATIVE RINNE: in SEVERE UNILATERAL SENSORINEURAL loss, the bone-conducted sound crosses the skull and is heard by the OPPOSITE, normal cochlea — so the test appears to show BC > AC, mimicking a conductive loss.**
-> **THE WEBER RESOLVES IT: in a true conductive loss the Weber lateralises TO the affected ear; in a dead ear with a false negative Rinne it lateralises AWAY from it.**
-> **Always do both tests together, and interpret them together.** **This matters most in sudden hearing loss — see 0.5.**
-
-> [!tip] The other assessments, and how to talk to a hearing-impaired patient
-> **· WHISPERED VOICE TEST — a reasonable bedside screen: mask the other ear, stand behind the patient at arm's length, and whisper a combination of numbers and letters after a full exhalation.**
-> **· PURE TONE AUDIOMETRY with air and bone conduction — the formal test, distinguishing conductive from sensorineural and quantifying the loss.**
-> **· TYMPANOMETRY — measures middle ear compliance. A FLAT (type B) trace indicates middle ear fluid or a perforation; a negative-pressure (type C) trace indicates Eustachian tube dysfunction.** `UNVERIFIED — the classification and normal values.`
-> **· Always also examine the NOSE, THROAT, NECK for lymphadenopathy, and the CRANIAL NERVES — particularly the facial nerve.**
-> **COMMUNICATING WITH A HEARING-IMPAIRED PATIENT — practical and consistently done badly:**
-> **· FACE THEM, at their level, with your face in good light so they can lip-read. Do not talk while looking at the notes or the screen, and do not talk from behind or while wearing a mask if it can be avoided.**
-> **· SPEAK CLEARLY AND SLIGHTLY MORE SLOWLY — do NOT SHOUT, which distorts speech and looks aggressive.**
-> **· REDUCE BACKGROUND NOISE — turn off the television, close the door, move away from the nurses' station.**
-> **· CHECK THE HEARING AID IS IN, TURNED ON, AND HAS A WORKING BATTERY.** **Hearing aids left in the locker are a routine and preventable cause of "confusion" in hospitalised older people, and they contribute directly to delirium.** Cross-refer [[D2]] 0.2.
-> **· WRITE DOWN key information, and confirm understanding.**
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 Examining the Ear and Assessing Hearing`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Otalgia
 

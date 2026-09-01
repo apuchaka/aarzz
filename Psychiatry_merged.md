@@ -1130,31 +1130,13 @@ Where a person is unable to manage their own health, safety, or welfare more bro
 
 ---
 
-## 0.1 Psychiatric Assessment and the Mental State Examination
-
-> [!tip] The MSE is an EXAMINATION, not a history
-> **It describes what you observe and elicit in the room, at this moment** — in the same way a cardiovascular examination describes what you find on this occasion.
-> **What the patient reports about last week belongs in the history. What they say and do now belongs in the MSE.**
-> **Write it descriptively, so another clinician could picture the encounter** — "sat with head lowered, made brief eye contact when addressed, spoke in short sentences with long pauses" tells the reader more than "flat affect".
-
-> [!info] The components
-> **· APPEARANCE AND BEHAVIOUR** — grooming, dress, nutritional state, psychomotor activity (retardation or agitation), eye contact, rapport, cooperation, and **abnormal movements: extrapyramidal side effects, tardive dyskinesia, tremor, catatonic features.**
-> **· SPEECH** — rate, rhythm, volume, quantity, tone. **Pressured** speech, **poverty** of speech, latency of response, and dysarthria or dysphasia, which point to an organic cause.
-> **· MOOD AND AFFECT** — **MOOD is the patient's SUBJECTIVE report, ideally in their own words. AFFECT is your OBJECTIVE observation** — range (full, restricted, blunted, flat), reactivity, and congruence with stated mood and with content.
-> **· THOUGHT FORM** — how thinking is organised: **circumstantiality, tangentiality, flight of ideas, loosening of associations, thought blocking, neologisms, perseveration.**
-> **· THOUGHT CONTENT** — **delusions** (persecutory, grandiose, nihilistic, somatic, of reference, of control; **mood-congruent or incongruent**), overvalued ideas, obsessions, ruminations, and **suicidal or homicidal ideation, which must be actively asked about and documented.**
-> **· THOUGHT POSSESSION** — insertion, withdrawal, broadcasting.
-> **· PERCEPTION** — **hallucinations, specifying the modality.** **Auditory hallucinations in the second person ("you are worthless") or third person (voices discussing the patient) are more typical of primary psychiatric illness; VISUAL, olfactory and tactile hallucinations should raise an ORGANIC cause.** Also illusions, depersonalisation and derealisation.
-> **· COGNITION** — orientation, attention and concentration, memory; formal testing where indicated.
-> **· INSIGHT AND JUDGEMENT** — **not binary.** Describe: does the person recognise something is wrong, do they attribute it to illness, do they see a need for treatment, and can they weigh options? These can be present in one respect and absent in another.
-
-> [!danger] Collateral history is not optional, and neither is the physical examination
-> **Collateral from family, carers, the GP, the community team, previous records and ambulance staff frequently changes the assessment entirely** — particularly regarding timeline, baseline function, substance use and risk.
-> **Obtain it, with consent where possible — and in an emergency, obtaining information necessary to assess risk is generally justified without it.** Document what you did and why.
-> **EVERY psychiatric presentation requires observations, a physical examination and a targeted medical assessment.** See 0.6.
-> **Attributing new symptoms to a known psychiatric diagnosis without examining the patient is DIAGNOSTIC OVERSHADOWING**, and it is a documented cause of missed serious illness and premature death in people with mental illness. Cross-refer [[AU1]] 0.5.
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 Psychiatric Assessment and the Mental State Examination`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Risk Assessment
 

@@ -2847,13 +2847,14 @@
 > `UNVERIFIED — the clinical grading of dehydration severity.`
 
 > [!warning] Talking to children, and to their parents
-> **· Get down to the child's level, introduce yourself to THEM, and explain what you are doing in words they understand.**
-> **· Do the least distressing parts of the examination first and the ears and throat last.**
-> **· Use DISTRACTION — a parent's phone, bubbles, a toy, counting — which measurably reduces distress and improves cooperation.**
-> **· Keep the parent close, and use them: a child examined on a parent's lap tolerates far more than one on a couch.**
-> **· Be honest about whether something will hurt.** A child who is told "this won't hurt" and then hurt does not trust the next clinician, and that has consequences for years.
-> **· Involve older children and adolescents directly in the conversation rather than talking over them.** Cross-refer [[M7]].
-> **· Explain to parents what you are looking for, what the plan is, and — critically — WHAT SHOULD MAKE THEM RETURN.** **Safety-netting is part of the treatment**: give specific, concrete return criteria rather than "come back if you're worried".
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `**· Get down to the child's level, introduce yourself to THEM, and`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
 
 > [!tip] Two things to consider at every paediatric presentation
 > **1. SAFEGUARDING.** Not as an accusation, but as a routine consideration — the history, the developmental fit, the delay, the interaction, and the child's demeanour. Cross-refer [[M6]].
@@ -3978,27 +3979,13 @@
 
 ---
 
-## 0.2 The HEEADSSS Psychosocial Assessment
-
-> [!info] The domains
-> **· H — HOME.** Who lives at home, relationships, recent moves or changes, safety, who they can talk to, whether they have ever had to leave.
-> **· E — EDUCATION and EMPLOYMENT.** School, performance and any CHANGE in it, engagement, bullying (giving and receiving), suspensions, plans, part-time work.
-> **· E — EATING.** Eating patterns, body image, weight concerns, dieting, exercise, food security. Cross-refer [[N8]] 0.1.
-> **· A — ACTIVITIES.** Friends, hobbies, sport, what they do outside school, ONLINE life and screen use.
-> **· D — DRUGS.** Tobacco and VAPING, alcohol, cannabis and other substances — including energy drinks and supplements. Cross-refer [[N2]].
-> **· S — SEXUALITY.** Relationships, sexual activity, orientation and gender identity, contraception, STI risk, consent and coercion. Cross-refer [[O6]].
-> **· S — SUICIDE, self-harm and mental health.** Mood, sleep, anhedonia, self-harm, suicidal thoughts. Cross-refer [[N1]] 0.3.
-> **· S — SAFETY.** Violence at home or outside, injury, seatbelts and helmets, driving and passenger behaviour, weapons, abuse, online safety.
-
-> [!tip] The technique matters more than the checklist
-> **· MOVE FROM LEAST TO MOST SENSITIVE.** Home and school first, drugs, sexuality and suicide later, once rapport exists. Asking about suicide in the first minute does not work.
-> **· USE THIRD-PERSON NORMALISING FRAMING:** "a lot of people your age have tried vaping — has that been something you've come across?" **This lowers the threshold to disclosure by removing the implication of judgement.**
-> **· ASK PERMISSION for the sensitive domains** — "is it OK if I ask you some questions about relationships?"
-> **· ASK DIRECTLY once you get there.** Euphemism produces euphemistic answers.
-> **· ASK ABOUT ONLINE LIFE SPECIFICALLY — cyberbullying, image sharing and image-based abuse, online contact from adults, gambling, and content. This is where a large part of adolescent social life and adolescent risk now sits, and it is routinely not asked about.**
-> **· ASK ABOUT PROTECTIVE FACTORS: connectedness to family, to school, to a sports team or community group, and a trusted adult.** **Connectedness is one of the strongest protective factors against adolescent morbidity and is worth actively strengthening.**
-
----
+> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.2 The HEEADSSS Psychosocial Assessment`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.3 Confidentiality, Consent and the Mature Minor
 

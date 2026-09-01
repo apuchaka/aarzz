@@ -194,56 +194,13 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 
 ---
 
-## 0.5 Pre-Operative Assessment
-
-> [!warning] FLAG 2026-09-01 — this file already defers to `Examination.md` in one place and duplicates it here
-> **`Anaes_merged.md:23` says *"See [[Examination]] Pre-Anaesthetic Assessment (Airway + Fitness for
-> Anaesthesia)"*** — and `Examination.md §1.12` carries that title. This section, and
-> `AN1 §0.1 Preoperative Assessment` and `§0.2 Airway Assessment and Anaesthetic Technique`, duplicate it.
-> **The file has made the deferral once and not the second time.** Flagged, nothing moved.
-
-> [!note] Gap-filled from CSV ("Pre operation assessment," Medium yield) — genuinely absent despite being fundamental to safe anaesthetic practice; the ASA classification and fasting guidance were already referenced elsewhere in this source but the assessment framework itself was never built.
-
-**D:** the systematic clinical evaluation of a patient before anaesthesia/surgery, aiming to identify factors that increase perioperative risk, optimise modifiable conditions where possible, and plan the anaesthetic approach accordingly.
-
-**History:**
-- **Presenting surgical condition** and planned procedure — informs anaesthetic technique, positioning, expected blood loss/fluid shifts, and duration.
-- **Past anaesthetic history** — previous anaesthetics and any complications (difficult intubation, PONV, awareness, prolonged recovery), family history of anaesthetic complications (specifically screening for malignant hyperthermia susceptibility — see General Anaesthesia above for the fuller detail on this emergency, not repeated here — and pseudocholinesterase deficiency, relevant to suxamethonium metabolism).
-- **Medical comorbidities** — cardiovascular, respiratory, renal, hepatic, and endocrine disease all carry specific perioperative implications; diabetes specifically has a comprehensive dedicated management pathway — see [[06_Metabolic_Medicine_and_Endocrinology]] Perioperative Diabetes Management for the full AU-verified detail (the ADS-ANZCA national guideline), not repeated here.
-- **Medications** — full medication reconciliation, since several classes need specific perioperative adjustment (anticoagulants, antiplatelets, diabetes medications, and others) — see General Anaesthesia above for the AU-verified DOAC/warfarin perioperative timing and bridging detail, not repeated here.
-- **Allergies** — drug allergies specifically, and any history of anaphylaxis under a previous anaesthetic (raising suspicion for a specific anaesthetic-related allergen, e.g. neuromuscular blocking agents, latex, or chlorhexidine).
-- **Fasting status** — see the "Sip Til Send" ANZCA PG07 (2024) guidance already established elsewhere in this source, not repeated here.
-- **Airway history** — previous difficult intubation, obstructive sleep apnoea, limited neck mobility, dental issues — directly informs airway management planning.
-- **Social history** — smoking (increases perioperative respiratory complication risk; cessation even shortly before surgery has some benefit), alcohol use (relevant to withdrawal risk and anaesthetic drug interactions), and functional capacity (a practical, low-cost way to estimate cardiovascular reserve — the ability to climb ≥2 flights of stairs or achieve ≥4 METs of exertion without symptoms is a widely used threshold suggesting adequate reserve for most non-cardiac surgery without further cardiac work-up).
-
-**Examination:** general examination with particular attention to the airway (see Airway Adjuncts above for the specific airway assessment features relevant to predicting a difficult airway, not repeated here), cardiovascular and respiratory systems, and any specific findings relevant to the planned procedure or identified comorbidities.
-
-> [!info] ASA Physical Status Classification — a widely used, simple system summarising overall perioperative risk, referenced throughout this source
-> **ASA I:** normal healthy patient | **ASA II:** mild systemic disease (e.g. well-controlled hypertension, smoker) | **ASA III:** severe systemic disease, not life-threatening (e.g. poorly controlled diabetes, stable angina) | **ASA IV:** severe systemic disease that is a constant threat to life (e.g. recent MI, severe heart failure) | **ASA V:** moribund, not expected to survive without the operation | **ASA VI:** declared brain-dead, organs being harvested. An "E" suffix denotes emergency surgery, which independently increases risk regardless of the underlying ASA class.
-
-**Ix:** investigations should be **targeted to the history/examination findings and the planned procedure, not ordered routinely/reflexively** — a genuinely important modern principle, since indiscriminate pre-operative testing in low-risk patients undergoing low-risk procedures doesn't improve outcomes and can generate false-positive findings that delay surgery unnecessarily. Common targeted investigations include:
-- **FBC** — if anaemia is suspected, significant blood loss is anticipated, or as a baseline before major surgery.
-- **U&Es** — if renal impairment is known/suspected, in patients on medications affecting electrolytes (diuretics, ACEI/ARB), or before major surgery with expected significant fluid shifts.
-- **Coagulation studies** — if a bleeding history is present, the patient is anticoagulated, or significant blood loss is anticipated.
-- **Group & hold/crossmatch** — see Group & Hold / Crossmatch below for the fuller detail, not repeated here.
-- **ECG** — for patients with known cardiac disease, significant cardiovascular risk factors, or as a baseline before major surgery, particularly in older patients.
-- **HbA1c/glucose** — see the diabetes screening detail in [[06_Metabolic_Medicine_and_Endocrinology]] Perioperative Diabetes Management, not repeated here.
-- **Pregnancy test** — for people of childbearing potential, given the implications for anaesthetic drug choice and timing.
-- **Further cardiac/respiratory work-up** (e.g. echocardiogram, spirometry, cardiology/respiratory referral) — reserved for patients with reduced functional capacity, significant symptoms, or high-risk surgery, rather than routine screening.
-
-**Optimisation:** the pre-operative assessment is also the opportunity to optimise modifiable risk factors before surgery where time allows — e.g. improving glycaemic control in poorly controlled diabetes (see the ADS-ANZCA guideline's specific HbA1c threshold and delay-vs-proceed framework in [[06_Metabolic_Medicine_and_Endocrinology]], not repeated here), treating active infection, optimising heart failure or COPD control, correcting significant anaemia, and smoking cessation advice — all aimed at reducing perioperative risk rather than simply documenting it.
-
-**Consent:** discussing the procedure, anaesthetic technique, and material risks with the patient is a core part of this process — see [[Clinical-Process-EBM-Consent-Capacity]] for the general principles of informed consent, not repeated here.
-
-> [!note] **Moved to `[[Investigation-Interpretation]]` Part 2 on 2026-09-01 — 1 section from this source block.**
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
-> `0.6 Group & Hold / Crossmatch`
+> `0.5 Pre-Operative Assessment`
 >
-> Moved under the standing rule as extended to investigation interpretation: **how to read the
-> test** is owned by `[[Investigation-Interpretation]]`; **what the result means in this disease**
-> stays here, in each condition's own `Ix:` entry. The sections are reproduced there **verbatim and
-> unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
-> still resolves.
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.7 Assessment and Basic Management of Pain
 
@@ -350,90 +307,13 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 
 ---
 
-## 0.1 Preoperative Assessment
-
-> [!tip] The purpose is four things, and knowing them shapes the assessment
-> **1. Identify and OPTIMISE modifiable risk** before the operation.
-> **2. Plan the anaesthetic** — airway, technique, monitoring.
-> **3. Inform CONSENT** with a realistic discussion of individual risk.
-> **4. Plan the POSTOPERATIVE pathway** — level of care, analgesia, disposition.
-> **The assessment that changes nothing was not worth doing** — which is the principle governing investigation below.
-
-> [!info] Risk stratification tools
-> **· ASA physical status classification (I–V, with E for emergency)** — a global descriptor of systemic disease, widely used and simple. `UNVERIFIED — the class definitions.`
-> **· FUNCTIONAL CAPACITY in metabolic equivalents (METs).** **The practical question: "can you climb two flights of stairs without stopping?"** A patient who can generally has adequate reserve; one who cannot, or whose activity is limited by symptoms rather than by joints, warrants closer assessment. `UNVERIFIED — the MET threshold.`
-> **· Revised Cardiac Risk Index (RCRI)** — combines ischaemic heart disease, heart failure, cerebrovascular disease, diabetes on insulin, renal impairment and high-risk surgery. `UNVERIFIED — components and interpretation.`
-> **· FRAILTY — a better predictor of postoperative outcome than chronological age**, and increasingly used to inform whether to operate at all. Cross-refer [[GER1]] 0.2.
-
-> [!danger] Do not stop dual antiplatelet therapy after a recent coronary stent
-> **Premature cessation of dual antiplatelet therapy after coronary stenting causes STENT THROMBOSIS, which carries very high mortality.**
-> **There is a mandatory minimum duration of DAPT after stenting, which differs by stent type and indication, and elective surgery should be DEFERRED until it is complete.**
-> **If surgery cannot wait, the decision requires explicit discussion with cardiology and the surgical and anaesthetic teams** — it is never a decision for a junior doctor or a pre-admission clinic to make unilaterally.
-> **Similarly, elective surgery is deferred for a defined period after myocardial infarction.** `UNVERIFIED — the DAPT durations by stent type, and the interval after infarction.`
-
-> [!warning] Preoperative anaemia should be found and treated weeks in advance
-> **Anaemia before elective surgery is common, is an INDEPENDENT risk factor for morbidity, mortality and transfusion, and is frequently ignored until the day.**
-> **Patient Blood Management principles: identify anaemia EARLY (weeks before), determine the cause, and treat it — most often with INTRAVENOUS IRON for iron deficiency, which works within weeks.**
-> **Australia has a National Blood Authority Patient Blood Management framework**, and this is one of the clearest examples of a preoperative intervention that measurably improves outcomes.
-> **The practical failure: the haemoglobin is checked on admission the day before surgery, when it is too late to do anything but transfuse.** Cross-refer [[A9]] and [[J1]]. `UNVERIFIED — the PBM thresholds and iron regimens.`
-
-> [!tip] The other optimisable factors
-> **· SMOKING — cessation reduces respiratory and wound complications, and the benefit increases with the duration of abstinence. Even short-term cessation before surgery helps, and the preoperative period is a highly effective teachable moment** — patients are more likely to succeed at quitting around surgery than at almost any other time. `UNVERIFIED — the recommended cessation interval.`
-> **· ALCOHOL — reduction reduces complications, and withdrawal must be anticipated in dependent patients.**
-> **· DIABETES — glycaemic optimisation, and identification of unrecognised diabetes.**
-> **· OBSTRUCTIVE SLEEP APNOEA — screen with STOP-BANG; it predicts postoperative respiratory complications and changes monitoring.** Cross-refer [[RESP-X]] 0.5.
-> **· Nutrition, exercise ("prehabilitation"), and management of heart failure, COPD and asthma.**
-
-> [!danger] Do not order routine preoperative investigations in well patients
-> **Routine blood tests, ECGs and chest radiographs in asymptomatic patients undergoing low-risk surgery do not improve outcomes.** They generate incidental abnormalities that cause delay, further testing, and anxiety without benefit.
-> **Investigations should be targeted by the PATIENT (comorbidity, medications, age) and the PROCEDURE (magnitude, expected blood loss).**
-> **What is usually justified: FBC where anaemia or bleeding is plausible or blood loss expected · UEC in renal disease, diuretics, ACE inhibitors or major surgery · glucose or HbA1c in diabetes · ECG in cardiac disease or above an age threshold for major surgery · group and hold or crossmatch where transfusion is possible · pregnancy test where relevant.**
-> `UNVERIFIED — the specific indications and age thresholds.`
-
-**Ix:** As above — **targeted rather than routine.** **Group and hold or crossmatch** (*why:* preparation for transfusion, and antibody screening takes time; *what:* group and antibodies). **Echocardiography only where it will change management** — new or worsening heart failure, an undiagnosed murmur with symptoms, or suspected severe valvular disease (*why:* **severe aortic stenosis substantially changes anaesthetic conduct and risk**, whereas an echo that confirms known stable disease changes nothing; *what:* valve disease, ventricular function). Respiratory function tests in significant lung disease undergoing thoracic or major surgery (*why:* predicts postoperative respiratory failure; *what:* FEV1, DLCO). **Cervical spine imaging in rheumatoid arthritis** (*why:* atlantoaxial subluxation risks cord injury on intubation; *what:* instability — cross-refer [[L2]] 0.2).
-
----
-
-## 0.2 Airway Assessment and Anaesthetic Technique
-
-> [!warning] Predictors of a difficult airway
-> **· Previous difficult intubation — the single most useful predictor, and the reason to ASK and to CHECK old anaesthetic records.**
-> **· Mallampati class, limited MOUTH OPENING, short THYROMENTAL distance, reduced NECK EXTENSION, prominent incisors, receding mandible.**
-> **· Obesity, particularly with a large neck circumference · obstructive sleep apnoea · pregnancy · beard.**
-> **· Pathology: head and neck cancer, previous neck RADIOTHERAPY or surgery, burns contractures, airway tumours, and infection.**
-> **· RHEUMATOID ARTHRITIS — atlantoaxial instability.** Cross-refer [[L2]] 0.2.
-> **· ANKYLOSING SPONDYLITIS — a fixed flexed cervical spine, which makes both intubation and neuraxial access difficult.** Cross-refer [[L2]] 0.3.
-> **DOCUMENT a difficult airway prominently in the record AND give the patient written documentation to carry** — a difficult airway discovered a second time, unwarned, is a preventable catastrophe.
-
-> [!tip] Regional anaesthesia and analgesia — the advantages worth knowing
-> **Reduced opioid requirement, superior analgesia, less postoperative nausea and vomiting, earlier mobilisation, and — importantly in older patients — LESS DELIRIUM.**
-> **The fascia iliaca or femoral nerve block in hip fracture is a specific, high-value example** that reduces opioid use and delirium and is under-used. Cross-refer [[L7]] 0.4.
-
-> [!danger] New back pain with neurological deficit after neuraxial anaesthesia is an emergency
-> **EPIDURAL HAEMATOMA or ABSCESS causes permanent paraplegia if not decompressed quickly.**
-> **The warning features: new or worsening back pain · a motor or sensory block that is DENSER, HIGHER or LASTING LONGER than expected · a block that recurs after wearing off · new bladder dysfunction · and, with abscess, fever and raised inflammatory markers.**
-> **A patient whose epidural block should have worn off and has not, or who develops new leg weakness, needs URGENT MRI and urgent neurosurgical discussion — not observation overnight.**
-> **This is why anticoagulant timing around neuraxial procedures is strictly protocolised**, and why those intervals must be checked rather than estimated. Cross-refer [[A9]] 0.4 and [[L4]] 0.2. `UNVERIFIED — all anticoagulant timing intervals for neuraxial procedures.`
-
-> [!warning] Post-dural puncture headache
-> **A POSTURAL headache — markedly worse on sitting or standing, relieved by lying flat** — following dural puncture, typically appearing within a day or two. Often frontal or occipital, sometimes with neck stiffness, photophobia, tinnitus or diplopia.
-> **The postural nature is the diagnostic feature**, and it distinguishes it from other postoperative headaches.
-> **Managed conservatively at first, with an EPIDURAL BLOOD PATCH for persistent or severe symptoms, which is often dramatically effective.** Cross-refer [[D1]] 0.4.
-
-> [!danger] Local anaesthetic systemic toxicity — know that lipid emulsion exists and where it is
-> **Occurs after inadvertent intravascular injection or excessive dose, particularly with large-volume blocks.**
-> **The progression: perioral tingling, TINNITUS, a METALLIC TASTE, visual disturbance, agitation and confusion → SEIZURES → cardiovascular collapse and arrhythmia refractory to standard resuscitation.**
-> **Management: STOP the injection · call for help · A–B–C with 100% oxygen · control seizures · and give INTRAVENOUS LIPID EMULSION ("Intralipid"), which is the specific antidote.**
-> **Prolonged resuscitation may be required, and recovery is possible after extended arrest — do not stop early.**
-> **Every area where regional blocks are performed should have a LAST kit and a copy of the protocol. Know where yours is.** `UNVERIFIED — the lipid emulsion regimen; follow the ANZCA/ASRA protocol on the wall.`
-
-> [!tip] The anaesthetic drug problems worth recognising
-> **· MALIGNANT HYPERTHERMIA — triggered by volatile agents and suxamethonium. A rising END-TIDAL CO₂ is the earliest sign, before temperature rises. Dantrolene is the antidote, and the family requires screening.** Cross-refer [[A6]] 0.3.
-> **· SUXAMETHONIUM — causes a transient rise in potassium, which becomes DANGEROUS HYPERKALAEMIA in burns beyond about 24–48 hours, denervation injury, spinal cord injury, and prolonged immobility, through upregulation of acetylcholine receptors.** **Also: suxamethonium apnoea in pseudocholinesterase deficiency — prolonged paralysis requiring continued ventilation, which is inherited and should be documented and communicated to the family.**
-> **· Residual neuromuscular blockade — a cause of postoperative respiratory compromise and aspiration**, and a reason for careful monitoring in recovery.
-> **· AWARENESS under anaesthesia — rare, deeply distressing, and requires acknowledgement, explanation and psychological follow-up rather than dismissal.**
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 2 blocks from this source.**
+>
+> `0.1 Preoperative Assessment` · `0.2 Airway Assessment and Anaesthetic Technique`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.3 Perioperative Medication Management
 

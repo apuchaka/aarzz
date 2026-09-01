@@ -15,14 +15,13 @@
 
 > [!danger] The single most important framing: a fall is a **symptom, not a diagnosis**. "Mechanical fall" is not a diagnosis either, and writing it in the notes closes an assessment that should be opening one. The cause is **multifactorial in most older fallers** — typically several modest contributors acting together rather than one dramatic cause — which is why single-intervention approaches underperform and why a multidisciplinary response is the standard.
 
-### Distinguishing a fall from a collapse — do this first
-
-The first branch point is whether consciousness was lost, because it splits the work-up entirely:
-
-- **Transient loss of consciousness** → this is a *collapse*, and the differential is syncope vs seizure vs hypoglycaemia. Take that pathway instead: see [[History-Taking]] Collapse (Conscious and Unconscious) for the structured before/during/after history and [[04_Neurology]] Syncope for the differential, not repeated here.
-- **No loss of consciousness** → this is a fall, and the multifactorial assessment below applies.
-
-**In practice the distinction is often genuinely unclear**, because amnesia for the event is common in older people and there may be no witness. Where you cannot confidently exclude loss of consciousness, screen for the dangerous syncopal causes (postural blood pressure, cardiac examination, ECG) *as well as* running the falls assessment — do not simply pick one branch on the balance of probabilities.
+> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Distinguishing a fall from a collapse — do this first`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ### Risk factors — the ones worth actually asking about
 

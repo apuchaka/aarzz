@@ -714,35 +714,13 @@ Both are toxidromes causing the triad of **hyperthermia, altered mental status, 
 > unrenumbered**, under a `SOURCE:` divider naming this file, so a pointer written by heading name
 > still resolves.
 
-### Glasgow Coma Scale (GCS)
-
-| Eyes | Verbal | Motor |
-|---|---|---|
-| 4 — spontaneously | 5 — oriented | 6 — obeys commands |
-| 3 — opens to voice | 4 — confusion | 5 — localises to pain |
-| 2 — opens to pain | 3 — inappropriate words | 4 — withdraws from pain |
-| 1 — no opening | 2 — sounds | 3 — abnormal flexion to pain |
-| | 1 — none | 2 — extends to pain |
-| | | 1 — none |
-
-> [!danger] If GCS <8, requires intubation (patient may not be able to secure their own airway). Minimum possible GCS is 3.
-
-> [!info] Gap-filled from CSV — AVPU scale, not covered in the source notes. A simpler, faster alternative to GCS used in rapid initial assessment (e.g. primary survey/triage) rather than detailed ongoing neurological monitoring: **A**lert, responds to **V**oice, responds to **P**ain, **U**nresponsive. AVPU is quicker to perform but far less granular than GCS — a patient scored "responds to Voice" on AVPU could correspond to a wide range of GCS scores, so AVPU is appropriate for rapid triage/primary survey but GCS is preferred for ongoing, more precise neurological monitoring once the patient is stabilised. A rough correspondence sometimes used: Alert ≈ GCS 15, Voice ≈ GCS <13, Pain ≈ GCS <8, Unresponsive ≈ GCS 3 — though this is only a rough guide, not a validated conversion.
-
-> [!info] Gap-filled from CSV ("Loss or altered conscious state," Medium yield) — the GCS/AVPU tools above score conscious state, but nothing covered the actual differential for *why* it's reduced. **Causes of an altered/reduced conscious state — mnemonic "AEIOU-TIPS":**
-> - **A**lcohol (intoxication or withdrawal)
-> - **E**pilepsy (post-ictal state) / **E**lectrolytes (hyponatraemia, hypercalcaemia, and others)
-> - **I**nsulin (hypo- or hyperglycaemia)
-> - **O**pioids/**O**verdose (any sedating drug or toxin)
-> - **U**raemia (and other metabolic causes — hepatic encephalopathy, hypothyroidism)
-> - **T**rauma / **T**emperature (hypo- or hyperthermia)
-> - **I**nfection (meningitis, encephalitis, sepsis-associated encephalopathy)
-> - **P**sychiatric (rarely a true cause of reduced GCS — consider once organic causes are reasonably excluded, not as a default explanation)
-> - **S**troke/**S**AH/**S**pace-occupying lesion (and other structural causes — raised ICP, hydrocephalus)
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
-> **Practical approach:** a bedside glucose and this differential should be run through systematically for any patient with reduced conscious state of unclear cause — hypoglycaemia specifically is rapidly reversible and must never be missed, which is precisely why capillary glucose is checked immediately in any collapsed or confused patient regardless of what else seems obvious. Also always consider the **specific reversal agents** available for two treatable causes: naloxone for suspected opioid toxicity, and IV thiamine before/with glucose in a patient with possible alcohol-related nutritional deficiency (to avoid precipitating Wernicke's encephalopathy — see [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) for the specific AU-verified thiamine dosing, not repeated here).
-
----
+> `Glasgow Coma Scale (GCS)`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## Seizures and Epilepsy
 
@@ -954,22 +932,13 @@ Peak incidence ~36h after last drink — **one point on a withdrawal timeline, n
 
 ---
 
-## Brain Lesion Localisation
-
-**Parietal lobe lesions:** sensory inattention; apraxia (can understand but cannot perform commands); astereognosis (inability to discriminate shape/size by touch, cannot recognise objects by touch); inferior homonymous quadrantanopia; Gerstmann's syndrome.
-
-**Occipital lobe lesions:** homonymous hemianopia with macular sparing; cortical blindness (eyes are fine but patient cannot see); visual agnosia (cannot recognise objects despite seeing them).
-
-**Temporal lobe lesions:** Wernicke's aphasia (fluent speech but unrelated, word substitutions, neologisms); superior homonymous quadrantanopia; auditory agnosia (cannot recognise words heard); prosopagnosia (difficulty recognising faces).
-
-**Frontal lobe lesions:** Broca's (expressive) aphasia (patient knows what to say but cannot convey it — non-fluent, laboured, slow speech); disinhibition; perseveration (insistent repetition); anosmia; inability to generate a list.
-
-> [!info] Cerebellar lesions — mnemonic "DANISH"
-> **D**ysdiadochokinesia (cannot alternate between actions rapidly), **A**taxia (inability to coordinate + unstable gait), **N**ystagmus, **I**ntention tremor + past-pointing, **S**peech changes (dysarthria), **H**ypotonia + failed heel-shin test
-
-> [!note] See also the Aphasia section and Austroads Driving Standards (Neurological Conditions), further down this file.
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Brain Lesion Localisation`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## Cranial Nerve Disorders and Vertigo
 
@@ -2713,38 +2682,13 @@ Rehabilitation, disease-modifying therapy in MS, driving and occupational advice
 
 ---
 
-## 0.1 Localising the Lesion
-
-**D:** The systematic determination of which level of the nervous system is affected, from cortex to muscle.
-
-> [!tip] The eight levels, and how each presents
-> **Brain (cortex, internal capsule)** — UMN pattern, contralateral, often with cortical features (aphasia, neglect, visual field loss).
-> **Spinal cord** — UMN below the lesion, LMN at the lesion, **a sensory level**, and sphincter involvement.
-> **Anterior horn cell** — **mixed UMN and LMN signs with NO sensory involvement** (motor neurone disease).
-> **Nerve root** — myotomal weakness, dermatomal sensory loss, loss of the reflex for that root, and **radicular pain shooting down the limb.**
-> **Plexus** — deficits crossing multiple root and nerve territories, confined to one limb.
-> **Peripheral nerve** — a single nerve territory (mononeuropathy), a symmetrical length-dependent pattern (polyneuropathy), or multiple discrete nerves (mononeuritis multiplex).
-> **Neuromuscular junction** — **fatigable** weakness, ptosis and diplopia, bulbar involvement, **no sensory loss, normal reflexes.**
-> **Muscle** — **proximal, symmetrical weakness, no sensory loss, reflexes preserved until late, raised CK.**
-
-> [!info] Upper versus lower motor neurone
-> | | **UMN** | **LMN** |
-> |---|---|---|
-> | Tone | **Increased** (spastic, clasp-knife) | **Reduced** or normal |
-> | Reflexes | **Brisk**, clonus | **Reduced or absent** |
-> | Plantar | **Upgoing (Babinski)** | Downgoing |
-> | Wasting | Absent (except disuse, late) | **Present** |
-> | Fasciculation | Absent | **Present** |
-> | Pattern | **Pyramidal** — upper limb extensors and lower limb flexors weakest | Territory of the affected root or nerve |
-> **Acute UMN lesions can initially cause FLACCID weakness with absent reflexes ("spinal shock"), with spasticity developing over days to weeks.** So a flaccid areflexic patient early after a cord injury is not evidence against a UMN lesion — this is a classic trap.
-
-> [!warning] Two combinations that point to specific diagnoses
-> **Mixed UMN and LMN signs with no sensory involvement** → **motor neurone disease**, until proven otherwise. Wasting and fasciculation with brisk reflexes in the same limb is a striking and specific finding.
-> **Absent ankle reflexes with upgoing plantars** → a lesion affecting both peripheral nerves and the cord: **subacute combined degeneration from B12 deficiency**, or coexisting cervical myelopathy with a peripheral neuropathy (common in diabetics), or tabes dorsalis, or Friedreich ataxia.
-
-**Ix:** **A careful examination is the investigation.** Nerve conduction studies and EMG confirm and refine, but they answer the question you pose, so **localise clinically first** — the request "?neuropathy" without a clinical question gets a less useful study.
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 Localising the Lesion`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Peripheral Neuropathy
 
@@ -3029,63 +2973,13 @@ Protective measures where sensation is lost — **foot care, water temperature c
 
 ---
 
-## 0.2 Acute Vestibular Syndrome and the HINTS Examination
-
-**D:** Acute-onset **continuous** vertigo lasting more than 24 hours, with nausea and vomiting, nystagmus, head-motion intolerance and gait unsteadiness.
-
-**A/P:** The differential is essentially two conditions with opposite implications: **vestibular neuritis** (benign, self-limiting, from inflammation of the vestibular nerve, often post-viral) and **posterior circulation stroke** — cerebellar or brainstem infarction. **A meaningful proportion of patients presenting with isolated acute vertigo have a stroke**, and they are the group most likely to be discharged home.
-
-> [!danger] HINTS is more sensitive than early MRI for posterior circulation stroke
-> **Early diffusion-weighted MRI has a false negative rate in the first 24–48 hours for small posterior fossa infarcts.** A properly performed HINTS examination by a trained examiner outperforms it.
-> **This is the single most important fact in this file**, because it inverts the instinct to reassure on the basis of a negative scan.
-
-> [!info] HINTS — the three components
-> **Only valid in a patient with CONTINUOUS, ONGOING vertigo and nystagmus at the time of examination.** It is **not** applicable to episodic vertigo, and it is **not** applicable to a currently asymptomatic patient — using it there produces dangerously misleading results.
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
-> **1. Head Impulse test** — rapid small-amplitude head turn while the patient fixates on your nose.
-> **· ABNORMAL (a corrective catch-up saccade) = PERIPHERAL** — the vestibulo-ocular reflex is broken on that side.
-> **· NORMAL (eyes stay locked on target) = CENTRAL.** This is counterintuitive: **a normal test is the worrying one.**
+> `0.2 Acute Vestibular Syndrome and the HINTS Examination`
 >
-> **2. Nystagmus** —
-> **· Unidirectional, horizontal (with a torsional component), fast phase always in the same direction = PERIPHERAL.**
-> **· Direction-changing on gaze to either side, or PURELY VERTICAL, or purely torsional = CENTRAL.**
->
-> **3. Test of Skew** — alternate cover test.
-> **· Any vertical corrective movement (skew deviation) = CENTRAL.**
->
-> **The mnemonic for the central pattern is "INFARCT": Impulse Normal, Fast-phase Alternating, Refixation on Cover Test.**
-> **Any ONE central finding makes it central.** All three must be peripheral to call it peripheral.
-
-> [!warning] HINTS-plus, and why hearing loss does not mean peripheral
-> Adding **new unilateral hearing loss** to the examination improves sensitivity.
-> **New hearing loss with acute vertigo is NOT reassuring** — an **anterior inferior cerebellar artery (AICA) infarct supplies the labyrinth as well as the brainstem and cerebellum, so it can cause hearing loss with vertigo.** The historical teaching that hearing loss localises to the ear is not safe in this setting.
-
-> [!danger] Other features that make it central
-> **· Inability to stand or walk unaided.** **A patient with acute vertigo who cannot walk without falling has a central lesion until proven otherwise** — patients with vestibular neuritis veer toward the affected side but can generally walk.
-> **· Severe headache or neck pain** — consider **vertebral artery dissection**, especially in a younger patient.
-> **· Any other brainstem or cerebellar sign** — diplopia, dysarthria, dysphagia, facial numbness, limb ataxia, Horner syndrome, hemisensory loss.
-> **· Sudden onset**, vascular risk factors, or age.
-> **· Deterioration over hours** — cerebellar stroke swells and compresses the brainstem. Cross-refer [[D3]] 0.2.
-
-> [!tip] Vestibular neuritis — treat, but do not over-treat
-> Vestibular suppressants (prochlorperazine, promethazine, benzodiazepines) relieve acute symptoms.
-> **Limit them to the first few days.** **Prolonged use PREVENTS central vestibular compensation and produces a patient who remains dizzy for months.** This is a common and avoidable iatrogenic problem.
-> **Early vestibular rehabilitation — movement rather than rest — accelerates compensation**, and telling the patient to lie still in a dark room is the wrong advice beyond the first day or two. `UNVERIFIED — the recommended duration limit for suppressants, and the evidence for corticosteroids, which is contested.`
-
-**S/Smx:** Continuous vertigo, nausea and vomiting, nystagmus, unsteadiness, and — where central — additional neurological signs.
-
-**Ix:** **HINTS examination in the patient with ongoing nystagmus** (*why:* more sensitive than early MRI, immediate, and free; *what:* the INFARCT pattern versus a peripheral pattern). **Gait assessment — can the patient stand and walk unaided?** (*why:* inability to walk is a strong central indicator and takes seconds to test; *what:* truncal ataxia, falling). **MRI brain with diffusion, including posterior fossa** where central features are present or suspicion persists (*why:* CT is very poor for the posterior fossa; *what:* infarct — noting the false negative rate in the first 48 hours, so **a negative early MRI in a patient with a central HINTS pattern does not exclude stroke and should be repeated**). CT angiography of the vertebral and basilar arteries where dissection or vertebrobasilar disease is suspected (*why:* dissection is a leading cause of posterior circulation stroke in the young; *what:* dissection, stenosis). Audiometry where hearing loss (*why:* characterises the loss and distinguishes labyrinthine from retrocochlear; *what:* pattern and side). ECG and cardiac assessment (*why:* embolic source, and arrhythmia as an alternative cause of "dizziness"; *what:* AF, arrhythmia). Postural blood pressure (*why:* excludes orthostatic hypotension; *what:* postural drop).
-
-### 0.2.1 Mx – Immediate
-**HINTS and gait assessment.** Antiemetics and vestibular suppressants short-term. **Urgent imaging and stroke pathway if any central feature.** Admit and observe if the patient cannot mobilise safely.
-
-### 0.2.2 Mx – Definitive
-Stroke management per [[D3]], or supportive care with early vestibular rehabilitation for neuritis.
-
-### 0.2.3 Mx – Chronic/long-term
-**Vestibular rehabilitation** for persistent symptoms, which is effective and under-referred. Secondary prevention after stroke. Driving advice.
-
----
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.3 Episodic Vertigo
 

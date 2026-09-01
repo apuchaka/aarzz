@@ -46,6 +46,8 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 ## 1.2 Collapse (Conscious and Unconscious)
 
+`CF-PAIR` **2 blocks covering this ground arrived in Part 2 and were NOT merged into this section:** `The collateral history is the investigation` · `Distinguishing a fall from a collapse — do this first` — from 18_Geriatrics_and_Older_Persons_Health.md · B4_Syncope__Collapse_and_Hypotension.md. **Both copies kept in full.**
+
 **Opening:** Wash hands, introduce, confirm identity, explain purpose, consent. If the patient didn't witness their own collapse, actively seek a collateral/witness history — this is often more valuable than the patient's own account.
 
 **Presenting complaint structure (not classic SOCRATES — use a structured collapse-specific approach):**
@@ -487,7 +489,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 **Further history prompts:**
 - **Systemic/red flag symptoms:** fever, malaise, lymphadenopathy, joint pains — raise suspicion for an infective or systemic inflammatory cause rather than a purely localised skin process; mucosal involvement (oral, genital, ocular) alongside a rash is a specific red flag for the SJS/TEN spectrum or erythema multiforme major (see [[09_01_Dermatology_-_Dermatological_Emergencies]] Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN) necrolysis) and should prompt urgent assessment.
-- **Exposure history:** new medications (drug reaction, including the SJS/TEN differential above), new cosmetics/soaps/detergents (contact dermatitis), recent travel (tropical/vector-borne rashes — see the relevant [[08_05-06_Infectious_Disease_-_Viral_Infections]] and [[08_07_Infectious_Disease_-_Protozoan_Infections]] entries), occupational exposures, sun exposure (photosensitive eruptions, or as a risk factor for skin cancer — see [[09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers]] and [[09_03a_Dermatology_-_Non-Melanoma_Skin_Cancer]]), animal or insect contact (scabies, tick bites, insect bite reactions), sexual contact history where genital lesions are involved (see [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]]).
+- **Exposure history:** new medications (drug reaction, including the SJS/TEN differential above), new cosmetics/soaps/detergents (contact dermatitis), recent travel (tropical/vector-borne rashes — see the relevant [[08_05-06_Infectious_Disease_-_Viral_Infections]] and [[08_07_Infectious_Disease_-_Protozoan_Infections]] entries), occupational exposures, sun exposure (photosensitive eruptions, or as a risk factor for skin cancer — see [[09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers]] and [[09_03a_Dermatology_-_Non-Melanoma_Skin_Cancer]]), animal or insect contact (scabies, tick bites, insect bite reactions), sexual contact history where genital lesions are involved (see `08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs` (**now in Part 2 of this file**)).
 - **Infectious contact/outbreak history:** unwell contacts with a similar rash, recent school/childcare attendance (many of the classic childhood exanthems — see [[08_05-06_Infectious_Disease_-_Viral_Infections]] Measles, Rubella, and the Viral Exanthemata "numbered rashes" table, not repeated here), recent vaccination.
 - **Past medical/family history:** personal or family history of atopy (eczema, asthma, allergic rhinitis — supports an atopic dermatitis differential), personal or family history of psoriasis or other chronic dermatoses, immunosuppression (broadens the infective differential and increases severity risk for many conditions covered throughout the Dermatology and Infectious Disease files).
 - **Impact and prior treatment:** what has been tried already and with what effect (informs both diagnosis, via treatment response, and next-step management); functional/psychosocial impact, given visible skin disease can carry a disproportionate quality-of-life burden worth actively asking about rather than assuming from lesion severity alone.
@@ -512,7 +514,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 **Further history prompts:**
 - **Travel history — critical and easily missed if not explicitly asked:** where, when, duration, activities (rural/urban, freshwater/seawater exposure, animal contact, insect bites), pre-travel vaccinations and malaria prophylaxis (taken as prescribed or not), food/water sources — directly informs the tropical/travel-related differential built across [[08_05-06_Infectious_Disease_-_Viral_Infections]] (Dengue, Yellow Fever), [[08_07_Infectious_Disease_-_Protozoan_Infections]] (Malaria, Schistosomiasis, Trypanosomiasis), and elsewhere; malaria specifically must be actively excluded in any febrile returned traveller from an endemic area, given the time-critical nature of falciparum disease. See [[08_09_Infectious_Disease_-_Miscellaneous]] Approach to Fever in the Returned Traveller for the incubation-period-based framework this history feeds into, not repeated here.
-- **Exposure and risk factor screen:** sick contacts, occupational exposure (healthcare, farming/abattoir work, animal handling — relevant to zoonotic causes like Q fever, leptospirosis, brucellosis), recent surgery or invasive procedures (surgical site infection, line-associated bacteraemia), IVDU (endocarditis, skin/soft tissue infection), sexual history (STI-related causes — see [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]]), recent hospitalisation (healthcare-associated infection, *C. difficile* — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Clostridioides difficile), tick/insect bites, animal bites or scratches (see [[08_09_Infectious_Disease_-_Miscellaneous]] Animal & human bites, and Cat Scratch Disease in [[08_01-03_Infectious_Disease_-_Bacterial_Infections]]).
+- **Exposure and risk factor screen:** sick contacts, occupational exposure (healthcare, farming/abattoir work, animal handling — relevant to zoonotic causes like Q fever, leptospirosis, brucellosis), recent surgery or invasive procedures (surgical site infection, line-associated bacteraemia), IVDU (endocarditis, skin/soft tissue infection), sexual history (STI-related causes — see `08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs` (**now in Part 2 of this file**)), recent hospitalisation (healthcare-associated infection, *C. difficile* — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Clostridioides difficile), tick/insect bites, animal bites or scratches (see [[08_09_Infectious_Disease_-_Miscellaneous]] Animal & human bites, and Cat Scratch Disease in [[08_01-03_Infectious_Disease_-_Bacterial_Infections]]).
 - **Immunisation status:** relevant both to excluding vaccine-preventable causes and to informing risk if a vaccine-preventable disease is suspected — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) for the current AU-specific schedule, not repeated here.
 - **Host risk factors:** immunosuppression (broadens the differential substantially and lowers the threshold for urgent work-up — see the CD4-stratified opportunistic infection framework in [[08_05-06_Infectious_Disease_-_Viral_Infections]] Human immunodeficiency virus (HIV) for one detailed example), asplenia/splenectomy (see [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis — a genuinely time-critical scenario given the rapid deterioration risk), diabetes, indwelling devices/prostheses (lines, catheters, prosthetic joints/valves — all potential infection foci), recent antibiotic use (relevant both to resistant organism risk and to *C. difficile* risk).
 - **Systemic/constitutional screen:** night sweats, weight loss, fatigue, rigors (true rigors — shaking chills — are a more specific marker of bacteraemia than fever alone and worth specifically asking about rather than assuming from "feeling hot").
@@ -592,6 +594,8 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 ---
 
 ## 1.25 Adolescent Psychosocial Assessment (HEADSS/HEEADSSS)
+
+`CF-PAIR` **1 block covering this ground arrived in Part 2 and was NOT merged into this section:** `0.2 The HEEADSSS Psychosocial Assessment` — from M7_Adolescent_and_Behavioural_Health.md. **Both copies kept in full.**
 
 > [!note] Gap-filled from CSV ("Adolescent health care incl - HEADSS," Medium yield) — genuinely absent despite being a distinctly structured, widely-taught framework in its own right, not a variant of the general psychiatric history above; built here given how commonly this specific structured approach is examined and used in adolescent consultations across all specialties, not just psychiatry.
 
@@ -755,7 +759,7 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 - **Any doubt at all should prompt immediate urological referral** — this is one of the few presentations in medicine where the correct default, given diagnostic uncertainty, is to act on the worst-case possibility rather than wait for more clarity, given how directly testicular salvage depends on time to surgery.
 
 **Further history prompts (once torsion has been actively considered/excluded from the acute-emergency pathway):**
-- **Sexual history:** unprotected sex, new/multiple partners, discharge — raises suspicion for STI-related epididymo-orchitis (for the **full sexual history structure and what a standard STI check actually consists of**, see [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]] The STI Check — Sexual History, What to Test, and When, not repeated here — this line is the red-flag screen only) (see [[07_Renal_Medicine_and_Urology]] Epididymitis for the full AU-verified Mx this feeds into)
+- **Sexual history:** unprotected sex, new/multiple partners, discharge — raises suspicion for STI-related epididymo-orchitis (for the **full sexual history structure and what a standard STI check actually consists of**, see `08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs` (**now in Part 2 of this file**) The STI Check — Sexual History, What to Test, and When, not repeated here — this line is the red-flag screen only) (see [[07_Renal_Medicine_and_Urology]] Epididymitis for the full AU-verified Mx this feeds into)
 - **Urinary symptoms:** dysuria, frequency, recent UTI — raises suspicion for a UTI-related (rather than STI-related) epididymo-orchitis, more typical in older men without sexual risk factors
 - **Timing/positional factors:** worse standing, relieved lying down (varicocele — "bag of worms" character); present since birth or noticed incidentally (hydrocele, epididymal cyst); reducible, worse with straining/coughing (inguinal hernia)
 - **Associated systemic symptoms:** fever (favours infective causes — epididymo-orchitis, or occasionally an incarcerated/strangulated hernia); nausea/vomiting (can accompany torsion via visceral referred pain, and shouldn't be mistaken for a primary GI complaint without examining the scrotum)
@@ -766,3 +770,202 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 > [!danger] Red flags mandating immediate same-visit urological referral: sudden severe onset (especially in a young patient), high-riding or horizontally-lying testis, absent cremasteric reflex, any diagnostic uncertainty about torsion — do not wait for imaging to refer if clinical suspicion is high. See [[07_Renal_Medicine_and_Urology]] Testicular Torsion for the full "time is testicle" urgency principle.
 
 **Closing:** summarise back, check understanding, explain next steps (examination, urgent same-visit surgical/urological referral if torsion cannot be confidently excluded; otherwise targeted investigation per the likely cause — STI screen, urinalysis, or ultrasound as guided by the history), safety-net explicitly for worsening pain or new systemic symptoms.
+
+---
+
+# 2 History-taking content merged in from the system files (2026-09-01)
+
+> [!info] **What this part is.**
+> History-taking content moved here from the system files under the standing rule: **how to take the history** lives here; **what the answer means in this disease** stays in the system file.
+>
+> **7 blocks** from **6 source files**. Every heading and callout is reproduced
+> **verbatim and unrenumbered** under a `SOURCE:` divider naming its origin file, so a pointer
+> written by source name still resolves.
+>
+> **NOTHING HAS BEEN MERGED.** Where an arriving block covers a topic Part 1 already has, **both
+> copies are kept in full** and each carries a `CF-PAIR` marker naming the other.
+> **Part 1 sections paired this way: §1.2, §1.25.**
+
+<!-- ===== SOURCE: B4_Syncope__Collapse_and_Hypotension.md ===== -->
+*Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!danger] The collateral history is the investigation
+`CF-PAIR §1.2` **This block and Part 1 §1.2 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+> **What a witness saw is worth more than any test in this presentation.** The patient by definition did not observe their own event. Ring the family member, the ambulance officer, the bystander. Ask specifically: how long were they out, what colour were they, did they jerk and for how long, were their eyes open or closed, how long before they were talking sensibly again, and what were they doing immediately beforehand.
+> Failing to obtain a collateral history is the commonest reason this presentation goes unresolved.
+
+<!-- ===== SOURCE: 18_Geriatrics_and_Older_Persons_Health.md ===== -->
+*Moved here from `Geriatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+### Distinguishing a fall from a collapse — do this first
+`CF-PAIR §1.2` **This block and Part 1 §1.2 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+The first branch point is whether consciousness was lost, because it splits the work-up entirely:
+
+- **Transient loss of consciousness** → this is a *collapse*, and the differential is syncope vs seizure vs hypoglycaemia. Take that pathway instead: see [[History-Taking]] Collapse (Conscious and Unconscious) for the structured before/during/after history and [[04_Neurology]] Syncope for the differential, not repeated here.
+- **No loss of consciousness** → this is a fall, and the multifactorial assessment below applies.
+
+**In practice the distinction is often genuinely unclear**, because amnesia for the event is common in older people and there may be no witness. Where you cannot confidently exclude loss of consciousness, screen for the dangerous syncopal causes (postural blood pressure, cardiac examination, ECG) *as well as* running the falls assessment — do not simply pick one branch on the balance of probabilities.
+
+<!-- ===== SOURCE: 08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs.md ===== -->
+*Moved here from `Infectious Disease_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## The STI Check — Sexual History, What to Test, and When
+`CF-PAIR` **Pairs with `## 0.1 The Sexual History and STI Assessment` below — two treatments of the sexual history, neither a subset. Both kept in full, not reconciled.**
+
+> [!note] Gap-filled from CSV ("Sexually transmitted diseases (STD)," Sexual Health/STIs category) during the N7 pass. **This is the seventh instance of the conflation pattern**, and the clearest yet: this file builds **thirteen organisms** in detail, and the phrase "offer testing for other STIs" / "comprehensive STI screen" / "STI screen (as indicated)" appears across this file, [[17_02_Menorrhagia__PMS__Menopause__HRT]], [[17_06_Subfertility_and_OHSS]] and [[07_Renal_Medicine_and_Urology]] — **instructing the reader to do a thing the corpus never specified.** [[History-Taking]] carried a single line ("sexual history: unprotected sex, new/multiple partners, discharge") inside a different presentation's red-flag screen. Built here rather than split across two files: which sites you swab is decided entirely by what the history discloses, so separating the history from the test selection would break the only part that is hard to get right. Verified against **STI Guidelines Australia** (`sti.guidelines.org.au`, *Standard asymptomatic checkup*) — see `PENDING_GUIDELINE_CHECKS.md` B35.
+
+### Taking a sexual history
+
+> [!warning] **Terminology collision, flagged deliberately (Step 12).** Sexual health teaching uses a **"5 Ps"** framework, and psychiatric formulation uses a **4/5 Ps** grid (see [[History-Taking]] Clinical Formulation — Turning a History Into an Explanation). They are unrelated and share only the mnemonic. Do not carry one into the other.
+
+**Partners · Practices · Protection · Past history of STIs · Prevention of pregnancy.**
+
+- **Partners** — number in a defined recent period, their gender(s), whether regular or casual, and whether any are known to have an STI or to have been overseas. *Why it changes management:* it sets the contact-tracing lookback and identifies whether syphilis and HIV risk are elevated.
+- **Practices** — vaginal, anal, oral; receptive and insertive. **This is the question that determines which sites you swab**, and it is the one most often skipped out of discomfort. A urine NAAT alone does not test the throat or the rectum.
+- **Protection** — condom use, consistently or occasionally; **PrEP** use (see [[08_05-06_Infectious_Disease_-_Viral_Infections]] for PrEP and PEP, not repeated here).
+- **Past history** — previous STIs (reinfection is common and a previous diagnosis marks ongoing risk), previous testing and when, hepatitis B and HPV vaccination status.
+- **Prevention of pregnancy** — contraception, and whether pregnancy is possible or wanted (see [[16_16-17_Contraception]]).
+
+> [!tip] **How to ask, since the barrier here is almost never knowledge.** Normalise before you ask — *"I ask everyone these questions, because the answers change which tests I order"* — then ask directly and specifically rather than euphemistically. Vague questions get vague answers, and a vague answer here means the wrong swab. Confirm confidentiality first, and for anyone under 18 see [[Clinical-Process-EBM-Consent-Capacity]] Consent and children and [[History-Taking]] Adolescent Psychosocial Assessment (HEADSS/HEEADSSS).
+
+### What a standard asymptomatic check consists of
+
+| | Test | Specimen |
+|---|---|---|
+| **Always** | **HIV** and **syphilis** serology | Blood. Both are on every check, regardless of how low-risk the history sounds — this is the single most commonly missed part of an STI screen. |
+| **Always** | **Chlamydia and gonorrhoea** NAAT | Site-directed by the history (below). |
+| **Risk-directed** | **Hepatitis B** serology (and hepatitis C, hepatitis A) | Blood, per risk factors and vaccination status. |
+| **If symptomatic** | Add the symptom-specific tests | e.g. *M. genitalium* NAAT for persistent urethritis/cervicitis, wet-mount or NAAT for trichomonas, swab/PCR of any ulcer. The entries below cover these. |
+
+**Specimen choice for chlamydia/gonorrhoea NAAT:**
+- **First-pass urine** in men (*not* a mid-stream sample — the organisms are urethral, so the first part of the stream is the one that carries them).
+- **Self-collected vaginal swab** in women — as accurate as a clinician-collected endocervical swab and far more acceptable, so offer it as the default rather than the fallback.
+- **Throat swab** if there has been oral sex; **anal swab** if there has been receptive anal sex.
+
+> [!danger] **Three-site testing, and the reason it matters more than it sounds.** Rectal and pharyngeal gonorrhoea and chlamydia are **usually asymptomatic** (already stated for gonorrhoea below in this file). Testing urine alone in someone who has had receptive anal or oral sex will therefore **miss most of their infection** — the patient is told they are clear, remains infectious, and the pharynx in particular is where gonococcal treatment failure and resistance emerge. **Men who have sex with men should be tested at all three sites at least annually, and 3-monthly with multiple or higher-risk partners.** The generalisable rule is that **sites tested must match sites exposed**, for anyone.
+
+### Window periods — why a negative test soon after exposure means little
+
+A **window period** is the interval between exposure and the point at which a test can reliably detect infection. Testing inside it produces a **false negative**, and the patient leaves falsely reassured.
+
+- **Chlamydia and gonorrhoea** — detectable within roughly **1–2 weeks** (the entries below use 2 weeks post-exposure).
+- **HIV** — a 4th-generation antigen/antibody assay has a window of around **6 weeks**; repeat testing after a recent specific exposure.
+- **Syphilis** — serology takes **several weeks** to become reactive.
+
+> [!tip] **The practical consequence:** if someone presents days after a specific exposure, test now **and** book the repeat, and say explicitly that today's result cannot exclude infection. Testing once, early, and calling it negative is the error. Where there has been a high-risk HIV exposure within 72 hours, PEP is time-critical and takes priority over any testing discussion.
+
+### After the result
+
+- **Treatment** — see the individual entries below. **Contact tracing/partner notification** is covered under Chlamydia below, including the Australian 6-month lookback and patient-delivered partner therapy; the same structure applies across STIs with the lookback period varying by organism.
+- **Notifiable conditions.** Chlamydia, gonorrhoea, syphilis, HIV and several others are **notifiable in every Australian state and territory** — see [[08_09_Infectious_Disease_-_Miscellaneous]] for the National Notifiable Diseases Surveillance System and how notification actually works. Notification is a legal obligation on the diagnosing clinician or laboratory, and it is not the same thing as partner notification.
+- **Retesting at 3 months** to detect reinfection is recommended after a positive result, and is distinct from test of cure.
+
+> [!info] **Equity, and it is specific and already evidenced within this file (Step 10).** Two things this file already establishes independently: chlamydia notification rates are **substantially higher among Aboriginal and Torres Strait Islander people** (pooled prevalence around 22% in Indigenous women under 25 attending sexual health services), and infectious syphilis has been a **Communicable Disease Incident of National Significance since August 2025**, with rates around 7 times higher. Both are stated with sources in the entries below. The point that belongs *here*, with the screening approach, is the mechanism connecting them: **the burden is concentrated where access to testing is hardest** — distance from a service, limited privacy in small communities, and the delay between specimen collection and a result returning from a distant laboratory, which is precisely the interval in which a patient is lost to follow-up. That is the reasoning behind **point-of-care testing in remote services**, which shortens treat-time from weeks to the same visit. The intern-level version: **when the pathway from test to treatment is long, offer treatment at the point the risk is identified rather than assuming the patient will return** — the same logic as presumptive treatment of contacts.
+
+---
+
+<!-- ===== SOURCE: O6_Sexual_and_Reproductive_Health.md ===== -->
+*Moved here from `OBGYN_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.1 The Sexual History and STI Assessment
+`CF-PAIR` **Pairs with `## The STI Check — Sexual History, What to Test, and When` above — two treatments of the sexual history, neither a subset. Both kept in full, not reconciled.**
+
+> [!warning] FLAG 2026-09-01 — the sexual history exists in three files
+> Here (the "five Ps" and the normalising script) · `Infectious Disease_merged 08_08 ## The STI Check —
+> Sexual History, What to Test, and When` + `### Taking a sexual history` ·
+> `MSK_merged NEW_Inv_Ortho §0.18 STI Screening (Asymptomatic Sexual Health Check)`.
+> **`O6` has 23 inbound references and only 2 internal** — GI ×6, ID ×5, Neuro ×4, Paediatrics — so this
+> is already the de facto owner. **A history-taking framework, flagged for `History-Taking.md`;
+> not moved.**
+
+> [!tip] Structure it, normalise it, and do not assume
+> **Normalise before asking:** "I ask everyone these questions because they're important for your health — is that alright?" This single sentence changes the encounter.
+> **Do not assume the gender of partners, the type of sex, or that a person is or is not sexually active.** Ask.
+> **The "five Ps" structure it:**
+> **· Partners** — number, gender, and whether they are regular or casual, and any overseas or travel-related contact.
+> **· Practices** — **vaginal, anal, oral — receptive and insertive.** This is not prurience: **it determines which sites you swab**, and getting it wrong means missing the infection.
+> **· Protection** — condom use, consistently or occasionally, and with whom.
+> **· Past history of STIs.**
+> **· Prevention of pregnancy** — contraception, and whether pregnancy is desired.
+> **Also: symptoms, last test, vaccination status (HPV, hepatitis A and B), injecting drug use, sex work, and — always — whether all sexual contact has been wanted and consensual.**
+
+> [!danger] Site-specific testing — a genital swab misses most extragenital infection
+> **Most rectal and pharyngeal chlamydia and gonorrhoea are ASYMPTOMATIC**, and **testing only the urine or the cervix misses them entirely.**
+> **Test the sites of exposure**, which is why the "practices" question matters.
+> **Self-collected specimens are as sensitive as clinician-collected for chlamydia and gonorrhoea NAAT** — a **self-collected vaginal swab** and a **first-void urine** in men — and acceptability is far higher, which increases uptake.
+> **First-void means the first part of the stream, and the patient should not have passed urine for a period beforehand** — instructions matter or the test underperforms.
+
+> [!warning] Confidentiality — and being accurate about its limits
+> **Say what confidentiality means, including its limits**, rather than promising absolute secrecy you cannot deliver.
+> **Notifiable diseases are notified. Contact tracing occurs. Child protection obligations apply.**
+> **For adolescents, confidentiality is central to whether they attend at all** — and capacity to consent is assessed by maturity and understanding rather than age alone. **South Australia also has statutory provisions on the age of consent to medical treatment.** Cross-refer [[A10]] 0.1. **Be clear about what you would need to share and why**, and involve them in that decision where possible.
+
+> [!danger] Contact tracing and notification are a core competency, not someone else's job
+> **Chlamydia, gonorrhoea, syphilis, HIV and hepatitis are notifiable.**
+> **Partner notification prevents reinfection and onward transmission**, and it can be done by **patient referral** (the person tells their contacts), **provider referral** (the clinician or public health unit does), or **contract referral**.
+> **Australian tools exist to make this easier** — anonymous SMS and email notification services — and knowing they exist and offering them is practical and effective. `UNVERIFIED — current services and their names.`
+> **Look back periods differ by infection**, and the sexual health service or public health unit will advise.
+
+> [!warning] The Australian epidemiology that changes practice
+> **Rates of chlamydia, gonorrhoea and infectious syphilis are substantially higher in some remote Aboriginal and Torres Strait Islander communities**, and there has been a **sustained infectious syphilis outbreak across northern and central Australia, with cases of CONGENITAL SYPHILIS** — a condition that should not occur where antenatal screening and treatment are accessible.
+> **The practical consequences: a lower testing threshold, opportunistic screening, repeat syphilis screening in pregnancy in high-prevalence settings rather than a single test, and prompt treatment.** Cross-refer [[AU1]] and [[O2]]. `UNVERIFIED — the current outbreak status and the recommended antenatal retesting schedule.`
+
+**Ix:** **Chlamydia and gonorrhoea NAAT from all exposed sites** (*why:* extragenital infection is common and asymptomatic; *what:* positive NAAT). **Gonorrhoea CULTURE where positive or symptomatic, before treatment** (*why:* **NAAT does not give antimicrobial sensitivities, and gonorrhoea resistance is a growing and serious problem — culture is what allows resistance to be tracked and treatment adjusted**; *what:* organism and sensitivities). **Syphilis serology** (*why:* rising incidence, protean presentations, and it is easily treated; *what:* treponemal and non-treponemal results). **HIV testing** (*why:* offer broadly rather than selectively; *what:* fourth-generation assay — cross-refer [[K3]] 0.4). **Hepatitis B serology, and hepatitis C where risk factors** (*why:* vaccination status, chronic infection, and hepatitis C is now curable; *what:* serology). Pregnancy test where relevant (*why:* changes management and drug choice; *what:* positive). **Repeat testing after the window period** (*why:* early infection may not yet be detectable, and a negative test taken too soon gives false reassurance; *what:* seroconversion — `UNVERIFIED — window periods for each infection`).
+
+### 0.1.1 Mx – Immediate
+Empirical treatment where the presentation is symptomatic and follow-up is uncertain — **treating presumptively is often correct in sexual health**, since the cost of overtreatment is low and loss to follow-up is common.
+
+### 0.1.2 Mx – Definitive
+Pathogen-specific treatment, partner notification, and notification.
+
+### 0.1.3 Mx – Chronic/long-term
+**Retesting for reinfection**, which is common. Vaccination (HPV, hepatitis A and B). **Discuss PrEP where there is ongoing HIV risk** — cross-refer [[K3]] 0.2.
+
+---
+
+<!-- ===== SOURCE: M7_Adolescent_and_Behavioural_Health.md ===== -->
+*Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.2 The HEEADSSS Psychosocial Assessment
+`CF-PAIR §1.25` **This block and Part 1 §1.25 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+
+> [!info] The domains
+> **· H — HOME.** Who lives at home, relationships, recent moves or changes, safety, who they can talk to, whether they have ever had to leave.
+> **· E — EDUCATION and EMPLOYMENT.** School, performance and any CHANGE in it, engagement, bullying (giving and receiving), suspensions, plans, part-time work.
+> **· E — EATING.** Eating patterns, body image, weight concerns, dieting, exercise, food security. Cross-refer [[N8]] 0.1.
+> **· A — ACTIVITIES.** Friends, hobbies, sport, what they do outside school, ONLINE life and screen use.
+> **· D — DRUGS.** Tobacco and VAPING, alcohol, cannabis and other substances — including energy drinks and supplements. Cross-refer [[N2]].
+> **· S — SEXUALITY.** Relationships, sexual activity, orientation and gender identity, contraception, STI risk, consent and coercion. Cross-refer [[O6]].
+> **· S — SUICIDE, self-harm and mental health.** Mood, sleep, anhedonia, self-harm, suicidal thoughts. Cross-refer [[N1]] 0.3.
+> **· S — SAFETY.** Violence at home or outside, injury, seatbelts and helmets, driving and passenger behaviour, weapons, abuse, online safety.
+
+> [!tip] The technique matters more than the checklist
+> **· MOVE FROM LEAST TO MOST SENSITIVE.** Home and school first, drugs, sexuality and suicide later, once rapport exists. Asking about suicide in the first minute does not work.
+> **· USE THIRD-PERSON NORMALISING FRAMING:** "a lot of people your age have tried vaping — has that been something you've come across?" **This lowers the threshold to disclosure by removing the implication of judgement.**
+> **· ASK PERMISSION for the sensitive domains** — "is it OK if I ask you some questions about relationships?"
+> **· ASK DIRECTLY once you get there.** Euphemism produces euphemistic answers.
+> **· ASK ABOUT ONLINE LIFE SPECIFICALLY — cyberbullying, image sharing and image-based abuse, online contact from adults, gambling, and content. This is where a large part of adolescent social life and adolescent risk now sits, and it is routinely not asked about.**
+> **· ASK ABOUT PROTECTIVE FACTORS: connectedness to family, to school, to a sports team or community group, and a trusted adult.** **Connectedness is one of the strongest protective factors against adolescent morbidity and is worth actively strengthening.**
+
+---
+
+<!-- ===== SOURCE: RESP-X_Occupational_and_Chronic_Lung_Disease.md ===== -->
+*Moved here from `Resp_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!warning] Hypersensitivity pneumonitis — take the exposure history properly
+`CF-PAIR` **Pairs with `> [!danger] Ask the occupational history — it is systematically not taken` above — both are the exposure-history question. Both kept in full, not reconciled.**
+> **An immune response to an inhaled organic antigen**, producing acute, subacute or chronic disease. **Chronic forms can be fibrotic and mistaken for IPF.**
+> **The antigen is found only by asking, in detail:**
+> **· BIRDS — including a neighbour's aviary, feather bedding and down duvets, which patients do not consider "bird exposure".**
+> **· MOULD — damp housing, water damage, humidifiers, air conditioning, hot tubs and spa baths.**
+> **· Occupational — farming (mouldy hay), mushroom growing, woodworking, metalworking fluids.**
+> **· Hobbies — cheese making, malting, gardening compost.**
+> **Ask what changed in the months before symptoms began, and ask whether symptoms improve on holiday or away from home** — that question is as useful here as it is in occupational asthma.
+> **Removal of the antigen is the treatment**, and it can arrest or reverse the disease — which makes finding it disproportionately valuable.
+
+> [!danger] Ask the occupational history — it is systematically not taken
+`CF-PAIR` **Pairs with `> [!warning] Hypersensitivity pneumonitis — take the exposure history properly` below — both are the exposure-history question. Both kept in full, not reconciled.**
+> **"What do you do for work? What have you done in the past — including holiday and student jobs? What are you exposed to? Does anyone else at work have the same symptoms? Are you better on days off or on holiday?"**
+> **Occupational lung disease is missed because the question is not asked**, and by the time it is, the exposure has continued for years and the damage is irreversible.
+> **The latency can be decades**, so a current desk job does not exclude an occupational cause.

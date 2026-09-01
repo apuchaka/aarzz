@@ -988,38 +988,13 @@
 - **Ix:** guided by the differential above rather than a single fixed panel — FBC and coagulation screen (screens for thrombocytopenia/coagulopathy), blood cultures and inflammatory markers if infection/sepsis suspected, and the vasculitis-specific work-up under Cutaneous Vasculitis above if that's the leading differential based on the clinical pattern.
 - **Mx:** entirely dependent on the underlying cause identified above — this entry is a reasoning framework for reaching that diagnosis rather than a single treatment pathway; the only universal point is that **fever plus a rapidly progressive non-blanching rash warrants urgent empirical treatment for possible meningococcal septicaemia** (see [[04_Neurology]] Bacterial Meningitis for the specific AU-verified empirical antibiotic regimen, not repeated here) while the rest of the work-up proceeds in parallel, given the cost of delay in that specific scenario is so high.
 
-## Skin lesion morphology — reference terms
-
-> [!info] Flat, non-palpable changes in skin colour
-> - **Macule:** flat, non-palpable change in skin colour, <0.5cm diameter. Freckles are pigmented macules.
-> - **Patch:** flat, non-palpable change in skin colour, >0.5cm diameter.
-
-> [!info] Elevation due to fluid in a cavity
-> - **Vesicle/Blister:** fluid within the upper layers of skin, <0.5cm diameter.
-> - **Bulla:** large, fluid-filled lesion below the epidermis, >1.0cm diameter.
-> - **Pustule:** collection of pus in the subcutis, >0.5cm diameter.
-
-> [!info] Elevation due to solid masses
-> - **Papule:** raised area, <0.5cm diameter.
-> - **Plaque:** raised area, >2cm diameter.
-> - **Nodule:** mass/lump, >0.5cm diameter.
-> - **Wheal:** dermal oedema.
-
-> [!info] Loss of skin
-> - **Erosion:** partial epidermal loss, heals without scars.
-> - **Ulcer:** full-thickness skin loss.
-> - **Fissure:** linear crack.
-> - **Atrophy:** thinning of the epidermis.
-
-> [!info] Vascular changes
-> - **Telangiectasia:** easily visible superficial blood vessels.
-> - **Spider naevus:** single telangiectatic arteriole in the skin.
-> - **Purpura:** rash caused by blood in the skin, often multiple petechiae.
-> - **Petechiae:** micro-haemorrhage, 1–2mm diameter.
-
-*(Chart concept derived from the Oxford Handbook of Clinical Specialties.)*
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Skin lesion morphology — reference terms`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## Pruritus (Itch) — Generalised and Localised, Approach and Differential
 
@@ -1094,32 +1069,13 @@
 
 ---
 
-## 0.1 Describing a Rash
-
-> [!tip] The vocabulary — because an accurate description gets you a diagnosis over the phone
-> **PRIMARY LESIONS:**
-> **· MACULE — flat, small, colour change only. PATCH — flat, larger.**
-> **· PAPULE — raised, small. PLAQUE — raised, larger, with a flat top. NODULE — raised and DEEPER.**
-> **· VESICLE — fluid-filled, small. BULLA — fluid-filled, larger. PUSTULE — pus-filled.**
-> **· WHEAL — a transient, oedematous, itchy swelling that moves and resolves within hours (the defining feature of urticaria).**
-> **· PURPURA — NON-BLANCHING. PETECHIAE are small; ECCHYMOSES are large.**
-> **SECONDARY CHANGES: scale · crust · excoriation · LICHENIFICATION (thickened skin with accentuated markings, from chronic rubbing) · EROSION (loss of epidermis only — heals WITHOUT scarring) · ULCER (extends into dermis — heals WITH a scar) · fissure · atrophy.**
-> **CONFIGURATION: annular · TARGETOID · linear · GROUPED/herpetiform · reticulate (net-like) · serpiginous · DERMATOMAL.**
-> **DISTRIBUTION: flexural · extensor · PHOTODISTRIBUTED (face, V of neck, dorsal hands, sparing under the chin and behind the ears — the shadowed sites are the clue) · acral · truncal · symmetrical or asymmetrical.**
-
-> [!danger] Two things to do with every rash
-> **1. PRESS ON IT. BLANCHING VERSUS NON-BLANCHING is the single most important bedside test in dermatology**, and it separates a benign exanthem from purpura requiring urgent assessment. Use a glass. Cross-refer [[G3]].
-> **2. EXAMINE THE WHOLE SKIN, UNDRESSED — plus the MUCOSAE (mouth, eyes, genitals), the NAILS, the SCALP, and the PALMS AND SOLES.**
-> **Mucosal involvement changes the diagnosis completely** — it is what distinguishes a straightforward drug rash from Stevens-Johnson syndrome. **A rash examined through a gap in a gown is a rash half seen.**
-
-> [!danger] Erythema is under-recognised in darker skin — and it causes delayed diagnosis
-> **Erythema in richly pigmented skin may appear VIOLACEOUS, BROWN, GREY or simply darker rather than red**, and the classic textbook descriptions ("bright red", "salmon pink") are written from white skin.
-> **The consequences are documented and serious: DELAYED DIAGNOSIS OF CELLULITIS · under-recognition of erythroderma · missed CYANOSIS and missed pallor · and jaundice detected late.**
-> **What to do instead: PALPATE — warmth, induration, tenderness and swelling do not depend on colour · COMPARE with the patient's own unaffected skin, ideally the contralateral side · use good natural light · examine the mucosae, conjunctivae, palms and soles where colour change is easier to appreciate · and ASK the patient what has changed, since they know their own skin.**
-> **Also: post-inflammatory HYPER- and HYPOpigmentation are more prominent and more persistent in darker skin, and are a significant cause of distress that should be acknowledged rather than dismissed as cosmetic.**
-> **Photograph lesions with consent** — for monitoring, for referral, and because dermatology advice by phone is far better with an image.
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 Describing a Rash`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 The Acutely Unwell Patient with a Rash
 
@@ -1919,37 +1875,13 @@
 
 ---
 
-## 0.1 Assessing a Pigmented Lesion
-
-> [!danger] The single most important feature is CHANGE
-> **Australia has the highest incidence of melanoma in the world, and melanoma is a leading cause of cancer death in young Australian adults** — which sets the threshold for how seriously a changing lesion should be taken.
-> **ABCDE: ASYMMETRY · BORDER irregularity · COLOUR variation within the lesion · DIAMETER (conventionally above about 6 mm) · EVOLVING.**
-> **"E" IS THE MOST IMPORTANT. A lesion that is CHANGING — in size, shape, colour, elevation, or by bleeding, itching or ulcerating — warrants assessment regardless of how it scores on the other letters.**
-> **A patient who says "this one has changed" is providing better information than any single morphological feature.**
-
-> [!tip] The ugly duckling sign — often more useful than ABCDE
-> **Most people's naevi RESEMBLE EACH OTHER — they share a family likeness.**
-> **THE UGLY DUCKLING is the lesion that looks DIFFERENT from the patient's others.**
-> **This works because it uses the patient as their own control, and it detects the lesion that ABCDE misses in someone with many atypical naevi (where every lesion scores badly on ABCDE) or someone with very few (where a small early melanoma may not yet meet the criteria).**
-> **Stand back and look at the whole back at once, rather than examining lesions one at a time through a lens.**
-
-> [!warning] The history that stratifies risk
-> **· PERSONAL history of melanoma or keratinocyte cancer — the strongest single risk factor for another.**
-> **· FAMILY history of melanoma, particularly in a first-degree relative or at a young age.**
-> **· SKIN TYPE — fair skin, red or blond hair, blue eyes, freckling, poor tanning.**
-> **· SUN EXPOSURE HISTORY, and specifically the number of episodes of BLISTERING SUNBURN, particularly in CHILDHOOD.** Intermittent intense exposure relates to melanoma; cumulative chronic exposure relates to SCC.
-> **· Number of naevi, and the presence of ATYPICAL naevi.**
-> **· IMMUNOSUPPRESSION — see 0.3, where the transplant population is discussed. This dramatically changes risk.**
-> **· Previous solaria use, outdoor occupation, and prior phototherapy.**
-
-> [!danger] Examine the whole skin, and if in doubt, excise
-> **A "check this mole" consultation should include a FULL SKIN EXAMINATION — including the SCALP (part the hair), BEHIND THE EARS, BETWEEN THE TOES, the SOLES, the NAILS, and the genital and perianal skin where appropriate and consented.**
-> **Melanomas occur at sites that never see the sun, and acral and subungual melanomas are diagnosed late precisely because nobody looks.**
-> **AND THE OPERATING RULE: IF YOU ARE NOT SURE, EXCISE IT OR REFER IT. DO NOT "WATCH" A SUSPICIOUS LESION.**
-> **"Review in three months" applied to a lesion that concerns you is how thin, curable melanomas become thick ones — and the patient frequently does not return.**
-> **Serial photography has a role for monitoring multiple naevi in high-risk patients under specialist follow-up; it is not a substitute for excising a lesion you are worried about.**
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 Assessing a Pigmented Lesion`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Melanoma
 
@@ -2031,27 +1963,13 @@
 
 ---
 
-## 0.5 Nails
-
-> [!tip] Nail signs of systemic disease
-> **· CLUBBING — cross-refer [[A4]] 0.1.**
-> **· KOILONYCHIA (spoon-shaped) — IRON DEFICIENCY.**
-> **· BEAU LINES — transverse grooves across all nails, caused by temporary arrest of nail growth during a severe systemic illness.** **They are useful because they DATE THE INSULT: knowing that nails grow at a roughly predictable rate, the distance from the cuticle indicates how long ago the illness occurred.**
-> **· LEUKONYCHIA (white nails) — hypoalbuminaemia, from liver disease or nephrotic syndrome.**
-> **· TERRY NAILS (proximal white nail with a distal band) — cirrhosis. HALF-AND-HALF nails — chronic kidney disease.**
-> **· SPLINTER HAEMORRHAGES — TRAUMA is by far the commonest cause, but they are a recognised sign of INFECTIVE ENDOCARDITIS and vasculitis.** Cross-refer [[B5]] 0.1.
-> **· PERIUNGUAL TELANGIECTASIA AND ABNORMAL NAILFOLD CAPILLARIES — a genuinely valuable bedside sign of CONNECTIVE TISSUE DISEASE, particularly systemic sclerosis and dermatomyositis.** **Look at the nailfolds with a dermatoscope or even an ophthalmoscope in anyone with Raynaud phenomenon — dilated, dropped-out capillaries indicate a secondary rather than primary Raynaud and change the workup entirely.** Cross-refer [[L2]] 0.4 and [[L3]] 0.6.
-> **· Nail PITTING, ONYCHOLYSIS and oil-drop change — PSORIASIS.** Cross-refer [[G4]] 0.2.
-> **· Yellow nail syndrome — with lymphoedema and pleural effusions.**
-
-> [!danger] Confirm onychomycosis before treating it
-> **A substantial proportion of dystrophic nails that look fungal are NOT — the differential includes PSORIASIS, TRAUMA (particularly the great toenails in runners and in people with foot deformity), lichen planus, and — critically — SUBUNGUAL MELANOMA.**
-> **SYSTEMIC ANTIFUNGALS ARE NOT TRIVIAL: they require months of treatment, carry HEPATOTOXICITY, and have significant DRUG INTERACTIONS (terbinafine and the azoles).**
-> **TAKE NAIL CLIPPINGS AND SUBUNGUAL DEBRIS FOR MICROSCOPY AND CULTURE BEFORE PRESCRIBING** — and take an adequate sample from the affected proximal part, not just a snip of the distal edge.
-> **Treating a psoriatic or traumatic nail with months of terbinafine achieves nothing and risks harm.**
-> **PARONYCHIA: ACUTE — usually staphylococcal, painful, red, may need incision and drainage. CHRONIC — associated with WET WORK and irritant exposure, with loss of the cuticle and secondary candida; the treatment is AVOIDING MOISTURE AND IRRITANTS plus a topical steroid, and antifungals alone do not work.**
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.5 Nails`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.6 Hair Loss
 

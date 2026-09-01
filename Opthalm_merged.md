@@ -3,11 +3,13 @@
 <!-- ===== SOURCE: 05_Ophthalmology.md ===== -->
 
 
-## Eye Anatomy Reference
-
-> [!info] Key structures: cornea, anterior chamber (aqueous humour), iris, pupil, posterior chamber, ciliary body, suspensory ligament of lens, lens, uvea, sclera, choroid, vitreous humour, hyaloid canal, retina, retinal blood vessels, macula, fovea, optic disc, optic nerve.
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Eye Anatomy Reference`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## Causes of Sudden, Sustained Vision Loss
 
@@ -1523,21 +1525,13 @@ Bilateral miosis, poor pupillary dilation, pupil irregularity. Light-near dissoc
 > - **A red, painful eye with reduced vision is not dry eye** — that is keratitis, uveitis or worse.
 > - **Exposure keratopathy in the unconscious, sedated or facial-palsy patient** is a preventable cause of corneal damage: **eye care with lubricants and lid taping is a nursing and medical responsibility in ICU and in any patient who cannot close their eyes.**
 
-## 0.2 Drugs for Eye Examinations and Procedures
-
-- **Mydriatics and cycloplegics:** **tropicamide** (short-acting mydriatic, the standard for fundoscopy), **cyclopentolate** (longer, cycloplegic — used for refraction in children and in uveitis to relieve ciliary spasm), **atropine** (very long-acting — used therapeutically in uveitis and amblyopia, not for examination), **phenylephrine** (a sympathomimetic mydriatic without cycloplegia, often combined with tropicamide).
-- **Topical anaesthetics:** **oxybuprocaine, proxymetacaine, tetracaine** — for tonometry, foreign body removal, and to allow examination of a photophobic eye (see `NEW_Drugs_02_Anaesthetics.md` 0.1.4).
-- **Diagnostic dyes:** **fluorescein** — the essential bedside dye, revealing epithelial defects, abrasions, ulcers and the **dendritic ulcer of herpes simplex keratitis** under blue light, and used in **Seidel's test** for aqueous leak after penetrating injury; **lissamine green** and **rose bengal** for ocular surface staining. **Intravenous fluorescein angiography** is a separate retinal investigation, and **anaphylaxis is a recognised risk** requiring resuscitation facilities.
-- **Miotics:** **pilocarpine** — used to reverse mydriasis and in acute angle-closure glaucoma.
-- **Intraoperative and periprocedural agents:** viscoelastics, intracameral antibiotics and mydriatics, and **anti-VEGF agents** (see 0.5).
-
-> [!danger] **NEVER give a topical anaesthetic to a patient to take home** — repeated use causes corneal epithelial toxicity, delayed healing, ulceration and permanent visual loss, and it removes the pain that would bring them back. Single clinical use only.
-
-> [!danger] **Dilating an eye: the real risks and the false one.**
-> - **Precipitating acute angle-closure glaucoma is uncommon but real** in a predisposed (shallow anterior chamber, hypermetropic, older, Asian) eye. **Warn the patient to return immediately with a painful red eye, haloes, headache or vomiting** — and know that this presentation is a **sight-threatening emergency** needing same-day ophthalmology.
-> - **Do not dilate when the pupil is being used for neurological monitoring** — in head injury or reduced conscious state, a pharmacologically fixed dilated pupil destroys the most important clinical sign. **Document clearly on the chart and at the bedside if you dilate such a patient.**
-> - **The patient cannot drive** until the mydriasis wears off (hours with tropicamide, up to a day or more with cyclopentolate and much longer with atropine), and should be warned about glare and blurred near vision.
-> - **Systemic anticholinergic effects** — flushing, tachycardia, dry mouth and **delirium**, particularly with cyclopentolate and atropine in **children and the elderly**; and **phenylephrine can raise blood pressure**. Per **CLAUDE.md rule 5**, note that **paediatric ophthalmic drop concentrations differ from adult ones** — atropine and cyclopentolate in infants have caused systemic toxicity, and the strength must come from a paediatric source.
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.2 Drugs for Eye Examinations and Procedures`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.3 Drugs for Eye Infections
 

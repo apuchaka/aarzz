@@ -429,7 +429,8 @@ Regular narrow-complex tachycardia not ventricular in origin. QRS <80 ms, usuall
 
 **Long-term Mx:** β-blockers, radio-frequency ablation
 
-> [!tip] Valsalva manoeuvre — forced expiration against a closed glottis. Can terminate SVT or normalise middle-ear pressures.
+> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Valsalva manoeuvre — forced expiration against a closed glottis. C` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 
 ---
 
@@ -724,25 +725,25 @@ Obstruction of blood flow → hypoperfusion of tissues distal to obstruction.
 > - **ASMR:** Aortic Stenosis & Mitral Regurgitation during Systole
 > - **ARMS:** Aortic Regurgitation & Mitral Stenosis during Diastole
 
-### 0.21.2 Heart sounds
-- **S1 ("lub"):** closure of mitral and tricuspid valves
-- **S2 ("dub"):** closure of aortic and pulmonary valves; splitting on inspiration is normal
-- **S3:** rapid ventricular filling during diastole; normal if <30yo, may persist in some women ≤50yo; also seen in LV failure (e.g. dilated cardiomyopathy), constrictive pericarditis, mitral regurgitation
-- **S4:** atrial contraction against a stiff ventricle; seen in aortic stenosis, HTN, HOCM
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.21.2 Heart sounds`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ### 0.21.3 Prosthetic heart valves
 - **Biological:** usually bovine/porcine; structural deterioration and calcification over time; long-term anticoagulation not needed — aspirin long-term ± warfarin for first 3 months
 - **Mechanical:** bileaflet valve most common now; low failure rate; increased thrombosis risk → requires long-term warfarin. Target INR is risk-stratified rather than a single flat figure per valve position — confirmed against 2025 ESC guidance and multiple contemporary sources, Aug 2026: **aortic position, modern bileaflet valve, no additional thrombotic risk factors** — target 2.5 (range 2.0–3.0); **aortic position WITH additional risk factors** (AF, prior thromboembolism, LV dysfunction/EF <35%, hypercoagulable state) **or an older-generation valve** (ball-in-cage, older tilting-disc) — target 3.0 (range 2.5–3.5); **any mechanical mitral (or tricuspid) valve** — target 3.0 (range 2.5–3.5) regardless of additional risk factors, given the inherently higher thrombotic risk of the mitral position. The file's original flat "3.0 aortic/3.5 mitral" figures correspond to the higher-risk-factor aortic tier and the mitral tier respectively — not wrong, but incomplete, since a risk-factor-free modern bileaflet aortic valve should actually target the lower 2.5 figure. Low-dose aspirin (75–100mg) is typically added to warfarin in mechanical valve patients per current guidance, an addition not in the original note. I still could not confirm the specific Australasian Society of Thrombosis and Haemostasis (ASTH) document directly — the above reflects international (ESC/ACC-AHA-aligned) consensus, which Australian practice generally follows closely for this topic, but check ASTH directly for any AU-specific nuance before advising a specific patient.
 
-### 0.21.4 Pulses
-- **Pulsus paradoxus:** ≥10 mmHg fall in SBP on inspiration; seen in cardiac tamponade or severe asthma
-- **Slow-rising:** aortic stenosis
-- **Collapsing:** aortic regurgitation, patent ductus arteriosus, hyperkinetic states (anaemia, thyrotoxicosis)
-- **Pulsus alternans:** alternating strong/weak beats; seen in severe LV failure
-- **Bisferiens pulse:** double pulse with 2 systolic peaks; seen in mixed aortic valve disease, sometimes HOCM
-- **"Jerky" pulse:** seen in HOCM
-
----
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.21.4 Pulses`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.22 Rheumatic Fever
 
@@ -1876,8 +1877,8 @@ Adherence support, secondary cause screening if indicated, and cardiovascular ri
 > | **Pre-eclampsia / eclampsia** | Pregnancy, proteinuria, hyperreflexia, seizures | **Magnesium sulfate and delivery** — cross-refer [[O2]] |
 > | **Phaeochromocytoma crisis / sympathomimetic** | Paroxysmal, diaphoresis, palpitations | **Alpha blockade before beta blockade** — see 0.4 |
 
-> [!danger] Fundoscopy is the examination that most often makes the diagnosis
-> **Malignant (accelerated) hypertension** is defined by severe hypertension with **retinal haemorrhages, cotton wool spots, hard exudates or papilloedema.** It is the finding that converts an alarming number into an emergency, it is available at the bedside for free, and it is the assessment most often skipped. Look at the fundi in any patient with severe hypertension.
+> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Fundoscopy is the examination that most often makes the diagnosis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 
 > [!warning] The rate of reduction is as important as the target
 > Outside aortic dissection, the principle is a **controlled, partial reduction over the first hour, then a further gradual reduction over the following day**, using a **titratable intravenous agent in a monitored setting** so that an overshoot can be corrected within minutes. `UNVERIFIED — the percentage reduction targets for the first hour and the subsequent 24 hours, the specific targets in aortic dissection and in stroke with and without thrombolysis, and all agent choices and doses are omitted. Obtain from eTG and your health network's protocol.`
@@ -2000,8 +2001,8 @@ Identify and treat precipitants. Cardiology referral for recurrent or symptomati
 > [!tip] Regular at about 150 — think flutter
 > Atrial flutter has an atrial rate of roughly 300, and with **2:1 conduction the ventricular rate is about 150 and metronomically regular.** Any regular narrow tachycardia near 150 should prompt a deliberate hunt for flutter waves — they hide in the T waves and are easiest to see in the inferior leads and V1. **Adenosine, by transiently blocking the AV node, unmasks them**, which makes it a diagnostic as well as a therapeutic agent.
 
-> [!info] Vagal manoeuvres — do them properly
-> The **modified Valsalva** — standard strain, then immediately laid flat with the legs passively raised — is substantially more effective than the conventional Valsalva and should be the default technique. It is free, it works in a meaningful proportion of SVT, and it is worth doing well before reaching for a drug. `UNVERIFIED — strain pressure and duration.`
+> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Vagal manoeuvres — do them properly` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 
 > [!warning] Adenesine — warn the patient first
 > Adenosine causes a brief but genuinely unpleasant sensation of chest tightness, flushing and impending doom, and patients who are not warned find it frightening. Explain it, have the defibrillator and a rhythm strip running, and give it **rapidly through a large proximal vein with an immediate flush** — its half-life is measured in seconds and a slow push simply does not work.
@@ -2217,9 +2218,8 @@ Regular device follow-up. **Psychological support after shocks** — anxiety and
 > **2. Seizure** — abnormal cortical electrical activity.
 > **3. Other** — psychogenic non-epileptic events, hypoglycaemia, intoxication, head trauma, and the "not really TLoC" group such as falls without loss of consciousness.
 
-> [!danger] The collateral history is the investigation
-> **What a witness saw is worth more than any test in this presentation.** The patient by definition did not observe their own event. Ring the family member, the ambulance officer, the bystander. Ask specifically: how long were they out, what colour were they, did they jerk and for how long, were their eyes open or closed, how long before they were talking sensibly again, and what were they doing immediately beforehand.
-> Failing to obtain a collateral history is the commonest reason this presentation goes unresolved.
+> [!note] **Moved to `[[History-Taking]]` Part 2 (2026-09-01):** `The collateral history is the investigation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 
 > [!info] Syncope versus seizure
 > | | Favours syncope | Favours seizure |
@@ -2432,10 +2432,8 @@ Phenotype-specific — cross-refer [[F0.3]]. Vasopressors and ICU where fluid-un
 > **Intensity** — graded 1 to 6, with **grade 4 and above defined by a palpable thrill**, which is the practically useful boundary. `UNVERIFIED — Levine grading descriptors.`
 > **Associated findings** — pulse character, pulse pressure, apex beat, heart sounds, added sounds, and signs of heart failure. **The peripheral findings frequently establish the diagnosis more reliably than the murmur itself.**
 
-> [!info] Dynamic manoeuvres
-> **Inspiration increases venous return to the right heart, so right-sided murmurs get louder** — the mnemonic **RILE** (Right on Inspiration, Left on Expiration).
-> **Valsalva and standing reduce preload, so most murmurs get quieter — with two exceptions that get LOUDER: hypertrophic cardiomyopathy and mitral valve prolapse.** Reduced ventricular volume worsens outflow obstruction in HOCM and increases prolapse in MVP. This pair of exceptions is examined repeatedly.
-> **Squatting and handgrip increase afterload and preload**, increasing mitral regurgitation, ventricular septal defect and aortic regurgitation murmurs, and reducing the HOCM murmur.
+> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Dynamic manoeuvres` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 
 > [!tip] The common lesions
 > | Lesion | Murmur | Key associated findings |
