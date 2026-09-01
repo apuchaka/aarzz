@@ -121,9 +121,9 @@ generated one of each per presentation.
 - [x] **Infectious Disease_merged.md** — done
 - [x] **MSK_merged.md** — done
 - [x] **Derm_merged.md** — done
-- [ ] OBGYN_merged.md  <-- RESUME HERE
+- [x] **OBGYN_merged.md** — done
+- [ ] Pediatrics_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Pediatrics_merged.md
 - [ ] Psychiatry_merged.md
 - [ ] Geriatrics_merged.md
 - [ ] Anaes_merged.md
