@@ -133,7 +133,10 @@ generated one of each per presentation.
 
 **ALL 19 SYSTEM FILES DONE.**
 - [x] **Clinical Process set (16 files)** — done, `_meta/flags/_Clinical_Process_set.md`
-- [ ] **Consolidated report**  <-- RESUME HERE
+- [x] **Consolidated report** — `_meta/flags/_CONSOLIDATED.md` + artifact
+      https://claude.ai/code/artifact/47915732-d749-41d4-beee-6c21b2ee4e26
+
+**RUN COMPLETE. Awaiting user decisions. NOTHING MOVED.**
 - [ ] Resp_merged.md
 - [ ] **Consolidated report** — moves by destination file · all in-text flags · groupings by
       confidence · anything unplaceable
