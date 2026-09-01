@@ -88,6 +88,13 @@ signal is *unrefuted*, not *verified*.
 is antihypertensives in pregnancy; **which section was intended cannot be determined**, and CLAUDE.md
 rule 1 forbids writing a plausible-sounding target. Flagged for the user.
 
+## THIRD INDEXER DEFECT (found at Endocrine, fixed)
+`xref.py` reported `F0-2_Acid-Base__DKA_and_Fluid_States` as **zero inbound**. It has **55+**.
+Prose writes `[[F0.2]]` with a dot; the filename uses a hyphen — **the exact trap CLAUDE.md §1.10
+documents**. Only hyphen-prefixed codes were affected (`F0-1`…`F0-5`, all in Emergency plus F0-2 in
+Endocrine). Fixed by registering the dotted alias. **All four earlier zero-inbound verdicts re-run
+and unchanged.** Three tool defects now, all caught by validating against a known answer.
+
 ## Residual limitation, not fixable mechanically
 Anaphoric references carry no filename and no tool can index them.
 `Renal and Urology_merged.md:2000` reads *"see 0.22–0.23 of the same file"*. Hand-caught.
@@ -108,9 +115,9 @@ generated one of each per presentation.
       options 2+3. Dangling 9→1, number/name disagreements 7→0.
 - [x] **Resp_merged.md** — done, `_meta/flags/Resp_merged.md`
 - [x] **Renal and Urology_merged.md** — done
-- [ ] Endocrine and metabolics_merged.md  <-- RESUME HERE
+- [x] **Endocrine and metabolics_merged.md** — done
+- [ ] Neuro_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Neuro_merged.md
 - [ ] Heme Onc_merged.md
 - [ ] Infectious Disease_merged.md
 - [ ] MSK_merged.md
