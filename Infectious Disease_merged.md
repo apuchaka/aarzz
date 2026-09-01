@@ -1394,7 +1394,7 @@ A **window period** is the interval between exposure and the point at which a te
 - Epididymo-orchitis — see [[07_Renal_Medicine_and_Urology]] Epididymitis.
 - Folliculitis — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Folliculitis.
 - Head lice — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Head lice (pediculosis capitis).
-- Infective endocarditis — see [[01_Cardiovascular]] 0.30 Infective Endocarditis.
+- Infective endocarditis — see [[01_Cardiovascular]] 0.31 Infective Endocarditis.
 - LRTI / pneumonia — see [[02_Respiratory]] Pneumonia.
 - Meningitis — see [[04_Neurology]] Bacterial Meningitis and Viral Meningitis (under CNS Infections).
 - Septic arthritis — see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis.

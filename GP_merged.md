@@ -46,7 +46,7 @@ These are population programs with defined eligibility, and an intern is expecte
 
 ### 0.1.2 Cardiovascular, diabetes and kidney risk
 
-- **Absolute cardiovascular risk** assessment — calculated risk over a defined period, rather than treating each risk factor in isolation. This is the reasoning behind the treatment thresholds in [[01_Cardiovascular]] 0.39 Dyslipidaemia and 0.2 Hypertension, not repeated here.
+- **Absolute cardiovascular risk** assessment — calculated risk over a defined period, rather than treating each risk factor in isolation. This is the reasoning behind the treatment thresholds in [[01_Cardiovascular]] 0.40 Dyslipidaemia and 0.2 Hypertension, not repeated here.
 - **Type 2 diabetes** — **AUSDRISK** is the Australian risk tool, with the specific caveat already established in [[06_Metabolic_Medicine_and_Endocrinology]] that it is **not validated for Aboriginal and Torres Strait Islander people** and a different, earlier screening approach applies.
 - **Chronic kidney disease** — risk-based screening (eGFR and urine ACR) in diabetes, hypertension and other risk groups, per [[07_Renal_Medicine_and_Urology]].
 - **Osteoporosis and fracture prevention** — see [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis for the AU-specific DXA and treatment-initiation thresholds, and [[18_Geriatrics_and_Older_Persons_Health]] Falls in Older People for the other half of fracture prevention.

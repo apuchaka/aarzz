@@ -1272,7 +1272,7 @@ Remove clothing and jewellery (unless adherent), cover with cling film laid on l
 - **Cardiac contusions:** result in cardiac arrhythmias + sternal fracture. Ix: echo. Mx: pericardial effusions or tamponade managed accordingly.
 - **Pulmonary contusion:** common, insidious onset but lethal. Mx: early intubation & ventilation.
 - **Diaphragmatic injury:** usually on the left side. Mx: gastric tube passing into the thoracic cavity, then surgical repair.
-- Cross-referenced conditions: simple and tension pneumothorax — see [[02_Respiratory]] Pneumothorax; flail chest — see [[11_06_Ortho_-_Spinal_Orthopaedics]] Rib fractures; cardiac tamponade — see [[01_Cardiovascular]] 0.33 Cardiac Tamponade.
+- Cross-referenced conditions: simple and tension pneumothorax — see [[02_Respiratory]] Pneumothorax; flail chest — see [[11_06_Ortho_-_Spinal_Orthopaedics]] Rib fractures; cardiac tamponade — see [[01_Cardiovascular]] 0.34 Cardiac Tamponade.
 
 ## Lower genitourinary tract trauma
 

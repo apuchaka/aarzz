@@ -29,7 +29,7 @@ This file collects examination technique across all systems as an action checkli
 
 **C — Circulation**
 - **Assess:** heart rate, blood pressure, capillary refill time, skin colour/temperature, urine output if available, active bleeding sites, heart sounds/murmurs, JVP.
-- **Red flags:** hypotension, tachycardia not explained by pain/anxiety alone, prolonged capillary refill, cool/mottled peripheries, active uncontrolled bleeding, muffled heart sounds with hypotension and raised JVP (Beck's triad — see [[01_Cardiovascular]] 0.33 Cardiac Tamponade).
+- **Red flags:** hypotension, tachycardia not explained by pain/anxiety alone, prolonged capillary refill, cool/mottled peripheries, active uncontrolled bleeding, muffled heart sounds with hypotension and raised JVP (Beck's triad — see [[01_Cardiovascular]] 0.34 Cardiac Tamponade).
 - **Immediate actions:** IV access (typically two large-bore cannulae in a significantly unwell patient), bloods including group & save/crossmatch if bleeding or a transfusion may be needed, IV fluid resuscitation, control of any visible external bleeding (direct pressure), blood transfusion if indicated (see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Packed red cells for the specific transfusion thresholds, not repeated here) — see [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis for the specific fluid/antibiotic bundle in suspected sepsis, and [[01_Cardiovascular]] 0.20 Shock for the broader shock differential and management this feeds into, not repeated here.
 
 **D — Disability**
@@ -151,7 +151,7 @@ This file collects examination technique across all systems as an action checkli
 **Opening:** wash hands, introduce, confirm identity, explain, consent, expose both lower limbs, general inspection (colour, hair loss, ulceration, gangrene, scars from previous vascular surgery).
 
 **Step-by-step sequence:**
-1. Inspect both legs side by side for colour, trophic changes, ulcers (note location — see [[01_Cardiovascular]] 0.35.8 for the venous/arterial/neuropathic ulcer differential), muscle wasting.
+1. Inspect both legs side by side for colour, trophic changes, ulcers (note location — see [[01_Cardiovascular]] 0.36.8 for the venous/arterial/neuropathic ulcer differential), muscle wasting.
 2. Palpate temperature (compare sides, work distally), capillary refill.
 3. Palpate pulses in sequence: femoral → popliteal → posterior tibial → dorsalis pedis, saying aloud each one as you go and grading presence/strength.
 4. Buerger's test if indicated: elevate the leg to 45° and look for pallor, then hang the leg over the bed edge and look for reactive hyperaemia (positive in significant PAD).

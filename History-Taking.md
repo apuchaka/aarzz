@@ -64,11 +64,11 @@ This file collects every CSV row that names a symptom/presentation rather than a
 - **PMHx:** known cardiac disease (arrhythmia, structural heart disease, prior MI), epilepsy, diabetes (hypoglycaemia), psychiatric history
 - **DHx/allergies:** antihypertensives (postural hypotension), QT-prolonging drugs (see [[01_Cardiovascular]] Long QT Syndrome), insulin/sulfonylureas, recreational drugs/alcohol
 - **FHx:** sudden cardiac death <40yo, epilepsy, inherited arrhythmia syndromes
-- **SHx:** occupation (driving/machinery-operating implications — see driving standards in [[01_Cardiovascular]] 0.34.5), alcohol, driving history
+- **SHx:** occupation (driving/machinery-operating implications — see driving standards in [[01_Cardiovascular]] 0.35.5), alcohol, driving history
 
 **Differential this history narrows down:** cardiac syncope (arrhythmia, structural — aortic stenosis, HOCM), vasovagal/reflex syncope, orthostatic hypotension, seizure, hypoglycaemia, psychogenic non-epileptic episode. Cross-reference [[01_Cardiovascular]] for cardiac causes and [[04_Neurology]] Syncope and Seizures and Epilepsy for the neurological workup rather than repeating here.
 
-**Closing:** Summarise back, check understanding, explain next steps (examination incl. lying/standing BP, ECG, bloods incl. glucose), discuss driving restrictions if relevant (see [[01_Cardiovascular]] 0.34.5 for the Austroads cardiovascular driving table, or [[04_Neurology]] Austroads Driving Standards for the seizure/epilepsy-specific standards if a seizure cause is suspected), safety-net.
+**Closing:** Summarise back, check understanding, explain next steps (examination incl. lying/standing BP, ECG, bloods incl. glucose), discuss driving restrictions if relevant (see [[01_Cardiovascular]] 0.35.5 for the Austroads cardiovascular driving table, or [[04_Neurology]] Austroads Driving Standards for the seizure/epilepsy-specific standards if a seizure cause is suspected), safety-net.
 
 ---
 
@@ -99,7 +99,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 - **FHx:** sudden cardiac death <40yo, inherited arrhythmia syndromes, thyroid disease
 - **SHx:** caffeine/alcohol/recreational drug use, smoking, stress levels/sleep
 
-**Differential this history narrows down:** sinus tachycardia (anxiety, anaemia, thyrotoxicosis, fever, dehydration), AF/flutter, SVT, ventricular ectopics/PACs (see [[01_Cardiovascular]] 0.40), more concerning ventricular arrhythmias in the context of structural heart disease or red flags above, panic/anxiety-related. Cross-reference the relevant [[01_Cardiovascular]] sections for the disease-level detail on each rather than repeating here.
+**Differential this history narrows down:** sinus tachycardia (anxiety, anaemia, thyrotoxicosis, fever, dehydration), AF/flutter, SVT, ventricular ectopics/PACs (see [[01_Cardiovascular]] 0.41), more concerning ventricular arrhythmias in the context of structural heart disease or red flags above, panic/anxiety-related. Cross-reference the relevant [[01_Cardiovascular]] sections for the disease-level detail on each rather than repeating here.
 
 **Closing:** summarise back, check understanding, explain next steps (ECG, Holter monitoring if intermittent, bloods incl. TFT/FBC), safety-net (advise urgent review if syncope, chest pain, or worsening occurs).
 
@@ -113,7 +113,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 ## 1.5 Doppler / ABI Assessment (history + technique overview)
 
-> [!note] This CSV row is primarily an examination/investigation technique rather than a history-taking topic — see [[Examination]] for the step-by-step ABPI procedure. Relevant history prompts here: claudication distance and pattern, rest pain, risk factors for PAD (smoking, DM, HTN), prior vascular intervention. Cross-reference [[01_Cardiovascular]] 0.35.1–0.35.2 for the disease-level content (PAD, ABPI interpretation).
+> [!note] This CSV row is primarily an examination/investigation technique rather than a history-taking topic — see [[Examination]] for the step-by-step ABPI procedure. Relevant history prompts here: claudication distance and pattern, rest pain, risk factors for PAD (smoking, DM, HTN), prior vascular intervention. Cross-reference [[01_Cardiovascular]] 0.36.1–0.36.2 for the disease-level content (PAD, ABPI interpretation).
 
 ---
 
@@ -136,11 +136,11 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 **Relevant Hx prompts:**
 - **PMHx:** asthma, COPD, GORD, known malignancy, immunocompromise, prior TB
-- **DHx/allergies:** ACE inhibitors (a classic drug cause of chronic dry cough — see [[01_Cardiovascular]] 0.34.1), other new medications
+- **DHx/allergies:** ACE inhibitors (a classic drug cause of chronic dry cough — see [[01_Cardiovascular]] 0.35.1), other new medications
 - **FHx:** lung cancer, TB contact, atopy
 - **SHx:** smoking (pack-years), occupational exposures, TB risk factors (travel/birth in endemic country, contact with active TB), pet/allergen exposure. For the occupational exposures themselves see [[02_Respiratory]] Pneumoconioses (Occupational Lung Disease — brief overview)
 
-**Differential this history narrows down:** acute — URTI/acute bronchitis (see [[02_Respiratory]]), pneumonia, asthma/COPD exacerbation, PE (see [[01_Cardiovascular]] 0.29); chronic — asthma, COPD, GORD, post-nasal drip, ACE inhibitor, bronchiectasis, lung cancer, TB, IPF (see the relevant [[02_Respiratory]] sections for each rather than repeating here).
+**Differential this history narrows down:** acute — URTI/acute bronchitis (see [[02_Respiratory]]), pneumonia, asthma/COPD exacerbation, PE (see [[01_Cardiovascular]] 0.30); chronic — asthma, COPD, GORD, post-nasal drip, ACE inhibitor, bronchiectasis, lung cancer, TB, IPF (see the relevant [[02_Respiratory]] sections for each rather than repeating here).
 
 **Closing:** summarise back, check understanding, explain next steps (examination, CXR if red flags/chronic, spirometry if obstructive picture suspected), safety-net.
 
@@ -160,7 +160,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 **Associated/systemic symptoms to screen for:** weight loss, night sweats, fever, chest pain, dyspnoea, symptoms of DVT (calf swelling/pain — relevant to PE as a cause), symptoms of a bleeding disorder/easy bruising.
 
 > [!danger] Red flags for haemoptysis
-> Massive haemoptysis (airway emergency); haemoptysis with weight loss/night sweats/smoking history (malignancy, TB); haemoptysis with pleuritic chest pain and risk factors for VTE (PE — see [[01_Cardiovascular]] 0.29); haemoptysis in a patient on anticoagulation with an unexpectedly high INR/supratherapeutic anticoagulant level.
+> Massive haemoptysis (airway emergency); haemoptysis with weight loss/night sweats/smoking history (malignancy, TB); haemoptysis with pleuritic chest pain and risk factors for VTE (PE — see [[01_Cardiovascular]] 0.30); haemoptysis in a patient on anticoagulation with an unexpectedly high INR/supratherapeutic anticoagulant level.
 
 **Relevant Hx prompts:**
 - **PMHx:** known malignancy, bronchiectasis, TB (past or current), cardiac disease (mitral stenosis is a classic though less common cause), recent chest trauma/procedure
@@ -168,7 +168,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 - **FHx:** lung cancer, bleeding disorders
 - **SHx:** smoking (pack-years), TB risk factors, occupational exposures
 
-**Differential this history narrows down:** infective (bronchiectasis, TB, pneumonia, lung abscess — see relevant [[02_Respiratory]] sections), malignant (lung cancer — see [[02_Respiratory]] Lung Cancers), vascular (PE — see [[01_Cardiovascular]] 0.29), cardiac (mitral stenosis — see [[01_Cardiovascular]] 0.21), coagulopathy/anticoagulation-related, and — a common cause worth normalising for anxious patients — a benign, self-limiting cause such as a vigorous coughing fit with minor airway trauma.
+**Differential this history narrows down:** infective (bronchiectasis, TB, pneumonia, lung abscess — see relevant [[02_Respiratory]] sections), malignant (lung cancer — see [[02_Respiratory]] Lung Cancers), vascular (PE — see [[01_Cardiovascular]] 0.30), cardiac (mitral stenosis — see [[01_Cardiovascular]] 0.21), coagulopathy/anticoagulation-related, and — a common cause worth normalising for anxious patients — a benign, self-limiting cause such as a vigorous coughing fit with minor airway trauma.
 
 **Closing:** summarise back, check understanding, explain next steps (examination, CXR ± CT depending on risk factors, bronchoscopy if indicated), safety-net for worsening/massive haemoptysis (urgent presentation).
 
@@ -197,7 +197,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 - **FHx:** cardiac disease, VTE, atopy
 - **SHx:** smoking, occupational exposures, exercise tolerance at baseline, recent immobility/travel (VTE risk)
 
-**Differential this history narrows down:** respiratory (asthma, COPD, pneumonia, PE, pneumothorax — see [[02_Respiratory]] and [[01_Cardiovascular]] 0.29), cardiac (heart failure, ACS, arrhythmia — see [[01_Cardiovascular]]), other (anaemia, anxiety/panic, metabolic acidosis, obesity/deconditioning). Cross-reference the relevant disease sections for full detail.
+**Differential this history narrows down:** respiratory (asthma, COPD, pneumonia, PE, pneumothorax — see [[02_Respiratory]] and [[01_Cardiovascular]] 0.30), cardiac (heart failure, ACS, arrhythmia — see [[01_Cardiovascular]]), other (anaemia, anxiety/panic, metabolic acidosis, obesity/deconditioning). Cross-reference the relevant disease sections for full detail.
 
 **Closing:** summarise back, check understanding, explain next steps (examination, O2 sats, CXR, ECG, bloods incl. FBC/BNP as relevant), safety-net.
 

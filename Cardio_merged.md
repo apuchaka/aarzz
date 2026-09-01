@@ -110,7 +110,7 @@ Risk stratify with **GRACE score** (predicts all-cause mortality at 6 months pos
 - Address the emotional impact directly — an MI is frightening and often reframes a patient's sense of their own mortality; name this ("This is a lot to take in — a heart attack understandably makes people worried about what comes next").
 - Explain the immediate treatment received (angioplasty/stent or clot-busting medication) in simple terms and what it achieved.
 - Explain secondary prevention medications as a group and why they matter long-term (the "6 A's," section 0.1.5) rather than listing them as an overwhelming pill count — frame as "these medications work together to stop this happening again."
-- Cover the practical/lifestyle points from 0.1.8 above (diet, exercise, sex, driving — cross-reference [[01_Cardiovascular]] 0.34.5 for Austroads timing) as part of this same conversation, since patients usually want to know "when can I get back to normal life."
+- Cover the practical/lifestyle points from 0.1.8 above (diet, exercise, sex, driving — cross-reference [[01_Cardiovascular]] 0.35.5 for Austroads timing) as part of this same conversation, since patients usually want to know "when can I get back to normal life."
 - Check understanding and invite questions before closing; offer written information and cardiac rehabilitation referral.
 
 ---

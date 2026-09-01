@@ -1771,7 +1771,7 @@ Primary injuries divided into focal or diffuse.
 - Switching from one antiepileptic to another, or planned withdrawal of medication in a driver who otherwise meets the conditional-licence standard: **3-month non-driving period** applies.
 - General safety principles for all licence-holders with epilepsy: take antiseizure medication regularly as prescribed, ensure adequate sleep, avoid substances (e.g. alcohol) known to increase seizure risk; periodic review recommended (at least annually for conditional-licence holders).
 
-**Syncope:** (see also [[01_Cardiovascular]] 0.34.5 for the fuller Austroads cardiovascular-syncope driving table) — a non-driving period of at least 4 weeks applies generally for cardiovascular-cause syncope in private drivers, with the specific period depending on whether a treatable cause was identified and addressed.
+**Syncope:** (see also [[01_Cardiovascular]] 0.35.5 for the fuller Austroads cardiovascular-syncope driving table) — a non-driving period of at least 4 weeks applies generally for cardiovascular-cause syncope in private drivers, with the specific period depending on whether a treatable cause was identified and addressed.
 
 **Stroke/TIA:**
 - **Stroke:** minimum **4 weeks** non-driving for private drivers (this applies as a blanket minimum regardless of severity, reflecting the non-progressive nature of stroke once stabilised — a notably simpler rule than the UK's deficit-dependent approach). Private drivers discharged from specialist care within 4 weeks of a stroke, assessed as fit to drive at discharge, can continue driving on their current licence without needing formal reassessment (a 2022-edition streamlining).
