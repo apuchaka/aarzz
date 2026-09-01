@@ -549,6 +549,11 @@ Spirometry (*why:* quantifies functional impact and tracks progression; *what:* 
 
 ## 0.12 Pleural Effusions
 
+> [!warning] FLAG 2026-09-01 — Light's criteria appear in three files
+> `Investigation-Interpretation.md:102` (which correctly defers here for the disease content),
+> `GP_merged.md:278`, and this entry. **The Investigation-Interpretation boundary is already drawn
+> correctly; GP's copy is the odd one.** Flagged, not merged.
+
 | Transudate (<30 g/L protein) | Exudate (>30 g/L protein) |
 |---|---|
 | Heart failure | Infection |
@@ -810,6 +815,13 @@ Encompasses BiPAP, CPAP, etc.
 ---
 
 ## 0.22 Cross-references to avoid duplication
+
+> [!warning] FLAG 2026-09-01 — this is metadata sitting inside clinical content
+> An administrative section in a clinical file; candidate for `_meta/`. **It also parks two topics
+> without a home**: *"Diphtheria — flagged for whichever of those files comes up next in the rotation"*
+> (it landed in `Infectious Disease_merged 08_01-03 ## Diphtheria`) and the paediatric respiratory rows
+> (bronchiolitis, croup, pertussis, viral-induced wheeze), which `Pediatrics_merged M6 §0.2–§0.4` and
+> `15_04a`/`15_04b` own. **Both parked items are accounted for; the note is now stale.**
 
 - **Pulmonary Embolism / Pulmonary embolus** (CSV rows) — fully covered in [[01_Cardiovascular]] section 0.30, including Wells score pathway, PERC rule, and Mx. Not duplicated here — this is a genuinely cross-cutting topic (chest/vascular) already built in its canonical home per the project's cross-cutting-topic convention.
 - **Diphtheria** — primarily an infectious disease/paediatric-immunisation topic (though it can cause upper airway obstruction/stridor); not built here — more appropriately homed in the Immunology, Allergy & Infectious Disease category or Paediatrics (immunisation-preventable disease), flagged for whichever of those files comes up next in the rotation.
@@ -1308,6 +1320,15 @@ Encompasses BiPAP, CPAP, etc.
 ---
 
 ## 0.1 Interstitial Lung Disease
+
+> [!warning] FLAG 2026-09-01 — `RESP-X` duplicates five topics `02_Respiratory` already owns
+> **This source has zero inbound references, and five of its six sections duplicate Corpus A:**
+> `§0.1 ILD` ↔ `§0.7 IPF` + `§0.7.1 zonal distribution` · `§0.2 Occupational Lung Disease` ↔
+> `§0.20 Pneumoconioses` (which calls itself a *"brief overview"* while this one is the full treatment) ·
+> `§0.3 Asbestos-Related Disease` ↔ `§0.5 Mesothelioma` + `§0.5.1` + `§0.5.2` ·
+> `§0.4 Bronchiectasis` ↔ `§0.6 Bronchiectasis` · `§0.5 Sleep-Disordered Breathing` ↔ `§0.18 OSA`.
+> **Not a move — a merge decision, and merging is not approved.** Each is richer in different places:
+> RESP-X on occupational history and Australian asbestos exposure, Corpus A on mesothelioma staging.
 
 **D:** A heterogeneous group of disorders affecting the pulmonary interstitium, producing **restrictive physiology with impaired gas transfer.**
 

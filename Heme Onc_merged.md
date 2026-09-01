@@ -781,6 +781,11 @@
 
 ## Postpartum Infection and Thromboembolism
 
+> [!warning] FLAG 2026-09-01 — obstetric content inside a thrombophilia source
+> This sits in `10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia`, a file about
+> none of those things. **Puerperal sepsis is obstetric.**
+> `OBGYN_merged 16_14-15 ## Sepsis in the puerperium` is the counterpart. Flagged, not moved.
+
 > [!note] Gap-filled from CSV ("Postpartum infection and Thromboembolism," High yield) — genuinely absent as a standalone topic despite both components (endometritis, VTE risk) being individually high-yield; this entry covers the postpartum-specific presentation and risk factors, cross-referencing the disease-level detail already built elsewhere (DVT/PE Mx above, general sepsis principles in [[08_09_Infectious_Disease_-_Miscellaneous]]) rather than repeating it.
 
 ### Postpartum (puerperal) infection
@@ -1168,6 +1173,11 @@
 
 ## Thymoma
 
+> [!warning] FLAG 2026-09-01 — ties to Neuro
+> Thymoma's clinical significance here is largely its myasthenia gravis association, owned by
+> `Neuro_merged D4 §0.5 Neuromuscular Junction Disorders` and `04_Neurology ### Myasthenia Gravis`.
+> Flagged, not moved.
+
 - **D:** neoplasm of the epithelial cells of the thymus gland, located in the anterior mediastinum.
 - **R (associations):** myasthenia gravis (30–40% of thymoma patients); RBC aplasia; dermatomyositis; SLE; SIADH.
 - **S/Smx:** generally asymptomatic — 1/3 of cases are identified incidentally on imaging.
@@ -1321,6 +1331,13 @@
 - In chronic GVHD, if treated early, most cases resolve within 5 years. 2-year survival was 74% in one study.
 
 ## 0.2 Organ transplant
+
+> [!warning] FLAG 2026-09-01 — overlaps Renal, and this source has zero inbound references
+> `Renal and Urology_merged §0.2.4 Renal Replacement Therapy Modalities`, `§0.2.5 Rejection` and
+> `§0.2.6 Complications of transplant and lifelong immunosuppression` cover the same ground and **are**
+> referenced. **`10_10b_Haemonc_-_Transplant_Medicine` has none.**
+> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers in this vault can be
+> validated at all. It is listed because it coincides with demonstrated content overlap, not instead of it.
 
 > [!info] Types of transplant
 > - **Allograft:** organ transplanted from one individual to another.
@@ -1499,6 +1516,15 @@
 
 ## 0.1 Li-Fraumeni syndrome
 
+> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
+> **`10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes` has 3 inbound references and ALL THREE
+> ARE FROM `GP_merged.md`** — nothing in haematology or oncology points at it.
+> **`GP_merged NEW_Investigations_General_and_Preventive §0.14 Genetic Risk Assessment` and
+> `§0.15 Genetics and Molecular Testing` point here**, and this file does not point back.
+> `Pediatrics_merged 15_18b Genetic Disorders Inheritance Summary` and `15_20`–`15_21` hold the
+> syndrome genetics from the paediatric side.
+> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
+
 - **D:** cancer predisposition disorder due to germline mutations in the p53 tumour suppressor gene. Autosomal dominant.
 - **Cancers:** sarcomas, leukaemias.
 - Tends to be diagnosed when a patient develops sarcoma before age 45. May also be diagnosed on screening when another family member develops cancer <45 years old, or sarcoma at any age.
@@ -1561,6 +1587,15 @@
 > Beyond that specific drug-availability point, the broader principles cross-check reasonably well against Australian sources: **breakthrough dose = one-sixth of the daily dose is confirmed** by WA Cancer and Palliative Care Network guidelines; the general PO morphine : PO oxycodone ≈ 2:1 ratio is broadly consistent with Australian references. However, **the specific PO→SC morphine ratio genuinely varies even between Australian sources** (2:1 in some services' guidelines, 3:1 in others citing the Therapeutic Guidelines directly) — this reflects genuine practice variation rather than a single settled Australian figure, so treat the ratio below as illustrative and always confirm against the current Therapeutic Guidelines: Palliative Care or local palliative care service protocol before calculating an actual dose, given how safety-critical this conversion is.
 
 ## General principles
+
+> [!warning] FLAG 2026-09-01 — palliative care has 31 inbound references and none from haematology
+> `10_11c_Oncology_-_Palliative_Care_Prescribing` (11 inbound: **Anaes ×4**, GP, MSK) and
+> `J5 §0.4–§0.6` (20 inbound) are referenced from across the vault but not from within this file's
+> subject. `Geriatrics_merged GER2 §0.5 End-of-Life Care` and `§0.6 Advance Care Planning` are the
+> other half. **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty:
+> nothing has been moved.**
+> **Opioid conversion appears in five places** (here, `Anaes 03a §0.7`, `AN1 §0.6`,
+> `NEW_Drugs_03 §0.4`, `Emergency F0-4 §0.9/§0.10`).
 
 - Breakthrough dose of a strong opioid is one-sixth of the daily dose — confirmed consistent with Australian palliative care guidance (see note above).
 - Laxatives for all patients on opioids.
@@ -2859,6 +2894,13 @@
 - **Monitoring:** haemoglobin (frequently during titration), **iron studies (ferritin and transferrin saturation) regularly**, blood pressure, and potassium in dialysis patients.
 
 ### 0.2.3 Colony Stimulating Factors
+
+> [!warning] FLAG 2026-09-01 — confirmed destination for the G-CSF misfile, from both ends
+> This subsection already states it *"resolves the `G-CSF` row miscategorised onto the investigations
+> build list"*, and `GI NEW_Investigations_Gastroenterology §0.34 G-CSF` independently records that
+> G-CSF *"is a drug, not a test"*. **Two files agreeing from opposite ends.**
+> ⚠️ **This source is byte-identical in `Endocrine and metabolics_merged.md`** — whichever copy receives
+> the GI content, the other must not be left behind.
 *(this entry also resolves the `G-CSF` row miscategorised onto the investigations build list)*
 - **Mechanism:** recombinant haematopoietic growth factors driving **neutrophil** production and release from the marrow.
 - **Key agents:** **filgrastim** and **pegfilgrastim** (**G-CSF**, granulocyte colony-stimulating factor); lenograstim; **sargramostim** (GM-CSF, little used in Australia); **romiplostim and eltrombopag** are thrombopoietin receptor agonists — a different target (platelets), used in **ITP** and aplastic anaemia.
@@ -3684,6 +3726,13 @@
 **Alt:** **Sentinel node biopsy with blue dye and gamma probe** (the procedure lymphoscintigraphy serves); **ultrasound** of nodes with fine-needle aspiration; CT, MRI and **MR lymphangiography**; **indocyanine green near-infrared lymphography** (increasingly used for lymphoedema and surgical planning); **Doppler ultrasound to exclude DVT**; bioimpedance and limb volume measurement for lymphoedema monitoring. See [[10_12_Oncology_-_Breast]].
 
 ## 0.25 Petechiae — **UNRESOLVED: not an investigation**
+
+> [!warning] FLAG 2026-09-01 — third instance of one error class
+> **A sign filed as an investigation, self-declared, with a live `UNRESOLVED` marker.**
+> The same shape occurs in two other files: `GI NEW_Investigations_Gastroenterology §0.31 Pale Stools`
+> and `Renal NEW_Investigations_Renal_and_Urology §0.4 Dark Urine`.
+> **Three files independently produced it**, which makes it a property of the build lists rather than
+> of any one file. The marker stays until the build-list question is answered.
 
 > [!warning] **`Petechiae` appears as a row in the Haematology section of `data/build_list_investigations.md`, but it is a CLINICAL SIGN, not an investigation or bedside test.**
 > It is recorded here rather than silently dropped, consistent with the handling of `Fecal Incontinence` (a symptom on the investigations list) and `G-CSF` (a drug on the investigations list) earlier in this build. **Logged as `UNRESOLVED — needs review`** for the person maintaining the build lists: it most likely belongs on the **Presentations & Symptoms** list.

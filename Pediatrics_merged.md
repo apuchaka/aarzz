@@ -2,6 +2,16 @@
 
 <!-- ===== SOURCE: 15_01a_Paeds_-_Paediatric_and_Newborn_Life_Support.md ===== -->
 
+> [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
+> This source duplicates `Emergency and Crit Care_merged F0-4 §0.4 Paediatric Resuscitation` and
+> `§0.5 Neonatal Resuscitation`, and `15_01b_Paeds_-_Anaphylaxis` duplicates
+> `Emergency F0-1 §0.9`, `NEW_Drugs_01 §0.5 Sympathomimetics (Anaphylaxis) — Adrenaline` and
+> `Derm_merged 09_01 ## Anaphylaxis` — **five homes for anaphylaxis.**
+> **These are the sections where weight-based and age-banded figures live.** The ASCIA adrenaline table
+> in this corpus has already produced one live paediatric dosing defect (a band stopping at 7.5 kg).
+> **Every per-kg figure and injector band must be listed and checked before anything is merged.**
+> See `_meta/flags/_RULE5_FIGURES.md`.
+
 
 > [!info] Verified against current ANZCOR (Australian and New Zealand Committee on Resuscitation) Guideline 12.2 — Paediatric Advanced Life Support, Aug 2026 — **the core drug doses and defibrillation energy below already exactly match current ANZCOR recommendations**: adrenaline 10mcg/kg (max 1mg) IV/IO, amiodarone 5mg/kg (max 300mg) IV/IO, and 4J/kg initial defibrillation energy for VF/pulseless VT are all genuinely internationally standardised (ILCOR-based) figures shared between UK Resus Council and ANZCOR, not UK-specific numbers needing replacement. The adrenaline-after-3rd-shock-then-alternate-cycles timing and the 4Hs/4Ts reversible causes framework are likewise consistent with current ANZCOR guidance. This is a case where checking confirmed the content was already correct — no numeric changes needed, though for the most current version always check ANZCOR directly (anzcor.org) given resuscitation guidelines are periodically revised following international evidence reviews.
 
@@ -970,6 +980,13 @@
 - **Mx:** posterior sagittal anorectoplasty.
 
 ## Mid-gut malrotation
+
+> [!warning] FLAG 2026-09-01 — `M-10` GI holds a second copy of this content
+> `GI_merged C2 §0.3 Bilious versus Non-Bilious Vomiting` carries the neonatal malrotation, pyloric
+> stenosis, atresia, Hirschsprung and NEC content alongside its adult material.
+> **This file owns the topics** — `## Pyloric stenosis`, `## Hirschsprung disease`, `M3 §0.4 Neonatal
+> Vomiting`, `M5 §0.2 Vomiting and Gastroenteritis`. **The GI discriminator is GI's and stays there.**
+> Pair marked, not merged.
 
 - **D:** spectrum of rotational and fixation disturbances that can occur during embryonic development.
 - **A:** arrested rotation → abnormal intestinal fixations + malrotation.
@@ -4084,6 +4101,13 @@
 ---
 
 ## 0.6 ADHD
+
+> [!warning] FLAG 2026-09-01 — duplicate pair with Psychiatry
+> `Psychiatry_merged 14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder` and
+> `NEW_Drugs_17 §0.5 Drugs for Attention Deficit Hyperactivity Disorder` are the other copies.
+> **`M7` has 22 inbound references with Neuro ×9** — dating from when the Corpus B psychiatry set was
+> filed under Neuro. Those references now cross into `Psychiatry_merged.md`.
+> Pair marked, not merged.
 
 > [!info] The diagnosis requires impairment in MORE THAN ONE SETTING
 > **Persistent inattention and/or hyperactivity-impulsivity, present before a defined age, occurring in TWO OR MORE SETTINGS, causing FUNCTIONAL IMPAIRMENT, and not better explained by another condition.** `UNVERIFIED — the criteria and the age threshold.`

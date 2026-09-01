@@ -157,6 +157,15 @@
 
 ## Vertigo
 
+> [!warning] FLAG 2026-09-01 — vertigo is the most duplicated topic in this file, and it spans two files
+> **In ENT:** this section + `### Central vestibular dysfunction` + `### Peripheral vestibular
+> dysfunction` · `## Benign paroxysmal positional vertigo (BPPV)` · `## Ménière's disease` ·
+> `## Vestibular neuronitis` · `## (Viral) labyrinthitis` · `F1 §0.6 Vertigo, Trauma and Foreign Bodies`.
+> **In Neuro:** `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` and the
+> whole of `D5_Dizziness__Vertigo_and_Gait` (six sections).
+> **`D5` has 21 inbound references and ENT is its largest external referrer at ×6.**
+> `Examination.md §1.21` already owns Dix-Hallpike and the HINTS exam. Flagged, nothing merged.
+
 - **D:** true vertigo is the illusion of rotary movement of either the body or the environment.
 
 ### Central vestibular dysfunction
@@ -652,6 +661,15 @@
 
 ## 0.3 Barrett's oesophagus
 
+> [!warning] FLAG 2026-09-01 — `M-R1` approved for GI, and a stale pointer sits below
+> **`## 0.3 Barrett's oesophagus` and `## 0.4 Oesophageal carcinoma` are approved to move to
+> `GI_merged.md`** — both are taught in the GI block. `## 0.1 Dysphagia — approach`,
+> `## 0.5 Pharyngeal pouch` and `## 0.6 Globus pharyngeus` stay in ENT.
+> **Not yet executed: the move is held pending approval by destination.**
+> ⚠️ **The pointer `*(See also 03.08 for GORD…)*` below is WRONG. `03.08` is not GORD; GORD is
+> `03_Gastrointestinal §0.28`.** It has no wikilink and no filename, so neither `dangling.py` nor
+> `misaimed.py` can see it — **it must be fixed by hand when this section moves.**
+
 - **D:** metaplasia of the lower oesophageal mucosa (columnar epithelium replacing squamous epithelium).
 - **R:** GORD, M>F (7:1), smoking, central obesity.
 - **S/Smx:** GORD symptoms; Barrett's itself is asymptomatic.
@@ -695,6 +713,12 @@
 
 
 ## Bell's palsy
+
+> [!warning] FLAG 2026-09-01 — this stub is the MODEL, not a problem
+> It has **zero inbound references and that is correct**: it exists only so the ENT-context
+> cross-reference to `[[04_Neurology]] Cranial Nerve Disorders and Vertigo → Bell's Palsy` is not lost.
+> It states what it defers, why, and where the full entry lives.
+> **This is the shape every deliberate deferral in this corpus should take. Do not delete it.**
 
 > [!note] Full disease entry (definition, forehead-sparing UMN vs LMN localising sign, Ix, dosing regimens, referral criteria, prognosis, risk factors) already built in [[04_Neurology]] Cranial Nerve Disorders and Vertigo → Bell's Palsy, not duplicated here — that entry is the more natural anatomical home for this cranial nerve topic and has since been merged with this file's originally-unique detail (specific prednisolone regimens, bilateral-palsy differential, 3-week referral timeline). See there for the full clinical picture; this stub exists only so the ENT-context cross-reference (relevant given Bell's palsy is a common ENT referral) isn't lost.
 

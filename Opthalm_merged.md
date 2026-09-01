@@ -356,6 +356,11 @@
 
 ## Glaucoma and Anti-Glaucoma Medications
 
+> [!warning] FLAG 2026-09-01 — glaucoma is split three ways inside this source
+> `## Glaucoma` + `### Angle-Closure Glaucoma` · this section · `## Open-Angle Glaucoma`.
+> Plus `E1 §0.3 Acute Angle-Closure Glaucoma` and `NEW_Drugs_11 §0.4 Drugs for Glaucoma` in this file.
+> **Five sections, one topic, one file.** Flagged, nothing merged.
+
 | Medication | MOA | Notes |
 |---|---|---|
 | Prostaglandin analogues (PGA) — e.g. latanoprost | ↑uveoscleral outflow | OD administration; AE — brown pigmentation of iris, increased eyelash length |
@@ -409,6 +414,10 @@
 
 ## Blepharospasm
 
+> [!warning] FLAG 2026-09-01 — filed between two lid-disease sections but it is a movement disorder
+> `Neuro_merged D6 §0.6 Chorea, Dystonia, Tics and Myoclonus` owns dystonias.
+> Boundary call; flagged, not moved.
+
 **D:** dystonia of the upper eyelids — involuntary contraction of the orbicularis oculi, often in response to ocular pain. Focal dystonia = repetitive blepharospasm.
 
 **A:** idiopathic, drugs (neuroleptics, PD, progressive supranuclear palsy, paraneoplastic)
@@ -423,6 +432,10 @@
 ---
 
 ## Stye (Hordeolum) and Chalazion
+
+> [!warning] FLAG 2026-09-01 — the same condition has two sections in this source, 36 lines apart
+> `## Hordeolum (Stye)` appears again below. **The clearest same-source duplicate found in the vault.**
+> Both retained; pair marked, not merged.
 
 > [!note] Gap-filled from CSV ("Eyelid disorders," Ophthalmology category, Low yield) — the **only** MISSING candidate the Ophthalmology cross-check produced, and a genuine one: blepharitis and entropion/ectropion are both built below and above, but the two commonest eyelid lumps were absent entirely. Low yield, so built compactly.
 
@@ -871,6 +884,13 @@ Bilateral miosis, poor pupillary dilation, pupil irregularity. Light-near dissoc
 ---
 
 ## Ocular Manifestations of Systemic Disease — Consolidated Reference
+
+> [!warning] FLAG 2026-09-01 — a cross-system routing artefact worth preserving
+> This block indexes the eye findings of diabetes, hypertension, thyroid disease, MS, sarcoid and RA.
+> **If content moves, this is the kind of connective tissue that is lost first** (CLAUDE.md §1.10).
+> ⚠️ **`Opthalm_merged.md:1221` points at `[[B2]] 0.3` for hypertensive retinopathy, and
+> `Cardio_merged B2 §0.3` carries `> [!danger] Fundoscopy is the examination that most often makes the
+> diagnosis`. That pair already cross-references correctly — do not break it.**
 
 > [!note] Gap-filled from CSV ("Ocular manifestations of systemic disease," Medium yield, filed under Cardiology in the source spreadsheet but genuinely an Ophthalmology topic) — the individual disease entries this draws together (Diabetic Retinopathy, Hypertensive Retinopathy, Thyroid Eye Disease, and others throughout this file) are already thoroughly built; this entry provides the reverse lookup — given a known systemic disease, what should the eye be examined for — which is a genuinely different retrieval direction than reading each disease entry individually, and is exactly what this CSV item is testing.
 

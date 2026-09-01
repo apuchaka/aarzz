@@ -415,6 +415,15 @@
 
 ### 0.12.1 Anaemia in pregnancy
 
+> [!warning] FLAG 2026-09-01 — `§0.12.1`–`§0.12.13` are thirteen one-paragraph versions of diseases owned elsewhere
+> Anaemia · diabetes · hypertension · hyperthyroidism · jaundice · malaria · renal disease · psychiatric
+> drugs · epilepsy · connective tissue disease · HIV · rubella · measles.
+> `O2 §0.6 Medical Problems and Infection in Pregnancy` is the Corpus B version of the same list.
+> ⚠️ **DO NOT DISPERSE THESE. The pregnancy-specific modification is the content** — the whole point is
+> what changes in pregnancy. Each system file also carries its own "in pregnancy" note
+> (`Endocrine I1 §0.6`, `I2 §0.7`, `Cardio B5 §0.3`, `Neuro D6 §0.3` on valproate).
+> Flagged as a set for cross-checking, not for splitting.
+
 - Defined as Hb <105 g/L
 - Antenatal screening at booking + 28w
 
@@ -3262,6 +3271,13 @@ Arise from ovarian surface epithelium.
 
 ## Breast Lump
 
+> [!warning] FLAG 2026-09-01 — breast content is in four files and twice within this one
+> Here (`NEW_Breast`) · `O7_Breast_Disease §0.1–§0.6` (this file) · `Heme Onc_merged 10_12 Oncology —
+> Breast` · `MSK_merged NEW_Inv_Ortho §0.13 Breast MRI`.
+> Plus `Examination.md §1.17 Breast Examination` and `Infectious Disease_merged 08_09 ## Mastitis and
+> Breast Abscess`. **`NEW_Breast` and `O7` cover the same three topics — lump, pain, nipple discharge —
+> in this same file.** Flagged; nothing merged.
+
 - **DDx:** the governing principle is that **a discrete breast lump is cancer until the triple test says otherwise** — the differential is worked *through* the triple test, not instead of it.
   - **Malignant:** invasive ductal carcinoma (commonest), invasive lobular carcinoma (classically an area of thickening rather than a discrete lump, and easier to miss both clinically and on imaging), DCIS, inflammatory breast cancer (erythema, peau d'orange, warmth — **mimics mastitis and is the classic trap**, so any "mastitis" not resolving on antibiotics needs re-evaluation, not a second antibiotic course), Paget's disease of the nipple, phyllodes tumour, breast lymphoma, metastasis to breast.
   - **Benign, and commoner:** fibroadenoma (typically younger women, firm, smooth, mobile — "breast mouse"), breast cyst (may appear suddenly and be tender), fibrocystic change, fat necrosis (often follows trauma or surgery, and **can mimic malignancy clinically and radiologically**), lipoma, duct ectasia, intraductal papilloma (often with blood-stained nipple discharge), galactocele in a lactating woman, abscess, gynaecomastia in men, accessory breast tissue.
@@ -4261,7 +4277,15 @@ All eight skips are T3.
 > [!danger] The drugs — and the ones that must be stopped
 > **SAFE AND USED IN PREGNANCY: LABETALOL · METHYLDOPA · NIFEDIPINE · HYDRALAZINE (parenteral, for acute severe hypertension).**
 > **CONTRAINDICATED: ACE INHIBITORS AND ARBs — they cause fetal renal failure, oligohydramnios, pulmonary hypoplasia, skull ossification defects and fetal death.** **A woman of childbearing potential on an ACE inhibitor should know this and have a plan; a woman who presents pregnant on one needs it changed immediately.** **DIURETICS are generally avoided.**
-> Cross-refer [[B2]] 0.5 and [[O1]] 0.6. `UNVERIFIED — all doses and thresholds for treatment.`
+> Cross-refer [[B2]] 0.5 and [[O1]] 0.6.
+
+> [!warning] FLAG 2026-09-01 — this pointer does not resolve, and is deliberately NOT guessed
+> **`B2_Hypertension_Spectrum` has only `§0.1`–`§0.4`. There is no `§0.5`.**
+> The context is antihypertensives in pregnancy, so the intended target was plausibly
+> `B2 §0.1 Elevated Blood Pressure` or `§0.3 Hypertensive Emergency` — **but that is a guess, and
+> CLAUDE.md rule 1 forbids writing a plausible-sounding cross-reference.**
+> This is the **only dangling numeric pointer left in the vault** after the 23 repaired on 2026-09-01.
+> It needs a human ruling. `UNVERIFIED — all doses and thresholds for treatment.`
 
 > [!warning] Three points that change management
 > **1. TREATING THE BLOOD PRESSURE DOES NOT TREAT PRE-ECLAMPSIA.**
@@ -5183,6 +5207,14 @@ Conservative management first — **supervised pelvic floor physiotherapy, pessa
 ---
 
 ## 0.1 The Sexual History and STI Assessment
+
+> [!warning] FLAG 2026-09-01 — the sexual history exists in three files
+> Here (the "five Ps" and the normalising script) · `Infectious Disease_merged 08_08 ## The STI Check —
+> Sexual History, What to Test, and When` + `### Taking a sexual history` ·
+> `MSK_merged NEW_Inv_Ortho §0.18 STI Screening (Asymptomatic Sexual Health Check)`.
+> **`O6` has 23 inbound references and only 2 internal** — GI ×6, ID ×5, Neuro ×4, Paediatrics — so this
+> is already the de facto owner. **A history-taking framework, flagged for `History-Taking.md`;
+> not moved.**
 
 > [!tip] Structure it, normalise it, and do not assume
 > **Normalise before asking:** "I ask everyone these questions because they're important for your health — is that alright?" This single sentence changes the encounter.

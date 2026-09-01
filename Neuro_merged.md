@@ -822,6 +822,13 @@ Peak incidence ~36h after last drink — **one point on a withdrawal timeline, n
 
 ### Seizures vs Syncope
 
+> [!warning] FLAG 2026-09-01 — this discriminator sits across a file boundary
+> **The seizure half is here; the syncope half is in `Cardio_merged B4`** — `§0.1 Transient Loss of
+> Consciousness`, `§0.2 Syncope`, `§0.3 Presyncope`, `§0.4 Conscious Collapse and the Unwitnessed Fall`.
+> `04_Neurology ## Syncope` +`### Cardiac syncope` +`### Non-cardiac syncope` is a third treatment.
+> **A comparison table belongs with whoever owns both sides, and at present nobody does.**
+> `Geriatrics_merged ### Distinguishing a fall from a collapse` is the same discriminator again.
+
 | Feature | Seizures | Syncope |
 |---|---|---|
 | Movement | Rhythmic jerking (tonic-clonic) | Twitching, jerking |
@@ -1613,6 +1620,11 @@ Primary injuries divided into focal or diffuse.
 
 ### Subacute Combined Degeneration of the Spinal Cord
 
+> [!warning] FLAG 2026-09-01 — B₁₂ deficiency straddles Neuro and Heme Onc
+> `Heme Onc_merged 10_06a ## Vitamin B12 deficiency` owns the haematology, and
+> `NEW_Investigations_Haematology` owns the B12/MMA/homocysteine/anti-IF work-up.
+> **The neurological presentation justifies this entry staying.** Flagged, not moved.
+
 **D:** demyelination of the lateral and posterior columns of the spinal cord.
 
 **A:** vitamin B12 deficiency, recreational nitrous oxide inhalation (deactivates B12 from its active form).
@@ -1763,6 +1775,12 @@ Primary injuries divided into focal or diffuse.
 
 ### Austroads Driving Standards (Neurological Conditions)
 
+> [!warning] FLAG 2026-09-01 — one of four Austroads homes
+> `Cardio_merged §0.35.5` · `Endocrine and metabolics_merged §0.15.8` · `Preventive-Health.md §0.6`.
+> **`Clinical-Process-EBM-Consent-Capacity.md:102` points at two of them from a single table row**, and
+> `Neuro_merged.md:1774` and `Resp_merged.md:725` both cross-refer to the cardiovascular one.
+> Candidate for a single home; not moved.
+
 > [!info] Verified against Austroads *Assessing Fitness to Drive* 2022 edition (current at Aug 2026), private-vehicle standards, Aug 2026 — Australian standards are structured quite differently from the UK DVLA rules, generally built around a single "default standard" seizure-free/event-free period rather than the UK's variable tiered system. Commercial-vehicle standards are considerably stricter (e.g. 10-year seizure-free default for some categories) — check the source document directly if advising a commercial driver.
 
 **Epilepsy/seizures:**
@@ -1797,6 +1815,11 @@ Primary injuries divided into focal or diffuse.
 | Global | Wernicke's + Broca's + arcuate fasciculus | — | Impaired | Non-fluent | Impaired; may still communicate via gestures |
 
 ### Wernicke's Encephalopathy
+
+> [!warning] FLAG 2026-09-01 — duplicate pair with GI
+> `GI_merged C2 §0.7 Complications of Vomiting` opens with
+> *"Wernicke's encephalopathy — give thiamine before glucose"* and covers the same emergency.
+> **Both retained; pair marked, not merged.**
 
 **D:** neuropsychiatric disorder caused by thiamine (B1) deficiency.
 

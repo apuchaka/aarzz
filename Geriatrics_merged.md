@@ -549,6 +549,12 @@ Ongoing exercise, review of the home, and **address fear of falling directly**, 
 
 ## 0.6 Osteoporosis and Fracture Prevention
 
+> [!warning] FLAG 2026-09-01 — osteoporosis is in five places
+> `MSK_merged 11_08b ## Osteoporosis` and `## Bisphosphonates` · `MSK L7 §0.6 Fragility Fractures` ·
+> `Endocrine and metabolics_merged NEW_Drugs_10 §0.1 Drugs Affecting Bone`.
+> **`MSK_merged NEW_Inv_Ortho §0.4 Bone Densitometry (DEXA)` is the investigation half.**
+> Flagged, nothing merged.
+
 **D:** A skeletal disorder of reduced bone strength predisposing to fracture. Diagnosed by **bone mineral density on DXA** below a defined threshold, **or — regardless of density — by the occurrence of a minimal trauma (fragility) fracture.**
 
 > [!danger] A minimal trauma fracture IS osteoporosis, and most of these patients are never treated
@@ -612,6 +618,12 @@ Investigation for secondary causes, and commencement of appropriate pharmacother
 
 ## 0.1 Continence
 
+> [!warning] FLAG 2026-09-01 — continence is in six places across four files
+> `Renal and Urology_merged 07 §0.13 Incontinence` and `H2 §0.6 Incontinence` ·
+> `OBGYN_merged 17_08 ## Urinary incontinence` and `O5 §0.6 Prolapse and Urinary Incontinence` ·
+> `GI_merged §0.42 Faecal Incontinence (Adult)`.
+> **The most-duplicated single topic found in the vault.** Flagged, nothing merged.
+
 > [!danger] Ask directly — this is massively under-reported
 > **Most people with incontinence never mention it**, through embarrassment, through believing it is a normal part of ageing, or because nobody asked. It is a leading contributor to social withdrawal, falls (rushing to the toilet), skin breakdown, carer burden and residential placement.
 > **"Do you ever leak urine, or have trouble getting to the toilet in time?"** — asked directly and matter-of-factly — finds a problem that is frequently very treatable.
@@ -656,6 +668,11 @@ Type-specific — **pelvic floor training, bladder training, treatment of prosta
 ---
 
 ## 0.2 Pressure Injury
+
+> [!warning] FLAG 2026-09-01 — three files cover wounds, pressure injury and leg ulcers
+> `Derm_merged G2 §0.6 Wounds, Pressure Injury and Leg Ulcers` ·
+> `Examination.md §1.27 Leg and Skin Ulcers` and `§1.28 Wound Management` ·
+> `Cardio_merged §0.36.8 Lower Leg Ulcers`. Flagged, nothing merged.
 
 **A/P:** **Sustained pressure exceeding capillary closing pressure occludes perfusion**, causing tissue ischaemia. **Shear** (sliding down the bed, dragging rather than lifting during transfers) deforms and tears tissue at deeper levels, **friction** damages the epidermis, and **moisture** from incontinence or sweat macerates skin and lowers its tolerance.
 **It is a function of pressure AND time** — high pressure for a short period, or modest pressure for a long one, both cause injury. **Deep tissue over a bony prominence dies before the skin does**, which is why a small area of discolouration can overlie extensive underlying necrosis.
@@ -759,6 +776,10 @@ Meals services, shopping and cooking support, social eating, and **carer educati
 
 ## 0.4 Immobility, Deconditioning and Hospital-Associated Decline
 
+> [!warning] FLAG 2026-09-01 — duplicate pair with MSK
+> `MSK_merged L6 §0.6 Immobility, Mobility Aids and Functional Assessment` covers the same ground.
+> Pair marked, not merged.
+
 > [!danger] Deconditioning in hospital is iatrogenic and it is fast
 > **Measurable muscle loss occurs within days of bed rest**, and it is disproportionately severe in older people who have little reserve. A patient admitted walking independently can be discharged unable to transfer, having received entirely correct treatment for the condition they came in with.
 > **A substantial proportion of older people never regain their pre-admission functional level.**
@@ -792,6 +813,13 @@ Ongoing exercise, equipment, home supports, and **realistic goal-setting with th
 ---
 
 ## 0.5 End-of-Life Care and Recognising Dying
+
+> [!warning] FLAG 2026-09-01 — end-of-life care is split with Heme Onc and has no owner
+> `Heme Onc_merged 10_11c_Oncology_-_Palliative_Care_Prescribing` and `J5 §0.4 Palliative Care
+> Principles`, `§0.5 Symptom Control`, `§0.6 The Last Days of Life`.
+> **31 inbound references between them, none from haematology.**
+> **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty; nothing has
+> been moved into it.**
 
 > [!tip] The four trajectories, and why they matter
 > **1. Sudden death** — no trajectory.

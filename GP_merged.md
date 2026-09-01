@@ -15,6 +15,14 @@
 
 ## 0.1 Preventive Medicine and Screening in Australian General Practice
 
+> [!warning] FLAG 2026-09-01 — preventive health spans six sources across four files
+> `Preventive-Health.md` (created 2026-09-01, holding the former `GER3`, **31 inbound**) ·
+> `## 0.12 Health Screening` and `## 0.13 Low-Dose CT Screening` **in this same file** ·
+> `PH1_Population_Health_and_Research_Literacy §0.5 Screening` and `§0.6 Public Health Practice` ·
+> `Infectious Disease_merged 08_01-03 ## Vaccination Schedule` and `## Passive Immunisation` ·
+> `NEW_Drugs_20_Vaccines §0.1` · `Pediatrics_merged 15_24b`.
+> **`§0.12` duplicates `§0.1.1` within this one file.** Flagged, nothing merged.
+
 > [!note] Gap-filled from CSV ("Preventative medicine in General Practice including cancer screen, premature cardiovascular diseases, infections, diabetes, conditions occurring during pregnancy, genetic disorders, behavioural disorders, smoking cessation," High yield). Every *component* existed somewhere — cervical screening in [[17_09_Cervical__Vaginal_and_Endometrial_Cancer]] Cervical cancer screening, cardiovascular risk in [[01_Cardiovascular]], diabetes risk in [[06_Metabolic_Medicine_and_Endocrinology]] — but **no entry consolidated them into a framework**, and nothing stated what preventive care an asymptomatic Australian adult should actually be offered and when. Built as an index and framework that routes to the existing disease entries rather than duplicating them. Verified against the RACGP *Guidelines for preventive activities in general practice* ("Red Book," 10th edition), the Australian Government's National Bowel Cancer Screening Program, BreastScreen Australia and National Cervical Screening Program, and the National Immunisation Program, Aug 2026.
 
 > [!info] **The theory behind this entry lives elsewhere, deliberately.** *Why* a programme exists for bowel and cervical cancer but not for prostate or ovarian — the screening criteria, and the lead-time, length-time and overdiagnosis biases that make screening look better than it is — is built in [[Clinical-Process-EBM-Consent-Capacity]] Screening — Why a Programme Exists, and the Biases That Make Screening Look Better Than It Is. This entry stays the Australian *what and who*; that one is the *why*.
@@ -144,6 +152,15 @@ The temptation is to read this as policy. It is not — several of the levers si
 ---
 
 ## 0.4 Continuity of Care, and What Makes General Practice Different
+
+> [!warning] FLAG 2026-09-01 — structural observation about this file
+> **Every other section in `GP_merged.md` has a stronger home elsewhere**: the preventive-medicine half
+> belongs with `Preventive-Health.md`, and `NEW_Investigations_General_and_Preventive` is sixteen
+> general laboratory tests that belong with `Investigation-Interpretation.md`
+> (`§0.1 Inflammatory Markers` duplicates its `§1.21` outright).
+> **This section is the one with a genuine claim to be "general practice".**
+> ⚠️ **Whether General Practice is a system or a setting is a decision for you, not a finding.**
+> Recorded, not acted on.
 
 > [!note] Gap-filled from CSV ("Continuity of care," High yield, and "Unique features of General practice," Medium — built together because the second is largely an explanation of why the first matters). Genuinely absent: **zero corpus-wide hits** for "continuity of care". Placed here rather than in [[Communication]] because this is a property of the *system and the therapeutic relationship over time*, not a consultation skill performed within a single station. Verified against RACGP position and advocacy material on the role of specialist GPs and continuity, the MJA analysis of patient enrolment and continuity in Australian general practice, and RACGP-reported NSW Health linked-data findings on post-discharge follow-up, Aug 2026.
 
@@ -517,6 +534,12 @@ Worth understanding because it explains why GP reasoning differs from hospital r
 **Alt:** **Chest X-ray — NOT an acceptable screening test** for lung cancer (it does not reduce mortality, and offering it as a substitute is misleading); diagnostic CT with contrast in the symptomatic patient; PET/CT and biopsy for characterising a detected nodule; **smoking cessation** as the intervention with the largest effect. See [[02_Respiratory]].
 
 ## 0.14 Genetic Risk Assessment
+
+> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
+> **`Heme Onc_merged 10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes` — Li-Fraumeni, BRCA1/2,
+> Lynch, FAP, von Hippel-Lindau — has 3 inbound references and ALL THREE ARE FROM THIS FILE.**
+> This entry and `§0.15 Genetics and Molecular Testing` point there; it does not point back.
+> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
 
 **D:** Structured assessment of an individual's risk of a heritable condition, built from a **three-generation family pedigree** — who is affected, with what, at what age, and how they are related — combined with personal and ethnic factors, and used to decide whether genetic testing, surveillance or referral is warranted. **It precedes testing and often replaces it.**
 

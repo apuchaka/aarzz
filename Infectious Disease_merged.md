@@ -289,6 +289,12 @@
 
 ### Centor criteria (sore throat)
 
+> [!warning] FLAG 2026-09-01 — ENT owns this, and the Australian caveat must travel with it
+> `ENT_merged 13_05a ## Sore throat` and `F3 §0.1 Sore Throat` own the presentation.
+> ⚠️ **`Cardio_merged §0.22 Rheumatic Fever` routes to the ENT entry and flags that Centor/FeverPAIN
+> thresholds do not apply the same way in Australia.** If these are ever reconciled, that caveat is the
+> thing most easily lost. Flagged, not moved.
+
 > [!info] Centor criteria
 > - Cervical lymphadenopathy
 > - Exudate (tonsillar)
@@ -325,6 +331,14 @@
 ---
 
 ## Notifiable Diseases (Australia)
+
+> [!warning] FLAG 2026-09-01 — the same topic appears twice in this file, from two different sources
+> `## Notifiable Diseases in Australia — What "Notifiable" Actually Means` (in `08_09_Infectious_Disease_-_Miscellaneous`)
+> covers the same duty. **Both retained; pair marked, not merged.**
+> ⚠️ **Do not conflate with the OTHER notifiable duty** — reporting a colleague. That is
+> `Clinical-Process-EBM-Consent-Capacity ## Mandatory Reporting` + `## Notifiable conduct`,
+> `A10 §0.5 Professional Practice Concern`, and `Safeguarding.md §0.1`. **Two different obligations
+> that share a word.**
 
 > [!info] Verified against the Australian Centre for Disease Control's National Notifiable Diseases Surveillance System (NNDSS) framework, Aug 2026 — Australia's notifiable disease system is structured genuinely differently from the UK's flat list, and the specific disease *list* also differs (some UK-notifiable diseases aren't Australian-notifiable and vice versa). This entry no longer carries the UK list it was originally written against — do not reintroduce one and do not quote a UK list as the Australian standard.
 > The NNDSS coordinates surveillance of **>70 diseases nationally**, organised into **8 categories** rather than one flat list, and reported to the Australian Centre for Disease Control: **bloodborne viral hepatitis** (hepatitis B, C, D), **gastrointestinal diseases** (e.g. campylobacteriosis — the most commonly notified gastrointestinal disease, salmonellosis, shigellosis, listeriosis, typhoid/paratyphoid, botulism, HUS), **other bacterial infections** (e.g. tuberculosis — the most commonly notified in this category, invasive pneumococcal disease, invasive meningococcal disease, legionellosis, leprosy), **quarantinable diseases** (cholera, plague, rabies/lyssaviruses, viral haemorrhagic fevers, yellow fever, smallpox), **sexually transmissible infections** (chlamydia — the most commonly notified STI, gonorrhoea, syphilis, donovanosis, LGV), **vector-borne diseases** (e.g. Ross River virus — the most commonly notified in this category, dengue, malaria, Japanese encephalitis, Murray Valley encephalitis), **vaccine-preventable diseases** (e.g. influenza — currently the most commonly notified VPD, measles, mumps, rubella, pertussis, diphtheria, tetanus, polio; note VPDs like rubella, diphtheria, and tetanus are now rare in Australia given high childhood immunisation rates), and **zoonotic diseases** (e.g. Q fever — the most commonly notified in this category, brucellosis, anthrax, leptospirosis). **HIV and Creutzfeldt-Jakob disease are notifiable but tracked under separate dedicated national surveillance systems**, not the general NNDSS categories above — worth knowing as a specific exception. Individual states/territories also maintain their own notifiable disease lists, which can include additional diseases beyond the national list — so "notifiable" can genuinely vary slightly by jurisdiction within Australia itself, not just between countries. Given the size and periodic revision of the full current list, check the Australian Centre for Disease Control's current National Notifiable Disease List directly for the definitive disease-by-disease list rather than relying on a static reproduction here.
@@ -404,6 +418,11 @@
 
 
 ## Antibiogram — empirical antibiotic cover by organism
+
+> [!warning] FLAG 2026-09-01 — a drug-selection reference with zero inbound references
+> `08_04_Infectious_Disease_-_Antibiogram` overlaps `NEW_Drugs_05 §0.2 Antibacterials` (21 subsections).
+> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers can be validated.
+> Listed because it coincides with the content overlap.
 
 > [!info] Reference chart adapted from the *Intensive Care Drug Manual* (Wellington ICU), Appendix 5, as seen on FOAMid. Use as a rough guide to spectrum of cover only — always confirm against local antibiogram/susceptibility data and current guidelines before prescribing.
 
@@ -1218,6 +1237,10 @@ A **window period** is the interval between exposure and the point at which a te
 **Mx:** **stable patients do not automatically need empirical antibiotics** — a genuinely important principle, given the temptation to treat empirically can obscure the underlying diagnosis (e.g. partially treating an infection without curing it, making subsequent cultures falsely negative) without addressing the actual cause; the highest-yield action is targeted, risk-guided investigation with repeated reassessment over time, not reflexive treatment. Treat the underlying cause once identified. Neutropenic FUO is the clear exception, requiring urgent empirical treatment as above, not repeated here.
 
 ## Approach to Fever in the Returned Traveller
+
+> [!warning] FLAG 2026-09-01 — same topic twice in this file
+> `K1 §0.4 Fever in the Returning Traveller` covers the same presentation.
+> Part of a nine-section fever cluster across four sources in this file. Pair marked, not merged.
 
 > [!note] Gap-filled from CSV ("Return traveller fever," Medium yield) — the individual travel-related diseases (Malaria, Dengue fever, Yellow fever, Enteric fever/typhoid, Leptospirosis, Schistosomiasis, Trypanosomiasis) are all built across this project's Infectious Disease files, and the history-taking approach is already established in [[History-Taking]] Fever and Suspected Infection (the travel-history block within itected Infection entry) — this entry adds the organising framework that ties the differential together, given incubation period is genuinely one of the most useful ways to narrow it. Not repeated here: the individual disease-level Ix/Mx detail, or the history-taking questions themselves.
 
@@ -2228,6 +2251,13 @@ Organism-specific therapy with infectious diseases involvement, and prolonged th
 
 ## 0.1 Allergy — Mechanisms and Classification
 
+> [!warning] FLAG 2026-09-01 — `K4` is allergy and immunology filed under infectious disease
+> **Seven sections; 5 inbound and none from infectious disease content** — Derm ×2, Paediatrics, Resp,
+> internal. Its referrers are dermatological and respiratory.
+> ⚠️ **`§0.6 Urticaria, Angioedema and Mast Cell Disorders` is a two-way disagreement**: see the flag
+> on that section. **`§0.5 Allergic Rhinitis and the Atopic March` duplicates `ENT ## Allergic Rhinitis
+> (Hay Fever)` and `F2 §0.4 Rhinitis`.** Flagged as a set; nothing moved.
+
 > [!info] The Gell and Coombs classification, and why it is clinically useful
 > **· Type I — IgE-mediated, IMMEDIATE.** Onset within **minutes to about two hours**. Preformed IgE on mast cells and basophils cross-links on allergen contact → degranulation → histamine and other mediators. **Anaphylaxis, urticaria, angioedema, allergic rhinitis, allergic asthma, IgE-mediated food allergy.**
 > **· Type II — cytotoxic, IgG or IgM against cell-surface antigens.** **Autoimmune haemolytic anaemia, heparin-induced thrombocytopenia, Goodpasture syndrome, some drug-induced cytopenias.**
@@ -2410,6 +2440,15 @@ Review technique and adherence, treat coexisting asthma, and consider immunother
 ---
 
 ## 0.6 Urticaria, Angioedema and Mast Cell Disorders
+
+> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
+> **`Derm_merged 09_01 ## Acute urticaria and angioedema` covers the same topic** — and
+> **`Derm_merged.md:2242` routes readers HERE**, saying *"Urticaria, anaphylaxis and drug reaction
+> labelling → [[K4]] 0.2–0.3"*, while this file does not point back.
+> `Heme Onc_merged 10_09b ## Hereditary angioedema` is a third treatment.
+> **`K4`'s own referrers are dermatological and respiratory (Derm ×2, Resp, Paediatrics) — none from
+> infectious disease.**
+> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
 
 > [!danger] Chronic urticaria is usually NOT allergic — and extensive allergy testing is unhelpful
 > **Acute urticaria (under six weeks)** is often triggered by infection, drugs or food.

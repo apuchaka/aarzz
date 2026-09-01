@@ -460,6 +460,12 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 
 ## 0.11 Cardiac Enzymes
 
+> [!warning] FLAG 2026-09-01 — troponin has four section-level homes and no owner
+> `## 0.5 Troponin and Cardiac Biomarkers` (B1, later in this file) ·
+> `Investigation-Interpretation.md §1.12 Cardiac Markers (Troponin) and Lactate` ·
+> `GER7_Investigation_and_Lab_Addendum §0.4 Troponins and Cardiac Biomarkers`.
+> **Four versions, none marked as the owner.** Flagged at this end; content left where it is.
+
 | Marker | Rise begins | Peak | Returns to normal |
 |---|---|---|---|
 | Troponin (most commonly used) | 4–6h | 12–24h | 7–10d |
@@ -834,6 +840,14 @@ Obstruction of blood flow → hypoperfusion of tissues distal to obstruction.
 ---
 
 ## 0.23 0.22a Rheumatic Heart Disease (RHD)
+
+> [!warning] FLAG 2026-09-01 — this heading carries TWO section numbers, and that is the renumbering fingerprint
+> **A section was inserted here and everything below shifted by one; the heading kept both numbers.**
+> That drift silently misaimed **23 inbound cross-references**, repaired on 2026-09-01 — eight pointed at
+> a number that did not exist, fifteen at a number that existed but named a different section.
+> **DO NOT RENUMBER** (CLAUDE.md §1.14). The double number is left visible on purpose: it is the only
+> surviving trace of why those pointers were wrong. `drift.py` reports this as the **one** source in the
+> vault with real numbering drift — 171 of 172 are clean.
 
 > [!note] Gap-filled — previously only mentioned as a bare "aetiology" entry in the valve disease table and as a downstream complication note above, never built as its own entity. This is a genuinely significant omission given the scale of the Australian burden. Verified against SA Health's RHD Register program and MJA-published Northern Territory screening data, Aug 2026.
 
@@ -1265,6 +1279,13 @@ Right heart failure arising from lung disease specifically — COPD, PE, interst
 **Clopidogrel, ticagrelor, prasugrel:** MOA — P2Y12 ADP receptor inhibitor. May be less effective with PPIs — lansoprazole may be the preferred PPI to co-prescribe.
 
 ### 0.35.5 Austroads cardiovascular driving rules (private vehicle standards)
+
+> [!warning] FLAG 2026-09-01 — Austroads driving standards are in four files
+> Here · `Endocrine and metabolics_merged §0.15.8 Austroads Driving Standards for Diabetes` ·
+> `Neuro_merged ### Austroads Driving Standards (Neurological Conditions)` ·
+> `Preventive-Health.md §0.6 Occupational Health, Certification and Driving`.
+> **`Clinical-Process-EBM-Consent-Capacity.md:102` points at two of them from one table row.**
+> Candidate for a single home once the preventive-health destination is settled.
 
 > [!info] Verified against Austroads *Assessing Fitness to Drive* 2022 edition (current at Aug 2026), private-vehicle standards. Commercial-vehicle standards are stricter/longer and generally require annual specialist review — check the source document if advising a commercial driver. All periods below are minimum non-driving periods; a conditional licence beyond that requires satisfactory response to treatment and minimal symptoms (chest pain, palpitations, breathlessness) relevant to driving, per the treating doctor/specialist.
 > - **AMI:** ≥2 weeks off driving (uncomplicated)

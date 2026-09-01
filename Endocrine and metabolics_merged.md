@@ -268,6 +268,15 @@ Life-threatening hyperthyroidism, precipitated by surgery, trauma, infection or 
 
 ## 0.9 Multiple Endocrine Neoplasia (MEN)
 
+> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: carcinoid — the third end
+> **Carcinoid and neuroendocrine tumours are split three ways and no file owns them:**
+> `GI_merged §0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)` has the **disease entry** ·
+> `Derm_merged G6 §0.2 The Endocrine and Neoplastic Causes` (lines 2084–2100) has the **mechanism** —
+> the portal-circulation explanation, carcinoid crisis, and the octreotide-before-anaesthesia warning ·
+> **this file** holds the neighbouring endocrine content (MEN, `NEW_Drugs_10 §0.5.4 Somatostatin
+> Analogues`) but no carcinoid entry of its own.
+> ⚠️ **Flagged at all three ends. Content left where it is; NOT resolved.**
+
 Autosomal dominant disorder affecting various endocrine organs.
 
 > [!info] MEN-1 ("3 P's") — secondary to MEN1 gene mutation
@@ -544,6 +553,11 @@ Increase monitoring ± check ketones; consume 3L of fluids/24h ± sugary drinks.
 > [!note] MODY 1/2/3 are autosomal dominant inherited forms of diabetes with onset between the 2nd and 5th decades. MODY 1 and 3 respond well to oral hypoglycaemic agents. Gestational diabetes and paediatric diabetes topics are covered elsewhere in this source (sections 16.04 and 15.16 respectively).
 
 ### 0.15.8 Austroads Driving Standards for Diabetes
+
+> [!warning] FLAG 2026-09-01 — one of four Austroads homes
+> `Cardio_merged §0.35.5` · `Neuro_merged ### Austroads Driving Standards (Neurological Conditions)` ·
+> `Preventive-Health.md §0.6`. **`Clinical-Process-EBM-Consent-Capacity.md:102` points at two of them.**
+> Candidate for a single home; not moved.
 
 > [!info] Verified against Austroads *Assessing Fitness to Drive* (2022 edition, current at Aug 2026), Aug 2026 — Australian standards are structured differently from the UK DVLA episode-counting model: rather than counting hypoglycaemic episodes over the preceding 12 months, the Australian framework is built around periodic review requirements (5-yearly for non-insulin, more frequent for insulin) plus a specific hypoglycaemia-awareness assessment tool (the Clarke Questionnaire) and a public safety message — "Don't Drive Under Five" — advising against driving with a BGL <5 mmol/L, rather than a retrospective episode count.
 > **Private vehicle drivers:**
@@ -1046,6 +1060,12 @@ Assess volume status:
 - **Chronic/long-term:** address the underlying cause definitively (e.g. desmopressin for central DI — see Diabetes Insipidus above) to prevent recurrence; ensure adequate ongoing free water access, particularly important in patients with a blunted thirst mechanism (elderly, impaired consciousness) who may not reliably self-correct.
 
 ## 0.27 Weight Change — Differential Approach
+
+> [!warning] FLAG 2026-09-01 — a presentation-level differential inside a disease file
+> Its own note says it was gap-filled because the causes were *"scattered across this file … and
+> others throughout the project"*. **`I5 §0.1 Obesity` and `§0.2 Unintentional Weight Loss` in this same
+> file cover the same ground**, as does `History-Taking.md §1.20 Weight Change`.
+> Flagged as a set; nothing merged.
 
 > [!note] Gap-filled from CSV ("Weight change," High yield) — genuinely absent as a unifying differential despite the individual causes being scattered across this file (thyroid disease, Cushing's, diabetes) and others throughout the project. Given how many of the highest-yield endocrine conditions present via weight change, an organised approach to this presenting complaint is worth having explicitly, rather than only reaching the diagnosis once a specific disease is already suspected.
 
@@ -2890,6 +2910,14 @@ None — the single topic in this category had no header match.
 
 
 # NEW — Drug Classes: Blood and Electrolytes (AMH section 7)
+
+> [!warning] FLAG 2026-09-01 — this entire source is byte-identical in two merged files
+> **240 lines, present here and in `Heme Onc_merged.md`.** It is the only source file in the vault
+> (1 of 295) concatenated into more than one merged document.
+> **Found by accident**: a numbering-drift check flagged it for duplicate section numbers, which turned
+> out to be its headings being counted twice.
+> **Needs one home, not a merge.** Most of it — blood products, drugs for anaemias, colony stimulating
+> factors — reads as haematology rather than endocrine.
 
 > [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
 

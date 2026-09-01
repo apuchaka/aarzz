@@ -106,6 +106,11 @@
 
 ### 0.2.3 CKD-Related Anaemia
 
+> [!warning] FLAG 2026-09-01 — duplicate pair with Heme Onc
+> `Heme Onc_merged 10_04 ## Anaemia of chronic kidney disease` covers the same topic from the
+> haematology side. **The boundary is defensible — this is the renal cause, that is the anaemia
+> classification — so both are retained. Pair marked, not merged.**
+
 **P:** CKD → decreased erythropoietin → decreased RBC production → anaemia. CKD also causes decreased iron absorption. Results in a normochromic normocytic anaemia (normal Hb concentration per cell, just fewer RBCs). Can lead to left ventricular hypertrophy.
 
 **Mx:** target Hb 10–12 g/dL. Iron supplementation to optimise iron levels first-line; if no improvement, offer EPO analogues (e.g. darbepoetin); patients may need blood transfusions.
@@ -1727,6 +1732,12 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ## 0.7 Drugs for Adrenal Insufficiency
 
+> [!warning] FLAG 2026-09-01 — this subsection declares its own duplication
+> Its scope note already says: *"This subsection duplicates content built in AMH section 10 … written in
+> full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2
+> (mineralocorticoids)**."* **Both retained; pair marked, not merged.** The other copy is in
+> `Endocrine and metabolics_merged.md`.
+
 > [!note] **This subsection duplicates content built in AMH section 10.** Adrenal replacement is written in full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2 (mineralocorticoids)**. It is summarised here rather than rewritten, because splitting a single clinical topic across two files would risk the two drifting apart.
 
 - **Replacement therapy:** **hydrocortisone** (usually in divided doses mimicking the diurnal rhythm; modified-release preparations exist) or prednisolone as the glucocorticoid; **fludrocortisone** as the mineralocorticoid — **needed in PRIMARY adrenal insufficiency (Addison disease) but NOT in secondary**, where the renin-angiotensin-aldosterone axis is intact. **DHEA** is occasionally added in women.
@@ -1838,6 +1849,13 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 **Alt:** Cystatin C; measured creatinine clearance; renal tract ultrasound; urinalysis; **CKD staging requires ACR alongside** (see 0.2).
 
 ## 0.4 Dark Urine
+
+> [!warning] FLAG 2026-09-01 — a sign filed as an investigation, and the file says so
+> Its own callout reads *"A sign, not a test. Built as listed."* **Two other files produced the same
+> error class**: `GI NEW_Investigations_Gastroenterology §0.31 Pale Stools` and
+> `Heme NEW_Investigations_Haematology_Part2 §0.25 Petechiae`.
+> **The symmetry is worth noting**: `Renal and Urology_merged.md:1848` cites the GI pale-stools entry,
+> so the two halves of one sign-pair sit in two different system files, both misfiled the same way.
 
 > [!warning] **A sign, not a test.** Built as listed.
 
@@ -1994,6 +2012,15 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 **Alt:** **Serum free light chain assay** (more sensitive, avoids collection problems); SPEP with immunofixation; quantitative immunoglobulins; bone marrow biopsy; imaging.
 
 ## 0.13 Fecal Incontinence
+
+> [!warning] FLAG 2026-09-01 — confirmed misfiled from both ends, and its `UNRESOLVED` marker is NOT answered by moving it
+> This file calls it *"mis-filed and mis-categorised — a symptom, not an investigation"*.
+> **`GI_merged 03_Gastrointestinal §0.42 Faecal Incontinence (Adult)` independently records that the
+> topic was *"found under Renal & Urology in the source spreadsheet, but genuinely a GI/colorectal
+> topic"*.** Two files agreeing from opposite ends.
+> ⚠️ **The live `UNRESOLVED — needs review` marker asks whether the build list intended anorectal
+> manometry rather than the symptom. Moving this section would answer that question silently. It is
+> not answered, and the marker stays.**
 
 > [!warning] **Mis-filed and mis-categorised** — this is a **symptom**, not an investigation. Recorded here for traceability; the presentation-level differential belongs with the presentations axis. **UNRESOLVED — needs review:** confirm whether the build list intended an investigation (most likely **anorectal manometry** and **endoanal ultrasound**, both already built) and remove this row from the investigations list if so.
 

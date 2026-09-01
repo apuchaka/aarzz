@@ -189,6 +189,15 @@ Patient is systemically well, but can progress to acute cholecystitis. **Mx — 
 - **Chronic/long-term:** nutritional support (thiamine, folate, multivitamins — heavy drinkers are often malnourished), surveillance for HCC and varices once cirrhosis is established, liver transplant assessment for end-stage disease (typically requires a period of proven abstinence per transplant program criteria).
 
 ### 0.6.1 Alcohol withdrawal
+
+> [!warning] FLAG 2026-09-01 — `M-5` alcohol withdrawal is in four places across three files
+> **This is the AU-verified core and the one other files point at.** `Psychiatry_merged.md:934` and
+> `:938` cite it by name — *"the full AU-verified management (diazepam-based…)"* — and `GP_merged.md:113`,
+> `Neuro_merged.md:805` and `:806` also point here.
+> **The other three copies:** `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` and
+> `14a-1 ## Alcohol use disorder`, both now in `Psychiatry_merged.md`; and
+> `04_Neurology ### Alcohol Withdrawal Seizures` in `Neuro_merged.md`.
+> **The GI flags file recorded three; the Neuro pass found the fourth.**
 Symptoms brought on by abstinence in an alcohol-dependent person; characterised by overactivity of the sympathetic nervous system.
 
 **A/P:** chronic alcohol use → upregulation of NMDA receptors, downregulation of GABA receptors → falling blood ethanol concentration creates imbalance between stimulatory NMDA and inhibitory GABA systems → excessive stimulatory effect → withdrawal symptoms.
@@ -598,6 +607,13 @@ Azathioprine, mesalazine, bendroflumethiazide, furosemide, steroids, sodium valp
 ---
 
 ## 0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)
+
+> [!warning] FLAG 2026-09-01 — `M-13` carcinoid is split three ways and no file owns it
+> **This file has the disease entry. `Derm_merged.md:2084–2100` has the mechanism** — the
+> portal-circulation explanation (*"a gut carcinoid does not cause carcinoid syndrome until there are
+> hepatic metastases"*), carcinoid crisis, and the octreotide-before-anaesthesia warning.
+> **Endocrine is the third candidate.** `Derm_merged.md:2242` routes perioperative carcinoid risk to
+> `[[AN1]] 0.7`. **Flagged at all three ends; content left where it is. Not resolved.**
 
 Secretory NETs that release serotonin, kinins, and other vasoactive peptides. Carcinoid syndrome develops in only 40% of patients with NETs. If NETs metastasise to the liver, 95% of patients will develop symptoms.
 
@@ -1947,6 +1963,13 @@ Oral rehydration education. Review of any drug identified as the cause.
 
 ## 0.3 Bilious versus Non-Bilious Vomiting
 
+> [!warning] FLAG 2026-09-01 — `M-10` the neonatal and infant content here duplicates Paediatrics
+> **The neonatal and infant two-thirds of this section duplicate content Paediatrics already owns** —
+> `## Mid-gut malrotation`, `## Pyloric stenosis`, `## Hirschsprung disease`, `M3 §0.4 Neonatal Vomiting`
+> and `M5 §0.2 Vomiting and Gastroenteritis` in `Pediatrics_merged.md`.
+> **The bilious-versus-non-bilious discriminator and the adult content are GI's and stay.**
+> Not merged: both versions are to be placed side by side and the pair marked, never reconciled.
+
 **A/P:** Bile enters the duodenum at the **ampulla of Vater**, in the second part of the duodenum. **Bilious (green) vomiting therefore indicates obstruction distal to the ampulla**, whereas non-bilious vomiting indicates obstruction proximal to it, or a non-obstructive cause.
 
 > [!danger] Bilious vomiting in a neonate is malrotation with midgut volvulus until proven otherwise
@@ -2685,6 +2708,13 @@ Adhesion prevention is limited; recurrent adhesional obstruction is common and e
 ---
 
 ## 0.2 Constipation
+
+> [!warning] FLAG 2026-09-01 — load-bearing orphan
+> **This section has no Corpus A partner anywhere.** Searched all of `03_Gastrointestinal`: constipation
+> appears there only as a symptom inside eleven other entries, never as its own topic.
+> **5 inbound references from 3 files** — Geriatrics ×2, Neuro ×2, Paediatrics ×1.
+> If this file is ever split, this section must not be dropped as a duplicate; there is nothing to
+> duplicate it against.
 
 **D:** Infrequent, difficult or incomplete defecation, defined by symptom criteria rather than by frequency alone — **stool consistency, straining, sensation of incomplete evacuation and need for manual manoeuvres all matter as much as the number of motions.** `UNVERIFIED — the Rome criteria.`
 
@@ -3939,6 +3969,10 @@ All 11 skips are T3, so none affects Tier 1 completeness.
 
 ## 0.9 H. Pylori Testing (Urea Breath Test, Stool Antigen, Rapid Urease Test)
 
+> [!warning] FLAG 2026-09-01 — duplicate pair inside this one source
+> **`## 0.10 H. pylori Urea Breath Test` immediately below repeats one of the three tests named here as
+> its own entry.** Both retained; pair marked, not merged.
+
 ## 0.10 H. pylori Urea Breath Test
 
 **D (0.9 and 0.10 together):** Tests for active *H. pylori* infection — **¹³C urea breath test**, **stool antigen**, **rapid urease (CLO) test** on endoscopic biopsy, **histology**, and **serology**.
@@ -4167,6 +4201,14 @@ All 11 skips are T3, so none affects Tier 1 completeness.
 
 ## 0.31 Pale Stools
 
+> [!warning] FLAG 2026-09-01 — `M-17` this is a symptom filed as an investigation
+> **Pale stools is a sign, not a test.** It sits in an investigations file because the build list put it
+> there. Its clinical home is `C3 §0.3 Conjugated and Obstructive Jaundice`, which already explains the
+> mechanism (*"pale stools as stercobilin is no longer produced"*).
+> **Two other files produced the same error class**: `NEW_Investigations_Renal_and_Urology §0.4 Dark Urine`
+> and `NEW_Investigations_Haematology_Part2 §0.25 Petechiae`. `Renal and Urology_merged.md:1848` cites
+> this very entry, so the pointer stays valid wherever it lands.
+
 **D:** Not a laboratory test — a **clinical sign** on the build list: acholic (pale, putty-coloured) stools, usually with dark urine, indicating **absent bile pigment reaching the gut**.
 
 **Ind/Role:** Its value is as a **pointer to cholestasis** and, in an infant, as a red flag.
@@ -4231,9 +4273,18 @@ All 11 skips are T3, so none affects Tier 1 completeness.
 
 **Alt:** PCR and IgM for acute infection; documented vaccination history (though serology is used where records are unavailable).
 
-## 0.36 Gastrografin (Water-Soluble Contrast Study) — **OUT OF SCOPE, built in error**
+## 0.36 Gastrografin (Water-Soluble Contrast Study)
 
-> [!warning] **Scope error, flagged rather than deleted.** `Gastrografin` sits on the **Conditions & Diagnoses** build list, not the investigations list, and conditions are explicitly out of scope for this bulk build. It was built before I caught the mis-attribution. **Kept because it is correct and useful, but the chat session handling conditions should treat this entry as already done and not duplicate it.**
+> [!warning] FLAG 2026-09-01 — `M-18` the heading above is misleading and has been corrected below
+> **The words "OUT OF SCOPE, built in error" describe the BUILD LIST this entry came from, not this file.**
+> The content is correct, clinically useful, and belongs here with the bowel-obstruction group
+> (contrast reaching the colon predicts non-operative resolution in adhesive SBO).
+> **It read as a move instruction and was not one. The heading above has been corrected accordingly** —
+> the words were removed on 2026-09-01 and preserved in this flag so the change is auditable.
+> **A second copy exists at `GER8_Procedure_Addendum §0.3 Gastrografin and Contrast Studies`** — pair
+> marked, not merged.
+
+> [!note] **Build-list provenance, not a scope problem with this file.** `Gastrografin` sits on the **Conditions & Diagnoses** build list, not the investigations list, and conditions are explicitly out of scope for this bulk build. It was built before I caught the mis-attribution. **Kept because it is correct and useful, but the chat session handling conditions should treat this entry as already done and not duplicate it.**
 
 **D:** Water-soluble iodinated contrast used for swallow, meal or enema studies, and therapeutically in adhesive small bowel obstruction.
 

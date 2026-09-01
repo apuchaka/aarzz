@@ -277,6 +277,10 @@
 
 ## Eponymous syndromes (appendix)
 
+> [!warning] FLAG 2026-09-01 — an appendix inside clinical content
+> Administrative rather than clinical; candidate for `_meta/` alongside the `Build status` and
+> `Topics skipped` blocks found in most `NEW_*` sources.
+
 - **Charles Bonnet syndrome:** audio/visual hallucinations occurring in clear consciousness — the patient is usually aware these hallucinations are not real, with no other significant neuropsychiatric disturbance. "Lilliputian" hallucinations (seeing small people/things) are characteristic. Associated with ophthalmologic disorders (e.g. AMD, glaucoma, cataracts).
 - **Cotard syndrome:** patient believes part or all of their body is either dead or non-existent; associated with severe depression and psychotic disorders.
 - **De Clérambault syndrome:** erotomanic delusion (e.g. believing a famous person is in love with you).
@@ -759,6 +763,11 @@
 
 ## 0.1 Benzodiazepines
 
+> [!warning] FLAG 2026-09-01 — two drug references for the same classes in one file
+> `14_06a_Psych_-_Drugs_Used_in_Psychiatry` (this source) and `NEW_Drugs_17_Psychotropic` both cover
+> benzodiazepines, lithium, SSRIs, SNRIs, TCAs, MAOIs and Z-drugs. **Both retained; pair marked,
+> not merged.**
+
 - **MOA:** enhance the effect of GABA, an inhibitory neurotransmitter.
 - **AE:** sedation (including respiratory depression at very high doses or when mixed with other drugs like opioids). Tolerance and dependence can develop.
 
@@ -832,6 +841,14 @@
 
 <!-- ===== SOURCE: 14_06b_Psych_-_Mental_Health_Act_and_Sectioning.md ===== -->
 
+
+> [!danger] Verify everything in this section
+> **The MENTAL HEALTH ACT 2009 (SA) is the governing legislation in South Australia, and mental health law differs substantially between Australian states and territories.**
+> **`UNVERIFIED — every provision below. Order names and levels, durations, who may make and revoke them, review timeframes and forms must be confirmed against the current Act, SA Health policy and your own health service's procedure.`**
+> **Applied here 2026-09-01 from `N1 §0.5 Mental Health Legislation in South Australia`, which carries the same warning over the same subject matter.** Neither layer has verified this content. **If these two sections are ever reconciled, this warning survives the reconciliation** — it is the first thing lost when two versions of a legal section are merged, and it is the reason not to trust either.
+
+> [!warning] `CF-PAIR` — a second treatment of this topic exists in this file
+> **`N1 §0.5 Mental Health Legislation in South Australia`** covers the same Act from the Corpus B layer, with the principles underlying the Act, the order types and the SACAT review pathway. **Both are retained deliberately. Do not merge them** — place them side by side and resolve by hand against the current Act.
 
 > [!info] Localised for South Australia — the original source material described the UK Mental Health Act (sections 2, 3, 4, 5(2), 5(4), 17, 135, 136, and the AMHP process). This file has been rebuilt against the **Mental Health Act 2009 (SA)**, verified via the SA Law Handbook, SACAT, and the Office of the Public Advocate, Aug 2026 — the correct, current legislation for a Flinders/Adelaide context. Australian involuntary treatment law is state/territory-based (e.g. different Acts apply in Victoria, NSW, Queensland, etc, with different terminology, criteria, timeframes, and roles) — if practising outside SA, check the relevant state/territory Act rather than assuming this transfers directly.
 
@@ -915,6 +932,13 @@ Where a person is unable to manage their own health, safety, or welfare more bro
 
 
 ## Alcohol use disorder
+
+> [!warning] FLAG 2026-09-01 — `M-5` alcohol withdrawal is in four places across three files
+> This section already points at `[[03_Gastrointestinal]] Alcohol withdrawal` twice (lines 934 and 938)
+> as *"the full AU-verified management"* — **those pointers are correct and stay.**
+> The other copies: `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` (now in this same file, below) and
+> `Neuro_merged 04_Neurology ### Alcohol Withdrawal Seizures`.
+> **The GI pass recorded three; the Neuro pass found the fourth.** Flagged; nothing merged.
 
 > [!note] Gap-filled from CSV ("Alcohol and alcohol related diseases, substance abuse," Medium yield) — this entry covers the psychiatric diagnosis and screening approach specifically; the physical complications (alcohol-related liver disease) and withdrawal management are already thoroughly built in [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) and Alcohol withdrawal, not repeated here.
 
@@ -1259,6 +1283,9 @@ Where a person is unable to manage their own health, safety, or welfare more bro
 ---
 
 ## 0.5 Mental Health Legislation in South Australia
+
+> [!warning] `CF-PAIR` — a second treatment of this topic exists in this file
+> **`14_06b_Psych_-_Mental_Health_Act_and_Sectioning`** covers the same Act from the Corpus A layer — involuntary treatment overview, the three-part test, CTOs, ITOs, SACAT, interstate transfer, safeguards, police involvement, voluntary inpatients and guardianship. **Both are retained deliberately. Do not merge them.** The `> [!danger] Verify everything in this section` warning below has been copied onto that section too, so it survives whichever copy is kept.
 
 > [!danger] Verify everything in this section
 > **The MENTAL HEALTH ACT 2009 (SA) is the governing legislation in South Australia, and mental health law differs substantially between Australian states and territories.**

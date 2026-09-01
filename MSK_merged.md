@@ -1028,6 +1028,12 @@
 
 ## Bisphosphonates
 
+> [!warning] FLAG 2026-09-01 — duplicate pair with the endocrine drug file
+> `Endocrine and metabolics_merged NEW_Drugs_10 §0.1.1 Bisphosphonates` covers the same class.
+> **Osteoporosis and fragility fracture sit in five places**: `## Osteoporosis` and this section here,
+> `L7 §0.6 Fragility Fractures`, `Endocrine I3 §0.5 Metabolic Bone Disease`, and
+> `Geriatrics GER1 §0.6 Osteoporosis and Fracture Prevention`. Pairs marked, nothing merged.
+
 - **MOA:** inhibits osteoclasts.
 - **AE:** oesophageal reactions; osteonecrosis of the jaw; atypical stress fractures (alendronate); acute phase response (fever, myalgia); hypocalcaemia (usually clinically unimportant).
 - **Counselling:** swallow whole with plenty of water on an empty stomach ≥30 minutes before breakfast; sit/stand upright for ≥30 minutes after taking the medicine.
@@ -1130,6 +1136,14 @@
 
 
 ## Major Trauma — Primary Survey
+
+> [!warning] FLAG 2026-09-01 — trauma is duplicated inside this file and across three others
+> **Within MSK:** this section +7 subsections, and `L8 §0.1 The Primary Survey and Trauma Principles`
+> are the same topic twice. `## Splenic trauma`, `## Liver trauma` and `L8 §0.4 Abdominal Trauma` are
+> three copies of abdominal trauma. `## Head injuries` duplicates `Neuro ### Head Injury`.
+> **Across files:** `GI_merged C1 §0.10 Abdominal Trauma` · `Emergency F0-5 §0.7 Major Head Injury` and
+> `§0.8 Minor Head Injury` · `Neuro_merged ### Head Injury`.
+> **See `_meta/flags/_TRAUMA.md` for the full analysis. Nothing has been moved.**
 
 > [!note] Gap-filled from CSV ("Major trauma" and "Trauma," Medium yield). **Verified as genuinely absent before building rather than assumed** — this file holds organ-specific trauma (thoracic, genitourinary, splenic, liver, head, ocular) with no structured approach to the patient, and corpus-wide search returned **zero hits** for catastrophic haemorrhage, pelvic binder, permissive hypotension or secondary survey. The **generic** ABCDE approach is fully built in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient) and is **not repeated here** — this entry covers only what trauma changes about it. Verified against ANZCOR guidelines and Australian state major trauma service guidelines, Aug 2026.
 
@@ -1420,6 +1434,12 @@ Remove clothing and jewellery (unless adherent), cover with cling film laid on l
 **Mx:** for the physiological variants above, **parental education and reassurance, with periodic follow-up to confirm the expected spontaneous resolution, is the correct management** — treatment (braces, special shoes, insoles) has not been shown to accelerate resolution of physiological variants and is not recommended; referral to paediatric orthopaedics is reserved for the red-flag features above, where an underlying pathological cause needs to be actively excluded rather than assumed physiological.
 
 ## Rickets
+
+> [!warning] FLAG 2026-09-01 — vitamin D deficiency states are in four places
+> Here · `11_07b ## Osteomalacia` (this file) · `Endocrine and metabolics_merged §0.12 Vitamin D
+> Deficiency` · `Endocrine I3 §0.5 Metabolic Bone Disease`.
+> **Rickets and osteomalacia are the same disease at different ages** and are separated by 480 lines in
+> this file. Flagged, not merged.
 
 - **D:** condition arising from deficient mineralisation at the growth plate of long bones, presenting in childhood.
 - **R:** ↓calcium and vitamin D intake (e.g. developing countries or lower socioeconomic status), prolonged breastfeeding, unsupplemented cow's milk formula, ↓sunlight exposure.
@@ -1866,6 +1886,12 @@ Remove clothing and jewellery (unless adherent), cover with cling film laid on l
 **The correlation between pattern and antigen, and between antigen and disease, is strong but genuinely not absolute** — a frequently-tested "gotcha" point: roughly 10–20% of GPA patients are actually MPO-ANCA positive (not PR3), and a similarly meaningful proportion of MPA/EGPA patients are PR3-ANCA positive rather than MPO — so a specific ANCA result should inform, not replace, clinical judgement, and an "unexpected" antigen result doesn't exclude the clinically-suspected diagnosis. **PR3-ANCA/GPA correlation is somewhat stronger than MPO-ANCA/MPA correlation** in most series, though neither is 100%.
 
 ## Giant cell arteritis (GCA)
+
+> [!warning] FLAG 2026-09-01 — GCA is in four places and only one pointer is correct
+> Here · `L3 §0.3 Giant Cell Arteritis — The Overlap` (this file) ·
+> `Neuro_merged ## Temporal Arteritis` — **which correctly defers here**, saying it *"covers only the
+> headache aspect"* · `Neuro_merged D1 §0.4 Secondary Headaches Worth Knowing`.
+> **The Neuro deferral is the model; the other three are unmarked.** Flagged, not merged.
 
 - **D:** granulomatous vasculitis of large and medium-sized arteries.
 - **R:** >50 years old, F>M, possible family history.
@@ -4038,6 +4064,15 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 ---
 
 ## 0.1 Blood Gas and Acid-Base Analysis
+
+> [!warning] FLAG 2026-09-01 — `NEW_Investigations_Orthopaedics_Neurology_and_Other` is a grab-bag
+> **Its own title says "and Other". 11 of its 18 entries are neither orthopaedic nor neurological** —
+> blood gas, electrolytes, osmolality, protein/immune profile, tumour markers, **FAMCARE-P16** (a
+> palliative-care family satisfaction measure), breast MRI, KOH preparation, wet mount, slit skin smear,
+> newborn bloodspot screening, and an STI screen that duplicates `ID 08_08`.
+> **Several duplicate entries elsewhere**: this section is the third ABG copy in the vault;
+> `§0.11 Tumour Markers` duplicates `10_11a ## Tumour markers`; `§0.8` duplicates
+> `NEW_Investigations_Haematology_Part2 §0.19`. Flagged as a set; nothing moved.
 
 **D:** Measurement of **pH, PaCO₂, PaO₂, bicarbonate and base excess**, with most analysers also reporting **lactate, electrolytes, glucose and haemoglobin** on the same sample. **Arterial** for oxygenation; **venous** for pH, CO₂ trend, lactate and electrolytes.
 

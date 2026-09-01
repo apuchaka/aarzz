@@ -37,6 +37,15 @@
 
 ## Acute urticaria and angioedema
 
+> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
+> **`Infectious Disease_merged K4 §0.6 Urticaria, Angioedema and Mast Cell Disorders` covers the same
+> topic** — and **`Derm_merged.md:2242`, in this file, routes readers AWAY from here**, saying
+> *"Urticaria, anaphylaxis and drug reaction labelling → [[K4]] 0.2–0.3"*.
+> **So this file points at ID for content this file also holds, and ID holds it without pointing back.**
+> `Heme Onc_merged 10_09b ## Hereditary angioedema` is a third treatment, and
+> `Emergency F0-1 §0.9` and `NEW_Drugs_01` hold the anaphylaxis half.
+> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
+
 - **D:** urticaria (hives) is a skin condition characterised by erythematous, blanching, oedematous, non-painful, pruritic lesions that typically resolve within 24 hours and leave no residual markings. Angio-oedema is a sudden, pronounced swelling of the subdermis or mucous membranes.
 - **A/P:** usually allergic, IgE-mediated or mast cell degranulation. Most common allergens are drugs and foods.
 - **R:** positive family history, exposure to food/drug trigger, recent viral infection, recent insect bite/sting.
@@ -246,6 +255,11 @@
 - **Mx:** conservative or excision.
 
 ## Pyoderma gangrenosum
+
+> [!warning] FLAG 2026-09-01 — cross-system association worth keeping visible
+> Strongly associated with inflammatory bowel disease. `GI_merged §0.16.3 Extra-intestinal features of
+> IBD (both CD and UC)` is the other end. **The skin lesion stays here**; the link is flagged so a
+> reader arriving from either side finds the other.
 
 - **D:** non-infectious, inflammatory disorder resulting in painful ulcers.
 - **A/P:** neutrophilic dermatosis — dense infiltration of neutrophils in the affected tissue.
@@ -918,6 +932,12 @@
   - **Prevention:** cover skin, apply DEET, avoid products with strong scents, avoid camping near water, keep food/drink covered outdoors, inspect skin for ticks/bites at the end of the day.
 
 ## Non-blanching rashes — approach and differential
+
+> [!warning] FLAG 2026-09-01 — this approach appears three times in this file
+> Here · `G3 §0.1 Approach to the Non-Blanching Rash` · `NEW_Dermatology ## Non-Blanching Rash and
+> Purpuric Rash`. **Pruritus appears twice** (`## Pruritus (Itch)` and `G4 §0.4 Pruritus`) and
+> **alopecia twice** (`## Alopecia (Hair Loss)` and `G5 §0.6 Hair Loss`).
+> All retained; pairs marked, nothing merged.
 
 > [!note] Gap-filled from CSV ("Non-blanching rashes," Medium yield) — genuinely absent as a standalone reasoning framework despite the individual causes being scattered across this project; built here as a DDx/approach entry rather than a single disease, in the same spirit as the STI Ulcers and Diarrhoea DDx tables elsewhere in this project.
 
@@ -2080,6 +2100,13 @@
 ---
 
 ## 0.2 The Endocrine and Neoplastic Causes
+
+> [!warning] FLAG 2026-09-01 — `M-13` this block holds the MECHANISM half of carcinoid; GI holds the disease entry
+> **`GI_merged §0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)` is the disease entry.**
+> The portal-circulation explanation below — *"a gut carcinoid does not cause carcinoid syndrome until
+> there are hepatic metastases"* — carcinoid crisis, and the octreotide-before-anaesthesia warning are
+> **only here**. Endocrine is a third candidate.
+> **Flagged at all three ends; content left where it is. Not resolved — neither file owns it.**
 
 > [!danger] Carcinoid syndrome — and why the liver explains everything about it
 > **Neuroendocrine tumours secrete serotonin and other vasoactive mediators into the PORTAL circulation, where the LIVER METABOLISES THEM COMPLETELY.**

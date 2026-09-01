@@ -196,6 +196,12 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 
 ## 0.5 Pre-Operative Assessment
 
+> [!warning] FLAG 2026-09-01 — this file already defers to `Examination.md` in one place and duplicates it here
+> **`Anaes_merged.md:23` says *"See [[Examination]] Pre-Anaesthetic Assessment (Airway + Fitness for
+> Anaesthesia)"*** — and `Examination.md §1.12` carries that title. This section, and
+> `AN1 §0.1 Preoperative Assessment` and `§0.2 Airway Assessment and Anaesthetic Technique`, duplicate it.
+> **The file has made the deferral once and not the second time.** Flagged, nothing moved.
+
 > [!note] Gap-filled from CSV ("Pre operation assessment," Medium yield) — genuinely absent despite being fundamental to safe anaesthetic practice; the ASA classification and fasting guidance were already referenced elsewhere in this source but the assessment framework itself was never built.
 
 **D:** the systematic clinical evaluation of a patient before anaesthesia/surgery, aiming to identify factors that increase perioperative risk, optimise modifiable conditions where possible, and plan the anaesthetic approach accordingly.
@@ -230,6 +236,10 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 **Consent:** discussing the procedure, anaesthetic technique, and material risks with the patient is a core part of this process — see [[Clinical-Process-EBM-Consent-Capacity]] for the general principles of informed consent, not repeated here.
 
 ## 0.6 Group & Hold / Crossmatch
+
+> [!warning] FLAG 2026-09-01 — three homes
+> `Heme Onc_merged 10_08 ## ABO and Rh Compatibility — The Two Opposite Rules` and
+> `NEW_Investigations_Haematology ## Immunohematology`. Flagged, nothing merged.
 
 > [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Low yield) — not covered in the source primer.
 
@@ -299,6 +309,15 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 ---
 
 ## 0.8 Postoperative Care and Complications
+
+> [!warning] FLAG 2026-09-01 — same topic twice in this file, and twice more elsewhere
+> `AN1 §0.5 Postoperative Complications` is the Corpus B version.
+> Also `Emergency and Crit Care_merged A1 §0.5 Post-Procedural Deterioration`, `§0.6 Failure to Wake
+> Post-Sedation`, and `Infectious Disease_merged K1 §0.6 Post-Operative and Drug Fever`.
+> ⚠️ **Three inbound flags are destined for `AN1 §0.3 Perioperative Medication Management` and
+> `§0.7 Specific Perioperative Situations`** — perioperative diabetes management (Endocrine),
+> surgical fluid and electrolyte principles (Endocrine), and TURP syndrome (Renal). Check for
+> duplication before any of them is actioned.
 
 > [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Medium yield, "partially covered" via the PONV section above) — general postoperative complications beyond PONV weren't covered in the source primer.
 
@@ -818,6 +837,12 @@ Injection of anaesthetic (e.g. LA, opioids) into the epidural or subarachnoid sp
 ---
 
 ## 0.1 Drugs for Gout
+
+> [!warning] FLAG 2026-09-01 — an AMH chapter is not a clinical grouping
+> `NEW_Drugs_03_Analgesics` contains **gout, migraine and opioid dependence** alongside analgesics
+> because AMH section 3 does. Their clinical homes are `MSK_merged 12_02 §0.2 Gout`,
+> `Neuro_merged ## Migraine` / `D1 §0.3`, and `Psychiatry_merged 14a-1 ## Opioid misuse`.
+> **This is a property of the source's provenance, not a misfile by anyone.** Flagged, nothing moved.
 
 > [!danger] **The single most important prescribing principle in gout: NEVER start, stop or change the dose of a urate-lowering drug during an acute flare unless the patient is already established on it.**
 > Any shift in serum urate — up **or down** — destabilises crystal deposits and precipitates or prolongs an attack. If the patient is **already on allopurinol, continue it unchanged** through the flare. If they are not, treat the flare first and start urate-lowering therapy afterwards, with **flare prophylaxis co-prescribed**.

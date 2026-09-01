@@ -1835,6 +1835,13 @@ Renal follow-up, since most myoglobinuric acute kidney injury recovers but some 
 
 ## 0.1 Foreign Bodies — General Principles
 
+> [!warning] FLAG 2026-09-01 — one source, eight destinations — and splitting it would destroy this section
+> `A8_Foreign_Bodies_by_Site` is organised **by site**, so each of its eight sections belongs to a
+> different system: aural and nasal → ENT · corneal/ocular → Ophthalmology · oropharyngeal → ENT ·
+> swallowed → GI/ENT · rectal → GI · vaginal → OBGYN.
+> ⚠️ **The cross-site principles live in THIS section and would be lost by a split.**
+> **Recommendation: keep the source intact and point at it from each system**, rather than distributing it.
+
 **D:** Retained material at any body site, presenting acutely, incidentally, or through its complications.
 
 > [!danger] The button battery rule — the single most important thing in this file
@@ -2591,6 +2598,13 @@ Adrenaline autoinjector prescription with **demonstrated** technique, not just a
 
 ## 0.10 Australian Elapid Snakebite
 
+> [!warning] FLAG 2026-09-01 — distinctively Australian content with no external referrers; preserve as a set
+> This section, `## 0.11 Spider Bites — Redback vs Funnel-Web`, and `NEW_Drugs_04 §0.2 Antivenoms`
+> are referenced from nowhere else in the vault.
+> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers can be validated.
+> Flagged here **not** as a candidate for removal but the reverse: this is high-yield Australian
+> material that nothing points at, so it is easy to lose in a reorganisation.
+
 **D:** Envenomation by an Australian elapid — brown, tiger, black, death adder, taipan or sea snake — producing a syndrome dominated by coagulopathy, with variable neurotoxicity and myotoxicity.
 
 **R/Causes:** Rural and outer-suburban exposure, gardening, bushwalking, attempts to handle or kill a snake. Peak in warmer months.
@@ -3108,6 +3122,13 @@ Team debrief. Bystander CPR follow-up and support where relevant.
 ---
 
 ## 0.3 Advanced Life Support — Adult
+
+> [!warning] FLAG 2026-09-01 — duplicate pair with Cardio, and the ANZCOR correction lives in the other copy
+> `Cardio_merged §0.5 Advanced Life Support (Adult)` carries a verification box with a specific
+> correction: ***"ANZCOR timing is NOT the same as the UK/ERC protocol — adrenaline timing genuinely
+> differs by one shock"***.
+> ⚠️ **That box is the first thing lost if these two are reconciled. Whichever copy survives keeps it.**
+> Pair marked, not merged.
 
 **D:** Resuscitation with monitoring, defibrillation, advanced airway management and drug therapy, following the ANZCOR adult ALS algorithm.
 
@@ -3831,6 +3852,15 @@ Topical ocular antihistamines are covered with the other drugs for allergic eye 
 - **Systemic corticosteroids** — for severe allergic disease and as an adjunct after anaphylaxis; **they are slow in onset and are never the acute treatment for anaphylaxis.**
 
 ## 0.5 Sympathomimetics (Anaphylaxis) — Adrenaline
+
+> [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
+> Anaphylaxis has **five homes**: here · `F0-1 §0.9 Anaphylaxis and Acute Allergic Reaction` ·
+> `Derm_merged 09_01 ## Anaphylaxis` · `Pediatrics_merged 15_01b_Paeds_-_Anaphylaxis` ·
+> `Infectious Disease_merged K4` (allergy).
+> **This section and `F0-4 §0.4 Paediatric Resuscitation` are where weight-banded adrenaline figures
+> live.** The ASCIA table in this corpus has already produced one live paediatric dosing defect.
+> **Every per-kg figure and injector band must be listed and checked before any merge.**
+> See `_meta/flags/_RULE5_FIGURES.md`.
 
 - **Mechanism:** a non-selective adrenoceptor agonist, and every clinically important effect maps to a receptor. **α₁** → vasoconstriction, reversing hypotension and **mucosal/laryngeal oedema**. **β₁** → increased heart rate and contractility. **β₂** → **bronchodilation**, and inhibition of further **mast cell and basophil mediator release** — so it treats the reaction as well as its consequences.
 - **Key agent:** **adrenaline (epinephrine)**, as **1:1000 ampoule** for intramuscular use, as an **adrenaline injector device**, and as a **dilute intravenous infusion** in refractory anaphylaxis (critical care setting only).
