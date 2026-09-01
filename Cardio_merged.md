@@ -1733,6 +1733,8 @@ Long-term calcium channel blocker, with long-acting nitrates added if needed. Ca
 
 ## 0.5 Troponin and Cardiac Biomarkers
 
+`CF-PAIR` **THIRD HOME. `Investigation-Interpretation §1.12` and Part 3 `## 0.4 Troponins and Cardiac Biomarkers` (from `GER7`) both cover this assay. All three kept in full, NOT reconciled — this one stays where the disease is.**
+
 **D:** Cardiac troponin I and T are structural proteins released on myocyte injury, and the primary biomarkers of myocardial damage.
 
 > [!danger] Troponin indicates myocardial injury — it does not indicate the cause of that injury
@@ -4186,30 +4188,7 @@ These matched a header only *partially*, and I judged the header to be a differe
 
 **Alt:** Australian CVD risk calculator; coronary artery calcium score in selected intermediate-risk patients; genetic testing for familial hypercholesterolaemia.
 
-## 0.4 Non-Stress Test (NST / Cardiotocography — CTG)
-
-> [!warning] **Mis-filed** — an obstetric investigation listed under Cardiology & Vascular. Built as listed.
-
-**D:** Continuous external recording of **fetal heart rate** and **uterine activity**. Antenatally this is the **non-stress test**; intrapartum it is continuous **CTG** monitoring.
-
-**Ind:** **Antenatal** — reduced fetal movements, suspected fetal growth restriction, hypertensive disease of pregnancy, diabetes, reduced or increased liquor, antepartum haemorrhage, post-dates, maternal illness. **Intrapartum** — any pregnancy with risk factors for fetal compromise, induction or augmentation with oxytocin, meconium, epidural analgesia, and abnormal intermittent auscultation.
-
-**Role:** A test of **current fetal oxygenation**, not of long-term wellbeing. It is a **screening test with high sensitivity and low specificity** — which is why abnormal traces are common and most are not associated with a compromised fetus.
-
-> [!info] **The features read on every trace** — baseline rate, **baseline variability**, **accelerations**, and **decelerations** (with their timing relative to contractions), plus contraction frequency. A **reactive/normal** antenatal trace shows a normal baseline with normal variability and accelerations, and is reassuring.
-> **The features that most concern:** **reduced or absent baseline variability** (the single most important abnormality), **late decelerations**, complicated variable decelerations, prolonged decelerations, and a **sinusoidal pattern** — the last suggesting severe fetal anaemia, as in massive fetomaternal haemorrhage or parvovirus.
-> **Classification systems and specific numeric criteria are deliberately not stated here** — Australian intrapartum fetal surveillance guidance (RANZCOG) is egress-blocked, classification categories differ between systems, and reproducing criteria for a time-critical obstetric decision from memory is exactly the failure this project guards against. **Use your unit's fetal surveillance guideline and its classification table.**
-
-> [!danger] **Do not ignore**
-> **A CTG is interpreted with the clinical picture, never alone.** Fetal tachycardia with maternal fever suggests **chorioamnionitis**; a sudden prolonged deceleration suggests **abruption, cord prolapse or uterine rupture** and is an obstetric emergency requiring immediate senior attendance — **call for help rather than continuing to observe the trace.**
-> **A reduced-fetal-movement presentation is not "excluded" by a reactive CTG alone** — it also needs ultrasound assessment of growth and liquor if there are other risk factors. See [[16_10-13_Labour_and_Delivery]] Reduced fetal movements (RFM).
-> **Continuous CTG in low-risk labour increases operative delivery without improving neonatal outcome**, which is why intermittent auscultation is the standard in low-risk labour — over-monitoring is itself a harm.
-
-**Normal/abnormal:** Normal/reassuring → continue routine care. Abnormal → escalate, change maternal position, correct hypotension and hypoxia, stop oxytocin, and consider fetal blood sampling or expedited delivery per the unit protocol.
-
-**Alt:** Intermittent auscultation (low-risk labour); **ultrasound with umbilical artery Doppler and biophysical profile** for antenatal surveillance; fetal scalp blood sampling; fetal scalp lactate.
-
----
+> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `0.4 Non-Stress Test (NST / Cardiotocography — CTG)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Build status of this file
 

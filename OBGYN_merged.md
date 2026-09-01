@@ -5377,3 +5377,73 @@ Specialist paediatric endocrine referral for precocious or pathological delayed 
 
 > [!note] Cross-references
 > Abnormal bleeding on tamoxifen, and menopause management → [[O4]] 0.3, 0.6 · Pelvic and vulval conditions → [[O5]] · Postnatal care and postnatal depression → [[O3]] · Contraception and hormonal considerations → [[O6]] 0.3 · Hyperprolactinaemia and galactorrhoea → [[I4]] 0.2 · Gynaecomastia, hypogonadism and testicular tumours → [[I4]] 0.6 and [[H4]] · Lymphoedema → [[B6]] 0.3 · Breast abscess and skin infection → [[K2]] 0.3 · Neutropenic sepsis → [[K1]] 0.5 · Cardiotoxicity of cancer therapy → [[CV-X]] 0.1 · Bone loss on aromatase inhibitors → [[GER1]] 0.6 · Hypercalcaemia of malignancy → [[I3]] 0.2 · Metastatic spinal cord compression → [[L4]] 0.3 · Breaking bad news → [[GER5]] · Preventive health and population screening → [[GER3]]
+
+---
+
+# 2 Intrapartum and fetal assessment — merged in 2026-09-01 (C3)
+
+> [!info] **C3 executed — the obstetric half.** `GER7 §0.5 Fetal Scalp Blood Sampling` is
+> obstetric, not general laboratory, and `Cardio`'s CTG/NST entry (`C-1`, a self-declaring
+> misfile) belongs with it.
+>
+> **`OBGYN B-9`'s biophysical profile went to `[[Investigation-Interpretation]]` on `ac620de`,
+> before this ruling.** It is **not** moved again — it is marked as a pair from both ends
+> instead, because moving executed content twice is how provenance gets lost.
+
+<!-- ===== SOURCE: GER7_Investigation_and_Lab_Addendum.md ===== -->
+*Moved here from `GER7_Investigation_and_Lab_Addendum.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.5 Fetal Scalp Blood Sampling and Intrapartum Assessment
+
+> [!tip] Why it exists — CTG has poor specificity
+> **Cardiotocography is SENSITIVE for fetal hypoxia but POORLY SPECIFIC: most abnormal traces occur in babies who are not compromised.** **Acting on the CTG alone therefore drives caesarean and instrumental delivery rates up without a corresponding improvement in neonatal outcome.** Cross-refer [[O2]] 0.5 and [[O3]] 0.1.
+> **FETAL BLOOD SAMPLING provides a DIRECT measurement of fetal acid-base status, and its purpose is to REDUCE UNNECESSARY OPERATIVE DELIVERY by identifying which abnormal traces reflect genuine hypoxia.**
+> **It measures pH and/or LACTATE.** **LACTATE requires a much SMALLER sample volume and has a considerably higher rate of successful sampling, and it is increasingly the preferred measurand for that practical reason.** `UNVERIFIED — the normal, borderline and abnormal thresholds for both pH and lactate.`
+
+> [!warning] The requirements, the contraindications, and the time limit
+> **REQUIREMENTS: adequate cervical DILATATION · RUPTURED membranes · an accessible presenting part · an appropriately trained operator · and maternal consent and positioning, which is uncomfortable and undignified and deserves explanation.**
+> **CONTRAINDICATIONS:**
+> **· MATERNAL BLOOD-BORNE VIRUS — HIV, hepatitis B, hepatitis C — because breaching the fetal skin creates a transmission risk.** **This is the contraindication most likely to be overlooked, and it makes the maternal serology status directly relevant to intrapartum management.**
+> **· Suspected fetal BLEEDING OR CLOTTING DISORDER.**
+> **· PREMATURITY.**
+> **· FACE presentation.**
+> **· Suspected intrauterine SEPSIS or chorioamnionitis.**
+> **· And any situation where the fetal condition mandates IMMEDIATE delivery — sampling must never delay a delivery that is already indicated.**
+> **THE RESULT IS TIME-LIMITED.** **A normal result reflects the fetal condition at that moment only. If the CTG remains abnormal, the sample must be REPEATED at a defined interval — a reassuring result an hour ago does not license continued observation.**
+> **Its use is declining in some units, and alternative adjuncts such as fetal ECG ST-segment analysis have not shown clear benefit over CTG alone.** `UNVERIFIED — current practice and repeat intervals.`
+
+> [!tip] Cord blood gases at delivery
+> **PAIRED UMBILICAL ARTERIAL AND VENOUS samples taken at birth, from a doubly clamped segment of cord.**
+> **THE ARTERIAL sample reflects the FETAL condition; the VENOUS sample reflects the PLACENTAL and maternal supply.** **Taking both allows verification that the samples are genuinely arterial and venous (they should differ), which is what makes the result defensible.**
+> **THEY MATTER FOR THREE REASONS: they OBJECTIVELY DOCUMENT the condition at birth · they guide NEONATAL management, including eligibility for therapeutic hypothermia after suspected hypoxic-ischaemic encephalopathy · and they are of considerable MEDICOLEGAL importance, because a normal cord gas is powerful evidence against intrapartum hypoxia in a child who later has cerebral palsy.**
+> **Take them in any delivery where there has been concern — the sample cannot be obtained retrospectively.** Cross-refer [[M1]] and [[M3]].
+
+---
+
+<!-- ===== SOURCE: NEW_Investigations_Cardiology.md ===== -->
+*Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.4 Non-Stress Test (NST / Cardiotocography — CTG)
+
+> [!warning] **Mis-filed** — an obstetric investigation listed under Cardiology & Vascular. Built as listed.
+
+**D:** Continuous external recording of **fetal heart rate** and **uterine activity**. Antenatally this is the **non-stress test**; intrapartum it is continuous **CTG** monitoring.
+
+**Ind:** **Antenatal** — reduced fetal movements, suspected fetal growth restriction, hypertensive disease of pregnancy, diabetes, reduced or increased liquor, antepartum haemorrhage, post-dates, maternal illness. **Intrapartum** — any pregnancy with risk factors for fetal compromise, induction or augmentation with oxytocin, meconium, epidural analgesia, and abnormal intermittent auscultation.
+
+**Role:** A test of **current fetal oxygenation**, not of long-term wellbeing. It is a **screening test with high sensitivity and low specificity** — which is why abnormal traces are common and most are not associated with a compromised fetus.
+
+> [!info] **The features read on every trace** — baseline rate, **baseline variability**, **accelerations**, and **decelerations** (with their timing relative to contractions), plus contraction frequency. A **reactive/normal** antenatal trace shows a normal baseline with normal variability and accelerations, and is reassuring.
+> **The features that most concern:** **reduced or absent baseline variability** (the single most important abnormality), **late decelerations**, complicated variable decelerations, prolonged decelerations, and a **sinusoidal pattern** — the last suggesting severe fetal anaemia, as in massive fetomaternal haemorrhage or parvovirus.
+> **Classification systems and specific numeric criteria are deliberately not stated here** — Australian intrapartum fetal surveillance guidance (RANZCOG) is egress-blocked, classification categories differ between systems, and reproducing criteria for a time-critical obstetric decision from memory is exactly the failure this project guards against. **Use your unit's fetal surveillance guideline and its classification table.**
+
+> [!danger] **Do not ignore**
+> **A CTG is interpreted with the clinical picture, never alone.** Fetal tachycardia with maternal fever suggests **chorioamnionitis**; a sudden prolonged deceleration suggests **abruption, cord prolapse or uterine rupture** and is an obstetric emergency requiring immediate senior attendance — **call for help rather than continuing to observe the trace.**
+> **A reduced-fetal-movement presentation is not "excluded" by a reactive CTG alone** — it also needs ultrasound assessment of growth and liquor if there are other risk factors. See [[16_10-13_Labour_and_Delivery]] Reduced fetal movements (RFM).
+> **Continuous CTG in low-risk labour increases operative delivery without improving neonatal outcome**, which is why intermittent auscultation is the standard in low-risk labour — over-monitoring is itself a harm.
+
+**Normal/abnormal:** Normal/reassuring → continue routine care. Abnormal → escalate, change maternal position, correct hypotension and hypoxia, stop oxytocin, and consider fetal blood sampling or expedited delivery per the unit protocol.
+
+**Alt:** Intermittent auscultation (low-risk labour); **ultrasound with umbilical artery Doppler and biophysical profile** for antenatal surveillance; fetal scalp blood sampling; fetal scalp lactate.
+
+---
