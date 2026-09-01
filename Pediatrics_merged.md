@@ -104,6 +104,27 @@
 
 - Manual needle vs semi-automatic. Semi-auto options: bone injection gun (children and adults); EZ-IO (reusable drill — 15mm needle for <39kg, 25mm needle for >40kg, 45mm needle for larger patients).
 
+> [!warning] **THE EZ-IO WEIGHT BANDS DO NOT TILE: `<39 kg` and `>40 kg` LEAVE 39–40 kg UNCOVERED.**
+> A child weighing 39.5 kg falls between the two bands and this line does not say which needle
+> to use. `UNVERIFIED — the EZ-IO needle-length weight bands, per the Teleflex EZ-IO directions for use and the ANZCOR Guideline 12 series / RCH intraosseous access guideline.`
+>
+> **This is the SECOND instance of the same defect class in this corpus, not an isolated typo.**
+> The first was the ASCIA adrenaline table, which stopped at 7.5 kg and covered no infant at
+> all until a row was added on 2026-08-29 (see `[[09_01_Dermatology_-_Dermatological_Emergencies]]`
+> Anaphylaxis, and `_meta/flags/_RULE5_FIGURES.md`).
+>
+> **The class: a set of weight or age bands that does not cover the whole axis it claims to
+> cover.** It is a distinct failure from CLAUDE.md rule 5's absolute-figure-standing-alone
+> defect. Rule 5 catches a number that is wrong for a small patient; this catches a patient
+> for whom **there is no number at all**. Both instances survived every check in the project
+> because **each individual band is correct** — the defect is in the join between them, which
+> no per-figure check inspects.
+>
+> **The test, when you meet any band set:** read the boundaries in order and confirm each upper
+> limit meets the next lower limit. `<39` then `>40` fails. `7.5–20` then `>20` passes.
+> Consequence here is bounded — a needle length, not a drug dose — but the shape is identical
+> and it is being tracked as a class rather than as two incidents.
+
 ### Preparation
 
 - Decontaminate the field. Lidocaine 1% 5mL if conscious. Syringe for blood sampling. Flush. Tape for securing. Primed infusion set ± 3-way tap.

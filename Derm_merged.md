@@ -30,6 +30,33 @@
 >
 > **This box was added during the L3 seam audit (2026-08-29) because the number was not here.** [[15_01b_Paeds_-_Anaphylaxis]] pointed to *this* entry "for the exact current thresholds already verified there" and this entry carried no dose at all — a circular cross-reference, for the most time-critical drug dose in the corpus, between two entries that were both individually ASCIA-verified. See `PENDING_GUIDELINE_CHECKS.md` **B43**.
 
+> [!danger] **DO NOT "RECONCILE" THE `<7.5 kg` ROW IN THE TABLE ABOVE AGAINST THE `0.01 mg/kg` RULE IN ITS HEADING. THEY DISAGREE ON PURPOSE AND THE ROW IS CORRECT.**
+>
+> The heading of the box above states `0.01 mg/kg`. For an infant under 7.5 kg that formula
+> gives **under 75 microgram**. The first row of the table says **100–150 microgram**. **The
+> row is higher than the formula deliberately:** a minimum practical volume is drawn rather
+> than a strictly weight-calculated one, because 0.05 mL cannot be drawn or given reliably
+> from a 1 mL ampoule under time pressure.
+>
+> **It is the one row a consistency check will flag, and the one row that must not be
+> removed.** It is this corpus's only adrenaline dosing for an infant. It was added on
+> 2026-08-29 **because it was missing**: the table stopped at 7.5 kg, so a reader following a
+> pointer here for an infant reached a table that did not cover them. Deleting it as an
+> internal inconsistency restores that defect exactly — and **nothing downstream detects it**,
+> because the table would still look complete and self-consistent, simply with no row for the
+> smallest patients.
+>
+> **If this table is ever merged with another copy, this row is the thing to check survived.**
+> The copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and in `NEW_Drugs_01 §0.5` (Emergency) do
+> **not** carry it — both begin at 7.5 kg — so a merge that takes either as canonical loses it
+> silently. See `_meta/flags/_RULE5_FIGURES.md`, ranked first of the five items most at risk.
+>
+> **What is unverified here is the figure, not the principle.** The 0.1–0.15 mg value came
+> from `[[01_Cardiovascular]]` Shock (the Anaphylactic shock sub-entry) and has **not** been
+> checked against ASCIA — `PENDING_GUIDELINE_CHECKS.md` **B50**.
+> `UNVERIFIED — the <7.5 kg / <6 months IM adrenaline dose, per the ASCIA Acute Management of Anaphylaxis dose table.`
+> **That is a reason to verify it. It is never a reason to delete it.**
+
   - **Definitive:** repeat IM adrenaline every 5 minutes if inadequate response — most episodes respond to one or two doses; **refractory anaphylaxis** (inadequate response to repeated IM doses) may require a peripheral IV adrenaline infusion under specialist/critical care guidance, a distinct escalation pathway from standard IM dosing. Antihistamines and corticosteroids may be given as adjuncts once adrenaline has been given, but **never as a substitute for, or before, adrenaline** — a genuinely common and important error to avoid.
   - **Chronic/long-term:** clinical observation for **at least 4 hours after the last adrenaline dose**, given adrenaline's short duration of action means symptoms can recur as it wears off (biphasic reactions are a recognised phenomenon); prescribe an adrenaline injector at discharge for patients at risk of re-exposure (weight-based dosing: 150mcg for 7.5–20kg, 300mcg for ≥20kg, 300mcg or 500mcg from around 12 years old/>50kg — genuinely specific, current ASCIA-recommended thresholds); provide a written ASCIA Action Plan for Anaphylaxis with device-specific instructions, given patients/carers need to be trained on the specific device prescribed; allergen identification and avoidance advice; referral to an allergy/immunology specialist for confirmatory testing and ongoing management, particularly for children or where the trigger isn't already clearly known.
 
