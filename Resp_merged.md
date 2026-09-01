@@ -3,6 +3,65 @@
 <!-- ===== SOURCE: 02_Respiratory.md ===== -->
 
 
+## 0.3 Respiratory Failure
+
+| Type | Definition | Cause | Support |
+|---|---|---|---|
+| Type I | ↓O2 | Usually ↓gas exchange | CPAP |
+| Type II | ↓O2 + ↑CO2 | Usually ↓ventilation | BiPAP |
+| Type III | Peri-operative / atelectasis | — | — |
+| Type IV | Septic shock / respiratory failure secondary to ↑metabolic requirements | — | — |
+
+---
+
+## 0.13 Oxygen Therapy
+
+### 0.13.1 Delivery devices
+| Delivery | Flow (L/min) | FiO2 (%) |
+|---|---|---|
+| Nasal cannulae | 1–6 | 0.24–0.40 |
+| Simple face mask | 5–10 | 0.35–0.60 |
+| Venturi mask | 2–5 | 0.24–0.56 |
+| Non-rebreather mask | 10–15 | 0.60–0.90 |
+| High-flow nasal cannula | 15–60 | 0.30–1.0 |
+
+> [!info] Venturi mask colour-coded flow/FiO2 (for fixed and high O2 requirements, e.g. COPD)
+> Blue 2L = 24% | White 4L = 28% | Orange 6L = 31% | Yellow 8L = 35% | Red 10L = 40% | Green 15L = 60%
+
+> [!tip] High-flow nasal cannula is good for patients with air hunger as it reduces work of breathing. Every 10 L/min flow ≈ 1 cmH2O positive end-expiratory pressure, helping keep alveoli open.
+
+### 0.13.2 Non-invasive ventilation (NIV)
+Encompasses BiPAP, CPAP, etc.
+**Indicated for:** cardiogenic pulmonary oedema, COPD exacerbation, extubation of COPD patients, immunocompromised hosts.
+
+> [!warning] NIV requires closer monitoring.
+
+---
+
+## 0.15 Acute Respiratory Distress Syndrome (ARDS)
+
+**D:** non-cardiogenic pulmonary oedema and diffuse lung inflammation syndrome.
+
+**Associated conditions:** sepsis, pneumonia, acute pancreatitis, massive transfusions, smoke inhalation, cardiopulmonary bypass
+
+**S/Smx:** sudden onset of severe dyspnoea, ↑RR, bilateral lung crackles, low O2 sats
+
+**Ix:** CXR (*why:* required for the diagnostic criteria — confirms bilateral pulmonary oedema; *what:* bilateral infiltrates). ABG, repeated (*why:* quantifies the degree of hypoxaemia (via the PaO2/FiO2 ratio, a core diagnostic criterion) and tracks trajectory/response to ventilatory support; *what:* severe hypoxaemia, PaO2/FiO2 ratio used for both diagnosis and severity grading).
+
+> [!info] Diagnostic criteria
+> - Acute onset (<1 week of known clinical insult)
+> - Pulmonary oedema on CXR
+> - Respiratory failure not fully explained by heart failure or fluid overload
+> - pO2/FiO2 <40 kPa (300 mmHg)
+
+**Mx:**
+- **Immediate/acute:** ICU + organ support; lung-protective ventilation strategy (low tidal volume) if intubated; increased O2 including escalation to invasive ventilation as needed; prone positioning may help improve oxygenation in moderate-severe ARDS; treat the precipitating cause (e.g. antibiotics for sepsis/pneumonia) concurrently.
+- **Chronic/long-term:** for survivors — post-ICU rehabilitation given significant long-term physical/cognitive morbidity in ARDS survivors; address the underlying condition that precipitated ARDS to prevent recurrence.
+
+**P:** very poor prognosis; mortality 30–50%, death most often due to multiple organ failure.
+
+---
+
 ## 0.1 Asthma
 
 **D:** Chronic inflammatory airway disease characterised by intermittent, reversible airway obstruction and hyperreactivity.
@@ -144,166 +203,6 @@ Emphysema occurs due to elastin breakdown causing loss of alveolar integrity.
 
 ---
 
-## 0.3 Respiratory Failure
-
-| Type | Definition | Cause | Support |
-|---|---|---|---|
-| Type I | ↓O2 | Usually ↓gas exchange | CPAP |
-| Type II | ↓O2 + ↑CO2 | Usually ↓ventilation | BiPAP |
-| Type III | Peri-operative / atelectasis | — | — |
-| Type IV | Septic shock / respiratory failure secondary to ↑metabolic requirements | — | — |
-
----
-
-## 0.4 Lung Cancers
-
-> [!danger] A genuine, severe Australian health equity issue with a striking, compounding incidence-and-survival gap — not a generic epidemiological footnote. **Aboriginal and Torres Strait Islander Australians are around twice as likely to develop lung cancer as non-Indigenous Australians, and around half as likely to survive it** — a devastating combination given it means both a higher chance of diagnosis and a substantially worse outcome once diagnosed. Cancer Australia data show Indigenous Australians are **70% more likely to die from lung cancer** specifically; lung cancer accounts for roughly 1 in 6 of all cancers diagnosed in Indigenous Australians, with incidence higher in men and in more remote areas. This connects directly to the smoking prevalence disparity already established for COPD (see [[02_Respiratory]] COPD, not repeated here) — colonisation and the introduction of commercial tobacco are recognised as the primary drivers of this shared risk-factor burden.
-> - **The survival gap isn't fully explained by later-stage diagnosis alone**: population-based studies show Aboriginal and Torres Strait Islander patients with lung cancer receive **surgery less frequently** than non-Indigenous patients with the same disease, across multiple Australian states and territories — a genuine treatment-access gap layered on top of the incidence and diagnosis-timing disparities, not a single, simply-explained cause.
-> - **A genuinely current, actionable equity concern**: Australia's National Lung Cancer Screening Program has been specifically flagged (2025 research) as needing locally-adapted, community-developed implementation for Aboriginal and Torres Strait Islander communities — a screening program designed around general-population criteria risks widening rather than closing this gap if implemented without local context, echoing the pattern already established for AUSDRISK (see [[06_Metabolic_Medicine_and_Endocrinology]] Type 2 Diabetes Mellitus (T2DM), not repeated here) and stroke risk screening (see [[04_Neurology]] Strokes, not repeated here) — general-population screening tools and programs repeatedly need Indigenous-specific adaptation, not just wider rollout of the same approach.
-
-### 0.4.1 Small cell lung cancer (SCLC) — 15% of lung cancers
-
-**D:** aggressive malignant epithelial tumour of cells in the lower respiratory tract.
-
-**R:** smoking, smoke exposure, radon
-
-**P:** usually arises from APUD cells (Amine Precursor Uptake and Decarboxylation); associated with ectopic ADH and ACTH secretion, and Lambert-Eaton (myasthenia-like) syndrome. Histology: small, densely packed cells with scant cytoplasm, finely granular nuclear chromatin, absent nucleoli.
-
-**S/Smx:** cough, chest pain, haemoptysis, dyspnoea, weight loss ± hoarseness, clubbing; symptoms also depend on metastasis.
-
-**Ix:** CXR (*why:* first-line screening test; *what:* mass lesion, may show hilar prominence given the typically central location of SCLC). CT chest/abdomen/pelvis (*why:* stages the disease locally and screens for common metastatic sites, critical since SCLC Mx is staged as limited vs extensive rather than by the NSCLC TNM system; *what:* defines tumour extent and nodal/distant spread). Biopsy (bronchoscopic or CT-guided) (*why:* required for histological confirmation given the aggressive nature and specific chemo-radiotherapy-based Mx; *what:* small densely packed cells with scant cytoplasm, confirming SCLC). Bloods incl. electrolytes (*why:* screens for paraneoplastic SIADH (hyponatraemia) and baseline before chemotherapy; *what:* may show hyponatraemia if SIADH present). CT/MRI brain (*why:* SCLC has a high propensity for brain metastasis, relevant to staging and consideration of prophylactic cranial irradiation; *what:* screens for occult brain metastases).
-
-**Mx:**
-- **Definitive (staged by limited vs extensive disease, not TNM):** limited disease — combined chemotherapy (CT) + radiotherapy (RT); extensive disease/metastases — chemotherapy alone, with RT reserved for palliation of metastases.
-- **Chronic/long-term:** consider prophylactic cranial irradiation in patients responding well to initial treatment, given the high brain metastasis risk; palliative care involvement early given generally poor prognosis.
-
-**Complications:** pneumonia, haematologic toxicity, radiation-induced oesophageal injury, SVC syndrome, paraneoplastic syndromes, radiation-induced lung injury
-
-**P:** 5-year survival ~12–24% for limited stage, 1–5% for extensive stage.
-
-### 0.4.2 Non-small cell lung cancer (NSCLC) — 80% of lung cancers
-
-**R:** smoking, smoke exposure, COPD, family history, radon, ↑age
-
-**Subtypes:**
-- Adenocarcinoma (40%) — located peripherally
-- Squamous cell carcinoma (20%) — typically central; associated with PTHrP and hypercalcaemia, clubbing, HPOA (hypertrophic pulmonary osteoarthropathy)
-- Large cell carcinoma (10%) — located peripherally, anaplastic/poorly-differentiated, β-hCG secretion, associated with poor prognosis
-- Others (10%)
-
-**Ix:** CXR (*why:* initial screening test; *what:* mass lesion, often peripheral given adenocarcinoma predominance). CT-TAP (chest/abdomen/pelvis) (*why:* stages the tumour (TNM) and screens for common metastatic sites; *what:* defines tumour size/local invasion, nodal spread, and distant metastases). FBC and other bloods incl. calcium (*why:* baseline before treatment and screens for paraneoplastic hypercalcaemia, especially with squamous histology; *what:* may show hypercalcaemia if PTHrP-secreting). Sputum cytology ± bronchoscopy with biopsy (*why:* obtains histological/molecular diagnosis — required to guide targeted therapy decisions; *what:* confirms subtype and allows testing for EGFR/ALK and other targetable mutations). Thoracentesis (*why:* if a pleural effusion is present, distinguishes malignant involvement (which upstages/precludes curative surgery) from a reactive effusion; *what:* malignant cells on cytology if pleural spread). Thoracoscopy (*why:* used for pleural biopsy or mediastinal staging when other methods are inconclusive; *what:* direct tissue diagnosis). CT/MRI brain, bone scan, PET (*why:* completes staging by screening for common distant metastatic sites (brain, bone) and metabolically active disease; *what:* identifies occult metastases that would change Mx from curative to palliative intent).
-
-**Mx:**
-- **Definitive:** Stage I–IIIA — potentially curable — surgery (lobectomy) or stereotactic ablative body radiotherapy (SABR) + adjuvant chemotherapy; if surgery unsuitable, external beam RT + doublet platinum chemotherapy. Stage IIIB–IV — treatment intent shifts to disease control/palliation — chemotherapy, targeted therapy, or palliative measures depending on molecular profile and performance status.
-- **Definitive (molecular-targeted):** targeted therapy for EGFR-positive, ALK-rearrangement-positive tumours (and other targetable mutations identified on biopsy) — significantly changes prognosis/Mx approach compared to standard chemotherapy.
-- **Chronic/long-term:** surveillance imaging post-treatment for recurrence; palliative care involvement for advanced-stage disease; smoking cessation support (improves outcomes even after diagnosis).
-
-**Complications:** pneumonia, SVC syndrome, paraneoplastic syndromes
-
-**P:** poor prognosis associated with poor performance status, pre-treatment weight loss, metastases, ↑age. Prognosis depends more on histological/pathological stage; worsens as stage increases.
-
-> [!info] Paraneoplastic syndromes — mnemonic "SCLC"
-> **S**IADH, **C**ushing's syndrome, **L**ambert-Eaton syndrome, **C**erebellar syndrome
-
----
-
-## 0.5 Mesothelioma
-
-**D:** aggressive epithelial neoplasm from the lining of the lung (90%); rarely can occur in peritoneum, pericardium, and tunica vaginalis.
-
-**R:** asbestos (latency 30–40 years; patients tend to present 60–90yo), M>F (3:1). Occupations: shipyard, construction, maintenance, mechanics.
-
-**A/P:** asbestos taken up by alveolar macrophages and neutrophils → production of reactive oxygen/nitrogen species → DNA damage, altered gene expression → cancer.
-
-**S/Smx:** dyspnoea, dry cough, chest pain, non-specific symptoms (clubbing, weight loss), painless pleural effusion (↓breath sounds, dullness to percussion).
-
-> [!warning] Always check occupational history + asbestos exposure.
-
-**Ix:** CXR (*why:* initial screening test; *what:* pleural thickening, effusion). Contrast CT (*why:* better characterises pleural involvement and screens for metastatic spread, guiding staging; *what:* pleural thickening/nodularity, effusion, local invasion). Thoracocentesis + cytology & biopsy (*why:* obtains diagnostic tissue/fluid; *what:* malignant cells on cytology, though pleural biopsy is often needed since cytology alone can be falsely negative). Thoracoscopy (*why:* allows direct visualisation and larger biopsy samples when cytology/needle biopsy is inconclusive; *what:* direct tissue diagnosis). If considering surgical resection: lung function tests (*why:* assesses fitness for the extensive lung resection surgery requires; *what:* guides operability), echo (*why:* assesses cardiac fitness for major surgery; *what:* baseline cardiac function), mediastinoscopy (*why:* stages mediastinal lymph node involvement, affecting surgical candidacy; *what:* nodal staging).
-
-**Mx:**
-- **Definitive:** extra-pleural pneumonectomy (EPP) and pleurectomy with decortication for selected surgical candidates, but surgery alone is rarely curative; combined with platinum-based chemotherapy and adjuvant RT (multimodal therapy).
-- **Chronic/long-term:** palliative measures (e.g. talc pleurodesis) for symptom control (recurrent effusion) in those not suitable for/beyond curative-intent treatment; palliative care involvement given generally poor prognosis.
-
-**P:** high surgical morbidity, significant RT/CT side effects. Median survival 10–15 months; 5-year survival 5–10%.
-
-### 0.5.1 Pleural plaques
-Develop 20–40 years after asbestos exposure (most common asbestos-related finding); benign, do not undergo malignant change. **Mx:** none required — reassurance and awareness that they signal asbestos exposure (relevant to surveillance for other asbestos-related disease) rather than being a disease requiring treatment themselves.
-
-### 0.5.2 Asbestosis
-Lower lobe fibrosis due to asbestos exposure (latency 15–30 years, severity related to length of exposure).
-**S/Smx:** dyspnoea, clubbing, bilateral end-inspiratory crackles, restrictive pattern on lung function tests.
-**Ix:** as per mesothelioma (need to exclude malignancy — asbestos-exposed patients remain at risk of both asbestosis and mesothelioma/lung cancer, so ongoing vigilance for malignancy is part of routine follow-up).
-**Mx:** conservative; no benefit to treatment — supportive care and surveillance for malignant transformation/coexisting asbestos-related malignancy.
-
----
-
-## 0.6 Bronchiectasis
-
-**D:** permanent dilation of bronchi due to destruction of the elastic and muscular components of the bronchial wall.
-
-**R:** CF, immunodeficiency, previous infection, congenital disorders of bronchial airways (e.g. Young's syndrome), primary ciliary dyskinesia
-
-**A:** frequently secondary to recurrent pulmonary infection, especially *H. influenzae* → progressive bronchial damage (various other causes also exist).
-
-**P:** persistent airway inflammation → bronchial wall oedema, ↑mucus → damage, which serves as a focus for further colonisation and infection.
-
-**S/Smx:** persistent productive cough ± large-volume sputum, dyspnoea, haemoptysis, clubbing, coarse crackles and wheezing
-
-> [!danger] A genuine, severe Australian health equity issue with a striking mortality gap — not a generic epidemiological footnote. **Aboriginal children, particularly in Central Australia and remote northern communities, have among the highest reported rates of bronchiectasis in the world** — an estimated 1,470 per 100,000 children under 14 (compare this to New Zealand's overall childhood rate of just 33 per 100,000), and up to 23% of Indigenous adults undergoing chest CT show radiographic evidence of bronchiectasis.
-> - **The mortality gap is genuinely severe and multi-layered**: Indigenous Australians with bronchiectasis die roughly **20 years earlier** than non-Indigenous Australians with the same disease — who, in turn, die around 10 years earlier than the general Australian population. Those living in rural or remote communities specifically have a younger mean age of death than those receiving care in a major centre (e.g. Darwin), pointing to genuine access-to-care as part of the disparity, not disease severity alone.
-> - **Causes are structural, not individual**: overcrowded housing (common where extended families live together to maintain cultural and community ties), difficult access to housing maintenance and healthcare services, and — specifically in Central Australia — an association with HTLV-1 infection, an under-recognised contributing factor largely specific to this population.
-> - **A genuinely important, Australian-specific management point**: long-term/maintenance **azithromycin** (given weekly) has a specific evidence base in Indigenous Australian children with bronchiectasis for reducing pulmonary exacerbation frequency, reflecting a more proactive maintenance-antibiotic approach in this population than the general Mx below implies — early identification and referral is genuinely time-critical given how much lung function is preserved by early, aggressive intervention versus late diagnosis.
-> - **See COPD above for the reciprocal point**: in Aboriginal and Torres Strait Islander adults, bronchiectasis and COPD are frequently co-diagnosed together (around half of Aboriginal COPD patients in one NT cohort), so each condition should raise suspicion for the other rather than being treated as competing differentials, not repeated here.
-
-**Ix:** FBC (*why:* screens for infection/inflammation and baseline; *what:* may show leucocytosis during exacerbation). Sputum cultures (*why:* identifies colonising/infecting organisms to guide antibiotic choice, especially relevant given the risk of chronic *Pseudomonas* colonisation; *what:* identifies causative/colonising organism and sensitivities). CXR (*why:* initial screen, though often insufficiently sensitive for diagnosis; *what:* may show tram-track/ring shadows, often normal in mild disease). CT chest (*why:* the definitive diagnostic imaging modality, far more sensitive than CXR; *what:* "tree in bud" pattern, signet ring sign — bronchial dilation exceeding the accompanying vessel diameter). Aetiology-specific tests depending on risk factors (*why:* identifying an underlying/treatable cause (CF, immunodeficiency, primary ciliary dyskinesia) changes long-term management; *what:* varies by suspected cause, e.g. sweat test, immunoglobulins). Spirometry (*why:* quantifies functional impairment and tracks progression; *what:* typically obstructive pattern). 6-minute walk test (*why:* objectively quantifies functional capacity and desaturation; *what:* may show reduced distance/desaturation). pH testing (*why:* screens for reflux/aspiration as a contributing/perpetuating factor; *what:* may show pathological reflux).
-
-**Mx:**
-- **Immediate/acute (exacerbation):** treat the precipitating infection with targeted antibiotics per sputum culture (or empirically if unavailable), intensify airway clearance during the exacerbation.
-- **Definitive/chronic:**
-  - Physical training (e.g. inspiratory muscle training)
-  - Airway clearance — hydration, chest physiotherapy, nebulised saline ± mucolytics, 15–30 min bd/tds
-  - Lifestyle modifications — increased exercise, pulmonary rehabilitation
-  - Vaccinations and treatment of infections
-  - Localised disease — consider surgery (e.g. lobectomy) for anatomically-limited, symptomatic disease not controlled by medical therapy
-
-> [!info] Bronchiectasis Severity Index (BSI) — accounts for age, BMI, FEV1, hospital admission within 2 years, MRC breathlessness score, microbiology, and radiological severity.
-
-**P:** irreversible condition with a waxing and waning course.
-
----
-
-## 0.7 Idiopathic Pulmonary Fibrosis (IPF)
-
-**D:** chronic, life-threatening disease characterised by scar tissue formation within the lungs and increasing SOB.
-
-**R:** family history, smoking, ↑age (>50), M>F
-
-**A/P:** unknown — unidentified insult causes damage to alveolar epithelium, endothelium, and basement membrane → inflammatory cell damage to the lung + dysregulation of normal repair process.
-
-**S/Smx:** progressive exertional dyspnoea, bibasal fine end-inspiratory crepitations, dry cough, clubbing
-
-**Ix:**
-- Spirometry (*why:* confirms a restrictive pattern, distinguishing from obstructive disease; *what:* FEV1 unchanged/↓, FVC ↓, FEV1/FVC ↑ — the ratio rises because both fall but FVC falls proportionally more)
-- Impaired gas exchange (*why:* DLCO/TLCO assesses the diffusion defect from parenchymal scarring, often the earliest abnormality and useful for monitoring progression; *what:* reduced diffusion capacity)
-- CXR, high-resolution CT (*why:* HRCT is the key diagnostic imaging, often allowing diagnosis without biopsy when a classic pattern is present; *what:* "ground glass" pattern (active inflammation) and "honeycombing" (established fibrosis) — a typical UIP (usual interstitial pneumonia) pattern on HRCT can be diagnostic without biopsy)
-
-**Mx:**
-- **Definitive/chronic (no acute tier — this is a chronic progressive disease):** pulmonary rehabilitation; antifibrotic therapy — pirfenidone or nintedanib, both shown to slow (not reverse) the rate of FVC decline; lung transplant assessment for suitable candidates as the only treatment altering long-term survival in progressive disease.
-- **Supportive:** O2 therapy for hypoxaemia, palliative care involvement given the progressive, life-limiting nature, cough management (a difficult and under-treated symptom), management of comorbid GORD (increasingly recognised as relevant to disease progression).
-
-**P:** median survival 2–5 years from diagnosis.
-
-### 0.7.1 Pulmonary fibrosis — zonal distribution
-
-> [!info] Upper zone fibrosis — mnemonic "CHARTS"
-> Coal workers' pneumoconiosis, Hypersensitivity pneumonitis, Ankylosing spondylitis, Radiation, TB, Silicosis (egg-shell calcification), Sarcoidosis
-
-> [!info] Lower zone fibrosis
-> Idiopathic pulmonary fibrosis, connective tissue disorders (e.g. SLE), drug-induced (amiodarone, bleomycin, methotrexate), asbestosis
-
----
-
 ## 0.8 Pneumonia
 
 **D:** inflammation of the lungs with consolidation or interstitial infiltrates, categorised according to causative organism.
@@ -420,6 +319,71 @@ Caused by organisms that cannot be cultured normally or detected by Gram stain.
 
 ---
 
+## 0.17 Aspiration Pneumonia and Pneumonitis
+
+> [!note] Gap-filled from CSV (under "Pneumonia (including atypical, CAP, HAP, aspiration)" — Medium yield) — not covered as a distinct entity in the source UK notes, which cover CAP/HAP/atypical/immunocompromised pneumonia but not aspiration specifically.
+
+**D:** Two distinct entities that are often conflated: **aspiration pneumonitis** (chemical injury from aspirated gastric contents, sterile inflammation) vs **aspiration pneumonia** (bacterial infection following aspiration of oropharyngeal/gastric contents containing pathogenic bacteria).
+
+**R:** impaired consciousness (sedation, alcohol, seizure, anaesthesia), swallowing dysfunction (stroke, neurodegenerative disease, oesophageal disease), reduced gag reflex, prolonged intubation/tube feeding, poor dentition/oral hygiene (increases bacterial load of aspirate).
+
+**A/P:** aspiration of gastric acid causes direct chemical injury (pneumonitis) — up to 25% of these patients go on to develop a superimposed bacterial infection (aspiration pneumonia) over the following days. Aspiration of oropharyngeal contents containing bacteria causes aspiration pneumonia directly, typically affecting gravity-dependent lung segments (posterior upper lobes/apical lower lobes if aspiration occurred supine; basal segments if upright).
+
+**S/Smx:** witnessed or suspected aspiration event, cough, dyspnoea, fever (may be delayed if evolving from pneumonitis to superimposed infection), signs of consolidation in the affected (typically dependent) segment.
+
+**Ix:** CXR (*why:* confirms and localises consolidation, typically in gravity-dependent segments; *what:* infiltrate in the expected dependent segment based on the aspiration event's positioning). Bloods, sputum/blood cultures where practical, ideally before antibiotics if the patient is stable enough (*why:* culture yield is low but still worth attempting in cases severe enough to warrant hospitalisation; *what:* often unrevealing given polymicrobial/anaerobic flora that's hard to culture).
+
+**Mx:**
+- **Immediate/acute:** clear the airway of fluid/particulate matter as soon as possible after a witnessed aspiration event; consider intubation if the patient cannot protect their own airway.
+- **Definitive — a key distinction most learners miss:** for **pure chemical pneumonitis** with no evidence of bacterial infection, prophylactic antibiotics are **not** evidence-based and may select for resistant organisms — a reasonable approach is to withhold antibiotics where the picture is clearly chemical, and start empirical treatment if there's no improvement within 48h, or if pneumonitis can't be confidently distinguished from bacterial pneumonia. For **aspiration pneumonia** (established/likely bacterial infection), antibiotics are the key treatment — empirical choice should cover typical CAP/HAP organisms per setting; routine additional anaerobic cover (e.g. metronidazole) is debated and not clearly evidence-based in most cases — reserve specific anti-anaerobic therapy for suspected lung abscess/empyema rather than using it routinely for every aspiration pneumonia.
+- **Chronic/long-term:** speech pathology swallow assessment to identify and manage the underlying aspiration risk (thickened fluids, modified diet, positioning); optimise oral hygiene/dental care (reduces the bacterial load of any future aspiration); address the underlying cause where possible (e.g. reflux management, medication review for sedating drugs).
+
+> [!warning] Partially resolved — a Medical Journal of Australia article directly cites Therapeutic Guidelines: Antibiotic as recommending **empirical benzylpenicillin + metronidazole** for aspiration pneumonia specifically (distinct from standard CAP choices, and reflecting the anaerobic-cover debate discussed below). This is a genuine, specific AU-sourced regimen — but the citation is to the 2010 edition of eTG, and antibiotic guidelines are updated periodically, so the exact drug choice should still be checked against the *current* eTG edition rather than assumed unchanged over 15+ years. **The higher-yield teaching point is now even more strongly supported**: the British Thoracic Society's 2023 clinical statement explicitly states routine anti-anaerobic coverage is not required for aspiration pneumonia except in specific circumstances, and a large 2024 multicentre cohort study (18 hospitals, ~4,000 patients) found no mortality benefit from extended anaerobic coverage — if anything, a non-significant trend toward *higher* mortality (adjusted risk difference +1.6%) with broader anaerobic-covering regimens, alongside the added *C. difficile* risk broader-spectrum antibiotics carry. This makes "chemical pneumonitis vs bacterial pneumonia" and "routine anaerobic cover is increasingly not recommended" the genuinely well-evidenced, current teaching points, regardless of the exact drug specifics, which should still be checked against current eTG.
+
+---
+
+## 0.16 Acute Bronchitis
+
+> [!note] Gap-filled from CSV (Respiratory category, Medium yield) — not covered in the source UK notes.
+
+**D:** Self-limiting inflammation of the bronchi, usually viral, causing an acute cough illness without evidence of pneumonia.
+
+**R:** smoking, exposure to irritants, viral URTI preceding it (most cases follow a cold).
+
+**A/P:** most commonly viral (similar viruses to the common cold/influenza); occasionally bacterial (*Mycoplasma*, *Bordetella pertussis*, *Chlamydophila*). Inflammation of the bronchial mucosa → cough, increased mucus production, without alveolar consolidation (distinguishing it from pneumonia).
+
+**S/Smx:** cough (may be productive), lasting up to 3 weeks; may follow a URTI; mild systemic symptoms (low-grade fever, malaise); wheeze may be present; importantly — **no** focal chest signs of consolidation, and the patient is not systemically unwell in the way pneumonia typically presents.
+
+**Ix:** clinical diagnosis (*why:* Ix is generally unnecessary in typical presentations without red flags; *what:* diagnosis rests on history/exam). CXR (*why:* only if pneumonia can't be confidently excluded clinically, or red flags present (e.g. haemoptysis, significant systemic upset, risk factors for TB/malignancy); *what:* used to exclude consolidation, not to confirm bronchitis itself).
+
+**Mx:**
+- **Definitive (this is a self-limiting illness — no separate acute/chronic tiers needed):** supportive care — analgesia/antipyretics, adequate hydration, advise about expected duration (cough can persist up to 3 weeks even as the illness resolves).
+- **Antibiotics:** not routinely indicated — most cases are viral; consider only if a bacterial cause is suspected (e.g. pertussis in the right clinical context) or in patients at higher risk of complications (frail, significant comorbidity).
+- Safety-net: advise re-presentation if symptoms worsen, fail to improve as expected, or red flags for pneumonia develop.
+
+---
+
+## 0.21 Upper Respiratory Tract Infection (URTI)
+
+> [!note] Gap-filled from CSV (Respiratory category, High yield, "unlikely covered") — not covered as a standalone topic in the source UK notes, likely because it's usually considered low-complexity/self-evident, but flagged as high-yield in the CSV so given a brief dedicated entry.
+
+**D:** Infection of the upper respiratory tract — nose, sinuses, pharynx, larynx — most commonly viral, encompassing the "common cold," pharyngitis, sinusitis, and laryngitis.
+
+**A:** overwhelmingly viral (rhinovirus most common; also coronavirus, adenovirus, influenza, parainfluenza, RSV); bacterial causes (e.g. group A strep pharyngitis) are a minority but clinically important given specific antibiotic-responsive Mx and rare but serious complications (rheumatic fever — see [[01_Cardiovascular]] 0.22 — and peritonsillar abscess).
+
+**S/Smx:** nasal congestion/rhinorrhoea, sore throat, cough, low-grade fever, malaise — typically self-limiting over 7–10 days.
+
+> [!danger] Red flags distinguishing a concerning presentation from simple URTI: stridor/drooling (epiglottitis — emergency), unilateral tonsillar swelling with trismus (peritonsillar abscess/quinsy), neck stiffness (meningitis), significant systemic toxicity out of proportion to a simple URTI.
+
+**Ix:** clinical diagnosis in the vast majority of cases (*why:* Ix rarely changes Mx for typical URTI; *what:* diagnosis on history/exam). Throat swab/rapid strep test (*why:* used when bacterial pharyngitis is suspected (e.g. using a validated clinical score such as Centor/McIsaac criteria) to guide antibiotic decisions and reduce unnecessary prescribing; *what:* positive supports group A strep as the cause).
+
+**Mx:**
+- **Definitive (self-limiting in the large majority):** supportive care — analgesia/antipyretics, fluids, rest; reassurance about expected duration.
+- **Targeted (confirmed/high-probability bacterial pharyngitis):** penicillin V (or amoxicillin) for confirmed/high-probability group A strep pharyngitis, particularly relevant in populations/regions with higher rheumatic fever risk (see [[01_Cardiovascular]] 0.22 and the Australian Context of Health/Aboriginal & TSI Health category for RHD-endemic-region considerations).
+- **Chronic/long-term:** not applicable to simple URTI; recurrent tonsillitis may warrant ENT referral for consideration of tonsillectomy if meeting frequency/severity criteria.
+
+---
+
 ## 0.9 Tuberculosis
 
 **D:** infectious disease caused by *Mycobacterium tuberculosis*.
@@ -483,30 +447,65 @@ Tuberculous meningitis (CNS), Pott's disease (vertebral bodies), scrofuloderma (
 
 ---
 
-## 0.10 Sarcoidosis
+## 0.12 Pleural Effusions
 
-**D:** chronic granulomatous disorder of unknown aetiology, commonly affecting lungs, skin, and eyes; characterised by accumulation of lymphocytes and macrophages and formation of non-caseating granulomas.
+> [!warning] FLAG 2026-09-01 — Light's criteria appear in three files
+> `Investigation-Interpretation.md:102` (which correctly defers here for the disease content),
+> `GP_merged.md:278`, and this entry. **The Investigation-Interpretation boundary is already drawn
+> correctly; GP's copy is the odd one.** Flagged, not merged.
 
-**R:** age 20–40, family history, Scandinavian origin, F>M, non-smokers
+| Transudate (<30 g/L protein) | Exudate (>30 g/L protein) |
+|---|---|
+| Heart failure | Infection |
+| Hypoalbuminaemia | Connective tissue disease (RA, SLE) |
+| Hypothyroidism | Neoplasm |
+| Meig's syndrome (benign ovarian tumour + ascites) | Pancreatitis |
+| | Pulmonary embolism |
+| | Dressler's syndrome |
+| | Yellow nail syndrome |
 
-**S/Smx:**
-- Respiratory: dry cough, dyspnoea
-- Extrapulmonary: arthralgia, lymphadenopathy, eye symptoms (photophobia, red painful eye, blurred vision)
-- Erythema nodosum — painful shin lesions, good prognosis
-- Lupus pernio — indurated facial plaques with discolouration; more common in black women, poor prognosis
-
-**Ix:**
-
-> [!info] CXR staging
-> Stage 0 = normal | Stage 1 = bilateral hilar lymphadenopathy (BHL) | Stage 2 = BHL + interstitial infiltrates | Stage 3 = diffuse interstitial infiltrates only | Stage 4 = diffuse fibrosis
-
-Spirometry (*why:* quantifies functional impact and tracks progression; *what:* restrictive pattern). Tissue biopsy (*why:* provides definitive histological diagnosis and excludes mimics (TB, lymphoma); *what:* non-caseating granulomas — the absence of caseous necrosis distinguishes from TB granulomas). Bloods (*why:* ACE and calcium support the diagnosis and screen for a treatable complication (hypercalcaemia), ESR reflects disease activity; *what:* ↑ACE in 60% (non-specific — not diagnostic alone), ↑Ca (from macrophage-driven vitamin D activation), ↑ESR).
+**Ix:** CXR (*why:* screens for and roughly quantifies the effusion; *what:* blunted costophrenic angle, meniscus sign). Pleural USS (*why:* confirms the effusion, guides safe drainage, and can suggest loculation/complexity; *what:* anechoic (simple) vs echogenic/septated (complex/exudative) appearance). Diagnostic pleural aspiration with Light's criteria (*why:* the key test distinguishing transudate from exudate when the cause isn't clinically obvious, directing the differential above; *what:* protein/LDH ratios classify as exudate if any of: pleural:serum protein >0.5, pleural:serum LDH >0.6, or pleural LDH >2/3 upper limit of normal serum LDH).
 
 **Mx:**
-- **Definitive/chronic (no acute tier — typically an indolent, often self-limiting disease):** most patients improve without treatment — active monitoring is appropriate for asymptomatic/mild disease. Steroids indicated for: CXR stage 2–3 + symptoms (don't treat if asymptomatic), hypercalcaemia, eye/heart/neuro involvement (organ-threatening disease warrants treatment regardless of respiratory symptoms).
-- **Chronic/long-term:** steroid-sparing immunosuppressants (e.g. methotrexate, azathioprine) considered for steroid-refractory or steroid-dependent disease requiring prolonged treatment; regular monitoring (spirometry, symptoms) even in untreated patients given the possibility of late progression.
+- **Immediate/acute:** therapeutic drainage for large/symptomatic effusions, or if empyema/complicated parapneumonic effusion is suspected (pH <7.2, or frank pus — needs drainage, not just antibiotics).
+- **Definitive:** treat the underlying cause identified from the transudate/exudate differential (e.g. diuresis for HF, antibiotics ± drainage for infection, oncological management for malignant effusion).
+- **Chronic/long-term:** recurrent malignant effusions may need pleurodesis or an indwelling pleural catheter for symptom control.
 
-**P:** poor prognosis associated with insidious onset, symptoms >6 months, absence of erythema nodosum, extrapulmonary manifestations (e.g. lupus pernio, splenomegaly), CXR stage 3–4, black ethnicity.
+---
+
+## 0.19 Empyema and Haemothorax
+
+> [!note] Gap-filled from CSV (Respiratory category, Medium yield, "unlikely covered") — not covered as standalone entities in the source UK notes; mentioned only implicitly via CAP complications and the pneumothorax decision pathway (haemothorax as a high-risk feature).
+
+**Empyema**
+
+**D:** Frank pus in the pleural space, typically evolving from an untreated or inadequately treated parapneumonic effusion.
+
+**A/P:** parapneumonic effusion (simple, exudative, sterile) → bacterial invasion of the pleural space → complicated parapneumonic effusion (positive culture/Gram stain, low pH) → frank pus (empyema) if untreated, often with loculation as fibrin deposits organise the collection.
+
+**S/Smx:** persisting/worsening fever and systemic illness despite antibiotics for pneumonia, pleuritic chest pain, dyspnoea — the key clinical clue is a patient with pneumonia not responding to appropriate antibiotics as expected, prompting a search for an undrained collection.
+
+**Ix:** CXR/pleural USS (*why:* identifies the effusion and can suggest complexity/loculation; *what:* effusion, possibly septated/loculated). Diagnostic pleural aspiration (*why:* confirms the diagnosis and distinguishes simple parapneumonic effusion from complicated/empyema, which changes Mx from antibiotics-alone to requiring drainage; *what:* frank pus, or fluid with pH <7.2, low glucose, positive Gram stain/culture — any of these mandate drainage, not antibiotics alone).
+
+**Mx:**
+- **Immediate/acute:** chest drain insertion for any complicated parapneumonic effusion or frank empyema (antibiotics alone are inadequate once fluid is infected/complicated) + continue systemic antibiotics.
+- **Definitive:** intrapleural fibrinolytics (e.g. alteplase + DNase) for loculated collections not draining adequately; VATS (video-assisted thoracoscopic surgery) for surgical decortication if medical drainage fails.
+- **Chronic/long-term:** ensure adequate treatment duration (often longer courses than uncomplicated pneumonia) and follow-up imaging to confirm resolution.
+
+**Haemothorax**
+
+**D:** Blood within the pleural space, most commonly from chest trauma; also iatrogenic (post-procedure) or from an underlying pathology (e.g. malignancy, ruptured aneurysm, anticoagulation-related).
+
+**A/P:** disruption of intrathoracic vessels (intercostal, pulmonary, or great vessels), or bleeding into the pleural space from a pre-existing lesion → blood accumulation → potential for both hypovolaemic shock (from blood loss) and respiratory compromise (from lung compression), i.e. it is both a "shock" and a "respiratory" emergency simultaneously.
+
+**S/Smx:** as per pneumothorax/pleural effusion (dyspnoea, chest pain, reduced breath sounds, dullness to percussion — dullness distinguishes it from the hyper-resonance of pneumothorax) plus signs of hypovolaemic shock if significant blood loss.
+
+**Ix:** CXR (*why:* screens for the collection, though may under-represent volume if the patient is supine (trauma setting); *what:* effusion/opacification, may be difficult to distinguish acutely from pleural fluid on CXR alone). CT chest (*why:* better characterises the volume and source, especially in trauma work-up; *what:* confirms haemothorax and may identify the bleeding source). FBC, group & crossmatch (*why:* assesses the degree of blood loss and prepares for possible transfusion; *what:* falling Hb, baseline for transfusion).
+
+**Mx:**
+- **Immediate/acute:** ABCDE resuscitation as for hypovolaemic shock (see [[01_Cardiovascular]] 0.20.2) alongside chest drain insertion (large-bore) to drain the haemothorax and monitor ongoing blood loss via drain output.
+- **Definitive:** urgent thoracotomy/surgical exploration if massive haemothorax (e.g. >1500mL immediate drain output, or ongoing output >200mL/hr) or haemodynamic instability despite resuscitation — significant ongoing bleeding needs surgical source control, not just drainage.
+- **Chronic/long-term:** monitor for retained haemothorax (undrained clot) which can organise into a fibrothorax if inadequately evacuated — may need VATS for evacuation if this develops.
 
 ---
 
@@ -547,53 +546,203 @@ Spirometry (*why:* quantifies functional impact and tracks progression; *what:* 
 
 ---
 
-## 0.12 Pleural Effusions
+## 0.4 Lung Cancers
 
-> [!warning] FLAG 2026-09-01 — Light's criteria appear in three files
-> `Investigation-Interpretation.md:102` (which correctly defers here for the disease content),
-> `GP_merged.md:278`, and this entry. **The Investigation-Interpretation boundary is already drawn
-> correctly; GP's copy is the odd one.** Flagged, not merged.
+> [!danger] A genuine, severe Australian health equity issue with a striking, compounding incidence-and-survival gap — not a generic epidemiological footnote. **Aboriginal and Torres Strait Islander Australians are around twice as likely to develop lung cancer as non-Indigenous Australians, and around half as likely to survive it** — a devastating combination given it means both a higher chance of diagnosis and a substantially worse outcome once diagnosed. Cancer Australia data show Indigenous Australians are **70% more likely to die from lung cancer** specifically; lung cancer accounts for roughly 1 in 6 of all cancers diagnosed in Indigenous Australians, with incidence higher in men and in more remote areas. This connects directly to the smoking prevalence disparity already established for COPD (see [[02_Respiratory]] COPD, not repeated here) — colonisation and the introduction of commercial tobacco are recognised as the primary drivers of this shared risk-factor burden.
+> - **The survival gap isn't fully explained by later-stage diagnosis alone**: population-based studies show Aboriginal and Torres Strait Islander patients with lung cancer receive **surgery less frequently** than non-Indigenous patients with the same disease, across multiple Australian states and territories — a genuine treatment-access gap layered on top of the incidence and diagnosis-timing disparities, not a single, simply-explained cause.
+> - **A genuinely current, actionable equity concern**: Australia's National Lung Cancer Screening Program has been specifically flagged (2025 research) as needing locally-adapted, community-developed implementation for Aboriginal and Torres Strait Islander communities — a screening program designed around general-population criteria risks widening rather than closing this gap if implemented without local context, echoing the pattern already established for AUSDRISK (see [[06_Metabolic_Medicine_and_Endocrinology]] Type 2 Diabetes Mellitus (T2DM), not repeated here) and stroke risk screening (see [[04_Neurology]] Strokes, not repeated here) — general-population screening tools and programs repeatedly need Indigenous-specific adaptation, not just wider rollout of the same approach.
 
-| Transudate (<30 g/L protein) | Exudate (>30 g/L protein) |
-|---|---|
-| Heart failure | Infection |
-| Hypoalbuminaemia | Connective tissue disease (RA, SLE) |
-| Hypothyroidism | Neoplasm |
-| Meig's syndrome (benign ovarian tumour + ascites) | Pancreatitis |
-| | Pulmonary embolism |
-| | Dressler's syndrome |
-| | Yellow nail syndrome |
+### 0.4.1 Small cell lung cancer (SCLC) — 15% of lung cancers
 
-**Ix:** CXR (*why:* screens for and roughly quantifies the effusion; *what:* blunted costophrenic angle, meniscus sign). Pleural USS (*why:* confirms the effusion, guides safe drainage, and can suggest loculation/complexity; *what:* anechoic (simple) vs echogenic/septated (complex/exudative) appearance). Diagnostic pleural aspiration with Light's criteria (*why:* the key test distinguishing transudate from exudate when the cause isn't clinically obvious, directing the differential above; *what:* protein/LDH ratios classify as exudate if any of: pleural:serum protein >0.5, pleural:serum LDH >0.6, or pleural LDH >2/3 upper limit of normal serum LDH).
+**D:** aggressive malignant epithelial tumour of cells in the lower respiratory tract.
+
+**R:** smoking, smoke exposure, radon
+
+**P:** usually arises from APUD cells (Amine Precursor Uptake and Decarboxylation); associated with ectopic ADH and ACTH secretion, and Lambert-Eaton (myasthenia-like) syndrome. Histology: small, densely packed cells with scant cytoplasm, finely granular nuclear chromatin, absent nucleoli.
+
+**S/Smx:** cough, chest pain, haemoptysis, dyspnoea, weight loss ± hoarseness, clubbing; symptoms also depend on metastasis.
+
+**Ix:** CXR (*why:* first-line screening test; *what:* mass lesion, may show hilar prominence given the typically central location of SCLC). CT chest/abdomen/pelvis (*why:* stages the disease locally and screens for common metastatic sites, critical since SCLC Mx is staged as limited vs extensive rather than by the NSCLC TNM system; *what:* defines tumour extent and nodal/distant spread). Biopsy (bronchoscopic or CT-guided) (*why:* required for histological confirmation given the aggressive nature and specific chemo-radiotherapy-based Mx; *what:* small densely packed cells with scant cytoplasm, confirming SCLC). Bloods incl. electrolytes (*why:* screens for paraneoplastic SIADH (hyponatraemia) and baseline before chemotherapy; *what:* may show hyponatraemia if SIADH present). CT/MRI brain (*why:* SCLC has a high propensity for brain metastasis, relevant to staging and consideration of prophylactic cranial irradiation; *what:* screens for occult brain metastases).
 
 **Mx:**
-- **Immediate/acute:** therapeutic drainage for large/symptomatic effusions, or if empyema/complicated parapneumonic effusion is suspected (pH <7.2, or frank pus — needs drainage, not just antibiotics).
-- **Definitive:** treat the underlying cause identified from the transudate/exudate differential (e.g. diuresis for HF, antibiotics ± drainage for infection, oncological management for malignant effusion).
-- **Chronic/long-term:** recurrent malignant effusions may need pleurodesis or an indwelling pleural catheter for symptom control.
+- **Definitive (staged by limited vs extensive disease, not TNM):** limited disease — combined chemotherapy (CT) + radiotherapy (RT); extensive disease/metastases — chemotherapy alone, with RT reserved for palliation of metastases.
+- **Chronic/long-term:** consider prophylactic cranial irradiation in patients responding well to initial treatment, given the high brain metastasis risk; palliative care involvement early given generally poor prognosis.
+
+**Complications:** pneumonia, haematologic toxicity, radiation-induced oesophageal injury, SVC syndrome, paraneoplastic syndromes, radiation-induced lung injury
+
+**P:** 5-year survival ~12–24% for limited stage, 1–5% for extensive stage.
+
+### 0.4.2 Non-small cell lung cancer (NSCLC) — 80% of lung cancers
+
+**R:** smoking, smoke exposure, COPD, family history, radon, ↑age
+
+**Subtypes:**
+- Adenocarcinoma (40%) — located peripherally
+- Squamous cell carcinoma (20%) — typically central; associated with PTHrP and hypercalcaemia, clubbing, HPOA (hypertrophic pulmonary osteoarthropathy)
+- Large cell carcinoma (10%) — located peripherally, anaplastic/poorly-differentiated, β-hCG secretion, associated with poor prognosis
+- Others (10%)
+
+**Ix:** CXR (*why:* initial screening test; *what:* mass lesion, often peripheral given adenocarcinoma predominance). CT-TAP (chest/abdomen/pelvis) (*why:* stages the tumour (TNM) and screens for common metastatic sites; *what:* defines tumour size/local invasion, nodal spread, and distant metastases). FBC and other bloods incl. calcium (*why:* baseline before treatment and screens for paraneoplastic hypercalcaemia, especially with squamous histology; *what:* may show hypercalcaemia if PTHrP-secreting). Sputum cytology ± bronchoscopy with biopsy (*why:* obtains histological/molecular diagnosis — required to guide targeted therapy decisions; *what:* confirms subtype and allows testing for EGFR/ALK and other targetable mutations). Thoracentesis (*why:* if a pleural effusion is present, distinguishes malignant involvement (which upstages/precludes curative surgery) from a reactive effusion; *what:* malignant cells on cytology if pleural spread). Thoracoscopy (*why:* used for pleural biopsy or mediastinal staging when other methods are inconclusive; *what:* direct tissue diagnosis). CT/MRI brain, bone scan, PET (*why:* completes staging by screening for common distant metastatic sites (brain, bone) and metabolically active disease; *what:* identifies occult metastases that would change Mx from curative to palliative intent).
+
+**Mx:**
+- **Definitive:** Stage I–IIIA — potentially curable — surgery (lobectomy) or stereotactic ablative body radiotherapy (SABR) + adjuvant chemotherapy; if surgery unsuitable, external beam RT + doublet platinum chemotherapy. Stage IIIB–IV — treatment intent shifts to disease control/palliation — chemotherapy, targeted therapy, or palliative measures depending on molecular profile and performance status.
+- **Definitive (molecular-targeted):** targeted therapy for EGFR-positive, ALK-rearrangement-positive tumours (and other targetable mutations identified on biopsy) — significantly changes prognosis/Mx approach compared to standard chemotherapy.
+- **Chronic/long-term:** surveillance imaging post-treatment for recurrence; palliative care involvement for advanced-stage disease; smoking cessation support (improves outcomes even after diagnosis).
+
+**Complications:** pneumonia, SVC syndrome, paraneoplastic syndromes
+
+**P:** poor prognosis associated with poor performance status, pre-treatment weight loss, metastases, ↑age. Prognosis depends more on histological/pathological stage; worsens as stage increases.
+
+> [!info] Paraneoplastic syndromes — mnemonic "SCLC"
+> **S**IADH, **C**ushing's syndrome, **L**ambert-Eaton syndrome, **C**erebellar syndrome
 
 ---
 
-## 0.13 Oxygen Therapy
+## 0.5 Mesothelioma
 
-### 0.13.1 Delivery devices
-| Delivery | Flow (L/min) | FiO2 (%) |
-|---|---|---|
-| Nasal cannulae | 1–6 | 0.24–0.40 |
-| Simple face mask | 5–10 | 0.35–0.60 |
-| Venturi mask | 2–5 | 0.24–0.56 |
-| Non-rebreather mask | 10–15 | 0.60–0.90 |
-| High-flow nasal cannula | 15–60 | 0.30–1.0 |
+**D:** aggressive epithelial neoplasm from the lining of the lung (90%); rarely can occur in peritoneum, pericardium, and tunica vaginalis.
 
-> [!info] Venturi mask colour-coded flow/FiO2 (for fixed and high O2 requirements, e.g. COPD)
-> Blue 2L = 24% | White 4L = 28% | Orange 6L = 31% | Yellow 8L = 35% | Red 10L = 40% | Green 15L = 60%
+**R:** asbestos (latency 30–40 years; patients tend to present 60–90yo), M>F (3:1). Occupations: shipyard, construction, maintenance, mechanics.
 
-> [!tip] High-flow nasal cannula is good for patients with air hunger as it reduces work of breathing. Every 10 L/min flow ≈ 1 cmH2O positive end-expiratory pressure, helping keep alveoli open.
+**A/P:** asbestos taken up by alveolar macrophages and neutrophils → production of reactive oxygen/nitrogen species → DNA damage, altered gene expression → cancer.
 
-### 0.13.2 Non-invasive ventilation (NIV)
-Encompasses BiPAP, CPAP, etc.
-**Indicated for:** cardiogenic pulmonary oedema, COPD exacerbation, extubation of COPD patients, immunocompromised hosts.
+**S/Smx:** dyspnoea, dry cough, chest pain, non-specific symptoms (clubbing, weight loss), painless pleural effusion (↓breath sounds, dullness to percussion).
 
-> [!warning] NIV requires closer monitoring.
+> [!warning] Always check occupational history + asbestos exposure.
+
+**Ix:** CXR (*why:* initial screening test; *what:* pleural thickening, effusion). Contrast CT (*why:* better characterises pleural involvement and screens for metastatic spread, guiding staging; *what:* pleural thickening/nodularity, effusion, local invasion). Thoracocentesis + cytology & biopsy (*why:* obtains diagnostic tissue/fluid; *what:* malignant cells on cytology, though pleural biopsy is often needed since cytology alone can be falsely negative). Thoracoscopy (*why:* allows direct visualisation and larger biopsy samples when cytology/needle biopsy is inconclusive; *what:* direct tissue diagnosis). If considering surgical resection: lung function tests (*why:* assesses fitness for the extensive lung resection surgery requires; *what:* guides operability), echo (*why:* assesses cardiac fitness for major surgery; *what:* baseline cardiac function), mediastinoscopy (*why:* stages mediastinal lymph node involvement, affecting surgical candidacy; *what:* nodal staging).
+
+**Mx:**
+- **Definitive:** extra-pleural pneumonectomy (EPP) and pleurectomy with decortication for selected surgical candidates, but surgery alone is rarely curative; combined with platinum-based chemotherapy and adjuvant RT (multimodal therapy).
+- **Chronic/long-term:** palliative measures (e.g. talc pleurodesis) for symptom control (recurrent effusion) in those not suitable for/beyond curative-intent treatment; palliative care involvement given generally poor prognosis.
+
+**P:** high surgical morbidity, significant RT/CT side effects. Median survival 10–15 months; 5-year survival 5–10%.
+
+### 0.5.1 Pleural plaques
+Develop 20–40 years after asbestos exposure (most common asbestos-related finding); benign, do not undergo malignant change. **Mx:** none required — reassurance and awareness that they signal asbestos exposure (relevant to surveillance for other asbestos-related disease) rather than being a disease requiring treatment themselves.
+
+### 0.5.2 Asbestosis
+Lower lobe fibrosis due to asbestos exposure (latency 15–30 years, severity related to length of exposure).
+**S/Smx:** dyspnoea, clubbing, bilateral end-inspiratory crackles, restrictive pattern on lung function tests.
+**Ix:** as per mesothelioma (need to exclude malignancy — asbestos-exposed patients remain at risk of both asbestosis and mesothelioma/lung cancer, so ongoing vigilance for malignancy is part of routine follow-up).
+**Mx:** conservative; no benefit to treatment — supportive care and surveillance for malignant transformation/coexisting asbestos-related malignancy.
+
+---
+
+## 0.20 Pneumoconioses (Occupational Lung Disease — brief overview)
+
+> [!note] Gap-filled from CSV (Respiratory category, Medium yield, "unlikely covered") — covered only implicitly via the upper-zone-fibrosis mnemonic in the IPF section above; no dedicated entry existed. Cross-reference asbestosis above (section under Mesothelioma), which is the most exam-relevant individual pneumoconiosis and already has its own full entry.
+
+**D:** A group of interstitial lung diseases caused by inhalation of specific occupational/environmental dusts, causing a fibrotic tissue reaction.
+
+**R:** occupational exposure — mining (coal, silica-containing rock), sandblasting/stonework/quarrying (silica), asbestos-related trades (see Asbestosis, above) — latency typically many years/decades between exposure and disease.
+
+**Key entities (beyond asbestosis, covered above):**
+- **Coal workers' pneumoconiosis:** from coal dust inhalation; simple form often asymptomatic; progressive massive fibrosis is the severe complicated form.
+- **Silicosis:** from crystalline silica dust (mining, stonework, engineered stone/benchtop cutting — a recognised and increasing cause of severe disease in Australia in recent years); classically causes upper-zone fibrosis with "eggshell calcification" of hilar lymph nodes; increases TB risk substantially.
+
+**S/Smx:** progressive exertional dyspnoea, dry cough, reduced exercise tolerance — often insidious onset over years, may only become symptomatic once fibrosis is well established.
+
+**Ix:** occupational history is central to diagnosis (*why:* the exposure history is often the key diagnostic clue, since imaging/histology alone may not distinguish the specific cause; *what:* identifies the relevant occupational exposure and its duration/intensity). CXR/HRCT (*why:* screens for and characterises the fibrotic pattern; *what:* upper-zone nodular/fibrotic changes, eggshell hilar calcification in silicosis). Spirometry (*why:* quantifies functional impairment; *what:* typically restrictive pattern, though mixed patterns occur with concurrent COPD from shared exposures e.g. coal/silica dust also causing airway disease).
+
+**Mx:**
+- **Definitive (no acute tier — chronic, generally irreversible fibrotic disease):** primarily supportive — no treatment reverses established fibrosis; remove/reduce further exposure is the single most important intervention once diagnosed.
+- **Chronic/long-term:** TB screening/surveillance (silicosis substantially increases TB reactivation risk); pulmonary rehabilitation; monitor for progression to respiratory failure/cor pulmonale; workers' compensation/occupational health referral is often relevant given the occupational causation.
+
+**P:** variable depending on the specific dust and cumulative exposure — ranges from asymptomatic radiological changes to progressive respiratory failure; silicosis in particular has seen a resurgence in Australia linked to engineered stone benchtop manufacturing, prompting recent regulatory changes (a 2024 national prohibition on engineered stone) — worth knowing as a current Australian public health issue.
+
+---
+
+## 0.7 Idiopathic Pulmonary Fibrosis (IPF)
+
+**D:** chronic, life-threatening disease characterised by scar tissue formation within the lungs and increasing SOB.
+
+**R:** family history, smoking, ↑age (>50), M>F
+
+**A/P:** unknown — unidentified insult causes damage to alveolar epithelium, endothelium, and basement membrane → inflammatory cell damage to the lung + dysregulation of normal repair process.
+
+**S/Smx:** progressive exertional dyspnoea, bibasal fine end-inspiratory crepitations, dry cough, clubbing
+
+**Ix:**
+- Spirometry (*why:* confirms a restrictive pattern, distinguishing from obstructive disease; *what:* FEV1 unchanged/↓, FVC ↓, FEV1/FVC ↑ — the ratio rises because both fall but FVC falls proportionally more)
+- Impaired gas exchange (*why:* DLCO/TLCO assesses the diffusion defect from parenchymal scarring, often the earliest abnormality and useful for monitoring progression; *what:* reduced diffusion capacity)
+- CXR, high-resolution CT (*why:* HRCT is the key diagnostic imaging, often allowing diagnosis without biopsy when a classic pattern is present; *what:* "ground glass" pattern (active inflammation) and "honeycombing" (established fibrosis) — a typical UIP (usual interstitial pneumonia) pattern on HRCT can be diagnostic without biopsy)
+
+**Mx:**
+- **Definitive/chronic (no acute tier — this is a chronic progressive disease):** pulmonary rehabilitation; antifibrotic therapy — pirfenidone or nintedanib, both shown to slow (not reverse) the rate of FVC decline; lung transplant assessment for suitable candidates as the only treatment altering long-term survival in progressive disease.
+- **Supportive:** O2 therapy for hypoxaemia, palliative care involvement given the progressive, life-limiting nature, cough management (a difficult and under-treated symptom), management of comorbid GORD (increasingly recognised as relevant to disease progression).
+
+**P:** median survival 2–5 years from diagnosis.
+
+### 0.7.1 Pulmonary fibrosis — zonal distribution
+
+> [!info] Upper zone fibrosis — mnemonic "CHARTS"
+> Coal workers' pneumoconiosis, Hypersensitivity pneumonitis, Ankylosing spondylitis, Radiation, TB, Silicosis (egg-shell calcification), Sarcoidosis
+
+> [!info] Lower zone fibrosis
+> Idiopathic pulmonary fibrosis, connective tissue disorders (e.g. SLE), drug-induced (amiodarone, bleomycin, methotrexate), asbestosis
+
+---
+
+## 0.10 Sarcoidosis
+
+**D:** chronic granulomatous disorder of unknown aetiology, commonly affecting lungs, skin, and eyes; characterised by accumulation of lymphocytes and macrophages and formation of non-caseating granulomas.
+
+**R:** age 20–40, family history, Scandinavian origin, F>M, non-smokers
+
+**S/Smx:**
+- Respiratory: dry cough, dyspnoea
+- Extrapulmonary: arthralgia, lymphadenopathy, eye symptoms (photophobia, red painful eye, blurred vision)
+- Erythema nodosum — painful shin lesions, good prognosis
+- Lupus pernio — indurated facial plaques with discolouration; more common in black women, poor prognosis
+
+**Ix:**
+
+> [!info] CXR staging
+> Stage 0 = normal | Stage 1 = bilateral hilar lymphadenopathy (BHL) | Stage 2 = BHL + interstitial infiltrates | Stage 3 = diffuse interstitial infiltrates only | Stage 4 = diffuse fibrosis
+
+Spirometry (*why:* quantifies functional impact and tracks progression; *what:* restrictive pattern). Tissue biopsy (*why:* provides definitive histological diagnosis and excludes mimics (TB, lymphoma); *what:* non-caseating granulomas — the absence of caseous necrosis distinguishes from TB granulomas). Bloods (*why:* ACE and calcium support the diagnosis and screen for a treatable complication (hypercalcaemia), ESR reflects disease activity; *what:* ↑ACE in 60% (non-specific — not diagnostic alone), ↑Ca (from macrophage-driven vitamin D activation), ↑ESR).
+
+**Mx:**
+- **Definitive/chronic (no acute tier — typically an indolent, often self-limiting disease):** most patients improve without treatment — active monitoring is appropriate for asymptomatic/mild disease. Steroids indicated for: CXR stage 2–3 + symptoms (don't treat if asymptomatic), hypercalcaemia, eye/heart/neuro involvement (organ-threatening disease warrants treatment regardless of respiratory symptoms).
+- **Chronic/long-term:** steroid-sparing immunosuppressants (e.g. methotrexate, azathioprine) considered for steroid-refractory or steroid-dependent disease requiring prolonged treatment; regular monitoring (spirometry, symptoms) even in untreated patients given the possibility of late progression.
+
+**P:** poor prognosis associated with insidious onset, symptoms >6 months, absence of erythema nodosum, extrapulmonary manifestations (e.g. lupus pernio, splenomegaly), CXR stage 3–4, black ethnicity.
+
+---
+
+## 0.6 Bronchiectasis
+
+**D:** permanent dilation of bronchi due to destruction of the elastic and muscular components of the bronchial wall.
+
+**R:** CF, immunodeficiency, previous infection, congenital disorders of bronchial airways (e.g. Young's syndrome), primary ciliary dyskinesia
+
+**A:** frequently secondary to recurrent pulmonary infection, especially *H. influenzae* → progressive bronchial damage (various other causes also exist).
+
+**P:** persistent airway inflammation → bronchial wall oedema, ↑mucus → damage, which serves as a focus for further colonisation and infection.
+
+**S/Smx:** persistent productive cough ± large-volume sputum, dyspnoea, haemoptysis, clubbing, coarse crackles and wheezing
+
+> [!danger] A genuine, severe Australian health equity issue with a striking mortality gap — not a generic epidemiological footnote. **Aboriginal children, particularly in Central Australia and remote northern communities, have among the highest reported rates of bronchiectasis in the world** — an estimated 1,470 per 100,000 children under 14 (compare this to New Zealand's overall childhood rate of just 33 per 100,000), and up to 23% of Indigenous adults undergoing chest CT show radiographic evidence of bronchiectasis.
+> - **The mortality gap is genuinely severe and multi-layered**: Indigenous Australians with bronchiectasis die roughly **20 years earlier** than non-Indigenous Australians with the same disease — who, in turn, die around 10 years earlier than the general Australian population. Those living in rural or remote communities specifically have a younger mean age of death than those receiving care in a major centre (e.g. Darwin), pointing to genuine access-to-care as part of the disparity, not disease severity alone.
+> - **Causes are structural, not individual**: overcrowded housing (common where extended families live together to maintain cultural and community ties), difficult access to housing maintenance and healthcare services, and — specifically in Central Australia — an association with HTLV-1 infection, an under-recognised contributing factor largely specific to this population.
+> - **A genuinely important, Australian-specific management point**: long-term/maintenance **azithromycin** (given weekly) has a specific evidence base in Indigenous Australian children with bronchiectasis for reducing pulmonary exacerbation frequency, reflecting a more proactive maintenance-antibiotic approach in this population than the general Mx below implies — early identification and referral is genuinely time-critical given how much lung function is preserved by early, aggressive intervention versus late diagnosis.
+> - **See COPD above for the reciprocal point**: in Aboriginal and Torres Strait Islander adults, bronchiectasis and COPD are frequently co-diagnosed together (around half of Aboriginal COPD patients in one NT cohort), so each condition should raise suspicion for the other rather than being treated as competing differentials, not repeated here.
+
+**Ix:** FBC (*why:* screens for infection/inflammation and baseline; *what:* may show leucocytosis during exacerbation). Sputum cultures (*why:* identifies colonising/infecting organisms to guide antibiotic choice, especially relevant given the risk of chronic *Pseudomonas* colonisation; *what:* identifies causative/colonising organism and sensitivities). CXR (*why:* initial screen, though often insufficiently sensitive for diagnosis; *what:* may show tram-track/ring shadows, often normal in mild disease). CT chest (*why:* the definitive diagnostic imaging modality, far more sensitive than CXR; *what:* "tree in bud" pattern, signet ring sign — bronchial dilation exceeding the accompanying vessel diameter). Aetiology-specific tests depending on risk factors (*why:* identifying an underlying/treatable cause (CF, immunodeficiency, primary ciliary dyskinesia) changes long-term management; *what:* varies by suspected cause, e.g. sweat test, immunoglobulins). Spirometry (*why:* quantifies functional impairment and tracks progression; *what:* typically obstructive pattern). 6-minute walk test (*why:* objectively quantifies functional capacity and desaturation; *what:* may show reduced distance/desaturation). pH testing (*why:* screens for reflux/aspiration as a contributing/perpetuating factor; *what:* may show pathological reflux).
+
+**Mx:**
+- **Immediate/acute (exacerbation):** treat the precipitating infection with targeted antibiotics per sputum culture (or empirically if unavailable), intensify airway clearance during the exacerbation.
+- **Definitive/chronic:**
+  - Physical training (e.g. inspiratory muscle training)
+  - Airway clearance — hydration, chest physiotherapy, nebulised saline ± mucolytics, 15–30 min bd/tds
+  - Lifestyle modifications — increased exercise, pulmonary rehabilitation
+  - Vaccinations and treatment of infections
+  - Localised disease — consider surgery (e.g. lobectomy) for anatomically-limited, symptomatic disease not controlled by medical therapy
+
+> [!info] Bronchiectasis Severity Index (BSI) — accounts for age, BMI, FEV1, hospital admission within 2 years, MRC breathlessness score, microbiology, and radiological severity.
+
+**P:** irreversible condition with a waxing and waning course.
 
 ---
 
@@ -638,74 +787,6 @@ Encompasses BiPAP, CPAP, etc.
 
 ---
 
-## 0.15 Acute Respiratory Distress Syndrome (ARDS)
-
-**D:** non-cardiogenic pulmonary oedema and diffuse lung inflammation syndrome.
-
-**Associated conditions:** sepsis, pneumonia, acute pancreatitis, massive transfusions, smoke inhalation, cardiopulmonary bypass
-
-**S/Smx:** sudden onset of severe dyspnoea, ↑RR, bilateral lung crackles, low O2 sats
-
-**Ix:** CXR (*why:* required for the diagnostic criteria — confirms bilateral pulmonary oedema; *what:* bilateral infiltrates). ABG, repeated (*why:* quantifies the degree of hypoxaemia (via the PaO2/FiO2 ratio, a core diagnostic criterion) and tracks trajectory/response to ventilatory support; *what:* severe hypoxaemia, PaO2/FiO2 ratio used for both diagnosis and severity grading).
-
-> [!info] Diagnostic criteria
-> - Acute onset (<1 week of known clinical insult)
-> - Pulmonary oedema on CXR
-> - Respiratory failure not fully explained by heart failure or fluid overload
-> - pO2/FiO2 <40 kPa (300 mmHg)
-
-**Mx:**
-- **Immediate/acute:** ICU + organ support; lung-protective ventilation strategy (low tidal volume) if intubated; increased O2 including escalation to invasive ventilation as needed; prone positioning may help improve oxygenation in moderate-severe ARDS; treat the precipitating cause (e.g. antibiotics for sepsis/pneumonia) concurrently.
-- **Chronic/long-term:** for survivors — post-ICU rehabilitation given significant long-term physical/cognitive morbidity in ARDS survivors; address the underlying condition that precipitated ARDS to prevent recurrence.
-
-**P:** very poor prognosis; mortality 30–50%, death most often due to multiple organ failure.
-
----
-
-## 0.16 Acute Bronchitis
-
-> [!note] Gap-filled from CSV (Respiratory category, Medium yield) — not covered in the source UK notes.
-
-**D:** Self-limiting inflammation of the bronchi, usually viral, causing an acute cough illness without evidence of pneumonia.
-
-**R:** smoking, exposure to irritants, viral URTI preceding it (most cases follow a cold).
-
-**A/P:** most commonly viral (similar viruses to the common cold/influenza); occasionally bacterial (*Mycoplasma*, *Bordetella pertussis*, *Chlamydophila*). Inflammation of the bronchial mucosa → cough, increased mucus production, without alveolar consolidation (distinguishing it from pneumonia).
-
-**S/Smx:** cough (may be productive), lasting up to 3 weeks; may follow a URTI; mild systemic symptoms (low-grade fever, malaise); wheeze may be present; importantly — **no** focal chest signs of consolidation, and the patient is not systemically unwell in the way pneumonia typically presents.
-
-**Ix:** clinical diagnosis (*why:* Ix is generally unnecessary in typical presentations without red flags; *what:* diagnosis rests on history/exam). CXR (*why:* only if pneumonia can't be confidently excluded clinically, or red flags present (e.g. haemoptysis, significant systemic upset, risk factors for TB/malignancy); *what:* used to exclude consolidation, not to confirm bronchitis itself).
-
-**Mx:**
-- **Definitive (this is a self-limiting illness — no separate acute/chronic tiers needed):** supportive care — analgesia/antipyretics, adequate hydration, advise about expected duration (cough can persist up to 3 weeks even as the illness resolves).
-- **Antibiotics:** not routinely indicated — most cases are viral; consider only if a bacterial cause is suspected (e.g. pertussis in the right clinical context) or in patients at higher risk of complications (frail, significant comorbidity).
-- Safety-net: advise re-presentation if symptoms worsen, fail to improve as expected, or red flags for pneumonia develop.
-
----
-
-## 0.17 Aspiration Pneumonia and Pneumonitis
-
-> [!note] Gap-filled from CSV (under "Pneumonia (including atypical, CAP, HAP, aspiration)" — Medium yield) — not covered as a distinct entity in the source UK notes, which cover CAP/HAP/atypical/immunocompromised pneumonia but not aspiration specifically.
-
-**D:** Two distinct entities that are often conflated: **aspiration pneumonitis** (chemical injury from aspirated gastric contents, sterile inflammation) vs **aspiration pneumonia** (bacterial infection following aspiration of oropharyngeal/gastric contents containing pathogenic bacteria).
-
-**R:** impaired consciousness (sedation, alcohol, seizure, anaesthesia), swallowing dysfunction (stroke, neurodegenerative disease, oesophageal disease), reduced gag reflex, prolonged intubation/tube feeding, poor dentition/oral hygiene (increases bacterial load of aspirate).
-
-**A/P:** aspiration of gastric acid causes direct chemical injury (pneumonitis) — up to 25% of these patients go on to develop a superimposed bacterial infection (aspiration pneumonia) over the following days. Aspiration of oropharyngeal contents containing bacteria causes aspiration pneumonia directly, typically affecting gravity-dependent lung segments (posterior upper lobes/apical lower lobes if aspiration occurred supine; basal segments if upright).
-
-**S/Smx:** witnessed or suspected aspiration event, cough, dyspnoea, fever (may be delayed if evolving from pneumonitis to superimposed infection), signs of consolidation in the affected (typically dependent) segment.
-
-**Ix:** CXR (*why:* confirms and localises consolidation, typically in gravity-dependent segments; *what:* infiltrate in the expected dependent segment based on the aspiration event's positioning). Bloods, sputum/blood cultures where practical, ideally before antibiotics if the patient is stable enough (*why:* culture yield is low but still worth attempting in cases severe enough to warrant hospitalisation; *what:* often unrevealing given polymicrobial/anaerobic flora that's hard to culture).
-
-**Mx:**
-- **Immediate/acute:** clear the airway of fluid/particulate matter as soon as possible after a witnessed aspiration event; consider intubation if the patient cannot protect their own airway.
-- **Definitive — a key distinction most learners miss:** for **pure chemical pneumonitis** with no evidence of bacterial infection, prophylactic antibiotics are **not** evidence-based and may select for resistant organisms — a reasonable approach is to withhold antibiotics where the picture is clearly chemical, and start empirical treatment if there's no improvement within 48h, or if pneumonitis can't be confidently distinguished from bacterial pneumonia. For **aspiration pneumonia** (established/likely bacterial infection), antibiotics are the key treatment — empirical choice should cover typical CAP/HAP organisms per setting; routine additional anaerobic cover (e.g. metronidazole) is debated and not clearly evidence-based in most cases — reserve specific anti-anaerobic therapy for suspected lung abscess/empyema rather than using it routinely for every aspiration pneumonia.
-- **Chronic/long-term:** speech pathology swallow assessment to identify and manage the underlying aspiration risk (thickened fluids, modified diet, positioning); optimise oral hygiene/dental care (reduces the bacterial load of any future aspiration); address the underlying cause where possible (e.g. reflux management, medication review for sedating drugs).
-
-> [!warning] Partially resolved — a Medical Journal of Australia article directly cites Therapeutic Guidelines: Antibiotic as recommending **empirical benzylpenicillin + metronidazole** for aspiration pneumonia specifically (distinct from standard CAP choices, and reflecting the anaerobic-cover debate discussed below). This is a genuine, specific AU-sourced regimen — but the citation is to the 2010 edition of eTG, and antibiotic guidelines are updated periodically, so the exact drug choice should still be checked against the *current* eTG edition rather than assumed unchanged over 15+ years. **The higher-yield teaching point is now even more strongly supported**: the British Thoracic Society's 2023 clinical statement explicitly states routine anti-anaerobic coverage is not required for aspiration pneumonia except in specific circumstances, and a large 2024 multicentre cohort study (18 hospitals, ~4,000 patients) found no mortality benefit from extended anaerobic coverage — if anything, a non-significant trend toward *higher* mortality (adjusted risk difference +1.6%) with broader anaerobic-covering regimens, alongside the added *C. difficile* risk broader-spectrum antibiotics carry. This makes "chemical pneumonitis vs bacterial pneumonia" and "routine anaerobic cover is increasingly not recommended" the genuinely well-evidenced, current teaching points, regardless of the exact drug specifics, which should still be checked against current eTG.
-
----
-
 ## 0.18 Sleep Apnoea (Obstructive Sleep Apnoea, OSA)
 
 > [!note] Gap-filled from CSV (Respiratory category, Medium yield) — not covered in the source UK notes.
@@ -733,87 +814,6 @@ Encompasses BiPAP, CPAP, etc.
 
 ---
 
-## 0.19 Empyema and Haemothorax
-
-> [!note] Gap-filled from CSV (Respiratory category, Medium yield, "unlikely covered") — not covered as standalone entities in the source UK notes; mentioned only implicitly via CAP complications and the pneumothorax decision pathway (haemothorax as a high-risk feature).
-
-**Empyema**
-
-**D:** Frank pus in the pleural space, typically evolving from an untreated or inadequately treated parapneumonic effusion.
-
-**A/P:** parapneumonic effusion (simple, exudative, sterile) → bacterial invasion of the pleural space → complicated parapneumonic effusion (positive culture/Gram stain, low pH) → frank pus (empyema) if untreated, often with loculation as fibrin deposits organise the collection.
-
-**S/Smx:** persisting/worsening fever and systemic illness despite antibiotics for pneumonia, pleuritic chest pain, dyspnoea — the key clinical clue is a patient with pneumonia not responding to appropriate antibiotics as expected, prompting a search for an undrained collection.
-
-**Ix:** CXR/pleural USS (*why:* identifies the effusion and can suggest complexity/loculation; *what:* effusion, possibly septated/loculated). Diagnostic pleural aspiration (*why:* confirms the diagnosis and distinguishes simple parapneumonic effusion from complicated/empyema, which changes Mx from antibiotics-alone to requiring drainage; *what:* frank pus, or fluid with pH <7.2, low glucose, positive Gram stain/culture — any of these mandate drainage, not antibiotics alone).
-
-**Mx:**
-- **Immediate/acute:** chest drain insertion for any complicated parapneumonic effusion or frank empyema (antibiotics alone are inadequate once fluid is infected/complicated) + continue systemic antibiotics.
-- **Definitive:** intrapleural fibrinolytics (e.g. alteplase + DNase) for loculated collections not draining adequately; VATS (video-assisted thoracoscopic surgery) for surgical decortication if medical drainage fails.
-- **Chronic/long-term:** ensure adequate treatment duration (often longer courses than uncomplicated pneumonia) and follow-up imaging to confirm resolution.
-
-**Haemothorax**
-
-**D:** Blood within the pleural space, most commonly from chest trauma; also iatrogenic (post-procedure) or from an underlying pathology (e.g. malignancy, ruptured aneurysm, anticoagulation-related).
-
-**A/P:** disruption of intrathoracic vessels (intercostal, pulmonary, or great vessels), or bleeding into the pleural space from a pre-existing lesion → blood accumulation → potential for both hypovolaemic shock (from blood loss) and respiratory compromise (from lung compression), i.e. it is both a "shock" and a "respiratory" emergency simultaneously.
-
-**S/Smx:** as per pneumothorax/pleural effusion (dyspnoea, chest pain, reduced breath sounds, dullness to percussion — dullness distinguishes it from the hyper-resonance of pneumothorax) plus signs of hypovolaemic shock if significant blood loss.
-
-**Ix:** CXR (*why:* screens for the collection, though may under-represent volume if the patient is supine (trauma setting); *what:* effusion/opacification, may be difficult to distinguish acutely from pleural fluid on CXR alone). CT chest (*why:* better characterises the volume and source, especially in trauma work-up; *what:* confirms haemothorax and may identify the bleeding source). FBC, group & crossmatch (*why:* assesses the degree of blood loss and prepares for possible transfusion; *what:* falling Hb, baseline for transfusion).
-
-**Mx:**
-- **Immediate/acute:** ABCDE resuscitation as for hypovolaemic shock (see [[01_Cardiovascular]] 0.20.2) alongside chest drain insertion (large-bore) to drain the haemothorax and monitor ongoing blood loss via drain output.
-- **Definitive:** urgent thoracotomy/surgical exploration if massive haemothorax (e.g. >1500mL immediate drain output, or ongoing output >200mL/hr) or haemodynamic instability despite resuscitation — significant ongoing bleeding needs surgical source control, not just drainage.
-- **Chronic/long-term:** monitor for retained haemothorax (undrained clot) which can organise into a fibrothorax if inadequately evacuated — may need VATS for evacuation if this develops.
-
----
-
-## 0.20 Pneumoconioses (Occupational Lung Disease — brief overview)
-
-> [!note] Gap-filled from CSV (Respiratory category, Medium yield, "unlikely covered") — covered only implicitly via the upper-zone-fibrosis mnemonic in the IPF section above; no dedicated entry existed. Cross-reference asbestosis above (section under Mesothelioma), which is the most exam-relevant individual pneumoconiosis and already has its own full entry.
-
-**D:** A group of interstitial lung diseases caused by inhalation of specific occupational/environmental dusts, causing a fibrotic tissue reaction.
-
-**R:** occupational exposure — mining (coal, silica-containing rock), sandblasting/stonework/quarrying (silica), asbestos-related trades (see Asbestosis, above) — latency typically many years/decades between exposure and disease.
-
-**Key entities (beyond asbestosis, covered above):**
-- **Coal workers' pneumoconiosis:** from coal dust inhalation; simple form often asymptomatic; progressive massive fibrosis is the severe complicated form.
-- **Silicosis:** from crystalline silica dust (mining, stonework, engineered stone/benchtop cutting — a recognised and increasing cause of severe disease in Australia in recent years); classically causes upper-zone fibrosis with "eggshell calcification" of hilar lymph nodes; increases TB risk substantially.
-
-**S/Smx:** progressive exertional dyspnoea, dry cough, reduced exercise tolerance — often insidious onset over years, may only become symptomatic once fibrosis is well established.
-
-**Ix:** occupational history is central to diagnosis (*why:* the exposure history is often the key diagnostic clue, since imaging/histology alone may not distinguish the specific cause; *what:* identifies the relevant occupational exposure and its duration/intensity). CXR/HRCT (*why:* screens for and characterises the fibrotic pattern; *what:* upper-zone nodular/fibrotic changes, eggshell hilar calcification in silicosis). Spirometry (*why:* quantifies functional impairment; *what:* typically restrictive pattern, though mixed patterns occur with concurrent COPD from shared exposures e.g. coal/silica dust also causing airway disease).
-
-**Mx:**
-- **Definitive (no acute tier — chronic, generally irreversible fibrotic disease):** primarily supportive — no treatment reverses established fibrosis; remove/reduce further exposure is the single most important intervention once diagnosed.
-- **Chronic/long-term:** TB screening/surveillance (silicosis substantially increases TB reactivation risk); pulmonary rehabilitation; monitor for progression to respiratory failure/cor pulmonale; workers' compensation/occupational health referral is often relevant given the occupational causation.
-
-**P:** variable depending on the specific dust and cumulative exposure — ranges from asymptomatic radiological changes to progressive respiratory failure; silicosis in particular has seen a resurgence in Australia linked to engineered stone benchtop manufacturing, prompting recent regulatory changes (a 2024 national prohibition on engineered stone) — worth knowing as a current Australian public health issue.
-
----
-
-## 0.21 Upper Respiratory Tract Infection (URTI)
-
-> [!note] Gap-filled from CSV (Respiratory category, High yield, "unlikely covered") — not covered as a standalone topic in the source UK notes, likely because it's usually considered low-complexity/self-evident, but flagged as high-yield in the CSV so given a brief dedicated entry.
-
-**D:** Infection of the upper respiratory tract — nose, sinuses, pharynx, larynx — most commonly viral, encompassing the "common cold," pharyngitis, sinusitis, and laryngitis.
-
-**A:** overwhelmingly viral (rhinovirus most common; also coronavirus, adenovirus, influenza, parainfluenza, RSV); bacterial causes (e.g. group A strep pharyngitis) are a minority but clinically important given specific antibiotic-responsive Mx and rare but serious complications (rheumatic fever — see [[01_Cardiovascular]] 0.22 — and peritonsillar abscess).
-
-**S/Smx:** nasal congestion/rhinorrhoea, sore throat, cough, low-grade fever, malaise — typically self-limiting over 7–10 days.
-
-> [!danger] Red flags distinguishing a concerning presentation from simple URTI: stridor/drooling (epiglottitis — emergency), unilateral tonsillar swelling with trismus (peritonsillar abscess/quinsy), neck stiffness (meningitis), significant systemic toxicity out of proportion to a simple URTI.
-
-**Ix:** clinical diagnosis in the vast majority of cases (*why:* Ix rarely changes Mx for typical URTI; *what:* diagnosis on history/exam). Throat swab/rapid strep test (*why:* used when bacterial pharyngitis is suspected (e.g. using a validated clinical score such as Centor/McIsaac criteria) to guide antibiotic decisions and reduce unnecessary prescribing; *what:* positive supports group A strep as the cause).
-
-**Mx:**
-- **Definitive (self-limiting in the large majority):** supportive care — analgesia/antipyretics, fluids, rest; reassurance about expected duration.
-- **Targeted (confirmed/high-probability bacterial pharyngitis):** penicillin V (or amoxicillin) for confirmed/high-probability group A strep pharyngitis, particularly relevant in populations/regions with higher rheumatic fever risk (see [[01_Cardiovascular]] 0.22 and the Australian Context of Health/Aboriginal & TSI Health category for RHD-endemic-region considerations).
-- **Chronic/long-term:** not applicable to simple URTI; recurrent tonsillitis may warrant ENT referral for consideration of tonsillectomy if meeting frequency/severity criteria.
-
----
-
 ## 0.22 Cross-references to avoid duplication
 
 > [!warning] FLAG 2026-09-01 — this is metadata sitting inside clinical content
@@ -826,435 +826,6 @@ Encompasses BiPAP, CPAP, etc.
 - **Pulmonary Embolism / Pulmonary embolus** (CSV rows) — fully covered in [[01_Cardiovascular]] section 0.30, including Wells score pathway, PERC rule, and Mx. Not duplicated here — this is a genuinely cross-cutting topic (chest/vascular) already built in its canonical home per the project's cross-cutting-topic convention.
 - **Diphtheria** — primarily an infectious disease/paediatric-immunisation topic (though it can cause upper airway obstruction/stridor); not built here — more appropriately homed in the Immunology, Allergy & Infectious Disease category or Paediatrics (immunisation-preventable disease), flagged for whichever of those files comes up next in the rotation.
 - **Paediatric-specific CSV rows** in this category (Acute respiratory infections: LRTI/Bronchiolitis/Croup/Pertussis, Asthma in childhood, Bronchiolitis, Child with wheeze and persistent cough, Children's health grab-bag, Croup, Stridor [predominantly paediatric causes], Viral induced wheeze, Whooping cough) — this file is adult-respiratory-focused (source: "quackquackmed 02 Respiratory"); these are flagged to be built in the Paediatrics category file when it comes up in the rotation, not duplicated here.
-
-
-<!-- ===== SOURCE: NEW_Drugs_18_Respiratory.md ===== -->
-
-
-# NEW — Drug Classes: Respiratory (AMH section 18)
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
-
----
-
-## 0.1 Drugs for Asthma and Chronic Obstructive Pulmonary Disease
-
-> [!danger] **THE MOST IMPORTANT CHANGE IN AUSTRALIAN ASTHMA PRESCRIBING: SABA-ONLY TREATMENT IS NO LONGER ADEQUATE.**
-> Sources describe the **2025 Australian Asthma Handbook update** bringing Australian practice into line with **GINA**, with the headline change that **as-needed short-acting beta₂-agonist (SABA) alone is now considered INADEQUATE treatment for asthma in adults and adolescents.** Instead, **adults and adolescents with mild asthma start on low-dose budesonide–formoterol taken as needed — "anti-inflammatory reliever" (AIR) therapy — replacing salbutamol as the first-line reliever.**
-> **Why:** sources state that **frequent SABA use is associated with increased airway inflammation, exacerbations, hospitalisations and mortality**, and that **as-needed ICS–formoterol reduces severe exacerbations by approximately 60–65% compared with SABA-only reliever therapy.**
-> **Practical consequence:** a patient using **salbutamol alone**, or getting through **more than about one canister every few months**, is **inadequately treated and at risk of death** — not "mild". **Check reliever use at every asthma review, and check it in every asthma admission.**
-
-### 0.1.1 Inhaled Corticosteroids
-- **Key agents:** **budesonide, fluticasone (propionate and furoate), beclometasone, ciclesonide, mometasone**; and the **ICS–LABA combinations** that dominate practice (budesonide–formoterol, fluticasone–salmeterol, fluticasone–vilanterol).
-- **Mechanism:** local anti-inflammatory action on the airway — **the drug that treats the disease process in asthma**, as opposed to the bronchodilators that treat its symptom.
-- **Indications:** **asthma at every step, from the as-needed AIR regimen upwards**; and **COPD**, where the role is narrower — **added for frequent exacerbations, and particularly where the blood eosinophil count is raised**, but with a **higher pneumonia risk** than in asthma.
-- **Adverse effects:** **oral candidiasis and dysphonia** (**rinse and spit after every dose, and use a spacer** — this prevents most of it); **pneumonia in COPD**; and, at higher doses or with repeated oral courses, **adrenal suppression, reduced growth velocity in children, bone loss, cataract, glaucoma, and skin thinning and bruising**.
-- **Interaction to know:** **ritonavir/cobicistat and strong azoles markedly raise inhaled fluticasone exposure and have caused iatrogenic Cushing syndrome and adrenal crisis** (see `NEW_Drugs_05_Anti_infectives.md` 0.5.3).
-
-### 0.1.2 Beta-2 Agonists
-*(covers build-list classes: Beta2 agonists; Short-Acting Beta-2 Agonists)*
-- **Short-acting (SABA) — salbutamol, terbutaline.** Rapid bronchodilation within minutes.
-- **Long-acting (LABA) — salmeterol, formoterol, indacaterol, vilanterol, olodaterol.** **Formoterol is distinctive in having a rapid onset as well as long duration**, which is precisely why it is the LABA used in the anti-inflammatory reliever regimen.
-- **Ultra-long-acting** agents allow once-daily combination inhalers.
-
-> [!danger] **A LABA MUST NEVER BE USED WITHOUT AN INHALED CORTICOSTEROID IN ASTHMA.** LABA monotherapy is associated with increased asthma deaths. In practice this means **prescribing a combination inhaler**, not two separate devices from which the steroid can be dropped.
-
-- **Adverse effects:** **tremor, palpitations and tachycardia, headache, anxiety** (dose-related and expected with high-dose nebulised therapy); **HYPOKALAEMIA** — clinically significant with repeated nebulisers in acute severe asthma, so **check potassium**; **hyperglycaemia** and **lactic acidosis** with high-dose treatment (a genuinely confusing finding in a patient with severe asthma, and not itself a sign of sepsis); and **paradoxical bronchospasm** (rare).
-- **Delivery matters more than the drug.** **A metered-dose inhaler WITH A SPACER is as effective as a nebuliser for most acute asthma**, uses less drug, causes fewer adverse effects and does not aerosolise infection. **Inhaler technique is wrong in the majority of patients — check it at every opportunity, and check the device the patient actually has**, since dry-powder and pressurised devices require opposite techniques.
-
-### 0.1.3 Inhaled Anticholinergics (Antimuscarinics)
-- **Short-acting (SAMA) — ipratropium.** **Long-acting (LAMA) — tiotropium, glycopyrronium, umeclidinium, aclidinium.**
-- **Mechanism:** block M₃ muscarinic receptors → bronchodilation and reduced mucus secretion.
-- **Indications:** **COPD — where LAMAs are a cornerstone of maintenance therapy** and reduce exacerbations; **acute severe asthma and COPD exacerbations** (ipratropium added to salbutamol); and **tiotropium as add-on therapy in severe asthma**.
-- **Adverse effects:** **dry mouth** (the commonest); urinary retention and constipation; **acute angle-closure glaucoma if nebulised drug reaches the eyes — use a mouthpiece rather than a mask where possible, or protect the eyes**; and paradoxical bronchospasm.
-- **Do not combine a SAMA and a LAMA** — no added benefit, more adverse effects.
-
-### 0.1.4 Theophyllines
-- **Key agents:** **theophylline** (oral) and **aminophylline** (intravenous).
-- **Mechanism:** non-selective phosphodiesterase inhibition and adenosine antagonism → bronchodilation, with some anti-inflammatory effect at low dose.
-- **Role: largely superseded**, and retained only as later-line therapy — because of a **narrow therapeutic index and extensive interactions**.
-- **Toxicity:** **nausea and vomiting, tremor, agitation, tachyarrhythmias, hypokalaemia and SEIZURES** — and seizures can occur without preceding gastrointestinal warning in chronic toxicity. **Levels are monitored.**
-- **Interactions — the reason it is dangerous in a general hospital:** levels **RISE** with **ciprofloxacin, erythromycin and clarithromycin, cimetidine, allopurinol, fluvoxamine**, and in **heart failure, liver disease and viral illness**; levels **FALL** with **rifampicin, phenytoin, carbamazepine, and SMOKING** — so **a theophylline level can climb dangerously when a patient stops smoking on admission** (see `NEW_Drugs_17_Psychotropic.md` 0.7).
-
-### 0.1.5 Other Drugs for Asthma and COPD
-- **Leukotriene receptor antagonists — montelukast.** Oral, useful with allergic rhinitis and in exercise-induced asthma, and in children. **The neuropsychiatric warning is mandatory to discuss — sleep disturbance, nightmares, agitation, depression and suicidal ideation — and must be asked about at review.**
-- **Oral corticosteroids** — for **exacerbations of asthma and COPD**; short courses do not require tapering, but **repeated courses carry the full systemic corticosteroid burden** and should trigger a step-up in preventive therapy rather than more prednisolone.
-- **Biologics for severe asthma** — **omalizumab (anti-IgE), mepolizumab and benralizumab (anti-IL-5/5R), dupilumab and tezepelumab** — for severe eosinophilic or allergic asthma, with specific **PBS criteria** in Australia.
-- **Roflumilast** — an oral PDE4 inhibitor for severe COPD with chronic bronchitis and frequent exacerbations; causes diarrhoea, weight loss and psychiatric effects.
-- **Macrolide prophylaxis (azithromycin)** — reduces exacerbations in COPD, bronchiectasis and severe asthma; watch **QT, hearing, and mycobacterial resistance**, and **exclude non-tuberculous mycobacterial infection before starting.**
-- **The non-drug measures that change outcomes most:** **SMOKING CESSATION (the only intervention that alters COPD progression)**, **pulmonary rehabilitation**, **vaccination (influenza, pneumococcal, COVID-19, RSV where indicated)**, **an up-to-date written ASTHMA OR COPD ACTION PLAN**, inhaler technique review, and **long-term oxygen therapy in defined hypoxaemia** — which is the other COPD intervention with a mortality benefit.
-
-> [!danger] **The asthma deaths that are preventable share a pattern:** over-reliance on SABA, no preventer or poor adherence, no action plan, no recent review, previous ICU admission or intubation, and under-estimation of severity by both patient and clinician. **A patient who has needed oral steroids or presented to hospital in the last year is at high risk.** See [[02_Respiratory]] and [[15_04b_Paeds_-_Asthma_in_Children]].
-
-## 0.2 Drugs for Cough
-
-### 0.2.1 Opioid Cough Suppressants
-- **Key agents:** **codeine, dihydrocodeine, pholcodine, morphine** (in palliative care), dextromethorphan (a non-opioid acting centrally).
-- **Mechanism:** suppress the medullary cough centre.
-- **Role:** **very limited.** Genuinely useful for **distressing dry cough in palliative care and in lung cancer**; otherwise the evidence in acute cough is poor, and the risks are real.
-
-> [!danger] **PHOLCODINE WAS WITHDRAWN IN AUSTRALIA (2023) because of an association with ANAPHYLAXIS TO NEUROMUSCULAR BLOCKING AGENTS during subsequent general anaesthesia.** This is a distinctive and recent Australian regulatory action worth knowing, and patients may still ask about it.
-> **Codeine-containing cough preparations became prescription-only in Australia in February 2018** (see `NEW_Drugs_03_Analgesics.md` 0.4.4). **Codeine is a CYP2D6 prodrug — ultra-rapid metabolisers, including children and breastfed infants of ultra-rapid metaboliser mothers, have died. Opioid cough suppressants are contraindicated in children.**
-> **And the general point: do not suppress a productive cough** — it is a protective mechanism, and suppressing it in bronchiectasis, cystic fibrosis or pneumonia is harmful.
-
-### 0.2.2 Mucolytics
-- **Key agents:** **N-acetylcysteine** (oral and nebulised), **dornase alfa** (recombinant DNase, in cystic fibrosis), **hypertonic saline** (nebulised), carbocisteine, bromhexine, mannitol powder.
-- **Mechanism:** reduce sputum viscosity — by breaking disulfide bonds (acetylcysteine), digesting extracellular DNA from degraded neutrophils (dornase alfa), or osmotically rehydrating the airway surface (hypertonic saline, mannitol).
-- **Indications:** **cystic fibrosis and bronchiectasis** — where **dornase alfa and hypertonic saline have genuine evidence**; **COPD** (modest exacerbation reduction with oral mucolytics); and **acetylcysteine's much more important other use — as the antidote in paracetamol poisoning** (see `NEW_Drugs_04_Antidotes_and_Antivenoms.md` 0.1.1).
-- **Practical:** **airway clearance physiotherapy is what actually clears sputum** — mucolytics are an adjunct to it, and are usually given immediately before a physiotherapy session. **Nebulised agents can provoke bronchospasm** — a bronchodilator is often given first.
-
-### 0.2.3 Other Cough Considerations
-- **There is no good evidence for over-the-counter cough mixtures**, and in **children under 6 they are not recommended and have caused harm.**
-- **Find the cause instead:** **ACE inhibitor cough** (up to a large minority of users, resolves on switching to an ARB), **asthma and cough-variant asthma**, **gastro-oesophageal reflux**, **upper airway cough syndrome/postnasal drip**, **smoking**, **bronchiectasis**, **heart failure**, and **medication**.
-
-> [!danger] **Red flags in cough that mean investigation, not a suppressant:** **haemoptysis, weight loss, a cough lasting more than about 3 weeks in a smoker or ex-smoker, night sweats and fever (tuberculosis), hoarseness, dysphagia, a focal chest sign, clubbing, or a new cough in an older patient.** **Chest X-ray, and consider CT and referral.** Australia's **National Lung Cancer Screening Program** applies to the asymptomatic — a symptomatic patient needs diagnostic investigation (see `NEW_Investigations_General_and_Preventive.md` 0.13).
-
-## 0.3 Drugs for Pulmonary Hypertension
-
-> [!info] **The drugs below treat GROUP 1 pulmonary ARTERIAL hypertension (PAH).** They are **specialist-initiated in designated centres**, and — importantly — **they are NOT for pulmonary hypertension due to left heart disease (group 2) or lung disease (group 3), where they can cause harm by worsening ventilation–perfusion matching and precipitating pulmonary oedema.** **Establishing the group, by right heart catheterisation, comes before any of this.**
-
-### 0.3.1 Endothelin Receptor Antagonists
-*(covers build-list classes: Endothelin Receptor Antagonists; Endothelin antagonists)*
-- **Key agents:** **bosentan, macitentan, ambrisentan**.
-- **Mechanism:** block **endothelin-1**, a potent vasoconstrictor and mitogen that is upregulated in PAH.
-- **Adverse effects:** **HEPATOTOXICITY — bosentan in particular requires MONTHLY liver function monitoring**; **anaemia**; peripheral oedema; nasal congestion and headache.
-- **TERATOGENICITY — all endothelin receptor antagonists are teratogenic.** **Pregnancy must be excluded before starting and tested for regularly during treatment, with reliable contraception**, under a formal risk management program. **Bosentan also INDUCES CYP3A4, reducing hormonal contraceptive efficacy — so hormonal contraception alone is not sufficient.**
-
-### 0.3.2 Prostacyclin Analogues
-- **Key agents:** **epoprostenol** (continuous intravenous infusion via a permanent central line), **treprostinil** (intravenous, subcutaneous, inhaled), **iloprost** (inhaled), **selexipag** (an oral prostacyclin receptor agonist).
-- **Mechanism:** replace deficient prostacyclin → potent pulmonary vasodilation, antiplatelet and antiproliferative effects.
-- **Role:** **the most effective agents, used in severe disease**; epoprostenol has a demonstrated survival benefit.
-- **Adverse effects:** **jaw pain (characteristic), flushing, headache, diarrhoea, nausea, limb pain**; **infusion line infection and sepsis** — a major cause of morbidity with continuous intravenous therapy.
-
-> [!danger] **AN ABRUPT INTERRUPTION OF AN EPOPROSTENOL OR TREPROSTINIL INFUSION CAN CAUSE FATAL REBOUND PULMONARY HYPERTENSION.**
-> The half-life is measured in minutes. **A blocked line, a failed pump, a dislodged catheter or an omitted dose is an emergency.** **Never stop or interrupt these infusions**, and if a patient on one is admitted, **contact the pulmonary hypertension service immediately** and ensure the infusion is protected.
-
-### 0.3.3 Other Drugs for Pulmonary Hypertension
-- **PDE5 inhibitors — sildenafil, tadalafil** — see `NEW_Drugs_06_Cardiovascular.md` 0.11.3. **Absolutely contraindicated with nitrates and with riociguat.**
-- **Riociguat** — a soluble guanylate cyclase stimulator, used in PAH and in **chronic thromboembolic pulmonary hypertension**; **teratogenic**, and **must not be combined with a PDE5 inhibitor or nitrates**.
-- **Calcium channel blockers** — only in the small minority of patients with a **positive acute vasodilator response** at catheterisation; **giving them to a vasodilator non-responder can cause haemodynamic collapse.**
-- **Supportive:** **anticoagulation** in selected patients, **diuretics** for right heart failure, **oxygen**, **iron replacement**, and treatment of the underlying cause. **Pregnancy carries very high maternal mortality in PAH and is strongly advised against — contraception counselling is essential.**
-
-## 0.4 Drugs Used in Cystic Fibrosis
-
-- **CFTR MODULATORS — the transformative development.** **Ivacaftor** (a potentiator) and the correctors **lumacaftor, tezacaftor and elexacaftor**, combined as **elexacaftor/tezacaftor/ivacaftor**, which is effective for the great majority of people with CF and has produced substantial improvements in lung function, exacerbations, weight and quality of life. **Eligibility is mutation-specific and PBS-criteria-driven in Australia.** Adverse effects include **transaminitis (LFT monitoring), cataract in children (ophthalmological review), headache and rash**, and **extensive CYP3A4 interactions** — check every co-prescription.
-- **Airway clearance:** **dornase alfa**, **hypertonic saline**, **mannitol dry powder**, and — most importantly — **physiotherapy**.
-- **Anti-infectives:** **inhaled tobramycin, colistin and aztreonam** for chronic *Pseudomonas* suppression; **prolonged high-dose intravenous antibiotics** for exacerbations (**people with CF have altered pharmacokinetics and often need higher doses**); **azithromycin** for its anti-inflammatory effect; and **antifungals** for allergic bronchopulmonary aspergillosis.
-- **Nutrition and gastrointestinal:** **pancreatic enzyme replacement with every meal and snack** (**under-dosing is common** — see `NEW_Drugs_12_Gastrointestinal.md` 0.8.2), **fat-soluble vitamin supplementation (A, D, E, K)**, high-energy diet, and **salt replacement in hot weather** — genuinely important in the Australian climate.
-- **Complications to anticipate:** **CF-related diabetes** (screened for annually), liver disease, **distal intestinal obstruction syndrome**, osteoporosis, and **infertility (congenital bilateral absence of the vas deferens in men)**.
-- **Infection control:** **cross-infection prevention between people with CF is a strict requirement** — segregation, and no gathering of patients — and this shapes how clinics and admissions are run.
-
-## 0.5 Pulmonary Surfactants
-- **Key agents:** **poractant alfa, beractant, calfactant** — animal-derived surfactant preparations given **endotracheally** to neonates.
-- **Mechanism:** replace deficient surfactant, **reducing alveolar surface tension**, preventing end-expiratory collapse and improving compliance and oxygenation.
-- **Indications:** **neonatal respiratory distress syndrome** in preterm infants — treatment, and prophylaxis in the most immature; and selected other neonatal conditions (meconium aspiration, pulmonary haemorrhage).
-- **Administration:** given by a trained neonatal team, either after intubation or by **less-invasive surfactant administration (LISA/MIST)** in a spontaneously breathing infant on CPAP — an approach with which Australian units have considerable experience.
-- **Adverse effects:** transient **bradycardia, hypoxia and airway obstruction during administration**; pulmonary haemorrhage; and — importantly — a **rapid improvement in compliance that requires prompt reduction in ventilator pressures to avoid pneumothorax.**
-- **Context:** **antenatal corticosteroids given to the mother remain the single most effective intervention** for neonatal RDS (see `NEW_Drugs_16_Obstetric_and_Gynaecological.md` 0.9); surfactant is complementary to it, not a substitute. See [[15_22b_Paeds_-_Neonatal_Respiratory_Distress_and_Jaundice]].
-
-## 0.6 Other Respiratory Drugs
-- **Antifibrotics for idiopathic pulmonary fibrosis — pirfenidone and nintedanib.** They **slow the decline in lung function but do not reverse fibrosis or relieve symptoms**, which must be explained honestly. **Pirfenidone causes photosensitivity (significant in Australia — strict sun protection), nausea and rash**; **nintedanib causes diarrhoea (very common), hepatotoxicity and bleeding risk.** Both require LFT monitoring.
-- **Alpha-1 antitrypsin replacement** — for severe deficiency-related emphysema, in specialist settings.
-- **Respiratory stimulants — doxapram** — very limited modern use; **caffeine citrate**, by contrast, is standard and effective for **apnoea of prematurity** and improves neurodevelopmental outcomes.
-- **Oxygen** — **a drug that must be prescribed, with a target saturation range**, and one where **too much is harmful in patients at risk of hypercapnic respiratory failure**. See `NEW_Investigations_Respiratory.md` 0.3.
-- **Nicotine replacement and cessation pharmacotherapy** — arguably the most important respiratory drugs of all; see `NEW_Drugs_17_Psychotropic.md` 0.7.
-- **Antivirals and vaccines** — influenza antivirals, COVID-19 antivirals, and the **vaccination schedule**, which is core respiratory preventive care.
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for asthma and chronic obstructive pulmonary disease | SUB | yes | Opens with the 2025 Australian Asthma Handbook change away from SABA-only treatment. |
-| 0.1.1 | Corticosteroids (inhaled) | CLS | yes | |
-| 0.1.2 | Beta2 agonists | CLS | yes | Built jointly with `Short-Acting Beta-2 Agonists` — the short-acting group is a subset and they are chosen against each other; both rows mapped. |
-| 0.1.2 | Short-Acting Beta-2 Agonists | CLS | yes | As above. |
-| 0.1.3 | Anticholinergics (inhaled) | CLS | yes | |
-| 0.1.4 | Theophyllines | CLS | yes | Includes the smoking-cessation level rise. |
-| 0.1.5 | Other drugs for asthma | CLS | yes | |
-| 0.2 | Drugs for cough | SUB | yes | |
-| 0.2.1 | Opioid cough suppressants | CLS | yes | Includes the 2023 Australian pholcodine withdrawal and its anaesthetic anaphylaxis rationale. |
-| 0.2.2 | Mucolytics | CLS | yes | |
-| 0.3 | Drugs for pulmonary hypertension | SUB | yes | Framed on the group 1 versus groups 2/3 distinction. |
-| 0.3.1 | Endothelin Receptor Antagonists | CLS | yes | Built jointly with `Endothelin antagonists` — same class, two names; both rows mapped. |
-| 0.3.1 | Endothelin antagonists | CLS | yes | As above. |
-| 0.3.2 | Prostacyclin Analogs | CLS | yes | Includes fatal rebound on infusion interruption. |
-| 0.3.3 | Other drugs for pulmonary hypertension | CLS | yes | |
-| 0.4 | Drugs used in cystic fibrosis | SUB | yes | CFTR modulators, airway clearance, anti-infectives, nutrition and infection control. |
-| 0.5 | Pulmonary surfactants | SUB | yes | |
-| 0.6 | Other respiratory drugs | SUB | yes | |
-
-**Rows in file: 18 (6 SUB + 12 CLS). AMH section 18 build-list rows: 18. Section complete.**
-
-> [!note] **Two pairs of build-list rows overlap** — `Beta2 agonists` with `Short-Acting Beta-2 Agonists` (subset), and `Endothelin Receptor Antagonists` with `Endothelin antagonists` (same class, two names). Each is written once and every row mapped above.
-
-
-<!-- ===== SOURCE: NEW_Investigations_Respiratory.md ===== -->
-
-
-# NEW — Investigations: Respiratory
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay- and laboratory-dependent values are **omitted with the omission stated in place**.
-
----
-
-## 0.1 Nasopharyngeal Swab (Respiratory Virus / Atypical PCR)
-
-**D:** A flocked swab passed along the **floor of the nose, parallel to the palate**, to the posterior nasopharynx — **not** angled upwards into the bridge of the nose — held in place for several seconds, rotated, and withdrawn into viral transport medium. A **nasopharyngeal aspirate** is the paediatric equivalent where a swab is poorly tolerated.
-
-**Ind:** Suspected influenza, COVID-19, RSV or other respiratory viral infection where the result changes management — **antiviral eligibility, isolation and cohorting, exclusion from work in a health or aged-care setting, admission-avoidance decisions**; bronchiolitis where cohorting matters; suspected pertussis; atypical pneumonia (*Mycoplasma*, *Chlamydia*, *Legionella* — though **urinary antigen** is the usual *Legionella* test, see [[NEW_Investigations_Infectious_Diseases]]).
-
-**Role:** **Multiplex respiratory PCR** has replaced viral culture and antigen testing for almost all purposes: it is sensitive, returns within hours in most hospitals, and covers influenza A/B, RSV, SARS-CoV-2, and a panel of other viruses and atypicals in a single specimen.
-
-> [!warning] **Sampling depth is the commonest reason for a false negative.** A swab that samples the anterior nares only is a **nasal** swab, not a nasopharyngeal one, and is materially less sensitive for influenza and RSV. If a patient barely reacts, the swab probably did not reach the nasopharynx.
-
-> [!tip] **Timing matters as much as technique.** Viral shedding is highest early. A swab taken late in the illness — or after antivirals have started — can be negative in a patient who genuinely had the infection. **A negative respiratory PCR in a patient with a compatible syndrome does not overrule the clinical picture**; treat the patient, not the swab.
-
-> [!danger] **Do not ignore**
-> - **A positive result does not exclude a bacterial co-infection.** Influenza with secondary *Staphylococcus aureus* or pneumococcal pneumonia is a classic deteriorating-after-improving pattern and is lethal. A positive viral PCR in a patient with consolidation, high inflammatory markers or septic shock is not a reason to withhold antibiotics.
-> - **Do not delay empirical treatment or isolation waiting for the swab.** Both are clinical decisions.
-> - **Suspected pertussis:** PCR is most useful in the **first 2–3 weeks of cough**; later in the illness the organism has usually cleared and serology becomes the test — discuss with the laboratory rather than assuming a negative PCR excludes it.
-
-**Normal/abnormal:** Qualitative — organism detected or not detected. **Cycle-threshold values are not a viral load and should not be reported to clinicians as one**; they are assay-dependent and are not used for intern-level decisions.
-
-**Alt:** Sputum or lower-respiratory specimen where there is productive cough or the patient is intubated (a **tracheal aspirate or BAL** is the better specimen in a ventilated patient); blood cultures; *Legionella* and pneumococcal **urinary antigen**; chest X-ray; serology for pertussis late in the illness.
-
-## 0.2 Pulmonary Function Tests (Spirometry, Lung Volumes, DLCO)
-
-**D:** Three linked tests, usually reported together. **Spirometry** measures flow and volume on a forced expiration — **FEV₁**, **FVC**, and the **FEV₁/FVC ratio**. **Lung volumes** (body plethysmography or gas dilution) add **TLC** and **RV**, which spirometry cannot measure. **DLCO** (diffusing capacity for carbon monoxide, also written **TLCO**) measures gas transfer across the alveolar–capillary membrane.
-
-**Ind:** Diagnosis and severity assessment of **asthma and COPD**; unexplained chronic breathlessness or cough; suspected interstitial lung disease; occupational lung disease surveillance; pre-operative assessment before thoracic surgery; monitoring of neuromuscular disease and of drug lung toxicity (bleomycin, amiodarone).
-
-**Role:** **The test that separates obstruction from restriction**, and the reason a breathless patient's label is more than a guess.
-
-> [!info] **Reading the pattern — the whole point of the test**
-> - **Obstructive:** **FEV₁/FVC ratio reduced.** FEV₁ falls more than FVC. Asthma, COPD, bronchiectasis, bronchiolitis.
-> - **Restrictive:** **ratio normal or increased, with a reduced TLC.** FEV₁ and FVC fall together. **Restriction cannot be diagnosed on spirometry alone** — a reduced FVC with a normal ratio only *suggests* it; **TLC is what confirms it**, and this is a very common intern-level error.
-> - **DLCO separates the causes further:** reduced in **emphysema** and in **interstitial lung disease**; **normal or high** in chest-wall and neuromuscular restriction (the lung parenchyma is intact); **reduced** in pulmonary vascular disease with otherwise near-normal spirometry.
-
-> [!warning] **Bronchodilator reversibility — the threshold has changed, and sources disagree.**
-> The long-standing and still widely quoted criterion is an increase in FEV₁ (or FVC) of **≥12% *and* ≥200 mL** from baseline after a bronchodilator. The **2022 ATS/ERS interpretation update** replaced this with a change of **>10% of the predicted value** for FEV₁ or FVC, on the grounds that a percentage-of-baseline threshold is biased against patients with low baseline values.
-> **Both are in current use, and reports may quote either.** Read which definition your laboratory's report applies rather than assuming. Neither is stated here as *the* threshold, because the sources genuinely conflict.
-> **Both criteria above are ADULT criteria, and the absolute ≥200 mL component is the part that does not transfer.** A child's whole FEV₁ may be little more than a litre, so a fixed 200 mL requirement is a far larger relative change in a child than in an adult and will under-diagnose reversibility in small lungs. **Paediatric interpretation uses the percentage criterion**, and paediatric spirometry is read against age-, height- and sex-specific predicted values throughout — never against an adult absolute volume.
-
-> [!danger] **Do not ignore**
-> - **Reversibility is supportive, not definitive.** A negative reversibility test **does not exclude asthma** — the patient may simply not be obstructed on the day, or may be well controlled. Conversely, some COPD shows reversibility.
-> - **Spirometry is effort-dependent.** A poor-quality trace can manufacture a restrictive pattern out of nothing. Look for the technician's quality comment before interpreting.
-> - **Persistent airflow obstruction after bronchodilator, in a smoker over 35 with breathlessness, is COPD** — spirometry is required to make the diagnosis, and diagnosing COPD without it is not acceptable.
-> - **DLCO must be corrected for haemoglobin.** Anaemia lowers it and polycythaemia raises it independently of the lungs; an uncorrected value in an anaemic patient can look like interstitial disease.
-
-**Normal/abnormal:** Interpreted against **predicted values for age, sex and height** (and, in current practice, race-neutral reference equations), reported as percent predicted and as a **z-score / lower limit of normal**. **Fixed cut-off ratios are deliberately not stated here** — the fixed 0.7 ratio over-diagnoses obstruction in the elderly and under-diagnoses it in the young, which is precisely why LLN-based reporting exists.
-
-**Alt:** **Peak expiratory flow** (bedside and home monitoring, effort-dependent, useful for variability rather than diagnosis); bronchial provocation testing where spirometry is normal but asthma is still suspected; **FeNO** for eosinophilic airway inflammation; chest imaging and **HRCT** for parenchymal disease; arterial blood gas; six-minute walk test for functional capacity and exertional desaturation. See [[02_Respiratory]].
-
-## 0.3 Pulse Oximetry (SpO₂)
-
-**D:** A non-invasive probe measuring absorption at two wavelengths across a pulsatile vascular bed to estimate the proportion of haemoglobin that is oxygenated — **functional** saturation, calculated as oxyhaemoglobin over the sum of oxyhaemoglobin and deoxyhaemoglobin.
-
-**Ind:** Universal. Part of every set of observations; continuous monitoring in acute illness, post-operatively, during sedation and procedures, and in oxygen titration.
-
-**Role:** The **fifth vital sign** — a continuous, painless, immediately available surrogate for oxygenation.
-
-> [!danger] **It measures oxygenation only. It does not measure ventilation.**
-> A patient retaining CO₂ on supplemental oxygen can have a **completely normal SpO₂ while becoming acidotic and drowsy**. This is the single most dangerous misuse of the number. If ventilation is the clinical question — opioid toxicity, COPD on oxygen, neuromuscular weakness, reduced conscious state — **the test is a blood gas, not the oximeter.**
-
-> [!warning] **The failure modes an intern must know**
-> - **Skin pigmentation.** Sources consistently report that pulse oximeters **overestimate** arterial saturation in patients with darker skin, with a pooled mean bias of roughly **1–2%** and, importantly, a **higher rate of occult hypoxaemia** — a true SaO₂ below 88% while the oximeter reads 92–96%. The bias is largest at low saturations. **In a patient with darker skin and a borderline reading, take the blood gas.**
-> - **Carbon monoxide poisoning.** Carboxyhaemoglobin absorbs similarly to oxyhaemoglobin: the oximeter reads **falsely high, often a normal-looking value in a severely poisoned patient**. Suspected CO poisoning requires **co-oximetry on a blood gas**, and an SpO₂ of 99% is not reassuring.
-> - **Methaemoglobinaemia.** Drives the reading **towards ~85% and holds it there**, regardless of the true saturation — the classic "saturation gap" between a low SpO₂ and a normal PaO₂. See [[10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia]].
-> - **Poor signal:** shock, vasoconstriction, hypothermia, severe anaemia, movement, and nail polish or artificial nails. A poor trace is a reason to move the probe (ear, other digit), not to accept the number.
-
-> [!tip] **Always look at the plethysmographic waveform before believing the value.** A number without a clean pulsatile trace is not a measurement.
-
-**Normal/abnormal:** Target ranges are condition-specific and set by local guidance — notably a **lower target range in patients at risk of hypercapnic respiratory failure** (COPD, obesity hypoventilation, neuromuscular disease), where over-oxygenation is itself harmful. **Specific target bands are not stated here** because they differ between Australian jurisdictional oxygen policies; use your hospital's oxygen prescribing chart, which specifies the target range and requires it to be written.
-
-**Alt:** **Arterial blood gas** — the reference standard, and the only test that gives PaCO₂, pH and (with co-oximetry) dyshaemoglobin fractions; venous gas for pH and CO₂ trend where arterial sampling is difficult; **transcutaneous CO₂** monitoring in selected settings; end-tidal CO₂ in the ventilated or sedated patient.
-
-## 0.4 Sleep Studies (Polysomnography, Home Sleep Apnoea Testing)
-
-**D:** **Level 1 polysomnography** — attended, in-laboratory, recording EEG, EOG, EMG, ECG, airflow, thoracoabdominal effort, oximetry and body position. **Home sleep apnoea testing** (unattended, limited-channel) records a reduced set, typically airflow, effort, oximetry and heart rate, without EEG.
-
-**Ind:** Suspected **obstructive sleep apnoea** — habitual snoring with witnessed apnoeas, unrefreshing sleep, excessive daytime sleepiness; unexplained daytime somnolence; treatment-resistant hypertension, nocturnal arrhythmia or right heart failure; assessment for **fitness to drive**, particularly commercial drivers; suspected central sleep apnoea or obesity hypoventilation; suspected narcolepsy or parasomnia (**laboratory study required** — a home test cannot assess these, as it does not record sleep).
-
-**Role:** Confirms the diagnosis and grades the severity that determines whether treatment is funded and indicated.
-
-> [!info] **AHI — apnoea–hypopnoea index, events per hour of sleep**
-> Sources agree on: **normal <5**, **mild 5–15**, **moderate 15–30**, **severe >30 events/h**. (Boundary conventions differ trivially between sources — some write mild 5–15 and moderate 16–30 — but the bands themselves are consistent.)
-
-> [!warning] **The AHI is not the whole assessment.** Two patients with the same index can need entirely different management. What matters alongside the number: **daytime sleepiness and its functional consequences** (Epworth Sleepiness Scale, and specifically **sleepiness at the wheel**), **degree and duration of nocturnal desaturation**, comorbid cardiovascular disease, and whether events are **obstructive or central**. A patient with an AHI of 12 who falls asleep driving needs treatment more urgently than an asymptomatic patient with an AHI of 35.
-
-> [!danger] **Do not ignore**
-> - **Driving.** Untreated OSA with excessive daytime sleepiness carries statutory reporting and licensing implications in Australia, more strictly for **commercial** licence holders. A patient describing sleepiness at the wheel needs advice not to drive **now**, before the study is done — see [[NEW_Safeguarding_and_Forensic]].
-> - **A home sleep study can only rule OSA in, not out.** Because it does not measure sleep, it divides events by *recording* time rather than sleep time and therefore **under-estimates the AHI**. A negative home study in a patient with a convincing history should go on to laboratory polysomnography.
-> - **Hypoventilation is a different problem.** Obesity hypoventilation syndrome and neuromuscular weakness cause sustained nocturnal hypercapnia rather than discrete events, may have a modest AHI, and need **bilevel ventilation, not CPAP**. Look for a raised bicarbonate on daytime bloods as the clue.
-> - **Pre-operative relevance:** undiagnosed OSA substantially increases the risk of post-operative respiratory depression with opioids and sedatives.
-
-**Normal/abnormal:** AHI bands as above, read together with the oxygen desaturation index, minimum and mean SpO₂, time spent below 90%, and the obstructive-versus-central split.
-
-**Alt:** **STOP-BANG** and Epworth questionnaires as pre-test screening tools (screening, not diagnostic); overnight oximetry alone (crude, high false-negative rate, but sometimes the only available test); daytime arterial blood gas and bicarbonate where hypoventilation is suspected; echocardiography where pulmonary hypertension or right heart strain is suspected.
-
-## 0.5 Sputum Culture (with Gram Stain and Microscopy)
-`CF-PAIR` **The general specimen-collection and culture-interpretation account is `§1.18 Blood Cultures and Microbiology Basics`, co-located into `[[Infectious Disease_merged]]` beside `§0.1 Gram Stain` and `§0.2 Microbiology Panel` on 2026-09-01. Sputum culture stays here because it is respiratory. Both kept in full, NOT reconciled.**
-
-**D:** Expectorated lower-respiratory secretions examined by **Gram stain and microscopy**, then cultured with susceptibility testing. In a ventilated patient the equivalent specimens are a **tracheal aspirate** or **bronchoalveolar lavage**.
-
-**Ind:** **Severe or hospital-acquired pneumonia**; failure to respond to empirical therapy; suspected resistant organism or prior resistant isolate; **bronchiectasis** and **cystic fibrosis** (where colonising organisms, notably *Pseudomonas aeruginosa*, direct long-term management); suspected **tuberculosis** (a different, specific request — see 0.7); immunosuppression.
-
-**Role:** Narrows empirical antibiotics to targeted therapy. **It is not indicated in uncomplicated community-acquired pneumonia managed in the community**, where empirical treatment is the standard and the yield does not change management.
-
-> [!warning] **Specimen quality determines whether the result means anything, and the laboratory screens for it.**
-> Microscopy is used to distinguish lower-respiratory secretions from saliva by counting **squamous epithelial cells** and **polymorphs** per low-power field. Sources agree on the general standard: **a good specimen has few squamous cells (<10/LPF) with abundant polymorphs; a specimen with >25 squamous cells/LPF is oropharyngeal contamination and is rejected.** A "sputum" specimen that is saliva grows normal oral flora and produces a plausible-looking, entirely misleading report.
-> **Practical consequence:** ask for a **deep cough first thing in the morning**, use physiotherapy or nebulised saline induction if the patient cannot produce one, and **do not send saliva.**
-
-> [!danger] **Do not ignore**
-> - **Take blood cultures and the sputum specimen BEFORE the first antibiotic dose** — but **do not delay antibiotics in sepsis to obtain them.** Antibiotics markedly reduce yield.
-> - **Growth is not infection.** *Candida* from sputum is essentially always colonisation and should not be treated. Upper-airway flora in a poor specimen means nothing. Interpret every isolate against the patient.
-> - **Suspected TB must be requested explicitly.** Routine culture does not detect mycobacteria — see 0.7.
-> - **Frank haemoptysis, weight loss or a smoking history changes the question** from infection to malignancy and TB; sputum cytology is a poor test for lung cancer and imaging is the correct next step.
-
-**Normal/abnormal:** Reported as specimen quality, Gram stain appearance, organism(s) grown, and susceptibilities. A **predominant organism in a good-quality specimen with matching Gram stain morphology** is the result that should change therapy.
-
-**Alt:** **Blood cultures**; *Legionella* and pneumococcal **urinary antigen**; **respiratory PCR panel** (0.1); pleural fluid sampling where an effusion is present; bronchoscopy with BAL in the non-expectorating or immunosuppressed patient; chest X-ray or CT. See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]].
-
-## 0.6 Sweat Chloride Test
-
-**D:** **Pilocarpine iontophoresis** stimulates local sweating; the sweat is collected, weighed and its **chloride** concentration measured. It is the biochemical demonstration of defective CFTR chloride transport.
-
-**Ind:** **A positive newborn screening result** (raised immunoreactive trypsinogen, with or without CFTR variants) — by far the commonest indication in Australia; and the child or, less often, adult with a clinical phenotype: **meconium ileus**, failure to thrive with steatorrhoea, recurrent or persistent respiratory infection and bronchiectasis, nasal polyps in a child, rectal prolapse, salty-tasting skin, **male infertility due to congenital bilateral absence of the vas deferens**, unexplained pancreatitis.
-
-**Role:** **The diagnostic standard for cystic fibrosis**, and the confirmatory test after newborn screening — screening identifies risk, the sweat test makes the diagnosis.
-
-> [!info] **Interpretation — sources agree on all three bands (mmol/L chloride)**
-> - **≤29** — normal; CF unlikely at any age.
-> - **30–59** — **intermediate**; not a negative result. Requires **repeat testing and CFTR genetic analysis**, and specialist assessment. Note that the intermediate band was **lowered from 40–59 to 30–59 for all ages**, so older textbooks and older reports may use the higher cut-off.
-> - **≥60** — consistent with cystic fibrosis; confirm with a second sweat test and genotyping.
-
-> [!warning] **A normal sweat chloride does not entirely exclude CF.** Some CFTR variants — including those in **CFTR-related disorders** and in adults presenting with pancreatitis or infertility — produce normal or intermediate values. If the phenotype is convincing, the next step is **CFTR genetic testing and specialist referral**, not reassurance.
-
-> [!danger] **Do not ignore**
-> - **Inadequate sweat volume is the commonest technical failure**, especially in small or oedematous neonates; the test is generally deferred until the infant is of adequate weight and well hydrated. An insufficient sample is **not a negative result** — it must be repeated.
-> - **False positives** are recognised in malnutrition, untreated adrenal insufficiency, hypothyroidism, eczema and other conditions; the result is interpreted with the clinical picture, not alone.
-> - **The test must be done in an accredited laboratory** with adequate throughput. Sweat testing done occasionally, by inexperienced hands, produces unreliable results — and this is a diagnosis with lifelong consequences.
-> - **A positive result is delivered by a CF service**, with genetic counselling and immediate multidisciplinary involvement — not by phone from a ward.
-
-**Normal/abnormal:** As the three bands above. **Diagnosis requires a compatible clinical picture or positive newborn screen PLUS evidence of CFTR dysfunction** (two sweat chlorides ≥60, or two disease-causing CFTR variants).
-
-**Alt:** **Newborn bloodspot screening** (immunoreactive trypsinogen with reflex CFTR variant panel — the Australian first-line pathway); **CFTR genotyping**; faecal elastase for pancreatic insufficiency; nasal potential difference and intestinal current measurement in specialist centres for equivocal cases.
-
-## 0.7 Tuberculosis Screening (Tuberculin Skin Test / Mantoux, and IGRA)
-
-**D:** Two tests for **immune sensitisation to *M. tuberculosis***, both detecting infection rather than disease. The **tuberculin skin test (TST, Mantoux)** — intradermal purified protein derivative, with the **induration** (not erythema) measured transversely at **48–72 hours**. **IGRA** (interferon-γ release assay, e.g. QuantiFERON, T-SPOT) — a single blood test measuring interferon-γ release by the patient's T cells on exposure to TB-specific antigens.
-
-**Ind:** **Screening for latent TB infection** — contacts of an infectious case; migrants from high-incidence countries; healthcare workers at entry and on surveillance; before starting **TNF-α inhibitors, other biologics, or prolonged corticosteroids/transplant immunosuppression**; HIV; and before **BCG vaccination** in those with exposure risk factors.
-
-**Role:** **Neither test diagnoses active tuberculosis, and neither excludes it.** They identify people who would benefit from latent TB treatment, and they are screening tools only.
-
-> [!info] **How the two differ — the intern-level distinction**
-> - **IGRA uses TB-specific antigens (ESAT-6 and CFP-10) that are absent from BCG** and from most non-tuberculous mycobacteria, so it is **not confounded by prior BCG vaccination**. One visit, no return appointment, no reader variability.
-> - **The TST uses tuberculin — a mixture of roughly 200 antigens shared with BCG strains and with environmental mycobacteria** — so a prior BCG or NTM exposure can make it positive. It requires a return visit at 48–72 hours and a trained reader.
-> - **Despite this, the Australian Immunisation Handbook still specifies the TST as the preferred test before BCG vaccination**, because it is a positive TST (or an accelerated local BCG reaction) that predicts an adverse reaction to the vaccine, and it is not established that IGRA-detected sensitisation carries the same implication.
-
-> [!warning] **Threshold of positivity for the TST depends on the person, not the test.** A smaller induration counts as positive in the immunosuppressed, in HIV, and in close contacts of an infectious case than in a low-risk person. **Specific millimetre cut-offs across all risk groups are not stated here** — they differ between the Australian Immunisation Handbook, state TB service protocols and international guidance, and did not meet the three-source bar. Apply your state TB service's table. Sources do agree that in the pre-BCG context, **an induration of ≥5 mm, or an accelerated BCG reaction, warrants investigation for latent or active TB.**
-
-> [!danger] **Do not ignore**
-> - **Active TB must be excluded before treating latent TB** — treating active disease with latent-TB monotherapy generates resistance. This means **symptom review and a chest X-ray** in everyone who screens positive, and sputum if there is any suggestion of disease.
-> - **Both tests can be falsely negative in exactly the patients who most need them** — advanced HIV, other severe immunosuppression, malnutrition, overwhelming active TB itself, and young children (anergy). **A negative screen in an immunosuppressed contact does not exclude infection.**
-> - **Tuberculosis is a notifiable disease** in every Australian jurisdiction, and contact tracing is managed by the state TB service, not by the treating team alone.
-> - Neither test distinguishes **latent from active**, nor **recent from remote** infection, and neither can be used to monitor treatment response.
-
-**Normal/abnormal:** TST reported as **millimetres of induration**, interpreted against a risk-stratified threshold. IGRA reported as **positive, negative, or indeterminate** — an **indeterminate** result usually reflects failure of the internal mitogen control and points to immunosuppression or a specimen-handling problem; it is not a negative and should be repeated or replaced with the other test.
-
-**Alt:** **Chest X-ray** (mandatory in anyone screening positive); **sputum for acid-fast bacilli, mycobacterial culture and nucleic acid amplification testing** where active disease is suspected — these are the tests for active TB, not the screens above; CT chest; tissue biopsy with culture and histology for extrapulmonary disease. See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]].
-
-## 0.8 V/Q Scan (Ventilation–Perfusion Scintigraphy, including V/Q SPECT)
-
-**D:** A nuclear medicine study pairing an inhaled ventilation agent with intravenous **technetium-99m macroaggregated albumin** for perfusion, looking for regions that are **ventilated but not perfused** — the **mismatched defect** of pulmonary embolism. Perfusion-only imaging may be used where ventilation imaging is impractical.
-
-**Ind:** Suspected **pulmonary embolism** where CTPA is unsuitable or undesirable: **contrast allergy**, **significant renal impairment**, and — the indication that matters most in practice — **pregnancy** and young women, where breast radiation dose is the concern. Also used in chronic thromboembolic pulmonary hypertension and in pre-operative lung resection planning.
-
-**Role:** The principal **alternative to CTPA**, not a replacement for it. CTPA remains first-line in most patients because it is faster, more available out of hours, and diagnoses alternative pathology.
-
-> [!warning] **It performs well only in a clear chest.** A V/Q scan requires a **normal or near-normal chest X-ray** to be interpretable — any parenchymal abnormality (consolidation, effusion, COPD, prior PE) produces matched defects and a non-diagnostic result. **Get the chest X-ray first**; if it is abnormal, the answer is usually CTPA.
-
-> [!info] **In pregnancy the choice is a dose trade-off, not a right answer**
-> Sources consistently describe: **V/Q delivers a higher fetal dose**, **CTPA delivers a higher maternal breast and lung dose**. Both are **far below the threshold associated with fetal harm**, and the risk of an untreated PE greatly exceeds the radiation risk of either. **The unacceptable option is not imaging at all.** Bilateral leg ultrasound first is reasonable where there are leg symptoms — a positive result treats the patient and avoids chest imaging altogether. Local protocol and the chest X-ray decide between the two; **specific millisievert figures are omitted** as the retrieved values varied with technique and did not meet the three-source bar.
-
-> [!danger] **Do not ignore**
-> - **D-dimer and pre-test probability come first in the non-pregnant patient.** Imaging a low-probability patient with a negative D-dimer generates false positives and incidental findings.
-> - **The report is probabilistic** — the older reporting scheme returns "high / intermediate / low probability" or "normal", and **an intermediate-probability scan does not answer the question**; it commits the patient to further imaging. Modern **V/Q SPECT** reporting is more often binary (PE present/absent) with fewer non-diagnostic studies.
-> - **A high-probability scan in a low-probability patient, or a low-probability scan in a high-probability patient, must be reconciled** — do not discharge a patient with a strong clinical picture on a low-probability scan alone.
-> - **Anticoagulate while awaiting imaging** if clinical suspicion is high and there is no contraindication.
-> - **Massive PE with haemodynamic instability does not go to nuclear medicine.** That patient needs bedside echocardiography and immediate consideration of thrombolysis.
-
-**Normal/abnormal:** A **normal perfusion scan effectively excludes pulmonary embolism.** A **mismatched segmental perfusion defect with preserved ventilation** is the positive finding. **Matched** defects indicate parenchymal disease, not PE.
-
-**Alt:** **CTPA** — first-line for most patients, and diagnoses alternative causes of the presentation; **bilateral leg compression ultrasound** (a positive result establishes VTE and treats the patient without chest imaging — particularly valuable in pregnancy); **D-dimer** with a validated pre-test probability score; **echocardiography** at the bedside for right heart strain in the unstable patient; catheter pulmonary angiography, now rarely used. See [[02_Respiratory]].
-
----
-
-## Build status
-
-| # | Item | Built | Notes |
-|---|---|---|---|
-| 0.1 | Nasopharyngeal Swab | yes | |
-| 0.2 | Pulmonary Function Tests | yes | Reversibility threshold: **sources conflict** (≥12% + 200 mL vs 2022 ATS/ERS >10% predicted). Both stated, neither asserted. |
-| 0.3 | Pulse Oximetry | yes | Oxygen target bands omitted — jurisdiction-specific. |
-| 0.4 | Sleep Studies | yes | |
-| 0.5 | Sputum Culture | yes | |
-| 0.6 | Sweat Chloride Test | yes | |
-| 0.7 | Tuberculosis Screening | yes | TST mm cut-offs by risk group omitted — did not meet three-source bar. |
-| 0.8 | V/Q Scan | yes | Radiation dose figures in mSv omitted — did not meet three-source bar. |
-
-**Items in file: 8. Build-list Respiratory investigation items: 8. Complete.**
-
-
-<!-- ===== SOURCE: NEW_Respiratory.md ===== -->
-
-
-# NEW — Respiratory
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **This file contains the built Tier 1 topic and both Tier 2 topics.** The category has 2 T1 (one built, one skipped on a header match — see below), 2 T2 (both built) and 14 T3 (not built). See the build-status table at the end.
-
-> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `Acute Dyspnoea`, verbatim, beside that file's own account of the same presentation.**
-
-## Acute Cough
-
-- **DDx:**
-  - **Serious causes not to miss:** **pneumonia**, **pulmonary embolism** (cough and pleuritic pain may be the only features), **heart failure**, **inhaled foreign body** (**sudden onset in a child, or in an adult with impaired swallow or reduced consciousness — a unilateral wheeze or persistently focal signs after a choking episode**), **anaphylaxis**, **acute asthma**, **pneumothorax**, **lung cancer presenting acutely**, **tuberculosis** (consider in those born overseas, close contacts, immunosuppressed and Aboriginal and Torres Strait Islander communities in some regions), **pertussis** (paroxysmal cough with whoop or post-tussive vomiting, notifiable, and a risk to unimmunised infants).
-  - **Common:** upper respiratory tract infection, acute bronchitis, **COPD or asthma exacerbation**, post-nasal drip/upper airway cough syndrome, sinusitis, croup in a child, **COVID-19, influenza and RSV**, aspiration.
-  - **Non-respiratory:** **gastro-oesophageal reflux**, **ACE inhibitor cough** (may begin weeks to months after starting the drug, which is why it is missed), cardiac failure, and habit or tic cough in children.
-- **Focused Hx:** duration (**and whether this is genuinely acute — beyond about 8 weeks it becomes chronic cough with a different differential**); **productive or dry, sputum colour and volume**; **haemoptysis**; **fever, rigors, pleuritic chest pain, dyspnoea**; **choking or aspiration event, and any change of voice**; wheeze; **coryzal and systemic symptoms**; **contacts, childcare and outbreaks; travel; occupational and bird exposure**; smoking and vaping; **immunisation status — pertussis, influenza, COVID-19, pneumococcal**; **ACE inhibitor use**; reflux symptoms; known asthma or COPD with inhaler use and previous exacerbations; immunosuppression; **weight loss, night sweats and a cough that has changed character** (malignancy and TB).
-- **Examination:** **vital signs including respiratory rate, SpO₂ and temperature**; work of breathing and ability to speak in sentences; **listen to the cough itself** (barking in croup, paroxysmal with whoop in pertussis, bovine with recurrent laryngeal nerve palsy); ENT examination for post-nasal drip and tonsillar disease; **chest examination for focal signs, wheeze, crackles, effusion and unilaterally reduced air entry** (foreign body); cardiac examination and volume status; **lymph nodes and clubbing**; and, in a child, careful assessment for stridor and respiratory distress.
-- **First-line Ix:** **most acute cough with a clear viral cause and normal observations needs no investigation, and this is the appropriate answer** rather than a reflex chest X-ray. Where indicated: **chest X-ray** (focal signs, haemoptysis, systemic illness, suspected malignancy or TB, failure to improve); **FBC, CRP, UEC**; **respiratory virus and pertussis PCR**; **sputum culture and, where TB is suspected, sputum for acid-fast bacilli and mycobacterial culture with respiratory isolation**; **blood cultures if febrile and unwell**; **peak flow or spirometry** where asthma is likely; **D-dimer within a pretest-probability pathway and CTPA** where PE is suspected; **echocardiography and BNP** where heart failure is possible; **bronchoscopy** for suspected inhaled foreign body — **and in a child with a witnessed choking episode, a normal chest X-ray does not exclude one**, because most aspirated objects are radiolucent.
-
-> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `Acute Stridor`, verbatim, beside that file's own account of the same presentation.**
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 2 | **1 built** (Acute Dyspnoea) · **1 skipped on a header match** (Stridor — see below) |
-| **T2** | 2 | **Both built** — Acute Cough, Acute Stridor |
-| T3 | 14 | Not built |
-
-## Topics skipped in this category
-
-| Topic | Tier | Matched header | File | Match type |
-|---|---|---|---|---|
-| **Stridor** | **T1** | `## Stridor — overview` **and** `## Stridor — differential diagnosis` | `13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA.md` and `15_04a_Paeds_-_URTI_and_LRTI.md` | Partial — matched in two files |
-| **Cough** | T3 | `## Cough` | `History-Taking.md` | Exact |
-| **Haemoptysis** | T3 | `## Haemoptysis` | `History-Taking.md` | Exact |
-| **Wheeze** | T3 | `## Wheeze (history context)` | `History-Taking.md` | Exact |
-| **Snoring** | T3 | `## Primary (simple) snoring` | `13_05b_ENT_-_Stridor...` | Partial |
-
-> [!warning] **`Stridor` is a Tier 1 topic that was skipped, so flag it for your review specifically.** It matched two existing headers — an overview and a differential diagnosis, in an ENT file and a paediatric file. Under the header-check rule it is a skip. But it is **the only T1 topic skipped on a partial rather than an exact match**, and if those two existing entries do not carry the airway-emergency assessment (recognition, escalation, what not to do to a child with stridor), then the T1 build product is genuinely missing and I should build it. **I have not overruled the check — this is yours to decide.**
 
 
 <!-- ===== SOURCE: RESP-X_Occupational_and_Chronic_Lung_Disease.md ===== -->
@@ -1543,3 +1114,432 @@ Treat the underlying cause where identified, and establish the maintenance regim
 
 > [!note] Cross-references
 > Asthma and COPD → [[F0.5]] 0.1 · Acute respiratory failure and oxygen targets → [[A3]] · Dyspnoea, cough, haemoptysis and the solitary pulmonary nodule → [[A4]] · Pneumonia and melioidosis → [[F0.5]] 0.4 · Tuberculosis → [[K3]] 0.3 · Immunodeficiency and CVID → [[K3]] 0.5 · Allergy and ABPA → [[K4]] · Connective tissue disease-associated ILD and myositis → [[L2]] 0.4 · Methotrexate pneumonitis → [[L2]] 0.2 · Checkpoint inhibitor pneumonitis → [[A5]] 0.7 · Sarcoid hypercalcaemia → [[I3]] 0.2 · Resistant hypertension and OSA → [[B2]] 0.4 · Neuromuscular respiratory failure and FVC monitoring → [[D4]] 0.5 and [[F0.5]] 0.5 · Perioperative assessment in OSA → [[AN1]] · Certification, compensation and fitness for work → [[A10]] 0.6 and [[L6]] 0.5 · Advance care planning and refractory breathlessness → [[GER2]] 0.5–0.6 · Paediatric chronic wet cough → [[M2]] · Aboriginal and Torres Strait Islander respiratory health → [[AU1]]
+
+<!-- ===== SOURCE: NEW_Respiratory.md ===== -->
+
+
+# NEW — Respiratory
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains the built Tier 1 topic and both Tier 2 topics.** The category has 2 T1 (one built, one skipped on a header match — see below), 2 T2 (both built) and 14 T3 (not built). See the build-status table at the end.
+
+> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `Acute Dyspnoea`, verbatim, beside that file's own account of the same presentation.**
+
+## Acute Cough
+
+- **DDx:**
+  - **Serious causes not to miss:** **pneumonia**, **pulmonary embolism** (cough and pleuritic pain may be the only features), **heart failure**, **inhaled foreign body** (**sudden onset in a child, or in an adult with impaired swallow or reduced consciousness — a unilateral wheeze or persistently focal signs after a choking episode**), **anaphylaxis**, **acute asthma**, **pneumothorax**, **lung cancer presenting acutely**, **tuberculosis** (consider in those born overseas, close contacts, immunosuppressed and Aboriginal and Torres Strait Islander communities in some regions), **pertussis** (paroxysmal cough with whoop or post-tussive vomiting, notifiable, and a risk to unimmunised infants).
+  - **Common:** upper respiratory tract infection, acute bronchitis, **COPD or asthma exacerbation**, post-nasal drip/upper airway cough syndrome, sinusitis, croup in a child, **COVID-19, influenza and RSV**, aspiration.
+  - **Non-respiratory:** **gastro-oesophageal reflux**, **ACE inhibitor cough** (may begin weeks to months after starting the drug, which is why it is missed), cardiac failure, and habit or tic cough in children.
+- **Focused Hx:** duration (**and whether this is genuinely acute — beyond about 8 weeks it becomes chronic cough with a different differential**); **productive or dry, sputum colour and volume**; **haemoptysis**; **fever, rigors, pleuritic chest pain, dyspnoea**; **choking or aspiration event, and any change of voice**; wheeze; **coryzal and systemic symptoms**; **contacts, childcare and outbreaks; travel; occupational and bird exposure**; smoking and vaping; **immunisation status — pertussis, influenza, COVID-19, pneumococcal**; **ACE inhibitor use**; reflux symptoms; known asthma or COPD with inhaler use and previous exacerbations; immunosuppression; **weight loss, night sweats and a cough that has changed character** (malignancy and TB).
+- **Examination:** **vital signs including respiratory rate, SpO₂ and temperature**; work of breathing and ability to speak in sentences; **listen to the cough itself** (barking in croup, paroxysmal with whoop in pertussis, bovine with recurrent laryngeal nerve palsy); ENT examination for post-nasal drip and tonsillar disease; **chest examination for focal signs, wheeze, crackles, effusion and unilaterally reduced air entry** (foreign body); cardiac examination and volume status; **lymph nodes and clubbing**; and, in a child, careful assessment for stridor and respiratory distress.
+- **First-line Ix:** **most acute cough with a clear viral cause and normal observations needs no investigation, and this is the appropriate answer** rather than a reflex chest X-ray. Where indicated: **chest X-ray** (focal signs, haemoptysis, systemic illness, suspected malignancy or TB, failure to improve); **FBC, CRP, UEC**; **respiratory virus and pertussis PCR**; **sputum culture and, where TB is suspected, sputum for acid-fast bacilli and mycobacterial culture with respiratory isolation**; **blood cultures if febrile and unwell**; **peak flow or spirometry** where asthma is likely; **D-dimer within a pretest-probability pathway and CTPA** where PE is suspected; **echocardiography and BNP** where heart failure is possible; **bronchoscopy** for suspected inhaled foreign body — **and in a child with a witnessed choking episode, a normal chest X-ray does not exclude one**, because most aspirated objects are radiolucent.
+
+> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `Acute Stridor`, verbatim, beside that file's own account of the same presentation.**
+
+## Build status of this file
+
+| Tier | Count | Status |
+|---|---|---|
+| **T1** | 2 | **1 built** (Acute Dyspnoea) · **1 skipped on a header match** (Stridor — see below) |
+| **T2** | 2 | **Both built** — Acute Cough, Acute Stridor |
+| T3 | 14 | Not built |
+
+## Topics skipped in this category
+
+| Topic | Tier | Matched header | File | Match type |
+|---|---|---|---|---|
+| **Stridor** | **T1** | `## Stridor — overview` **and** `## Stridor — differential diagnosis` | `13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA.md` and `15_04a_Paeds_-_URTI_and_LRTI.md` | Partial — matched in two files |
+| **Cough** | T3 | `## Cough` | `History-Taking.md` | Exact |
+| **Haemoptysis** | T3 | `## Haemoptysis` | `History-Taking.md` | Exact |
+| **Wheeze** | T3 | `## Wheeze (history context)` | `History-Taking.md` | Exact |
+| **Snoring** | T3 | `## Primary (simple) snoring` | `13_05b_ENT_-_Stridor...` | Partial |
+
+> [!warning] **`Stridor` is a Tier 1 topic that was skipped, so flag it for your review specifically.** It matched two existing headers — an overview and a differential diagnosis, in an ENT file and a paediatric file. Under the header-check rule it is a skip. But it is **the only T1 topic skipped on a partial rather than an exact match**, and if those two existing entries do not carry the airway-emergency assessment (recognition, escalation, what not to do to a child with stridor), then the T1 build product is genuinely missing and I should build it. **I have not overruled the check — this is yours to decide.**
+
+
+<!-- ===== SOURCE: NEW_Investigations_Respiratory.md ===== -->
+
+
+# NEW — Investigations: Respiratory
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay- and laboratory-dependent values are **omitted with the omission stated in place**.
+
+---
+
+## 0.2 Pulmonary Function Tests (Spirometry, Lung Volumes, DLCO)
+
+**D:** Three linked tests, usually reported together. **Spirometry** measures flow and volume on a forced expiration — **FEV₁**, **FVC**, and the **FEV₁/FVC ratio**. **Lung volumes** (body plethysmography or gas dilution) add **TLC** and **RV**, which spirometry cannot measure. **DLCO** (diffusing capacity for carbon monoxide, also written **TLCO**) measures gas transfer across the alveolar–capillary membrane.
+
+**Ind:** Diagnosis and severity assessment of **asthma and COPD**; unexplained chronic breathlessness or cough; suspected interstitial lung disease; occupational lung disease surveillance; pre-operative assessment before thoracic surgery; monitoring of neuromuscular disease and of drug lung toxicity (bleomycin, amiodarone).
+
+**Role:** **The test that separates obstruction from restriction**, and the reason a breathless patient's label is more than a guess.
+
+> [!info] **Reading the pattern — the whole point of the test**
+> - **Obstructive:** **FEV₁/FVC ratio reduced.** FEV₁ falls more than FVC. Asthma, COPD, bronchiectasis, bronchiolitis.
+> - **Restrictive:** **ratio normal or increased, with a reduced TLC.** FEV₁ and FVC fall together. **Restriction cannot be diagnosed on spirometry alone** — a reduced FVC with a normal ratio only *suggests* it; **TLC is what confirms it**, and this is a very common intern-level error.
+> - **DLCO separates the causes further:** reduced in **emphysema** and in **interstitial lung disease**; **normal or high** in chest-wall and neuromuscular restriction (the lung parenchyma is intact); **reduced** in pulmonary vascular disease with otherwise near-normal spirometry.
+
+> [!warning] **Bronchodilator reversibility — the threshold has changed, and sources disagree.**
+> The long-standing and still widely quoted criterion is an increase in FEV₁ (or FVC) of **≥12% *and* ≥200 mL** from baseline after a bronchodilator. The **2022 ATS/ERS interpretation update** replaced this with a change of **>10% of the predicted value** for FEV₁ or FVC, on the grounds that a percentage-of-baseline threshold is biased against patients with low baseline values.
+> **Both are in current use, and reports may quote either.** Read which definition your laboratory's report applies rather than assuming. Neither is stated here as *the* threshold, because the sources genuinely conflict.
+> **Both criteria above are ADULT criteria, and the absolute ≥200 mL component is the part that does not transfer.** A child's whole FEV₁ may be little more than a litre, so a fixed 200 mL requirement is a far larger relative change in a child than in an adult and will under-diagnose reversibility in small lungs. **Paediatric interpretation uses the percentage criterion**, and paediatric spirometry is read against age-, height- and sex-specific predicted values throughout — never against an adult absolute volume.
+
+> [!danger] **Do not ignore**
+> - **Reversibility is supportive, not definitive.** A negative reversibility test **does not exclude asthma** — the patient may simply not be obstructed on the day, or may be well controlled. Conversely, some COPD shows reversibility.
+> - **Spirometry is effort-dependent.** A poor-quality trace can manufacture a restrictive pattern out of nothing. Look for the technician's quality comment before interpreting.
+> - **Persistent airflow obstruction after bronchodilator, in a smoker over 35 with breathlessness, is COPD** — spirometry is required to make the diagnosis, and diagnosing COPD without it is not acceptable.
+> - **DLCO must be corrected for haemoglobin.** Anaemia lowers it and polycythaemia raises it independently of the lungs; an uncorrected value in an anaemic patient can look like interstitial disease.
+
+**Normal/abnormal:** Interpreted against **predicted values for age, sex and height** (and, in current practice, race-neutral reference equations), reported as percent predicted and as a **z-score / lower limit of normal**. **Fixed cut-off ratios are deliberately not stated here** — the fixed 0.7 ratio over-diagnoses obstruction in the elderly and under-diagnoses it in the young, which is precisely why LLN-based reporting exists.
+
+**Alt:** **Peak expiratory flow** (bedside and home monitoring, effort-dependent, useful for variability rather than diagnosis); bronchial provocation testing where spirometry is normal but asthma is still suspected; **FeNO** for eosinophilic airway inflammation; chest imaging and **HRCT** for parenchymal disease; arterial blood gas; six-minute walk test for functional capacity and exertional desaturation. See [[02_Respiratory]].
+
+## 0.3 Pulse Oximetry (SpO₂)
+
+**D:** A non-invasive probe measuring absorption at two wavelengths across a pulsatile vascular bed to estimate the proportion of haemoglobin that is oxygenated — **functional** saturation, calculated as oxyhaemoglobin over the sum of oxyhaemoglobin and deoxyhaemoglobin.
+
+**Ind:** Universal. Part of every set of observations; continuous monitoring in acute illness, post-operatively, during sedation and procedures, and in oxygen titration.
+
+**Role:** The **fifth vital sign** — a continuous, painless, immediately available surrogate for oxygenation.
+
+> [!danger] **It measures oxygenation only. It does not measure ventilation.**
+> A patient retaining CO₂ on supplemental oxygen can have a **completely normal SpO₂ while becoming acidotic and drowsy**. This is the single most dangerous misuse of the number. If ventilation is the clinical question — opioid toxicity, COPD on oxygen, neuromuscular weakness, reduced conscious state — **the test is a blood gas, not the oximeter.**
+
+> [!warning] **The failure modes an intern must know**
+> - **Skin pigmentation.** Sources consistently report that pulse oximeters **overestimate** arterial saturation in patients with darker skin, with a pooled mean bias of roughly **1–2%** and, importantly, a **higher rate of occult hypoxaemia** — a true SaO₂ below 88% while the oximeter reads 92–96%. The bias is largest at low saturations. **In a patient with darker skin and a borderline reading, take the blood gas.**
+> - **Carbon monoxide poisoning.** Carboxyhaemoglobin absorbs similarly to oxyhaemoglobin: the oximeter reads **falsely high, often a normal-looking value in a severely poisoned patient**. Suspected CO poisoning requires **co-oximetry on a blood gas**, and an SpO₂ of 99% is not reassuring.
+> - **Methaemoglobinaemia.** Drives the reading **towards ~85% and holds it there**, regardless of the true saturation — the classic "saturation gap" between a low SpO₂ and a normal PaO₂. See [[10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia]].
+> - **Poor signal:** shock, vasoconstriction, hypothermia, severe anaemia, movement, and nail polish or artificial nails. A poor trace is a reason to move the probe (ear, other digit), not to accept the number.
+
+> [!tip] **Always look at the plethysmographic waveform before believing the value.** A number without a clean pulsatile trace is not a measurement.
+
+**Normal/abnormal:** Target ranges are condition-specific and set by local guidance — notably a **lower target range in patients at risk of hypercapnic respiratory failure** (COPD, obesity hypoventilation, neuromuscular disease), where over-oxygenation is itself harmful. **Specific target bands are not stated here** because they differ between Australian jurisdictional oxygen policies; use your hospital's oxygen prescribing chart, which specifies the target range and requires it to be written.
+
+**Alt:** **Arterial blood gas** — the reference standard, and the only test that gives PaCO₂, pH and (with co-oximetry) dyshaemoglobin fractions; venous gas for pH and CO₂ trend where arterial sampling is difficult; **transcutaneous CO₂** monitoring in selected settings; end-tidal CO₂ in the ventilated or sedated patient.
+
+## 0.8 V/Q Scan (Ventilation–Perfusion Scintigraphy, including V/Q SPECT)
+
+**D:** A nuclear medicine study pairing an inhaled ventilation agent with intravenous **technetium-99m macroaggregated albumin** for perfusion, looking for regions that are **ventilated but not perfused** — the **mismatched defect** of pulmonary embolism. Perfusion-only imaging may be used where ventilation imaging is impractical.
+
+**Ind:** Suspected **pulmonary embolism** where CTPA is unsuitable or undesirable: **contrast allergy**, **significant renal impairment**, and — the indication that matters most in practice — **pregnancy** and young women, where breast radiation dose is the concern. Also used in chronic thromboembolic pulmonary hypertension and in pre-operative lung resection planning.
+
+**Role:** The principal **alternative to CTPA**, not a replacement for it. CTPA remains first-line in most patients because it is faster, more available out of hours, and diagnoses alternative pathology.
+
+> [!warning] **It performs well only in a clear chest.** A V/Q scan requires a **normal or near-normal chest X-ray** to be interpretable — any parenchymal abnormality (consolidation, effusion, COPD, prior PE) produces matched defects and a non-diagnostic result. **Get the chest X-ray first**; if it is abnormal, the answer is usually CTPA.
+
+> [!info] **In pregnancy the choice is a dose trade-off, not a right answer**
+> Sources consistently describe: **V/Q delivers a higher fetal dose**, **CTPA delivers a higher maternal breast and lung dose**. Both are **far below the threshold associated with fetal harm**, and the risk of an untreated PE greatly exceeds the radiation risk of either. **The unacceptable option is not imaging at all.** Bilateral leg ultrasound first is reasonable where there are leg symptoms — a positive result treats the patient and avoids chest imaging altogether. Local protocol and the chest X-ray decide between the two; **specific millisievert figures are omitted** as the retrieved values varied with technique and did not meet the three-source bar.
+
+> [!danger] **Do not ignore**
+> - **D-dimer and pre-test probability come first in the non-pregnant patient.** Imaging a low-probability patient with a negative D-dimer generates false positives and incidental findings.
+> - **The report is probabilistic** — the older reporting scheme returns "high / intermediate / low probability" or "normal", and **an intermediate-probability scan does not answer the question**; it commits the patient to further imaging. Modern **V/Q SPECT** reporting is more often binary (PE present/absent) with fewer non-diagnostic studies.
+> - **A high-probability scan in a low-probability patient, or a low-probability scan in a high-probability patient, must be reconciled** — do not discharge a patient with a strong clinical picture on a low-probability scan alone.
+> - **Anticoagulate while awaiting imaging** if clinical suspicion is high and there is no contraindication.
+> - **Massive PE with haemodynamic instability does not go to nuclear medicine.** That patient needs bedside echocardiography and immediate consideration of thrombolysis.
+
+**Normal/abnormal:** A **normal perfusion scan effectively excludes pulmonary embolism.** A **mismatched segmental perfusion defect with preserved ventilation** is the positive finding. **Matched** defects indicate parenchymal disease, not PE.
+
+**Alt:** **CTPA** — first-line for most patients, and diagnoses alternative causes of the presentation; **bilateral leg compression ultrasound** (a positive result establishes VTE and treats the patient without chest imaging — particularly valuable in pregnancy); **D-dimer** with a validated pre-test probability score; **echocardiography** at the bedside for right heart strain in the unstable patient; catheter pulmonary angiography, now rarely used. See [[02_Respiratory]].
+
+---
+
+## 0.1 Nasopharyngeal Swab (Respiratory Virus / Atypical PCR)
+
+**D:** A flocked swab passed along the **floor of the nose, parallel to the palate**, to the posterior nasopharynx — **not** angled upwards into the bridge of the nose — held in place for several seconds, rotated, and withdrawn into viral transport medium. A **nasopharyngeal aspirate** is the paediatric equivalent where a swab is poorly tolerated.
+
+**Ind:** Suspected influenza, COVID-19, RSV or other respiratory viral infection where the result changes management — **antiviral eligibility, isolation and cohorting, exclusion from work in a health or aged-care setting, admission-avoidance decisions**; bronchiolitis where cohorting matters; suspected pertussis; atypical pneumonia (*Mycoplasma*, *Chlamydia*, *Legionella* — though **urinary antigen** is the usual *Legionella* test, see [[NEW_Investigations_Infectious_Diseases]]).
+
+**Role:** **Multiplex respiratory PCR** has replaced viral culture and antigen testing for almost all purposes: it is sensitive, returns within hours in most hospitals, and covers influenza A/B, RSV, SARS-CoV-2, and a panel of other viruses and atypicals in a single specimen.
+
+> [!warning] **Sampling depth is the commonest reason for a false negative.** A swab that samples the anterior nares only is a **nasal** swab, not a nasopharyngeal one, and is materially less sensitive for influenza and RSV. If a patient barely reacts, the swab probably did not reach the nasopharynx.
+
+> [!tip] **Timing matters as much as technique.** Viral shedding is highest early. A swab taken late in the illness — or after antivirals have started — can be negative in a patient who genuinely had the infection. **A negative respiratory PCR in a patient with a compatible syndrome does not overrule the clinical picture**; treat the patient, not the swab.
+
+> [!danger] **Do not ignore**
+> - **A positive result does not exclude a bacterial co-infection.** Influenza with secondary *Staphylococcus aureus* or pneumococcal pneumonia is a classic deteriorating-after-improving pattern and is lethal. A positive viral PCR in a patient with consolidation, high inflammatory markers or septic shock is not a reason to withhold antibiotics.
+> - **Do not delay empirical treatment or isolation waiting for the swab.** Both are clinical decisions.
+> - **Suspected pertussis:** PCR is most useful in the **first 2–3 weeks of cough**; later in the illness the organism has usually cleared and serology becomes the test — discuss with the laboratory rather than assuming a negative PCR excludes it.
+
+**Normal/abnormal:** Qualitative — organism detected or not detected. **Cycle-threshold values are not a viral load and should not be reported to clinicians as one**; they are assay-dependent and are not used for intern-level decisions.
+
+**Alt:** Sputum or lower-respiratory specimen where there is productive cough or the patient is intubated (a **tracheal aspirate or BAL** is the better specimen in a ventilated patient); blood cultures; *Legionella* and pneumococcal **urinary antigen**; chest X-ray; serology for pertussis late in the illness.
+
+## 0.5 Sputum Culture (with Gram Stain and Microscopy)
+`CF-PAIR` **The general specimen-collection and culture-interpretation account is `§1.18 Blood Cultures and Microbiology Basics`, co-located into `[[Infectious Disease_merged]]` beside `§0.1 Gram Stain` and `§0.2 Microbiology Panel` on 2026-09-01. Sputum culture stays here because it is respiratory. Both kept in full, NOT reconciled.**
+
+**D:** Expectorated lower-respiratory secretions examined by **Gram stain and microscopy**, then cultured with susceptibility testing. In a ventilated patient the equivalent specimens are a **tracheal aspirate** or **bronchoalveolar lavage**.
+
+**Ind:** **Severe or hospital-acquired pneumonia**; failure to respond to empirical therapy; suspected resistant organism or prior resistant isolate; **bronchiectasis** and **cystic fibrosis** (where colonising organisms, notably *Pseudomonas aeruginosa*, direct long-term management); suspected **tuberculosis** (a different, specific request — see 0.7); immunosuppression.
+
+**Role:** Narrows empirical antibiotics to targeted therapy. **It is not indicated in uncomplicated community-acquired pneumonia managed in the community**, where empirical treatment is the standard and the yield does not change management.
+
+> [!warning] **Specimen quality determines whether the result means anything, and the laboratory screens for it.**
+> Microscopy is used to distinguish lower-respiratory secretions from saliva by counting **squamous epithelial cells** and **polymorphs** per low-power field. Sources agree on the general standard: **a good specimen has few squamous cells (<10/LPF) with abundant polymorphs; a specimen with >25 squamous cells/LPF is oropharyngeal contamination and is rejected.** A "sputum" specimen that is saliva grows normal oral flora and produces a plausible-looking, entirely misleading report.
+> **Practical consequence:** ask for a **deep cough first thing in the morning**, use physiotherapy or nebulised saline induction if the patient cannot produce one, and **do not send saliva.**
+
+> [!danger] **Do not ignore**
+> - **Take blood cultures and the sputum specimen BEFORE the first antibiotic dose** — but **do not delay antibiotics in sepsis to obtain them.** Antibiotics markedly reduce yield.
+> - **Growth is not infection.** *Candida* from sputum is essentially always colonisation and should not be treated. Upper-airway flora in a poor specimen means nothing. Interpret every isolate against the patient.
+> - **Suspected TB must be requested explicitly.** Routine culture does not detect mycobacteria — see 0.7.
+> - **Frank haemoptysis, weight loss or a smoking history changes the question** from infection to malignancy and TB; sputum cytology is a poor test for lung cancer and imaging is the correct next step.
+
+**Normal/abnormal:** Reported as specimen quality, Gram stain appearance, organism(s) grown, and susceptibilities. A **predominant organism in a good-quality specimen with matching Gram stain morphology** is the result that should change therapy.
+
+**Alt:** **Blood cultures**; *Legionella* and pneumococcal **urinary antigen**; **respiratory PCR panel** (0.1); pleural fluid sampling where an effusion is present; bronchoscopy with BAL in the non-expectorating or immunosuppressed patient; chest X-ray or CT. See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]].
+
+## 0.7 Tuberculosis Screening (Tuberculin Skin Test / Mantoux, and IGRA)
+
+**D:** Two tests for **immune sensitisation to *M. tuberculosis***, both detecting infection rather than disease. The **tuberculin skin test (TST, Mantoux)** — intradermal purified protein derivative, with the **induration** (not erythema) measured transversely at **48–72 hours**. **IGRA** (interferon-γ release assay, e.g. QuantiFERON, T-SPOT) — a single blood test measuring interferon-γ release by the patient's T cells on exposure to TB-specific antigens.
+
+**Ind:** **Screening for latent TB infection** — contacts of an infectious case; migrants from high-incidence countries; healthcare workers at entry and on surveillance; before starting **TNF-α inhibitors, other biologics, or prolonged corticosteroids/transplant immunosuppression**; HIV; and before **BCG vaccination** in those with exposure risk factors.
+
+**Role:** **Neither test diagnoses active tuberculosis, and neither excludes it.** They identify people who would benefit from latent TB treatment, and they are screening tools only.
+
+> [!info] **How the two differ — the intern-level distinction**
+> - **IGRA uses TB-specific antigens (ESAT-6 and CFP-10) that are absent from BCG** and from most non-tuberculous mycobacteria, so it is **not confounded by prior BCG vaccination**. One visit, no return appointment, no reader variability.
+> - **The TST uses tuberculin — a mixture of roughly 200 antigens shared with BCG strains and with environmental mycobacteria** — so a prior BCG or NTM exposure can make it positive. It requires a return visit at 48–72 hours and a trained reader.
+> - **Despite this, the Australian Immunisation Handbook still specifies the TST as the preferred test before BCG vaccination**, because it is a positive TST (or an accelerated local BCG reaction) that predicts an adverse reaction to the vaccine, and it is not established that IGRA-detected sensitisation carries the same implication.
+
+> [!warning] **Threshold of positivity for the TST depends on the person, not the test.** A smaller induration counts as positive in the immunosuppressed, in HIV, and in close contacts of an infectious case than in a low-risk person. **Specific millimetre cut-offs across all risk groups are not stated here** — they differ between the Australian Immunisation Handbook, state TB service protocols and international guidance, and did not meet the three-source bar. Apply your state TB service's table. Sources do agree that in the pre-BCG context, **an induration of ≥5 mm, or an accelerated BCG reaction, warrants investigation for latent or active TB.**
+
+> [!danger] **Do not ignore**
+> - **Active TB must be excluded before treating latent TB** — treating active disease with latent-TB monotherapy generates resistance. This means **symptom review and a chest X-ray** in everyone who screens positive, and sputum if there is any suggestion of disease.
+> - **Both tests can be falsely negative in exactly the patients who most need them** — advanced HIV, other severe immunosuppression, malnutrition, overwhelming active TB itself, and young children (anergy). **A negative screen in an immunosuppressed contact does not exclude infection.**
+> - **Tuberculosis is a notifiable disease** in every Australian jurisdiction, and contact tracing is managed by the state TB service, not by the treating team alone.
+> - Neither test distinguishes **latent from active**, nor **recent from remote** infection, and neither can be used to monitor treatment response.
+
+**Normal/abnormal:** TST reported as **millimetres of induration**, interpreted against a risk-stratified threshold. IGRA reported as **positive, negative, or indeterminate** — an **indeterminate** result usually reflects failure of the internal mitogen control and points to immunosuppression or a specimen-handling problem; it is not a negative and should be repeated or replaced with the other test.
+
+**Alt:** **Chest X-ray** (mandatory in anyone screening positive); **sputum for acid-fast bacilli, mycobacterial culture and nucleic acid amplification testing** where active disease is suspected — these are the tests for active TB, not the screens above; CT chest; tissue biopsy with culture and histology for extrapulmonary disease. See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]].
+
+## 0.4 Sleep Studies (Polysomnography, Home Sleep Apnoea Testing)
+
+**D:** **Level 1 polysomnography** — attended, in-laboratory, recording EEG, EOG, EMG, ECG, airflow, thoracoabdominal effort, oximetry and body position. **Home sleep apnoea testing** (unattended, limited-channel) records a reduced set, typically airflow, effort, oximetry and heart rate, without EEG.
+
+**Ind:** Suspected **obstructive sleep apnoea** — habitual snoring with witnessed apnoeas, unrefreshing sleep, excessive daytime sleepiness; unexplained daytime somnolence; treatment-resistant hypertension, nocturnal arrhythmia or right heart failure; assessment for **fitness to drive**, particularly commercial drivers; suspected central sleep apnoea or obesity hypoventilation; suspected narcolepsy or parasomnia (**laboratory study required** — a home test cannot assess these, as it does not record sleep).
+
+**Role:** Confirms the diagnosis and grades the severity that determines whether treatment is funded and indicated.
+
+> [!info] **AHI — apnoea–hypopnoea index, events per hour of sleep**
+> Sources agree on: **normal <5**, **mild 5–15**, **moderate 15–30**, **severe >30 events/h**. (Boundary conventions differ trivially between sources — some write mild 5–15 and moderate 16–30 — but the bands themselves are consistent.)
+
+> [!warning] **The AHI is not the whole assessment.** Two patients with the same index can need entirely different management. What matters alongside the number: **daytime sleepiness and its functional consequences** (Epworth Sleepiness Scale, and specifically **sleepiness at the wheel**), **degree and duration of nocturnal desaturation**, comorbid cardiovascular disease, and whether events are **obstructive or central**. A patient with an AHI of 12 who falls asleep driving needs treatment more urgently than an asymptomatic patient with an AHI of 35.
+
+> [!danger] **Do not ignore**
+> - **Driving.** Untreated OSA with excessive daytime sleepiness carries statutory reporting and licensing implications in Australia, more strictly for **commercial** licence holders. A patient describing sleepiness at the wheel needs advice not to drive **now**, before the study is done — see [[NEW_Safeguarding_and_Forensic]].
+> - **A home sleep study can only rule OSA in, not out.** Because it does not measure sleep, it divides events by *recording* time rather than sleep time and therefore **under-estimates the AHI**. A negative home study in a patient with a convincing history should go on to laboratory polysomnography.
+> - **Hypoventilation is a different problem.** Obesity hypoventilation syndrome and neuromuscular weakness cause sustained nocturnal hypercapnia rather than discrete events, may have a modest AHI, and need **bilevel ventilation, not CPAP**. Look for a raised bicarbonate on daytime bloods as the clue.
+> - **Pre-operative relevance:** undiagnosed OSA substantially increases the risk of post-operative respiratory depression with opioids and sedatives.
+
+**Normal/abnormal:** AHI bands as above, read together with the oxygen desaturation index, minimum and mean SpO₂, time spent below 90%, and the obstructive-versus-central split.
+
+**Alt:** **STOP-BANG** and Epworth questionnaires as pre-test screening tools (screening, not diagnostic); overnight oximetry alone (crude, high false-negative rate, but sometimes the only available test); daytime arterial blood gas and bicarbonate where hypoventilation is suspected; echocardiography where pulmonary hypertension or right heart strain is suspected.
+
+## 0.6 Sweat Chloride Test
+
+**D:** **Pilocarpine iontophoresis** stimulates local sweating; the sweat is collected, weighed and its **chloride** concentration measured. It is the biochemical demonstration of defective CFTR chloride transport.
+
+**Ind:** **A positive newborn screening result** (raised immunoreactive trypsinogen, with or without CFTR variants) — by far the commonest indication in Australia; and the child or, less often, adult with a clinical phenotype: **meconium ileus**, failure to thrive with steatorrhoea, recurrent or persistent respiratory infection and bronchiectasis, nasal polyps in a child, rectal prolapse, salty-tasting skin, **male infertility due to congenital bilateral absence of the vas deferens**, unexplained pancreatitis.
+
+**Role:** **The diagnostic standard for cystic fibrosis**, and the confirmatory test after newborn screening — screening identifies risk, the sweat test makes the diagnosis.
+
+> [!info] **Interpretation — sources agree on all three bands (mmol/L chloride)**
+> - **≤29** — normal; CF unlikely at any age.
+> - **30–59** — **intermediate**; not a negative result. Requires **repeat testing and CFTR genetic analysis**, and specialist assessment. Note that the intermediate band was **lowered from 40–59 to 30–59 for all ages**, so older textbooks and older reports may use the higher cut-off.
+> - **≥60** — consistent with cystic fibrosis; confirm with a second sweat test and genotyping.
+
+> [!warning] **A normal sweat chloride does not entirely exclude CF.** Some CFTR variants — including those in **CFTR-related disorders** and in adults presenting with pancreatitis or infertility — produce normal or intermediate values. If the phenotype is convincing, the next step is **CFTR genetic testing and specialist referral**, not reassurance.
+
+> [!danger] **Do not ignore**
+> - **Inadequate sweat volume is the commonest technical failure**, especially in small or oedematous neonates; the test is generally deferred until the infant is of adequate weight and well hydrated. An insufficient sample is **not a negative result** — it must be repeated.
+> - **False positives** are recognised in malnutrition, untreated adrenal insufficiency, hypothyroidism, eczema and other conditions; the result is interpreted with the clinical picture, not alone.
+> - **The test must be done in an accredited laboratory** with adequate throughput. Sweat testing done occasionally, by inexperienced hands, produces unreliable results — and this is a diagnosis with lifelong consequences.
+> - **A positive result is delivered by a CF service**, with genetic counselling and immediate multidisciplinary involvement — not by phone from a ward.
+
+**Normal/abnormal:** As the three bands above. **Diagnosis requires a compatible clinical picture or positive newborn screen PLUS evidence of CFTR dysfunction** (two sweat chlorides ≥60, or two disease-causing CFTR variants).
+
+**Alt:** **Newborn bloodspot screening** (immunoreactive trypsinogen with reflex CFTR variant panel — the Australian first-line pathway); **CFTR genotyping**; faecal elastase for pancreatic insufficiency; nasal potential difference and intestinal current measurement in specialist centres for equivocal cases.
+
+## Build status
+
+| # | Item | Built | Notes |
+|---|---|---|---|
+| 0.1 | Nasopharyngeal Swab | yes | |
+| 0.2 | Pulmonary Function Tests | yes | Reversibility threshold: **sources conflict** (≥12% + 200 mL vs 2022 ATS/ERS >10% predicted). Both stated, neither asserted. |
+| 0.3 | Pulse Oximetry | yes | Oxygen target bands omitted — jurisdiction-specific. |
+| 0.4 | Sleep Studies | yes | |
+| 0.5 | Sputum Culture | yes | |
+| 0.6 | Sweat Chloride Test | yes | |
+| 0.7 | Tuberculosis Screening | yes | TST mm cut-offs by risk group omitted — did not meet three-source bar. |
+| 0.8 | V/Q Scan | yes | Radiation dose figures in mSv omitted — did not meet three-source bar. |
+
+**Items in file: 8. Build-list Respiratory investigation items: 8. Complete.**
+
+
+<!-- ===== SOURCE: NEW_Drugs_18_Respiratory.md ===== -->
+
+
+# NEW — Drug Classes: Respiratory (AMH section 18)
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
+
+---
+
+## 0.1 Drugs for Asthma and Chronic Obstructive Pulmonary Disease
+
+> [!danger] **THE MOST IMPORTANT CHANGE IN AUSTRALIAN ASTHMA PRESCRIBING: SABA-ONLY TREATMENT IS NO LONGER ADEQUATE.**
+> Sources describe the **2025 Australian Asthma Handbook update** bringing Australian practice into line with **GINA**, with the headline change that **as-needed short-acting beta₂-agonist (SABA) alone is now considered INADEQUATE treatment for asthma in adults and adolescents.** Instead, **adults and adolescents with mild asthma start on low-dose budesonide–formoterol taken as needed — "anti-inflammatory reliever" (AIR) therapy — replacing salbutamol as the first-line reliever.**
+> **Why:** sources state that **frequent SABA use is associated with increased airway inflammation, exacerbations, hospitalisations and mortality**, and that **as-needed ICS–formoterol reduces severe exacerbations by approximately 60–65% compared with SABA-only reliever therapy.**
+> **Practical consequence:** a patient using **salbutamol alone**, or getting through **more than about one canister every few months**, is **inadequately treated and at risk of death** — not "mild". **Check reliever use at every asthma review, and check it in every asthma admission.**
+
+### 0.1.1 Inhaled Corticosteroids
+- **Key agents:** **budesonide, fluticasone (propionate and furoate), beclometasone, ciclesonide, mometasone**; and the **ICS–LABA combinations** that dominate practice (budesonide–formoterol, fluticasone–salmeterol, fluticasone–vilanterol).
+- **Mechanism:** local anti-inflammatory action on the airway — **the drug that treats the disease process in asthma**, as opposed to the bronchodilators that treat its symptom.
+- **Indications:** **asthma at every step, from the as-needed AIR regimen upwards**; and **COPD**, where the role is narrower — **added for frequent exacerbations, and particularly where the blood eosinophil count is raised**, but with a **higher pneumonia risk** than in asthma.
+- **Adverse effects:** **oral candidiasis and dysphonia** (**rinse and spit after every dose, and use a spacer** — this prevents most of it); **pneumonia in COPD**; and, at higher doses or with repeated oral courses, **adrenal suppression, reduced growth velocity in children, bone loss, cataract, glaucoma, and skin thinning and bruising**.
+- **Interaction to know:** **ritonavir/cobicistat and strong azoles markedly raise inhaled fluticasone exposure and have caused iatrogenic Cushing syndrome and adrenal crisis** (see `NEW_Drugs_05_Anti_infectives.md` 0.5.3).
+
+### 0.1.2 Beta-2 Agonists
+*(covers build-list classes: Beta2 agonists; Short-Acting Beta-2 Agonists)*
+- **Short-acting (SABA) — salbutamol, terbutaline.** Rapid bronchodilation within minutes.
+- **Long-acting (LABA) — salmeterol, formoterol, indacaterol, vilanterol, olodaterol.** **Formoterol is distinctive in having a rapid onset as well as long duration**, which is precisely why it is the LABA used in the anti-inflammatory reliever regimen.
+- **Ultra-long-acting** agents allow once-daily combination inhalers.
+
+> [!danger] **A LABA MUST NEVER BE USED WITHOUT AN INHALED CORTICOSTEROID IN ASTHMA.** LABA monotherapy is associated with increased asthma deaths. In practice this means **prescribing a combination inhaler**, not two separate devices from which the steroid can be dropped.
+
+- **Adverse effects:** **tremor, palpitations and tachycardia, headache, anxiety** (dose-related and expected with high-dose nebulised therapy); **HYPOKALAEMIA** — clinically significant with repeated nebulisers in acute severe asthma, so **check potassium**; **hyperglycaemia** and **lactic acidosis** with high-dose treatment (a genuinely confusing finding in a patient with severe asthma, and not itself a sign of sepsis); and **paradoxical bronchospasm** (rare).
+- **Delivery matters more than the drug.** **A metered-dose inhaler WITH A SPACER is as effective as a nebuliser for most acute asthma**, uses less drug, causes fewer adverse effects and does not aerosolise infection. **Inhaler technique is wrong in the majority of patients — check it at every opportunity, and check the device the patient actually has**, since dry-powder and pressurised devices require opposite techniques.
+
+### 0.1.3 Inhaled Anticholinergics (Antimuscarinics)
+- **Short-acting (SAMA) — ipratropium.** **Long-acting (LAMA) — tiotropium, glycopyrronium, umeclidinium, aclidinium.**
+- **Mechanism:** block M₃ muscarinic receptors → bronchodilation and reduced mucus secretion.
+- **Indications:** **COPD — where LAMAs are a cornerstone of maintenance therapy** and reduce exacerbations; **acute severe asthma and COPD exacerbations** (ipratropium added to salbutamol); and **tiotropium as add-on therapy in severe asthma**.
+- **Adverse effects:** **dry mouth** (the commonest); urinary retention and constipation; **acute angle-closure glaucoma if nebulised drug reaches the eyes — use a mouthpiece rather than a mask where possible, or protect the eyes**; and paradoxical bronchospasm.
+- **Do not combine a SAMA and a LAMA** — no added benefit, more adverse effects.
+
+### 0.1.4 Theophyllines
+- **Key agents:** **theophylline** (oral) and **aminophylline** (intravenous).
+- **Mechanism:** non-selective phosphodiesterase inhibition and adenosine antagonism → bronchodilation, with some anti-inflammatory effect at low dose.
+- **Role: largely superseded**, and retained only as later-line therapy — because of a **narrow therapeutic index and extensive interactions**.
+- **Toxicity:** **nausea and vomiting, tremor, agitation, tachyarrhythmias, hypokalaemia and SEIZURES** — and seizures can occur without preceding gastrointestinal warning in chronic toxicity. **Levels are monitored.**
+- **Interactions — the reason it is dangerous in a general hospital:** levels **RISE** with **ciprofloxacin, erythromycin and clarithromycin, cimetidine, allopurinol, fluvoxamine**, and in **heart failure, liver disease and viral illness**; levels **FALL** with **rifampicin, phenytoin, carbamazepine, and SMOKING** — so **a theophylline level can climb dangerously when a patient stops smoking on admission** (see `NEW_Drugs_17_Psychotropic.md` 0.7).
+
+### 0.1.5 Other Drugs for Asthma and COPD
+- **Leukotriene receptor antagonists — montelukast.** Oral, useful with allergic rhinitis and in exercise-induced asthma, and in children. **The neuropsychiatric warning is mandatory to discuss — sleep disturbance, nightmares, agitation, depression and suicidal ideation — and must be asked about at review.**
+- **Oral corticosteroids** — for **exacerbations of asthma and COPD**; short courses do not require tapering, but **repeated courses carry the full systemic corticosteroid burden** and should trigger a step-up in preventive therapy rather than more prednisolone.
+- **Biologics for severe asthma** — **omalizumab (anti-IgE), mepolizumab and benralizumab (anti-IL-5/5R), dupilumab and tezepelumab** — for severe eosinophilic or allergic asthma, with specific **PBS criteria** in Australia.
+- **Roflumilast** — an oral PDE4 inhibitor for severe COPD with chronic bronchitis and frequent exacerbations; causes diarrhoea, weight loss and psychiatric effects.
+- **Macrolide prophylaxis (azithromycin)** — reduces exacerbations in COPD, bronchiectasis and severe asthma; watch **QT, hearing, and mycobacterial resistance**, and **exclude non-tuberculous mycobacterial infection before starting.**
+- **The non-drug measures that change outcomes most:** **SMOKING CESSATION (the only intervention that alters COPD progression)**, **pulmonary rehabilitation**, **vaccination (influenza, pneumococcal, COVID-19, RSV where indicated)**, **an up-to-date written ASTHMA OR COPD ACTION PLAN**, inhaler technique review, and **long-term oxygen therapy in defined hypoxaemia** — which is the other COPD intervention with a mortality benefit.
+
+> [!danger] **The asthma deaths that are preventable share a pattern:** over-reliance on SABA, no preventer or poor adherence, no action plan, no recent review, previous ICU admission or intubation, and under-estimation of severity by both patient and clinician. **A patient who has needed oral steroids or presented to hospital in the last year is at high risk.** See [[02_Respiratory]] and [[15_04b_Paeds_-_Asthma_in_Children]].
+
+## 0.2 Drugs for Cough
+
+### 0.2.1 Opioid Cough Suppressants
+- **Key agents:** **codeine, dihydrocodeine, pholcodine, morphine** (in palliative care), dextromethorphan (a non-opioid acting centrally).
+- **Mechanism:** suppress the medullary cough centre.
+- **Role:** **very limited.** Genuinely useful for **distressing dry cough in palliative care and in lung cancer**; otherwise the evidence in acute cough is poor, and the risks are real.
+
+> [!danger] **PHOLCODINE WAS WITHDRAWN IN AUSTRALIA (2023) because of an association with ANAPHYLAXIS TO NEUROMUSCULAR BLOCKING AGENTS during subsequent general anaesthesia.** This is a distinctive and recent Australian regulatory action worth knowing, and patients may still ask about it.
+> **Codeine-containing cough preparations became prescription-only in Australia in February 2018** (see `NEW_Drugs_03_Analgesics.md` 0.4.4). **Codeine is a CYP2D6 prodrug — ultra-rapid metabolisers, including children and breastfed infants of ultra-rapid metaboliser mothers, have died. Opioid cough suppressants are contraindicated in children.**
+> **And the general point: do not suppress a productive cough** — it is a protective mechanism, and suppressing it in bronchiectasis, cystic fibrosis or pneumonia is harmful.
+
+### 0.2.2 Mucolytics
+- **Key agents:** **N-acetylcysteine** (oral and nebulised), **dornase alfa** (recombinant DNase, in cystic fibrosis), **hypertonic saline** (nebulised), carbocisteine, bromhexine, mannitol powder.
+- **Mechanism:** reduce sputum viscosity — by breaking disulfide bonds (acetylcysteine), digesting extracellular DNA from degraded neutrophils (dornase alfa), or osmotically rehydrating the airway surface (hypertonic saline, mannitol).
+- **Indications:** **cystic fibrosis and bronchiectasis** — where **dornase alfa and hypertonic saline have genuine evidence**; **COPD** (modest exacerbation reduction with oral mucolytics); and **acetylcysteine's much more important other use — as the antidote in paracetamol poisoning** (see `NEW_Drugs_04_Antidotes_and_Antivenoms.md` 0.1.1).
+- **Practical:** **airway clearance physiotherapy is what actually clears sputum** — mucolytics are an adjunct to it, and are usually given immediately before a physiotherapy session. **Nebulised agents can provoke bronchospasm** — a bronchodilator is often given first.
+
+### 0.2.3 Other Cough Considerations
+- **There is no good evidence for over-the-counter cough mixtures**, and in **children under 6 they are not recommended and have caused harm.**
+- **Find the cause instead:** **ACE inhibitor cough** (up to a large minority of users, resolves on switching to an ARB), **asthma and cough-variant asthma**, **gastro-oesophageal reflux**, **upper airway cough syndrome/postnasal drip**, **smoking**, **bronchiectasis**, **heart failure**, and **medication**.
+
+> [!danger] **Red flags in cough that mean investigation, not a suppressant:** **haemoptysis, weight loss, a cough lasting more than about 3 weeks in a smoker or ex-smoker, night sweats and fever (tuberculosis), hoarseness, dysphagia, a focal chest sign, clubbing, or a new cough in an older patient.** **Chest X-ray, and consider CT and referral.** Australia's **National Lung Cancer Screening Program** applies to the asymptomatic — a symptomatic patient needs diagnostic investigation (see `NEW_Investigations_General_and_Preventive.md` 0.13).
+
+## 0.3 Drugs for Pulmonary Hypertension
+
+> [!info] **The drugs below treat GROUP 1 pulmonary ARTERIAL hypertension (PAH).** They are **specialist-initiated in designated centres**, and — importantly — **they are NOT for pulmonary hypertension due to left heart disease (group 2) or lung disease (group 3), where they can cause harm by worsening ventilation–perfusion matching and precipitating pulmonary oedema.** **Establishing the group, by right heart catheterisation, comes before any of this.**
+
+### 0.3.1 Endothelin Receptor Antagonists
+*(covers build-list classes: Endothelin Receptor Antagonists; Endothelin antagonists)*
+- **Key agents:** **bosentan, macitentan, ambrisentan**.
+- **Mechanism:** block **endothelin-1**, a potent vasoconstrictor and mitogen that is upregulated in PAH.
+- **Adverse effects:** **HEPATOTOXICITY — bosentan in particular requires MONTHLY liver function monitoring**; **anaemia**; peripheral oedema; nasal congestion and headache.
+- **TERATOGENICITY — all endothelin receptor antagonists are teratogenic.** **Pregnancy must be excluded before starting and tested for regularly during treatment, with reliable contraception**, under a formal risk management program. **Bosentan also INDUCES CYP3A4, reducing hormonal contraceptive efficacy — so hormonal contraception alone is not sufficient.**
+
+### 0.3.2 Prostacyclin Analogues
+- **Key agents:** **epoprostenol** (continuous intravenous infusion via a permanent central line), **treprostinil** (intravenous, subcutaneous, inhaled), **iloprost** (inhaled), **selexipag** (an oral prostacyclin receptor agonist).
+- **Mechanism:** replace deficient prostacyclin → potent pulmonary vasodilation, antiplatelet and antiproliferative effects.
+- **Role:** **the most effective agents, used in severe disease**; epoprostenol has a demonstrated survival benefit.
+- **Adverse effects:** **jaw pain (characteristic), flushing, headache, diarrhoea, nausea, limb pain**; **infusion line infection and sepsis** — a major cause of morbidity with continuous intravenous therapy.
+
+> [!danger] **AN ABRUPT INTERRUPTION OF AN EPOPROSTENOL OR TREPROSTINIL INFUSION CAN CAUSE FATAL REBOUND PULMONARY HYPERTENSION.**
+> The half-life is measured in minutes. **A blocked line, a failed pump, a dislodged catheter or an omitted dose is an emergency.** **Never stop or interrupt these infusions**, and if a patient on one is admitted, **contact the pulmonary hypertension service immediately** and ensure the infusion is protected.
+
+### 0.3.3 Other Drugs for Pulmonary Hypertension
+- **PDE5 inhibitors — sildenafil, tadalafil** — see `NEW_Drugs_06_Cardiovascular.md` 0.11.3. **Absolutely contraindicated with nitrates and with riociguat.**
+- **Riociguat** — a soluble guanylate cyclase stimulator, used in PAH and in **chronic thromboembolic pulmonary hypertension**; **teratogenic**, and **must not be combined with a PDE5 inhibitor or nitrates**.
+- **Calcium channel blockers** — only in the small minority of patients with a **positive acute vasodilator response** at catheterisation; **giving them to a vasodilator non-responder can cause haemodynamic collapse.**
+- **Supportive:** **anticoagulation** in selected patients, **diuretics** for right heart failure, **oxygen**, **iron replacement**, and treatment of the underlying cause. **Pregnancy carries very high maternal mortality in PAH and is strongly advised against — contraception counselling is essential.**
+
+## 0.4 Drugs Used in Cystic Fibrosis
+
+- **CFTR MODULATORS — the transformative development.** **Ivacaftor** (a potentiator) and the correctors **lumacaftor, tezacaftor and elexacaftor**, combined as **elexacaftor/tezacaftor/ivacaftor**, which is effective for the great majority of people with CF and has produced substantial improvements in lung function, exacerbations, weight and quality of life. **Eligibility is mutation-specific and PBS-criteria-driven in Australia.** Adverse effects include **transaminitis (LFT monitoring), cataract in children (ophthalmological review), headache and rash**, and **extensive CYP3A4 interactions** — check every co-prescription.
+- **Airway clearance:** **dornase alfa**, **hypertonic saline**, **mannitol dry powder**, and — most importantly — **physiotherapy**.
+- **Anti-infectives:** **inhaled tobramycin, colistin and aztreonam** for chronic *Pseudomonas* suppression; **prolonged high-dose intravenous antibiotics** for exacerbations (**people with CF have altered pharmacokinetics and often need higher doses**); **azithromycin** for its anti-inflammatory effect; and **antifungals** for allergic bronchopulmonary aspergillosis.
+- **Nutrition and gastrointestinal:** **pancreatic enzyme replacement with every meal and snack** (**under-dosing is common** — see `NEW_Drugs_12_Gastrointestinal.md` 0.8.2), **fat-soluble vitamin supplementation (A, D, E, K)**, high-energy diet, and **salt replacement in hot weather** — genuinely important in the Australian climate.
+- **Complications to anticipate:** **CF-related diabetes** (screened for annually), liver disease, **distal intestinal obstruction syndrome**, osteoporosis, and **infertility (congenital bilateral absence of the vas deferens in men)**.
+- **Infection control:** **cross-infection prevention between people with CF is a strict requirement** — segregation, and no gathering of patients — and this shapes how clinics and admissions are run.
+
+## 0.5 Pulmonary Surfactants
+- **Key agents:** **poractant alfa, beractant, calfactant** — animal-derived surfactant preparations given **endotracheally** to neonates.
+- **Mechanism:** replace deficient surfactant, **reducing alveolar surface tension**, preventing end-expiratory collapse and improving compliance and oxygenation.
+- **Indications:** **neonatal respiratory distress syndrome** in preterm infants — treatment, and prophylaxis in the most immature; and selected other neonatal conditions (meconium aspiration, pulmonary haemorrhage).
+- **Administration:** given by a trained neonatal team, either after intubation or by **less-invasive surfactant administration (LISA/MIST)** in a spontaneously breathing infant on CPAP — an approach with which Australian units have considerable experience.
+- **Adverse effects:** transient **bradycardia, hypoxia and airway obstruction during administration**; pulmonary haemorrhage; and — importantly — a **rapid improvement in compliance that requires prompt reduction in ventilator pressures to avoid pneumothorax.**
+- **Context:** **antenatal corticosteroids given to the mother remain the single most effective intervention** for neonatal RDS (see `NEW_Drugs_16_Obstetric_and_Gynaecological.md` 0.9); surfactant is complementary to it, not a substitute. See [[15_22b_Paeds_-_Neonatal_Respiratory_Distress_and_Jaundice]].
+
+## 0.6 Other Respiratory Drugs
+- **Antifibrotics for idiopathic pulmonary fibrosis — pirfenidone and nintedanib.** They **slow the decline in lung function but do not reverse fibrosis or relieve symptoms**, which must be explained honestly. **Pirfenidone causes photosensitivity (significant in Australia — strict sun protection), nausea and rash**; **nintedanib causes diarrhoea (very common), hepatotoxicity and bleeding risk.** Both require LFT monitoring.
+- **Alpha-1 antitrypsin replacement** — for severe deficiency-related emphysema, in specialist settings.
+- **Respiratory stimulants — doxapram** — very limited modern use; **caffeine citrate**, by contrast, is standard and effective for **apnoea of prematurity** and improves neurodevelopmental outcomes.
+- **Oxygen** — **a drug that must be prescribed, with a target saturation range**, and one where **too much is harmful in patients at risk of hypercapnic respiratory failure**. See `NEW_Investigations_Respiratory.md` 0.3.
+- **Nicotine replacement and cessation pharmacotherapy** — arguably the most important respiratory drugs of all; see `NEW_Drugs_17_Psychotropic.md` 0.7.
+- **Antivirals and vaccines** — influenza antivirals, COVID-19 antivirals, and the **vaccination schedule**, which is core respiratory preventive care.
+
+---
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Drugs for asthma and chronic obstructive pulmonary disease | SUB | yes | Opens with the 2025 Australian Asthma Handbook change away from SABA-only treatment. |
+| 0.1.1 | Corticosteroids (inhaled) | CLS | yes | |
+| 0.1.2 | Beta2 agonists | CLS | yes | Built jointly with `Short-Acting Beta-2 Agonists` — the short-acting group is a subset and they are chosen against each other; both rows mapped. |
+| 0.1.2 | Short-Acting Beta-2 Agonists | CLS | yes | As above. |
+| 0.1.3 | Anticholinergics (inhaled) | CLS | yes | |
+| 0.1.4 | Theophyllines | CLS | yes | Includes the smoking-cessation level rise. |
+| 0.1.5 | Other drugs for asthma | CLS | yes | |
+| 0.2 | Drugs for cough | SUB | yes | |
+| 0.2.1 | Opioid cough suppressants | CLS | yes | Includes the 2023 Australian pholcodine withdrawal and its anaesthetic anaphylaxis rationale. |
+| 0.2.2 | Mucolytics | CLS | yes | |
+| 0.3 | Drugs for pulmonary hypertension | SUB | yes | Framed on the group 1 versus groups 2/3 distinction. |
+| 0.3.1 | Endothelin Receptor Antagonists | CLS | yes | Built jointly with `Endothelin antagonists` — same class, two names; both rows mapped. |
+| 0.3.1 | Endothelin antagonists | CLS | yes | As above. |
+| 0.3.2 | Prostacyclin Analogs | CLS | yes | Includes fatal rebound on infusion interruption. |
+| 0.3.3 | Other drugs for pulmonary hypertension | CLS | yes | |
+| 0.4 | Drugs used in cystic fibrosis | SUB | yes | CFTR modulators, airway clearance, anti-infectives, nutrition and infection control. |
+| 0.5 | Pulmonary surfactants | SUB | yes | |
+| 0.6 | Other respiratory drugs | SUB | yes | |
+
+**Rows in file: 18 (6 SUB + 12 CLS). AMH section 18 build-list rows: 18. Section complete.**
+
+> [!note] **Two pairs of build-list rows overlap** — `Beta2 agonists` with `Short-Acting Beta-2 Agonists` (subset), and `Endothelin Receptor Antagonists` with `Endothelin antagonists` (same class, two names). Each is written once and every row mapped above.
+

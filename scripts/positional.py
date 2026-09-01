@@ -89,7 +89,12 @@ def selftest():
     return ok
 
 if __name__=='__main__':
-    a=[x for x in sys.argv[1:] if not x.startswith('--')]
+    argv=sys.argv[1:]
+    a=[]; i=0
+    while i<len(argv):
+        if argv[i]=='--base': i+=2; continue
+        if argv[i].startswith('--'): i+=1; continue
+        a.append(argv[i]); i+=1
     if '--selftest' in sys.argv:
         print('=== positional.py self-test ==='); sys.exit(0 if selftest() else 1)
     print('=== positional.py ===  (self-test first, per CLAUDE.md rule 11)')
