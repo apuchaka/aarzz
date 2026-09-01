@@ -54,6 +54,8 @@
 > **What is unverified here is the figure, not the principle.** The 0.1–0.15 mg value came
 > from `[[01_Cardiovascular]]` Shock (the Anaphylactic shock sub-entry) and has **not** been
 > checked against ASCIA — `PENDING_GUIDELINE_CHECKS.md` **B50**.
+> **The band-set defect this row fixed is tracked as a class at B67**, with a second instance
+> (the EZ-IO needle bands, `B66`) found on 2026-09-01.
 > `UNVERIFIED — the <7.5 kg / <6 months IM adrenaline dose, per the ASCIA Acute Management of Anaphylaxis dose table.`
 > **That is a reason to verify it. It is never a reason to delete it.**
 

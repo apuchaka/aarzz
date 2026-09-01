@@ -107,6 +107,7 @@
 > [!warning] **THE EZ-IO WEIGHT BANDS DO NOT TILE: `<39 kg` and `>40 kg` LEAVE 39–40 kg UNCOVERED.**
 > A child weighing 39.5 kg falls between the two bands and this line does not say which needle
 > to use. `UNVERIFIED — the EZ-IO needle-length weight bands, per the Teleflex EZ-IO directions for use and the ANZCOR Guideline 12 series / RCH intraosseous access guideline.`
+> Tracked as `PENDING_GUIDELINE_CHECKS.md` **B66**.
 >
 > **This is the SECOND instance of the same defect class in this corpus, not an isolated typo.**
 > The first was the ASCIA adrenaline table, which stopped at 7.5 kg and covered no infant at
@@ -123,7 +124,8 @@
 > **The test, when you meet any band set:** read the boundaries in order and confirm each upper
 > limit meets the next lower limit. `<39` then `>40` fails. `7.5–20` then `>20` passes.
 > Consequence here is bounded — a needle length, not a drug dose — but the shape is identical
-> and it is being tracked as a class rather than as two incidents.
+> and it is being tracked as a class rather than as two incidents. **The class is `PENDING_GUIDELINE_CHECKS.md` B67**;
+> the adrenaline instance is **B50**.
 
 ### Preparation
 

@@ -307,3 +307,44 @@ convention was enough to make the checker report catastrophe.
 earlier in this file. The 13 extra were flagged **before any of my work** — confirmed by running
 the checker against a clean `git archive HEAD` extract. The claim that matters is unchanged and
 now stronger: **before and after are byte-identical.**
+
+---
+
+## ⚠️ `PENDING_GUIDELINE_CHECKS.md` — THE REPO COPY IS CANONICAL WHILE THIS WORK RUNS
+
+**Read this before touching that file, and before any sync in either direction.**
+
+The tracker was **not in this repository** until 2026-09-01 — 50 citations across 19 files
+pointed at a file that had never been tracked on any branch. It lived only in the Obsidian
+vault. **The owner uploaded the current vault copy and it is now at the repo root**, filename
+`PENDING_GUIDELINE_CHECKS.md`, matching all 50 citations exactly.
+
+> [!danger] **The repo copy is authoritative until the owner pulls it back into the vault.**
+> **A later session must NOT treat the vault copy as the source of truth and overwrite the repo
+> copy with it.** Doing so silently deletes `B66` and `B67` and any row added after them, and
+> the loss leaves no trace — this file has an **append-never-delete** history, so a row that
+> vanishes cannot be distinguished from a row that was never written. That is the §1.13 failure
+> in its worst form: *"taking one side silently discards either a stamp or a merge and nothing
+> detects the loss."*
+>
+> **The owner pulls the repo copy back into the vault at the end of this work.** Until they
+> confirm that has happened, the direction of sync is **repo → vault only**.
+
+**Rows added 2026-09-01 (`B66`, `B67`).** Sequence maximum was **measured, not assumed**:
+65 `B` rows, max `B65`, **no gaps and no duplicate IDs**, so B65 was both floor and ceiling.
+Inserted immediately before `B65` — the position every row from `B23` to `B65` was inserted at,
+preserving the file's newest-first convention within Section B.
+
+**Append verified three ways:** the uploaded file's 198 lines are preserved as an **exact
+ordered subsequence** of the 200-line result; **+2 lines, 0 removed, 0 modified**; and the
+existing row-ID order is **identical** before and after.
+
+- **B66** — EZ-IO needle bands `<39kg` / `>40kg` do not meet; 39–40 kg has no needle length,
+  and the top band (`"larger patients"`) is unquantified.
+- **B67** — the **class row**: weight and age band sets that do not tile the axis they claim to
+  cover. Two instances (the ASCIA adrenaline table's missing `<7.5 kg` row, and B66). Resolves
+  against **no external guideline** — it is a method item that closes when a band-tiling check
+  exists and has been run across every dose table.
+
+`_meta/PENDING_ROWS_TO_ADD.md` is retained as the record of why the rows were staged rather than
+filed at the time. **Do not paste from it again** — that would duplicate B66/B67.

@@ -1,9 +1,19 @@
 ---
 type: action-item-for-the-human
-status: NOT the tracker. Two rows drafted for you to paste in by hand.
+status: DONE 2026-09-01. Both rows are filed as B66 and B67. Kept as the record of why.
 ---
 
-# Rows to add to `PENDING_GUIDELINE_CHECKS.md`
+# Rows to add to `PENDING_GUIDELINE_CHECKS.md` — **FILED, 2026-09-01**
+
+> [!check] **Both rows are now in the tracker as `B66` and `B67`.**
+> The vault copy was uploaded and placed at the repo root the same day. **The blocker below
+> is resolved and this file is kept only as the record of why the rows were staged rather
+> than filed at the time.** Do not paste them again — that would duplicate B66/B67.
+>
+> **The sequence maximum was measured, not assumed:** 65 `B` rows, max `B65`, **no gaps and
+> no duplicate IDs**, so B65 was both the floor and the ceiling and the next IDs were B66 and
+> B67. Rows were inserted immediately before `B65` — the position every row from `B23` to
+> `B65` was inserted at, so the file's newest-first convention is preserved.
 
 > [!danger] **`PENDING_GUIDELINE_CHECKS.md` IS NOT IN THIS REPOSITORY AND NEVER HAS BEEN.**
 > Verified three ways before writing this file:
