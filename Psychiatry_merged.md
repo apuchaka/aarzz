@@ -1087,6 +1087,1637 @@ Where a person is unable to manage their own health, safety, or welfare more bro
 > [!danger] If arrhythmias develop, DO NOT use class 1a and 1c antiarrhythmics; avoid class 3 drugs.
 
 
+> [!note] The Corpus B psychiatry sources arrived here on 2026-09-01
+> **`N1`–`N8` were cut from `Neuro_merged.md:3829–5452` (1,624 lines) and inserted here**, between
+> the Corpus A psychiatry files and the drug files, matching the A → B → NEW ordering used by every
+> other merged file. They map onto the Corpus A files above eight for eight.
+> **The `[[D1]]`–`[[D7]]` wikilinks below still resolve** — they name the source file, which is
+> unchanged — but **36 of them are now cross-file**, pointing into [[Neuro_merged]].
+
+<!-- ===== SOURCE: N1_Mental_State_Examination_and_Risk.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Assessment structure, clinical reasoning and communication principles are reliable at intern level. **Every dose, legal provision, order duration and criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
+> **The MENTAL HEALTH ACT 2009 (SA) governs involuntary assessment and treatment in South Australia, and mental health law DIFFERS BETWEEN STATES.** Every provision in 0.5 must be verified against the current Act, SA Health policy and your health network's forms. **Do not apply another jurisdiction's law.**
+> **Sedation agents and doses for acute behavioural disturbance are OMITTED entirely** — obtain them from your health network's protocol.
+>
+> **Delirium is built in [[D2]] 0.2**, **hyperthermic drug syndromes in [[A6]] 0.3**, and **capacity and consent in [[A10]] 0.1–0.2** — each is cross-referenced rather than repeated.
+
+---
+
+## 0.1 Psychiatric Assessment and the Mental State Examination
+
+> [!tip] The MSE is an EXAMINATION, not a history
+> **It describes what you observe and elicit in the room, at this moment** — in the same way a cardiovascular examination describes what you find on this occasion.
+> **What the patient reports about last week belongs in the history. What they say and do now belongs in the MSE.**
+> **Write it descriptively, so another clinician could picture the encounter** — "sat with head lowered, made brief eye contact when addressed, spoke in short sentences with long pauses" tells the reader more than "flat affect".
+
+> [!info] The components
+> **· APPEARANCE AND BEHAVIOUR** — grooming, dress, nutritional state, psychomotor activity (retardation or agitation), eye contact, rapport, cooperation, and **abnormal movements: extrapyramidal side effects, tardive dyskinesia, tremor, catatonic features.**
+> **· SPEECH** — rate, rhythm, volume, quantity, tone. **Pressured** speech, **poverty** of speech, latency of response, and dysarthria or dysphasia, which point to an organic cause.
+> **· MOOD AND AFFECT** — **MOOD is the patient's SUBJECTIVE report, ideally in their own words. AFFECT is your OBJECTIVE observation** — range (full, restricted, blunted, flat), reactivity, and congruence with stated mood and with content.
+> **· THOUGHT FORM** — how thinking is organised: **circumstantiality, tangentiality, flight of ideas, loosening of associations, thought blocking, neologisms, perseveration.**
+> **· THOUGHT CONTENT** — **delusions** (persecutory, grandiose, nihilistic, somatic, of reference, of control; **mood-congruent or incongruent**), overvalued ideas, obsessions, ruminations, and **suicidal or homicidal ideation, which must be actively asked about and documented.**
+> **· THOUGHT POSSESSION** — insertion, withdrawal, broadcasting.
+> **· PERCEPTION** — **hallucinations, specifying the modality.** **Auditory hallucinations in the second person ("you are worthless") or third person (voices discussing the patient) are more typical of primary psychiatric illness; VISUAL, olfactory and tactile hallucinations should raise an ORGANIC cause.** Also illusions, depersonalisation and derealisation.
+> **· COGNITION** — orientation, attention and concentration, memory; formal testing where indicated.
+> **· INSIGHT AND JUDGEMENT** — **not binary.** Describe: does the person recognise something is wrong, do they attribute it to illness, do they see a need for treatment, and can they weigh options? These can be present in one respect and absent in another.
+
+> [!danger] Collateral history is not optional, and neither is the physical examination
+> **Collateral from family, carers, the GP, the community team, previous records and ambulance staff frequently changes the assessment entirely** — particularly regarding timeline, baseline function, substance use and risk.
+> **Obtain it, with consent where possible — and in an emergency, obtaining information necessary to assess risk is generally justified without it.** Document what you did and why.
+> **EVERY psychiatric presentation requires observations, a physical examination and a targeted medical assessment.** See 0.6.
+> **Attributing new symptoms to a known psychiatric diagnosis without examining the patient is DIAGNOSTIC OVERSHADOWING**, and it is a documented cause of missed serious illness and premature death in people with mental illness. Cross-refer [[AU1]] 0.5.
+
+---
+
+## 0.2 Risk Assessment
+
+> [!danger] Risk stratification tools do not predict individual suicide, and must not decide who gets care
+> **This is a genuine and important change from older practice.**
+> **No risk assessment tool, checklist or scale reliably predicts which individual will die by suicide.** The events are too infrequent and the predictors too common — most people categorised as "high risk" do not die, and **a substantial proportion of those who do die were categorised as low risk.**
+> **Categorising a patient as "low risk" and using that to justify discharge without a plan is unsafe and is no longer defensible practice.**
+> **What replaces it: STRUCTURED PROFESSIONAL JUDGEMENT — a formulation of this person's circumstances that identifies MODIFIABLE factors and builds a collaborative plan around them.**
+> **The purpose of risk assessment is to understand the person and to intervene, not to generate a prediction or allocate a tier.**
+> **Document your REASONING** — what you elicited, what concerned you, what you did about it, and what the plan is — rather than a category.
+
+> [!tip] The four domains
+> **· Risk TO SELF** — suicide, self-harm, self-neglect, and the consequences of impaired judgement (financial, driving, sexual, substance use).
+> **· Risk TO OTHERS** — including specific threats, and risk to dependent children.
+> **· Risk FROM OTHERS** — vulnerability, exploitation, abuse and neglect. **This is the domain most often omitted**, and people with mental illness are far more likely to be victims of violence than perpetrators.
+> **· Risk of DETERIORATION** — disengagement, non-adherence, and the trajectory if nothing changes.
+
+> [!info] Static, dynamic and protective factors
+> **STATIC (historical, unmodifiable): previous attempts and self-harm, previous violence, childhood adversity, family history, diagnosis, chronic illness.** They establish a baseline, not a prediction.
+> **DYNAMIC (current, MODIFIABLE — where the clinical work is): acute distress and hopelessness, current substance use, active psychotic symptoms, recent loss, isolation, access to means, untreated pain, homelessness, disengagement from care.**
+> **PROTECTIVE: connection to family and community, responsibility for children or others, engagement with treatment, cultural and spiritual connection, and future orientation.** **Eliciting them explicitly is both informative and therapeutic — "what has kept you going?" — but protective factors do NOT cancel out acute risk** and must never justify inaction.
+
+---
+
+## 0.3 Suicide and Self-Harm
+
+> [!danger] Asking about suicide does not create the idea
+> **The belief that asking might "put the idea in their head" is a persistent myth and it is wrong.**
+> **Most people experiencing suicidal thoughts feel relief at being asked directly, and many will not raise it themselves.**
+> **Ask clearly and without euphemism**, working up gradually:
+> **· "How have things been feeling for you lately?"**
+> **· "Have you felt that life isn't worth living?"**
+> **· "Have you had thoughts of ending your life?"**
+> **· And if yes — explore it properly rather than retreating.**
+> **Avoid vague phrasing.** "You're not thinking of doing anything silly, are you?" invites a no, signals your discomfort, and communicates that this is not a conversation you want to have.
+
+> [!tip] What to explore once the answer is yes
+> **· The thoughts — frequency, intensity, duration, whether intrusive or comforting, and whether worsening.**
+> **· INTENT — how close have they come, and what is their intention now?**
+> **· PLANNING and PREPARATORY ACTS — giving away possessions, writing notes, setting affairs in order. A marker of higher acute concern.**
+> **· ACCESS TO MEANS, and whether it can be reduced.**
+> **· PREVIOUS ATTEMPTS AND SELF-HARM — among the strongest predictors of future suicide.** How recent, what happened, what they expected, and how they feel about having survived.
+> **· HOPELESSNESS — a stronger correlate of suicide than depression severity itself.**
+> **· WHAT HAS STOPPED THEM — reasons for living, and what would need to change.**
+> **· Substance use, which increases impulsivity and is a risk factor in its own right.**
+
+> [!warning] Risk factors, and the periods of elevated risk
+> **· A previous suicide attempt or episode of self-harm.**
+> **· Mental illness — depression, bipolar disorder, psychotic illness, substance use disorders, personality disorder, eating disorders.**
+> **· Chronic physical illness, chronic pain, and recent serious diagnosis.**
+> **· Social factors — isolation, relationship breakdown, bereavement, unemployment, financial crisis, legal problems, homelessness.**
+> **· Access to means, and a family history of suicide.**
+> **· THE PERIOD IMMEDIATELY AFTER DISCHARGE from a psychiatric admission or an emergency presentation is among the HIGHEST-RISK periods there is** — which is why follow-up contact within days, arranged before the person leaves, is a core intervention rather than an administrative nicety.
+> **· Populations with elevated rates in Australia include Aboriginal and Torres Strait Islander people — particularly young people — LGBTIQA+ young people, people in rural and remote areas, people recently released from prison, and certain occupational groups.** Cross-refer [[AU1]] 0.4.
+
+> [!tip] Self-harm without suicidal intent
+> **Self-harm and suicide attempts overlap but are not the same.** Self-harm frequently serves a function — **regulating overwhelming emotion, ending dissociation, communicating distress that cannot be spoken, or self-punishment.**
+> **It must not be dismissed as attention-seeking or manipulative.** That framing is inaccurate, it is experienced as contemptuous, and it is a major reason people conceal self-harm and avoid presenting.
+> **Clinically, a history of self-harm is associated with substantially increased future suicide risk** — a reason for more careful assessment, not less.
+> **Respond by treating the injury properly and without judgement, exploring the underlying distress, and working towards alternative coping strategies** — recognising that stopping is usually a longer-term goal rather than an immediate demand.
+
+> [!warning] Safety planning — collaborative, specific, and held by the patient
+> **Developed WITH the person, not handed to them.** It typically covers:
+> **· Their own warning signs — how they know things are deteriorating.**
+> **· Internal coping strategies they can use alone.**
+> **· People and settings that provide distraction and connection.**
+> **· People they can tell they are struggling.**
+> **· Professional and crisis contacts.**
+> **· MEANS SAFETY — reducing access, usually involving family, framed as making the environment safer rather than removing autonomy.**
+> **Give them a copy in a form they will keep — a photo on their phone works better than a folded sheet of paper.**
+> **Arrange the follow-up before they leave, with a named service and a date.**
+
+> [!info] Language, resources, and the people left behind
+> **Say "died by suicide" or "took their own life" — NOT "committed suicide"**, which carries the connotation of crime and adds to the stigma families carry. **Avoid "successful" and "failed" attempt.**
+> **Australian resources: Lifeline (13 11 14) · Suicide Call Back Service · 13YARN (13 92 76), a national crisis line for Aboriginal and Torres Strait Islander people · Kids Helpline · Beyond Blue · and your local mental health triage service.** `UNVERIFIED — confirm numbers and current services.`
+> **Postvention matters — bereavement by suicide carries substantially increased risk for those left behind**, and families should be actively connected with support.
+> **Staff are affected too.** A patient death by suicide has a significant impact on the treating team, and structured support should be offered rather than assumed unnecessary.
+
+**Ix:** **A thorough history including collateral** (*why:* the assessment is clinical, and collateral frequently reveals what the person minimises; *what:* timeline, function, substance use, supports). **Physical examination and observations** (*why:* medical contributors and injuries; *what:* organic cause, injuries). **Toxicology and alcohol level where relevant, and a PARACETAMOL level after any overdose** (*why:* **paracetamol is commonly co-ingested, frequently not disclosed, and treatable — but only within a window**; *what:* levels — cross-refer [[A5]] 0.2). FBC, UEC, LFT, glucose, TFTs (*why:* medical contributors and baseline before medication; *what:* derangement). **ECG** (*why:* QT interval before antipsychotics and some antidepressants, and after overdose; *what:* QTc — cross-refer [[B3]] 0.3). Pregnancy test where relevant (*why:* changes medication choice; *what:* positive).
+
+---
+
+## 0.4 Agitation, Aggression and De-escalation
+
+> [!tip] Prevention is most of the work
+> **Much agitation in healthcare settings is generated by the setting** — long waits without information, noisy crowded spaces, loss of control, and unmet basic needs.
+> **Before anything else, address: PAIN · thirst and hunger · needing the toilet · NICOTINE WITHDRAWAL (a genuinely common and easily addressed driver in hospital) · not knowing what is happening or how long it will take · and being frightened.**
+> **Recognise escalation early** — pacing, raised voice, rapid speech, clenched fists, tense posture, invasion of personal space, refusal to engage. **Intervening at this stage works; intervening after aggression rarely does.**
+
+> [!danger] Your own safety first, and it is not optional
+> **· Position yourself with clear access to an EXIT — never let yourself be trapped away from the door.**
+> **· Do not assess an agitated patient alone. Tell colleagues where you are.**
+> **· Note and remove potential weapons and ligature points.**
+> **· Know how to call for help in that location BEFORE you need to.**
+> **· If you feel unsafe, leave. Your instinct is data.**
+
+> [!warning] De-escalation technique
+> **· ONE PERSON SPEAKS.** Several people talking is experienced as confrontation; others stay present but quiet.
+> **· Calm, low, slow voice** — deliberately slower and quieter than the patient's. Voices tend to converge.
+> **· Non-threatening posture — hands visible and open, body angled rather than square-on, at or below their eye level if safe, with generous personal space.**
+> **· LISTEN AND ACKNOWLEDGE genuinely** — "I can see you're really angry, and I want to understand why." **Formulaic empathy is detected instantly and makes things worse.**
+> **· ASK WHAT THEY NEED.** It is frequently something concrete and achievable.
+> **· OFFER CHOICES, however small** — where to sit, a drink, oral versus intramuscular medication. **Agitation is often about loss of control, and returning some control de-escalates.**
+> **· Set limits calmly and respectfully, without threats or ultimatums.**
+> **· Do NOT: argue about the content of delusions · crowd or surround them · make sudden movements · threaten · lie or promise what you cannot deliver · or take the aggression personally.**
+
+> [!danger] If sedation is required, the monitoring afterwards is where the deaths occur
+> **Medication is used when de-escalation has failed and there is genuine risk.**
+> **OFFER ORAL MEDICATION FIRST** — less coercive, less traumatic, safer.
+> **`UNVERIFIED — agents and doses are deliberately OMITTED. Obtain them from your health network's acute behavioural disturbance protocol, which specifies agent, dose, route, maximum doses and required monitoring for your setting.`**
+> **THE CRITICAL POINT: a sedated patient requires continuous observation and regular monitoring of airway, breathing, oxygen saturation, blood pressure, pulse, temperature and level of consciousness.**
+> **Deaths have occurred from patients being sedated and then left in a quiet room unobserved** — from airway obstruction, aspiration, respiratory depression, and unrecognised medical illness. **The sedation is the START of a period of intensive monitoring, not the end of the problem.**
+> **Be particularly careful with intoxicated patients, the elderly, those with respiratory or cardiac disease, and combinations of sedatives.**
+
+> [!danger] Restraint and seclusion — last resort, and physical restraint can kill
+> **Use the LEAST RESTRICTIVE option that manages the risk, for the SHORTEST time.**
+> **PHYSICAL RESTRAINT CARRIES A REAL RISK OF DEATH — from POSITIONAL ASPHYXIA (particularly prone restraint or pressure on the chest and abdomen), from cardiac events, and from unrecognised medical illness.**
+> **Never restrain someone prone with weight on their back. Keep the airway and chest free, and assign one person solely to monitor airway and breathing throughout.**
+> **Restraint and seclusion are legally regulated, must be documented, reviewed and reported, and require regular clinical review.** `UNVERIFIED — SA requirements and reporting obligations.`
+> **DEBRIEF afterwards — with the patient (therapeutic, and frequently omitted) and with the staff.** Restraint is traumatic for everyone, and for someone with a trauma history it can be re-traumatising in a way that damages their engagement with services for years.
+
+> [!danger] Acute behavioural disturbance is medical until proven otherwise
+> **Before concluding that agitation is psychiatric, exclude: HYPOGLYCAEMIA · HYPOXIA · delirium from any cause · sepsis · HEAD INJURY · intracranial event · postictal state · intoxication and — importantly — WITHDRAWAL (alcohol, benzodiazepines) · drug toxicity including anticholinergic and sympathomimetic · urinary retention and constipation · and pain.**
+> **Check the glucose and the observations on every agitated patient.** Cross-refer [[D2]] 0.1–0.2 and see 0.6.
+
+---
+
+## 0.5 Mental Health Legislation in South Australia
+
+> [!danger] Verify everything in this section
+> **The MENTAL HEALTH ACT 2009 (SA) is the governing legislation in South Australia, and mental health law differs substantially between Australian states and territories.**
+> **`UNVERIFIED — every provision below. Order names and levels, durations, who may make and revoke them, review timeframes and forms must be confirmed against the current Act, SA Health policy and your health network's documentation. Applying another state's framework, or an outdated version of this one, is a legal error.`**
+
+> [!tip] The principles underlying the Act
+> **· LEAST RESTRICTIVE — treatment should be the least restrictive option consistent with safe and effective care, and voluntary treatment is preferred wherever possible.**
+> **· Involuntary treatment is for MENTAL ILLNESS, and generally requires that the person needs treatment for their own health or safety or for the protection of others, and that there is no less restrictive means of providing it.**
+> **· The person retains RIGHTS throughout** — to be informed, to have a representative or advocate, to communicate, to seek a second opinion, and to have the order reviewed and to appeal.
+> **· Orders are TIME-LIMITED and subject to independent REVIEW — in South Australia by the South Australian Civil and Administrative Tribunal (SACAT).**
+> **· There are provisions for both INPATIENT and COMMUNITY treatment orders.**
+> **· Emergency provisions allow police, ambulance and authorised officers to bring a person for assessment.**
+
+> [!danger] Mental illness and capacity are different questions
+> **Being subject to the Mental Health Act does NOT mean a person lacks capacity for all decisions.**
+> **The Mental Health Act authorises treatment for MENTAL ILLNESS. It does NOT authorise unrelated medical or surgical treatment.**
+> **A patient on an inpatient treatment order who needs an appendicectomy requires consent through the ordinary pathway — their own if they have capacity, or substitute decision-making under the Consent to Medical Treatment and Palliative Care Act and the Guardianship and Administration Act if they do not.**
+> **Conflating the two is a common and consequential error.** Cross-refer [[A10]] 0.1–0.3.
+> **Conversely, a person with serious mental illness may retain full capacity to refuse a specific medical treatment**, and that refusal must be respected.
+
+> [!tip] What an intern actually needs to be able to do
+> **· Recognise when a patient may need assessment under the Act, and escalate — you are not making these decisions alone.**
+> **· Know the emergency pathway in your hospital, including how to involve security, police and the mental health team.**
+> **· Understand that a detained patient still requires ordinary consent processes for physical health care.**
+> **· Document thoroughly — mental state, risks identified, what was discussed, what less restrictive options were considered, and the reasoning.**
+> **· Ensure the person is told their rights, and that a family member or representative is informed as required.**
+> **· Know that a VOLUNTARY inpatient may leave, and that preventing them without lawful authority is unlawful detention — so if you believe they should not leave, act on it properly and urgently rather than informally.**
+
+---
+
+## 0.6 Medical Causes of Psychiatric Presentation
+
+> [!danger] "Medical clearance" is the wrong concept — the aim is medical ASSESSMENT
+> The phrase implies a box to tick before the "real" problem is addressed, and it produces cursory examinations.
+> **What is required is a proper assessment: history including collateral, full observations, physical and neurological examination, and targeted investigation based on the findings.**
+> **People with mental illness die substantially younger than the general population, mostly of physical illness**, and diagnostic overshadowing is one of the mechanisms.
+
+> [!warning] Red flags suggesting an organic cause
+> **· NEW onset of psychiatric symptoms after about age 40, and especially in the elderly.**
+> **· ACUTE or rapid onset over hours to days.**
+> **· FLUCTUATING level of consciousness or attention — this is delirium until proven otherwise.**
+> **· DISORIENTATION and cognitive impairment.**
+> **· ABNORMAL VITAL SIGNS — fever, tachycardia, hypertension, hypoxia.**
+> **· FOCAL NEUROLOGICAL SIGNS or new headache.**
+> **· VISUAL, olfactory or tactile HALLUCINATIONS.**
+> **· No previous psychiatric history, or a presentation atypical for their known diagnosis.**
+> **· Recent medication changes, or substance use and withdrawal.**
+
+> [!tip] The organic differential
+> **· DELIRIUM from any cause — the most important and the commonest.** Cross-refer [[D2]] 0.2.
+> **· Metabolic: HYPOGLYCAEMIA · hyponatraemia · hypercalcaemia · hepatic encephalopathy · uraemia · hypoxia and hypercapnia.**
+> **· Endocrine: thyroid disease in both directions · Cushing syndrome · ADRENAL INSUFFICIENCY · hyperparathyroidism.** Cross-refer [[I1]] and [[I4]].
+> **· Neurological: intracranial haemorrhage or tumour · stroke · POSTICTAL states and NON-CONVULSIVE STATUS EPILEPTICUS · encephalitis · dementia (particularly frontotemporal, which presents as behavioural change) · Huntington disease · multiple sclerosis.**
+> **· AUTOIMMUNE ENCEPHALITIS — particularly ANTI-NMDA RECEPTOR encephalitis: a young person, often female, with a PSYCHIATRIC PRODROME (behavioural change, psychosis, agitation) followed by seizures, a movement disorder and autonomic instability, associated with an OVARIAN TERATOMA.** **It is treatable, it is frequently admitted to a psychiatric unit first, and it should be considered in new psychosis with any neurological feature.** Cross-refer [[D1]] 0.5.
+> **· Infective: sepsis · encephalitis · HIV · NEUROSYPHILIS.**
+> **· Nutritional: WERNICKE ENCEPHALOPATHY — give thiamine before glucose in anyone at risk · B12 deficiency.**
+> **· Toxicological: intoxication and WITHDRAWAL — alcohol and benzodiazepine withdrawal in particular · stimulants · anticholinergic toxicity · corticosteroids · dopaminergic drugs.** Cross-refer [[A5]] and [[F0.1]].
+> **· WILSON DISEASE — a young person with a movement disorder, liver disease and psychiatric symptoms.** Cross-refer [[D6]] 0.4.
+
+> [!danger] The three drug-related emergencies that present behaviourally
+> **· NEUROLEPTIC MALIGNANT SYNDROME — lead-pipe rigidity, hyperthermia, autonomic instability and altered mental state, developing over DAYS after starting or increasing an antipsychotic, or after abrupt withdrawal of dopaminergic therapy. Raised CK.**
+> **· SEROTONIN TOXICITY — rigidity greater in the LOWER limbs with HYPERREFLEXIA and CLONUS, developing over HOURS after a serotonergic combination.**
+> **· CATATONIA — mutism, immobility, posturing, waxy flexibility, negativism, echolalia and echopraxia.** It occurs in mood disorders, psychotic illness and organic states, **and it is MISSED because the patient appears withdrawn or uncooperative rather than unwell.** **It RESPONDS TO BENZODIAZEPINES**, and **MALIGNANT CATATONIA — with autonomic instability and hyperthermia — is life-threatening.**
+> Cross-refer [[A6]] 0.3 and [[D6]] 0.7.
+
+**Ix:** **Observations and bedside glucose in every case** (*why:* the two commonest reversible causes of an acute behavioural presentation, and they take seconds; *what:* fever, hypoxia, tachycardia, hypoglycaemia). FBC, UEC, calcium, LFT, TFTs, CRP (*why:* metabolic, endocrine and infective contributors; *what:* derangement). **Toxicology, alcohol level and PARACETAMOL level after any overdose** (*why:* commonly co-ingested and not disclosed; *what:* levels). **CT brain where there are focal signs, head injury, new onset in an older patient, or an unexplained picture** (*why:* structural cause; *what:* lesion, haemorrhage). **EEG where non-convulsive status or encephalitis is possible** (*why:* invisible without one; *what:* seizure activity). Lumbar puncture and autoimmune encephalitis antibodies where indicated (*why:* treatable, and initially misdiagnosed as psychiatric; *what:* CSF findings, antibodies). **CK** where there is rigidity or prolonged restraint (*why:* NMS and rhabdomyolysis; *what:* elevation). **ECG** (*why:* QT before antipsychotics, and after overdose; *what:* QTc, conduction).
+
+---
+
+> [!note] Cross-references
+> Delirium and altered consciousness → [[D2]] 0.1–0.2 · Hyperthermic drug syndromes and catatonia → [[A6]] 0.3 and [[D6]] 0.7 · Autoimmune encephalitis → [[D1]] 0.5 · Non-convulsive status → [[D6]] 0.2 · Poisoning, overdose and paracetamol → [[A5]] and [[F0.1]] · Capacity, consent and substitute decision-making → [[A10]] 0.1–0.3 · Mood disorders → [[N4]] · Psychosis and antipsychotics → [[N3]] · Anxiety, trauma and functional disorders → [[N6]] · Substance use → [[N7]] · Eating disorders → [[N8]] · Personality and recurrent self-harm → [[N5]] · Aboriginal and Torres Strait Islander social and emotional wellbeing → [[AU1]] 0.4 · Thyroid and adrenal causes → [[I1]] and [[I4]] · QT prolongation → [[B3]] 0.3 · Communication and breaking bad news → [[GER5]]
+
+
+<!-- ===== SOURCE: N2_Acute_Behavioural_Disturbance_and_Substance_Use.md ===== -->
+
+
+> [!warning] Sourcing and scope
+> Written from model knowledge, not retrieved from source. Clinical reasoning, sequences and discriminators are reliable at intern level. **Every dose, score, threshold and regimen carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Addiction Medicine**, your health network's alcohol withdrawal and acute behavioural disturbance protocols, and the **Australian guidelines to reduce health risks from drinking alcohol (NHMRC)**.
+>
+> **SCOPE NOTE:** de-escalation technique, sedation principles, restraint, and the Mental Health Act are built in **[[N1]] 0.4–0.5** and are not repeated here. **This file covers the substance-related presentations and special populations that generate most acute behavioural disturbance** — and it also fills a gap, since the build queue contains no dedicated substance use cluster.
+
+---
+
+## 0.1 Alcohol Withdrawal and Delirium Tremens
+
+**A/P:** Chronic alcohol enhances inhibitory GABA transmission and suppresses excitatory glutamate transmission. **The brain adapts by downregulating GABA receptors and upregulating NMDA receptors.** When alcohol is withdrawn, that adaptation is unopposed → **a hyperexcitable, hyperadrenergic state.** This is why **benzodiazepines, which act at GABA receptors, are the treatment** — they substitute for the missing inhibition while the adaptation reverses.
+
+> [!danger] The timeline predicts what to expect and when
+> **· 6–12 hours — tremor, anxiety, sweating, nausea, tachycardia, hypertension, insomnia.**
+> **· 12–24 hours — ALCOHOLIC HALLUCINOSIS: hallucinations, often visual or tactile, in a patient with a CLEAR SENSORIUM who is oriented and knows the hallucinations are not real.** **The preserved orientation is what distinguishes it from delirium tremens**, and it is a much less dangerous state.
+> **· 24–48 hours — WITHDRAWAL SEIZURES**, generalised tonic-clonic, usually occurring within the first two days. **A withdrawal seizure predicts a more complicated withdrawal and warrants escalation of treatment.**
+> **· 48–72 hours and beyond — DELIRIUM TREMENS: a genuine delirium with fluctuating consciousness and disorientation, gross tremor, severe autonomic instability (fever, tachycardia, hypertension, profuse sweating), and vivid hallucinations.**
+> **DELIRIUM TREMENS IS A MEDICAL EMERGENCY WITH REAL MORTALITY, and it is preventable by treating the withdrawal adequately before it develops.**
+> **Note the timeline shifts later than people expect** — a patient admitted on Friday who becomes delirious on Sunday is frequently investigated for everything except withdrawal.
+
+> [!warning] Assessment and the limits of the scoring tool
+> **CIWA-Ar** is the standard withdrawal severity scale and underpins **symptom-triggered** dosing regimens, which reduce total benzodiazepine exposure compared with fixed-schedule dosing.
+> **Its critical limitation: it requires a patient who can communicate.** **It is unreliable and inappropriate in a patient who is delirious, non-verbal, has a language barrier, or has a competing medical illness** — precisely the sickest patients. **In those, use clinical judgement and a fixed or front-loaded regimen with senior input, not a score.**
+> `UNVERIFIED — the scale, its cut-offs, and the symptom-triggered dosing protocol.`
+
+> [!danger] Give parenteral thiamine, and give it before glucose
+> **Alcohol-dependent patients are thiamine deficient through poor intake, impaired absorption and impaired utilisation.**
+> **A glucose load in a thiamine-deficient patient consumes the remaining thiamine and can PRECIPITATE WERNICKE ENCEPHALOPATHY.**
+> **So: thiamine first, and PARENTERALLY** — oral absorption is unreliable in this group.
+> **Wernicke encephalopathy is under-diagnosed because the classic triad (confusion, ophthalmoplegia, ataxia) is present in a minority.** **Treat on suspicion, at adequate dose — under-dosing is common and Korsakoff syndrome is largely irreversible.** Cross-refer [[C2]] 0.7 and [[D2]] 0.5. `UNVERIFIED — thiamine dose, route and duration.`
+
+> [!tip] Benzodiazepine choice — and why liver disease changes it
+> **Long-acting agents (diazepam, chlordiazepoxide) provide a smooth, self-tapering withdrawal** because of their long half-life and active metabolites.
+> **BUT in significant liver disease those metabolites accumulate and cause prolonged sedation and precipitate hepatic encephalopathy.**
+> **In hepatic impairment, use an agent metabolised by glucuronidation rather than oxidation — LORAZEPAM or OXAZEPAM — because they have NO active metabolites and their clearance is preserved in liver disease.**
+> **This is a genuinely useful pharmacological point and it is examinable.** `UNVERIFIED — agents, doses and regimens.`
+
+> [!warning] What else to do, and what else to exclude
+> **· Correct electrolytes — MAGNESIUM (frequently low and contributing to seizures and arrhythmia), potassium and phosphate.** Cross-refer [[I3]] 0.6.
+> **· Fluids and nutrition, with attention to REFEEDING risk in the malnourished.** Cross-refer [[GER2]] 0.3.
+> **· EXCLUDE the concurrent problems that mimic or complicate withdrawal: HEAD INJURY and SUBDURAL HAEMATOMA (these patients fall, and are anticoagulated by their liver disease) · infection · hepatic encephalopathy · hypoglycaemia · pancreatitis · gastrointestinal bleeding.**
+> **· PROPHYLAXIS: a patient with known alcohol dependence admitted for any other reason will withdraw. Prescribe prophylactically and monitor — do not wait for symptoms to declare themselves on day three.** This is a common and preventable inpatient deterioration.
+
+**Ix:** **Bedside glucose** (*why:* hypoglycaemia is common in alcohol use and mimics withdrawal; *what:* low glucose). UEC, **magnesium, phosphate**, LFT, FBC, coagulation (*why:* electrolyte disturbance drives seizures and arrhythmia, and liver synthetic function determines benzodiazepine choice; *what:* derangement, coagulopathy). **CT brain where there is head injury, focal signs, seizure, or a delirium that does not fit the timeline** (*why:* subdural haematoma is common in this group and presents identically; *what:* haemorrhage). Septic screen (*why:* infection precipitates and mimics; *what:* source). Ammonia and assessment for hepatic encephalopathy (*why:* an alternative cause of the confusion with a different treatment; *what:* clinical and biochemical pattern — cross-refer [[C3]] 0.6).
+
+---
+
+## 0.2 Alcohol Use Disorder
+
+> [!tip] Screening and brief intervention — effective, cheap, and under-delivered
+> **AUDIT-C** is a brief validated screen; a full **AUDIT** where positive. Ask quantity and frequency in standard drinks, and be specific — "how many standard drinks on a day when you drink, and how many days a week?"
+> **BRIEF INTERVENTION — a short structured conversation providing feedback, information and advice — has good evidence for reducing consumption in non-dependent risky drinkers, and takes minutes.** It is one of the better-evidenced preventive interventions available to a generalist and it is rarely delivered.
+> **Australian NHMRC guidelines specify limits for reducing lifetime and single-occasion risk.** `UNVERIFIED — the current thresholds.`
+
+> [!warning] The complications, across systems
+> **· Hepatic — steatosis, alcoholic hepatitis, cirrhosis.** Cross-refer [[C3]].
+> **· Gastrointestinal — pancreatitis, gastritis, variceal bleeding, malabsorption.** Cross-refer [[C7]] 0.1.
+> **· Cardiac — alcoholic cardiomyopathy, hypertension, and ATRIAL FIBRILLATION ("holiday heart") after binge drinking.** Cross-refer [[B3]] 0.4.
+> **· Neurological — peripheral neuropathy, WERNICKE-KORSAKOFF, cerebellar degeneration, seizures, and increased risk of subdural haematoma.**
+> **· CANCER — alcohol is a group 1 carcinogen, causing oral, pharyngeal, oesophageal, liver, colorectal and BREAST cancer. The breast cancer association in particular is not widely known by patients and is worth mentioning.**
+> **· Nutritional — thiamine, folate, B12, magnesium, zinc.**
+> **· FETAL ALCOHOL SPECTRUM DISORDER — no safe level in pregnancy.** Cross-refer [[O2]] and [[M4]].
+> **· Trauma, injury, violence, and social and occupational consequences.**
+
+> [!tip] Management beyond withdrawal
+> **· Motivational interviewing and stage-matched intervention** — meeting the person where they are rather than issuing instructions.
+> **· PHARMACOTHERAPY, which is under-prescribed: NALTREXONE (reduces craving and reward; opioid antagonist so contraindicated with opioids), ACAMPROSATE (reduces craving; renally cleared), and DISULFIRAM (aversive; requires supervision and full understanding).** `UNVERIFIED — agents, doses, contraindications and PBS criteria.`
+> **· Psychosocial: counselling, drug and alcohol services, residential rehabilitation, and peer support (Alcoholics Anonymous, SMART Recovery).**
+> **· LONG-TERM ORAL THIAMINE and nutritional support.**
+> **· Treat comorbid mental illness concurrently — sequential treatment ("get sober first, then we'll treat the depression") fails, because the conditions maintain each other.**
+> **· Ask about children and dependants** — cross-refer [[GER4]].
+
+---
+
+## 0.3 Stimulants and Methamphetamine
+
+> [!danger] Benzodiazepines first for stimulant agitation, not antipsychotics
+> **Methamphetamine-related presentations are a substantial and increasing burden on Australian emergency departments, particularly in regional and rural areas.**
+> **Presentation: severe agitation, paranoia, psychosis, aggression, tachycardia, hypertension, HYPERTHERMIA, mydriasis, diaphoresis, and unpredictability.**
+> **BENZODIAZEPINES are first-line for the agitation** — they treat the sympathetic overdrive, reduce hyperthermia, lower seizure risk, and do not lower the seizure threshold or impair thermoregulation the way antipsychotics do.
+> **Antipsychotics are second-line** and carry specific disadvantages in this setting: **they lower the seizure threshold, impair heat dissipation, and prolong the QT** in a patient who is already hyperthermic and at arrhythmic risk.
+
+> [!danger] The lethal combination: restraint plus stimulant plus hyperthermia
+> **Sudden death has occurred in patients who were physically restrained while acutely stimulant-intoxicated, hyperthermic and acidotic.**
+> **The mechanism combines catecholamine excess, extreme exertion against restraint, metabolic acidosis, hyperthermia, rhabdomyolysis and positional asphyxia.**
+> **Practical implications: prioritise verbal de-escalation and rapid chemical sedation over prolonged physical restraint · minimise the duration of any restraint · NEVER restrain prone with pressure on the back · COOL the patient actively · give fluids · and monitor continuously including temperature.**
+> Cross-refer [[N1]] 0.4 and [[A6]] 0.2.
+
+> [!warning] The medical complications of stimulant use
+> **· CARDIAC — coronary vasospasm and myocardial infarction (including in young people with normal coronaries), arrhythmia, cardiomyopathy, and AORTIC DISSECTION.** **Chest pain in a stimulant user is an acute coronary syndrome until proven otherwise.** Cross-refer [[B1]].
+> **· NEUROLOGICAL — intracerebral haemorrhage, ischaemic stroke, seizures.** **Consider stimulants in any young person with a stroke.** Cross-refer [[D3]] 0.4.
+> **· HYPERTHERMIA — which is the proximate cause of death in severe cases, and requires active cooling.**
+> **· RHABDOMYOLYSIS and acute kidney injury.** Cross-refer [[A7]] 0.6.
+> **· MDMA specifically — HYPONATRAEMIA from a combination of excessive water intake and SIADH, causing cerebral oedema, seizures and death, characteristically in young people at music festivals. Also hyperthermia and serotonin toxicity.** Cross-refer [[I5]] 0.5 and [[A6]] 0.3.
+> **· COCAINE — coronary vasospasm. The traditional teaching is to AVOID beta-blockers because of unopposed alpha stimulation; this remains widely taught although the evidence is debated.** `UNVERIFIED — the current position.`
+
+> [!tip] Methamphetamine-induced psychosis
+> **Paranoid persecutory delusions, hallucinations (often tactile — the sensation of insects under the skin) and hostility, in the context of use.**
+> **Usually resolves over days to weeks with abstinence — but it can PERSIST, and repeated episodes are associated with subsequent primary psychotic illness.**
+> **Distinguishing it from a primary psychotic disorder requires the temporal relationship and observation over time**, and the distinction should not be made confidently at first presentation. Cross-refer [[N3]].
+> **Chronic use also causes: dependence, severe dental disease ("meth mouth"), weight loss, skin excoriation, cardiomyopathy, cognitive impairment, and profound social and occupational disruption.**
+
+---
+
+## 0.4 Other Substances
+
+> [!danger] The withdrawal syndromes that can kill are ALCOHOL and BENZODIAZEPINES — not opioids
+> **This is a high-yield distinction.**
+> **· ALCOHOL and BENZODIAZEPINE withdrawal cause seizures, delirium and death.** Both require medically supervised withdrawal, and **benzodiazepines must never be stopped abruptly in a dependent patient** — the taper is slow, sometimes over months.
+> **· OPIOID withdrawal is intensely unpleasant — nausea, vomiting, diarrhoea, cramps, sweating, piloerection, yawning, lacrimation, agitation, insomnia — but it is NOT usually life-threatening in an otherwise healthy adult.**
+> **However: it is dangerous in PREGNANCY (risk of fetal distress and miscarriage), and the vomiting and diarrhoea can cause significant dehydration and electrolyte disturbance.**
+> **And it must be treated properly — leaving a patient in untreated withdrawal is inhumane, drives self-discharge, and destroys engagement.**
+
+> [!tip] Opioids
+> **· Overdose — cross-refer [[F0.1]] 0.2.** Pinpoint pupils, reduced respiratory rate, reduced consciousness. Naloxone, with the warning that its duration is shorter than that of most opioids, so the patient must be observed.
+> **· TAKE-HOME NALOXONE is available in Australia and should be offered to people at risk and to their families** — it is a concrete, life-saving intervention that is under-offered.
+> **· OPIOID AGONIST TREATMENT (methadone, buprenorphine) — continue it in hospital.** **Confirm the dose and the last dose with the prescribing service or dispensing pharmacy before giving it** — never take the dose on the patient's report alone, and never omit it. **A missed dose precipitates withdrawal and destroys the therapeutic relationship.** Cross-refer [[AN1]] 0.6.
+> **· The period after release from prison or discharge from a detoxification unit carries a very high overdose risk, because tolerance falls while the intended dose does not.** **Warn explicitly.**
+
+> [!tip] Cannabis, GHB and the others
+> **· CANNABIS — associated with an increased risk of psychotic illness, particularly with high-potency products, early age of first use, and genetic vulnerability.** **CANNABINOID HYPEREMESIS SYNDROME: cyclical severe vomiting in a chronic user, with the near-pathognomonic feature of RELIEF FROM HOT SHOWERS OR BATHS.** Cross-refer [[C2]] 0.6. **A withdrawal syndrome exists** — irritability, insomnia, appetite change — and it is real even though it is not dangerous.
+> **· SYNTHETIC CANNABINOIDS — far more potent and unpredictable than cannabis, causing severe agitation, psychosis, seizures and cardiovascular events.**
+> **· GHB — a narrow margin between intoxication and unconsciousness, with characteristically PROFOUND, RAPID-ONSET coma followed by ABRUPT and complete recovery, often with sudden agitation on waking.** **GHB WITHDRAWAL is severe, resembles alcohol withdrawal, can be life-threatening, and requires high-dose benzodiazepines.**
+> **· NITROUS OXIDE — increasingly used recreationally, and it inactivates vitamin B12, causing a FUNCTIONAL B12 DEFICIENCY with SUBACUTE COMBINED DEGENERATION of the cord — paraesthesia, weakness, and the combination of absent reflexes with upgoing plantars.** **The serum B12 may be NORMAL — check methylmalonic acid and homocysteine.** Cross-refer [[D4]] 0.2 and [[D3]] 0.6.
+> **· VOLATILE SUBSTANCES (petrol, solvents, aerosols) — cause "sudden sniffing death" through myocardial sensitisation to catecholamines, plus neurological and haematological toxicity. Petrol sniffing has been a serious problem in some remote Australian communities, and low-aromatic fuel has been a major public health response.** Cross-refer [[AU1]].
+> **· NOVEL PSYCHOACTIVE SUBSTANCES — unpredictable in effect and duration, and NOT detected on standard drug screens**, so a negative toxicology screen does not exclude intoxication.
+
+---
+
+## 0.5 Behavioural Disturbance in Special Populations
+
+> [!danger] In an older person, behavioural disturbance is DELIRIUM until proven otherwise
+> **Not dementia, not "difficult behaviour", not psychiatric.**
+> **Look for the cause: pain (frequently untreated because the person cannot report it) · urinary retention (BLADDER SCAN) · constipation (RECTAL EXAMINATION) · infection · hypoxia · medication, especially anticholinergics and benzodiazepines · and withdrawal.**
+> **Avoid benzodiazepines — they worsen delirium** (except in alcohol or benzodiazepine withdrawal).
+> **Antipsychotics in older people with dementia increase stroke and mortality**, and in Lewy body disease can cause severe neuroleptic sensitivity — **so ask about visual hallucinations, fluctuation and dream enactment before prescribing.** Cross-refer [[D2]] 0.2–0.3.
+
+> [!danger] In intellectual disability and autism, behaviour is communication
+> **A change in behaviour is a symptom, and it means something has changed — most often something physical.**
+> **Look for: PAIN (dental, ear, abdominal, musculoskeletal, menstrual) · constipation · urinary retention or infection · reflux · seizures · sensory overload (noise, lights, crowding) · disruption of routine · a change in carers or environment · and communication frustration.**
+> **DIAGNOSTIC OVERSHADOWING — attributing the change to the person's disability rather than investigating it — is a documented cause of missed diagnosis and premature death in this population.** Cross-refer [[AU1]] 0.5.
+> **What helps: involve the people who know them and can interpret their communication · use their own communication system (device, board, signs) · adjust the ENVIRONMENT before adjusting the person (quiet space, dimmed lights, reduced staff numbers, familiar objects) · allow more time · and follow their routine where possible.**
+> **Sedation and restraint should be a genuine last resort here**, because they are frightening, frequently ineffective, and damaging to future engagement with healthcare.
+
+> [!tip] The other groups
+> **· DEMENTIA with behavioural and psychological symptoms — look for an unmet need before reaching for medication.** Cross-refer [[D2]] 0.3.
+> **· CHILDREN AND ADOLESCENTS — involve parents or carers, use age-appropriate explanation, consider developmental level, and note that the legal framework for consent and detention differs.** Cross-refer [[M7]] and [[A10]] 0.1.
+> **· ACQUIRED BRAIN INJURY — disinhibition and impulsivity are part of the injury, not wilful behaviour, and behavioural strategies work better than confrontation.**
+> **· PREGNANCY — medication choice is constrained, and untreated severe agitation is itself a risk to the pregnancy. Involve obstetrics and psychiatry early.**
+> **· TRAUMA HISTORY — restraint and seclusion can be profoundly re-traumatising, particularly for survivors of sexual violence. Ask, where possible, what helps and what makes things worse, and record it for next time.**
+
+---
+
+## 0.6 The System Interface
+
+> [!tip] Police and ambulance
+> **Police may bring a person for assessment under mental health legislation, and may remain during assessment where there is a safety concern.**
+> **Practical points: obtain a clear handover of what happened, what was said, and what was found at the scene — this is collateral you cannot get elsewhere · clarify the legal status the person arrived under · and negotiate the police role during assessment rather than assuming.**
+> **A person in police custody who requires medical or psychiatric care still requires proper assessment and care**, and custody does not diminish the clinical obligation.
+
+> [!danger] Occupational violence is not part of the job
+> **Healthcare workers experience high rates of verbal and physical aggression, and it is substantially under-reported** — partly through normalisation, partly through a belief that reporting is futile or reflects badly on the clinician.
+> **REPORT IT.** Incident data drives staffing, security, environmental design and policy, and unreported events are invisible to the people who could change the conditions.
+> **You are entitled to be safe at work, and to support after an incident.** **Debriefing, peer support, employee assistance programs and — where appropriate — time away are legitimate, not signs of inadequacy.**
+> **Distinguish aggression arising from illness, delirium or fear (which is a clinical problem) from deliberate assault (which is also a criminal matter, and may be reported as such).** Both warrant support for the staff involved.
+
+> [!warning] After the incident
+> **· DEBRIEF THE PATIENT.** When they are settled, discuss what happened, what they experienced, what would have helped, and what they would want next time. **This is therapeutic, it repairs the relationship, and it produces information that prevents recurrence — and it is almost always omitted.**
+> **· DEBRIEF THE STAFF.** Structured, non-blaming, and including the junior members who are frequently most affected and least asked.
+> **· DOCUMENT thoroughly: what happened, what was tried, what was used, what monitoring occurred, and the clinical reasoning.**
+> **· REPORT through the incident system, and complete restraint and seclusion documentation as legally required.**
+> **· REVIEW the plan** — record what worked and what escalated things, so the next clinician starts from a better position.
+> **· OPEN DISCLOSURE if the patient was harmed.** Cross-refer [[A10]] 0.5.
+
+**Ix:** **Bedside glucose and full observations including TEMPERATURE in every acute behavioural disturbance** (*why:* hypoglycaemia and hyperthermia are both rapidly lethal and rapidly detected; *what:* glucose, temperature, saturation, heart rate). **ECG** (*why:* QT before sedation, and stimulant-related ischaemia and arrhythmia; *what:* QTc, ischaemic change). **CK, UEC and urinalysis where there has been prolonged agitation, restraint or stimulant use** (*why:* rhabdomyolysis and acute kidney injury; *what:* raised CK, myoglobinuria, renal impairment). **Sodium in MDMA-related presentations** (*why:* hyponatraemia causes the deaths; *what:* low sodium). Toxicology screen, **recognising that novel substances are not detected** (*why:* supports but does not exclude; *what:* substances present). **Magnesium, potassium and phosphate in alcohol withdrawal** (*why:* they drive seizures and arrhythmia and are routinely low; *what:* deficiency). **B12 with methylmalonic acid and homocysteine in nitrous oxide use** (*why:* the serum B12 can be normal in functional deficiency; *what:* raised metabolites). **Bladder scan and rectal examination in older and cognitively impaired patients** (*why:* retention and loading are common, reversible causes of agitation; *what:* retention, loading).
+
+---
+
+> [!note] Cross-references
+> De-escalation, sedation, restraint and the Mental Health Act → [[N1]] 0.4–0.5 · Medical causes of psychiatric presentation → [[N1]] 0.6 · Delirium and dementia → [[D2]] 0.2–0.3 · Wernicke encephalopathy and thiamine → [[C2]] 0.7 and [[D2]] 0.5 · Opioid overdose and toxidromes → [[F0.1]] 0.2 · Hyperthermia and serotonin toxicity → [[A6]] 0.2–0.3 · Rhabdomyolysis → [[A7]] 0.6 · Stimulant chest pain and stroke → [[B1]] and [[D3]] 0.4 · Hyponatraemia → [[I5]] 0.5 · Magnesium and electrolytes → [[I3]] 0.6 · Liver disease and hepatic encephalopathy → [[C3]] · Cannabinoid hyperemesis → [[C2]] 0.6 · Subacute combined degeneration → [[D4]] 0.2 · Psychosis and antipsychotics → [[N3]] · Opioid agonist treatment perioperatively → [[AN1]] 0.6 · Child protection and dependants → [[GER4]] · Open disclosure → [[A10]] 0.5 · Volatile substance use in remote communities → [[AU1]]
+
+
+<!-- ===== SOURCE: N3_Psychosis_and_Antipsychotics.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and adverse effect patterns are reliable at intern level. **Every dose, monitoring interval, diagnostic criterion and threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, RANZCP clinical practice guidelines, and — for clozapine — the mandatory monitoring requirements of the relevant patient monitoring system, which are legally binding.
+>
+> **The mental state examination and risk assessment are built in [[N1]]**, **medical causes of psychosis in [[N1]] 0.6**, and **substance-induced psychosis in [[N2]] 0.3** — each is cross-referenced rather than repeated.
+
+---
+
+## 0.1 The First Episode of Psychosis
+
+> [!tip] Positive and negative symptoms — and why the negative ones matter more
+> **POSITIVE symptoms — delusions, hallucinations, disorganised thought and speech, disorganised or catatonic behaviour.** These are what bring people to attention and what antipsychotics treat best.
+> **NEGATIVE symptoms — AVOLITION (loss of motivation), ALOGIA (poverty of speech), ANHEDONIA, affective FLATTENING, and ASOCIALITY.**
+> **The negative symptoms typically PRECEDE the positive ones, PERSIST after they are treated, and account for MOST of the long-term functional impairment.**
+> **They are also routinely misattributed — to depression, to laziness, to "not trying", to medication side effects, or to the person's personality.** **Recognising them as symptoms changes how families and clinicians respond**, and it is one of the more useful things to explain.
+
+> [!danger] Duration of untreated psychosis predicts outcome — and this drives the whole service model
+> **The longer psychosis goes untreated, the worse the outcomes: slower and less complete remission, greater functional decline, and worse long-term prognosis.**
+> **This is the evidence base behind EARLY INTERVENTION services**, and Australia has been internationally influential here — **the EPPIC model and the headspace network originated in Australian work.**
+> **Practical implication: a young person with emerging psychotic symptoms should be referred to an early intervention or youth mental health service promptly, not observed to see whether it declares itself.**
+> `UNVERIFIED — current service names, eligibility and referral pathways.`
+
+> [!warning] The prodrome is where the opportunity is, and it is non-specific
+> **Months to years of: social withdrawal · decline in school, work or self-care · sleep disturbance · odd or magical beliefs · suspiciousness · perceptual oddities · reduced motivation · and a sense that something has changed.**
+> **It looks like adolescence, depression, or drug use — which is why it is missed.**
+> **The signal is a sustained CHANGE from the person's own baseline, particularly a functional decline, reported by someone who knows them well.** **Collateral history is what makes this visible.**
+
+> [!tip] What the first assessment must achieve
+> **· A full mental state examination and risk assessment** — cross-refer [[N1]].
+> **· COLLATERAL HISTORY — essential, and it is where the timeline and functional decline come from.**
+> **· A FULL MEDICAL WORKUP. First-episode psychosis mandates exclusion of organic causes** — cross-refer [[N1]] 0.6 and 0.3 below.
+> **· A substance use history, including synthetic and novel substances.**
+> **· ENGAGEMENT.** **A young person's first experience of mental health services predicts their engagement for years afterwards.** A coercive, frightening or dismissive first contact has long consequences. **Take the time, explain what is happening, involve them in decisions where possible, and involve family with consent.**
+
+---
+
+## 0.2 Schizophrenia and Related Disorders
+
+> [!info] The diagnostic frame
+> **Characteristic symptoms (positive, negative, disorganised) present for a defined duration, with significant functional impairment, and not better explained by a mood disorder, substance use or another medical condition.** `UNVERIFIED — the specific criteria and durations.`
+> **SCHNEIDERIAN FIRST-RANK SYMPTOMS** — thought insertion, withdrawal and broadcasting; passivity phenomena; third-person auditory hallucinations; running commentary; and delusional perception.
+> **These are classically taught and worth recognising — but they are NOT specific to schizophrenia.** They occur in mania, in organic states and in substance-induced psychosis, and their presence does not make the diagnosis.
+
+> [!tip] The related disorders
+> **· SCHIZOAFFECTIVE DISORDER — psychotic and mood symptoms both prominent, with psychosis present for a period in the absence of mood symptoms.**
+> **· SCHIZOPHRENIFORM DISORDER — the schizophrenia picture but of shorter duration; a proportion progress and a proportion do not.**
+> **· BRIEF PSYCHOTIC DISORDER — abrupt onset, short duration, full return to premorbid function, often with an identifiable stressor.**
+> **· DELUSIONAL DISORDER — a circumscribed, non-bizarre delusional system with OTHERWISE PRESERVED functioning and no prominent hallucinations or negative symptoms.** These patients can appear entirely normal outside the delusional domain, which is why the diagnosis is often made late and why they rarely present voluntarily.
+> **· POSTPARTUM PSYCHOSIS — a PSYCHIATRIC EMERGENCY.** Rapid onset, typically within days to weeks of delivery, with a fluctuating and confusional quality, and **substantial risk to both mother and infant.** **It requires urgent psychiatric assessment and almost always admission, ideally to a mother-and-baby unit.** Cross-refer [[O3]].
+
+> [!warning] The prognosis is heterogeneous — and saying so matters
+> **Outcomes range from full recovery to severe persistent disability, and the older nihilistic framing is inaccurate.**
+> **Better prognostic features: acute onset, an identifiable precipitant, good premorbid functioning, prominent mood symptoms, later age of onset, female sex, and good social support.**
+> **Worse: insidious onset, prominent negative symptoms, poor premorbid function, early onset, long duration of untreated psychosis, and ongoing substance use.**
+> **Telling a family "this is a lifelong deteriorating illness" at first presentation is both inaccurate and harmful.**
+
+> [!danger] The mortality gap is cardiovascular, not suicide
+> **People with schizophrenia die substantially earlier than the general population — on the order of 15 to 20 years.**
+> **Suicide risk is genuinely and substantially elevated, particularly early in the illness. But the MAJORITY of the excess mortality is from CARDIOVASCULAR DISEASE, respiratory disease and cancer.**
+> **The drivers: very high smoking rates · antipsychotic-related metabolic effects · sedentary lifestyle and poor diet · poverty · and — critically — UNDER-DIAGNOSIS AND UNDER-TREATMENT OF PHYSICAL ILLNESS through diagnostic overshadowing and fragmented care.**
+> **This reframes what good psychiatric care includes: metabolic monitoring, smoking cessation, cardiovascular risk management and cancer screening are not someone else's job.** See 0.7.
+
+---
+
+## 0.3 The Differential Diagnosis of Psychosis
+
+> [!danger] Exclude organic causes in every first episode
+> The full list is in **[[N1]] 0.6.** The features that should prompt particular concern: **new onset over 40 · acute onset · fluctuating consciousness · disorientation · abnormal vital signs · focal neurology · VISUAL, olfactory or tactile hallucinations · and no prior psychiatric history.**
+> **ANTI-NMDA RECEPTOR ENCEPHALITIS deserves specific mention: a young person, often female, with a psychiatric prodrome followed by seizures, a movement disorder and autonomic instability, associated with an ovarian teratoma. It is treatable and it is repeatedly admitted to psychiatric units first.** Cross-refer [[D1]] 0.5.
+
+> [!tip] Substance-induced psychosis
+> **Stimulants (methamphetamine in particular), cannabis and synthetic cannabinoids, hallucinogens, and corticosteroids** — plus **withdrawal states** and **anticholinergic and dopaminergic drugs.**
+> **Distinguishing it from a primary psychotic illness requires the temporal relationship and observation over time**, and it should not be settled confidently at first presentation. **Substance-induced psychosis usually resolves over days to weeks with abstinence — but it can persist, and repeated episodes are associated with subsequent primary psychotic illness.** Cross-refer [[N2]] 0.3.
+
+> [!warning] Mood disorder with psychotic features — and why the distinction changes treatment
+> **In psychotic depression: the delusions are typically MOOD-CONGRUENT — guilt, poverty, nihilism, deserved punishment, somatic decay (Cotard).** **The mood disturbance precedes and dominates.**
+> **In mania with psychosis: grandiose and often expansive delusions, with elevated or irritable mood, reduced need for sleep and increased activity.**
+> **This matters because the treatment differs: psychotic depression requires an antidepressant PLUS an antipsychotic (an antidepressant alone is inadequate), and electroconvulsive therapy is highly effective. Mania requires a mood stabiliser or antipsychotic, and an antidepressant alone can precipitate or worsen mania.** Cross-refer [[N4]].
+
+> [!tip] The other things that are mistaken for psychosis
+> **· DELIRIUM — fluctuating attention and consciousness, visual hallucinations, acute onset.** Cross-refer [[D2]] 0.2.
+> **· DEMENTIA — particularly LEWY BODY dementia (well-formed visual hallucinations, fluctuation, parkinsonism, REM sleep behaviour disorder) and frontotemporal dementia (behavioural change misread as psychiatric).** Cross-refer [[D2]] 0.3.
+> **· BORDERLINE PERSONALITY DISORDER — transient, stress-related quasi-psychotic experiences, usually brief and with retained reality testing.** Cross-refer [[N6]].
+> **· PTSD — flashbacks and dissociative re-experiencing can be described in ways that sound like hallucinations.** Cross-refer [[N5]].
+> **· CULTURALLY NORMATIVE EXPERIENCES.** **Beliefs and experiences that are sanctioned within a person's cultural or religious community — including communication with ancestors or spirits, and experiences of possession or healing — are NOT delusions or hallucinations.**
+> **Pathologising them is a serious error with real consequences, and it disproportionately affects Aboriginal and Torres Strait Islander people and people from culturally diverse backgrounds.**
+> **The test is whether the belief or experience is shared and accepted within their community, and whether it is causing distress or dysfunction by their community's standards — which requires asking someone who knows.** **Seek a cultural informant, an Aboriginal Health Worker, or a clinician from that community.** Cross-refer [[AU1]] 0.3.
+
+---
+
+## 0.4 Antipsychotics
+
+> [!tip] The mechanism, and what the "typical/atypical" distinction actually means
+> **All effective antipsychotics act on the dopamine D2 receptor — as antagonists, or in the case of aripiprazole as a partial agonist.** Second-generation agents additionally antagonise 5-HT2A receptors.
+> **The "typical versus atypical" division is more historical and commercial than pharmacological.** **With the single exception of CLOZAPINE, efficacy is broadly comparable across agents.**
+> **What actually differs is the SIDE EFFECT PROFILE, and that is what drives the choice:**
+> **· First-generation (haloperidol, chlorpromazine, zuclopenthixol, flupenthixol) — MORE extrapyramidal side effects and hyperprolactinaemia.**
+> **· Second-generation (olanzapine, risperidone, quetiapine, amisulpride, aripiprazole, paliperidone, lurasidone, ziprasidone) — MORE metabolic effects, with substantial variation between them.**
+> **Choose on the basis of side effect profile, the patient's comorbidities and preferences, and previous response — not on a presumed efficacy difference.**
+
+> [!warning] Practical prescribing points
+> **· Antipsychotic effect on psychotic symptoms takes DAYS TO WEEKS.** Sedation is immediate, and it is easy to mistake sedation for therapeutic effect and escalate the dose too quickly.
+> **· "Start low, go slow" in the antipsychotic-naive, the elderly, and in first-episode psychosis** — first-episode patients respond to lower doses and are more sensitive to side effects.
+> **· AVOID ROUTINE ANTIPSYCHOTIC POLYPHARMACY.** Two agents together increase side effects, cost and mortality risk without clear benefit, and it usually arises from cross-titration that was never completed.
+> **· LONG-ACTING INJECTABLES (depots) improve adherence and reduce relapse and hospitalisation.** **They should be offered as a positive option early — "many people find this easier than remembering tablets" — rather than introduced as a consequence of non-adherence.** Framing them as a punishment guarantees refusal.
+> **· Adherence is the single biggest determinant of relapse**, and non-adherence usually has reasons — side effects, lack of insight, cost, complexity, or feeling well. **Ask about them rather than assuming.**
+
+---
+
+## 0.5 Antipsychotic Adverse Effects
+
+> [!danger] Acute dystonia — dramatic, frightening, and rapidly reversible
+> **Onset within hours to days of starting or increasing a dopamine antagonist**, more common in young men and with high-potency agents.
+> **Features: OCULOGYRIC CRISIS (forced sustained upward eye deviation), torticollis, trismus, opisthotonos, tongue protrusion, and — dangerously — LARYNGEAL DYSTONIA causing stridor and airway compromise.**
+> **It is frequently misdiagnosed as a seizure, a psychiatric manifestation, or tetanus** — particularly when it follows metoclopramide or prochlorperazine given for nausea rather than an antipsychotic.
+> **Treatment with an anticholinergic (benztropine) produces relief within minutes and is close to diagnostic.** Cross-refer [[C2]] 0.5 and [[D6]] 0.6.
+
+> [!danger] Akathisia — and the trap of treating it with more antipsychotic
+> **A subjective sense of inner restlessness with a compulsion to move — pacing, rocking, inability to sit still, shifting the legs.**
+> **The critical error: it LOOKS like agitation or worsening psychosis, and the reflex response is to INCREASE the antipsychotic — which makes it worse.**
+> **The distinguishing feature is the SUBJECTIVE experience: ask "is it that you feel restless inside and can't keep still?" as opposed to feeling frightened, angry or driven by delusions.**
+> **Akathisia is profoundly distressing, is associated with treatment non-adherence, and has been associated with SUICIDE.** It should be taken seriously rather than tolerated.
+> **Management: reduce the dose, switch to a lower-risk agent, or add propranolol.** `UNVERIFIED — treatment options and doses.`
+
+> [!tip] The other movement disorders
+> **· DRUG-INDUCED PARKINSONISM — days to weeks; bradykinesia, rigidity and tremor, typically SYMMETRICAL.** **May take months to resolve after stopping the drug**, so lack of immediate improvement does not exclude it. Cross-refer [[D6]] 0.5.
+> **· TARDIVE DYSKINESIA — months to years of exposure; orofacial choreiform movements, tongue protrusion, lip smacking, and truncal or limb movements.** **It may be IRREVERSIBLE, and STOPPING the drug can transiently WORSEN it before improvement**, which discourages both patient and clinician. **Prevention through the lowest effective dose and regular review is the main strategy.** Cross-refer [[D6]] 0.6.
+> **· NEUROLEPTIC MALIGNANT SYNDROME — rigidity, hyperthermia, autonomic instability, altered consciousness, raised CK.** Cross-refer [[A6]] 0.3.
+
+> [!danger] Metabolic adverse effects — monitor from baseline, because they are what kills these patients
+> **Weight gain, dyslipidaemia, insulin resistance and type 2 diabetes — with substantial variation between agents.**
+> **· Highest risk: OLANZAPINE and CLOZAPINE.**
+> **· Intermediate: quetiapine, risperidone, paliperidone.**
+> **· Lowest: ARIPIPRAZOLE, ziprasidone, lurasidone, amisulpride.**
+> **Weight gain is often rapid in the first weeks and is a major cause of non-adherence, particularly in young people — and it is dismissed by clinicians far more readily than by patients.**
+> **MONITOR: weight and waist circumference, blood pressure, fasting lipids, and glucose or HbA1c — with a BASELINE before starting and at defined intervals thereafter.** `UNVERIFIED — the monitoring schedule.`
+> **And act on the results** — metabolic monitoring that is recorded and never acted upon is the common failure. Cross-refer 0.7.
+
+> [!warning] Hyperprolactinaemia — ask, because they will not tell you
+> **Highest with RISPERIDONE, PALIPERIDONE, AMISULPRIDE and the first-generation agents; lowest with aripiprazole (which may even lower prolactin) and quetiapine.**
+> **Consequences: galactorrhoea · amenorrhoea and menstrual disturbance · sexual dysfunction and reduced libido · gynaecomastia · infertility · and long-term BONE LOSS.**
+> **Patients almost never raise sexual dysfunction or galactorrhoea spontaneously, and it is a significant and under-recognised cause of silent non-adherence.** **Ask directly and matter-of-factly.** Cross-refer [[I4]] 0.2.
+
+> [!tip] The rest
+> **· QT PROLONGATION — baseline and follow-up ECG, and caution with combinations and with electrolyte disturbance.** Cross-refer [[B3]] 0.3.
+> **· Sedation and cognitive dulling** — a major reason people stop.
+> **· ANTICHOLINERGIC effects — dry mouth, constipation, urinary retention, blurred vision, cognitive impairment** — and constipation in particular must be taken seriously (see clozapine below).
+> **· Orthostatic hypotension** — especially on initiation and with quetiapine and clozapine.
+> **· Lowered seizure threshold.**
+> **· IN OLDER PEOPLE WITH DEMENTIA — increased stroke and mortality**, and in **Lewy body disease, severe neuroleptic sensitivity.** **Ask about visual hallucinations, fluctuation and dream enactment before prescribing an antipsychotic to any older person.** Cross-refer [[D2]] 0.2–0.3.
+
+---
+
+## 0.6 Clozapine
+
+> [!danger] The only agent with superior efficacy in treatment resistance — and it is used too late
+> **Treatment-resistant schizophrenia is defined as failure to respond to adequate trials of two different antipsychotics at adequate dose and duration.**
+> **Clozapine is the only antipsychotic with demonstrated superior efficacy in this group, and it also reduces suicide risk.**
+> **It is consistently UNDER-USED and STARTED TOO LATE — often after many more failed trials than the definition requires — because of the monitoring burden and clinician apprehension.** **The delay costs patients years of unremitted illness.**
+
+> [!danger] Constipation kills more clozapine patients than agranulocytosis does
+> **This is the point that is least known and most important.**
+> **Clozapine causes profound gastrointestinal hypomotility, and severe constipation can progress to paralytic ileus, bowel obstruction, ischaemia, perforation and death.**
+> **The mortality from clozapine-induced gastrointestinal hypomotility exceeds that from agranulocytosis** — yet the monitoring system is built entirely around the blood count.
+> **Practically: prescribe PROPHYLACTIC LAXATIVES from the outset · ASK ABOUT BOWELS AT EVERY REVIEW · and treat constipation aggressively rather than as a nuisance.**
+> **A clozapine patient with abdominal pain, distension or vomiting needs urgent assessment for obstruction — not reassurance.** Cross-refer [[C5]] 0.2 and 0.5.
+
+> [!danger] Myocarditis — in the first weeks, and it is missed
+> **Clozapine-induced myocarditis typically occurs within the FIRST FOUR TO SIX WEEKS of treatment and can be fatal.**
+> **Features: fever, tachycardia disproportionate to anything else, chest pain, breathlessness, fatigue, and flu-like symptoms — all of which are easily attributed to a viral illness or to clozapine's benign transient fever.**
+> **Monitoring during titration should include TROPONIN, CRP and observations**, precisely because the clinical features are non-specific.
+> **A raised troponin or CRP with tachycardia in the first weeks of clozapine requires the drug to be withheld and urgent cardiology assessment.** `UNVERIFIED — the monitoring protocol and thresholds, which are specified in the relevant clozapine monitoring programme.`
+> **Later-onset CARDIOMYOPATHY also occurs, warranting periodic echocardiography.**
+
+> [!warning] Agranulocytosis and the monitoring system
+> **The reason for mandatory haematological monitoring — a registered system linking patient, prescriber, pharmacy and laboratory, with defined blood count intervals (frequent initially, then reducing) and mandatory reporting.**
+> **The clinical instruction to the patient: FEVER, SORE THROAT OR MOUTH ULCERS means an urgent full blood count and withholding the dose.**
+> **This is legally structured, not discretionary, and dispensing is contingent on the monitoring being current.** `UNVERIFIED — the intervals, thresholds and system requirements.`
+
+> [!tip] Three practical points that catch people out
+> **· SMOKING CESSATION RAISES CLOZAPINE LEVELS SUBSTANTIALLY.** Cigarette smoke induces CYP1A2; stopping removes that induction and levels can rise into the toxic range. **A patient admitted to a smoke-free hospital who stops smoking abruptly can develop clozapine toxicity — sedation, seizures, hypotension — within days.** **Anticipate it, monitor, and consider dose reduction and level measurement.** **The reverse applies on discharge if they resume.**
+> **· MISSED DOSES REQUIRE RETITRATION.** If clozapine has been missed for more than about 48 hours, it must be RESTARTED FROM A LOW DOSE and titrated up again — because tolerance to the hypotensive and sedative effects is lost rapidly. **Restarting at the previous dose can cause collapse.** `UNVERIFIED — the exact interval.`
+> **· Other adverse effects: HYPERSALIVATION (paradoxical, and often the most socially distressing to the patient), sedation, weight gain and metabolic effects, seizures at higher doses, orthostatic hypotension, tachycardia, and a benign transient fever early in treatment that must be distinguished from myocarditis and neutropenia.**
+
+---
+
+## 0.7 Long-Term Management and Physical Health
+
+> [!danger] Physical health care is part of psychiatric care, and if nobody is named, nobody does it
+> **Given that most of the mortality gap is cardiovascular, the physical health of a person with severe mental illness is not an ancillary concern.**
+> **The recurring system failure: the psychiatric team assumes the GP is doing it, the GP assumes the mental health service is doing it, and nobody does.**
+> **Fix it by naming who is responsible, in writing, in the discharge summary or care plan.**
+> **What needs to happen: metabolic monitoring with ACTION on the results · smoking cessation support · cardiovascular risk assessment · diabetes screening · cancer screening participation, which is markedly lower in this group · dental care · and sexual and reproductive health.**
+
+> [!tip] Smoking cessation works in this population
+> **Smoking rates in people with schizophrenia are very high, and the assumption that they cannot or do not want to quit is inaccurate — they are as motivated as the general population and quit rates with proper support are meaningful.**
+> **Offer nicotine replacement, varenicline and behavioural support** — with two caveats: **monitor mood, and remember the CLOZAPINE AND OLANZAPINE LEVEL EFFECT described above.**
+
+> [!warning] The psychosocial interventions with evidence
+> **· CBT for psychosis** — reduces distress and the impact of persistent symptoms.
+> **· FAMILY INTERVENTION — reduces relapse substantially**, and is under-provided.
+> **· INDIVIDUAL PLACEMENT AND SUPPORT (supported employment) — good evidence for helping people into competitive employment**, and employment itself improves outcomes. **"Train then place" models do not work as well as "place then train".**
+> **· Assertive community treatment and case management for those with complex needs and frequent admissions.**
+> **· Relapse prevention planning with identified EARLY WARNING SIGNS** — most people have a recognisable individual prodrome, and identifying it with them and their family allows earlier intervention.
+> **· Treat comorbid substance use concurrently.** Cross-refer [[N2]].
+
+> [!tip] The framing that matters to patients
+> **Recovery in this context does not necessarily mean absence of symptoms — it means a meaningful life with self-determination, relationships, purpose and hope.**
+> **Stigma — including within healthcare — is a major determinant of outcome**, and the way psychiatric patients are spoken about and treated on medical wards is part of that.
+> **Carers need information, support and recognition**, and they are frequently excluded on privacy grounds when the patient would in fact consent if asked.
+
+**Ix:** **Baseline before starting an antipsychotic: weight, waist circumference, blood pressure, FBC, UEC, LFT, fasting glucose or HbA1c, fasting lipids, prolactin where relevant, and ECG** (*why:* establishes the baseline against which metabolic and cardiac effects are judged, and it is impossible to attribute a later abnormality without it; *what:* baseline values, QTc). **First-episode organic screen** (*why:* medical causes of psychosis; *what:* per [[N1]] 0.6). **Metabolic monitoring at defined intervals thereafter** (*why:* the effects are early and progressive, and this is where the mortality gap is generated; *what:* weight, glucose, lipids, blood pressure). **Clozapine: mandatory FBC per protocol, plus troponin, CRP and observations during titration, and periodic echocardiography** (*why:* agranulocytosis, myocarditis and cardiomyopathy; *what:* neutrophil count, troponin, CRP, ejection fraction). **Clozapine level** where toxicity, non-response or a change in smoking status (*why:* levels vary widely and smoking is a major determinant; *what:* level). Prolactin where symptomatic (*why:* hyperprolactinaemia is common, symptomatic and under-asked; *what:* elevation).
+
+---
+
+> [!note] Cross-references
+> Mental state examination, risk and the Mental Health Act → [[N1]] · Medical causes of psychosis → [[N1]] 0.6 · Substance-induced psychosis and stimulants → [[N2]] 0.3 · Mood disorders and psychotic depression → [[N4]] · Personality disorder and quasi-psychotic phenomena → [[N6]] · PTSD and dissociation → [[N5]] · Delirium, dementia and Lewy body neuroleptic sensitivity → [[D2]] 0.2–0.3 · Acute dystonic reactions and tardive dyskinesia → [[D6]] 0.6 and [[C2]] 0.5 · Drug-induced parkinsonism → [[D6]] 0.5 · Neuroleptic malignant syndrome → [[A6]] 0.3 · QT prolongation → [[B3]] 0.3 · Hyperprolactinaemia → [[I4]] 0.2 · Metabolic syndrome and cardiovascular risk → [[I5]] 0.4 and [[B2]] 0.1 · Constipation and ileus → [[C5]] 0.2, 0.5 · Autoimmune encephalitis → [[D1]] 0.5 · Postpartum psychosis → [[O3]] · Cultural safety and not pathologising cultural experience → [[AU1]] 0.3
+
+
+<!-- ===== SOURCE: N4_Mood_Disorders.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and prescribing principles are reliable at intern level. **Every dose, level, monitoring interval and diagnostic criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, RANZCP mood disorder guidelines, and — for valproate — current TGA prescribing requirements, which are regulatory rather than advisory.
+>
+> **Risk assessment and suicidality are built in [[N1]] 0.2–0.3**, and **psychotic depression in [[N3]] 0.3** — both are cross-referenced rather than repeated.
+
+---
+
+## 0.1 Depression — Assessment
+
+> [!tip] The core, and the specifiers that change treatment
+> **Core: persistent LOW MOOD and/or ANHEDONIA**, present most of the day, nearly every day, for at least two weeks, with associated features and functional impairment.
+> **Associated: sleep disturbance · appetite and weight change · fatigue · impaired concentration · psychomotor retardation or agitation · worthlessness and inappropriate guilt · and thoughts of death or suicide.**
+> **MELANCHOLIC features — anhedonia with NON-REACTIVE mood (nothing lifts it, even briefly), DIURNAL VARIATION with mood worst in the MORNING, EARLY MORNING WAKENING, marked psychomotor change, significant weight loss, and excessive guilt.**
+> **This matters because melancholic depression predicts a better response to BIOLOGICAL treatment — antidepressants and electroconvulsive therapy — and a poorer response to psychological therapy alone.**
+> **ATYPICAL features — mood REACTIVITY (temporarily lifts with positive events), HYPERSOMNIA, HYPERPHAGIA and weight gain, leaden heaviness in the limbs, and long-standing rejection sensitivity.**
+> **PSYCHOTIC features — cross-refer [[N3]] 0.3.** Requires an antipsychotic alongside the antidepressant, or ECT.
+
+> [!danger] Screen for past hypomania BEFORE prescribing an antidepressant
+> **This is the single most important question in a depressed patient, and it is routinely not asked.**
+> **Antidepressant monotherapy in an unrecognised bipolar disorder can precipitate MANIA, mixed states, or RAPID CYCLING** — and the average delay to a bipolar diagnosis is measured in years, mostly spent being treated for unipolar depression.
+> **Ask, and ask the family:**
+> **· "Have you ever had a period of a few days or more where you felt unusually high, energetic or irritable — not just happy, but different from your normal self?"**
+> **· "Have you had times when you needed much less sleep than usual and still felt fine — full of energy rather than tired?"**
+> **· "Have you ever done things that were out of character — spending, risk-taking, projects, travel?"**
+> **Patients frequently do not recall hypomania as pathological** — it felt good, or productive, or like their real self — **which is why collateral is essential.**
+> **Red flags for bipolarity in someone presenting with depression: early age of onset · highly recurrent episodes · atypical or psychotic features · a family history of bipolar disorder · postpartum onset · and previous antidepressant-induced agitation, switching, or repeated non-response.**
+
+> [!warning] The organic and other differentials
+> **· ENDOCRINE — HYPOTHYROIDISM (check the TSH in every case), Cushing syndrome, adrenal insufficiency, hyperparathyroidism.** Cross-refer [[I1]] and [[I4]].
+> **· HAEMATOLOGICAL AND NUTRITIONAL — anaemia, iron deficiency, B12 and folate deficiency, vitamin D deficiency.**
+> **· NEUROLOGICAL — Parkinson disease (in which depression frequently PRECEDES the motor features), dementia, stroke, multiple sclerosis, traumatic brain injury.**
+> **· OBSTRUCTIVE SLEEP APNOEA — very commonly presents as fatigue, low mood and cognitive complaints, and is treatable.** Cross-refer [[RESP-X]] 0.5.
+> **· MALIGNANCY — with pancreatic cancer having a particular and repeatedly noted association with depression preceding diagnosis.**
+> **· MEDICATIONS — corticosteroids, interferon, isotretinoin, some hormonal treatments; and alcohol, which is both a cause and a consequence.**
+> **· CHRONIC PAIN, which is bidirectionally related to depression.**
+> **· SUBSTANCE USE.** Cross-refer [[N2]].
+
+> [!tip] Grief, adjustment, and depression
+> **GRIEF comes in WAVES, triggered by reminders, with periods of normal or even positive emotion in between. Self-esteem is preserved. The person can still experience pleasure and connection. Thoughts of death are usually about joining the deceased rather than about being worthless.**
+> **DEPRESSION is PERVASIVE and continuous, with worthlessness, self-loathing, anhedonia that does not lift, and suicidal thoughts driven by hopelessness.**
+> **They can coexist**, and prolonged, disabling grief may warrant treatment. **The distinction is not about duration alone, and pathologising normal grief is as harmful as missing depression within it.**
+> **ADJUSTMENT DISORDER — a maladaptive response to an identifiable stressor, not meeting criteria for a depressive episode, and generally resolving as circumstances change or adaptation occurs.**
+
+> [!warning] Depression in older adults presents differently and is under-treated
+> **More somatic complaints, more anxiety and agitation, more cognitive impairment, and less reported sadness** — so it gets attributed to physical illness or to "getting old".
+> **"PSEUDODEMENTIA": the patient complains bitterly about their memory, says "I don't know" rather than attempting answers, and is MORE worried than their family — whereas in dementia the family is more worried than the patient.** Cross-refer [[D2]] 0.4.
+> **Depression is a common, treatable and frequently missed cause of functional decline in older people.**
+
+**Ix:** **TSH, FBC, ferritin, B12, folate, vitamin D, UEC, LFT, calcium, glucose** (*why:* the treatable organic contributors, and a baseline before medication; *what:* the abnormality). **Screening tools — PHQ-9, K10, the EPDS in the perinatal period, the Geriatric Depression Scale in older adults** (*why:* quantifies severity and tracks response over time; *what:* score — **used to measure, not to diagnose**). Sleep study where indicated (*why:* obstructive sleep apnoea mimics depression closely; *what:* apnoea-hypopnoea index). **ECG** (*why:* baseline QT before certain antidepressants, particularly in older adults; *what:* QTc). **Collateral history** (*why:* the bipolar screen and the functional timeline depend on it; *what:* previous elevated periods, functional change).
+
+---
+
+## 0.2 Depression — Management
+
+> [!tip] Stepped care, and antidepressants are not first-line for mild depression
+> **MILD depression: psychological therapy, behavioural and lifestyle intervention, and structured follow-up.** **Antidepressants have a small effect over placebo in mild depression and are not first-line.**
+> **MODERATE TO SEVERE: psychological therapy and/or an antidepressant — and the COMBINATION is more effective than either alone.**
+> **SEVERE, psychotic, catatonic, with food or fluid refusal, or with high suicide risk: consider ELECTROCONVULSIVE THERAPY**, which is the most effective treatment available for severe depression. See 0.6.
+
+> [!info] The psychological therapies, and how they are accessed in Australia
+> **· CBT — the most evidenced.**
+> **· BEHAVIOURAL ACTIVATION — structured re-engagement with rewarding activity. Simple, effective, comparable to full CBT in trials, and deliverable by non-specialists — which makes it a genuinely useful thing for a generalist to understand and start.**
+> **· Interpersonal therapy, acceptance and commitment therapy, and mindfulness-based cognitive therapy (with particular evidence for relapse PREVENTION).**
+> **Australian access: a GP MENTAL HEALTH TREATMENT PLAN provides Medicare-subsidised psychology sessions · headspace for young people · and free or low-cost DIGITAL CBT programs (such as THIS WAY UP and MoodGYM) which have real evidence and no waiting list.** **The digital programs are a practical option while a psychology referral is pending, and they are under-used.** `UNVERIFIED — current program names, session numbers and eligibility.`
+
+> [!warning] Lifestyle measures with genuine evidence
+> **· EXERCISE — a real antidepressant effect, comparable to other treatments in mild to moderate depression. Prescribe it specifically (type, frequency, duration) rather than saying "try to get more exercise".**
+> **· Sleep — treating insomnia improves depression, and the relationship runs both ways.**
+> **· ALCOHOL REDUCTION — alcohol worsens depression, disrupts sleep, and interacts with treatment. Depression will not resolve while heavy drinking continues.**
+> **· Social connection and structure, which behavioural activation targets directly.**
+
+> [!danger] Review within one to two weeks of starting an antidepressant
+> **Particularly in people under 25**, in whom there is **an increased risk of suicidal thoughts and behaviour early in treatment.**
+> **This does not mean withholding treatment** — untreated depression carries a far greater risk — **but it does mean close monitoring, explicit warning to the patient and family about what to watch for, and early review.**
+> **Also: energy and psychomotor function may improve BEFORE mood does, which can transiently increase the capacity to act on suicidal thoughts.**
+
+> [!danger] Continue treatment after remission — stopping early is the commonest cause of relapse
+> **Antidepressant treatment should continue for a minimum period AFTER full remission — not until the person feels better.**
+> **Patients very commonly stop as soon as they feel well, relapse, and conclude the medication did not work.**
+> **Explain this at the point of prescribing:** "this takes a few weeks to work, and once you're well we keep going for a good while longer, because stopping early is when people relapse."
+> **Longer or indefinite treatment is considered after multiple episodes.** `UNVERIFIED — the recommended continuation duration.`
+
+---
+
+## 0.3 Antidepressants
+
+> [!tip] The classes and what distinguishes them
+> **· SSRIs — first-line for most.** Differences between them are modest and mostly in side effects and interactions.
+> **· SNRIs (venlafaxine, duloxetine) — also useful in neuropathic pain; venlafaxine raises blood pressure at higher doses and has a difficult discontinuation profile.**
+> **· MIRTAZAPINE — sedating and increases appetite, which makes it genuinely useful where INSOMNIA and POOR APPETITE or weight loss dominate**, particularly in older patients. Weight gain is the trade-off.
+> **· TRICYCLICS — effective, but ANTICHOLINERGIC, sedating, cause postural hypotension, and are LETHAL IN OVERDOSE.** See the danger box.
+> **· MAOIs — effective but requiring dietary tyramine restriction and carrying serious interaction risks; specialist use.**
+> **· Agomelatine (requires LFT monitoring), vortioxetine, bupropion.**
+
+> [!warning] What to tell the patient at the point of prescribing
+> **· It takes two to four weeks for mood to improve, and up to six or more for full effect. Sleep and appetite often improve first.**
+> **· Side effects are usually WORST IN THE FIRST WEEK OR TWO and then settle** — which is exactly when people stop.
+> **· ANXIETY AND AGITATION MAY TRANSIENTLY WORSEN on starting.** Warn about it, or they conclude the drug is making them ill.
+> **· It is not addictive, but it should not be stopped abruptly.**
+> **· Sexual side effects are common — say so, because they will not ask.**
+
+> [!danger] The four adverse effects that matter most in practice
+> **1. SEXUAL DYSFUNCTION — very common (reduced libido, delayed or absent orgasm, erectile difficulty), persistent, and a major cause of SILENT non-adherence.** **Patients almost never raise it.** **Ask directly and matter-of-factly, and manage it — dose reduction, switching agent, or adjunctive strategies — rather than leaving them to stop the drug without telling you.** Cross-refer [[O6]] 0.5.
+> **2. HYPONATRAEMIA — through SIADH, typically within the first weeks, and particularly in OLDER patients, women, low body weight, and those on diuretics.** **It presents as confusion, falls, lethargy or seizures and is easily attributed to the depression itself or to ageing.** **Check the sodium after starting an antidepressant in an older person.** Cross-refer [[I5]] 0.5.
+> **3. BLEEDING RISK — SSRIs impair platelet serotonin uptake and increase gastrointestinal bleeding risk, particularly in combination with NSAIDs, aspirin or anticoagulants.** Consider gastroprotection. Cross-refer [[C4]] 0.2.
+> **4. SEROTONIN TOXICITY — with combinations (including tramadol, triptans, linezolid, St John's wort, and MAOIs).** Cross-refer [[A6]] 0.3.
+> Also: QT prolongation (particularly citalopram and escitalopram), gastrointestinal upset, headache, sleep disturbance, and weight change.
+
+> [!danger] Tricyclic antidepressants are lethal in overdose
+> **TCA overdose causes anticholinergic toxicity, seizures, QRS widening, ventricular arrhythmia and cardiovascular collapse.** **Sodium bicarbonate is the specific treatment.** Cross-refer [[A5]] and [[F0.1]] 0.5.
+> **The practical implication for prescribing: think carefully before prescribing a TCA to a person at risk of overdose**, and consider quantity supplied and who holds the medication.
+> **The same consideration applies more broadly — the quantity of any antidepressant dispensed to a person with active suicidal ideation is a legitimate clinical decision.**
+
+> [!warning] Discontinuation syndrome is not dependence — but it must be explained
+> **Abrupt cessation causes: flu-like symptoms, dizziness, nausea, irritability, vivid dreams, and characteristic "BRAIN ZAPS" or electric-shock sensations.**
+> **Worst with SHORT half-life agents — PAROXETINE and VENLAFAXINE — and minimal with fluoxetine, which self-tapers.**
+> **Taper slowly, and slower again for those agents.**
+> **Two counselling points: (1) it is NOT addiction — there is no craving or dose escalation — and telling people this prevents a great deal of unnecessary fear; and (2) it can be mistaken for relapse**, leading to the drug being restarted unnecessarily. The timing distinguishes them — discontinuation symptoms begin within days and resolve over weeks.
+
+---
+
+## 0.4 Bipolar Disorder and Mania
+
+> [!info] Mania and hypomania
+> **A distinct period of abnormally ELEVATED or IRRITABLE mood WITH INCREASED ACTIVITY OR ENERGY** — both are required — plus:
+> **grandiosity · DECREASED NEED FOR SLEEP (feeling rested after very little, as opposed to insomnia with fatigue) · pressured speech · flight of ideas · distractibility · increased goal-directed activity or psychomotor agitation · and excessive involvement in activities with high potential for harmful consequences — spending, sexual indiscretion, driving, business ventures.**
+> **MANIA: marked impairment, psychosis, or requiring hospitalisation. HYPOMANIA: an observable change from baseline without those.**
+> **BIPOLAR I involves at least one manic episode. BIPOLAR II involves hypomania plus depressive episodes, and it is NOT a milder illness** — the depressive burden and suicide risk are substantial. `UNVERIFIED — the duration criteria.`
+
+> [!danger] The depressive pole dominates, and it is where the misdiagnosis happens
+> **People with bipolar disorder spend far more time DEPRESSED than manic**, and they present when depressed.
+> **Bipolar depression is clinically similar to unipolar depression**, which is why the diagnosis rests on the history of elevated episodes — and why it is missed for years if that history is not sought.
+> **The consequence of missing it: antidepressant monotherapy, which may precipitate mania, mixed states or rapid cycling, and delays effective treatment.**
+> **Screen every depressed patient for past hypomania — see 0.1.**
+
+> [!warning] Mixed features carry the highest risk
+> **Depressive and manic features occurring together — depressed mood with agitation, racing thoughts, irritability and insomnia.**
+> **This combination carries a PARTICULARLY HIGH SUICIDE RISK**, because the hopelessness of depression coexists with the energy and impulsivity to act.
+> **A depressed patient who is agitated, sleepless and irritable rather than slowed should raise the possibility of a mixed state** — and giving them an antidepressant alone may worsen it.
+
+> [!tip] Managing acute mania
+> **· SAFETY FIRST — mania frequently involves risk to reputation, finances, relationships, sexual safety and physical safety, and insight is typically absent.** **Admission is often required, and involuntary treatment may be necessary.** Cross-refer [[N1]] 0.5.
+> **· STOP ANTIDEPRESSANTS.**
+> **· Antipsychotic and/or lithium or valproate**, with a benzodiazepine for agitation and to restore sleep.
+> **· REDUCE STIMULATION — a quiet environment, limited visitors, and restoration of sleep, which is both a treatment and a marker of response.**
+> **· Consider ECT for severe, treatment-resistant or life-threatening mania**, where it is highly effective.
+> **· Practical protection — consider access to money, cards, phone and vehicles, in discussion with family.** **Financial and reputational damage done during mania causes lasting harm and is preventable.**
+> `UNVERIFIED — agents and doses.`
+
+> [!danger] Do not treat bipolar depression with an antidepressant alone
+> **Antidepressant monotherapy in bipolar disorder risks switching to mania and inducing rapid cycling, and the evidence for benefit is weak.**
+> **The evidence-based options for bipolar depression include quetiapine, lithium, lamotrigine and lurasidone**, used alone or in combination — **with an antidepressant added only alongside a mood stabiliser, if at all.**
+> `UNVERIFIED — agents, doses and current recommendations.`
+
+> [!tip] Maintenance and relapse prevention
+> **· LITHIUM has the strongest long-term evidence, including a specific and well-replicated effect in REDUCING SUICIDE — an effect not clearly shared by other agents.**
+> **· Regular sleep and routine — sleep deprivation is a potent trigger for mania, which makes shift work, jet lag and new parenthood high-risk periods.**
+> **· Early warning sign identification with the patient and family** — most people have a recognisable individual prodrome (reduced sleep, increased activity, spending), and an agreed plan for what happens when it appears is one of the more effective interventions available.
+> **· Avoiding stimulants and reducing alcohol.**
+> **· Psychoeducation for the patient and family, which has good evidence.**
+
+---
+
+## 0.5 Mood Stabilisers
+
+> [!danger] Lithium — narrow therapeutic index, and the drugs that cause toxicity
+> **Levels must be monitored, taken at a standardised time after the dose.** `UNVERIFIED — the therapeutic range, the timing of sampling, and monitoring intervals.`
+> **TOXICITY presents as: COARSE tremor (as opposed to the fine tremor of therapeutic use) · ataxia and dysarthria · nausea, vomiting and diarrhoea · confusion and drowsiness · myoclonus · and, in severe cases, seizures, arrhythmia and renal failure.**
+> **THE PRECIPITANTS ARE PREDICTABLE AND MOSTLY IATROGENIC:**
+> **· DEHYDRATION — from any cause, including vomiting, diarrhoea, fever, and hot weather.**
+> **· NSAIDs.**
+> **· ACE INHIBITORS and ARBs.**
+> **· THIAZIDE diuretics.**
+> **· Renal impairment and sodium depletion.**
+> **These interactions are common prescriptions, and a patient on lithium who is started on an ACE inhibitor or given ibuprofen can become toxic within days.** **Check the medication list before prescribing anything to a lithium patient.**
+> **SICK DAY RULES: withhold lithium during significant vomiting, diarrhoea or dehydration, and seek review.** **Every lithium patient should know this.**
+
+> [!warning] Lithium's long-term effects, and what to monitor
+> **· HYPOTHYROIDISM — common; check TFTs periodically and treat, rather than stopping the lithium.**
+> **· HYPERPARATHYROIDISM and hypercalcaemia — check calcium.**
+> **· NEPHROGENIC DIABETES INSIPIDUS — polyuria and polydipsia.**
+> **· CHRONIC KIDNEY DISEASE with long-term use — monitor renal function.**
+> **· Weight gain, fine tremor, acne, psoriasis exacerbation.**
+> **· TERATOGENIC — associated with cardiac malformation including Ebstein anomaly. Requires specialist discussion in pregnancy planning — but note that abrupt cessation carries a high relapse risk, so it is a balance rather than an automatic stop.** Cross-refer [[O2]].
+> **Monitoring: lithium level, renal function, thyroid function and calcium at defined intervals.** `UNVERIFIED — the schedule.`
+
+> [!danger] Sodium valproate and women of childbearing potential
+> **Valproate is highly teratogenic and causes neurodevelopmental impairment in a substantial proportion of exposed children.**
+> **It must NOT be used in women and girls of childbearing potential unless there is no effective alternative and strict regulatory conditions are met, including documented counselling and effective contraception.**
+> **This is a regulatory requirement, not a suggestion, and it applies in psychiatry exactly as it does in epilepsy.** Cross-refer [[D6]] 0.3. `UNVERIFIED — the current TGA requirements.`
+> **Other valproate effects: hepatotoxicity, pancreatitis, thrombocytopenia, weight gain, hair loss, tremor, and HYPERAMMONAEMIA causing encephalopathy with a normal LFT panel** — worth knowing, because an encephalopathic patient on valproate needs an ammonia level.
+
+> [!warning] Lamotrigine and carbamazepine
+> **LAMOTRIGINE — particularly useful for preventing bipolar DEPRESSION.**
+> **· SLOW TITRATION IS MANDATORY because of the risk of SEVERE CUTANEOUS ADVERSE REACTIONS including Stevens-Johnson syndrome and toxic epidermal necrolysis.** **Any rash on lamotrigine should stop the drug pending assessment.** Cross-refer [[A5]] 0.6.
+> **· VALPROATE INHIBITS lamotrigine metabolism and substantially RAISES its level — the dose must be halved or lower when combined.** **This is a classic and dangerous interaction.**
+> **· Oestrogen-containing contraception LOWERS lamotrigine levels**, so starting or stopping the pill changes the effective dose. Cross-refer [[O6]] 0.3.
+> **CARBAMAZEPINE — a potent enzyme inducer (with contraceptive failure), causes HYPONATRAEMIA, and carries the HLA-B\*1502 association with severe cutaneous reactions in some Asian populations.**
+
+---
+
+## 0.6 Special Situations
+
+> [!danger] The perinatal period — the choice is treated illness versus untreated illness
+> **The framing that patients and clinicians get wrong: the decision is not "medication versus no medication". It is "treated illness versus UNTREATED ILLNESS", and untreated perinatal depression carries real risks to the mother, the pregnancy and the child** — including poor attachment, impaired child development, obstetric complications, and maternal suicide, **which is a leading cause of maternal death.**
+> **Practical points: screen with the EPDS · involve perinatal mental health services · sertraline is commonly used in pregnancy and breastfeeding · AVOID VALPROATE · lithium requires specialist discussion rather than automatic cessation · and most antidepressants are compatible with breastfeeding.**
+> **POSTPARTUM PSYCHOSIS is a psychiatric emergency** — rapid onset, fluctuating, with risk to mother and infant, requiring urgent assessment and usually admission. Cross-refer [[O3]] and [[N3]] 0.2.
+> **Consult a specialist medicines-in-pregnancy service rather than a product information leaflet, which is written defensively and leads to unnecessary cessation.**
+
+> [!tip] Older adults
+> **Depression is under-diagnosed and under-treated in older people**, and it presents with somatic complaints, anxiety, agitation and cognitive impairment more than with reported sadness.
+> **Prescribing considerations: HYPONATRAEMIA risk with SSRIs · falls risk · anticholinergic burden (avoid TCAs) · drug interactions · and slower titration.**
+> **ECT is safe and highly effective in older adults**, including in the very old, and it is under-used through misplaced concern.
+> **Treating depression in an older person frequently improves apparent cognitive impairment**, which is why it should be treated before a dementia diagnosis is settled. Cross-refer [[D2]] 0.4.
+
+> [!warning] Treatment-resistant depression — check these before escalating
+> **· ADHERENCE — the commonest reason, and it needs asking about without judgement.**
+> **· DOSE — is it adequate?**
+> **· DURATION — has it had long enough?**
+> **· THE DIAGNOSIS — is this actually BIPOLAR depression? Is there an organic cause? Is there undisclosed substance use?**
+> **· COMORBIDITY — untreated anxiety, PTSD, personality disorder, chronic pain, sleep apnoea, or ongoing psychosocial adversity that no drug will fix.**
+> **Only then: augmentation (lithium, an atypical antipsychotic, thyroid hormone), switching class, combination, ECT, and newer options including KETAMINE/ESKETAMINE and TRANSCRANIAL MAGNETIC STIMULATION.** `UNVERIFIED — availability, funding and criteria in Australia.`
+
+> [!danger] Electroconvulsive therapy — the evidence and the stigma
+> **ECT is the most effective treatment available for severe depression, with high response rates including in patients who have failed multiple medications.**
+> **Indications: severe depression particularly with melancholic or psychotic features · high suicide risk requiring rapid response · food and fluid refusal · CATATONIA (where it is highly effective) · severe mania · and in pregnancy, where it may be safer than pharmacotherapy.**
+> **Modern practice: under general anaesthesia with muscle relaxation, so the "convulsion" is minimal and the procedure is not what public perception suggests.**
+> **The main adverse effect is COGNITIVE — transient confusion after each treatment, ANTEROGRADE memory impairment during the course, and some RETROGRADE memory loss for the period around treatment. Most recovers, though some patchy loss for that period may persist**, and this must be discussed honestly in consent.
+> **Consent and, where the patient lacks capacity, the legal authorisation pathway are strictly regulated** and differ between jurisdictions. `UNVERIFIED — the SA requirements under the Mental Health Act 2009.`
+> **The stigma attached to ECT means patients and families frequently refuse it on the basis of cultural depiction rather than information** — and giving them accurate information, including what it actually involves, is part of the clinical role.
+
+**Ix:** **Lithium level, renal function, TFTs and calcium at defined intervals** (*why:* narrow therapeutic index and specific long-term organ effects; *what:* level, eGFR, TSH, calcium). **Lithium level urgently in any patient on lithium who is unwell, vomiting, dehydrated or confused** (*why:* toxicity is precipitated by exactly those states and presents as confusion, which is easily attributed to the illness; *what:* raised level). **Sodium after starting an antidepressant in an older person** (*why:* SIADH; *what:* hyponatraemia). LFT, FBC and ammonia on valproate where clinically indicated (*why:* hepatotoxicity, thrombocytopenia, hyperammonaemic encephalopathy; *what:* derangement). ECG (*why:* QT with certain antidepressants and antipsychotics; *what:* QTc). **Pregnancy test before prescribing valproate, lithium or carbamazepine to any woman of childbearing potential** (*why:* all are teratogenic; *what:* positive).
+
+---
+
+> [!note] Cross-references
+> Risk assessment, suicidality and safety planning → [[N1]] 0.2–0.3 · Substance use and alcohol → [[N2]] · Psychotic depression and antipsychotics → [[N3]] · Anxiety, PTSD and adjustment → [[N5]] · Personality disorder and chronic suicidality → [[N6]] · Eating disorders → [[N8]] · Depression versus dementia → [[D2]] 0.4 · Serotonin toxicity and NMS → [[A6]] 0.3 · TCA overdose → [[A5]] and [[F0.1]] 0.5 · Hyponatraemia and SIADH → [[I5]] 0.5 · Thyroid and adrenal causes → [[I1]] and [[I4]] · Obstructive sleep apnoea → [[RESP-X]] 0.5 · SSRI bleeding risk → [[C4]] 0.2 · Lamotrigine and severe cutaneous reactions → [[A5]] 0.6 · Valproate and enzyme-inducing drug interactions with contraception → [[D6]] 0.3 and [[O6]] 0.3 · Perinatal mental health and postpartum psychosis → [[O3]] and [[O2]] · Sexual dysfunction → [[O6]] 0.5 · Adolescent mental health → [[M7]]
+
+
+<!-- ===== SOURCE: N5_Anxiety__OCD_and_Trauma.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and treatment principles are reliable at intern level. **Every dose, duration and diagnostic criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, and the **Phoenix Australia** guidelines for PTSD, which are the Australian standard.
+>
+> **Functional and somatic symptom disorders are built in [[N6]]** and are cross-referenced rather than repeated.
+
+---
+
+## 0.1 Approach to Anxiety — and the Medical Mimics
+
+> [!danger] Exclude the medical causes before diagnosing an anxiety disorder
+> **Particularly with: NEW onset in an older adult · absence of any psychological context or trigger · prominent PHYSICAL symptoms with relatively little cognitive worry · episodic rather than continuous symptoms · and symptoms that wake the person from sleep.**
+> **The mimics that matter:**
+> **· THYROTOXICOSIS — the classic. Tremor, palpitations, heat intolerance, weight loss, irritability. CHECK THE TFTs.** Cross-refer [[I1]] 0.3.
+> **· ARRHYTHMIA — particularly SUPRAVENTRICULAR TACHYCARDIA in a young person, presenting as recurrent "panic attacks" with abrupt onset and offset, palpitations and light-headedness.** **The discriminator is the ABRUPT ON/OFF quality and the palpitations preceding the fear rather than following it.** **Get an ECG DURING an episode, or arrange ambulatory monitoring — a normal resting ECG proves nothing.** Cross-refer [[B3]] 0.2.
+> **· PHAEOCHROMOCYTOMA — episodic headache, palpitations and sweating, characteristically with PALLOR rather than the flushing of anxiety.** Cross-refer [[I4]] 0.5.
+> **· HYPOGLYCAEMIA.**
+> **· Respiratory — asthma, pulmonary embolism, COPD — where breathlessness is misattributed to anxiety.** **"Anxiety" is a diagnosis that gets applied to breathless young women with pulmonary emboli.**
+> **· Delirium**, particularly in the elderly. Cross-refer [[D2]] 0.2.
+> **· Rare: carcinoid syndrome, mastocytosis.**
+
+> [!warning] Substances — ask about caffeine specifically
+> **· CAFFEINE — genuinely under-asked. Ask the QUANTITY: coffees, energy drinks, pre-workout supplements, caffeinated soft drinks.** High intake produces tremor, palpitations, insomnia and anxiety indistinguishable from an anxiety disorder, and reducing it can resolve the problem entirely.
+> **· Stimulants, cannabis, and synthetic substances.**
+> **· ALCOHOL AND BENZODIAZEPINE WITHDRAWAL — including the "rebound" anxiety between doses in a dependent user, which drives further use.**
+> **· Medications — salbutamol and other beta-agonists, thyroxine over-replacement, corticosteroids, decongestants, and SSRIs in the first weeks.**
+
+> [!tip] Comorbidity is the rule
+> **Anxiety and depression coexist very frequently** — and where both are present, treating the depression usually takes priority, with substantial overlap in effective treatments.
+> **Anxiety disorders are also strongly comorbid with substance use — particularly ALCOHOL, which is used to self-medicate social anxiety and PTSD, and which then worsens both.** **Ask about it in every anxious patient.**
+> **And with physical illness** — anxiety is common and under-treated in cardiac, respiratory and oncological disease.
+
+---
+
+## 0.2 The Anxiety Disorders
+
+> [!info] What distinguishes them is the FOCUS of the fear
+> **· GENERALISED ANXIETY DISORDER — excessive, difficult-to-control WORRY about multiple domains (health, finances, family, work, minor matters), most days for months, with restlessness, fatigue, poor concentration, irritability, MUSCLE TENSION and sleep disturbance.** **The worry itself is the core feature, and it moves from topic to topic.**
+> **· SOCIAL ANXIETY DISORDER — fear of SCRUTINY and NEGATIVE EVALUATION**, with avoidance of social and performance situations, and physical symptoms (blushing, trembling, sweating, nausea) that the person fears others will notice. **Frequently mistaken for shyness, aloofness or rudeness. It causes substantial and lasting functional impairment — educational, occupational and relational — and it is very commonly self-medicated with ALCOHOL.**
+> **· SPECIFIC PHOBIA — a circumscribed fear with avoidance, which is why it often causes little impairment unless the feared object is unavoidable (needles, flying, driving).** **NEEDLE PHOBIA specifically causes avoidance of vaccination, blood tests and medical care**, and is worth asking about and managing rather than dismissing.
+> **· AGORAPHOBIA — fear of situations where escape might be difficult or help unavailable (crowds, public transport, queues, being outside alone), leading to avoidance and, at the extreme, being housebound.** Frequently follows panic disorder.
+> **· SEPARATION ANXIETY DISORDER — which occurs in adults as well as children.**
+> **· SELECTIVE MUTISM — in children.** Cross-refer [[M7]].
+> `UNVERIFIED — diagnostic criteria and duration thresholds.`
+
+> [!danger] Reassurance and investigation feed health anxiety rather than resolving it
+> **In health anxiety, reassurance and normal test results produce only TRANSIENT relief, followed by renewed doubt and further checking — and each cycle strengthens the pattern.**
+> **So the instinct to "just do the test to reassure them" is counterproductive**, and it also generates incidental findings that create genuine new problems.
+> **What helps instead: a thorough assessment ONCE · a clear positive explanation of what is happening · an agreed plan to stop repeated investigation · scheduled rather than symptom-triggered review · and psychological therapy targeting the checking and reassurance-seeking.**
+> **This requires the clinician to tolerate the patient's uncertainty rather than resolving their own discomfort with another test.** Cross-refer [[N6]].
+
+---
+
+## 0.3 Panic
+
+> [!info] The panic attack and panic disorder are not the same thing
+> **A PANIC ATTACK is an abrupt surge of intense fear or discomfort PEAKING WITHIN MINUTES**, with palpitations, sweating, trembling, breathlessness, choking, chest pain, nausea, dizziness, chills or flushes, paraesthesia, derealisation or depersonalisation, and fear of losing control or dying.
+> **Panic attacks occur in MANY conditions — other anxiety disorders, depression, PTSD, substance use and medical illness — and are not diagnostic of anything by themselves.**
+> **PANIC DISORDER requires RECURRENT UNEXPECTED attacks PLUS persistent worry about further attacks or a maladaptive change in behaviour to avoid them.** **The "unexpected" and the anticipatory worry are what define it.**
+
+> [!tip] The cognitive model — and explaining it is therapeutic
+> **A benign bodily sensation (a skipped beat, dizziness on standing, breathlessness after stairs) is CATASTROPHICALLY MISINTERPRETED as a sign of imminent death or collapse → this triggers a sympathetic surge → which produces MORE bodily sensations → which confirm the catastrophic interpretation → escalating rapidly to a peak.**
+> **Drawing this cycle for a patient, and explaining that the sensations are real but the interpretation is what drives the escalation, is genuinely therapeutic** — it reframes the experience from "something is wrong with my heart" to "my alarm system has misfired", and it is the basis of the psychological treatment.
+
+> [!warning] Hyperventilation — and do not use a paper bag
+> **Overbreathing causes a respiratory alkalosis, which INCREASES the binding of calcium to albumin and REDUCES the IONISED calcium — producing perioral and acral PARAESTHESIA and CARPOPEDAL SPASM with a completely normal total calcium.** Cross-refer [[I3]] 0.1.
+> **REBREATHING INTO A PAPER BAG IS OUTDATED AND UNSAFE** — it has caused deaths where the underlying problem was hypoxia (asthma, pulmonary embolism, myocardial infarction) rather than anxiety.
+> **Use BREATHING RETRAINING instead — slow, controlled, diaphragmatic breathing with a prolonged expiration — and reassess the patient rather than assuming.**
+
+> [!danger] The emergency department presentation — diagnose, don't just exclude
+> **Panic frequently presents as chest pain, palpitations or breathlessness, and the medical differential must be addressed appropriately** — acute coronary syndrome, arrhythmia, pulmonary embolism, thyrotoxicosis. **A first presentation, an older patient, or atypical features warrant proper assessment.**
+> **But two errors follow:**
+> **1. ENDLESS INVESTIGATION.** Repeated troponins, serial ECGs and CT angiograms across multiple presentations reinforce the belief that something has been missed, and generate incidental findings.
+> **2. TELLING THE PATIENT "THERE'S NOTHING WRONG".** This is heard as disbelief, it is not true, and it guarantees re-presentation.
+> **Instead: give them a POSITIVE diagnosis, explain the mechanism, validate that the symptoms are real and physical, and arrange follow-up and treatment.** **"You had a panic attack — that's a real physiological event and here's what happens" is a far better outcome than a normal troponin and a discharge letter saying non-cardiac chest pain.** Cross-refer [[B1]] 0.5.
+
+---
+
+## 0.4 Obsessive-Compulsive and Related Disorders
+
+> [!info] Obsessions and compulsions
+> **OBSESSIONS — recurrent, intrusive, UNWANTED thoughts, images or urges that cause marked distress.** **They are EGO-DYSTONIC: the person experiences them as alien and contrary to their values, which is the defining feature and what distinguishes them from delusions and from genuine intent.**
+> **COMPULSIONS — repetitive behaviours or mental acts performed to reduce the distress or prevent a feared outcome, according to rigid rules, and not realistically connected to what they are meant to prevent.**
+> **Common themes: contamination and washing · checking (locks, appliances, harm caused) · symmetry, ordering and "just right" feelings · and FORBIDDEN THOUGHTS.**
+
+> [!danger] Intrusive thoughts are not intent — and patients hide them for years
+> **Obsessions about causing harm, about sexual content including involving children, or blasphemous content are among the most common and the most distressing.**
+> **Patients conceal these for years — sometimes decades — because they believe the thoughts mean they are dangerous, evil or perverse, and they fear that disclosure will lead to them being reported or having their children removed.**
+> **The therapeutic point: an EGO-DYSTONIC intrusive thought is the OPPOSITE of intent. The distress it causes is precisely because it is contrary to the person's values.** **People who act on harmful urges do not typically find them horrifying.**
+> **Saying this explicitly — that these thoughts are a recognised, common symptom and not a reflection of who they are — is frequently the most relieving thing a clinician can do, and it is what allows disclosure and treatment.**
+> **Ask about them gently and normalise the question**: "some people with these symptoms get thoughts that really disturb them — thoughts about harm, or thoughts that feel completely against their values. Does anything like that happen for you?"
+
+> [!tip] Treatment differs from other anxiety disorders in two specific ways
+> **1. EXPOSURE AND RESPONSE PREVENTION (ERP) is the specific psychological treatment** — graded exposure to the trigger while refraining from the compulsion, allowing the anxiety to fall naturally. **It is more effective than generic CBT and it is what should be sought.**
+> **2. SSRIs work in OCD, but at HIGHER doses and over a LONGER duration than in depression** — the response is slower and needs more time before concluding failure. `UNVERIFIED — the doses and the trial duration.`
+> **Clomipramine remains effective and is used where SSRIs fail.** Antipsychotic augmentation is used in refractory cases.
+
+> [!warning] The related disorders
+> **· BODY DYSMORPHIC DISORDER — preoccupation with a perceived defect in appearance that is not observable or appears slight to others**, with repetitive checking, mirror-gazing or camouflaging. **It carries a HIGH SUICIDE RISK, and sufferers frequently pursue COSMETIC AND DERMATOLOGICAL PROCEDURES, which do not help and often worsen the preoccupation.** **A patient seeking repeated cosmetic intervention for a minimal or imperceptible defect should be assessed for it.**
+> **· HOARDING DISORDER — persistent difficulty discarding possessions with resulting clutter that compromises living space and safety.** **It creates genuine fire, falls and public health risks, and is frequently encountered through housing or aged care rather than mental health services.**
+> **· TRICHOTILLOMANIA (hair pulling) and EXCORIATION DISORDER (skin picking) — body-focused repetitive behaviours**, often concealed, and responsive to habit reversal training.
+
+---
+
+## 0.5 Trauma and Stressor-Related Disorders
+
+> [!info] Acute stress disorder, PTSD, and adjustment disorder
+> **ACUTE STRESS DISORDER — symptoms within the first month after trauma.**
+> **PTSD — persisting beyond a month.** The four symptom clusters:
+> **· INTRUSION — intrusive memories, nightmares, FLASHBACKS (a sense of reliving rather than merely remembering), and intense distress or physiological reactivity at reminders.**
+> **· AVOIDANCE — of internal reminders (thoughts, feelings) and external ones (people, places, activities, conversations).**
+> **· NEGATIVE ALTERATIONS IN COGNITION AND MOOD — amnesia for aspects of the event, persistent negative beliefs about oneself or the world, distorted blame, persistent negative emotional state, anhedonia, detachment, and inability to experience positive emotion.**
+> **· ALTERATIONS IN AROUSAL AND REACTIVITY — irritability and anger, RECKLESS or self-destructive behaviour, HYPERVIGILANCE, exaggerated startle, poor concentration, and sleep disturbance.**
+> **COMPLEX PTSD — following prolonged or repeated trauma, particularly interpersonal and in childhood — adds persistent AFFECT DYSREGULATION, a negative SELF-CONCEPT, and difficulties in RELATIONSHIPS.** These features overlap substantially with what is often labelled personality disorder. Cross-refer [[N6]].
+> **ADJUSTMENT DISORDER — a distressing, impairing response to an identifiable stressor that does not meet criteria for another disorder and generally resolves as circumstances change or adaptation occurs.** `UNVERIFIED — criteria and durations.`
+
+> [!danger] Do not conduct single-session psychological debriefing after trauma
+> **Single-session psychological debriefing — having people recount the traumatic event in detail shortly afterwards — DOES NOT PREVENT PTSD and there is evidence it may WORSEN outcomes in some people.**
+> **It remains intuitively appealing and is still requested after critical incidents, which is why knowing this matters.**
+> **What is appropriate in the acute phase: PSYCHOLOGICAL FIRST AID — practical support, safety, meeting basic needs, connecting people with their supports and with information, and NOT pressing them to talk about the event.**
+> **Then WATCHFUL WAITING — most acute stress reactions resolve naturally over weeks — with active follow-up and treatment for those whose symptoms persist.**
+
+> [!danger] Trauma-focused psychological therapy is first-line — before medication
+> **TRAUMA-FOCUSED CBT and EMDR (eye movement desensitisation and reprocessing) are the first-line treatments for PTSD, and they are more effective than medication.**
+> **SSRIs and SNRIs are second-line or adjunctive**, useful particularly with comorbid depression.
+> **PRAZOSIN has evidence specifically for trauma-related NIGHTMARES**, which are often the most disabling and least discussed symptom. `UNVERIFIED — dose and current evidence.`
+> **AVOID BENZODIAZEPINES.** They provide no benefit in PTSD, carry dependence risk in a population with high substance use comorbidity, and — importantly — **they impair the EXTINCTION LEARNING on which exposure-based therapy depends, so they actively undermine the definitive treatment.**
+
+> [!warning] Trauma-informed practice — and the specific ways healthcare re-traumatises
+> **The principles: SAFETY · TRUSTWORTHINESS and transparency · CHOICE · COLLABORATION · and EMPOWERMENT.**
+> **The reframe: "what happened to you?" rather than "what's wrong with you?"** — which changes how presentations that look like difficult behaviour are understood.
+> **The specific healthcare situations that re-traumatise, and what to do:**
+> **· EXAMINATIONS, particularly intimate ones — explain before touching, seek explicit permission at each step, offer a chaperone, offer the patient control over pace and stopping, and consider whether the examination is genuinely necessary now.**
+> **· RESTRAINT AND SECLUSION — profoundly re-traumatising for survivors of violence.** Cross-refer [[N1]] 0.4.
+> **· Anaesthesia and loss of consciousness · being undressed · being confined · being physically held · loud environments · and being disbelieved.**
+> **Ask, where you can: "is there anything about being in hospital, or being examined, that we should know about or that we can do differently?"** — and record the answer so the next clinician does not have to ask again.
+
+> [!tip] The Australian context
+> **· VETERANS — Open Arms provides free counselling to current and former ADF members and their families. Ask about service history, because it is not volunteered and DVA pathways differ.** Cross-refer [[AU1]] 0.1.
+> **· FIRST RESPONDERS and healthcare workers — repeated exposure to the details of traumatic events is a recognised route to PTSD, and this includes clinicians.**
+> **· REFUGEES AND ASYLUM SEEKERS — high rates of torture and trauma exposure; specialist services exist and interpreters are essential.** Cross-refer [[AU1]] 0.5.
+> **· ABORIGINAL AND TORRES STRAIT ISLANDER PEOPLES — intergenerational and collective trauma arising from colonisation, the Stolen Generations and ongoing racism, which is not adequately captured by an individual PTSD framework and requires a social and emotional wellbeing approach.** Cross-refer [[AU1]] 0.2 and 0.4.
+> **· FAMILY AND SEXUAL VIOLENCE — cross-refer [[GER4]].**
+
+---
+
+## 0.6 Management
+
+> [!danger] Avoidance is what maintains anxiety — and that principle drives everything
+> **Every anxiety disorder is maintained by the same mechanism: the person avoids the feared situation (or performs a safety behaviour, or seeks reassurance), anxiety falls in the short term, and the belief that the situation was genuinely dangerous is REINFORCED.**
+> **So short-term relief is what perpetuates the disorder** — and that includes reassurance from clinicians, unnecessary investigations, and benzodiazepines taken before feared situations.
+> **EXPOSURE — graded, repeated, and without the safety behaviour — is the active ingredient in treatment across the anxiety disorders, whatever the therapy is called.**
+
+> [!tip] Psychological treatment is first-line
+> **· CBT with exposure for the anxiety disorders.**
+> **· ERP specifically for OCD.**
+> **· Trauma-focused CBT or EMDR for PTSD.**
+> **Australian access: a GP Mental Health Treatment Plan, headspace for young people, and evidence-based DIGITAL programs (THIS WAY UP and equivalents) which have good evidence for anxiety and no waiting list** — a genuinely useful option to start while a referral is pending. `UNVERIFIED — programs and access.`
+
+> [!warning] Pharmacological treatment — and the one thing to get right at initiation
+> **· SSRIs and SNRIs are first-line.**
+> **· START AT A LOWER DOSE THAN YOU WOULD FOR DEPRESSION.** **Anxious patients are particularly sensitive to the initial activating effects — jitteriness, agitation, worsened anxiety — and if they are not warned, they take one tablet, feel worse, conclude the medication is dangerous, and never take another.**
+> **Warn explicitly: "for the first week or two you may feel more anxious or restless before it starts to help. That's expected and it settles."** **This single sentence substantially improves the chance they persist.**
+> **· OCD needs higher doses and longer trials.**
+> **· Other options: pregabalin (with misuse potential and dependence — cross-refer [[F0.4]] 0.9), buspirone, and propranolol for the somatic symptoms of performance anxiety.**
+> `UNVERIFIED — all agents and doses.`
+
+> [!danger] Benzodiazepines undermine the treatment that works
+> **Beyond the familiar problems — tolerance, dependence, withdrawal, cognitive impairment, falls in older people, and lethality in combination with opioids and alcohol — there is a specific problem in anxiety disorders:**
+> **They BLOCK THE EXTINCTION LEARNING that exposure therapy depends on.** A patient who takes a benzodiazepine before entering a feared situation does not learn that the situation is safe — they learn that they survived it *because* of the tablet. **The avoidance is preserved in chemical form.**
+> **If used at all: short-term, defined duration, with an explicit end point agreed at the outset, and alongside definitive treatment rather than instead of it.**
+> **Deprescribing an established benzodiazepine requires a slow, negotiated taper — abrupt cessation is dangerous and destroys the relationship.** Cross-refer [[N2]] 0.4.
+
+> [!tip] The non-pharmacological measures that genuinely help
+> **· CAFFEINE REDUCTION — ask the quantity, and reduce it gradually to avoid withdrawal headache.**
+> **· ALCOHOL REDUCTION — self-medication is extremely common and it worsens anxiety, particularly the rebound anxiety of the following morning.**
+> **· EXERCISE — good evidence in anxiety.**
+> **· SLEEP — treating insomnia improves anxiety and vice versa.** Cross-refer [[N7]].
+> **· Breathing retraining and grounding techniques**, taught properly rather than mentioned.
+
+**Ix:** **TFTs** (*why:* thyrotoxicosis is the classic mimic and is easily excluded; *what:* suppressed TSH). FBC, UEC, glucose, calcium (*why:* metabolic contributors, and calcium relates to the tetany of hyperventilation; *what:* derangement). **ECG, and ambulatory or event monitoring where the episodes are abrupt-onset with palpitations** (*why:* SVT masquerades as panic disorder and a resting ECG between episodes is normal; *what:* arrhythmia during symptoms — cross-refer [[B3]] 0.2). **Caffeine, alcohol and substance history with quantification** (*why:* commonly causative and entirely modifiable; *what:* intake). Plasma or urinary metanephrines **only where the episodic pattern with pallor and hypertension genuinely suggests it** (*why:* phaeochromocytoma is rare and untargeted testing generates false positives; *what:* elevated metanephrines). **Investigation restraint in health anxiety** (*why:* repeated normal tests reinforce the disorder and generate incidental findings; *what:* nothing that changes management).
+
+---
+
+> [!note] Cross-references
+> Mental state examination and risk → [[N1]] · Restraint, seclusion and re-traumatisation → [[N1]] 0.4 · Substance use, alcohol and benzodiazepine withdrawal → [[N2]] · Psychosis versus flashbacks → [[N3]] 0.3 · Depression and comorbid anxiety → [[N4]] · Somatic symptom and functional disorders, and personality → [[N6]] · Insomnia → [[N7]] · Thyrotoxicosis → [[I1]] 0.3 · Phaeochromocytoma → [[I4]] 0.5 · SVT and palpitations → [[B3]] 0.2 · Non-cardiac chest pain → [[B1]] 0.5 · Hyperventilation and ionised calcium → [[I3]] 0.1 · Pregabalin and benzodiazepine stewardship → [[F0.4]] 0.9 · Family and sexual violence → [[GER4]] · Veterans, refugees and intergenerational trauma → [[AU1]] 0.1–0.2, 0.5 · Adolescent mental health → [[M7]]
+
+
+<!-- ===== SOURCE: N6_Functional__Dissociative_and_Personality_Disorders.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical signs, reasoning and management principles are reliable at intern level. **Diagnostic criteria and any dose carry an `UNVERIFIED` marker naming what to check.** Verify against DSM-5-TR or ICD-11 criteria and **eTG Psychotropic**.
+>
+> **Trauma and PTSD are built in [[N5]] 0.5**, **chronic widespread pain and central sensitisation in [[L3]] 0.5**, and **dissociative amnesia in the neurological differential in [[D2]] 0.5** — each is cross-referenced rather than repeated.
+
+---
+
+## 0.1 Functional Neurological Disorder
+
+> [!danger] FND is a POSITIVE diagnosis made on POSITIVE signs — not a diagnosis of exclusion
+> **This is the central conceptual point and it changes everything about how the condition is explained and treated.**
+> **The diagnosis rests on demonstrating INTERNAL INCONSISTENCY — that the nervous system can perform a movement in one context and not another — not on the absence of findings on a scan.**
+> **The mechanism is a problem with the FUNCTIONING of the nervous system rather than its STRUCTURE.** The analogy that works with patients is **software rather than hardware**: the equipment is intact, the program is running wrongly.
+> **It is GENUINE and INVOLUNTARY. It is not feigned, and the patient is not choosing it.** **Distinguishing it from factitious disorder and malingering is essential and is covered in 0.6.**
+
+> [!tip] The positive signs
+> **· HOOVER SIGN — weakness of voluntary hip EXTENSION that NORMALISES when the opposite hip is flexed against resistance.** The involuntary synergistic extension is preserved while the voluntary movement is not. **The most useful single sign, and it can be demonstrated to the patient.**
+> **· GIVE-WAY (collapsing) WEAKNESS — inconsistent, ratchety resistance that suddenly gives, as opposed to the smooth constant weakness of an organic lesion.**
+> **· TREMOR ENTRAINMENT AND DISTRACTIBILITY — the tremor changes frequency to match a rhythm the patient is asked to tap with the other hand, or disappears when attention is diverted to a complex task.**
+> **· FUNCTIONAL GAIT — excessive slowness, a "walking on ice" pattern, dramatic swaying without falling, or knees buckling with recovery.** The energy expended in not falling is often greater than walking normally would require.
+> **· Inconsistency between the formal examination and observed function** — someone who cannot lift a leg on the couch but can climb onto it.
+
+> [!tip] Dissociative (non-epileptic) seizures
+> **Features suggesting a dissociative seizure: prolonged duration (often many minutes) · EYES CLOSED with active resistance to opening (in epileptic seizures the eyes are usually open) · side-to-side head movement · asynchronous, non-stereotyped limb movements · pelvic thrusting · WAXING AND WANING intensity · preserved awareness or recall despite bilateral motor activity · absence of post-ictal confusion with rapid recovery · absence of significant injury or incontinence · and occurrence in the presence of others.**
+> **But: none of these is definitive individually, epileptic frontal lobe seizures can look bizarre, and the two coexist in a meaningful proportion of patients.**
+> **VIDEO EEG telemetry is the definitive investigation**, and the diagnosis should not be made confidently on a single observed event. Cross-refer [[D6]] 0.1.
+> **Do NOT give repeated benzodiazepines and escalate to intubation for a prolonged dissociative seizure** — recognising the pattern prevents iatrogenic harm, and patients have been admitted to intensive care unnecessarily.
+
+> [!danger] How you explain the diagnosis is the most important therapeutic act
+> **Outcomes depend substantially on whether the patient accepts and understands the diagnosis, and that depends on how it is delivered.**
+> **What works:**
+> **· NAME IT — "you have functional neurological disorder". A name is better than an absence.**
+> **· DEMONSTRATE the positive sign to them** — showing a patient their own Hoover sign is powerful, because it makes the diagnosis visible rather than asserted.
+> **· Explain the mechanism** — software not hardware; the signals are not getting through properly; the pathways are intact.
+> **· Say it is COMMON** — it is one of the most frequent presentations to neurology.
+> **· Say it is GENUINE and NOT their fault, and that you are not saying they are imagining it or making it up.**
+> **· Say it is POTENTIALLY REVERSIBLE, and that specific treatment exists.**
+> **What fails:**
+> **· "There's nothing wrong" — heard as disbelief, and it is untrue.**
+> **· "It's psychological" or "it's stress" as the whole explanation — particularly when the patient can identify no stress, which is common.**
+> **· "Your scans are normal" delivered as the entire message.**
+> **· Any implication that they are producing it deliberately.**
+
+> [!warning] Two errors of investigation, in opposite directions
+> **· OVER-investigation — repeated imaging and referrals reinforce the belief that something structural has been missed, and delay the treatment that works.**
+> **· UNDER-investigation — FND COEXISTS with organic neurological disease at higher-than-chance rates, and a patient with a functional diagnosis can develop something new.** **Do not attribute every subsequent symptom to the FND without assessment.**
+> **Trauma and adverse life events are RISK FACTORS, not diagnostic requirements.** **Many patients have no identifiable psychological trigger, and pressing them to produce one alienates them and delays acceptance of the diagnosis.**
+> **Treatment: FND-specific physiotherapy (which is a distinct approach), psychological therapy, and a coordinated multidisciplinary plan.** **Prognosis is better with early diagnosis, clear explanation and acceptance.**
+
+---
+
+## 0.2 Somatic Symptom and Related Disorders
+
+> [!info] The modern framing — it is about the RESPONSE, not the absence of pathology
+> **SOMATIC SYMPTOM DISORDER — one or more distressing somatic symptoms, PLUS excessive thoughts, feelings or behaviours about them: disproportionate and persistent concern about seriousness, high health anxiety, or excessive time and energy devoted to the symptoms.**
+> **The crucial change from the older "somatoform" concept: the symptom does NOT have to be medically unexplained.** **A person with genuine cardiac disease can have somatic symptom disorder if their response to it is disproportionate and disabling.**
+> **This matters because it removes the requirement to prove absence of pathology before making the diagnosis** — which is what drove the endless investigation of the old model.
+> **ILLNESS ANXIETY DISORDER — preoccupation with having or acquiring a serious illness, with minimal or no somatic symptoms.** Either care-seeking (repeated presentation and checking) or care-avoidant (avoiding doctors entirely for fear of what will be found).
+> `UNVERIFIED — diagnostic criteria.`
+
+> [!tip] The management principles that actually reduce presentations
+> **· ONE COORDINATING CLINICIAN.** Fragmented care across multiple specialists is both a cause and a consequence, and consolidating it is the single most effective structural intervention.
+> **· REGULAR SCHEDULED APPOINTMENTS rather than symptom-triggered ones.** **This is counterintuitive but well-supported: if the only way to be seen is to have a symptom, symptoms are reinforced. Scheduled review decouples care from crisis and reduces total presentations.**
+> **· AGREE A LIMIT ON INVESTIGATION, explicitly and collaboratively.**
+> **· VALIDATE THE SYMPTOMS AS REAL** — they are. The distress is real, the pain is real, the fatigue is real.
+> **· SHIFT THE GOAL from symptom elimination to FUNCTION** — what they can do, rather than how they feel.
+> **· Treat comorbid depression and anxiety, which are common and treatable.**
+> **· CBT has evidence.**
+> **· AVOID: "there's nothing wrong" · repeated referral to new specialists · opioids · and procedures, which carry real risk and rarely help.**
+> **There is substantial overlap with chronic pain and central sensitisation** — cross-refer [[L3]] 0.5.
+
+---
+
+## 0.3 Dissociation
+
+> [!tip] A spectrum, most of which is normal
+> **From ordinary absorption and daydreaming, through depersonalisation and derealisation, to dissociative amnesia and, at the extreme, dissociative identity disorder.**
+> **DEPERSONALISATION — feeling detached from one's own body, thoughts or actions, as though observing oneself from outside. DEREALISATION — the world feeling unreal, dreamlike, flat or distant.**
+> **Reality testing is INTACT** — the person knows the experience is not real, which distinguishes it from psychosis. **This distinction matters and is frequently blurred.**
+> **These experiences are COMMON transiently — in anxiety and panic, after trauma, with sleep deprivation, and with substances — and they are frightening and rarely disclosed spontaneously because people fear they are "going mad".** **Asking about them, and normalising them, is often relieving.**
+
+> [!warning] Dissociative amnesia, and the discriminator from organic amnesia
+> **Inability to recall important autobiographical information, usually of a traumatic or stressful nature, beyond ordinary forgetting.**
+> **The key discriminator: DISSOCIATIVE amnesia can involve LOSS OF PERSONAL IDENTITY — not knowing who one is. ORGANIC amnesia essentially always PRESERVES identity.**
+> A patient who cannot remember their own name after a psychologically traumatic event is far more likely dissociative; a patient with dense anterograde amnesia who knows exactly who they are is more likely organic. Cross-refer [[D2]] 0.5.
+> **Exclude the organic causes first: temporal lobe seizures, transient global amnesia, head injury, hypoglycaemia, substances (ketamine, cannabis, alcohol blackout), and migraine.**
+
+> [!tip] Dissociation in the acute setting, and what helps
+> **It occurs in PTSD, panic, borderline personality disorder, and after acute trauma — and it can look like intoxication, psychosis or non-engagement.** A patient who appears blank, unresponsive or "vacant" during a distressing interaction may be dissociating rather than refusing to engage.
+> **GROUNDING TECHNIQUES help and can be taught in minutes:**
+> **· Orient to the present — name the date, the place, who is present.**
+> **· Engage the senses — name five things you can see, four you can hear, three you can touch.**
+> **· Physical grounding — feet firmly on the floor, holding a cold object, changing posture.**
+> **· Slow breathing.**
+> **Speak calmly, use their name, avoid crowding, and do not demand answers while they are dissociated.**
+
+---
+
+## 0.4 Personality Disorders
+
+**D:** **An enduring, pervasive and inflexible pattern of inner experience and behaviour that deviates markedly from cultural expectation, is stable over time, begins in adolescence or early adulthood, and causes significant distress or impairment.**
+
+> [!info] The traditional clusters
+> **· CLUSTER A — odd or eccentric: paranoid, schizoid, schizotypal.**
+> **· CLUSTER B — dramatic, emotional or erratic: antisocial, borderline, histrionic, narcissistic.**
+> **· CLUSTER C — anxious or fearful: avoidant, dependent, obsessive-compulsive personality disorder** (which is distinct from OCD — it is a pattern of perfectionism, rigidity and control, and is typically ego-SYNTONIC).
+> **DIMENSIONAL models — describing personality functioning and traits on continua rather than as categories — are increasingly preferred, because the categorical diagnoses overlap heavily and most people meet criteria for several.** `UNVERIFIED — the current classification.`
+
+> [!danger] Four cautions about the diagnosis
+> **1. DO NOT DIAGNOSE IN A CRISIS, or during an acute episode of another illness.** The diagnosis requires a longitudinal pattern, and behaviour during acute depression, psychosis, intoxication or overwhelming stress does not establish one.
+> **2. THE OVERLAP WITH COMPLEX PTSD IS SUBSTANTIAL.** **Much of what is labelled borderline personality disorder reflects the sequelae of prolonged developmental trauma — affect dysregulation, negative self-concept, and relationship difficulty are the defining features of both.** **Formulating it as trauma changes how the person is understood, how they are treated, and how they experience the label.** Cross-refer [[N5]] 0.5.
+> **3. THE LABEL IS HEAVILY STIGMATISED AND FREQUENTLY USED PEJORATIVELY.** **"She's just a personality disorder" is a documented driver of poor care, of dismissal, and of missed physical illness — and patients know it.** If you find yourself using the diagnosis to explain your irritation rather than the patient's presentation, that is the signal to stop.
+> **4. IT IS NEVER A REASON NOT TO TREAT SOMEONE.** Not for their distress, not for their self-harm injuries, and not for their physical symptoms.
+
+---
+
+## 0.5 Borderline Personality Disorder in the General Hospital
+
+> [!tip] The features, and why they generate the interactions they do
+> **Affective instability with intense, rapidly shifting emotion · frantic efforts to avoid real or imagined ABANDONMENT · unstable and intense relationships alternating between idealisation and devaluation · unstable self-image · IMPULSIVITY · recurrent self-harm and suicidal behaviour · chronic emptiness · intense inappropriate anger · and transient stress-related paranoid ideation or DISSOCIATION.**
+> **Understood through the trauma lens, most of these are comprehensible adaptations: hypervigilance to abandonment in someone whose care was unpredictable; self-harm as affect regulation when no other regulation was learned; and intense reactions to perceived rejection by the people they depend on — which, in hospital, is the staff.**
+
+> [!danger] Chronic suicidality is not the same as acute risk — and it must not become dismissal
+> **Chronic suicidal ideation is a common, persistent feature, and it is not equivalent to imminent risk. Responding to every expression with admission is not helpful and can be harmful — prolonged psychiatric admission for BPD is generally associated with WORSE outcomes.**
+> **BUT people with borderline personality disorder die by suicide at substantially elevated rates.**
+> **So the task is to hold both: not to escalate reflexively, and not to become desensitised.** **The question is not "are they suicidal?" — they often chronically are — but "is this DIFFERENT from their baseline, and what has changed?"**
+> **Chronicity is a reason for a considered plan, not for dismissal, and "she always says that" is how people die.**
+
+> [!warning] The general hospital principles
+> **· ONE CONSISTENT, DOCUMENTED PLAN, agreed by the team and communicated at handover.** **Inconsistency between staff is the single biggest driver of escalation** — and what gets called "splitting" is usually better understood as different clinicians genuinely responding differently, which the patient then experiences as unpredictability.
+> **· CLEAR, COLLABORATIVE BOUNDARIES set in ADVANCE** — what is available, what is not, how long the admission will be, what happens if X occurs — rather than improvised under pressure.
+> **· VALIDATE THE DISTRESS even when declining the request.** "I can see how distressing this is, and I'm not able to do that — here's what I can do."
+> **· TREAT SELF-HARM INJURIES PROPERLY, with ADEQUATE ANALGESIA and without moralising.** **Suturing without local anaesthetic as an implicit lesson is assault, and it happens.**
+> **· AVOID POLYPHARMACY. No medication treats borderline personality disorder.** Medication targets comorbid conditions or short-term crisis, and these patients frequently accumulate multiple psychotropics with no clear indication and considerable harm.
+> **· MANAGE YOUR OWN REACTION.** Strong feelings — irritation, rescue fantasies, dread, protectiveness — are expected and informative. **Notice them, discuss them with the team, and do not act on them.** Acting on them is how boundaries become punitive or over-involved.
+
+> [!danger] Diagnostic overshadowing — physical illness gets missed
+> **A patient with a BPD label who presents with physical symptoms is at high risk of having them attributed to their psychiatric diagnosis.**
+> **Assess the symptom on its merits, every time.** People with severe mental illness have more physical illness, not less, and they die younger. Cross-refer [[N3]] 0.2 and [[AU1]] 0.5.
+
+> [!tip] The prognosis is good with treatment — and saying so matters
+> **Structured psychotherapies work: DIALECTICAL BEHAVIOUR THERAPY, MENTALISATION-BASED TREATMENT, and SCHEMA THERAPY all have evidence.**
+> **A substantial proportion of people with borderline personality disorder REMIT over time, particularly with treatment — the older nihilism about the diagnosis is not supported by the longitudinal data.**
+> **Telling a patient that this is a treatable condition with a good prognosis is both accurate and therapeutic**, and it is frequently the opposite of what they have been told.
+
+---
+
+## 0.6 Factitious Disorder and Malingering
+
+> [!danger] The distinction from FND and somatic symptom disorder is INTENTIONALITY — and it must not be applied loosely
+> **· FUNCTIONAL NEUROLOGICAL DISORDER and SOMATIC SYMPTOM DISORDER — the symptoms are NOT intentionally produced. The patient is not choosing them.**
+> **· FACTITIOUS DISORDER — symptoms ARE intentionally falsified or induced, but the motivation is INTERNAL: to assume the sick role. There is no external reward. It is a psychiatric disorder.**
+> **· MALINGERING — symptoms are intentionally falsified for an EXTERNAL incentive: compensation, medication, avoiding work, prosecution or military duty, or obtaining accommodation. It is NOT a psychiatric diagnosis.**
+
+> [!danger] Be extremely cautious about concluding that someone is feigning
+> **The base rate of genuine disorder is far higher than that of feigning, and a wrongful accusation is devastating and difficult to undo — it follows the patient through the record and results in real illness being dismissed.**
+> **Inconsistency in presentation is NOT evidence of feigning** — it is characteristic of functional disorders, of pain, of fatigue, and of ordinary illness.
+> **If the concern is genuine: do not confront the patient in the moment · involve senior clinicians · document observations factually rather than conclusions · and consider what need is being met, because the underlying distress is usually real even when the presentation is not.**
+
+> [!danger] Factitious disorder imposed on another is child abuse
+> **Fabrication or induction of illness in a child (or other dependent person) by a carer — formerly Munchausen syndrome by proxy.**
+> **Warning features: a history that does not fit · symptoms observed only by the carer and never by staff · symptoms resolving when the carer is absent · repeated presentations to multiple services · unexplained failure to respond to treatment · a carer who is unusually knowledgeable, insistent on further investigation, or who appears to welcome invasive procedures · and inconsistencies between the reported and observed child.**
+> **This is a form of CHILD ABUSE with significant morbidity and mortality.**
+> **It is a MANDATORY REPORTING situation, it requires senior and paediatric involvement immediately, and it should never be managed alone or informally.** **Do not confront the carer.** Cross-refer [[GER4]] and [[M6]]. `UNVERIFIED — SA mandatory reporting requirements and pathway.`
+
+**Ix:** **A careful examination for POSITIVE functional signs** (*why:* FND is diagnosed by demonstrating internal inconsistency, not by normal imaging; *what:* Hoover sign, entrainment, distractibility). **Video EEG telemetry where dissociative seizures are suspected** (*why:* the definitive test, and clinical features overlap substantially with epilepsy; *what:* absence of epileptiform correlate during a typical event). **Targeted investigation to exclude the organic conditions genuinely suggested by the presentation — then stop** (*why:* both over- and under-investigation cause harm; *what:* the specific alternative diagnosis). **Review of previous records and investigations before repeating them** (*why:* prevents duplication, identifies the pattern, and is frequently more informative than another test; *what:* the investigation history). Screening for depression, anxiety, PTSD and substance use (*why:* comorbid and treatable, and frequently the modifiable element; *what:* comorbidity).
+
+---
+
+> [!note] Cross-references
+> Mental state examination and risk assessment → [[N1]] · Substance use → [[N2]] · Psychosis versus dissociation and quasi-psychotic phenomena → [[N3]] 0.3 · Depression and anxiety comorbidity → [[N4]] and [[N5]] · Trauma, complex PTSD and trauma-informed practice → [[N5]] 0.5 · Chronic pain, fibromyalgia and central sensitisation → [[L3]] 0.5 · Dissociative versus organic amnesia → [[D2]] 0.5 · Seizures and video EEG → [[D6]] 0.1 · Functional weakness in the stroke differential → [[D3]] 0.5 · Functional tremor → [[D6]] 0.4 · Non-cardiac chest pain → [[B1]] 0.5 · Child protection and mandatory reporting → [[GER4]] and [[M6]] · Diagnostic overshadowing → [[AU1]] 0.5 · Opioid stewardship → [[F0.4]] 0.9
+
+
+<!-- ===== SOURCE: N7_Sleep_Disorders.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and behavioural treatment principles are reliable at intern level. **Every dose, threshold and diagnostic criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, and Sleep Health Foundation / Australasian Sleep Association guidance.
+>
+> **Obstructive sleep apnoea and obesity hypoventilation are built in [[RESP-X]] 0.5**, and **restless legs syndrome in [[D6]] 0.6** — both are cross-referenced rather than repeated.
+
+---
+
+## 0.1 Sleep Assessment
+
+> [!tip] The framework that sorts the presentation in one question
+> **"Is the problem not enough OPPORTUNITY, not enough ABILITY, or not enough REFRESHMENT?"**
+> **· INSUFFICIENT SLEEP OPPORTUNITY — behavioural. The person simply is not in bed long enough** (work, caring, study, screens). **This is the commonest cause of daytime sleepiness and it is not a sleep disorder.**
+> **· INABILITY TO SLEEP despite adequate opportunity — INSOMNIA.**
+> **· ADEQUATE SLEEP that is UNREFRESHING, with excessive daytime sleepiness — sleep-disordered breathing, narcolepsy, idiopathic hypersomnia, or a medical or drug cause.**
+> **Asking what time they get into bed and what time they get up establishes the opportunity immediately**, and it frequently reveals that a "sleep disorder" is a five-hour sleep window.
+
+> [!info] What normal sleep does, and how it changes with age
+> **NREM sleep (stages N1–N3, with SLOW-WAVE sleep concentrated in N3) predominates in the FIRST third of the night. REM sleep — with dreaming and muscle ATONIA — predominates in the LAST third.**
+> **This distribution explains the parasomnias: NREM events (sleepwalking, night terrors) occur EARLY; REM events (nightmares, REM sleep behaviour disorder) occur LATE.** See 0.4.
+> **Normal ageing brings: less slow-wave sleep · more frequent awakenings and lighter sleep · and a PHASE ADVANCE — going to bed earlier and waking earlier.**
+> **These are NORMAL age-related changes, not insomnia**, and treating them with hypnotics causes harm. **An older person who sleeps six hours, wakes at five, and functions well during the day does not have a sleep disorder.**
+
+> [!warning] The assessment — and the sleep diary is the core tool
+> **A two-week SLEEP DIARY is more informative than any single consultation**, because recall of sleep is unreliable in both directions and the diary reveals the pattern, the variability, and the weekday–weekend difference.
+> **Ask: time to bed · time to sleep onset · number and duration of awakenings · final waking time · time out of bed · TOTAL TIME IN BED versus estimated time ASLEEP · naps · daytime function · and the weekend pattern.**
+> **Also screen for: OBSTRUCTIVE SLEEP APNOEA (snoring, witnessed apnoeas, morning headache — use STOP-BANG) · RESTLESS LEGS · depression and anxiety · pain · nocturia · alcohol and caffeine · medications · and shift work.**
+> **The BED PARTNER's account is essential** — for snoring, apnoeas, limb movements, and dream enactment, none of which the patient can report.
+
+---
+
+## 0.2 Insomnia
+
+> [!tip] The 3P model — and the perpetuating factors are the treatment target
+> **· PREDISPOSING — trait hyperarousal, anxiety, family history, older age, female sex.**
+> **· PRECIPITATING — the stressor, illness, bereavement or shift change that started it.**
+> **· PERPETUATING — what keeps it going AFTER the precipitant has resolved.**
+> **The perpetuating factors are where the treatment acts, and they are almost all COMPENSATORY BEHAVIOURS that seem sensible:**
+> **· Spending LONGER IN BED to try to catch up — which dilutes sleep across more hours and weakens the association between bed and sleep.**
+> **· NAPPING, which reduces sleep pressure at night.**
+> **· CLOCK-WATCHING and calculating how much sleep remains.**
+> **· WORRYING ABOUT SLEEP, which is itself arousing — the effort to sleep is incompatible with sleeping.**
+> **· Going to bed early "to be sure of getting enough".**
+> **Explaining this to the patient is therapeutic in itself**, because it reframes their reasonable-seeming efforts as the mechanism maintaining the problem.
+
+> [!danger] CBT for insomnia is first-line — more effective than medication in the long term
+> **CBT-I outperforms hypnotics beyond the short term, and its benefits PERSIST after treatment ends, which medication's do not.** **It should be offered before, or alongside, any prescription.**
+> **Its components, in order of power:**
+> **· SLEEP RESTRICTION — the most effective component. Restrict TIME IN BED to approximately the actual time slept, keeping a FIXED WAKE TIME, then extend gradually as sleep efficiency improves.** It works by building sleep pressure and re-establishing the bed–sleep association. **It is temporarily unpleasant and requires explanation and support, which is why it needs to be delivered properly rather than mentioned.**
+> **· STIMULUS CONTROL — bed is for sleep and sex only; go to bed only when sleepy; if not asleep within about 20 minutes, GET UP and do something quiet elsewhere until sleepy; get up at the SAME TIME every day regardless of how the night went; no napping.**
+> **· COGNITIVE therapy — addressing catastrophic beliefs ("if I don't sleep I won't cope tomorrow"), which drive the arousal.**
+> **· Relaxation techniques.**
+> **DIGITAL CBT-I programs are effective, freely or cheaply available, and have no waiting list** — a practical option in general practice. `UNVERIFIED — the Australian programs currently available.`
+
+> [!warning] Sleep hygiene alone is not treatment
+> **Advice about caffeine, screens, room temperature and routine is NECESSARY but NOT SUFFICIENT** — sleep hygiene alone has repeatedly failed to treat chronic insomnia in trials.
+> **Handing over a sleep hygiene leaflet is not CBT-I**, and patients who have "tried everything" have usually tried exactly this.
+> **The active ingredients are sleep restriction and stimulus control**, and they require instruction and follow-up.
+
+> [!danger] Hypnotics — short-term at most, and the harms are underestimated
+> **Benzodiazepines and Z-drugs (zolpidem, zopiclone): tolerance develops within weeks · dependence and withdrawal · REBOUND insomnia on cessation, which convinces the patient they still need it · cognitive impairment · next-day sedation and MOTOR VEHICLE ACCIDENT risk · and FALLS AND FRACTURES in older people, where the harm is substantial and well documented.**
+> **Z-drugs specifically cause COMPLEX SLEEP BEHAVIOURS — sleep-walking, sleep-eating, and sleep-DRIVING, with no recall** — which is a regulatory warning and a genuine hazard.
+> **If prescribed: short duration, defined end point agreed at the outset, and not as a substitute for CBT-I.**
+> **Deprescribing an established hypnotic requires a SLOW, negotiated taper with CBT-I support** — abrupt cessation produces rebound insomnia that the patient reasonably interprets as proof they need the drug.
+> **What NOT to use: QUETIAPINE for insomnia — it carries metabolic and cardiac risk without an evidence base for this indication, and it is prescribed for sleep far too readily. And sedating ANTIHISTAMINES — anticholinergic, with rapid tolerance and next-day impairment, particularly bad in older people.**
+> **Melatonin has modest effects in primary insomnia; it is more useful in CIRCADIAN disorders and, as a prolonged-release preparation, in older adults.** `UNVERIFIED — doses, formulations and PBS availability.`
+
+---
+
+## 0.3 Circadian Rhythm Disorders and Shift Work
+
+> [!tip] Delayed sleep-wake phase disorder — commonly misread as insomnia or laziness
+> **The internal clock is shifted LATER. The person cannot fall asleep until the early hours and cannot wake at a conventional time — but if allowed to sleep on their own schedule, sleep is NORMAL in quality and duration.**
+> **That last point is the discriminator from insomnia: on holidays, they sleep perfectly well — just at the wrong times.**
+> **Very common in ADOLESCENTS and young adults, in whom the biological phase delay of puberty collides with early school start times** — producing chronic sleep deprivation that is attributed to poor motivation, screen use or defiance. Cross-refer [[M7]].
+> **Treatment targets the clock, not sleep: BRIGHT LIGHT EXPOSURE IN THE MORNING (which advances the phase), AVOIDANCE OF BRIGHT LIGHT IN THE EVENING, and SMALL-DOSE MELATONIN TAKEN SEVERAL HOURS BEFORE THE DESIRED SLEEP TIME — the timing matters more than the dose, and melatonin taken at bedtime does little.**
+> **Hypnotics do not work and are the wrong treatment.** `UNVERIFIED — light and melatonin timing protocols.`
+> **ADVANCED sleep-wake phase disorder is the mirror image, seen in older adults** — sleepy in the early evening, waking very early.
+
+> [!danger] Shift work — and this applies directly to you
+> **Shift work disorder: insomnia and/or excessive sleepiness attributable to a work schedule that conflicts with the circadian clock.**
+> **The health consequences of long-term shift work are real: increased cardiovascular disease, metabolic syndrome and type 2 diabetes, gastrointestinal disturbance, mood disorder, and an association with certain cancers — alongside the immediate risks of error and accident.**
+> **Practical strategies:**
+> **· Sleep BEFORE the first night shift — a substantial afternoon nap, not just an early night.**
+> **· STRATEGIC NAPPING during the shift where permitted — even brief naps improve alertness and performance.**
+> **· LIGHT — bright light during the shift to promote alertness; dark glasses on the way home to avoid phase-shifting light exposure.**
+> **· CAFFEINE early in the shift, not late — it has a long half-life and will impair the recovery sleep.**
+> **· A dark, quiet, cool sleep environment during the day — blackout blinds, earplugs, phone off.**
+> **· FORWARD-ROTATING rosters (day → evening → night) are better tolerated than backward rotation.**
+> **DRIVING HOME AFTER A NIGHT SHIFT IS A GENUINE AND WELL-DOCUMENTED CRASH RISK — comparable in impairment to alcohol.** **Plan it: public transport, a lift, a nap before driving, or accommodation.** **This is not theoretical — doctors have died driving home from night shifts.**
+
+---
+
+## 0.4 Parasomnias
+
+> [!info] The timing of the event tells you which type it is
+> **NREM PARASOMNIAS — sleepwalking, sleep terrors, confusional arousals:**
+> **· Occur in the FIRST THIRD of the night, arising from deep slow-wave sleep.**
+> **· The person is difficult to rouse, confused if woken, and has NO RECALL afterwards.**
+> **· Common in CHILDREN and usually outgrown.**
+> **· Triggered by SLEEP DEPRIVATION, alcohol, fever, stress, and untreated OBSTRUCTIVE SLEEP APNOEA — which is worth screening for in an adult with new sleepwalking.**
+> **· Management: SAFETY (secure windows and external doors, stair gates, remove hazards, ground-floor bedroom), address the triggers, and prioritise adequate sleep. Do not shake them awake — guide them gently back to bed.**
+> **REM PARASOMNIAS — nightmares and REM sleep behaviour disorder:**
+> **· Occur in the LAST third of the night.**
+> **· The person wakes fully and RECALLS the dream.**
+
+> [!danger] REM sleep behaviour disorder is a neurological prodrome
+> **Loss of the normal REM muscle atonia, so the person physically ACTS OUT their dreams** — punching, kicking, shouting, leaping from bed — **with injuries to themselves and, frequently, to the bed partner.** They recall a dream that matches the behaviour.
+> **It is STRONGLY associated with the subsequent development of an ALPHA-SYNUCLEINOPATHY — Parkinson disease, dementia with Lewy bodies, or multiple system atrophy — often preceding the motor or cognitive features by YEARS to DECADES.**
+> **A large proportion of people with idiopathic RBD eventually convert.**
+> **Two implications:**
+> **1. Ask about dream enactment in anyone with parkinsonism or suspected Lewy body dementia** — it supports the diagnosis. Cross-refer [[D6]] 0.5 and [[D2]] 0.3.
+> **2. Conversely, a patient presenting with RBD needs a careful and honest conversation about prognostic significance — which is a genuinely difficult discussion and should be led by a specialist rather than delivered casually at the end of a consultation.**
+> **Management: bedroom SAFETY measures (move furniture, pad the floor, consider separate beds, remove sharp objects), plus melatonin or clonazepam.** `UNVERIFIED — agents and doses.`
+
+> [!tip] The distinctions that come up
+> **· NIGHTMARES versus NIGHT TERRORS in children — the classic exam distinction.**
+> **NIGHTMARES: REM, LATE in the night, the child WAKES fully, RECALLS the dream, and is CONSOLABLE.**
+> **NIGHT TERRORS: NREM, EARLY in the night, the child appears terrified and screams but is NOT awake, is INCONSOLABLE and unresponsive, and has NO RECALL in the morning.** **The parents are far more distressed than the child, and the reassurance that the child has no memory of it is the main therapeutic act.**
+> **· NOCTURNAL SEIZURES versus parasomnias — seizures are STEREOTYPED (identical each time), BRIEF, can occur at ANY time of night, may involve tongue biting or incontinence, and may have post-ictal confusion.** Parasomnias are variable and non-stereotyped. **Video EEG resolves genuinely unclear cases.** Cross-refer [[D6]] 0.1.
+> **· SLEEP PARALYSIS — REM atonia persisting into wakefulness: the person is awake and aware but unable to move, often with frightening hypnagogic hallucinations and a sense of presence or chest pressure.** **It is common, benign in isolation, and terrifying — and explaining the mechanism is genuinely relieving.** It is also part of the narcolepsy tetrad, so ask about the other features.
+
+---
+
+## 0.5 Excessive Daytime Sleepiness and Narcolepsy
+
+> [!danger] Exclude the common causes before considering the rare ones
+> **In order of frequency: INSUFFICIENT SLEEP OPPORTUNITY · OBSTRUCTIVE SLEEP APNOEA · medication and substance effects · depression · shift work and circadian misalignment · hypothyroidism · and chronic medical illness.**
+> **Together these account for the overwhelming majority.** Cross-refer [[RESP-X]] 0.5.
+> **Quantify the sleepiness with the EPWORTH SLEEPINESS SCALE**, and distinguish SLEEPINESS (a tendency to fall asleep) from FATIGUE (tiredness without the tendency to fall asleep) — **they have different differentials, and depression, anaemia and chronic disease produce fatigue rather than true sleepiness.** Cross-refer [[B6]] 0.5.
+
+> [!warning] Narcolepsy — and the diagnostic delay is measured in years
+> **· TYPE 1 — excessive daytime sleepiness WITH CATAPLEXY**, associated with loss of hypocretin (orexin) neurons.
+> **· TYPE 2 — without cataplexy.**
+> **CATAPLEXY is the pathognomonic feature: SUDDEN, BILATERAL loss of muscle tone TRIGGERED BY EMOTION — most characteristically LAUGHTER, but also surprise, anger or excitement — with CONSCIOUSNESS FULLY PRESERVED.** It may be subtle (jaw dropping, head nodding, knees buckling) or complete collapse. **The preserved consciousness distinguishes it from syncope and seizure**, and the emotional trigger is the giveaway.
+> **The classic tetrad: excessive daytime sleepiness · cataplexy · SLEEP PARALYSIS · and HYPNAGOGIC or HYPNOPOMPIC HALLUCINATIONS (vivid, often frightening, at sleep onset or on waking).** **Most patients do not have all four.**
+> **The diagnostic delay is commonly a decade or more**, because the sleepiness is attributed to laziness, depression or poor sleep habits, and cataplexy is misdiagnosed as syncope, seizure or a psychiatric phenomenon. **Sleep attacks in adolescents are frequently interpreted as a behavioural problem.**
+> **Diagnosis: overnight polysomnography followed by a MULTIPLE SLEEP LATENCY TEST, looking for short sleep latency and SLEEP-ONSET REM PERIODS.** CSF hypocretin in selected cases.
+> **Treatment: scheduled short naps (genuinely effective), modafinil or stimulants for sleepiness, and specific agents for cataplexy.** `UNVERIFIED — agents, PBS criteria and access.`
+
+> [!tip] The other hypersomnias, and the driving question
+> **· IDIOPATHIC HYPERSOMNIA — long, unrefreshing sleep with severe SLEEP INERTIA ("sleep drunkenness" — prolonged grogginess and confusion on waking), and unrefreshing naps, without cataplexy or sleep-onset REM.**
+> **· KLEINE-LEVIN SYNDROME — rare, episodic hypersomnia with cognitive and behavioural change, typically in adolescent males, with normal function between episodes.**
+> **· DRIVING: excessive daytime sleepiness of any cause has fitness-to-drive implications, and the requirements are stricter for commercial licences.** **You must advise the patient, document that you have done so, and explain their obligation to notify the licensing authority.** Cross-refer [[A10]] 0.6.
+
+---
+
+## 0.6 Sleep in Specific Contexts
+
+> [!danger] Hospital sleep deprivation contributes to delirium — and the answer is not a sedative
+> **Hospitals are designed in ways that make sleep almost impossible: continuous noise and light, overnight observations and medications, procedures, alarms, shared rooms, pain, anxiety and unfamiliarity.**
+> **Sleep deprivation is a modifiable contributor to DELIRIUM**, and the reflex response — a hypnotic or an antipsychotic — makes delirium worse.
+> **What actually helps, and can be implemented by a junior doctor:**
+> **· Review whether OVERNIGHT OBSERVATIONS are genuinely necessary for this patient tonight, and rationalise them.**
+> **· Move medication times so that nothing is due in the middle of the night unless it must be.**
+> **· CLUSTER care — do the observations, medications and reviews together rather than at three separate times.**
+> **· Offer EARPLUGS AND EYE MASKS — cheap, effective, and rarely offered.**
+> **· Reduce light and noise at night, and increase LIGHT EXPOSURE during the DAY, which supports the circadian rhythm.**
+> **· Treat pain adequately, and address nocturia and urinary retention.**
+> **· Protected sleep time where the ward supports it.**
+> Cross-refer [[D2]] 0.2 and [[GER2]] 0.4.
+
+> [!warning] Older adults
+> **Age-related phase advance and lighter sleep are NORMAL** — see 0.1.
+> **Look for the treatable contributors: NOCTURIA · pain · restless legs (CHECK FERRITIN — cross-refer [[D6]] 0.6) · obstructive sleep apnoea · depression · medications (diuretics timed late, steroids, stimulating antidepressants, cholinesterase inhibitors) · and daytime napping and inactivity.**
+> **AVOID benzodiazepines and Z-drugs — the falls, fracture, cognitive and mortality risks in older people are substantial, and this is one of the highest-value deprescribing targets.** Cross-refer [[GER1]] 0.4.
+> **CBT-I works in older adults** and should be offered rather than assumed inappropriate.
+
+> [!tip] Children and adolescents
+> **· Infants and toddlers — behavioural sleep problems centre on SLEEP ASSOCIATIONS (falling asleep only under conditions that cannot be reproduced at 2am) and bedtime resistance. Behavioural approaches are effective, and parental sleep deprivation is itself a health issue worth asking about.**
+> **· Screen for OBSTRUCTIVE SLEEP APNOEA — in children the usual cause is ADENOTONSILLAR HYPERTROPHY, and it presents with snoring, restless sleep, mouth breathing, and — characteristically — BEHAVIOURAL problems, hyperactivity and poor school performance RATHER than daytime sleepiness.** **A child being assessed for ADHD should be asked about snoring.** Cross-refer [[M2]] and [[RESP-X]] 0.5.
+> **· Adolescents — the biological phase delay of puberty against early school start times produces chronic sleep restriction, with consequences for mood, learning, and risk behaviour.** Cross-refer 0.3 and [[M7]].
+> **· Parasomnias are common and usually benign in childhood** — see 0.4.
+
+**Ix:** **A two-week SLEEP DIARY** (*why:* the single most informative investigation, revealing the pattern, the time in bed versus time asleep, and the weekend difference that recall does not; *what:* sleep opportunity, efficiency, timing). **Epworth Sleepiness Scale and STOP-BANG** (*why:* quantifies sleepiness and screens for obstructive sleep apnoea, which is the commonest treatable cause; *what:* scores). **Bed partner history** (*why:* snoring, apnoeas, limb movements and dream enactment cannot be self-reported; *what:* the observed behaviour). TFTs, FBC, **FERRITIN** (*why:* hypothyroidism causes sleepiness, and iron deficiency causes restless legs which is treatable; *what:* abnormal TSH, low ferritin). **Medication review** (*why:* both sedating and stimulating drugs, and timing of diuretics, are common and reversible contributors; *what:* culprit and its timing). **Polysomnography** (*why:* diagnoses sleep-disordered breathing, periodic limb movements and parasomnias; *what:* apnoea-hypopnoea index, sleep architecture, events). **Multiple sleep latency test** following polysomnography where narcolepsy is suspected (*why:* the diagnostic test, and it requires the preceding overnight study to be valid; *what:* short sleep latency, sleep-onset REM periods). **Video EEG** where nocturnal seizures are possible (*why:* distinguishes seizures from parasomnias; *what:* epileptiform correlate).
+
+---
+
+> [!note] Cross-references
+> Obstructive sleep apnoea, obesity hypoventilation and CPAP → [[RESP-X]] 0.5 · Restless legs and ferritin → [[D6]] 0.6 · REM sleep behaviour disorder and parkinsonism → [[D6]] 0.5 and [[D2]] 0.3 · Nocturnal seizures and video EEG → [[D6]] 0.1 · Delirium prevention → [[D2]] 0.2 and [[GER2]] 0.4 · Fatigue versus sleepiness → [[B6]] 0.5 · Depression and anxiety → [[N4]] and [[N5]] · Benzodiazepine dependence and deprescribing → [[N2]] 0.4 and [[GER1]] 0.4 · Driving and fitness to drive → [[A10]] 0.6 · Paediatric sleep and adenotonsillar hypertrophy → [[M2]] · Adolescent health and school start times → [[M7]] · Shift work and occupational health → [[GER3]]
+
+
+<!-- ===== SOURCE: N8_Eating_Disorders.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, complications and management principles are reliable at intern level. **Every physiological threshold, admission criterion, refeeding rate and dose has been OMITTED or carries an `UNVERIFIED` marker** — these are the parameters that determine whether a patient is admitted and how they are fed, and they must come from a current source rather than from recall.
+> **Verify against the ANZAED and RANZCP eating disorder guidelines, your health network's eating disorder and refeeding protocols, and the InsideOut Institute resources.**
+> **This file deliberately does not include specific weights, body mass index values, calorie figures or details of compensatory behaviours.** Those details are clinically available in the guidelines and are not necessary for understanding the medicine.
+>
+> **Refeeding syndrome also appears in [[C2]] 0.7 and [[GER2]] 0.3**, and **electrolyte management in [[I3]] 0.6** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Recognising Eating Disorders
+
+> [!danger] Eating disorders have the highest mortality of any psychiatric illness
+> **Death occurs from medical complications — principally cardiac arrhythmia, electrolyte disturbance and refeeding — and from SUICIDE, which accounts for a substantial proportion.**
+> **They are also among the most treatable psychiatric conditions when identified early**, which makes recognition the highest-leverage action.
+
+> [!danger] Do not screen by appearance — most people with eating disorders are not underweight
+> **The stereotype of a thin, young, white, affluent girl causes systematic under-recognition in everyone else.**
+> **Eating disorders occur across ALL body sizes, ages, genders, cultural backgrounds and socioeconomic groups.**
+> **· People in LARGER BODIES with eating disorders are frequently praised for weight loss that is a symptom, and their disordered behaviours are reinforced by clinicians.**
+> **· MEN AND BOYS are substantially under-diagnosed, and presentations may centre on muscularity and body composition rather than thinness.**
+> **· OLDER ADULTS have eating disorders, including long-standing ones and new presentations.**
+> **· "ATYPICAL ANOREXIA" — all the cognitive and behavioural features of anorexia nervosa, with substantial weight loss, but a weight in or above the normal range — carries EQUIVALENT MEDICAL RISK.** **The physiological consequences follow the RATE and EXTENT of weight loss and the degree of restriction, not the absolute weight.**
+> **The practical rule: the presence of an eating disorder is established by the cognitions and behaviours, not by the appearance.**
+
+> [!tip] What actually prompts the presentation — the symptoms are usually physical
+> **Patients rarely present saying they have an eating disorder. They present with: fatigue · dizziness or syncope · palpitations · amenorrhoea or menstrual irregularity · gastrointestinal symptoms (bloating, constipation, reflux) · cold intolerance · hair loss · DENTAL EROSION or recurrent dental problems · unexplained electrolyte abnormalities · poor growth or falling off the growth centiles in a child · recurrent DKA in type 1 diabetes · or a request for dietary advice or weight loss support.**
+> **The SCOFF questionnaire** is a brief validated screen. `UNVERIFIED — the questions and threshold.`
+> **Asking directly, sensitively and without judgement is what makes disclosure possible** — and the question should be normalised: "lots of people have a difficult relationship with food or their body — is that something that affects you?"
+
+> [!info] The diagnostic categories
+> **· ANOREXIA NERVOSA — restriction leading to significantly low weight for the individual, intense fear of weight gain or behaviour that interferes with gain, and disturbance in the experience of body weight or shape.** Restricting and binge-purge subtypes.
+> **· BULIMIA NERVOSA — recurrent binge eating with recurrent compensatory behaviours, with self-evaluation unduly influenced by shape and weight.** **Weight is typically in the normal range, which is why it is missed.**
+> **· BINGE EATING DISORDER — recurrent binge eating with marked distress, WITHOUT regular compensatory behaviour. It is the MOST COMMON eating disorder and is frequently unrecognised because it presents as obesity.**
+> **· ARFID (avoidant/restrictive food intake disorder) — restriction NOT driven by body image or weight concern.** Driven instead by **sensory sensitivity, fear of an aversive consequence (choking, vomiting, pain), or simply low interest in eating.** **Common in autistic people and in children, and the treatment approach differs entirely** because there is no body image pathology to address.
+> **· OSFED (other specified feeding or eating disorder) — clinically significant presentations not meeting full criteria for the above, and the LARGEST category in practice.** **It is not a milder condition.**
+> `UNVERIFIED — full diagnostic criteria.`
+
+> [!warning] The comorbidity, and the framing that helps
+> **Depression, anxiety, obsessive-compulsive disorder, trauma histories, substance use, and — particularly in ARFID and anorexia nervosa — AUTISM, which is under-recognised in this population and changes how treatment should be delivered.**
+> **AMBIVALENCE ABOUT RECOVERY IS A SYMPTOM, NOT A CHARACTER FLAW.** The illness is frequently ego-syntonic — it feels protective, controlling, or like an achievement — and resistance to treatment is part of the presentation rather than evidence of unwillingness. Framing it as non-compliance guarantees disengagement.
+
+---
+
+## 0.2 Medical Complications and Risk Assessment
+
+> [!danger] Bradycardia and hypotension are markers of severity, not fitness
+> **Starvation produces a physiological adaptation that MIMICS athletic conditioning — a low resting heart rate and low blood pressure — and it is repeatedly misread as a sign of good health, particularly in young, active patients.**
+> **In this context they indicate a heart that has lost mass and is failing to maintain output.** **Marked bradycardia, hypotension, and POSTURAL changes in pulse and blood pressure are among the key indicators of medical instability.**
+> **The cardiac risks: arrhythmia · PROLONGED QT (compounded by hypokalaemia, hypomagnesaemia and QT-prolonging drugs) · reduced myocardial mass · pericardial effusion · and sudden cardiac death, which can occur at any weight.**
+
+> [!warning] The complications by system
+> **· ELECTROLYTE — HYPOKALAEMIA (from vomiting, laxatives or diuretics; causes arrhythmia and is a leading cause of death) · hyponatraemia (from water loading) · HYPOPHOSPHATAEMIA and hypomagnesaemia (particularly on refeeding) · metabolic ALKALOSIS from vomiting, or acidosis from laxative use.**
+> **· ENDOCRINE — amenorrhoea and hypothalamic suppression · LOW BONE DENSITY, which develops EARLY, at an age when peak bone mass should be accruing, and may not fully recover · euthyroid sick syndrome · and HYPOGLYCAEMIA, which in a starved patient signals depletion of hepatic glycogen and is an OMINOUS sign.**
+> **· GASTROINTESTINAL — gastroparesis and delayed emptying (causing bloating and early satiety that make eating harder) · constipation · SUPERIOR MESENTERIC ARTERY SYNDROME from loss of the fat pad, causing duodenal obstruction · oesophagitis · MALLORY-WEISS tears · parotid enlargement · and DENTAL EROSION of the lingual surfaces from gastric acid.**
+> **· HAEMATOLOGICAL — pancytopenia from marrow hypoplasia, which can be marked and is reversible with nutrition.**
+> **· NEUROLOGICAL — cognitive impairment and rigidity (which improve with refeeding), seizures, peripheral neuropathy, and WERNICKE ENCEPHALOPATHY.**
+> **· OTHER — hypothermia, lanugo hair, dry skin, hair loss, impaired wound healing, pressure areas, and immune compromise with atypical infection presentation.**
+> **· RUSSELL SIGN — callus or scarring on the dorsum of the hand from self-induced vomiting.**
+
+> [!danger] Do not use body mass index alone to decide admission
+> **Medical risk is determined by MULTIPLE parameters, and a patient can be critically unstable at a weight that looks unremarkable.**
+> **The domains that determine instability: heart rate · blood pressure and POSTURAL change · temperature · ECG including QT interval · electrolytes, particularly potassium, phosphate and magnesium · glucose · the RATE of weight loss (which matters more than the absolute weight) · muscle strength (assessed with sit-up and squat-stand testing, which is a simple and useful bedside measure) · and the degree of ongoing restriction or purging.**
+> **`UNVERIFIED — the specific thresholds for each parameter, and the admission criteria, are deliberately omitted. Obtain them from ANZAED guidance and your local eating disorder protocol.`**
+> **Death can occur at any weight**, from arrhythmia, hypoglycaemia, refeeding, or suicide.
+
+---
+
+## 0.3 Refeeding Syndrome
+
+**A/P:** **In prolonged starvation the body shifts to catabolism, and intracellular stores of PHOSPHATE, POTASSIUM and MAGNESIUM become depleted — while the SERUM levels may remain normal, because the intracellular compartment is being drawn down.**
+**When feeding resumes, carbohydrate drives an INSULIN surge → glucose, phosphate, potassium and magnesium move rapidly INTO cells → producing profound HYPOPHOSPHATAEMIA and falls in potassium and magnesium.**
+**Phosphate is required for ATP. Its depletion causes cardiac failure, respiratory muscle failure, rhabdomyolysis, haemolysis, seizures, arrhythmia and death.**
+**Simultaneously: thiamine is consumed as a cofactor in carbohydrate metabolism → WERNICKE ENCEPHALOPATHY; and sodium and fluid retention → oedema and cardiac overload in a heart with reduced mass.**
+
+> [!danger] The five principles
+> **1. IDENTIFY THE AT-RISK PATIENT BEFORE FEEDING BEGINS** — not after the phosphate falls. Risk relates to the duration of minimal intake, the extent and rate of weight loss, low baseline electrolytes, alcohol use, and comorbidity.
+> **2. CHECK AND CORRECT phosphate, potassium and magnesium BEFORE and DURING refeeding.**
+> **3. GIVE THIAMINE BEFORE feeding**, and continue it.
+> **4. START FEEDING CAUTIOUSLY and increase gradually, with frequent electrolyte monitoring, daily weights, fluid balance, and cardiac monitoring in high-risk patients.**
+> **5. DO NOT WITHHOLD FEEDING because of the risk** — see below.
+> `UNVERIFIED — the at-risk criteria, starting rates, rate of increase, monitoring frequency and replacement regimens. These are protocol matters.`
+
+> [!danger] Underfeeding is also harmful — "start low, go slow" has been over-applied
+> **Fear of refeeding syndrome has produced the opposite error: prolonged, excessively cautious feeding that leaves patients malnourished for longer, delays cognitive and physical recovery, prolongs admission, and causes its own morbidity — sometimes called the "underfeeding syndrome".**
+> **The evidence has moved toward more assertive refeeding WITH close electrolyte monitoring and replacement, rather than very slow feeding as a substitute for monitoring.**
+> **The safety comes from the MONITORING AND REPLACEMENT, not from the slowness.**
+> `UNVERIFIED — this is an area where guidance has changed; check the current protocol rather than applying older teaching.`
+
+---
+
+## 0.4 Anorexia Nervosa — Management
+
+> [!danger] You cannot psychologically treat a starved brain
+> **Starvation itself produces cognitive rigidity, obsessionality, preoccupation with food, poor concentration, low mood, social withdrawal and impaired decision-making** — all of which were demonstrated in healthy volunteers under experimental semi-starvation, and all of which resolve with nutrition.
+> **This means NUTRITIONAL REHABILITATION IS THE FOUNDATION, and psychological therapy is far less effective in a severely malnourished patient.**
+> **It also means the rigidity and apparent unwillingness that clinicians find frustrating are partly a CONSEQUENCE of the illness, not an explanation for withholding treatment.**
+
+> [!tip] The psychological treatments, and the one with the best evidence
+> **· FAMILY-BASED TREATMENT (FBT, sometimes called the Maudsley approach) is FIRST-LINE FOR ADOLESCENTS and has the strongest evidence of any eating disorder treatment.** **It explicitly places parents in charge of refeeding initially, and it externalises the illness from the young person — the family fights the disorder rather than the child.** **It also explicitly rejects blaming families, which older models did.**
+> **· For adults: CBT-E (enhanced cognitive behavioural therapy), MANTRA, and specialist supportive clinical management all have evidence, with no clear single winner.**
+> **· Treatment should be delivered by clinicians with specific eating disorder training** — generic therapy is less effective.
+
+> [!warning] Medication does not treat anorexia nervosa
+> **There is NO medication that treats anorexia nervosa itself.** Olanzapine has limited evidence for weight and rumination, and is sometimes used.
+> **Comorbid depression and anxiety should be treated — but note that antidepressants are LESS EFFECTIVE in a malnourished state**, and mood frequently improves substantially with weight restoration alone. **Treating the malnutrition often treats the mood.**
+> **QT-prolonging medications require caution given the cardiac risks.** Cross-refer [[B3]] 0.3.
+
+> [!danger] The combined oral contraceptive pill does not protect bone in anorexia nervosa
+> **Low bone density develops early and is a major long-term consequence, occurring at the age when peak bone mass should be laid down.**
+> **Prescribing the pill to "protect the bones" or to restore menses is NOT effective for bone density in this context, and it is actively unhelpful because it MASKS the amenorrhoea — removing the single most useful clinical marker of nutritional recovery.**
+> **The treatment for the bone is WEIGHT RESTORATION and the return of spontaneous menses.** Cross-refer [[O4]] 0.4 and [[GER1]] 0.6.
+
+> [!warning] Capacity, involuntary treatment, and a genuinely difficult area
+> **Anorexia nervosa is one of the recognised situations in which a patient may appear entirely lucid, articulate and reasoning — while their capacity to weigh the specific decision about eating is impaired BY the illness itself.**
+> **Involuntary treatment, including compulsory feeding, is sometimes lawful and sometimes necessary, and it saves lives.**
+> **It is also ethically complex, potentially traumatising, and must be a senior, specialist, multidisciplinary decision made within the relevant legal framework — never an individual one.** Cross-refer [[N1]] 0.5 and [[A10]] 0.1.
+> **The aim is always to preserve as much collaboration and autonomy as the situation allows.**
+
+> [!tip] How you speak and behave in the clinical encounter matters
+> **· Do NOT comment on appearance — including "you look well" or "you look healthy", which are frequently heard as "you have gained weight" and can be profoundly destabilising.**
+> **· Consider BLIND WEIGHING (the patient stands backwards on the scales and is not told the number) where clinically appropriate and agreed.**
+> **· Avoid discussing specific weights, numbers and calories unless clinically necessary.**
+> **· Do not praise weight loss in ANY patient**, since you do not know who has an eating disorder.
+> **· Be aware of your own weight-related language and assumptions** — weight stigma in healthcare both perpetuates disordered eating and drives avoidance of care. Cross-refer [[I5]] 0.1.
+
+---
+
+## 0.5 Bulimia Nervosa, Binge Eating Disorder and ARFID
+
+> [!warning] Bulimia nervosa is missed because the weight is normal
+> **Recurrent binge eating with compensatory behaviour, in a person whose weight is typically unremarkable — so there is no visible cue, and disclosure depends on being asked.**
+> **The physical signs that give it away: DENTAL EROSION of the lingual (tongue-facing) surfaces · PAROTID gland enlargement · RUSSELL SIGN (callus on the dorsum of the hand) · unexplained HYPOKALAEMIA and metabolic alkalosis · reflux and oesophagitis.**
+> **A dentist is frequently the first professional to detect it.**
+> **The dangerous complications are electrolyte-driven: hypokalaemia causing ARRHYTHMIA, and oesophageal tears.**
+> **Treatment: CBT-E is first-line, with good evidence. FLUOXETINE has specific evidence in bulimia nervosa, at a higher dose than for depression.** Guided self-help is effective for some. `UNVERIFIED — dosing.`
+
+> [!tip] Binge eating disorder is the most common eating disorder
+> **Recurrent binge eating with marked distress and without regular compensatory behaviour.**
+> **It frequently presents as obesity — and the eating disorder goes unrecognised while the person is advised to lose weight, which worsens the bingeing.**
+> **A person seeking weight loss support should be screened for binge eating disorder before dietary restriction is recommended**, because restriction is a potent trigger for bingeing.
+> **Treatment: CBT-E and guided self-help have good evidence.** Lisdexamfetamine is approved for binge eating disorder in some settings. `UNVERIFIED — availability and PBS status in Australia.`
+
+> [!info] ARFID — restriction without body image concern
+> **Avoidant/restrictive food intake disorder is driven by SENSORY sensitivity (texture, smell, appearance), FEAR of an aversive consequence (choking, vomiting, allergic reaction — often after a real episode), or LOW INTEREST in eating — NOT by weight or shape concern.**
+> **It causes nutritional deficiency, weight loss or faltering growth, dependence on supplements, and marked psychosocial impairment.**
+> **It is common in AUTISTIC people and in children**, and it is frequently dismissed as "fussy eating".
+> **The treatment approach is different from that for anorexia nervosa — there is no body image pathology to address, and it focuses on graded exposure to foods, addressing the specific fear, sensory adaptation, and nutritional support.** Cross-refer [[M7]].
+
+> [!danger] Insulin omission in type 1 diabetes
+> **Deliberate omission or reduction of insulin to control weight — sometimes called "diabulimia" — occurs particularly in young women with type 1 diabetes.**
+> **It causes recurrent DKA, markedly accelerated microvascular complications, and substantially increased mortality.**
+> **The clue is RECURRENT DKA, unexplained poor glycaemic control with a discrepancy between reported adherence and HbA1c, and weight fluctuation.**
+> **Repeated protocol-driven DKA admissions without ever asking about insulin omission is the pattern that misses it** — and the conversation needs to be non-judgemental, because shame is what maintains the concealment. Cross-refer [[I2]] 0.3.
+
+---
+
+## 0.6 Treatment Pathways and the Australian Context
+
+> [!tip] The Medicare Eating Disorder Plan — a genuinely useful and under-used item
+> **Australia has a specific Medicare item for eating disorders that provides access to a SUBSTANTIALLY GREATER number of subsidised psychological AND dietetic sessions than a standard Mental Health Treatment Plan** — reflecting that effective treatment requires a longer course and a dietitian.
+> **Knowing it exists and referring for it is a concrete, high-value action**, and it is under-used because many clinicians are unaware of it. `UNVERIFIED — eligibility criteria, session numbers and the referral process.`
+
+> [!info] The team, and who does what
+> **Effective treatment is multidisciplinary: a GP or physician for MEDICAL MONITORING (which is ongoing and essential, not a one-off) · a psychologist or psychiatrist for the psychological treatment · a DIETITIAN with eating disorder experience · and paediatric or physician input for medical instability.**
+> **The GP role in regular medical monitoring — weight, observations, electrolytes, ECG — is central and frequently the element that is missing when a patient is managed by a psychologist alone.**
+> **Australian resources: the BUTTERFLY FOUNDATION (national helpline and support) · InsideOut Institute (clinician resources and training) · ANZAED (professional body and guidelines) · and state-based specialist eating disorder services.** `UNVERIFIED — current services and contacts.`
+
+> [!warning] Early intervention matters, and so does not being nihilistic
+> **Duration of untreated eating disorder predicts outcome** — as it does in psychosis — which makes prompt recognition and referral genuinely consequential rather than administrative.
+> **RECOVERY IS POSSIBLE AND COMMON.** A substantial proportion of people with eating disorders recover fully, and many more improve significantly.
+> **The therapeutic nihilism that surrounds these conditions — the sense that they are intractable and that patients are unwilling — is not supported by the evidence, and it communicates itself to patients and families.**
+> **Saying clearly that this is a treatable illness with a good prognosis is both accurate and part of the treatment.**
+
+> [!tip] Carers and families
+> **Caring for someone with an eating disorder carries high burden, distress and often guilt — particularly given historical models that blamed families.**
+> **Family-based treatment explicitly rejects that framing, and carers need information, skills training and support in their own right.**
+> **Involve them, and ask how they are.**
+
+**Ix:** **Observations including POSTURAL blood pressure and pulse, and temperature** (*why:* the core indicators of medical instability, and postural change is frequently not measured; *what:* bradycardia, hypotension, postural drop, hypothermia). **ECG** (*why:* QT prolongation and arrhythmia risk, compounded by electrolyte disturbance; *what:* QTc, bradycardia, arrhythmia). **UEC, PHOSPHATE, MAGNESIUM, calcium, glucose, LFT, FBC** (*why:* the electrolytes that kill, the hypoglycaemia that signals hepatic depletion, and the marrow suppression; *what:* hypokalaemia, hypophosphataemia, hypomagnesaemia, hypoglycaemia, cytopenias). **Serial electrolytes during refeeding** (*why:* refeeding syndrome is detected biochemically before it is detected clinically; *what:* falling phosphate, potassium, magnesium). **Muscle strength testing — sit-up and squat-stand** (*why:* a simple bedside functional measure of proximal weakness that correlates with medical risk and requires no equipment; *what:* inability to rise without using the arms). Weight and height with growth charts in children and adolescents (*why:* faltering growth and centile crossing may precede overt weight loss; *what:* the trajectory). **Bone density where the illness has been prolonged** (*why:* low bone density develops early and is silent; *what:* reduced density). Thiamine consideration and replacement in the malnourished (*why:* Wernicke encephalopathy on refeeding; *what:* treat empirically rather than test). **HbA1c and ketones where type 1 diabetes coexists** (*why:* insulin omission; *what:* discordance between reported adherence and HbA1c).
+
+---
+
+> [!note] Cross-references
+> Risk assessment and suicidality → [[N1]] 0.2–0.3 · Involuntary treatment and the Mental Health Act → [[N1]] 0.5 · Capacity → [[A10]] 0.1 · Anxiety and OCD comorbidity → [[N5]] · Depression → [[N4]] · Refeeding syndrome → [[C2]] 0.7 and [[GER2]] 0.3 · Phosphate, potassium and magnesium → [[I3]] 0.6 · Osteoporosis and bone protection → [[GER1]] 0.6 · Amenorrhoea, RED-S and functional hypothalamic amenorrhoea → [[O4]] 0.4 · Stress fractures → [[L5]] 0.7 · Insulin omission and DKA → [[I2]] 0.3 and [[F0.2]] 0.3 · QT prolongation → [[B3]] 0.3 · Obesity, weight stigma and bariatric surgery → [[I5]] 0.1 · Malnutrition in hospital → [[GER2]] 0.3 · Autism, ARFID and adolescent health → [[M7]]
+
+
 <!-- ===== SOURCE: NEW_Drugs_17_Psychotropic.md ===== -->
 
 
