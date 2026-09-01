@@ -811,7 +811,7 @@ Encompasses BiPAP, CPAP, etc.
 
 ## 0.22 Cross-references to avoid duplication
 
-- **Pulmonary Embolism / Pulmonary embolus** (CSV rows) — fully covered in [[01_Cardiovascular]] section 0.29, including Wells score pathway, PERC rule, and Mx. Not duplicated here — this is a genuinely cross-cutting topic (chest/vascular) already built in its canonical home per the project's cross-cutting-topic convention.
+- **Pulmonary Embolism / Pulmonary embolus** (CSV rows) — fully covered in [[01_Cardiovascular]] section 0.30, including Wells score pathway, PERC rule, and Mx. Not duplicated here — this is a genuinely cross-cutting topic (chest/vascular) already built in its canonical home per the project's cross-cutting-topic convention.
 - **Diphtheria** — primarily an infectious disease/paediatric-immunisation topic (though it can cause upper airway obstruction/stridor); not built here — more appropriately homed in the Immunology, Allergy & Infectious Disease category or Paediatrics (immunisation-preventable disease), flagged for whichever of those files comes up next in the rotation.
 - **Paediatric-specific CSV rows** in this category (Acute respiratory infections: LRTI/Bronchiolitis/Croup/Pertussis, Asthma in childhood, Bronchiolitis, Child with wheeze and persistent cough, Children's health grab-bag, Croup, Stridor [predominantly paediatric causes], Viral induced wheeze, Whooping cough) — this file is adult-respiratory-focused (source: "quackquackmed 02 Respiratory"); these are flagged to be built in the Paediatrics category file when it comes up in the rotation, not duplicated here.
 

@@ -161,7 +161,7 @@ This file collects examination technique across all systems as an action checkli
 
 **Presenting findings back to an examiner:** state pulse findings, any trophic changes/ulcers, and the calculated ABPI with its interpretation.
 
-**Cross-reference:** see [[01_Cardiovascular]] section 0.35.1–0.35.2 for PAD disease detail and ABPI value interpretation (>1.2 calcified, 0.9–1.2 normal, <0.9 likely PAD, <0.5 severe) — that interpretation isn't repeated here.
+**Cross-reference:** see [[01_Cardiovascular]] section 0.36.1–0.36.2 for PAD disease detail and ABPI value interpretation (>1.2 calcified, 0.9–1.2 normal, <0.9 likely PAD, <0.5 severe) — that interpretation isn't repeated here.
 
 ---
 
