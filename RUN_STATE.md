@@ -511,3 +511,35 @@ table-shaped items the parser could see*, then quoted as facts about the whole.
 proposed · 32 arguable · 10 file combinations (`C1`–`C10`, none ruled on) · 2 axis questions.
 **Resolved by a pattern already set: 435** — 350 groupings ("groupings need no ruling"), 59
 keep-and-flag (A3: "no ruling needed on any of these"), 20 narrative findings, 4 recorded, 2 done.
+
+---
+
+## `THE_161.md` — the complete decision list (2026-09-01)
+
+**Supersedes `THE_26`.** One entry per item needing a ruling, at full scope: the original flag,
+the proposed destination, the flag's own evidence verbatim, and what happens to the files if
+approved. Ordered by effect — file combinations, axis questions, arguable, no-destination,
+then block-approvable grouped by destination.
+
+**161, not the 211 reported last message.** The difference is entirely my own counting:
+
+- **41 rows were already executed but unmarked.** The `✅ EXECUTED` marking was keyed on **exact
+  heading text**, and the flag rows are **paraphrases**, so every paraphrased row stayed unmarked
+  and read as pending. Re-marked by **row ID against the execution manifests** — exact, and the
+  same principle as §1.10's `SRC:` token.
+- **9 `keep, flag` rows** were classified as moves; their disposition was settled by A3.
+
+**That is the seventh counting correction in this project**, and the same shape as the other six:
+a number correct for what one check could see, quoted as a fact about the whole. It is now derived
+from the manifests rather than from a text match, so it cannot drift again for that reason.
+
+| | n |
+|---|---:|
+| decision-bearing items | 707 |
+| resolved by a pattern already set | **546** |
+| **needing a ruling** | **161** |
+| resting mainly on "nothing points at it" 🔻 | 11 |
+
+**Dependencies flagged in the file:** `C8` cannot be settled before `AXIS-1`; `C2` and `AXIS-2`
+are one decision seen twice, and settling them removes about 9 of block 5's 51 and fixes the shape
+of `Procedures.md`, `Preventive-Health.md` and `Safeguarding.md`.

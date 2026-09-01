@@ -52,7 +52,7 @@ references is internal. It is a safeguarding file that no geriatrics content poi
 ## PROPOSED MOVES — history / examination (standing rule)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| R-3 | `**History:**` + `**Examination:**` blocks under `## Falls in Older People` | 51, 55 | **History-Taking.md / Examination.md** | *"the circumstances of each fall (what they were doing…)"* — a history schema |
+| R-3 | `**History:**` + `**Examination:**` blocks under `## Falls in Older People` | 51, 55 | **History-Taking.md / Examination.md** | *"the circumstances of each fall (what they were doing…)"* — a history schema **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 | R-4 | `### Distinguishing a fall from a collapse — do this first` | 18 | **History-Taking.md** | the discriminating question. ⚠️ **Cross-file: `Cardio B4 §0.4 Conscious Collapse and the Unwitnessed Fall` is the same discriminator** **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
 | R-5 | `### Communication and follow-up` (discharge planning) | 278 | **arguable — Communication.md** | flag only |
 

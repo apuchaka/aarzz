@@ -44,13 +44,13 @@ The file states them itself at L1776 and again in its build status at L2014.
 ### Investigation interpretation (standing rule, as extended)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| RU-5 | `## 0.1 Urinalysis Panel (Dipstick, pH, SG, Microscopy, Culture)` | 1780 | **Investigation-Interpretation.md §1.14** | **§1.14 "Urinalysis and Urine Microscopy, Culture & Sensitivity" already exists there.** Duplicate, not a gap |
+| RU-5 | `## 0.1 Urinalysis Panel (Dipstick, pH, SG, Microscopy, Culture)` | 1780 | **Investigation-Interpretation.md §1.14** | **§1.14 "Urinalysis and Urine Microscopy, Culture & Sensitivity" already exists there.** Duplicate, not a gap **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | RU-6 | `## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)` | 1819 | **Investigation-Interpretation.md** | no equivalent there **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
-| RU-7 | `## 0.2 Urine ACR` | 1801 | **Investigation-Interpretation.md** | carries a deliberate refusal to convert mg/g→mg/mmol — **keep that note with it** |
-| RU-8 | `## 0.5 Elevated PSA` | 1858 | **Investigation-Interpretation.md** | *"prostate-specific, not prostate-cancer-specific, which is the entire interpretive problem"* — pure interpretation |
+| RU-7 | `## 0.2 Urine ACR` | 1801 | **Investigation-Interpretation.md** | carries a deliberate refusal to convert mg/g→mg/mmol — **keep that note with it** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
+| RU-8 | `## 0.5 Elevated PSA` | 1858 | **Investigation-Interpretation.md** | *"prostate-specific, not prostate-cancer-specific, which is the entire interpretive problem"* — pure interpretation **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | RU-9 | `## 0.6 Urine Cytology` · `## 0.7 Uroflowmetry` · `## 0.8 Urodynamic Studies` | 1877, 1891, 1905 | **Investigation-Interpretation.md** | how to read the trace **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | RU-10 | `## 0.11 24-hour Urine Copper` | 1958 | **Investigation-Interpretation.md**; content serves `GI §0.7 Wilson's Disease` | flag the GI link **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
-| RU-11 | `## 0.12 Urine Protein Electrophoresis / Bence-Jones` | 1977 | **Investigation-Interpretation.md**; serves `Renal §0.8 Myeloma Kidney` and Heme Onc | 1 inbound (GP) |
+| RU-11 | `## 0.12 Urine Protein Electrophoresis / Bence-Jones` | 1977 | **Investigation-Interpretation.md**; serves `Renal §0.8 Myeloma Kidney` and Heme Onc | 1 inbound (GP) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 
 > RU-5 – RU-11 empty `NEW_Investigations_Renal_and_Urology` of everything except the four
 > self-declared misfiles. Same shape as `NEW_Investigations_Respiratory`.
@@ -64,7 +64,7 @@ The file states them itself at L1776 and again in its build status at L2014.
 ### History / examination (standing rule)
 | ID | Section | L | → |
 |---|---|---|---|
-| RU-14 | 2 × `**Focused Hx:**` + 2 × `**Examination:**` in `NEW_Renal_and_Urology` | 2043–2072 | **History-Taking.md / Examination.md**. L2044 is explicit technique: *"examine the patient standing and lying, with consent and a chaperone"*; L2072 *"palpate and percuss for a distended bladder"* |
+| RU-14 | 2 × `**Focused Hx:**` + 2 × `**Examination:**` in `NEW_Renal_and_Urology` | 2043–2072 | **History-Taking.md / Examination.md**. L2044 is explicit technique: *"examine the patient standing and lying, with consent and a chaperone"*; L2072 *"palpate and percuss for a distended bladder"* **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 
 ### Cross-file
 | ID | Section | L | → | Note |

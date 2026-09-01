@@ -53,12 +53,12 @@ asbestos exposure; `02_Respiratory` is richer on mesothelioma staging.
 |---|---|---|---|---|
 | R-1 | `## 0.2 Pulmonary Function Tests (Spirometry, Lung Volumes, DLCO)` | 1013 | **Investigation-Interpretation.md §1.3** | §1.3 *"Spirometry and Peak Flow"* already exists there. This entry is **richer** — adds lung volumes, TLC/RV, DLCO. *How to read the test.* **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | R-2 | `## 0.3 Pulse Oximetry (SpO₂)` | 1041 | **Investigation-Interpretation.md** | functional vs fractional saturation, the failure modes. No equivalent exists there. 2 inbound (MSK, internal) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
-| R-3 | `## 0.4 Sleep Studies (Polysomnography, HSAT)` | 1064 | **Investigation-Interpretation.md** | level 1 vs home testing, channels. 1 inbound (Anaes) |
-| R-4 | `## 0.5 Sputum Culture` | 1087 | **Investigation-Interpretation.md** | sits beside §1.18 Blood Cultures and Microbiology Basics |
+| R-3 | `## 0.4 Sleep Studies (Polysomnography, HSAT)` | 1064 | **Investigation-Interpretation.md** | level 1 vs home testing, channels. 1 inbound (Anaes) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
+| R-4 | `## 0.5 Sputum Culture` | 1087 | **Investigation-Interpretation.md** | sits beside §1.18 Blood Cultures and Microbiology Basics **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | R-5 | `## 0.6 Sweat Chloride Test` | 1109 | **Investigation-Interpretation.md** | how the test works **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
-| R-6 | `## 0.7 TB Screening (TST/Mantoux and IGRA)` | 1134 | **Investigation-Interpretation.md** | *how to read the induration*. **The disease content stays** — see R-13. 2 inbound (Heme, ID) |
-| R-7 | `## 0.8 V/Q Scan` | 1159 | **Investigation-Interpretation.md** | mismatched-defect reading |
-| R-8 | `## 0.1 Nasopharyngeal Swab` | 992 | **Investigation-Interpretation.md** *or* `NEW_Exam_Manoeuvres_and_Procedures` | it is a **procedure description** (*"floor of the nose, parallel to the palate, not angled upwards"*) — axis question, flag |
+| R-6 | `## 0.7 TB Screening (TST/Mantoux and IGRA)` | 1134 | **Investigation-Interpretation.md** | *how to read the induration*. **The disease content stays** — see R-13. 2 inbound (Heme, ID) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
+| R-7 | `## 0.8 V/Q Scan` | 1159 | **Investigation-Interpretation.md** | mismatched-defect reading **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
+| R-8 | `## 0.1 Nasopharyngeal Swab` | 992 | **Investigation-Interpretation.md** *or* `NEW_Exam_Manoeuvres_and_Procedures` | it is a **procedure description** (*"floor of the nose, parallel to the palate, not angled upwards"*) — axis question, flag **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | R-9 | `### 0.9.1 Diagnosis of latent TB — Mantoux test` | 440 | **Investigation-Interpretation.md**, with R-6 | *"0.1 mL of 1:1,000 PPD injected intradermally; read 2–3 days later"* is technique, not disease **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 
 > **R-1 – R-9 empty `NEW_Investigations_Respiratory` almost entirely.** That is the expected shape:
@@ -67,9 +67,9 @@ asbestos exposure; `02_Respiratory` is richer on mesothelioma staging.
 ### History-taking (standing rule)
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| R-10 | `> [!danger] Ask the occupational history — it is systematically not taken` | 1374 | **History-Taking.md** | a history schema, not a disease fact |
-| R-11 | `> [!warning] Hypersensitivity pneumonitis — take the exposure history properly` | 1334 | **History-Taking.md** | ditto; leave the disease content in Resp |
-| R-12 | **2** × `**Focused Hx:**` + **3** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Respiratory` | 1221–1264 | **History-Taking.md / Examination.md** | acute dyspnoea, acute cough, acute stridor. `L1264` opens *"this is where the greatest harm is done, so the first rule is what not to do"* — examination technique |
+| R-10 | `> [!danger] Ask the occupational history — it is systematically not taken` | 1374 | **History-Taking.md** | a history schema, not a disease fact **✅ EXECUTED 2026-09-01 → `History-Taking.md` (`c5df174`)** |
+| R-11 | `> [!warning] Hypersensitivity pneumonitis — take the exposure history properly` | 1334 | **History-Taking.md** | ditto; leave the disease content in Resp **✅ EXECUTED 2026-09-01 → `History-Taking.md` (`c5df174`)** |
+| R-12 | **2** × `**Focused Hx:**` + **3** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Respiratory` | 1221–1264 | **History-Taking.md / Examination.md** | acute dyspnoea, acute cough, acute stridor. `L1264` opens *"this is where the greatest harm is done, so the first rule is what not to do"* — examination technique **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 
 ### Cross-file topic ownership
 | ID | Section | L | → | Note |

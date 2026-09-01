@@ -41,14 +41,14 @@ Zero inbound: `10_10b_Haemonc_-_Transplant_Medicine`.
 `NEW_Investigations_Haematology` + `_Part2` are **25 investigation entries filed under a system**.
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| H-2 | `## CBC & Peripheral Blood` | 3240 | **Investigation-Interpretation.md §1.11** | **§1.11 "Full Blood Count and Blood Film" already exists** |
+| H-2 | `## CBC & Peripheral Blood` | 3240 | **Investigation-Interpretation.md §1.11** | **§1.11 "Full Blood Count and Blood Film" already exists** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | H-3 | `## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)` | 3366 | **Investigation-Interpretation.md §1.17** | **§1.17 "Coagulation Screen and D-dimer Interpretation" already exists** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | H-4 | `## 0.1 Interpreting the Coagulation Screen` (J3) | 2160 | **Investigation-Interpretation.md §1.17** | **a third copy of the same topic** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | H-5 | `## 0.9 How to interpret blood results — a quick approach` | 117 | **Investigation-Interpretation.md §1.11** | fourth interpretation entry **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | H-6 | `## Iron studies interpretation` | 426 | **Investigation-Interpretation.md** | **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
-| H-7 | `## Anaemia — DDx by MCV and reticulocyte index` | 408 | **Investigation-Interpretation.md** | the index table; the disease entries stay |
-| H-8 | `## Immunohematology (Blood Group & Rh, DAT)` | 3305 | **Investigation-Interpretation.md** | ⚠️ **destination of approved GI M-2** (`## 0.33 Coombs / DAT-IAT` → Heme Onc). This is the fuller entry M-2's own text points at. **Recommend both land in Investigation-Interpretation, not Heme Onc — needs a ruling**, same shape as the Neuro N-1/CSF conflict |
-| H-9 | remaining 20 entries of `NEW_Investigations_Haematology` + `_Part2` (B12, MMA, homocysteine, anti-IF, APCA, haptoglobin, Hb electrophoresis, EPO, factor VIII, vWF, ADAMTS13, HIT ELISA, SRA, flow cytometry, marrow/node biopsy, SPEP/SFLC, β2-microglobulin, osmotic fragility, sickle solubility, Schilling, lymphoscintigraphy) | 3251–3686 | **Investigation-Interpretation.md** | `## 0.18 Biopsy and Procedures` may belong with procedures instead — axis question |
+| H-7 | `## Anaemia — DDx by MCV and reticulocyte index` | 408 | **Investigation-Interpretation.md** | the index table; the disease entries stay **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
+| H-8 | `## Immunohematology (Blood Group & Rh, DAT)` | 3305 | **Investigation-Interpretation.md** | ⚠️ **destination of approved GI M-2** (`## 0.33 Coombs / DAT-IAT` → Heme Onc). This is the fuller entry M-2's own text points at. **Recommend both land in Investigation-Interpretation, not Heme Onc — needs a ruling**, same shape as the Neuro N-1/CSF conflict **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
+| H-9 | remaining 20 entries of `NEW_Investigations_Haematology` + `_Part2` (B12, MMA, homocysteine, anti-IF, APCA, haptoglobin, Hb electrophoresis, EPO, factor VIII, vWF, ADAMTS13, HIT ELISA, SRA, flow cytometry, marrow/node biopsy, SPEP/SFLC, β2-microglobulin, osmotic fragility, sickle solubility, Schilling, lymphoscintigraphy) | 3251–3686 | **Investigation-Interpretation.md** | `## 0.18 Biopsy and Procedures` may belong with procedures instead — axis question **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 
 ### Topic in the wrong system
 | ID | Section | L | → | Why |

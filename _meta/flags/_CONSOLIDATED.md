@@ -38,6 +38,8 @@ A6/A7 reports and Psychiatry groupings (`cfba800`). **No other content has moved
 |---|---:|
 | outputs written | 20 |
 | **decision-bearing items (full inventory)** | **707** — see `_INVENTORY.md` |
+| **needing a ruling** | **161** — the full list is `THE_161.md` |
+| resolved by a pattern already set | 546 |
 | ~~moves and flags 280~~ **corrected** | **319** (260 moves + 59 keep-and-flag) |
 | ~~groupings 291~~ **corrected** | **350** |
 | approved by user, **not yet executed** | 11 |

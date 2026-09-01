@@ -70,7 +70,7 @@ both ends instead of a retarget** — that is the correct repair for a reachabil
 | Y-6 | `14_07 Attention Deficit Hyperactivity Disorder` | **908–930** | **decide with Paediatrics** | **5 inbound, Paediatrics ×3.** `Pediatrics M7 §0.6 ADHD` (4086) is the partner; `NEW_Drugs_17 §0.5` is the drug half |
 | Y-7 | `## Gambling disorder (gambling-related harms)` | **1045** | **arguable — GP / PH1** | a behavioural-addiction and public-health topic filed under recreational drug profiles |
 | Y-8 | `14_05d Electroconvulsive Therapy` | **738–758** | **flag — procedures** | consent, workup and complications of a procedure. 1 inbound, internal |
-| Y-9 | `**Focused Hx:** / **Examination:**` in `NEW_Psychiatry ## Acute Behavioural Disturbance` | **3019–3020** | **History-Taking.md / Examination.md** | L3020 is explicitly about the limits of examining an agitated patient |
+| Y-9 | `**Focused Hx:** / **Examination:**` in `NEW_Psychiatry ## Acute Behavioural Disturbance` | **3019–3020** | **History-Taking.md / Examination.md** | L3020 is explicitly about the limits of examining an agitated patient **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 
 ## KEEP + IN-TEXT FLAG
 - **Alcohol withdrawal — the split confirmed from this end — and it is five-way, not four.** `## Alcohol use disorder`

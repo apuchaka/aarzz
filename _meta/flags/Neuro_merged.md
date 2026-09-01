@@ -65,7 +65,7 @@ report should be actioned before this one, because it changes what "the Psychiat
 | N-5 | `## 0.2 Acute Vestibular Syndrome and the HINTS Examination` (D5) | 3016 | **Examination.md §1.21.2** | §1.21.2 "HINTS exam" already exists there **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | N-6 | `## 0.1 Localising the Lesion` (D4) | 2700 | **Examination.md** | *"from cortex to muscle"* — the neurological examination's organising method **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | N-7 | `## Brain Lesion Localisation` | 952 | **Examination.md** | lobe-by-lobe sign lists **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
-| N-8 | 8 × `**Focused Hx:**` + 8 × `**Examination:**` in `NEW_Neurology` | 5695–5830 | **History-Taking.md / Examination.md** | L5786 *"test the forehead first and explicitly — ask the patient to raise their eyebrows"* is pure technique |
+| N-8 | 8 × `**Focused Hx:**` + 8 × `**Examination:**` in `NEW_Neurology` | 5695–5830 | **History-Taking.md / Examination.md** | L5786 *"test the forehead first and explicitly — ask the patient to raise their eyebrows"* is pure technique **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 
 ## PROPOSED MOVES — topic in the wrong system
 | ID | Section | L | → | Why a reader would look there |

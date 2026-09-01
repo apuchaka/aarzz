@@ -58,12 +58,12 @@ Investigation-Interpretation ×12)
 ### Examination content (standing rule)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| C-4 | `> [!info] Dynamic manoeuvres` (RILE; Valsalva/standing; squatting/handgrip; the HOCM and MVP exceptions) | 2483 | **Examination.md** | pure technique — *"this pair of exceptions is examined repeatedly"* |
+| C-4 | `> [!info] Dynamic manoeuvres` (RILE; Valsalva/standing; squatting/handgrip; the HOCM and MVP exceptions) | 2483 | **Examination.md** | pure technique — *"this pair of exceptions is examined repeatedly"* **✅ EXECUTED 2026-09-01 → `Examination.md` (`c5df174`)** |
 | C-5 | `### 0.21.2 Heart sounds`, `### 0.21.4 Pulses` | 790, 800 | **Examination.md §1.5** | how to interpret what you hear/feel. **`### 0.21.1 Murmurs — DDx` STAYS** — that is disease-mapping **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
-| C-6 | `> [!tip] Valsalva manoeuvre` (L438) and `> [!info] Vagal manoeuvres — do them properly` (L2051) | 438, 2051 | **Examination.md** | **two copies of one technique in one file**; the modified-Valsalva detail is in the B3 copy |
-| C-7 | `> [!danger] Fundoscopy is the examination that most often makes the diagnosis` | 1927 | **Examination.md §1.18** (Fundoscopy already exists there) | leave a pointer from B2 §0.3 |
-| C-8 | `> [!danger] The collateral history is the investigation` | 2268 | **History-Taking.md** | syncope collateral history |
-| C-9 | **14 `**Focused Hx:**` + 14 `**Examination:**` blocks**, all in `NEW_Cardiology_and_Vascular` | 3375–3541 | **History-Taking.md / Examination.md** | one pair per presentation — the exact Corpus B shape predicted. Largest single OSCE cluster found so far |
+| C-6 | `> [!tip] Valsalva manoeuvre` (L438) and `> [!info] Vagal manoeuvres — do them properly` (L2051) | 438, 2051 | **Examination.md** | **two copies of one technique in one file**; the modified-Valsalva detail is in the B3 copy **✅ EXECUTED 2026-09-01 → `Examination.md` (`c5df174`)** |
+| C-7 | `> [!danger] Fundoscopy is the examination that most often makes the diagnosis` | 1927 | **Examination.md §1.18** (Fundoscopy already exists there) | leave a pointer from B2 §0.3 **✅ EXECUTED 2026-09-01 → `Examination.md` (`c5df174`)** |
+| C-8 | `> [!danger] The collateral history is the investigation` | 2268 | **History-Taking.md** | syncope collateral history **✅ EXECUTED 2026-09-01 → `History-Taking.md` (`c5df174`)** |
+| C-9 | **14 `**Focused Hx:**` + 14 `**Examination:**` blocks**, all in `NEW_Cardiology_and_Vascular` | 3375–3541 | **History-Taking.md / Examination.md** | one pair per presentation — the exact Corpus B shape predicted. Largest single OSCE cluster found so far **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 
 ### Non-cardiac presentations sitting in the cardiac file
 | ID | Section | L | → | Inbound — **note the origin** |

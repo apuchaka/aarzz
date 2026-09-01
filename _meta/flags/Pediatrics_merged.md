@@ -66,7 +66,7 @@ point at it**, not after.
 | P-1 | `## 0.2 The HEEADSSS Psychosocial Assessment` (M7) | 3970 | **History-Taking.md** | **a named history-taking framework.** The single clearest standing-rule item in this file **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
 | P-2 | `## 0.1 Adolescent Development and the Consultation` (M7) | 3944 | **Communication.md** | how to run the consultation, incl. seeing the young person alone |
 | P-3 | `## 0.3 Confidentiality, Consent and the Mature Minor` (M7) | 3992 | **`A10_Ethics__Capacity__Consent_and_Certification`** | Gillick/mature minor is a **consent and capacity** topic. `A10` is the owner |
-| P-4 | `> Get down to the child's level, introduce yourself to THEM…` (M1 §0.6 Practical Paediatrics) | 2806–2851 | **Examination.md / Communication.md** | **`Examination.md §1.23 Approach to Paediatric Examination` already exists** |
+| P-4 | `> Get down to the child's level, introduce yourself to THEM…` (M1 §0.6 Practical Paediatrics) | 2806–2851 | **Examination.md / Communication.md** | **`Examination.md §1.23 Approach to Paediatric Examination` already exists** **✅ EXECUTED 2026-09-01 → `Examination.md` (`c5df174`)** |
 | P-5 | `15_24a Non-Accidental Injury and Sexual Abuse` (whole source) | 2541–2581 | **`NEW_Safeguarding_and_Forensic`** | **14 inbound, Communication ×4.** Safeguarding is that file's stated subject. Pairs with **OBGYN B-13 (FGM)** |
 
 ### Investigation interpretation (standing rule, as extended)

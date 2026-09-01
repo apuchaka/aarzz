@@ -51,17 +51,17 @@ GI ×6, ID ×5, Neuro ×4, Paediatrics — i.e. it is already the de facto owner
 | B-1 | `## 0.1 The Sexual History and STI Assessment` (O6) | 5185 | **History-Taking.md** | see above. Merge with ID I-1 and MSK K-10 **✅ EXECUTED 2026-09-01 → `History-Taking.md` (c5df174)** |
 | B-2 | `## 0.1 Triple Assessment` (O7) | 5499 | **Examination.md §1.17** | **§1.17 "Breast Examination" already exists.** Triple assessment is the examination-plus-imaging-plus-biopsy method **✅ EXECUTED 2026-09-01 → `Examination.md` (c5df174)** |
 | B-3 | `## 0.1 Pre-pregnancy counselling` (16_01-05) | 12 | **arguable — Communication.md** | a counselling consultation. Counter: it is heavily clinical (folate, rubella, medication review). **Flag, do not move** |
-| B-4 | **6** × `**Focused Hx:**` + **6** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Obstetrics` and `NEW_Gynaecology_and_Reproductive` | 4000–3628 | **History-Taking.md / Examination.md** | both sources have zero inbound |
+| B-4 | **6** × `**Focused Hx:**` + **6** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Obstetrics` and `NEW_Gynaecology_and_Reproductive` | 4000–3628 | **History-Taking.md / Examination.md** | both sources have zero inbound **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 
 ### Investigation interpretation (standing rule, as extended)
 `NEW_Investigations_Obstetrics_and_Gynaecology` — 12 entries, 4 inbound (GP ×2, MSK, NEW_Exam).
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| B-5 | `## 0.1 Cervical Screening Test and Abnormality (Australian NCSP)` · `## 0.2 Liquid-Based Cytology` | 3666, 3696 | **Investigation-Interpretation.md** | **duplicates `17_09 ## Cervical cancer screening`** (3034). `GP_merged` and `Clinical-Process-EBM` both cite `17_09` |
+| B-5 | `## 0.1 Cervical Screening Test and Abnormality (Australian NCSP)` · `## 0.2 Liquid-Based Cytology` | 3666, 3696 | **Investigation-Interpretation.md** | **duplicates `17_09 ## Cervical cancer screening`** (3034). `GP_merged` and `Clinical-Process-EBM` both cite `17_09` **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | B-6 | `## 0.3 Genital / Cervical Swab Panel` | 3718 | **Investigation-Interpretation.md** | overlaps `17_08 ## Vaginal discharge — DDx` and `ID 08_08` **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | B-7 | `## 0.4 Hormone Panel (Gynaecological / Reproductive)` | 3744 | **Investigation-Interpretation.md** | serves amenorrhoea, PCOS, menopause **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | B-8 | `## 0.5 Prenatal Screening Panel` · `## 0.6 CVS` · `## 0.7 Amniocentesis` · `## 0.8 Cordocentesis` | 3769–3858 | **Investigation-Interpretation.md** | ⚠️ **§0.6 and §0.7 duplicate `16_01-05 §0.6.1 Chorionic villus sampling` and `§0.6.2 Amniocentesis`** (203, 209), and `§0.5` duplicates `§0.5.4`–`§0.5.6` (NIPT, combined and quadruple tests) **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
-| B-9 | `## 0.9 Kleihauer-Betke` · `## 0.10 Ferning and Nitrazine` · `## 0.11 Fetal Fibronectin` · `## 0.12 Biophysical Profile` | 3859–3964 | **Investigation-Interpretation.md** | ⚠️ **the BPP and CTG cluster is where approved Cardio C-1 (`Non-Stress Test / CTG`) should land**, alongside `GER7 §0.5 Fetal Scalp Blood Sampling`. **Three CTG/fetal-monitoring homes** |
+| B-9 | `## 0.9 Kleihauer-Betke` · `## 0.10 Ferning and Nitrazine` · `## 0.11 Fetal Fibronectin` · `## 0.12 Biophysical Profile` | 3859–3964 | **Investigation-Interpretation.md** | ⚠️ **the BPP and CTG cluster is where approved Cardio C-1 (`Non-Stress Test / CTG`) should land**, alongside `GER7 §0.5 Fetal Scalp Blood Sampling`. **Three CTG/fetal-monitoring homes** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 
 ### Topic in the wrong system
 | ID | Section | L | → | Why |

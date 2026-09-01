@@ -134,7 +134,13 @@ and never re-totalled.
 | **Pending moves with a named destination** | **104** | approve by destination, as you have been |
 | **Pending moves, arguable** | **32** | two or three homes, no discriminator |
 | **Pending moves, no destination proposed** | **63** | needs a home or a ruling that none exists |
-| **TOTAL** | **211** | |
+| **TOTAL** | ~~211~~ **161** | corrected — see below |
 
-Everything else — 350 groupings, 59 keep-and-flag, 20 narrative findings, 4 recorded, 2 done,
-and the ungrouped "stays put" lists — **is resolved by a pattern you have already set.**
+> [!warning] **211 was wrong and 161 is the measured number.** 41 rows were already executed but
+> unmarked, because the `✅ EXECUTED` marking had been keyed on **exact heading text** and the
+> flag rows are paraphrases; 9 more were `keep, flag` rows A3 had already settled. Re-marked by
+> **row ID against the execution manifests**. **The full list is `THE_161.md`.**
+
+Everything else — 350 groupings, 59 keep-and-flag, **61 executed moves**, **12 paired-block rows
+resolved as Option 1**, 20 narrative findings, 4 recorded, 2 done, and the ungrouped "stays put"
+lists — **is resolved by a pattern you have already set. 546 items.**

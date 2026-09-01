@@ -45,9 +45,9 @@ in the vault (1 of 295) concatenated into two merged docs.** Needs a single home
 ### Investigation interpretation (standing rule, as extended)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| E-1 | `## 0.1 Thyroid Panel (TSH, fT4, fT3, antibodies)` | 3468 | **Investigation-Interpretation.md** | |
+| E-1 | `## 0.1 Thyroid Panel (TSH, fT4, fT3, antibodies)` | 3468 | **Investigation-Interpretation.md** | **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | E-2 | `## 0.2 Thyroid Ultrasound` · `## 0.3 Radioactive Iodine Uptake and Scintigraphy` | 3497, 3516 | **Investigation-Interpretation.md** | TIRADS reporting; uptake patterns **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
-| E-3 | `## 0.4 Glucose / Diabetes Testing (glucose, HbA1c, OGTT)` | 3536 | **Investigation-Interpretation.md** | |
+| E-3 | `## 0.4 Glucose / Diabetes Testing (glucose, HbA1c, OGTT)` | 3536 | **Investigation-Interpretation.md** | **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (`ac620de`)** |
 | E-4 | `## 0.5 Prolactin` · `## 0.6 Renin–Aldosterone (ARR)` | 3558, 3575 | **Investigation-Interpretation.md** | macroprolactin; ARR interference **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | E-5 | `### 0.20.6 Arterial Blood Gas Reference Values` | 768 | **Investigation-Interpretation.md §1.5** | **§1.5 "ABG / VBG Interpretation" already exists there** **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
 | E-6 | `## 0.1 Acid-Base Interpretation — Framework` (F0-2) | 1077 | **Investigation-Interpretation.md §1.5** | *"a structured method for converting a blood gas plus electrolytes into a named disorder"* — that is §1.5's job description **✅ EXECUTED 2026-09-01 → `Investigation-Interpretation.md` (ac620de)** |
@@ -70,7 +70,7 @@ in the vault (1 of 295) concatenated into two merged docs.** Needs a single home
 ### History (standing rule)
 | ID | Section | L | → |
 |---|---|---|---|
-| E-14 | `**Focused Hx:**` + `**Examination:**` in `NEW_Acid-Base_Fluids_and_Electrolytes ## Dehydration` | 2852–2853 | **History-Taking.md / Examination.md** |
+| E-14 | `**Focused Hx:**` + `**Examination:**` in `NEW_Acid-Base_Fluids_and_Electrolytes ## Dehydration` | 2852–2853 | **History-Taking.md / Examination.md** **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
 
 ## KEEP + IN-TEXT FLAG
 - `## 0.27 Weight Change — Differential Approach` (1048) self-describes as *"absent as a unifying

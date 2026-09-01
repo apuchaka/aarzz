@@ -58,8 +58,8 @@ Its own title says *"and Other"*. **18 entries; 11 are neither orthopaedic nor n
 ## PROPOSED MOVES — examination (standing rule)
 | ID | Section | L | → | Note |
 |---|---|---|---|---|
-| K-17 | **6** × `**Focused Hx:**` + **6** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Orthopaedics_and_Trauma` and `NEW_Rheumatology_and_Immunology` | 4889–5021 | **History-Taking.md / Examination.md** | L5021 is the classic *"look, feel, move, and assess neurovascular status"* |
-| K-18 | `> Tinel's sign` · `> Phalen's sign` (11_03) | 395, 396 | **Examination.md** | *how to elicit*. **The carpal tunnel disease entry stays.** `NEW_Exam_Manoeuvres` already owns the analogous tests |
+| K-17 | **6** × `**Focused Hx:**` + **6** × `**Examination:**` *(count corrected 2026-09-01 — measured, not re-estimated)* in `NEW_Orthopaedics_and_Trauma` and `NEW_Rheumatology_and_Immunology` | 4889–5021 | **History-Taking.md / Examination.md** | L5021 is the classic *"look, feel, move, and assess neurovascular status"* **✅ RESOLVED 2026-09-01 — Option 1: left in place, indexed in `Examination.md` §3 and `History-Taking.md` §2 (`bcf7515`/`fab04f5`)** |
+| K-18 | `> Tinel's sign` · `> Phalen's sign` (11_03) | 395, 396 | **Examination.md** | *how to elicit*. **The carpal tunnel disease entry stays.** `NEW_Exam_Manoeuvres` already owns the analogous tests **✅ EXECUTED 2026-09-01 → `Examination.md` (`c5df174`)** |
 
 > **Structural note for the Clinical Process output: `NEW_Exam_Manoeuvres_and_Procedures.md` Part 1
 > is 15 sections and *every one* is an MSK test** — Lachman, anterior/posterior drawer, pivot shift,
