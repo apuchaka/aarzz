@@ -63,6 +63,31 @@ section-level resolution is only as good as numbering that has already proved un
 one file. File-level inbound counts remain sound. Section-level counts are provisional wherever the
 target file has been renumbered, and **there is no way to tell from the pointer itself.**
 
+## NUMBERING TRUST MAP (option 2, user-approved) — `drift.py`
+Five signals per source: double-numbered heading (the renumber fingerprint), duplicate section
+numbers, gaps in the 0.N sequence, dangling inbound pointers, number/name disagreements.
+
+**171 of 172 sources show no drift.** Only three ever flagged:
+- `01_Cardiovascular` — FINGERPRINT `## 0.23 0.22a Rheumatic Heart Disease (RHD)`. **The only file
+  with real drift.** Its 21 damaged inbound pointers are fixed as of `48a870f`.
+- `NEW_Investigations_Gastroenterology` — 6 gaps, **all benign**: combined headings such as
+  `## 0.12 Colonoscopy · 0.13 Flexible Sigmoidoscopy · 0.14 Sigmoidoscopy · 0.15 Anoscopy`.
+- `B2_Hypertension_Spectrum` — 1 dangling pointer, deliberately unfixed (see below).
+
+**`drift.py` v1 produced a false positive** and it was worth having: it reported
+`NEW_Drugs_07_Blood_and_Electrolytes` as having 4 duplicate section numbers. It has none — the
+file is **physically concatenated into TWO merged docs** (`Endocrine and metabolics_merged.md:2889`
+and `Heme Onc_merged.md:2774`), so its headings were counted twice. Guarded, re-run, clean.
+
+**Caveat that must travel with this map: absence of signal is WEAK evidence.** Only 0.9% of numeric
+pointers carry a topic name, so the number/name check can only ever see a sliver. A file with no
+signal is *unrefuted*, not *verified*.
+
+## NOT FIXED, deliberately
+`OBGYN_merged.md:4264` cites `[[B2]] 0.5`. `B2_Hypertension_Spectrum` has only §0.1–0.4. The context
+is antihypertensives in pregnancy; **which section was intended cannot be determined**, and CLAUDE.md
+rule 1 forbids writing a plausible-sounding target. Flagged for the user.
+
 ## Residual limitation, not fixable mechanically
 Anaphoric references carry no filename and no tool can index them.
 `Renal and Urology_merged.md:2000` reads *"see 0.22–0.23 of the same file"*. Hand-caught.
@@ -79,7 +104,9 @@ generated one of each per presentation.
 - [x] **GI_merged.md** — done, decisions received, `_meta/flags/GI_merged.md`
 - [x] **Cardio_merged.md** — done, `_meta/flags/Cardio_merged.md`. **PRODUCED A METHOD-LEVEL
       FINDING — run PAUSED here to report it (user standing instruction).**
-- [ ] Resp_merged.md              <-- RESUME HERE once the user rules on the finding below
+- [x] **Off-by-one pointers FIXED** — commit `48a870f`, standalone, 21 instances. User ruled
+      options 2+3. Dangling 9→1, number/name disagreements 7→0.
+- [ ] Resp_merged.md              <-- RESUME HERE
 - [ ] Resp_merged.md
 - [ ] Renal and Urology_merged.md
 - [ ] Endocrine and metabolics_merged.md
@@ -112,6 +139,12 @@ generated one of each per presentation.
 - Cardio B6 §0.4–0.8 are general presentations filed as cardiology; §0.8 Undifferentiated Lump has
   **19 inbound, none cardiac** (C-10 – C-14).
 - Troponin has four section-level homes; ALS has two (Cardio §0.5, Emergency §0.3).
-- **10 broken pointers into `01_Cardiovascular` must be fixed regardless of any move** — listed in
-  `_meta/flags/Cardio_merged.md`.
+- ~~broken pointers into `01_Cardiovascular`~~ **FIXED, commit `48a870f`.**
+- **`NEW_Drugs_07_Blood_and_Electrolytes.md` is byte-identical in two merged files** — 240 lines,
+  in `Endocrine and metabolics_merged.md:2889` and `Heme Onc_merged.md:2774`. The only source file
+  in the vault (1 of 295) concatenated into more than one merged doc. Needs a home decision.
+- **Standing rule EXTENDED by the user to investigation interpretation.** Same boundary: *how to
+  read the test* → `Investigation-Interpretation.md`; *what the result means in this disease* →
+  system file. "How to work through an ECG" is Investigation-Interpretation; "new AF on ECG in
+  thyrotoxicosis" is Endocrine.
 - Alcohol withdrawal split GI §0.6.1 / Neuro §0.1 L4077 + L804 / Psychiatry L917 + L1268 (M-5).

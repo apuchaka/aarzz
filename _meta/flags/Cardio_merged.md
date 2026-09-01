@@ -5,8 +5,12 @@ Sources: 10 · lines 4279 · most-referenced file in the vault (**92 inbound to 
 alone**, of which **44 come from the Clinical Process set**: History-Taking ×19, Examination ×13,
 Investigation-Interpretation ×12)
 
-> **THIS FILE PRODUCED A METHOD-LEVEL FINDING — see `RUN_STATE.md` § "Off-by-one pointers".
-> Every POINTED AT BY figure below that rests on a bare section number is provisional.**
+> **THIS FILE PRODUCED A METHOD-LEVEL FINDING — see `RUN_STATE.md` § "Off-by-one pointers".**
+> `01_Cardiovascular` is **the only source in the vault with real numbering drift** (171 of 172 are
+> clean, per `drift.py`). Its 21 damaged inbound pointers are **fixed as of `48a870f`**, so the
+> POINTED AT BY figures below are now sound.
+>
+> **C-2/C-3 CONFIRMED by the user:** the standing rule extends to investigation interpretation.
 
 ## LEAD: self-declaring misfile (free, per the method)
 | ID | Section | L | From → To | Evidence |
@@ -62,7 +66,7 @@ Investigation-Interpretation ×12)
   `NEW_Exam_Manoeuvres_and_Procedures §0.16 Cardioversion`, `§0.17 ICD`, `§0.18 Carotid
   Endarterectomy`. `B3 §0.6 Cardiac Device Events` (L2200) overlaps §0.17. Axis question, flag only.
 
-## BROKEN POINTERS — must be fixed regardless of any move
+## BROKEN POINTERS — **FIXED, commit `48a870f`** (kept as the record of what was wrong)
 All target `01_Cardiovascular`; all off by exactly one; **all in the same direction.**
 | Where | Says | Actually is | True home |
 |---|---|---|---|
