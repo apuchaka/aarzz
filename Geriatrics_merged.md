@@ -1,300 +1,5 @@
 
 
-<!-- ===== SOURCE: 18_Geriatrics_and_Older_Persons_Health.md ===== -->
-
-
-> [!note] Why this file exists. The CSV category "Older Persons Health / Geriatrics (NEW)" had **no corresponding file at all** — the single largest gap found in this project (Step 21). An audit of its 11 rows before building found that three were already adequately covered elsewhere and are deliberately **not** duplicated here: capacity assessment (see [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework), the cognitive screening tools themselves (see [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS)), and osteoporosis management (see [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis, which is verified against the 2024 RACGP/Healthy Bones Australia guideline). Two further rows were built into [[04_Neurology]] rather than here, because their structural anchors already live there.
->
-> This file holds the topics that no organ system owns — which is precisely why they had no home before.
-
-## Falls in Older People
-
-> [!note] Gap-filled from CSV ("Fall (recurrent falls)," High yield, and the falls-prevention half of "Osteopenia/osteoporosis management & falls-related fracture prevention"). Genuinely absent as clinical content: falls appeared only as a history-taking checklist bullet in [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls), which is an OSCE communication framework rather than an assessment or management approach. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition) Part A "Falls", the Australian Commission on Safety and Quality in Health Care falls guidelines for community care, the Cochrane review of exercise for preventing falls (Sherrington et al.), and the Exercise & Sports Science Australia position statement on exercise for falls prevention, Aug 2026.
-
-**D:** an event resulting in a person unintentionally coming to rest on the ground or a lower level. **Roughly one third of community-dwelling people aged over 65 fall each year**, and the proportion rises with age and in residential aged care.
-
-> [!danger] The single most important framing: a fall is a **symptom, not a diagnosis**. "Mechanical fall" is not a diagnosis either, and writing it in the notes closes an assessment that should be opening one. The cause is **multifactorial in most older fallers** — typically several modest contributors acting together rather than one dramatic cause — which is why single-intervention approaches underperform and why a multidisciplinary response is the standard.
-
-> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
->
-> `Distinguishing a fall from a collapse — do this first`
->
-> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
-> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
-
-### Risk factors — the ones worth actually asking about
-
-**Intrinsic:**
-- **Previous falls** — the strongest single predictor. A fall in the past year should trigger the full assessment.
-- **Impaired balance and gait**, and **reduced lower-limb muscle strength** (sarcopenia) — the two most consistently identified modifiable contributors.
-- **Visual impairment** — cataract, uncorrected refractive error, and specifically **multifocal/bifocal spectacles**, which blur the lower visual field exactly where the ground and steps are (see [[05_Ophthalmology]] Cataracts).
-- **Cognitive impairment and delirium** — impaired judgement of hazards and, in delirium, fluctuating attention (see [[04_Neurology]] Dementias and [[04_Neurology]] Delirium).
-- **Postural (orthostatic) hypotension** — common, frequently drug-related, and readily missed if the blood pressure is only ever taken sitting.
-- **Peripheral neuropathy** — loss of proprioceptive input (see [[04_Neurology]] Diabetic Neuropathy for the commonest cause and its glove-and-stocking distribution, not repeated here).
-- **Continence problems** — urgency and nocturia drive hurried, poorly-lit trips to the toilet.
-- **Foot problems and inappropriate footwear** — pain, deformity, and loose or backless shoes.
-- **Fear of falling** — a genuine risk factor in its own right, not merely a consequence: it drives activity avoidance, which causes deconditioning and further weakness, which raises fall risk again. Ask about it explicitly, because patients rarely volunteer it.
-
-**Extrinsic (environmental):** loose rugs and trailing cords, poor lighting (particularly on stairs and the route to the toilet at night), absent grab rails in the bathroom, cluttered walkways, unfamiliar surroundings, pets.
-
-> [!warning] Fall-risk-increasing drugs (FRIDs) — review these specifically, by name, rather than glancing at the list
-> **Psychotropics are the highest-yield target**: benzodiazepines and Z-drugs, antipsychotics, antidepressants (including SSRIs), and anticonvulsants. Also **cardiovascular agents**: antihypertensives of all classes, diuretics, nitrates, alpha-blockers, digoxin and antiarrhythmics. Also **opioids**, **anticholinergics** (including bladder antimuscarinics, sedating antihistamines, and tricyclics), and **hypoglycaemic agents** (insulin, sulfonylureas).
->
-> This matters more than it first appears: **withdrawal of psychotropic medication produced the largest effect of any single falls-prevention intervention in randomised trials** — but the same trial evidence shows sustained withdrawal is genuinely hard to achieve in practice, so this is a deprescribing project with follow-up, not a one-off stop order. See Polypharmacy and Deprescribing below.
-
-### Assessment — the multifactorial falls risk assessment
-
-**Screening:** ask every older patient about falls in the past 12 months, and about unsteadiness or fear of falling. Two or more falls in a year, one fall with injury, or reported gait/balance difficulty all warrant the full multifactorial assessment.
-
-**History:** the circumstances of each fall (what they were doing, indoors/outdoors, time of day, footwear, any prodrome), whether consciousness was lost, whether they could get up unaided and how long they were down, injuries sustained, and **fear of falling and consequent activity restriction**. Collateral history where cognition is impaired.
-
-> [!tip] "Have you had any falls?" under-detects, because many older people do not classify a stumble or a slide to the floor as a fall, and some minimise it for fear of losing independence. Ask instead: *"Have you had any slips, trips or falls, including ones where you didn't hurt yourself?"* — and follow up with *"Have you been more unsteady on your feet?"*
-
-**Examination:**
-- **Lying and standing blood pressure** — measured supine after 5 minutes, then at 1 **and** 3 minutes standing. A sustained drop of **≥20 mmHg systolic or ≥10 mmHg diastolic** defines orthostatic hypotension. This is the highest-yield bedside test in a faller and is very commonly omitted. **Both timings matter, and the reason is derivable rather than arbitrary:** the immediate drop on standing is normally corrected within seconds by the baroreflex, so a reading at 1 minute captures failure of that reflex — while **delayed orthostatic hypotension**, where compensation succeeds initially and then fails, is missed entirely by a single early reading. Measuring from *sitting* rather than lying under-detects both, because the postural change is smaller and the venous pooling less.
-- **Gait and balance**, observed directly. The **Timed Up and Go (TUG)** is the standard bedside tool: time the patient rising from a standard chair, walking 3 metres, turning, returning and sitting down. **Longer than about 10–12 seconds identifies community-dwelling older adults more likely to fall** and should prompt physiotherapy referral. Watch *how* they do it, not just the clock — hesitancy, a wide base, multiple steps to turn, or reaching for furniture are all informative.
-- **Cardiovascular:** heart rate and rhythm, murmurs (aortic stenosis as a syncopal cause).
-- **Neurological:** lower-limb power and tone, proprioception and vibration sense, cerebellar signs, and features of parkinsonism.
-- **Vision** — acuity, and specifically ask whether they wear multifocals when walking outdoors or on stairs.
-- **Feet and footwear** — inspect both, including the shoes they actually walk in at home.
-- **Cognitive screen** where not already known (see [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS)).
-
-**Ix:** directed by the assessment rather than a reflex panel. FBC (*why:* anaemia contributes to postural symptoms and fatigue; *what:* low Hb), U&Es (*why:* dehydration and electrolyte disturbance both cause postural hypotension and confusion, and diuretics are a common contributor; *what:* raised urea/creatinine, hyponatraemia), blood glucose (*why:* hypoglycaemia is a reversible cause of falls and of apparent confusion in patients on insulin or sulfonylureas; *what:* low BGL), **vitamin D and calcium** (*why:* deficiency contributes to myopathy and to fracture risk, and identifies who benefits from supplementation; *what:* low 25-OH vitamin D), and **ECG** (*why:* screens for bradyarrhythmia, heart block, and prolonged QT as syncopal causes that a purely "mechanical" framing would miss; *what:* conduction abnormality, arrhythmia). **Imaging only where injury is suspected clinically** — a CT head is indicated for a head strike with anticoagulation, reduced consciousness, or focal neurology, not routinely after every fall.
-
-### Mx — what actually works
-
-- **Immediate/acute:** treat injuries (a high index of suspicion for occult hip fracture — see [[11_04_Ortho_-_Hip]] Hip / neck of femur (NOF) fractures — and for subdural haematoma in an anticoagulated patient with a head strike, where presentation can be delayed by days to weeks); assess for and treat the acute precipitant (infection, delirium, dehydration, new medication); and check for a **long lie**, which carries genuine risk of rhabdomyolysis, pressure injury, hypothermia and AKI, and which independently signals that the person cannot summon help.
-- **Definitive — the interventions with real evidence:**
-  - **Exercise is the single most effective intervention.** The dose and type matter and are frequently prescribed too vaguely: it must **challenge balance**, and the evidence favours a total of **3 or more hours per week, sustained**. Programmes meeting those criteria reduce falls substantially more than the ~25% average effect seen across community exercise programmes generally. Refer to physiotherapy or an accredited exercise physiologist rather than advising "keep active".
-  - **Medication review and deprescribing**, targeting the FRIDs above and psychotropics first — see Polypharmacy and Deprescribing below.
-  - **Home hazard assessment and modification by an occupational therapist** — most effective in those at higher risk, and more effective when the OT visits the home rather than working from a checklist in clinic.
-  - **Vision** — cataract surgery where indicated, updating refraction, and advising **single-vision distance glasses for walking outdoors and on stairs** in multifocal wearers.
-  - **Vitamin D** — supplement where deficient. Note the evidence is dose- and setting-dependent: higher-dose supplementation (≥700 IU/day) shows benefit while low-dose does not, and the case is stronger in residential aged care than in vitamin-D-replete community dwellers. **Do not give it routinely to everyone regardless of status.**
-  - **Footwear** — well-fitting, low-heeled, thin firm soles, and fastened; treat foot pain and refer to podiatry.
-  - **Postural hypotension** — reduce or withdraw the contributing drug first, ensure adequate hydration, advise rising slowly in stages, and consider compression stockings; drug treatment (e.g. fludrocortisone, midodrine) is specialist-initiated and a later step.
-- **Chronic/long-term:**
-  - **Fracture prevention runs alongside falls prevention, and neither substitutes for the other** — a faller with osteoporosis needs both. Assess bone health and treat per [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis (not repeated here), which carries the AU-specific DXA and treatment-initiation thresholds.
-  - Address **fear of falling** directly — it responds to supervised exercise and graded activity, and is a common reason a technically excellent plan achieves nothing.
-  - **A personal alarm or similar means of summoning help**, which changes the consequence of a fall even when it cannot prevent one.
-  - Referral pathways: falls clinic, geriatrician, community physiotherapy/OT, and an **Aged Care Assessment Team (ACAT)** assessment where support needs have changed — see Discharge Planning and Home Safety Assessment below.
-
-> [!danger] **Aboriginal and Torres Strait Islander people — the age threshold is the actionable point, and getting it wrong delays care by 15 years.** Falls, dementia, pain and urinary incontinence all occur at **younger ages** than in the non-Indigenous population, and the health and aged care systems reflect this: **Aboriginal and Torres Strait Islander people are eligible for aged care assessment and services from age 50, not 65.** Practically, this means a 55-year-old Aboriginal patient presenting with recurrent falls warrants the **full multifactorial assessment and an ACAT referral** — not the reassurance that they are "too young" for a falls work-up, which is the error this threshold exists to prevent. Aboriginal and Torres Strait Islander Aged Care Assessment Organisations exist specifically to provide this assessment in a culturally safe way. Verified against the Australian Government's Aboriginal and Torres Strait Islander aged care eligibility criteria and the RACGP Silver Book chapter on older Aboriginal and Torres Strait Islander people, Aug 2026.
-
-> [!danger] **The same age-50 threshold applies to a second, separate population: people who are homeless or at risk of homelessness.** Aged care eligibility is **65 by default, and 50 both for Aboriginal and Torres Strait Islander people and for people who are homeless or at risk of homelessness** — two distinct groups reaching the same threshold, and worth holding separately rather than merging, since the reasons and the clinical picture differ. What they share is the reason the rule exists: **age-related conditions occur earlier relative to chronological age**, so a threshold set at 65 systematically excludes people who already have the problems it was written for.
-> Practically, a **55-year-old who is sleeping rough or in insecure housing and presenting with falls, cognitive change or functional decline is within scope for an aged care assessment** — and the reflex that they are decades too young is the same error as in the box above, in a different guise. This population is also disproportionately likely to present through the emergency department rather than general practice, so the hospital admission may be the only opportunity anyone gets to make the referral. Verified against My Aged Care (Australian Government), Aug 2026.
-
-> [!info] The intervention hierarchy, if you remember nothing else: **balance-challenging exercise at adequate dose, deprescribe the FRIDs, and fix the home and the glasses.** Those three carry most of the evidence. Vitamin D matters where the patient is deficient, and much less where they are not.
-
----
-
-## Frailty
-
-> [!note] Gap-filled from CSV ("Frailty phenotype / frailty assessment," High yield). Genuinely absent: the word appeared three times in the whole corpus, each time as a passing modifier on some other topic (an ECOG caveat in oncology, a relaxed HbA1c target in diabetes, a bladder-drug caution) — never as a concept with a definition, an assessment method, or management. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition) Part A "Frailty", the Australian Consensus Statement on the Prevention and Management of Frailty Among Community-Dwelling Older Adults (MJA, modified Delphi), and the AJGP review of sarcopenia in general practice, Aug 2026.
-
-**D:** a state of **reduced physiological reserve across multiple organ systems**, producing disproportionate vulnerability to decompensation after a stressor that a non-frail person of the same age would absorb without consequence.
-
-> [!info] The clinical signature, which is what makes frailty a useful concept rather than a synonym for "old": **the response is out of proportion to the insult.** The same urinary tract infection produces mild dysuria in a fit 80-year-old and, in a frail one, a fall, delirium, incontinence, immobility and an admission — with function often not returning to baseline afterwards. That non-linear response, and the incomplete recovery, is frailty. It is the reason a frail patient's presenting complaint is so often one of the geriatric syndromes (falls, delirium, immobility, incontinence) rather than the organ-specific symptom of the actual illness.
-
-**Frailty is not the same as any of the things it is routinely confused with:**
-- **Not age.** Many 90-year-olds are not frail; some 65-year-olds are.
-- **Not multimorbidity.** They overlap and each raises the risk of the other, but a patient can carry several well-controlled chronic diseases with intact reserve, and a patient with few diagnoses can be profoundly frail.
-- **Not disability.** Disability is established loss of function; frailty is the vulnerability that predicts *future* loss. A frail person may currently be fully independent — which is exactly when intervention has the most to offer.
-
-### Assessment — two different models, used for different jobs
-
-**1. The frailty phenotype (Fried) — a physical, criteria-based definition.** Five components:
-1. Unintentional weight loss
-2. Self-reported exhaustion
-3. Low physical activity
-4. Slow walking speed
-5. Weak grip strength
-
-**Three or more = frail; one or two = pre-frail; none = robust.** The *pre-frail* category is the practically important one — it identifies the patient in whom the trajectory is still readily modifiable.
-
-**2. The Clinical Frailty Scale (Rockwood) — a judgement-based 9-point scale**, running from *very fit* through to *terminally ill*, and derived from the accumulated-deficits model, which counts deficits across physical, cognitive and psychosocial domains rather than physical criteria alone. Fast enough to apply at the bedside or on admission, which is why it is the one most often seen in hospital practice and in escalation and perioperative decisions.
-
-Both are validated and both predict mortality; they are not interchangeable, and they answer different questions. The phenotype asks *"is this patient physically frail, and can I target the components?"*; the CFS asks *"how much reserve does this patient have, and what does that mean for the decision in front of me?"*
-
-**Australian guidance is to assess frailty annually in older patients using a validated tool** — the specific tool matters less than doing it systematically rather than by impression.
-
-**Sarcopenia** — the age-related loss of skeletal muscle mass, strength and function — is the muscle-specific core of physical frailty, and is what the exercise and protein interventions below are actually targeting.
-
-### Why it changes management, not just prognosis
-
-Frailty should alter clinical decisions rather than merely describe the patient:
-- **Treatment targets loosen.** Tighter is not better in frailty — see the relaxed HbA1c targets in frail older patients in [[06_Metabolic_Medicine_and_Endocrinology]], and weigh the falls and postural-hypotension cost of intensive blood-pressure lowering against its benefit.
-- **Fitness for intervention.** Frailty predicts postoperative complications and chemotherapy toxicity better than age or performance status alone — note the explicit acknowledgement in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] ECOG Performance Status that ECOG is a broad functional snapshot rather than a frailty assessment.
-- **Falls and fracture risk rise together** — see Falls in Older People above and [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis.
-- **Delirium risk rises sharply**, which is why reduced physiological reserve appears as the first half of the delirium equation in [[04_Neurology]] Delirium.
-- **Goals of care conversations become timely**, not premature — see [[Communication]] Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation) for that conversation, and [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework for the capacity question that underlies it.
-
-### Mx — the central message is that frailty is modifiable
-
-> [!danger] **Frailty is not an inevitable consequence of ageing, and identifying it is not a reason for therapeutic nihilism.** Its main drivers — sarcopenia, undernutrition, physical inactivity, uncontrolled chronic disease and polypharmacy — are all modifiable, and pre-frailty in particular can be reversed. Recording "frail" and doing nothing is a clinical failure, not a diagnosis.
-
-- **Immediate/acute:** in an acute presentation, expect an atypical one, hunt for the geriatric syndrome masking the illness, and avoid the iatrogenic harms that frail inpatients are most susceptible to — deconditioning from bed rest, delirium, pressure injury, and new medications.
-- **Definitive — the interventions with evidence:**
-  - **Exercise, progressive and individualised, combining resistance, aerobic, and balance/functional training**, tailored to frailty level and professionally supervised. **The resistance component is essential** and is the part most often left out when a patient is simply told to "stay active".
-  - **Nutrition — an individualised, protein-rich diet**, with active identification and treatment of protein–energy malnutrition and specific deficiencies. Early dietitian involvement.
-  - **Deprescribing** — see Polypharmacy and Deprescribing below.
-  - **Optimise contributing chronic disease**, and correct sensory impairment (vision, hearing), which drives inactivity and social withdrawal.
-  - **Early physiotherapist and dietitian involvement** is specifically recommended rather than reserved for failure of advice alone.
-> [!danger] **Aboriginal and Torres Strait Islander people — frailty presents earlier, and the assessment age must move with it.** Age-related conditions occur at younger ages, and aged care eligibility begins at **50 rather than 65** — as it does for people who are homeless or at risk of homelessness, in whom frailty likewise presents early (see the equity boxes under Falls in Older People above, not repeated here). The practical consequence for this entry specifically: **do not use 65 as the trigger for frailty assessment**, and do not read a frailty phenotype or Clinical Frailty Scale score in a 55-year-old Aboriginal patient as implausible for their age. Applying an unadjusted age threshold is the mechanism by which this disparity is perpetuated in individual consultations.
-
-- **Chronic/long-term:** **Comprehensive Geriatric Assessment** — the multidimensional, multidisciplinary assessment (medical, functional, cognitive, psychological, social, environmental) with a coordinated plan, which is the structure that ties together everything in this file. Address social isolation, arrange appropriate community supports, and reassess frailty status annually to track the trajectory rather than assuming it only goes one way.
-
----
-
-## Polypharmacy and Deprescribing
-
-> [!note] Gap-filled from CSV ("Polypharmacy review / deprescribing in the elderly," High yield). Genuinely absent as content: polypharmacy appeared only as checklist bullets inside [[Communication]] Management of Patients with Multiple Chronic Medical Problems and [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls) — "review for sedating, anticholinergic, and hypotension-causing medications" — with no method for actually doing it, and no mention of Beers, STOPP/START, the prescribing cascade, or tapering anywhere in the corpus. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition) Parts A "Polypharmacy" and "Deprescribing", and the *Deprescribing in Older People: A Clinical Practice Guideline* summary (MJA, 2026), Aug 2026.
-
-**D:** **polypharmacy** is conventionally defined as the regular use of **five or more medicines**, though the number matters far less than whether each medicine still has a valid indication and a favourable benefit-to-harm balance for *this* patient now. **Deprescribing** is the planned, supervised withdrawal of a medicine that is no longer appropriate, done as a positive clinical act rather than as an omission.
-
-> [!info] The framing that makes this a clinical skill rather than an administrative tidy-up: **deprescribing is part of the prescribing continuum, not the opposite of prescribing.** Most treatment guidelines say when to start a medicine and are silent on when to stop it, so medicines accumulate by default — each one started for a good reason at the time, none ever formally reviewed for whether that reason still holds. This is the 2026 Australian guideline's central point, and it explains why polypharmacy develops in patients whose every individual prescribing decision was defensible.
-
-**Why it matters:** each additional medicine raises the risk of adverse drug events, drug–drug and drug–disease interactions, falls (see Falls in Older People above), delirium (see [[04_Neurology]] Delirium), cognitive impairment, non-adherence, and hospital admission. In an older person with reduced renal and hepatic clearance and reduced physiological reserve (see Frailty above), the dose–harm relationship is shifted relative to a younger patient on the same regimen.
-
-> [!danger] **The prescribing cascade** — the single most important pattern to recognise, because it is invisible unless you look for it. An adverse effect of one drug is misinterpreted as a new medical condition, and a second drug is prescribed to treat it. Classic examples:
-> - **Metoclopramide or an antipsychotic → drug-induced parkinsonism → levodopa** (see [[04_Neurology]] Parkinson's Disease (PD), where drug-induced parkinsonism is already noted as a differential).
-> - **Calcium channel blocker → ankle oedema → a diuretic** (which then causes postural hypotension and falls).
-> - **Anticholinergic → confusion or urinary retention → a cholinesterase inhibitor or a catheter.**
-> - **NSAID → hypertension or dyspepsia → an antihypertensive or a PPI** (see [[03_Gastrointestinal]] Peptic Ulcer Disease).
->
-> The diagnostic question that breaks the cascade: **"could this new symptom be a side effect of an existing medicine?"** — asked *before* reaching for a new prescription.
-
-### Anticholinergic burden — specifically worth knowing in Australia
-
-Anticholinergic effects are **cumulative across drugs**, so a patient can carry a substantial burden from several individually-innocuous medicines with no single obvious culprit. Contributors include bladder antimuscarinics, sedating antihistamines, tricyclic antidepressants, some antipsychotics, antispasmodics and antiemetics. The consequences in an older person are precisely the ones easily attributed to ageing or dementia instead: confusion, memory impairment, falls, constipation, urinary retention, dry mouth, blurred vision.
-
-This is not a marginal issue in Australian practice — **roughly 20–34% of older Australians use at least one medicine with anticholinergic effects**, and these drugs remain widely prescribed despite being flagged as potentially inappropriate by both the criteria sets below.
-
-### Tools for identifying potentially inappropriate medicines
-
-- **Beers Criteria** (American Geriatrics Society) — a list of medicines generally to be avoided in older people, or avoided in specific conditions.
-- **STOPP** (Screening Tool of Older People's Prescriptions) — medicines to consider stopping.
-- **START** (Screening Tool to Alert to Right Treatment) — the complement, and the half that is routinely forgotten: **older people are also *under*-prescribed** medicines with clear benefit (osteoporosis treatment after a minimal-trauma fracture, anticoagulation in AF, statins where indicated). Deprescribing is about appropriateness in both directions, not simply about reducing the count.
-
-**Australian services that exist to do this properly** and that an intern should know to arrange rather than attempt in a ward round: a **Home Medicines Review (HMR)** for community-dwelling patients and a **Residential Medication Management Review (RMMR)** for those in residential aged care — both accredited-pharmacist-conducted, both government-funded, and both underused.
-
-### Mx — how to actually deprescribe
-
-- **Immediate/acute:** on any admission, take a complete and accurate medication history including over-the-counter medicines, supplements and PRN use, and reconcile it against what the patient is actually taking. Admission is the highest-yield opportunity for review, and also the point at which unintended changes most often occur.
-- **Definitive — a workable sequence:**
-  1. **List every medicine with its indication.** A medicine whose indication nobody can state is the first candidate.
-  2. **Assess benefit versus harm for this patient now** — including the *time to benefit*. A preventive medicine whose benefit accrues over 5–10 years offers little to a patient whose life expectancy is shorter than that, while its harms are immediate.
-  3. **Establish the patient's own priorities** — symptom control and independence often matter more to them than a long-term risk-reduction target (see [[Communication]] Management of Patients with Multiple Chronic Medical Problems).
-  4. **Prioritise** the medicines with the worst harm profile in older people: benzodiazepines and Z-drugs, anticholinergics, antipsychotics, opioids, and the fall-risk-increasing drugs listed under Falls in Older People above.
-  5. **Stop one medicine at a time**, so that any benefit or deterioration is attributable.
-  6. **Taper where withdrawal or rebound is a genuine risk** — benzodiazepines and Z-drugs, opioids, antidepressants, beta-blockers, corticosteroids, antipsychotics, and PPIs (rebound acid hypersecretion). Do **not** stop these abruptly. For benzodiazepines specifically, a workable approach is an initial reduction of around 20–25%, held for 2–4 weeks, then smaller reductions of roughly 5–12.5%, going slower if withdrawal symptoms emerge (see [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]] Benzodiazepines).
-  7. **Monitor and follow up** — document what was stopped and why, tell the patient what to expect and what would warrant restarting, and arrange review. Deprescribing without follow-up is not safer than not deprescribing.
-- **Chronic/long-term:** schedule medication review as a recurring event rather than an incidental one, and record a stop date or review date at the time of *starting* any new medicine — the intervention that prevents the problem rather than correcting it later.
-
-> [!tip] Deprescribing is a shared decision, and forced or abrupt withdrawal is both unsafe and counterproductive. The evidence on what makes it succeed is unglamorous: the patient's trust in the prescriber, a gradual taper, and an explicit agreement that a medicine can be restarted if stopping it turns out to be the wrong call. Framing matters — "let's see whether you still need this" is heard very differently from "I'm taking you off this."
-
----
-
-## Abuse of Older People (Elder Abuse) and Carer Stress
-
-> [!note] Gap-filled from CSV ("Elder abuse / carer stress recognition," High yield). The only genuinely absent row in the whole Geriatrics category on a corpus-wide search — the sole related content was one carer-wellbeing bullet in [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls). Deliberately structured to mirror [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Non-accidental injury (NAI) — risk factors, features suggestive of abuse, differential, then response — so the two safeguarding entries read the same way despite living in different files. Verified against the RACGP aged care clinical guide (Silver Book) Part B "Abuse of older people", the AIFS National Elder Abuse Prevalence Study, and the Aged Care Quality and Safety Commission's Serious Incident Response Scheme guidance, Aug 2026.
-
-**D:** a single or repeated act, or lack of appropriate action, occurring within a relationship where there is an **expectation of trust**, which causes harm or distress to an older person. The trust relationship is the defining element — it is what distinguishes elder abuse from crime committed by a stranger, and it is also why disclosure is so difficult.
-
-**The five recognised subtypes**, with Australian 12-month prevalence among community-dwelling people aged 65+ from the National Elder Abuse Prevalence Study (**15% experienced at least one subtype**):
-- **Psychological/emotional (12%)** — by far the commonest, and the one least likely to be looked for: intimidation, humiliation, threats (including threats of residential care placement), social isolation, withholding contact with family.
-- **Neglect (3%)** — failure to provide necessities of life: food, hygiene, medication, medical care, warmth, supervision. May be intentional or arise from carer incapacity.
-- **Financial (2%)** — misuse of funds or assets, coercion over a will or power of attorney, unpaid "borrowing", pressure to transfer property. The subtype most often uncovered incidentally.
-- **Physical (2%)** — including inappropriate use of restraint or over-sedation.
-- **Sexual (1%)**.
-
-**R:** older person factors — cognitive impairment (particularly dementia), functional dependence, social isolation, communication difficulty, and previous family violence. Perpetrator factors, which matter at least as much and are commonly the adult child rather than a paid carer — financial dependence on the older person, substance misuse, mental illness, and **carer stress with inadequate support**.
-
-> [!warning] Features suggestive of abuse of an older person
-> **From the history/interaction:** delayed presentation, or an explanation inconsistent with the injury; repeated presentations to different services; a carer who answers for the patient, refuses to leave the room, or is dismissive or hostile toward them; a patient who appears fearful, withdrawn or watchful in the carer's presence; the patient's own disclosure — which may be tentative, minimised, or later retracted.
-> **Physical:** bruising in unusual sites or of varying ages, pressure injuries, poor hygiene, unexplained weight loss or dehydration, over- or under-medication, untreated injuries.
-> **Financial:** unexplained inability to pay for care or medicines, sudden changes to a will or power of attorney, a relative with unusual control over finances, unpaid bills despite adequate income.
-> **Service-related:** missed appointments, non-collection of prescriptions, refusal of services on the patient's behalf by someone else.
-
-> [!note] Differential — none of the features above is specific, and each has innocent explanations that must be genuinely considered rather than dismissed: bruising from anticoagulants, thrombocytopenia or repeated falls (see Falls in Older People above); weight loss from malignancy, depression or dysphagia; pressure injury from immobility despite adequate care; confusion from delirium, dementia or polypharmacy (see [[04_Neurology]] Delirium vs Dementia vs Depression); and self-neglect, which is genuinely different from neglect by another and calls for a different response.
-
-**Assessment:**
-- **Interview the older person alone.** This is the single most important step and the one most often skipped. A carer's insistence on remaining present is itself a red flag; a neutral reason to separate them ("I always examine people privately") is usually enough.
-- Ask directly but non-accusatorially — *"Does anyone at home make you feel afraid?"*, *"Is anyone taking or using your money without your permission?"*, *"Do you get the help you need with washing, dressing and meals?"*
-- **Assess capacity** for the specific decisions in question (see [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework), since it determines whether the person can decline intervention. **A person with capacity may choose to remain in an abusive situation**, and that choice must be respected while support and information are still offered — a genuinely difficult but legally clear point.
-- Assess the **carer** as well: burden, mental health, substance use, and whether they have adequate support. Carer stress is a contributing factor to be addressed, not an excuse that discharges the concern.
-- Examine and **document thoroughly and objectively** — describe and measure injuries, distinguish fact from opinion, and record the patient's own words verbatim, exactly as the NAI entry requires.
-
-> [!danger] The Australian reporting position — and it is genuinely different from child abuse, which is where most people's intuition comes from
-> **There is no general statutory mandatory reporting obligation for elder abuse in Australia.** This is a real and important contrast with mandatory reporting of child abuse (see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Sexual abuse for the SA mandatory-reporting duty that does apply to children). Assuming the same duty applies to older people is a common error in both directions — some clinicians report without consent believing they must, others do nothing believing that without a mandatory duty there is no pathway.
-> - **Limited exception:** Commonwealth-funded aged care providers have specific reporting obligations under the *Aged Care Act 1997* (Cth), and the **Serious Incident Response Scheme (SIRS)** — in residential aged care since April 2021 and extended to in-home aged care services from December 2022 — requires providers to report serious incidents including abuse and neglect to the **Aged Care Quality and Safety Commission**. This is a *provider* obligation, not a treating-clinician one.
-> - **Call the police** where there is a suspected crime or immediate danger.
-> - **1800ELDERHelp (1800 353 374)** is the national number that redirects to the relevant state or territory service.
-> - Other pathways: the **Office of the Public Advocate** and the relevant state tribunal (**SACAT** in South Australia) where guardianship or financial administration is in question — the same bodies already named in [[Clinical-Process-EBM-Consent-Capacity]] Consent to Medical Treatment and Palliative Care Act 1995 (SA) for capacity disputes.
-> The national policy framework is the **National Plan to Respond to the Abuse of Older Australians**.
-
-> [!info] **Two Australian-specific points.** First, **who counts as an "older person" is not 65 for everyone** — Aboriginal and Torres Strait Islander people, and people who are homeless or at risk of homelessness, are eligible for aged care from age 50, so an abuse concern in a 55-year-old from either group should be considered within this framework rather than dismissed on age (see Falls in Older People above). Second, and stated as a limitation rather than a finding: **reliable Australian prevalence data on abuse of older Aboriginal and Torres Strait Islander people specifically is limited**, and the National Elder Abuse Prevalence Study's community-dwelling sample should not be assumed to represent it. Do not extrapolate the subtype percentages above to this population — the honest position is that the data is thin, not that the rates are the same.
-
-**Mx:**
-- **Immediate/acute:** treat injuries and address any immediate safety risk. Admission is a legitimate tool where it is the only way to create a safe space while a plan is made.
-- **Definitive:** raise the concern through the appropriate pathway above; involve social work early; separate the older person's needs from the carer's; and where the person has capacity and declines intervention, **keep the door open** — document the discussion, provide the contact numbers, treat what they will let you treat, and arrange follow-up. Disclosure often takes several contacts.
-- **Chronic/long-term:** address the modifiable drivers — carer support and respite, home care packages via an **Aged Care Assessment Team (ACAT)** assessment, treatment of carer mental illness or substance misuse, and reducing the older person's social isolation. Reassess, because circumstances change and a refusal today is not a refusal forever.
-
----
-
-## Discharge Planning and Home Safety Assessment
-
-> [!note] Gap-filled from CSV ("Discharge planning / home safety assessment," High yield). Partially present before this: [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls) carries home-environment and referral bullets within an OSCE communication framework, and [[15_01b_Paeds_-_Anaphylaxis]] Discharge planning covers a single-condition paediatric discharge — but the discharge *process* for an older inpatient existed nowhere. Verified against the Australian Commission on Safety and Quality in Health Care's Medication Management at Transitions of Care Stewardship Framework and medication reconciliation guidance, the NSW ACI Care of Confused Hospitalised Older Persons (CHOPs) transfer-of-care principles, and the RACGP aged care clinical guide (Silver Book, 5th edition), Aug 2026.
-
-**Why this is a clinical task rather than an administrative one:** the transition out of hospital is a **recognised high-risk period**, and older people are particularly vulnerable to re-presentation after it. The failure modes are predictable and therefore preventable — the medication list is wrong, the GP does not know what happened, nobody checked whether the person can actually manage at home, and the follow-up that the plan depends on was never arranged.
-
-> [!danger] **Discharge planning starts on admission, not on the day of discharge.** An older person's discharge destination and support needs should be an explicit question from day one, because the assessments and services it depends on — occupational therapy home visit, ACAT assessment, package activation, equipment supply — all take days to arrange. Beginning on the morning of discharge guarantees either a delayed discharge or an unsafe one.
-
-### Functional readiness — the question that actually decides discharge
-
-Medical stability is necessary but not sufficient. The operative question is whether this person can manage in **their** home, which requires knowing what that home is like and what they could do before:
-- **Baseline versus current function.** Compare current ADLs (washing, dressing, toileting, transferring, feeding) and IADLs (shopping, cooking, finances, medications, transport) against their **premorbid** level, not against normal. A patient discharged at a function below their baseline without new support will fail.
-- **Mobility and transfers**, assessed by physiotherapy — including stairs if there are stairs, and specifically whether they can get off a low chair and off the toilet.
-- **Cognition**, which determines whether they can follow the plan at all (see [[04_Neurology]] Delirium vs Dementia vs Depression — and note that delirium frequently has *not* fully resolved at discharge, so the cognitive assessment made on admission may no longer apply).
-- **Continence, nutrition and swallowing.**
-- **Who is at home**, what they can realistically provide, and whether that arrangement is sustainable for them (see Abuse of Older People (Elder Abuse) and Carer Stress above — carer breakdown is both a discharge failure and a safeguarding risk).
-
-### Home safety assessment
-
-An **occupational therapist home visit** is the substantive version of this, and is more informative than any checklist completed in the ward, because it sees the actual environment. It covers access and entry (steps, rails), the bathroom (shower access, grab rails, toilet height), the kitchen, trip hazards and lighting, bed height and transfers, and the ability to summon help. It prescribes equipment and home modifications and — importantly — checks the person can use them. OT-led discharge planning of this kind is associated with reduced readmission.
-
-Overlaps directly with falls prevention: the same assessment addresses both, so do not commission it twice (see Falls in Older People above).
-
-### Medication reconciliation — the highest-yield single step
-
-**Medication reconciliation should occur at every transition of care**, and the patient and carer should leave with an accurate, updated medication list they understand.
-
-The scale of the problem is Australian and specific: **more than half of medication errors occur at transitions of care**, and **a patient with one or more medicines missing from their discharge information is around 2.3 times more likely to be readmitted** than one whose discharge information is correct. Practically, that means:
-- Reconcile the discharge list against the pre-admission list, and account for every difference — stopped, started, or changed dose — with the reason.
-- **Say what was deliberately stopped and why**, or the GP or a community pharmacist will helpfully restart it. This is the point at which good deprescribing work done during the admission is most often undone (see Polypharmacy and Deprescribing above).
-- Consider a dose administration aid, and whether the person can physically open the packaging and read the label.
-
-### Communication and follow-up
-
-- **Discharge summary to the GP, promptly**, stating the diagnosis, what changed, what was stopped and why, what is outstanding, and what the GP is being asked to do and by when. A summary that arrives after the patient does is of limited use.
-- **Explicit follow-up**: GP appointment, outpatient reviews, and who is responsible for chasing any pending results.
-- **The patient and carer must understand the plan** — teach-back rather than a handed-over sheet, particularly where cognition is impaired.
-- **Safety-netting**: what would warrant re-presentation, and who to call.
-
-### Australian services worth knowing by name
-
-- **Aged Care Assessment Team (ACAT)** — the assessment gateway to Commonwealth-funded aged care, including home care packages, residential care, and transition care. Refer early; it is a common cause of discharge delay.
-- **Transition Care Programme** — time-limited therapy and support after a hospital stay for people who need longer to recover; requires the acute episode to be complete, medical stability, and ACAT assessment.
-- **My Aged Care** as the entry point patients and families are directed to.
-- **Home Medicines Review** for the medication side (see Polypharmacy and Deprescribing above).
-
-> [!danger] **Discharge to a remote community is a different problem, not a harder version of the same one.** Where a patient is returning to a remote or very remote community, the standard plan can fail for reasons that have nothing to do with the medical assessment: the **medicines may not be locally available** and supply arrangements need confirming before discharge rather than after; **follow-up may be through an Aboriginal Community Controlled Health Organisation (ACCHO) or a visiting service** rather than a GP clinic, so the discharge summary must reach the right service; **transport home may take days** and may itself need arranging; and **equipment and home modifications** assume an environment and a supply chain that may not exist. Aboriginal and Torres Strait Islander people are also eligible for aged care assessment from age 50 (see Falls in Older People above), so the ACAT referral threshold is younger than the default.
->
-> **Discharge to no fixed address is the other version of this problem**, and it fails for overlapping reasons: there is nowhere to deliver equipment or a home modification to, no address for follow-up correspondence, no safe storage for medicines, and often no phone number that will still work next week. People who are homeless or at risk of homelessness are **also eligible for aged care assessment from age 50** (see Falls in Older People above) — which is frequently the most useful referral available and is routinely not made, because the patient does not look like the person the service is imagined to be for. Involve social work early, and ask about housing explicitly rather than inferring it from the address on the chart, which may be historical. Ask **where the patient is going and who will actually see them**, early — this is the discharge planning that most often fails silently because everyone assumes someone else arranged it.
-
-> [!tip] The commonest avoidable discharge failures, in the order they occur: planning started too late for the services to be arranged; discharge to a function level below baseline with no new support; a medication list that does not say what changed or why; and a follow-up plan that depends on an appointment nobody actually booked.
-
-
 <!-- ===== SOURCE: GER1_Comprehensive_Geriatric_Assessment.md ===== -->
 
 
@@ -604,6 +309,340 @@ Investigation for secondary causes, and commencement of appropriate pharmacother
 > Delirium, dementia and cognitive assessment → [[D2]] · Gait disorders and disequilibrium → [[D5]] 0.4–0.5 · Syncope and the unwitnessed fall → [[B4]] 0.4 · Long lie, hypothermia and rhabdomyolysis → [[A6]] 0.5 and [[A7]] 0.6 · Head injury on anticoagulants → [[F0.5]] 0.8 · Atypical presentation of abdominal disease → [[C1]] 0.11 · Drug-induced parkinsonism → [[D6]] 0.5 · Deprescribing PPIs → [[C6]] 0.1 · Anticholinergic burden → [[18_Geriatrics_and_Older_Persons_Health]] · Capacity, advance care directives and substitute decision-making → [[A10]] 0.1–0.3 · Elder abuse and safeguarding → [[P3]] · Myeloma → [[J4]] · Geriatric syndromes and end-of-life care → [[GER2]]
 
 
+<!-- ===== SOURCE: 18_Geriatrics_and_Older_Persons_Health.md ===== -->
+
+
+> [!note] Why this file exists. The CSV category "Older Persons Health / Geriatrics (NEW)" had **no corresponding file at all** — the single largest gap found in this project (Step 21). An audit of its 11 rows before building found that three were already adequately covered elsewhere and are deliberately **not** duplicated here: capacity assessment (see [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework), the cognitive screening tools themselves (see [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS)), and osteoporosis management (see [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis, which is verified against the 2024 RACGP/Healthy Bones Australia guideline). Two further rows were built into [[04_Neurology]] rather than here, because their structural anchors already live there.
+>
+> This file holds the topics that no organ system owns — which is precisely why they had no home before.
+
+## Falls in Older People
+
+> [!note] Gap-filled from CSV ("Fall (recurrent falls)," High yield, and the falls-prevention half of "Osteopenia/osteoporosis management & falls-related fracture prevention"). Genuinely absent as clinical content: falls appeared only as a history-taking checklist bullet in [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls), which is an OSCE communication framework rather than an assessment or management approach. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition) Part A "Falls", the Australian Commission on Safety and Quality in Health Care falls guidelines for community care, the Cochrane review of exercise for preventing falls (Sherrington et al.), and the Exercise & Sports Science Australia position statement on exercise for falls prevention, Aug 2026.
+
+**D:** an event resulting in a person unintentionally coming to rest on the ground or a lower level. **Roughly one third of community-dwelling people aged over 65 fall each year**, and the proportion rises with age and in residential aged care.
+
+> [!danger] The single most important framing: a fall is a **symptom, not a diagnosis**. "Mechanical fall" is not a diagnosis either, and writing it in the notes closes an assessment that should be opening one. The cause is **multifactorial in most older fallers** — typically several modest contributors acting together rather than one dramatic cause — which is why single-intervention approaches underperform and why a multidisciplinary response is the standard.
+
+> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Distinguishing a fall from a collapse — do this first`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
+### Risk factors — the ones worth actually asking about
+
+**Intrinsic:**
+- **Previous falls** — the strongest single predictor. A fall in the past year should trigger the full assessment.
+- **Impaired balance and gait**, and **reduced lower-limb muscle strength** (sarcopenia) — the two most consistently identified modifiable contributors.
+- **Visual impairment** — cataract, uncorrected refractive error, and specifically **multifocal/bifocal spectacles**, which blur the lower visual field exactly where the ground and steps are (see [[05_Ophthalmology]] Cataracts).
+- **Cognitive impairment and delirium** — impaired judgement of hazards and, in delirium, fluctuating attention (see [[04_Neurology]] Dementias and [[04_Neurology]] Delirium).
+- **Postural (orthostatic) hypotension** — common, frequently drug-related, and readily missed if the blood pressure is only ever taken sitting.
+- **Peripheral neuropathy** — loss of proprioceptive input (see [[04_Neurology]] Diabetic Neuropathy for the commonest cause and its glove-and-stocking distribution, not repeated here).
+- **Continence problems** — urgency and nocturia drive hurried, poorly-lit trips to the toilet.
+- **Foot problems and inappropriate footwear** — pain, deformity, and loose or backless shoes.
+- **Fear of falling** — a genuine risk factor in its own right, not merely a consequence: it drives activity avoidance, which causes deconditioning and further weakness, which raises fall risk again. Ask about it explicitly, because patients rarely volunteer it.
+
+**Extrinsic (environmental):** loose rugs and trailing cords, poor lighting (particularly on stairs and the route to the toilet at night), absent grab rails in the bathroom, cluttered walkways, unfamiliar surroundings, pets.
+
+> [!warning] Fall-risk-increasing drugs (FRIDs) — review these specifically, by name, rather than glancing at the list
+> **Psychotropics are the highest-yield target**: benzodiazepines and Z-drugs, antipsychotics, antidepressants (including SSRIs), and anticonvulsants. Also **cardiovascular agents**: antihypertensives of all classes, diuretics, nitrates, alpha-blockers, digoxin and antiarrhythmics. Also **opioids**, **anticholinergics** (including bladder antimuscarinics, sedating antihistamines, and tricyclics), and **hypoglycaemic agents** (insulin, sulfonylureas).
+>
+> This matters more than it first appears: **withdrawal of psychotropic medication produced the largest effect of any single falls-prevention intervention in randomised trials** — but the same trial evidence shows sustained withdrawal is genuinely hard to achieve in practice, so this is a deprescribing project with follow-up, not a one-off stop order. See Polypharmacy and Deprescribing below.
+
+### Assessment — the multifactorial falls risk assessment
+
+**Screening:** ask every older patient about falls in the past 12 months, and about unsteadiness or fear of falling. Two or more falls in a year, one fall with injury, or reported gait/balance difficulty all warrant the full multifactorial assessment.
+
+**History:** the circumstances of each fall (what they were doing, indoors/outdoors, time of day, footwear, any prodrome), whether consciousness was lost, whether they could get up unaided and how long they were down, injuries sustained, and **fear of falling and consequent activity restriction**. Collateral history where cognition is impaired.
+
+> [!tip] "Have you had any falls?" under-detects, because many older people do not classify a stumble or a slide to the floor as a fall, and some minimise it for fear of losing independence. Ask instead: *"Have you had any slips, trips or falls, including ones where you didn't hurt yourself?"* — and follow up with *"Have you been more unsteady on your feet?"*
+
+**Examination:**
+- **Lying and standing blood pressure** — measured supine after 5 minutes, then at 1 **and** 3 minutes standing. A sustained drop of **≥20 mmHg systolic or ≥10 mmHg diastolic** defines orthostatic hypotension. This is the highest-yield bedside test in a faller and is very commonly omitted. **Both timings matter, and the reason is derivable rather than arbitrary:** the immediate drop on standing is normally corrected within seconds by the baroreflex, so a reading at 1 minute captures failure of that reflex — while **delayed orthostatic hypotension**, where compensation succeeds initially and then fails, is missed entirely by a single early reading. Measuring from *sitting* rather than lying under-detects both, because the postural change is smaller and the venous pooling less.
+- **Gait and balance**, observed directly. The **Timed Up and Go (TUG)** is the standard bedside tool: time the patient rising from a standard chair, walking 3 metres, turning, returning and sitting down. **Longer than about 10–12 seconds identifies community-dwelling older adults more likely to fall** and should prompt physiotherapy referral. Watch *how* they do it, not just the clock — hesitancy, a wide base, multiple steps to turn, or reaching for furniture are all informative.
+- **Cardiovascular:** heart rate and rhythm, murmurs (aortic stenosis as a syncopal cause).
+- **Neurological:** lower-limb power and tone, proprioception and vibration sense, cerebellar signs, and features of parkinsonism.
+- **Vision** — acuity, and specifically ask whether they wear multifocals when walking outdoors or on stairs.
+- **Feet and footwear** — inspect both, including the shoes they actually walk in at home.
+- **Cognitive screen** where not already known (see [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS)).
+
+**Ix:** directed by the assessment rather than a reflex panel. FBC (*why:* anaemia contributes to postural symptoms and fatigue; *what:* low Hb), U&Es (*why:* dehydration and electrolyte disturbance both cause postural hypotension and confusion, and diuretics are a common contributor; *what:* raised urea/creatinine, hyponatraemia), blood glucose (*why:* hypoglycaemia is a reversible cause of falls and of apparent confusion in patients on insulin or sulfonylureas; *what:* low BGL), **vitamin D and calcium** (*why:* deficiency contributes to myopathy and to fracture risk, and identifies who benefits from supplementation; *what:* low 25-OH vitamin D), and **ECG** (*why:* screens for bradyarrhythmia, heart block, and prolonged QT as syncopal causes that a purely "mechanical" framing would miss; *what:* conduction abnormality, arrhythmia). **Imaging only where injury is suspected clinically** — a CT head is indicated for a head strike with anticoagulation, reduced consciousness, or focal neurology, not routinely after every fall.
+
+### Mx — what actually works
+
+- **Immediate/acute:** treat injuries (a high index of suspicion for occult hip fracture — see [[11_04_Ortho_-_Hip]] Hip / neck of femur (NOF) fractures — and for subdural haematoma in an anticoagulated patient with a head strike, where presentation can be delayed by days to weeks); assess for and treat the acute precipitant (infection, delirium, dehydration, new medication); and check for a **long lie**, which carries genuine risk of rhabdomyolysis, pressure injury, hypothermia and AKI, and which independently signals that the person cannot summon help.
+- **Definitive — the interventions with real evidence:**
+  - **Exercise is the single most effective intervention.** The dose and type matter and are frequently prescribed too vaguely: it must **challenge balance**, and the evidence favours a total of **3 or more hours per week, sustained**. Programmes meeting those criteria reduce falls substantially more than the ~25% average effect seen across community exercise programmes generally. Refer to physiotherapy or an accredited exercise physiologist rather than advising "keep active".
+  - **Medication review and deprescribing**, targeting the FRIDs above and psychotropics first — see Polypharmacy and Deprescribing below.
+  - **Home hazard assessment and modification by an occupational therapist** — most effective in those at higher risk, and more effective when the OT visits the home rather than working from a checklist in clinic.
+  - **Vision** — cataract surgery where indicated, updating refraction, and advising **single-vision distance glasses for walking outdoors and on stairs** in multifocal wearers.
+  - **Vitamin D** — supplement where deficient. Note the evidence is dose- and setting-dependent: higher-dose supplementation (≥700 IU/day) shows benefit while low-dose does not, and the case is stronger in residential aged care than in vitamin-D-replete community dwellers. **Do not give it routinely to everyone regardless of status.**
+  - **Footwear** — well-fitting, low-heeled, thin firm soles, and fastened; treat foot pain and refer to podiatry.
+  - **Postural hypotension** — reduce or withdraw the contributing drug first, ensure adequate hydration, advise rising slowly in stages, and consider compression stockings; drug treatment (e.g. fludrocortisone, midodrine) is specialist-initiated and a later step.
+- **Chronic/long-term:**
+  - **Fracture prevention runs alongside falls prevention, and neither substitutes for the other** — a faller with osteoporosis needs both. Assess bone health and treat per [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis (not repeated here), which carries the AU-specific DXA and treatment-initiation thresholds.
+  - Address **fear of falling** directly — it responds to supervised exercise and graded activity, and is a common reason a technically excellent plan achieves nothing.
+  - **A personal alarm or similar means of summoning help**, which changes the consequence of a fall even when it cannot prevent one.
+  - Referral pathways: falls clinic, geriatrician, community physiotherapy/OT, and an **Aged Care Assessment Team (ACAT)** assessment where support needs have changed — see Discharge Planning and Home Safety Assessment below.
+
+> [!danger] **Aboriginal and Torres Strait Islander people — the age threshold is the actionable point, and getting it wrong delays care by 15 years.** Falls, dementia, pain and urinary incontinence all occur at **younger ages** than in the non-Indigenous population, and the health and aged care systems reflect this: **Aboriginal and Torres Strait Islander people are eligible for aged care assessment and services from age 50, not 65.** Practically, this means a 55-year-old Aboriginal patient presenting with recurrent falls warrants the **full multifactorial assessment and an ACAT referral** — not the reassurance that they are "too young" for a falls work-up, which is the error this threshold exists to prevent. Aboriginal and Torres Strait Islander Aged Care Assessment Organisations exist specifically to provide this assessment in a culturally safe way. Verified against the Australian Government's Aboriginal and Torres Strait Islander aged care eligibility criteria and the RACGP Silver Book chapter on older Aboriginal and Torres Strait Islander people, Aug 2026.
+
+> [!danger] **The same age-50 threshold applies to a second, separate population: people who are homeless or at risk of homelessness.** Aged care eligibility is **65 by default, and 50 both for Aboriginal and Torres Strait Islander people and for people who are homeless or at risk of homelessness** — two distinct groups reaching the same threshold, and worth holding separately rather than merging, since the reasons and the clinical picture differ. What they share is the reason the rule exists: **age-related conditions occur earlier relative to chronological age**, so a threshold set at 65 systematically excludes people who already have the problems it was written for.
+> Practically, a **55-year-old who is sleeping rough or in insecure housing and presenting with falls, cognitive change or functional decline is within scope for an aged care assessment** — and the reflex that they are decades too young is the same error as in the box above, in a different guise. This population is also disproportionately likely to present through the emergency department rather than general practice, so the hospital admission may be the only opportunity anyone gets to make the referral. Verified against My Aged Care (Australian Government), Aug 2026.
+
+> [!info] The intervention hierarchy, if you remember nothing else: **balance-challenging exercise at adequate dose, deprescribe the FRIDs, and fix the home and the glasses.** Those three carry most of the evidence. Vitamin D matters where the patient is deficient, and much less where they are not.
+
+---
+
+## Frailty
+
+> [!note] Gap-filled from CSV ("Frailty phenotype / frailty assessment," High yield). Genuinely absent: the word appeared three times in the whole corpus, each time as a passing modifier on some other topic (an ECOG caveat in oncology, a relaxed HbA1c target in diabetes, a bladder-drug caution) — never as a concept with a definition, an assessment method, or management. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition) Part A "Frailty", the Australian Consensus Statement on the Prevention and Management of Frailty Among Community-Dwelling Older Adults (MJA, modified Delphi), and the AJGP review of sarcopenia in general practice, Aug 2026.
+
+**D:** a state of **reduced physiological reserve across multiple organ systems**, producing disproportionate vulnerability to decompensation after a stressor that a non-frail person of the same age would absorb without consequence.
+
+> [!info] The clinical signature, which is what makes frailty a useful concept rather than a synonym for "old": **the response is out of proportion to the insult.** The same urinary tract infection produces mild dysuria in a fit 80-year-old and, in a frail one, a fall, delirium, incontinence, immobility and an admission — with function often not returning to baseline afterwards. That non-linear response, and the incomplete recovery, is frailty. It is the reason a frail patient's presenting complaint is so often one of the geriatric syndromes (falls, delirium, immobility, incontinence) rather than the organ-specific symptom of the actual illness.
+
+**Frailty is not the same as any of the things it is routinely confused with:**
+- **Not age.** Many 90-year-olds are not frail; some 65-year-olds are.
+- **Not multimorbidity.** They overlap and each raises the risk of the other, but a patient can carry several well-controlled chronic diseases with intact reserve, and a patient with few diagnoses can be profoundly frail.
+- **Not disability.** Disability is established loss of function; frailty is the vulnerability that predicts *future* loss. A frail person may currently be fully independent — which is exactly when intervention has the most to offer.
+
+### Assessment — two different models, used for different jobs
+
+**1. The frailty phenotype (Fried) — a physical, criteria-based definition.** Five components:
+1. Unintentional weight loss
+2. Self-reported exhaustion
+3. Low physical activity
+4. Slow walking speed
+5. Weak grip strength
+
+**Three or more = frail; one or two = pre-frail; none = robust.** The *pre-frail* category is the practically important one — it identifies the patient in whom the trajectory is still readily modifiable.
+
+**2. The Clinical Frailty Scale (Rockwood) — a judgement-based 9-point scale**, running from *very fit* through to *terminally ill*, and derived from the accumulated-deficits model, which counts deficits across physical, cognitive and psychosocial domains rather than physical criteria alone. Fast enough to apply at the bedside or on admission, which is why it is the one most often seen in hospital practice and in escalation and perioperative decisions.
+
+Both are validated and both predict mortality; they are not interchangeable, and they answer different questions. The phenotype asks *"is this patient physically frail, and can I target the components?"*; the CFS asks *"how much reserve does this patient have, and what does that mean for the decision in front of me?"*
+
+**Australian guidance is to assess frailty annually in older patients using a validated tool** — the specific tool matters less than doing it systematically rather than by impression.
+
+**Sarcopenia** — the age-related loss of skeletal muscle mass, strength and function — is the muscle-specific core of physical frailty, and is what the exercise and protein interventions below are actually targeting.
+
+### Why it changes management, not just prognosis
+
+Frailty should alter clinical decisions rather than merely describe the patient:
+- **Treatment targets loosen.** Tighter is not better in frailty — see the relaxed HbA1c targets in frail older patients in [[06_Metabolic_Medicine_and_Endocrinology]], and weigh the falls and postural-hypotension cost of intensive blood-pressure lowering against its benefit.
+- **Fitness for intervention.** Frailty predicts postoperative complications and chemotherapy toxicity better than age or performance status alone — note the explicit acknowledgement in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] ECOG Performance Status that ECOG is a broad functional snapshot rather than a frailty assessment.
+- **Falls and fracture risk rise together** — see Falls in Older People above and [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis.
+- **Delirium risk rises sharply**, which is why reduced physiological reserve appears as the first half of the delirium equation in [[04_Neurology]] Delirium.
+- **Goals of care conversations become timely**, not premature — see [[Communication]] Discussing "Do Not Attempt Cardiopulmonary Resuscitation" (DNACPR / Not-for-Resuscitation) for that conversation, and [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework for the capacity question that underlies it.
+
+### Mx — the central message is that frailty is modifiable
+
+> [!danger] **Frailty is not an inevitable consequence of ageing, and identifying it is not a reason for therapeutic nihilism.** Its main drivers — sarcopenia, undernutrition, physical inactivity, uncontrolled chronic disease and polypharmacy — are all modifiable, and pre-frailty in particular can be reversed. Recording "frail" and doing nothing is a clinical failure, not a diagnosis.
+
+- **Immediate/acute:** in an acute presentation, expect an atypical one, hunt for the geriatric syndrome masking the illness, and avoid the iatrogenic harms that frail inpatients are most susceptible to — deconditioning from bed rest, delirium, pressure injury, and new medications.
+- **Definitive — the interventions with evidence:**
+  - **Exercise, progressive and individualised, combining resistance, aerobic, and balance/functional training**, tailored to frailty level and professionally supervised. **The resistance component is essential** and is the part most often left out when a patient is simply told to "stay active".
+  - **Nutrition — an individualised, protein-rich diet**, with active identification and treatment of protein–energy malnutrition and specific deficiencies. Early dietitian involvement.
+  - **Deprescribing** — see Polypharmacy and Deprescribing below.
+  - **Optimise contributing chronic disease**, and correct sensory impairment (vision, hearing), which drives inactivity and social withdrawal.
+  - **Early physiotherapist and dietitian involvement** is specifically recommended rather than reserved for failure of advice alone.
+> [!danger] **Aboriginal and Torres Strait Islander people — frailty presents earlier, and the assessment age must move with it.** Age-related conditions occur at younger ages, and aged care eligibility begins at **50 rather than 65** — as it does for people who are homeless or at risk of homelessness, in whom frailty likewise presents early (see the equity boxes under Falls in Older People above, not repeated here). The practical consequence for this entry specifically: **do not use 65 as the trigger for frailty assessment**, and do not read a frailty phenotype or Clinical Frailty Scale score in a 55-year-old Aboriginal patient as implausible for their age. Applying an unadjusted age threshold is the mechanism by which this disparity is perpetuated in individual consultations.
+
+- **Chronic/long-term:** **Comprehensive Geriatric Assessment** — the multidimensional, multidisciplinary assessment (medical, functional, cognitive, psychological, social, environmental) with a coordinated plan, which is the structure that ties together everything in this file. Address social isolation, arrange appropriate community supports, and reassess frailty status annually to track the trajectory rather than assuming it only goes one way.
+
+---
+
+## Polypharmacy and Deprescribing
+
+> [!note] Gap-filled from CSV ("Polypharmacy review / deprescribing in the elderly," High yield). Genuinely absent as content: polypharmacy appeared only as checklist bullets inside [[Communication]] Management of Patients with Multiple Chronic Medical Problems and [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls) — "review for sedating, anticholinergic, and hypotension-causing medications" — with no method for actually doing it, and no mention of Beers, STOPP/START, the prescribing cascade, or tapering anywhere in the corpus. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition) Parts A "Polypharmacy" and "Deprescribing", and the *Deprescribing in Older People: A Clinical Practice Guideline* summary (MJA, 2026), Aug 2026.
+
+**D:** **polypharmacy** is conventionally defined as the regular use of **five or more medicines**, though the number matters far less than whether each medicine still has a valid indication and a favourable benefit-to-harm balance for *this* patient now. **Deprescribing** is the planned, supervised withdrawal of a medicine that is no longer appropriate, done as a positive clinical act rather than as an omission.
+
+> [!info] The framing that makes this a clinical skill rather than an administrative tidy-up: **deprescribing is part of the prescribing continuum, not the opposite of prescribing.** Most treatment guidelines say when to start a medicine and are silent on when to stop it, so medicines accumulate by default — each one started for a good reason at the time, none ever formally reviewed for whether that reason still holds. This is the 2026 Australian guideline's central point, and it explains why polypharmacy develops in patients whose every individual prescribing decision was defensible.
+
+**Why it matters:** each additional medicine raises the risk of adverse drug events, drug–drug and drug–disease interactions, falls (see Falls in Older People above), delirium (see [[04_Neurology]] Delirium), cognitive impairment, non-adherence, and hospital admission. In an older person with reduced renal and hepatic clearance and reduced physiological reserve (see Frailty above), the dose–harm relationship is shifted relative to a younger patient on the same regimen.
+
+> [!danger] **The prescribing cascade** — the single most important pattern to recognise, because it is invisible unless you look for it. An adverse effect of one drug is misinterpreted as a new medical condition, and a second drug is prescribed to treat it. Classic examples:
+> - **Metoclopramide or an antipsychotic → drug-induced parkinsonism → levodopa** (see [[04_Neurology]] Parkinson's Disease (PD), where drug-induced parkinsonism is already noted as a differential).
+> - **Calcium channel blocker → ankle oedema → a diuretic** (which then causes postural hypotension and falls).
+> - **Anticholinergic → confusion or urinary retention → a cholinesterase inhibitor or a catheter.**
+> - **NSAID → hypertension or dyspepsia → an antihypertensive or a PPI** (see [[03_Gastrointestinal]] Peptic Ulcer Disease).
+>
+> The diagnostic question that breaks the cascade: **"could this new symptom be a side effect of an existing medicine?"** — asked *before* reaching for a new prescription.
+
+### Anticholinergic burden — specifically worth knowing in Australia
+
+Anticholinergic effects are **cumulative across drugs**, so a patient can carry a substantial burden from several individually-innocuous medicines with no single obvious culprit. Contributors include bladder antimuscarinics, sedating antihistamines, tricyclic antidepressants, some antipsychotics, antispasmodics and antiemetics. The consequences in an older person are precisely the ones easily attributed to ageing or dementia instead: confusion, memory impairment, falls, constipation, urinary retention, dry mouth, blurred vision.
+
+This is not a marginal issue in Australian practice — **roughly 20–34% of older Australians use at least one medicine with anticholinergic effects**, and these drugs remain widely prescribed despite being flagged as potentially inappropriate by both the criteria sets below.
+
+### Tools for identifying potentially inappropriate medicines
+
+- **Beers Criteria** (American Geriatrics Society) — a list of medicines generally to be avoided in older people, or avoided in specific conditions.
+- **STOPP** (Screening Tool of Older People's Prescriptions) — medicines to consider stopping.
+- **START** (Screening Tool to Alert to Right Treatment) — the complement, and the half that is routinely forgotten: **older people are also *under*-prescribed** medicines with clear benefit (osteoporosis treatment after a minimal-trauma fracture, anticoagulation in AF, statins where indicated). Deprescribing is about appropriateness in both directions, not simply about reducing the count.
+
+**Australian services that exist to do this properly** and that an intern should know to arrange rather than attempt in a ward round: a **Home Medicines Review (HMR)** for community-dwelling patients and a **Residential Medication Management Review (RMMR)** for those in residential aged care — both accredited-pharmacist-conducted, both government-funded, and both underused.
+
+### Mx — how to actually deprescribe
+
+- **Immediate/acute:** on any admission, take a complete and accurate medication history including over-the-counter medicines, supplements and PRN use, and reconcile it against what the patient is actually taking. Admission is the highest-yield opportunity for review, and also the point at which unintended changes most often occur.
+- **Definitive — a workable sequence:**
+  1. **List every medicine with its indication.** A medicine whose indication nobody can state is the first candidate.
+  2. **Assess benefit versus harm for this patient now** — including the *time to benefit*. A preventive medicine whose benefit accrues over 5–10 years offers little to a patient whose life expectancy is shorter than that, while its harms are immediate.
+  3. **Establish the patient's own priorities** — symptom control and independence often matter more to them than a long-term risk-reduction target (see [[Communication]] Management of Patients with Multiple Chronic Medical Problems).
+  4. **Prioritise** the medicines with the worst harm profile in older people: benzodiazepines and Z-drugs, anticholinergics, antipsychotics, opioids, and the fall-risk-increasing drugs listed under Falls in Older People above.
+  5. **Stop one medicine at a time**, so that any benefit or deterioration is attributable.
+  6. **Taper where withdrawal or rebound is a genuine risk** — benzodiazepines and Z-drugs, opioids, antidepressants, beta-blockers, corticosteroids, antipsychotics, and PPIs (rebound acid hypersecretion). Do **not** stop these abruptly. For benzodiazepines specifically, a workable approach is an initial reduction of around 20–25%, held for 2–4 weeks, then smaller reductions of roughly 5–12.5%, going slower if withdrawal symptoms emerge (see [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]] Benzodiazepines).
+  7. **Monitor and follow up** — document what was stopped and why, tell the patient what to expect and what would warrant restarting, and arrange review. Deprescribing without follow-up is not safer than not deprescribing.
+- **Chronic/long-term:** schedule medication review as a recurring event rather than an incidental one, and record a stop date or review date at the time of *starting* any new medicine — the intervention that prevents the problem rather than correcting it later.
+
+> [!tip] Deprescribing is a shared decision, and forced or abrupt withdrawal is both unsafe and counterproductive. The evidence on what makes it succeed is unglamorous: the patient's trust in the prescriber, a gradual taper, and an explicit agreement that a medicine can be restarted if stopping it turns out to be the wrong call. Framing matters — "let's see whether you still need this" is heard very differently from "I'm taking you off this."
+
+---
+
+## Abuse of Older People (Elder Abuse) and Carer Stress
+
+> [!note] Gap-filled from CSV ("Elder abuse / carer stress recognition," High yield). The only genuinely absent row in the whole Geriatrics category on a corpus-wide search — the sole related content was one carer-wellbeing bullet in [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls). Deliberately structured to mirror [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Non-accidental injury (NAI) — risk factors, features suggestive of abuse, differential, then response — so the two safeguarding entries read the same way despite living in different files. Verified against the RACGP aged care clinical guide (Silver Book) Part B "Abuse of older people", the AIFS National Elder Abuse Prevalence Study, and the Aged Care Quality and Safety Commission's Serious Incident Response Scheme guidance, Aug 2026.
+
+**D:** a single or repeated act, or lack of appropriate action, occurring within a relationship where there is an **expectation of trust**, which causes harm or distress to an older person. The trust relationship is the defining element — it is what distinguishes elder abuse from crime committed by a stranger, and it is also why disclosure is so difficult.
+
+**The five recognised subtypes**, with Australian 12-month prevalence among community-dwelling people aged 65+ from the National Elder Abuse Prevalence Study (**15% experienced at least one subtype**):
+- **Psychological/emotional (12%)** — by far the commonest, and the one least likely to be looked for: intimidation, humiliation, threats (including threats of residential care placement), social isolation, withholding contact with family.
+- **Neglect (3%)** — failure to provide necessities of life: food, hygiene, medication, medical care, warmth, supervision. May be intentional or arise from carer incapacity.
+- **Financial (2%)** — misuse of funds or assets, coercion over a will or power of attorney, unpaid "borrowing", pressure to transfer property. The subtype most often uncovered incidentally.
+- **Physical (2%)** — including inappropriate use of restraint or over-sedation.
+- **Sexual (1%)**.
+
+**R:** older person factors — cognitive impairment (particularly dementia), functional dependence, social isolation, communication difficulty, and previous family violence. Perpetrator factors, which matter at least as much and are commonly the adult child rather than a paid carer — financial dependence on the older person, substance misuse, mental illness, and **carer stress with inadequate support**.
+
+> [!warning] Features suggestive of abuse of an older person
+> **From the history/interaction:** delayed presentation, or an explanation inconsistent with the injury; repeated presentations to different services; a carer who answers for the patient, refuses to leave the room, or is dismissive or hostile toward them; a patient who appears fearful, withdrawn or watchful in the carer's presence; the patient's own disclosure — which may be tentative, minimised, or later retracted.
+> **Physical:** bruising in unusual sites or of varying ages, pressure injuries, poor hygiene, unexplained weight loss or dehydration, over- or under-medication, untreated injuries.
+> **Financial:** unexplained inability to pay for care or medicines, sudden changes to a will or power of attorney, a relative with unusual control over finances, unpaid bills despite adequate income.
+> **Service-related:** missed appointments, non-collection of prescriptions, refusal of services on the patient's behalf by someone else.
+
+> [!note] Differential — none of the features above is specific, and each has innocent explanations that must be genuinely considered rather than dismissed: bruising from anticoagulants, thrombocytopenia or repeated falls (see Falls in Older People above); weight loss from malignancy, depression or dysphagia; pressure injury from immobility despite adequate care; confusion from delirium, dementia or polypharmacy (see [[04_Neurology]] Delirium vs Dementia vs Depression); and self-neglect, which is genuinely different from neglect by another and calls for a different response.
+
+**Assessment:**
+- **Interview the older person alone.** This is the single most important step and the one most often skipped. A carer's insistence on remaining present is itself a red flag; a neutral reason to separate them ("I always examine people privately") is usually enough.
+- Ask directly but non-accusatorially — *"Does anyone at home make you feel afraid?"*, *"Is anyone taking or using your money without your permission?"*, *"Do you get the help you need with washing, dressing and meals?"*
+- **Assess capacity** for the specific decisions in question (see [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework), since it determines whether the person can decline intervention. **A person with capacity may choose to remain in an abusive situation**, and that choice must be respected while support and information are still offered — a genuinely difficult but legally clear point.
+- Assess the **carer** as well: burden, mental health, substance use, and whether they have adequate support. Carer stress is a contributing factor to be addressed, not an excuse that discharges the concern.
+- Examine and **document thoroughly and objectively** — describe and measure injuries, distinguish fact from opinion, and record the patient's own words verbatim, exactly as the NAI entry requires.
+
+> [!danger] The Australian reporting position — and it is genuinely different from child abuse, which is where most people's intuition comes from
+> **There is no general statutory mandatory reporting obligation for elder abuse in Australia.** This is a real and important contrast with mandatory reporting of child abuse (see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Sexual abuse for the SA mandatory-reporting duty that does apply to children). Assuming the same duty applies to older people is a common error in both directions — some clinicians report without consent believing they must, others do nothing believing that without a mandatory duty there is no pathway.
+> - **Limited exception:** Commonwealth-funded aged care providers have specific reporting obligations under the *Aged Care Act 1997* (Cth), and the **Serious Incident Response Scheme (SIRS)** — in residential aged care since April 2021 and extended to in-home aged care services from December 2022 — requires providers to report serious incidents including abuse and neglect to the **Aged Care Quality and Safety Commission**. This is a *provider* obligation, not a treating-clinician one.
+> - **Call the police** where there is a suspected crime or immediate danger.
+> - **1800ELDERHelp (1800 353 374)** is the national number that redirects to the relevant state or territory service.
+> - Other pathways: the **Office of the Public Advocate** and the relevant state tribunal (**SACAT** in South Australia) where guardianship or financial administration is in question — the same bodies already named in [[Clinical-Process-EBM-Consent-Capacity]] Consent to Medical Treatment and Palliative Care Act 1995 (SA) for capacity disputes.
+> The national policy framework is the **National Plan to Respond to the Abuse of Older Australians**.
+
+> [!info] **Two Australian-specific points.** First, **who counts as an "older person" is not 65 for everyone** — Aboriginal and Torres Strait Islander people, and people who are homeless or at risk of homelessness, are eligible for aged care from age 50, so an abuse concern in a 55-year-old from either group should be considered within this framework rather than dismissed on age (see Falls in Older People above). Second, and stated as a limitation rather than a finding: **reliable Australian prevalence data on abuse of older Aboriginal and Torres Strait Islander people specifically is limited**, and the National Elder Abuse Prevalence Study's community-dwelling sample should not be assumed to represent it. Do not extrapolate the subtype percentages above to this population — the honest position is that the data is thin, not that the rates are the same.
+
+**Mx:**
+- **Immediate/acute:** treat injuries and address any immediate safety risk. Admission is a legitimate tool where it is the only way to create a safe space while a plan is made.
+- **Definitive:** raise the concern through the appropriate pathway above; involve social work early; separate the older person's needs from the carer's; and where the person has capacity and declines intervention, **keep the door open** — document the discussion, provide the contact numbers, treat what they will let you treat, and arrange follow-up. Disclosure often takes several contacts.
+- **Chronic/long-term:** address the modifiable drivers — carer support and respite, home care packages via an **Aged Care Assessment Team (ACAT)** assessment, treatment of carer mental illness or substance misuse, and reducing the older person's social isolation. Reassess, because circumstances change and a refusal today is not a refusal forever.
+
+---
+
+## Discharge Planning and Home Safety Assessment
+
+> [!note] Gap-filled from CSV ("Discharge planning / home safety assessment," High yield). Partially present before this: [[Communication]] Caring for the Elderly in the Community (Dementia, Mobility, Parkinson's, Recurrent Falls) carries home-environment and referral bullets within an OSCE communication framework, and [[15_01b_Paeds_-_Anaphylaxis]] Discharge planning covers a single-condition paediatric discharge — but the discharge *process* for an older inpatient existed nowhere. Verified against the Australian Commission on Safety and Quality in Health Care's Medication Management at Transitions of Care Stewardship Framework and medication reconciliation guidance, the NSW ACI Care of Confused Hospitalised Older Persons (CHOPs) transfer-of-care principles, and the RACGP aged care clinical guide (Silver Book, 5th edition), Aug 2026.
+
+**Why this is a clinical task rather than an administrative one:** the transition out of hospital is a **recognised high-risk period**, and older people are particularly vulnerable to re-presentation after it. The failure modes are predictable and therefore preventable — the medication list is wrong, the GP does not know what happened, nobody checked whether the person can actually manage at home, and the follow-up that the plan depends on was never arranged.
+
+> [!danger] **Discharge planning starts on admission, not on the day of discharge.** An older person's discharge destination and support needs should be an explicit question from day one, because the assessments and services it depends on — occupational therapy home visit, ACAT assessment, package activation, equipment supply — all take days to arrange. Beginning on the morning of discharge guarantees either a delayed discharge or an unsafe one.
+
+### Functional readiness — the question that actually decides discharge
+
+Medical stability is necessary but not sufficient. The operative question is whether this person can manage in **their** home, which requires knowing what that home is like and what they could do before:
+- **Baseline versus current function.** Compare current ADLs (washing, dressing, toileting, transferring, feeding) and IADLs (shopping, cooking, finances, medications, transport) against their **premorbid** level, not against normal. A patient discharged at a function below their baseline without new support will fail.
+- **Mobility and transfers**, assessed by physiotherapy — including stairs if there are stairs, and specifically whether they can get off a low chair and off the toilet.
+- **Cognition**, which determines whether they can follow the plan at all (see [[04_Neurology]] Delirium vs Dementia vs Depression — and note that delirium frequently has *not* fully resolved at discharge, so the cognitive assessment made on admission may no longer apply).
+- **Continence, nutrition and swallowing.**
+- **Who is at home**, what they can realistically provide, and whether that arrangement is sustainable for them (see Abuse of Older People (Elder Abuse) and Carer Stress above — carer breakdown is both a discharge failure and a safeguarding risk).
+
+### Home safety assessment
+
+An **occupational therapist home visit** is the substantive version of this, and is more informative than any checklist completed in the ward, because it sees the actual environment. It covers access and entry (steps, rails), the bathroom (shower access, grab rails, toilet height), the kitchen, trip hazards and lighting, bed height and transfers, and the ability to summon help. It prescribes equipment and home modifications and — importantly — checks the person can use them. OT-led discharge planning of this kind is associated with reduced readmission.
+
+Overlaps directly with falls prevention: the same assessment addresses both, so do not commission it twice (see Falls in Older People above).
+
+### Medication reconciliation — the highest-yield single step
+
+**Medication reconciliation should occur at every transition of care**, and the patient and carer should leave with an accurate, updated medication list they understand.
+
+The scale of the problem is Australian and specific: **more than half of medication errors occur at transitions of care**, and **a patient with one or more medicines missing from their discharge information is around 2.3 times more likely to be readmitted** than one whose discharge information is correct. Practically, that means:
+- Reconcile the discharge list against the pre-admission list, and account for every difference — stopped, started, or changed dose — with the reason.
+- **Say what was deliberately stopped and why**, or the GP or a community pharmacist will helpfully restart it. This is the point at which good deprescribing work done during the admission is most often undone (see Polypharmacy and Deprescribing above).
+- Consider a dose administration aid, and whether the person can physically open the packaging and read the label.
+
+### Communication and follow-up
+
+- **Discharge summary to the GP, promptly**, stating the diagnosis, what changed, what was stopped and why, what is outstanding, and what the GP is being asked to do and by when. A summary that arrives after the patient does is of limited use.
+- **Explicit follow-up**: GP appointment, outpatient reviews, and who is responsible for chasing any pending results.
+- **The patient and carer must understand the plan** — teach-back rather than a handed-over sheet, particularly where cognition is impaired.
+- **Safety-netting**: what would warrant re-presentation, and who to call.
+
+### Australian services worth knowing by name
+
+- **Aged Care Assessment Team (ACAT)** — the assessment gateway to Commonwealth-funded aged care, including home care packages, residential care, and transition care. Refer early; it is a common cause of discharge delay.
+- **Transition Care Programme** — time-limited therapy and support after a hospital stay for people who need longer to recover; requires the acute episode to be complete, medical stability, and ACAT assessment.
+- **My Aged Care** as the entry point patients and families are directed to.
+- **Home Medicines Review** for the medication side (see Polypharmacy and Deprescribing above).
+
+> [!danger] **Discharge to a remote community is a different problem, not a harder version of the same one.** Where a patient is returning to a remote or very remote community, the standard plan can fail for reasons that have nothing to do with the medical assessment: the **medicines may not be locally available** and supply arrangements need confirming before discharge rather than after; **follow-up may be through an Aboriginal Community Controlled Health Organisation (ACCHO) or a visiting service** rather than a GP clinic, so the discharge summary must reach the right service; **transport home may take days** and may itself need arranging; and **equipment and home modifications** assume an environment and a supply chain that may not exist. Aboriginal and Torres Strait Islander people are also eligible for aged care assessment from age 50 (see Falls in Older People above), so the ACAT referral threshold is younger than the default.
+>
+> **Discharge to no fixed address is the other version of this problem**, and it fails for overlapping reasons: there is nowhere to deliver equipment or a home modification to, no address for follow-up correspondence, no safe storage for medicines, and often no phone number that will still work next week. People who are homeless or at risk of homelessness are **also eligible for aged care assessment from age 50** (see Falls in Older People above) — which is frequently the most useful referral available and is routinely not made, because the patient does not look like the person the service is imagined to be for. Involve social work early, and ask about housing explicitly rather than inferring it from the address on the chart, which may be historical. Ask **where the patient is going and who will actually see them**, early — this is the discharge planning that most often fails silently because everyone assumes someone else arranged it.
+
+> [!tip] The commonest avoidable discharge failures, in the order they occur: planning started too late for the services to be arranged; discharge to a function level below baseline with no new support; a medication list that does not say what changed or why; and a follow-up plan that depends on an appointment nobody actually booked.
+
+
+<!-- ===== SOURCE: 04_Neurology.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Delirium vs Dementia vs Depression — the "3 Ds" in Older People
+
+> [!note] Gap-filled from CSV ("Delirium vs dementia vs depression (differentiating in the elderly)," High yield, Older Persons Health / Geriatrics category). Each of the three conditions was already built — Delirium immediately above, Dementias earlier in this file, and [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Depression (Major depressive disorder) — but the *differential between them* existed only as a one-line tip about serial 7s. Built here rather than in the new Geriatrics file because both structural anchors (Dementias, Delirium) already live in this file, and separating the comparison from the things being compared would make it harder to find, not easier. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition), which carries the same comparison, Aug 2026.
+
+This is the single most commonly tested geriatric discriminator, and the single most common source of avoidable harm in an older inpatient — because the default assumption when an older person is confused is usually "dementia", and the answer is usually delirium.
+
+| | **Delirium** | **Dementia** | **Depression** |
+|---|---|---|---|
+| **Onset** | Acute — hours to days, and usually datable | Insidious — months to years, no clear start | Subacute — weeks to months |
+| **Course** | **Fluctuating**, characteristically worse in the evening and at night | Progressive; stable within any given day | Relatively stable day to day, often with diurnal variation (worse in the morning) |
+| **Attention** | **Markedly impaired — this is the cardinal feature** | Preserved until late disease | May be reduced by poor concentration, but the patient can be engaged and redirected |
+| **Level of consciousness** | Altered — drowsy, or hypervigilant | Clear until very late | Clear |
+| **Psychomotor activity** | Hyperactive, **hypoactive**, or mixed | Usually normal early | Retardation, or sometimes agitation |
+| **Perception** | Hallucinations common, characteristically **visual**; fleeting delusions | Possible, especially in Lewy body dementia (see Lewy Body Dementia above) | Uncommon unless psychotic depression |
+| **Sleep–wake cycle** | Disrupted, often reversed | Fragmented | Early morning waking |
+| **The patient's own account** | Cannot sustain attention well enough to give one | Often **minimises or confabulates**; typically unaware of the deficit | **Complains prominently** of poor memory; answers "I don't know" rather than guessing |
+| **Reversibility** | Usually reversible once the precipitant is treated | Not reversible | Treatable |
+
+> [!danger] Three traps, in order of how often they cause harm
+> 1. **Hypoactive delirium mistaken for depression, or dismissed as "just their dementia."** The quiet, withdrawn, drowsy patient is the one who gets missed — and hypoactive delirium carries a *worse* prognosis than the hyperactive form that attracts attention. Being difficult to rouse is not being depressed.
+> 2. **Delirium superimposed on dementia — the commonest scenario of all, not an edge case.** Dementia is the single largest risk factor for delirium. So the two are not alternatives to choose between: **any acute change in cognition or behaviour in a person with known dementia is delirium until proven otherwise**, and needs the precipitant hunt in the Delirium entry above, not a shrug and a note saying "known dementia".
+> 3. **Assuming the three are mutually exclusive.** They coexist frequently — depression is common in early dementia, and both predispose to delirium.
+
+> [!info] **Two of the table's rows are usually memorised when they are actually derivable, and both come from the same mechanism.** Delirium is a global disturbance of the brain's arousal and attentional networks rather than a failure of memory *storage* — which is why **attention is the first and most severely affected domain**, and why memory appears impaired mainly because nothing was attended to well enough to be encoded in the first place. The same network dependence explains the **fluctuation and the evening worsening**: attention is the most effort-dependent cognitive function, so it degrades first as the day's reserve is spent, and it degrades further once the external cues that support orientation — daylight, routine, staff presence, visitors — are withdrawn at night. Sundowning is therefore not a separate phenomenon to remember; it is the same attentional vulnerability under worse conditions.
+
+**The practical bedside discriminators:**
+- **Test attention, not memory.** Attention is what delirium impairs first and most, for the reason above; memory testing is slower and less specific. Serial 7s, months of the year backwards, or digit span will separate delirium from dementia far more efficiently than a full cognitive battery — and the serial-7s point already noted in the Delirium entry above is really this principle in miniature.
+- **Get a collateral history with a timeline.** "How was she two weeks ago?" does more diagnostic work than any bedside test. An acute change over days is delirium; a slow decline over years is dementia; a change over weeks with low mood and anhedonia is depression.
+- **Screening tools are for screening.** The tools in [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS) measure impairment, not its cause — a low MMSE is equally consistent with all three, and in delirium the fluctuating course means a single score can mislead in either direction.
+
+> [!info] **Depressive pseudodementia** — depression in an older person presenting as cognitive impairment, and a genuine diagnostic trap because the cognitive deficits are real, not feigned. Suggestive features: the patient complains of memory loss more than their family does (the reverse of dementia), the onset is relatively abrupt and datable, effort on testing is poor with "I don't know" answers rather than confabulated wrong ones, and low mood and anhedonia are prominent. **The cognitive impairment improves with treatment of the depression** — which is precisely why it must not be labelled dementia and left. The honest caveat: late-life depression can also be an early manifestation of an emerging dementia rather than a purely reversible mimic, so treat the depression and then **reassess cognition once mood has responded**, rather than treating a single improved score as having settled the question permanently.
+
+**Why this matters beyond the diagnosis:** delirium is a marker of acute illness and demands a search for the precipitant (see Delirium above); it also predicts falls, longer admission, functional decline and institutionalisation (see [[18_Geriatrics_and_Older_Persons_Health]] Falls in Older People). Getting the label wrong sends the patient down the wrong pathway entirely — a missed delirium means a missed sepsis, a missed drug effect, or a missed urinary retention.
+
+---
+
 <!-- ===== SOURCE: GER2_Geriatric_Syndromes_and_End_of_Life_Care.md ===== -->
 
 
@@ -615,54 +654,41 @@ Investigation for secondary causes, and commencement of appropriate pharmacother
 
 ---
 
-## 0.1 Continence
+## 0.4 Immobility, Deconditioning and Hospital-Associated Decline
 
-> [!warning] FLAG 2026-09-01 — continence is in six places across four files
-> `Renal and Urology_merged 07 §0.13 Incontinence` and `H2 §0.6 Incontinence` ·
-> `OBGYN_merged 17_08 ## Urinary incontinence` and `O5 §0.6 Prolapse and Urinary Incontinence` ·
-> `GI_merged §0.42 Faecal Incontinence (Adult)`.
-> **The most-duplicated single topic found in the vault.** Flagged, nothing merged.
+> [!warning] FLAG 2026-09-01 — duplicate pair with MSK
+> `MSK_merged L6 §0.6 Immobility, Mobility Aids and Functional Assessment` covers the same ground.
+> Pair marked, not merged.
 
-> [!danger] Ask directly — this is massively under-reported
-> **Most people with incontinence never mention it**, through embarrassment, through believing it is a normal part of ageing, or because nobody asked. It is a leading contributor to social withdrawal, falls (rushing to the toilet), skin breakdown, carer burden and residential placement.
-> **"Do you ever leak urine, or have trouble getting to the toilet in time?"** — asked directly and matter-of-factly — finds a problem that is frequently very treatable.
+> [!danger] Deconditioning in hospital is iatrogenic and it is fast
+> **Measurable muscle loss occurs within days of bed rest**, and it is disproportionately severe in older people who have little reserve. A patient admitted walking independently can be discharged unable to transfer, having received entirely correct treatment for the condition they came in with.
+> **A substantial proportion of older people never regain their pre-admission functional level.**
 
-> [!tip] The types, and why the type determines the treatment
-> **· Stress incontinence** — leakage with cough, laugh, sneeze or exertion. Pelvic floor weakness; in men, most often after prostatectomy. **First-line treatment is supervised pelvic floor muscle training, which is genuinely effective and consistently under-referred.**
-> **· Urge incontinence / overactive bladder** — sudden urgency with leakage, frequency and nocturia, from detrusor overactivity. **Bladder training and fluid and caffeine modification first**, then pharmacotherapy.
-> **· Mixed** — both, and common.
-> **· Overflow incontinence** — continuous dribbling from chronic retention. **Causes: benign prostatic enlargement, neurogenic bladder, constipation, and drugs (anticholinergics, opioids).** **Diagnosed with a bladder scan, which takes seconds** — and it is the type that is most often mislabelled as urge incontinence and made dramatically worse with an antimuscarinic.
-> **· Functional incontinence** — the bladder works, but the person cannot get to the toilet in time because of **mobility, cognition, environment, clothing, or simply nobody answering the call bell.** **This is extremely common in hospital and residential care, and it is not a bladder problem** — the intervention is a toileting schedule, a commode, better lighting, easier clothing and staff availability.
+> [!warning] The consequences of immobility
+> **Falls · pressure injury · venous thromboembolism · pneumonia and atelectasis · constipation · urinary retention and infection · delirium · insulin resistance · bone loss · and functional decline leading to residential placement.**
 
-> [!warning] Antimuscarinics for overactive bladder add to anticholinergic burden
-> **Oxybutynin in particular crosses the blood-brain barrier readily and causes cognitive impairment, delirium and falls in older people** — it is a poor choice in this population.
-> **Mirabegron, a beta-3 agonist, avoids the anticholinergic burden** and is often preferable, with blood pressure the main consideration.
-> **Weigh the benefit of slightly better continence against the cost of worsened cognition and increased falls** — that trade-off is frequently not made explicitly. Cross-refer [[GER1]] 0.4. `UNVERIFIED — agents, doses and PBS criteria.`
+> [!tip] The "tethers" — remove them
+> **Intravenous lines, urinary catheters, oxygen tubing, telemetry leads, drains, and infusion pumps all physically prevent a patient from getting out of bed.**
+> **On every ward round, ask of each attachment: is this still needed today?** Removing an unnecessary catheter or converting IV to oral medication is a mobility intervention, not just a tidying exercise.
 
-> [!tip] Transient and reversible causes — DIAPPERS
-> **D**elirium · **I**nfection (symptomatic UTI) · **A**trophic vaginitis · **P**harmaceuticals · **P**sychological (depression) · **E**xcess urine output (diuretics, hyperglycaemia, hypercalcaemia, heart failure) · **R**estricted mobility · **S**tool impaction
-> **Constipation and faecal impaction cause urinary incontinence and retention** by direct pressure, and relieving it resolves the problem — which is why a rectal examination belongs in a continence assessment.
+> [!tip] What helps
+> **· Mobilise from day one**, with physiotherapy involvement early rather than at discharge planning.
+> **· Get the patient dressed in their own clothes and sitting out of bed for meals.**
+> **· Sensory aids in place** — glasses and hearing aids, without which orientation, engagement and safety all deteriorate.
+> **· Avoid unnecessary bed rest orders**, which are often written reflexively and never rescinded.
+> **· Delirium prevention**, which is inseparable from mobility. Cross-refer [[D2]] 0.2.
+> **· Early involvement of allied health and early discharge planning.**
 
-> [!danger] Do not reach for a catheter
-> **An indwelling catheter is not a treatment for incontinence.** It causes **catheter-associated urinary tract infection, delirium, loss of dignity, and it is a physical tether that prevents mobilisation and worsens deconditioning.**
-> **Indications are narrow** — acute retention, accurate output measurement in critical illness, specific perioperative and urological situations, and comfort at the very end of life or where a sacral pressure injury requires it.
-> **If a catheter is inserted, document the indication and a planned removal date.** Catheters that nobody planned to remove are a recurring source of avoidable harm.
+**Ix:** **Baseline functional status from collateral history** (*why:* you cannot detect decline without knowing the starting point, and "independent at home" needs unpacking; *what:* pre-admission mobility and ADL function). Physiotherapy and occupational therapy assessment (*why:* objective measurement and a rehabilitation plan; *what:* mobility, transfers, equipment needs). Daily review of attachments and mobility status (*why:* mobility deteriorates silently unless it is actively tracked; *what:* what the patient did today).
 
-> [!tip] Faecal incontinence
-> **Overflow from impaction is the commonest cause in frail and immobile patients — do a rectal examination** before diagnosing anything else. Cross-refer [[C5]] 0.2.
-> Other causes: **obstetric sphincter injury** (which may present decades later), neurological disease, rectal prolapse, diarrhoea, and reduced rectal sensation.
-> **Pelvic floor physiotherapy is effective and under-used.** Cross-refer [[C5]] 0.6.
+### 0.4.1 Mx – Immediate
+Mobilise. Remove unnecessary tethers.
 
-**Ix:** **Bladder scan for post-void residual** (*why:* distinguishes overflow from urge incontinence, which have opposite treatments, and takes seconds; *what:* retained volume). **Rectal examination** (*why:* identifies impaction, prostate enlargement and sphincter tone; *what:* loading, mass, tone). Urinalysis and culture, **interpreted cautiously** (*why:* excludes symptomatic infection, while recognising that **asymptomatic bacteriuria is very common and treating it does not improve continence**; *what:* infection in context). **Bladder diary over several days** (*why:* the single most informative investigation — it establishes the pattern, volumes, frequency, nocturia and the relationship to fluid intake, and it directs treatment; *what:* frequency-volume pattern). UEC, calcium and glucose (*why:* polyuria from hypercalcaemia, hyperglycaemia and renal disease; *what:* derangement). **Medication review** (*why:* diuretics, anticholinergics, opioids, sedatives and alpha-blockers all contribute and are modifiable; *what:* culprit agents). Pelvic and vaginal examination in women (*why:* prolapse and atrophic changes are common and treatable; *what:* prolapse, atrophy). Urodynamics and specialist referral where the picture is unclear or conservative management fails (*why:* characterises bladder function before invasive treatment; *what:* detrusor and sphincter function).
+### 0.4.2 Mx – Definitive
+Rehabilitation — inpatient, transition care, or community — matched to need.
 
-### 0.1.1 Mx – Immediate
-Relieve retention and impaction. Treat symptomatic infection.
-
-### 0.1.2 Mx – Definitive
-Type-specific — **pelvic floor training, bladder training, treatment of prostatic obstruction, or pharmacotherapy chosen with anticholinergic burden in mind.**
-
-### 0.1.3 Mx – Chronic/long-term
-**Continence nurse advisor and physiotherapy referral.** Continence aids and, in Australia, the funded continence aids scheme. Skin care to prevent moisture-associated damage. `UNVERIFIED — the current name, eligibility and application process for continence funding schemes.`
+### 0.4.3 Mx – Chronic/long-term
+Ongoing exercise, equipment, home supports, and **realistic goal-setting with the patient and family.**
 
 ---
 
@@ -720,6 +746,57 @@ Ongoing pressure redistribution, equipment provision for home or residential car
 
 ---
 
+## 0.1 Continence
+
+> [!warning] FLAG 2026-09-01 — continence is in six places across four files
+> `Renal and Urology_merged 07 §0.13 Incontinence` and `H2 §0.6 Incontinence` ·
+> `OBGYN_merged 17_08 ## Urinary incontinence` and `O5 §0.6 Prolapse and Urinary Incontinence` ·
+> `GI_merged §0.42 Faecal Incontinence (Adult)`.
+> **The most-duplicated single topic found in the vault.** Flagged, nothing merged.
+
+> [!danger] Ask directly — this is massively under-reported
+> **Most people with incontinence never mention it**, through embarrassment, through believing it is a normal part of ageing, or because nobody asked. It is a leading contributor to social withdrawal, falls (rushing to the toilet), skin breakdown, carer burden and residential placement.
+> **"Do you ever leak urine, or have trouble getting to the toilet in time?"** — asked directly and matter-of-factly — finds a problem that is frequently very treatable.
+
+> [!tip] The types, and why the type determines the treatment
+> **· Stress incontinence** — leakage with cough, laugh, sneeze or exertion. Pelvic floor weakness; in men, most often after prostatectomy. **First-line treatment is supervised pelvic floor muscle training, which is genuinely effective and consistently under-referred.**
+> **· Urge incontinence / overactive bladder** — sudden urgency with leakage, frequency and nocturia, from detrusor overactivity. **Bladder training and fluid and caffeine modification first**, then pharmacotherapy.
+> **· Mixed** — both, and common.
+> **· Overflow incontinence** — continuous dribbling from chronic retention. **Causes: benign prostatic enlargement, neurogenic bladder, constipation, and drugs (anticholinergics, opioids).** **Diagnosed with a bladder scan, which takes seconds** — and it is the type that is most often mislabelled as urge incontinence and made dramatically worse with an antimuscarinic.
+> **· Functional incontinence** — the bladder works, but the person cannot get to the toilet in time because of **mobility, cognition, environment, clothing, or simply nobody answering the call bell.** **This is extremely common in hospital and residential care, and it is not a bladder problem** — the intervention is a toileting schedule, a commode, better lighting, easier clothing and staff availability.
+
+> [!warning] Antimuscarinics for overactive bladder add to anticholinergic burden
+> **Oxybutynin in particular crosses the blood-brain barrier readily and causes cognitive impairment, delirium and falls in older people** — it is a poor choice in this population.
+> **Mirabegron, a beta-3 agonist, avoids the anticholinergic burden** and is often preferable, with blood pressure the main consideration.
+> **Weigh the benefit of slightly better continence against the cost of worsened cognition and increased falls** — that trade-off is frequently not made explicitly. Cross-refer [[GER1]] 0.4. `UNVERIFIED — agents, doses and PBS criteria.`
+
+> [!tip] Transient and reversible causes — DIAPPERS
+> **D**elirium · **I**nfection (symptomatic UTI) · **A**trophic vaginitis · **P**harmaceuticals · **P**sychological (depression) · **E**xcess urine output (diuretics, hyperglycaemia, hypercalcaemia, heart failure) · **R**estricted mobility · **S**tool impaction
+> **Constipation and faecal impaction cause urinary incontinence and retention** by direct pressure, and relieving it resolves the problem — which is why a rectal examination belongs in a continence assessment.
+
+> [!danger] Do not reach for a catheter
+> **An indwelling catheter is not a treatment for incontinence.** It causes **catheter-associated urinary tract infection, delirium, loss of dignity, and it is a physical tether that prevents mobilisation and worsens deconditioning.**
+> **Indications are narrow** — acute retention, accurate output measurement in critical illness, specific perioperative and urological situations, and comfort at the very end of life or where a sacral pressure injury requires it.
+> **If a catheter is inserted, document the indication and a planned removal date.** Catheters that nobody planned to remove are a recurring source of avoidable harm.
+
+> [!tip] Faecal incontinence
+> **Overflow from impaction is the commonest cause in frail and immobile patients — do a rectal examination** before diagnosing anything else. Cross-refer [[C5]] 0.2.
+> Other causes: **obstetric sphincter injury** (which may present decades later), neurological disease, rectal prolapse, diarrhoea, and reduced rectal sensation.
+> **Pelvic floor physiotherapy is effective and under-used.** Cross-refer [[C5]] 0.6.
+
+**Ix:** **Bladder scan for post-void residual** (*why:* distinguishes overflow from urge incontinence, which have opposite treatments, and takes seconds; *what:* retained volume). **Rectal examination** (*why:* identifies impaction, prostate enlargement and sphincter tone; *what:* loading, mass, tone). Urinalysis and culture, **interpreted cautiously** (*why:* excludes symptomatic infection, while recognising that **asymptomatic bacteriuria is very common and treating it does not improve continence**; *what:* infection in context). **Bladder diary over several days** (*why:* the single most informative investigation — it establishes the pattern, volumes, frequency, nocturia and the relationship to fluid intake, and it directs treatment; *what:* frequency-volume pattern). UEC, calcium and glucose (*why:* polyuria from hypercalcaemia, hyperglycaemia and renal disease; *what:* derangement). **Medication review** (*why:* diuretics, anticholinergics, opioids, sedatives and alpha-blockers all contribute and are modifiable; *what:* culprit agents). Pelvic and vaginal examination in women (*why:* prolapse and atrophic changes are common and treatable; *what:* prolapse, atrophy). Urodynamics and specialist referral where the picture is unclear or conservative management fails (*why:* characterises bladder function before invasive treatment; *what:* detrusor and sphincter function).
+
+### 0.1.1 Mx – Immediate
+Relieve retention and impaction. Treat symptomatic infection.
+
+### 0.1.2 Mx – Definitive
+Type-specific — **pelvic floor training, bladder training, treatment of prostatic obstruction, or pharmacotherapy chosen with anticholinergic burden in mind.**
+
+### 0.1.3 Mx – Chronic/long-term
+**Continence nurse advisor and physiotherapy referral.** Continence aids and, in Australia, the funded continence aids scheme. Skin care to prevent moisture-associated damage. `UNVERIFIED — the current name, eligibility and application process for continence funding schemes.`
+
+---
+
 ## 0.3 Malnutrition and Nutrition
 
 > [!danger] Malnutrition is common, consequential and under-diagnosed
@@ -770,109 +847,6 @@ Dietitian-led nutrition plan, treatment of contributing causes, and speech patho
 
 ### 0.3.3 Mx – Chronic/long-term
 Meals services, shopping and cooking support, social eating, and **carer education.** Ongoing weight monitoring.
-
----
-
-## 0.4 Immobility, Deconditioning and Hospital-Associated Decline
-
-> [!warning] FLAG 2026-09-01 — duplicate pair with MSK
-> `MSK_merged L6 §0.6 Immobility, Mobility Aids and Functional Assessment` covers the same ground.
-> Pair marked, not merged.
-
-> [!danger] Deconditioning in hospital is iatrogenic and it is fast
-> **Measurable muscle loss occurs within days of bed rest**, and it is disproportionately severe in older people who have little reserve. A patient admitted walking independently can be discharged unable to transfer, having received entirely correct treatment for the condition they came in with.
-> **A substantial proportion of older people never regain their pre-admission functional level.**
-
-> [!warning] The consequences of immobility
-> **Falls · pressure injury · venous thromboembolism · pneumonia and atelectasis · constipation · urinary retention and infection · delirium · insulin resistance · bone loss · and functional decline leading to residential placement.**
-
-> [!tip] The "tethers" — remove them
-> **Intravenous lines, urinary catheters, oxygen tubing, telemetry leads, drains, and infusion pumps all physically prevent a patient from getting out of bed.**
-> **On every ward round, ask of each attachment: is this still needed today?** Removing an unnecessary catheter or converting IV to oral medication is a mobility intervention, not just a tidying exercise.
-
-> [!tip] What helps
-> **· Mobilise from day one**, with physiotherapy involvement early rather than at discharge planning.
-> **· Get the patient dressed in their own clothes and sitting out of bed for meals.**
-> **· Sensory aids in place** — glasses and hearing aids, without which orientation, engagement and safety all deteriorate.
-> **· Avoid unnecessary bed rest orders**, which are often written reflexively and never rescinded.
-> **· Delirium prevention**, which is inseparable from mobility. Cross-refer [[D2]] 0.2.
-> **· Early involvement of allied health and early discharge planning.**
-
-**Ix:** **Baseline functional status from collateral history** (*why:* you cannot detect decline without knowing the starting point, and "independent at home" needs unpacking; *what:* pre-admission mobility and ADL function). Physiotherapy and occupational therapy assessment (*why:* objective measurement and a rehabilitation plan; *what:* mobility, transfers, equipment needs). Daily review of attachments and mobility status (*why:* mobility deteriorates silently unless it is actively tracked; *what:* what the patient did today).
-
-### 0.4.1 Mx – Immediate
-Mobilise. Remove unnecessary tethers.
-
-### 0.4.2 Mx – Definitive
-Rehabilitation — inpatient, transition care, or community — matched to need.
-
-### 0.4.3 Mx – Chronic/long-term
-Ongoing exercise, equipment, home supports, and **realistic goal-setting with the patient and family.**
-
----
-
-## 0.5 End-of-Life Care and Recognising Dying
-
-> [!warning] FLAG 2026-09-01 — end-of-life care is split with Heme Onc and has no owner
-> `Heme Onc_merged 10_11c_Oncology_-_Palliative_Care_Prescribing` and `J5 §0.4 Palliative Care
-> Principles`, `§0.5 Symptom Control`, `§0.6 The Last Days of Life`.
-> **31 inbound references between them, none from haematology.**
-> **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty; nothing has
-> been moved into it.**
-
-> [!tip] The four trajectories, and why they matter
-> **1. Sudden death** — no trajectory.
-> **2. Cancer** — a relatively preserved function for a long period, then a **short, predictable decline** over weeks to months. The easiest trajectory to recognise and plan for.
-> **3. Organ failure** (heart failure, COPD, liver, renal) — a **gradual decline punctuated by acute exacerbations**, each of which may be survived or may be the last. **This unpredictability is why these patients are systematically under-referred to palliative care** — there is never an obvious moment.
-> **4. Frailty and dementia** — a **prolonged, gradual decline** from a low baseline, with death often precipitated by a minor event such as an infection or a fall.
-> **Recognising which trajectory a patient is on shapes when to have the conversation.**
-
-> [!tip] The surprise question
-> **"Would I be surprised if this patient died in the next twelve months?"**
-> If the answer is no, that is the trigger for **advance care planning, palliative care involvement, and a review of the burden of ongoing treatments and screening** — not for withdrawal of care. It is a simple, validated prompt and it works because it bypasses prognostic precision, which clinicians are poor at.
-
-> [!warning] Recognising the last days of life
-> **Progressive weakness and being bed-bound · reduced conscious level and increasing sleep · reduced oral intake, then no interest in food or fluid · difficulty swallowing medications · Cheyne-Stokes or irregular breathing · noisy respiratory secretions · peripheral mottling and cooling · reduced urine output.**
-> **Recognising this and saying so changes everything** — it stops futile investigations and observations, allows anticipatory prescribing, permits family to be present, and enables the patient to die somewhere they would choose.
-> **Failing to recognise dying is the commonest reason people die badly**, with a cannula in, a blood test pending, and family not called.
-
-> [!info] Symptom management in the last days
-> **· Pain** — opioids, converted to a subcutaneous route when swallowing fails.
-> **· Breathlessness** — **opioids are the primary treatment**, with a benzodiazepine for associated anxiety. Oxygen only helps if the patient is hypoxaemic and finds it comfortable; **a fan directed at the face is genuinely effective and is under-used.**
-> **· Noisy respiratory secretions ("death rattle")** — caused by pooled secretions the patient can no longer clear. **It distresses the family far more than the patient, who is usually unconscious.** **Repositioning, reducing or stopping artificial hydration, and explanation to the family are the primary measures**; antimuscarinics reduce further secretion but do not clear what is already there, so they work best given early.
-> **· Nausea** — mechanism-matched antiemetic. Cross-refer [[C2]] 0.5.
-> **· Terminal agitation and restlessness** — **first exclude the reversible: urinary retention (bladder scan), constipation and faecal loading, pain, opioid toxicity, and hypoxia.** Only then sedate. Reaching for midazolam without checking the bladder is a common error.
-> **· Mouth care** — frequent, and one of the most valued interventions by families, who can be shown how to do it and given a role.
-> `UNVERIFIED — all agents, doses, routes and conversion ratios are omitted. Obtain from eTG Palliative Care and your health network's end-of-life medication guidelines.`
-
-> [!tip] Anticipatory prescribing
-> **Charting subcutaneous "as required" medications in advance — for pain, breathlessness, nausea, secretions and agitation — before they are needed.**
-> This is standard Australian practice and it matters because symptoms escalate out of hours, and a patient should not wait for a doctor to be found and a chart to be written. **A syringe driver is used where regular doses are required.**
-> **Simultaneously, stop the non-essential medications** — statins, antihypertensives, bisphosphonates, oral hypoglycaemics, vitamins. Deprescribing at the end of life reduces burden and is often a relief to patients and families once explained.
-
-> [!warning] Hydration and nutrition at the end of life
-> **Artificial hydration in the dying does not clearly improve symptoms or survival, and may worsen respiratory secretions, oedema and ascites.**
-> **But this is an emotive area**, and blanket positions in either direction are unhelpful. **The decision should be individualised, discussed, and reviewed** — and where fluids are given, it should be for a stated purpose with a plan to reassess.
-> **What always continues is mouth care**, which addresses the thirst and dryness that families are most worried about, and which they can help with.
-
-> [!danger] Language matters, and "there's nothing more we can do" is both false and harmful
-> There is a great deal that can be done — it is the goal that has changed, not the effort.
-> **Better framings: "We're going to change what we're focusing on"; "our aim now is to make sure she's comfortable"; "what matters most to you in the time you have?"**
-> Ask **what the patient understands** before telling them anything, ask **what they want to know**, warn before delivering bad news, allow silence, and check understanding afterwards. Cross-refer [[COM1]].
-> **Palliative care is not only for the last days.** Early involvement in advanced illness improves symptom control and quality of life, and in some settings survival — and referring early is not "giving up".
-
-**Ix:** **Investigation should stop when it will not change management** — this is itself a clinical decision requiring explicit thought and documentation, not drift. Continue only what informs comfort. **Bladder scan and rectal examination in terminal agitation** (*why:* retention and faecal loading are common, reversible and distressing, and are missed if the agitation is assumed to be terminal; *what:* retention, loading).
-
-### 0.5.1 Mx – Immediate
-Recognise dying and say so. Anticipatory prescribing. Stop non-essential interventions, observations and medications. Contact the family.
-
-### 0.5.2 Mx – Definitive
-Comfort-focused care in the preferred place where achievable — **the majority of people express a preference to die at home or in their usual residence, and the majority die in hospital.** Community palliative care, equipment and after-hours support can make the difference.
-
-### 0.5.3 Mx – Chronic/long-term
-**Death certification, and identification of deaths that must be reported to the coroner** — cross-refer [[A10]] 0.4. `UNVERIFIED — reportable death criteria under the Coroners Act 2003 (SA).`
-**Bereavement support for the family**, and **debrief for the team.** Cultural and spiritual practices around death should be asked about rather than assumed, and this matters particularly in Aboriginal and Torres Strait Islander families and in culturally diverse communities — cross-refer [[AU1]].
-**Voluntary assisted dying is lawful in South Australia** under specific criteria and process — cross-refer [[A10]] 0.3.
 
 ---
 
@@ -946,6 +920,71 @@ Support completion of an advance care directive and appointment of a substitute 
 > partner `18_ ## Abuse of Older People (Elder Abuse) and Carer Stress` remains in this file, and
 > the pair is flagged rather than merged.
 
+## 0.5 End-of-Life Care and Recognising Dying
+
+> [!warning] FLAG 2026-09-01 — end-of-life care is split with Heme Onc and has no owner
+> `Heme Onc_merged 10_11c_Oncology_-_Palliative_Care_Prescribing` and `J5 §0.4 Palliative Care
+> Principles`, `§0.5 Symptom Control`, `§0.6 The Last Days of Life`.
+> **31 inbound references between them, none from haematology.**
+> **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty; nothing has
+> been moved into it.**
+
+> [!tip] The four trajectories, and why they matter
+> **1. Sudden death** — no trajectory.
+> **2. Cancer** — a relatively preserved function for a long period, then a **short, predictable decline** over weeks to months. The easiest trajectory to recognise and plan for.
+> **3. Organ failure** (heart failure, COPD, liver, renal) — a **gradual decline punctuated by acute exacerbations**, each of which may be survived or may be the last. **This unpredictability is why these patients are systematically under-referred to palliative care** — there is never an obvious moment.
+> **4. Frailty and dementia** — a **prolonged, gradual decline** from a low baseline, with death often precipitated by a minor event such as an infection or a fall.
+> **Recognising which trajectory a patient is on shapes when to have the conversation.**
+
+> [!tip] The surprise question
+> **"Would I be surprised if this patient died in the next twelve months?"**
+> If the answer is no, that is the trigger for **advance care planning, palliative care involvement, and a review of the burden of ongoing treatments and screening** — not for withdrawal of care. It is a simple, validated prompt and it works because it bypasses prognostic precision, which clinicians are poor at.
+
+> [!warning] Recognising the last days of life
+> **Progressive weakness and being bed-bound · reduced conscious level and increasing sleep · reduced oral intake, then no interest in food or fluid · difficulty swallowing medications · Cheyne-Stokes or irregular breathing · noisy respiratory secretions · peripheral mottling and cooling · reduced urine output.**
+> **Recognising this and saying so changes everything** — it stops futile investigations and observations, allows anticipatory prescribing, permits family to be present, and enables the patient to die somewhere they would choose.
+> **Failing to recognise dying is the commonest reason people die badly**, with a cannula in, a blood test pending, and family not called.
+
+> [!info] Symptom management in the last days
+> **· Pain** — opioids, converted to a subcutaneous route when swallowing fails.
+> **· Breathlessness** — **opioids are the primary treatment**, with a benzodiazepine for associated anxiety. Oxygen only helps if the patient is hypoxaemic and finds it comfortable; **a fan directed at the face is genuinely effective and is under-used.**
+> **· Noisy respiratory secretions ("death rattle")** — caused by pooled secretions the patient can no longer clear. **It distresses the family far more than the patient, who is usually unconscious.** **Repositioning, reducing or stopping artificial hydration, and explanation to the family are the primary measures**; antimuscarinics reduce further secretion but do not clear what is already there, so they work best given early.
+> **· Nausea** — mechanism-matched antiemetic. Cross-refer [[C2]] 0.5.
+> **· Terminal agitation and restlessness** — **first exclude the reversible: urinary retention (bladder scan), constipation and faecal loading, pain, opioid toxicity, and hypoxia.** Only then sedate. Reaching for midazolam without checking the bladder is a common error.
+> **· Mouth care** — frequent, and one of the most valued interventions by families, who can be shown how to do it and given a role.
+> `UNVERIFIED — all agents, doses, routes and conversion ratios are omitted. Obtain from eTG Palliative Care and your health network's end-of-life medication guidelines.`
+
+> [!tip] Anticipatory prescribing
+> **Charting subcutaneous "as required" medications in advance — for pain, breathlessness, nausea, secretions and agitation — before they are needed.**
+> This is standard Australian practice and it matters because symptoms escalate out of hours, and a patient should not wait for a doctor to be found and a chart to be written. **A syringe driver is used where regular doses are required.**
+> **Simultaneously, stop the non-essential medications** — statins, antihypertensives, bisphosphonates, oral hypoglycaemics, vitamins. Deprescribing at the end of life reduces burden and is often a relief to patients and families once explained.
+
+> [!warning] Hydration and nutrition at the end of life
+> **Artificial hydration in the dying does not clearly improve symptoms or survival, and may worsen respiratory secretions, oedema and ascites.**
+> **But this is an emotive area**, and blanket positions in either direction are unhelpful. **The decision should be individualised, discussed, and reviewed** — and where fluids are given, it should be for a stated purpose with a plan to reassess.
+> **What always continues is mouth care**, which addresses the thirst and dryness that families are most worried about, and which they can help with.
+
+> [!danger] Language matters, and "there's nothing more we can do" is both false and harmful
+> There is a great deal that can be done — it is the goal that has changed, not the effort.
+> **Better framings: "We're going to change what we're focusing on"; "our aim now is to make sure she's comfortable"; "what matters most to you in the time you have?"**
+> Ask **what the patient understands** before telling them anything, ask **what they want to know**, warn before delivering bad news, allow silence, and check understanding afterwards. Cross-refer [[COM1]].
+> **Palliative care is not only for the last days.** Early involvement in advanced illness improves symptom control and quality of life, and in some settings survival — and referring early is not "giving up".
+
+**Ix:** **Investigation should stop when it will not change management** — this is itself a clinical decision requiring explicit thought and documentation, not drift. Continue only what informs comfort. **Bladder scan and rectal examination in terminal agitation** (*why:* retention and faecal loading are common, reversible and distressing, and are missed if the agitation is assumed to be terminal; *what:* retention, loading).
+
+### 0.5.1 Mx – Immediate
+Recognise dying and say so. Anticipatory prescribing. Stop non-essential interventions, observations and medications. Contact the family.
+
+### 0.5.2 Mx – Definitive
+Comfort-focused care in the preferred place where achievable — **the majority of people express a preference to die at home or in their usual residence, and the majority die in hospital.** Community palliative care, equipment and after-hours support can make the difference.
+
+### 0.5.3 Mx – Chronic/long-term
+**Death certification, and identification of deaths that must be reported to the coroner** — cross-refer [[A10]] 0.4. `UNVERIFIED — reportable death criteria under the Coroners Act 2003 (SA).`
+**Bereavement support for the family**, and **debrief for the team.** Cultural and spiritual practices around death should be asked about rather than assumed, and this matters particularly in Aboriginal and Torres Strait Islander families and in culturally diverse communities — cross-refer [[AU1]].
+**Voluntary assisted dying is lawful in South Australia** under specific criteria and process — cross-refer [[A10]] 0.3.
+
+---
+
 <!-- ===== SOURCE: NEW_Geriatrics.md ===== -->
 
 
@@ -971,42 +1010,3 @@ Support completion of an advance care directive and appointment of a substitute 
 # 2 Block-5 moves merged in (2026-09-01)
 
 > [!info] **Block 5.**
-
-<!-- ===== SOURCE: 04_Neurology.md ===== -->
-*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## Delirium vs Dementia vs Depression — the "3 Ds" in Older People
-
-> [!note] Gap-filled from CSV ("Delirium vs dementia vs depression (differentiating in the elderly)," High yield, Older Persons Health / Geriatrics category). Each of the three conditions was already built — Delirium immediately above, Dementias earlier in this file, and [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Depression (Major depressive disorder) — but the *differential between them* existed only as a one-line tip about serial 7s. Built here rather than in the new Geriatrics file because both structural anchors (Dementias, Delirium) already live in this file, and separating the comparison from the things being compared would make it harder to find, not easier. Verified against the RACGP aged care clinical guide (Silver Book, 5th edition), which carries the same comparison, Aug 2026.
-
-This is the single most commonly tested geriatric discriminator, and the single most common source of avoidable harm in an older inpatient — because the default assumption when an older person is confused is usually "dementia", and the answer is usually delirium.
-
-| | **Delirium** | **Dementia** | **Depression** |
-|---|---|---|---|
-| **Onset** | Acute — hours to days, and usually datable | Insidious — months to years, no clear start | Subacute — weeks to months |
-| **Course** | **Fluctuating**, characteristically worse in the evening and at night | Progressive; stable within any given day | Relatively stable day to day, often with diurnal variation (worse in the morning) |
-| **Attention** | **Markedly impaired — this is the cardinal feature** | Preserved until late disease | May be reduced by poor concentration, but the patient can be engaged and redirected |
-| **Level of consciousness** | Altered — drowsy, or hypervigilant | Clear until very late | Clear |
-| **Psychomotor activity** | Hyperactive, **hypoactive**, or mixed | Usually normal early | Retardation, or sometimes agitation |
-| **Perception** | Hallucinations common, characteristically **visual**; fleeting delusions | Possible, especially in Lewy body dementia (see Lewy Body Dementia above) | Uncommon unless psychotic depression |
-| **Sleep–wake cycle** | Disrupted, often reversed | Fragmented | Early morning waking |
-| **The patient's own account** | Cannot sustain attention well enough to give one | Often **minimises or confabulates**; typically unaware of the deficit | **Complains prominently** of poor memory; answers "I don't know" rather than guessing |
-| **Reversibility** | Usually reversible once the precipitant is treated | Not reversible | Treatable |
-
-> [!danger] Three traps, in order of how often they cause harm
-> 1. **Hypoactive delirium mistaken for depression, or dismissed as "just their dementia."** The quiet, withdrawn, drowsy patient is the one who gets missed — and hypoactive delirium carries a *worse* prognosis than the hyperactive form that attracts attention. Being difficult to rouse is not being depressed.
-> 2. **Delirium superimposed on dementia — the commonest scenario of all, not an edge case.** Dementia is the single largest risk factor for delirium. So the two are not alternatives to choose between: **any acute change in cognition or behaviour in a person with known dementia is delirium until proven otherwise**, and needs the precipitant hunt in the Delirium entry above, not a shrug and a note saying "known dementia".
-> 3. **Assuming the three are mutually exclusive.** They coexist frequently — depression is common in early dementia, and both predispose to delirium.
-
-> [!info] **Two of the table's rows are usually memorised when they are actually derivable, and both come from the same mechanism.** Delirium is a global disturbance of the brain's arousal and attentional networks rather than a failure of memory *storage* — which is why **attention is the first and most severely affected domain**, and why memory appears impaired mainly because nothing was attended to well enough to be encoded in the first place. The same network dependence explains the **fluctuation and the evening worsening**: attention is the most effort-dependent cognitive function, so it degrades first as the day's reserve is spent, and it degrades further once the external cues that support orientation — daylight, routine, staff presence, visitors — are withdrawn at night. Sundowning is therefore not a separate phenomenon to remember; it is the same attentional vulnerability under worse conditions.
-
-**The practical bedside discriminators:**
-- **Test attention, not memory.** Attention is what delirium impairs first and most, for the reason above; memory testing is slower and less specific. Serial 7s, months of the year backwards, or digit span will separate delirium from dementia far more efficiently than a full cognitive battery — and the serial-7s point already noted in the Delirium entry above is really this principle in miniature.
-- **Get a collateral history with a timeline.** "How was she two weeks ago?" does more diagnostic work than any bedside test. An acute change over days is delirium; a slow decline over years is dementia; a change over weeks with low mood and anhedonia is depression.
-- **Screening tools are for screening.** The tools in [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS) measure impairment, not its cause — a low MMSE is equally consistent with all three, and in delirium the fluctuating course means a single score can mislead in either direction.
-
-> [!info] **Depressive pseudodementia** — depression in an older person presenting as cognitive impairment, and a genuine diagnostic trap because the cognitive deficits are real, not feigned. Suggestive features: the patient complains of memory loss more than their family does (the reverse of dementia), the onset is relatively abrupt and datable, effort on testing is poor with "I don't know" answers rather than confabulated wrong ones, and low mood and anhedonia are prominent. **The cognitive impairment improves with treatment of the depression** — which is precisely why it must not be labelled dementia and left. The honest caveat: late-life depression can also be an early manifestation of an emerging dementia rather than a purely reversible mimic, so treat the depression and then **reassess cognition once mood has responded**, rather than treating a single improved score as having settled the question permanently.
-
-**Why this matters beyond the diagnosis:** delirium is a marker of acute illness and demands a search for the precipitant (see Delirium above); it also predicts falls, longer admission, functional decline and institutionalisation (see [[18_Geriatrics_and_Older_Persons_Health]] Falls in Older People). Getting the label wrong sends the patient down the wrong pathway entirely — a missed delirium means a missed sepsis, a missed drug effect, or a missed urinary retention.
-
----
