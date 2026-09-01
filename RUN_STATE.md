@@ -107,9 +107,9 @@ generated one of each per presentation.
 - [x] **Off-by-one pointers FIXED** — commit `48a870f`, standalone, 21 instances. User ruled
       options 2+3. Dangling 9→1, number/name disagreements 7→0.
 - [x] **Resp_merged.md** — done, `_meta/flags/Resp_merged.md`
-- [ ] Renal and Urology_merged.md  <-- RESUME HERE
+- [x] **Renal and Urology_merged.md** — done
+- [ ] Endocrine and metabolics_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] Endocrine and metabolics_merged.md
 - [ ] Neuro_merged.md
 - [ ] Heme Onc_merged.md
 - [ ] Infectious Disease_merged.md
