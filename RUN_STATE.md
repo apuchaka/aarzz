@@ -35,6 +35,34 @@ Both found by running the new tool on GI, where the answers were already establi
   answers were known.** Fixed by matching callout titles and named signs. **The tool remains a
   candidate generator only; sections it does NOT flag are still read by eye.**
 
+## OFF-BY-ONE POINTERS — the method-level finding from Cardio (2026-09-01)
+**A cross-reference can point at a section number that EXISTS but is the WRONG SECTION.**
+This is not the broken-link problem the user already named (a `[[file]]` link resolving to the
+wrong file after a move). It is one level down and it is silent.
+
+`01_Cardiovascular` was renumbered — the fingerprint is its heading
+`## 0.23 0.22a Rheumatic Heart Disease (RHD)`, which still carries **both** numbers. Every section
+below it shifted by one. Pointers written before that insertion were never updated.
+
+Measured, not reasoned:
+- **2,559** numeric section pointers in the vault.
+- **9** point at a number that does not exist. Loud, and `dangling.py` catches them.
+- **`misaimed.py` then caught 7 more that `dangling.py` reported as CLEAN**, because their numbers
+  do exist. Each names its topic as well as its number, and the two disagree:
+  `Infectious Disease:1397` says *"`0.30` Infective Endocarditis"* — 0.30 is Pulmonary Embolism.
+  All 7 are off by exactly one, all in the same direction, all targeting `01_Cardiovascular`.
+- **Of the 20 pointers that carry both a number and a name, 7 are wrong — 35%.**
+
+**THE PART THAT CHANGES THE METHOD:** only **21 of 2,416** wikilink section pointers — **0.9%** —
+carry a topic name at all. The other **99.1% are a bare number and cannot be validated by any
+means available.** `GER1` has 85 numeric pointers and **not one** names its topic; `A10` 78 and none;
+`A9` 69 and none.
+
+Consequence for this task: **POINTED AT BY is the load-bearing evidence for every move**, and its
+section-level resolution is only as good as numbering that has already proved unstable in at least
+one file. File-level inbound counts remain sound. Section-level counts are provisional wherever the
+target file has been renumbered, and **there is no way to tell from the pointer itself.**
+
 ## Residual limitation, not fixable mechanically
 Anaphoric references carry no filename and no tool can index them.
 `Renal and Urology_merged.md:2000` reads *"see 0.22–0.23 of the same file"*. Hand-caught.
@@ -49,7 +77,9 @@ generated one of each per presentation.
 
 ## PROGRESS
 - [x] **GI_merged.md** — done, decisions received, `_meta/flags/GI_merged.md`
-- [ ] Cardio_merged.md            <-- RESUME HERE
+- [x] **Cardio_merged.md** — done, `_meta/flags/Cardio_merged.md`. **PRODUCED A METHOD-LEVEL
+      FINDING — run PAUSED here to report it (user standing instruction).**
+- [ ] Resp_merged.md              <-- RESUME HERE once the user rules on the finding below
 - [ ] Resp_merged.md
 - [ ] Renal and Urology_merged.md
 - [ ] Endocrine and metabolics_merged.md
@@ -75,4 +105,13 @@ generated one of each per presentation.
 - ENT → GI: Barrett's + oesophageal carcinoma (M-R1). ENT_merged L662 stale pointer `03.08`.
 - GI → Emergency: paracetamol (M-8) and ascending cholangitis (M-9) as **deliberate duplicates**.
 - Carcinoid split GI §0.15 / Derm L2084–2100 / Endocrine (M-13).
+- Cardio → OBGYN or GER7: CTG/NST self-declared misfile (C-1).
+- Cardio → Investigation-Interpretation: **ECG interpretation, absent from the whole Clinical
+  Process set** (C-2, C-3). Needs a user ruling on whether the standing rule extends to
+  investigation interpretation.
+- Cardio B6 §0.4–0.8 are general presentations filed as cardiology; §0.8 Undifferentiated Lump has
+  **19 inbound, none cardiac** (C-10 – C-14).
+- Troponin has four section-level homes; ALS has two (Cardio §0.5, Emergency §0.3).
+- **10 broken pointers into `01_Cardiovascular` must be fixed regardless of any move** — listed in
+  `_meta/flags/Cardio_merged.md`.
 - Alcohol withdrawal split GI §0.6.1 / Neuro §0.1 L4077 + L804 / Psychiatry L917 + L1268 (M-5).
