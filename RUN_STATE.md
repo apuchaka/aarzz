@@ -120,9 +120,9 @@ generated one of each per presentation.
 - [x] **Heme Onc_merged.md** — done
 - [x] **Infectious Disease_merged.md** — done
 - [x] **MSK_merged.md** — done
-- [ ] Derm_merged.md  <-- RESUME HERE
+- [x] **Derm_merged.md** — done
+- [ ] OBGYN_merged.md  <-- RESUME HERE
 - [ ] Resp_merged.md
-- [ ] OBGYN_merged.md
 - [ ] Pediatrics_merged.md
 - [ ] Psychiatry_merged.md
 - [ ] Geriatrics_merged.md
