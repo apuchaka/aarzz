@@ -299,7 +299,19 @@ option was taken and is reversible.
 | `GP_merged.md` | done — `38944ca` |
 | `Anaes_merged.md` | done — `47219c7` |
 | `Geriatrics_merged.md` | done — `98873c9` |
-| *(next: Opthalm, Derm, ENT, Endocrine, Neuro, Renal, Psychiatry, Cardio, Emergency, GI, Infectious Disease, Heme Onc, Pediatrics, MSK, OBGYN)* | |
+| `Opthalm_merged.md` | done — `c2643b8` |
+| `Renal and Urology_merged.md` | done — `d32aa40` |
+| `ENT_merged.md` | done — `cde0cdb` |
+| `Derm_merged.md` | done — `0e253ee` |
+| `Neuro_merged.md` | done — `be39fe3` |
+| *(next: Endocrine, Psychiatry, Cardio, Emergency, GI, Infectious Disease, Heme Onc, Pediatrics, MSK, OBGYN)* | |
+
+**Positional breaks caught and reversed during the run so far:** Anaes 0.8/0.4 PONV ·
+Resp 0.20/0.7 IPF · Geriatrics Discharge/Abuse · Opthalm Endophthalmitis/Keratitis ·
+Opthalm Strabismus/Cataracts · Renal Testicular Cancer/Lumps · Derm NEW_Dermatology/SJS ·
+Derm Cyst/Alopecia. **Eight in nine files.** Every one was a section whose own prose said
+"above" or "below" about a section I had just moved past it, and every one was found by
+`positional.py` or its `--audit` mode rather than by reading.
 
 ### Standing finding, not caused by either pass
 
