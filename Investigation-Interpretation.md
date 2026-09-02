@@ -7,11 +7,11 @@ source: built from Grind Time CSV test-led rows, routed here per project workflo
 
 This file answers "here's a result — what does it mean," organised by investigation rather than by diagnosis. It complements the disease files, which answer "what would Ix X show in condition Y" under each condition's own Ix entry. Cross-references point to the relevant disease file(s) for each differential rather than duplicating disease-level detail here.
 
-> [!note] **READ `GER7 §0.1 Interpreting Any Investigation` FIRST — it is at the end of this file, in Part 3.**
-> Part 1 below is organised test by test and never states the general method that applies to all of them:
+> [!note] **`GER7 §0.1 Interpreting Any Investigation` now OPENS this file, immediately below.**
+> Part 1 is organised test by test and never states the general method that applies to all of them:
 > what a reference range means, why a panel of twenty tests on a well person is near-certain to produce an
-> abnormal result, and what to do with one. It sits in Part 3 because it arrived there in a merge and is kept
-> verbatim under its own `SOURCE:` divider; it is not last because it is least important.
+> abnormal result, and what to do with one. It arrived in Part 3 in the C3 merge on 2026-09-01 and was moved
+> to the front on 2026-09-02, verbatim, with its own `SOURCE:` divider — everything it frames is below it.
 
 > [!info] Content status update — this file's individual entries have since received substantial targeted content verification and expansion (Full Blood Count and Blood Film, Autoimmune Markers, Coagulation Screen, Blood Cultures, and others below), so this blanket "not yet verified" note is now stale for those entries specifically. The general **systematic-approach structure** for each investigation type remains correctly described as not jurisdiction-specific — how to systematically read a CXR or interpret an FBC doesn't meaningfully differ between Australian and international teaching, unlike disease-specific guideline content which does and has been separately verified throughout the disease files. Where a finding is fundamentally visual, the written description remains a study aid for the systematic approach, not a substitute for practising with actual images.
 >
@@ -30,6 +30,32 @@ This file answers "here's a result — what does it mean," organised by investig
 > entries, which travelled with them.
 
 ---
+
+<!-- ===== SOURCE: GER7_Investigation_and_Lab_Addendum.md ===== -->
+*Moved here from `GER7_Investigation_and_Lab_Addendum.md` on 2026-09-01; moved to the FRONT of Part 1 on 2026-09-02 because everything it frames appears below it. Verbatim and unrenumbered.*
+
+## 0.1 Interpreting Any Investigation
+
+> [!danger] A reference range means 95% of a healthy population — so abnormal results are guaranteed
+> **Most reference ranges are set to encompass the central 95% of a healthy reference population.**
+> **THEREFORE ROUGHLY 1 IN 20 HEALTHY PEOPLE HAS AN "ABNORMAL" RESULT FOR ANY GIVEN TEST, BY DEFINITION.**
+> **Order a panel of twenty tests on a well person and the probability of at least one abnormal result approaches certainty.**
+> **THIS IS THE MATHEMATICAL CASE AGAINST SHOTGUN TESTING** — each unnecessary test adds a near-independent chance of a false alarm, and each false alarm generates repeat testing, imaging, referral, anxiety and occasionally an invasive procedure.
+> **THE QUESTION BEFORE ORDERING: what is the pre-test probability, and what will I DO differently with a high result, a low result and a normal one?** **If the answer is "nothing", do not order it.** Cross-refer [[EBM1]] 0.1 and [[PH1]] 0.3.
+
+> [!warning] Four things that make a number uninterpretable in isolation
+> **1. THE RANGE DEPENDS ON THE POPULATION AND THE ASSAY.** **Ranges differ by AGE, SEX, PREGNANCY, and sometimes ancestry — and CRITICALLY BETWEEN LABORATORIES AND ASSAYS.** **A troponin, a TSH or a free light chain result from one laboratory is not directly comparable with one from another.** **When comparing serial results, check they came from the same assay.**
+> **2. THE TREND BEATS THE SINGLE VALUE.** A creatinine of 110 means nothing without the baseline; a stable troponin means something different from a rising one.
+> **3. PHYSIOLOGICAL STATE ALTERS THE NUMBER** — pregnancy lowers creatinine and urea and raises D-dimer; acute illness suppresses TSH and raises ferritin; posture and tourniquet time alter calcium and potassium.
+> **4. AN ABNORMAL RESULT IN THE ABSENCE OF A CLINICAL QUESTION IS USUALLY NOISE.**
+> **AND: SOMEONE MUST OWN THE RESULT.** **A test ordered and never looked at is worse than no test — the abnormality exists in the record, nobody acted, and the medicolegal and clinical consequences fall on the system that generated it.** **Pending results at discharge need a NAMED person responsible.** Cross-refer [[EBM1]] 0.5.
+
+---
+
+---
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+
 
 ## 1.1 Chest X-Ray — Systematic Approach
 
@@ -414,8 +440,9 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 # 3 General method and remaining laboratory entries merged in from `GER7` (2026-09-01)
 
 > [!info] **C3 executed.** `GER7`'s four general sections, plus its troponin entry.
-> **`§0.1 Interpreting Any Investigation` is a general method Part 1 lacks entirely** — Part 1 is
-> organised test-by-test and never states the approach that applies to all of them.
+> **`§0.1 Interpreting Any Investigation` was the general method Part 1 lacked entirely** — Part 1 is
+> organised test-by-test and never states the approach that applies to all of them. **It was moved to the
+> front of Part 1 on 2026-09-02 and no longer sits in this block.**
 >
 > **Troponin: your call, and here is the reasoning.** There are **three** homes, not four —
 > `GER7 §0.4`, `Cardio §0.5 Troponin and Cardiac Biomarkers`, and Part 1 `§1.12 Cardiac Markers`.
@@ -429,23 +456,6 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 <!-- ===== SOURCE: GER7_Investigation_and_Lab_Addendum.md ===== -->
 *Moved here from `GER7_Investigation_and_Lab_Addendum.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-## 0.1 Interpreting Any Investigation
-
-> [!danger] A reference range means 95% of a healthy population — so abnormal results are guaranteed
-> **Most reference ranges are set to encompass the central 95% of a healthy reference population.**
-> **THEREFORE ROUGHLY 1 IN 20 HEALTHY PEOPLE HAS AN "ABNORMAL" RESULT FOR ANY GIVEN TEST, BY DEFINITION.**
-> **Order a panel of twenty tests on a well person and the probability of at least one abnormal result approaches certainty.**
-> **THIS IS THE MATHEMATICAL CASE AGAINST SHOTGUN TESTING** — each unnecessary test adds a near-independent chance of a false alarm, and each false alarm generates repeat testing, imaging, referral, anxiety and occasionally an invasive procedure.
-> **THE QUESTION BEFORE ORDERING: what is the pre-test probability, and what will I DO differently with a high result, a low result and a normal one?** **If the answer is "nothing", do not order it.** Cross-refer [[EBM1]] 0.1 and [[PH1]] 0.3.
-
-> [!warning] Four things that make a number uninterpretable in isolation
-> **1. THE RANGE DEPENDS ON THE POPULATION AND THE ASSAY.** **Ranges differ by AGE, SEX, PREGNANCY, and sometimes ancestry — and CRITICALLY BETWEEN LABORATORIES AND ASSAYS.** **A troponin, a TSH or a free light chain result from one laboratory is not directly comparable with one from another.** **When comparing serial results, check they came from the same assay.**
-> **2. THE TREND BEATS THE SINGLE VALUE.** A creatinine of 110 means nothing without the baseline; a stable troponin means something different from a rising one.
-> **3. PHYSIOLOGICAL STATE ALTERS THE NUMBER** — pregnancy lowers creatinine and urea and raises D-dimer; acute illness suppresses TSH and raises ferritin; posture and tourniquet time alter calcium and potassium.
-> **4. AN ABNORMAL RESULT IN THE ABSENCE OF A CLINICAL QUESTION IS USUALLY NOISE.**
-> **AND: SOMEONE MUST OWN THE RESULT.** **A test ordered and never looked at is worse than no test — the abnormality exists in the record, nobody acted, and the medicolegal and clinical consequences fall on the system that generated it.** **Pending results at discharge need a NAMED person responsible.** Cross-refer [[EBM1]] 0.5.
-
----
 
 ## 0.2 Haematinics and Red Cell Folate
 
