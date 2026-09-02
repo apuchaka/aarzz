@@ -3937,25 +3937,6 @@ Conservative management first — **supervised pelvic floor physiotherapy, pessa
 <!-- ===== SOURCE: 17_05_PID__Endometriosis__Fibroids.md ===== -->
 
 
-## Male subfertility
-
-**Causes**
-
-| Category | Examples |
-|---|---|
-| Semen abnormality | Idiopathic oligo-astheno-teratozoospermia, testicular cancer, alcohol/smoking/other drugs, varicocele |
-| Azoospermia — pretesticular | Anabolic steroid use, Kallmann syndrome |
-| Azoospermia — non-obstructive | Cryptorchidism, orchitis, Klinefelter syndrome, chemotherapy |
-| Azoospermia — obstructive | Congenital bilateral absence of vas deferens, vasectomy, chlamydia, gonorrhoea |
-| Immunological | Anti-sperm antibodies |
-| Coital dysfunction | Erectile dysfunction with normal sperm function (some drugs cause ED — e.g. beta-blockers, antidepressants), hypospadias, phimosis, retrograde ejaculation, failure of ejaculation 2° other causes (e.g. multiple sclerosis, spinal cord injury) |
-
-**Ix**: detailed history + examination; testicular US; hormones (LH, FSH, testosterone); genetic tests (karyotyping).
-
-**Mx**: lifestyle modification; consider changing medications; multivitamin containing zinc, selenium, and vitamin C, then repeat semen analysis in 3 months; intracytoplasmic sperm injection if refractory to conservative Mx.
-
----
-
 ## Pelvic inflammatory disease (PID)
 
 **D**: spectrum of inflammatory disorders of the upper female genital tract — any combination of endometritis, salpingitis, tubo-ovarian abscess, and pelvic peritonitis.
@@ -4059,6 +4040,25 @@ Descriptive term for lower abdominal pain >6 months, not exclusively associated 
 - Can be asymptomatic or cause dysmenorrhoea, menorrhagia ± uterine enlargement/bogginess
 - **Ix**: transvaginal US/MRI
 - **Mx**: if symptomatic, tranexamic acid for menorrhagia; trial of GnRH agonists or uterine artery embolisation; definitive Mx: hysterectomy
+
+---
+
+## Male subfertility
+
+**Causes**
+
+| Category | Examples |
+|---|---|
+| Semen abnormality | Idiopathic oligo-astheno-teratozoospermia, testicular cancer, alcohol/smoking/other drugs, varicocele |
+| Azoospermia — pretesticular | Anabolic steroid use, Kallmann syndrome |
+| Azoospermia — non-obstructive | Cryptorchidism, orchitis, Klinefelter syndrome, chemotherapy |
+| Azoospermia — obstructive | Congenital bilateral absence of vas deferens, vasectomy, chlamydia, gonorrhoea |
+| Immunological | Anti-sperm antibodies |
+| Coital dysfunction | Erectile dysfunction with normal sperm function (some drugs cause ED — e.g. beta-blockers, antidepressants), hypospadias, phimosis, retrograde ejaculation, failure of ejaculation 2° other causes (e.g. multiple sclerosis, spinal cord injury) |
+
+**Ix**: detailed history + examination; testicular US; hormones (LH, FSH, testosterone); genetic tests (karyotyping).
+
+**Mx**: lifestyle modification; consider changing medications; multivitamin containing zinc, selenium, and vitamin C, then repeat semen analysis in 3 months; intracytoplasmic sperm injection if refractory to conservative Mx.
 
 *Semen analysis reference values are detailed in 17.06.*
 
