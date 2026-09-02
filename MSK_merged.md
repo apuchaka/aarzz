@@ -974,7 +974,7 @@ Induction with corticosteroids plus cyclophosphamide or rituximab, then maintena
 
 > [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of autoantibody interpretation, side by side, both intact.**
 > They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
-> Two further accounts sit in `[[Infectious Disease_merged]]` — `NEW_Investigations_Infectious_Diseases §0.19` and `§0.20` — where autoimmune serology is arguably misfiled. They were not moved; that is a separate decision.
+> Two further accounts sit in `[[Infectious Disease_merged]]` — `NEW_Investigations_Infectious_Diseases §0.19` and `NEW_Investigations_Infectious_Diseases §0.20` — where autoimmune serology is arguably misfiled. They were not moved; that is a separate decision.
 
 ## 1.16 Autoimmune Markers — Systematic Reference
 
@@ -4331,7 +4331,7 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 > are the same topic twice. `## Splenic trauma`, `## Liver trauma` and `L8 §0.4 Abdominal Trauma` are
 > three copies of abdominal trauma. `## Head injuries` duplicates `Neuro ### Head Injury`.
 > **Across files:** `GI_merged C1 §0.10 Abdominal Trauma` · `Emergency F0-5 §0.7 Major Head Injury` and
-> `§0.8 Minor Head Injury` · `Neuro_merged ### Head Injury`.
+> `Emergency F0-5 §0.8 Minor Head Injury` · `Neuro_merged ### Head Injury`.
 > **See `_meta/flags/_TRAUMA.md` for the full analysis. Nothing has been moved.**
 
 > [!note] Gap-filled from CSV ("Major trauma" and "Trauma," Medium yield). **Verified as genuinely absent before building rather than assumed** — this file holds organ-specific trauma (thoracic, genitourinary, splenic, liver, head, ocular) with no structured approach to the patient, and corpus-wide search returned **zero hits** for catastrophic haemorrhage, pelvic binder, permissive hypotension or secondary survey. The **generic** ABCDE approach is fully built in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient) and is **not repeated here** — this entry covers only what trauma changes about it. Verified against ANZCOR guidelines and Australian state major trauma service guidelines, Aug 2026.
