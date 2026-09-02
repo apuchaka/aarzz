@@ -47,9 +47,27 @@ def _guard(paths, where, what):
     return paths
 
 
-def md_files(vault=None, pattern='*.md'):
+def md_files(vault=None, pattern='*.md', exclude_meta=True):
+    """Absolute paths to every markdown file in the vault, RECURSIVELY.
+
+    This globbed the top level only until 2026-09-02. That was correct while the
+    corpus was 43 flat files at the root and silently wrong the moment the split
+    moved it into GI/, Cardio/, Clinical/ and the rest: the seven scripts that
+    call this - check_dividers, dangling, drift, gapcheck, misaimed, reanchor,
+    xref - would have scanned 6 files instead of 212 and reported clean.
+    gapcheck is the tool CLAUDE.md rule 11 requires for every present/absent
+    verdict, so the blind spot would have manufactured false ABSENTs at will.
+    The self-test caught it because it asserts a count, not a success."""
     v = vault or root()
-    return _guard(sorted(glob.glob(os.path.join(v, pattern))), v, 'markdown files')
+    out = sorted(glob.glob(os.path.join(v, '**', pattern), recursive=True))
+    if exclude_meta:
+        # _meta/ was unreachable while the corpus was flat, so all seven callers
+        # were written assuming they never see it, and they filter by BASENAME
+        # only. Recursion without this would hand them _meta/flags/GI_merged.md
+        # as though it were a study file of that name.
+        out = [p for p in out
+               if not os.path.relpath(p, v).replace(os.sep, '/').startswith('_meta/')]
+    return _guard(out, v, 'markdown files')
 
 
 def tracked_md_files(vault=None, pattern='*.md'):
@@ -76,6 +94,19 @@ def _selftest():
     n = len(md_files())
     ok = n > 10
     print(('[ok ] ' if ok else '[FAIL] ') + 'md_files() finds the vault: %d files' % n); bad += 0 if ok else 1
+
+    # the corpus lives in subfolders since 2026-09-02; a top-level-only glob
+    # comes back plausible-looking and blind. Assert the shape, not just a count.
+    nested = [p for p in md_files() if os.sep in os.path.relpath(p, root())]
+    ok = len(nested) > 100
+    print(('[ok ] ' if ok else '[FAIL] ') +
+          'md_files() reaches the subfolders: %d of %d files are nested'
+          % (len(nested), len(md_files()))); bad += 0 if ok else 1
+
+    ok = not any('_meta' + os.sep in p for p in md_files())
+    print(('[ok ] ' if ok else '[FAIL] ') +
+          'md_files() excludes _meta/ (its callers filter by basename only)')
+    bad += 0 if ok else 1
 
     t = len(tracked_md_files())
     ok = t > 10
