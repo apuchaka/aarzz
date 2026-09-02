@@ -33,8 +33,9 @@ Emergency/11    Paeds/    10    HemeOnc/  10    GI/       10
 Psych/     9    Neuro/     9    ID/        9    Ophth/     7
 Derm/      7    Resp/      6    Renal/     6    ENT/       6
 Geri/      3    GP/        1    Anaes/     1
-Clinical/ 17    Examination (5), History-Taking, Communication, Procedures,
-                Investigation-Interpretation, and eight merged-away stubs
+Clinical/ 18    Examination (5), History-Taking, Communication, Procedures,
+                Investigation-Interpretation, the GER6 drug-class crosswalk,
+                and eight merged-away stubs
 Practice/  6    Ethics, Population Health, Preventive Health, Safeguarding,
                 Australian Health Context, EBM
 ```
@@ -43,7 +44,7 @@ Practice/  6    Ethics, Population Health, Preventive Health, Safeguarding,
 |---|---|---|---|
 | **the study files**, in the folders above — `Cardio/Cardio_01_…`, `Neuro/Neuro_01_…` and the rest | the notes. **178 files, 67,526 lines.** Not one line of content changed in the split; every line of the old 40 is in exactly one of these, in the same order | always | read a folder top to bottom, in file-number order |
 | **`checklist.csv`** | 872 topics, 24 categories, each rated High / Medium / Low yield (308 / 394 / 170). Read it with `encoding='utf-8-sig'` or the first column header breaks | when choosing what to read next, and to record what you have read | the `Studied? (Y/N)` and `Confidence (1-3)` columns are **blank for all 872 rows** — it is a topic list you have not yet used as a tracker |
-| **`MY_TASKS.md`** | 70 lines. Every known clinical defect, contradiction and boundary problem, one line each: file, line, what is wrong, what to change | when a marker makes you stop, and once before each exam | check whether the thing in front of you is already on it. If it is, the line tells you what is wrong without you re-deriving it |
+| **`MY_TASKS.md`** | 71 lines. Every known clinical defect, contradiction and boundary problem, one line each: file, line, what is wrong, what to change | when a marker makes you stop, and once before each exam | check whether the thing in front of you is already on it. If it is, the line tells you what is wrong without you re-deriving it |
 | **`PENDING_GUIDELINE_CHECKS.md`** | 65 rows, **64 still open**, IDs B1–B67 | when you hit a figure you intend to rely on | search the file, line or drug. A row means the figure is known to need a source check |
 | **`CLAUDE.md` §1.7 and §1.12** | the marker definitions, if you want them first-hand | rarely — section 3 below is the short version | — |
 
@@ -64,9 +65,10 @@ Reading it is what cost you three days. It is written to be exhaustive so that
 a future you, at 11pm, wondering whether there is context in `_meta/`, can see
 the answer here and not open a single one of them.
 
-## The whole of `_meta/` — 47 files, none of them for reading
+## The whole of `_meta/` — 48 files, none of them for reading
 
 ```
+_meta/RUN_STATE.md                      what each session did, in order. 1,078 lines.
 _meta/PENDING_ROWS_TO_ADD.md            rows drafted for the tracker, not yet added by hand
 _meta/flags/_INVENTORY.md               an index of duplicated topics
 _meta/flags/_CONSOLIDATED.md            the same, consolidated
@@ -91,15 +93,12 @@ decisions were executed. The files are the receipt. There is no clinical content
 in any of them that is not already in a system file, and the flag files' line
 numbers went stale the moment the moves happened.
 
-## The build documents at the root
+## The build documents
 
 ```
-RUN_STATE.md                what each session did, in order. 1,078 lines. Not study.
 CLAUDE.md                   the rules the sessions worked under. Not study, except
                             §1.7 and §1.12 if you want the marker definitions first-hand.
 scripts/                    20 Python checkers. They verify the corpus; they teach nothing.
-GER6_Drug_Class_Addendum.md a crosswalk for the NEW_Drugs_01-21 set. Reference, not study,
-                            and nothing points at it.
 ```
 
 ## Inside the system files themselves
@@ -222,7 +221,7 @@ it is absent.
 
 Counts and where they live. Not the items.
 
-**`MY_TASKS.md` — 70 lines**, every cited line number verified against
+**`MY_TASKS.md` — 71 lines**, every cited line number verified against
 live content on 2026-09-02:
 
 ```
@@ -235,6 +234,7 @@ live content on 2026-09-02:
  2   large duplication sets, reported as sets not pair by pair
  3   questions asked and answered — a finding, no action needed
  1   corpus-wide: 189 verification boxes, none carrying a NOT checked: line
+ 1   findability: a 28 KB reference file nothing in the corpus points at
 ```
 
 **`PENDING_GUIDELINE_CHECKS.md` — 65 rows, 64 open**, IDs B1–B67. Each names a
@@ -279,5 +279,5 @@ each is a pointer you may have to resolve by scrolling rather than by clicking.
 **`checklist.csv` — 872 topics**, 308 High yield, 394 Medium, 170 Low.
 `Studied?` and `Confidence` are blank for all 872.
 
-That is the whole of what is known to be outstanding. It is 70 lines in one
+That is the whole of what is known to be outstanding. It is 71 lines in one
 file and 64 rows in another. You are not carrying anything else.
