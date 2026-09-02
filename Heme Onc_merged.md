@@ -2325,7 +2325,7 @@
 > **`10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes` has 3 inbound references and ALL THREE
 > ARE FROM `GP_merged.md`** — nothing in haematology or oncology points at it.
 > **`GP_merged NEW_Investigations_General_and_Preventive §0.14 Genetic Risk Assessment` and
-> `§0.15 Genetics and Molecular Testing` point here**, and this file does not point back.
+> `GP_merged NEW_Investigations_General_and_Preventive §0.15 Genetics and Molecular Testing` point here**, and this file does not point back.
 > `Pediatrics_merged 15_18b Genetic Disorders Inheritance Summary` and `15_20`–`15_21` hold the
 > syndrome genetics from the paediatric side.
 > ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
@@ -2555,8 +2555,8 @@
 ## 0.2 Organ transplant
 
 > [!warning] FLAG 2026-09-01 — overlaps Renal, and this source has zero inbound references
-> `Renal and Urology_merged §0.2.4 Renal Replacement Therapy Modalities`, `§0.2.5 Rejection` and
-> `§0.2.6 Complications of transplant and lifelong immunosuppression` cover the same ground and **are**
+> `Renal and Urology_merged §0.2.4 Renal Replacement Therapy Modalities`, `Renal and Urology_merged §0.2.5 Rejection` and
+> `Renal and Urology_merged §0.2.6 Complications of transplant and lifelong immunosuppression` cover the same ground and **are**
 > referenced. **`10_10b_Haemonc_-_Transplant_Medicine` has none.**
 > ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers in this vault can be
 > validated at all. It is listed because it coincides with demonstrated content overlap, not instead of it.
@@ -2866,7 +2866,7 @@
 > [!warning] FLAG 2026-09-01 — palliative care has 31 inbound references and none from haematology
 > `10_11c_Oncology_-_Palliative_Care_Prescribing` (11 inbound: **Anaes ×4**, GP, MSK) and
 > `J5 §0.4–§0.6` (20 inbound) are referenced from across the vault but not from within this file's
-> subject. `Geriatrics_merged GER2 §0.5 End-of-Life Care` and `§0.6 Advance Care Planning` are the
+> subject. `Geriatrics_merged GER2 §0.5 End-of-Life Care` and `Geriatrics_merged GER2 §0.6 Advance Care Planning` are the
 > other half. **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty:
 > nothing has been moved.**
 > **Opioid conversion appears in five places** (here, `Anaes 03a §0.7`, `AN1 §0.6`,
@@ -3425,7 +3425,7 @@
 ---
 
 ## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)
-`CF-PAIR` **A third account. `J3 §0.1 Interpreting the Coagulation Screen` and `§1.17 Coagulation Screen and D-dimer Interpretation` sit side by side earlier in this same file. All three kept in full, NOT reconciled.**
+`CF-PAIR` **A third account. `J3 §0.1 Interpreting the Coagulation Screen` and `Investigation-Interpretation §1.17 Coagulation Screen and D-dimer Interpretation` sit side by side earlier in this same file. All three kept in full, NOT reconciled.**
 
 **D:** The routine screen of the clotting cascade. **PT/INR** assesses the **extrinsic and common** pathways (factors VII, X, V, II, fibrinogen); **APTT** assesses the **intrinsic and common** pathways (XII, XI, IX, VIII, X, V, II, fibrinogen); **fibrinogen** and **D-dimer** complete the picture.
 
