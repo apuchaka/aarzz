@@ -1439,7 +1439,7 @@ aliases:
 
 # NEW — Drug Classes: Blood and Electrolytes (AMH section 7)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** Electrolyte replacement and vitamin dosing are both areas where **paediatric doses are per-kilogram** and an adult figure copied across is dangerous (**CLAUDE.md rule 5**) — take every dose from AMH or the local protocol.
 
@@ -3113,7 +3113,7 @@ aliases:
 
 # NEW — Drug Classes: Immunomodulators and Antineoplastics (AMH section 14)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** Cytotoxic dosing is protocol-driven, frequently **per square metre of body surface area**, and is never prescribed from memory or from a reference like this one.
 
@@ -3325,7 +3325,7 @@ aliases:
 
 # NEW — Investigations: Haematology (anaemia and haemolysis work-up cluster)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **This file is INCOMPLETE — it covers 11 of the 28 Haematology rows on the build list.** It was produced as a batching test (batch 1) and was subsequently recorded as "DONE" in `data/BULK_BUILD_PLAN.md` when it was not. The remaining 17 rows — ADAMTS13 activity, anti-intrinsic factor and anti-parietal cell antibodies, beta-2 microglobulin, biopsy and procedures, erythropoietin, factor VIII assay, flow cytometry, HIT ELISA, homocysteine, lymphoscintigraphy, methylmalonate, ristocetin cofactor activity, serotonin release assay, serum free light chains, VWF antigen, and petechiae — are built in **[[NEW_Investigations_Haematology_Part2]]** as entries **0.11–0.25**, numbered to continue this file. **Read the two files together.** The entries in this file are themselves complete and were not affected; the defect was in scope, not in content.
 

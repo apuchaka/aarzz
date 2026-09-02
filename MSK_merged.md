@@ -47,7 +47,7 @@ aliases:
 
 # NEW — Orthopaedics & Trauma
 
-> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
 
@@ -141,7 +141,7 @@ aliases:
 
 # NEW — Rheumatology & Immunology
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
 
@@ -5110,7 +5110,7 @@ Remove clothing and jewellery (unless adherent), cover with cling film laid on l
 
 # NEW — Drug Classes: Rheumatological (AMH section 19)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
 

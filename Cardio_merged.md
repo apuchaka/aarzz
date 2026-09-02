@@ -244,7 +244,7 @@ As per the classification. Cardiology involvement for type 1 events and for unex
 
 # NEW — Cardiology & Vascular
 
-> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
 
@@ -3627,7 +3627,7 @@ TEVAR = thoracic endovascular aortic repair
 
 # NEW — Drug Classes: Antihypertensives
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **This file has a KNOWN GAP — beta-blockers were never built here.** Three build-list rows (`Beta-Blockers (Cardioselective)`, `Beta-Blockers (Non-selective)`, `Beta-blockers`) were omitted when this batching-test file was written, and the file was then recorded as "DONE" in `data/BULK_BUILD_PLAN.md`. They are built in **[[NEW_Drugs_06_Cardiovascular]]** at entry **0.7**. Beta-blockers are mentioned incidentally below (calcium channel blocker interactions, the alpha-before-beta rule in phaeochromocytoma) — **those mentions are not the class entry**. Do not use this file as a complete antihypertensive list.
 
@@ -3758,7 +3758,7 @@ TEVAR = thoracic endovascular aortic repair
 
 # NEW — Drug Classes: Cardiovascular (AMH section 6, excluding antihypertensives)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
 

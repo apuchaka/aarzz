@@ -954,7 +954,7 @@ Deliberate de-resuscitation once stable, nutritional support, and monitoring for
 
 # NEW — Acid-Base, Fluids & Electrolytes
 
-> [!warning] **Standalone build, not yet integrated.** Every entry below was built against the header-only existence check described in `data/new_build_topics.md`. No cross-references into existing corpus files have been written, deliberately — these are for review first. Where an entry overlaps existing corpus content, that is for the reviewer to reconcile, not assumed absent.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** Every entry below was built against the header-only existence check described in `data/new_build_topics.md`. No cross-references into existing corpus files were written at build time, deliberately — these were for review first. Where an entry overlaps existing corpus content, that is for the reviewer to reconcile, not assumed absent.
 
 > [!danger] **Sourcing limitation applying to this whole file.** Primary Australian guideline domains (`rch.org.au`, `racgp.org.au`, `tg.org.au`, `health.gov.au`, the state health services) are **blocked by this environment's egress proxy** — verified by direct test on 2026-08-30, both `curl` and `WebFetch`, 38 domains, all refused with 403 at the gateway. Only search snippets are reachable. Every entry here is therefore **snippet-sourced**: guideline names and substance are accurate as far as the snippets go, but no primary document was read. Numeric thresholds are included **only** where three independent sources agreed in retrievable snippets; where they disagreed, the figure is **omitted and the disagreement stated**, per the build rule. Do not tighten any omitted figure to a single number without a primary source.
 
@@ -3155,7 +3155,7 @@ Assess volume status:
 
 # NEW — Drug Classes: Endocrine (AMH section 10)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file** — including insulin doses, corticosteroid equivalences and thyroxine doses, all of which must come from AMH or the local protocol. **Insulin in particular is a high-risk medicine where a remembered figure is dangerous.**
 

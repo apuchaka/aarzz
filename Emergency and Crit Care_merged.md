@@ -2753,7 +2753,7 @@ Wound care and tetanus status. Warn about serum sickness after antivenom. Redbac
 
 # NEW — Drug Classes: Allergy and Anaphylaxis (AMH section 1)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment, and they are the sources that would normally supply Australian doses and product details. Entries are **snippet-sourced**, and **no doses are stated in this file** — with **one deliberate, documented exception**: the **adrenaline dose for anaphylaxis** (0.5 Sympathomimetics), which is a resuscitation dose, is agreed across Australian sources, and is stated by ASCIA in the correct **per-kg-with-a-cap** and **weight-band** form. Omitting it would be a safety gap, not caution. Use AMH or the local formulary for everything else.
 
@@ -3323,7 +3323,7 @@ Both are toxidromes causing the triad of **hyperthermia, altered mental status, 
 
 # NEW — Drug Classes: Antidotes and Antivenoms (AMH section 4)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** Antidote and antivenom dosing is the area where getting a figure wrong from memory is most likely to be lethal.
 

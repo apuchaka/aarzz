@@ -1,7 +1,7 @@
 ---
 block: NEW build — Exam Manoeuvres and Procedures
 source: data/BULK_BUILD_PLAN.md Part B; items from data/no_header_build_queue.md
-status: standalone — not yet cross-referenced into the corpus
+status: split and merged 2026-09-01 into [[Examination]] Part 4 and [[Procedures]] (C2 / AXIS-2); this file is kept as the record
 ---
 
 # NEW — Exam Manoeuvres and Procedures

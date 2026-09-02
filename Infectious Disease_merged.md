@@ -292,7 +292,7 @@ Source control — drainage, line removal, return to theatre for a leak. Cessati
 
 # NEW — Infectious Diseases
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
 
@@ -3098,7 +3098,7 @@ Immunotherapy or biologic therapy through a specialist service.
 
 # NEW — Drug Classes: Anti-infectives (AMH section 5)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines: Antibiotic are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** **Therapeutic Guidelines: Antibiotic is the Australian standard** and is what an intern should actually be prescribing from — this file is for understanding the classes, not for choosing a regimen.
 
@@ -3537,7 +3537,7 @@ Immunotherapy or biologic therapy through a specialist service.
 
 # NEW — Drug Classes: Vaccines and Immunoglobulins (AMH section 20)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file, and it matters more here than anywhere else.** The **Australian Immunisation Handbook and the National Immunisation Program schedule are the authoritative Australian sources**, and they are **updated continually**. **No schedule, age, interval or dose is reproduced in this file.** Sources confirm the Handbook is the definitive reference and direct clinicians to it. **Always check `immunisationhandbook.health.gov.au` and the current NIP schedule at the point of care — a remembered schedule is out of date.**
 

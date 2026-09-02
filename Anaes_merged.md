@@ -400,7 +400,7 @@ aliases:
 
 # NEW — Drug Classes: Anaesthetics (AMH section 2)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file** — including local anaesthetic maximum doses, which are weight-based, agent-specific, adrenaline-dependent and site-dependent, and which must come from the local formulary rather than from memory or from a note like this one.
 
@@ -624,7 +624,7 @@ aliases:
 
 # NEW — Drug Classes: Analgesics (AMH section 3)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; merged into this file on 2026-09-01.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** Where a source supplied a figure that is genuinely part of the clinical concept rather than a prescribing instruction — the serum urate **target**, the definition of **medication overuse headache** — it is given and labelled as such. Use AMH or the local formulary for all dosing.
 

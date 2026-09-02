@@ -1,12 +1,12 @@
 ---
 block: NEW build — Drug Classes
 source: data/BULK_BUILD_PLAN.md Part C; AMH section 21 Miscellaneous
-status: standalone — not yet cross-referenced into the corpus
+status: merged 2026-09-01 into [[Endocrine and metabolics_merged]] (C8 / AXIS-1); this file is kept as the record
 ---
 
 # NEW — Drug Classes: Miscellaneous (AMH section 21)
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; its content has since been merged out — see the note at the foot of this file.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
 

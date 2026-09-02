@@ -1,12 +1,12 @@
 ---
 block: NEW build — Presentations & Symptoms
 source: Build list 2026-08-30 (data/new_build_topics_tiered.md)
-status: standalone — not yet cross-referenced into the corpus; TIER 2 ONLY
+status: merged 2026-09-01 into [[Safeguarding]]; this file is kept because 5 wikilinks point here
 ---
 
 # NEW — Safeguarding & Forensic
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] **Built standalone; its content has since been merged out — see the note at the foot of this file.** No cross-references into existing corpus files were written at build time.
 
 > [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
 
