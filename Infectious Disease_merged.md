@@ -2912,7 +2912,7 @@ Immunotherapy or biologic therapy through a specialist service.
 **Alt:** Duodenal biopsy (gold standard); HLA-DQ2/DQ8 — useful for its **negative** predictive value, since absence makes coeliac disease very unlikely, but a positive is common in the general population and does not diagnose.
 
 ## 0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl-70, Anti-histone, Myositis Antibodies)
-`CF-PAIR` **Two further accounts of autoantibody interpretation sit side by side in `[[MSK_merged]]` — `L2 §0.6 Autoantibody and Serology Interpretation` and `§1.16 Autoimmune Markers — Systematic Reference`. Autoimmune serology in an infectious-diseases investigations file is arguably a misfile; that is a separate decision and nothing was moved. All kept in full, NOT reconciled.**
+`CF-PAIR` **Two further accounts of autoantibody interpretation sit side by side in `[[MSK_merged]]` — `L2 §0.6 Autoantibody and Serology Interpretation` and `Investigation-Interpretation §1.16 Autoimmune Markers — Systematic Reference`. Autoimmune serology in an infectious-diseases investigations file is arguably a misfile; that is a separate decision and nothing was moved. All kept in full, NOT reconciled.**
 
 **D:** Panel of autoantibodies used to characterise connective tissue disease, usually beginning with **ANA** and reflexing to **extractable nuclear antigen (ENA)** specificities.
 
