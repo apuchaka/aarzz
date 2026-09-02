@@ -1,5 +1,262 @@
 
 
+<!-- ===== SOURCE: F0-4_Resuscitation_Algorithms_and_Emergency_Procedures.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Sequence, decision points and traps are reliable at intern level. **Every dose, rate, ratio, depth, energy level and timing figure in resuscitation is omitted from this file, not flagged.** There is no defensible reason to learn these from a model when ANZCOR publishes them free: Guideline 8 (CPR), Guideline 11 series (adult ALS), Guideline 12 series (paediatric), Guideline 13 series (newborn). Drug doses come from eTG and your local protocol.
+>
+> Note on format: sections 0.7–0.12 are procedures rather than conditions, so **Ix** is used for pre-procedure assessment and confirmation of success rather than diagnostic workup.
+
+---
+
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 The A–E Approach`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
+## 0.2 Basic Life Support
+
+**D:** The initial resuscitation sequence performed without specialist equipment, taught in Australia as **DRSABCD**.
+
+**A/P:** Chest compressions generate a fraction of normal cardiac output, and coronary perfusion pressure builds progressively over successive compressions and collapses instantly when they stop. **This single fact justifies almost every rule in BLS** — minimise interruptions, do not stop for prolonged pulse checks, resume immediately after a shock, and rotate the compressor before quality degrades.
+
+> [!tip] DRSABCD
+> **D — Danger:** to yourself, bystanders and the patient.
+> **R — Response:** talk and touch.
+> **S — Send for help:** call 000, or the in-hospital arrest number, and get a defibrillator.
+> **A — Airway:** open it; clear only visible obstruction.
+> **B — Breathing:** look for normal breathing. **Agonal gasping is not normal breathing.**
+> **C — CPR:** start compressions.
+> **D — Defibrillation:** attach an AED or defibrillator as soon as it arrives and follow its prompts.
+
+> [!danger] Agonal gasps
+> Irregular noisy gasping in the first minutes of arrest is a brainstem reflex and is the single commonest reason bystanders and clinicians fail to start CPR. **If breathing is not normal, start compressions.**
+
+> [!warning] The figures are omitted
+> `Compression rate, compression depth, compression-to-ventilation ratio, hand position, and the interval for compressor rotation are all omitted from this file. Obtain them from ANZCOR Guideline 6 and 8. These are the figures most likely to be examined and the ones least defensible to learn second-hand.`
+
+**Ix:** None. BLS is performed on clinical assessment alone, and any investigation that delays compressions is harmful.
+
+### 0.2.1 Mx – Immediate
+Start compressions. Attach the defibrillator. Continue until the patient recovers, help arrives and takes over, it becomes unsafe to continue, or resuscitation is appropriately ceased.
+
+### 0.2.2 Mx – Definitive
+Transition to ALS as equipment and personnel arrive — see 0.3.
+
+### 0.2.3 Mx – Chronic/long-term
+Team debrief. Bystander CPR follow-up and support where relevant.
+
+---
+
+## 0.3 Advanced Life Support — Adult
+
+> [!warning] FLAG 2026-09-01 — duplicate pair with Cardio, and the ANZCOR correction lives in the other copy
+> `Cardio_merged §0.5 Advanced Life Support (Adult)` carries a verification box with a specific
+> correction: ***"ANZCOR timing is NOT the same as the UK/ERC protocol — adrenaline timing genuinely
+> differs by one shock"***.
+> ⚠️ **That box is the first thing lost if these two are reconciled. Whichever copy survives keeps it.**
+> Pair marked, not merged.
+
+**D:** Resuscitation with monitoring, defibrillation, advanced airway management and drug therapy, following the ANZCOR adult ALS algorithm.
+
+> [!info] ALS, ACLS and ILS — the terminology
+> **ALS** (Advanced Life Support) is the term used by ANZCOR and in Australian practice.
+> **ACLS** (Advanced Cardiac Life Support) is the American Heart Association term. The two describe the same activity and the algorithms differ in detail. **Use ANZCOR in an Australian exam** — quoting an AHA figure is a recognised way to get a question wrong.
+> **ILS** (Immediate Life Support) is an intermediate course level for ward staff — recognition of the deteriorating patient, BLS, defibrillation and the first minutes of an arrest before the team arrives. This is realistically the level most interns are certified at and expected to deliver.
+
+**A/P:** The algorithm branches on one question — **is the rhythm shockable?** VF and pulseless VT are shockable and the priority is early defibrillation. Asystole and PEA are not, and the entire therapeutic value lies in finding and reversing the cause.
+
+> [!tip] The two branches
+> **Shockable (VF / pulseless VT):** defibrillate, resume compressions immediately without waiting to assess the rhythm, continue in cycles, with adrenaline and an antiarrhythmic introduced at defined points.
+> **Non-shockable (asystole / PEA):** compressions and adrenaline, with the whole effort directed at the reversible causes. Confirm asystole is genuine — check leads, gain and connections, because fine VF and a disconnected lead look similar.
+
+Reversible causes — the **4 Hs and 4 Ts** — are set out in [[A1]] 0.4 and are not repeated here.
+
+> [!danger] Omitted figures
+> `Defibrillation energy levels, adrenaline dose and interval, amiodarone or lignocaine dosing, the duration of each CPR cycle, and the rhythm-check interval are all omitted. Obtain from ANZCOR Guideline 11.2, 11.4, 11.5 and 11.6.`
+
+> [!warning] PEA is the commonest in-hospital rhythm
+> It is also the one where defibrillation has nothing to offer and where the search for a cause is the treatment. Bedside echocardiography during the rhythm-check pause distinguishes true PEA from pseudo-PEA — a heart that is contracting without a palpable pulse, which carries a very different prognosis and points toward profound hypovolaemia or obstruction.
+
+**Ix:** Rhythm at the defibrillator (*why:* determines the entire algorithm branch; *what:* shockable versus non-shockable). Bedside glucose, VBG with potassium, and bedside echo — as set out in [[A1]] 0.4. Waveform capnography once an advanced airway is placed (*why:* confirms tube position, provides real-time feedback on compression quality, and a sudden sustained rise is often the first sign of return of spontaneous circulation; *what:* trace present, values rising).
+
+### 0.3.1 Mx – Immediate
+Follow the ANZCOR algorithm for the identified rhythm. Assign roles explicitly — compressor, airway, drugs, defibrillator, timekeeper, scribe, team leader — because unassigned tasks in an arrest are tasks that do not happen. Rotate the compressor. Treat reversible causes in parallel.
+
+### 0.3.2 Mx – Definitive
+Post-ROSC care: controlled oxygenation and ventilation avoiding both hyperoxia and hypocapnia, 12-lead ECG with early consideration of angiography, haemodynamic support, targeted temperature management, ICU. `UNVERIFIED — saturation, CO₂ and temperature targets from ANZCOR post-resuscitation guidance.`
+
+### 0.3.3 Mx – Chronic/long-term
+Neurological prognostication is deferred and is not an intern decision. Family communication, team debrief, ICD assessment in arrhythmic arrest survivors.
+
+---
+
+## 0.4 Paediatric Resuscitation
+
+**D:** Resuscitation of an infant or child, following the ANZCOR paediatric algorithms.
+
+**A/P:** The critical difference from adults: **paediatric arrest is usually asphyxial rather than arrhythmic.** It is the end point of respiratory failure or shock, not a sudden primary rhythm event. The consequences: airway and ventilation carry more weight than in the adult algorithm, the commonest rhythms are asystole and PEA rather than VF, and outcomes are better when the preceding deterioration is caught — which is where the real clinical opportunity sits.
+
+> [!danger] The child who arrests was deteriorating for hours
+> Recognition of the seriously unwell child, not the arrest algorithm, is where paediatric lives are saved. Cross-refer [[M1]] The Seriously Unwell Child and [[F0.3]] 0.8 Paediatric Sepsis.
+
+> [!warning] Weight-based everything
+> Every drug dose, fluid volume and defibrillation energy is weight-based. Use a **length-based resuscitation tape** or the child's measured weight — age-based formulae are estimates and differ between sources. `UNVERIFIED — compression-to-ventilation ratios (which differ for one versus two rescuers), compression depth as a proportion of chest diameter, defibrillation energy in J/kg, and adrenaline dosing are all omitted. Obtain from ANZCOR Guideline 12 series and the RCH resuscitation guideline.`
+
+> [!tip] Access
+> **Move to intraosseous access early.** Persisting with difficult peripheral cannulation in a shocked or arrested child is a recognised cause of delay. IO is fast, reliable, and takes everything IV access takes.
+
+**Ix:** Bedside glucose (*why:* children have small glycogen stores, become hypoglycaemic rapidly when unwell, and it is instantly correctable; *what:* hypoglycaemia). VBG with potassium and lactate (*why:* reversible causes and severity; *what:* acidosis, electrolyte derangement). Measured or tape-estimated weight (*why:* every subsequent number depends on it; *what:* weight in kilograms). Rhythm at the defibrillator (*why:* branches the algorithm, though shockable rhythms are less common; *what:* shockable versus not). Directed investigation for the underlying cause, which in children is usually respiratory, septic or hypovolaemic.
+
+### 0.4.1 Mx – Immediate
+Effective ventilation and oxygenation are the priority. Compressions per the age-appropriate technique and ratio. IO access early. Weight-based drugs and fluids. Senior paediatric help and retrieval activated immediately.
+
+### 0.4.2 Mx – Definitive
+Reversible causes, then transfer to a paediatric intensive care service. Australian paediatric retrieval services should be contacted early rather than after stabilisation fails.
+
+### 0.4.3 Mx – Chronic/long-term
+Family support and debrief. Investigation of the underlying cause. Mandatory reporting and safeguarding consideration where the presentation is unexplained — cross-refer [[P3]] Safeguarding.
+
+---
+
+## 0.5 Neonatal Resuscitation
+
+**D:** Support of the newborn's transition to extrauterine life at birth, following the ANZCOR newborn algorithm.
+
+**A/P:** In utero the lungs are fluid-filled and pulmonary vascular resistance is high, with the circulation shunting right to left. At birth: **lung aeration is the trigger for the entire transition** → fluid clears, pulmonary vascular resistance falls, pulmonary blood flow rises, the ductus arteriosus and foramen ovale close functionally. A newborn who is not transitioning is almost always failing to aerate the lungs. **This is why effective ventilation, not compressions, is the intervention that resuscitates a newborn** — the reverse of adult priorities.
+
+> [!tip] The initial assessment
+> **Term? Tone? Breathing or crying?** If all three are satisfactory, the baby stays with the mother with routine care — warmth, drying, skin-to-skin, and delayed cord clamping. If not, move to the algorithm: warm and dry, stimulate, position the airway, and assess breathing and heart rate.
+
+> [!danger] Heart rate is the primary marker of adequate resuscitation
+> A rising heart rate is the earliest and most reliable sign that ventilation is effective. If the heart rate is not rising, **the problem is almost always the ventilation, not the need for drugs or compressions** — reassess mask seal, head position, airway obstruction and inflation pressure before escalating. `UNVERIFIED — heart rate thresholds, inflation pressures, compression-to-ventilation ratio for newborns (which differs from all other age groups), and adrenaline dosing are omitted. Obtain from ANZCOR Guideline 13 series.`
+
+> [!warning] Air versus oxygen, and temperature
+> Resuscitation of the **term** newborn commences in air rather than 100% oxygen, with oxygen titrated against saturation targets that rise over the first minutes of life — a normal newborn is not expected to be pink immediately. Preterm infants are handled differently. **Hypothermia is an independent predictor of mortality in the preterm infant**; use a plastic wrap and radiant warmer. `UNVERIFIED — starting oxygen concentration by gestation and the minute-by-minute saturation targets require verification against ANZCOR Guideline 13.4.`
+
+**Ix:** Continuous heart rate assessment, ideally by ECG (*why:* auscultation and palpation underestimate heart rate in the newborn, and heart rate is the parameter every decision hangs on; *what:* rate and trend). Pulse oximetry on the **right hand or wrist** (*why:* pre-ductal saturation reflects what is reaching the brain, and post-ductal readings mislead during transition; *what:* saturation against the minute-specific target). Temperature (*why:* hypothermia worsens outcome and is preventable; *what:* axillary temperature). Blood glucose in at-risk infants (*why:* neonatal hypoglycaemia is common in the growth-restricted, preterm and infant of a diabetic mother, and causes neurological injury; *what:* low glucose). Cord blood gas where the resuscitation was prolonged (*why:* documents the degree of intrapartum acidosis and informs prognosis and cooling decisions; *what:* pH and base deficit).
+
+### 0.5.1 Mx – Immediate
+Warm, dry, stimulate, position. Effective positive pressure ventilation if not breathing or heart rate is low — this is the core intervention. Escalate to compressions and drugs only if the heart rate remains low **despite demonstrably effective ventilation.**
+
+### 0.5.2 Mx – Definitive
+Neonatal team involvement and admission to a neonatal unit. Consideration of therapeutic hypothermia for hypoxic-ischaemic encephalopathy in eligible infants — a time-critical decision requiring early neonatal consultation. `UNVERIFIED — eligibility criteria and time window require verification.`
+
+### 0.5.3 Mx – Chronic/long-term
+Neurodevelopmental follow-up. Parental support and debrief. Documentation of the resuscitation for the obstetric and neonatal record.
+
+---
+
+## 0.6 Intubation and Rapid Sequence Induction
+
+**D:** Placement of a cuffed endotracheal tube to secure and protect the airway, in the emergency setting usually by rapid sequence induction.
+
+> [!tip] The four indications
+> **Failure to maintain the airway** — obstruction, no protective reflexes.
+> **Failure to protect the airway** — reduced conscious state with aspiration risk.
+> **Failure of oxygenation or ventilation** — refractory hypoxia, rising CO₂.
+> **Anticipated clinical course** — the patient who will obstruct or deteriorate during transfer, imaging or a procedure. Burns with airway involvement and expanding neck haematoma belong here, and intubating them early is far easier than intubating them late.
+
+**A/P:** Rapid sequence induction gives a sedative and a neuromuscular blocking agent in quick succession to produce optimal intubating conditions while minimising the apnoeic interval and the risk of aspiration in a patient assumed to have a full stomach.
+
+> [!danger] The physiologically difficult airway
+> The patient who is hypotensive, hypoxic or acidotic will arrest on induction more readily than one with a difficult anatomy. **Resuscitate before you intubate** — optimise blood pressure, pre-oxygenate properly, and have vasopressor drawn up and ready. Induction agents drop sympathetic drive; a patient maintaining their circulation on catecholamine tone can lose it entirely.
+
+> [!tip] Preparation and prediction
+> **SOAP-ME** — Suction, Oxygen, Airway equipment (two laryngoscopes, tubes of varying size, bougie, supraglottic airway, surgical airway kit), Pharmacy, Monitoring, End-tidal CO₂.
+> **LEMON** for predicting difficulty — Look externally, Evaluate 3-3-2, Mallampati, Obstruction, Neck mobility. Predicting difficulty changes the plan, the operator and the location — not whether it is attempted.
+> Have a **verbalised failed-airway plan** before the first attempt, and state who will do what.
+
+> [!warning] Waveform capnography is mandatory for confirmation
+> Auscultation, misting in the tube and chest rise all mislead. **A sustained capnograph trace is the confirmation**; an oesophageal intubation that is not recognised is a catastrophic and preventable event.
+
+> [!info] Deterioration after intubation — DOPES
+> **D**isplacement of the tube · **O**bstruction of the tube · **P**neumothorax · **E**quipment failure · **S**tacking of breaths (auto-PEEP). Work through these before assuming the patient's disease has worsened. In an asthmatic, breath stacking is the likeliest and the answer is to **disconnect the circuit and let them exhale** — see 0.7.
+
+**Ix:** Pre-procedure airway assessment (*why:* determines equipment, operator and location, and a difficult airway identified in advance is a manageable one; *what:* LEMON findings). Pre-oxygenation with saturation monitoring (*why:* determines the safe apnoeic time available; *what:* saturation approaching maximum before induction). Blood pressure and, where available, bedside echo (*why:* identifies the physiologically difficult airway requiring resuscitation first; *what:* hypotension, poor contractility). **Waveform capnography** (*why:* the only reliable confirmation of tracheal placement; *what:* sustained trace). Post-intubation CXR (*why:* confirms depth and excludes endobronchial intubation and pneumothorax, though it does not confirm the tube is not oesophageal; *what:* tip position above the carina).
+
+### 0.6.1 Mx – Immediate
+Prepare per SOAP-ME. Assign roles. Pre-oxygenate. Optimise haemodynamics. Induct and paralyse. Confirm with capnography. Secure the tube and document depth. `UNVERIFIED — all induction agent and paralytic doses, and the choice of agent by clinical scenario, are omitted; obtain from local protocol and eTG.`
+
+### 0.6.2 Mx – Definitive
+Post-intubation sedation and analgesia — a paralysed patient who is inadequately sedated is awake and aware, and this is a recognised and serious harm. Mechanical ventilation per 0.7. ICU transfer.
+
+### 0.6.3 Mx – Chronic/long-term
+Document any difficulty encountered on the record and in the discharge summary, so the next team is not surprised.
+
+---
+
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.7 Mechanical Ventilation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.8 Procedural Sedation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## 0.9 Adult Analgesia
+
+**D:** Assessment and treatment of pain, using a multimodal approach titrated to severity and reassessed.
+
+**A/P:** Different analgesic classes act at different points — peripheral nociceptor sensitisation (NSAIDs, paracetamol), spinal transmission (opioids, ketamine), and peripheral nerve conduction (local anaesthetics). **Combining classes gives better analgesia at lower doses of each**, which is the entire rationale for multimodal analgesia and the reason a regional block plus paracetamol may outperform escalating opioid alone.
+
+> [!tip] The principles
+> **Assess and document** severity with a validated scale, and reassess after intervention — an unreassessed analgesic prescription is not analgesia.
+> **Multimodal** — paracetamol and, where not contraindicated, an NSAID as the base, with opioid added for severe pain rather than used alone.
+> **Route by urgency** — IV titration for severe acute pain, oral for moderate.
+> **Regional techniques** where applicable — see 0.10.
+> **Treat the cause**, and do not let analgesia delay diagnosis. The old teaching that opioids mask an acute abdomen has not held up; appropriate analgesia does not obscure the diagnosis.
+
+> [!warning] NSAID contraindications get overlooked
+> Renal impairment, heart failure, active or previous peptic ulcer disease, anticoagulation, asthma with known NSAID sensitivity, third-trimester pregnancy, and the elderly generally. NSAIDs are a common cause of avoidable acute kidney injury in hospital.
+
+> [!danger] Opioid prescribing safety
+> Monitor **sedation score and respiratory rate**, not saturation — cross-refer [[F0.1]] 0.5. Be cautious with combined opioid and benzodiazepine prescribing. Consider the risk of ongoing use: an opioid started in hospital and continued on discharge without a stop date is a recognised route into long-term use. Australian real-time prescription monitoring systems — **ScriptCheckSA** in South Australia — should be checked when prescribing monitored drugs. `UNVERIFIED — confirm current ScriptCheckSA obligations and which drugs are monitored, as the requirements have changed since introduction.`
+
+**Ix:** Pain assessment with a validated scale (*why:* untreated pain is under-recognised, particularly in the cognitively impaired, and a documented score forces reassessment; *what:* score before and after intervention). UEC (*why:* renal function determines NSAID safety and opioid dose adjustment; *what:* eGFR). Directed investigation of the cause of pain (*why:* analgesia is not a substitute for diagnosis; *what:* cause-specific). Medication history including community dispensing (*why:* identifies existing opioid tolerance, which changes effective dosing entirely, and interacting agents; *what:* current opioid load).
+
+### 0.9.1 Mx – Immediate
+Titrated IV analgesia for severe acute pain with reassessment. Multimodal base. Non-pharmacological measures — splinting, positioning, ice, reassurance — which are cheap and consistently underused. `UNVERIFIED — all doses from eTG Analgesic and local protocol.`
+
+### 0.9.2 Mx – Definitive
+Treat the underlying cause. Regional block where indicated. Acute pain service involvement for complex cases.
+
+### 0.9.3 Mx – Chronic/long-term
+Explicit deprescribing plan and stop date for any opioid on discharge, communicated to the GP. Cross-refer [[P1]] and [[18_Geriatrics_and_Older_Persons_Health]] Polypharmacy and Deprescribing.
+
+---
+
+## 0.10 Paediatric Analgesia
+
+**D:** Pain management in children, where under-treatment is the dominant problem and the assessment tools, routes and agents all differ from adult practice.
+
+> [!danger] Children are systematically under-analgesed
+> Preverbal children, children with developmental disability, and infants are the most under-treated. **Absence of complaint is not absence of pain.** Use an age-appropriate validated tool — FLACC for the preverbal, faces scales for younger children, numerical for older.
+
+> [!tip] Route matters more in children
+> **Intranasal fentanyl** is widely used in Australian emergency departments for acute severe pain — it is fast, needs no cannula, and avoids the distress of IV access in a child already in pain. **Sucrose** is effective analgesia for minor procedures in neonates and young infants. **Topical local anaesthetic** before cannulation is standard, not optional. Non-pharmacological measures — parental presence, distraction, breastfeeding in infants, play therapy — have real measurable effect and should be used alongside drugs rather than instead of them.
+
+> [!danger] Codeine is contraindicated in children
+> Codeine is a prodrug requiring CYP2D6 conversion to morphine, and ultra-rapid metabolisers — a substantial minority — convert far more than expected, causing fatal respiratory depression. **Codeine is contraindicated in children under 12, and after tonsillectomy or adenoidectomy at any age**, and is not recommended in breastfeeding mothers. `UNVERIFIED — confirm the exact age cut-offs and current TGA restrictions against the Australian Medicines Handbook, as these have been revised.`
+
+> [!warning] Weight-based dosing
+> Every paediatric analgesic dose is weight-based with a maximum. Aspirin is avoided in children because of Reye syndrome, with defined exceptions such as Kawasaki disease. `UNVERIFIED — all doses, maxima and dosing intervals are omitted; obtain from the RCH clinical practice guidelines and the Australian Medicines Handbook Children's Dosing Companion.`
+
+**Ix:** Age-appropriate pain assessment (*why:* the tool must match developmental stage or it measures nothing; *what:* FLACC, faces or numerical score before and after). Measured weight (*why:* every dose depends on it and estimates propagate error; *what:* weight in kilograms). Directed investigation of the cause (*why:* pain in a child, particularly limb pain or refusal to weight-bear, has a differential that includes serious pathology; *what:* cause-specific — cross-refer [[M5]] Limp in Child).
+
+### 0.10.1 Mx – Immediate
+Assess with the right tool. Non-pharmacological measures immediately. Intranasal or oral analgesia for rapid effect, escalating as needed. Involve the parent.
+
+### 0.10.2 Mx – Definitive
+Treat the cause. Regional techniques where applicable.
+
+### 0.10.3 Mx – Chronic/long-term
+Clear written analgesia advice for parents with weight-based doses, maximum daily amounts and duration, since dosing errors at home are common.
+
+---
+
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.11 Fascia Iliaca Block` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
 <!-- ===== SOURCE: A1_Emergency_-_Deteriorating_Patient__Sepsis__Cardiac_Arrest.md ===== -->
 
 
@@ -1069,6 +1326,1526 @@ Smoking cessation, which changes the risk of both this nodule and the next one. 
 > Respiratory failure, hypoxia and abnormal respiratory rate → [[A3]] · Acute asthma, COPD, pneumonia, pulmonary oedema, ARDS → [[F0.5]] · Airway obstruction and stridor → [[A2]] · Cardiogenic shock and PE → [[F0.3]] 0.3, 0.5 · Chest pain framework → [[B1]] · Occupational lung disease → [[02_Respiratory]] Pneumoconioses
 
 
+<!-- ===== SOURCE: F0-5_Acute_Respiratory__Headache_and_Head_Injury.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Mechanism, severity assessment and discriminators are reliable at intern level. **Every dose, threshold, reference range, saturation target and timing figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Sources to verify against: eTG Respiratory and Antibiotic, TSANZ oxygen guidance, the Australian Asthma Handbook, PREDICT head injury guidance, and your local protocols.
+
+---
+
+## 0.1 Acute Asthma
+
+**D:** Acute worsening of airflow obstruction with bronchospasm, mucosal oedema and mucus plugging, on a background of chronic airway inflammation.
+
+**R:**
+*Unmodifiable:* Previous life-threatening attack or ICU admission, atopy, prior intubation for asthma.
+*Modifiable:* Poor inhaler technique, over-reliance on reliever and under-use of preventer, no written action plan, ongoing allergen or smoke exposure, viral infection, NSAID or beta-blocker exposure, poor adherence, psychosocial factors and limited access to care.
+
+**A/P:** Trigger → mast cell degranulation and airway inflammation → bronchial smooth muscle constriction, mucosal oedema and mucus plugging → reduced expiratory airflow with air trapping → increased work of breathing and V/Q mismatch → hypoxia. Initially the patient hyperventilates → **hypocapnia with respiratory alkalosis**. As fatigue sets in, minute ventilation falls → CO₂ rises toward normal, then above it.
+
+> [!danger] A normalising CO₂ in an acute asthmatic is a pre-arrest finding
+> It does not mean the patient is improving. It means they can no longer sustain the hyperventilation that was compensating. Combined with a **silent chest** — no wheeze because there is insufficient airflow to generate one — exhaustion, drowsiness and a rising CO₂ define life-threatening asthma requiring immediate senior and ICU involvement.
+
+> [!tip] Severity assessment
+> Graded on ability to speak (sentences, phrases, words, or not at all), work of breathing and accessory muscle use, oxygen saturation, conscious state, and the presence or absence of wheeze. **Peak flow is useful in the moderate patient and inappropriate in the severe one** — do not delay treatment to obtain it, and do not attempt it in a patient who cannot speak. `UNVERIFIED — the specific saturation and peak flow thresholds defining each severity band require verification against the Australian Asthma Handbook.`
+
+> [!warning] What not to do
+> **A CXR is not routine** in acute asthma — it delays treatment and rarely changes management. Obtain it for suspected pneumothorax, focal signs, failure to respond, or an atypical presentation.
+> **Do not give a beta-blocker.** Check the medication list.
+> Sedation is contraindicated outside a controlled intubation.
+
+**S/Smx:** Dyspnoea, wheeze, cough, chest tightness, accessory muscle use, tachypnoea, tachycardia, inability to complete sentences, and in severe cases silent chest, cyanosis, exhaustion, confusion and bradycardia as a terminal sign.
+
+**Ix:** Oxygen saturation (*why:* rapid severity marker guiding oxygen therapy, though it is preserved until late and its normality is not reassurance; *what:* hypoxia). ABG or VBG, reserved for the severe or deteriorating patient (*why:* identifies the rising CO₂ that signals exhaustion, which no other test detects; *what:* normalising or raised pCO₂ — a genuinely ominous finding). Peak expiratory flow where the patient can perform it (*why:* objectively grades severity and tracks response to treatment; *what:* value against personal best or predicted). CXR only if indicated as above (*why:* pneumothorax and pneumomediastinum complicate severe asthma and consolidation may be the trigger; *what:* pneumothorax, consolidation). UEC (*why:* repeated beta-agonist dosing causes hypokalaemia and lactic acidosis; *what:* low potassium, raised lactate). ECG in older patients (*why:* excludes cardiac cause of breathlessness and identifies beta-agonist-related tachyarrhythmia; *what:* ischaemia, arrhythmia).
+
+### 0.1.1 Mx – Immediate
+Oxygen titrated to target. **Inhaled short-acting beta-agonist, with a spacer being at least as effective as a nebuliser in most patients** and avoiding aerosol generation. Add ipratropium in moderate to severe. **Systemic corticosteroid early** — the benefit is time-dependent and delaying it is a common error. Escalate to intravenous magnesium and consider aminophylline in severe or refractory cases. Call for senior help early in life-threatening asthma. `UNVERIFIED — all doses, nebuliser versus spacer regimens, magnesium dosing and oxygen targets are omitted; obtain from the Australian Asthma Handbook and eTG.`
+
+### 0.1.2 Mx – Definitive
+Continued bronchodilation and steroids with reassessment. Intubation is a last resort and is high-risk — cross-refer [[F0.4]] 0.7 for auto-PEEP and breath stacking, which is the mechanism that arrests intubated asthmatics.
+
+### 0.1.3 Mx – Chronic/long-term
+**Every acute presentation is a preventer failure until proven otherwise.** Check inhaler technique in person, review preventer adherence, issue or update a written asthma action plan, arrange GP follow-up within days, and address trigger exposure and smoking. Cross-refer [[15_04b_Paeds_-_Asthma_in_Children]] for children.
+
+---
+
+## 0.2 Acute Exacerbation of COPD
+
+**D:** Acute worsening of respiratory symptoms in established COPD beyond normal day-to-day variation, requiring a change in therapy.
+
+**R/Causes:** Viral and bacterial respiratory infection (the majority), air pollution and smoke, non-adherence, and the mimics that must be excluded — pneumonia, pulmonary embolism, pneumothorax, heart failure, arrhythmia.
+
+**A/P:** Increased airway inflammation and secretions → worsened airflow limitation and gas trapping → increased work of breathing on already limited reserve → **hypercapnic respiratory failure** in those with severe disease. Chronic CO₂ retention is metabolically compensated by renal bicarbonate retention, so the chronic retainer has a raised bicarbonate with a near-normal pH; an **acute** rise in CO₂ outstrips this and the pH falls.
+
+> [!danger] Controlled oxygen therapy — and why the usual explanation is wrong
+> Excess oxygen worsens hypercapnia in COPD, but the mechanism is mostly **not** "loss of hypoxic drive". The dominant mechanisms are **release of hypoxic pulmonary vasoconstriction worsening V/Q mismatch**, and the **Haldane effect**, where oxygenated haemoglobin releases CO₂. Reduced respiratory drive contributes only modestly.
+> Practically: titrate oxygen to a **target range**, do not withhold it from a hypoxic patient, and recheck a gas after any change. `UNVERIFIED — the target saturation range in COPD and the delivery devices used to achieve it require verification against TSANZ oxygen guidance; no range is stated here.`
+
+> [!tip] When to add antibiotics
+> Increased dyspnoea, increased sputum **volume**, and increased sputum **purulence** — the Anthonisen criteria. Purulence is the most useful of the three. Not every exacerbation is bacterial and not every exacerbation needs an antibiotic. `UNVERIFIED — the number of criteria required and the recommended agents come from eTG Antibiotic.`
+
+> [!warning] NIV in hypercapnic acidosis
+> BiPAP has a strong evidence base in acute hypercapnic exacerbations with respiratory acidosis, reducing intubation and mortality. Start it early rather than as a last measure, and set explicit review criteria — cross-refer [[F0.4]] 0.7. Document a **ceiling of care and resuscitation status** early, because a patient with severe COPD deteriorating on NIV forces that conversation and it is better held before the crisis.
+
+**S/Smx:** Increased dyspnoea, cough, sputum change, wheeze, accessory muscle use, pursed-lip breathing, tachypnoea. In hypercapnia: drowsiness, confusion, headache, flap, bounding pulse. Peripheral oedema suggests cor pulmonale.
+
+**Ix:** ABG (*why:* the essential test — separates hypoxic from hypercapnic failure and distinguishes acute from chronic retention using the bicarbonate, which determines whether NIV is needed; *what:* pH, pCO₂, bicarbonate). CXR (*why:* excludes the pneumonia, pneumothorax and pulmonary oedema that mimic and complicate exacerbation, and unlike asthma it is routinely indicated here; *what:* consolidation, pneumothorax, hyperinflation, oedema). ECG (*why:* arrhythmia and ischaemia both precipitate and complicate; *what:* atrial fibrillation, right heart strain, ischaemia). FBC, UEC, CRP (*why:* baseline, infection marker and electrolyte derangement from beta-agonists and steroids; *what:* leucocytosis, low potassium). Sputum culture in treatment failure or known resistant organisms (*why:* directs therapy where empirical treatment fails; *what:* organism). D-dimer or CTPA where PE is plausible (*why:* PE is a well-recognised and frequently missed cause of apparent COPD exacerbation; *what:* filling defect). BNP where heart failure is a differential (*why:* the two coexist and present identically; *what:* elevation — cross-refer [[F0.3]] 0.3).
+
+### 0.2.1 Mx – Immediate
+Controlled oxygen to target with a repeat gas after any change. Inhaled bronchodilators. Systemic corticosteroid. Antibiotics where the criteria are met. **NIV early for hypercapnic acidosis.** Treat the precipitant.
+
+### 0.2.2 Mx – Definitive
+Continued treatment with weaning of NIV and oxygen. Intubation where NIV fails and it is consistent with the patient's goals of care.
+
+### 0.2.3 Mx – Chronic/long-term
+Smoking cessation — the only intervention that alters the natural history. Pulmonary rehabilitation, vaccination, inhaler technique review, written action plan, assessment for long-term oxygen therapy, and an advance care planning conversation. Cross-refer [[02_Respiratory]] and [[19_General_Practice_and_Preventive_Medicine]] Smoking Cessation.
+
+---
+
+## 0.3 Acute Pulmonary Oedema
+
+**D:** Accumulation of fluid in the alveoli and interstitium, cardiogenic when driven by raised pulmonary capillary hydrostatic pressure and non-cardiogenic when driven by increased permeability.
+
+**A/P:** *Cardiogenic:* Left ventricular failure or valvular disease → raised left atrial and pulmonary venous pressure → hydrostatic pressure exceeds oncotic → transudation into interstitium then alveoli. *Non-cardiogenic:* Endothelial and epithelial injury → increased permeability → protein-rich exudate floods alveoli at a normal filling pressure — this is ARDS, covered in 0.4.
+
+> [!tip] Sympathetic crashing acute pulmonary oedema (SCAPE)
+> The hypertensive, distressed, acutely flash-pulmonary-oedema patient is a distinct and common presentation. It is driven by **afterload and redistribution rather than volume overload** — these patients are frequently euvolaemic or even dry. The treatment is **aggressive nitrate-mediated afterload reduction plus NIV**, not large-dose diuresis. Recognising it changes the first fifteen minutes substantially.
+
+> [!warning] Diuretics are not the first move
+> Sit the patient up, give oxygen, start NIV, and give nitrates. Diuretics have a role in the genuinely fluid-overloaded patient but reaching for frusemide first and nitrates late is the commonest management error in this presentation. `UNVERIFIED — GTN dosing and titration, and frusemide dosing, are omitted; obtain from eTG Cardiovascular and local protocol.`
+
+Cardiogenic shock — the **hypotensive**, hypoperfused subset — is a different entity with different management and is covered in [[F0.3]] 0.3. The distinction is the blood pressure.
+
+**S/Smx:** Acute severe dyspnoea, orthopnoea, paroxysmal nocturnal dyspnoea, distress, sweating, widespread inspiratory crackles, wheeze, pink frothy sputum in florid cases, raised JVP, third heart sound.
+
+**Ix:** ECG (*why:* identifies the STEMI or arrhythmia that precipitated it and converts this into a reperfusion emergency; *what:* ST elevation, arrhythmia). CXR (*why:* confirms and excludes mimics, though radiographic changes lag clinical ones; *what:* upper lobe diversion, Kerley B lines, perihilar bat-wing shadowing, effusions). Troponin (*why:* identifies ischaemic precipitant, interpreted alongside the fact that it rises in strain alone; *what:* elevation with trend). Bedside echocardiography (*why:* distinguishes systolic from diastolic failure and identifies acute valvular catastrophe such as papillary muscle rupture, which is surgical; *what:* contractility, valve lesions, regional wall motion). VBG with lactate (*why:* separates the congested-but-perfused patient from the shocked one, which is the treatment-defining question; *what:* raised lactate). UEC (*why:* renal function governs diuretic and ACE inhibitor decisions; *what:* creatinine, potassium). BNP or NT-proBNP where diagnosis is uncertain (*why:* a normal level makes heart failure unlikely in the undifferentiated breathless patient; *what:* elevation — `UNVERIFIED — cut-offs`).
+
+### 0.3.1 Mx – Immediate
+Sit upright. High-flow oxygen. **CPAP or BiPAP early.** Nitrates for the hypertensive patient. IV access, monitoring, catheter. Treat arrhythmia and arrange urgent reperfusion for STEMI.
+
+### 0.3.2 Mx – Definitive
+Treat the precipitant. Cardiology involvement. Diuresis where genuinely overloaded, with daily weights and fluid balance.
+
+### 0.3.3 Mx – Chronic/long-term
+Guideline-directed heart failure therapy, cardiac rehabilitation, fluid and salt advice, daily weights with an action plan, device assessment, and advance care planning.
+
+---
+
+## 0.4 Severe Community-Acquired Pneumonia and ARDS
+
+**D:** Pneumonia requiring intensive support, and acute respiratory distress syndrome — acute diffuse inflammatory lung injury with bilateral infiltrates and hypoxaemia not explained by cardiac failure or fluid overload.
+
+**A/P:** Pathogen invades the alveolus → neutrophilic inflammatory response → alveolar exudate impairs gas exchange and V/Q matching. In ARDS the response becomes dysregulated and generalised → **diffuse alveolar damage with capillary leak of protein-rich fluid at normal filling pressures** → loss of surfactant, alveolar collapse, stiff non-compliant lungs and refractory hypoxaemia. Because aerated lung volume is markedly reduced — the "baby lung" — normal tidal volumes overdistend what remains, which is the entire rationale for low tidal volume ventilation.
+
+> [!tip] Severity scoring in Australia
+> **SMART-COP** was developed in Australia specifically to predict the need for intensive respiratory or vasopressor support, and is widely used here. **CURB-65** predicts mortality and guides admission. **CORB** is the simpler Australian alternative. These answer different questions — one predicts ICU need, the other predicts death — and it is worth knowing which is which. `UNVERIFIED — the components, weightings and score thresholds for SMART-COP, CORB and CURB-65 all require verification against eTG Antibiotic.`
+
+> [!warning] Atypical and Australian-specific pathogens
+> Consider *Legionella* (particularly with hyponatraemia, diarrhoea and confusion), *Mycoplasma*, and in northern Australia and the tropics **melioidosis** (*Burkholderia pseudomallei*), which is a genuine and frequently missed cause of severe CAP with a distinct antibiotic requirement. Travel, occupational and exposure history matters. Influenza and COVID-19 remain relevant. `UNVERIFIED — regionally specific empirical regimens from eTG Antibiotic.`
+
+> [!info] ARDS definition and management principles
+> Defined by timing after an insult, bilateral opacities, absence of a purely cardiac explanation, and severity graded by oxygenation. `UNVERIFIED — the Berlin definition timing window and PaO₂/FiO₂ severity thresholds require verification.` Management is supportive: **lung-protective low tidal volume ventilation**, appropriate PEEP, conservative fluid strategy, prone positioning for severe hypoxaemia, and treatment of the underlying cause. Cross-refer [[F0.4]] 0.7.
+
+**S/Smx:** Fever, cough, purulent sputum, pleuritic chest pain, dyspnoea, tachypnoea, hypoxia, focal crackles and bronchial breathing. In severe disease, confusion, hypotension and multi-organ dysfunction. ARDS presents as refractory hypoxia with diffuse infiltrates and rapidly rising oxygen requirement.
+
+**Ix:** CXR (*why:* confirms consolidation and identifies the bilateral infiltrates defining ARDS, effusion and abscess; *what:* consolidation, bilateral opacities, effusion). ABG with PaO₂/FiO₂ ratio (*why:* grades ARDS severity and identifies ventilatory failure; *what:* refractory hypoxia, the ratio). Blood cultures before antibiotics (*why:* bacteraemic pneumonia carries worse prognosis and the isolate directs therapy; *what:* organism). Sputum culture and respiratory viral and atypical PCR (*why:* identifies influenza, COVID-19, *Legionella*, *Mycoplasma* and melioidosis, several of which need specific agents; *what:* pathogen). Urinary antigen for *Legionella* and pneumococcus (*why:* rapid, remains positive after antibiotics, and *Legionella* has public health implications requiring notification; *what:* antigen). FBC, UEC, LFT, CRP, lactate (*why:* populate the severity scores and identify organ dysfunction; *what:* urea for CURB-65, sodium for *Legionella*, lactate). Bedside echocardiography (*why:* excludes the cardiac cause that would make bilateral infiltrates pulmonary oedema rather than ARDS; *what:* preserved LV function and filling). CT chest where complications are suspected (*why:* empyema, abscess and cavitation change management to include drainage; *what:* loculated collection, cavity).
+
+### 0.4.1 Mx – Immediate
+Oxygen, sepsis pathway with cultures and time-critical antibiotics, fluid resuscitation with reassessment, and early ICU involvement in severe disease. Cross-refer [[F0.3]] 0.7.
+
+### 0.4.2 Mx – Definitive
+Targeted antibiotics on culture. Drainage of empyema. Lung-protective ventilation and prone positioning for ARDS. Conservative fluid strategy once resuscitated.
+
+### 0.4.3 Mx – Chronic/long-term
+Repeat imaging to confirm resolution, particularly in smokers over 50, where non-resolving consolidation may be an underlying malignancy. Vaccination review, smoking cessation, and pulmonary rehabilitation. Post-intensive-care follow-up for ARDS survivors.
+
+---
+
+## 0.5 Neuromuscular Respiratory Failure
+
+**D:** Ventilatory failure caused by weakness of the respiratory muscles rather than by lung disease.
+
+**R/Causes:** Guillain–Barré syndrome, myasthenic crisis, motor neurone disease, botulism, high cervical spinal cord injury, critical illness neuromyopathy, organophosphate poisoning's intermediate syndrome — cross-refer [[F0.1]] 0.3, tick paralysis, and periodic paralyses.
+
+**A/P:** Respiratory muscle weakness → reduced tidal volume, compensated initially by increased rate → progressive atelectasis and reduced cough → secretion retention and aspiration → **the lungs are normal, so gas exchange remains adequate until ventilation fails**, at which point CO₂ rises abruptly and the patient decompensates over a short period rather than gradually.
+
+> [!danger] Oximetry and blood gases will reassure you until the patient arrests
+> Because the lung parenchyma is normal, **oxygen saturation stays normal and the CO₂ stays normal until very late.** Do not use them to monitor these patients. **Serial forced vital capacity and negative inspiratory force are the monitoring parameters**, measured regularly, with intubation planned electively on a declining trend rather than performed as an emergency.
+> `UNVERIFIED — the FVC and NIF thresholds triggering ICU admission and intubation, sometimes taught as the "20/30/40 rule", require verification against a current neurology or intensive care source. No values are stated here.`
+
+> [!tip] Bedside markers when spirometry is unavailable
+> **Single breath count** — how far the patient can count on one breath. **Inability to lift the head from the pillow** correlates with diaphragmatic weakness. **Staccato speech** with frequent pauses. Bulbar involvement — swallowing difficulty, weak cough, pooling secretions, nasal regurgitation — signals aspiration risk independent of respiratory muscle strength and lowers the threshold for airway protection.
+
+> [!warning] Ascending weakness with areflexia
+> Ascending symmetrical weakness with **loss of reflexes** following a diarrhoeal or respiratory illness is Guillain–Barré until proven otherwise. Fluctuating weakness worse with sustained effort, with ptosis and diplopia, is myasthenia. Both can present in respiratory crisis. Certain drugs precipitate myasthenic crisis — aminoglycosides, macrolides, quinolones, magnesium, beta-blockers — check the chart before adding anything.
+
+**S/Smx:** Dyspnoea often only when supine (orthopnoea from diaphragmatic weakness), staccato speech, weak cough, use of accessory muscles, paradoxical abdominal movement, tachypnoea with shallow breaths, anxiety, and the underlying neurological signs.
+
+**Ix:** Serial forced vital capacity and negative inspiratory force (*why:* these are the only parameters that detect deterioration in time to intubate electively, and the trend matters more than any single value; *what:* declining FVC, weakening NIF). ABG, interpreted with caution (*why:* useful for confirming established hypercapnia but dangerously reassuring in the compensating patient — a normal gas does not mean a safe patient; *what:* late rise in pCO₂). Bulbar function assessment including swallow (*why:* aspiration risk is independent of respiratory muscle strength and changes the airway decision; *what:* weak cough, pooling secretions, nasal regurgitation). Nerve conduction studies and EMG (*why:* confirm and localise the lesion, distinguishing demyelinating from axonal and neuromuscular junction pathology; *what:* conduction block, decrement on repetitive stimulation). Lumbar puncture in suspected Guillain–Barré (*why:* albuminocytological dissociation supports the diagnosis, though it may be normal in the first week; *what:* raised protein with normal cell count). Acetylcholine receptor and MuSK antibodies (*why:* confirm myasthenia; *what:* positive antibodies). CXR (*why:* atelectasis and aspiration; *what:* collapse, consolidation).
+
+### 0.5.1 Mx – Immediate
+Sit upright, oxygen, and **monitor FVC serially rather than saturation.** Nil by mouth if bulbar involvement. Early ICU and neurology involvement. Plan intubation electively on a declining trend. Avoid precipitating drugs in myasthenia. `UNVERIFIED — note that suxamethonium and other agents carry specific hazards in some neuromuscular conditions; confirm with anaesthetics before any rapid sequence induction in these patients.`
+
+### 0.5.2 Mx – Definitive
+Disease-specific: immunoglobulin or plasma exchange for Guillain–Barré and myasthenic crisis, with corticosteroid and immunosuppressive decisions made by neurology. VTE prophylaxis, which is easily forgotten in a paralysed patient.
+
+### 0.5.3 Mx – Chronic/long-term
+Neurorehabilitation, respiratory physiotherapy, home NIV assessment in progressive disease, and advance care planning in motor neurone disease.
+
+---
+
+## 0.6 Acute Severe Headache
+
+**D:** Headache of abrupt onset or unusual severity requiring exclusion of serious secondary causes before attributing it to a primary headache disorder.
+
+**A/P:** Pain-sensitive intracranial structures are the meninges, large vessels and venous sinuses — the brain parenchyma itself has no nociceptors. Blood, pus, traction, distension or inflammation involving these structures produces headache, which is why subarachnoid haemorrhage, meningitis, venous sinus thrombosis and arterial dissection all present this way.
+
+> [!danger] Thunderclap headache
+> Maximal intensity within seconds to a minute. **Subarachnoid haemorrhage until proven otherwise.** The differential also includes cerebral venous sinus thrombosis, cervical artery dissection, reversible cerebral vasoconstriction syndrome, pituitary apoplexy and posterior reversible encephalopathy syndrome — all serious, all requiring imaging.
+> The investigation pathway is **non-contrast CT brain first**, with sensitivity highest in the earliest hours and declining thereafter, followed by **lumbar puncture for xanthochromia** if CT is negative and suspicion remains. `UNVERIFIED — the time window within which a negative CT is considered sufficient to exclude SAH, and the interval after headache onset before LP can reliably detect xanthochromia, both require verification and both have changed with modern scanners.`
+
+> [!tip] Red flags — SNOOP
+> **S**ystemic features (fever, weight loss, malignancy, immunosuppression, pregnancy) · **N**eurological signs or reduced consciousness · **O**nset sudden or thunderclap · **O**lder age at first onset · **P**attern change, **P**ositional, **P**apilloedema, **P**recipitated by Valsalva or exertion.
+
+> [!warning] Causes that are missed because the imaging is normal
+> **Giant cell arteritis** in the over-50s — jaw claudication, scalp tenderness, visual symptoms, raised inflammatory markers; treat with steroids immediately on suspicion to prevent blindness, before biopsy. **Cerebral venous sinus thrombosis** — often needs venography rather than plain CT, and think of it in pregnancy, postpartum, dehydration, thrombophilia and combined oral contraceptive use. **Carbon monoxide poisoning** — headache with nausea in multiple household members, particularly in winter. **Acute angle closure glaucoma** — headache with a red painful eye, halos and a fixed mid-dilated pupil; cross-refer [[E1]].
+
+**S/Smx:** Character, onset speed, time to peak, positional and exertional features, associated neurological symptoms, fever, neck stiffness, visual symptoms and systemic features. A prior identical headache pattern is reassuring; a first or worst is not.
+
+**Ix:** Non-contrast CT brain (*why:* first-line for haemorrhage and mass effect, and its sensitivity for SAH is time-dependent, so the interval since onset changes the interpretation; *what:* subarachnoid blood, haemorrhage, mass, hydrocephalus). Lumbar peuncture with xanthochromia where CT is negative and SAH remains a concern (*why:* detects the blood breakdown products that CT misses at later intervals, and gives the CSF findings for meningitis; *what:* xanthochromia, red cells that do not clear across tubes, pleocytosis). CT or MR venography where venous sinus thrombosis is suspected (*why:* plain CT frequently misses it and the treatment is anticoagulation; *what:* filling defect in a sinus). CT or MR angiography for suspected dissection or aneurysm (*why:* defines the vascular lesion and directs neurosurgical or interventional management; *what:* dissection flap, aneurysm). ESR and CRP in the over-50s (*why:* giant cell arteritis is a treatable cause of irreversible blindness and the markers are usually markedly raised; *what:* elevated inflammatory markers). Blood pressure and fundoscopy (*why:* malignant hypertension and papilloedema change the pathway entirely; *what:* severe hypertension, disc swelling). Carboxyhaemoglobin where the history fits (*why:* not detected by standard oximetry and easily missed; *what:* elevated level).
+
+### 0.6.1 Mx – Immediate
+Analgesia and antiemetic. Urgent imaging where red flags are present. Immediate steroids for suspected giant cell arteritis. Antibiotics and antivirals immediately for suspected meningitis or encephalitis — before imaging or LP. Cross-refer [[F0.3]] 0.9.
+
+### 0.6.2 Mx – Definitive
+Cause-specific. Neurosurgical referral for aneurysmal SAH. Anticoagulation for venous sinus thrombosis. Cross-refer [[D1]] Headache & Meningism and [[04_Neurology]].
+
+### 0.6.3 Mx – Chronic/long-term
+Primary headache management and preventer therapy where appropriate. **Medication overuse headache** should be considered in anyone with frequent headache taking regular analgesia.
+
+---
+
+## 0.7 Major Head Injury
+
+**D:** Traumatic brain injury with reduced conscious state, focal neurological deficit, or a significant intracranial lesion.
+
+**A/P:** **Primary injury** occurs at the moment of impact and is not modifiable. **Secondary injury** develops over the following hours from hypoxia, hypotension, hypercapnia, hyperthermia, hypoglycaemia, seizures and raised intracranial pressure — and it is entirely modifiable. This distinction is the whole of acute management.
+The skull is a fixed box: as a haematoma or oedema expands, compensation by displacement of CSF and venous blood is exhausted → intracranial pressure rises steeply → **cerebral perfusion pressure, which is mean arterial pressure minus intracranial pressure, falls** → ischaemia → further oedema → herniation.
+
+> [!danger] Hypoxia and hypotension each independently worsen outcome
+> A single episode of hypotension or hypoxia in a head-injured patient substantially increases mortality. **The most valuable thing an intern does for a severe head injury is maintain oxygenation and blood pressure**, not obtain the scan faster. `UNVERIFIED — target blood pressure, cerebral perfusion pressure and oxygenation values require verification against current neurotrauma guidance.`
+
+> [!warning] The Cushing response is late
+> Hypertension, bradycardia and irregular respiration indicate critically raised intracranial pressure and impending herniation. **Do not wait for it.** A falling GCS, a new unilateral fixed dilated pupil, or new lateralising weakness are earlier and demand immediate action.
+
+> [!tip] GCS and what it means practically
+> Score eye opening, verbal and motor responses separately and **document the components, not just the total** — a total of 9 can mean very different things. Motor score carries the most prognostic weight. A GCS of 8 or less generally indicates inability to protect the airway and is a conventional intubation threshold, though the decision is clinical rather than purely numerical.
+
+**S/Smx:** Reduced or fluctuating consciousness, vomiting, seizure, focal deficit, pupillary asymmetry, and signs of base of skull fracture — periorbital and mastoid bruising, CSF rhinorrhoea or otorrhoea, haemotympanum. A lucid interval followed by deterioration classically suggests extradural haematoma.
+
+**Ix:** Urgent non-contrast CT brain (*why:* identifies the surgically evacuable haematoma, which is the time-critical decision; *what:* extradural, subdural, contusion, midline shift, effacement of basal cisterns). Cervical spine imaging (*why:* significant head injury is associated with cervical spine injury and both must be assumed until cleared; *what:* fracture, malalignment). Bedside glucose (*why:* hypoglycaemia mimics and worsens brain injury and is instantly correctable; *what:* low glucose). Coagulation profile and platelets, with anticoagulant and antiplatelet history (*why:* anticoagulation dramatically increases haematoma expansion and mandates urgent reversal; *what:* INR, agent taken and time of last dose). ABG (*why:* both hypoxia and hypercapnia worsen secondary injury, and CO₂ affects cerebral blood volume directly; *what:* pO₂, pCO₂). Alcohol and toxicology (*why:* intoxication confounds GCS assessment but must never be assumed to be the cause of a reduced conscious state; *what:* level, with the caveat). Serial neurological observations (*why:* deterioration over hours is what detects an expanding lesion; *what:* GCS trend, pupils, lateralising signs).
+
+### 0.7.1 Mx – Immediate
+A–E with cervical spine protection. Intubate for airway protection where indicated. Maintain oxygenation and blood pressure. Head up. Avoid hypotonic fluids. Treat seizures. Correct coagulopathy urgently. **Urgent CT and neurosurgical referral.** Osmotherapy for raised intracranial pressure is a senior decision. `UNVERIFIED — mannitol and hypertonic saline dosing and indications require verification.`
+
+### 0.7.2 Mx – Definitive
+Neurosurgical evacuation where indicated. ICU management with intracranial pressure monitoring in selected patients. Retrieval to a neurosurgical centre.
+
+### 0.7.3 Mx – Chronic/long-term
+Rehabilitation, cognitive and behavioural sequelae assessment, driving and return-to-work advice, and family support.
+
+---
+
+## 0.8 Minor Head Injury
+
+**D:** Head injury with a normal or near-normal conscious state, where the clinical question is whether imaging is required and whether the patient can be safely discharged.
+
+**A/P:** The great majority have no intracranial injury. A small proportion have a lesion that will expand. Validated decision rules exist precisely because clinical judgement alone either over-scans, exposing large numbers to radiation, or misses the small number who deteriorate.
+
+> [!tip] Decision rules
+> **Adults:** the **Canadian CT Head Rule** is the most widely used and validated, applied to patients with witnessed loss of consciousness, amnesia or disorientation. The New Orleans Criteria are an alternative. Most Australian health services have adapted one of these locally.
+> **Children:** Australian practice uses the **PREDICT** guideline, which incorporates and adapts the PECARN rule and explicitly builds in a period of structured observation as an alternative to immediate imaging — reflecting the greater radiation sensitivity of children.
+> `UNVERIFIED — the specific criteria, age bands and thresholds within the Canadian CT Head Rule and the PREDICT guideline require verification; do not reconstruct them from memory, as the exclusion criteria are as important as the inclusion criteria and are easily misremembered.`
+
+> [!danger] Anticoagulation and antiplatelet therapy change everything
+> An elderly patient on warfarin, a direct oral anticoagulant or clopidogrel who has had a seemingly trivial fall can develop a significant subdural or intracerebral haemorrhage. **The threshold for imaging is much lower and most decision rules do not apply to them.** Delayed haemorrhage occurs, so the observation and discharge advice must account for it.
+
+> [!warning] Discharge advice must be written and given to a responsible adult
+> Verbal advice to a person who has just sustained a head injury and may have impaired memory is not adequate. Written head injury advice covering warning symptoms, the need for someone to stay with them, and when to return.
+
+**S/Smx:** Brief loss of consciousness, amnesia for the event, headache, nausea, dizziness, and normal or near-normal GCS on assessment. Persistent vomiting, worsening headache, seizure or any focal deficit moves this out of the minor category.
+
+**Ix:** Application of a validated decision rule (*why:* it determines whether imaging is required and is more accurate and more defensible than unstructured judgement; *what:* rule criteria met or not met). CT brain where the rule indicates (*why:* identifies the small number with a lesion needing intervention or observation; *what:* haemorrhage, fracture, contusion). Coagulation profile where anticoagulated (*why:* guides reversal and the level of observation; *what:* INR, agent). Bedside glucose (*why:* excludes hypoglycaemia as the cause of the fall rather than the consequence; *what:* low glucose). ECG and postural blood pressure in an older patient who fell (*why:* the head injury may be the consequence of syncope, arrhythmia or postural hypotension, and treating only the head misses the cause; *what:* arrhythmia, postural drop). Cervical spine assessment (*why:* co-existing injury; *what:* midline tenderness, restricted movement).
+
+### 0.8.1 Mx – Immediate
+Assess GCS and apply the decision rule. Analgesia. Observe for a defined period where indicated. Image where the rule requires it.
+
+### 0.8.2 Mx – Definitive
+Discharge with written advice and a responsible adult, or admit for observation. **In an older patient who fell, investigate why they fell** — cross-refer [[18_Geriatrics_and_Older_Persons_Health]].
+
+### 0.8.3 Mx – Chronic/long-term
+Post-concussive symptoms — headache, poor concentration, irritability, sleep disturbance, dizziness — are common and usually self-limiting. Graduated return to work, study and sport with clear advice about not returning while symptomatic. Cross-refer [[04_Neurology]] Concussion and Post-Concussive Syndrome.
+
+---
+
+## 0.9 Acute Renal Colic
+
+**D:** Severe loin-to-groin pain from acute upper urinary tract obstruction, most often by a calculus.
+
+**R:**
+*Unmodifiable:* Male sex, previous stones, family history, primary hyperparathyroidism, renal tubular acidosis, anatomical abnormalities.
+*Modifiable:* Low fluid intake, hot climate and occupational dehydration, high dietary sodium, oxalate and animal protein, obesity, and drugs that promote stone formation.
+
+**A/P:** Stone lodges at a point of narrowing — pelviureteric junction, pelvic brim where the ureter crosses the iliac vessels, or vesicoureteric junction → obstruction → increased intraluminal and renal pelvic pressure with ureteric smooth muscle spasm → visceral pain referred to the dermatomes sharing the spinal segment, producing the characteristic loin-to-groin radiation. Local prostaglandin release contributes to the pressure and the pain, which is why NSAIDs work well.
+
+> [!danger] Two things must be excluded before accepting renal colic
+> **Obstruction with infection is a urological emergency** requiring decompression, not just antibiotics — fever, rigors or systemic upset with an obstructing stone. Cross-refer [[F0.3]] 0.10.
+> **A ruptured or leaking abdominal aortic aneurysm presents as renal colic.** In any patient over 50, particularly with a first ever episode, no prior stone history, or vascular risk factors, exclude it before settling on the diagnosis. This is a well-documented and lethal misdiagnosis.
+
+> [!tip] Analgesia
+> **NSAIDs are first-line and outperform opioids** in renal colic, reducing both pain and the ureteric smooth muscle contribution, provided renal function and other contraindications permit. Opioids are added rather than used alone. `UNVERIFIED — agent and dose from eTG Analgesic.`
+
+> [!warning] When it is not simply managed conservatively
+> Urgent urology involvement for: infection with obstruction, acute kidney injury, a solitary or transplanted kidney, bilateral obstruction, intractable pain or vomiting, or failure to progress. Stone size influences the likelihood of spontaneous passage. `UNVERIFIED — stone size thresholds for spontaneous passage and for intervention require verification.`
+
+**S/Smx:** Sudden severe colicky loin pain radiating to the groin, testis or labium, with restlessness — the patient cannot lie still, which distinguishes it from peritonitis where the patient lies motionless. Nausea, vomiting, haematuria, urinary frequency and urgency when the stone is at the vesicoureteric junction.
+
+**Ix:** Non-contrast CT of the kidneys, ureters and bladder (*why:* the reference standard — identifies stone position and size, degree of obstruction, and simultaneously evaluates the alternative diagnoses including aneurysm and appendicitis; *what:* calculus, hydronephrosis, perinephric stranding). Urinalysis (*why:* haematuria supports the diagnosis but is absent in a meaningful minority, and nitrites or leucocytes raise the possibility of infection; *what:* blood, leucocytes, nitrites). UEC (*why:* identifies acute kidney injury from obstruction and governs NSAID safety; *what:* rising creatinine). FBC and CRP (*why:* infection screening; *what:* leucocytosis). Pregnancy test in any woman of reproductive age (*why:* ectopic pregnancy is a critical differential and pregnancy changes imaging to ultrasound; *what:* positive test). Ultrasound as first-line in pregnancy and in young patients where radiation is a concern (*why:* avoids radiation and detects hydronephrosis, though it is less sensitive for the stone itself; *what:* hydronephrosis). Blood cultures if febrile (*why:* obstructed infected system; *what:* organism). Stone analysis and metabolic screen where recurrent (*why:* directs prevention; *what:* stone composition, calcium, urate, parathyroid hormone).
+
+### 0.9.1 Mx – Immediate
+NSAID-based analgesia with an opioid added as needed, antiemetic, fluids. Imaging. **Exclude infection and aneurysm.** Urology referral where indicated.
+
+### 0.9.2 Mx – Definitive
+Conservative management with analgesia and follow-up for small stones likely to pass. Medical expulsive therapy is used in some settings, with mixed evidence. Ureteroscopy, lithotripsy or stent for stones that will not pass, and emergency decompression for infection.
+
+### 0.9.3 Mx – Chronic/long-term
+Fluid intake advice, dietary modification based on stone composition, treatment of underlying metabolic causes, and follow-up imaging. Cross-refer [[H4]] Renal Colic.
+
+---
+
+## 0.10 Tonsillitis and Peritonsillar Abscess (Quinsy)
+
+**D:** Acute inflammation of the tonsils, and its suppurative complication with pus collecting in the peritonsillar space.
+
+**A/P:** Viral or bacterial infection of tonsillar tissue → inflammation, exudate and lymphoid hyperplasia. Where bacterial infection spreads beyond the tonsillar capsule → pus collects in the peritonsillar space → **unilateral swelling displacing the tonsil and uvula, with trismus from irritation of the pterygoid muscles.** Group A *Streptococcus* additionally carries the risk of immune-mediated sequelae — acute rheumatic fever and post-streptococcal glomerulonephritis.
+
+> [!danger] The Australian antibiotic threshold is different, and this matters
+> **Acute rheumatic fever and rheumatic heart disease occur at among the highest rates in the world in Aboriginal and Torres Strait Islander populations**, particularly in remote and northern communities. In these settings, and in others at high risk, **antibiotic treatment of sore throat is recommended much more readily** than the score-based approach used in low-risk urban populations, precisely to prevent acute rheumatic fever.
+> Applying a low-risk-population algorithm to a high-risk patient is a clinically significant error and a recognised exam discriminator. `UNVERIFIED — the specific high-risk criteria, geographic definitions and recommended regimens require verification against eTG Antibiotic and the Australian guideline for prevention, diagnosis and management of acute rheumatic fever.`
+
+> [!tip] Quinsy — the discriminating features
+> **Trismus** (difficulty opening the mouth), **"hot potato" or muffled voice**, unilateral severe pain often referred to the ear, drooling, and on examination **unilateral peritonsillar swelling with deviation of the uvula away from the affected side.** Bilateral tonsillitis without these features is not quinsy. Treatment is **drainage** — needle aspiration or incision — plus antibiotics; antibiotics alone are usually insufficient.
+
+> [!warning] The dangerous mimics
+> **Epiglottitis** — rapid onset, severe odynophagia out of proportion to visible findings, drooling, tripod posture, stridor, and a relatively normal-looking oropharynx. **Do not examine the throat of a child with suspected epiglottitis**; involve anaesthetics and ENT for examination in a controlled setting.
+> **Retropharyngeal abscess** — neck stiffness, refusal to move the neck, and a child who looks unwell.
+> **Infectious mononucleosis** — marked lymphadenopathy, splenomegaly, prolonged fatigue. **Do not give amoxicillin or ampicillin**, which produces a florid rash. Advise against contact sport while splenomegaly persists.
+> **Lemierre's syndrome** — septic thrombophlebitis of the internal jugular vein following oropharyngeal infection, with rigors and septic pulmonary emboli. Rare, easily missed, and lethal.
+
+**S/Smx:** Sore throat, odynophagia, fever, tender cervical lymphadenopathy, tonsillar enlargement with exudate. Absence of cough favours bacterial. In quinsy: unilateral severity, trismus, muffled voice, uvular deviation, drooling.
+
+**Ix:** Clinical assessment with a scoring tool such as Centor or FeverPAIN in low-risk populations (*why:* stratifies the probability of streptococcal infection and reduces unnecessary antibiotics, with the important caveat that it does not apply to high-risk populations; *what:* score components — `UNVERIFIED — thresholds`). Throat swab for culture, and rapid antigen testing where available (*why:* confirms group A *Streptococcus*, which matters most where rheumatic fever risk is high; *what:* GAS growth). FBC and monospot or EBV serology where mononucleosis is suspected (*why:* changes antibiotic choice and activity advice; *what:* atypical lymphocytes, positive serology). CRP (*why:* supports bacterial infection and tracks response; *what:* elevation). CT neck with contrast where deep neck space infection is suspected (*why:* distinguishes cellulitis from a drainable collection and defines its extent; *what:* rim-enhancing collection, airway compromise). Lateral soft tissue neck radiograph where epiglottitis or retropharyngeal abscess is considered and the patient is stable (*why:* supportive, though it must never delay airway management; *what:* thumbprint sign, widened prevertebral soft tissue).
+
+### 0.10.1 Mx – Immediate
+Analgesia and antipyretics — **adequate analgesia is the intervention that most improves symptoms and is often under-prescribed.** Encourage oral fluids; IV fluids where intake is inadequate. Antibiotics per the risk-stratified approach. Urgent ENT referral for quinsy, and urgent anaesthetic and ENT involvement for any suspicion of airway compromise or epiglottitis. Corticosteroids reduce symptoms in severe cases. `UNVERIFIED — antibiotic agents, doses and durations, and steroid indications and dosing, from eTG Antibiotic.`
+
+### 0.10.2 Mx – Definitive
+Drainage of quinsy. Admission for IV antibiotics and fluids where oral intake fails. Airway management in deep neck space infection.
+
+### 0.10.3 Mx – Chronic/long-term
+Tonsillectomy assessment for recurrent tonsillitis or recurrent quinsy against defined frequency criteria. **In high-risk populations, follow-up to complete the antibiotic course and consideration of secondary prophylaxis where acute rheumatic fever has occurred.** Cross-refer [[13_ENT]] and [[F4]] Neck Lumps.
+
+---
+
+> [!note] Cross-references
+> Cardiogenic shock, tamponade and massive PE → [[F0.3]] · Mechanical ventilation, auto-PEEP and NIV detail → [[F0.4]] 0.7 · Resuscitation algorithms → [[F0.4]] · Meningococcal sepsis → [[F0.3]] 0.9 · Headache differentials in full → [[D1]] · Renal colic in the urology context → [[H4]]
+
+
+<!-- ===== SOURCE: F0-3_Shock_Phenotypes_and_Sepsis_Syndromes.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Mechanism, haemodynamic reasoning and discriminators are reliable at intern level. **Every dose, threshold, reference range and timing figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** All fluid bolus volumes — adult and paediatric — all vasopressor and inotrope doses, all antibiotic regimens, and all steroid doses are omitted. Obtain them from your health network's protocols, eTG Antibiotic, the Australian Sepsis Clinical Care Standard, and for children the RCH guidelines.
+>
+> Sepsis definitions, SIRS, qSOFA and the source-based sepsis table are in [[A1]] 0.2–0.3 and are not restated here.
+
+---
+
+## 0.1 Shock — Recognition and Phenotype Framework
+
+**D:** Circulatory failure producing inadequate tissue oxygen delivery for metabolic demand, with cellular dysfunction that is initially reversible.
+
+**A/P:** Oxygen delivery is the product of cardiac output and arterial oxygen content. Cardiac output fails through one of four mechanisms → **not enough in the tank** (hypovolaemic), **the pump has failed** (cardiogenic), **something is blocking flow into or out of the heart** (obstructive), or **the pipes are too wide and leaking** (distributive). Each has a distinct haemodynamic signature, and the signature is what determines whether the treatment is fluid, an inotrope, a needle, or a vasopressor.
+
+> [!tip] The four phenotypes at the bedside
+> | | JVP / filling | Peripheries | Pulse pressure | Bedside echo | First move |
+> |---|---|---|---|---|---|
+> | **Hypovolaemic** | Low, flat, collapsible IVC | Cold, clammy | Narrow | Small hyperdynamic LV, collapsing IVC | Fluid |
+> | **Cardiogenic** | **Raised** | Cold, clammy, mottled | Narrow | Poor contractility, dilated LV | Inotrope, not volume |
+> | **Obstructive** | **Raised** | Cold | Narrow | Cause-specific (see 0.4, 0.5) | Relieve the obstruction |
+> | **Distributive** | Low or normal | **Warm early**, cold late | **Wide** | Hyperdynamic LV, low SVR | Fluid then vasopressor |
+
+> [!warning] The JVP does most of the work
+> **Cold and shut down with a flat JVP** → give fluid. **Cold and shut down with a raised JVP** → do not give more fluid; find out whether the pump has failed or something is obstructing it. Getting this one distinction right at the bedside separates appropriate resuscitation from causing pulmonary oedema.
+
+> [!danger] Mixed shock is the ward reality
+> A septic patient with ischaemic cardiomyopathy has both distributive and cardiogenic physiology. A trauma patient can have haemorrhagic and obstructive shock simultaneously. Treat the phenotype you can identify, reassess after every intervention, and get bedside echocardiography early rather than committing to a single mechanism.
+
+> [!warning] Blood pressure is a late and unreliable marker
+> Young patients, pregnant patients and children maintain blood pressure by vasoconstriction and tachycardia until compensation exhausts, then fall precipitously. **Hypotension is a late sign in all of them and a pre-terminal sign in a child.** Look instead at capillary refill, skin mottling, mental state, urine output, pulse pressure and lactate.
+
+**S/Smx:** Tachycardia, tachypnoea, narrowed pulse pressure, prolonged capillary refill, mottling, oliguria, altered mentation. Skin temperature and JVP are the two examination findings that phenotype it.
+
+**Ix:** Serial lactate (*why:* the most useful single marker of tissue hypoperfusion, and clearance over hours predicts outcome better than any single value; *what:* elevation, and trajectory on repeat). Bedside echocardiography (*why:* it phenotypes the shock in under a minute — contractility, RV size, pericardial fluid and IVC calibre answer the four-way question directly; *what:* poor LV function, dilated RV, pericardial effusion with chamber collapse, or an empty collapsing IVC). VBG with electrolytes (*why:* pH, potassium and lactate in minutes; *what:* metabolic acidosis, potassium derangement). FBC, UEC, LFT, coagulation profile (*why:* organ dysfunction assessment and identification of haemorrhage or coagulopathy; *what:* falling haemoglobin, rising creatinine and bilirubin, deranged INR). ECG (*why:* infarction, arrhythmia and the low-voltage or right-strain patterns of obstructive shock; *what:* ischaemia, electrical alternans, S1Q3T3 pattern). Troponin (*why:* raised in cardiogenic shock and also in PE from RV strain, so it must be interpreted with the echo; *what:* elevation). Blood cultures before antibiotics if infection is plausible (*why:* yield falls sharply after the first dose; *what:* organism). Erect CXR (*why:* pulmonary oedema, pneumothorax, effusion, consolidation; *what:* findings distinguishing cardiogenic from distributive). Group and hold or crossmatch (*why:* the delay in transfusion is the crossmatch, not the decision; *what:* units available).
+
+### 0.1.1 Mx – Immediate
+A–E, high-flow oxygen, two large-bore cannulae, continuous monitoring, catheter for hourly urine output. Fluid challenge with reassessment after each bolus in every phenotype except overt cardiogenic and tamponade. Escalate early — shock that does not respond to initial fluid is an ICU conversation, not a wait-and-see.
+
+### 0.1.2 Mx – Definitive
+Phenotype-specific, as set out in 0.2–0.11.
+
+### 0.1.3 Mx – Chronic/long-term
+Post-shock organ recovery, rehabilitation, and documentation of the precipitant and the response for future admissions.
+
+---
+
+## 0.2 Hypovolaemic Shock — Non-Haemorrhagic
+
+**D:** Shock from loss of intravascular volume without blood loss — fluid lost externally, or sequestered where the circulation cannot reach it.
+
+**R/Causes:** Gastroenteritis with high-volume vomiting and diarrhoea, high-output stoma, burns exudate, DKA and hyperosmolar states with osmotic diuresis, heat illness, pancreatitis, bowel obstruction, and third-spacing of any cause — cross-refer [[F0.2]] 0.10.
+
+**A/P:** Volume loss → falling preload → falling stroke volume → compensatory tachycardia and systemic vasoconstriction maintain blood pressure while diverting flow from skin, gut and kidney → **normal blood pressure with cold peripheries and oliguria is compensated shock** → compensation exhausts → hypotension, then anaerobic metabolism, lactic acidosis and organ failure.
+
+**S/Smx:** Thirst, dry mucous membranes, reduced skin turgor, flat neck veins, tachycardia, postural drop, cold clammy peripheries, prolonged capillary refill, oliguria, then confusion and hypotension. In an infant, sunken fontanelle, reduced tears and reduced wet nappies.
+
+> [!warning] The fluid balance chart lies in sequestration
+> A patient with bowel obstruction or pancreatitis may have litres sitting in bowel or peritoneum with nothing recorded as output. A "balanced" chart in these conditions is not evidence of adequate volume.
+
+> [!tip] Discriminating from cardiogenic shock
+> Both present cold and clammy. **The JVP separates them** — flat here, raised in cardiogenic. If the JVP is unhelpful, a small fluid bolus that improves perfusion confirms hypovolaemia; one that worsens oxygenation points the other way. This is why boluses are given small and reassessed rather than prescribed as litres.
+
+**Ix:** UEC (*why:* identifies the pattern and severity of losses and the renal consequence; *what:* urea raised disproportionately to creatinine, sodium reflecting the tonicity of what was lost). Serial lactate (*why:* quantifies whether compensation is failing when blood pressure is still normal; *what:* elevation and clearance). VBG (*why:* rapid pH, potassium and lactate; *what:* metabolic acidosis). FBC (*why:* haemoconcentration supports non-haemorrhagic loss, whereas a falling haemoglobin redirects you to bleeding; *what:* raised haematocrit versus falling haemoglobin). Bedside echocardiography or IVC assessment (*why:* a small hyperdynamic ventricle with a collapsing IVC confirms the phenotype and predicts fluid responsiveness; *what:* underfilled chambers). Hourly urine output (*why:* the most practical continuous marker of resuscitation adequacy; *what:* output per hour). Weight against a recent recorded weight in children (*why:* the most accurate deficit estimate available; *what:* percentage loss). Bedside glucose and ketones (*why:* DKA and hyperosmolar states present exactly this way; *what:* hyperglycaemia with ketosis — cross-refer [[F0.2]] 0.3).
+
+### 0.2.1 Mx – Immediate
+Isotonic crystalloid in boluses with reassessment after each. Balanced crystalloid is generally preferred to large-volume 0.9% sodium chloride, which produces a hyperchloraemic acidosis. `UNVERIFIED — bolus volumes for adults and children, and the number of boluses before escalating to vasopressor support, are omitted; use local and RCH guidance.` Replace ongoing losses in addition to the deficit.
+
+### 0.2.2 Mx – Definitive
+Stop the losses — antiemetics, relief of obstruction, treatment of DKA, burns management. Potassium and magnesium replacement, since both are lost with the fluid.
+
+### 0.2.3 Mx – Chronic/long-term
+Oral rehydration education and a documented plan for recurrent high-output losses.
+
+---
+
+## 0.3 Cardiogenic Shock — Acute Left Ventricular Failure
+
+**D:** Shock from primary pump failure, most often acute left ventricular failure, with pulmonary congestion and systemic hypoperfusion occurring together.
+
+**R:**
+*Unmodifiable:* Prior myocardial infarction, established heart failure, age, cardiomyopathy.
+*Modifiable:* Ischaemia, uncontrolled hypertension, arrhythmia, non-adherence to heart failure medications, excessive salt or fluid intake, negatively inotropic drugs, anaemia, thyrotoxicosis, intercurrent infection.
+
+**A/P:** Left ventricular contractility falls → stroke volume falls → left atrial and pulmonary venous pressures rise → hydrostatic pressure exceeds oncotic pressure in the pulmonary capillaries → **alveolar flooding and hypoxia**; simultaneously forward flow falls → systemic hypoperfusion with compensatory vasoconstriction → increased afterload → further reduction in stroke volume → a self-reinforcing spiral. This is why afterload and preload reduction, rather than fluid, is the therapeutic direction.
+
+**S/Smx:** Severe dyspnoea, orthopnoea, distress, pink frothy sputum in florid pulmonary oedema, widespread inspiratory crackles, wheeze ("cardiac asthma"), raised JVP, third heart sound, cold clammy mottled peripheries, oliguria, confusion.
+
+> [!danger] Cardiogenic shock is not the same as decompensated heart failure
+> Most acute pulmonary oedema is hypertensive and responds to preload and afterload reduction. **Cardiogenic shock is the subset that is hypotensive and hypoperfused**, and it has high mortality. The management diverges: nitrates and non-invasive ventilation for the hypertensive patient, inotropes and urgent revascularisation or mechanical support for the hypotensive one. Giving nitrates to a hypotensive cardiogenic shock patient is harmful.
+
+> [!warning] Diuretics are not the primary intervention in acute pulmonary oedema
+> The immediate benefit comes from **sitting the patient up, oxygen, non-invasive ventilation and nitrate-mediated preload and afterload reduction.** Many patients in acute cardiogenic pulmonary oedema are not volume-overloaded at all — the fluid has redistributed into the lungs rather than accumulated. Diuretics have a role, but reaching for frusemide first and nitrates late is a recognised error. `UNVERIFIED — all GTN, frusemide and inotrope doses and titration are omitted; obtain from eTG Cardiovascular and local protocol.`
+
+**Ix:** ECG immediately (*why:* identifies the STEMI or arrhythmia that converts this into a reperfusion or cardioversion emergency, which changes everything about the next twenty minutes; *what:* ST elevation, new left bundle branch block, arrhythmia). Troponin (*why:* distinguishes ischaemic precipitant from decompensation, though it rises in any myocardial strain; *what:* elevation with a rising trend). Erect CXR (*why:* confirms pulmonary oedema and excludes the pneumonia and pneumothorax that mimic it; *what:* upper lobe diversion, Kerley B lines, bat-wing perihilar shadowing, effusions, cardiomegaly). Bedside echocardiography (*why:* quantifies ventricular function, identifies acute valvular catastrophe such as papillary muscle rupture, and separates cardiogenic from other phenotypes; *what:* poor contractility, regional wall motion abnormality, severe regurgitation). VBG with lactate (*why:* distinguishes congested-but-perfused from genuinely shocked, which is the treatment-defining question; *what:* raised lactate, acidosis). BNP or NT-proBNP where the diagnosis is uncertain (*why:* a normal value makes heart failure unlikely, which is useful in the undifferentiated breathless patient; *what:* elevation — `UNVERIFIED — cut-offs require verification and are altered by renal impairment, obesity and atrial fibrillation`). UEC (*why:* renal function determines diuretic and ACE inhibitor decisions and cardiorenal syndrome is common; *what:* creatinine, potassium). FBC and TSH (*why:* anaemia and thyrotoxicosis are reversible precipitants; *what:* anaemia, suppressed TSH).
+
+### 0.3.1 Mx – Immediate
+Sit the patient upright. High-flow oxygen. Continuous monitoring and IV access. **Non-invasive ventilation (CPAP or BiPAP) early** — it reduces preload and afterload, recruits flooded alveoli and reduces intubation rates. Nitrates for the hypertensive patient. For the hypotensive shocked patient, inotropic support and urgent cardiology involvement instead. Treat arrhythmia. Urgent reperfusion if STEMI.
+
+### 0.3.2 Mx – Definitive
+Revascularisation for ischaemic cause. Mechanical circulatory support in selected patients. Correction of valvular catastrophe. ICU or coronary care management.
+
+### 0.3.3 Mx – Chronic/long-term
+Guideline-directed heart failure therapy, cardiac rehabilitation, fluid and salt advice, daily weights with an action plan, device therapy assessment, and a documented advance care plan where trajectory is poor.
+
+---
+
+## 0.4 Obstructive Shock — Cardiac Tamponade
+
+**D:** Shock from pericardial fluid under pressure restricting diastolic filling of the heart.
+
+**R/Causes:** Malignancy, uraemia, post-cardiac surgery, post-myocardial infarction free wall rupture, aortic dissection, penetrating or blunt trauma, viral or bacterial pericarditis, tuberculosis, post-procedural after pacemaker insertion or ablation, anticoagulation.
+
+**A/P:** Fluid accumulates in the pericardial sac → intrapericardial pressure rises → **the rate of accumulation matters more than the volume** (a rapidly accumulating small effusion tamponades, while a slowly accumulating large one may not) → right-sided chambers, being thin-walled and low-pressure, collapse first in diastole → venous return obstructed → reduced ventricular filling → reduced stroke volume → shock. Because the pericardium is now a fixed space, the ventricles compete for it, producing exaggerated inspiratory interdependence — the mechanism of pulsus paradoxus.
+
+**S/Smx:** **Beck's triad — hypotension, raised JVP, muffled heart sounds** — is classic but is present in a minority. Tachycardia, dyspnoea, distress, pulsus paradoxus (an exaggerated inspiratory fall in systolic pressure), and in trauma a rapidly deteriorating patient with distended neck veins.
+
+> [!danger] Tamponade is preload-dependent — three things will kill the patient
+> **Do not give diuretics or nitrates.** The ventricle is filling against pressure and needs every millilitre of preload it can get.
+> **Be extremely cautious about intubation and positive pressure ventilation.** Positive intrathoracic pressure further reduces venous return, and induction agents drop the sympathetic drive that is maintaining the circulation. Arrest on induction is a described event. Drain first where possible.
+> **Do not wait for muffled heart sounds.** They are late and unreliable in a noisy resuscitation bay.
+
+> [!tip] ECG and echo findings
+> **ECG:** low voltage complexes and **electrical alternans** — beat-to-beat variation in QRS amplitude as the heart swings within the effusion. Both are supportive rather than sensitive.
+> **Echo:** pericardial effusion with **right atrial systolic collapse and right ventricular diastolic collapse**, a plethoric non-collapsing IVC, and exaggerated respiratory variation in mitral and tricuspid inflow. This is the diagnostic test.
+
+**Ix:** Bedside echocardiography (*why:* it makes the diagnosis in seconds, distinguishes an effusion that is tamponading from one that is not, and guides drainage — no other test does this; *what:* effusion with chamber collapse and IVC plethora). ECG (*why:* the alternans and low-voltage pattern support the diagnosis and the ECG is already being done; *what:* low voltage, electrical alternans). CXR (*why:* a globular enlarged cardiac silhouette suggests a chronic effusion, though a rapidly accumulating tamponading effusion may leave a normal-sized heart; *what:* globular heart, clear lung fields). FBC, UEC, coagulation profile (*why:* uraemia is a cause, and coagulopathy both causes it and complicates drainage; *what:* renal failure, deranged INR). Pericardial fluid for cytology, culture including mycobacterial, and biochemistry once drained (*why:* determines whether the cause is malignant, infective or inflammatory and directs all subsequent management; *what:* malignant cells, organisms). CT chest where dissection or malignancy is suspected (*why:* aortic dissection causing tamponade is a surgical emergency with an entirely different pathway; *what:* dissection flap, mediastinal mass).
+
+### 0.4.1 Mx – Immediate
+Oxygen, **cautious fluid to augment preload**, and urgent senior and cardiology involvement. Avoid diuretics, nitrates and, where possible, intubation. Continuous monitoring.
+
+### 0.4.2 Mx – Definitive
+**Pericardiocentesis**, ideally echo-guided, or surgical drainage with a pericardial window. In traumatic tamponade the definitive treatment is surgical, and in the arresting trauma patient this may mean resuscitative thoracotomy in appropriate settings. Send the fluid.
+
+### 0.4.3 Mx – Chronic/long-term
+Treat the underlying cause. Malignant effusions recur and may need a window or pericardiodesis. Follow-up echocardiography for constriction.
+
+---
+
+## 0.5 Obstructive Shock — Massive Pulmonary Embolism
+
+**D:** Pulmonary embolism causing haemodynamic instability — hypotension or shock from acute right ventricular failure.
+
+**R:**
+*Unmodifiable:* Previous VTE, thrombophilia, malignancy, age.
+*Modifiable:* Immobility, recent surgery especially orthopaedic and pelvic, long-haul travel, pregnancy and the postpartum period, combined oral contraceptive and hormone therapy, obesity, dehydration, central venous catheters, smoking.
+
+**A/P:** Thrombus obstructs the pulmonary arterial tree → pulmonary vascular resistance rises abruptly → the thin-walled right ventricle, which has no capacity to acutely generate high pressure, dilates and fails → the dilated RV bows the interventricular septum leftward → **left ventricular filling is impaired by the failing right ventricle** → reduced cardiac output and hypotension → falling coronary perfusion to an already strained RV → RV ischaemia → further failure. This spiral is why massive PE kills quickly and why afterload reduction, not fluid loading, is the direction of travel.
+
+**S/Smx:** Sudden dyspnoea, pleuritic chest pain, syncope or presyncope (a marker of haemodynamic significance), tachycardia, tachypnoea, hypoxia, raised JVP, and in massive PE hypotension, cyanosis and cardiac arrest with pulseless electrical activity. Signs of DVT are present in only a minority.
+
+> [!warning] The ECG findings are neither sensitive nor specific
+> **Sinus tachycardia is the commonest ECG finding.** S1Q3T3 is quoted constantly and appears in a small minority. Right axis deviation, right bundle branch block and anterior T wave inversion suggest right heart strain. **A normal ECG does not exclude PE.**
+
+> [!danger] Aggressive fluid loading can worsen massive PE
+> The right ventricle is already dilated and failing against a fixed obstruction. Large volumes further distend it, worsen septal bowing and reduce left ventricular filling. Give fluid cautiously and small, and move to vasopressor support early rather than continuing to fill.
+
+> [!info] Risk stratification determines treatment
+> Haemodynamic instability defines massive (high-risk) PE and is the indication for reperfusion. Submassive (intermediate-risk) PE has RV strain on imaging or biomarkers but a preserved blood pressure, and management is more nuanced. `UNVERIFIED — Wells and PERC criteria and their thresholds, the PESI score, D-dimer age-adjusted cut-offs, and thrombolysis dosing all require verification against eTG and local protocol.`
+
+**Ix:** CT pulmonary angiogram (*why:* the definitive diagnostic test, though a genuinely unstable patient may be too unwell to leave the resus bay for it; *what:* filling defect, RV:LV diameter ratio indicating strain). Bedside echocardiography (*why:* in the unstable patient this is often the only feasible test and a dilated hypokinetic right ventricle in a shocked patient supports empirical treatment; *what:* RV dilatation, septal flattening, McConnell's sign — free wall hypokinesis with preserved apical motion). ECG (*why:* rapid, identifies strain and excludes the infarction and arrhythmia that mimic this; *what:* sinus tachycardia, right heart strain pattern). Troponin and BNP (*why:* elevation reflects RV strain and identifies the intermediate-risk patient who looks stable but is not; *what:* elevation). VBG with lactate (*why:* quantifies the perfusion deficit and often shows hypoxia with hypocapnia from hyperventilation; *what:* raised lactate, respiratory alkalosis). D-dimer, only in low pre-test probability (*why:* it has a useful negative predictive value to exclude PE in low-risk patients and is actively unhelpful in a shocked one, where it should not delay treatment; *what:* negative result excluding low-risk PE). Lower limb ultrasound (*why:* identifying DVT in an unstable patient who cannot be scanned supports empirical anticoagulation; *what:* proximal thrombus). Coagulation profile, FBC, UEC (*why:* baseline before anticoagulation and thrombolysis, and to identify bleeding risk; *what:* platelets, INR, renal function).
+
+### 0.5.1 Mx – Immediate
+High-flow oxygen, cautious small fluid boluses, early vasopressor support for hypotension, continuous monitoring and urgent senior involvement. **Anticoagulation without waiting for imaging** where clinical suspicion is high and bleeding risk acceptable. `UNVERIFIED — anticoagulant choice and dosing require verification against eTG.`
+
+### 0.5.2 Mx – Definitive
+**Systemic thrombolysis** for massive PE with haemodynamic instability, weighed against bleeding risk. Catheter-directed therapy or surgical embolectomy where thrombolysis is contraindicated or fails. ICU management. `UNVERIFIED — thrombolysis agent, dose, and absolute and relative contraindications require verification.`
+
+### 0.5.3 Mx – Chronic/long-term
+Anticoagulation duration determined by whether the event was provoked or unprovoked. Thrombophilia and malignancy screening in selected patients. Follow-up for chronic thromboembolic pulmonary hypertension in persistently breathless patients. Cross-refer [[J3]] Recurrent Thrombosis.
+
+---
+
+## 0.6 Distributive Shock — Adrenal (Addisonian) Crisis
+
+**D:** Life-threatening glucocorticoid and mineralocorticoid deficiency producing hypotension refractory to fluid and vasopressors.
+
+**R/Causes:** Known Addison's disease with an intercurrent illness and no stress dosing; **abrupt cessation of long-term exogenous corticosteroids**, which is the commonest cause in Australian practice; adrenal haemorrhage (including Waterhouse–Friderichsen in meningococcal sepsis); pituitary infarction or apoplexy; bilateral adrenal metastases; recent adrenalectomy; congenital adrenal hyperplasia in children.
+
+**A/P:** Cortisol is required to maintain vascular responsiveness to catecholamines → deficiency → **vasoplegia that does not respond to noradrenaline** → distributive shock. Mineralocorticoid deficiency in primary adrenal failure → renal sodium loss and potassium retention → **hyponatraemia with hyperkalaemia**, hypovolaemia and metabolic acidosis. Loss of cortisol's gluconeogenic effect → hypoglycaemia.
+
+**S/Smx:** Hypotension unresponsive to fluid, vomiting, abdominal pain sometimes mimicking an acute abdomen, weakness, fever, confusion, hypoglycaemia. In chronic primary adrenal insufficiency: hyperpigmentation of buccal mucosa, palmar creases and scars, weight loss, salt craving.
+
+> [!danger] Treat on suspicion — do not wait for the cortisol result
+> Hydrocortisone is given immediately. The diagnosis is confirmed afterwards. `UNVERIFIED — hydrocortisone dose, route and frequency for adults and children are omitted; obtain from eTG Endocrinology and local protocol.`
+
+> [!tip] The biochemical signature, and one practical trick
+> **Hyponatraemia with hyperkalaemia, hypoglycaemia and a metabolic acidosis** in a shocked patient should trigger the thought. Eosinophilia is a supportive and frequently overlooked clue.
+> If a short synacthen test will be needed later and treatment cannot wait, **dexamethasone does not cross-react with the cortisol assay** whereas hydrocortisone does — so dexamethasone can be given first without destroying the diagnostic window. In practice, treating the crisis takes priority over preserving the test.
+
+> [!warning] Ask about steroids in every unexplained shock
+> "Have you stopped any tablets recently?" and a look at the medication list for prednisolone, inhaled or topical high-potency steroids, or recent intra-articular injection. Steroid-induced adrenal suppression is common and the patient rarely volunteers it.
+
+**Ix:** Random serum cortisol taken **before** hydrocortisone if it costs no delay (*why:* an inappropriately low cortisol in a shocked patient is diagnostic, and the sample is unobtainable once treatment starts; *what:* inappropriately low value for the degree of stress). UEC (*why:* the hyponatraemia-with-hyperkalaemia pattern is the biochemical fingerprint of primary adrenal failure; *what:* low sodium, raised potassium, raised urea). Bedside and laboratory glucose (*why:* hypoglycaemia is common, immediately dangerous and immediately reversible; *what:* low glucose). VBG (*why:* metabolic acidosis and rapid potassium; *what:* acidosis, hyperkalaemia). ACTH level (*why:* separates primary adrenal failure from secondary pituitary causes, which have different long-term management and no mineralocorticoid deficiency; *what:* high in primary, low or normal in secondary). FBC (*why:* eosinophilia and lymphocytosis are supportive; *what:* eosinophilia). Septic screen (*why:* infection is the usual precipitant and adrenal crisis and sepsis coexist; *what:* source). Short synacthen test, deferred (*why:* confirms the diagnosis but is not an acute test; *what:* failure of cortisol to rise).
+
+### 0.6.1 Mx – Immediate
+**IV hydrocortisone immediately**, IV fluid resuscitation with isotonic saline, and correction of hypoglycaemia. Treat the precipitating illness. Continuous monitoring. Hyperkalaemia usually corrects with fluid and steroid and rarely needs specific treatment, but check the ECG.
+
+### 0.6.2 Mx – Definitive
+Continued steroid replacement, tapering to maintenance as the crisis resolves. Endocrinology involvement. Mineralocorticoid replacement with fludrocortisone in primary adrenal insufficiency once hydrocortisone doses fall.
+
+### 0.6.3 Mx – Chronic/long-term
+**Sick-day rules** taught explicitly — doubling the dose during febrile illness, and injectable hydrocortisone at home for vomiting. Medical alert bracelet and steroid emergency card. Written action plan. Education is the intervention that prevents the next crisis, and it is frequently the thing that was missing before this one.
+
+---
+
+
+<!-- ===== SOURCE: 01_Cardiovascular.md ===== -->
+*Co-located here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of shock, side by side, both intact.**
+> `Cardio §0.20` and `F0-3 §0.1`–`§0.6` above are **the same four-phenotype framework taught twice**,
+> in two files, subdivided differently. Neither file declared the other, so no flag row caught it —
+> every row was generated per source file.
+>
+> **Nothing is reconciled.** They are together because a cross-reference means opening a second
+> file, and this is content read under time pressure.
+>
+> **`Cardio §0.20` adds:** septic, anaphylactic and neurogenic as named subtypes of distributive
+> shock · haemorrhagic hypovolaemic shock · **a full ASCIA IM adrenaline box including the `<7.5 kg`
+> infant row**, one of only two places in the corpus carrying it.
+> **`F0-3` adds:** tamponade and massive PE as separate obstructive sections, and Addisonian crisis.
+
+## 0.20 Shock
+
+**D:** Life-threatening acute circulatory failure causing cellular and tissue hypoxia.
+
+> [!danger] General Mx — Immediate/acute (ABCDE, applies to all shock types before the type-specific Mx below)
+> - 2x wide-bore cannulas ASAP
+> - Bloods: ABG/VBG, group & save + X-match if transfusion needed, troponin (cardiogenic), blood cultures (septic)
+> - IV fluids — 500 mL bolus + further fluids according to response
+> - Further Mx according to type of shock (see below)
+
+> [!tip] Mnemonic "Nacho+": Neurogenic, Anaphylactic, Cardiogenic, Hypovolaemic, Obstructive, other misc causes (e.g. mitochondrial failure) — from *Deranged Physiology*
+
+### 0.20.1 Cardiogenic shock
+Pump failure (heart cannot pump blood around the body).
+**A:** MI, arrhythmias, toxic substances (alcohol, other drugs), heart failure, chest trauma
+**S/smx:** ↓BP, ↑HR, ↑RR
+**Ix:** troponin (*why:* identifies MI as the precipitant; *what:* elevated if ischaemic cause), ECG (*why:* identifies the precipitating rhythm/ischaemia; *what:* STEMI changes, arrhythmia), echo (*why:* confirms pump failure and its mechanism/severity at the bedside; *what:* severely reduced LV function, regional wall motion abnormality, or mechanical complication e.g. acute MR/VSD)
+**Mx:**
+- **Immediate/acute:** ABCDE as above; loop diuretic if fluid-overloaded; vasopressors/inotropes (e.g. dobutamine, noradrenaline — specialist-guided); mechanical circulatory support (e.g. IABP, ECMO) in refractory cases.
+- **Definitive:** treat the underlying cause — urgent PCI if MI-driven, antiarrhythmic/cardioversion if arrhythmia-driven, surgical repair if mechanical complication.
+- **Chronic/long-term:** manage as per chronic heart failure (section 0.27) once stabilised.
+**P:** very high mortality if occurring secondary to MI
+
+### 0.20.2 Hypovolaemic shock
+Decreased intravascular volume.
+
+> [!info] Haemorrhagic shock classification by blood loss
+> Class I: <750 mL | Class II: 750–1500 mL | Class III: 1500–2000 mL | Class IV: >2000 mL
+
+**A:** haemorrhage, dehydration, GI loss, third-spacing (e.g. hypoalbuminaemia)
+**S/smx:** ↓BP, ↑HR, ↑RR; may have obvious wound/bleeding, but internal bleeding may not be obvious
+**Ix:** bloods, especially group & save + X-match (*why:* prepares for transfusion if haemorrhagic; *what:* determines blood type/compatibility — note Hb may not accurately reflect acute blood loss, since haemodilution takes time, so treat clinically rather than by Hb alone); may need exploratory surgery/endoscopy (*why:* to identify and control an occult bleeding source when not clinically obvious; *what:* localises the bleeding site).
+**Mx:**
+- **Immediate/acute:** ABCDE as above ± major haemorrhage protocol (blood products in fixed ratios) if haemorrhagic.
+- **Definitive:** source control — surgical/endoscopic/interventional-radiological haemostasis if haemorrhagic; rehydration and treat the underlying cause if non-haemorrhagic (GI losses, third-spacing).
+- **Chronic/long-term:** address the underlying cause to prevent recurrence (e.g. investigate and treat the source of chronic GI blood loss).
+
+### 0.20.3 Distributive shock
+Failure of vasoregulation — further divided into septic, anaphylactic, and neurogenic shock.
+
+**Septic shock**
+Systemic immune response to infection (including cytokine storm) → increased peripheral vasodilation.
+**S/smx:** as per sepsis — ↑temp, warm peripheries, ↑RR, ↑HR, WBC <4 or >12
+**Ix:** blood cultures (*why:* identifies the causative organism to guide targeted antibiotic therapy; *what:* positive culture with organism and sensitivities, though often negative even in confirmed sepsis), ABG/VBG for lactate (*why:* lactate is a marker of tissue hypoperfusion and severity, and trends guide resuscitation response; *what:* elevated lactate correlates with severity/mortality), urine output monitoring (*why:* a simple continuous marker of end-organ (renal) perfusion; *what:* oliguria suggests inadequate perfusion), source-finding Ix if unknown (CXR, urine MC&S) (*why:* identifying and controlling the source is essential to definitive treatment; *what:* may reveal pneumonia, UTI, or other focus)
+**Mx:**
+- **Immediate/acute:** ABCDE as above + IV antibiotics (broad-spectrum, per the Sepsis/Surviving Sepsis "hour-1 bundle" principles — cultures before antibiotics where feasible but don't delay antibiotics for this) + fluid resuscitation; vasopressors (noradrenaline first-line) if fluid-refractory.
+- **Definitive:** source control (drain an abscess, remove an infected line, etc.) + de-escalate antibiotics once cultures/sensitivities return.
+- **Chronic/long-term:** not applicable acutely; post-sepsis, address any underlying immunocompromise/recurrent-source risk factors.
+
+**Anaphylactic shock**
+Systemic IgE-mediated hypersensitivity — massive mast cell degranulation → inflammation and vasodilation.
+**S/smx:** ↓BP, ↑HR, ↑RR; facial/throat swelling, hives, difficulty breathing
+**Ix:** clinical diagnosis (*why:* anaphylaxis is diagnosed and treated on clinical grounds — waiting for confirmatory testing would delay life-saving treatment; *what:* consistent with the S/Smx above); mast cell tryptase can be checked after treatment (*why:* retrospectively supports the diagnosis if it was unclear; *what:* elevated tryptase supports mast cell degranulation, though a normal level doesn't exclude anaphylaxis).
+
+**Mx:**
+- **Immediate/acute:**
+
+> [!danger] **Adrenaline 1:1000 IM injection — ASCIA weight-and-age criteria** (corrected during the L3 seam audit; this box previously gave the superseded pure age-band split)
+> - **>50 kg and ≥12 years: 0.5 mL (500 mcg)** — the adult dose
+> - **>20 kg and ≥5 years: 0.3 mL (300 mcg)**
+> - **7.5–20 kg and ≤5 years: 0.15 mL (150 mcg)**
+> - **<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)** — unverified, see `PENDING_GUIDELINE_CHECKS.md` **B50**
+> `CF-PAIR` **THIS IS THE SECOND OF ONLY TWO PLACES IN THE CORPUS CARRYING THE `<7.5 kg` INFANT ADRENALINE ROW.** The other is `[[09_01_Dermatology_-_Dermatological_Emergencies]]` Anaphylaxis, which this box already points at as the owner. **Neither is redundant and neither should be deleted** — the copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and `NEW_Drugs_01 §0.5` both begin at 7.5 kg. Units differ (`mL` here, `mg` there) and are the same quantity at 1:1000. Both flag `PENDING_GUIDELINE_CHECKS.md` **B50**.
+>
+> Overall rule: **0.01 mg/kg up to a maximum of 0.5 mg**. See [[09_01_Dermatology_-_Dermatological_Emergencies]] Anaphylaxis for the full entry, and [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific observation criteria — the ASCIA correction from age bands to weight-and-age was made in that file and had not been carried across to here.
+> - Repeat every 5 min if necessary
+> - IM injection into anterolateral thigh (if using an Epipen — count "3 elephants")
+> - If refractory after 2 doses of IM adrenaline, consider IV adrenaline infusion (expert only)
+> - Plus ABCDE, high-flow O2, IV fluids for hypotension; remove the trigger if identifiable.
+
+- **Definitive:** observation period post-resolution (biphasic reactions can occur hours later — duration depends on severity/local protocol); antihistamines and corticosteroids are adjuncts only, not substitutes for adrenaline.
+- **Chronic/long-term:** allergy specialist referral, allergen identification/avoidance, adrenaline auto-injector prescription and training, medical alert identification.
+
+**Neurogenic shock**
+Interruption of the autonomic nervous system.
+**A:** spinal cord transection
+**S/smx:** ↓BP, ↓HR, ↑RR, warm flushed skin; ↓HR due to increased vagal response with no opposing sympathetic tone; if injury above C3, may progress to respiratory arrest
+**Ix:** MRI whole spine (*why:* defines the level and nature of spinal cord injury, guiding urgent surgical decision-making; *what:* identifies the site/extent of cord compression or transection)
+**Mx:**
+- **Immediate/acute:** ABCDE; vasopressors (to counter unopposed vasodilation) and atropine (for bradycardia from unopposed vagal tone); maintain spinal precautions/immobilisation.
+- **Definitive:** urgent neurosurgical referral — decompression/stabilisation surgery as indicated by the injury.
+- **Chronic/long-term:** rehabilitation, autonomic dysreflexia monitoring/management, ongoing spinal injury multidisciplinary care.
+
+### 0.20.4 Obstructive shock
+Obstruction of blood flow → hypoperfusion of tissues distal to obstruction.
+**A:** tension pneumothorax, cardiac tamponade
+**Mx:**
+- **Immediate/acute:** ABCDE; needle decompression for tension pneumothorax, pericardiocentesis for tamponade — mechanical obstruction requires mechanical relief, not just fluids/pressors.
+- **Definitive:** chest drain insertion (pneumothorax) or definitive pericardial drainage/surgery (tamponade), treating the underlying cause (see sections 0.29 PE, 0.33 Tamponade).
+- **Chronic/long-term:** dependent on underlying cause — e.g. anticoagulation if PE-driven obstruction (massive PE causing obstructive physiology).
+
+---
+
+<!-- ===== SOURCE: F0-3_Shock_Phenotypes_and_Sepsis_Syndromes.md ===== -->
+
+## 0.7 Adult Sepsis
+
+**D:** Life-threatening organ dysfunction from a dysregulated host response to infection. Definitions and the SIRS/qSOFA discussion are in [[A1]] 0.2 and are not repeated.
+
+**A/P:** Sepsis is fundamentally distributive shock with a cardiogenic component. Vasoplegia and capillary leak reduce effective circulating volume, while cytokine-mediated myocardial depression reduces contractility in a substantial proportion of patients — which is why some septic patients need an inotrope rather than more noradrenaline, and why bedside echocardiography earns its place.
+
+**S/Smx:** As per [[A1]] 0.2. **Warm peripheries with a wide pulse pressure early, cold and shut down late.** Hypothermia, a normal white cell count, and absence of fever do not exclude it and are markers of worse outcome.
+
+> [!warning] The elderly septic patient often has none of the classic features
+> New confusion, a fall, reduced oral intake, or simply "not himself" may be the entire presentation, with no fever and no localising symptom. Urinary and respiratory sources dominate. A low threshold for a septic screen in this group is the practical lesson.
+
+> [!info] The Australian standard
+> Management is structured around the **Sepsis Clinical Care Standard**, with recognition, escalation, time-bound antibiotic administration, fluid resuscitation, source identification and senior review. Most Australian health services have a sepsis pathway form. `UNVERIFIED — the antibiotic administration time target, empirical regimens by source, and initial fluid volumes require verification against the current Clinical Care Standard, eTG Antibiotic and your local pathway.`
+
+**Ix:** As per [[A1]] 0.2. The additions worth naming: serial lactate (*why:* clearance predicts outcome and guides ongoing resuscitation better than a single value; *what:* trajectory). Bedside echocardiography (*why:* identifies the sepsis-related myocardial depression that changes the vasopressor-versus-inotrope decision; *what:* reduced contractility despite vasoplegia).
+
+### 0.7.1 Mx – Immediate
+Oxygen, blood cultures, IV broad-spectrum antibiotics, IV fluid resuscitation, lactate, and urine output monitoring — delivered in parallel. Escalate early. `UNVERIFIED — all regimens, doses and volumes from eTG and local protocol; none stated here.`
+
+### 0.7.2 Mx – Definitive
+**Source control determines survival more than antibiotic choice.** Drain, remove, debride, or relieve the obstruction. Vasopressor support and ICU where hypotension persists after fluid resuscitation.
+
+### 0.7.3 Mx – Chronic/long-term
+Antibiotic de-escalation on cultures with daily duration review. Flag post-sepsis syndrome — fatigue, cognitive impairment, functional decline — in the discharge summary.
+
+---
+
+## 0.8 Paediatric Sepsis
+
+**D:** Sepsis in a child, where the physiology of compensation differs enough from the adult to change both recognition and management.
+
+**A/P:** Children maintain cardiac output primarily by **increasing heart rate**, having limited capacity to increase stroke volume, and they vasoconstrict efficiently. The consequence: a septic child compensates for a long time with tachycardia and cool peripheries while maintaining a normal blood pressure, then decompensates abruptly.
+
+> [!danger] Hypotension in a child is a pre-terminal sign
+> **Do not use blood pressure to decide whether a child is shocked.** By the time it falls, the child is close to arrest. Use heart rate for age, capillary refill, peripheral versus central temperature gradient, mottling, conscious state and urine output. Age-specific normal ranges for heart rate, respiratory rate and blood pressure are essential and must be read off a chart, not recalled. `UNVERIFIED — age-specific vital sign ranges require verification against the RCH or your local paediatric observation chart.`
+
+> [!warning] Two paediatric-specific traps
+> **Cold shock is more common than warm shock in children** — the reverse of the adult pattern. A cold, mottled, tachycardic child with a normal blood pressure is in shock.
+> **The parent's assessment carries weight.** "She's not like this when she's sick" from a parent who knows the child is a formal escalation criterion in Australian paediatric systems and should not be discounted.
+
+**S/Smx:** Tachycardia for age, tachypnoea, prolonged capillary refill, mottled or cold peripheries, lethargy or irritability, reduced feeding, reduced wet nappies, and a parent who is worried. Fever may be absent, and hypothermia in a neonate is as concerning as fever.
+
+**Ix:** Bedside glucose (*why:* children have limited glycogen stores and become hypoglycaemic quickly when unwell, and it is instantly correctable; *what:* hypoglycaemia). VBG with lactate (*why:* identifies the compensated shock that the blood pressure conceals; *what:* raised lactate, base deficit). Blood cultures before antibiotics (*why:* organism identification, particularly important in neonates where the empirical cover differs; *what:* growth). FBC, UEC, CRP (*why:* baseline organ function and infective markers, with the caveat that a normal white cell count is common; *what:* neutropenia or neutrophilia, renal impairment). Urine, obtained appropriately for age (*why:* UTI is a common occult source in infants and a bag specimen is unreliable; *what:* growth on a clean catch or catheter specimen). Lumbar puncture where meningitis is possible and the child is stable enough (*why:* meningitis in an infant presents non-specifically and cannot be excluded clinically; *what:* CSF cell count, protein, glucose, culture — deferred if the child is unstable or has raised intracranial pressure). CXR (*why:* pneumonia may have no localising signs in a young child; *what:* consolidation). Accurate weight (*why:* every drug and fluid figure is weight-based; *what:* measured weight).
+
+### 0.8.1 Mx – Immediate
+High-flow oxygen, IV or intraosseous access early — do not persist with difficult cannulation in a shocked child. Weight-based fluid boluses with **reassessment after each for hepatomegaly, crackles and worsening respiratory status**, since fluid overload is a real hazard. Empirical antibiotics urgently. Correct hypoglycaemia. Senior paediatric involvement immediately. `UNVERIFIED — bolus volume in mL/kg, the number of boluses before inotropes, and all antibiotic doses are omitted; use RCH guidelines and local protocol.`
+
+### 0.8.2 Mx – Definitive
+Early inotrope or vasopressor if shock persists after initial fluid — children move to inotropes sooner than adults in most paediatric protocols. Source control. Retrieval to a paediatric intensive care service.
+
+### 0.8.3 Mx – Chronic/long-term
+Immunisation status review, investigation for immunodeficiency after severe or recurrent invasive infection, and follow-up for developmental and functional sequelae.
+
+---
+
+## 0.9 Meningococcal Sepsis
+
+**D:** Invasive *Neisseria meningitidis* infection presenting as sepsis, meningitis, or both, capable of killing a previously well person within hours.
+
+**R:**
+*Unmodifiable:* Infancy and adolescence (the two peaks), asplenia, complement deficiency (particularly terminal complement — recurrent meningococcal disease should prompt this investigation), eculizumab therapy.
+*Modifiable:* Incomplete immunisation, crowded living such as boarding schools and military barracks, household contact, smoking exposure, recent viral URTI.
+
+**A/P:** Nasopharyngeal colonisation → invasion of the bloodstream → endotoxin release → massive cytokine cascade with endothelial injury → **disseminated intravascular coagulation with microvascular thrombosis** producing the non-blanching petechial and purpuric rash → profound vasoplegia and capillary leak → shock; adrenal haemorrhage (Waterhouse–Friderichsen) may compound this with adrenal crisis — cross-refer 0.6.
+
+**S/Smx:** Fever, headache, vomiting, limb pain, cold hands and feet, and abnormal skin colour — **limb pain, cold extremities and pallor frequently precede the rash by hours and are the early features that permit early treatment.** Then the non-blanching petechial or purpuric rash, meningism, photophobia, reduced conscious state, and rapidly progressive shock. In infants: poor feeding, irritability, bulging fontanelle, hypothermia, and often no neck stiffness at all.
+
+> [!danger] The rash is a late sign and may be absent
+> **Do not wait for it.** A meaningful proportion of fatal cases had no rash at presentation. The tumbler test — a rash that does not blanch under pressure from a glass — is useful when positive and worthless when negative. Purpura fulminans with rapidly spreading confluent purpura indicates fulminant disease.
+
+> [!warning] Antibiotics before transfer, and before lumbar puncture
+> Where meningococcal disease is suspected and transfer or investigation will delay treatment, **give parenteral antibiotics immediately** — in the community setting this is the recognised action. Do not delay antibiotics for a lumbar puncture. `UNVERIFIED — the pre-hospital antibiotic agent, dose and route, and all empirical regimens, require verification against eTG Antibiotic and your state health department's meningococcal guidance.`
+
+> [!info] This is a notifiable disease
+> Urgent notification to the public health unit is a legal requirement and triggers contact tracing and clearance antibiotics for household and intimate contacts. This is not optional and not deferrable to the next working day. `UNVERIFIED — contact prophylaxis agents and doses require verification with your state public health unit.`
+
+**Ix:** Blood cultures (*why:* the organism grows from blood and confirms the diagnosis, with the caveat that yield falls fast after antibiotics; *what:* Gram-negative diplococci, growth). Meningococcal PCR on blood (*why:* remains positive after antibiotics have sterilised cultures, which is often the situation given antibiotics are correctly given early; *what:* meningococcal DNA and serogroup). Coagulation profile with fibrinogen and D-dimer (*why:* DIC defines severity and guides blood product support; *what:* prolonged INR and APTT, low fibrinogen, raised D-dimer). FBC (*why:* thrombocytopenia tracks DIC severity, and either leucocytosis or leucopenia occurs; *what:* falling platelets). VBG with lactate (*why:* quantifies shock severity; *what:* raised lactate, acidosis). UEC and glucose (*why:* organ dysfunction and hypoglycaemia; *what:* renal impairment, low glucose). Lumbar puncture, **only if the child or adult is stable and there is no contraindication** (*why:* confirms meningitis and gives organism and sensitivities, but is deferred in shock, coagulopathy or raised intracranial pressure where it is dangerous and does not change immediate management; *what:* neutrophilic pleocytosis, high protein, low glucose, organisms). Skin lesion aspirate or PCR (*why:* an additional yield source when blood cultures are negative; *what:* organism).
+
+### 0.9.1 Mx – Immediate
+**Antibiotics immediately — do not delay for investigations.** Aggressive fluid resuscitation, early inotropes, high-flow oxygen, and early ICU or retrieval involvement. Consider adrenal crisis in refractory shock and give steroids. Notify public health.
+
+### 0.9.2 Mx – Definitive
+ICU management with vasopressor support, blood product support for DIC, and management of limb ischaemia from purpura fulminans, which may require surgical input.
+
+### 0.9.3 Mx – Chronic/long-term
+Contact tracing and prophylaxis. Hearing assessment after meningitis. Limb and skin sequelae including amputation and grafting. **Investigate complement deficiency after invasive meningococcal disease**, particularly if recurrent or a non-vaccine serogroup. Immunisation review — cross-refer [[15_Paeds]] and the current Australian Immunisation Handbook schedule.
+
+---
+
+## 0.10 Urosepsis and Gram-Negative Septic Shock
+
+**D:** Sepsis originating from the urinary tract, the commonest source of Gram-negative septic shock in Australian hospitals.
+
+**R:**
+*Unmodifiable:* Female sex for uncomplicated UTI, male sex and older age for complicated disease, congenital urinary tract abnormalities.
+*Modifiable:* Indwelling urinary catheter and its duration, urinary tract obstruction from stone or prostate, recent instrumentation, diabetes, immunosuppression, incomplete bladder emptying, previous multi-resistant organism colonisation.
+
+**A/P:** Bacterial ascent, or haematogenous seeding → pyelonephritis → Gram-negative bacteraemia with lipopolysaccharide endotoxin release → distributive shock. **Where the tract is obstructed, the infected system is a closed abscess under pressure** — antibiotics cannot sterilise it and the patient will not improve until it is decompressed.
+
+**S/Smx:** Fever, rigors, loin pain and tenderness, dysuria and frequency, vomiting. In the elderly, **new confusion, a fall or functional decline may be the only presentation.** Hypotension, tachycardia and warm peripheries in early distributive shock.
+
+> [!danger] An obstructed infected system is a urological emergency
+> Fever plus loin pain plus a known or suspected stone, or hydronephrosis on imaging, requires **urgent decompression** — nephrostomy or retrograde stent — not just antibiotics. Delay in decompression is a recognised cause of preventable death. Involve urology immediately.
+
+> [!warning] Asymptomatic bacteriuria is not urosepsis
+> Positive urine culture is common in the catheterised and the elderly and does not by itself establish the urinary tract as the source. **Look for an alternative source before settling on the urine**, particularly where loin pain and urinary symptoms are absent. Treating asymptomatic bacteriuria drives resistance and does not help the patient. Exceptions exist — pregnancy and pre-urological-procedure. `UNVERIFIED — confirm the exceptions against eTG Antibiotic.`
+
+**Ix:** Urine microscopy, culture and sensitivities before antibiotics (*why:* directs de-escalation and identifies resistant organisms, which are increasingly common in this population; *what:* pyuria, organism, sensitivities). Blood cultures (*why:* bacteraemia is common in pyelonephritis and the isolate may be the only one obtained; *what:* Gram-negative growth). UEC (*why:* obstruction and sepsis both cause acute kidney injury, and antibiotic dosing depends on renal function; *what:* rising creatinine). Serial lactate and VBG (*why:* severity and response; *what:* elevation, clearance). FBC and CRP (*why:* baseline and trend; *what:* leucocytosis or leucopenia). **Urinary tract ultrasound or non-contrast CT** (*why:* this is the investigation that changes management — it identifies the obstruction requiring urgent decompression, and its absence permits medical management; *what:* hydronephrosis, calculus, perinephric collection, emphysematous change). Bladder scan (*why:* retention is both a cause and a consequence and is easily relieved; *what:* retained volume). Blood glucose (*why:* diabetes predisposes and emphysematous pyelonephritis occurs almost exclusively in diabetics; *what:* hyperglycaemia).
+
+### 0.10.1 Mx – Immediate
+Sepsis pathway as per 0.7 — cultures, antibiotics, fluids, lactate. Relieve retention with a catheter if present. **Urgent imaging to exclude obstruction**, and urgent urology referral if present. `UNVERIFIED — empirical regimens from eTG Antibiotic and local antibiograms; local resistance patterns matter here more than in most infections.`
+
+### 0.10.2 Mx – Definitive
+Decompression of an obstructed infected system. Antibiotic de-escalation on sensitivities with duration determined by whether the infection is complicated. Definitive stone management once sepsis has resolved, not during it.
+
+### 0.10.3 Mx – Chronic/long-term
+Catheter review and removal wherever possible, with a documented plan for those that must stay. Investigation of recurrent UTI. Diabetes optimisation. Cross-refer [[H4]] Renal Colic and [[H2]] LUTS.
+
+---
+
+## 0.11 Biliary Sepsis — Ascending Cholangitis
+
+**D:** Bacterial infection of an obstructed biliary tree, producing sepsis that will not resolve without biliary drainage.
+
+**R/Causes:** Choledocholithiasis (most common), benign or malignant biliary stricture, pancreatic or cholangiocarcinoma, post-ERCP, biliary stent occlusion, parasitic infection, primary sclerosing cholangitis.
+
+**A/P:** Biliary obstruction → bile stasis and rising intraductal pressure → bacterial proliferation, usually enteric Gram-negatives and anaerobes → **once intraductal pressure exceeds a threshold, bacteria and endotoxin translocate directly into the hepatic sinusoids and the systemic circulation** → bacteraemia and septic shock. The pressure is the mechanism, which is why drainage rather than antibiotics is the definitive treatment.
+
+**S/Smx:**
+
+> [!tip] Charcot and Reynolds
+> **Charcot's triad** — right upper quadrant pain, fever with rigors, jaundice. Present in a minority; its absence does not exclude cholangitis.
+> **Reynolds' pentad** — Charcot's triad plus hypotension and altered mental state. Indicates suppurative cholangitis and is a marker of severe disease requiring emergency drainage.
+
+Rigors are a useful discriminating symptom — they suggest bacteraemia and point away from simple biliary colic or cholecystitis. Elderly patients may present with confusion and hypotension alone.
+
+> [!danger] Antibiotics alone will fail
+> Cholangitis in an obstructed duct is a closed-space infection under pressure. **Biliary drainage is the definitive treatment and its timing determines outcome.** A patient who is not improving on appropriate antibiotics needs drainage, not a change of antibiotic. `UNVERIFIED — the recommended timing of ERCP by severity grade requires verification against current guidance.`
+
+**Ix:** LFT (*why:* the obstructive pattern distinguishes cholangitis from cholecystitis and from hepatitis, and the bilirubin trend tracks the obstruction; *what:* raised ALP and GGT out of proportion to transaminases, raised conjugated bilirubin). Blood cultures (*why:* bacteraemia is present in a high proportion and often provides the only isolate; *what:* enteric Gram-negative growth). FBC, UEC, CRP, lactate (*why:* severity grading and organ dysfunction assessment determine urgency of drainage; *what:* leucocytosis, renal impairment, raised lactate). Coagulation profile (*why:* obstructive jaundice impairs vitamin K absorption and causes coagulopathy, which must be corrected before ERCP or percutaneous drainage; *what:* prolonged INR). Abdominal ultrasound as first-line imaging (*why:* readily available, identifies duct dilatation and gallstones, and is sensitive for the obstruction though less so for the stone itself; *what:* dilated common bile duct, gallstones, thickened gallbladder wall). MRCP or CT where ultrasound is non-diagnostic (*why:* defines the level and cause of obstruction before intervention; *what:* stone, stricture, mass). Amylase or lipase (*why:* gallstone pancreatitis coexists and changes management; *what:* elevation — cross-refer [[C7]]).
+
+### 0.11.1 Mx – Immediate
+Sepsis pathway — cultures, IV antibiotics with Gram-negative and anaerobic cover, fluid resuscitation, lactate. Nil by mouth. Analgesia. Correct coagulopathy with vitamin K. **Urgent gastroenterology and surgical referral for biliary drainage.** `UNVERIFIED — antibiotic regimens from eTG Antibiotic.`
+
+### 0.11.2 Mx – Definitive
+**ERCP with sphincterotomy and stone extraction or stent insertion** is the usual drainage route, with percutaneous transhepatic cholangiography as the alternative where ERCP is not possible — cross-refer [[P6]] Procedure addendum. Cholecystectomy is deferred to after resolution in most cases.
+
+### 0.11.3 Mx – Chronic/long-term
+Definitive management of the underlying obstruction. Interval cholecystectomy for gallstone disease. Surveillance and stent exchange for malignant strictures. Cross-refer [[C3]] Obstructive Jaundice.
+
+---
+
+> [!note] Cross-references
+> Sepsis definitions, SIRS, qSOFA and the source-based table → [[A1]] 0.2–0.3 · Deteriorating patient recognition → [[A1]] 0.1 · Lactic acidosis and third-spacing → [[F0.2]] 0.5, 0.10 · Anaphylaxis as distributive shock → [[F0.1]] 0.9 · Resuscitation algorithms → [[F0.4]] · Acute pulmonary oedema management detail → [[F0.5]]
+
+
+<!-- ===== SOURCE: A9_Transfusion__Coagulopathy_and_Anticoagulant_Emergencies.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Mechanism, recognition and discriminators are reliable at intern level. **Every transfusion threshold, product ratio, reversal agent dose, time window and reference range carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** All transfusion triggers must come from the **National Blood Authority Patient Blood Management Guidelines**; all reversal agent dosing from eTG, the Australian Medicines Handbook and your health network's anticoagulation reversal protocol; and massive haemorrhage protocol ratios from your own hospital's protocol, since they differ between sites.
+
+---
+
+## 0.1 Acute Anaemia and Major Haemorrhage
+
+**D:** A rapid fall in circulating red cell mass, from bleeding, haemolysis, or acute marrow failure.
+
+**R/Causes:** **Overt bleeding** — trauma, gastrointestinal, obstetric, surgical, epistaxis. **Occult bleeding** — retroperitoneal, intra-abdominal, pelvic or long bone fracture, ruptured aortic aneurysm, ruptured ectopic pregnancy, concealed post-partum haemorrhage. **Haemolysis** — autoimmune, microangiopathic, transfusion reaction, drug-induced, G6PD-related. **Marrow** — aplasia, infiltration.
+
+**A/P:** Acute blood loss removes **whole blood** — plasma and red cells in equal proportion. Because there has been no time for compensatory plasma volume expansion, **the haemoglobin concentration is initially unchanged**, and only falls as fluid shifts into the intravascular space over hours or as crystalloid is given.
+
+> [!danger] A normal haemoglobin does not exclude significant acute haemorrhage
+> This is the single most important trap in this section. **The haemoglobin in acute bleeding reflects how much dilution has occurred, not how much blood has been lost.** A patient can be exsanguinating with a normal first haemoglobin. Rely instead on **mechanism, clinical assessment, serial measurement and lactate**, and treat what you see rather than what the number says.
+
+> [!tip] Compensation masks blood loss until it doesn't
+> Tachycardia and vasoconstriction maintain blood pressure across a substantial volume of loss, so **narrowed pulse pressure, cool peripheries, delayed capillary refill, agitation and reduced urine output all precede hypotension.** Young patients, athletes and pregnant patients compensate longest and crash hardest. Patients on beta-blockers may not mount a tachycardia at all. Cross-refer [[F0.3]] 0.1–0.2.
+
+> [!danger] The lethal triad
+> **Hypothermia, acidosis and coagulopathy** reinforce one another in major haemorrhage. Cold impairs enzymatic clotting; acidosis impairs clotting factor function; both worsen bleeding, which worsens hypoperfusion and hypothermia. **Damage control resuscitation** addresses all three: keep the patient warm, use warmed products, limit crystalloid, give blood products early in balanced ratios, and achieve haemostasis quickly rather than resuscitating to normal physiology first.
+
+> [!info] Principles of major haemorrhage management
+> **Activate the massive haemorrhage protocol early** — it is easier to stand down than to catch up, and the delay is in getting products to the bedside, not in deciding.
+> **Balanced product ratios** of red cells, plasma and platelets rather than red cells alone, since red cells alone dilute the clotting factors and platelets that are also being lost.
+> **Minimise crystalloid**, which dilutes clotting factors, worsens acidosis and causes hypothermia.
+> **Tranexamic acid early** — its benefit is **time-critical and diminishes with delay**, and there is evidence it may be harmful if given late.
+> **Replace calcium.** Citrate in stored blood chelates ionised calcium, and hypocalcaemia in massive transfusion impairs both clotting and myocardial contractility. It is easily forgotten and it matters.
+> **Keep the patient warm** — active warming, warmed fluids and products.
+> `UNVERIFIED — the product ratios, the tranexamic acid dose and its time window, calcium replacement thresholds and doses, and the criteria for activating the protocol are ALL omitted. Obtain from your hospital's massive haemorrhage protocol and current trauma guidance.`
+
+> [!warning] Transfusion thresholds — restrictive is the default
+> In stable, non-bleeding patients, **a restrictive transfusion threshold is at least as safe as a liberal one** and avoids unnecessary exposure. Australian Patient Blood Management guidance emphasises **transfusing one unit at a time and reassessing** in the stable patient, rather than prescribing two units reflexively. Transfusion is a treatment for symptoms and physiology, not for a number on a form. `UNVERIFIED — haemoglobin trigger thresholds for different patient groups require verification against the National Blood Authority guidelines.`
+
+**S/Smx:** Fatigue, dyspnoea, palpitations, pallor, dizziness and syncope. In acute haemorrhage: tachycardia, narrowed pulse pressure, cool clammy peripheries, agitation, oliguria, then hypotension. Site-specific features — haematemesis, melaena, abdominal distension, flank bruising, an expanding haematoma.
+
+**Ix:** **Serial** full blood count (*why:* a single value in acute haemorrhage is uninterpretable, and the trend over hours is what reveals the loss; *what:* falling haemoglobin over time, platelet count). **Group and hold, or crossmatch** taken early (*why:* the delay in transfusion is the crossmatch, not the decision — and in extremis, emergency group O blood is used without waiting; *what:* blood group, antibody screen, units available). Serial lactate and VBG (*why:* quantifies hypoperfusion when the haemoglobin and blood pressure are still normal; *what:* rising lactate, base deficit). Coagulation profile with fibrinogen (*why:* identifies dilutional and consumptive coagulopathy that will perpetuate bleeding; *what:* prolonged INR, low fibrinogen). **Ionised calcium** (*why:* citrate-induced hypocalcaemia during transfusion is common, treatable and routinely overlooked; *what:* low ionised calcium). UEC and LFT (*why:* baseline organ function, and urea disproportionately raised suggests upper GI bleeding; *what:* raised urea:creatinine ratio). Haemolysis screen where bleeding is not evident — reticulocytes, bilirubin, LDH, haptoglobin, blood film, direct antiglobulin test (*why:* distinguishes haemolysis from blood loss when there is no visible source, and the film may be diagnostic; *what:* raised reticulocytes and LDH, low haptoglobin, positive DAT, schistocytes). Point-of-care viscoelastic testing where available — TEG or ROTEM (*why:* gives a functional whole-blood clotting assessment in minutes and guides which product to give, where standard coagulation tests are slow and measure only isolated aspects; *what:* clot initiation, strength, fibrinolysis). Imaging directed at the suspected source (*why:* haemostasis is the definitive treatment and it requires finding the bleeding point; *what:* CT angiography, FAST, endoscopy).
+
+### 0.1.1 Mx – Immediate
+A–E, oxygen, **two large-bore cannulae**, bloods including crossmatch. Direct pressure and local haemostatic measures. Activate the massive haemorrhage protocol where indicated. Warm the patient and the fluids. Tranexamic acid early where appropriate. **Get the surgeon, endoscopist or interventional radiologist involved early — resuscitation buys time, haemostasis is the treatment.**
+
+### 0.1.2 Mx – Definitive
+Surgical, endoscopic or radiological control of the bleeding source. Reversal of anticoagulation where present — see 0.4. Correction of coagulopathy guided by tests rather than empirically once the acute phase is over.
+
+### 0.1.3 Mx – Chronic/long-term
+Iron replacement, since transfusion replaces red cells but not iron stores. Investigation of the cause of occult bleeding, particularly iron deficiency anaemia in an adult, which requires GI investigation until proven otherwise. Cross-refer [[J2]] Chronic Anaemia.
+
+---
+
+## 0.2 Acute Transfusion Reactions
+
+**D:** Adverse events occurring during or shortly after transfusion of a blood product.
+
+> [!danger] The first move is always the same
+> **STOP the transfusion. Keep the intravenous line open with saline through a new giving set. Check the patient's identity against the unit label.** Then assess A–E, treat, notify the blood bank, and **return the unit and giving set** with the transfusion reaction paperwork and post-transfusion blood samples.
+> The identity check is not a formality — **acute haemolytic reactions are almost always the result of a clerical or bedside identification error**, and the wrong patient may be receiving the unit intended for someone else who is about to receive theirs.
+
+> [!info] The reactions, and how to tell them apart
+> | Reaction | Timing | Key features | Action |
+> |---|---|---|---|
+> | **Acute haemolytic (ABO incompatible)** | Minutes | Fever, **loin or back pain**, dark urine, hypotension, DIC, a feeling of impending doom | **Stop. Resuscitate. Check identity. Emergency.** |
+> | **Febrile non-haemolytic** | 30 min – few hours | Isolated temperature rise, rigors, no other features. Commonest reaction | Slow or stop, antipyretic, exclude haemolysis |
+> | **Allergic / urticarial** | Minutes – hours | Urticaria, itch, no systemic features | Antihistamine; may resume cautiously if mild and isolated |
+> | **Anaphylaxis** | Minutes | Airway, breathing or circulation involvement | **Adrenaline.** Consider **IgA deficiency with anti-IgA antibodies** |
+> | **TACO** (circulatory overload) | During or within hours | Dyspnoea, **hypertension**, **raised JVP**, responds to diuretic | Stop, sit up, oxygen, diuretic |
+> | **TRALI** | **Within 6 hours** | Hypoxia, bilateral infiltrates, **normal or low JVP**, **hypotension**, fever | Stop, supportive, often ventilation. Do not diurese |
+> | **Bacterial contamination** | Minutes – hours | **Rigors, high fever, rapid shock**. Most often **platelets**, stored at room temperature | Stop, cultures, broad-spectrum antibiotics, resuscitate |
+
+> [!danger] TACO versus TRALI — the discrimination that matters
+> Both present as acute dyspnoea and hypoxia with bilateral infiltrates during or after transfusion, and the treatments are opposite.
+> **TACO is volume overload:** hypertensive, raised JVP, elevated BNP, responds to diuresis and sitting up. Risk factors are age, cardiac and renal impairment, small body size, and rapid transfusion rate.
+> **TRALI is an inflammatory lung injury** caused by donor antibodies against recipient leucocytes: **hypotensive, normal or low JVP, normal BNP, fever**, and **diuretics will not help and may harm** — it needs supportive ventilation.
+> The blood pressure and JVP are the discriminators. Getting this backwards and diuresing a hypotensive TRALI patient causes harm.
+
+> [!warning] Reactions that are delayed rather than acute
+> **Delayed haemolytic transfusion reaction** — days later, with a falling haemoglobin, jaundice and a newly positive antibody screen in a previously sensitised patient.
+> **Transfusion-associated graft-versus-host disease** — rare and usually fatal, prevented by irradiating products for at-risk recipients (immunocompromised, some haematology patients, directed donations from relatives).
+> **Iron overload** in chronically transfused patients.
+
+> [!tip] Massive transfusion metabolic complications
+> **Hypocalcaemia** from citrate chelation · **hyperkalaemia** from potassium leak in stored cells · **hypothermia** from cold products · **dilutional coagulopathy and thrombocytopenia**. All four are anticipated rather than discovered, and they are why massive transfusion needs active biochemical monitoring rather than just counting units.
+
+**S/Smx:** Fever, rigors, urticaria, dyspnoea, hypoxia, hypotension or hypertension, loin or back pain, dark urine, bleeding from puncture sites, and — reported repeatedly in acute haemolytic reactions — a subjective sense of doom that should be taken seriously.
+
+**Ix:** **Repeat identity check of patient, wristband and unit label** (*why:* it identifies the clerical error that causes most acute haemolytic reactions, and it may prevent a second patient receiving the wrong unit; *what:* mismatch). Post-transfusion FBC, DAT, LDH, haptoglobin, bilirubin (*why:* confirms or excludes haemolysis, which determines whether this is a life-threatening reaction or a benign febrile one; *what:* falling haemoglobin, positive DAT, raised LDH, low haptoglobin). Urinalysis (*why:* haemoglobinuria in acute haemolysis is a rapid supportive finding; *what:* dipstick-positive blood without red cells). Coagulation profile with fibrinogen (*why:* DIC complicates acute haemolytic reactions; *what:* prolonged INR, low fibrinogen). Blood cultures from the patient **and return of the unit for culture** (*why:* bacterial contamination is confirmed by culturing the product itself, which is why the unit must not be discarded; *what:* organism). CXR (*why:* distinguishes TACO and TRALI from other causes of dyspnoea; *what:* bilateral infiltrates). BNP (*why:* supports TACO over TRALI, though it is not definitive; *what:* elevation). UEC and ionised calcium in massive transfusion (*why:* the metabolic complications above; *what:* hyperkalaemia, hypocalcaemia).
+
+### 0.2.1 Mx – Immediate
+Stop. Line open with saline via a new set. Check identity. A–E. Reaction-specific treatment per the table. Notify the blood bank. Return the unit.
+
+### 0.2.2 Mx – Definitive
+Supportive care, ventilation for TRALI, diuresis for TACO, antibiotics for bacterial contamination, resuscitation and DIC management for acute haemolysis.
+
+### 0.2.3 Mx – Chronic/long-term
+**Report the reaction** — Australian haemovigilance depends on it. Document the reaction on the record and the transfusion history. Arrange washed, irradiated or leucodepleted products for future transfusions where indicated, and IgA-deficient products where anti-IgA is confirmed. Review whether the transfusion was necessary at all.
+
+---
+
+## 0.3 Coagulopathy — Assessment Framework
+
+**D:** Impaired haemostasis from deficiency or dysfunction of platelets, clotting factors, or fibrinolytic regulation.
+
+> [!danger] The bleeding history outperforms the screening tests
+> **A patient who has had dental extractions, surgery and childbirth without abnormal bleeding almost certainly does not have a significant inherited bleeding disorder, whatever the APTT says.** Conversely, a patient with a lifelong history of easy bruising, prolonged bleeding from small cuts, heavy menstrual bleeding, and a family history of the same has a bleeding disorder that may not show on screening tests — **von Willebrand disease in particular is frequently missed** because the APTT can be normal.
+> Ask specifically: bruising, epistaxis, gum bleeding, menstrual heaviness, bleeding after dental work, surgery, childbirth, and family history.
+
+> [!tip] Interpreting the screening tests
+> **PT / INR** — extrinsic and common pathways. **Factor VII has the shortest half-life**, so the PT prolongs **first** in liver disease, vitamin K deficiency and warfarin therapy. This is why the INR is the earliest marker of hepatic synthetic failure.
+> **APTT** — intrinsic and common pathways. Prolonged by heparin, haemophilia A and B, von Willebrand disease, and — importantly — **lupus anticoagulant, which prolongs the APTT in vitro while causing thrombosis in vivo.** A prolonged APTT is not always a bleeding risk.
+> **Both prolonged** — common pathway, severe liver disease, DIC, massive transfusion, warfarin overdose.
+> **A mixing study** distinguishes factor deficiency (corrects on mixing with normal plasma) from an inhibitor (does not correct).
+> `UNVERIFIED — all reference ranges require verification.`
+
+> [!danger] Do not give FFP for a raised INR in cirrhosis
+> Liver disease produces **"rebalanced haemostasis"** — synthesis of both procoagulant and anticoagulant factors (protein C, protein S, antithrombin) falls together. **The INR measures only the procoagulant side and therefore systematically overstates the bleeding risk in cirrhosis**; these patients are simultaneously at risk of thrombosis. Prophylactic FFP for a raised INR before a procedure in a cirrhotic patient is largely ineffective, causes volume overload and raises portal pressure. This is a well-established point that is still widely got wrong on the ward.
+
+> [!info] Causes worth separating
+> **DIC** — widespread activation with consumption. **Low fibrinogen, low platelets, prolonged PT and APTT, very high D-dimer, schistocytes on film.** Always secondary — sepsis, malignancy, obstetric catastrophe, trauma, severe haemolysis. **Treat the cause; product replacement is supportive.**
+> **Vitamin K deficiency** — malnutrition, malabsorption, prolonged antibiotics, biliary obstruction, warfarin. PT prolongs first; corrects with vitamin K.
+> **Dilutional** — massive transfusion and crystalloid.
+> **Hypothermia and acidosis** — enzymatic impairment. **Standard coagulation tests are run at 37°C and will therefore look normal in a cold, bleeding patient** — cross-refer [[A6]] 0.5.
+> **Uraemic platelet dysfunction** — normal platelet count with impaired function; desmopressin and dialysis help.
+> **Inherited** — haemophilia A and B, von Willebrand disease.
+
+**S/Smx:** The **pattern** of bleeding is informative. **Platelet or vascular disorders:** mucocutaneous — petechiae, purpura, epistaxis, gum bleeding, menorrhagia, immediate bleeding after injury. **Clotting factor disorders:** deep — haemarthrosis, muscle haematoma, retroperitoneal bleeding, and characteristically **delayed** rebleeding after initial haemostasis.
+
+**Ix:** FBC with platelet count and **blood film** (*why:* the film identifies schistocytes indicating microangiopathy, platelet clumping causing pseudothrombocytopenia, and blast cells suggesting marrow disease — all of which change the diagnosis entirely; *what:* platelet count, schistocytes, blasts). PT/INR and APTT (*why:* the initial screen and their pattern localises the defect; *what:* which is prolonged). **Fibrinogen** (*why:* it is the most useful single marker in DIC and in major haemorrhage, falls early, and is frequently not ordered; *what:* low fibrinogen). D-dimer (*why:* very high in DIC, supporting consumption over dilution; *what:* marked elevation). LFT and albumin (*why:* hepatic synthetic function underlies a large proportion of acquired coagulopathy; *what:* synthetic failure). UEC (*why:* uraemic platelet dysfunction; *what:* renal impairment). Mixing study where the APTT or PT is unexplainedly prolonged (*why:* separates deficiency from inhibitor, which have entirely different management; *what:* correction or not). Specific factor assays and von Willebrand studies where the history suggests an inherited disorder (*why:* screening tests miss von Willebrand disease and mild factor deficiencies; *what:* factor levels, VWF antigen and activity). Viscoelastic testing where available (*why:* functional whole-blood assessment guiding targeted product use in bleeding; *what:* clot kinetics, strength, fibrinolysis).
+
+### 0.3.1 Mx – Immediate
+Stop the bleeding locally. Correct hypothermia and acidosis, which no product will overcome. Targeted product replacement in a bleeding patient — platelets, fibrinogen concentrate or cryoprecipitate, and plasma as indicated. Vitamin K where deficiency is plausible.
+
+### 0.3.2 Mx – Definitive
+Treat the underlying cause. Haematology involvement for inherited disorders, inhibitors and complex acquired coagulopathy.
+
+### 0.3.3 Mx – Chronic/long-term
+Haemophilia and von Willebrand patients need specialist centre care, treatment plans, and documentation of their product and dosing requirements. Family counselling and genetic advice where inherited.
+
+---
+
+## 0.4 Anticoagulant-Associated Bleeding and Reversal
+
+**D:** Bleeding in a patient on anticoagulant or antiplatelet therapy, and the decision about whether and how to reverse it.
+
+> [!danger] The site determines the urgency, not the INR
+> **Intracranial haemorrhage in an anticoagulated patient requires immediate reversal — start it before the coagulation result returns.** Haematoma expansion happens in the first hours and reversal delayed for a laboratory value is reversal delayed too long. The same applies to any bleeding that is life-threatening, into a closed space, or uncontrollable by local means.
+> Conversely, minor bleeding — a nosebleed that stops, a bruise, microscopic haematuria — usually needs local measures and a review of the anticoagulant, not reversal.
+
+> [!tip] The four questions
+> **1. Which drug, and when was the last dose?** For direct oral anticoagulants there is no routinely available level, so **the time of the last dose and the renal function are the key history** — a DOAC in a patient with normal renal function has largely worn off after a defined interval, whereas in renal impairment it persists far longer.
+> **2. How severe and where is the bleeding?**
+> **3. What was the indication for anticoagulation?** — a mechanical mitral valve carries a very different thrombotic risk from atrial fibrillation with a low stroke score, and this determines how fast anticoagulation is restarted.
+> **4. Is there a reversal agent, and is it available here?**
+
+> [!info] Reversal by agent — the principles
+> **Warfarin** — vitamin K (slow onset, but essential for sustained reversal) plus **prothrombin complex concentrate** for rapid factor replacement in major bleeding. **Fresh frozen plasma is a poor second-line choice** — it requires large volumes, works less completely, and is slower.
+> **Dabigatran** (direct thrombin inhibitor) — **idarucizumab**, a specific monoclonal antibody fragment, with dialysis as an alternative since dabigatran is dialysable.
+> **Apixaban and rivaroxaban** (factor Xa inhibitors) — **andexanet alfa** is the specific agent; prothrombin complex concentrate is used where andexanet is unavailable, which in Australian practice is frequently the case. `UNVERIFIED — confirm current andexanet alfa availability and funding in Australia and at your health network, as this has changed and continues to.`
+> **Unfractionated heparin** — protamine, which reverses it essentially completely.
+> **Low molecular weight heparin** — protamine gives only **partial** reversal, which is a clinically important limitation.
+> **Antiplatelet agents** — no true reversal agent. **Platelet transfusion for antiplatelet-associated intracerebral haemorrhage has evidence of harm rather than benefit** and is not recommended routinely; desmopressin is sometimes used. This is a notable reversal of older practice.
+> `UNVERIFIED — every dose, the PCC dose by INR and weight, vitamin K dose and route, protamine dosing and its ratio to heparin given, and idarucizumab dosing are ALL omitted. Obtain from eTG, the Australian Medicines Handbook and your health network's reversal protocol.`
+
+> [!warning] Tranexamic acid and local measures come first and are underused
+> Direct pressure, packing, topical agents, endoscopic or radiological haemostasis, and tranexamic acid where appropriate. Reversal is not a substitute for stopping the bleeding mechanically.
+
+> [!danger] Restarting anticoagulation is a decision, not an oversight
+> After the bleeding is controlled, someone must actively decide when — or whether — to restart. **Leaving a patient with a mechanical valve or recent pulmonary embolism off anticoagulation indefinitely because nobody made the decision is a recognised cause of preventable thrombosis.** Document the plan explicitly in the discharge summary with a named responsible clinician and a review date.
+
+**S/Smx:** Site-dependent. Look actively for occult sites — retroperitoneal bleeding presenting as flank or thigh pain with an unexplained haemoglobin fall, and intracranial bleeding presenting as headache, confusion or a fall in an elderly patient on anticoagulation after apparently trivial head trauma. Cross-refer [[F0.5]] 0.8.
+
+**Ix:** FBC with serial haemoglobin (*why:* quantifies loss and its trajectory; *what:* falling haemoglobin). Coagulation profile including INR (*why:* guides warfarin reversal dosing, though **it must not delay reversal in intracranial haemorrhage**, and it is largely **uninformative for DOACs**; *what:* INR, APTT). **Time of last DOAC dose and renal function** (*why:* these are the practical substitute for a drug level and determine both residual effect and clearance; *what:* interval since last dose, eGFR). Specific DOAC assays — anti-Xa activity, dilute thrombin time — where available (*why:* quantifies residual effect in complex cases; *what:* drug level — noting availability is limited and turnaround often too slow to be useful acutely). UEC and LFT (*why:* clearance and reversal agent choice; *what:* renal and hepatic function). Group and hold or crossmatch (*why:* transfusion may be needed; *what:* units available). **Urgent non-contrast CT brain for any head injury or neurological symptom in an anticoagulated patient** (*why:* the threshold is far lower than in a non-anticoagulated patient, and delayed haemorrhage occurs; *what:* haemorrhage, mass effect). Imaging of the suspected site (*why:* localises for interventional or surgical control; *what:* CT angiography, endoscopy).
+
+### 0.4.1 Mx – Immediate
+A–E, resuscitation, local haemostasis. **Stop the anticoagulant.** Reverse urgently where bleeding is life-threatening or intracranial — **do not wait for coagulation results in intracranial haemorrhage.** Involve haematology and the relevant proceduralist early.
+
+### 0.4.2 Mx – Definitive
+Definitive haemostasis — surgical, endoscopic or radiological. Neurosurgical referral for intracranial bleeding. Completion of reversal and confirmation of its adequacy.
+
+### 0.4.3 Mx – Chronic/long-term
+**Explicit documented plan for restarting anticoagulation, with a date and a named clinician.** Reassess the original indication and the bleeding risk — the event may indicate the indication has changed, the dose is wrong for the patient's renal function, or an interacting drug has been added. Review interacting medications, particularly NSAIDs and antiplatelets. Falls assessment in an elderly patient. Cross-refer [[J3]] Bleeding & Thrombosis and [[18_Geriatrics_and_Older_Persons_Health]].
+
+---
+
+> [!note] Cross-references
+> Shock phenotypes and resuscitation → [[F0.3]] 0.1–0.2 · Hypothermia and cold coagulopathy → [[A6]] 0.5 · Crush injury and hyperkalaemia → [[A7]] 0.6 · Head injury on anticoagulants → [[F0.5]] 0.7–0.8 · Chronic anaemia and haemolysis → [[J2]] · Bleeding tendency as an outpatient presentation → [[J3]] · Sickle cell crisis → [[J2]]
+
+
+<!-- ===== SOURCE: F0-1_Toxidromes__Allergic_Emergencies_and_Envenomation.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Mechanism, discriminators and investigation reasoning are reliable at intern level. **Every dose, threshold, reference range and timing figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** For this file specifically: all antidote dosing, all anaphylaxis adrenaline figures, and all antivenom vial numbers must come from the Australian Poisons Information Centre (13 11 26), eTG Toxicology and Toxinology, and ASCIA. A calcium channel blocker class fact was previously inverted in this corpus — 0.7 restates the selectivity explicitly for that reason.
+
+---
+
+## 0.1 Toxidrome Recognition — Framework
+
+**D:** A toxidrome is a cluster of vital signs, pupil size, skin findings and mental state that identifies a class of poisoning before any drug level returns.
+
+**A/P:** Agent binds its receptor class → predictable autonomic output → the pattern of pupils, skin, bowel sounds and temperature reveals the receptor class → class determines antidote and supportive priority, independent of which specific drug was taken.
+
+**S/Smx:** The examination that discriminates is narrow and quick: pupil size, skin moisture, bowel sounds, temperature, reflexes and tone. Skin moisture and bowel sounds do most of the work.
+
+> [!tip] Toxidrome comparison
+> | | Pupils | Skin | Bowel sounds | Temp | Mental state | Distinctive |
+> |---|---|---|---|---|---|---|
+> | Anticholinergic | Dilated | **Dry, flushed** | **Absent** | Raised | Agitated delirium, mumbling | Urinary retention |
+> | Cholinergic | Constricted | **Wet** | **Hyperactive** | Normal/low | Confused, then depressed | Bronchorrhoea, fasciculations |
+> | Sympathomimetic | Dilated | **Wet** | Normal/increased | Raised | Agitated, alert | Normal reflexes, hypertension |
+> | Opioid | **Pinpoint** | Normal | Reduced | Normal/low | Depressed | **Low respiratory rate** |
+> | Sedative-hypnotic | Normal/small | Normal | Reduced | Normal/low | Depressed | Reflexes preserved early |
+> | Serotonin toxicity | Dilated | Wet | Increased | Raised | Agitated | **Clonus, hyperreflexia, lower-limb predominant** |
+
+> [!warning] The two pairs that get confused
+> **Anticholinergic vs sympathomimetic** — both have dilated pupils, tachycardia, hyperthermia and agitation. The skin separates them: anticholinergic is **dry**, sympathomimetic is **soaked**. Bowel sounds confirm it — absent versus present.
+> **Serotonin toxicity vs neuroleptic malignant syndrome** — see 0.4. Onset speed and the character of the tone abnormality separate them.
+
+**Ix:** Bedside glucose (*why:* hypoglycaemia mimics every toxidrome and reverses in seconds; *what:* low value). ECG (*why:* the single highest-yield test in undifferentiated poisoning — QRS and QT tell you about sodium and potassium channel blockade regardless of the history given; *what:* QRS widening, QT prolongation, terminal R wave in aVR, arrhythmia). Paracetamol level in every deliberate self-poisoning (*why:* it is common, co-ingested, silent for the first day, and lethal if the treatable window is missed; *what:* level plotted against time since ingestion). VBG with lactate and electrolytes (*why:* identifies anion gap acidosis and gives potassium quickly; *what:* HAGMA, hyperlactataemia, potassium derangement). UEC, LFT, coagulation profile (*why:* baseline organ function and the derangements that direct antidote decisions; *what:* renal impairment, transaminitis, coagulopathy). Osmolality where toxic alcohol is plausible (*why:* the osmolar gap is elevated early when the anion gap is still normal; *what:* raised gap — see 0.8).
+
+### 0.1.1 Mx – Immediate
+Resuscitation before identification. A–E, oxygen, IV access, bedside glucose, continuous cardiac monitoring. **Call the Poisons Information Centre on 13 11 26** — this is the expected step in Australian practice, not a fallback, and it is the correct answer in both the exam and the resus bay.
+
+### 0.1.2 Mx – Definitive
+Decontamination, antidote and enhanced elimination decisions are agent-specific and time-dependent. `UNVERIFIED — activated charcoal indications, the time window in which it retains benefit, and all contraindications require verification against eTG Toxicology; no window is stated here.`
+
+### 0.1.3 Mx – Chronic/long-term
+Every deliberate self-poisoning requires mental health assessment before discharge, regardless of how medically trivial the ingestion proved to be. Cross-refer [[N1]] Risk Assessment & Suicidality.
+
+---
+
+## 0.2 Anticholinergic Toxidrome
+
+**D:** Poisoning by muscarinic receptor antagonism, producing central delirium with peripheral parasympathetic blockade.
+
+**R/Causes:** Tricyclic antidepressants, sedating antihistamines (promethazine, diphenhydramine), antipsychotics, benztropine, oxybutynin, atropine, *Datura* and other plant alkaloids. Cumulative anticholinergic burden in the elderly on polypharmacy — cross-refer [[18_Geriatrics_and_Older_Persons_Health]] Anticholinergic burden.
+
+**A/P:** Muscarinic blockade peripherally → loss of sweating, pupillary constriction, gut motility and bladder emptying → dry flushed skin, mydriasis, ileus, retention; loss of sweating removes the main heat-loss route → hyperthermia. Central muscarinic blockade → agitated delirium with visual hallucinations and characteristic mumbling incoherent speech.
+
+**S/Smx:** Hot, dry, flushed skin. Dilated poorly reactive pupils. Absent bowel sounds, palpable bladder. Agitated delirium, picking at bedclothes, visual hallucinations of small figures or insects, mumbling speech. Tachycardia.
+
+> [!tip] The classical mnemonic
+> Blind as a bat (mydriasis, blurred vision) · Dry as a bone (anhidrosis) · Red as a beet (flushing) · Hot as a hare (hyperthermia) · Mad as a hatter (delirium) · Full as a flask (urinary retention).
+
+> [!danger] The real risk is the co-ingestant, not the anticholinergic effect
+> Tricyclic antidepressants produce this picture and also block fast sodium channels — the death is from QRS widening, seizures and arrhythmia, not from the dry skin. Any anticholinergic presentation demands an ECG looking specifically for QRS widening and a terminal R wave in aVR. Cross-refer [[A5]] TCA Overdose.
+
+**Ix:** ECG (*why:* separates a benign antihistamine ingestion from a sodium-channel-blocking TCA, which is the entire prognostic question; *what:* QRS widening, terminal R wave in aVR, QT prolongation). Bedside glucose and core temperature (*why:* hyperthermia here is a failure of heat dissipation and rises without warning; *what:* core temperature trend). Bladder scan (*why:* retention is uncomfortable, causes further agitation, and is easily missed in a delirious patient; *what:* retained volume). Paracetamol level (*why:* combination analgesic and cold-and-flu preparations pair antihistamines with paracetamol; *what:* level against time). CK where prolonged agitation or restraint (*why:* rhabdomyolysis follows sustained agitation; *what:* elevation).
+
+### 0.2.1 Mx – Immediate
+Supportive care is the treatment. Cooling for hyperthermia, benzodiazepines for agitation, IV fluids, catheterisation for retention. **Avoid physical restraint where possible** — it worsens hyperthermia and rhabdomyolysis. Continuous cardiac monitoring.
+
+### 0.2.2 Mx – Definitive
+Sodium bicarbonate is the intervention for QRS widening in sodium channel blockade, not for the anticholinergic features. `UNVERIFIED — the QRS threshold at which bicarbonate is indicated, and its dosing, require verification against eTG Toxicology and the Poisons Information Centre.` Physostigmine has a narrow and contested role and is not an intern decision.
+
+### 0.2.3 Mx – Chronic/long-term
+Medication review and deprescribing where the cause was cumulative burden. Mental health assessment where deliberate.
+
+---
+
+## 0.3 Cholinergic Toxidrome (Organophosphates)
+
+**D:** Acetylcholinesterase inhibition producing acetylcholine excess at muscarinic, nicotinic and central receptors.
+
+**R/Causes:** Organophosphate and carbamate insecticides — agricultural and domestic exposure, deliberate ingestion. Nerve agents. Some mushrooms.
+
+**A/P:** Cholinesterase inhibited → acetylcholine accumulates at the synapse → muscarinic overstimulation gives secretions, bronchoconstriction, bradycardia and gut hyperactivity; nicotinic overstimulation gives fasciculations, weakness and ultimately paralysis; central overstimulation gives confusion, seizures and respiratory depression. Organophosphates then undergo "ageing" — an irreversible covalent change to the enzyme after which pralidoxime cannot reactivate it, which is why antidote timing matters.
+
+**S/Smx:** Wet everywhere. Miosis, salivation, lacrimation, sweating, vomiting, diarrhoea, bronchorrhoea, bronchospasm, bradycardia, fasciculations, weakness. A garlic or solvent odour may be present.
+
+> [!tip] Two mnemonics, and which one matters
+> **DUMBELS** — Diarrhoea, Urination, Miosis, Bronchorrhoea/Bronchospasm/Bradycardia, Emesis, Lacrimation, Salivation.
+> **The killer B's — bronchorrhoea, bronchospasm, bradycardia.** These are what kill. The patient drowns in their own secretions. Everything else on the list is uncomfortable rather than lethal.
+
+> [!danger] Staff contamination
+> Organophosphates are absorbed through skin and through vomit and clothing. **Decontaminate before, or while, treating** — remove clothing, wash the patient, and use appropriate PPE. Secondary contamination of the resus team is a described and preventable event.
+
+**Ix:** The diagnosis is clinical and treatment must not wait for confirmatory tests. Red cell or plasma cholinesterase activity (*why:* confirms exposure and gives some prognostic information, but turnaround is far too slow to guide management; *what:* depressed activity). ABG or VBG (*why:* quantifies the ventilatory failure that bronchorrhoea and weakness produce; *what:* hypoxia, rising CO₂). ECG (*why:* bradyarrhythmia and QT prolongation occur; *what:* bradycardia, prolonged QT). UEC and glucose (*why:* baseline and hypoglycaemia exclusion; *what:* electrolyte derangement). CXR (*why:* aspiration and pulmonary oedema from secretions; *what:* infiltrates).
+
+### 0.3.1 Mx – Immediate
+Decontamination with PPE. Airway management with aggressive suctioning — secretions, not hypoxia from lung disease, are the primary airway problem. Atropine is the muscarinic antidote and is titrated to **drying of bronchial secretions**, not to heart rate or pupil size. `UNVERIFIED — atropine initial dose, doubling regimen and titration endpoint require verification against eTG Toxicology and the Poisons Information Centre; the doses used are far larger than in any other indication and must not be estimated.`
+
+### 0.3.2 Mx – Definitive
+Pralidoxime reactivates cholinesterase and addresses the nicotinic features that atropine does not touch, but only before ageing. `UNVERIFIED — pralidoxime dosing and the time window before ageing require verification.` Benzodiazepines for seizures. Intubation and ventilation for the intermediate syndrome — delayed proximal and respiratory muscle weakness developing after the acute cholinergic phase resolves, which catches teams who have relaxed.
+
+### 0.3.3 Mx – Chronic/long-term
+Prolonged ICU stay is common. Delayed peripheral neuropathy is described. Occupational exposure requires workplace notification — cross-refer [[P1]] Occupational Exposure.
+
+---
+
+## 0.4 Sympathomimetic Toxidrome vs Serotonin Toxicity
+
+**D:** Two hyperadrenergic hyperthermic states with overlapping presentations and different mechanisms — catecholamine excess versus excess serotonergic neurotransmission.
+
+**R/Causes:**
+*Sympathomimetic:* Amphetamines, methamphetamine, cocaine, MDMA, synthetic cathinones, salbutamol and theophylline in overdose.
+*Serotonin toxicity:* Almost always a combination — SSRI or SNRI plus tramadol, MAOI, linezolid, triptan, St John's wort, MDMA, or an SSRI dose increase.
+
+**A/P:**
+*Sympathomimetic:* Increased synaptic catecholamine → α and β stimulation → vasoconstriction, tachycardia, hypertension, mydriasis, diaphoresis, agitation; sustained agitation and vasoconstriction → hyperthermia, rhabdomyolysis, and in cocaine specifically coronary vasospasm and aortic dissection.
+*Serotonin toxicity:* Excess 5-HT2A stimulation → autonomic instability plus a distinctive neuromuscular excitation — **clonus and hyperreflexia, greater in the legs than the arms** — with hyperthermia driven by muscular activity.
+
+**S/Smx:** Both give agitation, mydriasis, diaphoresis, tachycardia, hypertension and hyperthermia. The neuromuscular examination separates them.
+
+> [!tip] Serotonin toxicity vs NMS vs sympathomimetic
+> | | Onset | Tone | Reflexes | Pupils | Discriminator |
+> |---|---|---|---|---|---|
+> | Serotonin toxicity | Hours | Rigidity, **lower limbs > upper** | **Hyperreflexia, clonus** | Dilated | Inducible or spontaneous clonus |
+> | NMS | Days to weeks | **Lead-pipe rigidity, generalised** | Reduced or normal | Normal | Slow onset after antipsychotic |
+> | Sympathomimetic | Minutes to hours | Normal | Normal | Dilated | Normal reflexes, clear drug history |
+
+> [!warning] Ask about the combination, not the drug
+> Serotonin toxicity is a drug–drug interaction far more often than a single-agent overdose. Tramadol added to an SSRI is the classic Australian ward and GP scenario. A patient on a stable SSRI who has just been started on something new is the history to elicit.
+
+**Ix:** Core temperature (*why:* hyperthermia is the proximate cause of death in both and determines the aggressiveness of cooling; *what:* trend, with severe elevation demanding active cooling and paralysis). CK (*why:* rhabdomyolysis from sustained muscular hyperactivity causes the renal failure that follows; *what:* marked elevation). UEC and potassium (*why:* rhabdomyolysis produces hyperkalaemia and acute kidney injury; *what:* rising creatinine, hyperkalaemia). ECG and troponin where cocaine is involved (*why:* cocaine causes coronary vasospasm and infarction in young patients with normal arteries; *what:* ischaemic change, troponin rise). Coagulation profile (*why:* DIC complicates severe hyperthermia; *what:* deranged INR, low fibrinogen). CT brain where headache, focal deficit or sustained severe hypertension (*why:* sympathomimetics cause intracranial haemorrhage; *what:* bleed).
+
+### 0.4.1 Mx – Immediate
+**Benzodiazepines are the first-line treatment for both**, addressing agitation, hypertension, tachycardia and muscular hyperactivity in one intervention. Active cooling for hyperthermia. IV fluids. Continuous monitoring. `UNVERIFIED — benzodiazepine dosing and the core temperature threshold defining severe hyperthermia require verification against eTG.`
+
+> [!danger] Two agent-specific traps
+> **Avoid beta-blockers in cocaine toxicity** — unopposed alpha stimulation may worsen hypertension and coronary vasospasm. **Avoid antipsychotics for agitation in either syndrome** — they lower the seizure threshold, impair heat dissipation, and in serotonin toxicity may worsen the picture. Benzodiazepines, not droperidol, are the answer here.
+
+### 0.4.2 Mx – Definitive
+Cease all serotonergic agents. Severe serotonin toxicity with hyperthermia requires intubation, paralysis and cooling — muscular activity is generating the heat, so paralysis stops it. Cyproheptadine has a role. `UNVERIFIED — cyproheptadine dosing and route require verification.`
+
+### 0.4.3 Mx – Chronic/long-term
+Medication reconciliation with explicit documentation of the interacting pair. Drug and alcohol referral where recreational. Mental health assessment where deliberate.
+
+---
+
+## 0.5 Opioid-Induced Respiratory Depression
+
+**D:** Reduced respiratory drive from mu opioid receptor agonism, whether iatrogenic, recreational or deliberate.
+
+**R:**
+*Unmodifiable:* Age, renal impairment altering clearance, obstructive sleep apnoea.
+*Modifiable:* Dose escalation, opioid-naive status, co-prescribed benzodiazepines or gabapentinoids, recent abstinence with lost tolerance (post-release from custody, post-detoxification), switching between opioid formulations without correct equianalgesic conversion.
+
+**A/P:** Mu receptor agonism in the brainstem respiratory centres → reduced CO₂ chemosensitivity → falling respiratory rate rather than falling tidal volume → hypercapnia → CO₂ narcosis deepens sedation → further hypoventilation → hypoxia → arrest.
+
+**S/Smx:** Pinpoint pupils, low respiratory rate, sedation. **Respiratory rate is the observation that matters — sedation score falls before saturation does, and saturation on supplemental oxygen can remain normal in a patient with a dangerously high CO₂.**
+
+> [!danger] Oxygen masks this
+> A patient on supplemental oxygen with an oximeter reading in the nineties can be profoundly hypercapnic and about to arrest. Monitor **sedation score and respiratory rate**, not saturation alone. This is the single most common serious ward prescribing harm involving opioids.
+
+> [!warning] Naloxone has a shorter half-life than most opioids
+> Re-sedation after an initial good response is expected, particularly with long-acting or slow-release preparations and with methadone. A patient who wakes with naloxone still requires prolonged observation and often an infusion. Naloxone also precipitates acute withdrawal and uncontrolled pain — titrate to adequate respiration, not to full alertness.
+
+**Ix:** VBG or ABG (*why:* the definitive test — quantifies CO₂ retention, which oximetry cannot detect; *what:* raised pCO₂ with respiratory acidosis). Bedside glucose (*why:* reversible mimic; *what:* hypoglycaemia). Medication chart and community dispensing history (*why:* identifies cumulative dose, slow-release preparations that will outlast naloxone, and co-prescribed sedatives; *what:* total opioid load, formulation, timing). Paracetamol level where a combination preparation is possible (*why:* codeine and oxycodone are commonly co-formulated with paracetamol; *what:* level against time). CXR (*why:* aspiration and non-cardiogenic pulmonary oedema both follow; *what:* infiltrates).
+
+### 0.5.1 Mx – Immediate
+Airway positioning, oxygen and bag-mask ventilation if inadequate — **ventilate first, naloxone second.** Naloxone titrated in small increments to restore adequate respiration. `UNVERIFIED — naloxone dose, route, titration increment and infusion rate require verification against eTG and local policy; the dose appropriate for an opioid-dependent patient differs from that for an opioid-naive post-operative patient and neither is stated here.`
+
+### 0.5.2 Mx – Definitive
+Prolonged observation, and infusion where a long-acting agent was involved. Review and reduce the prescribed regimen. Cross-refer [[F0.4]] Adult analgesia.
+
+### 0.5.3 Mx – Chronic/long-term
+Take-home naloxone provision and training for the patient and their household where dependence is present. Drug and alcohol referral. Opioid stewardship review where iatrogenic.
+
+---
+
+## 0.6 Paracetamol Overdose
+
+**D:** Hepatotoxicity from saturation of normal paracetamol conjugation pathways and depletion of hepatic glutathione.
+
+**R/Causes:** Deliberate self-poisoning; staggered supratherapeutic ingestion for pain; therapeutic-dose toxicity in the malnourished, chronic alcohol-dependent, or very low body weight. Combination cold-and-flu and analgesic preparations cause unintentional double-dosing.
+
+**A/P:** Therapeutic doses are conjugated to glucuronide and sulfate → in overdose these pathways saturate → more paracetamol is shunted through CYP2E1 to NAPQI → NAPQI is normally detoxified by glutathione → glutathione is depleted → free NAPQI binds hepatocyte proteins → centrilobular necrosis → transaminitis at 24–48 hours, coagulopathy and encephalopathy at 72–96 hours. N-acetylcysteine works by replenishing glutathione, which is why it must be given **before** the injury occurs.
+
+**S/Smx:** **Asymptomatic or trivially nauseated in the first day — this is the trap.** RUQ pain and vomiting at 24–48 h. Jaundice, coagulopathy, encephalopathy, hypoglycaemia and acute kidney injury from 72 h. A patient who looks well tells you nothing.
+
+> [!danger] The window closes silently
+> N-acetylcysteine is highly effective when given early and progressively less so as time passes. **Take a level in every deliberate self-poisoning regardless of the stated ingestion history**, because co-ingestion is common and the history is unreliable. The number of preventable deaths from this poisoning is entirely a function of missed early presentations.
+
+> [!info] The treatment nomogram
+> Treatment is decided by plotting the serum level against time since ingestion on a treatment nomogram, with separate handling for staggered ingestions, unknown time of ingestion, and modified-release preparations — for which the standard nomogram does not apply. `UNVERIFIED — the nomogram treatment line, the earliest time at which a level is interpretable, the modified-release protocol and all NAC dosing require verification against the current Australian and New Zealand consensus guideline for paracetamol poisoning and the Poisons Information Centre. No figures are stated here; this is the highest-consequence category of number in this file.`
+
+**Ix:** Serum paracetamol level timed from ingestion (*why:* the single determinant of whether antidote is required, and it is uninterpretable before a defined post-ingestion interval; *what:* level plotted on the nomogram). LFT with ALT (*why:* ALT is the earliest marker of established hepatocyte injury and its trajectory determines whether NAC continues beyond the standard course; *what:* rising ALT). INR (*why:* the most useful prognostic marker in established toxicity, more so than transaminases; *what:* rising INR). UEC and creatinine (*why:* acute kidney injury occurs independently of and sometimes without liver failure; *what:* rising creatinine). VBG with lactate (*why:* metabolic acidosis and hyperlactataemia are poor prognostic markers and feature in transplant criteria; *what:* acidosis, raised lactate). Bedside glucose (*why:* hypoglycaemia signals severe hepatic failure and is easily missed; *what:* low glucose). Salicylate level and ECG (*why:* co-ingestion is common in deliberate poisoning; *what:* salicylate level, QRS and QT).
+
+### 0.6.1 Mx – Immediate
+Assess time and quantity of ingestion, whether staggered, and the preparation. Take a paracetamol level at the appropriate interval. Activated charcoal has a role in early presentation. `UNVERIFIED — charcoal timing window and dose require verification.` **Do not wait for the level before starting NAC in a late, massive, or staggered presentation** — start and stop later if the level does not support it.
+
+### 0.6.2 Mx – Definitive
+N-acetylcysteine per protocol, with the course extended if ALT is rising or the level remains detectable at the end. Anaphylactoid reactions to NAC are common, usually rate-related, and are managed by slowing the infusion rather than abandoning the antidote. Discuss with a liver transplant unit where INR, lactate, pH or encephalopathy meet escalation criteria. `UNVERIFIED — transplant referral criteria require verification.`
+
+### 0.6.3 Mx – Chronic/long-term
+Mental health assessment before discharge in every deliberate case. Cross-refer [[N1]] Risk Assessment & Suicidality.
+
+---
+
+## 0.7 Beta-Blocker and Calcium Channel Blocker Overdose
+
+**D:** Cardiogenic shock from blockade of beta-adrenergic receptors or L-type calcium channels, characteristically resistant to conventional vasopressor support.
+
+**R/Causes:** Deliberate ingestion; accidental paediatric ingestion, where a small number of tablets of a slow-release preparation can be lethal to a toddler.
+
+**A/P:**
+*Beta-blocker:* β1 blockade → reduced cAMP → reduced intracellular calcium → negative inotropy and chronotropy → bradycardia and hypotension. Propranolol additionally blocks fast sodium channels, adding QRS widening and seizures, and is lipophilic enough to cause direct CNS depression.
+*Calcium channel blocker:* L-type channel blockade → reduced calcium entry into myocardium and vascular smooth muscle → negative inotropy and vasodilatation. Pancreatic islet L-type channel blockade also impairs insulin release → hyperglycaemia.
+
+> [!info] Calcium channel blocker selectivity — stated explicitly
+> **Dihydropyridines** (amlodipine, nifedipine, felodipine) are **vascular-selective** — they cause vasodilatation and, at therapeutic doses, reflex tachycardia. They are not primarily rate-controlling agents.
+> **Non-dihydropyridines** (verapamil, diltiazem) are **cardiac-selective** — negatively inotropic and chronotropic, causing bradycardia. These are the rate-control agents.
+> **In significant overdose this selectivity is lost**, and a dihydropyridine can produce bradycardia and profound myocardial depression. `UNVERIFIED — this class fact was previously recorded inverted in this corpus; confirm the selectivity direction against the Australian Medicines Handbook before relying on it.`
+
+> [!tip] The bedside discriminator
+> **Hyperglycaemia points to calcium channel blocker.** CCBs block pancreatic insulin release, so glucose rises. Beta-blockers tend toward normal or low glucose, and propranolol may cause frank hypoglycaemia. Both give bradycardia and hypotension; the glucose separates them.
+
+> [!danger] Slow-release preparations
+> Onset can be delayed by many hours, so an initially well patient is not reassuring. A paediatric exploratory ingestion of a slow-release calcium channel blocker requires admission and prolonged observation regardless of how well the child appears. `UNVERIFIED — observation duration requires verification with the Poisons Information Centre.`
+
+**S/Smx:** Bradycardia, hypotension, reduced conscious state. Preserved mental state despite marked hypotension is described in CCB toxicity early. Seizures and QRS widening suggest propranolol. Pulmonary oedema occurs with CCBs.
+
+**Ix:** ECG and continuous monitoring (*why:* identifies the degree of conduction block and distinguishes propranolol's sodium channel effect; *what:* bradycardia, AV block, QRS widening). Bedside and serial glucose (*why:* the discriminator above, and glucose must be tracked closely once high-dose insulin therapy begins; *what:* hyperglycaemia in CCB, hypoglycaemia in propranolol). VBG with lactate (*why:* quantifies the perfusion deficit and tracks response to therapy; *what:* rising lactate, acidosis). UEC with potassium and calcium (*why:* high-dose insulin therapy drives potassium down and calcium is given therapeutically; *what:* baseline and serial potassium). Bedside echocardiography (*why:* distinguishes a vasodilated state from a failing pump, which changes whether vasopressor or inotrope is prioritised; *what:* contractility, filling).
+
+### 0.7.1 Mx – Immediate
+A–E, IV access, continuous monitoring, early ICU and Poisons Information Centre involvement — this is a poisoning where standard resuscitation frequently fails and early escalation is the intervention that changes outcome. Atropine, calcium, fluids and vasopressors are all used, with **high-dose insulin euglycaemic therapy** as a central intervention in significant toxicity. `UNVERIFIED — atropine, calcium, glucagon, vasopressor and high-dose insulin dosing and titration are all omitted here and must come from the Poisons Information Centre and eTG. High-dose insulin regimens use doses far above diabetic practice and must never be estimated.`
+
+### 0.7.2 Mx – Definitive
+Escalation to lipid emulsion, pacing, or extracorporeal support in refractory cases — ICU decisions. Whole bowel irrigation is considered for slow-release preparations. `UNVERIFIED — indications and technique require verification.`
+
+### 0.7.3 Mx – Chronic/long-term
+Mental health assessment. Where paediatric and exploratory, medication storage counselling and safeguarding consideration — cross-refer [[P3]] Neglect Concern.
+
+---
+
+## 0.8 Toxic Alcohols — Methanol and Ethylene Glycol
+
+**D:** Poisoning by alcohols whose metabolites, rather than the parent compound, cause organ-specific injury and severe metabolic acidosis.
+
+**R/Causes:** Deliberate ingestion; substitution when ethanol is unavailable; accidental ingestion of automotive coolant (ethylene glycol, sweet-tasting) or industrial solvents, screen wash and illicitly distilled spirits (methanol).
+
+**A/P:** Parent alcohol is itself relatively inert and causes intoxication → alcohol dehydrogenase metabolises it → **methanol → formaldehyde → formic acid**, which is directly toxic to the retina and optic nerve; **ethylene glycol → glycolic acid → oxalic acid**, which chelates calcium and precipitates as calcium oxalate in the renal tubules. Accumulating acid metabolites produce a severe high anion gap metabolic acidosis. Blocking alcohol dehydrogenase prevents metabolite formation, which is why the antidote works and why it must be given before metabolism is complete.
+
+> [!tip] The gap sequence tells you the timing
+> **Early:** parent alcohol present, metabolites not yet formed → **raised osmolar gap, normal anion gap.**
+> **Late:** parent alcohol metabolised → **normal osmolar gap, raised anion gap with severe acidosis.**
+> A patient presenting late with a normal osmolar gap has not excluded the diagnosis — they have the dangerous version of it. `UNVERIFIED — osmolar gap calculation and its normal threshold require verification; the gap is insensitive and a normal value never excludes ingestion.`
+
+> [!danger] The organ-specific clues
+> **Methanol — visual symptoms.** Blurred vision, "snowfield" whiteout, photophobia, and on examination dilated poorly reactive pupils with optic disc hyperaemia. Blindness is permanent once established.
+> **Ethylene glycol — renal failure with hypocalcaemia.** Oxalate crystalluria, acute kidney injury, and tetany or a prolonged QT from calcium chelation.
+
+**S/Smx:** Apparent intoxication **without the smell of ethanol**. Nausea and vomiting. Then, as metabolites accumulate, Kussmaul respiration, altered conscious state, and the organ-specific features above.
+
+**Ix:** VBG or ABG with anion gap calculation (*why:* the severity of the acidosis drives both the antidote and the dialysis decision; *what:* severe HAGMA). Serum osmolality with calculated osmolar gap (*why:* detects the parent alcohol in the early window when the anion gap is still normal; *what:* raised gap early). Ethanol level (*why:* co-ingested ethanol competitively occupies alcohol dehydrogenase and is itself protective, and its presence explains an osmolar gap without toxic alcohol; *what:* level). UEC with calcium (*why:* ethylene glycol causes renal failure and hypocalcaemia; *what:* rising creatinine, low calcium). Urine microscopy (*why:* calcium oxalate crystals support ethylene glycol though their absence does not exclude it; *what:* envelope-shaped crystals). Lactate, interpreted with caution (*why:* glycolate cross-reacts on some lactate analysers producing a spuriously high value, and the discrepancy between analysers is itself a clue; *what:* lactate gap). Formal methanol and ethylene glycol levels (*why:* confirmatory, but turnaround is far too slow to guide treatment; *what:* level). Visual acuity and fundoscopy where methanol suspected (*why:* documents the injury and supports urgent treatment; *what:* reduced acuity, hyperaemic disc).
+
+### 0.8.1 Mx – Immediate
+Call the Poisons Information Centre early. Airway support, IV access. **Treat on suspicion — do not wait for confirmatory levels.** Alcohol dehydrogenase blockade with fomepizole, or ethanol where fomepizole is unavailable. `UNVERIFIED — fomepizole and ethanol dosing, and the anion gap or level thresholds triggering treatment, require verification with the Poisons Information Centre.` Sodium bicarbonate for severe acidosis. Cofactor therapy differs by agent — folinic acid for methanol, thiamine and pyridoxine for ethylene glycol.
+
+### 0.8.2 Mx – Definitive
+**Haemodialysis** removes both parent alcohol and metabolite and corrects the acidosis; it is the definitive treatment in severe poisoning. Early nephrology and ICU involvement. `UNVERIFIED — dialysis indication thresholds require verification.`
+
+### 0.8.3 Mx – Chronic/long-term
+Ophthalmology follow-up for methanol survivors. Renal follow-up for ethylene glycol. Drug and alcohol referral and mental health assessment.
+
+---
+
+## 0.9 Anaphylaxis and Acute Allergic Reaction
+
+**D:** Acute, rapidly progressive, potentially fatal systemic hypersensitivity reaction involving airway, breathing or circulation, with or without skin involvement.
+
+**R:**
+*Unmodifiable:* Prior anaphylaxis, atopy, mast cell disorders.
+*Modifiable:* Known allergen exposure, poorly labelled food, delayed adrenaline administration, upright or sudden posture change during a reaction, concurrent beta-blocker therapy blunting adrenaline response.
+
+**A/P:** Allergen cross-links IgE on mast cells and basophils → massive degranulation with histamine, tryptase and leukotriene release → vasodilatation with capillary leak causing distributive shock and profound intravascular volume loss; bronchial smooth muscle constriction causing bronchospasm; mucosal oedema causing upper airway obstruction. Adrenaline reverses all three arms simultaneously — α1 vasoconstriction, β2 bronchodilatation, and mast cell stabilisation — which is why nothing else substitutes for it.
+
+**S/Smx:** Sudden onset after exposure with **airway** (tongue or throat swelling, stridor, hoarseness), **breathing** (wheeze, dyspnoea, hypoxia) or **circulation** (hypotension, collapse, pallor) involvement. Urticaria, angioedema, flushing, vomiting and abdominal pain support the diagnosis but their absence does not exclude it.
+
+> [!danger] Skin findings are absent in a meaningful minority
+> Anaphylaxis with hypotension and no rash is a well-described presentation, particularly in perioperative and drug-induced cases. **Do not require urticaria before diagnosing anaphylaxis or before giving adrenaline.**
+
+> [!danger] Two positioning and route errors that kill
+> **Do not sit or stand the patient up**, and do not walk them to the bathroom or the ambulance — sudden upright posture in a volume-depleted vasodilated patient has caused arrest. Lie flat, or left lateral in pregnancy, and elevate the legs.
+> **Adrenaline is intramuscular into the anterolateral thigh.** Subcutaneous and inhaled routes are inadequate. IV adrenaline is for refractory cases with expert supervision and carries real hazard.
+
+> [!warning] Antihistamines and steroids are not treatment
+> Neither reverses airway obstruction or shock. They are adjuncts at most, and reaching for them before adrenaline is the commonest documented error in anaphylaxis management. Delayed adrenaline is the strongest predictor of fatality.
+
+**Ix:** The diagnosis is clinical and **no test should delay adrenaline.** Serum tryptase, ideally serially (*why:* supports the diagnosis retrospectively when the presentation was atypical, and matters for later allergy assessment and for medicolegal clarity in perioperative cases; *what:* acute rise falling toward baseline). Bedside glucose and ECG (*why:* excludes mimics and monitors for adrenaline-related ischaemia and arrhythmia in older patients; *what:* ischaemic change, arrhythmia). VBG (*why:* quantifies the perfusion deficit in shocked patients; *what:* acidosis, raised lactate). Formal allergy investigation is deferred to a specialist clinic weeks later — acute-phase specific IgE testing is unreliable.
+
+### 0.9.1 Mx – Immediate
+Remove the trigger where possible. Lie flat with legs elevated. **Intramuscular adrenaline into the anterolateral thigh immediately**, repeated as required. High-flow oxygen. Large-bore IV access and fluid resuscitation. Call for help early. `UNVERIFIED — adrenaline IM dose by age and weight, the repeat interval, IV infusion rates, and paediatric fluid bolus volumes are all deliberately omitted here. Obtain them directly from the ASCIA Acute Management of Anaphylaxis guideline and ANZCOR Guideline 9.2.7. A paediatric adrenaline timing error has already been found in this corpus and originated in exactly this section.`
+
+### 0.9.2 Mx – Definitive
+Observation for biphasic reaction, which can occur hours after apparent resolution. Refractory cases require adrenaline infusion and ICU. Patients on beta-blockers may respond poorly to adrenaline; glucagon is described as an adjunct. `UNVERIFIED — observation period duration and glucagon dosing require verification.`
+
+### 0.9.3 Mx – Chronic/long-term
+Adrenaline autoinjector prescription with **demonstrated** technique, not just a script. ASCIA action plan. Medical alert identification. Allergy or immunology referral. Documentation of the allergy in the record and on discharge summary. Cross-refer [[15_01b_Paeds_-_Anaphylaxis]].
+
+---
+
+## 0.10 Australian Elapid Snakebite
+
+> [!warning] FLAG 2026-09-01 — distinctively Australian content with no external referrers; preserve as a set
+> This section, `## 0.11 Spider Bites — Redback vs Funnel-Web`, and `NEW_Drugs_04 §0.2 Antivenoms`
+> are referenced from nowhere else in the vault.
+> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers can be validated.
+> Flagged here **not** as a candidate for removal but the reverse: this is high-yield Australian
+> material that nothing points at, so it is easy to lose in a reorganisation.
+
+**D:** Envenomation by an Australian elapid — brown, tiger, black, death adder, taipan or sea snake — producing a syndrome dominated by coagulopathy, with variable neurotoxicity and myotoxicity.
+
+**R/Causes:** Rural and outer-suburban exposure, gardening, bushwalking, attempts to handle or kill a snake. Peak in warmer months.
+
+**A/P:** Venom is injected into subcutaneous tissue → absorbed predominantly via **lymphatics**, not blood vessels → this is the entire rationale for pressure immobilisation bandaging, which compresses lymphatic drainage and delays systemic absorption. Once systemic: procoagulant toxins activate the clotting cascade → consumption of fibrinogen and factors → **venom-induced consumptive coagulopathy**; presynaptic and postsynaptic neurotoxins → descending flaccid paralysis beginning with cranial nerves; myotoxins → rhabdomyolysis with hyperkalaemia and renal failure.
+
+**S/Smx:** The bite site is often unimpressive or invisible. Early systemic features are non-specific and easily dismissed: headache, nausea and vomiting, abdominal pain, collapse shortly after the bite. Later: bleeding from the bite site or venepuncture sites, ptosis and ophthalmoplegia as the first neurological signs, then bulbar weakness and descending paralysis, then myalgia and dark urine.
+
+> [!danger] Ptosis is the earliest neurological sign
+> Descending paralysis starts with the cranial nerves. **Examine for ptosis and ophthalmoplegia repeatedly** — they precede limb weakness and respiratory failure by a useful interval.
+
+> [!warning] Do not wash the bite site
+> Venom on the skin is the sample used by the snake venom detection kit. Washing it destroys the specimen. Equally: no tourniquet, no incision, no suction, no ice.
+
+> [!info] Pressure immobilisation bandage
+> A broad elastic bandage applied firmly over the bite site and extended to cover the whole limb, with the limb then splinted and the patient kept still. It is left in place until the patient is at a facility able to manage envenomation. `UNVERIFIED — bandage pressure guidance, application technique and the criteria and timing for removal require verification against ANZCOR Guideline 9.4.8 and the Australian Snakebite Project consensus guideline.`
+
+**Ix:** Coagulation profile with INR, APTT, fibrinogen and D-dimer, repeated serially (*why:* venom-induced consumptive coagulopathy is the most sensitive and earliest laboratory marker of systemic envenomation, and serial testing is how envenomation is confirmed or excluded over time; *what:* rising INR, undetectable fibrinogen, grossly raised D-dimer). FBC (*why:* thrombocytopenia and evidence of microangiopathy; *what:* falling platelets, fragments on film). CK (*why:* identifies myotoxicity, which changes fluid and renal management; *what:* marked and rising elevation). UEC with potassium (*why:* rhabdomyolysis causes hyperkalaemia and acute kidney injury; *what:* rising creatinine and potassium). ECG (*why:* hyperkalaemic changes; *what:* peaked T waves, widened QRS). Snake venom detection kit on a bite site swab (*why:* guides monovalent antivenom selection where the snake is unidentified, though it does not diagnose envenomation and a positive result in an asymptomatic patient with normal bloods does not mandate antivenom; *what:* venom group). Serial neurological examination (*why:* ptosis and ophthalmoplegia detect neurotoxicity before respiratory compromise; *what:* new ptosis, restricted eye movements, reduced vital capacity).
+
+### 0.10.1 Mx – Immediate
+Apply or check the pressure immobilisation bandage and keep the patient still. Resuscitate. IV access in the unaffected limb. **Call the Poisons Information Centre on 13 11 26 early** — antivenom decisions in Australia are made with toxinology advice. Baseline bloods and serial repeats. Any patient with a possible elapid bite is retrieved to a facility with antivenom and laboratory capability, regardless of how well they look.
+
+### 0.10.2 Mx – Definitive
+Antivenom is indicated for confirmed systemic envenomation — coagulopathy, neurotoxicity, myotoxicity or systemic symptoms — not for a bite alone. `UNVERIFIED — antivenom indications, the number of vials, dilution, administration rate and premedication practice all require verification with the Poisons Information Centre and current Australian guidance. Vial numbers in particular have changed with evidence and must not be recalled.` Anaphylaxis to antivenom is a recognised risk; give it where resuscitation is available. Coagulopathy corrects as venom is neutralised and hepatic synthesis recovers; factor replacement is not routinely first-line.
+
+### 0.10.3 Mx – Chronic/long-term
+Prolonged observation with repeat coagulation studies before discharge. Serum sickness is a delayed complication after antivenom — warn the patient explicitly. Wound care and tetanus status.
+
+---
+
+## 0.11 Spider Bites — Redback vs Funnel-Web
+
+**D:** Two clinically distinct Australian spider envenomation syndromes with opposite urgency, first aid and disposition.
+
+> [!tip] The comparison that matters
+> | | Redback (*Latrodectus hasseltii*) | Funnel-web (*Atrax*, *Hadronyche*) |
+> |---|---|---|
+> | Distribution | All of Australia | Eastern seaboard, Sydney region and NSW/Qld |
+> | Onset | Gradual, over hours | Rapid, within minutes to an hour |
+> | Local | Severe increasing local pain, sweating around the bite | Immediate severe pain, visible fang marks |
+> | Systemic | Regional then generalised pain, sweating, hypertension, malaise | Autonomic storm — salivation, lacrimation, sweating, muscle fasciculation, hypertension, pulmonary oedema, coma |
+> | Life-threatening | Very rarely | **Yes — a genuine emergency** |
+> | Pressure immobilisation | **No** | **Yes** |
+> | Antivenom | Contested benefit | Effective and indicated |
+
+**A/P:**
+*Redback:* α-latrotoxin causes massive presynaptic neurotransmitter release at nerve terminals → sustained regional pain, diaphoresis characteristically localised around or proximal to the bite, and autonomic disturbance. Systemic effects develop over hours and are rarely dangerous.
+*Funnel-web:* δ-atracotoxin slows sodium channel inactivation → repetitive neuronal firing → catecholamine and acetylcholine storm → severe autonomic instability, non-cardiogenic pulmonary oedema, and in untreated cases death within hours.
+
+**S/Smx:**
+*Redback:* Increasing local pain radiating proximally, patchy or regional sweating (a distinctive and useful sign), malaise, nausea, hypertension. Pain may persist for days.
+*Funnel-web:* Immediate severe pain, perioral tingling, tongue fasciculation, profuse salivation and lacrimation, piloerection, hypertension and tachycardia, then hypotension, pulmonary oedema and coma.
+
+> [!danger] The first aid differs — getting it backwards causes harm
+> **Funnel-web: apply a pressure immobilisation bandage immediately** and treat as a life threat.
+> **Redback: do not apply a pressure immobilisation bandage.** The venom acts locally and slowly; bandaging worsens the already severe local pain and confers no benefit. Ice pack and analgesia.
+
+**Ix:** Largely clinical. Continuous cardiac and respiratory monitoring in suspected funnel-web (*why:* deterioration is rapid and pulmonary oedema is the mode of death; *what:* rising respiratory rate, hypoxia, arrhythmia). VBG (*why:* quantifies the metabolic disturbance in a severe autonomic storm; *what:* acidosis, raised lactate). UEC and CK (*why:* baseline in a patient with sustained muscular activity; *what:* electrolyte derangement, elevated CK). Where the bite is unidentified and the presentation is atypical, treat as the more dangerous possibility and involve the Poisons Information Centre.
+
+### 0.11.1 Mx – Immediate
+*Funnel-web:* Pressure immobilisation bandage, immobilise, resuscitate, high-dependency monitoring, urgent antivenom. Call 13 11 26.
+*Redback:* Ice pack and simple analgesia. Escalating analgesia as needed. Observation. No bandage.
+
+### 0.11.2 Mx – Definitive
+Funnel-web antivenom is effective and given on clinical grounds. `UNVERIFIED — antivenom vial numbers and repeat criteria require verification with the Poisons Information Centre.` Redback antivenom benefit over placebo has been questioned by Australian randomised evidence, and its use is now a discussion with toxinology rather than a reflex. `UNVERIFIED — confirm current recommendation and the status of the redback antivenom evidence; this is an area where practice has changed.`
+
+### 0.11.3 Mx – Chronic/long-term
+Wound care and tetanus status. Warn about serum sickness after antivenom. Redback pain may persist for days to weeks and warrants GP follow-up.
+
+---
+
+> [!note] Cross-references
+> Sepsis and shock phenotypes → [[F0.3]] · Acid-base consequences of these poisonings → [[F0.2]] · Resuscitation algorithms and airway management → [[F0.4]] · Deliberate self-poisoning risk assessment → [[N1]] · Adverse drug reactions and TCA overdose → [[A5]]
+
+
+<!-- ===== SOURCE: NEW_Drugs_01_Allergy_and_Anaphylaxis.md ===== -->
+
+
+# NEW — Drug Classes: Allergy and Anaphylaxis (AMH section 1)
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment, and they are the sources that would normally supply Australian doses and product details. Entries are **snippet-sourced**, and **no doses are stated in this file** — with **one deliberate, documented exception**: the **adrenaline dose for anaphylaxis** (0.5 Sympathomimetics), which is a resuscitation dose, is agreed across Australian sources, and is stated by ASCIA in the correct **per-kg-with-a-cap** and **weight-band** form. Omitting it would be a safety gap, not caution. Use AMH or the local formulary for everything else.
+
+---
+
+## 0.5 Sympathomimetics (Anaphylaxis) — Adrenaline
+
+> [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
+> Anaphylaxis has **five homes**: here · `F0-1 §0.9 Anaphylaxis and Acute Allergic Reaction` ·
+> `Derm_merged 09_01 ## Anaphylaxis` · `Pediatrics_merged 15_01b_Paeds_-_Anaphylaxis` ·
+> `Infectious Disease_merged K4` (allergy).
+> **This section and `F0-4 §0.4 Paediatric Resuscitation` are where weight-banded adrenaline figures
+> live.** The ASCIA table in this corpus has already produced one live paediatric dosing defect.
+> **Every per-kg figure and injector band must be listed and checked before any merge.**
+> See `_meta/flags/_RULE5_FIGURES.md`.
+
+- **Mechanism:** a non-selective adrenoceptor agonist, and every clinically important effect maps to a receptor. **α₁** → vasoconstriction, reversing hypotension and **mucosal/laryngeal oedema**. **β₁** → increased heart rate and contractility. **β₂** → **bronchodilation**, and inhibition of further **mast cell and basophil mediator release** — so it treats the reaction as well as its consequences.
+- **Key agent:** **adrenaline (epinephrine)**, as **1:1000 ampoule** for intramuscular use, as an **adrenaline injector device**, and as a **dilute intravenous infusion** in refractory anaphylaxis (critical care setting only).
+- **Indication:** **ANAPHYLAXIS — first-line, immediately, in every case.** Also cardiac arrest, severe bronchospasm and croup (nebulised) at different doses and by different routes.
+
+> [!danger] **Adrenaline is the first and only first-line treatment for anaphylaxis. There is no dose of antihistamine or corticosteroid that substitutes for it, and delay in giving it is the factor most consistently associated with fatal outcome.**
+> **Give it intramuscularly into the mid-anterolateral thigh** — not subcutaneously, not into the deltoid, and not orally. Lay the patient **flat** (or in the recovery position if vomiting, or sitting only if breathing is severely compromised) and **do not stand them up or walk them to a trolley** — sudden postural change in anaphylaxis has been associated with cardiac arrest.
+
+> [!info] **Dose — the one dose stated in this file, in the correct per-kg-with-a-cap form**
+> Sources agree on the **ASCIA** dosing, which is consistent with the Australian **Acute Anaphylaxis Clinical Care Standard**, the **Australian Immunisation Handbook** and the World Allergy Organisation:
+> - **Ampoule (adrenaline 1:1000), all ages: 0.01 mL/kg, to a maximum of 0.5 mL (0.5 mg) per dose, intramuscular.**
+> - **Injector devices, by weight band:** **150 microgram** for those from **7.5 kg to 20 kg**; **300 microgram** for those **20 kg or more**; from around **12 years of age and over 50 kg**, either the **300 microgram or 500 microgram** device.
+> - **Repeat every 5 minutes as needed** if there is no improvement.
+> **This is the correct paediatric form** — per-kg with an absolute cap, plus weight bands for the fixed-dose devices — and it is why the dose is safe to state. **Do not convert it into a single absolute figure**, which is exactly the error that makes an adult dose lethal in a child.
+
+- **Adverse effects:** anxiety, tremor, palpitations, headache, pallor — **all expected, all transient, and none a reason to withhold it**. Hypertension and tachyarrhythmia; myocardial ischaemia in those with coronary disease. **The risks of giving adrenaline in anaphylaxis are trivial compared with the risk of not giving it.**
+- **Contraindications:** **there is NO absolute contraindication to adrenaline in anaphylaxis** — not age, not pregnancy, not ischaemic heart disease, not hypertension.
+- **Interactions:** **β-blockers** may blunt the response and are associated with more severe, adrenaline-resistant anaphylaxis (**glucagon** is the recognised adjunct in that situation); **tricyclic antidepressants and MAOIs** potentiate the pressor effect.
+- **Monitoring and aftercare — the part that is routinely done badly:**
+  - **Observe after treatment**, because of **biphasic reactions**; the observation period depends on severity and local policy.
+  - **Prescribe an adrenaline injector and demonstrate the trainer device** before discharge — a prescription without a demonstration is not adequate.
+  - **Provide a written ASCIA Action Plan** with the patient's specific trigger.
+  - **Refer to a clinical immunology/allergy service.**
+  - **Advise on trigger avoidance**, and document the reaction prominently in the record and on any allergy alert.
+  - **Serum mast cell tryptase**, taken as soon as practicable after the event and again at baseline, supports the retrospective diagnosis — but **must never delay treatment**.
+- See [[15_01b_Paeds_-_Anaphylaxis]].
+
+---
+
+## 0.1 Antihistamines
+*(covers build-list classes: Antihistamines (eye), Antihistamines (intranasal), H1 Antagonists (1st Gen), Less sedating antihistamines, Sedating antihistamines)*
+
+### 0.1.1 Less Sedating (Second-Generation) Antihistamines
+
+- **Mechanism:** competitive **inverse agonists at the histamine H₁ receptor**. Second-generation agents are more **H₁-selective** and, critically, **penetrate the blood–brain barrier poorly**, which is what removes the central sedation and anticholinergic burden of the older drugs.
+- **Key agents:** **cetirizine, loratadine, fexofenadine, desloratadine, levocetirizine, bilastine, rupatadine**.
+- **Indications:** **allergic rhinitis and conjunctivitis**; **urticaria** (acute and chronic spontaneous) — the mainstay of treatment; pruritus of allergic origin; adjunct in allergy generally.
+- **Adverse effects:** generally well tolerated. **Cetirizine is the most sedating of the "less sedating" group** and is not reliably non-sedating; fexofenadine and loratadine are the least. Dry mouth, headache. **Do not tell a patient a less sedating antihistamine cannot affect driving** — individual sedation occurs.
+- **Contraindications/cautions:** dose reduction in **renal impairment** for cetirizine and levocetirizine (renally cleared); hepatic impairment affects loratadine.
+- **Interactions:** **fexofenadine absorption is reduced by fruit juices** (grapefruit, orange, apple) and by **antacids** — a genuinely common cause of apparent treatment failure; some agents interact with CYP3A4 inhibitors.
+- **Monitoring:** clinical response. In **chronic spontaneous urticaria**, guidelines support **updosing above the standard licensed dose** under specialist direction before adding other agents — an important point because "the antihistamine didn't work" often means it was under-dosed.
+
+### 0.1.2 Sedating (First-Generation) H₁ Antagonists
+
+- **Mechanism:** H₁ antagonism **plus** substantial **muscarinic, α-adrenergic and serotonergic** blockade, and free CNS penetration — hence sedation and anticholinergic effects.
+- **Key agents:** **promethazine, dexchlorpheniramine, diphenhydramine, doxylamine, cyproheptadine, trimeprazine**.
+- **Indications:** now **narrow**. Their non-allergy uses (nausea and vomiting, motion sickness, vertigo, sedation, migraine adjunct) are what keep them in use. **They are not recommended for treating allergic reactions**, where the less sedating agents are preferred.
+- **Adverse effects:** **sedation and impaired psychomotor performance** — with **next-day hangover** effects and driving impairment that patients underestimate; **anticholinergic effects** (dry mouth, blurred vision, urinary retention, constipation, **confusion and delirium in the elderly**); **paradoxical CNS stimulation in children** — agitation, hallucinations; QT prolongation in overdose; **respiratory depression**.
+- **Contraindications:** **children — this is the safety point of the entry.** Sources are explicit: since **1 September 2020 all over-the-counter first-generation sedating antihistamines in Australia must carry "Do not give to children under 2 years of age"**, and the **TGA advises promethazine must not be used in children under 6 years**, because of **fatal respiratory depression** and psychiatric and CNS events. Also avoid in **narrow-angle glaucoma, prostatic hypertrophy/bladder outlet obstruction**, and in **older people** (on every deprescribing and anticholinergic-burden list).
+- **Interactions:** **additive CNS depression with alcohol, opioids, benzodiazepines and other sedatives**; additive anticholinergic burden with other anticholinergics.
+- **Monitoring:** sedation, anticholinergic effects, falls risk in the elderly, and — in children — whether the drug should be there at all.
+
+> [!danger] **Antihistamines are NOT a treatment for anaphylaxis, and giving one instead of adrenaline is a recognised cause of death.**
+> They do not treat **airway obstruction, bronchospasm or hypotension** — they treat itch and urticaria. **Adrenaline is the only first-line treatment.** An antihistamine is at most an adjunct given after adrenaline, and a sedating antihistamine additionally **confounds assessment of conscious state** in a deteriorating patient. See [[15_01b_Paeds_-_Anaphylaxis]].
+
+### 0.1.3 Intranasal Antihistamines
+
+- **Mechanism:** topical H₁ antagonism delivered directly to the nasal mucosa, giving faster onset than oral agents (minutes) with minimal systemic exposure.
+- **Key agents:** **azelastine**, levocabastine; available in **fixed combination with an intranasal corticosteroid** (azelastine/fluticasone).
+- **Indications:** **allergic rhinitis**. Sources describe the Australian position (**ASCIA**): **intranasal corticosteroids ± intranasal antihistamines are first-line**, with intranasal antihistamine used as **monotherapy for mild intermittent/mild persistent disease** and, more importantly, as the **step-up added to an intranasal corticosteroid** in moderate-to-severe persistent rhinitis not controlled on the steroid alone — where combination is better than the steroid alone.
+- **Adverse effects:** **bitter taste** (the commonest reason for non-adherence, and worth warning about explicitly, along with the technique of not sniffing hard after spraying), nasal irritation and stinging, epistaxis, mild somnolence.
+- **Practical point:** **spray technique determines whether nasal treatment works at all** — aim **away from the septum**, towards the ipsilateral outer canthus, do not sniff deeply, and expect intranasal corticosteroids to take days to weeks for full effect while intranasal antihistamines work within minutes.
+
+### 0.1.4 Antihistamines (Eye) — see 0.2
+
+Topical ocular antihistamines are covered with the other drugs for allergic eye conditions in **0.2**, since in practice the useful agents are **dual-acting antihistamine/mast cell stabilisers** and separating them is artificial.
+
+> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.2 Drugs for Allergic and Inflammatory Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.3 Other Drugs for Allergic Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## 0.4 Other Drugs for Allergy
+*(covers build-list class: Mast cell stabilisers)*
+
+### 0.4.1 Mast Cell Stabilisers
+
+- **Mechanism:** stabilise the mast cell membrane and inhibit **degranulation**, preventing release of histamine and other mediators. They **prevent** the reaction rather than treating it — which dictates entirely how they must be used.
+- **Key agents:** **sodium cromoglicate** (cromolyn) and **nedocromil**, available as **eye drops, nasal spray, inhaler**, and (for a very different indication) **oral** cromoglicate for mastocytosis and food-related gastrointestinal allergy. **Ketotifen and olopatadine** (0.2.1) also have mast cell stabilising activity, which is why they have largely displaced pure stabilisers in the eye.
+- **Indications:** **allergic conjunctivitis** (including vernal keratoconjunctivitis), allergic rhinitis, and — historically — asthma prophylaxis, where inhaled corticosteroids have superseded them.
+- **Adverse effects:** minimal — transient stinging in the eye, local irritation in the nose, cough with the inhaled form. **Their safety is their main advantage**, particularly in children and in pregnancy.
+- **The practical limitation that defines them:** **they take days to weeks to work and require regular dosing (often four times daily) whether or not symptoms are present.** A patient who uses them "when the eyes are itchy" will get no benefit and will conclude the drug does not work. **Start before the season, and explain that they are preventers, not relievers** — the same conversation as for asthma preventers.
+
+### 0.4.2 Other Agents in This Group
+
+- **Leukotriene receptor antagonists (montelukast)** — an option in allergic rhinitis with coexisting asthma. **The neuropsychiatric warning matters**: sleep disturbance, nightmares, agitation, depression and suicidal ideation are recognised, are the subject of regulatory warnings, and **must be discussed with the patient or parents before prescribing** and asked about at review.
+- **Allergen immunotherapy (subcutaneous or sublingual)** — the only treatment that modifies the underlying allergic disease rather than suppressing symptoms. Specialist-initiated, takes years, and carries a risk of systemic reactions (hence administration where **adrenaline and resuscitation facilities** are immediately available, with a mandatory observation period).
+- **Omalizumab (anti-IgE)** and other biologics — specialist use in severe chronic spontaneous urticaria, severe allergic asthma and severe atopic disease.
+- **Systemic corticosteroids** — for severe allergic disease and as an adjunct after anaphylaxis; **they are slow in onset and are never the acute treatment for anaphylaxis.**
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Antihistamines | SUB | yes | |
+| 0.1.1 | Less sedating antihistamines | CLS | yes | |
+| 0.1.2 | Sedating antihistamines | CLS | yes | Built jointly with `H1 Antagonists (1st Gen)` — the same class under two names. |
+| 0.1.2 | H1 Antagonists (1st Gen) | CLS | yes | As above. |
+| 0.1.3 | Antihistamines (intranasal) | CLS | yes | |
+| 0.1.4 → 0.2.1 | Antihistamines (eye) | CLS | yes | Built in 0.2.1 with the other ocular allergy agents — the useful agents are dual-acting antihistamine/mast cell stabilisers and separating them would be artificial. |
+| 0.2 | Drugs for allergic and inflammatory eye conditions | SUB | yes | |
+| 0.2.2 | Corticosteroids (eye) | CLS | yes | |
+| 0.2.3 | NSAIDs (eye) | CLS | yes | |
+| 0.3 | Other drugs for allergic eye conditions | SUB | yes | |
+| 0.4 | Other drugs for allergy | SUB | yes | |
+| 0.4.1 | Mast cell stabilisers | CLS | yes | |
+| 0.5 | Sympathomimetics (anaphylaxis) | SUB | yes | Carries the file's single stated dose, in ASCIA per-kg-with-cap and weight-band form. |
+
+**Rows in file: 13. AMH section 1 build-list rows: 13 (5 SUB + 8 CLS). Section complete.**
+
+
 <!-- ===== SOURCE: A5_Toxicology_II_-_Poisoned_Patient__ADRs_and_Immunotherapy.md ===== -->
 
 
@@ -1355,6 +3132,340 @@ Corticosteroids with a slow taper — **rapid tapering causes relapse** and cour
 > [!note] Cross-references
 > Toxidrome comparison table, paracetamol, opioids, beta-blocker/CCB, toxic alcohols, anaphylaxis, envenomation → [[F0.1]] · Salicylate and the mixed acid-base picture → [[F0.2]] 0.8 · Anticholinergic toxidrome detail → [[F0.1]] 0.2 · Adrenal crisis → [[F0.3]] 0.6 · Dermatological emergencies → [[09_01_Dermatology_-_Dermatological_Emergencies]] · Risk assessment after deliberate self-poisoning → [[N1]] · Occupational exposure → [[P1]]
 
+
+<!-- ===== SOURCE: 14a-2_Psych_-_Overdose_and_Poisoning_Management.md ===== -->
+*Moved here from `Psychiatry_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.1 Overdose / poisoning — management by agent
+
+| Agent | Management |
+|---|---|
+| **Benzodiazepines** | Antidote: flumazenil. Otherwise, supportive management. |
+| **Beta-blockers** | If HR <40 or unstable: atropine, glucagon. |
+| **Carbon monoxide** | 100% oxygen; hyperbaric oxygen. |
+| **Cyanide** | Hydroxocobalamin (vitamin B12); or combination of amyl nitrite, sodium nitrite, and sodium thiosulfate. |
+| **Digoxin** | Digibind; correct potassium levels and manage arrhythmias. |
+| **Ethylene glycol & methanol** | Fomepizole (inhibits alcohol dehydrogenase); ethanol if fomepizole unavailable; haemodialysis if refractory. |
+| **Heparin** | Protamine sulfate. |
+| **Iron** | Desferrioxamine (iron chelating agent). |
+| **Lead poisoning** | Dimercaprol, calcium edetate. |
+| **Organophosphates (insecticides)** | Atropine ± pralidoxime. |
+| **Paracetamol** | See [[03_Gastrointestinal]] Paracetamol Overdose (N-acetylcysteine, activated charcoal). |
+| **Salicylates (e.g. aspirin)** | IV bicarbonate (urinary alkalinisation); charcoal if presenting early; haemodialysis if severe. |
+| **Tricyclic antidepressants** | IV bicarbonate — ↓risk of seizures and arrhythmias. |
+| **Lithium** | Volume resuscitation (IV fluids); haemodialysis if severe; ± IV sodium bicarbonate. |
+| **Warfarin** | See [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin — management of high INR (Vitamin K, PCC, FFP, etc). |
+
+## 0.2 Digoxin toxicity — detail
+
+- **S/Smx:** generally unwell, anorexia, confusion, yellow-green vision, arrhythmias, gynaecomastia.
+- Toxicity may be precipitated by hypokalaemia (and ↓Mg, ↑Ca, ↑Na, acidosis), renal failure, MI, hypoalbuminaemia, hypothyroidism.
+- **Drug-drug interactions:** quinidine, verapamil, diltiazem, spironolactone, ciclosporin, thiazides, loop diuretics.
+
+## 0.3 Salicylate toxicity — detail
+`CF-PAIR` **`[[Endocrine and metabolics_merged]] F0-2 §0.8 Mixed Acid-Base Disorder — Salicylate Toxicity` covers the same poisoning from the acid-base side. Both kept in full.**
+
+- **S/Smx:** respiratory alkalosis (secondary to hyperventilation), then metabolic acidosis; tinnitus; GI upset/bleeding; seizures; coma.
+
+## 0.4 Tricyclic antidepressant toxicity — detail
+`CF-PAIR` **`A5 §0.2 TCA Overdose` is here already. Both kept in full, NOT reconciled.**
+
+> [!danger] If arrhythmias develop, DO NOT use class 1a and 1c antiarrhythmics; avoid class 3 drugs.
+
+
+> [!note] The Corpus B psychiatry sources arrived here on 2026-09-01
+> **`N1`–`N8` were cut from `Neuro_merged.md:3829–5452` (1,624 lines) and inserted here**, between
+> the Corpus A psychiatry files and the drug files, matching the A → B → NEW ordering used by every
+> other merged file. They map onto the Corpus A files above eight for eight.
+> **The `[[D1]]`–`[[D7]]` wikilinks below still resolve** — they name the source file, which is
+> unchanged — but **36 of them are now cross-file**, pointing into [[Neuro_merged]].
+
+<!-- ===== SOURCE: 03_Gastrointestinal.md ===== -->
+*Moved here from `GI_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.4 Ascending Cholangitis
+`CF-PAIR` **DELIBERATE DUPLICATE, on instruction. Both kept in full, NOT reconciled.**
+
+**D:** acute, ascending inflammation of the biliary tree.
+
+**R:** >50yo, gallstones, benign or malignant stricture, post-procedure bile duct injury (e.g. ERCP), history of primary or secondary sclerosing cholangitis
+
+**A:** gallstones stuck in the biliary tree, causing biliary obstruction.
+
+**P:** causes bacterial seeding in the gallbladder + sludge formation → haematogenous spread can lead to sepsis.
+
+**S/Smx:** Charcot's triad — fever, RUQ pain, jaundice / Reynolds' pentad (+ shock, altered mental status)
+
+**Ix:** labs (*why:* supports the diagnosis and assesses severity/sepsis; *what:* ↑inflammatory markers, LFT stasis picture — a cholestatic pattern reflecting the obstructing lesion). US (*why:* first-line imaging, identifies the obstructing stone/stricture and duct dilation; *what:* dilated common bile duct ± visible stone).
+
+**Mx:**
+- **Immediate/acute:** IV antibiotics + resuscitation (sepsis pathway given the risk of rapid deterioration — this is a genuine emergency, not just "cholecystitis with jaundice").
+- **Definitive:** ERCP within 24–48h to relieve the obstruction (sphincterotomy/stone extraction/stent) — this is the source-control step that antibiotics alone cannot substitute for.
+- **Chronic/long-term:** interval cholecystectomy once stabilised if gallstones are the cause, to prevent recurrence.
+
+---
+
+## 0.10 Paracetamol Overdose
+`CF-PAIR` **DELIBERATE DUPLICATE, on instruction. `A5 §0.1 The Poisoned Patient` is here already. Both kept in full and NOT reconciled — you asked to see both versions.**
+
+> [!info] Verified against the 2020 Australian and New Zealand paracetamol poisoning guidelines (Chiew et al., MJA — endorsed by eTG and all Australian/NZ Poisons Information Centres), Aug 2026 — **Australia uses a materially different NAC infusion regimen from the UK's 3-bag "SNAP" protocol** — this is a genuine, clinically important difference, not just terminology. Use the AU 2-bag regimen below.
+
+**Assessment steps:**
+1. Time of overdose
+2. Amount ingested
+3. Weigh patient → ≥40kg vs <40kg (if <40kg, look up local paediatric toxicology resource)
+4. Calculate mg/kg
+
+**Risk factors for hepatotoxicity:** patients taking enzyme-inducing drugs (rifampicin, phenytoin, carbamazepine, chronic alcohol excess, St John's wort), malnourished patients. Acute alcohol intake may be protective.
+
+**Staggered/repeated supratherapeutic overdose:** discuss with the Poisons Information Centre (13 11 26) or a clinical toxicologist — management differs from a single acute ingestion and is not simply "start treatment early" the way the source note implies; see the RCH/ACI algorithms for the specific repeated-supratherapeutic-ingestion pathway.
+
+**Timing-based pathway (paracetamol treatment nomogram, acute immediate-release ingestion with known time):**
+- **<8h:** activated charcoal if presenting within 1–2h and no contraindication; take paracetamol level at (or after) 4h post-ingestion — plot against the nomogram treatment line; start NAC if on/above the line, or immediately (without waiting for the level) if the level won't be available within 8h of ingestion or the patient presents ≥8h post-ingestion.
+- **≥8h or unknown time/modified-release/repeated supratherapeutic ingestion:** discuss with the Poisons Information Centre — these scenarios need individualised management, not the standard nomogram pathway. Note increased risk of liver injury with any delay >8h in starting NAC where indicated.
+- Also start/continue NAC regardless of level if: acute liver injury (ALT >50 U/L) at presentation, or paracetamol level more than double the nomogram line (discuss increased NAC dosing with the Poisons Information Centre for levels ≥2x the line).
+
+> [!info] Two-bag acetylcysteine (NAC) regimen (replaced the old 3-bag regimen in the 2020 AU/NZ update, reducing adverse reactions)
+> - **Bag 1:** 200 mg/kg over 4 hours
+> - **Bag 2:** 100 mg/kg over 16 hours
+> - Total: 300mg/kg over 20 hours (note this total dose matches the old regimen, but the AU infusion structure/duration — 2 bags over 20h — differs from the UK's 3-bag-over-12h "SNAP" structure; don't mix the two protocols)
+> - Repeat ALT ~2h before completion of the infusion in all patients; continue NAC if paracetamol level >10mg/L (66 µmol/L), or ALT is elevated (>50 U/L) and rising.
+> - "NAC" is not an approved abbreviation on Australian charts — write acetylcysteine in full.
+
+**N-acetylcysteine anaphylactoid reaction:** pause infusion; antihistamine (e.g. promethazine or another non-sedating/sedating antihistamine per local protocol); salbutamol nebuliser if bronchospasm; ondansetron for nausea/vomiting; restart treatment (often at a reduced rate) once the patient settled.
+
+### 0.10.1 Liver transplantation criteria (King's College Criteria)
+- Arterial pH <7.3, 24h after ingestion
+- OR PT >100s + serum creatinine >300 µmol/L + grade III or IV encephalopathy
+
+---
+
+<!-- ===== SOURCE: 04_Neurology.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS)
+
+> [!note] Gap-filled — genuinely absent from any file despite being one of the classic contrasting-pair topics in medicine (both cause hyperthermia + altered mental status + muscle rigidity from different drug mechanisms, and distinguishing them is a frequently-tested skill), and despite haloperidol/antipsychotic use for delirium being covered immediately above, making NMS a directly relevant differential. Built together as a comparison, in the same spirit as the Warm vs Cold AIHA and Pemphigus vs Bullous Pemphigoid comparisons elsewhere in this project.
+
+Both are toxidromes causing the triad of **hyperthermia, altered mental status, and neuromuscular abnormality** — but with different causative drug classes, timing, and specific neuromuscular findings, which is exactly what makes distinguishing them a classic exam skill.
+
+| | Serotonin syndrome | Neuroleptic malignant syndrome (NMS) |
+|---|---|---|
+| **A/P** | Excess serotonergic activity — typically from combining serotonergic drugs (e.g. an SSRI/SNRI plus an MAOI, tramadol, or another serotonergic agent), or from a single-drug overdose | Dopamine receptor blockade — typically from antipsychotics (both typical and atypical, including haloperidol used for delirium above), or from abrupt withdrawal of a dopaminergic drug (e.g. levodopa in Parkinson's disease) |
+| **Onset** | Rapid — typically within 24h of starting/increasing the causative drug or combination | Slower — typically days, sometimes 1–2 weeks after starting/increasing the causative antipsychotic |
+| **Neuromuscular findings** | **Hyperreflexia and clonus** (particularly lower-limb, and particularly inducible/spontaneous clonus is a relatively specific finding), tremor, myoclonus | **"Lead-pipe" rigidity** (uniform, non-cogwheel rigidity throughout range of motion) with **reduced or normal reflexes** (a genuinely important distinguishing point from serotonin syndrome's hyperreflexia) |
+| **Other features** | Autonomic instability (tachycardia, hypertension, diaphoresis, diarrhoea), agitation/confusion, dilated pupils | Autonomic instability (similar pattern), altered mental status ranging from confusion to stupor, diaphoresis |
+| **Ix** | Clinical diagnosis (Hunter Serotonin Toxicity Criteria are sometimes used) — no specific confirmatory test; bloods may show raised CK if significant rigidity/agitation present, though typically less markedly elevated than in NMS | Clinical diagnosis; **CK is typically markedly elevated** (often >1000, sometimes much higher, reflecting more sustained rigidity) — a useful supporting distinguishing feature from serotonin syndrome's more modest CK elevation; raised WCC is also common, sometimes prompting an incorrect initial diagnosis of infection |
+| **Mx** | **Immediate:** stop the causative drug(s) — the single most important step for both conditions; supportive care (cooling for hyperthermia, IV fluids, benzodiazepines for agitation/to reduce muscle activity and associated hyperthermia). **Definitive:** cyproheptadine (a serotonin antagonist) for moderate-severe cases not responding to supportive care alone. **Course:** typically resolves within 24–72h of stopping the causative drug, given the shorter onset also reflects a shorter, more self-limiting course once the drug is stopped | **Immediate:** stop the causative antipsychotic (or reinstate the dopaminergic drug if NMS was precipitated by abrupt withdrawal) — again the single most important step; supportive care (cooling, IV fluids, benzodiazepines). **Definitive:** dantrolene (a direct-acting skeletal muscle relaxant) or bromocriptine (a dopamine agonist, replacing the blocked dopaminergic tone) for severe cases. **Course:** typically slower to resolve than serotonin syndrome (days to over a week), consistent with its slower onset |
+| **Complications if untreated** | Rhabdomyolysis, DIC, multi-organ failure — both conditions can be fatal if unrecognised and untreated, which is the underlying reason distinguishing and promptly treating either matters | Rhabdomyolysis (often more pronounced given the higher CK), acute kidney injury from myoglobin release, DIC, multi-organ failure |
+
+> [!tip] The reflex/tone pattern is the single most useful bedside discriminator once the trigger-drug history has narrowed the differential: **hyperreflexia and clonus point toward serotonin syndrome; reduced reflexes with lead-pipe rigidity point toward NMS** — genuinely opposite findings despite both conditions sharing the hyperthermia-plus-altered-mental-status-plus-rigidity picture at a glance.
+
+---
+
+## Opioid Toxicity
+`CF-PAIR` **A second opioid entry exists in this file. Both kept in full, NOT reconciled — `Psychiatry 14a-1 ## Opioid misuse` is the third, and it already defers to this one for the toxidrome.**
+
+> [!note] Gap-filled — mentioned in passing as a cause of Type II respiratory failure in [[06_Metabolic_Medicine_and_Endocrinology]] and as a naloxone-reversible cause of reduced consciousness in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), but never built as its own entry, despite the extensive opioid content already established in [[10_11c_Oncology_-_Palliative_Care_Prescribing]] (opioid conversion, dosing) that this connects to directly.
+
+- **A/P:** excess opioid receptor agonism (μ-receptor predominantly) causing CNS and respiratory depression — can occur from prescribed opioid accumulation (e.g. in renal impairment, or rapid dose escalation without adequate tolerance), accidental or intentional overdose, or opioid use disorder-related overdose (particularly with illicit opioids of variable/unpredictable potency).
+- **S/Smx — the classic opioid toxidrome triad:** **respiratory depression** (reduced rate and/or depth of breathing — the feature most directly responsible for mortality), **pinpoint (miotic) pupils**, and **reduced conscious level** — the combination of all three is highly suggestive, though any one feature alone has a broader differential. Other features: reduced bowel sounds/constipation, hypotension and bradycardia in severe toxicity, hypothermia.
+- **Ix:** primarily a clinical diagnosis based on the toxidrome above and history/collateral information (empty pill packets, known opioid prescription, drug paraphernalia) — **do not delay treatment (naloxone) to await any test result** in a patient with respiratory depression, given this is a time-critical, reversible cause of death. Blood glucose (*why:* hypoglycaemia is a differential for reduced consciousness and should always be excluded alongside opioid toxicity, per the same general principle in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), not repeated here; *what:* excludes hypoglycaemia as a co-existing or alternative cause). ABG (*why:* confirms and quantifies the respiratory depression/hypercapnia — see [[06_Metabolic_Medicine_and_Endocrinology]] for the Type II respiratory failure pattern this produces, not repeated here; *what:* hypoxaemia with hypercapnia in significant toxicity).
+- **Mx:**
+  - **Immediate/acute:** **naloxone** (IV, IM, subcutaneous, or intranasal depending on setting and access) — a competitive opioid receptor antagonist that rapidly reverses respiratory depression; supportive airway/breathing management (per [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient)) while naloxone takes effect or if inadequately responsive.
+  - **Definitive:** **naloxone's duration of action is often shorter than that of the causative opioid**, particularly long-acting or modified-release opioids — meaning **re-sedation after an initial response is a genuine, well-recognised risk**, and patients require a period of monitoring/observation after naloxone reversal, not single-dose treatment and immediate discharge; repeat naloxone dosing or an infusion may be needed for longer-acting opioids.
+  - **Chronic/long-term:** for opioid use disorder-related overdose specifically, this is an opportunity for harm-reduction discussion and referral (opioid substitution therapy, take-home naloxone programs for the patient/family, drug and alcohol service referral) — genuinely important given overdose survivors remain at high risk of a future, potentially fatal, event without intervention.
+
+> [!tip] Naloxone reversal in a patient physically dependent on opioids can precipitate acute, uncomfortable (though not typically life-threatening) opioid withdrawal — titrate the dose to reverse dangerous respiratory depression rather than to fully "wake the patient up," particularly in a known opioid-dependent patient, to avoid unnecessarily severe precipitated withdrawal while still achieving the safety-critical goal.
+
+---
+
+<!-- ===== SOURCE: 10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Lead poisoning
+
+- **S/Smx:** abdominal pain, peripheral neuropathy (mainly motor), neuropsychiatric features, fatigue, constipation; blue lines on the gum margin (20% of adult patients, rare in children).
+- **Ix:** blood lead levels; blood films will show basophilic stippling.
+- **Mx:** chelating agents — DMSA, D-penicillamine, EDTA, dimercaprol.
+
+<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Methaemoglobinaemia
+
+- **D:** Hb which has been oxidised from Fe²⁺ to Fe³⁺, causing tissue hypoxia.
+- **Causes:**
+  - Congenital — HbM, HbH, NADH methaemoglobin reductase deficiency.
+  - Acquired — drugs (sulphonamides, nitrates, dapsone, sodium nitroprusside, primaquine); chemicals (e.g. aniline dyes).
+- **S/Smx:** chocolate brown blood; cyanosis; dyspnoea, anxiety, headache. Severe: acidosis, arrhythmias, seizures, coma.
+
+> [!info] "Refractory hypoxaemia" — pulse oximetry constant at 85%; pO2 on ABG will be falsely normal (the machine cannot differentiate between normal Hb and metHb). A saturation gap should hint towards a haemoglobinopathy.
+
+- **Mx:** ascorbic acid if congenital; IV methylene blue if acquired.
+
+<!-- ===== SOURCE: NEW_Drugs_04_Antidotes_and_Antivenoms.md ===== -->
+
+
+# NEW — Drug Classes: Antidotes and Antivenoms (AMH section 4)
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** Antidote and antivenom dosing is the area where getting a figure wrong from memory is most likely to be lethal.
+
+> [!danger] **THE SINGLE MOST IMPORTANT LINE IN THIS FILE: in Australia, call the Poisons Information Centre on 13 11 26 — 24 hours, anywhere in the country.**
+> Every antidote decision in this file is made **with a clinical toxicologist**, not from a reference sheet. The PIC gives current, dose-specific, patient-specific advice, and connects you to a toxicologist for complex cases. **Call early, before the patient deteriorates, not after.** Antivenom advice comes through the same number.
+
+> [!info] **Depth note.** An intern's job in poisoning is **resuscitation, risk assessment, decontamination where indicated, supportive care, and calling for expert help** — not antidote selection from memory. This file is written to support recognising **when an antidote exists** and **what the traps are**, because the commonest failure is not knowing that a specific treatment is available.
+
+---
+
+## 0.1 Antidotes
+
+> [!info] **The general approach that precedes any antidote — resuscitate first**
+> **Airway, breathing, circulation** always come before the antidote. Then: **risk assessment** (what, how much, when, what else — including deliberate self-harm assessment), **supportive care** (which is what most poisoned patients actually need and what most survive on), **decontamination** where indicated, **enhanced elimination** where applicable, and **antidote** where one exists. Also check **glucose, paracetamol level and an ECG** in every deliberate self-poisoning, and look for **co-ingestants** — mixed overdose is the norm, not the exception.
+
+### 0.1.1 Specific Reversal Agents and Antidotes
+
+The antidotes an intern should be able to name when the poison is identified. **Doses are deliberately not given — call 13 11 26.**
+
+| Poison / drug | Antidote | The point to remember |
+|---|---|---|
+| **Paracetamol** | **N-acetylcysteine** | Works by replenishing **glutathione**. **Give early — do not wait for LFTs to rise.** Plot the level on the nomogram at the right time; treat staggered and unknown-time ingestions on advice. See `NEW_Drugs_03_Analgesics.md` 0.4.1. |
+| **Opioids** | **Naloxone** | Titrate to **adequate ventilation**, not full consciousness. **Shorter-acting than most opioids** — observe, often infuse. See `NEW_Drugs_03_Analgesics.md` 0.4.6. |
+| **Benzodiazepines** | **Flumazenil** | **Rarely used.** Precipitates **seizures** in dependence and mixed (especially tricyclic) overdose, and is shorter-acting than the benzodiazepine. Supportive care is usually the right answer. |
+| **Warfarin** | **Vitamin K**, plus **prothrombin complex concentrate** for major bleeding (FFP if PCC unavailable) | Vitamin K takes **hours** to work; PCC is immediate. The choice depends on **bleeding and INR**, not INR alone. See [[10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets]]. |
+| **Dabigatran** | **Idarucizumab** | A monoclonal antibody fragment binding dabigatran directly. |
+| **Apixaban / rivaroxaban** | **Andexanet alfa** (where available); **PCC** otherwise | Availability and funding vary by hospital — know what your site stocks. |
+| **Heparin** | **Protamine** | Fully reverses unfractionated heparin; only **partially** reverses low molecular weight heparin. Protamine itself causes hypotension and anaphylactoid reactions. |
+| **β-blockers** | **Glucagon**, high-dose insulin–euglycaemia, calcium, vasopressors | Bradycardia and hypotension refractory to atropine. |
+| **Calcium channel blockers** | **Calcium**, high-dose insulin–euglycaemia therapy, vasopressors | Verapamil and diltiazem overdose is one of the deadliest cardiac drug ingestions. |
+| **Digoxin** | **Digoxin-specific antibody fragments (Fab)** | Indicated for **life-threatening arrhythmia or hyperkalaemia**, not for a raised level alone. **Do not treat digoxin-toxic hyperkalaemia with calcium** by reflex — discuss first. |
+| **Organophosphates / carbamates** | **Atropine** (titrated to drying of secretions), **pralidoxime** | Cholinergic crisis — **the atropine endpoint is secretions, not heart rate**, and very large cumulative doses may be needed. **Protect yourself and the department from contamination.** |
+| **Methanol / ethylene glycol** | **Fomepizole** (or ethanol), plus **haemodialysis** | Blocks alcohol dehydrogenase so the parent alcohol is not converted to its toxic acid. See `NEW_Investigations_Orthopaedics_Neurology_and_Other.md` 0.3 for the osmolar gap and its limits. |
+| **Iron** | **Desferrioxamine** | See 0.3. |
+| **Local anaesthetic** | **20% intravenous lipid emulsion** | See `NEW_Drugs_02_Anaesthetics.md` 0.1.5. |
+| **Malignant hyperthermia** | **Dantrolene** | See `NEW_Drugs_02_Anaesthetics.md` 0.2.3. |
+| **Isoniazid** | **Pyridoxine (vitamin B₆)** | Seizures refractory to benzodiazepines. |
+| **Methaemoglobinaemia** | **Methylthioninium chloride (methylene blue)** | **Contraindicated / ineffective in G6PD deficiency** (and can cause haemolysis); causes serotonin syndrome with serotonergic drugs. See [[10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia]]. |
+| **Cyanide** | **Hydroxocobalamin** (preferred), or dicobalt edetate / sodium thiosulfate | Suspect in smoke inhalation with a high lactate and cardiovascular collapse; hydroxocobalamin turns urine and skin red. |
+| **Carbon monoxide** | **High-flow / hyperbaric oxygen** | **The pulse oximeter reads falsely normal** — needs co-oximetry. |
+| **Sulfonylurea hypoglycaemia** | **Octreotide** (with dextrose) | Suppresses the insulin release that dextrose alone perpetuates; hypoglycaemia is **prolonged and recurrent**, so the patient is admitted. |
+| **Methotrexate** | **Folinic acid (leucovorin)**, glucarpidase | Folinic acid, **not folic acid**. |
+| **Botulism, diphtheria, tetanus** | Specific **antitoxin / immunoglobulin** | Public health notification as well as treatment. |
+
+> [!danger] **The decontamination points that are commonly got wrong**
+> - **Activated charcoal** binds most drugs but **NOT** iron, lithium, alcohols, potassium, acids/alkalis or hydrocarbons. It has a **narrow time window**, and it is **contraindicated in a patient with a compromised airway or reduced conscious state who is not intubated** — aspiration of charcoal causes a severe, sometimes fatal pneumonitis. **The risk of the charcoal must be weighed against the benefit; when in doubt, don't.**
+> - **Gastric lavage and ipecac are obsolete.**
+> - **Whole bowel irrigation** has narrow indications (sustained-release preparations, iron, body packers) and is a toxicologist's decision.
+> - **Never induce vomiting in corrosive or hydrocarbon ingestion.**
+
+### 0.1.2 Chelating Agents
+
+- **Mechanism:** form stable, water-soluble complexes with heavy metals, which are then excreted — reducing the metal's ability to bind enzymes and cellular targets.
+- **Lead:**
+  - **Sodium calcium edetate (calcium disodium EDTA)** — parenteral; long the standard agent. Sources note it causes **dose-related nephrotoxicity** and is **more effective than DMSA at reducing bone lead**.
+  - **Succimer (DMSA)** — **oral**, better absorbed, generally **well tolerated**, and sources report it **more effective than EDTA at reducing kidney lead**, with comparable effects on blood lead at similar molar doses. It is the alternative when an oral agent is preferable.
+  - **Dimercaprol (BAL)** — intramuscular, in peanut oil (relevant to allergy); used in **lead encephalopathy** and in severe arsenic and mercury poisoning, often before EDTA.
+
+> [!danger] **In lead poisoning, chelation treats the patient — REMOVING THE SOURCE is what treats the problem.**
+> Chelation lowers blood lead temporarily; if the child goes home to the same environment, the level rebounds as lead redistributes from bone. **Identify the source** (old paint in pre-1970 housing, contaminated soil, imported cosmetics and traditional remedies, some occupational and hobby exposures, and — in Australia — **lead mining and smelting communities**), involve **public health**, and **screen other children in the household**. There is **no safe blood lead level**; the harm is neurodevelopmental and largely irreversible.
+
+- **Copper (Wilson disease):** **penicillamine** (adverse effects: rash, proteinuria and nephrotic syndrome, marrow suppression, myasthenia-like syndrome, and **paradoxical initial neurological worsening**), **trientine** (better tolerated), and **zinc** (which blocks intestinal copper absorption rather than chelating). See `NEW_Investigations_General_and_Preventive.md` 0.7.
+- **Mercury and arsenic:** **dimercaprol** and **DMSA**.
+- **General cautions for the class:** chelators are **not selective** — they also remove **zinc, copper, iron and other essential trace elements**, so prolonged therapy requires monitoring and sometimes supplementation. Nephrotoxicity is a class concern, and mobilising a metal can transiently **worsen symptoms** as it redistributes.
+- **Monitoring:** blood metal levels (interpreted with the timing of chelation), renal function, FBC, LFTs, and trace elements on prolonged courses.
+
+## 0.2 Antivenoms
+
+> [!danger] **AUSTRALIAN SNAKEBITE FIRST AID: PRESSURE IMMOBILISATION BANDAGE, AND DO NOT REMOVE IT UNTIL YOU ARE SOMEWHERE THAT CAN TREAT ENVENOMING.**
+> Sources explain **why this works here and not elsewhere**: **Australian snake venoms spread predominantly via the LYMPHATIC system rather than the bloodstream**, so a broad bandage applied firmly over the bitten limb (at a pressure described as around **50–70 mmHg**) plus **immobilisation with a splint** retards venom movement. This is the reason pressure immobilisation is Australian standard practice and is **not** used for most overseas snakes.
+> **Do NOT:** wash the bite site (**venom on the skin is used by the detection kit**), cut, suck, apply a tourniquet, or try to catch or identify the snake. **Do:** keep the patient still — walking pumps the lymphatics — bring transport to the patient, and remove the bandage only in a facility with antivenom and resuscitation capability.
+
+### 0.2.1 Snake Antivenoms
+
+- **What they are:** purified **equine (horse-derived) F(ab')₂ immunoglobulin fragments** raised against the venom of specific snake groups. They **neutralise circulating venom** — they do not reverse damage already done.
+- **Australian products:** **monovalent** antivenoms against the five clinically significant immunotypes — **brown, tiger, black, death adder and taipan** — and a **polyvalent** antivenom containing antibodies to all five, used when the snake group cannot be determined.
+- **How often they are needed:** sources report antivenom is required in only about **5% of Australian snake bites** — most bites are "dry" or minimally envenomed. **The decision is based on evidence of envenoming, not on the fact of a bite.**
+- **Assessing for envenoming — what to look for and repeat:**
+  - **Coagulopathy** — **venom-induced consumption coagulopathy (VICC)** is described as a common and clinically important acute effect. **INR, aPTT, fibrinogen and D-dimer** are the key tests, repeated serially; a rising INR or unrecordable clotting is the commonest indication for antivenom.
+  - **Neurotoxicity** — ptosis and ophthalmoplegia first, then bulbar and respiratory muscle weakness (descending, and **once established it may not reverse with antivenom** — which is the argument for giving antivenom early).
+  - **Myotoxicity** — muscle pain and tenderness, **rising CK**, myoglobinuria, risk of acute kidney injury and hyperkalaemia.
+  - **Systemic symptoms** — headache, vomiting, abdominal pain, collapse, and the characteristic **early collapse or cardiac arrest** with brown snake.
+  - **Serial bloods and observation over a defined period** are mandatory even in an apparently well patient — envenoming can declare itself hours later.
+- **Snake Venom Detection Kit (SVDK):** sources describe an enzyme immunoassay detecting the five immunotypes from a **bite-site swab** (preferred) or urine, giving a visual result in about **15–25 minutes**.
+
+> [!danger] **The SVDK identifies WHICH antivenom, not WHETHER the patient is envenomed.**
+> **A positive kit does not mean the patient needs antivenom, and a negative kit does not exclude envenoming.** False positives and misreading are well described, and geographical knowledge of local snake species plus the clinical and laboratory picture often determines antivenom choice more reliably than the kit. Many Australian centres now use a **syndromic and geographic** approach — sources describe, for example, giving **one vial each of monovalent tiger and monovalent brown snake antivenom** for unidentified-snake VICC in south-east Queensland.
+
+- **Adverse effects:** **anaphylaxis and anaphylactoid reactions** — the reason antivenom is given only where **adrenaline, resuscitation equipment and staff are immediately at hand**, with the patient monitored and IV access established beforehand; and **serum sickness** at **5–14 days** — fever, rash, arthralgia, lymphadenopathy — which every patient given antivenom must be **warned about and given a plan for** before discharge (it responds to corticosteroids).
+- **Practical:** given **intravenously, diluted and infused** (not by intramuscular injection); the dose is **the same in children as in adults**, because it neutralises a fixed quantity of venom, not a body weight — **this is the one place where a paediatric dose is not reduced**, and reducing it is a serious error.
+
+### 0.2.2 Other Antivenoms
+
+- **Funnel-web spider antivenom** — for **funnel-web (Atrax/Hadronyche) envenoming**, which causes a dramatic cholinergic and catecholamine crisis (sweating, salivation, muscle fasciculation, hypertension, pulmonary oedema). **Pressure immobilisation applies** to funnel-web bites as it does to snakes. Sources note there have been **no recorded deaths since the antivenom program began in 1981**, and that severe envenoming is treated with slow diluted intravenous antivenom.
+- **Redback spider antivenom** — sources report **more patients receive redback antivenom in Australia than all other antivenoms combined**, though **fewer than 20% of bites require it**, and note the unusual property that it **can still be effective days after the bite**. Its efficacy has been genuinely contested in randomised trials, so its use is now more selective and is a decision for discussion with the PIC. **Pressure immobilisation is NOT used for redback bites** — the venom is slow-acting and local, and the bandage worsens local pain. **Apply ice and give analgesia.**
+- **Box jellyfish (Chironex) antivenom** — for major Chironex stings. **First aid: douse liberally with vinegar** to inactivate undischarged nematocysts before removing tentacles; do not use fresh water. Sources note emerging evidence for topical **copper gluconate** preparations in limiting venom-associated tissue damage. Major stings cause rapid cardiovascular collapse — resuscitation comes first.
+- **Stonefish antivenom** — for severe stonefish envenoming. **Hot water immersion** (as hot as can be tolerated without scalding) is the first-aid measure for stonefish and other venomous fish stings, since the venom is heat-labile; strong analgesia and, often, a local or regional block are needed.
+- **Irukandji syndrome** — has **no antivenom**; it is managed supportively with vinegar first aid, opioids and magnesium (the evidence for magnesium is contested), and it can cause severe hypertension and cardiac failure.
+- **Tick paralysis** (Australian paralysis tick, *Ixodes holocyclus*) — has no routinely used antivenom in current practice; management is **removal of the tick** and supportive care, with the recognised trap that **paralysis can progress for a day or more after removal**.
+- **Ciguatera, tetrodotoxin (pufferfish) and blue-ringed octopus** — **no antivenom exists**; blue-ringed octopus and tetrodotoxin cause **paralysis with preserved consciousness**, and the treatment is **airway support and ventilation until it wears off** — the patient is awake and terrified, so sedation and explanation matter.
+
+> [!warning] **Envenoming numbers in Australia are small, and that is itself a hazard.** Sources describe roughly **fewer than 50 confirmed funnel-web cases, fewer than 50 significant box jellyfish stings and fewer than 50 major stonefish stings per year**. Individual clinicians see very few, which is exactly why the **Poisons Information Centre and the on-call clinical toxicologist** should be involved in every case rather than relying on recall.
+
+## 0.3 Drugs That Chelate Iron
+*(covers build-list class: Iron Chelating Agents)*
+
+- **Two entirely different clinical settings, and they must not be conflated:**
+  1. **Acute iron poisoning** — usually a child who has swallowed adult iron tablets, or a deliberate overdose.
+  2. **Chronic transfusional iron overload** — thalassaemia major, other transfusion-dependent anaemias, and haemochromatosis where venesection is not possible.
+- **Desferrioxamine (deferoxamine)**
+  - **Mechanism:** parenteral chelator forming **ferrioxamine**, excreted renally — classically turning the urine a **"vin rosé"** colour, which is a visible marker of chelation.
+  - **Use:** **the antidote in acute iron poisoning**, and a mainstay of chronic chelation given by prolonged subcutaneous infusion.
+  - **Adverse effects:** hypotension with rapid infusion, injection site reactions, and on long-term use **ototoxicity (high-frequency hearing loss), retinal toxicity, growth retardation in children, and pulmonary toxicity**; **increased risk of *Yersinia enterocolitica* and mucormycosis infection**, because siderophore-dependent organisms exploit the chelated iron.
+  - **Monitoring on long-term therapy:** **audiometry and ophthalmological review**, growth in children.
+- **Deferasirox** — **oral, once daily**; the main reason adherence to chronic chelation improved. **Adverse effects: renal impairment (including tubulopathy), hepatic impairment, gastrointestinal upset, and gastrointestinal haemorrhage** — it carries boxed warnings for renal and hepatic failure and GI bleeding. Requires regular **renal and liver function monitoring**.
+- **Deferiprone** — **oral**; particularly effective at removing **cardiac** iron, which matters because **cardiac siderosis is the leading cause of death in thalassaemia major**. **Adverse effects: AGRANULOCYTOSIS and neutropenia** — sources confirm this as the defining risk — and **severe but reversible arthropathy**, plus GI upset.
+
+> [!danger] **A patient on deferiprone with a fever must have an urgent full blood count and be treated as potentially neutropenic until proven otherwise.**
+> Weekly FBC monitoring is standard, and patients are told to stop the drug and present immediately with fever or sore throat. **Never send a febrile patient on deferiprone home without a white cell count.**
+
+- **Combination therapy:** sources describe **triple therapy (desferrioxamine + deferasirox + deferiprone)** in transfusion-dependent β-thalassaemia with very high iron overload (studied in patients with **ferritin >3500 ng/mL**), reducing overall iron burden more than monotherapy, with a positive trend for myocardial iron. Sources also describe **monotherapy aiming to bring serum ferritin below about 1000 ng/mL**. These are specialist haematology decisions.
+
+> [!danger] **Acute iron poisoning — the traps**
+> - **Iron is NOT bound by activated charcoal.** Decontamination, where indicated, is **whole bowel irrigation**, and **an abdominal X-ray may show radio-opaque tablets** (though a negative film does not exclude ingestion, particularly with liquid preparations or chewables).
+> - **The classic deceptive course:** early gastrointestinal phase (vomiting, diarrhoea, haematemesis) → an **apparent "latent" recovery phase of up to 24 hours** → **shock, metabolic acidosis, hepatic necrosis and multi-organ failure** → late **gastric outlet and bowel strictures** weeks later. **A child who looks better a few hours after an iron ingestion has not necessarily recovered**, and this misjudgement has killed children.
+> - **Serum iron level timing matters** and must be interpreted with the clinical picture and the acid–base status.
+> - **Iron tablets and supplements are a leading cause of paediatric poisoning deaths** — and, per **CLAUDE.md rule 5**, note that all iron dosing in children is **per kilogram**; the danger here is precisely an adult-sized quantity in a small child. **Counsel every family prescribed iron about safe storage.**
+> - See [[10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia]].
+
+---
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Antidotes | SUB | yes | |
+| 0.1.1 | Specific Reversal Agents / Antidotes | CLS | yes | Built as a poison→antidote table with the trap for each. No doses. |
+| 0.1.2 | Chelating Agents | CLS | yes | Heavy metals; iron chelators kept separate in 0.3 per the build list's own structure. |
+| 0.2 | Antivenoms | SUB | yes | |
+| 0.2.1 | Snake antivenoms | CLS | yes | Includes the Australian-specific pressure immobilisation rationale and the SVDK limitation. |
+| 0.2.2 | Other antivenoms | CLS | yes | Funnel-web, redback, box jellyfish, stonefish; and the envenomings with no antivenom. |
+| 0.3 | Drugs that chelate iron | SUB | yes | |
+| 0.3 | Iron Chelating Agents | CLS | yes | Same content as the subsection — the build list carries both; built once. |
+
+**Rows in file: 8 (3 SUB + 5 CLS). AMH section 4 build-list rows: 8. Section complete.**
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5 executed for this destination.** Seven rows, all with a single named home.
+> **Two of these are deliberate duplicates on your instruction** — `M-8` paracetamol and `M-9`
+> ascending cholangitis — *"Do NOT merge or reconcile them. I want both versions in front of me."*
+> Both carry `CF-PAIR` markers naming the copy already here.
+>
+> **`M-6` abdominal trauma and `K-19` burns were NOT executed** — see the report.
 
 <!-- ===== SOURCE: A6_Thermal_and_Environmental_Injury.md ===== -->
 
@@ -2156,2114 +4267,3 @@ Pessary care education and **a scheduled review interval for anyone with a pessa
 > [!note] Cross-references
 > Inhaled foreign body and unilateral wheeze → [[A2]] 0.4 · Chemical eye injury → [[A7]] 0.4 · Wound foreign bodies and imaging choice → [[A7]] 0.5 · Deep neck space infection → [[F0.5]] 0.10 · Ocular presentations → [[E1]] · Safeguarding → [[P3]] · Poisons Information Centre 13 11 26 for battery ingestion advice
 
-
-<!-- ===== SOURCE: A9_Transfusion__Coagulopathy_and_Anticoagulant_Emergencies.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Mechanism, recognition and discriminators are reliable at intern level. **Every transfusion threshold, product ratio, reversal agent dose, time window and reference range carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** All transfusion triggers must come from the **National Blood Authority Patient Blood Management Guidelines**; all reversal agent dosing from eTG, the Australian Medicines Handbook and your health network's anticoagulation reversal protocol; and massive haemorrhage protocol ratios from your own hospital's protocol, since they differ between sites.
-
----
-
-## 0.1 Acute Anaemia and Major Haemorrhage
-
-**D:** A rapid fall in circulating red cell mass, from bleeding, haemolysis, or acute marrow failure.
-
-**R/Causes:** **Overt bleeding** — trauma, gastrointestinal, obstetric, surgical, epistaxis. **Occult bleeding** — retroperitoneal, intra-abdominal, pelvic or long bone fracture, ruptured aortic aneurysm, ruptured ectopic pregnancy, concealed post-partum haemorrhage. **Haemolysis** — autoimmune, microangiopathic, transfusion reaction, drug-induced, G6PD-related. **Marrow** — aplasia, infiltration.
-
-**A/P:** Acute blood loss removes **whole blood** — plasma and red cells in equal proportion. Because there has been no time for compensatory plasma volume expansion, **the haemoglobin concentration is initially unchanged**, and only falls as fluid shifts into the intravascular space over hours or as crystalloid is given.
-
-> [!danger] A normal haemoglobin does not exclude significant acute haemorrhage
-> This is the single most important trap in this section. **The haemoglobin in acute bleeding reflects how much dilution has occurred, not how much blood has been lost.** A patient can be exsanguinating with a normal first haemoglobin. Rely instead on **mechanism, clinical assessment, serial measurement and lactate**, and treat what you see rather than what the number says.
-
-> [!tip] Compensation masks blood loss until it doesn't
-> Tachycardia and vasoconstriction maintain blood pressure across a substantial volume of loss, so **narrowed pulse pressure, cool peripheries, delayed capillary refill, agitation and reduced urine output all precede hypotension.** Young patients, athletes and pregnant patients compensate longest and crash hardest. Patients on beta-blockers may not mount a tachycardia at all. Cross-refer [[F0.3]] 0.1–0.2.
-
-> [!danger] The lethal triad
-> **Hypothermia, acidosis and coagulopathy** reinforce one another in major haemorrhage. Cold impairs enzymatic clotting; acidosis impairs clotting factor function; both worsen bleeding, which worsens hypoperfusion and hypothermia. **Damage control resuscitation** addresses all three: keep the patient warm, use warmed products, limit crystalloid, give blood products early in balanced ratios, and achieve haemostasis quickly rather than resuscitating to normal physiology first.
-
-> [!info] Principles of major haemorrhage management
-> **Activate the massive haemorrhage protocol early** — it is easier to stand down than to catch up, and the delay is in getting products to the bedside, not in deciding.
-> **Balanced product ratios** of red cells, plasma and platelets rather than red cells alone, since red cells alone dilute the clotting factors and platelets that are also being lost.
-> **Minimise crystalloid**, which dilutes clotting factors, worsens acidosis and causes hypothermia.
-> **Tranexamic acid early** — its benefit is **time-critical and diminishes with delay**, and there is evidence it may be harmful if given late.
-> **Replace calcium.** Citrate in stored blood chelates ionised calcium, and hypocalcaemia in massive transfusion impairs both clotting and myocardial contractility. It is easily forgotten and it matters.
-> **Keep the patient warm** — active warming, warmed fluids and products.
-> `UNVERIFIED — the product ratios, the tranexamic acid dose and its time window, calcium replacement thresholds and doses, and the criteria for activating the protocol are ALL omitted. Obtain from your hospital's massive haemorrhage protocol and current trauma guidance.`
-
-> [!warning] Transfusion thresholds — restrictive is the default
-> In stable, non-bleeding patients, **a restrictive transfusion threshold is at least as safe as a liberal one** and avoids unnecessary exposure. Australian Patient Blood Management guidance emphasises **transfusing one unit at a time and reassessing** in the stable patient, rather than prescribing two units reflexively. Transfusion is a treatment for symptoms and physiology, not for a number on a form. `UNVERIFIED — haemoglobin trigger thresholds for different patient groups require verification against the National Blood Authority guidelines.`
-
-**S/Smx:** Fatigue, dyspnoea, palpitations, pallor, dizziness and syncope. In acute haemorrhage: tachycardia, narrowed pulse pressure, cool clammy peripheries, agitation, oliguria, then hypotension. Site-specific features — haematemesis, melaena, abdominal distension, flank bruising, an expanding haematoma.
-
-**Ix:** **Serial** full blood count (*why:* a single value in acute haemorrhage is uninterpretable, and the trend over hours is what reveals the loss; *what:* falling haemoglobin over time, platelet count). **Group and hold, or crossmatch** taken early (*why:* the delay in transfusion is the crossmatch, not the decision — and in extremis, emergency group O blood is used without waiting; *what:* blood group, antibody screen, units available). Serial lactate and VBG (*why:* quantifies hypoperfusion when the haemoglobin and blood pressure are still normal; *what:* rising lactate, base deficit). Coagulation profile with fibrinogen (*why:* identifies dilutional and consumptive coagulopathy that will perpetuate bleeding; *what:* prolonged INR, low fibrinogen). **Ionised calcium** (*why:* citrate-induced hypocalcaemia during transfusion is common, treatable and routinely overlooked; *what:* low ionised calcium). UEC and LFT (*why:* baseline organ function, and urea disproportionately raised suggests upper GI bleeding; *what:* raised urea:creatinine ratio). Haemolysis screen where bleeding is not evident — reticulocytes, bilirubin, LDH, haptoglobin, blood film, direct antiglobulin test (*why:* distinguishes haemolysis from blood loss when there is no visible source, and the film may be diagnostic; *what:* raised reticulocytes and LDH, low haptoglobin, positive DAT, schistocytes). Point-of-care viscoelastic testing where available — TEG or ROTEM (*why:* gives a functional whole-blood clotting assessment in minutes and guides which product to give, where standard coagulation tests are slow and measure only isolated aspects; *what:* clot initiation, strength, fibrinolysis). Imaging directed at the suspected source (*why:* haemostasis is the definitive treatment and it requires finding the bleeding point; *what:* CT angiography, FAST, endoscopy).
-
-### 0.1.1 Mx – Immediate
-A–E, oxygen, **two large-bore cannulae**, bloods including crossmatch. Direct pressure and local haemostatic measures. Activate the massive haemorrhage protocol where indicated. Warm the patient and the fluids. Tranexamic acid early where appropriate. **Get the surgeon, endoscopist or interventional radiologist involved early — resuscitation buys time, haemostasis is the treatment.**
-
-### 0.1.2 Mx – Definitive
-Surgical, endoscopic or radiological control of the bleeding source. Reversal of anticoagulation where present — see 0.4. Correction of coagulopathy guided by tests rather than empirically once the acute phase is over.
-
-### 0.1.3 Mx – Chronic/long-term
-Iron replacement, since transfusion replaces red cells but not iron stores. Investigation of the cause of occult bleeding, particularly iron deficiency anaemia in an adult, which requires GI investigation until proven otherwise. Cross-refer [[J2]] Chronic Anaemia.
-
----
-
-## 0.2 Acute Transfusion Reactions
-
-**D:** Adverse events occurring during or shortly after transfusion of a blood product.
-
-> [!danger] The first move is always the same
-> **STOP the transfusion. Keep the intravenous line open with saline through a new giving set. Check the patient's identity against the unit label.** Then assess A–E, treat, notify the blood bank, and **return the unit and giving set** with the transfusion reaction paperwork and post-transfusion blood samples.
-> The identity check is not a formality — **acute haemolytic reactions are almost always the result of a clerical or bedside identification error**, and the wrong patient may be receiving the unit intended for someone else who is about to receive theirs.
-
-> [!info] The reactions, and how to tell them apart
-> | Reaction | Timing | Key features | Action |
-> |---|---|---|---|
-> | **Acute haemolytic (ABO incompatible)** | Minutes | Fever, **loin or back pain**, dark urine, hypotension, DIC, a feeling of impending doom | **Stop. Resuscitate. Check identity. Emergency.** |
-> | **Febrile non-haemolytic** | 30 min – few hours | Isolated temperature rise, rigors, no other features. Commonest reaction | Slow or stop, antipyretic, exclude haemolysis |
-> | **Allergic / urticarial** | Minutes – hours | Urticaria, itch, no systemic features | Antihistamine; may resume cautiously if mild and isolated |
-> | **Anaphylaxis** | Minutes | Airway, breathing or circulation involvement | **Adrenaline.** Consider **IgA deficiency with anti-IgA antibodies** |
-> | **TACO** (circulatory overload) | During or within hours | Dyspnoea, **hypertension**, **raised JVP**, responds to diuretic | Stop, sit up, oxygen, diuretic |
-> | **TRALI** | **Within 6 hours** | Hypoxia, bilateral infiltrates, **normal or low JVP**, **hypotension**, fever | Stop, supportive, often ventilation. Do not diurese |
-> | **Bacterial contamination** | Minutes – hours | **Rigors, high fever, rapid shock**. Most often **platelets**, stored at room temperature | Stop, cultures, broad-spectrum antibiotics, resuscitate |
-
-> [!danger] TACO versus TRALI — the discrimination that matters
-> Both present as acute dyspnoea and hypoxia with bilateral infiltrates during or after transfusion, and the treatments are opposite.
-> **TACO is volume overload:** hypertensive, raised JVP, elevated BNP, responds to diuresis and sitting up. Risk factors are age, cardiac and renal impairment, small body size, and rapid transfusion rate.
-> **TRALI is an inflammatory lung injury** caused by donor antibodies against recipient leucocytes: **hypotensive, normal or low JVP, normal BNP, fever**, and **diuretics will not help and may harm** — it needs supportive ventilation.
-> The blood pressure and JVP are the discriminators. Getting this backwards and diuresing a hypotensive TRALI patient causes harm.
-
-> [!warning] Reactions that are delayed rather than acute
-> **Delayed haemolytic transfusion reaction** — days later, with a falling haemoglobin, jaundice and a newly positive antibody screen in a previously sensitised patient.
-> **Transfusion-associated graft-versus-host disease** — rare and usually fatal, prevented by irradiating products for at-risk recipients (immunocompromised, some haematology patients, directed donations from relatives).
-> **Iron overload** in chronically transfused patients.
-
-> [!tip] Massive transfusion metabolic complications
-> **Hypocalcaemia** from citrate chelation · **hyperkalaemia** from potassium leak in stored cells · **hypothermia** from cold products · **dilutional coagulopathy and thrombocytopenia**. All four are anticipated rather than discovered, and they are why massive transfusion needs active biochemical monitoring rather than just counting units.
-
-**S/Smx:** Fever, rigors, urticaria, dyspnoea, hypoxia, hypotension or hypertension, loin or back pain, dark urine, bleeding from puncture sites, and — reported repeatedly in acute haemolytic reactions — a subjective sense of doom that should be taken seriously.
-
-**Ix:** **Repeat identity check of patient, wristband and unit label** (*why:* it identifies the clerical error that causes most acute haemolytic reactions, and it may prevent a second patient receiving the wrong unit; *what:* mismatch). Post-transfusion FBC, DAT, LDH, haptoglobin, bilirubin (*why:* confirms or excludes haemolysis, which determines whether this is a life-threatening reaction or a benign febrile one; *what:* falling haemoglobin, positive DAT, raised LDH, low haptoglobin). Urinalysis (*why:* haemoglobinuria in acute haemolysis is a rapid supportive finding; *what:* dipstick-positive blood without red cells). Coagulation profile with fibrinogen (*why:* DIC complicates acute haemolytic reactions; *what:* prolonged INR, low fibrinogen). Blood cultures from the patient **and return of the unit for culture** (*why:* bacterial contamination is confirmed by culturing the product itself, which is why the unit must not be discarded; *what:* organism). CXR (*why:* distinguishes TACO and TRALI from other causes of dyspnoea; *what:* bilateral infiltrates). BNP (*why:* supports TACO over TRALI, though it is not definitive; *what:* elevation). UEC and ionised calcium in massive transfusion (*why:* the metabolic complications above; *what:* hyperkalaemia, hypocalcaemia).
-
-### 0.2.1 Mx – Immediate
-Stop. Line open with saline via a new set. Check identity. A–E. Reaction-specific treatment per the table. Notify the blood bank. Return the unit.
-
-### 0.2.2 Mx – Definitive
-Supportive care, ventilation for TRALI, diuresis for TACO, antibiotics for bacterial contamination, resuscitation and DIC management for acute haemolysis.
-
-### 0.2.3 Mx – Chronic/long-term
-**Report the reaction** — Australian haemovigilance depends on it. Document the reaction on the record and the transfusion history. Arrange washed, irradiated or leucodepleted products for future transfusions where indicated, and IgA-deficient products where anti-IgA is confirmed. Review whether the transfusion was necessary at all.
-
----
-
-## 0.3 Coagulopathy — Assessment Framework
-
-**D:** Impaired haemostasis from deficiency or dysfunction of platelets, clotting factors, or fibrinolytic regulation.
-
-> [!danger] The bleeding history outperforms the screening tests
-> **A patient who has had dental extractions, surgery and childbirth without abnormal bleeding almost certainly does not have a significant inherited bleeding disorder, whatever the APTT says.** Conversely, a patient with a lifelong history of easy bruising, prolonged bleeding from small cuts, heavy menstrual bleeding, and a family history of the same has a bleeding disorder that may not show on screening tests — **von Willebrand disease in particular is frequently missed** because the APTT can be normal.
-> Ask specifically: bruising, epistaxis, gum bleeding, menstrual heaviness, bleeding after dental work, surgery, childbirth, and family history.
-
-> [!tip] Interpreting the screening tests
-> **PT / INR** — extrinsic and common pathways. **Factor VII has the shortest half-life**, so the PT prolongs **first** in liver disease, vitamin K deficiency and warfarin therapy. This is why the INR is the earliest marker of hepatic synthetic failure.
-> **APTT** — intrinsic and common pathways. Prolonged by heparin, haemophilia A and B, von Willebrand disease, and — importantly — **lupus anticoagulant, which prolongs the APTT in vitro while causing thrombosis in vivo.** A prolonged APTT is not always a bleeding risk.
-> **Both prolonged** — common pathway, severe liver disease, DIC, massive transfusion, warfarin overdose.
-> **A mixing study** distinguishes factor deficiency (corrects on mixing with normal plasma) from an inhibitor (does not correct).
-> `UNVERIFIED — all reference ranges require verification.`
-
-> [!danger] Do not give FFP for a raised INR in cirrhosis
-> Liver disease produces **"rebalanced haemostasis"** — synthesis of both procoagulant and anticoagulant factors (protein C, protein S, antithrombin) falls together. **The INR measures only the procoagulant side and therefore systematically overstates the bleeding risk in cirrhosis**; these patients are simultaneously at risk of thrombosis. Prophylactic FFP for a raised INR before a procedure in a cirrhotic patient is largely ineffective, causes volume overload and raises portal pressure. This is a well-established point that is still widely got wrong on the ward.
-
-> [!info] Causes worth separating
-> **DIC** — widespread activation with consumption. **Low fibrinogen, low platelets, prolonged PT and APTT, very high D-dimer, schistocytes on film.** Always secondary — sepsis, malignancy, obstetric catastrophe, trauma, severe haemolysis. **Treat the cause; product replacement is supportive.**
-> **Vitamin K deficiency** — malnutrition, malabsorption, prolonged antibiotics, biliary obstruction, warfarin. PT prolongs first; corrects with vitamin K.
-> **Dilutional** — massive transfusion and crystalloid.
-> **Hypothermia and acidosis** — enzymatic impairment. **Standard coagulation tests are run at 37°C and will therefore look normal in a cold, bleeding patient** — cross-refer [[A6]] 0.5.
-> **Uraemic platelet dysfunction** — normal platelet count with impaired function; desmopressin and dialysis help.
-> **Inherited** — haemophilia A and B, von Willebrand disease.
-
-**S/Smx:** The **pattern** of bleeding is informative. **Platelet or vascular disorders:** mucocutaneous — petechiae, purpura, epistaxis, gum bleeding, menorrhagia, immediate bleeding after injury. **Clotting factor disorders:** deep — haemarthrosis, muscle haematoma, retroperitoneal bleeding, and characteristically **delayed** rebleeding after initial haemostasis.
-
-**Ix:** FBC with platelet count and **blood film** (*why:* the film identifies schistocytes indicating microangiopathy, platelet clumping causing pseudothrombocytopenia, and blast cells suggesting marrow disease — all of which change the diagnosis entirely; *what:* platelet count, schistocytes, blasts). PT/INR and APTT (*why:* the initial screen and their pattern localises the defect; *what:* which is prolonged). **Fibrinogen** (*why:* it is the most useful single marker in DIC and in major haemorrhage, falls early, and is frequently not ordered; *what:* low fibrinogen). D-dimer (*why:* very high in DIC, supporting consumption over dilution; *what:* marked elevation). LFT and albumin (*why:* hepatic synthetic function underlies a large proportion of acquired coagulopathy; *what:* synthetic failure). UEC (*why:* uraemic platelet dysfunction; *what:* renal impairment). Mixing study where the APTT or PT is unexplainedly prolonged (*why:* separates deficiency from inhibitor, which have entirely different management; *what:* correction or not). Specific factor assays and von Willebrand studies where the history suggests an inherited disorder (*why:* screening tests miss von Willebrand disease and mild factor deficiencies; *what:* factor levels, VWF antigen and activity). Viscoelastic testing where available (*why:* functional whole-blood assessment guiding targeted product use in bleeding; *what:* clot kinetics, strength, fibrinolysis).
-
-### 0.3.1 Mx – Immediate
-Stop the bleeding locally. Correct hypothermia and acidosis, which no product will overcome. Targeted product replacement in a bleeding patient — platelets, fibrinogen concentrate or cryoprecipitate, and plasma as indicated. Vitamin K where deficiency is plausible.
-
-### 0.3.2 Mx – Definitive
-Treat the underlying cause. Haematology involvement for inherited disorders, inhibitors and complex acquired coagulopathy.
-
-### 0.3.3 Mx – Chronic/long-term
-Haemophilia and von Willebrand patients need specialist centre care, treatment plans, and documentation of their product and dosing requirements. Family counselling and genetic advice where inherited.
-
----
-
-## 0.4 Anticoagulant-Associated Bleeding and Reversal
-
-**D:** Bleeding in a patient on anticoagulant or antiplatelet therapy, and the decision about whether and how to reverse it.
-
-> [!danger] The site determines the urgency, not the INR
-> **Intracranial haemorrhage in an anticoagulated patient requires immediate reversal — start it before the coagulation result returns.** Haematoma expansion happens in the first hours and reversal delayed for a laboratory value is reversal delayed too long. The same applies to any bleeding that is life-threatening, into a closed space, or uncontrollable by local means.
-> Conversely, minor bleeding — a nosebleed that stops, a bruise, microscopic haematuria — usually needs local measures and a review of the anticoagulant, not reversal.
-
-> [!tip] The four questions
-> **1. Which drug, and when was the last dose?** For direct oral anticoagulants there is no routinely available level, so **the time of the last dose and the renal function are the key history** — a DOAC in a patient with normal renal function has largely worn off after a defined interval, whereas in renal impairment it persists far longer.
-> **2. How severe and where is the bleeding?**
-> **3. What was the indication for anticoagulation?** — a mechanical mitral valve carries a very different thrombotic risk from atrial fibrillation with a low stroke score, and this determines how fast anticoagulation is restarted.
-> **4. Is there a reversal agent, and is it available here?**
-
-> [!info] Reversal by agent — the principles
-> **Warfarin** — vitamin K (slow onset, but essential for sustained reversal) plus **prothrombin complex concentrate** for rapid factor replacement in major bleeding. **Fresh frozen plasma is a poor second-line choice** — it requires large volumes, works less completely, and is slower.
-> **Dabigatran** (direct thrombin inhibitor) — **idarucizumab**, a specific monoclonal antibody fragment, with dialysis as an alternative since dabigatran is dialysable.
-> **Apixaban and rivaroxaban** (factor Xa inhibitors) — **andexanet alfa** is the specific agent; prothrombin complex concentrate is used where andexanet is unavailable, which in Australian practice is frequently the case. `UNVERIFIED — confirm current andexanet alfa availability and funding in Australia and at your health network, as this has changed and continues to.`
-> **Unfractionated heparin** — protamine, which reverses it essentially completely.
-> **Low molecular weight heparin** — protamine gives only **partial** reversal, which is a clinically important limitation.
-> **Antiplatelet agents** — no true reversal agent. **Platelet transfusion for antiplatelet-associated intracerebral haemorrhage has evidence of harm rather than benefit** and is not recommended routinely; desmopressin is sometimes used. This is a notable reversal of older practice.
-> `UNVERIFIED — every dose, the PCC dose by INR and weight, vitamin K dose and route, protamine dosing and its ratio to heparin given, and idarucizumab dosing are ALL omitted. Obtain from eTG, the Australian Medicines Handbook and your health network's reversal protocol.`
-
-> [!warning] Tranexamic acid and local measures come first and are underused
-> Direct pressure, packing, topical agents, endoscopic or radiological haemostasis, and tranexamic acid where appropriate. Reversal is not a substitute for stopping the bleeding mechanically.
-
-> [!danger] Restarting anticoagulation is a decision, not an oversight
-> After the bleeding is controlled, someone must actively decide when — or whether — to restart. **Leaving a patient with a mechanical valve or recent pulmonary embolism off anticoagulation indefinitely because nobody made the decision is a recognised cause of preventable thrombosis.** Document the plan explicitly in the discharge summary with a named responsible clinician and a review date.
-
-**S/Smx:** Site-dependent. Look actively for occult sites — retroperitoneal bleeding presenting as flank or thigh pain with an unexplained haemoglobin fall, and intracranial bleeding presenting as headache, confusion or a fall in an elderly patient on anticoagulation after apparently trivial head trauma. Cross-refer [[F0.5]] 0.8.
-
-**Ix:** FBC with serial haemoglobin (*why:* quantifies loss and its trajectory; *what:* falling haemoglobin). Coagulation profile including INR (*why:* guides warfarin reversal dosing, though **it must not delay reversal in intracranial haemorrhage**, and it is largely **uninformative for DOACs**; *what:* INR, APTT). **Time of last DOAC dose and renal function** (*why:* these are the practical substitute for a drug level and determine both residual effect and clearance; *what:* interval since last dose, eGFR). Specific DOAC assays — anti-Xa activity, dilute thrombin time — where available (*why:* quantifies residual effect in complex cases; *what:* drug level — noting availability is limited and turnaround often too slow to be useful acutely). UEC and LFT (*why:* clearance and reversal agent choice; *what:* renal and hepatic function). Group and hold or crossmatch (*why:* transfusion may be needed; *what:* units available). **Urgent non-contrast CT brain for any head injury or neurological symptom in an anticoagulated patient** (*why:* the threshold is far lower than in a non-anticoagulated patient, and delayed haemorrhage occurs; *what:* haemorrhage, mass effect). Imaging of the suspected site (*why:* localises for interventional or surgical control; *what:* CT angiography, endoscopy).
-
-### 0.4.1 Mx – Immediate
-A–E, resuscitation, local haemostasis. **Stop the anticoagulant.** Reverse urgently where bleeding is life-threatening or intracranial — **do not wait for coagulation results in intracranial haemorrhage.** Involve haematology and the relevant proceduralist early.
-
-### 0.4.2 Mx – Definitive
-Definitive haemostasis — surgical, endoscopic or radiological. Neurosurgical referral for intracranial bleeding. Completion of reversal and confirmation of its adequacy.
-
-### 0.4.3 Mx – Chronic/long-term
-**Explicit documented plan for restarting anticoagulation, with a date and a named clinician.** Reassess the original indication and the bleeding risk — the event may indicate the indication has changed, the dose is wrong for the patient's renal function, or an interacting drug has been added. Review interacting medications, particularly NSAIDs and antiplatelets. Falls assessment in an elderly patient. Cross-refer [[J3]] Bleeding & Thrombosis and [[18_Geriatrics_and_Older_Persons_Health]].
-
----
-
-> [!note] Cross-references
-> Shock phenotypes and resuscitation → [[F0.3]] 0.1–0.2 · Hypothermia and cold coagulopathy → [[A6]] 0.5 · Crush injury and hyperkalaemia → [[A7]] 0.6 · Head injury on anticoagulants → [[F0.5]] 0.7–0.8 · Chronic anaemia and haemolysis → [[J2]] · Bleeding tendency as an outpatient presentation → [[J3]] · Sickle cell crisis → [[J2]]
-
-
-<!-- ===== SOURCE: F0-1_Toxidromes__Allergic_Emergencies_and_Envenomation.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Mechanism, discriminators and investigation reasoning are reliable at intern level. **Every dose, threshold, reference range and timing figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** For this file specifically: all antidote dosing, all anaphylaxis adrenaline figures, and all antivenom vial numbers must come from the Australian Poisons Information Centre (13 11 26), eTG Toxicology and Toxinology, and ASCIA. A calcium channel blocker class fact was previously inverted in this corpus — 0.7 restates the selectivity explicitly for that reason.
-
----
-
-## 0.1 Toxidrome Recognition — Framework
-
-**D:** A toxidrome is a cluster of vital signs, pupil size, skin findings and mental state that identifies a class of poisoning before any drug level returns.
-
-**A/P:** Agent binds its receptor class → predictable autonomic output → the pattern of pupils, skin, bowel sounds and temperature reveals the receptor class → class determines antidote and supportive priority, independent of which specific drug was taken.
-
-**S/Smx:** The examination that discriminates is narrow and quick: pupil size, skin moisture, bowel sounds, temperature, reflexes and tone. Skin moisture and bowel sounds do most of the work.
-
-> [!tip] Toxidrome comparison
-> | | Pupils | Skin | Bowel sounds | Temp | Mental state | Distinctive |
-> |---|---|---|---|---|---|---|
-> | Anticholinergic | Dilated | **Dry, flushed** | **Absent** | Raised | Agitated delirium, mumbling | Urinary retention |
-> | Cholinergic | Constricted | **Wet** | **Hyperactive** | Normal/low | Confused, then depressed | Bronchorrhoea, fasciculations |
-> | Sympathomimetic | Dilated | **Wet** | Normal/increased | Raised | Agitated, alert | Normal reflexes, hypertension |
-> | Opioid | **Pinpoint** | Normal | Reduced | Normal/low | Depressed | **Low respiratory rate** |
-> | Sedative-hypnotic | Normal/small | Normal | Reduced | Normal/low | Depressed | Reflexes preserved early |
-> | Serotonin toxicity | Dilated | Wet | Increased | Raised | Agitated | **Clonus, hyperreflexia, lower-limb predominant** |
-
-> [!warning] The two pairs that get confused
-> **Anticholinergic vs sympathomimetic** — both have dilated pupils, tachycardia, hyperthermia and agitation. The skin separates them: anticholinergic is **dry**, sympathomimetic is **soaked**. Bowel sounds confirm it — absent versus present.
-> **Serotonin toxicity vs neuroleptic malignant syndrome** — see 0.4. Onset speed and the character of the tone abnormality separate them.
-
-**Ix:** Bedside glucose (*why:* hypoglycaemia mimics every toxidrome and reverses in seconds; *what:* low value). ECG (*why:* the single highest-yield test in undifferentiated poisoning — QRS and QT tell you about sodium and potassium channel blockade regardless of the history given; *what:* QRS widening, QT prolongation, terminal R wave in aVR, arrhythmia). Paracetamol level in every deliberate self-poisoning (*why:* it is common, co-ingested, silent for the first day, and lethal if the treatable window is missed; *what:* level plotted against time since ingestion). VBG with lactate and electrolytes (*why:* identifies anion gap acidosis and gives potassium quickly; *what:* HAGMA, hyperlactataemia, potassium derangement). UEC, LFT, coagulation profile (*why:* baseline organ function and the derangements that direct antidote decisions; *what:* renal impairment, transaminitis, coagulopathy). Osmolality where toxic alcohol is plausible (*why:* the osmolar gap is elevated early when the anion gap is still normal; *what:* raised gap — see 0.8).
-
-### 0.1.1 Mx – Immediate
-Resuscitation before identification. A–E, oxygen, IV access, bedside glucose, continuous cardiac monitoring. **Call the Poisons Information Centre on 13 11 26** — this is the expected step in Australian practice, not a fallback, and it is the correct answer in both the exam and the resus bay.
-
-### 0.1.2 Mx – Definitive
-Decontamination, antidote and enhanced elimination decisions are agent-specific and time-dependent. `UNVERIFIED — activated charcoal indications, the time window in which it retains benefit, and all contraindications require verification against eTG Toxicology; no window is stated here.`
-
-### 0.1.3 Mx – Chronic/long-term
-Every deliberate self-poisoning requires mental health assessment before discharge, regardless of how medically trivial the ingestion proved to be. Cross-refer [[N1]] Risk Assessment & Suicidality.
-
----
-
-## 0.2 Anticholinergic Toxidrome
-
-**D:** Poisoning by muscarinic receptor antagonism, producing central delirium with peripheral parasympathetic blockade.
-
-**R/Causes:** Tricyclic antidepressants, sedating antihistamines (promethazine, diphenhydramine), antipsychotics, benztropine, oxybutynin, atropine, *Datura* and other plant alkaloids. Cumulative anticholinergic burden in the elderly on polypharmacy — cross-refer [[18_Geriatrics_and_Older_Persons_Health]] Anticholinergic burden.
-
-**A/P:** Muscarinic blockade peripherally → loss of sweating, pupillary constriction, gut motility and bladder emptying → dry flushed skin, mydriasis, ileus, retention; loss of sweating removes the main heat-loss route → hyperthermia. Central muscarinic blockade → agitated delirium with visual hallucinations and characteristic mumbling incoherent speech.
-
-**S/Smx:** Hot, dry, flushed skin. Dilated poorly reactive pupils. Absent bowel sounds, palpable bladder. Agitated delirium, picking at bedclothes, visual hallucinations of small figures or insects, mumbling speech. Tachycardia.
-
-> [!tip] The classical mnemonic
-> Blind as a bat (mydriasis, blurred vision) · Dry as a bone (anhidrosis) · Red as a beet (flushing) · Hot as a hare (hyperthermia) · Mad as a hatter (delirium) · Full as a flask (urinary retention).
-
-> [!danger] The real risk is the co-ingestant, not the anticholinergic effect
-> Tricyclic antidepressants produce this picture and also block fast sodium channels — the death is from QRS widening, seizures and arrhythmia, not from the dry skin. Any anticholinergic presentation demands an ECG looking specifically for QRS widening and a terminal R wave in aVR. Cross-refer [[A5]] TCA Overdose.
-
-**Ix:** ECG (*why:* separates a benign antihistamine ingestion from a sodium-channel-blocking TCA, which is the entire prognostic question; *what:* QRS widening, terminal R wave in aVR, QT prolongation). Bedside glucose and core temperature (*why:* hyperthermia here is a failure of heat dissipation and rises without warning; *what:* core temperature trend). Bladder scan (*why:* retention is uncomfortable, causes further agitation, and is easily missed in a delirious patient; *what:* retained volume). Paracetamol level (*why:* combination analgesic and cold-and-flu preparations pair antihistamines with paracetamol; *what:* level against time). CK where prolonged agitation or restraint (*why:* rhabdomyolysis follows sustained agitation; *what:* elevation).
-
-### 0.2.1 Mx – Immediate
-Supportive care is the treatment. Cooling for hyperthermia, benzodiazepines for agitation, IV fluids, catheterisation for retention. **Avoid physical restraint where possible** — it worsens hyperthermia and rhabdomyolysis. Continuous cardiac monitoring.
-
-### 0.2.2 Mx – Definitive
-Sodium bicarbonate is the intervention for QRS widening in sodium channel blockade, not for the anticholinergic features. `UNVERIFIED — the QRS threshold at which bicarbonate is indicated, and its dosing, require verification against eTG Toxicology and the Poisons Information Centre.` Physostigmine has a narrow and contested role and is not an intern decision.
-
-### 0.2.3 Mx – Chronic/long-term
-Medication review and deprescribing where the cause was cumulative burden. Mental health assessment where deliberate.
-
----
-
-## 0.3 Cholinergic Toxidrome (Organophosphates)
-
-**D:** Acetylcholinesterase inhibition producing acetylcholine excess at muscarinic, nicotinic and central receptors.
-
-**R/Causes:** Organophosphate and carbamate insecticides — agricultural and domestic exposure, deliberate ingestion. Nerve agents. Some mushrooms.
-
-**A/P:** Cholinesterase inhibited → acetylcholine accumulates at the synapse → muscarinic overstimulation gives secretions, bronchoconstriction, bradycardia and gut hyperactivity; nicotinic overstimulation gives fasciculations, weakness and ultimately paralysis; central overstimulation gives confusion, seizures and respiratory depression. Organophosphates then undergo "ageing" — an irreversible covalent change to the enzyme after which pralidoxime cannot reactivate it, which is why antidote timing matters.
-
-**S/Smx:** Wet everywhere. Miosis, salivation, lacrimation, sweating, vomiting, diarrhoea, bronchorrhoea, bronchospasm, bradycardia, fasciculations, weakness. A garlic or solvent odour may be present.
-
-> [!tip] Two mnemonics, and which one matters
-> **DUMBELS** — Diarrhoea, Urination, Miosis, Bronchorrhoea/Bronchospasm/Bradycardia, Emesis, Lacrimation, Salivation.
-> **The killer B's — bronchorrhoea, bronchospasm, bradycardia.** These are what kill. The patient drowns in their own secretions. Everything else on the list is uncomfortable rather than lethal.
-
-> [!danger] Staff contamination
-> Organophosphates are absorbed through skin and through vomit and clothing. **Decontaminate before, or while, treating** — remove clothing, wash the patient, and use appropriate PPE. Secondary contamination of the resus team is a described and preventable event.
-
-**Ix:** The diagnosis is clinical and treatment must not wait for confirmatory tests. Red cell or plasma cholinesterase activity (*why:* confirms exposure and gives some prognostic information, but turnaround is far too slow to guide management; *what:* depressed activity). ABG or VBG (*why:* quantifies the ventilatory failure that bronchorrhoea and weakness produce; *what:* hypoxia, rising CO₂). ECG (*why:* bradyarrhythmia and QT prolongation occur; *what:* bradycardia, prolonged QT). UEC and glucose (*why:* baseline and hypoglycaemia exclusion; *what:* electrolyte derangement). CXR (*why:* aspiration and pulmonary oedema from secretions; *what:* infiltrates).
-
-### 0.3.1 Mx – Immediate
-Decontamination with PPE. Airway management with aggressive suctioning — secretions, not hypoxia from lung disease, are the primary airway problem. Atropine is the muscarinic antidote and is titrated to **drying of bronchial secretions**, not to heart rate or pupil size. `UNVERIFIED — atropine initial dose, doubling regimen and titration endpoint require verification against eTG Toxicology and the Poisons Information Centre; the doses used are far larger than in any other indication and must not be estimated.`
-
-### 0.3.2 Mx – Definitive
-Pralidoxime reactivates cholinesterase and addresses the nicotinic features that atropine does not touch, but only before ageing. `UNVERIFIED — pralidoxime dosing and the time window before ageing require verification.` Benzodiazepines for seizures. Intubation and ventilation for the intermediate syndrome — delayed proximal and respiratory muscle weakness developing after the acute cholinergic phase resolves, which catches teams who have relaxed.
-
-### 0.3.3 Mx – Chronic/long-term
-Prolonged ICU stay is common. Delayed peripheral neuropathy is described. Occupational exposure requires workplace notification — cross-refer [[P1]] Occupational Exposure.
-
----
-
-## 0.4 Sympathomimetic Toxidrome vs Serotonin Toxicity
-
-**D:** Two hyperadrenergic hyperthermic states with overlapping presentations and different mechanisms — catecholamine excess versus excess serotonergic neurotransmission.
-
-**R/Causes:**
-*Sympathomimetic:* Amphetamines, methamphetamine, cocaine, MDMA, synthetic cathinones, salbutamol and theophylline in overdose.
-*Serotonin toxicity:* Almost always a combination — SSRI or SNRI plus tramadol, MAOI, linezolid, triptan, St John's wort, MDMA, or an SSRI dose increase.
-
-**A/P:**
-*Sympathomimetic:* Increased synaptic catecholamine → α and β stimulation → vasoconstriction, tachycardia, hypertension, mydriasis, diaphoresis, agitation; sustained agitation and vasoconstriction → hyperthermia, rhabdomyolysis, and in cocaine specifically coronary vasospasm and aortic dissection.
-*Serotonin toxicity:* Excess 5-HT2A stimulation → autonomic instability plus a distinctive neuromuscular excitation — **clonus and hyperreflexia, greater in the legs than the arms** — with hyperthermia driven by muscular activity.
-
-**S/Smx:** Both give agitation, mydriasis, diaphoresis, tachycardia, hypertension and hyperthermia. The neuromuscular examination separates them.
-
-> [!tip] Serotonin toxicity vs NMS vs sympathomimetic
-> | | Onset | Tone | Reflexes | Pupils | Discriminator |
-> |---|---|---|---|---|---|
-> | Serotonin toxicity | Hours | Rigidity, **lower limbs > upper** | **Hyperreflexia, clonus** | Dilated | Inducible or spontaneous clonus |
-> | NMS | Days to weeks | **Lead-pipe rigidity, generalised** | Reduced or normal | Normal | Slow onset after antipsychotic |
-> | Sympathomimetic | Minutes to hours | Normal | Normal | Dilated | Normal reflexes, clear drug history |
-
-> [!warning] Ask about the combination, not the drug
-> Serotonin toxicity is a drug–drug interaction far more often than a single-agent overdose. Tramadol added to an SSRI is the classic Australian ward and GP scenario. A patient on a stable SSRI who has just been started on something new is the history to elicit.
-
-**Ix:** Core temperature (*why:* hyperthermia is the proximate cause of death in both and determines the aggressiveness of cooling; *what:* trend, with severe elevation demanding active cooling and paralysis). CK (*why:* rhabdomyolysis from sustained muscular hyperactivity causes the renal failure that follows; *what:* marked elevation). UEC and potassium (*why:* rhabdomyolysis produces hyperkalaemia and acute kidney injury; *what:* rising creatinine, hyperkalaemia). ECG and troponin where cocaine is involved (*why:* cocaine causes coronary vasospasm and infarction in young patients with normal arteries; *what:* ischaemic change, troponin rise). Coagulation profile (*why:* DIC complicates severe hyperthermia; *what:* deranged INR, low fibrinogen). CT brain where headache, focal deficit or sustained severe hypertension (*why:* sympathomimetics cause intracranial haemorrhage; *what:* bleed).
-
-### 0.4.1 Mx – Immediate
-**Benzodiazepines are the first-line treatment for both**, addressing agitation, hypertension, tachycardia and muscular hyperactivity in one intervention. Active cooling for hyperthermia. IV fluids. Continuous monitoring. `UNVERIFIED — benzodiazepine dosing and the core temperature threshold defining severe hyperthermia require verification against eTG.`
-
-> [!danger] Two agent-specific traps
-> **Avoid beta-blockers in cocaine toxicity** — unopposed alpha stimulation may worsen hypertension and coronary vasospasm. **Avoid antipsychotics for agitation in either syndrome** — they lower the seizure threshold, impair heat dissipation, and in serotonin toxicity may worsen the picture. Benzodiazepines, not droperidol, are the answer here.
-
-### 0.4.2 Mx – Definitive
-Cease all serotonergic agents. Severe serotonin toxicity with hyperthermia requires intubation, paralysis and cooling — muscular activity is generating the heat, so paralysis stops it. Cyproheptadine has a role. `UNVERIFIED — cyproheptadine dosing and route require verification.`
-
-### 0.4.3 Mx – Chronic/long-term
-Medication reconciliation with explicit documentation of the interacting pair. Drug and alcohol referral where recreational. Mental health assessment where deliberate.
-
----
-
-## 0.5 Opioid-Induced Respiratory Depression
-
-**D:** Reduced respiratory drive from mu opioid receptor agonism, whether iatrogenic, recreational or deliberate.
-
-**R:**
-*Unmodifiable:* Age, renal impairment altering clearance, obstructive sleep apnoea.
-*Modifiable:* Dose escalation, opioid-naive status, co-prescribed benzodiazepines or gabapentinoids, recent abstinence with lost tolerance (post-release from custody, post-detoxification), switching between opioid formulations without correct equianalgesic conversion.
-
-**A/P:** Mu receptor agonism in the brainstem respiratory centres → reduced CO₂ chemosensitivity → falling respiratory rate rather than falling tidal volume → hypercapnia → CO₂ narcosis deepens sedation → further hypoventilation → hypoxia → arrest.
-
-**S/Smx:** Pinpoint pupils, low respiratory rate, sedation. **Respiratory rate is the observation that matters — sedation score falls before saturation does, and saturation on supplemental oxygen can remain normal in a patient with a dangerously high CO₂.**
-
-> [!danger] Oxygen masks this
-> A patient on supplemental oxygen with an oximeter reading in the nineties can be profoundly hypercapnic and about to arrest. Monitor **sedation score and respiratory rate**, not saturation alone. This is the single most common serious ward prescribing harm involving opioids.
-
-> [!warning] Naloxone has a shorter half-life than most opioids
-> Re-sedation after an initial good response is expected, particularly with long-acting or slow-release preparations and with methadone. A patient who wakes with naloxone still requires prolonged observation and often an infusion. Naloxone also precipitates acute withdrawal and uncontrolled pain — titrate to adequate respiration, not to full alertness.
-
-**Ix:** VBG or ABG (*why:* the definitive test — quantifies CO₂ retention, which oximetry cannot detect; *what:* raised pCO₂ with respiratory acidosis). Bedside glucose (*why:* reversible mimic; *what:* hypoglycaemia). Medication chart and community dispensing history (*why:* identifies cumulative dose, slow-release preparations that will outlast naloxone, and co-prescribed sedatives; *what:* total opioid load, formulation, timing). Paracetamol level where a combination preparation is possible (*why:* codeine and oxycodone are commonly co-formulated with paracetamol; *what:* level against time). CXR (*why:* aspiration and non-cardiogenic pulmonary oedema both follow; *what:* infiltrates).
-
-### 0.5.1 Mx – Immediate
-Airway positioning, oxygen and bag-mask ventilation if inadequate — **ventilate first, naloxone second.** Naloxone titrated in small increments to restore adequate respiration. `UNVERIFIED — naloxone dose, route, titration increment and infusion rate require verification against eTG and local policy; the dose appropriate for an opioid-dependent patient differs from that for an opioid-naive post-operative patient and neither is stated here.`
-
-### 0.5.2 Mx – Definitive
-Prolonged observation, and infusion where a long-acting agent was involved. Review and reduce the prescribed regimen. Cross-refer [[F0.4]] Adult analgesia.
-
-### 0.5.3 Mx – Chronic/long-term
-Take-home naloxone provision and training for the patient and their household where dependence is present. Drug and alcohol referral. Opioid stewardship review where iatrogenic.
-
----
-
-## 0.6 Paracetamol Overdose
-
-**D:** Hepatotoxicity from saturation of normal paracetamol conjugation pathways and depletion of hepatic glutathione.
-
-**R/Causes:** Deliberate self-poisoning; staggered supratherapeutic ingestion for pain; therapeutic-dose toxicity in the malnourished, chronic alcohol-dependent, or very low body weight. Combination cold-and-flu and analgesic preparations cause unintentional double-dosing.
-
-**A/P:** Therapeutic doses are conjugated to glucuronide and sulfate → in overdose these pathways saturate → more paracetamol is shunted through CYP2E1 to NAPQI → NAPQI is normally detoxified by glutathione → glutathione is depleted → free NAPQI binds hepatocyte proteins → centrilobular necrosis → transaminitis at 24–48 hours, coagulopathy and encephalopathy at 72–96 hours. N-acetylcysteine works by replenishing glutathione, which is why it must be given **before** the injury occurs.
-
-**S/Smx:** **Asymptomatic or trivially nauseated in the first day — this is the trap.** RUQ pain and vomiting at 24–48 h. Jaundice, coagulopathy, encephalopathy, hypoglycaemia and acute kidney injury from 72 h. A patient who looks well tells you nothing.
-
-> [!danger] The window closes silently
-> N-acetylcysteine is highly effective when given early and progressively less so as time passes. **Take a level in every deliberate self-poisoning regardless of the stated ingestion history**, because co-ingestion is common and the history is unreliable. The number of preventable deaths from this poisoning is entirely a function of missed early presentations.
-
-> [!info] The treatment nomogram
-> Treatment is decided by plotting the serum level against time since ingestion on a treatment nomogram, with separate handling for staggered ingestions, unknown time of ingestion, and modified-release preparations — for which the standard nomogram does not apply. `UNVERIFIED — the nomogram treatment line, the earliest time at which a level is interpretable, the modified-release protocol and all NAC dosing require verification against the current Australian and New Zealand consensus guideline for paracetamol poisoning and the Poisons Information Centre. No figures are stated here; this is the highest-consequence category of number in this file.`
-
-**Ix:** Serum paracetamol level timed from ingestion (*why:* the single determinant of whether antidote is required, and it is uninterpretable before a defined post-ingestion interval; *what:* level plotted on the nomogram). LFT with ALT (*why:* ALT is the earliest marker of established hepatocyte injury and its trajectory determines whether NAC continues beyond the standard course; *what:* rising ALT). INR (*why:* the most useful prognostic marker in established toxicity, more so than transaminases; *what:* rising INR). UEC and creatinine (*why:* acute kidney injury occurs independently of and sometimes without liver failure; *what:* rising creatinine). VBG with lactate (*why:* metabolic acidosis and hyperlactataemia are poor prognostic markers and feature in transplant criteria; *what:* acidosis, raised lactate). Bedside glucose (*why:* hypoglycaemia signals severe hepatic failure and is easily missed; *what:* low glucose). Salicylate level and ECG (*why:* co-ingestion is common in deliberate poisoning; *what:* salicylate level, QRS and QT).
-
-### 0.6.1 Mx – Immediate
-Assess time and quantity of ingestion, whether staggered, and the preparation. Take a paracetamol level at the appropriate interval. Activated charcoal has a role in early presentation. `UNVERIFIED — charcoal timing window and dose require verification.` **Do not wait for the level before starting NAC in a late, massive, or staggered presentation** — start and stop later if the level does not support it.
-
-### 0.6.2 Mx – Definitive
-N-acetylcysteine per protocol, with the course extended if ALT is rising or the level remains detectable at the end. Anaphylactoid reactions to NAC are common, usually rate-related, and are managed by slowing the infusion rather than abandoning the antidote. Discuss with a liver transplant unit where INR, lactate, pH or encephalopathy meet escalation criteria. `UNVERIFIED — transplant referral criteria require verification.`
-
-### 0.6.3 Mx – Chronic/long-term
-Mental health assessment before discharge in every deliberate case. Cross-refer [[N1]] Risk Assessment & Suicidality.
-
----
-
-## 0.7 Beta-Blocker and Calcium Channel Blocker Overdose
-
-**D:** Cardiogenic shock from blockade of beta-adrenergic receptors or L-type calcium channels, characteristically resistant to conventional vasopressor support.
-
-**R/Causes:** Deliberate ingestion; accidental paediatric ingestion, where a small number of tablets of a slow-release preparation can be lethal to a toddler.
-
-**A/P:**
-*Beta-blocker:* β1 blockade → reduced cAMP → reduced intracellular calcium → negative inotropy and chronotropy → bradycardia and hypotension. Propranolol additionally blocks fast sodium channels, adding QRS widening and seizures, and is lipophilic enough to cause direct CNS depression.
-*Calcium channel blocker:* L-type channel blockade → reduced calcium entry into myocardium and vascular smooth muscle → negative inotropy and vasodilatation. Pancreatic islet L-type channel blockade also impairs insulin release → hyperglycaemia.
-
-> [!info] Calcium channel blocker selectivity — stated explicitly
-> **Dihydropyridines** (amlodipine, nifedipine, felodipine) are **vascular-selective** — they cause vasodilatation and, at therapeutic doses, reflex tachycardia. They are not primarily rate-controlling agents.
-> **Non-dihydropyridines** (verapamil, diltiazem) are **cardiac-selective** — negatively inotropic and chronotropic, causing bradycardia. These are the rate-control agents.
-> **In significant overdose this selectivity is lost**, and a dihydropyridine can produce bradycardia and profound myocardial depression. `UNVERIFIED — this class fact was previously recorded inverted in this corpus; confirm the selectivity direction against the Australian Medicines Handbook before relying on it.`
-
-> [!tip] The bedside discriminator
-> **Hyperglycaemia points to calcium channel blocker.** CCBs block pancreatic insulin release, so glucose rises. Beta-blockers tend toward normal or low glucose, and propranolol may cause frank hypoglycaemia. Both give bradycardia and hypotension; the glucose separates them.
-
-> [!danger] Slow-release preparations
-> Onset can be delayed by many hours, so an initially well patient is not reassuring. A paediatric exploratory ingestion of a slow-release calcium channel blocker requires admission and prolonged observation regardless of how well the child appears. `UNVERIFIED — observation duration requires verification with the Poisons Information Centre.`
-
-**S/Smx:** Bradycardia, hypotension, reduced conscious state. Preserved mental state despite marked hypotension is described in CCB toxicity early. Seizures and QRS widening suggest propranolol. Pulmonary oedema occurs with CCBs.
-
-**Ix:** ECG and continuous monitoring (*why:* identifies the degree of conduction block and distinguishes propranolol's sodium channel effect; *what:* bradycardia, AV block, QRS widening). Bedside and serial glucose (*why:* the discriminator above, and glucose must be tracked closely once high-dose insulin therapy begins; *what:* hyperglycaemia in CCB, hypoglycaemia in propranolol). VBG with lactate (*why:* quantifies the perfusion deficit and tracks response to therapy; *what:* rising lactate, acidosis). UEC with potassium and calcium (*why:* high-dose insulin therapy drives potassium down and calcium is given therapeutically; *what:* baseline and serial potassium). Bedside echocardiography (*why:* distinguishes a vasodilated state from a failing pump, which changes whether vasopressor or inotrope is prioritised; *what:* contractility, filling).
-
-### 0.7.1 Mx – Immediate
-A–E, IV access, continuous monitoring, early ICU and Poisons Information Centre involvement — this is a poisoning where standard resuscitation frequently fails and early escalation is the intervention that changes outcome. Atropine, calcium, fluids and vasopressors are all used, with **high-dose insulin euglycaemic therapy** as a central intervention in significant toxicity. `UNVERIFIED — atropine, calcium, glucagon, vasopressor and high-dose insulin dosing and titration are all omitted here and must come from the Poisons Information Centre and eTG. High-dose insulin regimens use doses far above diabetic practice and must never be estimated.`
-
-### 0.7.2 Mx – Definitive
-Escalation to lipid emulsion, pacing, or extracorporeal support in refractory cases — ICU decisions. Whole bowel irrigation is considered for slow-release preparations. `UNVERIFIED — indications and technique require verification.`
-
-### 0.7.3 Mx – Chronic/long-term
-Mental health assessment. Where paediatric and exploratory, medication storage counselling and safeguarding consideration — cross-refer [[P3]] Neglect Concern.
-
----
-
-## 0.8 Toxic Alcohols — Methanol and Ethylene Glycol
-
-**D:** Poisoning by alcohols whose metabolites, rather than the parent compound, cause organ-specific injury and severe metabolic acidosis.
-
-**R/Causes:** Deliberate ingestion; substitution when ethanol is unavailable; accidental ingestion of automotive coolant (ethylene glycol, sweet-tasting) or industrial solvents, screen wash and illicitly distilled spirits (methanol).
-
-**A/P:** Parent alcohol is itself relatively inert and causes intoxication → alcohol dehydrogenase metabolises it → **methanol → formaldehyde → formic acid**, which is directly toxic to the retina and optic nerve; **ethylene glycol → glycolic acid → oxalic acid**, which chelates calcium and precipitates as calcium oxalate in the renal tubules. Accumulating acid metabolites produce a severe high anion gap metabolic acidosis. Blocking alcohol dehydrogenase prevents metabolite formation, which is why the antidote works and why it must be given before metabolism is complete.
-
-> [!tip] The gap sequence tells you the timing
-> **Early:** parent alcohol present, metabolites not yet formed → **raised osmolar gap, normal anion gap.**
-> **Late:** parent alcohol metabolised → **normal osmolar gap, raised anion gap with severe acidosis.**
-> A patient presenting late with a normal osmolar gap has not excluded the diagnosis — they have the dangerous version of it. `UNVERIFIED — osmolar gap calculation and its normal threshold require verification; the gap is insensitive and a normal value never excludes ingestion.`
-
-> [!danger] The organ-specific clues
-> **Methanol — visual symptoms.** Blurred vision, "snowfield" whiteout, photophobia, and on examination dilated poorly reactive pupils with optic disc hyperaemia. Blindness is permanent once established.
-> **Ethylene glycol — renal failure with hypocalcaemia.** Oxalate crystalluria, acute kidney injury, and tetany or a prolonged QT from calcium chelation.
-
-**S/Smx:** Apparent intoxication **without the smell of ethanol**. Nausea and vomiting. Then, as metabolites accumulate, Kussmaul respiration, altered conscious state, and the organ-specific features above.
-
-**Ix:** VBG or ABG with anion gap calculation (*why:* the severity of the acidosis drives both the antidote and the dialysis decision; *what:* severe HAGMA). Serum osmolality with calculated osmolar gap (*why:* detects the parent alcohol in the early window when the anion gap is still normal; *what:* raised gap early). Ethanol level (*why:* co-ingested ethanol competitively occupies alcohol dehydrogenase and is itself protective, and its presence explains an osmolar gap without toxic alcohol; *what:* level). UEC with calcium (*why:* ethylene glycol causes renal failure and hypocalcaemia; *what:* rising creatinine, low calcium). Urine microscopy (*why:* calcium oxalate crystals support ethylene glycol though their absence does not exclude it; *what:* envelope-shaped crystals). Lactate, interpreted with caution (*why:* glycolate cross-reacts on some lactate analysers producing a spuriously high value, and the discrepancy between analysers is itself a clue; *what:* lactate gap). Formal methanol and ethylene glycol levels (*why:* confirmatory, but turnaround is far too slow to guide treatment; *what:* level). Visual acuity and fundoscopy where methanol suspected (*why:* documents the injury and supports urgent treatment; *what:* reduced acuity, hyperaemic disc).
-
-### 0.8.1 Mx – Immediate
-Call the Poisons Information Centre early. Airway support, IV access. **Treat on suspicion — do not wait for confirmatory levels.** Alcohol dehydrogenase blockade with fomepizole, or ethanol where fomepizole is unavailable. `UNVERIFIED — fomepizole and ethanol dosing, and the anion gap or level thresholds triggering treatment, require verification with the Poisons Information Centre.` Sodium bicarbonate for severe acidosis. Cofactor therapy differs by agent — folinic acid for methanol, thiamine and pyridoxine for ethylene glycol.
-
-### 0.8.2 Mx – Definitive
-**Haemodialysis** removes both parent alcohol and metabolite and corrects the acidosis; it is the definitive treatment in severe poisoning. Early nephrology and ICU involvement. `UNVERIFIED — dialysis indication thresholds require verification.`
-
-### 0.8.3 Mx – Chronic/long-term
-Ophthalmology follow-up for methanol survivors. Renal follow-up for ethylene glycol. Drug and alcohol referral and mental health assessment.
-
----
-
-## 0.9 Anaphylaxis and Acute Allergic Reaction
-
-**D:** Acute, rapidly progressive, potentially fatal systemic hypersensitivity reaction involving airway, breathing or circulation, with or without skin involvement.
-
-**R:**
-*Unmodifiable:* Prior anaphylaxis, atopy, mast cell disorders.
-*Modifiable:* Known allergen exposure, poorly labelled food, delayed adrenaline administration, upright or sudden posture change during a reaction, concurrent beta-blocker therapy blunting adrenaline response.
-
-**A/P:** Allergen cross-links IgE on mast cells and basophils → massive degranulation with histamine, tryptase and leukotriene release → vasodilatation with capillary leak causing distributive shock and profound intravascular volume loss; bronchial smooth muscle constriction causing bronchospasm; mucosal oedema causing upper airway obstruction. Adrenaline reverses all three arms simultaneously — α1 vasoconstriction, β2 bronchodilatation, and mast cell stabilisation — which is why nothing else substitutes for it.
-
-**S/Smx:** Sudden onset after exposure with **airway** (tongue or throat swelling, stridor, hoarseness), **breathing** (wheeze, dyspnoea, hypoxia) or **circulation** (hypotension, collapse, pallor) involvement. Urticaria, angioedema, flushing, vomiting and abdominal pain support the diagnosis but their absence does not exclude it.
-
-> [!danger] Skin findings are absent in a meaningful minority
-> Anaphylaxis with hypotension and no rash is a well-described presentation, particularly in perioperative and drug-induced cases. **Do not require urticaria before diagnosing anaphylaxis or before giving adrenaline.**
-
-> [!danger] Two positioning and route errors that kill
-> **Do not sit or stand the patient up**, and do not walk them to the bathroom or the ambulance — sudden upright posture in a volume-depleted vasodilated patient has caused arrest. Lie flat, or left lateral in pregnancy, and elevate the legs.
-> **Adrenaline is intramuscular into the anterolateral thigh.** Subcutaneous and inhaled routes are inadequate. IV adrenaline is for refractory cases with expert supervision and carries real hazard.
-
-> [!warning] Antihistamines and steroids are not treatment
-> Neither reverses airway obstruction or shock. They are adjuncts at most, and reaching for them before adrenaline is the commonest documented error in anaphylaxis management. Delayed adrenaline is the strongest predictor of fatality.
-
-**Ix:** The diagnosis is clinical and **no test should delay adrenaline.** Serum tryptase, ideally serially (*why:* supports the diagnosis retrospectively when the presentation was atypical, and matters for later allergy assessment and for medicolegal clarity in perioperative cases; *what:* acute rise falling toward baseline). Bedside glucose and ECG (*why:* excludes mimics and monitors for adrenaline-related ischaemia and arrhythmia in older patients; *what:* ischaemic change, arrhythmia). VBG (*why:* quantifies the perfusion deficit in shocked patients; *what:* acidosis, raised lactate). Formal allergy investigation is deferred to a specialist clinic weeks later — acute-phase specific IgE testing is unreliable.
-
-### 0.9.1 Mx – Immediate
-Remove the trigger where possible. Lie flat with legs elevated. **Intramuscular adrenaline into the anterolateral thigh immediately**, repeated as required. High-flow oxygen. Large-bore IV access and fluid resuscitation. Call for help early. `UNVERIFIED — adrenaline IM dose by age and weight, the repeat interval, IV infusion rates, and paediatric fluid bolus volumes are all deliberately omitted here. Obtain them directly from the ASCIA Acute Management of Anaphylaxis guideline and ANZCOR Guideline 9.2.7. A paediatric adrenaline timing error has already been found in this corpus and originated in exactly this section.`
-
-### 0.9.2 Mx – Definitive
-Observation for biphasic reaction, which can occur hours after apparent resolution. Refractory cases require adrenaline infusion and ICU. Patients on beta-blockers may respond poorly to adrenaline; glucagon is described as an adjunct. `UNVERIFIED — observation period duration and glucagon dosing require verification.`
-
-### 0.9.3 Mx – Chronic/long-term
-Adrenaline autoinjector prescription with **demonstrated** technique, not just a script. ASCIA action plan. Medical alert identification. Allergy or immunology referral. Documentation of the allergy in the record and on discharge summary. Cross-refer [[15_01b_Paeds_-_Anaphylaxis]].
-
----
-
-## 0.10 Australian Elapid Snakebite
-
-> [!warning] FLAG 2026-09-01 — distinctively Australian content with no external referrers; preserve as a set
-> This section, `## 0.11 Spider Bites — Redback vs Funnel-Web`, and `NEW_Drugs_04 §0.2 Antivenoms`
-> are referenced from nowhere else in the vault.
-> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers can be validated.
-> Flagged here **not** as a candidate for removal but the reverse: this is high-yield Australian
-> material that nothing points at, so it is easy to lose in a reorganisation.
-
-**D:** Envenomation by an Australian elapid — brown, tiger, black, death adder, taipan or sea snake — producing a syndrome dominated by coagulopathy, with variable neurotoxicity and myotoxicity.
-
-**R/Causes:** Rural and outer-suburban exposure, gardening, bushwalking, attempts to handle or kill a snake. Peak in warmer months.
-
-**A/P:** Venom is injected into subcutaneous tissue → absorbed predominantly via **lymphatics**, not blood vessels → this is the entire rationale for pressure immobilisation bandaging, which compresses lymphatic drainage and delays systemic absorption. Once systemic: procoagulant toxins activate the clotting cascade → consumption of fibrinogen and factors → **venom-induced consumptive coagulopathy**; presynaptic and postsynaptic neurotoxins → descending flaccid paralysis beginning with cranial nerves; myotoxins → rhabdomyolysis with hyperkalaemia and renal failure.
-
-**S/Smx:** The bite site is often unimpressive or invisible. Early systemic features are non-specific and easily dismissed: headache, nausea and vomiting, abdominal pain, collapse shortly after the bite. Later: bleeding from the bite site or venepuncture sites, ptosis and ophthalmoplegia as the first neurological signs, then bulbar weakness and descending paralysis, then myalgia and dark urine.
-
-> [!danger] Ptosis is the earliest neurological sign
-> Descending paralysis starts with the cranial nerves. **Examine for ptosis and ophthalmoplegia repeatedly** — they precede limb weakness and respiratory failure by a useful interval.
-
-> [!warning] Do not wash the bite site
-> Venom on the skin is the sample used by the snake venom detection kit. Washing it destroys the specimen. Equally: no tourniquet, no incision, no suction, no ice.
-
-> [!info] Pressure immobilisation bandage
-> A broad elastic bandage applied firmly over the bite site and extended to cover the whole limb, with the limb then splinted and the patient kept still. It is left in place until the patient is at a facility able to manage envenomation. `UNVERIFIED — bandage pressure guidance, application technique and the criteria and timing for removal require verification against ANZCOR Guideline 9.4.8 and the Australian Snakebite Project consensus guideline.`
-
-**Ix:** Coagulation profile with INR, APTT, fibrinogen and D-dimer, repeated serially (*why:* venom-induced consumptive coagulopathy is the most sensitive and earliest laboratory marker of systemic envenomation, and serial testing is how envenomation is confirmed or excluded over time; *what:* rising INR, undetectable fibrinogen, grossly raised D-dimer). FBC (*why:* thrombocytopenia and evidence of microangiopathy; *what:* falling platelets, fragments on film). CK (*why:* identifies myotoxicity, which changes fluid and renal management; *what:* marked and rising elevation). UEC with potassium (*why:* rhabdomyolysis causes hyperkalaemia and acute kidney injury; *what:* rising creatinine and potassium). ECG (*why:* hyperkalaemic changes; *what:* peaked T waves, widened QRS). Snake venom detection kit on a bite site swab (*why:* guides monovalent antivenom selection where the snake is unidentified, though it does not diagnose envenomation and a positive result in an asymptomatic patient with normal bloods does not mandate antivenom; *what:* venom group). Serial neurological examination (*why:* ptosis and ophthalmoplegia detect neurotoxicity before respiratory compromise; *what:* new ptosis, restricted eye movements, reduced vital capacity).
-
-### 0.10.1 Mx – Immediate
-Apply or check the pressure immobilisation bandage and keep the patient still. Resuscitate. IV access in the unaffected limb. **Call the Poisons Information Centre on 13 11 26 early** — antivenom decisions in Australia are made with toxinology advice. Baseline bloods and serial repeats. Any patient with a possible elapid bite is retrieved to a facility with antivenom and laboratory capability, regardless of how well they look.
-
-### 0.10.2 Mx – Definitive
-Antivenom is indicated for confirmed systemic envenomation — coagulopathy, neurotoxicity, myotoxicity or systemic symptoms — not for a bite alone. `UNVERIFIED — antivenom indications, the number of vials, dilution, administration rate and premedication practice all require verification with the Poisons Information Centre and current Australian guidance. Vial numbers in particular have changed with evidence and must not be recalled.` Anaphylaxis to antivenom is a recognised risk; give it where resuscitation is available. Coagulopathy corrects as venom is neutralised and hepatic synthesis recovers; factor replacement is not routinely first-line.
-
-### 0.10.3 Mx – Chronic/long-term
-Prolonged observation with repeat coagulation studies before discharge. Serum sickness is a delayed complication after antivenom — warn the patient explicitly. Wound care and tetanus status.
-
----
-
-## 0.11 Spider Bites — Redback vs Funnel-Web
-
-**D:** Two clinically distinct Australian spider envenomation syndromes with opposite urgency, first aid and disposition.
-
-> [!tip] The comparison that matters
-> | | Redback (*Latrodectus hasseltii*) | Funnel-web (*Atrax*, *Hadronyche*) |
-> |---|---|---|
-> | Distribution | All of Australia | Eastern seaboard, Sydney region and NSW/Qld |
-> | Onset | Gradual, over hours | Rapid, within minutes to an hour |
-> | Local | Severe increasing local pain, sweating around the bite | Immediate severe pain, visible fang marks |
-> | Systemic | Regional then generalised pain, sweating, hypertension, malaise | Autonomic storm — salivation, lacrimation, sweating, muscle fasciculation, hypertension, pulmonary oedema, coma |
-> | Life-threatening | Very rarely | **Yes — a genuine emergency** |
-> | Pressure immobilisation | **No** | **Yes** |
-> | Antivenom | Contested benefit | Effective and indicated |
-
-**A/P:**
-*Redback:* α-latrotoxin causes massive presynaptic neurotransmitter release at nerve terminals → sustained regional pain, diaphoresis characteristically localised around or proximal to the bite, and autonomic disturbance. Systemic effects develop over hours and are rarely dangerous.
-*Funnel-web:* δ-atracotoxin slows sodium channel inactivation → repetitive neuronal firing → catecholamine and acetylcholine storm → severe autonomic instability, non-cardiogenic pulmonary oedema, and in untreated cases death within hours.
-
-**S/Smx:**
-*Redback:* Increasing local pain radiating proximally, patchy or regional sweating (a distinctive and useful sign), malaise, nausea, hypertension. Pain may persist for days.
-*Funnel-web:* Immediate severe pain, perioral tingling, tongue fasciculation, profuse salivation and lacrimation, piloerection, hypertension and tachycardia, then hypotension, pulmonary oedema and coma.
-
-> [!danger] The first aid differs — getting it backwards causes harm
-> **Funnel-web: apply a pressure immobilisation bandage immediately** and treat as a life threat.
-> **Redback: do not apply a pressure immobilisation bandage.** The venom acts locally and slowly; bandaging worsens the already severe local pain and confers no benefit. Ice pack and analgesia.
-
-**Ix:** Largely clinical. Continuous cardiac and respiratory monitoring in suspected funnel-web (*why:* deterioration is rapid and pulmonary oedema is the mode of death; *what:* rising respiratory rate, hypoxia, arrhythmia). VBG (*why:* quantifies the metabolic disturbance in a severe autonomic storm; *what:* acidosis, raised lactate). UEC and CK (*why:* baseline in a patient with sustained muscular activity; *what:* electrolyte derangement, elevated CK). Where the bite is unidentified and the presentation is atypical, treat as the more dangerous possibility and involve the Poisons Information Centre.
-
-### 0.11.1 Mx – Immediate
-*Funnel-web:* Pressure immobilisation bandage, immobilise, resuscitate, high-dependency monitoring, urgent antivenom. Call 13 11 26.
-*Redback:* Ice pack and simple analgesia. Escalating analgesia as needed. Observation. No bandage.
-
-### 0.11.2 Mx – Definitive
-Funnel-web antivenom is effective and given on clinical grounds. `UNVERIFIED — antivenom vial numbers and repeat criteria require verification with the Poisons Information Centre.` Redback antivenom benefit over placebo has been questioned by Australian randomised evidence, and its use is now a discussion with toxinology rather than a reflex. `UNVERIFIED — confirm current recommendation and the status of the redback antivenom evidence; this is an area where practice has changed.`
-
-### 0.11.3 Mx – Chronic/long-term
-Wound care and tetanus status. Warn about serum sickness after antivenom. Redback pain may persist for days to weeks and warrants GP follow-up.
-
----
-
-> [!note] Cross-references
-> Sepsis and shock phenotypes → [[F0.3]] · Acid-base consequences of these poisonings → [[F0.2]] · Resuscitation algorithms and airway management → [[F0.4]] · Deliberate self-poisoning risk assessment → [[N1]] · Adverse drug reactions and TCA overdose → [[A5]]
-
-
-<!-- ===== SOURCE: F0-3_Shock_Phenotypes_and_Sepsis_Syndromes.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Mechanism, haemodynamic reasoning and discriminators are reliable at intern level. **Every dose, threshold, reference range and timing figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** All fluid bolus volumes — adult and paediatric — all vasopressor and inotrope doses, all antibiotic regimens, and all steroid doses are omitted. Obtain them from your health network's protocols, eTG Antibiotic, the Australian Sepsis Clinical Care Standard, and for children the RCH guidelines.
->
-> Sepsis definitions, SIRS, qSOFA and the source-based sepsis table are in [[A1]] 0.2–0.3 and are not restated here.
-
----
-
-## 0.1 Shock — Recognition and Phenotype Framework
-
-**D:** Circulatory failure producing inadequate tissue oxygen delivery for metabolic demand, with cellular dysfunction that is initially reversible.
-
-**A/P:** Oxygen delivery is the product of cardiac output and arterial oxygen content. Cardiac output fails through one of four mechanisms → **not enough in the tank** (hypovolaemic), **the pump has failed** (cardiogenic), **something is blocking flow into or out of the heart** (obstructive), or **the pipes are too wide and leaking** (distributive). Each has a distinct haemodynamic signature, and the signature is what determines whether the treatment is fluid, an inotrope, a needle, or a vasopressor.
-
-> [!tip] The four phenotypes at the bedside
-> | | JVP / filling | Peripheries | Pulse pressure | Bedside echo | First move |
-> |---|---|---|---|---|---|
-> | **Hypovolaemic** | Low, flat, collapsible IVC | Cold, clammy | Narrow | Small hyperdynamic LV, collapsing IVC | Fluid |
-> | **Cardiogenic** | **Raised** | Cold, clammy, mottled | Narrow | Poor contractility, dilated LV | Inotrope, not volume |
-> | **Obstructive** | **Raised** | Cold | Narrow | Cause-specific (see 0.4, 0.5) | Relieve the obstruction |
-> | **Distributive** | Low or normal | **Warm early**, cold late | **Wide** | Hyperdynamic LV, low SVR | Fluid then vasopressor |
-
-> [!warning] The JVP does most of the work
-> **Cold and shut down with a flat JVP** → give fluid. **Cold and shut down with a raised JVP** → do not give more fluid; find out whether the pump has failed or something is obstructing it. Getting this one distinction right at the bedside separates appropriate resuscitation from causing pulmonary oedema.
-
-> [!danger] Mixed shock is the ward reality
-> A septic patient with ischaemic cardiomyopathy has both distributive and cardiogenic physiology. A trauma patient can have haemorrhagic and obstructive shock simultaneously. Treat the phenotype you can identify, reassess after every intervention, and get bedside echocardiography early rather than committing to a single mechanism.
-
-> [!warning] Blood pressure is a late and unreliable marker
-> Young patients, pregnant patients and children maintain blood pressure by vasoconstriction and tachycardia until compensation exhausts, then fall precipitously. **Hypotension is a late sign in all of them and a pre-terminal sign in a child.** Look instead at capillary refill, skin mottling, mental state, urine output, pulse pressure and lactate.
-
-**S/Smx:** Tachycardia, tachypnoea, narrowed pulse pressure, prolonged capillary refill, mottling, oliguria, altered mentation. Skin temperature and JVP are the two examination findings that phenotype it.
-
-**Ix:** Serial lactate (*why:* the most useful single marker of tissue hypoperfusion, and clearance over hours predicts outcome better than any single value; *what:* elevation, and trajectory on repeat). Bedside echocardiography (*why:* it phenotypes the shock in under a minute — contractility, RV size, pericardial fluid and IVC calibre answer the four-way question directly; *what:* poor LV function, dilated RV, pericardial effusion with chamber collapse, or an empty collapsing IVC). VBG with electrolytes (*why:* pH, potassium and lactate in minutes; *what:* metabolic acidosis, potassium derangement). FBC, UEC, LFT, coagulation profile (*why:* organ dysfunction assessment and identification of haemorrhage or coagulopathy; *what:* falling haemoglobin, rising creatinine and bilirubin, deranged INR). ECG (*why:* infarction, arrhythmia and the low-voltage or right-strain patterns of obstructive shock; *what:* ischaemia, electrical alternans, S1Q3T3 pattern). Troponin (*why:* raised in cardiogenic shock and also in PE from RV strain, so it must be interpreted with the echo; *what:* elevation). Blood cultures before antibiotics if infection is plausible (*why:* yield falls sharply after the first dose; *what:* organism). Erect CXR (*why:* pulmonary oedema, pneumothorax, effusion, consolidation; *what:* findings distinguishing cardiogenic from distributive). Group and hold or crossmatch (*why:* the delay in transfusion is the crossmatch, not the decision; *what:* units available).
-
-### 0.1.1 Mx – Immediate
-A–E, high-flow oxygen, two large-bore cannulae, continuous monitoring, catheter for hourly urine output. Fluid challenge with reassessment after each bolus in every phenotype except overt cardiogenic and tamponade. Escalate early — shock that does not respond to initial fluid is an ICU conversation, not a wait-and-see.
-
-### 0.1.2 Mx – Definitive
-Phenotype-specific, as set out in 0.2–0.11.
-
-### 0.1.3 Mx – Chronic/long-term
-Post-shock organ recovery, rehabilitation, and documentation of the precipitant and the response for future admissions.
-
----
-
-## 0.2 Hypovolaemic Shock — Non-Haemorrhagic
-
-**D:** Shock from loss of intravascular volume without blood loss — fluid lost externally, or sequestered where the circulation cannot reach it.
-
-**R/Causes:** Gastroenteritis with high-volume vomiting and diarrhoea, high-output stoma, burns exudate, DKA and hyperosmolar states with osmotic diuresis, heat illness, pancreatitis, bowel obstruction, and third-spacing of any cause — cross-refer [[F0.2]] 0.10.
-
-**A/P:** Volume loss → falling preload → falling stroke volume → compensatory tachycardia and systemic vasoconstriction maintain blood pressure while diverting flow from skin, gut and kidney → **normal blood pressure with cold peripheries and oliguria is compensated shock** → compensation exhausts → hypotension, then anaerobic metabolism, lactic acidosis and organ failure.
-
-**S/Smx:** Thirst, dry mucous membranes, reduced skin turgor, flat neck veins, tachycardia, postural drop, cold clammy peripheries, prolonged capillary refill, oliguria, then confusion and hypotension. In an infant, sunken fontanelle, reduced tears and reduced wet nappies.
-
-> [!warning] The fluid balance chart lies in sequestration
-> A patient with bowel obstruction or pancreatitis may have litres sitting in bowel or peritoneum with nothing recorded as output. A "balanced" chart in these conditions is not evidence of adequate volume.
-
-> [!tip] Discriminating from cardiogenic shock
-> Both present cold and clammy. **The JVP separates them** — flat here, raised in cardiogenic. If the JVP is unhelpful, a small fluid bolus that improves perfusion confirms hypovolaemia; one that worsens oxygenation points the other way. This is why boluses are given small and reassessed rather than prescribed as litres.
-
-**Ix:** UEC (*why:* identifies the pattern and severity of losses and the renal consequence; *what:* urea raised disproportionately to creatinine, sodium reflecting the tonicity of what was lost). Serial lactate (*why:* quantifies whether compensation is failing when blood pressure is still normal; *what:* elevation and clearance). VBG (*why:* rapid pH, potassium and lactate; *what:* metabolic acidosis). FBC (*why:* haemoconcentration supports non-haemorrhagic loss, whereas a falling haemoglobin redirects you to bleeding; *what:* raised haematocrit versus falling haemoglobin). Bedside echocardiography or IVC assessment (*why:* a small hyperdynamic ventricle with a collapsing IVC confirms the phenotype and predicts fluid responsiveness; *what:* underfilled chambers). Hourly urine output (*why:* the most practical continuous marker of resuscitation adequacy; *what:* output per hour). Weight against a recent recorded weight in children (*why:* the most accurate deficit estimate available; *what:* percentage loss). Bedside glucose and ketones (*why:* DKA and hyperosmolar states present exactly this way; *what:* hyperglycaemia with ketosis — cross-refer [[F0.2]] 0.3).
-
-### 0.2.1 Mx – Immediate
-Isotonic crystalloid in boluses with reassessment after each. Balanced crystalloid is generally preferred to large-volume 0.9% sodium chloride, which produces a hyperchloraemic acidosis. `UNVERIFIED — bolus volumes for adults and children, and the number of boluses before escalating to vasopressor support, are omitted; use local and RCH guidance.` Replace ongoing losses in addition to the deficit.
-
-### 0.2.2 Mx – Definitive
-Stop the losses — antiemetics, relief of obstruction, treatment of DKA, burns management. Potassium and magnesium replacement, since both are lost with the fluid.
-
-### 0.2.3 Mx – Chronic/long-term
-Oral rehydration education and a documented plan for recurrent high-output losses.
-
----
-
-## 0.3 Cardiogenic Shock — Acute Left Ventricular Failure
-
-**D:** Shock from primary pump failure, most often acute left ventricular failure, with pulmonary congestion and systemic hypoperfusion occurring together.
-
-**R:**
-*Unmodifiable:* Prior myocardial infarction, established heart failure, age, cardiomyopathy.
-*Modifiable:* Ischaemia, uncontrolled hypertension, arrhythmia, non-adherence to heart failure medications, excessive salt or fluid intake, negatively inotropic drugs, anaemia, thyrotoxicosis, intercurrent infection.
-
-**A/P:** Left ventricular contractility falls → stroke volume falls → left atrial and pulmonary venous pressures rise → hydrostatic pressure exceeds oncotic pressure in the pulmonary capillaries → **alveolar flooding and hypoxia**; simultaneously forward flow falls → systemic hypoperfusion with compensatory vasoconstriction → increased afterload → further reduction in stroke volume → a self-reinforcing spiral. This is why afterload and preload reduction, rather than fluid, is the therapeutic direction.
-
-**S/Smx:** Severe dyspnoea, orthopnoea, distress, pink frothy sputum in florid pulmonary oedema, widespread inspiratory crackles, wheeze ("cardiac asthma"), raised JVP, third heart sound, cold clammy mottled peripheries, oliguria, confusion.
-
-> [!danger] Cardiogenic shock is not the same as decompensated heart failure
-> Most acute pulmonary oedema is hypertensive and responds to preload and afterload reduction. **Cardiogenic shock is the subset that is hypotensive and hypoperfused**, and it has high mortality. The management diverges: nitrates and non-invasive ventilation for the hypertensive patient, inotropes and urgent revascularisation or mechanical support for the hypotensive one. Giving nitrates to a hypotensive cardiogenic shock patient is harmful.
-
-> [!warning] Diuretics are not the primary intervention in acute pulmonary oedema
-> The immediate benefit comes from **sitting the patient up, oxygen, non-invasive ventilation and nitrate-mediated preload and afterload reduction.** Many patients in acute cardiogenic pulmonary oedema are not volume-overloaded at all — the fluid has redistributed into the lungs rather than accumulated. Diuretics have a role, but reaching for frusemide first and nitrates late is a recognised error. `UNVERIFIED — all GTN, frusemide and inotrope doses and titration are omitted; obtain from eTG Cardiovascular and local protocol.`
-
-**Ix:** ECG immediately (*why:* identifies the STEMI or arrhythmia that converts this into a reperfusion or cardioversion emergency, which changes everything about the next twenty minutes; *what:* ST elevation, new left bundle branch block, arrhythmia). Troponin (*why:* distinguishes ischaemic precipitant from decompensation, though it rises in any myocardial strain; *what:* elevation with a rising trend). Erect CXR (*why:* confirms pulmonary oedema and excludes the pneumonia and pneumothorax that mimic it; *what:* upper lobe diversion, Kerley B lines, bat-wing perihilar shadowing, effusions, cardiomegaly). Bedside echocardiography (*why:* quantifies ventricular function, identifies acute valvular catastrophe such as papillary muscle rupture, and separates cardiogenic from other phenotypes; *what:* poor contractility, regional wall motion abnormality, severe regurgitation). VBG with lactate (*why:* distinguishes congested-but-perfused from genuinely shocked, which is the treatment-defining question; *what:* raised lactate, acidosis). BNP or NT-proBNP where the diagnosis is uncertain (*why:* a normal value makes heart failure unlikely, which is useful in the undifferentiated breathless patient; *what:* elevation — `UNVERIFIED — cut-offs require verification and are altered by renal impairment, obesity and atrial fibrillation`). UEC (*why:* renal function determines diuretic and ACE inhibitor decisions and cardiorenal syndrome is common; *what:* creatinine, potassium). FBC and TSH (*why:* anaemia and thyrotoxicosis are reversible precipitants; *what:* anaemia, suppressed TSH).
-
-### 0.3.1 Mx – Immediate
-Sit the patient upright. High-flow oxygen. Continuous monitoring and IV access. **Non-invasive ventilation (CPAP or BiPAP) early** — it reduces preload and afterload, recruits flooded alveoli and reduces intubation rates. Nitrates for the hypertensive patient. For the hypotensive shocked patient, inotropic support and urgent cardiology involvement instead. Treat arrhythmia. Urgent reperfusion if STEMI.
-
-### 0.3.2 Mx – Definitive
-Revascularisation for ischaemic cause. Mechanical circulatory support in selected patients. Correction of valvular catastrophe. ICU or coronary care management.
-
-### 0.3.3 Mx – Chronic/long-term
-Guideline-directed heart failure therapy, cardiac rehabilitation, fluid and salt advice, daily weights with an action plan, device therapy assessment, and a documented advance care plan where trajectory is poor.
-
----
-
-## 0.4 Obstructive Shock — Cardiac Tamponade
-
-**D:** Shock from pericardial fluid under pressure restricting diastolic filling of the heart.
-
-**R/Causes:** Malignancy, uraemia, post-cardiac surgery, post-myocardial infarction free wall rupture, aortic dissection, penetrating or blunt trauma, viral or bacterial pericarditis, tuberculosis, post-procedural after pacemaker insertion or ablation, anticoagulation.
-
-**A/P:** Fluid accumulates in the pericardial sac → intrapericardial pressure rises → **the rate of accumulation matters more than the volume** (a rapidly accumulating small effusion tamponades, while a slowly accumulating large one may not) → right-sided chambers, being thin-walled and low-pressure, collapse first in diastole → venous return obstructed → reduced ventricular filling → reduced stroke volume → shock. Because the pericardium is now a fixed space, the ventricles compete for it, producing exaggerated inspiratory interdependence — the mechanism of pulsus paradoxus.
-
-**S/Smx:** **Beck's triad — hypotension, raised JVP, muffled heart sounds** — is classic but is present in a minority. Tachycardia, dyspnoea, distress, pulsus paradoxus (an exaggerated inspiratory fall in systolic pressure), and in trauma a rapidly deteriorating patient with distended neck veins.
-
-> [!danger] Tamponade is preload-dependent — three things will kill the patient
-> **Do not give diuretics or nitrates.** The ventricle is filling against pressure and needs every millilitre of preload it can get.
-> **Be extremely cautious about intubation and positive pressure ventilation.** Positive intrathoracic pressure further reduces venous return, and induction agents drop the sympathetic drive that is maintaining the circulation. Arrest on induction is a described event. Drain first where possible.
-> **Do not wait for muffled heart sounds.** They are late and unreliable in a noisy resuscitation bay.
-
-> [!tip] ECG and echo findings
-> **ECG:** low voltage complexes and **electrical alternans** — beat-to-beat variation in QRS amplitude as the heart swings within the effusion. Both are supportive rather than sensitive.
-> **Echo:** pericardial effusion with **right atrial systolic collapse and right ventricular diastolic collapse**, a plethoric non-collapsing IVC, and exaggerated respiratory variation in mitral and tricuspid inflow. This is the diagnostic test.
-
-**Ix:** Bedside echocardiography (*why:* it makes the diagnosis in seconds, distinguishes an effusion that is tamponading from one that is not, and guides drainage — no other test does this; *what:* effusion with chamber collapse and IVC plethora). ECG (*why:* the alternans and low-voltage pattern support the diagnosis and the ECG is already being done; *what:* low voltage, electrical alternans). CXR (*why:* a globular enlarged cardiac silhouette suggests a chronic effusion, though a rapidly accumulating tamponading effusion may leave a normal-sized heart; *what:* globular heart, clear lung fields). FBC, UEC, coagulation profile (*why:* uraemia is a cause, and coagulopathy both causes it and complicates drainage; *what:* renal failure, deranged INR). Pericardial fluid for cytology, culture including mycobacterial, and biochemistry once drained (*why:* determines whether the cause is malignant, infective or inflammatory and directs all subsequent management; *what:* malignant cells, organisms). CT chest where dissection or malignancy is suspected (*why:* aortic dissection causing tamponade is a surgical emergency with an entirely different pathway; *what:* dissection flap, mediastinal mass).
-
-### 0.4.1 Mx – Immediate
-Oxygen, **cautious fluid to augment preload**, and urgent senior and cardiology involvement. Avoid diuretics, nitrates and, where possible, intubation. Continuous monitoring.
-
-### 0.4.2 Mx – Definitive
-**Pericardiocentesis**, ideally echo-guided, or surgical drainage with a pericardial window. In traumatic tamponade the definitive treatment is surgical, and in the arresting trauma patient this may mean resuscitative thoracotomy in appropriate settings. Send the fluid.
-
-### 0.4.3 Mx – Chronic/long-term
-Treat the underlying cause. Malignant effusions recur and may need a window or pericardiodesis. Follow-up echocardiography for constriction.
-
----
-
-## 0.5 Obstructive Shock — Massive Pulmonary Embolism
-
-**D:** Pulmonary embolism causing haemodynamic instability — hypotension or shock from acute right ventricular failure.
-
-**R:**
-*Unmodifiable:* Previous VTE, thrombophilia, malignancy, age.
-*Modifiable:* Immobility, recent surgery especially orthopaedic and pelvic, long-haul travel, pregnancy and the postpartum period, combined oral contraceptive and hormone therapy, obesity, dehydration, central venous catheters, smoking.
-
-**A/P:** Thrombus obstructs the pulmonary arterial tree → pulmonary vascular resistance rises abruptly → the thin-walled right ventricle, which has no capacity to acutely generate high pressure, dilates and fails → the dilated RV bows the interventricular septum leftward → **left ventricular filling is impaired by the failing right ventricle** → reduced cardiac output and hypotension → falling coronary perfusion to an already strained RV → RV ischaemia → further failure. This spiral is why massive PE kills quickly and why afterload reduction, not fluid loading, is the direction of travel.
-
-**S/Smx:** Sudden dyspnoea, pleuritic chest pain, syncope or presyncope (a marker of haemodynamic significance), tachycardia, tachypnoea, hypoxia, raised JVP, and in massive PE hypotension, cyanosis and cardiac arrest with pulseless electrical activity. Signs of DVT are present in only a minority.
-
-> [!warning] The ECG findings are neither sensitive nor specific
-> **Sinus tachycardia is the commonest ECG finding.** S1Q3T3 is quoted constantly and appears in a small minority. Right axis deviation, right bundle branch block and anterior T wave inversion suggest right heart strain. **A normal ECG does not exclude PE.**
-
-> [!danger] Aggressive fluid loading can worsen massive PE
-> The right ventricle is already dilated and failing against a fixed obstruction. Large volumes further distend it, worsen septal bowing and reduce left ventricular filling. Give fluid cautiously and small, and move to vasopressor support early rather than continuing to fill.
-
-> [!info] Risk stratification determines treatment
-> Haemodynamic instability defines massive (high-risk) PE and is the indication for reperfusion. Submassive (intermediate-risk) PE has RV strain on imaging or biomarkers but a preserved blood pressure, and management is more nuanced. `UNVERIFIED — Wells and PERC criteria and their thresholds, the PESI score, D-dimer age-adjusted cut-offs, and thrombolysis dosing all require verification against eTG and local protocol.`
-
-**Ix:** CT pulmonary angiogram (*why:* the definitive diagnostic test, though a genuinely unstable patient may be too unwell to leave the resus bay for it; *what:* filling defect, RV:LV diameter ratio indicating strain). Bedside echocardiography (*why:* in the unstable patient this is often the only feasible test and a dilated hypokinetic right ventricle in a shocked patient supports empirical treatment; *what:* RV dilatation, septal flattening, McConnell's sign — free wall hypokinesis with preserved apical motion). ECG (*why:* rapid, identifies strain and excludes the infarction and arrhythmia that mimic this; *what:* sinus tachycardia, right heart strain pattern). Troponin and BNP (*why:* elevation reflects RV strain and identifies the intermediate-risk patient who looks stable but is not; *what:* elevation). VBG with lactate (*why:* quantifies the perfusion deficit and often shows hypoxia with hypocapnia from hyperventilation; *what:* raised lactate, respiratory alkalosis). D-dimer, only in low pre-test probability (*why:* it has a useful negative predictive value to exclude PE in low-risk patients and is actively unhelpful in a shocked one, where it should not delay treatment; *what:* negative result excluding low-risk PE). Lower limb ultrasound (*why:* identifying DVT in an unstable patient who cannot be scanned supports empirical anticoagulation; *what:* proximal thrombus). Coagulation profile, FBC, UEC (*why:* baseline before anticoagulation and thrombolysis, and to identify bleeding risk; *what:* platelets, INR, renal function).
-
-### 0.5.1 Mx – Immediate
-High-flow oxygen, cautious small fluid boluses, early vasopressor support for hypotension, continuous monitoring and urgent senior involvement. **Anticoagulation without waiting for imaging** where clinical suspicion is high and bleeding risk acceptable. `UNVERIFIED — anticoagulant choice and dosing require verification against eTG.`
-
-### 0.5.2 Mx – Definitive
-**Systemic thrombolysis** for massive PE with haemodynamic instability, weighed against bleeding risk. Catheter-directed therapy or surgical embolectomy where thrombolysis is contraindicated or fails. ICU management. `UNVERIFIED — thrombolysis agent, dose, and absolute and relative contraindications require verification.`
-
-### 0.5.3 Mx – Chronic/long-term
-Anticoagulation duration determined by whether the event was provoked or unprovoked. Thrombophilia and malignancy screening in selected patients. Follow-up for chronic thromboembolic pulmonary hypertension in persistently breathless patients. Cross-refer [[J3]] Recurrent Thrombosis.
-
----
-
-## 0.6 Distributive Shock — Adrenal (Addisonian) Crisis
-
-**D:** Life-threatening glucocorticoid and mineralocorticoid deficiency producing hypotension refractory to fluid and vasopressors.
-
-**R/Causes:** Known Addison's disease with an intercurrent illness and no stress dosing; **abrupt cessation of long-term exogenous corticosteroids**, which is the commonest cause in Australian practice; adrenal haemorrhage (including Waterhouse–Friderichsen in meningococcal sepsis); pituitary infarction or apoplexy; bilateral adrenal metastases; recent adrenalectomy; congenital adrenal hyperplasia in children.
-
-**A/P:** Cortisol is required to maintain vascular responsiveness to catecholamines → deficiency → **vasoplegia that does not respond to noradrenaline** → distributive shock. Mineralocorticoid deficiency in primary adrenal failure → renal sodium loss and potassium retention → **hyponatraemia with hyperkalaemia**, hypovolaemia and metabolic acidosis. Loss of cortisol's gluconeogenic effect → hypoglycaemia.
-
-**S/Smx:** Hypotension unresponsive to fluid, vomiting, abdominal pain sometimes mimicking an acute abdomen, weakness, fever, confusion, hypoglycaemia. In chronic primary adrenal insufficiency: hyperpigmentation of buccal mucosa, palmar creases and scars, weight loss, salt craving.
-
-> [!danger] Treat on suspicion — do not wait for the cortisol result
-> Hydrocortisone is given immediately. The diagnosis is confirmed afterwards. `UNVERIFIED — hydrocortisone dose, route and frequency for adults and children are omitted; obtain from eTG Endocrinology and local protocol.`
-
-> [!tip] The biochemical signature, and one practical trick
-> **Hyponatraemia with hyperkalaemia, hypoglycaemia and a metabolic acidosis** in a shocked patient should trigger the thought. Eosinophilia is a supportive and frequently overlooked clue.
-> If a short synacthen test will be needed later and treatment cannot wait, **dexamethasone does not cross-react with the cortisol assay** whereas hydrocortisone does — so dexamethasone can be given first without destroying the diagnostic window. In practice, treating the crisis takes priority over preserving the test.
-
-> [!warning] Ask about steroids in every unexplained shock
-> "Have you stopped any tablets recently?" and a look at the medication list for prednisolone, inhaled or topical high-potency steroids, or recent intra-articular injection. Steroid-induced adrenal suppression is common and the patient rarely volunteers it.
-
-**Ix:** Random serum cortisol taken **before** hydrocortisone if it costs no delay (*why:* an inappropriately low cortisol in a shocked patient is diagnostic, and the sample is unobtainable once treatment starts; *what:* inappropriately low value for the degree of stress). UEC (*why:* the hyponatraemia-with-hyperkalaemia pattern is the biochemical fingerprint of primary adrenal failure; *what:* low sodium, raised potassium, raised urea). Bedside and laboratory glucose (*why:* hypoglycaemia is common, immediately dangerous and immediately reversible; *what:* low glucose). VBG (*why:* metabolic acidosis and rapid potassium; *what:* acidosis, hyperkalaemia). ACTH level (*why:* separates primary adrenal failure from secondary pituitary causes, which have different long-term management and no mineralocorticoid deficiency; *what:* high in primary, low or normal in secondary). FBC (*why:* eosinophilia and lymphocytosis are supportive; *what:* eosinophilia). Septic screen (*why:* infection is the usual precipitant and adrenal crisis and sepsis coexist; *what:* source). Short synacthen test, deferred (*why:* confirms the diagnosis but is not an acute test; *what:* failure of cortisol to rise).
-
-### 0.6.1 Mx – Immediate
-**IV hydrocortisone immediately**, IV fluid resuscitation with isotonic saline, and correction of hypoglycaemia. Treat the precipitating illness. Continuous monitoring. Hyperkalaemia usually corrects with fluid and steroid and rarely needs specific treatment, but check the ECG.
-
-### 0.6.2 Mx – Definitive
-Continued steroid replacement, tapering to maintenance as the crisis resolves. Endocrinology involvement. Mineralocorticoid replacement with fludrocortisone in primary adrenal insufficiency once hydrocortisone doses fall.
-
-### 0.6.3 Mx – Chronic/long-term
-**Sick-day rules** taught explicitly — doubling the dose during febrile illness, and injectable hydrocortisone at home for vomiting. Medical alert bracelet and steroid emergency card. Written action plan. Education is the intervention that prevents the next crisis, and it is frequently the thing that was missing before this one.
-
----
-
-
-<!-- ===== SOURCE: 01_Cardiovascular.md ===== -->
-*Co-located here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of shock, side by side, both intact.**
-> `Cardio §0.20` and `F0-3 §0.1`–`§0.6` above are **the same four-phenotype framework taught twice**,
-> in two files, subdivided differently. Neither file declared the other, so no flag row caught it —
-> every row was generated per source file.
->
-> **Nothing is reconciled.** They are together because a cross-reference means opening a second
-> file, and this is content read under time pressure.
->
-> **`Cardio §0.20` adds:** septic, anaphylactic and neurogenic as named subtypes of distributive
-> shock · haemorrhagic hypovolaemic shock · **a full ASCIA IM adrenaline box including the `<7.5 kg`
-> infant row**, one of only two places in the corpus carrying it.
-> **`F0-3` adds:** tamponade and massive PE as separate obstructive sections, and Addisonian crisis.
-
-## 0.20 Shock
-
-**D:** Life-threatening acute circulatory failure causing cellular and tissue hypoxia.
-
-> [!danger] General Mx — Immediate/acute (ABCDE, applies to all shock types before the type-specific Mx below)
-> - 2x wide-bore cannulas ASAP
-> - Bloods: ABG/VBG, group & save + X-match if transfusion needed, troponin (cardiogenic), blood cultures (septic)
-> - IV fluids — 500 mL bolus + further fluids according to response
-> - Further Mx according to type of shock (see below)
-
-> [!tip] Mnemonic "Nacho+": Neurogenic, Anaphylactic, Cardiogenic, Hypovolaemic, Obstructive, other misc causes (e.g. mitochondrial failure) — from *Deranged Physiology*
-
-### 0.20.1 Cardiogenic shock
-Pump failure (heart cannot pump blood around the body).
-**A:** MI, arrhythmias, toxic substances (alcohol, other drugs), heart failure, chest trauma
-**S/smx:** ↓BP, ↑HR, ↑RR
-**Ix:** troponin (*why:* identifies MI as the precipitant; *what:* elevated if ischaemic cause), ECG (*why:* identifies the precipitating rhythm/ischaemia; *what:* STEMI changes, arrhythmia), echo (*why:* confirms pump failure and its mechanism/severity at the bedside; *what:* severely reduced LV function, regional wall motion abnormality, or mechanical complication e.g. acute MR/VSD)
-**Mx:**
-- **Immediate/acute:** ABCDE as above; loop diuretic if fluid-overloaded; vasopressors/inotropes (e.g. dobutamine, noradrenaline — specialist-guided); mechanical circulatory support (e.g. IABP, ECMO) in refractory cases.
-- **Definitive:** treat the underlying cause — urgent PCI if MI-driven, antiarrhythmic/cardioversion if arrhythmia-driven, surgical repair if mechanical complication.
-- **Chronic/long-term:** manage as per chronic heart failure (section 0.27) once stabilised.
-**P:** very high mortality if occurring secondary to MI
-
-### 0.20.2 Hypovolaemic shock
-Decreased intravascular volume.
-
-> [!info] Haemorrhagic shock classification by blood loss
-> Class I: <750 mL | Class II: 750–1500 mL | Class III: 1500–2000 mL | Class IV: >2000 mL
-
-**A:** haemorrhage, dehydration, GI loss, third-spacing (e.g. hypoalbuminaemia)
-**S/smx:** ↓BP, ↑HR, ↑RR; may have obvious wound/bleeding, but internal bleeding may not be obvious
-**Ix:** bloods, especially group & save + X-match (*why:* prepares for transfusion if haemorrhagic; *what:* determines blood type/compatibility — note Hb may not accurately reflect acute blood loss, since haemodilution takes time, so treat clinically rather than by Hb alone); may need exploratory surgery/endoscopy (*why:* to identify and control an occult bleeding source when not clinically obvious; *what:* localises the bleeding site).
-**Mx:**
-- **Immediate/acute:** ABCDE as above ± major haemorrhage protocol (blood products in fixed ratios) if haemorrhagic.
-- **Definitive:** source control — surgical/endoscopic/interventional-radiological haemostasis if haemorrhagic; rehydration and treat the underlying cause if non-haemorrhagic (GI losses, third-spacing).
-- **Chronic/long-term:** address the underlying cause to prevent recurrence (e.g. investigate and treat the source of chronic GI blood loss).
-
-### 0.20.3 Distributive shock
-Failure of vasoregulation — further divided into septic, anaphylactic, and neurogenic shock.
-
-**Septic shock**
-Systemic immune response to infection (including cytokine storm) → increased peripheral vasodilation.
-**S/smx:** as per sepsis — ↑temp, warm peripheries, ↑RR, ↑HR, WBC <4 or >12
-**Ix:** blood cultures (*why:* identifies the causative organism to guide targeted antibiotic therapy; *what:* positive culture with organism and sensitivities, though often negative even in confirmed sepsis), ABG/VBG for lactate (*why:* lactate is a marker of tissue hypoperfusion and severity, and trends guide resuscitation response; *what:* elevated lactate correlates with severity/mortality), urine output monitoring (*why:* a simple continuous marker of end-organ (renal) perfusion; *what:* oliguria suggests inadequate perfusion), source-finding Ix if unknown (CXR, urine MC&S) (*why:* identifying and controlling the source is essential to definitive treatment; *what:* may reveal pneumonia, UTI, or other focus)
-**Mx:**
-- **Immediate/acute:** ABCDE as above + IV antibiotics (broad-spectrum, per the Sepsis/Surviving Sepsis "hour-1 bundle" principles — cultures before antibiotics where feasible but don't delay antibiotics for this) + fluid resuscitation; vasopressors (noradrenaline first-line) if fluid-refractory.
-- **Definitive:** source control (drain an abscess, remove an infected line, etc.) + de-escalate antibiotics once cultures/sensitivities return.
-- **Chronic/long-term:** not applicable acutely; post-sepsis, address any underlying immunocompromise/recurrent-source risk factors.
-
-**Anaphylactic shock**
-Systemic IgE-mediated hypersensitivity — massive mast cell degranulation → inflammation and vasodilation.
-**S/smx:** ↓BP, ↑HR, ↑RR; facial/throat swelling, hives, difficulty breathing
-**Ix:** clinical diagnosis (*why:* anaphylaxis is diagnosed and treated on clinical grounds — waiting for confirmatory testing would delay life-saving treatment; *what:* consistent with the S/Smx above); mast cell tryptase can be checked after treatment (*why:* retrospectively supports the diagnosis if it was unclear; *what:* elevated tryptase supports mast cell degranulation, though a normal level doesn't exclude anaphylaxis).
-
-**Mx:**
-- **Immediate/acute:**
-
-> [!danger] **Adrenaline 1:1000 IM injection — ASCIA weight-and-age criteria** (corrected during the L3 seam audit; this box previously gave the superseded pure age-band split)
-> - **>50 kg and ≥12 years: 0.5 mL (500 mcg)** — the adult dose
-> - **>20 kg and ≥5 years: 0.3 mL (300 mcg)**
-> - **7.5–20 kg and ≤5 years: 0.15 mL (150 mcg)**
-> - **<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)** — unverified, see `PENDING_GUIDELINE_CHECKS.md` **B50**
-> `CF-PAIR` **THIS IS THE SECOND OF ONLY TWO PLACES IN THE CORPUS CARRYING THE `<7.5 kg` INFANT ADRENALINE ROW.** The other is `[[09_01_Dermatology_-_Dermatological_Emergencies]]` Anaphylaxis, which this box already points at as the owner. **Neither is redundant and neither should be deleted** — the copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and `NEW_Drugs_01 §0.5` both begin at 7.5 kg. Units differ (`mL` here, `mg` there) and are the same quantity at 1:1000. Both flag `PENDING_GUIDELINE_CHECKS.md` **B50**.
->
-> Overall rule: **0.01 mg/kg up to a maximum of 0.5 mg**. See [[09_01_Dermatology_-_Dermatological_Emergencies]] Anaphylaxis for the full entry, and [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific observation criteria — the ASCIA correction from age bands to weight-and-age was made in that file and had not been carried across to here.
-> - Repeat every 5 min if necessary
-> - IM injection into anterolateral thigh (if using an Epipen — count "3 elephants")
-> - If refractory after 2 doses of IM adrenaline, consider IV adrenaline infusion (expert only)
-> - Plus ABCDE, high-flow O2, IV fluids for hypotension; remove the trigger if identifiable.
-
-- **Definitive:** observation period post-resolution (biphasic reactions can occur hours later — duration depends on severity/local protocol); antihistamines and corticosteroids are adjuncts only, not substitutes for adrenaline.
-- **Chronic/long-term:** allergy specialist referral, allergen identification/avoidance, adrenaline auto-injector prescription and training, medical alert identification.
-
-**Neurogenic shock**
-Interruption of the autonomic nervous system.
-**A:** spinal cord transection
-**S/smx:** ↓BP, ↓HR, ↑RR, warm flushed skin; ↓HR due to increased vagal response with no opposing sympathetic tone; if injury above C3, may progress to respiratory arrest
-**Ix:** MRI whole spine (*why:* defines the level and nature of spinal cord injury, guiding urgent surgical decision-making; *what:* identifies the site/extent of cord compression or transection)
-**Mx:**
-- **Immediate/acute:** ABCDE; vasopressors (to counter unopposed vasodilation) and atropine (for bradycardia from unopposed vagal tone); maintain spinal precautions/immobilisation.
-- **Definitive:** urgent neurosurgical referral — decompression/stabilisation surgery as indicated by the injury.
-- **Chronic/long-term:** rehabilitation, autonomic dysreflexia monitoring/management, ongoing spinal injury multidisciplinary care.
-
-### 0.20.4 Obstructive shock
-Obstruction of blood flow → hypoperfusion of tissues distal to obstruction.
-**A:** tension pneumothorax, cardiac tamponade
-**Mx:**
-- **Immediate/acute:** ABCDE; needle decompression for tension pneumothorax, pericardiocentesis for tamponade — mechanical obstruction requires mechanical relief, not just fluids/pressors.
-- **Definitive:** chest drain insertion (pneumothorax) or definitive pericardial drainage/surgery (tamponade), treating the underlying cause (see sections 0.29 PE, 0.33 Tamponade).
-- **Chronic/long-term:** dependent on underlying cause — e.g. anticoagulation if PE-driven obstruction (massive PE causing obstructive physiology).
-
----
-
-<!-- ===== SOURCE: F0-3_Shock_Phenotypes_and_Sepsis_Syndromes.md ===== -->
-
-## 0.7 Adult Sepsis
-
-**D:** Life-threatening organ dysfunction from a dysregulated host response to infection. Definitions and the SIRS/qSOFA discussion are in [[A1]] 0.2 and are not repeated.
-
-**A/P:** Sepsis is fundamentally distributive shock with a cardiogenic component. Vasoplegia and capillary leak reduce effective circulating volume, while cytokine-mediated myocardial depression reduces contractility in a substantial proportion of patients — which is why some septic patients need an inotrope rather than more noradrenaline, and why bedside echocardiography earns its place.
-
-**S/Smx:** As per [[A1]] 0.2. **Warm peripheries with a wide pulse pressure early, cold and shut down late.** Hypothermia, a normal white cell count, and absence of fever do not exclude it and are markers of worse outcome.
-
-> [!warning] The elderly septic patient often has none of the classic features
-> New confusion, a fall, reduced oral intake, or simply "not himself" may be the entire presentation, with no fever and no localising symptom. Urinary and respiratory sources dominate. A low threshold for a septic screen in this group is the practical lesson.
-
-> [!info] The Australian standard
-> Management is structured around the **Sepsis Clinical Care Standard**, with recognition, escalation, time-bound antibiotic administration, fluid resuscitation, source identification and senior review. Most Australian health services have a sepsis pathway form. `UNVERIFIED — the antibiotic administration time target, empirical regimens by source, and initial fluid volumes require verification against the current Clinical Care Standard, eTG Antibiotic and your local pathway.`
-
-**Ix:** As per [[A1]] 0.2. The additions worth naming: serial lactate (*why:* clearance predicts outcome and guides ongoing resuscitation better than a single value; *what:* trajectory). Bedside echocardiography (*why:* identifies the sepsis-related myocardial depression that changes the vasopressor-versus-inotrope decision; *what:* reduced contractility despite vasoplegia).
-
-### 0.7.1 Mx – Immediate
-Oxygen, blood cultures, IV broad-spectrum antibiotics, IV fluid resuscitation, lactate, and urine output monitoring — delivered in parallel. Escalate early. `UNVERIFIED — all regimens, doses and volumes from eTG and local protocol; none stated here.`
-
-### 0.7.2 Mx – Definitive
-**Source control determines survival more than antibiotic choice.** Drain, remove, debride, or relieve the obstruction. Vasopressor support and ICU where hypotension persists after fluid resuscitation.
-
-### 0.7.3 Mx – Chronic/long-term
-Antibiotic de-escalation on cultures with daily duration review. Flag post-sepsis syndrome — fatigue, cognitive impairment, functional decline — in the discharge summary.
-
----
-
-## 0.8 Paediatric Sepsis
-
-**D:** Sepsis in a child, where the physiology of compensation differs enough from the adult to change both recognition and management.
-
-**A/P:** Children maintain cardiac output primarily by **increasing heart rate**, having limited capacity to increase stroke volume, and they vasoconstrict efficiently. The consequence: a septic child compensates for a long time with tachycardia and cool peripheries while maintaining a normal blood pressure, then decompensates abruptly.
-
-> [!danger] Hypotension in a child is a pre-terminal sign
-> **Do not use blood pressure to decide whether a child is shocked.** By the time it falls, the child is close to arrest. Use heart rate for age, capillary refill, peripheral versus central temperature gradient, mottling, conscious state and urine output. Age-specific normal ranges for heart rate, respiratory rate and blood pressure are essential and must be read off a chart, not recalled. `UNVERIFIED — age-specific vital sign ranges require verification against the RCH or your local paediatric observation chart.`
-
-> [!warning] Two paediatric-specific traps
-> **Cold shock is more common than warm shock in children** — the reverse of the adult pattern. A cold, mottled, tachycardic child with a normal blood pressure is in shock.
-> **The parent's assessment carries weight.** "She's not like this when she's sick" from a parent who knows the child is a formal escalation criterion in Australian paediatric systems and should not be discounted.
-
-**S/Smx:** Tachycardia for age, tachypnoea, prolonged capillary refill, mottled or cold peripheries, lethargy or irritability, reduced feeding, reduced wet nappies, and a parent who is worried. Fever may be absent, and hypothermia in a neonate is as concerning as fever.
-
-**Ix:** Bedside glucose (*why:* children have limited glycogen stores and become hypoglycaemic quickly when unwell, and it is instantly correctable; *what:* hypoglycaemia). VBG with lactate (*why:* identifies the compensated shock that the blood pressure conceals; *what:* raised lactate, base deficit). Blood cultures before antibiotics (*why:* organism identification, particularly important in neonates where the empirical cover differs; *what:* growth). FBC, UEC, CRP (*why:* baseline organ function and infective markers, with the caveat that a normal white cell count is common; *what:* neutropenia or neutrophilia, renal impairment). Urine, obtained appropriately for age (*why:* UTI is a common occult source in infants and a bag specimen is unreliable; *what:* growth on a clean catch or catheter specimen). Lumbar puncture where meningitis is possible and the child is stable enough (*why:* meningitis in an infant presents non-specifically and cannot be excluded clinically; *what:* CSF cell count, protein, glucose, culture — deferred if the child is unstable or has raised intracranial pressure). CXR (*why:* pneumonia may have no localising signs in a young child; *what:* consolidation). Accurate weight (*why:* every drug and fluid figure is weight-based; *what:* measured weight).
-
-### 0.8.1 Mx – Immediate
-High-flow oxygen, IV or intraosseous access early — do not persist with difficult cannulation in a shocked child. Weight-based fluid boluses with **reassessment after each for hepatomegaly, crackles and worsening respiratory status**, since fluid overload is a real hazard. Empirical antibiotics urgently. Correct hypoglycaemia. Senior paediatric involvement immediately. `UNVERIFIED — bolus volume in mL/kg, the number of boluses before inotropes, and all antibiotic doses are omitted; use RCH guidelines and local protocol.`
-
-### 0.8.2 Mx – Definitive
-Early inotrope or vasopressor if shock persists after initial fluid — children move to inotropes sooner than adults in most paediatric protocols. Source control. Retrieval to a paediatric intensive care service.
-
-### 0.8.3 Mx – Chronic/long-term
-Immunisation status review, investigation for immunodeficiency after severe or recurrent invasive infection, and follow-up for developmental and functional sequelae.
-
----
-
-## 0.9 Meningococcal Sepsis
-
-**D:** Invasive *Neisseria meningitidis* infection presenting as sepsis, meningitis, or both, capable of killing a previously well person within hours.
-
-**R:**
-*Unmodifiable:* Infancy and adolescence (the two peaks), asplenia, complement deficiency (particularly terminal complement — recurrent meningococcal disease should prompt this investigation), eculizumab therapy.
-*Modifiable:* Incomplete immunisation, crowded living such as boarding schools and military barracks, household contact, smoking exposure, recent viral URTI.
-
-**A/P:** Nasopharyngeal colonisation → invasion of the bloodstream → endotoxin release → massive cytokine cascade with endothelial injury → **disseminated intravascular coagulation with microvascular thrombosis** producing the non-blanching petechial and purpuric rash → profound vasoplegia and capillary leak → shock; adrenal haemorrhage (Waterhouse–Friderichsen) may compound this with adrenal crisis — cross-refer 0.6.
-
-**S/Smx:** Fever, headache, vomiting, limb pain, cold hands and feet, and abnormal skin colour — **limb pain, cold extremities and pallor frequently precede the rash by hours and are the early features that permit early treatment.** Then the non-blanching petechial or purpuric rash, meningism, photophobia, reduced conscious state, and rapidly progressive shock. In infants: poor feeding, irritability, bulging fontanelle, hypothermia, and often no neck stiffness at all.
-
-> [!danger] The rash is a late sign and may be absent
-> **Do not wait for it.** A meaningful proportion of fatal cases had no rash at presentation. The tumbler test — a rash that does not blanch under pressure from a glass — is useful when positive and worthless when negative. Purpura fulminans with rapidly spreading confluent purpura indicates fulminant disease.
-
-> [!warning] Antibiotics before transfer, and before lumbar puncture
-> Where meningococcal disease is suspected and transfer or investigation will delay treatment, **give parenteral antibiotics immediately** — in the community setting this is the recognised action. Do not delay antibiotics for a lumbar puncture. `UNVERIFIED — the pre-hospital antibiotic agent, dose and route, and all empirical regimens, require verification against eTG Antibiotic and your state health department's meningococcal guidance.`
-
-> [!info] This is a notifiable disease
-> Urgent notification to the public health unit is a legal requirement and triggers contact tracing and clearance antibiotics for household and intimate contacts. This is not optional and not deferrable to the next working day. `UNVERIFIED — contact prophylaxis agents and doses require verification with your state public health unit.`
-
-**Ix:** Blood cultures (*why:* the organism grows from blood and confirms the diagnosis, with the caveat that yield falls fast after antibiotics; *what:* Gram-negative diplococci, growth). Meningococcal PCR on blood (*why:* remains positive after antibiotics have sterilised cultures, which is often the situation given antibiotics are correctly given early; *what:* meningococcal DNA and serogroup). Coagulation profile with fibrinogen and D-dimer (*why:* DIC defines severity and guides blood product support; *what:* prolonged INR and APTT, low fibrinogen, raised D-dimer). FBC (*why:* thrombocytopenia tracks DIC severity, and either leucocytosis or leucopenia occurs; *what:* falling platelets). VBG with lactate (*why:* quantifies shock severity; *what:* raised lactate, acidosis). UEC and glucose (*why:* organ dysfunction and hypoglycaemia; *what:* renal impairment, low glucose). Lumbar puncture, **only if the child or adult is stable and there is no contraindication** (*why:* confirms meningitis and gives organism and sensitivities, but is deferred in shock, coagulopathy or raised intracranial pressure where it is dangerous and does not change immediate management; *what:* neutrophilic pleocytosis, high protein, low glucose, organisms). Skin lesion aspirate or PCR (*why:* an additional yield source when blood cultures are negative; *what:* organism).
-
-### 0.9.1 Mx – Immediate
-**Antibiotics immediately — do not delay for investigations.** Aggressive fluid resuscitation, early inotropes, high-flow oxygen, and early ICU or retrieval involvement. Consider adrenal crisis in refractory shock and give steroids. Notify public health.
-
-### 0.9.2 Mx – Definitive
-ICU management with vasopressor support, blood product support for DIC, and management of limb ischaemia from purpura fulminans, which may require surgical input.
-
-### 0.9.3 Mx – Chronic/long-term
-Contact tracing and prophylaxis. Hearing assessment after meningitis. Limb and skin sequelae including amputation and grafting. **Investigate complement deficiency after invasive meningococcal disease**, particularly if recurrent or a non-vaccine serogroup. Immunisation review — cross-refer [[15_Paeds]] and the current Australian Immunisation Handbook schedule.
-
----
-
-## 0.10 Urosepsis and Gram-Negative Septic Shock
-
-**D:** Sepsis originating from the urinary tract, the commonest source of Gram-negative septic shock in Australian hospitals.
-
-**R:**
-*Unmodifiable:* Female sex for uncomplicated UTI, male sex and older age for complicated disease, congenital urinary tract abnormalities.
-*Modifiable:* Indwelling urinary catheter and its duration, urinary tract obstruction from stone or prostate, recent instrumentation, diabetes, immunosuppression, incomplete bladder emptying, previous multi-resistant organism colonisation.
-
-**A/P:** Bacterial ascent, or haematogenous seeding → pyelonephritis → Gram-negative bacteraemia with lipopolysaccharide endotoxin release → distributive shock. **Where the tract is obstructed, the infected system is a closed abscess under pressure** — antibiotics cannot sterilise it and the patient will not improve until it is decompressed.
-
-**S/Smx:** Fever, rigors, loin pain and tenderness, dysuria and frequency, vomiting. In the elderly, **new confusion, a fall or functional decline may be the only presentation.** Hypotension, tachycardia and warm peripheries in early distributive shock.
-
-> [!danger] An obstructed infected system is a urological emergency
-> Fever plus loin pain plus a known or suspected stone, or hydronephrosis on imaging, requires **urgent decompression** — nephrostomy or retrograde stent — not just antibiotics. Delay in decompression is a recognised cause of preventable death. Involve urology immediately.
-
-> [!warning] Asymptomatic bacteriuria is not urosepsis
-> Positive urine culture is common in the catheterised and the elderly and does not by itself establish the urinary tract as the source. **Look for an alternative source before settling on the urine**, particularly where loin pain and urinary symptoms are absent. Treating asymptomatic bacteriuria drives resistance and does not help the patient. Exceptions exist — pregnancy and pre-urological-procedure. `UNVERIFIED — confirm the exceptions against eTG Antibiotic.`
-
-**Ix:** Urine microscopy, culture and sensitivities before antibiotics (*why:* directs de-escalation and identifies resistant organisms, which are increasingly common in this population; *what:* pyuria, organism, sensitivities). Blood cultures (*why:* bacteraemia is common in pyelonephritis and the isolate may be the only one obtained; *what:* Gram-negative growth). UEC (*why:* obstruction and sepsis both cause acute kidney injury, and antibiotic dosing depends on renal function; *what:* rising creatinine). Serial lactate and VBG (*why:* severity and response; *what:* elevation, clearance). FBC and CRP (*why:* baseline and trend; *what:* leucocytosis or leucopenia). **Urinary tract ultrasound or non-contrast CT** (*why:* this is the investigation that changes management — it identifies the obstruction requiring urgent decompression, and its absence permits medical management; *what:* hydronephrosis, calculus, perinephric collection, emphysematous change). Bladder scan (*why:* retention is both a cause and a consequence and is easily relieved; *what:* retained volume). Blood glucose (*why:* diabetes predisposes and emphysematous pyelonephritis occurs almost exclusively in diabetics; *what:* hyperglycaemia).
-
-### 0.10.1 Mx – Immediate
-Sepsis pathway as per 0.7 — cultures, antibiotics, fluids, lactate. Relieve retention with a catheter if present. **Urgent imaging to exclude obstruction**, and urgent urology referral if present. `UNVERIFIED — empirical regimens from eTG Antibiotic and local antibiograms; local resistance patterns matter here more than in most infections.`
-
-### 0.10.2 Mx – Definitive
-Decompression of an obstructed infected system. Antibiotic de-escalation on sensitivities with duration determined by whether the infection is complicated. Definitive stone management once sepsis has resolved, not during it.
-
-### 0.10.3 Mx – Chronic/long-term
-Catheter review and removal wherever possible, with a documented plan for those that must stay. Investigation of recurrent UTI. Diabetes optimisation. Cross-refer [[H4]] Renal Colic and [[H2]] LUTS.
-
----
-
-## 0.11 Biliary Sepsis — Ascending Cholangitis
-
-**D:** Bacterial infection of an obstructed biliary tree, producing sepsis that will not resolve without biliary drainage.
-
-**R/Causes:** Choledocholithiasis (most common), benign or malignant biliary stricture, pancreatic or cholangiocarcinoma, post-ERCP, biliary stent occlusion, parasitic infection, primary sclerosing cholangitis.
-
-**A/P:** Biliary obstruction → bile stasis and rising intraductal pressure → bacterial proliferation, usually enteric Gram-negatives and anaerobes → **once intraductal pressure exceeds a threshold, bacteria and endotoxin translocate directly into the hepatic sinusoids and the systemic circulation** → bacteraemia and septic shock. The pressure is the mechanism, which is why drainage rather than antibiotics is the definitive treatment.
-
-**S/Smx:**
-
-> [!tip] Charcot and Reynolds
-> **Charcot's triad** — right upper quadrant pain, fever with rigors, jaundice. Present in a minority; its absence does not exclude cholangitis.
-> **Reynolds' pentad** — Charcot's triad plus hypotension and altered mental state. Indicates suppurative cholangitis and is a marker of severe disease requiring emergency drainage.
-
-Rigors are a useful discriminating symptom — they suggest bacteraemia and point away from simple biliary colic or cholecystitis. Elderly patients may present with confusion and hypotension alone.
-
-> [!danger] Antibiotics alone will fail
-> Cholangitis in an obstructed duct is a closed-space infection under pressure. **Biliary drainage is the definitive treatment and its timing determines outcome.** A patient who is not improving on appropriate antibiotics needs drainage, not a change of antibiotic. `UNVERIFIED — the recommended timing of ERCP by severity grade requires verification against current guidance.`
-
-**Ix:** LFT (*why:* the obstructive pattern distinguishes cholangitis from cholecystitis and from hepatitis, and the bilirubin trend tracks the obstruction; *what:* raised ALP and GGT out of proportion to transaminases, raised conjugated bilirubin). Blood cultures (*why:* bacteraemia is present in a high proportion and often provides the only isolate; *what:* enteric Gram-negative growth). FBC, UEC, CRP, lactate (*why:* severity grading and organ dysfunction assessment determine urgency of drainage; *what:* leucocytosis, renal impairment, raised lactate). Coagulation profile (*why:* obstructive jaundice impairs vitamin K absorption and causes coagulopathy, which must be corrected before ERCP or percutaneous drainage; *what:* prolonged INR). Abdominal ultrasound as first-line imaging (*why:* readily available, identifies duct dilatation and gallstones, and is sensitive for the obstruction though less so for the stone itself; *what:* dilated common bile duct, gallstones, thickened gallbladder wall). MRCP or CT where ultrasound is non-diagnostic (*why:* defines the level and cause of obstruction before intervention; *what:* stone, stricture, mass). Amylase or lipase (*why:* gallstone pancreatitis coexists and changes management; *what:* elevation — cross-refer [[C7]]).
-
-### 0.11.1 Mx – Immediate
-Sepsis pathway — cultures, IV antibiotics with Gram-negative and anaerobic cover, fluid resuscitation, lactate. Nil by mouth. Analgesia. Correct coagulopathy with vitamin K. **Urgent gastroenterology and surgical referral for biliary drainage.** `UNVERIFIED — antibiotic regimens from eTG Antibiotic.`
-
-### 0.11.2 Mx – Definitive
-**ERCP with sphincterotomy and stone extraction or stent insertion** is the usual drainage route, with percutaneous transhepatic cholangiography as the alternative where ERCP is not possible — cross-refer [[P6]] Procedure addendum. Cholecystectomy is deferred to after resolution in most cases.
-
-### 0.11.3 Mx – Chronic/long-term
-Definitive management of the underlying obstruction. Interval cholecystectomy for gallstone disease. Surveillance and stent exchange for malignant strictures. Cross-refer [[C3]] Obstructive Jaundice.
-
----
-
-> [!note] Cross-references
-> Sepsis definitions, SIRS, qSOFA and the source-based table → [[A1]] 0.2–0.3 · Deteriorating patient recognition → [[A1]] 0.1 · Lactic acidosis and third-spacing → [[F0.2]] 0.5, 0.10 · Anaphylaxis as distributive shock → [[F0.1]] 0.9 · Resuscitation algorithms → [[F0.4]] · Acute pulmonary oedema management detail → [[F0.5]]
-
-
-<!-- ===== SOURCE: F0-4_Resuscitation_Algorithms_and_Emergency_Procedures.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Sequence, decision points and traps are reliable at intern level. **Every dose, rate, ratio, depth, energy level and timing figure in resuscitation is omitted from this file, not flagged.** There is no defensible reason to learn these from a model when ANZCOR publishes them free: Guideline 8 (CPR), Guideline 11 series (adult ALS), Guideline 12 series (paediatric), Guideline 13 series (newborn). Drug doses come from eTG and your local protocol.
->
-> Note on format: sections 0.7–0.12 are procedures rather than conditions, so **Ix** is used for pre-procedure assessment and confirmation of success rather than diagnostic workup.
-
----
-
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
->
-> `0.1 The A–E Approach`
->
-> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
-> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
-
-## 0.2 Basic Life Support
-
-**D:** The initial resuscitation sequence performed without specialist equipment, taught in Australia as **DRSABCD**.
-
-**A/P:** Chest compressions generate a fraction of normal cardiac output, and coronary perfusion pressure builds progressively over successive compressions and collapses instantly when they stop. **This single fact justifies almost every rule in BLS** — minimise interruptions, do not stop for prolonged pulse checks, resume immediately after a shock, and rotate the compressor before quality degrades.
-
-> [!tip] DRSABCD
-> **D — Danger:** to yourself, bystanders and the patient.
-> **R — Response:** talk and touch.
-> **S — Send for help:** call 000, or the in-hospital arrest number, and get a defibrillator.
-> **A — Airway:** open it; clear only visible obstruction.
-> **B — Breathing:** look for normal breathing. **Agonal gasping is not normal breathing.**
-> **C — CPR:** start compressions.
-> **D — Defibrillation:** attach an AED or defibrillator as soon as it arrives and follow its prompts.
-
-> [!danger] Agonal gasps
-> Irregular noisy gasping in the first minutes of arrest is a brainstem reflex and is the single commonest reason bystanders and clinicians fail to start CPR. **If breathing is not normal, start compressions.**
-
-> [!warning] The figures are omitted
-> `Compression rate, compression depth, compression-to-ventilation ratio, hand position, and the interval for compressor rotation are all omitted from this file. Obtain them from ANZCOR Guideline 6 and 8. These are the figures most likely to be examined and the ones least defensible to learn second-hand.`
-
-**Ix:** None. BLS is performed on clinical assessment alone, and any investigation that delays compressions is harmful.
-
-### 0.2.1 Mx – Immediate
-Start compressions. Attach the defibrillator. Continue until the patient recovers, help arrives and takes over, it becomes unsafe to continue, or resuscitation is appropriately ceased.
-
-### 0.2.2 Mx – Definitive
-Transition to ALS as equipment and personnel arrive — see 0.3.
-
-### 0.2.3 Mx – Chronic/long-term
-Team debrief. Bystander CPR follow-up and support where relevant.
-
----
-
-## 0.3 Advanced Life Support — Adult
-
-> [!warning] FLAG 2026-09-01 — duplicate pair with Cardio, and the ANZCOR correction lives in the other copy
-> `Cardio_merged §0.5 Advanced Life Support (Adult)` carries a verification box with a specific
-> correction: ***"ANZCOR timing is NOT the same as the UK/ERC protocol — adrenaline timing genuinely
-> differs by one shock"***.
-> ⚠️ **That box is the first thing lost if these two are reconciled. Whichever copy survives keeps it.**
-> Pair marked, not merged.
-
-**D:** Resuscitation with monitoring, defibrillation, advanced airway management and drug therapy, following the ANZCOR adult ALS algorithm.
-
-> [!info] ALS, ACLS and ILS — the terminology
-> **ALS** (Advanced Life Support) is the term used by ANZCOR and in Australian practice.
-> **ACLS** (Advanced Cardiac Life Support) is the American Heart Association term. The two describe the same activity and the algorithms differ in detail. **Use ANZCOR in an Australian exam** — quoting an AHA figure is a recognised way to get a question wrong.
-> **ILS** (Immediate Life Support) is an intermediate course level for ward staff — recognition of the deteriorating patient, BLS, defibrillation and the first minutes of an arrest before the team arrives. This is realistically the level most interns are certified at and expected to deliver.
-
-**A/P:** The algorithm branches on one question — **is the rhythm shockable?** VF and pulseless VT are shockable and the priority is early defibrillation. Asystole and PEA are not, and the entire therapeutic value lies in finding and reversing the cause.
-
-> [!tip] The two branches
-> **Shockable (VF / pulseless VT):** defibrillate, resume compressions immediately without waiting to assess the rhythm, continue in cycles, with adrenaline and an antiarrhythmic introduced at defined points.
-> **Non-shockable (asystole / PEA):** compressions and adrenaline, with the whole effort directed at the reversible causes. Confirm asystole is genuine — check leads, gain and connections, because fine VF and a disconnected lead look similar.
-
-Reversible causes — the **4 Hs and 4 Ts** — are set out in [[A1]] 0.4 and are not repeated here.
-
-> [!danger] Omitted figures
-> `Defibrillation energy levels, adrenaline dose and interval, amiodarone or lignocaine dosing, the duration of each CPR cycle, and the rhythm-check interval are all omitted. Obtain from ANZCOR Guideline 11.2, 11.4, 11.5 and 11.6.`
-
-> [!warning] PEA is the commonest in-hospital rhythm
-> It is also the one where defibrillation has nothing to offer and where the search for a cause is the treatment. Bedside echocardiography during the rhythm-check pause distinguishes true PEA from pseudo-PEA — a heart that is contracting without a palpable pulse, which carries a very different prognosis and points toward profound hypovolaemia or obstruction.
-
-**Ix:** Rhythm at the defibrillator (*why:* determines the entire algorithm branch; *what:* shockable versus non-shockable). Bedside glucose, VBG with potassium, and bedside echo — as set out in [[A1]] 0.4. Waveform capnography once an advanced airway is placed (*why:* confirms tube position, provides real-time feedback on compression quality, and a sudden sustained rise is often the first sign of return of spontaneous circulation; *what:* trace present, values rising).
-
-### 0.3.1 Mx – Immediate
-Follow the ANZCOR algorithm for the identified rhythm. Assign roles explicitly — compressor, airway, drugs, defibrillator, timekeeper, scribe, team leader — because unassigned tasks in an arrest are tasks that do not happen. Rotate the compressor. Treat reversible causes in parallel.
-
-### 0.3.2 Mx – Definitive
-Post-ROSC care: controlled oxygenation and ventilation avoiding both hyperoxia and hypocapnia, 12-lead ECG with early consideration of angiography, haemodynamic support, targeted temperature management, ICU. `UNVERIFIED — saturation, CO₂ and temperature targets from ANZCOR post-resuscitation guidance.`
-
-### 0.3.3 Mx – Chronic/long-term
-Neurological prognostication is deferred and is not an intern decision. Family communication, team debrief, ICD assessment in arrhythmic arrest survivors.
-
----
-
-## 0.4 Paediatric Resuscitation
-
-**D:** Resuscitation of an infant or child, following the ANZCOR paediatric algorithms.
-
-**A/P:** The critical difference from adults: **paediatric arrest is usually asphyxial rather than arrhythmic.** It is the end point of respiratory failure or shock, not a sudden primary rhythm event. The consequences: airway and ventilation carry more weight than in the adult algorithm, the commonest rhythms are asystole and PEA rather than VF, and outcomes are better when the preceding deterioration is caught — which is where the real clinical opportunity sits.
-
-> [!danger] The child who arrests was deteriorating for hours
-> Recognition of the seriously unwell child, not the arrest algorithm, is where paediatric lives are saved. Cross-refer [[M1]] The Seriously Unwell Child and [[F0.3]] 0.8 Paediatric Sepsis.
-
-> [!warning] Weight-based everything
-> Every drug dose, fluid volume and defibrillation energy is weight-based. Use a **length-based resuscitation tape** or the child's measured weight — age-based formulae are estimates and differ between sources. `UNVERIFIED — compression-to-ventilation ratios (which differ for one versus two rescuers), compression depth as a proportion of chest diameter, defibrillation energy in J/kg, and adrenaline dosing are all omitted. Obtain from ANZCOR Guideline 12 series and the RCH resuscitation guideline.`
-
-> [!tip] Access
-> **Move to intraosseous access early.** Persisting with difficult peripheral cannulation in a shocked or arrested child is a recognised cause of delay. IO is fast, reliable, and takes everything IV access takes.
-
-**Ix:** Bedside glucose (*why:* children have small glycogen stores, become hypoglycaemic rapidly when unwell, and it is instantly correctable; *what:* hypoglycaemia). VBG with potassium and lactate (*why:* reversible causes and severity; *what:* acidosis, electrolyte derangement). Measured or tape-estimated weight (*why:* every subsequent number depends on it; *what:* weight in kilograms). Rhythm at the defibrillator (*why:* branches the algorithm, though shockable rhythms are less common; *what:* shockable versus not). Directed investigation for the underlying cause, which in children is usually respiratory, septic or hypovolaemic.
-
-### 0.4.1 Mx – Immediate
-Effective ventilation and oxygenation are the priority. Compressions per the age-appropriate technique and ratio. IO access early. Weight-based drugs and fluids. Senior paediatric help and retrieval activated immediately.
-
-### 0.4.2 Mx – Definitive
-Reversible causes, then transfer to a paediatric intensive care service. Australian paediatric retrieval services should be contacted early rather than after stabilisation fails.
-
-### 0.4.3 Mx – Chronic/long-term
-Family support and debrief. Investigation of the underlying cause. Mandatory reporting and safeguarding consideration where the presentation is unexplained — cross-refer [[P3]] Safeguarding.
-
----
-
-## 0.5 Neonatal Resuscitation
-
-**D:** Support of the newborn's transition to extrauterine life at birth, following the ANZCOR newborn algorithm.
-
-**A/P:** In utero the lungs are fluid-filled and pulmonary vascular resistance is high, with the circulation shunting right to left. At birth: **lung aeration is the trigger for the entire transition** → fluid clears, pulmonary vascular resistance falls, pulmonary blood flow rises, the ductus arteriosus and foramen ovale close functionally. A newborn who is not transitioning is almost always failing to aerate the lungs. **This is why effective ventilation, not compressions, is the intervention that resuscitates a newborn** — the reverse of adult priorities.
-
-> [!tip] The initial assessment
-> **Term? Tone? Breathing or crying?** If all three are satisfactory, the baby stays with the mother with routine care — warmth, drying, skin-to-skin, and delayed cord clamping. If not, move to the algorithm: warm and dry, stimulate, position the airway, and assess breathing and heart rate.
-
-> [!danger] Heart rate is the primary marker of adequate resuscitation
-> A rising heart rate is the earliest and most reliable sign that ventilation is effective. If the heart rate is not rising, **the problem is almost always the ventilation, not the need for drugs or compressions** — reassess mask seal, head position, airway obstruction and inflation pressure before escalating. `UNVERIFIED — heart rate thresholds, inflation pressures, compression-to-ventilation ratio for newborns (which differs from all other age groups), and adrenaline dosing are omitted. Obtain from ANZCOR Guideline 13 series.`
-
-> [!warning] Air versus oxygen, and temperature
-> Resuscitation of the **term** newborn commences in air rather than 100% oxygen, with oxygen titrated against saturation targets that rise over the first minutes of life — a normal newborn is not expected to be pink immediately. Preterm infants are handled differently. **Hypothermia is an independent predictor of mortality in the preterm infant**; use a plastic wrap and radiant warmer. `UNVERIFIED — starting oxygen concentration by gestation and the minute-by-minute saturation targets require verification against ANZCOR Guideline 13.4.`
-
-**Ix:** Continuous heart rate assessment, ideally by ECG (*why:* auscultation and palpation underestimate heart rate in the newborn, and heart rate is the parameter every decision hangs on; *what:* rate and trend). Pulse oximetry on the **right hand or wrist** (*why:* pre-ductal saturation reflects what is reaching the brain, and post-ductal readings mislead during transition; *what:* saturation against the minute-specific target). Temperature (*why:* hypothermia worsens outcome and is preventable; *what:* axillary temperature). Blood glucose in at-risk infants (*why:* neonatal hypoglycaemia is common in the growth-restricted, preterm and infant of a diabetic mother, and causes neurological injury; *what:* low glucose). Cord blood gas where the resuscitation was prolonged (*why:* documents the degree of intrapartum acidosis and informs prognosis and cooling decisions; *what:* pH and base deficit).
-
-### 0.5.1 Mx – Immediate
-Warm, dry, stimulate, position. Effective positive pressure ventilation if not breathing or heart rate is low — this is the core intervention. Escalate to compressions and drugs only if the heart rate remains low **despite demonstrably effective ventilation.**
-
-### 0.5.2 Mx – Definitive
-Neonatal team involvement and admission to a neonatal unit. Consideration of therapeutic hypothermia for hypoxic-ischaemic encephalopathy in eligible infants — a time-critical decision requiring early neonatal consultation. `UNVERIFIED — eligibility criteria and time window require verification.`
-
-### 0.5.3 Mx – Chronic/long-term
-Neurodevelopmental follow-up. Parental support and debrief. Documentation of the resuscitation for the obstetric and neonatal record.
-
----
-
-## 0.6 Intubation and Rapid Sequence Induction
-
-**D:** Placement of a cuffed endotracheal tube to secure and protect the airway, in the emergency setting usually by rapid sequence induction.
-
-> [!tip] The four indications
-> **Failure to maintain the airway** — obstruction, no protective reflexes.
-> **Failure to protect the airway** — reduced conscious state with aspiration risk.
-> **Failure of oxygenation or ventilation** — refractory hypoxia, rising CO₂.
-> **Anticipated clinical course** — the patient who will obstruct or deteriorate during transfer, imaging or a procedure. Burns with airway involvement and expanding neck haematoma belong here, and intubating them early is far easier than intubating them late.
-
-**A/P:** Rapid sequence induction gives a sedative and a neuromuscular blocking agent in quick succession to produce optimal intubating conditions while minimising the apnoeic interval and the risk of aspiration in a patient assumed to have a full stomach.
-
-> [!danger] The physiologically difficult airway
-> The patient who is hypotensive, hypoxic or acidotic will arrest on induction more readily than one with a difficult anatomy. **Resuscitate before you intubate** — optimise blood pressure, pre-oxygenate properly, and have vasopressor drawn up and ready. Induction agents drop sympathetic drive; a patient maintaining their circulation on catecholamine tone can lose it entirely.
-
-> [!tip] Preparation and prediction
-> **SOAP-ME** — Suction, Oxygen, Airway equipment (two laryngoscopes, tubes of varying size, bougie, supraglottic airway, surgical airway kit), Pharmacy, Monitoring, End-tidal CO₂.
-> **LEMON** for predicting difficulty — Look externally, Evaluate 3-3-2, Mallampati, Obstruction, Neck mobility. Predicting difficulty changes the plan, the operator and the location — not whether it is attempted.
-> Have a **verbalised failed-airway plan** before the first attempt, and state who will do what.
-
-> [!warning] Waveform capnography is mandatory for confirmation
-> Auscultation, misting in the tube and chest rise all mislead. **A sustained capnograph trace is the confirmation**; an oesophageal intubation that is not recognised is a catastrophic and preventable event.
-
-> [!info] Deterioration after intubation — DOPES
-> **D**isplacement of the tube · **O**bstruction of the tube · **P**neumothorax · **E**quipment failure · **S**tacking of breaths (auto-PEEP). Work through these before assuming the patient's disease has worsened. In an asthmatic, breath stacking is the likeliest and the answer is to **disconnect the circuit and let them exhale** — see 0.7.
-
-**Ix:** Pre-procedure airway assessment (*why:* determines equipment, operator and location, and a difficult airway identified in advance is a manageable one; *what:* LEMON findings). Pre-oxygenation with saturation monitoring (*why:* determines the safe apnoeic time available; *what:* saturation approaching maximum before induction). Blood pressure and, where available, bedside echo (*why:* identifies the physiologically difficult airway requiring resuscitation first; *what:* hypotension, poor contractility). **Waveform capnography** (*why:* the only reliable confirmation of tracheal placement; *what:* sustained trace). Post-intubation CXR (*why:* confirms depth and excludes endobronchial intubation and pneumothorax, though it does not confirm the tube is not oesophageal; *what:* tip position above the carina).
-
-### 0.6.1 Mx – Immediate
-Prepare per SOAP-ME. Assign roles. Pre-oxygenate. Optimise haemodynamics. Induct and paralyse. Confirm with capnography. Secure the tube and document depth. `UNVERIFIED — all induction agent and paralytic doses, and the choice of agent by clinical scenario, are omitted; obtain from local protocol and eTG.`
-
-### 0.6.2 Mx – Definitive
-Post-intubation sedation and analgesia — a paralysed patient who is inadequately sedated is awake and aware, and this is a recognised and serious harm. Mechanical ventilation per 0.7. ICU transfer.
-
-### 0.6.3 Mx – Chronic/long-term
-Document any difficulty encountered on the record and in the discharge summary, so the next team is not surprised.
-
----
-
-> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.7 Mechanical Ventilation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.8 Procedural Sedation` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## 0.9 Adult Analgesia
-
-**D:** Assessment and treatment of pain, using a multimodal approach titrated to severity and reassessed.
-
-**A/P:** Different analgesic classes act at different points — peripheral nociceptor sensitisation (NSAIDs, paracetamol), spinal transmission (opioids, ketamine), and peripheral nerve conduction (local anaesthetics). **Combining classes gives better analgesia at lower doses of each**, which is the entire rationale for multimodal analgesia and the reason a regional block plus paracetamol may outperform escalating opioid alone.
-
-> [!tip] The principles
-> **Assess and document** severity with a validated scale, and reassess after intervention — an unreassessed analgesic prescription is not analgesia.
-> **Multimodal** — paracetamol and, where not contraindicated, an NSAID as the base, with opioid added for severe pain rather than used alone.
-> **Route by urgency** — IV titration for severe acute pain, oral for moderate.
-> **Regional techniques** where applicable — see 0.10.
-> **Treat the cause**, and do not let analgesia delay diagnosis. The old teaching that opioids mask an acute abdomen has not held up; appropriate analgesia does not obscure the diagnosis.
-
-> [!warning] NSAID contraindications get overlooked
-> Renal impairment, heart failure, active or previous peptic ulcer disease, anticoagulation, asthma with known NSAID sensitivity, third-trimester pregnancy, and the elderly generally. NSAIDs are a common cause of avoidable acute kidney injury in hospital.
-
-> [!danger] Opioid prescribing safety
-> Monitor **sedation score and respiratory rate**, not saturation — cross-refer [[F0.1]] 0.5. Be cautious with combined opioid and benzodiazepine prescribing. Consider the risk of ongoing use: an opioid started in hospital and continued on discharge without a stop date is a recognised route into long-term use. Australian real-time prescription monitoring systems — **ScriptCheckSA** in South Australia — should be checked when prescribing monitored drugs. `UNVERIFIED — confirm current ScriptCheckSA obligations and which drugs are monitored, as the requirements have changed since introduction.`
-
-**Ix:** Pain assessment with a validated scale (*why:* untreated pain is under-recognised, particularly in the cognitively impaired, and a documented score forces reassessment; *what:* score before and after intervention). UEC (*why:* renal function determines NSAID safety and opioid dose adjustment; *what:* eGFR). Directed investigation of the cause of pain (*why:* analgesia is not a substitute for diagnosis; *what:* cause-specific). Medication history including community dispensing (*why:* identifies existing opioid tolerance, which changes effective dosing entirely, and interacting agents; *what:* current opioid load).
-
-### 0.9.1 Mx – Immediate
-Titrated IV analgesia for severe acute pain with reassessment. Multimodal base. Non-pharmacological measures — splinting, positioning, ice, reassurance — which are cheap and consistently underused. `UNVERIFIED — all doses from eTG Analgesic and local protocol.`
-
-### 0.9.2 Mx – Definitive
-Treat the underlying cause. Regional block where indicated. Acute pain service involvement for complex cases.
-
-### 0.9.3 Mx – Chronic/long-term
-Explicit deprescribing plan and stop date for any opioid on discharge, communicated to the GP. Cross-refer [[P1]] and [[18_Geriatrics_and_Older_Persons_Health]] Polypharmacy and Deprescribing.
-
----
-
-## 0.10 Paediatric Analgesia
-
-**D:** Pain management in children, where under-treatment is the dominant problem and the assessment tools, routes and agents all differ from adult practice.
-
-> [!danger] Children are systematically under-analgesed
-> Preverbal children, children with developmental disability, and infants are the most under-treated. **Absence of complaint is not absence of pain.** Use an age-appropriate validated tool — FLACC for the preverbal, faces scales for younger children, numerical for older.
-
-> [!tip] Route matters more in children
-> **Intranasal fentanyl** is widely used in Australian emergency departments for acute severe pain — it is fast, needs no cannula, and avoids the distress of IV access in a child already in pain. **Sucrose** is effective analgesia for minor procedures in neonates and young infants. **Topical local anaesthetic** before cannulation is standard, not optional. Non-pharmacological measures — parental presence, distraction, breastfeeding in infants, play therapy — have real measurable effect and should be used alongside drugs rather than instead of them.
-
-> [!danger] Codeine is contraindicated in children
-> Codeine is a prodrug requiring CYP2D6 conversion to morphine, and ultra-rapid metabolisers — a substantial minority — convert far more than expected, causing fatal respiratory depression. **Codeine is contraindicated in children under 12, and after tonsillectomy or adenoidectomy at any age**, and is not recommended in breastfeeding mothers. `UNVERIFIED — confirm the exact age cut-offs and current TGA restrictions against the Australian Medicines Handbook, as these have been revised.`
-
-> [!warning] Weight-based dosing
-> Every paediatric analgesic dose is weight-based with a maximum. Aspirin is avoided in children because of Reye syndrome, with defined exceptions such as Kawasaki disease. `UNVERIFIED — all doses, maxima and dosing intervals are omitted; obtain from the RCH clinical practice guidelines and the Australian Medicines Handbook Children's Dosing Companion.`
-
-**Ix:** Age-appropriate pain assessment (*why:* the tool must match developmental stage or it measures nothing; *what:* FLACC, faces or numerical score before and after). Measured weight (*why:* every dose depends on it and estimates propagate error; *what:* weight in kilograms). Directed investigation of the cause (*why:* pain in a child, particularly limb pain or refusal to weight-bear, has a differential that includes serious pathology; *what:* cause-specific — cross-refer [[M5]] Limp in Child).
-
-### 0.10.1 Mx – Immediate
-Assess with the right tool. Non-pharmacological measures immediately. Intranasal or oral analgesia for rapid effect, escalating as needed. Involve the parent.
-
-### 0.10.2 Mx – Definitive
-Treat the cause. Regional techniques where applicable.
-
-### 0.10.3 Mx – Chronic/long-term
-Clear written analgesia advice for parents with weight-based doses, maximum daily amounts and duration, since dosing errors at home are common.
-
----
-
-> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.11 Fascia Iliaca Block` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: F0-5_Acute_Respiratory__Headache_and_Head_Injury.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Mechanism, severity assessment and discriminators are reliable at intern level. **Every dose, threshold, reference range, saturation target and timing figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Sources to verify against: eTG Respiratory and Antibiotic, TSANZ oxygen guidance, the Australian Asthma Handbook, PREDICT head injury guidance, and your local protocols.
-
----
-
-## 0.1 Acute Asthma
-
-**D:** Acute worsening of airflow obstruction with bronchospasm, mucosal oedema and mucus plugging, on a background of chronic airway inflammation.
-
-**R:**
-*Unmodifiable:* Previous life-threatening attack or ICU admission, atopy, prior intubation for asthma.
-*Modifiable:* Poor inhaler technique, over-reliance on reliever and under-use of preventer, no written action plan, ongoing allergen or smoke exposure, viral infection, NSAID or beta-blocker exposure, poor adherence, psychosocial factors and limited access to care.
-
-**A/P:** Trigger → mast cell degranulation and airway inflammation → bronchial smooth muscle constriction, mucosal oedema and mucus plugging → reduced expiratory airflow with air trapping → increased work of breathing and V/Q mismatch → hypoxia. Initially the patient hyperventilates → **hypocapnia with respiratory alkalosis**. As fatigue sets in, minute ventilation falls → CO₂ rises toward normal, then above it.
-
-> [!danger] A normalising CO₂ in an acute asthmatic is a pre-arrest finding
-> It does not mean the patient is improving. It means they can no longer sustain the hyperventilation that was compensating. Combined with a **silent chest** — no wheeze because there is insufficient airflow to generate one — exhaustion, drowsiness and a rising CO₂ define life-threatening asthma requiring immediate senior and ICU involvement.
-
-> [!tip] Severity assessment
-> Graded on ability to speak (sentences, phrases, words, or not at all), work of breathing and accessory muscle use, oxygen saturation, conscious state, and the presence or absence of wheeze. **Peak flow is useful in the moderate patient and inappropriate in the severe one** — do not delay treatment to obtain it, and do not attempt it in a patient who cannot speak. `UNVERIFIED — the specific saturation and peak flow thresholds defining each severity band require verification against the Australian Asthma Handbook.`
-
-> [!warning] What not to do
-> **A CXR is not routine** in acute asthma — it delays treatment and rarely changes management. Obtain it for suspected pneumothorax, focal signs, failure to respond, or an atypical presentation.
-> **Do not give a beta-blocker.** Check the medication list.
-> Sedation is contraindicated outside a controlled intubation.
-
-**S/Smx:** Dyspnoea, wheeze, cough, chest tightness, accessory muscle use, tachypnoea, tachycardia, inability to complete sentences, and in severe cases silent chest, cyanosis, exhaustion, confusion and bradycardia as a terminal sign.
-
-**Ix:** Oxygen saturation (*why:* rapid severity marker guiding oxygen therapy, though it is preserved until late and its normality is not reassurance; *what:* hypoxia). ABG or VBG, reserved for the severe or deteriorating patient (*why:* identifies the rising CO₂ that signals exhaustion, which no other test detects; *what:* normalising or raised pCO₂ — a genuinely ominous finding). Peak expiratory flow where the patient can perform it (*why:* objectively grades severity and tracks response to treatment; *what:* value against personal best or predicted). CXR only if indicated as above (*why:* pneumothorax and pneumomediastinum complicate severe asthma and consolidation may be the trigger; *what:* pneumothorax, consolidation). UEC (*why:* repeated beta-agonist dosing causes hypokalaemia and lactic acidosis; *what:* low potassium, raised lactate). ECG in older patients (*why:* excludes cardiac cause of breathlessness and identifies beta-agonist-related tachyarrhythmia; *what:* ischaemia, arrhythmia).
-
-### 0.1.1 Mx – Immediate
-Oxygen titrated to target. **Inhaled short-acting beta-agonist, with a spacer being at least as effective as a nebuliser in most patients** and avoiding aerosol generation. Add ipratropium in moderate to severe. **Systemic corticosteroid early** — the benefit is time-dependent and delaying it is a common error. Escalate to intravenous magnesium and consider aminophylline in severe or refractory cases. Call for senior help early in life-threatening asthma. `UNVERIFIED — all doses, nebuliser versus spacer regimens, magnesium dosing and oxygen targets are omitted; obtain from the Australian Asthma Handbook and eTG.`
-
-### 0.1.2 Mx – Definitive
-Continued bronchodilation and steroids with reassessment. Intubation is a last resort and is high-risk — cross-refer [[F0.4]] 0.7 for auto-PEEP and breath stacking, which is the mechanism that arrests intubated asthmatics.
-
-### 0.1.3 Mx – Chronic/long-term
-**Every acute presentation is a preventer failure until proven otherwise.** Check inhaler technique in person, review preventer adherence, issue or update a written asthma action plan, arrange GP follow-up within days, and address trigger exposure and smoking. Cross-refer [[15_04b_Paeds_-_Asthma_in_Children]] for children.
-
----
-
-## 0.2 Acute Exacerbation of COPD
-
-**D:** Acute worsening of respiratory symptoms in established COPD beyond normal day-to-day variation, requiring a change in therapy.
-
-**R/Causes:** Viral and bacterial respiratory infection (the majority), air pollution and smoke, non-adherence, and the mimics that must be excluded — pneumonia, pulmonary embolism, pneumothorax, heart failure, arrhythmia.
-
-**A/P:** Increased airway inflammation and secretions → worsened airflow limitation and gas trapping → increased work of breathing on already limited reserve → **hypercapnic respiratory failure** in those with severe disease. Chronic CO₂ retention is metabolically compensated by renal bicarbonate retention, so the chronic retainer has a raised bicarbonate with a near-normal pH; an **acute** rise in CO₂ outstrips this and the pH falls.
-
-> [!danger] Controlled oxygen therapy — and why the usual explanation is wrong
-> Excess oxygen worsens hypercapnia in COPD, but the mechanism is mostly **not** "loss of hypoxic drive". The dominant mechanisms are **release of hypoxic pulmonary vasoconstriction worsening V/Q mismatch**, and the **Haldane effect**, where oxygenated haemoglobin releases CO₂. Reduced respiratory drive contributes only modestly.
-> Practically: titrate oxygen to a **target range**, do not withhold it from a hypoxic patient, and recheck a gas after any change. `UNVERIFIED — the target saturation range in COPD and the delivery devices used to achieve it require verification against TSANZ oxygen guidance; no range is stated here.`
-
-> [!tip] When to add antibiotics
-> Increased dyspnoea, increased sputum **volume**, and increased sputum **purulence** — the Anthonisen criteria. Purulence is the most useful of the three. Not every exacerbation is bacterial and not every exacerbation needs an antibiotic. `UNVERIFIED — the number of criteria required and the recommended agents come from eTG Antibiotic.`
-
-> [!warning] NIV in hypercapnic acidosis
-> BiPAP has a strong evidence base in acute hypercapnic exacerbations with respiratory acidosis, reducing intubation and mortality. Start it early rather than as a last measure, and set explicit review criteria — cross-refer [[F0.4]] 0.7. Document a **ceiling of care and resuscitation status** early, because a patient with severe COPD deteriorating on NIV forces that conversation and it is better held before the crisis.
-
-**S/Smx:** Increased dyspnoea, cough, sputum change, wheeze, accessory muscle use, pursed-lip breathing, tachypnoea. In hypercapnia: drowsiness, confusion, headache, flap, bounding pulse. Peripheral oedema suggests cor pulmonale.
-
-**Ix:** ABG (*why:* the essential test — separates hypoxic from hypercapnic failure and distinguishes acute from chronic retention using the bicarbonate, which determines whether NIV is needed; *what:* pH, pCO₂, bicarbonate). CXR (*why:* excludes the pneumonia, pneumothorax and pulmonary oedema that mimic and complicate exacerbation, and unlike asthma it is routinely indicated here; *what:* consolidation, pneumothorax, hyperinflation, oedema). ECG (*why:* arrhythmia and ischaemia both precipitate and complicate; *what:* atrial fibrillation, right heart strain, ischaemia). FBC, UEC, CRP (*why:* baseline, infection marker and electrolyte derangement from beta-agonists and steroids; *what:* leucocytosis, low potassium). Sputum culture in treatment failure or known resistant organisms (*why:* directs therapy where empirical treatment fails; *what:* organism). D-dimer or CTPA where PE is plausible (*why:* PE is a well-recognised and frequently missed cause of apparent COPD exacerbation; *what:* filling defect). BNP where heart failure is a differential (*why:* the two coexist and present identically; *what:* elevation — cross-refer [[F0.3]] 0.3).
-
-### 0.2.1 Mx – Immediate
-Controlled oxygen to target with a repeat gas after any change. Inhaled bronchodilators. Systemic corticosteroid. Antibiotics where the criteria are met. **NIV early for hypercapnic acidosis.** Treat the precipitant.
-
-### 0.2.2 Mx – Definitive
-Continued treatment with weaning of NIV and oxygen. Intubation where NIV fails and it is consistent with the patient's goals of care.
-
-### 0.2.3 Mx – Chronic/long-term
-Smoking cessation — the only intervention that alters the natural history. Pulmonary rehabilitation, vaccination, inhaler technique review, written action plan, assessment for long-term oxygen therapy, and an advance care planning conversation. Cross-refer [[02_Respiratory]] and [[19_General_Practice_and_Preventive_Medicine]] Smoking Cessation.
-
----
-
-## 0.3 Acute Pulmonary Oedema
-
-**D:** Accumulation of fluid in the alveoli and interstitium, cardiogenic when driven by raised pulmonary capillary hydrostatic pressure and non-cardiogenic when driven by increased permeability.
-
-**A/P:** *Cardiogenic:* Left ventricular failure or valvular disease → raised left atrial and pulmonary venous pressure → hydrostatic pressure exceeds oncotic → transudation into interstitium then alveoli. *Non-cardiogenic:* Endothelial and epithelial injury → increased permeability → protein-rich exudate floods alveoli at a normal filling pressure — this is ARDS, covered in 0.4.
-
-> [!tip] Sympathetic crashing acute pulmonary oedema (SCAPE)
-> The hypertensive, distressed, acutely flash-pulmonary-oedema patient is a distinct and common presentation. It is driven by **afterload and redistribution rather than volume overload** — these patients are frequently euvolaemic or even dry. The treatment is **aggressive nitrate-mediated afterload reduction plus NIV**, not large-dose diuresis. Recognising it changes the first fifteen minutes substantially.
-
-> [!warning] Diuretics are not the first move
-> Sit the patient up, give oxygen, start NIV, and give nitrates. Diuretics have a role in the genuinely fluid-overloaded patient but reaching for frusemide first and nitrates late is the commonest management error in this presentation. `UNVERIFIED — GTN dosing and titration, and frusemide dosing, are omitted; obtain from eTG Cardiovascular and local protocol.`
-
-Cardiogenic shock — the **hypotensive**, hypoperfused subset — is a different entity with different management and is covered in [[F0.3]] 0.3. The distinction is the blood pressure.
-
-**S/Smx:** Acute severe dyspnoea, orthopnoea, paroxysmal nocturnal dyspnoea, distress, sweating, widespread inspiratory crackles, wheeze, pink frothy sputum in florid cases, raised JVP, third heart sound.
-
-**Ix:** ECG (*why:* identifies the STEMI or arrhythmia that precipitated it and converts this into a reperfusion emergency; *what:* ST elevation, arrhythmia). CXR (*why:* confirms and excludes mimics, though radiographic changes lag clinical ones; *what:* upper lobe diversion, Kerley B lines, perihilar bat-wing shadowing, effusions). Troponin (*why:* identifies ischaemic precipitant, interpreted alongside the fact that it rises in strain alone; *what:* elevation with trend). Bedside echocardiography (*why:* distinguishes systolic from diastolic failure and identifies acute valvular catastrophe such as papillary muscle rupture, which is surgical; *what:* contractility, valve lesions, regional wall motion). VBG with lactate (*why:* separates the congested-but-perfused patient from the shocked one, which is the treatment-defining question; *what:* raised lactate). UEC (*why:* renal function governs diuretic and ACE inhibitor decisions; *what:* creatinine, potassium). BNP or NT-proBNP where diagnosis is uncertain (*why:* a normal level makes heart failure unlikely in the undifferentiated breathless patient; *what:* elevation — `UNVERIFIED — cut-offs`).
-
-### 0.3.1 Mx – Immediate
-Sit upright. High-flow oxygen. **CPAP or BiPAP early.** Nitrates for the hypertensive patient. IV access, monitoring, catheter. Treat arrhythmia and arrange urgent reperfusion for STEMI.
-
-### 0.3.2 Mx – Definitive
-Treat the precipitant. Cardiology involvement. Diuresis where genuinely overloaded, with daily weights and fluid balance.
-
-### 0.3.3 Mx – Chronic/long-term
-Guideline-directed heart failure therapy, cardiac rehabilitation, fluid and salt advice, daily weights with an action plan, device assessment, and advance care planning.
-
----
-
-## 0.4 Severe Community-Acquired Pneumonia and ARDS
-
-**D:** Pneumonia requiring intensive support, and acute respiratory distress syndrome — acute diffuse inflammatory lung injury with bilateral infiltrates and hypoxaemia not explained by cardiac failure or fluid overload.
-
-**A/P:** Pathogen invades the alveolus → neutrophilic inflammatory response → alveolar exudate impairs gas exchange and V/Q matching. In ARDS the response becomes dysregulated and generalised → **diffuse alveolar damage with capillary leak of protein-rich fluid at normal filling pressures** → loss of surfactant, alveolar collapse, stiff non-compliant lungs and refractory hypoxaemia. Because aerated lung volume is markedly reduced — the "baby lung" — normal tidal volumes overdistend what remains, which is the entire rationale for low tidal volume ventilation.
-
-> [!tip] Severity scoring in Australia
-> **SMART-COP** was developed in Australia specifically to predict the need for intensive respiratory or vasopressor support, and is widely used here. **CURB-65** predicts mortality and guides admission. **CORB** is the simpler Australian alternative. These answer different questions — one predicts ICU need, the other predicts death — and it is worth knowing which is which. `UNVERIFIED — the components, weightings and score thresholds for SMART-COP, CORB and CURB-65 all require verification against eTG Antibiotic.`
-
-> [!warning] Atypical and Australian-specific pathogens
-> Consider *Legionella* (particularly with hyponatraemia, diarrhoea and confusion), *Mycoplasma*, and in northern Australia and the tropics **melioidosis** (*Burkholderia pseudomallei*), which is a genuine and frequently missed cause of severe CAP with a distinct antibiotic requirement. Travel, occupational and exposure history matters. Influenza and COVID-19 remain relevant. `UNVERIFIED — regionally specific empirical regimens from eTG Antibiotic.`
-
-> [!info] ARDS definition and management principles
-> Defined by timing after an insult, bilateral opacities, absence of a purely cardiac explanation, and severity graded by oxygenation. `UNVERIFIED — the Berlin definition timing window and PaO₂/FiO₂ severity thresholds require verification.` Management is supportive: **lung-protective low tidal volume ventilation**, appropriate PEEP, conservative fluid strategy, prone positioning for severe hypoxaemia, and treatment of the underlying cause. Cross-refer [[F0.4]] 0.7.
-
-**S/Smx:** Fever, cough, purulent sputum, pleuritic chest pain, dyspnoea, tachypnoea, hypoxia, focal crackles and bronchial breathing. In severe disease, confusion, hypotension and multi-organ dysfunction. ARDS presents as refractory hypoxia with diffuse infiltrates and rapidly rising oxygen requirement.
-
-**Ix:** CXR (*why:* confirms consolidation and identifies the bilateral infiltrates defining ARDS, effusion and abscess; *what:* consolidation, bilateral opacities, effusion). ABG with PaO₂/FiO₂ ratio (*why:* grades ARDS severity and identifies ventilatory failure; *what:* refractory hypoxia, the ratio). Blood cultures before antibiotics (*why:* bacteraemic pneumonia carries worse prognosis and the isolate directs therapy; *what:* organism). Sputum culture and respiratory viral and atypical PCR (*why:* identifies influenza, COVID-19, *Legionella*, *Mycoplasma* and melioidosis, several of which need specific agents; *what:* pathogen). Urinary antigen for *Legionella* and pneumococcus (*why:* rapid, remains positive after antibiotics, and *Legionella* has public health implications requiring notification; *what:* antigen). FBC, UEC, LFT, CRP, lactate (*why:* populate the severity scores and identify organ dysfunction; *what:* urea for CURB-65, sodium for *Legionella*, lactate). Bedside echocardiography (*why:* excludes the cardiac cause that would make bilateral infiltrates pulmonary oedema rather than ARDS; *what:* preserved LV function and filling). CT chest where complications are suspected (*why:* empyema, abscess and cavitation change management to include drainage; *what:* loculated collection, cavity).
-
-### 0.4.1 Mx – Immediate
-Oxygen, sepsis pathway with cultures and time-critical antibiotics, fluid resuscitation with reassessment, and early ICU involvement in severe disease. Cross-refer [[F0.3]] 0.7.
-
-### 0.4.2 Mx – Definitive
-Targeted antibiotics on culture. Drainage of empyema. Lung-protective ventilation and prone positioning for ARDS. Conservative fluid strategy once resuscitated.
-
-### 0.4.3 Mx – Chronic/long-term
-Repeat imaging to confirm resolution, particularly in smokers over 50, where non-resolving consolidation may be an underlying malignancy. Vaccination review, smoking cessation, and pulmonary rehabilitation. Post-intensive-care follow-up for ARDS survivors.
-
----
-
-## 0.5 Neuromuscular Respiratory Failure
-
-**D:** Ventilatory failure caused by weakness of the respiratory muscles rather than by lung disease.
-
-**R/Causes:** Guillain–Barré syndrome, myasthenic crisis, motor neurone disease, botulism, high cervical spinal cord injury, critical illness neuromyopathy, organophosphate poisoning's intermediate syndrome — cross-refer [[F0.1]] 0.3, tick paralysis, and periodic paralyses.
-
-**A/P:** Respiratory muscle weakness → reduced tidal volume, compensated initially by increased rate → progressive atelectasis and reduced cough → secretion retention and aspiration → **the lungs are normal, so gas exchange remains adequate until ventilation fails**, at which point CO₂ rises abruptly and the patient decompensates over a short period rather than gradually.
-
-> [!danger] Oximetry and blood gases will reassure you until the patient arrests
-> Because the lung parenchyma is normal, **oxygen saturation stays normal and the CO₂ stays normal until very late.** Do not use them to monitor these patients. **Serial forced vital capacity and negative inspiratory force are the monitoring parameters**, measured regularly, with intubation planned electively on a declining trend rather than performed as an emergency.
-> `UNVERIFIED — the FVC and NIF thresholds triggering ICU admission and intubation, sometimes taught as the "20/30/40 rule", require verification against a current neurology or intensive care source. No values are stated here.`
-
-> [!tip] Bedside markers when spirometry is unavailable
-> **Single breath count** — how far the patient can count on one breath. **Inability to lift the head from the pillow** correlates with diaphragmatic weakness. **Staccato speech** with frequent pauses. Bulbar involvement — swallowing difficulty, weak cough, pooling secretions, nasal regurgitation — signals aspiration risk independent of respiratory muscle strength and lowers the threshold for airway protection.
-
-> [!warning] Ascending weakness with areflexia
-> Ascending symmetrical weakness with **loss of reflexes** following a diarrhoeal or respiratory illness is Guillain–Barré until proven otherwise. Fluctuating weakness worse with sustained effort, with ptosis and diplopia, is myasthenia. Both can present in respiratory crisis. Certain drugs precipitate myasthenic crisis — aminoglycosides, macrolides, quinolones, magnesium, beta-blockers — check the chart before adding anything.
-
-**S/Smx:** Dyspnoea often only when supine (orthopnoea from diaphragmatic weakness), staccato speech, weak cough, use of accessory muscles, paradoxical abdominal movement, tachypnoea with shallow breaths, anxiety, and the underlying neurological signs.
-
-**Ix:** Serial forced vital capacity and negative inspiratory force (*why:* these are the only parameters that detect deterioration in time to intubate electively, and the trend matters more than any single value; *what:* declining FVC, weakening NIF). ABG, interpreted with caution (*why:* useful for confirming established hypercapnia but dangerously reassuring in the compensating patient — a normal gas does not mean a safe patient; *what:* late rise in pCO₂). Bulbar function assessment including swallow (*why:* aspiration risk is independent of respiratory muscle strength and changes the airway decision; *what:* weak cough, pooling secretions, nasal regurgitation). Nerve conduction studies and EMG (*why:* confirm and localise the lesion, distinguishing demyelinating from axonal and neuromuscular junction pathology; *what:* conduction block, decrement on repetitive stimulation). Lumbar puncture in suspected Guillain–Barré (*why:* albuminocytological dissociation supports the diagnosis, though it may be normal in the first week; *what:* raised protein with normal cell count). Acetylcholine receptor and MuSK antibodies (*why:* confirm myasthenia; *what:* positive antibodies). CXR (*why:* atelectasis and aspiration; *what:* collapse, consolidation).
-
-### 0.5.1 Mx – Immediate
-Sit upright, oxygen, and **monitor FVC serially rather than saturation.** Nil by mouth if bulbar involvement. Early ICU and neurology involvement. Plan intubation electively on a declining trend. Avoid precipitating drugs in myasthenia. `UNVERIFIED — note that suxamethonium and other agents carry specific hazards in some neuromuscular conditions; confirm with anaesthetics before any rapid sequence induction in these patients.`
-
-### 0.5.2 Mx – Definitive
-Disease-specific: immunoglobulin or plasma exchange for Guillain–Barré and myasthenic crisis, with corticosteroid and immunosuppressive decisions made by neurology. VTE prophylaxis, which is easily forgotten in a paralysed patient.
-
-### 0.5.3 Mx – Chronic/long-term
-Neurorehabilitation, respiratory physiotherapy, home NIV assessment in progressive disease, and advance care planning in motor neurone disease.
-
----
-
-## 0.6 Acute Severe Headache
-
-**D:** Headache of abrupt onset or unusual severity requiring exclusion of serious secondary causes before attributing it to a primary headache disorder.
-
-**A/P:** Pain-sensitive intracranial structures are the meninges, large vessels and venous sinuses — the brain parenchyma itself has no nociceptors. Blood, pus, traction, distension or inflammation involving these structures produces headache, which is why subarachnoid haemorrhage, meningitis, venous sinus thrombosis and arterial dissection all present this way.
-
-> [!danger] Thunderclap headache
-> Maximal intensity within seconds to a minute. **Subarachnoid haemorrhage until proven otherwise.** The differential also includes cerebral venous sinus thrombosis, cervical artery dissection, reversible cerebral vasoconstriction syndrome, pituitary apoplexy and posterior reversible encephalopathy syndrome — all serious, all requiring imaging.
-> The investigation pathway is **non-contrast CT brain first**, with sensitivity highest in the earliest hours and declining thereafter, followed by **lumbar puncture for xanthochromia** if CT is negative and suspicion remains. `UNVERIFIED — the time window within which a negative CT is considered sufficient to exclude SAH, and the interval after headache onset before LP can reliably detect xanthochromia, both require verification and both have changed with modern scanners.`
-
-> [!tip] Red flags — SNOOP
-> **S**ystemic features (fever, weight loss, malignancy, immunosuppression, pregnancy) · **N**eurological signs or reduced consciousness · **O**nset sudden or thunderclap · **O**lder age at first onset · **P**attern change, **P**ositional, **P**apilloedema, **P**recipitated by Valsalva or exertion.
-
-> [!warning] Causes that are missed because the imaging is normal
-> **Giant cell arteritis** in the over-50s — jaw claudication, scalp tenderness, visual symptoms, raised inflammatory markers; treat with steroids immediately on suspicion to prevent blindness, before biopsy. **Cerebral venous sinus thrombosis** — often needs venography rather than plain CT, and think of it in pregnancy, postpartum, dehydration, thrombophilia and combined oral contraceptive use. **Carbon monoxide poisoning** — headache with nausea in multiple household members, particularly in winter. **Acute angle closure glaucoma** — headache with a red painful eye, halos and a fixed mid-dilated pupil; cross-refer [[E1]].
-
-**S/Smx:** Character, onset speed, time to peak, positional and exertional features, associated neurological symptoms, fever, neck stiffness, visual symptoms and systemic features. A prior identical headache pattern is reassuring; a first or worst is not.
-
-**Ix:** Non-contrast CT brain (*why:* first-line for haemorrhage and mass effect, and its sensitivity for SAH is time-dependent, so the interval since onset changes the interpretation; *what:* subarachnoid blood, haemorrhage, mass, hydrocephalus). Lumbar peuncture with xanthochromia where CT is negative and SAH remains a concern (*why:* detects the blood breakdown products that CT misses at later intervals, and gives the CSF findings for meningitis; *what:* xanthochromia, red cells that do not clear across tubes, pleocytosis). CT or MR venography where venous sinus thrombosis is suspected (*why:* plain CT frequently misses it and the treatment is anticoagulation; *what:* filling defect in a sinus). CT or MR angiography for suspected dissection or aneurysm (*why:* defines the vascular lesion and directs neurosurgical or interventional management; *what:* dissection flap, aneurysm). ESR and CRP in the over-50s (*why:* giant cell arteritis is a treatable cause of irreversible blindness and the markers are usually markedly raised; *what:* elevated inflammatory markers). Blood pressure and fundoscopy (*why:* malignant hypertension and papilloedema change the pathway entirely; *what:* severe hypertension, disc swelling). Carboxyhaemoglobin where the history fits (*why:* not detected by standard oximetry and easily missed; *what:* elevated level).
-
-### 0.6.1 Mx – Immediate
-Analgesia and antiemetic. Urgent imaging where red flags are present. Immediate steroids for suspected giant cell arteritis. Antibiotics and antivirals immediately for suspected meningitis or encephalitis — before imaging or LP. Cross-refer [[F0.3]] 0.9.
-
-### 0.6.2 Mx – Definitive
-Cause-specific. Neurosurgical referral for aneurysmal SAH. Anticoagulation for venous sinus thrombosis. Cross-refer [[D1]] Headache & Meningism and [[04_Neurology]].
-
-### 0.6.3 Mx – Chronic/long-term
-Primary headache management and preventer therapy where appropriate. **Medication overuse headache** should be considered in anyone with frequent headache taking regular analgesia.
-
----
-
-## 0.7 Major Head Injury
-
-**D:** Traumatic brain injury with reduced conscious state, focal neurological deficit, or a significant intracranial lesion.
-
-**A/P:** **Primary injury** occurs at the moment of impact and is not modifiable. **Secondary injury** develops over the following hours from hypoxia, hypotension, hypercapnia, hyperthermia, hypoglycaemia, seizures and raised intracranial pressure — and it is entirely modifiable. This distinction is the whole of acute management.
-The skull is a fixed box: as a haematoma or oedema expands, compensation by displacement of CSF and venous blood is exhausted → intracranial pressure rises steeply → **cerebral perfusion pressure, which is mean arterial pressure minus intracranial pressure, falls** → ischaemia → further oedema → herniation.
-
-> [!danger] Hypoxia and hypotension each independently worsen outcome
-> A single episode of hypotension or hypoxia in a head-injured patient substantially increases mortality. **The most valuable thing an intern does for a severe head injury is maintain oxygenation and blood pressure**, not obtain the scan faster. `UNVERIFIED — target blood pressure, cerebral perfusion pressure and oxygenation values require verification against current neurotrauma guidance.`
-
-> [!warning] The Cushing response is late
-> Hypertension, bradycardia and irregular respiration indicate critically raised intracranial pressure and impending herniation. **Do not wait for it.** A falling GCS, a new unilateral fixed dilated pupil, or new lateralising weakness are earlier and demand immediate action.
-
-> [!tip] GCS and what it means practically
-> Score eye opening, verbal and motor responses separately and **document the components, not just the total** — a total of 9 can mean very different things. Motor score carries the most prognostic weight. A GCS of 8 or less generally indicates inability to protect the airway and is a conventional intubation threshold, though the decision is clinical rather than purely numerical.
-
-**S/Smx:** Reduced or fluctuating consciousness, vomiting, seizure, focal deficit, pupillary asymmetry, and signs of base of skull fracture — periorbital and mastoid bruising, CSF rhinorrhoea or otorrhoea, haemotympanum. A lucid interval followed by deterioration classically suggests extradural haematoma.
-
-**Ix:** Urgent non-contrast CT brain (*why:* identifies the surgically evacuable haematoma, which is the time-critical decision; *what:* extradural, subdural, contusion, midline shift, effacement of basal cisterns). Cervical spine imaging (*why:* significant head injury is associated with cervical spine injury and both must be assumed until cleared; *what:* fracture, malalignment). Bedside glucose (*why:* hypoglycaemia mimics and worsens brain injury and is instantly correctable; *what:* low glucose). Coagulation profile and platelets, with anticoagulant and antiplatelet history (*why:* anticoagulation dramatically increases haematoma expansion and mandates urgent reversal; *what:* INR, agent taken and time of last dose). ABG (*why:* both hypoxia and hypercapnia worsen secondary injury, and CO₂ affects cerebral blood volume directly; *what:* pO₂, pCO₂). Alcohol and toxicology (*why:* intoxication confounds GCS assessment but must never be assumed to be the cause of a reduced conscious state; *what:* level, with the caveat). Serial neurological observations (*why:* deterioration over hours is what detects an expanding lesion; *what:* GCS trend, pupils, lateralising signs).
-
-### 0.7.1 Mx – Immediate
-A–E with cervical spine protection. Intubate for airway protection where indicated. Maintain oxygenation and blood pressure. Head up. Avoid hypotonic fluids. Treat seizures. Correct coagulopathy urgently. **Urgent CT and neurosurgical referral.** Osmotherapy for raised intracranial pressure is a senior decision. `UNVERIFIED — mannitol and hypertonic saline dosing and indications require verification.`
-
-### 0.7.2 Mx – Definitive
-Neurosurgical evacuation where indicated. ICU management with intracranial pressure monitoring in selected patients. Retrieval to a neurosurgical centre.
-
-### 0.7.3 Mx – Chronic/long-term
-Rehabilitation, cognitive and behavioural sequelae assessment, driving and return-to-work advice, and family support.
-
----
-
-## 0.8 Minor Head Injury
-
-**D:** Head injury with a normal or near-normal conscious state, where the clinical question is whether imaging is required and whether the patient can be safely discharged.
-
-**A/P:** The great majority have no intracranial injury. A small proportion have a lesion that will expand. Validated decision rules exist precisely because clinical judgement alone either over-scans, exposing large numbers to radiation, or misses the small number who deteriorate.
-
-> [!tip] Decision rules
-> **Adults:** the **Canadian CT Head Rule** is the most widely used and validated, applied to patients with witnessed loss of consciousness, amnesia or disorientation. The New Orleans Criteria are an alternative. Most Australian health services have adapted one of these locally.
-> **Children:** Australian practice uses the **PREDICT** guideline, which incorporates and adapts the PECARN rule and explicitly builds in a period of structured observation as an alternative to immediate imaging — reflecting the greater radiation sensitivity of children.
-> `UNVERIFIED — the specific criteria, age bands and thresholds within the Canadian CT Head Rule and the PREDICT guideline require verification; do not reconstruct them from memory, as the exclusion criteria are as important as the inclusion criteria and are easily misremembered.`
-
-> [!danger] Anticoagulation and antiplatelet therapy change everything
-> An elderly patient on warfarin, a direct oral anticoagulant or clopidogrel who has had a seemingly trivial fall can develop a significant subdural or intracerebral haemorrhage. **The threshold for imaging is much lower and most decision rules do not apply to them.** Delayed haemorrhage occurs, so the observation and discharge advice must account for it.
-
-> [!warning] Discharge advice must be written and given to a responsible adult
-> Verbal advice to a person who has just sustained a head injury and may have impaired memory is not adequate. Written head injury advice covering warning symptoms, the need for someone to stay with them, and when to return.
-
-**S/Smx:** Brief loss of consciousness, amnesia for the event, headache, nausea, dizziness, and normal or near-normal GCS on assessment. Persistent vomiting, worsening headache, seizure or any focal deficit moves this out of the minor category.
-
-**Ix:** Application of a validated decision rule (*why:* it determines whether imaging is required and is more accurate and more defensible than unstructured judgement; *what:* rule criteria met or not met). CT brain where the rule indicates (*why:* identifies the small number with a lesion needing intervention or observation; *what:* haemorrhage, fracture, contusion). Coagulation profile where anticoagulated (*why:* guides reversal and the level of observation; *what:* INR, agent). Bedside glucose (*why:* excludes hypoglycaemia as the cause of the fall rather than the consequence; *what:* low glucose). ECG and postural blood pressure in an older patient who fell (*why:* the head injury may be the consequence of syncope, arrhythmia or postural hypotension, and treating only the head misses the cause; *what:* arrhythmia, postural drop). Cervical spine assessment (*why:* co-existing injury; *what:* midline tenderness, restricted movement).
-
-### 0.8.1 Mx – Immediate
-Assess GCS and apply the decision rule. Analgesia. Observe for a defined period where indicated. Image where the rule requires it.
-
-### 0.8.2 Mx – Definitive
-Discharge with written advice and a responsible adult, or admit for observation. **In an older patient who fell, investigate why they fell** — cross-refer [[18_Geriatrics_and_Older_Persons_Health]].
-
-### 0.8.3 Mx – Chronic/long-term
-Post-concussive symptoms — headache, poor concentration, irritability, sleep disturbance, dizziness — are common and usually self-limiting. Graduated return to work, study and sport with clear advice about not returning while symptomatic. Cross-refer [[04_Neurology]] Concussion and Post-Concussive Syndrome.
-
----
-
-## 0.9 Acute Renal Colic
-
-**D:** Severe loin-to-groin pain from acute upper urinary tract obstruction, most often by a calculus.
-
-**R:**
-*Unmodifiable:* Male sex, previous stones, family history, primary hyperparathyroidism, renal tubular acidosis, anatomical abnormalities.
-*Modifiable:* Low fluid intake, hot climate and occupational dehydration, high dietary sodium, oxalate and animal protein, obesity, and drugs that promote stone formation.
-
-**A/P:** Stone lodges at a point of narrowing — pelviureteric junction, pelvic brim where the ureter crosses the iliac vessels, or vesicoureteric junction → obstruction → increased intraluminal and renal pelvic pressure with ureteric smooth muscle spasm → visceral pain referred to the dermatomes sharing the spinal segment, producing the characteristic loin-to-groin radiation. Local prostaglandin release contributes to the pressure and the pain, which is why NSAIDs work well.
-
-> [!danger] Two things must be excluded before accepting renal colic
-> **Obstruction with infection is a urological emergency** requiring decompression, not just antibiotics — fever, rigors or systemic upset with an obstructing stone. Cross-refer [[F0.3]] 0.10.
-> **A ruptured or leaking abdominal aortic aneurysm presents as renal colic.** In any patient over 50, particularly with a first ever episode, no prior stone history, or vascular risk factors, exclude it before settling on the diagnosis. This is a well-documented and lethal misdiagnosis.
-
-> [!tip] Analgesia
-> **NSAIDs are first-line and outperform opioids** in renal colic, reducing both pain and the ureteric smooth muscle contribution, provided renal function and other contraindications permit. Opioids are added rather than used alone. `UNVERIFIED — agent and dose from eTG Analgesic.`
-
-> [!warning] When it is not simply managed conservatively
-> Urgent urology involvement for: infection with obstruction, acute kidney injury, a solitary or transplanted kidney, bilateral obstruction, intractable pain or vomiting, or failure to progress. Stone size influences the likelihood of spontaneous passage. `UNVERIFIED — stone size thresholds for spontaneous passage and for intervention require verification.`
-
-**S/Smx:** Sudden severe colicky loin pain radiating to the groin, testis or labium, with restlessness — the patient cannot lie still, which distinguishes it from peritonitis where the patient lies motionless. Nausea, vomiting, haematuria, urinary frequency and urgency when the stone is at the vesicoureteric junction.
-
-**Ix:** Non-contrast CT of the kidneys, ureters and bladder (*why:* the reference standard — identifies stone position and size, degree of obstruction, and simultaneously evaluates the alternative diagnoses including aneurysm and appendicitis; *what:* calculus, hydronephrosis, perinephric stranding). Urinalysis (*why:* haematuria supports the diagnosis but is absent in a meaningful minority, and nitrites or leucocytes raise the possibility of infection; *what:* blood, leucocytes, nitrites). UEC (*why:* identifies acute kidney injury from obstruction and governs NSAID safety; *what:* rising creatinine). FBC and CRP (*why:* infection screening; *what:* leucocytosis). Pregnancy test in any woman of reproductive age (*why:* ectopic pregnancy is a critical differential and pregnancy changes imaging to ultrasound; *what:* positive test). Ultrasound as first-line in pregnancy and in young patients where radiation is a concern (*why:* avoids radiation and detects hydronephrosis, though it is less sensitive for the stone itself; *what:* hydronephrosis). Blood cultures if febrile (*why:* obstructed infected system; *what:* organism). Stone analysis and metabolic screen where recurrent (*why:* directs prevention; *what:* stone composition, calcium, urate, parathyroid hormone).
-
-### 0.9.1 Mx – Immediate
-NSAID-based analgesia with an opioid added as needed, antiemetic, fluids. Imaging. **Exclude infection and aneurysm.** Urology referral where indicated.
-
-### 0.9.2 Mx – Definitive
-Conservative management with analgesia and follow-up for small stones likely to pass. Medical expulsive therapy is used in some settings, with mixed evidence. Ureteroscopy, lithotripsy or stent for stones that will not pass, and emergency decompression for infection.
-
-### 0.9.3 Mx – Chronic/long-term
-Fluid intake advice, dietary modification based on stone composition, treatment of underlying metabolic causes, and follow-up imaging. Cross-refer [[H4]] Renal Colic.
-
----
-
-## 0.10 Tonsillitis and Peritonsillar Abscess (Quinsy)
-
-**D:** Acute inflammation of the tonsils, and its suppurative complication with pus collecting in the peritonsillar space.
-
-**A/P:** Viral or bacterial infection of tonsillar tissue → inflammation, exudate and lymphoid hyperplasia. Where bacterial infection spreads beyond the tonsillar capsule → pus collects in the peritonsillar space → **unilateral swelling displacing the tonsil and uvula, with trismus from irritation of the pterygoid muscles.** Group A *Streptococcus* additionally carries the risk of immune-mediated sequelae — acute rheumatic fever and post-streptococcal glomerulonephritis.
-
-> [!danger] The Australian antibiotic threshold is different, and this matters
-> **Acute rheumatic fever and rheumatic heart disease occur at among the highest rates in the world in Aboriginal and Torres Strait Islander populations**, particularly in remote and northern communities. In these settings, and in others at high risk, **antibiotic treatment of sore throat is recommended much more readily** than the score-based approach used in low-risk urban populations, precisely to prevent acute rheumatic fever.
-> Applying a low-risk-population algorithm to a high-risk patient is a clinically significant error and a recognised exam discriminator. `UNVERIFIED — the specific high-risk criteria, geographic definitions and recommended regimens require verification against eTG Antibiotic and the Australian guideline for prevention, diagnosis and management of acute rheumatic fever.`
-
-> [!tip] Quinsy — the discriminating features
-> **Trismus** (difficulty opening the mouth), **"hot potato" or muffled voice**, unilateral severe pain often referred to the ear, drooling, and on examination **unilateral peritonsillar swelling with deviation of the uvula away from the affected side.** Bilateral tonsillitis without these features is not quinsy. Treatment is **drainage** — needle aspiration or incision — plus antibiotics; antibiotics alone are usually insufficient.
-
-> [!warning] The dangerous mimics
-> **Epiglottitis** — rapid onset, severe odynophagia out of proportion to visible findings, drooling, tripod posture, stridor, and a relatively normal-looking oropharynx. **Do not examine the throat of a child with suspected epiglottitis**; involve anaesthetics and ENT for examination in a controlled setting.
-> **Retropharyngeal abscess** — neck stiffness, refusal to move the neck, and a child who looks unwell.
-> **Infectious mononucleosis** — marked lymphadenopathy, splenomegaly, prolonged fatigue. **Do not give amoxicillin or ampicillin**, which produces a florid rash. Advise against contact sport while splenomegaly persists.
-> **Lemierre's syndrome** — septic thrombophlebitis of the internal jugular vein following oropharyngeal infection, with rigors and septic pulmonary emboli. Rare, easily missed, and lethal.
-
-**S/Smx:** Sore throat, odynophagia, fever, tender cervical lymphadenopathy, tonsillar enlargement with exudate. Absence of cough favours bacterial. In quinsy: unilateral severity, trismus, muffled voice, uvular deviation, drooling.
-
-**Ix:** Clinical assessment with a scoring tool such as Centor or FeverPAIN in low-risk populations (*why:* stratifies the probability of streptococcal infection and reduces unnecessary antibiotics, with the important caveat that it does not apply to high-risk populations; *what:* score components — `UNVERIFIED — thresholds`). Throat swab for culture, and rapid antigen testing where available (*why:* confirms group A *Streptococcus*, which matters most where rheumatic fever risk is high; *what:* GAS growth). FBC and monospot or EBV serology where mononucleosis is suspected (*why:* changes antibiotic choice and activity advice; *what:* atypical lymphocytes, positive serology). CRP (*why:* supports bacterial infection and tracks response; *what:* elevation). CT neck with contrast where deep neck space infection is suspected (*why:* distinguishes cellulitis from a drainable collection and defines its extent; *what:* rim-enhancing collection, airway compromise). Lateral soft tissue neck radiograph where epiglottitis or retropharyngeal abscess is considered and the patient is stable (*why:* supportive, though it must never delay airway management; *what:* thumbprint sign, widened prevertebral soft tissue).
-
-### 0.10.1 Mx – Immediate
-Analgesia and antipyretics — **adequate analgesia is the intervention that most improves symptoms and is often under-prescribed.** Encourage oral fluids; IV fluids where intake is inadequate. Antibiotics per the risk-stratified approach. Urgent ENT referral for quinsy, and urgent anaesthetic and ENT involvement for any suspicion of airway compromise or epiglottitis. Corticosteroids reduce symptoms in severe cases. `UNVERIFIED — antibiotic agents, doses and durations, and steroid indications and dosing, from eTG Antibiotic.`
-
-### 0.10.2 Mx – Definitive
-Drainage of quinsy. Admission for IV antibiotics and fluids where oral intake fails. Airway management in deep neck space infection.
-
-### 0.10.3 Mx – Chronic/long-term
-Tonsillectomy assessment for recurrent tonsillitis or recurrent quinsy against defined frequency criteria. **In high-risk populations, follow-up to complete the antibiotic course and consideration of secondary prophylaxis where acute rheumatic fever has occurred.** Cross-refer [[13_ENT]] and [[F4]] Neck Lumps.
-
----
-
-> [!note] Cross-references
-> Cardiogenic shock, tamponade and massive PE → [[F0.3]] · Mechanical ventilation, auto-PEEP and NIV detail → [[F0.4]] 0.7 · Resuscitation algorithms → [[F0.4]] · Meningococcal sepsis → [[F0.3]] 0.9 · Headache differentials in full → [[D1]] · Renal colic in the urology context → [[H4]]
-
-
-<!-- ===== SOURCE: NEW_Drugs_01_Allergy_and_Anaphylaxis.md ===== -->
-
-
-# NEW — Drug Classes: Allergy and Anaphylaxis (AMH section 1)
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment, and they are the sources that would normally supply Australian doses and product details. Entries are **snippet-sourced**, and **no doses are stated in this file** — with **one deliberate, documented exception**: the **adrenaline dose for anaphylaxis** (0.5 Sympathomimetics), which is a resuscitation dose, is agreed across Australian sources, and is stated by ASCIA in the correct **per-kg-with-a-cap** and **weight-band** form. Omitting it would be a safety gap, not caution. Use AMH or the local formulary for everything else.
-
----
-
-## 0.1 Antihistamines
-*(covers build-list classes: Antihistamines (eye), Antihistamines (intranasal), H1 Antagonists (1st Gen), Less sedating antihistamines, Sedating antihistamines)*
-
-### 0.1.1 Less Sedating (Second-Generation) Antihistamines
-
-- **Mechanism:** competitive **inverse agonists at the histamine H₁ receptor**. Second-generation agents are more **H₁-selective** and, critically, **penetrate the blood–brain barrier poorly**, which is what removes the central sedation and anticholinergic burden of the older drugs.
-- **Key agents:** **cetirizine, loratadine, fexofenadine, desloratadine, levocetirizine, bilastine, rupatadine**.
-- **Indications:** **allergic rhinitis and conjunctivitis**; **urticaria** (acute and chronic spontaneous) — the mainstay of treatment; pruritus of allergic origin; adjunct in allergy generally.
-- **Adverse effects:** generally well tolerated. **Cetirizine is the most sedating of the "less sedating" group** and is not reliably non-sedating; fexofenadine and loratadine are the least. Dry mouth, headache. **Do not tell a patient a less sedating antihistamine cannot affect driving** — individual sedation occurs.
-- **Contraindications/cautions:** dose reduction in **renal impairment** for cetirizine and levocetirizine (renally cleared); hepatic impairment affects loratadine.
-- **Interactions:** **fexofenadine absorption is reduced by fruit juices** (grapefruit, orange, apple) and by **antacids** — a genuinely common cause of apparent treatment failure; some agents interact with CYP3A4 inhibitors.
-- **Monitoring:** clinical response. In **chronic spontaneous urticaria**, guidelines support **updosing above the standard licensed dose** under specialist direction before adding other agents — an important point because "the antihistamine didn't work" often means it was under-dosed.
-
-### 0.1.2 Sedating (First-Generation) H₁ Antagonists
-
-- **Mechanism:** H₁ antagonism **plus** substantial **muscarinic, α-adrenergic and serotonergic** blockade, and free CNS penetration — hence sedation and anticholinergic effects.
-- **Key agents:** **promethazine, dexchlorpheniramine, diphenhydramine, doxylamine, cyproheptadine, trimeprazine**.
-- **Indications:** now **narrow**. Their non-allergy uses (nausea and vomiting, motion sickness, vertigo, sedation, migraine adjunct) are what keep them in use. **They are not recommended for treating allergic reactions**, where the less sedating agents are preferred.
-- **Adverse effects:** **sedation and impaired psychomotor performance** — with **next-day hangover** effects and driving impairment that patients underestimate; **anticholinergic effects** (dry mouth, blurred vision, urinary retention, constipation, **confusion and delirium in the elderly**); **paradoxical CNS stimulation in children** — agitation, hallucinations; QT prolongation in overdose; **respiratory depression**.
-- **Contraindications:** **children — this is the safety point of the entry.** Sources are explicit: since **1 September 2020 all over-the-counter first-generation sedating antihistamines in Australia must carry "Do not give to children under 2 years of age"**, and the **TGA advises promethazine must not be used in children under 6 years**, because of **fatal respiratory depression** and psychiatric and CNS events. Also avoid in **narrow-angle glaucoma, prostatic hypertrophy/bladder outlet obstruction**, and in **older people** (on every deprescribing and anticholinergic-burden list).
-- **Interactions:** **additive CNS depression with alcohol, opioids, benzodiazepines and other sedatives**; additive anticholinergic burden with other anticholinergics.
-- **Monitoring:** sedation, anticholinergic effects, falls risk in the elderly, and — in children — whether the drug should be there at all.
-
-> [!danger] **Antihistamines are NOT a treatment for anaphylaxis, and giving one instead of adrenaline is a recognised cause of death.**
-> They do not treat **airway obstruction, bronchospasm or hypotension** — they treat itch and urticaria. **Adrenaline is the only first-line treatment.** An antihistamine is at most an adjunct given after adrenaline, and a sedating antihistamine additionally **confounds assessment of conscious state** in a deteriorating patient. See [[15_01b_Paeds_-_Anaphylaxis]].
-
-### 0.1.3 Intranasal Antihistamines
-
-- **Mechanism:** topical H₁ antagonism delivered directly to the nasal mucosa, giving faster onset than oral agents (minutes) with minimal systemic exposure.
-- **Key agents:** **azelastine**, levocabastine; available in **fixed combination with an intranasal corticosteroid** (azelastine/fluticasone).
-- **Indications:** **allergic rhinitis**. Sources describe the Australian position (**ASCIA**): **intranasal corticosteroids ± intranasal antihistamines are first-line**, with intranasal antihistamine used as **monotherapy for mild intermittent/mild persistent disease** and, more importantly, as the **step-up added to an intranasal corticosteroid** in moderate-to-severe persistent rhinitis not controlled on the steroid alone — where combination is better than the steroid alone.
-- **Adverse effects:** **bitter taste** (the commonest reason for non-adherence, and worth warning about explicitly, along with the technique of not sniffing hard after spraying), nasal irritation and stinging, epistaxis, mild somnolence.
-- **Practical point:** **spray technique determines whether nasal treatment works at all** — aim **away from the septum**, towards the ipsilateral outer canthus, do not sniff deeply, and expect intranasal corticosteroids to take days to weeks for full effect while intranasal antihistamines work within minutes.
-
-### 0.1.4 Antihistamines (Eye) — see 0.2
-
-Topical ocular antihistamines are covered with the other drugs for allergic eye conditions in **0.2**, since in practice the useful agents are **dual-acting antihistamine/mast cell stabilisers** and separating them is artificial.
-
-> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.2 Drugs for Allergic and Inflammatory Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.3 Other Drugs for Allergic Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## 0.4 Other Drugs for Allergy
-*(covers build-list class: Mast cell stabilisers)*
-
-### 0.4.1 Mast Cell Stabilisers
-
-- **Mechanism:** stabilise the mast cell membrane and inhibit **degranulation**, preventing release of histamine and other mediators. They **prevent** the reaction rather than treating it — which dictates entirely how they must be used.
-- **Key agents:** **sodium cromoglicate** (cromolyn) and **nedocromil**, available as **eye drops, nasal spray, inhaler**, and (for a very different indication) **oral** cromoglicate for mastocytosis and food-related gastrointestinal allergy. **Ketotifen and olopatadine** (0.2.1) also have mast cell stabilising activity, which is why they have largely displaced pure stabilisers in the eye.
-- **Indications:** **allergic conjunctivitis** (including vernal keratoconjunctivitis), allergic rhinitis, and — historically — asthma prophylaxis, where inhaled corticosteroids have superseded them.
-- **Adverse effects:** minimal — transient stinging in the eye, local irritation in the nose, cough with the inhaled form. **Their safety is their main advantage**, particularly in children and in pregnancy.
-- **The practical limitation that defines them:** **they take days to weeks to work and require regular dosing (often four times daily) whether or not symptoms are present.** A patient who uses them "when the eyes are itchy" will get no benefit and will conclude the drug does not work. **Start before the season, and explain that they are preventers, not relievers** — the same conversation as for asthma preventers.
-
-### 0.4.2 Other Agents in This Group
-
-- **Leukotriene receptor antagonists (montelukast)** — an option in allergic rhinitis with coexisting asthma. **The neuropsychiatric warning matters**: sleep disturbance, nightmares, agitation, depression and suicidal ideation are recognised, are the subject of regulatory warnings, and **must be discussed with the patient or parents before prescribing** and asked about at review.
-- **Allergen immunotherapy (subcutaneous or sublingual)** — the only treatment that modifies the underlying allergic disease rather than suppressing symptoms. Specialist-initiated, takes years, and carries a risk of systemic reactions (hence administration where **adrenaline and resuscitation facilities** are immediately available, with a mandatory observation period).
-- **Omalizumab (anti-IgE)** and other biologics — specialist use in severe chronic spontaneous urticaria, severe allergic asthma and severe atopic disease.
-- **Systemic corticosteroids** — for severe allergic disease and as an adjunct after anaphylaxis; **they are slow in onset and are never the acute treatment for anaphylaxis.**
-
-## 0.5 Sympathomimetics (Anaphylaxis) — Adrenaline
-
-> [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
-> Anaphylaxis has **five homes**: here · `F0-1 §0.9 Anaphylaxis and Acute Allergic Reaction` ·
-> `Derm_merged 09_01 ## Anaphylaxis` · `Pediatrics_merged 15_01b_Paeds_-_Anaphylaxis` ·
-> `Infectious Disease_merged K4` (allergy).
-> **This section and `F0-4 §0.4 Paediatric Resuscitation` are where weight-banded adrenaline figures
-> live.** The ASCIA table in this corpus has already produced one live paediatric dosing defect.
-> **Every per-kg figure and injector band must be listed and checked before any merge.**
-> See `_meta/flags/_RULE5_FIGURES.md`.
-
-- **Mechanism:** a non-selective adrenoceptor agonist, and every clinically important effect maps to a receptor. **α₁** → vasoconstriction, reversing hypotension and **mucosal/laryngeal oedema**. **β₁** → increased heart rate and contractility. **β₂** → **bronchodilation**, and inhibition of further **mast cell and basophil mediator release** — so it treats the reaction as well as its consequences.
-- **Key agent:** **adrenaline (epinephrine)**, as **1:1000 ampoule** for intramuscular use, as an **adrenaline injector device**, and as a **dilute intravenous infusion** in refractory anaphylaxis (critical care setting only).
-- **Indication:** **ANAPHYLAXIS — first-line, immediately, in every case.** Also cardiac arrest, severe bronchospasm and croup (nebulised) at different doses and by different routes.
-
-> [!danger] **Adrenaline is the first and only first-line treatment for anaphylaxis. There is no dose of antihistamine or corticosteroid that substitutes for it, and delay in giving it is the factor most consistently associated with fatal outcome.**
-> **Give it intramuscularly into the mid-anterolateral thigh** — not subcutaneously, not into the deltoid, and not orally. Lay the patient **flat** (or in the recovery position if vomiting, or sitting only if breathing is severely compromised) and **do not stand them up or walk them to a trolley** — sudden postural change in anaphylaxis has been associated with cardiac arrest.
-
-> [!info] **Dose — the one dose stated in this file, in the correct per-kg-with-a-cap form**
-> Sources agree on the **ASCIA** dosing, which is consistent with the Australian **Acute Anaphylaxis Clinical Care Standard**, the **Australian Immunisation Handbook** and the World Allergy Organisation:
-> - **Ampoule (adrenaline 1:1000), all ages: 0.01 mL/kg, to a maximum of 0.5 mL (0.5 mg) per dose, intramuscular.**
-> - **Injector devices, by weight band:** **150 microgram** for those from **7.5 kg to 20 kg**; **300 microgram** for those **20 kg or more**; from around **12 years of age and over 50 kg**, either the **300 microgram or 500 microgram** device.
-> - **Repeat every 5 minutes as needed** if there is no improvement.
-> **This is the correct paediatric form** — per-kg with an absolute cap, plus weight bands for the fixed-dose devices — and it is why the dose is safe to state. **Do not convert it into a single absolute figure**, which is exactly the error that makes an adult dose lethal in a child.
-
-- **Adverse effects:** anxiety, tremor, palpitations, headache, pallor — **all expected, all transient, and none a reason to withhold it**. Hypertension and tachyarrhythmia; myocardial ischaemia in those with coronary disease. **The risks of giving adrenaline in anaphylaxis are trivial compared with the risk of not giving it.**
-- **Contraindications:** **there is NO absolute contraindication to adrenaline in anaphylaxis** — not age, not pregnancy, not ischaemic heart disease, not hypertension.
-- **Interactions:** **β-blockers** may blunt the response and are associated with more severe, adrenaline-resistant anaphylaxis (**glucagon** is the recognised adjunct in that situation); **tricyclic antidepressants and MAOIs** potentiate the pressor effect.
-- **Monitoring and aftercare — the part that is routinely done badly:**
-  - **Observe after treatment**, because of **biphasic reactions**; the observation period depends on severity and local policy.
-  - **Prescribe an adrenaline injector and demonstrate the trainer device** before discharge — a prescription without a demonstration is not adequate.
-  - **Provide a written ASCIA Action Plan** with the patient's specific trigger.
-  - **Refer to a clinical immunology/allergy service.**
-  - **Advise on trigger avoidance**, and document the reaction prominently in the record and on any allergy alert.
-  - **Serum mast cell tryptase**, taken as soon as practicable after the event and again at baseline, supports the retrospective diagnosis — but **must never delay treatment**.
-- See [[15_01b_Paeds_-_Anaphylaxis]].
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Antihistamines | SUB | yes | |
-| 0.1.1 | Less sedating antihistamines | CLS | yes | |
-| 0.1.2 | Sedating antihistamines | CLS | yes | Built jointly with `H1 Antagonists (1st Gen)` — the same class under two names. |
-| 0.1.2 | H1 Antagonists (1st Gen) | CLS | yes | As above. |
-| 0.1.3 | Antihistamines (intranasal) | CLS | yes | |
-| 0.1.4 → 0.2.1 | Antihistamines (eye) | CLS | yes | Built in 0.2.1 with the other ocular allergy agents — the useful agents are dual-acting antihistamine/mast cell stabilisers and separating them would be artificial. |
-| 0.2 | Drugs for allergic and inflammatory eye conditions | SUB | yes | |
-| 0.2.2 | Corticosteroids (eye) | CLS | yes | |
-| 0.2.3 | NSAIDs (eye) | CLS | yes | |
-| 0.3 | Other drugs for allergic eye conditions | SUB | yes | |
-| 0.4 | Other drugs for allergy | SUB | yes | |
-| 0.4.1 | Mast cell stabilisers | CLS | yes | |
-| 0.5 | Sympathomimetics (anaphylaxis) | SUB | yes | Carries the file's single stated dose, in ASCIA per-kg-with-cap and weight-band form. |
-
-**Rows in file: 13. AMH section 1 build-list rows: 13 (5 SUB + 8 CLS). Section complete.**
-
-
-<!-- ===== SOURCE: NEW_Drugs_04_Antidotes_and_Antivenoms.md ===== -->
-
-
-# NEW — Drug Classes: Antidotes and Antivenoms (AMH section 4)
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** Antidote and antivenom dosing is the area where getting a figure wrong from memory is most likely to be lethal.
-
-> [!danger] **THE SINGLE MOST IMPORTANT LINE IN THIS FILE: in Australia, call the Poisons Information Centre on 13 11 26 — 24 hours, anywhere in the country.**
-> Every antidote decision in this file is made **with a clinical toxicologist**, not from a reference sheet. The PIC gives current, dose-specific, patient-specific advice, and connects you to a toxicologist for complex cases. **Call early, before the patient deteriorates, not after.** Antivenom advice comes through the same number.
-
-> [!info] **Depth note.** An intern's job in poisoning is **resuscitation, risk assessment, decontamination where indicated, supportive care, and calling for expert help** — not antidote selection from memory. This file is written to support recognising **when an antidote exists** and **what the traps are**, because the commonest failure is not knowing that a specific treatment is available.
-
----
-
-## 0.1 Antidotes
-
-> [!info] **The general approach that precedes any antidote — resuscitate first**
-> **Airway, breathing, circulation** always come before the antidote. Then: **risk assessment** (what, how much, when, what else — including deliberate self-harm assessment), **supportive care** (which is what most poisoned patients actually need and what most survive on), **decontamination** where indicated, **enhanced elimination** where applicable, and **antidote** where one exists. Also check **glucose, paracetamol level and an ECG** in every deliberate self-poisoning, and look for **co-ingestants** — mixed overdose is the norm, not the exception.
-
-### 0.1.1 Specific Reversal Agents and Antidotes
-
-The antidotes an intern should be able to name when the poison is identified. **Doses are deliberately not given — call 13 11 26.**
-
-| Poison / drug | Antidote | The point to remember |
-|---|---|---|
-| **Paracetamol** | **N-acetylcysteine** | Works by replenishing **glutathione**. **Give early — do not wait for LFTs to rise.** Plot the level on the nomogram at the right time; treat staggered and unknown-time ingestions on advice. See `NEW_Drugs_03_Analgesics.md` 0.4.1. |
-| **Opioids** | **Naloxone** | Titrate to **adequate ventilation**, not full consciousness. **Shorter-acting than most opioids** — observe, often infuse. See `NEW_Drugs_03_Analgesics.md` 0.4.6. |
-| **Benzodiazepines** | **Flumazenil** | **Rarely used.** Precipitates **seizures** in dependence and mixed (especially tricyclic) overdose, and is shorter-acting than the benzodiazepine. Supportive care is usually the right answer. |
-| **Warfarin** | **Vitamin K**, plus **prothrombin complex concentrate** for major bleeding (FFP if PCC unavailable) | Vitamin K takes **hours** to work; PCC is immediate. The choice depends on **bleeding and INR**, not INR alone. See [[10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets]]. |
-| **Dabigatran** | **Idarucizumab** | A monoclonal antibody fragment binding dabigatran directly. |
-| **Apixaban / rivaroxaban** | **Andexanet alfa** (where available); **PCC** otherwise | Availability and funding vary by hospital — know what your site stocks. |
-| **Heparin** | **Protamine** | Fully reverses unfractionated heparin; only **partially** reverses low molecular weight heparin. Protamine itself causes hypotension and anaphylactoid reactions. |
-| **β-blockers** | **Glucagon**, high-dose insulin–euglycaemia, calcium, vasopressors | Bradycardia and hypotension refractory to atropine. |
-| **Calcium channel blockers** | **Calcium**, high-dose insulin–euglycaemia therapy, vasopressors | Verapamil and diltiazem overdose is one of the deadliest cardiac drug ingestions. |
-| **Digoxin** | **Digoxin-specific antibody fragments (Fab)** | Indicated for **life-threatening arrhythmia or hyperkalaemia**, not for a raised level alone. **Do not treat digoxin-toxic hyperkalaemia with calcium** by reflex — discuss first. |
-| **Organophosphates / carbamates** | **Atropine** (titrated to drying of secretions), **pralidoxime** | Cholinergic crisis — **the atropine endpoint is secretions, not heart rate**, and very large cumulative doses may be needed. **Protect yourself and the department from contamination.** |
-| **Methanol / ethylene glycol** | **Fomepizole** (or ethanol), plus **haemodialysis** | Blocks alcohol dehydrogenase so the parent alcohol is not converted to its toxic acid. See `NEW_Investigations_Orthopaedics_Neurology_and_Other.md` 0.3 for the osmolar gap and its limits. |
-| **Iron** | **Desferrioxamine** | See 0.3. |
-| **Local anaesthetic** | **20% intravenous lipid emulsion** | See `NEW_Drugs_02_Anaesthetics.md` 0.1.5. |
-| **Malignant hyperthermia** | **Dantrolene** | See `NEW_Drugs_02_Anaesthetics.md` 0.2.3. |
-| **Isoniazid** | **Pyridoxine (vitamin B₆)** | Seizures refractory to benzodiazepines. |
-| **Methaemoglobinaemia** | **Methylthioninium chloride (methylene blue)** | **Contraindicated / ineffective in G6PD deficiency** (and can cause haemolysis); causes serotonin syndrome with serotonergic drugs. See [[10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia]]. |
-| **Cyanide** | **Hydroxocobalamin** (preferred), or dicobalt edetate / sodium thiosulfate | Suspect in smoke inhalation with a high lactate and cardiovascular collapse; hydroxocobalamin turns urine and skin red. |
-| **Carbon monoxide** | **High-flow / hyperbaric oxygen** | **The pulse oximeter reads falsely normal** — needs co-oximetry. |
-| **Sulfonylurea hypoglycaemia** | **Octreotide** (with dextrose) | Suppresses the insulin release that dextrose alone perpetuates; hypoglycaemia is **prolonged and recurrent**, so the patient is admitted. |
-| **Methotrexate** | **Folinic acid (leucovorin)**, glucarpidase | Folinic acid, **not folic acid**. |
-| **Botulism, diphtheria, tetanus** | Specific **antitoxin / immunoglobulin** | Public health notification as well as treatment. |
-
-> [!danger] **The decontamination points that are commonly got wrong**
-> - **Activated charcoal** binds most drugs but **NOT** iron, lithium, alcohols, potassium, acids/alkalis or hydrocarbons. It has a **narrow time window**, and it is **contraindicated in a patient with a compromised airway or reduced conscious state who is not intubated** — aspiration of charcoal causes a severe, sometimes fatal pneumonitis. **The risk of the charcoal must be weighed against the benefit; when in doubt, don't.**
-> - **Gastric lavage and ipecac are obsolete.**
-> - **Whole bowel irrigation** has narrow indications (sustained-release preparations, iron, body packers) and is a toxicologist's decision.
-> - **Never induce vomiting in corrosive or hydrocarbon ingestion.**
-
-### 0.1.2 Chelating Agents
-
-- **Mechanism:** form stable, water-soluble complexes with heavy metals, which are then excreted — reducing the metal's ability to bind enzymes and cellular targets.
-- **Lead:**
-  - **Sodium calcium edetate (calcium disodium EDTA)** — parenteral; long the standard agent. Sources note it causes **dose-related nephrotoxicity** and is **more effective than DMSA at reducing bone lead**.
-  - **Succimer (DMSA)** — **oral**, better absorbed, generally **well tolerated**, and sources report it **more effective than EDTA at reducing kidney lead**, with comparable effects on blood lead at similar molar doses. It is the alternative when an oral agent is preferable.
-  - **Dimercaprol (BAL)** — intramuscular, in peanut oil (relevant to allergy); used in **lead encephalopathy** and in severe arsenic and mercury poisoning, often before EDTA.
-
-> [!danger] **In lead poisoning, chelation treats the patient — REMOVING THE SOURCE is what treats the problem.**
-> Chelation lowers blood lead temporarily; if the child goes home to the same environment, the level rebounds as lead redistributes from bone. **Identify the source** (old paint in pre-1970 housing, contaminated soil, imported cosmetics and traditional remedies, some occupational and hobby exposures, and — in Australia — **lead mining and smelting communities**), involve **public health**, and **screen other children in the household**. There is **no safe blood lead level**; the harm is neurodevelopmental and largely irreversible.
-
-- **Copper (Wilson disease):** **penicillamine** (adverse effects: rash, proteinuria and nephrotic syndrome, marrow suppression, myasthenia-like syndrome, and **paradoxical initial neurological worsening**), **trientine** (better tolerated), and **zinc** (which blocks intestinal copper absorption rather than chelating). See `NEW_Investigations_General_and_Preventive.md` 0.7.
-- **Mercury and arsenic:** **dimercaprol** and **DMSA**.
-- **General cautions for the class:** chelators are **not selective** — they also remove **zinc, copper, iron and other essential trace elements**, so prolonged therapy requires monitoring and sometimes supplementation. Nephrotoxicity is a class concern, and mobilising a metal can transiently **worsen symptoms** as it redistributes.
-- **Monitoring:** blood metal levels (interpreted with the timing of chelation), renal function, FBC, LFTs, and trace elements on prolonged courses.
-
-## 0.2 Antivenoms
-
-> [!danger] **AUSTRALIAN SNAKEBITE FIRST AID: PRESSURE IMMOBILISATION BANDAGE, AND DO NOT REMOVE IT UNTIL YOU ARE SOMEWHERE THAT CAN TREAT ENVENOMING.**
-> Sources explain **why this works here and not elsewhere**: **Australian snake venoms spread predominantly via the LYMPHATIC system rather than the bloodstream**, so a broad bandage applied firmly over the bitten limb (at a pressure described as around **50–70 mmHg**) plus **immobilisation with a splint** retards venom movement. This is the reason pressure immobilisation is Australian standard practice and is **not** used for most overseas snakes.
-> **Do NOT:** wash the bite site (**venom on the skin is used by the detection kit**), cut, suck, apply a tourniquet, or try to catch or identify the snake. **Do:** keep the patient still — walking pumps the lymphatics — bring transport to the patient, and remove the bandage only in a facility with antivenom and resuscitation capability.
-
-### 0.2.1 Snake Antivenoms
-
-- **What they are:** purified **equine (horse-derived) F(ab')₂ immunoglobulin fragments** raised against the venom of specific snake groups. They **neutralise circulating venom** — they do not reverse damage already done.
-- **Australian products:** **monovalent** antivenoms against the five clinically significant immunotypes — **brown, tiger, black, death adder and taipan** — and a **polyvalent** antivenom containing antibodies to all five, used when the snake group cannot be determined.
-- **How often they are needed:** sources report antivenom is required in only about **5% of Australian snake bites** — most bites are "dry" or minimally envenomed. **The decision is based on evidence of envenoming, not on the fact of a bite.**
-- **Assessing for envenoming — what to look for and repeat:**
-  - **Coagulopathy** — **venom-induced consumption coagulopathy (VICC)** is described as a common and clinically important acute effect. **INR, aPTT, fibrinogen and D-dimer** are the key tests, repeated serially; a rising INR or unrecordable clotting is the commonest indication for antivenom.
-  - **Neurotoxicity** — ptosis and ophthalmoplegia first, then bulbar and respiratory muscle weakness (descending, and **once established it may not reverse with antivenom** — which is the argument for giving antivenom early).
-  - **Myotoxicity** — muscle pain and tenderness, **rising CK**, myoglobinuria, risk of acute kidney injury and hyperkalaemia.
-  - **Systemic symptoms** — headache, vomiting, abdominal pain, collapse, and the characteristic **early collapse or cardiac arrest** with brown snake.
-  - **Serial bloods and observation over a defined period** are mandatory even in an apparently well patient — envenoming can declare itself hours later.
-- **Snake Venom Detection Kit (SVDK):** sources describe an enzyme immunoassay detecting the five immunotypes from a **bite-site swab** (preferred) or urine, giving a visual result in about **15–25 minutes**.
-
-> [!danger] **The SVDK identifies WHICH antivenom, not WHETHER the patient is envenomed.**
-> **A positive kit does not mean the patient needs antivenom, and a negative kit does not exclude envenoming.** False positives and misreading are well described, and geographical knowledge of local snake species plus the clinical and laboratory picture often determines antivenom choice more reliably than the kit. Many Australian centres now use a **syndromic and geographic** approach — sources describe, for example, giving **one vial each of monovalent tiger and monovalent brown snake antivenom** for unidentified-snake VICC in south-east Queensland.
-
-- **Adverse effects:** **anaphylaxis and anaphylactoid reactions** — the reason antivenom is given only where **adrenaline, resuscitation equipment and staff are immediately at hand**, with the patient monitored and IV access established beforehand; and **serum sickness** at **5–14 days** — fever, rash, arthralgia, lymphadenopathy — which every patient given antivenom must be **warned about and given a plan for** before discharge (it responds to corticosteroids).
-- **Practical:** given **intravenously, diluted and infused** (not by intramuscular injection); the dose is **the same in children as in adults**, because it neutralises a fixed quantity of venom, not a body weight — **this is the one place where a paediatric dose is not reduced**, and reducing it is a serious error.
-
-### 0.2.2 Other Antivenoms
-
-- **Funnel-web spider antivenom** — for **funnel-web (Atrax/Hadronyche) envenoming**, which causes a dramatic cholinergic and catecholamine crisis (sweating, salivation, muscle fasciculation, hypertension, pulmonary oedema). **Pressure immobilisation applies** to funnel-web bites as it does to snakes. Sources note there have been **no recorded deaths since the antivenom program began in 1981**, and that severe envenoming is treated with slow diluted intravenous antivenom.
-- **Redback spider antivenom** — sources report **more patients receive redback antivenom in Australia than all other antivenoms combined**, though **fewer than 20% of bites require it**, and note the unusual property that it **can still be effective days after the bite**. Its efficacy has been genuinely contested in randomised trials, so its use is now more selective and is a decision for discussion with the PIC. **Pressure immobilisation is NOT used for redback bites** — the venom is slow-acting and local, and the bandage worsens local pain. **Apply ice and give analgesia.**
-- **Box jellyfish (Chironex) antivenom** — for major Chironex stings. **First aid: douse liberally with vinegar** to inactivate undischarged nematocysts before removing tentacles; do not use fresh water. Sources note emerging evidence for topical **copper gluconate** preparations in limiting venom-associated tissue damage. Major stings cause rapid cardiovascular collapse — resuscitation comes first.
-- **Stonefish antivenom** — for severe stonefish envenoming. **Hot water immersion** (as hot as can be tolerated without scalding) is the first-aid measure for stonefish and other venomous fish stings, since the venom is heat-labile; strong analgesia and, often, a local or regional block are needed.
-- **Irukandji syndrome** — has **no antivenom**; it is managed supportively with vinegar first aid, opioids and magnesium (the evidence for magnesium is contested), and it can cause severe hypertension and cardiac failure.
-- **Tick paralysis** (Australian paralysis tick, *Ixodes holocyclus*) — has no routinely used antivenom in current practice; management is **removal of the tick** and supportive care, with the recognised trap that **paralysis can progress for a day or more after removal**.
-- **Ciguatera, tetrodotoxin (pufferfish) and blue-ringed octopus** — **no antivenom exists**; blue-ringed octopus and tetrodotoxin cause **paralysis with preserved consciousness**, and the treatment is **airway support and ventilation until it wears off** — the patient is awake and terrified, so sedation and explanation matter.
-
-> [!warning] **Envenoming numbers in Australia are small, and that is itself a hazard.** Sources describe roughly **fewer than 50 confirmed funnel-web cases, fewer than 50 significant box jellyfish stings and fewer than 50 major stonefish stings per year**. Individual clinicians see very few, which is exactly why the **Poisons Information Centre and the on-call clinical toxicologist** should be involved in every case rather than relying on recall.
-
-## 0.3 Drugs That Chelate Iron
-*(covers build-list class: Iron Chelating Agents)*
-
-- **Two entirely different clinical settings, and they must not be conflated:**
-  1. **Acute iron poisoning** — usually a child who has swallowed adult iron tablets, or a deliberate overdose.
-  2. **Chronic transfusional iron overload** — thalassaemia major, other transfusion-dependent anaemias, and haemochromatosis where venesection is not possible.
-- **Desferrioxamine (deferoxamine)**
-  - **Mechanism:** parenteral chelator forming **ferrioxamine**, excreted renally — classically turning the urine a **"vin rosé"** colour, which is a visible marker of chelation.
-  - **Use:** **the antidote in acute iron poisoning**, and a mainstay of chronic chelation given by prolonged subcutaneous infusion.
-  - **Adverse effects:** hypotension with rapid infusion, injection site reactions, and on long-term use **ototoxicity (high-frequency hearing loss), retinal toxicity, growth retardation in children, and pulmonary toxicity**; **increased risk of *Yersinia enterocolitica* and mucormycosis infection**, because siderophore-dependent organisms exploit the chelated iron.
-  - **Monitoring on long-term therapy:** **audiometry and ophthalmological review**, growth in children.
-- **Deferasirox** — **oral, once daily**; the main reason adherence to chronic chelation improved. **Adverse effects: renal impairment (including tubulopathy), hepatic impairment, gastrointestinal upset, and gastrointestinal haemorrhage** — it carries boxed warnings for renal and hepatic failure and GI bleeding. Requires regular **renal and liver function monitoring**.
-- **Deferiprone** — **oral**; particularly effective at removing **cardiac** iron, which matters because **cardiac siderosis is the leading cause of death in thalassaemia major**. **Adverse effects: AGRANULOCYTOSIS and neutropenia** — sources confirm this as the defining risk — and **severe but reversible arthropathy**, plus GI upset.
-
-> [!danger] **A patient on deferiprone with a fever must have an urgent full blood count and be treated as potentially neutropenic until proven otherwise.**
-> Weekly FBC monitoring is standard, and patients are told to stop the drug and present immediately with fever or sore throat. **Never send a febrile patient on deferiprone home without a white cell count.**
-
-- **Combination therapy:** sources describe **triple therapy (desferrioxamine + deferasirox + deferiprone)** in transfusion-dependent β-thalassaemia with very high iron overload (studied in patients with **ferritin >3500 ng/mL**), reducing overall iron burden more than monotherapy, with a positive trend for myocardial iron. Sources also describe **monotherapy aiming to bring serum ferritin below about 1000 ng/mL**. These are specialist haematology decisions.
-
-> [!danger] **Acute iron poisoning — the traps**
-> - **Iron is NOT bound by activated charcoal.** Decontamination, where indicated, is **whole bowel irrigation**, and **an abdominal X-ray may show radio-opaque tablets** (though a negative film does not exclude ingestion, particularly with liquid preparations or chewables).
-> - **The classic deceptive course:** early gastrointestinal phase (vomiting, diarrhoea, haematemesis) → an **apparent "latent" recovery phase of up to 24 hours** → **shock, metabolic acidosis, hepatic necrosis and multi-organ failure** → late **gastric outlet and bowel strictures** weeks later. **A child who looks better a few hours after an iron ingestion has not necessarily recovered**, and this misjudgement has killed children.
-> - **Serum iron level timing matters** and must be interpreted with the clinical picture and the acid–base status.
-> - **Iron tablets and supplements are a leading cause of paediatric poisoning deaths** — and, per **CLAUDE.md rule 5**, note that all iron dosing in children is **per kilogram**; the danger here is precisely an adult-sized quantity in a small child. **Counsel every family prescribed iron about safe storage.**
-> - See [[10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia]].
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Antidotes | SUB | yes | |
-| 0.1.1 | Specific Reversal Agents / Antidotes | CLS | yes | Built as a poison→antidote table with the trap for each. No doses. |
-| 0.1.2 | Chelating Agents | CLS | yes | Heavy metals; iron chelators kept separate in 0.3 per the build list's own structure. |
-| 0.2 | Antivenoms | SUB | yes | |
-| 0.2.1 | Snake antivenoms | CLS | yes | Includes the Australian-specific pressure immobilisation rationale and the SVDK limitation. |
-| 0.2.2 | Other antivenoms | CLS | yes | Funnel-web, redback, box jellyfish, stonefish; and the envenomings with no antivenom. |
-| 0.3 | Drugs that chelate iron | SUB | yes | |
-| 0.3 | Iron Chelating Agents | CLS | yes | Same content as the subsection — the build list carries both; built once. |
-
-**Rows in file: 8 (3 SUB + 5 CLS). AMH section 4 build-list rows: 8. Section complete.**
-
----
-
-# 2 Block-5 moves merged in (2026-09-01)
-
-> [!info] **Block 5 executed for this destination.** Seven rows, all with a single named home.
-> **Two of these are deliberate duplicates on your instruction** — `M-8` paracetamol and `M-9`
-> ascending cholangitis — *"Do NOT merge or reconcile them. I want both versions in front of me."*
-> Both carry `CF-PAIR` markers naming the copy already here.
->
-> **`M-6` abdominal trauma and `K-19` burns were NOT executed** — see the report.
-
-<!-- ===== SOURCE: 03_Gastrointestinal.md ===== -->
-*Moved here from `GI_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.4 Ascending Cholangitis
-`CF-PAIR` **DELIBERATE DUPLICATE, on instruction. Both kept in full, NOT reconciled.**
-
-**D:** acute, ascending inflammation of the biliary tree.
-
-**R:** >50yo, gallstones, benign or malignant stricture, post-procedure bile duct injury (e.g. ERCP), history of primary or secondary sclerosing cholangitis
-
-**A:** gallstones stuck in the biliary tree, causing biliary obstruction.
-
-**P:** causes bacterial seeding in the gallbladder + sludge formation → haematogenous spread can lead to sepsis.
-
-**S/Smx:** Charcot's triad — fever, RUQ pain, jaundice / Reynolds' pentad (+ shock, altered mental status)
-
-**Ix:** labs (*why:* supports the diagnosis and assesses severity/sepsis; *what:* ↑inflammatory markers, LFT stasis picture — a cholestatic pattern reflecting the obstructing lesion). US (*why:* first-line imaging, identifies the obstructing stone/stricture and duct dilation; *what:* dilated common bile duct ± visible stone).
-
-**Mx:**
-- **Immediate/acute:** IV antibiotics + resuscitation (sepsis pathway given the risk of rapid deterioration — this is a genuine emergency, not just "cholecystitis with jaundice").
-- **Definitive:** ERCP within 24–48h to relieve the obstruction (sphincterotomy/stone extraction/stent) — this is the source-control step that antibiotics alone cannot substitute for.
-- **Chronic/long-term:** interval cholecystectomy once stabilised if gallstones are the cause, to prevent recurrence.
-
----
-
-## 0.10 Paracetamol Overdose
-`CF-PAIR` **DELIBERATE DUPLICATE, on instruction. `A5 §0.1 The Poisoned Patient` is here already. Both kept in full and NOT reconciled — you asked to see both versions.**
-
-> [!info] Verified against the 2020 Australian and New Zealand paracetamol poisoning guidelines (Chiew et al., MJA — endorsed by eTG and all Australian/NZ Poisons Information Centres), Aug 2026 — **Australia uses a materially different NAC infusion regimen from the UK's 3-bag "SNAP" protocol** — this is a genuine, clinically important difference, not just terminology. Use the AU 2-bag regimen below.
-
-**Assessment steps:**
-1. Time of overdose
-2. Amount ingested
-3. Weigh patient → ≥40kg vs <40kg (if <40kg, look up local paediatric toxicology resource)
-4. Calculate mg/kg
-
-**Risk factors for hepatotoxicity:** patients taking enzyme-inducing drugs (rifampicin, phenytoin, carbamazepine, chronic alcohol excess, St John's wort), malnourished patients. Acute alcohol intake may be protective.
-
-**Staggered/repeated supratherapeutic overdose:** discuss with the Poisons Information Centre (13 11 26) or a clinical toxicologist — management differs from a single acute ingestion and is not simply "start treatment early" the way the source note implies; see the RCH/ACI algorithms for the specific repeated-supratherapeutic-ingestion pathway.
-
-**Timing-based pathway (paracetamol treatment nomogram, acute immediate-release ingestion with known time):**
-- **<8h:** activated charcoal if presenting within 1–2h and no contraindication; take paracetamol level at (or after) 4h post-ingestion — plot against the nomogram treatment line; start NAC if on/above the line, or immediately (without waiting for the level) if the level won't be available within 8h of ingestion or the patient presents ≥8h post-ingestion.
-- **≥8h or unknown time/modified-release/repeated supratherapeutic ingestion:** discuss with the Poisons Information Centre — these scenarios need individualised management, not the standard nomogram pathway. Note increased risk of liver injury with any delay >8h in starting NAC where indicated.
-- Also start/continue NAC regardless of level if: acute liver injury (ALT >50 U/L) at presentation, or paracetamol level more than double the nomogram line (discuss increased NAC dosing with the Poisons Information Centre for levels ≥2x the line).
-
-> [!info] Two-bag acetylcysteine (NAC) regimen (replaced the old 3-bag regimen in the 2020 AU/NZ update, reducing adverse reactions)
-> - **Bag 1:** 200 mg/kg over 4 hours
-> - **Bag 2:** 100 mg/kg over 16 hours
-> - Total: 300mg/kg over 20 hours (note this total dose matches the old regimen, but the AU infusion structure/duration — 2 bags over 20h — differs from the UK's 3-bag-over-12h "SNAP" structure; don't mix the two protocols)
-> - Repeat ALT ~2h before completion of the infusion in all patients; continue NAC if paracetamol level >10mg/L (66 µmol/L), or ALT is elevated (>50 U/L) and rising.
-> - "NAC" is not an approved abbreviation on Australian charts — write acetylcysteine in full.
-
-**N-acetylcysteine anaphylactoid reaction:** pause infusion; antihistamine (e.g. promethazine or another non-sedating/sedating antihistamine per local protocol); salbutamol nebuliser if bronchospasm; ondansetron for nausea/vomiting; restart treatment (often at a reduced rate) once the patient settled.
-
-### 0.10.1 Liver transplantation criteria (King's College Criteria)
-- Arterial pH <7.3, 24h after ingestion
-- OR PT >100s + serum creatinine >300 µmol/L + grade III or IV encephalopathy
-
----
-
-<!-- ===== SOURCE: 04_Neurology.md ===== -->
-*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS)
-
-> [!note] Gap-filled — genuinely absent from any file despite being one of the classic contrasting-pair topics in medicine (both cause hyperthermia + altered mental status + muscle rigidity from different drug mechanisms, and distinguishing them is a frequently-tested skill), and despite haloperidol/antipsychotic use for delirium being covered immediately above, making NMS a directly relevant differential. Built together as a comparison, in the same spirit as the Warm vs Cold AIHA and Pemphigus vs Bullous Pemphigoid comparisons elsewhere in this project.
-
-Both are toxidromes causing the triad of **hyperthermia, altered mental status, and neuromuscular abnormality** — but with different causative drug classes, timing, and specific neuromuscular findings, which is exactly what makes distinguishing them a classic exam skill.
-
-| | Serotonin syndrome | Neuroleptic malignant syndrome (NMS) |
-|---|---|---|
-| **A/P** | Excess serotonergic activity — typically from combining serotonergic drugs (e.g. an SSRI/SNRI plus an MAOI, tramadol, or another serotonergic agent), or from a single-drug overdose | Dopamine receptor blockade — typically from antipsychotics (both typical and atypical, including haloperidol used for delirium above), or from abrupt withdrawal of a dopaminergic drug (e.g. levodopa in Parkinson's disease) |
-| **Onset** | Rapid — typically within 24h of starting/increasing the causative drug or combination | Slower — typically days, sometimes 1–2 weeks after starting/increasing the causative antipsychotic |
-| **Neuromuscular findings** | **Hyperreflexia and clonus** (particularly lower-limb, and particularly inducible/spontaneous clonus is a relatively specific finding), tremor, myoclonus | **"Lead-pipe" rigidity** (uniform, non-cogwheel rigidity throughout range of motion) with **reduced or normal reflexes** (a genuinely important distinguishing point from serotonin syndrome's hyperreflexia) |
-| **Other features** | Autonomic instability (tachycardia, hypertension, diaphoresis, diarrhoea), agitation/confusion, dilated pupils | Autonomic instability (similar pattern), altered mental status ranging from confusion to stupor, diaphoresis |
-| **Ix** | Clinical diagnosis (Hunter Serotonin Toxicity Criteria are sometimes used) — no specific confirmatory test; bloods may show raised CK if significant rigidity/agitation present, though typically less markedly elevated than in NMS | Clinical diagnosis; **CK is typically markedly elevated** (often >1000, sometimes much higher, reflecting more sustained rigidity) — a useful supporting distinguishing feature from serotonin syndrome's more modest CK elevation; raised WCC is also common, sometimes prompting an incorrect initial diagnosis of infection |
-| **Mx** | **Immediate:** stop the causative drug(s) — the single most important step for both conditions; supportive care (cooling for hyperthermia, IV fluids, benzodiazepines for agitation/to reduce muscle activity and associated hyperthermia). **Definitive:** cyproheptadine (a serotonin antagonist) for moderate-severe cases not responding to supportive care alone. **Course:** typically resolves within 24–72h of stopping the causative drug, given the shorter onset also reflects a shorter, more self-limiting course once the drug is stopped | **Immediate:** stop the causative antipsychotic (or reinstate the dopaminergic drug if NMS was precipitated by abrupt withdrawal) — again the single most important step; supportive care (cooling, IV fluids, benzodiazepines). **Definitive:** dantrolene (a direct-acting skeletal muscle relaxant) or bromocriptine (a dopamine agonist, replacing the blocked dopaminergic tone) for severe cases. **Course:** typically slower to resolve than serotonin syndrome (days to over a week), consistent with its slower onset |
-| **Complications if untreated** | Rhabdomyolysis, DIC, multi-organ failure — both conditions can be fatal if unrecognised and untreated, which is the underlying reason distinguishing and promptly treating either matters | Rhabdomyolysis (often more pronounced given the higher CK), acute kidney injury from myoglobin release, DIC, multi-organ failure |
-
-> [!tip] The reflex/tone pattern is the single most useful bedside discriminator once the trigger-drug history has narrowed the differential: **hyperreflexia and clonus point toward serotonin syndrome; reduced reflexes with lead-pipe rigidity point toward NMS** — genuinely opposite findings despite both conditions sharing the hyperthermia-plus-altered-mental-status-plus-rigidity picture at a glance.
-
----
-
-## Opioid Toxicity
-`CF-PAIR` **A second opioid entry exists in this file. Both kept in full, NOT reconciled — `Psychiatry 14a-1 ## Opioid misuse` is the third, and it already defers to this one for the toxidrome.**
-
-> [!note] Gap-filled — mentioned in passing as a cause of Type II respiratory failure in [[06_Metabolic_Medicine_and_Endocrinology]] and as a naloxone-reversible cause of reduced consciousness in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), but never built as its own entry, despite the extensive opioid content already established in [[10_11c_Oncology_-_Palliative_Care_Prescribing]] (opioid conversion, dosing) that this connects to directly.
-
-- **A/P:** excess opioid receptor agonism (μ-receptor predominantly) causing CNS and respiratory depression — can occur from prescribed opioid accumulation (e.g. in renal impairment, or rapid dose escalation without adequate tolerance), accidental or intentional overdose, or opioid use disorder-related overdose (particularly with illicit opioids of variable/unpredictable potency).
-- **S/Smx — the classic opioid toxidrome triad:** **respiratory depression** (reduced rate and/or depth of breathing — the feature most directly responsible for mortality), **pinpoint (miotic) pupils**, and **reduced conscious level** — the combination of all three is highly suggestive, though any one feature alone has a broader differential. Other features: reduced bowel sounds/constipation, hypotension and bradycardia in severe toxicity, hypothermia.
-- **Ix:** primarily a clinical diagnosis based on the toxidrome above and history/collateral information (empty pill packets, known opioid prescription, drug paraphernalia) — **do not delay treatment (naloxone) to await any test result** in a patient with respiratory depression, given this is a time-critical, reversible cause of death. Blood glucose (*why:* hypoglycaemia is a differential for reduced consciousness and should always be excluded alongside opioid toxicity, per the same general principle in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), not repeated here; *what:* excludes hypoglycaemia as a co-existing or alternative cause). ABG (*why:* confirms and quantifies the respiratory depression/hypercapnia — see [[06_Metabolic_Medicine_and_Endocrinology]] for the Type II respiratory failure pattern this produces, not repeated here; *what:* hypoxaemia with hypercapnia in significant toxicity).
-- **Mx:**
-  - **Immediate/acute:** **naloxone** (IV, IM, subcutaneous, or intranasal depending on setting and access) — a competitive opioid receptor antagonist that rapidly reverses respiratory depression; supportive airway/breathing management (per [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient)) while naloxone takes effect or if inadequately responsive.
-  - **Definitive:** **naloxone's duration of action is often shorter than that of the causative opioid**, particularly long-acting or modified-release opioids — meaning **re-sedation after an initial response is a genuine, well-recognised risk**, and patients require a period of monitoring/observation after naloxone reversal, not single-dose treatment and immediate discharge; repeat naloxone dosing or an infusion may be needed for longer-acting opioids.
-  - **Chronic/long-term:** for opioid use disorder-related overdose specifically, this is an opportunity for harm-reduction discussion and referral (opioid substitution therapy, take-home naloxone programs for the patient/family, drug and alcohol service referral) — genuinely important given overdose survivors remain at high risk of a future, potentially fatal, event without intervention.
-
-> [!tip] Naloxone reversal in a patient physically dependent on opioids can precipitate acute, uncomfortable (though not typically life-threatening) opioid withdrawal — titrate the dose to reverse dangerous respiratory depression rather than to fully "wake the patient up," particularly in a known opioid-dependent patient, to avoid unnecessarily severe precipitated withdrawal while still achieving the safety-critical goal.
-
----
-
-<!-- ===== SOURCE: 14a-2_Psych_-_Overdose_and_Poisoning_Management.md ===== -->
-*Moved here from `Psychiatry_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.1 Overdose / poisoning — management by agent
-
-| Agent | Management |
-|---|---|
-| **Benzodiazepines** | Antidote: flumazenil. Otherwise, supportive management. |
-| **Beta-blockers** | If HR <40 or unstable: atropine, glucagon. |
-| **Carbon monoxide** | 100% oxygen; hyperbaric oxygen. |
-| **Cyanide** | Hydroxocobalamin (vitamin B12); or combination of amyl nitrite, sodium nitrite, and sodium thiosulfate. |
-| **Digoxin** | Digibind; correct potassium levels and manage arrhythmias. |
-| **Ethylene glycol & methanol** | Fomepizole (inhibits alcohol dehydrogenase); ethanol if fomepizole unavailable; haemodialysis if refractory. |
-| **Heparin** | Protamine sulfate. |
-| **Iron** | Desferrioxamine (iron chelating agent). |
-| **Lead poisoning** | Dimercaprol, calcium edetate. |
-| **Organophosphates (insecticides)** | Atropine ± pralidoxime. |
-| **Paracetamol** | See [[03_Gastrointestinal]] Paracetamol Overdose (N-acetylcysteine, activated charcoal). |
-| **Salicylates (e.g. aspirin)** | IV bicarbonate (urinary alkalinisation); charcoal if presenting early; haemodialysis if severe. |
-| **Tricyclic antidepressants** | IV bicarbonate — ↓risk of seizures and arrhythmias. |
-| **Lithium** | Volume resuscitation (IV fluids); haemodialysis if severe; ± IV sodium bicarbonate. |
-| **Warfarin** | See [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Warfarin — management of high INR (Vitamin K, PCC, FFP, etc). |
-
-## 0.2 Digoxin toxicity — detail
-
-- **S/Smx:** generally unwell, anorexia, confusion, yellow-green vision, arrhythmias, gynaecomastia.
-- Toxicity may be precipitated by hypokalaemia (and ↓Mg, ↑Ca, ↑Na, acidosis), renal failure, MI, hypoalbuminaemia, hypothyroidism.
-- **Drug-drug interactions:** quinidine, verapamil, diltiazem, spironolactone, ciclosporin, thiazides, loop diuretics.
-
-## 0.3 Salicylate toxicity — detail
-`CF-PAIR` **`[[Endocrine and metabolics_merged]] F0-2 §0.8 Mixed Acid-Base Disorder — Salicylate Toxicity` covers the same poisoning from the acid-base side. Both kept in full.**
-
-- **S/Smx:** respiratory alkalosis (secondary to hyperventilation), then metabolic acidosis; tinnitus; GI upset/bleeding; seizures; coma.
-
-## 0.4 Tricyclic antidepressant toxicity — detail
-`CF-PAIR` **`A5 §0.2 TCA Overdose` is here already. Both kept in full, NOT reconciled.**
-
-> [!danger] If arrhythmias develop, DO NOT use class 1a and 1c antiarrhythmics; avoid class 3 drugs.
-
-
-> [!note] The Corpus B psychiatry sources arrived here on 2026-09-01
-> **`N1`–`N8` were cut from `Neuro_merged.md:3829–5452` (1,624 lines) and inserted here**, between
-> the Corpus A psychiatry files and the drug files, matching the A → B → NEW ordering used by every
-> other merged file. They map onto the Corpus A files above eight for eight.
-> **The `[[D1]]`–`[[D7]]` wikilinks below still resolve** — they name the source file, which is
-> unchanged — but **36 of them are now cross-file**, pointing into [[Neuro_merged]].
-
-<!-- ===== SOURCE: 10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia.md ===== -->
-*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## Lead poisoning
-
-- **S/Smx:** abdominal pain, peripheral neuropathy (mainly motor), neuropsychiatric features, fatigue, constipation; blue lines on the gum margin (20% of adult patients, rare in children).
-- **Ix:** blood lead levels; blood films will show basophilic stippling.
-- **Mx:** chelating agents — DMSA, D-penicillamine, EDTA, dimercaprol.
-
-<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
-*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## Methaemoglobinaemia
-
-- **D:** Hb which has been oxidised from Fe²⁺ to Fe³⁺, causing tissue hypoxia.
-- **Causes:**
-  - Congenital — HbM, HbH, NADH methaemoglobin reductase deficiency.
-  - Acquired — drugs (sulphonamides, nitrates, dapsone, sodium nitroprusside, primaquine); chemicals (e.g. aniline dyes).
-- **S/Smx:** chocolate brown blood; cyanosis; dyspnoea, anxiety, headache. Severe: acidosis, arrhythmias, seizures, coma.
-
-> [!info] "Refractory hypoxaemia" — pulse oximetry constant at 85%; pO2 on ABG will be falsely normal (the machine cannot differentiate between normal Hb and metHb). A saturation gap should hint towards a haemoglobinopathy.
-
-- **Mx:** ascorbic acid if congenital; IV methylene blue if acquired.
