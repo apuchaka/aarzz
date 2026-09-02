@@ -2410,8 +2410,8 @@ Review technique and adherence, treat coexisting asthma, and consider immunother
 
 > [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
 > **`Derm_merged 09_01 ## Acute urticaria and angioedema` covers the same topic** — and
-> **`Derm_merged.md:2242` routes readers HERE**, saying *"Urticaria, anaphylaxis and drug reaction
-> labelling → [[K4]] 0.2–0.3"*, while this file does not point back.
+> **`Derm_merged G6 §0.6 Cyanosis and Abnormal Skin Colour` routes readers HERE**, its closing cross-reference line saying *"Urticaria, anaphylaxis and drug reaction
+> labelling → [[K4]] 0.3, 0.6"*, while this file does not point back.
 > `Heme Onc_merged 10_09b ## Hereditary angioedema` is a third treatment.
 > **`K4`'s own referrers are dermatological and respiratory (Derm ×2, Resp, Paediatrics) — none from
 > infectious disease.**

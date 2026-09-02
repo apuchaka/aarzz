@@ -276,8 +276,8 @@ aliases:
 
 > [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
 > **`Infectious Disease_merged K4 §0.6 Urticaria, Angioedema and Mast Cell Disorders` covers the same
-> topic** — and **`Derm_merged.md:2242`, in this file, routes readers AWAY from here**, saying
-> *"Urticaria, anaphylaxis and drug reaction labelling → [[K4]] 0.2–0.3"*.
+> topic** — and **`G6 §0.6 Cyanosis and Abnormal Skin Colour`, in this file, routes readers AWAY from here**, its closing cross-reference line saying
+> *"Urticaria, anaphylaxis and drug reaction labelling → [[K4]] 0.3, 0.6"*.
 > **So this file points at ID for content this file also holds, and ID holds it without pointing back.**
 > `Heme Onc_merged 10_09b ## Hereditary angioedema` is a third treatment, and
 > `Emergency F0-1 §0.9` and `NEW_Drugs_01` hold the anaphylaxis half.

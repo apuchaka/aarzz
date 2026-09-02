@@ -55,7 +55,7 @@ in the vault (1 of 295) concatenated into two merged docs.** Needs a single home
 ### Misplaced investigations (not self-declared — found by reading)
 | ID | Section | L | → | Why |
 |---|---|---|---|---|
-| E-7 | `## 0.7 G6PD Assay` | 3597 | **Heme Onc** | a red-cell enzyme assay in an endocrine investigations file. `Derm_merged:2242` already routes *"G6PD deficiency and methylene blue → [[J2]] 0.2"*, i.e. to haematology **✅ EXECUTED 2026-09-01 → `Heme Onc_merged.md` (block 5)** |
+| E-7 | `## 0.7 G6PD Assay` | 3597 | **Heme Onc** | a red-cell enzyme assay in an endocrine investigations file. `Derm_merged G6 §0.6 Cyanosis and Abnormal Skin Colour` already routes *"G6PD deficiency and methylene blue → [[J2]] 0.2"*, i.e. to haematology **✅ EXECUTED 2026-09-01 → `Heme Onc_merged.md` (block 5)** |
 | E-8 | `## 0.8 Carnitine Levels` · `## 0.9 Plasma Amino Acid Screen` | 3615, 3632 | **Paediatrics** | inherited metabolic disease. `Pediatrics_merged` owns `## 15_17a Approach to Inherited Metabolic Disease` and `## 15_17b Glycogen Storage Disorders, PKU, Lysosomal Storage Diseases` **✅ EXECUTED 2026-09-01 → `Pediatrics_merged.md` (block 5)** |
 | E-9 | `## 0.4 Paediatric Diabetic Ketoacidosis` (F0-2) | 1173 | **arguable — Paediatrics** | `Pediatrics_merged §15_16b Diabetes Mellitus, MODY, DKA` exists. **CLAUDE.md rule 5 territory** — this is where paediatric absolute quantities live. **Do not move without checking the fluid figures survive** |
 
