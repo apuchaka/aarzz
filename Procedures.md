@@ -1,15 +1,24 @@
 ---
 block: Shared — Procedures
-source: created 2026-09-01 as the destination for procedure content currently split across five files; EMPTY pending approval by destination
+source: created 2026-09-01 as the destination for procedure content currently split across five files; populated 2026-09-01 by C2 / AXIS-2 from five sources, each under its own SOURCE divider
 aliases:
   - "14_05d_Psych_-_Electroconvulsive_Therapy"
 ---
 
 # Procedures
 
-> [!danger] This file is a scaffold. No content has been moved into it.
-> It exists so the destination is named and recorded. Everything below is a manifest of what is
-> **proposed** to arrive, not what is here.
+> [!note] **This file was created empty as a scaffold and was FILLED on 2026-09-01 by C2 / AXIS-2.**
+> The manifest below is the record of what was proposed; everything it names has since arrived,
+> verbatim, under a `SOURCE:` divider naming its origin file. (Until 2026-09-02 this box still read
+> "No content has been moved into it", which was false the moment the merge ran.)
+
+> [!warning] **THREE SECTION NUMBERS ARE USED TWICE IN THIS FILE. Always read a `§0.x` here with its source block named.**
+> Each block keeps its origin file's numbering — CLAUDE.md §1.14 forbids renumbering — so the collisions are:
+> **`§0.2`** — `GER8 §0.2 Gastroscopy and Oesophagoscopy` · `03a §0.2 Airway Adjuncts`
+> **`§0.3`** — `GER8 §0.3 Gastrografin and Contrast Studies` · `03a §0.3 Regional / Local Anaesthesia`
+> **`§0.6`** — `GER8 §0.6 Arthroscopy and Joint Procedures` · `H1 §0.6 Renal Biopsy`
+> No inbound reference is ambiguous today — every one names the section title as well — but a bare
+> `[[Procedures]] 0.6` would be unresolvable, so write the block prefix.
 
 > [!note] Why this file exists
 > Procedures are currently in **five files**, and the axis has no home:
