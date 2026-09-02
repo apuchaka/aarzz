@@ -14,9 +14,6 @@ status: standalone — not yet cross-referenced into the corpus
 
 ---
 
-# Part 1 — Exam Manoeuvres
-
-# Part 2 — Procedures
 
 ## Build status
 

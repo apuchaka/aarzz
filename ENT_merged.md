@@ -1737,37 +1737,6 @@ Speech pathology for both communication and swallowing. Modified diets and fluid
 > [!danger] **The referral rule, and it is the reason this topic is Tier 2 rather than Tier 3.** **Hoarseness persisting beyond about three weeks without an obvious resolving cause requires urgent ENT referral for laryngoscopy**, and sources agree on this threshold (some state two to three weeks). The threshold falls further — refer sooner — in the presence of **smoking or alcohol history, a neck lump, dysphagia, odynophagia, unilateral otalgia with a normal ear, haemoptysis, stridor or weight loss**.
 > **The specific documented failure mode is attributing hoarseness in a smoker to the smoking itself** rather than treating smoking as the reason to look at the larynx sooner. That single error accounts for a substantial share of delayed laryngeal cancer diagnoses.
 
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| T1 | 0 | No T1 topics in this category |
-| **T2** | 4 | **All 4 built** — Acute Sore Throat, Acute Ear Pain, Acute Epistaxis, Acute Hoarseness |
-| T3 | 29 | Not built |
-
-## Topics skipped in this category
-
-All six skips are T3.
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Epistaxis** | `## Epistaxis` | `13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_.md` | Exact |
-| **Sore Throat** | `## Sore throat (pharyngitis, tonsillitis, laryngitis)` | `13_05a_ENT_-_Sore_Throat_and_Tonsillitis.md` | Exact |
-| **Trismus** | `## Trismus` | `13_07c_ENT_-_Dental_and_Teeth_Problems.md` | Exact |
-| **Hearing Loss** | `## Hearing loss — differential diagnosis` | `13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo_(DDx_Charts).md` | Partial |
-| **Tinnitus** | `## Tinnitus — differential diagnosis` | `13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo_(DDx_Charts).md` | Partial |
-| **Hoarseness** | `## Dysphonia (hoarseness)` | `13_06a_ENT_-_Dysphonia_and_HNSCC.md` | Partial — the topic name is the parenthetical in the header |
-
-> [!note] **The T2 topics `Acute Sore Throat`, `Acute Epistaxis` and `Acute Hoarseness` were built despite the bare-topic versions being skipped**, because the literal tiered topic strings ("Acute ...") match no header, and the acute presentation is a distinct build product from the condition entry. **Expect overlap with the three existing entries and decide ownership on review.**
-
-### Near-miss deliberately **not skipped**
-
-| Topic | Header it partially matched | Why |
-|---|---|---|
-| **Rhinorrhoea** (T3) | `### CSF rhinorrhoea` | CSF rhinorrhoea is a specific post-traumatic entity, not the symptom of a runny nose. False positive. |
-| **Facial Swelling** (T3) | `### Facial swellings due to dental infection` | The existing header is scoped to dental causes only; the presentation is broader. |
 
 ---
 
@@ -1886,20 +1855,4 @@ All six skips are T3.
 
 > [!danger] **Do not ignore the red flags in the mouth and throat:** a **persistent ulcer beyond about 3 weeks, an indurated or fixed lesion, unexplained hoarseness, dysphagia, otalgia with a normal ear, a neck lump, or leukoplakia/erythroplakia** — these are **head and neck cancer until proven otherwise** and require urgent specialist referral, not another mouthwash. **Trismus, drooling, "hot potato" voice, stridor or systemic toxicity** signal **quinsy, epiglottitis or deep neck space infection** — airway emergencies. See [[13_06a_ENT_-_Dysphonia_and_HNSCC]] and [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]].
 
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for ear infections | SUB | yes | Carries the aminoglycoside-drops-and-perforation ototoxicity warning and the Australian lower antibiotic threshold for Aboriginal and Torres Strait Islander children. |
-| 0.2 | Drugs for ear wax | SUB | yes | |
-| 0.2.1 | Cerumenolytics | CLS | yes | |
-| 0.3 | Drugs for mouth and throat conditions | SUB | yes | Carries the miconazole oral gel–warfarin interaction with its INR figures. |
-| 0.4 | Drugs for rhinitis and sinusitis | SUB | yes | |
-| 0.4.1 | Corticosteroids (intranasal) | CLS | yes | Spray technique given with the 3.6-fold adverse-event figure for septal aiming. |
-| 0.4.2 | Other drugs for rhinitis and sinusitis | CLS | yes | |
-| 0.5 | Intranasal decongestants | SUB | yes | Rhinitis medicamentosa and the ~5-day limit. |
-| 0.5.1 | Oral decongestants | CLS | yes | Includes the Australian pseudoephedrine restriction and the combination-product paracetamol overdose route. |
-| 0.6 | Drugs for other nasal conditions | SUB | yes | |
-
-**Rows in file: 10 (6 SUB + 4 CLS). AMH section 9 build-list rows: 10. Section complete.**
 

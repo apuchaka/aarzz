@@ -3805,37 +3805,6 @@ Different inheritance patterns; can affect Schwann cells and myelin (CMT1) or ax
 
 > [!warning] **HINTS is a rule-in/rule-out tool with strict conditions of use, and using it outside them is unsafe.** It applies **only** to a patient with **continuous, ongoing vertigo with nystagmus** — not to BPPV, not to an episodic history, and **not to a patient whose symptoms have resolved**. Applied to the wrong patient it gives false reassurance. Its reported accuracy also depends heavily on examiner training; if you are not confident performing it, the correct action is to image and escalate rather than to record a reassuring HINTS.
 
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 4 | **All 4 built** — Acute Confusion, Reduced Consciousness, Acute Focal Neurological Deficit, Thunderclap Headache |
-| **T2** | 4 | **All 4 built** — Acute Vertigo, Acute Facial Weakness, Acute Neuromuscular Weakness, Acute Sensory Disturbance |
-| T3 | 45 | Not built |
-
-## Topics skipped in this category
-
-Eight Neurology topics matched an existing corpus header and were **not built**. All are T3, so none affects Tier 1 completeness.
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Vertigo** | `### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuronitis...)` | `04_Neurology.md` | Exact |
-| **Vertigo** | `## Vertigo` | `13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo_(DDx_Charts).md` | Exact — matched in two files |
-| **Seizure** | `## Seizures and Epilepsy` | `04_Neurology.md` | Partial — recovered only after the plural fix |
-| **Focal Seizure** | `### Focal Seizures` | `04_Neurology.md` | Exact after plural fold |
-| **Generalised Seizure** | `### Generalised Seizure Subtypes` | `04_Neurology.md` | Partial |
-| **Febrile Seizure** | `### Febrile seizures/convulsions` | (paediatric file) | Partial |
-| **Positional Vertigo** | `### Benign paroxysmal positional vertigo (BPPV)` | `13_03_ENT_-_Deafness_and_Vertigo_Conditions.md` | Partial |
-| **Restless Legs** | `### Restless Legs Syndrome` | `04_Neurology.md` | Partial |
-| **Dizziness** | `## Vertigo and Dizziness` | `History-Taking.md` | Partial — combined header |
-
-### Near-misses deliberately **built** rather than skipped — please check these
-
-| Topic | Header it partially matched | Why built anyway |
-|---|---|---|
-| **Headache** (T3, not yet built) | `Cluster Headache`, `Tension Headache`, `Medication Overuse Headache`, `Other Headache Causes` (`04_Neurology`) | All four are **specific headache types**. There is no general "approach to headache" header. Flagged for your decision when T3 is reached. |
-| **Coma** (T3, not yet built) | `Glasgow Coma Scale (GCS)`, `Myxoedema Coma` | A scoring tool and a specific endocrine emergency — neither is an approach to coma. |
-| **Cognitive Impairment** (T3, not yet built) | `Mild Cognitive Impairment (MCI)` | MCI is a specific diagnostic entity, not the presentation. |
 
 ---
 

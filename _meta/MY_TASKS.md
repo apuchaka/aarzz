@@ -1,0 +1,5 @@
+MSK_merged.md:139 (deleted in this pass, recoverable at eab58e0) — build table flagged that T3 `Back Pain` will overlap the T1 Acute Back Pain build and `### Back pain red flags → urgent MRI` in 11_01 — decide which owns the approach to back pain before T3 is built.
+MSK_merged.md:217 (deleted in this pass, recoverable at eab58e0) — build table flagged that the T2 `Acute Joint Pain` build overlaps `## Joint Pain (Generalised and Local)` in History-Taking.md — decide ownership.
+Neuro_merged.md:3832 (deleted in this pass, recoverable at eab58e0) — build table flagged three T3 near-misses built anyway: Headache (only specific headache types exist, no general approach), Coma, Cognitive Impairment — decide when T3 is reached.
+ENT_merged.md:1758 (deleted in this pass, recoverable at eab58e0) — build table flagged that Acute Sore Throat, Acute Epistaxis and Acute Hoarseness were built despite existing condition entries in 13_04, 13_05a and 13_06a — decide ownership.
+OBGYN_merged.md:3191 (deleted in this pass, recoverable at eab58e0) — build table flagged that T3 `Vaginal Bleeding` will overlap the T1 `Acute Vaginal Bleeding` built in this file — decide ownership.

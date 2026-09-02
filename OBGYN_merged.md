@@ -80,20 +80,6 @@ aliases:
 
 > [!danger] **The rule that prevents the deaths in this presentation:** **any woman of reproductive age with abdominal pain, collapse, or shoulder-tip pain has an ectopic pregnancy until a pregnancy test is negative or an intrauterine pregnancy is confirmed** — regardless of contraception, reported sexual history, or how well she looks. A negative history of amenorrhoea does not exclude it, because bleeding from an ectopic is frequently mistaken for a period.
 
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — First-Trimester Pain |
-| T3 | 7 | Not built |
-
-## Topics skipped in this category
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Reduced Fetal Movements** (T3) | `## Reduced fetal movements (RFM)` | `16_10-13_Labour_and_Delivery.md` | Exact |
 
 
 <!-- ===== SOURCE: O1_Early_Pregnancy.md ===== -->
@@ -3084,30 +3070,6 @@ Delivery of the placenta.
 
 **Alt:** **CTG / non-stress test** alone; **umbilical artery, MCA and ductus venosus Doppler**; serial **growth scans**; contraction stress test (rarely used in Australia); maternal monitoring of fetal movements.
 
----
-
-## Build status
-
-| # | Item | Built | Notes |
-|---|---|---|---|
-| 0.1 | Cervical Screening Abnormality | yes | Built as the Cervical Screening Test and its management pathway. |
-| 0.2 | Liquid Cytology | yes | |
-| 0.3 | Genital / Cervical Swab Panel | yes | |
-| 0.4 | Hormone Panel | yes | Reference intervals omitted — assay- and cycle-phase-specific. |
-| 0.5 | Prenatal Screening Panel | yes | |
-| 0.6 | Chorionic Villus Sampling | yes | Single procedure-loss figure omitted — retrieved values ranged widely. |
-| 0.7 | Amniocentesis | yes | As above; the 0.6% 14-day total loss figure is quoted with its limitation stated. |
-| 0.8 | Cordocentesis | yes | |
-| 0.9 | Kleihauer-Betke Test | yes | |
-| 0.10 | Ferning Test | yes | Built jointly with Nitrazine as one PROM entry — the two are performed on the same specimen at the same examination and are not separable clinically. |
-| 0.10 | Nitrazine Test | yes | As above. |
-| 0.11 | Fetal Fibronectin | yes | |
-| 0.12 | Biophysical Profile | yes | |
-| — | C-Spine X-Ray | **deferred** | **Miscategorised** in the build list under Gynaecology. It is an orthopaedic/trauma imaging study — deferred to `NEW_Investigations_Orthopaedics_Neurology_and_Other.md` (Part A file 11). |
-| — | Compression Test | **deferred** | **Miscategorised** under Gynaecology. This is the cervical **Spurling compression** exam manoeuvre — deferred to `NEW_Exam_Manoeuvres_and_Procedures.md` (Part B file 12). |
-| — | Distraction Test | **deferred** | **Miscategorised** under Gynaecology. Cervical **distraction** exam manoeuvre — deferred to Part B file 12 with Compression Test. |
-
-**Items in file: 13 entries covering 13 build-list rows. Build-list O&G investigation rows: 16; 3 deferred as miscategorised, with destinations recorded above.**
 
 
 <!-- ===== SOURCE: NEW_Gynaecology_and_Reproductive.md ===== -->
@@ -3163,32 +3125,6 @@ Delivery of the placenta.
 
 > [!warning] **Pelvic inflammatory disease is under-diagnosed and under-treated, and the threshold for empirical treatment is deliberately low** — because the tests are insensitive and the consequences of missing it (tubal infertility, chronic pelvic pain, ectopic pregnancy) are long-term and irreversible. **Treat on clinical suspicion in a sexually active young woman with pelvic pain and cervical motion, uterine or adnexal tenderness, once pregnancy and surgical causes have been considered — do not wait for swab results.** **The antibiotic regimen is deliberately omitted** — Australian STI management guidelines are egress-blocked, and the regimen changes with resistance patterns. Use the current Australian STI guidelines and arrange **partner notification and testing**, which is part of the treatment, not an afterthought.
 
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — Acute Vaginal Bleeding |
-| **T2** | 1 | **Built** — Acute Pelvic Pain |
-| T3 | 22 | Not built |
-
-## Topics skipped in this category
-
-All eight skips are T3.
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Chronic Pelvic Pain** | `## Chronic pelvic pain` | `17_05_PID__Endometriosis__Fibroids.md` | Exact |
-| **Dyspareunia** | `### Dyspareunia` | `17_05_PID__Endometriosis__Fibroids.md` | Exact |
-| **Menorrhagia** | `## Menorrhagia` | `17_02_Menorrhagia__PMS__Menopause__HRT.md` | Exact |
-| **Primary Amenorrhoea** | `## Primary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Exact |
-| **Secondary Amenorrhoea** | `## Secondary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Exact |
-| **Amenorrhoea** | `## Primary amenorrhoea` + `## Secondary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Partial — **judgement call**: the bare topic matches no header, but both sub-forms exist as their own entries. Overrule me if you want a general Amenorrhoea approach built. |
-| **Abnormal Uterine Bleeding** | `## Abnormal Uterine Bleeding — Approach and DDx` | `17_02_Menorrhagia__PMS__Menopause__HRT.md` | Partial |
-| **Vaginal Discharge** | `## Vaginal discharge — differential diagnosis` | `17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse.md` | Partial |
-
-> [!note] **`Vaginal Bleeding` (T3) is a separate list topic from the T1 `Acute Vaginal Bleeding` built here** and matched no header; it remains unbuilt and will overlap with this entry when reached.
 
 
 <!-- ===== SOURCE: O4_Abnormal_and_Menstrual_Bleeding.md ===== -->
@@ -5530,17 +5466,6 @@ General advice: use barrier method (e.g. condoms) until pills taken 7 days in a 
 
 > [!warning] **The prolactin threshold that "confirms" a prolactinoma is deliberately omitted.** The figure available in snippets (>200 ng/mL) is in **US mass units**; Australian laboratories report prolactin in **mIU/L**. Converting it myself would be my own arithmetic presented as a sourced threshold, and no Australian-unit figure met the three-source bar under the egress limitation. Interpret against **the reporting laboratory's own reference range and units**, which is what an intern actually does at the bedside. This is the standard AU-localisation trap — a US number that looks authoritative and is wrong by a factor in Australian units.
 
----
-
-## Topics skipped in this category
-
-None — all three topics failed the header check and were built.
-
-| Topic | Header searched | Result |
-|---|---|---|
-| Breast Lump | `Breast Lump` (+ plural fold) | No `##`/`###` match — **BUILT** |
-| Breast Pain | `Breast Pain` (+ plural fold) | No `##`/`###` match — **BUILT** |
-| Galactorrhoea | `Galactorrhoea` (+ plural fold) | No `##`/`###` match — **BUILT** |
 
 
 <!-- ===== SOURCE: 08_09_Infectious_Disease_-_Miscellaneous.md ===== -->
@@ -5777,42 +5702,4 @@ None — all three topics failed the header check and were built.
 > **A trans man who retains a cervix still needs cervical screening; a trans woman on oestrogen needs breast cancer awareness and, if she retains a prostate, prostate considerations.** Screening programs and electronic records frequently fail to prompt this. **Ask, record an organ inventory, and arrange the screening actively.**
 > **Use the person's correct name and pronouns**, and recognise that **experience of healthcare avoidance is common and consequential** — a respectful consultation has direct clinical effects on whether someone returns.
 
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for contraception | SUB | yes | |
-| 0.1.1 | Combined Oral Contraceptives | CLS | yes | Built jointly with `Combined oral contraceptives` — **capitalisation duplicate**; both rows mapped. |
-| 0.1.1 | Combined oral contraceptives | CLS | yes | As above. |
-| 0.1.2 | Progestins | CLS | yes | Built jointly with `Progestogens` — same class, two names. |
-| 0.1.2 | Progestogens | CLS | yes | As above. |
-| 0.1.3 | Intrauterine devices | CLS | yes | |
-| 0.2 | Drugs for menopausal symptoms | SUB | yes | |
-| 0.2.1 | Hormone Replacement Therapy | CLS | yes | Built jointly with `Hormone replacement therapy` — **capitalisation duplicate**. |
-| 0.2.1 | Hormone replacement therapy | CLS | yes | As above. |
-| 0.2.2 | SERMs | CLS | yes | Built jointly with `Selective oestrogen receptor modulators` — same class, abbreviated and expanded. |
-| 0.2.2 | Selective oestrogen receptor modulators | CLS | yes | As above. |
-| 0.3 | Drugs for heavy menstrual bleeding | SUB | yes | |
-| 0.4 | Drugs for menstrual symptoms | SUB | yes | |
-| 0.5 | Drugs for endometriosis | SUB | yes | |
-| 0.5.1 | Gonadotrophin-releasing hormone agonists | CLS | yes | Add-back therapy given as a standing consideration. |
-| 0.6 | Drugs for infertility | SUB | yes | OHSS given as the intern-facing emergency. |
-| 0.7 | Drugs in labour | SUB | yes | |
-| 0.7.1 | Oxytocic drugs | CLS | yes | Includes the ergometrine contraindication in pre-eclampsia and the four Ts of PPH. |
-| 0.8 | Drugs in pre-eclampsia and eclampsia | SUB | yes | Magnesium sulfate monitoring and the ACE inhibitor/ARB contraindication. |
-| 0.9 | Drugs for preterm labour | SUB | yes | |
-| 0.10 | Other drugs used in obstetrics | SUB | yes | Carries the anti-D schedule — the file's single stated dose figure, as a national program schedule. |
-| 0.10.1 | Prostaglandins | CLS | yes | |
-| 0.11 | Drugs affecting lactation | SUB | yes | Breastfeeding framed as find-a-compatible-drug rather than stop. |
-| 0.12 | Drugs for vaginal infections | SUB | yes | |
-| 0.13 | Sex hormones and modulators | SUB | yes | |
-| 0.13.1 | Androgens | CLS | yes | |
-| 0.13.2 | Anti-androgens | CLS | yes | Cyproterone meningioma risk included. |
-| 0.13.3 | Gender Affirming Hormone Care | CLS | yes | Includes fertility preservation timing and organ-based preventive care. |
-
-**Rows in file: 28 (13 SUB + 15 CLS). AMH section 16 build-list rows: 28. Section complete.**
-
-> [!note] **Four pairs of build-list rows are duplicates** — two are pure capitalisation duplicates (`Combined Oral Contraceptives`, `Hormone Replacement Therapy`), and two are the same class under alternative names (`Progestins`/`Progestogens`, `SERMs`/`Selective oestrogen receptor modulators`). Each concept is written once and every row mapped above.
 

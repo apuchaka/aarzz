@@ -2858,25 +2858,6 @@ Topical ocular antihistamines are covered with the other drugs for allergic eye 
 - **Omalizumab (anti-IgE)** and other biologics — specialist use in severe chronic spontaneous urticaria, severe allergic asthma and severe atopic disease.
 - **Systemic corticosteroids** — for severe allergic disease and as an adjunct after anaphylaxis; **they are slow in onset and are never the acute treatment for anaphylaxis.**
 
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Antihistamines | SUB | yes | |
-| 0.1.1 | Less sedating antihistamines | CLS | yes | |
-| 0.1.2 | Sedating antihistamines | CLS | yes | Built jointly with `H1 Antagonists (1st Gen)` — the same class under two names. |
-| 0.1.2 | H1 Antagonists (1st Gen) | CLS | yes | As above. |
-| 0.1.3 | Antihistamines (intranasal) | CLS | yes | |
-| 0.1.4 → 0.2.1 | Antihistamines (eye) | CLS | yes | Built in 0.2.1 with the other ocular allergy agents — the useful agents are dual-acting antihistamine/mast cell stabilisers and separating them would be artificial. |
-| 0.2 | Drugs for allergic and inflammatory eye conditions | SUB | yes | |
-| 0.2.2 | Corticosteroids (eye) | CLS | yes | |
-| 0.2.3 | NSAIDs (eye) | CLS | yes | |
-| 0.3 | Other drugs for allergic eye conditions | SUB | yes | |
-| 0.4 | Other drugs for allergy | SUB | yes | |
-| 0.4.1 | Mast cell stabilisers | CLS | yes | |
-| 0.5 | Sympathomimetics (anaphylaxis) | SUB | yes | Carries the file's single stated dose, in ASCIA per-kg-with-cap and weight-band form. |
-
-**Rows in file: 13. AMH section 1 build-list rows: 13 (5 SUB + 8 CLS). Section complete.**
 
 
 <!-- ===== SOURCE: A5_Toxicology_II_-_Poisoned_Patient__ADRs_and_Immunotherapy.md ===== -->

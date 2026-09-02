@@ -134,28 +134,6 @@ aliases:
 
 > [!danger] **Necrotising fasciitis is a clinical diagnosis and the commonest reason it is missed is that the skin looks unremarkable early.** The triad to act on is **pain out of proportion to the appearance, rapid progression, and systemic toxicity**. Anaesthesia of the overlying skin, crepitus, dusky discolouration and bullae are later signs. **If it is suspected, the action is immediate surgical referral, not a scan and not a period of observation on antibiotics.**
 
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 2 | **Both built** — Acute Back Pain, Acute Limb Pain |
-| **T2** | 2 | **Both built** — Acute Neck Pain, Acute Soft Tissue Swelling |
-| T3 | 51 | Not built |
-| CUT | 2 | **Dropped per the tier tags** — Hill-Sachs lesion, Stener lesion |
-
-## Topics skipped in this category
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Ocular Trauma** (T3) | `## Ocular trauma` | `11_09b_Ortho_-_Trauma.md` | Exact |
-
-### Near-miss deliberately **built** rather than skipped
-
-| Topic | Header it partially matched | Why built anyway |
-|---|---|---|
-| **Acute Back Pain** (T1) | `### Back pain red flags → urgent MRI` (`11_01_Ortho_-_Orthopaedic_Emergencies`) | The existing header is a **red-flag list pointing to imaging**, not an approach to the presentation. The T1 build product is the full DDx/Hx/Ex/Ix. **The topic `Back Pain` (T3, unbuilt) matches the same header and is the one where the overlap will need reconciling** — flagged now rather than later. |
 
 
 <!-- ===== SOURCE: NEW_Rheumatology_and_Immunology.md ===== -->
@@ -212,23 +190,6 @@ aliases:
   - **Joint aspiration** if septic arthritis is suspected after a penetrating injury, and **note that fat globules in an aspirate suggest an intra-articular fracture**.
   - **FBC, coagulation profile and group and hold** where there is significant bleeding, anticoagulation or planned surgery.
 
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| T1 | 0 | No T1 topics in this category |
-| **T2** | 2 | **Both built** — Acute Joint Pain, Acute Joint Trauma |
-| T3 | 16 | Not built |
-
-## Topics skipped in this category
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Joint Pain** (T3) | `## Joint Pain (Generalised and Local)` | `History-Taking.md` | Exact |
-
-> [!note] The T2 topic **Acute Joint Pain** was built despite the bare `Joint Pain` header existing, because the literal string "Acute Joint Pain" matches no header and the acute presentation is a distinct product. **Expect overlap with the History-Taking entry and decide ownership on review.**
 
 ---
 
@@ -538,8 +499,6 @@ Determined by the fluid and the clinical picture.
 **Cross-reference:** see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis, [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout and Pseudogout, and [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] for the disease-level context each finding above feeds into.
 
 ---
-
-<!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
 
 <!-- ===== SOURCE: 11_01_Ortho_-_Orthopaedic_Emergencies.md ===== -->
 
@@ -1049,8 +1008,6 @@ Induction with corticosteroids plus cyclophosphamide or rituximab, then maintena
 **Cross-reference:** see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] for the full disease-level detail each marker pattern above feeds into.
 
 ---
-
-<!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
 
 <!-- ===== SOURCE: NEW_Investigations_Rheumatology.md ===== -->
 
