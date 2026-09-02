@@ -313,6 +313,46 @@ Derm Cyst/Alopecia. **Eight in nine files.** Every one was a section whose own p
 "above" or "below" about a section I had just moved past it, and every one was found by
 `positional.py` or its `--audit` mode rather than by reading.
 
+### RENUMBERING — measured, and NOT done. The alternative is recorded here.
+
+You asked for continuous renumbering per file, on the grounds that `## 0.1` appears once
+per source block so a bare `§0.x` is ambiguous. **The premise is right and the remedy costs
+more than the problem.** Measured, not reasoned:
+
+| | count |
+|---|---:|
+| cross-file numeric pointers `[[File]] 0.x` / `` `File.md` 0.x `` | **2,953** |
+| bare internal `§0.x` pointers, all files | 503 |
+| …of those, in merged files, resolving correctly **in their own SOURCE block** | **378** |
+| …**not** resolving in their own block — the real problem | **125** |
+
+Every one of the 2,953 resolves by *(source file, section number)*. Continuous renumbering
+breaks all 2,953 to disambiguate 125. It also breaks the pure-move guarantee (the digit
+multiset changes on every heading) and CLAUDE.md §1.14 forbids it outright.
+
+**What was done instead.** `scripts/internalrefs.py` resolves every bare `§0.x` against the
+block it is *written in* — which is what a bare number means, and what the SOURCE dividers
+are for. It reports the 125 that do not resolve there: **96 point into a different block in
+the same file, 29 resolve nowhere in the file at all.** That is the actual defect, at 1/24th
+the blast radius, and no check in this project had ever looked for it.
+
+**Fixing those 125 means editing prose** (qualifying each with its source file name), so it
+cannot ride inside a pure-move reorder commit. It is its own commit.
+
+**If you still want the renumber**, it is one option and it is reversible: renumber, then
+rewrite all 2,953 cross-file pointers in the same pass. It is a bigger job than the reorder
+and it would have to be verified against `dangling.py` file by file.
+
+### `03_Gastrointestinal` §0.4 — confirmed deliberate, not lost
+
+`## 0.4 Ascending Cholangitis` left `GI_merged.md` on 2026-09-01 and a stub names where it
+went. The content is at `Emergency and Crit Care_merged.md:4103`, under a
+`<!-- ===== SOURCE: 03_Gastrointestinal.md ===== -->` divider — so `[[03_Gastrointestinal]] 0.4`
+still resolves, by design. **The same is true of `§0.10 Paracetamol Overdose`**, the file's
+other numbering gap, at `Emergency and Crit Care_merged.md:4125` under the same divider.
+`aftermove.py` reports **0 broken stubs** across the vault, which is this check run over
+every stub rather than these two.
+
 ### Standing finding, not caused by either pass
 
 `aftermove.py` check 3 reports **29 prose `[[File]] Section` pointers whose named section is
