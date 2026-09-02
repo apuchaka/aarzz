@@ -1659,7 +1659,7 @@ Tonsillectomy assessment for recurrent tonsillitis or recurrent quinsy against d
 ---
 
 > [!note] Cross-references
-Mechanical ventilation, auto-PEEP and NIV detail → [[F0.4]] 0.7 · Resuscitation algorithms → [[F0.4]] · Headache differentials in full → [[D1]] · Renal colic in the urology context → [[H4]]
+> Mechanical ventilation, auto-PEEP and NIV detail → [[F0.4]] 0.7 · Resuscitation algorithms → [[F0.4]] · Meningococcal sepsis → [[F0.3]] 0.9 · Headache differentials in full → [[D1]] · Renal colic in the urology context → [[H4]]
 
 
 <!-- ===== SOURCE: F0-3_Shock_Phenotypes_and_Sepsis_Syndromes.md ===== -->

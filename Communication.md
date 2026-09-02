@@ -759,7 +759,7 @@ This is the CSV's actual scenario, and the intern's instinct — to ignore it an
 ---
 
 > [!note] Cross-references
-> Handover, ISBAR, discharge summaries and open disclosure → [[EBM1]] 0.5–0.6 · Preventive consultation, behaviour change and motivational interviewing → [[GER3]] 0.1, 0.5 · Safeguarding, seeing the person alone and interpreter rules → [[GER4]] · Goals of care, advance care planning and the dying patient → [[GER2]] 0.5–0.6 and [[J5]] 0.4, 0.6 · Consent, capacity and information disclosure → [[A10]] 0.1–0.2 · Cultural safety, gratuitous concurrence and Aboriginal Liaison Officers → [[AU1]] 0.3 · Risk communication and absolute numbers → [[PH1]] 0.4 · Explaining a functional diagnosis → [[N6]] 0.1 · De-escalating the angry or agitated person → [[N1]] 0.4 · Diagnosis disclosure in developmental disability → [[M4]] 0.6 · Clinician self-care and having your own GP → [[GER3]] 0.6
+> Handover, ISBAR, discharge summaries and open disclosure → [[EBM1]] 0.5–0.6 · Preventive consultation, behaviour change and motivational interviewing → [[GER3]] 0.1, 0.5 · Safeguarding, seeing the person alone and interpreter rules → [[GER4]] · Goals of care, advance care planning and the dying patient → [[GER2]] 0.5–0.6 and [[J5]] 0.4, 0.6 · Consent, capacity and information disclosure → [[A10]] 0.1–0.2 · Cultural safety, gratuitous concurrence and Aboriginal Liaison Officers → [[AU1]] 0.3 · Risk communication and absolute numbers → [[PH1]] 0.4 · Explaining a functional diagnosis → [[N6]] 0.1 · De-escalating the angry or agitated person → [[N1]] 0.4 · Adolescent confidentiality → [[M7]] 0.3 · Diagnosis disclosure in developmental disability → [[M4]] 0.6 · Clinician self-care and having your own GP → [[GER3]] 0.6
 
 ---
 

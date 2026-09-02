@@ -196,7 +196,7 @@
 ---
 
 > [!note] Cross-references
-Lids, orbit, pupils and neuro-ophthalmology → [[E3]] · Orbital versus preseptal cellulitis → [[M2]] 0.4 and [[F2]] 0.2 · Ocular trauma, retrobulbar haematoma and blowout fracture → [[L8]] 0.2 · Ophthalmia neonatorum and the red reflex → [[M3]] 0.6 · Herpes zoster ophthalmicus and Hutchinson sign → [[G1]] 0.5 · Blepharitis, rosacea and pterygium → [[G4]] 0.3, 0.6 · Uveitis in JIA and spondyloarthropathy → [[M5]] 0.6 and [[L2]] 0.3 · Scleritis and systemic vasculitis → [[L2]] 0.4–0.5 · Sjögren syndrome and dry eye → [[L2]] 0.4 · Gonococcal and chlamydial infection → [[O6]] 0.2 · Anticholinergic burden and drug-induced angle closure → [[GER1]] 0.4 · Giant cell arteritis and visual loss → [[D1]] 0.3 · Sun protection in Australia → [[G4]] 0.6
+> Lids, orbit, pupils and neuro-ophthalmology → [[E3]] · Orbital versus preseptal cellulitis → [[M2]] 0.4 and [[F2]] 0.2 · Ocular trauma, retrobulbar haematoma and blowout fracture → [[L8]] 0.2 · Ophthalmia neonatorum and the red reflex → [[M3]] 0.6 · Herpes zoster ophthalmicus and Hutchinson sign → [[G1]] 0.5 · Blepharitis, rosacea and pterygium → [[G4]] 0.3, 0.6 · Uveitis in JIA and spondyloarthropathy → [[M5]] 0.6 and [[L2]] 0.3 · Scleritis and systemic vasculitis → [[L2]] 0.4–0.5 · Sjögren syndrome and dry eye → [[L2]] 0.4 · Gonococcal and chlamydial infection → [[O6]] 0.2 · Anticholinergic burden and drug-induced angle closure → [[GER1]] 0.4 · Giant cell arteritis and visual loss → [[D1]] 0.3 · Sun protection in Australia → [[G4]] 0.6
 
 
 <!-- ===== SOURCE: E2_Vision_Loss_and_Disturbance.md ===== -->

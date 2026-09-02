@@ -1541,7 +1541,7 @@ Pelvic floor physiotherapy for incontinence, which is effective and under-referr
 ---
 
 > [!note] Cross-references
-> Acute abdomen and the surgical emergencies → [[C1]] · Nausea, vomiting and antiemetic choice → [[C2]] · GI bleeding and iron deficiency → [[C4]] · Dyspepsia and anorectal pain → [[C6]] · Isotonic dehydration and rehydration → [[F0.2]] 0.9 · Third-spacing → [[F0.2]] 0.10 · Paediatric constipation, diarrhoea and intussusception → [[M5]] · Faecal incontinence in the elderly → [[GER2]] · Sexually transmitted proctitis → [[O6]] · Ovarian cancer presentation → [[O5]]
+> Acute abdomen and the surgical emergencies → [[C1]] · Nausea, vomiting and antiemetic choice → [[C2]] · Cirrhosis, ascites and SAAG → [[C3]] 0.6 · GI bleeding and iron deficiency → [[C4]] · Dyspepsia and anorectal pain → [[C6]] · Isotonic dehydration and rehydration → [[F0.2]] 0.9 · Third-spacing → [[F0.2]] 0.10 · Paediatric constipation, diarrhoea and intussusception → [[M5]] · Faecal incontinence in the elderly → [[GER2]] · Sexually transmitted proctitis → [[O6]] · Ovarian cancer presentation → [[O5]]
 
 
 <!-- ===== SOURCE: C3_Jaundice_and_Liver_Disease.md ===== -->
