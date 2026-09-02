@@ -199,7 +199,7 @@
 
 > [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
 > This source duplicates `Emergency and Crit Care_merged F0-4 §0.4 Paediatric Resuscitation` and
-> `§0.5 Neonatal Resuscitation`, and `15_01b_Paeds_-_Anaphylaxis` duplicates
+> `Emergency and Crit Care_merged F0-4 §0.5 Neonatal Resuscitation`, and `15_01b_Paeds_-_Anaphylaxis` duplicates
 > `Emergency F0-1 §0.9`, `NEW_Drugs_01 §0.5 Sympathomimetics (Anaphylaxis) — Adrenaline` and
 > `Derm_merged 09_01 ## Anaphylaxis` — **five homes for anaphylaxis.**
 > **These are the sections where weight-based and age-banded figures live.** The ASCIA adrenaline table
