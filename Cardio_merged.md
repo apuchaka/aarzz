@@ -849,7 +849,7 @@ Regular device follow-up. **Psychological support after shocks** — anxiety and
 ---
 
 > [!note] Cross-references
-> Cardiac arrest algorithms and defibrillation → [[A1]] 0.4 and [[F0.4]] 0.3 · Syncope and collapse → [[B4]] · Troponin interpretation → [[B1]] 0.5 · Hyperkalaemia and crush injury → [[A7]] 0.6 · Hypothermia and Osborn waves → [[A6]] 0.5 · Digoxin and cardiac glycoside toxicity → [[P4]] · Thyrotoxicosis → [[I1]] · Driving and device restrictions → [[A10]] 0.6 · Existing corpus entries → [[01_Cardiovascular]] Ventricular Tachycardia and [[Medications_Reference]] Antiarrhythmics
+> Cardiac arrest algorithms and defibrillation → [[A1]] 0.4 and [[F0.4]] 0.3 · Troponin interpretation → [[B1]] 0.5 · Hyperkalaemia and crush injury → [[A7]] 0.6 · Hypothermia and Osborn waves → [[A6]] 0.5 · Digoxin and cardiac glycoside toxicity → [[P4]] · Thyrotoxicosis → [[I1]] · Driving and device restrictions → [[A10]] 0.6 · Existing corpus entries → [[01_Cardiovascular]] Ventricular Tachycardia and [[Medications_Reference]] Antiarrhythmics
 
 
 <!-- ===== SOURCE: B4_Syncope__Collapse_and_Hypotension.md ===== -->
@@ -1057,7 +1057,7 @@ Phenotype-specific — cross-refer [[F0.3]]. Vasopressors and ICU where fluid-un
 ---
 
 > [!note] Cross-references
-> Shock phenotypes in full → [[F0.3]] 0.1–0.6 · Arrhythmia and bradycardia → [[B3]] · Aortic stenosis and murmurs → [[B5]] · Seizure and its differential → [[D6]] · Vertigo and disequilibrium → [[D5]] · Head injury on anticoagulants → [[F0.5]] 0.7–0.8 · Long lie, hypothermia and rhabdomyolysis → [[A6]] 0.5 and [[A7]] 0.6 · Adrenal crisis → [[F0.3]] 0.6 · Driving after syncope → [[A10]] 0.6 · Falls in the elderly → [[18_Geriatrics_and_Older_Persons_Health]]
+> Shock phenotypes in full → [[F0.3]] 0.1–0.6 · Arrhythmia and bradycardia → [[B3]] · Seizure and its differential → [[D6]] · Vertigo and disequilibrium → [[D5]] · Head injury on anticoagulants → [[F0.5]] 0.7–0.8 · Long lie, hypothermia and rhabdomyolysis → [[A6]] 0.5 and [[A7]] 0.6 · Adrenal crisis → [[F0.3]] 0.6 · Driving after syncope → [[A10]] 0.6 · Falls in the elderly → [[18_Geriatrics_and_Older_Persons_Health]]
 
 
 <!-- ===== SOURCE: B5_Murmurs__Endocarditis_and_Vascular_Disease.md ===== -->

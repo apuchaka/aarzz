@@ -760,7 +760,7 @@ Nutritional rehabilitation with refeeding precautions. Dental review after chron
 ---
 
 > [!note] Cross-references
-> Acute abdomen and the surgical causes → [[C1]] · Bowel obstruction → [[C5]] · Haematemesis and GI bleeding → [[C4]] · Dyspepsia and reflux → [[C6]] · Pancreatitis → [[C7]] · DKA and euglycaemic DKA → [[F0.2]] 0.3 · Metabolic alkalosis of vomiting → [[F0.2]] 0.7 · Raised intracranial pressure and headache → [[D1]] · Vertigo and vestibular causes → [[D5]] · Hyperemesis gravidarum → [[O1]] · Eating disorders → [[N8]] · Palliative symptom control → [[J5]] · QT prolongation and torsades → [[B3]] 0.3
+> Acute abdomen and the surgical causes → [[C1]] · Bowel obstruction → [[C5]] · Haematemesis and GI bleeding → [[C4]] · Pancreatitis → [[C7]] · DKA and euglycaemic DKA → [[F0.2]] 0.3 · Metabolic alkalosis of vomiting → [[F0.2]] 0.7 · Raised intracranial pressure and headache → [[D1]] · Vertigo and vestibular causes → [[D5]] · Hyperemesis gravidarum → [[O1]] · Eating disorders → [[N8]] · Palliative symptom control → [[J5]] · QT prolongation and torsades → [[B3]] 0.3
 
 
 <!-- ===== SOURCE: C6_Dyspepsia__Oesophageal_and_Anorectal_Disease.md ===== -->
@@ -1541,7 +1541,7 @@ Pelvic floor physiotherapy for incontinence, which is effective and under-referr
 ---
 
 > [!note] Cross-references
-> Acute abdomen and the surgical emergencies → [[C1]] · Nausea, vomiting and antiemetic choice → [[C2]] · Cirrhosis, ascites and SAAG → [[C3]] 0.6 · GI bleeding and iron deficiency → [[C4]] · Dyspepsia and anorectal pain → [[C6]] · Isotonic dehydration and rehydration → [[F0.2]] 0.9 · Third-spacing → [[F0.2]] 0.10 · Paediatric constipation, diarrhoea and intussusception → [[M5]] · Faecal incontinence in the elderly → [[GER2]] · Sexually transmitted proctitis → [[O6]] · Ovarian cancer presentation → [[O5]]
+> Acute abdomen and the surgical emergencies → [[C1]] · Nausea, vomiting and antiemetic choice → [[C2]] · GI bleeding and iron deficiency → [[C4]] · Dyspepsia and anorectal pain → [[C6]] · Isotonic dehydration and rehydration → [[F0.2]] 0.9 · Third-spacing → [[F0.2]] 0.10 · Paediatric constipation, diarrhoea and intussusception → [[M5]] · Faecal incontinence in the elderly → [[GER2]] · Sexually transmitted proctitis → [[O6]] · Ovarian cancer presentation → [[O5]]
 
 
 <!-- ===== SOURCE: C3_Jaundice_and_Liver_Disease.md ===== -->
@@ -1824,7 +1824,7 @@ As per the underlying diagnosis. Post-splenectomy prophylaxis where splenectomy 
 ---
 
 > [!note] Cross-references
-> Right upper quadrant pain and biliary disease → [[C1]] 0.3 · Ascending cholangitis → [[F0.3]] 0.11 · Paracetamol overdose → [[F0.1]] 0.6 · GI bleeding and varices → [[C4]] · Pancreatitis → [[C7]] · Rebalanced haemostasis and FFP in cirrhosis → [[A9]] 0.3 · Haemolysis → [[J2]] · Neonatal jaundice → [[M3]] · Hepatopulmonary syndrome and platypnoea → [[A4]] 0.2 · Alcohol and drug support → [[P1]]
+> Right upper quadrant pain and biliary disease → [[C1]] 0.3 · Ascending cholangitis → [[F0.3]] 0.11 · Paracetamol overdose → [[F0.1]] 0.6 · GI bleeding and varices → [[C4]] · Rebalanced haemostasis and FFP in cirrhosis → [[A9]] 0.3 · Haemolysis → [[J2]] · Neonatal jaundice → [[M3]] · Hepatopulmonary syndrome and platypnoea → [[A4]] 0.2 · Alcohol and drug support → [[P1]]
 
 
 <!-- ===== SOURCE: C7_Pancreatobiliary_Disease.md ===== -->

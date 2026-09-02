@@ -196,7 +196,7 @@
 ---
 
 > [!note] Cross-references
-> Vision loss and visual disturbance → [[E2]] · Lids, orbit, pupils and neuro-ophthalmology → [[E3]] · Orbital versus preseptal cellulitis → [[M2]] 0.4 and [[F2]] 0.2 · Ocular trauma, retrobulbar haematoma and blowout fracture → [[L8]] 0.2 · Ophthalmia neonatorum and the red reflex → [[M3]] 0.6 · Herpes zoster ophthalmicus and Hutchinson sign → [[G1]] 0.5 · Blepharitis, rosacea and pterygium → [[G4]] 0.3, 0.6 · Uveitis in JIA and spondyloarthropathy → [[M5]] 0.6 and [[L2]] 0.3 · Scleritis and systemic vasculitis → [[L2]] 0.4–0.5 · Sjögren syndrome and dry eye → [[L2]] 0.4 · Gonococcal and chlamydial infection → [[O6]] 0.2 · Anticholinergic burden and drug-induced angle closure → [[GER1]] 0.4 · Giant cell arteritis and visual loss → [[D1]] 0.3 · Sun protection in Australia → [[G4]] 0.6
+Lids, orbit, pupils and neuro-ophthalmology → [[E3]] · Orbital versus preseptal cellulitis → [[M2]] 0.4 and [[F2]] 0.2 · Ocular trauma, retrobulbar haematoma and blowout fracture → [[L8]] 0.2 · Ophthalmia neonatorum and the red reflex → [[M3]] 0.6 · Herpes zoster ophthalmicus and Hutchinson sign → [[G1]] 0.5 · Blepharitis, rosacea and pterygium → [[G4]] 0.3, 0.6 · Uveitis in JIA and spondyloarthropathy → [[M5]] 0.6 and [[L2]] 0.3 · Scleritis and systemic vasculitis → [[L2]] 0.4–0.5 · Sjögren syndrome and dry eye → [[L2]] 0.4 · Gonococcal and chlamydial infection → [[O6]] 0.2 · Anticholinergic burden and drug-induced angle closure → [[GER1]] 0.4 · Giant cell arteritis and visual loss → [[D1]] 0.3 · Sun protection in Australia → [[G4]] 0.6
 
 
 <!-- ===== SOURCE: E2_Vision_Loss_and_Disturbance.md ===== -->
@@ -409,7 +409,7 @@
 ---
 
 > [!note] Cross-references
-> Red and painful eye, angle closure and optic neuropathy → [[E1]] · Lids, orbit, pupils and neuro-ophthalmology → [[E3]] · Stroke, TIA and carotid disease → [[D3]] 0.1–0.2 · Giant cell arteritis → [[D1]] 0.3 and [[L3]] 0.4 · Raised intracranial pressure and idiopathic intracranial hypertension → [[D1]] 0.3 · Cranial nerve palsies and internuclear ophthalmoplegia → [[D7]] · Myasthenia gravis → [[D4]] 0.3 · Pituitary disease and bitemporal hemianopia → [[I4]] 0.1 · Thyroid eye disease → [[I1]] 0.3 · Diabetic retinopathy and screening → [[I2]] 0.5 · Hypertensive retinopathy and emergencies → [[B2]] 0.3 · Syncope and presyncope → [[B4]] · Falls and visual impairment → [[GER1]] 0.5 · Fitness to drive → [[A10]] 0.6 · Screening and preventive health → [[GER3]] · Orbital trauma → [[L8]] 0.2
+> Red and painful eye, angle closure and optic neuropathy → [[E1]] · Stroke, TIA and carotid disease → [[D3]] 0.1–0.2 · Giant cell arteritis → [[D1]] 0.3 and [[L3]] 0.4 · Raised intracranial pressure and idiopathic intracranial hypertension → [[D1]] 0.3 · Cranial nerve palsies and internuclear ophthalmoplegia → [[D7]] · Myasthenia gravis → [[D4]] 0.3 · Pituitary disease and bitemporal hemianopia → [[I4]] 0.1 · Thyroid eye disease → [[I1]] 0.3 · Diabetic retinopathy and screening → [[I2]] 0.5 · Hypertensive retinopathy and emergencies → [[B2]] 0.3 · Syncope and presyncope → [[B4]] · Falls and visual impairment → [[GER1]] 0.5 · Fitness to drive → [[A10]] 0.6 · Screening and preventive health → [[GER3]] · Orbital trauma → [[L8]] 0.2
 
 
 <!-- ===== SOURCE: E3_Orbit__Lids_and_Pupil.md ===== -->

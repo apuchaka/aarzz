@@ -309,7 +309,7 @@ Documentation of the causative drug in dystonic reaction. Immunisation catch-up.
 ---
 
 > [!note] Cross-references
-> Acute severe headache in the emergency context → [[F0.5]] 0.6 · Meningococcal sepsis and contact prophylaxis → [[F0.3]] 0.9 · Head injury and chronic subdural → [[F0.5]] 0.7–0.8 · Altered consciousness and delirium → [[D2]] · Stroke and TIA → [[D3]] · Seizures → [[D6]] · Vertigo → [[D5]] · Giant cell arteritis and PMR → [[L3]] and [[B6]] 0.7 · Acute angle-closure glaucoma → [[E1]] · Carbon monoxide → [[A5]] 0.4 · Contraception in migraine with aura → [[O6]] · Dystonic reactions from antiemetics → [[C2]] 0.5 · Retropharyngeal abscess → [[F0.5]] 0.10 · Paediatric meningitis → [[M2]]
+> Acute severe headache in the emergency context → [[F0.5]] 0.6 · Meningococcal sepsis and contact prophylaxis → [[F0.3]] 0.9 · Head injury and chronic subdural → [[F0.5]] 0.7–0.8 · Stroke and TIA → [[D3]] · Seizures → [[D6]] · Vertigo → [[D5]] · Giant cell arteritis and PMR → [[L3]] and [[B6]] 0.7 · Acute angle-closure glaucoma → [[E1]] · Carbon monoxide → [[A5]] 0.4 · Contraception in migraine with aura → [[O6]] · Dystonic reactions from antiemetics → [[C2]] 0.5 · Retropharyngeal abscess → [[F0.5]] 0.10 · Paediatric meningitis → [[M2]]
 
 
 <!-- ===== SOURCE: D2_Altered_Consciousness_and_Cognition.md ===== -->
@@ -578,7 +578,7 @@ Risk factor modification, cognitive and social engagement, hearing correction, a
 ---
 
 > [!note] Cross-references
-> Headache, meningitis and encephalitis → [[D1]] · Stroke and focal deficit → [[D3]] · Seizures and non-convulsive status → [[D6]] · Parkinsonism → [[D6]] · Head injury and post-traumatic amnesia → [[F0.5]] 0.7–0.8 · Wernicke and thiamine → [[C2]] 0.7 · Hepatic encephalopathy → [[C3]] 0.6 · Capacity assessment → [[A10]] 0.1 · Driving and fitness certification → [[A10]] 0.6 · Comprehensive geriatric assessment, polypharmacy and falls → [[GER1]] · Geriatric syndromes and end-of-life care → [[GER2]] · Depression → [[N4]] · Dissociative disorders → [[N6]] · Delirium in the poisoned patient → [[A5]] 0.1
+> Headache, meningitis and encephalitis → [[D1]] · Seizures and non-convulsive status → [[D6]] · Parkinsonism → [[D6]] · Head injury and post-traumatic amnesia → [[F0.5]] 0.7–0.8 · Wernicke and thiamine → [[C2]] 0.7 · Hepatic encephalopathy → [[C3]] 0.6 · Capacity assessment → [[A10]] 0.1 · Driving and fitness certification → [[A10]] 0.6 · Comprehensive geriatric assessment, polypharmacy and falls → [[GER1]] · Geriatric syndromes and end-of-life care → [[GER2]] · Depression → [[N4]] · Dissociative disorders → [[N6]] · Delirium in the poisoned patient → [[A5]] 0.1
 
 
 <!-- ===== SOURCE: D3_Stroke_and_Focal_Neurological_Deficit.md ===== -->
@@ -859,7 +859,7 @@ Rehabilitation, disease-modifying therapy in MS, driving and occupational advice
 ---
 
 > [!note] Cross-references
-> Headache, SAH and CVST → [[D1]] · Altered consciousness, delirium and dementia → [[D2]] · Weakness, neuropathy and radiculopathy → [[D4]] · Vertigo and the HINTS examination → [[D5]] · Seizures and Todd paresis → [[D6]] · Cranial nerve examination and facial palsy → [[D7]] · Atrial fibrillation and anticoagulation → [[B3]] 0.4 · Hypertension management → [[B2]] · Anticoagulant reversal → [[A9]] 0.4 · Back pain red flags and cord compression → [[L4]] · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Driving after stroke or TIA → [[A10]] 0.6 · Functional neurological disorder → [[N6]]
+> Headache, SAH and CVST → [[D1]] · Altered consciousness, delirium and dementia → [[D2]] · Weakness, neuropathy and radiculopathy → [[D4]] · Vertigo and the HINTS examination → [[D5]] · Cranial nerve examination and facial palsy → [[D7]] · Atrial fibrillation and anticoagulation → [[B3]] 0.4 · Hypertension management → [[B2]] · Anticoagulant reversal → [[A9]] 0.4 · Back pain red flags and cord compression → [[L4]] · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Driving after stroke or TIA → [[A10]] 0.6 · Functional neurological disorder → [[N6]]
 
 
 <!-- ===== SOURCE: D6_Seizures_and_Movement_Disorders.md ===== -->

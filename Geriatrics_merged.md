@@ -306,7 +306,7 @@ Investigation for secondary causes, and commencement of appropriate pharmacother
 ---
 
 > [!note] Cross-references
-> Delirium, dementia and cognitive assessment → [[D2]] · Gait disorders and disequilibrium → [[D5]] 0.4–0.5 · Syncope and the unwitnessed fall → [[B4]] 0.4 · Long lie, hypothermia and rhabdomyolysis → [[A6]] 0.5 and [[A7]] 0.6 · Head injury on anticoagulants → [[F0.5]] 0.8 · Atypical presentation of abdominal disease → [[C1]] 0.11 · Drug-induced parkinsonism → [[D6]] 0.5 · Deprescribing PPIs → [[C6]] 0.1 · Anticholinergic burden → [[18_Geriatrics_and_Older_Persons_Health]] · Capacity, advance care directives and substitute decision-making → [[A10]] 0.1–0.3 · Elder abuse and safeguarding → [[P3]] · Myeloma → [[J4]] · Geriatric syndromes and end-of-life care → [[GER2]]
+> Delirium, dementia and cognitive assessment → [[D2]] · Gait disorders and disequilibrium → [[D5]] 0.4–0.5 · Syncope and the unwitnessed fall → [[B4]] 0.4 · Long lie, hypothermia and rhabdomyolysis → [[A6]] 0.5 and [[A7]] 0.6 · Head injury on anticoagulants → [[F0.5]] 0.8 · Atypical presentation of abdominal disease → [[C1]] 0.11 · Drug-induced parkinsonism → [[D6]] 0.5 · Deprescribing PPIs → [[C6]] 0.1 · Capacity, advance care directives and substitute decision-making → [[A10]] 0.1–0.3 · Elder abuse and safeguarding → [[P3]] · Myeloma → [[J4]] · Geriatric syndromes and end-of-life care → [[GER2]]
 
 
 <!-- ===== SOURCE: 18_Geriatrics_and_Older_Persons_Health.md ===== -->

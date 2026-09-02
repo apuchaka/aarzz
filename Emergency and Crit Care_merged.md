@@ -1010,7 +1010,7 @@ Review and adjust sedative and opioid prescribing. Document the event. Cross-ref
 ---
 
 > [!note] Cross-references
-> Acute asthma, COPD, pulmonary oedema and ARDS → [[F0.5]] 0.1–0.4 · Neuromuscular respiratory failure and FVC monitoring → [[F0.5]] 0.5 · Airway obstruction and stridor → [[A2]] · Opioid-induced respiratory depression → [[F0.1]] 0.5 · Mechanical ventilation and NIV → [[F0.4]] 0.7 · Acid-base interpretation → [[F0.2]] 0.1 · Dyspnoea and cough as presentations → [[A4]]
+> Acute asthma, COPD, pulmonary oedema and ARDS → [[F0.5]] 0.1–0.4 · Neuromuscular respiratory failure and FVC monitoring → [[F0.5]] 0.5 · Airway obstruction and stridor → [[A2]] · Opioid-induced respiratory depression → [[F0.1]] 0.5 · Mechanical ventilation and NIV → [[F0.4]] 0.7 · Acid-base interpretation → [[F0.2]] 0.1
 
 
 <!-- ===== SOURCE: A4_Dyspnoea__Cough_and_the_Solitary_Pulmonary_Nodule.md ===== -->
@@ -1323,7 +1323,7 @@ Smoking cessation, which changes the risk of both this nodule and the next one. 
 ---
 
 > [!note] Cross-references
-> Respiratory failure, hypoxia and abnormal respiratory rate → [[A3]] · Acute asthma, COPD, pneumonia, pulmonary oedema, ARDS → [[F0.5]] · Airway obstruction and stridor → [[A2]] · Cardiogenic shock and PE → [[F0.3]] 0.3, 0.5 · Chest pain framework → [[B1]] · Occupational lung disease → [[02_Respiratory]] Pneumoconioses
+> Respiratory failure, hypoxia and abnormal respiratory rate → [[A3]] · Airway obstruction and stridor → [[A2]] · Cardiogenic shock and PE → [[F0.3]] 0.3, 0.5 · Chest pain framework → [[B1]] · Occupational lung disease → [[02_Respiratory]] Pneumoconioses
 
 
 <!-- ===== SOURCE: F0-5_Acute_Respiratory__Headache_and_Head_Injury.md ===== -->
@@ -1659,7 +1659,7 @@ Tonsillectomy assessment for recurrent tonsillitis or recurrent quinsy against d
 ---
 
 > [!note] Cross-references
-> Cardiogenic shock, tamponade and massive PE → [[F0.3]] · Mechanical ventilation, auto-PEEP and NIV detail → [[F0.4]] 0.7 · Resuscitation algorithms → [[F0.4]] · Meningococcal sepsis → [[F0.3]] 0.9 · Headache differentials in full → [[D1]] · Renal colic in the urology context → [[H4]]
+Mechanical ventilation, auto-PEEP and NIV detail → [[F0.4]] 0.7 · Resuscitation algorithms → [[F0.4]] · Headache differentials in full → [[D1]] · Renal colic in the urology context → [[H4]]
 
 
 <!-- ===== SOURCE: F0-3_Shock_Phenotypes_and_Sepsis_Syndromes.md ===== -->
@@ -3761,7 +3761,7 @@ Neurological and psychological sequelae are common and frequently under-recognis
 ---
 
 > [!note] Cross-references
-> Serotonin toxicity and sympathomimetic toxidrome in full → [[F0.1]] 0.4 · Anticholinergic toxidrome → [[F0.1]] 0.2 · Shock physiology → [[F0.3]] · Cardiac arrest algorithms → [[A1]] 0.4 and [[F0.4]] · Burns and chemical injury → [[A7]] · Rhabdomyolysis and compartment syndrome → [[L6]] · Thyroid storm → [[I1]] · Falls and the elderly long lie → [[18_Geriatrics_and_Older_Persons_Health]]
+> Serotonin toxicity and sympathomimetic toxidrome in full → [[F0.1]] 0.4 · Anticholinergic toxidrome → [[F0.1]] 0.2 · Shock physiology → [[F0.3]] · Cardiac arrest algorithms → [[A1]] 0.4 and [[F0.4]] · Rhabdomyolysis and compartment syndrome → [[L6]] · Thyroid storm → [[I1]] · Falls and the elderly long lie → [[18_Geriatrics_and_Older_Persons_Health]]
 
 
 <!-- ===== SOURCE: A7_Burns__Chemical_Injury__Wounds_and_Crush_Injury.md ===== -->

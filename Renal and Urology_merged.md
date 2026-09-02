@@ -213,7 +213,7 @@
 ---
 
 > [!note] Cross-references
-> Haematuria, proteinuria and glomerular disease → [[H1]] · Retention, obstructive uropathy and catheters → [[H2]] 0.3–0.5 · Renal colic and obstructed infected system → [[H4]] 0.4 and [[F0.3]] 0.10 · Hyperkalaemia, hyponatraemia and fluid states → [[I5]] 0.5–0.6 and [[F0.2]] · CKD-MBD, calcium and phosphate → [[I3]] 0.5 · Diabetic kidney disease and sick day rules → [[I2]] 0.5, 0.7 · SGLT2 inhibitors and RAS blockade → [[CV-X]] 0.3 · Hepatorenal syndrome → [[C3]] 0.6 · Rhabdomyolysis → [[A7]] 0.6 · Tumour lysis and myeloma → [[J4]] and [[J5]] · Vasculitis and scleroderma renal crisis → [[L2]] 0.4–0.5 · Diabetes insipidus and pituitary disease → [[I4]] 0.1 · Lithium monitoring → [[N4]] 0.5 · Polycystic kidney disease and intracranial aneurysm → [[D1]] 0.2 · Conservative kidney management and goals of care → [[GER2]] 0.5–0.6 · Dialysis away from Country → [[AU1]] 0.4 · Contrast and perioperative medication → [[AN1]] 0.3
+Retention, obstructive uropathy and catheters → [[H2]] 0.3–0.5 · Renal colic and obstructed infected system → [[H4]] 0.4 and [[F0.3]] 0.10 · Hyperkalaemia, hyponatraemia and fluid states → [[I5]] 0.5–0.6 and [[F0.2]] · CKD-MBD, calcium and phosphate → [[I3]] 0.5 · Diabetic kidney disease and sick day rules → [[I2]] 0.5, 0.7 · SGLT2 inhibitors and RAS blockade → [[CV-X]] 0.3 · Hepatorenal syndrome → [[C3]] 0.6 · Rhabdomyolysis → [[A7]] 0.6 · Tumour lysis and myeloma → [[J4]] and [[J5]] · Vasculitis and scleroderma renal crisis → [[L2]] 0.4–0.5 · Diabetes insipidus and pituitary disease → [[I4]] 0.1 · Lithium monitoring → [[N4]] 0.5 · Polycystic kidney disease and intracranial aneurysm → [[D1]] 0.2 · Conservative kidney management and goals of care → [[GER2]] 0.5–0.6 · Dialysis away from Country → [[AU1]] 0.4 · Contrast and perioperative medication → [[AN1]] 0.3
 
 
 <!-- ===== SOURCE: H1_Haematuria_and_Proteinuria.md ===== -->
@@ -1381,7 +1381,7 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 ---
 
 > [!note] Cross-references
-> Haematuria and its investigation → [[H1]] 0.1 · Acute kidney injury and obstructive uropathy → [[H3]] · Renal colic, scrotal problems and paraphimosis → [[H4]] · Cauda equina syndrome → [[L4]] 0.2 · Urosepsis and asymptomatic bacteriuria → [[F0.3]] 0.10 · Continence, catheters and functional incontinence → [[GER2]] 0.1 · Anticholinergic burden and deprescribing → [[GER1]] 0.4 · Female prolapse and pelvic floor → [[O5]] 0.6 · Prostate cancer screening and PSA counselling → [[GER3]] · Post-operative retention → [[AN1]] 0.5 · Heart failure and nocturia → [[CV-X]] · Obstructive sleep apnoea and nocturia → [[RESP-X]] 0.5 · Delirium and tethers → [[D2]] 0.2
+> Haematuria and its investigation → [[H1]] 0.1 · Acute kidney injury and obstructive uropathy → [[H3]] · Cauda equina syndrome → [[L4]] 0.2 · Urosepsis and asymptomatic bacteriuria → [[F0.3]] 0.10 · Continence, catheters and functional incontinence → [[GER2]] 0.1 · Anticholinergic burden and deprescribing → [[GER1]] 0.4 · Female prolapse and pelvic floor → [[O5]] 0.6 · Prostate cancer screening and PSA counselling → [[GER3]] · Post-operative retention → [[AN1]] 0.5 · Heart failure and nocturia → [[CV-X]] · Obstructive sleep apnoea and nocturia → [[RESP-X]] 0.5 · Delirium and tethers → [[D2]] 0.2
 
 
 <!-- ===== SOURCE: H4_Scrotum__Groin_and_Loin.md ===== -->

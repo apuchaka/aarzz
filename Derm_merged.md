@@ -669,7 +669,7 @@
 ---
 
 > [!note] Cross-references
-> Acute rash, SJS/TEN, DRESS and eczema herpeticum → [[G1]] 0.2–0.3 · Purpura and vasculitis → [[G3]] · Eczema and psoriasis → [[G4]] · Skin cancer and the suspicious lesion → [[G5]] · Burns and cold injury → [[A7]] · Necrotising fasciitis and skin infection → [[K2]] 0.2 · Coma blisters, overdose and rhabdomyolysis → [[A5]] and [[A7]] 0.6 · Coeliac disease → [[C5]] 0.4 · G6PD deficiency and dapsone → [[J2]] 0.2 · Porphyria, hepatitis C and haemochromatosis → [[C3]] 0.3 · Peripheral arterial disease and ABPI → [[B6]] 0.2 · Diabetic foot and offloading → [[I2]] 0.5 · Pressure injury and immobility → [[GER2]] 0.2 and [[L6]] 0.6 · Wound healing and tissue repair → [[L6]] 0.1 · Ocular involvement in mucous membrane pemphigoid → [[E1]] · Nutrition and refeeding → [[GER2]] 0.3
+> Acute rash, SJS/TEN, DRESS and eczema herpeticum → [[G1]] 0.2–0.3 · Eczema and psoriasis → [[G4]] · Skin cancer and the suspicious lesion → [[G5]] · Burns and cold injury → [[A7]] · Necrotising fasciitis and skin infection → [[K2]] 0.2 · Coma blisters, overdose and rhabdomyolysis → [[A5]] and [[A7]] 0.6 · Coeliac disease → [[C5]] 0.4 · G6PD deficiency and dapsone → [[J2]] 0.2 · Porphyria, hepatitis C and haemochromatosis → [[C3]] 0.3 · Peripheral arterial disease and ABPI → [[B6]] 0.2 · Diabetic foot and offloading → [[I2]] 0.5 · Pressure injury and immobility → [[GER2]] 0.2 and [[L6]] 0.6 · Wound healing and tissue repair → [[L6]] 0.1 · Ocular involvement in mucous membrane pemphigoid → [[E1]] · Nutrition and refeeding → [[GER2]] 0.3
 
 
 <!-- ===== SOURCE: G3_Purpura_and_Vasculitis.md ===== -->
@@ -2114,7 +2114,7 @@
 ---
 
 > [!note] Cross-references
-> Acute rash and drug eruptions → [[G1]] · Blistering, wounds, leg ulcers and Marjolin ulcer → [[G2]] 0.6 · Purpura and vasculitis → [[G3]] · Psoriasis, nail psoriasis and sun protection → [[G4]] 0.2, 0.6 · Flushing and sweating → [[G6]] · Clubbing → [[A4]] 0.1 · Splinter haemorrhages and endocarditis → [[B5]] 0.1 · Nailfold capillaries, Raynaud and connective tissue disease → [[L2]] 0.4 and [[L3]] 0.6 · Checkpoint inhibitor adverse events → [[J5]] 0.2 and [[A5]] 0.7 · Immunosuppression and malignancy risk → [[K3]] 0.5 · Iron deficiency → [[J1]] 0.2 · Hyperandrogenism and PCOS → [[I4]] 0.6 · Trichotillomania and body-focused behaviours → [[N5]] 0.4 · Lymphadenopathy and metastatic disease → [[B6]] 0.8 · Preventive health and skin checks → [[GER3]]
+> Acute rash and drug eruptions → [[G1]] · Blistering, wounds, leg ulcers and Marjolin ulcer → [[G2]] 0.6 · Purpura and vasculitis → [[G3]] · Psoriasis, nail psoriasis and sun protection → [[G4]] 0.2, 0.6 · Clubbing → [[A4]] 0.1 · Splinter haemorrhages and endocarditis → [[B5]] 0.1 · Nailfold capillaries, Raynaud and connective tissue disease → [[L2]] 0.4 and [[L3]] 0.6 · Checkpoint inhibitor adverse events → [[J5]] 0.2 and [[A5]] 0.7 · Immunosuppression and malignancy risk → [[K3]] 0.5 · Iron deficiency → [[J1]] 0.2 · Hyperandrogenism and PCOS → [[I4]] 0.6 · Trichotillomania and body-focused behaviours → [[N5]] 0.4 · Lymphadenopathy and metastatic disease → [[B6]] 0.8 · Preventive health and skin checks → [[GER3]]
 
 
 <!-- ===== SOURCE: G6_Flushing__Sweating_and_Cyanosis.md ===== -->

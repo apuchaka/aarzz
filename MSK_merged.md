@@ -1974,7 +1974,7 @@ Function-focused, continuity of care, and support for work and study adjustments
 ---
 
 > [!note] Cross-references
-> Localising weakness and the neuromuscular levels → [[D4]] 0.1 · Inflammatory and drug-induced myopathy → [[D4]] 0.6 · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Giant cell arteritis → [[D1]] 0.4 · Fever of unknown origin in the elderly → [[K1]] 0.3 · Fatigue differential → [[B6]] 0.5 · Rhabdomyolysis → [[A7]] 0.6 · Statin myopathy → [[I5]] 0.3 · Osteomalacia and vitamin D → [[I3]] 0.5 · Myeloma → [[J4]] · Infective endocarditis as a mimic → [[B5]] 0.2 · Parkinsonism as a mimic of stiffness → [[D6]] 0.5 · Restless legs and ferritin → [[D6]] 0.6 · POTS and orthostatic intolerance → [[B4]] 0.2 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Opioid deprescribing and chronic pain → [[F0.4]] 0.9 · Inflammatory arthritis → [[L2]] · Back pain → [[L4]]
+> Localising weakness and the neuromuscular levels → [[D4]] 0.1 · Inflammatory and drug-induced myopathy → [[D4]] 0.6 · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Giant cell arteritis → [[D1]] 0.4 · Fever of unknown origin in the elderly → [[K1]] 0.3 · Fatigue differential → [[B6]] 0.5 · Rhabdomyolysis → [[A7]] 0.6 · Statin myopathy → [[I5]] 0.3 · Osteomalacia and vitamin D → [[I3]] 0.5 · Myeloma → [[J4]] · Infective endocarditis as a mimic → [[B5]] 0.2 · Parkinsonism as a mimic of stiffness → [[D6]] 0.5 · Restless legs and ferritin → [[D6]] 0.6 · POTS and orthostatic intolerance → [[B4]] 0.2 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Opioid deprescribing and chronic pain → [[F0.4]] 0.9 · Inflammatory arthritis → [[L2]]
 
 
 <!-- ===== SOURCE: L4_Back_and_Neck_Pain.md ===== -->
@@ -3416,7 +3416,7 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 ---
 
 > [!note] Cross-references
-> Regional limb pain and specific tendinopathies → [[L5]] · Fractures and immobilisation → [[L7]] · Back pain, yellow flags and return to work → [[L4]] 0.1 · Chronic pain and central sensitisation → [[L3]] 0.5 · Compartment syndrome and rhabdomyolysis → [[A7]] 0.6 · Baker cyst versus DVT → [[B6]] 0.3 · Falls and multifactorial assessment → [[GER1]] 0.5 · Functional assessment and the aged care system → [[GER1]] 0.3 · Hospital deconditioning and immobility → [[GER2]] 0.4 · Pressure injury → [[GER2]] 0.2 · Fluoroquinolone and corticosteroid tendon risk → [[L5]] 0.7 · Certification and fitness for work → [[A10]] 0.6 and [[GER3]]
+> Regional limb pain and specific tendinopathies → [[L5]] · Back pain, yellow flags and return to work → [[L4]] 0.1 · Chronic pain and central sensitisation → [[L3]] 0.5 · Compartment syndrome and rhabdomyolysis → [[A7]] 0.6 · Baker cyst versus DVT → [[B6]] 0.3 · Falls and multifactorial assessment → [[GER1]] 0.5 · Functional assessment and the aged care system → [[GER1]] 0.3 · Hospital deconditioning and immobility → [[GER2]] 0.4 · Pressure injury → [[GER2]] 0.2 · Fluoroquinolone and corticosteroid tendon risk → [[L5]] 0.7 · Certification and fitness for work → [[A10]] 0.6 and [[GER3]]
 
 
 <!-- ===== SOURCE: L7_Fractures_and_Eponyms.md ===== -->
