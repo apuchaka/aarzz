@@ -313,7 +313,7 @@ Also known as urogenital prolapse — general term encompassing:
 
 ## Cervical cancer screening
 
-`CF-PAIR` **A second account is in this file at `NEW_Investigations_Obstetrics_and_Gynaecology §0.1 Cervical Screening Test and Cervical Screening Abnormality (Australian NCSP)` (L2780)**, which is the test-led version — how the CST is read and what each result triggers. **Both kept in full, neither reconciled.**
+`CF-PAIR` **A second account is in `OBGYN_06_Investigations`, at `NEW_Investigations_Obstetrics_and_Gynaecology §0.1 Cervical Screening Test and Cervical Screening Abnormality (Australian NCSP)`**, which is the test-led version — how the CST is read and what each result triggers. **Both kept in full, neither reconciled.**
 
 **D**: the **Cervical Screening Test (CST)** — a sample collected from the ecto-/endocervical junction, tested primarily for high-risk HPV; if HPV-positive, the same sample is reflexed to cytological (liquid-based cytology) examination without needing a second visit. Self-collection (a vaginal swab the patient takes themselves, rather than a speculum examination) is a validated, available option in Australia for eligible patients, and is a genuinely important access feature, particularly for patients who find a speculum examination distressing or who are under-screened.
 

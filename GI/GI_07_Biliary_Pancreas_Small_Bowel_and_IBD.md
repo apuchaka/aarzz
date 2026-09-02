@@ -210,10 +210,10 @@ Azathioprine, mesalazine, bendroflumethiazide, furosemide, steroids, sodium valp
 ## 0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)
 
 > [!warning] FLAG 2026-09-01 — `M-13` carcinoid is split three ways and no file owns it
-> **This file has the disease entry. `Derm_merged.md:2084–2100` has the mechanism** — the
+> **This file has the disease entry. `Derm/` has the mechanism** — the
 > portal-circulation explanation (*"a gut carcinoid does not cause carcinoid syndrome until there are
 > hepatic metastases"*), carcinoid crisis, and the octreotide-before-anaesthesia warning.
-> **Endocrine is the third candidate.** `Derm_merged G6 §0.6 Cyanosis and Abnormal Skin Colour` routes perioperative carcinoid risk to
+> **Endocrine is the third candidate.** `Derm_06_Flushing_Sweating_and_Cyanosis G6 §0.6 Cyanosis and Abnormal Skin Colour` routes perioperative carcinoid risk to
 > `[[AN1]] 0.7`. **Flagged at all three ends; content left where it is. Not resolved.**
 
 Secretory NETs that release serotonin, kinins, and other vasoactive peptides. Carcinoid syndrome develops in only 40% of patients with NETs. If NETs metastasise to the liver, 95% of patients will develop symptoms.

@@ -99,10 +99,10 @@ part: "10 of 10"
 ## 0.6 ADHD
 
 > [!warning] FLAG 2026-09-01 — duplicate pair with Psychiatry
-> `Psychiatry_merged 14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder` and
+> `Psych_09_ADHD_ECT_and_Psychotropic_Drugs 14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder` and
 > `NEW_Drugs_17 §0.5 Drugs for Attention Deficit Hyperactivity Disorder` are the other copies.
 > **`M7` has 22 inbound references with Neuro ×9** — dating from when the Corpus B psychiatry set was
-> filed under Neuro. Those references now cross into `Psychiatry_merged.md`.
+> filed under Neuro. Those references now cross into `Psych/`.
 > Pair marked, not merged.
 
 > [!info] The diagnosis requires impairment in MORE THAN ONE SETTING

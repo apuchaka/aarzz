@@ -209,10 +209,10 @@ part: "1 of 10"
 <!-- ===== SOURCE: 15_01a_Paeds_-_Paediatric_and_Newborn_Life_Support.md ===== -->
 
 > [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
-> This source duplicates `Emergency and Crit Care_merged F0-4 §0.4 Paediatric Resuscitation` and
-> `Emergency and Crit Care_merged F0-4 §0.5 Neonatal Resuscitation`, and `15_01b_Paeds_-_Anaphylaxis` duplicates
+> This source duplicates `Emerg_01_Resuscitation_and_the_Deteriorating_Patient F0-4 §0.4 Paediatric Resuscitation` and
+> `Emerg_01_Resuscitation_and_the_Deteriorating_Patient F0-4 §0.5 Neonatal Resuscitation`, and `15_01b_Paeds_-_Anaphylaxis` duplicates
 > `Emergency F0-1 §0.9`, `NEW_Drugs_01 §0.5 Sympathomimetics (Anaphylaxis) — Adrenaline` and
-> `Derm_merged 09_01 ## Anaphylaxis` — **five homes for anaphylaxis.**
+> `Derm_01_Acute_Rash_and_Dermatological_Emergencies 09_01 ## Anaphylaxis` — **five homes for anaphylaxis.**
 > **These are the sections where weight-based and age-banded figures live.** The ASCIA adrenaline table
 > in this corpus has already produced one live paediatric dosing defect (a band stopping at 7.5 kg).
 > **Every per-kg figure and injector band must be listed and checked before anything is merged.**

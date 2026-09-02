@@ -66,8 +66,8 @@ part: "5 of 9"
 ### Centor criteria (sore throat)
 
 > [!warning] FLAG 2026-09-01 — ENT owns this, and the Australian caveat must travel with it
-> `ENT_merged 13_05a ## Sore throat` and `F3 §0.1 Sore Throat` own the presentation.
-> ⚠️ **`Cardio_merged §0.22 Rheumatic Fever` routes to the ENT entry and flags that Centor/FeverPAIN
+> `ENT_03_Throat_Airway_Voice_and_Swallowing 13_05a ## Sore throat` and `F3 §0.1 Sore Throat` own the presentation.
+> ⚠️ **`Cardio_10_Valves_Endocarditis_Cardiomyopathy_HF_and_Pericardium §0.22 Rheumatic Fever` routes to the ENT entry and flags that Centor/FeverPAIN
 > thresholds do not apply the same way in Australia.** If these are ever reconciled, that caveat is the
 > thing most easily lost. Flagged, not moved.
 

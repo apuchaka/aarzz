@@ -115,7 +115,7 @@ part: "2 of 6"
 ### 0.2.3 CKD-Related Anaemia
 
 > [!warning] FLAG 2026-09-01 — duplicate pair with Heme Onc
-> `Heme Onc_merged 10_04 ## Anaemia of chronic kidney disease` covers the same topic from the
+> `HemeOnc_01_Anaemia_and_the_Cytopenias 10_04 ## Anaemia of chronic kidney disease` covers the same topic from the
 > haematology side. **The boundary is defensible — this is the renal cause, that is the anaemia
 > classification — so both are retained. Pair marked, not merged.**
 

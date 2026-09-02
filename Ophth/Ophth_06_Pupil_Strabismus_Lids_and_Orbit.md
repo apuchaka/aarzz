@@ -175,7 +175,7 @@ Bilateral miosis, poor pupillary dilation, pupil irregularity. Light-near dissoc
 ## Blepharospasm
 
 > [!warning] FLAG 2026-09-01 — filed between two lid-disease sections but it is a movement disorder
-> `Neuro_merged D6 §0.6 Chorea, Dystonia, Tics and Myoclonus` owns dystonias.
+> `Neuro_02_Stroke_Seizures_and_Movement_Disorders D6 §0.6 Chorea, Dystonia, Tics and Myoclonus` owns dystonias.
 > Boundary call; flagged, not moved.
 
 **D:** dystonia of the upper eyelids — involuntary contraction of the orbicularis oculi, often in response to ocular pain. Focal dystonia = repetitive blepharospasm.
@@ -320,8 +320,8 @@ Bilateral miosis, poor pupillary dilation, pupil irregularity. Light-near dissoc
 > [!warning] FLAG 2026-09-01 — a cross-system routing artefact worth preserving
 > This block indexes the eye findings of diabetes, hypertension, thyroid disease, MS, sarcoid and RA.
 > **If content moves, this is the kind of connective tissue that is lost first** (CLAUDE.md §1.10).
-> ⚠️ **`Opthalm_merged.md:1221` points at `[[B2]] 0.3` for hypertensive retinopathy, and
-> `Cardio_merged B2 §0.3` carries `> [!danger] Fundoscopy is the examination that most often makes the
+> ⚠️ **`Ophth/` points at `[[B2]] 0.3` for hypertensive retinopathy, and
+> `Cardio_03_Hypertension_Spectrum B2 §0.3` carries `> [!danger] Fundoscopy is the examination that most often makes the
 > diagnosis`. That pair already cross-references correctly — do not break it.**
 
 > [!note] Gap-filled from CSV ("Ocular manifestations of systemic disease," Medium yield, filed under Cardiology in the source spreadsheet but genuinely an Ophthalmology topic) — the individual disease entries this draws together (Diabetic Retinopathy, Hypertensive Retinopathy, Thyroid Eye Disease, and others throughout this file) are already thoroughly built; this entry provides the reverse lookup — given a known systemic disease, what should the eye be examined for — which is a genuinely different retrieval direction than reading each disease entry individually, and is exactly what this CSV item is testing.

@@ -142,7 +142,7 @@ Increase monitoring ± check ketones; consume 3L of fluids/24h ± sugary drinks.
 > [!note] **`[[Preventive-Health]] §0.6 Occupational Health, Certification and Driving` is the AUSTROADS HOME (C7, 2026-09-01).** This section is the condition-specific rule set and stays here, where a reader meets the disease. The general standard, the private-versus-commercial distinction and the reporting obligation are there, not repeated here.
 
 > [!warning] FLAG 2026-09-01 — one of four Austroads homes
-> `Cardio_merged §0.35.5` · `Neuro_merged ### Austroads Driving Standards (Neurological Conditions)` ·
+> `Cardio_12_Congenital_and_Cardiac_Investigations §0.35.5` · `Neuro_07_CNS_Infection_Tumour_and_Head_Injury ### Austroads Driving Standards (Neurological Conditions)` ·
 > `Preventive-Health.md §0.6`. **`Clinical-Process-EBM-Consent-Capacity.md` no longer holds that table — its *Fitness to drive* row now resolves to `[[Preventive-Health]] §0.6`, recorded in that file's closing SPLIT note.**
 > Candidate for a single home; not moved.
 

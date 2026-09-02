@@ -264,12 +264,12 @@ Peak incidence ~36h after last drink — **one point on a withdrawal timeline, n
 ### Seizures vs Syncope
 
 > [!warning] FLAG 2026-09-01 — this discriminator sits across a file boundary
-> **The seizure half is here; the syncope half is in `Cardio_merged B4`** — `B4 §0.1 Transient Loss of
+> **The seizure half is here; the syncope half is in `Cardio_04_Arrhythmia_Devices_Syncope_and_Hypotension B4`** — `B4 §0.1 Transient Loss of
 > Consciousness`, `B4 §0.2 Syncope`, `B4 §0.3 Presyncope`,
 > `B4 §0.4 Conscious Collapse and the Unwitnessed Fall`.
 > `04_Neurology ## Syncope` +`### Cardiac syncope` +`### Non-cardiac syncope` is a third treatment.
 > **A comparison table belongs with whoever owns both sides, and at present nobody does.**
-> `Geriatrics_merged ### Distinguishing a fall from a collapse` is the same discriminator again.
+> `History-Taking ### Distinguishing a fall from a collapse` is the same discriminator again.
 
 | Feature | Seizures | Syncope |
 |---|---|---|

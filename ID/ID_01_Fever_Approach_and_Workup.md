@@ -107,7 +107,7 @@ De-escalate on cultures and review duration daily.
 
 ## 0.3 Fever of Unknown Origin and Prolonged Fever
 
-**D:** Fever above a defined threshold, persisting for a defined duration, **without a diagnosis despite an appropriate initial investigation.** `UNVERIFIED — the temperature threshold, duration and the definition of "appropriate initial investigation".` `CF-PAIR` **All three ARE in this file, at `08_09 ## Pyrexia of unknown origin (PUO) / Fever of unknown origin`, on the Petersdorf/Durack-Street criteria: fever >38.3°C on several occasions, >3 weeks, no cause after 3 days of inpatient evaluation or ≥3 outpatient visits. The marker stays — those figures are not verified against an Australian source here.**
+**D:** Fever above a defined threshold, persisting for a defined duration, **without a diagnosis despite an appropriate initial investigation.** `UNVERIFIED — the temperature threshold, duration and the definition of "appropriate initial investigation".` `CF-PAIR` **All three ARE in the corpus, at `ID_03_Prolonged_Fever_Travel_Exposure_TB_and_HIV` `08_09 ## Pyrexia of unknown origin (PUO) / Fever of unknown origin`, on the Petersdorf/Durack-Street criteria: fever >38.3°C on several occasions, >3 weeks, no cause after 3 days of inpatient evaluation or ≥3 outpatient visits. The marker stays — those figures are not verified against an Australian source here.**
 Subcategories: **classic, nosocomial, neutropenic, and HIV-associated** — each with a different differential.
 
 > [!tip] The four categories of cause, and roughly how they divide

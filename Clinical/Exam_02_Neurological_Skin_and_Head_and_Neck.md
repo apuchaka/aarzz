@@ -95,7 +95,7 @@ part: "2 of 5"
 
 ## 1.15 Dermatological Examination
 
-`CF-PAIR` **4 blocks covering this ground arrived in Part 2 and were NOT merged into this section:** `Skin lesion morphology — reference terms` · `0.1 Describing a Rash` · `0.1 Assessing a Pigmented Lesion` · `0.5 Nails` — from 09_08_Dermatology_-_Miscellaneous.md · G1_Acute_Rash_and_Erythema.md · G5_Lumps__Ulcers_and_Nails.md. **Both copies kept in full.**
+`CF-PAIR` **4 blocks covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and were NOT merged into this section:** `Skin lesion morphology — reference terms` · `0.1 Describing a Rash` · `0.1 Assessing a Pigmented Lesion` · `0.5 Nails` — from 09_08_Dermatology_-_Miscellaneous.md · G1_Acute_Rash_and_Erythema.md · G5_Lumps__Ulcers_and_Nails.md. **Both copies kept in full.**
 
 > [!note] Gap-filled from CSV (Dermatology category: "Skin and soft tissue surgery including skin cancers," "Skin lesions" among others, Medium yield) — a systematic examination technique without a dedicated template despite 9 full disease-category files having been built ([[09_01_Dermatology_-_Dermatological_Emergencies]] through [[09_08_Dermatology_-_Miscellaneous]]). This entry covers the examination approach and systematic lesion description; cross-references the disease sections for diagnosis-specific detail rather than repeating it.
 
@@ -285,7 +285,7 @@ part: "2 of 5"
 
 ## 1.17 Breast Examination
 
-`CF-PAIR` **1 block covering this ground arrived in Part 2 and was NOT merged into this section:** `0.1 Triple Assessment` — from O7_Breast_Disease.md. **Both copies kept in full.**
+`CF-PAIR` **1 block covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and was NOT merged into this section:** `0.1 Triple Assessment` — from O7_Breast_Disease.md. **Both copies kept in full.**
 
 > [!note] No single exact-matching CSV row for this specific examination technique, but it's implied by extensive content already built in [[10_12_Oncology_-_Breast]] (breast cancer, fibroadenoma, and the other breast lump differentials) that depends on a systematic breast exam — added given how foundational and high-yield this station is.
 
@@ -308,7 +308,7 @@ part: "2 of 5"
 
 ## 1.18 Fundoscopy (Direct Ophthalmoscopy)
 
-`CF-PAIR` **2 blocks covering this ground arrived in Part 2 and were NOT merged into this section:** `Fundoscopy is the examination that most often makes the diagnosi` · `0.2 Drugs for Eye Examinations and Procedures` — from B2_Hypertension_Spectrum.md · NEW_Drugs_11_Eye.md. **Both copies kept in full.**
+`CF-PAIR` **2 blocks covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and were NOT merged into this section:** `Fundoscopy is the examination that most often makes the diagnosi` · `0.2 Drugs for Eye Examinations and Procedures` — from B2_Hypertension_Spectrum.md · NEW_Drugs_11_Eye.md. **Both copies kept in full.**
 
 > [!note] Explicit CSV row ("Fundoscopy, Otoscopy," Ophthalmology category) — fundoscopy specifically is added here given how constantly it's referenced throughout [[05_Ophthalmology]] (retinal detachment, vein/artery occlusion, papilloedema, glaucoma, AMD, diabetic and hypertensive retinopathy) without ever having its own systematic technique write-up. Otoscopy — now that the ENT category is built — is added as its own entry immediately below.
 
@@ -333,7 +333,7 @@ part: "2 of 5"
 
 ## 1.19 Otoscopy
 
-`CF-PAIR` **1 block covering this ground arrived in Part 2 and was NOT merged into this section:** `0.1 Examining the Ear and Assessing Hearing` — from F1_Ear.md. **Both copies kept in full.**
+`CF-PAIR` **1 block covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and was NOT merged into this section:** `0.1 Examining the Ear and Assessing Hearing` — from F1_Ear.md. **Both copies kept in full.**
 
 > [!note] Gap-filled — the Ophthalmology-category CSV row explicitly named both Fundoscopy and Otoscopy together, and the ENT category (referenced constantly throughout [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]], [[13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_]], and [[13_03_ENT_-_Deafness_and_Vertigo_Conditions]]) is now built, resolving this project's oldest outstanding forward-reference.
 
@@ -446,7 +446,7 @@ part: "2 of 5"
 
 ## 1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)
 
-`CF-PAIR` **1 block covering this ground arrived in Part 2 and was NOT merged into this section:** `0.2 Acute Vestibular Syndrome and the HINTS Examination` — from D5_Dizziness__Vertigo_and_Gait.md. **Both copies kept in full.**
+`CF-PAIR` **1 block covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and was NOT merged into this section:** `0.2 Acute Vestibular Syndrome and the HINTS Examination` — from D5_Dizziness__Vertigo_and_Gait.md. **Both copies kept in full.**
 
 > [!note] Gap-filled — the Dix-Hallpike manoeuvre and head impulse test are referenced diagnostically throughout [[13_03_ENT_-_Deafness_and_Vertigo_Conditions]] and [[History-Taking]] Vertigo and Dizziness, but neither the specific technique nor the broader HINTS bedside exam (a genuinely high-yield central-vs-peripheral discriminator) had ever been written up as an examination entry.
 

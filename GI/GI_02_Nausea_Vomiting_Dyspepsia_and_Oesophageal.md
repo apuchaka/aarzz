@@ -101,7 +101,7 @@ Oral rehydration education. Review of any drug identified as the cause.
 > [!warning] FLAG 2026-09-01 — `M-10` the neonatal and infant content here duplicates Paediatrics
 > **The neonatal and infant two-thirds of this section duplicate content Paediatrics already owns** —
 > `## Mid-gut malrotation`, `## Pyloric stenosis`, `## Hirschsprung disease`, `M3 §0.4 Neonatal Vomiting`
-> and `M5 §0.2 Vomiting and Gastroenteritis` in `Pediatrics_merged.md`.
+> and `M5 §0.2 Vomiting and Gastroenteritis` in `Paeds/`.
 > **The bilious-versus-non-bilious discriminator and the adult content are GI's and stay.**
 > Not merged: both versions are to be placed side by side and the pair marked, never reconciled.
 
@@ -545,7 +545,7 @@ Skin care education, which is the core of management and takes an explicit conve
 
 > [!warning] FLAG 2026-09-01 — `M-R1` approved for GI, and a stale pointer sits below
 > **`## 0.3 Barrett's oesophagus` and `## 0.4 Oesophageal carcinoma` are approved to move to
-> `GI_merged.md`** — both are taught in the GI block. `## 0.1 Dysphagia — approach`,
+> `GI/`** — both are taught in the GI block. `## 0.1 Dysphagia — approach`,
 > `## 0.5 Pharyngeal pouch` and `## 0.6 Globus pharyngeus` stay in ENT.
 > **Not yet executed: the move is held pending approval by destination.**
 > ⚠️ **The pointer `*(See also 03.08 for GORD…)*` below is WRONG. `03.08` is not GORD; GORD is

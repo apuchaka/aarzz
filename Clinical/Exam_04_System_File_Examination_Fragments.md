@@ -65,7 +65,10 @@ part: "4 of 5"
 >
 > **NOTHING HAS BEEN MERGED.** Where an arriving block covers a topic Part 1 already has, **both
 > copies are kept in full** and each carries a `CF-PAIR` marker naming the other.
-> **Part 1 sections paired this way: §1.1, §1.12, §1.15, §1.17, §1.18, §1.19, §1.2, §1.21, §1.22, §1.23, §1.5.**
+> **Part 1 sections paired this way, by the file each is now in:**
+> `Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative` §1.1, §1.2, §1.5, §1.12 ·
+> `Exam_02_Neurological_Skin_and_Head_and_Neck` §1.15, §1.17, §1.18, §1.19, §1.21 ·
+> `Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds` §1.22, §1.23.
 
 <!-- ===== SOURCE: A1_Emergency_-_Deteriorating_Patient__Sepsis__Cardiac_Arrest.md ===== -->
 *Moved here from `Emergency and Crit Care_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
@@ -401,7 +404,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 > Full reasoning and the measurements: `_meta/flags/_PAIRED_BLOCKS.md`.
 
 ### 3.1 Where they are — the 55 entries
-**`Cardio_merged.md`** — 14 entries
+**`Cardio/`** — 14 entries
 - `Acute Chest Pain` — NEW_Cardiology_and_Vascular.md
 - `Bradycardia and Symptomatic Bradycardia` — NEW_Cardiology_and_Vascular.md
 - `Chest Tightness` — NEW_Cardiology_and_Vascular.md
@@ -417,26 +420,26 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 - `Presyncope` — NEW_Cardiology_and_Vascular.md
 - `Tachycardia` — NEW_Cardiology_and_Vascular.md
 
-**`Derm_merged.md`** — 5 entries
+**`Derm/`** — 5 entries
 - `Acute Rash` — NEW_Dermatology.md
 - `Blistering Rash` — NEW_Dermatology.md
 - `Chronic Rash` — NEW_Dermatology.md
 - `Maculopapular Rash` — NEW_Dermatology.md
 - `Non-Blanching Rash and Purpuric Rash` — NEW_Dermatology.md
 
-**`ENT_merged.md`** — 4 entries
+**`ENT/`** — 4 entries
 - `Acute Ear Pain` — NEW_ENT_and_Oral.md
 - `Acute Epistaxis` — NEW_ENT_and_Oral.md
 - `Acute Hoarseness` — NEW_ENT_and_Oral.md
 - `Acute Sore Throat` — NEW_ENT_and_Oral.md
 
-**`Endocrine and metabolics_merged.md`** — 1 entries
+**`Endo/`** — 1 entries
 - `Dehydration` — NEW_Acid-Base_Fluids_and_Electrolytes.md
 
-**`Geriatrics_merged.md`** — 1 entries
+**`Geri/`** — 1 entries
 - `Assessment — the multifactorial falls risk assessment` — 18_Geriatrics_and_Older_Persons_Health.md
 
-**`MSK_merged.md`** — 6 entries
+**`MSK/`** — 6 entries
 - `Acute Back Pain` — NEW_Orthopaedics_and_Trauma.md
 - `Acute Limb Pain` — NEW_Orthopaedics_and_Trauma.md
 - `Acute Neck Pain` — NEW_Orthopaedics_and_Trauma.md
@@ -444,7 +447,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 - `Acute Joint Pain` — NEW_Rheumatology_and_Immunology.md
 - `Acute Joint Trauma` — NEW_Rheumatology_and_Immunology.md
 
-**`Neuro_merged.md`** — 8 entries
+**`Neuro/`** — 8 entries
 - `Acute Confusion` — NEW_Neurology.md
 - `Acute Facial Weakness` — NEW_Neurology.md
 - `Acute Focal Neurological Deficit` — NEW_Neurology.md
@@ -454,7 +457,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 - `Reduced Consciousness` — NEW_Neurology.md
 - `Thunderclap Headache` — NEW_Neurology.md
 
-**`OBGYN_merged.md`** — 6 entries
+**`OBGYN/`** — 6 entries
 - `Breast Lump` — NEW_Breast.md
 - `Breast Pain` — NEW_Breast.md
 - `Galactorrhoea` — NEW_Breast.md
@@ -462,20 +465,20 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 - `Acute Vaginal Bleeding` — NEW_Gynaecology_and_Reproductive.md
 - `First-Trimester Pain` — NEW_Obstetrics.md
 
-**`Opthalm_merged.md`** — 4 entries
+**`Ophth/`** — 4 entries
 - `Acute Eye Pain` — NEW_Ophthalmology.md
 - `Acute Floaters` — NEW_Ophthalmology.md
 - `Acute Visual Disturbance` — NEW_Ophthalmology.md
 - `Acute Visual Loss` — NEW_Ophthalmology.md
 
-**`Psychiatry_merged.md`** — 1 entries
+**`Psych/`** — 1 entries
 - `Acute Behavioural Disturbance` — NEW_Psychiatry.md
 
-**`Renal and Urology_merged.md`** — 2 entries
+**`Renal/`** — 2 entries
 - `Acute Scrotal Pain` — NEW_Renal_and_Urology.md
 - `Acute Urinary Retention` — NEW_Renal_and_Urology.md
 
-**`Resp_merged.md`** — 3 entries
+**`Resp/`** — 3 entries
 - `Acute Cough` — NEW_Respiratory.md
 - `Acute Dyspnoea` — NEW_Respiratory.md
 - `Acute Stridor` — NEW_Respiratory.md (0 Hx, 1 Exam)

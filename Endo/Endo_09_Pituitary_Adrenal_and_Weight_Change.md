@@ -122,8 +122,8 @@ part: "9 of 12"
 
 > [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: carcinoid — the third end
 > **Carcinoid and neuroendocrine tumours are split three ways and no file owns them:**
-> `GI_merged §0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)` has the **disease entry** ·
-> `Derm_merged G6 §0.2 The Endocrine and Neoplastic Causes` (lines 2084–2100) has the **mechanism** —
+> `GI_07_Biliary_Pancreas_Small_Bowel_and_IBD §0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)` has the **disease entry** ·
+> `Derm_06_Flushing_Sweating_and_Cyanosis G6 §0.2 The Endocrine and Neoplastic Causes` (lines 2084–2100) has the **mechanism** —
 > the portal-circulation explanation, carcinoid crisis, and the octreotide-before-anaesthesia warning ·
 > **this file** holds the neighbouring endocrine content (MEN, `NEW_Drugs_10 §0.5.4 Somatostatin
 > Analogues`) but no carcinoid entry of its own.

@@ -216,7 +216,7 @@ Continued steroid replacement, tapering to maintenance as the crisis resolves. E
 
 
 <!-- ===== SOURCE: 01_Cardiovascular.md ===== -->
-*Co-located here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+*Co-located here from `Cardio/` on 2026-09-01. Verbatim and unrenumbered.*
 
 > [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of shock, side by side, both intact.**
 > `Cardio §0.20` and `F0-3 §0.1`–`F0-3 §0.6` above are **the same four-phenotype framework taught twice**,
@@ -251,7 +251,7 @@ Pump failure (heart cannot pump blood around the body).
 **Mx:**
 - **Immediate/acute:** ABCDE as above; loop diuretic if fluid-overloaded; vasopressors/inotropes (e.g. dobutamine, noradrenaline — specialist-guided); mechanical circulatory support (e.g. IABP, ECMO) in refractory cases.
 - **Definitive:** treat the underlying cause — urgent PCI if MI-driven, antiarrhythmic/cardioversion if arrhythmia-driven, surgical repair if mechanical complication.
-- **Chronic/long-term:** manage as per chronic heart failure (`Cardio_merged.md 01_Cardiovascular §0.28 Chronic Heart Failure`) once stabilised.
+- **Chronic/long-term:** manage as per chronic heart failure (`Cardio_10_Valves_Endocarditis_Cardiomyopathy_HF_and_Pericardium 01_Cardiovascular §0.28 Chronic Heart Failure`) once stabilised.
 **P:** very high mortality if occurring secondary to MI
 
 ### 0.20.2 Hypovolaemic shock

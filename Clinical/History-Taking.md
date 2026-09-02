@@ -629,7 +629,7 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 > They were elsewhere in this file. A cross-reference means opening a second place to read.
 
 <!-- ===== SOURCE: M7_Adolescent_and_Behavioural_Health.md ===== -->
-*Co-located here from elsewhere in this file, 2026-09-01. Verbatim. **Its origin is `Pediatrics_merged.md`** — it was moved from there on 2026-09-01, then co-located to this position; the orphaned divider that carried that fact was removed on 2026-09-02.*
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim. **Its origin is `Paeds/`** — it was moved from there on 2026-09-01, then co-located to this position; the orphaned divider that carried that fact was removed on 2026-09-02.*
 
 ## 0.2 The HEEADSSS Psychosocial Assessment
 `CF-PAIR §1.25` **This block and Part 1 §1.25 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
@@ -906,7 +906,7 @@ A **window period** is the interval between exposure and the point at which a te
 > [!warning] FLAG 2026-09-01 — the sexual history exists in three files
 > Here (the "five Ps" and the normalising script) · `Infectious Disease_merged 08_08 ## The STI Check —
 > Sexual History, What to Test, and When` + `### Taking a sexual history` ·
-> `MSK_merged NEW_Inv_Ortho §0.18 STI Screening (Asymptomatic Sexual Health Check)`.
+> `MSK_11_Investigations_Miscellany NEW_Inv_Ortho §0.18 STI Screening (Asymptomatic Sexual Health Check)`.
 > **`O6` has 23 inbound references and only 2 internal** — GI ×6, ID ×5, Neuro ×4, Paediatrics — so this
 > is already the de facto owner. **A history-taking framework, flagged for `History-Taking.md`;
 > not moved.**
@@ -1004,7 +1004,7 @@ Pathogen-specific treatment, partner notification, and notification.
 > Full reasoning and the measurements: `_meta/flags/_PAIRED_BLOCKS.md`.
 
 ### 2.1 Where they are — the 55 entries
-**`Cardio_merged.md`** — 14 entries
+**`Cardio/`** — 14 entries
 - `Acute Chest Pain` — NEW_Cardiology_and_Vascular.md
 - `Bradycardia and Symptomatic Bradycardia` — NEW_Cardiology_and_Vascular.md
 - `Chest Tightness` — NEW_Cardiology_and_Vascular.md
@@ -1020,26 +1020,26 @@ Pathogen-specific treatment, partner notification, and notification.
 - `Presyncope` — NEW_Cardiology_and_Vascular.md
 - `Tachycardia` — NEW_Cardiology_and_Vascular.md
 
-**`Derm_merged.md`** — 5 entries
+**`Derm/`** — 5 entries
 - `Acute Rash` — NEW_Dermatology.md
 - `Blistering Rash` — NEW_Dermatology.md
 - `Chronic Rash` — NEW_Dermatology.md
 - `Maculopapular Rash` — NEW_Dermatology.md
 - `Non-Blanching Rash and Purpuric Rash` — NEW_Dermatology.md
 
-**`ENT_merged.md`** — 4 entries
+**`ENT/`** — 4 entries
 - `Acute Ear Pain` — NEW_ENT_and_Oral.md
 - `Acute Epistaxis` — NEW_ENT_and_Oral.md
 - `Acute Hoarseness` — NEW_ENT_and_Oral.md
 - `Acute Sore Throat` — NEW_ENT_and_Oral.md
 
-**`Endocrine and metabolics_merged.md`** — 1 entries
+**`Endo/`** — 1 entries
 - `Dehydration` — NEW_Acid-Base_Fluids_and_Electrolytes.md
 
-**`Geriatrics_merged.md`** — 1 entries
+**`Geri/`** — 1 entries
 - `Assessment — the multifactorial falls risk assessment` — 18_Geriatrics_and_Older_Persons_Health.md
 
-**`MSK_merged.md`** — 6 entries
+**`MSK/`** — 6 entries
 - `Acute Back Pain` — NEW_Orthopaedics_and_Trauma.md
 - `Acute Limb Pain` — NEW_Orthopaedics_and_Trauma.md
 - `Acute Neck Pain` — NEW_Orthopaedics_and_Trauma.md
@@ -1047,7 +1047,7 @@ Pathogen-specific treatment, partner notification, and notification.
 - `Acute Joint Pain` — NEW_Rheumatology_and_Immunology.md
 - `Acute Joint Trauma` — NEW_Rheumatology_and_Immunology.md
 
-**`Neuro_merged.md`** — 8 entries
+**`Neuro/`** — 8 entries
 - `Acute Confusion` — NEW_Neurology.md
 - `Acute Facial Weakness` — NEW_Neurology.md
 - `Acute Focal Neurological Deficit` — NEW_Neurology.md
@@ -1057,7 +1057,7 @@ Pathogen-specific treatment, partner notification, and notification.
 - `Reduced Consciousness` — NEW_Neurology.md
 - `Thunderclap Headache` — NEW_Neurology.md
 
-**`OBGYN_merged.md`** — 6 entries
+**`OBGYN/`** — 6 entries
 - `Breast Lump` — NEW_Breast.md
 - `Breast Pain` — NEW_Breast.md
 - `Galactorrhoea` — NEW_Breast.md
@@ -1065,20 +1065,20 @@ Pathogen-specific treatment, partner notification, and notification.
 - `Acute Vaginal Bleeding` — NEW_Gynaecology_and_Reproductive.md
 - `First-Trimester Pain` — NEW_Obstetrics.md
 
-**`Opthalm_merged.md`** — 4 entries
+**`Ophth/`** — 4 entries
 - `Acute Eye Pain` — NEW_Ophthalmology.md
 - `Acute Floaters` — NEW_Ophthalmology.md
 - `Acute Visual Disturbance` — NEW_Ophthalmology.md
 - `Acute Visual Loss` — NEW_Ophthalmology.md
 
-**`Psychiatry_merged.md`** — 1 entries
+**`Psych/`** — 1 entries
 - `Acute Behavioural Disturbance` — NEW_Psychiatry.md
 
-**`Renal and Urology_merged.md`** — 2 entries
+**`Renal/`** — 2 entries
 - `Acute Scrotal Pain` — NEW_Renal_and_Urology.md
 - `Acute Urinary Retention` — NEW_Renal_and_Urology.md
 
-**`Resp_merged.md`** — 3 entries
+**`Resp/`** — 3 entries
 - `Acute Cough` — NEW_Respiratory.md
 - `Acute Dyspnoea` — NEW_Respiratory.md
 - `Acute Stridor` — NEW_Respiratory.md (0 Hx, 1 Exam)

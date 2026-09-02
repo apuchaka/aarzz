@@ -78,7 +78,7 @@ part: "5 of 10"
 
 > [!warning] FLAG 2026-09-01 — ties to Neuro
 > Thymoma's clinical significance here is largely its myasthenia gravis association, owned by
-> `Neuro_merged D4 §0.5 Neuromuscular Junction Disorders` and `04_Neurology ### Myasthenia Gravis`.
+> `Neuro_03_Weakness_Dizziness_and_Cranial_Nerves D4 §0.5 Neuromuscular Junction Disorders` and `04_Neurology ### Myasthenia Gravis`.
 > Flagged, not moved.
 
 - **D:** neoplasm of the epithelial cells of the thymus gland, located in the anterior mediastinum.

@@ -500,8 +500,8 @@ These are the reason "screen-detected patients survive longer" is a near-worthle
 > `Preventive-Health.md` (created 2026-09-01, holding the former `GER3`, **31 inbound**) ·
 > `## 0.12 Health Screening` and `## 0.13 Low-Dose CT Screening` **in this same file** ·
 > `PH1_Population_Health_and_Research_Literacy §0.5 Screening` and `§0.6 Public Health Practice` ·
-> `Infectious Disease_merged 08_01-03 ## Vaccination Schedule` and `## Passive Immunisation` ·
-> `NEW_Drugs_20_Vaccines §0.1` · `Pediatrics_merged 15_24b`.
+> `ID_05_Bacterial_Organisms_and_the_Antibiogram 08_01-03 ## Vaccination Schedule` and `## Passive Immunisation` ·
+> `NEW_Drugs_20_Vaccines §0.1` · `Paeds_10_Adolescent_Behavioural_and_Preventive 15_24b`.
 > **`§0.12` duplicates `§0.1.1` within this one file.** Flagged, nothing merged.
 
 > [!note] Gap-filled from CSV ("Preventative medicine in General Practice including cancer screen, premature cardiovascular diseases, infections, diabetes, conditions occurring during pregnancy, genetic disorders, behavioural disorders, smoking cessation," High yield). Every *component* existed somewhere — cervical screening in [[17_09_Cervical__Vaginal_and_Endometrial_Cancer]] Cervical cancer screening, cardiovascular risk in [[01_Cardiovascular]], diabetes risk in [[06_Metabolic_Medicine_and_Endocrinology]] — but **no entry consolidated them into a framework**, and nothing stated what preventive care an asymptomatic Australian adult should actually be offered and when. Built as an index and framework that routes to the existing disease entries rather than duplicating them. Verified against the RACGP *Guidelines for preventive activities in general practice* ("Red Book," 10th edition), the Australian Government's National Bowel Cancer Screening Program, BreastScreen Australia and National Cervical Screening Program, and the National Immunisation Program, Aug 2026.

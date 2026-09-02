@@ -462,7 +462,7 @@ part: "6 of 10"
 ## Mid-gut malrotation
 
 > [!warning] FLAG 2026-09-01 — `M-10` GI holds a second copy of this content
-> `GI_merged C2 §0.3 Bilious versus Non-Bilious Vomiting` carries the neonatal malrotation, pyloric
+> `GI_02_Nausea_Vomiting_Dyspepsia_and_Oesophageal C2 §0.3 Bilious versus Non-Bilious Vomiting` carries the neonatal malrotation, pyloric
 > stenosis, atresia, Hirschsprung and NEC content alongside its adult material.
 > **This file owns the topics** — `## Pyloric stenosis`, `## Hirschsprung disease`, `M3 §0.4 Neonatal
 > Vomiting`, `M5 §0.2 Vomiting and Gastroenteritis`. **The GI discriminator is GI's and stays there.**

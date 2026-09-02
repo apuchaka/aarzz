@@ -188,7 +188,7 @@ Croup is recurrent in some children and parents should have written advice on re
 
 
 <!-- ===== SOURCE: NEW_Respiratory.md ===== -->
-*Co-located here from `Resp_merged.md` on 2026-09-01. Verbatim.*
+*Co-located here from `Resp/` on 2026-09-01. Verbatim.*
 
 > [!info] **CO-LOCATED, NOT CROSS-REFERENCED — a second account of this presentation, intact, nothing reconciled.**
 > Acute stridor is an airway emergency first and a respiratory diagnosis second. Both accounts are here so you read them together rather than opening a second file.

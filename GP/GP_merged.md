@@ -384,7 +384,7 @@ The temptation is to read this as policy. It is not — several of the levers si
 ## 0.14 Genetic Risk Assessment
 
 > [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
-> **`Heme Onc_merged 10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes` — Li-Fraumeni, BRCA1/2,
+> **`HemeOnc_06_Oncology_Principles_and_Breast_Cancer 10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes` — Li-Fraumeni, BRCA1/2,
 > Lynch, FAP, von Hippel-Lindau — has 3 inbound references and ALL THREE ARE FROM THIS FILE.**
 > This entry and `§0.15 Genetics and Molecular Testing` point there; it does not point back.
 > ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**

@@ -426,10 +426,10 @@ Primary injuries divided into focal or diffuse.
 > [!note] **`[[Preventive-Health]] §0.6 Occupational Health, Certification and Driving` is the AUSTROADS HOME (C7, 2026-09-01).** This section is the condition-specific rule set and stays here, where a reader meets the disease. The general standard, the private-versus-commercial distinction and the reporting obligation are there, not repeated here.
 
 > [!warning] FLAG 2026-09-01 — one of four Austroads homes
-> `Cardio_merged §0.35.5` · `Endocrine and metabolics_merged §0.15.8` · `Preventive-Health.md §0.6`.
+> `Cardio_12_Congenital_and_Cardiac_Investigations §0.35.5` · `Endo_08_Diabetes_DKA_HHS_and_Metabolic_Syndrome §0.15.8` · `Preventive-Health.md §0.6`.
 > **`Clinical-Process-EBM-Consent-Capacity.md` no longer holds that table — its *Fitness to drive* row now resolves to `[[Preventive-Health]] §0.6`, recorded in that file's closing SPLIT note.**  
 > Also,
-> `Neuro_merged.md:1774` and `Resp_merged.md:725` both cross-refer to the cardiovascular one.
+> `Neuro/` and `Resp/` both cross-refer to the cardiovascular one.
 > Candidate for a single home; not moved.
 
 > [!info] Verified against Austroads *Assessing Fitness to Drive* 2022 edition (current at Aug 2026), private-vehicle standards, Aug 2026 — Australian standards are structured quite differently from the UK DVLA rules, generally built around a single "default standard" seizure-free/event-free period rather than the UK's variable tiered system. Commercial-vehicle standards are considerably stricter (e.g. 10-year seizure-free default for some categories) — check the source document directly if advising a commercial driver.
@@ -468,7 +468,7 @@ Primary injuries divided into focal or diffuse.
 ### Wernicke's Encephalopathy
 
 > [!warning] FLAG 2026-09-01 — duplicate pair with GI
-> `GI_merged C2 §0.7 Complications of Vomiting` opens with
+> `GI_02_Nausea_Vomiting_Dyspepsia_and_Oesophageal C2 §0.7 Complications of Vomiting` opens with
 > *"Wernicke's encephalopathy — give thiamine before glucose"* and covers the same emergency.
 > **Both retained; pair marked, not merged.**
 

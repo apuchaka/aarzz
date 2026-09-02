@@ -515,7 +515,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 ---
 
 ## 0.4 Troponins and Cardiac Biomarkers
-`CF-PAIR §1.12` **THREE HOMES, now two of them in this file. Part 1 §1.12 Cardiac Markers (Troponin) and Lactate covers the same assay, and `Cardio_merged.md §0.5 Troponin and Cardiac Biomarkers` is the third. All kept in full, NOT reconciled — this one owns the injury-versus-infarction distinction.**
+`CF-PAIR §1.12` **THREE HOMES, now two of them in this file. Part 1 §1.12 Cardiac Markers (Troponin) and Lactate covers the same assay, and `Cardio_01_Chest_Pain_and_Cardiac_Biomarkers §0.5 Troponin and Cardiac Biomarkers` is the third. All kept in full, NOT reconciled — this one owns the injury-versus-infarction distinction.**
 
 > [!danger] Troponin is a marker of myocardial INJURY, not of myocardial INFARCTION
 > **THIS IS THE MOST IMPORTANT INTERPRETIVE POINT IN ACUTE MEDICINE, AND HIGH-SENSITIVITY ASSAYS HAVE MADE IT MORE IMPORTANT, NOT LESS.**

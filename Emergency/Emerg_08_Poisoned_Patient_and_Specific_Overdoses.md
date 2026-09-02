@@ -426,7 +426,7 @@ Both are toxidromes causing the triad of **hyperthermia, altered mental status, 
 ---
 
 ## Opioid Toxicity
-`CF-PAIR` **A second opioid entry exists in this file. Both kept in full, NOT reconciled — `Psychiatry 14a-1 ## Opioid misuse` is the third, and it already defers to this one for the toxidrome.**
+`CF-PAIR` **A second opioid entry is at `Emerg_07_Toxidromes_Anaphylaxis_and_Envenomation §0.5 Opioid-Induced Respiratory Depression`. Both kept in full, NOT reconciled — `Psychiatry 14a-1 ## Opioid misuse` is the third, and it already defers to this one for the toxidrome.**
 
 > [!note] Gap-filled — mentioned in passing as a cause of Type II respiratory failure in [[06_Metabolic_Medicine_and_Endocrinology]] and as a naloxone-reversible cause of reduced consciousness in [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), but never built as its own entry, despite the extensive opioid content already established in [[10_11c_Oncology_-_Palliative_Care_Prescribing]] (opioid conversion, dosing) that this connects to directly.
 

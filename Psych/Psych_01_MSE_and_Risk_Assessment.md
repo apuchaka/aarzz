@@ -158,7 +158,7 @@ part: "1 of 9"
 
 ## 0.5 Mental Health Legislation in South Australia
 
-> [!warning] `CF-PAIR` — a second treatment of this topic exists in this file
+> [!warning] `CF-PAIR` — a second treatment of this topic is in `Psych_02_Acute_Disturbance_Substance_Use_and_Mental_Health_Act`
 > **`14_06b_Psych_-_Mental_Health_Act_and_Sectioning`** covers the same Act from the Corpus A layer — involuntary treatment overview, the three-part test, CTOs, ITOs, SACAT, interstate transfer, safeguards, police involvement, voluntary inpatients and guardianship. **Both are retained deliberately. Do not merge them.** The `> [!danger] Verify everything in this section` warning below has been copied onto that section too, so it survives whichever copy is kept.
 
 > [!danger] Verify everything in this section

@@ -167,7 +167,7 @@ part: "6 of 10"
 > ARE FROM `GP_merged.md`** — nothing in haematology or oncology points at it.
 > **`GP_merged NEW_Investigations_General_and_Preventive §0.14 Genetic Risk Assessment` and
 > `GP_merged NEW_Investigations_General_and_Preventive §0.15 Genetics and Molecular Testing` point here**, and this file does not point back.
-> `Pediatrics_merged 15_18b Genetic Disorders Inheritance Summary` and `15_20`–`15_21` hold the
+> `Paeds_09_Puberty_and_Clinical_Genetics 15_18b Genetic Disorders Inheritance Summary` and `15_20`–`15_21` hold the
 > syndrome genetics from the paediatric side.
 > ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
 

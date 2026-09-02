@@ -421,7 +421,7 @@ part: "9 of 10"
 > there. Its clinical home is `C3 §0.3 Conjugated and Obstructive Jaundice`, which already explains the
 > mechanism (*"pale stools as stercobilin is no longer produced"*).
 > **Two other files produced the same error class**: `NEW_Investigations_Renal_and_Urology §0.4 Dark Urine`
-> and `NEW_Investigations_Haematology_Part2 §0.25 Petechiae`. `Renal and Urology_merged.md:1848` cites
+> and `NEW_Investigations_Haematology_Part2 §0.25 Petechiae`. `Renal/` cites
 > this very entry, so the pointer stays valid wherever it lands.
 
 **D:** Not a laboratory test — a **clinical sign** on the build list: acholic (pale, putty-coloured) stools, usually with dark urine, indicating **absent bile pigment reaching the gut**.

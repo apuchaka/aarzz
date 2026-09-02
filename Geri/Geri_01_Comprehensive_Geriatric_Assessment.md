@@ -263,9 +263,9 @@ Ongoing exercise, review of the home, and **address fear of falling directly**, 
 ## 0.6 Osteoporosis and Fracture Prevention
 
 > [!warning] FLAG 2026-09-01 — osteoporosis is in five places
-> `MSK_merged 11_08b ## Osteoporosis` and `## Bisphosphonates` · `MSK L7 §0.6 Fragility Fractures` ·
-> `Endocrine and metabolics_merged NEW_Drugs_10 §0.1 Drugs Affecting Bone`.
-> **`MSK_merged NEW_Inv_Ortho §0.4 Bone Densitometry (DEXA)` is the investigation half.**
+> `MSK_08_Bone_Disease_Tumours_and_Paediatric_Orthopaedics 11_08b ## Osteoporosis` and `## Bisphosphonates` · `MSK L7 §0.6 Fragility Fractures` ·
+> `Endo_12_Drugs NEW_Drugs_10 §0.1 Drugs Affecting Bone`.
+> **`MSK_10_Investigations_Bone_Spine_and_Nerve NEW_Inv_Ortho §0.4 Bone Densitometry (DEXA)` is the investigation half.**
 > Flagged, nothing merged.
 
 **D:** A skeletal disorder of reduced bone strength predisposing to fracture. Diagnosed by **bone mineral density on DXA** below a defined threshold, **or — regardless of density — by the occurrence of a minimal trauma (fragility) fracture.**

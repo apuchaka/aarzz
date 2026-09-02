@@ -89,7 +89,7 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ## 0.3 Acute Urinary Retention
 
-`CF-PAIR` **Three accounts of acute urinary retention sit in this file and none declared the others before 2026-09-02:** `07 §0.12 Urinary Retention` · `H2 §0.3 Acute Urinary Retention` · `NEW_Renal_and_Urology ## Acute Urinary Retention`. **The safety rule is in ONE of them:** `H2 §0.3` carries *"DO NOT CLAMP THE CATHETER intermittently to decompress slowly"* and the discharge-without-monitoring error; the other two mention post-obstructive diuresis without it. **All kept, none reconciled.**
+`CF-PAIR` **Three accounts of acute urinary retention sit across `Renal_03_Urology_Disease_Layer` (the `07` account) and `Renal_04_LUTS_Retention_Scrotum_and_Groin` (the other two), and none declared the others before 2026-09-02:** `07 §0.12 Urinary Retention` · `H2 §0.3 Acute Urinary Retention` · `NEW_Renal_and_Urology ## Acute Urinary Retention`. **The safety rule is in ONE of them:** `H2 §0.3` carries *"DO NOT CLAMP THE CATHETER intermittently to decompress slowly"* and the discharge-without-monitoring error; the other two mention post-obstructive diuresis without it. **All kept, none reconciled.**
 
 > [!tip] The presentation and the precipitants
 > **PAINFUL inability to void, with a palpable and percussible suprapubic bladder** — and the pain is what distinguishes it from chronic retention.
@@ -214,7 +214,7 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ## 0.1 The Acute Scrotum
 
-`CF-PAIR` **Three accounts of the acute scrotum sit in this file and none declared the others before 2026-09-02:** `07 §0.20 Testicular Torsion` · `H4 §0.1 The Acute Scrotum` · `NEW_Renal_and_Urology ## Acute Scrotal Pain`. **The safety content is split:** `H4 §0.1` alone carries *"A NORMAL DOPPLER ULTRASOUND DOES NOT EXCLUDE TORSION"*, and `NEW_Renal_and_Urology` alone carries the **~6-hour salvage window**. All three say imaging must not delay theatre. **All kept, none reconciled.**
+`CF-PAIR` **Three accounts of the acute scrotum sit across `Renal_03_Urology_Disease_Layer` (the `07` account) and `Renal_04_LUTS_Retention_Scrotum_and_Groin` (the other two), and none declared the others before 2026-09-02:** `07 §0.20 Testicular Torsion` · `H4 §0.1 The Acute Scrotum` · `NEW_Renal_and_Urology ## Acute Scrotal Pain`. **The safety content is split:** `H4 §0.1` alone carries *"A NORMAL DOPPLER ULTRASOUND DOES NOT EXCLUDE TORSION"*, and `NEW_Renal_and_Urology` alone carries the **~6-hour salvage window**. All three say imaging must not delay theatre. **All kept, none reconciled.**
 
 > [!danger] Testicular torsion until proven otherwise — and imaging must not delay theatre
 > **Testicular salvage falls steeply with time from onset.** **The window is measured in hours, and it is the single most time-critical urological diagnosis.**
@@ -420,7 +420,7 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ## Acute Scrotal Pain
 
-`CF-PAIR` **Three accounts of the acute scrotum sit in this file and none declared the others before 2026-09-02:** `07 §0.20 Testicular Torsion` · `H4 §0.1 The Acute Scrotum` · `NEW_Renal_and_Urology ## Acute Scrotal Pain`. **The safety content is split:** `H4 §0.1` alone carries *"A NORMAL DOPPLER ULTRASOUND DOES NOT EXCLUDE TORSION"*, and `NEW_Renal_and_Urology` alone carries the **~6-hour salvage window**. All three say imaging must not delay theatre. **All kept, none reconciled.**
+`CF-PAIR` **Three accounts of the acute scrotum sit across `Renal_03_Urology_Disease_Layer` (the `07` account) and `Renal_04_LUTS_Retention_Scrotum_and_Groin` (the other two), and none declared the others before 2026-09-02:** `07 §0.20 Testicular Torsion` · `H4 §0.1 The Acute Scrotum` · `NEW_Renal_and_Urology ## Acute Scrotal Pain`. **The safety content is split:** `H4 §0.1` alone carries *"A NORMAL DOPPLER ULTRASOUND DOES NOT EXCLUDE TORSION"*, and `NEW_Renal_and_Urology` alone carries the **~6-hour salvage window**. All three say imaging must not delay theatre. **All kept, none reconciled.**
 
 - **D:** acute pain in the scrotum or testis. **The entire presentation exists to answer one question: is this testicular torsion?** Everything else in the differential can wait; torsion cannot.
 - **DDx:**
@@ -452,7 +452,7 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ## Acute Urinary Retention
 
-`CF-PAIR` **Three accounts of acute urinary retention sit in this file and none declared the others before 2026-09-02:** `07 §0.12 Urinary Retention` · `H2 §0.3 Acute Urinary Retention` · `NEW_Renal_and_Urology ## Acute Urinary Retention`. **The safety rule is in ONE of them:** `H2 §0.3` carries *"DO NOT CLAMP THE CATHETER intermittently to decompress slowly"* and the discharge-without-monitoring error; the other two mention post-obstructive diuresis without it. **All kept, none reconciled.**
+`CF-PAIR` **Three accounts of acute urinary retention sit across `Renal_03_Urology_Disease_Layer` (the `07` account) and `Renal_04_LUTS_Retention_Scrotum_and_Groin` (the other two), and none declared the others before 2026-09-02:** `07 §0.12 Urinary Retention` · `H2 §0.3 Acute Urinary Retention` · `NEW_Renal_and_Urology ## Acute Urinary Retention`. **The safety rule is in ONE of them:** `H2 §0.3` carries *"DO NOT CLAMP THE CATHETER intermittently to decompress slowly"* and the discharge-without-monitoring error; the other two mention post-obstructive diuresis without it. **All kept, none reconciled.**
 
 - **D:** the sudden inability to pass urine, with a painfully distended bladder. **It is painful — and painless retention is a different and more sinister problem**, suggesting chronic retention or a neurological cause such as cauda equina syndrome or spinal cord compression.
 - **DDx:**

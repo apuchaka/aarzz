@@ -64,7 +64,7 @@ Address the underlying condition and its preventer or maintenance therapy.
 
 
 <!-- ===== SOURCE: NEW_Respiratory.md ===== -->
-*Co-located here from `Resp_merged.md` on 2026-09-01. Verbatim.*
+*Co-located here from `Resp/` on 2026-09-01. Verbatim.*
 
 > [!info] **CO-LOCATED, NOT CROSS-REFERENCED — a second account of this presentation, intact, nothing reconciled.**
 > Acute dyspnoea is a presentation you manage before you know the cause — the same reasoning as shock. Both accounts are here so you read them together rather than opening a second file.

@@ -110,7 +110,7 @@ aliases:
 
 > [!warning] FLAG 2026-09-01 — same topic twice in this file, and twice more elsewhere
 > `AN1 §0.5 Postoperative Complications` is the Corpus B version.
-> Also `Emergency and Crit Care_merged A1 §0.5 Post-Procedural Deterioration`, `A1 §0.6 Failure to Wake
+> Also `Emerg_01_Resuscitation_and_the_Deteriorating_Patient A1 §0.5 Post-Procedural Deterioration`, `A1 §0.6 Failure to Wake
 > Post-Sedation`, and `Infectious Disease_merged K1 §0.6 Post-Operative and Drug Fever`.
 > ⚠️ **Three inbound flags are destined for `AN1 §0.3 Perioperative Medication Management` and
 > `AN1 §0.7 Specific Perioperative Situations`** — perioperative diabetes management (Endocrine),
@@ -203,7 +203,7 @@ aliases:
 ## 0.6 Group & Hold / Crossmatch
 
 > [!warning] FLAG 2026-09-01 — three homes
-> `Heme Onc_merged 10_08 ## ABO and Rh Compatibility — The Two Opposite Rules` and
+> `HemeOnc_03_Bleeding_Thrombosis_and_Transfusion 10_08 ## ABO and Rh Compatibility — The Two Opposite Rules` and
 > `NEW_Investigations_Haematology ## Immunohematology`. Flagged, nothing merged.
 
 > [!note] Gap-filled from CSV (Anaesthetics/Perioperative Care category, Low yield) — not covered in the source primer.
@@ -792,8 +792,8 @@ aliases:
 
 > [!warning] FLAG 2026-09-01 — an AMH chapter is not a clinical grouping
 > `NEW_Drugs_03_Analgesics` contains **gout, migraine and opioid dependence** alongside analgesics
-> because AMH section 3 does. Their clinical homes are `MSK_merged 12_02 §0.2 Gout`,
-> `Neuro_merged ## Migraine` / `D1 §0.3`, and `Psychiatry_merged 14a-1 ## Opioid misuse`.
+> because AMH section 3 does. Their clinical homes are `MSK_04_Rheumatological_Disease_and_Widespread_Pain 12_02 §0.2 Gout`,
+> `Neuro_04_Headache_Disorders_Delirium_and_Dementia ## Migraine` / `D1 §0.3`, and `Psych_02_Acute_Disturbance_Substance_Use_and_Mental_Health_Act 14a-1 ## Opioid misuse`.
 > **This is a property of the source's provenance, not a misfile by anyone.** Flagged, nothing moved.
 
 > [!danger] **The single most important prescribing principle in gout: NEVER start, stop or change the dose of a urate-lowering drug during an acute flare unless the patient is already established on it.**

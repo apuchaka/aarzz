@@ -63,8 +63,8 @@ part: "7 of 10"
 ## 0.2 Organ transplant
 
 > [!warning] FLAG 2026-09-01 — overlaps Renal, and this source has zero inbound references
-> `Renal and Urology_merged §0.2.4 Renal Replacement Therapy Modalities`, `Renal and Urology_merged §0.2.5 Rejection` and
-> `Renal and Urology_merged §0.2.6 Complications of transplant and lifelong immunosuppression` cover the same ground and **are**
+> `Renal_02_Renal_Medicine_Disease_Layer §0.2.4 Renal Replacement Therapy Modalities`, `Renal_02_Renal_Medicine_Disease_Layer §0.2.5 Rejection` and
+> `Renal_02_Renal_Medicine_Disease_Layer §0.2.6 Complications of transplant and lifelong immunosuppression` cover the same ground and **are**
 > referenced. **`10_10b_Haemonc_-_Transplant_Medicine` has none.**
 > ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers in this vault can be
 > validated at all. It is listed because it coincides with demonstrated content overlap, not instead of it.
@@ -374,7 +374,7 @@ part: "7 of 10"
 > [!warning] FLAG 2026-09-01 — palliative care has 31 inbound references and none from haematology
 > `10_11c_Oncology_-_Palliative_Care_Prescribing` (11 inbound: **Anaes ×4**, GP, MSK) and
 > `J5 §0.4–§0.6` (20 inbound) are referenced from across the vault but not from within this file's
-> subject. `Geriatrics_merged GER2 §0.5 End-of-Life Care` and `Geriatrics_merged GER2 §0.6 Advance Care Planning` are the
+> subject. `Geri_03_Geriatric_Syndromes_and_End_of_Life_Care GER2 §0.5 End-of-Life Care` and `Geri_03_Geriatric_Syndromes_and_End_of_Life_Care GER2 §0.6 Advance Care Planning` are the
 > other half. **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty:
 > nothing has been moved.**
 > **Opioid conversion appears in five places** (here, `Anaes 03a §0.7`, `AN1 §0.6`,

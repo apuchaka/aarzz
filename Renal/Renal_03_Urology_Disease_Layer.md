@@ -202,7 +202,7 @@ Definitive diagnosis based on histology, but biopsies are rare. Presumptive clin
 
 ## 0.12 Urinary Retention
 
-`CF-PAIR` **Three accounts of acute urinary retention sit in this file and none declared the others before 2026-09-02:** `07 §0.12 Urinary Retention` · `H2 §0.3 Acute Urinary Retention` · `NEW_Renal_and_Urology ## Acute Urinary Retention`. **The safety rule is in ONE of them:** `H2 §0.3` carries *"DO NOT CLAMP THE CATHETER intermittently to decompress slowly"* and the discharge-without-monitoring error; the other two mention post-obstructive diuresis without it. **All kept, none reconciled.**
+`CF-PAIR` **Three accounts of acute urinary retention sit across `Renal_03_Urology_Disease_Layer` (the `07` account) and `Renal_04_LUTS_Retention_Scrotum_and_Groin` (the other two), and none declared the others before 2026-09-02:** `07 §0.12 Urinary Retention` · `H2 §0.3 Acute Urinary Retention` · `NEW_Renal_and_Urology ## Acute Urinary Retention`. **The safety rule is in ONE of them:** `H2 §0.3` carries *"DO NOT CLAMP THE CATHETER intermittently to decompress slowly"* and the discharge-without-monitoring error; the other two mention post-obstructive diuresis without it. **All kept, none reconciled.**
 
 > [!note] Gap-filled from CSV ("Urinary retention," Medium yield) — previously only mentioned in passing (as a cause of raised PSA). This entry covers acute and chronic retention as distinct entities, cross-referencing BPH above for the most common underlying cause rather than repeating it.
 
@@ -289,7 +289,7 @@ Definitive diagnosis based on histology, but biopsies are rare. Presumptive clin
 
 ## 0.20 Testicular Torsion
 
-`CF-PAIR` **Three accounts of the acute scrotum sit in this file and none declared the others before 2026-09-02:** `07 §0.20 Testicular Torsion` · `H4 §0.1 The Acute Scrotum` · `NEW_Renal_and_Urology ## Acute Scrotal Pain`. **The safety content is split:** `H4 §0.1` alone carries *"A NORMAL DOPPLER ULTRASOUND DOES NOT EXCLUDE TORSION"*, and `NEW_Renal_and_Urology` alone carries the **~6-hour salvage window**. All three say imaging must not delay theatre. **All kept, none reconciled.**
+`CF-PAIR` **Three accounts of the acute scrotum sit across `Renal_03_Urology_Disease_Layer` (the `07` account) and `Renal_04_LUTS_Retention_Scrotum_and_Groin` (the other two), and none declared the others before 2026-09-02:** `07 §0.20 Testicular Torsion` · `H4 §0.1 The Acute Scrotum` · `NEW_Renal_and_Urology ## Acute Scrotal Pain`. **The safety content is split:** `H4 §0.1` alone carries *"A NORMAL DOPPLER ULTRASOUND DOES NOT EXCLUDE TORSION"*, and `NEW_Renal_and_Urology` alone carries the **~6-hour salvage window**. All three say imaging must not delay theatre. **All kept, none reconciled.**
 
 > [!note] Gap-filled from CSV ("Testicular Torsion"/"Torsion of testis," both High yield) — previously only covered within the compact Testicular Lumps comparison table further below; given a full dedicated entry here given its status as a true time-critical surgical emergency, distinct from the other more chronic/subacute conditions in that table.
 

@@ -99,7 +99,7 @@ part: "4 of 10"
 > This subsection already states it *"resolves the `G-CSF` row miscategorised onto the investigations
 > build list"*, and `GI NEW_Investigations_Gastroenterology §0.34 G-CSF` independently records that
 > G-CSF *"is a drug, not a test"*. **Two files agreeing from opposite ends.**
-> ⚠️ **This source is byte-identical in `Endocrine and metabolics_merged.md`** — whichever copy receives
+> ⚠️ **This source is byte-identical in `Endo/`** — whichever copy receives
 > the GI content, the other must not be left behind.
 *(this entry also resolves the `G-CSF` row miscategorised onto the investigations build list)*
 - **Mechanism:** recombinant haematopoietic growth factors driving **neutrophil** production and release from the marrow.

@@ -336,7 +336,7 @@ part: "12 of 12"
 <!-- ===== SOURCE: NEW_Drugs_07_Blood_and_Electrolytes.md ===== -->
 
 > [!note] **DE-DUPLICATED — AXIS-1, 2026-09-01. The content now lives once, in `[[HemeOnc_04_Blood_and_Electrolyte_Drugs]]`.**
-> `NEW_Drugs_07_Blood_and_Electrolytes` was **byte-identical in this file and in `Heme Onc_merged.md`** —
+> `NEW_Drugs_07_Blood_and_Electrolytes` was **byte-identical in this file and in `HemeOnc/`** —
 > 240 lines, and the only one of 295 sources concatenated into two merged documents.
 >
 > **The Heme Onc copy was kept**, because **three of its four sections are haematological** —

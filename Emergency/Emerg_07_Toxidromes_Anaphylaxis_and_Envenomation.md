@@ -412,7 +412,7 @@ Wound care and tetanus status. Warn about serum sickness after antivenom. Redbac
 
 > [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
 > Anaphylaxis has **six homes**: here · `F0-1 §0.9 Anaphylaxis and Acute Allergic Reaction` ·
-> `Derm_merged 09_01 ## Anaphylaxis` · `Pediatrics_merged 15_01b_Paeds_-_Anaphylaxis` ·
+> `Derm_01_Acute_Rash_and_Dermatological_Emergencies 09_01 ## Anaphylaxis` · `Paeds_01_Seriously_Unwell_Child_and_Resuscitation 15_01b_Paeds_-_Anaphylaxis` ·
 > `Infectious Disease_merged K4` (allergy) · **`01_Cardiovascular §0.20.3 Distributive shock`, co-located into this file 2026-09-01, which carries the ASCIA box including the `<7.5 kg` row**.
 > **This section and `F0-4 §0.4 Paediatric Resuscitation` are where weight-banded adrenaline figures
 > live.** The ASCIA table in this corpus has already produced one live paediatric dosing defect.

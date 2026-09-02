@@ -236,8 +236,8 @@ part: "9 of 12"
 > **Within MSK:** this section +7 subsections, and `L8 §0.1 The Primary Survey and Trauma Principles`
 > are the same topic twice. `## Splenic trauma`, `## Liver trauma` and `L8 §0.4 Abdominal Trauma` are
 > three copies of abdominal trauma. `## Head injuries` duplicates `Neuro ### Head Injury`.
-> **Across files:** `GI_merged C1 §0.10 Abdominal Trauma` · `Emergency F0-5 §0.7 Major Head Injury` and
-> `Emergency F0-5 §0.8 Minor Head Injury` · `Neuro_merged ### Head Injury`.
+> **Across files:** `GI_01_Acute_Abdomen C1 §0.10 Abdominal Trauma` · `Emergency F0-5 §0.7 Major Head Injury` and
+> `Emergency F0-5 §0.8 Minor Head Injury` · `Neuro_07_CNS_Infection_Tumour_and_Head_Injury ### Head Injury`.
 > **See `_meta/flags/_TRAUMA.md` for the full analysis. Nothing has been moved.**
 
 > [!note] Gap-filled from CSV ("Major trauma" and "Trauma," Medium yield). **Verified as genuinely absent before building rather than assumed** — this file holds organ-specific trauma (thoracic, genitourinary, splenic, liver, head, ocular) with no structured approach to the patient, and corpus-wide search returned **zero hits** for catastrophic haemorrhage, pelvic binder, permissive hypotension or secondary survey. The **generic** ABCDE approach is fully built in [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient) and is **not repeated here** — this entry covers only what trauma changes about it. Verified against ANZCOR guidelines and Australian state major trauma service guidelines, Aug 2026.

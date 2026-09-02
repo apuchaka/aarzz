@@ -281,8 +281,8 @@ Spirometry (*why:* quantifies functional impact and tracks progression; *what:* 
 > [!warning] FLAG 2026-09-01 — this is metadata sitting inside clinical content
 > An administrative section in a clinical file; candidate for `_meta/`. **It also parks two topics
 > without a home**: *"Diphtheria — flagged for whichever of those files comes up next in the rotation"*
-> (it landed in `Infectious Disease_merged 08_01-03 ## Diphtheria`) and the paediatric respiratory rows
-> (bronchiolitis, croup, pertussis, viral-induced wheeze), which `Pediatrics_merged M6 §0.2–§0.4` and
+> (it landed in `ID_05_Bacterial_Organisms_and_the_Antibiogram 08_01-03 ## Diphtheria`) and the paediatric respiratory rows
+> (bronchiolitis, croup, pertussis, viral-induced wheeze), which `Paeds_05_Respiratory_and_Neurology M6 §0.2–§0.4` and
 > `15_04a`/`15_04b` own. **Both parked items are accounted for; the note is now stale.**
 
 - **Pulmonary Embolism / Pulmonary embolus** (CSV rows) — fully covered in [[01_Cardiovascular]] section 0.30, including Wells score pathway, PERC rule, and Mx. Not duplicated here — this is a genuinely cross-cutting topic (chest/vascular) already built in its canonical home per the project's cross-cutting-topic convention.

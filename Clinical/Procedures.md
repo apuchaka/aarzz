@@ -214,7 +214,7 @@ aliases:
 ---
 
 ## 0.3 Gastrografin and Contrast Studies
-`CF-PAIR` **THREE-WAY. `GI_merged.md §0.36 Gastrografin (Water-Soluble Contrast Study)` covers the same study — the duplication you flagged as `M-18`. Both kept in full, NOT reconciled.**
+`CF-PAIR` **THREE-WAY. `GI_09_Investigations §0.36 Gastrografin (Water-Soluble Contrast Study)` covers the same study — the duplication you flagged as `M-18`. Both kept in full, NOT reconciled.**
 
 > [!danger] Barium versus water-soluble contrast — the decision rests on one question
 > **THE QUESTION: IS THERE ANY POSSIBILITY OF A PERFORATION OR LEAK?**

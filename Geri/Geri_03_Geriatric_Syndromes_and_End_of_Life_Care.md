@@ -22,7 +22,7 @@ part: "3 of 3"
 ## 0.4 Immobility, Deconditioning and Hospital-Associated Decline
 
 > [!warning] FLAG 2026-09-01 — duplicate pair with MSK
-> `MSK_merged L6 §0.6 Immobility, Mobility Aids and Functional Assessment` covers the same ground.
+> `MSK_07_Soft_Tissue_Injury_and_Fractures L6 §0.6 Immobility, Mobility Aids and Functional Assessment` covers the same ground.
 > Pair marked, not merged.
 
 > [!danger] Deconditioning in hospital is iatrogenic and it is fast
@@ -60,9 +60,9 @@ Ongoing exercise, equipment, home supports, and **realistic goal-setting with th
 ## 0.2 Pressure Injury
 
 > [!warning] FLAG 2026-09-01 — three files cover wounds, pressure injury and leg ulcers
-> `Derm_merged G2 §0.6 Wounds, Pressure Injury and Leg Ulcers` ·
+> `Derm_02_Blistering_Purpura_and_Inflammatory_Dermatoses G2 §0.6 Wounds, Pressure Injury and Leg Ulcers` ·
 > `Examination.md §1.27 Leg and Skin Ulcers` and `Examination.md §1.28 Wound Management` ·
-> `Cardio_merged §0.36.8 Lower Leg Ulcers`. Flagged, nothing merged.
+> `Cardio_11_VTE_Pulmonary_Hypertension_and_Vascular §0.36.8 Lower Leg Ulcers`. Flagged, nothing merged.
 
 **A/P:** **Sustained pressure exceeding capillary closing pressure occludes perfusion**, causing tissue ischaemia. **Shear** (sliding down the bed, dragging rather than lifting during transfers) deforms and tears tissue at deeper levels, **friction** damages the epidermis, and **moisture** from incontinence or sweat macerates skin and lowers its tolerance.
 **It is a function of pressure AND time** — high pressure for a short period, or modest pressure for a long one, both cause injury. **Deep tissue over a bony prominence dies before the skin does**, which is why a small area of discolouration can overlie extensive underlying necrosis.
@@ -114,9 +114,9 @@ Ongoing pressure redistribution, equipment provision for home or residential car
 ## 0.1 Continence
 
 > [!warning] FLAG 2026-09-01 — continence is in six places across four files
-> `Renal and Urology_merged 07 §0.13 Incontinence` and `H2 §0.6 Incontinence` ·
-> `OBGYN_merged 17_08 ## Urinary incontinence` and `O5 §0.6 Prolapse and Urinary Incontinence` ·
-> `GI_merged §0.42 Faecal Incontinence (Adult)`.
+> `Renal_03_Urology_Disease_Layer 07 §0.13 Incontinence` and `H2 §0.6 Incontinence` ·
+> `OBGYN_09_Vulvovaginal_Prolapse_and_Gynae_Cancers 17_08 ## Urinary incontinence` and `O5 §0.6 Prolapse and Urinary Incontinence` ·
+> `GI_08_Obstruction_Appendix_Colorectal_and_Anorectal §0.42 Faecal Incontinence (Adult)`.
 > **The most-duplicated single topic found in the vault.** Flagged, nothing merged.
 
 > [!danger] Ask directly — this is massively under-reported
@@ -288,7 +288,7 @@ Support completion of an advance care directive and appointment of a substitute 
 ## 0.5 End-of-Life Care and Recognising Dying
 
 > [!warning] FLAG 2026-09-01 — end-of-life care is split with Heme Onc and has no owner
-> `Heme Onc_merged 10_11c_Oncology_-_Palliative_Care_Prescribing` and `J5 §0.4 Palliative Care
+> `HemeOnc_07_Transplant_Oncological_Emergencies_and_Palliative_Care 10_11c_Oncology_-_Palliative_Care_Prescribing` and `J5 §0.4 Palliative Care
 > Principles`, `J5 §0.5 Symptom Control`, `J5 §0.6 The Last Days of Life`.
 > **31 inbound references between them, none from haematology.**
 > **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty; nothing has

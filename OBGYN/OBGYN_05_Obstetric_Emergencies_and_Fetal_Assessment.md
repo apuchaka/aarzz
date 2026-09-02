@@ -152,7 +152,7 @@ part: "5 of 12"
 
 ## Postpartum haemorrhage (PPH)
 
-`CF-PAIR` **A second account of PPH is in this file at `O3 §0.3 Postpartum Haemorrhage`** — the resuscitation sequence and the escalation ladder, deliberately abstaining from every uterotonic dose and pointing here for them. **Both kept in full, neither reconciled.**
+`CF-PAIR` **A second account of PPH is in `OBGYN_04_Labour_Delivery_and_Postpartum`, at `O3 §0.3 Postpartum Haemorrhage`** — the resuscitation sequence and the escalation ladder, deliberately abstaining from every uterotonic dose and pointing here for them. **Both kept in full, neither reconciled.**
 
 **D**: blood loss >500mL after vaginal delivery.
 - Primary PPH: within 24h of delivery
@@ -315,7 +315,7 @@ part: "5 of 12"
 > [!warning] FLAG 2026-09-01 — obstetric content inside a thrombophilia source
 > This sits in `10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia`, a file about
 > none of those things. **Puerperal sepsis is obstetric.**
-> `OBGYN_merged 16_14-15 ## Sepsis in the puerperium` is the counterpart. Flagged, not moved.
+> `OBGYN_05_Obstetric_Emergencies_and_Fetal_Assessment 16_14-15 ## Sepsis in the puerperium` is the counterpart. Flagged, not moved.
 
 > [!note] Gap-filled from CSV ("Postpartum infection and Thromboembolism," High yield) — genuinely absent as a standalone topic despite both components (endometritis, VTE risk) being individually high-yield; this entry covers the postpartum-specific presentation and risk factors, cross-referencing the disease-level detail already built elsewhere (DVT/PE Mx above, general sepsis principles in [[08_09_Infectious_Disease_-_Miscellaneous]]) rather than repeating it.
 

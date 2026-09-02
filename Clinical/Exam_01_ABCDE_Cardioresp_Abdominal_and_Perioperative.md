@@ -41,7 +41,7 @@ This file collects examination technique across all systems as an action checkli
 
 ## 1.1 ABCDE Assessment (Acutely Unwell / Deteriorating Patient)
 
-`CF-PAIR` **2 blocks covering this ground arrived in Part 2 and were NOT merged into this section:** `0.1 The A–E Approach` · `Glasgow Coma Scale (GCS)` — from 04_Neurology.md · F0-4_Resuscitation_Algorithms_and_Emergency_Procedures.md. **Both copies kept in full.**
+`CF-PAIR` **2 blocks covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and were NOT merged into this section:** `0.1 The A–E Approach` · `Glasgow Coma Scale (GCS)` — from 04_Neurology.md · F0-4_Resuscitation_Algorithms_and_Emergency_Procedures.md. **Both copies kept in full.**
 
 > [!note] Gap-filled — arguably the single most fundamental systematic approach in acute clinical medicine, without a dedicated entry despite the extensive emergency content built throughout this entire project that assumes this framework as background (sepsis, anaphylaxis, DKA, status epilepticus, necrotising fasciitis, tumour lysis syndrome, neutropenic sepsis, and every other "danger"-flagged entry across all system files). This entry covers the systematic primary-survey approach; cross-references the specific emergency disease sections for detailed management rather than repeating it.
 
@@ -158,7 +158,7 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 
 ## 1.2 Vital Signs and Early Warning Scores (Recognising the Deteriorating Patient)
 
-`CF-PAIR` **1 block covering this ground arrived in Part 2 and was NOT merged into this section:** `0.1 The Deteriorating Patient — Recognition` — from A1_Emergency_-_Deteriorating_Patient__Sepsis__Cardiac_Arrest.md. **Both copies kept in full.**
+`CF-PAIR` **1 block covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and was NOT merged into this section:** `0.1 The Deteriorating Patient — Recognition` — from A1_Emergency_-_Deteriorating_Patient__Sepsis__Cardiac_Arrest.md. **Both copies kept in full.**
 
 > [!note] Gap-filled — the systematic vital-signs-based escalation framework that underlies "call for help early and escalate proportionately" in the ABCDE entry above, without ever being made explicit — a genuinely foundational, constantly-used ward skill.
 
@@ -231,7 +231,7 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 
 ## 1.5 Cardiovascular Examination
 
-`CF-PAIR` **3 blocks covering this ground arrived in Part 2 and were NOT merged into this section:** `Dynamic manoeuvres` · `0.21.2 Heart sounds` · `0.21.4 Pulses` — from 01_Cardiovascular.md · B5_Murmurs__Endocarditis_and_Vascular_Disease.md. **Both copies kept in full.**
+`CF-PAIR` **3 blocks covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and were NOT merged into this section:** `Dynamic manoeuvres` · `0.21.2 Heart sounds` · `0.21.4 Pulses` — from 01_Cardiovascular.md · B5_Murmurs__Endocarditis_and_Vascular_Disease.md. **Both copies kept in full.**
 
 **Opening:**
 - Wash hands, introduce yourself, confirm patient's name and DOB, explain what the examination involves, gain consent
@@ -354,7 +354,7 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 
 ## 1.12 Pre-Anaesthetic Assessment (Airway + Fitness for Anaesthesia)
 
-`CF-PAIR` **3 blocks covering this ground arrived in Part 2 and were NOT merged into this section:** `0.5 Pre-Operative Assessment` · `0.1 Preoperative Assessment` · `0.2 Airway Assessment and Anaesthetic Technique` — from 03a_Anaesthetics_Primer.md · AN1_Perioperative_Care.md. **Both copies kept in full.**
+`CF-PAIR` **3 blocks covering this ground arrived in `Exam_04_System_File_Examination_Fragments` and were NOT merged into this section:** `0.5 Pre-Operative Assessment` · `0.1 Preoperative Assessment` · `0.2 Airway Assessment and Anaesthetic Technique` — from 03a_Anaesthetics_Primer.md · AN1_Perioperative_Care.md. **Both copies kept in full.**
 
 **Opening:** wash hands, introduce, confirm identity, explain the purpose of the assessment (identifying anything that could make anaesthesia riskier and planning around it), gain consent for the discussion/examination.
 

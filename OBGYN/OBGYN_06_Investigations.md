@@ -19,7 +19,7 @@ part: "6 of 12"
 
 ## 0.1 Cervical Screening Test and Cervical Screening Abnormality (Australian NCSP)
 
-`CF-PAIR` **A second account is in this file at `17_09 ## Cervical cancer screening`**, which is the disease-led version and carries the NCSP schedule, the self-collection equity material and the colposcopy referral pathway. **Both kept in full, neither reconciled. **Figures compared 2026-09-02 and they AGREE** — both give HPV-based primary screening, a single 5-yearly interval, ages 25–74, with reflex LBC on a non-16/18 positive. So this is a missing cross-reference, not a clinical disagreement.**
+`CF-PAIR` **A second account is in `OBGYN_09_Vulvovaginal_Prolapse_and_Gynae_Cancers`, at `17_09 ## Cervical cancer screening`**, which is the disease-led version and carries the NCSP schedule, the self-collection equity material and the colposcopy referral pathway. **Both kept in full, neither reconciled. **Figures compared 2026-09-02 and they AGREE** — both give HPV-based primary screening, a single 5-yearly interval, ages 25–74, with reflex LBC on a non-16/18 positive. So this is a missing cross-reference, not a clinical disagreement.**
 
 **D:** The **Cervical Screening Test** is a **primary oncogenic HPV nucleic-acid test** with **partial genotyping** (HPV 16/18 reported separately from other oncogenic types), performed on a **liquid-based cytology** specimen so that cytology can be run **reflexively on the same sample** when the HPV result requires it.
 

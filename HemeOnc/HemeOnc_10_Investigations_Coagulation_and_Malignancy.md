@@ -20,7 +20,7 @@ part: "10 of 10"
 ---
 
 ## 0.11 Coagulation Profile (PT/INR, APTT, Fibrinogen, D-dimer)
-`CF-PAIR` **A third account. `J3 §0.1 Interpreting the Coagulation Screen` and `Investigation-Interpretation §1.17 Coagulation Screen and D-dimer Interpretation` sit side by side earlier in this same file. All three kept in full, NOT reconciled.**
+`CF-PAIR` **A third account. `J3 §0.1 Interpreting the Coagulation Screen` and `Investigation-Interpretation §1.17 Coagulation Screen and D-dimer Interpretation` sit side by side in `HemeOnc_03_Bleeding_Thrombosis_and_Transfusion`. All three kept in full, NOT reconciled.**
 
 **D:** The routine screen of the clotting cascade. **PT/INR** assesses the **extrinsic and common** pathways (factors VII, X, V, II, fibrinogen); **APTT** assesses the **intrinsic and common** pathways (XII, XI, IX, VIII, X, V, II, fibrinogen); **fibrinogen** and **D-dimer** complete the picture.
 

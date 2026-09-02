@@ -177,12 +177,12 @@ Hepatitis E — faecal-oral route, especially contaminated water. Usually self-l
 ### 0.6.1 Alcohol withdrawal
 
 > [!warning] FLAG 2026-09-01 — `M-5` alcohol withdrawal is in four places across three files
-> **This is the AU-verified core and the one other files point at.** `Psychiatry_merged.md:934` and
+> **This is the AU-verified core and the one other files point at.** `Psych/` and
 > `:938` cite it by name — *"the full AU-verified management (diazepam-based…)"* — and `GP_merged.md:113`,
-> `Neuro_merged.md:805` and `:806` also point here.
+> `Neuro/` and `:806` also point here.
 > **The other three copies:** `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` and
-> `14a-1 ## Alcohol use disorder`, both now in `Psychiatry_merged.md`; and
-> `04_Neurology ### Alcohol Withdrawal Seizures` in `Neuro_merged.md`.
+> `14a-1 ## Alcohol use disorder`, both now in `Psych/`; and
+> `04_Neurology ### Alcohol Withdrawal Seizures` in `Neuro/`.
 > **The GI flags file recorded three; the Neuro pass found the fourth.**
 Symptoms brought on by abstinence in an alcohol-dependent person; characterised by overactivity of the sympathetic nervous system.
 

@@ -66,7 +66,7 @@ Team debrief. Bystander CPR follow-up and support where relevant.
 ## 0.3 Advanced Life Support — Adult
 
 > [!warning] FLAG 2026-09-01 — duplicate pair with Cardio, and the ANZCOR correction lives in the other copy
-> `Cardio_merged §0.5 Advanced Life Support (Adult)` carries a verification box with a specific
+> `Cardio_09_ECG_and_Arrhythmias §0.5 Advanced Life Support (Adult)` carries a verification box with a specific
 > correction: ***"ANZCOR timing is NOT the same as the UK/ERC protocol — adrenaline timing genuinely
 > differs by one shock"***.
 > ⚠️ **That box is the first thing lost if these two are reconciled. Whichever copy survives keeps it.**

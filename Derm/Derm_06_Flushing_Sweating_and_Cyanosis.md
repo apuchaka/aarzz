@@ -51,7 +51,7 @@ part: "6 of 7"
 ## 0.2 The Endocrine and Neoplastic Causes
 
 > [!warning] FLAG 2026-09-01 — `M-13` this block holds the MECHANISM half of carcinoid; GI holds the disease entry
-> **`GI_merged §0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)` is the disease entry.**
+> **`GI_07_Biliary_Pancreas_Small_Bowel_and_IBD §0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)` is the disease entry.**
 > The portal-circulation explanation below — *"a gut carcinoid does not cause carcinoid syndrome until
 > there are hepatic metastases"* — carcinoid crisis, and the octreotide-before-anaesthesia warning are
 > **only here**. Endocrine is a third candidate.

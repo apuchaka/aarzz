@@ -211,10 +211,10 @@ Review technique and adherence, treat coexisting asthma, and consider immunother
 ## 0.6 Urticaria, Angioedema and Mast Cell Disorders
 
 > [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
-> **`Derm_merged 09_01 ## Acute urticaria and angioedema` covers the same topic** — and
-> **`Derm_merged G6 §0.6 Cyanosis and Abnormal Skin Colour` routes readers HERE**, its closing cross-reference line saying *"Urticaria, anaphylaxis and drug reaction
+> **`Derm_01_Acute_Rash_and_Dermatological_Emergencies 09_01 ## Acute urticaria and angioedema` covers the same topic** — and
+> **`Derm_06_Flushing_Sweating_and_Cyanosis G6 §0.6 Cyanosis and Abnormal Skin Colour` routes readers HERE**, its closing cross-reference line saying *"Urticaria, anaphylaxis and drug reaction
 > labelling → [[K4]] 0.3, 0.6"*, while this file does not point back.
-> `Heme Onc_merged 10_09b ## Hereditary angioedema` is a third treatment.
+> `ID_07_Allergy_and_Clinical_Immunology 10_09b ## Hereditary angioedema` is a third treatment.
 > **`K4`'s own referrers are dermatological and respiratory (Derm ×2, Resp, Paediatrics) — none from
 > infectious disease.**
 > ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**

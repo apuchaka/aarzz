@@ -138,7 +138,7 @@ part: "6 of 6"
 > Its scope note already says: *"This subsection duplicates content built in AMH section 10 … written in
 > full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2
 > (mineralocorticoids)**."* **Both retained; pair marked, not merged.** The other copy is in
-> `Endocrine and metabolics_merged.md`.
+> `Endo/`.
 
 > [!note] **This subsection duplicates content built in AMH section 10.** Adrenal replacement is written in full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2 (mineralocorticoids)**. It is summarised here rather than rewritten, because splitting a single clinical topic across two files would risk the two drifting apart.
 

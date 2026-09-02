@@ -154,7 +154,7 @@ part: "8 of 12"
 ## Bisphosphonates
 
 > [!warning] FLAG 2026-09-01 — duplicate pair with the endocrine drug file
-> `Endocrine and metabolics_merged NEW_Drugs_10 §0.1.1 Bisphosphonates` covers the same class.
+> `Endo_12_Drugs NEW_Drugs_10 §0.1.1 Bisphosphonates` covers the same class.
 > **Osteoporosis and fragility fracture sit in five places**: `## Osteoporosis` and this section here,
 > `L7 §0.6 Fragility Fractures`, `Endocrine I3 §0.5 Metabolic Bone Disease`, and
 > `Geriatrics GER1 §0.6 Osteoporosis and Fracture Prevention`. Pairs marked, nothing merged.

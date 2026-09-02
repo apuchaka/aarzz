@@ -183,7 +183,7 @@ part: "5 of 10"
 
 ## 0.33 Upper GI Bleed (UGIB)
 
-`CF-PAIR` **Three accounts of upper GI bleeding sit in this file and none declared the others before 2026-09-02:** `NEW_Gastroenterology_and_Hepatology ## Upper Gastrointestinal Bleeding` (the symptom-layer approach) · `C4 §0.2 Upper Gastrointestinal Bleeding — Non-Variceal`, with `C4 §0.1 Framework and Resuscitation` and `C4 §0.3 Variceal Bleeding` · `03_Gastrointestinal §0.33 Upper GI Bleed (UGIB)` (which carries the Glasgow-Blatchford, Rockall and AIMS65 scores). **All three kept in full, none reconciled.**
+`CF-PAIR` **Three accounts of upper GI bleeding sit across `GI_01_Acute_Abdomen`, `GI_03_GI_Bleeding_and_Altered_Bowel_Habit` and `GI_05_Upper_GI_Disease`, and none declared the others before 2026-09-02:** `NEW_Gastroenterology_and_Hepatology ## Upper Gastrointestinal Bleeding` (the symptom-layer approach) · `C4 §0.2 Upper Gastrointestinal Bleeding — Non-Variceal`, with `C4 §0.1 Framework and Resuscitation` and `C4 §0.3 Variceal Bleeding` · `03_Gastrointestinal §0.33 Upper GI Bleed (UGIB)` (which carries the Glasgow-Blatchford, Rockall and AIMS65 scores). **All three kept in full, none reconciled.**
 
 **D:** GI blood loss whose origin is proximal to the ligament of Treitz at the duodenojejunal junction.
 

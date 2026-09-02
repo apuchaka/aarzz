@@ -423,8 +423,8 @@ part: "4 of 12"
 
 > [!warning] FLAG 2026-09-01 — GCA is in four places and only one pointer is correct
 > Here · `L3 §0.3 Giant Cell Arteritis — The Overlap` (this file) ·
-> `Neuro_merged ## Temporal Arteritis` — **which correctly defers here**, saying it *"covers only the
-> headache aspect"* · `Neuro_merged D1 §0.4 Secondary Headaches Worth Knowing`.
+> `Neuro_04_Headache_Disorders_Delirium_and_Dementia ## Temporal Arteritis` — **which correctly defers here**, saying it *"covers only the
+> headache aspect"* · `Neuro_01_Headache_Meningism_and_Altered_Consciousness D1 §0.4 Secondary Headaches Worth Knowing`.
 > **The Neuro deferral is the model; the other three are unmarked.** Flagged, not merged.
 
 - **D:** granulomatous vasculitis of large and medium-sized arteries.

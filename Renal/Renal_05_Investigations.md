@@ -83,7 +83,7 @@ part: "5 of 6"
 > Its own callout reads *"A sign, not a test. Built as listed."* **Two other files produced the same
 > error class**: `GI NEW_Investigations_Gastroenterology §0.31 Pale Stools` and
 > `Heme NEW_Investigations_Haematology_Part2 §0.25 Petechiae`.
-> **The symmetry is worth noting**: `Renal and Urology_merged.md:1848` cites the GI pale-stools entry,
+> **The symmetry is worth noting**: `Renal/` cites the GI pale-stools entry,
 > so the two halves of one sign-pair sit in two different system files, both misfiled the same way.
 
 > [!warning] **A sign, not a test.** Built as listed.
@@ -188,7 +188,7 @@ part: "5 of 6"
 
 > [!warning] FLAG 2026-09-01 — confirmed misfiled from both ends, and its `UNRESOLVED` marker is NOT answered by moving it
 > This file calls it *"mis-filed and mis-categorised — a symptom, not an investigation"*.
-> **`GI_merged 03_Gastrointestinal §0.42 Faecal Incontinence (Adult)` independently records that the
+> **`GI_08_Obstruction_Appendix_Colorectal_and_Anorectal 03_Gastrointestinal §0.42 Faecal Incontinence (Adult)` independently records that the
 > topic was *"found under Renal & Urology in the source spreadsheet, but genuinely a GI/colorectal
 > topic"*.** Two files agreeing from opposite ends.
 > ⚠️ **The live `UNRESOLVED — needs review` marker asks whether the build list intended anorectal
