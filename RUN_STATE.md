@@ -368,6 +368,50 @@ Derm Cyst/Alopecia. **Eight in nine files.** Every one was a section whose own p
 "above" or "below" about a section I had just moved past it, and every one was found by
 `positional.py` or its `--audit` mode rather than by reading.
 
+### REFERENCE-INTEGRITY PASS (2026-09-02) — the last task
+
+**All eleven positional references fixed**, plus the Endocrine three. Six were the
+two-homes shape and were **named, not reordered**; four had the wrong direction word; one
+had the wrong number (`GI` barium enema, `0.13` → `0.18`). `positional.py` now reports 2,
+both matcher artefacts where the direction word attaches to something other than a section
+name.
+
+**29 prose pointers re-pointed.** Every named section EXISTS somewhere — **no content gap,
+so `KNOWN_ABSENCES.md` was not needed and no `TODO:link` was created.** The DNACPR family
+(5 pointers, an OSCE station) is at `A10 §1.3`; the Clinical-Process family (16 at 8 named
+sections, in a file with one heading) is split between `A10`, `PH1` and `Preventive-Health`.
+Six were self-references and are now plain named references with no wikilink.
+
+**New check: `scripts/internal_misaimed.py`** — the Resp-shape class, which
+`internalrefs.py` cannot see because a number that resolves in its own block looks correct
+to it. It compares the title a reference carries against the heading that number actually
+resolves to in the same SOURCE block. **29 flagged, 12 genuinely bare and fixed, and four
+of the twelve were written that same day by the session fixing the Endocrine case** — the
+ambiguity was fixed one level down and reintroduced. **Naming the section is not enough;
+name the file.** Now 0.
+
+**Rule 13 added to CLAUDE.md §1.3.** Rules 1–12 untouched, per §1.6.
+
+**Verification, everything:** line and digit multiset identical across the reorder range ·
+content headings 4383 → 4383 · 0 new duplicate headings · 0 conflict markers · 0 empty or
+severed callouts · frontmatter 26 blocks, 0 unterminated, 0 altered, 0 lost · wikilinks
+5,531 with 0 newly unresolved · dividers 423 all conforming · `internalrefs` 0 ·
+`internal_misaimed` 0 · `misaimed` 0 disagreeing · every protected marker count ≥ baseline ·
+23 co-location arrivals all have an adjacent `SOURCE:` divider and **none names the host
+file** · working tree clean.
+
+**Two findings the verification produced that are NOT defects but should be known:**
+1. **The two NIP schedules are 524 lines apart** in `Preventive-Health.md` (143 and 667),
+   and were at exactly those lines before the reorder — nothing moved them. The Hib
+   disagreement stays visible through a `[!warning]` at 167 naming the other schedule, not
+   through adjacency.
+2. **Block seams are visible boilerplate.** Each source block opens with its own
+   `> [!warning] Sourcing / Written from model knowledge…` and closes with its own
+   `> Cross-references` line — seven of each in `Cardio_merged` and in `OBGYN_merged`.
+   `Cardio:852` ends B3 with *"Syncope and collapse → `[[B4]]`"* and **B4 begins two lines
+   later.** No section starts mid-thought and nothing is orphaned, but a top-to-bottom read
+   crosses that furniture once per block. Removing it is not a pure move and was not done.
+
 ### RENUMBERING — measured, and NOT done. The alternative is recorded here.
 
 You asked for continuous renumbering per file, on the grounds that `## 0.1` appears once
