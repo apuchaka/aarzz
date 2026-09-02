@@ -347,7 +347,8 @@ and it would have to be verified against `dangling.py` file by file.
 
 `## 0.4 Ascending Cholangitis` left `GI_merged.md` on 2026-09-01 and a stub names where it
 went. The content is at `Emergency and Crit Care_merged.md:4103`, under a
-`<!-- ===== SOURCE: 03_Gastrointestinal.md ===== -->` divider — so `[[03_Gastrointestinal]] 0.4`
+`SOURCE: 03_Gastrointestinal.md` divider (written here without its comment markers, so this
+line is not itself parsed as one) — so `[[03_Gastrointestinal]] 0.4`
 still resolves, by design. **The same is true of `§0.10 Paracetamol Overdose`**, the file's
 other numbering gap, at `Emergency and Crit Care_merged.md:4125` under the same divider.
 `aftermove.py` reports **0 broken stubs** across the vault, which is this check run over
