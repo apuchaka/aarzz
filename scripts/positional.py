@@ -79,6 +79,65 @@ def scan(path,text):
             if not okay: out.append((path,i,name,dirn,t))
     return out
 
+def constraints(path,text):
+    """Every resolvable positional reference, as an ordering constraint.
+
+    Reading these BEFORE reordering is far cheaper than discovering them as
+    breakage afterwards: Endocrine's disease block broke 12 references on the
+    first attempt and 3 more on the second, all of which are listed here.
+    Output is "X must come before Y", deduplicated, using ## section names.
+    """
+    L=text.split('\n')
+    h2=[]                                  # (lineno, name) for ## only
+    for i,l in enumerate(L,1):
+        m=RE_HEAD.match(l)
+        if m and m.group(1)=='##': h2.append((i,m.group(2).strip()))
+    def owner(line):
+        cur=None
+        for i,n in h2:
+            if i<=line: cur=n
+            else: break
+        return cur
+    hits=scan(path,text)                   # only the ones pointing the WRONG way
+    # rescan for ALL resolvable refs, right or wrong
+    out=set()
+    byname=collections.defaultdict(list); bynum=collections.defaultdict(list)
+    for i,n in h2:
+        byname[norm(n)].append((i,n))
+        for al in re.findall(r'\(([^)]{2,40})\)',n):
+            a=norm(al)
+            if a: byname[a].append((i,n))
+        base=norm(re.sub(r'\([^)]*\)','',n))
+        if base: byname[base].append((i,n))
+        sn=secnum(n)
+        if sn: bynum[sn].append((i,n))
+    for i,l in enumerate(L,1):
+        if RE_HEAD.match(l): continue
+        src=owner(i)
+        if not src: continue
+        for m in RE_POS.finditer(l):
+            name,dirn=m.group(1).strip(),m.group(2)
+            ctx=l[max(0,m.start()-18):m.end()+22]
+            if RE_COMPARATIVE.search(ctx): continue
+            cands=None
+            if re.match(r'^\d+\.\d',name): cands=bynum.get(name)
+            else:
+                q=norm(name); cands=byname.get(q)
+                if not cands:
+                    w=[x for x in q.split() if x not in
+                       ('see','the','a','dedicated','section','entry','part','in','at','and')]
+                    pool=set()
+                    for k in (1,2,3,4):
+                        if len(w)>=k:
+                            for c in (' '.join(w[:k]),' '.join(w[-k:])):
+                                if len(c)>=4: pool.update(byname.get(c,[]))
+                    cands=list(pool) if len(pool)==1 else None
+            if not cands or len(set(n for _,n in cands))!=1: continue
+            tgt=cands[0][1]
+            if tgt==src: continue           # intra-section, no constraint
+            out.add((tgt,src) if dirn=='above' else (src,tgt))
+    return sorted(out)
+
 def files():
     o=subprocess.run(['git','-C',ROOT,'ls-files','*.md'],capture_output=True,text=True).stdout
     return [f for f in o.split('\n') if f.strip() and not f.startswith('_meta/')]
@@ -194,6 +253,12 @@ if __name__=='__main__':
     base=None
     if '--base' in sys.argv: base=sys.argv[sys.argv.index('--base')+1]
     targets=a or files()
+    if '--constraints' in sys.argv:
+        for f in targets:
+            c=constraints(f,io.open(os.path.join(ROOT,f),encoding='utf-8').read())
+            print(f'\n--- {f}: {len(c)} ordering constraint(s) from its own prose')
+            for x,y in c: print(f'  {x[:52]:54s} MUST PRECEDE  {y[:52]}')
+        sys.exit(0)
     if '--audit' in sys.argv:
         assert base, '--audit needs --base'
         n=0
