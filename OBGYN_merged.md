@@ -1,5 +1,477 @@
 
 
+<!-- ===== SOURCE: NEW_Obstetrics.md ===== -->
+
+
+# NEW — Obstetrics
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains the one Tier 1 Obstetrics topic only.** The category has 1 T1 and 7 T3 topics. See the build-status table at the end.
+
+## First-Trimester Pain
+
+- **D:** abdominal or pelvic pain in a woman up to about 13 weeks' gestation. **The presentation exists to identify ectopic pregnancy**, which remains a leading cause of first-trimester maternal death and which kills through haemorrhage in young, previously well women whose compensation masks the severity until late.
+- **DDx:**
+  - **Pregnancy-related:**
+    - **Ectopic pregnancy** — the must-exclude. Classically amenorrhoea, unilateral pain and bleeding, but **the classic triad is frequently absent**, and pain may be the only symptom. **Shoulder-tip pain, syncope or collapse suggest rupture with haemoperitoneum.**
+    - **Miscarriage** — threatened, inevitable, incomplete, complete or missed; typically crampy central pain with bleeding.
+    - **Pregnancy of unknown location** — a positive β-hCG with no pregnancy visible on ultrasound. **This is a working state requiring follow-up, not a reassuring result**, because ectopic remains possible.
+    - **Corpus luteum cyst** — rupture or haemorrhage.
+    - **Molar pregnancy** — with hyperemesis, a large-for-dates uterus and very high β-hCG.
+    - **Ovarian hyperstimulation syndrome** after assisted reproduction.
+  - **Gynaecological, non-pregnancy-specific:** **ovarian torsion** (more common in pregnancy owing to the enlarged corpus luteum — sudden severe unilateral pain with vomiting), ovarian cyst accident, pelvic inflammatory disease, fibroid degeneration (red degeneration in pregnancy).
+  - **Non-gynaecological — and pregnancy does not protect against any of them:** **appendicitis** (the commonest non-obstetric surgical emergency in pregnancy; **the appendix is displaced upward as gestation advances**, though less so in the first trimester), **urinary tract infection and pyelonephritis**, ureteric colic, bowel obstruction, cholecystitis and biliary colic, pancreatitis, constipation, gastroenteritis.
+- **Focused Hx:** **last menstrual period and gestational age by dates**; **whether this pregnancy has been confirmed and whether an ultrasound has yet established its location** — the single most useful piece of history, because a documented intrauterine pregnancy makes ectopic very unlikely; pain site, onset, severity, radiation, and **shoulder-tip pain**; **bleeding — amount, clots, tissue passed**; **dizziness, syncope, collapse**; nausea and vomiting; urinary and bowel symptoms; fever; **ectopic risk factors: previous ectopic, previous pelvic inflammatory disease or chlamydia, tubal surgery or sterilisation, IUD in situ, assisted reproduction, smoking, endometriosis** — while remembering that **most ectopic pregnancies occur in women with no risk factors**, so their absence is not reassuring; obstetric and gynaecological history; contraception; and **blood group and Rh status**.
+- **Examination:** **vital signs first, including postural blood pressure where safe** — **a young woman can maintain a normal blood pressure until she has lost a large volume, and tachycardia may be the only sign; bradycardia can occur with haemoperitoneum from peritoneal irritation**, which is a genuine trap.
+  - General appearance, pallor, perfusion, conscious state.
+  - **Abdominal examination** — tenderness, guarding, rebound, distension, and **specifically for peritonism, which suggests rupture**.
+  - **Speculum examination** where bleeding is present — to see the amount of bleeding, whether the cervical os is open or closed, and to identify products of conception or a local cause (**removing products from the os can relieve cervical shock**).
+  - **Bimanual examination** — uterine size and tenderness, **cervical motion tenderness**, and adnexal tenderness or mass, performed with consent, a chaperone, and gently.
+  - Both examinations require explanation and consent, and should be deferred in a haemodynamically unstable patient in favour of resuscitation and urgent senior involvement.
+- **First-line Ix:**
+  - **Urine or serum β-hCG — in every woman of reproductive age with abdominal pain, without exception.** This is the test whose omission produces the missed ectopic.
+  - **Transvaginal ultrasound** — the definitive investigation for locating the pregnancy, and more sensitive than transabdominal in early gestation.
+  - **Serum β-hCG, with serial measurement** where the pregnancy location is unknown. The **discriminatory zone** — the β-hCG level above which an intrauterine pregnancy should be visible on transvaginal ultrasound — is commonly quoted in the range of **about 1,500–3,000 IU/L**. **This is a range and not a threshold, it varies between institutions and with ultrasound equipment and operator, and it must not be used to exclude ectopic pregnancy: an ectopic can be present, and can rupture, at a β-hCG well below any discriminatory value.** Sources agree explicitly on this caution.
+  - **FBC, blood group and antibody screen (Rh status), UEC, LFTs**; **crossmatch** if bleeding or unstable.
+  - **Urinalysis and urine culture**; **MSU** — noting that leucocytes may be present from a gynaecological cause.
+  - **Progesterone** where locally used to support assessment of pregnancy viability.
+  - **Anti-D immunoglobulin** consideration in a Rh-negative woman with bleeding — a decision to raise early rather than at discharge.
+
+> [!danger] **The rule that prevents the deaths in this presentation:** **any woman of reproductive age with abdominal pain, collapse, or shoulder-tip pain has an ectopic pregnancy until a pregnancy test is negative or an intrauterine pregnancy is confirmed** — regardless of contraception, reported sexual history, or how well she looks. A negative history of amenorrhoea does not exclude it, because bleeding from an ectopic is frequently mistaken for a period.
+
+---
+
+## Build status of this file
+
+| Tier | Count | Status |
+|---|---|---|
+| **T1** | 1 | **Built** — First-Trimester Pain |
+| T3 | 7 | Not built |
+
+## Topics skipped in this category
+
+| Topic | Matched header | File | Match type |
+|---|---|---|---|
+| **Reduced Fetal Movements** (T3) | `## Reduced fetal movements (RFM)` | `16_10-13_Labour_and_Delivery.md` | Exact |
+
+
+<!-- ===== SOURCE: O1_Early_Pregnancy.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and communication are reliable at intern level. **Every βhCG threshold, gestational limit, dose, anti-D regimen and legal provision carries an `UNVERIFIED` marker, or has been omitted with the omission stated in place.**
+> **Verify against RANZCOG statements, your local early pregnancy assessment protocol, eTG, and — for termination of pregnancy — the current South Australian legislation, which changed with decriminalisation and differs from other states.**
+>
+> **Contraception and emergency contraception are built in [[O6]] 0.3**, and **nausea and vomiting more generally in [[C2]] 0.5** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Assessing Bleeding and Pain in Early Pregnancy
+
+> [!danger] Pregnancy test first, and ectopic until proven otherwise
+> **ANY woman of reproductive age presenting with abdominal or pelvic pain, abnormal bleeding, syncope, collapse, shoulder tip pain, or unexplained shock gets a PREGNANCY TEST.**
+> **AND THE THINGS THAT DO NOT EXCLUDE IT:**
+> **· "SHE HAD A PERIOD."** The bleeding of an ectopic pregnancy is frequently mistaken for a period — it is often lighter, later or different, but the patient reports it as a period and the diagnosis is dismissed.
+> **· "SHE'S ON CONTRACEPTION."** No method is perfect. **And an IUD in situ INCREASES the PROPORTION of pregnancies that are ectopic if conception occurs, because it prevents intrauterine implantation more effectively than tubal.**
+> **· "SHE'S NOT SEXUALLY ACTIVE."** Ask privately, and test anyway.
+> **· "SHE'S HAD A TUBAL LIGATION."** Sterilisation failure occurs, and when it does the pregnancy is more likely to be ectopic.
+> **A RUPTURED ECTOPIC PREGNANCY IS A PREVENTABLE DEATH OF A YOUNG WOMAN, and it remains a leading cause of first-trimester maternal death.**
+
+> [!warning] History and examination
+> **HISTORY: last menstrual period (with the caveat above) · previous ECTOPIC (the strongest risk factor) · previous pelvic inflammatory disease or chlamydia · tubal surgery or sterilisation · IVF · IUD · smoking · the character and site of the pain · the amount of bleeding and any clots or tissue passed · SYNCOPE OR DIZZINESS · and SHOULDER TIP PAIN, which indicates diaphragmatic irritation by intraperitoneal blood and is an important and specific symptom.**
+> **BE ALERT TO ATYPICAL PRESENTATIONS: ectopic pregnancy mimics gastroenteritis (diarrhoea and vomiting), urinary infection, appendicitis and even a faint at work.**
+> **EXAMINATION: observations — noting that a YOUNG WOMAN COMPENSATES WELL AND MAY MAINTAIN A NORMAL BLOOD PRESSURE UNTIL SHE IS PROFOUNDLY HYPOVOLAEMIC, so a normal blood pressure is not reassurance · abdominal examination for peritonism · SPECULUM examination · and bimanual examination for cervical motion tenderness and adnexal mass.**
+> **ONE SPECIFIC POINT ON THE SPECULUM: PRODUCTS OF CONCEPTION SITTING IN THE CERVICAL OS SHOULD BE REMOVED WITH SPONGE FORCEPS.** **Tissue distending the cervical canal causes a vagal response — "CERVICAL SHOCK" — with bradycardia, hypotension and collapse that can be mistaken for haemorrhagic shock.** **Removing the products resolves it immediately, and it is a satisfying and easily missed intervention.**
+
+> [!tip] The investigations, and how they fit together
+> **· QUANTITATIVE SERUM βhCG.**
+> **· TRANSVAGINAL ULTRASOUND — far superior to transabdominal in early pregnancy.**
+> **· FBC, and GROUP AND ANTIBODY SCREEN — because RHESUS STATUS determines the need for anti-D.**
+> **THE DISCRIMINATORY ZONE: the βhCG level above which an intrauterine pregnancy should be visible on transvaginal ultrasound.** **Above that level with an EMPTY UTERUS, the pregnancy is either ectopic or has failed.** `UNVERIFIED — the threshold, which varies with the scanner, the operator and local protocol.`
+> **SERIAL βhCG: a normal early intrauterine pregnancy shows a characteristic rate of rise over 48 hours. A SUBOPTIMAL RISE OR A PLATEAU suggests an ectopic or a failing pregnancy; a clear FALL suggests a resolving pregnancy.** **But the pattern is not absolute — an ectopic can rise normally, and a viable pregnancy can rise slowly.** `UNVERIFIED — the expected rate of rise.`
+> **PREGNANCY OF UNKNOWN LOCATION — a positive pregnancy test with no intrauterine or extrauterine pregnancy identified.** **It is a holding diagnosis, not a reassuring one: these women are managed with serial βhCG and repeat imaging per protocol, and MUST BE TREATED AS A POSSIBLE ECTOPIC — given clear written safety-netting advice and a specific contact, and told to return immediately with pain, dizziness or shoulder tip pain.**
+> **ANTI-D IMMUNOGLOBULIN is required for Rhesus-negative women with bleeding or uterine instrumentation in pregnancy, from a defined gestation.** `UNVERIFIED — the gestational thresholds, dose and timing, and whether a Kleihauer is required.`
+
+---
+
+## 0.2 Ectopic Pregnancy
+
+> [!danger] A third to a half have no risk factors at all
+> **Implantation outside the uterine cavity, the great majority in the fallopian tube.**
+> **RISK FACTORS: PREVIOUS ECTOPIC (the strongest) · pelvic inflammatory disease and chlamydia · tubal surgery including sterilisation · IVF and assisted reproduction · an IUD in situ · endometriosis · and smoking.**
+> **BUT A SUBSTANTIAL PROPORTION OF WOMEN WITH AN ECTOPIC PREGNANCY HAVE NO IDENTIFIABLE RISK FACTOR.** **The absence of risk factors must not lower your suspicion — it is one of the ways the diagnosis is missed.**
+
+> [!warning] Management, and the counselling that goes with methotrexate
+> **· EXPECTANT MANAGEMENT — for carefully selected women with a low and falling βhCG, minimal symptoms and reliable follow-up.**
+> **· MEDICAL MANAGEMENT WITH METHOTREXATE — for a haemodynamically stable woman with an unruptured ectopic below defined size and βhCG thresholds, without fetal cardiac activity, who is ABLE AND WILLING TO ATTEND FOR SERIAL FOLLOW-UP.** `UNVERIFIED — the criteria, dose and monitoring schedule.`
+> **THE COUNSELLING POINTS THAT MATTER:**
+> **· SERIAL βhCG FOLLOW-UP IS ESSENTIAL AND NOT OPTIONAL — treatment failure and rupture occur, and the follow-up is what detects it.**
+> **· "SEPARATION PAIN" a few days after methotrexate is common and expected — but it CANNOT BE DISTINGUISHED FROM RUPTURE BY THE WOMAN AT HOME.** **So the instruction is to attend for assessment with significant pain, rather than to assume it is expected.**
+> **· AVOID FOLIC ACID supplements (which antagonise the methotrexate), NSAIDs, alcohol and sun exposure.**
+> **· AVOID PREGNANCY for a defined period afterwards, because of teratogenicity — and provide contraception.** `UNVERIFIED — the interval.`
+> **· SURGICAL MANAGEMENT — laparoscopic SALPINGECTOMY (removing the tube) or SALPINGOTOMY (opening it and preserving it, which requires follow-up βhCG because trophoblast can persist).** **Indicated for rupture, haemodynamic instability, significant pain, high βhCG, fetal cardiac activity, or failed medical management.**
+> **A RUPTURED ECTOPIC WITH SHOCK IS A RESUSCITATION AND A LAPAROTOMY — large-bore access, blood, activation of the massive transfusion protocol if needed, and theatre. Do not delay for imaging.** Cross-refer [[A9]] 0.1.
+
+> [!danger] Three variants that catch people out
+> **1. HETEROTOPIC PREGNANCY — a simultaneous intrauterine AND ectopic pregnancy.** **Rare naturally, but MUCH more common after IVF.** **THEREFORE: seeing an intrauterine pregnancy on ultrasound does NOT exclude a concurrent ectopic in a woman who conceived through assisted reproduction — and pain in that setting still needs the adnexa examined.**
+> **2. INTERSTITIAL (CORNUAL) ECTOPIC — implanted in the intramural portion of the tube.** **It presents LATER because the myometrium accommodates it, and it ruptures CATASTROPHICALLY with massive haemorrhage.** **It is easily mistaken for an eccentric intrauterine pregnancy on ultrasound.**
+> **3. CAESAREAN SCAR ECTOPIC — implantation in the scar of a previous caesarean, increasing in frequency with rising caesarean rates, and carrying risks of massive haemorrhage and uterine rupture.**
+> **Also cervical, ovarian and abdominal ectopics.**
+
+> [!tip] Afterwards
+> **· FUTURE FERTILITY — most women conceive successfully afterwards, and saying so matters, but the risk of a further ectopic is INCREASED.**
+> **· ARRANGE AN EARLY ULTRASOUND IN THE NEXT PREGNANCY, and tell her to present as soon as she has a positive test.** **This is the single most useful thing you can offer.**
+> **· CONTRACEPTION, chlamydia testing, and smoking cessation.**
+> **· And acknowledge the LOSS. An ectopic pregnancy is both a medical emergency and a bereavement, and the second part is routinely forgotten because everyone is relieved she survived.** See 0.3.
+
+---
+
+## 0.3 Miscarriage
+
+> [!info] The terminology, which determines management
+> **· THREATENED — bleeding with a CLOSED cervical os and a viable intrauterine pregnancy. Most continue.**
+> **· INEVITABLE — bleeding with an OPEN os.**
+> **· INCOMPLETE — some products passed, some retained.**
+> **· COMPLETE — the uterus is empty and the os is closed.**
+> **· MISSED (delayed) — no fetal cardiac activity or an empty gestational sac, WITHOUT symptoms, often found at a routine scan.** **This is a particularly difficult presentation, because the woman arrives feeling pregnant and well.**
+> **· SEPTIC — with fever, offensive discharge, uterine tenderness and systemic illness. A medical emergency requiring urgent antibiotics and evacuation.**
+> **MISCARRIAGE OCCURS IN ROUGHLY ONE IN FIVE RECOGNISED PREGNANCIES** — which is worth saying, because most women believe it is rare and therefore that something must have gone specifically wrong for them.
+
+> [!tip] Management — offer all three options
+> **Where clinically safe, EXPECTANT, MEDICAL and SURGICAL management should all be offered, and THE CHOICE IS THE WOMAN'S.**
+> **· EXPECTANT — waiting for spontaneous completion. Avoids intervention; unpredictable timing; may involve significant bleeding and pain at home; needs clear safety netting and follow-up.**
+> **· MEDICAL — misoprostol, with or without mifepristone. Predictable timing; bleeding and cramping heavier than a period; may still need surgical management.**
+> **· SURGICAL — manual vacuum aspiration or curettage. Quick and definitive; requires anaesthesia; small risks of perforation, infection and adhesions.**
+> **Discuss with each option: how much bleeding and pain to expect · how long it takes · the chance of needing something else afterwards · and what to do if things go wrong.**
+> `UNVERIFIED — regimens and success rates.`
+> **ANTI-D for Rhesus-negative women per protocol, and remember it for surgical management and for later gestations.**
+
+> [!danger] The communication is the main clinical task — and the wrong sentences do lasting harm
+> **THE THING WOMEN NEED TO HEAR MOST: "THIS WAS NOT YOUR FAULT, AND THERE IS NOTHING YOU DID OR COULD HAVE DONE DIFFERENTLY."**
+> **Almost every woman searches for a cause in her own behaviour — the glass of wine before she knew, lifting a toddler, going to the gym, having sex, a stressful week at work, an argument. Say it explicitly and unprompted, and say it more than once.**
+> **USE HER LANGUAGE. If she says "the baby", say "the baby". Do not correct her to "the pregnancy", and do not use "products of conception" in front of her.**
+> **WHAT NOT TO SAY — all of these are common, all are meant kindly, and all cause harm:**
+> **· "At least you know you can get pregnant."**
+> **· "It was probably for the best" / "it was nature's way."**
+> **· "You're young, you can try again."**
+> **· "At least it was early."**
+> **· "You can always have another one."**
+> **Each of these minimises the loss and communicates that her grief is disproportionate — and women remember them for years.**
+> **INSTEAD: "I'm so sorry." · "This is a real loss." · silence. · "How are you doing?"**
+> **THE GRIEF IS OFTEN PROFOUND AND SOCIALLY UNRECOGNISED — there is frequently no funeral, no leave, and no acknowledgement from people who did not know about the pregnancy.**
+> **AND ASK THE PARTNER HOW THEY ARE.** **Partners grieve too, are expected to be the supporter, and are almost never asked.**
+> **Practical: what bleeding and pain to expect, when to seek help, what to do with any tissue passed (and whether they wish it to be tested or handled in a particular way), follow-up, and bereavement support services.** `UNVERIFIED — Australian support organisations.`
+> **Advice on trying again: there is no strong evidence requiring a delay, and the decision is hers.**
+
+---
+
+## 0.4 Molar Pregnancy and Hyperemesis
+
+> [!warning] Gestational trophoblastic disease
+> **Abnormal proliferation of trophoblast — complete or partial hydatidiform mole.**
+> **THE FEATURES THAT SHOULD PROMPT THE THOUGHT: bleeding in early pregnancy · a UTERUS LARGE FOR DATES · a VERY HIGH βhCG · HYPEREMESIS (driven by the βhCG) · theca lutein cysts · and — the specific one — FEATURES OF PRE-ECLAMPSIA OR HYPERTHYROIDISM BEFORE 20 WEEKS.**
+> **PRE-ECLAMPSIA DOES NOT OCCUR BEFORE 20 WEEKS IN A NORMAL PREGNANCY, so its appearance early is a red flag for molar disease.** **And βhCG cross-reacts with the TSH receptor, which is why very high levels cause biochemical and occasionally clinical hyperthyroidism.**
+> **Ultrasound shows a characteristic cystic or "snowstorm" appearance with no fetus in a complete mole.**
+> **MANAGEMENT: SUCTION EVACUATION · REGISTRATION with a gestational trophoblastic disease centre · and SERIAL βhCG MONITORING until it normalises and for a defined period afterwards.**
+> **THE CRITICAL COUNSELLING POINT: RELIABLE CONTRACEPTION IS REQUIRED THROUGHOUT FOLLOW-UP** — because a new pregnancy raises the βhCG and makes it impossible to distinguish from persistent trophoblastic disease, which is what the monitoring exists to detect.
+> **A proportion develop persistent gestational trophoblastic neoplasia or choriocarcinoma, which is highly chemosensitive and curable when detected — hence the follow-up.** `UNVERIFIED — monitoring schedules and the contraception interval.`
+
+> [!danger] Hyperemesis gravidarum is not morning sickness
+> **Persistent vomiting with WEIGHT LOSS, DEHYDRATION, KETOSIS and ELECTROLYTE DISTURBANCE — a different condition from the common nausea of early pregnancy, and it causes substantial morbidity.**
+> **IT IS ROUTINELY MINIMISED — and dismissal contributes to psychological harm, to social withdrawal, to job loss, and to women terminating WANTED pregnancies because the suffering is intolerable and they were told to eat dry crackers.** **Take it seriously.**
+> **ASSESSMENT: weight and weight loss · hydration · urinary KETONES · UEC (looking for hypokalaemia and a hypochloraemic alkalosis) · and exclusion of other causes — urinary tract infection, thyroid disease, MOLAR pregnancy, multiple pregnancy, and gastrointestinal or neurological causes.** Severity can be scored. `UNVERIFIED — the scoring tool.`
+> **MANAGEMENT: rehydration · stepwise ANTIEMETICS, chosen by mechanism, with explicit reassurance about safety in pregnancy, because women frequently refuse effective treatment out of fear of harming the baby · nutritional support · and admission where oral intake fails.** `UNVERIFIED — all agents and doses.`
+
+> [!danger] Two things that are forgotten in hyperemesis, and both cause serious harm
+> **1. THIAMINE BEFORE ANY GLUCOSE-CONTAINING FLUID.**
+> **Prolonged vomiting depletes thiamine, and administering glucose to a thiamine-deficient woman PRECIPITATES WERNICKE ENCEPHALOPATHY.**
+> **Wernicke encephalopathy in hyperemesis is well described, causes permanent neurological damage and fetal loss, and IS ENTIRELY PREVENTABLE.** **Give thiamine.** Cross-refer [[C2]] 0.7 and [[N2]] 0.1.
+> **2. THROMBOPROPHYLAXIS.**
+> **Pregnancy is already a hypercoagulable state; add dehydration, immobility and hospital admission, and the venous thromboembolism risk is substantial.**
+> **VTE is a leading cause of direct maternal death, and an admitted, dehydrated, vomiting pregnant woman is a high-risk patient in whom prophylaxis is routinely not prescribed.** Cross-refer [[J3]] 0.6 and [[O2]].
+
+---
+
+## 0.5 Unintended Pregnancy
+
+> [!tip] Options counselling — information, not persuasion
+> **The three options are: CONTINUING the pregnancy and parenting · continuing and pursuing ADOPTION or other permanent care arrangements · and TERMINATION.**
+> **The clinician's role is to provide ACCURATE, NON-DIRECTIVE, TIMELY information about all three, and to facilitate access to whichever the person chooses.**
+> **· Ask what she is thinking, before offering an opinion.**
+> **· Do not assume from age, relationship status, parity or circumstances what she will choose.**
+> **· Check for coercion in either direction — from a partner or family — and see her alone.** Cross-refer [[GER4]] 0.4.
+> **· BE TIMELY. Delay reduces the available options and increases the complexity and cost of whatever she chooses.** **Sitting on a referral is not a neutral act.**
+
+> [!danger] Conscientious objection does not permit obstruction
+> **A practitioner with a conscientious objection to termination of pregnancy may decline to participate — but is REQUIRED NOT TO OBSTRUCT ACCESS.**
+> **In practice this means: disclosing the objection promptly and without judgement · informing the person of their right to see another practitioner · and (depending on jurisdiction) transferring care or providing a referral to a practitioner who does not object.**
+> **Delaying, discouraging, withholding information or providing misleading information is a professional conduct matter, not an exercise of conscience.**
+> **TERMINATION OF PREGNANCY WAS DECRIMINALISED IN SOUTH AUSTRALIA, and is now regulated as a health matter rather than under the criminal law.** `UNVERIFIED — the current SA legislation, the gestational limits, the requirements for later gestations, the conscientious objection provisions, and the age-related considerations. These differ between states and must be checked before advising anyone.`
+
+> [!warning] The care itself
+> **· MEDICAL termination — a mifepristone and misoprostol regimen, available up to a gestational limit, and providable in PRIMARY CARE in Australia by appropriately certified prescribers with pharmacy dispensing arrangements.** `UNVERIFIED — the gestational limit and the certification requirements, which have changed.`
+> **· SURGICAL termination — suction curettage, with later methods beyond a certain gestation.**
+> **· AFTERCARE: CONTRACEPTION — and long-acting reversible contraception can generally be commenced or inserted IMMEDIATELY, which is the point of highest effectiveness and lowest attrition** (cross-refer [[O6]] 0.3) **· ANTI-D for Rhesus-negative women · follow-up to confirm completion · and emotional support offered without assumption.**
+> **THE EVIDENCE ON PSYCHOLOGICAL OUTCOMES IS CLEAR: abortion does not cause long-term mental health harm, and the strongest predictor of poorer psychological outcome is pre-existing mental illness and unsupportive circumstances — not the procedure.** **Being told otherwise is itself harmful, and clinicians should not perpetuate it.**
+> **ACCESS BARRIERS IN AUSTRALIA are real: geography (rural and remote), cost, provider availability, and gestational limits.** **Knowing the local pathway and being able to refer promptly is the practical contribution.**
+
+---
+
+## 0.6 Early Pregnancy Care and Recurrent Loss
+
+> [!tip] Preconception and early pregnancy — the things that must happen early
+> **· FOLIC ACID — commenced BEFORE conception and continued through the first trimester, to reduce neural tube defects.** **A HIGHER DOSE is required for: a previous affected pregnancy · DIABETES · OBESITY · ANTIEPILEPTIC medication · malabsorption · and some other conditions.** **The standard dose is inadequate for these groups, and this is regularly missed.** `UNVERIFIED — the doses.`
+> **· IODINE supplementation.**
+> **· MEDICATION REVIEW — ideally before conception.** **The teratogens to identify and change: SODIUM VALPROATE (and antiepileptics generally, which require specialist planning rather than abrupt cessation) · ISOTRETINOIN · ACE INHIBITORS and ARBs · WARFARIN · METHOTREXATE · and some others.** **Equally important is identifying what must be CONTINUED — antiepileptics, thyroid replacement, antidepressants where indicated, and asthma treatment — because abrupt cessation on discovering a pregnancy causes its own harm.** Cross-refer [[D6]] 0.3 and [[N4]] 0.6.
+> **· Smoking, alcohol and other substance cessation.** **There is no established safe level of alcohol in pregnancy** — cross-refer [[N2]] 0.2 and [[M4]] 0.6.
+> **· Vaccination status, cervical screening status, and optimisation of chronic disease — particularly DIABETES, where periconceptional glycaemic control determines congenital malformation risk.** Cross-refer [[I2]].
+> **· DATING — ultrasound in the first trimester is the most accurate method, and accurate dating underpins every subsequent decision in the pregnancy.**
+> **· BOOKING INVESTIGATIONS: blood group and antibody screen · FBC and ferritin · rubella immunity · syphilis, hepatitis B, hepatitis C and HIV serology · urine culture (asymptomatic bacteriuria is treated in pregnancy) · and an offer of aneuploidy and structural screening with appropriate counselling.** `UNVERIFIED — the current recommended panel.`
+
+> [!warning] Recurrent pregnancy loss
+> **Investigation is generally offered after a defined number of consecutive losses.** `UNVERIFIED — the threshold, which has been revised downward in some guidance.`
+> **THE CAUSES WORTH KNOWING:**
+> **· ANTIPHOSPHOLIPID SYNDROME — the most important, because it is TREATABLE.** **Testing requires persistent antibody positivity on two occasions at least 12 weeks apart, and treatment with ASPIRIN PLUS LOW MOLECULAR WEIGHT HEPARIN substantially improves live birth rates.** Cross-refer [[J3]] 0.6.
+> **· PARENTAL CHROMOSOMAL rearrangement — balanced translocation in one partner, identified by karyotyping both.**
+> **· UTERINE structural anomaly, and Asherman syndrome.**
+> **· ENDOCRINE — poorly controlled diabetes, thyroid disease and thyroid autoimmunity.**
+> **· Advancing maternal age, which is the strongest single factor and is not modifiable.**
+> **· Inherited thrombophilia — a contested association, and routine testing is generally not recommended.**
+> **A LARGE PROPORTION REMAIN UNEXPLAINED — and saying so honestly, while also saying that the prognosis for a subsequent successful pregnancy remains good even after several losses, is the substance of the consultation.**
+> **AND: SUPPORTIVE CARE IN THE NEXT PREGNANCY — early reassurance scans, frequent contact and continuity of care — has evidence of benefit, and it costs little.** **Anxiety in a pregnancy following loss is intense and under-acknowledged.**
+
+**Ix:** **PREGNANCY TEST in any woman of reproductive age with pain, bleeding, syncope or collapse** (*why:* ruptured ectopic is a preventable death and the alternative explanations are more comfortable to reach for; *what:* positive). **Quantitative βhCG, TRANSVAGINAL ULTRASOUND, FBC and GROUP AND ANTIBODY SCREEN** (*why:* locates the pregnancy, assesses blood loss, and determines anti-D need; *what:* location, viability, Rhesus status). **SERIAL βhCG where the location is unknown** (*why:* the trend distinguishes a viable, failing or ectopic pregnancy — but is not absolute; *what:* the rate of change). **SPECULUM EXAMINATION with removal of products from the os** (*why:* cervical shock is reversible in seconds and mimics haemorrhagic shock; *what:* tissue in the canal, os status). **URINARY KETONES, UEC and weight in hyperemesis** (*why:* quantifies severity and identifies the hypochloraemic alkalosis and hypokalaemia; *what:* ketosis, electrolyte disturbance). **THIAMINE BEFORE glucose-containing fluid** (*why:* Wernicke encephalopathy in hyperemesis is well described and entirely preventable; *what:* prevention). **βhCG and ULTRASOUND where the uterus is large for dates or pre-eclampsia appears before 20 weeks** (*why:* molar pregnancy; *what:* very high βhCG, cystic appearance). **ANTIPHOSPHOLIPID ANTIBODIES, repeated at 12 weeks, and parental karyotyping in recurrent loss** (*why:* antiphospholipid syndrome is treatable and transforms live birth rates, and a single positive antibody does not diagnose it; *what:* persistent positivity, balanced translocation). **ANTI-D per protocol in Rhesus-negative women with bleeding or instrumentation** (*why:* prevents sensitisation affecting future pregnancies; *what:* Rhesus status and the need for a Kleihauer).
+
+---
+
+> [!note] Cross-references
+> Later pregnancy, pre-eclampsia and VTE in pregnancy → [[O2]] · Labour, delivery and postpartum → [[O3]] · Contraception, LARC and emergency contraception → [[O6]] 0.3 · Abnormal uterine bleeding and menstrual disorders → [[O4]] · Pelvic pain, PID and ovarian torsion → [[O5]] 0.1, 0.3 · Nausea, vomiting and antiemetic choice → [[C2]] 0.5 · Wernicke encephalopathy and thiamine → [[C2]] 0.7 and [[N2]] 0.1 · Massive haemorrhage and transfusion → [[A9]] 0.1 · Antiphospholipid syndrome and VTE → [[J3]] 0.6 · Teratogenic medication and epilepsy in pregnancy → [[D6]] 0.3 and [[N4]] 0.6 · Diabetes and preconception control → [[I2]] · Alcohol in pregnancy and FASD → [[N2]] 0.2 and [[M4]] 0.6 · Family violence, reproductive coercion and seeing the woman alone → [[GER4]] 0.4 · Breaking bad news and grief → [[GER5]] 0.2 · Rhesus disease and neonatal jaundice → [[M3]] 0.1
+
+
+<!-- ===== SOURCE: 17_03_Termination_of_Pregnancy_and_Miscarriage.md ===== -->
+
+
+> [!info] Localised for Australia — verified against the Termination of Pregnancy Act 2021 (SA) directly (via SA Legislation and the SA Law Handbook), and cross-checked against other states' legislation, Aug 2026. **Every Australian state and territory has decriminalised abortion**, but — genuinely unlike the UK's single national framework — there is **no single Australian abortion law**; each state/territory has its own act with its own gestational limit and process, so the specific threshold below is jurisdiction-dependent and must be checked against the relevant state/territory for any patient outside SA.
+
+## Termination of pregnancy (TOP)
+
+> [!danger] Legal framework — South Australia specifically (Termination of Pregnancy Act 2021), given this is the directly relevant jurisdiction for a Flinders University student; other states differ and are summarised below.
+> - **On request up to 22 weeks and 6 days** — the pregnant person's informed consent alone is sufficient; no requirement for a second doctor's agreement below this threshold.
+> - **Beyond 22 weeks and 6 days ("late-term"):** requires **two medical practitioners** to agree that, in all the circumstances, either: the termination is necessary to save the life of the pregnant person or another fetus; continuation of the pregnancy would involve significant risk of injury to the physical or mental health of the pregnant person; or there is a case, or significant risk, of serious fetal anomalies. In an emergency, the second-practitioner requirement doesn't apply.
+> - Early medication abortion (EMA) can be prescribed/administered by a range of registered health practitioners (not only doctors), including via telehealth, and is approved for use up to 9 weeks (63 days) gestation.
+> - No minimum SA residency period required.
+> - A practitioner with a conscientious objection must disclose this and refer the patient to a health professional who can provide the care — not simply decline.
+> - Information about access to counselling (including publicly funded services) must be offered, but counselling itself is not mandatory.
+
+> [!info] Other states/territories — gestational limits (on-request, before a second-practitioner requirement applies) as of Aug 2026; **always verify current legislation directly for the specific jurisdiction, given this is an actively evolving area of law**:
+> - **Victoria:** 24 weeks
+> - **NSW:** 22 weeks
+> - **Queensland:** 22 weeks
+> - **Western Australia:** 23 weeks
+> - **Tasmania:** 16 weeks
+> - **ACT:** no specified gestational limit
+> - **Northern Territory:** limits differ by procedure type (medical vs surgical) — check current NT legislation directly
+>
+> Beyond each state's threshold, the general pattern (not universal) is that two medical practitioners must agree the termination is appropriate on specified grounds (risk to physical/mental health, fetal anomaly) — but the specific grounds, documentation, and any additional requirements (e.g. approved-facility requirements, mandatory considerations) differ by jurisdiction and should be checked directly rather than assumed uniform.
+
+**General points relevant across jurisdictions**
+- If patient <16yo presents for TOP: standard principles of consent for minors apply — see [[Clinical-Process-EBM-Consent-Capacity]] Consent and children, where Gillick competence is set out, not repeated here; specific parental involvement requirements vary by state.
+- Safe access zones (typically 150m) around clinics, prohibiting protest/harassment, are in place in most jurisdictions.
+
+### Medical/drug options
+- Mifepristone followed 48h later by prostaglandin (e.g. misoprostol) — "mimics a miscarriage"; doses depend on gestation
+- May be done at home depending on gestation; timing is not predictable
+- Requires a multi-level pregnancy test (bHCG) at 2w to confirm pregnancy has ended
+
+### Surgical options
+- Vacuum aspiration (MVA), electric vacuum aspiration (EVA), dilation and evacuation (D&E)
+- Cervical priming with misoprostol ± mifepristone before procedures
+- Various anaesthetic options (LA or GA)
+- Intrauterine contraceptive can be inserted immediately following the procedure
+
+### Choice of procedure
+
+
+| Gestation | Options |
+|---|---|
+| <9w | Usually medical methods used at home; still 5% chance of needing surgical procedure afterward |
+| >9w | Choice between medical and surgical methods |
+| >21+6w | Essential that fetus is born dead (unless lethal fetal abnormality) — 3mL intracardiac 15% potassium chloride, confirm asystole with US |
+
+> [!note] If born after 24w, the dead fetus is considered a stillbirth and must be registered. If signs of life, a death certificate is required.
+
+**Before TOP**: offer counselling + support; US to confirm gestation and identify non-viable/ectopic pregnancy; screen for STIs; give antibiotic prophylaxis if surgical option used; discuss contraception; do Rhesus testing and give anti-D prophylaxis if Rh-negative (**250 IU before 13 weeks, 625 IU from 13 weeks** — owned by [[16_01-05_Antenatal_Care]] Use of anti-D).
+
+> [!warning] **The gestational threshold for anti-D after termination is unresolved between the two entries.** This entry said **"if ≥10w"**; the owner entry says give it to **all** having surgical or medical terminations, with no gestational floor. Both positions exist in real guidance — the argument for a floor is that a very early *medical* termination with no instrumentation carries minimal fetomaternal haemorrhage risk — so this is a genuine question rather than a transcription slip. **The threshold has been removed here rather than asserted either way**, because omitting anti-D when it is indicated causes sensitisation that only surfaces in a *later* pregnancy, and is untraceable by then. See `PENDING_GUIDELINE_CHECKS.md` **B62**. Found by the G37 confirmation pass, 2026-08-29.
+
+**Complications of TOP**
+- Failed TOP <1:100 (medical failure rate higher than surgical)
+- Infection ~2:100
+- Haemorrhage <1:1000 (higher risk if ≥20w)
+- Uterine perforation 1–4:1000 (surgical only)
+- Uterine rupture <4:1000
+- Cervical trauma 1:100
+- Retained products of conception 1:100 (requires surgical evacuation)
+
+*For stillbirth, see Obstetrics 16.12.*
+
+---
+
+## Miscarriage
+
+**D**: involuntary, spontaneous loss of pregnancy before 20 weeks' gestation (the Australian definition — genuinely different from the UK's 24-week threshold, not just relabelled; loss at/after 20 weeks, or a birthweight ≥400g, is classified as stillbirth in Australia). Occurs in roughly 1 in 7 pregnancies (up to 1 in 8 women will have a miscarriage at some point in their life); recognised as likely under-reported given many occur before a pregnancy is confirmed.
+
+> [!info] Descriptive terms
+> | Term | Description |
+> |---|---|
+> | Threatened | Painless vaginal bleeding <24w, typically 6–9w; bleeding often less than menses; cervical os closed; complicates ≤25% of pregnancies |
+> | Inevitable | Heavy bleeding with clots and pain; open cervical os |
+> | Incomplete | Not all products of conception expelled; pain and vaginal bleeding; open cervical os |
+> | Complete | — |
+> | Missed/delayed | Gestational sac containing a dead fetus before 20w without symptoms of expulsion; closed cervical os; usually painless, light bleeding may be present |
+> | Recurrent | Spontaneous loss of ≥2–3 consecutive pregnancies before 20w (Australian threshold; RANZCOG defines recurrent miscarriage as ≥2 losses for initial Ix purposes) |
+
+**R**: older age (associated with chromosomal abnormalities), uterine malformation, bacterial vaginosis, thrombophilia, parental chromosomal anomaly, vitamin D deficiency.
+
+**A**: primary embryonic disease/disorder/damage; chromosomal abnormalities; maternal genital tract dysfunction or exposure to high-dose toxic agents.
+
+**S/smx**: vaginal bleeding ± clots; ± pain (suprapubic or low back); recent post-coital bleed (2x odds of miscarriage in women reporting post-coital bleeding during pregnancy).
+
+**Ix**
+- Transvaginal US differentiates stages/types
+  - Consider miscarriage if gestational sac mean diameter ≥25mm with no visible yolk sac/fetal pole, or crown-rump length ≥7mm with no fetal heart activity
+- Serum bHCG titres if miscarriage status uncertain
+  - >50% drop in 48h suggests failing pregnancy → refer for early pregnancy assessment service review within 24h
+  - Rise ≥50% in 48h suggests possible ongoing pregnancy
+- Other bloods (FBC, Rhesus, antibodies) or vaginal swab as clinically indicated
+  - **Rhesus status is checked here and this entry never said what to do with it.** Rh-negative women need **anti-D** where the miscarriage is managed surgically or medically, or where a spontaneous miscarriage requires evacuation — but **anti-D is *not* recommended for threatened miscarriage before 12 weeks**, which is the distinction that decides the common case. Doses and the full indication list are owned by [[16_01-05_Antenatal_Care]] Use of anti-D. Added by the G37 round, 2026-08-29.
+
+### Mx — 3 approaches
+
+**Expectant Mx** — waiting for spontaneous miscarriage; generally preferred. Offer medical/surgical Mx if unsuccessful or risk factors present (↑haemorrhage risk — late first trimester or coagulopathy; previous adverse/traumatic pregnancy experience; evidence of infection).
+
+**Medical Mx**
+- Missed miscarriage: PO mifepristone, then misoprostol (PV/PO/sublingual) 48h later; if no bleeding within 48h of misoprostol, advise to return
+- Incomplete miscarriage: single dose misoprostol (PV/PO/sublingual)
+- Offer antiemetics and pain relief
+- Pregnancy test 3w later
+
+**Surgical Mx**
+- Vacuum aspiration (suction curettage) — can be performed under LA as outpatient
+- Surgical Mx in theatre requires GA (= evacuation of retained products of conception)
+
+---
+
+## Recurrent miscarriage
+
+**D**: loss of ≥3 consecutive pregnancies before 20w with the same biological father (Australian gestational threshold — RANZCOG's Clinical Guideline for Abortion Care and Miscarriage uses 20 weeks, not the UK's 24; RANZCOG also supports considering Ix after just 2 losses in some circumstances, rather than waiting for a 3rd).
+
+**R**: the more miscarriages, the worse the prognosis.
+
+**Ix guided by likely causes**
+
+| Cause | Notes |
+|---|---|
+| Infection | Bacterial vaginosis associated with 2nd trimester loss; screening/treatment recommended for those with previous mid-trimester miscarriage |
+| Parental chromosome abnormality | Parents may be phenotypically normal but 50–75% of gametes may be affected; refer to clinical geneticist; karyotype fetal products on 3rd and subsequent losses — if unbalanced abnormality identified, karyotype both parents' peripheral blood |
+| Antiphospholipid syndrome | APS antibodies (lupus, phospholipid, anticardiolipin); diagnosed if 2 positive tests taken 12w apart; present in 15% of women with recurrent miscarriage; Mx with aspirin from +ve pregnancy test + LMWH (e.g. enoxaparin) once fetal heart seen on US; associated with high risk of other complications (e.g. pre-eclampsia) — monitor with experienced obstetrician |
+| Thrombophilia | Blood tests to determine; heparin ↓miscarriage risk |
+| Alloimmune causes | — |
+| Uterine malformations | Previous uterine surgery ↑uterine rupture risk |
+
+
+<!-- ===== SOURCE: 17_04_Ectopic_Pregnancy_and_GTD.md ===== -->
+
+
+## Ectopic pregnancy
+
+**D**: implantation and growth of a fertilised ovum outside the uterine endometrial cavity.
+- 96% in fallopian tube (most in the ampulla; more dangerous if in the isthmus)
+- ~3% ovaries, ~1% abdomen
+
+> [!info] Gap-filled — the "6–8 week" rupture timing and "more dangerous if in the isthmus" were both stated as bare facts, without the shared anatomical mechanism connecting them. **Unlike the uterus, which is specifically structured to expand progressively throughout pregnancy, the fallopian tube has a genuinely limited capacity to distend** — as the trophoblastic/gestational tissue grows within the tube, it eventually exceeds what the tubal wall can accommodate, causing either rupture or erosion through the wall. This tubal-capacity limit is precisely why symptoms and rupture cluster around 6–8 weeks — enough time for growth to reach the tube's structural limit, but rarely much longer. **The isthmus specifically is the narrowest part of the tube**, meaning it has even less capacity to distend before failing — an isthmic ectopic reaches its structural limit and ruptures **earlier and more catastrophically** than an ampullary ectopic (the wider, most common site), which has comparatively more room to expand before failing. This is precisely why isthmic location is flagged as "more dangerous" — it's a direct consequence of the same tubal-capacity mechanism, not a separate, unrelated risk factor.
+
+**R**: previous ectopic pregnancy, previous tubal sterilisation surgery, IUD use, previous genital infections (and their risk factors, including multiple sexual partners), chronic salpingitis, endometriosis, infertility, smoking, IVF.
+
+**A/P**: causes broadly divide into conditions hampering transfer of the fertilised oocyte to the uterine cavity, and conditions predisposing to premature implantation.
+
+**S/smx**
+- History of amenorrhoea — symptoms generally appear 6–8w after last normal menstrual period
+
+> [!warning] **Ectopic pregnancy is a sensitising event — give anti-D to Rh-negative women.** This entry did not mention it, while the molar pregnancy entry below in this same file does. [[16_01-05_Antenatal_Care]] Use of anti-D owns the doses (**250 IU before 13 weeks**, 625 IU from 13 weeks) and names ectopic pregnancy explicitly among the indications. Added by the G37 round, 2026-08-29.
+- Abdominal pain (tubal spasm) — constant and classically unilateral
+- Vaginal bleeding — less than normal period, dark brown
+- Peritoneal bleeding (2° ruptured ectopic) may present as shoulder tip pain, or pain on defecation/urination
+- ↑blood loss (2° rupture) may present as anaemia (dizziness, fainting, syncope)
+- Pregnancy symptoms (e.g. breast tenderness) may be reported
+- Examination: cervical motion tenderness, adnexal mass/tenderness; dilated cervix may suggest miscarriage instead
+
+**Ix**
+- Serum bHCG >1500 suggestive of ectopic pregnancy
+- High-resolution transvaginal US to locate pregnancy — "bagel sign" = empty gestational sac; if pregnancy cannot be located → **pregnancy of unknown location**; transabdominal US is less sensitive
+- If patient in shock (or approaching it): FBC + crossmatch 6 units + senior help ASAP
+
+**Mx — depends on presentation**
+
+> [!info] Verified against O&G Magazine (RANZCOG-affiliated) coverage of Australian ectopic pregnancy guidelines, Aug 2026 — **the thresholds below are genuinely consistent with Australian practice**, not UK-specific figures needing replacement: NSW guidelines specifically use an hCG <1000 IU/L threshold for expectant management, matching the table below exactly. One genuinely useful Australian state-specific addition not in the original note: **methotrexate administration route varies by hCG level in Queensland guidance specifically** — IM if β-hCG ≤3000 IU/L, IV if >3000 IU/L — whereas NSW practice typically uses IM regardless of level; check current local protocol for the specific route given this is genuinely state-variable, not a single national standard.
+
+> | Approach | Criteria |
+> |---|---|
+> | **Expectant** | Low risk, haemodynamically stable, asymptomatic, evidence of resolving ectopic; size <35mm, hCG <1000 IU/L. Close monitoring over 48h with serial bHCG to confirm decline |
+> | **Medical** | Similar criteria to expectant, but cannot be used if there is a co-existing intrauterine pregnancy; size <35mm, hCG <1500 IU/L; methotrexate given (route — IM or IV — varies by local/state protocol and hCG level, see note above); requires patient willingness to attend follow-up |
+> | **Surgical** | Size >35mm, ruptured, pain, visible fetal heartbeat, and/or hCG >5000 IU/L; salpingectomy or salpingotomy |
+
+- **Salpingectomy** (removal of fallopian tube): first-line if no other infertility risk factors
+- **Salpingotomy** (removal of ectopic from tube only): consider if patient has other infertility risk factors (e.g. contralateral tube damage) — 20% will require further treatment (methotrexate or salpingectomy)
+
+### Pregnancy of unknown location (PUL)
+- Diagnosed when there is no sign of intrauterine or ectopic pregnancy, or retained products of conception, in the presence of a +ve pregnancy test (serum hCG >5 IU)
+- **DDx**: early intrauterine pregnancy (too early to see on scan), complete miscarriage, failing pregnancy (unseen on scan but will resolve), ectopic pregnancy (10%), persistent PUL, hCG-secreting tumour
+- Mx according to symptoms
+
+---
+
+## Gestational trophoblastic disease (GTD)
+
+**D**: group of conditions including tumours arising from placental trophoblasts.
+- **Hydatidiform moles** (aka molar pregnancy): pregnancies with chromosomal abnormalities that have potential to become malignant
+- **Gestational trophoblastic neoplasia (GTN)**: persistent locally invasive and/or metastatic trophoblastic tumour (different subtypes)
+
+**R**: extremes of maternal age (<20yo or >35yo), prior molar pregnancy.
+
+**A/P**: presence of excess paternal chromosomes ± other mechanisms — e.g. empty egg fertilised by a single sperm that duplicates its own DNA (all 46 chromosomes of paternal origin).
+- **Complete moles**: no evidence of fetal parts, fetal circulation, or fetal RBCs
+- **Partial moles**: histological/macroscopic evidence of the above
+- Both types produce very high hCG levels due to abnormal, hydropic chorionic villi
+
+**S/smx**
+- Bleeding in 1st or early 2nd trimester
+- Exaggerated pregnancy symptoms (e.g. hyperemesis)
+- Uterus large for dates
+- Very high hCG levels
+- ± HTN and hyperthyroidism (hCG mimics TSH action)
+
+**Ix**: serum hCG (very high); pelvic US ("snowstorm appearance" of mixed echogenicity in complete moles); histological exam of placental tissue.
+
+**Mx**
+- Urgent referral to specialist centre; evacuate uterus under GA (risk of thyroid storm post-op); give anti-D if Rh-negative
+- Monitor hCG for ≥6 months — should normalise by 6mo; avoid pregnancy until hCG normalises
+- If levels don't normalise: either invasive mole or progression to choriocarcinoma
+
+> [!info] Indications for chemotherapy
+> - hCG ≥20,000 IU/L at ≥4w post-evacuation
+> - Static or rising hCG after evacuation (without new pregnancy)
+> - Raised hCG at 6 months post-evacuation, even if declining
+> - Heavy vaginal bleeding, or GI/intraperitoneal bleeding
+> - Evidence of brain, liver, or GI metastases, or lung opacities >2cm
+> - Histology of choriocarcinoma
+
+**P**: 15–20% of complete molar pregnancies and up to 5% of partial molar pregnancies develop GTN. Cure rate >95%.
+
+
 <!-- ===== SOURCE: 16_01-05_Antenatal_Care.md ===== -->
 
 
@@ -879,6 +1351,243 @@ If mother has primary infection lesions at time of delivery:
 > **Dosing**: benzylpenicillin 3g IV loading dose, then 1.8g q4h throughout labour. If penicillin-allergic (no anaphylaxis history): cephazolin 2g IV loading, then 1g q8h. If history of anaphylaxis to penicillin: clindamycin (confirm susceptibility where possible) — check current local/eTG guidance for the specific alternative given practice varies somewhat by state.
 
 
+<!-- ===== SOURCE: O2_Later_Pregnancy_and_Fetal.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Recognition, mechanism and discriminators are reliable at intern level. **Every dose, blood pressure threshold, gestational cut-off and regimen carries an `UNVERIFIED` marker, or has been omitted with the omission stated in place.** **Magnesium sulfate and antihypertensive regimens are protocol-driven and are not reproduced here.**
+> Verify against **RANZCOG**, the **SOMANZ hypertension in pregnancy guideline**, the **Safer Baby Bundle**, eTG and your local maternity protocols.
+>
+> **Early pregnancy is built in [[O1]]**, **labour and postpartum in [[O3]]**, and **trauma in pregnancy in [[L8]] 0.6** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Hypertensive Disorders of Pregnancy
+
+> [!info] The four categories
+> **· CHRONIC (pre-existing) HYPERTENSION — present before pregnancy or before 20 weeks.**
+> **· GESTATIONAL HYPERTENSION — new hypertension AFTER 20 weeks, WITHOUT features of pre-eclampsia.** A proportion progress to pre-eclampsia, so it requires surveillance rather than reassurance.
+> **· PRE-ECLAMPSIA — see 0.2.**
+> **· PRE-ECLAMPSIA SUPERIMPOSED ON CHRONIC HYPERTENSION — the highest-risk group, and harder to recognise because the baseline is already abnormal.**
+> **The 20-week line matters: hypertension before it is pre-existing; after it, it is a pregnancy-specific disorder until proven otherwise.**
+> `UNVERIFIED — the diagnostic blood pressure thresholds.`
+
+> [!danger] The drugs — and the ones that must be stopped
+> **SAFE AND USED IN PREGNANCY: LABETALOL · METHYLDOPA · NIFEDIPINE · HYDRALAZINE (parenteral, for acute severe hypertension).**
+> **CONTRAINDICATED: ACE INHIBITORS AND ARBs — they cause fetal renal failure, oligohydramnios, pulmonary hypoplasia, skull ossification defects and fetal death.** **A woman of childbearing potential on an ACE inhibitor should know this and have a plan; a woman who presents pregnant on one needs it changed immediately.** **DIURETICS are generally avoided.**
+> Cross-refer [[B2]] 0.5 and [[O1]] 0.6.
+
+> [!warning] FLAG 2026-09-01 — this pointer does not resolve, and is deliberately NOT guessed
+> **`B2_Hypertension_Spectrum` has only `§0.1`–`§0.4`. There is no `§0.5`.**
+> The context is antihypertensives in pregnancy, so the intended target was plausibly
+> `B2 §0.1 Elevated Blood Pressure` or `§0.3 Hypertensive Emergency` — **but that is a guess, and
+> CLAUDE.md rule 1 forbids writing a plausible-sounding cross-reference.**
+> This is the **only dangling numeric pointer left in the vault** after the 23 repaired on 2026-09-01.
+> It needs a human ruling. `UNVERIFIED — all doses and thresholds for treatment.`
+
+> [!warning] Three points that change management
+> **1. TREATING THE BLOOD PRESSURE DOES NOT TREAT PRE-ECLAMPSIA.**
+> **Antihypertensives prevent MATERNAL STROKE. They do NOT alter the underlying placental disease, do not protect the fetus, and do not remove the need for surveillance or delivery.** **A woman whose blood pressure has normalised on treatment still has pre-eclampsia and can still progress to eclampsia, HELLP or abruption.**
+> **2. SEVERE HYPERTENSION IN PREGNANCY IS AN EMERGENCY, AND THE RISK IS INTRACRANIAL HAEMORRHAGE.** **Maternal stroke from uncontrolled severe hypertension is a recognised and preventable cause of maternal death, and it is the reason acute severe hypertension is treated urgently rather than observed.**
+> **3. BLOOD PRESSURE OFTEN PEAKS SEVERAL DAYS AFTER DELIVERY — commonly around days three to five — WHICH IS AFTER MOST WOMEN HAVE GONE HOME.**
+> **Pre-eclampsia and eclampsia can present or worsen POSTPARTUM, sometimes weeks later.** **A woman presenting after delivery with headache, visual symptoms, epigastric pain or a seizure must have pre-eclampsia considered — and this is regularly missed because the pregnancy is thought to be over.** Cross-refer [[O3]].
+
+> [!danger] Hypertensive disease in pregnancy is a lifelong cardiovascular risk marker
+> **Women who have had pre-eclampsia or gestational hypertension have a substantially increased lifetime risk of chronic hypertension, ischaemic heart disease, stroke, chronic kidney disease and diabetes.**
+> **Pregnancy functions as a cardiovascular stress test that identifies women at risk decades before they would otherwise be detected.**
+> **AND THIS FOLLOW-UP IS ALMOST NEVER ARRANGED.** The woman is discharged from maternity care and the information is lost.
+> **THE ACTION: document it prominently in the discharge summary to the GP, tell the woman explicitly, and recommend lifelong cardiovascular risk assessment — blood pressure, lipids, glucose and lifestyle — starting in the years after the pregnancy rather than in her sixties.** Cross-refer [[GER3]] 0.2 and [[B2]] 0.1.
+
+---
+
+## 0.2 Pre-eclampsia and Eclampsia
+
+> [!danger] Proteinuria is no longer required for the diagnosis
+> **Pre-eclampsia is a MULTISYSTEM disorder of placental origin: new-onset hypertension after 20 weeks PLUS evidence of maternal ORGAN DYSFUNCTION or UTEROPLACENTAL dysfunction.**
+> **CURRENT DEFINITIONS DO NOT REQUIRE PROTEINURIA.** **A woman with new hypertension and thrombocytopenia, deranged liver enzymes, renal impairment, neurological features, pulmonary oedema or fetal growth restriction HAS PRE-ECLAMPSIA even with a clear urine dipstick.**
+> **Waiting for proteinuria before making the diagnosis is an outdated and dangerous practice.**
+> **THE ORGAN SYSTEMS: RENAL (proteinuria, rising creatinine) · HEPATIC (transaminitis, epigastric or right upper quadrant pain) · NEUROLOGICAL (headache, visual disturbance, HYPERREFLEXIA AND CLONUS, eclampsia, stroke) · HAEMATOLOGICAL (thrombocytopenia, haemolysis, DIC) · PULMONARY OEDEMA · and UTEROPLACENTAL (fetal growth restriction, abnormal umbilical artery Dopplers, abruption).**
+> `UNVERIFIED — the full diagnostic criteria.`
+
+> [!danger] Epigastric pain in a pregnant woman is pre-eclampsia until the BP and urine are checked
+> **THE SYMPTOMS THAT MATTER, and that women are frequently told are normal in pregnancy:**
+> **· SEVERE HEADACHE, particularly new, persistent and not relieved by simple analgesia.**
+> **· VISUAL DISTURBANCE — flashing lights, blurring, scotomata.**
+> **· EPIGASTRIC OR RIGHT UPPER QUADRANT PAIN — from hepatic capsular stretch.**
+> **THIS IS THE ONE THAT IS MISSED.** **It is attributed to reflux, gastritis or "indigestion in pregnancy" — all of which are genuinely common — and the woman is given an antacid and sent home with undiagnosed severe pre-eclampsia or HELLP syndrome.**
+> **ANY PREGNANT OR RECENTLY PREGNANT WOMAN WITH EPIGASTRIC PAIN GETS A BLOOD PRESSURE, A URINE DIPSTICK AND BLOODS. Every time.**
+> **· Nausea and vomiting in the second half of pregnancy (new vomiting late in pregnancy is not morning sickness).**
+> **· Sudden swelling of the face, hands or feet.**
+> **· REDUCED FETAL MOVEMENTS.**
+> **· Breathlessness (pulmonary oedema).**
+
+> [!warning] Risk factors, and the prevention that is under-prescribed
+> **HIGH RISK: PREVIOUS PRE-ECLAMPSIA (the strongest single factor) · chronic hypertension · CHRONIC KIDNEY DISEASE · pre-existing DIABETES · AUTOIMMUNE DISEASE, particularly ANTIPHOSPHOLIPID SYNDROME and lupus · and multiple pregnancy.**
+> **MODERATE RISK: nulliparity · age extremes · obesity · family history · long interpregnancy interval · and assisted reproduction.**
+> **LOW-DOSE ASPIRIN, started EARLY in pregnancy and continued, SUBSTANTIALLY REDUCES the risk of pre-eclampsia in high-risk women — and it is UNDER-PRESCRIBED.** **The timing matters: starting it late loses most of the benefit.** **Calcium supplementation is used in low-intake populations.** `UNVERIFIED — the dose, the gestational window for starting, and the risk criteria triggering it.`
+> **Identifying risk at the booking visit and prescribing aspirin is one of the highest-value preventive actions in antenatal care.**
+
+> [!danger] HELLP syndrome and eclampsia
+> **HELLP — HAEMOLYSIS, ELEVATED LIVER ENZYMES, LOW PLATELETS.**
+> **IT CAN OCCUR WITHOUT MARKED HYPERTENSION AND WITHOUT PROTEINURIA**, which is why it is missed. **The presenting complaint is frequently epigastric or right upper quadrant pain, nausea and malaise — and it is diagnosed on the bloods.**
+> **The feared complication is HEPATIC HAEMATOMA AND CAPSULAR RUPTURE, which is catastrophic.**
+> **ECLAMPSIA — a generalised tonic-clonic seizure in pre-eclampsia.**
+> **IT CAN OCCUR WITHOUT PRECEDING SEVERE HYPERTENSION OR PROTEINURIA, and it can occur POSTPARTUM, up to weeks after delivery.**
+> **MANAGEMENT OF AN ECLAMPTIC SEIZURE: call for help · A–B–C, protect the airway, oxygen · LEFT LATERAL POSITION (to relieve aortocaval compression) · protect from injury · MAGNESIUM SULFATE · control the blood pressure · and then plan DELIVERY once the woman is stabilised.**
+> **DELIVER THE MOTHER FIRST — stabilise her before delivering the baby. An unstable mother cannot be safely anaesthetised or operated on, and the fetus does better if the mother is resuscitated.**
+
+> [!danger] Magnesium sulfate — and know the toxicity before you give it
+> **MAGNESIUM SULFATE IS THE TREATMENT FOR ECLAMPTIC SEIZURES AND THE PROPHYLAXIS AGAINST THEM IN SEVERE PRE-ECLAMPSIA.**
+> **IT IS SUPERIOR TO DIAZEPAM AND PHENYTOIN for this indication — this is well established and is a common examination point. It is not an ordinary anticonvulsant being used off-label; it is the drug of choice.**
+> **MAGNESIUM TOXICITY PROGRESSES IN A PREDICTABLE ORDER, AND THE FIRST SIGN IS THE ONE YOU MONITOR:**
+> **1. LOSS OF DEEP TENDON REFLEXES (patellar) — the earliest sign.**
+> **2. RESPIRATORY DEPRESSION.**
+> **3. CARDIAC CONDUCTION abnormalities and arrest.**
+> **SO MONITORING IS: DEEP TENDON REFLEXES · RESPIRATORY RATE · oxygen saturation · and URINE OUTPUT (magnesium is renally cleared, so oliguria causes accumulation — a woman with impaired renal function needs a reduced dose and closer monitoring).**
+> **THE ANTIDOTE IS INTRAVENOUS CALCIUM GLUCONATE — know where it is kept on the ward before you need it.**
+> `UNVERIFIED — loading and maintenance regimens, monitoring frequency, and the calcium gluconate dose.`
+> **THE DEFINITIVE TREATMENT OF PRE-ECLAMPSIA IS DELIVERY OF THE PLACENTA.** Everything else is temporising. **The timing balances maternal deterioration against fetal prematurity, and antenatal corticosteroids are given if delivery is anticipated preterm.**
+
+---
+
+## 0.3 Antepartum Haemorrhage
+
+> [!danger] Do not perform a vaginal examination until placenta praevia is excluded
+> **Bleeding from the genital tract after 20 weeks.**
+> **A DIGITAL VAGINAL EXAMINATION IN THE PRESENCE OF AN UNDIAGNOSED PLACENTA PRAEVIA CAN PROVOKE CATASTROPHIC HAEMORRHAGE.**
+> **THE RULE: NO DIGITAL VAGINAL EXAMINATION IN ANTEPARTUM HAEMORRHAGE UNTIL THE PLACENTAL SITE IS KNOWN — check the notes for a previous scan, or obtain an ultrasound.** A careful speculum examination is generally acceptable and is different.
+
+> [!warning] Praevia versus abruption — the discriminators
+> | | **PLACENTA PRAEVIA** | **PLACENTAL ABRUPTION** |
+> |---|---|---|
+> | Pain | **PAINLESS** | **PAINFUL — constant, severe** |
+> | Uterus | **Soft, non-tender** | **TENSE, "WOODY", TENDER, irritable** |
+> | Bleeding | Visible, often bright red, may be recurrent | **May be CONCEALED** |
+> | Shock | Proportional to visible loss | **OUT OF PROPORTION to visible loss** |
+> | Fetal condition | Usually well initially | **Distress or death is common** |
+> | Presentation | Often malpresentation, high head | Normal lie |
+> **THE CRITICAL POINT ABOUT ABRUPTION: THE BLEEDING MAY BE CONCEALED BEHIND THE PLACENTA.** **The visible loss can be minimal or absent while the woman is exsanguinating into the uterus — so SHOCK OUT OF PROPORTION TO VISIBLE BLEEDING IS THE HALLMARK, and resuscitation must be guided by the woman's physiology, not by what is on the pad.**
+> **Abruption risk factors: HYPERTENSION and pre-eclampsia · TRAUMA — including motor vehicle accidents and FAMILY VIOLENCE, which must be considered (cross-refer [[GER4]] 0.4 and [[L8]] 0.6) · SMOKING · cocaine and methamphetamine use · previous abruption · polyhydramnios and sudden decompression · and prolonged rupture of membranes.**
+> **Abruption also causes DIC**, which compounds the haemorrhage. Cross-refer [[A9]] 0.3.
+
+> [!danger] The rarer catastrophes, and the placenta accreta spectrum
+> **· VASA PRAEVIA — unprotected FETAL vessels running across the internal os.** **Rupture of the membranes tears them, and the blood lost is FETAL — so a relatively small volume causes rapid fetal exsanguination and death.** **The classic presentation is painless bleeding at the moment of membrane rupture with immediate, profound fetal bradycardia.** **It demands immediate delivery.**
+> **· UTERINE RUPTURE — most often in a woman with a previous caesarean scar in labour.** **Features: severe constant pain, sudden cessation of contractions, loss of the presenting part on examination, palpable fetal parts abdominally, maternal shock and fetal bradycardia.**
+> **· PLACENTA ACCRETA SPECTRUM — abnormally invasive placenta, whose principal risk factor is a PREVIOUS CAESAREAN SECTION COMBINED WITH A PLACENTA PRAEVIA OVERLYING THE SCAR, with the risk rising with the number of previous caesareans.** **It causes massive obstetric haemorrhage and often requires hysterectomy.** **It should be identified ANTENATALLY on imaging so that delivery can be planned in a centre with interventional radiology, blood bank support and experienced surgeons — an unanticipated accreta in a small hospital is a maternal death waiting to happen.** **Rising caesarean rates mean rising accreta rates.**
+
+> [!tip] Managing antepartum haemorrhage
+> **RESUSCITATE THE MOTHER FIRST — the fetus is best served by a well-perfused mother.**
+> **· Large-bore intravenous access, bloods including FBC, coagulation, GROUP AND CROSSMATCH, and Kleihauer where relevant.**
+> **· Activate the massive transfusion protocol if the bleeding is significant.** Cross-refer [[A9]] 0.1.
+> **· LEFT LATERAL TILT or manual uterine displacement after about 20 weeks, to relieve aortocaval compression.**
+> **· ANTI-D for Rhesus-negative women.**
+> **· CTG for fetal assessment, and ultrasound for placental site.**
+> **· URGENT obstetric involvement, and preparation for delivery.**
+> **· And consider the CAUSE — including checking the blood pressure and urine, since abruption and pre-eclampsia are linked.**
+
+---
+
+## 0.4 Preterm Labour and Prelabour Rupture of Membranes
+
+> [!danger] The four interventions that change outcomes
+> **Preterm birth is the leading cause of neonatal death and of long-term neurodevelopmental morbidity, and these are the interventions worth knowing:**
+> **1. ANTENATAL CORTICOSTEROIDS — the single most effective intervention in obstetrics.** **They reduce neonatal respiratory distress syndrome, intraventricular haemorrhage, necrotising enterocolitis and NEONATAL DEATH.** **Give them when preterm birth is anticipated within the relevant window and gestational range.** `UNVERIFIED — the gestational range, agent, dose and repeat course policy.`
+> **2. MAGNESIUM SULFATE FOR FETAL NEUROPROTECTION — given before very preterm birth, it REDUCES CEREBRAL PALSY.** **This is a different indication and a different regimen from eclampsia prophylaxis, and it is easy to conflate them.** `UNVERIFIED — gestational threshold and regimen.`
+> **3. IN UTERO TRANSFER — transferring the mother to a hospital with the appropriate level of neonatal care produces BETTER OUTCOMES than delivering locally and transferring the baby afterwards.** **The safest incubator is the uterus.**
+> **4. TOCOLYSIS — and understand what it is for.** **It does NOT meaningfully prolong pregnancy or improve neonatal outcomes on its own. Its purpose is to BUY TIME — for corticosteroids to work and for in utero transfer to occur.** **Using it to try to hold a pregnancy indefinitely is not its role.**
+> **Plus: antibiotics in PPROM to prolong latency, and intrapartum GROUP B STREPTOCOCCUS prophylaxis.**
+
+> [!warning] PPROM and chorioamnionitis
+> **PRELABOUR RUPTURE OF MEMBRANES BEFORE TERM — confirmed on SPECULUM examination seeing liquor pooling.**
+> **AVOID DIGITAL VAGINAL EXAMINATION IN PPROM — it introduces organisms and shortens the latency period, increasing infection risk.** **Speculum only.**
+> **The risks: ASCENDING INFECTION and chorioamnionitis · CORD PROLAPSE · placental abruption · and, with early and prolonged oligohydramnios, PULMONARY HYPOPLASIA and limb contractures.**
+> **CHORIOAMNIONITIS — maternal FEVER · maternal and FETAL TACHYCARDIA · uterine tenderness · offensive or purulent liquor · and raised inflammatory markers.**
+> **IT IS AN INDICATION FOR DELIVERY plus antibiotics, regardless of gestation — continuing the pregnancy in the presence of intrauterine infection harms both mother and baby.** **Fetal tachycardia may be the earliest sign.**
+> **Monitoring in PPROM: temperature, pulse, fetal heart rate, uterine tenderness, liquor character and inflammatory markers.**
+> **PREVENTION IN A SUBSEQUENT PREGNANCY: a previous preterm birth is the strongest risk factor, and progesterone, cervical length surveillance and cerclage are used — which makes documenting a preterm birth clearly in the discharge summary genuinely consequential.**
+
+---
+
+## 0.5 Fetal Concerns
+
+> [!danger] Reduced fetal movements — assess, never reassure over the phone
+> **Reduced fetal movements are associated with STILLBIRTH, fetal growth restriction and placental insufficiency.**
+> **EVERY WOMAN REPORTING REDUCED MOVEMENTS NEEDS ASSESSMENT — history, examination, CTG, and consideration of ultrasound for growth and liquor volume.**
+> **DO NOT REASSURE HER OVER THE PHONE, and do not tell her to have a cold drink and lie down and call back — this advice has featured in stillbirth reviews.**
+> **THE ADVICE TO GIVE WOMEN ANTENATALLY: there is no set number of movements to count, and formal kick-count charts are not recommended as a screening tool — but SHE SHOULD PRESENT PROMPTLY IF THE PATTERN OF MOVEMENT CHANGES OR REDUCES, at any hour, and should not wait until morning or until the next appointment.**
+> **Repeated presentations with reduced movements are a particular concern, not a nuisance.**
+
+> [!warning] Fetal growth restriction and stillbirth prevention
+> **SMALL FOR GESTATIONAL AGE means below a size threshold; FETAL GROWTH RESTRICTION means the fetus has not achieved its growth potential — and the two overlap imperfectly.** **A constitutionally small but healthy fetus is different from a growth-restricted one, and a fetus of "normal" size can be growth-restricted.**
+> **Causes: PLACENTAL insufficiency (the commonest, and linked to pre-eclampsia) · maternal (hypertension, smoking, substance use, malnutrition, chronic disease) · fetal (chromosomal abnormality, structural anomaly) · and congenital INFECTION.**
+> **DETECTION: symphysis-fundal height measurement has POOR sensitivity, which is why customised growth charts and ultrasound surveillance in at-risk women are used.** **Umbilical artery Doppler assessment guides timing of delivery in established growth restriction.**
+> **STILLBIRTH — Australia's stillbirth rate has plateaued, and a proportion of stillbirths are potentially preventable.** **The Safer Baby Bundle addresses the modifiable elements: SMOKING CESSATION · improving detection and management of FETAL GROWTH RESTRICTION · improving awareness and response to REDUCED FETAL MOVEMENTS · SIDE SLEEPING in the third trimester · and decision-making about timing of birth.** `UNVERIFIED — current bundle elements.`
+> **THE SIDE-SLEEPING ADVICE IS WORTH KNOWING AND GIVING: going to sleep ON THE BACK in the third trimester is associated with an increased risk of stillbirth, and women should be advised to settle to sleep on their side.** **It is simple, free, and frequently not communicated.**
+
+> [!tip] Reading a CTG — DR C BRAVADO
+> **· DR — DEFINE RISK (what is the clinical context? A CTG is uninterpretable without it.)**
+> **· C — CONTRACTIONS (frequency and duration).**
+> **· BRA — BASELINE RATE.**
+> **· V — VARIABILITY — the single most important indicator of fetal wellbeing. Reduced variability is concerning; a sleep cycle is a benign cause and is time-limited.**
+> **· A — ACCELERATIONS — reassuring.**
+> **· D — DECELERATIONS — EARLY (with contractions, head compression, benign) · VARIABLE (cord compression) · LATE (occurring after the contraction peak, indicating UTEROPLACENTAL INSUFFICIENCY AND HYPOXIA — the concerning ones).**
+> **· O — OVERALL impression and action.**
+> `UNVERIFIED — the classification system and normal ranges.`
+> **THE INTERPRETIVE CAVEAT: CTG HAS HIGH SENSITIVITY BUT POOR SPECIFICITY. Most abnormal traces are not associated with a hypoxic baby, and continuous monitoring in low-risk labour increases intervention (caesarean and instrumental delivery) without clear improvement in outcome.** **It must be interpreted in clinical context and with senior input, not as a standalone verdict.**
+
+---
+
+## 0.6 Medical Problems and Infection in Pregnancy
+
+> [!tip] The physiological changes that alter interpretation
+> **· PLASMA VOLUME rises more than red cell mass → a DILUTIONAL "anaemia" with different normal ranges.**
+> **· CARDIAC OUTPUT and heart rate rise; blood pressure falls in the second trimester then returns toward baseline.**
+> **· A HYPERCOAGULABLE state — physiological preparation for delivery, and the reason VTE risk is elevated.**
+> **· GFR RISES → creatinine and urea FALL, so a "normal" creatinine in pregnancy may represent significant impairment.**
+> **· Reduced lower oesophageal sphincter tone and delayed gastric emptying → reflux, and ASPIRATION RISK at anaesthesia.**
+> **· Progesterone-driven hyperventilation → a compensated RESPIRATORY ALKALOSIS, so a "normal" pCO₂ in a breathless pregnant woman is abnormal and concerning.**
+> **· AORTOCAVAL COMPRESSION after about 20 weeks — the gravid uterus compresses the inferior vena cava when supine, and left lateral tilt or manual uterine displacement can restore a blood pressure on its own.** Cross-refer [[L8]] 0.6.
+
+> [!danger] Venous thromboembolism is a leading cause of direct maternal death
+> **Pregnancy and the postpartum period are hypercoagulable, and the puerperium carries the highest risk.**
+> **· ANTICOAGULATION IS WITH LOW MOLECULAR WEIGHT HEPARIN. Warfarin is teratogenic and DOACs are not used.**
+> **· RISK-ASSESS every woman antenatally, on admission and postnatally, and prescribe prophylaxis accordingly — including after caesarean, with hyperemesis, with immobility, and with obesity.**
+> **· DIAGNOSIS IS HARDER: breathlessness and leg swelling are common in normal pregnancy, D-dimer is unhelpful because it rises physiologically, and imaging decisions involve radiation counselling.** **The consequence is that the threshold for investigating must be LOWER, not higher — and imaging should not be withheld from a pregnant woman with suspected pulmonary embolism.** Cross-refer [[J3]] 0.4, 0.6.
+
+> [!warning] The medical conditions that need active management
+> **· DIABETES — pre-existing and GESTATIONAL.** **Periconceptional glycaemic control determines congenital malformation risk; gestational diabetes causes macrosomia, shoulder dystocia, neonatal hypoglycaemia and hyperbilirubinaemia.** **AND THE FOLLOW-UP THAT IS ROUTINELY NOT ARRANGED: gestational diabetes confers a high lifetime risk of type 2 diabetes, requiring a POSTPARTUM GLUCOSE TOLERANCE TEST and then LIFELONG PERIODIC SCREENING.** **Put it in the discharge summary.** Cross-refer [[I2]] 0.1.
+> **· ASTHMA — frequently UNDER-TREATED in pregnancy because women and clinicians fear the medications.** **Uncontrolled asthma is far more dangerous to the fetus than inhaled corticosteroids are. Continue and optimise treatment.** Cross-refer [[F0.5]] 0.1.
+> **· EPILEPSY — requires pre-pregnancy planning, high-dose folate, and specialist medication review. Valproate must be avoided.** **Do not stop antiepileptics abruptly on discovering a pregnancy.** Cross-refer [[D6]] 0.3.
+> **· THYROID disease, cardiac disease, autoimmune disease and inflammatory bowel disease all need specialist co-management.**
+> **· MENTAL HEALTH — cross-refer [[N4]] 0.6 and [[O3]]. **The framing is treated illness versus untreated illness, and maternal suicide is a leading cause of maternal death.**
+> **· ANAEMIA and iron deficiency — screen and treat, since it is common and affects both mother and baby.**
+
+> [!danger] The infections that matter, and the two that are rising in Australia
+> **· ASYMPTOMATIC BACTERIURIA IS TREATED IN PREGNANCY** — unlike in non-pregnant adults — because it progresses to pyelonephritis and is associated with preterm birth. **Screen at booking.**
+> **· GROUP B STREPTOCOCCUS — intrapartum antibiotic prophylaxis by screening or risk-based protocol, to prevent early-onset neonatal sepsis.** Cross-refer [[M2]] 0.2.
+> **· SYPHILIS — Australia has a sustained infectious syphilis OUTBREAK with CONGENITAL SYPHILIS CASES, including deaths.** **Congenital syphilis is entirely preventable by antenatal testing and treatment, and cases represent a system failure.** **Testing at booking, and RETESTING later in pregnancy in higher-prevalence settings, is the response.** Cross-refer [[O6]] 0.1 and [[AU1]] 0.4.
+> **· HIV — antenatal testing with treatment reduces mother-to-child transmission to very low levels. Universal offer of testing is standard.**
+> **· HEPATITIS B — maternal screening allows the neonate to receive immunoglobulin and vaccination at birth, preventing chronic infection. This is time-critical in the first hours of life.**
+> **· CYTOMEGALOVIRUS — the commonest infectious cause of congenital disability, including sensorineural hearing loss, and frequently unrecognised. Hygiene advice for pregnant women with young children is the main preventive measure.**
+> **· TOXOPLASMOSIS and LISTERIA — food and cat litter advice.**
+> **· PARVOVIRUS B19 — fetal anaemia and HYDROPS.** Cross-refer [[J2]] 0.1.
+> **· VARICELLA — significantly more severe in pregnancy, with maternal pneumonia; VZIG for susceptible exposed women, and neonatal risk with peripartum infection.**
+> **· INFLUENZA and COVID-19 — both cause MORE SEVERE disease in pregnancy, with increased ICU admission and preterm birth.** **Vaccination in pregnancy is recommended and protects both mother and infant.** Cross-refer [[GER3]] 0.4.
+> **· And RUBELLA — check immunity at booking and vaccinate POSTPARTUM (it is a live vaccine and is not given in pregnancy).**
+
+> [!tip] Prescribing in pregnancy
+> **THE DEFAULT ERROR IS WITHHOLDING NECESSARY TREATMENT.** **Most medicines are compatible with pregnancy, and the risk of untreated maternal illness — asthma, epilepsy, depression, infection, thromboembolism — usually exceeds the risk of the drug.**
+> **Product information is written defensively and is a poor guide.** **Use a specialist obstetric medicines information service, which every state has, and consult early rather than stopping a drug reflexively when a woman announces a pregnancy.**
+> **And take the opportunity of preconception planning wherever a woman of childbearing potential is on a teratogen — the decision is far better made before conception than after.** Cross-refer [[O1]] 0.6.
+
+**Ix:** **BLOOD PRESSURE AND URINE DIPSTICK in every pregnant or recently pregnant woman with headache, visual symptoms, epigastric pain, vomiting or swelling** (*why:* epigastric pain is attributed to reflux while severe pre-eclampsia progresses; *what:* hypertension, proteinuria). **FBC, UEC, LFT, urate and coagulation in suspected pre-eclampsia** (*why:* the diagnosis no longer requires proteinuria and is made on organ dysfunction — thrombocytopenia and transaminitis identify HELLP; *what:* the organ involvement). **DEEP TENDON REFLEXES, RESPIRATORY RATE and URINE OUTPUT during magnesium infusion** (*why:* loss of reflexes is the earliest sign of toxicity and precedes respiratory depression; *what:* toxicity). **NO DIGITAL VAGINAL EXAMINATION in antepartum haemorrhage until the placental site is known, and none in PPROM** (*why:* it can precipitate catastrophic haemorrhage in praevia and introduces infection in PPROM; *what:* avoided harm). **CTG and ultrasound for EVERY report of reduced fetal movements** (*why:* it is associated with stillbirth and telephone reassurance features in stillbirth reviews; *what:* fetal wellbeing, growth, liquor). **GROUP AND CROSSMATCH, Kleihauer and ANTI-D in any bleeding after 20 weeks in a Rhesus-negative woman** (*why:* sensitisation affects future pregnancies; *what:* Rhesus status and the volume of fetomaternal haemorrhage). **A LOWER threshold for imaging suspected pulmonary embolism in pregnancy** (*why:* D-dimer is uninterpretable, symptoms overlap with normal pregnancy, and VTE is a leading cause of maternal death; *what:* the embolus). **Booking infection screen with RETESTING for syphilis later in pregnancy in higher-prevalence settings** (*why:* congenital syphilis is entirely preventable and cases are rising in Australia; *what:* treponemal serology). **POSTPARTUM GLUCOSE TOLERANCE TEST after gestational diabetes, documented in the discharge summary** (*why:* the lifetime type 2 diabetes risk is high and the follow-up is routinely lost; *what:* persistent glucose intolerance).
+
+---
+
+> [!note] Cross-references
+> Early pregnancy, ectopic and preconception care → [[O1]] · Labour, delivery, postpartum haemorrhage and postnatal mental health → [[O3]] · Contraception and postpartum LARC → [[O6]] 0.3 · Hypertension and long-term cardiovascular risk → [[B2]] and [[GER3]] 0.2 · Massive haemorrhage, transfusion and DIC → [[A9]] 0.1, 0.3 · VTE, thrombophilia and antiphospholipid syndrome → [[J3]] 0.4, 0.6 · Diabetes and preconception glycaemic control → [[I2]] 0.1 · Asthma → [[F0.5]] 0.1 · Epilepsy and teratogenic medication → [[D6]] 0.3 · Perinatal mental health → [[N4]] 0.6 · Group B streptococcus and neonatal sepsis → [[M2]] 0.2 · Neonatal jaundice, hypoglycaemia and congenital heart disease → [[M3]] · Parvovirus and fetal anaemia → [[J2]] 0.1 · Syphilis and STI screening → [[O6]] 0.1 and [[AU1]] 0.4 · Immunisation in pregnancy → [[GER3]] 0.4 · Trauma in pregnancy and aortocaval compression → [[L8]] 0.6 · Family violence in pregnancy → [[GER4]] 0.4 · Breaking bad news and perinatal loss → [[GER5]] 0.2
+
+
 <!-- ===== SOURCE: 16_08-09_Antenatal_and_Perinatal_Problems.md ===== -->
 
 
@@ -1061,6 +1770,221 @@ If mother has primary infection lesions at time of delivery:
 ---
 
 > [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `Birth injuries` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+<!-- ===== SOURCE: O3_Labour__Delivery_and_Postpartum.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Frameworks, emergency sequences and discriminators are reliable at intern level. **Every dose, blood loss threshold, time limit and regimen carries an `UNVERIFIED` marker, or has been omitted with the omission stated in place.** **Uterotonic doses are not reproduced here** — use your local postpartum haemorrhage protocol, which will be on the wall of the birth suite.
+> Verify against **RANZCOG**, your maternity unit's emergency protocols, and **eTG**.
+>
+> **Hypertensive disorders, antepartum haemorrhage and CTG are built in [[O2]]**, **breastfeeding in [[O7]] 0.6**, and **neonatal care in [[M3]]** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Normal Labour
+
+> [!info] The stages, and the framework for when it goes wrong
+> **· FIRST STAGE — onset of established labour to full dilatation, with a LATENT and an ACTIVE phase.**
+> **· SECOND STAGE — full dilatation to birth, with a PASSIVE (descent) and an ACTIVE (pushing) phase.**
+> **· THIRD STAGE — birth of the baby to delivery of the placenta and membranes.**
+> **THE THREE Ps — the framework for analysing any labour that is not progressing:**
+> **· POWER — the strength, frequency and coordination of contractions.**
+> **· PASSENGER — the fetus: size, LIE, PRESENTATION, POSITION and attitude (degree of flexion).**
+> **· PASSAGE — the bony pelvis and the soft tissues.**
+> **Almost every case of failure to progress is explicable in those terms, and naming which P is the problem directs the management.**
+
+> [!tip] Monitoring, and the evidence on continuous CTG
+> **Progress is documented on a PARTOGRAM: cervical dilatation, descent, contractions, fetal heart rate, and maternal observations.**
+> **FETAL MONITORING: INTERMITTENT AUSCULTATION is appropriate for LOW-RISK labour; CONTINUOUS CTG is for high-risk labour and for specific intrapartum indications.**
+> **THE EVIDENCE POINT WORTH KNOWING: CONTINUOUS CTG IN LOW-RISK LABOUR INCREASES CAESAREAN AND INSTRUMENTAL DELIVERY RATES WITHOUT IMPROVING NEONATAL OUTCOMES** — because CTG has high sensitivity and poor specificity for hypoxia, so it generates intervention for babies who were never compromised. **This is why it is not applied universally.** Cross-refer [[O2]] 0.5.
+
+> [!warning] Analgesia — and the intervention with the best evidence isn't a drug
+> **· NON-PHARMACOLOGICAL: continuous support, mobility and position changes, water immersion, heat, massage, TENS, breathing techniques.**
+> **· NITROUS OXIDE — safe, self-administered, modest effect.**
+> **· PARENTERAL OPIOIDS — variable analgesia, maternal sedation and nausea, and NEONATAL RESPIRATORY DEPRESSION if given close to delivery.**
+> **· EPIDURAL — the most effective analgesia available. It is associated with a LONGER SECOND STAGE and MORE INSTRUMENTAL DELIVERIES, but NOT with an increased caesarean rate.** **Complications: hypotension (hence the fluid preload and monitoring), post-dural puncture headache, and — rarely — epidural haematoma or abscess.** **A block that is denser, higher or longer-lasting than expected, or new back pain with neurological signs, requires urgent assessment.** Cross-refer [[AN1]] 0.2.
+> **AND THE BEST-EVIDENCED INTERVENTION IN LABOUR IS CONTINUOUS SUPPORT — one-to-one care from a midwife or a support person present throughout.**
+> **It shortens labour, reduces analgesia use, reduces operative delivery, improves Apgar scores and improves the woman's experience.** **It requires no drug and no equipment, and it is one of the strongest effects in obstetric care.** **Where staffing allows it, protect it.**
+
+> [!tip] The third stage — two practices that matter
+> **· ACTIVE MANAGEMENT OF THE THIRD STAGE — a prophylactic UTEROTONIC, controlled cord traction and uterine massage — SUBSTANTIALLY REDUCES POSTPARTUM HAEMORRHAGE, and is recommended for all women.** `UNVERIFIED — the agent and dose.`
+> **· DELAYED CORD CLAMPING — waiting a defined period before clamping allows placental transfusion to the newborn, improving iron stores for months, improving transitional circulation, and reducing the need for transfusion in preterm infants.** **It is compatible with active management, and the two are not in conflict.** `UNVERIFIED — the recommended interval and the exceptions.`
+
+---
+
+## 0.2 Abnormal Labour and Intrapartum Emergencies
+
+> [!danger] Cord prolapse — take the pressure off the cord
+> **The umbilical cord descends past the presenting part after membrane rupture, and is compressed — causing fetal hypoxia within minutes.**
+> **Risk factors: malpresentation, high presenting part, polyhydramnios, prematurity, multiple pregnancy, and ARTIFICIAL rupture of membranes with an unengaged head.**
+> **IMMEDIATE ACTIONS:**
+> **· CALL FOR HELP and prepare for immediate delivery — usually emergency caesarean.**
+> **· ELEVATE THE PRESENTING PART off the cord — manually with a gloved hand in the vagina, and/or by FILLING THE BLADDER with saline via a catheter.**
+> **· POSITION: knee-chest or exaggerated Trendelenburg / left lateral with the hips elevated, using gravity to reduce compression.**
+> **· MINIMISE HANDLING OF THE CORD — exposure and handling cause vasospasm. Do not attempt to replace it, and keep it warm.**
+> **· Continuous fetal monitoring and immediate transfer to theatre.**
+> **The manual elevation is maintained ALL THE WAY TO DELIVERY, including during transfer and preparation — the person doing it does not let go.**
+
+> [!danger] Shoulder dystocia — and never apply fundal pressure
+> **The anterior shoulder impacts behind the pubic symphysis after delivery of the head.**
+> **THE SIGN: the "TURTLE NECK" — the head delivers and then retracts back against the perineum, and restitution fails.**
+> **IT IS UNPREDICTABLE. Most cases occur without risk factors, and macrosomia and diabetes increase risk but do not predict it.**
+> **THE SEQUENCE: call for help · MCROBERTS MANOEUVRE (hyperflexing the maternal hips onto the abdomen, which rotates the symphysis) · plus SUPRAPUBIC PRESSURE.** **These two together resolve the majority.** **Then internal rotational manoeuvres, delivery of the posterior arm, and further measures as directed by the senior accoucheur.**
+> **NEVER APPLY FUNDAL PRESSURE.** **It drives the shoulder further into the symphysis, worsens the impaction, and risks UTERINE RUPTURE.** **Suprapubic pressure — directed at the fetal shoulder — is correct; fundal pressure is harmful.**
+> **COMPLICATIONS: BRACHIAL PLEXUS INJURY (Erb palsy) · fracture of the clavicle or humerus · hypoxic-ischaemic injury · postpartum haemorrhage · and severe perineal trauma.**
+> **DOCUMENT METICULOUSLY — the time of head delivery, the time of body delivery, which manoeuvres were used in what order, who was present, and the condition of the baby.** **Shoulder dystocia is among the most litigated events in obstetrics, and the documentation is what protects everyone, including the family's ability to understand what happened.**
+
+> [!warning] The other intrapartum emergencies
+> **· UTERINE RUPTURE — severe constant pain, cessation of contractions, loss of station, palpable fetal parts, maternal shock and fetal bradycardia, usually in a scarred uterus.** Cross-refer [[O2]] 0.3.
+> **· AMNIOTIC FLUID EMBOLISM — sudden maternal collapse around the time of delivery, with hypoxia, cardiovascular collapse, seizures and profound DIC.** **Rare, unpredictable, unpreventable, and with high mortality. Management is supportive resuscitation, early massive transfusion and DIC management.** Cross-refer [[A9]] 0.3.
+> **· ECLAMPSIA — cross-refer [[O2]] 0.2.**
+> **· FETAL DISTRESS — an abnormal CTG interpreted in context, with fetal scalp lactate where available, and expedited delivery.**
+> **· MATERNAL CARDIAC ARREST — the modifications that matter: MANUAL LEFT UTERINE DISPLACEMENT or left lateral tilt throughout · and PERIMORTEM CAESAREAN SECTION commenced EARLY in the arrest for a uterus at or above the umbilicus.**
+> **THE REASON IS COUNTERINTUITIVE AND EXAMINABLE: the primary purpose of perimortem caesarean is to AID MATERNAL RESUSCITATION by relieving aortocaval compression and restoring venous return — fetal survival is a secondary benefit.** **It is done at the site of the arrest, not by transferring to theatre.** Cross-refer [[F0.4]] and [[L8]] 0.6.
+
+> [!tip] Operative delivery and perineal trauma
+> **· INSTRUMENTAL DELIVERY (vacuum or forceps) — for delay in the second stage, fetal compromise, or maternal indication, with defined prerequisites.** Complications include maternal perineal trauma and neonatal cephalhaematoma, subgaleal haemorrhage and facial nerve injury.
+> **· CAESAREAN SECTION — categorised by urgency, from immediate threat to life through to elective.** **Complications: haemorrhage, infection, VTE, bladder and bowel injury, and — importantly for future pregnancies — SCAR-RELATED RISKS (rupture, praevia, and PLACENTA ACCRETA SPECTRUM, with risk rising with each caesarean).** Cross-refer [[O2]] 0.3.
+> **· PERINEAL TRAUMA — graded, with THIRD AND FOURTH DEGREE TEARS (obstetric anal sphincter injuries, OASI) involving the anal sphincter complex.**
+> **OASI MANAGEMENT AND FOLLOW-UP IS WHERE LONG-TERM MORBIDITY IS PREVENTED: repair by a trained clinician in theatre · prophylactic ANTIBIOTICS · LAXATIVES to avoid straining on the repair · pelvic floor PHYSIOTHERAPY · and structured FOLLOW-UP.**
+> **The long-term consequence of an inadequately managed OASI is FAECAL INCONTINENCE, which may present YEARS later — sometimes after menopause when compensation fails — and which women almost never volunteer.** **Ask directly about flatus and faecal control in any woman with a history of difficult vaginal delivery.** Cross-refer [[O5]] 0.6 and [[C5]] 0.6.
+
+---
+
+## 0.3 Postpartum Haemorrhage
+
+> [!danger] The four Ts
+> **· TONE — UTERINE ATONY. By far the commonest cause.**
+> **· TRAUMA — genital tract lacerations, episiotomy, uterine rupture, uterine inversion.**
+> **· TISSUE — retained placenta or membranes.**
+> **· THROMBIN — coagulopathy, either pre-existing, dilutional, or from DIC secondary to abruption, sepsis or amniotic fluid embolism.**
+> **Work through all four every time, because more than one may be operating — and the commonest error is treating atony repeatedly while a cervical tear continues to bleed.**
+> **RISK FACTORS: prolonged or augmented labour · an overdistended uterus (multiple pregnancy, polyhydramnios, macrosomia) · grand multiparity · previous PPH · placenta praevia or accreta · pre-eclampsia · chorioamnionitis · retained placenta · and instrumental or caesarean delivery.**
+> **AND ANTENATAL ANAEMIA — which does not cause the bleed but markedly reduces the woman's ability to tolerate it, and which is why identifying and treating iron deficiency in pregnancy is a haemorrhage intervention.** Cross-refer [[J1]] 0.2.
+
+> [!danger] Visual estimation of blood loss is systematically wrong
+> **Clinicians consistently UNDER-ESTIMATE obstetric blood loss by visual assessment, and the under-estimation is greatest when the loss is largest.**
+> **USE QUANTITATIVE METHODS — weighing swabs and drapes, and calibrated collection — rather than an eyeball figure.**
+> **AND: A FIT YOUNG WOMAN COMPENSATES EXTREMELY WELL AND THEN DECOMPENSATES ABRUPTLY.** **Tachycardia may be the only sign; hypotension is late; and by the time the blood pressure falls, the loss is very large.** **Do not be reassured by normal observations in a woman who is visibly bleeding.**
+
+> [!warning] Managing PPH — everything happens at once
+> **· CALL FOR HELP — this is a team event. A–B–C, oxygen, flat, keep her warm.**
+> **· TWO LARGE-BORE CANNULAS · bloods including FBC, coagulation, fibrinogen and CROSSMATCH · and early activation of the MASSIVE TRANSFUSION PROTOCOL if the bleeding is significant.** Cross-refer [[A9]] 0.1.
+> **· EMPTY THE BLADDER — a full bladder prevents uterine contraction, and catheterisation is a genuine and frequently forgotten step.**
+> **· UTERINE MASSAGE and BIMANUAL COMPRESSION.**
+> **· UTEROTONICS in sequence.** `UNVERIFIED — agents, doses and order; use your unit's protocol.` **Two contraindications worth knowing: ERGOMETRINE IS AVOIDED IN HYPERTENSION AND PRE-ECLAMPSIA (it causes vasoconstriction and can precipitate severe hypertension and stroke), and CARBOPROST IS AVOIDED IN ASTHMA (it causes bronchospasm).**
+> **· TRANEXAMIC ACID — given EARLY. It reduces death from bleeding in postpartum haemorrhage, and the benefit is TIME-DEPENDENT, diminishing with delay.** **Give it early rather than as an afterthought when other measures have failed.** `UNVERIFIED — dose and timing.`
+> **· EXAMINE FOR TRAUMA — inspect the cervix and vagina properly with adequate light, retraction and analgesia, and repair. A bleeding tear will not respond to any amount of oxytocin.**
+> **· CHECK THE PLACENTA IS COMPLETE, and consider retained tissue requiring examination under anaesthesia.**
+> **· ESCALATE: intrauterine BALLOON TAMPONADE · uterine compression sutures (B-Lynch) · arterial ligation or interventional radiological EMBOLISATION · and hysterectomy as the definitive life-saving measure, which should not be delayed until the woman is moribund.**
+
+> [!danger] Uterine inversion — and do not remove the placenta first
+> **The uterine fundus inverts and descends, sometimes through the cervix, usually associated with excessive cord traction on a fundal placenta.**
+> **THE PRESENTATION: profound SHOCK OUT OF PROPORTION to the visible blood loss (a large neurogenic component from traction on the peritoneum and ligaments) · severe lower abdominal pain · a mass in the vagina or at the introitus · and the FUNDUS NOT PALPABLE abdominally.**
+> **IMMEDIATE REPLACEMENT — pushing the fundus back through the cervix — should be attempted at once, because it becomes progressively harder as the cervix contracts.**
+> **DO NOT REMOVE THE PLACENTA BEFORE REPLACING THE UTERUS** — removing it first substantially increases the haemorrhage. Replace first, then deal with the placenta.
+> **Resuscitate simultaneously, and stop uterotonics until the uterus is replaced (then give them to keep it contracted).**
+> **SECONDARY PPH — bleeding from 24 hours to twelve weeks postpartum, usually from RETAINED PRODUCTS or ENDOMETRITIS.** **Assess for both, take swabs and blood cultures, give antibiotics, and consider ultrasound and evacuation.**
+
+---
+
+## 0.4 The Unwell Postpartum Woman
+
+> [!danger] Think sepsis, think pulmonary embolism, think pre-eclampsia
+> **Those three, plus haemorrhage, account for most direct maternal deaths — and all four can present after the woman has gone home, when nobody is thinking about pregnancy any more.**
+> **GENITAL TRACT SEPSIS is a leading cause of direct maternal death, and GROUP A STREPTOCOCCUS is particularly aggressive, progressing from well to critically unwell within hours.**
+> **THE FEATURES: fever (or hypothermia) · sustained TACHYCARDIA · abdominal or pelvic pain · offensive lochia · breast, wound or perineal infection · and — the trap — DIARRHOEA AND VOMITING.**
+> **A RECENTLY DELIVERED WOMAN WITH FEVER, TACHYCARDIA AND DIARRHOEA AND VOMITING IS FREQUENTLY DIAGNOSED WITH GASTROENTERITIS.** **Group A streptococcal sepsis presents exactly like that, and the women who die often had an earlier presentation that was labelled viral.** **Have a very low threshold, take cultures, and give antibiotics urgently.** Cross-refer [[F0.3]] 0.7.
+> **VENOUS THROMBOEMBOLISM — the puerperium is the period of HIGHEST VTE risk in a woman's life.** **Breathlessness, pleuritic pain, calf symptoms or collapse in a postpartum woman is a pulmonary embolism until excluded, and postpartum breathlessness must not be attributed to deconditioning.** Cross-refer [[J3]] 0.4 and [[O2]] 0.6.
+> **PRE-ECLAMPSIA AND ECLAMPSIA POSTPARTUM — blood pressure peaks around days three to five, and seizures occur postpartum, sometimes weeks later.** **Headache, visual symptoms or epigastric pain after delivery means checking the blood pressure and the bloods.** Cross-refer [[O2]] 0.1–0.2.
+> **PERIPARTUM CARDIOMYOPATHY — heart failure presenting in late pregnancy or in the months after delivery, with breathlessness, orthopnoea and oedema that are all easily attributed to normal postpartum recovery.** **It is diagnosed by echocardiography, and it is missed because everyone expects a new mother to be tired and breathless.** Cross-refer [[CV-X]].
+
+> [!warning] The Australian maternal mortality picture
+> **Direct causes include thromboembolism, obstetric haemorrhage, hypertensive disorders, sepsis, amniotic fluid embolism and early pregnancy causes including ectopic.**
+> **AND — the point that changes clinical behaviour — SUICIDE IS A LEADING CAUSE OF MATERNAL DEATH OVERALL when the full period after delivery is considered.** **Perinatal mental health is not a soft add-on to maternity care; it is a mortality issue.** See 0.6.
+> **ABORIGINAL AND TORRES STRAIT ISLANDER WOMEN experience higher maternal mortality**, reflecting access, chronic disease burden and the broader determinants — and Birthing on Country and community-controlled maternity models improve outcomes. Cross-refer [[AU1]] 0.4.
+
+---
+
+## 0.5 Routine Postnatal and Newborn Care
+
+> [!tip] The postnatal review — and the four things that get lost
+> **Routine care covers: observations and recovery · uterine involution and lochia · the perineum or wound · bladder and bowel function · FEEDING · MOOD · and CONTRACEPTION.**
+> **Plus: ANTI-D for Rhesus-negative women with a Rhesus-positive baby · RUBELLA VACCINATION for non-immune women (given postpartum because it is a live vaccine) · and pelvic floor exercises.**
+> **THE FOUR THINGS THAT MUST GO IN THE DISCHARGE SUMMARY BECAUSE THEY ARE OTHERWISE LOST:**
+> **1. A POSTPARTUM GLUCOSE TOLERANCE TEST after gestational diabetes, and lifelong periodic screening thereafter.**
+> **2. BLOOD PRESSURE FOLLOW-UP and lifelong CARDIOVASCULAR RISK assessment after any hypertensive disorder of pregnancy.**
+> **3. OASI FOLLOW-UP and physiotherapy after a third or fourth degree tear.**
+> **4. A PRETERM BIRTH, clearly documented, because it changes the management of the next pregnancy (progesterone, cervical surveillance).**
+> Cross-refer [[O2]] 0.1, 0.6 and [[EBM1]] 0.5.
+
+> [!warning] Contraception before discharge
+> **Fertility returns sooner than most women expect, and short interpregnancy intervals carry increased risk.**
+> **· LONG-ACTING REVERSIBLE CONTRACEPTION can be commenced or inserted IMMEDIATELY postpartum — including an implant before discharge, and an IUD immediately after delivery or at the postnatal check.** **Immediate provision is the point of highest uptake and lowest attrition; deferring it to "when things settle down" loses a large proportion of women.**
+> **· PROGESTOGEN-ONLY methods are compatible with breastfeeding.**
+> **· COMBINED HORMONAL CONTRACEPTION is generally deferred in the early postpartum period because of VTE risk, and considered later.**
+> **· LACTATIONAL AMENORRHOEA has strict conditions and is unreliable outside them — it should not be offered as a plan without explaining those conditions.**
+> Cross-refer [[O6]] 0.3.
+
+> [!tip] The newborn
+> **The newborn examination and its purpose are in [[M3]] 0.6 — the items that matter: RED REFLEX (cataract, retinoblastoma) · FEMORAL PULSES (coarctation) · HIPS (developmental dysplasia) · PALATE (looked at AND felt) · testes · and the spine.**
+> **Plus: VITAMIN K prophylaxis · hepatitis B vaccination · newborn BLOODSPOT screening · newborn HEARING screening · and pulse oximetry screening.**
+> **FEEDING — observe a feed; most nipple pain is an attachment problem; continue breastfeeding through mastitis; and refer early to lactation support rather than after weeks of struggle.** Cross-refer [[O7]] 0.6.
+> **JAUNDICE — check it, measure it rather than eyeballing it, and remember the timing rules: under 24 hours is always pathological, and beyond two weeks requires a SPLIT bilirubin.** Cross-refer [[M3]] 0.1.
+> **SAFE SLEEPING advice — on the back, own safe sleep space, face uncovered, smoke-free, room-sharing without bed-sharing.** Cross-refer [[M3]] 0.5.
+
+---
+
+## 0.6 Perinatal Mental Health
+
+> [!tip] Baby blues is not depression
+> **"BABY BLUES" — tearfulness, emotional lability, irritability and feeling overwhelmed, peaking around days three to five and resolving within a couple of weeks.**
+> **It affects a majority of women, requires reassurance, practical support and rest, and is NOT an illness.**
+> **THE DISTINCTION FROM POSTNATAL DEPRESSION IS DURATION AND FUNCTION: blues is transient and the woman can still enjoy things and care for herself and the baby; depression persists, worsens, and impairs function.**
+> **If it lasts beyond about two weeks, or is severe, reassess.**
+
+> [!warning] Postnatal depression and anxiety
+> **Common, and it presents differently from what people expect: IRRITABILITY and anger rather than sadness · overwhelming ANXIETY · guilt, particularly about NOT FEELING BONDED to the baby · inability to sleep even when the baby sleeps · and intrusive worry.**
+> **Screening with the EDINBURGH POSTNATAL DEPRESSION SCALE, antenatally and postnatally, is standard.** `UNVERIFIED — the schedule and cut-offs.`
+> **RISK FACTORS: previous depression or anxiety · lack of practical and emotional support · FAMILY VIOLENCE (cross-refer [[GER4]] 0.4) · a traumatic birth · an unsettled baby or feeding difficulty · socioeconomic adversity · migration and isolation · and a history of pregnancy loss or infertility.**
+> **TREATMENT: psychological therapy · practical support · and MEDICATION where indicated, with the framing that matters — the decision is TREATED ILLNESS VERSUS UNTREATED ILLNESS, not medication versus nothing.** **Most antidepressants are compatible with breastfeeding, and untreated maternal depression has its own substantial effects.** Cross-refer [[N4]] 0.6.
+> **AND ASK ABOUT SUICIDAL THOUGHTS DIRECTLY.** **Suicide is a leading cause of maternal death, and asking does not plant the idea.** Cross-refer [[N1]] 0.3.
+> **PARTNERS also experience perinatal depression at meaningful rates, and are essentially never screened. Ask them how they are.**
+
+> [!danger] Intrusive thoughts of harm are common, ego-dystonic, and mothers hide them
+> **THIS IS ONE OF THE MOST IMPORTANT THINGS IN PERINATAL MENTAL HEALTH AND IT IS POORLY UNDERSTOOD.**
+> **INTRUSIVE THOUGHTS ABOUT HARM COMING TO THE BABY — including thoughts of harming the baby themselves — ARE COMMON IN NEW PARENTS, occurring in a large proportion of mothers and fathers.**
+> **They are EGO-DYSTONIC: horrifying, unwanted, contrary to the person's values, and accompanied by intense distress and avoidance (avoiding baths, knives, stairs, or being alone with the baby).**
+> **THEY ARE NOT ASSOCIATED WITH AN INCREASED RISK OF ACTUALLY HARMING THE INFANT.** They are an anxiety phenomenon.
+> **MOTHERS CONCEAL THEM — often completely, and often for years — because they believe that disclosing them will result in their baby being taken away.**
+> **THE DISTINCTION THAT MUST BE MADE:**
+> **· INTRUSIVE (obsessional) thoughts — EGO-DYSTONIC, distressing, resisted, with NO intent, and with avoidance behaviour. Treated as anxiety/OCD, and the most therapeutic intervention is often EXPLAINING that they are common, recognised and not dangerous.**
+> **· PSYCHOTIC thoughts — EGO-SYNTONIC, believed, often delusional (that the baby is possessed, defective, or would be better off dead), sometimes with command hallucinations, and CARRYING GENUINE RISK. This is an emergency.**
+> **Asking about intrusive thoughts gently and normalising them — "lots of new parents get frightening thoughts about something happening to the baby, or even about harming them; it's really common and it doesn't mean anything is wrong with you" — allows disclosure, and the relief is enormous.** Cross-refer [[N5]] 0.4.
+
+> [!danger] Postpartum psychosis is a psychiatric emergency
+> **RAPID onset, typically within the first days to weeks after delivery.**
+> **THE FEATURES: a FLUCTUATING, confusional quality that can look almost delirious · mania or mixed mood states · DELUSIONS, frequently concerning the baby · hallucinations · severe insomnia · and rapid deterioration.**
+> **IT CARRIES REAL RISK TO BOTH MOTHER AND INFANT, including infanticide and suicide.**
+> **IT REQUIRES URGENT PSYCHIATRIC ASSESSMENT AND ALMOST ALWAYS ADMISSION — ideally to a MOTHER AND BABY UNIT so that the mother is not separated from her infant, which is both therapeutic and protective of the attachment.**
+> **THE ASSOCIATIONS THAT MATTER: a strong link with BIPOLAR DISORDER — a woman with bipolar disorder has a substantially elevated risk and warrants a proactive perinatal plan · a previous episode of postpartum psychosis carries a HIGH RECURRENCE risk in subsequent pregnancies, which must be planned for antenatally · and a family history.**
+> **The onset is abrupt and the deterioration is fast — a woman who was well yesterday can be floridly unwell today, which is why concerns raised by family must be taken seriously and acted on immediately.** Cross-refer [[N3]] 0.2.
+
+> [!warning] Birth trauma and perinatal bereavement
+> **· BIRTH TRAUMA — a significant minority of women experience their birth as traumatic and some develop PTSD.** **The predictors are less about the objective events than about the woman's experience of them: feeling out of control, not being listened to, feeling unsafe, and inadequate communication.** **Which means the way care is delivered is itself preventive.** **Offer the opportunity to go through what happened, with the notes, at a later appointment.** Cross-refer [[N5]] 0.5.
+> **· PERINATAL BEREAVEMENT — stillbirth, neonatal death, and termination for fetal anomaly.**
+> **WHAT HELPS, and it is specific: USE THE BABY'S NAME · offer the parents time WITH the baby and do not rush them · offer MEMORY-MAKING (photographs, hand and footprints, a lock of hair, a memory box) — including holding these for parents who initially decline, since many later wish they had them · involve them in decisions about post-mortem and funeral arrangements without pressure · and provide written information, because nothing said will be retained.**
+> **AND FOLLOW UP.** **Arrange a debriefing appointment, refer to bereavement support, notify the GP and the child health service so the woman is not sent routine baby appointment reminders, and offer support in the next pregnancy — where anxiety is intense and continuity of care and early scans genuinely help.**
+> **What not to say is in [[GER5]] 0.2 — and "at least you can have another one" is the same failure in a different setting.**
+
+**Ix:** **QUANTITATIVE blood loss measurement rather than visual estimation** (*why:* visual estimation under-reads systematically, and most in the largest bleeds; *what:* the true loss). **FBC, coagulation, FIBRINOGEN and crossmatch early in postpartum haemorrhage** (*why:* fibrinogen falls early in obstetric haemorrhage and predicts severity; *what:* the coagulopathy). **CATHETERISE and re-examine the uterus, cervix and vagina** (*why:* a full bladder prevents contraction and a genital tract tear will not respond to uterotonics; *what:* the correctable cause). **BLOOD CULTURES AND EARLY ANTIBIOTICS in any febrile or unwell postpartum woman, including one with diarrhoea and vomiting** (*why:* group A streptococcal sepsis presents as gastroenteritis and kills within hours; *what:* the organism). **BLOOD PRESSURE, urinalysis and bloods in postpartum headache, visual symptoms or epigastric pain** (*why:* pre-eclampsia and eclampsia occur after delivery and are not considered because the pregnancy is thought to be over; *what:* hypertension, HELLP). **A LOW THRESHOLD for imaging suspected pulmonary embolism postpartum** (*why:* the puerperium is the highest-risk period and breathlessness is attributed to deconditioning; *what:* the embolus). **ECHOCARDIOGRAPHY for postpartum breathlessness that does not fit** (*why:* peripartum cardiomyopathy is missed because tiredness and breathlessness are expected; *what:* impaired ventricular function). **EPDS antenatally and postnatally, WITH a direct question about self-harm and suicidal thoughts** (*why:* suicide is a leading cause of maternal death and the scale is a prompt, not a substitute for asking; *what:* depression, and risk). **ASKING ABOUT INTRUSIVE THOUGHTS, normalised** (*why:* they are common, concealed through fear of the baby being removed, and relieved by explanation — while the ego-syntonic variety is an emergency; *what:* the nature of the thoughts).
+
+---
+
+> [!note] Cross-references
+> Early pregnancy and miscarriage → [[O1]] · Hypertensive disorders, antepartum haemorrhage, preterm birth and CTG → [[O2]] · Contraception and postpartum LARC → [[O6]] 0.3 · Perineal injury, prolapse and pelvic floor → [[O5]] 0.6 and [[C5]] 0.6 · Breastfeeding, mastitis and lactation support → [[O7]] 0.6 · Newborn examination, jaundice, vitamin K and safe sleeping → [[M3]] · Massive transfusion, tranexamic acid and DIC → [[A9]] 0.1, 0.3 · Sepsis recognition → [[F0.3]] 0.7 · VTE in pregnancy and the puerperium → [[J3]] 0.4 and [[O2]] 0.6 · Peripartum cardiomyopathy and heart failure → [[CV-X]] · Maternal cardiac arrest and perimortem caesarean → [[F0.4]] and [[L8]] 0.6 · Epidural complications → [[AN1]] 0.2 · Anaemia in pregnancy → [[J1]] 0.2 · Perinatal depression, medication and suicidality → [[N4]] 0.6 and [[N1]] 0.3 · Intrusive thoughts and OCD → [[N5]] 0.4 · Postpartum psychosis and bipolar disorder → [[N3]] 0.2 · Birth trauma and PTSD → [[N5]] 0.5 · Family violence in the perinatal period → [[GER4]] 0.4 · Breaking bad news and bereavement → [[GER5]] 0.2 · Discharge summaries and follow-up ownership → [[EBM1]] 0.5 · Aboriginal and Torres Strait Islander maternal health and Birthing on Country → [[AU1]] 0.4
+
 
 <!-- ===== SOURCE: 16_10-13_Labour_and_Delivery.md ===== -->
 
@@ -1721,365 +2645,755 @@ Delivery of the placenta.
 **P**: most mortality occurs within the first hour; 26–61% mortality. If mother survives, 85% have neurological damage. Request autopsy ASAP.
 
 
-<!-- ===== SOURCE: 16_16-17_Contraception.md ===== -->
+<!-- ===== SOURCE: GER7_Investigation_and_Lab_Addendum.md ===== -->
+*Moved here from `GER7_Investigation_and_Lab_Addendum.md` on 2026-09-01. Verbatim and unrenumbered.*
 
+## 0.5 Fetal Scalp Blood Sampling and Intrapartum Assessment
 
-> [!info] Verified — **UKMEC is directly adopted by RANZCOG for Australian contraceptive practice**, not a UK-specific system requiring translation: the RANZCOG/FSRH joint "Contraception Clinical Guideline" explicitly incorporates UKMEC categories, and SA Health's own Community Pharmacy OCP protocol references UKMEC directly. The UKMEC categories and thresholds below are genuinely current Australian practice, not something needing an "Australian equivalent" swap. One minor, genuine product-availability difference worth knowing: drospirenone-containing POP is available in Australia specifically (not the UK), while desogestrel and levonorgestrel POPs are only available in New Zealand within this region — a detail relevant to which specific POP formulation is prescribable locally, though the underlying UKMEC eligibility framework applies the same way regardless of which formulation is used.
+> [!tip] Why it exists — CTG has poor specificity
+> **Cardiotocography is SENSITIVE for fetal hypoxia but POORLY SPECIFIC: most abnormal traces occur in babies who are not compromised.** **Acting on the CTG alone therefore drives caesarean and instrumental delivery rates up without a corresponding improvement in neonatal outcome.** Cross-refer [[O2]] 0.5 and [[O3]] 0.1.
+> **FETAL BLOOD SAMPLING provides a DIRECT measurement of fetal acid-base status, and its purpose is to REDUCE UNNECESSARY OPERATIVE DELIVERY by identifying which abnormal traces reflect genuine hypoxia.**
+> **It measures pH and/or LACTATE.** **LACTATE requires a much SMALLER sample volume and has a considerably higher rate of successful sampling, and it is increasingly the preferred measurand for that practical reason.** `UNVERIFIED — the normal, borderline and abnormal thresholds for both pH and lactate.`
 
-## Combined hormonal contraception
+> [!warning] The requirements, the contraindications, and the time limit
+> **REQUIREMENTS: adequate cervical DILATATION · RUPTURED membranes · an accessible presenting part · an appropriately trained operator · and maternal consent and positioning, which is uncomfortable and undignified and deserves explanation.**
+> **CONTRAINDICATIONS:**
+> **· MATERNAL BLOOD-BORNE VIRUS — HIV, hepatitis B, hepatitis C — because breaching the fetal skin creates a transmission risk.** **This is the contraindication most likely to be overlooked, and it makes the maternal serology status directly relevant to intrapartum management.**
+> **· Suspected fetal BLEEDING OR CLOTTING DISORDER.**
+> **· PREMATURITY.**
+> **· FACE presentation.**
+> **· Suspected intrauterine SEPSIS or chorioamnionitis.**
+> **· And any situation where the fetal condition mandates IMMEDIATE delivery — sampling must never delay a delivery that is already indicated.**
+> **THE RESULT IS TIME-LIMITED.** **A normal result reflects the fetal condition at that moment only. If the CTG remains abnormal, the sample must be REPEATED at a defined interval — a reassuring result an hour ago does not license continued observation.**
+> **Its use is declining in some units, and alternative adjuncts such as fetal ECG ST-segment analysis have not shown clear benefit over CTG alone.** `UNVERIFIED — current practice and repeat intervals.`
 
-### Combined oral contraceptive pill (COCP)
-- **MOA**: inhibits ovulation
-- 99% effective if used correctly
-
-### Combined contraceptive patch (Evra patch)
-- **MOA**: inhibits ovulation
-- 99% effective if used correctly
-
-### Combined contraceptive ring (NuvaRing — etonogestrel + ethinylestradiol)
-- **MOA**: inhibits ovulation
-
----
-
-### COCP — contraindications (UKMEC)
-
-> [!info] UKMEC categories
-> - **UKMEC 4** (unacceptable risk): current breast cancer; PMH of VTE, MI, or stroke; antiphospholipid antibodies +ve; uncontrolled hypertension; migraine with aura (↑stroke risk); >35yo + smoking ≥15 cigs/day; breastfeeding <6w postpartum; major surgery with prolonged immobilisation
-> - **UKMEC 3** (risks outweigh benefits): PMH or FHx of breast cancer (or gene mutation carrier); FHx of VTE (1st-degree relative); controlled hypertension; >35yo + smoking <15 cigs/day; BMI >35; immobility (incl. wheelchair use); current gallbladder disease
-> - **UKMEC 2**: benefits outweigh risks
-> - **UKMEC 1**: no restrictions
-
-**Risks**: ↑VTE, stroke, MI risk; ↑breast and cervical cancer risk.
-
-**Benefits**: ↓ovarian, endometrial, and colorectal cancer risk; often helps acne, ovarian cysts; can make periods regular, lighter, less painful.
-
-### How to take COCP
-- Ideally start within first 5 days of period → no additional contraception required
-- If started at any other point in the cycle: use alternative contraception (e.g. condoms) for first 7 days
-- Take at the same time every day
-- **Method 1**: 21 days + 7-day pill-free break (mimics physiological menses; no medical benefit from withdrawal bleed — based on patient preference)
-- **Method 2** (tricycling): 3x 21-day packs, then 4- or 7-day pill-free break
-- Intercourse during pill-free period only safe if next pack started on time
-
-**Special situations**
-- Vomiting within 2h of taking COCP: repeat dose
-- Antibiotic use: generally OK together; caution only with enzyme-inducing antibiotics (e.g. rifampicin)
-- Check the **AMH (Australian Medicines Handbook)** or local formulary for drug interactions
-
-### Missed COCP pills
-
-| Scenario | Action |
-|---|---|
-| 1 missed pill (any time in cycle) | Take last pill ASAP (even 2 in one day), continue daily. No emergency contraception required |
-| ≥2 missed pills, week 1 | Take last pill ASAP; emergency contraception if UPSI in pill-free week or days 1–7 |
-| ≥2 missed pills, week 2 | Take last pill ASAP; emergency contraception not required |
-| ≥2 missed pills, week 3 | Finish all pills in current pack, then omit pill-free interval |
-
-General advice: use barrier method (e.g. condoms) until pills taken 7 days in a row.
-
-### How to use combined patch
-- 1 patch per week for 3 weeks, then patch-free week (4-week cycle)
-
-**Missed patches**
-
-| Timing | Action |
-|---|---|
-| Week 1 or 2, delay <48h | Change ASAP, no further precautions |
-| Week 1 or 2, delay >48h | Change ASAP + barrier method for 7 days; emergency contraception if UPSI during patch-free interval or last 5 days |
-| Week 3 | Remove ASAP + apply new patch ASAP (skip patch-free week); no further precautions needed |
-| Start of week 1, delayed | Barrier contraception for first 7 days |
-
-- Less effective in patients >90kg
-
-### How to use combined ring
-- Insert within first 5 days of cycle start → no additional contraception needed
-- If inserted at other times: barrier contraception for first 7 days
-- 1 ring lasts 3 weeks, then remove → ring-free week → start next cycle
-- Check ring is present regularly; can be kept in during sex or tampon use
-- Expelled rings: manage similarly to patches
+> [!tip] Cord blood gases at delivery
+> **PAIRED UMBILICAL ARTERIAL AND VENOUS samples taken at birth, from a doubly clamped segment of cord.**
+> **THE ARTERIAL sample reflects the FETAL condition; the VENOUS sample reflects the PLACENTAL and maternal supply.** **Taking both allows verification that the samples are genuinely arterial and venous (they should differ), which is what makes the result defensible.**
+> **THEY MATTER FOR THREE REASONS: they OBJECTIVELY DOCUMENT the condition at birth · they guide NEONATAL management, including eligibility for therapeutic hypothermia after suspected hypoxic-ischaemic encephalopathy · and they are of considerable MEDICOLEGAL importance, because a normal cord gas is powerful evidence against intrapartum hypoxia in a child who later has cerebral palsy.**
+> **Take them in any delivery where there has been concern — the sample cannot be obtained retrospectively.** Cross-refer [[M1]] and [[M3]].
 
 ---
 
-## Progestogen-only pill (POP / "mini pill")
-- **MOA**: thickens cervical mucus
-- 99% effective if used correctly
+<!-- ===== SOURCE: NEW_Investigations_Cardiology.md ===== -->
+*Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-**Side effects**: irregular vaginal bleeding (common).
+## 0.4 Non-Stress Test (NST / Cardiotocography — CTG)
 
-**How to take**
-- Ideally within first 5 days of period → no additional contraception required
-- If started at other times: alternative contraception for first 2 days
-- No pill-free break; take at same time every day
+> [!warning] **Mis-filed** — an obstetric investigation listed under Cardiology & Vascular. Built as listed.
 
-**Missed pills**
-- <3h late: continue as normal
-- >3h late: take missed pill ASAP (even 2 in a day) + barrier contraception for next 48h
-- **Desogestrel (Cerazette)**: 12h grace period
+**D:** Continuous external recording of **fetal heart rate** and **uterine activity**. Antenatally this is the **non-stress test**; intrapartum it is continuous **CTG** monitoring.
 
-**Special situations**: diarrhoea/vomiting — repeat dose ± barrier contraception if "≥3h late" equivalent; check with pharmacist for enzyme-inducing drug interactions.
+**Ind:** **Antenatal** — reduced fetal movements, suspected fetal growth restriction, hypertensive disease of pregnancy, diabetes, reduced or increased liquor, antepartum haemorrhage, post-dates, maternal illness. **Intrapartum** — any pregnancy with risk factors for fetal compromise, induction or augmentation with oxytocin, meconium, epidural analgesia, and abnormal intermittent auscultation.
 
----
+**Role:** A test of **current fetal oxygenation**, not of long-term wellbeing. It is a **screening test with high sensitivity and low specificity** — which is why abnormal traces are common and most are not associated with a compromised fetus.
 
-## Injectable contraceptive — Medroxyprogesterone acetate (Depo Provera)
-- **MOA**: inhibits ovulation and thickens cervical mucus
+> [!info] **The features read on every trace** — baseline rate, **baseline variability**, **accelerations**, and **decelerations** (with their timing relative to contractions), plus contraction frequency. A **reactive/normal** antenatal trace shows a normal baseline with normal variability and accelerations, and is reassuring.
+> **The features that most concern:** **reduced or absent baseline variability** (the single most important abnormality), **late decelerations**, complicated variable decelerations, prolonged decelerations, and a **sinusoidal pattern** — the last suggesting severe fetal anaemia, as in massive fetomaternal haemorrhage or parvovirus.
+> **Classification systems and specific numeric criteria are deliberately not stated here** — Australian intrapartum fetal surveillance guidance (RANZCOG) is egress-blocked, classification categories differ between systems, and reproducing criteria for a time-critical obstetric decision from memory is exactly the failure this project guards against. **Use your unit's fetal surveillance guideline and its classification table.**
 
-**How to use**: IM injection every 12–14 weeks; beyond 14 weeks, barrier contraception must be used.
+> [!danger] **Do not ignore**
+> **A CTG is interpreted with the clinical picture, never alone.** Fetal tachycardia with maternal fever suggests **chorioamnionitis**; a sudden prolonged deceleration suggests **abruption, cord prolapse or uterine rupture** and is an obstetric emergency requiring immediate senior attendance — **call for help rather than continuing to observe the trace.**
+> **A reduced-fetal-movement presentation is not "excluded" by a reactive CTG alone** — it also needs ultrasound assessment of growth and liquor if there are other risk factors. See [[16_10-13_Labour_and_Delivery]] Reduced fetal movements (RFM).
+> **Continuous CTG in low-risk labour increases operative delivery without improving neonatal outcome**, which is why intermittent auscultation is the standard in low-risk labour — over-monitoring is itself a harm.
 
-**Side effects**: irregular or heavy bleeding (may need COCP initially to manage this), headache, nausea, mastalgia; ↑osteoporosis risk; not easily reversible — fertility may take up to 1 year to return to baseline.
+**Normal/abnormal:** Normal/reassuring → continue routine care. Abnormal → escalate, change maternal position, correct hypotension and hypoxia, stop oxytocin, and consider fetal blood sampling or expedited delivery per the unit protocol.
 
-**Contraindications**: UKMEC4 — current breast cancer. UKMEC3 — stroke, MI, unexplained vaginal bleeding, PMH of breast cancer, severe liver cirrhosis, liver cancer.
+**Alt:** Intermittent auscultation (low-risk labour); **ultrasound with umbilical artery Doppler and biophysical profile** for antenatal surveillance; fetal scalp blood sampling; fetal scalp lactate.
 
 ---
 
-## Implantable contraceptive — Nexplanon/Implanon (etonogestrel)
-- **MOA**: inhibits ovulation and thickens cervical mucus
-- Most effective form of contraception
+---
 
-**How to use**: if inserted in first 5 days of cycle, no additional contraception needed; if inserted after, use barrier contraception for first 7 days. Effective for 3 years.
+# 3 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** `Y-2` puerperal psychosis was held — it and `B-10` point at each other in opposite directions.
+
+<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Postpartum Infection and Thromboembolism
+
+> [!warning] FLAG 2026-09-01 — obstetric content inside a thrombophilia source
+> This sits in `10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia`, a file about
+> none of those things. **Puerperal sepsis is obstetric.**
+> `OBGYN_merged 16_14-15 ## Sepsis in the puerperium` is the counterpart. Flagged, not moved.
+
+> [!note] Gap-filled from CSV ("Postpartum infection and Thromboembolism," High yield) — genuinely absent as a standalone topic despite both components (endometritis, VTE risk) being individually high-yield; this entry covers the postpartum-specific presentation and risk factors, cross-referencing the disease-level detail already built elsewhere (DVT/PE Mx above, general sepsis principles in [[08_09_Infectious_Disease_-_Miscellaneous]]) rather than repeating it.
+
+### Postpartum (puerperal) infection
+
+- **A/P:** the postpartum genital tract is a genuinely vulnerable site for infection — placental separation leaves a large raw surface area, and the cervix remains open in the immediate postpartum period; **endometritis** (infection of the uterine lining) is the classic and most common postpartum infection, with polymicrobial aetiology (mixed aerobic and anaerobic vaginal/bowel flora) typical rather than a single causative organism.
+- **R:** Caesarean section (a significantly higher risk than vaginal delivery — the single most important risk factor), prolonged rupture of membranes, prolonged labour, multiple vaginal examinations during labour, retained products of conception, manual placental removal, pre-existing genital tract infection (e.g. untreated Group B Strep colonisation, chorioamnionitis).
+- **S/Smx:** fever (classically within the first 24h–10 days postpartum), uterine tenderness, offensive/heavy lochia (postpartum vaginal discharge), sub-involution of the uterus (failure of the uterus to contract down to its expected size on serial examination); may progress to sepsis if untreated, given the same general sepsis physiology and red flags established in [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis, not repeated here.
+- **Ix:** FBC, CRP, blood cultures if systemically unwell; high vaginal/endocervical swab; pelvic ultrasound if retained products of conception are suspected as a driving cause (given retained tissue is a nidus for ongoing infection that antibiotics alone won't resolve).
+- **Mx:** broad-spectrum antibiotics covering the polymicrobial aetiology above (specific AU regimen not detailed here — check current eTG obstetric/gynaecological infection guidance); evacuation of retained products of conception if identified as the underlying driver, given antibiotics alone are unlikely to succeed while infected tissue remains in the uterus; the same general sepsis escalation principles as [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis apply if the patient is systemically unwell.
+
+### Postpartum venous thromboembolism (VTE)
+
+- **A/P:** pregnancy and the postpartum period are a well-established hypercoagulable state (part of the normal physiological adaptation to reduce haemorrhage risk at delivery, but with the trade-off of increased thrombosis risk) — **the risk is highest in the immediate postpartum period and remains elevated for approximately 6 weeks after delivery**, gradually returning to baseline thereafter; this genuinely elevated, time-limited risk window is the key concept distinguishing postpartum VTE risk assessment from the general population.
+- **R:** Caesarean section (particularly emergency Caesarean), pre-existing thrombophilia (see Factor V Leiden and the broader Thrombophilia section above, not repeated here), obesity, immobility, pre-eclampsia, postpartum haemorrhage requiring transfusion, multiple pregnancy, increasing maternal age, personal or family history of VTE, smoking.
+- **S/Smx:** the same DVT/PE presentation as the general population — see [[01_Cardiovascular]] 0.29 Deep Vein Thrombosis (DVT) and 0.30 Pulmonary Embolism (PE) for the full disease-level S/Smx, Ix, and Mx, not repeated here — though clinical suspicion should be maintained proactively in this population given the elevated background risk, and normal pregnancy/postpartum physiological changes (mild leg swelling, physiological dyspnoea) can make clinical diagnosis genuinely more challenging than in a non-pregnant patient.
+- **Ix:** the same general VTE diagnostic approach as the general population (compression ultrasound for suspected DVT, CTPA or V/Q scan for suspected PE) — D-dimer is **less useful diagnostically in pregnancy and the postpartum period** given it's physiologically elevated in normal pregnancy, reducing its negative-predictive value compared to non-pregnant use — a genuinely important limitation worth knowing rather than applying the same "normal D-dimer excludes VTE" logic used in non-pregnant patients.
+- **Mx:** LMWH is the anticoagulant of choice in pregnancy and postpartum (given its safety profile and lack of placental crossing, relevant if the patient is breastfeeding too) — DOACs and warfarin are generally avoided or used with caution in this population, a genuinely different first-line choice from the general population's DOAC-preferred approach in [[10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets]], not repeated here; risk-based thromboprophylaxis (e.g. for patients with multiple risk factors above, even without a confirmed VTE) is a standard part of postpartum care, with the specific duration and dose guided by individualised risk assessment.
+
+
+<!-- ===== SOURCE: NEW_Investigations_Obstetrics_and_Gynaecology.md ===== -->
+
+
+# NEW — Investigations: Obstetrics and Gynaecology
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay- and laboratory-dependent values are **omitted with the omission stated in place**.
+
+> [!note] **Three build-list rows are miscategorised and are not built here.** `C-Spine X-Ray`, `Compression Test` and `Distraction Test` appear under **Gynaecology** in `data/build_list_investigations.md`, but none is a gynaecological investigation — the two named tests are cervical-spine/nerve-root **exam manoeuvres** (Spurling compression, cervical distraction) and the third is an orthopaedic imaging study. They are deferred to the files where they belong; see the build status table.
 
 ---
 
-## Copper intrauterine device (IUD)
-- **MOA**: ↓sperm motility and survival
+## 0.1 Cervical Screening Test and Cervical Screening Abnormality (Australian NCSP)
 
-## Intrauterine system (IUS) — releasing levonorgestrel
-- Mirena (8y), Jaydess (3y), Kyleena (5y)
-- **MOA**: prevents endometrial proliferation, thickens cervical mucus
+**D:** The **Cervical Screening Test** is a **primary oncogenic HPV nucleic-acid test** with **partial genotyping** (HPV 16/18 reported separately from other oncogenic types), performed on a **liquid-based cytology** specimen so that cytology can be run **reflexively on the same sample** when the HPV result requires it.
 
-**Side effects (IUS)**: bleeding/spotting initially, becoming lighter — some women become amenorrhoeic; infection (especially first 3w after insertion); expulsion (1 in 20 risk, ↑risk in first 3 months); rarely uterine perforation (more common in breastfeeding women); relative ↑ectopic pregnancy risk vs other contraceptives (overall risk still very low, as most pregnancies are prevented).
+**Ind:** **Routine screening every 5 years from age 25 to 74** in women and people with a cervix who have ever been sexually active — including those **vaccinated against HPV**, who remain in the program. Symptomatic patients (postcoital, intermenstrual or postmenopausal bleeding, or an abnormal-looking cervix) are **not** managed by screening: they need a **co-test and direct specialist assessment**.
 
-**How to use (IUS)**: inserted in clinic; teach patient to check placement; barrier contraception for first 7 days after insertion.
+**Role:** The test that replaced two-yearly Pap cytology in **December 2017**. It screens for the **cause** (persistent oncogenic HPV) rather than the downstream cell change, which is why the interval could safely lengthen from 2 years to 5.
 
-**Side effects (copper IUD)**: heavier, longer, more painful periods; similar risks to IUS — infection, expulsion, uterine perforation, relative ↑ectopic pregnancy risk.
+> [!info] **The management pathway is the examinable content**
+> - **HPV 16/18 detected** → **refer for colposcopy**, regardless of the cytology result. These genotypes carry the highest progression risk.
+> - **HPV detected, not 16/18** → **reflex LBC on the same specimen**:
+>   - negative, pLSIL or LSIL → **repeat HPV test in 12 months**;
+>   - pHSIL, HSIL, glandular abnormality or cancer → **colposcopy**.
+> - **HPV not detected** → return to routine 5-yearly screening.
+> - At the **12-month repeat**, HPV still detected → colposcopy.
 
-**How to use (copper IUD)**: inserted in clinic; effective immediately after insertion; effective for 5–10 years.
+> [!warning] **Higher-risk groups go straight to colposcopy at the 12-month repeat if HPV is still detected, whatever the cytology says** — sources name those **two or more years overdue for screening**, those who identify as **Aboriginal or Torres Strait Islander**, and those **aged 50 or over**.
+
+> [!tip] **Self-collection is a full-validity option, not a lesser test.** A self-collected vaginal swab is analysed on the same HPV platform and is now universally available in the program rather than restricted to the never- and under-screened. **The one limitation matters:** a self-collected sample **cannot have reflex cytology performed on it** — a patient whose self-collected sample returns HPV not-16/18 must return for a clinician-collected sample (or go to colposcopy). Uptake of self-collection has risen steeply since universal availability.
+
+> [!danger] **Do not ignore**
+> - **A negative screening test never explains symptoms.** Postcoital, intermenstrual or postmenopausal bleeding requires examination and specialist referral **even with a normal screening history** — screening is for asymptomatic people and cannot exclude cancer in a symptomatic one. This is the commonest and most serious error made with this test.
+> - **HPV vaccination does not remove the need to screen.**
+> - Screening continues in pregnancy where due (take the sample, avoid the endocervical brush), and post-hysterectomy management depends on whether the cervix was removed and on prior history.
+> - See [[17_09_Cervical__Vaginal_and_Endometrial_Cancer]].
+
+**Normal/abnormal:** Reported as **HPV 16/18 detected / HPV (not 16/18) detected / HPV not detected**, with reflex cytology where applicable, and an explicit **recommended management** statement — read that statement, it is part of the report.
+
+**Alt:** Colposcopy with directed biopsy (the diagnostic test); co-test (HPV plus cytology) in the symptomatic patient and in test-of-cure after treatment of a high-grade lesion; HPV vaccination as primary prevention.
+
+## 0.2 Liquid-Based Cytology (LBC)
+
+**D:** Cervical cells collected into a **liquid preservative vial** rather than smeared onto a slide; the laboratory produces a thin, even monolayer, removing blood, mucus and inflammatory debris.
+
+**Ind:** In Australia, LBC is now performed **reflexively on the HPV-positive (not 16/18) sample** — it is a **triage test within the screening program**, not a standalone screen. It is also used in the symptomatic patient as part of a co-test, and in test-of-cure surveillance after treatment of a high-grade abnormality.
+
+**Role:** **Cytology's role has been demoted from primary screen to triage.** Its remaining job is to sort HPV-positive patients into "repeat in 12 months" and "colposcopy now."
+
+> [!info] **Reporting terminology (Australian Modified Bethesda System)**
+> `Negative` · **`pLSIL` / `LSIL`** (possible/definite low-grade squamous intraepithelial lesion) · **`pHSIL` / `HSIL`** (possible/definite high-grade) · **glandular abnormalities** (AIS, adenocarcinoma) · **squamous cell carcinoma**. High-grade and glandular results drive referral.
+
+> [!warning] **LBC advantages and its one real trade-off.** Fewer unsatisfactory specimens than the conventional smear, and the residual sample can be used for HPV and other molecular testing without recalling the patient. Against that, **cytology is a morphological interpretation and remains subject to sampling and reader error** — its sensitivity for a single test is materially lower than that of HPV testing, which is exactly why HPV became the primary test.
+
+> [!danger] **Do not ignore**
+> - **A negative cytology in an HPV 16/18-positive patient does not avoid colposcopy.** The genotype drives the referral.
+> - **Glandular abnormalities are under-detected by cytology** and carry a higher risk of significant pathology — never watch and wait on one.
+> - **Cytology is not a test for endometrial cancer.** Endometrial cells reported in a postmenopausal woman are an incidental finding that requires separate investigation, not reassurance.
+
+**Normal/abnormal:** As the reporting categories above, plus specimen adequacy.
+
+**Alt:** Colposcopy with **histology** — the diagnostic standard, since cytology only ever suggests; HPV genotyping; **p16/Ki-67 dual staining** as an alternative triage of HPV-positive samples (in research and some international programs, not the Australian NCSP pathway).
+
+## 0.3 Genital / Cervical Swab Panel
+
+**D:** A set of specimens taken to identify genital tract infection: a **NAAT** for *Chlamydia trachomatis* and *Neisseria gonorrhoeae* (self-collected vaginal swab, clinician-collected endocervical swab, or **first-void urine**); a **high vaginal swab** for microscopy, culture and susceptibility (candida, bacterial vaginosis, *Trichomonas*, group B streptococcus); an **endocervical swab for gonococcal culture** where susceptibility testing matters; and extragenital **throat and rectal** swabs where indicated by sexual history.
+
+**Ind:** Vaginal discharge, dysuria, pelvic pain, dyspareunia, intermenstrual or postcoital bleeding; suspected **pelvic inflammatory disease**; contact tracing; asymptomatic screening in those at risk; pre-termination and pre-instrumentation screening; sexual assault (with forensic requirements taking precedence — see [[NEW_Safeguarding_and_Forensic]]).
+
+**Role:** Identifies treatable and notifiable infection, and — critically — **identifies partners who need treatment**.
+
+> [!info] **Which swab answers which question**
+> - **Chlamydia and gonorrhoea → NAAT.** Australian laboratories generally run these as a **duplex assay**, so a request for chlamydia will also detect gonococci.
+> - **A self-collected vaginal swab is not inferior for NAAT** — sources agree it performs comparably to clinician-collected sampling and it substantially improves uptake.
+> - **Candida, bacterial vaginosis and *Trichomonas* → high vaginal swab** with microscopy; these are not on the standard NAAT.
+> - **Gonococcal *culture* is still needed** where susceptibility is required (treatment failure, resistance surveillance) — NAAT gives no susceptibility.
+> - ***Mycoplasma genitalium*:** associated with cervicitis and PID, **but asymptomatic screening is not recommended** — test only when clinically indicated, because macrolide resistance is high and detection in an asymptomatic person leads to poorly justified treatment.
+
+> [!danger] **Do not ignore**
+> - **Do not wait for results in suspected PID.** PID is a **clinical diagnosis** and empirical antibiotic treatment starts immediately — delay costs fertility. Take the swabs, then treat. See [[17_05_PID__Endometriosis__Fibroids]].
+> - **Always do a pregnancy test** in a woman of reproductive age with pelvic pain. **Ectopic pregnancy presents as PID** and this mistake is fatal.
+> - **Chlamydia and gonorrhoea are notifiable** in all Australian jurisdictions, and **contact tracing is part of the treatment**, not an optional extra.
+> - **Offer the rest of the STI screen** — HIV, syphilis serology, hepatitis B and C — since co-infection is common and the patient is already in front of you.
+> - **Extragenital sites are missed by genital sampling alone**; pharyngeal and rectal infection is frequently asymptomatic and is only found if swabbed.
+
+**Normal/abnormal:** Organism detected or not detected (NAAT); organism grown with susceptibilities (culture); microscopy findings including clue cells, motile trichomonads and yeast.
+
+**Alt:** First-void urine NAAT (convenient, and the specimen of choice in men); bedside vaginal pH and wet mount; pelvic ultrasound where a tubo-ovarian abscess or other structural cause is suspected; laparoscopy in diagnostic uncertainty. See [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]].
+
+## 0.4 Hormone Panel (Gynaecological / Reproductive)
+
+**D:** A grouped set of serum measurements used to work up menstrual disturbance, hyperandrogenism and subfertility: **FSH, LH, oestradiol, prolactin, TSH**, **total testosterone with SHBG** (allowing a calculated free androgen index), **DHEAS**, **17-hydroxyprogesterone**, **mid-luteal progesterone**, and **AMH**.
+
+**Ind:** **Amenorrhoea or oligomenorrhoea**; suspected **PCOS**; hirsutism or virilisation; galactorrhoea; suspected premature ovarian insufficiency; subfertility work-up; suspected menopause where the diagnosis is genuinely in doubt.
+
+**Role:** Localises the problem in the **hypothalamic–pituitary–ovarian axis**, and separates the small number of dangerous causes from the common benign ones.
+
+> [!warning] **Timing is what makes or breaks this panel**
+> - **FSH, LH and oestradiol are taken in the early follicular phase — day 2–5** — because levels swing across the cycle and a mid-cycle sample is uninterpretable.
+> - **Where periods are absent or very irregular, take them on any day** — there is no cycle to time to, and waiting for "day 3" in an amenorrhoeic patient wastes months.
+> - **Mid-luteal progesterone (about 7 days before the expected period) is the ovulation test** — it must be timed to the individual cycle, not fixed at "day 21", which is only correct in a 28-day cycle.
+> - **AMH is cycle-independent** and reflects **ovarian reserve** — it predicts response to ovarian stimulation. **It is not a fertility test and must not be used to reassure or alarm a woman about her chance of conceiving naturally.**
+
+> [!danger] **Do not ignore**
+> - **Do a pregnancy test first.** Pregnancy is the commonest cause of secondary amenorrhoea and no hormone panel substitutes for βhCG.
+> - **Markedly raised prolactin needs a pituitary MRI** — and check whether the patient is on an **antipsychotic, metoclopramide or another dopamine antagonist** before imaging, since drug-induced hyperprolactinaemia is common. **Macroprolactin** is a laboratory artefact that produces a spuriously high result and should be excluded before a work-up is built on the number.
+> - **Rapid-onset hirsutism with virilisation** (voice deepening, clitoromegaly, male-pattern balding) and a **markedly raised testosterone** suggests an **androgen-secreting ovarian or adrenal tumour** — urgent, and a different pathway from PCOS.
+> - **Raised FSH with low oestradiol under age 40** is **premature ovarian insufficiency** — it needs confirmation on a repeat sample, karyotype and fragile X testing, bone protection and hormone therapy, and careful counselling. Do not diagnose it on one result.
+> - **PCOS is a diagnosis of exclusion built on defined criteria** — hyperandrogenism, ovulatory dysfunction and polycystic ovarian morphology — and **an LH:FSH ratio is not diagnostic** and is no longer part of the criteria. See [[17_01_FGM__Amenorrhoea__PCOS]].
+
+**Normal/abnormal:** **Reference intervals are assay- and phase-specific and are deliberately not reproduced here** — every value must be read against the laboratory's own range **for the stated cycle phase**, and against the menopausal status. Interpreting these numbers without the phase is meaningless.
+
+**Alt:** **Urine or serum βhCG first, always**; TSH and coeliac serology in menstrual disturbance; pelvic **ultrasound** for ovarian morphology, endometrial thickness and structural pathology; DEXA in prolonged hypo-oestrogenism; pituitary MRI; karyotype and fragile X in premature ovarian insufficiency; semen analysis in the couple's subfertility work-up. See [[17_06_Subfertility_and_OHSS]].
+
+## 0.5 Prenatal Screening Panel
+
+**D:** Two competing first-line strategies for **screening** (not diagnosing) fetal chromosomal abnormality. **Combined first trimester screening (cFTS)** — **nuchal translucency ultrasound at 11+0 to 13+6 weeks** plus maternal serum **PAPP-A** and **free βhCG**, combined with maternal age into a risk figure. **NIPT / cfDNA** — analysis of placentally derived cell-free DNA in maternal blood from about 10 weeks. **Second-trimester maternal serum screening** is the fallback where the first-trimester window has been missed.
+
+**Ind:** Offered to **all pregnant women**, with informed consent and after discussion of what the results can and cannot do. NIPT is not currently Medicare-funded in Australia and is paid for out of pocket — a real access issue that should be part of the counselling.
+
+**Role:** Estimates risk for **trisomy 21, 18 and 13** (and, on NIPT, sex chromosome aneuploidies and some microdeletions). **Neither test diagnoses anything.**
+
+> [!info] **Performance — and why NIPT has not simply replaced cFTS**
+> - **cFTS** detects roughly **90% of trisomy 21** at a false-positive rate of about **3–5%**.
+> - **NIPT** has a substantially higher detection rate and much lower false-positive rate for trisomy 21.
+> - **But cFTS includes an ultrasound**, and the nuchal translucency and the 11–13 week scan detect **structural abnormality, multiple pregnancy, incorrect dating and early-onset pre-eclampsia risk markers** that a blood test cannot. **An increased NT with a normal karyotype still matters** — it is associated with congenital heart disease and other structural anomalies and prompts fetal echocardiography.
+
+> [!danger] **A positive NIPT is a screening result and must be confirmed by CVS or amniocentesis before any irreversible decision.**
+> The positive predictive value depends heavily on the **prior probability** — for rarer conditions and in younger women it can be low, so a "positive" result is frequently a false positive. Causes of discordance include **confined placental mosaicism** (NIPT samples placenta, not fetus), **vanishing twin**, and **maternal** chromosomal abnormality or occult malignancy. **No termination should ever follow an unconfirmed NIPT result.**
+
+> [!warning] **Other limitations**
+> - **A "no-call" / failed NIPT is not a normal result** — it is associated with low fetal fraction, higher maternal BMI, early gestation and, importantly, an **increased risk of aneuploidy**. It requires review, not simple repetition.
+> - **NIPT does not screen for structural abnormality** — the **18–20 week morphology scan** does, and remains essential whatever the screening result.
+> - **Neural tube defects** are detected by ultrasound (and historically by maternal serum AFP), not by NIPT.
+> - Screening is **optional**. Declining is a legitimate choice, and the counselling must make clear what would be done with a positive result.
+
+**Normal/abnormal:** cFTS reports a **numerical risk** against a stated cut-off (increased vs low risk). NIPT reports **low risk / high risk / no result** for each condition tested. Neither is a diagnosis.
+
+**Alt:** **CVS** (0.6) and **amniocentesis** (0.7) — the diagnostic tests; second-trimester serum screening; **18–20 week morphology ultrasound**; carrier screening for recessive conditions; detailed fetal echocardiography where NT is increased. See [[16_01-05_Antenatal_Care]].
+
+## 0.6 Chorionic Villus Sampling (CVS)
+
+**D:** Ultrasound-guided aspiration of **placental (chorionic villus) tissue**, transabdominally or transcervically, for karyotype, microarray or targeted gene testing.
+
+**Ind:** A **high-risk screening result** (cFTS or NIPT); a **previous affected pregnancy** or known parental balanced translocation; a **familial single-gene disorder** where an early diagnosis is wanted; abnormal early ultrasound findings.
+
+**Role:** The **first-trimester diagnostic** option — its whole advantage over amniocentesis is **timing**. A result several weeks earlier allows an earlier, safer and more private termination if that is the couple's decision.
+
+> [!warning] **Performed from 11 weeks — and the gestational limit is not arbitrary.** Sources are consistent that **CVS before 10 weeks was associated with limb reduction defects**, with the excess risk falling steeply from 9 weeks and approaching background at 11 weeks and beyond. Registry data on CVS performed at **10 weeks or later show no increased risk**. This is why the procedure is not done earlier, and it is a genuinely examinable historical point.
+
+> [!danger] **Confined placental mosaicism is the characteristic pitfall of CVS.**
+> CVS samples **placenta, not fetus**. Mosaicism is found in roughly **1–2%** of CVS samples (compared with about **0.25%** of amniocenteses), and in most of those the abnormality is **confined to the placenta** — sources report the fetus is involved in only around **10%** of such cases. **An ambiguous CVS result therefore usually requires a follow-up amniocentesis** to establish the fetal genotype. Confined placental mosaicism itself is not entirely benign: it is associated with fetal growth restriction, preterm birth and low birth weight.
+
+> [!danger] **Do not ignore**
+> - **Anti-D prophylaxis is required for RhD-negative women** after CVS, as after any invasive uterine procedure — this is a routinely missed step. See 0.9.
+> - **Procedure-related pregnancy loss** — quote as "small" in counselling. **A single numeric figure is deliberately not stated:** retrieved values ranged widely, and contemporary cohorts report loss rates comparable to unsampled pregnancies. Use your fetal medicine unit's audited local figure, which is what the woman is actually consenting to.
+> - **CVS cannot detect neural tube defects** (no amniotic fluid AFP is obtained) — those need the morphology scan.
+> - The decision belongs to the woman. The role of the intern is accurate information and referral to a fetal medicine unit and genetic counselling, not persuasion in either direction.
+
+**Normal/abnormal:** Rapid aneuploidy testing (FISH/QF-PCR) within days, with full karyotype or microarray following. Mosaic or discordant results require amniocentesis.
+
+**Alt:** **Amniocentesis** (later, but samples fetal cells directly); **NIPT** where the indication is screening rather than diagnosis; declining testing.
+
+## 0.7 Amniocentesis
+
+**D:** Ultrasound-guided transabdominal aspiration of **amniotic fluid**, containing desquamated fetal cells, for karyotype, microarray, single-gene testing, infection PCR, or biochemical analysis.
+
+**Ind:** Diagnostic confirmation after a high-risk screening result or an abnormal CVS; abnormal ultrasound findings; suspected **congenital infection** (e.g. CMV, toxoplasmosis PCR on amniotic fluid); assessment of **fetal anaemia or haemolytic disease** in some settings; therapeutic **amnioreduction** in severe polyhydramnios; historically, fetal lung maturity testing (now essentially obsolete).
+
+**Role:** The **second-trimester diagnostic standard**, performed from **15 weeks**. Later than CVS, but it samples **fetal cells directly** and is therefore not subject to confined placental mosaicism — sources report amniocentesis predicts the true fetal genotype in **93–100%** of cases where placental mosaicism was found on CVS.
+
+> [!warning] **Not before 15 weeks.** Early amniocentesis was associated with a higher rate of pregnancy loss and with **talipes equinovarus**, and has been abandoned. If a diagnosis is needed earlier, the procedure is CVS.
+
+> [!danger] **Do not ignore**
+> - **Anti-D prophylaxis for RhD-negative women** — again, routinely forgotten.
+> - **Procedure-related loss is small.** One quoted figure is a **total fetal loss rate of about 0.6% within 14 days**, but the *attributable* excess over background is smaller and contested. **A single counselling figure is not asserted here** — use your unit's audited rate.
+> - **Advise the woman what to report afterwards**: persistent leaking of fluid, bleeding, contractions, fever. Amniotic fluid leak after the procedure often seals, but must be assessed.
+> - **A normal karyotype or microarray does not guarantee a normal baby.** It excludes the conditions tested for, nothing more. Saying otherwise is the commonest counselling error.
+> - **Culture failure and maternal cell contamination** are recognised technical failures; results are interpreted with that in mind.
+
+**Normal/abnormal:** Rapid aneuploidy result (FISH/QF-PCR) in 1–2 days; full karyotype or microarray in 1–2 weeks; PCR for infection as requested.
+
+**Alt:** **CVS** where an earlier answer is needed; **NIPT** for screening; **cordocentesis** (0.8) where fetal blood specifically is required; detailed ultrasound and fetal MRI for structural questions.
+
+## 0.8 Cordocentesis (Percutaneous Umbilical Blood Sampling, PUBS)
+
+**D:** Ultrasound-guided needle sampling of the **umbilical vein**, usually at the placental cord insertion, to obtain **fetal blood**.
+
+**Ind:** **Suspected fetal anaemia — the principal indication** (red cell alloimmunisation, parvovirus B19 infection, fetomaternal haemorrhage), where it is both diagnostic and the route for **intrauterine transfusion**. Also: fetal thrombocytopenia (alloimmune), rapid karyotype where an urgent answer is needed late in pregnancy, congenital infection, and some metabolic and haematological disorders.
+
+**Role:** A **highly specialised fetal medicine procedure** — an intern will never perform one, but must recognise the situations that generate the referral. **It has largely been displaced for diagnosis** by non-invasive alternatives, and its main contemporary role is as the **access route for fetal transfusion**.
+
+> [!warning] **Middle cerebral artery peak systolic velocity Doppler has replaced it for the detection of fetal anaemia.** MCA-PSV is non-invasive, repeatable and accurate, so cordocentesis is now generally reserved for the point at which the Doppler indicates that **transfusion** is required — sampling and transfusing in the same procedure.
+
+> [!danger] **Do not ignore**
+> - **The highest procedure risk of the three invasive tests.** Sources describe procedure-related complications in the order of **1–2%**, with **higher loss rates when performed early** — one series reports up to **4%** before 20 weeks, and higher complication rates before 17 weeks. It is done **from about 18 weeks** for this reason.
+> - **Anti-D for RhD-negative women**, and cordocentesis carries a particular risk of **worsening alloimmunisation** through fetomaternal haemorrhage — a real consideration in exactly the population being sampled.
+> - Other complications: **cord haematoma, fetal bradycardia, bleeding from the puncture site, chorioamnionitis, preterm labour**. Performed only where **immediate delivery is possible** if the fetus deteriorates.
+> - **Rh alloimmunisation is preventable.** The reason a fetus needs this procedure is often a missed anti-D dose earlier in this or a previous pregnancy. See [[16_08-09_Antenatal_and_Perinatal_Problems]].
+
+**Normal/abnormal:** Fetal haemoglobin, haematocrit, platelet count, blood group and direct antiglobulin test, karyotype, infection PCR — interpreted against **gestation-specific** fetal reference ranges, which differ substantially from adult and neonatal values.
+
+**Alt:** **MCA peak systolic velocity Doppler** — first-line for fetal anaemia; **amniocentesis** for karyotype and infection; **NIPT** for fetal RhD genotyping in an alloimmunised pregnancy; maternal antibody titres for surveillance.
+
+## 0.9 Kleihauer-Betke Test (Fetomaternal Haemorrhage Quantification)
+
+**D:** An acid-elution stain of a maternal blood film: adult haemoglobin is eluted from maternal cells while **fetal haemoglobin resists**, so fetal cells stand out and can be counted as a proportion of maternal cells, giving an estimated **volume of fetomaternal haemorrhage**.
+
+**Ind:** In an **RhD-negative** woman, after any **potentially sensitising event** — abdominal trauma (including minor trauma and motor vehicle accidents), antepartum haemorrhage, external cephalic version, invasive procedures, and **routinely after delivery**. Also used in any pregnancy to quantify suspected **large fetomaternal haemorrhage** presenting as reduced fetal movements, a sinusoidal CTG or unexplained stillbirth — **an indication that is independent of blood group** and is easily missed.
+
+**Role:** **It does not decide whether to give anti-D — it decides how much.** The standard dose is given on the clinical event; the Kleihauer determines whether that dose was sufficient.
+
+> [!info] **How the result translates into dose (Australian practice)**
+> Sources agree that the standard **postpartum dose of 625 IU RhD immunoglobulin covers a fetomaternal haemorrhage of about 6 mL of fetal red cells**, and that **additional RhD immunoglobulin is required where the FMH exceeds that**, dosed at approximately **100 IU per additional mL of fetal red cells**. Sources note that FMH exceeds the standard dose in **up to 3% of deliveries** — which is the entire justification for testing routinely rather than assuming.
+
+> [!danger] **Do not ignore**
+> - **Give anti-D within 72 hours of the sensitising event. Do not wait for the Kleihauer result.** Give the standard dose first and top up on the result. This is the single most important operational point, and delay is how women become sensitised.
+> - **Take the maternal sample before giving anti-D**, and take it at least 15 minutes to an hour after the event so fetal cells have distributed.
+> - **Anti-D is still indicated in an RhD-negative woman even if the Kleihauer is negative** after a sensitising event — a negative test does not exclude a small immunising bleed.
+> - **False positives** occur where maternal **F-cells** are increased — **haemoglobinopathies (thalassaemia, sickle cell trait), hereditary persistence of fetal haemoglobin**, and normal pregnancy itself. **Flow cytometry** is more accurate and reproducible and is used where the Kleihauer is high or the mother has a haemoglobinopathy.
+> - **The test is operator-dependent** with significant interobserver variability — an unexpectedly large result should be confirmed, not acted on blindly.
+> - **A massive fetomaternal haemorrhage is an obstetric emergency** regardless of blood group: the fetus may be profoundly anaemic and need urgent delivery or transfusion.
+
+**Normal/abnormal:** Reported as fetal cells per total cells and as an **estimated volume of fetal blood or fetal red cells** — check which your laboratory reports, because **whole blood and packed red cell volumes differ by roughly a factor of two** and confusing them mis-doses the anti-D.
+
+**Alt:** **Flow cytometry** for fetal red cells or HbF — more accurate, the preferred method where available; maternal antibody screen and group and hold; fetal MCA Doppler and CTG where significant haemorrhage is suspected.
+
+## 0.10 Ferning Test and Nitrazine Test (Confirming Rupture of Membranes)
+
+**D:** Two bedside tests on fluid taken from the **posterior vaginal fornix at sterile speculum examination**. **Ferning:** fluid is spread on a glass slide and air-dried for at least 10 minutes; amniotic fluid crystallises into a **fine, delicate fern (arborisation) pattern** under the microscope, distinct from the coarse arborisation of cervical mucus. **Nitrazine:** pH-indicator paper changes colour in an alkaline sample — **normal vaginal secretions are pH ~4.5–6.0, amniotic fluid ~7.1–7.3**.
+
+**Ind:** Suspected **prelabour rupture of membranes (PROM)** or **preterm PROM (PPROM)** — a history of a gush or continued leaking of fluid — where the diagnosis is not obvious on inspection.
+
+**Role:** Confirmatory bedside adjuncts. **Visible pooling of amniotic fluid in the posterior fornix at sterile speculum examination is diagnostic and needs no further test**; these tests are for the equivocal case.
+
+> [!danger] **DIGITAL VAGINAL EXAMINATION IS CONTRAINDICATED in suspected PPROM.**
+> It introduces infection, shortens the latency to delivery and adds nothing that a sterile speculum examination does not give. **Sterile speculum only.** This is the highest-yield single fact in this entry.
+
+> [!warning] **Both tests are unreliable in exactly the circumstances in which they are used**
+> - **Nitrazine false positives** — **blood, semen, alkaline antiseptics, bacterial vaginosis**, urine, and cervical mucus. All are common in a woman presenting in possible labour.
+> - **Ferning false positives** — cervical mucus (particularly around ovulation) and semen. **False negatives** — a dry, scanty or blood-contaminated sample, or insufficient drying time.
+> - Reported accuracies (roughly 84–100% for ferning and 87–97% for nitrazine) come from selected populations and **overstate real-world performance**.
+> - **A negative test does not exclude ruptured membranes.** With a convincing history, manage as PROM and observe — the clinical history outranks the bedside test.
+
+> [!danger] **Do not ignore**
+> - **Confirm gestation and fetal wellbeing**, and check the **group B streptococcus** status. PPROM management — corticosteroids for fetal lung maturation, latency antibiotics, magnesium sulfate for neuroprotection at early gestations, and decisions about timing of delivery — is gestation-dependent and specialist-led.
+> - **Look for chorioamnionitis**: maternal fever, tachycardia, fetal tachycardia, uterine tenderness, offensive discharge. Suspected chorioamnionitis means **antibiotics and delivery**, not expectant management.
+> - **Cord prolapse** is the immediate danger with ruptured membranes and a high presenting part — check the fetal heart rate promptly.
+> - See [[16_10-13_Labour_and_Delivery]].
+
+**Normal/abnormal:** Ferning present/absent; nitrazine paper colour change indicating alkaline pH. Interpret both alongside history, pooling and ultrasound liquor volume.
+
+**Alt:** **Direct visualisation of pooling** (the best evidence); **ultrasound assessment of amniotic fluid volume** (reduced liquor supports the diagnosis but does not confirm it); commercial immunoassays for **placental alpha-microglobulin-1 (PAMG-1)** or IGFBP-1 in cervicovaginal fluid, which are more specific than the bedside tests and unaffected by semen and blood in the way nitrazine is.
+
+## 0.11 Fetal Fibronectin (fFN)
+
+**D:** An immunoassay on a **cervicovaginal swab from the posterior fornix**, detecting fetal fibronectin — a glycoprotein at the choriodecidual interface. It is normally present before about 22 weeks and after about 35 weeks; its appearance in between suggests disruption of that interface.
+
+**Ind:** **Symptomatic threatened preterm labour between roughly 22–24 and 34 weeks** — contractions with an intact cervix, where the question is whether this woman will actually deliver.
+
+**Role:** **A rule-out test.** Its value is its **negative predictive value**, which sources report as very high — approaching 100% for delivery within 7 days. A negative result allows a woman to avoid transfer, admission, steroids and tocolysis. **A positive result is a much weaker predictor** — most fFN-positive women do not deliver preterm — so it should not by itself trigger intervention.
+
+> [!warning] **Sample before anything else touches the cervix, and know what corrupts the result**
+> - **Speculum lubricant causes false negatives** — use water only.
+> - **Take the swab before digital examination and before transvaginal ultrasound.**
+> - **Intercourse within 24 hours and blood in the sample cause false positives** (fFN is present in semen and in plasma). Notably, sources hold that a **negative** result remains valid even with blood or recent intercourse — the contamination pushes towards false positive, not false negative.
+> - **Do not perform the test at all** where there is **ruptured membranes, cervical dilatation beyond about 3 cm, moderate or gross vaginal bleeding, placenta praevia or suspected abruption.** Those are clinical situations that need management, not a probability estimate.
+
+> [!danger] **Do not ignore**
+> - **A negative fFN does not override a woman who is in labour.** If the cervix is changing, she is in preterm labour whatever the test says.
+> - **Do not delay corticosteroids in genuine preterm labour to wait for the result** — the fetal benefit of antenatal steroids depends on timing.
+> - **The test predicts timing, not cause.** It says nothing about infection, abruption or growth restriction, which must be assessed separately.
+> - **In-utero transfer to a centre with appropriate neonatal facilities is safer than transferring a preterm neonate.** A positive result in a woman remote from such a centre should lower the threshold to transfer.
+
+**Normal/abnormal:** Qualitative bedside assays report positive/negative against a **50 ng/mL** threshold; quantitative assays report a concentration allowing graded risk. **Interpretation is confined to the 22–34 week window** — outside it the test is not informative.
+
+**Alt:** **Transvaginal cervical length ultrasound** — used alone or combined with fFN, and a short cervix is the stronger structural predictor; serial clinical assessment; CTG and infection screen; assessment for the underlying cause.
+
+## 0.12 Biophysical Profile (BPP)
+
+**D:** An ultrasound-based assessment of fetal wellbeing scoring **five components 2 or 0** each, to a total of **10**: **fetal breathing movements**, **gross body movement**, **fetal tone**, **amniotic fluid volume**, and the **non-stress test (CTG)**. A **modified BPP** uses only the two most informative components — **NST plus amniotic fluid volume**.
+
+**Ind:** **Abnormal or equivocal CTG**; reduced fetal movements; suspected **fetal growth restriction**; post-dates pregnancy; maternal conditions increasing the risk of placental insufficiency (hypertension, pre-eclampsia, diabetes, antiphospholipid syndrome, cholestasis); oligohydramnios.
+
+**Role:** Assesses fetal wellbeing across **different timescales**. The acute markers — **breathing, movement, tone and the NST** — reflect current oxygenation; **amniotic fluid volume** reflects **chronic** placental function, because a chronically hypoxic fetus shunts blood away from the kidneys and produces less urine.
+
+> [!info] **Component definitions and scoring**
+> Sources agree on: **breathing** — one or more episodes of rhythmic breathing lasting ≥30 seconds within 30 minutes; **movement** — three or more discrete body or limb movements within 30 minutes; **tone** — one or more episodes of extension of a limb with return to flexion, or opening/closing of a hand; **amniotic fluid** — a single vertical pocket **exceeding 2 cm**; **NST** — reactive.
+> **Score 8–10 = reassuring · 6 = equivocal, repeat or deliver depending on gestation · ≤4 = strongly suggests fetal compromise and generally means delivery.**
+
+> [!danger] **The exception that overrides the score: oligohydramnios.**
+> Sources are explicit that **8/10 is normal only if the amniotic fluid component scored 2**. **A score of 8/10 achieved by losing the fluid point is NOT reassuring** and requires further evaluation and usually delivery, whatever the composite number says. **Look at which point was lost, not just the total.** This is the trap the number is designed to hide.
+
+> [!warning] **Interpretation depends on gestation and on maternal state**
+> - **Prematurity** reduces the score legitimately — breathing movements and reactivity are less developed. A modest score in a very preterm fetus is not the same finding as in a term fetus.
+> - **Maternal sedatives, opioids, magnesium sulfate, corticosteroids, smoking and hypoglycaemia** all reduce fetal activity and can produce a falsely low score.
+> - **Fetal sleep cycles** last up to 40 minutes; the test should be observed long enough before concluding.
+
+> [!danger] **Do not ignore**
+> - **The BPP is a snapshot with a false-negative rate**, and a reassuring score **does not license ignoring the mother.** Persistently reduced fetal movements warrant repeat assessment and escalation whatever the last score was.
+> - **A score of 0–2 is an emergency** — expedite delivery.
+> - **The BPP does not replace umbilical artery Doppler in suspected growth restriction**; Doppler detects placental insufficiency earlier and drives surveillance and timing.
+> - See [[16_08-09_Antenatal_and_Perinatal_Problems]].
+
+**Normal/abnormal:** As the score bands above, always read together with gestation, the individual component lost, the growth trajectory and the Doppler studies.
+
+**Alt:** **CTG / non-stress test** alone; **umbilical artery, MCA and ductus venosus Doppler**; serial **growth scans**; contraction stress test (rarely used in Australia); maternal monitoring of fetal movements.
 
 ---
 
-## Condoms
-- **MOA**: physical barrier
-- Only method that protects against STIs
-- 98% effective if used correctly, lower efficacy in younger people due to incorrect use
+## Build status
 
----
-
-## Emergency contraception
-
-### Levonorgestrel
-- Single dose = 1.5mg (double dose if BMI >26 or weight >70kg)
-- Efficacy 84% (more effective the sooner taken after UPSI)
-- Can be taken up to 72h after UPSI
-- If vomiting within 3h of taking, repeat dose
-- Can be used more than once in a menstrual cycle if needed
-- Less effective if taken after ovulation
-- SE: menstrual cycle disturbance, vomiting (1%)
-- Can start hormonal contraception immediately afterward
-- No issues with breastfeeding
-
-### Ulipristal acetate
-- Single dose = 30mg
-- Can be taken up to 120h after UPSI; can be used more than once per cycle
-- Avoid in patients with severe asthma
-- Less effective if taken after ovulation
-- Hormonal contraception (pill, patch, ring): (re)start 5 days after ulipristal — combined use with levonorgestrel not recommended
-- Breastfeeding: delay for 1 week after taking
-
-### Copper IUD
-- Most effective method of emergency contraception — should be offered first (99% effective)
-- Must be inserted within 5 days of UPSI, or up to 5 days after likely ovulation date (whichever is later)
-- Can be given with prophylactic antibiotics if patient is high STI risk
-- Can remain in situ for long-term contraception
-
-> [!info] FSRH guidelines on emergency contraception are directly relevant to Australian practice, consistent with FSRH/UKMEC guidance being adopted by RANZCOG more broadly (see the note at the top of this file) — no separate "Australian equivalent" exists or is needed here.
-
----
-
-## Postpartum contraception
-
-- Contraception required after day 21 postpartum
-
-| Method | Postpartum guidance |
-|---|---|
-| POP | Can start any time postpartum; if started after day 21, use barrier contraception for first 2 days. Safe for breastfeeding |
-| COCP | **Contraindicated in first 6 weeks postpartum (↑VTE risk)**; benefits > risks between 6w–6mo; use barrier contraception for first 7 days when started |
-| IUS | Can insert within 48h of childbirth (no additional contraception needed) or after 4w postpartum (barrier for 7 days); can insert during C-section |
-| Copper IUD | Can insert within 48h of childbirth, or after 4w postpartum (effective immediately); can insert during C-section |
-| Lactational amenorrhoea | 98% effective if fully breastfeeding with no supplementary feeds, amenorrhoeic, and <6mo postpartum |
-
----
-
-## Contraception for specific populations
-
-### Age >40
-- Most methods OK
-- **COCP**: slight ↑risk in >40yo, consider ↓dose; benefits include maintaining bone mineral density and ↓menopausal symptoms; can continue up to 50yo, then switch to non-hormonal or progestogen-only method
-- **POP, implant, IUS**: continue for ≥1y with amenorrhoea, stop when FSH ≥30µL or at 55yo; if not amenorrhoeic, investigate abnormal bleeding pattern
-- **Depo-Provera**: small loss in bone mineral density (usually recovers after stopping); same stop criteria as above
-- **Non-hormonal methods**: if <50yo, stop after 2y amenorrhoea; if ≥50yo, stop after 1y amenorrhoea
-
-### Obesity
-- COCP: UKMEC3 if BMI ≥35 (risks > benefits); UKMEC2 if BMI 30–34 (benefits > risks)
-- Combined patch: less effective if >90kg
-- Oral contraception cannot be used in patients who have had gastric sleeve, bypass, or duodenal switch surgery
-
-### Epilepsy
-
-| Drug class | Guidance |
-|---|---|
-| Phenytoin, carbamazepine, barbiturates, primidone, topiramate, oxcarbazepine | No restrictions: Depo-Provera, copper IUD, IUS. Benefits > risks: Nexplanon implant. Risks > benefits: COCP, POP |
-| Lamotrigine | No restrictions: POP, implant, Depo-Provera, copper IUD, IUS. Risks > benefits: COCP |
-
-### Transgender and non-binary people
-
-**Assigned female at birth (AFAB) / with a uterus**
-- POP and non-hormonal methods most effective — do not affect testosterone therapy
-- Testosterone therapy does **not** reliably prevent pregnancy
-- If pregnancy occurs, testosterone therapy is contraindicated (teratogenic)
-- If on testosterone, oestrogen-containing regimens not recommended (interference)
-- All forms of emergency contraception are OK if needed
-
-**Assigned male at birth (AMAB) / with male reproductive organs**
-- ↓sperm production with oestradiol, GnRH analogues, finasteride, cyproterone
-- **Not** a reliable means of preventing pregnancy — use condoms
-
-
-<!-- ===== SOURCE: 17_01_FGM__Amenorrhoea__PCOS.md ===== -->
-
-
-> [!info] Localised for Australia — FGM legal framework rebuilt around South Australian legislation (Criminal Law Consolidation Act 1935 (SA)) specifically, with the broader national picture (all states/territories criminalise FGM independently) as context, verified Aug 2026. See the FGM entry below for full detail.
-
-## Female genital mutilation (FGM)
-
-**D**: removal or partial removal of external female genitalia, or injury to other internal female genital organs.
-
-> [!danger] Legal status — South Australia specifically (Criminal Law Consolidation Act 1935 (SA), ss 33/33A/33B), verified Aug 2026; **FGM is illegal in every Australian state and territory**, via each jurisdiction's own legislation, not a single national law — this is genuinely different from the UK's single national framework, similar to the pattern seen with abortion law.
-> - FGM is a crime under SA legislation, with a maximum penalty of 7 years imprisonment (penalties vary by state — up to 21 years in NSW following a 2014 amendment).
-> - **Consent is not a defence** — neither the affected person's own consent, nor a parent's or guardian's consent, provides any legal defence.
-> - **Extraterritorial provisions apply**: it is a specific offence under SA law to take a child from the state, or arrange for a child to be taken from the state, with intent that they undergo FGM — this applies even if the procedure itself occurs entirely overseas, given Australian FGM law extends to acts committed outside Australia against Australian residents.
-> - SA courts can make protective orders under the Children and Young People (Safety) Act 2017 (SA) where a child is assessed to be at risk of being removed from the state for FGM — including orders preventing a specified person from removing the child, and orders for the child's passport to be held by the court.
-> - **It is illegal not to report FGM in Australia** — genuinely broader than a UK-style "engage safeguarding" framing; every Australian has a responsibility to report suspected FGM or planned removal for FGM to police, and this can be done anonymously.
-> - Engage child safeguarding for any suspected case, consistent with the general principle already established elsewhere in this project.
-> - A genuine, honestly-reported practical nuance: despite criminalisation across all jurisdictions, prosecutions under Australian FGM law remain rare in practice — worth knowing as a real gap between the law as written and enforcement in practice, not something to gloss over.
-
-- Traditionally practised in parts of Africa, India, and Indonesia — not limited to any particular cultural or religious group.
-
-> [!info] WHO classification
-> | Type | Description |
-> |---|---|
-> | I | Partial/total removal of clitoris and/or prepuce |
-> | II | Partial/total removal of clitoris and labia minora ± excision of labia majora |
-> | III (infibulation) | Narrowing of vaginal orifice with creation of a covering seal by cutting and appositioning the labia minora and/or majora ± clitoral excision |
-> | IV | Any other harmful non-medical procedure to female genitalia (e.g. pricking, piercing) |
-
-**Complications**
-- Acute: death, blood loss, sepsis, pain, urinary retention, infections (HIV, hepatitis, tetanus)
-- Long-term: apareunia (inability to have intercourse), superficial dyspareunia, anorgasmia, sexual dysfunction, chronic pain, scarring, slow urination, UTIs
-- Maternal (in pregnancy/labour): PPH, ↑risk of C-section, episiotomy, fistula, difficulty examining/catheterising
-
-**Mx**
-- Defibulation (reconstructive surgery of infibulated scar) — may be done antenatally; if not done antenatally, deliver in a unit with emergency obstetric care available. Offer epidural if vaginal exam poorly tolerated or episiotomy anticipated.
-- Screen for hepatitis C
-- Repair post-delivery should control bleeding
-
-> [!danger] Re-infibulation is illegal.
-
----
-
-## Normal menstrual cycle (physiology primer)
-
-| Day | Hormonal change | Ovarian cycle | Uterine cycle |
+| # | Item | Built | Notes |
 |---|---|---|---|
-| 0–4 | — | — | Menses |
-| 4–14 | LH/FSH stimulate follicular maturation; oestradiol secreted by maturing follicle | Follicular phase: maturation of dominant follicle into Graafian follicle (mainly FSH-driven) | Proliferative phase; laying down new endometrial layer (oestrogen-driven) |
-| 14 | GnRH surge → LH surge just before ovulation | **Ovulation** | — |
-| 14–28 | Progesterone secreted by corpus luteum; LH/FSH levels decrease | Luteal phase: post-ovulation corpus luteum (LH/FSH helps corpus luteum formation) | Secretory phase: endometrium receptive to implantation (progesterone-supported) |
+| 0.1 | Cervical Screening Abnormality | yes | Built as the Cervical Screening Test and its management pathway. |
+| 0.2 | Liquid Cytology | yes | |
+| 0.3 | Genital / Cervical Swab Panel | yes | |
+| 0.4 | Hormone Panel | yes | Reference intervals omitted — assay- and cycle-phase-specific. |
+| 0.5 | Prenatal Screening Panel | yes | |
+| 0.6 | Chorionic Villus Sampling | yes | Single procedure-loss figure omitted — retrieved values ranged widely. |
+| 0.7 | Amniocentesis | yes | As above; the 0.6% 14-day total loss figure is quoted with its limitation stated. |
+| 0.8 | Cordocentesis | yes | |
+| 0.9 | Kleihauer-Betke Test | yes | |
+| 0.10 | Ferning Test | yes | Built jointly with Nitrazine as one PROM entry — the two are performed on the same specimen at the same examination and are not separable clinically. |
+| 0.10 | Nitrazine Test | yes | As above. |
+| 0.11 | Fetal Fibronectin | yes | |
+| 0.12 | Biophysical Profile | yes | |
+| — | C-Spine X-Ray | **deferred** | **Miscategorised** in the build list under Gynaecology. It is an orthopaedic/trauma imaging study — deferred to `NEW_Investigations_Orthopaedics_Neurology_and_Other.md` (Part A file 11). |
+| — | Compression Test | **deferred** | **Miscategorised** under Gynaecology. This is the cervical **Spurling compression** exam manoeuvre — deferred to `NEW_Exam_Manoeuvres_and_Procedures.md` (Part B file 12). |
+| — | Distraction Test | **deferred** | **Miscategorised** under Gynaecology. Cervical **distraction** exam manoeuvre — deferred to Part B file 12 with Compression Test. |
+
+**Items in file: 13 entries covering 13 build-list rows. Build-list O&G investigation rows: 16; 3 deferred as miscategorised, with destinations recorded above.**
+
+
+<!-- ===== SOURCE: NEW_Gynaecology_and_Reproductive.md ===== -->
+
+
+# NEW — Gynaecology & Reproductive
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains all Tier 1 and Tier 2 topics.** The category has 1 T1, 1 T2 and 22 T3 topics. T3 not yet built. See the build-status table at the end.
+
+## Acute Vaginal Bleeding
+
+- **D:** bleeding from the genital tract of acute onset or acute severity. **The first branch is always the same: is she pregnant?** — because the differential, the urgency and the specialty involved all change on that answer.
+- **DDx:**
+  - **Pregnant — first trimester:** **ectopic pregnancy** (the must-exclude), miscarriage in any of its forms, implantation bleeding, molar pregnancy, local cervical causes.
+  - **Pregnant — later pregnancy (a different and more dangerous problem):** **placental abruption** (painful bleeding, a tense tender "woody" uterus, fetal compromise, and **concealed bleeding means the visible loss can massively understate the true loss**), **placenta praevia** (classically painless bleeding — **do not perform a digital vaginal examination until praevia is excluded by ultrasound**, which is the single most important prohibition in this presentation), vasa praevia, uterine rupture, bloody show in labour.
+  - **Postpartum:** **primary postpartum haemorrhage** — the **four Ts: Tone** (uterine atony, much the commonest), **Trauma** (genital tract laceration, uterine rupture), **Tissue** (retained placenta or products), **Thrombin** (coagulopathy, including DIC); and **secondary PPH** from retained products or endometritis.
+  - **Not pregnant — reproductive age:** anovulatory or dysfunctional uterine bleeding, fibroids, endometrial or cervical polyp, adenomyosis, **pelvic inflammatory disease**, cervicitis and sexually transmitted infection, cervical ectropion, ovarian cyst, **iatrogenic — hormonal contraception, intrauterine device, anticoagulants, tamoxifen**, coagulopathy including **von Willebrand disease** (a genuinely under-recognised cause of heavy bleeding since menarche), thyroid disease, trauma including **sexual assault**, retained foreign body.
+  - **Postmenopausal — a different set of priorities:** **endometrial carcinoma until proven otherwise**, endometrial hyperplasia, atrophic vaginitis (commonest, but a diagnosis of exclusion), cervical carcinoma, polyps, hormone therapy.
+- **Focused Hx:** **last menstrual period, cycle pattern, and possibility of pregnancy — always**; **quantify the loss in usable terms** — pads or tampons used per hour, whether soaking through, clots and their size, flooding; duration; **associated pain and its relationship to the bleeding** (painless versus painful is a key discriminator in late pregnancy); **dizziness, syncope, breathlessness**; gestational age and antenatal history including any previous ultrasound and known placental site; postpartum details including delivery mode, third-stage management and whether the placenta was complete; **sexual history, contraception, and cervical screening history**; **postcoital and intermenstrual bleeding** (cervical pathology); **postmenopausal status and any hormone therapy**; **bleeding history — since menarche, dental extractions, surgery, family history** (inherited bleeding disorder); anticoagulants and antiplatelets; **and a sensitive, direct opportunity to disclose violence or assault**, asked privately.
+- **Examination:** **A–E and vital signs, including postural blood pressure where the patient is stable** — and again, **a young woman compensates well and tachycardia may be the only early sign of major loss**.
+  - Pallor, perfusion, conscious state.
+  - **Abdominal examination** — tenderness, peritonism, a palpable uterus and, in pregnancy, **fundal height and uterine tone**.
+  - **In an ongoing pregnancy beyond the first trimester: assess the fetus** — fetal heart rate, and involve obstetrics immediately.
+  - **Speculum examination** to see the source, the amount, whether the os is open, and any local lesion — **and specifically to identify a cervical cause that will otherwise be attributed to the uterus**.
+  - **Bimanual examination** — uterine size, tenderness, cervical motion tenderness, adnexal masses. **Withhold digital vaginal examination in any woman beyond the first trimester with bleeding until placenta praevia has been excluded.**
+  - **Postpartum: palpate the uterine fundus for tone and rub it up if atonic**, inspect the perineum and vagina for tears, and check whether the bladder is distended (a distended bladder prevents uterine contraction).
+- **First-line Ix:**
+  - **β-hCG — urine or serum, in every woman of reproductive age, first.**
+  - **FBC, blood group and antibody screen, coagulation profile including fibrinogen, UEC, LFTs**; **crossmatch** with the number of units matched to the clinical picture, and **activate the massive transfusion protocol** if bleeding is torrential.
+  - **Transvaginal or transabdominal ultrasound** — for pregnancy location and viability, placental site, retained products, endometrial thickness and adnexal pathology.
+  - **Endocervical and high vaginal swabs, plus NAAT for chlamydia and gonorrhoea** where infection is possible.
+  - **Cervical screening test** if due — but **a visible or suspicious cervical lesion needs colposcopy and biopsy, not a screening test**, which is a common and consequential error.
+  - **Endometrial sampling and ultrasound assessment of endometrial thickness** in **any postmenopausal bleeding** — referral for this is mandatory, not discretionary.
+  - **TFTs, ferritin and iron studies, and coagulation screening including von Willebrand studies** where heavy menstrual bleeding is chronic.
+  - **Anti-D immunoglobulin** consideration in any Rh-negative woman with bleeding in pregnancy.
+
+> [!danger] **Three rules carried from this presentation.** **(1) No digital vaginal examination in bleeding beyond the first trimester until placenta praevia is excluded** — it can provoke catastrophic haemorrhage. **(2) In abruption the visible blood loss can be a fraction of the actual loss**, so resuscitate to the physiology and not to what is on the pad. **(3) Postmenopausal bleeding is endometrial carcinoma until investigation says otherwise** — a single episode warrants referral, and attributing it to atrophy without investigation is the error that delays diagnosis.
+> **Specific uterotonic agents and doses for postpartum haemorrhage are deliberately omitted** — they are protocol-specific, and the Australian sources are egress-blocked. The intern-level actions are: **call for help early, rub up the fundus, empty the bladder, gain large-bore access, take bloods and crossmatch, and start resuscitation** while the obstetric team is on the way.
+
+## Acute Pelvic Pain
+
+- **DDx:** **the first action in every case is a pregnancy test**, because it splits the differential.
+  - **Pregnancy-related:** **ectopic pregnancy**, miscarriage, corpus luteum cyst rupture, and in later pregnancy, abruption and labour.
+  - **Gynaecological:** **ovarian torsion** (sudden severe unilateral pain with nausea and vomiting, often with an ovarian cyst or mass — **a surgical emergency where the ovary is salvageable only with prompt detorsion**, and where **Doppler flow may still be present, so a normal Doppler does not exclude it**), **ovarian cyst rupture or haemorrhage**, **pelvic inflammatory disease and tubo-ovarian abscess**, endometriosis, degenerating fibroid, ovarian hyperstimulation syndrome, Mittelschmerz, dysmenorrhoea, haematocolpos in an adolescent with primary amenorrhoea.
+  - **Non-gynaecological — and these cause a large share of "pelvic pain" presentations:** **appendicitis**, diverticulitis, **urinary tract infection and pyelonephritis**, **ureteric colic**, constipation, inflammatory bowel disease, mesenteric adenitis, hernia, and **musculoskeletal and pelvic floor causes**.
+- **Focused Hx:** **last menstrual period and pregnancy possibility**; onset (**sudden and severe suggests torsion, rupture or ectopic**), site, radiation and severity; **relationship to the menstrual cycle**; **vaginal bleeding or discharge**; **dyspareunia — deep or superficial — and dyschezia**, which point toward endometriosis or PID; fever; urinary and bowel symptoms; **nausea and vomiting** (prominent in torsion); **sexual history and STI risk, taken privately and without assumption**; contraception including **IUD**; **assisted reproduction** (torsion and OHSS risk); previous pelvic surgery, ectopic, PID or known cysts; and **a private, direct opportunity to disclose violence or non-consensual sex**.
+- **Examination:** vital signs including temperature, with **an assessment for peritonism and for haemodynamic compromise**; abdominal examination for guarding, rebound, and localised versus generalised tenderness, and for a palpable mass; **speculum examination** for discharge, bleeding, cervical appearance and a visible IUD thread; **bimanual examination for cervical motion tenderness, adnexal tenderness or mass, and uterine size and mobility**, with consent and a chaperone; examination of the hernial orifices; and **renal angle tenderness**.
+- **First-line Ix:** **β-hCG first, always**; **FBC, CRP, UEC, group and hold**; **urinalysis and urine culture**; **endocervical and high vaginal swabs with NAAT for chlamydia and gonorrhoea**; **pelvic ultrasound, preferably transvaginal** — for adnexal masses, free fluid, tubo-ovarian abscess and pregnancy location, **noting that ultrasound is operator-dependent and that a normal scan does not exclude torsion or early PID**; **CT abdomen/pelvis** where a gastrointestinal or urological cause is more likely and the patient is not pregnant; **lactate and blood cultures** where sepsis is suspected; and **diagnostic laparoscopy**, which remains the definitive investigation for suspected torsion and for endometriosis.
+
+> [!warning] **Pelvic inflammatory disease is under-diagnosed and under-treated, and the threshold for empirical treatment is deliberately low** — because the tests are insensitive and the consequences of missing it (tubal infertility, chronic pelvic pain, ectopic pregnancy) are long-term and irreversible. **Treat on clinical suspicion in a sexually active young woman with pelvic pain and cervical motion, uterine or adnexal tenderness, once pregnancy and surgical causes have been considered — do not wait for swab results.** **The antibiotic regimen is deliberately omitted** — Australian STI management guidelines are egress-blocked, and the regimen changes with resistance patterns. Use the current Australian STI guidelines and arrange **partner notification and testing**, which is part of the treatment, not an afterthought.
 
 ---
 
-## Primary amenorrhoea
+## Build status of this file
 
-**D**: failure to start menstruating by:
-- 15yo in girls with normal secondary sexual characteristics, OR
-- 13yo in girls with no secondary sexual characteristics
+| Tier | Count | Status |
+|---|---|---|
+| **T1** | 1 | **Built** — Acute Vaginal Bleeding |
+| **T2** | 1 | **Built** — Acute Pelvic Pain |
+| T3 | 22 | Not built |
 
-**A/P**
+## Topics skipped in this category
 
-*In those with normal sexual characteristics*
-- Physiological causes
-- Genito-urinary malformations (e.g. imperforate hymen)
-- Endocrine disorders: hyper/hypothyroidism, hyperprolactinaemia, Cushing's syndrome
+All eight skips are T3.
 
-*In those with no secondary sexual characteristics — due to primary ovarian insufficiency*
-- Chromosomal irregularities (e.g. Turner syndrome)
-- Hypothalamic-pituitary dysfunction (e.g. stress, weight loss)
+| Topic | Matched header | File | Match type |
+|---|---|---|---|
+| **Chronic Pelvic Pain** | `## Chronic pelvic pain` | `17_05_PID__Endometriosis__Fibroids.md` | Exact |
+| **Dyspareunia** | `### Dyspareunia` | `17_05_PID__Endometriosis__Fibroids.md` | Exact |
+| **Menorrhagia** | `## Menorrhagia` | `17_02_Menorrhagia__PMS__Menopause__HRT.md` | Exact |
+| **Primary Amenorrhoea** | `## Primary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Exact |
+| **Secondary Amenorrhoea** | `## Secondary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Exact |
+| **Amenorrhoea** | `## Primary amenorrhoea` + `## Secondary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Partial — **judgement call**: the bare topic matches no header, but both sub-forms exist as their own entries. Overrule me if you want a general Amenorrhoea approach built. |
+| **Abnormal Uterine Bleeding** | `## Abnormal Uterine Bleeding — Approach and DDx` | `17_02_Menorrhagia__PMS__Menopause__HRT.md` | Partial |
+| **Vaginal Discharge** | `## Vaginal discharge — differential diagnosis` | `17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse.md` | Partial |
 
-**Ix**
-- Exclude pregnancy (bHCG)
-- FBC, U&Es, coeliac screen, thyroid function test
-- Gonadotrophins: ↓LH/FSH ≈ hypothalamic cause; ↑LH/FSH ≈ ovarian problem or gonadal dysgenesis (e.g. Turner's)
-- Prolactin, oestradiol
-- Androgen — may be ↑ in PCOS
+> [!note] **`Vaginal Bleeding` (T3) is a separate list topic from the T1 `Acute Vaginal Bleeding` built here** and matched no header; it remains unbuilt and will overlap with this entry when reached.
 
-**Mx**: treat underlying cause. If primary ovarian insufficiency is due to gonadal dysgenesis, patient may benefit from HRT.
 
----
+<!-- ===== SOURCE: O4_Abnormal_and_Menstrual_Bleeding.md ===== -->
 
-## Secondary amenorrhoea
 
-**D**: cessation of menstruation:
-- For 3–6 months in women with previously normal and regular menses, OR
-- For 6–12 months in women with previous oligomenorrhoea
-
-### Causes
-
-*Without features of androgen excess*
-- Physiological causes (pregnancy, lactation, menopause)
-- Hypothalamic dysfunction (chronic illness/stress, excessive exercise)
-- Hyper/hypothyroidism
-- Primary ovarian insufficiency (e.g. chemo, radiotherapy)
-- Sheehan syndrome (postpartum hypopituitarism due to pituitary necrosis)
-- Asherman syndrome (intrauterine adhesions)
-
-*With features of androgen excess* (hirsutism, acne, virilisation)
-- PCOS
-- Cushing's syndrome
-- Late-onset congenital adrenal hyperplasia
-- Androgen-secreting tumours of the ovary or adrenal gland
-
-**Ix**: as per primary amenorrhoea.
-
-**Mx**: exclude pregnancy, lactation, and menopause (if ≥40yo); treat underlying cause.
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, classification and discriminators are reliable at intern level. **Every age threshold, endometrial thickness cut-off, dose and regimen carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **RANZCOG** statements, the **Australasian Menopause Society**, eTG, and the **National Cervical Screening Program**.
+>
+> **Contraception, STIs and cervical screening are built in [[O6]]** and are cross-referenced rather than repeated.
 
 ---
 
-## Polycystic ovarian syndrome (PCOS)
+## 0.1 Terminology and the PALM-COEIN Framework
 
-**D**: condition of ovarian dysfunction involving hyperandrogenism, oligomenorrhoea, and polycystic ovaries.
+> [!warning] The old terms have been abandoned
+> **"Menorrhagia", "metrorrhagia", "menometrorrhagia" and "dysfunctional uterine bleeding" are obsolete** — they were used inconsistently and conveyed little.
+> **Describe bleeding by its parameters instead: FREQUENCY · DURATION · REGULARITY · VOLUME · and the presence of INTERMENSTRUAL or UNSCHEDULED bleeding.**
+> `UNVERIFIED — the normal ranges for cycle length, duration and volume.`
 
-**R**: FHx, early onset of pubic/axillary hair and apocrine sweat gland development (adrenarche), obesity.
+> [!info] PALM-COEIN — the organising classification for abnormal uterine bleeding
+> **STRUCTURAL causes — PALM (things you can see on imaging or histology):**
+> **· P — POLYP**
+> **· A — ADENOMYOSIS**
+> **· L — LEIOMYOMA (fibroid)**
+> **· M — MALIGNANCY and hyperplasia**
+> **NON-STRUCTURAL causes — COEIN:**
+> **· C — COAGULOPATHY**
+> **· O — OVULATORY dysfunction**
+> **· E — ENDOMETRIAL (local haemostatic disorders)**
+> **· I — IATROGENIC (contraception, anticoagulants, other drugs)**
+> **· N — NOT otherwise classified**
+> **The value of the framework is that it forces consideration of the non-structural causes**, which are otherwise overlooked once a fibroid is found on ultrasound — and a fibroid may be an incidental finding rather than the cause.
 
-**A/P**: unknown; possible inheritance and insulin resistance components; overlaps with metabolic syndrome.
+> [!danger] Pregnancy test first, every time
+> **In any woman of reproductive age with abnormal bleeding, exclude pregnancy before anything else.**
+> **Ectopic pregnancy, miscarriage and gestational trophoblastic disease all present as abnormal bleeding**, and a missed ectopic is a preventable death. Cross-refer [[O1]].
 
-**S/smx**
-- Obesity (PCOS does not *cause* obesity, but many women with PCOS are obese)
-- Subfertility and infertility
-- Menstrual disturbances: oligomenorrhoea and amenorrhoea
-- Features of hyperandrogenism: hirsutism, acne
-- Acanthosis nigricans (due to insulin resistance)
+---
 
-> [!info] Rotterdam diagnostic criteria (≥2 of 3)
-> - Polycystic ovaries (≥12 follicles, or ovarian volume >10cm³ on US)
-> - Oligo-ovulation or anovulation
-> - Clinical and/or biochemical signs of hyperandrogenism (e.g. ↑LH:FSH ratio)
+## 0.2 Heavy Menstrual Bleeding
 
-**Ix**
-- Pelvic US for ovarian cysts
-- Baseline bloods: FSH, LH, TSH, prolactin, testosterone, SHBG (prolactin/testosterone may be normal or mildly elevated; SHBG normal to low in PCOS)
-- Check for impaired glucose tolerance
+**D:** **Excessive menstrual blood loss that interferes with a woman's physical, social, emotional or material quality of life.** **This is a patient-centred definition — there is no measured volume threshold in practice**, and the older figure was never usable clinically.
 
-**Mx**: *weight loss* is central.
-- **Hirsutism and acne**: COCP (third generation) — balance against VTE risk; if no response, trial of topical eflornithine or other drugs under specialist supervision
-- **Infertility**: clomifene (induces ovulation), metformin, or combination; ovarian drilling for those not responding to clomifene; COCP to control bleeding and ↓endometrial cancer risk
+> [!tip] Ask questions that actually quantify impact
+> **· "Do you flood through onto clothes or bedding?"**
+> **· "Do you pass clots, and how big?"**
+> **· "How often are you changing — and do you have to change during the night?"**
+> **· "Do you use two products at once?"**
+> **· "Have you missed work, school or social activities because of it?"**
+> **· Symptoms of iron deficiency — fatigue, breathlessness, pica, restless legs, hair loss.**
+> **"Are your periods heavy?" gets an unreliable answer** — women have no comparator and frequently normalise what they have always experienced.
+
+> [!danger] Screen for a bleeding disorder — a meaningful minority have one
+> **A substantial proportion of women with heavy menstrual bleeding since MENARCHE have an underlying bleeding disorder — most commonly VON WILLEBRAND DISEASE.**
+> **This is systematically under-recognised**, and these women are treated with escalating hormonal therapy, and sometimes hysterectomy, without the diagnosis ever being made — while remaining at risk of postpartum and surgical haemorrhage.
+> **Screen if: heavy bleeding since the FIRST period · postpartum haemorrhage · bleeding after dental extraction or surgery · frequent epistaxis · easy bruising · or a family history of bleeding.**
+> Cross-refer [[A9]] 0.3 and [[J3]].
+
+> [!tip] The structural and endocrine causes worth knowing
+> **· FIBROIDS — very common. SUBMUCOSAL fibroids cause the most bleeding despite often being the smallest**; intramural and subserosal fibroids cause bulk symptoms (pressure, urinary frequency, abdominal distension) more than bleeding.
+> **· ADENOMYOSIS — endometrial tissue within the myometrium, causing HEAVY AND PAINFUL periods with a bulky, tender, "boggy" uterus.** Under-diagnosed, and increasingly recognised on imaging.
+> **· POLYPS — typically intermenstrual bleeding.**
+> **· OVULATORY DYSFUNCTION — irregular, unpredictable bleeding.** Causes: **PCOS, thyroid disease, hyperprolactinaemia, perimenopause, adolescence (an immature hypothalamic-pituitary-ovarian axis in the first years after menarche), and stress, weight change or excessive exercise.**
+> **· IATROGENIC — hormonal contraception (especially the implant and progestogen-only methods), anticoagulants, copper IUD, and some psychotropics via prolactin.**
+
+> [!warning] Management — the LNG-IUS is first-line, and one common prescription does not work
+> **· LEVONORGESTREL INTRAUTERINE SYSTEM — the most effective medical treatment, and first-line for most women** who do not have distorting structural pathology. It also provides contraception and endometrial protection.
+> **· TRANEXAMIC ACID — non-hormonal, taken only during bleeding days, effective and useful for women who want to conceive or decline hormones.**
+> **· NSAIDs — reduce blood loss AND treat dysmenorrhoea simultaneously**, which makes them a sensible first addition.
+> **· Combined hormonal contraception**, including continuous or extended regimens.
+> **· CYCLICAL LUTEAL-PHASE PROGESTOGEN (e.g. norethisterone for days 15–26) IS NOT EFFECTIVE FOR HEAVY MENSTRUAL BLEEDING** — it is still prescribed, and it does not work. **Higher-dose, longer-course progestogen regimens do reduce bleeding**, but the short luteal-phase regimen should not be used for this indication.
+> **· IRON REPLACEMENT — routinely forgotten.** Treat the iron deficiency as well as the bleeding, and **treat it on the basis of FERRITIN, not just haemoglobin.**
+> **· Surgical: hysteroscopic polypectomy or myomectomy, endometrial ablation, uterine artery embolisation, and hysterectomy.**
+> `UNVERIFIED — all doses and regimens.`
+
+**Ix:** **Pregnancy test** (*why:* first, always; *what:* positive). **FBC AND FERRITIN** (*why:* **iron deficiency without anaemia is common, symptomatic and treatable, and a normal haemoglobin does not exclude it** — checking only the FBC misses the majority; *what:* anaemia, low ferritin). TFTs (*why:* thyroid dysfunction causes ovulatory disturbance and is easily corrected; *what:* abnormal TSH). **Coagulation screen and von Willebrand studies where the history suggests a bleeding disorder** (*why:* the diagnosis changes management, surgical planning and obstetric care; *what:* vWF antigen and activity, factor VIII). **Transvaginal ultrasound** (*why:* identifies fibroids, polyps, adenomyosis and endometrial thickening — **transvaginal is substantially better than transabdominal for the endometrium and adnexa**; *what:* structural pathology, endometrial thickness). **Endometrial sampling where there are risk factors for hyperplasia or malignancy** — persistent intermenstrual bleeding, age over a threshold, obesity, PCOS, tamoxifen, failed medical treatment, or thickened endometrium (*why:* endometrial hyperplasia and cancer occur in premenopausal women, particularly with chronic anovulation; *what:* histology — `UNVERIFIED — the age and risk thresholds`). Hysteroscopy (*why:* directly visualises and treats focal lesions that blind sampling misses; *what:* polyps, submucosal fibroids, focal lesions).
+
+---
+
+## 0.3 Intermenstrual, Postcoital and Postmenopausal Bleeding
+
+> [!danger] Postmenopausal bleeding is endometrial cancer until proven otherwise
+> **ANY bleeding after 12 months of amenorrhoea requires urgent investigation — regardless of how light it is, and even if it is a single episode.**
+> **A meaningful proportion of postmenopausal bleeding is due to endometrial carcinoma**, and it is the presenting symptom in the large majority of endometrial cancers — which is why it is one of the more curable gynaecological cancers when acted on.
+> **"It was only a spot, once" is not a reason to defer investigation.**
+
+> [!tip] The causes of postmenopausal bleeding
+> **· Atrophic vaginitis and endometrial atrophy — the commonest**, and reassuring once cancer is excluded.
+> **· Endometrial polyps.**
+> **· Endometrial hyperplasia — with or without atypia.**
+> **· ENDOMETRIAL CARCINOMA.**
+> **· Cervical pathology — including cervical carcinoma. EXAMINE THE CERVIX.**
+> **· Hormone therapy-related bleeding.**
+> **· Non-gynaecological — urethral, bladder or rectal bleeding mistaken for vaginal.** Ask, and examine.
+
+> [!warning] The risk factors are all about unopposed oestrogen
+> **· OBESITY — peripheral aromatisation of androgens to oestrogen in adipose tissue. The single most important modifiable factor, and rising.**
+> **· Chronic anovulation, including PCOS** — cross-refer [[I4]] 0.6.
+> **· Nulliparity, early menarche, late menopause.**
+> **· TAMOXIFEN — which is oestrogenic on the endometrium while antioestrogenic on breast.**
+> **· Oestrogen-only hormone therapy in a woman with a uterus.**
+> **· Diabetes and hypertension.**
+> **· LYNCH SYNDROME — hereditary non-polyposis colorectal cancer, which carries a high lifetime risk of endometrial cancer. Ask about the family history of bowel, endometrial and ovarian cancer**, because it changes screening for the woman and her relatives. Cross-refer [[C5]] 0.5.
+
+> [!tip] Investigating postmenopausal bleeding
+> **· TRANSVAGINAL ULTRASOUND measuring ENDOMETRIAL THICKNESS** — below a defined threshold in a woman not on hormone therapy, the risk of cancer is low. `UNVERIFIED — the threshold, which differs for women on tamoxifen and on hormone therapy.`
+> **· ENDOMETRIAL SAMPLING (Pipelle)** where the endometrium is thickened or the bleeding persists.
+> **· HYSTEROSCOPY** where sampling is inadequate or non-diagnostic, where bleeding recurs, or where a focal lesion is suspected.
+> **The important caveat: a THIN endometrium does not exclude malignancy in a woman with PERSISTENT or RECURRENT bleeding, or on TAMOXIFEN** — persistent bleeding warrants hysteroscopy regardless of the ultrasound. **Blind sampling can miss focal lesions.**
+
+> [!danger] Intermenstrual and postcoital bleeding — do a speculum examination
+> **Postcoital bleeding in particular demands direct visualisation of the cervix.**
+> **Causes: cervical ectropion, cervical polyp, cervicitis (particularly CHLAMYDIA — test for it), and CERVICAL CARCINOMA.**
+> **Check the cervical screening history** — an overdue or never-screened woman with postcoital bleeding needs prompt colposcopy referral, and **a normal screening test does NOT exclude cancer in a woman with symptoms**, because screening is not designed for symptomatic assessment. Cross-refer [[O6]] 0.2.
+> **The examination is the investigation here, and skipping it is how cervical cancers are missed in young women.**
+
+**Ix:** **Speculum examination and inspection of the cervix** (*why:* cervical pathology is visible and is missed without looking; *what:* lesion, polyp, ectropion, discharge). **Chlamydia and gonorrhoea NAAT** (*why:* cervicitis is a common and treatable cause of intermenstrual and postcoital bleeding; *what:* infection). Cervical screening test if due, **with colposcopy referral for a visible or suspicious lesion regardless of screening result** (*why:* symptomatic assessment differs from screening; *what:* HPV, cytology, colposcopic findings). **Transvaginal ultrasound, endometrial sampling and hysteroscopy as above** (*why:* excludes endometrial pathology; *what:* thickness, histology). Pregnancy test in premenopausal women (*why:* always; *what:* positive).
+
+---
+
+## 0.4 Amenorrhoea
+
+> [!tip] Primary versus secondary, and the compartment approach
+> **PRIMARY — no menarche by a defined age**, or by a younger age if there is no secondary sexual development. `UNVERIFIED — the age thresholds.`
+> **SECONDARY — cessation of previously established menstruation** for a defined interval.
+> **PREGNANCY TEST FIRST, in both.**
+> **Then work through the compartments:**
+> **1. OUTFLOW TRACT** — imperforate hymen or transverse vaginal septum (with **cyclical pain and a haematocolpos** — a young woman with cyclical pain and no periods needs examination), **Asherman syndrome** (intrauterine adhesions after instrumentation or infection), cervical stenosis, and **Müllerian agenesis (MRKH)**.
+> **2. OVARY** — **primary ovarian insufficiency**, PCOS, **Turner syndrome**, and damage from chemotherapy or radiotherapy.
+> **3. PITUITARY** — **prolactinoma and other causes of hyperprolactinaemia**, Sheehan syndrome, other tumours, and infiltrative disease. Cross-refer [[I4]] 0.1–0.2.
+> **4. HYPOTHALAMUS** — **functional hypothalamic amenorrhoea**, and **Kallmann syndrome (with ANOSMIA — ask about the sense of smell)**.
+> **5. OTHER ENDOCRINE** — thyroid disease, congenital adrenal hyperplasia, Cushing syndrome, androgen-secreting tumours.
+
+> [!warning] In primary amenorrhoea, the secondary sexual characteristics localise the problem
+> **· BREAST DEVELOPMENT present → oestrogen has been produced → the axis has worked at some point → think outflow tract obstruction, or Müllerian agenesis, or androgen insensitivity.**
+> **· Breast development ABSENT → oestrogen deficiency → is the FSH high (ovarian failure — Turner syndrome) or low (hypothalamic-pituitary)?**
+> **· PUBIC AND AXILLARY HAIR reflects androgen action** — **absent in complete androgen insensitivity syndrome despite normal breast development**, which is the distinguishing combination.
+> **FSH is the branch point once oestrogen deficiency is established: HIGH means the ovary has failed; LOW or normal means the problem is above it.**
+
+> [!danger] Functional hypothalamic amenorrhoea and relative energy deficiency
+> **Suppression of the hypothalamic-pituitary-ovarian axis by low energy availability — from restricted intake, excessive exercise, or both — plus psychological stress.**
+> **Common in athletes, dancers, and women with disordered eating, and it is a diagnosis of exclusion.**
+> **The consequence that matters is BONE: prolonged oestrogen deficiency in a young woman causes bone loss at the age when peak bone mass should be accruing, and it may not be fully recoverable. STRESS FRACTURES are the presenting orthopaedic manifestation.** Cross-refer [[L5]] 0.7.
+> **Relative Energy Deficiency in Sport (RED-S)** extends beyond the older "female athlete triad" and affects multiple systems in both sexes.
+> **The treatment is restoring energy availability — not the oral contraceptive pill, which masks the amenorrhoea, does not restore bone density, and removes the most useful clinical marker of recovery.** Cross-refer [[N8]].
+
+> [!danger] Primary ovarian insufficiency needs hormone therapy until the usual age of menopause
+> **Loss of ovarian function before age 40, with raised FSH on two occasions.**
+> **These women need OESTROGEN REPLACEMENT (with progestogen if they have a uterus) UNTIL AROUND THE AVERAGE AGE OF NATURAL MENOPAUSE — not as optional symptom relief, but to protect BONE and CARDIOVASCULAR health.**
+> **This is a different risk-benefit calculation from menopausal hormone therapy in an older woman, and the fears generated by the WHI do NOT apply** — these women are being brought up to a normal physiological state, not given supraphysiological hormones. **Under-treatment of POI is common and harmful.**
+> **Also address: fertility (spontaneous conception is possible but uncommon; discuss options and refer), the psychological impact of an unexpected loss of fertility, and the search for a cause — karyotype, fragile X premutation, autoimmune and adrenal antibodies.**
+
+**Ix:** **Pregnancy test** (*why:* the commonest cause of secondary amenorrhoea; *what:* positive). **FSH, LH and oestradiol** (*why:* localises to ovary versus hypothalamic-pituitary; *what:* high FSH in ovarian failure, low or normal in central causes). **Prolactin and TFTs** (*why:* both common, both treatable, and both easily missed; *what:* hyperprolactinaemia, thyroid dysfunction — cross-refer [[I4]] 0.2). **Testosterone and androgens where there is hirsutism or virilisation** (*why:* PCOS, congenital adrenal hyperplasia, androgen-secreting tumour; *what:* elevation — cross-refer [[I4]] 0.6). **Pelvic ultrasound** (*why:* confirms the presence and structure of uterus and ovaries, and identifies outflow obstruction and polycystic morphology; *what:* anatomy). **Karyotype in primary amenorrhoea and in POI** (*why:* Turner syndrome and other chromosomal causes, with implications for management and counselling; *what:* chromosomal abnormality). **MRI pituitary** where a central cause or hyperprolactinaemia (*why:* pituitary lesion; *what:* adenoma). **Bone density where amenorrhoea has been prolonged** (*why:* oestrogen deficiency causes bone loss, and the loss is silent; *what:* reduced density). Assessment of energy availability, eating patterns and exercise load (*why:* functional hypothalamic amenorrhoea is the commonest cause in young women and is reversible; *what:* the underlying behaviour).
+
+---
+
+## 0.5 Dysmenorrhoea and Endometriosis
+
+> [!tip] Primary versus secondary dysmenorrhoea
+> **PRIMARY — no underlying pathology.** Prostaglandin-mediated uterine contraction and ischaemia. **Begins within a year or two of menarche once cycles become ovulatory**, occurs with each period, and **responds well to NSAIDs and hormonal contraception.**
+> **SECONDARY — underlying pathology.** **Later onset, progressive worsening, associated with other symptoms (deep dyspareunia, abnormal bleeding, bowel or bladder symptoms), and less responsive to simple measures.**
+> **A change in the character of period pain in a woman who previously had manageable periods is the flag.**
+
+> [!danger] Endometriosis — the diagnostic delay is measured in years, and normalisation is why
+> **Endometrial-like tissue outside the uterus, causing inflammation, adhesions and pain.**
+> **The average delay from symptom onset to diagnosis is many years**, and the largest contributor is **the normalisation of severe menstrual pain** — by the woman, by her family, and by clinicians.
+> **"Period pain that stops you doing normal activities is not normal" is the single most useful thing to say**, and asking whether pain has caused absence from school or work quantifies it usefully.
+> **Symptoms: cyclical pelvic pain and dysmenorrhoea · DEEP DYSPAREUNIA · cyclical dyschezia or haematochezia · cyclical urinary symptoms · SUBFERTILITY · and fatigue.**
+> **Over time the pain frequently becomes NON-cyclical and chronic, through central sensitisation** — which is why longstanding endometriosis needs a chronic pain approach as well as a gynaecological one. Cross-refer [[L3]] 0.5.
+
+> [!warning] Two things that make endometriosis hard to diagnose
+> **1. SYMPTOMS CORRELATE POORLY WITH DISEASE EXTENT.** Extensive disease can be relatively asymptomatic, and minimal disease can be severely painful. **Do not use imaging findings to validate or dismiss the reported pain.**
+> **2. A NORMAL ULTRASOUND DOES NOT EXCLUDE ENDOMETRIOSIS.** Ultrasound detects endometriomas and, in skilled hands, deep infiltrating disease — **but superficial peritoneal disease is not visible on any imaging.**
+> **Examination may also be entirely normal**, though a fixed retroverted uterus, uterosacral nodularity or focal tenderness supports the diagnosis.
+
+> [!tip] Laparoscopy is no longer required before starting treatment
+> **This is a genuine change from older teaching.** **Empirical medical treatment on the basis of a compatible history is appropriate and recommended**, rather than requiring surgical confirmation first.
+> **Management:**
+> **· NSAIDs**, started before or at the onset of pain.
+> **· HORMONAL SUPPRESSION — continuous combined oral contraception (skipping the hormone-free interval), progestogens, the LNG-IUS, or GnRH analogues with add-back therapy for refractory disease.** The aim is to suppress cyclical activity.
+> **· SURGERY — laparoscopic excision** for diagnosis and treatment where medical management fails or where there is deep infiltrating disease or endometrioma.
+> **· FERTILITY — discuss early**, since endometriosis affects fertility and treatment decisions interact with reproductive plans.
+> **· A MULTIDISCIPLINARY CHRONIC PAIN APPROACH — pelvic floor physiotherapy, psychology, and pain management** — for established chronic pain, which is under-provided.
+> **Australia has a National Action Plan for Endometriosis**, reflecting the recognised diagnostic delay and service gaps. `UNVERIFIED — current initiatives and referral pathways.`
+
+**Ix:** **Transvaginal ultrasound** (*why:* detects endometrioma, adenomyosis and deep infiltrating disease, and excludes other pathology — **while a normal scan does not exclude endometriosis**; *what:* endometrioma, adenomyosis, nodules, immobility of organs). **MRI pelvis** in suspected deep infiltrating disease (*why:* maps disease involving bowel, bladder and ureters for surgical planning; *what:* deep nodules, organ involvement). Pregnancy test and STI screen (*why:* pelvic inflammatory disease and pregnancy complications are differentials; *what:* infection, pregnancy). **CA-125** is **not** recommended for diagnosing endometriosis (*why:* it is neither sensitive nor specific and generates confusion; *what:* not indicated for this purpose). Laparoscopy (*why:* the definitive diagnosis and simultaneous treatment — **but not a prerequisite to starting medical therapy**; *what:* visualised and histologically confirmed disease).
+
+---
+
+## 0.6 Menopause and Hormone Therapy
+
+**D:** **Menopause is defined retrospectively as 12 months of amenorrhoea** in the absence of another cause. **Perimenopause** is the preceding transition with fluctuating hormones and irregular cycles. **Premature menopause (before 40) is primary ovarian insufficiency** — see 0.4. `UNVERIFIED — the average age of menopause in Australia.`
+
+> [!danger] In a woman over 45 with typical symptoms, menopause is a CLINICAL diagnosis — do not check FSH
+> **FSH fluctuates markedly during the perimenopause, and a single measurement can be entirely normal in a woman who is unmistakably perimenopausal.**
+> **Checking it delays treatment, generates confusion, and adds nothing.**
+> **FSH is useful in specific circumstances: in women under 40 where primary ovarian insufficiency is suspected, and where the picture is atypical.**
+
+> [!tip] The symptoms, and which ones resolve
+> **· VASOMOTOR — hot flushes and night sweats. These usually improve over years, though they persist for a long time in a substantial minority.**
+> **· Sleep disturbance, mood change, anxiety, and cognitive complaints ("brain fog").**
+> **· Joint and muscle aches — common and frequently not attributed to menopause.**
+> **· GENITOURINARY SYNDROME OF MENOPAUSE — vaginal dryness, irritation, dyspareunia, urinary urgency, frequency and recurrent urinary tract infections.**
+> **The critical distinction: vasomotor symptoms IMPROVE with time, but GENITOURINARY SYMPTOMS ARE PROGRESSIVE AND DO NOT RESOLVE WITHOUT TREATMENT.** **This is why waiting them out is the wrong advice for GSM.**
+
+> [!danger] The WHI was over-interpreted, and a generation of women was under-treated
+> **The Women's Health Initiative findings were widely reported as showing that hormone therapy causes breast cancer and cardiovascular disease, and prescribing collapsed internationally.**
+> **The problems with that interpretation: the trial population was OLDER (average age well above the age of menopause), many were MANY YEARS past menopause, the formulations used are not those most used now, and the absolute risks were small and frequently reported as relative risks.**
+> **Current position: for SYMPTOMATIC women under 60, or within 10 years of menopause, and without contraindications, the benefits of menopausal hormone therapy generally OUTWEIGH the risks** — for symptom control, quality of life and bone protection.
+> **The consequence of the over-interpretation is that many women have endured years of severe symptoms unnecessarily, and many clinicians remain reflexively reluctant.** `UNVERIFIED — the current Australasian Menopause Society position, absolute risk figures and the "timing hypothesis".`
+
+> [!warning] The practical prescribing points
+> **· OESTROGEN PLUS PROGESTOGEN if the woman has a UTERUS — the progestogen is for ENDOMETRIAL PROTECTION.** **Oestrogen alone in a woman with a uterus causes endometrial hyperplasia and cancer.**
+> **· Oestrogen ALONE after hysterectomy.**
+> **· TRANSDERMAL oestrogen (patch or gel) AVOIDS the increased VTE risk associated with ORAL oestrogen**, because it bypasses hepatic first pass. **This makes transdermal the preferred route in women with VTE risk factors, obesity, migraine, or hypertension** — and it is an easy, concrete point that improves safety.
+> **· Breast cancer risk relates mainly to COMBINED therapy and increases with DURATION** — the absolute increase is small and comparable to other lifestyle factors, and it should be presented in absolute terms so the woman can decide.
+> **· Contraindications: current or past oestrogen-dependent cancer, undiagnosed abnormal bleeding, active VTE or thrombophilia (for oral), active liver disease, and established coronary or cerebrovascular disease.**
+> **· Non-hormonal options: SSRIs and SNRIs, gabapentin, clonidine, and cognitive behavioural therapy**, for women who cannot or prefer not to take hormones. Newer non-hormonal agents targeting the thermoregulatory pathway are emerging.
+> **· AVOID compounded "bioidentical" hormones** — they are unregulated, of unverified dose and purity, lack evidence, and often lack adequate endometrial protection.
+> `UNVERIFIED — all agents, doses, formulations and PBS availability.`
+
+> [!danger] Vaginal oestrogen for genitourinary syndrome is safe, effective, and vastly under-prescribed
+> **Low-dose vaginal oestrogen has MINIMAL systemic absorption.**
+> **It is effective for vaginal dryness, dyspareunia, urinary urgency and RECURRENT URINARY TRACT INFECTIONS in postmenopausal women** — and the effect on recurrent UTI is substantial and under-used.
+> **It does not require systemic progestogen for endometrial protection at the doses used, and it can be used long-term.**
+> **It can be considered in many women with a history of breast cancer, in discussion with their oncologist** — a blanket prohibition denies effective treatment for a genuinely distressing problem.
+> **It is under-prescribed largely because nobody asks about the symptoms.** **Ask.** Cross-refer [[O6]] 0.5 and [[O5]].
+
+**Ix:** **Usually none in a woman over 45 with typical symptoms.** **FSH in women under 40, or where the presentation is atypical** (*why:* diagnosing primary ovarian insufficiency, which requires different management; *what:* raised FSH on two occasions). TFTs (*why:* thyroid dysfunction mimics menopausal symptoms closely and is easily excluded; *what:* abnormal TSH). **Investigation of any abnormal or postmenopausal bleeding, before and during hormone therapy** (*why:* unscheduled bleeding on hormone therapy still requires exclusion of endometrial pathology; *what:* endometrial assessment — see 0.3). **Blood pressure, lipids, glucose and cardiovascular risk assessment** (*why:* cardiovascular risk rises after menopause and this is a natural point to assess it; *what:* risk factors). **Bone density where risk factors are present, and in primary ovarian insufficiency** (*why:* accelerated bone loss follows oestrogen withdrawal; *what:* reduced density — cross-refer [[GER1]] 0.6). Breast and cervical screening status (*why:* the consultation is an opportunity; *what:* overdue screening).
+
+### 0.6.1 Mx – Immediate
+Not applicable.
+
+### 0.6.2 Mx – Definitive
+Symptom-directed: hormone therapy where appropriate, non-hormonal alternatives otherwise, and **vaginal oestrogen for genitourinary symptoms regardless of whether systemic therapy is used.**
+
+### 0.6.3 Mx – Chronic/long-term
+**Annual review of ongoing hormone therapy — indication, dose, route and whether it is still needed** — with the recognition that there is no arbitrary maximum duration, and the decision is individualised. **Bone health, cardiovascular risk, and cancer screening.** **Contraception is still required in the perimenopause** — cross-refer [[O6]] 0.3.
+
+---
+
+> [!note] Cross-references
+> Contraception, the LNG-IUS and enzyme inducers → [[O6]] 0.3 · STIs, cervical screening and sexual dysfunction → [[O6]] 0.1–0.2, 0.5 · Early pregnancy bleeding and ectopic pregnancy → [[O1]] · Pelvic pain, PID and vulval conditions → [[O5]] · Breast assessment → [[O7]] · PCOS, hyperprolactinaemia and androgen excess → [[I4]] 0.2, 0.6 · Thyroid disease → [[I1]] · Bleeding disorders and von Willebrand disease → [[A9]] 0.3 and [[J3]] · Iron deficiency anaemia → [[J1]] · Osteoporosis and bone protection → [[GER1]] 0.6 · Chronic pelvic pain and central sensitisation → [[L3]] 0.5 · Stress fractures and RED-S → [[L5]] 0.7 · Disordered eating → [[N8]] · Lynch syndrome and family cancer history → [[C5]] 0.5
 
 
 <!-- ===== SOURCE: 17_02_Menorrhagia__PMS__Menopause__HRT.md ===== -->
@@ -2260,225 +3574,390 @@ Most severe form of PMS.
 - Thrombophilic disorder
 
 
-<!-- ===== SOURCE: 17_03_Termination_of_Pregnancy_and_Miscarriage.md ===== -->
+<!-- ===== SOURCE: 17_01_FGM__Amenorrhoea__PCOS.md ===== -->
 
 
-> [!info] Localised for Australia — verified against the Termination of Pregnancy Act 2021 (SA) directly (via SA Legislation and the SA Law Handbook), and cross-checked against other states' legislation, Aug 2026. **Every Australian state and territory has decriminalised abortion**, but — genuinely unlike the UK's single national framework — there is **no single Australian abortion law**; each state/territory has its own act with its own gestational limit and process, so the specific threshold below is jurisdiction-dependent and must be checked against the relevant state/territory for any patient outside SA.
+> [!info] Localised for Australia — FGM legal framework rebuilt around South Australian legislation (Criminal Law Consolidation Act 1935 (SA)) specifically, with the broader national picture (all states/territories criminalise FGM independently) as context, verified Aug 2026. See the FGM entry below for full detail.
 
-## Termination of pregnancy (TOP)
+## Female genital mutilation (FGM)
 
-> [!danger] Legal framework — South Australia specifically (Termination of Pregnancy Act 2021), given this is the directly relevant jurisdiction for a Flinders University student; other states differ and are summarised below.
-> - **On request up to 22 weeks and 6 days** — the pregnant person's informed consent alone is sufficient; no requirement for a second doctor's agreement below this threshold.
-> - **Beyond 22 weeks and 6 days ("late-term"):** requires **two medical practitioners** to agree that, in all the circumstances, either: the termination is necessary to save the life of the pregnant person or another fetus; continuation of the pregnancy would involve significant risk of injury to the physical or mental health of the pregnant person; or there is a case, or significant risk, of serious fetal anomalies. In an emergency, the second-practitioner requirement doesn't apply.
-> - Early medication abortion (EMA) can be prescribed/administered by a range of registered health practitioners (not only doctors), including via telehealth, and is approved for use up to 9 weeks (63 days) gestation.
-> - No minimum SA residency period required.
-> - A practitioner with a conscientious objection must disclose this and refer the patient to a health professional who can provide the care — not simply decline.
-> - Information about access to counselling (including publicly funded services) must be offered, but counselling itself is not mandatory.
+**D**: removal or partial removal of external female genitalia, or injury to other internal female genital organs.
 
-> [!info] Other states/territories — gestational limits (on-request, before a second-practitioner requirement applies) as of Aug 2026; **always verify current legislation directly for the specific jurisdiction, given this is an actively evolving area of law**:
-> - **Victoria:** 24 weeks
-> - **NSW:** 22 weeks
-> - **Queensland:** 22 weeks
-> - **Western Australia:** 23 weeks
-> - **Tasmania:** 16 weeks
-> - **ACT:** no specified gestational limit
-> - **Northern Territory:** limits differ by procedure type (medical vs surgical) — check current NT legislation directly
->
-> Beyond each state's threshold, the general pattern (not universal) is that two medical practitioners must agree the termination is appropriate on specified grounds (risk to physical/mental health, fetal anomaly) — but the specific grounds, documentation, and any additional requirements (e.g. approved-facility requirements, mandatory considerations) differ by jurisdiction and should be checked directly rather than assumed uniform.
+> [!danger] Legal status — South Australia specifically (Criminal Law Consolidation Act 1935 (SA), ss 33/33A/33B), verified Aug 2026; **FGM is illegal in every Australian state and territory**, via each jurisdiction's own legislation, not a single national law — this is genuinely different from the UK's single national framework, similar to the pattern seen with abortion law.
+> - FGM is a crime under SA legislation, with a maximum penalty of 7 years imprisonment (penalties vary by state — up to 21 years in NSW following a 2014 amendment).
+> - **Consent is not a defence** — neither the affected person's own consent, nor a parent's or guardian's consent, provides any legal defence.
+> - **Extraterritorial provisions apply**: it is a specific offence under SA law to take a child from the state, or arrange for a child to be taken from the state, with intent that they undergo FGM — this applies even if the procedure itself occurs entirely overseas, given Australian FGM law extends to acts committed outside Australia against Australian residents.
+> - SA courts can make protective orders under the Children and Young People (Safety) Act 2017 (SA) where a child is assessed to be at risk of being removed from the state for FGM — including orders preventing a specified person from removing the child, and orders for the child's passport to be held by the court.
+> - **It is illegal not to report FGM in Australia** — genuinely broader than a UK-style "engage safeguarding" framing; every Australian has a responsibility to report suspected FGM or planned removal for FGM to police, and this can be done anonymously.
+> - Engage child safeguarding for any suspected case, consistent with the general principle already established elsewhere in this project.
+> - A genuine, honestly-reported practical nuance: despite criminalisation across all jurisdictions, prosecutions under Australian FGM law remain rare in practice — worth knowing as a real gap between the law as written and enforcement in practice, not something to gloss over.
 
-**General points relevant across jurisdictions**
-- If patient <16yo presents for TOP: standard principles of consent for minors apply — see [[Clinical-Process-EBM-Consent-Capacity]] Consent and children, where Gillick competence is set out, not repeated here; specific parental involvement requirements vary by state.
-- Safe access zones (typically 150m) around clinics, prohibiting protest/harassment, are in place in most jurisdictions.
+- Traditionally practised in parts of Africa, India, and Indonesia — not limited to any particular cultural or religious group.
 
-### Medical/drug options
-- Mifepristone followed 48h later by prostaglandin (e.g. misoprostol) — "mimics a miscarriage"; doses depend on gestation
-- May be done at home depending on gestation; timing is not predictable
-- Requires a multi-level pregnancy test (bHCG) at 2w to confirm pregnancy has ended
-
-### Surgical options
-- Vacuum aspiration (MVA), electric vacuum aspiration (EVA), dilation and evacuation (D&E)
-- Cervical priming with misoprostol ± mifepristone before procedures
-- Various anaesthetic options (LA or GA)
-- Intrauterine contraceptive can be inserted immediately following the procedure
-
-### Choice of procedure
-
-
-| Gestation | Options |
-|---|---|
-| <9w | Usually medical methods used at home; still 5% chance of needing surgical procedure afterward |
-| >9w | Choice between medical and surgical methods |
-| >21+6w | Essential that fetus is born dead (unless lethal fetal abnormality) — 3mL intracardiac 15% potassium chloride, confirm asystole with US |
-
-> [!note] If born after 24w, the dead fetus is considered a stillbirth and must be registered. If signs of life, a death certificate is required.
-
-**Before TOP**: offer counselling + support; US to confirm gestation and identify non-viable/ectopic pregnancy; screen for STIs; give antibiotic prophylaxis if surgical option used; discuss contraception; do Rhesus testing and give anti-D prophylaxis if Rh-negative (**250 IU before 13 weeks, 625 IU from 13 weeks** — owned by [[16_01-05_Antenatal_Care]] Use of anti-D).
-
-> [!warning] **The gestational threshold for anti-D after termination is unresolved between the two entries.** This entry said **"if ≥10w"**; the owner entry says give it to **all** having surgical or medical terminations, with no gestational floor. Both positions exist in real guidance — the argument for a floor is that a very early *medical* termination with no instrumentation carries minimal fetomaternal haemorrhage risk — so this is a genuine question rather than a transcription slip. **The threshold has been removed here rather than asserted either way**, because omitting anti-D when it is indicated causes sensitisation that only surfaces in a *later* pregnancy, and is untraceable by then. See `PENDING_GUIDELINE_CHECKS.md` **B62**. Found by the G37 confirmation pass, 2026-08-29.
-
-**Complications of TOP**
-- Failed TOP <1:100 (medical failure rate higher than surgical)
-- Infection ~2:100
-- Haemorrhage <1:1000 (higher risk if ≥20w)
-- Uterine perforation 1–4:1000 (surgical only)
-- Uterine rupture <4:1000
-- Cervical trauma 1:100
-- Retained products of conception 1:100 (requires surgical evacuation)
-
-*For stillbirth, see Obstetrics 16.12.*
-
----
-
-## Miscarriage
-
-**D**: involuntary, spontaneous loss of pregnancy before 20 weeks' gestation (the Australian definition — genuinely different from the UK's 24-week threshold, not just relabelled; loss at/after 20 weeks, or a birthweight ≥400g, is classified as stillbirth in Australia). Occurs in roughly 1 in 7 pregnancies (up to 1 in 8 women will have a miscarriage at some point in their life); recognised as likely under-reported given many occur before a pregnancy is confirmed.
-
-> [!info] Descriptive terms
-> | Term | Description |
+> [!info] WHO classification
+> | Type | Description |
 > |---|---|
-> | Threatened | Painless vaginal bleeding <24w, typically 6–9w; bleeding often less than menses; cervical os closed; complicates ≤25% of pregnancies |
-> | Inevitable | Heavy bleeding with clots and pain; open cervical os |
-> | Incomplete | Not all products of conception expelled; pain and vaginal bleeding; open cervical os |
-> | Complete | — |
-> | Missed/delayed | Gestational sac containing a dead fetus before 20w without symptoms of expulsion; closed cervical os; usually painless, light bleeding may be present |
-> | Recurrent | Spontaneous loss of ≥2–3 consecutive pregnancies before 20w (Australian threshold; RANZCOG defines recurrent miscarriage as ≥2 losses for initial Ix purposes) |
+> | I | Partial/total removal of clitoris and/or prepuce |
+> | II | Partial/total removal of clitoris and labia minora ± excision of labia majora |
+> | III (infibulation) | Narrowing of vaginal orifice with creation of a covering seal by cutting and appositioning the labia minora and/or majora ± clitoral excision |
+> | IV | Any other harmful non-medical procedure to female genitalia (e.g. pricking, piercing) |
 
-**R**: older age (associated with chromosomal abnormalities), uterine malformation, bacterial vaginosis, thrombophilia, parental chromosomal anomaly, vitamin D deficiency.
-
-**A**: primary embryonic disease/disorder/damage; chromosomal abnormalities; maternal genital tract dysfunction or exposure to high-dose toxic agents.
-
-**S/smx**: vaginal bleeding ± clots; ± pain (suprapubic or low back); recent post-coital bleed (2x odds of miscarriage in women reporting post-coital bleeding during pregnancy).
-
-**Ix**
-- Transvaginal US differentiates stages/types
-  - Consider miscarriage if gestational sac mean diameter ≥25mm with no visible yolk sac/fetal pole, or crown-rump length ≥7mm with no fetal heart activity
-- Serum bHCG titres if miscarriage status uncertain
-  - >50% drop in 48h suggests failing pregnancy → refer for early pregnancy assessment service review within 24h
-  - Rise ≥50% in 48h suggests possible ongoing pregnancy
-- Other bloods (FBC, Rhesus, antibodies) or vaginal swab as clinically indicated
-  - **Rhesus status is checked here and this entry never said what to do with it.** Rh-negative women need **anti-D** where the miscarriage is managed surgically or medically, or where a spontaneous miscarriage requires evacuation — but **anti-D is *not* recommended for threatened miscarriage before 12 weeks**, which is the distinction that decides the common case. Doses and the full indication list are owned by [[16_01-05_Antenatal_Care]] Use of anti-D. Added by the G37 round, 2026-08-29.
-
-### Mx — 3 approaches
-
-**Expectant Mx** — waiting for spontaneous miscarriage; generally preferred. Offer medical/surgical Mx if unsuccessful or risk factors present (↑haemorrhage risk — late first trimester or coagulopathy; previous adverse/traumatic pregnancy experience; evidence of infection).
-
-**Medical Mx**
-- Missed miscarriage: PO mifepristone, then misoprostol (PV/PO/sublingual) 48h later; if no bleeding within 48h of misoprostol, advise to return
-- Incomplete miscarriage: single dose misoprostol (PV/PO/sublingual)
-- Offer antiemetics and pain relief
-- Pregnancy test 3w later
-
-**Surgical Mx**
-- Vacuum aspiration (suction curettage) — can be performed under LA as outpatient
-- Surgical Mx in theatre requires GA (= evacuation of retained products of conception)
-
----
-
-## Recurrent miscarriage
-
-**D**: loss of ≥3 consecutive pregnancies before 20w with the same biological father (Australian gestational threshold — RANZCOG's Clinical Guideline for Abortion Care and Miscarriage uses 20 weeks, not the UK's 24; RANZCOG also supports considering Ix after just 2 losses in some circumstances, rather than waiting for a 3rd).
-
-**R**: the more miscarriages, the worse the prognosis.
-
-**Ix guided by likely causes**
-
-| Cause | Notes |
-|---|---|
-| Infection | Bacterial vaginosis associated with 2nd trimester loss; screening/treatment recommended for those with previous mid-trimester miscarriage |
-| Parental chromosome abnormality | Parents may be phenotypically normal but 50–75% of gametes may be affected; refer to clinical geneticist; karyotype fetal products on 3rd and subsequent losses — if unbalanced abnormality identified, karyotype both parents' peripheral blood |
-| Antiphospholipid syndrome | APS antibodies (lupus, phospholipid, anticardiolipin); diagnosed if 2 positive tests taken 12w apart; present in 15% of women with recurrent miscarriage; Mx with aspirin from +ve pregnancy test + LMWH (e.g. enoxaparin) once fetal heart seen on US; associated with high risk of other complications (e.g. pre-eclampsia) — monitor with experienced obstetrician |
-| Thrombophilia | Blood tests to determine; heparin ↓miscarriage risk |
-| Alloimmune causes | — |
-| Uterine malformations | Previous uterine surgery ↑uterine rupture risk |
-
-
-<!-- ===== SOURCE: 17_04_Ectopic_Pregnancy_and_GTD.md ===== -->
-
-
-## Ectopic pregnancy
-
-**D**: implantation and growth of a fertilised ovum outside the uterine endometrial cavity.
-- 96% in fallopian tube (most in the ampulla; more dangerous if in the isthmus)
-- ~3% ovaries, ~1% abdomen
-
-> [!info] Gap-filled — the "6–8 week" rupture timing and "more dangerous if in the isthmus" were both stated as bare facts, without the shared anatomical mechanism connecting them. **Unlike the uterus, which is specifically structured to expand progressively throughout pregnancy, the fallopian tube has a genuinely limited capacity to distend** — as the trophoblastic/gestational tissue grows within the tube, it eventually exceeds what the tubal wall can accommodate, causing either rupture or erosion through the wall. This tubal-capacity limit is precisely why symptoms and rupture cluster around 6–8 weeks — enough time for growth to reach the tube's structural limit, but rarely much longer. **The isthmus specifically is the narrowest part of the tube**, meaning it has even less capacity to distend before failing — an isthmic ectopic reaches its structural limit and ruptures **earlier and more catastrophically** than an ampullary ectopic (the wider, most common site), which has comparatively more room to expand before failing. This is precisely why isthmic location is flagged as "more dangerous" — it's a direct consequence of the same tubal-capacity mechanism, not a separate, unrelated risk factor.
-
-**R**: previous ectopic pregnancy, previous tubal sterilisation surgery, IUD use, previous genital infections (and their risk factors, including multiple sexual partners), chronic salpingitis, endometriosis, infertility, smoking, IVF.
-
-**A/P**: causes broadly divide into conditions hampering transfer of the fertilised oocyte to the uterine cavity, and conditions predisposing to premature implantation.
-
-**S/smx**
-- History of amenorrhoea — symptoms generally appear 6–8w after last normal menstrual period
-
-> [!warning] **Ectopic pregnancy is a sensitising event — give anti-D to Rh-negative women.** This entry did not mention it, while the molar pregnancy entry below in this same file does. [[16_01-05_Antenatal_Care]] Use of anti-D owns the doses (**250 IU before 13 weeks**, 625 IU from 13 weeks) and names ectopic pregnancy explicitly among the indications. Added by the G37 round, 2026-08-29.
-- Abdominal pain (tubal spasm) — constant and classically unilateral
-- Vaginal bleeding — less than normal period, dark brown
-- Peritoneal bleeding (2° ruptured ectopic) may present as shoulder tip pain, or pain on defecation/urination
-- ↑blood loss (2° rupture) may present as anaemia (dizziness, fainting, syncope)
-- Pregnancy symptoms (e.g. breast tenderness) may be reported
-- Examination: cervical motion tenderness, adnexal mass/tenderness; dilated cervix may suggest miscarriage instead
-
-**Ix**
-- Serum bHCG >1500 suggestive of ectopic pregnancy
-- High-resolution transvaginal US to locate pregnancy — "bagel sign" = empty gestational sac; if pregnancy cannot be located → **pregnancy of unknown location**; transabdominal US is less sensitive
-- If patient in shock (or approaching it): FBC + crossmatch 6 units + senior help ASAP
-
-**Mx — depends on presentation**
-
-> [!info] Verified against O&G Magazine (RANZCOG-affiliated) coverage of Australian ectopic pregnancy guidelines, Aug 2026 — **the thresholds below are genuinely consistent with Australian practice**, not UK-specific figures needing replacement: NSW guidelines specifically use an hCG <1000 IU/L threshold for expectant management, matching the table below exactly. One genuinely useful Australian state-specific addition not in the original note: **methotrexate administration route varies by hCG level in Queensland guidance specifically** — IM if β-hCG ≤3000 IU/L, IV if >3000 IU/L — whereas NSW practice typically uses IM regardless of level; check current local protocol for the specific route given this is genuinely state-variable, not a single national standard.
-
-> | Approach | Criteria |
-> |---|---|
-> | **Expectant** | Low risk, haemodynamically stable, asymptomatic, evidence of resolving ectopic; size <35mm, hCG <1000 IU/L. Close monitoring over 48h with serial bHCG to confirm decline |
-> | **Medical** | Similar criteria to expectant, but cannot be used if there is a co-existing intrauterine pregnancy; size <35mm, hCG <1500 IU/L; methotrexate given (route — IM or IV — varies by local/state protocol and hCG level, see note above); requires patient willingness to attend follow-up |
-> | **Surgical** | Size >35mm, ruptured, pain, visible fetal heartbeat, and/or hCG >5000 IU/L; salpingectomy or salpingotomy |
-
-- **Salpingectomy** (removal of fallopian tube): first-line if no other infertility risk factors
-- **Salpingotomy** (removal of ectopic from tube only): consider if patient has other infertility risk factors (e.g. contralateral tube damage) — 20% will require further treatment (methotrexate or salpingectomy)
-
-### Pregnancy of unknown location (PUL)
-- Diagnosed when there is no sign of intrauterine or ectopic pregnancy, or retained products of conception, in the presence of a +ve pregnancy test (serum hCG >5 IU)
-- **DDx**: early intrauterine pregnancy (too early to see on scan), complete miscarriage, failing pregnancy (unseen on scan but will resolve), ectopic pregnancy (10%), persistent PUL, hCG-secreting tumour
-- Mx according to symptoms
-
----
-
-## Gestational trophoblastic disease (GTD)
-
-**D**: group of conditions including tumours arising from placental trophoblasts.
-- **Hydatidiform moles** (aka molar pregnancy): pregnancies with chromosomal abnormalities that have potential to become malignant
-- **Gestational trophoblastic neoplasia (GTN)**: persistent locally invasive and/or metastatic trophoblastic tumour (different subtypes)
-
-**R**: extremes of maternal age (<20yo or >35yo), prior molar pregnancy.
-
-**A/P**: presence of excess paternal chromosomes ± other mechanisms — e.g. empty egg fertilised by a single sperm that duplicates its own DNA (all 46 chromosomes of paternal origin).
-- **Complete moles**: no evidence of fetal parts, fetal circulation, or fetal RBCs
-- **Partial moles**: histological/macroscopic evidence of the above
-- Both types produce very high hCG levels due to abnormal, hydropic chorionic villi
-
-**S/smx**
-- Bleeding in 1st or early 2nd trimester
-- Exaggerated pregnancy symptoms (e.g. hyperemesis)
-- Uterus large for dates
-- Very high hCG levels
-- ± HTN and hyperthyroidism (hCG mimics TSH action)
-
-**Ix**: serum hCG (very high); pelvic US ("snowstorm appearance" of mixed echogenicity in complete moles); histological exam of placental tissue.
+**Complications**
+- Acute: death, blood loss, sepsis, pain, urinary retention, infections (HIV, hepatitis, tetanus)
+- Long-term: apareunia (inability to have intercourse), superficial dyspareunia, anorgasmia, sexual dysfunction, chronic pain, scarring, slow urination, UTIs
+- Maternal (in pregnancy/labour): PPH, ↑risk of C-section, episiotomy, fistula, difficulty examining/catheterising
 
 **Mx**
-- Urgent referral to specialist centre; evacuate uterus under GA (risk of thyroid storm post-op); give anti-D if Rh-negative
-- Monitor hCG for ≥6 months — should normalise by 6mo; avoid pregnancy until hCG normalises
-- If levels don't normalise: either invasive mole or progression to choriocarcinoma
+- Defibulation (reconstructive surgery of infibulated scar) — may be done antenatally; if not done antenatally, deliver in a unit with emergency obstetric care available. Offer epidural if vaginal exam poorly tolerated or episiotomy anticipated.
+- Screen for hepatitis C
+- Repair post-delivery should control bleeding
 
-> [!info] Indications for chemotherapy
-> - hCG ≥20,000 IU/L at ≥4w post-evacuation
-> - Static or rising hCG after evacuation (without new pregnancy)
-> - Raised hCG at 6 months post-evacuation, even if declining
-> - Heavy vaginal bleeding, or GI/intraperitoneal bleeding
-> - Evidence of brain, liver, or GI metastases, or lung opacities >2cm
-> - Histology of choriocarcinoma
+> [!danger] Re-infibulation is illegal.
 
-**P**: 15–20% of complete molar pregnancies and up to 5% of partial molar pregnancies develop GTN. Cure rate >95%.
+---
+
+## Normal menstrual cycle (physiology primer)
+
+| Day | Hormonal change | Ovarian cycle | Uterine cycle |
+|---|---|---|---|
+| 0–4 | — | — | Menses |
+| 4–14 | LH/FSH stimulate follicular maturation; oestradiol secreted by maturing follicle | Follicular phase: maturation of dominant follicle into Graafian follicle (mainly FSH-driven) | Proliferative phase; laying down new endometrial layer (oestrogen-driven) |
+| 14 | GnRH surge → LH surge just before ovulation | **Ovulation** | — |
+| 14–28 | Progesterone secreted by corpus luteum; LH/FSH levels decrease | Luteal phase: post-ovulation corpus luteum (LH/FSH helps corpus luteum formation) | Secretory phase: endometrium receptive to implantation (progesterone-supported) |
+
+---
+
+## Primary amenorrhoea
+
+**D**: failure to start menstruating by:
+- 15yo in girls with normal secondary sexual characteristics, OR
+- 13yo in girls with no secondary sexual characteristics
+
+**A/P**
+
+*In those with normal sexual characteristics*
+- Physiological causes
+- Genito-urinary malformations (e.g. imperforate hymen)
+- Endocrine disorders: hyper/hypothyroidism, hyperprolactinaemia, Cushing's syndrome
+
+*In those with no secondary sexual characteristics — due to primary ovarian insufficiency*
+- Chromosomal irregularities (e.g. Turner syndrome)
+- Hypothalamic-pituitary dysfunction (e.g. stress, weight loss)
+
+**Ix**
+- Exclude pregnancy (bHCG)
+- FBC, U&Es, coeliac screen, thyroid function test
+- Gonadotrophins: ↓LH/FSH ≈ hypothalamic cause; ↑LH/FSH ≈ ovarian problem or gonadal dysgenesis (e.g. Turner's)
+- Prolactin, oestradiol
+- Androgen — may be ↑ in PCOS
+
+**Mx**: treat underlying cause. If primary ovarian insufficiency is due to gonadal dysgenesis, patient may benefit from HRT.
+
+---
+
+## Secondary amenorrhoea
+
+**D**: cessation of menstruation:
+- For 3–6 months in women with previously normal and regular menses, OR
+- For 6–12 months in women with previous oligomenorrhoea
+
+### Causes
+
+*Without features of androgen excess*
+- Physiological causes (pregnancy, lactation, menopause)
+- Hypothalamic dysfunction (chronic illness/stress, excessive exercise)
+- Hyper/hypothyroidism
+- Primary ovarian insufficiency (e.g. chemo, radiotherapy)
+- Sheehan syndrome (postpartum hypopituitarism due to pituitary necrosis)
+- Asherman syndrome (intrauterine adhesions)
+
+*With features of androgen excess* (hirsutism, acne, virilisation)
+- PCOS
+- Cushing's syndrome
+- Late-onset congenital adrenal hyperplasia
+- Androgen-secreting tumours of the ovary or adrenal gland
+
+**Ix**: as per primary amenorrhoea.
+
+**Mx**: exclude pregnancy, lactation, and menopause (if ≥40yo); treat underlying cause.
+
+---
+
+## Polycystic ovarian syndrome (PCOS)
+
+**D**: condition of ovarian dysfunction involving hyperandrogenism, oligomenorrhoea, and polycystic ovaries.
+
+**R**: FHx, early onset of pubic/axillary hair and apocrine sweat gland development (adrenarche), obesity.
+
+**A/P**: unknown; possible inheritance and insulin resistance components; overlaps with metabolic syndrome.
+
+**S/smx**
+- Obesity (PCOS does not *cause* obesity, but many women with PCOS are obese)
+- Subfertility and infertility
+- Menstrual disturbances: oligomenorrhoea and amenorrhoea
+- Features of hyperandrogenism: hirsutism, acne
+- Acanthosis nigricans (due to insulin resistance)
+
+> [!info] Rotterdam diagnostic criteria (≥2 of 3)
+> - Polycystic ovaries (≥12 follicles, or ovarian volume >10cm³ on US)
+> - Oligo-ovulation or anovulation
+> - Clinical and/or biochemical signs of hyperandrogenism (e.g. ↑LH:FSH ratio)
+
+**Ix**
+- Pelvic US for ovarian cysts
+- Baseline bloods: FSH, LH, TSH, prolactin, testosterone, SHBG (prolactin/testosterone may be normal or mildly elevated; SHBG normal to low in PCOS)
+- Check for impaired glucose tolerance
+
+**Mx**: *weight loss* is central.
+- **Hirsutism and acne**: COCP (third generation) — balance against VTE risk; if no response, trial of topical eflornithine or other drugs under specialist supervision
+- **Infertility**: clomifene (induces ovulation), metformin, or combination; ovarian drilling for those not responding to clomifene; COCP to control bleeding and ↓endometrial cancer risk
+
+
+<!-- ===== SOURCE: O5_Pelvic_and_Vulval_Conditions.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Clinical reasoning and discriminators are reliable at intern level. **Every regimen, size threshold, risk index and criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
+> **All antimicrobial regimens are omitted** — obtain from **eTG Antibiotic** and the **Australian STI Management Guidelines**. Ovarian cyst management thresholds and risk-of-malignancy indices should come from **RANZCOG**. **Transvaginal mesh is subject to regulatory restriction in Australia** — verify current status with the TGA.
+>
+> **Early pregnancy problems including ectopic pregnancy are built in [[O1]]**, **menstrual disorders and endometriosis in [[O4]]**, and **STIs in [[O6]] 0.2** — each is cross-referenced rather than repeated.
+
+---
+
+## 0.1 Acute Pelvic Pain
+
+> [!danger] Pregnancy test first — ectopic pregnancy until proven otherwise
+> **Any woman of reproductive age with acute pelvic or lower abdominal pain has an ectopic pregnancy until a negative pregnancy test says otherwise.**
+> **A ruptured ectopic is a preventable death**, and it presents in ways that are easily attributed elsewhere: shoulder tip pain, diarrhoea, dizziness, or collapse without abdominal pain being prominent.
+> **Do not rely on the reported last menstrual period** — bleeding in ectopic pregnancy is frequently mistaken for a period. **Do not rely on contraception** — no method is perfect, and **an IUD in situ INCREASES the proportion of pregnancies that are ectopic if conception occurs.** Cross-refer [[O1]].
+
+> [!tip] The differential, by system
+> **GYNAECOLOGICAL: ectopic pregnancy · miscarriage · OVARIAN TORSION · ruptured or haemorrhagic ovarian cyst · pelvic inflammatory disease and tubo-ovarian abscess · endometriosis · degenerating or torted fibroid · ovarian hyperstimulation syndrome.**
+> **GASTROINTESTINAL: appendicitis (the classic mimic — cross-refer [[C1]] 0.3) · diverticulitis · inflammatory bowel disease · constipation · irritable bowel syndrome.**
+> **URINARY: urinary tract infection · pyelonephritis · renal or ureteric colic · urinary retention.**
+> **OTHER: abdominal wall pain (a positive CARNETT sign — tenderness that persists or worsens on tensing the abdominal wall, indicating a wall rather than a visceral source) · musculoskeletal · referred spinal pain.**
+
+> [!danger] Red flags requiring immediate action
+> **· Haemodynamic instability · peritonism · a POSITIVE PREGNANCY TEST · fever with systemic illness · inability to pass urine · severe unilateral pain of sudden onset (torsion).**
+> **A young woman with a positive pregnancy test and haemodynamic instability goes to theatre, not to the scanner.**
+
+**S/Smx:** Onset, character, radiation, relation to the cycle, and associated bleeding, discharge, bowel and urinary symptoms. **Last menstrual period, cycle regularity, contraception, sexual history, and previous pelvic surgery or infection.**
+Examination: observations, abdominal examination, **and — where appropriate and consented — speculum and bimanual examination looking for cervical motion tenderness, adnexal tenderness or mass, and discharge.**
+
+**Ix:** **Urine or serum βhCG** (*why:* the branch point of the entire assessment; *what:* positive or negative — **and if positive, a quantitative serum level with ultrasound**). FBC, CRP, UEC (*why:* infection, inflammation, blood loss; *what:* leucocytosis, anaemia). **Urinalysis and mid-stream urine** (*why:* urinary tract infection is common and mimics gynaecological pain — **but a positive dipstick does not exclude the serious alternatives**, and it is a common source of premature closure; *what:* infection in clinical context). **Chlamydia and gonorrhoea NAAT** (*why:* pelvic inflammatory disease; *what:* infection). **Transvaginal ultrasound** (*why:* the imaging of choice for the pelvis — identifies intrauterine or ectopic pregnancy, adnexal masses, free fluid and tubo-ovarian abscess; *what:* the pelvic anatomy). **Group and hold** (*why:* preparation for possible surgery or haemorrhage; *what:* blood group). CT where a gastrointestinal or urological cause is more likely (*why:* appendicitis, diverticulitis, calculus; *what:* the alternative diagnosis).
+
+---
+
+## 0.2 Pelvic Inflammatory Disease
+
+**A/P:** **Ascending infection from the cervix to the endometrium, fallopian tubes, ovaries and pelvic peritoneum.** Usually **polymicrobial**, with **chlamydia, gonorrhoea and *Mycoplasma genitalium*** initiating, and anaerobes and other organisms involved.
+
+> [!danger] The diagnostic threshold should be LOW — treat empirically
+> **There is no reliable diagnostic test.** Clinical criteria are sensitive but not specific, ultrasound is often normal, and NAAT results take days and are frequently negative even in genuine PID.
+> **The asymmetry of consequences drives the decision: the cost of treating a woman who does not have PID is a course of antibiotics; the cost of missing it is TUBAL FACTOR INFERTILITY, ECTOPIC PREGNANCY and CHRONIC PELVIC PAIN.**
+> **So the minimum criteria for empirical treatment are deliberately low: pelvic or lower abdominal pain in a sexually active young woman, with CERVICAL MOTION TENDERNESS, OR uterine tenderness, OR adnexal tenderness on examination — with no other explanation.**
+> **Supporting features (not required): fever, abnormal cervical or vaginal discharge, raised inflammatory markers, positive NAAT.**
+> **The risk of tubal damage rises with each episode and with delay to treatment.**
+
+> [!tip] Two associated presentations worth recognising
+> **· FITZ-HUGH-CURTIS SYNDROME — perihepatitis producing RIGHT UPPER QUADRANT pain in a woman with PID**, from inflammatory adhesions between the liver capsule and the anterior abdominal wall. **It is mistaken for cholecystitis**, and the pelvic examination and sexual history are what make the diagnosis. Cross-refer [[C1]] 0.3.
+> **· TUBO-OVARIAN ABSCESS — a palpable or sonographic adnexal mass with systemic illness.** **Requires admission, intravenous antibiotics, and often drainage** — it does not resolve with oral therapy, and **rupture causes peritonitis and sepsis.**
+
+> [!warning] Management points
+> **· Empirical antibiotics covering chlamydia, gonorrhoea AND anaerobes.** `UNVERIFIED — regimens from eTG Antibiotic and ASHM.`
+> **· An IUD can generally be LEFT IN SITU while treatment begins, with review at 48–72 hours** and removal considered if there is no improvement. Removing it reflexively risks pregnancy without clear benefit. `UNVERIFIED — current advice.`
+> **· PARTNER NOTIFICATION AND TREATMENT is essential** — untreated partners cause reinfection, and this is where treatment most often fails. Cross-refer [[O6]] 0.1.
+> **· Advise abstinence until both partners have completed treatment.**
+> **· Admission criteria: pregnancy, severe illness, tubo-ovarian abscess, failure of oral therapy, inability to tolerate oral therapy, and diagnostic uncertainty requiring surgical exclusion.**
+> **· Review at 48–72 hours** — failure to improve should prompt reconsideration of the diagnosis and imaging for an abscess.
+
+**Ix:** **Chlamydia, gonorrhoea and *M. genitalium* NAAT from appropriate sites** (*why:* identifies the organism and directs partner notification — **but a negative result does not exclude PID and should not delay treatment**; *what:* organism). Pregnancy test (*why:* changes antibiotic choice and raises ectopic pregnancy as a differential; *what:* positive). FBC and CRP (*why:* severity and monitoring; *what:* inflammatory response). **Transvaginal ultrasound** (*why:* identifies tubo-ovarian abscess and hydrosalpinx, and excludes alternatives — **but is frequently NORMAL in uncomplicated PID and does not exclude it**; *what:* abscess, free fluid, tubal changes). HIV and syphilis serology (*why:* co-infection and an opportunity for broader screening; *what:* positive).
+
+### 0.2.1 Mx – Immediate
+**Empirical antibiotics on clinical suspicion.** Analgesia. Admission where criteria are met.
+
+### 0.2.2 Mx – Definitive
+Complete the course, treat partners, and drain an abscess if present.
+
+### 0.2.3 Mx – Chronic/long-term
+**Counselling about the implications for future fertility and ectopic risk**, retesting for reinfection, and contraception and STI prevention discussion.
+
+---
+
+## 0.3 Ovarian Pathology
+
+> [!danger] Ovarian torsion — a normal Doppler does NOT exclude it
+> **The ovary has a DUAL blood supply (ovarian and uterine arteries), and torsion is often intermittent and incomplete — so ARTERIAL FLOW IS FREQUENTLY PRESENT ON DOPPLER in a torted ovary.**
+> **Relying on the ultrasound report of "flow present" to exclude torsion is a recognised and serious error.**
+> **The diagnosis is clinical and surgical: sudden severe unilateral pelvic pain, often with prominent NAUSEA AND VOMITING, sometimes intermittent and recurrent (from partial torsion and detorsion), usually — but not always — with an ovarian mass or cyst present.**
+> **Higher risk: an ovarian cyst or mass above a threshold size, PREGNANCY, and OVULATION INDUCTION or IVF.**
+> **It is a surgical emergency — laparoscopic DETORSION preserves ovarian function, and even a dusky-looking ovary frequently recovers, so oophorectomy is usually unnecessary.** **Delay costs the ovary.** `UNVERIFIED — the cyst size threshold.`
+
+> [!tip] Functional and benign cysts
+> **· FOLLICULAR and CORPUS LUTEUM cysts — physiological, common, and usually resolve spontaneously over a couple of cycles.**
+> **· HAEMORRHAGIC cysts — acute pain, sometimes with haemoperitoneum and significant blood loss; usually managed conservatively unless haemodynamically significant.**
+> **· ENDOMETRIOMA** — cross-refer [[O4]] 0.5.
+> **· Dermoid (mature cystic teratoma), cystadenoma, and fibroma.**
+> **Management depends on MENOPAUSAL STATUS, SIZE and SONOGRAPHIC MORPHOLOGY** — simple unilocular cysts in premenopausal women are usually observed; complex, solid, septated or vascular features, and any cyst in a postmenopausal woman, warrant further assessment. `UNVERIFIED — the size and morphology thresholds and follow-up intervals.`
+
+> [!danger] Ovarian cancer — the symptoms are not silent, they are non-specific
+> **The "silent killer" framing is misleading and harmful: most women DO have symptoms before diagnosis, but the symptoms are vague and are attributed to other things.**
+> **The pattern that matters: PERSISTENT and NEW — occurring most days for more than a few weeks — of:**
+> **· ABDOMINAL BLOATING or increased abdominal size**
+> **· EARLY SATIETY or difficulty eating**
+> **· PELVIC OR ABDOMINAL PAIN**
+> **· URINARY URGENCY OR FREQUENCY**
+> **Plus: change in bowel habit, fatigue, weight loss, and postmenopausal bleeding.**
+> **A woman over 50 with new, persistent bloating and early satiety being investigated for irritable bowel syndrome should have a pelvic examination, a CA-125 and an ultrasound** — new-onset IBS-type symptoms in this age group are a recognised presentation of ovarian cancer.
+> **Risk factors: increasing age · BRCA1 and BRCA2 mutations · LYNCH SYNDROME · nulliparity · endometriosis (for clear cell and endometrioid types) · family history.**
+> **Protective: combined oral contraception, parity, breastfeeding, and tubal ligation or salpingectomy.**
+
+> [!warning] CA-125 — useful with caveats, useless without them
+> **RAISED in many benign conditions: endometriosis, fibroids, pelvic inflammatory disease, menstruation, pregnancy, ascites of any cause, liver disease, heart failure, and peritoneal inflammation.**
+> **NORMAL in a substantial proportion of early-stage ovarian cancers, and in most mucinous tumours.**
+> **It is therefore NOT a screening test and NOT a rule-out test.** Its role is **as part of a risk assessment alongside ultrasound and menopausal status**, and for **monitoring known disease.**
+> **Risk of malignancy indices and structured ultrasound rules combine these variables to triage referral.** `UNVERIFIED — the indices and their thresholds.`
+
+> [!danger] Refer suspected ovarian cancer to a gynaecological oncology service
+> **Survival is better when primary surgery is performed by a specialist gynaecological oncologist in an appropriate centre**, because complete cytoreduction is the strongest determinant of outcome and requires specific expertise.
+> **A suspicious adnexal mass should not be operated on by a general gynaecologist or general surgeon "to see what it is"** — an inadequate first operation compromises the whole subsequent course.
+
+> [!warning] Ovarian hyperstimulation syndrome
+> A complication of **ovulation induction and IVF**, usually presenting days after the trigger or after conception.
+> **Ovarian enlargement with capillary leak → ascites, pleural effusion, HAEMOCONCENTRATION, oliguria, and a significantly INCREASED VTE RISK including at unusual sites.**
+> **Severe cases require admission, careful fluid management, thromboprophylaxis and specialist input.**
+> **Any woman presenting with abdominal distension and breathlessness after fertility treatment should be assessed for it**, and it is easily mistaken for infection or a surgical abdomen.
+
+**Ix:** **Transvaginal ultrasound with Doppler** (*why:* the primary imaging modality — **with the explicit caveat that present flow does not exclude torsion**; *what:* cyst morphology, mass, free fluid, flow). Pregnancy test (*why:* corpus luteum cysts, ectopic pregnancy, and it changes management; *what:* positive). **CA-125, with tumour markers appropriate to age** — **in women under about 40, also AFP, βhCG and LDH** (*why:* germ cell tumours occur in young women and have different markers; *what:* marker elevation). CT chest, abdomen and pelvis where malignancy is suspected (*why:* staging and assessment of resectability; *what:* omental disease, ascites, nodes, metastases). FBC, UEC, LFT, albumin (*why:* baseline, and haemoconcentration in hyperstimulation; *what:* derangement). **Genetic assessment where there is a family history or a high-grade serous cancer** (*why:* BRCA and Lynch syndrome have implications for treatment (PARP inhibitors) and for relatives; *what:* pathogenic variant).
+
+### 0.3.1 Mx – Immediate
+**Urgent surgical referral for suspected torsion.** Resuscitation and surgery for a significantly bleeding cyst.
+
+### 0.3.2 Mx – Definitive
+Detorsion, cystectomy, or oncological surgery through the appropriate service.
+
+### 0.3.3 Mx – Chronic/long-term
+Surveillance of cysts managed conservatively. Genetic counselling and cascade testing where indicated. Fertility discussion.
+
+---
+
+## 0.4 Chronic Pelvic Pain
+
+**D:** **Pelvic pain persisting for six months or more**, non-cyclical or cyclical, sufficient to cause functional impairment.
+
+> [!tip] Several contributors usually coexist — which is why single-target treatment fails
+> **· Endometriosis and adenomyosis** — cross-refer [[O4]] 0.5.
+> **· Adhesions** — from previous surgery or infection.
+> **· PELVIC FLOOR MYOFASCIAL PAIN — overactive, tender pelvic floor musculature.** **Extremely common, readily identified by palpating the pelvic floor on vaginal examination, and highly treatable with pelvic floor physiotherapy — and it is under-diagnosed because the pelvic floor is not examined.**
+> **· Irritable bowel syndrome** — cross-refer [[C5]] 0.3.
+> **· Bladder pain syndrome / interstitial cystitis** — pain related to bladder filling, relieved by voiding, with urgency and frequency and sterile urine.
+> **· Nerve entrapment** — pudendal, ilioinguinal or iliohypogastric, particularly after Pfannenstiel incisions or hernia repair.
+> **· Musculoskeletal** — sacroiliac, hip and abdominal wall.
+> **· CENTRAL SENSITISATION** — cross-refer [[L3]] 0.5. Longstanding pelvic pain frequently develops a nociplastic component, which explains why removing the original peripheral cause may not resolve it.
+
+> [!danger] Ask about sexual violence, coercion and trauma
+> **Chronic pelvic pain has a strong association with a history of sexual and physical violence.**
+> **Ask privately, sensitively, and always with any accompanying person out of the room.**
+> **And conduct examinations with explicit, unhurried consent, with the ability to stop at any point** — an examination that reproduces trauma causes harm and ends the therapeutic relationship. Cross-refer [[GER4]] and [[O6]] 0.5.
+
+> [!warning] What harms these patients
+> **· Repeated laparoscopy** — each operation adds adhesions and rarely adds information after the first.
+> **· Escalating opioids** — ineffective for nociplastic pain and causing hyperalgesia and dependence. Cross-refer [[F0.4]] 0.9.
+> **· Serial specialist referrals without coordination**, each investigating one component.
+> **What helps: a single coordinating clinician, a multidisciplinary approach including PELVIC FLOOR PHYSIOTHERAPY and psychology, hormonal suppression where there is a cyclical component, neuropathic agents, and an explicit explanation of the pain mechanism.**
+
+**Ix:** **Examination including palpation of the pelvic floor muscles** (*why:* identifies myofascial pain, which is common and treatable, and takes moments; *what:* focal muscle tenderness reproducing the pain). Transvaginal ultrasound (*why:* excludes structural pathology; *what:* endometrioma, adenomyosis, mass). STI screen and urinalysis (*why:* treatable infective contributors; *what:* infection). **Consideration of the gastrointestinal and urological contributors on their own merits** (*why:* IBS and bladder pain syndrome are common and require different management; *what:* the pattern). **Not repeated imaging or repeated laparoscopy in the absence of new features** (*why:* it perpetuates the search and adds surgical morbidity; *what:* nothing useful).
+
+---
+
+## 0.5 Vulval Symptoms
+
+> [!danger] Look at the vulva — it is the most under-examined area in medicine
+> **Vulval symptoms are frequently managed over the phone or by repeated antifungal prescriptions without anyone examining the area.**
+> **The consequences are serious: lichen sclerosus goes untreated and causes irreversible architectural loss, and vulval cancers are diagnosed late.**
+> **Examine, with good light, with consent, and with a chaperone offered.**
+
+> [!warning] Lichen sclerosus — commonly misdiagnosed as thrush for years
+> **Intense vulval ITCH, often worse at night, with characteristic changes: WHITE, atrophic, "cigarette paper" or crinkled skin, in a FIGURE-OF-EIGHT distribution around the vulva and anus.**
+> **Progressive ARCHITECTURAL LOSS: resorption of the labia minora, fusion of the clitoral hood burying the clitoris, and narrowing of the introitus causing dyspareunia.** **These changes are irreversible once established.**
+> **Fissuring, purpura and erosions occur; the skin is fragile.**
+> **Two things make this important:**
+> **1. POTENT TOPICAL CORTICOSTEROID is the treatment, it is highly effective, and it PREVENTS progression of architectural change — so early diagnosis genuinely alters the outcome.** **Under-treatment through fear of steroid on genital skin is common and is the wrong instinct here.**
+> **2. There is an increased risk of VULVAL SQUAMOUS CELL CARCINOMA, so these women need LONG-TERM FOLLOW-UP, and any thickened, ulcerated, or non-responding area must be BIOPSIED.**
+> **It also occurs in prepubertal girls, where it is frequently mistaken for infection or for signs of abuse** — and in boys and men, causing phimosis.
+
+> [!danger] Biopsy any persistent vulval lesion
+> **Do not treat an undiagnosed vulval lesion with topical steroids indefinitely.**
+> **Any persistent ulcer, plaque, pigmented lesion, thickened area, or lesion that fails to respond to appropriate treatment requires BIOPSY.**
+> **Vulval intraepithelial neoplasia and vulval carcinoma present as itch, a lump, an ulcer or a plaque, and are routinely treated as dermatitis or thrush for months to years before biopsy.**
+> **The rule: if it is not better as expected, biopsy it.**
+
+> [!tip] The commoner vulvovaginal conditions
+> **· CANDIDIASIS** — itch with thick white discharge, normal vaginal pH. **Recurrent candidiasis warrants a glucose check and consideration of an alternative diagnosis** — much "recurrent thrush" is dermatitis, lichen sclerosus or vulvodynia.
+> **· BACTERIAL VAGINOSIS** — thin grey malodorous discharge, raised pH, "clue cells", and a positive whiff test. **Not sexually transmitted, but associated with sexual activity, and relevant in pregnancy.**
+> **· TRICHOMONAS** — frothy discharge, irritation, raised pH; sexually transmitted. Cross-refer [[O6]] 0.2.
+> **· CONTACT AND IRRITANT DERMATITIS** — **soaps, shower gels, wipes, panty liners, fragranced products, and OVER-WASHING.** **Ask what they are putting on it and how often they wash** — the treatment is frequently to stop doing something.
+> **· LICHEN PLANUS** — erosive, painful rather than itchy, with a characteristic violaceous border and Wickham striae, and it may involve the vagina and mouth, causing scarring.
+> **· VULVODYNIA** — vulval pain without an identifiable cause, provoked (on touch or intercourse) or unprovoked. **A positive diagnosis requiring multimodal management including pelvic floor physiotherapy, topical agents and neuromodulators.**
+> **· BARTHOLIN CYST AND ABSCESS** — drainage with a Word catheter or marsupialisation rather than simple incision, which recurs. **In women over about 40, consider malignancy and biopsy the wall.**
+
+> [!tip] Vulval care advice — worth giving explicitly
+> **Avoid soap, shower gel and bubble bath on the vulva — use water or a soap substitute · avoid wipes, deodorants and fragranced products · avoid over-washing · pat dry · cotton underwear, and none at night · avoid tight clothing · use an emollient as a barrier and a soap substitute.**
+> **This alone resolves a substantial proportion of chronic vulval symptoms**, and it is rarely given in enough detail to be useful.
+
+**Ix:** **Inspection with good lighting** (*why:* the diagnosis is usually visible and the area is under-examined; *what:* the appearance, distribution and architecture). **BIOPSY of any persistent, atypical or non-responding lesion** (*why:* VIN and carcinoma masquerade as benign dermatoses; *what:* histology). Vaginal pH and microscopy, and high vaginal and endocervical swabs (*why:* distinguishes candidiasis, bacterial vaginosis and trichomonas, which look similar clinically; *what:* organism, pH, clue cells). Glucose and HbA1c in recurrent candidiasis (*why:* undiagnosed diabetes; *what:* hyperglycaemia). Patch testing where contact dermatitis is suspected (*why:* identifies the allergen, often something still being used; *what:* allergen). STI screen where relevant (*why:* concurrent infection; *what:* positive).
+
+---
+
+## 0.6 Prolapse and Urinary Incontinence
+
+> [!tip] Pelvic organ prolapse
+> **Descent of the anterior vaginal wall (cystocele), posterior wall (rectocele), apex (uterine or vaginal vault) or enterocele**, graded with the POP-Q system.
+> **Symptoms: a sensation of a bulge or something coming down, dragging or heaviness, WORSE AT THE END OF THE DAY and with standing or lifting; voiding difficulty sometimes requiring digital reduction to void; defecatory dysfunction requiring splinting; and sexual dysfunction.**
+> **The degree of anatomical prolapse correlates poorly with symptoms** — treat the symptoms, not the POP-Q score.
+> **Risk factors: vaginal delivery and parity · increasing age and menopause · obesity · chronic raised intra-abdominal pressure (chronic cough, constipation, heavy lifting) · and connective tissue disorders.**
+
+> [!warning] Conservative management first — and the pessary is under-offered
+> **· PELVIC FLOOR MUSCLE TRAINING, supervised** — effective for mild to moderate prolapse and for symptoms.
+> **· Address the contributors: weight, CONSTIPATION, chronic cough, and heavy lifting.**
+> **· VAGINAL OESTROGEN** for atrophy, which improves tissue quality and symptoms.
+> **· PESSARY — effective, safe, reversible, avoids surgery, and suitable for many women including those unfit for or not wanting surgery. It requires fitting and REGULAR REVIEW (a neglected pessary erodes), but it is a genuinely good option that is offered far less often than it should be.**
+> **· Surgery** for those with persistent symptoms after conservative management.
+> **TRANSVAGINAL MESH for prolapse has been associated with significant and sometimes devastating complications, and its use has been substantially restricted by regulators in Australia.** **Women with mesh complications — chronic pain, erosion, dyspareunia, infection — need specialist referral, and their concerns should be taken seriously rather than dismissed.** `UNVERIFIED — the current TGA position and available products.`
+
+> [!danger] Pelvic floor muscle training is first-line for stress incontinence — and supervision matters
+> **Stress urinary incontinence — leakage on cough, laugh, sneeze or exertion — responds to SUPERVISED pelvic floor muscle training over an adequate period (typically at least three months).**
+> **"Do your pelvic floor exercises" as a verbal instruction is not treatment.** **A substantial proportion of women contract the wrong muscles or bear down when instructed without assessment**, so **referral to a pelvic floor physiotherapist, with assessment that the correct contraction is being achieved, is what makes the difference.**
+> **Surgical options (mid-urethral sling, colposuspension, bulking agents) come after** an adequate trial. **Note the mesh caveat above applies to some sling products.**
+
+> [!tip] The other incontinence types
+> The full classification is in **[[GER2]] 0.1.** The female-specific points:
+> **· URGE incontinence / overactive bladder** — bladder training and fluid modification first, then pharmacotherapy, **with attention to anticholinergic burden** — cross-refer [[GER1]] 0.4.
+> **· MIXED** — very common; treat the predominant component first.
+> **· OVERFLOW** — **bladder scan.** Consider prolapse causing outlet obstruction.
+> **· FISTULA** — continuous leakage without an urge component. **Obstetric fistula is rare in Australia but occurs after obstructed labour, and vesicovaginal fistula follows pelvic surgery or radiotherapy.** **Continuous leakage is a fistula until proven otherwise.**
+> **· FUNCTIONAL** — cross-refer [[GER2]] 0.1.
+
+> [!warning] Obstetric anal sphincter injury and faecal incontinence
+> **Third and fourth degree perineal tears cause anal sphincter injury, and the resulting faecal incontinence and urgency may present YEARS later, sometimes after the menopause when compensation fails.**
+> **Women rarely volunteer it — ask directly about flatus and faecal control in any woman with a history of instrumental or difficult vaginal delivery.**
+> **Pelvic floor physiotherapy, and referral to a colorectal or urogynaecology service, are effective and under-used.** Cross-refer [[C5]] 0.6 and [[O3]].
+
+**Ix:** **Examination including a POP-Q or descriptive assessment, and a cough stress test** (*why:* demonstrates the prolapse and demonstrable stress leakage; *what:* compartment and degree, leakage). **Bladder diary over several days** (*why:* the single most informative investigation in incontinence — establishes volumes, frequency, nocturia and the relationship to intake; *what:* the frequency-volume pattern). **Post-void residual bladder scan** (*why:* distinguishes overflow and identifies incomplete emptying from prolapse; *what:* residual volume). Urinalysis and culture (*why:* infection mimics and exacerbates urgency; *what:* infection). **Assessment of pelvic floor contraction, ideally by a physiotherapist** (*why:* determines whether training will work and whether the woman can contract correctly; *what:* strength and coordination). Urodynamics (*why:* reserved for complex, mixed or refractory cases and before surgery; *what:* detrusor and urethral function).
+
+### 0.6.1 Mx – Immediate
+Not applicable, except urinary retention requiring catheterisation.
+
+### 0.6.2 Mx – Definitive
+Conservative management first — **supervised pelvic floor physiotherapy, pessary, vaginal oestrogen and lifestyle modification** — then surgery for persistent symptoms.
+
+### 0.6.3 Mx – Chronic/long-term
+**Regular pessary review.** Continence nurse involvement. Weight, constipation and cough management. **Ask about symptoms at review — women do not volunteer them, and both prolapse and incontinence are substantially under-reported.**
+
+---
+
+> [!note] Cross-references
+> Early pregnancy problems and ectopic pregnancy → [[O1]] · Menstrual disorders, endometriosis and menopause → [[O4]] · STIs, PID organisms and contraception → [[O6]] · Breast assessment → [[O7]] · Postnatal perineal injury → [[O3]] · Acute abdomen and appendicitis → [[C1]] 0.3 · Irritable bowel syndrome → [[C5]] 0.3 · Faecal incontinence and pelvic floor → [[C5]] 0.6 · Continence, catheters and functional incontinence → [[GER2]] 0.1 · Anticholinergic burden → [[GER1]] 0.4 · Chronic pain and central sensitisation → [[L3]] 0.5 · Opioid stewardship → [[F0.4]] 0.9 · Sexual violence and safeguarding → [[GER4]] · Vulval dermatoses in the dermatology context → [[G5]] · Lynch syndrome and family cancer history → [[C5]] 0.5
 
 
 <!-- ===== SOURCE: 17_05_PID__Endometriosis__Fibroids.md ===== -->
@@ -2721,6 +4200,110 @@ Descriptive term for lower abdominal pain >6 months, not exclusively associated 
 - **Critical**: admit ASAP + senior help + consider ICU
 
 *See male subfertility, section 17.05.*
+
+
+<!-- ===== SOURCE: 17_10_Ovarian_Cancer__Cysts_and_Torsion.md ===== -->
+
+
+## Ovarian cancer
+
+**D**: neoplasm of the ovaries. 90% are epithelial ovarian cancer.
+
+**R**: BRCA1, BRCA2, other genetic mutations, HNPCC, ↑age, FHx (ovarian or breast cancer), never used COCP, early menarche, late menopause, nulliparity.
+
+**Protective factors**: pregnancy, breastfeeding, COCP, tubal ligation.
+
+**S/smx** — usually very vague
+- Abdominal distention + bloating
+- Abdominal + pelvic pain
+- Urinary symptoms (e.g. urgency)
+- Early satiety
+- Diarrhoea
+
+**Ix**
+
+> [!info] Ca125 is not a screening test — false positives occur with menses, benign ovarian cysts, etc. This is a universal clinical fact about the test's performance characteristics, not jurisdiction-specific guidance. Only use as directed below.
+> - Ca125 — if ≥35 IU/mL, refer for urgent US of abdomen and pelvis
+> - Transvaginal US
+> - CXR, CT for metastases
+> - May require diagnostic laparotomy to confirm diagnosis
+
+**Mx**
+- Full staging laparotomy: midline laparotomy, hysterectomy, bilateral salpingo-oophorectomy, omentectomy, para-aortic and pelvic lymph node sampling, peritoneal washings + biopsies
+- If young, desiring fertility, and low stage: uterus and other ovary might be preserved
+- Chemotherapy recommended for Stage Ic and upwards
+
+---
+
+## Ovarian cysts
+
+**D**: fluid-filled sac in ovarian tissue — divided into physiological/functional cysts, benign germ cell tumours, and benign epithelial tumours.
+
+### Functional cysts
+Divided into follicular and corpus luteum cysts — most common type; considered normal if <5cm.
+- **Follicular cysts**: form due to non-rupture of the dominant follicle, or failure of atresia in a non-dominant follicle
+- **Corpus luteum cysts**: form due to persistence of the corpus luteum after the menstrual cycle — may fill with blood or fluid, and can present with intraperitoneal bleeding
+- Usually regress after 2–3 menstrual cycles
+
+### Benign germ cell tumours
+- **Dermoid cysts** (mature cystic teratomas): arise from primitive germ cells; may contain well-differentiated tissue (hair, teeth); 20% bilateral
+- Most common benign ovarian tumour in women <30yo
+- Usually asymptomatic but can cause ovarian torsion
+
+### Benign epithelial tumours
+Arise from ovarian surface epithelium.
+- **Serous cystadenomas**: develop papillary growths; cyst may appear solid, bilateral in 20–30%; 30% turn malignant
+- **Mucinous cystadenomas**: commonest large ovarian tumours (can become enormous ± multilocular); ~5% malignant; rupture may cause pseudomyxoma peritonei
+
+### General Mx of ovarian cysts
+- Complex/multiloculated cysts should be biopsied to rule out malignancy
+
+**Premenopausal women**
+- Rule out malignancy, aim to preserve fertility
+- Asymptomatic + simple cyst <5cm: discharge
+- Asymptomatic + simple, 5–7cm: yearly scan
+- Symptomatic, or >7cm, or multiloculated: laparoscopic ovarian cystectomy
+
+**Postmenopausal women**
+- Calculate Risk of Malignancy Index (RMI)
+- Low risk cyst <5cm: repeat transvaginal scan and Ca125 every 4 months; if no change in 1 year, discharge
+- Moderate risk cyst: bilateral oophorectomy
+- High risk cyst: refer to cancer centre for staging laparotomy
+
+> [!info] Risk of Malignancy Index (RMI) = U × M × Ca125
+> - **U** = US score (0 if no features, 1 if 1 feature, 2 if ≥2 features): multilocularity, solid areas, metastases, ascites, bilaterality
+> - **M** = menopausal status (1 = premenopausal, 3 = postmenopausal)
+> - **Ca125** = serum level (U/L)
+>
+> **Overall risk**: Low — RMI <25 (<3% cancer risk). Moderate — RMI 25–250 (~20% risk). High — RMI >250 (75% risk).
+
+### Pseudomyxoma peritonei
+**D**: clinical syndrome of diffuse mucinous peritoneal involvement, often associated with a ruptured mucinous appendiceal lesion → thick, jelly-like deposits throughout the abdomen. **Mx**: surgical debulking for symptomatic relief + chemotherapy.
+
+---
+
+## Ovarian torsion
+
+**D**: twisting of the ovary around its ligamentous supports (aka adnexal torsion).
+
+**R**: ovarian neoplasm, non-functional ovarian cyst, pregnancy, ovarian hyperstimulation syndrome.
+
+**A**: underlying anatomical abnormality, ovarian mass, ↑ovarian size.
+
+**P**: rotation of ovary on ligament → ↓blood supply to ovary ± fallopian tube → ischaemia, necrosis, haemorrhage.
+
+**S/smx**
+- Sudden-onset deep colicky pelvic/abdominal pain — may radiate to back, flank, groin
+- Nausea, vomiting, diarrhoea
+- Palpable adnexal mass + tenderness
+
+**Ix**: rule out pregnancy; US (free fluid or "whirlpool sign").
+
+> [!danger] Surgical emergency
+> - Go to theatre ASAP
+> - Surgical detorsion preferred, generally via laparoscopy
+> - Salpingo-oophorectomy if ovary non-viable or malignancy present
+> - Consider oophoropexy
 
 
 <!-- ===== SOURCE: 17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma.md ===== -->
@@ -3140,2047 +4723,6 @@ Also known as urogenital prolapse — general term encompassing:
 **Mx of EIN**: hysterectomy, due to high risk of concurrent or progressive endometrial carcinoma. If not a surgical candidate, progesterone therapy is indicated.
 
 
-<!-- ===== SOURCE: 17_10_Ovarian_Cancer__Cysts_and_Torsion.md ===== -->
-
-
-## Ovarian cancer
-
-**D**: neoplasm of the ovaries. 90% are epithelial ovarian cancer.
-
-**R**: BRCA1, BRCA2, other genetic mutations, HNPCC, ↑age, FHx (ovarian or breast cancer), never used COCP, early menarche, late menopause, nulliparity.
-
-**Protective factors**: pregnancy, breastfeeding, COCP, tubal ligation.
-
-**S/smx** — usually very vague
-- Abdominal distention + bloating
-- Abdominal + pelvic pain
-- Urinary symptoms (e.g. urgency)
-- Early satiety
-- Diarrhoea
-
-**Ix**
-
-> [!info] Ca125 is not a screening test — false positives occur with menses, benign ovarian cysts, etc. This is a universal clinical fact about the test's performance characteristics, not jurisdiction-specific guidance. Only use as directed below.
-> - Ca125 — if ≥35 IU/mL, refer for urgent US of abdomen and pelvis
-> - Transvaginal US
-> - CXR, CT for metastases
-> - May require diagnostic laparotomy to confirm diagnosis
-
-**Mx**
-- Full staging laparotomy: midline laparotomy, hysterectomy, bilateral salpingo-oophorectomy, omentectomy, para-aortic and pelvic lymph node sampling, peritoneal washings + biopsies
-- If young, desiring fertility, and low stage: uterus and other ovary might be preserved
-- Chemotherapy recommended for Stage Ic and upwards
-
----
-
-## Ovarian cysts
-
-**D**: fluid-filled sac in ovarian tissue — divided into physiological/functional cysts, benign germ cell tumours, and benign epithelial tumours.
-
-### Functional cysts
-Divided into follicular and corpus luteum cysts — most common type; considered normal if <5cm.
-- **Follicular cysts**: form due to non-rupture of the dominant follicle, or failure of atresia in a non-dominant follicle
-- **Corpus luteum cysts**: form due to persistence of the corpus luteum after the menstrual cycle — may fill with blood or fluid, and can present with intraperitoneal bleeding
-- Usually regress after 2–3 menstrual cycles
-
-### Benign germ cell tumours
-- **Dermoid cysts** (mature cystic teratomas): arise from primitive germ cells; may contain well-differentiated tissue (hair, teeth); 20% bilateral
-- Most common benign ovarian tumour in women <30yo
-- Usually asymptomatic but can cause ovarian torsion
-
-### Benign epithelial tumours
-Arise from ovarian surface epithelium.
-- **Serous cystadenomas**: develop papillary growths; cyst may appear solid, bilateral in 20–30%; 30% turn malignant
-- **Mucinous cystadenomas**: commonest large ovarian tumours (can become enormous ± multilocular); ~5% malignant; rupture may cause pseudomyxoma peritonei
-
-### General Mx of ovarian cysts
-- Complex/multiloculated cysts should be biopsied to rule out malignancy
-
-**Premenopausal women**
-- Rule out malignancy, aim to preserve fertility
-- Asymptomatic + simple cyst <5cm: discharge
-- Asymptomatic + simple, 5–7cm: yearly scan
-- Symptomatic, or >7cm, or multiloculated: laparoscopic ovarian cystectomy
-
-**Postmenopausal women**
-- Calculate Risk of Malignancy Index (RMI)
-- Low risk cyst <5cm: repeat transvaginal scan and Ca125 every 4 months; if no change in 1 year, discharge
-- Moderate risk cyst: bilateral oophorectomy
-- High risk cyst: refer to cancer centre for staging laparotomy
-
-> [!info] Risk of Malignancy Index (RMI) = U × M × Ca125
-> - **U** = US score (0 if no features, 1 if 1 feature, 2 if ≥2 features): multilocularity, solid areas, metastases, ascites, bilaterality
-> - **M** = menopausal status (1 = premenopausal, 3 = postmenopausal)
-> - **Ca125** = serum level (U/L)
->
-> **Overall risk**: Low — RMI <25 (<3% cancer risk). Moderate — RMI 25–250 (~20% risk). High — RMI >250 (75% risk).
-
-### Pseudomyxoma peritonei
-**D**: clinical syndrome of diffuse mucinous peritoneal involvement, often associated with a ruptured mucinous appendiceal lesion → thick, jelly-like deposits throughout the abdomen. **Mx**: surgical debulking for symptomatic relief + chemotherapy.
-
----
-
-## Ovarian torsion
-
-**D**: twisting of the ovary around its ligamentous supports (aka adnexal torsion).
-
-**R**: ovarian neoplasm, non-functional ovarian cyst, pregnancy, ovarian hyperstimulation syndrome.
-
-**A**: underlying anatomical abnormality, ovarian mass, ↑ovarian size.
-
-**P**: rotation of ovary on ligament → ↓blood supply to ovary ± fallopian tube → ischaemia, necrosis, haemorrhage.
-
-**S/smx**
-- Sudden-onset deep colicky pelvic/abdominal pain — may radiate to back, flank, groin
-- Nausea, vomiting, diarrhoea
-- Palpable adnexal mass + tenderness
-
-**Ix**: rule out pregnancy; US (free fluid or "whirlpool sign").
-
-> [!danger] Surgical emergency
-> - Go to theatre ASAP
-> - Surgical detorsion preferred, generally via laparoscopy
-> - Salpingo-oophorectomy if ovary non-viable or malignancy present
-> - Consider oophoropexy
-
-
-<!-- ===== SOURCE: NEW_Breast.md ===== -->
-
-
-# NEW — Breast
-
-> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **Reviewer note, not a cross-reference.** The **triple test** itself is already built elsewhere in this corpus (the Phase 5 tracker records it under the breast oncology material). The header check found no header matching "Breast Lump", so the presentation-level entry is built here as instructed — but the reviewer should expect overlap and decide which file owns the triple test rather than keeping both.
-
-## Breast Lump
-
-> [!warning] FLAG 2026-09-01 — breast content is in four files and twice within this one
-> Here (`NEW_Breast`) · `O7_Breast_Disease §0.1–§0.6` (this file) · `Heme Onc_merged 10_12 Oncology —
-> Breast` · `MSK_merged NEW_Inv_Ortho §0.13 Breast MRI`.
-> Plus `Examination.md §1.17 Breast Examination` and `Infectious Disease_merged 08_09 ## Mastitis and
-> Breast Abscess`. **`NEW_Breast` and `O7` cover the same three topics — lump, pain, nipple discharge —
-> in this same file.** Flagged; nothing merged.
-
-- **DDx:** the governing principle is that **a discrete breast lump is cancer until the triple test says otherwise** — the differential is worked *through* the triple test, not instead of it.
-  - **Malignant:** invasive ductal carcinoma (commonest), invasive lobular carcinoma (classically an area of thickening rather than a discrete lump, and easier to miss both clinically and on imaging), DCIS, inflammatory breast cancer (erythema, peau d'orange, warmth — **mimics mastitis and is the classic trap**, so any "mastitis" not resolving on antibiotics needs re-evaluation, not a second antibiotic course), Paget's disease of the nipple, phyllodes tumour, breast lymphoma, metastasis to breast.
-  - **Benign, and commoner:** fibroadenoma (typically younger women, firm, smooth, mobile — "breast mouse"), breast cyst (may appear suddenly and be tender), fibrocystic change, fat necrosis (often follows trauma or surgery, and **can mimic malignancy clinically and radiologically**), lipoma, duct ectasia, intraductal papilloma (often with blood-stained nipple discharge), galactocele in a lactating woman, abscess, gynaecomastia in men, accessory breast tissue.
-- **Focused Hx:** how and when found, and whether it has changed; **relation to the menstrual cycle** (a lump that fluctuates is likelier benign, but this never removes the need for triple assessment); pain; **nipple change — discharge (and whether blood-stained, spontaneous, unilateral, single-duct), inversion, eczema of the nipple**; skin change; previous lumps, biopsies and their results; **breast cancer risk: age (the dominant risk factor), family history including age at diagnosis and any male breast or ovarian cancer, known BRCA or other pathogenic variant, previous chest radiotherapy, parity and age at first pregnancy, breastfeeding, age at menarche and menopause, HRT and duration, alcohol, obesity**; current pregnancy or lactation; when the last mammogram/BreastScreen episode was and its result; trauma; constitutional symptoms and bone pain if advanced disease is a concern.
-- **Examination:** with a chaperone/observer offered and consent obtained. Inspect sitting — arms relaxed, raised, and pressing on hips — for asymmetry, skin dimpling or tethering, peau d'orange, nipple inversion or deviation, eczema, visible mass. Palpate both breasts systematically with the patient reclined, including the **axillary tail**, then **all nodal basins: axillary, infraclavicular and supraclavicular**. For any mass characterise **site (by quadrant or clock face plus distance from the nipple), size, shape, consistency, margin, mobility, tethering to skin or chest wall, tenderness**. Examine the nipple for discharge only if reported, noting colour and whether single-duct. In advanced or symptomatic disease, examine chest, abdomen (hepatomegaly) and spine.
-- **First-line Ix:** **the triple test — clinical examination, imaging, and non-surgical biopsy.** Its central property is that it is assessed *as a whole*: **the triple test is positive if any one component is suspicious, and a negative result requires all three to be concordant and benign.** A benign biopsy does not overrule a suspicious clinical or imaging finding.
-  - **Imaging is age-stratified.** For women **under 35, ultrasound is first-line**; from 35 upward, mammography and ultrasound are typically both performed. (Cancer Australia and Australian breast services agree on the under-35 ultrasound-first rule; the exact age at which mammography is added is **not stated uniformly** across sources — some services use 40 — so follow the local pathway rather than a remembered number.)
-  - **Non-surgical biopsy:** core biopsy is preferred to FNA cytology in current practice because it distinguishes invasive disease from DCIS and provides receptor status; FNA remains in use, particularly for cysts and nodes. Older Australian guideline wording still describes FNA as the biopsy component — the reviewer should expect to see both phrasings in source material.
-  - **Referral, not just testing:** any patient with a discrete lump needs a defined diagnostic pathway to completion. **A normal mammogram does not exclude cancer in a woman with a palpable lump** — this is the highest-consequence practical point in the entry.
-
-## Breast Pain
-
-- **DDx:**
-  - **Cyclical mastalgia** — hormonally mediated, bilateral, diffuse, worse in the **1–2 weeks before menses and settling once menstruation starts**, typically in women in their 20s to 40s. Much the commonest pattern.
-  - **Non-cyclical breast pain** — no menstrual relationship; often unilateral and more localised. Causes include duct ectasia, mastitis or abscess, cyst, previous surgery or trauma, fat necrosis, large pendulous breasts with musculoskeletal strain, and medication (hormonal contraception, HRT, some antidepressants and antipsychotics).
-  - **Extramammary pain referred to the breast — the differential an intern must not skip:** **cardiac ischaemia**, **pulmonary embolism** and pleuritic causes, costochondritis/Tietze syndrome, rib injury, cervical or thoracic radiculopathy, shingles (pain may precede the rash by days), gallbladder disease, reflux.
-  - **Malignancy** — an uncommon cause of pain, and **pain alone is a poor predictor of cancer**. But pain accompanied by a lump, skin or nipple change is investigated as a lump, not as pain.
-- **Focused Hx:** site, character, radiation, unilateral or bilateral, focal or diffuse; **relationship to the menstrual cycle — ask the patient to keep a breast-pain diary across at least one cycle if the pattern is unclear**, which is the practical way to separate cyclical from non-cyclical; relation to exertion, movement, posture, breathing and meals (the extramammary screen); associated lump, discharge, skin change, fever or redness; pregnancy and lactation status; medications, especially hormonal; caffeine and bra support (commonly asked about, evidence weak); cancer risk factors as above; and what the patient is actually worried about — a large proportion present because of cancer fear rather than the pain itself, and addressing that is part of the consultation.
-- **Examination:** as for breast lump — inspection, systematic bilateral palpation, nodal basins. Then **deliberately examine beyond the breast**: reproduce the pain with chest wall palpation (costochondral junctions), assess whether pain is reproduced by arm movement or spinal rotation, inspect for a dermatomal rash, and examine the cardiorespiratory system where the history allows any possibility of a cardiac or pleuritic cause.
-- **First-line Ix:** **history and examination are the investigation** in cyclical mastalgia with a normal examination — imaging is not routinely required and a normal examination with a classic cyclical pattern can be managed with reassurance and review. Investigate when there is a palpable abnormality, focal persistent pain, skin or nipple change, or the patient is in an age group where imaging is indicated: **ultrasound under 35, mammography and ultrasound from 35**, proceeding to triple assessment if any abnormality is found. **β-hCG** in any woman of reproductive age where pregnancy is possible. **ECG and troponin** if the history admits cardiac pain — a low threshold here is correct, given breast pain is a recognised atypical presentation of ischaemia in women.
-
-## Galactorrhoea
-
-- **D:** milky nipple discharge not associated with pregnancy or breastfeeding (and persisting beyond roughly a year after cessation of breastfeeding). **Distinguish it at the outset from pathological non-milky discharge** — blood-stained, serous, single-duct or unilateral discharge is a different problem, investigated as a breast lesion (papilloma, duct ectasia, carcinoma), not as galactorrhoea.
-- **DDx:**
-  - **Physiological/other:** pregnancy — **excluded first, in every case**; recent pregnancy or breastfeeding; nipple stimulation; chest wall stimulation including surgery, trauma, burns, or herpes zoster.
-  - **Drug-induced — the commonest cause outside infancy, and the first thing to check on the medication chart:** **antipsychotics** (the classic group, particularly risperidone and the typicals), **metoclopramide** and **domperidone**, **SSRIs and tricyclics**, **cimetidine**, opioids, verapamil, oestrogens, methyldopa.
-  - **Pituitary/hypothalamic:** **prolactinoma — the commonest pathological cause**; other pituitary tumours and stalk lesions causing disconnection hyperprolactinaemia; infiltrative and inflammatory hypothalamic disease.
-  - **Endocrine/systemic:** **primary hypothyroidism** (raised TRH drives prolactin — a genuinely important and easily missed cause, treatable by treating the thyroid); **chronic kidney disease**; cirrhosis; PCOS.
-  - **Macroprolactinaemia** — a biologically inactive prolactin complex producing a raised assay result with no clinical consequence. Worth knowing because it prevents an unnecessary pituitary MRI.
-- **Focused Hx:** discharge character (**milky vs blood-stained vs serous**), unilateral or bilateral, spontaneous or expressed only, single- or multi-duct; duration; **menstrual history — amenorrhoea or oligomenorrhoea alongside galactorrhoea substantially raises the likelihood of significant hyperprolactinaemia**; possibility of pregnancy; libido and, in men, erectile dysfunction (men more often present late, with mass effect rather than discharge); **headache and visual disturbance, specifically asking about peripheral vision — bitemporal hemianopia indicates a macroadenoma compressing the optic chiasm and changes urgency**; symptoms of hypothyroidism; symptoms of other pituitary hormone deficiency (fatigue, postural dizziness, cold intolerance); **full drug history including recently started and over-the-counter agents**; renal and liver disease; chest wall trauma or surgery.
-- **Examination:** confirm the discharge and its character, expressing gently and noting whether from one duct or many. Full breast and nodal examination as above, **specifically looking for an underlying mass** — galactorrhoea with a lump is a lump problem. **Visual fields to confrontation** — a bedside test an intern can and should do here. Signs of hypothyroidism (bradycardia, delayed relaxing reflexes, dry skin, goitre). Signs of chronic liver or kidney disease. In men, assess for gynaecomastia and testicular size.
-- **First-line Ix:**
-  - **β-hCG — first, always.**
-  - **Serum prolactin.** Practical points that matter more than the number: sample without prolonged venepuncture stress or preceding breast examination, and **repeat a mildly raised result before acting on it**, since stress, exercise, sleep and nipple stimulation all raise it transiently. Ask the lab about **macroprolactin** if the level is raised without clinical correlate.
-  - **TSH** (and free T4) — to catch hypothyroidism as the cause.
-  - **UEC** and **LFTs** for renal and hepatic causes.
-  - **Pituitary MRI** where prolactin is substantially elevated, where a drug cause has been excluded, or where there are mass-effect symptoms — a decision usually made with endocrinology rather than by the intern alone.
-  - **Formal visual field testing (perimetry)** if a macroadenoma is suspected.
-  - **If the discharge is not milky** — blood-stained, serous, unilateral or single-duct — investigate as a breast lesion with **triple assessment**, not with prolactin.
-
-> [!warning] **The prolactin threshold that "confirms" a prolactinoma is deliberately omitted.** The figure available in snippets (>200 ng/mL) is in **US mass units**; Australian laboratories report prolactin in **mIU/L**. Converting it myself would be my own arithmetic presented as a sourced threshold, and no Australian-unit figure met the three-source bar under the egress limitation. Interpret against **the reporting laboratory's own reference range and units**, which is what an intern actually does at the bedside. This is the standard AU-localisation trap — a US number that looks authoritative and is wrong by a factor in Australian units.
-
----
-
-## Topics skipped in this category
-
-None — all three topics failed the header check and were built.
-
-| Topic | Header searched | Result |
-|---|---|---|
-| Breast Lump | `Breast Lump` (+ plural fold) | No `##`/`###` match — **BUILT** |
-| Breast Pain | `Breast Pain` (+ plural fold) | No `##`/`###` match — **BUILT** |
-| Galactorrhoea | `Galactorrhoea` (+ plural fold) | No `##`/`###` match — **BUILT** |
-
-
-<!-- ===== SOURCE: NEW_Drugs_16_Obstetric_and_Gynaecological.md ===== -->
-
-
-# NEW — Drug Classes: Obstetric and Gynaecological (AMH section 16)
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file** — with **one exception**, the **anti-D prophylaxis schedule (0.10)**, which is a nationally standardised program schedule rather than an individualised dose and is agreed across the Australian sources.
-
-> [!danger] **The governing rule for this whole section: TWO PATIENTS, AND A DEFAULT OF "CHECK BEFORE YOU PRESCRIBE".**
-> **Ask every person of reproductive age about pregnancy and contraception before prescribing anything.** Conversely, **do not withhold necessary treatment from a pregnant woman out of reflexive caution** — untreated epilepsy, asthma, depression, thyroid disease, VTE and infection all harm the fetus, and "no drug" is frequently the more dangerous choice. **Consult a specialist obstetric medicine or maternity service and the current Australian resources rather than guessing in either direction.**
-
----
-
-## 0.1 Drugs for Contraception
-
-### 0.1.1 Combined Oral Contraceptives
-*(covers build-list classes: Combined Oral Contraceptives; Combined oral contraceptives — the same class listed twice with different capitalisation)*
-- **Mechanism:** **oestrogen plus progestogen** suppress the LH surge and inhibit ovulation, thicken cervical mucus and thin the endometrium.
-- **Non-contraceptive benefits, which are often the reason for prescribing:** **regulation of heavy or painful periods**, acne and hirsutism, endometriosis pain, PMS, and **reduced ovarian and endometrial cancer risk**.
-- **Adverse effects:** breakthrough bleeding (usually settles in the first 3 months), nausea, breast tenderness, mood change, headache; **hypertension**; and a small increase in **breast and cervical cancer risk** that reverses after stopping.
-
-> [!danger] **VENOUS THROMBOEMBOLISM IS THE RISK THAT MATTERS, AND THE CONTRAINDICATIONS ARE ABSOLUTE.**
-> **Do not prescribe a combined contraceptive in: MIGRAINE WITH AURA** (stroke risk — this is the one most often missed, so **ask specifically about aura, not just "headaches"**), **current or past VTE or known thrombophilia**, **ischaemic heart disease or stroke**, **smoking at age 35 or over**, **BP ≥160/100**, **major surgery with prolonged immobility**, **complicated diabetes or diabetes of long duration**, **active liver disease**, **current breast cancer**, **SLE with antiphospholipid antibodies**, and **less than 6 weeks postpartum in a breastfeeding woman**. **Use the WHO/UKMEC medical eligibility criteria rather than memory.**
-> **Missed pill and vomiting/diarrhoea rules matter and are what patients actually ask about** — give them written instructions, and remember **enzyme-inducing drugs (rifampicin, carbamazepine, phenytoin, topiramate at higher dose, St John's wort) reduce efficacy.**
-
-### 0.1.2 Progestogens (Progestins)
-*(covers build-list classes: Progestins; Progestogens)*
-- **Key agents and routes:** **progestogen-only pill** (norethisterone, levonorgestrel; and **drospirenone**), **desogestrel** POP (which also inhibits ovulation, giving a longer missed-pill window); **depot medroxyprogesterone acetate** injection; **etonogestrel implant** (the most effective reversible method available); and the **levonorgestrel intrauterine system** (see 0.1.3).
-- **Advantages:** **no oestrogen, so usable where combined methods are contraindicated** — VTE history, migraine with aura, smokers over 35, breastfeeding, and cardiovascular disease.
-- **Adverse effects:** **unpredictable bleeding is the dominant issue and the commonest reason for discontinuation — counsel about it BEFORE insertion or injection, not afterwards**; amenorrhoea (which is safe and often welcome); mood change; acne; weight gain (best evidenced with the depot injection); functional ovarian cysts.
-- **Depot medroxyprogesterone specifically:** **reduces bone mineral density** (largely reversible; relevant in adolescents and prolonged use) and has a **delayed return to fertility of up to a year after the last injection** — which must be discussed with anyone planning pregnancy in the near future.
-- **Emergency contraception:** **levonorgestrel** (within 72 hours, less effective with higher body weight), **ulipristal acetate** (within 120 hours, more effective, but **interacts with progestogens — hormonal contraception must be delayed after it**), and the **copper IUD, which is the most effective option and provides ongoing contraception**.
-
-### 0.1.3 Intrauterine Devices
-- **Key agents:** **levonorgestrel-releasing intrauterine systems** and the **copper IUD**.
-- **Indications:** **long-acting reversible contraception (LARC) — the most effective reversible methods, and recommended as first-line for most people including nulliparous women and adolescents**; the levonorgestrel system is also **first-line drug treatment for heavy menstrual bleeding** (see 0.3), and is used for endometrial protection with oestrogen therapy and in endometriosis and adenomyosis.
-- **Adverse effects:** insertion pain and vasovagal reaction (**offer analgesia and discuss it — poorly managed insertion pain is a real and recently recognised problem**); irregular bleeding in the first months (levonorgestrel) or **heavier, more painful periods (copper)**; expulsion; and perforation (rare, higher in breastfeeding and postpartum insertion).
-
-> [!danger] **Do not ignore**
-> - **Exclude pregnancy before insertion, and screen for STIs where indicated** — insertion in the presence of chlamydia or gonorrhoea can cause pelvic inflammatory disease.
-> - **PREGNANCY WITH AN IUD IN SITU IS ECTOPIC UNTIL PROVEN OTHERWISE.** The absolute risk of ectopic is lower than with no contraception, but the proportion of pregnancies that are ectopic is higher.
-> - **Pelvic pain, fever or abnormal discharge in an IUD user needs assessment for PID.**
-> - **"Lost threads"** requires imaging to locate the device — it may be expelled, malpositioned or perforated.
-
-### 0.1.4 Other Contraceptive Considerations
-- **Vaginal ring, transdermal patch, condoms** (the only method also protecting against STIs), **sterilisation** (male vasectomy being simpler, safer and more effective than tubal ligation), and **fertility awareness methods**.
-- **Counselling frame:** effectiveness with typical use, reversibility, non-contraceptive benefits, adverse effects, cost and access. **LARC methods should be actively offered**, not reserved for those who ask.
-
-## 0.2 Drugs for Menopausal Symptoms
-
-### 0.2.1 Menopausal Hormone Therapy
-*(covers build-list classes: Hormone Replacement Therapy; Hormone replacement therapy — again listed twice)*
-- **Components:** **oestrogen** (oral, or **transdermal patch/gel**) for symptoms; **plus a progestogen (or the levonorgestrel IUS) in any woman with a uterus**, to prevent **endometrial hyperplasia and carcinoma**. **Tibolone** is a synthetic alternative.
-- **Indications:** **moderate-to-severe vasomotor symptoms** (the main indication, and MHT is by far the most effective treatment); **genitourinary syndrome of menopause**; **premature ovarian insufficiency and early menopause, where hormone therapy is REPLACEMENT and is recommended until at least the average age of menopause** — a genuinely different risk-benefit calculation that is frequently confused with MHT in older women; and osteoporosis prevention in selected women.
-
-> [!warning] **The pendulum swung too far after the WHI, and a generation of women were under-treated.** Current understanding: for **symptomatic women under 60 or within 10 years of menopause**, the benefits generally outweigh the risks. **Transdermal oestrogen does not carry the VTE risk that oral oestrogen does** — which makes it the preferred route in women with VTE risk factors, obesity, migraine or gallbladder disease. **Micronised progesterone appears to carry a lower breast cancer signal** than older synthetic progestogens.
-- **Absolute contraindications:** **current or past breast cancer**, oestrogen-dependent cancer, **undiagnosed vaginal bleeding**, untreated endometrial hyperplasia, **current VTE or arterial thromboembolic disease**, active liver disease, and pregnancy.
-- **Non-hormonal alternatives** for vasomotor symptoms: **SSRIs/SNRIs (venlafaxine, escitalopram — but AVOID paroxetine and fluoxetine in women on TAMOXIFEN**, see `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.3.4), **gabapentin**, clonidine, and **fezolinetant** (an NK3 antagonist).
-- **Vaginal oestrogen** — for genitourinary symptoms; minimal systemic absorption, does not require a progestogen, and is **usable in most women in whom systemic MHT is contraindicated** (including many breast cancer survivors, after discussion with their oncologist). **Substantially under-used.**
-
-> [!danger] **ANY postmenopausal bleeding — on or off hormone therapy — requires investigation for endometrial carcinoma.** Unscheduled bleeding on MHT beyond the first few months is not "just the hormones".
-
-### 0.2.2 Selective Oestrogen Receptor Modulators
-*(covers build-list classes: SERMs; Selective oestrogen receptor modulators)*
-- **Key agents:** **raloxifene** (agonist in bone, antagonist in breast and endometrium), **tamoxifen** (antagonist in breast, **agonist in endometrium** — see 0.2 danger note and `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.3.4), **ospemifene** (for dyspareunia), **bazedoxifene** (combined with oestrogen).
-- **Raloxifene:** reduces **vertebral fracture** and **invasive breast cancer** risk; **does not protect the hip**, **does not treat vasomotor symptoms and often worsens hot flushes**, and **increases VTE risk** and fatal stroke in those at risk.
-
-## 0.3 Drugs for Heavy Menstrual Bleeding
-
-- **First-line and most effective: the LEVONORGESTREL INTRAUTERINE SYSTEM** — it reduces blood loss dramatically, is contraceptive, and avoids surgery in most women.
-- **Non-hormonal, taken only during the period:** **tranexamic acid** (an antifibrinolytic — effective, and under-used) and **NSAIDs (mefenamic acid, naproxen)**, which reduce both bleeding and pain.
-- **Hormonal:** combined oral contraceptives, cyclical or continuous progestogens, depot medroxyprogesterone; **GnRH agonists with add-back** for short-term control before surgery.
-- **Investigate the cause, do not just treat the symptom:** **full blood count and ferritin — and TREAT THE IRON DEFICIENCY, which is the actual morbidity** (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.2.1); **thyroid function**; **a bleeding disorder — von Willebrand disease is present in a meaningful minority of women with heavy periods since menarche and is routinely missed** (see `NEW_Investigations_Haematology_Part2.md` 0.13); and structural causes (fibroids, polyps, adenomyosis).
-
-> [!danger] **Heavy bleeding with intermenstrual or postcoital bleeding, or in a woman over 45, requires assessment for ENDOMETRIAL PATHOLOGY** — pelvic ultrasound and endometrial sampling. **Do not start hormonal treatment for abnormal bleeding without excluding malignancy in an at-risk woman.**
-
-## 0.4 Drugs for Menstrual Symptoms
-
-- **Dysmenorrhoea:** **NSAIDs** (the most effective drug treatment — prostaglandin-mediated pain, so start at the onset of symptoms or just before), **combined hormonal contraception** or **continuous progestogen**, and the **levonorgestrel IUS**.
-- **Premenstrual syndrome and PMDD:** **SSRIs** (effective, and can be given continuously or in the luteal phase only), **combined contraception used continuously**, and lifestyle measures; **GnRH agonists with add-back** in severe refractory cases.
-- **Consider secondary causes of dysmenorrhoea** — **endometriosis, adenomyosis, fibroids, PID, and an IUD** — particularly where pain is progressive, associated with deep dyspareunia, or not responsive to first-line treatment.
-
-> [!danger] **Endometriosis is diagnosed a median of many years after symptom onset in Australia, and normalising severe period pain is the main reason.** Pain that stops a young woman going to school or work is not normal. **Take it seriously, treat empirically, and refer.**
-
-## 0.5 Drugs for Endometriosis
-
-### 0.5.1 Gonadotrophin-Releasing Hormone Agonists
-- **Key agents:** **goserelin, leuprorelin, nafarelin**; and the **GnRH antagonists (relugolix combination, elagolix)**, which avoid the initial flare.
-- **Mechanism:** continuous GnRH stimulation **downregulates** pituitary receptors → profound suppression of oestrogen — a reversible medical menopause that suppresses ectopic endometrial tissue.
-- **Role:** **second-line**, after hormonal contraceptives and progestogens have failed; and pre-operatively to reduce fibroid or lesion size.
-- **Adverse effects:** **menopausal symptoms — hot flushes, vaginal dryness, mood change** — and, importantly, **BONE MINERAL DENSITY LOSS**, which limits duration.
-- **"ADD-BACK" THERAPY (low-dose oestrogen with a progestogen, or tibolone) is given alongside** to protect bone and control symptoms **without losing efficacy**, and it allows longer treatment. **Prescribing a GnRH agonist without considering add-back is a recognised omission.**
-- **Other options in endometriosis:** combined hormonal contraception (often continuous, to avoid withdrawal bleeds), **progestogens (dienogest, norethisterone, depot medroxyprogesterone)**, the **levonorgestrel IUS**, NSAIDs, and **laparoscopic surgery**. **Chronic pelvic pain often needs a multidisciplinary pain approach**, not just hormonal suppression.
-
-## 0.6 Drugs for Infertility
-
-- **Ovulation induction:** **letrozole** (an aromatase inhibitor — now generally **first-line in PCOS**, with better live birth rates than clomifene), **clomifene citrate**, **metformin** (in PCOS, particularly with insulin resistance), and **gonadotrophins (FSH, hMG)** in specialist settings.
-- **Assisted reproduction:** gonadotrophins for controlled ovarian stimulation, **GnRH agonists and antagonists** to prevent premature LH surge, **hCG or GnRH agonist trigger**, and **luteal progesterone support**.
-- **Other:** **cabergoline** for hyperprolactinaemia-related anovulation (see `NEW_Drugs_10_Endocrine.md` 0.5.3); **levothyroxine** optimisation; and treatment of the male factor.
-
-> [!danger] **OVARIAN HYPERSTIMULATION SYNDROME (OHSS) is the complication an intern will meet, often in an emergency department, and it can be life-threatening.**
-> **Abdominal distension and pain, nausea and vomiting, ascites, oliguria, haemoconcentration, hypovolaemia despite third-space fluid, electrolyte disturbance, and a high risk of VTE (including unusual sites such as the internal jugular vein).**
-> **Any woman presenting unwell after fertility treatment must be asked about it and discussed with her fertility unit.** Management is supportive — fluid, analgesia, VTE prophylaxis, paracentesis for tense ascites — and **NSAIDs and diuretics are generally avoided.** **A GnRH agonist trigger and freeze-all strategy substantially reduce the risk.** See [[17_06_Subfertility_and_OHSS]].
-- **Also counsel about:** **multiple pregnancy** risk, **preconception folate and iodine**, rubella and varicella immunity, smoking, alcohol and weight, and the psychological burden of infertility treatment.
-
-## 0.7 Drugs in Labour
-
-### 0.7.1 Oxytocic Drugs
-- **Key agents:** **oxytocin** (induction, augmentation and third-stage management), **ergometrine** (and syntometrine, a combination), **carbetocin** (a long-acting oxytocin analogue), and **misoprostol** (a prostaglandin, see 0.9).
-- **Indications:** **induction and augmentation of labour**; **active management of the third stage** (which substantially reduces postpartum haemorrhage and is routine); and **treatment of postpartum haemorrhage**.
-- **Oxytocin adverse effects:** **uterine hyperstimulation with fetal compromise** (requiring the infusion to be stopped and tocolysis considered); **WATER INTOXICATION AND HYPONATRAEMIA** with prolonged high-dose infusion in large volumes of hypotonic fluid (oxytocin has antidiuretic activity) — **monitor fluid balance and sodium**; hypotension and reflex tachycardia with rapid bolus.
-- **Ergometrine adverse effects:** **marked nausea and vomiting** (give with an antiemetic), and **HYPERTENSION — it is CONTRAINDICATED IN PRE-ECLAMPSIA AND HYPERTENSION**, which is a critical distinction when choosing a uterotonic in a haemorrhaging pre-eclamptic woman.
-
-> [!danger] **POSTPARTUM HAEMORRHAGE — the drugs are only part of it, and the order matters.**
-> **Call for help, resuscitate, and address the FOUR Ts: TONE (uterine atony — the commonest cause), TISSUE (retained placenta), TRAUMA (tears, uterine rupture), THROMBIN (coagulopathy).**
-> **Rub up the fundus, empty the bladder, and give uterotonics — oxytocin first, then ergometrine (unless hypertensive), carboprost, and misoprostol** — alongside **TRANEXAMIC ACID, which reduces mortality and should be given EARLY** (see `NEW_Drugs_06_Cardiovascular.md` 0.5). Then **bimanual compression, balloon tamponade, and surgical measures**. **Blood loss is consistently underestimated visually, and a young fit woman compensates until she suddenly does not.**
-
-### 0.7.2 Other Drugs in Labour
-- **Analgesia:** **nitrous oxide (Entonox)**, parenteral opioids (with the caveat of **neonatal respiratory depression** — have naloxone available), and **epidural analgesia** (the most effective; adverse effects include hypotension, motor block, urinary retention, post-dural puncture headache, and fever).
-- **Antibiotics:** **intrapartum prophylaxis for group B streptococcus**; treatment of chorioamnionitis.
-- **Magnesium sulfate** — for **fetal neuroprotection** in anticipated very preterm birth, and for eclampsia (0.8).
-- **Corticosteroids** — antenatal betamethasone or dexamethasone for **fetal lung maturation**, one of the highest-impact interventions in obstetrics.
-- **Anti-D** — see 0.10.
-
-## 0.8 Drugs in Pre-eclampsia and Eclampsia
-
-- **Antihypertensives:** sources describe Australian practice as using **labetalol, methyldopa and/or nifedipine** orally for stable hypertension in pregnancy, and state that **treatment should be commenced URGENTLY in any woman with a systolic BP ≥160 mmHg or diastolic ≥110 mmHg because of the risk of intracerebral haemorrhage.** Hydralazine and intravenous labetalol are used for acute severe hypertension.
-
-> [!danger] **ACE INHIBITORS, ARBs AND SGLT2 INHIBITORS ARE CONTRAINDICATED IN PREGNANCY.** ACE inhibitors and ARBs cause fetal renal failure, oligohydramnios, skull hypoplasia and death. **Any woman of reproductive age on one needs a contraception and pre-pregnancy conversation**, and they are switched before or as soon as pregnancy is confirmed. **Atenolol** is also generally avoided (fetal growth restriction).
-
-> [!danger] **MAGNESIUM SULFATE IS THE TREATMENT AND PREVENTION OF ECLAMPTIC SEIZURES — NOT A BENZODIAZEPINE, NOT PHENYTOIN.**
-> It is given for **eclampsia** and for **severe pre-eclampsia to prevent seizures**, and separately for **fetal neuroprotection** in anticipated very preterm birth.
-> **Monitoring for magnesium toxicity is a bedside nursing and medical task: DEEP TENDON REFLEXES (lost first), RESPIRATORY RATE, and URINE OUTPUT** — magnesium is renally cleared, so **oliguria causes accumulation and requires dose reduction.** **CALCIUM GLUCONATE is the antidote.** See `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.3.4.
-
-- **Aspirin** — **low-dose aspirin from early pregnancy substantially reduces the risk of pre-eclampsia in women with risk factors** and is one of the few genuinely preventive obstetric interventions. **Identify at-risk women at the first antenatal visit.**
-- **Corticosteroids** — for fetal lung maturation where preterm delivery is anticipated; and in HELLP syndrome (contested benefit).
-- **The definitive treatment of pre-eclampsia is DELIVERY** — drugs buy time for steroids and stabilisation.
-
-> [!danger] **Pre-eclampsia can present and worsen POSTPARTUM, including in women who were normotensive before delivery.** **Headache, visual disturbance, epigastric or right upper quadrant pain, hyperreflexia, or new hypertension in the days after birth must be taken seriously.** Postnatal blood pressure follow-up is essential, and **NSAIDs may worsen postpartum hypertension.** See [[16_14-15_Obstetric_Emergencies]].
-
-## 0.9 Drugs for Preterm Labour
-
-- **Tocolytics — to delay delivery for about 48 hours**, long enough for **antenatal corticosteroids** to act and for **in-utero transfer** to a centre with neonatal facilities. **They do not improve neonatal outcome by themselves — the steroids and the transfer do.**
-- **Key agents:** **nifedipine** (commonly first-line in Australian practice), **atosiban** (an oxytocin receptor antagonist), **indomethacin** (used cautiously and for short periods before about 32 weeks — risks premature closure of the ductus arteriosus and oligohydramnios), and **beta-agonists (salbutamol, terbutaline)**, now largely abandoned because of **maternal tachycardia, pulmonary oedema, hyperglycaemia and hypokalaemia**.
-- **Alongside tocolysis:** **antenatal corticosteroids**, **magnesium sulfate for fetal neuroprotection**, **group B streptococcus prophylaxis**, and consideration of **antibiotics in PPROM** (but **not** in intact-membrane preterm labour, where co-amoxiclav has been associated with necrotising enterocolitis).
-- **Contraindications to tocolysis:** chorioamnionitis, significant antepartum haemorrhage, severe pre-eclampsia, fetal compromise or death, and advanced labour. **Do not delay delivery when continuing the pregnancy is more dangerous than delivering.**
-- **Prevention in at-risk women:** **vaginal progesterone** and **cervical cerclage** for a short cervix or previous preterm birth.
-
-## 0.10 Other Drugs Used in Obstetrics
-
-### 0.10.1 Prostaglandins
-- **Key agents:** **dinoprostone (PGE₂)** — vaginal gel and pessary for **cervical ripening and induction of labour**; **misoprostol (PGE₁ analogue)** — induction, **medical management of miscarriage and termination**, and **postpartum haemorrhage** (heat-stable, oral or sublingual, and therefore invaluable in low-resource and out-of-hospital settings); **carboprost (PGF₂α)** — for refractory PPH (**contraindicated in asthma** — it causes bronchospasm).
-- **Adverse effects:** **uterine hyperstimulation with fetal compromise** (the main risk of induction agents — continuous fetal monitoring is required, and tocolysis may be needed), nausea, vomiting, diarrhoea, fever and shivering (misoprostol), bronchospasm (carboprost), and **uterine rupture — which is why prostaglandin induction is used with great caution, or avoided, after previous caesarean section.**
-- **Mifepristone with misoprostol** — the standard medical regimen for **termination of pregnancy and for miscarriage management** in Australia, available through appropriately trained prescribers. See [[17_03_Termination_of_Pregnancy_and_Miscarriage]].
-
-### 0.10.2 Anti-D (Rh D) Immunoglobulin
-- **Purpose:** prevents **RhD alloimmunisation** in an RhD-negative woman carrying an RhD-positive fetus, and therefore prevents **haemolytic disease of the fetus and newborn** in subsequent pregnancies. It is one of the great preventive successes in obstetrics.
-- **Schedule (the one dose-related figure in this file, and it is a national program schedule):** sources describing the Australian guidance state that **anti-D 500 IU is given at 28 and 34 weeks to all RhD-negative women who have not formed their own anti-D**, in addition to **postpartum administration where the baby is RhD positive**, and **after any potentially sensitising event** — antepartum haemorrhage, abdominal trauma, miscarriage, termination, ectopic pregnancy, external cephalic version, and invasive procedures (CVS, amniocentesis, cordocentesis).
-- **Timing:** **give within 72 hours of the sensitising event**, and **do not wait for the Kleihauer result** — give the standard dose and top up according to the quantified fetomaternal haemorrhage (see `NEW_Investigations_Obstetrics_and_Gynaecology.md` 0.9).
-- **Practical:** take the maternal sample for the Kleihauer/flow cytometry **before** giving anti-D; **it is a blood product, requiring consent and the same identification checks**; and **a negative Kleihauer does not remove the indication after a sensitising event.**
-
-### 0.10.3 Other Agents in Obstetrics
-- **Antenatal corticosteroids** (0.7.2, 0.9); **magnesium sulfate** (0.8); **iron and intravenous iron** (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.2.1); **folic acid and iodine** supplementation — **folate before conception and in the first trimester to prevent neural tube defects, at a higher dose in higher-risk women**; **low molecular weight heparin** for VTE prophylaxis and treatment (**the anticoagulant of choice in pregnancy — it does not cross the placenta**; warfarin and DOACs are avoided); **thyroxine**, with **requirements rising early in pregnancy** (see `NEW_Drugs_10_Endocrine.md` 0.4.1); and **antiemetics for nausea and vomiting of pregnancy and hyperemesis** (see `NEW_Drugs_12_Gastrointestinal.md` 0.2.4).
-
-## 0.11 Drugs Affecting Lactation
-
-- **Suppressing lactation:** **cabergoline** (a dopamine agonist — effective; used after stillbirth, neonatal death, or where a woman chooses not to breastfeed); non-drug measures (firm support, avoiding expression, analgesia). **Oestrogens are no longer used** (VTE risk).
-- **Promoting lactation (galactogogues):** **domperidone** is used, though the evidence is modest and **it prolongs the QT** (avoid where there is cardiac risk or interacting drugs); metoclopramide is an alternative but carries the extrapyramidal and duration limits described in `NEW_Drugs_12_Gastrointestinal.md` 0.2.2. **Lactation consultant support, feeding frequency and attachment do more than any drug** — a galactogogue without skilled feeding support rarely helps.
-- **Mastitis:** **continued feeding or expressing**, analgesia, and **antibiotics covering *S. aureus*** where there is systemic illness or no improvement; **a breast abscess needs drainage**; and **inflammatory breast cancer can masquerade as mastitis — non-resolving "mastitis" requires imaging and review.**
-
-> [!danger] **DRUGS AND BREASTFEEDING: the default should be to find a compatible drug, not to stop breastfeeding.**
-> Most drugs are compatible; the amount reaching the infant is usually very small. **Consult a specialised medicines-in-pregnancy-and-breastfeeding information service** rather than relying on a product information leaflet, which is often defensively worded and leads to unnecessary cessation.
-> **Genuine concerns include:** **codeine and tramadol (CYP2D6 ultra-rapid metabolisers — neonatal respiratory depression, and deaths have occurred), amiodarone, lithium (needs monitoring, not necessarily avoidance), cytotoxics, radioiodine, and combined contraception in the first weeks.**
-> **Conversely, do not stop necessary maternal treatment** — untreated maternal epilepsy, depression, asthma or infection harms both mother and infant. See [[16_01-05_Antenatal_Care]].
-
-## 0.12 Drugs for Vaginal Infections
-
-- **Vulvovaginal candidiasis:** **topical azoles (clotrimazole, miconazole)** or **oral fluconazole** (**avoided in pregnancy — topical treatment is used**). **Recurrent candidiasis warrants a check for diabetes and immunosuppression**, and a longer induction-and-maintenance regimen.
-- **Bacterial vaginosis:** **oral or vaginal metronidazole**, or **vaginal clindamycin**. **Not an STI**, but associated with **preterm birth** in pregnancy. **Warn about the disulfiram-like reaction with alcohol** on metronidazole (see `NEW_Drugs_05_Anti_infectives.md` 0.2.15).
-- **Trichomoniasis:** **oral metronidazole or tinidazole** — and **this one IS a sexually transmitted infection: treat the partner, screen for other STIs, and notify as required.**
-- **Atrophic vaginitis:** **topical vaginal oestrogen** and non-hormonal moisturisers (0.2.1).
-- **Pelvic inflammatory disease:** **empirical antibiotic therapy started on clinical suspicion — do not wait for swab results**, because delay costs fertility. See `NEW_Investigations_Obstetrics_and_Gynaecology.md` 0.3 and [[17_05_PID__Endometriosis__Fibroids]].
-
-> [!danger] **Always do a pregnancy test in a woman of reproductive age with pelvic pain — ectopic pregnancy presents as PID.** And **abnormal discharge with postcoital or intermenstrual bleeding, or a suspicious cervix, requires examination and specialist referral, not a prescription.**
-
-## 0.13 Sex Hormones and Modulators
-
-### 0.13.1 Androgens
-- **Key agents:** **testosterone** — intramuscular depot (undecanoate), transdermal gel and cream, and implants.
-- **Indications:** **confirmed male hypogonadism** (on repeated morning testosterone with gonadotrophins and a cause established), delayed puberty, and **gender-affirming hormone therapy** (0.13.3). **Low-dose testosterone has an evidence-based role for hypoactive sexual desire disorder in postmenopausal women**, using female-appropriate dosing.
-- **Adverse effects:** **polycythaemia (monitor haematocrit — a common reason for venesection or dose reduction)**, acne, weight gain, **worsening of sleep apnoea**, **suppression of spermatogenesis and fertility** (discuss and offer sperm storage), gynaecomastia (via aromatisation), mood and aggression change, and dyslipidaemia. **Transdermal preparations can be transferred to others by skin contact — including to children and partners — so covering the application site is essential.**
-- **Contraindications:** **prostate and breast cancer**; caution with erythrocytosis and untreated severe sleep apnoea. **Australian PBS criteria for testosterone are specific and require specialist involvement in most cases.**
-
-> [!danger] **Testosterone is widely misused — for "low T", fatigue, ageing, and in bodybuilding.** **Anabolic steroid misuse causes cardiomyopathy, polycythaemia, hepatic injury, infertility, aggression, and profound hypogonadism on withdrawal.** Ask about it non-judgementally, and do not prescribe testosterone for non-specific symptoms without properly confirmed biochemical hypogonadism.
-
-### 0.13.2 Anti-androgens
-- **Key agents:** **spironolactone** (used widely for acne, hirsutism and in gender-affirming care), **cyproterone acetate**, **bicalutamide and other prostate cancer agents** (see `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.3.1), **finasteride and dutasteride** (see `NEW_Drugs_13_Genitourinary.md` 0.1.2), and **GnRH analogues**.
-- **Indications:** **hirsutism and PCOS-related androgenic symptoms**, acne, androgenetic alopecia, prostate cancer, and **gender-affirming hormone therapy**.
-- **Adverse effects:** **spironolactone — hyperkalaemia (check potassium and renal function), menstrual irregularity, breast tenderness and gynaecomastia**; **cyproterone — hepatotoxicity, depression, VTE, and a dose-related risk of MENINGIOMA that has led to regulatory restriction and prompted a move to lower doses and alternatives.**
-- **All anti-androgens are teratogenic to a male fetus — effective contraception is required.**
-
-### 0.13.3 Gender-Affirming Hormone Care
-- **Feminising therapy:** **oestradiol** (transdermal preferred where VTE risk exists) with an **anti-androgen** (spironolactone or cyproterone, and increasingly GnRH analogues), producing breast development, fat redistribution, softer skin and reduced body hair; **it does not raise vocal pitch or reverse established facial hair**, for which speech therapy and hair removal are needed.
-- **Masculinising therapy:** **testosterone**, producing voice deepening, facial and body hair, fat redistribution, clitoral growth and amenorrhoea.
-- **Adolescents:** **GnRH analogues** to pause puberty, within a multidisciplinary specialist service. **Australian practice follows established standards of care and, in some jurisdictions, specific legal and service pathways — this is specialist territory.**
-- **Monitoring:** hormone levels to target, **haematocrit** (testosterone), lipids, glucose, blood pressure, liver function, **potassium** (spironolactone), and **bone density** with prolonged GnRH analogue use or gonadectomy.
-- **Fertility:** **discuss fertility preservation BEFORE starting** — hormone therapy impairs fertility, sometimes irreversibly, and this conversation is time-critical and is frequently omitted.
-
-> [!danger] **Preventive care must follow the ORGANS PRESENT, not the recorded gender.**
-> **A trans man who retains a cervix still needs cervical screening; a trans woman on oestrogen needs breast cancer awareness and, if she retains a prostate, prostate considerations.** Screening programs and electronic records frequently fail to prompt this. **Ask, record an organ inventory, and arrange the screening actively.**
-> **Use the person's correct name and pronouns**, and recognise that **experience of healthcare avoidance is common and consequential** — a respectful consultation has direct clinical effects on whether someone returns.
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for contraception | SUB | yes | |
-| 0.1.1 | Combined Oral Contraceptives | CLS | yes | Built jointly with `Combined oral contraceptives` — **capitalisation duplicate**; both rows mapped. |
-| 0.1.1 | Combined oral contraceptives | CLS | yes | As above. |
-| 0.1.2 | Progestins | CLS | yes | Built jointly with `Progestogens` — same class, two names. |
-| 0.1.2 | Progestogens | CLS | yes | As above. |
-| 0.1.3 | Intrauterine devices | CLS | yes | |
-| 0.2 | Drugs for menopausal symptoms | SUB | yes | |
-| 0.2.1 | Hormone Replacement Therapy | CLS | yes | Built jointly with `Hormone replacement therapy` — **capitalisation duplicate**. |
-| 0.2.1 | Hormone replacement therapy | CLS | yes | As above. |
-| 0.2.2 | SERMs | CLS | yes | Built jointly with `Selective oestrogen receptor modulators` — same class, abbreviated and expanded. |
-| 0.2.2 | Selective oestrogen receptor modulators | CLS | yes | As above. |
-| 0.3 | Drugs for heavy menstrual bleeding | SUB | yes | |
-| 0.4 | Drugs for menstrual symptoms | SUB | yes | |
-| 0.5 | Drugs for endometriosis | SUB | yes | |
-| 0.5.1 | Gonadotrophin-releasing hormone agonists | CLS | yes | Add-back therapy given as a standing consideration. |
-| 0.6 | Drugs for infertility | SUB | yes | OHSS given as the intern-facing emergency. |
-| 0.7 | Drugs in labour | SUB | yes | |
-| 0.7.1 | Oxytocic drugs | CLS | yes | Includes the ergometrine contraindication in pre-eclampsia and the four Ts of PPH. |
-| 0.8 | Drugs in pre-eclampsia and eclampsia | SUB | yes | Magnesium sulfate monitoring and the ACE inhibitor/ARB contraindication. |
-| 0.9 | Drugs for preterm labour | SUB | yes | |
-| 0.10 | Other drugs used in obstetrics | SUB | yes | Carries the anti-D schedule — the file's single stated dose figure, as a national program schedule. |
-| 0.10.1 | Prostaglandins | CLS | yes | |
-| 0.11 | Drugs affecting lactation | SUB | yes | Breastfeeding framed as find-a-compatible-drug rather than stop. |
-| 0.12 | Drugs for vaginal infections | SUB | yes | |
-| 0.13 | Sex hormones and modulators | SUB | yes | |
-| 0.13.1 | Androgens | CLS | yes | |
-| 0.13.2 | Anti-androgens | CLS | yes | Cyproterone meningioma risk included. |
-| 0.13.3 | Gender Affirming Hormone Care | CLS | yes | Includes fertility preservation timing and organ-based preventive care. |
-
-**Rows in file: 28 (13 SUB + 15 CLS). AMH section 16 build-list rows: 28. Section complete.**
-
-> [!note] **Four pairs of build-list rows are duplicates** — two are pure capitalisation duplicates (`Combined Oral Contraceptives`, `Hormone Replacement Therapy`), and two are the same class under alternative names (`Progestins`/`Progestogens`, `SERMs`/`Selective oestrogen receptor modulators`). Each concept is written once and every row mapped above.
-
-
-<!-- ===== SOURCE: NEW_Gynaecology_and_Reproductive.md ===== -->
-
-
-# NEW — Gynaecology & Reproductive
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **This file contains all Tier 1 and Tier 2 topics.** The category has 1 T1, 1 T2 and 22 T3 topics. T3 not yet built. See the build-status table at the end.
-
-## Acute Vaginal Bleeding
-
-- **D:** bleeding from the genital tract of acute onset or acute severity. **The first branch is always the same: is she pregnant?** — because the differential, the urgency and the specialty involved all change on that answer.
-- **DDx:**
-  - **Pregnant — first trimester:** **ectopic pregnancy** (the must-exclude), miscarriage in any of its forms, implantation bleeding, molar pregnancy, local cervical causes.
-  - **Pregnant — later pregnancy (a different and more dangerous problem):** **placental abruption** (painful bleeding, a tense tender "woody" uterus, fetal compromise, and **concealed bleeding means the visible loss can massively understate the true loss**), **placenta praevia** (classically painless bleeding — **do not perform a digital vaginal examination until praevia is excluded by ultrasound**, which is the single most important prohibition in this presentation), vasa praevia, uterine rupture, bloody show in labour.
-  - **Postpartum:** **primary postpartum haemorrhage** — the **four Ts: Tone** (uterine atony, much the commonest), **Trauma** (genital tract laceration, uterine rupture), **Tissue** (retained placenta or products), **Thrombin** (coagulopathy, including DIC); and **secondary PPH** from retained products or endometritis.
-  - **Not pregnant — reproductive age:** anovulatory or dysfunctional uterine bleeding, fibroids, endometrial or cervical polyp, adenomyosis, **pelvic inflammatory disease**, cervicitis and sexually transmitted infection, cervical ectropion, ovarian cyst, **iatrogenic — hormonal contraception, intrauterine device, anticoagulants, tamoxifen**, coagulopathy including **von Willebrand disease** (a genuinely under-recognised cause of heavy bleeding since menarche), thyroid disease, trauma including **sexual assault**, retained foreign body.
-  - **Postmenopausal — a different set of priorities:** **endometrial carcinoma until proven otherwise**, endometrial hyperplasia, atrophic vaginitis (commonest, but a diagnosis of exclusion), cervical carcinoma, polyps, hormone therapy.
-- **Focused Hx:** **last menstrual period, cycle pattern, and possibility of pregnancy — always**; **quantify the loss in usable terms** — pads or tampons used per hour, whether soaking through, clots and their size, flooding; duration; **associated pain and its relationship to the bleeding** (painless versus painful is a key discriminator in late pregnancy); **dizziness, syncope, breathlessness**; gestational age and antenatal history including any previous ultrasound and known placental site; postpartum details including delivery mode, third-stage management and whether the placenta was complete; **sexual history, contraception, and cervical screening history**; **postcoital and intermenstrual bleeding** (cervical pathology); **postmenopausal status and any hormone therapy**; **bleeding history — since menarche, dental extractions, surgery, family history** (inherited bleeding disorder); anticoagulants and antiplatelets; **and a sensitive, direct opportunity to disclose violence or assault**, asked privately.
-- **Examination:** **A–E and vital signs, including postural blood pressure where the patient is stable** — and again, **a young woman compensates well and tachycardia may be the only early sign of major loss**.
-  - Pallor, perfusion, conscious state.
-  - **Abdominal examination** — tenderness, peritonism, a palpable uterus and, in pregnancy, **fundal height and uterine tone**.
-  - **In an ongoing pregnancy beyond the first trimester: assess the fetus** — fetal heart rate, and involve obstetrics immediately.
-  - **Speculum examination** to see the source, the amount, whether the os is open, and any local lesion — **and specifically to identify a cervical cause that will otherwise be attributed to the uterus**.
-  - **Bimanual examination** — uterine size, tenderness, cervical motion tenderness, adnexal masses. **Withhold digital vaginal examination in any woman beyond the first trimester with bleeding until placenta praevia has been excluded.**
-  - **Postpartum: palpate the uterine fundus for tone and rub it up if atonic**, inspect the perineum and vagina for tears, and check whether the bladder is distended (a distended bladder prevents uterine contraction).
-- **First-line Ix:**
-  - **β-hCG — urine or serum, in every woman of reproductive age, first.**
-  - **FBC, blood group and antibody screen, coagulation profile including fibrinogen, UEC, LFTs**; **crossmatch** with the number of units matched to the clinical picture, and **activate the massive transfusion protocol** if bleeding is torrential.
-  - **Transvaginal or transabdominal ultrasound** — for pregnancy location and viability, placental site, retained products, endometrial thickness and adnexal pathology.
-  - **Endocervical and high vaginal swabs, plus NAAT for chlamydia and gonorrhoea** where infection is possible.
-  - **Cervical screening test** if due — but **a visible or suspicious cervical lesion needs colposcopy and biopsy, not a screening test**, which is a common and consequential error.
-  - **Endometrial sampling and ultrasound assessment of endometrial thickness** in **any postmenopausal bleeding** — referral for this is mandatory, not discretionary.
-  - **TFTs, ferritin and iron studies, and coagulation screening including von Willebrand studies** where heavy menstrual bleeding is chronic.
-  - **Anti-D immunoglobulin** consideration in any Rh-negative woman with bleeding in pregnancy.
-
-> [!danger] **Three rules carried from this presentation.** **(1) No digital vaginal examination in bleeding beyond the first trimester until placenta praevia is excluded** — it can provoke catastrophic haemorrhage. **(2) In abruption the visible blood loss can be a fraction of the actual loss**, so resuscitate to the physiology and not to what is on the pad. **(3) Postmenopausal bleeding is endometrial carcinoma until investigation says otherwise** — a single episode warrants referral, and attributing it to atrophy without investigation is the error that delays diagnosis.
-> **Specific uterotonic agents and doses for postpartum haemorrhage are deliberately omitted** — they are protocol-specific, and the Australian sources are egress-blocked. The intern-level actions are: **call for help early, rub up the fundus, empty the bladder, gain large-bore access, take bloods and crossmatch, and start resuscitation** while the obstetric team is on the way.
-
-## Acute Pelvic Pain
-
-- **DDx:** **the first action in every case is a pregnancy test**, because it splits the differential.
-  - **Pregnancy-related:** **ectopic pregnancy**, miscarriage, corpus luteum cyst rupture, and in later pregnancy, abruption and labour.
-  - **Gynaecological:** **ovarian torsion** (sudden severe unilateral pain with nausea and vomiting, often with an ovarian cyst or mass — **a surgical emergency where the ovary is salvageable only with prompt detorsion**, and where **Doppler flow may still be present, so a normal Doppler does not exclude it**), **ovarian cyst rupture or haemorrhage**, **pelvic inflammatory disease and tubo-ovarian abscess**, endometriosis, degenerating fibroid, ovarian hyperstimulation syndrome, Mittelschmerz, dysmenorrhoea, haematocolpos in an adolescent with primary amenorrhoea.
-  - **Non-gynaecological — and these cause a large share of "pelvic pain" presentations:** **appendicitis**, diverticulitis, **urinary tract infection and pyelonephritis**, **ureteric colic**, constipation, inflammatory bowel disease, mesenteric adenitis, hernia, and **musculoskeletal and pelvic floor causes**.
-- **Focused Hx:** **last menstrual period and pregnancy possibility**; onset (**sudden and severe suggests torsion, rupture or ectopic**), site, radiation and severity; **relationship to the menstrual cycle**; **vaginal bleeding or discharge**; **dyspareunia — deep or superficial — and dyschezia**, which point toward endometriosis or PID; fever; urinary and bowel symptoms; **nausea and vomiting** (prominent in torsion); **sexual history and STI risk, taken privately and without assumption**; contraception including **IUD**; **assisted reproduction** (torsion and OHSS risk); previous pelvic surgery, ectopic, PID or known cysts; and **a private, direct opportunity to disclose violence or non-consensual sex**.
-- **Examination:** vital signs including temperature, with **an assessment for peritonism and for haemodynamic compromise**; abdominal examination for guarding, rebound, and localised versus generalised tenderness, and for a palpable mass; **speculum examination** for discharge, bleeding, cervical appearance and a visible IUD thread; **bimanual examination for cervical motion tenderness, adnexal tenderness or mass, and uterine size and mobility**, with consent and a chaperone; examination of the hernial orifices; and **renal angle tenderness**.
-- **First-line Ix:** **β-hCG first, always**; **FBC, CRP, UEC, group and hold**; **urinalysis and urine culture**; **endocervical and high vaginal swabs with NAAT for chlamydia and gonorrhoea**; **pelvic ultrasound, preferably transvaginal** — for adnexal masses, free fluid, tubo-ovarian abscess and pregnancy location, **noting that ultrasound is operator-dependent and that a normal scan does not exclude torsion or early PID**; **CT abdomen/pelvis** where a gastrointestinal or urological cause is more likely and the patient is not pregnant; **lactate and blood cultures** where sepsis is suspected; and **diagnostic laparoscopy**, which remains the definitive investigation for suspected torsion and for endometriosis.
-
-> [!warning] **Pelvic inflammatory disease is under-diagnosed and under-treated, and the threshold for empirical treatment is deliberately low** — because the tests are insensitive and the consequences of missing it (tubal infertility, chronic pelvic pain, ectopic pregnancy) are long-term and irreversible. **Treat on clinical suspicion in a sexually active young woman with pelvic pain and cervical motion, uterine or adnexal tenderness, once pregnancy and surgical causes have been considered — do not wait for swab results.** **The antibiotic regimen is deliberately omitted** — Australian STI management guidelines are egress-blocked, and the regimen changes with resistance patterns. Use the current Australian STI guidelines and arrange **partner notification and testing**, which is part of the treatment, not an afterthought.
-
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — Acute Vaginal Bleeding |
-| **T2** | 1 | **Built** — Acute Pelvic Pain |
-| T3 | 22 | Not built |
-
-## Topics skipped in this category
-
-All eight skips are T3.
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Chronic Pelvic Pain** | `## Chronic pelvic pain` | `17_05_PID__Endometriosis__Fibroids.md` | Exact |
-| **Dyspareunia** | `### Dyspareunia` | `17_05_PID__Endometriosis__Fibroids.md` | Exact |
-| **Menorrhagia** | `## Menorrhagia` | `17_02_Menorrhagia__PMS__Menopause__HRT.md` | Exact |
-| **Primary Amenorrhoea** | `## Primary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Exact |
-| **Secondary Amenorrhoea** | `## Secondary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Exact |
-| **Amenorrhoea** | `## Primary amenorrhoea` + `## Secondary amenorrhoea` | `17_01_FGM__Amenorrhoea__PCOS.md` | Partial — **judgement call**: the bare topic matches no header, but both sub-forms exist as their own entries. Overrule me if you want a general Amenorrhoea approach built. |
-| **Abnormal Uterine Bleeding** | `## Abnormal Uterine Bleeding — Approach and DDx` | `17_02_Menorrhagia__PMS__Menopause__HRT.md` | Partial |
-| **Vaginal Discharge** | `## Vaginal discharge — differential diagnosis` | `17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse.md` | Partial |
-
-> [!note] **`Vaginal Bleeding` (T3) is a separate list topic from the T1 `Acute Vaginal Bleeding` built here** and matched no header; it remains unbuilt and will overlap with this entry when reached.
-
-
-<!-- ===== SOURCE: NEW_Investigations_Obstetrics_and_Gynaecology.md ===== -->
-
-
-# NEW — Investigations: Obstetrics and Gynaecology
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay- and laboratory-dependent values are **omitted with the omission stated in place**.
-
-> [!note] **Three build-list rows are miscategorised and are not built here.** `C-Spine X-Ray`, `Compression Test` and `Distraction Test` appear under **Gynaecology** in `data/build_list_investigations.md`, but none is a gynaecological investigation — the two named tests are cervical-spine/nerve-root **exam manoeuvres** (Spurling compression, cervical distraction) and the third is an orthopaedic imaging study. They are deferred to the files where they belong; see the build status table.
-
----
-
-## 0.1 Cervical Screening Test and Cervical Screening Abnormality (Australian NCSP)
-
-**D:** The **Cervical Screening Test** is a **primary oncogenic HPV nucleic-acid test** with **partial genotyping** (HPV 16/18 reported separately from other oncogenic types), performed on a **liquid-based cytology** specimen so that cytology can be run **reflexively on the same sample** when the HPV result requires it.
-
-**Ind:** **Routine screening every 5 years from age 25 to 74** in women and people with a cervix who have ever been sexually active — including those **vaccinated against HPV**, who remain in the program. Symptomatic patients (postcoital, intermenstrual or postmenopausal bleeding, or an abnormal-looking cervix) are **not** managed by screening: they need a **co-test and direct specialist assessment**.
-
-**Role:** The test that replaced two-yearly Pap cytology in **December 2017**. It screens for the **cause** (persistent oncogenic HPV) rather than the downstream cell change, which is why the interval could safely lengthen from 2 years to 5.
-
-> [!info] **The management pathway is the examinable content**
-> - **HPV 16/18 detected** → **refer for colposcopy**, regardless of the cytology result. These genotypes carry the highest progression risk.
-> - **HPV detected, not 16/18** → **reflex LBC on the same specimen**:
->   - negative, pLSIL or LSIL → **repeat HPV test in 12 months**;
->   - pHSIL, HSIL, glandular abnormality or cancer → **colposcopy**.
-> - **HPV not detected** → return to routine 5-yearly screening.
-> - At the **12-month repeat**, HPV still detected → colposcopy.
-
-> [!warning] **Higher-risk groups go straight to colposcopy at the 12-month repeat if HPV is still detected, whatever the cytology says** — sources name those **two or more years overdue for screening**, those who identify as **Aboriginal or Torres Strait Islander**, and those **aged 50 or over**.
-
-> [!tip] **Self-collection is a full-validity option, not a lesser test.** A self-collected vaginal swab is analysed on the same HPV platform and is now universally available in the program rather than restricted to the never- and under-screened. **The one limitation matters:** a self-collected sample **cannot have reflex cytology performed on it** — a patient whose self-collected sample returns HPV not-16/18 must return for a clinician-collected sample (or go to colposcopy). Uptake of self-collection has risen steeply since universal availability.
-
-> [!danger] **Do not ignore**
-> - **A negative screening test never explains symptoms.** Postcoital, intermenstrual or postmenopausal bleeding requires examination and specialist referral **even with a normal screening history** — screening is for asymptomatic people and cannot exclude cancer in a symptomatic one. This is the commonest and most serious error made with this test.
-> - **HPV vaccination does not remove the need to screen.**
-> - Screening continues in pregnancy where due (take the sample, avoid the endocervical brush), and post-hysterectomy management depends on whether the cervix was removed and on prior history.
-> - See [[17_09_Cervical__Vaginal_and_Endometrial_Cancer]].
-
-**Normal/abnormal:** Reported as **HPV 16/18 detected / HPV (not 16/18) detected / HPV not detected**, with reflex cytology where applicable, and an explicit **recommended management** statement — read that statement, it is part of the report.
-
-**Alt:** Colposcopy with directed biopsy (the diagnostic test); co-test (HPV plus cytology) in the symptomatic patient and in test-of-cure after treatment of a high-grade lesion; HPV vaccination as primary prevention.
-
-## 0.2 Liquid-Based Cytology (LBC)
-
-**D:** Cervical cells collected into a **liquid preservative vial** rather than smeared onto a slide; the laboratory produces a thin, even monolayer, removing blood, mucus and inflammatory debris.
-
-**Ind:** In Australia, LBC is now performed **reflexively on the HPV-positive (not 16/18) sample** — it is a **triage test within the screening program**, not a standalone screen. It is also used in the symptomatic patient as part of a co-test, and in test-of-cure surveillance after treatment of a high-grade abnormality.
-
-**Role:** **Cytology's role has been demoted from primary screen to triage.** Its remaining job is to sort HPV-positive patients into "repeat in 12 months" and "colposcopy now."
-
-> [!info] **Reporting terminology (Australian Modified Bethesda System)**
-> `Negative` · **`pLSIL` / `LSIL`** (possible/definite low-grade squamous intraepithelial lesion) · **`pHSIL` / `HSIL`** (possible/definite high-grade) · **glandular abnormalities** (AIS, adenocarcinoma) · **squamous cell carcinoma**. High-grade and glandular results drive referral.
-
-> [!warning] **LBC advantages and its one real trade-off.** Fewer unsatisfactory specimens than the conventional smear, and the residual sample can be used for HPV and other molecular testing without recalling the patient. Against that, **cytology is a morphological interpretation and remains subject to sampling and reader error** — its sensitivity for a single test is materially lower than that of HPV testing, which is exactly why HPV became the primary test.
-
-> [!danger] **Do not ignore**
-> - **A negative cytology in an HPV 16/18-positive patient does not avoid colposcopy.** The genotype drives the referral.
-> - **Glandular abnormalities are under-detected by cytology** and carry a higher risk of significant pathology — never watch and wait on one.
-> - **Cytology is not a test for endometrial cancer.** Endometrial cells reported in a postmenopausal woman are an incidental finding that requires separate investigation, not reassurance.
-
-**Normal/abnormal:** As the reporting categories above, plus specimen adequacy.
-
-**Alt:** Colposcopy with **histology** — the diagnostic standard, since cytology only ever suggests; HPV genotyping; **p16/Ki-67 dual staining** as an alternative triage of HPV-positive samples (in research and some international programs, not the Australian NCSP pathway).
-
-## 0.3 Genital / Cervical Swab Panel
-
-**D:** A set of specimens taken to identify genital tract infection: a **NAAT** for *Chlamydia trachomatis* and *Neisseria gonorrhoeae* (self-collected vaginal swab, clinician-collected endocervical swab, or **first-void urine**); a **high vaginal swab** for microscopy, culture and susceptibility (candida, bacterial vaginosis, *Trichomonas*, group B streptococcus); an **endocervical swab for gonococcal culture** where susceptibility testing matters; and extragenital **throat and rectal** swabs where indicated by sexual history.
-
-**Ind:** Vaginal discharge, dysuria, pelvic pain, dyspareunia, intermenstrual or postcoital bleeding; suspected **pelvic inflammatory disease**; contact tracing; asymptomatic screening in those at risk; pre-termination and pre-instrumentation screening; sexual assault (with forensic requirements taking precedence — see [[NEW_Safeguarding_and_Forensic]]).
-
-**Role:** Identifies treatable and notifiable infection, and — critically — **identifies partners who need treatment**.
-
-> [!info] **Which swab answers which question**
-> - **Chlamydia and gonorrhoea → NAAT.** Australian laboratories generally run these as a **duplex assay**, so a request for chlamydia will also detect gonococci.
-> - **A self-collected vaginal swab is not inferior for NAAT** — sources agree it performs comparably to clinician-collected sampling and it substantially improves uptake.
-> - **Candida, bacterial vaginosis and *Trichomonas* → high vaginal swab** with microscopy; these are not on the standard NAAT.
-> - **Gonococcal *culture* is still needed** where susceptibility is required (treatment failure, resistance surveillance) — NAAT gives no susceptibility.
-> - ***Mycoplasma genitalium*:** associated with cervicitis and PID, **but asymptomatic screening is not recommended** — test only when clinically indicated, because macrolide resistance is high and detection in an asymptomatic person leads to poorly justified treatment.
-
-> [!danger] **Do not ignore**
-> - **Do not wait for results in suspected PID.** PID is a **clinical diagnosis** and empirical antibiotic treatment starts immediately — delay costs fertility. Take the swabs, then treat. See [[17_05_PID__Endometriosis__Fibroids]].
-> - **Always do a pregnancy test** in a woman of reproductive age with pelvic pain. **Ectopic pregnancy presents as PID** and this mistake is fatal.
-> - **Chlamydia and gonorrhoea are notifiable** in all Australian jurisdictions, and **contact tracing is part of the treatment**, not an optional extra.
-> - **Offer the rest of the STI screen** — HIV, syphilis serology, hepatitis B and C — since co-infection is common and the patient is already in front of you.
-> - **Extragenital sites are missed by genital sampling alone**; pharyngeal and rectal infection is frequently asymptomatic and is only found if swabbed.
-
-**Normal/abnormal:** Organism detected or not detected (NAAT); organism grown with susceptibilities (culture); microscopy findings including clue cells, motile trichomonads and yeast.
-
-**Alt:** First-void urine NAAT (convenient, and the specimen of choice in men); bedside vaginal pH and wet mount; pelvic ultrasound where a tubo-ovarian abscess or other structural cause is suspected; laparoscopy in diagnostic uncertainty. See [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]].
-
-## 0.4 Hormone Panel (Gynaecological / Reproductive)
-
-**D:** A grouped set of serum measurements used to work up menstrual disturbance, hyperandrogenism and subfertility: **FSH, LH, oestradiol, prolactin, TSH**, **total testosterone with SHBG** (allowing a calculated free androgen index), **DHEAS**, **17-hydroxyprogesterone**, **mid-luteal progesterone**, and **AMH**.
-
-**Ind:** **Amenorrhoea or oligomenorrhoea**; suspected **PCOS**; hirsutism or virilisation; galactorrhoea; suspected premature ovarian insufficiency; subfertility work-up; suspected menopause where the diagnosis is genuinely in doubt.
-
-**Role:** Localises the problem in the **hypothalamic–pituitary–ovarian axis**, and separates the small number of dangerous causes from the common benign ones.
-
-> [!warning] **Timing is what makes or breaks this panel**
-> - **FSH, LH and oestradiol are taken in the early follicular phase — day 2–5** — because levels swing across the cycle and a mid-cycle sample is uninterpretable.
-> - **Where periods are absent or very irregular, take them on any day** — there is no cycle to time to, and waiting for "day 3" in an amenorrhoeic patient wastes months.
-> - **Mid-luteal progesterone (about 7 days before the expected period) is the ovulation test** — it must be timed to the individual cycle, not fixed at "day 21", which is only correct in a 28-day cycle.
-> - **AMH is cycle-independent** and reflects **ovarian reserve** — it predicts response to ovarian stimulation. **It is not a fertility test and must not be used to reassure or alarm a woman about her chance of conceiving naturally.**
-
-> [!danger] **Do not ignore**
-> - **Do a pregnancy test first.** Pregnancy is the commonest cause of secondary amenorrhoea and no hormone panel substitutes for βhCG.
-> - **Markedly raised prolactin needs a pituitary MRI** — and check whether the patient is on an **antipsychotic, metoclopramide or another dopamine antagonist** before imaging, since drug-induced hyperprolactinaemia is common. **Macroprolactin** is a laboratory artefact that produces a spuriously high result and should be excluded before a work-up is built on the number.
-> - **Rapid-onset hirsutism with virilisation** (voice deepening, clitoromegaly, male-pattern balding) and a **markedly raised testosterone** suggests an **androgen-secreting ovarian or adrenal tumour** — urgent, and a different pathway from PCOS.
-> - **Raised FSH with low oestradiol under age 40** is **premature ovarian insufficiency** — it needs confirmation on a repeat sample, karyotype and fragile X testing, bone protection and hormone therapy, and careful counselling. Do not diagnose it on one result.
-> - **PCOS is a diagnosis of exclusion built on defined criteria** — hyperandrogenism, ovulatory dysfunction and polycystic ovarian morphology — and **an LH:FSH ratio is not diagnostic** and is no longer part of the criteria. See [[17_01_FGM__Amenorrhoea__PCOS]].
-
-**Normal/abnormal:** **Reference intervals are assay- and phase-specific and are deliberately not reproduced here** — every value must be read against the laboratory's own range **for the stated cycle phase**, and against the menopausal status. Interpreting these numbers without the phase is meaningless.
-
-**Alt:** **Urine or serum βhCG first, always**; TSH and coeliac serology in menstrual disturbance; pelvic **ultrasound** for ovarian morphology, endometrial thickness and structural pathology; DEXA in prolonged hypo-oestrogenism; pituitary MRI; karyotype and fragile X in premature ovarian insufficiency; semen analysis in the couple's subfertility work-up. See [[17_06_Subfertility_and_OHSS]].
-
-## 0.5 Prenatal Screening Panel
-
-**D:** Two competing first-line strategies for **screening** (not diagnosing) fetal chromosomal abnormality. **Combined first trimester screening (cFTS)** — **nuchal translucency ultrasound at 11+0 to 13+6 weeks** plus maternal serum **PAPP-A** and **free βhCG**, combined with maternal age into a risk figure. **NIPT / cfDNA** — analysis of placentally derived cell-free DNA in maternal blood from about 10 weeks. **Second-trimester maternal serum screening** is the fallback where the first-trimester window has been missed.
-
-**Ind:** Offered to **all pregnant women**, with informed consent and after discussion of what the results can and cannot do. NIPT is not currently Medicare-funded in Australia and is paid for out of pocket — a real access issue that should be part of the counselling.
-
-**Role:** Estimates risk for **trisomy 21, 18 and 13** (and, on NIPT, sex chromosome aneuploidies and some microdeletions). **Neither test diagnoses anything.**
-
-> [!info] **Performance — and why NIPT has not simply replaced cFTS**
-> - **cFTS** detects roughly **90% of trisomy 21** at a false-positive rate of about **3–5%**.
-> - **NIPT** has a substantially higher detection rate and much lower false-positive rate for trisomy 21.
-> - **But cFTS includes an ultrasound**, and the nuchal translucency and the 11–13 week scan detect **structural abnormality, multiple pregnancy, incorrect dating and early-onset pre-eclampsia risk markers** that a blood test cannot. **An increased NT with a normal karyotype still matters** — it is associated with congenital heart disease and other structural anomalies and prompts fetal echocardiography.
-
-> [!danger] **A positive NIPT is a screening result and must be confirmed by CVS or amniocentesis before any irreversible decision.**
-> The positive predictive value depends heavily on the **prior probability** — for rarer conditions and in younger women it can be low, so a "positive" result is frequently a false positive. Causes of discordance include **confined placental mosaicism** (NIPT samples placenta, not fetus), **vanishing twin**, and **maternal** chromosomal abnormality or occult malignancy. **No termination should ever follow an unconfirmed NIPT result.**
-
-> [!warning] **Other limitations**
-> - **A "no-call" / failed NIPT is not a normal result** — it is associated with low fetal fraction, higher maternal BMI, early gestation and, importantly, an **increased risk of aneuploidy**. It requires review, not simple repetition.
-> - **NIPT does not screen for structural abnormality** — the **18–20 week morphology scan** does, and remains essential whatever the screening result.
-> - **Neural tube defects** are detected by ultrasound (and historically by maternal serum AFP), not by NIPT.
-> - Screening is **optional**. Declining is a legitimate choice, and the counselling must make clear what would be done with a positive result.
-
-**Normal/abnormal:** cFTS reports a **numerical risk** against a stated cut-off (increased vs low risk). NIPT reports **low risk / high risk / no result** for each condition tested. Neither is a diagnosis.
-
-**Alt:** **CVS** (0.6) and **amniocentesis** (0.7) — the diagnostic tests; second-trimester serum screening; **18–20 week morphology ultrasound**; carrier screening for recessive conditions; detailed fetal echocardiography where NT is increased. See [[16_01-05_Antenatal_Care]].
-
-## 0.6 Chorionic Villus Sampling (CVS)
-
-**D:** Ultrasound-guided aspiration of **placental (chorionic villus) tissue**, transabdominally or transcervically, for karyotype, microarray or targeted gene testing.
-
-**Ind:** A **high-risk screening result** (cFTS or NIPT); a **previous affected pregnancy** or known parental balanced translocation; a **familial single-gene disorder** where an early diagnosis is wanted; abnormal early ultrasound findings.
-
-**Role:** The **first-trimester diagnostic** option — its whole advantage over amniocentesis is **timing**. A result several weeks earlier allows an earlier, safer and more private termination if that is the couple's decision.
-
-> [!warning] **Performed from 11 weeks — and the gestational limit is not arbitrary.** Sources are consistent that **CVS before 10 weeks was associated with limb reduction defects**, with the excess risk falling steeply from 9 weeks and approaching background at 11 weeks and beyond. Registry data on CVS performed at **10 weeks or later show no increased risk**. This is why the procedure is not done earlier, and it is a genuinely examinable historical point.
-
-> [!danger] **Confined placental mosaicism is the characteristic pitfall of CVS.**
-> CVS samples **placenta, not fetus**. Mosaicism is found in roughly **1–2%** of CVS samples (compared with about **0.25%** of amniocenteses), and in most of those the abnormality is **confined to the placenta** — sources report the fetus is involved in only around **10%** of such cases. **An ambiguous CVS result therefore usually requires a follow-up amniocentesis** to establish the fetal genotype. Confined placental mosaicism itself is not entirely benign: it is associated with fetal growth restriction, preterm birth and low birth weight.
-
-> [!danger] **Do not ignore**
-> - **Anti-D prophylaxis is required for RhD-negative women** after CVS, as after any invasive uterine procedure — this is a routinely missed step. See 0.9.
-> - **Procedure-related pregnancy loss** — quote as "small" in counselling. **A single numeric figure is deliberately not stated:** retrieved values ranged widely, and contemporary cohorts report loss rates comparable to unsampled pregnancies. Use your fetal medicine unit's audited local figure, which is what the woman is actually consenting to.
-> - **CVS cannot detect neural tube defects** (no amniotic fluid AFP is obtained) — those need the morphology scan.
-> - The decision belongs to the woman. The role of the intern is accurate information and referral to a fetal medicine unit and genetic counselling, not persuasion in either direction.
-
-**Normal/abnormal:** Rapid aneuploidy testing (FISH/QF-PCR) within days, with full karyotype or microarray following. Mosaic or discordant results require amniocentesis.
-
-**Alt:** **Amniocentesis** (later, but samples fetal cells directly); **NIPT** where the indication is screening rather than diagnosis; declining testing.
-
-## 0.7 Amniocentesis
-
-**D:** Ultrasound-guided transabdominal aspiration of **amniotic fluid**, containing desquamated fetal cells, for karyotype, microarray, single-gene testing, infection PCR, or biochemical analysis.
-
-**Ind:** Diagnostic confirmation after a high-risk screening result or an abnormal CVS; abnormal ultrasound findings; suspected **congenital infection** (e.g. CMV, toxoplasmosis PCR on amniotic fluid); assessment of **fetal anaemia or haemolytic disease** in some settings; therapeutic **amnioreduction** in severe polyhydramnios; historically, fetal lung maturity testing (now essentially obsolete).
-
-**Role:** The **second-trimester diagnostic standard**, performed from **15 weeks**. Later than CVS, but it samples **fetal cells directly** and is therefore not subject to confined placental mosaicism — sources report amniocentesis predicts the true fetal genotype in **93–100%** of cases where placental mosaicism was found on CVS.
-
-> [!warning] **Not before 15 weeks.** Early amniocentesis was associated with a higher rate of pregnancy loss and with **talipes equinovarus**, and has been abandoned. If a diagnosis is needed earlier, the procedure is CVS.
-
-> [!danger] **Do not ignore**
-> - **Anti-D prophylaxis for RhD-negative women** — again, routinely forgotten.
-> - **Procedure-related loss is small.** One quoted figure is a **total fetal loss rate of about 0.6% within 14 days**, but the *attributable* excess over background is smaller and contested. **A single counselling figure is not asserted here** — use your unit's audited rate.
-> - **Advise the woman what to report afterwards**: persistent leaking of fluid, bleeding, contractions, fever. Amniotic fluid leak after the procedure often seals, but must be assessed.
-> - **A normal karyotype or microarray does not guarantee a normal baby.** It excludes the conditions tested for, nothing more. Saying otherwise is the commonest counselling error.
-> - **Culture failure and maternal cell contamination** are recognised technical failures; results are interpreted with that in mind.
-
-**Normal/abnormal:** Rapid aneuploidy result (FISH/QF-PCR) in 1–2 days; full karyotype or microarray in 1–2 weeks; PCR for infection as requested.
-
-**Alt:** **CVS** where an earlier answer is needed; **NIPT** for screening; **cordocentesis** (0.8) where fetal blood specifically is required; detailed ultrasound and fetal MRI for structural questions.
-
-## 0.8 Cordocentesis (Percutaneous Umbilical Blood Sampling, PUBS)
-
-**D:** Ultrasound-guided needle sampling of the **umbilical vein**, usually at the placental cord insertion, to obtain **fetal blood**.
-
-**Ind:** **Suspected fetal anaemia — the principal indication** (red cell alloimmunisation, parvovirus B19 infection, fetomaternal haemorrhage), where it is both diagnostic and the route for **intrauterine transfusion**. Also: fetal thrombocytopenia (alloimmune), rapid karyotype where an urgent answer is needed late in pregnancy, congenital infection, and some metabolic and haematological disorders.
-
-**Role:** A **highly specialised fetal medicine procedure** — an intern will never perform one, but must recognise the situations that generate the referral. **It has largely been displaced for diagnosis** by non-invasive alternatives, and its main contemporary role is as the **access route for fetal transfusion**.
-
-> [!warning] **Middle cerebral artery peak systolic velocity Doppler has replaced it for the detection of fetal anaemia.** MCA-PSV is non-invasive, repeatable and accurate, so cordocentesis is now generally reserved for the point at which the Doppler indicates that **transfusion** is required — sampling and transfusing in the same procedure.
-
-> [!danger] **Do not ignore**
-> - **The highest procedure risk of the three invasive tests.** Sources describe procedure-related complications in the order of **1–2%**, with **higher loss rates when performed early** — one series reports up to **4%** before 20 weeks, and higher complication rates before 17 weeks. It is done **from about 18 weeks** for this reason.
-> - **Anti-D for RhD-negative women**, and cordocentesis carries a particular risk of **worsening alloimmunisation** through fetomaternal haemorrhage — a real consideration in exactly the population being sampled.
-> - Other complications: **cord haematoma, fetal bradycardia, bleeding from the puncture site, chorioamnionitis, preterm labour**. Performed only where **immediate delivery is possible** if the fetus deteriorates.
-> - **Rh alloimmunisation is preventable.** The reason a fetus needs this procedure is often a missed anti-D dose earlier in this or a previous pregnancy. See [[16_08-09_Antenatal_and_Perinatal_Problems]].
-
-**Normal/abnormal:** Fetal haemoglobin, haematocrit, platelet count, blood group and direct antiglobulin test, karyotype, infection PCR — interpreted against **gestation-specific** fetal reference ranges, which differ substantially from adult and neonatal values.
-
-**Alt:** **MCA peak systolic velocity Doppler** — first-line for fetal anaemia; **amniocentesis** for karyotype and infection; **NIPT** for fetal RhD genotyping in an alloimmunised pregnancy; maternal antibody titres for surveillance.
-
-## 0.9 Kleihauer-Betke Test (Fetomaternal Haemorrhage Quantification)
-
-**D:** An acid-elution stain of a maternal blood film: adult haemoglobin is eluted from maternal cells while **fetal haemoglobin resists**, so fetal cells stand out and can be counted as a proportion of maternal cells, giving an estimated **volume of fetomaternal haemorrhage**.
-
-**Ind:** In an **RhD-negative** woman, after any **potentially sensitising event** — abdominal trauma (including minor trauma and motor vehicle accidents), antepartum haemorrhage, external cephalic version, invasive procedures, and **routinely after delivery**. Also used in any pregnancy to quantify suspected **large fetomaternal haemorrhage** presenting as reduced fetal movements, a sinusoidal CTG or unexplained stillbirth — **an indication that is independent of blood group** and is easily missed.
-
-**Role:** **It does not decide whether to give anti-D — it decides how much.** The standard dose is given on the clinical event; the Kleihauer determines whether that dose was sufficient.
-
-> [!info] **How the result translates into dose (Australian practice)**
-> Sources agree that the standard **postpartum dose of 625 IU RhD immunoglobulin covers a fetomaternal haemorrhage of about 6 mL of fetal red cells**, and that **additional RhD immunoglobulin is required where the FMH exceeds that**, dosed at approximately **100 IU per additional mL of fetal red cells**. Sources note that FMH exceeds the standard dose in **up to 3% of deliveries** — which is the entire justification for testing routinely rather than assuming.
-
-> [!danger] **Do not ignore**
-> - **Give anti-D within 72 hours of the sensitising event. Do not wait for the Kleihauer result.** Give the standard dose first and top up on the result. This is the single most important operational point, and delay is how women become sensitised.
-> - **Take the maternal sample before giving anti-D**, and take it at least 15 minutes to an hour after the event so fetal cells have distributed.
-> - **Anti-D is still indicated in an RhD-negative woman even if the Kleihauer is negative** after a sensitising event — a negative test does not exclude a small immunising bleed.
-> - **False positives** occur where maternal **F-cells** are increased — **haemoglobinopathies (thalassaemia, sickle cell trait), hereditary persistence of fetal haemoglobin**, and normal pregnancy itself. **Flow cytometry** is more accurate and reproducible and is used where the Kleihauer is high or the mother has a haemoglobinopathy.
-> - **The test is operator-dependent** with significant interobserver variability — an unexpectedly large result should be confirmed, not acted on blindly.
-> - **A massive fetomaternal haemorrhage is an obstetric emergency** regardless of blood group: the fetus may be profoundly anaemic and need urgent delivery or transfusion.
-
-**Normal/abnormal:** Reported as fetal cells per total cells and as an **estimated volume of fetal blood or fetal red cells** — check which your laboratory reports, because **whole blood and packed red cell volumes differ by roughly a factor of two** and confusing them mis-doses the anti-D.
-
-**Alt:** **Flow cytometry** for fetal red cells or HbF — more accurate, the preferred method where available; maternal antibody screen and group and hold; fetal MCA Doppler and CTG where significant haemorrhage is suspected.
-
-## 0.10 Ferning Test and Nitrazine Test (Confirming Rupture of Membranes)
-
-**D:** Two bedside tests on fluid taken from the **posterior vaginal fornix at sterile speculum examination**. **Ferning:** fluid is spread on a glass slide and air-dried for at least 10 minutes; amniotic fluid crystallises into a **fine, delicate fern (arborisation) pattern** under the microscope, distinct from the coarse arborisation of cervical mucus. **Nitrazine:** pH-indicator paper changes colour in an alkaline sample — **normal vaginal secretions are pH ~4.5–6.0, amniotic fluid ~7.1–7.3**.
-
-**Ind:** Suspected **prelabour rupture of membranes (PROM)** or **preterm PROM (PPROM)** — a history of a gush or continued leaking of fluid — where the diagnosis is not obvious on inspection.
-
-**Role:** Confirmatory bedside adjuncts. **Visible pooling of amniotic fluid in the posterior fornix at sterile speculum examination is diagnostic and needs no further test**; these tests are for the equivocal case.
-
-> [!danger] **DIGITAL VAGINAL EXAMINATION IS CONTRAINDICATED in suspected PPROM.**
-> It introduces infection, shortens the latency to delivery and adds nothing that a sterile speculum examination does not give. **Sterile speculum only.** This is the highest-yield single fact in this entry.
-
-> [!warning] **Both tests are unreliable in exactly the circumstances in which they are used**
-> - **Nitrazine false positives** — **blood, semen, alkaline antiseptics, bacterial vaginosis**, urine, and cervical mucus. All are common in a woman presenting in possible labour.
-> - **Ferning false positives** — cervical mucus (particularly around ovulation) and semen. **False negatives** — a dry, scanty or blood-contaminated sample, or insufficient drying time.
-> - Reported accuracies (roughly 84–100% for ferning and 87–97% for nitrazine) come from selected populations and **overstate real-world performance**.
-> - **A negative test does not exclude ruptured membranes.** With a convincing history, manage as PROM and observe — the clinical history outranks the bedside test.
-
-> [!danger] **Do not ignore**
-> - **Confirm gestation and fetal wellbeing**, and check the **group B streptococcus** status. PPROM management — corticosteroids for fetal lung maturation, latency antibiotics, magnesium sulfate for neuroprotection at early gestations, and decisions about timing of delivery — is gestation-dependent and specialist-led.
-> - **Look for chorioamnionitis**: maternal fever, tachycardia, fetal tachycardia, uterine tenderness, offensive discharge. Suspected chorioamnionitis means **antibiotics and delivery**, not expectant management.
-> - **Cord prolapse** is the immediate danger with ruptured membranes and a high presenting part — check the fetal heart rate promptly.
-> - See [[16_10-13_Labour_and_Delivery]].
-
-**Normal/abnormal:** Ferning present/absent; nitrazine paper colour change indicating alkaline pH. Interpret both alongside history, pooling and ultrasound liquor volume.
-
-**Alt:** **Direct visualisation of pooling** (the best evidence); **ultrasound assessment of amniotic fluid volume** (reduced liquor supports the diagnosis but does not confirm it); commercial immunoassays for **placental alpha-microglobulin-1 (PAMG-1)** or IGFBP-1 in cervicovaginal fluid, which are more specific than the bedside tests and unaffected by semen and blood in the way nitrazine is.
-
-## 0.11 Fetal Fibronectin (fFN)
-
-**D:** An immunoassay on a **cervicovaginal swab from the posterior fornix**, detecting fetal fibronectin — a glycoprotein at the choriodecidual interface. It is normally present before about 22 weeks and after about 35 weeks; its appearance in between suggests disruption of that interface.
-
-**Ind:** **Symptomatic threatened preterm labour between roughly 22–24 and 34 weeks** — contractions with an intact cervix, where the question is whether this woman will actually deliver.
-
-**Role:** **A rule-out test.** Its value is its **negative predictive value**, which sources report as very high — approaching 100% for delivery within 7 days. A negative result allows a woman to avoid transfer, admission, steroids and tocolysis. **A positive result is a much weaker predictor** — most fFN-positive women do not deliver preterm — so it should not by itself trigger intervention.
-
-> [!warning] **Sample before anything else touches the cervix, and know what corrupts the result**
-> - **Speculum lubricant causes false negatives** — use water only.
-> - **Take the swab before digital examination and before transvaginal ultrasound.**
-> - **Intercourse within 24 hours and blood in the sample cause false positives** (fFN is present in semen and in plasma). Notably, sources hold that a **negative** result remains valid even with blood or recent intercourse — the contamination pushes towards false positive, not false negative.
-> - **Do not perform the test at all** where there is **ruptured membranes, cervical dilatation beyond about 3 cm, moderate or gross vaginal bleeding, placenta praevia or suspected abruption.** Those are clinical situations that need management, not a probability estimate.
-
-> [!danger] **Do not ignore**
-> - **A negative fFN does not override a woman who is in labour.** If the cervix is changing, she is in preterm labour whatever the test says.
-> - **Do not delay corticosteroids in genuine preterm labour to wait for the result** — the fetal benefit of antenatal steroids depends on timing.
-> - **The test predicts timing, not cause.** It says nothing about infection, abruption or growth restriction, which must be assessed separately.
-> - **In-utero transfer to a centre with appropriate neonatal facilities is safer than transferring a preterm neonate.** A positive result in a woman remote from such a centre should lower the threshold to transfer.
-
-**Normal/abnormal:** Qualitative bedside assays report positive/negative against a **50 ng/mL** threshold; quantitative assays report a concentration allowing graded risk. **Interpretation is confined to the 22–34 week window** — outside it the test is not informative.
-
-**Alt:** **Transvaginal cervical length ultrasound** — used alone or combined with fFN, and a short cervix is the stronger structural predictor; serial clinical assessment; CTG and infection screen; assessment for the underlying cause.
-
-## 0.12 Biophysical Profile (BPP)
-
-**D:** An ultrasound-based assessment of fetal wellbeing scoring **five components 2 or 0** each, to a total of **10**: **fetal breathing movements**, **gross body movement**, **fetal tone**, **amniotic fluid volume**, and the **non-stress test (CTG)**. A **modified BPP** uses only the two most informative components — **NST plus amniotic fluid volume**.
-
-**Ind:** **Abnormal or equivocal CTG**; reduced fetal movements; suspected **fetal growth restriction**; post-dates pregnancy; maternal conditions increasing the risk of placental insufficiency (hypertension, pre-eclampsia, diabetes, antiphospholipid syndrome, cholestasis); oligohydramnios.
-
-**Role:** Assesses fetal wellbeing across **different timescales**. The acute markers — **breathing, movement, tone and the NST** — reflect current oxygenation; **amniotic fluid volume** reflects **chronic** placental function, because a chronically hypoxic fetus shunts blood away from the kidneys and produces less urine.
-
-> [!info] **Component definitions and scoring**
-> Sources agree on: **breathing** — one or more episodes of rhythmic breathing lasting ≥30 seconds within 30 minutes; **movement** — three or more discrete body or limb movements within 30 minutes; **tone** — one or more episodes of extension of a limb with return to flexion, or opening/closing of a hand; **amniotic fluid** — a single vertical pocket **exceeding 2 cm**; **NST** — reactive.
-> **Score 8–10 = reassuring · 6 = equivocal, repeat or deliver depending on gestation · ≤4 = strongly suggests fetal compromise and generally means delivery.**
-
-> [!danger] **The exception that overrides the score: oligohydramnios.**
-> Sources are explicit that **8/10 is normal only if the amniotic fluid component scored 2**. **A score of 8/10 achieved by losing the fluid point is NOT reassuring** and requires further evaluation and usually delivery, whatever the composite number says. **Look at which point was lost, not just the total.** This is the trap the number is designed to hide.
-
-> [!warning] **Interpretation depends on gestation and on maternal state**
-> - **Prematurity** reduces the score legitimately — breathing movements and reactivity are less developed. A modest score in a very preterm fetus is not the same finding as in a term fetus.
-> - **Maternal sedatives, opioids, magnesium sulfate, corticosteroids, smoking and hypoglycaemia** all reduce fetal activity and can produce a falsely low score.
-> - **Fetal sleep cycles** last up to 40 minutes; the test should be observed long enough before concluding.
-
-> [!danger] **Do not ignore**
-> - **The BPP is a snapshot with a false-negative rate**, and a reassuring score **does not license ignoring the mother.** Persistently reduced fetal movements warrant repeat assessment and escalation whatever the last score was.
-> - **A score of 0–2 is an emergency** — expedite delivery.
-> - **The BPP does not replace umbilical artery Doppler in suspected growth restriction**; Doppler detects placental insufficiency earlier and drives surveillance and timing.
-> - See [[16_08-09_Antenatal_and_Perinatal_Problems]].
-
-**Normal/abnormal:** As the score bands above, always read together with gestation, the individual component lost, the growth trajectory and the Doppler studies.
-
-**Alt:** **CTG / non-stress test** alone; **umbilical artery, MCA and ductus venosus Doppler**; serial **growth scans**; contraction stress test (rarely used in Australia); maternal monitoring of fetal movements.
-
----
-
-## Build status
-
-| # | Item | Built | Notes |
-|---|---|---|---|
-| 0.1 | Cervical Screening Abnormality | yes | Built as the Cervical Screening Test and its management pathway. |
-| 0.2 | Liquid Cytology | yes | |
-| 0.3 | Genital / Cervical Swab Panel | yes | |
-| 0.4 | Hormone Panel | yes | Reference intervals omitted — assay- and cycle-phase-specific. |
-| 0.5 | Prenatal Screening Panel | yes | |
-| 0.6 | Chorionic Villus Sampling | yes | Single procedure-loss figure omitted — retrieved values ranged widely. |
-| 0.7 | Amniocentesis | yes | As above; the 0.6% 14-day total loss figure is quoted with its limitation stated. |
-| 0.8 | Cordocentesis | yes | |
-| 0.9 | Kleihauer-Betke Test | yes | |
-| 0.10 | Ferning Test | yes | Built jointly with Nitrazine as one PROM entry — the two are performed on the same specimen at the same examination and are not separable clinically. |
-| 0.10 | Nitrazine Test | yes | As above. |
-| 0.11 | Fetal Fibronectin | yes | |
-| 0.12 | Biophysical Profile | yes | |
-| — | C-Spine X-Ray | **deferred** | **Miscategorised** in the build list under Gynaecology. It is an orthopaedic/trauma imaging study — deferred to `NEW_Investigations_Orthopaedics_Neurology_and_Other.md` (Part A file 11). |
-| — | Compression Test | **deferred** | **Miscategorised** under Gynaecology. This is the cervical **Spurling compression** exam manoeuvre — deferred to `NEW_Exam_Manoeuvres_and_Procedures.md` (Part B file 12). |
-| — | Distraction Test | **deferred** | **Miscategorised** under Gynaecology. Cervical **distraction** exam manoeuvre — deferred to Part B file 12 with Compression Test. |
-
-**Items in file: 13 entries covering 13 build-list rows. Build-list O&G investigation rows: 16; 3 deferred as miscategorised, with destinations recorded above.**
-
-
-<!-- ===== SOURCE: NEW_Obstetrics.md ===== -->
-
-
-# NEW — Obstetrics
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **This file contains the one Tier 1 Obstetrics topic only.** The category has 1 T1 and 7 T3 topics. See the build-status table at the end.
-
-## First-Trimester Pain
-
-- **D:** abdominal or pelvic pain in a woman up to about 13 weeks' gestation. **The presentation exists to identify ectopic pregnancy**, which remains a leading cause of first-trimester maternal death and which kills through haemorrhage in young, previously well women whose compensation masks the severity until late.
-- **DDx:**
-  - **Pregnancy-related:**
-    - **Ectopic pregnancy** — the must-exclude. Classically amenorrhoea, unilateral pain and bleeding, but **the classic triad is frequently absent**, and pain may be the only symptom. **Shoulder-tip pain, syncope or collapse suggest rupture with haemoperitoneum.**
-    - **Miscarriage** — threatened, inevitable, incomplete, complete or missed; typically crampy central pain with bleeding.
-    - **Pregnancy of unknown location** — a positive β-hCG with no pregnancy visible on ultrasound. **This is a working state requiring follow-up, not a reassuring result**, because ectopic remains possible.
-    - **Corpus luteum cyst** — rupture or haemorrhage.
-    - **Molar pregnancy** — with hyperemesis, a large-for-dates uterus and very high β-hCG.
-    - **Ovarian hyperstimulation syndrome** after assisted reproduction.
-  - **Gynaecological, non-pregnancy-specific:** **ovarian torsion** (more common in pregnancy owing to the enlarged corpus luteum — sudden severe unilateral pain with vomiting), ovarian cyst accident, pelvic inflammatory disease, fibroid degeneration (red degeneration in pregnancy).
-  - **Non-gynaecological — and pregnancy does not protect against any of them:** **appendicitis** (the commonest non-obstetric surgical emergency in pregnancy; **the appendix is displaced upward as gestation advances**, though less so in the first trimester), **urinary tract infection and pyelonephritis**, ureteric colic, bowel obstruction, cholecystitis and biliary colic, pancreatitis, constipation, gastroenteritis.
-- **Focused Hx:** **last menstrual period and gestational age by dates**; **whether this pregnancy has been confirmed and whether an ultrasound has yet established its location** — the single most useful piece of history, because a documented intrauterine pregnancy makes ectopic very unlikely; pain site, onset, severity, radiation, and **shoulder-tip pain**; **bleeding — amount, clots, tissue passed**; **dizziness, syncope, collapse**; nausea and vomiting; urinary and bowel symptoms; fever; **ectopic risk factors: previous ectopic, previous pelvic inflammatory disease or chlamydia, tubal surgery or sterilisation, IUD in situ, assisted reproduction, smoking, endometriosis** — while remembering that **most ectopic pregnancies occur in women with no risk factors**, so their absence is not reassuring; obstetric and gynaecological history; contraception; and **blood group and Rh status**.
-- **Examination:** **vital signs first, including postural blood pressure where safe** — **a young woman can maintain a normal blood pressure until she has lost a large volume, and tachycardia may be the only sign; bradycardia can occur with haemoperitoneum from peritoneal irritation**, which is a genuine trap.
-  - General appearance, pallor, perfusion, conscious state.
-  - **Abdominal examination** — tenderness, guarding, rebound, distension, and **specifically for peritonism, which suggests rupture**.
-  - **Speculum examination** where bleeding is present — to see the amount of bleeding, whether the cervical os is open or closed, and to identify products of conception or a local cause (**removing products from the os can relieve cervical shock**).
-  - **Bimanual examination** — uterine size and tenderness, **cervical motion tenderness**, and adnexal tenderness or mass, performed with consent, a chaperone, and gently.
-  - Both examinations require explanation and consent, and should be deferred in a haemodynamically unstable patient in favour of resuscitation and urgent senior involvement.
-- **First-line Ix:**
-  - **Urine or serum β-hCG — in every woman of reproductive age with abdominal pain, without exception.** This is the test whose omission produces the missed ectopic.
-  - **Transvaginal ultrasound** — the definitive investigation for locating the pregnancy, and more sensitive than transabdominal in early gestation.
-  - **Serum β-hCG, with serial measurement** where the pregnancy location is unknown. The **discriminatory zone** — the β-hCG level above which an intrauterine pregnancy should be visible on transvaginal ultrasound — is commonly quoted in the range of **about 1,500–3,000 IU/L**. **This is a range and not a threshold, it varies between institutions and with ultrasound equipment and operator, and it must not be used to exclude ectopic pregnancy: an ectopic can be present, and can rupture, at a β-hCG well below any discriminatory value.** Sources agree explicitly on this caution.
-  - **FBC, blood group and antibody screen (Rh status), UEC, LFTs**; **crossmatch** if bleeding or unstable.
-  - **Urinalysis and urine culture**; **MSU** — noting that leucocytes may be present from a gynaecological cause.
-  - **Progesterone** where locally used to support assessment of pregnancy viability.
-  - **Anti-D immunoglobulin** consideration in a Rh-negative woman with bleeding — a decision to raise early rather than at discharge.
-
-> [!danger] **The rule that prevents the deaths in this presentation:** **any woman of reproductive age with abdominal pain, collapse, or shoulder-tip pain has an ectopic pregnancy until a pregnancy test is negative or an intrauterine pregnancy is confirmed** — regardless of contraception, reported sexual history, or how well she looks. A negative history of amenorrhoea does not exclude it, because bleeding from an ectopic is frequently mistaken for a period.
-
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — First-Trimester Pain |
-| T3 | 7 | Not built |
-
-## Topics skipped in this category
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Reduced Fetal Movements** (T3) | `## Reduced fetal movements (RFM)` | `16_10-13_Labour_and_Delivery.md` | Exact |
-
-
-<!-- ===== SOURCE: O1_Early_Pregnancy.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and communication are reliable at intern level. **Every βhCG threshold, gestational limit, dose, anti-D regimen and legal provision carries an `UNVERIFIED` marker, or has been omitted with the omission stated in place.**
-> **Verify against RANZCOG statements, your local early pregnancy assessment protocol, eTG, and — for termination of pregnancy — the current South Australian legislation, which changed with decriminalisation and differs from other states.**
->
-> **Contraception and emergency contraception are built in [[O6]] 0.3**, and **nausea and vomiting more generally in [[C2]] 0.5** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Assessing Bleeding and Pain in Early Pregnancy
-
-> [!danger] Pregnancy test first, and ectopic until proven otherwise
-> **ANY woman of reproductive age presenting with abdominal or pelvic pain, abnormal bleeding, syncope, collapse, shoulder tip pain, or unexplained shock gets a PREGNANCY TEST.**
-> **AND THE THINGS THAT DO NOT EXCLUDE IT:**
-> **· "SHE HAD A PERIOD."** The bleeding of an ectopic pregnancy is frequently mistaken for a period — it is often lighter, later or different, but the patient reports it as a period and the diagnosis is dismissed.
-> **· "SHE'S ON CONTRACEPTION."** No method is perfect. **And an IUD in situ INCREASES the PROPORTION of pregnancies that are ectopic if conception occurs, because it prevents intrauterine implantation more effectively than tubal.**
-> **· "SHE'S NOT SEXUALLY ACTIVE."** Ask privately, and test anyway.
-> **· "SHE'S HAD A TUBAL LIGATION."** Sterilisation failure occurs, and when it does the pregnancy is more likely to be ectopic.
-> **A RUPTURED ECTOPIC PREGNANCY IS A PREVENTABLE DEATH OF A YOUNG WOMAN, and it remains a leading cause of first-trimester maternal death.**
-
-> [!warning] History and examination
-> **HISTORY: last menstrual period (with the caveat above) · previous ECTOPIC (the strongest risk factor) · previous pelvic inflammatory disease or chlamydia · tubal surgery or sterilisation · IVF · IUD · smoking · the character and site of the pain · the amount of bleeding and any clots or tissue passed · SYNCOPE OR DIZZINESS · and SHOULDER TIP PAIN, which indicates diaphragmatic irritation by intraperitoneal blood and is an important and specific symptom.**
-> **BE ALERT TO ATYPICAL PRESENTATIONS: ectopic pregnancy mimics gastroenteritis (diarrhoea and vomiting), urinary infection, appendicitis and even a faint at work.**
-> **EXAMINATION: observations — noting that a YOUNG WOMAN COMPENSATES WELL AND MAY MAINTAIN A NORMAL BLOOD PRESSURE UNTIL SHE IS PROFOUNDLY HYPOVOLAEMIC, so a normal blood pressure is not reassurance · abdominal examination for peritonism · SPECULUM examination · and bimanual examination for cervical motion tenderness and adnexal mass.**
-> **ONE SPECIFIC POINT ON THE SPECULUM: PRODUCTS OF CONCEPTION SITTING IN THE CERVICAL OS SHOULD BE REMOVED WITH SPONGE FORCEPS.** **Tissue distending the cervical canal causes a vagal response — "CERVICAL SHOCK" — with bradycardia, hypotension and collapse that can be mistaken for haemorrhagic shock.** **Removing the products resolves it immediately, and it is a satisfying and easily missed intervention.**
-
-> [!tip] The investigations, and how they fit together
-> **· QUANTITATIVE SERUM βhCG.**
-> **· TRANSVAGINAL ULTRASOUND — far superior to transabdominal in early pregnancy.**
-> **· FBC, and GROUP AND ANTIBODY SCREEN — because RHESUS STATUS determines the need for anti-D.**
-> **THE DISCRIMINATORY ZONE: the βhCG level above which an intrauterine pregnancy should be visible on transvaginal ultrasound.** **Above that level with an EMPTY UTERUS, the pregnancy is either ectopic or has failed.** `UNVERIFIED — the threshold, which varies with the scanner, the operator and local protocol.`
-> **SERIAL βhCG: a normal early intrauterine pregnancy shows a characteristic rate of rise over 48 hours. A SUBOPTIMAL RISE OR A PLATEAU suggests an ectopic or a failing pregnancy; a clear FALL suggests a resolving pregnancy.** **But the pattern is not absolute — an ectopic can rise normally, and a viable pregnancy can rise slowly.** `UNVERIFIED — the expected rate of rise.`
-> **PREGNANCY OF UNKNOWN LOCATION — a positive pregnancy test with no intrauterine or extrauterine pregnancy identified.** **It is a holding diagnosis, not a reassuring one: these women are managed with serial βhCG and repeat imaging per protocol, and MUST BE TREATED AS A POSSIBLE ECTOPIC — given clear written safety-netting advice and a specific contact, and told to return immediately with pain, dizziness or shoulder tip pain.**
-> **ANTI-D IMMUNOGLOBULIN is required for Rhesus-negative women with bleeding or uterine instrumentation in pregnancy, from a defined gestation.** `UNVERIFIED — the gestational thresholds, dose and timing, and whether a Kleihauer is required.`
-
----
-
-## 0.2 Ectopic Pregnancy
-
-> [!danger] A third to a half have no risk factors at all
-> **Implantation outside the uterine cavity, the great majority in the fallopian tube.**
-> **RISK FACTORS: PREVIOUS ECTOPIC (the strongest) · pelvic inflammatory disease and chlamydia · tubal surgery including sterilisation · IVF and assisted reproduction · an IUD in situ · endometriosis · and smoking.**
-> **BUT A SUBSTANTIAL PROPORTION OF WOMEN WITH AN ECTOPIC PREGNANCY HAVE NO IDENTIFIABLE RISK FACTOR.** **The absence of risk factors must not lower your suspicion — it is one of the ways the diagnosis is missed.**
-
-> [!warning] Management, and the counselling that goes with methotrexate
-> **· EXPECTANT MANAGEMENT — for carefully selected women with a low and falling βhCG, minimal symptoms and reliable follow-up.**
-> **· MEDICAL MANAGEMENT WITH METHOTREXATE — for a haemodynamically stable woman with an unruptured ectopic below defined size and βhCG thresholds, without fetal cardiac activity, who is ABLE AND WILLING TO ATTEND FOR SERIAL FOLLOW-UP.** `UNVERIFIED — the criteria, dose and monitoring schedule.`
-> **THE COUNSELLING POINTS THAT MATTER:**
-> **· SERIAL βhCG FOLLOW-UP IS ESSENTIAL AND NOT OPTIONAL — treatment failure and rupture occur, and the follow-up is what detects it.**
-> **· "SEPARATION PAIN" a few days after methotrexate is common and expected — but it CANNOT BE DISTINGUISHED FROM RUPTURE BY THE WOMAN AT HOME.** **So the instruction is to attend for assessment with significant pain, rather than to assume it is expected.**
-> **· AVOID FOLIC ACID supplements (which antagonise the methotrexate), NSAIDs, alcohol and sun exposure.**
-> **· AVOID PREGNANCY for a defined period afterwards, because of teratogenicity — and provide contraception.** `UNVERIFIED — the interval.`
-> **· SURGICAL MANAGEMENT — laparoscopic SALPINGECTOMY (removing the tube) or SALPINGOTOMY (opening it and preserving it, which requires follow-up βhCG because trophoblast can persist).** **Indicated for rupture, haemodynamic instability, significant pain, high βhCG, fetal cardiac activity, or failed medical management.**
-> **A RUPTURED ECTOPIC WITH SHOCK IS A RESUSCITATION AND A LAPAROTOMY — large-bore access, blood, activation of the massive transfusion protocol if needed, and theatre. Do not delay for imaging.** Cross-refer [[A9]] 0.1.
-
-> [!danger] Three variants that catch people out
-> **1. HETEROTOPIC PREGNANCY — a simultaneous intrauterine AND ectopic pregnancy.** **Rare naturally, but MUCH more common after IVF.** **THEREFORE: seeing an intrauterine pregnancy on ultrasound does NOT exclude a concurrent ectopic in a woman who conceived through assisted reproduction — and pain in that setting still needs the adnexa examined.**
-> **2. INTERSTITIAL (CORNUAL) ECTOPIC — implanted in the intramural portion of the tube.** **It presents LATER because the myometrium accommodates it, and it ruptures CATASTROPHICALLY with massive haemorrhage.** **It is easily mistaken for an eccentric intrauterine pregnancy on ultrasound.**
-> **3. CAESAREAN SCAR ECTOPIC — implantation in the scar of a previous caesarean, increasing in frequency with rising caesarean rates, and carrying risks of massive haemorrhage and uterine rupture.**
-> **Also cervical, ovarian and abdominal ectopics.**
-
-> [!tip] Afterwards
-> **· FUTURE FERTILITY — most women conceive successfully afterwards, and saying so matters, but the risk of a further ectopic is INCREASED.**
-> **· ARRANGE AN EARLY ULTRASOUND IN THE NEXT PREGNANCY, and tell her to present as soon as she has a positive test.** **This is the single most useful thing you can offer.**
-> **· CONTRACEPTION, chlamydia testing, and smoking cessation.**
-> **· And acknowledge the LOSS. An ectopic pregnancy is both a medical emergency and a bereavement, and the second part is routinely forgotten because everyone is relieved she survived.** See 0.3.
-
----
-
-## 0.3 Miscarriage
-
-> [!info] The terminology, which determines management
-> **· THREATENED — bleeding with a CLOSED cervical os and a viable intrauterine pregnancy. Most continue.**
-> **· INEVITABLE — bleeding with an OPEN os.**
-> **· INCOMPLETE — some products passed, some retained.**
-> **· COMPLETE — the uterus is empty and the os is closed.**
-> **· MISSED (delayed) — no fetal cardiac activity or an empty gestational sac, WITHOUT symptoms, often found at a routine scan.** **This is a particularly difficult presentation, because the woman arrives feeling pregnant and well.**
-> **· SEPTIC — with fever, offensive discharge, uterine tenderness and systemic illness. A medical emergency requiring urgent antibiotics and evacuation.**
-> **MISCARRIAGE OCCURS IN ROUGHLY ONE IN FIVE RECOGNISED PREGNANCIES** — which is worth saying, because most women believe it is rare and therefore that something must have gone specifically wrong for them.
-
-> [!tip] Management — offer all three options
-> **Where clinically safe, EXPECTANT, MEDICAL and SURGICAL management should all be offered, and THE CHOICE IS THE WOMAN'S.**
-> **· EXPECTANT — waiting for spontaneous completion. Avoids intervention; unpredictable timing; may involve significant bleeding and pain at home; needs clear safety netting and follow-up.**
-> **· MEDICAL — misoprostol, with or without mifepristone. Predictable timing; bleeding and cramping heavier than a period; may still need surgical management.**
-> **· SURGICAL — manual vacuum aspiration or curettage. Quick and definitive; requires anaesthesia; small risks of perforation, infection and adhesions.**
-> **Discuss with each option: how much bleeding and pain to expect · how long it takes · the chance of needing something else afterwards · and what to do if things go wrong.**
-> `UNVERIFIED — regimens and success rates.`
-> **ANTI-D for Rhesus-negative women per protocol, and remember it for surgical management and for later gestations.**
-
-> [!danger] The communication is the main clinical task — and the wrong sentences do lasting harm
-> **THE THING WOMEN NEED TO HEAR MOST: "THIS WAS NOT YOUR FAULT, AND THERE IS NOTHING YOU DID OR COULD HAVE DONE DIFFERENTLY."**
-> **Almost every woman searches for a cause in her own behaviour — the glass of wine before she knew, lifting a toddler, going to the gym, having sex, a stressful week at work, an argument. Say it explicitly and unprompted, and say it more than once.**
-> **USE HER LANGUAGE. If she says "the baby", say "the baby". Do not correct her to "the pregnancy", and do not use "products of conception" in front of her.**
-> **WHAT NOT TO SAY — all of these are common, all are meant kindly, and all cause harm:**
-> **· "At least you know you can get pregnant."**
-> **· "It was probably for the best" / "it was nature's way."**
-> **· "You're young, you can try again."**
-> **· "At least it was early."**
-> **· "You can always have another one."**
-> **Each of these minimises the loss and communicates that her grief is disproportionate — and women remember them for years.**
-> **INSTEAD: "I'm so sorry." · "This is a real loss." · silence. · "How are you doing?"**
-> **THE GRIEF IS OFTEN PROFOUND AND SOCIALLY UNRECOGNISED — there is frequently no funeral, no leave, and no acknowledgement from people who did not know about the pregnancy.**
-> **AND ASK THE PARTNER HOW THEY ARE.** **Partners grieve too, are expected to be the supporter, and are almost never asked.**
-> **Practical: what bleeding and pain to expect, when to seek help, what to do with any tissue passed (and whether they wish it to be tested or handled in a particular way), follow-up, and bereavement support services.** `UNVERIFIED — Australian support organisations.`
-> **Advice on trying again: there is no strong evidence requiring a delay, and the decision is hers.**
-
----
-
-## 0.4 Molar Pregnancy and Hyperemesis
-
-> [!warning] Gestational trophoblastic disease
-> **Abnormal proliferation of trophoblast — complete or partial hydatidiform mole.**
-> **THE FEATURES THAT SHOULD PROMPT THE THOUGHT: bleeding in early pregnancy · a UTERUS LARGE FOR DATES · a VERY HIGH βhCG · HYPEREMESIS (driven by the βhCG) · theca lutein cysts · and — the specific one — FEATURES OF PRE-ECLAMPSIA OR HYPERTHYROIDISM BEFORE 20 WEEKS.**
-> **PRE-ECLAMPSIA DOES NOT OCCUR BEFORE 20 WEEKS IN A NORMAL PREGNANCY, so its appearance early is a red flag for molar disease.** **And βhCG cross-reacts with the TSH receptor, which is why very high levels cause biochemical and occasionally clinical hyperthyroidism.**
-> **Ultrasound shows a characteristic cystic or "snowstorm" appearance with no fetus in a complete mole.**
-> **MANAGEMENT: SUCTION EVACUATION · REGISTRATION with a gestational trophoblastic disease centre · and SERIAL βhCG MONITORING until it normalises and for a defined period afterwards.**
-> **THE CRITICAL COUNSELLING POINT: RELIABLE CONTRACEPTION IS REQUIRED THROUGHOUT FOLLOW-UP** — because a new pregnancy raises the βhCG and makes it impossible to distinguish from persistent trophoblastic disease, which is what the monitoring exists to detect.
-> **A proportion develop persistent gestational trophoblastic neoplasia or choriocarcinoma, which is highly chemosensitive and curable when detected — hence the follow-up.** `UNVERIFIED — monitoring schedules and the contraception interval.`
-
-> [!danger] Hyperemesis gravidarum is not morning sickness
-> **Persistent vomiting with WEIGHT LOSS, DEHYDRATION, KETOSIS and ELECTROLYTE DISTURBANCE — a different condition from the common nausea of early pregnancy, and it causes substantial morbidity.**
-> **IT IS ROUTINELY MINIMISED — and dismissal contributes to psychological harm, to social withdrawal, to job loss, and to women terminating WANTED pregnancies because the suffering is intolerable and they were told to eat dry crackers.** **Take it seriously.**
-> **ASSESSMENT: weight and weight loss · hydration · urinary KETONES · UEC (looking for hypokalaemia and a hypochloraemic alkalosis) · and exclusion of other causes — urinary tract infection, thyroid disease, MOLAR pregnancy, multiple pregnancy, and gastrointestinal or neurological causes.** Severity can be scored. `UNVERIFIED — the scoring tool.`
-> **MANAGEMENT: rehydration · stepwise ANTIEMETICS, chosen by mechanism, with explicit reassurance about safety in pregnancy, because women frequently refuse effective treatment out of fear of harming the baby · nutritional support · and admission where oral intake fails.** `UNVERIFIED — all agents and doses.`
-
-> [!danger] Two things that are forgotten in hyperemesis, and both cause serious harm
-> **1. THIAMINE BEFORE ANY GLUCOSE-CONTAINING FLUID.**
-> **Prolonged vomiting depletes thiamine, and administering glucose to a thiamine-deficient woman PRECIPITATES WERNICKE ENCEPHALOPATHY.**
-> **Wernicke encephalopathy in hyperemesis is well described, causes permanent neurological damage and fetal loss, and IS ENTIRELY PREVENTABLE.** **Give thiamine.** Cross-refer [[C2]] 0.7 and [[N2]] 0.1.
-> **2. THROMBOPROPHYLAXIS.**
-> **Pregnancy is already a hypercoagulable state; add dehydration, immobility and hospital admission, and the venous thromboembolism risk is substantial.**
-> **VTE is a leading cause of direct maternal death, and an admitted, dehydrated, vomiting pregnant woman is a high-risk patient in whom prophylaxis is routinely not prescribed.** Cross-refer [[J3]] 0.6 and [[O2]].
-
----
-
-## 0.5 Unintended Pregnancy
-
-> [!tip] Options counselling — information, not persuasion
-> **The three options are: CONTINUING the pregnancy and parenting · continuing and pursuing ADOPTION or other permanent care arrangements · and TERMINATION.**
-> **The clinician's role is to provide ACCURATE, NON-DIRECTIVE, TIMELY information about all three, and to facilitate access to whichever the person chooses.**
-> **· Ask what she is thinking, before offering an opinion.**
-> **· Do not assume from age, relationship status, parity or circumstances what she will choose.**
-> **· Check for coercion in either direction — from a partner or family — and see her alone.** Cross-refer [[GER4]] 0.4.
-> **· BE TIMELY. Delay reduces the available options and increases the complexity and cost of whatever she chooses.** **Sitting on a referral is not a neutral act.**
-
-> [!danger] Conscientious objection does not permit obstruction
-> **A practitioner with a conscientious objection to termination of pregnancy may decline to participate — but is REQUIRED NOT TO OBSTRUCT ACCESS.**
-> **In practice this means: disclosing the objection promptly and without judgement · informing the person of their right to see another practitioner · and (depending on jurisdiction) transferring care or providing a referral to a practitioner who does not object.**
-> **Delaying, discouraging, withholding information or providing misleading information is a professional conduct matter, not an exercise of conscience.**
-> **TERMINATION OF PREGNANCY WAS DECRIMINALISED IN SOUTH AUSTRALIA, and is now regulated as a health matter rather than under the criminal law.** `UNVERIFIED — the current SA legislation, the gestational limits, the requirements for later gestations, the conscientious objection provisions, and the age-related considerations. These differ between states and must be checked before advising anyone.`
-
-> [!warning] The care itself
-> **· MEDICAL termination — a mifepristone and misoprostol regimen, available up to a gestational limit, and providable in PRIMARY CARE in Australia by appropriately certified prescribers with pharmacy dispensing arrangements.** `UNVERIFIED — the gestational limit and the certification requirements, which have changed.`
-> **· SURGICAL termination — suction curettage, with later methods beyond a certain gestation.**
-> **· AFTERCARE: CONTRACEPTION — and long-acting reversible contraception can generally be commenced or inserted IMMEDIATELY, which is the point of highest effectiveness and lowest attrition** (cross-refer [[O6]] 0.3) **· ANTI-D for Rhesus-negative women · follow-up to confirm completion · and emotional support offered without assumption.**
-> **THE EVIDENCE ON PSYCHOLOGICAL OUTCOMES IS CLEAR: abortion does not cause long-term mental health harm, and the strongest predictor of poorer psychological outcome is pre-existing mental illness and unsupportive circumstances — not the procedure.** **Being told otherwise is itself harmful, and clinicians should not perpetuate it.**
-> **ACCESS BARRIERS IN AUSTRALIA are real: geography (rural and remote), cost, provider availability, and gestational limits.** **Knowing the local pathway and being able to refer promptly is the practical contribution.**
-
----
-
-## 0.6 Early Pregnancy Care and Recurrent Loss
-
-> [!tip] Preconception and early pregnancy — the things that must happen early
-> **· FOLIC ACID — commenced BEFORE conception and continued through the first trimester, to reduce neural tube defects.** **A HIGHER DOSE is required for: a previous affected pregnancy · DIABETES · OBESITY · ANTIEPILEPTIC medication · malabsorption · and some other conditions.** **The standard dose is inadequate for these groups, and this is regularly missed.** `UNVERIFIED — the doses.`
-> **· IODINE supplementation.**
-> **· MEDICATION REVIEW — ideally before conception.** **The teratogens to identify and change: SODIUM VALPROATE (and antiepileptics generally, which require specialist planning rather than abrupt cessation) · ISOTRETINOIN · ACE INHIBITORS and ARBs · WARFARIN · METHOTREXATE · and some others.** **Equally important is identifying what must be CONTINUED — antiepileptics, thyroid replacement, antidepressants where indicated, and asthma treatment — because abrupt cessation on discovering a pregnancy causes its own harm.** Cross-refer [[D6]] 0.3 and [[N4]] 0.6.
-> **· Smoking, alcohol and other substance cessation.** **There is no established safe level of alcohol in pregnancy** — cross-refer [[N2]] 0.2 and [[M4]] 0.6.
-> **· Vaccination status, cervical screening status, and optimisation of chronic disease — particularly DIABETES, where periconceptional glycaemic control determines congenital malformation risk.** Cross-refer [[I2]].
-> **· DATING — ultrasound in the first trimester is the most accurate method, and accurate dating underpins every subsequent decision in the pregnancy.**
-> **· BOOKING INVESTIGATIONS: blood group and antibody screen · FBC and ferritin · rubella immunity · syphilis, hepatitis B, hepatitis C and HIV serology · urine culture (asymptomatic bacteriuria is treated in pregnancy) · and an offer of aneuploidy and structural screening with appropriate counselling.** `UNVERIFIED — the current recommended panel.`
-
-> [!warning] Recurrent pregnancy loss
-> **Investigation is generally offered after a defined number of consecutive losses.** `UNVERIFIED — the threshold, which has been revised downward in some guidance.`
-> **THE CAUSES WORTH KNOWING:**
-> **· ANTIPHOSPHOLIPID SYNDROME — the most important, because it is TREATABLE.** **Testing requires persistent antibody positivity on two occasions at least 12 weeks apart, and treatment with ASPIRIN PLUS LOW MOLECULAR WEIGHT HEPARIN substantially improves live birth rates.** Cross-refer [[J3]] 0.6.
-> **· PARENTAL CHROMOSOMAL rearrangement — balanced translocation in one partner, identified by karyotyping both.**
-> **· UTERINE structural anomaly, and Asherman syndrome.**
-> **· ENDOCRINE — poorly controlled diabetes, thyroid disease and thyroid autoimmunity.**
-> **· Advancing maternal age, which is the strongest single factor and is not modifiable.**
-> **· Inherited thrombophilia — a contested association, and routine testing is generally not recommended.**
-> **A LARGE PROPORTION REMAIN UNEXPLAINED — and saying so honestly, while also saying that the prognosis for a subsequent successful pregnancy remains good even after several losses, is the substance of the consultation.**
-> **AND: SUPPORTIVE CARE IN THE NEXT PREGNANCY — early reassurance scans, frequent contact and continuity of care — has evidence of benefit, and it costs little.** **Anxiety in a pregnancy following loss is intense and under-acknowledged.**
-
-**Ix:** **PREGNANCY TEST in any woman of reproductive age with pain, bleeding, syncope or collapse** (*why:* ruptured ectopic is a preventable death and the alternative explanations are more comfortable to reach for; *what:* positive). **Quantitative βhCG, TRANSVAGINAL ULTRASOUND, FBC and GROUP AND ANTIBODY SCREEN** (*why:* locates the pregnancy, assesses blood loss, and determines anti-D need; *what:* location, viability, Rhesus status). **SERIAL βhCG where the location is unknown** (*why:* the trend distinguishes a viable, failing or ectopic pregnancy — but is not absolute; *what:* the rate of change). **SPECULUM EXAMINATION with removal of products from the os** (*why:* cervical shock is reversible in seconds and mimics haemorrhagic shock; *what:* tissue in the canal, os status). **URINARY KETONES, UEC and weight in hyperemesis** (*why:* quantifies severity and identifies the hypochloraemic alkalosis and hypokalaemia; *what:* ketosis, electrolyte disturbance). **THIAMINE BEFORE glucose-containing fluid** (*why:* Wernicke encephalopathy in hyperemesis is well described and entirely preventable; *what:* prevention). **βhCG and ULTRASOUND where the uterus is large for dates or pre-eclampsia appears before 20 weeks** (*why:* molar pregnancy; *what:* very high βhCG, cystic appearance). **ANTIPHOSPHOLIPID ANTIBODIES, repeated at 12 weeks, and parental karyotyping in recurrent loss** (*why:* antiphospholipid syndrome is treatable and transforms live birth rates, and a single positive antibody does not diagnose it; *what:* persistent positivity, balanced translocation). **ANTI-D per protocol in Rhesus-negative women with bleeding or instrumentation** (*why:* prevents sensitisation affecting future pregnancies; *what:* Rhesus status and the need for a Kleihauer).
-
----
-
-> [!note] Cross-references
-> Later pregnancy, pre-eclampsia and VTE in pregnancy → [[O2]] · Labour, delivery and postpartum → [[O3]] · Contraception, LARC and emergency contraception → [[O6]] 0.3 · Abnormal uterine bleeding and menstrual disorders → [[O4]] · Pelvic pain, PID and ovarian torsion → [[O5]] 0.1, 0.3 · Nausea, vomiting and antiemetic choice → [[C2]] 0.5 · Wernicke encephalopathy and thiamine → [[C2]] 0.7 and [[N2]] 0.1 · Massive haemorrhage and transfusion → [[A9]] 0.1 · Antiphospholipid syndrome and VTE → [[J3]] 0.6 · Teratogenic medication and epilepsy in pregnancy → [[D6]] 0.3 and [[N4]] 0.6 · Diabetes and preconception control → [[I2]] · Alcohol in pregnancy and FASD → [[N2]] 0.2 and [[M4]] 0.6 · Family violence, reproductive coercion and seeing the woman alone → [[GER4]] 0.4 · Breaking bad news and grief → [[GER5]] 0.2 · Rhesus disease and neonatal jaundice → [[M3]] 0.1
-
-
-<!-- ===== SOURCE: O2_Later_Pregnancy_and_Fetal.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Recognition, mechanism and discriminators are reliable at intern level. **Every dose, blood pressure threshold, gestational cut-off and regimen carries an `UNVERIFIED` marker, or has been omitted with the omission stated in place.** **Magnesium sulfate and antihypertensive regimens are protocol-driven and are not reproduced here.**
-> Verify against **RANZCOG**, the **SOMANZ hypertension in pregnancy guideline**, the **Safer Baby Bundle**, eTG and your local maternity protocols.
->
-> **Early pregnancy is built in [[O1]]**, **labour and postpartum in [[O3]]**, and **trauma in pregnancy in [[L8]] 0.6** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Hypertensive Disorders of Pregnancy
-
-> [!info] The four categories
-> **· CHRONIC (pre-existing) HYPERTENSION — present before pregnancy or before 20 weeks.**
-> **· GESTATIONAL HYPERTENSION — new hypertension AFTER 20 weeks, WITHOUT features of pre-eclampsia.** A proportion progress to pre-eclampsia, so it requires surveillance rather than reassurance.
-> **· PRE-ECLAMPSIA — see 0.2.**
-> **· PRE-ECLAMPSIA SUPERIMPOSED ON CHRONIC HYPERTENSION — the highest-risk group, and harder to recognise because the baseline is already abnormal.**
-> **The 20-week line matters: hypertension before it is pre-existing; after it, it is a pregnancy-specific disorder until proven otherwise.**
-> `UNVERIFIED — the diagnostic blood pressure thresholds.`
-
-> [!danger] The drugs — and the ones that must be stopped
-> **SAFE AND USED IN PREGNANCY: LABETALOL · METHYLDOPA · NIFEDIPINE · HYDRALAZINE (parenteral, for acute severe hypertension).**
-> **CONTRAINDICATED: ACE INHIBITORS AND ARBs — they cause fetal renal failure, oligohydramnios, pulmonary hypoplasia, skull ossification defects and fetal death.** **A woman of childbearing potential on an ACE inhibitor should know this and have a plan; a woman who presents pregnant on one needs it changed immediately.** **DIURETICS are generally avoided.**
-> Cross-refer [[B2]] 0.5 and [[O1]] 0.6.
-
-> [!warning] FLAG 2026-09-01 — this pointer does not resolve, and is deliberately NOT guessed
-> **`B2_Hypertension_Spectrum` has only `§0.1`–`§0.4`. There is no `§0.5`.**
-> The context is antihypertensives in pregnancy, so the intended target was plausibly
-> `B2 §0.1 Elevated Blood Pressure` or `§0.3 Hypertensive Emergency` — **but that is a guess, and
-> CLAUDE.md rule 1 forbids writing a plausible-sounding cross-reference.**
-> This is the **only dangling numeric pointer left in the vault** after the 23 repaired on 2026-09-01.
-> It needs a human ruling. `UNVERIFIED — all doses and thresholds for treatment.`
-
-> [!warning] Three points that change management
-> **1. TREATING THE BLOOD PRESSURE DOES NOT TREAT PRE-ECLAMPSIA.**
-> **Antihypertensives prevent MATERNAL STROKE. They do NOT alter the underlying placental disease, do not protect the fetus, and do not remove the need for surveillance or delivery.** **A woman whose blood pressure has normalised on treatment still has pre-eclampsia and can still progress to eclampsia, HELLP or abruption.**
-> **2. SEVERE HYPERTENSION IN PREGNANCY IS AN EMERGENCY, AND THE RISK IS INTRACRANIAL HAEMORRHAGE.** **Maternal stroke from uncontrolled severe hypertension is a recognised and preventable cause of maternal death, and it is the reason acute severe hypertension is treated urgently rather than observed.**
-> **3. BLOOD PRESSURE OFTEN PEAKS SEVERAL DAYS AFTER DELIVERY — commonly around days three to five — WHICH IS AFTER MOST WOMEN HAVE GONE HOME.**
-> **Pre-eclampsia and eclampsia can present or worsen POSTPARTUM, sometimes weeks later.** **A woman presenting after delivery with headache, visual symptoms, epigastric pain or a seizure must have pre-eclampsia considered — and this is regularly missed because the pregnancy is thought to be over.** Cross-refer [[O3]].
-
-> [!danger] Hypertensive disease in pregnancy is a lifelong cardiovascular risk marker
-> **Women who have had pre-eclampsia or gestational hypertension have a substantially increased lifetime risk of chronic hypertension, ischaemic heart disease, stroke, chronic kidney disease and diabetes.**
-> **Pregnancy functions as a cardiovascular stress test that identifies women at risk decades before they would otherwise be detected.**
-> **AND THIS FOLLOW-UP IS ALMOST NEVER ARRANGED.** The woman is discharged from maternity care and the information is lost.
-> **THE ACTION: document it prominently in the discharge summary to the GP, tell the woman explicitly, and recommend lifelong cardiovascular risk assessment — blood pressure, lipids, glucose and lifestyle — starting in the years after the pregnancy rather than in her sixties.** Cross-refer [[GER3]] 0.2 and [[B2]] 0.1.
-
----
-
-## 0.2 Pre-eclampsia and Eclampsia
-
-> [!danger] Proteinuria is no longer required for the diagnosis
-> **Pre-eclampsia is a MULTISYSTEM disorder of placental origin: new-onset hypertension after 20 weeks PLUS evidence of maternal ORGAN DYSFUNCTION or UTEROPLACENTAL dysfunction.**
-> **CURRENT DEFINITIONS DO NOT REQUIRE PROTEINURIA.** **A woman with new hypertension and thrombocytopenia, deranged liver enzymes, renal impairment, neurological features, pulmonary oedema or fetal growth restriction HAS PRE-ECLAMPSIA even with a clear urine dipstick.**
-> **Waiting for proteinuria before making the diagnosis is an outdated and dangerous practice.**
-> **THE ORGAN SYSTEMS: RENAL (proteinuria, rising creatinine) · HEPATIC (transaminitis, epigastric or right upper quadrant pain) · NEUROLOGICAL (headache, visual disturbance, HYPERREFLEXIA AND CLONUS, eclampsia, stroke) · HAEMATOLOGICAL (thrombocytopenia, haemolysis, DIC) · PULMONARY OEDEMA · and UTEROPLACENTAL (fetal growth restriction, abnormal umbilical artery Dopplers, abruption).**
-> `UNVERIFIED — the full diagnostic criteria.`
-
-> [!danger] Epigastric pain in a pregnant woman is pre-eclampsia until the BP and urine are checked
-> **THE SYMPTOMS THAT MATTER, and that women are frequently told are normal in pregnancy:**
-> **· SEVERE HEADACHE, particularly new, persistent and not relieved by simple analgesia.**
-> **· VISUAL DISTURBANCE — flashing lights, blurring, scotomata.**
-> **· EPIGASTRIC OR RIGHT UPPER QUADRANT PAIN — from hepatic capsular stretch.**
-> **THIS IS THE ONE THAT IS MISSED.** **It is attributed to reflux, gastritis or "indigestion in pregnancy" — all of which are genuinely common — and the woman is given an antacid and sent home with undiagnosed severe pre-eclampsia or HELLP syndrome.**
-> **ANY PREGNANT OR RECENTLY PREGNANT WOMAN WITH EPIGASTRIC PAIN GETS A BLOOD PRESSURE, A URINE DIPSTICK AND BLOODS. Every time.**
-> **· Nausea and vomiting in the second half of pregnancy (new vomiting late in pregnancy is not morning sickness).**
-> **· Sudden swelling of the face, hands or feet.**
-> **· REDUCED FETAL MOVEMENTS.**
-> **· Breathlessness (pulmonary oedema).**
-
-> [!warning] Risk factors, and the prevention that is under-prescribed
-> **HIGH RISK: PREVIOUS PRE-ECLAMPSIA (the strongest single factor) · chronic hypertension · CHRONIC KIDNEY DISEASE · pre-existing DIABETES · AUTOIMMUNE DISEASE, particularly ANTIPHOSPHOLIPID SYNDROME and lupus · and multiple pregnancy.**
-> **MODERATE RISK: nulliparity · age extremes · obesity · family history · long interpregnancy interval · and assisted reproduction.**
-> **LOW-DOSE ASPIRIN, started EARLY in pregnancy and continued, SUBSTANTIALLY REDUCES the risk of pre-eclampsia in high-risk women — and it is UNDER-PRESCRIBED.** **The timing matters: starting it late loses most of the benefit.** **Calcium supplementation is used in low-intake populations.** `UNVERIFIED — the dose, the gestational window for starting, and the risk criteria triggering it.`
-> **Identifying risk at the booking visit and prescribing aspirin is one of the highest-value preventive actions in antenatal care.**
-
-> [!danger] HELLP syndrome and eclampsia
-> **HELLP — HAEMOLYSIS, ELEVATED LIVER ENZYMES, LOW PLATELETS.**
-> **IT CAN OCCUR WITHOUT MARKED HYPERTENSION AND WITHOUT PROTEINURIA**, which is why it is missed. **The presenting complaint is frequently epigastric or right upper quadrant pain, nausea and malaise — and it is diagnosed on the bloods.**
-> **The feared complication is HEPATIC HAEMATOMA AND CAPSULAR RUPTURE, which is catastrophic.**
-> **ECLAMPSIA — a generalised tonic-clonic seizure in pre-eclampsia.**
-> **IT CAN OCCUR WITHOUT PRECEDING SEVERE HYPERTENSION OR PROTEINURIA, and it can occur POSTPARTUM, up to weeks after delivery.**
-> **MANAGEMENT OF AN ECLAMPTIC SEIZURE: call for help · A–B–C, protect the airway, oxygen · LEFT LATERAL POSITION (to relieve aortocaval compression) · protect from injury · MAGNESIUM SULFATE · control the blood pressure · and then plan DELIVERY once the woman is stabilised.**
-> **DELIVER THE MOTHER FIRST — stabilise her before delivering the baby. An unstable mother cannot be safely anaesthetised or operated on, and the fetus does better if the mother is resuscitated.**
-
-> [!danger] Magnesium sulfate — and know the toxicity before you give it
-> **MAGNESIUM SULFATE IS THE TREATMENT FOR ECLAMPTIC SEIZURES AND THE PROPHYLAXIS AGAINST THEM IN SEVERE PRE-ECLAMPSIA.**
-> **IT IS SUPERIOR TO DIAZEPAM AND PHENYTOIN for this indication — this is well established and is a common examination point. It is not an ordinary anticonvulsant being used off-label; it is the drug of choice.**
-> **MAGNESIUM TOXICITY PROGRESSES IN A PREDICTABLE ORDER, AND THE FIRST SIGN IS THE ONE YOU MONITOR:**
-> **1. LOSS OF DEEP TENDON REFLEXES (patellar) — the earliest sign.**
-> **2. RESPIRATORY DEPRESSION.**
-> **3. CARDIAC CONDUCTION abnormalities and arrest.**
-> **SO MONITORING IS: DEEP TENDON REFLEXES · RESPIRATORY RATE · oxygen saturation · and URINE OUTPUT (magnesium is renally cleared, so oliguria causes accumulation — a woman with impaired renal function needs a reduced dose and closer monitoring).**
-> **THE ANTIDOTE IS INTRAVENOUS CALCIUM GLUCONATE — know where it is kept on the ward before you need it.**
-> `UNVERIFIED — loading and maintenance regimens, monitoring frequency, and the calcium gluconate dose.`
-> **THE DEFINITIVE TREATMENT OF PRE-ECLAMPSIA IS DELIVERY OF THE PLACENTA.** Everything else is temporising. **The timing balances maternal deterioration against fetal prematurity, and antenatal corticosteroids are given if delivery is anticipated preterm.**
-
----
-
-## 0.3 Antepartum Haemorrhage
-
-> [!danger] Do not perform a vaginal examination until placenta praevia is excluded
-> **Bleeding from the genital tract after 20 weeks.**
-> **A DIGITAL VAGINAL EXAMINATION IN THE PRESENCE OF AN UNDIAGNOSED PLACENTA PRAEVIA CAN PROVOKE CATASTROPHIC HAEMORRHAGE.**
-> **THE RULE: NO DIGITAL VAGINAL EXAMINATION IN ANTEPARTUM HAEMORRHAGE UNTIL THE PLACENTAL SITE IS KNOWN — check the notes for a previous scan, or obtain an ultrasound.** A careful speculum examination is generally acceptable and is different.
-
-> [!warning] Praevia versus abruption — the discriminators
-> | | **PLACENTA PRAEVIA** | **PLACENTAL ABRUPTION** |
-> |---|---|---|
-> | Pain | **PAINLESS** | **PAINFUL — constant, severe** |
-> | Uterus | **Soft, non-tender** | **TENSE, "WOODY", TENDER, irritable** |
-> | Bleeding | Visible, often bright red, may be recurrent | **May be CONCEALED** |
-> | Shock | Proportional to visible loss | **OUT OF PROPORTION to visible loss** |
-> | Fetal condition | Usually well initially | **Distress or death is common** |
-> | Presentation | Often malpresentation, high head | Normal lie |
-> **THE CRITICAL POINT ABOUT ABRUPTION: THE BLEEDING MAY BE CONCEALED BEHIND THE PLACENTA.** **The visible loss can be minimal or absent while the woman is exsanguinating into the uterus — so SHOCK OUT OF PROPORTION TO VISIBLE BLEEDING IS THE HALLMARK, and resuscitation must be guided by the woman's physiology, not by what is on the pad.**
-> **Abruption risk factors: HYPERTENSION and pre-eclampsia · TRAUMA — including motor vehicle accidents and FAMILY VIOLENCE, which must be considered (cross-refer [[GER4]] 0.4 and [[L8]] 0.6) · SMOKING · cocaine and methamphetamine use · previous abruption · polyhydramnios and sudden decompression · and prolonged rupture of membranes.**
-> **Abruption also causes DIC**, which compounds the haemorrhage. Cross-refer [[A9]] 0.3.
-
-> [!danger] The rarer catastrophes, and the placenta accreta spectrum
-> **· VASA PRAEVIA — unprotected FETAL vessels running across the internal os.** **Rupture of the membranes tears them, and the blood lost is FETAL — so a relatively small volume causes rapid fetal exsanguination and death.** **The classic presentation is painless bleeding at the moment of membrane rupture with immediate, profound fetal bradycardia.** **It demands immediate delivery.**
-> **· UTERINE RUPTURE — most often in a woman with a previous caesarean scar in labour.** **Features: severe constant pain, sudden cessation of contractions, loss of the presenting part on examination, palpable fetal parts abdominally, maternal shock and fetal bradycardia.**
-> **· PLACENTA ACCRETA SPECTRUM — abnormally invasive placenta, whose principal risk factor is a PREVIOUS CAESAREAN SECTION COMBINED WITH A PLACENTA PRAEVIA OVERLYING THE SCAR, with the risk rising with the number of previous caesareans.** **It causes massive obstetric haemorrhage and often requires hysterectomy.** **It should be identified ANTENATALLY on imaging so that delivery can be planned in a centre with interventional radiology, blood bank support and experienced surgeons — an unanticipated accreta in a small hospital is a maternal death waiting to happen.** **Rising caesarean rates mean rising accreta rates.**
-
-> [!tip] Managing antepartum haemorrhage
-> **RESUSCITATE THE MOTHER FIRST — the fetus is best served by a well-perfused mother.**
-> **· Large-bore intravenous access, bloods including FBC, coagulation, GROUP AND CROSSMATCH, and Kleihauer where relevant.**
-> **· Activate the massive transfusion protocol if the bleeding is significant.** Cross-refer [[A9]] 0.1.
-> **· LEFT LATERAL TILT or manual uterine displacement after about 20 weeks, to relieve aortocaval compression.**
-> **· ANTI-D for Rhesus-negative women.**
-> **· CTG for fetal assessment, and ultrasound for placental site.**
-> **· URGENT obstetric involvement, and preparation for delivery.**
-> **· And consider the CAUSE — including checking the blood pressure and urine, since abruption and pre-eclampsia are linked.**
-
----
-
-## 0.4 Preterm Labour and Prelabour Rupture of Membranes
-
-> [!danger] The four interventions that change outcomes
-> **Preterm birth is the leading cause of neonatal death and of long-term neurodevelopmental morbidity, and these are the interventions worth knowing:**
-> **1. ANTENATAL CORTICOSTEROIDS — the single most effective intervention in obstetrics.** **They reduce neonatal respiratory distress syndrome, intraventricular haemorrhage, necrotising enterocolitis and NEONATAL DEATH.** **Give them when preterm birth is anticipated within the relevant window and gestational range.** `UNVERIFIED — the gestational range, agent, dose and repeat course policy.`
-> **2. MAGNESIUM SULFATE FOR FETAL NEUROPROTECTION — given before very preterm birth, it REDUCES CEREBRAL PALSY.** **This is a different indication and a different regimen from eclampsia prophylaxis, and it is easy to conflate them.** `UNVERIFIED — gestational threshold and regimen.`
-> **3. IN UTERO TRANSFER — transferring the mother to a hospital with the appropriate level of neonatal care produces BETTER OUTCOMES than delivering locally and transferring the baby afterwards.** **The safest incubator is the uterus.**
-> **4. TOCOLYSIS — and understand what it is for.** **It does NOT meaningfully prolong pregnancy or improve neonatal outcomes on its own. Its purpose is to BUY TIME — for corticosteroids to work and for in utero transfer to occur.** **Using it to try to hold a pregnancy indefinitely is not its role.**
-> **Plus: antibiotics in PPROM to prolong latency, and intrapartum GROUP B STREPTOCOCCUS prophylaxis.**
-
-> [!warning] PPROM and chorioamnionitis
-> **PRELABOUR RUPTURE OF MEMBRANES BEFORE TERM — confirmed on SPECULUM examination seeing liquor pooling.**
-> **AVOID DIGITAL VAGINAL EXAMINATION IN PPROM — it introduces organisms and shortens the latency period, increasing infection risk.** **Speculum only.**
-> **The risks: ASCENDING INFECTION and chorioamnionitis · CORD PROLAPSE · placental abruption · and, with early and prolonged oligohydramnios, PULMONARY HYPOPLASIA and limb contractures.**
-> **CHORIOAMNIONITIS — maternal FEVER · maternal and FETAL TACHYCARDIA · uterine tenderness · offensive or purulent liquor · and raised inflammatory markers.**
-> **IT IS AN INDICATION FOR DELIVERY plus antibiotics, regardless of gestation — continuing the pregnancy in the presence of intrauterine infection harms both mother and baby.** **Fetal tachycardia may be the earliest sign.**
-> **Monitoring in PPROM: temperature, pulse, fetal heart rate, uterine tenderness, liquor character and inflammatory markers.**
-> **PREVENTION IN A SUBSEQUENT PREGNANCY: a previous preterm birth is the strongest risk factor, and progesterone, cervical length surveillance and cerclage are used — which makes documenting a preterm birth clearly in the discharge summary genuinely consequential.**
-
----
-
-## 0.5 Fetal Concerns
-
-> [!danger] Reduced fetal movements — assess, never reassure over the phone
-> **Reduced fetal movements are associated with STILLBIRTH, fetal growth restriction and placental insufficiency.**
-> **EVERY WOMAN REPORTING REDUCED MOVEMENTS NEEDS ASSESSMENT — history, examination, CTG, and consideration of ultrasound for growth and liquor volume.**
-> **DO NOT REASSURE HER OVER THE PHONE, and do not tell her to have a cold drink and lie down and call back — this advice has featured in stillbirth reviews.**
-> **THE ADVICE TO GIVE WOMEN ANTENATALLY: there is no set number of movements to count, and formal kick-count charts are not recommended as a screening tool — but SHE SHOULD PRESENT PROMPTLY IF THE PATTERN OF MOVEMENT CHANGES OR REDUCES, at any hour, and should not wait until morning or until the next appointment.**
-> **Repeated presentations with reduced movements are a particular concern, not a nuisance.**
-
-> [!warning] Fetal growth restriction and stillbirth prevention
-> **SMALL FOR GESTATIONAL AGE means below a size threshold; FETAL GROWTH RESTRICTION means the fetus has not achieved its growth potential — and the two overlap imperfectly.** **A constitutionally small but healthy fetus is different from a growth-restricted one, and a fetus of "normal" size can be growth-restricted.**
-> **Causes: PLACENTAL insufficiency (the commonest, and linked to pre-eclampsia) · maternal (hypertension, smoking, substance use, malnutrition, chronic disease) · fetal (chromosomal abnormality, structural anomaly) · and congenital INFECTION.**
-> **DETECTION: symphysis-fundal height measurement has POOR sensitivity, which is why customised growth charts and ultrasound surveillance in at-risk women are used.** **Umbilical artery Doppler assessment guides timing of delivery in established growth restriction.**
-> **STILLBIRTH — Australia's stillbirth rate has plateaued, and a proportion of stillbirths are potentially preventable.** **The Safer Baby Bundle addresses the modifiable elements: SMOKING CESSATION · improving detection and management of FETAL GROWTH RESTRICTION · improving awareness and response to REDUCED FETAL MOVEMENTS · SIDE SLEEPING in the third trimester · and decision-making about timing of birth.** `UNVERIFIED — current bundle elements.`
-> **THE SIDE-SLEEPING ADVICE IS WORTH KNOWING AND GIVING: going to sleep ON THE BACK in the third trimester is associated with an increased risk of stillbirth, and women should be advised to settle to sleep on their side.** **It is simple, free, and frequently not communicated.**
-
-> [!tip] Reading a CTG — DR C BRAVADO
-> **· DR — DEFINE RISK (what is the clinical context? A CTG is uninterpretable without it.)**
-> **· C — CONTRACTIONS (frequency and duration).**
-> **· BRA — BASELINE RATE.**
-> **· V — VARIABILITY — the single most important indicator of fetal wellbeing. Reduced variability is concerning; a sleep cycle is a benign cause and is time-limited.**
-> **· A — ACCELERATIONS — reassuring.**
-> **· D — DECELERATIONS — EARLY (with contractions, head compression, benign) · VARIABLE (cord compression) · LATE (occurring after the contraction peak, indicating UTEROPLACENTAL INSUFFICIENCY AND HYPOXIA — the concerning ones).**
-> **· O — OVERALL impression and action.**
-> `UNVERIFIED — the classification system and normal ranges.`
-> **THE INTERPRETIVE CAVEAT: CTG HAS HIGH SENSITIVITY BUT POOR SPECIFICITY. Most abnormal traces are not associated with a hypoxic baby, and continuous monitoring in low-risk labour increases intervention (caesarean and instrumental delivery) without clear improvement in outcome.** **It must be interpreted in clinical context and with senior input, not as a standalone verdict.**
-
----
-
-## 0.6 Medical Problems and Infection in Pregnancy
-
-> [!tip] The physiological changes that alter interpretation
-> **· PLASMA VOLUME rises more than red cell mass → a DILUTIONAL "anaemia" with different normal ranges.**
-> **· CARDIAC OUTPUT and heart rate rise; blood pressure falls in the second trimester then returns toward baseline.**
-> **· A HYPERCOAGULABLE state — physiological preparation for delivery, and the reason VTE risk is elevated.**
-> **· GFR RISES → creatinine and urea FALL, so a "normal" creatinine in pregnancy may represent significant impairment.**
-> **· Reduced lower oesophageal sphincter tone and delayed gastric emptying → reflux, and ASPIRATION RISK at anaesthesia.**
-> **· Progesterone-driven hyperventilation → a compensated RESPIRATORY ALKALOSIS, so a "normal" pCO₂ in a breathless pregnant woman is abnormal and concerning.**
-> **· AORTOCAVAL COMPRESSION after about 20 weeks — the gravid uterus compresses the inferior vena cava when supine, and left lateral tilt or manual uterine displacement can restore a blood pressure on its own.** Cross-refer [[L8]] 0.6.
-
-> [!danger] Venous thromboembolism is a leading cause of direct maternal death
-> **Pregnancy and the postpartum period are hypercoagulable, and the puerperium carries the highest risk.**
-> **· ANTICOAGULATION IS WITH LOW MOLECULAR WEIGHT HEPARIN. Warfarin is teratogenic and DOACs are not used.**
-> **· RISK-ASSESS every woman antenatally, on admission and postnatally, and prescribe prophylaxis accordingly — including after caesarean, with hyperemesis, with immobility, and with obesity.**
-> **· DIAGNOSIS IS HARDER: breathlessness and leg swelling are common in normal pregnancy, D-dimer is unhelpful because it rises physiologically, and imaging decisions involve radiation counselling.** **The consequence is that the threshold for investigating must be LOWER, not higher — and imaging should not be withheld from a pregnant woman with suspected pulmonary embolism.** Cross-refer [[J3]] 0.4, 0.6.
-
-> [!warning] The medical conditions that need active management
-> **· DIABETES — pre-existing and GESTATIONAL.** **Periconceptional glycaemic control determines congenital malformation risk; gestational diabetes causes macrosomia, shoulder dystocia, neonatal hypoglycaemia and hyperbilirubinaemia.** **AND THE FOLLOW-UP THAT IS ROUTINELY NOT ARRANGED: gestational diabetes confers a high lifetime risk of type 2 diabetes, requiring a POSTPARTUM GLUCOSE TOLERANCE TEST and then LIFELONG PERIODIC SCREENING.** **Put it in the discharge summary.** Cross-refer [[I2]] 0.1.
-> **· ASTHMA — frequently UNDER-TREATED in pregnancy because women and clinicians fear the medications.** **Uncontrolled asthma is far more dangerous to the fetus than inhaled corticosteroids are. Continue and optimise treatment.** Cross-refer [[F0.5]] 0.1.
-> **· EPILEPSY — requires pre-pregnancy planning, high-dose folate, and specialist medication review. Valproate must be avoided.** **Do not stop antiepileptics abruptly on discovering a pregnancy.** Cross-refer [[D6]] 0.3.
-> **· THYROID disease, cardiac disease, autoimmune disease and inflammatory bowel disease all need specialist co-management.**
-> **· MENTAL HEALTH — cross-refer [[N4]] 0.6 and [[O3]]. **The framing is treated illness versus untreated illness, and maternal suicide is a leading cause of maternal death.**
-> **· ANAEMIA and iron deficiency — screen and treat, since it is common and affects both mother and baby.**
-
-> [!danger] The infections that matter, and the two that are rising in Australia
-> **· ASYMPTOMATIC BACTERIURIA IS TREATED IN PREGNANCY** — unlike in non-pregnant adults — because it progresses to pyelonephritis and is associated with preterm birth. **Screen at booking.**
-> **· GROUP B STREPTOCOCCUS — intrapartum antibiotic prophylaxis by screening or risk-based protocol, to prevent early-onset neonatal sepsis.** Cross-refer [[M2]] 0.2.
-> **· SYPHILIS — Australia has a sustained infectious syphilis OUTBREAK with CONGENITAL SYPHILIS CASES, including deaths.** **Congenital syphilis is entirely preventable by antenatal testing and treatment, and cases represent a system failure.** **Testing at booking, and RETESTING later in pregnancy in higher-prevalence settings, is the response.** Cross-refer [[O6]] 0.1 and [[AU1]] 0.4.
-> **· HIV — antenatal testing with treatment reduces mother-to-child transmission to very low levels. Universal offer of testing is standard.**
-> **· HEPATITIS B — maternal screening allows the neonate to receive immunoglobulin and vaccination at birth, preventing chronic infection. This is time-critical in the first hours of life.**
-> **· CYTOMEGALOVIRUS — the commonest infectious cause of congenital disability, including sensorineural hearing loss, and frequently unrecognised. Hygiene advice for pregnant women with young children is the main preventive measure.**
-> **· TOXOPLASMOSIS and LISTERIA — food and cat litter advice.**
-> **· PARVOVIRUS B19 — fetal anaemia and HYDROPS.** Cross-refer [[J2]] 0.1.
-> **· VARICELLA — significantly more severe in pregnancy, with maternal pneumonia; VZIG for susceptible exposed women, and neonatal risk with peripartum infection.**
-> **· INFLUENZA and COVID-19 — both cause MORE SEVERE disease in pregnancy, with increased ICU admission and preterm birth.** **Vaccination in pregnancy is recommended and protects both mother and infant.** Cross-refer [[GER3]] 0.4.
-> **· And RUBELLA — check immunity at booking and vaccinate POSTPARTUM (it is a live vaccine and is not given in pregnancy).**
-
-> [!tip] Prescribing in pregnancy
-> **THE DEFAULT ERROR IS WITHHOLDING NECESSARY TREATMENT.** **Most medicines are compatible with pregnancy, and the risk of untreated maternal illness — asthma, epilepsy, depression, infection, thromboembolism — usually exceeds the risk of the drug.**
-> **Product information is written defensively and is a poor guide.** **Use a specialist obstetric medicines information service, which every state has, and consult early rather than stopping a drug reflexively when a woman announces a pregnancy.**
-> **And take the opportunity of preconception planning wherever a woman of childbearing potential is on a teratogen — the decision is far better made before conception than after.** Cross-refer [[O1]] 0.6.
-
-**Ix:** **BLOOD PRESSURE AND URINE DIPSTICK in every pregnant or recently pregnant woman with headache, visual symptoms, epigastric pain, vomiting or swelling** (*why:* epigastric pain is attributed to reflux while severe pre-eclampsia progresses; *what:* hypertension, proteinuria). **FBC, UEC, LFT, urate and coagulation in suspected pre-eclampsia** (*why:* the diagnosis no longer requires proteinuria and is made on organ dysfunction — thrombocytopenia and transaminitis identify HELLP; *what:* the organ involvement). **DEEP TENDON REFLEXES, RESPIRATORY RATE and URINE OUTPUT during magnesium infusion** (*why:* loss of reflexes is the earliest sign of toxicity and precedes respiratory depression; *what:* toxicity). **NO DIGITAL VAGINAL EXAMINATION in antepartum haemorrhage until the placental site is known, and none in PPROM** (*why:* it can precipitate catastrophic haemorrhage in praevia and introduces infection in PPROM; *what:* avoided harm). **CTG and ultrasound for EVERY report of reduced fetal movements** (*why:* it is associated with stillbirth and telephone reassurance features in stillbirth reviews; *what:* fetal wellbeing, growth, liquor). **GROUP AND CROSSMATCH, Kleihauer and ANTI-D in any bleeding after 20 weeks in a Rhesus-negative woman** (*why:* sensitisation affects future pregnancies; *what:* Rhesus status and the volume of fetomaternal haemorrhage). **A LOWER threshold for imaging suspected pulmonary embolism in pregnancy** (*why:* D-dimer is uninterpretable, symptoms overlap with normal pregnancy, and VTE is a leading cause of maternal death; *what:* the embolus). **Booking infection screen with RETESTING for syphilis later in pregnancy in higher-prevalence settings** (*why:* congenital syphilis is entirely preventable and cases are rising in Australia; *what:* treponemal serology). **POSTPARTUM GLUCOSE TOLERANCE TEST after gestational diabetes, documented in the discharge summary** (*why:* the lifetime type 2 diabetes risk is high and the follow-up is routinely lost; *what:* persistent glucose intolerance).
-
----
-
-> [!note] Cross-references
-> Early pregnancy, ectopic and preconception care → [[O1]] · Labour, delivery, postpartum haemorrhage and postnatal mental health → [[O3]] · Contraception and postpartum LARC → [[O6]] 0.3 · Hypertension and long-term cardiovascular risk → [[B2]] and [[GER3]] 0.2 · Massive haemorrhage, transfusion and DIC → [[A9]] 0.1, 0.3 · VTE, thrombophilia and antiphospholipid syndrome → [[J3]] 0.4, 0.6 · Diabetes and preconception glycaemic control → [[I2]] 0.1 · Asthma → [[F0.5]] 0.1 · Epilepsy and teratogenic medication → [[D6]] 0.3 · Perinatal mental health → [[N4]] 0.6 · Group B streptococcus and neonatal sepsis → [[M2]] 0.2 · Neonatal jaundice, hypoglycaemia and congenital heart disease → [[M3]] · Parvovirus and fetal anaemia → [[J2]] 0.1 · Syphilis and STI screening → [[O6]] 0.1 and [[AU1]] 0.4 · Immunisation in pregnancy → [[GER3]] 0.4 · Trauma in pregnancy and aortocaval compression → [[L8]] 0.6 · Family violence in pregnancy → [[GER4]] 0.4 · Breaking bad news and perinatal loss → [[GER5]] 0.2
-
-
-<!-- ===== SOURCE: O3_Labour__Delivery_and_Postpartum.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Frameworks, emergency sequences and discriminators are reliable at intern level. **Every dose, blood loss threshold, time limit and regimen carries an `UNVERIFIED` marker, or has been omitted with the omission stated in place.** **Uterotonic doses are not reproduced here** — use your local postpartum haemorrhage protocol, which will be on the wall of the birth suite.
-> Verify against **RANZCOG**, your maternity unit's emergency protocols, and **eTG**.
->
-> **Hypertensive disorders, antepartum haemorrhage and CTG are built in [[O2]]**, **breastfeeding in [[O7]] 0.6**, and **neonatal care in [[M3]]** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Normal Labour
-
-> [!info] The stages, and the framework for when it goes wrong
-> **· FIRST STAGE — onset of established labour to full dilatation, with a LATENT and an ACTIVE phase.**
-> **· SECOND STAGE — full dilatation to birth, with a PASSIVE (descent) and an ACTIVE (pushing) phase.**
-> **· THIRD STAGE — birth of the baby to delivery of the placenta and membranes.**
-> **THE THREE Ps — the framework for analysing any labour that is not progressing:**
-> **· POWER — the strength, frequency and coordination of contractions.**
-> **· PASSENGER — the fetus: size, LIE, PRESENTATION, POSITION and attitude (degree of flexion).**
-> **· PASSAGE — the bony pelvis and the soft tissues.**
-> **Almost every case of failure to progress is explicable in those terms, and naming which P is the problem directs the management.**
-
-> [!tip] Monitoring, and the evidence on continuous CTG
-> **Progress is documented on a PARTOGRAM: cervical dilatation, descent, contractions, fetal heart rate, and maternal observations.**
-> **FETAL MONITORING: INTERMITTENT AUSCULTATION is appropriate for LOW-RISK labour; CONTINUOUS CTG is for high-risk labour and for specific intrapartum indications.**
-> **THE EVIDENCE POINT WORTH KNOWING: CONTINUOUS CTG IN LOW-RISK LABOUR INCREASES CAESAREAN AND INSTRUMENTAL DELIVERY RATES WITHOUT IMPROVING NEONATAL OUTCOMES** — because CTG has high sensitivity and poor specificity for hypoxia, so it generates intervention for babies who were never compromised. **This is why it is not applied universally.** Cross-refer [[O2]] 0.5.
-
-> [!warning] Analgesia — and the intervention with the best evidence isn't a drug
-> **· NON-PHARMACOLOGICAL: continuous support, mobility and position changes, water immersion, heat, massage, TENS, breathing techniques.**
-> **· NITROUS OXIDE — safe, self-administered, modest effect.**
-> **· PARENTERAL OPIOIDS — variable analgesia, maternal sedation and nausea, and NEONATAL RESPIRATORY DEPRESSION if given close to delivery.**
-> **· EPIDURAL — the most effective analgesia available. It is associated with a LONGER SECOND STAGE and MORE INSTRUMENTAL DELIVERIES, but NOT with an increased caesarean rate.** **Complications: hypotension (hence the fluid preload and monitoring), post-dural puncture headache, and — rarely — epidural haematoma or abscess.** **A block that is denser, higher or longer-lasting than expected, or new back pain with neurological signs, requires urgent assessment.** Cross-refer [[AN1]] 0.2.
-> **AND THE BEST-EVIDENCED INTERVENTION IN LABOUR IS CONTINUOUS SUPPORT — one-to-one care from a midwife or a support person present throughout.**
-> **It shortens labour, reduces analgesia use, reduces operative delivery, improves Apgar scores and improves the woman's experience.** **It requires no drug and no equipment, and it is one of the strongest effects in obstetric care.** **Where staffing allows it, protect it.**
-
-> [!tip] The third stage — two practices that matter
-> **· ACTIVE MANAGEMENT OF THE THIRD STAGE — a prophylactic UTEROTONIC, controlled cord traction and uterine massage — SUBSTANTIALLY REDUCES POSTPARTUM HAEMORRHAGE, and is recommended for all women.** `UNVERIFIED — the agent and dose.`
-> **· DELAYED CORD CLAMPING — waiting a defined period before clamping allows placental transfusion to the newborn, improving iron stores for months, improving transitional circulation, and reducing the need for transfusion in preterm infants.** **It is compatible with active management, and the two are not in conflict.** `UNVERIFIED — the recommended interval and the exceptions.`
-
----
-
-## 0.2 Abnormal Labour and Intrapartum Emergencies
-
-> [!danger] Cord prolapse — take the pressure off the cord
-> **The umbilical cord descends past the presenting part after membrane rupture, and is compressed — causing fetal hypoxia within minutes.**
-> **Risk factors: malpresentation, high presenting part, polyhydramnios, prematurity, multiple pregnancy, and ARTIFICIAL rupture of membranes with an unengaged head.**
-> **IMMEDIATE ACTIONS:**
-> **· CALL FOR HELP and prepare for immediate delivery — usually emergency caesarean.**
-> **· ELEVATE THE PRESENTING PART off the cord — manually with a gloved hand in the vagina, and/or by FILLING THE BLADDER with saline via a catheter.**
-> **· POSITION: knee-chest or exaggerated Trendelenburg / left lateral with the hips elevated, using gravity to reduce compression.**
-> **· MINIMISE HANDLING OF THE CORD — exposure and handling cause vasospasm. Do not attempt to replace it, and keep it warm.**
-> **· Continuous fetal monitoring and immediate transfer to theatre.**
-> **The manual elevation is maintained ALL THE WAY TO DELIVERY, including during transfer and preparation — the person doing it does not let go.**
-
-> [!danger] Shoulder dystocia — and never apply fundal pressure
-> **The anterior shoulder impacts behind the pubic symphysis after delivery of the head.**
-> **THE SIGN: the "TURTLE NECK" — the head delivers and then retracts back against the perineum, and restitution fails.**
-> **IT IS UNPREDICTABLE. Most cases occur without risk factors, and macrosomia and diabetes increase risk but do not predict it.**
-> **THE SEQUENCE: call for help · MCROBERTS MANOEUVRE (hyperflexing the maternal hips onto the abdomen, which rotates the symphysis) · plus SUPRAPUBIC PRESSURE.** **These two together resolve the majority.** **Then internal rotational manoeuvres, delivery of the posterior arm, and further measures as directed by the senior accoucheur.**
-> **NEVER APPLY FUNDAL PRESSURE.** **It drives the shoulder further into the symphysis, worsens the impaction, and risks UTERINE RUPTURE.** **Suprapubic pressure — directed at the fetal shoulder — is correct; fundal pressure is harmful.**
-> **COMPLICATIONS: BRACHIAL PLEXUS INJURY (Erb palsy) · fracture of the clavicle or humerus · hypoxic-ischaemic injury · postpartum haemorrhage · and severe perineal trauma.**
-> **DOCUMENT METICULOUSLY — the time of head delivery, the time of body delivery, which manoeuvres were used in what order, who was present, and the condition of the baby.** **Shoulder dystocia is among the most litigated events in obstetrics, and the documentation is what protects everyone, including the family's ability to understand what happened.**
-
-> [!warning] The other intrapartum emergencies
-> **· UTERINE RUPTURE — severe constant pain, cessation of contractions, loss of station, palpable fetal parts, maternal shock and fetal bradycardia, usually in a scarred uterus.** Cross-refer [[O2]] 0.3.
-> **· AMNIOTIC FLUID EMBOLISM — sudden maternal collapse around the time of delivery, with hypoxia, cardiovascular collapse, seizures and profound DIC.** **Rare, unpredictable, unpreventable, and with high mortality. Management is supportive resuscitation, early massive transfusion and DIC management.** Cross-refer [[A9]] 0.3.
-> **· ECLAMPSIA — cross-refer [[O2]] 0.2.**
-> **· FETAL DISTRESS — an abnormal CTG interpreted in context, with fetal scalp lactate where available, and expedited delivery.**
-> **· MATERNAL CARDIAC ARREST — the modifications that matter: MANUAL LEFT UTERINE DISPLACEMENT or left lateral tilt throughout · and PERIMORTEM CAESAREAN SECTION commenced EARLY in the arrest for a uterus at or above the umbilicus.**
-> **THE REASON IS COUNTERINTUITIVE AND EXAMINABLE: the primary purpose of perimortem caesarean is to AID MATERNAL RESUSCITATION by relieving aortocaval compression and restoring venous return — fetal survival is a secondary benefit.** **It is done at the site of the arrest, not by transferring to theatre.** Cross-refer [[F0.4]] and [[L8]] 0.6.
-
-> [!tip] Operative delivery and perineal trauma
-> **· INSTRUMENTAL DELIVERY (vacuum or forceps) — for delay in the second stage, fetal compromise, or maternal indication, with defined prerequisites.** Complications include maternal perineal trauma and neonatal cephalhaematoma, subgaleal haemorrhage and facial nerve injury.
-> **· CAESAREAN SECTION — categorised by urgency, from immediate threat to life through to elective.** **Complications: haemorrhage, infection, VTE, bladder and bowel injury, and — importantly for future pregnancies — SCAR-RELATED RISKS (rupture, praevia, and PLACENTA ACCRETA SPECTRUM, with risk rising with each caesarean).** Cross-refer [[O2]] 0.3.
-> **· PERINEAL TRAUMA — graded, with THIRD AND FOURTH DEGREE TEARS (obstetric anal sphincter injuries, OASI) involving the anal sphincter complex.**
-> **OASI MANAGEMENT AND FOLLOW-UP IS WHERE LONG-TERM MORBIDITY IS PREVENTED: repair by a trained clinician in theatre · prophylactic ANTIBIOTICS · LAXATIVES to avoid straining on the repair · pelvic floor PHYSIOTHERAPY · and structured FOLLOW-UP.**
-> **The long-term consequence of an inadequately managed OASI is FAECAL INCONTINENCE, which may present YEARS later — sometimes after menopause when compensation fails — and which women almost never volunteer.** **Ask directly about flatus and faecal control in any woman with a history of difficult vaginal delivery.** Cross-refer [[O5]] 0.6 and [[C5]] 0.6.
-
----
-
-## 0.3 Postpartum Haemorrhage
-
-> [!danger] The four Ts
-> **· TONE — UTERINE ATONY. By far the commonest cause.**
-> **· TRAUMA — genital tract lacerations, episiotomy, uterine rupture, uterine inversion.**
-> **· TISSUE — retained placenta or membranes.**
-> **· THROMBIN — coagulopathy, either pre-existing, dilutional, or from DIC secondary to abruption, sepsis or amniotic fluid embolism.**
-> **Work through all four every time, because more than one may be operating — and the commonest error is treating atony repeatedly while a cervical tear continues to bleed.**
-> **RISK FACTORS: prolonged or augmented labour · an overdistended uterus (multiple pregnancy, polyhydramnios, macrosomia) · grand multiparity · previous PPH · placenta praevia or accreta · pre-eclampsia · chorioamnionitis · retained placenta · and instrumental or caesarean delivery.**
-> **AND ANTENATAL ANAEMIA — which does not cause the bleed but markedly reduces the woman's ability to tolerate it, and which is why identifying and treating iron deficiency in pregnancy is a haemorrhage intervention.** Cross-refer [[J1]] 0.2.
-
-> [!danger] Visual estimation of blood loss is systematically wrong
-> **Clinicians consistently UNDER-ESTIMATE obstetric blood loss by visual assessment, and the under-estimation is greatest when the loss is largest.**
-> **USE QUANTITATIVE METHODS — weighing swabs and drapes, and calibrated collection — rather than an eyeball figure.**
-> **AND: A FIT YOUNG WOMAN COMPENSATES EXTREMELY WELL AND THEN DECOMPENSATES ABRUPTLY.** **Tachycardia may be the only sign; hypotension is late; and by the time the blood pressure falls, the loss is very large.** **Do not be reassured by normal observations in a woman who is visibly bleeding.**
-
-> [!warning] Managing PPH — everything happens at once
-> **· CALL FOR HELP — this is a team event. A–B–C, oxygen, flat, keep her warm.**
-> **· TWO LARGE-BORE CANNULAS · bloods including FBC, coagulation, fibrinogen and CROSSMATCH · and early activation of the MASSIVE TRANSFUSION PROTOCOL if the bleeding is significant.** Cross-refer [[A9]] 0.1.
-> **· EMPTY THE BLADDER — a full bladder prevents uterine contraction, and catheterisation is a genuine and frequently forgotten step.**
-> **· UTERINE MASSAGE and BIMANUAL COMPRESSION.**
-> **· UTEROTONICS in sequence.** `UNVERIFIED — agents, doses and order; use your unit's protocol.` **Two contraindications worth knowing: ERGOMETRINE IS AVOIDED IN HYPERTENSION AND PRE-ECLAMPSIA (it causes vasoconstriction and can precipitate severe hypertension and stroke), and CARBOPROST IS AVOIDED IN ASTHMA (it causes bronchospasm).**
-> **· TRANEXAMIC ACID — given EARLY. It reduces death from bleeding in postpartum haemorrhage, and the benefit is TIME-DEPENDENT, diminishing with delay.** **Give it early rather than as an afterthought when other measures have failed.** `UNVERIFIED — dose and timing.`
-> **· EXAMINE FOR TRAUMA — inspect the cervix and vagina properly with adequate light, retraction and analgesia, and repair. A bleeding tear will not respond to any amount of oxytocin.**
-> **· CHECK THE PLACENTA IS COMPLETE, and consider retained tissue requiring examination under anaesthesia.**
-> **· ESCALATE: intrauterine BALLOON TAMPONADE · uterine compression sutures (B-Lynch) · arterial ligation or interventional radiological EMBOLISATION · and hysterectomy as the definitive life-saving measure, which should not be delayed until the woman is moribund.**
-
-> [!danger] Uterine inversion — and do not remove the placenta first
-> **The uterine fundus inverts and descends, sometimes through the cervix, usually associated with excessive cord traction on a fundal placenta.**
-> **THE PRESENTATION: profound SHOCK OUT OF PROPORTION to the visible blood loss (a large neurogenic component from traction on the peritoneum and ligaments) · severe lower abdominal pain · a mass in the vagina or at the introitus · and the FUNDUS NOT PALPABLE abdominally.**
-> **IMMEDIATE REPLACEMENT — pushing the fundus back through the cervix — should be attempted at once, because it becomes progressively harder as the cervix contracts.**
-> **DO NOT REMOVE THE PLACENTA BEFORE REPLACING THE UTERUS** — removing it first substantially increases the haemorrhage. Replace first, then deal with the placenta.
-> **Resuscitate simultaneously, and stop uterotonics until the uterus is replaced (then give them to keep it contracted).**
-> **SECONDARY PPH — bleeding from 24 hours to twelve weeks postpartum, usually from RETAINED PRODUCTS or ENDOMETRITIS.** **Assess for both, take swabs and blood cultures, give antibiotics, and consider ultrasound and evacuation.**
-
----
-
-## 0.4 The Unwell Postpartum Woman
-
-> [!danger] Think sepsis, think pulmonary embolism, think pre-eclampsia
-> **Those three, plus haemorrhage, account for most direct maternal deaths — and all four can present after the woman has gone home, when nobody is thinking about pregnancy any more.**
-> **GENITAL TRACT SEPSIS is a leading cause of direct maternal death, and GROUP A STREPTOCOCCUS is particularly aggressive, progressing from well to critically unwell within hours.**
-> **THE FEATURES: fever (or hypothermia) · sustained TACHYCARDIA · abdominal or pelvic pain · offensive lochia · breast, wound or perineal infection · and — the trap — DIARRHOEA AND VOMITING.**
-> **A RECENTLY DELIVERED WOMAN WITH FEVER, TACHYCARDIA AND DIARRHOEA AND VOMITING IS FREQUENTLY DIAGNOSED WITH GASTROENTERITIS.** **Group A streptococcal sepsis presents exactly like that, and the women who die often had an earlier presentation that was labelled viral.** **Have a very low threshold, take cultures, and give antibiotics urgently.** Cross-refer [[F0.3]] 0.7.
-> **VENOUS THROMBOEMBOLISM — the puerperium is the period of HIGHEST VTE risk in a woman's life.** **Breathlessness, pleuritic pain, calf symptoms or collapse in a postpartum woman is a pulmonary embolism until excluded, and postpartum breathlessness must not be attributed to deconditioning.** Cross-refer [[J3]] 0.4 and [[O2]] 0.6.
-> **PRE-ECLAMPSIA AND ECLAMPSIA POSTPARTUM — blood pressure peaks around days three to five, and seizures occur postpartum, sometimes weeks later.** **Headache, visual symptoms or epigastric pain after delivery means checking the blood pressure and the bloods.** Cross-refer [[O2]] 0.1–0.2.
-> **PERIPARTUM CARDIOMYOPATHY — heart failure presenting in late pregnancy or in the months after delivery, with breathlessness, orthopnoea and oedema that are all easily attributed to normal postpartum recovery.** **It is diagnosed by echocardiography, and it is missed because everyone expects a new mother to be tired and breathless.** Cross-refer [[CV-X]].
-
-> [!warning] The Australian maternal mortality picture
-> **Direct causes include thromboembolism, obstetric haemorrhage, hypertensive disorders, sepsis, amniotic fluid embolism and early pregnancy causes including ectopic.**
-> **AND — the point that changes clinical behaviour — SUICIDE IS A LEADING CAUSE OF MATERNAL DEATH OVERALL when the full period after delivery is considered.** **Perinatal mental health is not a soft add-on to maternity care; it is a mortality issue.** See 0.6.
-> **ABORIGINAL AND TORRES STRAIT ISLANDER WOMEN experience higher maternal mortality**, reflecting access, chronic disease burden and the broader determinants — and Birthing on Country and community-controlled maternity models improve outcomes. Cross-refer [[AU1]] 0.4.
-
----
-
-## 0.5 Routine Postnatal and Newborn Care
-
-> [!tip] The postnatal review — and the four things that get lost
-> **Routine care covers: observations and recovery · uterine involution and lochia · the perineum or wound · bladder and bowel function · FEEDING · MOOD · and CONTRACEPTION.**
-> **Plus: ANTI-D for Rhesus-negative women with a Rhesus-positive baby · RUBELLA VACCINATION for non-immune women (given postpartum because it is a live vaccine) · and pelvic floor exercises.**
-> **THE FOUR THINGS THAT MUST GO IN THE DISCHARGE SUMMARY BECAUSE THEY ARE OTHERWISE LOST:**
-> **1. A POSTPARTUM GLUCOSE TOLERANCE TEST after gestational diabetes, and lifelong periodic screening thereafter.**
-> **2. BLOOD PRESSURE FOLLOW-UP and lifelong CARDIOVASCULAR RISK assessment after any hypertensive disorder of pregnancy.**
-> **3. OASI FOLLOW-UP and physiotherapy after a third or fourth degree tear.**
-> **4. A PRETERM BIRTH, clearly documented, because it changes the management of the next pregnancy (progesterone, cervical surveillance).**
-> Cross-refer [[O2]] 0.1, 0.6 and [[EBM1]] 0.5.
-
-> [!warning] Contraception before discharge
-> **Fertility returns sooner than most women expect, and short interpregnancy intervals carry increased risk.**
-> **· LONG-ACTING REVERSIBLE CONTRACEPTION can be commenced or inserted IMMEDIATELY postpartum — including an implant before discharge, and an IUD immediately after delivery or at the postnatal check.** **Immediate provision is the point of highest uptake and lowest attrition; deferring it to "when things settle down" loses a large proportion of women.**
-> **· PROGESTOGEN-ONLY methods are compatible with breastfeeding.**
-> **· COMBINED HORMONAL CONTRACEPTION is generally deferred in the early postpartum period because of VTE risk, and considered later.**
-> **· LACTATIONAL AMENORRHOEA has strict conditions and is unreliable outside them — it should not be offered as a plan without explaining those conditions.**
-> Cross-refer [[O6]] 0.3.
-
-> [!tip] The newborn
-> **The newborn examination and its purpose are in [[M3]] 0.6 — the items that matter: RED REFLEX (cataract, retinoblastoma) · FEMORAL PULSES (coarctation) · HIPS (developmental dysplasia) · PALATE (looked at AND felt) · testes · and the spine.**
-> **Plus: VITAMIN K prophylaxis · hepatitis B vaccination · newborn BLOODSPOT screening · newborn HEARING screening · and pulse oximetry screening.**
-> **FEEDING — observe a feed; most nipple pain is an attachment problem; continue breastfeeding through mastitis; and refer early to lactation support rather than after weeks of struggle.** Cross-refer [[O7]] 0.6.
-> **JAUNDICE — check it, measure it rather than eyeballing it, and remember the timing rules: under 24 hours is always pathological, and beyond two weeks requires a SPLIT bilirubin.** Cross-refer [[M3]] 0.1.
-> **SAFE SLEEPING advice — on the back, own safe sleep space, face uncovered, smoke-free, room-sharing without bed-sharing.** Cross-refer [[M3]] 0.5.
-
----
-
-## 0.6 Perinatal Mental Health
-
-> [!tip] Baby blues is not depression
-> **"BABY BLUES" — tearfulness, emotional lability, irritability and feeling overwhelmed, peaking around days three to five and resolving within a couple of weeks.**
-> **It affects a majority of women, requires reassurance, practical support and rest, and is NOT an illness.**
-> **THE DISTINCTION FROM POSTNATAL DEPRESSION IS DURATION AND FUNCTION: blues is transient and the woman can still enjoy things and care for herself and the baby; depression persists, worsens, and impairs function.**
-> **If it lasts beyond about two weeks, or is severe, reassess.**
-
-> [!warning] Postnatal depression and anxiety
-> **Common, and it presents differently from what people expect: IRRITABILITY and anger rather than sadness · overwhelming ANXIETY · guilt, particularly about NOT FEELING BONDED to the baby · inability to sleep even when the baby sleeps · and intrusive worry.**
-> **Screening with the EDINBURGH POSTNATAL DEPRESSION SCALE, antenatally and postnatally, is standard.** `UNVERIFIED — the schedule and cut-offs.`
-> **RISK FACTORS: previous depression or anxiety · lack of practical and emotional support · FAMILY VIOLENCE (cross-refer [[GER4]] 0.4) · a traumatic birth · an unsettled baby or feeding difficulty · socioeconomic adversity · migration and isolation · and a history of pregnancy loss or infertility.**
-> **TREATMENT: psychological therapy · practical support · and MEDICATION where indicated, with the framing that matters — the decision is TREATED ILLNESS VERSUS UNTREATED ILLNESS, not medication versus nothing.** **Most antidepressants are compatible with breastfeeding, and untreated maternal depression has its own substantial effects.** Cross-refer [[N4]] 0.6.
-> **AND ASK ABOUT SUICIDAL THOUGHTS DIRECTLY.** **Suicide is a leading cause of maternal death, and asking does not plant the idea.** Cross-refer [[N1]] 0.3.
-> **PARTNERS also experience perinatal depression at meaningful rates, and are essentially never screened. Ask them how they are.**
-
-> [!danger] Intrusive thoughts of harm are common, ego-dystonic, and mothers hide them
-> **THIS IS ONE OF THE MOST IMPORTANT THINGS IN PERINATAL MENTAL HEALTH AND IT IS POORLY UNDERSTOOD.**
-> **INTRUSIVE THOUGHTS ABOUT HARM COMING TO THE BABY — including thoughts of harming the baby themselves — ARE COMMON IN NEW PARENTS, occurring in a large proportion of mothers and fathers.**
-> **They are EGO-DYSTONIC: horrifying, unwanted, contrary to the person's values, and accompanied by intense distress and avoidance (avoiding baths, knives, stairs, or being alone with the baby).**
-> **THEY ARE NOT ASSOCIATED WITH AN INCREASED RISK OF ACTUALLY HARMING THE INFANT.** They are an anxiety phenomenon.
-> **MOTHERS CONCEAL THEM — often completely, and often for years — because they believe that disclosing them will result in their baby being taken away.**
-> **THE DISTINCTION THAT MUST BE MADE:**
-> **· INTRUSIVE (obsessional) thoughts — EGO-DYSTONIC, distressing, resisted, with NO intent, and with avoidance behaviour. Treated as anxiety/OCD, and the most therapeutic intervention is often EXPLAINING that they are common, recognised and not dangerous.**
-> **· PSYCHOTIC thoughts — EGO-SYNTONIC, believed, often delusional (that the baby is possessed, defective, or would be better off dead), sometimes with command hallucinations, and CARRYING GENUINE RISK. This is an emergency.**
-> **Asking about intrusive thoughts gently and normalising them — "lots of new parents get frightening thoughts about something happening to the baby, or even about harming them; it's really common and it doesn't mean anything is wrong with you" — allows disclosure, and the relief is enormous.** Cross-refer [[N5]] 0.4.
-
-> [!danger] Postpartum psychosis is a psychiatric emergency
-> **RAPID onset, typically within the first days to weeks after delivery.**
-> **THE FEATURES: a FLUCTUATING, confusional quality that can look almost delirious · mania or mixed mood states · DELUSIONS, frequently concerning the baby · hallucinations · severe insomnia · and rapid deterioration.**
-> **IT CARRIES REAL RISK TO BOTH MOTHER AND INFANT, including infanticide and suicide.**
-> **IT REQUIRES URGENT PSYCHIATRIC ASSESSMENT AND ALMOST ALWAYS ADMISSION — ideally to a MOTHER AND BABY UNIT so that the mother is not separated from her infant, which is both therapeutic and protective of the attachment.**
-> **THE ASSOCIATIONS THAT MATTER: a strong link with BIPOLAR DISORDER — a woman with bipolar disorder has a substantially elevated risk and warrants a proactive perinatal plan · a previous episode of postpartum psychosis carries a HIGH RECURRENCE risk in subsequent pregnancies, which must be planned for antenatally · and a family history.**
-> **The onset is abrupt and the deterioration is fast — a woman who was well yesterday can be floridly unwell today, which is why concerns raised by family must be taken seriously and acted on immediately.** Cross-refer [[N3]] 0.2.
-
-> [!warning] Birth trauma and perinatal bereavement
-> **· BIRTH TRAUMA — a significant minority of women experience their birth as traumatic and some develop PTSD.** **The predictors are less about the objective events than about the woman's experience of them: feeling out of control, not being listened to, feeling unsafe, and inadequate communication.** **Which means the way care is delivered is itself preventive.** **Offer the opportunity to go through what happened, with the notes, at a later appointment.** Cross-refer [[N5]] 0.5.
-> **· PERINATAL BEREAVEMENT — stillbirth, neonatal death, and termination for fetal anomaly.**
-> **WHAT HELPS, and it is specific: USE THE BABY'S NAME · offer the parents time WITH the baby and do not rush them · offer MEMORY-MAKING (photographs, hand and footprints, a lock of hair, a memory box) — including holding these for parents who initially decline, since many later wish they had them · involve them in decisions about post-mortem and funeral arrangements without pressure · and provide written information, because nothing said will be retained.**
-> **AND FOLLOW UP.** **Arrange a debriefing appointment, refer to bereavement support, notify the GP and the child health service so the woman is not sent routine baby appointment reminders, and offer support in the next pregnancy — where anxiety is intense and continuity of care and early scans genuinely help.**
-> **What not to say is in [[GER5]] 0.2 — and "at least you can have another one" is the same failure in a different setting.**
-
-**Ix:** **QUANTITATIVE blood loss measurement rather than visual estimation** (*why:* visual estimation under-reads systematically, and most in the largest bleeds; *what:* the true loss). **FBC, coagulation, FIBRINOGEN and crossmatch early in postpartum haemorrhage** (*why:* fibrinogen falls early in obstetric haemorrhage and predicts severity; *what:* the coagulopathy). **CATHETERISE and re-examine the uterus, cervix and vagina** (*why:* a full bladder prevents contraction and a genital tract tear will not respond to uterotonics; *what:* the correctable cause). **BLOOD CULTURES AND EARLY ANTIBIOTICS in any febrile or unwell postpartum woman, including one with diarrhoea and vomiting** (*why:* group A streptococcal sepsis presents as gastroenteritis and kills within hours; *what:* the organism). **BLOOD PRESSURE, urinalysis and bloods in postpartum headache, visual symptoms or epigastric pain** (*why:* pre-eclampsia and eclampsia occur after delivery and are not considered because the pregnancy is thought to be over; *what:* hypertension, HELLP). **A LOW THRESHOLD for imaging suspected pulmonary embolism postpartum** (*why:* the puerperium is the highest-risk period and breathlessness is attributed to deconditioning; *what:* the embolus). **ECHOCARDIOGRAPHY for postpartum breathlessness that does not fit** (*why:* peripartum cardiomyopathy is missed because tiredness and breathlessness are expected; *what:* impaired ventricular function). **EPDS antenatally and postnatally, WITH a direct question about self-harm and suicidal thoughts** (*why:* suicide is a leading cause of maternal death and the scale is a prompt, not a substitute for asking; *what:* depression, and risk). **ASKING ABOUT INTRUSIVE THOUGHTS, normalised** (*why:* they are common, concealed through fear of the baby being removed, and relieved by explanation — while the ego-syntonic variety is an emergency; *what:* the nature of the thoughts).
-
----
-
-> [!note] Cross-references
-> Early pregnancy and miscarriage → [[O1]] · Hypertensive disorders, antepartum haemorrhage, preterm birth and CTG → [[O2]] · Contraception and postpartum LARC → [[O6]] 0.3 · Perineal injury, prolapse and pelvic floor → [[O5]] 0.6 and [[C5]] 0.6 · Breastfeeding, mastitis and lactation support → [[O7]] 0.6 · Newborn examination, jaundice, vitamin K and safe sleeping → [[M3]] · Massive transfusion, tranexamic acid and DIC → [[A9]] 0.1, 0.3 · Sepsis recognition → [[F0.3]] 0.7 · VTE in pregnancy and the puerperium → [[J3]] 0.4 and [[O2]] 0.6 · Peripartum cardiomyopathy and heart failure → [[CV-X]] · Maternal cardiac arrest and perimortem caesarean → [[F0.4]] and [[L8]] 0.6 · Epidural complications → [[AN1]] 0.2 · Anaemia in pregnancy → [[J1]] 0.2 · Perinatal depression, medication and suicidality → [[N4]] 0.6 and [[N1]] 0.3 · Intrusive thoughts and OCD → [[N5]] 0.4 · Postpartum psychosis and bipolar disorder → [[N3]] 0.2 · Birth trauma and PTSD → [[N5]] 0.5 · Family violence in the perinatal period → [[GER4]] 0.4 · Breaking bad news and bereavement → [[GER5]] 0.2 · Discharge summaries and follow-up ownership → [[EBM1]] 0.5 · Aboriginal and Torres Strait Islander maternal health and Birthing on Country → [[AU1]] 0.4
-
-
-<!-- ===== SOURCE: O4_Abnormal_and_Menstrual_Bleeding.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, classification and discriminators are reliable at intern level. **Every age threshold, endometrial thickness cut-off, dose and regimen carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **RANZCOG** statements, the **Australasian Menopause Society**, eTG, and the **National Cervical Screening Program**.
->
-> **Contraception, STIs and cervical screening are built in [[O6]]** and are cross-referenced rather than repeated.
-
----
-
-## 0.1 Terminology and the PALM-COEIN Framework
-
-> [!warning] The old terms have been abandoned
-> **"Menorrhagia", "metrorrhagia", "menometrorrhagia" and "dysfunctional uterine bleeding" are obsolete** — they were used inconsistently and conveyed little.
-> **Describe bleeding by its parameters instead: FREQUENCY · DURATION · REGULARITY · VOLUME · and the presence of INTERMENSTRUAL or UNSCHEDULED bleeding.**
-> `UNVERIFIED — the normal ranges for cycle length, duration and volume.`
-
-> [!info] PALM-COEIN — the organising classification for abnormal uterine bleeding
-> **STRUCTURAL causes — PALM (things you can see on imaging or histology):**
-> **· P — POLYP**
-> **· A — ADENOMYOSIS**
-> **· L — LEIOMYOMA (fibroid)**
-> **· M — MALIGNANCY and hyperplasia**
-> **NON-STRUCTURAL causes — COEIN:**
-> **· C — COAGULOPATHY**
-> **· O — OVULATORY dysfunction**
-> **· E — ENDOMETRIAL (local haemostatic disorders)**
-> **· I — IATROGENIC (contraception, anticoagulants, other drugs)**
-> **· N — NOT otherwise classified**
-> **The value of the framework is that it forces consideration of the non-structural causes**, which are otherwise overlooked once a fibroid is found on ultrasound — and a fibroid may be an incidental finding rather than the cause.
-
-> [!danger] Pregnancy test first, every time
-> **In any woman of reproductive age with abnormal bleeding, exclude pregnancy before anything else.**
-> **Ectopic pregnancy, miscarriage and gestational trophoblastic disease all present as abnormal bleeding**, and a missed ectopic is a preventable death. Cross-refer [[O1]].
-
----
-
-## 0.2 Heavy Menstrual Bleeding
-
-**D:** **Excessive menstrual blood loss that interferes with a woman's physical, social, emotional or material quality of life.** **This is a patient-centred definition — there is no measured volume threshold in practice**, and the older figure was never usable clinically.
-
-> [!tip] Ask questions that actually quantify impact
-> **· "Do you flood through onto clothes or bedding?"**
-> **· "Do you pass clots, and how big?"**
-> **· "How often are you changing — and do you have to change during the night?"**
-> **· "Do you use two products at once?"**
-> **· "Have you missed work, school or social activities because of it?"**
-> **· Symptoms of iron deficiency — fatigue, breathlessness, pica, restless legs, hair loss.**
-> **"Are your periods heavy?" gets an unreliable answer** — women have no comparator and frequently normalise what they have always experienced.
-
-> [!danger] Screen for a bleeding disorder — a meaningful minority have one
-> **A substantial proportion of women with heavy menstrual bleeding since MENARCHE have an underlying bleeding disorder — most commonly VON WILLEBRAND DISEASE.**
-> **This is systematically under-recognised**, and these women are treated with escalating hormonal therapy, and sometimes hysterectomy, without the diagnosis ever being made — while remaining at risk of postpartum and surgical haemorrhage.
-> **Screen if: heavy bleeding since the FIRST period · postpartum haemorrhage · bleeding after dental extraction or surgery · frequent epistaxis · easy bruising · or a family history of bleeding.**
-> Cross-refer [[A9]] 0.3 and [[J3]].
-
-> [!tip] The structural and endocrine causes worth knowing
-> **· FIBROIDS — very common. SUBMUCOSAL fibroids cause the most bleeding despite often being the smallest**; intramural and subserosal fibroids cause bulk symptoms (pressure, urinary frequency, abdominal distension) more than bleeding.
-> **· ADENOMYOSIS — endometrial tissue within the myometrium, causing HEAVY AND PAINFUL periods with a bulky, tender, "boggy" uterus.** Under-diagnosed, and increasingly recognised on imaging.
-> **· POLYPS — typically intermenstrual bleeding.**
-> **· OVULATORY DYSFUNCTION — irregular, unpredictable bleeding.** Causes: **PCOS, thyroid disease, hyperprolactinaemia, perimenopause, adolescence (an immature hypothalamic-pituitary-ovarian axis in the first years after menarche), and stress, weight change or excessive exercise.**
-> **· IATROGENIC — hormonal contraception (especially the implant and progestogen-only methods), anticoagulants, copper IUD, and some psychotropics via prolactin.**
-
-> [!warning] Management — the LNG-IUS is first-line, and one common prescription does not work
-> **· LEVONORGESTREL INTRAUTERINE SYSTEM — the most effective medical treatment, and first-line for most women** who do not have distorting structural pathology. It also provides contraception and endometrial protection.
-> **· TRANEXAMIC ACID — non-hormonal, taken only during bleeding days, effective and useful for women who want to conceive or decline hormones.**
-> **· NSAIDs — reduce blood loss AND treat dysmenorrhoea simultaneously**, which makes them a sensible first addition.
-> **· Combined hormonal contraception**, including continuous or extended regimens.
-> **· CYCLICAL LUTEAL-PHASE PROGESTOGEN (e.g. norethisterone for days 15–26) IS NOT EFFECTIVE FOR HEAVY MENSTRUAL BLEEDING** — it is still prescribed, and it does not work. **Higher-dose, longer-course progestogen regimens do reduce bleeding**, but the short luteal-phase regimen should not be used for this indication.
-> **· IRON REPLACEMENT — routinely forgotten.** Treat the iron deficiency as well as the bleeding, and **treat it on the basis of FERRITIN, not just haemoglobin.**
-> **· Surgical: hysteroscopic polypectomy or myomectomy, endometrial ablation, uterine artery embolisation, and hysterectomy.**
-> `UNVERIFIED — all doses and regimens.`
-
-**Ix:** **Pregnancy test** (*why:* first, always; *what:* positive). **FBC AND FERRITIN** (*why:* **iron deficiency without anaemia is common, symptomatic and treatable, and a normal haemoglobin does not exclude it** — checking only the FBC misses the majority; *what:* anaemia, low ferritin). TFTs (*why:* thyroid dysfunction causes ovulatory disturbance and is easily corrected; *what:* abnormal TSH). **Coagulation screen and von Willebrand studies where the history suggests a bleeding disorder** (*why:* the diagnosis changes management, surgical planning and obstetric care; *what:* vWF antigen and activity, factor VIII). **Transvaginal ultrasound** (*why:* identifies fibroids, polyps, adenomyosis and endometrial thickening — **transvaginal is substantially better than transabdominal for the endometrium and adnexa**; *what:* structural pathology, endometrial thickness). **Endometrial sampling where there are risk factors for hyperplasia or malignancy** — persistent intermenstrual bleeding, age over a threshold, obesity, PCOS, tamoxifen, failed medical treatment, or thickened endometrium (*why:* endometrial hyperplasia and cancer occur in premenopausal women, particularly with chronic anovulation; *what:* histology — `UNVERIFIED — the age and risk thresholds`). Hysteroscopy (*why:* directly visualises and treats focal lesions that blind sampling misses; *what:* polyps, submucosal fibroids, focal lesions).
-
----
-
-## 0.3 Intermenstrual, Postcoital and Postmenopausal Bleeding
-
-> [!danger] Postmenopausal bleeding is endometrial cancer until proven otherwise
-> **ANY bleeding after 12 months of amenorrhoea requires urgent investigation — regardless of how light it is, and even if it is a single episode.**
-> **A meaningful proportion of postmenopausal bleeding is due to endometrial carcinoma**, and it is the presenting symptom in the large majority of endometrial cancers — which is why it is one of the more curable gynaecological cancers when acted on.
-> **"It was only a spot, once" is not a reason to defer investigation.**
-
-> [!tip] The causes of postmenopausal bleeding
-> **· Atrophic vaginitis and endometrial atrophy — the commonest**, and reassuring once cancer is excluded.
-> **· Endometrial polyps.**
-> **· Endometrial hyperplasia — with or without atypia.**
-> **· ENDOMETRIAL CARCINOMA.**
-> **· Cervical pathology — including cervical carcinoma. EXAMINE THE CERVIX.**
-> **· Hormone therapy-related bleeding.**
-> **· Non-gynaecological — urethral, bladder or rectal bleeding mistaken for vaginal.** Ask, and examine.
-
-> [!warning] The risk factors are all about unopposed oestrogen
-> **· OBESITY — peripheral aromatisation of androgens to oestrogen in adipose tissue. The single most important modifiable factor, and rising.**
-> **· Chronic anovulation, including PCOS** — cross-refer [[I4]] 0.6.
-> **· Nulliparity, early menarche, late menopause.**
-> **· TAMOXIFEN — which is oestrogenic on the endometrium while antioestrogenic on breast.**
-> **· Oestrogen-only hormone therapy in a woman with a uterus.**
-> **· Diabetes and hypertension.**
-> **· LYNCH SYNDROME — hereditary non-polyposis colorectal cancer, which carries a high lifetime risk of endometrial cancer. Ask about the family history of bowel, endometrial and ovarian cancer**, because it changes screening for the woman and her relatives. Cross-refer [[C5]] 0.5.
-
-> [!tip] Investigating postmenopausal bleeding
-> **· TRANSVAGINAL ULTRASOUND measuring ENDOMETRIAL THICKNESS** — below a defined threshold in a woman not on hormone therapy, the risk of cancer is low. `UNVERIFIED — the threshold, which differs for women on tamoxifen and on hormone therapy.`
-> **· ENDOMETRIAL SAMPLING (Pipelle)** where the endometrium is thickened or the bleeding persists.
-> **· HYSTEROSCOPY** where sampling is inadequate or non-diagnostic, where bleeding recurs, or where a focal lesion is suspected.
-> **The important caveat: a THIN endometrium does not exclude malignancy in a woman with PERSISTENT or RECURRENT bleeding, or on TAMOXIFEN** — persistent bleeding warrants hysteroscopy regardless of the ultrasound. **Blind sampling can miss focal lesions.**
-
-> [!danger] Intermenstrual and postcoital bleeding — do a speculum examination
-> **Postcoital bleeding in particular demands direct visualisation of the cervix.**
-> **Causes: cervical ectropion, cervical polyp, cervicitis (particularly CHLAMYDIA — test for it), and CERVICAL CARCINOMA.**
-> **Check the cervical screening history** — an overdue or never-screened woman with postcoital bleeding needs prompt colposcopy referral, and **a normal screening test does NOT exclude cancer in a woman with symptoms**, because screening is not designed for symptomatic assessment. Cross-refer [[O6]] 0.2.
-> **The examination is the investigation here, and skipping it is how cervical cancers are missed in young women.**
-
-**Ix:** **Speculum examination and inspection of the cervix** (*why:* cervical pathology is visible and is missed without looking; *what:* lesion, polyp, ectropion, discharge). **Chlamydia and gonorrhoea NAAT** (*why:* cervicitis is a common and treatable cause of intermenstrual and postcoital bleeding; *what:* infection). Cervical screening test if due, **with colposcopy referral for a visible or suspicious lesion regardless of screening result** (*why:* symptomatic assessment differs from screening; *what:* HPV, cytology, colposcopic findings). **Transvaginal ultrasound, endometrial sampling and hysteroscopy as above** (*why:* excludes endometrial pathology; *what:* thickness, histology). Pregnancy test in premenopausal women (*why:* always; *what:* positive).
-
----
-
-## 0.4 Amenorrhoea
-
-> [!tip] Primary versus secondary, and the compartment approach
-> **PRIMARY — no menarche by a defined age**, or by a younger age if there is no secondary sexual development. `UNVERIFIED — the age thresholds.`
-> **SECONDARY — cessation of previously established menstruation** for a defined interval.
-> **PREGNANCY TEST FIRST, in both.**
-> **Then work through the compartments:**
-> **1. OUTFLOW TRACT** — imperforate hymen or transverse vaginal septum (with **cyclical pain and a haematocolpos** — a young woman with cyclical pain and no periods needs examination), **Asherman syndrome** (intrauterine adhesions after instrumentation or infection), cervical stenosis, and **Müllerian agenesis (MRKH)**.
-> **2. OVARY** — **primary ovarian insufficiency**, PCOS, **Turner syndrome**, and damage from chemotherapy or radiotherapy.
-> **3. PITUITARY** — **prolactinoma and other causes of hyperprolactinaemia**, Sheehan syndrome, other tumours, and infiltrative disease. Cross-refer [[I4]] 0.1–0.2.
-> **4. HYPOTHALAMUS** — **functional hypothalamic amenorrhoea**, and **Kallmann syndrome (with ANOSMIA — ask about the sense of smell)**.
-> **5. OTHER ENDOCRINE** — thyroid disease, congenital adrenal hyperplasia, Cushing syndrome, androgen-secreting tumours.
-
-> [!warning] In primary amenorrhoea, the secondary sexual characteristics localise the problem
-> **· BREAST DEVELOPMENT present → oestrogen has been produced → the axis has worked at some point → think outflow tract obstruction, or Müllerian agenesis, or androgen insensitivity.**
-> **· Breast development ABSENT → oestrogen deficiency → is the FSH high (ovarian failure — Turner syndrome) or low (hypothalamic-pituitary)?**
-> **· PUBIC AND AXILLARY HAIR reflects androgen action** — **absent in complete androgen insensitivity syndrome despite normal breast development**, which is the distinguishing combination.
-> **FSH is the branch point once oestrogen deficiency is established: HIGH means the ovary has failed; LOW or normal means the problem is above it.**
-
-> [!danger] Functional hypothalamic amenorrhoea and relative energy deficiency
-> **Suppression of the hypothalamic-pituitary-ovarian axis by low energy availability — from restricted intake, excessive exercise, or both — plus psychological stress.**
-> **Common in athletes, dancers, and women with disordered eating, and it is a diagnosis of exclusion.**
-> **The consequence that matters is BONE: prolonged oestrogen deficiency in a young woman causes bone loss at the age when peak bone mass should be accruing, and it may not be fully recoverable. STRESS FRACTURES are the presenting orthopaedic manifestation.** Cross-refer [[L5]] 0.7.
-> **Relative Energy Deficiency in Sport (RED-S)** extends beyond the older "female athlete triad" and affects multiple systems in both sexes.
-> **The treatment is restoring energy availability — not the oral contraceptive pill, which masks the amenorrhoea, does not restore bone density, and removes the most useful clinical marker of recovery.** Cross-refer [[N8]].
-
-> [!danger] Primary ovarian insufficiency needs hormone therapy until the usual age of menopause
-> **Loss of ovarian function before age 40, with raised FSH on two occasions.**
-> **These women need OESTROGEN REPLACEMENT (with progestogen if they have a uterus) UNTIL AROUND THE AVERAGE AGE OF NATURAL MENOPAUSE — not as optional symptom relief, but to protect BONE and CARDIOVASCULAR health.**
-> **This is a different risk-benefit calculation from menopausal hormone therapy in an older woman, and the fears generated by the WHI do NOT apply** — these women are being brought up to a normal physiological state, not given supraphysiological hormones. **Under-treatment of POI is common and harmful.**
-> **Also address: fertility (spontaneous conception is possible but uncommon; discuss options and refer), the psychological impact of an unexpected loss of fertility, and the search for a cause — karyotype, fragile X premutation, autoimmune and adrenal antibodies.**
-
-**Ix:** **Pregnancy test** (*why:* the commonest cause of secondary amenorrhoea; *what:* positive). **FSH, LH and oestradiol** (*why:* localises to ovary versus hypothalamic-pituitary; *what:* high FSH in ovarian failure, low or normal in central causes). **Prolactin and TFTs** (*why:* both common, both treatable, and both easily missed; *what:* hyperprolactinaemia, thyroid dysfunction — cross-refer [[I4]] 0.2). **Testosterone and androgens where there is hirsutism or virilisation** (*why:* PCOS, congenital adrenal hyperplasia, androgen-secreting tumour; *what:* elevation — cross-refer [[I4]] 0.6). **Pelvic ultrasound** (*why:* confirms the presence and structure of uterus and ovaries, and identifies outflow obstruction and polycystic morphology; *what:* anatomy). **Karyotype in primary amenorrhoea and in POI** (*why:* Turner syndrome and other chromosomal causes, with implications for management and counselling; *what:* chromosomal abnormality). **MRI pituitary** where a central cause or hyperprolactinaemia (*why:* pituitary lesion; *what:* adenoma). **Bone density where amenorrhoea has been prolonged** (*why:* oestrogen deficiency causes bone loss, and the loss is silent; *what:* reduced density). Assessment of energy availability, eating patterns and exercise load (*why:* functional hypothalamic amenorrhoea is the commonest cause in young women and is reversible; *what:* the underlying behaviour).
-
----
-
-## 0.5 Dysmenorrhoea and Endometriosis
-
-> [!tip] Primary versus secondary dysmenorrhoea
-> **PRIMARY — no underlying pathology.** Prostaglandin-mediated uterine contraction and ischaemia. **Begins within a year or two of menarche once cycles become ovulatory**, occurs with each period, and **responds well to NSAIDs and hormonal contraception.**
-> **SECONDARY — underlying pathology.** **Later onset, progressive worsening, associated with other symptoms (deep dyspareunia, abnormal bleeding, bowel or bladder symptoms), and less responsive to simple measures.**
-> **A change in the character of period pain in a woman who previously had manageable periods is the flag.**
-
-> [!danger] Endometriosis — the diagnostic delay is measured in years, and normalisation is why
-> **Endometrial-like tissue outside the uterus, causing inflammation, adhesions and pain.**
-> **The average delay from symptom onset to diagnosis is many years**, and the largest contributor is **the normalisation of severe menstrual pain** — by the woman, by her family, and by clinicians.
-> **"Period pain that stops you doing normal activities is not normal" is the single most useful thing to say**, and asking whether pain has caused absence from school or work quantifies it usefully.
-> **Symptoms: cyclical pelvic pain and dysmenorrhoea · DEEP DYSPAREUNIA · cyclical dyschezia or haematochezia · cyclical urinary symptoms · SUBFERTILITY · and fatigue.**
-> **Over time the pain frequently becomes NON-cyclical and chronic, through central sensitisation** — which is why longstanding endometriosis needs a chronic pain approach as well as a gynaecological one. Cross-refer [[L3]] 0.5.
-
-> [!warning] Two things that make endometriosis hard to diagnose
-> **1. SYMPTOMS CORRELATE POORLY WITH DISEASE EXTENT.** Extensive disease can be relatively asymptomatic, and minimal disease can be severely painful. **Do not use imaging findings to validate or dismiss the reported pain.**
-> **2. A NORMAL ULTRASOUND DOES NOT EXCLUDE ENDOMETRIOSIS.** Ultrasound detects endometriomas and, in skilled hands, deep infiltrating disease — **but superficial peritoneal disease is not visible on any imaging.**
-> **Examination may also be entirely normal**, though a fixed retroverted uterus, uterosacral nodularity or focal tenderness supports the diagnosis.
-
-> [!tip] Laparoscopy is no longer required before starting treatment
-> **This is a genuine change from older teaching.** **Empirical medical treatment on the basis of a compatible history is appropriate and recommended**, rather than requiring surgical confirmation first.
-> **Management:**
-> **· NSAIDs**, started before or at the onset of pain.
-> **· HORMONAL SUPPRESSION — continuous combined oral contraception (skipping the hormone-free interval), progestogens, the LNG-IUS, or GnRH analogues with add-back therapy for refractory disease.** The aim is to suppress cyclical activity.
-> **· SURGERY — laparoscopic excision** for diagnosis and treatment where medical management fails or where there is deep infiltrating disease or endometrioma.
-> **· FERTILITY — discuss early**, since endometriosis affects fertility and treatment decisions interact with reproductive plans.
-> **· A MULTIDISCIPLINARY CHRONIC PAIN APPROACH — pelvic floor physiotherapy, psychology, and pain management** — for established chronic pain, which is under-provided.
-> **Australia has a National Action Plan for Endometriosis**, reflecting the recognised diagnostic delay and service gaps. `UNVERIFIED — current initiatives and referral pathways.`
-
-**Ix:** **Transvaginal ultrasound** (*why:* detects endometrioma, adenomyosis and deep infiltrating disease, and excludes other pathology — **while a normal scan does not exclude endometriosis**; *what:* endometrioma, adenomyosis, nodules, immobility of organs). **MRI pelvis** in suspected deep infiltrating disease (*why:* maps disease involving bowel, bladder and ureters for surgical planning; *what:* deep nodules, organ involvement). Pregnancy test and STI screen (*why:* pelvic inflammatory disease and pregnancy complications are differentials; *what:* infection, pregnancy). **CA-125** is **not** recommended for diagnosing endometriosis (*why:* it is neither sensitive nor specific and generates confusion; *what:* not indicated for this purpose). Laparoscopy (*why:* the definitive diagnosis and simultaneous treatment — **but not a prerequisite to starting medical therapy**; *what:* visualised and histologically confirmed disease).
-
----
-
-## 0.6 Menopause and Hormone Therapy
-
-**D:** **Menopause is defined retrospectively as 12 months of amenorrhoea** in the absence of another cause. **Perimenopause** is the preceding transition with fluctuating hormones and irregular cycles. **Premature menopause (before 40) is primary ovarian insufficiency** — see 0.4. `UNVERIFIED — the average age of menopause in Australia.`
-
-> [!danger] In a woman over 45 with typical symptoms, menopause is a CLINICAL diagnosis — do not check FSH
-> **FSH fluctuates markedly during the perimenopause, and a single measurement can be entirely normal in a woman who is unmistakably perimenopausal.**
-> **Checking it delays treatment, generates confusion, and adds nothing.**
-> **FSH is useful in specific circumstances: in women under 40 where primary ovarian insufficiency is suspected, and where the picture is atypical.**
-
-> [!tip] The symptoms, and which ones resolve
-> **· VASOMOTOR — hot flushes and night sweats. These usually improve over years, though they persist for a long time in a substantial minority.**
-> **· Sleep disturbance, mood change, anxiety, and cognitive complaints ("brain fog").**
-> **· Joint and muscle aches — common and frequently not attributed to menopause.**
-> **· GENITOURINARY SYNDROME OF MENOPAUSE — vaginal dryness, irritation, dyspareunia, urinary urgency, frequency and recurrent urinary tract infections.**
-> **The critical distinction: vasomotor symptoms IMPROVE with time, but GENITOURINARY SYMPTOMS ARE PROGRESSIVE AND DO NOT RESOLVE WITHOUT TREATMENT.** **This is why waiting them out is the wrong advice for GSM.**
-
-> [!danger] The WHI was over-interpreted, and a generation of women was under-treated
-> **The Women's Health Initiative findings were widely reported as showing that hormone therapy causes breast cancer and cardiovascular disease, and prescribing collapsed internationally.**
-> **The problems with that interpretation: the trial population was OLDER (average age well above the age of menopause), many were MANY YEARS past menopause, the formulations used are not those most used now, and the absolute risks were small and frequently reported as relative risks.**
-> **Current position: for SYMPTOMATIC women under 60, or within 10 years of menopause, and without contraindications, the benefits of menopausal hormone therapy generally OUTWEIGH the risks** — for symptom control, quality of life and bone protection.
-> **The consequence of the over-interpretation is that many women have endured years of severe symptoms unnecessarily, and many clinicians remain reflexively reluctant.** `UNVERIFIED — the current Australasian Menopause Society position, absolute risk figures and the "timing hypothesis".`
-
-> [!warning] The practical prescribing points
-> **· OESTROGEN PLUS PROGESTOGEN if the woman has a UTERUS — the progestogen is for ENDOMETRIAL PROTECTION.** **Oestrogen alone in a woman with a uterus causes endometrial hyperplasia and cancer.**
-> **· Oestrogen ALONE after hysterectomy.**
-> **· TRANSDERMAL oestrogen (patch or gel) AVOIDS the increased VTE risk associated with ORAL oestrogen**, because it bypasses hepatic first pass. **This makes transdermal the preferred route in women with VTE risk factors, obesity, migraine, or hypertension** — and it is an easy, concrete point that improves safety.
-> **· Breast cancer risk relates mainly to COMBINED therapy and increases with DURATION** — the absolute increase is small and comparable to other lifestyle factors, and it should be presented in absolute terms so the woman can decide.
-> **· Contraindications: current or past oestrogen-dependent cancer, undiagnosed abnormal bleeding, active VTE or thrombophilia (for oral), active liver disease, and established coronary or cerebrovascular disease.**
-> **· Non-hormonal options: SSRIs and SNRIs, gabapentin, clonidine, and cognitive behavioural therapy**, for women who cannot or prefer not to take hormones. Newer non-hormonal agents targeting the thermoregulatory pathway are emerging.
-> **· AVOID compounded "bioidentical" hormones** — they are unregulated, of unverified dose and purity, lack evidence, and often lack adequate endometrial protection.
-> `UNVERIFIED — all agents, doses, formulations and PBS availability.`
-
-> [!danger] Vaginal oestrogen for genitourinary syndrome is safe, effective, and vastly under-prescribed
-> **Low-dose vaginal oestrogen has MINIMAL systemic absorption.**
-> **It is effective for vaginal dryness, dyspareunia, urinary urgency and RECURRENT URINARY TRACT INFECTIONS in postmenopausal women** — and the effect on recurrent UTI is substantial and under-used.
-> **It does not require systemic progestogen for endometrial protection at the doses used, and it can be used long-term.**
-> **It can be considered in many women with a history of breast cancer, in discussion with their oncologist** — a blanket prohibition denies effective treatment for a genuinely distressing problem.
-> **It is under-prescribed largely because nobody asks about the symptoms.** **Ask.** Cross-refer [[O6]] 0.5 and [[O5]].
-
-**Ix:** **Usually none in a woman over 45 with typical symptoms.** **FSH in women under 40, or where the presentation is atypical** (*why:* diagnosing primary ovarian insufficiency, which requires different management; *what:* raised FSH on two occasions). TFTs (*why:* thyroid dysfunction mimics menopausal symptoms closely and is easily excluded; *what:* abnormal TSH). **Investigation of any abnormal or postmenopausal bleeding, before and during hormone therapy** (*why:* unscheduled bleeding on hormone therapy still requires exclusion of endometrial pathology; *what:* endometrial assessment — see 0.3). **Blood pressure, lipids, glucose and cardiovascular risk assessment** (*why:* cardiovascular risk rises after menopause and this is a natural point to assess it; *what:* risk factors). **Bone density where risk factors are present, and in primary ovarian insufficiency** (*why:* accelerated bone loss follows oestrogen withdrawal; *what:* reduced density — cross-refer [[GER1]] 0.6). Breast and cervical screening status (*why:* the consultation is an opportunity; *what:* overdue screening).
-
-### 0.6.1 Mx – Immediate
-Not applicable.
-
-### 0.6.2 Mx – Definitive
-Symptom-directed: hormone therapy where appropriate, non-hormonal alternatives otherwise, and **vaginal oestrogen for genitourinary symptoms regardless of whether systemic therapy is used.**
-
-### 0.6.3 Mx – Chronic/long-term
-**Annual review of ongoing hormone therapy — indication, dose, route and whether it is still needed** — with the recognition that there is no arbitrary maximum duration, and the decision is individualised. **Bone health, cardiovascular risk, and cancer screening.** **Contraception is still required in the perimenopause** — cross-refer [[O6]] 0.3.
-
----
-
-> [!note] Cross-references
-> Contraception, the LNG-IUS and enzyme inducers → [[O6]] 0.3 · STIs, cervical screening and sexual dysfunction → [[O6]] 0.1–0.2, 0.5 · Early pregnancy bleeding and ectopic pregnancy → [[O1]] · Pelvic pain, PID and vulval conditions → [[O5]] · Breast assessment → [[O7]] · PCOS, hyperprolactinaemia and androgen excess → [[I4]] 0.2, 0.6 · Thyroid disease → [[I1]] · Bleeding disorders and von Willebrand disease → [[A9]] 0.3 and [[J3]] · Iron deficiency anaemia → [[J1]] · Osteoporosis and bone protection → [[GER1]] 0.6 · Chronic pelvic pain and central sensitisation → [[L3]] 0.5 · Stress fractures and RED-S → [[L5]] 0.7 · Disordered eating → [[N8]] · Lynch syndrome and family cancer history → [[C5]] 0.5
-
-
-<!-- ===== SOURCE: O5_Pelvic_and_Vulval_Conditions.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Clinical reasoning and discriminators are reliable at intern level. **Every regimen, size threshold, risk index and criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
-> **All antimicrobial regimens are omitted** — obtain from **eTG Antibiotic** and the **Australian STI Management Guidelines**. Ovarian cyst management thresholds and risk-of-malignancy indices should come from **RANZCOG**. **Transvaginal mesh is subject to regulatory restriction in Australia** — verify current status with the TGA.
->
-> **Early pregnancy problems including ectopic pregnancy are built in [[O1]]**, **menstrual disorders and endometriosis in [[O4]]**, and **STIs in [[O6]] 0.2** — each is cross-referenced rather than repeated.
-
----
-
-## 0.1 Acute Pelvic Pain
-
-> [!danger] Pregnancy test first — ectopic pregnancy until proven otherwise
-> **Any woman of reproductive age with acute pelvic or lower abdominal pain has an ectopic pregnancy until a negative pregnancy test says otherwise.**
-> **A ruptured ectopic is a preventable death**, and it presents in ways that are easily attributed elsewhere: shoulder tip pain, diarrhoea, dizziness, or collapse without abdominal pain being prominent.
-> **Do not rely on the reported last menstrual period** — bleeding in ectopic pregnancy is frequently mistaken for a period. **Do not rely on contraception** — no method is perfect, and **an IUD in situ INCREASES the proportion of pregnancies that are ectopic if conception occurs.** Cross-refer [[O1]].
-
-> [!tip] The differential, by system
-> **GYNAECOLOGICAL: ectopic pregnancy · miscarriage · OVARIAN TORSION · ruptured or haemorrhagic ovarian cyst · pelvic inflammatory disease and tubo-ovarian abscess · endometriosis · degenerating or torted fibroid · ovarian hyperstimulation syndrome.**
-> **GASTROINTESTINAL: appendicitis (the classic mimic — cross-refer [[C1]] 0.3) · diverticulitis · inflammatory bowel disease · constipation · irritable bowel syndrome.**
-> **URINARY: urinary tract infection · pyelonephritis · renal or ureteric colic · urinary retention.**
-> **OTHER: abdominal wall pain (a positive CARNETT sign — tenderness that persists or worsens on tensing the abdominal wall, indicating a wall rather than a visceral source) · musculoskeletal · referred spinal pain.**
-
-> [!danger] Red flags requiring immediate action
-> **· Haemodynamic instability · peritonism · a POSITIVE PREGNANCY TEST · fever with systemic illness · inability to pass urine · severe unilateral pain of sudden onset (torsion).**
-> **A young woman with a positive pregnancy test and haemodynamic instability goes to theatre, not to the scanner.**
-
-**S/Smx:** Onset, character, radiation, relation to the cycle, and associated bleeding, discharge, bowel and urinary symptoms. **Last menstrual period, cycle regularity, contraception, sexual history, and previous pelvic surgery or infection.**
-Examination: observations, abdominal examination, **and — where appropriate and consented — speculum and bimanual examination looking for cervical motion tenderness, adnexal tenderness or mass, and discharge.**
-
-**Ix:** **Urine or serum βhCG** (*why:* the branch point of the entire assessment; *what:* positive or negative — **and if positive, a quantitative serum level with ultrasound**). FBC, CRP, UEC (*why:* infection, inflammation, blood loss; *what:* leucocytosis, anaemia). **Urinalysis and mid-stream urine** (*why:* urinary tract infection is common and mimics gynaecological pain — **but a positive dipstick does not exclude the serious alternatives**, and it is a common source of premature closure; *what:* infection in clinical context). **Chlamydia and gonorrhoea NAAT** (*why:* pelvic inflammatory disease; *what:* infection). **Transvaginal ultrasound** (*why:* the imaging of choice for the pelvis — identifies intrauterine or ectopic pregnancy, adnexal masses, free fluid and tubo-ovarian abscess; *what:* the pelvic anatomy). **Group and hold** (*why:* preparation for possible surgery or haemorrhage; *what:* blood group). CT where a gastrointestinal or urological cause is more likely (*why:* appendicitis, diverticulitis, calculus; *what:* the alternative diagnosis).
-
----
-
-## 0.2 Pelvic Inflammatory Disease
-
-**A/P:** **Ascending infection from the cervix to the endometrium, fallopian tubes, ovaries and pelvic peritoneum.** Usually **polymicrobial**, with **chlamydia, gonorrhoea and *Mycoplasma genitalium*** initiating, and anaerobes and other organisms involved.
-
-> [!danger] The diagnostic threshold should be LOW — treat empirically
-> **There is no reliable diagnostic test.** Clinical criteria are sensitive but not specific, ultrasound is often normal, and NAAT results take days and are frequently negative even in genuine PID.
-> **The asymmetry of consequences drives the decision: the cost of treating a woman who does not have PID is a course of antibiotics; the cost of missing it is TUBAL FACTOR INFERTILITY, ECTOPIC PREGNANCY and CHRONIC PELVIC PAIN.**
-> **So the minimum criteria for empirical treatment are deliberately low: pelvic or lower abdominal pain in a sexually active young woman, with CERVICAL MOTION TENDERNESS, OR uterine tenderness, OR adnexal tenderness on examination — with no other explanation.**
-> **Supporting features (not required): fever, abnormal cervical or vaginal discharge, raised inflammatory markers, positive NAAT.**
-> **The risk of tubal damage rises with each episode and with delay to treatment.**
-
-> [!tip] Two associated presentations worth recognising
-> **· FITZ-HUGH-CURTIS SYNDROME — perihepatitis producing RIGHT UPPER QUADRANT pain in a woman with PID**, from inflammatory adhesions between the liver capsule and the anterior abdominal wall. **It is mistaken for cholecystitis**, and the pelvic examination and sexual history are what make the diagnosis. Cross-refer [[C1]] 0.3.
-> **· TUBO-OVARIAN ABSCESS — a palpable or sonographic adnexal mass with systemic illness.** **Requires admission, intravenous antibiotics, and often drainage** — it does not resolve with oral therapy, and **rupture causes peritonitis and sepsis.**
-
-> [!warning] Management points
-> **· Empirical antibiotics covering chlamydia, gonorrhoea AND anaerobes.** `UNVERIFIED — regimens from eTG Antibiotic and ASHM.`
-> **· An IUD can generally be LEFT IN SITU while treatment begins, with review at 48–72 hours** and removal considered if there is no improvement. Removing it reflexively risks pregnancy without clear benefit. `UNVERIFIED — current advice.`
-> **· PARTNER NOTIFICATION AND TREATMENT is essential** — untreated partners cause reinfection, and this is where treatment most often fails. Cross-refer [[O6]] 0.1.
-> **· Advise abstinence until both partners have completed treatment.**
-> **· Admission criteria: pregnancy, severe illness, tubo-ovarian abscess, failure of oral therapy, inability to tolerate oral therapy, and diagnostic uncertainty requiring surgical exclusion.**
-> **· Review at 48–72 hours** — failure to improve should prompt reconsideration of the diagnosis and imaging for an abscess.
-
-**Ix:** **Chlamydia, gonorrhoea and *M. genitalium* NAAT from appropriate sites** (*why:* identifies the organism and directs partner notification — **but a negative result does not exclude PID and should not delay treatment**; *what:* organism). Pregnancy test (*why:* changes antibiotic choice and raises ectopic pregnancy as a differential; *what:* positive). FBC and CRP (*why:* severity and monitoring; *what:* inflammatory response). **Transvaginal ultrasound** (*why:* identifies tubo-ovarian abscess and hydrosalpinx, and excludes alternatives — **but is frequently NORMAL in uncomplicated PID and does not exclude it**; *what:* abscess, free fluid, tubal changes). HIV and syphilis serology (*why:* co-infection and an opportunity for broader screening; *what:* positive).
-
-### 0.2.1 Mx – Immediate
-**Empirical antibiotics on clinical suspicion.** Analgesia. Admission where criteria are met.
-
-### 0.2.2 Mx – Definitive
-Complete the course, treat partners, and drain an abscess if present.
-
-### 0.2.3 Mx – Chronic/long-term
-**Counselling about the implications for future fertility and ectopic risk**, retesting for reinfection, and contraception and STI prevention discussion.
-
----
-
-## 0.3 Ovarian Pathology
-
-> [!danger] Ovarian torsion — a normal Doppler does NOT exclude it
-> **The ovary has a DUAL blood supply (ovarian and uterine arteries), and torsion is often intermittent and incomplete — so ARTERIAL FLOW IS FREQUENTLY PRESENT ON DOPPLER in a torted ovary.**
-> **Relying on the ultrasound report of "flow present" to exclude torsion is a recognised and serious error.**
-> **The diagnosis is clinical and surgical: sudden severe unilateral pelvic pain, often with prominent NAUSEA AND VOMITING, sometimes intermittent and recurrent (from partial torsion and detorsion), usually — but not always — with an ovarian mass or cyst present.**
-> **Higher risk: an ovarian cyst or mass above a threshold size, PREGNANCY, and OVULATION INDUCTION or IVF.**
-> **It is a surgical emergency — laparoscopic DETORSION preserves ovarian function, and even a dusky-looking ovary frequently recovers, so oophorectomy is usually unnecessary.** **Delay costs the ovary.** `UNVERIFIED — the cyst size threshold.`
-
-> [!tip] Functional and benign cysts
-> **· FOLLICULAR and CORPUS LUTEUM cysts — physiological, common, and usually resolve spontaneously over a couple of cycles.**
-> **· HAEMORRHAGIC cysts — acute pain, sometimes with haemoperitoneum and significant blood loss; usually managed conservatively unless haemodynamically significant.**
-> **· ENDOMETRIOMA** — cross-refer [[O4]] 0.5.
-> **· Dermoid (mature cystic teratoma), cystadenoma, and fibroma.**
-> **Management depends on MENOPAUSAL STATUS, SIZE and SONOGRAPHIC MORPHOLOGY** — simple unilocular cysts in premenopausal women are usually observed; complex, solid, septated or vascular features, and any cyst in a postmenopausal woman, warrant further assessment. `UNVERIFIED — the size and morphology thresholds and follow-up intervals.`
-
-> [!danger] Ovarian cancer — the symptoms are not silent, they are non-specific
-> **The "silent killer" framing is misleading and harmful: most women DO have symptoms before diagnosis, but the symptoms are vague and are attributed to other things.**
-> **The pattern that matters: PERSISTENT and NEW — occurring most days for more than a few weeks — of:**
-> **· ABDOMINAL BLOATING or increased abdominal size**
-> **· EARLY SATIETY or difficulty eating**
-> **· PELVIC OR ABDOMINAL PAIN**
-> **· URINARY URGENCY OR FREQUENCY**
-> **Plus: change in bowel habit, fatigue, weight loss, and postmenopausal bleeding.**
-> **A woman over 50 with new, persistent bloating and early satiety being investigated for irritable bowel syndrome should have a pelvic examination, a CA-125 and an ultrasound** — new-onset IBS-type symptoms in this age group are a recognised presentation of ovarian cancer.
-> **Risk factors: increasing age · BRCA1 and BRCA2 mutations · LYNCH SYNDROME · nulliparity · endometriosis (for clear cell and endometrioid types) · family history.**
-> **Protective: combined oral contraception, parity, breastfeeding, and tubal ligation or salpingectomy.**
-
-> [!warning] CA-125 — useful with caveats, useless without them
-> **RAISED in many benign conditions: endometriosis, fibroids, pelvic inflammatory disease, menstruation, pregnancy, ascites of any cause, liver disease, heart failure, and peritoneal inflammation.**
-> **NORMAL in a substantial proportion of early-stage ovarian cancers, and in most mucinous tumours.**
-> **It is therefore NOT a screening test and NOT a rule-out test.** Its role is **as part of a risk assessment alongside ultrasound and menopausal status**, and for **monitoring known disease.**
-> **Risk of malignancy indices and structured ultrasound rules combine these variables to triage referral.** `UNVERIFIED — the indices and their thresholds.`
-
-> [!danger] Refer suspected ovarian cancer to a gynaecological oncology service
-> **Survival is better when primary surgery is performed by a specialist gynaecological oncologist in an appropriate centre**, because complete cytoreduction is the strongest determinant of outcome and requires specific expertise.
-> **A suspicious adnexal mass should not be operated on by a general gynaecologist or general surgeon "to see what it is"** — an inadequate first operation compromises the whole subsequent course.
-
-> [!warning] Ovarian hyperstimulation syndrome
-> A complication of **ovulation induction and IVF**, usually presenting days after the trigger or after conception.
-> **Ovarian enlargement with capillary leak → ascites, pleural effusion, HAEMOCONCENTRATION, oliguria, and a significantly INCREASED VTE RISK including at unusual sites.**
-> **Severe cases require admission, careful fluid management, thromboprophylaxis and specialist input.**
-> **Any woman presenting with abdominal distension and breathlessness after fertility treatment should be assessed for it**, and it is easily mistaken for infection or a surgical abdomen.
-
-**Ix:** **Transvaginal ultrasound with Doppler** (*why:* the primary imaging modality — **with the explicit caveat that present flow does not exclude torsion**; *what:* cyst morphology, mass, free fluid, flow). Pregnancy test (*why:* corpus luteum cysts, ectopic pregnancy, and it changes management; *what:* positive). **CA-125, with tumour markers appropriate to age** — **in women under about 40, also AFP, βhCG and LDH** (*why:* germ cell tumours occur in young women and have different markers; *what:* marker elevation). CT chest, abdomen and pelvis where malignancy is suspected (*why:* staging and assessment of resectability; *what:* omental disease, ascites, nodes, metastases). FBC, UEC, LFT, albumin (*why:* baseline, and haemoconcentration in hyperstimulation; *what:* derangement). **Genetic assessment where there is a family history or a high-grade serous cancer** (*why:* BRCA and Lynch syndrome have implications for treatment (PARP inhibitors) and for relatives; *what:* pathogenic variant).
-
-### 0.3.1 Mx – Immediate
-**Urgent surgical referral for suspected torsion.** Resuscitation and surgery for a significantly bleeding cyst.
-
-### 0.3.2 Mx – Definitive
-Detorsion, cystectomy, or oncological surgery through the appropriate service.
-
-### 0.3.3 Mx – Chronic/long-term
-Surveillance of cysts managed conservatively. Genetic counselling and cascade testing where indicated. Fertility discussion.
-
----
-
-## 0.4 Chronic Pelvic Pain
-
-**D:** **Pelvic pain persisting for six months or more**, non-cyclical or cyclical, sufficient to cause functional impairment.
-
-> [!tip] Several contributors usually coexist — which is why single-target treatment fails
-> **· Endometriosis and adenomyosis** — cross-refer [[O4]] 0.5.
-> **· Adhesions** — from previous surgery or infection.
-> **· PELVIC FLOOR MYOFASCIAL PAIN — overactive, tender pelvic floor musculature.** **Extremely common, readily identified by palpating the pelvic floor on vaginal examination, and highly treatable with pelvic floor physiotherapy — and it is under-diagnosed because the pelvic floor is not examined.**
-> **· Irritable bowel syndrome** — cross-refer [[C5]] 0.3.
-> **· Bladder pain syndrome / interstitial cystitis** — pain related to bladder filling, relieved by voiding, with urgency and frequency and sterile urine.
-> **· Nerve entrapment** — pudendal, ilioinguinal or iliohypogastric, particularly after Pfannenstiel incisions or hernia repair.
-> **· Musculoskeletal** — sacroiliac, hip and abdominal wall.
-> **· CENTRAL SENSITISATION** — cross-refer [[L3]] 0.5. Longstanding pelvic pain frequently develops a nociplastic component, which explains why removing the original peripheral cause may not resolve it.
-
-> [!danger] Ask about sexual violence, coercion and trauma
-> **Chronic pelvic pain has a strong association with a history of sexual and physical violence.**
-> **Ask privately, sensitively, and always with any accompanying person out of the room.**
-> **And conduct examinations with explicit, unhurried consent, with the ability to stop at any point** — an examination that reproduces trauma causes harm and ends the therapeutic relationship. Cross-refer [[GER4]] and [[O6]] 0.5.
-
-> [!warning] What harms these patients
-> **· Repeated laparoscopy** — each operation adds adhesions and rarely adds information after the first.
-> **· Escalating opioids** — ineffective for nociplastic pain and causing hyperalgesia and dependence. Cross-refer [[F0.4]] 0.9.
-> **· Serial specialist referrals without coordination**, each investigating one component.
-> **What helps: a single coordinating clinician, a multidisciplinary approach including PELVIC FLOOR PHYSIOTHERAPY and psychology, hormonal suppression where there is a cyclical component, neuropathic agents, and an explicit explanation of the pain mechanism.**
-
-**Ix:** **Examination including palpation of the pelvic floor muscles** (*why:* identifies myofascial pain, which is common and treatable, and takes moments; *what:* focal muscle tenderness reproducing the pain). Transvaginal ultrasound (*why:* excludes structural pathology; *what:* endometrioma, adenomyosis, mass). STI screen and urinalysis (*why:* treatable infective contributors; *what:* infection). **Consideration of the gastrointestinal and urological contributors on their own merits** (*why:* IBS and bladder pain syndrome are common and require different management; *what:* the pattern). **Not repeated imaging or repeated laparoscopy in the absence of new features** (*why:* it perpetuates the search and adds surgical morbidity; *what:* nothing useful).
-
----
-
-## 0.5 Vulval Symptoms
-
-> [!danger] Look at the vulva — it is the most under-examined area in medicine
-> **Vulval symptoms are frequently managed over the phone or by repeated antifungal prescriptions without anyone examining the area.**
-> **The consequences are serious: lichen sclerosus goes untreated and causes irreversible architectural loss, and vulval cancers are diagnosed late.**
-> **Examine, with good light, with consent, and with a chaperone offered.**
-
-> [!warning] Lichen sclerosus — commonly misdiagnosed as thrush for years
-> **Intense vulval ITCH, often worse at night, with characteristic changes: WHITE, atrophic, "cigarette paper" or crinkled skin, in a FIGURE-OF-EIGHT distribution around the vulva and anus.**
-> **Progressive ARCHITECTURAL LOSS: resorption of the labia minora, fusion of the clitoral hood burying the clitoris, and narrowing of the introitus causing dyspareunia.** **These changes are irreversible once established.**
-> **Fissuring, purpura and erosions occur; the skin is fragile.**
-> **Two things make this important:**
-> **1. POTENT TOPICAL CORTICOSTEROID is the treatment, it is highly effective, and it PREVENTS progression of architectural change — so early diagnosis genuinely alters the outcome.** **Under-treatment through fear of steroid on genital skin is common and is the wrong instinct here.**
-> **2. There is an increased risk of VULVAL SQUAMOUS CELL CARCINOMA, so these women need LONG-TERM FOLLOW-UP, and any thickened, ulcerated, or non-responding area must be BIOPSIED.**
-> **It also occurs in prepubertal girls, where it is frequently mistaken for infection or for signs of abuse** — and in boys and men, causing phimosis.
-
-> [!danger] Biopsy any persistent vulval lesion
-> **Do not treat an undiagnosed vulval lesion with topical steroids indefinitely.**
-> **Any persistent ulcer, plaque, pigmented lesion, thickened area, or lesion that fails to respond to appropriate treatment requires BIOPSY.**
-> **Vulval intraepithelial neoplasia and vulval carcinoma present as itch, a lump, an ulcer or a plaque, and are routinely treated as dermatitis or thrush for months to years before biopsy.**
-> **The rule: if it is not better as expected, biopsy it.**
-
-> [!tip] The commoner vulvovaginal conditions
-> **· CANDIDIASIS** — itch with thick white discharge, normal vaginal pH. **Recurrent candidiasis warrants a glucose check and consideration of an alternative diagnosis** — much "recurrent thrush" is dermatitis, lichen sclerosus or vulvodynia.
-> **· BACTERIAL VAGINOSIS** — thin grey malodorous discharge, raised pH, "clue cells", and a positive whiff test. **Not sexually transmitted, but associated with sexual activity, and relevant in pregnancy.**
-> **· TRICHOMONAS** — frothy discharge, irritation, raised pH; sexually transmitted. Cross-refer [[O6]] 0.2.
-> **· CONTACT AND IRRITANT DERMATITIS** — **soaps, shower gels, wipes, panty liners, fragranced products, and OVER-WASHING.** **Ask what they are putting on it and how often they wash** — the treatment is frequently to stop doing something.
-> **· LICHEN PLANUS** — erosive, painful rather than itchy, with a characteristic violaceous border and Wickham striae, and it may involve the vagina and mouth, causing scarring.
-> **· VULVODYNIA** — vulval pain without an identifiable cause, provoked (on touch or intercourse) or unprovoked. **A positive diagnosis requiring multimodal management including pelvic floor physiotherapy, topical agents and neuromodulators.**
-> **· BARTHOLIN CYST AND ABSCESS** — drainage with a Word catheter or marsupialisation rather than simple incision, which recurs. **In women over about 40, consider malignancy and biopsy the wall.**
-
-> [!tip] Vulval care advice — worth giving explicitly
-> **Avoid soap, shower gel and bubble bath on the vulva — use water or a soap substitute · avoid wipes, deodorants and fragranced products · avoid over-washing · pat dry · cotton underwear, and none at night · avoid tight clothing · use an emollient as a barrier and a soap substitute.**
-> **This alone resolves a substantial proportion of chronic vulval symptoms**, and it is rarely given in enough detail to be useful.
-
-**Ix:** **Inspection with good lighting** (*why:* the diagnosis is usually visible and the area is under-examined; *what:* the appearance, distribution and architecture). **BIOPSY of any persistent, atypical or non-responding lesion** (*why:* VIN and carcinoma masquerade as benign dermatoses; *what:* histology). Vaginal pH and microscopy, and high vaginal and endocervical swabs (*why:* distinguishes candidiasis, bacterial vaginosis and trichomonas, which look similar clinically; *what:* organism, pH, clue cells). Glucose and HbA1c in recurrent candidiasis (*why:* undiagnosed diabetes; *what:* hyperglycaemia). Patch testing where contact dermatitis is suspected (*why:* identifies the allergen, often something still being used; *what:* allergen). STI screen where relevant (*why:* concurrent infection; *what:* positive).
-
----
-
-## 0.6 Prolapse and Urinary Incontinence
-
-> [!tip] Pelvic organ prolapse
-> **Descent of the anterior vaginal wall (cystocele), posterior wall (rectocele), apex (uterine or vaginal vault) or enterocele**, graded with the POP-Q system.
-> **Symptoms: a sensation of a bulge or something coming down, dragging or heaviness, WORSE AT THE END OF THE DAY and with standing or lifting; voiding difficulty sometimes requiring digital reduction to void; defecatory dysfunction requiring splinting; and sexual dysfunction.**
-> **The degree of anatomical prolapse correlates poorly with symptoms** — treat the symptoms, not the POP-Q score.
-> **Risk factors: vaginal delivery and parity · increasing age and menopause · obesity · chronic raised intra-abdominal pressure (chronic cough, constipation, heavy lifting) · and connective tissue disorders.**
-
-> [!warning] Conservative management first — and the pessary is under-offered
-> **· PELVIC FLOOR MUSCLE TRAINING, supervised** — effective for mild to moderate prolapse and for symptoms.
-> **· Address the contributors: weight, CONSTIPATION, chronic cough, and heavy lifting.**
-> **· VAGINAL OESTROGEN** for atrophy, which improves tissue quality and symptoms.
-> **· PESSARY — effective, safe, reversible, avoids surgery, and suitable for many women including those unfit for or not wanting surgery. It requires fitting and REGULAR REVIEW (a neglected pessary erodes), but it is a genuinely good option that is offered far less often than it should be.**
-> **· Surgery** for those with persistent symptoms after conservative management.
-> **TRANSVAGINAL MESH for prolapse has been associated with significant and sometimes devastating complications, and its use has been substantially restricted by regulators in Australia.** **Women with mesh complications — chronic pain, erosion, dyspareunia, infection — need specialist referral, and their concerns should be taken seriously rather than dismissed.** `UNVERIFIED — the current TGA position and available products.`
-
-> [!danger] Pelvic floor muscle training is first-line for stress incontinence — and supervision matters
-> **Stress urinary incontinence — leakage on cough, laugh, sneeze or exertion — responds to SUPERVISED pelvic floor muscle training over an adequate period (typically at least three months).**
-> **"Do your pelvic floor exercises" as a verbal instruction is not treatment.** **A substantial proportion of women contract the wrong muscles or bear down when instructed without assessment**, so **referral to a pelvic floor physiotherapist, with assessment that the correct contraction is being achieved, is what makes the difference.**
-> **Surgical options (mid-urethral sling, colposuspension, bulking agents) come after** an adequate trial. **Note the mesh caveat above applies to some sling products.**
-
-> [!tip] The other incontinence types
-> The full classification is in **[[GER2]] 0.1.** The female-specific points:
-> **· URGE incontinence / overactive bladder** — bladder training and fluid modification first, then pharmacotherapy, **with attention to anticholinergic burden** — cross-refer [[GER1]] 0.4.
-> **· MIXED** — very common; treat the predominant component first.
-> **· OVERFLOW** — **bladder scan.** Consider prolapse causing outlet obstruction.
-> **· FISTULA** — continuous leakage without an urge component. **Obstetric fistula is rare in Australia but occurs after obstructed labour, and vesicovaginal fistula follows pelvic surgery or radiotherapy.** **Continuous leakage is a fistula until proven otherwise.**
-> **· FUNCTIONAL** — cross-refer [[GER2]] 0.1.
-
-> [!warning] Obstetric anal sphincter injury and faecal incontinence
-> **Third and fourth degree perineal tears cause anal sphincter injury, and the resulting faecal incontinence and urgency may present YEARS later, sometimes after the menopause when compensation fails.**
-> **Women rarely volunteer it — ask directly about flatus and faecal control in any woman with a history of instrumental or difficult vaginal delivery.**
-> **Pelvic floor physiotherapy, and referral to a colorectal or urogynaecology service, are effective and under-used.** Cross-refer [[C5]] 0.6 and [[O3]].
-
-**Ix:** **Examination including a POP-Q or descriptive assessment, and a cough stress test** (*why:* demonstrates the prolapse and demonstrable stress leakage; *what:* compartment and degree, leakage). **Bladder diary over several days** (*why:* the single most informative investigation in incontinence — establishes volumes, frequency, nocturia and the relationship to intake; *what:* the frequency-volume pattern). **Post-void residual bladder scan** (*why:* distinguishes overflow and identifies incomplete emptying from prolapse; *what:* residual volume). Urinalysis and culture (*why:* infection mimics and exacerbates urgency; *what:* infection). **Assessment of pelvic floor contraction, ideally by a physiotherapist** (*why:* determines whether training will work and whether the woman can contract correctly; *what:* strength and coordination). Urodynamics (*why:* reserved for complex, mixed or refractory cases and before surgery; *what:* detrusor and urethral function).
-
-### 0.6.1 Mx – Immediate
-Not applicable, except urinary retention requiring catheterisation.
-
-### 0.6.2 Mx – Definitive
-Conservative management first — **supervised pelvic floor physiotherapy, pessary, vaginal oestrogen and lifestyle modification** — then surgery for persistent symptoms.
-
-### 0.6.3 Mx – Chronic/long-term
-**Regular pessary review.** Continence nurse involvement. Weight, constipation and cough management. **Ask about symptoms at review — women do not volunteer them, and both prolapse and incontinence are substantially under-reported.**
-
----
-
-> [!note] Cross-references
-> Early pregnancy problems and ectopic pregnancy → [[O1]] · Menstrual disorders, endometriosis and menopause → [[O4]] · STIs, PID organisms and contraception → [[O6]] · Breast assessment → [[O7]] · Postnatal perineal injury → [[O3]] · Acute abdomen and appendicitis → [[C1]] 0.3 · Irritable bowel syndrome → [[C5]] 0.3 · Faecal incontinence and pelvic floor → [[C5]] 0.6 · Continence, catheters and functional incontinence → [[GER2]] 0.1 · Anticholinergic burden → [[GER1]] 0.4 · Chronic pain and central sensitisation → [[L3]] 0.5 · Opioid stewardship → [[F0.4]] 0.9 · Sexual violence and safeguarding → [[GER4]] · Vulval dermatoses in the dermatology context → [[G5]] · Lynch syndrome and family cancer history → [[C5]] 0.5
-
-
 <!-- ===== SOURCE: O6_Sexual_and_Reproductive_Health.md ===== -->
 
 
@@ -5459,6 +5001,228 @@ Specialist paediatric endocrine referral for precocious or pathological delayed 
 > HIV, PrEP and post-exposure prophylaxis → [[K3]] 0.2, 0.4 · Sexual assault pathway → [[K3]] 0.2 and [[GER4]] · Pelvic inflammatory disease and vulval symptoms → [[O5]] · Menstrual disorders, menopause and endometrial protection → [[O4]] · Pregnancy, antenatal screening and congenital infection → [[O2]] · Postpartum and neonatal herpes → [[O3]] · Acute scrotum and epididymo-orchitis → [[H4]] · Migraine with aura and contraception → [[D1]] 0.3 · Enzyme-inducing antiepileptics → [[D6]] 0.3 · Erectile dysfunction, nitrates and cardiovascular risk → [[B1]] 0.1 and [[B2]] 0.1 · Hypogonadism, hyperprolactinaemia and PCOS → [[I4]] 0.2, 0.6 · Antidepressant sexual side effects → [[N4]] · Penicillin allergy and desensitisation → [[K4]] 0.3 · Septic arthritis → [[L1]] · Capacity and consent in minors → [[A10]] 0.1 · Adolescent health → [[M7]] · Puberty and growth → [[M4]] · Aboriginal and Torres Strait Islander health → [[AU1]] · Preventive health, screening and immunisation → [[GER3]]
 
 
+<!-- ===== SOURCE: 16_16-17_Contraception.md ===== -->
+
+
+> [!info] Verified — **UKMEC is directly adopted by RANZCOG for Australian contraceptive practice**, not a UK-specific system requiring translation: the RANZCOG/FSRH joint "Contraception Clinical Guideline" explicitly incorporates UKMEC categories, and SA Health's own Community Pharmacy OCP protocol references UKMEC directly. The UKMEC categories and thresholds below are genuinely current Australian practice, not something needing an "Australian equivalent" swap. One minor, genuine product-availability difference worth knowing: drospirenone-containing POP is available in Australia specifically (not the UK), while desogestrel and levonorgestrel POPs are only available in New Zealand within this region — a detail relevant to which specific POP formulation is prescribable locally, though the underlying UKMEC eligibility framework applies the same way regardless of which formulation is used.
+
+## Combined hormonal contraception
+
+### Combined oral contraceptive pill (COCP)
+- **MOA**: inhibits ovulation
+- 99% effective if used correctly
+
+### Combined contraceptive patch (Evra patch)
+- **MOA**: inhibits ovulation
+- 99% effective if used correctly
+
+### Combined contraceptive ring (NuvaRing — etonogestrel + ethinylestradiol)
+- **MOA**: inhibits ovulation
+
+---
+
+### COCP — contraindications (UKMEC)
+
+> [!info] UKMEC categories
+> - **UKMEC 4** (unacceptable risk): current breast cancer; PMH of VTE, MI, or stroke; antiphospholipid antibodies +ve; uncontrolled hypertension; migraine with aura (↑stroke risk); >35yo + smoking ≥15 cigs/day; breastfeeding <6w postpartum; major surgery with prolonged immobilisation
+> - **UKMEC 3** (risks outweigh benefits): PMH or FHx of breast cancer (or gene mutation carrier); FHx of VTE (1st-degree relative); controlled hypertension; >35yo + smoking <15 cigs/day; BMI >35; immobility (incl. wheelchair use); current gallbladder disease
+> - **UKMEC 2**: benefits outweigh risks
+> - **UKMEC 1**: no restrictions
+
+**Risks**: ↑VTE, stroke, MI risk; ↑breast and cervical cancer risk.
+
+**Benefits**: ↓ovarian, endometrial, and colorectal cancer risk; often helps acne, ovarian cysts; can make periods regular, lighter, less painful.
+
+### How to take COCP
+- Ideally start within first 5 days of period → no additional contraception required
+- If started at any other point in the cycle: use alternative contraception (e.g. condoms) for first 7 days
+- Take at the same time every day
+- **Method 1**: 21 days + 7-day pill-free break (mimics physiological menses; no medical benefit from withdrawal bleed — based on patient preference)
+- **Method 2** (tricycling): 3x 21-day packs, then 4- or 7-day pill-free break
+- Intercourse during pill-free period only safe if next pack started on time
+
+**Special situations**
+- Vomiting within 2h of taking COCP: repeat dose
+- Antibiotic use: generally OK together; caution only with enzyme-inducing antibiotics (e.g. rifampicin)
+- Check the **AMH (Australian Medicines Handbook)** or local formulary for drug interactions
+
+### Missed COCP pills
+
+| Scenario | Action |
+|---|---|
+| 1 missed pill (any time in cycle) | Take last pill ASAP (even 2 in one day), continue daily. No emergency contraception required |
+| ≥2 missed pills, week 1 | Take last pill ASAP; emergency contraception if UPSI in pill-free week or days 1–7 |
+| ≥2 missed pills, week 2 | Take last pill ASAP; emergency contraception not required |
+| ≥2 missed pills, week 3 | Finish all pills in current pack, then omit pill-free interval |
+
+General advice: use barrier method (e.g. condoms) until pills taken 7 days in a row.
+
+### How to use combined patch
+- 1 patch per week for 3 weeks, then patch-free week (4-week cycle)
+
+**Missed patches**
+
+| Timing | Action |
+|---|---|
+| Week 1 or 2, delay <48h | Change ASAP, no further precautions |
+| Week 1 or 2, delay >48h | Change ASAP + barrier method for 7 days; emergency contraception if UPSI during patch-free interval or last 5 days |
+| Week 3 | Remove ASAP + apply new patch ASAP (skip patch-free week); no further precautions needed |
+| Start of week 1, delayed | Barrier contraception for first 7 days |
+
+- Less effective in patients >90kg
+
+### How to use combined ring
+- Insert within first 5 days of cycle start → no additional contraception needed
+- If inserted at other times: barrier contraception for first 7 days
+- 1 ring lasts 3 weeks, then remove → ring-free week → start next cycle
+- Check ring is present regularly; can be kept in during sex or tampon use
+- Expelled rings: manage similarly to patches
+
+---
+
+## Progestogen-only pill (POP / "mini pill")
+- **MOA**: thickens cervical mucus
+- 99% effective if used correctly
+
+**Side effects**: irregular vaginal bleeding (common).
+
+**How to take**
+- Ideally within first 5 days of period → no additional contraception required
+- If started at other times: alternative contraception for first 2 days
+- No pill-free break; take at same time every day
+
+**Missed pills**
+- <3h late: continue as normal
+- >3h late: take missed pill ASAP (even 2 in a day) + barrier contraception for next 48h
+- **Desogestrel (Cerazette)**: 12h grace period
+
+**Special situations**: diarrhoea/vomiting — repeat dose ± barrier contraception if "≥3h late" equivalent; check with pharmacist for enzyme-inducing drug interactions.
+
+---
+
+## Injectable contraceptive — Medroxyprogesterone acetate (Depo Provera)
+- **MOA**: inhibits ovulation and thickens cervical mucus
+
+**How to use**: IM injection every 12–14 weeks; beyond 14 weeks, barrier contraception must be used.
+
+**Side effects**: irregular or heavy bleeding (may need COCP initially to manage this), headache, nausea, mastalgia; ↑osteoporosis risk; not easily reversible — fertility may take up to 1 year to return to baseline.
+
+**Contraindications**: UKMEC4 — current breast cancer. UKMEC3 — stroke, MI, unexplained vaginal bleeding, PMH of breast cancer, severe liver cirrhosis, liver cancer.
+
+---
+
+## Implantable contraceptive — Nexplanon/Implanon (etonogestrel)
+- **MOA**: inhibits ovulation and thickens cervical mucus
+- Most effective form of contraception
+
+**How to use**: if inserted in first 5 days of cycle, no additional contraception needed; if inserted after, use barrier contraception for first 7 days. Effective for 3 years.
+
+---
+
+## Copper intrauterine device (IUD)
+- **MOA**: ↓sperm motility and survival
+
+## Intrauterine system (IUS) — releasing levonorgestrel
+- Mirena (8y), Jaydess (3y), Kyleena (5y)
+- **MOA**: prevents endometrial proliferation, thickens cervical mucus
+
+**Side effects (IUS)**: bleeding/spotting initially, becoming lighter — some women become amenorrhoeic; infection (especially first 3w after insertion); expulsion (1 in 20 risk, ↑risk in first 3 months); rarely uterine perforation (more common in breastfeeding women); relative ↑ectopic pregnancy risk vs other contraceptives (overall risk still very low, as most pregnancies are prevented).
+
+**How to use (IUS)**: inserted in clinic; teach patient to check placement; barrier contraception for first 7 days after insertion.
+
+**Side effects (copper IUD)**: heavier, longer, more painful periods; similar risks to IUS — infection, expulsion, uterine perforation, relative ↑ectopic pregnancy risk.
+
+**How to use (copper IUD)**: inserted in clinic; effective immediately after insertion; effective for 5–10 years.
+
+---
+
+## Condoms
+- **MOA**: physical barrier
+- Only method that protects against STIs
+- 98% effective if used correctly, lower efficacy in younger people due to incorrect use
+
+---
+
+## Emergency contraception
+
+### Levonorgestrel
+- Single dose = 1.5mg (double dose if BMI >26 or weight >70kg)
+- Efficacy 84% (more effective the sooner taken after UPSI)
+- Can be taken up to 72h after UPSI
+- If vomiting within 3h of taking, repeat dose
+- Can be used more than once in a menstrual cycle if needed
+- Less effective if taken after ovulation
+- SE: menstrual cycle disturbance, vomiting (1%)
+- Can start hormonal contraception immediately afterward
+- No issues with breastfeeding
+
+### Ulipristal acetate
+- Single dose = 30mg
+- Can be taken up to 120h after UPSI; can be used more than once per cycle
+- Avoid in patients with severe asthma
+- Less effective if taken after ovulation
+- Hormonal contraception (pill, patch, ring): (re)start 5 days after ulipristal — combined use with levonorgestrel not recommended
+- Breastfeeding: delay for 1 week after taking
+
+### Copper IUD
+- Most effective method of emergency contraception — should be offered first (99% effective)
+- Must be inserted within 5 days of UPSI, or up to 5 days after likely ovulation date (whichever is later)
+- Can be given with prophylactic antibiotics if patient is high STI risk
+- Can remain in situ for long-term contraception
+
+> [!info] FSRH guidelines on emergency contraception are directly relevant to Australian practice, consistent with FSRH/UKMEC guidance being adopted by RANZCOG more broadly (see the note at the top of this file) — no separate "Australian equivalent" exists or is needed here.
+
+---
+
+## Postpartum contraception
+
+- Contraception required after day 21 postpartum
+
+| Method | Postpartum guidance |
+|---|---|
+| POP | Can start any time postpartum; if started after day 21, use barrier contraception for first 2 days. Safe for breastfeeding |
+| COCP | **Contraindicated in first 6 weeks postpartum (↑VTE risk)**; benefits > risks between 6w–6mo; use barrier contraception for first 7 days when started |
+| IUS | Can insert within 48h of childbirth (no additional contraception needed) or after 4w postpartum (barrier for 7 days); can insert during C-section |
+| Copper IUD | Can insert within 48h of childbirth, or after 4w postpartum (effective immediately); can insert during C-section |
+| Lactational amenorrhoea | 98% effective if fully breastfeeding with no supplementary feeds, amenorrhoeic, and <6mo postpartum |
+
+---
+
+## Contraception for specific populations
+
+### Age >40
+- Most methods OK
+- **COCP**: slight ↑risk in >40yo, consider ↓dose; benefits include maintaining bone mineral density and ↓menopausal symptoms; can continue up to 50yo, then switch to non-hormonal or progestogen-only method
+- **POP, implant, IUS**: continue for ≥1y with amenorrhoea, stop when FSH ≥30µL or at 55yo; if not amenorrhoeic, investigate abnormal bleeding pattern
+- **Depo-Provera**: small loss in bone mineral density (usually recovers after stopping); same stop criteria as above
+- **Non-hormonal methods**: if <50yo, stop after 2y amenorrhoea; if ≥50yo, stop after 1y amenorrhoea
+
+### Obesity
+- COCP: UKMEC3 if BMI ≥35 (risks > benefits); UKMEC2 if BMI 30–34 (benefits > risks)
+- Combined patch: less effective if >90kg
+- Oral contraception cannot be used in patients who have had gastric sleeve, bypass, or duodenal switch surgery
+
+### Epilepsy
+
+| Drug class | Guidance |
+|---|---|
+| Phenytoin, carbamazepine, barbiturates, primidone, topiramate, oxcarbazepine | No restrictions: Depo-Provera, copper IUD, IUS. Benefits > risks: Nexplanon implant. Risks > benefits: COCP, POP |
+| Lamotrigine | No restrictions: POP, implant, Depo-Provera, copper IUD, IUS. Risks > benefits: COCP |
+
+### Transgender and non-binary people
+
+**Assigned female at birth (AFAB) / with a uterus**
+- POP and non-hormonal methods most effective — do not affect testosterone therapy
+- Testosterone therapy does **not** reliably prevent pregnancy
+- If pregnancy occurs, testosterone therapy is contraindicated (teratogenic)
+- If on testosterone, oestrogen-containing regimens not recommended (interference)
+- All forms of emergency contraception are OK if needed
+
+**Assigned male at birth (AMAB) / with male reproductive organs**
+- ↓sperm production with oestradiol, GnRH analogues, finasteride, cyproterone
+- **Not** a reliable means of preventing pregnancy — use condoms
+
+
 <!-- ===== SOURCE: O7_Breast_Disease.md ===== -->
 
 
@@ -5665,97 +5429,80 @@ Specialist paediatric endocrine referral for precocious or pathological delayed 
 > `ac620de`, before this ruling. That move was reverted on 2026-09-01 and it is back in this
 > file**, so the pair is `B-9`'s entry against `GER7 §0.5` below, both in this file.
 
-<!-- ===== SOURCE: GER7_Investigation_and_Lab_Addendum.md ===== -->
-*Moved here from `GER7_Investigation_and_Lab_Addendum.md` on 2026-09-01. Verbatim and unrenumbered.*
+<!-- ===== SOURCE: NEW_Breast.md ===== -->
 
-## 0.5 Fetal Scalp Blood Sampling and Intrapartum Assessment
 
-> [!tip] Why it exists — CTG has poor specificity
-> **Cardiotocography is SENSITIVE for fetal hypoxia but POORLY SPECIFIC: most abnormal traces occur in babies who are not compromised.** **Acting on the CTG alone therefore drives caesarean and instrumental delivery rates up without a corresponding improvement in neonatal outcome.** Cross-refer [[O2]] 0.5 and [[O3]] 0.1.
-> **FETAL BLOOD SAMPLING provides a DIRECT measurement of fetal acid-base status, and its purpose is to REDUCE UNNECESSARY OPERATIVE DELIVERY by identifying which abnormal traces reflect genuine hypoxia.**
-> **It measures pH and/or LACTATE.** **LACTATE requires a much SMALLER sample volume and has a considerably higher rate of successful sampling, and it is increasingly the preferred measurand for that practical reason.** `UNVERIFIED — the normal, borderline and abnormal thresholds for both pH and lactate.`
+# NEW — Breast
 
-> [!warning] The requirements, the contraindications, and the time limit
-> **REQUIREMENTS: adequate cervical DILATATION · RUPTURED membranes · an accessible presenting part · an appropriately trained operator · and maternal consent and positioning, which is uncomfortable and undignified and deserves explanation.**
-> **CONTRAINDICATIONS:**
-> **· MATERNAL BLOOD-BORNE VIRUS — HIV, hepatitis B, hepatitis C — because breaching the fetal skin creates a transmission risk.** **This is the contraindication most likely to be overlooked, and it makes the maternal serology status directly relevant to intrapartum management.**
-> **· Suspected fetal BLEEDING OR CLOTTING DISORDER.**
-> **· PREMATURITY.**
-> **· FACE presentation.**
-> **· Suspected intrauterine SEPSIS or chorioamnionitis.**
-> **· And any situation where the fetal condition mandates IMMEDIATE delivery — sampling must never delay a delivery that is already indicated.**
-> **THE RESULT IS TIME-LIMITED.** **A normal result reflects the fetal condition at that moment only. If the CTG remains abnormal, the sample must be REPEATED at a defined interval — a reassuring result an hour ago does not license continued observation.**
-> **Its use is declining in some units, and alternative adjuncts such as fetal ECG ST-segment analysis have not shown clear benefit over CTG alone.** `UNVERIFIED — current practice and repeat intervals.`
+> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
 
-> [!tip] Cord blood gases at delivery
-> **PAIRED UMBILICAL ARTERIAL AND VENOUS samples taken at birth, from a doubly clamped segment of cord.**
-> **THE ARTERIAL sample reflects the FETAL condition; the VENOUS sample reflects the PLACENTAL and maternal supply.** **Taking both allows verification that the samples are genuinely arterial and venous (they should differ), which is what makes the result defensible.**
-> **THEY MATTER FOR THREE REASONS: they OBJECTIVELY DOCUMENT the condition at birth · they guide NEONATAL management, including eligibility for therapeutic hypothermia after suspected hypoxic-ischaemic encephalopathy · and they are of considerable MEDICOLEGAL importance, because a normal cord gas is powerful evidence against intrapartum hypoxia in a child who later has cerebral palsy.**
-> **Take them in any delivery where there has been concern — the sample cannot be obtained retrospectively.** Cross-refer [[M1]] and [[M3]].
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **Reviewer note, not a cross-reference.** The **triple test** itself is already built elsewhere in this corpus (the Phase 5 tracker records it under the breast oncology material). The header check found no header matching "Breast Lump", so the presentation-level entry is built here as instructed — but the reviewer should expect overlap and decide which file owns the triple test rather than keeping both.
+
+## Breast Lump
+
+> [!warning] FLAG 2026-09-01 — breast content is in four files and twice within this one
+> Here (`NEW_Breast`) · `O7_Breast_Disease §0.1–§0.6` (this file) · `Heme Onc_merged 10_12 Oncology —
+> Breast` · `MSK_merged NEW_Inv_Ortho §0.13 Breast MRI`.
+> Plus `Examination.md §1.17 Breast Examination` and `Infectious Disease_merged 08_09 ## Mastitis and
+> Breast Abscess`. **`NEW_Breast` and `O7` cover the same three topics — lump, pain, nipple discharge —
+> in this same file.** Flagged; nothing merged.
+
+- **DDx:** the governing principle is that **a discrete breast lump is cancer until the triple test says otherwise** — the differential is worked *through* the triple test, not instead of it.
+  - **Malignant:** invasive ductal carcinoma (commonest), invasive lobular carcinoma (classically an area of thickening rather than a discrete lump, and easier to miss both clinically and on imaging), DCIS, inflammatory breast cancer (erythema, peau d'orange, warmth — **mimics mastitis and is the classic trap**, so any "mastitis" not resolving on antibiotics needs re-evaluation, not a second antibiotic course), Paget's disease of the nipple, phyllodes tumour, breast lymphoma, metastasis to breast.
+  - **Benign, and commoner:** fibroadenoma (typically younger women, firm, smooth, mobile — "breast mouse"), breast cyst (may appear suddenly and be tender), fibrocystic change, fat necrosis (often follows trauma or surgery, and **can mimic malignancy clinically and radiologically**), lipoma, duct ectasia, intraductal papilloma (often with blood-stained nipple discharge), galactocele in a lactating woman, abscess, gynaecomastia in men, accessory breast tissue.
+- **Focused Hx:** how and when found, and whether it has changed; **relation to the menstrual cycle** (a lump that fluctuates is likelier benign, but this never removes the need for triple assessment); pain; **nipple change — discharge (and whether blood-stained, spontaneous, unilateral, single-duct), inversion, eczema of the nipple**; skin change; previous lumps, biopsies and their results; **breast cancer risk: age (the dominant risk factor), family history including age at diagnosis and any male breast or ovarian cancer, known BRCA or other pathogenic variant, previous chest radiotherapy, parity and age at first pregnancy, breastfeeding, age at menarche and menopause, HRT and duration, alcohol, obesity**; current pregnancy or lactation; when the last mammogram/BreastScreen episode was and its result; trauma; constitutional symptoms and bone pain if advanced disease is a concern.
+- **Examination:** with a chaperone/observer offered and consent obtained. Inspect sitting — arms relaxed, raised, and pressing on hips — for asymmetry, skin dimpling or tethering, peau d'orange, nipple inversion or deviation, eczema, visible mass. Palpate both breasts systematically with the patient reclined, including the **axillary tail**, then **all nodal basins: axillary, infraclavicular and supraclavicular**. For any mass characterise **site (by quadrant or clock face plus distance from the nipple), size, shape, consistency, margin, mobility, tethering to skin or chest wall, tenderness**. Examine the nipple for discharge only if reported, noting colour and whether single-duct. In advanced or symptomatic disease, examine chest, abdomen (hepatomegaly) and spine.
+- **First-line Ix:** **the triple test — clinical examination, imaging, and non-surgical biopsy.** Its central property is that it is assessed *as a whole*: **the triple test is positive if any one component is suspicious, and a negative result requires all three to be concordant and benign.** A benign biopsy does not overrule a suspicious clinical or imaging finding.
+  - **Imaging is age-stratified.** For women **under 35, ultrasound is first-line**; from 35 upward, mammography and ultrasound are typically both performed. (Cancer Australia and Australian breast services agree on the under-35 ultrasound-first rule; the exact age at which mammography is added is **not stated uniformly** across sources — some services use 40 — so follow the local pathway rather than a remembered number.)
+  - **Non-surgical biopsy:** core biopsy is preferred to FNA cytology in current practice because it distinguishes invasive disease from DCIS and provides receptor status; FNA remains in use, particularly for cysts and nodes. Older Australian guideline wording still describes FNA as the biopsy component — the reviewer should expect to see both phrasings in source material.
+  - **Referral, not just testing:** any patient with a discrete lump needs a defined diagnostic pathway to completion. **A normal mammogram does not exclude cancer in a woman with a palpable lump** — this is the highest-consequence practical point in the entry.
+
+## Breast Pain
+
+- **DDx:**
+  - **Cyclical mastalgia** — hormonally mediated, bilateral, diffuse, worse in the **1–2 weeks before menses and settling once menstruation starts**, typically in women in their 20s to 40s. Much the commonest pattern.
+  - **Non-cyclical breast pain** — no menstrual relationship; often unilateral and more localised. Causes include duct ectasia, mastitis or abscess, cyst, previous surgery or trauma, fat necrosis, large pendulous breasts with musculoskeletal strain, and medication (hormonal contraception, HRT, some antidepressants and antipsychotics).
+  - **Extramammary pain referred to the breast — the differential an intern must not skip:** **cardiac ischaemia**, **pulmonary embolism** and pleuritic causes, costochondritis/Tietze syndrome, rib injury, cervical or thoracic radiculopathy, shingles (pain may precede the rash by days), gallbladder disease, reflux.
+  - **Malignancy** — an uncommon cause of pain, and **pain alone is a poor predictor of cancer**. But pain accompanied by a lump, skin or nipple change is investigated as a lump, not as pain.
+- **Focused Hx:** site, character, radiation, unilateral or bilateral, focal or diffuse; **relationship to the menstrual cycle — ask the patient to keep a breast-pain diary across at least one cycle if the pattern is unclear**, which is the practical way to separate cyclical from non-cyclical; relation to exertion, movement, posture, breathing and meals (the extramammary screen); associated lump, discharge, skin change, fever or redness; pregnancy and lactation status; medications, especially hormonal; caffeine and bra support (commonly asked about, evidence weak); cancer risk factors as above; and what the patient is actually worried about — a large proportion present because of cancer fear rather than the pain itself, and addressing that is part of the consultation.
+- **Examination:** as for breast lump — inspection, systematic bilateral palpation, nodal basins. Then **deliberately examine beyond the breast**: reproduce the pain with chest wall palpation (costochondral junctions), assess whether pain is reproduced by arm movement or spinal rotation, inspect for a dermatomal rash, and examine the cardiorespiratory system where the history allows any possibility of a cardiac or pleuritic cause.
+- **First-line Ix:** **history and examination are the investigation** in cyclical mastalgia with a normal examination — imaging is not routinely required and a normal examination with a classic cyclical pattern can be managed with reassurance and review. Investigate when there is a palpable abnormality, focal persistent pain, skin or nipple change, or the patient is in an age group where imaging is indicated: **ultrasound under 35, mammography and ultrasound from 35**, proceeding to triple assessment if any abnormality is found. **β-hCG** in any woman of reproductive age where pregnancy is possible. **ECG and troponin** if the history admits cardiac pain — a low threshold here is correct, given breast pain is a recognised atypical presentation of ischaemia in women.
+
+## Galactorrhoea
+
+- **D:** milky nipple discharge not associated with pregnancy or breastfeeding (and persisting beyond roughly a year after cessation of breastfeeding). **Distinguish it at the outset from pathological non-milky discharge** — blood-stained, serous, single-duct or unilateral discharge is a different problem, investigated as a breast lesion (papilloma, duct ectasia, carcinoma), not as galactorrhoea.
+- **DDx:**
+  - **Physiological/other:** pregnancy — **excluded first, in every case**; recent pregnancy or breastfeeding; nipple stimulation; chest wall stimulation including surgery, trauma, burns, or herpes zoster.
+  - **Drug-induced — the commonest cause outside infancy, and the first thing to check on the medication chart:** **antipsychotics** (the classic group, particularly risperidone and the typicals), **metoclopramide** and **domperidone**, **SSRIs and tricyclics**, **cimetidine**, opioids, verapamil, oestrogens, methyldopa.
+  - **Pituitary/hypothalamic:** **prolactinoma — the commonest pathological cause**; other pituitary tumours and stalk lesions causing disconnection hyperprolactinaemia; infiltrative and inflammatory hypothalamic disease.
+  - **Endocrine/systemic:** **primary hypothyroidism** (raised TRH drives prolactin — a genuinely important and easily missed cause, treatable by treating the thyroid); **chronic kidney disease**; cirrhosis; PCOS.
+  - **Macroprolactinaemia** — a biologically inactive prolactin complex producing a raised assay result with no clinical consequence. Worth knowing because it prevents an unnecessary pituitary MRI.
+- **Focused Hx:** discharge character (**milky vs blood-stained vs serous**), unilateral or bilateral, spontaneous or expressed only, single- or multi-duct; duration; **menstrual history — amenorrhoea or oligomenorrhoea alongside galactorrhoea substantially raises the likelihood of significant hyperprolactinaemia**; possibility of pregnancy; libido and, in men, erectile dysfunction (men more often present late, with mass effect rather than discharge); **headache and visual disturbance, specifically asking about peripheral vision — bitemporal hemianopia indicates a macroadenoma compressing the optic chiasm and changes urgency**; symptoms of hypothyroidism; symptoms of other pituitary hormone deficiency (fatigue, postural dizziness, cold intolerance); **full drug history including recently started and over-the-counter agents**; renal and liver disease; chest wall trauma or surgery.
+- **Examination:** confirm the discharge and its character, expressing gently and noting whether from one duct or many. Full breast and nodal examination as above, **specifically looking for an underlying mass** — galactorrhoea with a lump is a lump problem. **Visual fields to confrontation** — a bedside test an intern can and should do here. Signs of hypothyroidism (bradycardia, delayed relaxing reflexes, dry skin, goitre). Signs of chronic liver or kidney disease. In men, assess for gynaecomastia and testicular size.
+- **First-line Ix:**
+  - **β-hCG — first, always.**
+  - **Serum prolactin.** Practical points that matter more than the number: sample without prolonged venepuncture stress or preceding breast examination, and **repeat a mildly raised result before acting on it**, since stress, exercise, sleep and nipple stimulation all raise it transiently. Ask the lab about **macroprolactin** if the level is raised without clinical correlate.
+  - **TSH** (and free T4) — to catch hypothyroidism as the cause.
+  - **UEC** and **LFTs** for renal and hepatic causes.
+  - **Pituitary MRI** where prolactin is substantially elevated, where a drug cause has been excluded, or where there are mass-effect symptoms — a decision usually made with endocrinology rather than by the intern alone.
+  - **Formal visual field testing (perimetry)** if a macroadenoma is suspected.
+  - **If the discharge is not milky** — blood-stained, serous, unilateral or single-duct — investigate as a breast lesion with **triple assessment**, not with prolactin.
+
+> [!warning] **The prolactin threshold that "confirms" a prolactinoma is deliberately omitted.** The figure available in snippets (>200 ng/mL) is in **US mass units**; Australian laboratories report prolactin in **mIU/L**. Converting it myself would be my own arithmetic presented as a sourced threshold, and no Australian-unit figure met the three-source bar under the egress limitation. Interpret against **the reporting laboratory's own reference range and units**, which is what an intern actually does at the bedside. This is the standard AU-localisation trap — a US number that looks authoritative and is wrong by a factor in Australian units.
 
 ---
 
-<!-- ===== SOURCE: NEW_Investigations_Cardiology.md ===== -->
-*Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+## Topics skipped in this category
 
-## 0.4 Non-Stress Test (NST / Cardiotocography — CTG)
+None — all three topics failed the header check and were built.
 
-> [!warning] **Mis-filed** — an obstetric investigation listed under Cardiology & Vascular. Built as listed.
-
-**D:** Continuous external recording of **fetal heart rate** and **uterine activity**. Antenatally this is the **non-stress test**; intrapartum it is continuous **CTG** monitoring.
-
-**Ind:** **Antenatal** — reduced fetal movements, suspected fetal growth restriction, hypertensive disease of pregnancy, diabetes, reduced or increased liquor, antepartum haemorrhage, post-dates, maternal illness. **Intrapartum** — any pregnancy with risk factors for fetal compromise, induction or augmentation with oxytocin, meconium, epidural analgesia, and abnormal intermittent auscultation.
-
-**Role:** A test of **current fetal oxygenation**, not of long-term wellbeing. It is a **screening test with high sensitivity and low specificity** — which is why abnormal traces are common and most are not associated with a compromised fetus.
-
-> [!info] **The features read on every trace** — baseline rate, **baseline variability**, **accelerations**, and **decelerations** (with their timing relative to contractions), plus contraction frequency. A **reactive/normal** antenatal trace shows a normal baseline with normal variability and accelerations, and is reassuring.
-> **The features that most concern:** **reduced or absent baseline variability** (the single most important abnormality), **late decelerations**, complicated variable decelerations, prolonged decelerations, and a **sinusoidal pattern** — the last suggesting severe fetal anaemia, as in massive fetomaternal haemorrhage or parvovirus.
-> **Classification systems and specific numeric criteria are deliberately not stated here** — Australian intrapartum fetal surveillance guidance (RANZCOG) is egress-blocked, classification categories differ between systems, and reproducing criteria for a time-critical obstetric decision from memory is exactly the failure this project guards against. **Use your unit's fetal surveillance guideline and its classification table.**
-
-> [!danger] **Do not ignore**
-> **A CTG is interpreted with the clinical picture, never alone.** Fetal tachycardia with maternal fever suggests **chorioamnionitis**; a sudden prolonged deceleration suggests **abruption, cord prolapse or uterine rupture** and is an obstetric emergency requiring immediate senior attendance — **call for help rather than continuing to observe the trace.**
-> **A reduced-fetal-movement presentation is not "excluded" by a reactive CTG alone** — it also needs ultrasound assessment of growth and liquor if there are other risk factors. See [[16_10-13_Labour_and_Delivery]] Reduced fetal movements (RFM).
-> **Continuous CTG in low-risk labour increases operative delivery without improving neonatal outcome**, which is why intermittent auscultation is the standard in low-risk labour — over-monitoring is itself a harm.
-
-**Normal/abnormal:** Normal/reassuring → continue routine care. Abnormal → escalate, change maternal position, correct hypotension and hypoxia, stop oxytocin, and consider fetal blood sampling or expedited delivery per the unit protocol.
-
-**Alt:** Intermittent auscultation (low-risk labour); **ultrasound with umbilical artery Doppler and biophysical profile** for antenatal surveillance; fetal scalp blood sampling; fetal scalp lactate.
-
----
-
----
-
-# 3 Block-5 moves merged in (2026-09-01)
-
-> [!info] **Block 5.** `Y-2` puerperal psychosis was held — it and `B-10` point at each other in opposite directions.
-
-<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
-*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## Postpartum Infection and Thromboembolism
-
-> [!warning] FLAG 2026-09-01 — obstetric content inside a thrombophilia source
-> This sits in `10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia`, a file about
-> none of those things. **Puerperal sepsis is obstetric.**
-> `OBGYN_merged 16_14-15 ## Sepsis in the puerperium` is the counterpart. Flagged, not moved.
-
-> [!note] Gap-filled from CSV ("Postpartum infection and Thromboembolism," High yield) — genuinely absent as a standalone topic despite both components (endometritis, VTE risk) being individually high-yield; this entry covers the postpartum-specific presentation and risk factors, cross-referencing the disease-level detail already built elsewhere (DVT/PE Mx above, general sepsis principles in [[08_09_Infectious_Disease_-_Miscellaneous]]) rather than repeating it.
-
-### Postpartum (puerperal) infection
-
-- **A/P:** the postpartum genital tract is a genuinely vulnerable site for infection — placental separation leaves a large raw surface area, and the cervix remains open in the immediate postpartum period; **endometritis** (infection of the uterine lining) is the classic and most common postpartum infection, with polymicrobial aetiology (mixed aerobic and anaerobic vaginal/bowel flora) typical rather than a single causative organism.
-- **R:** Caesarean section (a significantly higher risk than vaginal delivery — the single most important risk factor), prolonged rupture of membranes, prolonged labour, multiple vaginal examinations during labour, retained products of conception, manual placental removal, pre-existing genital tract infection (e.g. untreated Group B Strep colonisation, chorioamnionitis).
-- **S/Smx:** fever (classically within the first 24h–10 days postpartum), uterine tenderness, offensive/heavy lochia (postpartum vaginal discharge), sub-involution of the uterus (failure of the uterus to contract down to its expected size on serial examination); may progress to sepsis if untreated, given the same general sepsis physiology and red flags established in [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis, not repeated here.
-- **Ix:** FBC, CRP, blood cultures if systemically unwell; high vaginal/endocervical swab; pelvic ultrasound if retained products of conception are suspected as a driving cause (given retained tissue is a nidus for ongoing infection that antibiotics alone won't resolve).
-- **Mx:** broad-spectrum antibiotics covering the polymicrobial aetiology above (specific AU regimen not detailed here — check current eTG obstetric/gynaecological infection guidance); evacuation of retained products of conception if identified as the underlying driver, given antibiotics alone are unlikely to succeed while infected tissue remains in the uterus; the same general sepsis escalation principles as [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis apply if the patient is systemically unwell.
-
-### Postpartum venous thromboembolism (VTE)
-
-- **A/P:** pregnancy and the postpartum period are a well-established hypercoagulable state (part of the normal physiological adaptation to reduce haemorrhage risk at delivery, but with the trade-off of increased thrombosis risk) — **the risk is highest in the immediate postpartum period and remains elevated for approximately 6 weeks after delivery**, gradually returning to baseline thereafter; this genuinely elevated, time-limited risk window is the key concept distinguishing postpartum VTE risk assessment from the general population.
-- **R:** Caesarean section (particularly emergency Caesarean), pre-existing thrombophilia (see Factor V Leiden and the broader Thrombophilia section above, not repeated here), obesity, immobility, pre-eclampsia, postpartum haemorrhage requiring transfusion, multiple pregnancy, increasing maternal age, personal or family history of VTE, smoking.
-- **S/Smx:** the same DVT/PE presentation as the general population — see [[01_Cardiovascular]] 0.29 Deep Vein Thrombosis (DVT) and 0.30 Pulmonary Embolism (PE) for the full disease-level S/Smx, Ix, and Mx, not repeated here — though clinical suspicion should be maintained proactively in this population given the elevated background risk, and normal pregnancy/postpartum physiological changes (mild leg swelling, physiological dyspnoea) can make clinical diagnosis genuinely more challenging than in a non-pregnant patient.
-- **Ix:** the same general VTE diagnostic approach as the general population (compression ultrasound for suspected DVT, CTPA or V/Q scan for suspected PE) — D-dimer is **less useful diagnostically in pregnancy and the postpartum period** given it's physiologically elevated in normal pregnancy, reducing its negative-predictive value compared to non-pregnant use — a genuinely important limitation worth knowing rather than applying the same "normal D-dimer excludes VTE" logic used in non-pregnant patients.
-- **Mx:** LMWH is the anticoagulant of choice in pregnancy and postpartum (given its safety profile and lack of placental crossing, relevant if the patient is breastfeeding too) — DOACs and warfarin are generally avoided or used with caution in this population, a genuinely different first-line choice from the general population's DOAC-preferred approach in [[10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets]], not repeated here; risk-based thromboprophylaxis (e.g. for patients with multiple risk factors above, even without a confirmed VTE) is a standard part of postpartum care, with the specific duration and dose guided by individualised risk assessment.
+| Topic | Header searched | Result |
+|---|---|---|
+| Breast Lump | `Breast Lump` (+ plural fold) | No `##`/`###` match — **BUILT** |
+| Breast Pain | `Breast Pain` (+ plural fold) | No `##`/`###` match — **BUILT** |
+| Galactorrhoea | `Galactorrhoea` (+ plural fold) | No `##`/`###` match — **BUILT** |
 
 
 <!-- ===== SOURCE: 08_09_Infectious_Disease_-_Miscellaneous.md ===== -->
@@ -5778,3 +5525,256 @@ Specialist paediatric endocrine referral for precocious or pathological delayed 
   - **Antibiotics — for confirmed or suspected infective mastitis (not required for simple milk stasis without infective features):** flucloxacillin or dicloxacillin (di/flucloxacillin is the most common Australian first-line choice in real-world GP practice), or cefalexin as a common alternative; clindamycin for penicillin allergy. Both first-line agents are safe in breastfeeding. Symptoms should meaningfully improve within 24–48 hours of appropriate treatment — if not, or if the patient is more significantly unwell, escalate assessment (consider ultrasound to exclude abscess, and reconsider the diagnosis, including inflammatory breast cancer per the danger box above).
   - **Breast abscess:** ultrasound-guided needle aspiration is now generally preferred over surgical incision and drainage where feasible, given comparable efficacy with less scarring/cosmetic impact and less disruption to breastfeeding — surgical drainage remains an option for larger or more complex abscesses, or where aspiration fails. Breastfeeding can generally continue on the affected side once an abscess is being appropriately managed, though this should be individualised with the treating clinician, particularly if drainage affects the ability to feed directly from that breast.
   - **Chronic/long-term:** address contributing factors (attachment/positioning review, feeding frequency) to prevent recurrence; lactation consultant input is genuinely valuable given how much of the underlying problem (poor drainage, positioning) is addressed through practical feeding support rather than medication alone.
+
+<!-- ===== SOURCE: NEW_Drugs_16_Obstetric_and_Gynaecological.md ===== -->
+
+
+# NEW — Drug Classes: Obstetric and Gynaecological (AMH section 16)
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file** — with **one exception**, the **anti-D prophylaxis schedule (0.10)**, which is a nationally standardised program schedule rather than an individualised dose and is agreed across the Australian sources.
+
+> [!danger] **The governing rule for this whole section: TWO PATIENTS, AND A DEFAULT OF "CHECK BEFORE YOU PRESCRIBE".**
+> **Ask every person of reproductive age about pregnancy and contraception before prescribing anything.** Conversely, **do not withhold necessary treatment from a pregnant woman out of reflexive caution** — untreated epilepsy, asthma, depression, thyroid disease, VTE and infection all harm the fetus, and "no drug" is frequently the more dangerous choice. **Consult a specialist obstetric medicine or maternity service and the current Australian resources rather than guessing in either direction.**
+
+---
+
+## 0.1 Drugs for Contraception
+
+### 0.1.1 Combined Oral Contraceptives
+*(covers build-list classes: Combined Oral Contraceptives; Combined oral contraceptives — the same class listed twice with different capitalisation)*
+- **Mechanism:** **oestrogen plus progestogen** suppress the LH surge and inhibit ovulation, thicken cervical mucus and thin the endometrium.
+- **Non-contraceptive benefits, which are often the reason for prescribing:** **regulation of heavy or painful periods**, acne and hirsutism, endometriosis pain, PMS, and **reduced ovarian and endometrial cancer risk**.
+- **Adverse effects:** breakthrough bleeding (usually settles in the first 3 months), nausea, breast tenderness, mood change, headache; **hypertension**; and a small increase in **breast and cervical cancer risk** that reverses after stopping.
+
+> [!danger] **VENOUS THROMBOEMBOLISM IS THE RISK THAT MATTERS, AND THE CONTRAINDICATIONS ARE ABSOLUTE.**
+> **Do not prescribe a combined contraceptive in: MIGRAINE WITH AURA** (stroke risk — this is the one most often missed, so **ask specifically about aura, not just "headaches"**), **current or past VTE or known thrombophilia**, **ischaemic heart disease or stroke**, **smoking at age 35 or over**, **BP ≥160/100**, **major surgery with prolonged immobility**, **complicated diabetes or diabetes of long duration**, **active liver disease**, **current breast cancer**, **SLE with antiphospholipid antibodies**, and **less than 6 weeks postpartum in a breastfeeding woman**. **Use the WHO/UKMEC medical eligibility criteria rather than memory.**
+> **Missed pill and vomiting/diarrhoea rules matter and are what patients actually ask about** — give them written instructions, and remember **enzyme-inducing drugs (rifampicin, carbamazepine, phenytoin, topiramate at higher dose, St John's wort) reduce efficacy.**
+
+### 0.1.2 Progestogens (Progestins)
+*(covers build-list classes: Progestins; Progestogens)*
+- **Key agents and routes:** **progestogen-only pill** (norethisterone, levonorgestrel; and **drospirenone**), **desogestrel** POP (which also inhibits ovulation, giving a longer missed-pill window); **depot medroxyprogesterone acetate** injection; **etonogestrel implant** (the most effective reversible method available); and the **levonorgestrel intrauterine system** (see 0.1.3).
+- **Advantages:** **no oestrogen, so usable where combined methods are contraindicated** — VTE history, migraine with aura, smokers over 35, breastfeeding, and cardiovascular disease.
+- **Adverse effects:** **unpredictable bleeding is the dominant issue and the commonest reason for discontinuation — counsel about it BEFORE insertion or injection, not afterwards**; amenorrhoea (which is safe and often welcome); mood change; acne; weight gain (best evidenced with the depot injection); functional ovarian cysts.
+- **Depot medroxyprogesterone specifically:** **reduces bone mineral density** (largely reversible; relevant in adolescents and prolonged use) and has a **delayed return to fertility of up to a year after the last injection** — which must be discussed with anyone planning pregnancy in the near future.
+- **Emergency contraception:** **levonorgestrel** (within 72 hours, less effective with higher body weight), **ulipristal acetate** (within 120 hours, more effective, but **interacts with progestogens — hormonal contraception must be delayed after it**), and the **copper IUD, which is the most effective option and provides ongoing contraception**.
+
+### 0.1.3 Intrauterine Devices
+- **Key agents:** **levonorgestrel-releasing intrauterine systems** and the **copper IUD**.
+- **Indications:** **long-acting reversible contraception (LARC) — the most effective reversible methods, and recommended as first-line for most people including nulliparous women and adolescents**; the levonorgestrel system is also **first-line drug treatment for heavy menstrual bleeding** (see 0.3), and is used for endometrial protection with oestrogen therapy and in endometriosis and adenomyosis.
+- **Adverse effects:** insertion pain and vasovagal reaction (**offer analgesia and discuss it — poorly managed insertion pain is a real and recently recognised problem**); irregular bleeding in the first months (levonorgestrel) or **heavier, more painful periods (copper)**; expulsion; and perforation (rare, higher in breastfeeding and postpartum insertion).
+
+> [!danger] **Do not ignore**
+> - **Exclude pregnancy before insertion, and screen for STIs where indicated** — insertion in the presence of chlamydia or gonorrhoea can cause pelvic inflammatory disease.
+> - **PREGNANCY WITH AN IUD IN SITU IS ECTOPIC UNTIL PROVEN OTHERWISE.** The absolute risk of ectopic is lower than with no contraception, but the proportion of pregnancies that are ectopic is higher.
+> - **Pelvic pain, fever or abnormal discharge in an IUD user needs assessment for PID.**
+> - **"Lost threads"** requires imaging to locate the device — it may be expelled, malpositioned or perforated.
+
+### 0.1.4 Other Contraceptive Considerations
+- **Vaginal ring, transdermal patch, condoms** (the only method also protecting against STIs), **sterilisation** (male vasectomy being simpler, safer and more effective than tubal ligation), and **fertility awareness methods**.
+- **Counselling frame:** effectiveness with typical use, reversibility, non-contraceptive benefits, adverse effects, cost and access. **LARC methods should be actively offered**, not reserved for those who ask.
+
+## 0.2 Drugs for Menopausal Symptoms
+
+### 0.2.1 Menopausal Hormone Therapy
+*(covers build-list classes: Hormone Replacement Therapy; Hormone replacement therapy — again listed twice)*
+- **Components:** **oestrogen** (oral, or **transdermal patch/gel**) for symptoms; **plus a progestogen (or the levonorgestrel IUS) in any woman with a uterus**, to prevent **endometrial hyperplasia and carcinoma**. **Tibolone** is a synthetic alternative.
+- **Indications:** **moderate-to-severe vasomotor symptoms** (the main indication, and MHT is by far the most effective treatment); **genitourinary syndrome of menopause**; **premature ovarian insufficiency and early menopause, where hormone therapy is REPLACEMENT and is recommended until at least the average age of menopause** — a genuinely different risk-benefit calculation that is frequently confused with MHT in older women; and osteoporosis prevention in selected women.
+
+> [!warning] **The pendulum swung too far after the WHI, and a generation of women were under-treated.** Current understanding: for **symptomatic women under 60 or within 10 years of menopause**, the benefits generally outweigh the risks. **Transdermal oestrogen does not carry the VTE risk that oral oestrogen does** — which makes it the preferred route in women with VTE risk factors, obesity, migraine or gallbladder disease. **Micronised progesterone appears to carry a lower breast cancer signal** than older synthetic progestogens.
+- **Absolute contraindications:** **current or past breast cancer**, oestrogen-dependent cancer, **undiagnosed vaginal bleeding**, untreated endometrial hyperplasia, **current VTE or arterial thromboembolic disease**, active liver disease, and pregnancy.
+- **Non-hormonal alternatives** for vasomotor symptoms: **SSRIs/SNRIs (venlafaxine, escitalopram — but AVOID paroxetine and fluoxetine in women on TAMOXIFEN**, see `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.3.4), **gabapentin**, clonidine, and **fezolinetant** (an NK3 antagonist).
+- **Vaginal oestrogen** — for genitourinary symptoms; minimal systemic absorption, does not require a progestogen, and is **usable in most women in whom systemic MHT is contraindicated** (including many breast cancer survivors, after discussion with their oncologist). **Substantially under-used.**
+
+> [!danger] **ANY postmenopausal bleeding — on or off hormone therapy — requires investigation for endometrial carcinoma.** Unscheduled bleeding on MHT beyond the first few months is not "just the hormones".
+
+### 0.2.2 Selective Oestrogen Receptor Modulators
+*(covers build-list classes: SERMs; Selective oestrogen receptor modulators)*
+- **Key agents:** **raloxifene** (agonist in bone, antagonist in breast and endometrium), **tamoxifen** (antagonist in breast, **agonist in endometrium** — see 0.2 danger note and `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.3.4), **ospemifene** (for dyspareunia), **bazedoxifene** (combined with oestrogen).
+- **Raloxifene:** reduces **vertebral fracture** and **invasive breast cancer** risk; **does not protect the hip**, **does not treat vasomotor symptoms and often worsens hot flushes**, and **increases VTE risk** and fatal stroke in those at risk.
+
+## 0.3 Drugs for Heavy Menstrual Bleeding
+
+- **First-line and most effective: the LEVONORGESTREL INTRAUTERINE SYSTEM** — it reduces blood loss dramatically, is contraceptive, and avoids surgery in most women.
+- **Non-hormonal, taken only during the period:** **tranexamic acid** (an antifibrinolytic — effective, and under-used) and **NSAIDs (mefenamic acid, naproxen)**, which reduce both bleeding and pain.
+- **Hormonal:** combined oral contraceptives, cyclical or continuous progestogens, depot medroxyprogesterone; **GnRH agonists with add-back** for short-term control before surgery.
+- **Investigate the cause, do not just treat the symptom:** **full blood count and ferritin — and TREAT THE IRON DEFICIENCY, which is the actual morbidity** (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.2.1); **thyroid function**; **a bleeding disorder — von Willebrand disease is present in a meaningful minority of women with heavy periods since menarche and is routinely missed** (see `NEW_Investigations_Haematology_Part2.md` 0.13); and structural causes (fibroids, polyps, adenomyosis).
+
+> [!danger] **Heavy bleeding with intermenstrual or postcoital bleeding, or in a woman over 45, requires assessment for ENDOMETRIAL PATHOLOGY** — pelvic ultrasound and endometrial sampling. **Do not start hormonal treatment for abnormal bleeding without excluding malignancy in an at-risk woman.**
+
+## 0.4 Drugs for Menstrual Symptoms
+
+- **Dysmenorrhoea:** **NSAIDs** (the most effective drug treatment — prostaglandin-mediated pain, so start at the onset of symptoms or just before), **combined hormonal contraception** or **continuous progestogen**, and the **levonorgestrel IUS**.
+- **Premenstrual syndrome and PMDD:** **SSRIs** (effective, and can be given continuously or in the luteal phase only), **combined contraception used continuously**, and lifestyle measures; **GnRH agonists with add-back** in severe refractory cases.
+- **Consider secondary causes of dysmenorrhoea** — **endometriosis, adenomyosis, fibroids, PID, and an IUD** — particularly where pain is progressive, associated with deep dyspareunia, or not responsive to first-line treatment.
+
+> [!danger] **Endometriosis is diagnosed a median of many years after symptom onset in Australia, and normalising severe period pain is the main reason.** Pain that stops a young woman going to school or work is not normal. **Take it seriously, treat empirically, and refer.**
+
+## 0.5 Drugs for Endometriosis
+
+### 0.5.1 Gonadotrophin-Releasing Hormone Agonists
+- **Key agents:** **goserelin, leuprorelin, nafarelin**; and the **GnRH antagonists (relugolix combination, elagolix)**, which avoid the initial flare.
+- **Mechanism:** continuous GnRH stimulation **downregulates** pituitary receptors → profound suppression of oestrogen — a reversible medical menopause that suppresses ectopic endometrial tissue.
+- **Role:** **second-line**, after hormonal contraceptives and progestogens have failed; and pre-operatively to reduce fibroid or lesion size.
+- **Adverse effects:** **menopausal symptoms — hot flushes, vaginal dryness, mood change** — and, importantly, **BONE MINERAL DENSITY LOSS**, which limits duration.
+- **"ADD-BACK" THERAPY (low-dose oestrogen with a progestogen, or tibolone) is given alongside** to protect bone and control symptoms **without losing efficacy**, and it allows longer treatment. **Prescribing a GnRH agonist without considering add-back is a recognised omission.**
+- **Other options in endometriosis:** combined hormonal contraception (often continuous, to avoid withdrawal bleeds), **progestogens (dienogest, norethisterone, depot medroxyprogesterone)**, the **levonorgestrel IUS**, NSAIDs, and **laparoscopic surgery**. **Chronic pelvic pain often needs a multidisciplinary pain approach**, not just hormonal suppression.
+
+## 0.6 Drugs for Infertility
+
+- **Ovulation induction:** **letrozole** (an aromatase inhibitor — now generally **first-line in PCOS**, with better live birth rates than clomifene), **clomifene citrate**, **metformin** (in PCOS, particularly with insulin resistance), and **gonadotrophins (FSH, hMG)** in specialist settings.
+- **Assisted reproduction:** gonadotrophins for controlled ovarian stimulation, **GnRH agonists and antagonists** to prevent premature LH surge, **hCG or GnRH agonist trigger**, and **luteal progesterone support**.
+- **Other:** **cabergoline** for hyperprolactinaemia-related anovulation (see `NEW_Drugs_10_Endocrine.md` 0.5.3); **levothyroxine** optimisation; and treatment of the male factor.
+
+> [!danger] **OVARIAN HYPERSTIMULATION SYNDROME (OHSS) is the complication an intern will meet, often in an emergency department, and it can be life-threatening.**
+> **Abdominal distension and pain, nausea and vomiting, ascites, oliguria, haemoconcentration, hypovolaemia despite third-space fluid, electrolyte disturbance, and a high risk of VTE (including unusual sites such as the internal jugular vein).**
+> **Any woman presenting unwell after fertility treatment must be asked about it and discussed with her fertility unit.** Management is supportive — fluid, analgesia, VTE prophylaxis, paracentesis for tense ascites — and **NSAIDs and diuretics are generally avoided.** **A GnRH agonist trigger and freeze-all strategy substantially reduce the risk.** See [[17_06_Subfertility_and_OHSS]].
+- **Also counsel about:** **multiple pregnancy** risk, **preconception folate and iodine**, rubella and varicella immunity, smoking, alcohol and weight, and the psychological burden of infertility treatment.
+
+## 0.7 Drugs in Labour
+
+### 0.7.1 Oxytocic Drugs
+- **Key agents:** **oxytocin** (induction, augmentation and third-stage management), **ergometrine** (and syntometrine, a combination), **carbetocin** (a long-acting oxytocin analogue), and **misoprostol** (a prostaglandin, see 0.9).
+- **Indications:** **induction and augmentation of labour**; **active management of the third stage** (which substantially reduces postpartum haemorrhage and is routine); and **treatment of postpartum haemorrhage**.
+- **Oxytocin adverse effects:** **uterine hyperstimulation with fetal compromise** (requiring the infusion to be stopped and tocolysis considered); **WATER INTOXICATION AND HYPONATRAEMIA** with prolonged high-dose infusion in large volumes of hypotonic fluid (oxytocin has antidiuretic activity) — **monitor fluid balance and sodium**; hypotension and reflex tachycardia with rapid bolus.
+- **Ergometrine adverse effects:** **marked nausea and vomiting** (give with an antiemetic), and **HYPERTENSION — it is CONTRAINDICATED IN PRE-ECLAMPSIA AND HYPERTENSION**, which is a critical distinction when choosing a uterotonic in a haemorrhaging pre-eclamptic woman.
+
+> [!danger] **POSTPARTUM HAEMORRHAGE — the drugs are only part of it, and the order matters.**
+> **Call for help, resuscitate, and address the FOUR Ts: TONE (uterine atony — the commonest cause), TISSUE (retained placenta), TRAUMA (tears, uterine rupture), THROMBIN (coagulopathy).**
+> **Rub up the fundus, empty the bladder, and give uterotonics — oxytocin first, then ergometrine (unless hypertensive), carboprost, and misoprostol** — alongside **TRANEXAMIC ACID, which reduces mortality and should be given EARLY** (see `NEW_Drugs_06_Cardiovascular.md` 0.5). Then **bimanual compression, balloon tamponade, and surgical measures**. **Blood loss is consistently underestimated visually, and a young fit woman compensates until she suddenly does not.**
+
+### 0.7.2 Other Drugs in Labour
+- **Analgesia:** **nitrous oxide (Entonox)**, parenteral opioids (with the caveat of **neonatal respiratory depression** — have naloxone available), and **epidural analgesia** (the most effective; adverse effects include hypotension, motor block, urinary retention, post-dural puncture headache, and fever).
+- **Antibiotics:** **intrapartum prophylaxis for group B streptococcus**; treatment of chorioamnionitis.
+- **Magnesium sulfate** — for **fetal neuroprotection** in anticipated very preterm birth, and for eclampsia (0.8).
+- **Corticosteroids** — antenatal betamethasone or dexamethasone for **fetal lung maturation**, one of the highest-impact interventions in obstetrics.
+- **Anti-D** — see 0.10.
+
+## 0.8 Drugs in Pre-eclampsia and Eclampsia
+
+- **Antihypertensives:** sources describe Australian practice as using **labetalol, methyldopa and/or nifedipine** orally for stable hypertension in pregnancy, and state that **treatment should be commenced URGENTLY in any woman with a systolic BP ≥160 mmHg or diastolic ≥110 mmHg because of the risk of intracerebral haemorrhage.** Hydralazine and intravenous labetalol are used for acute severe hypertension.
+
+> [!danger] **ACE INHIBITORS, ARBs AND SGLT2 INHIBITORS ARE CONTRAINDICATED IN PREGNANCY.** ACE inhibitors and ARBs cause fetal renal failure, oligohydramnios, skull hypoplasia and death. **Any woman of reproductive age on one needs a contraception and pre-pregnancy conversation**, and they are switched before or as soon as pregnancy is confirmed. **Atenolol** is also generally avoided (fetal growth restriction).
+
+> [!danger] **MAGNESIUM SULFATE IS THE TREATMENT AND PREVENTION OF ECLAMPTIC SEIZURES — NOT A BENZODIAZEPINE, NOT PHENYTOIN.**
+> It is given for **eclampsia** and for **severe pre-eclampsia to prevent seizures**, and separately for **fetal neuroprotection** in anticipated very preterm birth.
+> **Monitoring for magnesium toxicity is a bedside nursing and medical task: DEEP TENDON REFLEXES (lost first), RESPIRATORY RATE, and URINE OUTPUT** — magnesium is renally cleared, so **oliguria causes accumulation and requires dose reduction.** **CALCIUM GLUCONATE is the antidote.** See `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.3.4.
+
+- **Aspirin** — **low-dose aspirin from early pregnancy substantially reduces the risk of pre-eclampsia in women with risk factors** and is one of the few genuinely preventive obstetric interventions. **Identify at-risk women at the first antenatal visit.**
+- **Corticosteroids** — for fetal lung maturation where preterm delivery is anticipated; and in HELLP syndrome (contested benefit).
+- **The definitive treatment of pre-eclampsia is DELIVERY** — drugs buy time for steroids and stabilisation.
+
+> [!danger] **Pre-eclampsia can present and worsen POSTPARTUM, including in women who were normotensive before delivery.** **Headache, visual disturbance, epigastric or right upper quadrant pain, hyperreflexia, or new hypertension in the days after birth must be taken seriously.** Postnatal blood pressure follow-up is essential, and **NSAIDs may worsen postpartum hypertension.** See [[16_14-15_Obstetric_Emergencies]].
+
+## 0.9 Drugs for Preterm Labour
+
+- **Tocolytics — to delay delivery for about 48 hours**, long enough for **antenatal corticosteroids** to act and for **in-utero transfer** to a centre with neonatal facilities. **They do not improve neonatal outcome by themselves — the steroids and the transfer do.**
+- **Key agents:** **nifedipine** (commonly first-line in Australian practice), **atosiban** (an oxytocin receptor antagonist), **indomethacin** (used cautiously and for short periods before about 32 weeks — risks premature closure of the ductus arteriosus and oligohydramnios), and **beta-agonists (salbutamol, terbutaline)**, now largely abandoned because of **maternal tachycardia, pulmonary oedema, hyperglycaemia and hypokalaemia**.
+- **Alongside tocolysis:** **antenatal corticosteroids**, **magnesium sulfate for fetal neuroprotection**, **group B streptococcus prophylaxis**, and consideration of **antibiotics in PPROM** (but **not** in intact-membrane preterm labour, where co-amoxiclav has been associated with necrotising enterocolitis).
+- **Contraindications to tocolysis:** chorioamnionitis, significant antepartum haemorrhage, severe pre-eclampsia, fetal compromise or death, and advanced labour. **Do not delay delivery when continuing the pregnancy is more dangerous than delivering.**
+- **Prevention in at-risk women:** **vaginal progesterone** and **cervical cerclage** for a short cervix or previous preterm birth.
+
+## 0.10 Other Drugs Used in Obstetrics
+
+### 0.10.1 Prostaglandins
+- **Key agents:** **dinoprostone (PGE₂)** — vaginal gel and pessary for **cervical ripening and induction of labour**; **misoprostol (PGE₁ analogue)** — induction, **medical management of miscarriage and termination**, and **postpartum haemorrhage** (heat-stable, oral or sublingual, and therefore invaluable in low-resource and out-of-hospital settings); **carboprost (PGF₂α)** — for refractory PPH (**contraindicated in asthma** — it causes bronchospasm).
+- **Adverse effects:** **uterine hyperstimulation with fetal compromise** (the main risk of induction agents — continuous fetal monitoring is required, and tocolysis may be needed), nausea, vomiting, diarrhoea, fever and shivering (misoprostol), bronchospasm (carboprost), and **uterine rupture — which is why prostaglandin induction is used with great caution, or avoided, after previous caesarean section.**
+- **Mifepristone with misoprostol** — the standard medical regimen for **termination of pregnancy and for miscarriage management** in Australia, available through appropriately trained prescribers. See [[17_03_Termination_of_Pregnancy_and_Miscarriage]].
+
+### 0.10.2 Anti-D (Rh D) Immunoglobulin
+- **Purpose:** prevents **RhD alloimmunisation** in an RhD-negative woman carrying an RhD-positive fetus, and therefore prevents **haemolytic disease of the fetus and newborn** in subsequent pregnancies. It is one of the great preventive successes in obstetrics.
+- **Schedule (the one dose-related figure in this file, and it is a national program schedule):** sources describing the Australian guidance state that **anti-D 500 IU is given at 28 and 34 weeks to all RhD-negative women who have not formed their own anti-D**, in addition to **postpartum administration where the baby is RhD positive**, and **after any potentially sensitising event** — antepartum haemorrhage, abdominal trauma, miscarriage, termination, ectopic pregnancy, external cephalic version, and invasive procedures (CVS, amniocentesis, cordocentesis).
+- **Timing:** **give within 72 hours of the sensitising event**, and **do not wait for the Kleihauer result** — give the standard dose and top up according to the quantified fetomaternal haemorrhage (see `NEW_Investigations_Obstetrics_and_Gynaecology.md` 0.9).
+- **Practical:** take the maternal sample for the Kleihauer/flow cytometry **before** giving anti-D; **it is a blood product, requiring consent and the same identification checks**; and **a negative Kleihauer does not remove the indication after a sensitising event.**
+
+### 0.10.3 Other Agents in Obstetrics
+- **Antenatal corticosteroids** (0.7.2, 0.9); **magnesium sulfate** (0.8); **iron and intravenous iron** (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.2.1); **folic acid and iodine** supplementation — **folate before conception and in the first trimester to prevent neural tube defects, at a higher dose in higher-risk women**; **low molecular weight heparin** for VTE prophylaxis and treatment (**the anticoagulant of choice in pregnancy — it does not cross the placenta**; warfarin and DOACs are avoided); **thyroxine**, with **requirements rising early in pregnancy** (see `NEW_Drugs_10_Endocrine.md` 0.4.1); and **antiemetics for nausea and vomiting of pregnancy and hyperemesis** (see `NEW_Drugs_12_Gastrointestinal.md` 0.2.4).
+
+## 0.11 Drugs Affecting Lactation
+
+- **Suppressing lactation:** **cabergoline** (a dopamine agonist — effective; used after stillbirth, neonatal death, or where a woman chooses not to breastfeed); non-drug measures (firm support, avoiding expression, analgesia). **Oestrogens are no longer used** (VTE risk).
+- **Promoting lactation (galactogogues):** **domperidone** is used, though the evidence is modest and **it prolongs the QT** (avoid where there is cardiac risk or interacting drugs); metoclopramide is an alternative but carries the extrapyramidal and duration limits described in `NEW_Drugs_12_Gastrointestinal.md` 0.2.2. **Lactation consultant support, feeding frequency and attachment do more than any drug** — a galactogogue without skilled feeding support rarely helps.
+- **Mastitis:** **continued feeding or expressing**, analgesia, and **antibiotics covering *S. aureus*** where there is systemic illness or no improvement; **a breast abscess needs drainage**; and **inflammatory breast cancer can masquerade as mastitis — non-resolving "mastitis" requires imaging and review.**
+
+> [!danger] **DRUGS AND BREASTFEEDING: the default should be to find a compatible drug, not to stop breastfeeding.**
+> Most drugs are compatible; the amount reaching the infant is usually very small. **Consult a specialised medicines-in-pregnancy-and-breastfeeding information service** rather than relying on a product information leaflet, which is often defensively worded and leads to unnecessary cessation.
+> **Genuine concerns include:** **codeine and tramadol (CYP2D6 ultra-rapid metabolisers — neonatal respiratory depression, and deaths have occurred), amiodarone, lithium (needs monitoring, not necessarily avoidance), cytotoxics, radioiodine, and combined contraception in the first weeks.**
+> **Conversely, do not stop necessary maternal treatment** — untreated maternal epilepsy, depression, asthma or infection harms both mother and infant. See [[16_01-05_Antenatal_Care]].
+
+## 0.12 Drugs for Vaginal Infections
+
+- **Vulvovaginal candidiasis:** **topical azoles (clotrimazole, miconazole)** or **oral fluconazole** (**avoided in pregnancy — topical treatment is used**). **Recurrent candidiasis warrants a check for diabetes and immunosuppression**, and a longer induction-and-maintenance regimen.
+- **Bacterial vaginosis:** **oral or vaginal metronidazole**, or **vaginal clindamycin**. **Not an STI**, but associated with **preterm birth** in pregnancy. **Warn about the disulfiram-like reaction with alcohol** on metronidazole (see `NEW_Drugs_05_Anti_infectives.md` 0.2.15).
+- **Trichomoniasis:** **oral metronidazole or tinidazole** — and **this one IS a sexually transmitted infection: treat the partner, screen for other STIs, and notify as required.**
+- **Atrophic vaginitis:** **topical vaginal oestrogen** and non-hormonal moisturisers (0.2.1).
+- **Pelvic inflammatory disease:** **empirical antibiotic therapy started on clinical suspicion — do not wait for swab results**, because delay costs fertility. See `NEW_Investigations_Obstetrics_and_Gynaecology.md` 0.3 and [[17_05_PID__Endometriosis__Fibroids]].
+
+> [!danger] **Always do a pregnancy test in a woman of reproductive age with pelvic pain — ectopic pregnancy presents as PID.** And **abnormal discharge with postcoital or intermenstrual bleeding, or a suspicious cervix, requires examination and specialist referral, not a prescription.**
+
+## 0.13 Sex Hormones and Modulators
+
+### 0.13.1 Androgens
+- **Key agents:** **testosterone** — intramuscular depot (undecanoate), transdermal gel and cream, and implants.
+- **Indications:** **confirmed male hypogonadism** (on repeated morning testosterone with gonadotrophins and a cause established), delayed puberty, and **gender-affirming hormone therapy** (0.13.3). **Low-dose testosterone has an evidence-based role for hypoactive sexual desire disorder in postmenopausal women**, using female-appropriate dosing.
+- **Adverse effects:** **polycythaemia (monitor haematocrit — a common reason for venesection or dose reduction)**, acne, weight gain, **worsening of sleep apnoea**, **suppression of spermatogenesis and fertility** (discuss and offer sperm storage), gynaecomastia (via aromatisation), mood and aggression change, and dyslipidaemia. **Transdermal preparations can be transferred to others by skin contact — including to children and partners — so covering the application site is essential.**
+- **Contraindications:** **prostate and breast cancer**; caution with erythrocytosis and untreated severe sleep apnoea. **Australian PBS criteria for testosterone are specific and require specialist involvement in most cases.**
+
+> [!danger] **Testosterone is widely misused — for "low T", fatigue, ageing, and in bodybuilding.** **Anabolic steroid misuse causes cardiomyopathy, polycythaemia, hepatic injury, infertility, aggression, and profound hypogonadism on withdrawal.** Ask about it non-judgementally, and do not prescribe testosterone for non-specific symptoms without properly confirmed biochemical hypogonadism.
+
+### 0.13.2 Anti-androgens
+- **Key agents:** **spironolactone** (used widely for acne, hirsutism and in gender-affirming care), **cyproterone acetate**, **bicalutamide and other prostate cancer agents** (see `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.3.1), **finasteride and dutasteride** (see `NEW_Drugs_13_Genitourinary.md` 0.1.2), and **GnRH analogues**.
+- **Indications:** **hirsutism and PCOS-related androgenic symptoms**, acne, androgenetic alopecia, prostate cancer, and **gender-affirming hormone therapy**.
+- **Adverse effects:** **spironolactone — hyperkalaemia (check potassium and renal function), menstrual irregularity, breast tenderness and gynaecomastia**; **cyproterone — hepatotoxicity, depression, VTE, and a dose-related risk of MENINGIOMA that has led to regulatory restriction and prompted a move to lower doses and alternatives.**
+- **All anti-androgens are teratogenic to a male fetus — effective contraception is required.**
+
+### 0.13.3 Gender-Affirming Hormone Care
+- **Feminising therapy:** **oestradiol** (transdermal preferred where VTE risk exists) with an **anti-androgen** (spironolactone or cyproterone, and increasingly GnRH analogues), producing breast development, fat redistribution, softer skin and reduced body hair; **it does not raise vocal pitch or reverse established facial hair**, for which speech therapy and hair removal are needed.
+- **Masculinising therapy:** **testosterone**, producing voice deepening, facial and body hair, fat redistribution, clitoral growth and amenorrhoea.
+- **Adolescents:** **GnRH analogues** to pause puberty, within a multidisciplinary specialist service. **Australian practice follows established standards of care and, in some jurisdictions, specific legal and service pathways — this is specialist territory.**
+- **Monitoring:** hormone levels to target, **haematocrit** (testosterone), lipids, glucose, blood pressure, liver function, **potassium** (spironolactone), and **bone density** with prolonged GnRH analogue use or gonadectomy.
+- **Fertility:** **discuss fertility preservation BEFORE starting** — hormone therapy impairs fertility, sometimes irreversibly, and this conversation is time-critical and is frequently omitted.
+
+> [!danger] **Preventive care must follow the ORGANS PRESENT, not the recorded gender.**
+> **A trans man who retains a cervix still needs cervical screening; a trans woman on oestrogen needs breast cancer awareness and, if she retains a prostate, prostate considerations.** Screening programs and electronic records frequently fail to prompt this. **Ask, record an organ inventory, and arrange the screening actively.**
+> **Use the person's correct name and pronouns**, and recognise that **experience of healthcare avoidance is common and consequential** — a respectful consultation has direct clinical effects on whether someone returns.
+
+---
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Drugs for contraception | SUB | yes | |
+| 0.1.1 | Combined Oral Contraceptives | CLS | yes | Built jointly with `Combined oral contraceptives` — **capitalisation duplicate**; both rows mapped. |
+| 0.1.1 | Combined oral contraceptives | CLS | yes | As above. |
+| 0.1.2 | Progestins | CLS | yes | Built jointly with `Progestogens` — same class, two names. |
+| 0.1.2 | Progestogens | CLS | yes | As above. |
+| 0.1.3 | Intrauterine devices | CLS | yes | |
+| 0.2 | Drugs for menopausal symptoms | SUB | yes | |
+| 0.2.1 | Hormone Replacement Therapy | CLS | yes | Built jointly with `Hormone replacement therapy` — **capitalisation duplicate**. |
+| 0.2.1 | Hormone replacement therapy | CLS | yes | As above. |
+| 0.2.2 | SERMs | CLS | yes | Built jointly with `Selective oestrogen receptor modulators` — same class, abbreviated and expanded. |
+| 0.2.2 | Selective oestrogen receptor modulators | CLS | yes | As above. |
+| 0.3 | Drugs for heavy menstrual bleeding | SUB | yes | |
+| 0.4 | Drugs for menstrual symptoms | SUB | yes | |
+| 0.5 | Drugs for endometriosis | SUB | yes | |
+| 0.5.1 | Gonadotrophin-releasing hormone agonists | CLS | yes | Add-back therapy given as a standing consideration. |
+| 0.6 | Drugs for infertility | SUB | yes | OHSS given as the intern-facing emergency. |
+| 0.7 | Drugs in labour | SUB | yes | |
+| 0.7.1 | Oxytocic drugs | CLS | yes | Includes the ergometrine contraindication in pre-eclampsia and the four Ts of PPH. |
+| 0.8 | Drugs in pre-eclampsia and eclampsia | SUB | yes | Magnesium sulfate monitoring and the ACE inhibitor/ARB contraindication. |
+| 0.9 | Drugs for preterm labour | SUB | yes | |
+| 0.10 | Other drugs used in obstetrics | SUB | yes | Carries the anti-D schedule — the file's single stated dose figure, as a national program schedule. |
+| 0.10.1 | Prostaglandins | CLS | yes | |
+| 0.11 | Drugs affecting lactation | SUB | yes | Breastfeeding framed as find-a-compatible-drug rather than stop. |
+| 0.12 | Drugs for vaginal infections | SUB | yes | |
+| 0.13 | Sex hormones and modulators | SUB | yes | |
+| 0.13.1 | Androgens | CLS | yes | |
+| 0.13.2 | Anti-androgens | CLS | yes | Cyproterone meningioma risk included. |
+| 0.13.3 | Gender Affirming Hormone Care | CLS | yes | Includes fertility preservation timing and organ-based preventive care. |
+
+**Rows in file: 28 (13 SUB + 15 CLS). AMH section 16 build-list rows: 28. Section complete.**
+
+> [!note] **Four pairs of build-list rows are duplicates** — two are pure capitalisation duplicates (`Combined Oral Contraceptives`, `Hormone Replacement Therapy`), and two are the same class under alternative names (`Progestins`/`Progestogens`, `SERMs`/`Selective oestrogen receptor modulators`). Each concept is written once and every row mapped above.
+
