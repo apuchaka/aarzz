@@ -76,7 +76,13 @@ def qualified(line,pos):
     else:
         seg=seg[-25:]
     if re.search(r'\[\[[^\]|#]+\]\][^`§]{0,10}?$',seg): return True
-    return any(nm in seg for nm in known_names())
+    if any(nm in seg for nm in known_names()): return True
+    # The corpus also abbreviates: `NEW_Drugs_10 §0.5.4` for NEW_Drugs_10_Endocrine.
+    # A token that is a prefix of EXACTLY ONE known name, and long enough not to
+    # collide, qualifies too.
+    for tok in re.findall(r'[A-Za-z0-9][A-Za-z0-9_\-.]{7,}',seg):
+        if len([n for n in known_names() if n.startswith(tok)])==1: return True
+    return False
 
 def scan(path,text):
     L=text.split('\n')
