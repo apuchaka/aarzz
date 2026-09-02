@@ -304,7 +304,12 @@ option was taken and is reversible.
 | `ENT_merged.md` | done — `cde0cdb` |
 | `Derm_merged.md` | done — `0e253ee` |
 | `Neuro_merged.md` | done — `be39fe3` |
-| *(next: Endocrine, Psychiatry, Cardio, Emergency, GI, Infectious Disease, Heme Onc, Pediatrics, MSK, OBGYN)* | |
+| `Endocrine and metabolics_merged.md` | done — `0313c82` |
+| `Psychiatry_merged.md` | done — `0c52585` |
+| `Cardio_merged.md` | done — `d75e2f2` |
+| `GI_merged.md` | done — `1aeef95` |
+| `Infectious Disease_merged.md` | done — `bdc3589` |
+| *(next: Emergency and Crit Care, Heme Onc, Pediatrics, MSK, OBGYN)* | |
 
 **Positional breaks caught and reversed during the run so far:** Anaes 0.8/0.4 PONV ·
 Resp 0.20/0.7 IPF · Geriatrics Discharge/Abuse · Opthalm Endophthalmitis/Keratitis ·
