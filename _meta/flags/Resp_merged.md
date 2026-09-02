@@ -84,9 +84,11 @@ asbestos exposure; `02_Respiratory` is richer on mesothelioma staging.
 - **Its own text flags two topics as homeless**: *"Diphtheria — … flagged for whichever of those
   files comes up next in the rotation"* and the paediatric respiratory rows (bronchiolitis, croup,
   pertussis, viral-induced wheeze). **Check both land somewhere in the Paediatrics and ID passes.**
-- `Light's criteria` appears in **three** files — `Investigation-Interpretation:102`,
-  `GP_merged:278`, and the Resp pleural effusion entry (562). Inv-Interp already draws the boundary
-  correctly (*"see [[02_Respiratory]] Pleural Effusions"*); **GP's copy is the odd one.**
+- `Light's criteria` appears in **NO** file — corrected 2026-09-02, this row previously said three.
+  `Investigation-Interpretation §1.4` defers to `Resp §0.12` for "the full criteria"; `Resp §0.12`
+  has a protein-only table (<30 / >30 g/L), which is a different rule; `GP_merged`'s LDH entry names
+  two of the three in passing with no threshold. **The criteria themselves are absent from the
+  corpus** and are recorded in `_meta/MY_TASKS.md`.
 - `## 0.13 Oxygen Therapy` +`.1 Delivery devices` +`.2 NIV` (571–594) — **not** investigation
   interpretation (nothing is being read), so the standing rule does not reach it. Flag as a
   candidate for a procedures home; leave for now.

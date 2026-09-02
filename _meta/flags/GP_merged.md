@@ -62,8 +62,9 @@ is **16 general laboratory tests**. Neither is disease content, and the file has
   "General Practice" is a system or a setting.**
 - `GP:49` and `GP:11` were two of the off-by-one pointers fixed in `48a870f` — both pointed into
   `01_Cardiovascular` for absolute cardiovascular risk and colorectal screening.
-- `GP:278` carries **Light's criteria**, a third copy alongside `Investigation-Interpretation:102`
-  and `Resp §0.12` — see Resp's flags.
+- `GP`'s LDH entry NAMES two of Light's three criteria in passing and states no threshold — corrected
+  2026-09-02, this row previously called it a third copy. There is no first or second copy: the
+  criteria are absent from the corpus. See Resp's flags and `_meta/MY_TASKS.md`.
 
 ## GROUPINGS
 **HIGH**

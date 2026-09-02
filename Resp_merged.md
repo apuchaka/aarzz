@@ -457,10 +457,15 @@ Tuberculous meningitis (CNS), Pott's disease (vertebral bodies), scrofuloderma (
 
 ## 0.12 Pleural Effusions
 
-> [!warning] FLAG 2026-09-01 — Light's criteria appear in three files
-> `Investigation-Interpretation.md:102` (which correctly defers here for the disease content),
-> `GP_merged.md:278`, and this entry. **The Investigation-Interpretation boundary is already drawn
-> correctly; GP's copy is the odd one.** Flagged, not merged.
+> [!warning] FLAG 2026-09-01, CORRECTED 2026-09-02 — **Light's criteria appear in NO file. This flag previously said three.**
+> The three it named do not carry them. **This section** has a protein-only table (transudate <30 g/L,
+> exudate >30 g/L) — a different rule, not Light's. **`Investigation-Interpretation §1.4 Pleural Fluid
+> Analysis`** says *"Apply Light's criteria ... see [[02_Respiratory]] Pleural Effusions for the full
+> criteria"* — a forward reference to criteria that are not here. **`GP_merged`'s LDH entry** names two
+> of the three in passing (*"pleural:serum LDH ratio and absolute pleural LDH form two of the three"*)
+> and states no threshold. **So the protein ratio >0.5, the LDH ratio >0.6 and the LDH above two-thirds
+> of the serum upper limit are in the corpus nowhere.** Recorded in `_meta/MY_TASKS.md`; not written
+> here, because they need an Australian source rather than my memory.
 
 | Transudate (<30 g/L protein) | Exudate (>30 g/L protein) |
 |---|---|
