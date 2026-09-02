@@ -964,3 +964,115 @@ prose name pointers          4 -> 3
 
 **Read honestly (rule 8): clean against everything currently known to check for.** The band sweep
 found two new instances of a class the reviews thought had three, which is the usual result.
+
+---
+
+# 5 Second-review pass (2026-09-02, later the same day)
+
+Both reviews re-ran with their internal cap removed; eleven clinical items had been
+suppressed by it. Baseline for every count below: `925d8eb`.
+
+## Part 0 — the finding that came first because it invalidates the rest
+
+**`scripts/` could report a clean verdict over the wrong tree, or over no tree at all.**
+Two failure modes, one in each half, both proven by running them rather than reading them:
+
+| shape | scripts | what happens |
+|---|---|---|
+| `VAULT='/home/user/aarzz'` hardcoded | dangling · drift · misaimed · sections · xref | run in any other checkout they read the LIVE vault, so a before/after comparison measures the same tree twice and always agrees |
+| `git -C ROOT ls-files` | positional · internalrefs · internal_misaimed · aftermove · bandcheck · verify_reorder | in a copy git cannot see, `ls-files` returns nothing, the loop never runs, and the script prints `0 references pointing the wrong way` — over zero files |
+
+```
+$ cd .../base8699425 && python3 scripts/positional.py
+0 positional reference(s) pointing the wrong way      <- over ZERO files
+$ python3 scripts/positional.py
+0 positional reference(s) pointing the wrong way      <- over 72
+```
+
+**Byte-identical.** This is CLAUDE.md rule 11's case: a check that cannot fail is worse
+than no check.
+
+**What it invalidated, stated plainly.** The previous pass's "baseline aftermove = 4" and
+"baseline positional = 0" were produced this way and prove nothing. The claims survived
+only because they were also produced correctly, in-repo, with `--base`. **It invalidated
+no live number**: `/home/user/aarzz` is this machine's vault, so every in-repo run was
+reading the right tree. Re-run with the fix, dangling is still 7 and misaimed still 0 of 30.
+
+`scripts/vaultroot.py` now resolves the root from the script's own location and **exits 2
+rather than returning an empty list**, with a self-test that constructs both failures
+against a temp directory. Eleven scripts converted — `check_dividers`, `gapcheck` and
+`reanchor` had the same hole and were on neither review's list.
+
+## Sections
+
+| § | Done | Not done, and why |
+|---|---|---|
+| **A** | the Renal:288 withdrawal verified and honoured — the pointer now names `H1 §0.6` and says it moved to `[[Procedures]]` | — |
+| **B** | 1 new (Renal:2019 tadalafil `0.5.1` -> `NEW_Drugs_13 §0.3.1`); 5 of 6 rows were done last run and re-checked | — |
+| **C** | Procedures' 3 collisions warned in place; its false "this file is a scaffold" box corrected | 182 collisions exist across 23 files — a property of concatenation, not a Procedures defect |
+| **D** | 227 lines in Renal, Derm, ID; Emergency's false "the one dose stated in this file"; History-Taking's orphan divider, origin folded in first | — |
+| **E** | 6 more (PH1 ×2, ID pubic lice, Communication ×2, plus the Geriatrics 3 from last run) | — |
+| **F** | nothing to do — done last run, grep returns nothing | — |
+| **G** | `GER7 §0.1` moved to the front of Inv-Interp with its own divider | the two orderings you declined stay declined and are marked as such in `MY_TASKS.md` |
+| **H** | 10 more, including two Renal TRIPLES where the safety rule is in one part only | — |
+| **I** | Light's criteria FLAG corrected in 4 places | the criteria themselves need an AU source — `MY_TASKS.md` |
+| **Part 2** | 32 rows written | nothing fixed |
+
+## Two tools were wrong in the same way and both are fixed
+
+**`bandcheck.py` could only see gaps.** Against the reviews' list of twelve boundary
+defects it found three. It had no notion of an **overlap** (hypokalaemia's 3.0 is in two
+bands), no notion of a **point** boundary (`<3 months` beside `>3 months` — the gap is
+arithmetically zero), and required ascending order (GOLD staging is written descending).
+All three now handled, with strictness tracked (`<3` excludes 3, `≤3` includes it).
+Self-test 7 cases -> 10, all passing. Candidates 30 -> 92; the 13 point boundaries were
+all read and **seven are new and genuine**, including `Resp:470`'s transudate/exudate at
+exactly 30 g/L — which is the table `Investigation-Interpretation §1.4` defers to instead
+of Light's criteria.
+
+**The absence sweep matched TITLES.** It reported 12 candidates and 7 genuine ones last
+run and **would never have found any of the four the reviewers found by reading**:
+"Interpreting Treatment Effects — Absolute vs Relative Risk, and NNT" shares no word with
+"Measures of Effect", and "Pubic lice" shares none with "Infestations".
+`scripts/absencecheck.py` replaces it, tests the CLAIM rather than the title, and states
+in its own docstring that it settles nothing — the notes claim a topic was never *taught*
+and a script can only test whether words *appear*. The decisive subset is small: twelve
+notes claim ZERO HITS, and checking those twelve by hand found two more.
+
+## Rule 13 again, and a deletion that reached too far
+
+- The A+B commit's own new text introduced a bare `§0.6` inside a merged file. Caught by
+  `internalrefs.py` before the commit and fixed. **That is the third consecutive pass in
+  which this session broke rule 13 in text it wrote while applying rule 13.**
+- The section-D deletion ranges ran "heading to the last non-blank line before the next
+  heading or divider", which **swallowed three things trailing a build-status table**: a
+  rule-8 `[!danger]` explaining why the vaccines section states no schedule figures, the
+  audit record that Campylobacter was missed at first build, and a §1.9-shaped sourcing
+  caveat on the Wilson disease figures. All three found by the marker check, all three
+  restored. The range should have stopped at the last table row.
+
+## Verification against `925d8eb`
+
+```
+files                     72 -> 72     0 removed
+SOURCE dividers          421 -> 422    (+1, the GER7 block moved to the front of Inv-Interp)
+                                       convention: all 422 pass
+headings lost                   14     all section-D scaffolding
+new duplicate headings           0
+conflict markers                 0
+frontmatter lost                 0
+newly broken callouts            0
+markers that decreased           1     Procedures [!danger] 25 -> 24, the false scaffold box,
+                                       deliberate and explained in commit bb3a062
+  UNVERIFIED 931->934 · VERIFIED 935->938 · CF-PAIR 183->196 · CONFLICT 7->7
+  TODO:link 6->6 · SRC: 11->11 · →MED: 4->4 · [!check] 5->5 · NOT checked: 6->6
+dangling numeric pointers      7 -> 7  (6 to A10, 1 to B2; unchanged, pre-existing)
+misaimed pointers              0 of 30
+bare internal pointers              0
+internal misaimed                   0
+wikilinks unresolved               36  (the same 9 targets with no file and no SOURCE block)
+checkall.sh                    exit 0  every self-test passing
+```
+
+**Read honestly (rule 8): clean against everything currently known to check for — and this
+pass added two things to check for that the previous one reported clean without.**
