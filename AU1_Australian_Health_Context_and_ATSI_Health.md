@@ -1,6 +1,8 @@
 ---
 block: Australian Health Context
 source: built in chat, model knowledge, NOT source-verified
+aliases:
+  - "AU1"
 ---
 
 > [!warning] Sourcing — read this one carefully

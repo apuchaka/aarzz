@@ -1,3 +1,7 @@
+---
+aliases:
+  - "NEW_Investigations_General_and_Preventive"
+---
 
 
 <!-- ===== SOURCE: 19_General_Practice_and_Preventive_Medicine.md ===== -->

@@ -1,6 +1,10 @@
 ---
 block: Shared — Safeguarding
 source: created 2026-09-01 to hold safeguarding content that was split four ways; GER4 moved here whole from Geriatrics_merged.md
+aliases:
+  - "GER4"
+  - "15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse"
+  - "GER4_Safeguarding_and_Forensic"
 ---
 
 # Safeguarding

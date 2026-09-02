@@ -1,6 +1,8 @@
 ---
 block: EBM & Clinical Process
 source: built in chat, model knowledge, NOT source-verified
+aliases:
+  - "EBM1"
 ---
 
 > [!warning] Sourcing and scope

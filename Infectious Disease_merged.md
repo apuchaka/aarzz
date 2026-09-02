@@ -1,3 +1,25 @@
+---
+aliases:
+  - "K1"
+  - "K2"
+  - "K3"
+  - "K4"
+  - "08_01-03_Infectious_Disease_-_Bacterial_Infections"
+  - "08_04_Infectious_Disease_-_Antibiogram"
+  - "08_05-06_Infectious_Disease_-_Viral_Infections"
+  - "08_07_Infectious_Disease_-_Protozoan_Infections"
+  - "08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs"
+  - "08_09_Infectious_Disease_-_Miscellaneous"
+  - "08_10_Infectious_Disease_-_Diarrhoea_DDx_and_Gastroenteritis"
+  - "K1_Fever_Workup"
+  - "K2_Skin_and_Soft_Tissue_Infection"
+  - "K3_Exposure__Tuberculosis__HIV_and_Immunodeficiency"
+  - "K4_Allergy_and_Clinical_Immunology"
+  - "NEW_Drugs_05_Anti_infectives"
+  - "NEW_Drugs_20_Vaccines"
+  - "NEW_Infectious_Diseases"
+  - "NEW_Investigations_Infectious_Diseases"
+---
 
 
 <!-- ===== SOURCE: K1_Fever_Workup.md ===== -->

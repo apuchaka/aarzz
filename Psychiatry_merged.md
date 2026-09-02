@@ -1,3 +1,35 @@
+---
+aliases:
+  - "N1"
+  - "N2"
+  - "N3"
+  - "N4"
+  - "N5"
+  - "N6"
+  - "N7"
+  - "N8"
+  - "14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_"
+  - "14_02_Psych_-_Anxiety_and_Related_Disorders"
+  - "14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics"
+  - "14_04_Psych_-_Personality_Disorders"
+  - "14_05a_Psych_-_Eating_Disorders"
+  - "14_05b_Psych_-_Insomnia"
+  - "14_05c_Psych_-_Unexplained_Symptoms__Somatoform__Dissociative__Factitious_Disorders_"
+  - "14_06a_Psych_-_Drugs_Used_in_Psychiatry"
+  - "14_06b_Psych_-_Mental_Health_Act_and_Sectioning"
+  - "14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder"
+  - "14a-1_Psych_-_Substance_Misuse__Recreational_Drug_Profiles_"
+  - "N1_Mental_State_Examination_and_Risk"
+  - "N2_Acute_Behavioural_Disturbance_and_Substance_Use"
+  - "N3_Psychosis_and_Antipsychotics"
+  - "N4_Mood_Disorders"
+  - "N5_Anxiety__OCD_and_Trauma"
+  - "N6_Functional__Dissociative_and_Personality_Disorders"
+  - "N7_Sleep_Disorders"
+  - "N8_Eating_Disorders"
+  - "NEW_Drugs_17_Psychotropic"
+  - "NEW_Psychiatry"
+---
 
 
 <!-- ===== SOURCE: N1_Mental_State_Examination_and_Risk.md ===== -->

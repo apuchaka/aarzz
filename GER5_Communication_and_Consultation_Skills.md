@@ -1,6 +1,8 @@
 ---
 block: GP, Preventive Medicine, Ethics & Communication
 source: built in chat, model knowledge, NOT source-verified
+aliases:
+  - "GER5"
 ---
 
 > [!warning] Sourcing

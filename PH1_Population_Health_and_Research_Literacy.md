@@ -1,6 +1,8 @@
 ---
 block: Public Health, Epidemiology & Research Literacy
 source: built in chat, model knowledge, NOT source-verified
+aliases:
+  - "PH1"
 ---
 
 > [!warning] Sourcing — and why this file has fewer flags than the others

@@ -1,6 +1,8 @@
 ---
 block: Ethics, Law & Professional Practice
 source: built in chat, model knowledge, NOT source-verified
+aliases:
+  - "A10"
 ---
 
 > [!danger] Sourcing — read this before using anything in this file

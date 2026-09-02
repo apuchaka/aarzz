@@ -1,3 +1,11 @@
+---
+aliases:
+  - "AN1"
+  - "03a_Anaesthetics_Primer"
+  - "AN1_Perioperative_Care"
+  - "NEW_Drugs_02_Anaesthetics"
+  - "NEW_Drugs_03_Analgesics"
+---
 
 
 <!-- ===== SOURCE: 03a_Anaesthetics_Primer.md ===== -->

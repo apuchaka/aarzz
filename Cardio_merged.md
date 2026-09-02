@@ -1,3 +1,25 @@
+---
+aliases:
+  - "B1"
+  - "B2"
+  - "B3"
+  - "B4"
+  - "B5"
+  - "B6"
+  - "CV-X"
+  - "01_Cardiovascular"
+  - "B1_Chest_Pain_Framework_and_Cardiac_Biomarkers"
+  - "B2_Hypertension_Spectrum"
+  - "B3_Arrhythmia__Bradycardia_and_Cardiac_Devices"
+  - "B4_Syncope__Collapse_and_Hypotension"
+  - "B5_Murmurs__Endocarditis_and_Vascular_Disease"
+  - "B6_Oedema__Fatigue__Weakness_and_Undifferentiated_Presentations"
+  - "CV-X_Chronic_Heart_Failure"
+  - "NEW_Cardiology_and_Vascular"
+  - "NEW_Drug_Classes_Cardiovascular_Antihypertensives"
+  - "NEW_Drugs_06_Cardiovascular"
+  - "NEW_Investigations_Cardiology"
+---
 
 
 <!-- ===== SOURCE: B1_Chest_Pain_Framework_and_Cardiac_Biomarkers.md ===== -->

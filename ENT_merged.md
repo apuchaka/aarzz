@@ -1,3 +1,28 @@
+---
+aliases:
+  - "F1"
+  - "F2"
+  - "F3"
+  - "F4"
+  - "13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear"
+  - "13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_"
+  - "13_03_ENT_-_Deafness_and_Vertigo_Conditions"
+  - "13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_"
+  - "13_05a_ENT_-_Sore_Throat_and_Tonsillitis"
+  - "13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA"
+  - "13_06a_ENT_-_Dysphonia_and_HNSCC"
+  - "13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology"
+  - "13_06c_ENT_-_Bell_s_Palsy"
+  - "13_07a_ENT_-_Neck_Lumps"
+  - "13_07b_ENT_-_Salivary_Gland_Problems_and_Xerostomia"
+  - "13_07c_ENT_-_Dental_and_Teeth_Problems"
+  - "F1_Ear"
+  - "F2_Nose_and_Sinus"
+  - "F3_Throat__Voice_and_Oral"
+  - "F4_Neck_Lumps_and_Facial_Pain"
+  - "NEW_Drugs_09_ENT"
+  - "NEW_ENT_and_Oral"
+---
 
 
 <!-- ===== SOURCE: 13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear.md ===== -->

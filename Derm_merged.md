@@ -1,3 +1,29 @@
+---
+aliases:
+  - "G1"
+  - "G2"
+  - "G3"
+  - "G4"
+  - "G5"
+  - "G6"
+  - "09_01_Dermatology_-_Dermatological_Emergencies"
+  - "09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers"
+  - "09_03a_Dermatology_-_Non-Melanoma_Skin_Cancer"
+  - "09_03b_Dermatology_-_Acne_Vulgaris"
+  - "09_04_Dermatology_-_Eczema__Psoriasis__Rosacea"
+  - "09_05_Dermatology_-_Bacterial_Infections_and_Infestations"
+  - "09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections"
+  - "09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa"
+  - "09_08_Dermatology_-_Miscellaneous"
+  - "G1_Acute_Rash_and_Erythema"
+  - "G2_Blisters_and_Skin_Failure"
+  - "G3_Purpura_and_Vasculitis"
+  - "G4_Chronic_Rash__Pruritus_and_Pigment"
+  - "G5_Lumps__Ulcers_and_Nails"
+  - "G6_Flushing__Sweating_and_Cyanosis"
+  - "NEW_Dermatology"
+  - "NEW_Drugs_08_Dermatological"
+---
 
 
 <!-- ===== SOURCE: G1_Acute_Rash_and_Erythema.md ===== -->

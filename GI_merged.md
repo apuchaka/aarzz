@@ -1,3 +1,24 @@
+---
+aliases:
+  - "C1"
+  - "C2"
+  - "C3"
+  - "C4"
+  - "C5"
+  - "C6"
+  - "C7"
+  - "03_Gastrointestinal"
+  - "C1_Acute_Abdomen"
+  - "C2_Nausea_and_Vomiting"
+  - "C3_Jaundice_and_Liver_Disease"
+  - "C4_Gastrointestinal_Bleeding"
+  - "C5_Bowel_Habit__Obstruction_and_Distension"
+  - "C6_Dyspepsia__Oesophageal_and_Anorectal_Disease"
+  - "C7_Pancreatobiliary_Disease"
+  - "NEW_Drugs_12_Gastrointestinal"
+  - "NEW_Gastroenterology_and_Hepatology"
+  - "NEW_Investigations_Gastroenterology"
+---
 
 
 <!-- ===== SOURCE: C1_Acute_Abdomen.md ===== -->

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "02_Respiratory"
+  - "NEW_Drugs_18_Respiratory"
+  - "NEW_Investigations_Respiratory"
+  - "RESP-X"
+  - "RESP-X_Occupational_and_Chronic_Lung_Disease"
+---
 
 
 <!-- ===== SOURCE: 02_Respiratory.md ===== -->

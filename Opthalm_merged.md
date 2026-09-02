@@ -1,3 +1,15 @@
+---
+aliases:
+  - "E1"
+  - "E2"
+  - "E3"
+  - "05_Ophthalmology"
+  - "E1_Red_and_Painful_Eye"
+  - "E2_Vision_Loss_and_Disturbance"
+  - "E3_Orbit__Lids_and_Pupil"
+  - "NEW_Drugs_11_Eye"
+  - "NEW_Ophthalmology"
+---
 
 
 <!-- ===== SOURCE: E1_Red_and_Painful_Eye.md ===== -->

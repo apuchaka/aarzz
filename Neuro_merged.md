@@ -1,3 +1,23 @@
+---
+aliases:
+  - "D1"
+  - "D2"
+  - "D3"
+  - "D4"
+  - "D5"
+  - "D6"
+  - "D7"
+  - "04_Neurology"
+  - "D1_Headache_and_Meningism"
+  - "D2_Altered_Consciousness_and_Cognition"
+  - "D3_Stroke_and_Focal_Neurological_Deficit"
+  - "D4_Weakness__Neuropathy_and_Radiculopathy"
+  - "D5_Dizziness__Vertigo_and_Gait"
+  - "D6_Seizures_and_Movement_Disorders"
+  - "D7_Cranial_Nerves_and_Special_Senses"
+  - "NEW_Drugs_15_Neurological"
+  - "NEW_Neurology"
+---
 
 
 <!-- ===== SOURCE: D1_Headache_and_Meningism.md ===== -->

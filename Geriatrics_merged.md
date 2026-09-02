@@ -1,3 +1,12 @@
+---
+aliases:
+  - "GER1"
+  - "GER2"
+  - "18_Geriatrics_and_Older_Persons_Health"
+  - "GER1_Comprehensive_Geriatric_Assessment"
+  - "GER2_Geriatric_Syndromes_and_End_of_Life_Care"
+  - "NEW_Geriatrics"
+---
 
 
 <!-- ===== SOURCE: GER1_Comprehensive_Geriatric_Assessment.md ===== -->

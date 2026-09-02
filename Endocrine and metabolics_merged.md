@@ -1,3 +1,22 @@
+---
+aliases:
+  - "F0.2"
+  - "I1"
+  - "I2"
+  - "I3"
+  - "I4"
+  - "I5"
+  - "06_Metabolic_Medicine_and_Endocrinology"
+  - "F0-2_Acid-Base__DKA_and_Fluid_States"
+  - "I1_Thyroid_Disease"
+  - "I2_Diabetes_and_Glucose_Disorders"
+  - "I3_Calcium__Parathyroid_and_Bone"
+  - "I4_Pituitary__Adrenal_and_Sex_Hormone"
+  - "I5_Weight__Lipids_and_Fluid_Balance"
+  - "NEW_Acid-Base_Fluids_and_Electrolytes"
+  - "NEW_Drugs_10_Endocrine"
+  - "NEW_Investigations_Endocrine"
+---
 
 
 <!-- ===== SOURCE: I1_Thyroid_Disease.md ===== -->

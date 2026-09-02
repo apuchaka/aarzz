@@ -1,3 +1,18 @@
+---
+aliases:
+  - "H1"
+  - "H2"
+  - "H3"
+  - "H4"
+  - "07_Renal_Medicine_and_Urology"
+  - "H1_Haematuria_and_Proteinuria"
+  - "H2_LUTS__Retention_and_Incontinence"
+  - "H3_Acute_Kidney_Injury_and_CKD"
+  - "H4_Scrotum__Groin_and_Loin"
+  - "NEW_Drugs_13_Genitourinary"
+  - "NEW_Investigations_Renal_and_Urology"
+  - "NEW_Renal_and_Urology"
+---
 
 
 <!-- ===== SOURCE: H3_Acute_Kidney_Injury_and_CKD.md ===== -->

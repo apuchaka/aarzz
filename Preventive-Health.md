@@ -1,6 +1,11 @@
 ---
 block: Shared — Preventive Health
 source: created 2026-09-01 to hold preventive-health content that was distributed across four files; GER3 moved here whole from Geriatrics_merged.md
+aliases:
+  - "GER3"
+  - "15_24b_Paeds_-_Screening__SIDS__Vaccination_Schedule"
+  - "19_General_Practice_and_Preventive_Medicine"
+  - "GER3_Preventive_and_Occupational_Health"
 ---
 
 # Preventive Health

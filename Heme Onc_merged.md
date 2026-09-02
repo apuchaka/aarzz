@@ -1,3 +1,38 @@
+---
+aliases:
+  - "J1"
+  - "J2"
+  - "J3"
+  - "J4"
+  - "J5"
+  - "10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders"
+  - "10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma"
+  - "10_03a_Haemonc_-_Primary_Immunodeficiencies"
+  - "10_03b_Haemonc_-_Acute_Intermittent_Porphyria"
+  - "10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia"
+  - "10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease"
+  - "10_06a_Haemonc_-_Macrocytic_Anaemia"
+  - "10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia"
+  - "10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia"
+  - "10_08_Haemonc_-_Blood_Products_and_Transfusion"
+  - "10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets"
+  - "10_09b_Haemonc_-_Miscellaneous_Haematology"
+  - "10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies"
+  - "10_10b_Haemonc_-_Transplant_Medicine"
+  - "10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers"
+  - "10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes"
+  - "10_11c_Oncology_-_Palliative_Care_Prescribing"
+  - "10_12_Oncology_-_Breast"
+  - "J1_Cytopenias_and_Marrow_Failure"
+  - "J2_Haemoglobinopathy_and_Haemolysis"
+  - "J3_Bleeding_and_Thrombosis"
+  - "J4_Paraproteins_and_Lymphoproliferative"
+  - "J5_Oncological_Emergencies_and_Palliative_Care"
+  - "NEW_Drugs_07_Blood_and_Electrolytes"
+  - "NEW_Drugs_14_Immunomodulators_and_Antineoplastics"
+  - "NEW_Investigations_Haematology"
+  - "NEW_Investigations_Haematology_Part2"
+---
 
 
 <!-- ===== SOURCE: J1_Cytopenias_and_Marrow_Failure.md ===== -->

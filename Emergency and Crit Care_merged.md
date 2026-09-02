@@ -1,3 +1,36 @@
+---
+aliases:
+  - "A1"
+  - "A2"
+  - "A3"
+  - "A4"
+  - "A5"
+  - "A6"
+  - "A7"
+  - "A8"
+  - "A9"
+  - "F0.1"
+  - "F0.3"
+  - "F0.4"
+  - "F0.5"
+  - "14a-2_Psych_-_Overdose_and_Poisoning_Management"
+  - "A1_Emergency_-_Deteriorating_Patient__Sepsis__Cardiac_Arrest"
+  - "A2_Airway_Compromise__Stridor_and_Tracheostomy_Emergencies"
+  - "A3_Respiratory_Failure__Bronchospasm_and_Hypoxia"
+  - "A4_Dyspnoea__Cough_and_the_Solitary_Pulmonary_Nodule"
+  - "A5_Toxicology_II_-_Poisoned_Patient__ADRs_and_Immunotherapy"
+  - "A6_Thermal_and_Environmental_Injury"
+  - "A7_Burns__Chemical_Injury__Wounds_and_Crush_Injury"
+  - "A8_Foreign_Bodies_by_Site"
+  - "A9_Transfusion__Coagulopathy_and_Anticoagulant_Emergencies"
+  - "F0-1_Toxidromes__Allergic_Emergencies_and_Envenomation"
+  - "F0-3_Shock_Phenotypes_and_Sepsis_Syndromes"
+  - "F0-4_Resuscitation_Algorithms_and_Emergency_Procedures"
+  - "F0-5_Acute_Respiratory__Headache_and_Head_Injury"
+  - "NEW_Drugs_01_Allergy_and_Anaphylaxis"
+  - "NEW_Drugs_04_Antidotes_and_Antivenoms"
+  - "NEW_Respiratory"
+---
 
 
 <!-- ===== SOURCE: F0-4_Resuscitation_Algorithms_and_Emergency_Procedures.md ===== -->

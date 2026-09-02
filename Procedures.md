@@ -1,6 +1,8 @@
 ---
 block: Shared — Procedures
 source: created 2026-09-01 as the destination for procedure content currently split across five files; EMPTY pending approval by destination
+aliases:
+  - "14_05d_Psych_-_Electroconvulsive_Therapy"
 ---
 
 # Procedures
