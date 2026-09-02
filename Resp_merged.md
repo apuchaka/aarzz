@@ -843,10 +843,13 @@ Spirometry (*why:* quantifies functional impact and tracks progression; *what:* 
 
 > [!warning] FLAG 2026-09-01 — `RESP-X` duplicates five topics `02_Respiratory` already owns
 > **This source has zero inbound references, and five of its six sections duplicate Corpus A:**
-> `§0.1 ILD` ↔ `§0.7 IPF` + `§0.7.1 zonal distribution` · `§0.2 Occupational Lung Disease` ↔
-> `§0.20 Pneumoconioses` (which calls itself a *"brief overview"* while this one is the full treatment) ·
-> `§0.3 Asbestos-Related Disease` ↔ `§0.5 Mesothelioma` + `§0.5.1` + `§0.5.2` ·
-> `§0.4 Bronchiectasis` ↔ `§0.6 Bronchiectasis` · `§0.5 Sleep-Disordered Breathing` ↔ `§0.18 OSA`.
+> `RESP-X §0.1 ILD` ↔ `02_Respiratory §0.7 IPF` + `02_Respiratory §0.7.1 zonal distribution` ·
+> `RESP-X §0.2 Occupational Lung Disease` ↔ `02_Respiratory §0.20 Pneumoconioses`
+> (which calls itself a *"brief overview"* while this one is the full treatment) ·
+> `RESP-X §0.3 Asbestos-Related Disease` ↔ `02_Respiratory §0.5 Mesothelioma`
+> + `02_Respiratory §0.5.1` + `02_Respiratory §0.5.2` ·
+> `RESP-X §0.4 Bronchiectasis` ↔ `02_Respiratory §0.6 Bronchiectasis` ·
+> `RESP-X §0.5 Sleep-Disordered Breathing` ↔ `02_Respiratory §0.18 OSA`.
 > **Not a move — a merge decision, and merging is not approved.** Each is richer in different places:
 > RESP-X on occupational history and Australian asbestos exposure, Corpus A on mesothelioma staging.
 
@@ -1269,7 +1272,7 @@ Treat the underlying cause where identified, and establish the maintenance regim
 **Alt:** Sputum or lower-respiratory specimen where there is productive cough or the patient is intubated (a **tracheal aspirate or BAL** is the better specimen in a ventilated patient); blood cultures; *Legionella* and pneumococcal **urinary antigen**; chest X-ray; serology for pertussis late in the illness.
 
 ## 0.5 Sputum Culture (with Gram Stain and Microscopy)
-`CF-PAIR` **The general specimen-collection and culture-interpretation account is `§1.18 Blood Cultures and Microbiology Basics`, co-located into `[[Infectious Disease_merged]]` beside `§0.1 Gram Stain` and `§0.2 Microbiology Panel` on 2026-09-01. Sputum culture stays here because it is respiratory. Both kept in full, NOT reconciled.**
+`CF-PAIR` **The general specimen-collection and culture-interpretation account is `Infectious Disease_merged §1.18 Blood Cultures and Microbiology Basics`, co-located there beside `§0.1 Gram Stain` and `§0.2 Microbiology Panel` on 2026-09-01. Sputum culture stays here because it is respiratory. Both kept in full, NOT reconciled.**
 
 **D:** Expectorated lower-respiratory secretions examined by **Gram stain and microscopy**, then cultured with susceptibility testing. In a ventilated patient the equivalent specimens are a **tracheal aspirate** or **bronchoalveolar lavage**.
 
