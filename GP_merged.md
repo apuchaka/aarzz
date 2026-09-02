@@ -23,7 +23,8 @@
 > **Every other section in `GP_merged.md` has a stronger home elsewhere**: the preventive-medicine half
 > belongs with `Preventive-Health.md`, and `NEW_Investigations_General_and_Preventive` is sixteen
 > general laboratory tests that belong with `Investigation-Interpretation.md`
-> (`§0.1 Inflammatory Markers` duplicates its `§1.21` outright).
+> (`NEW_Investigations_General_and_Preventive §0.1 Inflammatory Markers` duplicates
+> `Investigation-Interpretation.md §1.21` outright).
 > **This section is the one with a genuine claim to be "general practice".**
 > ⚠️ **Whether General Practice is a system or a setting is a decision for you, not a finding.**
 > Recorded, not acted on.
