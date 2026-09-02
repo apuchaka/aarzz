@@ -1,1441 +1,5 @@
 
 
-<!-- ===== SOURCE: 03_Gastrointestinal.md ===== -->
-
-
-## 0.1 Primary Sclerosing Cholangitis (PSC)
-
-**D:** Chronic, progressive, cholestatic liver disease characterised by inflammation and fibrosis of the bile ducts, causing multi-focal stricture formation.
-
-**R:** male (2:1), IBD (75%, typically UC), genetics
-
-**A/P:** likely immune-related — inflammation and injury of medium and large bile ducts → strictures → fibrosis → bile stasis → stones and liver damage
-
-**S/Smx:** abdominal pain, pruritus, fatigue, weight loss, fever, jaundice; also steatorrhoea, splenomegaly, ascites, encephalopathy
-
-**Ix:** LFTs (ALP, GGT, AST, ALT, bilirubin, albumin) (*why:* screens for and characterises the cholestatic pattern; *what:* disproportionately raised ALP/GGT relative to transaminases, the hallmark cholestatic picture). FBC, PT (*why:* baseline and screens for synthetic liver dysfunction/portal hypertension-related cytopenias as disease progresses; *what:* may show anaemia, thrombocytopenia in advanced disease; prolonged PT if synthetic function impaired). Antibodies, incl. p-ANCA (*why:* p-ANCA is positive in a majority of PSC patients and supports the diagnosis, though not specific; *what:* positive p-ANCA in ~70%). Abdominal US, MRCP, ERCP, CT — imaging is essential for diagnosis (*why:* PSC is fundamentally a radiological/cholangiographic diagnosis — visualising the characteristic multifocal biliary strictures is how the diagnosis is actually made, more so than any blood test; *what:* multifocal stricturing and beading of the intra- and/or extrahepatic bile ducts — "beaded" appearance).
-
-**Mx:**
-- **Immediate/acute** (presenting with cholangitis from a dominant stricture): treat as ascending cholangitis (see below) — antibiotics, resuscitation, urgent ERCP for decompression if obstructed.
-- **Definitive:**
-  - Conservative: lifestyle change, management of pruritus, management of hepatic osteopenia (calcium + vitamin D, bisphosphonate, HRT)
-  - ERCP and balloon dilation of a dominant stricture
-  - End-stage liver disease: liver transplant
-- **Chronic/long-term:** regular surveillance for cholangiocarcinoma and colorectal cancer (given the strong IBD association — colonoscopic surveillance is more intensive in PSC-associated IBD than IBD alone) given the significantly elevated cancer risk described in Prognosis.
-
-> [!note] Hepatic osteopenia arises from impaired bile function → reduced absorption of fat-soluble vitamins, including vitamin D.
-
-**P:** high risk of cirrhosis and attendant problems, cholangiocarcinoma, other cancers, and osteoporosis; increased morbidity — median survival from diagnosis to death or liver transplant is 7–14 years. Can recur in 10–20% of patients post-transplant.
-
----
-
-## 0.2 Primary Biliary Cholangitis (PBC)
-
-**D:** Chronic disease of the small intrahepatic bile ducts, characterised by progressive bile duct damage (and eventual loss) occurring in the context of chronic portal tract inflammation.
-
-**R:** female (10:1), >45yo, personal or family history of autoimmune disorders
-
-**A/P:** autoimmune disease — antimitochondrial antibodies (95%). Biliary epithelial cell damage/destruction + chronic portal tract inflammation → bile stasis, fibrosis, cirrhosis.
-
-**S/Smx:** abdominal pain, pruritus, fatigue, weight loss, fever, jaundice; also steatorrhoea, splenomegaly, ascites, encephalopathy
-
-**Dx based on:**
-1. Cholestatic LFTs
-2. Auto-antibodies — antimitochondrial antibodies or PBC-characteristic ANA
-3. Compatible/diagnostic liver histology on biopsy — classic bile duct lesions, portal tract inflammation, granuloma formation
-
-**Ix:** LFTs (*why:* screens for the characteristic cholestatic pattern; *what:* raised ALP/GGT), FBC, PT (*why:* baseline and screens for progression to synthetic dysfunction/portal hypertension; *what:* may show cytopenias/prolonged PT in advanced disease), antimitochondrial antibodies (*why:* the key serological diagnostic test, positive in the large majority of PBC; *what:* positive in ~95%), PBC-characteristic ANA if AMA-negative (*why:* an alternative serological marker when AMA is negative but PBC is still suspected; *what:* specific ANA patterns support the diagnosis), MRCP (*why:* excludes an extrahepatic biliary obstructive cause and helps distinguish from PSC, since PBC is a small-duct disease not visible as strictures on cholangiography; *what:* typically normal biliary tree, unlike PSC), liver biopsy (*why:* confirms the diagnosis and stages disease when serology is equivocal or diagnosis needs histological confirmation; *what:* classic bile duct lesions, portal tract inflammation, granuloma formation).
-
-**Mx:**
-- **Definitive (no separate acute tier — chronic, slowly progressive disease):** ursodeoxycholic acid (bile acid analogue, reduces cholesterol saturation of bile) — first-line, disease-modifying; ± obeticholic acid for inadequate response. See also general Mx of PSC for end-stage disease (liver transplant).
-- **Symptom-targeted (pruritus):** colestyramine (bile acid sequestrant, increases bile excretion — bad taste), naltrexone, rifampicin.
-
-> [!warning] Avoid antihistamines — no effect on PBC pruritus.
-
-- **Chronic/long-term:** monitor for progression to cirrhosis and its complications; bone density monitoring given osteoporosis risk (as for PSC); liver transplant assessment for end-stage disease.
-
-**P:** increased mortality from liver and non-liver related causes (possibly linked to inflammation); reduced quality of life (itch and fatigue); disease may progress slowly and patient may not suffer heavily from it.
-
----
-
-## 0.3 Acute Cholecystitis
-
-**D:** acute inflammation of the gallbladder ("cystitis").
-
-**R:** gallstones, severe illness, TPN, DM
-
-**A:** 90% due to gallstones
-
-**P:** obstruction causes acute inflammation of the gallbladder.
-
-> [!note] Jaundice does not normally occur, as bile can still pass into the cystic ducts — occurs only in Mirizzi's syndrome, where gallbladder inflammation increases pressure on contiguous biliary ducts.
-
-**S/Smx:** RUQ pain and tenderness, Murphy's sign positive, palpable mass (rare), signs/symptoms of inflammation
-
-**Ix:** labs — LFT usually normal (*why:* helps distinguish uncomplicated cholecystitis from choledocholithiasis/cholangitis, where LFTs would be deranged; *what:* typically normal or mildly deranged, unlike the cholestatic picture of duct obstruction), inflammatory markers (*why:* supports the inflammatory diagnosis; *what:* raised WCC/CRP). US (*why:* first-line imaging, good sensitivity for gallstones and can show secondary signs of cholecystitis; *what:* gallstones, gallbladder wall thickening >3mm, pericholecystic fluid, sonographic Murphy's sign). MRCP ± ERCP (*why:* reserved for suspected concurrent common bile duct stones/obstruction, since routine US doesn't reliably visualise the CBD; *what:* CBD stone/dilation if present).
-
-**Mx:**
-- **Immediate/acute:** IV antibiotics, analgesia, IV fluids as needed for the acute inflammatory episode.
-- **Definitive:** early laparoscopic cholecystectomy (within 1 week of presentation — earlier surgery reduces complications/conversion-to-open rates compared to delayed interval surgery).
-- **Chronic/long-term:** if unfit for surgery, long-term ursodeoxycholic acid as a non-surgical alternative to reduce stone-related symptoms/recurrence, though this doesn't address the gallbladder inflammation itself as definitively as cholecystectomy.
-
-### 0.3.1 Acalculous cholecystitis
-**D:** gallbladder inflammation with no gallstones; associated with ongoing illness (e.g. DM, organ failure).
-**S/Smx:** patient more unwell than typical cholecystitis — high fever, shock
-**Mx:**
-- **Immediate/acute:** treat the underlying critical illness, resuscitation, IV antibiotics; percutaneous cholecystostomy if the patient is too unstable for surgery.
-- **Definitive:** cholecystectomy once stable enough for surgery.
-
-### 0.3.2 Biliary colic
-Spasmodic pain from contraction of the gallbladder or biliary ducts around gallstones.
-> [!tip] "Fat, female, fertile, and in their forties"
-Patient is systemically well, but can progress to acute cholecystitis. **Mx — definitive:** elective cholecystectomy to manage the root cause once diagnosed, rather than waiting for progression to acute cholecystitis.
-
----
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Ascending Cholangitis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## 0.5 Liver Cancers
-
-### 0.5.1 Hepatocellular Carcinoma (HCC)
-
-**D:** aka hepatoma — primary cancer arising from hepatocytes, predominantly in cirrhotic liver. 3rd most common cause of cancer worldwide.
-
-**R:** cirrhosis, chronic HBV (most common cause worldwide), HCV (most common in Europe), increased alcohol use, DM, obesity, family history
-
-**A/P:** chronic inflammation and cirrhosis — any condition leading to cirrhosis is a risk factor.
-
-**S/Smx:** tends to present late — cirrhosis symptoms (jaundice, ascites, RUQ pain, hepatomegaly, pruritus, splenomegaly), may present decompensated; raised AFP.
-
-**Ix:** screening US (± AFP) considered for high-risk groups (existing cirrhosis) (*why:* surveillance in at-risk patients detects HCC at an earlier, potentially curable stage, since symptomatic presentation usually means advanced disease; *what:* a new liver lesion on surveillance US, with AFP as a supportive but imperfect marker — not all HCC secretes AFP). CT/MRI with contrast (*why:* used to characterise a lesion found on screening US and stage disease; *what:* characteristic arterial-phase hyperenhancement with washout, often diagnostic without biopsy in the right clinical context).
-
-**Mx:**
-- **Definitive (staged by extent/liver function, not a simple acute/chronic split):**
-  - Early disease (single lesion, preserved liver function): surgical resection or liver transplantation (transplant addresses both the tumour and the underlying cirrhosis).
-  - Localised disease not suitable for resection: radiofrequency ablation, transarterial chemoembolisation (TACE).
-  - Advanced/unresectable disease: sorafenib (multikinase inhibitor) or other systemic therapy.
-- **Chronic/long-term:** ongoing surveillance for recurrence post-treatment; manage the underlying liver disease (antiviral therapy for HBV/HCV, alcohol cessation) to slow further liver damage.
-
-**P:** 5-year survival for symptomatic HCC is 0–10% (very aggressive); overall 5-year survival is 20%.
-
-### 0.5.2 Cholangiocarcinoma
-
-**D:** aka biliary tree cancer — cancer arising from bile duct epithelium; divided into intrahepatic or extrahepatic.
-
-**R:** >50yo, cholangitis (especially primary sclerosing cholangitis), other bile duct problems
-
-**A/P:** >95% adenocarcinomas; most are infiltrating nodular or diffusely infiltrating.
-
-**S/Smx:** persistent biliary colic-type symptoms, anorexia, jaundice, weight loss, palpable RUQ mass, ± Sister Mary Joseph nodes (periumbilical) and Virchow's nodes (left supraclavicular); raised Ca19-9 (useful in PSC patients).
-
-**Ix:** LFTs (*why:* screens for the cholestatic pattern from biliary obstruction; *what:* raised ALP/GGT/bilirubin). Ca19-9 (*why:* a tumour marker particularly useful for monitoring in known PSC patients, where a rising level raises suspicion of malignant transformation; *what:* elevated, though non-specific — also raised in benign cholestasis). CEA, Ca-125 (*why:* adjunct tumour markers, sometimes raised and used alongside Ca19-9; *what:* may be elevated). Abdominal US (*why:* initial screen for a mass/duct dilation; *what:* biliary dilation proximal to the obstructing lesion). CT/MRI (*why:* defines the extent of disease and resectability, essential for staging/surgical planning; *what:* defines tumour extent, vascular involvement, and nodal/distant spread).
-
-**Mx:**
-- **Definitive:** surgery if resectable (the only potentially curative option); if unresectable — liver transplant (in carefully selected cases, particularly for hilar cholangiocarcinoma under specific protocols) ± chemo/radiotherapy if possible.
-- **Chronic/long-term:** palliation (biliary stenting for obstruction, symptom control) if extensive/unresectable disease.
-
-### 0.5.3 Primary liver tumours summary
-**Malignant** (poor prognosis regardless of type): HCC, cholangiocarcinoma, angiosarcoma, hepatoblastoma, fibrosarcoma, hepatic GIST
-
-**Benign:** cysts, haemangioma (common, F>M 5:1), adenoma (common — treat only if symptomatic or >5cm), focal nodular hyperplasia, fibroma, benign GIST (leiomyoma)
-
-**Secondary (metastatic) liver tumour origins:**
-- Common in men: stomach, lung, colon
-- Common in women: breast, colon, stomach, uterus
-- Less common in either: pancreas, leukaemia, lymphoma, carcinoid tumours
-
----
-
-## 0.6 Alcohol-Related Liver Disease (ArLD)
-
-**D:** liver damage caused by chronic heavy alcohol intake. 3 stages: steatosis, alcoholic hepatitis (inflammation & necrosis), and alcoholic liver cirrhosis.
-
-**R:** increased alcohol use, hepatitis C, female (most cases are male, but women have lower alcohol tolerance)
-
-**S/Smx:** may be asymptomatic until decompensation.
-- Abdominal pain, hepatomegaly
-- Decompensated liver disease: haematemesis, melaena, venous collaterals (e.g. spider naevi), splenomegaly, jaundice, palmar erythema, asterixis, ascites, hepatic encephalopathy
-
-**A/P:** upregulation of alcohol and acetaldehyde dehydrogenase reduces NAD to NADH → increased NADH:NAD ratio inhibits gluconeogenesis and increases fatty acid oxidation → fatty infiltration of liver. Upregulation of CYP2E1 generates more free radicals; increased TNF-α and ROS in Kupffer cell mitochondria drive inflammatory liver damage.
-
-**Ix:** LFTs (*why:* screens for the characteristic pattern of alcohol-related liver injury; *what:* AST:ALT >2 in 70% of cases — a pattern more specific to alcohol than most other liver diseases; ↑ALP & GGT associated with cholestasis, GGT particularly sensitive to alcohol use). FBC (*why:* screens for macrocytic anaemia (direct alcohol marrow toxicity, folate deficiency) and thrombocytopenia (portal hypertension/splenic sequestration, or direct marrow suppression); *what:* macrocytosis, possible cytopenias). U&Es incl. Mg, PO4 (*why:* screens for electrolyte disturbances common in heavy drinkers relevant to withdrawal seizure risk and general morbidity; *what:* ↓Na in advanced ALD; ↓K, ↓Mg — muscle weakness; ↓Mg can cause persistent hypokalaemia, predisposing to seizures during alcohol withdrawal). Clotting (*why:* screens for synthetic liver dysfunction; *what:* prolonged PT/INR reflects reduced hepatic synthetic function). Hepatic US (*why:* screens for steatosis, cirrhosis, and complications (varices, ascites, HCC); *what:* fatty infiltration, nodular/cirrhotic architecture in advanced disease). Consider ammonia (*why:* supports a diagnosis of hepatic encephalopathy if relevant clinically; *what:* elevated, though level doesn't correlate well with encephalopathy severity), folate (*why:* commonly deficient in heavy drinkers, contributing to anaemia; *what:* often low), viral hepatitis serology (*why:* excludes/identifies a concurrent contributing cause; *what:* screens for co-existing HBV/HCV), liver biopsy (*why:* reserved for diagnostic uncertainty or to formally stage fibrosis; *what:* steatosis, inflammation, or fibrosis/cirrhosis depending on stage).
-
-**Complications:** hepatic encephalopathy, portal HTN (+ oesophageal varices), GI bleeds, coagulopathy, renal failure, hepatorenal syndrome, sepsis.
-
-> [!note] Hepatorenal syndrome — kidneys receive markedly reduced blood flow in response to altered hepatic blood flow, which reduces MAP due to extreme vasodilation.
-
-**Mx (of ArLD generally):**
-- **Immediate/acute:** manage decompensation as it presents — see the specific complication sections below (varices, ascites, encephalopathy, SBP) for tiered Mx of each.
-- **Definitive:** alcohol cessation is the single most important intervention at any stage — abstinence can allow significant regression of steatosis and even some improvement in early fibrosis; specialist addiction medicine/counselling referral.
-- **Chronic/long-term:** nutritional support (thiamine, folate, multivitamins — heavy drinkers are often malnourished), surveillance for HCC and varices once cirrhosis is established, liver transplant assessment for end-stage disease (typically requires a period of proven abstinence per transplant program criteria).
-
-### 0.6.1 Alcohol withdrawal
-
-> [!warning] FLAG 2026-09-01 — `M-5` alcohol withdrawal is in four places across three files
-> **This is the AU-verified core and the one other files point at.** `Psychiatry_merged.md:934` and
-> `:938` cite it by name — *"the full AU-verified management (diazepam-based…)"* — and `GP_merged.md:113`,
-> `Neuro_merged.md:805` and `:806` also point here.
-> **The other three copies:** `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` and
-> `14a-1 ## Alcohol use disorder`, both now in `Psychiatry_merged.md`; and
-> `04_Neurology ### Alcohol Withdrawal Seizures` in `Neuro_merged.md`.
-> **The GI flags file recorded three; the Neuro pass found the fourth.**
-Symptoms brought on by abstinence in an alcohol-dependent person; characterised by overactivity of the sympathetic nervous system.
-
-**A/P:** chronic alcohol use → upregulation of NMDA receptors, downregulation of GABA receptors → falling blood ethanol concentration creates imbalance between stimulatory NMDA and inhibitory GABA systems → excessive stimulatory effect → withdrawal symptoms.
-
-**Dx:** usually clinical (history, examination).
-- Symptoms start at 6–12h, usually autonomic (tremor, sweating, ↑HR, anxiety)
-- Seizures — peak incidence at 36h
-- Delirium tremens — peak incidence at 48–72h (coarse tremor, confusion, delusions, auditory/visual hallucinations, fever, ↑HR)
-
-> [!info] **Withdrawal severity scoring — the Australian instruments first.**
-> **Clinical Institute Withdrawal Assessment for Alcohol, revised (CIWA-Ar)** — the most widely used tool in Australian practice, published as a standard chart by SA Health, WA Health and NSW Health. 10 items, max 67 points. **<10 mild · 10–20 moderate · >20 severe**, with monitoring frequency escalating accordingly (at least 4-hourly above 10; 1–2 hourly above 20).
-> **Alcohol Withdrawal Scale (AWS)** — the other instrument named in NSW Health guidance, used interchangeably with CIWA-Ar depending on the service's own chart.
->
-> *(The **Glasgow Modified Alcohol Withdrawal Scale (GMAWS)** — 0–2 points each for tremor, sweating, hallucinations, orientation, agitation — is a **UK/NHS Scotland** tool and previously led this box. It does not appear in Australian guidance; retained here only so the abbreviation is recognisable if met in UK-sourced material. **Score with CIWA-Ar or AWS, whichever your service's chart uses.** See `PENDING_GUIDELINE_CHECKS.md` B42.)*
-
-> [!info] Verified against NSW Health/WA Mental Health Commission alcohol withdrawal guidelines and DACAS, Aug 2026 — Australian practice differs in a few specifics from the UK regimen this entry previously carried; the Australian regimen is stated here on its own terms.
-> **Mx if CIWA-Ar ≥10 (or the equivalent trigger on your service's AWS chart) (Immediate/acute tier — this condition doesn't have a separate definitive/chronic pharmacological tier beyond the withdrawal episode itself, though relapse-prevention pharmacotherapy is covered under chronic ArLD Mx above):**
-> - Admit under medicine if complex withdrawal (DT, seizures, etc.)
-> - **Diazepam is the benzodiazepine of choice in Australia** — chlordiazepoxide is not registered/available in Australia, so don't reach for it as first-line the way UK sources do; a typical regimen is diazepam 10–20mg 6-hourly, tapering over 5–7 days (community/ambulatory setting) or a loading-dose/symptom-triggered regimen guided by CIWA-Ar in hospital. Lorazepam preferred if significant liver impairment (less dependent on hepatic metabolism); phenobarbitone or antipsychotics (e.g. olanzapine) considered as adjuncts for severe/refractory agitation, not carbamazepine as a routine alternative.
-> - Thiamine — IV/IM thiamine (typically 300mg) to prevent/treat Wernicke's/Korsakoff syndrome; Australia doesn't use the UK's "Pabrinex" branded product — just prescribe thiamine directly, higher parenteral doses for treatment of suspected Wernicke's, oral maintenance thereafter (e.g. 100mg tds).
-
-### 0.6.2 Ascites (in ArLD)
-Abnormal fluid collection in the abdomen; in ArLD, secondary to portal hypertension.
-
-**Ix:** diagnostic paracentesis (*why:* essential first step in any new ascites to determine the cause and exclude SBP; *what:* serum-ascites albumin gradient (SAAG) ≥11g/L supports portal hypertension as the cause; see SBP below for the infection-specific interpretation).
-
-**Mx:**
-- **Immediate/acute:** drainage of tense/symptomatic ascites — for large-volume paracentesis (>5L), IV albumin required to prevent post-paracentesis circulatory dysfunction and death.
-- **Definitive/chronic:** ↓dietary sodium ± fluid restriction; aldosterone antagonists (e.g. spironolactone) ± loop diuretics; prophylactic PO ciprofloxacin to prevent spontaneous bacterial peritonitis (in select high-risk patients); consider TIPSS for refractory ascites.
-
-### 0.6.3 Hepatic encephalopathy
-Neuropsychiatric syndrome caused by acute or chronic advanced hepatic insufficiency — likely due to excess ammonia and glutamine; metabolic encephalopathy (↑NH4), brain atrophy and/or oedema.
-
-> [!info] Grading
-> **Grade 1:** trivial lack of awareness, sleep rhythm alterations, shortened attention span, impaired addition/subtraction, euphoria or anxiety
-> **Grade 2:** confusion and inappropriate behaviour
-> **Grade 3:** incoherent and restless
-> **Grade 4:** coma
-
-**Mx:**
-- **Immediate/acute:** identify and treat the precipitant (e.g. infection, GI bleed, constipation, electrolyte disturbance, sedative drugs) — encephalopathy is very often precipitant-driven rather than a spontaneous progression, and treating the trigger is as important as the ammonia-lowering therapy itself.
-- **Definitive:** lactulose (increases NH4 excretion via catharsis) + rifaximin (decreases NH4 production by altering gut flora — added for secondary prophylaxis/recurrent episodes, and in refractory cases).
-- **Chronic/long-term:** ensure adequate protein intake (historic protein restriction is now avoided — malnutrition worsens outcomes; the target is treating the precipitant, not starving the patient of protein), ongoing lactulose titrated to 2–3 soft stools/day.
-
-### 0.6.4 Varices and bleeding
-Secondary to portal hypertension causing distension of oesophageal veins → increased bleeding risk and death risk.
-
-**Mx:**
-- **Immediate/acute:** ABCDE + resuscitation; correct clotting (FFP, platelets); terlipressin (2nd line: octreotide); prophylactic antibiotics (quinolones — reduces mortality and rebleeding, given the high infection risk in this setting); endoscopy ± band ligation, Sengstaken-Blakemore tube if uncontrolled, TIPSS if bleeding cannot be controlled otherwise.
-
-> [!info] **TIPSS — what it is, since the corpus prescribes it without ever saying.** **TIPSS = transjugular intrahepatic portosystemic shunt**: a stent placed via the jugular vein through the liver, connecting the portal to the hepatic venous system. *The mechanism:* it decompresses the portal system directly, which is why it works for variceal bleeding and for diuretic-resistant ascites where drug therapy addresses the consequences rather than the pressure.
->
-> **Its cost is the same mechanism running the other way.** Portal blood now bypasses the liver, so it is no longer detoxified — **encephalopathy is the characteristic complication**, occurring in a substantial minority, and it is worse in patients who already have poor hepatic reserve. That is the link back to the severity scores above: a high Child-Pugh or MELD makes TIPSS both more likely to be needed and more likely to be tolerated badly, which is why the decision sits with hepatology rather than with the admitting team.
-- **Definitive:** endoscopic band ligation to eradicate varices once the acute bleed is controlled.
-- **Chronic/long-term (prophylaxis, primary and secondary):** non-selective β-blocker (e.g. propranolol), endoscopic variceal band ligation programme, TIPSS for refractory cases.
-
-### 0.6.5 Alcoholic hepatitis
-Acute episodes of inflammation.
-**S/Smx:** rapid onset of jaundice, malaise, tender hepatomegaly
-**Ix:** LFTs (*why:* supports the diagnosis via the characteristic pattern; *what:* AST:ALT >2, as for ArLD generally). Maddrey's discriminant function (*why:* risk-stratifies to identify patients who will benefit from steroid therapy vs those where the risk isn't justified; *what:* a score above threshold indicates severe disease warranting steroid consideration).
-**Mx:**
-- **Immediate/acute:** glucocorticoids for those meeting Maddrey's discriminant function threshold for severe disease (weighing infection risk, since these patients are often already immunocompromised/at infection risk); pentoxifylline as an alternative/adjunct in some guidelines, particularly if steroids contraindicated.
-- **Chronic/long-term:** alcohol cessation is essential to prevent recurrence and progression to cirrhosis.
-
-### 0.6.6 Spontaneous bacterial peritonitis (SBP)
-**D:** peritonitis occurring in patients with ascites secondary to liver cirrhosis; most commonly caused by *E. coli*.
-**S/Smx:** ascites, abdominal pain, fever
-**Dx/Ix:** paracentesis (*why:* the diagnostic test — SBP is defined by ascitic fluid neutrophil count, not by clinical picture alone since presentation can be subtle/atypical; *what:* neutrophil count >250 cells/µL + culture, though culture is often negative despite a diagnostic neutrophil count).
-**Mx:**
-- **Immediate/acute:** IV cefotaxime (or another third-generation cephalosporin per local protocol) — empirical, started promptly given the risk of rapid deterioration; IV albumin co-administration reduces the risk of hepatorenal syndrome and improves survival in SBP specifically (an important addition beyond antibiotics alone).
-- **Chronic/long-term (prophylaxis):** PO ciprofloxacin or norfloxacin if: previous episode of SBP, or fluid protein <15g/L and Child-Pugh score ≥9 or hepatorenal syndrome.
-
----
-
-## 0.7 Wilson's Disease
-
-**D:** autosomal recessive disorder of excessive copper deposition.
-
-**R:** ATP7B gene mutation, family history
-
-**A/P:** ATP7B encodes a metal P-type ATPase for transmembrane copper transport within hepatocytes. Absent protein → reduced hepatic copper excretion + copper overload in hepatocytes + overflow into circulation/organs.
-
-**S/Smx (secondary to copper deposition in organs):** onset 10–25yo — children usually present with liver disease, adolescents with psychiatric symptoms.
-- Liver: hepatitis, cirrhosis
-- Neurological: basal ganglia degeneration; speech, behavioural, psychiatric problems (e.g. depression, mania); asterixis, chorea, dementia, parkinsonism
-- Kayser-Fleischer rings (50% overall, 90% in those with neuro involvement)
-- Renal tubular acidosis (especially Fanconi syndrome)
-- Haemolysis, blue nails
-
-**Ix:** slit-lamp eye exam (*why:* screens for Kayser-Fleischer rings, a specific sign of copper deposition; *what:* golden-brown rings at the corneal limbus, present in the majority with neuro involvement, less common without). Serum caeruloplasmin (*why:* the main copper-carrying protein, typically low since ATP7B is also needed for its synthesis; *what:* reduced). Total serum copper (*why:* screens as part of the copper-studies workup, though free (non-caeruloplasmin-bound) copper is actually elevated despite total serum copper being low — an important nuance; *what:* low total serum copper). 24h urinary copper excretion (*why:* reflects the elevated free copper being filtered by the kidneys, a key diagnostic/monitoring test; *what:* elevated). Genetic analysis (*why:* confirms the diagnosis definitively, especially useful for family screening once a proband's mutation is known; *what:* identifies ATP7B mutations).
-
-**Mx:**
-- **Definitive/chronic (no separate acute tier — this is a chronic, lifelong condition unless presenting in fulminant liver failure — see below):** copper chelation — penicillamine (chelates copper, historically first-line but with a significant side-effect profile including a risk of neurological worsening on initiation), trientine hydrochloride (better tolerated alternative, increasingly preferred first-line), ?tetrathiomolybdate (newer agent, particularly of interest for neurological presentations given a lower risk of paradoxical neurological worsening).
-- **Chronic/long-term:** zinc salts as maintenance therapy or in asymptomatic/pre-symptomatic patients (reduces intestinal copper absorption); low-copper diet (avoid shellfish, liver, nuts, chocolate); lifelong therapy required — untreated or non-adherent disease progresses to liver failure and irreversible neurological damage; liver transplant for fulminant liver failure or decompensated cirrhosis unresponsive to medical therapy (transplant is curative, since it corrects the underlying hepatic metabolic defect); family screening (siblings especially, given autosomal recessive inheritance) once a proband is diagnosed.
-
----
-
-## 0.8 Haemochromatosis
-
-**D:** autosomal recessive disorder — dysregulated dietary iron absorption and increased iron release from macrophages.
-
-**R:** middle age, M>F, Caucasian (1:10 carry the mutation; 1:200 prevalence — more common than CF), family history
-
-**A/P:** HFE gene mutation (chromosome 6) → increased iron absorption.
-
-**S/Smx:**
-- Early: fatigue, erectile dysfunction, arthralgia (often of the hands)
-- 'Bronze' skin pigmentation
-- Diabetes mellitus
-- Liver: stigmata of chronic liver disease, hepatomegaly, cirrhosis, hepatocellular deposition
-- Cardiac failure (secondary to dilated cardiomyopathy)
-- Hypogonadism (secondary to cirrhosis and pituitary dysfunction — hypogonadotrophic hypogonadism)
-
-**Complications:**
-- Reversible: cardiomyopathy, skin pigmentation
-- Irreversible: cirrhosis, DM, hypogonadism, arthropathy
-
-**Ix:** iron studies (*why:* the first-line screening test, and transferrin saturation is the most sensitive early marker; *what:* ↑transferrin saturation >50–55%, ↑ferritin (can be normal early in disease — don't rely on ferritin alone to exclude it), ↓TIBC). Genetic testing for HFE mutation (*why:* confirms the diagnosis once iron studies are suggestive, and is used for family cascade screening; *what:* identifies C282Y homozygosity (most common) or compound heterozygosity). LFTs (*why:* screens for hepatic involvement/progression to fibrosis; *what:* may be deranged with hepatic iron deposition). Liver biopsy (*why:* historically used to quantify hepatic iron and stage fibrosis, now largely reserved for cases with diagnostic uncertainty or to assess fibrosis severity when non-invasive markers are inconclusive, since genetic testing has largely replaced biopsy for diagnosis; *what:* quantifies hepatic iron concentration and fibrosis stage).
-
-**Mx:**
-- **Definitive/chronic (no separate acute tier — a chronic iron-overload condition):** venesection (tailored to reduce transferrin saturation <50%, ferritin <50 µg/L) — first-line, effective, and low-cost; typically weekly initially then reducing frequency for maintenance once targets are reached.
-- **Alternative/adjunct:** desferrioxamine (iron chelation) for patients unable to tolerate venesection (e.g. significant anaemia, cardiac impairment limiting removal volumes).
-- **Chronic/long-term:** family screening (iron studies ± HFE genetic testing in first-degree relatives) given autosomal recessive inheritance; surveillance for HCC once cirrhosis develops (haemochromatosis-related cirrhosis carries a significant HCC risk even after iron depletion); manage complications (DM, cardiomyopathy, hypogonadism) as they arise — note cardiomyopathy and skin pigmentation are reversible with treatment, but cirrhosis, DM, hypogonadism and arthropathy are not, which is why early diagnosis (often via family screening) matters more than treating established complications.
-
----
-
-## 0.9 Hepatitis
-
-### 0.9.1 Hepatitis A
-
-**D:** liver infection caused by HAV, an RNA virus transmitted via the faecal-oral route.
-
-**R:** travel to endemic areas, consumption of contaminated food/water, MSM, IVDU, childcare centre attendance
-
-**A/P:** virus replicates in hepatocytes; cellular damage may be mediated by Th1 response.
-
-**S/Smx:** onset ~2–4 weeks after infection; prodromal illness (fever, nausea/vomiting, bowel changes, flu-like symptoms) before jaundice; hepatomegaly and RUQ pain in 70–80% of symptomatic patients; clay-coloured stools.
-
-**Ix:** LFTs (AST, ALT, bilirubin) (*why:* screens for and quantifies the degree of hepatocellular injury; *what:* markedly elevated transaminases, hyperbilirubinaemia). U&E (*why:* baseline, screens for dehydration from vomiting/reduced intake; *what:* usually normal unless significantly unwell). PT (*why:* screens for synthetic liver dysfunction, relevant to excluding fulminant hepatitis; *what:* prolongation would be concerning for severe/fulminant disease). IgM anti-HAV (*why:* confirms acute/recent infection; *what:* positive in acute infection, becomes negative over months). Consider PCR (*why:* can be used for early detection or public health/outbreak investigation; *what:* detects viral RNA directly).
-
-**Mx:**
-- **Immediate/acute (confirmed infection):** supportive symptomatic care (e.g. paracetamol, metoclopramide, chlorpheniramine); avoid alcohol; avoid work/school until non-infectious (~7 days after symptom onset); good hygiene to reduce spread (notify public health per state requirements — HAV is a notifiable disease).
-- **Chronic/long-term:** no chronic phase for Hepatitis A (unlike B/C) — monitor for the rare prolonged/relapsing course or (very rarely) fulminant hepatic failure requiring transplant assessment.
-
-> [!info] Verified against the Australian Immunisation Handbook, Aug 2026 — Australian risk groups and schedule differ in some specifics from the UK list this entry previously carried; the Australian ones are stated here on their own terms.
-> **Schedule:** 2-dose schedule, minimum 6-month interval between doses (not a single dose + booster).
-> **Australian risk groups** (broader/different emphasis than the UK list): Aboriginal and Torres Strait Islander children living in the NT, Qld, SA, or WA (a distinctly Australian-specific recommendation, funded under the National Immunisation Program); people with chronic liver disease of any aetiology (including chronic hepatitis B/C, given high case-fatality if hepatitis A is acquired on top); people with developmental disabilities; occupational risk — people who live/work in remote Aboriginal and Torres Strait Islander communities in the NT/Qld/SA/WA, and early childhood education/care staff; travellers ≥1yo to hepatitis A-endemic areas; lifestyle risk (including MSM, who may be offered the combined hepatitis A/B vaccine if non-immune to both). IVDU is not singled out the same way as in the UK list, though would generally fall under lifestyle-risk.
-
-**P:** 85% full recovery within 3 months, nearly all recover within 6 months. 10–20% of symptomatic patients may have a prolonged course. Fulminant course very rare.
-
-### 0.9.2 Hepatitis B
-
-**D:** liver infection caused by HBV, a dsDNA virus transmitted by blood, sexual activity, or vertically.
-
-**R:** perinatal exposure, high-risk sexual behaviours, IVDU, birth in an endemic region, family history, history of incarceration
-
-**A/P:** liver damage likely secondary to the host's immune response to viral antigens.
-
-**S/Smx:** incubation 6–20 weeks; may be asymptomatic. Acute episode: fever, jaundice, ↑LFTs.
-
-**Long-term complications:** chronic hepatitis (5–10%), fulminant liver failure (1%), HCC, glomerulonephritis, polyarteritis nodosa, cryoglobulinaemia.
-
-> [!danger] A genuine, severe Australian health equity issue with a specific, actionable screening threshold — not a generic epidemiological footnote. **Chronic hepatitis B (CHB) prevalence in Aboriginal and Torres Strait Islander Australians is 2–6 times higher than the general population** (nationally around 2.0% vs 0.9%), with the Northern Territory carrying the highest burden in the country (around 1.84% vs 0.86% nationally) — this contributes to a **4–6 times higher incidence of hepatocellular carcinoma (HCC)** in this population, and CHB is present in roughly a quarter of HCC cases diagnosed in Indigenous Australians, compared to around 10% in non-Indigenous Australians with HCC.
-> - **Why chronicity risk is disproportionately higher**: a greater proportion of HBV transmission in this population has historically occurred perinatally or in early childhood — and infection acquired in infancy/early childhood carries a substantially higher risk of progressing to chronic infection than infection acquired as an adult, which is a major driver of the higher CHB prevalence even independent of overall transmission rates.
-> - **A genuinely specific, different screening threshold worth knowing**: **Australian guidelines recommend 6-monthly HCC surveillance ultrasound for *all* Aboriginal and Torres Strait Islander Australians living with CHB aged ≥50**, regardless of cirrhosis status — a lower and more inclusive trigger than the general population approach (which typically centres on cirrhosis or other specific risk factors, as in the Mx below) — this reflects Northern Territory linkage data showing a steep rise in HCC incidence specifically once Aboriginal Australians with CHB pass age 50.
-> - **A genuinely positive, Australia-specific historical note**: universal infant HBV vaccination actually began in the Northern Territory in 1990 (with targeted screening/vaccination from 1985), a full decade before the national rollout in 2000 — reflecting where the clinical need was most acute, and an example of the health system responding directly to a documented disparity.
-
-**Ix:** LFTs (*why:* screens for and quantifies hepatocellular injury; *what:* elevated transaminases in acute infection). FBC, U&Es (*why:* baseline and screens for systemic involvement; *what:* usually unremarkable unless complications present). Coagulation profile (*why:* screens for synthetic dysfunction, relevant to excluding fulminant hepatitis; *what:* prolonged PT/INR would indicate severe disease). HBV serology (*why:* the key diagnostic and staging tool — determines acute vs chronic vs past infection vs vaccination status; *what:* see serology panel below). If severe liver damage suspected — US, CT (*why:* assesses for cirrhosis/HCC in chronic infection; *what:* nodular liver architecture, mass lesions), biopsy (*why:* stages fibrosis/inflammation when needed, particularly in chronic infection to guide treatment decisions; *what:* chronic hepatitis shows ground-glass hepatocytes on histology — reflecting HBsAg accumulation).
-
-> [!info] Hepatitis B serology
-> - **HBsAg:** acute infection + infectious
-> - **HBsAb/anti-HBs:** protected against infection (previous infection or vaccinated) — HBs is the vaccine antigen, so isolated HBsAb positivity indicates vaccination
-> - **HBcAb:** previous or current infection
-> - **IgM anti-HBc:** acute infection
-> - **IgG anti-HBc:** past infection
-
-**Mx:**
-- **Immediate/acute:** supportive care for the acute episode — most immunocompetent adults clear the infection without antiviral treatment (see Prognosis).
-- **Definitive (chronic infection):** pegylated interferon-α, or oral antivirals (e.g. tenofovir, entecavir) — chosen based on viral load, liver damage, and patient factors; liver transplant for decompensated cirrhosis/fulminant failure.
-- **Chronic/long-term:** regular surveillance (6-monthly US ± AFP) for HCC in chronic carriers, especially with cirrhosis or other risk factors; screen household/sexual contacts and offer vaccination to non-immune contacts.
-
-> [!danger] IMMUNISATION is key for prevention.
-
-**P:** 95% of immunocompetent patients with acute infection achieve seroconversion without treatment. Rarely, liver failure, cirrhosis. HBV accounts for 50% of HCC cases worldwide.
-
-### 0.9.3 Hepatitis C
-
-**D:** liver infection caused by HCV, an RNA virus transmitted by blood, sexual activity, or vertically. Chronic infection = ≥6 months of persistent serum HCV RNA.
-
-**R:** needle stick injury (2% transmission), perinatal exposure (6%, higher risk if HIV+ve), high-risk sexual behaviours (~5%), IVDU, heavy alcohol use, HIV, incarceration
-
-**A/P:** majority of patients fail to clear the virus, leading to progressive liver damage — hepatic inflammation and fibrosis due to inflammatory reaction.
-
-**S/Smx:** incubation 6–9 weeks; 30% develop symptoms during acute episode (flu-like illness, jaundice, ↑LFTs); fulminant hepatic failure very rare.
-
-**Chronic hepatitis C (55–85% of cases):** arthralgia, arthritis, Sjögren's-like features, cirrhosis (5–20%), HCC, cryoglobulinaemia, porphyria cutanea tarda, glomerulonephritis.
-
-**Ix:** HCV antibody enzyme immunoassay (*why:* first-line screening test; *what:* positive indicates past or current exposure — does not distinguish active from cleared infection). PCR (*why:* confirms active/current infection and quantifies viral load, distinguishing true infection from a cleared exposure with residual antibody; *what:* detectable HCV RNA confirms active infection). LFTs (*why:* screens for the degree of hepatocellular injury; *what:* elevated transaminases). Consider testing for co-infections HBV, HIV (*why:* shared risk factors mean co-infection is common and changes management/prognosis; *what:* screens for concurrent infection).
-
-**Mx:**
-- **Definitive (acute and chronic infection managed the same — no separate acute tier):** start antivirals (direct-acting antivirals, DAAs) as soon as practical — modern DAA regimens achieve very high cure rates with short treatment courses, a major change from older interferon/ribavirin-based regimens; monitor bloods (FBC, metabolics) at 4 weeks while on antivirals (especially if ribavirin is used, given its haemolytic potential). Sustained virologic response (SVR) = undetectable HCV RNA ≥12 weeks post-treatment, considered a cure.
-- **Chronic/long-term:** if ongoing infection despite treatment or treatment not yet accessed, monitor for liver disease progression (fibrosis staging, HCC surveillance if cirrhotic); reduce transmission risk counselling (safe injecting practices, safe sex).
-
-**P:** 10-year survival 79%. Among patients who develop cirrhosis, decompensation occurs in 30% at 10 years. Higher morbidity than HIV, possibly related to lifestyle factors rather than HCV infection itself.
-
-### 0.9.4 Hepatitis D and E
-Hepatitis D infection can only occur with current Hepatitis B infection.
-
-Hepatitis E — faecal-oral route, especially contaminated water. Usually self-limiting, resolves within 2–6 weeks. Flu-like symptoms, abdominal pain, jaundice, itching, rash, joint pain, slight hepatomegaly. Rarely fulminant. Supportive care.
-
-### 0.9.5 Non-Alcoholic Fatty Liver Disease (NAFLD)
-
-**D:** spectrum of liver disease — macrovesicular hepatic steatosis with no excessive alcohol intake.
-- Steatosis = fat in the liver
-- Steatohepatitis = fat + inflammation = non-alcoholic steatohepatitis (NASH) → fibrosis, cirrhosis
-
-**R:** obesity, insulin resistance or T2DM, dyslipidaemia, HTN, metabolic syndrome, rapid weight loss, hepatotoxic medications, TPN
-
-**A/P:** insulin resistance → excessive hepatic triglyceride → hepatic steatosis; a "second hit" or oxidative injury triggers inflammatory reaction and fibrosis.
-
-**S/Smx:** usually asymptomatic; hepatomegaly ± non-specific symptoms; if fibrosis/cirrhosis develops — jaundice, portal hypertension, etc.
-
-**Ix:** LFTs (*why:* screens for hepatocellular injury, though can be normal even with significant steatosis — a key limitation; *what:* AST, ALT 1–4x ULN; ↑ALT more than AST; AST:ALT <1 — the reverse pattern from alcoholic liver disease, a useful distinguishing feature). FBC, metabolic panel, lipid panel (*why:* screens for the metabolic syndrome components driving the disease; *what:* may show dyslipidaemia, insulin resistance markers). Clotting, albumin (*why:* screens for synthetic dysfunction if fibrosis/cirrhosis has developed; *what:* deranged in advanced disease). Iron studies (*why:* baseline, and screens for coexisting haemochromatosis which can compound liver injury; *what:* usually normal unless coexisting iron overload). Enhanced liver fibrosis (ELF) blood test (*why:* non-invasively stages fibrosis severity, avoiding biopsy in many patients; *what:* combines hyaluronic acid, procollagen III, tissue inhibitor of metalloproteinase 1 into a fibrosis score). If ELF unavailable — FIB-4 score or NAFLD fibrosis score (*why:* alternative non-invasive fibrosis risk-stratification tools using routinely available bloods/demographics; *what:* risk-stratifies for advanced fibrosis). Fibroscan/transient elastography (*why:* non-invasively measures liver stiffness as a surrogate for fibrosis; *what:* elevated stiffness correlates with more advanced fibrosis).
-
-**Mx:**
-- **Definitive/chronic (no acute tier — chronic metabolic liver disease):** lifestyle modification (weight loss — the single most effective intervention, with even 7-10% body weight loss shown to improve/resolve steatohepatitis), treat insulin resistance and hyperlipidaemia (manage the underlying metabolic syndrome components directly, since they drive the liver disease). Vitamin E associated with improved clinical outcomes in non-diabetic NASH specifically. No evidence for ursodeoxycholic acid.
-- **Chronic/long-term:** severe disease (advanced fibrosis/cirrhosis) may require TIPS for portal hypertension complications and liver transplant assessment for end-stage disease; regular monitoring of fibrosis stage (non-invasive markers above) to track progression.
-
-**P:** "bland" steatosis has good prognosis and stable disease. NASH is progressive, especially with comorbidities (DM, high BMI) — 9–20% progress to cirrhosis. No vaccination available.
-
-### 0.9.6 Autoimmune Hepatitis
-
-**D:** chronic inflammatory liver disease of unknown aetiology.
-- **Type I:** ANA and/or anti-smooth muscle antibodies — affects both adults and children
-- **Type II:** anti-liver/kidney microsomal type 1 antibodies — affects children only
-- **Type III:** soluble liver-kidney antigen — affects middle-aged adults
-
-**R:** F>M, genetic predisposition (HLA B8, DR3), other autoimmune disorders
-
-**S/Smx:** signs/symptoms of chronic liver disease; acute hepatitis (fever, jaundice — only 25% present this way); amenorrhoea in women (common).
-
-**Ix:** ANA/SMA/LKM1 antibodies (*why:* the key serological markers, and their pattern helps subtype the disease (Type I/II/III as above); *what:* positive per subtype as described). ↑IgG (*why:* supports the autoimmune/inflammatory diagnosis and can be trended to monitor disease activity/treatment response; *what:* elevated). Liver biopsy (*why:* confirms the diagnosis histologically and stages disease severity, important before committing to long-term immunosuppression; *what:* inflammation extending beyond the limiting plate ('piecemeal necrosis'), bridging necrosis).
-
-**Mx:**
-- **Immediate/acute** (severe/fulminant presentation): high-dose steroids, urgent hepatology input; liver transplant assessment if fulminant liver failure.
-- **Definitive:** steroids (induction), typically combined with or transitioned to a steroid-sparing immunosuppressant (e.g. azathioprine) for maintenance — allows steroid dose reduction while maintaining remission.
-- **Chronic/long-term:** long-term immunosuppression is usually required (relapse is common on withdrawal); monitor for treatment-related complications (osteoporosis from steroids, marrow suppression from azathioprine); liver transplantation for those progressing to decompensated cirrhosis despite treatment.
-
-> [!note] Associated with: pernicious anaemia, UC, glomerulonephritis, autoimmune thyroiditis, autoimmune haemolysis, DM, PSC.
-
-### 0.9.7 Liver disease severity scoring
-> [!info] Child-Pugh score — bilirubin, albumin, prothrombin time, encephalopathy, ascites
-> [!info] **MELD** (Model for End-stage Liver Disease) — bilirubin, creatinine, INR
-
-> [!danger] **What these two scores are for, and why there are two of them.** This section previously listed the variables of each and nothing else — which tells a reader what to add up but not what the answer means or when either score changes anything.
->
-> **Neither score guides day-to-day management.** Both answer the question *how much liver reserve does this patient have*, and they are used at decision points: **can this patient survive an intervention**, and **where do they sit for transplant**.
->
-> - **Child-Pugh** grades cirrhosis **A, B or C** (increasing severity). Its main use at intern level is **procedural and surgical risk** — a Child-Pugh C patient facing elective surgery is a fundamentally different proposition from a Child-Pugh A one — and it appears in specific thresholds elsewhere in this file, such as SBP prophylaxis.
-> - **MELD** is a continuous score predicting **short-term mortality**, and it is what **transplant allocation** is based on.
->
-> **Why both survive, which is the useful part:** Child-Pugh contains **two subjective items** — the grade of encephalopathy and the amount of ascites — so two clinicians can score the same patient differently. **MELD is entirely objective laboratory values**, which is precisely why it, and not Child-Pugh, is used to allocate a scarce resource. When a score has to be defensible between centres, subjectivity is disqualifying.
->
-> *Intern-level takeaway:* you will not calculate these often, but you should recognise when one is being quoted and what decision it is attached to — and know that a rising MELD in a patient with cirrhosis is a reason to ask whether they are known to a transplant service, not just a worse number.
-
----
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.10 Paracetamol Overdose` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## 0.11 Acute Pancreatitis
-
-**D:** disorder of the exocrine pancreas associated with acinar cell injury and local/systemic inflammatory responses.
-
-**R:** middle-aged, gallstones, alcohol, hypertriglyceridaemia, drugs (azathioprine, thiazides, furosemide), ERCP, trauma, SLE, Sjögren's
-
-> [!tip] Aetiology mnemonic "I GET SMASHED"
-> Idiopathic, Gallstones, Ethanol, Trauma, Steroids, Mumps, Autoimmune, Scorpion sting, Hyperlipidaemia, ERCP, Drugs
-
-**S/Smx:** severe epigastric pain radiating to back (stabbing, worsens on movement; patient may adopt fetal position); associated with nausea/vomiting, abdominal tenderness, systemic illness (possible shock).
-
-**Dx confirmation (≥2 of 3):**
-- Upper abdominal pain
-- ↑Lipase or amylase 3x ULN — amylase 90% sensitive; lipase more sensitive/specific but less available, longer half-life (useful for late presentations)
-- Characteristic imaging findings (CT, MRCP, US — only if diagnostic doubt)
-
-**Other Ix:** FBC + differential (*why:* screens for the inflammatory response and feeds into severity scoring; *what:* leucocytosis, part of Glasgow score below), CRP (*why:* >200 = high risk of necrosis, a key severity marker; *what:* trended over 48h for best prognostic value), U&Es (*why:* screens for AKI/hypovolaemia from third-spacing, common in severe pancreatitis; *what:* may show AKI, feeds into Glasgow score via urea), O2 sats (*why:* screens for ARDS as a complication; *what:* may show hypoxia, feeds into Glasgow score via PaO2), LFTs (*why:* ↑ALT suggests a gallstone cause specifically, guiding aetiology work-up and the need for urgent ERCP/cholecystectomy; *what:* elevated ALT particularly supports biliary aetiology).
-
-> [!warning] Haemorrhagic pancreatitis signs: ecchymotic bruising (1%) — Cullen's sign (periumbilical), Grey-Turner's sign (flanks), Fox's sign (inguinal ligament)
-
-**Mx:**
-- **Immediate/acute:** aggressive IV fluids + analgesia; offer enteral nutrition (NGT) for moderate-severe pancreatitis (NBM only for specific reasons, e.g. persistent vomiting) — early enteral feeding is now preferred over historical prolonged fasting; do not offer routine/prophylactic antibiotics (only if infected necrosis/cholangitis confirmed or strongly suspected).
-- **Definitive:** treat the identified cause — ERCP for gallstone pancreatitis with ongoing obstruction, cholecystectomy (ideally during the same admission for gallstone pancreatitis to prevent recurrence), drainage procedures for infected collections/abscesses as they arise.
-- **Chronic/long-term:** address modifiable risk factors (alcohol cessation, manage hypertriglyceridaemia), monitor for progression to chronic pancreatitis/exocrine or endocrine insufficiency after severe/recurrent episodes.
-
-**Complications:**
-- Peripancreatic fluid collections — aspirate and drain
-- Pseudocysts (~4 weeks) — observe for 12 weeks; half resolve, others treated with cystectomy
-- Pancreatic necrosis — conservative Mx (unless infected, which requires drainage/debridement)
-- Pancreatic abscess — requires drainage
-- Haemorrhage, ARDS
-
-> [!info] Glasgow score — mnemonic "PANCREAS"
-> PaO2 <8 kPa, Age >55, Neutrophils (WBC >15), Calcium <2 (hypocalcaemia), uRea >16, Enzymes (AST/ALT >200), Albumin <32, Sugar (glucose >10)
->
-> **Why hypocalcaemia occurs:** released pancreatic lipase digests peripancreatic and mesenteric fat into free fatty acids, which then bind circulating calcium to form insoluble calcium soaps (saponification) — this consumes calcium directly, and the degree of hypocalcaemia broadly reflects the extent of fat necrosis, which is why it functions as a genuine severity marker here rather than an incidental electrolyte abnormality.
-
-### 0.11.1 Drugs associated with pancreatitis
-Azathioprine, mesalazine, bendroflumethiazide, furosemide, steroids, sodium valproate, didanosine, pentamidine
-
----
-
-## 0.12 Chronic Pancreatitis
-
-**D:** recurrent or persistent pancreatic inflammation, resulting in scarring and loss of function. Divided into 4 types: recurrent acute, idiopathic, chronic relapsing, or established chronic.
-
-**R:** >75% associated with chronic alcohol use. Others: smoking, family history, coeliac disease.
-
-**A/P:** alcohol, CF, haemochromatosis, or ductal obstruction (including anatomical anomalies such as annular pancreas) → repeated inflammation → collagen deposits, fibrosis, pain.
-
-**S/Smx:** abdominal pain — epigastric, dull, radiates to back, relieved by sitting forward, worsens ~30 min after eating; jaundice; steatorrhoea; weight loss (due to fear of food causing pain); malnutrition; nausea/vomiting; bloating; DM (~20 years after symptoms begin).
-
-**Ix:** AXR (*why:* a simple first-line test that can be diagnostic if positive; *what:* pancreatic calcification in 30% — specific but not sensitive). CT (*why:* more sensitive for calcification, ductal changes, and complications (pseudocyst) than AXR; *what:* calcification, ductal dilation/strictures, atrophy). Functional tests — faecal elastase (*why:* assesses exocrine pancreatic function directly when the diagnosis is inconclusive from imaging alone, or to confirm exocrine insufficiency needing PERT; *what:* low faecal elastase indicates exocrine insufficiency).
-
-**Mx:**
-- **Immediate/acute** (pain flare): stepwise analgesia per the acute pain, escalating per the WHO pain ladder principles; manage as an acute presentation if superimposed acute-on-chronic pancreatitis.
-- **Definitive:** stop alcohol and smoking (the single most important intervention to slow progression); dietician referral (small meals, high protein); pancreatic enzyme replacement therapy (PERT) for exocrine insufficiency; endoscopic procedures to dilate strictures, remove stones, drain cysts; surgical decompression or PPPD for refractory pain/complications not amenable to endoscopic management.
-- **Chronic/long-term:** monitor for and manage DM as it develops (typically ~20 years after symptom onset); ongoing PERT titration; screen for pancreatic cancer risk (chronic pancreatitis is itself a risk factor) if new alarming symptoms develop; manage malnutrition/vitamin deficiencies from malabsorption.
-
-**P:** 20–30% lower survival than the general population. Cardiovascular disease is the most common cause of death in alcoholic pancreatitis.
-
----
-
-## 0.13 Small Bowel Bacterial Overgrowth Syndrome
-
-**D:** excessive bacteria in the small intestine causing dysfunction.
-
-**R:** neonates with congenital GI abnormalities, scleroderma, DM
-
-**S/Smx:** chronic diarrhoea, bloating, flatulence, abdominal pain
-
-**Ix:** hydrogen breath test (*why:* the standard non-invasive diagnostic test; *what:* early rise in breath hydrogen after a glucose/lactulose load indicates bacterial fermentation in the small bowel rather than the colon).
-
-**Mx:**
-- **Definitive:** correction of the underlying disorder driving stasis/dysmotility where identifiable (e.g. surgical correction of an anatomical abnormality); antibiotics (rifaximin — preferred given minimal systemic absorption and lower resistance-driving potential; co-amoxiclav or metronidazole as alternatives).
-- **Chronic/long-term:** recurrence is common if the underlying predisposing condition isn't corrected — may need repeated/cyclical antibiotic courses; nutritional support/vitamin supplementation (B12 deficiency in particular, from bacterial consumption) if malabsorption is significant.
-
----
-
-## 0.14 Pancreatic Cancer
-
-**D:** primary pancreatic ductal adenocarcinoma (>90% of pancreatic cancers).
-
-**R:** smoking, family history, other hereditary cancer syndromes (e.g. Peutz-Jeghers, HNPCC, BRCA2, KRAS gene mutation), pancreatitis, DM
-
-**A/P:** 65% head of pancreas, 15% body, 10% tail, 10% multifocal. Lymph node metastases common, also perineural and vascular invasion. Distant metastases usually to liver, lung, skin, and brain.
-
-**S/Smx:**
-- Classically, painless jaundice + pale stools, dark urine, pruritus
-- Hepatomegaly, palpable gallbladder mass (Courvoisier's law = painless obstructive jaundice), epigastric mass
-- Non-specific: anorexia, weight loss
-- Loss of exocrine function (steatorrhoea)
-- Loss of endocrine function (DM)
-- Atypical back pain
-- Migratory thrombophlebitis (Trousseau sign), which can lead to DVT/PE
-
-**Ix:** US (*why:* often the first-line test given easy access, though limited by bowel gas/body habitus; *what:* sensitivity 60–90%, may show a mass or duct dilation). High-resolution CT — best if diagnosis suspected (*why:* superior for pancreatic and peripancreatic detail, staging (vascular involvement, resectability), and identifying the classic sign; *what:* "double duct sign" — simultaneous dilation of common bile and pancreatic ducts, highly suggestive of a periampullary/pancreatic head lesion). Ca19-9 (*why:* a tumour marker useful for supporting diagnosis and monitoring treatment response/recurrence, though non-specific; *what:* often markedly elevated, though can be falsely low in Lewis-antigen-negative individuals). LFTs (*why:* screens for the cholestatic pattern from biliary obstruction; *what:* raised ALP/bilirubin/GGT in an obstructive pattern).
-
-**Mx:**
-- **Immediate/acute** (presenting with cholangitis from biliary obstruction): treat as ascending cholangitis (antibiotics, resuscitation, urgent decompression).
-- **Definitive:** <20% suitable for surgery at diagnosis (most present with locally advanced or metastatic disease). Whipple's resection (pancreaticoduodenectomy/PPPD) for resectable head-of-pancreas lesions — side effects include dumping syndrome, peptic ulcer disease. Adjuvant chemotherapy after surgery to reduce recurrence risk.
-- **Chronic/long-term (unresectable/palliative):** ERCP with stenting for biliary obstruction palliation; palliative chemotherapy for fitness-appropriate patients; PERT for exocrine insufficiency; pain management (often requiring specialist palliative input given the classically severe back pain); early palliative care involvement given the poor prognosis.
-
-**P:** mean survival <6 months; 5-year survival 3% overall, 5–14% with Whipple's/PPPD.
-
----
-
-## 0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)
-
-> [!warning] FLAG 2026-09-01 — `M-13` carcinoid is split three ways and no file owns it
-> **This file has the disease entry. `Derm_merged.md:2084–2100` has the mechanism** — the
-> portal-circulation explanation (*"a gut carcinoid does not cause carcinoid syndrome until there are
-> hepatic metastases"*), carcinoid crisis, and the octreotide-before-anaesthesia warning.
-> **Endocrine is the third candidate.** `Derm_merged.md:2242` routes perioperative carcinoid risk to
-> `[[AN1]] 0.7`. **Flagged at all three ends; content left where it is. Not resolved.**
-
-Secretory NETs that release serotonin, kinins, and other vasoactive peptides. Carcinoid syndrome develops in only 40% of patients with NETs. If NETs metastasise to the liver, 95% of patients will develop symptoms.
-
-**R:** MEN1, ~50yo
-
-**A/P:** unknown
-
-**S/Smx (carcinoid syndrome):**
-> [!tip] Mnemonic "B-FDR": Bronchospasm, Flushing, Diarrhoea, Right heart valvular stenosis, + hypotension
-
-Other molecules such as ACTH and GHRH may be secreted — Cushing's syndrome may develop. Pellagra can rarely occur as dietary tryptophan is diverted to serotonin production by the tumour.
-
-**Ix:** U&Es (*why:* baseline; *what:* usually unremarkable unless complications). VIP radioimmunoassay (*why:* screens for VIPoma as a specific NET subtype causing profuse watery diarrhoea; *what:* elevated VIP supports this subtype). LFTs (*why:* screens for hepatic metastases, which are the trigger for systemic carcinoid syndrome (first-pass hepatic metabolism normally inactivates the secreted mediators, so syndrome typically only develops once liver metastases bypass this); *what:* may show metastatic involvement). Urinary 5-HIAA (*why:* the key diagnostic test — a breakdown product of serotonin, its 24h urinary level reflects tumour secretory activity; *what:* elevated in carcinoid syndrome). Plasma chromogranin A (*why:* a general NET tumour marker useful for diagnosis and monitoring treatment response/recurrence; *what:* elevated, though non-specific).
-
-**Mx:**
-- **Immediate/acute** (carcinoid crisis — severe flushing/bronchospasm/hypotension, often precipitated by anaesthesia/tumour manipulation): IV octreotide, avoid triggers (catecholamines can paradoxically worsen mediator release), supportive care.
-- **Definitive:** somatostatin analogues (octreotide) — both symptom control and some antiproliferative effect; surgical resection for localised disease; targeted radionuclide therapy or other systemic options for metastatic disease not covered in this source's scope.
-- **Chronic/long-term:** cyproheptadine for refractory diarrhoea; PERT if exocrine insufficiency develops (e.g. post-resection); regular monitoring for right heart valvular disease (echo surveillance, since this is a recognised carcinoid-syndrome complication requiring monitoring even when other symptoms are controlled); nutritional support/niacin supplementation if pellagra develops.
-
----
-
-## 0.16 Inflammatory Bowel Disease
-
-### 0.16.1 Crohn's Disease
-
-**D:** a type of IBD characterised by transmural inflammation of the GI tract.
-
-**R:** white ethnicity and Ashkenazi Jewish ancestry, age 15–40yo or 50–60yo, family history of Crohn's disease
-
-**A/P:** unknown cause (?genetic). Inflammation is transmural (all layers) → increased risk of strictures, fistulas, and adhesions. Affects mouth to anus, with skip lesions. 80% involve the small bowel (usually ileum); ~30% have ileitis exclusively.
-
-**S/Smx:** non-specific — weight loss, fatigue; diarrhoea ± bloody (if colitis); abdominal pain (especially in children); perianal disease (e.g. skin tags); extra-intestinal features (especially with colitis or perianal disease).
-
-**Ix:**
-- Bloods: FBC (*why:* screens for anaemia, a common complication from chronic blood loss/malabsorption/chronic disease; *what:* anaemia), ↑CRP/ESR (*why:* supports the inflammatory diagnosis and can be trended to monitor activity; *what:* elevated, CRP tracks disease activity reasonably well in Crohn's specifically), ↓vitamin B12 (*why:* screens for deficiency given terminal ileal disease/resection, the site of B12 absorption; *what:* low if ileal involvement significant), ↓vitamin D (*why:* screens for deficiency from malabsorption; *what:* often low); stool — ↑faecal calprotectin (*why:* a sensitive marker of intestinal inflammation, useful to distinguish IBD from IBS and to monitor disease activity non-invasively; *what:* elevated)
-- Colonoscopy (*why:* the key diagnostic test — direct visualisation and biopsy of the characteristic pattern; *what:* deep ulcers, skip lesions — patchy, discontinuous involvement)
-- Histology (*why:* confirms the diagnosis and distinguishes from UC histologically; *what:* transmural inflammation (full-thickness, unlike UC), goblet cells preserved (unlike UC), granulomas — a specific and helpful finding when present)
-- Small bowel enema/imaging — high sensitivity/specificity for terminal ileum exam (*why:* Crohn's most commonly affects the terminal ileum, an area colonoscopy may not fully reach/characterise, so dedicated small bowel imaging is often needed; *what:* strictures ('Kantor's string sign'), proximal bowel dilation, 'rose thorn' ulcers, fistulae)
-
-**Complications:** small bowel cancer (40x risk), colorectal cancer (2x risk), osteoporosis
-
-### 0.16.2 Ulcerative Colitis
-
-**D:** a type of IBD characteristically involving the rectum, extending proximally to affect a variable length of the colon.
-
-**R:** family history of IBD, HLA B27, infection
-
-**A/P:** unknown cause (?genetic). Inflammation limited to the submucosa (unless fulminant disease) and limited to the colon, unless there is an incompetent ileocaecal valve.
-
-**S/Smx:** bloody diarrhoea, urgency, tenesmus, abdominal pain (especially LLQ), extra-intestinal features.
-
-**Ix:**
-- Colonoscopy (avoid in severe colitis due to perforation risk — flexible sigmoidoscopy preferred) (*why:* the key diagnostic test — visualises the continuous, rectum-originating pattern distinguishing UC from Crohn's; *what:* no inflammation beyond submucosa (unlike transmural Crohn's), widespread ulceration with 'pseudopolyps')
-- Histology (*why:* confirms the diagnosis with UC-specific features; *what:* inflammatory cells within the lamina propria, crypt abscesses (neutrophils) — a characteristic UC finding, depletion of goblet cells and mucin — unlike the preserved goblet cells of Crohn's)
-- Barium enema (*why:* historically used, now largely superseded by colonoscopy but shows characteristic chronic changes; *what:* loss of haustrations, superficial ulceration, 'pseudopolyps', 'drain-pipe colon' (short, narrow colon) in long-standing disease)
-- Stool sample (*why:* non-invasive activity marker, as for Crohn's; *what:* ↑faecal calprotectin)
-
-### 0.16.3 Extra-intestinal features of IBD (both CD and UC)
-| Related to disease activity | Unrelated to disease activity |
-|---|---|
-| Arthritis (pauciarticular, asymmetric) | Arthritis (polyarticular, symmetric) |
-| Erythema nodosum | Uveitis |
-| Episcleritis | Pyoderma gangrenosum |
-| Osteoporosis | Clubbing |
-| | PSC (more common in UC) |
-
-### 0.16.4 Toxic megacolon
-Total or segmental non-obstructive colonic distension associated with systemic toxicity. Complication of colitis ± *C. difficile* infection.
-
-> [!danger] Diagnostic criteria (≥3 + radiographic evidence)
-> Fever >38.6°C, HR >120, WBC >10.5, anaemia, radiographical evidence of distension
-
-**Mx:**
-- **Immediate/acute:** treat underlying cause — if *C. diff*-positive, IV antibiotics; if severe colitis flare, IV steroids; NBM, IV fluids, close monitoring (serial AXR/clinical review) given the perforation risk.
-- **Definitive:** if no improvement in 72h, surgery (typically subtotal colectomy) — this is a genuine surgical emergency once medical therapy fails, not a condition to persist with medical Mx indefinitely.
-- **Chronic/long-term:** manage the underlying IBD once the acute crisis resolves, per the Crohn's/UC maintenance regimens above.
-
-### 0.16.5 Disease activity/severity scoring
-> [!info] For UC: Mayo classification (stool frequency, rectal bleeding, endoscopy findings, physician's global assessment) and Truelove & Witts severity index (stool frequency ≥6 = severe, blood in stool, T >37.8°C, HR >90 = severe, anaemia, ESR >30 = severe)
->
-> For CD: Crohn's Disease Activity Index (general wellbeing, abdominal pain, number of liquid stools/day, abdominal mass, complications — arthralgia, uveitis, erythema nodosum, pyoderma gangrenosum, aphthous ulcers, anal fissure, new fistula, abscess)
-
-### 0.16.6 Mx of Crohn's disease
-
-> [!info] Verified against GESA-affiliated Australian gastroenterology literature (Medicine Today, Crohn's & Colitis Australia), Aug 2026 — the drug **classes** and overall stepped approach (5-ASA → corticosteroids for flares → thiopurines/methotrexate for maintenance → biologics for refractory/fistulising disease) are internationally standard and not materially different in Australia; no substantive change needed to the therapeutic logic below.
-> **Inducing remission:**
-> - Glucocorticoids (topical, PO, IV) ± enteral feeding
-> - 5-ASA (e.g. mesalazine)
-> - Add-ons: azathioprine, mercaptopurine, methotrexate
-> - Refractory disease/fistulas: infliximab (and other biologics — see warning below)
-> - Isolated perianal disease: metronidazole
->
-> **Maintaining remission:** azathioprine or mercaptopurine (TPMT activity must be assessed first), or methotrexate
->
-> **Surgery:** stricturing ileal disease — ileocaecal resection; segmental small bowel resection; stricturoplasty; perianal fistulae — MRI, PO metronidazole, draining seton (↓abscess risk); perianal abscess — I&D + antibiotics ± draining seton
->
-> **Other notes:** stop smoking; ?stop NSAIDs/COCP
->
-> [!info] Verified against Australian real-world registry data (AURORA study/ANZIBD Consortium; EVOLVE Expansion study, which specifically includes Australian sites), Aug 2026 — confirms current PBS-available biologics and gives genuine Australian-specific comparative data, resolving the earlier open flag here.
-> Beyond infliximab, **vedolizumab and ustekinumab are both PBS-listed and in active real-world Australian use for Crohn's disease** (ustekinumab now also available as a PBS-listed biosimilar, SteQeyma, since August 2025). Australian real-world data (AURORA study) supports ustekinumab's effectiveness and safety in Crohn's specifically; broader real-world registry data (not Australia-specific for this particular comparison) suggests ustekinumab shows superior treatment persistence compared to anti-TNF agents in Crohn's. This doesn't mean infliximab is obsolete — choice still depends on disease phenotype (e.g. fistulising disease), patient factors, and PBS eligibility criteria — but don't teach infliximab as the only/default first option; vedolizumab and ustekinumab are genuine, PBS-funded, actively-used alternatives in current Australian practice.
-
-### 0.16.7 Mx of Ulcerative Colitis
-
-> [!info] Verified against GESA-affiliated Australian gastroenterology literature, Aug 2026 — as with Crohn's above, the drug classes and stepped approach (topical/oral mesalazine → corticosteroids for flares → thiopurines for maintenance/relapse → biologics for refractory disease) are internationally standard, including in Australia; no material change needed to the therapeutic logic below.
-> **Inducing remission — mild to moderate UC:**
-> - Proctitis: rectal mesalazine → add PO mesalazine if no remission within 4 weeks ± topical/PO corticosteroids
-> - Proctosigmoiditis: rectal mesalazine → add PO mesalazine ± topical corticosteroids if no remission within 4 weeks → stop topical, use PO mesalazine and PO steroids
-> - Extensive disease: PO mesalazine + PO steroids → increase mesalazine dose if no remission within 4 weeks
->
-> **Inducing remission — severe UC:** admit, IV steroids or ciclosporin; after 72h if no improvement, add ciclosporin or consider surgery
->
-> **Maintaining remission:**
-> - Proctitis ± sigmoiditis: topical mesalazine daily or as needed and/or PO mesalazine
-> - Extensive disease: low maintenance dose of PO mesalazine
->
-> **Severe relapse or ≥2 exacerbations in past year:** PO azathioprine or PO mercaptopurine (methotrexate is not effective in UC, unlike Crohn's — a genuine disease-specific distinction, not jurisdictional); ?probiotics may be useful
->
-> [!info] Verified against the PANIC study (Persistence Australian National IBD Cohort — genuinely Australia-specific registry data), Aug 2026 — resolving the earlier open flag here with real Australian comparative-effectiveness data.
-> Beyond infliximab, **vedolizumab is PBS-listed and in active use for UC in Australia** (subject to 6-monthly PBS-funding review of ongoing disease control). The Australian PANIC study found **vedolizumab has longer treatment persistence than infliximab specifically when used first-line** in moderate-to-severe UC, though this advantage did not hold when vedolizumab was used second-line instead — a genuinely Australian-sourced, sequencing-relevant finding. As with Crohn's above, this doesn't make infliximab obsolete, but don't teach it as the only/default first option for UC either.
-
-**Complications of coeliac disease/IBD (general):** hyposplenism, anaemia (iron/folate/B12 deficiency), osteoporosis/osteomalacia, enteropathy-associated T-cell lymphoma, subfertility, oesophageal cancer
-
----
-
-## 0.17 Coeliac Disease
-
-**D:** systemic autoimmune disease triggered by dietary gluten peptides found in wheat, rye, barley and related grains.
-
-**R:** family history, IgA deficiency, T1DM, autoimmune thyroid disease
-
-**A/P:** gluten peptides trigger innate and adaptive immune reaction → villous atrophy, hypertrophy of intestinal crypts, increased lymphocytes in epithelium and lamina propria → GI symptoms and malabsorption.
-
-**S/Smx:**
-- Diarrhoea: chronic or intermittent
-- Persistent/unexplained GI symptoms — nausea, vomiting, abdominal pain, cramping, distension (lactose intolerance may develop)
-- Weight loss (sudden or unexpected)
-- Fatigue or failure to thrive — likely due to iron-deficiency anaemia (or other anaemias) or vitamin deficiencies
-
-> [!note] Dermatitis herpetiformis — intensely pruritic papulovesicular lesions occurring symmetrically over extensor surfaces of arms/legs, buttocks, trunk, neck, scalp. Almost always associated with coeliac disease.
-
-**Ix:**
-
-> [!warning] Patients should remain on a gluten-containing diet for ≥6 weeks before testing, or results may be falsely negative.
-
-- Serology — IgA-tTG (tissue transglutaminase) + total IgA (to exclude IgA deficiency, which would cause a false-negative IgA-based test) (*why:* first-line, non-invasive screening test; *what:* elevated IgA-tTG supports the diagnosis; endomysial antibody (IgA) can be used as a confirmatory second serological test)
-- Endoscopic intestinal biopsy — duodenum usually, or jejunum (gold standard) (*why:* confirms the diagnosis histologically, still required even with strongly positive serology in most guidelines; *what:* villous atrophy, crypt hyperplasia, intraepithelial lymphocytosis)
-- Other Ix to look for complications (*why:* screens for the nutritional/haematological consequences of malabsorption; *what:* e.g. FBC for iron/B12/folate-deficiency anaemia)
-
-**Mx:**
-- **Definitive (no acute tier — chronic dietary management):** strict, lifelong gluten-free diet — the only effective treatment, and highly effective when adhered to.
-- **Chronic/long-term:** immunisations — pneumococcal vaccine every 5 years (due to hyposplenism — and see [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis for the fuller asplenia/hyposplenia regimen, which applies here too and includes meningococcal and Hib cover plus antibiotic prophylaxis — increased susceptibility to encapsulated organisms) + yearly influenza vaccine; monitor for and correct nutritional deficiencies (iron, B12, folate, vitamin D, calcium); bone density monitoring given osteoporosis risk; dietitian involvement for practical gluten-free diet support and to monitor adherence, especially where symptoms persist despite diagnosis (non-adherence is the most common reason for persistent symptoms).
-
-**P:** good — 90% complete, lasting symptom resolution on gluten-free diet; <1% refractory.
-
----
-
-## 0.18 Appendicitis
-
-**D:** acute inflammation of the vermiform appendix.
-
-**A:** obstruction of the appendiceal lumen (e.g. faecolith, normal stool, or lymphoid hyperplasia)
-
-**P:** obstruction + bacterial growth → increased pressure and distension.
-
-> [!info] **Alvarado score (MANTRELS) — 10 points**
-> **Migration** of pain to the RIF (1) · **Anorexia** (1) · **Nausea**/vomiting (1) · **Tenderness** in the RLQ (**2**) · **Rebound** pain (1) · **Elevated** temperature >37.3°C (1) · **Leucocytosis** (**2**) · **Shift** to the left / neutrophil predominance (1).
->
-> *The two weighted items are RLQ tenderness and leucocytosis, at 2 points each; the other six score 1.*
->
-> **Interpretation:** **1–4** appendicitis unlikely · **5–6** compatible · **7–8** probable · **9–10** very probable.
-
-> [!warning] **Two corrections made during the duplicate-pair audit (2026-08-29).** This box previously scored **leucocytosis as 1**, which made the itemised components total **9** — while the same box then gave a threshold of **"≥10 in females"**, a score the list as written could not reach. Leucocytosis is worth **2**, and the total is **10**.
->
-> The "**≥9 in males or ≥10 in females**" rule was also not the Alvarado interpretation; it is a garbled rendering of the standard **9–10 "very probable"** band, presented as a sex-specific cut-off that the score does not have.
->
-> **The clinically useful point, which the original threshold obscured:** Alvarado is far better at **ruling out** than ruling in. A cut-point of **<5 has ~99% sensitivity** for excluding appendicitis, while the ≥7 "rule-in" cut-point performs **poorly for specificity, and worst in men (~57%)**. Use it to decide who can be safely observed or discharged, not to decide who goes to theatre. See `PENDING_GUIDELINE_CHECKS.md` **B45**.
-
-**Other signs:** Rovsing's sign (palpating LLQ causes RLQ pain), psoas sign (pain on hip extension if retrocaecal appendix), guarding and rigidity.
-
-**Ix:**
-- Bloods — CRP, ↑WCC (*why:* supports the inflammatory diagnosis and feeds into the Alvarado score; *what:* elevated inflammatory markers/leucocytosis with left shift)
-- Urine dip (*why:* excludes key differentials/mimics — pregnancy (ectopic) and UTI/pyelonephritis can present similarly; *what:* excludes pregnancy, UTI)
-- If Alvarado 4–6, CT scan (*why:* used for diagnostic uncertainty at intermediate probability, to avoid negative appendicectomy or missed diagnosis; *what:* confirms/excludes appendiceal inflammation directly); if ≥7, refer to surgeons (imaging generally not needed at high pre-test probability)
-- Imaging generally not indicated unless diagnostic uncertainty — ↑CRP + clinical picture usually sufficient (especially in children, where minimising radiation exposure matters). US not useful for visualising the appendix but can assess for gynaecological pathology mimics.
-
-**Mx:**
-- **Immediate/acute:** refer to surgeons + NBM; prophylactic IV antibiotics (e.g. co-amoxiclav + metronidazole) — reduces post-operative infective complications regardless of whether surgery proceeds.
-- **Definitive:** appendicectomy (usually laparoscopic) — remains the definitive treatment for most cases.
-- **Alternative (if unfit for surgery, or as an emerging option in selected uncomplicated cases):** IV antibiotics may be sufficient as sole treatment (recurrence risk 12–24%, so this is a genuine trade-off to discuss with the patient, not simply an inferior fallback).
-
-> [!note] See [[15_08_Paeds_-_Surgical_Abdomen__Appendicitis__Intussusception__Pyloric_Stenosis__Hirschsprung__Oesophageal_Atresia_]] Appendicitis for the paediatric-specific detail (genuinely uncommon <4 years old, the AIR score approach to risk-stratifying diagnosis, and paediatric-specific Ix sequencing favouring ultrasound first), not repeated here.
-
----
-
-## 0.19 Small Bowel Obstruction (SBO)
-
-**D:** mechanical disruption in the patency of the small intestines.
-
-**R:** previous abdominal surgery (adhesions), malrotation, Crohn's disease, hernia, appendicitis, intestinal malignancy, intussusception, volvulus
-
-**S/Smx:** diffuse, central abdominal pain; nausea/vomiting (typically bilious/green); constipation with complete obstruction and absence of flatus; ± abdominal distension; ± tinkling bowel sounds
-
-**Ix:** CXR (*why:* quick screen for free air suggesting perforation, a surgical emergency changing Mx urgency; *what:* free subdiaphragmatic air if perforated). Abdominal XR (*why:* first-line, identifies dilated bowel loops supporting the diagnosis; *what:* dilated small bowel >3cm ± air-fluid levels). CT scan to confirm (*why:* identifies the transition point, cause, and screens for complications (ischaemia, closed-loop obstruction) that AXR cannot; *what:* confirms the level and cause of obstruction, e.g. adhesion band, hernia, mass).
-
-> [!tip] Imaging distinction: small bowel — valvulae conniventes extend all the way across; large bowel — haustra extend about one-third of the way across.
-
-**Mx:**
-- **Immediate/acute:** NBM + IV fluids + Ryles tube/NGT ("drip and suck" — relieves pressure and reduces vomiting/aspiration risk); analgesia.
-- **Definitive:** ± Gastrografin (osmotic contrast dye — can be both diagnostic, since its progression on repeat imaging predicts resolution, and mildly therapeutic by promoting resolution of partial obstruction); surgery if not settling with conservative management, or immediately if signs of ischaemia/strangulation/perforation.
-- **Chronic/long-term:** address the underlying cause where preventable (e.g. adhesiolysis technique at future surgery, hernia repair) to reduce recurrence risk.
-
----
-
-## 0.20 Large Bowel Obstruction (LBO)
-
-**D:** mechanical disruption in the patency of the large intestines.
-
-**R:** colorectal cancer (and its risk factors), diverticular disease, current/previous hernia, gynaecological conditions, previous abdominal surgery, previous radiotherapy
-
-**A:** 60% colorectal cancer, 20% diverticular strictures, 5% volvulus (sigmoid in older patients, caecal in younger), rarely endometriosis
-
-**S/Smx:** constipation ± absence of flatus, abdominal pain ± distension, nausea/vomiting (late sign), ± peritonism if perforated bowel
-
-**Ix:** CXR (*why:* screens for free air/perforation as for SBO; *what:* free subdiaphragmatic air if perforated). Abdominal XR (*why:* identifies colonic dilation and its distribution; *what:* >6cm abnormal for colon, >9cm abnormal for caecum — the caecum is the highest-risk site for perforation given its thinner wall and larger diameter (Laplace's law); if incompetent ileocaecal valve, small bowel may also be distended >3cm). CT scan to confirm (*why:* identifies the transition point/cause and screens for complications; *what:* confirms level/cause — e.g. obstructing tumour, volvulus, stricture).
-
-**Mx:**
-- **Immediate/acute:** NBM + IV fluids + Ryles tube; analgesia; urgent surgery + IV antibiotics if perforated bowel or signs of ischaemia (a genuine emergency, unlike the more conservative-first approach for uncomplicated obstruction).
-- **Definitive:** conservative Mx may suffice for some causes (e.g. some volvulus can be decompressed endoscopically) — trial for 72h if tolerated and no red-flag features; surgery (often with the underlying cause treated concurrently, e.g. tumour resection) if not settling.
-- **Chronic/long-term:** treat the underlying cause definitively (e.g. oncological management for a malignant cause, once the acute obstruction is relieved).
-
-### 0.20.1 Sigmoid and Caecal Volvulus
-
-> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, "unlikely covered") — mentioned only as a percentage figure in the LBO aetiology above; given a brief dedicated entry here since the two are managed quite differently.
-
-**D:** Twisting of a bowel segment on its mesentery, causing a closed-loop obstruction with risk of vascular compromise. **Sigmoid volvulus** (more common, typically older patients with a long, redundant sigmoid mesentery, often institutionalised/chronic-constipation patients) vs **caecal volvulus** (typically younger patients, requires a congenitally mobile caecum, since the caecum is normally fixed retroperitoneally).
-
-**S/Smx:** as per LBO generally (constipation, distension, pain, vomiting), often with a more acute/rapid onset than tumour- or stricture-related LBO given the sudden mechanical twist.
-
-**Ix:** AXR (*why:* classically diagnostic without needing CT in many sigmoid volvulus cases; *what:* sigmoid volvulus — "coffee bean sign"; caecal volvulus — a dilated caecum often displaced towards the left upper quadrant, "kidney bean" appearance). CT (*why:* confirms the diagnosis when AXR is equivocal and assesses for ischaemia/complications; *what:* "whirl sign" from the twisted mesentery).
-
-**Mx:**
-- **Immediate/acute — sigmoid volvulus:** endoscopic (flexible sigmoidoscopy) decompression is first-line if no signs of ischaemia/perforation — often successful and avoids emergency surgery.
-- **Immediate/acute — caecal volvulus:** endoscopic decompression is generally unsuccessful/not recommended given the anatomy — surgery is usually required upfront (right hemicolectomy or caecopexy).
-- **Definitive:** given the high recurrence rate of sigmoid volvulus after endoscopic decompression alone, elective sigmoid resection is often recommended once the patient is stabilised, particularly after a second episode.
-- **Chronic/long-term:** manage predisposing factors where possible (chronic constipation management for sigmoid volvulus).
-
----
-
-## 0.21 Hernias
-
-**D:** protrusion of viscera through the wall of a cavity in which its contents are normally contained.
-
-**Divided into:** congenital vs acquired (acquired hernias arise due to abdominal wall weakness from ageing or previous surgery + increased abdominal pressure, e.g. heavy lifting, pregnancy).
-
-**Characteristics:**
-- **Reducible:** hernia can be manipulated back
-- **Irreducible:** cannot be reduced
-- **Incarcerated:** irreducible + painful
-- **Strangulated:** blood supply compromised, leading to ischaemia
-
-### 0.21.1 Types
-| Hernia | Features |
-|---|---|
-| Inguinal | 75% of abdominal wall hernias, M>>F; located above and medial to pubic tubercle; rarely strangulates; divided into direct/indirect (Mx same) |
-| Femoral | F>M, especially multiparous women; located below and lateral to pubic tubercle; high risk of incarceration and strangulation — must be repaired |
-| Umbilical | symmetrical bulge under umbilicus |
-| Paraumbilical | asymmetric bulge above/below umbilicus |
-| Epigastric | lump in the midline between xiphisternum and umbilicus; risk factors — extensive physical training, chronic coughing, obesity |
-| Incisional | up to 10% of abdominal operations |
-| Spigelian | aka lateral ventral hernia; through the spigelian fascia, roughly beside the rectus abdominis anteriorly |
-| Obturator | F>M; through the obturator foramen; typically presents with bowel obstruction + strangulation |
-| Richter | herniation of only part of the bowel wall (not the whole circumference); can strangulate without causing bowel obstruction |
-
-**S/Smx:** dependent on type/location; hernias should have a cough impulse (differentiates from other swellings, e.g. hydrocele). If strangulated: pain, fever, peritonism (abdominal rigidity), bowel obstruction (nausea/vomiting, distension), bowel ischaemia (melaena).
-
-**Ix:** clinical diagnosis (*why:* most hernias are diagnosed on history and examination alone; *what:* a palpable, reducible (or not) swelling with a cough impulse) ± CT to guide surgical management (*why:* used when the diagnosis is unclear, the anatomy is complex, or to assess for strangulation/bowel involvement pre-operatively; *what:* confirms hernia contents and any ischaemic change).
-
-**Mx:**
-- **Immediate/acute** (incarcerated/strangulated): emergency surgery — this is a time-critical presentation given the ischaemia risk, not managed expectantly.
-- **Definitive:** treat even if asymptomatic (prevents future incarceration/strangulation problems); most managed electively unless incarcerated/strangulated → emergency. Mesh repair to reinforce the abdominal wall. Unilateral inguinal hernias: open approach; bilateral and recurrent inguinal hernias: laparoscopic approach.
-- **Chronic/long-term:** if unfit for surgery, hernia support belts are the next best option for symptom control, though they don't reduce strangulation risk the way definitive repair does.
-
----
-
-## 0.22 Pilonidal Disease
-
-**D:** "ingrown hairs" in the skin of the natal cleft of the sacrococcygeal area → chronic inflammatory reaction.
-
-**R:** M>F, 16–40yo, family history
-
-**A/P:** ingrown hair → inflammation → sinus formation + discharge ± infection
-
-**S/Smx:** painful ± purulent discharge; fluctuant swelling at the sacrum-coccyx; may be cyclical.
-
-**Mx:**
-- **Immediate/acute** (symptomatic/infected): I&D of sinuses, allow to heal by secondary intention + pain relief + antibiotics if infected.
-- **Definitive:** asymptomatic — clean carefully + hygiene (may not need active intervention); chronic/recurrent — excision of sinuses (including complete excision of cavities) for definitive management of recurrent disease.
-
----
-
-## 0.23 Anal Fissures
-
-**D:** a split in the skin of the distal anal canal. Chronic if >6 weeks, usually with features such as indurated edges, skin tags, visible internal anal sphincter fibres.
-
-**R:** hard stool, pregnancy (3rd trimester or post-partum), opiates (increased constipation), STIs (e.g. HIV, syphilis)
-
-**A/P:** hard stools tear the anal skin from the pectin at the dentate line; likely an ischaemic ulcer due to poor circulation and spasm of the internal anal sphincter → reduced healing.
-
-**S/Smx:** pain on defecation ("passing broken glass"); tearing/burning sensation; fresh blood on wiping (PR bleeding); anal spasm; ± sentinel pile (20%); visible fissure (40%)
-
-> [!danger] Do NOT perform a digital rectal exam (DRE) if anal fissure suspected.
-
-**Ix:** clinical diagnosis, no tests at initial presentation (*why:* the diagnosis is made on history and gentle inspection alone in most cases; *what:* visible fissure/sentinel pile on inspection). 2nd line: anal manometry and US in resistant fissures (*why:* used when initial medical therapy fails, to assess sphincter tone/anatomy before considering surgery; *what:* identifies sphincter hypertonia or structural abnormality).
-
-**Mx:**
-- **Immediate/acute (<1 week):** conservative — increased fibre and fluids, sitz bath, stool softeners, analgesics.
-
-> [!info] Verified — topical GTN and calcium channel blockers (e.g. diltiazem) for chronic anal fissure are standard, internationally-consistent first-line medical therapy, including in Australian colorectal/GP practice; no material AU-specific difference identified.
-> **Definitive (chronic, >6 weeks):** topical GTN or CCBs for 6–8 weeks even if symptoms resolve early (reduces recurrence risk).
-
-- **Definitive (medical therapy failure):** surgical treatment increases healing rate but carries incontinence risk — lateral internal sphincterotomy (LIS): a small portion of anal sphincter muscle is cut to reduce spasm/pain and promote healing.
-
-**P:** 60% achieve healing at 6–8 weeks; further 20% heal after topical diltiazem. Some relapse. Around 30% require surgery.
-
----
-
-## 0.24 Anal Fistulae
-
-**D:** chronic manifestation of the acute perirectal process that forms an anal abscess. When drained, an epithelialised tract can form connecting the abscess in the anus/rectum with the perirectal skin.
-
-**R:** Crohn's disease, M>F (2:1), obstetric injury, pelvic radiation, rectal foreign bodies, infection (e.g. chlamydia L, TB), malignancy
-
-**A/P:** cryptoglandular fistulas originate from infected anal crypt glands. In Crohn's, penetrating inflammation causes these fistulae.
-
-**S/Smx:** non-healing anorectal abscess following drainage, or chronic pus/pustule-like lesion in the perianal area; intermittent rectal pain with defecation, sitting, activity; pruritus, excoriation, induration.
-
-**Ix:** clinical diagnosis (*why:* often apparent on inspection/EUA for simple fistulae; *what:* visible external opening, palpable tract). Imaging for complex fistulae (especially Crohn's) — MRI (*why:* the best modality for delineating complex/branching tracts and their relationship to the sphincter complex, critical for surgical planning to avoid incontinence; *what:* defines tract course/complexity), endosonography, fistulography (contrast + XR) as alternatives/adjuncts.
-
-**Mx:**
-- **Immediate/acute:** treat any active abscess component first (drainage) before definitive fistula management.
-- **Definitive:** EUA, fistulotomy (cut open the tract, curette, marsupialisation, packing) for simple, low fistulae not involving significant sphincter muscle; draining seton for complex fistulae (protects continence by allowing controlled drainage without cutting through significant sphincter muscle) — particularly relevant in Crohn's-associated fistulae, where healing is impaired and repeated surgery carries cumulative continence risk.
-- **Chronic/long-term:** for Crohn's-associated fistulae, optimise the underlying IBD medical therapy (see Crohn's Mx above) alongside/instead of aggressive surgery, since fistula healing is closely tied to controlling the underlying inflammation.
-
-**P:** non-complex fistula — low recurrence but risk of incontinence.
-
----
-
-## 0.25 Haemorrhoids
-
-**D:** vascular-rich connective tissue cushions located within the anal canal (3, 7, and 11 o'clock positions). Internal haemorrhoids lie proximal to the dentate line, external haemorrhoids distal.
-
-> [!info] Classes of internal haemorrhoids
-> Grade 1: protrusion within the anal canal | Grade 2: protrudes beyond the anal canal, reduces spontaneously on cessation of straining | Grade 3: reduces on manual pressure | Grade 4: irreducible
-
-**R:** 45–65yo, constipation, pregnancy, space-occupying pelvic lesion
-
-**A/P:** straining → haemorrhoids pulled lower and engorged → bleeding when epithelial lining is torn.
-
-**S/Smx:** fresh PR bleeding, perianal pain/discomfort ± pruritus, palpable lesion or mass
-
-**Ix:** anoscopic exam (*why:* directly visualises internal haemorrhoids, which aren't reliably seen on external inspection alone; *what:* confirms grade/extent). Colonoscopy or flexible sigmoidoscopy (*why:* excludes a more sinister proximal cause of PR bleeding, especially important in older patients or those with red-flag features, since haemorrhoids shouldn't be assumed to be the bleeding source without excluding malignancy first; *what:* excludes colorectal cancer/polyps as an alternative/additional cause). FBC, stool for occult blood if no significant tissue seen on exam (*why:* screens for chronic blood loss anaemia and supports further investigation if the visible haemorrhoids don't adequately explain the bleeding; *what:* may show iron-deficiency anaemia).
-
-**Mx:**
-- **Definitive (graded approach — no distinct acute/chronic split, staged by severity/grade instead):**
-  - Conservative — increased fibre/fluids ± topical steroids if pruritic — first-line for lower-grade disease.
-  - Rubber band ligation — first-line procedural option for higher-grade internal haemorrhoids not responding to conservative Mx.
-  - Other procedural options: sclerotherapy, photocoagulation, arterial ligation, staples.
-  - Surgical haemorrhoidectomy for grade 4 or external haemorrhoids, or when other measures fail.
-- **Chronic/long-term:** address the underlying constipation/straining pattern to reduce recurrence.
-
-**P:** recurrence likely if risk factors continue. Surgical treatment has the best outcome, with <20% recurrence versus rubber band ligation.
-
----
-
-## 0.26 Colorectal Cancer
-
-**D:** cancers of the colon — majority are adenocarcinomas. 66% arise in the colon, 30% rectum; others include carcinoid tumours, GI stromal cell tumours (GISTs), lymphomas.
-
-**R:** ↑age, family history, genetic syndromes (e.g. Lynch syndrome), inflammatory bowel disease (especially pancolitis and left-sided colitis), obesity
-
-> [!danger] Red flags — urgent specialist referral
-> Altered bowel habits, rectal bleeding of any kind, abdominal pain and discomfort, unexplained weight loss, anaemia (any new iron-deficiency anaemia in an elderly patient is a red flag), bowel obstruction
-
-> [!info] Verified against the National Bowel Cancer Screening Program (Australian Government Department of Health), Aug 2026 — Australia's program differs materially from the UK figures this entry previously carried; the Australian figures are stated here on their own terms.
-> **Screening:** home-based faecal immunochemical test (FIT/iFOBT) — free, every 2 years. Eligibility lowered to age 45–74 (from 1 July 2024, down from the previous 50–74): people 50–74yo are automatically mailed a kit; people 45–49yo can request their first kit. All eligible people 45–74yo can also ask their GP for a kit. This is a single national program (not split by UK-style devolved-nation age bands). If abnormal, colonoscopy is offered.
-
-**Ix:** bloods — FBC (*why:* screens for iron-deficiency anaemia from chronic occult blood loss, often the presenting clue in right-sided tumours especially; *what:* microcytic anaemia). Endoscopy + colonoscopy if source of occult blood not established (*why:* the diagnostic gold standard — direct visualisation and biopsy; *what:* confirms the tumour and allows histological diagnosis). CT-TAP for staging (*why:* once diagnosed, staging determines resectability and screens for metastatic disease, guiding the treatment plan; *what:* defines local invasion, nodal involvement, and distant metastases — feeds into the Dukes'/TNM staging below).
-
-> [!info] Dukes' classification
-> A: tumour confined to mucosa (95% 5y survival) | B: invading bowel wall (80%) | C: lymph node metastases (65%) | D: distant metastases (5%)
-
-**Mx:**
-- **Immediate/acute** (presenting with obstruction/perforation): manage as per LBO/perforation pathways above — resuscitation, urgent surgery.
-> [!info] **Why this no longer says "2-week-wait" (Step 17, 2026-08-29).** **"2-week-wait" is a UK NHS pathway name**, not an Australian one, and it appeared five times across three files in this corpus. Australia's equivalent is the **Optimal Care Pathway** for each tumour stream (Cancer Australia), with referral urgency set by the pathway and by state-based criteria rather than by a single national two-week rule — see [[10_12_Oncology_-_Breast]], where this contrast is already verified and spelled out for breast cancer.
->
-> **The clinical behaviour is unchanged** — a red flag still means urgent referral, and the red-flag lists themselves are not UK-specific. What was wrong was naming a UK administrative pathway as though it were the local one, which sends a reader looking for a referral route that does not exist here. **Do not substitute a specific Australian timeframe** without checking the relevant Optimal Care Pathway (see `PENDING_GUIDELINE_CHECKS.md` B39).
-
-- **Definitive:** patients meeting any red flag → **urgent specialist referral** (see the box below on the Australian framing). Resection is the mainstay:
-  - Caecal, ascending, or proximal transverse colon tumour → right hemicolectomy
-  - Distal transverse, descending colon tumour → left hemicolectomy
-  - Sigmoid colon → high anterior resection (preserves part of the rectum)
-  - Rectal tumours → anterior resection
-  - Anal verge tumours → abdomino-perineal excision of rectum
-
-  Most patients have an anastomosis where proximal and distal colon segments are rejoined; in emergency settings, end colostomies may be needed (can later be reversed, e.g. Hartmann's pouch). Chemotherapy or radiotherapy likely indicated before/after surgery depending on stage.
-- **Chronic/long-term:** surveillance colonoscopy post-resection to detect metachronous lesions/recurrence; ongoing oncology follow-up per stage; stoma care/support if applicable.
-
-### 0.26.1 Surgical procedures
-- **Low anterior resection (LAR) vs abdomino-perineal resection (APR):** APR removes the tumour along with the anal canal and sphincter complex; LAR preserves the remaining anorectum (& sphincter complex)
-- **Hartmann's procedure:** sigmoid colectomy + end colostomy + rectal pouch (Hartmann's pouch); reversal considered ~3 months after initial surgery
-
-### 0.26.2 Stoma types
-| | Ileostomy (loop/end) | Colostomy (loop/end) |
-|---|---|---|
-| Location | Mid/distal small bowel | Any part of large bowel |
-| Appearance | Spouted | Flush |
-| Mucosal folds | Prominent | Flat |
-| Colour | Dark pink/red | Light pink |
-| Most common side | Right | Left |
-
----
-
-## 0.27 Peptic Ulcer Disease
-
-**D:** break in the mucosal lining of the stomach or duodenum >5mm in diameter, with depth to the submucosa (smaller/shallower lesions = erosions).
-
-**R:** *H. pylori* infection, NSAIDs, SSRIs, steroids, bisphosphonates, smoking, ↑age, personal history of PUD, family history, ICU patients
-
-**A/P:** imbalance between factors damaging the gastroduodenal mucosal lining and defence mechanisms (mucus-bicarbonate layer secreted by mucus cells).
-- Gastric ulcers: gastric acid secretion low or normal
-- Duodenal ulcers: markedly increased gastric acid because *H. pylori* impairs somatostatin secretion
-- Zollinger-Ellison syndrome: NET causing increased gastric acid
-
-**S/Smx:**
-- Epigastric pain, "pointing sign" (patient can point to a particular spot) — gastric: pain on eating ± 1–2h after; duodenal: pain several hours after eating
-
-> [!info] Gap-filled — the gastric-vs-duodenal pain timing was stated as a bare rule, without connecting it to the acid-secretion mechanism already established above (A/P). **Gastric ulcers**: eating stimulates gastric acid secretion and gastric distension, both of which directly irritate the ulcer sitting right there in the stomach — pain follows relatively soon after eating (within 1–2 hours) because the food and acid are acting on the lesion directly. **Duodenal ulcers**: eating typically **relieves** pain initially — food buffers acid and delays gastric emptying, temporarily reducing the amount of acidic content reaching the duodenum — but pain characteristically **returns 2–4 hours later**, once the stomach has emptied and this buffering effect wears off, allowing the markedly increased gastric acid already noted above (from *H. pylori*-impaired somatostatin secretion) to pass into the duodenum and irritate the ulcer there. This is precisely why duodenal ulcer pain classically presents as **worse at night/on an empty stomach and relieved by eating or antacids** — the pattern directly follows from when acid delivery to the duodenum is at its highest (a prolonged period without the buffering effect of a recent meal), not an arbitrary timing rule to memorise separately from the underlying acid physiology.
-
-- Nausea, vomiting, diarrhoea
-- Early satiety, weight loss
-- Symptoms of anaemia (e.g. fatigue)
-- If bleeding: haematemesis, melaena, ↓BP, ↑HR
-- If perforated: pain, shock, syncope
-
-**Ix:** upper GI endoscopy (*why:* the diagnostic gold standard — directly visualises the ulcer, allows biopsy to exclude malignancy (especially for gastric ulcers, which need re-scoping to confirm healing and exclude an underlying cancer) and *H. pylori* testing; *what:* visualises the ulcer, biopsy for histology and CLO/*H. pylori* testing). *H. pylori* testing (see Gastritis section for methods) (*why:* identifies the treatable underlying cause in the majority of non-NSAID ulcers; *what:* positive in most *H. pylori*-associated PUD). FBC (*why:* screens for anaemia from chronic/acute blood loss; *what:* may show iron-deficiency or acute blood loss anaemia).
-
-**Mx:**
-- **Immediate/acute** (bleeding or perforation): ABCDE + resuscitation, IV PPI, endoscopic interventions (adrenaline injection, clipping, thermal therapy for bleeding), interventional radiology or surgery if endoscopic control fails.
-- **Definitive:** treat underlying cause + PPI — if *H. pylori*-positive, eradication therapy (see Gastritis section for the regimen); stop causative drugs (NSAIDs) where possible.
-- **Chronic/long-term:** repeat endoscopy to confirm healing for gastric ulcers specifically (to exclude an underlying malignancy that may have been missed or only partially biopsied initially) — this follow-up scoping is not needed for duodenal ulcers, which are essentially never malignant; ongoing PPI cover if NSAIDs cannot be stopped.
-
-**P:** with PPIs, duodenal ulcers heal within 4 weeks, gastric ulcers within 8 weeks. If *H. pylori* eradicated, good prognosis. NSAID-induced ulcers have low recurrence if the drug is stopped.
-
----
-
-## 0.28 GORD
-
-**D:** symptoms/complications arising from reflux of gastric contents into the oesophagus, oral cavity, or lungs.
-
-**R:** family history, ↑age, hiatus hernia, obesity
-
-**A/P:** increased relaxation of the lower oesophageal sphincter allows reflux of gastric contents. Severity of damage depends on duration of contact, nature of contents, and epithelial resistance. Acid in the lower oesophagus → vagal stimulation → chronic coughing, throat clearing.
-
-**S/Smx:** heartburn (especially after meals), dyspepsia, regurgitation, cough (especially at night when lying down), halitosis, globus sensation, enamel erosion, bloating
-
-> [!danger] Red flags requiring **urgent specialist referral**: dysphagia, haematemesis, melaena, persistent vomiting, weight loss, anaemia
-
-**Ix:** GORD is a clinical diagnosis; PPI trial first (*why:* a therapeutic trial is both pragmatic first-line management and diagnostically supportive — symptom improvement supports the diagnosis; *what:* symptom response supports GORD). ± pH monitoring (*why:* used when the diagnosis is uncertain or symptoms persist despite treatment, to objectively quantify acid exposure; *what:* quantifies reflux episodes/acid exposure time), oesophageal manometry (*why:* assesses motility, particularly before considering anti-reflux surgery or when a motility disorder is suspected as an alternative/contributing diagnosis; *what:* assesses LOS pressure and peristalsis), barium swallow (*why:* screens for structural abnormalities (hiatus hernia, stricture) though largely superseded by endoscopy for most indications; *what:* may show reflux, hiatus hernia, or stricture), OGD (*why:* see indications below — used selectively, not for every GORD presentation; *what:* may show oesophagitis, Barrett's oesophagus, or be normal despite symptoms).
-
-> [!info] Indications for upper GI endoscopy
-> \>55yo, symptoms >4 weeks or despite treatment, dysphagia, relapsing symptoms, weight loss
-
-> [!info] Verified against eTG/AMH, NPS MedicineWise, and GESA (Gastroenterological Society of Australia), Aug 2026 — the Australian approach is simpler than the detailed UK NICE dose-titration schedule this entry previously carried, with a stronger emphasis on **PPI deprescribing/step-down** as a distinct national quality-use-of-medicines priority (PPIs are among the most-prescribed medicines in Australia, and Choosing Wisely Australia/NPS MedicineWise campaigns specifically target unnecessary long-term use).
-> **Mx:** lifestyle changes (weight loss, reduce triggers, stop smoking, avoid late-night eating). For typical symptoms, start standard-dose PPI for 4–8 weeks with a planned review — treatment can be based on symptoms alone without requiring endoscopic confirmation first, unless red flags are present (see indications for endoscopy below). At review: if symptoms are well controlled, **actively attempt to reduce to the lowest effective dose or cease PPI therapy altogether** — do not continue open-ended long-term PPI prescribing without this attempt, which is an explicit Australian primary-care quality target, not just good practice generally. If symptoms persist despite standard-dose PPI, options include increasing to a higher dose, switching PPI, or investigating further (endoscopy, pH studies) rather than the UK's specific H2RA/prokinetic-switch algorithm.
-
-**P:** most patients have symptom control with PPIs; most relapse if PPI therapy is stopped.
-
----
-
-## 0.29 Gastritis
-
-**D:** histological presence of gastric mucosal inflammation.
-
-**R:** *H. pylori* infection, NSAIDs, steroids, alcohol use, toxic ingestions, previous gastric surgery, critically ill patients, autoimmune disease
-
-> [!danger] A genuine, severe Australian health equity issue — genuinely nuanced rather than a simple "higher rate of everything" story, worth conveying accurately. **H. pylori prevalence in Aboriginal and Torres Strait Islander Australians is 2–3 times higher than in the non-Indigenous population**, confirmed in remote Western Australian community studies. **However, this doesn't translate into a simple 1:1 increase in peptic ulcer disease** — older studies actually reported peptic ulcers as uncommon in Indigenous populations despite high H. pylori prevalence, a genuine paradox partly explained by lower gastric acid secretion associated with undernutrition and lower socioeconomic status (potentially protective against clinically apparent ulceration even with high bacterial colonisation), and partly confounded by Indigenous Australians historically undergoing fewer endoscopies (meaning true prevalence may be under-ascertained by referral bias, not genuinely low).
-> - **Gastric cancer is the area where the disparity is genuinely worsening over time, not just persisting**: non-Indigenous Australian gastric cancer incidence and mortality have been **declining** (incidence 9.3→7.5 per 100,000, 1998–2013), while Indigenous Australian rates have remained **stable and disproportionately higher** (10.0–14.3 per 100,000 over the same period) — meaning the relative gap between the two populations is actively widening even though the absolute Indigenous rate itself hasn't increased.
-> - **Practical implication**: given the H. pylori eradication regimen above is already correctly Australia-specific, the genuinely important additional point is a **lower threshold for considering H. pylori testing and gastroscopy** in Aboriginal and Torres Strait Islander patients with relevant symptoms, given both the higher underlying infection prevalence and the specific, non-declining gastric cancer risk this population carries.
-
-**A/P:**
-- *H. pylori* induces severe inflammation → gastric mucin degradation, increased mucosal permeability → gastric epithelial cytotoxicity
-- NSAIDs and alcohol: decreased gastric mucosal blood flow, loss of mucosal protective barrier (NSAIDs decrease prostaglandins)
-- Autoimmune gastritis: antiparietal cell antibodies stimulate inflammation → loss of parietal and chief cells
-- Gastric atrophy and acid-blocking medications: increased pH, disrupted acid barrier → bacterial overgrowth
-
-**S/Smx:** epigastric discomfort ± nausea/vomiting, decreased appetite. If severe: acute abdominal pain, marked emesis, fever, altered reflexes and cognitive impairment (if secondary to B12 deficiency), glossitis.
-
-**Ix:** *H. pylori* urea breath test, faecal antigen test (*why:* first-line non-invasive tests for active infection; *what:* positive supports active *H. pylori* infection — note both require stopping PPI/antibiotics beforehand, see below). FBC (*why:* screens for anaemia, either from chronic blood loss or B12 deficiency in autoimmune gastritis; *what:* microcytic (blood loss) or macrocytic (B12 deficiency) anaemia depending on cause) ± histology/endoscopy (*why:* directly visualises and biopsies the gastric mucosa, needed for definitive diagnosis and to exclude malignancy; *what:* confirms inflammation and identifies *H. pylori* on biopsy). Serum B12 (*why:* screens for the deficiency characteristic of autoimmune gastritis, given loss of intrinsic-factor-producing parietal cells; *what:* low in autoimmune gastritis). Parietal cell antibodies, intrinsic factor antibodies (*why:* confirm autoimmune gastritis specifically when suspected, particularly with B12 deficiency and no clear alternative cause; *what:* positive in autoimmune gastritis).
-
-> [!info] Verified against Australian gastroenterology literature (AFP-cited Australian trial data), Aug 2026 — Australia has a distinctive resistance profile that supports different regimen emphasis from generic international/UK guidance.
-> **Mx of *H. pylori* infection:** clarithromycin-based triple therapy (PPI + clarithromycin + amoxicillin) remains a reasonable first-line choice in Australia because **clarithromycin resistance is relatively low here**, even though **metronidazole resistance is comparatively high** — this is the opposite resistance pattern from many other countries, so don't default to a metronidazole-containing regimen assuming it's safer. Quadruple therapy (PPI, bismuth, tetracycline, metronidazole) remains an option, particularly as salvage/second-line therapy or where clarithromycin resistance/prior macrolide exposure is a concern.
-> [!info] Resolved — a current (October 2025) RACGP AJGP case-based article gives the exact regimen and duration Australian GPs are taught to prescribe, and directly confirms **14 days, not 7**, as the standard first-line duration.
-> **Mx of *H. pylori* infection:** clarithromycin-based triple therapy — **esomeprazole 20mg BD + clarithromycin 500mg BD + amoxicillin 1g BD, for 14 days**; for penicillin allergy, substitute metronidazole 400mg BD for amoxicillin (same PPI/clarithromycin backbone, same 14-day duration). A genuinely practical Australian health-system detail: the PBS only subsidises a single prescription without repeats, which in practice often means a 7-day supply is dispensed with a follow-up review at day 7 to prescribe the remaining week and check tolerability/adherence — worth knowing since a patient might otherwise stop at 7 days assuming the course is complete. Test of cure (repeat urea breath test) is recommended ≥4 weeks after completing therapy. Refractory infection (persisting after a first course) should **not** be retreated with the same clarithromycin-based regimen, given low repeat success and further resistance risk — refer to a specialist for salvage therapy (options include levofloxacin, bismuth, tetracycline-based quadruple regimens) and consider gastroscopy.
-
-**Mx of non-*H. pylori* gastritis:** stop offending drugs; autoimmune gastritis — B12 supplementation.
-
-**P:** if *H. pylori* untreated, increased risk of gastric cancers; untreated gastritis increases PUD risk. Generally good prognosis except for phlegmonous gastritis (rare disorder).
-
-> [!warning] Could not confirm a single standardised Australian pre-OGD medication-cessation timing to replace the UK figures below this session — these timings vary meaningfully by local endoscopy unit protocol even within the UK, and are even more likely to vary by institution in Australia. Treat the figures below as illustrative only and always check the specific endoscopy unit's own pre-procedure instructions, which is genuinely the correct approach everywhere (not just an AU-specific caveat).
-> **Stopping medications before OGD (illustrative, unverified for AU use):** gaviscon — 1 day; PPI — 2 weeks; H2RA — 3 days; antibiotics — 4 weeks. For urea breath test: stop PPI and antibiotics.
-
----
-
-## 0.30 Oesophageal Conditions
-
-> [!note] Oesophageal carcinoma and Barrett's oesophagus are covered under the ENT/Dysphagia section of this source, not here.
-
-### 0.30.1 Mallory-Weiss Tear
-**D:** superficial mucosal laceration of the oesophagus.
-**R:** heavy alcohol use, bulimia nervosa, hyperemesis gravidarum, GORD
-**S/Smx:** history of retching or vomiting; streaks of fresh blood in vomit; no other systemic symptoms.
-**Mx:**
-- **Immediate/acute:** most are self-limiting; antiemetic to stop ongoing vomiting (and thus the cause of the tear); endoscopic haemostasis rarely needed for significant/ongoing bleeding.
-- **Chronic/long-term:** address the underlying cause of vomiting/retching (e.g. alcohol cessation support, bulimia nervosa management) to prevent recurrence.
-
-### 0.30.2 Boerhaave Syndrome
-**D:** spontaneous rupture of the oesophagus.
-**R:** similar to Mallory-Weiss tear — essentially anything markedly increasing intra-abdominal pressure.
-**S/Smx:** triad of vomiting, lower thoracic pain, and subcutaneous emphysema.
-**Ix:** CXR (*why:* rapid initial screen; *what:* may show a widened mediastinum, pneumomediastinum, or pleural effusion). CT contrast swallow (*why:* confirms the diagnosis and localises the perforation, essential for surgical planning; *what:* extravasation of contrast confirms the rupture site).
-**Mx:**
-- **Immediate/acute:** resuscitation, broad-spectrum antibiotics, NBM, urgent surgical referral — this is a true surgical emergency given the mediastinitis risk.
-- **Definitive:** thoracotomy and lavage — <12h onset, primary repair; >12h, insertion of a T-tube to create a controlled fistula between oesophagus and skin (allows drainage of blood/gut contents out, since primary repair is less likely to hold in a delayed, heavily contaminated field).
-**P:** up to 40% mortality; delays >24h associated with very high mortality.
-**Complications:** severe sepsis secondary to mediastinitis (gut contents entering the thorax).
-
-### 0.30.3 Plummer-Vinson Syndrome
-**D:** rare condition with classic triad — iron-deficiency anaemia, oesophageal webbing, dysphagia.
-**R:** middle-aged women, coeliac disease, Crohn's, RA, thyroid disease
-**A:** unknown, possibly autoimmune
-**S/Smx:** as above, plus glossitis and angular cheilitis.
-**Ix:** barium swallow ± videofluoroscopy, endoscopy (*why:* visualises and characterises the oesophageal web; *what:* web seen on imaging/direct visualisation); other tests to exclude malignancy (*why:* the syndrome carries an increased risk of post-cricoid/oesophageal squamous cell carcinoma, so malignancy must be actively excluded rather than assumed benign; *what:* biopsy if any suspicious lesion).
-**Mx:**
-- **Definitive:** iron supplementation (often improves the dysphagia and may resolve the web without further intervention); endoscopic dilation if severe/persistent dysphagia despite iron replacement.
-- **Chronic/long-term:** advise eating slowly and chewing thoroughly; ongoing surveillance given the malignancy association.
-
-### 0.30.4 Hiatus Hernia
-**D:** protrusion of the stomach through the diaphragm into the thoracic cavity.
-**R:** obesity, increased abdominal pressure (e.g. multiparity, ascites)
-**S/Smx:** heartburn, dysphagia, regurgitation, chest pain
-**Ix:** barium swallow (*why:* classically demonstrates the herniated stomach above the diaphragm; *what:* confirms hernia and type — sliding vs rolling/para-oesophageal), endoscopy (*why:* assesses for associated oesophagitis and excludes other pathology; *what:* may show a hiatus hernia with or without oesophagitis).
-**Mx:**
-- **Definitive:** weight loss, PPIs for reflux symptoms — first-line for most, particularly sliding hiatus hernia.
-- **Definitive (refractory/complicated):** surgery only if refractory to medical therapy, or for para-oesophageal/rolling hernias at risk of complications (volvulus, strangulation — a more urgent surgical consideration than sliding hernia given this risk).
-
----
-
-## 0.31 ERCP (Endoscopic Retrograde Cholangiopancreatography)
-
-**Indications:** extraction of biliary stones; relief of jaundice secondary to benign/malignant strictures with stents; ampullary biopsy, biliary brushings.
-
-**Consent:** risks of pancreatitis, cholangitis, bleeding, perforation — approximately 1/50.
-
-**Procedure:**
-1. Advance side-viewing endoscope to 2nd part of duodenum
-2. Locate, cannulate the ampulla
-3. Sphincterotomy (knife/balloon) as needed
-4. Perform definitive procedure
-
----
-
-## 0.32 TIPS (Transjugular Intrahepatic Portosystemic Shunt)
-
-**Indications:** oesophageal or gastric varices secondary to portal hypertension; Budd-Chiari syndrome.
-
-**Procedure (interventional radiology):**
-1. Right internal jugular vein cannulated
-2. Catheter advanced to hepatic vein (usually right HV)
-3. Venogram (XR) obtained
-4. Needle directed towards right portal vein
-5. Angioplasty balloon dilated
-6. Stent deployed, widened to ~8mm
-7. Placement confirmed with venogram
-
----
-
-## 0.33 Upper GI Bleed (UGIB)
-
-**D:** GI blood loss whose origin is proximal to the ligament of Treitz at the duodenojejunal junction.
-
-**S/Smx:**
-- Haematemesis — blood in vomit, ranges from bright red to "coffee ground"
-- Melaena — digested blood in stool, black and tarry (distinct from fresh blood PR/haematochezia)
-- ↑Urea due to digested protein
-
-### 0.33.1 DDx by location
-
-**Swallowed blood:** epistaxis, haemoptysis
-
-**Oesophagus:**
-- Varices — large amount of fresh blood vomited ± melaena; may stop spontaneously, but rebleeds common
-- Mallory-Weiss tear — small-moderate fresh blood after vomiting/retching
-- Reflux oesophagitis — small amount of fresh blood, streaked in vomit; history of GORD
-- Oesophageal carcinoma — variable amounts; associated with dysphagia, weight loss
-
-**Stomach:**
-- Peptic ulcer — small bleeds, presents more often as iron deficiency anaemia; erosion into a significant vessel may cause major haemorrhage; history of NSAID/steroid use without PPI cover
-- Gastric cancer (carcinoma, GIST) — variable presentation
-- Dieulafoy lesion (vascular malformation) — often no prodromal features, can cause considerable haemorrhage
-- Hereditary haemorrhagic telangiectasia — autosomal dominant, bleeds in mucosae (nasal, GI)
-
-**Duodenum:**
-- Duodenal ulcer — bleeds most commonly at the gastroduodenal artery; pain hours after eating
-- Aorto-duodenal fistula — in patients with prior AAA surgery
-- Duodenal diverticulae — 90% asymptomatic, rarely bleed/obstruct/infect/perforate
-- Invasive pancreatic tumours
-- Haemobilia (bleeding from/into the biliary tract) — usually iatrogenic (e.g. post-ERCP); classic triad of RUQ pain, jaundice, overt UGIB
-
-**Underlying disorders:** bleeding disorders (liver disease, thrombocytopenia, haemophilia); drugs (anticoagulation, aspirin, NSAIDs, steroids); uraemia; connective tissue disorders
-
-### 0.33.2 Ix
-> [!info] Glasgow-Blatchford score (*why:* pre-endoscopy risk score used to determine need for admission/intervention vs safe early discharge; *what:* incorporates urea, Hb, SBP, HR, liver disease, heart disease, presence of melaena and syncope — score of 0 → consider early discharge without admission)
-> **Rockall score** (*why:* used post-endoscopy, once the bleeding source/stigmata are known, to determine risk of rebleeding and mortality and guide monitoring intensity; *what:* incorporates age, shock, comorbidity, and endoscopic findings)
-
-Endoscopy (*why:* the definitive diagnostic and therapeutic test — identifies the bleeding source and allows immediate haemostatic intervention; *what:* identifies the specific lesion and allows grading of bleeding stigmata, which determines rebleeding risk): offered immediately after resuscitation in severe bleeds; all patients should have endoscopy within 24h.
-
-### 0.33.3 Mx
-
-> [!danger] Resuscitation (Immediate/acute tier — applies to all UGIB before source-specific Mx below)
-> - ABC, 2x wide-bore IV access
-> - Platelet transfusion if platelets <50
-> - FFP if fibrinogen <1g/L or PT/APTT >1.5x normal
-> - PCC + vitamin K if on warfarin and actively bleeding
-
-**Mx of non-variceal bleeds:**
-- **Immediate/acute:** do NOT give PPIs before endoscopy — give after (once the bleeding source/stigmata are characterised, pre-treatment PPI doesn't improve outcomes and may mask endoscopic findings).
-- **Definitive:** endoscopic haemostasis at the time of diagnostic endoscopy (adrenaline injection, clipping, thermal therapy); if further bleeds, repeat endoscopy, refer to interventional radiology and upper GI surgery.
-- **Chronic/long-term:** treat the underlying cause (e.g. *H. pylori* eradication, stop NSAIDs, ongoing PPI) to prevent recurrence.
-
-**Mx of variceal bleeds:**
-- **Immediate/acute:** terlipressin and prophylactic antibiotics at presentation (before endoscopy) — this pre-endoscopy pharmacological step is a genuine point of difference from non-variceal bleeds, where PPI is deliberately withheld; band ligation for oesophageal varices, cyanoacrylate injections for gastric varices at endoscopy; Sengstaken-Blakemore tube if uncontrolled bleeding; TIPS if bleeding cannot be controlled otherwise.
-- **Chronic/long-term (prophylaxis of variceal bleeds):** propranolol, endoscopic variceal band ligation programme.
-
----
-
-## 0.34 Lower GI Bleed (LGIB)
-
-**D:** GI blood loss whose origin is distal to the ligament of Treitz at the duodenojejunal junction.
-
-**S/Smx:** haematochezia (fresh blood PR, may be mixed with stool or on toilet paper); melaena (as per UGIB); occult bleeding (detected only on faecal occult blood test).
-
-### 0.34.1 DDx by location
-
-**Small intestine:**
-- Meckel's diverticulum — children/young adults; painless melaena or haematochezia, "currant jelly" bleeding; palpable abdominal mass
-- Intussusception — bloody stool with abdominal pain, vomiting, SBO; in adults, often a malignant lead point
-- Mesenteric infarction — sudden, severe periumbilical pain out of proportion to exam findings
-- Aortoenteric fistula — aortic wall erosion into adjacent GI tract, usually post-endovascular surgery; "herald" bleeds often precede catastrophic massive bleeding
-
-**Colon and rectum:** colorectal cancer, polyps, diverticular disease, IBD, ischaemic colitis, rectal prolapse, angiodysplasia (typically >60yo, painless haematochezia, ± ESRD, von Willebrand disease, aortic stenosis, or anticoagulant therapy history), irradiation colitis/proctitis (history of radiotherapy, symptoms ~9 weeks–4 months post-injury), solitary rectal ulcer (+ mucus passage, straining, tenesmus)
-
-**Anus:** haemorrhoids, fissure-in-ano, carcinoma, trauma
-
-**Others:** endometriosis (possible history of dysmenorrhoea, pelvic pain, dyspareunia, infertility)
-
-### 0.34.2 Ix
-- DRE if patient is not in pain (*why:* localises the bleeding source and character; painless bleeding more suggestive of diverticular disease in older adults; *what:* fresh blood, melaena, or mass on examination — do NOT DRE if anal fissure suspected)
-- Faecal occult blood testing if microscopic blood suspected (*why:* detects bleeding not visible to the patient, relevant e.g. in iron deficiency anaemia work-up in older patients; *what:* positive supports an occult GI source)
-- Faecal calprotectin if suspecting IBD (*why:* screens for an inflammatory cause; *what:* elevated in active IBD)
-- Colonoscopy for direct visualisation (*why:* the definitive diagnostic test, allows biopsy and therapeutic intervention (e.g. polypectomy, haemostasis); *what:* identifies the bleeding source directly)
-- Barium enema (*why:* an alternative/adjunct structural study, largely superseded by colonoscopy where available; *what:* may show diverticula, mass, or stricture)
-- Angiography (in acute bleeding phase) (*why:* used for active, brisk bleeding not controllable/localisable at colonoscopy, and can be therapeutic (embolisation); *what:* identifies the actively bleeding vessel)
-
-**Mx:**
-- **Immediate/acute:** resuscitate as per UGIB (same principles — ABC, IV access, correct coagulopathy).
-- **Definitive:** treat the underlying condition once identified (endoscopic haemostasis, embolisation, or surgery depending on source and severity).
-- **Chronic/long-term:** address the underlying cause definitively (e.g. oncological management for a malignant source, IBD Mx if that's the cause) to prevent recurrence.
-
----
-
-## 0.35 Irritable Bowel Syndrome (IBS)
-
-**D:** chronic condition characterised by abdominal pain associated with bowel dysfunction; no structural abnormality; multifactorial.
-
-**R:** physical and sexual abuse, PTSD, <50yo, F>M (2:1), previous enteric infection, family history, stress
-
-**A/P:** altered gastric motility, inflammatory or immune system involvement, microbiota changes, bile acid malabsorption; dysfunction in motor and sensory aspects of the GI tract.
-
-**Dx:** consider if ≥6 months of abdominal pain and/or bloating and/or change in bowel habit. Positive diagnosis if ≥2 of 4 (+ pain relieved by defecation): altered stool passage, abdominal bloating/distension/tension/hardness, symptoms worse with eating, passage of mucus.
-
-**Ix:** FBC, ESR/CRP (*why:* screens for an organic/inflammatory cause that would argue against a pure IBS diagnosis; *what:* normal in true IBS — any abnormality should prompt further work-up rather than accepting an IBS diagnosis), coeliac disease screen — IgA-tTG (*why:* coeliac disease is a common IBS mimic and must be excluded, since dietary management differs entirely; *what:* negative in true IBS). Enquire about red flags: rectal bleeding, unexplained weight loss, family history of bowel/ovarian cancer, >60yo (*why:* IBS is a diagnosis of exclusion in the presence of any red flag — these warrant further investigation rather than an IBS label; *what:* presence of any red flag should prompt colonoscopy/further work-up rather than accepting the IBS diagnosis).
-
-> [!info] Verified against eTG/GESA and AU general practice sources, Aug 2026 — the drug options below are largely internationally standard and still applicable in Australia, but the dietary advice should be updated to the **low-FODMAP diet**, developed at Monash University and specifically recommended as first-line dietary therapy by eTG/GESA — a much more Australian-relevant recommendation than generic high-fibre-limiting advice.
-> **Mx (Definitive/chronic — no acute tier, this is a chronic functional condition):** antispasmodic agents (e.g. hyoscine butylbromide), laxatives (not lactulose — osmotic laxatives like PEG preferred), loperamide — consider linaclotide if maximum loperamide or constipation ≥12 months; low-dose TCAs (amitriptyline 5–10mg preferred over SSRIs); peppermint oil as an additional antispasmodic option.
->
-> **Dietary Mx (updated to Monash low-FODMAP approach):** the low-FODMAP diet (Monash University, Melbourne) is eTG/GESA's recommended first-line dietary intervention, with ~70% symptom response reported (vs ~50% for standard dietary advice). It is structured in 3 stages, not a "low-FODMAP forever" diet: **Stage 1 — Restriction** (4–6 weeks strict low-FODMAP); **Stage 2 — Reintroduction** (systematic testing of FODMAP subgroups one at a time to identify individual triggers); **Stage 3 — Personalisation** (long-term least-restrictive diet removing only confirmed triggers). Best delivered with dietitian involvement given its complexity — a simple "avoid high-fibre foods" handout (as older/UK-style general advice suggests) is a less evidence-based and less personalised approach than the structured Monash protocol.
->
-> **Other:** psychological therapies (CBT, gut-directed hypnotherapy) have a reasonable evidence base; regular meals and eating slowly remain sensible general advice regardless of the specific dietary framework used.
-
-**P:** normal life expectancy, no long-term complications, but reduced quality of life.
-
----
-
-## 0.36 Diverticular Disease
-
-**D:** clinical state caused by symptoms pertaining to colonic diverticula.
-- Colonic diverticulosis = herniation of mucosa and submucosa through the muscular layer of the colonic wall
-- Diverticulitis = inflammation of diverticula, possibly due to infection
-
-**R:** >50yo, low dietary fibre ± increased salt/meat/sugar intake, obesity, NSAID and opioid use
-
-**A/P:** low fibre diet → increased intestinal transit time → increased stool volume → increased intraluminal pressure and colonic segmentation → predisposes to diverticula formation.
-
-**S/Smx:** generally asymptomatic until inflamed (diverticulitis) — LLQ abdominal pain, ↑WCC, fever ± PR bleeding, bloating, constipation, diarrhoea; DRE — tenderness, palpable mass.
-
-**Ix:** FBC, U&Es, CRP (*why:* supports the inflammatory diagnosis and assesses severity/hydration status; *what:* raised WCC/CRP in diverticulitis). Colonoscopy, CT colonogram, or barium enema (*why:* confirms the diagnosis and extent of diverticulosis, typically performed electively after an acute episode settles rather than during active diverticulitis given perforation risk; *what:* identifies diverticula and their distribution). If acutely unwell, CXR and AXR (*why:* screens for free air/perforation as an urgent complication; *what:* free air if perforated).
-
-**Mx:**
-- **Immediate/acute:** mild attacks — conservative ± antibiotics; peri-colonic abscesses — drained surgically or radiologically (per Hinchey classification below).
-- **Definitive:** recurrent episodes requiring admission — segmental resection; Hinchey IV — resection + stoma (high risk of post-op complications given faecal peritonitis).
-- **Chronic/long-term:** increased dietary fibre intake to reduce recurrence risk.
-
-> [!info] Hinchey severity classification
-> I: para-colonic abscess | II: pelvic abscess | III: purulent peritonitis | IV: faecal peritonitis
-
-**P:** 1/3 of patients have recurrent diverticular disease, mostly within 5 years (higher risk in younger patients, abscess formation at index diagnosis). Associated with higher mortality, reduced response to therapy. After surgery, 1/4 of patients remain symptomatic.
-
----
-
-## 0.37 Ischaemic Bowel Disease
-
-**D:** umbrella term including acute mesenteric ischaemia (further divided into embolic, thrombotic, or venous), chronic mesenteric ischaemia, and colonic ischaemia.
-
-**R:** ↑age, smoking, hypercoagulable state (e.g. previous VTE), atrial fibrillation, MI, history of vasculitis
-
-**A:** embolism (50%), thrombosis (15–20%), vasculitis, venous thrombosis (5%), hypoperfusion (e.g. shock, heart failure, recent surgery)
-
-**P:** ischaemia secondary to hypoperfusion of the intestinal segment.
-
-**S/Smx:** severe, sudden-onset abdominal pain out of keeping with physical findings; PR bleeding (melaena).
-
-**Ix:** urgent CT scan with contrast or CT angiogram (*why:* the key diagnostic test, directly visualises the mesenteric vasculature and bowel wall changes; *what:* identifies the occluded/narrowed vessel and any bowel wall changes suggesting infarction). Erect CXR (*why:* rapid screen for a late complication; *what:* shows free air if perforation present).
-
-**Mx:**
-- **Immediate/acute:** resuscitation + supportive care; empirical IV antibiotics (given bacterial translocation risk from compromised bowel wall); immediate laparotomy usually required, especially with advanced ischaemia signs (peritonism, signs of necrosis) — this is a time-critical surgical emergency given the risk of bowel necrosis/perforation.
-- **Chronic/long-term:** manage risk factors (anticoagulation for embolic sources e.g. AF, cardiovascular risk factor modification) — patient may need LMWH/long-term anticoagulation depending on the underlying cause.
-
----
-
-## 0.38 Cirrhosis
-
-> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, flagged "Unlikely covered" despite High relevance) — the source notes cover cirrhosis's complications extensively within the Alcohol-Related Liver Disease section (ascites, encephalopathy, varices, SBP), but never as a standalone unifying entity, which matters since cirrhosis is a common final pathway for many of the liver diseases in this file (ArLD, chronic viral hepatitis, NAFLD/NASH, autoimmune/genetic liver disease) and is tested as a topic in its own right.
-
-**D:** The end stage of chronic liver injury of any cause — diffuse hepatic fibrosis with regenerative nodules, replacing normal liver architecture and disrupting both hepatocyte function and hepatic blood flow.
-
-**A/P (causes — cross-referencing the disease-specific sections already built in this file):** alcohol-related liver disease (see ArLD above), chronic hepatitis B/C (see Hepatitis above), non-alcoholic fatty liver disease/NASH (see NAFLD above), autoimmune hepatitis, PSC/PBC (see above), haemochromatosis, Wilson's disease (see above), alpha-1 antitrypsin deficiency, cardiac cirrhosis (chronic right heart failure — see [[01_Cardiovascular]] Chronic Heart Failure), drug-induced. Regardless of cause, the shared final pathway is progressive fibrosis distorting hepatic architecture → portal hypertension (from increased intrahepatic resistance to portal blood flow) + hepatocyte loss/dysfunction (impaired synthetic and metabolic function) — these two mechanisms explain essentially all of the clinical complications below.
-
-**S/Smx:** may be asymptomatic (compensated cirrhosis) or present with decompensation:
-- Synthetic dysfunction: coagulopathy (bruising/bleeding), hypoalbuminaemia (oedema), hepatic encephalopathy (see ArLD section above for grading)
-- Portal hypertension: ascites (see ArLD section above), splenomegaly, oesophageal/gastric varices with bleeding risk (see UGIB section above), caput medusae
-- Chronic liver disease stigmata: spider naevi, palmar erythema, gynaecomastia, testicular atrophy, Dupuytren's contracture, leuconychia, clubbing
-- Jaundice (impaired bilirubin conjugation/excretion)
-
-**Ix:** LFTs (*why:* may be relatively normal in end-stage cirrhosis despite severe disease — a key teaching point, since the liver has "burnt out" rather than being actively inflamed; synthetic markers matter more than transaminases at this stage; *what:* transaminases may be only mildly elevated or even normal; low albumin and prolonged PT/INR reflect synthetic dysfunction more reliably). FBC (*why:* screens for cytopenias from hypersplenism (portal hypertension-driven splenic sequestration) and anaemia from chronic GI blood loss/nutritional deficiency; *what:* thrombocytopenia is often the earliest lab clue to portal hypertension). Hepatic US ± elastography (*why:* non-invasively assesses architecture and fibrosis/cirrhosis severity, and screens for HCC and ascites; *what:* nodular, shrunken liver, increased echogenicity, splenomegaly). Liver biopsy (*why:* the historical gold standard for confirming cirrhosis and identifying the underlying cause histologically, now used more selectively given good non-invasive alternatives; *what:* regenerative nodules surrounded by fibrous septa). Aetiology-specific work-up per the causes above (viral serology, autoimmune/genetic markers, iron/copper studies) once cirrhosis is identified, to determine the underlying cause if not already known.
-
-**Mx:**
-- **Immediate/acute:** manage decompensation as it presents — see the specific complication sections already built in this file: ascites, hepatic encephalopathy, variceal bleeding (UGIB section), and SBP (all under Alcohol-Related Liver Disease above, though the same Mx applies regardless of cirrhosis aetiology).
-- **Definitive:** treat the underlying cause where a disease-modifying option exists (antiviral therapy for HBV/HCV, alcohol cessation, weight loss/metabolic control for NAFLD, venesection for haemochromatosis, chelation for Wilson's — cross-reference the relevant sections above); liver transplant assessment for decompensated cirrhosis meeting listing criteria.
-- **Chronic/long-term:** regular surveillance — 6-monthly liver US ± AFP for HCC, endoscopic surveillance for varices, Child-Pugh/MELD scoring to track severity and prognosticate/guide transplant listing timing (see Liver disease severity scoring under Hepatitis above); vaccination (influenza, pneumococcal, hepatitis A/B if non-immune); avoid hepatotoxic drugs and NSAIDs; alcohol cessation regardless of aetiology.
-
-**P:** highly variable depending on aetiology, degree of decompensation, and whether the underlying cause is treatable; Child-Pugh and MELD scores are the standard prognostic tools (see above) and also determine transplant priority.
-
----
-
-## 0.39 Ileus
-
-> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, Medium yield, "unlikely covered") — not covered in the source notes, which cover mechanical SBO/LBO in detail but not the non-mechanical differential.
-
-**D:** Paralytic/adynamic ileus — a functional (non-mechanical) failure of bowel peristalsis, as opposed to the mechanical blockages covered under SBO/LBO above. An important differential to distinguish from true mechanical obstruction, since the Mx approach differs.
-
-**R:** recent abdominal surgery (the most common cause — some degree of post-operative ileus is near-universal, becoming pathological if prolonged), electrolyte disturbance (especially hypokalaemia, hypomagnesaemia), peritonitis/intra-abdominal sepsis, opioid analgesia, retroperitoneal/spinal pathology, severe systemic illness.
-
-**A/P:** disruption of the coordinated neuromuscular activity of the bowel wall (rather than a physical blocking lesion) → failure of peristalsis → functional obstruction with the same downstream consequences as mechanical obstruction (distension, fluid/gas accumulation) despite no anatomical blockage.
-
-**S/Smx:** abdominal distension, absence of bowel sounds (a key distinguishing feature from mechanical obstruction, which classically has tinkling/hyperactive bowel sounds early on), nausea/vomiting, absence of flatus/stool, mild/diffuse discomfort rather than the colicky pain typical of mechanical obstruction.
-
-**Ix:** AXR (*why:* screens for the distribution of gas/distension, though distinguishing ileus from mechanical obstruction radiologically can be difficult; *what:* diffusely dilated bowel loops, both small and large bowel, without a clear transition point — unlike mechanical obstruction, which typically shows dilated bowel proximal to a transition point with collapsed bowel distally). U&Es incl. Mg (*why:* identifies and allows correction of an electrolyte trigger; *what:* may show hypokalaemia/hypomagnesaemia). CT (*why:* used when the distinction from mechanical obstruction is unclear on plain film, since Mx differs significantly; *what:* absence of a discrete transition point/obstructing lesion supports ileus over mechanical obstruction).
-
-**Mx:**
-- **Immediate/acute:** NBM, IV fluids, correct any electrolyte disturbance identified (especially K/Mg); NGT decompression if significant distension/vomiting; review and minimise opioid analgesia where possible (a common perpetuating factor, particularly post-operatively).
-- **Definitive:** treat the underlying precipitant (e.g. source control for intra-abdominal sepsis); mobilisation and early enteral feeding where tolerated (supports return of normal motility, especially post-operatively).
-- **Chronic/long-term:** most cases resolve once the precipitant is addressed; persistent/recurrent ileus warrants investigation for an underlying mechanical cause that may have been missed, or a chronic dysmotility syndrome.
-
----
-
-## 0.40 Malabsorption
-
-> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, High yield, "unlikely covered") — not covered as a unifying topic in the source notes, though several individual causes (coeliac disease, chronic pancreatitis, SBBOS) are already built above and are cross-referenced here rather than repeated.
-
-**D:** Impaired absorption of one or more dietary nutrients, leading to their loss in stool and the downstream clinical consequences of the specific deficiency.
-
-**A (causes, cross-referencing sections already built in this file):**
-- **Mucosal disease:** coeliac disease (see above), Crohn's disease with small bowel involvement (see above), tropical sprue
-- **Pancreatic exocrine insufficiency:** chronic pancreatitis (see above), CF, pancreatic cancer obstructing the duct (see above)
-- **Bile salt deficiency/biliary obstruction:** PBC/PSC (see above), any cause of significant cholestasis
-- **Bacterial:** small bowel bacterial overgrowth (see above)
-- **Structural/post-surgical:** short bowel syndrome (post-resection), gastric bypass surgery
-- **Other:** lactose intolerance (specific to a single nutrient rather than global malabsorption)
-
-**S/Smx:** steatorrhoea (pale, bulky, offensive, difficult-to-flush stool — from fat malabsorption specifically), weight loss, failure to thrive (children), fatigue, symptoms of specific deficiencies — iron/B12/folate (anaemia), fat-soluble vitamins A/D/E/K (night blindness, osteomalacia/bone pain, neuropathy, easy bruising/coagulopathy respectively), calcium/magnesium (tetany, paraesthesia), protein (oedema from hypoalbuminaemia).
-
-**Ix:** the work-up is directed by the suspected underlying cause rather than a single generic panel — FBC and hematinics (*why:* screens for the anaemia pattern suggesting the specific deficiency and hence the likely site/cause of malabsorption; *what:* microcytic (iron), macrocytic (B12/folate) anaemia). Coeliac serology (*why:* screens for the single most common global cause; *what:* see Coeliac Disease section above). Faecal elastase (*why:* screens for pancreatic exocrine insufficiency; *what:* see Chronic Pancreatitis section above). Faecal fat testing (*why:* historically used to confirm fat malabsorption objectively, though largely superseded by more targeted cause-specific testing; *what:* elevated faecal fat confirms steatorrhoea). Vitamin/mineral levels (B12, folate, iron studies, vitamin D, calcium, magnesium) (*why:* directly quantifies the specific deficiencies present, guiding both diagnosis and replacement therapy; *what:* low levels per the specific nutrient affected). Hydrogen breath test if SBBOS suspected (see above).
-
-**Mx:**
-- **Definitive:** treat the underlying cause — cross-reference the relevant disease section above (gluten-free diet for coeliac, PERT for pancreatic insufficiency, antibiotics for SBBOS, etc.) rather than treating malabsorption as a generic entity.
-- **Chronic/long-term:** replace specific deficiencies identified (iron, B12, folate, fat-soluble vitamins, calcium/magnesium as needed); dietitian involvement for nutritional optimisation; monitor for and address the downstream complications of prolonged deficiency (osteoporosis from vitamin D/calcium deficiency, peripheral neuropathy from B12 deficiency).
-
----
-
-## 0.41 Abdominal Pain — Regional Anatomy and DDx
-
-### 0.41.1 Anatomical regions and their contents
-| Region | Structures |
-|---|---|
-| Right hypochondrium | Liver + GB, right kidney + adrenal, small intestine, ascending colon |
-| Right flank | Liver + GB, ascending colon |
-| RIF | Ileocaecal junction, appendix ± ovaries/fallopian tube |
-| Epigastric | Stomach, transverse colon, liver, spleen, pancreas, small intestine |
-| Umbilical | Small intestine (including duodenum) |
-| Left hypochondrium | Spleen, pancreas, left kidney + adrenal, descending colon |
-| Left flank | Left kidney, descending colon |
-| Hypogastric | Bladder, sigmoid colon ± uterus ± male reproductive organs |
-| LIF | Descending and sigmoid colon ± ovaries/fallopian tube |
-
-> [!danger] Red flags
-> Severe pain, signs of shock, peritoneal signs (rebound tenderness, ↓bowel sounds, new/worsening ascites, fever/chills), abdominal distension, blood in stool/urine, anorexia/weight loss, abdominal mass/organomegaly, fever, jaundice, awakening/nocturnal pain
-
-### 0.41.2 DDx by system
-- **Gastroduodenal:** GORD, peptic ulcer, gastritis, malignancy, gastric volvulus
-- **Intestinal:** appendicitis, obstruction, diverticulitis, gastroenteritis, mesenteric adenitis, strangulated hernia, IBD + coeliac + lactose intolerance, intussusception, volvulus, TB
-- **Hepatobiliary:** cholecystitis, cholangitis, hepatitis
-- **Pancreatic:** pancreatitis, malignancy
-- **Splenic:** infarction, spontaneous rupture
-- **Urinary tract:** cystitis, acute urinary retention, acute pyelonephritis, ureteric colic, hydronephrosis, tumour, pyonephrosis, polycystic kidney
-- **Gynaecological:** ruptured ectopic pregnancy, torsion of ovarian cyst, ruptured ovarian cyst, salpingitis, severe dysmenorrhoea, mittelschmerz, endometriosis, red degeneration of a fibroid
-- **Vascular:** aortic aneurysm, mesenteric embolus, mesenteric angina (claudication), mesenteric venous thrombosis, ischaemic colitis, acute aortic dissection
-- **Peritoneum:** peritonitis
-- **Abdominal wall:** strangulated hernia, rectus sheath haematoma, cellulitis
-- **Retroperitoneal:** haemorrhage (e.g. anticoagulants)
-- **Referred pain:** myocardial infarction, pericarditis, testicular torsion, pleurisy, herpes zoster, lobar pneumonia, thoracic spine disease (e.g. disc, tumour)
-- **'Medical' causes:** hypercalcaemia, uraemia, diabetic ketoacidosis, sickle cell disease, Addison's disease, acute intermittent porphyria, Henoch-Schönlein purpura, tabes dorsalis
-
----
-
-## 0.42 Faecal Incontinence (Adult)
-
-> [!note] Gap-filled from CSV ("Faecal incontinence," found under Renal & Urology in the source spreadsheet, but genuinely a GI/colorectal topic) — the paediatric equivalent (encopresis, driven overwhelmingly by functional constipation/stool-withholding) is already built in [[15_10_Paeds_-_UTI__Nephrotic_Syndrome__Glomerulonephritis]] Encopresis (faecal incontinence), not repeated here — but adult faecal incontinence is a genuinely different condition with different dominant causes, and had no coverage anywhere. Verified against RACGP's Silver Book aged care guide and current Australian primary care research, Aug 2026.
-
-- **D:** the involuntary loss of solid or liquid stool, causing social or hygienic distress — a genuinely under-recognised and under-treated condition, not a rare or minor complaint. Australian primary care data show it affects roughly **12% of adults** seeking primary healthcare — more prevalent than diabetes, osteoporosis, and cancer *combined* — and it's the **second leading cause of nursing home placement**, reflecting how disabling it can become if unaddressed.
-- **R/A:** genuinely multifactorial, and often more than one cause coexists in the same patient:
-  - **Sphincter/structural damage:** obstetric anal sphincter injury (see [[16_10-13_Labour_and_Delivery]] for the acute perineal tear grading and repair, not repeated here — this is a recognised long-term consequence of that acute injury), previous anorectal surgery, rectal prolapse.
-  - **Neurological:** conditions affecting the nerve supply to the anal sphincter or the sensation of rectal filling — diabetic neuropathy, spinal cord injury/disease, multiple sclerosis, dementia (via impaired awareness/response to the urge, rather than a sphincter problem per se).
-  - **Overflow incontinence:** paradoxically, **severe chronic constipation with faecal impaction is a common cause of liquid stool leakage** around the impacted mass — a genuinely important, easily-missed pattern, since the presenting complaint (leaking loose stool) can superficially suggest diarrhoea-driven incontinence when the actual underlying problem is impaction requiring disimpaction, not anti-diarrhoeal treatment.
-  - **Loose stool/diarrhoea of any cause** — genuinely under-recognised as a risk factor by GPs despite being one of the most important, given even a normally-competent sphincter can be overwhelmed by urgency and looser stool consistency.
-  - **Cognitive/functional impairment** — particularly relevant in aged care settings, where immobility and impaired communication compound the risk.
-- **Ix:** a careful history (stool consistency, urgency vs passive leakage, obstetric/surgical history, associated urinary symptoms, medication review) and digital rectal examination (sphincter tone, faecal loading/impaction, rectal mass) form the essential first-line assessment; **anal manometry and endoanal ultrasound** are specialist investigations used to assess sphincter function and structural integrity respectively when conservative management fails or surgery is being considered — genuinely under-recognised by GPs as available tools, per Australian primary care survey data, rather than being niche or inaccessible investigations.
-- **Mx:**
-  - **Immediate/acute:** treat any identifiable reversible cause directly — disimpaction for overflow incontinence (a genuinely different, near-opposite treatment to what "incontinence" might intuitively suggest), treat active diarrhoeal illness, review and adjust contributing medications.
-  - **Definitive (first-line, most patients):** conservative management — dietary and bowel habit modification (fibre/fluid adjustment tailored to the underlying pattern), scheduled toileting, and **pelvic floor muscle training/biofeedback**, which has a genuine evidence base for improving sphincter function and symptom control in appropriately selected patients.
-  - **Chronic/long-term:** anti-motility agents (e.g. loperamide) where loose stool is a contributing factor, to firm stool consistency; referral to a specialist continence service or colorectal surgeon for refractory cases, where options include sacral nerve stimulation and surgical sphincter repair (sphincteroplasty) for confirmed structural defects.
-- **P:** genuinely treatable in a substantial proportion of patients with appropriate assessment and a structured conservative-first approach — the poor outcomes often reported reflect under-recognition and under-referral rather than the condition being inherently untreatable, which is precisely why active screening (rather than waiting for patients to volunteer this genuinely stigmatised symptom) matters.
-
-
 <!-- ===== SOURCE: C1_Acute_Abdomen.md ===== -->
 
 
@@ -1823,6 +387,109 @@ Group-appropriate follow-up, including obstetric review after any operative inte
 > Nausea and vomiting → [[C2]] · Jaundice and liver failure → [[C3]] · GI bleeding → [[C4]] · Bowel obstruction and altered bowel habit → [[C5]] · Dyspepsia and anorectal pain → [[C6]] · Pancreatitis in detail → [[C7]] · Ascending cholangitis and biliary sepsis → [[F0.3]] 0.11 · Renal colic → [[F0.5]] 0.9 and [[H4]] · Ectopic pregnancy → [[O1]] · Testicular torsion → [[H4]] · Paediatric abdominal pain → [[M5]] · Major haemorrhage and damage control → [[A9]] 0.1 · Lactic acidosis → [[F0.2]] 0.5
 
 
+<!-- ===== SOURCE: NEW_Gastroenterology_and_Hepatology.md ===== -->
+
+
+# NEW — Gastroenterology & Hepatology
+
+> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains the two Tier 1 topics only.** This is the largest category on the list — 2 T1, 7 T2 and 52 T3 topics. See the build-status table at the end.
+
+## Acute Abdominal Pain
+
+- **D:** abdominal pain of recent onset. The clinical task is to separate the patient who needs an operation or resuscitation now from the much larger group who do not — and to do it before imaging, because the decision to escalate often has to precede the scan.
+- **DDx — by region, which is how the differential is actually generated at the bedside**, with the catastrophes listed separately because they cross all regions:
+  - **The catastrophes, considered in every patient regardless of where the pain is:** **ruptured abdominal aortic aneurysm** (older patient, back/flank pain, hypotension, pulsatile mass — and frequently misdiagnosed as renal colic); **ruptured ectopic pregnancy** (any woman of reproductive age); **perforated viscus**; **mesenteric ischaemia** (**pain grossly out of proportion to a soft abdomen**, often in atrial fibrillation or vascular disease — the classic missed diagnosis); **bowel obstruction with strangulation**; **acute pancreatitis**; **myocardial infarction presenting as epigastric pain**, particularly inferior MI; **diabetic ketoacidosis**, which causes abdominal pain and can be mistaken for a surgical abdomen; **testicular torsion** referring to the abdomen.
+  - **Right upper quadrant:** biliary colic, acute cholecystitis, ascending cholangitis, hepatitis, liver abscess, **Fitz-Hugh–Curtis syndrome**, right lower lobe pneumonia.
+  - **Epigastric:** peptic ulcer disease and perforation, gastritis, pancreatitis, **MI**, oesophagitis, gastric malignancy.
+  - **Left upper quadrant:** splenic infarct or rupture, gastric pathology, pancreatitis, left lower lobe pneumonia.
+  - **Right lower quadrant:** **appendicitis**, mesenteric adenitis, Crohn's disease, caecal pathology, ovarian torsion or cyst accident, ectopic pregnancy, ureteric colic, psoas abscess.
+  - **Left lower quadrant:** **diverticulitis**, colitis, constipation, ovarian pathology, ureteric colic.
+  - **Suprapubic:** urinary retention, cystitis, pelvic inflammatory disease, endometriosis, ovarian cyst.
+  - **Diffuse:** gastroenteritis, obstruction, ischaemia, peritonitis, DKA, hypercalcaemia, adrenal crisis, **medical mimics** — lower lobe pneumonia, herpes zoster before the rash, sickle cell crisis, lead poisoning, familial Mediterranean fever, acute intermittent porphyria.
+- **Focused Hx:** **SOCRATES**, with the discriminating detail: **onset** (instantaneous → perforation, rupture, embolus; colicky and building → obstruction or colic; gradual over days → inflammation or infection); **migration** (**central to right iliac fossa is the classic appendicitis history and remains genuinely useful**); character (colicky, constant, boring through to the back in pancreatitis); **relieving and aggravating factors — movement worsening pain suggests peritonism, whereas the patient with colic writhes and cannot get comfortable**; vomiting and **whether it preceded or followed the pain** (pain-first favours a surgical cause); bilious or faeculent vomiting; **bowel habit, flatus and last bowel motion**; melaena or rectal bleeding; urinary symptoms; **last menstrual period and possibility of pregnancy — in every woman of reproductive age, without exception**; fever; weight loss; jaundice; alcohol; NSAIDs, steroids and anticoagulants; previous abdominal surgery (**adhesional obstruction**); comorbidity including atrial fibrillation and vascular disease; and recent travel or contacts.
+- **Examination:** **A–E and vital signs first — including temperature and a capillary glucose.**
+  - **Observe the patient before touching them**: lying completely still suggests peritonitis; restless and writhing suggests colic.
+  - **Inspect** for distension, scars, hernias (**examine all hernial orifices — an incarcerated hernia is easily missed under a gown**), visible peristalsis, bruising (Grey Turner's and Cullen's signs, late and uncommon).
+  - **Palpate** gently and away from the pain first: guarding, rigidity, rebound and percussion tenderness; **localised versus generalised peritonism**; organomegaly; **a pulsatile expansile mass**; Murphy's sign; Rovsing's sign.
+  - **Percuss** for tympany and shifting dullness; **auscultate** for bowel sounds (**absent in peritonitis; high-pitched and tinkling in obstruction — though bowel sounds alone are a weak sign**) and for bruits.
+  - **Digital rectal examination** where indicated — for melaena, blood, masses and impaction; **examine the external genitalia and scrotum in men**.
+  - **Pelvic examination** where gynaecological pathology is likely and it will change management, with consent and a chaperone.
+  - Look for **jaundice, signs of chronic liver disease, and lymphadenopathy**; examine the **chest** for lower lobe pneumonia and the **cardiovascular system** for AF.
+- **First-line Ix:**
+  - **β-hCG in every woman of reproductive age — the single most important test in this presentation**, done before imaging and before analgesia decisions.
+  - **Capillary glucose and ketones**; **ECG** in anyone over about 40, or with epigastric pain, vascular risk or an atypical picture.
+  - **Bloods:** FBC, CRP, UEC, **LFTs**, **lipase or amylase** (lipase preferred where available), calcium, magnesium, coagulation profile, **group and hold or crossmatch**, **venous blood gas with lactate** — **a rising lactate with a soft abdomen and severe pain should raise mesenteric ischaemia**, and a normal lactate early does not exclude it.
+  - **Blood cultures** if febrile or septic.
+  - **Urinalysis** — with the caution that **haematuria supports but does not confirm ureteric colic, and an AAA can produce both pain and haematuria**.
+  - **Imaging:** erect chest X-ray for free air where perforation is suspected; **CT abdomen and pelvis** is the workhorse for the undifferentiated acute abdomen in adults; **ultrasound first** for suspected biliary disease, for gynaecological causes, in pregnancy and in children; **CT angiography** where mesenteric ischaemia or aneurysm is suspected.
+  - **Analgesia is given while investigating** — the historical concern that it masks signs and delays diagnosis is not supported, and withholding it is both unkind and unnecessary.
+
+> [!warning] **Three groups where the examination lies, and where the threshold to investigate must be lower:** **older people** (peritonism is often absent, presentation is late and mortality is high), **immunosuppressed patients including those on corticosteroids** (blunted inflammatory signs and fever), and **pregnant women** (displaced anatomy shifts appendicitis pain upward, and physiological changes mask tachycardia and leucocytosis). Add to these the **patient with a spinal cord injury or diabetic autonomic neuropathy**, who may not feel visceral pain at all.
+
+## Upper Gastrointestinal Bleeding
+
+- **D:** bleeding proximal to the ligament of Treitz, presenting as **haematemesis, coffee-ground vomiting, or melaena** — and occasionally as **haematochezia when bleeding is brisk**, which is a marker of severity rather than of a lower GI source.
+- **DDx:**
+  - **Peptic ulcer disease** — the commonest cause; consider *H. pylori*, **NSAIDs and aspirin**, and physiological stress.
+  - **Oesophageal or gastric varices** — in portal hypertension. A distinct entity because management, mortality and the presence of coagulopathy all differ, and because these patients frequently have coexisting sepsis and encephalopathy.
+  - **Mallory–Weiss tear** — after retching or vomiting; classically vomiting first, then blood.
+  - **Oesophagitis and gastritis/duodenitis**.
+  - **Malignancy** — gastric or oesophageal.
+  - **Angiodysplasia**, **Dieulafoy lesion**, **aorto-enteric fistula** (in a patient with a previous aortic graft — rare, catastrophic, and worth knowing because it presents with a self-limiting "herald bleed" before exsanguination).
+  - **Swallowed blood** from epistaxis or haemoptysis — an easily missed non-GI explanation.
+- **Focused Hx:** **volume and nature of what was vomited or passed**, and how many episodes; **melaena described specifically — black, tarry, offensive** (patients on iron or bismuth report black stool that is not melaena); dizziness, syncope or breathlessness (**symptoms of volume loss matter more than the estimated volume of blood**); abdominal pain and dyspepsia; **retching before the haematemesis** (Mallory–Weiss); weight loss and dysphagia; **alcohol history and known liver disease**; **NSAIDs, aspirin, anticoagulants, antiplatelets and steroids — with the last dose and the indication**, since reversal decisions follow; previous ulcer, *H. pylori* eradication, previous variceal bleed or banding; previous aortic surgery; comorbidity, particularly cardiac and renal, which limits transfusion and fluid strategy.
+- **Examination:** **A–E, with the assessment focused on haemodynamic compromise rather than on the abdomen.**
+  - **Vital signs including postural blood pressure where the patient is stable enough** — **tachycardia and postural drop precede hypotension**, and a normal supine blood pressure in a young patient is not reassuring.
+  - Perfusion: capillary refill, peripheral temperature, conscious state, urine output.
+  - **Signs of chronic liver disease and portal hypertension** — jaundice, spider naevi, palmar erythema, gynaecomastia, caput medusae, ascites, splenomegaly, asterixis, encephalopathy — because their presence changes the working diagnosis to variceal bleeding.
+  - Abdominal examination for tenderness, masses, organomegaly.
+  - **Digital rectal examination to confirm melaena** — the finding that converts a vague history into a definite upper GI bleed.
+  - Examine the **nose and oropharynx** for a bleeding source that has been swallowed.
+- **First-line Ix:**
+  - **Two large-bore IV cannulae and bloods taken at the same time**: **FBC** (**a normal haemoglobin early does not exclude significant bleeding — haemodilution takes time**), **UEC** (**a urea raised disproportionately to creatinine supports an upper GI source**, from absorbed blood protein), **LFTs**, **coagulation profile including INR and fibrinogen**, **calcium**, **venous gas with lactate and haemoglobin** for a rapid result, and **group and crossmatch**.
+  - **ECG and troponin** where there is cardiac history or chest symptoms — demand ischaemia is common and changes transfusion thresholds.
+  - **Risk stratification with a validated pre-endoscopy score.** The **Glasgow–Blatchford score** uses urea, haemoglobin, systolic blood pressure, pulse, melaena, syncope, and hepatic disease or cardiac failure — all available before endoscopy. Sources agree that **a score of 0 identifies patients at very low risk of needing intervention**, who may be considered for outpatient management; higher scores indicate a need for admission and urgent endoscopy. *(Specific higher cut-off values are not stated here — they were not consistent across three sources, and cut-offs differ between guidelines.)*
+  - **Upper GI endoscopy** — both diagnostic and therapeutic. Sources agree endoscopy is generally performed **within 24 hours** of presentation, with earlier endoscopy for haemodynamically unstable patients or suspected variceal bleeding, after resuscitation.
+  - **Erect chest X-ray** if perforation is a possibility; **CT angiography** where bleeding is brisk and endoscopy is unhelpful or unavailable.
+- **Immediate management points at intern level:** resuscitate with the airway first — **a patient with massive haematemesis and reduced consciousness is at high risk of aspiration and may need intubation before endoscopy**; **keep the patient nil by mouth**; **activate the local massive transfusion protocol if bleeding is torrential**; **stop NSAIDs, antiplatelets and anticoagulants and discuss reversal urgently**; and **escalate early** — this is not a presentation to reassess in an hour.
+
+> [!warning] **Transfusion thresholds and drug therapy are deliberately omitted.** A restrictive transfusion strategy is standard in non-exsanguinating upper GI bleeding, and specific agents (proton pump inhibitors, vasoactive drugs and antibiotics in suspected variceal bleeding) have defined roles — but **no specific haemoglobin trigger or drug dose met the three-source standard here**, and the Australian sources that would settle them are egress-blocked. Follow the local massive transfusion and upper GI bleeding protocols. **The principle worth carrying is that over-transfusion in variceal bleeding can worsen portal pressure and rebleeding**, which is why the restrictive strategy exists.
+
+---
+
+## Build status of this file
+
+| Tier | Count | Status |
+|---|---|---|
+| **T1** | 2 | **Both built** — Acute Abdominal Pain, Upper Gastrointestinal Bleeding |
+| T2 | 7 | Not built — Acute Anorectal Pain, Acute Constipation, Acute Diarrhoea, Acute Hepatic Pain, Acute Nausea, Acute Pancreatic Pain, Acute Vomiting |
+| T3 | 52 | Not built |
+
+## Topics skipped in this category
+
+All 11 skips are T3, so none affects Tier 1 completeness.
+
+| Topic | Matched header | File | Match type |
+|---|---|---|---|
+| **Abdominal Pain** | `## Abdominal Pain` | `History-Taking.md` | Exact |
+| **Constipation** | `## Constipation` | `History-Taking.md` | Exact |
+| **Diarrhoea** | `## Diarrhoea (Acute and Chronic, incl. Infective/Travel)` | `History-Taking.md` | Exact |
+| **Chronic Diarrhoea** | `### Chronic diarrhoea` | `15_07_Paeds_-_Abdominal_Pain...` | Exact — **but the match is inside a paediatric file**; check whether it covers the adult presentation |
+| **Jaundice** | `## Jaundice (history context)` | `History-Taking.md` | Exact |
+| **Dysphagia** | `## Dysphagia — approach` | `13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology.md` | Partial |
+| **Haematemesis** | `## GI Bleeding — Haematemesis, Melaena, Rectal Bleeding (history context)` | `History-Taking.md` | Partial — combined header |
+| **Melaena** | same combined header | `History-Taking.md` | Partial |
+| **Rectal Bleeding** | same combined header | `History-Taking.md` | Partial |
+| **Nausea** | `## Nausea and Vomiting` | `History-Taking.md` | Partial — combined header |
+| **Vomiting** | `## Nausea and Vomiting` | `History-Taking.md` | Partial — combined header |
+
+> [!note] **Note on the T1 topic `Upper Gastrointestinal Bleeding`.** It was **built** despite the combined `GI Bleeding — Haematemesis, Melaena, Rectal Bleeding (history context)` header existing, because that header is explicitly **history context** and covers upper *and* lower bleeding together, whereas this is a T1 resuscitation-and-risk-stratification build. **Expect overlap and decide ownership on review.**
+
+
 <!-- ===== SOURCE: C2_Nausea_and_Vomiting.md ===== -->
 
 
@@ -2096,288 +763,299 @@ Nutritional rehabilitation with refeeding precautions. Dental review after chron
 > Acute abdomen and the surgical causes → [[C1]] · Bowel obstruction → [[C5]] · Haematemesis and GI bleeding → [[C4]] · Dyspepsia and reflux → [[C6]] · Pancreatitis → [[C7]] · DKA and euglycaemic DKA → [[F0.2]] 0.3 · Metabolic alkalosis of vomiting → [[F0.2]] 0.7 · Raised intracranial pressure and headache → [[D1]] · Vertigo and vestibular causes → [[D5]] · Hyperemesis gravidarum → [[O1]] · Eating disorders → [[N8]] · Palliative symptom control → [[J5]] · QT prolongation and torsades → [[B3]] 0.3
 
 
-<!-- ===== SOURCE: C3_Jaundice_and_Liver_Disease.md ===== -->
+<!-- ===== SOURCE: C6_Dyspepsia__Oesophageal_and_Anorectal_Disease.md ===== -->
 
 
 > [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Mechanism, LFT interpretation and discriminators are reliable at intern level. **Every threshold, score, dose and reference range carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify King's College criteria, Child-Pugh and MELD scores, SAAG and ascitic neutrophil thresholds, and all antibiotic and vasoactive regimens against eTG, current hepatology guidance and your health network's protocols.
+> Written from model knowledge, not retrieved from guidelines. Mechanism, discriminators and management principles are reliable at intern level. **Every age threshold, dose, regimen, surveillance interval and criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** *H. pylori* eradication regimens in particular must come from **eTG Antibiotic** — Australian resistance patterns differ from those elsewhere and the recommended regimens have changed.
 
 ---
 
-## 0.1 Jaundice — Mechanism and Classification
+## 0.1 Dyspepsia, Reflux and Heartburn
 
-**D:** Yellow discolouration of skin, sclerae and mucous membranes from bilirubin deposition, clinically detectable once serum bilirubin exceeds roughly twice the upper limit of normal. `UNVERIFIED — the threshold at which jaundice becomes visible.`
+**D:** **Dyspepsia** is epigastric pain or discomfort, often with fullness, early satiety or bloating. **Gastro-oesophageal reflux disease** is symptoms or complications resulting from reflux of gastric contents into the oesophagus.
 
-**A/P:** Senescent red cells are broken down in the reticuloendothelial system → haem → biliverdin → **unconjugated bilirubin**, which is lipid-soluble, tightly albumin-bound and therefore **cannot be filtered by the glomerulus** → transported to the liver → taken up by hepatocytes → **conjugated with glucuronic acid by UGT1A1** → **conjugated bilirubin**, which is water-soluble → excreted in bile → converted by gut bacteria to urobilinogen and stercobilin, which colours the stool.
+**A/P:** The lower oesophageal sphincter, the crural diaphragm and the acute angle of His together form the antireflux barrier. Reflux occurs mainly through **transient lower oesophageal sphincter relaxations** rather than a permanently weak sphincter, and is promoted by anything that raises intra-abdominal pressure or disrupts the anatomy — **obesity, pregnancy, hiatus hernia, large or late meals.** Acid and pepsin then injure oesophageal mucosa, which has no protective mucus layer.
 
-> [!danger] The urine and stool answer the first question
-> **Unconjugated bilirubin is albumin-bound and cannot enter the urine.** So:
-> **· Jaundice with normal-coloured urine = unconjugated (prehepatic or a conjugation defect).**
-> **· Jaundice with dark urine and pale stools = conjugated, with impaired excretion — hepatocellular or obstructive.**
-> This single pair of questions, asked in the history at no cost, splits the differential before any test returns. **Pruritus** additionally points strongly toward cholestasis.
+> [!danger] Exclude cardiac causes before settling on reflux
+> **Inferior myocardial infarction presents as epigastric burning with nausea**, and "indigestion" that turns out to be infarction is a recurring and lethal misattribution — particularly in diabetics, women, older patients, and Aboriginal and Torres Strait Islander patients who develop ischaemic heart disease younger.
+> **Relief with antacid or GTN does not distinguish them** — GTN relieves oesophageal spasm and antacids relieve nothing reliably. **Get an ECG.** Cross-refer [[B1]] 0.1 and 0.4.
 
-> [!tip] The three-way classification
-> **Prehepatic** — increased bilirubin load. Haemolysis, ineffective erythropoiesis, resorption of a large haematoma. **Unconjugated.**
-> **Hepatic** — impaired uptake, conjugation or excretion by the hepatocyte. Hepatitis, cirrhosis, drugs, Gilbert syndrome. **Mixed, or unconjugated in conjugation defects.**
-> **Posthepatic** — obstruction to biliary flow. Stones, strictures, tumours. **Conjugated.**
+> [!warning] Red flags mandating endoscopy rather than a PPI trial
+> **· Dysphagia or odynophagia · unintentional weight loss · iron deficiency anaemia · persistent vomiting · haematemesis or melaena · a palpable epigastric mass or lymphadenopathy · new onset above a threshold age · a family history of upper gastrointestinal cancer · previous gastric surgery or gastric ulcer.**
+> `UNVERIFIED — the age threshold for new-onset dyspepsia triggering endoscopy in current Australian guidance.`
 
-> [!info] Reading the LFT pattern
-> **Hepatocellular pattern** — **ALT and AST** disproportionately raised. Hepatitis of any cause.
-> **Cholestatic pattern** — **ALP and GGT** disproportionately raised. Obstruction, or intrahepatic cholestasis.
-> **A raised ALP with a NORMAL GGT points away from the liver** — think **bone** (Paget disease, metastases, osteomalacia, healing fracture, growth in children) or placenta in pregnancy. The GGT is what confirms a hepatobiliary source.
-> **An AST:ALT ratio above 2** suggests alcohol-related liver disease, particularly with a raised GGT and macrocytosis.
-> `UNVERIFIED — the R ratio formula used to formally classify hepatocellular versus cholestatic injury, and all reference ranges.`
+> [!tip] Drugs that cause or worsen reflux and dyspepsia
+> **Calcium channel blockers and nitrates** (lower oesophageal sphincter relaxation) · **NSAIDs and aspirin** · **bisphosphonates** (direct mucosal injury — must be taken upright with water and not lain down after) · anticholinergics · theophylline · doxycycline (pill oesophagitis) · corticosteroids · potassium chloride tablets.
+> **Reviewing the drug chart is the cheapest intervention here and is frequently skipped.**
 
-> [!danger] Transaminases and bilirubin measure injury. Albumin and INR measure function.
-> **The "liver function tests" mostly do not test liver function.** ALT, AST, ALP, GGT and bilirubin are markers of **damage or obstruction**. The true synthetic function markers are:
-> **· Albumin** — long half-life, so it reflects chronic function.
-> **· INR / prothrombin time** — short half-life clotting factors, so it reflects **acute** function and is the more sensitive early marker.
-> **· Glucose** — hypoglycaemia in severe hepatic failure.
-> A patient with dramatically raised transaminases and a normal INR has significant injury but preserved function. A patient with modest transaminases and a rising INR is in trouble. **Watch the INR.**
+> [!info] Extra-oesophageal manifestations
+> Chronic cough, hoarseness, globus, laryngitis, dental erosion, and worsening of asthma. **Reflux is a common cause of chronic cough** — cross-refer [[A4]] 0.5 — and it may be entirely "silent", with no heartburn at all, which is why it is missed.
 
-**S/Smx:** Yellow sclerae and skin, dark urine, pale stools, pruritus, right upper quadrant pain, fever, weight loss, and the stigmata of chronic liver disease in 0.5.
+> [!warning] Long-term PPI use is not risk-free
+> Associations include **hypomagnesaemia, vitamin B12 deficiency, *C. difficile* and other enteric infections, community-acquired pneumonia, fractures, interstitial nephritis, and micronutrient malabsorption.** Causality is debated for several, but the practical point stands: **PPIs are prescribed indefinitely without review far too often.**
+> **Rebound acid hypersecretion on cessation** makes patients believe they still need it, so **step down gradually rather than stopping abruptly**, and reassess whether continued therapy is justified. Deprescribing is an active intervention. Cross-refer [[GER1]].
 
-**Ix:** **Split (conjugated and unconjugated) bilirubin** (*why:* determines the entire branch of the differential and is not reported unless specifically requested; *what:* predominantly conjugated or unconjugated). Full LFT with **ALT, AST, ALP, GGT, albumin** (*why:* establishes the injury pattern and the synthetic function; *what:* hepatocellular versus cholestatic, low albumin). **INR** (*why:* the most sensitive early marker of impaired synthetic function, and the key prognostic variable in acute liver failure; *what:* prolongation). FBC and blood film (*why:* anaemia with reticulocytosis suggests haemolysis; thrombocytopenia suggests portal hypertension or chronic liver disease; macrocytosis suggests alcohol; *what:* the pattern). Reticulocytes, LDH, haptoglobin, direct antiglobulin test where unconjugated (*why:* confirms haemolysis; *what:* raised reticulocytes and LDH, low haptoglobin). **Abdominal ultrasound** (*why:* the pivotal early test — the presence or absence of **biliary duct dilatation** separates obstructive from hepatocellular causes and directs everything that follows; *what:* duct dilatation, stones, liver texture, focal lesion, ascites, splenomegaly, portal flow). Viral hepatitis serology (*why:* common, treatable, and has public health implications; *what:* hepatitis A, B and C serology, and E where indicated). **Paracetamol level** (*why:* the commonest cause of acute liver failure in Australia and it is treatable; *what:* level against time — cross-refer [[F0.1]] 0.6). Autoimmune screen — ANA, anti-smooth muscle, anti-LKM, immunoglobulins, **anti-mitochondrial antibody** (*why:* autoimmune hepatitis and primary biliary cholangitis are treatable and are diagnosed on serology plus biochemistry; *what:* positive antibodies, raised IgG or IgM). **Iron studies, caeruloplasmin, alpha-1 antitrypsin** (*why:* haemochromatosis, Wilson disease and alpha-1 antitrypsin deficiency are inherited, treatable and family-relevant, and **Wilson disease must be excluded in any young person with liver disease**; *what:* raised ferritin and transferrin saturation, low caeruloplasmin, low alpha-1 antitrypsin).
+> [!tip] Functional dyspepsia
+> Dyspeptic symptoms with a normal endoscopy and no identifiable structural cause. **A positive diagnosis made on symptom criteria, not a residual label.** It overlaps substantially with irritable bowel syndrome and with anxiety, and explaining the gut-brain mechanism is therapeutic. `UNVERIFIED — Rome criteria.`
+
+**S/Smx:** Burning retrosternal discomfort, worse lying flat, bending or after meals; acid regurgitation; waterbrash; epigastric pain; bloating; nausea; and the extra-oesophageal features above.
+
+**Ix:** **ECG** (*why:* excludes the cardiac cause, per the danger above; *what:* ischaemic change). ***H. pylori* testing** in patients without red flags (*why:* the "test and treat" strategy identifies and eradicates a treatable cause and reduces the need for endoscopy in younger patients; *what:* positive urea breath test or stool antigen — see 0.2 for the crucial pre-test drug withholding). FBC and iron studies (*why:* iron deficiency anaemia converts dyspepsia into a red-flag presentation requiring endoscopy; *what:* microcytic anaemia, low ferritin). **Gastroscopy where red flags are present** (*why:* identifies ulcer, malignancy, oesophagitis, Barrett metaplasia and eosinophilic oesophagitis, and permits biopsy; *what:* mucosal disease, mass). Oesophageal pH and impedance monitoring, and manometry (*why:* reserved for refractory symptoms, atypical presentations, or before antireflux surgery — they confirm that symptoms are actually reflux-related, which is not always the case; *what:* acid exposure time, symptom correlation, motility). Coeliac serology (*why:* coeliac disease presents as dyspepsia and bloating with minimal bowel symptoms; *what:* raised tissue transglutaminase IgA). Ultrasound where biliary symptoms are plausible (*why:* gallstones cause epigastric pain and are common; *what:* stones).
 
 ### 0.1.1 Mx – Immediate
-Determined by the cause. Assess for encephalopathy and coagulopathy in any jaundiced patient — see 0.4.
+Rarely required. Exclude cardiac and complicated ulcer disease.
 
 ### 0.1.2 Mx – Definitive
-Cause-specific.
+**Lifestyle first — weight loss has the strongest evidence of any measure.** Also: elevate the head of the bed, avoid eating within a few hours of lying down, reduce alcohol and smoking, and identify individual food triggers rather than imposing blanket restriction.
+**Proton pump inhibitor** at the lowest effective dose, with a defined review. Antacids and alginates for breakthrough symptoms. *H. pylori* eradication where positive.
+**Antireflux surgery (fundoplication)** for well-selected patients with proven reflux who are intolerant of or unwilling to continue long-term medical therapy. `UNVERIFIED — PPI doses, duration and step-down regimens.`
 
 ### 0.1.3 Mx – Chronic/long-term
-Alcohol and hepatotoxin avoidance, vaccination against hepatitis A and B in chronic liver disease, and medication review for hepatically metabolised drugs.
+**Review the need for ongoing PPI at every opportunity**, with a step-down plan. Weight management. Cross-refer [[I5]].
 
 ---
 
-## 0.2 Unconjugated Hyperbilirubinaemia
+## 0.2 Peptic Ulcer Disease and *Helicobacter pylori*
 
-> [!tip] Gilbert syndrome — common, benign, and over-investigated
-> Reduced UGT1A1 activity, present in a meaningful proportion of the population. **Mild isolated unconjugated hyperbilirubinaemia, with entirely normal transaminases, ALP, albumin and full blood count**, and no haemolysis.
-> Characteristically **worse with fasting, intercurrent illness, dehydration, exertion or stress** — which is exactly when patients have blood taken, so it is frequently discovered incidentally in an unwell patient and misinterpreted as liver disease.
-> **The diagnosis is made by the pattern: isolated unconjugated bilirubin with everything else normal.** No further investigation is needed once haemolysis is excluded, and the correct management is **explanation and reassurance.** It has no long-term consequences.
-> One practical point: it alters the metabolism of a few drugs, notably irinotecan.
+**A/P:** Ulceration results from an imbalance between aggressive factors (acid, pepsin, *H. pylori*, NSAIDs) and mucosal defence (mucus-bicarbonate layer, prostaglandin-dependent blood flow, epithelial renewal). **NSAIDs act by inhibiting COX-1-derived prostaglandins**, which is why the injury is systemic rather than merely topical — **enteric coating and rectal administration do not protect the stomach.**
 
-> [!warning] Haemolysis
-> Unconjugated hyperbilirubinaemia with **anaemia, raised reticulocytes, raised LDH, low haptoglobin** and often splenomegaly. The film is frequently diagnostic — spherocytes, fragments, sickle cells, bite cells. Cross-refer [[J2]].
-> **Jaundice from haemolysis alone is usually mild** — a bilirubin high enough to cause deep jaundice suggests hepatic or obstructive disease as well, or a combination such as **gallstones from chronic haemolysis** (pigment stones), which is a genuinely common and satisfying diagnosis to make.
+> [!tip] The causes
+> ***H. pylori*** — the dominant cause of duodenal ulceration and a major cause of gastric ulceration. It also causes gastric adenocarcinoma and MALT lymphoma, which is why eradication matters beyond symptom relief.
+> **NSAIDs and aspirin** — increasingly the dominant cause in Australia as *H. pylori* prevalence falls.
+> **Stress ulceration** — critical illness, burns (Curling ulcer), head injury (Cushing ulcer).
+> **Zollinger-Ellison syndrome** — gastrin-secreting tumour. Suspect with **multiple ulcers, ulcers in unusual distal locations, ulcers refractory to treatment, ulcers with diarrhoea, or ulcers in the absence of *H. pylori* and NSAIDs.** Rare, but the pattern is distinctive.
+> **Malignancy** — every gastric ulcer must be biopsied.
 
-> [!tip] The rest
-> **Ineffective erythropoiesis** — megaloblastic anaemia, thalassaemia, myelodysplasia.
-> **Resorption of a large haematoma or extensive bruising** — a common cause of unexplained jaundice in a trauma or post-operative patient.
-> **Crigler-Najjar syndrome** — rare, severe, presenting in infancy.
-> **Neonatal jaundice** — physiological versus pathological, with **jaundice in the first 24 hours of life always pathological**, and the risk of kernicterus from unconjugated bilirubin crossing the immature blood-brain barrier. Cross-refer [[M3]].
+> [!danger] Withhold acid suppression and antibiotics before *H. pylori* testing
+> **Proton pump inhibitors must be stopped for a period before testing, and antibiotics and bismuth for longer**, because they suppress the organism and produce **false negative** urea breath tests, stool antigen tests and biopsy urease tests.
+> This is the single commonest technical error in *H. pylori* testing, and it results in patients being told they are negative when they are not.
+> **Serology is not useful for confirming eradication** — antibodies persist for years after successful treatment. Use a urea breath test or stool antigen for that. `UNVERIFIED — the required withholding periods.`
 
-**Ix:** Split bilirubin (*why:* confirms it is unconjugated; *what:* predominantly unconjugated fraction). Haemolysis screen — **reticulocytes, LDH, haptoglobin, direct antiglobulin test and blood film** (*why:* separates haemolysis from Gilbert syndrome, which is the entire question; *what:* raised reticulocytes and LDH, low haptoglobin, abnormal film). FBC (*why:* anaemia supports haemolysis; its absence with normal reticulocytes supports Gilbert; *what:* haemoglobin, MCV). Normal ALT, ALP and albumin (*why:* their normality is what confirms Gilbert syndrome; *what:* normal). Genetic testing is available but rarely necessary (*why:* the clinical and biochemical picture is sufficient; *what:* UGT1A1 polymorphism).
+> [!warning] Confirm eradication, and know that resistance is rising
+> **Clarithromycin resistance has increased in Australia**, and first-line regimens have been revised accordingly. **Obtain the current regimen from eTG Antibiotic rather than from memory or from an overseas source** — this is one of the clearest examples of a recommendation that differs by jurisdiction and by year.
+> **Always confirm eradication** with a repeat test after treatment, after the appropriate withholding period. Failure to confirm is common, and treatment failure is common enough that assuming success is unsafe. `UNVERIFIED — regimens, durations, and the interval before confirmatory testing.`
+
+> [!danger] Every gastric ulcer needs biopsy and repeat endoscopy
+> **Gastric ulcers may be malignant, and a benign appearance is not sufficient reassurance.** Biopsy at the index endoscopy, and **repeat endoscopy after treatment to confirm healing** — a non-healing gastric ulcer is cancer until proven otherwise.
+> **Duodenal ulcers do not require the same routine follow-up**, as duodenal malignancy is rare.
+
+> [!tip] Gastroprotection with NSAIDs
+> Indicated where an NSAID is unavoidable in a patient at increased risk: **previous ulcer or ulcer bleeding · age over about 65 · concurrent aspirin, anticoagulant, corticosteroid or SSRI · high NSAID dose · significant comorbidity.**
+> **The combination of an NSAID with an SSRI, a corticosteroid or an anticoagulant multiplies bleeding risk** and is a common and avoidable prescribing pattern. `UNVERIFIED — risk thresholds and gastroprotection regimens.`
+
+**S/Smx:** Epigastric pain, classically burning or gnawing. **Duodenal ulcer pain is traditionally relieved by food and worse at night; gastric ulcer pain is worse with eating** — but this distinction is unreliable in practice and should not be used to decide who needs endoscopy. Nausea, early satiety, bloating. **Many ulcers, particularly NSAID-related, are asymptomatic until they bleed or perforate** — which is why the first presentation is often a complication.
+
+**Ix:** ***H. pylori* testing with appropriate drug withholding** (*why:* eradication cures the disease and prevents recurrence, and the test is invalid if the withholding is not observed; *what:* urea breath test, stool antigen, or biopsy urease and histology). **Gastroscopy with biopsy** (*why:* diagnoses the ulcer, biopsies for *H. pylori* and for malignancy, and permits therapy if bleeding; *what:* ulcer site and appearance, histology). FBC and iron studies (*why:* chronic blood loss; *what:* iron deficiency anaemia). **Fasting gastrin** where Zollinger-Ellison is suspected, **off PPI** (*why:* PPIs themselves raise gastrin substantially and make the test uninterpretable; *what:* markedly raised gastrin). Erect CXR where perforation is suspected (*why:* free gas; *what:* subdiaphragmatic air — cross-refer [[C1]] 0.4).
 
 ### 0.2.1 Mx – Immediate
-Rarely required.
+For complications — bleeding per [[C4]] 0.2, perforation per [[C1]] 0.4, gastric outlet obstruction per [[C2]] 0.3.
 
 ### 0.2.2 Mx – Definitive
-Treat haemolysis if present. Reassure in Gilbert syndrome.
+**Eradicate *H. pylori*. Stop the NSAID.** Proton pump inhibitor for healing. Endoscopic or surgical management of complications.
 
 ### 0.2.3 Mx – Chronic/long-term
-**Document Gilbert syndrome clearly in the record** so future clinicians do not repeat the workup — this happens repeatedly and is an avoidable source of investigation and anxiety.
+**Confirm eradication. Repeat endoscopy for gastric ulcers.** Review analgesic strategy so the patient is not simply left in pain — paracetamol, topical NSAIDs, and non-pharmacological measures. Gastroprotection where an NSAID must continue.
 
 ---
 
-## 0.3 Conjugated and Obstructive Jaundice
+## 0.3 Oesophageal Disease
 
-**A/P:** Obstruction to bile flow → conjugated bilirubin refluxes into the circulation → **dark urine** as it is renally excreted, and **pale stools** as stercobilin is no longer produced → bile salt retention in the skin causes **pruritus** → prolonged obstruction impairs absorption of fat-soluble vitamins A, D, E and K, causing **coagulopathy from vitamin K deficiency that is correctable with parenteral vitamin K** (unlike the coagulopathy of hepatocellular failure, which is not).
+> [!danger] Progressive dysphagia with weight loss is oesophageal cancer until proven otherwise
+> **Dysphagia to solids progressing to liquids, with weight loss, in an older patient** requires urgent endoscopy. Do not treat it as reflux.
+> **Squamous cell carcinoma** — upper and middle third; risk factors **smoking, alcohol**, achalasia, caustic stricture, and hot beverages.
+> **Adenocarcinoma** — lower third; arises from **Barrett oesophagus**, with obesity and chronic reflux as the drivers. Now the commoner type in Australia and other Western countries, and its incidence has risen substantially.
 
-> [!tip] The causes, by level
-> **Intraluminal** — **choledocholithiasis**, the commonest cause.
-> **Mural** — cholangiocarcinoma, benign post-operative or post-inflammatory stricture, **primary sclerosing cholangitis**, ampullary tumour, parasitic infection.
-> **Extrinsic compression** — **carcinoma of the head of pancreas**, lymphadenopathy, pancreatitis or pseudocyst.
-> **Intrahepatic cholestasis** — drug-induced, primary biliary cholangitis, sepsis, pregnancy, infiltrative disease, total parenteral nutrition.
+> [!info] Barrett oesophagus
+> **Intestinal metaplasia replacing normal squamous epithelium in the distal oesophagus**, in response to chronic acid exposure — a protective adaptation that carries a risk of progression through dysplasia to adenocarcinoma.
+> Managed with **PPI and endoscopic surveillance**, with intervals determined by segment length and dysplasia grade. **Dysplastic Barrett is treated endoscopically** — radiofrequency ablation and endoscopic mucosal resection — rather than being watched. `UNVERIFIED — surveillance intervals and the criteria for who requires surveillance, which differ between guidelines.`
+> The absolute annual risk of progression is low, which matters when counselling an anxious patient.
 
-> [!danger] Painless progressive jaundice with weight loss is malignancy until proven otherwise
-> **Carcinoma of the head of the pancreas and periampullary tumours** classically present this way, and the absence of pain is not reassuring — it is the pattern.
-> **Courvoisier's law**: a **palpable, non-tender gallbladder** in a jaundiced patient makes gallstones an unlikely cause, because a gallbladder chronically inflamed by stones becomes fibrotic and cannot distend. It therefore points toward malignant obstruction. `UNVERIFIED — the law has recognised exceptions and is a probability statement, not an absolute.`
+> [!danger] Eosinophilic oesophagitis — think of it in the young
+> **A young adult, often male and often atopic, presenting with dysphagia or a food bolus obstruction, has eosinophilic oesophagitis until proven otherwise.**
+> It is increasingly common, frequently misdiagnosed as reflux for years, and characterised by **fixed rings, longitudinal furrows and white exudate** at endoscopy — though **the oesophagus may look entirely normal.**
+> **Diagnosis requires multiple biopsies from proximal AND distal oesophagus**, because the disease is patchy and because taking biopsies only from the distal oesophagus will miss it. **If a food bolus is disimpacted and no biopsies are taken, the opportunity is lost.**
+> Treated with PPI, topical swallowed corticosteroids, and dietary elimination. `UNVERIFIED — the eosinophil count threshold for diagnosis, and treatment regimens.`
 
-> [!warning] Drug-induced cholestasis
-> A frequently overlooked cause. **Flucloxacillin and amoxicillin-clavulanate** are classic culprits, with jaundice that may appear **weeks after the course finished** — which is why the connection is missed. Also: **oestrogens and the combined oral contraceptive, anabolic steroids, azathioprine, macrolides, and many herbal and complementary preparations**, which patients do not consider "medications" unless asked specifically.
-> **Take a drug history covering the previous three months, including over-the-counter and complementary products.**
+> [!tip] Achalasia
+> Failure of lower oesophageal sphincter relaxation with absent peristalsis, from degeneration of the myenteric plexus.
+> **The discriminating feature is dysphagia to solids AND liquids from the outset** — mechanical obstruction causes solid dysphagia first, progressing to liquids. Also: regurgitation of undigested food, nocturnal cough and aspiration, chest pain, and slow weight loss.
+> Barium swallow shows the **"bird's beak"** tapering; **manometry is diagnostic.** Treated by pneumatic dilatation, peroral endoscopic myotomy (POEM) or Heller myotomy.
+> **Pseudoachalasia** — a tumour at the gastro-oesophageal junction mimicking achalasia. **Suspect it with older age, short history, and marked weight loss**, and endoscopy is mandatory before treating anyone as achalasia.
 
-> [!tip] Two autoimmune biliary diseases worth distinguishing
-> **Primary biliary cholangitis** — middle-aged women, **pruritus often preceding jaundice by years**, fatigue, raised ALP, **anti-mitochondrial antibody positive**, raised IgM. Treated with ursodeoxycholic acid.
-> **Primary sclerosing cholangitis** — younger, more often male, **strongly associated with inflammatory bowel disease, particularly ulcerative colitis**. Characteristic beading of the ducts on MRCP. Carries a significant risk of **cholangiocarcinoma and colorectal cancer**, so both need surveillance.
+> [!tip] The rest
+> **Peptic stricture** — progressive solid dysphagia in a patient with long-standing reflux. Dilatation plus long-term PPI.
+> **Oesophageal spasm and hypercontractile oesophagus** — chest pain and intermittent dysphagia, and a genuine mimic of cardiac pain.
+> **Pill oesophagitis** — doxycycline, bisphosphonates, potassium chloride, NSAIDs taken with insufficient water or lying down. Sudden severe odynophagia.
+> **Infective oesophagitis** — candida (thrush, immunosuppression, inhaled steroids), herpes simplex, CMV. Consider immunodeficiency including HIV.
+> **Oesophageal varices** — cross-refer [[C4]] 0.3.
+> Cross-refer [[F3]] for oropharyngeal dysphagia, which is a different problem with a neurological differential.
 
-**Ix:** **Abdominal ultrasound first** (*why:* the presence of duct dilatation confirms obstruction and its absence redirects toward hepatocellular or intrahepatic cholestatic causes — this branch point determines everything after it; *what:* dilated intra- and extrahepatic ducts, stones, mass). **MRCP** (*why:* non-invasive, detailed anatomy of the biliary tree, identifies duct stones and strictures without the risk of ERCP; *what:* stone, stricture, beading, mass). **Endoscopic ultrasound** (*why:* superior for small distal duct stones and for staging and sampling pancreatic head lesions; *what:* stone, mass, with fine needle aspiration). **ERCP — a therapeutic rather than a diagnostic procedure** (*why:* it permits sphincterotomy, stone extraction and stent placement, but carries a real risk of post-ERCP pancreatitis, so it is reserved for when intervention is intended; *what:* stone extraction, stenting). CT abdomen with pancreatic protocol (*why:* stages malignancy and assesses resectability; *what:* mass, vascular involvement, metastases). Tumour markers — **CA 19-9** (*why:* supports pancreaticobiliary malignancy and is used for monitoring, though **it is raised in benign obstruction and cholangitis and must not be interpreted in a jaundiced patient as diagnostic**; *what:* elevation, interpreted with caution). **INR before any intervention** (*why:* vitamin K deficiency from obstruction causes a correctable coagulopathy that must be treated before ERCP or biopsy; *what:* prolonged INR correcting with vitamin K). AMA and immunoglobulins (*why:* primary biliary cholangitis; *what:* positive AMA, raised IgM).
+**Ix:** **Gastroscopy with biopsies** (*why:* the primary investigation for dysphagia and for reflux with red flags, and it permits biopsy for Barrett, eosinophilic oesophagitis and malignancy in one procedure; *what:* stricture, tumour, rings and furrows, metaplasia). **Multiple oesophageal biopsies at several levels even when the oesophagus looks normal** where eosinophilic oesophagitis is possible (*why:* patchy disease and a frequently normal-appearing mucosa; *what:* eosinophil count). Barium swallow (*why:* defines strictures, pouches and motility patterns, and is useful where endoscopy is difficult or where a proximal lesion is suspected; *what:* bird's beak, stricture, pouch). **High-resolution manometry** (*why:* diagnoses achalasia and other motility disorders, which endoscopy cannot; *what:* absent peristalsis, failure of LOS relaxation). CT chest and abdomen and PET where malignancy is confirmed (*why:* staging; *what:* local extent, nodes, metastases). Endoscopic ultrasound (*why:* local T and N staging of oesophageal cancer; *what:* depth of invasion, nodes).
 
 ### 0.3.1 Mx – Immediate
-Fluids, analgesia, **parenteral vitamin K** for coagulopathy. **Antibiotics and urgent biliary drainage for cholangitis** — cross-refer [[F0.3]] 0.11. Pruritus management.
+**Food bolus obstruction** — if the patient cannot swallow their own saliva, this is urgent because of aspiration risk. Endoscopic removal. **Take biopsies at the same procedure.**
 
 ### 0.3.2 Mx – Definitive
-ERCP with stone extraction or stenting. Cholecystectomy for gallstone disease. Oncological or surgical management of malignancy, with multidisciplinary discussion. Ursodeoxycholic acid for PBC.
+Condition-specific. Multidisciplinary management of malignancy.
 
 ### 0.3.3 Mx – Chronic/long-term
-Fat-soluble vitamin replacement in chronic cholestasis. Bone density monitoring, since chronic cholestasis causes osteoporosis. Surveillance for cholangiocarcinoma and colorectal cancer in PSC.
+Barrett surveillance where indicated. Nutritional support and dietitian involvement, which matters greatly in oesophageal disease. Smoking and alcohol cessation.
 
 ---
 
-## 0.4 Acute Liver Failure
+## 0.4 Anorectal Pain
 
-**D:** Acute liver injury with **coagulopathy and hepatic encephalopathy** in a patient without pre-existing chronic liver disease. Classified by the interval from jaundice to encephalopathy as hyperacute, acute or subacute — with, counterintuitively, **the hyperacute presentations having the best chance of spontaneous recovery** but the highest risk of cerebral oedema.
+> [!danger] Perianal abscess needs drainage — antibiotics alone will not do
+> **Constant, throbbing, severe perianal pain, worse on sitting, with fever and a tender fluctuant swelling.** Deeper (intersphincteric, supralevator) abscesses may have **little to see externally** and present with severe pain and systemic upset — so **an absence of visible swelling does not exclude it.**
+> **Treatment is surgical drainage.** Antibiotics are an adjunct, not a substitute, and delaying drainage while a course of antibiotics is tried is a recognised error.
+> **Have a much lower threshold in diabetics and the immunosuppressed**, where necrotising perineal infection (Fournier gangrene) is a life-threatening progression that begins with pain out of proportion to visible findings. Cross-refer [[K2]].
+> A proportion of abscesses are followed by a **fistula-in-ano**, which then requires definitive management.
 
-**R/Causes:** **Paracetamol overdose is the commonest cause in Australia** — cross-refer [[F0.1]] 0.6. Also: viral hepatitis (A, B, E; and hepatitis E is particularly severe in pregnancy), idiosyncratic drug reactions, **herbal and complementary preparations**, autoimmune hepatitis, Budd-Chiari syndrome, **Wilson disease**, ischaemic hepatitis ("shock liver"), *Amanita* mushroom poisoning, and the pregnancy-specific causes of acute fatty liver of pregnancy and HELLP syndrome.
+> [!tip] Anal fissure
+> **Severe tearing or knife-like pain during defecation, persisting for minutes to hours afterwards, with bright red blood on the paper.** The pain is characteristically out of proportion to the small size of the lesion, and patients begin avoiding defecation, which worsens the constipation that caused it — a self-perpetuating cycle.
+> Usually **posterior midline** (or anterior midline in women post-partum), where the mucosa is relatively poorly perfused. Sphincter spasm reduces blood flow further and prevents healing, which is why treatment targets the spasm.
+> **Chronic fissure** has a sentinel skin tag, hypertrophied anal papilla, and visible internal sphincter fibres at the base.
+> **Management: soften the stool and relieve the spasm** — topical GTN or diltiazem, then botulinum toxin, then lateral internal sphincterotomy (which carries a small risk of incontinence). `UNVERIFIED — agents and concentrations.`
 
-> [!danger] Contact a liver transplant unit early — before the patient meets transplant criteria
-> **The commonest error in acute liver failure is referring too late.** These patients deteriorate rapidly and unpredictably, and transfer becomes unsafe once encephalopathy is advanced or cerebral oedema has developed.
-> **Discuss any patient with acute liver injury and a rising INR or any degree of encephalopathy with a transplant centre**, regardless of whether they currently meet listing criteria. The **King's College criteria** are used to identify patients unlikely to survive without transplantation, and are stratified separately for paracetamol and non-paracetamol causes. `UNVERIFIED — the criteria and their component thresholds require verification.`
+> [!danger] A fissure in an atypical position is not a simple fissure
+> **Lateral, multiple, painless, irregular or non-healing fissures suggest an alternative diagnosis: Crohn disease, tuberculosis, HIV, syphilis, anal carcinoma, or leukaemia.**
+> **Examine, and biopsy anything atypical.** Perianal disease can be the first presentation of Crohn disease, sometimes preceding intestinal symptoms by years.
 
-> [!danger] Do not routinely correct the INR
-> **The INR is the principal prognostic marker and a key component of transplant listing criteria.** Giving fresh frozen plasma to "correct" it obscures the trajectory, does not reduce clinically significant bleeding, and causes volume overload.
-> **Correct only for active bleeding or before an invasive procedure**, and discuss with the transplant unit first. This is counterintuitive and is examined.
+> [!tip] The rest of the anorectal pain differential
+> **Thrombosed external haemorrhoid** — sudden severe pain with a tense, tender, blue-purple perianal lump. **Excision within the first few days relieves it dramatically; after that, conservative management** as it is already resolving. `UNVERIFIED — the time window.`
+> **Proctalgia fugax** — **brief, severe, fleeting rectal pain, often at night, lasting seconds to minutes and resolving completely.** Benign and functional; the correct management is explanation and reassurance after examination.
+> **Levator ani syndrome** — chronic dull aching rectal pain, worse sitting, with tenderness on palpating the levator muscles.
+> **Anal carcinoma** — pain, bleeding, a mass or a non-healing ulcer. **Associated with HPV, HIV, immunosuppression, smoking, and receptive anal intercourse.** Incidence is rising. **Do not attribute a persistent anal ulcer or lump to a fissure or pile without examining and biopsying it.**
+> **Perianal Crohn disease** — fistulae, complex abscesses, skin tags, and fissures.
+> **Coccydynia** and **pilonidal disease** — related but distinct.
 
-> [!warning] Four things that kill these patients
-> **1. Cerebral oedema and raised intracranial pressure** — the leading cause of death in hyperacute failure. Nurse head up, avoid sedation where possible, control agitation carefully, and involve intensive care. Hyperammonaemia is a driver.
-> **2. Hypoglycaemia** — the failing liver cannot perform gluconeogenesis. **Check glucose hourly and run a dextrose infusion**; hypoglycaemia is easily mistaken for worsening encephalopathy.
-> **3. Sepsis** — these patients are functionally immunosuppressed and frequently have no fever or leucocytosis. Have a low threshold for cultures and empirical antibiotics.
-> **4. Acute kidney injury** — from hypoperfusion, paracetamol directly, or hepatorenal syndrome. **Avoid all nephrotoxins.**
+**S/Smx:** Character and timing of pain relative to defecation, bleeding, discharge, swelling, fever, bowel habit, and systemic symptoms. **Examine** — inspection, gentle digital examination if tolerated, and proctoscopy where possible. **If the pain prevents examination, that is itself significant and warrants examination under anaesthesia rather than abandoning it.**
 
-> [!tip] N-acetylcysteine
-> Given for paracetamol-induced failure, and there is evidence supporting its use in **non-paracetamol acute liver failure** as well. `UNVERIFIED — indications, dosing and duration.` Cross-refer [[F0.1]] 0.6.
-
-**S/Smx:** Jaundice, malaise, nausea, right upper quadrant pain, then confusion, altered sleep-wake cycle, **asterixis**, and progressive reduction in conscious state. Fetor hepaticus. Signs of bleeding.
-
-**Ix:** **Serial INR** (*why:* the prognostic marker and the driver of transplant referral, and it must be trended rather than measured once; *what:* rising INR). **Hourly bedside glucose** (*why:* hypoglycaemia is common, dangerous and easily attributed to encephalopathy; *what:* low glucose). **Paracetamol level** (*why:* the commonest and most treatable cause; *what:* level against time). Viral hepatitis serology including hepatitis E (*why:* identifies a treatable and notifiable cause; *what:* serology). Autoimmune screen and immunoglobulins (*why:* autoimmune hepatitis responds to steroids; *what:* positive antibodies, raised IgG). **Caeruloplasmin, serum and urinary copper, and slit lamp for Kayser-Fleischer rings** in anyone under about 40 (*why:* **Wilson disease is treatable, familial and easily missed**, and it must be actively excluded in a young person with liver failure; *what:* low caeruloplasmin, raised urinary copper, KF rings). Ammonia (*why:* very high levels correlate with cerebral oedema risk and inform ICU management, though it is **not required to diagnose encephalopathy**, which is clinical; *what:* markedly raised ammonia). UEC, phosphate, magnesium, lactate, VBG (*why:* renal failure, metabolic derangement and acidosis are all prognostic; *what:* derangement). FBC and blood cultures (*why:* sepsis with a blunted response; *what:* organism). **Doppler ultrasound of the hepatic veins** (*why:* Budd-Chiari syndrome is a treatable cause identified only if specifically looked for; *what:* hepatic vein thrombosis). Pregnancy test (*why:* acute fatty liver of pregnancy and HELLP are obstetric emergencies with different management; *what:* positive).
+**Ix:** **Examination, including under anaesthesia where pain prevents adequate assessment** (*why:* the diagnosis is almost always made by looking, and inadequate examination is the main reason abscesses and cancers are missed; *what:* fissure, abscess, fistula, mass). **MRI pelvis** for complex or recurrent fistula and perianal Crohn disease (*why:* maps the tract in relation to the sphincter complex, which determines surgical approach and the risk to continence; *what:* tract anatomy, abscess, sphincter involvement). **Biopsy of any atypical ulcer or lump** (*why:* anal carcinoma; *what:* histology). Colonoscopy where inflammatory bowel disease is suspected (*why:* perianal disease may be the first sign of Crohn disease; *what:* intestinal inflammation). FBC, glucose and HbA1c (*why:* diabetes predisposes to abscess and to necrotising infection; *what:* hyperglycaemia). **HIV and STI testing where indicated** (*why:* atypical anorectal disease, and anal cancer risk; *what:* positive serology or NAAT — cross-refer [[O6]]).
 
 ### 0.4.1 Mx – Immediate
-**Contact the transplant unit.** N-acetylcysteine. Dextrose infusion with hourly glucose. Avoid nephrotoxins and sedatives. Nurse head up. Cultures and low-threshold antibiotics. ICU involvement. **Do not correct the INR without discussion.**
+**Drain the abscess.** Analgesia. Stool softeners. Sitz baths for symptomatic relief.
 
 ### 0.4.2 Mx – Definitive
-Cause-specific treatment and consideration for liver transplantation.
+Surgical management of abscess, fistula and chronic fissure. Oncological management of anal carcinoma, which is treated primarily with **chemoradiotherapy rather than surgery** — a distinction from rectal cancer worth knowing.
 
 ### 0.4.3 Mx – Chronic/long-term
-Post-transplant immunosuppression and follow-up. **Mental health assessment where the cause was deliberate self-poisoning** — cross-refer [[N1]] and [[A5]] 0.1.
+**Long-term stool softening in anal fissure**, because recurrence follows any return to hard stool. Management of underlying Crohn disease. HPV vaccination where relevant.
 
 ---
 
-## 0.5 Chronic Liver Disease and Cirrhosis
+## 0.5 Anal Lump
 
-**D:** Progressive hepatic fibrosis with regenerative nodule formation, distorting architecture and vasculature, producing **portal hypertension** and **hepatic synthetic failure**.
+> [!tip] Internal haemorrhoids are graded, and the grade determines treatment
+> **Grade I** — bleed, do not prolapse. **Grade II** — prolapse on straining, reduce spontaneously. **Grade III** — prolapse, require manual reduction. **Grade IV** — permanently prolapsed, irreducible.
+> **Internal haemorrhoids are above the dentate line and are therefore NOT painful** — they bleed and prolapse. **Pain means something else** — a thrombosed external haemorrhoid, a fissure, an abscess, or a strangulated prolapsed pile.
+> This anatomical distinction (visceral innervation above the dentate line, somatic below) explains the entire clinical difference and is worth holding onto.
+> Management: fibre and fluid, avoid straining and prolonged sitting on the toilet; rubber band ligation for grades I–III; surgery for grade IV or failed conservative management.
 
-**R/Causes:** **Alcohol-related liver disease · metabolic dysfunction-associated steatotic liver disease (MASLD, formerly NAFLD, with MASH the inflammatory form) — now among the commonest causes in Australia · chronic hepatitis B and C · haemochromatosis · autoimmune hepatitis · primary biliary cholangitis and primary sclerosing cholangitis · Wilson disease · alpha-1 antitrypsin deficiency · drugs · right heart failure and Budd-Chiari (congestive hepatopathy).**
+> [!danger] Do not diagnose haemorrhoids without excluding cancer
+> **Rectal bleeding attributed to haemorrhoids in an adult over 40, or with any change in bowel habit, weight loss, iron deficiency or family history, requires colonic investigation.** Haemorrhoids are so common that they coexist with cancer frequently. Cross-refer [[C4]] 0.4.
 
-> [!tip] The stigmata, and what each reflects
-> **Impaired oestrogen metabolism** — spider naevi (in the SVC distribution), palmar erythema, gynaecomastia, testicular atrophy, loss of body hair.
-> **Portal hypertension** — splenomegaly, caput medusae, ascites.
-> **Synthetic failure** — leuconychia (low albumin), bruising and prolonged INR, oedema.
-> **Cholestasis** — jaundice, scratch marks.
-> **Encephalopathy** — asterixis, fetor hepaticus, altered conscious state.
-> **Other** — Dupuytren contracture, clubbing, parotid enlargement.
+> [!tip] The differential for a lump
+> **Skin tags** — often the residue of a previous thrombosed pile or associated with a chronic fissure or Crohn disease.
+> **Thrombosed external haemorrhoid** — acute, painful, blue.
+> **Anal warts (condylomata acuminata)** — HPV. **Screen for other STIs and consider HIV**, and address partner notification. Cross-refer [[O6]].
+> **Perianal abscess.**
+> **Rectal prolapse** — full-thickness, with concentric mucosal rings, as opposed to the radial folds of prolapsed haemorrhoids. Associated with chronic straining, and in children with constipation and cystic fibrosis.
+> **Anal carcinoma** — see 0.4. **Any indurated, ulcerated, irregular or non-healing lump requires biopsy.**
+> **Molluscum contagiosum, condylomata lata of secondary syphilis, and hidradenitis suppurativa.**
 
-> [!warning] Compensated versus decompensated
-> **Compensated cirrhosis may be entirely asymptomatic** with near-normal LFTs, and is frequently discovered incidentally on imaging or through abnormal platelets. **Thrombocytopenia is often the earliest laboratory clue**, reflecting splenic sequestration from portal hypertension.
-> **Decompensation** is defined by the development of **ascites, variceal bleeding, encephalopathy or jaundice**, and it marks a substantial change in prognosis.
-> Severity is graded by **Child-Pugh** (bilirubin, albumin, INR, ascites, encephalopathy) and **MELD** (bilirubin, INR, creatinine, sodium), the latter used for transplant prioritisation. `UNVERIFIED — the scores, their variables and cut-offs.`
-
-> [!danger] Two surveillance programs that are frequently not arranged
-> **1. Hepatocellular carcinoma surveillance** — six-monthly ultrasound, with or without alpha-fetoprotein, in patients with cirrhosis and in some with chronic hepatitis B without cirrhosis. **Surveillance detects tumours at a curable stage; symptomatic HCC is usually incurable.**
-> **2. Variceal screening endoscopy** at diagnosis of cirrhosis, with subsequent intervals determined by findings, so that primary prophylaxis can be started before the first bleed.
-> Both are the kind of thing that falls through the gap between hospital and general practice. **Put them explicitly in the discharge summary with who is responsible.** `UNVERIFIED — surveillance intervals and the criteria for who requires them.`
-
-> [!warning] Prescribing in cirrhosis
-> **Avoid NSAIDs** — they precipitate renal failure and gastrointestinal bleeding. **Use opioids and benzodiazepines with great caution** — reduced clearance precipitates encephalopathy. **Paracetamol is generally safe at reduced doses** and is preferable to NSAIDs, which is counterintuitive to many. **Avoid aminoglycosides.** `UNVERIFIED — the safe paracetamol dose in cirrhosis.`
-> **Do not give prophylactic FFP for a raised INR** — the coagulopathy of cirrhosis is "rebalanced" and the INR overstates bleeding risk. Cross-refer [[A9]] 0.3.
-
-**Ix:** As per 0.1, plus: **transient elastography (FibroScan) or serum fibrosis scores** (*why:* non-invasively stages fibrosis, avoiding biopsy in many patients, and identifies cirrhosis in those with normal LFTs; *what:* liver stiffness). Liver biopsy where the diagnosis or stage remains unclear (*why:* definitive histology; *what:* fibrosis stage, aetiology). Upper endoscopy (*why:* variceal screening; *what:* varices and their grade). Six-monthly ultrasound with AFP (*why:* HCC surveillance; *what:* focal lesion). Full aetiological screen — viral serology, autoantibodies, iron studies, caeruloplasmin, alpha-1 antitrypsin (*why:* several causes are specifically treatable and several are heritable with implications for family; *what:* the causative diagnosis).
+**Ix:** **Inspection and digital rectal examination with proctoscopy** (*why:* distinguishes the causes directly, and proctoscopy is required to see internal haemorrhoids; *what:* haemorrhoid grade, tag, wart, mass). **Colonoscopy** where bleeding with any red flag (*why:* excludes colorectal cancer; *what:* tumour, polyp). **Biopsy of any atypical lesion** (*why:* anal carcinoma is rising and is curable when caught early; *what:* histology). **STI screen including HIV** where warts or atypical lesions (*why:* coexisting infection and immunosuppression change management and have partner implications; *what:* positive results).
 
 ### 0.5.1 Mx – Immediate
-Manage decompensation as per 0.6.
+Excision of an acutely thrombosed external haemorrhoid within the early window. Reduction of a strangulated prolapse.
 
 ### 0.5.2 Mx – Definitive
-Treat the cause — **alcohol cessation, antiviral therapy for hepatitis B and C (hepatitis C is now curable with direct-acting antivirals, which is a major change and worth knowing), weight loss and metabolic management for MASLD, venesection for haemochromatosis, immunosuppression for autoimmune hepatitis.**
+Grade-appropriate haemorrhoid management. Treatment of warts. Oncological management of carcinoma.
 
 ### 0.5.3 Mx – Chronic/long-term
-**Vaccinate against hepatitis A and B, influenza and pneumococcus.** Nutritional support — **sarcopenia and malnutrition are common, under-recognised, and independently predict poor outcomes**; these patients need more protein rather than less, and the old advice to restrict protein in encephalopathy has been abandoned. Osteoporosis screening. Alcohol and drug support. Transplant assessment where appropriate.
+Fibre, fluid, avoidance of straining, and **advice not to sit on the toilet for prolonged periods**, which is a genuine and increasingly common contributor with phone use. HPV vaccination.
 
 ---
 
-## 0.6 Complications of Cirrhosis
+## 0.6 Pruritus Ani
 
-> [!danger] Variceal haemorrhage
-> Portal hypertension diverts blood through portosystemic collaterals, which at the gastro-oesophageal junction become thin-walled varices that rupture.
-> **Management:** resuscitate with a **restrictive transfusion strategy** — over-transfusion raises portal pressure and worsens bleeding. **Vasoactive therapy (terlipressin or octreotide) started immediately**, before endoscopy. **Prophylactic antibiotics for every cirrhotic patient with a gastrointestinal bleed — this reduces mortality and is one of the highest-yield interventions in the whole condition, and it is frequently omitted.** Urgent endoscopy with **band ligation**. Balloon tamponade as a bridge in exsanguinating haemorrhage. **TIPS** for uncontrolled or early rebleeding.
-> **Prophylaxis:** non-selective beta-blockade or band ligation for primary and secondary prevention. `UNVERIFIED — all agents, doses, transfusion thresholds and timing targets.`
+**D:** Persistent perianal itching, often intense and worse at night, with an itch-scratch-damage cycle that perpetuates itself.
 
-> [!tip] Ascites and the SAAG
-> The **serum-ascites albumin gradient** distinguishes the cause. **A high gradient indicates portal hypertension** — cirrhosis, heart failure, Budd-Chiari. **A low gradient indicates a non-portal cause** — peritoneal malignancy, tuberculous peritonitis, pancreatic ascites, nephrotic syndrome. `UNVERIFIED — the gradient value separating high from low.`
-> Management: **sodium restriction, spironolactone with frusemide**, and **large-volume paracentesis with albumin replacement** for tense ascites. Fluid restriction is only needed for significant hyponatraemia.
+**A/P:** Faecal contamination of perianal skin, moisture, and mechanical trauma from scratching or over-cleaning break the skin barrier → irritation → scratching → further barrier damage. **In most cases the itch outlasts and then replaces its original cause**, which is why treating only the original cause often fails.
 
-> [!danger] Spontaneous bacterial peritonitis
-> **Every cirrhotic patient with ascites who is admitted should have a diagnostic ascitic tap**, regardless of symptoms. SBP frequently presents with **no abdominal pain and no fever** — sometimes only with worsening encephalopathy, renal impairment or unexplained deterioration.
-> Diagnosis is by **ascitic neutrophil count**, not by culture, which is frequently negative. `UNVERIFIED — the diagnostic neutrophil threshold.` Treat empirically on the count. **Albumin infusion alongside antibiotics reduces the risk of hepatorenal syndrome and improves survival.**
-> **Secondary prophylaxis is indicated after an episode.**
-> Missing SBP is a recurring and preventable cause of death in this population, and the tap is a simple bedside procedure.
+> [!tip] Causes, and the ones that get missed
+> **Idiopathic and hygiene-related** — the commonest. Either **inadequate** cleaning with faecal residue, or, at least as often, **excessive** cleaning with soap, wipes and vigorous wiping that strips the skin.
+> **Anorectal conditions** — haemorrhoids, skin tags, fissure, fistula, prolapse — all causing leakage and moisture.
+> **Infection** — **threadworm (*Enterobius*)**, especially in children, with **intense nocturnal perianal itch**; candida, particularly in diabetics and after antibiotics; dermatophytes; and STIs.
+> **Dermatological** — psoriasis (often with no scale in flexures — "inverse psoriasis"), eczema, **lichen sclerosus**, contact dermatitis.
+> **Contact dermatitis from the treatment itself** — **topical local anaesthetics and long-used topical steroids are frequent sensitisers**, and wipes containing fragrance or preservatives are a common culprit. **Ask what the patient has been applying**, because it is often the cause.
+> **Systemic** — diabetes, cholestasis, iron deficiency, lymphoma, chronic kidney disease.
+> **Neoplastic** — **anal intraepithelial neoplasia, Bowen disease and extramammary Paget disease** all present as persistent perianal itching with a rash, and are frequently treated as eczema for months or years. **A persistent, unilateral, well-demarcated or non-responding perianal rash requires biopsy.**
 
-> [!tip] Hepatic encephalopathy
-> Graded from subtle altered sleep-wake pattern and impaired concentration through to coma. **Asterixis** is characteristic.
-> **The management is finding the precipitant**, which is usually present: **infection (including SBP), gastrointestinal bleeding, constipation, dehydration and over-diuresis, electrolyte disturbance particularly hyponatraemia and hypokalaemia, sedatives and opioids, renal impairment, and TIPS.**
-> Treatment: **lactulose**, titrated to bowel actions, and **rifaximin** for recurrent episodes. `UNVERIFIED — doses and targets.`
-> **A serum ammonia level is not required to make the diagnosis and a normal level does not exclude it** — this is a clinical diagnosis and ammonia is over-ordered.
-> **Do not restrict protein.** That advice is obsolete and worsens the sarcopenia that itself contributes to encephalopathy.
+> [!warning] Threadworm in a child
+> Nocturnal perianal itch, disturbed sleep, and sometimes visible worms. **Treat the whole household simultaneously**, with a repeat dose after an interval to cover the life cycle, plus hygiene measures — hot washing of bedding and clothing, nail trimming, and morning washing. `UNVERIFIED — agent, dose and repeat interval, and the age restrictions.`
 
-> [!warning] Hepatorenal syndrome
-> Functional renal failure from intense renal vasoconstriction in advanced cirrhosis, in the absence of intrinsic renal disease. **A diagnosis of exclusion** — hypovolaemia, sepsis, nephrotoxins and obstruction must all be excluded first, and **an albumin challenge is used to exclude hypovolaemia** before the diagnosis is made.
-> Treated with **terlipressin and albumin**; definitive treatment is liver transplantation. Prognosis without transplant is poor.
+> [!tip] Management principles
+> **Break the cycle.** Stop all current topical preparations, particularly anaesthetics and long-term steroids. Clean gently with water and pat dry — **no soap, no wipes, no vigorous rubbing.** Keep the area dry, use cotton underwear, avoid moisture. A barrier preparation. Treat constipation or leakage. **A short course of a mild topical corticosteroid may be used to break severe itching, but not long-term**, since prolonged use causes skin atrophy and worsens the problem.
+> Dietary triggers — coffee, citrus, spicy food, chocolate — are described and worth a trial of elimination in refractory cases.
 
-> [!tip] The others
-> **Hepatocellular carcinoma** — surveillance as per 0.5.
-> **Hyponatraemia** — dilutional, and a poor prognostic marker; correct slowly to avoid osmotic demyelination.
-> **Portopulmonary hypertension and hepatopulmonary syndrome** — the latter causing **platypnoea-orthodeoxia**, breathlessness worse sitting up. Cross-refer [[A4]] 0.2.
-> **Coagulopathy** — rebalanced, as above.
+**S/Smx:** Itch, worse at night, with excoriation, lichenification, erythema, fissuring, and sometimes discharge or bleeding from scratching.
 
-**Ix:** **Diagnostic ascitic tap with cell count, differential, albumin, protein, and culture in blood culture bottles at the bedside** (*why:* diagnoses SBP and establishes the SAAG, and inoculating culture bottles at the bedside substantially improves yield; *what:* neutrophil count, SAAG, organism). Serum albumin taken the same day (*why:* required to calculate the SAAG; *what:* serum albumin). UEC and daily weights (*why:* monitors diuretic response and detects over-diuresis precipitating renal impairment and encephalopathy; *what:* creatinine, sodium, weight trend). Urgent endoscopy in bleeding (*why:* diagnostic and therapeutic; *what:* varices, banding). Doppler ultrasound (*why:* portal vein patency and thrombosis, which is common in cirrhosis; *what:* portal vein thrombosis, flow direction). Septic screen in any deterioration (*why:* infection is the commonest precipitant of every decompensation; *what:* source).
+**Ix:** **Examination in good light, including inspection for a rash, fissure, tag, prolapse or lesion** (*why:* most causes are visible, and the alternative diagnoses that matter are all found by looking; *what:* dermatosis, anorectal lesion, mass). **Perianal adhesive tape test for threadworm** in children, taken first thing in the morning before washing (*why:* eggs are deposited overnight and are gone after washing, so timing determines the result; *what:* ova). Skin scrapings and swabs for fungi and bacteria (*why:* candida and dermatophyte infection; *what:* organism). **Glucose and HbA1c** (*why:* undiagnosed diabetes presents with candidal and perianal itching; *what:* hyperglycaemia). Iron studies, LFT, renal function (*why:* systemic causes of pruritus; *what:* deficiency, cholestasis, uraemia). **Biopsy of any persistent, atypical or treatment-resistant rash** (*why:* anal intraepithelial neoplasia, Bowen disease and Paget disease masquerade as eczema and are missed for long periods; *what:* histology). Patch testing where contact dermatitis is suspected (*why:* identifies the sensitiser, often a topical the patient is still using; *what:* allergen).
 
 ### 0.6.1 Mx – Immediate
-As per each complication above. **The universal first step in any decompensated cirrhotic is to look for infection and for a gastrointestinal bleed.**
+Not required.
 
 ### 0.6.2 Mx – Definitive
-Complication-specific, with hepatology involvement and transplant assessment.
+Treat the identified cause. Break the itch-scratch cycle.
 
 ### 0.6.3 Mx – Chronic/long-term
-Secondary prophylaxis for SBP and varices. Nutritional support. Advance care planning — **decompensated cirrhosis has a prognosis comparable to many cancers**, and this conversation is systematically avoided.
-
----
-
-## 0.7 Hepatomegaly, Splenomegaly and Hepatic Pain
-
-> [!tip] Hepatomegaly — causes by mechanism
-> **Congestion** — right heart failure, constrictive pericarditis, Budd-Chiari. Characteristically **smooth, tender, and pulsatile in tricuspid regurgitation.**
-> **Infiltration** — fatty liver, amyloid, haemochromatosis, glycogen storage disease.
-> **Malignancy** — metastases (**hard, irregular, nodular**), hepatocellular carcinoma, lymphoma.
-> **Infection** — viral hepatitis (smooth, tender), abscess, hydatid, schistosomiasis.
-> **Haematological** — myeloproliferative disease, extramedullary haematopoiesis.
-> **Biliary** — early primary biliary cholangitis.
-> Note that **a cirrhotic liver is typically small and shrunken**, so hepatomegaly in cirrhosis should prompt thought of malignancy, congestion or an infiltrative process.
-
-> [!tip] Splenomegaly — and the short list for massive splenomegaly
-> Common causes: **portal hypertension · haematological malignancy · infection (EBV, malaria, endocarditis, tuberculosis) · haemolysis · infiltrative and storage disorders · connective tissue disease (Felty syndrome).**
-> **Massive splenomegaly has a genuinely short differential and is worth knowing: chronic myeloid leukaemia · myelofibrosis · chronic malaria · visceral leishmaniasis (kala-azar) · Gaucher disease · and occasionally lymphoma.**
-> **How to distinguish spleen from kidney on examination:** the spleen **enlarges toward the right iliac fossa**, has a **notch**, is **dull to percussion**, moves with respiration, and **you cannot get above it**. The kidney is ballotable, resonant anteriorly because of overlying bowel, and you can get above it.
-
-> [!warning] Hepatic pain
-> The liver parenchyma is insensate; pain arises from **stretch of Glisson's capsule.** So hepatic pain means something is distending the liver **quickly** — a rapidly growing tumour, an abscess, acute congestion from right heart failure, Budd-Chiari, acute hepatitis, or capsular inflammation in **Fitz-Hugh-Curtis syndrome.**
-> **A slowly enlarging liver is painless**, which is why hepatic metastases are typically painless until very large.
-
-**Ix:** **Ultrasound with Doppler** (*why:* characterises the liver texture, identifies focal lesions, assesses portal and hepatic venous flow, and measures the spleen; *what:* size, texture, lesions, flow direction, thrombosis). CT or MRI (*why:* characterises focal lesions and stages malignancy — **MRI with hepatocyte-specific contrast is particularly useful for characterising liver lesions**; *what:* lesion characteristics, metastases). FBC and film (*why:* haematological causes of splenomegaly are common and the film is frequently diagnostic; *what:* leucoerythroblastic film, blasts, tear-drop cells of myelofibrosis). LFT with synthetic function (*why:* distinguishes congestion from hepatocellular disease; *what:* pattern). Echocardiography (*why:* right heart failure and constrictive pericarditis as causes of hepatic congestion, which is easily overlooked; *what:* right heart function, tricuspid regurgitation, constriction). Viral serology and infection screen including malaria films where travel history (*why:* infective causes; *what:* organism). Alpha-fetoprotein (*why:* hepatocellular carcinoma; *what:* elevation). Bone marrow examination where a haematological cause is suspected (*why:* diagnoses myeloproliferative and lymphoproliferative disease; *what:* histology).
-
-### 0.7.1 Mx – Immediate
-Rarely required, unless there is a liver abscess or acute Budd-Chiari.
-
-### 0.7.2 Mx – Definitive
-Cause-specific.
-
-### 0.7.3 Mx – Chronic/long-term
-As per the underlying diagnosis. Post-splenectomy prophylaxis where splenectomy is performed — cross-refer [[C1]] 0.5.
+Skin care education, which is the core of management and takes an explicit conversation — most patients are cleaning too much, not too little. Follow-up to confirm resolution, and **biopsy anything that does not resolve.**
 
 ---
 
 > [!note] Cross-references
-> Right upper quadrant pain and biliary disease → [[C1]] 0.3 · Ascending cholangitis → [[F0.3]] 0.11 · Paracetamol overdose → [[F0.1]] 0.6 · GI bleeding and varices → [[C4]] · Pancreatitis → [[C7]] · Rebalanced haemostasis and FFP in cirrhosis → [[A9]] 0.3 · Haemolysis → [[J2]] · Neonatal jaundice → [[M3]] · Hepatopulmonary syndrome and platypnoea → [[A4]] 0.2 · Alcohol and drug support → [[P1]]
+> Epigastric pain and perforated ulcer → [[C1]] 0.4 · Vomiting, gastric outlet obstruction and Boerhaave → [[C2]] 0.3, 0.7 · Varices and portal hypertension → [[C3]] 0.6 and [[C4]] 0.3 · Upper GI bleeding and *H. pylori* after a bleed → [[C4]] 0.2 · Constipation and its management → [[C5]] 0.2 · Tenesmus and rectal red flags → [[C5]] 0.6 · Oropharyngeal dysphagia and the neurological causes → [[F3]] · Chest pain and cardiac exclusion → [[B1]] · Anal warts, HPV and STI screening → [[O6]] · Necrotising perineal infection → [[K2]] · Deprescribing PPIs → [[GER1]]
 
+
+<!-- ===== SOURCE: 13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology.md ===== -->
+*Moved here from `ENT_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.3 Barrett's oesophagus
+
+> [!warning] FLAG 2026-09-01 — `M-R1` approved for GI, and a stale pointer sits below
+> **`## 0.3 Barrett's oesophagus` and `## 0.4 Oesophageal carcinoma` are approved to move to
+> `GI_merged.md`** — both are taught in the GI block. `## 0.1 Dysphagia — approach`,
+> `## 0.5 Pharyngeal pouch` and `## 0.6 Globus pharyngeus` stay in ENT.
+> **Not yet executed: the move is held pending approval by destination.**
+> ⚠️ **The pointer `*(See also 03.08 for GORD…)*` below is WRONG. `03.08` is not GORD; GORD is
+> `03_Gastrointestinal §0.28`.** It has no wikilink and no filename, so neither `dangling.py` nor
+> `misaimed.py` can see it — **it must be fixed by hand when this section moves.**
+
+- **D:** metaplasia of the lower oesophageal mucosa (columnar epithelium replacing squamous epithelium).
+- **R:** GORD, M>F (7:1), smoking, central obesity.
+- **S/Smx:** GORD symptoms; Barrett's itself is asymptomatic.
+- **Ix:** endoscopy and biopsy required for histological diagnosis.
+
+> [!info] Metaplasia = cell transformation (squamous → columnar). Dysplasia = replacement of mature cells with less mature ones.
+
+*(See also 03.08 for GORD, and when patients get endoscopies for GORD.)*
+
+- **Mx:** high-dose PPI (evidence uncertain). If metaplasia confirmed — endoscopic surveillance with biopsies every 3–5 years. If dysplasia — offer endoscopic interventions, including radiofrequency ablation and endoscopic mucosal resection.
+
+## 0.4 Oesophageal carcinoma
+
+- **D:** neoplastic mucosal lesions, divided into SCC or adenocarcinoma (rarely other kinds).
+
+> [!info] Risk factors by histological subtype
+> - **SCC (upper 2/3):** smoking, alcohol, achalasia, Plummer-Vinson syndrome, ↑nitrosamines.
+> - **Adenocarcinoma (lower 1/3):** GORD, Barrett's oesophagus, smoking, obesity.
+
+> [!danger] Red flag symptoms: dysphagia, anorexia, weight loss, vomiting, odynophagia, hoarseness, melaena, cough.
+
+- **Ix/Dx:** upper GI endoscopy for diagnosis. Endoscopic ultrasound for locoregional staging. CT or PET-CT for initial staging (metastases). Laparoscopy to detect occult peritoneal disease.
+- **Mx:** operable disease — surgical resection (risk of anastomotic leak). Adjuvant chemotherapy. Palliation if not operable.
 
 <!-- ===== SOURCE: C4_Gastrointestinal_Bleeding.md ===== -->
 
@@ -2866,260 +1544,287 @@ Pelvic floor physiotherapy for incontinence, which is effective and under-referr
 > Acute abdomen and the surgical emergencies → [[C1]] · Nausea, vomiting and antiemetic choice → [[C2]] · Cirrhosis, ascites and SAAG → [[C3]] 0.6 · GI bleeding and iron deficiency → [[C4]] · Dyspepsia and anorectal pain → [[C6]] · Isotonic dehydration and rehydration → [[F0.2]] 0.9 · Third-spacing → [[F0.2]] 0.10 · Paediatric constipation, diarrhoea and intussusception → [[M5]] · Faecal incontinence in the elderly → [[GER2]] · Sexually transmitted proctitis → [[O6]] · Ovarian cancer presentation → [[O5]]
 
 
-<!-- ===== SOURCE: C6_Dyspepsia__Oesophageal_and_Anorectal_Disease.md ===== -->
+<!-- ===== SOURCE: C3_Jaundice_and_Liver_Disease.md ===== -->
 
 
 > [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Mechanism, discriminators and management principles are reliable at intern level. **Every age threshold, dose, regimen, surveillance interval and criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** *H. pylori* eradication regimens in particular must come from **eTG Antibiotic** — Australian resistance patterns differ from those elsewhere and the recommended regimens have changed.
+> Written from model knowledge, not retrieved from guidelines. Mechanism, LFT interpretation and discriminators are reliable at intern level. **Every threshold, score, dose and reference range carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify King's College criteria, Child-Pugh and MELD scores, SAAG and ascitic neutrophil thresholds, and all antibiotic and vasoactive regimens against eTG, current hepatology guidance and your health network's protocols.
 
 ---
 
-## 0.1 Dyspepsia, Reflux and Heartburn
+## 0.1 Jaundice — Mechanism and Classification
 
-**D:** **Dyspepsia** is epigastric pain or discomfort, often with fullness, early satiety or bloating. **Gastro-oesophageal reflux disease** is symptoms or complications resulting from reflux of gastric contents into the oesophagus.
+**D:** Yellow discolouration of skin, sclerae and mucous membranes from bilirubin deposition, clinically detectable once serum bilirubin exceeds roughly twice the upper limit of normal. `UNVERIFIED — the threshold at which jaundice becomes visible.`
 
-**A/P:** The lower oesophageal sphincter, the crural diaphragm and the acute angle of His together form the antireflux barrier. Reflux occurs mainly through **transient lower oesophageal sphincter relaxations** rather than a permanently weak sphincter, and is promoted by anything that raises intra-abdominal pressure or disrupts the anatomy — **obesity, pregnancy, hiatus hernia, large or late meals.** Acid and pepsin then injure oesophageal mucosa, which has no protective mucus layer.
+**A/P:** Senescent red cells are broken down in the reticuloendothelial system → haem → biliverdin → **unconjugated bilirubin**, which is lipid-soluble, tightly albumin-bound and therefore **cannot be filtered by the glomerulus** → transported to the liver → taken up by hepatocytes → **conjugated with glucuronic acid by UGT1A1** → **conjugated bilirubin**, which is water-soluble → excreted in bile → converted by gut bacteria to urobilinogen and stercobilin, which colours the stool.
 
-> [!danger] Exclude cardiac causes before settling on reflux
-> **Inferior myocardial infarction presents as epigastric burning with nausea**, and "indigestion" that turns out to be infarction is a recurring and lethal misattribution — particularly in diabetics, women, older patients, and Aboriginal and Torres Strait Islander patients who develop ischaemic heart disease younger.
-> **Relief with antacid or GTN does not distinguish them** — GTN relieves oesophageal spasm and antacids relieve nothing reliably. **Get an ECG.** Cross-refer [[B1]] 0.1 and 0.4.
+> [!danger] The urine and stool answer the first question
+> **Unconjugated bilirubin is albumin-bound and cannot enter the urine.** So:
+> **· Jaundice with normal-coloured urine = unconjugated (prehepatic or a conjugation defect).**
+> **· Jaundice with dark urine and pale stools = conjugated, with impaired excretion — hepatocellular or obstructive.**
+> This single pair of questions, asked in the history at no cost, splits the differential before any test returns. **Pruritus** additionally points strongly toward cholestasis.
 
-> [!warning] Red flags mandating endoscopy rather than a PPI trial
-> **· Dysphagia or odynophagia · unintentional weight loss · iron deficiency anaemia · persistent vomiting · haematemesis or melaena · a palpable epigastric mass or lymphadenopathy · new onset above a threshold age · a family history of upper gastrointestinal cancer · previous gastric surgery or gastric ulcer.**
-> `UNVERIFIED — the age threshold for new-onset dyspepsia triggering endoscopy in current Australian guidance.`
+> [!tip] The three-way classification
+> **Prehepatic** — increased bilirubin load. Haemolysis, ineffective erythropoiesis, resorption of a large haematoma. **Unconjugated.**
+> **Hepatic** — impaired uptake, conjugation or excretion by the hepatocyte. Hepatitis, cirrhosis, drugs, Gilbert syndrome. **Mixed, or unconjugated in conjugation defects.**
+> **Posthepatic** — obstruction to biliary flow. Stones, strictures, tumours. **Conjugated.**
 
-> [!tip] Drugs that cause or worsen reflux and dyspepsia
-> **Calcium channel blockers and nitrates** (lower oesophageal sphincter relaxation) · **NSAIDs and aspirin** · **bisphosphonates** (direct mucosal injury — must be taken upright with water and not lain down after) · anticholinergics · theophylline · doxycycline (pill oesophagitis) · corticosteroids · potassium chloride tablets.
-> **Reviewing the drug chart is the cheapest intervention here and is frequently skipped.**
+> [!info] Reading the LFT pattern
+> **Hepatocellular pattern** — **ALT and AST** disproportionately raised. Hepatitis of any cause.
+> **Cholestatic pattern** — **ALP and GGT** disproportionately raised. Obstruction, or intrahepatic cholestasis.
+> **A raised ALP with a NORMAL GGT points away from the liver** — think **bone** (Paget disease, metastases, osteomalacia, healing fracture, growth in children) or placenta in pregnancy. The GGT is what confirms a hepatobiliary source.
+> **An AST:ALT ratio above 2** suggests alcohol-related liver disease, particularly with a raised GGT and macrocytosis.
+> `UNVERIFIED — the R ratio formula used to formally classify hepatocellular versus cholestatic injury, and all reference ranges.`
 
-> [!info] Extra-oesophageal manifestations
-> Chronic cough, hoarseness, globus, laryngitis, dental erosion, and worsening of asthma. **Reflux is a common cause of chronic cough** — cross-refer [[A4]] 0.5 — and it may be entirely "silent", with no heartburn at all, which is why it is missed.
+> [!danger] Transaminases and bilirubin measure injury. Albumin and INR measure function.
+> **The "liver function tests" mostly do not test liver function.** ALT, AST, ALP, GGT and bilirubin are markers of **damage or obstruction**. The true synthetic function markers are:
+> **· Albumin** — long half-life, so it reflects chronic function.
+> **· INR / prothrombin time** — short half-life clotting factors, so it reflects **acute** function and is the more sensitive early marker.
+> **· Glucose** — hypoglycaemia in severe hepatic failure.
+> A patient with dramatically raised transaminases and a normal INR has significant injury but preserved function. A patient with modest transaminases and a rising INR is in trouble. **Watch the INR.**
 
-> [!warning] Long-term PPI use is not risk-free
-> Associations include **hypomagnesaemia, vitamin B12 deficiency, *C. difficile* and other enteric infections, community-acquired pneumonia, fractures, interstitial nephritis, and micronutrient malabsorption.** Causality is debated for several, but the practical point stands: **PPIs are prescribed indefinitely without review far too often.**
-> **Rebound acid hypersecretion on cessation** makes patients believe they still need it, so **step down gradually rather than stopping abruptly**, and reassess whether continued therapy is justified. Deprescribing is an active intervention. Cross-refer [[GER1]].
+**S/Smx:** Yellow sclerae and skin, dark urine, pale stools, pruritus, right upper quadrant pain, fever, weight loss, and the stigmata of chronic liver disease in 0.5.
 
-> [!tip] Functional dyspepsia
-> Dyspeptic symptoms with a normal endoscopy and no identifiable structural cause. **A positive diagnosis made on symptom criteria, not a residual label.** It overlaps substantially with irritable bowel syndrome and with anxiety, and explaining the gut-brain mechanism is therapeutic. `UNVERIFIED — Rome criteria.`
-
-**S/Smx:** Burning retrosternal discomfort, worse lying flat, bending or after meals; acid regurgitation; waterbrash; epigastric pain; bloating; nausea; and the extra-oesophageal features above.
-
-**Ix:** **ECG** (*why:* excludes the cardiac cause, per the danger above; *what:* ischaemic change). ***H. pylori* testing** in patients without red flags (*why:* the "test and treat" strategy identifies and eradicates a treatable cause and reduces the need for endoscopy in younger patients; *what:* positive urea breath test or stool antigen — see 0.2 for the crucial pre-test drug withholding). FBC and iron studies (*why:* iron deficiency anaemia converts dyspepsia into a red-flag presentation requiring endoscopy; *what:* microcytic anaemia, low ferritin). **Gastroscopy where red flags are present** (*why:* identifies ulcer, malignancy, oesophagitis, Barrett metaplasia and eosinophilic oesophagitis, and permits biopsy; *what:* mucosal disease, mass). Oesophageal pH and impedance monitoring, and manometry (*why:* reserved for refractory symptoms, atypical presentations, or before antireflux surgery — they confirm that symptoms are actually reflux-related, which is not always the case; *what:* acid exposure time, symptom correlation, motility). Coeliac serology (*why:* coeliac disease presents as dyspepsia and bloating with minimal bowel symptoms; *what:* raised tissue transglutaminase IgA). Ultrasound where biliary symptoms are plausible (*why:* gallstones cause epigastric pain and are common; *what:* stones).
+**Ix:** **Split (conjugated and unconjugated) bilirubin** (*why:* determines the entire branch of the differential and is not reported unless specifically requested; *what:* predominantly conjugated or unconjugated). Full LFT with **ALT, AST, ALP, GGT, albumin** (*why:* establishes the injury pattern and the synthetic function; *what:* hepatocellular versus cholestatic, low albumin). **INR** (*why:* the most sensitive early marker of impaired synthetic function, and the key prognostic variable in acute liver failure; *what:* prolongation). FBC and blood film (*why:* anaemia with reticulocytosis suggests haemolysis; thrombocytopenia suggests portal hypertension or chronic liver disease; macrocytosis suggests alcohol; *what:* the pattern). Reticulocytes, LDH, haptoglobin, direct antiglobulin test where unconjugated (*why:* confirms haemolysis; *what:* raised reticulocytes and LDH, low haptoglobin). **Abdominal ultrasound** (*why:* the pivotal early test — the presence or absence of **biliary duct dilatation** separates obstructive from hepatocellular causes and directs everything that follows; *what:* duct dilatation, stones, liver texture, focal lesion, ascites, splenomegaly, portal flow). Viral hepatitis serology (*why:* common, treatable, and has public health implications; *what:* hepatitis A, B and C serology, and E where indicated). **Paracetamol level** (*why:* the commonest cause of acute liver failure in Australia and it is treatable; *what:* level against time — cross-refer [[F0.1]] 0.6). Autoimmune screen — ANA, anti-smooth muscle, anti-LKM, immunoglobulins, **anti-mitochondrial antibody** (*why:* autoimmune hepatitis and primary biliary cholangitis are treatable and are diagnosed on serology plus biochemistry; *what:* positive antibodies, raised IgG or IgM). **Iron studies, caeruloplasmin, alpha-1 antitrypsin** (*why:* haemochromatosis, Wilson disease and alpha-1 antitrypsin deficiency are inherited, treatable and family-relevant, and **Wilson disease must be excluded in any young person with liver disease**; *what:* raised ferritin and transferrin saturation, low caeruloplasmin, low alpha-1 antitrypsin).
 
 ### 0.1.1 Mx – Immediate
-Rarely required. Exclude cardiac and complicated ulcer disease.
+Determined by the cause. Assess for encephalopathy and coagulopathy in any jaundiced patient — see 0.4.
 
 ### 0.1.2 Mx – Definitive
-**Lifestyle first — weight loss has the strongest evidence of any measure.** Also: elevate the head of the bed, avoid eating within a few hours of lying down, reduce alcohol and smoking, and identify individual food triggers rather than imposing blanket restriction.
-**Proton pump inhibitor** at the lowest effective dose, with a defined review. Antacids and alginates for breakthrough symptoms. *H. pylori* eradication where positive.
-**Antireflux surgery (fundoplication)** for well-selected patients with proven reflux who are intolerant of or unwilling to continue long-term medical therapy. `UNVERIFIED — PPI doses, duration and step-down regimens.`
+Cause-specific.
 
 ### 0.1.3 Mx – Chronic/long-term
-**Review the need for ongoing PPI at every opportunity**, with a step-down plan. Weight management. Cross-refer [[I5]].
+Alcohol and hepatotoxin avoidance, vaccination against hepatitis A and B in chronic liver disease, and medication review for hepatically metabolised drugs.
 
 ---
 
-## 0.2 Peptic Ulcer Disease and *Helicobacter pylori*
+## 0.2 Unconjugated Hyperbilirubinaemia
 
-**A/P:** Ulceration results from an imbalance between aggressive factors (acid, pepsin, *H. pylori*, NSAIDs) and mucosal defence (mucus-bicarbonate layer, prostaglandin-dependent blood flow, epithelial renewal). **NSAIDs act by inhibiting COX-1-derived prostaglandins**, which is why the injury is systemic rather than merely topical — **enteric coating and rectal administration do not protect the stomach.**
+> [!tip] Gilbert syndrome — common, benign, and over-investigated
+> Reduced UGT1A1 activity, present in a meaningful proportion of the population. **Mild isolated unconjugated hyperbilirubinaemia, with entirely normal transaminases, ALP, albumin and full blood count**, and no haemolysis.
+> Characteristically **worse with fasting, intercurrent illness, dehydration, exertion or stress** — which is exactly when patients have blood taken, so it is frequently discovered incidentally in an unwell patient and misinterpreted as liver disease.
+> **The diagnosis is made by the pattern: isolated unconjugated bilirubin with everything else normal.** No further investigation is needed once haemolysis is excluded, and the correct management is **explanation and reassurance.** It has no long-term consequences.
+> One practical point: it alters the metabolism of a few drugs, notably irinotecan.
 
-> [!tip] The causes
-> ***H. pylori*** — the dominant cause of duodenal ulceration and a major cause of gastric ulceration. It also causes gastric adenocarcinoma and MALT lymphoma, which is why eradication matters beyond symptom relief.
-> **NSAIDs and aspirin** — increasingly the dominant cause in Australia as *H. pylori* prevalence falls.
-> **Stress ulceration** — critical illness, burns (Curling ulcer), head injury (Cushing ulcer).
-> **Zollinger-Ellison syndrome** — gastrin-secreting tumour. Suspect with **multiple ulcers, ulcers in unusual distal locations, ulcers refractory to treatment, ulcers with diarrhoea, or ulcers in the absence of *H. pylori* and NSAIDs.** Rare, but the pattern is distinctive.
-> **Malignancy** — every gastric ulcer must be biopsied.
-
-> [!danger] Withhold acid suppression and antibiotics before *H. pylori* testing
-> **Proton pump inhibitors must be stopped for a period before testing, and antibiotics and bismuth for longer**, because they suppress the organism and produce **false negative** urea breath tests, stool antigen tests and biopsy urease tests.
-> This is the single commonest technical error in *H. pylori* testing, and it results in patients being told they are negative when they are not.
-> **Serology is not useful for confirming eradication** — antibodies persist for years after successful treatment. Use a urea breath test or stool antigen for that. `UNVERIFIED — the required withholding periods.`
-
-> [!warning] Confirm eradication, and know that resistance is rising
-> **Clarithromycin resistance has increased in Australia**, and first-line regimens have been revised accordingly. **Obtain the current regimen from eTG Antibiotic rather than from memory or from an overseas source** — this is one of the clearest examples of a recommendation that differs by jurisdiction and by year.
-> **Always confirm eradication** with a repeat test after treatment, after the appropriate withholding period. Failure to confirm is common, and treatment failure is common enough that assuming success is unsafe. `UNVERIFIED — regimens, durations, and the interval before confirmatory testing.`
-
-> [!danger] Every gastric ulcer needs biopsy and repeat endoscopy
-> **Gastric ulcers may be malignant, and a benign appearance is not sufficient reassurance.** Biopsy at the index endoscopy, and **repeat endoscopy after treatment to confirm healing** — a non-healing gastric ulcer is cancer until proven otherwise.
-> **Duodenal ulcers do not require the same routine follow-up**, as duodenal malignancy is rare.
-
-> [!tip] Gastroprotection with NSAIDs
-> Indicated where an NSAID is unavoidable in a patient at increased risk: **previous ulcer or ulcer bleeding · age over about 65 · concurrent aspirin, anticoagulant, corticosteroid or SSRI · high NSAID dose · significant comorbidity.**
-> **The combination of an NSAID with an SSRI, a corticosteroid or an anticoagulant multiplies bleeding risk** and is a common and avoidable prescribing pattern. `UNVERIFIED — risk thresholds and gastroprotection regimens.`
-
-**S/Smx:** Epigastric pain, classically burning or gnawing. **Duodenal ulcer pain is traditionally relieved by food and worse at night; gastric ulcer pain is worse with eating** — but this distinction is unreliable in practice and should not be used to decide who needs endoscopy. Nausea, early satiety, bloating. **Many ulcers, particularly NSAID-related, are asymptomatic until they bleed or perforate** — which is why the first presentation is often a complication.
-
-**Ix:** ***H. pylori* testing with appropriate drug withholding** (*why:* eradication cures the disease and prevents recurrence, and the test is invalid if the withholding is not observed; *what:* urea breath test, stool antigen, or biopsy urease and histology). **Gastroscopy with biopsy** (*why:* diagnoses the ulcer, biopsies for *H. pylori* and for malignancy, and permits therapy if bleeding; *what:* ulcer site and appearance, histology). FBC and iron studies (*why:* chronic blood loss; *what:* iron deficiency anaemia). **Fasting gastrin** where Zollinger-Ellison is suspected, **off PPI** (*why:* PPIs themselves raise gastrin substantially and make the test uninterpretable; *what:* markedly raised gastrin). Erect CXR where perforation is suspected (*why:* free gas; *what:* subdiaphragmatic air — cross-refer [[C1]] 0.4).
-
-### 0.2.1 Mx – Immediate
-For complications — bleeding per [[C4]] 0.2, perforation per [[C1]] 0.4, gastric outlet obstruction per [[C2]] 0.3.
-
-### 0.2.2 Mx – Definitive
-**Eradicate *H. pylori*. Stop the NSAID.** Proton pump inhibitor for healing. Endoscopic or surgical management of complications.
-
-### 0.2.3 Mx – Chronic/long-term
-**Confirm eradication. Repeat endoscopy for gastric ulcers.** Review analgesic strategy so the patient is not simply left in pain — paracetamol, topical NSAIDs, and non-pharmacological measures. Gastroprotection where an NSAID must continue.
-
----
-
-## 0.3 Oesophageal Disease
-
-> [!danger] Progressive dysphagia with weight loss is oesophageal cancer until proven otherwise
-> **Dysphagia to solids progressing to liquids, with weight loss, in an older patient** requires urgent endoscopy. Do not treat it as reflux.
-> **Squamous cell carcinoma** — upper and middle third; risk factors **smoking, alcohol**, achalasia, caustic stricture, and hot beverages.
-> **Adenocarcinoma** — lower third; arises from **Barrett oesophagus**, with obesity and chronic reflux as the drivers. Now the commoner type in Australia and other Western countries, and its incidence has risen substantially.
-
-> [!info] Barrett oesophagus
-> **Intestinal metaplasia replacing normal squamous epithelium in the distal oesophagus**, in response to chronic acid exposure — a protective adaptation that carries a risk of progression through dysplasia to adenocarcinoma.
-> Managed with **PPI and endoscopic surveillance**, with intervals determined by segment length and dysplasia grade. **Dysplastic Barrett is treated endoscopically** — radiofrequency ablation and endoscopic mucosal resection — rather than being watched. `UNVERIFIED — surveillance intervals and the criteria for who requires surveillance, which differ between guidelines.`
-> The absolute annual risk of progression is low, which matters when counselling an anxious patient.
-
-> [!danger] Eosinophilic oesophagitis — think of it in the young
-> **A young adult, often male and often atopic, presenting with dysphagia or a food bolus obstruction, has eosinophilic oesophagitis until proven otherwise.**
-> It is increasingly common, frequently misdiagnosed as reflux for years, and characterised by **fixed rings, longitudinal furrows and white exudate** at endoscopy — though **the oesophagus may look entirely normal.**
-> **Diagnosis requires multiple biopsies from proximal AND distal oesophagus**, because the disease is patchy and because taking biopsies only from the distal oesophagus will miss it. **If a food bolus is disimpacted and no biopsies are taken, the opportunity is lost.**
-> Treated with PPI, topical swallowed corticosteroids, and dietary elimination. `UNVERIFIED — the eosinophil count threshold for diagnosis, and treatment regimens.`
-
-> [!tip] Achalasia
-> Failure of lower oesophageal sphincter relaxation with absent peristalsis, from degeneration of the myenteric plexus.
-> **The discriminating feature is dysphagia to solids AND liquids from the outset** — mechanical obstruction causes solid dysphagia first, progressing to liquids. Also: regurgitation of undigested food, nocturnal cough and aspiration, chest pain, and slow weight loss.
-> Barium swallow shows the **"bird's beak"** tapering; **manometry is diagnostic.** Treated by pneumatic dilatation, peroral endoscopic myotomy (POEM) or Heller myotomy.
-> **Pseudoachalasia** — a tumour at the gastro-oesophageal junction mimicking achalasia. **Suspect it with older age, short history, and marked weight loss**, and endoscopy is mandatory before treating anyone as achalasia.
+> [!warning] Haemolysis
+> Unconjugated hyperbilirubinaemia with **anaemia, raised reticulocytes, raised LDH, low haptoglobin** and often splenomegaly. The film is frequently diagnostic — spherocytes, fragments, sickle cells, bite cells. Cross-refer [[J2]].
+> **Jaundice from haemolysis alone is usually mild** — a bilirubin high enough to cause deep jaundice suggests hepatic or obstructive disease as well, or a combination such as **gallstones from chronic haemolysis** (pigment stones), which is a genuinely common and satisfying diagnosis to make.
 
 > [!tip] The rest
-> **Peptic stricture** — progressive solid dysphagia in a patient with long-standing reflux. Dilatation plus long-term PPI.
-> **Oesophageal spasm and hypercontractile oesophagus** — chest pain and intermittent dysphagia, and a genuine mimic of cardiac pain.
-> **Pill oesophagitis** — doxycycline, bisphosphonates, potassium chloride, NSAIDs taken with insufficient water or lying down. Sudden severe odynophagia.
-> **Infective oesophagitis** — candida (thrush, immunosuppression, inhaled steroids), herpes simplex, CMV. Consider immunodeficiency including HIV.
-> **Oesophageal varices** — cross-refer [[C4]] 0.3.
-> Cross-refer [[F3]] for oropharyngeal dysphagia, which is a different problem with a neurological differential.
+> **Ineffective erythropoiesis** — megaloblastic anaemia, thalassaemia, myelodysplasia.
+> **Resorption of a large haematoma or extensive bruising** — a common cause of unexplained jaundice in a trauma or post-operative patient.
+> **Crigler-Najjar syndrome** — rare, severe, presenting in infancy.
+> **Neonatal jaundice** — physiological versus pathological, with **jaundice in the first 24 hours of life always pathological**, and the risk of kernicterus from unconjugated bilirubin crossing the immature blood-brain barrier. Cross-refer [[M3]].
 
-**Ix:** **Gastroscopy with biopsies** (*why:* the primary investigation for dysphagia and for reflux with red flags, and it permits biopsy for Barrett, eosinophilic oesophagitis and malignancy in one procedure; *what:* stricture, tumour, rings and furrows, metaplasia). **Multiple oesophageal biopsies at several levels even when the oesophagus looks normal** where eosinophilic oesophagitis is possible (*why:* patchy disease and a frequently normal-appearing mucosa; *what:* eosinophil count). Barium swallow (*why:* defines strictures, pouches and motility patterns, and is useful where endoscopy is difficult or where a proximal lesion is suspected; *what:* bird's beak, stricture, pouch). **High-resolution manometry** (*why:* diagnoses achalasia and other motility disorders, which endoscopy cannot; *what:* absent peristalsis, failure of LOS relaxation). CT chest and abdomen and PET where malignancy is confirmed (*why:* staging; *what:* local extent, nodes, metastases). Endoscopic ultrasound (*why:* local T and N staging of oesophageal cancer; *what:* depth of invasion, nodes).
+**Ix:** Split bilirubin (*why:* confirms it is unconjugated; *what:* predominantly unconjugated fraction). Haemolysis screen — **reticulocytes, LDH, haptoglobin, direct antiglobulin test and blood film** (*why:* separates haemolysis from Gilbert syndrome, which is the entire question; *what:* raised reticulocytes and LDH, low haptoglobin, abnormal film). FBC (*why:* anaemia supports haemolysis; its absence with normal reticulocytes supports Gilbert; *what:* haemoglobin, MCV). Normal ALT, ALP and albumin (*why:* their normality is what confirms Gilbert syndrome; *what:* normal). Genetic testing is available but rarely necessary (*why:* the clinical and biochemical picture is sufficient; *what:* UGT1A1 polymorphism).
+
+### 0.2.1 Mx – Immediate
+Rarely required.
+
+### 0.2.2 Mx – Definitive
+Treat haemolysis if present. Reassure in Gilbert syndrome.
+
+### 0.2.3 Mx – Chronic/long-term
+**Document Gilbert syndrome clearly in the record** so future clinicians do not repeat the workup — this happens repeatedly and is an avoidable source of investigation and anxiety.
+
+---
+
+## 0.3 Conjugated and Obstructive Jaundice
+
+**A/P:** Obstruction to bile flow → conjugated bilirubin refluxes into the circulation → **dark urine** as it is renally excreted, and **pale stools** as stercobilin is no longer produced → bile salt retention in the skin causes **pruritus** → prolonged obstruction impairs absorption of fat-soluble vitamins A, D, E and K, causing **coagulopathy from vitamin K deficiency that is correctable with parenteral vitamin K** (unlike the coagulopathy of hepatocellular failure, which is not).
+
+> [!tip] The causes, by level
+> **Intraluminal** — **choledocholithiasis**, the commonest cause.
+> **Mural** — cholangiocarcinoma, benign post-operative or post-inflammatory stricture, **primary sclerosing cholangitis**, ampullary tumour, parasitic infection.
+> **Extrinsic compression** — **carcinoma of the head of pancreas**, lymphadenopathy, pancreatitis or pseudocyst.
+> **Intrahepatic cholestasis** — drug-induced, primary biliary cholangitis, sepsis, pregnancy, infiltrative disease, total parenteral nutrition.
+
+> [!danger] Painless progressive jaundice with weight loss is malignancy until proven otherwise
+> **Carcinoma of the head of the pancreas and periampullary tumours** classically present this way, and the absence of pain is not reassuring — it is the pattern.
+> **Courvoisier's law**: a **palpable, non-tender gallbladder** in a jaundiced patient makes gallstones an unlikely cause, because a gallbladder chronically inflamed by stones becomes fibrotic and cannot distend. It therefore points toward malignant obstruction. `UNVERIFIED — the law has recognised exceptions and is a probability statement, not an absolute.`
+
+> [!warning] Drug-induced cholestasis
+> A frequently overlooked cause. **Flucloxacillin and amoxicillin-clavulanate** are classic culprits, with jaundice that may appear **weeks after the course finished** — which is why the connection is missed. Also: **oestrogens and the combined oral contraceptive, anabolic steroids, azathioprine, macrolides, and many herbal and complementary preparations**, which patients do not consider "medications" unless asked specifically.
+> **Take a drug history covering the previous three months, including over-the-counter and complementary products.**
+
+> [!tip] Two autoimmune biliary diseases worth distinguishing
+> **Primary biliary cholangitis** — middle-aged women, **pruritus often preceding jaundice by years**, fatigue, raised ALP, **anti-mitochondrial antibody positive**, raised IgM. Treated with ursodeoxycholic acid.
+> **Primary sclerosing cholangitis** — younger, more often male, **strongly associated with inflammatory bowel disease, particularly ulcerative colitis**. Characteristic beading of the ducts on MRCP. Carries a significant risk of **cholangiocarcinoma and colorectal cancer**, so both need surveillance.
+
+**Ix:** **Abdominal ultrasound first** (*why:* the presence of duct dilatation confirms obstruction and its absence redirects toward hepatocellular or intrahepatic cholestatic causes — this branch point determines everything after it; *what:* dilated intra- and extrahepatic ducts, stones, mass). **MRCP** (*why:* non-invasive, detailed anatomy of the biliary tree, identifies duct stones and strictures without the risk of ERCP; *what:* stone, stricture, beading, mass). **Endoscopic ultrasound** (*why:* superior for small distal duct stones and for staging and sampling pancreatic head lesions; *what:* stone, mass, with fine needle aspiration). **ERCP — a therapeutic rather than a diagnostic procedure** (*why:* it permits sphincterotomy, stone extraction and stent placement, but carries a real risk of post-ERCP pancreatitis, so it is reserved for when intervention is intended; *what:* stone extraction, stenting). CT abdomen with pancreatic protocol (*why:* stages malignancy and assesses resectability; *what:* mass, vascular involvement, metastases). Tumour markers — **CA 19-9** (*why:* supports pancreaticobiliary malignancy and is used for monitoring, though **it is raised in benign obstruction and cholangitis and must not be interpreted in a jaundiced patient as diagnostic**; *what:* elevation, interpreted with caution). **INR before any intervention** (*why:* vitamin K deficiency from obstruction causes a correctable coagulopathy that must be treated before ERCP or biopsy; *what:* prolonged INR correcting with vitamin K). AMA and immunoglobulins (*why:* primary biliary cholangitis; *what:* positive AMA, raised IgM).
 
 ### 0.3.1 Mx – Immediate
-**Food bolus obstruction** — if the patient cannot swallow their own saliva, this is urgent because of aspiration risk. Endoscopic removal. **Take biopsies at the same procedure.**
+Fluids, analgesia, **parenteral vitamin K** for coagulopathy. **Antibiotics and urgent biliary drainage for cholangitis** — cross-refer [[F0.3]] 0.11. Pruritus management.
 
 ### 0.3.2 Mx – Definitive
-Condition-specific. Multidisciplinary management of malignancy.
+ERCP with stone extraction or stenting. Cholecystectomy for gallstone disease. Oncological or surgical management of malignancy, with multidisciplinary discussion. Ursodeoxycholic acid for PBC.
 
 ### 0.3.3 Mx – Chronic/long-term
-Barrett surveillance where indicated. Nutritional support and dietitian involvement, which matters greatly in oesophageal disease. Smoking and alcohol cessation.
+Fat-soluble vitamin replacement in chronic cholestasis. Bone density monitoring, since chronic cholestasis causes osteoporosis. Surveillance for cholangiocarcinoma and colorectal cancer in PSC.
 
 ---
 
-## 0.4 Anorectal Pain
+## 0.4 Acute Liver Failure
 
-> [!danger] Perianal abscess needs drainage — antibiotics alone will not do
-> **Constant, throbbing, severe perianal pain, worse on sitting, with fever and a tender fluctuant swelling.** Deeper (intersphincteric, supralevator) abscesses may have **little to see externally** and present with severe pain and systemic upset — so **an absence of visible swelling does not exclude it.**
-> **Treatment is surgical drainage.** Antibiotics are an adjunct, not a substitute, and delaying drainage while a course of antibiotics is tried is a recognised error.
-> **Have a much lower threshold in diabetics and the immunosuppressed**, where necrotising perineal infection (Fournier gangrene) is a life-threatening progression that begins with pain out of proportion to visible findings. Cross-refer [[K2]].
-> A proportion of abscesses are followed by a **fistula-in-ano**, which then requires definitive management.
+**D:** Acute liver injury with **coagulopathy and hepatic encephalopathy** in a patient without pre-existing chronic liver disease. Classified by the interval from jaundice to encephalopathy as hyperacute, acute or subacute — with, counterintuitively, **the hyperacute presentations having the best chance of spontaneous recovery** but the highest risk of cerebral oedema.
 
-> [!tip] Anal fissure
-> **Severe tearing or knife-like pain during defecation, persisting for minutes to hours afterwards, with bright red blood on the paper.** The pain is characteristically out of proportion to the small size of the lesion, and patients begin avoiding defecation, which worsens the constipation that caused it — a self-perpetuating cycle.
-> Usually **posterior midline** (or anterior midline in women post-partum), where the mucosa is relatively poorly perfused. Sphincter spasm reduces blood flow further and prevents healing, which is why treatment targets the spasm.
-> **Chronic fissure** has a sentinel skin tag, hypertrophied anal papilla, and visible internal sphincter fibres at the base.
-> **Management: soften the stool and relieve the spasm** — topical GTN or diltiazem, then botulinum toxin, then lateral internal sphincterotomy (which carries a small risk of incontinence). `UNVERIFIED — agents and concentrations.`
+**R/Causes:** **Paracetamol overdose is the commonest cause in Australia** — cross-refer [[F0.1]] 0.6. Also: viral hepatitis (A, B, E; and hepatitis E is particularly severe in pregnancy), idiosyncratic drug reactions, **herbal and complementary preparations**, autoimmune hepatitis, Budd-Chiari syndrome, **Wilson disease**, ischaemic hepatitis ("shock liver"), *Amanita* mushroom poisoning, and the pregnancy-specific causes of acute fatty liver of pregnancy and HELLP syndrome.
 
-> [!danger] A fissure in an atypical position is not a simple fissure
-> **Lateral, multiple, painless, irregular or non-healing fissures suggest an alternative diagnosis: Crohn disease, tuberculosis, HIV, syphilis, anal carcinoma, or leukaemia.**
-> **Examine, and biopsy anything atypical.** Perianal disease can be the first presentation of Crohn disease, sometimes preceding intestinal symptoms by years.
+> [!danger] Contact a liver transplant unit early — before the patient meets transplant criteria
+> **The commonest error in acute liver failure is referring too late.** These patients deteriorate rapidly and unpredictably, and transfer becomes unsafe once encephalopathy is advanced or cerebral oedema has developed.
+> **Discuss any patient with acute liver injury and a rising INR or any degree of encephalopathy with a transplant centre**, regardless of whether they currently meet listing criteria. The **King's College criteria** are used to identify patients unlikely to survive without transplantation, and are stratified separately for paracetamol and non-paracetamol causes. `UNVERIFIED — the criteria and their component thresholds require verification.`
 
-> [!tip] The rest of the anorectal pain differential
-> **Thrombosed external haemorrhoid** — sudden severe pain with a tense, tender, blue-purple perianal lump. **Excision within the first few days relieves it dramatically; after that, conservative management** as it is already resolving. `UNVERIFIED — the time window.`
-> **Proctalgia fugax** — **brief, severe, fleeting rectal pain, often at night, lasting seconds to minutes and resolving completely.** Benign and functional; the correct management is explanation and reassurance after examination.
-> **Levator ani syndrome** — chronic dull aching rectal pain, worse sitting, with tenderness on palpating the levator muscles.
-> **Anal carcinoma** — pain, bleeding, a mass or a non-healing ulcer. **Associated with HPV, HIV, immunosuppression, smoking, and receptive anal intercourse.** Incidence is rising. **Do not attribute a persistent anal ulcer or lump to a fissure or pile without examining and biopsying it.**
-> **Perianal Crohn disease** — fistulae, complex abscesses, skin tags, and fissures.
-> **Coccydynia** and **pilonidal disease** — related but distinct.
+> [!danger] Do not routinely correct the INR
+> **The INR is the principal prognostic marker and a key component of transplant listing criteria.** Giving fresh frozen plasma to "correct" it obscures the trajectory, does not reduce clinically significant bleeding, and causes volume overload.
+> **Correct only for active bleeding or before an invasive procedure**, and discuss with the transplant unit first. This is counterintuitive and is examined.
 
-**S/Smx:** Character and timing of pain relative to defecation, bleeding, discharge, swelling, fever, bowel habit, and systemic symptoms. **Examine** — inspection, gentle digital examination if tolerated, and proctoscopy where possible. **If the pain prevents examination, that is itself significant and warrants examination under anaesthesia rather than abandoning it.**
+> [!warning] Four things that kill these patients
+> **1. Cerebral oedema and raised intracranial pressure** — the leading cause of death in hyperacute failure. Nurse head up, avoid sedation where possible, control agitation carefully, and involve intensive care. Hyperammonaemia is a driver.
+> **2. Hypoglycaemia** — the failing liver cannot perform gluconeogenesis. **Check glucose hourly and run a dextrose infusion**; hypoglycaemia is easily mistaken for worsening encephalopathy.
+> **3. Sepsis** — these patients are functionally immunosuppressed and frequently have no fever or leucocytosis. Have a low threshold for cultures and empirical antibiotics.
+> **4. Acute kidney injury** — from hypoperfusion, paracetamol directly, or hepatorenal syndrome. **Avoid all nephrotoxins.**
 
-**Ix:** **Examination, including under anaesthesia where pain prevents adequate assessment** (*why:* the diagnosis is almost always made by looking, and inadequate examination is the main reason abscesses and cancers are missed; *what:* fissure, abscess, fistula, mass). **MRI pelvis** for complex or recurrent fistula and perianal Crohn disease (*why:* maps the tract in relation to the sphincter complex, which determines surgical approach and the risk to continence; *what:* tract anatomy, abscess, sphincter involvement). **Biopsy of any atypical ulcer or lump** (*why:* anal carcinoma; *what:* histology). Colonoscopy where inflammatory bowel disease is suspected (*why:* perianal disease may be the first sign of Crohn disease; *what:* intestinal inflammation). FBC, glucose and HbA1c (*why:* diabetes predisposes to abscess and to necrotising infection; *what:* hyperglycaemia). **HIV and STI testing where indicated** (*why:* atypical anorectal disease, and anal cancer risk; *what:* positive serology or NAAT — cross-refer [[O6]]).
+> [!tip] N-acetylcysteine
+> Given for paracetamol-induced failure, and there is evidence supporting its use in **non-paracetamol acute liver failure** as well. `UNVERIFIED — indications, dosing and duration.` Cross-refer [[F0.1]] 0.6.
+
+**S/Smx:** Jaundice, malaise, nausea, right upper quadrant pain, then confusion, altered sleep-wake cycle, **asterixis**, and progressive reduction in conscious state. Fetor hepaticus. Signs of bleeding.
+
+**Ix:** **Serial INR** (*why:* the prognostic marker and the driver of transplant referral, and it must be trended rather than measured once; *what:* rising INR). **Hourly bedside glucose** (*why:* hypoglycaemia is common, dangerous and easily attributed to encephalopathy; *what:* low glucose). **Paracetamol level** (*why:* the commonest and most treatable cause; *what:* level against time). Viral hepatitis serology including hepatitis E (*why:* identifies a treatable and notifiable cause; *what:* serology). Autoimmune screen and immunoglobulins (*why:* autoimmune hepatitis responds to steroids; *what:* positive antibodies, raised IgG). **Caeruloplasmin, serum and urinary copper, and slit lamp for Kayser-Fleischer rings** in anyone under about 40 (*why:* **Wilson disease is treatable, familial and easily missed**, and it must be actively excluded in a young person with liver failure; *what:* low caeruloplasmin, raised urinary copper, KF rings). Ammonia (*why:* very high levels correlate with cerebral oedema risk and inform ICU management, though it is **not required to diagnose encephalopathy**, which is clinical; *what:* markedly raised ammonia). UEC, phosphate, magnesium, lactate, VBG (*why:* renal failure, metabolic derangement and acidosis are all prognostic; *what:* derangement). FBC and blood cultures (*why:* sepsis with a blunted response; *what:* organism). **Doppler ultrasound of the hepatic veins** (*why:* Budd-Chiari syndrome is a treatable cause identified only if specifically looked for; *what:* hepatic vein thrombosis). Pregnancy test (*why:* acute fatty liver of pregnancy and HELLP are obstetric emergencies with different management; *what:* positive).
 
 ### 0.4.1 Mx – Immediate
-**Drain the abscess.** Analgesia. Stool softeners. Sitz baths for symptomatic relief.
+**Contact the transplant unit.** N-acetylcysteine. Dextrose infusion with hourly glucose. Avoid nephrotoxins and sedatives. Nurse head up. Cultures and low-threshold antibiotics. ICU involvement. **Do not correct the INR without discussion.**
 
 ### 0.4.2 Mx – Definitive
-Surgical management of abscess, fistula and chronic fissure. Oncological management of anal carcinoma, which is treated primarily with **chemoradiotherapy rather than surgery** — a distinction from rectal cancer worth knowing.
+Cause-specific treatment and consideration for liver transplantation.
 
 ### 0.4.3 Mx – Chronic/long-term
-**Long-term stool softening in anal fissure**, because recurrence follows any return to hard stool. Management of underlying Crohn disease. HPV vaccination where relevant.
+Post-transplant immunosuppression and follow-up. **Mental health assessment where the cause was deliberate self-poisoning** — cross-refer [[N1]] and [[A5]] 0.1.
 
 ---
 
-## 0.5 Anal Lump
+## 0.5 Chronic Liver Disease and Cirrhosis
 
-> [!tip] Internal haemorrhoids are graded, and the grade determines treatment
-> **Grade I** — bleed, do not prolapse. **Grade II** — prolapse on straining, reduce spontaneously. **Grade III** — prolapse, require manual reduction. **Grade IV** — permanently prolapsed, irreducible.
-> **Internal haemorrhoids are above the dentate line and are therefore NOT painful** — they bleed and prolapse. **Pain means something else** — a thrombosed external haemorrhoid, a fissure, an abscess, or a strangulated prolapsed pile.
-> This anatomical distinction (visceral innervation above the dentate line, somatic below) explains the entire clinical difference and is worth holding onto.
-> Management: fibre and fluid, avoid straining and prolonged sitting on the toilet; rubber band ligation for grades I–III; surgery for grade IV or failed conservative management.
+**D:** Progressive hepatic fibrosis with regenerative nodule formation, distorting architecture and vasculature, producing **portal hypertension** and **hepatic synthetic failure**.
 
-> [!danger] Do not diagnose haemorrhoids without excluding cancer
-> **Rectal bleeding attributed to haemorrhoids in an adult over 40, or with any change in bowel habit, weight loss, iron deficiency or family history, requires colonic investigation.** Haemorrhoids are so common that they coexist with cancer frequently. Cross-refer [[C4]] 0.4.
+**R/Causes:** **Alcohol-related liver disease · metabolic dysfunction-associated steatotic liver disease (MASLD, formerly NAFLD, with MASH the inflammatory form) — now among the commonest causes in Australia · chronic hepatitis B and C · haemochromatosis · autoimmune hepatitis · primary biliary cholangitis and primary sclerosing cholangitis · Wilson disease · alpha-1 antitrypsin deficiency · drugs · right heart failure and Budd-Chiari (congestive hepatopathy).**
 
-> [!tip] The differential for a lump
-> **Skin tags** — often the residue of a previous thrombosed pile or associated with a chronic fissure or Crohn disease.
-> **Thrombosed external haemorrhoid** — acute, painful, blue.
-> **Anal warts (condylomata acuminata)** — HPV. **Screen for other STIs and consider HIV**, and address partner notification. Cross-refer [[O6]].
-> **Perianal abscess.**
-> **Rectal prolapse** — full-thickness, with concentric mucosal rings, as opposed to the radial folds of prolapsed haemorrhoids. Associated with chronic straining, and in children with constipation and cystic fibrosis.
-> **Anal carcinoma** — see 0.4. **Any indurated, ulcerated, irregular or non-healing lump requires biopsy.**
-> **Molluscum contagiosum, condylomata lata of secondary syphilis, and hidradenitis suppurativa.**
+> [!tip] The stigmata, and what each reflects
+> **Impaired oestrogen metabolism** — spider naevi (in the SVC distribution), palmar erythema, gynaecomastia, testicular atrophy, loss of body hair.
+> **Portal hypertension** — splenomegaly, caput medusae, ascites.
+> **Synthetic failure** — leuconychia (low albumin), bruising and prolonged INR, oedema.
+> **Cholestasis** — jaundice, scratch marks.
+> **Encephalopathy** — asterixis, fetor hepaticus, altered conscious state.
+> **Other** — Dupuytren contracture, clubbing, parotid enlargement.
 
-**Ix:** **Inspection and digital rectal examination with proctoscopy** (*why:* distinguishes the causes directly, and proctoscopy is required to see internal haemorrhoids; *what:* haemorrhoid grade, tag, wart, mass). **Colonoscopy** where bleeding with any red flag (*why:* excludes colorectal cancer; *what:* tumour, polyp). **Biopsy of any atypical lesion** (*why:* anal carcinoma is rising and is curable when caught early; *what:* histology). **STI screen including HIV** where warts or atypical lesions (*why:* coexisting infection and immunosuppression change management and have partner implications; *what:* positive results).
+> [!warning] Compensated versus decompensated
+> **Compensated cirrhosis may be entirely asymptomatic** with near-normal LFTs, and is frequently discovered incidentally on imaging or through abnormal platelets. **Thrombocytopenia is often the earliest laboratory clue**, reflecting splenic sequestration from portal hypertension.
+> **Decompensation** is defined by the development of **ascites, variceal bleeding, encephalopathy or jaundice**, and it marks a substantial change in prognosis.
+> Severity is graded by **Child-Pugh** (bilirubin, albumin, INR, ascites, encephalopathy) and **MELD** (bilirubin, INR, creatinine, sodium), the latter used for transplant prioritisation. `UNVERIFIED — the scores, their variables and cut-offs.`
+
+> [!danger] Two surveillance programs that are frequently not arranged
+> **1. Hepatocellular carcinoma surveillance** — six-monthly ultrasound, with or without alpha-fetoprotein, in patients with cirrhosis and in some with chronic hepatitis B without cirrhosis. **Surveillance detects tumours at a curable stage; symptomatic HCC is usually incurable.**
+> **2. Variceal screening endoscopy** at diagnosis of cirrhosis, with subsequent intervals determined by findings, so that primary prophylaxis can be started before the first bleed.
+> Both are the kind of thing that falls through the gap between hospital and general practice. **Put them explicitly in the discharge summary with who is responsible.** `UNVERIFIED — surveillance intervals and the criteria for who requires them.`
+
+> [!warning] Prescribing in cirrhosis
+> **Avoid NSAIDs** — they precipitate renal failure and gastrointestinal bleeding. **Use opioids and benzodiazepines with great caution** — reduced clearance precipitates encephalopathy. **Paracetamol is generally safe at reduced doses** and is preferable to NSAIDs, which is counterintuitive to many. **Avoid aminoglycosides.** `UNVERIFIED — the safe paracetamol dose in cirrhosis.`
+> **Do not give prophylactic FFP for a raised INR** — the coagulopathy of cirrhosis is "rebalanced" and the INR overstates bleeding risk. Cross-refer [[A9]] 0.3.
+
+**Ix:** As per 0.1, plus: **transient elastography (FibroScan) or serum fibrosis scores** (*why:* non-invasively stages fibrosis, avoiding biopsy in many patients, and identifies cirrhosis in those with normal LFTs; *what:* liver stiffness). Liver biopsy where the diagnosis or stage remains unclear (*why:* definitive histology; *what:* fibrosis stage, aetiology). Upper endoscopy (*why:* variceal screening; *what:* varices and their grade). Six-monthly ultrasound with AFP (*why:* HCC surveillance; *what:* focal lesion). Full aetiological screen — viral serology, autoantibodies, iron studies, caeruloplasmin, alpha-1 antitrypsin (*why:* several causes are specifically treatable and several are heritable with implications for family; *what:* the causative diagnosis).
 
 ### 0.5.1 Mx – Immediate
-Excision of an acutely thrombosed external haemorrhoid within the early window. Reduction of a strangulated prolapse.
+Manage decompensation as per 0.6.
 
 ### 0.5.2 Mx – Definitive
-Grade-appropriate haemorrhoid management. Treatment of warts. Oncological management of carcinoma.
+Treat the cause — **alcohol cessation, antiviral therapy for hepatitis B and C (hepatitis C is now curable with direct-acting antivirals, which is a major change and worth knowing), weight loss and metabolic management for MASLD, venesection for haemochromatosis, immunosuppression for autoimmune hepatitis.**
 
 ### 0.5.3 Mx – Chronic/long-term
-Fibre, fluid, avoidance of straining, and **advice not to sit on the toilet for prolonged periods**, which is a genuine and increasingly common contributor with phone use. HPV vaccination.
+**Vaccinate against hepatitis A and B, influenza and pneumococcus.** Nutritional support — **sarcopenia and malnutrition are common, under-recognised, and independently predict poor outcomes**; these patients need more protein rather than less, and the old advice to restrict protein in encephalopathy has been abandoned. Osteoporosis screening. Alcohol and drug support. Transplant assessment where appropriate.
 
 ---
 
-## 0.6 Pruritus Ani
+## 0.6 Complications of Cirrhosis
 
-**D:** Persistent perianal itching, often intense and worse at night, with an itch-scratch-damage cycle that perpetuates itself.
+> [!danger] Variceal haemorrhage
+> Portal hypertension diverts blood through portosystemic collaterals, which at the gastro-oesophageal junction become thin-walled varices that rupture.
+> **Management:** resuscitate with a **restrictive transfusion strategy** — over-transfusion raises portal pressure and worsens bleeding. **Vasoactive therapy (terlipressin or octreotide) started immediately**, before endoscopy. **Prophylactic antibiotics for every cirrhotic patient with a gastrointestinal bleed — this reduces mortality and is one of the highest-yield interventions in the whole condition, and it is frequently omitted.** Urgent endoscopy with **band ligation**. Balloon tamponade as a bridge in exsanguinating haemorrhage. **TIPS** for uncontrolled or early rebleeding.
+> **Prophylaxis:** non-selective beta-blockade or band ligation for primary and secondary prevention. `UNVERIFIED — all agents, doses, transfusion thresholds and timing targets.`
 
-**A/P:** Faecal contamination of perianal skin, moisture, and mechanical trauma from scratching or over-cleaning break the skin barrier → irritation → scratching → further barrier damage. **In most cases the itch outlasts and then replaces its original cause**, which is why treating only the original cause often fails.
+> [!tip] Ascites and the SAAG
+> The **serum-ascites albumin gradient** distinguishes the cause. **A high gradient indicates portal hypertension** — cirrhosis, heart failure, Budd-Chiari. **A low gradient indicates a non-portal cause** — peritoneal malignancy, tuberculous peritonitis, pancreatic ascites, nephrotic syndrome. `UNVERIFIED — the gradient value separating high from low.`
+> Management: **sodium restriction, spironolactone with frusemide**, and **large-volume paracentesis with albumin replacement** for tense ascites. Fluid restriction is only needed for significant hyponatraemia.
 
-> [!tip] Causes, and the ones that get missed
-> **Idiopathic and hygiene-related** — the commonest. Either **inadequate** cleaning with faecal residue, or, at least as often, **excessive** cleaning with soap, wipes and vigorous wiping that strips the skin.
-> **Anorectal conditions** — haemorrhoids, skin tags, fissure, fistula, prolapse — all causing leakage and moisture.
-> **Infection** — **threadworm (*Enterobius*)**, especially in children, with **intense nocturnal perianal itch**; candida, particularly in diabetics and after antibiotics; dermatophytes; and STIs.
-> **Dermatological** — psoriasis (often with no scale in flexures — "inverse psoriasis"), eczema, **lichen sclerosus**, contact dermatitis.
-> **Contact dermatitis from the treatment itself** — **topical local anaesthetics and long-used topical steroids are frequent sensitisers**, and wipes containing fragrance or preservatives are a common culprit. **Ask what the patient has been applying**, because it is often the cause.
-> **Systemic** — diabetes, cholestasis, iron deficiency, lymphoma, chronic kidney disease.
-> **Neoplastic** — **anal intraepithelial neoplasia, Bowen disease and extramammary Paget disease** all present as persistent perianal itching with a rash, and are frequently treated as eczema for months or years. **A persistent, unilateral, well-demarcated or non-responding perianal rash requires biopsy.**
+> [!danger] Spontaneous bacterial peritonitis
+> **Every cirrhotic patient with ascites who is admitted should have a diagnostic ascitic tap**, regardless of symptoms. SBP frequently presents with **no abdominal pain and no fever** — sometimes only with worsening encephalopathy, renal impairment or unexplained deterioration.
+> Diagnosis is by **ascitic neutrophil count**, not by culture, which is frequently negative. `UNVERIFIED — the diagnostic neutrophil threshold.` Treat empirically on the count. **Albumin infusion alongside antibiotics reduces the risk of hepatorenal syndrome and improves survival.**
+> **Secondary prophylaxis is indicated after an episode.**
+> Missing SBP is a recurring and preventable cause of death in this population, and the tap is a simple bedside procedure.
 
-> [!warning] Threadworm in a child
-> Nocturnal perianal itch, disturbed sleep, and sometimes visible worms. **Treat the whole household simultaneously**, with a repeat dose after an interval to cover the life cycle, plus hygiene measures — hot washing of bedding and clothing, nail trimming, and morning washing. `UNVERIFIED — agent, dose and repeat interval, and the age restrictions.`
+> [!tip] Hepatic encephalopathy
+> Graded from subtle altered sleep-wake pattern and impaired concentration through to coma. **Asterixis** is characteristic.
+> **The management is finding the precipitant**, which is usually present: **infection (including SBP), gastrointestinal bleeding, constipation, dehydration and over-diuresis, electrolyte disturbance particularly hyponatraemia and hypokalaemia, sedatives and opioids, renal impairment, and TIPS.**
+> Treatment: **lactulose**, titrated to bowel actions, and **rifaximin** for recurrent episodes. `UNVERIFIED — doses and targets.`
+> **A serum ammonia level is not required to make the diagnosis and a normal level does not exclude it** — this is a clinical diagnosis and ammonia is over-ordered.
+> **Do not restrict protein.** That advice is obsolete and worsens the sarcopenia that itself contributes to encephalopathy.
 
-> [!tip] Management principles
-> **Break the cycle.** Stop all current topical preparations, particularly anaesthetics and long-term steroids. Clean gently with water and pat dry — **no soap, no wipes, no vigorous rubbing.** Keep the area dry, use cotton underwear, avoid moisture. A barrier preparation. Treat constipation or leakage. **A short course of a mild topical corticosteroid may be used to break severe itching, but not long-term**, since prolonged use causes skin atrophy and worsens the problem.
-> Dietary triggers — coffee, citrus, spicy food, chocolate — are described and worth a trial of elimination in refractory cases.
+> [!warning] Hepatorenal syndrome
+> Functional renal failure from intense renal vasoconstriction in advanced cirrhosis, in the absence of intrinsic renal disease. **A diagnosis of exclusion** — hypovolaemia, sepsis, nephrotoxins and obstruction must all be excluded first, and **an albumin challenge is used to exclude hypovolaemia** before the diagnosis is made.
+> Treated with **terlipressin and albumin**; definitive treatment is liver transplantation. Prognosis without transplant is poor.
 
-**S/Smx:** Itch, worse at night, with excoriation, lichenification, erythema, fissuring, and sometimes discharge or bleeding from scratching.
+> [!tip] The others
+> **Hepatocellular carcinoma** — surveillance as per 0.5.
+> **Hyponatraemia** — dilutional, and a poor prognostic marker; correct slowly to avoid osmotic demyelination.
+> **Portopulmonary hypertension and hepatopulmonary syndrome** — the latter causing **platypnoea-orthodeoxia**, breathlessness worse sitting up. Cross-refer [[A4]] 0.2.
+> **Coagulopathy** — rebalanced, as above.
 
-**Ix:** **Examination in good light, including inspection for a rash, fissure, tag, prolapse or lesion** (*why:* most causes are visible, and the alternative diagnoses that matter are all found by looking; *what:* dermatosis, anorectal lesion, mass). **Perianal adhesive tape test for threadworm** in children, taken first thing in the morning before washing (*why:* eggs are deposited overnight and are gone after washing, so timing determines the result; *what:* ova). Skin scrapings and swabs for fungi and bacteria (*why:* candida and dermatophyte infection; *what:* organism). **Glucose and HbA1c** (*why:* undiagnosed diabetes presents with candidal and perianal itching; *what:* hyperglycaemia). Iron studies, LFT, renal function (*why:* systemic causes of pruritus; *what:* deficiency, cholestasis, uraemia). **Biopsy of any persistent, atypical or treatment-resistant rash** (*why:* anal intraepithelial neoplasia, Bowen disease and Paget disease masquerade as eczema and are missed for long periods; *what:* histology). Patch testing where contact dermatitis is suspected (*why:* identifies the sensitiser, often a topical the patient is still using; *what:* allergen).
+**Ix:** **Diagnostic ascitic tap with cell count, differential, albumin, protein, and culture in blood culture bottles at the bedside** (*why:* diagnoses SBP and establishes the SAAG, and inoculating culture bottles at the bedside substantially improves yield; *what:* neutrophil count, SAAG, organism). Serum albumin taken the same day (*why:* required to calculate the SAAG; *what:* serum albumin). UEC and daily weights (*why:* monitors diuretic response and detects over-diuresis precipitating renal impairment and encephalopathy; *what:* creatinine, sodium, weight trend). Urgent endoscopy in bleeding (*why:* diagnostic and therapeutic; *what:* varices, banding). Doppler ultrasound (*why:* portal vein patency and thrombosis, which is common in cirrhosis; *what:* portal vein thrombosis, flow direction). Septic screen in any deterioration (*why:* infection is the commonest precipitant of every decompensation; *what:* source).
 
 ### 0.6.1 Mx – Immediate
-Not required.
+As per each complication above. **The universal first step in any decompensated cirrhotic is to look for infection and for a gastrointestinal bleed.**
 
 ### 0.6.2 Mx – Definitive
-Treat the identified cause. Break the itch-scratch cycle.
+Complication-specific, with hepatology involvement and transplant assessment.
 
 ### 0.6.3 Mx – Chronic/long-term
-Skin care education, which is the core of management and takes an explicit conversation — most patients are cleaning too much, not too little. Follow-up to confirm resolution, and **biopsy anything that does not resolve.**
+Secondary prophylaxis for SBP and varices. Nutritional support. Advance care planning — **decompensated cirrhosis has a prognosis comparable to many cancers**, and this conversation is systematically avoided.
+
+---
+
+## 0.7 Hepatomegaly, Splenomegaly and Hepatic Pain
+
+> [!tip] Hepatomegaly — causes by mechanism
+> **Congestion** — right heart failure, constrictive pericarditis, Budd-Chiari. Characteristically **smooth, tender, and pulsatile in tricuspid regurgitation.**
+> **Infiltration** — fatty liver, amyloid, haemochromatosis, glycogen storage disease.
+> **Malignancy** — metastases (**hard, irregular, nodular**), hepatocellular carcinoma, lymphoma.
+> **Infection** — viral hepatitis (smooth, tender), abscess, hydatid, schistosomiasis.
+> **Haematological** — myeloproliferative disease, extramedullary haematopoiesis.
+> **Biliary** — early primary biliary cholangitis.
+> Note that **a cirrhotic liver is typically small and shrunken**, so hepatomegaly in cirrhosis should prompt thought of malignancy, congestion or an infiltrative process.
+
+> [!tip] Splenomegaly — and the short list for massive splenomegaly
+> Common causes: **portal hypertension · haematological malignancy · infection (EBV, malaria, endocarditis, tuberculosis) · haemolysis · infiltrative and storage disorders · connective tissue disease (Felty syndrome).**
+> **Massive splenomegaly has a genuinely short differential and is worth knowing: chronic myeloid leukaemia · myelofibrosis · chronic malaria · visceral leishmaniasis (kala-azar) · Gaucher disease · and occasionally lymphoma.**
+> **How to distinguish spleen from kidney on examination:** the spleen **enlarges toward the right iliac fossa**, has a **notch**, is **dull to percussion**, moves with respiration, and **you cannot get above it**. The kidney is ballotable, resonant anteriorly because of overlying bowel, and you can get above it.
+
+> [!warning] Hepatic pain
+> The liver parenchyma is insensate; pain arises from **stretch of Glisson's capsule.** So hepatic pain means something is distending the liver **quickly** — a rapidly growing tumour, an abscess, acute congestion from right heart failure, Budd-Chiari, acute hepatitis, or capsular inflammation in **Fitz-Hugh-Curtis syndrome.**
+> **A slowly enlarging liver is painless**, which is why hepatic metastases are typically painless until very large.
+
+**Ix:** **Ultrasound with Doppler** (*why:* characterises the liver texture, identifies focal lesions, assesses portal and hepatic venous flow, and measures the spleen; *what:* size, texture, lesions, flow direction, thrombosis). CT or MRI (*why:* characterises focal lesions and stages malignancy — **MRI with hepatocyte-specific contrast is particularly useful for characterising liver lesions**; *what:* lesion characteristics, metastases). FBC and film (*why:* haematological causes of splenomegaly are common and the film is frequently diagnostic; *what:* leucoerythroblastic film, blasts, tear-drop cells of myelofibrosis). LFT with synthetic function (*why:* distinguishes congestion from hepatocellular disease; *what:* pattern). Echocardiography (*why:* right heart failure and constrictive pericarditis as causes of hepatic congestion, which is easily overlooked; *what:* right heart function, tricuspid regurgitation, constriction). Viral serology and infection screen including malaria films where travel history (*why:* infective causes; *what:* organism). Alpha-fetoprotein (*why:* hepatocellular carcinoma; *what:* elevation). Bone marrow examination where a haematological cause is suspected (*why:* diagnoses myeloproliferative and lymphoproliferative disease; *what:* histology).
+
+### 0.7.1 Mx – Immediate
+Rarely required, unless there is a liver abscess or acute Budd-Chiari.
+
+### 0.7.2 Mx – Definitive
+Cause-specific.
+
+### 0.7.3 Mx – Chronic/long-term
+As per the underlying diagnosis. Post-splenectomy prophylaxis where splenectomy is performed — cross-refer [[C1]] 0.5.
 
 ---
 
 > [!note] Cross-references
-> Epigastric pain and perforated ulcer → [[C1]] 0.4 · Vomiting, gastric outlet obstruction and Boerhaave → [[C2]] 0.3, 0.7 · Varices and portal hypertension → [[C3]] 0.6 and [[C4]] 0.3 · Upper GI bleeding and *H. pylori* after a bleed → [[C4]] 0.2 · Constipation and its management → [[C5]] 0.2 · Tenesmus and rectal red flags → [[C5]] 0.6 · Oropharyngeal dysphagia and the neurological causes → [[F3]] · Chest pain and cardiac exclusion → [[B1]] · Anal warts, HPV and STI screening → [[O6]] · Necrotising perineal infection → [[K2]] · Deprescribing PPIs → [[GER1]]
+> Right upper quadrant pain and biliary disease → [[C1]] 0.3 · Ascending cholangitis → [[F0.3]] 0.11 · Paracetamol overdose → [[F0.1]] 0.6 · GI bleeding and varices → [[C4]] · Pancreatitis → [[C7]] · Rebalanced haemostasis and FFP in cirrhosis → [[A9]] 0.3 · Haemolysis → [[J2]] · Neonatal jaundice → [[M3]] · Hepatopulmonary syndrome and platypnoea → [[A4]] 0.2 · Alcohol and drug support → [[P1]]
 
 
 <!-- ===== SOURCE: C7_Pancreatobiliary_Disease.md ===== -->
@@ -3376,368 +2081,1440 @@ Symptom-specific measures worth knowing: **coeliac plexus block or neurolysis fo
 > Epigastric pain and the acute abdomen → [[C1]] 0.4 and 0.9 · Obstructive jaundice and Courvoisier → [[C3]] 0.3 · Ascending cholangitis → [[F0.3]] 0.11 · Vomiting and gastric outlet obstruction → [[C2]] 0.3 · Chronic diarrhoea and faecal elastase → [[C5]] 0.4 · Third-spacing and fluid sequestration → [[F0.2]] 0.10 · The deteriorating post-operative patient → [[A1]] 0.5 · Hypertriglyceridaemia → [[I5]] · Palliative care and symptom control → [[J5]] · Alcohol and smoking cessation support → [[P1]]
 
 
-<!-- ===== SOURCE: NEW_Drugs_12_Gastrointestinal.md ===== -->
+<!-- ===== SOURCE: 03_Gastrointestinal.md ===== -->
 
 
-# NEW — Drug Classes: Gastrointestinal (AMH section 12)
+## 0.41 Abdominal Pain — Regional Anatomy and DDx
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+### 0.41.1 Anatomical regions and their contents
+| Region | Structures |
+|---|---|
+| Right hypochondrium | Liver + GB, right kidney + adrenal, small intestine, ascending colon |
+| Right flank | Liver + GB, ascending colon |
+| RIF | Ileocaecal junction, appendix ± ovaries/fallopian tube |
+| Epigastric | Stomach, transverse colon, liver, spleen, pancreas, small intestine |
+| Umbilical | Small intestine (including duodenum) |
+| Left hypochondrium | Spleen, pancreas, left kidney + adrenal, descending colon |
+| Left flank | Left kidney, descending colon |
+| Hypogastric | Bladder, sigmoid colon ± uterus ± male reproductive organs |
+| LIF | Descending and sigmoid colon ± ovaries/fallopian tube |
 
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
+> [!danger] Red flags
+> Severe pain, signs of shock, peritoneal signs (rebound tenderness, ↓bowel sounds, new/worsening ascites, fever/chills), abdominal distension, blood in stool/urine, anorexia/weight loss, abdominal mass/organomegaly, fever, jaundice, awakening/nocturnal pain
 
----
-
-## 0.1 Drugs for Dyspepsia, Reflux and Peptic Ulcers
-
-### 0.1.1 Proton Pump Inhibitors
-*(covers build-list classes: Proton Pump Inhibitors; Proton pump inhibitors — the same class listed twice with different capitalisation)*
-- **Mechanism:** irreversibly inhibit the gastric parietal cell **H⁺/K⁺-ATPase (the proton pump)** — the final common step of acid secretion. Because inhibition is irreversible, the effect outlasts the plasma level and takes days of dosing to reach full effect.
-- **Key agents:** **esomeprazole, omeprazole, pantoprazole, rabeprazole, lansoprazole**.
-- **Indications:** **gastro-oesophageal reflux disease and oesophagitis**; **peptic ulcer disease and *H. pylori* eradication**; **NSAID ulcer prophylaxis in at-risk patients**; **upper gastrointestinal bleeding**; Barrett oesophagus; Zollinger-Ellison syndrome; and eosinophilic oesophagitis.
-- **Practical:** take **30–60 minutes before a meal** — the pump must be activated by food for the drug to bind it. Taking a PPI at bedtime on an empty stomach is much less effective, and is a common reason for apparent failure.
-
-> [!danger] **PPIs ARE OVER-PRESCRIBED AND UNDER-REVIEWED. Deprescribing is an active clinical task, and Australia has its own guidance for it.**
-> Sources describe an **Australian deprescribing guide (NSW TAG)** and Australian guidance on **why, when and how** to deprescribe, and note that guidelines **advocate periodic review with strategies including dose reduction, on-demand or intermittent use, and switching to an H₂ antagonist.**
-> **Harms of long-term use reported in the sources:** **fractures** (with use beyond about a year), **kidney disease**, ***Clostridioides difficile* and other enteric infections**, **pneumonia**, **hypomagnesaemia** (described as occurring after at least 3 months and usually after a year), and **vitamin B₁₂ deficiency** (with use beyond about 2 years). Also iron and calcium malabsorption, and a signal for gastric atrophy and precancerous mucosal change with prolonged therapy.
-> **Rebound acid hypersecretion on stopping is real** and makes patients believe they still need the drug — **taper or step down rather than stopping abruptly**, and warn them.
-> **Every long-term PPI needs a documented indication.** Many patients started one during an admission for stress ulcer prophylaxis and are still on it years later.
-
-- **Interactions:** **clopidogrel** — omeprazole and esomeprazole inhibit **CYP2C19**, reducing clopidogrel activation; **pantoprazole is generally preferred** when a PPI is needed with clopidogrel. Reduced absorption of **ketoconazole, itraconazole, atazanavir, rilpivirine, iron and calcium carbonate**; raised **methotrexate** levels.
-- ***H. pylori* eradication:** a PPI with **two or three antimicrobials** for a defined course; **check eradication after treatment** where indicated, and be aware that **clarithromycin resistance is rising**, which drives the move to quadruple and bismuth-based regimens. See `NEW_Investigations_Gastroenterology.md` and [[03_Gastrointestinal]].
-
-> [!danger] **Do not treat dyspepsia with acid suppression without considering the ALARM features:** **dysphagia, odynophagia, unintentional weight loss, vomiting, gastrointestinal bleeding or anaemia, a palpable mass, persistent symptoms in a patient over 50 with new onset, or a family history of upper GI cancer.** These require **endoscopy**, not a trial of a PPI — and **acid suppression can mask a gastric cancer** while it progresses.
-
-### 0.1.2 H₂ Antagonists
-- **Key agents:** **famotidine, nizatidine** (ranitidine was withdrawn worldwide over NDMA contamination; cimetidine is largely obsolete).
-- **Mechanism:** competitive antagonism at the parietal cell **histamine H₂ receptor**.
-- **Role:** less potent than PPIs, but **faster in onset** and useful for **on-demand symptom relief**, as a **step-down from a PPI when deprescribing**, and for **nocturnal acid breakthrough**. Tolerance develops within weeks of regular use.
-- **Adverse effects:** generally well tolerated; **confusion in the elderly and in renal impairment** (dose reduction needed); **cimetidine is a significant CYP inhibitor and antiandrogen** (gynaecomastia, impotence) — which is why it is not used.
-
-### 0.1.3 Antacids
-- **Key agents:** **aluminium hydroxide, magnesium hydroxide/trisilicate, calcium carbonate**, and combinations; **alginate** preparations (Gaviscon-type), which form a physical raft on the gastric contents.
-- **Role:** **rapid, short-lived symptom relief** — genuinely useful as needed and in pregnancy, where alginates and calcium-based antacids are first-line for reflux.
-- **Adverse effects:** **magnesium causes diarrhoea, aluminium causes constipation** (hence the combinations); **calcium carbonate causes acid rebound and, in excess, milk-alkali syndrome**; sodium content matters in heart failure and hypertension; aluminium accumulates in renal failure.
-- **Interactions:** **antacids bind and reduce absorption of many drugs — tetracyclines, quinolones, iron, thyroxine, bisphosphonates, integrase inhibitors and others. Separate doses by at least 2 hours.** This is one of the commonest silent causes of treatment failure.
-
-### 0.1.4 Other Drugs for Ulcers
-- **Sucralfate** — forms a protective barrier over ulcer bases; needs an acid environment (so do not give with a PPI at the same time), and **binds other drugs** — separate doses.
-- **Misoprostol** — a prostaglandin analogue for NSAID ulcer prophylaxis; largely displaced by PPIs because it causes **diarrhoea and abdominal cramps**. **It is an abortifacient and uterotonic and is absolutely contraindicated in pregnancy** — and is used deliberately for that purpose in obstetrics (see `NEW_Drugs_16_Obstetric_and_Gynaecological.md` 0.10.1).
-- **Bismuth compounds** — mucosal protection and anti-*H. pylori* activity; blacken the tongue and stool (**do not confuse with melaena**).
-- **Potassium-competitive acid blockers (vonoprazan)** — a newer class with faster, more sustained acid suppression, used in *H. pylori* regimens where available.
-
-## 0.2 Antiemetics
-
-> [!info] **Choose the antiemetic by the MECHANISM of the vomiting, not by habit.** Chemotherapy and postoperative nausea → **5-HT₃ antagonist** ± dexamethasone ± NK₁ antagonist. Gastric stasis and reflux-associated nausea → **prokinetic dopamine antagonist**. Vestibular and motion-related → **antihistamine or anticholinergic**. Raised intracranial pressure → **dexamethasone**. Drug- and metabolically-driven (opioids, uraemia, hypercalcaemia) → **dopamine antagonist**. **And treat the cause** — nausea is a symptom, and bowel obstruction, raised ICP, pregnancy, DKA, hypercalcaemia and drug toxicity all present this way.
-
-### 0.2.1 5-HT₃ Antagonists
-- **Key agents:** **ondansetron, granisetron, palonosetron, tropisetron**.
-- **Mechanism:** block **serotonin 5-HT₃** receptors on vagal afferents in the gut and in the chemoreceptor trigger zone.
-- **Indications:** **chemotherapy- and radiotherapy-induced nausea and vomiting**, **postoperative nausea and vomiting**, and widely (often as first-line) in acute gastroenteritis and undifferentiated vomiting in emergency departments.
-- **Adverse effects:** **CONSTIPATION** (very common and frequently the cause of the abdominal pain the patient develops next), headache, flushing; **QT PROLONGATION** — sources note ondansetron should be **avoided where there are risk factors for QT prolongation or in combination with other serotonergic medicines**; and, rarely, extrapyramidal reactions and serotonin syndrome.
-- **Pregnancy:** sources note **a potential association between ondansetron and cleft lip/palate**, and advise it should be **started in secondary care or after obstetric discussion** — so it is not the first choice in early pregnancy.
-
-### 0.2.2 Dopamine Antagonists (Antiemetic)
-- **Key agents:** **metoclopramide** (also prokinetic), **domperidone**, **prochlorperazine**, **droperidol**, **haloperidol** (widely used in palliative care), and the phenothiazines.
-- **Mechanism:** **D₂ antagonism** at the chemoreceptor trigger zone; metoclopramide and domperidone additionally act peripherally on the gut to **increase gastric emptying**.
-
-> [!danger] **METOCLOPRAMIDE: EXTRAPYRAMIDAL REACTIONS AND TARDIVE DYSKINESIA, AND THE SHORT-COURSE RESTRICTION.**
-> Sources state that **metoclopramide should only be prescribed for short-term use (up to about 5 days)**, and **should not be used beyond 12 weeks because of tardive dyskinesia, which can be irreversible.** **Acute dystonic reactions — oculogyric crisis, torticollis, trismus — are frightening, are often misdiagnosed as a psychiatric or neurological event, and are commonest in YOUNG WOMEN AND THE ELDERLY.** Treatment is **benztropine or an anticholinergic**, and it resolves quickly. **Prochlorperazine carries the same risk.**
-> **Avoid dopamine antagonists in Parkinson disease** — they worsen it. **Domperidone does not cross the blood-brain barrier appreciably** and is therefore the prokinetic of choice in Parkinson disease, **but it prolongs the QT** and has its own cardiac restrictions.
-> **Metoclopramide is considered safe in pregnancy** and is used, but sources place it as **second-line because of the extrapyramidal and tardive dyskinesia risk**.
-
-- **Other adverse effects:** sedation, hyperprolactinaemia (galactorrhoea, gynaecomastia, amenorrhoea — see `NEW_Drugs_10_Endocrine.md` 0.5.3), postural hypotension, and neuroleptic malignant syndrome.
-- **Contraindication:** **do not give a prokinetic in suspected mechanical bowel obstruction or perforation.**
-
-### 0.2.3 Substance P (NK₁) Antagonists
-- **Key agents:** **aprepitant** and its intravenous prodrug **fosaprepitant**; netupitant, rolapitant.
-- **Mechanism:** block the **neurokinin-1 receptor** for substance P centrally.
-- **Role:** **highly emetogenic chemotherapy**, in a triple regimen with a **5-HT₃ antagonist and dexamethasone** — particularly effective for **DELAYED** chemotherapy-induced nausea, which the 5-HT₃ antagonists control poorly. Also used in postoperative nausea prophylaxis.
-- **Adverse effects:** fatigue, hiccups, constipation; **CYP3A4 interactions** — it affects dexamethasone, some chemotherapy agents, warfarin and **hormonal contraceptives (additional contraception is needed)**.
-
-### 0.2.4 Other Drugs for Nausea and Vomiting
-- **Antihistamines and anticholinergics — promethazine, cyclizine, hyoscine hydrobromide.** For **motion sickness and vestibular causes**, where they are genuinely first-line. Sedating and anticholinergic; **avoid in the elderly** (delirium, falls, retention).
-- **Corticosteroids — dexamethasone.** Effective in chemotherapy and postoperative nausea, and specifically for nausea from **raised intracranial pressure** and malignant bowel obstruction.
-- **Benzodiazepines** — for **anticipatory** nausea before chemotherapy.
-- **Cannabinoids (nabilone)** — refractory chemotherapy-induced nausea.
-- **Pyridoxine and doxylamine** — the evidence-based first-line for **nausea and vomiting of pregnancy** in many guidelines, with ginger and non-drug measures. **Hyperemesis gravidarum requires assessment for dehydration, ketosis, electrolyte disturbance and thiamine deficiency** — and **thiamine must be given before glucose-containing fluids** (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.4.2).
-- **Non-drug:** hydration, small frequent meals, treating pain and constipation, and removing the offending drug.
-
-## 0.3 Drugs Affecting Gastrointestinal Motility
-
-- **Prokinetics:** **metoclopramide** and **domperidone** (D₂ antagonism plus cholinergic facilitation); **erythromycin** (a **motilin receptor agonist** — used deliberately at low dose for gastroparesis and before endoscopy in upper GI bleeding to clear the stomach); prucalopride (a 5-HT₄ agonist for chronic constipation).
-- **Indications:** **gastroparesis** (diabetic, post-surgical, idiopathic), functional dyspepsia with delayed emptying, feed intolerance in critical illness, and to aid post-pyloric feeding tube placement.
-- **Antispasmodics:** **hyoscine butylbromide** (Buscopan — poorly absorbed orally, useful parenterally for colic), **mebeverine**, **peppermint oil** — for **irritable bowel syndrome** and colicky pain. Peppermint oil has reasonable evidence in IBS and few adverse effects.
-- **Antimotility agents:** see 0.4.
-- **Cautions:** the **tardive dyskinesia and duration limits** on metoclopramide (0.2.2) apply here too and are the main reason long-term prokinetic therapy is difficult; **erythromycin causes tachyphylaxis within weeks** and carries QT and interaction risks.
-
-> [!danger] **Never give a prokinetic or a laxative when mechanical obstruction or perforation is possible.** In malignant bowel obstruction, management is specialist and often uses **hyoscine butylbromide, octreotide and dexamethasone** rather than prokinetics.
-
-## 0.4 Antidiarrhoeals
-
-### 0.4.1 Opioid Antidiarrhoeals
-- **Key agents:** **loperamide**, **diphenoxylate with atropine**, codeine, and **opium tincture** in specialist settings.
-- **Mechanism:** **µ-opioid receptor agonism in the myenteric plexus** → reduced propulsive motility and increased transit time, allowing more fluid absorption. **Loperamide does not appreciably cross the blood-brain barrier at normal doses**, so it has no analgesic or euphoric effect.
-- **Indications:** **symptomatic control of non-infective diarrhoea** — IBS-D, short bowel and high-output stoma, chemotherapy-induced diarrhoea, and faecal incontinence.
-
-> [!danger] **DO NOT GIVE ANTIMOTILITY AGENTS IN BLOODY, FEBRILE OR SUSPECTED INVASIVE DIARRHOEA, OR IN SUSPECTED *C. DIFFICILE*.**
-> Slowing transit prolongs exposure to toxin and organism and is associated with **toxic megacolon** and, in Shiga-toxin-producing *E. coli*, an increased risk of **haemolytic uraemic syndrome**. **They are also avoided in acute severe ulcerative colitis.** **In children, antimotility agents are generally avoided altogether** — oral rehydration is the treatment.
-
-> [!danger] **LOPERAMIDE CARDIAC TOXICITY IN OVERDOSE — a genuinely modern problem.**
-> Sources describe an **FDA statement (2016) on heart effects and death with high doses**, note the usual recommended maximum is around **8 mg/day**, and report cardiac toxicity especially with chronic ingestion of **more than 100 mg/day**. The mechanism is **blockade of cardiac hERG (Kv11.1) potassium channels causing QT prolongation, and Nav1.5 sodium channels causing QRS widening**, producing **torsades de pointes, ventricular dysrhythmias, cardiac arrest and death.** **It is misused at very high doses to self-treat opioid withdrawal or to obtain euphoria** — so **ask about loperamide in any unexplained wide-complex or long-QT arrhythmia in a young person**, and recognise that it is cheap and available without prescription.
-- **Diphenoxylate with atropine** — the atropine is included deliberately to deter misuse; **overdose in children causes opioid and anticholinergic toxicity and has been fatal.** Store safely.
-
-### 0.4.2 Other Drugs for Diarrhoea
-- **Oral rehydration solution — the single most important treatment**, and consistently under-used (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.3.5).
-- **Octreotide** — high-output stomas and fistulas, carcinoid and chemotherapy-related diarrhoea.
-- **Bile acid sequestrants (colestyramine, colesevelam)** — for **bile acid diarrhoea**, which is common, easily missed, and dramatically responsive: think of it after **cholecystectomy, terminal ileal resection or Crohn disease**, and in "IBS-D" that has never been properly explained. See 0.8.
-- **Racecadotril** (an enkephalinase inhibitor, antisecretory rather than antimotility) and **probiotics** (modest evidence in antibiotic-associated diarrhoea).
-- **Treat the cause:** stop the offending drug (**antibiotics, metformin, colchicine, magnesium, PPIs, laxatives**), test for **infection including *C. difficile***, and consider **coeliac disease, IBD, malabsorption, hyperthyroidism, and overflow from constipation** — the last being a very common trap in the elderly and in children, where treating the "diarrhoea" makes it worse.
-
-## 0.5 Laxatives
-
-> [!info] **Match the laxative to the problem, and start with the non-drug measures that actually work:** fluid, fibre, activity, toileting routine and privacy, and reviewing constipating drugs (**opioids, anticholinergics, iron, calcium channel blockers, ondansetron, antipsychotics, diuretics**).
-
-### 0.5.1 Osmotic Laxatives
-- **Key agents:** **macrogol (polyethylene glycol)**, **lactulose**, **sorbitol**, **magnesium salts**, **phosphate enemas**.
-- **Mechanism:** osmotically retain water in the bowel lumen, softening stool and increasing volume, which stimulates peristalsis.
-- **Role:** **macrogol is generally first-line** for chronic constipation and faecal impaction in adults and children — it is effective, well tolerated and does not require an intact colonic response.
-- **Adverse effects:** bloating and flatulence (**lactulose particularly**, as it is fermented by colonic bacteria); dehydration and electrolyte disturbance with large volumes; **magnesium accumulates in renal impairment**; **phosphate enemas can cause severe hyperphosphataemia, hypocalcaemia and acute kidney injury — avoid in renal impairment, in the elderly, and in bowel obstruction.**
-- **Lactulose has a second, unrelated indication:** **hepatic encephalopathy**, where it reduces ammonia absorption — dosed to a target stool frequency.
-
-### 0.5.2 Stimulant Laxatives
-- **Key agents:** **senna**, **bisacodyl**, **sodium picosulfate**, **docusate with senna** combinations, glycerol suppositories.
-- **Mechanism:** stimulate enteric nerves and colonic motility, and reduce water absorption.
-- **Role:** **essential in opioid-induced constipation**, where a softener alone is inadequate because the problem is reduced motility. **Co-prescribe with every regular opioid** — this is one of the commonest omissions in ward prescribing (see `NEW_Drugs_03_Analgesics.md` 0.4.4).
-- **Adverse effects:** **cramping and colic** (dose-related), electrolyte disturbance with prolonged use, and melanosis coli with senna (benign and reversible). **The old teaching that stimulant laxatives cause a permanently "atonic colon" is not well supported** — under-treatment of constipation causes more harm than long-term stimulant use.
-- **Contraindication:** **suspected bowel obstruction.**
-
-### 0.5.3 Stool Softeners
-- **Key agents:** **docusate sodium**, and **liquid paraffin** (largely avoided).
-- **Mechanism:** surfactants that allow water and fat to penetrate the stool.
-- **Role:** **weak. The evidence for docusate as a single agent is poor**, and it is one of the most widely prescribed and least effective drugs on the ward — usually appearing where a stimulant or osmotic agent is what is needed. It has a place combined with a stimulant, and where straining must be avoided.
-- **Liquid paraffin** — risk of **lipoid pneumonia if aspirated** (avoid in the elderly, dysphagic and bed-bound), anal seepage, and impaired fat-soluble vitamin absorption.
-
-### 0.5.4 Other Laxatives
-- **Bulk-forming agents — psyllium/ispaghula, sterculia, methylcellulose.** Increase stool bulk and water content. **Must be taken with adequate fluid — otherwise they cause obstruction**, and they are **inappropriate in opioid-induced constipation and in patients with poor fluid intake or slow transit**.
-- **Peripherally acting µ-opioid receptor antagonists — methylnaltrexone, naloxegol, and oxycodone/naloxone combinations.** Block gut opioid receptors **without reversing analgesia** — genuinely useful in refractory opioid-induced constipation, particularly in palliative care.
-- **Secretagogues — lubiprostone, linaclotide** — for chronic idiopathic constipation and IBS-C.
-- **Prucalopride** — a selective 5-HT₄ agonist for chronic constipation refractory to laxatives.
-- **Enemas and suppositories** — for faecal loading and impaction; **manual evacuation** is sometimes necessary.
-
-> [!danger] **Do not ignore constipation as a symptom.** **New, persistent change in bowel habit in an adult over 50, with rectal bleeding, weight loss or anaemia, is colorectal cancer until excluded.** **Faecal impaction with overflow diarrhoea** is regularly misdiagnosed and mistreated with antidiarrhoeals. **Constipation in a patient with new back pain and neurological symptoms raises spinal cord compression or cauda equina.** And **severe constipation with vomiting and distension is obstruction until proven otherwise** — do not give a stimulant laxative.
-
-## 0.6 Drugs for Inflammatory Bowel Diseases
-
-### 0.6.1 5-Aminosalicylates
-- **Key agents:** **mesalazine** (oral, and topical as suppositories and enemas), **sulfasalazine**, olsalazine, balsalazide.
-- **Mechanism:** topical anti-inflammatory action on the colonic mucosa (multiple pathways including COX/LOX and NF-κB); the different formulations are designed to **release the drug at different points in the bowel**, which is why formulation choice matters.
-- **Role:** **first-line for mild-to-moderate ULCERATIVE COLITIS**, for induction and maintenance of remission; **much less effective in Crohn disease**. **Topical (rectal) mesalazine is more effective than oral for distal and left-sided disease and is substantially under-used** — combining oral and topical is better than either alone.
-- **Adverse effects:** generally well tolerated; headache, nausea, diarrhoea; **interstitial nephritis — uncommon but important, so renal function is monitored**; pancreatitis; and paradoxical worsening of colitis.
-- **Sulfasalazine** has more adverse effects (it contains a sulfapyridine moiety): rash, haemolysis in **G6PD deficiency**, **reversible oligospermia**, folate deficiency (supplement folate), and orange discolouration of urine and contact lenses. It retains a place because it also treats the **peripheral arthritis** of IBD and is used in rheumatoid arthritis.
-- **A real benefit worth knowing:** long-term 5-ASA is associated with **reduced colorectal cancer risk** in ulcerative colitis.
-
-### 0.6.2 Corticosteroids (Gastrointestinal)
-- **Key agents:** **prednisolone** (oral), **hydrocortisone/methylprednisolone** (intravenous, for acute severe colitis), **budesonide** (oral, with high first-pass metabolism so fewer systemic effects — used in ileocaecal Crohn disease and microscopic colitis), and **rectal preparations** (hydrocortisone and budesonide foams and enemas).
-- **Role:** **induce remission in a flare — they do NOT maintain it.** This is the central point: **steroids are a bridge to a maintenance agent**, and a patient who cannot come off them, or who flares each time they are weaned, is **steroid-dependent and needs escalation to an immunomodulator or biologic, not another course.**
-- **Adverse effects:** the full systemic corticosteroid profile (see `NEW_Drugs_10_Endocrine.md` 0.5.1), with **bone protection, glucose monitoring and adrenal considerations** on any prolonged or repeated course.
-
-### 0.6.3 Other Drugs for Inflammatory Bowel Disease
-- **Thiopurines — azathioprine, mercaptopurine.** Steroid-sparing maintenance. **Check TPMT and NUDT15 before starting** (see `NEW_Investigations_General_and_Preventive.md` 0.16), **monitor FBC and LFTs**, and remember the **azathioprine–allopurinol interaction**, which causes life-threatening myelosuppression. Long-term risks include **lymphoma and non-melanoma skin cancer** — **sun protection and skin surveillance are part of the prescription, and matter particularly in Australia.**
-- **Methotrexate** — for Crohn disease; **once weekly** (see `NEW_Drugs_08_Dermatological.md` 0.3.4 for the fatal-error warning).
-- **Biologics** — anti-TNF (**infliximab, adalimumab**), anti-integrin (**vedolizumab**, gut-selective), anti-IL-12/23 (**ustekinumab**) and anti-IL-23 agents; and **oral small molecules** — **JAK inhibitors (tofacitinib, upadacitinib)** and **S1P modulators (ozanimod)**. **PBS criteria in Australia are specific and change.**
-- **Ciclosporin** — rescue therapy in acute severe ulcerative colitis.
-- **Antibiotics** — for perianal and fistulising Crohn disease and for septic complications, not as primary therapy.
-
-> [!danger] **ACUTE SEVERE ULCERATIVE COLITIS IS A MEDICAL EMERGENCY WITH A REAL MORTALITY.**
-> Bloody diarrhoea with systemic upset requires **admission, intravenous corticosteroids, VTE prophylaxis (IBD is strongly prothrombotic — and bloody diarrhoea is NOT a contraindication to prophylactic anticoagulation), stool studies including *C. difficile*, exclusion of CMV, and early JOINT MEDICAL AND SURGICAL review.** **Avoid opioids, antimotility agents and NSAIDs** — all associated with toxic megacolon. **Daily assessment with stool frequency, CRP and abdominal examination determines whether rescue therapy or colectomy is needed** — deterioration must not be allowed to drift.
-
-> [!danger] **BEFORE ANY IMMUNOSUPPRESSANT OR BIOLOGIC: screen for latent TB, hepatitis B and C, and HIV; vaccinate (including live vaccines) BEFORE starting; and consider Strongyloides serology.** See `NEW_Drugs_05_Anti_infectives.md` 0.6.3.
-
-## 0.7 Drugs for Perianal Disorders
-
-- **Key agents:** topical preparations combining a **local anaesthetic** (lidocaine, cinchocaine), a **corticosteroid**, and sometimes an astringent or antiseptic; **glyceryl trinitrate 0.2% ointment** and **topical diltiazem** for anal fissure; **botulinum toxin** injection; and **oral flavonoids** for haemorrhoids.
-- **Indications:** **haemorrhoids, anal fissure, pruritus ani, proctitis.**
-- **Practical points:**
-  - **The foundation of treatment is stool softening and avoiding straining** — a bulk-forming or osmotic laxative, adequate fluid, and not sitting on the toilet reading. Topical agents relieve symptoms; **the laxative treats the cause**.
-  - **Topical corticosteroid preparations should be used for SHORT courses only** — prolonged use causes perianal skin atrophy and can worsen pruritus ani.
-  - **GTN and diltiazem work by relieving internal anal sphincter spasm** in fissure, allowing healing. **GTN causes headache in a large proportion of patients** — warn them, or they will stop; topical diltiazem causes less.
-  - **Pruritus ani is usually made worse by treatment** — soaps, wipes, scrubbing and topical anaesthetics all perpetuate it. **The advice is to stop everything, wash with water only, pat dry, and avoid scratching.**
-
-> [!danger] **NEVER attribute rectal bleeding to haemorrhoids without examining the patient and considering colorectal cancer.** **Digital rectal examination and proctoscopy at minimum; colonoscopy where there are risk factors, age over 50, a change in bowel habit, weight loss or anaemia.** "Presumed haemorrhoids" is one of the recognised routes to a delayed colorectal cancer diagnosis. Also consider **IBD, fissure, and — in the immunosuppressed or with relevant sexual history — infective proctitis and anal cancer.**
-
-## 0.8 Other Gastrointestinal Drugs
-
-### 0.8.1 Bile Acid Sequestrants
-- **Key agents:** **colestyramine, colestipol, colesevelam**.
-- **Mechanism:** **anion-exchange resins** that bind bile acids in the gut lumen, preventing their reabsorption in the terminal ileum and forcing hepatic conversion of cholesterol into new bile acids.
-- **Indications:** **bile acid diarrhoea** (post-cholecystectomy, terminal ileal resection or disease, idiopathic — see 0.4.2); **cholestatic pruritus**; **dyslipidaemia** (see `NEW_Drugs_06_Cardiovascular.md` 0.9.6); and **binding toxins** in some poisonings.
-- **Adverse effects:** **very poor palatability, bloating, constipation and nausea** — the main reason they are abandoned; **raised triglycerides**; and **impaired absorption of FAT-SOLUBLE VITAMINS (A, D, E, K)** with long-term use.
-- **Interactions — the practical point:** they **bind other drugs indiscriminately**. **Take all other medicines at least 1 hour before or 4–6 hours after** the resin — particularly **warfarin, thyroxine, digoxin, thiazides and fat-soluble vitamins**.
-
-### 0.8.2 Other Agents in This Group
-- **Ursodeoxycholic acid** — **primary biliary cholangitis** (first-line, improves survival), intrahepatic cholestasis of pregnancy, and gallstone dissolution in selected cases.
-- **Pancreatic enzyme replacement (creon)** — for **exocrine pancreatic insufficiency** in chronic pancreatitis, cystic fibrosis, pancreatic cancer and after pancreatic surgery. **Take with every meal and snack; a PPI improves efficacy** by preventing acid inactivation. **Under-dosing is very common** and causes ongoing steatorrhoea, weight loss and fat-soluble vitamin deficiency.
-- **Rifaximin** — a non-absorbed antibiotic for **hepatic encephalopathy** (with lactulose) and travellers' diarrhoea.
-- **Terlipressin and octreotide** — variceal bleeding; **non-selective beta-blockers** for variceal prophylaxis (see `NEW_Drugs_06_Cardiovascular.md` 0.7.2).
-- **Drugs for hepatic disease** — spironolactone and furosemide for ascites, albumin with large-volume paracentesis, and antivirals for hepatitis B and C (see `NEW_Drugs_05_Anti_infectives.md` 0.6.3).
-- **Antifibrotics and MASLD agents** — an evolving area; **GLP-1 agonists and pioglitazone** have the best current evidence for steatohepatitis.
-- **Faecal microbiota transplantation** — recurrent *C. difficile* infection.
-
-## 0.9 Gastrointestinal Decontaminants
-
-- **Activated charcoal** — adsorbs many ingested toxins.
-- **Whole bowel irrigation** — with macrogol electrolyte solution.
-- **Gastric lavage and ipecacuanha** — **obsolete and not used.**
-
-> [!danger] **Decontamination is a toxicologist's decision, not a reflex, and the risks are real.**
-> - **Activated charcoal does NOT bind: iron, lithium, alcohols and glycols, potassium, acids and alkalis, or hydrocarbons.**
-> - It has a **narrow time window** after ingestion.
-> - It is **contraindicated in a patient with a reduced conscious state or unprotected airway** — **aspiration of charcoal causes a severe and sometimes fatal pneumonitis.** The decision is a balance of the risk of the poison against the risk of the charcoal; **when in doubt, do not give it.**
-> - **Whole bowel irrigation** has narrow indications — **sustained-release preparations, iron, and body packers**.
-> - **Never induce vomiting**, and never give anything orally in **corrosive or hydrocarbon** ingestion.
-> - **CALL THE POISONS INFORMATION CENTRE — 13 11 26 in Australia** — before decontaminating anyone. See `NEW_Drugs_04_Antidotes_and_Antivenoms.md` 0.1.
+### 0.41.2 DDx by system
+- **Gastroduodenal:** GORD, peptic ulcer, gastritis, malignancy, gastric volvulus
+- **Intestinal:** appendicitis, obstruction, diverticulitis, gastroenteritis, mesenteric adenitis, strangulated hernia, IBD + coeliac + lactose intolerance, intussusception, volvulus, TB
+- **Hepatobiliary:** cholecystitis, cholangitis, hepatitis
+- **Pancreatic:** pancreatitis, malignancy
+- **Splenic:** infarction, spontaneous rupture
+- **Urinary tract:** cystitis, acute urinary retention, acute pyelonephritis, ureteric colic, hydronephrosis, tumour, pyonephrosis, polycystic kidney
+- **Gynaecological:** ruptured ectopic pregnancy, torsion of ovarian cyst, ruptured ovarian cyst, salpingitis, severe dysmenorrhoea, mittelschmerz, endometriosis, red degeneration of a fibroid
+- **Vascular:** aortic aneurysm, mesenteric embolus, mesenteric angina (claudication), mesenteric venous thrombosis, ischaemic colitis, acute aortic dissection
+- **Peritoneum:** peritonitis
+- **Abdominal wall:** strangulated hernia, rectus sheath haematoma, cellulitis
+- **Retroperitoneal:** haemorrhage (e.g. anticoagulants)
+- **Referred pain:** myocardial infarction, pericarditis, testicular torsion, pleurisy, herpes zoster, lobar pneumonia, thoracic spine disease (e.g. disc, tumour)
+- **'Medical' causes:** hypercalcaemia, uraemia, diabetic ketoacidosis, sickle cell disease, Addison's disease, acute intermittent porphyria, Henoch-Schönlein purpura, tabes dorsalis
 
 ---
 
-## Build status
+## 0.28 GORD
 
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for dyspepsia reflux and peptic ulcers | SUB | yes | |
-| 0.1.1 | Proton Pump Inhibitors | CLS | yes | Built jointly with `Proton pump inhibitors` — **the build list carries the same class twice, differing only in capitalisation**; both rows mapped. Australian deprescribing guidance included. |
-| 0.1.1 | Proton pump inhibitors | CLS | yes | As above. |
-| 0.1.2 | H2 antagonists | CLS | yes | |
-| 0.1.3 | Antacids | CLS | yes | |
-| 0.1.4 | Other drugs for ulcers | CLS | yes | |
-| 0.2 | Antiemetics | SUB | yes | Framed on choosing by mechanism of vomiting. |
-| 0.2.1 | 5HT3 antagonists | CLS | yes | QT and the pregnancy cleft signal included. |
-| 0.2.2 | Dopamine antagonists (antiemetic) | CLS | yes | Metoclopramide 5-day/12-week restrictions and acute dystonia. |
-| 0.2.3 | Substance P antagonists | CLS | yes | |
-| 0.2.4 | Other drugs for nausea and vomiting | CLS | yes | |
-| 0.3 | Drugs affecting gastrointestinal motility | SUB | yes | |
-| 0.4 | Antidiarrheals | SUB | yes | |
-| 0.4.1 | Opioid Antidiarrheals | CLS | yes | Loperamide cardiac toxicity in overdose, with the hERG/Nav1.5 mechanism. |
-| 0.4.2 | Other drugs for diarrhoea | CLS | yes | |
-| 0.5 | Laxatives | SUB | yes | |
-| 0.5.1 | Osmotic laxatives | CLS | yes | |
-| 0.5.2 | Stimulant laxatives | CLS | yes | |
-| 0.5.3 | Stool softeners | CLS | yes | Docusate's weak evidence stated plainly. |
-| 0.5.4 | Other laxatives | CLS | yes | |
-| 0.6 | Drugs for inflammatory bowel diseases | SUB | yes | |
-| 0.6.1 | 5-Aminosalicylates | CLS | yes | |
-| 0.6.2 | Corticosteroids (gastrointestinal) | CLS | yes | Induce-not-maintain principle and steroid dependence. |
-| 0.6.3 | Other drugs for inflammatory bowel disease | CLS | yes | Carries the acute severe UC emergency callout. |
-| 0.7 | Drugs for perianal disorders | SUB | yes | |
-| 0.8 | Other gastrointestinal drugs | SUB | yes | |
-| 0.8.1 | Bile Acid Sequestrants | CLS | yes | |
-| 0.9 | Gastrointestinal decontaminants | SUB | yes | |
+**D:** symptoms/complications arising from reflux of gastric contents into the oesophagus, oral cavity, or lungs.
 
-**Rows in file: 28 (9 SUB + 19 CLS). AMH section 12 build-list rows: 28. Section complete.**
+**R:** family history, ↑age, hiatus hernia, obesity
 
-> [!note] **One pair of build-list rows is a pure capitalisation duplicate** — `Proton Pump Inhibitors` and `Proton pump inhibitors`. Built once at 0.1.1 with both rows mapped.
+**A/P:** increased relaxation of the lower oesophageal sphincter allows reflux of gastric contents. Severity of damage depends on duration of contact, nature of contents, and epithelial resistance. Acid in the lower oesophagus → vagal stimulation → chronic coughing, throat clearing.
 
+**S/Smx:** heartburn (especially after meals), dyspepsia, regurgitation, cough (especially at night when lying down), halitosis, globus sensation, enamel erosion, bloating
 
-<!-- ===== SOURCE: NEW_Gastroenterology_and_Hepatology.md ===== -->
+> [!danger] Red flags requiring **urgent specialist referral**: dysphagia, haematemesis, melaena, persistent vomiting, weight loss, anaemia
 
+**Ix:** GORD is a clinical diagnosis; PPI trial first (*why:* a therapeutic trial is both pragmatic first-line management and diagnostically supportive — symptom improvement supports the diagnosis; *what:* symptom response supports GORD). ± pH monitoring (*why:* used when the diagnosis is uncertain or symptoms persist despite treatment, to objectively quantify acid exposure; *what:* quantifies reflux episodes/acid exposure time), oesophageal manometry (*why:* assesses motility, particularly before considering anti-reflux surgery or when a motility disorder is suspected as an alternative/contributing diagnosis; *what:* assesses LOS pressure and peristalsis), barium swallow (*why:* screens for structural abnormalities (hiatus hernia, stricture) though largely superseded by endoscopy for most indications; *what:* may show reflux, hiatus hernia, or stricture), OGD (*why:* see indications below — used selectively, not for every GORD presentation; *what:* may show oesophagitis, Barrett's oesophagus, or be normal despite symptoms).
 
-# NEW — Gastroenterology & Hepatology
+> [!info] Indications for upper GI endoscopy
+> \>55yo, symptoms >4 weeks or despite treatment, dysphagia, relapsing symptoms, weight loss
 
-> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
+> [!info] Verified against eTG/AMH, NPS MedicineWise, and GESA (Gastroenterological Society of Australia), Aug 2026 — the Australian approach is simpler than the detailed UK NICE dose-titration schedule this entry previously carried, with a stronger emphasis on **PPI deprescribing/step-down** as a distinct national quality-use-of-medicines priority (PPIs are among the most-prescribed medicines in Australia, and Choosing Wisely Australia/NPS MedicineWise campaigns specifically target unnecessary long-term use).
+> **Mx:** lifestyle changes (weight loss, reduce triggers, stop smoking, avoid late-night eating). For typical symptoms, start standard-dose PPI for 4–8 weeks with a planned review — treatment can be based on symptoms alone without requiring endoscopic confirmation first, unless red flags are present (see indications for endoscopy below). At review: if symptoms are well controlled, **actively attempt to reduce to the lowest effective dose or cease PPI therapy altogether** — do not continue open-ended long-term PPI prescribing without this attempt, which is an explicit Australian primary-care quality target, not just good practice generally. If symptoms persist despite standard-dose PPI, options include increasing to a higher dose, switching PPI, or investigating further (endoscopy, pH studies) rather than the UK's specific H2RA/prokinetic-switch algorithm.
 
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **This file contains the two Tier 1 topics only.** This is the largest category on the list — 2 T1, 7 T2 and 52 T3 topics. See the build-status table at the end.
-
-## Acute Abdominal Pain
-
-- **D:** abdominal pain of recent onset. The clinical task is to separate the patient who needs an operation or resuscitation now from the much larger group who do not — and to do it before imaging, because the decision to escalate often has to precede the scan.
-- **DDx — by region, which is how the differential is actually generated at the bedside**, with the catastrophes listed separately because they cross all regions:
-  - **The catastrophes, considered in every patient regardless of where the pain is:** **ruptured abdominal aortic aneurysm** (older patient, back/flank pain, hypotension, pulsatile mass — and frequently misdiagnosed as renal colic); **ruptured ectopic pregnancy** (any woman of reproductive age); **perforated viscus**; **mesenteric ischaemia** (**pain grossly out of proportion to a soft abdomen**, often in atrial fibrillation or vascular disease — the classic missed diagnosis); **bowel obstruction with strangulation**; **acute pancreatitis**; **myocardial infarction presenting as epigastric pain**, particularly inferior MI; **diabetic ketoacidosis**, which causes abdominal pain and can be mistaken for a surgical abdomen; **testicular torsion** referring to the abdomen.
-  - **Right upper quadrant:** biliary colic, acute cholecystitis, ascending cholangitis, hepatitis, liver abscess, **Fitz-Hugh–Curtis syndrome**, right lower lobe pneumonia.
-  - **Epigastric:** peptic ulcer disease and perforation, gastritis, pancreatitis, **MI**, oesophagitis, gastric malignancy.
-  - **Left upper quadrant:** splenic infarct or rupture, gastric pathology, pancreatitis, left lower lobe pneumonia.
-  - **Right lower quadrant:** **appendicitis**, mesenteric adenitis, Crohn's disease, caecal pathology, ovarian torsion or cyst accident, ectopic pregnancy, ureteric colic, psoas abscess.
-  - **Left lower quadrant:** **diverticulitis**, colitis, constipation, ovarian pathology, ureteric colic.
-  - **Suprapubic:** urinary retention, cystitis, pelvic inflammatory disease, endometriosis, ovarian cyst.
-  - **Diffuse:** gastroenteritis, obstruction, ischaemia, peritonitis, DKA, hypercalcaemia, adrenal crisis, **medical mimics** — lower lobe pneumonia, herpes zoster before the rash, sickle cell crisis, lead poisoning, familial Mediterranean fever, acute intermittent porphyria.
-- **Focused Hx:** **SOCRATES**, with the discriminating detail: **onset** (instantaneous → perforation, rupture, embolus; colicky and building → obstruction or colic; gradual over days → inflammation or infection); **migration** (**central to right iliac fossa is the classic appendicitis history and remains genuinely useful**); character (colicky, constant, boring through to the back in pancreatitis); **relieving and aggravating factors — movement worsening pain suggests peritonism, whereas the patient with colic writhes and cannot get comfortable**; vomiting and **whether it preceded or followed the pain** (pain-first favours a surgical cause); bilious or faeculent vomiting; **bowel habit, flatus and last bowel motion**; melaena or rectal bleeding; urinary symptoms; **last menstrual period and possibility of pregnancy — in every woman of reproductive age, without exception**; fever; weight loss; jaundice; alcohol; NSAIDs, steroids and anticoagulants; previous abdominal surgery (**adhesional obstruction**); comorbidity including atrial fibrillation and vascular disease; and recent travel or contacts.
-- **Examination:** **A–E and vital signs first — including temperature and a capillary glucose.**
-  - **Observe the patient before touching them**: lying completely still suggests peritonitis; restless and writhing suggests colic.
-  - **Inspect** for distension, scars, hernias (**examine all hernial orifices — an incarcerated hernia is easily missed under a gown**), visible peristalsis, bruising (Grey Turner's and Cullen's signs, late and uncommon).
-  - **Palpate** gently and away from the pain first: guarding, rigidity, rebound and percussion tenderness; **localised versus generalised peritonism**; organomegaly; **a pulsatile expansile mass**; Murphy's sign; Rovsing's sign.
-  - **Percuss** for tympany and shifting dullness; **auscultate** for bowel sounds (**absent in peritonitis; high-pitched and tinkling in obstruction — though bowel sounds alone are a weak sign**) and for bruits.
-  - **Digital rectal examination** where indicated — for melaena, blood, masses and impaction; **examine the external genitalia and scrotum in men**.
-  - **Pelvic examination** where gynaecological pathology is likely and it will change management, with consent and a chaperone.
-  - Look for **jaundice, signs of chronic liver disease, and lymphadenopathy**; examine the **chest** for lower lobe pneumonia and the **cardiovascular system** for AF.
-- **First-line Ix:**
-  - **β-hCG in every woman of reproductive age — the single most important test in this presentation**, done before imaging and before analgesia decisions.
-  - **Capillary glucose and ketones**; **ECG** in anyone over about 40, or with epigastric pain, vascular risk or an atypical picture.
-  - **Bloods:** FBC, CRP, UEC, **LFTs**, **lipase or amylase** (lipase preferred where available), calcium, magnesium, coagulation profile, **group and hold or crossmatch**, **venous blood gas with lactate** — **a rising lactate with a soft abdomen and severe pain should raise mesenteric ischaemia**, and a normal lactate early does not exclude it.
-  - **Blood cultures** if febrile or septic.
-  - **Urinalysis** — with the caution that **haematuria supports but does not confirm ureteric colic, and an AAA can produce both pain and haematuria**.
-  - **Imaging:** erect chest X-ray for free air where perforation is suspected; **CT abdomen and pelvis** is the workhorse for the undifferentiated acute abdomen in adults; **ultrasound first** for suspected biliary disease, for gynaecological causes, in pregnancy and in children; **CT angiography** where mesenteric ischaemia or aneurysm is suspected.
-  - **Analgesia is given while investigating** — the historical concern that it masks signs and delays diagnosis is not supported, and withholding it is both unkind and unnecessary.
-
-> [!warning] **Three groups where the examination lies, and where the threshold to investigate must be lower:** **older people** (peritonism is often absent, presentation is late and mortality is high), **immunosuppressed patients including those on corticosteroids** (blunted inflammatory signs and fever), and **pregnant women** (displaced anatomy shifts appendicitis pain upward, and physiological changes mask tachycardia and leucocytosis). Add to these the **patient with a spinal cord injury or diabetic autonomic neuropathy**, who may not feel visceral pain at all.
-
-## Upper Gastrointestinal Bleeding
-
-- **D:** bleeding proximal to the ligament of Treitz, presenting as **haematemesis, coffee-ground vomiting, or melaena** — and occasionally as **haematochezia when bleeding is brisk**, which is a marker of severity rather than of a lower GI source.
-- **DDx:**
-  - **Peptic ulcer disease** — the commonest cause; consider *H. pylori*, **NSAIDs and aspirin**, and physiological stress.
-  - **Oesophageal or gastric varices** — in portal hypertension. A distinct entity because management, mortality and the presence of coagulopathy all differ, and because these patients frequently have coexisting sepsis and encephalopathy.
-  - **Mallory–Weiss tear** — after retching or vomiting; classically vomiting first, then blood.
-  - **Oesophagitis and gastritis/duodenitis**.
-  - **Malignancy** — gastric or oesophageal.
-  - **Angiodysplasia**, **Dieulafoy lesion**, **aorto-enteric fistula** (in a patient with a previous aortic graft — rare, catastrophic, and worth knowing because it presents with a self-limiting "herald bleed" before exsanguination).
-  - **Swallowed blood** from epistaxis or haemoptysis — an easily missed non-GI explanation.
-- **Focused Hx:** **volume and nature of what was vomited or passed**, and how many episodes; **melaena described specifically — black, tarry, offensive** (patients on iron or bismuth report black stool that is not melaena); dizziness, syncope or breathlessness (**symptoms of volume loss matter more than the estimated volume of blood**); abdominal pain and dyspepsia; **retching before the haematemesis** (Mallory–Weiss); weight loss and dysphagia; **alcohol history and known liver disease**; **NSAIDs, aspirin, anticoagulants, antiplatelets and steroids — with the last dose and the indication**, since reversal decisions follow; previous ulcer, *H. pylori* eradication, previous variceal bleed or banding; previous aortic surgery; comorbidity, particularly cardiac and renal, which limits transfusion and fluid strategy.
-- **Examination:** **A–E, with the assessment focused on haemodynamic compromise rather than on the abdomen.**
-  - **Vital signs including postural blood pressure where the patient is stable enough** — **tachycardia and postural drop precede hypotension**, and a normal supine blood pressure in a young patient is not reassuring.
-  - Perfusion: capillary refill, peripheral temperature, conscious state, urine output.
-  - **Signs of chronic liver disease and portal hypertension** — jaundice, spider naevi, palmar erythema, gynaecomastia, caput medusae, ascites, splenomegaly, asterixis, encephalopathy — because their presence changes the working diagnosis to variceal bleeding.
-  - Abdominal examination for tenderness, masses, organomegaly.
-  - **Digital rectal examination to confirm melaena** — the finding that converts a vague history into a definite upper GI bleed.
-  - Examine the **nose and oropharynx** for a bleeding source that has been swallowed.
-- **First-line Ix:**
-  - **Two large-bore IV cannulae and bloods taken at the same time**: **FBC** (**a normal haemoglobin early does not exclude significant bleeding — haemodilution takes time**), **UEC** (**a urea raised disproportionately to creatinine supports an upper GI source**, from absorbed blood protein), **LFTs**, **coagulation profile including INR and fibrinogen**, **calcium**, **venous gas with lactate and haemoglobin** for a rapid result, and **group and crossmatch**.
-  - **ECG and troponin** where there is cardiac history or chest symptoms — demand ischaemia is common and changes transfusion thresholds.
-  - **Risk stratification with a validated pre-endoscopy score.** The **Glasgow–Blatchford score** uses urea, haemoglobin, systolic blood pressure, pulse, melaena, syncope, and hepatic disease or cardiac failure — all available before endoscopy. Sources agree that **a score of 0 identifies patients at very low risk of needing intervention**, who may be considered for outpatient management; higher scores indicate a need for admission and urgent endoscopy. *(Specific higher cut-off values are not stated here — they were not consistent across three sources, and cut-offs differ between guidelines.)*
-  - **Upper GI endoscopy** — both diagnostic and therapeutic. Sources agree endoscopy is generally performed **within 24 hours** of presentation, with earlier endoscopy for haemodynamically unstable patients or suspected variceal bleeding, after resuscitation.
-  - **Erect chest X-ray** if perforation is a possibility; **CT angiography** where bleeding is brisk and endoscopy is unhelpful or unavailable.
-- **Immediate management points at intern level:** resuscitate with the airway first — **a patient with massive haematemesis and reduced consciousness is at high risk of aspiration and may need intubation before endoscopy**; **keep the patient nil by mouth**; **activate the local massive transfusion protocol if bleeding is torrential**; **stop NSAIDs, antiplatelets and anticoagulants and discuss reversal urgently**; and **escalate early** — this is not a presentation to reassess in an hour.
-
-> [!warning] **Transfusion thresholds and drug therapy are deliberately omitted.** A restrictive transfusion strategy is standard in non-exsanguinating upper GI bleeding, and specific agents (proton pump inhibitors, vasoactive drugs and antibiotics in suspected variceal bleeding) have defined roles — but **no specific haemoglobin trigger or drug dose met the three-source standard here**, and the Australian sources that would settle them are egress-blocked. Follow the local massive transfusion and upper GI bleeding protocols. **The principle worth carrying is that over-transfusion in variceal bleeding can worsen portal pressure and rebleeding**, which is why the restrictive strategy exists.
+**P:** most patients have symptom control with PPIs; most relapse if PPI therapy is stopped.
 
 ---
 
-## Build status of this file
+## 0.27 Peptic Ulcer Disease
 
-| Tier | Count | Status |
+**D:** break in the mucosal lining of the stomach or duodenum >5mm in diameter, with depth to the submucosa (smaller/shallower lesions = erosions).
+
+**R:** *H. pylori* infection, NSAIDs, SSRIs, steroids, bisphosphonates, smoking, ↑age, personal history of PUD, family history, ICU patients
+
+**A/P:** imbalance between factors damaging the gastroduodenal mucosal lining and defence mechanisms (mucus-bicarbonate layer secreted by mucus cells).
+- Gastric ulcers: gastric acid secretion low or normal
+- Duodenal ulcers: markedly increased gastric acid because *H. pylori* impairs somatostatin secretion
+- Zollinger-Ellison syndrome: NET causing increased gastric acid
+
+**S/Smx:**
+- Epigastric pain, "pointing sign" (patient can point to a particular spot) — gastric: pain on eating ± 1–2h after; duodenal: pain several hours after eating
+
+> [!info] Gap-filled — the gastric-vs-duodenal pain timing was stated as a bare rule, without connecting it to the acid-secretion mechanism already established above (A/P). **Gastric ulcers**: eating stimulates gastric acid secretion and gastric distension, both of which directly irritate the ulcer sitting right there in the stomach — pain follows relatively soon after eating (within 1–2 hours) because the food and acid are acting on the lesion directly. **Duodenal ulcers**: eating typically **relieves** pain initially — food buffers acid and delays gastric emptying, temporarily reducing the amount of acidic content reaching the duodenum — but pain characteristically **returns 2–4 hours later**, once the stomach has emptied and this buffering effect wears off, allowing the markedly increased gastric acid already noted above (from *H. pylori*-impaired somatostatin secretion) to pass into the duodenum and irritate the ulcer there. This is precisely why duodenal ulcer pain classically presents as **worse at night/on an empty stomach and relieved by eating or antacids** — the pattern directly follows from when acid delivery to the duodenum is at its highest (a prolonged period without the buffering effect of a recent meal), not an arbitrary timing rule to memorise separately from the underlying acid physiology.
+
+- Nausea, vomiting, diarrhoea
+- Early satiety, weight loss
+- Symptoms of anaemia (e.g. fatigue)
+- If bleeding: haematemesis, melaena, ↓BP, ↑HR
+- If perforated: pain, shock, syncope
+
+**Ix:** upper GI endoscopy (*why:* the diagnostic gold standard — directly visualises the ulcer, allows biopsy to exclude malignancy (especially for gastric ulcers, which need re-scoping to confirm healing and exclude an underlying cancer) and *H. pylori* testing; *what:* visualises the ulcer, biopsy for histology and CLO/*H. pylori* testing). *H. pylori* testing (see Gastritis section for methods) (*why:* identifies the treatable underlying cause in the majority of non-NSAID ulcers; *what:* positive in most *H. pylori*-associated PUD). FBC (*why:* screens for anaemia from chronic/acute blood loss; *what:* may show iron-deficiency or acute blood loss anaemia).
+
+**Mx:**
+- **Immediate/acute** (bleeding or perforation): ABCDE + resuscitation, IV PPI, endoscopic interventions (adrenaline injection, clipping, thermal therapy for bleeding), interventional radiology or surgery if endoscopic control fails.
+- **Definitive:** treat underlying cause + PPI — if *H. pylori*-positive, eradication therapy (see Gastritis section for the regimen); stop causative drugs (NSAIDs) where possible.
+- **Chronic/long-term:** repeat endoscopy to confirm healing for gastric ulcers specifically (to exclude an underlying malignancy that may have been missed or only partially biopsied initially) — this follow-up scoping is not needed for duodenal ulcers, which are essentially never malignant; ongoing PPI cover if NSAIDs cannot be stopped.
+
+**P:** with PPIs, duodenal ulcers heal within 4 weeks, gastric ulcers within 8 weeks. If *H. pylori* eradicated, good prognosis. NSAID-induced ulcers have low recurrence if the drug is stopped.
+
+---
+
+## 0.29 Gastritis
+
+**D:** histological presence of gastric mucosal inflammation.
+
+**R:** *H. pylori* infection, NSAIDs, steroids, alcohol use, toxic ingestions, previous gastric surgery, critically ill patients, autoimmune disease
+
+> [!danger] A genuine, severe Australian health equity issue — genuinely nuanced rather than a simple "higher rate of everything" story, worth conveying accurately. **H. pylori prevalence in Aboriginal and Torres Strait Islander Australians is 2–3 times higher than in the non-Indigenous population**, confirmed in remote Western Australian community studies. **However, this doesn't translate into a simple 1:1 increase in peptic ulcer disease** — older studies actually reported peptic ulcers as uncommon in Indigenous populations despite high H. pylori prevalence, a genuine paradox partly explained by lower gastric acid secretion associated with undernutrition and lower socioeconomic status (potentially protective against clinically apparent ulceration even with high bacterial colonisation), and partly confounded by Indigenous Australians historically undergoing fewer endoscopies (meaning true prevalence may be under-ascertained by referral bias, not genuinely low).
+> - **Gastric cancer is the area where the disparity is genuinely worsening over time, not just persisting**: non-Indigenous Australian gastric cancer incidence and mortality have been **declining** (incidence 9.3→7.5 per 100,000, 1998–2013), while Indigenous Australian rates have remained **stable and disproportionately higher** (10.0–14.3 per 100,000 over the same period) — meaning the relative gap between the two populations is actively widening even though the absolute Indigenous rate itself hasn't increased.
+> - **Practical implication**: given the H. pylori eradication regimen above is already correctly Australia-specific, the genuinely important additional point is a **lower threshold for considering H. pylori testing and gastroscopy** in Aboriginal and Torres Strait Islander patients with relevant symptoms, given both the higher underlying infection prevalence and the specific, non-declining gastric cancer risk this population carries.
+
+**A/P:**
+- *H. pylori* induces severe inflammation → gastric mucin degradation, increased mucosal permeability → gastric epithelial cytotoxicity
+- NSAIDs and alcohol: decreased gastric mucosal blood flow, loss of mucosal protective barrier (NSAIDs decrease prostaglandins)
+- Autoimmune gastritis: antiparietal cell antibodies stimulate inflammation → loss of parietal and chief cells
+- Gastric atrophy and acid-blocking medications: increased pH, disrupted acid barrier → bacterial overgrowth
+
+**S/Smx:** epigastric discomfort ± nausea/vomiting, decreased appetite. If severe: acute abdominal pain, marked emesis, fever, altered reflexes and cognitive impairment (if secondary to B12 deficiency), glossitis.
+
+**Ix:** *H. pylori* urea breath test, faecal antigen test (*why:* first-line non-invasive tests for active infection; *what:* positive supports active *H. pylori* infection — note both require stopping PPI/antibiotics beforehand, see below). FBC (*why:* screens for anaemia, either from chronic blood loss or B12 deficiency in autoimmune gastritis; *what:* microcytic (blood loss) or macrocytic (B12 deficiency) anaemia depending on cause) ± histology/endoscopy (*why:* directly visualises and biopsies the gastric mucosa, needed for definitive diagnosis and to exclude malignancy; *what:* confirms inflammation and identifies *H. pylori* on biopsy). Serum B12 (*why:* screens for the deficiency characteristic of autoimmune gastritis, given loss of intrinsic-factor-producing parietal cells; *what:* low in autoimmune gastritis). Parietal cell antibodies, intrinsic factor antibodies (*why:* confirm autoimmune gastritis specifically when suspected, particularly with B12 deficiency and no clear alternative cause; *what:* positive in autoimmune gastritis).
+
+> [!info] Verified against Australian gastroenterology literature (AFP-cited Australian trial data), Aug 2026 — Australia has a distinctive resistance profile that supports different regimen emphasis from generic international/UK guidance.
+> **Mx of *H. pylori* infection:** clarithromycin-based triple therapy (PPI + clarithromycin + amoxicillin) remains a reasonable first-line choice in Australia because **clarithromycin resistance is relatively low here**, even though **metronidazole resistance is comparatively high** — this is the opposite resistance pattern from many other countries, so don't default to a metronidazole-containing regimen assuming it's safer. Quadruple therapy (PPI, bismuth, tetracycline, metronidazole) remains an option, particularly as salvage/second-line therapy or where clarithromycin resistance/prior macrolide exposure is a concern.
+> [!info] Resolved — a current (October 2025) RACGP AJGP case-based article gives the exact regimen and duration Australian GPs are taught to prescribe, and directly confirms **14 days, not 7**, as the standard first-line duration.
+> **Mx of *H. pylori* infection:** clarithromycin-based triple therapy — **esomeprazole 20mg BD + clarithromycin 500mg BD + amoxicillin 1g BD, for 14 days**; for penicillin allergy, substitute metronidazole 400mg BD for amoxicillin (same PPI/clarithromycin backbone, same 14-day duration). A genuinely practical Australian health-system detail: the PBS only subsidises a single prescription without repeats, which in practice often means a 7-day supply is dispensed with a follow-up review at day 7 to prescribe the remaining week and check tolerability/adherence — worth knowing since a patient might otherwise stop at 7 days assuming the course is complete. Test of cure (repeat urea breath test) is recommended ≥4 weeks after completing therapy. Refractory infection (persisting after a first course) should **not** be retreated with the same clarithromycin-based regimen, given low repeat success and further resistance risk — refer to a specialist for salvage therapy (options include levofloxacin, bismuth, tetracycline-based quadruple regimens) and consider gastroscopy.
+
+**Mx of non-*H. pylori* gastritis:** stop offending drugs; autoimmune gastritis — B12 supplementation.
+
+**P:** if *H. pylori* untreated, increased risk of gastric cancers; untreated gastritis increases PUD risk. Generally good prognosis except for phlegmonous gastritis (rare disorder).
+
+> [!warning] Could not confirm a single standardised Australian pre-OGD medication-cessation timing to replace the UK figures below this session — these timings vary meaningfully by local endoscopy unit protocol even within the UK, and are even more likely to vary by institution in Australia. Treat the figures below as illustrative only and always check the specific endoscopy unit's own pre-procedure instructions, which is genuinely the correct approach everywhere (not just an AU-specific caveat).
+> **Stopping medications before OGD (illustrative, unverified for AU use):** gaviscon — 1 day; PPI — 2 weeks; H2RA — 3 days; antibiotics — 4 weeks. For urea breath test: stop PPI and antibiotics.
+
+---
+
+## 0.30 Oesophageal Conditions
+
+> [!note] Oesophageal carcinoma and Barrett's oesophagus are covered under the ENT/Dysphagia section of this source, not here.
+
+### 0.30.1 Mallory-Weiss Tear
+**D:** superficial mucosal laceration of the oesophagus.
+**R:** heavy alcohol use, bulimia nervosa, hyperemesis gravidarum, GORD
+**S/Smx:** history of retching or vomiting; streaks of fresh blood in vomit; no other systemic symptoms.
+**Mx:**
+- **Immediate/acute:** most are self-limiting; antiemetic to stop ongoing vomiting (and thus the cause of the tear); endoscopic haemostasis rarely needed for significant/ongoing bleeding.
+- **Chronic/long-term:** address the underlying cause of vomiting/retching (e.g. alcohol cessation support, bulimia nervosa management) to prevent recurrence.
+
+### 0.30.2 Boerhaave Syndrome
+**D:** spontaneous rupture of the oesophagus.
+**R:** similar to Mallory-Weiss tear — essentially anything markedly increasing intra-abdominal pressure.
+**S/Smx:** triad of vomiting, lower thoracic pain, and subcutaneous emphysema.
+**Ix:** CXR (*why:* rapid initial screen; *what:* may show a widened mediastinum, pneumomediastinum, or pleural effusion). CT contrast swallow (*why:* confirms the diagnosis and localises the perforation, essential for surgical planning; *what:* extravasation of contrast confirms the rupture site).
+**Mx:**
+- **Immediate/acute:** resuscitation, broad-spectrum antibiotics, NBM, urgent surgical referral — this is a true surgical emergency given the mediastinitis risk.
+- **Definitive:** thoracotomy and lavage — <12h onset, primary repair; >12h, insertion of a T-tube to create a controlled fistula between oesophagus and skin (allows drainage of blood/gut contents out, since primary repair is less likely to hold in a delayed, heavily contaminated field).
+**P:** up to 40% mortality; delays >24h associated with very high mortality.
+**Complications:** severe sepsis secondary to mediastinitis (gut contents entering the thorax).
+
+### 0.30.3 Plummer-Vinson Syndrome
+**D:** rare condition with classic triad — iron-deficiency anaemia, oesophageal webbing, dysphagia.
+**R:** middle-aged women, coeliac disease, Crohn's, RA, thyroid disease
+**A:** unknown, possibly autoimmune
+**S/Smx:** as above, plus glossitis and angular cheilitis.
+**Ix:** barium swallow ± videofluoroscopy, endoscopy (*why:* visualises and characterises the oesophageal web; *what:* web seen on imaging/direct visualisation); other tests to exclude malignancy (*why:* the syndrome carries an increased risk of post-cricoid/oesophageal squamous cell carcinoma, so malignancy must be actively excluded rather than assumed benign; *what:* biopsy if any suspicious lesion).
+**Mx:**
+- **Definitive:** iron supplementation (often improves the dysphagia and may resolve the web without further intervention); endoscopic dilation if severe/persistent dysphagia despite iron replacement.
+- **Chronic/long-term:** advise eating slowly and chewing thoroughly; ongoing surveillance given the malignancy association.
+
+### 0.30.4 Hiatus Hernia
+**D:** protrusion of the stomach through the diaphragm into the thoracic cavity.
+**R:** obesity, increased abdominal pressure (e.g. multiparity, ascites)
+**S/Smx:** heartburn, dysphagia, regurgitation, chest pain
+**Ix:** barium swallow (*why:* classically demonstrates the herniated stomach above the diaphragm; *what:* confirms hernia and type — sliding vs rolling/para-oesophageal), endoscopy (*why:* assesses for associated oesophagitis and excludes other pathology; *what:* may show a hiatus hernia with or without oesophagitis).
+**Mx:**
+- **Definitive:** weight loss, PPIs for reflux symptoms — first-line for most, particularly sliding hiatus hernia.
+- **Definitive (refractory/complicated):** surgery only if refractory to medical therapy, or for para-oesophageal/rolling hernias at risk of complications (volvulus, strangulation — a more urgent surgical consideration than sliding hernia given this risk).
+
+---
+
+## 0.33 Upper GI Bleed (UGIB)
+
+**D:** GI blood loss whose origin is proximal to the ligament of Treitz at the duodenojejunal junction.
+
+**S/Smx:**
+- Haematemesis — blood in vomit, ranges from bright red to "coffee ground"
+- Melaena — digested blood in stool, black and tarry (distinct from fresh blood PR/haematochezia)
+- ↑Urea due to digested protein
+
+### 0.33.1 DDx by location
+
+**Swallowed blood:** epistaxis, haemoptysis
+
+**Oesophagus:**
+- Varices — large amount of fresh blood vomited ± melaena; may stop spontaneously, but rebleeds common
+- Mallory-Weiss tear — small-moderate fresh blood after vomiting/retching
+- Reflux oesophagitis — small amount of fresh blood, streaked in vomit; history of GORD
+- Oesophageal carcinoma — variable amounts; associated with dysphagia, weight loss
+
+**Stomach:**
+- Peptic ulcer — small bleeds, presents more often as iron deficiency anaemia; erosion into a significant vessel may cause major haemorrhage; history of NSAID/steroid use without PPI cover
+- Gastric cancer (carcinoma, GIST) — variable presentation
+- Dieulafoy lesion (vascular malformation) — often no prodromal features, can cause considerable haemorrhage
+- Hereditary haemorrhagic telangiectasia — autosomal dominant, bleeds in mucosae (nasal, GI)
+
+**Duodenum:**
+- Duodenal ulcer — bleeds most commonly at the gastroduodenal artery; pain hours after eating
+- Aorto-duodenal fistula — in patients with prior AAA surgery
+- Duodenal diverticulae — 90% asymptomatic, rarely bleed/obstruct/infect/perforate
+- Invasive pancreatic tumours
+- Haemobilia (bleeding from/into the biliary tract) — usually iatrogenic (e.g. post-ERCP); classic triad of RUQ pain, jaundice, overt UGIB
+
+**Underlying disorders:** bleeding disorders (liver disease, thrombocytopenia, haemophilia); drugs (anticoagulation, aspirin, NSAIDs, steroids); uraemia; connective tissue disorders
+
+### 0.33.2 Ix
+> [!info] Glasgow-Blatchford score (*why:* pre-endoscopy risk score used to determine need for admission/intervention vs safe early discharge; *what:* incorporates urea, Hb, SBP, HR, liver disease, heart disease, presence of melaena and syncope — score of 0 → consider early discharge without admission)
+> **Rockall score** (*why:* used post-endoscopy, once the bleeding source/stigmata are known, to determine risk of rebleeding and mortality and guide monitoring intensity; *what:* incorporates age, shock, comorbidity, and endoscopic findings)
+
+Endoscopy (*why:* the definitive diagnostic and therapeutic test — identifies the bleeding source and allows immediate haemostatic intervention; *what:* identifies the specific lesion and allows grading of bleeding stigmata, which determines rebleeding risk): offered immediately after resuscitation in severe bleeds; all patients should have endoscopy within 24h.
+
+### 0.33.3 Mx
+
+> [!danger] Resuscitation (Immediate/acute tier — applies to all UGIB before source-specific Mx below)
+> - ABC, 2x wide-bore IV access
+> - Platelet transfusion if platelets <50
+> - FFP if fibrinogen <1g/L or PT/APTT >1.5x normal
+> - PCC + vitamin K if on warfarin and actively bleeding
+
+**Mx of non-variceal bleeds:**
+- **Immediate/acute:** do NOT give PPIs before endoscopy — give after (once the bleeding source/stigmata are characterised, pre-treatment PPI doesn't improve outcomes and may mask endoscopic findings).
+- **Definitive:** endoscopic haemostasis at the time of diagnostic endoscopy (adrenaline injection, clipping, thermal therapy); if further bleeds, repeat endoscopy, refer to interventional radiology and upper GI surgery.
+- **Chronic/long-term:** treat the underlying cause (e.g. *H. pylori* eradication, stop NSAIDs, ongoing PPI) to prevent recurrence.
+
+**Mx of variceal bleeds:**
+- **Immediate/acute:** terlipressin and prophylactic antibiotics at presentation (before endoscopy) — this pre-endoscopy pharmacological step is a genuine point of difference from non-variceal bleeds, where PPI is deliberately withheld; band ligation for oesophageal varices, cyanoacrylate injections for gastric varices at endoscopy; Sengstaken-Blakemore tube if uncontrolled bleeding; TIPS if bleeding cannot be controlled otherwise.
+- **Chronic/long-term (prophylaxis of variceal bleeds):** propranolol, endoscopic variceal band ligation programme.
+
+---
+
+## 0.34 Lower GI Bleed (LGIB)
+
+**D:** GI blood loss whose origin is distal to the ligament of Treitz at the duodenojejunal junction.
+
+**S/Smx:** haematochezia (fresh blood PR, may be mixed with stool or on toilet paper); melaena (as per UGIB); occult bleeding (detected only on faecal occult blood test).
+
+### 0.34.1 DDx by location
+
+**Small intestine:**
+- Meckel's diverticulum — children/young adults; painless melaena or haematochezia, "currant jelly" bleeding; palpable abdominal mass
+- Intussusception — bloody stool with abdominal pain, vomiting, SBO; in adults, often a malignant lead point
+- Mesenteric infarction — sudden, severe periumbilical pain out of proportion to exam findings
+- Aortoenteric fistula — aortic wall erosion into adjacent GI tract, usually post-endovascular surgery; "herald" bleeds often precede catastrophic massive bleeding
+
+**Colon and rectum:** colorectal cancer, polyps, diverticular disease, IBD, ischaemic colitis, rectal prolapse, angiodysplasia (typically >60yo, painless haematochezia, ± ESRD, von Willebrand disease, aortic stenosis, or anticoagulant therapy history), irradiation colitis/proctitis (history of radiotherapy, symptoms ~9 weeks–4 months post-injury), solitary rectal ulcer (+ mucus passage, straining, tenesmus)
+
+**Anus:** haemorrhoids, fissure-in-ano, carcinoma, trauma
+
+**Others:** endometriosis (possible history of dysmenorrhoea, pelvic pain, dyspareunia, infertility)
+
+### 0.34.2 Ix
+- DRE if patient is not in pain (*why:* localises the bleeding source and character; painless bleeding more suggestive of diverticular disease in older adults; *what:* fresh blood, melaena, or mass on examination — do NOT DRE if anal fissure suspected)
+- Faecal occult blood testing if microscopic blood suspected (*why:* detects bleeding not visible to the patient, relevant e.g. in iron deficiency anaemia work-up in older patients; *what:* positive supports an occult GI source)
+- Faecal calprotectin if suspecting IBD (*why:* screens for an inflammatory cause; *what:* elevated in active IBD)
+- Colonoscopy for direct visualisation (*why:* the definitive diagnostic test, allows biopsy and therapeutic intervention (e.g. polypectomy, haemostasis); *what:* identifies the bleeding source directly)
+- Barium enema (*why:* an alternative/adjunct structural study, largely superseded by colonoscopy where available; *what:* may show diverticula, mass, or stricture)
+- Angiography (in acute bleeding phase) (*why:* used for active, brisk bleeding not controllable/localisable at colonoscopy, and can be therapeutic (embolisation); *what:* identifies the actively bleeding vessel)
+
+**Mx:**
+- **Immediate/acute:** resuscitate as per UGIB (same principles — ABC, IV access, correct coagulopathy).
+- **Definitive:** treat the underlying condition once identified (endoscopic haemostasis, embolisation, or surgery depending on source and severity).
+- **Chronic/long-term:** address the underlying cause definitively (e.g. oncological management for a malignant source, IBD Mx if that's the cause) to prevent recurrence.
+
+---
+
+## 0.9 Hepatitis
+
+### 0.9.1 Hepatitis A
+
+**D:** liver infection caused by HAV, an RNA virus transmitted via the faecal-oral route.
+
+**R:** travel to endemic areas, consumption of contaminated food/water, MSM, IVDU, childcare centre attendance
+
+**A/P:** virus replicates in hepatocytes; cellular damage may be mediated by Th1 response.
+
+**S/Smx:** onset ~2–4 weeks after infection; prodromal illness (fever, nausea/vomiting, bowel changes, flu-like symptoms) before jaundice; hepatomegaly and RUQ pain in 70–80% of symptomatic patients; clay-coloured stools.
+
+**Ix:** LFTs (AST, ALT, bilirubin) (*why:* screens for and quantifies the degree of hepatocellular injury; *what:* markedly elevated transaminases, hyperbilirubinaemia). U&E (*why:* baseline, screens for dehydration from vomiting/reduced intake; *what:* usually normal unless significantly unwell). PT (*why:* screens for synthetic liver dysfunction, relevant to excluding fulminant hepatitis; *what:* prolongation would be concerning for severe/fulminant disease). IgM anti-HAV (*why:* confirms acute/recent infection; *what:* positive in acute infection, becomes negative over months). Consider PCR (*why:* can be used for early detection or public health/outbreak investigation; *what:* detects viral RNA directly).
+
+**Mx:**
+- **Immediate/acute (confirmed infection):** supportive symptomatic care (e.g. paracetamol, metoclopramide, chlorpheniramine); avoid alcohol; avoid work/school until non-infectious (~7 days after symptom onset); good hygiene to reduce spread (notify public health per state requirements — HAV is a notifiable disease).
+- **Chronic/long-term:** no chronic phase for Hepatitis A (unlike B/C) — monitor for the rare prolonged/relapsing course or (very rarely) fulminant hepatic failure requiring transplant assessment.
+
+> [!info] Verified against the Australian Immunisation Handbook, Aug 2026 — Australian risk groups and schedule differ in some specifics from the UK list this entry previously carried; the Australian ones are stated here on their own terms.
+> **Schedule:** 2-dose schedule, minimum 6-month interval between doses (not a single dose + booster).
+> **Australian risk groups** (broader/different emphasis than the UK list): Aboriginal and Torres Strait Islander children living in the NT, Qld, SA, or WA (a distinctly Australian-specific recommendation, funded under the National Immunisation Program); people with chronic liver disease of any aetiology (including chronic hepatitis B/C, given high case-fatality if hepatitis A is acquired on top); people with developmental disabilities; occupational risk — people who live/work in remote Aboriginal and Torres Strait Islander communities in the NT/Qld/SA/WA, and early childhood education/care staff; travellers ≥1yo to hepatitis A-endemic areas; lifestyle risk (including MSM, who may be offered the combined hepatitis A/B vaccine if non-immune to both). IVDU is not singled out the same way as in the UK list, though would generally fall under lifestyle-risk.
+
+**P:** 85% full recovery within 3 months, nearly all recover within 6 months. 10–20% of symptomatic patients may have a prolonged course. Fulminant course very rare.
+
+### 0.9.2 Hepatitis B
+
+**D:** liver infection caused by HBV, a dsDNA virus transmitted by blood, sexual activity, or vertically.
+
+**R:** perinatal exposure, high-risk sexual behaviours, IVDU, birth in an endemic region, family history, history of incarceration
+
+**A/P:** liver damage likely secondary to the host's immune response to viral antigens.
+
+**S/Smx:** incubation 6–20 weeks; may be asymptomatic. Acute episode: fever, jaundice, ↑LFTs.
+
+**Long-term complications:** chronic hepatitis (5–10%), fulminant liver failure (1%), HCC, glomerulonephritis, polyarteritis nodosa, cryoglobulinaemia.
+
+> [!danger] A genuine, severe Australian health equity issue with a specific, actionable screening threshold — not a generic epidemiological footnote. **Chronic hepatitis B (CHB) prevalence in Aboriginal and Torres Strait Islander Australians is 2–6 times higher than the general population** (nationally around 2.0% vs 0.9%), with the Northern Territory carrying the highest burden in the country (around 1.84% vs 0.86% nationally) — this contributes to a **4–6 times higher incidence of hepatocellular carcinoma (HCC)** in this population, and CHB is present in roughly a quarter of HCC cases diagnosed in Indigenous Australians, compared to around 10% in non-Indigenous Australians with HCC.
+> - **Why chronicity risk is disproportionately higher**: a greater proportion of HBV transmission in this population has historically occurred perinatally or in early childhood — and infection acquired in infancy/early childhood carries a substantially higher risk of progressing to chronic infection than infection acquired as an adult, which is a major driver of the higher CHB prevalence even independent of overall transmission rates.
+> - **A genuinely specific, different screening threshold worth knowing**: **Australian guidelines recommend 6-monthly HCC surveillance ultrasound for *all* Aboriginal and Torres Strait Islander Australians living with CHB aged ≥50**, regardless of cirrhosis status — a lower and more inclusive trigger than the general population approach (which typically centres on cirrhosis or other specific risk factors, as in the Mx below) — this reflects Northern Territory linkage data showing a steep rise in HCC incidence specifically once Aboriginal Australians with CHB pass age 50.
+> - **A genuinely positive, Australia-specific historical note**: universal infant HBV vaccination actually began in the Northern Territory in 1990 (with targeted screening/vaccination from 1985), a full decade before the national rollout in 2000 — reflecting where the clinical need was most acute, and an example of the health system responding directly to a documented disparity.
+
+**Ix:** LFTs (*why:* screens for and quantifies hepatocellular injury; *what:* elevated transaminases in acute infection). FBC, U&Es (*why:* baseline and screens for systemic involvement; *what:* usually unremarkable unless complications present). Coagulation profile (*why:* screens for synthetic dysfunction, relevant to excluding fulminant hepatitis; *what:* prolonged PT/INR would indicate severe disease). HBV serology (*why:* the key diagnostic and staging tool — determines acute vs chronic vs past infection vs vaccination status; *what:* see serology panel below). If severe liver damage suspected — US, CT (*why:* assesses for cirrhosis/HCC in chronic infection; *what:* nodular liver architecture, mass lesions), biopsy (*why:* stages fibrosis/inflammation when needed, particularly in chronic infection to guide treatment decisions; *what:* chronic hepatitis shows ground-glass hepatocytes on histology — reflecting HBsAg accumulation).
+
+> [!info] Hepatitis B serology
+> - **HBsAg:** acute infection + infectious
+> - **HBsAb/anti-HBs:** protected against infection (previous infection or vaccinated) — HBs is the vaccine antigen, so isolated HBsAb positivity indicates vaccination
+> - **HBcAb:** previous or current infection
+> - **IgM anti-HBc:** acute infection
+> - **IgG anti-HBc:** past infection
+
+**Mx:**
+- **Immediate/acute:** supportive care for the acute episode — most immunocompetent adults clear the infection without antiviral treatment (see Prognosis).
+- **Definitive (chronic infection):** pegylated interferon-α, or oral antivirals (e.g. tenofovir, entecavir) — chosen based on viral load, liver damage, and patient factors; liver transplant for decompensated cirrhosis/fulminant failure.
+- **Chronic/long-term:** regular surveillance (6-monthly US ± AFP) for HCC in chronic carriers, especially with cirrhosis or other risk factors; screen household/sexual contacts and offer vaccination to non-immune contacts.
+
+> [!danger] IMMUNISATION is key for prevention.
+
+**P:** 95% of immunocompetent patients with acute infection achieve seroconversion without treatment. Rarely, liver failure, cirrhosis. HBV accounts for 50% of HCC cases worldwide.
+
+### 0.9.3 Hepatitis C
+
+**D:** liver infection caused by HCV, an RNA virus transmitted by blood, sexual activity, or vertically. Chronic infection = ≥6 months of persistent serum HCV RNA.
+
+**R:** needle stick injury (2% transmission), perinatal exposure (6%, higher risk if HIV+ve), high-risk sexual behaviours (~5%), IVDU, heavy alcohol use, HIV, incarceration
+
+**A/P:** majority of patients fail to clear the virus, leading to progressive liver damage — hepatic inflammation and fibrosis due to inflammatory reaction.
+
+**S/Smx:** incubation 6–9 weeks; 30% develop symptoms during acute episode (flu-like illness, jaundice, ↑LFTs); fulminant hepatic failure very rare.
+
+**Chronic hepatitis C (55–85% of cases):** arthralgia, arthritis, Sjögren's-like features, cirrhosis (5–20%), HCC, cryoglobulinaemia, porphyria cutanea tarda, glomerulonephritis.
+
+**Ix:** HCV antibody enzyme immunoassay (*why:* first-line screening test; *what:* positive indicates past or current exposure — does not distinguish active from cleared infection). PCR (*why:* confirms active/current infection and quantifies viral load, distinguishing true infection from a cleared exposure with residual antibody; *what:* detectable HCV RNA confirms active infection). LFTs (*why:* screens for the degree of hepatocellular injury; *what:* elevated transaminases). Consider testing for co-infections HBV, HIV (*why:* shared risk factors mean co-infection is common and changes management/prognosis; *what:* screens for concurrent infection).
+
+**Mx:**
+- **Definitive (acute and chronic infection managed the same — no separate acute tier):** start antivirals (direct-acting antivirals, DAAs) as soon as practical — modern DAA regimens achieve very high cure rates with short treatment courses, a major change from older interferon/ribavirin-based regimens; monitor bloods (FBC, metabolics) at 4 weeks while on antivirals (especially if ribavirin is used, given its haemolytic potential). Sustained virologic response (SVR) = undetectable HCV RNA ≥12 weeks post-treatment, considered a cure.
+- **Chronic/long-term:** if ongoing infection despite treatment or treatment not yet accessed, monitor for liver disease progression (fibrosis staging, HCC surveillance if cirrhotic); reduce transmission risk counselling (safe injecting practices, safe sex).
+
+**P:** 10-year survival 79%. Among patients who develop cirrhosis, decompensation occurs in 30% at 10 years. Higher morbidity than HIV, possibly related to lifestyle factors rather than HCV infection itself.
+
+### 0.9.4 Hepatitis D and E
+Hepatitis D infection can only occur with current Hepatitis B infection.
+
+Hepatitis E — faecal-oral route, especially contaminated water. Usually self-limiting, resolves within 2–6 weeks. Flu-like symptoms, abdominal pain, jaundice, itching, rash, joint pain, slight hepatomegaly. Rarely fulminant. Supportive care.
+
+### 0.9.5 Non-Alcoholic Fatty Liver Disease (NAFLD)
+
+**D:** spectrum of liver disease — macrovesicular hepatic steatosis with no excessive alcohol intake.
+- Steatosis = fat in the liver
+- Steatohepatitis = fat + inflammation = non-alcoholic steatohepatitis (NASH) → fibrosis, cirrhosis
+
+**R:** obesity, insulin resistance or T2DM, dyslipidaemia, HTN, metabolic syndrome, rapid weight loss, hepatotoxic medications, TPN
+
+**A/P:** insulin resistance → excessive hepatic triglyceride → hepatic steatosis; a "second hit" or oxidative injury triggers inflammatory reaction and fibrosis.
+
+**S/Smx:** usually asymptomatic; hepatomegaly ± non-specific symptoms; if fibrosis/cirrhosis develops — jaundice, portal hypertension, etc.
+
+**Ix:** LFTs (*why:* screens for hepatocellular injury, though can be normal even with significant steatosis — a key limitation; *what:* AST, ALT 1–4x ULN; ↑ALT more than AST; AST:ALT <1 — the reverse pattern from alcoholic liver disease, a useful distinguishing feature). FBC, metabolic panel, lipid panel (*why:* screens for the metabolic syndrome components driving the disease; *what:* may show dyslipidaemia, insulin resistance markers). Clotting, albumin (*why:* screens for synthetic dysfunction if fibrosis/cirrhosis has developed; *what:* deranged in advanced disease). Iron studies (*why:* baseline, and screens for coexisting haemochromatosis which can compound liver injury; *what:* usually normal unless coexisting iron overload). Enhanced liver fibrosis (ELF) blood test (*why:* non-invasively stages fibrosis severity, avoiding biopsy in many patients; *what:* combines hyaluronic acid, procollagen III, tissue inhibitor of metalloproteinase 1 into a fibrosis score). If ELF unavailable — FIB-4 score or NAFLD fibrosis score (*why:* alternative non-invasive fibrosis risk-stratification tools using routinely available bloods/demographics; *what:* risk-stratifies for advanced fibrosis). Fibroscan/transient elastography (*why:* non-invasively measures liver stiffness as a surrogate for fibrosis; *what:* elevated stiffness correlates with more advanced fibrosis).
+
+**Mx:**
+- **Definitive/chronic (no acute tier — chronic metabolic liver disease):** lifestyle modification (weight loss — the single most effective intervention, with even 7-10% body weight loss shown to improve/resolve steatohepatitis), treat insulin resistance and hyperlipidaemia (manage the underlying metabolic syndrome components directly, since they drive the liver disease). Vitamin E associated with improved clinical outcomes in non-diabetic NASH specifically. No evidence for ursodeoxycholic acid.
+- **Chronic/long-term:** severe disease (advanced fibrosis/cirrhosis) may require TIPS for portal hypertension complications and liver transplant assessment for end-stage disease; regular monitoring of fibrosis stage (non-invasive markers above) to track progression.
+
+**P:** "bland" steatosis has good prognosis and stable disease. NASH is progressive, especially with comorbidities (DM, high BMI) — 9–20% progress to cirrhosis. No vaccination available.
+
+### 0.9.6 Autoimmune Hepatitis
+
+**D:** chronic inflammatory liver disease of unknown aetiology.
+- **Type I:** ANA and/or anti-smooth muscle antibodies — affects both adults and children
+- **Type II:** anti-liver/kidney microsomal type 1 antibodies — affects children only
+- **Type III:** soluble liver-kidney antigen — affects middle-aged adults
+
+**R:** F>M, genetic predisposition (HLA B8, DR3), other autoimmune disorders
+
+**S/Smx:** signs/symptoms of chronic liver disease; acute hepatitis (fever, jaundice — only 25% present this way); amenorrhoea in women (common).
+
+**Ix:** ANA/SMA/LKM1 antibodies (*why:* the key serological markers, and their pattern helps subtype the disease (Type I/II/III as above); *what:* positive per subtype as described). ↑IgG (*why:* supports the autoimmune/inflammatory diagnosis and can be trended to monitor disease activity/treatment response; *what:* elevated). Liver biopsy (*why:* confirms the diagnosis histologically and stages disease severity, important before committing to long-term immunosuppression; *what:* inflammation extending beyond the limiting plate ('piecemeal necrosis'), bridging necrosis).
+
+**Mx:**
+- **Immediate/acute** (severe/fulminant presentation): high-dose steroids, urgent hepatology input; liver transplant assessment if fulminant liver failure.
+- **Definitive:** steroids (induction), typically combined with or transitioned to a steroid-sparing immunosuppressant (e.g. azathioprine) for maintenance — allows steroid dose reduction while maintaining remission.
+- **Chronic/long-term:** long-term immunosuppression is usually required (relapse is common on withdrawal); monitor for treatment-related complications (osteoporosis from steroids, marrow suppression from azathioprine); liver transplantation for those progressing to decompensated cirrhosis despite treatment.
+
+> [!note] Associated with: pernicious anaemia, UC, glomerulonephritis, autoimmune thyroiditis, autoimmune haemolysis, DM, PSC.
+
+### 0.9.7 Liver disease severity scoring
+> [!info] Child-Pugh score — bilirubin, albumin, prothrombin time, encephalopathy, ascites
+> [!info] **MELD** (Model for End-stage Liver Disease) — bilirubin, creatinine, INR
+
+> [!danger] **What these two scores are for, and why there are two of them.** This section previously listed the variables of each and nothing else — which tells a reader what to add up but not what the answer means or when either score changes anything.
+>
+> **Neither score guides day-to-day management.** Both answer the question *how much liver reserve does this patient have*, and they are used at decision points: **can this patient survive an intervention**, and **where do they sit for transplant**.
+>
+> - **Child-Pugh** grades cirrhosis **A, B or C** (increasing severity). Its main use at intern level is **procedural and surgical risk** — a Child-Pugh C patient facing elective surgery is a fundamentally different proposition from a Child-Pugh A one — and it appears in specific thresholds elsewhere in this file, such as SBP prophylaxis.
+> - **MELD** is a continuous score predicting **short-term mortality**, and it is what **transplant allocation** is based on.
+>
+> **Why both survive, which is the useful part:** Child-Pugh contains **two subjective items** — the grade of encephalopathy and the amount of ascites — so two clinicians can score the same patient differently. **MELD is entirely objective laboratory values**, which is precisely why it, and not Child-Pugh, is used to allocate a scarce resource. When a score has to be defensible between centres, subjectivity is disqualifying.
+>
+> *Intern-level takeaway:* you will not calculate these often, but you should recognise when one is being quoted and what decision it is attached to — and know that a rising MELD in a patient with cirrhosis is a reason to ask whether they are known to a transplant service, not just a worse number.
+
+---
+
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.10 Paracetamol Overdose` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## 0.6 Alcohol-Related Liver Disease (ArLD)
+
+**D:** liver damage caused by chronic heavy alcohol intake. 3 stages: steatosis, alcoholic hepatitis (inflammation & necrosis), and alcoholic liver cirrhosis.
+
+**R:** increased alcohol use, hepatitis C, female (most cases are male, but women have lower alcohol tolerance)
+
+**S/Smx:** may be asymptomatic until decompensation.
+- Abdominal pain, hepatomegaly
+- Decompensated liver disease: haematemesis, melaena, venous collaterals (e.g. spider naevi), splenomegaly, jaundice, palmar erythema, asterixis, ascites, hepatic encephalopathy
+
+**A/P:** upregulation of alcohol and acetaldehyde dehydrogenase reduces NAD to NADH → increased NADH:NAD ratio inhibits gluconeogenesis and increases fatty acid oxidation → fatty infiltration of liver. Upregulation of CYP2E1 generates more free radicals; increased TNF-α and ROS in Kupffer cell mitochondria drive inflammatory liver damage.
+
+**Ix:** LFTs (*why:* screens for the characteristic pattern of alcohol-related liver injury; *what:* AST:ALT >2 in 70% of cases — a pattern more specific to alcohol than most other liver diseases; ↑ALP & GGT associated with cholestasis, GGT particularly sensitive to alcohol use). FBC (*why:* screens for macrocytic anaemia (direct alcohol marrow toxicity, folate deficiency) and thrombocytopenia (portal hypertension/splenic sequestration, or direct marrow suppression); *what:* macrocytosis, possible cytopenias). U&Es incl. Mg, PO4 (*why:* screens for electrolyte disturbances common in heavy drinkers relevant to withdrawal seizure risk and general morbidity; *what:* ↓Na in advanced ALD; ↓K, ↓Mg — muscle weakness; ↓Mg can cause persistent hypokalaemia, predisposing to seizures during alcohol withdrawal). Clotting (*why:* screens for synthetic liver dysfunction; *what:* prolonged PT/INR reflects reduced hepatic synthetic function). Hepatic US (*why:* screens for steatosis, cirrhosis, and complications (varices, ascites, HCC); *what:* fatty infiltration, nodular/cirrhotic architecture in advanced disease). Consider ammonia (*why:* supports a diagnosis of hepatic encephalopathy if relevant clinically; *what:* elevated, though level doesn't correlate well with encephalopathy severity), folate (*why:* commonly deficient in heavy drinkers, contributing to anaemia; *what:* often low), viral hepatitis serology (*why:* excludes/identifies a concurrent contributing cause; *what:* screens for co-existing HBV/HCV), liver biopsy (*why:* reserved for diagnostic uncertainty or to formally stage fibrosis; *what:* steatosis, inflammation, or fibrosis/cirrhosis depending on stage).
+
+**Complications:** hepatic encephalopathy, portal HTN (+ oesophageal varices), GI bleeds, coagulopathy, renal failure, hepatorenal syndrome, sepsis.
+
+> [!note] Hepatorenal syndrome — kidneys receive markedly reduced blood flow in response to altered hepatic blood flow, which reduces MAP due to extreme vasodilation.
+
+**Mx (of ArLD generally):**
+- **Immediate/acute:** manage decompensation as it presents — see the specific complication sections below (varices, ascites, encephalopathy, SBP) for tiered Mx of each.
+- **Definitive:** alcohol cessation is the single most important intervention at any stage — abstinence can allow significant regression of steatosis and even some improvement in early fibrosis; specialist addiction medicine/counselling referral.
+- **Chronic/long-term:** nutritional support (thiamine, folate, multivitamins — heavy drinkers are often malnourished), surveillance for HCC and varices once cirrhosis is established, liver transplant assessment for end-stage disease (typically requires a period of proven abstinence per transplant program criteria).
+
+### 0.6.1 Alcohol withdrawal
+
+> [!warning] FLAG 2026-09-01 — `M-5` alcohol withdrawal is in four places across three files
+> **This is the AU-verified core and the one other files point at.** `Psychiatry_merged.md:934` and
+> `:938` cite it by name — *"the full AU-verified management (diazepam-based…)"* — and `GP_merged.md:113`,
+> `Neuro_merged.md:805` and `:806` also point here.
+> **The other three copies:** `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` and
+> `14a-1 ## Alcohol use disorder`, both now in `Psychiatry_merged.md`; and
+> `04_Neurology ### Alcohol Withdrawal Seizures` in `Neuro_merged.md`.
+> **The GI flags file recorded three; the Neuro pass found the fourth.**
+Symptoms brought on by abstinence in an alcohol-dependent person; characterised by overactivity of the sympathetic nervous system.
+
+**A/P:** chronic alcohol use → upregulation of NMDA receptors, downregulation of GABA receptors → falling blood ethanol concentration creates imbalance between stimulatory NMDA and inhibitory GABA systems → excessive stimulatory effect → withdrawal symptoms.
+
+**Dx:** usually clinical (history, examination).
+- Symptoms start at 6–12h, usually autonomic (tremor, sweating, ↑HR, anxiety)
+- Seizures — peak incidence at 36h
+- Delirium tremens — peak incidence at 48–72h (coarse tremor, confusion, delusions, auditory/visual hallucinations, fever, ↑HR)
+
+> [!info] **Withdrawal severity scoring — the Australian instruments first.**
+> **Clinical Institute Withdrawal Assessment for Alcohol, revised (CIWA-Ar)** — the most widely used tool in Australian practice, published as a standard chart by SA Health, WA Health and NSW Health. 10 items, max 67 points. **<10 mild · 10–20 moderate · >20 severe**, with monitoring frequency escalating accordingly (at least 4-hourly above 10; 1–2 hourly above 20).
+> **Alcohol Withdrawal Scale (AWS)** — the other instrument named in NSW Health guidance, used interchangeably with CIWA-Ar depending on the service's own chart.
+>
+> *(The **Glasgow Modified Alcohol Withdrawal Scale (GMAWS)** — 0–2 points each for tremor, sweating, hallucinations, orientation, agitation — is a **UK/NHS Scotland** tool and previously led this box. It does not appear in Australian guidance; retained here only so the abbreviation is recognisable if met in UK-sourced material. **Score with CIWA-Ar or AWS, whichever your service's chart uses.** See `PENDING_GUIDELINE_CHECKS.md` B42.)*
+
+> [!info] Verified against NSW Health/WA Mental Health Commission alcohol withdrawal guidelines and DACAS, Aug 2026 — Australian practice differs in a few specifics from the UK regimen this entry previously carried; the Australian regimen is stated here on its own terms.
+> **Mx if CIWA-Ar ≥10 (or the equivalent trigger on your service's AWS chart) (Immediate/acute tier — this condition doesn't have a separate definitive/chronic pharmacological tier beyond the withdrawal episode itself, though relapse-prevention pharmacotherapy is covered under chronic ArLD Mx above):**
+> - Admit under medicine if complex withdrawal (DT, seizures, etc.)
+> - **Diazepam is the benzodiazepine of choice in Australia** — chlordiazepoxide is not registered/available in Australia, so don't reach for it as first-line the way UK sources do; a typical regimen is diazepam 10–20mg 6-hourly, tapering over 5–7 days (community/ambulatory setting) or a loading-dose/symptom-triggered regimen guided by CIWA-Ar in hospital. Lorazepam preferred if significant liver impairment (less dependent on hepatic metabolism); phenobarbitone or antipsychotics (e.g. olanzapine) considered as adjuncts for severe/refractory agitation, not carbamazepine as a routine alternative.
+> - Thiamine — IV/IM thiamine (typically 300mg) to prevent/treat Wernicke's/Korsakoff syndrome; Australia doesn't use the UK's "Pabrinex" branded product — just prescribe thiamine directly, higher parenteral doses for treatment of suspected Wernicke's, oral maintenance thereafter (e.g. 100mg tds).
+
+### 0.6.2 Ascites (in ArLD)
+Abnormal fluid collection in the abdomen; in ArLD, secondary to portal hypertension.
+
+**Ix:** diagnostic paracentesis (*why:* essential first step in any new ascites to determine the cause and exclude SBP; *what:* serum-ascites albumin gradient (SAAG) ≥11g/L supports portal hypertension as the cause; see SBP below for the infection-specific interpretation).
+
+**Mx:**
+- **Immediate/acute:** drainage of tense/symptomatic ascites — for large-volume paracentesis (>5L), IV albumin required to prevent post-paracentesis circulatory dysfunction and death.
+- **Definitive/chronic:** ↓dietary sodium ± fluid restriction; aldosterone antagonists (e.g. spironolactone) ± loop diuretics; prophylactic PO ciprofloxacin to prevent spontaneous bacterial peritonitis (in select high-risk patients); consider TIPSS for refractory ascites.
+
+### 0.6.3 Hepatic encephalopathy
+Neuropsychiatric syndrome caused by acute or chronic advanced hepatic insufficiency — likely due to excess ammonia and glutamine; metabolic encephalopathy (↑NH4), brain atrophy and/or oedema.
+
+> [!info] Grading
+> **Grade 1:** trivial lack of awareness, sleep rhythm alterations, shortened attention span, impaired addition/subtraction, euphoria or anxiety
+> **Grade 2:** confusion and inappropriate behaviour
+> **Grade 3:** incoherent and restless
+> **Grade 4:** coma
+
+**Mx:**
+- **Immediate/acute:** identify and treat the precipitant (e.g. infection, GI bleed, constipation, electrolyte disturbance, sedative drugs) — encephalopathy is very often precipitant-driven rather than a spontaneous progression, and treating the trigger is as important as the ammonia-lowering therapy itself.
+- **Definitive:** lactulose (increases NH4 excretion via catharsis) + rifaximin (decreases NH4 production by altering gut flora — added for secondary prophylaxis/recurrent episodes, and in refractory cases).
+- **Chronic/long-term:** ensure adequate protein intake (historic protein restriction is now avoided — malnutrition worsens outcomes; the target is treating the precipitant, not starving the patient of protein), ongoing lactulose titrated to 2–3 soft stools/day.
+
+### 0.6.4 Varices and bleeding
+Secondary to portal hypertension causing distension of oesophageal veins → increased bleeding risk and death risk.
+
+**Mx:**
+- **Immediate/acute:** ABCDE + resuscitation; correct clotting (FFP, platelets); terlipressin (2nd line: octreotide); prophylactic antibiotics (quinolones — reduces mortality and rebleeding, given the high infection risk in this setting); endoscopy ± band ligation, Sengstaken-Blakemore tube if uncontrolled, TIPSS if bleeding cannot be controlled otherwise.
+
+> [!info] **TIPSS — what it is, since the corpus prescribes it without ever saying.** **TIPSS = transjugular intrahepatic portosystemic shunt**: a stent placed via the jugular vein through the liver, connecting the portal to the hepatic venous system. *The mechanism:* it decompresses the portal system directly, which is why it works for variceal bleeding and for diuretic-resistant ascites where drug therapy addresses the consequences rather than the pressure.
+>
+> **Its cost is the same mechanism running the other way.** Portal blood now bypasses the liver, so it is no longer detoxified — **encephalopathy is the characteristic complication**, occurring in a substantial minority, and it is worse in patients who already have poor hepatic reserve. That is the link back to the severity scores above: a high Child-Pugh or MELD makes TIPSS both more likely to be needed and more likely to be tolerated badly, which is why the decision sits with hepatology rather than with the admitting team.
+- **Definitive:** endoscopic band ligation to eradicate varices once the acute bleed is controlled.
+- **Chronic/long-term (prophylaxis, primary and secondary):** non-selective β-blocker (e.g. propranolol), endoscopic variceal band ligation programme, TIPSS for refractory cases.
+
+### 0.6.5 Alcoholic hepatitis
+Acute episodes of inflammation.
+**S/Smx:** rapid onset of jaundice, malaise, tender hepatomegaly
+**Ix:** LFTs (*why:* supports the diagnosis via the characteristic pattern; *what:* AST:ALT >2, as for ArLD generally). Maddrey's discriminant function (*why:* risk-stratifies to identify patients who will benefit from steroid therapy vs those where the risk isn't justified; *what:* a score above threshold indicates severe disease warranting steroid consideration).
+**Mx:**
+- **Immediate/acute:** glucocorticoids for those meeting Maddrey's discriminant function threshold for severe disease (weighing infection risk, since these patients are often already immunocompromised/at infection risk); pentoxifylline as an alternative/adjunct in some guidelines, particularly if steroids contraindicated.
+- **Chronic/long-term:** alcohol cessation is essential to prevent recurrence and progression to cirrhosis.
+
+### 0.6.6 Spontaneous bacterial peritonitis (SBP)
+**D:** peritonitis occurring in patients with ascites secondary to liver cirrhosis; most commonly caused by *E. coli*.
+**S/Smx:** ascites, abdominal pain, fever
+**Dx/Ix:** paracentesis (*why:* the diagnostic test — SBP is defined by ascitic fluid neutrophil count, not by clinical picture alone since presentation can be subtle/atypical; *what:* neutrophil count >250 cells/µL + culture, though culture is often negative despite a diagnostic neutrophil count).
+**Mx:**
+- **Immediate/acute:** IV cefotaxime (or another third-generation cephalosporin per local protocol) — empirical, started promptly given the risk of rapid deterioration; IV albumin co-administration reduces the risk of hepatorenal syndrome and improves survival in SBP specifically (an important addition beyond antibiotics alone).
+- **Chronic/long-term (prophylaxis):** PO ciprofloxacin or norfloxacin if: previous episode of SBP, or fluid protein <15g/L and Child-Pugh score ≥9 or hepatorenal syndrome.
+
+---
+
+## 0.7 Wilson's Disease
+
+**D:** autosomal recessive disorder of excessive copper deposition.
+
+**R:** ATP7B gene mutation, family history
+
+**A/P:** ATP7B encodes a metal P-type ATPase for transmembrane copper transport within hepatocytes. Absent protein → reduced hepatic copper excretion + copper overload in hepatocytes + overflow into circulation/organs.
+
+**S/Smx (secondary to copper deposition in organs):** onset 10–25yo — children usually present with liver disease, adolescents with psychiatric symptoms.
+- Liver: hepatitis, cirrhosis
+- Neurological: basal ganglia degeneration; speech, behavioural, psychiatric problems (e.g. depression, mania); asterixis, chorea, dementia, parkinsonism
+- Kayser-Fleischer rings (50% overall, 90% in those with neuro involvement)
+- Renal tubular acidosis (especially Fanconi syndrome)
+- Haemolysis, blue nails
+
+**Ix:** slit-lamp eye exam (*why:* screens for Kayser-Fleischer rings, a specific sign of copper deposition; *what:* golden-brown rings at the corneal limbus, present in the majority with neuro involvement, less common without). Serum caeruloplasmin (*why:* the main copper-carrying protein, typically low since ATP7B is also needed for its synthesis; *what:* reduced). Total serum copper (*why:* screens as part of the copper-studies workup, though free (non-caeruloplasmin-bound) copper is actually elevated despite total serum copper being low — an important nuance; *what:* low total serum copper). 24h urinary copper excretion (*why:* reflects the elevated free copper being filtered by the kidneys, a key diagnostic/monitoring test; *what:* elevated). Genetic analysis (*why:* confirms the diagnosis definitively, especially useful for family screening once a proband's mutation is known; *what:* identifies ATP7B mutations).
+
+**Mx:**
+- **Definitive/chronic (no separate acute tier — this is a chronic, lifelong condition unless presenting in fulminant liver failure — see below):** copper chelation — penicillamine (chelates copper, historically first-line but with a significant side-effect profile including a risk of neurological worsening on initiation), trientine hydrochloride (better tolerated alternative, increasingly preferred first-line), ?tetrathiomolybdate (newer agent, particularly of interest for neurological presentations given a lower risk of paradoxical neurological worsening).
+- **Chronic/long-term:** zinc salts as maintenance therapy or in asymptomatic/pre-symptomatic patients (reduces intestinal copper absorption); low-copper diet (avoid shellfish, liver, nuts, chocolate); lifelong therapy required — untreated or non-adherent disease progresses to liver failure and irreversible neurological damage; liver transplant for fulminant liver failure or decompensated cirrhosis unresponsive to medical therapy (transplant is curative, since it corrects the underlying hepatic metabolic defect); family screening (siblings especially, given autosomal recessive inheritance) once a proband is diagnosed.
+
+---
+
+## 0.8 Haemochromatosis
+
+**D:** autosomal recessive disorder — dysregulated dietary iron absorption and increased iron release from macrophages.
+
+**R:** middle age, M>F, Caucasian (1:10 carry the mutation; 1:200 prevalence — more common than CF), family history
+
+**A/P:** HFE gene mutation (chromosome 6) → increased iron absorption.
+
+**S/Smx:**
+- Early: fatigue, erectile dysfunction, arthralgia (often of the hands)
+- 'Bronze' skin pigmentation
+- Diabetes mellitus
+- Liver: stigmata of chronic liver disease, hepatomegaly, cirrhosis, hepatocellular deposition
+- Cardiac failure (secondary to dilated cardiomyopathy)
+- Hypogonadism (secondary to cirrhosis and pituitary dysfunction — hypogonadotrophic hypogonadism)
+
+**Complications:**
+- Reversible: cardiomyopathy, skin pigmentation
+- Irreversible: cirrhosis, DM, hypogonadism, arthropathy
+
+**Ix:** iron studies (*why:* the first-line screening test, and transferrin saturation is the most sensitive early marker; *what:* ↑transferrin saturation >50–55%, ↑ferritin (can be normal early in disease — don't rely on ferritin alone to exclude it), ↓TIBC). Genetic testing for HFE mutation (*why:* confirms the diagnosis once iron studies are suggestive, and is used for family cascade screening; *what:* identifies C282Y homozygosity (most common) or compound heterozygosity). LFTs (*why:* screens for hepatic involvement/progression to fibrosis; *what:* may be deranged with hepatic iron deposition). Liver biopsy (*why:* historically used to quantify hepatic iron and stage fibrosis, now largely reserved for cases with diagnostic uncertainty or to assess fibrosis severity when non-invasive markers are inconclusive, since genetic testing has largely replaced biopsy for diagnosis; *what:* quantifies hepatic iron concentration and fibrosis stage).
+
+**Mx:**
+- **Definitive/chronic (no separate acute tier — a chronic iron-overload condition):** venesection (tailored to reduce transferrin saturation <50%, ferritin <50 µg/L) — first-line, effective, and low-cost; typically weekly initially then reducing frequency for maintenance once targets are reached.
+- **Alternative/adjunct:** desferrioxamine (iron chelation) for patients unable to tolerate venesection (e.g. significant anaemia, cardiac impairment limiting removal volumes).
+- **Chronic/long-term:** family screening (iron studies ± HFE genetic testing in first-degree relatives) given autosomal recessive inheritance; surveillance for HCC once cirrhosis develops (haemochromatosis-related cirrhosis carries a significant HCC risk even after iron depletion); manage complications (DM, cardiomyopathy, hypogonadism) as they arise — note cardiomyopathy and skin pigmentation are reversible with treatment, but cirrhosis, DM, hypogonadism and arthropathy are not, which is why early diagnosis (often via family screening) matters more than treating established complications.
+
+---
+
+## 0.38 Cirrhosis
+
+> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, flagged "Unlikely covered" despite High relevance) — the source notes cover cirrhosis's complications extensively within the Alcohol-Related Liver Disease section (ascites, encephalopathy, varices, SBP), but never as a standalone unifying entity, which matters since cirrhosis is a common final pathway for many of the liver diseases in this file (ArLD, chronic viral hepatitis, NAFLD/NASH, autoimmune/genetic liver disease) and is tested as a topic in its own right.
+
+**D:** The end stage of chronic liver injury of any cause — diffuse hepatic fibrosis with regenerative nodules, replacing normal liver architecture and disrupting both hepatocyte function and hepatic blood flow.
+
+**A/P (causes — cross-referencing the disease-specific sections already built in this file):** alcohol-related liver disease (see ArLD above), chronic hepatitis B/C (see Hepatitis above), non-alcoholic fatty liver disease/NASH (see NAFLD above), autoimmune hepatitis, PSC/PBC (see above), haemochromatosis, Wilson's disease (see above), alpha-1 antitrypsin deficiency, cardiac cirrhosis (chronic right heart failure — see [[01_Cardiovascular]] Chronic Heart Failure), drug-induced. Regardless of cause, the shared final pathway is progressive fibrosis distorting hepatic architecture → portal hypertension (from increased intrahepatic resistance to portal blood flow) + hepatocyte loss/dysfunction (impaired synthetic and metabolic function) — these two mechanisms explain essentially all of the clinical complications below.
+
+**S/Smx:** may be asymptomatic (compensated cirrhosis) or present with decompensation:
+- Synthetic dysfunction: coagulopathy (bruising/bleeding), hypoalbuminaemia (oedema), hepatic encephalopathy (see ArLD section above for grading)
+- Portal hypertension: ascites (see ArLD section above), splenomegaly, oesophageal/gastric varices with bleeding risk (see UGIB section above), caput medusae
+- Chronic liver disease stigmata: spider naevi, palmar erythema, gynaecomastia, testicular atrophy, Dupuytren's contracture, leuconychia, clubbing
+- Jaundice (impaired bilirubin conjugation/excretion)
+
+**Ix:** LFTs (*why:* may be relatively normal in end-stage cirrhosis despite severe disease — a key teaching point, since the liver has "burnt out" rather than being actively inflamed; synthetic markers matter more than transaminases at this stage; *what:* transaminases may be only mildly elevated or even normal; low albumin and prolonged PT/INR reflect synthetic dysfunction more reliably). FBC (*why:* screens for cytopenias from hypersplenism (portal hypertension-driven splenic sequestration) and anaemia from chronic GI blood loss/nutritional deficiency; *what:* thrombocytopenia is often the earliest lab clue to portal hypertension). Hepatic US ± elastography (*why:* non-invasively assesses architecture and fibrosis/cirrhosis severity, and screens for HCC and ascites; *what:* nodular, shrunken liver, increased echogenicity, splenomegaly). Liver biopsy (*why:* the historical gold standard for confirming cirrhosis and identifying the underlying cause histologically, now used more selectively given good non-invasive alternatives; *what:* regenerative nodules surrounded by fibrous septa). Aetiology-specific work-up per the causes above (viral serology, autoimmune/genetic markers, iron/copper studies) once cirrhosis is identified, to determine the underlying cause if not already known.
+
+**Mx:**
+- **Immediate/acute:** manage decompensation as it presents — see the specific complication sections already built in this file: ascites, hepatic encephalopathy, variceal bleeding (UGIB section), and SBP (all under Alcohol-Related Liver Disease above, though the same Mx applies regardless of cirrhosis aetiology).
+- **Definitive:** treat the underlying cause where a disease-modifying option exists (antiviral therapy for HBV/HCV, alcohol cessation, weight loss/metabolic control for NAFLD, venesection for haemochromatosis, chelation for Wilson's — cross-reference the relevant sections above); liver transplant assessment for decompensated cirrhosis meeting listing criteria.
+- **Chronic/long-term:** regular surveillance — 6-monthly liver US ± AFP for HCC, endoscopic surveillance for varices, Child-Pugh/MELD scoring to track severity and prognosticate/guide transplant listing timing (see Liver disease severity scoring under Hepatitis above); vaccination (influenza, pneumococcal, hepatitis A/B if non-immune); avoid hepatotoxic drugs and NSAIDs; alcohol cessation regardless of aetiology.
+
+**P:** highly variable depending on aetiology, degree of decompensation, and whether the underlying cause is treatable; Child-Pugh and MELD scores are the standard prognostic tools (see above) and also determine transplant priority.
+
+---
+
+## 0.5 Liver Cancers
+
+### 0.5.1 Hepatocellular Carcinoma (HCC)
+
+**D:** aka hepatoma — primary cancer arising from hepatocytes, predominantly in cirrhotic liver. 3rd most common cause of cancer worldwide.
+
+**R:** cirrhosis, chronic HBV (most common cause worldwide), HCV (most common in Europe), increased alcohol use, DM, obesity, family history
+
+**A/P:** chronic inflammation and cirrhosis — any condition leading to cirrhosis is a risk factor.
+
+**S/Smx:** tends to present late — cirrhosis symptoms (jaundice, ascites, RUQ pain, hepatomegaly, pruritus, splenomegaly), may present decompensated; raised AFP.
+
+**Ix:** screening US (± AFP) considered for high-risk groups (existing cirrhosis) (*why:* surveillance in at-risk patients detects HCC at an earlier, potentially curable stage, since symptomatic presentation usually means advanced disease; *what:* a new liver lesion on surveillance US, with AFP as a supportive but imperfect marker — not all HCC secretes AFP). CT/MRI with contrast (*why:* used to characterise a lesion found on screening US and stage disease; *what:* characteristic arterial-phase hyperenhancement with washout, often diagnostic without biopsy in the right clinical context).
+
+**Mx:**
+- **Definitive (staged by extent/liver function, not a simple acute/chronic split):**
+  - Early disease (single lesion, preserved liver function): surgical resection or liver transplantation (transplant addresses both the tumour and the underlying cirrhosis).
+  - Localised disease not suitable for resection: radiofrequency ablation, transarterial chemoembolisation (TACE).
+  - Advanced/unresectable disease: sorafenib (multikinase inhibitor) or other systemic therapy.
+- **Chronic/long-term:** ongoing surveillance for recurrence post-treatment; manage the underlying liver disease (antiviral therapy for HBV/HCV, alcohol cessation) to slow further liver damage.
+
+**P:** 5-year survival for symptomatic HCC is 0–10% (very aggressive); overall 5-year survival is 20%.
+
+### 0.5.2 Cholangiocarcinoma
+
+**D:** aka biliary tree cancer — cancer arising from bile duct epithelium; divided into intrahepatic or extrahepatic.
+
+**R:** >50yo, cholangitis (especially primary sclerosing cholangitis), other bile duct problems
+
+**A/P:** >95% adenocarcinomas; most are infiltrating nodular or diffusely infiltrating.
+
+**S/Smx:** persistent biliary colic-type symptoms, anorexia, jaundice, weight loss, palpable RUQ mass, ± Sister Mary Joseph nodes (periumbilical) and Virchow's nodes (left supraclavicular); raised Ca19-9 (useful in PSC patients).
+
+**Ix:** LFTs (*why:* screens for the cholestatic pattern from biliary obstruction; *what:* raised ALP/GGT/bilirubin). Ca19-9 (*why:* a tumour marker particularly useful for monitoring in known PSC patients, where a rising level raises suspicion of malignant transformation; *what:* elevated, though non-specific — also raised in benign cholestasis). CEA, Ca-125 (*why:* adjunct tumour markers, sometimes raised and used alongside Ca19-9; *what:* may be elevated). Abdominal US (*why:* initial screen for a mass/duct dilation; *what:* biliary dilation proximal to the obstructing lesion). CT/MRI (*why:* defines the extent of disease and resectability, essential for staging/surgical planning; *what:* defines tumour extent, vascular involvement, and nodal/distant spread).
+
+**Mx:**
+- **Definitive:** surgery if resectable (the only potentially curative option); if unresectable — liver transplant (in carefully selected cases, particularly for hilar cholangiocarcinoma under specific protocols) ± chemo/radiotherapy if possible.
+- **Chronic/long-term:** palliation (biliary stenting for obstruction, symptom control) if extensive/unresectable disease.
+
+### 0.5.3 Primary liver tumours summary
+**Malignant** (poor prognosis regardless of type): HCC, cholangiocarcinoma, angiosarcoma, hepatoblastoma, fibrosarcoma, hepatic GIST
+
+**Benign:** cysts, haemangioma (common, F>M 5:1), adenoma (common — treat only if symptomatic or >5cm), focal nodular hyperplasia, fibroma, benign GIST (leiomyoma)
+
+**Secondary (metastatic) liver tumour origins:**
+- Common in men: stomach, lung, colon
+- Common in women: breast, colon, stomach, uterus
+- Less common in either: pancreas, leukaemia, lymphoma, carcinoid tumours
+
+---
+
+## 0.32 TIPS (Transjugular Intrahepatic Portosystemic Shunt)
+
+**Indications:** oesophageal or gastric varices secondary to portal hypertension; Budd-Chiari syndrome.
+
+**Procedure (interventional radiology):**
+1. Right internal jugular vein cannulated
+2. Catheter advanced to hepatic vein (usually right HV)
+3. Venogram (XR) obtained
+4. Needle directed towards right portal vein
+5. Angioplasty balloon dilated
+6. Stent deployed, widened to ~8mm
+7. Placement confirmed with venogram
+
+---
+
+## 0.3 Acute Cholecystitis
+
+**D:** acute inflammation of the gallbladder ("cystitis").
+
+**R:** gallstones, severe illness, TPN, DM
+
+**A:** 90% due to gallstones
+
+**P:** obstruction causes acute inflammation of the gallbladder.
+
+> [!note] Jaundice does not normally occur, as bile can still pass into the cystic ducts — occurs only in Mirizzi's syndrome, where gallbladder inflammation increases pressure on contiguous biliary ducts.
+
+**S/Smx:** RUQ pain and tenderness, Murphy's sign positive, palpable mass (rare), signs/symptoms of inflammation
+
+**Ix:** labs — LFT usually normal (*why:* helps distinguish uncomplicated cholecystitis from choledocholithiasis/cholangitis, where LFTs would be deranged; *what:* typically normal or mildly deranged, unlike the cholestatic picture of duct obstruction), inflammatory markers (*why:* supports the inflammatory diagnosis; *what:* raised WCC/CRP). US (*why:* first-line imaging, good sensitivity for gallstones and can show secondary signs of cholecystitis; *what:* gallstones, gallbladder wall thickening >3mm, pericholecystic fluid, sonographic Murphy's sign). MRCP ± ERCP (*why:* reserved for suspected concurrent common bile duct stones/obstruction, since routine US doesn't reliably visualise the CBD; *what:* CBD stone/dilation if present).
+
+**Mx:**
+- **Immediate/acute:** IV antibiotics, analgesia, IV fluids as needed for the acute inflammatory episode.
+- **Definitive:** early laparoscopic cholecystectomy (within 1 week of presentation — earlier surgery reduces complications/conversion-to-open rates compared to delayed interval surgery).
+- **Chronic/long-term:** if unfit for surgery, long-term ursodeoxycholic acid as a non-surgical alternative to reduce stone-related symptoms/recurrence, though this doesn't address the gallbladder inflammation itself as definitively as cholecystectomy.
+
+### 0.3.1 Acalculous cholecystitis
+**D:** gallbladder inflammation with no gallstones; associated with ongoing illness (e.g. DM, organ failure).
+**S/Smx:** patient more unwell than typical cholecystitis — high fever, shock
+**Mx:**
+- **Immediate/acute:** treat the underlying critical illness, resuscitation, IV antibiotics; percutaneous cholecystostomy if the patient is too unstable for surgery.
+- **Definitive:** cholecystectomy once stable enough for surgery.
+
+### 0.3.2 Biliary colic
+Spasmodic pain from contraction of the gallbladder or biliary ducts around gallstones.
+> [!tip] "Fat, female, fertile, and in their forties"
+Patient is systemically well, but can progress to acute cholecystitis. **Mx — definitive:** elective cholecystectomy to manage the root cause once diagnosed, rather than waiting for progression to acute cholecystitis.
+
+---
+
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Ascending Cholangitis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## 0.1 Primary Sclerosing Cholangitis (PSC)
+
+**D:** Chronic, progressive, cholestatic liver disease characterised by inflammation and fibrosis of the bile ducts, causing multi-focal stricture formation.
+
+**R:** male (2:1), IBD (75%, typically UC), genetics
+
+**A/P:** likely immune-related — inflammation and injury of medium and large bile ducts → strictures → fibrosis → bile stasis → stones and liver damage
+
+**S/Smx:** abdominal pain, pruritus, fatigue, weight loss, fever, jaundice; also steatorrhoea, splenomegaly, ascites, encephalopathy
+
+**Ix:** LFTs (ALP, GGT, AST, ALT, bilirubin, albumin) (*why:* screens for and characterises the cholestatic pattern; *what:* disproportionately raised ALP/GGT relative to transaminases, the hallmark cholestatic picture). FBC, PT (*why:* baseline and screens for synthetic liver dysfunction/portal hypertension-related cytopenias as disease progresses; *what:* may show anaemia, thrombocytopenia in advanced disease; prolonged PT if synthetic function impaired). Antibodies, incl. p-ANCA (*why:* p-ANCA is positive in a majority of PSC patients and supports the diagnosis, though not specific; *what:* positive p-ANCA in ~70%). Abdominal US, MRCP, ERCP, CT — imaging is essential for diagnosis (*why:* PSC is fundamentally a radiological/cholangiographic diagnosis — visualising the characteristic multifocal biliary strictures is how the diagnosis is actually made, more so than any blood test; *what:* multifocal stricturing and beading of the intra- and/or extrahepatic bile ducts — "beaded" appearance).
+
+**Mx:**
+- **Immediate/acute** (presenting with cholangitis from a dominant stricture): treat as ascending cholangitis (see below) — antibiotics, resuscitation, urgent ERCP for decompression if obstructed.
+- **Definitive:**
+  - Conservative: lifestyle change, management of pruritus, management of hepatic osteopenia (calcium + vitamin D, bisphosphonate, HRT)
+  - ERCP and balloon dilation of a dominant stricture
+  - End-stage liver disease: liver transplant
+- **Chronic/long-term:** regular surveillance for cholangiocarcinoma and colorectal cancer (given the strong IBD association — colonoscopic surveillance is more intensive in PSC-associated IBD than IBD alone) given the significantly elevated cancer risk described in Prognosis.
+
+> [!note] Hepatic osteopenia arises from impaired bile function → reduced absorption of fat-soluble vitamins, including vitamin D.
+
+**P:** high risk of cirrhosis and attendant problems, cholangiocarcinoma, other cancers, and osteoporosis; increased morbidity — median survival from diagnosis to death or liver transplant is 7–14 years. Can recur in 10–20% of patients post-transplant.
+
+---
+
+## 0.2 Primary Biliary Cholangitis (PBC)
+
+**D:** Chronic disease of the small intrahepatic bile ducts, characterised by progressive bile duct damage (and eventual loss) occurring in the context of chronic portal tract inflammation.
+
+**R:** female (10:1), >45yo, personal or family history of autoimmune disorders
+
+**A/P:** autoimmune disease — antimitochondrial antibodies (95%). Biliary epithelial cell damage/destruction + chronic portal tract inflammation → bile stasis, fibrosis, cirrhosis.
+
+**S/Smx:** abdominal pain, pruritus, fatigue, weight loss, fever, jaundice; also steatorrhoea, splenomegaly, ascites, encephalopathy
+
+**Dx based on:**
+1. Cholestatic LFTs
+2. Auto-antibodies — antimitochondrial antibodies or PBC-characteristic ANA
+3. Compatible/diagnostic liver histology on biopsy — classic bile duct lesions, portal tract inflammation, granuloma formation
+
+**Ix:** LFTs (*why:* screens for the characteristic cholestatic pattern; *what:* raised ALP/GGT), FBC, PT (*why:* baseline and screens for progression to synthetic dysfunction/portal hypertension; *what:* may show cytopenias/prolonged PT in advanced disease), antimitochondrial antibodies (*why:* the key serological diagnostic test, positive in the large majority of PBC; *what:* positive in ~95%), PBC-characteristic ANA if AMA-negative (*why:* an alternative serological marker when AMA is negative but PBC is still suspected; *what:* specific ANA patterns support the diagnosis), MRCP (*why:* excludes an extrahepatic biliary obstructive cause and helps distinguish from PSC, since PBC is a small-duct disease not visible as strictures on cholangiography; *what:* typically normal biliary tree, unlike PSC), liver biopsy (*why:* confirms the diagnosis and stages disease when serology is equivocal or diagnosis needs histological confirmation; *what:* classic bile duct lesions, portal tract inflammation, granuloma formation).
+
+**Mx:**
+- **Definitive (no separate acute tier — chronic, slowly progressive disease):** ursodeoxycholic acid (bile acid analogue, reduces cholesterol saturation of bile) — first-line, disease-modifying; ± obeticholic acid for inadequate response. See also general Mx of PSC for end-stage disease (liver transplant).
+- **Symptom-targeted (pruritus):** colestyramine (bile acid sequestrant, increases bile excretion — bad taste), naltrexone, rifampicin.
+
+> [!warning] Avoid antihistamines — no effect on PBC pruritus.
+
+- **Chronic/long-term:** monitor for progression to cirrhosis and its complications; bone density monitoring given osteoporosis risk (as for PSC); liver transplant assessment for end-stage disease.
+
+**P:** increased mortality from liver and non-liver related causes (possibly linked to inflammation); reduced quality of life (itch and fatigue); disease may progress slowly and patient may not suffer heavily from it.
+
+---
+
+## 0.31 ERCP (Endoscopic Retrograde Cholangiopancreatography)
+
+**Indications:** extraction of biliary stones; relief of jaundice secondary to benign/malignant strictures with stents; ampullary biopsy, biliary brushings.
+
+**Consent:** risks of pancreatitis, cholangitis, bleeding, perforation — approximately 1/50.
+
+**Procedure:**
+1. Advance side-viewing endoscope to 2nd part of duodenum
+2. Locate, cannulate the ampulla
+3. Sphincterotomy (knife/balloon) as needed
+4. Perform definitive procedure
+
+---
+
+## 0.11 Acute Pancreatitis
+
+**D:** disorder of the exocrine pancreas associated with acinar cell injury and local/systemic inflammatory responses.
+
+**R:** middle-aged, gallstones, alcohol, hypertriglyceridaemia, drugs (azathioprine, thiazides, furosemide), ERCP, trauma, SLE, Sjögren's
+
+> [!tip] Aetiology mnemonic "I GET SMASHED"
+> Idiopathic, Gallstones, Ethanol, Trauma, Steroids, Mumps, Autoimmune, Scorpion sting, Hyperlipidaemia, ERCP, Drugs
+
+**S/Smx:** severe epigastric pain radiating to back (stabbing, worsens on movement; patient may adopt fetal position); associated with nausea/vomiting, abdominal tenderness, systemic illness (possible shock).
+
+**Dx confirmation (≥2 of 3):**
+- Upper abdominal pain
+- ↑Lipase or amylase 3x ULN — amylase 90% sensitive; lipase more sensitive/specific but less available, longer half-life (useful for late presentations)
+- Characteristic imaging findings (CT, MRCP, US — only if diagnostic doubt)
+
+**Other Ix:** FBC + differential (*why:* screens for the inflammatory response and feeds into severity scoring; *what:* leucocytosis, part of Glasgow score below), CRP (*why:* >200 = high risk of necrosis, a key severity marker; *what:* trended over 48h for best prognostic value), U&Es (*why:* screens for AKI/hypovolaemia from third-spacing, common in severe pancreatitis; *what:* may show AKI, feeds into Glasgow score via urea), O2 sats (*why:* screens for ARDS as a complication; *what:* may show hypoxia, feeds into Glasgow score via PaO2), LFTs (*why:* ↑ALT suggests a gallstone cause specifically, guiding aetiology work-up and the need for urgent ERCP/cholecystectomy; *what:* elevated ALT particularly supports biliary aetiology).
+
+> [!warning] Haemorrhagic pancreatitis signs: ecchymotic bruising (1%) — Cullen's sign (periumbilical), Grey-Turner's sign (flanks), Fox's sign (inguinal ligament)
+
+**Mx:**
+- **Immediate/acute:** aggressive IV fluids + analgesia; offer enteral nutrition (NGT) for moderate-severe pancreatitis (NBM only for specific reasons, e.g. persistent vomiting) — early enteral feeding is now preferred over historical prolonged fasting; do not offer routine/prophylactic antibiotics (only if infected necrosis/cholangitis confirmed or strongly suspected).
+- **Definitive:** treat the identified cause — ERCP for gallstone pancreatitis with ongoing obstruction, cholecystectomy (ideally during the same admission for gallstone pancreatitis to prevent recurrence), drainage procedures for infected collections/abscesses as they arise.
+- **Chronic/long-term:** address modifiable risk factors (alcohol cessation, manage hypertriglyceridaemia), monitor for progression to chronic pancreatitis/exocrine or endocrine insufficiency after severe/recurrent episodes.
+
+**Complications:**
+- Peripancreatic fluid collections — aspirate and drain
+- Pseudocysts (~4 weeks) — observe for 12 weeks; half resolve, others treated with cystectomy
+- Pancreatic necrosis — conservative Mx (unless infected, which requires drainage/debridement)
+- Pancreatic abscess — requires drainage
+- Haemorrhage, ARDS
+
+> [!info] Glasgow score — mnemonic "PANCREAS"
+> PaO2 <8 kPa, Age >55, Neutrophils (WBC >15), Calcium <2 (hypocalcaemia), uRea >16, Enzymes (AST/ALT >200), Albumin <32, Sugar (glucose >10)
+>
+> **Why hypocalcaemia occurs:** released pancreatic lipase digests peripancreatic and mesenteric fat into free fatty acids, which then bind circulating calcium to form insoluble calcium soaps (saponification) — this consumes calcium directly, and the degree of hypocalcaemia broadly reflects the extent of fat necrosis, which is why it functions as a genuine severity marker here rather than an incidental electrolyte abnormality.
+
+### 0.11.1 Drugs associated with pancreatitis
+Azathioprine, mesalazine, bendroflumethiazide, furosemide, steroids, sodium valproate, didanosine, pentamidine
+
+---
+
+## 0.12 Chronic Pancreatitis
+
+**D:** recurrent or persistent pancreatic inflammation, resulting in scarring and loss of function. Divided into 4 types: recurrent acute, idiopathic, chronic relapsing, or established chronic.
+
+**R:** >75% associated with chronic alcohol use. Others: smoking, family history, coeliac disease.
+
+**A/P:** alcohol, CF, haemochromatosis, or ductal obstruction (including anatomical anomalies such as annular pancreas) → repeated inflammation → collagen deposits, fibrosis, pain.
+
+**S/Smx:** abdominal pain — epigastric, dull, radiates to back, relieved by sitting forward, worsens ~30 min after eating; jaundice; steatorrhoea; weight loss (due to fear of food causing pain); malnutrition; nausea/vomiting; bloating; DM (~20 years after symptoms begin).
+
+**Ix:** AXR (*why:* a simple first-line test that can be diagnostic if positive; *what:* pancreatic calcification in 30% — specific but not sensitive). CT (*why:* more sensitive for calcification, ductal changes, and complications (pseudocyst) than AXR; *what:* calcification, ductal dilation/strictures, atrophy). Functional tests — faecal elastase (*why:* assesses exocrine pancreatic function directly when the diagnosis is inconclusive from imaging alone, or to confirm exocrine insufficiency needing PERT; *what:* low faecal elastase indicates exocrine insufficiency).
+
+**Mx:**
+- **Immediate/acute** (pain flare): stepwise analgesia per the acute pain, escalating per the WHO pain ladder principles; manage as an acute presentation if superimposed acute-on-chronic pancreatitis.
+- **Definitive:** stop alcohol and smoking (the single most important intervention to slow progression); dietician referral (small meals, high protein); pancreatic enzyme replacement therapy (PERT) for exocrine insufficiency; endoscopic procedures to dilate strictures, remove stones, drain cysts; surgical decompression or PPPD for refractory pain/complications not amenable to endoscopic management.
+- **Chronic/long-term:** monitor for and manage DM as it develops (typically ~20 years after symptom onset); ongoing PERT titration; screen for pancreatic cancer risk (chronic pancreatitis is itself a risk factor) if new alarming symptoms develop; manage malnutrition/vitamin deficiencies from malabsorption.
+
+**P:** 20–30% lower survival than the general population. Cardiovascular disease is the most common cause of death in alcoholic pancreatitis.
+
+---
+
+## 0.14 Pancreatic Cancer
+
+**D:** primary pancreatic ductal adenocarcinoma (>90% of pancreatic cancers).
+
+**R:** smoking, family history, other hereditary cancer syndromes (e.g. Peutz-Jeghers, HNPCC, BRCA2, KRAS gene mutation), pancreatitis, DM
+
+**A/P:** 65% head of pancreas, 15% body, 10% tail, 10% multifocal. Lymph node metastases common, also perineural and vascular invasion. Distant metastases usually to liver, lung, skin, and brain.
+
+**S/Smx:**
+- Classically, painless jaundice + pale stools, dark urine, pruritus
+- Hepatomegaly, palpable gallbladder mass (Courvoisier's law = painless obstructive jaundice), epigastric mass
+- Non-specific: anorexia, weight loss
+- Loss of exocrine function (steatorrhoea)
+- Loss of endocrine function (DM)
+- Atypical back pain
+- Migratory thrombophlebitis (Trousseau sign), which can lead to DVT/PE
+
+**Ix:** US (*why:* often the first-line test given easy access, though limited by bowel gas/body habitus; *what:* sensitivity 60–90%, may show a mass or duct dilation). High-resolution CT — best if diagnosis suspected (*why:* superior for pancreatic and peripancreatic detail, staging (vascular involvement, resectability), and identifying the classic sign; *what:* "double duct sign" — simultaneous dilation of common bile and pancreatic ducts, highly suggestive of a periampullary/pancreatic head lesion). Ca19-9 (*why:* a tumour marker useful for supporting diagnosis and monitoring treatment response/recurrence, though non-specific; *what:* often markedly elevated, though can be falsely low in Lewis-antigen-negative individuals). LFTs (*why:* screens for the cholestatic pattern from biliary obstruction; *what:* raised ALP/bilirubin/GGT in an obstructive pattern).
+
+**Mx:**
+- **Immediate/acute** (presenting with cholangitis from biliary obstruction): treat as ascending cholangitis (antibiotics, resuscitation, urgent decompression).
+- **Definitive:** <20% suitable for surgery at diagnosis (most present with locally advanced or metastatic disease). Whipple's resection (pancreaticoduodenectomy/PPPD) for resectable head-of-pancreas lesions — side effects include dumping syndrome, peptic ulcer disease. Adjuvant chemotherapy after surgery to reduce recurrence risk.
+- **Chronic/long-term (unresectable/palliative):** ERCP with stenting for biliary obstruction palliation; palliative chemotherapy for fitness-appropriate patients; PERT for exocrine insufficiency; pain management (often requiring specialist palliative input given the classically severe back pain); early palliative care involvement given the poor prognosis.
+
+**P:** mean survival <6 months; 5-year survival 3% overall, 5–14% with Whipple's/PPPD.
+
+---
+
+## 0.15 Neuroendocrine Tumours (NETs / Carcinoid Tumours)
+
+> [!warning] FLAG 2026-09-01 — `M-13` carcinoid is split three ways and no file owns it
+> **This file has the disease entry. `Derm_merged.md:2084–2100` has the mechanism** — the
+> portal-circulation explanation (*"a gut carcinoid does not cause carcinoid syndrome until there are
+> hepatic metastases"*), carcinoid crisis, and the octreotide-before-anaesthesia warning.
+> **Endocrine is the third candidate.** `Derm_merged.md:2242` routes perioperative carcinoid risk to
+> `[[AN1]] 0.7`. **Flagged at all three ends; content left where it is. Not resolved.**
+
+Secretory NETs that release serotonin, kinins, and other vasoactive peptides. Carcinoid syndrome develops in only 40% of patients with NETs. If NETs metastasise to the liver, 95% of patients will develop symptoms.
+
+**R:** MEN1, ~50yo
+
+**A/P:** unknown
+
+**S/Smx (carcinoid syndrome):**
+> [!tip] Mnemonic "B-FDR": Bronchospasm, Flushing, Diarrhoea, Right heart valvular stenosis, + hypotension
+
+Other molecules such as ACTH and GHRH may be secreted — Cushing's syndrome may develop. Pellagra can rarely occur as dietary tryptophan is diverted to serotonin production by the tumour.
+
+**Ix:** U&Es (*why:* baseline; *what:* usually unremarkable unless complications). VIP radioimmunoassay (*why:* screens for VIPoma as a specific NET subtype causing profuse watery diarrhoea; *what:* elevated VIP supports this subtype). LFTs (*why:* screens for hepatic metastases, which are the trigger for systemic carcinoid syndrome (first-pass hepatic metabolism normally inactivates the secreted mediators, so syndrome typically only develops once liver metastases bypass this); *what:* may show metastatic involvement). Urinary 5-HIAA (*why:* the key diagnostic test — a breakdown product of serotonin, its 24h urinary level reflects tumour secretory activity; *what:* elevated in carcinoid syndrome). Plasma chromogranin A (*why:* a general NET tumour marker useful for diagnosis and monitoring treatment response/recurrence; *what:* elevated, though non-specific).
+
+**Mx:**
+- **Immediate/acute** (carcinoid crisis — severe flushing/bronchospasm/hypotension, often precipitated by anaesthesia/tumour manipulation): IV octreotide, avoid triggers (catecholamines can paradoxically worsen mediator release), supportive care.
+- **Definitive:** somatostatin analogues (octreotide) — both symptom control and some antiproliferative effect; surgical resection for localised disease; targeted radionuclide therapy or other systemic options for metastatic disease not covered in this source's scope.
+- **Chronic/long-term:** cyproheptadine for refractory diarrhoea; PERT if exocrine insufficiency develops (e.g. post-resection); regular monitoring for right heart valvular disease (echo surveillance, since this is a recognised carcinoid-syndrome complication requiring monitoring even when other symptoms are controlled); nutritional support/niacin supplementation if pellagra develops.
+
+---
+
+## 0.17 Coeliac Disease
+
+**D:** systemic autoimmune disease triggered by dietary gluten peptides found in wheat, rye, barley and related grains.
+
+**R:** family history, IgA deficiency, T1DM, autoimmune thyroid disease
+
+**A/P:** gluten peptides trigger innate and adaptive immune reaction → villous atrophy, hypertrophy of intestinal crypts, increased lymphocytes in epithelium and lamina propria → GI symptoms and malabsorption.
+
+**S/Smx:**
+- Diarrhoea: chronic or intermittent
+- Persistent/unexplained GI symptoms — nausea, vomiting, abdominal pain, cramping, distension (lactose intolerance may develop)
+- Weight loss (sudden or unexpected)
+- Fatigue or failure to thrive — likely due to iron-deficiency anaemia (or other anaemias) or vitamin deficiencies
+
+> [!note] Dermatitis herpetiformis — intensely pruritic papulovesicular lesions occurring symmetrically over extensor surfaces of arms/legs, buttocks, trunk, neck, scalp. Almost always associated with coeliac disease.
+
+**Ix:**
+
+> [!warning] Patients should remain on a gluten-containing diet for ≥6 weeks before testing, or results may be falsely negative.
+
+- Serology — IgA-tTG (tissue transglutaminase) + total IgA (to exclude IgA deficiency, which would cause a false-negative IgA-based test) (*why:* first-line, non-invasive screening test; *what:* elevated IgA-tTG supports the diagnosis; endomysial antibody (IgA) can be used as a confirmatory second serological test)
+- Endoscopic intestinal biopsy — duodenum usually, or jejunum (gold standard) (*why:* confirms the diagnosis histologically, still required even with strongly positive serology in most guidelines; *what:* villous atrophy, crypt hyperplasia, intraepithelial lymphocytosis)
+- Other Ix to look for complications (*why:* screens for the nutritional/haematological consequences of malabsorption; *what:* e.g. FBC for iron/B12/folate-deficiency anaemia)
+
+**Mx:**
+- **Definitive (no acute tier — chronic dietary management):** strict, lifelong gluten-free diet — the only effective treatment, and highly effective when adhered to.
+- **Chronic/long-term:** immunisations — pneumococcal vaccine every 5 years (due to hyposplenism — and see [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis for the fuller asplenia/hyposplenia regimen, which applies here too and includes meningococcal and Hib cover plus antibiotic prophylaxis — increased susceptibility to encapsulated organisms) + yearly influenza vaccine; monitor for and correct nutritional deficiencies (iron, B12, folate, vitamin D, calcium); bone density monitoring given osteoporosis risk; dietitian involvement for practical gluten-free diet support and to monitor adherence, especially where symptoms persist despite diagnosis (non-adherence is the most common reason for persistent symptoms).
+
+**P:** good — 90% complete, lasting symptom resolution on gluten-free diet; <1% refractory.
+
+---
+
+## 0.13 Small Bowel Bacterial Overgrowth Syndrome
+
+**D:** excessive bacteria in the small intestine causing dysfunction.
+
+**R:** neonates with congenital GI abnormalities, scleroderma, DM
+
+**S/Smx:** chronic diarrhoea, bloating, flatulence, abdominal pain
+
+**Ix:** hydrogen breath test (*why:* the standard non-invasive diagnostic test; *what:* early rise in breath hydrogen after a glucose/lactulose load indicates bacterial fermentation in the small bowel rather than the colon).
+
+**Mx:**
+- **Definitive:** correction of the underlying disorder driving stasis/dysmotility where identifiable (e.g. surgical correction of an anatomical abnormality); antibiotics (rifaximin — preferred given minimal systemic absorption and lower resistance-driving potential; co-amoxiclav or metronidazole as alternatives).
+- **Chronic/long-term:** recurrence is common if the underlying predisposing condition isn't corrected — may need repeated/cyclical antibiotic courses; nutritional support/vitamin supplementation (B12 deficiency in particular, from bacterial consumption) if malabsorption is significant.
+
+---
+
+## 0.40 Malabsorption
+
+> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, High yield, "unlikely covered") — not covered as a unifying topic in the source notes, though several individual causes (coeliac disease, chronic pancreatitis, SBBOS) are already built above and are cross-referenced here rather than repeated.
+
+**D:** Impaired absorption of one or more dietary nutrients, leading to their loss in stool and the downstream clinical consequences of the specific deficiency.
+
+**A (causes, cross-referencing sections already built in this file):**
+- **Mucosal disease:** coeliac disease (see above), Crohn's disease with small bowel involvement (see above), tropical sprue
+- **Pancreatic exocrine insufficiency:** chronic pancreatitis (see above), CF, pancreatic cancer obstructing the duct (see above)
+- **Bile salt deficiency/biliary obstruction:** PBC/PSC (see above), any cause of significant cholestasis
+- **Bacterial:** small bowel bacterial overgrowth (see above)
+- **Structural/post-surgical:** short bowel syndrome (post-resection), gastric bypass surgery
+- **Other:** lactose intolerance (specific to a single nutrient rather than global malabsorption)
+
+**S/Smx:** steatorrhoea (pale, bulky, offensive, difficult-to-flush stool — from fat malabsorption specifically), weight loss, failure to thrive (children), fatigue, symptoms of specific deficiencies — iron/B12/folate (anaemia), fat-soluble vitamins A/D/E/K (night blindness, osteomalacia/bone pain, neuropathy, easy bruising/coagulopathy respectively), calcium/magnesium (tetany, paraesthesia), protein (oedema from hypoalbuminaemia).
+
+**Ix:** the work-up is directed by the suspected underlying cause rather than a single generic panel — FBC and hematinics (*why:* screens for the anaemia pattern suggesting the specific deficiency and hence the likely site/cause of malabsorption; *what:* microcytic (iron), macrocytic (B12/folate) anaemia). Coeliac serology (*why:* screens for the single most common global cause; *what:* see Coeliac Disease section above). Faecal elastase (*why:* screens for pancreatic exocrine insufficiency; *what:* see Chronic Pancreatitis section above). Faecal fat testing (*why:* historically used to confirm fat malabsorption objectively, though largely superseded by more targeted cause-specific testing; *what:* elevated faecal fat confirms steatorrhoea). Vitamin/mineral levels (B12, folate, iron studies, vitamin D, calcium, magnesium) (*why:* directly quantifies the specific deficiencies present, guiding both diagnosis and replacement therapy; *what:* low levels per the specific nutrient affected). Hydrogen breath test if SBBOS suspected (see above).
+
+**Mx:**
+- **Definitive:** treat the underlying cause — cross-reference the relevant disease section above (gluten-free diet for coeliac, PERT for pancreatic insufficiency, antibiotics for SBBOS, etc.) rather than treating malabsorption as a generic entity.
+- **Chronic/long-term:** replace specific deficiencies identified (iron, B12, folate, fat-soluble vitamins, calcium/magnesium as needed); dietitian involvement for nutritional optimisation; monitor for and address the downstream complications of prolonged deficiency (osteoporosis from vitamin D/calcium deficiency, peripheral neuropathy from B12 deficiency).
+
+---
+
+## 0.16 Inflammatory Bowel Disease
+
+### 0.16.1 Crohn's Disease
+
+**D:** a type of IBD characterised by transmural inflammation of the GI tract.
+
+**R:** white ethnicity and Ashkenazi Jewish ancestry, age 15–40yo or 50–60yo, family history of Crohn's disease
+
+**A/P:** unknown cause (?genetic). Inflammation is transmural (all layers) → increased risk of strictures, fistulas, and adhesions. Affects mouth to anus, with skip lesions. 80% involve the small bowel (usually ileum); ~30% have ileitis exclusively.
+
+**S/Smx:** non-specific — weight loss, fatigue; diarrhoea ± bloody (if colitis); abdominal pain (especially in children); perianal disease (e.g. skin tags); extra-intestinal features (especially with colitis or perianal disease).
+
+**Ix:**
+- Bloods: FBC (*why:* screens for anaemia, a common complication from chronic blood loss/malabsorption/chronic disease; *what:* anaemia), ↑CRP/ESR (*why:* supports the inflammatory diagnosis and can be trended to monitor activity; *what:* elevated, CRP tracks disease activity reasonably well in Crohn's specifically), ↓vitamin B12 (*why:* screens for deficiency given terminal ileal disease/resection, the site of B12 absorption; *what:* low if ileal involvement significant), ↓vitamin D (*why:* screens for deficiency from malabsorption; *what:* often low); stool — ↑faecal calprotectin (*why:* a sensitive marker of intestinal inflammation, useful to distinguish IBD from IBS and to monitor disease activity non-invasively; *what:* elevated)
+- Colonoscopy (*why:* the key diagnostic test — direct visualisation and biopsy of the characteristic pattern; *what:* deep ulcers, skip lesions — patchy, discontinuous involvement)
+- Histology (*why:* confirms the diagnosis and distinguishes from UC histologically; *what:* transmural inflammation (full-thickness, unlike UC), goblet cells preserved (unlike UC), granulomas — a specific and helpful finding when present)
+- Small bowel enema/imaging — high sensitivity/specificity for terminal ileum exam (*why:* Crohn's most commonly affects the terminal ileum, an area colonoscopy may not fully reach/characterise, so dedicated small bowel imaging is often needed; *what:* strictures ('Kantor's string sign'), proximal bowel dilation, 'rose thorn' ulcers, fistulae)
+
+**Complications:** small bowel cancer (40x risk), colorectal cancer (2x risk), osteoporosis
+
+### 0.16.2 Ulcerative Colitis
+
+**D:** a type of IBD characteristically involving the rectum, extending proximally to affect a variable length of the colon.
+
+**R:** family history of IBD, HLA B27, infection
+
+**A/P:** unknown cause (?genetic). Inflammation limited to the submucosa (unless fulminant disease) and limited to the colon, unless there is an incompetent ileocaecal valve.
+
+**S/Smx:** bloody diarrhoea, urgency, tenesmus, abdominal pain (especially LLQ), extra-intestinal features.
+
+**Ix:**
+- Colonoscopy (avoid in severe colitis due to perforation risk — flexible sigmoidoscopy preferred) (*why:* the key diagnostic test — visualises the continuous, rectum-originating pattern distinguishing UC from Crohn's; *what:* no inflammation beyond submucosa (unlike transmural Crohn's), widespread ulceration with 'pseudopolyps')
+- Histology (*why:* confirms the diagnosis with UC-specific features; *what:* inflammatory cells within the lamina propria, crypt abscesses (neutrophils) — a characteristic UC finding, depletion of goblet cells and mucin — unlike the preserved goblet cells of Crohn's)
+- Barium enema (*why:* historically used, now largely superseded by colonoscopy but shows characteristic chronic changes; *what:* loss of haustrations, superficial ulceration, 'pseudopolyps', 'drain-pipe colon' (short, narrow colon) in long-standing disease)
+- Stool sample (*why:* non-invasive activity marker, as for Crohn's; *what:* ↑faecal calprotectin)
+
+### 0.16.3 Extra-intestinal features of IBD (both CD and UC)
+| Related to disease activity | Unrelated to disease activity |
+|---|---|
+| Arthritis (pauciarticular, asymmetric) | Arthritis (polyarticular, symmetric) |
+| Erythema nodosum | Uveitis |
+| Episcleritis | Pyoderma gangrenosum |
+| Osteoporosis | Clubbing |
+| | PSC (more common in UC) |
+
+### 0.16.4 Toxic megacolon
+Total or segmental non-obstructive colonic distension associated with systemic toxicity. Complication of colitis ± *C. difficile* infection.
+
+> [!danger] Diagnostic criteria (≥3 + radiographic evidence)
+> Fever >38.6°C, HR >120, WBC >10.5, anaemia, radiographical evidence of distension
+
+**Mx:**
+- **Immediate/acute:** treat underlying cause — if *C. diff*-positive, IV antibiotics; if severe colitis flare, IV steroids; NBM, IV fluids, close monitoring (serial AXR/clinical review) given the perforation risk.
+- **Definitive:** if no improvement in 72h, surgery (typically subtotal colectomy) — this is a genuine surgical emergency once medical therapy fails, not a condition to persist with medical Mx indefinitely.
+- **Chronic/long-term:** manage the underlying IBD once the acute crisis resolves, per the Crohn's/UC maintenance regimens above.
+
+### 0.16.5 Disease activity/severity scoring
+> [!info] For UC: Mayo classification (stool frequency, rectal bleeding, endoscopy findings, physician's global assessment) and Truelove & Witts severity index (stool frequency ≥6 = severe, blood in stool, T >37.8°C, HR >90 = severe, anaemia, ESR >30 = severe)
+>
+> For CD: Crohn's Disease Activity Index (general wellbeing, abdominal pain, number of liquid stools/day, abdominal mass, complications — arthralgia, uveitis, erythema nodosum, pyoderma gangrenosum, aphthous ulcers, anal fissure, new fistula, abscess)
+
+### 0.16.6 Mx of Crohn's disease
+
+> [!info] Verified against GESA-affiliated Australian gastroenterology literature (Medicine Today, Crohn's & Colitis Australia), Aug 2026 — the drug **classes** and overall stepped approach (5-ASA → corticosteroids for flares → thiopurines/methotrexate for maintenance → biologics for refractory/fistulising disease) are internationally standard and not materially different in Australia; no substantive change needed to the therapeutic logic below.
+> **Inducing remission:**
+> - Glucocorticoids (topical, PO, IV) ± enteral feeding
+> - 5-ASA (e.g. mesalazine)
+> - Add-ons: azathioprine, mercaptopurine, methotrexate
+> - Refractory disease/fistulas: infliximab (and other biologics — see warning below)
+> - Isolated perianal disease: metronidazole
+>
+> **Maintaining remission:** azathioprine or mercaptopurine (TPMT activity must be assessed first), or methotrexate
+>
+> **Surgery:** stricturing ileal disease — ileocaecal resection; segmental small bowel resection; stricturoplasty; perianal fistulae — MRI, PO metronidazole, draining seton (↓abscess risk); perianal abscess — I&D + antibiotics ± draining seton
+>
+> **Other notes:** stop smoking; ?stop NSAIDs/COCP
+>
+> [!info] Verified against Australian real-world registry data (AURORA study/ANZIBD Consortium; EVOLVE Expansion study, which specifically includes Australian sites), Aug 2026 — confirms current PBS-available biologics and gives genuine Australian-specific comparative data, resolving the earlier open flag here.
+> Beyond infliximab, **vedolizumab and ustekinumab are both PBS-listed and in active real-world Australian use for Crohn's disease** (ustekinumab now also available as a PBS-listed biosimilar, SteQeyma, since August 2025). Australian real-world data (AURORA study) supports ustekinumab's effectiveness and safety in Crohn's specifically; broader real-world registry data (not Australia-specific for this particular comparison) suggests ustekinumab shows superior treatment persistence compared to anti-TNF agents in Crohn's. This doesn't mean infliximab is obsolete — choice still depends on disease phenotype (e.g. fistulising disease), patient factors, and PBS eligibility criteria — but don't teach infliximab as the only/default first option; vedolizumab and ustekinumab are genuine, PBS-funded, actively-used alternatives in current Australian practice.
+
+### 0.16.7 Mx of Ulcerative Colitis
+
+> [!info] Verified against GESA-affiliated Australian gastroenterology literature, Aug 2026 — as with Crohn's above, the drug classes and stepped approach (topical/oral mesalazine → corticosteroids for flares → thiopurines for maintenance/relapse → biologics for refractory disease) are internationally standard, including in Australia; no material change needed to the therapeutic logic below.
+> **Inducing remission — mild to moderate UC:**
+> - Proctitis: rectal mesalazine → add PO mesalazine if no remission within 4 weeks ± topical/PO corticosteroids
+> - Proctosigmoiditis: rectal mesalazine → add PO mesalazine ± topical corticosteroids if no remission within 4 weeks → stop topical, use PO mesalazine and PO steroids
+> - Extensive disease: PO mesalazine + PO steroids → increase mesalazine dose if no remission within 4 weeks
+>
+> **Inducing remission — severe UC:** admit, IV steroids or ciclosporin; after 72h if no improvement, add ciclosporin or consider surgery
+>
+> **Maintaining remission:**
+> - Proctitis ± sigmoiditis: topical mesalazine daily or as needed and/or PO mesalazine
+> - Extensive disease: low maintenance dose of PO mesalazine
+>
+> **Severe relapse or ≥2 exacerbations in past year:** PO azathioprine or PO mercaptopurine (methotrexate is not effective in UC, unlike Crohn's — a genuine disease-specific distinction, not jurisdictional); ?probiotics may be useful
+>
+> [!info] Verified against the PANIC study (Persistence Australian National IBD Cohort — genuinely Australia-specific registry data), Aug 2026 — resolving the earlier open flag here with real Australian comparative-effectiveness data.
+> Beyond infliximab, **vedolizumab is PBS-listed and in active use for UC in Australia** (subject to 6-monthly PBS-funding review of ongoing disease control). The Australian PANIC study found **vedolizumab has longer treatment persistence than infliximab specifically when used first-line** in moderate-to-severe UC, though this advantage did not hold when vedolizumab was used second-line instead — a genuinely Australian-sourced, sequencing-relevant finding. As with Crohn's above, this doesn't make infliximab obsolete, but don't teach it as the only/default first option for UC either.
+
+**Complications of coeliac disease/IBD (general):** hyposplenism, anaemia (iron/folate/B12 deficiency), osteoporosis/osteomalacia, enteropathy-associated T-cell lymphoma, subfertility, oesophageal cancer
+
+---
+
+## 0.18 Appendicitis
+
+**D:** acute inflammation of the vermiform appendix.
+
+**A:** obstruction of the appendiceal lumen (e.g. faecolith, normal stool, or lymphoid hyperplasia)
+
+**P:** obstruction + bacterial growth → increased pressure and distension.
+
+> [!info] **Alvarado score (MANTRELS) — 10 points**
+> **Migration** of pain to the RIF (1) · **Anorexia** (1) · **Nausea**/vomiting (1) · **Tenderness** in the RLQ (**2**) · **Rebound** pain (1) · **Elevated** temperature >37.3°C (1) · **Leucocytosis** (**2**) · **Shift** to the left / neutrophil predominance (1).
+>
+> *The two weighted items are RLQ tenderness and leucocytosis, at 2 points each; the other six score 1.*
+>
+> **Interpretation:** **1–4** appendicitis unlikely · **5–6** compatible · **7–8** probable · **9–10** very probable.
+
+> [!warning] **Two corrections made during the duplicate-pair audit (2026-08-29).** This box previously scored **leucocytosis as 1**, which made the itemised components total **9** — while the same box then gave a threshold of **"≥10 in females"**, a score the list as written could not reach. Leucocytosis is worth **2**, and the total is **10**.
+>
+> The "**≥9 in males or ≥10 in females**" rule was also not the Alvarado interpretation; it is a garbled rendering of the standard **9–10 "very probable"** band, presented as a sex-specific cut-off that the score does not have.
+>
+> **The clinically useful point, which the original threshold obscured:** Alvarado is far better at **ruling out** than ruling in. A cut-point of **<5 has ~99% sensitivity** for excluding appendicitis, while the ≥7 "rule-in" cut-point performs **poorly for specificity, and worst in men (~57%)**. Use it to decide who can be safely observed or discharged, not to decide who goes to theatre. See `PENDING_GUIDELINE_CHECKS.md` **B45**.
+
+**Other signs:** Rovsing's sign (palpating LLQ causes RLQ pain), psoas sign (pain on hip extension if retrocaecal appendix), guarding and rigidity.
+
+**Ix:**
+- Bloods — CRP, ↑WCC (*why:* supports the inflammatory diagnosis and feeds into the Alvarado score; *what:* elevated inflammatory markers/leucocytosis with left shift)
+- Urine dip (*why:* excludes key differentials/mimics — pregnancy (ectopic) and UTI/pyelonephritis can present similarly; *what:* excludes pregnancy, UTI)
+- If Alvarado 4–6, CT scan (*why:* used for diagnostic uncertainty at intermediate probability, to avoid negative appendicectomy or missed diagnosis; *what:* confirms/excludes appendiceal inflammation directly); if ≥7, refer to surgeons (imaging generally not needed at high pre-test probability)
+- Imaging generally not indicated unless diagnostic uncertainty — ↑CRP + clinical picture usually sufficient (especially in children, where minimising radiation exposure matters). US not useful for visualising the appendix but can assess for gynaecological pathology mimics.
+
+**Mx:**
+- **Immediate/acute:** refer to surgeons + NBM; prophylactic IV antibiotics (e.g. co-amoxiclav + metronidazole) — reduces post-operative infective complications regardless of whether surgery proceeds.
+- **Definitive:** appendicectomy (usually laparoscopic) — remains the definitive treatment for most cases.
+- **Alternative (if unfit for surgery, or as an emerging option in selected uncomplicated cases):** IV antibiotics may be sufficient as sole treatment (recurrence risk 12–24%, so this is a genuine trade-off to discuss with the patient, not simply an inferior fallback).
+
+> [!note] See [[15_08_Paeds_-_Surgical_Abdomen__Appendicitis__Intussusception__Pyloric_Stenosis__Hirschsprung__Oesophageal_Atresia_]] Appendicitis for the paediatric-specific detail (genuinely uncommon <4 years old, the AIR score approach to risk-stratifying diagnosis, and paediatric-specific Ix sequencing favouring ultrasound first), not repeated here.
+
+---
+
+## 0.19 Small Bowel Obstruction (SBO)
+
+**D:** mechanical disruption in the patency of the small intestines.
+
+**R:** previous abdominal surgery (adhesions), malrotation, Crohn's disease, hernia, appendicitis, intestinal malignancy, intussusception, volvulus
+
+**S/Smx:** diffuse, central abdominal pain; nausea/vomiting (typically bilious/green); constipation with complete obstruction and absence of flatus; ± abdominal distension; ± tinkling bowel sounds
+
+**Ix:** CXR (*why:* quick screen for free air suggesting perforation, a surgical emergency changing Mx urgency; *what:* free subdiaphragmatic air if perforated). Abdominal XR (*why:* first-line, identifies dilated bowel loops supporting the diagnosis; *what:* dilated small bowel >3cm ± air-fluid levels). CT scan to confirm (*why:* identifies the transition point, cause, and screens for complications (ischaemia, closed-loop obstruction) that AXR cannot; *what:* confirms the level and cause of obstruction, e.g. adhesion band, hernia, mass).
+
+> [!tip] Imaging distinction: small bowel — valvulae conniventes extend all the way across; large bowel — haustra extend about one-third of the way across.
+
+**Mx:**
+- **Immediate/acute:** NBM + IV fluids + Ryles tube/NGT ("drip and suck" — relieves pressure and reduces vomiting/aspiration risk); analgesia.
+- **Definitive:** ± Gastrografin (osmotic contrast dye — can be both diagnostic, since its progression on repeat imaging predicts resolution, and mildly therapeutic by promoting resolution of partial obstruction); surgery if not settling with conservative management, or immediately if signs of ischaemia/strangulation/perforation.
+- **Chronic/long-term:** address the underlying cause where preventable (e.g. adhesiolysis technique at future surgery, hernia repair) to reduce recurrence risk.
+
+---
+
+## 0.20 Large Bowel Obstruction (LBO)
+
+**D:** mechanical disruption in the patency of the large intestines.
+
+**R:** colorectal cancer (and its risk factors), diverticular disease, current/previous hernia, gynaecological conditions, previous abdominal surgery, previous radiotherapy
+
+**A:** 60% colorectal cancer, 20% diverticular strictures, 5% volvulus (sigmoid in older patients, caecal in younger), rarely endometriosis
+
+**S/Smx:** constipation ± absence of flatus, abdominal pain ± distension, nausea/vomiting (late sign), ± peritonism if perforated bowel
+
+**Ix:** CXR (*why:* screens for free air/perforation as for SBO; *what:* free subdiaphragmatic air if perforated). Abdominal XR (*why:* identifies colonic dilation and its distribution; *what:* >6cm abnormal for colon, >9cm abnormal for caecum — the caecum is the highest-risk site for perforation given its thinner wall and larger diameter (Laplace's law); if incompetent ileocaecal valve, small bowel may also be distended >3cm). CT scan to confirm (*why:* identifies the transition point/cause and screens for complications; *what:* confirms level/cause — e.g. obstructing tumour, volvulus, stricture).
+
+**Mx:**
+- **Immediate/acute:** NBM + IV fluids + Ryles tube; analgesia; urgent surgery + IV antibiotics if perforated bowel or signs of ischaemia (a genuine emergency, unlike the more conservative-first approach for uncomplicated obstruction).
+- **Definitive:** conservative Mx may suffice for some causes (e.g. some volvulus can be decompressed endoscopically) — trial for 72h if tolerated and no red-flag features; surgery (often with the underlying cause treated concurrently, e.g. tumour resection) if not settling.
+- **Chronic/long-term:** treat the underlying cause definitively (e.g. oncological management for a malignant cause, once the acute obstruction is relieved).
+
+### 0.20.1 Sigmoid and Caecal Volvulus
+
+> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, "unlikely covered") — mentioned only as a percentage figure in the LBO aetiology above; given a brief dedicated entry here since the two are managed quite differently.
+
+**D:** Twisting of a bowel segment on its mesentery, causing a closed-loop obstruction with risk of vascular compromise. **Sigmoid volvulus** (more common, typically older patients with a long, redundant sigmoid mesentery, often institutionalised/chronic-constipation patients) vs **caecal volvulus** (typically younger patients, requires a congenitally mobile caecum, since the caecum is normally fixed retroperitoneally).
+
+**S/Smx:** as per LBO generally (constipation, distension, pain, vomiting), often with a more acute/rapid onset than tumour- or stricture-related LBO given the sudden mechanical twist.
+
+**Ix:** AXR (*why:* classically diagnostic without needing CT in many sigmoid volvulus cases; *what:* sigmoid volvulus — "coffee bean sign"; caecal volvulus — a dilated caecum often displaced towards the left upper quadrant, "kidney bean" appearance). CT (*why:* confirms the diagnosis when AXR is equivocal and assesses for ischaemia/complications; *what:* "whirl sign" from the twisted mesentery).
+
+**Mx:**
+- **Immediate/acute — sigmoid volvulus:** endoscopic (flexible sigmoidoscopy) decompression is first-line if no signs of ischaemia/perforation — often successful and avoids emergency surgery.
+- **Immediate/acute — caecal volvulus:** endoscopic decompression is generally unsuccessful/not recommended given the anatomy — surgery is usually required upfront (right hemicolectomy or caecopexy).
+- **Definitive:** given the high recurrence rate of sigmoid volvulus after endoscopic decompression alone, elective sigmoid resection is often recommended once the patient is stabilised, particularly after a second episode.
+- **Chronic/long-term:** manage predisposing factors where possible (chronic constipation management for sigmoid volvulus).
+
+---
+
+## 0.39 Ileus
+
+> [!note] Gap-filled from CSV (Gastroenterology & Hepatology category, Medium yield, "unlikely covered") — not covered in the source notes, which cover mechanical SBO/LBO in detail but not the non-mechanical differential.
+
+**D:** Paralytic/adynamic ileus — a functional (non-mechanical) failure of bowel peristalsis, as opposed to the mechanical blockages covered under SBO/LBO above. An important differential to distinguish from true mechanical obstruction, since the Mx approach differs.
+
+**R:** recent abdominal surgery (the most common cause — some degree of post-operative ileus is near-universal, becoming pathological if prolonged), electrolyte disturbance (especially hypokalaemia, hypomagnesaemia), peritonitis/intra-abdominal sepsis, opioid analgesia, retroperitoneal/spinal pathology, severe systemic illness.
+
+**A/P:** disruption of the coordinated neuromuscular activity of the bowel wall (rather than a physical blocking lesion) → failure of peristalsis → functional obstruction with the same downstream consequences as mechanical obstruction (distension, fluid/gas accumulation) despite no anatomical blockage.
+
+**S/Smx:** abdominal distension, absence of bowel sounds (a key distinguishing feature from mechanical obstruction, which classically has tinkling/hyperactive bowel sounds early on), nausea/vomiting, absence of flatus/stool, mild/diffuse discomfort rather than the colicky pain typical of mechanical obstruction.
+
+**Ix:** AXR (*why:* screens for the distribution of gas/distension, though distinguishing ileus from mechanical obstruction radiologically can be difficult; *what:* diffusely dilated bowel loops, both small and large bowel, without a clear transition point — unlike mechanical obstruction, which typically shows dilated bowel proximal to a transition point with collapsed bowel distally). U&Es incl. Mg (*why:* identifies and allows correction of an electrolyte trigger; *what:* may show hypokalaemia/hypomagnesaemia). CT (*why:* used when the distinction from mechanical obstruction is unclear on plain film, since Mx differs significantly; *what:* absence of a discrete transition point/obstructing lesion supports ileus over mechanical obstruction).
+
+**Mx:**
+- **Immediate/acute:** NBM, IV fluids, correct any electrolyte disturbance identified (especially K/Mg); NGT decompression if significant distension/vomiting; review and minimise opioid analgesia where possible (a common perpetuating factor, particularly post-operatively).
+- **Definitive:** treat the underlying precipitant (e.g. source control for intra-abdominal sepsis); mobilisation and early enteral feeding where tolerated (supports return of normal motility, especially post-operatively).
+- **Chronic/long-term:** most cases resolve once the precipitant is addressed; persistent/recurrent ileus warrants investigation for an underlying mechanical cause that may have been missed, or a chronic dysmotility syndrome.
+
+---
+
+## 0.37 Ischaemic Bowel Disease
+
+**D:** umbrella term including acute mesenteric ischaemia (further divided into embolic, thrombotic, or venous), chronic mesenteric ischaemia, and colonic ischaemia.
+
+**R:** ↑age, smoking, hypercoagulable state (e.g. previous VTE), atrial fibrillation, MI, history of vasculitis
+
+**A:** embolism (50%), thrombosis (15–20%), vasculitis, venous thrombosis (5%), hypoperfusion (e.g. shock, heart failure, recent surgery)
+
+**P:** ischaemia secondary to hypoperfusion of the intestinal segment.
+
+**S/Smx:** severe, sudden-onset abdominal pain out of keeping with physical findings; PR bleeding (melaena).
+
+**Ix:** urgent CT scan with contrast or CT angiogram (*why:* the key diagnostic test, directly visualises the mesenteric vasculature and bowel wall changes; *what:* identifies the occluded/narrowed vessel and any bowel wall changes suggesting infarction). Erect CXR (*why:* rapid screen for a late complication; *what:* shows free air if perforation present).
+
+**Mx:**
+- **Immediate/acute:** resuscitation + supportive care; empirical IV antibiotics (given bacterial translocation risk from compromised bowel wall); immediate laparotomy usually required, especially with advanced ischaemia signs (peritonism, signs of necrosis) — this is a time-critical surgical emergency given the risk of bowel necrosis/perforation.
+- **Chronic/long-term:** manage risk factors (anticoagulation for embolic sources e.g. AF, cardiovascular risk factor modification) — patient may need LMWH/long-term anticoagulation depending on the underlying cause.
+
+---
+
+## 0.36 Diverticular Disease
+
+**D:** clinical state caused by symptoms pertaining to colonic diverticula.
+- Colonic diverticulosis = herniation of mucosa and submucosa through the muscular layer of the colonic wall
+- Diverticulitis = inflammation of diverticula, possibly due to infection
+
+**R:** >50yo, low dietary fibre ± increased salt/meat/sugar intake, obesity, NSAID and opioid use
+
+**A/P:** low fibre diet → increased intestinal transit time → increased stool volume → increased intraluminal pressure and colonic segmentation → predisposes to diverticula formation.
+
+**S/Smx:** generally asymptomatic until inflamed (diverticulitis) — LLQ abdominal pain, ↑WCC, fever ± PR bleeding, bloating, constipation, diarrhoea; DRE — tenderness, palpable mass.
+
+**Ix:** FBC, U&Es, CRP (*why:* supports the inflammatory diagnosis and assesses severity/hydration status; *what:* raised WCC/CRP in diverticulitis). Colonoscopy, CT colonogram, or barium enema (*why:* confirms the diagnosis and extent of diverticulosis, typically performed electively after an acute episode settles rather than during active diverticulitis given perforation risk; *what:* identifies diverticula and their distribution). If acutely unwell, CXR and AXR (*why:* screens for free air/perforation as an urgent complication; *what:* free air if perforated).
+
+**Mx:**
+- **Immediate/acute:** mild attacks — conservative ± antibiotics; peri-colonic abscesses — drained surgically or radiologically (per Hinchey classification below).
+- **Definitive:** recurrent episodes requiring admission — segmental resection; Hinchey IV — resection + stoma (high risk of post-op complications given faecal peritonitis).
+- **Chronic/long-term:** increased dietary fibre intake to reduce recurrence risk.
+
+> [!info] Hinchey severity classification
+> I: para-colonic abscess | II: pelvic abscess | III: purulent peritonitis | IV: faecal peritonitis
+
+**P:** 1/3 of patients have recurrent diverticular disease, mostly within 5 years (higher risk in younger patients, abscess formation at index diagnosis). Associated with higher mortality, reduced response to therapy. After surgery, 1/4 of patients remain symptomatic.
+
+---
+
+## 0.21 Hernias
+
+**D:** protrusion of viscera through the wall of a cavity in which its contents are normally contained.
+
+**Divided into:** congenital vs acquired (acquired hernias arise due to abdominal wall weakness from ageing or previous surgery + increased abdominal pressure, e.g. heavy lifting, pregnancy).
+
+**Characteristics:**
+- **Reducible:** hernia can be manipulated back
+- **Irreducible:** cannot be reduced
+- **Incarcerated:** irreducible + painful
+- **Strangulated:** blood supply compromised, leading to ischaemia
+
+### 0.21.1 Types
+| Hernia | Features |
+|---|---|
+| Inguinal | 75% of abdominal wall hernias, M>>F; located above and medial to pubic tubercle; rarely strangulates; divided into direct/indirect (Mx same) |
+| Femoral | F>M, especially multiparous women; located below and lateral to pubic tubercle; high risk of incarceration and strangulation — must be repaired |
+| Umbilical | symmetrical bulge under umbilicus |
+| Paraumbilical | asymmetric bulge above/below umbilicus |
+| Epigastric | lump in the midline between xiphisternum and umbilicus; risk factors — extensive physical training, chronic coughing, obesity |
+| Incisional | up to 10% of abdominal operations |
+| Spigelian | aka lateral ventral hernia; through the spigelian fascia, roughly beside the rectus abdominis anteriorly |
+| Obturator | F>M; through the obturator foramen; typically presents with bowel obstruction + strangulation |
+| Richter | herniation of only part of the bowel wall (not the whole circumference); can strangulate without causing bowel obstruction |
+
+**S/Smx:** dependent on type/location; hernias should have a cough impulse (differentiates from other swellings, e.g. hydrocele). If strangulated: pain, fever, peritonism (abdominal rigidity), bowel obstruction (nausea/vomiting, distension), bowel ischaemia (melaena).
+
+**Ix:** clinical diagnosis (*why:* most hernias are diagnosed on history and examination alone; *what:* a palpable, reducible (or not) swelling with a cough impulse) ± CT to guide surgical management (*why:* used when the diagnosis is unclear, the anatomy is complex, or to assess for strangulation/bowel involvement pre-operatively; *what:* confirms hernia contents and any ischaemic change).
+
+**Mx:**
+- **Immediate/acute** (incarcerated/strangulated): emergency surgery — this is a time-critical presentation given the ischaemia risk, not managed expectantly.
+- **Definitive:** treat even if asymptomatic (prevents future incarceration/strangulation problems); most managed electively unless incarcerated/strangulated → emergency. Mesh repair to reinforce the abdominal wall. Unilateral inguinal hernias: open approach; bilateral and recurrent inguinal hernias: laparoscopic approach.
+- **Chronic/long-term:** if unfit for surgery, hernia support belts are the next best option for symptom control, though they don't reduce strangulation risk the way definitive repair does.
+
+---
+
+## 0.26 Colorectal Cancer
+
+**D:** cancers of the colon — majority are adenocarcinomas. 66% arise in the colon, 30% rectum; others include carcinoid tumours, GI stromal cell tumours (GISTs), lymphomas.
+
+**R:** ↑age, family history, genetic syndromes (e.g. Lynch syndrome), inflammatory bowel disease (especially pancolitis and left-sided colitis), obesity
+
+> [!danger] Red flags — urgent specialist referral
+> Altered bowel habits, rectal bleeding of any kind, abdominal pain and discomfort, unexplained weight loss, anaemia (any new iron-deficiency anaemia in an elderly patient is a red flag), bowel obstruction
+
+> [!info] Verified against the National Bowel Cancer Screening Program (Australian Government Department of Health), Aug 2026 — Australia's program differs materially from the UK figures this entry previously carried; the Australian figures are stated here on their own terms.
+> **Screening:** home-based faecal immunochemical test (FIT/iFOBT) — free, every 2 years. Eligibility lowered to age 45–74 (from 1 July 2024, down from the previous 50–74): people 50–74yo are automatically mailed a kit; people 45–49yo can request their first kit. All eligible people 45–74yo can also ask their GP for a kit. This is a single national program (not split by UK-style devolved-nation age bands). If abnormal, colonoscopy is offered.
+
+**Ix:** bloods — FBC (*why:* screens for iron-deficiency anaemia from chronic occult blood loss, often the presenting clue in right-sided tumours especially; *what:* microcytic anaemia). Endoscopy + colonoscopy if source of occult blood not established (*why:* the diagnostic gold standard — direct visualisation and biopsy; *what:* confirms the tumour and allows histological diagnosis). CT-TAP for staging (*why:* once diagnosed, staging determines resectability and screens for metastatic disease, guiding the treatment plan; *what:* defines local invasion, nodal involvement, and distant metastases — feeds into the Dukes'/TNM staging below).
+
+> [!info] Dukes' classification
+> A: tumour confined to mucosa (95% 5y survival) | B: invading bowel wall (80%) | C: lymph node metastases (65%) | D: distant metastases (5%)
+
+**Mx:**
+- **Immediate/acute** (presenting with obstruction/perforation): manage as per LBO/perforation pathways above — resuscitation, urgent surgery.
+> [!info] **Why this no longer says "2-week-wait" (Step 17, 2026-08-29).** **"2-week-wait" is a UK NHS pathway name**, not an Australian one, and it appeared five times across three files in this corpus. Australia's equivalent is the **Optimal Care Pathway** for each tumour stream (Cancer Australia), with referral urgency set by the pathway and by state-based criteria rather than by a single national two-week rule — see [[10_12_Oncology_-_Breast]], where this contrast is already verified and spelled out for breast cancer.
+>
+> **The clinical behaviour is unchanged** — a red flag still means urgent referral, and the red-flag lists themselves are not UK-specific. What was wrong was naming a UK administrative pathway as though it were the local one, which sends a reader looking for a referral route that does not exist here. **Do not substitute a specific Australian timeframe** without checking the relevant Optimal Care Pathway (see `PENDING_GUIDELINE_CHECKS.md` B39).
+
+- **Definitive:** patients meeting any red flag → **urgent specialist referral** (see the box below on the Australian framing). Resection is the mainstay:
+  - Caecal, ascending, or proximal transverse colon tumour → right hemicolectomy
+  - Distal transverse, descending colon tumour → left hemicolectomy
+  - Sigmoid colon → high anterior resection (preserves part of the rectum)
+  - Rectal tumours → anterior resection
+  - Anal verge tumours → abdomino-perineal excision of rectum
+
+  Most patients have an anastomosis where proximal and distal colon segments are rejoined; in emergency settings, end colostomies may be needed (can later be reversed, e.g. Hartmann's pouch). Chemotherapy or radiotherapy likely indicated before/after surgery depending on stage.
+- **Chronic/long-term:** surveillance colonoscopy post-resection to detect metachronous lesions/recurrence; ongoing oncology follow-up per stage; stoma care/support if applicable.
+
+### 0.26.1 Surgical procedures
+- **Low anterior resection (LAR) vs abdomino-perineal resection (APR):** APR removes the tumour along with the anal canal and sphincter complex; LAR preserves the remaining anorectum (& sphincter complex)
+- **Hartmann's procedure:** sigmoid colectomy + end colostomy + rectal pouch (Hartmann's pouch); reversal considered ~3 months after initial surgery
+
+### 0.26.2 Stoma types
+| | Ileostomy (loop/end) | Colostomy (loop/end) |
 |---|---|---|
-| **T1** | 2 | **Both built** — Acute Abdominal Pain, Upper Gastrointestinal Bleeding |
-| T2 | 7 | Not built — Acute Anorectal Pain, Acute Constipation, Acute Diarrhoea, Acute Hepatic Pain, Acute Nausea, Acute Pancreatic Pain, Acute Vomiting |
-| T3 | 52 | Not built |
+| Location | Mid/distal small bowel | Any part of large bowel |
+| Appearance | Spouted | Flush |
+| Mucosal folds | Prominent | Flat |
+| Colour | Dark pink/red | Light pink |
+| Most common side | Right | Left |
 
-## Topics skipped in this category
+---
 
-All 11 skips are T3, so none affects Tier 1 completeness.
+## 0.35 Irritable Bowel Syndrome (IBS)
 
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Abdominal Pain** | `## Abdominal Pain` | `History-Taking.md` | Exact |
-| **Constipation** | `## Constipation` | `History-Taking.md` | Exact |
-| **Diarrhoea** | `## Diarrhoea (Acute and Chronic, incl. Infective/Travel)` | `History-Taking.md` | Exact |
-| **Chronic Diarrhoea** | `### Chronic diarrhoea` | `15_07_Paeds_-_Abdominal_Pain...` | Exact — **but the match is inside a paediatric file**; check whether it covers the adult presentation |
-| **Jaundice** | `## Jaundice (history context)` | `History-Taking.md` | Exact |
-| **Dysphagia** | `## Dysphagia — approach` | `13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology.md` | Partial |
-| **Haematemesis** | `## GI Bleeding — Haematemesis, Melaena, Rectal Bleeding (history context)` | `History-Taking.md` | Partial — combined header |
-| **Melaena** | same combined header | `History-Taking.md` | Partial |
-| **Rectal Bleeding** | same combined header | `History-Taking.md` | Partial |
-| **Nausea** | `## Nausea and Vomiting` | `History-Taking.md` | Partial — combined header |
-| **Vomiting** | `## Nausea and Vomiting` | `History-Taking.md` | Partial — combined header |
+**D:** chronic condition characterised by abdominal pain associated with bowel dysfunction; no structural abnormality; multifactorial.
 
-> [!note] **Note on the T1 topic `Upper Gastrointestinal Bleeding`.** It was **built** despite the combined `GI Bleeding — Haematemesis, Melaena, Rectal Bleeding (history context)` header existing, because that header is explicitly **history context** and covers upper *and* lower bleeding together, whereas this is a T1 resuscitation-and-risk-stratification build. **Expect overlap and decide ownership on review.**
+**R:** physical and sexual abuse, PTSD, <50yo, F>M (2:1), previous enteric infection, family history, stress
+
+**A/P:** altered gastric motility, inflammatory or immune system involvement, microbiota changes, bile acid malabsorption; dysfunction in motor and sensory aspects of the GI tract.
+
+**Dx:** consider if ≥6 months of abdominal pain and/or bloating and/or change in bowel habit. Positive diagnosis if ≥2 of 4 (+ pain relieved by defecation): altered stool passage, abdominal bloating/distension/tension/hardness, symptoms worse with eating, passage of mucus.
+
+**Ix:** FBC, ESR/CRP (*why:* screens for an organic/inflammatory cause that would argue against a pure IBS diagnosis; *what:* normal in true IBS — any abnormality should prompt further work-up rather than accepting an IBS diagnosis), coeliac disease screen — IgA-tTG (*why:* coeliac disease is a common IBS mimic and must be excluded, since dietary management differs entirely; *what:* negative in true IBS). Enquire about red flags: rectal bleeding, unexplained weight loss, family history of bowel/ovarian cancer, >60yo (*why:* IBS is a diagnosis of exclusion in the presence of any red flag — these warrant further investigation rather than an IBS label; *what:* presence of any red flag should prompt colonoscopy/further work-up rather than accepting the IBS diagnosis).
+
+> [!info] Verified against eTG/GESA and AU general practice sources, Aug 2026 — the drug options below are largely internationally standard and still applicable in Australia, but the dietary advice should be updated to the **low-FODMAP diet**, developed at Monash University and specifically recommended as first-line dietary therapy by eTG/GESA — a much more Australian-relevant recommendation than generic high-fibre-limiting advice.
+> **Mx (Definitive/chronic — no acute tier, this is a chronic functional condition):** antispasmodic agents (e.g. hyoscine butylbromide), laxatives (not lactulose — osmotic laxatives like PEG preferred), loperamide — consider linaclotide if maximum loperamide or constipation ≥12 months; low-dose TCAs (amitriptyline 5–10mg preferred over SSRIs); peppermint oil as an additional antispasmodic option.
+>
+> **Dietary Mx (updated to Monash low-FODMAP approach):** the low-FODMAP diet (Monash University, Melbourne) is eTG/GESA's recommended first-line dietary intervention, with ~70% symptom response reported (vs ~50% for standard dietary advice). It is structured in 3 stages, not a "low-FODMAP forever" diet: **Stage 1 — Restriction** (4–6 weeks strict low-FODMAP); **Stage 2 — Reintroduction** (systematic testing of FODMAP subgroups one at a time to identify individual triggers); **Stage 3 — Personalisation** (long-term least-restrictive diet removing only confirmed triggers). Best delivered with dietitian involvement given its complexity — a simple "avoid high-fibre foods" handout (as older/UK-style general advice suggests) is a less evidence-based and less personalised approach than the structured Monash protocol.
+>
+> **Other:** psychological therapies (CBT, gut-directed hypnotherapy) have a reasonable evidence base; regular meals and eating slowly remain sensible general advice regardless of the specific dietary framework used.
+
+**P:** normal life expectancy, no long-term complications, but reduced quality of life.
+
+---
+
+## 0.25 Haemorrhoids
+
+**D:** vascular-rich connective tissue cushions located within the anal canal (3, 7, and 11 o'clock positions). Internal haemorrhoids lie proximal to the dentate line, external haemorrhoids distal.
+
+> [!info] Classes of internal haemorrhoids
+> Grade 1: protrusion within the anal canal | Grade 2: protrudes beyond the anal canal, reduces spontaneously on cessation of straining | Grade 3: reduces on manual pressure | Grade 4: irreducible
+
+**R:** 45–65yo, constipation, pregnancy, space-occupying pelvic lesion
+
+**A/P:** straining → haemorrhoids pulled lower and engorged → bleeding when epithelial lining is torn.
+
+**S/Smx:** fresh PR bleeding, perianal pain/discomfort ± pruritus, palpable lesion or mass
+
+**Ix:** anoscopic exam (*why:* directly visualises internal haemorrhoids, which aren't reliably seen on external inspection alone; *what:* confirms grade/extent). Colonoscopy or flexible sigmoidoscopy (*why:* excludes a more sinister proximal cause of PR bleeding, especially important in older patients or those with red-flag features, since haemorrhoids shouldn't be assumed to be the bleeding source without excluding malignancy first; *what:* excludes colorectal cancer/polyps as an alternative/additional cause). FBC, stool for occult blood if no significant tissue seen on exam (*why:* screens for chronic blood loss anaemia and supports further investigation if the visible haemorrhoids don't adequately explain the bleeding; *what:* may show iron-deficiency anaemia).
+
+**Mx:**
+- **Definitive (graded approach — no distinct acute/chronic split, staged by severity/grade instead):**
+  - Conservative — increased fibre/fluids ± topical steroids if pruritic — first-line for lower-grade disease.
+  - Rubber band ligation — first-line procedural option for higher-grade internal haemorrhoids not responding to conservative Mx.
+  - Other procedural options: sclerotherapy, photocoagulation, arterial ligation, staples.
+  - Surgical haemorrhoidectomy for grade 4 or external haemorrhoids, or when other measures fail.
+- **Chronic/long-term:** address the underlying constipation/straining pattern to reduce recurrence.
+
+**P:** recurrence likely if risk factors continue. Surgical treatment has the best outcome, with <20% recurrence versus rubber band ligation.
+
+---
+
+## 0.23 Anal Fissures
+
+**D:** a split in the skin of the distal anal canal. Chronic if >6 weeks, usually with features such as indurated edges, skin tags, visible internal anal sphincter fibres.
+
+**R:** hard stool, pregnancy (3rd trimester or post-partum), opiates (increased constipation), STIs (e.g. HIV, syphilis)
+
+**A/P:** hard stools tear the anal skin from the pectin at the dentate line; likely an ischaemic ulcer due to poor circulation and spasm of the internal anal sphincter → reduced healing.
+
+**S/Smx:** pain on defecation ("passing broken glass"); tearing/burning sensation; fresh blood on wiping (PR bleeding); anal spasm; ± sentinel pile (20%); visible fissure (40%)
+
+> [!danger] Do NOT perform a digital rectal exam (DRE) if anal fissure suspected.
+
+**Ix:** clinical diagnosis, no tests at initial presentation (*why:* the diagnosis is made on history and gentle inspection alone in most cases; *what:* visible fissure/sentinel pile on inspection). 2nd line: anal manometry and US in resistant fissures (*why:* used when initial medical therapy fails, to assess sphincter tone/anatomy before considering surgery; *what:* identifies sphincter hypertonia or structural abnormality).
+
+**Mx:**
+- **Immediate/acute (<1 week):** conservative — increased fibre and fluids, sitz bath, stool softeners, analgesics.
+
+> [!info] Verified — topical GTN and calcium channel blockers (e.g. diltiazem) for chronic anal fissure are standard, internationally-consistent first-line medical therapy, including in Australian colorectal/GP practice; no material AU-specific difference identified.
+> **Definitive (chronic, >6 weeks):** topical GTN or CCBs for 6–8 weeks even if symptoms resolve early (reduces recurrence risk).
+
+- **Definitive (medical therapy failure):** surgical treatment increases healing rate but carries incontinence risk — lateral internal sphincterotomy (LIS): a small portion of anal sphincter muscle is cut to reduce spasm/pain and promote healing.
+
+**P:** 60% achieve healing at 6–8 weeks; further 20% heal after topical diltiazem. Some relapse. Around 30% require surgery.
+
+---
+
+## 0.24 Anal Fistulae
+
+**D:** chronic manifestation of the acute perirectal process that forms an anal abscess. When drained, an epithelialised tract can form connecting the abscess in the anus/rectum with the perirectal skin.
+
+**R:** Crohn's disease, M>F (2:1), obstetric injury, pelvic radiation, rectal foreign bodies, infection (e.g. chlamydia L, TB), malignancy
+
+**A/P:** cryptoglandular fistulas originate from infected anal crypt glands. In Crohn's, penetrating inflammation causes these fistulae.
+
+**S/Smx:** non-healing anorectal abscess following drainage, or chronic pus/pustule-like lesion in the perianal area; intermittent rectal pain with defecation, sitting, activity; pruritus, excoriation, induration.
+
+**Ix:** clinical diagnosis (*why:* often apparent on inspection/EUA for simple fistulae; *what:* visible external opening, palpable tract). Imaging for complex fistulae (especially Crohn's) — MRI (*why:* the best modality for delineating complex/branching tracts and their relationship to the sphincter complex, critical for surgical planning to avoid incontinence; *what:* defines tract course/complexity), endosonography, fistulography (contrast + XR) as alternatives/adjuncts.
+
+**Mx:**
+- **Immediate/acute:** treat any active abscess component first (drainage) before definitive fistula management.
+- **Definitive:** EUA, fistulotomy (cut open the tract, curette, marsupialisation, packing) for simple, low fistulae not involving significant sphincter muscle; draining seton for complex fistulae (protects continence by allowing controlled drainage without cutting through significant sphincter muscle) — particularly relevant in Crohn's-associated fistulae, where healing is impaired and repeated surgery carries cumulative continence risk.
+- **Chronic/long-term:** for Crohn's-associated fistulae, optimise the underlying IBD medical therapy (see Crohn's Mx above) alongside/instead of aggressive surgery, since fistula healing is closely tied to controlling the underlying inflammation.
+
+**P:** non-complex fistula — low recurrence but risk of incontinence.
+
+---
+
+## 0.22 Pilonidal Disease
+
+**D:** "ingrown hairs" in the skin of the natal cleft of the sacrococcygeal area → chronic inflammatory reaction.
+
+**R:** M>F, 16–40yo, family history
+
+**A/P:** ingrown hair → inflammation → sinus formation + discharge ± infection
+
+**S/Smx:** painful ± purulent discharge; fluctuant swelling at the sacrum-coccyx; may be cyclical.
+
+**Mx:**
+- **Immediate/acute** (symptomatic/infected): I&D of sinuses, allow to heal by secondary intention + pain relief + antibiotics if infected.
+- **Definitive:** asymptomatic — clean carefully + hygiene (may not need active intervention); chronic/recurrent — excision of sinuses (including complete excision of cavities) for definitive management of recurrent disease.
+
+---
+
+## 0.42 Faecal Incontinence (Adult)
+
+> [!note] Gap-filled from CSV ("Faecal incontinence," found under Renal & Urology in the source spreadsheet, but genuinely a GI/colorectal topic) — the paediatric equivalent (encopresis, driven overwhelmingly by functional constipation/stool-withholding) is already built in [[15_10_Paeds_-_UTI__Nephrotic_Syndrome__Glomerulonephritis]] Encopresis (faecal incontinence), not repeated here — but adult faecal incontinence is a genuinely different condition with different dominant causes, and had no coverage anywhere. Verified against RACGP's Silver Book aged care guide and current Australian primary care research, Aug 2026.
+
+- **D:** the involuntary loss of solid or liquid stool, causing social or hygienic distress — a genuinely under-recognised and under-treated condition, not a rare or minor complaint. Australian primary care data show it affects roughly **12% of adults** seeking primary healthcare — more prevalent than diabetes, osteoporosis, and cancer *combined* — and it's the **second leading cause of nursing home placement**, reflecting how disabling it can become if unaddressed.
+- **R/A:** genuinely multifactorial, and often more than one cause coexists in the same patient:
+  - **Sphincter/structural damage:** obstetric anal sphincter injury (see [[16_10-13_Labour_and_Delivery]] for the acute perineal tear grading and repair, not repeated here — this is a recognised long-term consequence of that acute injury), previous anorectal surgery, rectal prolapse.
+  - **Neurological:** conditions affecting the nerve supply to the anal sphincter or the sensation of rectal filling — diabetic neuropathy, spinal cord injury/disease, multiple sclerosis, dementia (via impaired awareness/response to the urge, rather than a sphincter problem per se).
+  - **Overflow incontinence:** paradoxically, **severe chronic constipation with faecal impaction is a common cause of liquid stool leakage** around the impacted mass — a genuinely important, easily-missed pattern, since the presenting complaint (leaking loose stool) can superficially suggest diarrhoea-driven incontinence when the actual underlying problem is impaction requiring disimpaction, not anti-diarrhoeal treatment.
+  - **Loose stool/diarrhoea of any cause** — genuinely under-recognised as a risk factor by GPs despite being one of the most important, given even a normally-competent sphincter can be overwhelmed by urgency and looser stool consistency.
+  - **Cognitive/functional impairment** — particularly relevant in aged care settings, where immobility and impaired communication compound the risk.
+- **Ix:** a careful history (stool consistency, urgency vs passive leakage, obstetric/surgical history, associated urinary symptoms, medication review) and digital rectal examination (sphincter tone, faecal loading/impaction, rectal mass) form the essential first-line assessment; **anal manometry and endoanal ultrasound** are specialist investigations used to assess sphincter function and structural integrity respectively when conservative management fails or surgery is being considered — genuinely under-recognised by GPs as available tools, per Australian primary care survey data, rather than being niche or inaccessible investigations.
+- **Mx:**
+  - **Immediate/acute:** treat any identifiable reversible cause directly — disimpaction for overflow incontinence (a genuinely different, near-opposite treatment to what "incontinence" might intuitively suggest), treat active diarrhoeal illness, review and adjust contributing medications.
+  - **Definitive (first-line, most patients):** conservative management — dietary and bowel habit modification (fibre/fluid adjustment tailored to the underlying pattern), scheduled toileting, and **pelvic floor muscle training/biofeedback**, which has a genuine evidence base for improving sphincter function and symptom control in appropriately selected patients.
+  - **Chronic/long-term:** anti-motility agents (e.g. loperamide) where loose stool is a contributing factor, to firm stool consistency; referral to a specialist continence service or colorectal surgeon for refractory cases, where options include sacral nerve stimulation and surgical sphincter repair (sphincteroplasty) for confirmed structural defects.
+- **P:** genuinely treatable in a substantial proportion of patients with appropriate assessment and a structured conservative-first approach — the poor outcomes often reported reflect under-recognition and under-referral rather than the condition being inherently untreatable, which is precisely why active screening (rather than waiting for patients to volunteer this genuinely stigmatised symptom) matters.
 
 
 <!-- ===== SOURCE: NEW_Investigations_Gastroenterology.md ===== -->
@@ -4259,40 +4036,263 @@ All 11 skips are T3, so none affects Tier 1 completeness.
 
 > [!info] **Block 5 — `M-R1`, approved in your first ruling and executed now.** Dysphagia approach, pharyngeal pouch and globus deliberately STAY in ENT, as you specified.
 
-<!-- ===== SOURCE: 13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology.md ===== -->
-*Moved here from `ENT_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+<!-- ===== SOURCE: NEW_Drugs_12_Gastrointestinal.md ===== -->
 
-## 0.3 Barrett's oesophagus
 
-> [!warning] FLAG 2026-09-01 — `M-R1` approved for GI, and a stale pointer sits below
-> **`## 0.3 Barrett's oesophagus` and `## 0.4 Oesophageal carcinoma` are approved to move to
-> `GI_merged.md`** — both are taught in the GI block. `## 0.1 Dysphagia — approach`,
-> `## 0.5 Pharyngeal pouch` and `## 0.6 Globus pharyngeus` stay in ENT.
-> **Not yet executed: the move is held pending approval by destination.**
-> ⚠️ **The pointer `*(See also 03.08 for GORD…)*` below is WRONG. `03.08` is not GORD; GORD is
-> `03_Gastrointestinal §0.28`.** It has no wikilink and no filename, so neither `dangling.py` nor
-> `misaimed.py` can see it — **it must be fixed by hand when this section moves.**
+# NEW — Drug Classes: Gastrointestinal (AMH section 12)
 
-- **D:** metaplasia of the lower oesophageal mucosa (columnar epithelium replacing squamous epithelium).
-- **R:** GORD, M>F (7:1), smoking, central obesity.
-- **S/Smx:** GORD symptoms; Barrett's itself is asymptomatic.
-- **Ix:** endoscopy and biopsy required for histological diagnosis.
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
 
-> [!info] Metaplasia = cell transformation (squamous → columnar). Dysplasia = replacement of mature cells with less mature ones.
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
 
-*(See also 03.08 for GORD, and when patients get endoscopies for GORD.)*
+---
 
-- **Mx:** high-dose PPI (evidence uncertain). If metaplasia confirmed — endoscopic surveillance with biopsies every 3–5 years. If dysplasia — offer endoscopic interventions, including radiofrequency ablation and endoscopic mucosal resection.
+## 0.1 Drugs for Dyspepsia, Reflux and Peptic Ulcers
 
-## 0.4 Oesophageal carcinoma
+### 0.1.1 Proton Pump Inhibitors
+*(covers build-list classes: Proton Pump Inhibitors; Proton pump inhibitors — the same class listed twice with different capitalisation)*
+- **Mechanism:** irreversibly inhibit the gastric parietal cell **H⁺/K⁺-ATPase (the proton pump)** — the final common step of acid secretion. Because inhibition is irreversible, the effect outlasts the plasma level and takes days of dosing to reach full effect.
+- **Key agents:** **esomeprazole, omeprazole, pantoprazole, rabeprazole, lansoprazole**.
+- **Indications:** **gastro-oesophageal reflux disease and oesophagitis**; **peptic ulcer disease and *H. pylori* eradication**; **NSAID ulcer prophylaxis in at-risk patients**; **upper gastrointestinal bleeding**; Barrett oesophagus; Zollinger-Ellison syndrome; and eosinophilic oesophagitis.
+- **Practical:** take **30–60 minutes before a meal** — the pump must be activated by food for the drug to bind it. Taking a PPI at bedtime on an empty stomach is much less effective, and is a common reason for apparent failure.
 
-- **D:** neoplastic mucosal lesions, divided into SCC or adenocarcinoma (rarely other kinds).
+> [!danger] **PPIs ARE OVER-PRESCRIBED AND UNDER-REVIEWED. Deprescribing is an active clinical task, and Australia has its own guidance for it.**
+> Sources describe an **Australian deprescribing guide (NSW TAG)** and Australian guidance on **why, when and how** to deprescribe, and note that guidelines **advocate periodic review with strategies including dose reduction, on-demand or intermittent use, and switching to an H₂ antagonist.**
+> **Harms of long-term use reported in the sources:** **fractures** (with use beyond about a year), **kidney disease**, ***Clostridioides difficile* and other enteric infections**, **pneumonia**, **hypomagnesaemia** (described as occurring after at least 3 months and usually after a year), and **vitamin B₁₂ deficiency** (with use beyond about 2 years). Also iron and calcium malabsorption, and a signal for gastric atrophy and precancerous mucosal change with prolonged therapy.
+> **Rebound acid hypersecretion on stopping is real** and makes patients believe they still need the drug — **taper or step down rather than stopping abruptly**, and warn them.
+> **Every long-term PPI needs a documented indication.** Many patients started one during an admission for stress ulcer prophylaxis and are still on it years later.
 
-> [!info] Risk factors by histological subtype
-> - **SCC (upper 2/3):** smoking, alcohol, achalasia, Plummer-Vinson syndrome, ↑nitrosamines.
-> - **Adenocarcinoma (lower 1/3):** GORD, Barrett's oesophagus, smoking, obesity.
+- **Interactions:** **clopidogrel** — omeprazole and esomeprazole inhibit **CYP2C19**, reducing clopidogrel activation; **pantoprazole is generally preferred** when a PPI is needed with clopidogrel. Reduced absorption of **ketoconazole, itraconazole, atazanavir, rilpivirine, iron and calcium carbonate**; raised **methotrexate** levels.
+- ***H. pylori* eradication:** a PPI with **two or three antimicrobials** for a defined course; **check eradication after treatment** where indicated, and be aware that **clarithromycin resistance is rising**, which drives the move to quadruple and bismuth-based regimens. See `NEW_Investigations_Gastroenterology.md` and [[03_Gastrointestinal]].
 
-> [!danger] Red flag symptoms: dysphagia, anorexia, weight loss, vomiting, odynophagia, hoarseness, melaena, cough.
+> [!danger] **Do not treat dyspepsia with acid suppression without considering the ALARM features:** **dysphagia, odynophagia, unintentional weight loss, vomiting, gastrointestinal bleeding or anaemia, a palpable mass, persistent symptoms in a patient over 50 with new onset, or a family history of upper GI cancer.** These require **endoscopy**, not a trial of a PPI — and **acid suppression can mask a gastric cancer** while it progresses.
 
-- **Ix/Dx:** upper GI endoscopy for diagnosis. Endoscopic ultrasound for locoregional staging. CT or PET-CT for initial staging (metastases). Laparoscopy to detect occult peritoneal disease.
-- **Mx:** operable disease — surgical resection (risk of anastomotic leak). Adjuvant chemotherapy. Palliation if not operable.
+### 0.1.2 H₂ Antagonists
+- **Key agents:** **famotidine, nizatidine** (ranitidine was withdrawn worldwide over NDMA contamination; cimetidine is largely obsolete).
+- **Mechanism:** competitive antagonism at the parietal cell **histamine H₂ receptor**.
+- **Role:** less potent than PPIs, but **faster in onset** and useful for **on-demand symptom relief**, as a **step-down from a PPI when deprescribing**, and for **nocturnal acid breakthrough**. Tolerance develops within weeks of regular use.
+- **Adverse effects:** generally well tolerated; **confusion in the elderly and in renal impairment** (dose reduction needed); **cimetidine is a significant CYP inhibitor and antiandrogen** (gynaecomastia, impotence) — which is why it is not used.
+
+### 0.1.3 Antacids
+- **Key agents:** **aluminium hydroxide, magnesium hydroxide/trisilicate, calcium carbonate**, and combinations; **alginate** preparations (Gaviscon-type), which form a physical raft on the gastric contents.
+- **Role:** **rapid, short-lived symptom relief** — genuinely useful as needed and in pregnancy, where alginates and calcium-based antacids are first-line for reflux.
+- **Adverse effects:** **magnesium causes diarrhoea, aluminium causes constipation** (hence the combinations); **calcium carbonate causes acid rebound and, in excess, milk-alkali syndrome**; sodium content matters in heart failure and hypertension; aluminium accumulates in renal failure.
+- **Interactions:** **antacids bind and reduce absorption of many drugs — tetracyclines, quinolones, iron, thyroxine, bisphosphonates, integrase inhibitors and others. Separate doses by at least 2 hours.** This is one of the commonest silent causes of treatment failure.
+
+### 0.1.4 Other Drugs for Ulcers
+- **Sucralfate** — forms a protective barrier over ulcer bases; needs an acid environment (so do not give with a PPI at the same time), and **binds other drugs** — separate doses.
+- **Misoprostol** — a prostaglandin analogue for NSAID ulcer prophylaxis; largely displaced by PPIs because it causes **diarrhoea and abdominal cramps**. **It is an abortifacient and uterotonic and is absolutely contraindicated in pregnancy** — and is used deliberately for that purpose in obstetrics (see `NEW_Drugs_16_Obstetric_and_Gynaecological.md` 0.10.1).
+- **Bismuth compounds** — mucosal protection and anti-*H. pylori* activity; blacken the tongue and stool (**do not confuse with melaena**).
+- **Potassium-competitive acid blockers (vonoprazan)** — a newer class with faster, more sustained acid suppression, used in *H. pylori* regimens where available.
+
+## 0.2 Antiemetics
+
+> [!info] **Choose the antiemetic by the MECHANISM of the vomiting, not by habit.** Chemotherapy and postoperative nausea → **5-HT₃ antagonist** ± dexamethasone ± NK₁ antagonist. Gastric stasis and reflux-associated nausea → **prokinetic dopamine antagonist**. Vestibular and motion-related → **antihistamine or anticholinergic**. Raised intracranial pressure → **dexamethasone**. Drug- and metabolically-driven (opioids, uraemia, hypercalcaemia) → **dopamine antagonist**. **And treat the cause** — nausea is a symptom, and bowel obstruction, raised ICP, pregnancy, DKA, hypercalcaemia and drug toxicity all present this way.
+
+### 0.2.1 5-HT₃ Antagonists
+- **Key agents:** **ondansetron, granisetron, palonosetron, tropisetron**.
+- **Mechanism:** block **serotonin 5-HT₃** receptors on vagal afferents in the gut and in the chemoreceptor trigger zone.
+- **Indications:** **chemotherapy- and radiotherapy-induced nausea and vomiting**, **postoperative nausea and vomiting**, and widely (often as first-line) in acute gastroenteritis and undifferentiated vomiting in emergency departments.
+- **Adverse effects:** **CONSTIPATION** (very common and frequently the cause of the abdominal pain the patient develops next), headache, flushing; **QT PROLONGATION** — sources note ondansetron should be **avoided where there are risk factors for QT prolongation or in combination with other serotonergic medicines**; and, rarely, extrapyramidal reactions and serotonin syndrome.
+- **Pregnancy:** sources note **a potential association between ondansetron and cleft lip/palate**, and advise it should be **started in secondary care or after obstetric discussion** — so it is not the first choice in early pregnancy.
+
+### 0.2.2 Dopamine Antagonists (Antiemetic)
+- **Key agents:** **metoclopramide** (also prokinetic), **domperidone**, **prochlorperazine**, **droperidol**, **haloperidol** (widely used in palliative care), and the phenothiazines.
+- **Mechanism:** **D₂ antagonism** at the chemoreceptor trigger zone; metoclopramide and domperidone additionally act peripherally on the gut to **increase gastric emptying**.
+
+> [!danger] **METOCLOPRAMIDE: EXTRAPYRAMIDAL REACTIONS AND TARDIVE DYSKINESIA, AND THE SHORT-COURSE RESTRICTION.**
+> Sources state that **metoclopramide should only be prescribed for short-term use (up to about 5 days)**, and **should not be used beyond 12 weeks because of tardive dyskinesia, which can be irreversible.** **Acute dystonic reactions — oculogyric crisis, torticollis, trismus — are frightening, are often misdiagnosed as a psychiatric or neurological event, and are commonest in YOUNG WOMEN AND THE ELDERLY.** Treatment is **benztropine or an anticholinergic**, and it resolves quickly. **Prochlorperazine carries the same risk.**
+> **Avoid dopamine antagonists in Parkinson disease** — they worsen it. **Domperidone does not cross the blood-brain barrier appreciably** and is therefore the prokinetic of choice in Parkinson disease, **but it prolongs the QT** and has its own cardiac restrictions.
+> **Metoclopramide is considered safe in pregnancy** and is used, but sources place it as **second-line because of the extrapyramidal and tardive dyskinesia risk**.
+
+- **Other adverse effects:** sedation, hyperprolactinaemia (galactorrhoea, gynaecomastia, amenorrhoea — see `NEW_Drugs_10_Endocrine.md` 0.5.3), postural hypotension, and neuroleptic malignant syndrome.
+- **Contraindication:** **do not give a prokinetic in suspected mechanical bowel obstruction or perforation.**
+
+### 0.2.3 Substance P (NK₁) Antagonists
+- **Key agents:** **aprepitant** and its intravenous prodrug **fosaprepitant**; netupitant, rolapitant.
+- **Mechanism:** block the **neurokinin-1 receptor** for substance P centrally.
+- **Role:** **highly emetogenic chemotherapy**, in a triple regimen with a **5-HT₃ antagonist and dexamethasone** — particularly effective for **DELAYED** chemotherapy-induced nausea, which the 5-HT₃ antagonists control poorly. Also used in postoperative nausea prophylaxis.
+- **Adverse effects:** fatigue, hiccups, constipation; **CYP3A4 interactions** — it affects dexamethasone, some chemotherapy agents, warfarin and **hormonal contraceptives (additional contraception is needed)**.
+
+### 0.2.4 Other Drugs for Nausea and Vomiting
+- **Antihistamines and anticholinergics — promethazine, cyclizine, hyoscine hydrobromide.** For **motion sickness and vestibular causes**, where they are genuinely first-line. Sedating and anticholinergic; **avoid in the elderly** (delirium, falls, retention).
+- **Corticosteroids — dexamethasone.** Effective in chemotherapy and postoperative nausea, and specifically for nausea from **raised intracranial pressure** and malignant bowel obstruction.
+- **Benzodiazepines** — for **anticipatory** nausea before chemotherapy.
+- **Cannabinoids (nabilone)** — refractory chemotherapy-induced nausea.
+- **Pyridoxine and doxylamine** — the evidence-based first-line for **nausea and vomiting of pregnancy** in many guidelines, with ginger and non-drug measures. **Hyperemesis gravidarum requires assessment for dehydration, ketosis, electrolyte disturbance and thiamine deficiency** — and **thiamine must be given before glucose-containing fluids** (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.4.2).
+- **Non-drug:** hydration, small frequent meals, treating pain and constipation, and removing the offending drug.
+
+## 0.3 Drugs Affecting Gastrointestinal Motility
+
+- **Prokinetics:** **metoclopramide** and **domperidone** (D₂ antagonism plus cholinergic facilitation); **erythromycin** (a **motilin receptor agonist** — used deliberately at low dose for gastroparesis and before endoscopy in upper GI bleeding to clear the stomach); prucalopride (a 5-HT₄ agonist for chronic constipation).
+- **Indications:** **gastroparesis** (diabetic, post-surgical, idiopathic), functional dyspepsia with delayed emptying, feed intolerance in critical illness, and to aid post-pyloric feeding tube placement.
+- **Antispasmodics:** **hyoscine butylbromide** (Buscopan — poorly absorbed orally, useful parenterally for colic), **mebeverine**, **peppermint oil** — for **irritable bowel syndrome** and colicky pain. Peppermint oil has reasonable evidence in IBS and few adverse effects.
+- **Antimotility agents:** see 0.4.
+- **Cautions:** the **tardive dyskinesia and duration limits** on metoclopramide (0.2.2) apply here too and are the main reason long-term prokinetic therapy is difficult; **erythromycin causes tachyphylaxis within weeks** and carries QT and interaction risks.
+
+> [!danger] **Never give a prokinetic or a laxative when mechanical obstruction or perforation is possible.** In malignant bowel obstruction, management is specialist and often uses **hyoscine butylbromide, octreotide and dexamethasone** rather than prokinetics.
+
+## 0.4 Antidiarrhoeals
+
+### 0.4.1 Opioid Antidiarrhoeals
+- **Key agents:** **loperamide**, **diphenoxylate with atropine**, codeine, and **opium tincture** in specialist settings.
+- **Mechanism:** **µ-opioid receptor agonism in the myenteric plexus** → reduced propulsive motility and increased transit time, allowing more fluid absorption. **Loperamide does not appreciably cross the blood-brain barrier at normal doses**, so it has no analgesic or euphoric effect.
+- **Indications:** **symptomatic control of non-infective diarrhoea** — IBS-D, short bowel and high-output stoma, chemotherapy-induced diarrhoea, and faecal incontinence.
+
+> [!danger] **DO NOT GIVE ANTIMOTILITY AGENTS IN BLOODY, FEBRILE OR SUSPECTED INVASIVE DIARRHOEA, OR IN SUSPECTED *C. DIFFICILE*.**
+> Slowing transit prolongs exposure to toxin and organism and is associated with **toxic megacolon** and, in Shiga-toxin-producing *E. coli*, an increased risk of **haemolytic uraemic syndrome**. **They are also avoided in acute severe ulcerative colitis.** **In children, antimotility agents are generally avoided altogether** — oral rehydration is the treatment.
+
+> [!danger] **LOPERAMIDE CARDIAC TOXICITY IN OVERDOSE — a genuinely modern problem.**
+> Sources describe an **FDA statement (2016) on heart effects and death with high doses**, note the usual recommended maximum is around **8 mg/day**, and report cardiac toxicity especially with chronic ingestion of **more than 100 mg/day**. The mechanism is **blockade of cardiac hERG (Kv11.1) potassium channels causing QT prolongation, and Nav1.5 sodium channels causing QRS widening**, producing **torsades de pointes, ventricular dysrhythmias, cardiac arrest and death.** **It is misused at very high doses to self-treat opioid withdrawal or to obtain euphoria** — so **ask about loperamide in any unexplained wide-complex or long-QT arrhythmia in a young person**, and recognise that it is cheap and available without prescription.
+- **Diphenoxylate with atropine** — the atropine is included deliberately to deter misuse; **overdose in children causes opioid and anticholinergic toxicity and has been fatal.** Store safely.
+
+### 0.4.2 Other Drugs for Diarrhoea
+- **Oral rehydration solution — the single most important treatment**, and consistently under-used (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.3.5).
+- **Octreotide** — high-output stomas and fistulas, carcinoid and chemotherapy-related diarrhoea.
+- **Bile acid sequestrants (colestyramine, colesevelam)** — for **bile acid diarrhoea**, which is common, easily missed, and dramatically responsive: think of it after **cholecystectomy, terminal ileal resection or Crohn disease**, and in "IBS-D" that has never been properly explained. See 0.8.
+- **Racecadotril** (an enkephalinase inhibitor, antisecretory rather than antimotility) and **probiotics** (modest evidence in antibiotic-associated diarrhoea).
+- **Treat the cause:** stop the offending drug (**antibiotics, metformin, colchicine, magnesium, PPIs, laxatives**), test for **infection including *C. difficile***, and consider **coeliac disease, IBD, malabsorption, hyperthyroidism, and overflow from constipation** — the last being a very common trap in the elderly and in children, where treating the "diarrhoea" makes it worse.
+
+## 0.5 Laxatives
+
+> [!info] **Match the laxative to the problem, and start with the non-drug measures that actually work:** fluid, fibre, activity, toileting routine and privacy, and reviewing constipating drugs (**opioids, anticholinergics, iron, calcium channel blockers, ondansetron, antipsychotics, diuretics**).
+
+### 0.5.1 Osmotic Laxatives
+- **Key agents:** **macrogol (polyethylene glycol)**, **lactulose**, **sorbitol**, **magnesium salts**, **phosphate enemas**.
+- **Mechanism:** osmotically retain water in the bowel lumen, softening stool and increasing volume, which stimulates peristalsis.
+- **Role:** **macrogol is generally first-line** for chronic constipation and faecal impaction in adults and children — it is effective, well tolerated and does not require an intact colonic response.
+- **Adverse effects:** bloating and flatulence (**lactulose particularly**, as it is fermented by colonic bacteria); dehydration and electrolyte disturbance with large volumes; **magnesium accumulates in renal impairment**; **phosphate enemas can cause severe hyperphosphataemia, hypocalcaemia and acute kidney injury — avoid in renal impairment, in the elderly, and in bowel obstruction.**
+- **Lactulose has a second, unrelated indication:** **hepatic encephalopathy**, where it reduces ammonia absorption — dosed to a target stool frequency.
+
+### 0.5.2 Stimulant Laxatives
+- **Key agents:** **senna**, **bisacodyl**, **sodium picosulfate**, **docusate with senna** combinations, glycerol suppositories.
+- **Mechanism:** stimulate enteric nerves and colonic motility, and reduce water absorption.
+- **Role:** **essential in opioid-induced constipation**, where a softener alone is inadequate because the problem is reduced motility. **Co-prescribe with every regular opioid** — this is one of the commonest omissions in ward prescribing (see `NEW_Drugs_03_Analgesics.md` 0.4.4).
+- **Adverse effects:** **cramping and colic** (dose-related), electrolyte disturbance with prolonged use, and melanosis coli with senna (benign and reversible). **The old teaching that stimulant laxatives cause a permanently "atonic colon" is not well supported** — under-treatment of constipation causes more harm than long-term stimulant use.
+- **Contraindication:** **suspected bowel obstruction.**
+
+### 0.5.3 Stool Softeners
+- **Key agents:** **docusate sodium**, and **liquid paraffin** (largely avoided).
+- **Mechanism:** surfactants that allow water and fat to penetrate the stool.
+- **Role:** **weak. The evidence for docusate as a single agent is poor**, and it is one of the most widely prescribed and least effective drugs on the ward — usually appearing where a stimulant or osmotic agent is what is needed. It has a place combined with a stimulant, and where straining must be avoided.
+- **Liquid paraffin** — risk of **lipoid pneumonia if aspirated** (avoid in the elderly, dysphagic and bed-bound), anal seepage, and impaired fat-soluble vitamin absorption.
+
+### 0.5.4 Other Laxatives
+- **Bulk-forming agents — psyllium/ispaghula, sterculia, methylcellulose.** Increase stool bulk and water content. **Must be taken with adequate fluid — otherwise they cause obstruction**, and they are **inappropriate in opioid-induced constipation and in patients with poor fluid intake or slow transit**.
+- **Peripherally acting µ-opioid receptor antagonists — methylnaltrexone, naloxegol, and oxycodone/naloxone combinations.** Block gut opioid receptors **without reversing analgesia** — genuinely useful in refractory opioid-induced constipation, particularly in palliative care.
+- **Secretagogues — lubiprostone, linaclotide** — for chronic idiopathic constipation and IBS-C.
+- **Prucalopride** — a selective 5-HT₄ agonist for chronic constipation refractory to laxatives.
+- **Enemas and suppositories** — for faecal loading and impaction; **manual evacuation** is sometimes necessary.
+
+> [!danger] **Do not ignore constipation as a symptom.** **New, persistent change in bowel habit in an adult over 50, with rectal bleeding, weight loss or anaemia, is colorectal cancer until excluded.** **Faecal impaction with overflow diarrhoea** is regularly misdiagnosed and mistreated with antidiarrhoeals. **Constipation in a patient with new back pain and neurological symptoms raises spinal cord compression or cauda equina.** And **severe constipation with vomiting and distension is obstruction until proven otherwise** — do not give a stimulant laxative.
+
+## 0.6 Drugs for Inflammatory Bowel Diseases
+
+### 0.6.1 5-Aminosalicylates
+- **Key agents:** **mesalazine** (oral, and topical as suppositories and enemas), **sulfasalazine**, olsalazine, balsalazide.
+- **Mechanism:** topical anti-inflammatory action on the colonic mucosa (multiple pathways including COX/LOX and NF-κB); the different formulations are designed to **release the drug at different points in the bowel**, which is why formulation choice matters.
+- **Role:** **first-line for mild-to-moderate ULCERATIVE COLITIS**, for induction and maintenance of remission; **much less effective in Crohn disease**. **Topical (rectal) mesalazine is more effective than oral for distal and left-sided disease and is substantially under-used** — combining oral and topical is better than either alone.
+- **Adverse effects:** generally well tolerated; headache, nausea, diarrhoea; **interstitial nephritis — uncommon but important, so renal function is monitored**; pancreatitis; and paradoxical worsening of colitis.
+- **Sulfasalazine** has more adverse effects (it contains a sulfapyridine moiety): rash, haemolysis in **G6PD deficiency**, **reversible oligospermia**, folate deficiency (supplement folate), and orange discolouration of urine and contact lenses. It retains a place because it also treats the **peripheral arthritis** of IBD and is used in rheumatoid arthritis.
+- **A real benefit worth knowing:** long-term 5-ASA is associated with **reduced colorectal cancer risk** in ulcerative colitis.
+
+### 0.6.2 Corticosteroids (Gastrointestinal)
+- **Key agents:** **prednisolone** (oral), **hydrocortisone/methylprednisolone** (intravenous, for acute severe colitis), **budesonide** (oral, with high first-pass metabolism so fewer systemic effects — used in ileocaecal Crohn disease and microscopic colitis), and **rectal preparations** (hydrocortisone and budesonide foams and enemas).
+- **Role:** **induce remission in a flare — they do NOT maintain it.** This is the central point: **steroids are a bridge to a maintenance agent**, and a patient who cannot come off them, or who flares each time they are weaned, is **steroid-dependent and needs escalation to an immunomodulator or biologic, not another course.**
+- **Adverse effects:** the full systemic corticosteroid profile (see `NEW_Drugs_10_Endocrine.md` 0.5.1), with **bone protection, glucose monitoring and adrenal considerations** on any prolonged or repeated course.
+
+### 0.6.3 Other Drugs for Inflammatory Bowel Disease
+- **Thiopurines — azathioprine, mercaptopurine.** Steroid-sparing maintenance. **Check TPMT and NUDT15 before starting** (see `NEW_Investigations_General_and_Preventive.md` 0.16), **monitor FBC and LFTs**, and remember the **azathioprine–allopurinol interaction**, which causes life-threatening myelosuppression. Long-term risks include **lymphoma and non-melanoma skin cancer** — **sun protection and skin surveillance are part of the prescription, and matter particularly in Australia.**
+- **Methotrexate** — for Crohn disease; **once weekly** (see `NEW_Drugs_08_Dermatological.md` 0.3.4 for the fatal-error warning).
+- **Biologics** — anti-TNF (**infliximab, adalimumab**), anti-integrin (**vedolizumab**, gut-selective), anti-IL-12/23 (**ustekinumab**) and anti-IL-23 agents; and **oral small molecules** — **JAK inhibitors (tofacitinib, upadacitinib)** and **S1P modulators (ozanimod)**. **PBS criteria in Australia are specific and change.**
+- **Ciclosporin** — rescue therapy in acute severe ulcerative colitis.
+- **Antibiotics** — for perianal and fistulising Crohn disease and for septic complications, not as primary therapy.
+
+> [!danger] **ACUTE SEVERE ULCERATIVE COLITIS IS A MEDICAL EMERGENCY WITH A REAL MORTALITY.**
+> Bloody diarrhoea with systemic upset requires **admission, intravenous corticosteroids, VTE prophylaxis (IBD is strongly prothrombotic — and bloody diarrhoea is NOT a contraindication to prophylactic anticoagulation), stool studies including *C. difficile*, exclusion of CMV, and early JOINT MEDICAL AND SURGICAL review.** **Avoid opioids, antimotility agents and NSAIDs** — all associated with toxic megacolon. **Daily assessment with stool frequency, CRP and abdominal examination determines whether rescue therapy or colectomy is needed** — deterioration must not be allowed to drift.
+
+> [!danger] **BEFORE ANY IMMUNOSUPPRESSANT OR BIOLOGIC: screen for latent TB, hepatitis B and C, and HIV; vaccinate (including live vaccines) BEFORE starting; and consider Strongyloides serology.** See `NEW_Drugs_05_Anti_infectives.md` 0.6.3.
+
+## 0.7 Drugs for Perianal Disorders
+
+- **Key agents:** topical preparations combining a **local anaesthetic** (lidocaine, cinchocaine), a **corticosteroid**, and sometimes an astringent or antiseptic; **glyceryl trinitrate 0.2% ointment** and **topical diltiazem** for anal fissure; **botulinum toxin** injection; and **oral flavonoids** for haemorrhoids.
+- **Indications:** **haemorrhoids, anal fissure, pruritus ani, proctitis.**
+- **Practical points:**
+  - **The foundation of treatment is stool softening and avoiding straining** — a bulk-forming or osmotic laxative, adequate fluid, and not sitting on the toilet reading. Topical agents relieve symptoms; **the laxative treats the cause**.
+  - **Topical corticosteroid preparations should be used for SHORT courses only** — prolonged use causes perianal skin atrophy and can worsen pruritus ani.
+  - **GTN and diltiazem work by relieving internal anal sphincter spasm** in fissure, allowing healing. **GTN causes headache in a large proportion of patients** — warn them, or they will stop; topical diltiazem causes less.
+  - **Pruritus ani is usually made worse by treatment** — soaps, wipes, scrubbing and topical anaesthetics all perpetuate it. **The advice is to stop everything, wash with water only, pat dry, and avoid scratching.**
+
+> [!danger] **NEVER attribute rectal bleeding to haemorrhoids without examining the patient and considering colorectal cancer.** **Digital rectal examination and proctoscopy at minimum; colonoscopy where there are risk factors, age over 50, a change in bowel habit, weight loss or anaemia.** "Presumed haemorrhoids" is one of the recognised routes to a delayed colorectal cancer diagnosis. Also consider **IBD, fissure, and — in the immunosuppressed or with relevant sexual history — infective proctitis and anal cancer.**
+
+## 0.8 Other Gastrointestinal Drugs
+
+### 0.8.1 Bile Acid Sequestrants
+- **Key agents:** **colestyramine, colestipol, colesevelam**.
+- **Mechanism:** **anion-exchange resins** that bind bile acids in the gut lumen, preventing their reabsorption in the terminal ileum and forcing hepatic conversion of cholesterol into new bile acids.
+- **Indications:** **bile acid diarrhoea** (post-cholecystectomy, terminal ileal resection or disease, idiopathic — see 0.4.2); **cholestatic pruritus**; **dyslipidaemia** (see `NEW_Drugs_06_Cardiovascular.md` 0.9.6); and **binding toxins** in some poisonings.
+- **Adverse effects:** **very poor palatability, bloating, constipation and nausea** — the main reason they are abandoned; **raised triglycerides**; and **impaired absorption of FAT-SOLUBLE VITAMINS (A, D, E, K)** with long-term use.
+- **Interactions — the practical point:** they **bind other drugs indiscriminately**. **Take all other medicines at least 1 hour before or 4–6 hours after** the resin — particularly **warfarin, thyroxine, digoxin, thiazides and fat-soluble vitamins**.
+
+### 0.8.2 Other Agents in This Group
+- **Ursodeoxycholic acid** — **primary biliary cholangitis** (first-line, improves survival), intrahepatic cholestasis of pregnancy, and gallstone dissolution in selected cases.
+- **Pancreatic enzyme replacement (creon)** — for **exocrine pancreatic insufficiency** in chronic pancreatitis, cystic fibrosis, pancreatic cancer and after pancreatic surgery. **Take with every meal and snack; a PPI improves efficacy** by preventing acid inactivation. **Under-dosing is very common** and causes ongoing steatorrhoea, weight loss and fat-soluble vitamin deficiency.
+- **Rifaximin** — a non-absorbed antibiotic for **hepatic encephalopathy** (with lactulose) and travellers' diarrhoea.
+- **Terlipressin and octreotide** — variceal bleeding; **non-selective beta-blockers** for variceal prophylaxis (see `NEW_Drugs_06_Cardiovascular.md` 0.7.2).
+- **Drugs for hepatic disease** — spironolactone and furosemide for ascites, albumin with large-volume paracentesis, and antivirals for hepatitis B and C (see `NEW_Drugs_05_Anti_infectives.md` 0.6.3).
+- **Antifibrotics and MASLD agents** — an evolving area; **GLP-1 agonists and pioglitazone** have the best current evidence for steatohepatitis.
+- **Faecal microbiota transplantation** — recurrent *C. difficile* infection.
+
+## 0.9 Gastrointestinal Decontaminants
+
+- **Activated charcoal** — adsorbs many ingested toxins.
+- **Whole bowel irrigation** — with macrogol electrolyte solution.
+- **Gastric lavage and ipecacuanha** — **obsolete and not used.**
+
+> [!danger] **Decontamination is a toxicologist's decision, not a reflex, and the risks are real.**
+> - **Activated charcoal does NOT bind: iron, lithium, alcohols and glycols, potassium, acids and alkalis, or hydrocarbons.**
+> - It has a **narrow time window** after ingestion.
+> - It is **contraindicated in a patient with a reduced conscious state or unprotected airway** — **aspiration of charcoal causes a severe and sometimes fatal pneumonitis.** The decision is a balance of the risk of the poison against the risk of the charcoal; **when in doubt, do not give it.**
+> - **Whole bowel irrigation** has narrow indications — **sustained-release preparations, iron, and body packers**.
+> - **Never induce vomiting**, and never give anything orally in **corrosive or hydrocarbon** ingestion.
+> - **CALL THE POISONS INFORMATION CENTRE — 13 11 26 in Australia** — before decontaminating anyone. See `NEW_Drugs_04_Antidotes_and_Antivenoms.md` 0.1.
+
+---
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Drugs for dyspepsia reflux and peptic ulcers | SUB | yes | |
+| 0.1.1 | Proton Pump Inhibitors | CLS | yes | Built jointly with `Proton pump inhibitors` — **the build list carries the same class twice, differing only in capitalisation**; both rows mapped. Australian deprescribing guidance included. |
+| 0.1.1 | Proton pump inhibitors | CLS | yes | As above. |
+| 0.1.2 | H2 antagonists | CLS | yes | |
+| 0.1.3 | Antacids | CLS | yes | |
+| 0.1.4 | Other drugs for ulcers | CLS | yes | |
+| 0.2 | Antiemetics | SUB | yes | Framed on choosing by mechanism of vomiting. |
+| 0.2.1 | 5HT3 antagonists | CLS | yes | QT and the pregnancy cleft signal included. |
+| 0.2.2 | Dopamine antagonists (antiemetic) | CLS | yes | Metoclopramide 5-day/12-week restrictions and acute dystonia. |
+| 0.2.3 | Substance P antagonists | CLS | yes | |
+| 0.2.4 | Other drugs for nausea and vomiting | CLS | yes | |
+| 0.3 | Drugs affecting gastrointestinal motility | SUB | yes | |
+| 0.4 | Antidiarrheals | SUB | yes | |
+| 0.4.1 | Opioid Antidiarrheals | CLS | yes | Loperamide cardiac toxicity in overdose, with the hERG/Nav1.5 mechanism. |
+| 0.4.2 | Other drugs for diarrhoea | CLS | yes | |
+| 0.5 | Laxatives | SUB | yes | |
+| 0.5.1 | Osmotic laxatives | CLS | yes | |
+| 0.5.2 | Stimulant laxatives | CLS | yes | |
+| 0.5.3 | Stool softeners | CLS | yes | Docusate's weak evidence stated plainly. |
+| 0.5.4 | Other laxatives | CLS | yes | |
+| 0.6 | Drugs for inflammatory bowel diseases | SUB | yes | |
+| 0.6.1 | 5-Aminosalicylates | CLS | yes | |
+| 0.6.2 | Corticosteroids (gastrointestinal) | CLS | yes | Induce-not-maintain principle and steroid dependence. |
+| 0.6.3 | Other drugs for inflammatory bowel disease | CLS | yes | Carries the acute severe UC emergency callout. |
+| 0.7 | Drugs for perianal disorders | SUB | yes | |
+| 0.8 | Other gastrointestinal drugs | SUB | yes | |
+| 0.8.1 | Bile Acid Sequestrants | CLS | yes | |
+| 0.9 | Gastrointestinal decontaminants | SUB | yes | |
+
+**Rows in file: 28 (9 SUB + 19 CLS). AMH section 12 build-list rows: 28. Section complete.**
+
+> [!note] **One pair of build-list rows is a pure capitalisation duplicate** — `Proton Pump Inhibitors` and `Proton pump inhibitors`. Built once at 0.1.1 with both rows mapped.
+
