@@ -341,13 +341,13 @@ part: "2 of 9"
 
 > [!warning] This is a quick-reference antidote table only — always confirm doses and current protocols against Australian poisons information (Poisons Information Centre 13 11 26) and eTG before treating any overdose.
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.1 Overdose / poisoning — management by agent` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `0.1 Overdose / poisoning — management by agent` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.2 Digoxin toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `0.2 Digoxin toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.3 Salicylate toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `0.3 Salicylate toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Tricyclic antidepressant toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `0.4 Tricyclic antidepressant toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 14_06b_Psych_-_Mental_Health_Act_and_Sectioning.md ===== -->
 

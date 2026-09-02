@@ -146,11 +146,11 @@ part: "11 of 12"
 
 **Alt:** Potassium and UEC; confirmatory suppression testing (saline, fludrocortisone or captopril); CT adrenals; **adrenal vein sampling** — the test that determines whether disease is unilateral and therefore surgically curable.
 
-> [!note] **Moved to `[[Heme Onc_merged]]` on 2026-09-01:** `0.7 G6PD Assay (Glucose-6-Phosphate Dehydrogenase Screen)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[HemeOnc_02_Haemolysis_and_Haemoglobinopathies]]` on 2026-09-01:** `0.7 G6PD Assay (Glucose-6-Phosphate Dehydrogenase Screen)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `0.8 Carnitine Levels (Free and Total Carnitine)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Paeds_09_Puberty_and_Clinical_Genetics]]` on 2026-09-01:** `0.8 Carnitine Levels (Free and Total Carnitine)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `0.9 Plasma Amino Acid Screen` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Paeds_09_Puberty_and_Clinical_Genetics]]` on 2026-09-01:** `0.9 Plasma Amino Acid Screen` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Build status of this file
 

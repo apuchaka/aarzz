@@ -240,7 +240,7 @@ Start in a specific area of the brain, typically the temporal lobe; further divi
 
 > [!info] Mx (focal seizures): lamotrigine or levetiracetam first-line; carbamazepine, oxcarbazepine, or zonisamide second-line — these drug class choices are internationally standard, including in Australia; no valproate-specific sex caveat applies here since valproate isn't the first-line choice for focal seizures in the first place.
 
-> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `Febrile Convulsions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Paeds_05_Respiratory_and_Neurology]]` on 2026-09-01:** `Febrile Convulsions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ### Alcohol Withdrawal Seizures
 Peak incidence ~36h after last drink — **one point on a withdrawal timeline, not an isolated event.** **Delirium tremens peaks later, at 48–72h**, and is the phase that carries the mortality, so a patient who has had a withdrawal seizure at 36h is heading into the higher-risk window rather than past it. The full timeline, the CIWA-Ar/AWS severity scoring and the AU-verified regimen are owned by [[03_Gastrointestinal]] Alcohol withdrawal. Carried here by the G21 round (2026-08-29): this entry gave the seizure timing alone.

@@ -315,7 +315,7 @@ Tuberculous meningitis (CNS), Pott's disease (vertebral bodies), scrofuloderma (
 **Ix:** CXR (*why:* screens for the collection, though may under-represent volume if the patient is supine (trauma setting); *what:* effusion/opacification, may be difficult to distinguish acutely from pleural fluid on CXR alone). CT chest (*why:* better characterises the volume and source, especially in trauma work-up; *what:* confirms haemothorax and may identify the bleeding source). FBC, group & crossmatch (*why:* assesses the degree of blood loss and prepares for possible transfusion; *what:* falling Hb, baseline for transfusion).
 
 **Mx:**
-- **Immediate/acute:** ABCDE resuscitation as for hypovolaemic shock (see `[[Emergency and Crit Care_merged]] 01_Cardiovascular §0.20.2 Hypovolaemic shock`) alongside chest drain insertion (large-bore) to drain the haemothorax and monitor ongoing blood loss via drain output.
+- **Immediate/acute:** ABCDE resuscitation as for hypovolaemic shock (see `[[Emerg_05_Shock_and_Sepsis]] 01_Cardiovascular §0.20.2 Hypovolaemic shock`) alongside chest drain insertion (large-bore) to drain the haemothorax and monitor ongoing blood loss via drain output.
 - **Definitive:** urgent thoracotomy/surgical exploration if massive haemothorax (e.g. >1500mL immediate drain output, or ongoing output >200mL/hr) or haemodynamic instability despite resuscitation — significant ongoing bleeding needs surgical source control, not just drainage.
 - **Chronic/long-term:** monitor for retained haemothorax (undrained clot) which can organise into a fibrothorax if inadequately evacuated — may need VATS for evacuation if this develops.
 

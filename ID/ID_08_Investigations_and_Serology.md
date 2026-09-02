@@ -64,7 +64,7 @@ part: "8 of 9"
 
 > [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of microbiology specimen collection and interpretation, side by side, both intact.**
 > They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
-> **This is not the partner the flag rows named.** The pair-mark was against `NEW_Investigations_Respiratory §0.5 Sputum Culture` in `[[Resp_merged]]`. The wound-swab and Gram-stain entries above are the closer match, and sputum culture is genuinely respiratory, so the entry came here instead. The Resp account is marked from both ends.
+> **This is not the partner the flag rows named.** The pair-mark was against `NEW_Investigations_Respiratory §0.5 Sputum Culture` in `[[Resp_05_Investigations]]`. The wound-swab and Gram-stain entries above are the closer match, and sputum culture is genuinely respiratory, so the entry came here instead. The Resp account is marked from both ends.
 
 ## 1.18 Blood Cultures and Microbiology Basics
 
@@ -416,7 +416,7 @@ part: "8 of 9"
 **Alt:** Duodenal biopsy (gold standard); HLA-DQ2/DQ8 — useful for its **negative** predictive value, since absence makes coeliac disease very unlikely, but a positive is common in the general population and does not diagnose.
 
 ## 0.19 Autoimmune / Rheumatological Serology (ANA, Anti-La/SSB, Anti-Scl-70, Anti-histone, Myositis Antibodies)
-`CF-PAIR` **Two further accounts of autoantibody interpretation sit side by side in `[[MSK_merged]]` — `L2 §0.6 Autoantibody and Serology Interpretation` and `Investigation-Interpretation §1.16 Autoimmune Markers — Systematic Reference`. Autoimmune serology in an infectious-diseases investigations file is arguably a misfile; that is a separate decision and nothing was moved. All kept in full, NOT reconciled.**
+`CF-PAIR` **Two further accounts of autoantibody interpretation sit side by side in `[[MSK_03_Polyarthralgia_and_Rheumatological_Serology]]` — `L2 §0.6 Autoantibody and Serology Interpretation` and `Investigation-Interpretation §1.16 Autoimmune Markers — Systematic Reference`. Autoimmune serology in an infectious-diseases investigations file is arguably a misfile; that is a separate decision and nothing was moved. All kept in full, NOT reconciled.**
 
 **D:** Panel of autoantibodies used to characterise connective tissue disease, usually beginning with **ANA** and reflexing to **extractable nuclear antigen (ENA)** specificities.
 
@@ -443,7 +443,7 @@ part: "8 of 9"
 **Alt:** Complement C3/C4; inflammatory markers; organ-specific assessment (urinalysis and UPCR, CK, pulmonary function tests, high-resolution CT chest); biopsy.
 
 ## 0.20 Positive Autoimmune Serology (approach to an unexpected positive)
-`CF-PAIR` **See the marker on `§0.19` above — the two rheumatology accounts are side by side in `[[MSK_merged]]`. All kept in full, NOT reconciled.**
+`CF-PAIR` **See the marker on `§0.19` above — the two rheumatology accounts are side by side in `[[MSK_03_Polyarthralgia_and_Rheumatological_Serology]]`. All kept in full, NOT reconciled.**
 
 **D:** Not a test — the **clinical problem of an autoantibody result returned positive without a matching clinical syndrome**, most often an incidentally ordered ANA or rheumatoid factor.
 

@@ -106,7 +106,7 @@ Adherence support, secondary cause screening if indicated, and cardiovascular ri
 > | **Pre-eclampsia / eclampsia** | Pregnancy, proteinuria, hyperreflexia, seizures | **Magnesium sulfate and delivery** — cross-refer [[O2]] |
 > | **Phaeochromocytoma crisis / sympathomimetic** | Paroxysmal, diaphoresis, palpitations | **Alpha blockade before beta blockade** — see 0.4 |
 
-> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Fundoscopy is the examination that most often makes the diagnosis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 (2026-09-01):** `Fundoscopy is the examination that most often makes the diagnosis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 
 > [!warning] The rate of reduction is as important as the target

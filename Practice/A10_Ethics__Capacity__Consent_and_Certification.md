@@ -160,7 +160,7 @@ Family bereavement support. **Team debrief** — these cases are difficult for s
 
 ## 0.5 Professional Practice Concern
 
-`CF-PAIR` **Mandatory reporting is in three places. Part 1 `## Mandatory Reporting — the Overarching Duty` (from `Clinical-Process-EBM`) and `[[Safeguarding]] §0.1` are the others. All kept in full. NOT the same duty as notifiable **diseases** in `[[Infectious Disease_merged]]`.**
+`CF-PAIR` **Mandatory reporting is in three places. Part 1 `## Mandatory Reporting — the Overarching Duty` (from `Clinical-Process-EBM`) and `[[Safeguarding]] §0.1` are the others. All kept in full. NOT the same duty as notifiable **diseases** in `[[ID_03_Prolonged_Fever_Travel_Exposure_TB_and_HIV]]`.**
 
 **D:** Situations where a clinician must raise, escalate or report a concern about care, conduct or a colleague — including their own.
 
@@ -264,7 +264,7 @@ Review at the interval the standard specifies. For permanent cessation, address 
 > **MANDATORY REPORTING IS NOT NOTIFIABLE DISEASES.** They are different legal duties.
 > Mandatory reporting — a duty about *people at risk and about colleagues* — is resolved here
 > across three sources. **Notifiable diseases** — a public-health duty about *organisms* —
-> stays in `[[Infectious Disease_merged]]` and is marked at both ends so the distinction is
+> stays in `[[ID_03_Prolonged_Fever_Travel_Exposure_TB_and_HIV]]` and is marked at both ends so the distinction is
 > visible rather than assumed.
 
 <!-- ===== SOURCE: Clinical-Process-EBM-Consent-Capacity.md ===== -->
@@ -352,7 +352,7 @@ A capacitous adult has the right to refuse any treatment, **even where the refus
 ---
 
 ## Mandatory Reporting — the Overarching Duty
-`CF-PAIR` **THREE SOURCES, and one thing it is NOT. Also at `§0.5 Professional Practice Concern` in this file and `[[Safeguarding]] §0.1 The Safeguarding Mindset and Mandatory Reporting`. **This is a duty about people and colleagues. `[[Infectious Disease_merged]] ## Notifiable Diseases` is a DIFFERENT duty, about organisms — do not conflate them.** All kept in full.
+`CF-PAIR` **THREE SOURCES, and one thing it is NOT. Also at `§0.5 Professional Practice Concern` in this file and `[[Safeguarding]] §0.1 The Safeguarding Mindset and Mandatory Reporting`. **This is a duty about people and colleagues. `[[ID_03_Prolonged_Fever_Travel_Exposure_TB_and_HIV]] ## Notifiable Diseases` is a DIFFERENT duty, about organisms — do not conflate them.** All kept in full.
 
 > [!note] Gap-filled from CSV ("Mandatory reporting (Overall Skill)," Medium yield). **Partially present, in a specific and misleading way:** the project carried four *condition-specific* instances — child abuse, elder abuse, family violence, notifiable diseases — with **no entry connecting them**, and **zero corpus-wide hits for Ahpra or notifiable conduct**, meaning the duty to report an unsafe *colleague* was absent entirely. Built here rather than in [[Communication]] because this is a legal duty rather than a consultation skill. Verified against Ahpra's guidelines on mandatory notifications about registered health practitioners and Avant's guidance for Australian practitioners, Aug 2026.
 

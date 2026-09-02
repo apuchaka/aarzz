@@ -193,12 +193,12 @@ part: "5 of 7"
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.1 Assessing a Pigmented Lesion`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Melanoma
@@ -281,12 +281,12 @@ part: "5 of 7"
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.5 Nails`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.6 Hair Loss

@@ -149,7 +149,7 @@ Hepatitis E — faecal-oral route, especially contaminated water. Usually self-l
 
 ---
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.10 Paracetamol Overdose` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `0.10 Paracetamol Overdose` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.6 Alcohol-Related Liver Disease (ArLD)
 

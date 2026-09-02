@@ -109,13 +109,13 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 ## 1.4 Heart Murmur (history context)
 
-> [!note] This CSV row ("Heart – Murmur") is primarily an examination finding rather than a presenting complaint patients bring themselves — see [[Examination]] for the auscultation technique and [[01_Cardiovascular]] 0.21 for the murmur differential/interpretation. History relevance here: when a murmur is found incidentally or during a cardiovascular work-up, screen for exertional dyspnoea, syncope/pre-syncope, chest pain, orthopnoea/PND, and ask about any known history of rheumatic fever, congenital heart disease, or IV drug use (endocarditis risk) — these shape how urgently the murmur needs further work-up.
+> [!note] This CSV row ("Heart – Murmur") is primarily an examination finding rather than a presenting complaint patients bring themselves — see [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] for the auscultation technique and [[01_Cardiovascular]] 0.21 for the murmur differential/interpretation. History relevance here: when a murmur is found incidentally or during a cardiovascular work-up, screen for exertional dyspnoea, syncope/pre-syncope, chest pain, orthopnoea/PND, and ask about any known history of rheumatic fever, congenital heart disease, or IV drug use (endocarditis risk) — these shape how urgently the murmur needs further work-up.
 
 ---
 
 ## 1.5 Doppler / ABI Assessment (history + technique overview)
 
-> [!note] This CSV row is primarily an examination/investigation technique rather than a history-taking topic — see [[Examination]] for the step-by-step ABPI procedure. Relevant history prompts here: claudication distance and pattern, rest pain, risk factors for PAD (smoking, DM, HTN), prior vascular intervention. Cross-reference [[01_Cardiovascular]] 0.36.1–0.36.2 for the disease-level content (PAD, ABPI interpretation).
+> [!note] This CSV row is primarily an examination/investigation technique rather than a history-taking topic — see [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] for the step-by-step ABPI procedure. Relevant history prompts here: claudication distance and pattern, rest pain, risk factors for PAD (smoking, DM, HTN), prior vascular intervention. Cross-reference [[01_Cardiovascular]] 0.36.1–0.36.2 for the disease-level content (PAD, ABPI interpretation).
 
 ---
 
@@ -345,7 +345,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 ## 1.15 GI Bleeding — Haematemesis, Melaena, Rectal Bleeding (history context)
 
-> [!note] These three CSV rows are presentation-led but the differential-by-cause content is already built in detail within [[03_Gastrointestinal]] Upper GI Bleed (UGIB) (haematemesis, melaena — DDx by anatomical location) and Lower GI Bleed (rectal bleeding/haematochezia — DDx by location), including the Glasgow-Blatchford and Rockall scoring systems. Rather than duplicating that differential here, the history-taking-specific points not already covered there: clarify exactly what the patient/witness saw (colour, volume, clots, mixed with stool vs streaked) since patient descriptions are often imprecise and can be confused with other sources (e.g. haemoptysis swallowed and passed as apparent melaena, menstrual blood mistaken for rectal bleeding); establish timing relative to vomiting/retching (Mallory-Weiss — see Oesophageal Conditions) vs a more insidious onset (malignancy, PUD); ask specifically about NSAID/anticoagulant/antiplatelet use and alcohol history, both central to the differential and drivers of urgency. See `[[Emergency and Crit Care_merged]] 01_Cardiovascular §0.20.2 Hypovolaemic shock` for the acute haemodynamic assessment that accompanies any significant GI bleed presentation.
+> [!note] These three CSV rows are presentation-led but the differential-by-cause content is already built in detail within [[03_Gastrointestinal]] Upper GI Bleed (UGIB) (haematemesis, melaena — DDx by anatomical location) and Lower GI Bleed (rectal bleeding/haematochezia — DDx by location), including the Glasgow-Blatchford and Rockall scoring systems. Rather than duplicating that differential here, the history-taking-specific points not already covered there: clarify exactly what the patient/witness saw (colour, volume, clots, mixed with stool vs streaked) since patient descriptions are often imprecise and can be confused with other sources (e.g. haemoptysis swallowed and passed as apparent melaena, menstrual blood mistaken for rectal bleeding); establish timing relative to vomiting/retching (Mallory-Weiss — see Oesophageal Conditions) vs a more insidious onset (malignancy, PUD); ask specifically about NSAID/anticoagulant/antiplatelet use and alcohol history, both central to the differential and drivers of urgency. See `[[Emerg_05_Shock_and_Sepsis]] 01_Cardiovascular §0.20.2 Hypovolaemic shock` for the acute haemodynamic assessment that accompanies any significant GI bleed presentation.
 
 ---
 
@@ -498,7 +498,7 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 > [!danger] Red flags warranting urgent assessment: fever with a rapidly progressing non-blanching rash (meningococcal septicaemia — see [[09_08_Dermatology_-_Miscellaneous]] Non-blanching rashes — approach and differential), widespread blistering/skin detachment with mucosal involvement (SJS/TEN spectrum), pain out of proportion to visible skin findings (necrotising fasciitis — see [[08_09_Infectious_Disease_-_Miscellaneous]]), and any rapidly evolving or bleeding pigmented lesion (possible melanoma).
 
-**Closing:** summarise back, check understanding, explain next steps (examination — see [[Examination]] Dermatological Examination for the systematic approach; targeted investigation as guided by the differential reached), safety-net for any red flag features developing.
+**Closing:** summarise back, check understanding, explain next steps (examination — see [[Exam_02_Neurological_Skin_and_Head_and_Neck]] Dermatological Examination for the systematic approach; targeted investigation as guided by the differential reached), safety-net for any red flag features developing.
 
 ---
 
@@ -523,13 +523,13 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 > [!danger] Red flags warranting urgent assessment/escalation: fever with any feature of sepsis (see [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis and the Australian "SEPSIS KILLS" pathway), fever with a non-blanching rash (see [[09_08_Dermatology_-_Miscellaneous]] Non-blanching rashes), fever in a returned traveller from a malaria-endemic area (exclude malaria urgently regardless of how mild the presentation looks), fever in an asplenic or otherwise significantly immunosuppressed patient (treat as a medical emergency given the deterioration risk), fever with neck stiffness/photophobia/non-blanching rash (meningococcal disease until proven otherwise).
 
-**Closing:** summarise back, check understanding, explain next steps (examination, targeted investigation guided by localising symptoms — see [[Infectious Disease_merged]] Blood Cultures and Microbiology Basics for the general specimen-collection principles, not repeated here), safety-net explicitly for any red flag features developing.
+**Closing:** summarise back, check understanding, explain next steps (examination, targeted investigation guided by localising symptoms — see [[ID_08_Investigations_and_Serology]] Blood Cultures and Microbiology Basics for the general specimen-collection principles, not repeated here), safety-net explicitly for any red flag features developing.
 
 ---
 
 ## 1.23 Psychiatric History
 
-> [!note] Gap-filled from CSV ("Psychiatric history and mental state examination," High yield) — completes the pairing with [[Examination]] Mental State Examination (MSE), not repeated here. The disease-specific diagnostic criteria boxes throughout [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] through [[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] cover the *current symptom* domain of a psychiatric assessment, but a full psychiatric history has several further biopsychosocial domains that no single disease box captures — this entry covers that broader structure.
+> [!note] Gap-filled from CSV ("Psychiatric history and mental state examination," High yield) — completes the pairing with [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Mental State Examination (MSE), not repeated here. The disease-specific diagnostic criteria boxes throughout [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] through [[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] cover the *current symptom* domain of a psychiatric assessment, but a full psychiatric history has several further biopsychosocial domains that no single disease box captures — this entry covers that broader structure.
 
 **Opening:** wash hands, introduce, confirm identity, explain purpose, consent — the same general principles as any history, though a psychiatric history often benefits from extra attention to rapport-building and privacy given the sensitivity of the content, and from explicitly explaining confidentiality and its limits (e.g. the duty to act on disclosed risk to self or others) before the person shares sensitive material.
 
@@ -554,15 +554,15 @@ This file collects every CSV row that names a symptom/presentation rather than a
 
 **ICE:** particularly important in psychiatric presentations given the risk of stigma-driven reluctance to disclose — explicitly ask what the person is hoping for from the consultation, and what concerns (about diagnosis, treatment, confidentiality, or being judged) might be affecting what they're comfortable sharing.
 
-**Closing:** summarise back, check understanding, explain next steps (proceeding to the Mental State Examination — see [[Examination]] Mental State Examination (MSE) — and any further assessment/investigation the presentation suggests), safety-net explicitly for risk (what to do and who to contact if things worsen before the next review), given this is a genuinely essential closing step for this category of history in a way it isn't always for a purely physical presentation.
+**Closing:** summarise back, check understanding, explain next steps (proceeding to the Mental State Examination — see [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Mental State Examination (MSE) — and any further assessment/investigation the presentation suggests), safety-net explicitly for risk (what to do and who to contact if things worsen before the next review), given this is a genuinely essential closing step for this category of history in a way it isn't always for a purely physical presentation.
 
-**Cross-reference:** see [[Examination]] Mental State Examination (MSE) for the paired examination this history feeds into, and the individual Psychiatry disease files for condition-specific diagnostic criteria and management, not repeated here.
+**Cross-reference:** see [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Mental State Examination (MSE) for the paired examination this history feeds into, and the individual Psychiatry disease files for condition-specific diagnostic criteria and management, not repeated here.
 
 ---
 
 ## 1.24 Clinical Formulation — Turning a History Into an Explanation
 
-> [!note] Gap-filled from CSV ("Clinical formulation," Public Health/Epidemiology–adjacent row, carried into the queue with N2/N5). Genuinely absent on the teach-vs-mention test: the Psychiatric History entry above collects the domains a formulation is built from, and [[Examination]] Mental State Examination (MSE) collects the cross-sectional findings — but **nothing in the corpus taught the synthesis step between them**, and corpus-wide search returned zero hits for *4 Ps*, *5 Ps*, *predisposing/precipitating/perpetuating*, or *formulation* in this sense (every "formulation" match was pharmaceutical). Placed here rather than in `Clinical-Process-EBM-Consent-Capacity.md` as the queue's remainder table proposed: this is the step immediately after the history that feeds it and the MSE it pairs with, and separating it from both would leave the reader arriving at the synthesis with the two inputs in another file. Verified against the **RANZCP** mood-disorders guidelines' biopsychosocial-lifestyle framing and Selzer & Ellen, *Formulation for beginners*, **Australasian Psychiatry 2014;22(4):397–401** — see `PENDING_GUIDELINE_CHECKS.md` B34.
+> [!note] Gap-filled from CSV ("Clinical formulation," Public Health/Epidemiology–adjacent row, carried into the queue with N2/N5). Genuinely absent on the teach-vs-mention test: the Psychiatric History entry above collects the domains a formulation is built from, and [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Mental State Examination (MSE) collects the cross-sectional findings — but **nothing in the corpus taught the synthesis step between them**, and corpus-wide search returned zero hits for *4 Ps*, *5 Ps*, *predisposing/precipitating/perpetuating*, or *formulation* in this sense (every "formulation" match was pharmaceutical). Placed here rather than in `Clinical-Process-EBM-Consent-Capacity.md` as the queue's remainder table proposed: this is the step immediately after the history that feeds it and the MSE it pairs with, and separating it from both would leave the reader arriving at the synthesis with the two inputs in another file. Verified against the **RANZCP** mood-disorders guidelines' biopsychosocial-lifestyle framing and Selzer & Ellen, *Formulation for beginners*, **Australasian Psychiatry 2014;22(4):397–401** — see `PENDING_GUIDELINE_CHECKS.md` B34.
 
 **What a formulation is, and what it is not.** A **diagnosis** names the condition — it answers *what*. A **formulation** is a set of explanatory hypotheses about **why this person is unwell in this way, at this time** — it answers *why now, and why them*. Two patients with an identical diagnosis of major depression can have formulations with almost nothing in common, and it is the formulation, not the diagnosis, that tells you what to actually do for either of them.
 
@@ -589,7 +589,7 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 
 > [!tip] **What an intern is actually expected to produce.** Three or four sentences, spoken on a ward round or written at the top of an assessment — *this is who they are, this is what set it off, this is what is keeping it going, this is what we have to work with* — followed by a plan that visibly follows from the perpetuating and protective rows. Not a page. The test of whether it is any good is whether someone who has not met the patient could predict what the plan is going to say.
 
-**Cross-reference:** Psychiatric History above in this file for the domains this is built from; [[Examination]] Mental State Examination (MSE) for the cross-sectional findings it incorporates; [[Communication]] Clinical Handover (ISBAR) and Prioritisation of Jobs for how the formulation compresses into the "situation/background" of a handover.
+**Cross-reference:** Psychiatric History above in this file for the domains this is built from; [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Mental State Examination (MSE) for the cross-sectional findings it incorporates; [[Communication]] Clinical Handover (ISBAR) and Prioritisation of Jobs for how the formulation compresses into the "situation/background" of a handover.
 
 ---
 
@@ -722,7 +722,7 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 
 > [!danger] Red flags warranting urgent assessment/imaging: any central feature above (particularly sudden onset with vascular risk factors, or additional neurological symptoms/signs), new hearing loss with vertigo (Ménière's/labyrinthitis can usually be managed non-urgently, but an atypical or rapidly progressive picture warrants prompt ENT assessment), or vertigo following head trauma with any other injury red flags.
 
-**Closing:** summarise back, check understanding, explain next steps (examination — see [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient) if acutely unwell, or targeted cranial nerve/cerebellar/otoscopic examination and the Dix-Hallpike manoeuvre if BPPV is suspected per [[13_03_ENT_-_Deafness_and_Vertigo_Conditions]] Benign paroxysmal positional vertigo (BPPV), not repeated here), safety-net for any red flag symptoms developing.
+**Closing:** summarise back, check understanding, explain next steps (examination — see [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient) if acutely unwell, or targeted cranial nerve/cerebellar/otoscopic examination and the Dix-Hallpike manoeuvre if BPPV is suspected per [[13_03_ENT_-_Deafness_and_Vertigo_Conditions]] Benign paroxysmal positional vertigo (BPPV), not repeated here), safety-net for any red flag symptoms developing.
 
 ---
 
@@ -775,7 +775,7 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 
 > [!danger] Red flags warranting urgent assessment: a hot, swollen, acutely painful single joint with fever/systemic upset (septic arthritis until proven otherwise), joint pain with new neurological deficit or red flag back pain features (see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Back pain red flags → urgent MRI and Cauda equina syndrome), sudden visual disturbance/jaw claudication in a patient >50yo with new headache (giant cell arteritis — see [[12_04_Rheum_-_Vasculitis]] Giant cell arteritis (GCA), a genuine same-day ophthalmology-review emergency given the irreversible vision loss risk).
 
-**Closing:** summarise back, check understanding, explain next steps (examination — see [[Examination]] GALS Screen (Gait, Arms, Legs, Spine) for the systematic approach; targeted investigation guided by the pattern established above — joint aspiration if a hot swollen joint, autoimmune serology if inflammatory pattern with systemic features, per [[MSK_merged]] Autoimmune Markers — Systematic Reference), safety-net for any red flag features developing.
+**Closing:** summarise back, check understanding, explain next steps (examination — see [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] GALS Screen (Gait, Arms, Legs, Spine) for the systematic approach; targeted investigation guided by the pattern established above — joint aspiration if a hot swollen joint, autoimmune serology if inflammatory pattern with systemic features, per [[MSK_03_Polyarthralgia_and_Rheumatological_Serology]] Autoimmune Markers — Systematic Reference), safety-net for any red flag features developing.
 
 ---
 

@@ -279,7 +279,7 @@ part: "1 of 10"
 - **Ix:** blood films may show RBCs of different sizes/shapes, target cells, and pencil poikilocytes. Endoscopy to rule out malignancy.
 - **Mx:** treat underlying cause; PO ferrous sulfate (can cause abdominal pain, GI upset); iron-rich diet.
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Lead poisoning` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `Lead poisoning` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Anaemia of chronic disease
 

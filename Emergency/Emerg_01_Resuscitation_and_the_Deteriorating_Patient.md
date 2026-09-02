@@ -21,12 +21,12 @@ part: "1 of 11"
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.1 The A–E Approach`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Basic Life Support
@@ -276,12 +276,12 @@ Clear written analgesia advice for parents with weight-based doses, maximum dail
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.1 The Deteriorating Patient — Recognition`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 SIRS, Sepsis and Septic Shock — Definitions

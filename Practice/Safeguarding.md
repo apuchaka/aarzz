@@ -40,7 +40,7 @@ aliases:
 
 ## 0.1 The Safeguarding Mindset and Mandatory Reporting
 
-`CF-PAIR` **Mandatory reporting is in three places: here, `[[A10_Ethics__Capacity__Consent_and_Certification]] §0.5`, and its Part 1 `## Mandatory Reporting — the Overarching Duty`. All kept in full. **A different duty from notifiable diseases** (`[[Infectious Disease_merged]]`), which is about organisms, not people at risk.**
+`CF-PAIR` **Mandatory reporting is in three places: here, `[[A10_Ethics__Capacity__Consent_and_Certification]] §0.5`, and its Part 1 `## Mandatory Reporting — the Overarching Duty`. All kept in full. **A different duty from notifiable diseases** (`[[ID_03_Prolonged_Fever_Travel_Exposure_TB_and_HIV]]`), which is about organisms, not people at risk.**
 
 > [!tip] Consider it routinely — the way you consider sepsis
 > **Safeguarding is not an accusation you level when something feels wrong. It is a CONSIDERATION you hold in every relevant presentation, in the same way you consider sepsis or malignancy — most of the time it is not the answer, and the discipline is in asking the question at all.**

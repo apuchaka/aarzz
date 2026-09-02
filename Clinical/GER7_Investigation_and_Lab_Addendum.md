@@ -18,7 +18,7 @@ source: built in chat, model knowledge, NOT source-verified
 > **`§0.4 Troponins`**, which lands there rather than becoming a further separate home, because its
 > content is the injury-versus-infarction *interpretation*. `CF-PAIR` against `§1.12`; the third
 > home, `Cardio §0.5`, is marked as such.
-> **→ `[[OBGYN_merged]]` Part 2:** `§0.5 Fetal Scalp Blood Sampling and Intrapartum Assessment`,
+> **→ `[[OBGYN_05_Obstetric_Emergencies_and_Fetal_Assessment]]` Part 2:** `§0.5 Fetal Scalp Blood Sampling and Intrapartum Assessment`,
 > with `Cardio`'s CTG/NST entry alongside it.
 >
 > **0 inbound wikilinks**, so nothing breaks. Kept as the record of the split.

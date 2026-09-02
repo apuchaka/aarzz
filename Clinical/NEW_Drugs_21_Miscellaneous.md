@@ -1,7 +1,7 @@
 ---
 block: NEW build — Drug Classes
 source: data/BULK_BUILD_PLAN.md Part C; AMH section 21 Miscellaneous
-status: merged 2026-09-01 into [[Endocrine and metabolics_merged]] (C8 / AXIS-1); this file is kept as the record
+status: merged 2026-09-01 into [[Endo_11_Investigations]] (C8 / AXIS-1); this file is kept as the record
 ---
 
 # NEW — Drug Classes: Miscellaneous (AMH section 21)
@@ -22,7 +22,7 @@ status: merged 2026-09-01 into [[Endocrine and metabolics_merged]] (C8 / AXIS-1)
 
 > [!note] **This is the last file of Part C**, and the smallest. The section is deliberately residual in AMH itself, and the entry is written accordingly: **what an intern actually needs is a posture toward unfamiliar specialised drugs — do not omit them, find out what they are for, and contact the treating centre — rather than a list that would be incomplete and out of date.**
 
-> [!note] **PLACED — C8 / AXIS-1, 2026-09-01. Its content is now in `[[Endocrine and metabolics_merged]]`.**
+> [!note] **PLACED — C8 / AXIS-1, 2026-09-01. Its content is now in `[[Endo_11_Investigations]]`.**
 > It was **the last of 21 `NEW_Drugs_NN` files still standalone**; AXIS-1 ruled the drug files stay
 > distributed inside their system files, so it needed one. Enzyme replacement and rare metabolic
 > disease are the weight of its content.

@@ -134,10 +134,10 @@ aliases:
 > [!info] **C9 ruled 2026-09-01: `AU1` STANDALONE, and the equity blocks are FLAGGED AS A SET, NOT CONSOLIDATED.**
 > This section is the hub. The blocks it indexes **stay in their disease entries**, because the whole
 > point of each is that it sits where a reader meets the disease:
-> - `[[Resp_merged]] §0.4 Lung Cancers`
-> - `[[Neuro_merged]] ## Strokes`
-> - `[[Heme Onc_merged]] 10_11a ## Cancer Outcomes in ATSI Australians` (`H-18`)
-> - `[[Cardio_merged]] §0.23 Rheumatic Heart Disease`
+> - `[[Resp_03_Malignancy_Interstitial_and_Suppurative]] §0.4 Lung Cancers`
+> - `[[Neuro_05_Stroke_Epilepsy_Syncope_and_Movement]] ## Strokes`
+> - `[[HemeOnc_06_Oncology_Principles_and_Breast_Cancer]] 10_11a ## Cancer Outcomes in ATSI Australians` (`H-18`)
+> - `[[Cardio_10_Valves_Endocarditis_Cardiomyopathy_HF_and_Pericardium]] §0.23 Rheumatic Heart Disease`
 >
 > **They are a deliberate pattern, not duplicates.** Consolidating them into this file would destroy
 > what makes the pattern work — a reader looking up RHD would have to already know to come here.

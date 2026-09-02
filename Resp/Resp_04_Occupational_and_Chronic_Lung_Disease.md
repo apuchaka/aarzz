@@ -308,7 +308,7 @@ Treat the underlying cause where identified, and establish the maintenance regim
 
 > [!note] **This file contains the built Tier 1 topic and both Tier 2 topics.** The category has 2 T1 (one built, one skipped on a header match — see below), 2 T2 (both built) and 14 T3 (not built). See the build-status table at the end.
 
-> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `Acute Dyspnoea`, verbatim, beside that file's own account of the same presentation.**
+> [!note] **CO-LOCATED into `[[Emerg_03_Dyspnoea_Cough_and_Pulmonary_Nodule]]` on 2026-09-01 — `Acute Dyspnoea`, verbatim, beside that file's own account of the same presentation.**
 
 ## Acute Cough
 
@@ -320,7 +320,7 @@ Treat the underlying cause where identified, and establish the maintenance regim
 - **Examination:** **vital signs including respiratory rate, SpO₂ and temperature**; work of breathing and ability to speak in sentences; **listen to the cough itself** (barking in croup, paroxysmal with whoop in pertussis, bovine with recurrent laryngeal nerve palsy); ENT examination for post-nasal drip and tonsillar disease; **chest examination for focal signs, wheeze, crackles, effusion and unilaterally reduced air entry** (foreign body); cardiac examination and volume status; **lymph nodes and clubbing**; and, in a child, careful assessment for stridor and respiratory distress.
 - **First-line Ix:** **most acute cough with a clear viral cause and normal observations needs no investigation, and this is the appropriate answer** rather than a reflex chest X-ray. Where indicated: **chest X-ray** (focal signs, haemoptysis, systemic illness, suspected malignancy or TB, failure to improve); **FBC, CRP, UEC**; **respiratory virus and pertussis PCR**; **sputum culture and, where TB is suspected, sputum for acid-fast bacilli and mycobacterial culture with respiratory isolation**; **blood cultures if febrile and unwell**; **peak flow or spirometry** where asthma is likely; **D-dimer within a pretest-probability pathway and CTPA** where PE is suspected; **echocardiography and BNP** where heart failure is possible; **bronchoscopy** for suspected inhaled foreign body — **and in a child with a witnessed choking episode, a normal chest X-ray does not exclude one**, because most aspirated objects are radiolucent.
 
-> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `Acute Stridor`, verbatim, beside that file's own account of the same presentation.**
+> [!note] **CO-LOCATED into `[[Emerg_02_Airway_and_Respiratory_Failure]]` on 2026-09-01 — `Acute Stridor`, verbatim, beside that file's own account of the same presentation.**
 
 ## Build status of this file
 

@@ -28,7 +28,7 @@ aliases:
 > [!tip] Airway assessment — mnemonic "LEMON"
 > **L**ook externally (abnormal neck, large tongue, dental issues); **E**valuate 3-3-2 (3 fingers between teeth, 2 between hyoid and mentum, 2 between hyoid and thyroid); **M**allampati score; **O**bstruction/obesity; **N**eck mobility (reduced in trauma, elderly)
 >
-> See [[Examination]] Pre-Anaesthetic Assessment (Airway + Fitness for Anaesthesia) for the full step-by-step examination sequence and how to present these findings back to an examiner.
+> See [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] Pre-Anaesthetic Assessment (Airway + Fitness for Anaesthesia) for the full step-by-step examination sequence and how to present these findings back to an examiner.
 
 ### 0.1.2 Induction of GA
 
@@ -98,12 +98,12 @@ aliases:
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.5 Pre-Operative Assessment`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.8 Postoperative Care and Complications
@@ -231,12 +231,12 @@ aliases:
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 2 blocks from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 2 blocks from this source.**
 >
 > `0.1 Preoperative Assessment` · `0.2 Airway Assessment and Anaesthetic Technique`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.3 Perioperative Medication Management

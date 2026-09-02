@@ -276,9 +276,9 @@ aliases:
 > [!info] **THE AUSTROADS HOME (C7 ruling, 2026-09-01). Fitness to drive was in four places; this is the one.**
 > The three condition-specific rule sets **stay where the disease is** — a reader meets them there —
 > but they are **subordinate to this section**, not alternatives to it:
-> - `[[Cardio_merged]] §0.35.5 Austroads cardiovascular driving rules`
-> - `[[Endocrine and metabolics_merged]] §0.15.8 Austroads Driving Standards for Diabetes`
-> - `[[Neuro_merged]] ### Austroads Driving Standards (Neurological Conditions)`
+> - `[[Cardio_12_Congenital_and_Cardiac_Investigations]] §0.35.5 Austroads cardiovascular driving rules`
+> - `[[Endo_08_Diabetes_DKA_HHS_and_Metabolic_Syndrome]] §0.15.8 Austroads Driving Standards for Diabetes`
+> - `[[Neuro_07_CNS_Infection_Tumour_and_Head_Injury]] ### Austroads Driving Standards (Neurological Conditions)`
 >
 > `Clinical-Process-EBM:102` carried a *"Fitness to drive"* row pointing at two of the three; that
 > pointer now resolves here. **The general standard, the private-vs-commercial distinction and the

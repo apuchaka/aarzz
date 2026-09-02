@@ -45,7 +45,7 @@ Patient is systemically well, but can progress to acute cholecystitis. **Mx — 
 
 ---
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Ascending Cholangitis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `0.4 Ascending Cholangitis` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.1 Primary Sclerosing Cholangitis (PSC)
 

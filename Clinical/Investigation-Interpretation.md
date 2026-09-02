@@ -150,7 +150,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ---
 
-> [!note] **Moved to `[[Endocrine and metabolics_merged]]` on 2026-09-01:** `1.5 ABG / VBG Interpretation` — co-located there
+> [!note] **Moved to `[[Endo_03_Acid_Base_DKA_Fluids_and_Electrolytes]]` on 2026-09-01:** `1.5 ABG / VBG Interpretation` — co-located there
 > immediately after `0.1 Acid-Base Interpretation — Framework`, its duplicate pair, both intact. Reproduced verbatim and
 > unrenumbered under a `SOURCE:` divider naming this file.
 
@@ -178,7 +178,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ---
 
-> [!note] **Moved to `[[MSK_merged]]` on 2026-09-01:** `1.7 Limb X-Ray and Fracture Description — Systematic Approach` — co-located there
+> [!note] **Moved to `[[MSK_07_Soft_Tissue_Injury_and_Fractures]]` on 2026-09-01:** `1.7 Limb X-Ray and Fracture Description — Systematic Approach` — co-located there
 > immediately after `0.1 Describing a Fracture`, its duplicate pair, both intact. Reproduced verbatim and
 > unrenumbered under a `SOURCE:` divider naming this file.
 
@@ -324,19 +324,19 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ---
 
-> [!note] **Moved to `[[MSK_merged]]` on 2026-09-01:** `1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach` — co-located there
+> [!note] **Moved to `[[MSK_02_Hot_Swollen_Joint_and_Orthopaedic_Emergencies]]` on 2026-09-01:** `1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach` — co-located there
 > immediately after `0.6 Joint Aspiration and Synovial Fluid Interpretation`, its duplicate pair, both intact. Reproduced verbatim and
 > unrenumbered under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[MSK_merged]]` on 2026-09-01:** `1.16 Autoimmune Markers — Systematic Reference` — co-located there
+> [!note] **Moved to `[[MSK_03_Polyarthralgia_and_Rheumatological_Serology]]` on 2026-09-01:** `1.16 Autoimmune Markers — Systematic Reference` — co-located there
 > immediately after `0.6 Autoantibody and Serology Interpretation`, its duplicate pair, both intact. Reproduced verbatim and
 > unrenumbered under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Heme Onc_merged]]` on 2026-09-01:** `1.17 Coagulation Screen and D-dimer Interpretation` — co-located there
+> [!note] **Moved to `[[HemeOnc_03_Bleeding_Thrombosis_and_Transfusion]]` on 2026-09-01:** `1.17 Coagulation Screen and D-dimer Interpretation` — co-located there
 > immediately after `0.1 Interpreting the Coagulation Screen`, its duplicate pair, both intact. Reproduced verbatim and
 > unrenumbered under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Infectious Disease_merged]]` on 2026-09-01:** `1.18 Blood Cultures and Microbiology Basics` — co-located there
+> [!note] **Moved to `[[ID_08_Investigations_and_Serology]]` on 2026-09-01:** `1.18 Blood Cultures and Microbiology Basics` — co-located there
 > immediately after `0.2 Microbiology Panel (Wound Culture and Sensitivity)`, its duplicate pair, both intact. Reproduced verbatim and
 > unrenumbered under a `SOURCE:` divider naming this file.
 
@@ -374,7 +374,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 - **The thymus** is a normal, often prominent mediastinal structure in infants and young children, producing a widened mediastinal shadow (sometimes with a "sail sign" appearance) that can be mistaken for mediastinal pathology by an examiner expecting an adult-pattern mediastinum — it involutes with age and becomes progressively less prominent through childhood.
 - Cardiothoracic ratio and expected lung findings also differ somewhat from adult norms, and a degree of variability with respiratory phase/rotation is more pronounced given the practical difficulty of obtaining a perfectly positioned, fully inspired film in a young child — some allowance for technical factors is routinely needed when interpreting a paediatric CXR that might otherwise be over-called as abnormal.
 
-**Vital signs:** already covered under [[Examination]] Approach to Paediatric Examination above — heart rate, respiratory rate, and blood pressure normal ranges all vary substantially and continuously with age, and infant cardiac output is regulated predominantly by heart rate change rather than stroke volume, not repeated here.
+**Vital signs:** already covered under [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Approach to Paediatric Examination above — heart rate, respiratory rate, and blood pressure normal ranges all vary substantially and continuously with age, and infant cardiac output is regulated predominantly by heart rate change rather than stroke volume, not repeated here.
 
 **Practical principle for any paediatric result:** when a result looks abnormal, the first question should be **"abnormal for what age?"** — check the age-specific reference range (from the reporting lab or current local paediatric guidance) before concluding a finding is pathological, given how many genuinely normal paediatric findings would be flagged as abnormal against an adult range.
 
@@ -402,7 +402,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 
 ## 1.22 Cognitive Screening Tools (MMSE, MoCA, AMTS)
 
-> [!note] Gap-filled — these tools are referenced by name repeatedly throughout [[04_Neurology]] (Vascular Dementia, Alzheimer's Disease, frontotemporal dementia, and Delirium all cite MMSE as their cognitive-testing Ix), and in [[Examination]] Mental State Examination (MSE), but none of these citations actually explain what the tools test or how to interpret a score — this entry fills that gap. Scoped specifically to the tools themselves, not the broader Geriatrics assessment context (falls risk, frailty, polypharmacy), which sits outside a not-yet-uploaded category.
+> [!note] Gap-filled — these tools are referenced by name repeatedly throughout [[04_Neurology]] (Vascular Dementia, Alzheimer's Disease, frontotemporal dementia, and Delirium all cite MMSE as their cognitive-testing Ix), and in [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Mental State Examination (MSE), but none of these citations actually explain what the tools test or how to interpret a score — this entry fills that gap. Scoped specifically to the tools themselves, not the broader Geriatrics assessment context (falls risk, frailty, polypharmacy), which sits outside a not-yet-uploaded category.
 
 **The core practical distinction — these are screening tools, not diagnostic tests.** A score below or above a given cutoff raises or lowers suspicion of cognitive impairment; it does not itself diagnose a specific dementia subtype or exclude significant pathology, particularly at the milder end of impairment. All are influenced by the patient's baseline education level and cultural/language background, which should be factored into interpretation rather than applying a single fixed cutoff blindly to every patient.
 
@@ -451,7 +451,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 > **two of the three are now in one file, marked as a pair.** `Cardio §0.5` stays where the
 > disease is and is flagged as the third. That consolidates rather than adding a fourth home.
 >
-> `§0.5 Fetal Scalp Blood Sampling` went to `[[OBGYN_merged]]` in the same operation.
+> `§0.5 Fetal Scalp Blood Sampling` went to `[[OBGYN_05_Obstetric_Emergencies_and_Fetal_Assessment]]` in the same operation.
 
 <!-- ===== SOURCE: GER7_Investigation_and_Lab_Addendum.md ===== -->
 *Moved here from `GER7_Investigation_and_Lab_Addendum.md` on 2026-09-01. Verbatim and unrenumbered.*

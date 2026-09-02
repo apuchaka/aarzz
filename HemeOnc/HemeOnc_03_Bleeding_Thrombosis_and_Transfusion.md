@@ -376,7 +376,7 @@ part: "3 of 10"
 <!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
 
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Methaemoglobinaemia` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `Methaemoglobinaemia` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Antiphospholipid syndrome (APS)
 
@@ -430,7 +430,7 @@ part: "3 of 10"
   - Prophylaxis in hospitalisation, cancer, or surgical procedures — early mobilisation; LMWH, DOAC, or aspirin are options if there is no excessive bleeding risk; if increased bleeding risk, mechanical thromboprophylaxis (e.g. compression stockings, intermittent pneumatic compression).
   - If VTE occurs, prophylactic DOAC for 3 months (6 months if unprovoked) — see [[01_Cardiovascular]] 0.29 Deep Vein Thrombosis (DVT) and 0.30 Pulmonary Embolism (PE) for the disease-level Mx this feeds into, not repeated here.
 
-> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `Postpartum Infection and Thromboembolism` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[OBGYN_05_Obstetric_Emergencies_and_Fetal_Assessment]]` on 2026-09-01:** `Postpartum Infection and Thromboembolism` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: 10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets.md ===== -->
 

@@ -309,7 +309,7 @@ Induction with corticosteroids plus cyclophosphamide or rituximab, then maintena
 
 > [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of autoantibody interpretation, side by side, both intact.**
 > They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
-> Two further accounts sit in `[[Infectious Disease_merged]]` — `NEW_Investigations_Infectious_Diseases §0.19` and `NEW_Investigations_Infectious_Diseases §0.20` — where autoimmune serology is arguably misfiled. They were not moved; that is a separate decision.
+> Two further accounts sit in `[[ID_08_Investigations_and_Serology]]` — `NEW_Investigations_Infectious_Diseases §0.19` and `NEW_Investigations_Infectious_Diseases §0.20` — where autoimmune serology is arguably misfiled. They were not moved; that is a separate decision.
 > **A FIFTH account is in THIS file, 45 lines below: `NEW_Investigations_Rheumatology §0.1 Autoimmune / ANA Panel` through `NEW_Investigations_Rheumatology §0.5 Myositis Profile`** — the marker-by-marker reference the block above summarises. It was not named here until 2026-09-02. **All kept; none reconciled.**
 
 ## 1.16 Autoimmune Markers — Systematic Reference

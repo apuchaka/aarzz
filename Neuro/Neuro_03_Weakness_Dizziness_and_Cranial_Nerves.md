@@ -19,12 +19,12 @@ part: "3 of 9"
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.1 Localising the Lesion`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Peripheral Neuropathy
@@ -288,7 +288,7 @@ Protective measures where sensation is lost — **foot care, water temperature c
 
 ## 0.1 The "Dizzy" Patient — Disambiguating the Complaint
 
-`CF-PAIR` **Three accounts of vertigo sit in this file and none declared the others before 2026-09-02:** `D5 §0.1 The "Dizzy" Patient` / `D5 §0.3 Episodic Vertigo` / `D5 §0.4 Disequilibrium and Chronic Dizziness` (which carry the Dix-Hallpike discriminators) · `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` · `NEW_Neurology ## Acute Vertigo` (the only one with otoscopy and Rinne/Weber). **All three kept in full, none reconciled.** The HINTS examination itself is `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`; the ear causes — Ménière's disease in particular — are `[[ENT_merged]] 13_03 ## Ménière's disease`.
+`CF-PAIR` **Three accounts of vertigo sit in this file and none declared the others before 2026-09-02:** `D5 §0.1 The "Dizzy" Patient` / `D5 §0.3 Episodic Vertigo` / `D5 §0.4 Disequilibrium and Chronic Dizziness` (which carry the Dix-Hallpike discriminators) · `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` · `NEW_Neurology ## Acute Vertigo` (the only one with otoscopy and Rinne/Weber). **All three kept in full, none reconciled.** The HINTS examination itself is `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`; the ear causes — Ménière's disease in particular — are `[[ENT_01_Ear_Hearing_Vertigo_and_Facial_Palsy]] 13_03 ## Ménière's disease`.
 
 **D:** "Dizziness" is a lay term covering at least four distinct symptoms, and the word alone is uninformative.
 
@@ -312,12 +312,12 @@ Protective measures where sensation is lost — **foot care, water temperature c
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.2 Acute Vestibular Syndrome and the HINTS Examination`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.3 Episodic Vertigo
@@ -334,7 +334,7 @@ Protective measures where sensation is lost — **foot care, water temperature c
 > **Episodes lasting 20 minutes to several hours** — not seconds (that is BPPV), not days (that is acute vestibular syndrome) — **with the characteristic triad of fluctuating sensorineural hearing loss, tinnitus and aural fullness**, alongside the vertigo.
 > The hearing loss is **low-frequency initially and fluctuates**, becoming permanent over years. **Documented hearing loss on audiometry is required for the diagnosis** — Ménière is over-diagnosed clinically in patients who actually have vestibular migraine.
 > Management: salt restriction, diuretics, betahistine, and for refractory disease intratympanic corticosteroid or gentamicin, or surgery. **Falls and drop attacks (Tumarkin otolithic crises)** can occur and matter for driving and occupational safety. `UNVERIFIED — diagnostic criteria and all treatment regimens; the evidence for several is weak.`
-> **The full ENT entry is `[[ENT_merged]] 13_03 ## Ménière's disease`** — ENT points at this file's vertigo material four times and this block carried no return pointer at all until 2026-09-02. **Both accounts kept; neither reconciled.**
+> **The full ENT entry is `[[ENT_01_Ear_Hearing_Vertigo_and_Facial_Palsy]] 13_03 ## Ménière's disease`** — ENT points at this file's vertigo material four times and this block carried no return pointer at all until 2026-09-02. **Both accounts kept; neither reconciled.**
 
 > [!danger] Vestibular migraine is the commonest cause of recurrent spontaneous vertigo — and it is under-diagnosed
 > **Episodes of vertigo of variable duration — minutes to days — in a patient with a history of migraine**, with photophobia, phonophobia, visual aura or headache **which may or may not accompany the vertigo.** Many patients have vertigo without any headache at all, which is precisely why it is missed.
@@ -620,7 +620,7 @@ Prisms or occlusion for persistent diplopia. Strabismus surgery once stable. **D
 
 ---
 
-> [!note] **Moved to `[[ENT_merged]]` on 2026-09-01:** `0.4 Speech, Voice and Swallowing` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[ENT_03_Throat_Airway_Voice_and_Swallowing]]` on 2026-09-01:** `0.4 Speech, Voice and Swallowing` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.5 Smell and Taste
 
@@ -696,13 +696,13 @@ Hearing rehabilitation, facial reanimation, swallow management, and surveillance
 ---
 
 > [!note] Cross-references
-> Stroke, gaze deviation and localisation → [[D3]] 0.2 · Headache, giant cell arteritis and raised intracranial pressure → [[D1]] 0.4 · Trigeminal neuralgia → [[D1]] 0.3 · Myasthenia gravis → [[D4]] 0.5 · Vertigo → [[D5]] · HINTS → `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Parkinsonism and hyposmia → [[D6]] 0.5 · Hearing loss and tinnitus → [[F1]] · Hoarseness, dysphagia and the ENT approach → [[F3]] · Oesophageal dysphagia → [[C6]] 0.3 · Orbital cellulitis and eyelid swelling → [[B6]] 0.4 · Orbital fracture → [[L8]] · Carotid dissection → [[D3]] 0.3 · Swallow screening after stroke → [[D3]] 0.1
+> Stroke, gaze deviation and localisation → [[D3]] 0.2 · Headache, giant cell arteritis and raised intracranial pressure → [[D1]] 0.4 · Trigeminal neuralgia → [[D1]] 0.3 · Myasthenia gravis → [[D4]] 0.5 · Vertigo → [[D5]] · HINTS → `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Parkinsonism and hyposmia → [[D6]] 0.5 · Hearing loss and tinnitus → [[F1]] · Hoarseness, dysphagia and the ENT approach → [[F3]] · Oesophageal dysphagia → [[C6]] 0.3 · Orbital cellulitis and eyelid swelling → [[B6]] 0.4 · Orbital fracture → [[L8]] · Carotid dissection → [[D3]] 0.3 · Swallow screening after stroke → [[D3]] 0.1
 
 
 > [!note] The Corpus B psychiatry sources moved out of this file on 2026-09-01
 > **`N1`–`N8` (Mental State Examination and Risk · Acute Behavioural Disturbance and Substance Use ·
 > Psychosis · Mood Disorders · Anxiety, OCD and Trauma · Functional, Dissociative and Personality
-> Disorders · Sleep Disorders · Eating Disorders) are now in [[Psychiatry_merged]]**, alongside
+> Disorders · Sleep Disorders · Eating Disorders) are now in the [[Psych_01_MSE_and_Risk_Assessment]]–`Psych_09` files**, alongside
 > their Corpus A partners `14_01`–`14a-2`. They were filed here in error, not merged here.
 > **The `[[N1]]`–`[[N8]]` wikilinks in this file still resolve** — they name the source file, which
 > is unchanged. **9 of them are now cross-file rather than intra-file.**

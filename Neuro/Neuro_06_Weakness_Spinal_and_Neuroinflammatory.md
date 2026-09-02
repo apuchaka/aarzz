@@ -442,11 +442,11 @@ Most often presents as a global pattern, ?generalised fatigue. Causes: cardio-pu
 
 > [!info] Recognised risk factors also include intranasal influenza vaccination and pregnancy (particularly the third trimester and immediate postpartum period, ~3× risk) and diabetes (~5× risk) — an association with COVID-19 has also been noted (see [[02_Respiratory]] Viral pneumonia/pneumonitis (including COVID-19) for the general COVID-19 entry, not repeated here), though the mechanism (as with the broader HSV-reactivation theory) remains incompletely understood.
 
-> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `Horner's Syndrome` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Ophth_03_Orbit_Lids_Pupil_and_Gap_Fill]]` on 2026-09-01:** `Horner's Syndrome` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)
 
-`CF-PAIR` **Three accounts of vertigo sit in this file and none declared the others before 2026-09-02:** `D5 §0.1 The "Dizzy" Patient` / `D5 §0.3 Episodic Vertigo` / `D5 §0.4 Disequilibrium and Chronic Dizziness` (which carry the Dix-Hallpike discriminators) · `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` · `NEW_Neurology ## Acute Vertigo` (the only one with otoscopy and Rinne/Weber). **All three kept in full, none reconciled.** The HINTS examination itself is `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`; the ear causes — Ménière's disease in particular — are `[[ENT_merged]] 13_03 ## Ménière's disease`.
+`CF-PAIR` **Three accounts of vertigo sit in this file and none declared the others before 2026-09-02:** `D5 §0.1 The "Dizzy" Patient` / `D5 §0.3 Episodic Vertigo` / `D5 §0.4 Disequilibrium and Chronic Dizziness` (which carry the Dix-Hallpike discriminators) · `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` · `NEW_Neurology ## Acute Vertigo` (the only one with otoscopy and Rinne/Weber). **All three kept in full, none reconciled.** The HINTS examination itself is `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`; the ear causes — Ménière's disease in particular — are `[[ENT_01_Ear_Hearing_Vertigo_and_Facial_Palsy]] 13_03 ## Ménière's disease`.
 
 **D:** an illusory sensation of movement (typically spinning) of oneself or the environment, reflecting a mismatch between vestibular, visual, and proprioceptive input.
 

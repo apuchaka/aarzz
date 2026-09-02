@@ -491,7 +491,7 @@ Haemostasis, adequate analgesia and anaesthesia, **copious irrigation**, debride
 Hand surgery or plastics referral for tendon, nerve, joint or complex wounds. Delayed primary closure where indicated.
 
 ### 0.5.3 Mx – Chronic/long-term
-Wound review at a defined interval, suture or staple removal at a site-appropriate time, scar advice, and **explicit written return advice for infection.** Cross-refer [[Examination]] Wound Management — Basic Principles.
+Wound review at a defined interval, suture or staple removal at a site-appropriate time, scar advice, and **explicit written return advice for infection.** Cross-refer [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Wound Management — Basic Principles.
 
 ---
 
@@ -528,6 +528,6 @@ Renal follow-up, since most myoglobinuric acute kidney injury recovers but some 
 ---
 
 > [!note] Cross-references
-> Inhalation and airway burns → [[A2]] 0.2 · Carbon monoxide poisoning → [[A5]] 0.4 · Electrical injury → [[A6]] 0.8 · Hypofluoric acid systemic toxicity and the Poisons Information Centre → [[A5]] 0.1 · Chemical eye injury in the ophthalmology context → [[E1]] · Analgesia and regional blocks → [[F0.4]] 0.9–0.11 · Non-accidental injury → [[P3]] · Wound management basics in the existing corpus → [[Examination]] Wound Management
+> Inhalation and airway burns → [[A2]] 0.2 · Carbon monoxide poisoning → [[A5]] 0.4 · Electrical injury → [[A6]] 0.8 · Hypofluoric acid systemic toxicity and the Poisons Information Centre → [[A5]] 0.1 · Chemical eye injury in the ophthalmology context → [[E1]] · Analgesia and regional blocks → [[F0.4]] 0.9–0.11 · Non-accidental injury → [[P3]] · Wound management basics in the existing corpus → [[Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds]] Wound Management
 
 

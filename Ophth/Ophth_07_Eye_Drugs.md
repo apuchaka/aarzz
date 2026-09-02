@@ -97,12 +97,12 @@ part: "7 of 7"
 > - **A red, painful eye with reduced vision is not dry eye** — that is keratitis, uveitis or worse.
 > - **Exposure keratopathy in the unconscious, sedated or facial-palsy patient** is a preventable cause of corneal damage: **eye care with lubricants and lid taping is a nursing and medical responsibility in ICU and in any patient who cannot close their eyes.**
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.2 Drugs for Eye Examinations and Procedures`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.5 Drugs for Retinal Disease

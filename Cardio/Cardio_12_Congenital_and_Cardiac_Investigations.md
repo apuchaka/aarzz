@@ -221,7 +221,7 @@ part: "12 of 13"
 
 **Alt:** Australian CVD risk calculator; coronary artery calcium score in selected intermediate-risk patients; genetic testing for familial hypercholesterolaemia.
 
-> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `0.4 Non-Stress Test (NST / Cardiotocography — CTG)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[OBGYN_05_Obstetric_Emergencies_and_Fetal_Assessment]]` on 2026-09-01:** `0.4 Non-Stress Test (NST / Cardiotocography — CTG)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Build status of this file
 

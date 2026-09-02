@@ -465,9 +465,9 @@ part: "9 of 10"
 
 **Alt:** Full haemolysis screen — reticulocytes, LDH, haptoglobin, bilirubin, blood film.
 
-> [!note] **Moved to `[[Heme Onc_merged]]` on 2026-09-01:** `0.34 G-CSF (Granulocyte Colony-Stimulating Factor)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[HemeOnc_07_Transplant_Oncological_Emergencies_and_Palliative_Care]]` on 2026-09-01:** `0.34 G-CSF (Granulocyte Colony-Stimulating Factor)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Infectious Disease_merged]]` on 2026-09-01:** `0.35 Rubella / Varicella Serology (Rubella IgG, Varicella IgG)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[ID_08_Investigations_and_Serology]]` on 2026-09-01:** `0.35 Rubella / Varicella Serology (Rubella IgG, Varicella IgG)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.36 Gastrografin (Water-Soluble Contrast Study)
 

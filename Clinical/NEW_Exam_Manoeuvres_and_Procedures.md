@@ -1,7 +1,7 @@
 ---
 block: NEW build — Exam Manoeuvres and Procedures
 source: data/BULK_BUILD_PLAN.md Part B; items from data/no_header_build_queue.md
-status: split and merged 2026-09-01 into [[Examination]] (under its "# 4 Named examination manoeuvres merged in from NEW_Exam_Manoeuvres_and_Procedures Part 1" heading) and [[Procedures]] (C2 / AXIS-2); this file is kept as the record
+status: split and merged 2026-09-01 into [[Exam_05_Named_Manoeuvres_and_Special_Tests]] (under its "# 4 Named examination manoeuvres merged in from NEW_Exam_Manoeuvres_and_Procedures Part 1" heading) and [[Procedures]] (C2 / AXIS-2); this file is kept as the record
 ---
 
 # NEW — Exam Manoeuvres and Procedures
@@ -42,7 +42,7 @@ status: split and merged 2026-09-01 into [[Examination]] (under its "# 4 Named e
 **Items in file: 19 entries covering all 16 Part B build-list rows plus the 3 manoeuvres deferred in from Part A files. Part B complete.**
 
 > [!note] **SPLIT AND MERGED — C2 / AXIS-2, 2026-09-01.**
-> **Part 1 (§0.1–§0.15, all fifteen MSK tests) → `[[Examination]]` Part 4.**
+> **Part 1 (§0.1–§0.15, all fifteen MSK tests) → `[[Exam_05_Named_Manoeuvres_and_Special_Tests]]` Part 4.**
 > **Part 2 (§0.16–§0.19: cardioversion, ICD, carotid endarterectomy, external fixation) → `[[Procedures]]`.**
 > Both verbatim, under `SOURCE:` dividers naming this file.
 >

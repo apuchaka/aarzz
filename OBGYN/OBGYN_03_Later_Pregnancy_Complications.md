@@ -426,5 +426,5 @@ part: "3 of 12"
 
 ---
 
-> [!note] **Moved to `[[Pediatrics_merged]]` on 2026-09-01:** `Birth injuries` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Paeds_03_Neonatology]]` on 2026-09-01:** `Birth injuries` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 

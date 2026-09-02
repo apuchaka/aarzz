@@ -214,7 +214,7 @@ source: built in chat, model knowledge, NOT source-verified
 > **Where it sits conceptually:** `GER6` is the **crosswalk for the `NEW_Drugs_01`–`21` set**, which
 > is stored across the system files rather than gathered. 20 of the 21 were already inside system
 > files; the 21st (`NEW_Drugs_21_Miscellaneous`) was placed in
-> `[[Endocrine and metabolics_merged]]` under C8, so **the set is now complete and uniformly stored.**
+> `[[Endo_11_Investigations]]` under C8, so **the set is now complete and uniformly stored.**
 >
 > **This file is not moved**, because it belongs to no single system — it is the index across them.
 > It has **0 inbound wikilinks**, so nothing depends on its location.
@@ -225,6 +225,6 @@ source: built in chat, model knowledge, NOT source-verified
 > by system, and the drug is met where the disease is met.
 >
 > **One anomaly fixed at the same time:** `NEW_Drugs_07_Blood_and_Electrolytes` was byte-identical in
-> two merged files. The `[[Heme Onc_merged]]` copy was kept (3 of its 4 sections are haematological);
-> `[[Endocrine and metabolics_merged]]` now carries a pointer.
+> two merged files. The `[[HemeOnc_04_Blood_and_Electrolyte_Drugs]]` copy was kept (3 of its 4 sections are haematological);
+> `[[Endo_12_Drugs]]` now carries a pointer.
 

@@ -92,7 +92,7 @@ part: "1 of 6"
 
 ## 0.5 Glue ear (otitis media with effusion / serous otitis media)
 
-> [!info] Gap-filled — hearing loss was stated as a feature without explaining the mechanism. **Why middle ear fluid causes hearing loss specifically, and why it's conductive rather than sensorineural**: normal hearing depends on the tympanic membrane and the three ossicles (malleus, incus, stapes) vibrating freely to transmit sound energy from the air-filled outer/middle ear into the fluid-filled inner ear (cochlea) — see [[Examination]] Rinne and Weber Tests for the broader conductive vs sensorineural framework this fits into, not repeated here. When the middle ear space fills with effusion (fluid) instead of air, this free vibration is **mechanically dampened** — the TM and ossicular chain can't move as efficiently through fluid as through air, impairing sound transmission before it ever reaches the cochlea. This is precisely why the hearing loss is **conductive** (a problem with sound transmission through the outer/middle ear) rather than sensorineural (which would reflect cochlear or nerve dysfunction) — the cochlea itself is unaffected, hearing is impaired purely by the fluid barrier upstream of it, which is also why the hearing loss typically resolves once the effusion clears.
+> [!info] Gap-filled — hearing loss was stated as a feature without explaining the mechanism. **Why middle ear fluid causes hearing loss specifically, and why it's conductive rather than sensorineural**: normal hearing depends on the tympanic membrane and the three ossicles (malleus, incus, stapes) vibrating freely to transmit sound energy from the air-filled outer/middle ear into the fluid-filled inner ear (cochlea) — see [[Exam_02_Neurological_Skin_and_Head_and_Neck]] Rinne and Weber Tests for the broader conductive vs sensorineural framework this fits into, not repeated here. When the middle ear space fills with effusion (fluid) instead of air, this free vibration is **mechanically dampened** — the TM and ossicular chain can't move as efficiently through fluid as through air, impairing sound transmission before it ever reaches the cochlea. This is precisely why the hearing loss is **conductive** (a problem with sound transmission through the outer/middle ear) rather than sensorineural (which would reflect cochlear or nerve dysfunction) — the cochlea itself is unaffected, hearing is impaired purely by the fluid barrier upstream of it, which is also why the hearing loss typically resolves once the effusion clears.
 
 - **R:** M>F, siblings with glue ear, spring/winter, bottle feeding, day care attendance, parental smoking.
 - **S/Smx:** peaks at age 2. Hearing loss in 80% — most often noticed by parents/teachers (poor listening, poor speech, language delay, inattention). Can be painless.
@@ -126,16 +126,16 @@ part: "1 of 6"
 > [!warning] Sourcing
 > Written from model knowledge, not retrieved from source. Examination technique, discriminators and clinical reasoning are reliable at intern level. **Every dose, time window, antibiotic regimen and audiometric threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG** and current ENT and Australian otitis media guidance.
 >
-> **Central causes of vertigo are built in the neurology block ([[D3]] 0.5), and the HINTS examination in `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`**, and **Ramsay Hunt syndrome in [[D7]]** — cross-referenced rather than repeated.
+> **Central causes of vertigo are built in the neurology block ([[D3]] 0.5), and the HINTS examination in `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`**, and **Ramsay Hunt syndrome in [[D7]]** — cross-referenced rather than repeated.
 
 ---
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.1 Examining the Ear and Assessing Hearing`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.2 Otalgia
@@ -266,7 +266,7 @@ part: "1 of 6"
 ## 0.6 Vertigo, Trauma and Foreign Bodies
 
 > [!tip] The peripheral (ear) causes of vertigo
-> **The critical central-versus-peripheral distinction is in [[D3]] 0.5 and the HINTS examination in `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`. The ear causes:**
+> **The critical central-versus-peripheral distinction is in [[D3]] 0.5 and the HINTS examination in `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`. The ear causes:**
 > **· BENIGN PAROXYSMAL POSITIONAL VERTIGO — brief (seconds) vertigo triggered by head POSITION change, diagnosed with the DIX-HALLPIKE manoeuvre and treated with the EPLEY repositioning manoeuvre, which is highly effective and can be done at the bedside.** **No hearing loss.**
 > **· VESTIBULAR NEURITIS — acute, severe, continuous vertigo lasting days, with nausea and vomiting, WITHOUT hearing loss.**
 > **· LABYRINTHITIS — the same picture WITH hearing loss.** **That single difference distinguishes them.**
@@ -298,7 +298,7 @@ part: "1 of 6"
 ---
 
 > [!note] Cross-references
-> Vertigo and central causes → [[D3]] 0.5 · HINTS examination → `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Facial nerve palsy and Ramsay Hunt → [[D7]] · Meningitis and hearing sequelae → [[D1]] 0.5 · Idiopathic intracranial hypertension → [[D1]] 0.3 · Nose, sinus and epistaxis → [[F2]] · Sore throat, hoarseness and head and neck cancer → [[F3]] · Neck lumps and facial pain → [[F4]] · Temporal bone fracture and head injury → [[L8]] 0.2 and [[F0.5]] 0.7 · Delirium and sensory impairment → [[D2]] 0.2 · Dementia and modifiable risk factors → [[D2]] 0.3 and [[GER1]] 0.5 · Otitis media and hearing loss in Aboriginal and Torres Strait Islander children → [[AU1]] 0.4 · Developmental surveillance and hearing → [[M4]] 0.5 · Behavioural presentations of hearing loss → [[M7]] 0.6 · Occupational noise exposure → [[RESP-X]] 0.2 and [[GER3]] · Button battery ingestion → [[F3]]
+> Vertigo and central causes → [[D3]] 0.5 · HINTS examination → `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Facial nerve palsy and Ramsay Hunt → [[D7]] · Meningitis and hearing sequelae → [[D1]] 0.5 · Idiopathic intracranial hypertension → [[D1]] 0.3 · Nose, sinus and epistaxis → [[F2]] · Sore throat, hoarseness and head and neck cancer → [[F3]] · Neck lumps and facial pain → [[F4]] · Temporal bone fracture and head injury → [[L8]] 0.2 and [[F0.5]] 0.7 · Delirium and sensory impairment → [[D2]] 0.2 · Dementia and modifiable risk factors → [[D2]] 0.3 and [[GER1]] 0.5 · Otitis media and hearing loss in Aboriginal and Torres Strait Islander children → [[AU1]] 0.4 · Developmental surveillance and hearing → [[M4]] 0.5 · Behavioural presentations of hearing loss → [[M7]] 0.6 · Occupational noise exposure → [[RESP-X]] 0.2 and [[GER3]] · Button battery ingestion → [[F3]]
 
 
 <!-- ===== SOURCE: 13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_.md ===== -->

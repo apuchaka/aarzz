@@ -174,11 +174,11 @@ part: "4 of 9"
 
 ---
 
-> [!note] **Moved to `[[Geriatrics_merged]]` on 2026-09-01:** `Delirium vs Dementia vs Depression — the "3 Ds" in Older People` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Geri_02_Falls_Frailty_Polypharmacy_and_the_Vulnerable_Older_Person]]` on 2026-09-01:** `Delirium vs Dementia vs Depression — the "3 Ds" in Older People` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Opioid Toxicity` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Emerg_08_Poisoned_Patient_and_Specific_Overdoses]]` on 2026-09-01:** `Opioid Toxicity` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Dementias
 

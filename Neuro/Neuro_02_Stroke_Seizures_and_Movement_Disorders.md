@@ -210,7 +210,7 @@ Blood pressure control, which is the principal preventive measure. Rehabilitatio
 > **· Space-occupying lesion, subdural haematoma, multiple sclerosis, Bell palsy, peripheral vestibular disease, hypertensive encephalopathy, drug or alcohol intoxication.**
 
 > [!danger] Chameleons — strokes that do not look like strokes
-> **· Isolated vertigo** — a posterior circulation stroke presenting as "dizziness" is the most consequential missed stroke, because these patients are discharged with a vestibular diagnosis. **The HINTS examination distinguishes central from peripheral vertigo and is more sensitive than early MRI** — cross-refer [[D5]] for the vertigo syndromes and `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` for the examination itself.
+> **· Isolated vertigo** — a posterior circulation stroke presenting as "dizziness" is the most consequential missed stroke, because these patients are discharged with a vestibular diagnosis. **The HINTS examination distinguishes central from peripheral vertigo and is more sensitive than early MRI** — cross-refer [[D5]] for the vertigo syndromes and `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` for the examination itself.
 > **· Acute confusion or delirium** — particularly with non-dominant hemisphere or thalamic strokes.
 > **· Isolated dysarthria or isolated monoparesis.**
 > **· Cortical blindness** (bilateral occipital) — the patient may deny blindness (Anton syndrome).
@@ -287,7 +287,7 @@ Rehabilitation, disease-modifying therapy in MS, driving and occupational advice
 ---
 
 > [!note] Cross-references
-> Headache, SAH and CVST → [[D1]] · Altered consciousness, delirium and dementia → [[D2]] · Weakness, neuropathy and radiculopathy → [[D4]] · Vertigo → [[D5]] · The HINTS examination → `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Cranial nerve examination and facial palsy → [[D7]] · Atrial fibrillation and anticoagulation → [[B3]] 0.4 · Hypertension management → [[B2]] · Anticoagulant reversal → [[A9]] 0.4 · Back pain red flags and cord compression → [[L4]] · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Driving after stroke or TIA → [[A10]] 0.6 · Functional neurological disorder → [[N6]]
+> Headache, SAH and CVST → [[D1]] · Altered consciousness, delirium and dementia → [[D2]] · Weakness, neuropathy and radiculopathy → [[D4]] · Vertigo → [[D5]] · The HINTS examination → `[[Exam_02_Neurological_Skin_and_Head_and_Neck]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Cranial nerve examination and facial palsy → [[D7]] · Atrial fibrillation and anticoagulation → [[B3]] 0.4 · Hypertension management → [[B2]] · Anticoagulant reversal → [[A9]] 0.4 · Back pain red flags and cord compression → [[L4]] · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Driving after stroke or TIA → [[A10]] 0.6 · Functional neurological disorder → [[N6]]
 
 
 <!-- ===== SOURCE: D6_Seizures_and_Movement_Disorders.md ===== -->

@@ -173,7 +173,7 @@ Down-sloping ST depression, flattened/inverted T waves, short QT interval, arrhy
 
 ---
 
-> [!note] **CO-LOCATED into `[[Emergency and Crit Care_merged]]` on 2026-09-01 — `## 0.20 Shock` and its four subsections, verbatim.**
+> [!note] **CO-LOCATED into `[[Emerg_05_Shock_and_Sepsis]]` on 2026-09-01 — `## 0.20 Shock` and its four subsections, verbatim.**
 >
 > Shock is a presentation you manage, not a cardiac disease, and `F0-3 §0.1`–`§0.6` there is the same
 > four-phenotype framework taught a second time. **Both accounts are now side by side and intact** —
@@ -311,7 +311,7 @@ Regular narrow-complex tachycardia not ventricular in origin. QRS <80 ms, usuall
 
 **Long-term Mx:** β-blockers, radio-frequency ablation
 
-> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Valsalva manoeuvre — forced expiration against a closed glottis. C` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 (2026-09-01):** `Valsalva manoeuvre — forced expiration against a closed glottis. C` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 
 ---

@@ -49,24 +49,24 @@ part: "10 of 13"
 > - **ASMR:** Aortic Stenosis & Mitral Regurgitation during Systole
 > - **ARMS:** Aortic Regurgitation & Mitral Stenosis during Diastole
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.21.2 Heart sounds`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ### 0.21.3 Prosthetic heart valves
 - **Biological:** usually bovine/porcine; structural deterioration and calcification over time; long-term anticoagulation not needed — aspirin long-term ± warfarin for first 3 months
 - **Mechanical:** bileaflet valve most common now; low failure rate; increased thrombosis risk → requires long-term warfarin. Target INR is risk-stratified rather than a single flat figure per valve position — confirmed against 2025 ESC guidance and multiple contemporary sources, Aug 2026: **aortic position, modern bileaflet valve, no additional thrombotic risk factors** — target 2.5 (range 2.0–3.0); **aortic position WITH additional risk factors** (AF, prior thromboembolism, LV dysfunction/EF <35%, hypercoagulable state) **or an older-generation valve** (ball-in-cage, older tilting-disc) — target 3.0 (range 2.5–3.5); **any mechanical mitral (or tricuspid) valve** — target 3.0 (range 2.5–3.5) regardless of additional risk factors, given the inherently higher thrombotic risk of the mitral position. The file's original flat "3.0 aortic/3.5 mitral" figures correspond to the higher-risk-factor aortic tier and the mitral tier respectively — not wrong, but incomplete, since a risk-factor-free modern bileaflet aortic valve should actually target the lower 2.5 figure. Low-dose aspirin (75–100mg) is typically added to warfarin in mechanical valve patients per current guidance, an addition not in the original note. I still could not confirm the specific Australasian Society of Thrombosis and Haemostasis (ASTH) document directly — the above reflects international (ESC/ACC-AHA-aligned) consensus, which Australian practice generally follows closely for this topic, but check ASTH directly for any AU-specific nuance before advising a specific patient.
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `0.21.4 Pulses`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## 0.22 Rheumatic Fever

@@ -500,7 +500,7 @@ part: "6 of 12"
 - **S/Smx:** pain, pins and needles in the thumb, index and middle finger — classically worse at night, patient might shake their hand to obtain relief; weakness of thumb abduction; wasting of the thenar eminence.
 
 > [!info] Clinical tests
-> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `- Tinel's sign — tapping the carpal tunnel causes paraesthesia.` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 (2026-09-01):** `- Tinel's sign — tapping the carpal tunnel causes paraesthesia.` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 
 - **Ix:** electrophysiology will show prolongation of the action potential.
@@ -799,12 +799,12 @@ part: "6 of 12"
 <!-- ===== SOURCE: 11_07a_Ortho_-_Dermatomes_and_Myotomes_Reference.md ===== -->
 
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `Dermatomes — quick reference`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## Upper limb nerve roots — sensory, motor, and reflexes
@@ -852,11 +852,11 @@ part: "6 of 12"
 | Superior gluteal | None | Hip abduction | Positive Trendelenburg sign |
 | Inferior gluteal | None | Hip extension, lateral rotation | Associated with sciatic nerve injury; difficulty rising from a seated position |
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `Brachial Plexus Injury — Erb's Palsy vs Klumpke's Palsy`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 

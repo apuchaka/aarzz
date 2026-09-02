@@ -30,7 +30,7 @@ part: "5 of 13"
 > **Intensity** — graded 1 to 6, with **grade 4 and above defined by a palpable thrill**, which is the practically useful boundary. `UNVERIFIED — Levine grading descriptors.`
 > **Associated findings** — pulse character, pulse pressure, apex beat, heart sounds, added sounds, and signs of heart failure. **The peripheral findings frequently establish the diagnosis more reliably than the murmur itself.**
 
-> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Dynamic manoeuvres` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 (2026-09-01):** `Dynamic manoeuvres` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 
 > [!tip] The common lesions

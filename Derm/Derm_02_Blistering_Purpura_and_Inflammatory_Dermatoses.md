@@ -432,12 +432,12 @@ part: "2 of 7"
 - **Ix:** guided by the differential above rather than a single fixed panel — FBC and coagulation screen (screens for thrombocytopenia/coagulopathy), blood cultures and inflammatory markers if infection/sepsis suspected, and the vasculitis-specific work-up under Cutaneous Vasculitis above if that's the leading differential based on the clinical pattern.
 - **Mx:** entirely dependent on the underlying cause identified above — this entry is a reasoning framework for reaching that diagnosis rather than a single treatment pathway; the only universal point is that **fever plus a rapidly progressive non-blanching rash warrants urgent empirical treatment for possible meningococcal septicaemia** (see [[04_Neurology]] Bacterial Meningitis for the specific AU-verified empirical antibiotic regimen, not repeated here) while the rest of the work-up proceeds in parallel, given the cost of delay in that specific scenario is so high.
 
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 on 2026-09-01 — 1 block from this source.**
 >
 > `Skin lesion morphology — reference terms`
 >
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> `[[Exam_04_System_File_Examination_Fragments]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
 
 ## Pemphigus

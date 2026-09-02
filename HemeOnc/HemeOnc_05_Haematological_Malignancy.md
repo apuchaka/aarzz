@@ -13,7 +13,7 @@ part: "5 of 10"
 <!-- ===== SOURCE: 10_09b_Haemonc_-_Miscellaneous_Haematology.md ===== -->
 
 
-> [!note] **Moved to `[[Infectious Disease_merged]]` on 2026-09-01:** `Hereditary angioedema` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[ID_07_Allergy_and_Clinical_Immunology]]` on 2026-09-01:** `Hereditary angioedema` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Fatigue and Pallor — Approach and Differential
 

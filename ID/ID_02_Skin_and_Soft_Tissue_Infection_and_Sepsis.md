@@ -330,7 +330,7 @@ Complete the treatment course with the repeat application, and manage environmen
 - **Mx of Eron Class I & II:** PO flucloxacillin (purulent) or phenoxymethylpenicillin (non-purulent) per the AU-specific distinction above, or clarithromycin/erythromycin (in pregnancy) or doxycycline for penicillin allergy. Class II may need IV treatment, but try to treat in the community.
 - **Mx of Eron Class III/IV:** admit if rapidly deteriorating, <1 year old, immunocompromised, significant lymphoedema, or facial/periorbital involvement. Treatment: IV flucloxacillin or cefazolin first-line, escalating to IV co-amoxiclav, clindamycin, cefuroxime, or ceftriaxone for more serious/broader-spectrum indications per the notes above.
 
-> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `Mastitis and Breast Abscess` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[OBGYN_11_Breast]]` on 2026-09-01:** `Mastitis and Breast Abscess` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## Necrotising fasciitis
 

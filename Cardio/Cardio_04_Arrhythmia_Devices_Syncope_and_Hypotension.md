@@ -62,7 +62,7 @@ Identify and treat precipitants. Cardiology referral for recurrent or symptomati
 > [!tip] Regular at about 150 — think flutter
 > Atrial flutter has an atrial rate of roughly 300, and with **2:1 conduction the ventricular rate is about 150 and metronomically regular.** Any regular narrow tachycardia near 150 should prompt a deliberate hunt for flutter waves — they hide in the T waves and are easiest to see in the inferior leads and V1. **Adenosine, by transiently blocking the AV node, unmasks them**, which makes it a diagnostic as well as a therapeutic agent.
 
-> [!note] **Moved to `[[Examination]]` Part 2 (2026-09-01):** `Vagal manoeuvres — do them properly` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Exam_04_System_File_Examination_Fragments]]` Part 2 (2026-09-01):** `Vagal manoeuvres — do them properly` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 
 > [!warning] Adenesine — warn the patient first

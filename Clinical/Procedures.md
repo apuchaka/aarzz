@@ -35,7 +35,7 @@ aliases:
 > **Known duplicate pairs to place side by side, never merge:**
 > `GER8 §0.3 Gastrografin` ↔ `GI NEW_Inv_Gastro §0.36 Gastrografin` ·
 > `GER8 §0.5 Arthrocentesis` ↔ `MSK L1 §0.6 Joint Aspiration` ↔ `MSK §1.15 Joint Aspirate` (the last two now
-> sit side by side in `[[MSK_merged]]`).
+> sit side by side in `[[MSK_02_Hot_Swollen_Joint_and_Orthopaedic_Emergencies]]`).
 
 ---
 
@@ -275,7 +275,7 @@ aliases:
 ---
 
 ## 0.5 Arthrocentesis
-`CF-PAIR` **THREE-WAY. The other two accounts are `§1.15 Joint Aspirate (Synovial Fluid) Analysis` and `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration and Synovial Fluid Interpretation`, now side by side in `[[MSK_merged]]`. All three kept in full, NOT reconciled — this one is the procedure, the other two are the interpretation.**
+`CF-PAIR` **THREE-WAY. The other two accounts are `§1.15 Joint Aspirate (Synovial Fluid) Analysis` and `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration and Synovial Fluid Interpretation`, now side by side in `[[MSK_02_Hot_Swollen_Joint_and_Orthopaedic_Emergencies]]`. All three kept in full, NOT reconciled — this one is the procedure, the other two are the interpretation.**
 
 > [!danger] You cannot exclude septic arthritis without aspirating the joint
 > **THIS IS THE MOST IMPORTANT SINGLE PROCEDURE IN THE ASSESSMENT OF A HOT, SWOLLEN, PAINFUL JOINT.**

@@ -387,7 +387,7 @@ Documentation, structured handover with ISBAR, and review of whether the deterio
 `CF-PAIR §1.12` **This block and Part 1 §1.12 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 
 > [!warning] FLAG 2026-09-01 — this file already defers to `Examination.md` in one place and duplicates it here
-> **`Anaes_merged.md:23` says *"See [[Examination]] Pre-Anaesthetic Assessment (Airway + Fitness for
+> **`Anaes_merged.md:23` says *"See [[Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative]] Pre-Anaesthetic Assessment (Airway + Fitness for
 > Anaesthesia)"*** — and `Examination.md §1.12` carries that title. This section, and
 > `AN1 §0.1 Preoperative Assessment` and `§0.2 Airway Assessment and Anaesthetic Technique`, duplicate it.
 > **The file has made the deferral once and not the second time.** Flagged, nothing moved.

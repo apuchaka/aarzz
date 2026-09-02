@@ -485,9 +485,9 @@ Wound care and tetanus status. Warn about serum sickness after antivenom. Redbac
 
 Topical ocular antihistamines are covered with the other drugs for allergic eye conditions in **0.2**, since in practice the useful agents are **dual-acting antihistamine/mast cell stabilisers** and separating them is artificial.
 
-> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.2 Drugs for Allergic and Inflammatory Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Ophth_07_Eye_Drugs]]` on 2026-09-01:** `0.2 Drugs for Allergic and Inflammatory Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `0.3 Other Drugs for Allergic Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+> [!note] **Moved to `[[Ophth_07_Eye_Drugs]]` on 2026-09-01:** `0.3 Other Drugs for Allergic Eye Conditions` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 ## 0.4 Other Drugs for Allergy
 *(covers build-list class: Mast cell stabilisers)*

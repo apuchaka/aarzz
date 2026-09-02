@@ -23,4 +23,4 @@ source: built in chat, model knowledge, NOT source-verified
 > `§0.3` and `§0.5` carry `CF-PAIR` markers: Gastrografin against `GI §0.36` (`M-18`), and
 > Arthrocentesis against the two interpretation accounts, `§1.15 Joint Aspirate` and
 > `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration`, which now sit side by side in
-> `[[MSK_merged]]`. Three copies, none merged.
+> `[[MSK_02_Hot_Swollen_Joint_and_Orthopaedic_Emergencies]]`. Three copies, none merged.
