@@ -474,6 +474,13 @@ aliases:
 - **Examination:** full skin examination **with the patient undressed** — including **scalp, behind the ears, umbilicus, natal cleft, nails, palms, soles and web spaces**, all of which are commonly skipped and all of which carry diagnostic information; distribution pattern (**extensor versus flexural is one of the highest-yield discriminators — psoriasis extensor, atopic eczema flexural**); morphology and scale character (silvery scale, greasy scale, fine collarette); **nail changes** (pitting, onycholysis, oil-drop sign in psoriasis); **Auspitz sign**; lichenification and excoriation; mucosal involvement (Wickham's striae in lichen planus); lymphadenopathy; joint examination.
 - **First-line Ix:** **often clinical**. Where needed: **skin scrapings for fungal microscopy and culture** — a low threshold, since tinea incognito is a common and avoidable error; **skin swab** if secondary infection; **FBC, UEC, LFTs, TFTs, glucose/HbA1c, CRP**; **iron studies and ferritin** where itch is prominent; **coeliac serology** where dermatitis herpetiformis is suspected; **ANA and extractable nuclear antigens** where connective tissue disease is possible; **patch testing** for suspected allergic contact dermatitis (referred, not done acutely); **skin biopsy** where the diagnosis remains unclear, and specifically where **a chronic "eczema" has failed to respond to adequate treatment** — the situation in which cutaneous lymphoma is found.
 
+---
+
+### Judgement calls you should check
+
+**Generalised Pruritus** and **Localised Pruritus** were **skipped, and this is my judgement rather than a literal match.** Neither string appears in any header. Both were skipped because the matched header `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` **explicitly names both** in its own title. Under a strictly literal reading they would be built; I judged "Generalised and Localised" in the header to be a direct statement that the existing entry covers them. **Overrule me if you want them built separately.**
+`ALSO IN _meta/MY_TASKS.md` **Restored 2026-09-02: this note was deleted with the build-status block in `67e5d31` and put back once the merge verification found it. It is a judgement about what was NOT built, and it is the only record of why.**
+
 
 
 <!-- ===== SOURCE: G2_Blisters_and_Skin_Failure.md ===== -->
