@@ -198,7 +198,7 @@ part: "5 of 5"
 **Alt:** Full hip range of motion with **log roll** (the most specific test for intra-articular hip pathology); FADIR/impingement test; Thomas test for fixed flexion; the sacroiliac provocation cluster; Trendelenburg test (0.9); radiographs and MRI.
 
 ## 0.9 Trendelenburg Test
-`CF-PAIR §1.26` **Part 1 §1.26 Trendelenburg's Sign and Gait covers the same test. Both kept in full, NOT reconciled.**
+`CF-PAIR Exam_03 §1.26` **`Exam_03 §1.26 Trendelenburg's Sign and Gait` covers the same test. Both kept in full, NOT reconciled.**
 
 **D:** Ask the patient to **stand on one leg** while you observe the pelvis from behind, ideally with your hands resting on both iliac crests. Repeat on the other side.
 
@@ -225,7 +225,7 @@ part: "5 of 5"
 **Alt:** Formal abductor power testing; observed gait (looking for the lurch); single-leg stance timing; hip radiographs and **MRI or ultrasound** for gluteal tendon pathology; EMG/NCS where nerve injury is suspected.
 
 ## 0.10 Adam's Test (Forward Bend Test)
-`CF-PAIR §1.25` **Part 1 §1.25 Scoliosis Screening (Adam's Forward Bend Test) covers the same test. Both kept in full, NOT reconciled.**
+`CF-PAIR Exam_03 §1.25` **`Exam_03 §1.25 Scoliosis Screening (Adam's Forward Bend Test)` covers the same test. Both kept in full, NOT reconciled.**
 
 **D:** The patient stands and **bends forward from the waist with knees straight and arms hanging**, feet together, while the examiner views the back **tangentially from behind** looking for asymmetry — a **rib hump** or paravertebral prominence. Quantified with a **scoliometer**, which measures the **angle of trunk rotation (ATR)**.
 

@@ -71,7 +71,7 @@ part: "4 of 5"
 *Moved here from `Emergency and Crit Care_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
 ## 0.1 The Deteriorating Patient — Recognition
-`CF-PAIR §1.2` **This block and Part 1 §1.2 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_01 §1.2` **This block and `Exam_01 §1.2 Vital Signs and Early Warning Scores` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 
 **D:** Physiological decline in a ward inpatient that precedes arrest or ICU transfer, usually detectable in observations hours beforehand.
 
@@ -131,14 +131,14 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 `CF-PAIR` **Pairs with `> [!info] Vagal manoeuvres — do them properly` below. Both kept in full, not reconciled.**
 
 ### 0.21.2 Heart sounds
-`CF-PAIR §1.5` **This block and Part 1 §1.5 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_01 §1.5` **This block and `Exam_01 §1.5 Cardiovascular Examination` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 - **S1 ("lub"):** closure of mitral and tricuspid valves
 - **S2 ("dub"):** closure of aortic and pulmonary valves; splitting on inspiration is normal
 - **S3:** rapid ventricular filling during diastole; normal if <30yo, may persist in some women ≤50yo; also seen in LV failure (e.g. dilated cardiomyopathy), constrictive pericarditis, mitral regurgitation
 - **S4:** atrial contraction against a stiff ventricle; seen in aortic stenosis, HTN, HOCM
 
 ### 0.21.4 Pulses
-`CF-PAIR §1.5` **This block and Part 1 §1.5 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_01 §1.5` **This block and `Exam_01 §1.5 Cardiovascular Examination` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 - **Pulsus paradoxus:** ≥10 mmHg fall in SBP on inspiration; seen in cardiac tamponade or severe asthma
 - **Slow-rising:** aortic stenosis
 - **Collapsing:** aortic regurgitation, patent ductus arteriosus, hyperkinetic states (anaemia, thyrotoxicosis)
@@ -151,7 +151,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 <!-- ===== SOURCE: B5_Murmurs__Endocarditis_and_Vascular_Disease.md ===== -->
 *Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-`CF-PAIR §1.5` **This block and Part 1 §1.5 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_01 §1.5` **This block and `Exam_01 §1.5 Cardiovascular Examination` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 > [!info] Dynamic manoeuvres
 > **Inspiration increases venous return to the right heart, so right-sided murmurs get louder** — the mnemonic **RILE** (Right on Inspiration, Left on Expiration).
 > **Valsalva and standing reduce preload, so most murmurs get quieter — with two exceptions that get LOUDER: hypertrophic cardiomyopathy and mitral valve prolapse.** Reduced ventricular volume worsens outflow obstruction in HOCM and increases prolapse in MVP. This pair of exceptions is examined repeatedly.
@@ -160,7 +160,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 <!-- ===== SOURCE: B2_Hypertension_Spectrum.md ===== -->
 *Moved here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-`CF-PAIR §1.18` **This block and Part 1 §1.18 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_02 §1.18` **This block and `Exam_02 §1.18 Fundoscopy (Direct Ophthalmoscopy)` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 > [!danger] Fundoscopy is the examination that most often makes the diagnosis
 > **Malignant (accelerated) hypertension** is defined by severe hypertension with **retinal haemorrhages, cotton wool spots, hard exudates or papilloedema.** It is the finding that converts an alarming number into an emergency, it is available at the bedside for free, and it is the assessment most often skipped. Look at the fundi in any patient with severe hypertension.
 
@@ -190,7 +190,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 *Moved here from `OBGYN_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
 ## 0.1 Triple Assessment
-`CF-PAIR §1.17` **This block and Part 1 §1.17 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_02 §1.17` **This block and `Exam_02 §1.17 Breast Examination` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 
 > [!danger] Triple assessment means all three components, and they must be CONCORDANT
 > **1. CLINICAL assessment — history and examination.**
@@ -233,7 +233,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 *Moved here from `Opthalm_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
 ## 0.2 Drugs for Eye Examinations and Procedures
-`CF-PAIR §1.18` **This block and Part 1 §1.18 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_02 §1.18` **This block and `Exam_02 §1.18 Fundoscopy (Direct Ophthalmoscopy)` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 
 - **Mydriatics and cycloplegics:** **tropicamide** (short-acting mydriatic, the standard for fundoscopy), **cyclopentolate** (longer, cycloplegic — used for refraction in children and in uveitis to relieve ciliary spasm), **atropine** (very long-acting — used therapeutically in uveitis and amblyopia, not for examination), **phenylephrine** (a sympathomimetic mydriatic without cycloplegia, often combined with tropicamide).
 - **Topical anaesthetics:** **oxybuprocaine, proxymetacaine, tetracaine** — for tonometry, foreign body removal, and to allow examination of a photophobic eye (see `NEW_Drugs_02_Anaesthetics.md` 0.1.4).
@@ -364,7 +364,7 @@ Post-event review, incident documentation, and where relevant an ICU outreach fo
 <!-- ===== SOURCE: M1_The_Seriously_Unwell_Child.md ===== -->
 *Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
-`CF-PAIR §1.23` **This block and Part 1 §1.23 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
+`CF-PAIR Exam_03 §1.23` **This block and `Exam_03 §1.23 Approach to Paediatric Examination` cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
 > **· Get down to the child's level, introduce yourself to THEM, and explain what you are doing in words they understand.**
 > **· Do the least distressing parts of the examination first and the ears and throat last.**
 > **· Use DISTRACTION — a parent's phone, bubbles, a toy, counting — which measurably reduces distress and improves cooperation.**

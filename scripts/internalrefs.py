@@ -146,8 +146,21 @@ def selftest():
     return ok
 
 def files():
-    o='\n'.join(vaultroot.tracked_md_files(ROOT,'*_merged.md'))
-    return [f for f in o.split('\n') if f.strip()]
+    """Every study file, not just the ones once called *_merged.
+
+    These two scripts exist because a file holding several SOURCE blocks restarts
+    section numbering at 0.1 in each of them, so a bare `§0.3` is ambiguous. That
+    property did not belong to the *name* `*_merged` — it belongs to the shape,
+    and the 157 split output files inherit it. Globbing `*_merged.md` after the
+    split matched only Anaes, GP and nineteen _meta/flags/ reports, so the check
+    scanned no study content and printed a clean zero. Rule 11: a check that
+    cannot fail is worse than no check.
+    """
+    o = '\n'.join(vaultroot.tracked_md_files(ROOT))
+    skip = {'CLAUDE.md', 'RUN_STATE.md', 'STUDY_INDEX.md', 'MY_TASKS.md',
+            'PENDING_GUIDELINE_CHECKS.md'}
+    return [f for f in o.split('\n')
+            if f.strip() and not f.startswith('_meta/') and f not in skip]
 
 if __name__=='__main__':
     if '--selftest' in sys.argv:
