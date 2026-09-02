@@ -182,7 +182,7 @@ The realistic goal of a single consultation is **not** to make the person leave.
 > [!info] **Reporting — and this is where interns most often assume wrongly.** For a competent adult, **there is generally no mandatory obligation to report intimate partner violence against their will**, and doing so can increase danger; obligations vary by jurisdiction, so check local law. Two situations do change this:
 > - **Children exposed to family violence** — this engages child protection mandatory reporting duties, which *do* apply to doctors (see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Sexual abuse for the SA framework). Exposure to violence is itself a form of harm, not merely context.
 > - **An older person** — see [[18_Geriatrics_and_Older_Persons_Health]] Abuse of Older People (Elder Abuse) and Carer Stress, where the position is different again.
-> Where capacity is in question, see [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework.
+> Where capacity is in question, see [[A10_Ethics__Capacity__Consent_and_Certification]] Capacity assessment — the general framework.
 
 ---
 
@@ -365,7 +365,7 @@ An intern's list is almost always longer than the shift. The workable ordering:
 **Key content/checkpoints to cover (checklist):**
 - [ ] State plainly what you have observed, factually, without interpretation or accusation
 - [ ] Explain **what you are doing and why**, in plain language
-- [ ] **Name the obligation** where one applies (see [[Clinical-Process-EBM-Consent-Capacity]] Mandatory Reporting — the Overarching Duty for which duties actually apply to which situations, not repeated here — they differ, and stating the wrong one damages credibility)
+- [ ] **Name the obligation** where one applies (see [[A10_Ethics__Capacity__Consent_and_Certification]] Mandatory Reporting — the Overarching Duty for which duties actually apply to which situations, not repeated here — they differ, and stating the wrong one damages credibility)
 - [ ] Explain **what happens next** honestly, including that you do not control it and cannot predict the outcome
 - [ ] Emphasise the purpose is **support and safety, not punishment** — most child protection involvement is supportive rather than removal, and families overwhelmingly assume the opposite
 - [ ] Allow the reaction — expect anger, fear, or a plea to reconsider — and **do not negotiate the referral itself**
@@ -405,7 +405,7 @@ Use **ISBAR** — the same structure as handover, and for the same reason (see C
 - **Know what you are asking for before you dial.** Advice? Review? Acceptance of care? Transfer? These are different requests and an unclear one wastes both people's time.
 - **Have the information to hand** — observations, relevant results, medications, and the actual question. Being asked something you have not looked up is the commonest reason a referral call goes badly.
 - **State your assessment**, not just the data. "I think this is X and I'd like your view" is a referral; reading out numbers is a request for someone else to do your thinking.
-- **Record who you spoke to, when, and what was advised.** A verbal opinion that is not documented did not happen (see [[Clinical-Process-EBM-Consent-Capacity]] Documenting in the Medical Notes, not repeated here).
+- **Record who you spoke to, when, and what was advised.** A verbal opinion that is not documented did not happen (see [[A10_Ethics__Capacity__Consent_and_Certification]] Documenting in the Medical Notes, not repeated here).
 
 > [!tip] If you are told something you think is wrong, or you remain worried after the call, **say so explicitly rather than accepting it politely and worrying alone**: *"I hear that, but I'm still concerned because…"* — and escalate to your own senior if the concern persists. Deferring to a more senior voice against your own judgement, without saying anything, is a recognised contributor to patient harm.
 
@@ -441,7 +441,7 @@ A good referral answers, in this order: **who is the patient, what is the questi
 
 > [!danger] **The family meeting is the main tool, and the failure mode is predictable: it becomes a room full of clinicians delivering information to a family who then cannot speak.** Prepare it — agree beforehand among the team what the message is and who will lead, or the family will hear three different prognoses. Establish what the family already understands before explaining anything. **Ask what the patient would have wanted** where they cannot say (see Goals of Care and Ceiling of Care (Treatment Escalation Planning) above). Give silence room. Summarise, agree actions with names against them, and document who was present.
 
-> [!info] **Two things worth holding.** **The identified patient may not be the person in most difficulty** — the presenting child, or the deteriorating older person, may be the visible symptom of a household under strain, and treating only them can miss it. And **confidentiality runs to the patient, not the family**: a capacitous adult decides what is shared, and a family's distress does not override that (see [[Clinical-Process-EBM-Consent-Capacity]] Capacity assessment — the general framework). Where the patient lacks capacity, involve the substitute decision-maker rather than whoever is most present or most insistent.
+> [!info] **Two things worth holding.** **The identified patient may not be the person in most difficulty** — the presenting child, or the deteriorating older person, may be the visible symptom of a household under strain, and treating only them can miss it. And **confidentiality runs to the patient, not the family**: a capacitous adult decides what is shared, and a family's distress does not override that (see [[A10_Ethics__Capacity__Consent_and_Certification]] Capacity assessment — the general framework). Where the patient lacks capacity, involve the substitute decision-maker rather than whoever is most present or most insistent.
 
 ---
 

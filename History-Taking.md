@@ -859,7 +859,7 @@ The first branch point is whether consciousness was lost, because it splits the 
 - **Past history** — previous STIs (reinfection is common and a previous diagnosis marks ongoing risk), previous testing and when, hepatitis B and HPV vaccination status.
 - **Prevention of pregnancy** — contraception, and whether pregnancy is possible or wanted (see [[16_16-17_Contraception]]).
 
-> [!tip] **How to ask, since the barrier here is almost never knowledge.** Normalise before you ask — *"I ask everyone these questions, because the answers change which tests I order"* — then ask directly and specifically rather than euphemistically. Vague questions get vague answers, and a vague answer here means the wrong swab. Confirm confidentiality first, and for anyone under 18 see [[Clinical-Process-EBM-Consent-Capacity]] Consent and children and [[History-Taking]] Adolescent Psychosocial Assessment (HEADSS/HEEADSSS).
+> [!tip] **How to ask, since the barrier here is almost never knowledge.** Normalise before you ask — *"I ask everyone these questions, because the answers change which tests I order"* — then ask directly and specifically rather than euphemistically. Vague questions get vague answers, and a vague answer here means the wrong swab. Confirm confidentiality first, and for anyone under 18 see [[A10_Ethics__Capacity__Consent_and_Certification]] Consent and children and [[History-Taking]] Adolescent Psychosocial Assessment (HEADSS/HEEADSSS).
 
 ### What a standard asymptomatic check consists of
 

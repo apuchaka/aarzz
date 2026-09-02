@@ -114,7 +114,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 3. Cytology — screens for malignant cells if a malignant effusion is suspected.
 4. Other fluid markers as clinically indicated (e.g. amylase for a pancreatitis-related effusion, triglycerides for suspected chylothorax).
 
-**Cross-reference:** see [[02_Respiratory]] Pleural Effusions for the full transudate/exudate cause list and [[Examination]] Pleural Aspiration for the practical procedure/technique.
+**Cross-reference:** see [[02_Respiratory]] Pleural Effusions for the full transudate/exudate cause list and [[Procedures]] §1.8 Pleural Aspiration (Procedure) for the practical procedure/technique.
 
 ---
 
@@ -174,7 +174,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 - Don't rely on the older transudate/exudate protein-only classification for ascites the way it's still used for pleural fluid — SAAG is the better-validated and more clinically useful split for ascitic fluid specifically.
 - A single ascitic tap with a low neutrophil count doesn't exclude evolving SBP if the clinical picture is highly suggestive — repeat if clinical deterioration continues despite an initially reassuring tap.
 
-**Cross-reference:** see [[03_Gastrointestinal]] Ascites (in ArLD) and Spontaneous Bacterial Peritonitis for full disease-level Mx, and [[Examination]] Abdominal Paracentesis for the practical procedure/technique.
+**Cross-reference:** see [[03_Gastrointestinal]] Ascites (in ArLD) and Spontaneous Bacterial Peritonitis for full disease-level Mx, and [[Procedures]] §1.11 Abdominal Paracentesis (Procedure) for the practical procedure/technique.
 
 ---
 
@@ -392,7 +392,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 >
 > **For Aboriginal and Torres Strait Islander patients this is concrete rather than theoretical: MMSE and MoCA are not validated for many, and a validated alternative exists — the KICA (Kimberley Indigenous Cognitive Assessment)** and related instruments, which should be used instead. This is already established in [[04_Neurology]] Mild Cognitive Impairment (MCI); it is repeated here because **this is the entry a reader reaches when they want the cutoff**, and a caveat that lives only beside the disease content does not reach them. (Note the scope question recorded as `PENDING_GUIDELINE_CHECKS.md` B22 — the entry does not claim national validation for KICA and should not be edited to imply it.)
 >
-> *The general rule, which applies to every screening cutoff in this file:* **a screening threshold carries its derivation population with it.** Before acting on a score, ask whether the patient resembles the group the instrument was normed in — the same question the [[Clinical-Process-EBM-Consent-Capacity]] Study Design and Bias — Reading the Evidence Behind a Recommendation raises about risk scores and trial results.
+> *The general rule, which applies to every screening cutoff in this file:* **a screening threshold carries its derivation population with it.** Before acting on a score, ask whether the patient resembles the group the instrument was normed in — the same question the [[PH1_Population_Health_and_Research_Literacy]] Study Design and Bias — Reading the Evidence Behind a Recommendation raises about risk scores and trial results.
 
 **Practical principle tying all three together:** the choice of tool should match the clinical question — AMTS for a rapid bedside screen (e.g. as part of an acute confusion/delirium work-up, see [[04_Neurology]] Delirium, not repeated here), MMSE as the most widely used and validated general screening tool, MoCA where mild impairment or an executive-predominant pattern is specifically suspected. None of the three substitutes for a full clinical assessment and collateral history where dementia or a specific cognitive syndrome is genuinely suspected.
 
