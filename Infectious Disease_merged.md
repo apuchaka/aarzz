@@ -119,7 +119,7 @@ De-escalate on cultures and review duration daily.
 
 ## 0.3 Fever of Unknown Origin and Prolonged Fever
 
-**D:** Fever above a defined threshold, persisting for a defined duration, **without a diagnosis despite an appropriate initial investigation.** `UNVERIFIED — the temperature threshold, duration and the definition of "appropriate initial investigation".`
+**D:** Fever above a defined threshold, persisting for a defined duration, **without a diagnosis despite an appropriate initial investigation.** `UNVERIFIED — the temperature threshold, duration and the definition of "appropriate initial investigation".` `CF-PAIR` **All three ARE in this file, at `08_09 ## Pyrexia of unknown origin (PUO) / Fever of unknown origin`, on the Petersdorf/Durack-Street criteria: fever >38.3°C on several occasions, >3 weeks, no cause after 3 days of inpatient evaluation or ≥3 outpatient visits. The marker stays — those figures are not verified against an Australian source here.**
 Subcategories: **classic, nosocomial, neutropenic, and HIV-associated** — each with a different differential.
 
 > [!tip] The four categories of cause, and roughly how they divide
@@ -205,7 +205,7 @@ Pathogen-specific therapy with infectious diseases involvement. **Radical cure w
 
 > [!danger] Febrile neutropenia is a medical emergency
 > **Antibiotics are given within a defined short interval of presentation — before the workup is complete, before the source is known, and before the neutrophil count returns if the history makes neutropenia likely.**
-> **Mortality rises with every hour of delay.** In practice this means: **recognise it at triage, take cultures immediately, and give the antibiotic.** `UNVERIFIED — the fever and neutrophil thresholds defining febrile neutropenia, the door-to-antibiotic time target, and the empirical regimen, all from eTG Antibiotic and local protocol.`
+> **Mortality rises with every hour of delay.** In practice this means: **recognise it at triage, take cultures immediately, and give the antibiotic.** `UNVERIFIED — the fever and neutrophil thresholds defining febrile neutropenia, the door-to-antibiotic time target, and the empirical regimen, all from eTG Antibiotic and local protocol.` `CF-PAIR` **Two of the three ARE in this file, at `NEW_Infectious_Diseases ## Fever in the Immunocompromised`: ≥38.5°C once or ≥38.0°C sustained, ANC <0.5 ×10⁹/L (or <1.0 and predicted to fall), and antibiotics within 60 minutes. **THE EMPIRICAL REGIMEN IS NOT** — that account independently declines to state it, and gives the reason (local resistance patterns, hospital protocol, egress-blocked). So the regimen half of this marker stands.**
 
 > [!danger] There may be no localising signs, because the signs require neutrophils
 > **Pus, erythema, consolidation on chest radiograph, and peritonism are all products of the neutrophilic inflammatory response — which the patient does not have.**
@@ -331,6 +331,7 @@ Source control — drainage, line removal, return to theatre for a leak. Cessati
   - **Lumbar puncture** where CNS infection is suspected — **after considering platelets and coagulation**, and **never delaying antibiotics**.
 
 > [!danger] **The definition and the time target, which are the two facts to carry.**
+> `CF-PAIR` **`K1 §0.5 Fever in the Immunocompromised, and Febrile Neutropenia` in this file marks these same three figures `UNVERIFIED` and states none of them.** Both kept, neither reconciled.
 > **Febrile neutropenia** is commonly defined as a **single oral temperature of ≥38.5°C, or ≥38.0°C sustained or on two readings**, together with an **absolute neutrophil count <0.5 × 10⁹/L — or <1.0 × 10⁹/L and predicted to fall below 0.5**. Australian (eviQ) and international sources agreed on this structure; **the exact temperature convention varies slightly between protocols**, so use the local one.
 > **Empirical broad-spectrum intravenous antibiotics must be given within 60 minutes of presentation.** Multiple independent sources — Australian state and paediatric guidelines and international oncology guidance — agree on this target, and on the finding that delay beyond an hour is associated with worse outcomes.
 > **The intern-level actions:** recognise it, **triage it as an emergency**, take cultures **without delaying treatment**, give the empirical antibiotic on the local protocol within the hour, escalate immediately, and **do not wait for the blood count to come back if the clinical suspicion is there.**
@@ -728,6 +729,8 @@ Complete the treatment course with the repeat application, and manage environmen
 ## Pyrexia of unknown origin (PUO) / Fever of unknown origin (FUO)
 
 > [!note] Expanded from CSV ("Fever of unknown origin," High yield) — the original entry was genuinely thin (a one-line definition and a bare causes list) for a High-yield topic; expanded with a systematic approach, Ix, and Mx. Verified against the NSW Agency for Clinical Innovation's FUO clinical tool, Aug 2026 — PUO and FUO are the same entity under different terminology (PUO the more traditional/British term, FUO more commonly used internationally including in current Australian resources); both are used interchangeably here.
+
+`CF-PAIR` **`K1 §0.3 Fever of Unknown Origin and Prolonged Fever` in this file marks the threshold, the duration and the definition of "appropriate initial investigation" `UNVERIFIED` and states none of them.** Both kept, neither reconciled.
 
 - **D (classic definition, Petersdorf/Durack-Street criteria):** fever >38.3°C on several occasions, for >3 weeks' duration, with no cause identified despite 3 days of inpatient evaluation or ≥3 outpatient visits (the original 1961 definition required 1 week of *inpatient* evaluation specifically; this was revised in 1991 to reflect that thorough outpatient work-up is now often possible, so a lack of hospital admission doesn't preclude the diagnosis).
 - **A genuinely important framing point:** FUO/PUO is most commonly an **atypical presentation of a common condition**, rather than a rare or exotic disease — this should shape the initial differential and Ix priorities, which is why the systematic approach below front-loads common causes before considering rarer possibilities.
