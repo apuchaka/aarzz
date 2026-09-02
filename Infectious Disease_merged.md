@@ -2987,6 +2987,9 @@ Immunotherapy or biologic therapy through a specialist service.
 
 ---
 
+> [!warning] **Two items were added on audit (2026-08-30), and the omission is recorded rather than quietly corrected.**
+> `Campylobacter` and `Clostridium perfringens` are both `[T3]` no-header rows in `data/build_list_investigations.md` and were **missed at first build**. The original status block claimed 21 built and its arithmetic did not reconcile with the build list (27 + 6 CUT ≠ 30 rows). They are now built as **0.22** and **0.23**, and the counts above are corrected. **The gap was found only by re-deriving the row list from the build list and checking each row against the file** — a narrative completeness claim would not have caught it.
+
 ## 0.22 Campylobacter (Stool Culture / Multiplex PCR)
 
 **D:** Detection of ***Campylobacter jejuni*** (and *C. coli*) in stool by **culture on selective media at 42 °C in a microaerophilic atmosphere**, or — now more commonly and much faster — as part of a **multiplex gastrointestinal PCR panel**.
@@ -3504,3 +3507,4 @@ Immunotherapy or biologic therapy through a specialist service.
   - **Supply is limited and criteria-based** — the national criteria determine which indications are funded, and requests go through a formal approval process.
 
 
+> [!danger] **A note on how this file is written, per CLAUDE.md rule 8.** This is the one section where **stating specific figures would be actively harmful**, because the Australian schedule changes and a note like this one will be out of date before it is read. **The value here is in the principles and the traps — live vaccines and immunosuppression, what is not a contraindication, vaccinating before starting a biologic, cold chain, and the immunoglobulin–live vaccine interval — all of which are stable. The numbers are deliberately left to the Handbook.**

@@ -1929,6 +1929,8 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 **Alt:** Slit-lamp examination for **Kayser–Fleischer rings**; serum caeruloplasmin and free copper; liver biopsy with quantitative copper; *ATP7B* genetic testing; MRI brain.
 
+**Sourcing note:** the Wilson disease figures (caeruloplasmin <0.2 g/L; urinary copper >40 µg/day children, >100 µg/day adults) are stated **as orientation with an explicit caveat**, because sources describe the biochemical thresholds themselves as imperfect and a systematic review exists on their variable performance. They are not presented as a rule.
+
 
 
 <!-- ===== SOURCE: NEW_Drugs_13_Genitourinary.md ===== -->
