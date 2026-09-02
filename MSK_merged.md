@@ -1,5 +1,504 @@
 
 
+<!-- ===== SOURCE: NEW_Orthopaedics_and_Trauma.md ===== -->
+
+
+# NEW — Orthopaedics & Trauma
+
+> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains all Tier 1 and Tier 2 Orthopaedics & Trauma topics.** The category has 2 T1, 2 T2, 51 T3 and 2 CUT topics. T3 not yet built. See the build-status table at the end.
+
+## Acute Back Pain
+
+- **D:** back pain of recent onset. **The overwhelming majority is benign, self-limiting mechanical back pain — and the entire clinical value of the assessment lies in identifying the small minority that is not.** The structure of this entry follows that logic: screen for the serious causes, and if absent, avoid over-investigating.
+- **DDx:**
+  - **The serious causes to screen for:**
+    - **Cauda equina syndrome** — a surgical emergency.
+    - **Malignancy** — metastatic disease (breast, prostate, lung, kidney, thyroid, myeloma), or primary bone tumour.
+    - **Infection** — vertebral osteomyelitis, discitis, **spinal epidural abscess** (particularly in intravenous drug use, diabetes, immunosuppression, recent spinal procedure or bacteraemia).
+    - **Fracture** — osteoporotic vertebral compression fracture (may follow trivial or no trauma in an older or steroid-treated patient), traumatic fracture.
+    - **Inflammatory back pain** — axial spondyloarthritis; suggested by **age of onset under 40, insidious onset, morning stiffness over 30 minutes, improvement with exercise and not with rest, and night pain waking the patient in the second half of the night** — the reverse of the mechanical pattern.
+  - **Referred and non-spinal causes that present as back pain and are missed:** **ruptured or expanding abdominal aortic aneurysm** (older patient, sudden severe back or flank pain, consider before diagnosing "renal colic"), **aortic dissection**, pancreatitis, peptic ulcer, pyelonephritis, renal colic, biliary disease, retroperitoneal haemorrhage, pelvic and gynaecological pathology, herpes zoster before the rash.
+  - **Mechanical/benign:** lumbar strain, degenerative disc and facet joint disease, **lumbar disc herniation with radiculopathy (sciatica)**, spondylolisthesis, lumbar spinal stenosis.
+- **Focused Hx:** onset and mechanism, including whether trauma was proportionate to the injury; site, radiation and whether pain follows a dermatomal pattern below the knee; **night pain and rest pain**; morning stiffness and its duration; **the cauda equina questions, asked explicitly of every patient and documented — urinary retention or difficulty initiating, urinary or faecal incontinence, saddle or perineal numbness, sexual dysfunction, and bilateral leg symptoms**; **red-flag history: age over 50 or under 20 at first onset, known malignancy, unexplained weight loss, fever or night sweats, immunosuppression, corticosteroid use, osteoporosis, intravenous drug use, recent spinal procedure or bacteraemia, significant trauma, and progressive neurological deficit**; anticoagulation; previous episodes and response; and the **psychosocial and occupational context**, which predicts chronicity more strongly than imaging does.
+- **Examination:** gait and posture; **inspection for deformity and for a dermatomal vesicular rash**; **palpation for focal bony tenderness over spinous processes** (raising fracture, infection or metastasis) versus diffuse paraspinal muscular tenderness; range of movement; **straight leg raise and femoral stretch test**; **full lower limb neurological examination — power by myotome, sensation by dermatome, reflexes and plantar responses**, comparing sides; **assessment of perianal sensation and anal tone where any cauda equina feature is present** — this examination is not optional if the history raises it, and its omission is a recurring medicolegal finding; **post-void bladder scan** where retention is possible; **abdominal examination including palpation for an expansile mass and assessment of femoral pulses**; temperature; breast, chest, prostate and lymph node examination where malignancy is a consideration.
+- **First-line Ix:** **in the absence of red flags, no imaging** — early imaging in uncomplicated acute back pain does not improve outcomes and generates incidental findings that drive unnecessary intervention. This is one of the clearest examples of appropriate non-investigation in the whole curriculum. Where red flags are present:
+  - **Urgent MRI of the whole spine** for suspected cauda equina syndrome, epidural abscess, or cord compression — **MRI is the definitive test**, and for cauda equina it is arranged as an emergency, not as an outpatient request.
+  - **FBC, CRP and ESR** — inflammatory markers are the most useful screen for infection and inflammatory disease; **blood cultures** if infection is suspected.
+  - **UEC, calcium, LFTs including ALP**, and **serum and urine protein electrophoresis with free light chains** where myeloma is a consideration.
+  - **PSA** in an older man with suspected metastatic disease.
+  - **Plain X-ray** where fracture is suspected — with the limitation that it can be normal early and does not exclude infection or malignancy.
+  - **CT or CT angiography of the abdomen** where aneurysm or dissection is a possibility.
+  - **Post-void residual volume** measured and recorded.
+
+> [!danger] **Cauda equina syndrome — the red flags, and why they must be asked rather than waited for.** Suspect it with acute back pain plus any of: **new urinary retention or overflow incontinence**, **faecal incontinence or loss of anal tone**, **saddle or perineal sensory loss**, **sexual dysfunction of new onset**, or **bilateral sciatica or progressive bilateral leg weakness**. Multiple sources agree that **earlier decompression gives better recovery of motor, sensory, bladder and bowel function** — so this is an immediate referral for urgent MRI and surgical assessment, not an overnight wait. *(Sources quote differing specific time targets for surgery, so no single figure is stated here; the operative principle is that delay costs function.)*
+> **Painless urinary retention is not reassuring — it is the classic late presentation**, and by then the recovery of bladder function is substantially worse. Ask about it in every patient with acute back pain, and record the answer.
+
+## Acute Limb Pain
+
+- **D:** pain in an arm or leg of recent onset. The organising principle is that **several of the causes are limb- or life-threatening and time-critical**, and each has a specific tell that separates it from ordinary musculoskeletal pain.
+- **DDx — the time-critical group first:**
+  - **Acute limb ischaemia** — sudden arterial occlusion by embolus or thrombosis. The classic **"6 Ps": pain, pallor, pulselessness, paraesthesia, paralysis and perishing cold (poikilothermia)**. They are rarely all present at once, and **paraesthesia and paralysis are the ominous pair** — they mark threatened, not merely symptomatic, ischaemia and demand immediate vascular referral.
+  - **Acute compartment syndrome** — raised pressure within a fascial compartment compromising perfusion. Classically after fracture, crush injury, reperfusion, tight casts or bandages, burns, or a prolonged period lying on the limb; also in anticoagulated patients after minor injury. **The cardinal feature is pain out of proportion to the injury, and pain on passive stretch of the muscles in the affected compartment**. **Pulses are typically present — their presence does not exclude it**, which is the single most dangerous misconception about this diagnosis.
+  - **Necrotising fasciitis** — pain grossly out of proportion to skin appearances, rapid progression, systemic toxicity, skin anaesthesia, crepitus or bullae developing later.
+  - **Septic arthritis** — a hot, swollen, exquisitely painful joint with markedly restricted movement, in a systemically unwell patient.
+  - **Deep vein thrombosis** and **massive iliofemoral thrombosis (phlegmasia)**.
+  - **Fracture and dislocation**, including **fragility fracture in an older person after minimal trauma** and **occult neck of femur fracture**.
+- **The rest of the differential:** cellulitis, gout and pseudogout, ruptured Baker's cyst, muscle tear or haematoma (particularly on anticoagulants), tendon rupture, radiculopathy and nerve root compression, peripheral neuropathy, **complex regional pain syndrome** (disproportionate pain with autonomic and trophic change after an injury), osteomyelitis, bone metastasis or primary bone tumour, sickle cell vaso-occlusive crisis, and referred pain — **cardiac ischaemia presenting as arm pain** being the one not to overlook.
+- **Focused Hx:** onset — **sudden and severe suggests vascular or fracture; progressive over hours suggests compartment syndrome or infection**; trauma and its mechanism, and whether the pain is proportionate to it; **analgesia requirement and whether it is escalating despite treatment** — an escalating opioid requirement in a limb after injury is a compartment syndrome warning sign in itself; sensory change and weakness; fever and systemic upset; **cardiac history and atrial fibrillation** (embolic source); claudication or previous vascular disease and intervention; recent immobility, surgery, malignancy, previous VTE, hormonal therapy or long-haul travel; anticoagulation; intravenous drug use; recent cast, splint or tight dressing; diabetes and immunosuppression; joint disease and gout.
+- **Examination:** **compare with the other limb throughout.** Inspect for colour, swelling, deformity, wounds, blistering, bruising and skin changes; **palpate temperature and all distal pulses, and use a hand-held Doppler if pulses are not palpable**; capillary refill; **assess compartments for tenderness and tension, and specifically test pain on passive stretch**; full neurological examination of the limb — sensation, power and, importantly, **serial reassessment, since compartment syndrome is a diagnosis made over time**; joint examination for effusion, warmth and range of movement; measure and mark any area of erythema; check for crepitus; **vital signs and a full septic screen**; examine the abdomen and cardiovascular system for an embolic source or aneurysm.
+- **First-line Ix:** **the diagnosis of both acute limb ischaemia and compartment syndrome is clinical, and neither should wait for imaging.** Alongside urgent senior referral:
+  - **Bloods:** FBC, CRP, UEC, **creatine kinase** (rhabdomyolysis in compartment syndrome and prolonged ischaemia), **coagulation profile**, group and hold, lactate, **urate** if gout is possible, blood cultures if febrile.
+  - **Urinalysis for myoglobin** where rhabdomyolysis is suspected.
+  - **ECG** — for atrial fibrillation as an embolic source, and for a cardiac cause of arm pain.
+  - **Arterial duplex ultrasound or CT angiography** for suspected acute limb ischaemia, **arranged without delaying vascular referral**.
+  - **Venous duplex ultrasound** for suspected DVT within a validated pretest-probability pathway.
+  - **Plain X-ray** for suspected fracture; **MRI** where an occult hip fracture is suspected and X-rays are normal, since a normal X-ray does not exclude it.
+  - **Joint aspiration before antibiotics** where septic arthritis is suspected — for cell count, Gram stain, culture and crystals.
+  - **Compartment pressure measurement** where the diagnosis is clinically uncertain, particularly in an obtunded or anaesthetised patient who cannot report pain. Sources agree the commonly used thresholds are **an absolute compartment pressure above roughly 30 mmHg**, or **a delta pressure (diastolic BP minus compartment pressure) of less than about 30 mmHg**; the delta measure is generally preferred because it accounts for perfusion pressure. **In a conscious patient with a convincing clinical picture, a normal pressure reading does not override the clinical diagnosis, and measurement must not delay fasciotomy.**
+
+> [!danger] **Both time-critical diagnoses here are made worse by waiting for a test.** For **compartment syndrome**, sources agree that **fasciotomy performed early gives near-complete functional recovery, and that delay beyond several hours risks irreversible nerve and muscle damage** — the specific hour figures vary between sources and are not fixed here, but the direction is unambiguous. For **acute limb ischaemia**, the presence of **paraesthesia or paralysis** marks a threatened limb requiring immediate vascular surgical involvement. In both, **the correct intern action is escalation, serial reassessment and documentation of the neurovascular status at each check** — not ordering an investigation and waiting for it.
+
+## Acute Neck Pain
+
+- **DDx:**
+  - **Serious causes to exclude:** **cervical fracture or ligamentous instability** after trauma; **cervical myelopathy or cord compression** (from disc, tumour, abscess or trauma) — indicated by **limb weakness, gait disturbance, clumsy hands, bladder or bowel involvement, and upper motor neurone signs in the legs**; **epidural abscess** and **vertebral osteomyelitis/discitis** (fever, immunosuppression, IV drug use, recent bacteraemia or procedure); **malignancy** with vertebral metastases; **meningitis** and **subarachnoid haemorrhage** (neck stiffness with headache and fever or thunderclap onset — the neck pain is a symptom of the intracranial problem, not a mechanical one); **vertebral or carotid artery dissection** (neck pain with headache, Horner's syndrome, or neurological deficit — commoner in younger patients and after minor trauma or neck manipulation); **inflammatory arthritis with atlanto-axial instability**, particularly in **long-standing rheumatoid arthritis**, which is a critical anaesthetic and manual-handling consideration.
+  - **Common and mechanical:** cervical strain, degenerative facet and disc disease, **cervical radiculopathy** (dermatomal arm pain, often worse with neck extension and rotation toward the side of pain), acute torticollis, whiplash-associated disorder, myofascial pain, poor posture and occupational strain.
+  - **Referred:** cardiac ischaemia, pharyngeal or dental infection, apical lung pathology (**Pancoast tumour**, with shoulder and arm pain, Horner's syndrome and hand wasting), thyroiditis, diaphragmatic irritation.
+- **Focused Hx:** mechanism and severity of any trauma; **age, and whether there is a dangerous mechanism** — both feed into the validated cervical spine imaging decision rules used in Australian emergency departments; **midline neck pain versus paraspinal**; **arm pain, numbness, weakness, and its distribution**; **the myelopathy questions — buttons and coins, handwriting deterioration, unsteady gait, urinary urgency or retention**; **fever, night sweats, weight loss, known malignancy, immunosuppression, IV drug use**; headache and its onset; **rheumatoid arthritis and its duration**; anticoagulation; recent neck manipulation; occupation.
+- **Examination:** **if trauma is possible, immobilise and clear the cervical spine using a validated decision rule before moving the neck.** Otherwise: inspect posture and deformity; **palpate for midline bony tenderness (bone) versus paraspinal muscular tenderness**; range of movement; **full upper and lower limb neurological examination — power, reflexes, sensation, tone and plantar responses**, since **hyperreflexia and upgoing plantars in the legs with neck pain means myelopathy until proven otherwise**; **gait and Romberg's**; **Hoffmann's sign**; **Spurling's test** for radiculopathy; **neck stiffness and Kernig's sign** where meningitis is possible; **Horner's syndrome**; temperature; lymph nodes and thyroid; and cardiorespiratory examination for referred causes.
+- **First-line Ix:** **none for uncomplicated mechanical neck pain.** Where red flags exist: **CT cervical spine** for suspected fracture (**a validated decision rule should drive this, not reflex imaging**); **urgent MRI cervical spine** for suspected myelopathy, cord compression, abscess or malignancy — **MRI is the test, and CT does not exclude these**; **FBC, CRP, ESR, blood cultures** for suspected infection; **CT or MR angiography of the neck vessels** for suspected dissection; **CT brain** for suspected subarachnoid haemorrhage; **calcium, ALP, myeloma screen and PSA** where malignancy is suspected; **flexion–extension views or CT** where atlanto-axial instability is a concern in rheumatoid disease — **and flag this to the anaesthetic team before any airway manipulation.**
+
+## Acute Soft Tissue Swelling
+
+- **DDx:**
+  - **Infective — the time-critical group:** **necrotising fasciitis** (**pain out of proportion, rapid progression, systemic toxicity, skin anaesthesia, crepitus, bullae or dusky skin** — a surgical emergency where delay to debridement drives mortality), **cellulitis and abscess**, **septic arthritis** or bursitis, **osteomyelitis**, **Ludwig's angina** and other deep space infections when in the neck.
+  - **Vascular:** **deep vein thrombosis**, superficial thrombophlebitis, haematoma (especially **on anticoagulants, and spontaneously in a patient with a bleeding disorder**), **acute limb ischaemia with reperfusion swelling**, ruptured Baker's cyst (mimics DVT closely), lymphoedema, venous insufficiency.
+  - **Traumatic:** contusion, muscle tear, fracture, **compartment syndrome**, tendon rupture, joint effusion or haemarthrosis.
+  - **Inflammatory and other:** **gout and pseudogout** (which reliably mimic infection — hot, red, exquisitely tender), reactive or inflammatory arthritis, **angioedema** (including **ACE inhibitor–induced, which can occur years after starting the drug**, and hereditary angioedema — both of which threaten the airway when facial or oral), allergic reaction, **anaphylaxis**, insect or snake bite envenomation, drug reaction, malignancy including soft tissue sarcoma, and **generalised oedema from cardiac, renal, hepatic or nutritional causes presenting as a swollen limb**.
+- **Focused Hx:** **speed of onset — over minutes suggests allergy, angioedema or bleeding; over hours suggests infection or DVT; over days to weeks suggests inflammatory, venous or neoplastic causes**; **pain and whether it is out of proportion to appearances**; fever and systemic upset; trauma; **anticoagulants and antiplatelets**; **ACE inhibitors and angiotensin receptor blockers, and NSAIDs** for angioedema; allergen, food, drug, sting or bite exposure; **VTE risk factors in full**; previous similar episodes; known gout; immunosuppression, diabetes and IV drug use; recent surgery, cannula or injection at the site; travel; and cardiac, renal and liver history.
+- **Examination:** **vital signs and a sepsis assessment first** — swelling with systemic illness is a different problem from swelling alone.
+  - **Mark the border of any erythema with a pen and note the time** — the practical intern action that lets the next reviewer see whether it is advancing.
+  - Assess **temperature, tenderness, fluctuance, crepitus, skin colour including dusky or mottled areas, blistering, and any area of anaesthesia within the swelling** — **anaesthetic skin over a painful swelling is a necrotising infection sign**.
+  - **Compare with the other side, and measure limb circumference at a marked level** for a suspected DVT.
+  - Assess **distal neurovascular status, compartments, and pain on passive stretch**.
+  - Examine the **joint** — effusion, range of movement, and whether the pain is truly articular.
+  - **Airway assessment and inspection of the lips, tongue and oropharynx** in any facial or neck swelling.
+  - Look for **generalised oedema, JVP elevation, ascites and pitting**, which reframe the problem as systemic.
+- **First-line Ix:** **FBC, CRP, UEC, LFTs, coagulation profile, creatine kinase, lactate, blood cultures if febrile**; **urate** (though a normal level during an acute gout attack is common and does not exclude it, and a raised level does not exclude septic arthritis); **glucose/HbA1c**; **venous duplex ultrasound** for suspected DVT within a pretest-probability pathway; **plain X-ray** for fracture, foreign body or gas in the tissues; **ultrasound** for abscess and fluid collections; **CT or MRI** where deep infection, necrotising fasciitis or malignancy is suspected — **but in necrotising fasciitis, imaging must not delay surgical review**; **joint aspiration before antibiotics** where septic arthritis is possible; **albumin, urinalysis with protein quantification, and echocardiography** where the swelling is generalised.
+
+> [!danger] **Necrotising fasciitis is a clinical diagnosis and the commonest reason it is missed is that the skin looks unremarkable early.** The triad to act on is **pain out of proportion to the appearance, rapid progression, and systemic toxicity**. Anaesthesia of the overlying skin, crepitus, dusky discolouration and bullae are later signs. **If it is suspected, the action is immediate surgical referral, not a scan and not a period of observation on antibiotics.**
+
+---
+
+## Build status of this file
+
+| Tier | Count | Status |
+|---|---|---|
+| **T1** | 2 | **Both built** — Acute Back Pain, Acute Limb Pain |
+| **T2** | 2 | **Both built** — Acute Neck Pain, Acute Soft Tissue Swelling |
+| T3 | 51 | Not built |
+| CUT | 2 | **Dropped per the tier tags** — Hill-Sachs lesion, Stener lesion |
+
+## Topics skipped in this category
+
+| Topic | Matched header | File | Match type |
+|---|---|---|---|
+| **Ocular Trauma** (T3) | `## Ocular trauma` | `11_09b_Ortho_-_Trauma.md` | Exact |
+
+### Near-miss deliberately **built** rather than skipped
+
+| Topic | Header it partially matched | Why built anyway |
+|---|---|---|
+| **Acute Back Pain** (T1) | `### Back pain red flags → urgent MRI` (`11_01_Ortho_-_Orthopaedic_Emergencies`) | The existing header is a **red-flag list pointing to imaging**, not an approach to the presentation. The T1 build product is the full DDx/Hx/Ex/Ix. **The topic `Back Pain` (T3, unbuilt) matches the same header and is the one where the overlap will need reconciling** — flagged now rather than later. |
+
+
+<!-- ===== SOURCE: NEW_Rheumatology_and_Immunology.md ===== -->
+
+
+# NEW — Rheumatology & Immunology
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains the two Tier 2 topics.** The category has **no T1 topics**; 2 T2 and 16 T3. See the build-status table at the end.
+
+## Acute Joint Pain
+
+- **D:** joint pain of recent onset. **The single organising question is: how many joints, and is this one hot joint?** — because **acute monoarthritis is septic arthritis until proven otherwise**, and that is a joint-destroying emergency.
+- **DDx:**
+  - **Acute monoarthritis:** **septic arthritis** (the must-exclude), **gout** (classically first metatarsophalangeal joint — podagra — but any joint), **pseudogout/calcium pyrophosphate disease** (commonly knee and wrist, older patients), **haemarthrosis** (trauma, anticoagulation, haemophilia), trauma and internal derangement, **osteomyelitis** with sympathetic effusion, reactive arthritis, monoarticular presentation of an inflammatory arthritis, **Lyme arthritis** in a returned traveller, avascular necrosis, tumour.
+  - **Acute oligo/polyarthritis:** **viral arthritis** (**parvovirus B19, hepatitis B and C, EBV, and in Australia specifically the alphaviruses — Ross River and Barmah Forest virus**, which are a genuinely important local cause of acute polyarthralgia and are routinely forgotten), **reactive arthritis** (after gastrointestinal or genitourinary infection), **rheumatoid arthritis** and other inflammatory arthritides at first presentation, **psoriatic arthritis**, **acute rheumatic fever** (migratory polyarthritis — and in Australia, a specific consideration in Aboriginal and Torres Strait Islander patients from high-risk communities), **connective tissue disease** (SLE), **vasculitis**, **gonococcal arthritis** (a disseminated infection — migratory polyarthralgia, tenosynovitis and pustular skin lesions in a sexually active young person; **it is septic arthritis in a different clothing**), **inflammatory bowel disease-associated arthritis**, **serum sickness and drug reactions**, **crystal disease affecting several joints**.
+  - **Periarticular mimics — pain around rather than in the joint:** bursitis, tendinopathy, cellulitis, fracture, polymyalgia rheumatica, fibromyalgia.
+- **Focused Hx:** **number and distribution of joints, and whether it is symmetrical, migratory or additive**; onset speed; **fever, rigors and systemic illness**; **preceding gastrointestinal or genitourinary infection, and how long before**; **sexual history** (gonococcal and reactive arthritis); **mosquito exposure and location** (Ross River virus); **trauma or recent joint injection or surgery, or a prosthetic joint**; **IV drug use, immunosuppression, diabetes, and skin breaches** — the septic arthritis risk factors; previous gout and its triggers; **morning stiffness and its duration** (over about 30–60 minutes suggests inflammatory rather than mechanical); rash, eye symptoms, oral or genital ulcers, urethral discharge, diarrhoea, back pain; **anticoagulation** and bleeding history; family history of psoriasis or inflammatory arthritis; drug history including **diuretics** (gout) and recent antibiotics.
+- **Examination:** **vital signs and a septic screen first.** Then: **inspect each joint for swelling, erythema and deformity, and compare sides**; **palpate for effusion, warmth and tenderness — and distinguish the joint line from periarticular structures**; **active and passive range of movement** — in septic arthritis, **passive movement is exquisitely painful through a very small arc, and the patient holds the joint still**, whereas periarticular problems allow more passive movement; examine **all** joints including spine, and the **skin (psoriasis, pustules, erythema nodosum, tophi), nails (pitting, onycholysis), eyes (conjunctivitis, uveitis), and mucosae**; examine for **tenosynovitis** and **enthesitis**; check for lymphadenopathy and cardiac murmurs (endocarditis, rheumatic fever).
+- **First-line Ix:**
+  - **Joint aspiration is the definitive investigation in acute monoarthritis, and it should be performed before antibiotics wherever possible.** Send for **cell count and differential, Gram stain, culture, and polarised light microscopy for crystals**. **Do not aspirate through overlying cellulitis, and do not aspirate a prosthetic joint outside the orthopaedic team.**
+  - **The interpretation, with an important caveat.** Sources agree that in native joint septic arthritis the synovial white cell count is **usually above about 50,000/mm³ with a high neutrophil predominance**; but **antibiotics given before aspiration lower the cell count, the neutrophil percentage and the culture yield**, and studies show a substantially lower optimal cut-off in patients pre-treated with antibiotics. **This is the practical reason to aspirate first**: giving antibiotics before the tap does not just reduce culture yield, it moves the diagnostic threshold in a way that is hard to correct for. **The presence of crystals does not exclude coexisting infection.**
+  - **Bloods:** FBC, CRP, ESR, UEC, LFTs, **urate** (with the caveat that it is often **normal during an acute gout attack** and a raised level does not diagnose gout or exclude sepsis), **blood cultures — at least two sets**, coagulation profile.
+  - **Targeted serology and swabs:** **Ross River and Barmah Forest virus serology** in the right clinical and geographic context, parvovirus B19, hepatitis B and C, **NAAT for chlamydia and gonorrhoea including extragenital sites**, ASOT and anti-DNase B, **rheumatoid factor, anti-CCP and ANA** (arranged rather than urgent, and **not** used to rule sepsis in or out).
+  - **Imaging:** plain X-ray (baseline, chondrocalcinosis, erosions, fracture, osteomyelitis — often normal early); **ultrasound** to confirm an effusion and guide aspiration; **MRI** for osteomyelitis or where the joint cannot be assessed clinically.
+
+> [!danger] **The rule: a single hot, swollen, painful joint is septic arthritis until the aspirate says otherwise.** Aspirate before antibiotics wherever it can be done promptly; involve orthopaedics early, since treatment is washout as well as antimicrobials; and **do not be reassured by an absence of fever — a substantial proportion of patients with septic arthritis are afebrile — nor by a plausible alternative diagnosis such as gout, which can coexist with infection.** **Antibiotic choice is deliberately omitted**: it depends on local resistance and the suspected organism, and Australian guidance is egress-blocked.
+
+## Acute Joint Trauma
+
+- **D:** joint injury from a discrete mechanical event. **The tasks are: exclude fracture, exclude a joint-threatening injury (dislocation, neurovascular compromise, open joint, septic complication), and identify the specific soft-tissue structure injured — and the mechanism usually tells you which.**
+- **DDx by mechanism, which is the useful organiser:**
+  - **Knee:** twisting on a planted foot with immediate swelling → **anterior cruciate ligament rupture** (haemarthrosis within hours) or **meniscal tear** (slower effusion, locking, giving way); direct blow to the flexed knee → posterior cruciate; valgus force → medial collateral; **patellar dislocation** (usually lateral, often reduces spontaneously).
+  - **Ankle:** inversion → **lateral ligament sprain** (much the commonest), but consider **fracture** and, with more force, **syndesmotic (high ankle) injury** and **fifth metatarsal base fracture**.
+  - **Shoulder:** fall on an outstretched hand or forced abduction and external rotation → **anterior dislocation** (**always assess and document axillary nerve sensation over the regimental badge area before and after reduction**); seizure or electrocution → consider **posterior dislocation**, which is the one classically missed on a single AP film.
+  - **Elbow, wrist and hand:** fall on outstretched hand → distal radius fracture, scaphoid fracture (**anatomical snuffbox tenderness with normal X-rays still needs immobilisation and repeat imaging — a missed scaphoid fracture leads to avascular necrosis and non-union**), radial head fracture; **thumb forced into abduction** → ulnar collateral ligament injury of the thumb MCP joint.
+  - **Any joint:** **haemarthrosis**, **fracture-dislocation**, **open joint injury** (any wound near a joint — assume communication until proven otherwise), **neurovascular injury**, and later, **compartment syndrome** and **septic arthritis after penetrating injury**.
+- **Focused Hx:** **exact mechanism, including direction of force and position of the limb**; whether the patient heard or felt a **pop or crack**; **could they weight-bear immediately and can they now** (a component of validated decision rules); **speed of swelling** (**immediate swelling suggests haemarthrosis and a significant intra-articular injury; swelling over hours suggests effusion**); locking, catching or giving way; previous injury or instability of that joint; **hand dominance, occupation and sport**; anticoagulation; **and in an injury that does not fit the history, or in a child, an explicit consideration of non-accidental injury or intimate partner violence**.
+- **Examination:** **look, feel, move, and assess neurovascular status — before and after any intervention, and documented each time.**
+  - Inspect for deformity, swelling, bruising, wounds and skin tenting.
+  - **Palpate for the point of maximal bony tenderness** — this drives the imaging decision rules.
+  - Assess **active then passive range of movement**, and **compare with the other side**.
+  - **Specific stress tests** once the patient can tolerate them — and note that **acute pain and guarding make ligament testing unreliable in the first hours**, so a normal examination in a swollen painful joint does not exclude a ligament injury and re-examination after a few days is often more informative.
+  - **Examine the joint above and below** the injury.
+  - Document **distal pulses, capillary refill, and motor and sensory function of each relevant nerve by name**.
+- **First-line Ix:** **use the validated decision rules** (for ankle, knee and cervical spine) rather than imaging reflexively — they exist to reduce unnecessary radiographs and are part of the expected standard.
+  - **Plain X-ray** with appropriate views — **and for the shoulder, an axillary or scapular-Y view in addition to the AP, because posterior dislocation is missed on the AP alone**.
+  - **Repeat X-ray, CT or MRI** for suspected scaphoid fracture with normal initial films.
+  - **MRI** for suspected ligament, meniscal or cartilage injury — arranged after acute management, not in the emergency department.
+  - **CT** for complex intra-articular fractures.
+  - **Joint aspiration** if septic arthritis is suspected after a penetrating injury, and **note that fat globules in an aspirate suggest an intra-articular fracture**.
+  - **FBC, coagulation profile and group and hold** where there is significant bleeding, anticoagulation or planned surgery.
+
+---
+
+## Build status of this file
+
+| Tier | Count | Status |
+|---|---|---|
+| T1 | 0 | No T1 topics in this category |
+| **T2** | 2 | **Both built** — Acute Joint Pain, Acute Joint Trauma |
+| T3 | 16 | Not built |
+
+## Topics skipped in this category
+
+| Topic | Matched header | File | Match type |
+|---|---|---|---|
+| **Joint Pain** (T3) | `## Joint Pain (Generalised and Local)` | `History-Taking.md` | Exact |
+
+> [!note] The T2 topic **Acute Joint Pain** was built despite the bare `Joint Pain` header existing, because the literal string "Acute Joint Pain" matches no header and the acute presentation is a distinct product. **Expect overlap with the History-Taking entry and decide ownership on review.**
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** `C-11` was held — 🔻 inbound mark.
+
+<!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, discriminators and procedural principles are reliable at intern level. **Every cell count threshold, dose, urate target and criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
+> **All antimicrobial regimens are omitted** — obtain from **eTG Antibiotic**. Verify gout management against **eTG Rheumatology** and current Australian rheumatology guidance, and **HLA-B\*5801 testing recommendations** against current advice, since they are population-specific.
+
+---
+
+## 0.1 The Acutely Hot, Swollen Joint
+
+> [!danger] Septic arthritis until proven otherwise
+> **This is the organising principle of the entire presentation.** Untreated septic arthritis destroys articular cartilage within days and carries significant mortality, particularly in the elderly and those with prosthetic joints.
+> **The definitive step is JOINT ASPIRATION, and it should not be delayed for imaging, for inflammatory markers, or for a rheumatology opinion.**
+> **A previous diagnosis of gout does not protect a patient from sepsis** — see the box below.
+
+> [!tip] The examination finding that localises the problem
+> **Pain on PASSIVE movement through a small range, with the patient resisting any movement of the joint, indicates INTRA-ARTICULAR pathology.**
+> **Preserved passive movement with pain only on active movement, or point tenderness away from the joint line, suggests PERIARTICULAR pathology** — **bursitis, cellulitis, tendinitis or tenosynovitis** — which does not require joint aspiration and has a different differential.
+> **This single distinction separates the patients who need urgent aspiration from those who do not**, and it takes seconds. **Olecranon and prepatellar bursitis in particular are frequently mistaken for septic arthritis** — the joint itself moves freely.
+
+> [!danger] Crystals and infection coexist
+> **Finding urate or pyrophosphate crystals in synovial fluid does NOT exclude septic arthritis**, and a patient with known gout who presents with a hot joint may have both — indeed pre-existing joint disease is a risk factor for infection.
+> **Send the fluid for culture regardless of the crystal result**, and if the clinical picture is at all septic, treat as septic while awaiting cultures.
+> **"It's just his gout" is a recurring cause of missed septic arthritis.**
+
+> [!tip] The differential
+> **· Septic arthritis** — bacterial, gonococcal, mycobacterial, fungal.
+> **· Crystal arthropathy** — gout, calcium pyrophosphate deposition.
+> **· Haemarthrosis** — trauma, bleeding disorder, anticoagulation.
+> **· Trauma and intra-articular fracture.**
+> **· First presentation of an inflammatory arthritis** — rheumatoid, psoriatic, spondyloarthritis, reactive. Cross-refer [[L2]].
+> **· Reactive arthritis** — post-enteric or post-urogenital.
+> **· Osteoarthritis with an effusion** — usually less inflamed and more chronic.
+> **· Periarticular** — bursitis, cellulitis, tenosynovitis.
+> **· Avascular necrosis, osteomyelitis, and tumour.**
+
+**S/Smx:** Speed of onset, trauma, fever and systemic features, previous episodes, prosthetic joints, recent joint injection or surgery, skin breaches, sexual history, injecting drug use, immunosuppression, and travel or tick exposure.
+
+**Ix:** **Joint aspiration — the definitive investigation.** See 0.6.
+
+### 0.1.1 Mx – Immediate
+**Aspirate, then treat.** Analgesia. Do not give antibiotics before aspirating unless the patient is septic and unstable.
+
+---
+
+## 0.2 Septic Arthritis
+
+**A/P:** Bacteria reach the joint **haematogenously (the commonest route), by direct inoculation (injection, surgery, penetrating injury), or by contiguous spread from adjacent osteomyelitis or soft tissue infection.** The synovium is highly vascular and lacks a basement membrane, which makes it readily seeded. **The resulting inflammatory response — bacterial and host proteases and cytokines — degrades cartilage within days**, which is why this is a surgical emergency rather than simply an infection to treat with antibiotics.
+
+> [!tip] Organisms, and who gets which
+> **· *Staphylococcus aureus* — the commonest overall**, in all age groups.
+> **· Streptococci.**
+> **· *Neisseria gonorrhoeae* — in sexually active young adults**, with a distinct presentation (see below).
+> **· Gram-negative organisms** — in the elderly, immunosuppressed, and people who inject drugs.
+> **· *Salmonella*** — with a particular association in **sickle cell disease.**
+> **· Mycobacteria and fungi** — in chronic, indolent monoarthritis, particularly in the immunosuppressed and in people from high-prevalence areas.
+
+> [!warning] Disseminated gonococcal infection looks different, and is missed
+> **Rather than a single hot joint, it typically causes a MIGRATORY POLYARTHRALGIA with TENOSYNOVITIS (classically of the wrists, hands and ankles) and a sparse PUSTULAR or vesiculopustular RASH** — the "arthritis-dermatitis syndrome" — before, or instead of, settling into a frank purulent monoarthritis.
+> **Synovial fluid cultures are frequently NEGATIVE**, so **the diagnosis requires NAAT testing of genital, rectal and pharyngeal sites even in the absence of genitourinary symptoms**, plus blood cultures.
+> **Consider it in every sexually active young person with an inflammatory arthritis**, and take a sexual history. Cross-refer [[O6]] 0.2.
+
+> [!danger] Fever is absent in a substantial proportion — and immunosuppression masks everything
+> **The absence of fever does NOT exclude septic arthritis**, and neither does a normal white cell count or a normal CRP, particularly early.
+> **Patients on corticosteroids, biologics or other immunosuppression — and those with rheumatoid arthritis, who are both immunosuppressed and have abnormal joints — may present with strikingly blunted signs.** **A rheumatoid patient with one joint disproportionately worse than the others has septic arthritis until proven otherwise**, and this is a classic missed scenario.
+
+> [!warning] Site matters, and injecting drug use changes it
+> **The knee is the commonest joint overall**, followed by hip, shoulder and ankle.
+> **In people who inject drugs, the axial joints are disproportionately involved — sternoclavicular, sacroiliac and vertebral (discitis).** **Sternoclavicular or sacroiliac pain in someone who injects should prompt imaging and cultures, not reassurance**, and these sites are easily overlooked because they are not routinely examined.
+
+> [!danger] Prosthetic joint infection is a different problem
+> **It is classified by timing — early, delayed and late — which predicts the organism and the surgical approach.**
+> **Biofilm formation on the prosthesis means antibiotics alone rarely eradicate it**, and management usually requires **surgical intervention: debridement with implant retention in early infection, or one- or two-stage revision.**
+> **Do NOT aspirate a prosthetic joint through overlying cellulitis**, and **aspiration of a prosthetic joint should generally be done by or in consultation with the arthroplasty team**, under sterile conditions, because a poorly performed aspiration can introduce infection into a joint that did not have it.
+> **Withhold antibiotics until cultures are taken wherever the patient's condition allows**, because organism identification determines whether the prosthesis can be salvaged.
+
+> [!warning] In children — the hip, and the score
+> **Septic arthritis of the hip in a child is a surgical emergency**: the femoral head's blood supply is intracapsular, and raised intra-articular pressure causes avascular necrosis.
+> **The differential from transient synovitis is the classic problem**, and the **Kocher criteria** (fever, non-weight-bearing, raised ESR, raised white cell count) stratify the probability. `UNVERIFIED — the criteria and their thresholds.`
+> **A child who refuses to weight bear needs the hip and the whole limb examined, and considered for aspiration** — cross-refer [[M5]].
+
+**S/Smx:** Acute onset of a hot, swollen, exquisitely painful joint with **marked restriction of both active and passive movement**, often held in the position of maximal capsular volume (hip in flexion, abduction and external rotation). Fever and systemic upset variably present.
+
+**Ix:** **Joint aspiration BEFORE antibiotics — cell count and differential, Gram stain, culture, and crystals** (*why:* the diagnostic test, and antibiotics given first substantially reduce culture yield and may leave the diagnosis unprovable; *what:* raised white cell count with neutrophil predominance, organisms — see 0.6). **Blood cultures** (*why:* frequently positive and sometimes the only microbiological yield, particularly in haematogenous infection; *what:* organism). FBC, CRP and ESR (*why:* baseline and monitoring, with the caveat that **normal values do not exclude infection early or in the immunosuppressed**; *what:* inflammatory response). **Gonococcal NAAT from genital, rectal and pharyngeal sites in sexually active patients** (*why:* joint cultures are usually negative in disseminated gonococcal infection, so the diagnosis is made elsewhere; *what:* positive NAAT). Plain radiograph (*why:* baseline, and identifies fracture, chondrocalcinosis, erosions and pre-existing disease — **it will be normal early in sepsis, so a normal film is meaningless for excluding infection**; *what:* structural findings). **MRI** where **osteomyelitis, discitis, sacroiliitis or a deep joint (hip, sacroiliac, sternoclavicular) is suspected** (*why:* far more sensitive than radiography for bone and deep joint infection, and those sites are hard to aspirate; *what:* effusion, marrow oedema, collection). Ultrasound (*why:* confirms an effusion and guides aspiration, particularly in the hip and in children; *what:* effusion).
+
+### 0.2.1 Mx – Immediate
+**Aspirate, then start empirical intravenous antibiotics.** **Urgent orthopaedic referral** — the joint requires **washout (arthroscopic or open) or serial aspiration**, and antibiotics alone are usually insufficient. Analgesia and immobilisation for comfort, then early mobilisation. `UNVERIFIED — empirical regimens and treatment duration from eTG Antibiotic.`
+
+### 0.2.2 Mx – Definitive
+Surgical drainage, targeted antibiotics on culture, and **prosthesis revision where a prosthetic joint is involved.**
+
+### 0.2.3 Mx – Chronic/long-term
+Physiotherapy and rehabilitation — **joint stiffness and functional loss after septic arthritis are common even with successful eradication.** Address the source and the risk factors, including injecting drug use support and skin care.
+
+---
+
+## 0.3 Crystal Arthropathy
+
+> [!danger] Serum urate is unreliable during an acute attack of gout
+> **The urate is frequently NORMAL, and sometimes LOW, during an acute flare** — because urate is being deposited in the joint and the acute phase response lowers serum levels.
+> **So a normal urate does NOT exclude gout, and a raised urate does NOT diagnose it** — most people with hyperuricaemia never develop gout.
+> **Measure the urate several weeks after the attack has settled**, when it reflects the steady state and can guide urate-lowering therapy. **Diagnosing or excluding gout on an acute urate level is a common error.**
+
+> [!tip] Gout — the presentation and the risk factors
+> **Abrupt onset, reaching maximal severity within about 24 hours**, in a joint that is **exquisitely tender, red and swollen — patients often cannot bear the weight of a bedsheet.**
+> **Classically the first metatarsophalangeal joint (podagra)**, then midfoot, ankle, knee, and in chronic disease the hands and elbows with **tophi.**
+> **Risk factors: male sex, increasing age, chronic kidney disease, obesity, diabetes and metabolic syndrome · DIURETICS (thiazide and loop) · low-dose aspirin · ciclosporin and tacrolimus · alcohol, particularly beer · fructose-sweetened drinks · red meat and shellfish · dehydration · and cell turnover states including tumour lysis.**
+> **The medication review is important — a thiazide started for hypertension is a common precipitant of new gout, and changing it may be more useful than escalating gout treatment.**
+
+> [!warning] The Australian and New Zealand epidemiology
+> **Gout prevalence is substantially higher, with earlier onset and more severe disease, among Aboriginal and Torres Strait Islander peoples and among Māori and Pacific Islander peoples.**
+> **It is also markedly under-treated in these groups** — with acute attacks managed repeatedly and urate-lowering therapy never started, which is the intervention that actually prevents recurrence and joint damage.
+> **This is a genuine equity gap and a concrete thing to get right.** Cross-refer [[AU1]].
+
+> [!danger] The conceptual shift: gout is a chronic disease of urate deposition, not a series of attacks
+> **Treating each flare and stopping there leaves the underlying urate burden untouched, and the disease progresses to tophi, erosive damage and chronic arthropathy.**
+> **Urate-lowering therapy, titrated to a TARGET serum urate, dissolves the deposits and effectively cures the disease** — it is one of the few genuinely curable forms of arthritis, and it is chronically under-used.
+> **Indications for urate-lowering therapy: recurrent attacks, tophi, erosive change on imaging, urate nephrolithiasis, and chronic kidney disease.** `UNVERIFIED — the target urate, the indications and the thresholds.`
+> **Allopurinol is first-line: START LOW AND TITRATE UPWARD to the target urate**, rather than using a fixed dose. **Prophylaxis with low-dose colchicine or an NSAID is given during initiation, because starting urate-lowering therapy PRECIPITATES flares** as deposits mobilise — and patients who are not warned about this conclude the drug caused their gout and stop it.
+> **Do not stop established urate-lowering therapy during an acute attack.**
+
+> [!warning] Allopurinol hypersensitivity and HLA-B*5801
+> **Allopurinol can cause severe cutaneous adverse reactions including DRESS and SJS/TEN**, with significant mortality.
+> **The risk is strongly associated with the HLA-B\*5801 allele, which is markedly more prevalent in people of Han Chinese, Thai and Korean ancestry** — and **pre-treatment testing is recommended in those populations.** Cross-refer [[A5]] 0.6.
+> **Starting at a low dose and titrating slowly also reduces the risk.** `UNVERIFIED — the populations in whom testing is recommended and the current Australian advice.`
+
+> [!tip] Acute treatment — choose by comorbidity
+> **· NSAIDs** — effective, but avoid in renal impairment, heart failure, peptic ulcer disease, anticoagulation and the elderly.
+> **· Colchicine — LOW DOSE.** **The old high-dose "until diarrhoea" regimen is obsolete and toxic.** **Reduce the dose in renal and hepatic impairment**, and beware interactions with **statins (myopathy), clarithromycin, ciclosporin and other CYP3A4/P-glycoprotein inhibitors**, which cause serious colchicine toxicity.
+> **· Corticosteroids — oral, intramuscular, or intra-articular** — often the best choice in the elderly, in renal impairment, and in those with multiple comorbidities. **Intra-articular injection is excellent for a single joint, provided sepsis has been excluded first.**
+> `UNVERIFIED — all doses and durations.`
+
+> [!tip] Calcium pyrophosphate deposition (pseudogout)
+> **Older patients, most often the KNEE and WRIST.** **Chondrocalcinosis on radiographs** — linear calcification of cartilage and menisci — supports it, though it is common in the elderly and does not by itself prove the joint is inflamed by crystals.
+> **Crystals: rhomboid or rod-shaped, POSITIVELY birefringent** — as opposed to gout's needle-shaped, NEGATIVELY birefringent crystals.
+> **In a YOUNGER patient with CPPD, screen for a metabolic cause: HYPERPARATHYROIDISM, HAEMOCHROMATOSIS, hypomagnesaemia, and hypophosphatasia.** **This is the point most often missed** — CPPD in someone under about 55 should prompt calcium, PTH, iron studies and magnesium. Cross-refer [[I3]].
+> Treatment is symptomatic — there is no equivalent of urate-lowering therapy.
+
+**Ix:** **Joint aspiration with polarised light microscopy** (*why:* definitive, and simultaneously excludes infection; *what:* crystal type and birefringence, plus cell count and culture). **Serum urate — several weeks AFTER the acute attack** (*why:* acute levels mislead in both directions; *what:* steady-state urate to guide therapy). UEC and eGFR (*why:* determines drug choice and dosing for both acute and urate-lowering therapy; *what:* renal function). **Medication review** (*why:* diuretics, aspirin and immunosuppressants precipitate gout and may be changeable; *what:* culprit drugs). Radiographs (*why:* erosions with overhanging edges in chronic gout, and chondrocalcinosis in CPPD; *what:* structural change). **In CPPD under about 55: calcium, PTH, magnesium, iron studies and ferritin, and ALP** (*why:* screens for hyperparathyroidism, haemochromatosis, hypomagnesaemia and hypophosphatasia; *what:* the metabolic cause). **HLA-B\*5801 in relevant populations before allopurinol** (*why:* severe cutaneous adverse reaction risk; *what:* allele presence). Cardiovascular and metabolic risk assessment (*why:* gout clusters with hypertension, chronic kidney disease, obesity and cardiovascular disease, and is an independent risk marker; *what:* comorbidity).
+
+### 0.3.1 Mx – Immediate
+Acute anti-inflammatory therapy chosen by comorbidity. **Aspirate first if sepsis is at all possible.**
+
+### 0.3.2 Mx – Definitive
+**Urate-lowering therapy, titrated to target, with flare prophylaxis during initiation** — for anyone meeting the indications.
+
+### 0.3.3 Mx – Chronic/long-term
+**Treat-to-target monitoring of urate, not symptom-driven care.** Address diet and alcohol without moralising — **the dietary contribution is smaller than the genetic and renal contribution, and blaming the patient's diet is both inaccurate and a barrier to accepting medication.** Review diuretics. Manage the cardiovascular and renal comorbidity.
+
+---
+
+## 0.4 Haemarthrosis
+
+> [!danger] A tense haemarthrosis after knee injury means significant intra-articular damage
+> **Blood in a joint within a few hours of trauma indicates a structure with a blood supply has torn** — most commonly **anterior cruciate ligament rupture, tibial plateau or other intra-articular fracture, patellar dislocation, osteochondral fracture, or peripheral meniscal tear.**
+> **A simple sprain does not produce a tense haemarthrosis.** The presence of one substantially raises the probability of a surgically relevant injury and warrants imaging and orthopaedic review.
+
+> [!tip] Fat globules in the aspirate mean an intra-articular fracture
+> **Lipohaemarthrosis** — fat from the marrow entering the joint through a fracture line — appears as **fat globules floating on the blood in the aspirate**, or as a **fat-fluid level on a horizontal-beam radiograph or on CT/MRI.**
+> **This is essentially diagnostic of an intra-articular fracture, even when the plain films look normal**, and it should prompt further imaging.
+
+> [!danger] Haemophilia — give factor before imaging
+> **In a person with haemophilia, a haemarthrosis is treated by giving FACTOR REPLACEMENT IMMEDIATELY, on clinical suspicion, before radiographs, before aspiration, and before waiting for a specialist opinion.**
+> **Delay causes progressive joint damage.** Recurrent bleeds into the same "target joint" produce synovial hypertrophy and **haemophilic arthropathy** with permanent destruction.
+> **Aspiration is generally avoided in haemophilia** unless there is a specific indication, and only after adequate factor cover. Cross-refer [[J3]].
+
+> [!tip] The other causes
+> **· Anticoagulant therapy**, particularly with supratherapeutic levels or after minor trauma.
+> **· Other bleeding disorders** — von Willebrand disease, thrombocytopenia.
+> **· Pigmented villonodular synovitis** — recurrent atraumatic haemarthrosis, often of the knee, in a young adult, with characteristic MRI appearances.
+> **· Neuropathic (Charcot) joint** — cross-refer [[I2]] 0.6.
+> **· Synovial haemangioma and other vascular lesions.**
+> **· Tumour.**
+> **Recurrent atraumatic haemarthrosis in a young person without a bleeding disorder needs MRI** — it is not a normal event.
+
+**Ix:** **Aspiration** (*why:* confirms blood, relieves a painful tense effusion, and **the presence of fat globules indicates fracture**; *what:* frank blood, fat globules). **Plain radiographs including a horizontal-beam lateral where feasible** (*why:* fracture and the fat-fluid level; *what:* fracture, lipohaemarthrosis). **MRI** (*why:* the investigation of choice for ligamentous, meniscal and osteochondral injury and for synovial pathology, which radiographs miss entirely; *what:* ACL rupture, meniscal tear, bone bruising, synovial disease). **Coagulation screen, platelets, and factor assays where a bleeding disorder is suspected** (*why:* atraumatic or disproportionate haemarthrosis; *what:* the disorder — cross-refer [[A9]] 0.3). Review of anticoagulation and INR (*why:* over-anticoagulation; *what:* supratherapeutic level).
+
+### 0.4.1 Mx – Immediate
+**Factor replacement first in haemophilia.** Analgesia, aspiration for a tense painful effusion, immobilisation and elevation.
+
+### 0.4.2 Mx – Definitive
+Orthopaedic management of the underlying injury. Reversal or adjustment of anticoagulation where appropriate.
+
+### 0.4.3 Mx – Chronic/long-term
+Physiotherapy and rehabilitation. **In haemophilia, prophylactic factor regimens prevent target joint arthropathy** and are the standard of care — cross-refer [[J3]].
+
+---
+
+## 0.5 The Wider Monoarthritis Differential
+
+> [!tip] Reactive arthritis
+> **An asymmetrical, predominantly lower limb oligoarthritis developing days to weeks AFTER an infection at a distant site** — **enteric (*Salmonella*, *Shigella*, *Campylobacter*, *Yersinia*) or urogenital (*Chlamydia trachomatis*).** The joint itself is sterile.
+> **Associated features that support it: ENTHESITIS (particularly Achilles insertion and plantar fascia), DACTYLITIS ("sausage digit"), conjunctivitis or uveitis, urethritis, and the mucocutaneous features — circinate balanitis and keratoderma blennorrhagicum.**
+> **HLA-B27 associated**, and it sits within the spondyloarthritis family. Cross-refer [[L2]].
+> **Ask about diarrhoea or a genitourinary infection in the preceding month** — the patient will not volunteer it because they consider it resolved and unrelated.
+
+> [!danger] Non-mechanical pain, night pain and rest pain in a young person
+> **Pain that is worse at night, present at rest, unrelated to activity, and progressive — particularly around the knee or proximal humerus in an adolescent or young adult — is BONE MALIGNANCY until proven otherwise.**
+> **Osteosarcoma and Ewing sarcoma present this way**, and they are frequently attributed to sporting injury or growing pains for months.
+> **A plain radiograph is the first step and is usually abnormal**, and any concerning lesion should be referred to a specialist sarcoma service **before biopsy** — cross-refer [[B6]] 0.8.
+
+> [!tip] The rest
+> **· First presentation of an inflammatory arthritis** — rheumatoid, psoriatic or axial spondyloarthritis may begin as a monoarthritis. **Look for the extra-articular clues: psoriasis (including scalp, natal cleft and nails), inflammatory back pain, family history, uveitis, inflammatory bowel symptoms.** Cross-refer [[L2]].
+> **· Viral arthritis** — **parvovirus B19** (with a symmetrical small-joint arthritis in adults, often after contact with a child with slapped cheek), hepatitis B and C, and **Ross River and Barmah Forest virus in Australia, which cause a prolonged and disabling polyarthralgia** — cross-refer [[K3]] 0.6.
+> **· Osteoarthritis with an acute effusion** — usually less inflamed, in a joint with pre-existing radiographic change, and frequently a flare after unaccustomed activity.
+> **· Avascular necrosis** — hip most commonly, with risk factors of corticosteroids, alcohol, sickle cell disease, trauma and radiotherapy. **Radiographs are normal early; MRI is the test.**
+> **· Osteomyelitis and discitis.**
+> **· Tuberculous and fungal arthritis** — chronic, indolent, monoarticular, in the immunosuppressed or from high-prevalence areas.
+> **· Sarcoidosis** — **Löfgren syndrome**: acute ankle arthritis or periarthritis with erythema nodosum and bilateral hilar lymphadenopathy, which is a distinctive and self-limiting presentation.
+
+**Ix:** As per 0.6, plus targeted serology and imaging directed by the clinical picture — **HLA-B27, viral serology, chlamydia and enteric pathogen testing, chest radiograph for sarcoidosis, MRI for avascular necrosis and bone lesions.**
+
+---
+
+## 0.6 Joint Aspiration and Synovial Fluid Interpretation
+
+> [!warning] Technique and contraindications
+> **· Strict aseptic technique**, with local anaesthetic and adequate explanation.
+> **· DO NOT aspirate through overlying cellulitis** — it risks introducing organisms into a sterile joint. Approach from an uninvolved area or defer to a specialist.
+> **· Prosthetic joints** — aspirate in consultation with the orthopaedic team, under appropriate conditions.
+> **· Anticoagulation** is not an absolute contraindication for a large joint, but requires care and consideration of the INR.
+> **· Ultrasound guidance** improves success in small joints, deep joints (hip) and obese patients, and should be used where available rather than persisting with blind attempts.
+
+> [!info] What to send, and what not to bother with
+> **SEND: cell count and differential · Gram stain · culture (in blood culture bottles as well as a sterile container improves yield) · and crystal examination under POLARISED light.**
+> **Do not bother with synovial fluid glucose and protein** — they add nothing to the four tests above and are a hangover from older practice.
+
+> [!tip] Interpreting the fluid
+> | | **Normal** | **Non-inflammatory** | **Inflammatory** | **Septic** | **Haemorrhagic** |
+> |---|---|---|---|---|---|
+> | Appearance | Clear, viscous | Clear, yellow | Cloudy, yellow | **Turbid, purulent** | **Bloody** |
+> | White cells | Very low | Low | Raised | **Markedly raised** | Variable |
+> | Neutrophils | Low % | Low % | Higher % | **Predominant** | Variable |
+> | Typical cause | — | **Osteoarthritis, trauma** | **Crystal, RA, reactive, spondyloarthritis** | **Bacterial infection** | **Trauma, bleeding disorder, PVNS** |
+> `UNVERIFIED — all cell count thresholds. These are the numbers that determine whether a joint is washed out, and they must come from a current source.`
+
+> [!danger] Two negatives that do not exclude septic arthritis
+> **1. A NEGATIVE GRAM STAIN.** **The Gram stain is negative in the majority of proven septic arthritis.** It is useful when positive and meaningless when negative.
+> **2. A synovial white cell count BELOW the usual septic threshold.** **This occurs in early infection, in partially treated infection, in prosthetic joint infection (where the thresholds are lower), and in the immunosuppressed.**
+> **The decision to treat as septic is clinical**, informed by the fluid but not dictated by it. **If the clinical picture is septic, treat it as septic while cultures are pending.**
+
+> [!tip] Crystal identification
+> **· Monosodium urate (gout) — NEEDLE-shaped, strongly NEGATIVELY birefringent** (yellow when parallel to the compensator axis).
+> **· Calcium pyrophosphate (CPPD) — RHOMBOID or rod-shaped, weakly POSITIVELY birefringent** (blue when parallel).
+> **Crystal examination requires a polarising microscope and an experienced operator — it is operator-dependent and false negatives occur**, so a negative crystal result in a convincing clinical picture of gout does not exclude it.
+
+**Ix:** As above.
+
+### 0.6.1 Mx – Immediate
+Aspiration relieves pain in a tense effusion as well as being diagnostic.
+
+### 0.6.2 Mx – Definitive
+Determined by the fluid and the clinical picture.
+
+### 0.6.3 Mx – Chronic/long-term
+**Document the aspirate results clearly**, because a future presentation with a hot joint will be interpreted against them — and a previously documented crystal diagnosis is exactly what leads to a later septic joint being dismissed.
+
+---
+
+> [!note] Cross-references
+> Polyarthralgia and inflammatory arthritis → [[L2]] · Muscle symptoms and widespread pain → [[L3]] · Regional limb pain → [[L5]] · Cellulitis and pseudocellulitis → [[K2]] 0.1 · Fever workup → [[K1]] · Disseminated gonococcal infection and STI testing → [[O6]] 0.2 · Ross River and vector-borne arthritis → [[K3]] 0.6 · Bleeding disorders and haemophilia → [[A9]] 0.3 and [[J3]] · Calcium, PTH and haemochromatosis in CPPD → [[I3]] · Charcot joint and the diabetic foot → [[I2]] 0.6 · Allopurinol hypersensitivity and SCARs → [[A5]] 0.6 · Sarcoma referral before biopsy → [[B6]] 0.8 · Paediatric limp and hip → [[M5]] · Aboriginal and Torres Strait Islander health and gout equity → [[AU1]]
+
+
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of synovial fluid interpretation, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> A third account is the **procedure** itself, `GER8 §0.5 Arthrocentesis`, now in `[[Procedures]]`. Three copies, none reconciled.
+
+## 1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach
+
+`CF-PAIR` **THREE-WAY. The second account is `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration and Synovial Fluid Interpretation`, immediately above this one. The third is the **procedure**, `GER8 §0.5 Arthrocentesis`, in `[[Procedures]]`. All three kept in full, NOT reconciled.**
+
+> [!note] Gap-filled from CSV ("Joint aspirate analysis," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — the individual synovial fluid findings for specific diagnoses are scattered throughout [[11_01_Ortho_-_Orthopaedic_Emergencies]] (Septic arthritis), [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], and [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] (Gout, Pseudogout), but never consolidated into one systematic interpretation framework — built here in the same spirit as the FBC/Blood Film and Coagulation Screen entries above.
+
+**Why aspirate:** a hot, swollen, acutely painful joint should prompt joint aspiration essentially routinely, given the single most important diagnostic task is **excluding septic arthritis** — see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis for the disease-level urgency and Mx this feeds into, not repeated here. Aspiration should ideally occur **before** starting antibiotics where possible, given antibiotics can sterilise the fluid and reduce diagnostic yield — the same principle as blood cultures before antibiotics elsewhere in this project.
+
+**Systematic interpretation — work through in this order:**
+
+1. **Appearance:** normal synovial fluid is clear/pale yellow and viscous; **turbid/purulent fluid** raises concern for infection; **blood-stained fluid (haemarthrosis)** suggests trauma, a bleeding disorder, or anticoagulation — a genuinely different differential from turbid fluid, worth distinguishing early by simple visual inspection before any lab result returns.
+2. **Cell count and differential:** the single most useful quantitative discriminator between inflammatory and non-inflammatory processes — very high white cell counts (particularly with a neutrophil predominance) point strongly toward septic arthritis or crystal arthropathy (gout/pseudogout can produce counts nearly as high as infection, which is exactly why microscopy for crystals, not cell count alone, is needed to distinguish them); lower counts with a more mixed or mononuclear picture are more typical of non-inflammatory (e.g. osteoarthritis) or milder inflammatory processes.
+3. **Gram stain and culture:** the definitive test for septic arthritis, though a negative Gram stain does **not** exclude infection given its imperfect sensitivity — culture remains the reference standard, and empirical treatment for septic arthritis should not be withheld while awaiting culture results if clinical suspicion is high, per the urgency principle in [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis.
+4. **Polarised light microscopy for crystals — the key test distinguishing the two major crystal arthropathies:**
+   - **Gout:** needle-shaped, **negatively birefringent** monosodium urate crystals — see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout for the disease-level detail, not repeated here.
+   - **Pseudogout:** rhomboid-shaped, **weakly positively birefringent** calcium pyrophosphate crystals — see the same file's Pseudogout entry, not repeated here.
+   - The birefringence direction (negative vs weakly positive) is the classic, frequently-tested distinguishing feature between the two — worth having genuinely automatic given how similarly gout and pseudogout can present clinically despite this clear lab distinction.
+
+> [!info] Quick-reference summary table
+> | Finding | Non-inflammatory (e.g. OA) | Inflammatory (e.g. RA, reactive arthritis) | Septic | Crystal (gout/pseudogout) |
+> |---|---|---|---|---|
+> | Appearance | Clear/straw | Cloudy/yellow | Turbid/purulent | Cloudy |
+> | WCC | Low (<2000/mm³) | Moderate-high | Very high | High (can overlap with septic) |
+> | Neutrophil % | Low | Moderate | High | High |
+> | Gram stain/culture | Negative | Negative | Often positive | Negative |
+> | Crystals | Absent | Absent | Absent | Present (see birefringence distinction above) |
+
+**Cross-reference:** see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis, [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout and Pseudogout, and [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] for the disease-level context each finding above feeds into.
+
+---
+
+<!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
+
 <!-- ===== SOURCE: 11_01_Ortho_-_Orthopaedic_Emergencies.md ===== -->
 
 
@@ -176,6 +675,1962 @@
 > If all 4 signs are present, >90% sensitive for flexor tenosynovitis.
 
 - **Mx:** refer to hand surgeons. Elevation, IV antibiotics. Open drainage and washout required.
+
+
+<!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Pattern recognition, clinical reasoning and serology interpretation are reliable at intern level. **Every dose, monitoring interval, classification criterion and antibody performance figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Rheumatology**, the **Australian Medicines Handbook** for DMARD monitoring, and PBS authority criteria, which determine biologic access in Australia.
+
+---
+
+## 0.1 Approach to Polyarthralgia
+
+> [!danger] The pivotal question: is this inflammatory or mechanical?
+> **Everything else follows from this, and it is answered by history alone.**
+> | | **Inflammatory** | **Mechanical** |
+> |---|---|---|
+> | **Morning stiffness** | **Prolonged — over 30 to 60 minutes** | Brief, under 30 minutes |
+> | **Effect of activity** | **BETTER with movement** | **WORSE with movement** |
+> | **Effect of rest** | **Worse — stiffens up** | Better |
+> | **Night pain** | **Wakes in the SECOND half of the night** | Uncommon, usually positional |
+> | **Swelling** | **Soft tissue swelling, warmth** | Bony swelling, effusion |
+> | **Systemic features** | **Fatigue, weight loss, low-grade fever** | Absent |
+> | **NSAID response** | **Marked** | Partial |
+> **"Does it get better or worse as the day goes on?" and "how long are you stiff in the morning?" are the two highest-yield questions in rheumatology.**
+
+> [!tip] Then characterise the pattern
+> **· Number** — monoarthritis (cross-refer [[L1]]), oligoarthritis (up to about four joints), or polyarthritis.
+> **· Symmetry** — symmetrical suggests rheumatoid arthritis, lupus, viral; asymmetrical suggests spondyloarthritis, psoriatic arthritis, gout.
+> **· Distribution** — small versus large joints, peripheral versus axial, upper versus lower limb.
+> **· WHICH joints, specifically:**
+> **— MCPs, PIPs, wrists and MTPs with DIP SPARING → rheumatoid arthritis.**
+> **— DIP involvement → psoriatic arthritis or osteoarthritis, NOT rheumatoid.**
+> **— First carpometacarpal and DIPs (Heberden and Bouchard nodes) → osteoarthritis.**
+> **— Axial and sacroiliac → spondyloarthritis.**
+> **· Duration** — under about six weeks suggests a self-limiting cause; beyond that suggests chronic inflammatory disease.
+
+> [!warning] Acute symmetrical polyarthritis of under six weeks is often viral — do not over-investigate
+> **Parvovirus B19** (classically in an adult after contact with a child with slapped cheek disease — a symmetrical small joint arthritis that resolves), **Ross River and Barmah Forest virus** (which cause prolonged, disabling polyarthralgia in Australia — cross-refer [[K3]] 0.6), hepatitis B and C, rubella, EBV and chikungunya.
+> **An extensive autoantibody panel in a well person with a six-week symmetrical polyarthritis generates false positives and mislabels people.** Take a history, exclude the serious, and review — most resolve.
+
+> [!tip] The extra-articular clues that make the diagnosis
+> **Examine for these actively rather than waiting for them to be reported:**
+> **· SKIN — psoriasis, and LOOK WHERE IT HIDES: scalp and hairline, behind the ears, umbilicus, natal cleft, and the NAILS (pitting, onycholysis, ridging).** Also: malar rash, discoid lesions, palpable purpura, erythema nodosum, livedo, nodules.
+> **· EYES — dry eyes, red painful eye (uveitis, scleritis, episcleritis).**
+> **· MOUTH AND GENITALS — ulcers (painless in lupus, painful in Behçet).**
+> **· RAYNAUD phenomenon** — a key pointer to connective tissue disease.
+> **· BOWEL — chronic diarrhoea and blood suggest inflammatory bowel disease-associated arthritis.**
+> **· GENITOURINARY — urethritis, and a recent enteric or sexually transmitted infection suggesting reactive arthritis.**
+> **· ENTHESITIS AND DACTYLITIS** — see 0.3.
+> **· Sicca symptoms, alopecia, serositis, and constitutional features.**
+
+> [!danger] Red flags that change the pathway
+> **· Fever with a single hot joint → septic arthritis** — cross-refer [[L1]].
+> **· Weight loss, night sweats, or a raised inflammatory response out of proportion → malignancy, chronic infection, or vasculitis.**
+> **· New headache with jaw claudication or visual symptoms in someone over 50 → GIANT CELL ARTERITIS. Give steroids immediately** — cross-refer [[D1]] 0.4 and [[L3]].
+> **· Haemoptysis with haematuria and acute kidney injury → PULMONARY-RENAL SYNDROME** — see 0.5.
+> **· Mononeuritis multiplex → vasculitis** — cross-refer [[D4]] 0.4.
+
+**Ix:** **FBC, CRP and ESR, UEC, LFT, calcium, urate** (*why:* the baseline that identifies inflammation, cytopenias, renal and hepatic involvement, and gout; *what:* inflammatory response, organ involvement). **URINALYSIS with microscopy at every visit in suspected connective tissue disease** (*why:* **lupus nephritis and vasculitic renal involvement are frequently silent, and blood and protein on a dipstick is how they are detected before renal function declines** — this is a free test that is repeatedly omitted; *what:* haematuria, proteinuria, casts). Radiographs of symptomatic joints (*why:* erosions, chondrocalcinosis, osteoarthritic change; *what:* structural change). **Targeted serology only** — see 0.6 (*why:* untargeted panels in low-probability patients cause harm; *what:* confirmation of a clinical suspicion). Viral serology where an acute polyarthritis (*why:* self-limiting causes; *what:* parvovirus, arboviral, hepatitis).
+
+---
+
+## 0.2 Rheumatoid Arthritis
+
+**A/P:** A chronic autoimmune synovitis. **Inflamed synovium proliferates into a PANNUS**, which invades and destroys articular cartilage and subchondral bone at the joint margins — producing the characteristic **marginal erosions** — and stretches the capsule and ligaments, causing the deformities.
+
+**S/Smx:** **Symmetrical polyarthritis of the small joints — MCPs, PIPs, wrists and MTPs — with DIP SPARING**, prolonged morning stiffness, and soft tissue swelling. **Squeezing across the MCPs or MTPs elicits tenderness early**, before deformity develops.
+Later deformities: ulnar deviation, swan neck and boutonnière, Z-thumb, and MTP subluxation with painful walking.
+
+> [!warning] The extra-articular disease is where much of the morbidity lies
+> **· Cardiovascular — ACCELERATED ATHEROSCLEROSIS IS THE LEADING CAUSE OF DEATH in rheumatoid arthritis**, driven by chronic inflammation independently of traditional risk factors. **Cardiovascular risk must be assessed and treated actively**, and the risk is under-recognised because these patients are seen as having a joint disease. Cross-refer [[B2]] 0.1.
+> **· Lung — interstitial lung disease, pleural effusions, nodules.** ILD is a major cause of mortality and may precede the arthritis.
+> **· Eye — episcleritis, scleritis, and secondary Sjögren syndrome.**
+> **· Haematological — anaemia of chronic disease; Felty syndrome (RA with splenomegaly and neutropenia).**
+> **· Nodules, vasculitis, and amyloidosis** in longstanding disease.
+
+> [!danger] Atlantoaxial subluxation — flag it before any anaesthetic
+> **Erosion of the transverse ligament and odontoid peg allows the atlas to subluxate on the axis, risking CERVICAL CORD COMPRESSION.**
+> **Neck manipulation during intubation or positioning can cause catastrophic cord injury.**
+> **Any patient with longstanding rheumatoid arthritis presenting for surgery, or requiring intubation, needs this considered — flexion/extension cervical radiographs or MRI, and the anaesthetist informed.**
+> **Symptoms to ask about: neck pain, occipital headache, paraesthesia in the hands, and a sense of the head "falling forward".** Cross-refer [[F0.4]] 0.6.
+
+> [!danger] Methotrexate — the weekly dosing error kills people
+> **Methotrexate for rheumatoid arthritis is dosed ONCE WEEKLY.**
+> **Daily administration causes fatal pancytopenia and mucositis, and it happens — through prescribing error, dispensing error, transcription onto an inpatient chart, or patient misunderstanding.**
+> **Practical safeguards: specify the DAY of the week on every prescription and drug chart · check the intended dose against the patient's own understanding · and be alert when transcribing on admission.**
+> **Other essentials:**
+> **· FOLIC ACID supplementation reduces toxicity and is standard.**
+> **· Monitoring: FBC, LFT and renal function at defined intervals** — myelosuppression and hepatotoxicity are the main concerns.
+> **· PNEUMONITIS** — a new dry cough and breathlessness in a patient on methotrexate is methotrexate pneumonitis until proven otherwise, and it can be fatal.
+> **· AVOID TRIMETHOPRIM AND CO-TRIMOXAZOLE** — both are antifolates and the combination causes severe pancytopenia. **This is a common and avoidable prescribing interaction, since co-trimoxazole and trimethoprim are prescribed casually for urinary infection.**
+> **· TERATOGENIC** — effective contraception is required, and it must be stopped before conception with an appropriate washout.
+> **· Renal impairment increases toxicity** — reduce or withhold, and withhold during acute illness and dehydration.
+> `UNVERIFIED — all doses, monitoring intervals, washout periods and the current advice regarding male fertility.`
+
+> [!tip] Treat early — the window of opportunity
+> **Erosions develop within the first months to years, and they are irreversible.** **Early DMARD therapy prevents them; late therapy controls symptoms in an already damaged joint.**
+> **This is why a patient with a persistent inflammatory polyarthritis needs early rheumatology referral rather than a trial of NSAIDs and review in six months.**
+> **Treat-to-target: escalate therapy until remission or low disease activity is achieved**, measured with a composite score, rather than accepting partial control.
+> **Conventional DMARDs**: methotrexate first-line; also **sulfasalazine, hydroxychloroquine (requiring retinal monitoring for retinopathy) and leflunomide.**
+> **Biologic and targeted synthetic DMARDs**: TNF inhibitors, IL-6 inhibitors, B-cell depletion, T-cell costimulation blockade, and **JAK inhibitors.** **All require screening for latent tuberculosis and hepatitis B before starting** — cross-refer [[K3]] 0.5 — and **live vaccines are contraindicated once established.**
+> **Corticosteroids are a bridge, not a strategy** — effective and fast, but with cumulative harm, so **bone protection and an exit plan should be in place from the outset.** Cross-refer [[GER1]] 0.6.
+
+**Ix:** **Rheumatoid factor and anti-CCP** (*why:* **anti-CCP is considerably more SPECIFIC than rheumatoid factor and predicts erosive disease**, whereas RF is positive in Sjögren syndrome, hepatitis C, endocarditis, sarcoidosis and a proportion of healthy older people; *what:* positive antibodies — **noting seronegative RA exists and a negative result does not exclude the diagnosis**). CRP and ESR (*why:* disease activity and monitoring; *what:* inflammatory response). FBC (*why:* anaemia of chronic disease, and baseline before DMARDs; *what:* anaemia, cytopenias). **Radiographs of hands and feet** (*why:* baseline for progression, and **erosions of the MTP joints often appear before those in the hands**; *what:* periarticular osteopenia, joint space narrowing, marginal erosions). **Ultrasound or MRI where the examination is equivocal** (*why:* detects synovitis and early erosions that clinical examination and radiographs miss; *what:* synovitis, power Doppler signal). **Baseline before DMARDs: FBC, LFT, UEC, hepatitis B and C serology, latent TB screening, chest radiograph, and pregnancy test** (*why:* the pre-immunosuppression screen prevents reactivation and toxicity; *what:* baseline and latent infection). Cardiovascular risk assessment (*why:* the leading cause of death; *what:* risk factors).
+
+### 0.2.1 Mx – Immediate
+Not usually applicable — **except to exclude septic arthritis in a disproportionately inflamed single joint.**
+
+### 0.2.2 Mx – Definitive
+Early DMARD therapy with treat-to-target escalation, rheumatology-led.
+
+### 0.2.3 Mx – Chronic/long-term
+**Cardiovascular risk management · bone protection · vaccination (before immunosuppression, and annual influenza and pneumococcal) · monitoring for DMARD toxicity · physiotherapy, occupational therapy and hand therapy · and surgical referral for deformity and joint destruction.** **Flag the cervical spine on any surgical or anaesthetic referral.**
+
+---
+
+## 0.3 Spondyloarthritis
+
+> [!tip] The family, and what unites it
+> **Axial spondyloarthritis (including ankylosing spondylitis) · psoriatic arthritis · reactive arthritis · inflammatory bowel disease-associated (enteropathic) arthritis · undifferentiated spondyloarthritis.**
+> **Shared features: HLA-B27 association · AXIAL involvement (sacroiliitis and spondylitis) · ENTHESITIS · DACTYLITIS · asymmetrical, lower-limb-predominant peripheral arthritis · ANTERIOR UVEITIS · absence of rheumatoid factor · and familial clustering.**
+> **Enthesitis — inflammation where tendon or ligament inserts into bone — is the defining pathology**, as opposed to the synovitis of rheumatoid arthritis. **Common sites: Achilles insertion, plantar fascia, patellar tendon, iliac crest.**
+> **Dactylitis — uniform "sausage" swelling of an entire digit** rather than of individual joints, reflecting combined synovitis and tenosynovitis.
+
+> [!danger] Inflammatory back pain — the criteria that should trigger referral
+> **· Onset before about age 45 · insidious onset · duration over three months · morning stiffness over 30 minutes · improvement with EXERCISE but NOT with rest · pain waking the patient in the SECOND HALF of the night · and alternating buttock pain.**
+> **Good response to NSAIDs supports it.**
+> **Axial spondyloarthritis has a long diagnostic delay — frequently many years — and the delay is longer in WOMEN**, in whom it is under-recognised and more often attributed to fibromyalgia or mechanical back pain. Cross-refer [[L4]].
+> **Radiographic sacroiliitis is a LATE finding — plain films can be normal for years. MRI of the sacroiliac joints detects active inflammation (bone marrow oedema) at the pre-radiographic stage**, and is what allows early diagnosis.
+
+> [!danger] A fused spine fractures with trivial trauma — and the fracture is unstable
+> **In advanced ankylosing spondylitis the spine becomes a rigid, osteoporotic column with no capacity to absorb force.**
+> **A fall from standing height, or even a minor jolt, can cause a highly unstable three-column fracture — most often in the cervical spine — with a high risk of spinal cord injury.**
+> **Have a very low threshold for CT or MRI after ANY trauma in a patient with a fused spine, however trivial. Plain radiographs are inadequate.**
+> **And immobilise in the patient's usual deformed position, not in a neutral position** — forcing a fused kyphotic spine flat can itself cause cord injury. Cross-refer [[F0.5]] 0.7 and [[L4]].
+
+> [!warning] Acute anterior uveitis needs same-day ophthalmology
+> **Acute, usually unilateral, painful red eye with photophobia and blurred vision, recurring and often alternating sides.**
+> **It occurs in a substantial proportion of HLA-B27-associated disease, and it can be the presenting feature — sometimes years before the joint symptoms.**
+> **Any patient with spondyloarthritis must know to seek urgent ophthalmological assessment for a painful red eye**, because delayed treatment causes synechiae, glaucoma and visual loss. Cross-refer [[E1]].
+
+> [!tip] Psoriatic arthritis — the patterns and the hidden psoriasis
+> **Five patterns: asymmetrical oligoarthritis · symmetrical polyarthritis resembling rheumatoid arthritis · DIP-predominant · arthritis mutilans (severe destructive, with "telescoping" digits) · and axial disease.**
+> **NAIL CHANGES — pitting, onycholysis, subungual hyperkeratosis — correlate strongly with DIP joint involvement**, because the nail and the DIP joint share an enthesis. **Examine the nails.**
+> **The arthritis can PRECEDE the psoriasis, and the psoriasis can be minimal or hidden** — scalp, behind the ears, umbilicus, natal cleft, and the nails. **Ask about a family history of psoriasis, and look in those places yourself.**
+> **Conventional DMARDs work for peripheral joint disease. For AXIAL disease, methotrexate and sulfasalazine do NOT work** — biologic therapy (TNF or IL-17 inhibition) is required. **This is a key distinction and a common error: prescribing methotrexate for axial spondyloarthritis achieves nothing.**
+
+**Ix:** **MRI of the sacroiliac joints** (*why:* detects active sacroiliitis before radiographic change and is what enables early diagnosis; *what:* bone marrow oedema, erosions). **HLA-B27** (*why:* supports the diagnosis in a compatible clinical picture — **but it is present in a significant proportion of the healthy population and is NOT a screening test**; *what:* positive, interpreted with pre-test probability — see 0.6). Plain radiographs of sacroiliac joints and spine (*why:* established structural change, syndesmophytes, "bamboo spine"; *what:* late findings). CRP and ESR (*why:* often but not always raised in axial disease; *what:* inflammatory response — **normal markers do not exclude active axial spondyloarthritis**). **Examination for enthesitis, dactylitis, nails, skin and eyes** (*why:* these make the diagnosis clinically and cost nothing; *what:* the extra-articular features). **Schober test, chest expansion and occiput-to-wall distance** (*why:* objective measures of spinal mobility for diagnosis and monitoring; *what:* restricted mobility). Faecal calprotectin or colonoscopy where bowel symptoms (*why:* inflammatory bowel disease-associated arthritis; *what:* intestinal inflammation). Echocardiography and ECG in longstanding disease (*why:* **aortic regurgitation and conduction defects occur in ankylosing spondylitis**; *what:* valve disease, heart block).
+
+### 0.3.1 Mx – Immediate
+**Urgent ophthalmology for a painful red eye. Urgent imaging for any spinal trauma in a fused spine.**
+
+### 0.3.2 Mx – Definitive
+**Exercise and physiotherapy are central and disease-modifying in axial disease — not an adjunct.** NSAIDs. **Biologic therapy for axial disease; conventional DMARDs for peripheral disease.**
+
+### 0.3.3 Mx – Chronic/long-term
+**Bone density assessment — osteoporosis is common and under-recognised in ankylosing spondylitis despite the radiographically dense-looking spine.** Cardiovascular risk, smoking cessation (which worsens axial disease), posture, and vocational support.
+
+---
+
+## 0.4 Connective Tissue Disease
+
+> [!tip] Systemic lupus erythematosus
+> **A multisystem autoimmune disease, predominantly of women of reproductive age.**
+> **In Australia, prevalence and severity are higher among Aboriginal and Torres Strait Islander people and among people of Asian, African and Pacific ancestry**, with more renal involvement and worse outcomes — cross-refer [[AU1]].
+> **Features: malar rash (SPARING the nasolabial folds, which distinguishes it from rosacea and dermatomyositis) · discoid lesions · photosensitivity · PAINLESS oral or nasal ulcers · non-erosive arthritis (Jaccoud arthropathy — reducible deformity without erosion) · serositis (pleuritis, pericarditis) · RENAL · neuropsychiatric · haematological (any cytopenia) · and the immunological features.**
+> **LUPUS NEPHRITIS IS FREQUENTLY SILENT.** **Urinalysis with microscopy at every visit is how it is caught** — proteinuria, haematuria and casts appear before renal function declines, and by the time the creatinine rises significant damage has occurred. **This is the single most important routine test in lupus follow-up.**
+> **Monitoring activity: anti-dsDNA titre RISES and complement C3 and C4 FALL with disease activity, particularly renal flares.**
+> **Hydroxychloroquine is recommended for essentially all patients** — it reduces flares, organ damage and mortality, and is safe in pregnancy. **Requires baseline and periodic retinal screening.**
+
+> [!danger] Antiphospholipid syndrome — and the anticoagulant choice
+> **Arterial or venous thrombosis, or pregnancy morbidity (recurrent early loss, late fetal death, severe pre-eclampsia), with persistently positive antiphospholipid antibodies — lupus anticoagulant, anticardiolipin, or anti-β2-glycoprotein I — on TWO occasions at least 12 weeks apart.**
+> **The paradox worth knowing: the lupus anticoagulant PROLONGS the APTT in vitro while causing THROMBOSIS in vivo.** An unexplained prolonged APTT that does not correct on mixing should prompt the thought.
+> **After thrombosis, lifelong anticoagulation is required — and WARFARIN rather than a DOAC**, because **direct oral anticoagulants have been shown to be inferior in antiphospholipid syndrome, particularly in triple-positive patients, with increased arterial thrombotic events.** **This is a recent and important change, and putting an antiphospholipid patient on a DOAC out of convenience is a recognised harm.** `UNVERIFIED — confirm the current recommendation and the patient groups it applies to.`
+> **In pregnancy: aspirin and low molecular weight heparin**, not warfarin. Cross-refer [[O1]] and [[O2]].
+
+> [!warning] Systemic sclerosis — and the emergency within it
+> **Limited cutaneous** (skin distal to elbows and knees, plus face) — the **CREST** features, **anti-centromere antibody**, and the main late complication is **PULMONARY ARTERIAL HYPERTENSION**, requiring annual screening echocardiography.
+> **Diffuse cutaneous** (proximal skin involvement) — **anti-Scl-70 (topoisomerase I)**, with **interstitial lung disease** and **renal crisis** as the major risks.
+> **SCLERODERMA RENAL CRISIS: abrupt severe hypertension with rapidly progressive acute kidney injury, sometimes with microangiopathic haemolysis and encephalopathy.**
+> **The treatment is an ACE INHIBITOR, urgently and at full dose — it is life-saving and transformed the prognosis of this condition, and it is given even as the creatinine rises.**
+> **CORTICOSTEROIDS INCREASE THE RISK OF RENAL CRISIS** and should be avoided or minimised in diffuse systemic sclerosis. **This is counterintuitive — the reflex to give steroids for an inflammatory disease is exactly wrong here.**
+> Also: **Raynaud phenomenon with digital ulcers, severe GORD and oesophageal dysmotility, gastric antral vascular ectasia, and small bowel bacterial overgrowth.**
+
+> [!tip] Raynaud phenomenon — primary or secondary?
+> **Triphasic colour change (white → blue → red) of the digits on cold or emotional stress.**
+> **Features suggesting SECONDARY (i.e. underlying connective tissue disease): onset after about age 30 · asymmetry · DIGITAL ULCERS or pitting scars · ABNORMAL NAILFOLD CAPILLAROSCOPY · positive ANA · and associated systemic symptoms.**
+> **Nailfold capillaroscopy — examining the capillaries at the nail fold, which can be done with a dermatoscope or even an ophthalmoscope — is a genuinely useful bedside test that is rarely performed**, and abnormal capillaries strongly predict an underlying connective tissue disease.
+
+> [!tip] Sjögren syndrome
+> **Dry eyes and dry mouth from lymphocytic infiltration of exocrine glands**, with fatigue and arthralgia. **Anti-Ro (SSA) and anti-La (SSB).**
+> **Two things that matter beyond the sicca symptoms:**
+> **1. A substantially increased risk of NON-HODGKIN LYMPHOMA** — **persistent parotid swelling, new lymphadenopathy, or a falling complement should prompt investigation**, not reassurance.
+> **2. ANTI-Ro CROSSES THE PLACENTA AND CAUSES NEONATAL LUPUS AND CONGENITAL COMPLETE HEART BLOCK**, which is irreversible. **Any woman with anti-Ro antibodies planning pregnancy needs specialist obstetric input and fetal cardiac monitoring.** Cross-refer [[O2]].
+> Also: severe dental caries from xerostomia — **dental review is a legitimate part of management.**
+
+> [!tip] The others
+> **· Inflammatory myopathies — dermatomyositis and polymyositis** — cross-refer [[D4]] 0.6 and [[L3]]. **Dermatomyositis carries a paraneoplastic association warranting age-appropriate malignancy screening.**
+> **· Mixed connective tissue disease** — overlapping features with **anti-U1-RNP.**
+> **· Drug-induced lupus** — **hydralazine, procainamide, minocycline, isoniazid, and TNF inhibitors.** **Anti-histone antibodies**, sparing of the kidneys and CNS, and **resolution on stopping the drug.**
+
+**Ix:** **Urinalysis with microscopy at every visit** (*why:* silent lupus nephritis; *what:* proteinuria, haematuria, casts). **ANA as the entry test, with ENA and anti-dsDNA only if positive and clinically indicated** — see 0.6. **Complement C3 and C4** (*why:* fall with active disease, particularly renal; *what:* consumption). **Antiphospholipid antibodies — lupus anticoagulant, anticardiolipin and anti-β2-glycoprotein I, repeated after 12 weeks** (*why:* a single positive result is insufficient and transient positives occur with infection; *what:* persistent positivity). FBC (*why:* the cytopenias are diagnostic criteria; *what:* anaemia, leucopenia, lymphopenia, thrombocytopenia). **Anti-Ro and anti-La in any woman of reproductive age with connective tissue disease** (*why:* congenital heart block risk; *what:* positive). **Annual echocardiography in limited systemic sclerosis** (*why:* screens for pulmonary arterial hypertension, which is asymptomatic until advanced and treatable; *what:* estimated pulmonary pressures). **High-resolution CT chest and pulmonary function tests with DLCO in systemic sclerosis and myositis** (*why:* interstitial lung disease is a leading cause of death and is asymptomatic early; *what:* fibrosis, reduced DLCO). **Blood pressure and creatinine monitoring in diffuse systemic sclerosis** (*why:* renal crisis; *what:* new hypertension, rising creatinine). Nailfold capillaroscopy in Raynaud phenomenon (*why:* predicts underlying connective tissue disease; *what:* abnormal capillary pattern).
+
+### 0.4.1 Mx – Immediate
+**ACE inhibitor for scleroderma renal crisis. Anticoagulation for antiphospholipid thrombosis. Urgent management of pulmonary-renal syndrome** — see 0.5.
+
+### 0.4.2 Mx – Definitive
+Disease-specific immunomodulation, rheumatology-led. **Hydroxychloroquine for essentially all lupus patients.**
+
+### 0.4.3 Mx – Chronic/long-term
+**Sun protection in lupus** (genuine and effective). **Pregnancy planning — hydroxychloroquine continued; methotrexate, mycophenolate and cyclophosphamide stopped with appropriate washout; anti-Ro status established.** Cardiovascular and bone risk management. Vaccination before immunosuppression. **Lymphoma vigilance in Sjögren syndrome.**
+
+---
+
+## 0.5 Vasculitis
+
+> [!tip] Classify by vessel size — it predicts the clinical picture
+> **LARGE VESSEL**
+> **· Giant cell arteritis** — over 50, headache, scalp tenderness, jaw claudication, visual loss. **Treat with steroids on suspicion, before biopsy** — cross-refer [[D1]] 0.4 and [[L3]].
+> **· Takayasu arteritis** — younger women, **absent or asymmetric pulses, blood pressure discrepancy between arms, bruits, limb claudication.** "Pulseless disease."
+> **MEDIUM VESSEL**
+> **· Polyarteritis nodosa** — **mononeuritis multiplex, renal infarction and hypertension, abdominal angina, skin nodules and livedo — and it characteristically SPARES the lungs.** Associated with **hepatitis B.**
+> **· Kawasaki disease** — cross-refer [[M2]].
+> **SMALL VESSEL — ANCA-ASSOCIATED**
+> **· Granulomatosis with polyangiitis** — **the ENT, lung and kidney triad: epistaxis, nasal crusting, SADDLE-NOSE deformity, sinusitis and subglottic stenosis; pulmonary nodules, cavities or haemorrhage; and rapidly progressive glomerulonephritis.** **c-ANCA / anti-PR3.**
+> **· Microscopic polyangiitis** — pulmonary-renal, without granulomas or ENT disease. **p-ANCA / anti-MPO.**
+> **· Eosinophilic granulomatosis with polyangiitis** — **ASTHMA, EOSINOPHILIA and neuropathy** as the defining triad, with sinusitis and cardiac involvement.
+> **SMALL VESSEL — IMMUNE COMPLEX**
+> **· IgA vasculitis (Henoch-Schönlein purpura)** — **palpable purpura on the buttocks and extensor legs, arthralgia, abdominal pain and nephritis**, mostly in children. Cross-refer [[C4]] 0.4 and [[M5]].
+> **· Cryoglobulinaemic vasculitis** — strongly associated with **hepatitis C.**
+> **· Anti-GBM disease (Goodpasture)** — pulmonary haemorrhage with glomerulonephritis.
+
+> [!danger] Pulmonary-renal syndrome is a medical emergency
+> **Haemoptysis or unexplained hypoxia, with haematuria, proteinuria and a rising creatinine.**
+> **The causes are ANCA-associated vasculitis, anti-GBM disease, and lupus** — all of which cause irreversible renal loss and fatal pulmonary haemorrhage within days.
+> **Urgent investigation and urgent immunosuppression — high-dose corticosteroids with cyclophosphamide or rituximab, and plasma exchange in anti-GBM disease — cannot wait for a tissue diagnosis if the patient is deteriorating.**
+> **Send ANCA and anti-GBM urgently, get a urine microscopy for red cell casts, and involve nephrology and rheumatology the same day.**
+
+> [!warning] The clinical red flags for vasculitis
+> **· PALPABLE PURPURA** — non-blanching, raised. This is small vessel vasculitis until proven otherwise and warrants a skin biopsy. Cross-refer [[G3]].
+> **· MONONEURITIS MULTIPLEX** — sequential involvement of individual named nerves. Cross-refer [[D4]] 0.4.
+> **· Unexplained multisystem illness with a markedly raised inflammatory response** — particularly with constitutional symptoms, renal involvement and an abnormal urinary sediment.
+> **· Recurrent epistaxis with nasal crusting, or a new saddle-nose deformity.**
+> **· Digital ischaemia or gangrene.**
+
+> [!tip] Behçet disease
+> **Recurrent oral AND genital ulceration, with uveitis** — plus skin lesions, arthritis, and a tendency to both venous and arterial thrombosis.
+> **Pathergy** — a papule or pustule forming at a needle prick site — is characteristic.
+> More common along the historical Silk Road, and worth considering in patients from those regions with recurrent ulceration.
+
+**Ix:** **ANCA with PR3 and MPO specificity** (*why:* supports and subtypes ANCA-associated vasculitis, though **it does not exclude vasculitis when negative**; *what:* c-ANCA/PR3 or p-ANCA/MPO). **Anti-GBM antibodies urgently in pulmonary-renal syndrome** (*why:* treatment includes plasma exchange and is time-critical; *what:* positive). **URINE MICROSCOPY FOR RED CELL CASTS AND DYSMORPHIC RED CELLS** (*why:* **casts indicate glomerulonephritis and are the finding that converts a vague systemic illness into an urgent renal emergency** — and they require a fresh sample examined promptly; *what:* casts, dysmorphic red cells). Creatinine and urine protein-creatinine ratio (*why:* renal involvement and its severity; *what:* declining function, proteinuria). CRP, ESR, FBC with **eosinophil count** (*why:* eosinophilia points to EGPA; *what:* inflammation, eosinophilia). **Chest imaging — radiograph and CT** (*why:* nodules, cavities, haemorrhage and fibrosis; *what:* the pulmonary pattern). Hepatitis B and C serology (*why:* polyarteritis nodosa and cryoglobulinaemic vasculitis respectively; *what:* infection). Cryoglobulins and complement (*why:* cryoglobulinaemia consumes complement; *what:* cryoglobulins, low C4). **Tissue biopsy — skin, kidney, nerve, temporal artery or lung** (*why:* the definitive diagnosis, and important before committing to prolonged immunosuppression; *what:* vasculitis on histology). Blood cultures and echocardiography (*why:* **infective endocarditis mimics vasculitis closely — with fever, splinter haemorrhages, glomerulonephritis and a positive ANCA — and immunosuppressing it is catastrophic**; *what:* organism, vegetation).
+
+### 0.5.1 Mx – Immediate
+**Urgent immunosuppression in organ-threatening disease.** **Steroids on suspicion in giant cell arteritis.** **Exclude infection first, particularly endocarditis.**
+
+### 0.5.2 Mx – Definitive
+Induction with corticosteroids plus cyclophosphamide or rituximab, then maintenance immunosuppression, specialist-led.
+
+### 0.5.3 Mx – Chronic/long-term
+**Prophylaxis against *Pneumocystis* and other opportunistic infection on intensive immunosuppression, bone protection, and vaccination.** Monitoring for relapse and for treatment toxicity, including bladder surveillance after cyclophosphamide.
+
+---
+
+## 0.6 Autoantibody and Serology Interpretation
+
+> [!danger] The principle that governs everything: order antibodies to CONFIRM a suspicion, never to screen
+> **The predictive value of every autoantibody depends on the pre-test probability.**
+> **In a patient with a convincing clinical syndrome, a positive result confirms. In a patient with fatigue and vague aches, a positive result is far more likely to be a false positive — and it causes real harm: anxiety, a mistaken diagnostic label that follows them for years, unnecessary referral, and occasionally inappropriate immunosuppression.**
+> **"Rheumatology screen" ordered reflexively on an undifferentiated patient is one of the more harmful habits in general medicine.**
+
+> [!tip] What each test is actually for
+> **· ANA** — **a SENSITIVE but NOT SPECIFIC entry test for connective tissue disease.** **It is positive in a meaningful proportion of the healthy population, and the proportion rises with age.** **A low-titre positive ANA in a well person is usually meaningless.** Titre and pattern matter: a high titre with a compatible clinical picture is significant.
+> **· ENA panel and anti-dsDNA** — **ordered only if the ANA is positive and the clinical picture warrants it.** These are the specific antibodies: **anti-dsDNA and anti-Sm are specific for lupus; anti-Ro and anti-La for Sjögren; anti-Scl-70 and anti-centromere for systemic sclerosis subtypes; anti-Jo-1 for myositis; anti-U1-RNP for mixed connective tissue disease.**
+> **· Rheumatoid factor** — **poor specificity.** Positive in Sjögren syndrome, **hepatitis C, infective endocarditis, sarcoidosis, chronic infection and a proportion of healthy older people.** A positive RF in someone without inflammatory arthritis means very little.
+> **· Anti-CCP** — **high specificity for rheumatoid arthritis**, and predicts erosive disease.
+> **· ANCA** — order when vasculitis is genuinely suspected. **Request PR3 and MPO specificity, not just the immunofluorescence pattern.** **False positives occur in infection — notably endocarditis — and in inflammatory bowel disease.**
+> **· Complement C3 and C4** — **consumed in active immune complex disease**, so they FALL with active lupus and cryoglobulinaemia. Useful for monitoring.
+> **· HLA-B27** — **present in a significant minority of the healthy Caucasian population.** **It is NOT a diagnostic test and NOT a screening test** — it shifts probability in a patient who already has inflammatory back pain or a compatible syndrome.
+
+> [!warning] ESR and CRP are not interchangeable, and their discordance is informative
+> **CRP is a hepatic acute phase protein — it rises within hours and falls quickly.**
+> **ESR reflects plasma protein composition and is slower to rise and fall, and it is raised by AGE, ANAEMIA, PREGNANCY, obesity, renal failure and PARAPROTEINS independently of inflammation.**
+> **A very high ESR with a normal or near-normal CRP is a recognised and useful pattern** — it points toward **systemic lupus erythematosus (where CRP is characteristically not raised unless there is infection or serositis), MYELOMA and other paraproteinaemias**, and it should prompt a serum protein electrophoresis. Cross-refer [[J4]].
+> **Conversely, a raised CRP in a lupus patient should raise INFECTION rather than being assumed to be a flare** — which is a genuinely useful clinical rule.
+
+**Ix:** As described. **The practical rule: take the history, examine the patient, form a clinical hypothesis, and then order the two or three tests that will confirm or refute it** — not a panel.
+
+---
+
+> [!note] Cross-references
+> The hot swollen joint and septic arthritis → [[L1]] · Muscle symptoms, PMR and giant cell arteritis → [[L3]] · Inflammatory back pain and axial disease → [[L4]] · Regional limb pain → [[L5]] · Giant cell arteritis → [[D1]] 0.4 · Mononeuritis multiplex and inflammatory myopathy → [[D4]] 0.4, 0.6 · Palpable purpura → [[G3]] · Anterior uveitis → [[E1]] · Interstitial lung disease → [[RESP-X]] · Cervical spine and anaesthesia → [[F0.4]] 0.6 and [[AN1]] · Pre-immunosuppression screening → [[K3]] 0.5 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Cardiovascular risk in inflammatory disease → [[B2]] 0.1 · Anticoagulation in antiphospholipid syndrome → [[A9]] 0.4 and [[J3]] · Pregnancy, anti-Ro and congenital heart block → [[O2]] · Myeloma and the ESR-CRP discordance → [[J4]] · IgA vasculitis in children → [[M5]] · Aboriginal and Torres Strait Islander health → [[AU1]]
+
+
+
+<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
+*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of autoantibody interpretation, side by side, both intact.**
+> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
+> Two further accounts sit in `[[Infectious Disease_merged]]` — `NEW_Investigations_Infectious_Diseases §0.19` and `§0.20` — where autoimmune serology is arguably misfiled. They were not moved; that is a separate decision.
+
+## 1.16 Autoimmune Markers — Systematic Reference
+
+> [!note] Gap-filled from CSV ("Autoimmune markers," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — genuinely absent as a consolidated reference despite ANA, RF, anti-CCP, ANCA, and complement levels being scattered across [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] without ever being brought together into one interpretive framework. This entry consolidates the pattern; disease-specific detail is cross-referenced rather than repeated here.
+
+**General interpretive principle:** autoimmune markers should always be interpreted in the context of clinical suspicion, not used as a screening panel in patients with a low pre-test probability of autoimmune disease — most of these markers have a meaningful false-positive rate in the general population (particularly ANA), so an isolated positive result in a patient without a compatible clinical picture is more often a false positive than a new diagnosis.
+
+**ANA (antinuclear antibody):**
+- Highly **sensitive** but poorly **specific** — positive in 99% of SLE (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE)) but also positive in a meaningful proportion of the healthy general population (increasing with age), and in many other autoimmune and even non-autoimmune conditions — a positive ANA alone is a starting point for further testing, not a diagnosis.
+- A negative ANA makes SLE genuinely unlikely (given its high sensitivity) and is a reasonable test to rule the diagnosis out; a positive ANA needs to be followed by more specific antibody testing (anti-dsDNA, anti-Smith, extractable nuclear antigens) to build a clinically meaningful picture. **Anti-Smith (anti-Sm) is the inverse of ANA in this respect: highly specific (close to 99%) for SLE but poorly sensitive (only around 30% of SLE patients test positive)** — a positive anti-Smith result is genuinely strong supporting evidence for SLE given how few other conditions produce it, but a negative result does very little to rule the diagnosis out, unlike a negative ANA.
+
+**Rheumatoid factor (RF) and anti-CCP:**
+- **RF:** positive in ~70% of RA (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Rheumatoid arthritis (RA)) but also positive in other autoimmune conditions (Sjögren syndrome, SLE) and in a proportion of healthy older adults — genuinely non-specific on its own.
+- **Anti-CCP:** more specific for RA than RF (90–95% positive in RA, with fewer false positives in unrelated conditions) — anti-CCP positivity, particularly combined with clinical features, carries more diagnostic weight than RF alone, and can also be a useful early marker (sometimes positive before RF or before overt joint disease is established).
+
+**ANCA (anti-neutrophil cytoplasmic antibody) — cANCA vs pANCA:**
+- **cANCA** — classically associated with granulomatosis with polyangiitis (GPA/Wegener's), positive in >90% (see [[12_04_Rheum_-_Vasculitis]] Granulomatosis with polyangiitis (GPA, formerly Wegener's)).
+- **pANCA** — classically associated with eosinophilic granulomatosis with polyangiitis (EGPA/Churg-Strauss, ~60%) and microscopic polyangiitis (50–75%) — see [[12_04_Rheum_-_Vasculitis]] for the disease-level detail and the GPA vs EGPA comparison table, not repeated here.
+- **Neither pattern is perfectly specific to a single disease** — some overlap exists (e.g. cANCA in a minority of EGPA, pANCA in a minority of GPA), so ANCA pattern narrows the differential rather than confirming a single diagnosis in isolation; always interpret alongside the clinical picture per the general principle above.
+
+**Complement levels (C3, C4):**
+- **Low complement** reflects consumption by active immune complex formation — classically tracked in SLE, where **falling complement alongside rising anti-dsDNA titres supports an active lupus flare** (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE), not repeated here) — complement trending is a genuinely useful way to monitor disease activity over time, distinct from a one-off diagnostic test.
+- Low C4 specifically is also relevant to hereditary angioedema (see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hereditary angioedema) — a good example of why the same lab value can mean genuinely different things depending on the clinical context it's ordered in.
+
+**Extractable nuclear antigens (ENA) — anti-Ro/La, anti-Scl-70, anti-centromere, anti-Jo-1:**
+- **Anti-Ro (SSA) and anti-La (SSB):** associated with Sjögren syndrome (70% and 30% respectively — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Sjögren syndrome) and SLE; anti-Ro specifically also carries relevance in pregnancy given the (rare) risk of neonatal lupus/congenital heart block.
+- **Anti-Scl-70 (topoisomerase I):** associated with diffuse cutaneous systemic sclerosis, generally the more severe phenotype; **anti-centromere antibodies** associated with limited cutaneous systemic sclerosis (CREST) — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic sclerosis (scleroderma) for the LeRoy classification this maps onto, not repeated here.
+- **Anti-Jo-1:** associated with dermatomyositis/polymyositis, particularly the subset with interstitial lung disease — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Dermatomyositis, not repeated here.
+
+**Cross-reference:** see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] for the full disease-level detail each marker pattern above feeds into.
+
+---
+
+<!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
+
+<!-- ===== SOURCE: NEW_Investigations_Rheumatology.md ===== -->
+
+
+# NEW — Investigations: Rheumatology and Immunology
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay-dependent values are **omitted with the omission stated in place**.
+
+> [!note] **Overlap with the infectious diseases file is deliberate.** The build list carries `Autoimmune / Rheum Serology`, `Positive Autoimmune Serology` and `Vasculitis Serology` under Infectious Diseases and `Autoimmune / ANA Panel`, `ANCA Profile`, `Anti-Centromere Antibodies` and `Myositis Profile` under Rheumatology. The general interpretive approach is in `NEW_Investigations_Infectious_Diseases.md` 0.19–0.21 and is **not restated here**; these entries cover what is specific to each test.
+
+---
+
+## 0.1 Autoimmune / ANA Panel (ANA, Anti-dsDNA, Anti-Sm, Anti-RNP, Anti-Ro/SSA)
+
+**D:** Antinuclear antibody by indirect immunofluorescence (reported as **titre and pattern**), reflexing to extractable nuclear antigen specificities.
+
+**Ind:** A clinical syndrome suggesting connective tissue disease — inflammatory arthritis, photosensitive rash, serositis, Raynaud phenomenon, sicca, unexplained cytopenias, unexplained renal or interstitial lung disease.
+
+**Role:** **Supportive, never diagnostic alone.** The general caution — that ANA is a poor test in an unselected patient and that low-titre positives are common in healthy people — is set out in `NEW_Investigations_Infectious_Diseases.md` 0.19 and 0.20 and is not repeated.
+
+> [!info] **What each specificity adds once ANA is positive**
+> - **Anti-dsDNA** — relatively specific for **SLE**; **titre tracks disease activity, particularly lupus nephritis**, so it is a monitoring test as well as a diagnostic one.
+> - **Anti-Sm** — highly specific for SLE but insensitive; a positive is close to diagnostic, a negative excludes nothing.
+> - **Anti-RNP** — high titres in **mixed connective tissue disease**.
+> - **Anti-Ro/SSA and anti-La/SSB** — Sjögren syndrome, subacute cutaneous lupus. **Anti-Ro carries a specific obstetric consequence: risk of congenital heart block and neonatal lupus**, so it must be known before or early in pregnancy and triggers fetal cardiac surveillance.
+
+> [!danger] **Do not ignore**
+> **A positive ANA with hypertension, oedema, an active urinary sediment or a rising creatinine** — lupus nephritis. Send **anti-dsDNA, C3/C4, urinalysis with microscopy and a urine protein:creatinine ratio**, and refer; renal outcome depends on early treatment. **Never diagnose SLE on serology alone** — it is a clinical diagnosis against criteria.
+
+**Normal/abnormal:** Report as titre and pattern; **complement (C3/C4) falls with active SLE** and is the cheap companion test that is often forgotten.
+
+**Alt:** Complement; urinalysis and UPCR; specific organ assessment; skin or renal biopsy.
+
+## 0.2 ANCA Profile (ANCA, c-ANCA/PR3, p-ANCA/MPO)
+
+**D:** Anti-neutrophil cytoplasmic antibodies, now measured primarily by **antigen-specific immunoassay for PR3 and MPO**, with indirect immunofluorescence patterns (cANCA/pANCA) reported in some laboratories.
+
+**Ind:** Suspected small-vessel vasculitis — rapidly progressive glomerulonephritis, pulmonary haemorrhage, mononeuritis multiplex, chronic destructive upper airway disease, palpable purpura, unexplained multisystem illness.
+
+**Role:** Sensitive and specific for ANCA-associated vasculitis; sources note international consensus supports **primary use of the PR3/MPO immunoassays without categorically requiring immunofluorescence**.
+
+> [!danger] **This is an urgent request, not a routine one.** Pulmonary–renal syndrome needs same-day nephrology or rheumatology involvement, and **the referral is made on clinical grounds, not after the serology returns.** The fuller danger box is in `NEW_Investigations_Infectious_Diseases.md` 0.21, including the dual ANCA/anti-GBM phenotype.
+
+> [!warning] **A p-ANCA pattern on immunofluorescence is not specific to vasculitis** — it also occurs in inflammatory bowel disease, autoimmune hepatitis, primary sclerosing cholangitis and some infections, usually **without** MPO specificity. **Sources also note that ANA interferes with the pANCA pattern on immunofluorescence**, which is precisely why antigen-specific assays are preferred. **Also consider drug-induced ANCA vasculitis** — hydralazine, propylthiouracil, cocaine/levamisole.
+
+**Normal/abnormal:** A negative ANCA does not exclude vasculitis, particularly limited disease. Confirm with **biopsy** before committing to prolonged immunosuppression wherever feasible.
+
+**Alt:** Anti-GBM; urinalysis with microscopy for casts (**the fastest and cheapest test in this presentation**); renal or other tissue biopsy; imaging.
+
+## 0.3 Anti-CCP (Anti-Cyclic Citrullinated Peptide Antibodies)
+
+**D:** Antibody to citrullinated peptides — the most specific serological marker for rheumatoid arthritis.
+
+**Ind:** Suspected inflammatory polyarthritis; **early undifferentiated arthritis**, where the question is whether this will become RA; prognostication in established RA.
+
+**Role:** **The preferred serological test for RA**, used with rheumatoid factor.
+
+> [!info] **Performance, and why it beats rheumatoid factor** (sources broadly agree, with a range across studies)
+> - **Anti-CCP: sensitivity around 74–80%, specificity around 94–98%.**
+> - **Rheumatoid factor: sensitivity around 70%, specificity around 81%** — RF is the less specific of the pair, and is positive in **Sjögren syndrome, chronic infection (hepatitis C, endocarditis, TB), other connective tissue disease, and in healthy older people**, which is why a positive RF alone is weak evidence.
+> - **Anti-CCP can be positive years before clinical arthritis appears**, and its presence predicts progression from undifferentiated arthritis to RA.
+
+> [!warning] **Both can be negative in genuine RA — "seronegative RA" is real** and is diagnosed clinically and radiologically. **A negative anti-CCP in a patient with persistent synovitis does not permit discharge**; refer.
+
+> [!danger] **Do not ignore**
+> **Persistent synovitis of more than about six weeks in small joints with early morning stiffness** — early referral matters because **the window for preventing erosive damage is measured in months**, and outcomes are determined by time to disease-modifying therapy, not by the serology. See [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]].
+
+**Normal/abnormal:** Positive anti-CCP with clinical synovitis strongly supports RA and predicts **more erosive, more extra-articular disease** — a prognostic as well as diagnostic marker.
+
+**Alt:** Rheumatoid factor; CRP/ESR; **ultrasound or MRI for subclinical synovitis and early erosions** (more sensitive than plain films); X-rays of hands and feet as a baseline.
+
+## 0.4 Anti-Centromere Antibodies
+
+**D:** ANA subtype producing a discrete speckled centromere pattern.
+
+**Ind:** Raynaud phenomenon with any sclerodermatous feature; suspected **limited cutaneous systemic sclerosis (CREST)**; nailfold capillary abnormality.
+
+**Role:** Diagnostic and **prognostic** — it separates the two systemic sclerosis phenotypes, which have different organ risks and different surveillance.
+
+> [!info] **The phenotype split that matters**
+> - **Anti-centromere → limited cutaneous systemic sclerosis (CREST)** — **C**alcinosis, **R**aynaud, o**E**sophageal dysmotility, **S**clerodactyly, **T**elangiectasia. The dominant late risk is **pulmonary arterial hypertension**.
+> - **Anti-Scl-70 (topoisomerase I) → diffuse cutaneous systemic sclerosis** — the dominant risks are **interstitial lung disease and scleroderma renal crisis**.
+> - **Anti-RNA polymerase III** → diffuse disease with the highest **renal crisis** risk and an association with malignancy.
+>
+> **These antibodies are mutually exclusive in most patients**, so the one that is positive defines the surveillance programme.
+
+> [!danger] **Do not ignore**
+> **New or worsening hypertension with acute kidney injury in systemic sclerosis** — **scleroderma renal crisis**, a hypertensive emergency treated with ACE inhibitors (the one setting where ACE inhibitors are the specific treatment for an acute renal crisis). **Anti-centromere-positive patients need lifelong PAH surveillance** — breathlessness on exertion is not to be attributed to deconditioning.
+
+**Normal/abnormal:** A positive result in a patient with Raynaud phenomenon substantially raises the probability of progression to a defined connective tissue disease and warrants rheumatology referral even if there is little skin change.
+
+**Alt:** Full ENA panel; **nailfold capillaroscopy** (cheap and highly informative in Raynaud); echocardiography and pulmonary function tests with DLCO for surveillance; high-resolution CT chest. See [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]].
+
+## 0.5 Myositis Profile (Anti-Jo-1, Anti-Mi-2, Anti-SRP, Anti-MDA5)
+
+**D:** Panel of myositis-specific and myositis-associated antibodies.
+
+**Ind:** Proximal muscle weakness with raised CK; suspected dermatomyositis or polymyositis; **interstitial lung disease of unknown cause** — a frequent and under-recognised indication.
+
+**Role:** These antibodies **define clinical syndromes**, which is more useful than the diagnostic label alone.
+
+> [!info] **Antibody–syndrome associations**
+> - **Anti-Jo-1 and the other antisynthetases** → **antisynthetase syndrome**: myositis, **interstitial lung disease**, mechanic's hands, Raynaud, fever and arthritis. The ILD, not the muscle disease, usually determines outcome.
+> - **Anti-Mi-2** → classic dermatomyositis with prominent rash and relatively good treatment response.
+> - **Anti-SRP** → **immune-mediated necrotising myopathy** — severe weakness, very high CK, often treatment-resistant. (Also consider **statin-associated** necrotising myopathy, with anti-HMGCR.)
+> - **Anti-MDA5** → **rapidly progressive interstitial lung disease with little or no muscle involvement** and characteristic skin ulceration; a high-mortality phenotype where delay is dangerous.
+
+> [!danger] **Do not ignore**
+> **Dermatomyositis in an adult is a paraneoplastic marker** — it carries an increased risk of underlying malignancy, and age- and sex-appropriate cancer screening is part of the work-up, not an afterthought.
+> **Breathlessness in any myositis patient** — get pulmonary function tests and a high-resolution CT; ILD can progress while attention is on the muscles.
+> **Bulbar or respiratory muscle involvement** — assess swallow and **forced vital capacity**, not oxygen saturation, which is a late marker.
+
+**Normal/abnormal:** A negative panel does not exclude inflammatory myopathy. Interpret with CK, EMG, imaging and biopsy.
+
+**Alt:** CK (0.6); **MRI of muscle** to identify oedema and guide the biopsy site; EMG; **muscle biopsy** (0.9); malignancy screening.
+
+## 0.6 Creatine Kinase (Serum CK)
+
+**D:** Enzyme released from damaged muscle; the CK-MM isoform predominates in skeletal muscle.
+
+**Ind:** Proximal weakness or myalgia; suspected inflammatory myopathy; **suspected rhabdomyolysis** (crush injury, prolonged immobility, seizures, extreme exertion, hyperthermia, neuroleptic malignant syndrome, prolonged restraint); statin-related muscle symptoms; unexplained AKI with dark urine.
+
+**Role:** Sensitive marker of muscle injury but **entirely non-specific as to cause**.
+
+> [!danger] **Do not ignore**
+> **A markedly raised CK with AKI, hyperkalaemia, hypocalcaemia and dark urine** — **rhabdomyolysis**; the killers are **hyperkalaemia and acute kidney injury**, and the treatment is aggressive fluid resuscitation and potassium management. **Numeric CK thresholds for diagnosing rhabdomyolysis or for stopping a statin are deliberately omitted** — they differ between guidelines and did not meet the three-source bar.
+> **Raised CK with rigidity and hyperthermia on antipsychotics** — neuroleptic malignant syndrome. **With serotonergic drugs and clonus** — serotonin syndrome.
+
+> [!warning] **Common causes of a raised CK that are not myopathy** — recent **exercise** (especially eccentric or unaccustomed; can raise CK for days), **intramuscular injection**, trauma, seizure, **needle EMG** (so take the CK *before* the EMG), hypothyroidism, alcohol, and normal higher baseline values in people of African ancestry and in muscular individuals. **Repeat after rest before investigating an isolated modest elevation.**
+
+**Normal/abnormal:** Reference intervals are laboratory-, sex- and ancestry-dependent and are **not stated here**. Interpret the **trend** in rhabdomyolysis — a falling CK with improving renal function is the reassuring pattern.
+
+**Alt:** Urine dipstick (**blood-positive, red-cell-negative** in myoglobinuria — see `NEW_Investigations_Renal_and_Urology.md` 0.4); UEC, potassium, calcium, phosphate; LDH and aldolase; TFTs; myositis serology; MRI muscle; biopsy.
+
+## 0.7 HLA-B27 Test
+
+**D:** Genotyping for the HLA-B27 allele.
+
+**Ind:** Suspected **axial spondyloarthritis** where the diagnosis is uncertain after clinical assessment and imaging — inflammatory back pain, alternating buttock pain, enthesitis, dactylitis, acute anterior uveitis, or spondyloarthritis with IBD or psoriasis.
+
+**Role:** **Adjunctive only, and it is very easy to misuse.**
+
+> [!danger] **This test cannot rule in or rule out the disease, and the numbers explain why.** Sources agree that **80–90% of people with ankylosing spondylitis are HLA-B27 positive, but so are roughly 5–10% of the general population** (with marked variation by ethnicity — reported from well under 1% to around 7% in different populations). Critically, **only about 5–6% of HLA-B27-positive people ever develop ankylosing spondylitis.**
+> **Therefore: a positive result in someone with mechanical back pain means almost nothing**, and generates anxiety and unnecessary referral. **Order it only when the pre-test probability is already meaningful** — inflammatory back pain features present — and interpret it as one weighted item among several, not as a verdict.
+
+> [!info] **Inflammatory back pain features that should be present before ordering** — onset **under 40**, insidious onset, **improvement with exercise but not with rest**, night pain waking the patient in the second half of the night, and **morning stiffness over about 30 minutes**. This is the reverse of the mechanical pattern.
+
+**Normal/abnormal:** Interpret with imaging. **X-rays of the sacroiliac joints are often normal early** — **MRI showing sacroiliac bone marrow oedema** is what detects non-radiographic axial spondyloarthritis.
+
+**Alt:** MRI sacroiliac joints; CRP/ESR; plain pelvic X-ray; assessment for extra-articular features (uveitis, psoriasis, IBD). See [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]].
+
+## 0.8 Synovial Fluid Analysis (Arthrocentesis Fluid Analysis)
+
+**D:** Aspiration of joint fluid for **cell count and differential, Gram stain, culture, and polarised light microscopy for crystals**; appearance and viscosity are also recorded.
+
+**Ind:** **Any acute monoarthritis** — the presentation where this test is mandatory; suspected septic arthritis; suspected crystal arthropathy; unexplained joint effusion.
+
+**Role:** **The definitive test in acute monoarthritis**, and the only one that separates infection from crystal disease at the bedside.
+
+> [!danger] **A hot, swollen, painful joint is septic arthritis until the aspirate says otherwise. Aspirate before antibiotics wherever it can be done promptly.**
+> Sources report that in native joint septic arthritis the synovial white cell count is **usually above about 50,000/mm³** with neutrophil predominance — **but antibiotics given before aspiration lower the cell count, the neutrophil percentage and the culture yield**, and studies show a substantially lower optimal cut-off in pre-treated patients. **Pre-treatment does not merely reduce yield; it moves the diagnostic threshold in a way that cannot be corrected for afterwards.**
+> **The presence of crystals does not exclude coexisting infection** — gout and sepsis can occur in the same joint. **A substantial proportion of patients with septic arthritis are afebrile**, so normal observations are not reassurance.
+
+> [!warning] **Do not aspirate through overlying cellulitis** (risk of seeding the joint), and **do not aspirate a prosthetic joint outside the orthopaedic team** — prosthetic joint infection has its own pathway and sampling requirements.
+
+**Normal/abnormal:** Clear, viscous, low cell count fluid suggests a non-inflammatory (e.g. osteoarthritic) effusion. Turbid fluid with a high neutrophil count suggests infection or crystal disease. **Negatively birefringent needle-shaped crystals → gout (urate); positively birefringent rhomboid crystals → pseudogout (calcium pyrophosphate).** Frank blood suggests haemarthrosis — trauma, anticoagulation, or a bleeding disorder; **fat globules suggest an intra-articular fracture.**
+
+**Alt:** Blood cultures (at least two sets); CRP, ESR, FBC; **urate** — with the caveat that it is often **normal during an acute gout attack** and a raised level neither diagnoses gout nor excludes sepsis; plain X-ray; ultrasound to confirm an effusion and guide aspiration; MRI for osteomyelitis.
+
+## 0.9 Muscle Biopsy
+
+**D:** Sampling of skeletal muscle for histology, immunohistochemistry, enzyme histochemistry and, where indicated, electron microscopy and genetic studies.
+
+**Ind:** Suspected inflammatory myopathy where serology and imaging are not conclusive; suspected metabolic, mitochondrial or dystrophic muscle disease; unexplained persistent CK elevation with weakness; suspected vasculitis affecting muscle.
+
+**Role:** **Histological gold standard** for inflammatory and structural myopathy.
+
+> [!warning] **Site selection determines whether the test works.** Sample an **affected but not end-stage** muscle — a severely wasted, fatty-replaced muscle yields non-diagnostic tissue. **MRI is used to pick the site.** **Avoid a muscle recently studied by needle EMG**, because needle trauma produces inflammatory artefact that mimics myositis — take the biopsy from the contralateral side.
+
+**Safety/cost:** Minor procedure under local anaesthetic (open) or needle; bleeding, infection, scarring, and sampling error. Specialised handling — **fresh, correctly oriented and snap-frozen tissue** is required for enzyme histochemistry, so it must be arranged with the laboratory in advance rather than sent in formalin.
+
+**Normal/abnormal:** Reported as inflammatory infiltrate and its distribution (perimysial/perivascular in dermatomyositis, endomysial with invasion of non-necrotic fibres in polymyositis and inclusion body myositis), necrosis with sparse inflammation (necrotising myopathy), fibre-type changes, dystrophic features, or storage material. **A normal biopsy does not exclude myopathy** — patchy disease and sampling error occur.
+
+**Alt:** MRI muscle; EMG and nerve conduction studies; myositis serology (0.5); CK (0.6); genetic testing, which increasingly replaces biopsy for inherited myopathies.
+
+## 0.10 Temporal Artery Biopsy (TAB)
+
+**D:** Surgical excision of a segment of superficial temporal artery for histology, looking for granulomatous inflammation with giant cells and intimal hyperplasia.
+
+**Ind:** Suspected **giant cell arteritis** — new headache over 50, scalp tenderness, **jaw claudication**, visual symptoms, polymyalgic symptoms, systemic features with markedly raised inflammatory markers.
+
+**Role:** Traditional gold standard, though **ultrasound is increasingly used first** in many centres.
+
+> [!danger] **Treatment comes first. Do not delay corticosteroids to obtain the biopsy — the fellow eye can be lost within days.** Sources address the practical tension directly: to limit false negatives, **biopsy is recommended within about 1 week of starting corticosteroids**, and reported positive yields after starting treatment vary very widely across the literature (from around 10% at one week to as high as 86% after four or more weeks in some series). **The variation itself is the message — arrange the biopsy urgently, but never before the first steroid dose.**
+
+> [!warning] **Why a negative biopsy does not exclude GCA — and how to reduce that risk**
+> GCA is a **segmental** vasculitis with **skip lesions**, so an inflamed artery can yield a normal-looking segment. Sources support an adequate specimen length — **at least about 15 mm post-fixation (roughly 15–20 mm pre-fixation)** — and note that even so, the median positive yield in one series was around **25%**. **Multiple histological cross-sections** are examined for the same reason.
+> **Inflammatory markers can be normal in biopsy-proven GCA**, so a normal ESR/CRP is also not exclusion.
+
+**Safety/cost:** Minor surgical procedure under local anaesthetic; bleeding, infection, scarring, transient nerve injury. Requires theatre access, which is often the rate-limiting step.
+
+**Normal/abnormal:** Positive confirms the diagnosis and supports prolonged corticosteroid therapy. **Negative in a convincing clinical picture does not overturn a clinical diagnosis** — GCA remains a clinical diagnosis and treatment continues.
+
+**Alt:** **Temporal artery ultrasound** looking for the **halo sign** — sources describe the halo as **circumferential, visible in at least two planes and more than about 0.3 mm thick**, and note that **the halo resolves in essentially all patients after two to four weeks of corticosteroid treatment**, so ultrasound must also be done early. Also **large-vessel imaging** (CT/MR angiography, PET-CT) for extracranial large-vessel GCA, plus ESR, CRP and FBC. See the Acute Visual Loss entry in `NEW_Ophthalmology.md`.
+
+## 0.11 Allergy Skin Testing (Skin Prick Test — SPT)
+
+**D:** Introduction of standardised allergen extracts into the epidermis with a lancet, alongside a **positive (histamine) and negative (diluent) control**, read after a set interval.
+
+**Ind:** Suspected **IgE-mediated** allergy — allergic rhinoconjunctivitis, food allergy, drug allergy, venom allergy, and to guide immunotherapy. **It tests sensitisation, not clinical allergy** — the distinction that governs everything below.
+
+**Role:** First-line for IgE-mediated allergy, with serum specific IgE as the alternative.
+
+> [!info] **Technique and interpretation** (source-supported)
+> Results are read at **15–20 minutes**, and a **wheal of ≥3 mm diameter** (relative to the negative control) is the conventional positive threshold. **The controls are not optional** — a negative histamine control means the test is uninterpretable, usually because of antihistamines.
+
+> [!danger] **Medication interference, and the practical rule**
+> **Antihistamines must be stopped before testing.** Sources report that patients who stopped H1-antihistamines **3 days** before testing all had positive histamine controls, and that **second-generation antihistamines may not require the full 7 days** often quoted. **Tricyclic antidepressants and some antipsychotics also suppress the wheal** and have long half-lives. **Topical corticosteroids at the test site** suppress reactivity; systemic corticosteroids at usual doses generally do not.
+> **Beta-blockers are the safety issue rather than an interference issue** — they can make anaphylaxis harder to treat, so testing is done where resuscitation facilities are available and beta-blockade is considered in advance.
+
+> [!warning] **A positive result is not a diagnosis.** Sensitisation is common in people with no clinical reaction, so **the result must be interpreted against a convincing history of reaction to that allergen**. Testing a broad panel without a history generates false positives and leads to unnecessary food avoidance — which in children carries real nutritional and quality-of-life harm, and can itself increase the risk of developing true allergy.
+
+**Safety/cost:** Cheap, quick, and generally safe, but **systemic reactions including anaphylaxis can occur**, so it is performed where adrenaline and resuscitation are immediately available. **Not performed on extensively eczematous or dermographic skin**, where it cannot be read.
+
+**Normal/abnormal:** Negative with a good history → consider serum specific IgE, a different mechanism (non-IgE), or challenge testing. Positive with a matching history → allergen avoidance, action plan, and consideration of immunotherapy.
+
+**Alt:** **Serum allergen-specific IgE** (unaffected by antihistamines and usable in severe eczema, but less sensitive and slower); **component-resolved diagnostics**; **oral food challenge — the true gold standard** for food allergy; intradermal and patch testing for specific indications (patch testing is for **delayed, type IV** contact allergy and answers a different question entirely).
+
+---
+
+## Build status of this file
+
+| Measure | Value |
+|---|---|
+| Category | Investigations — Rheumatology and Immunology |
+| No-header items in category | 11 |
+| **Built** | **11** |
+| Dropped as `[CUT]` | 0 |
+| Searches used | 2 (plus sourcing carried from the infectious-diseases and presentations builds) |
+
+**Numerics carried on source agreement:** anti-CCP sensitivity ~74–80% and specificity ~94–98% against RF ~70%/~81% · HLA-B27 in 80–90% of AS but 5–10% of the general population, with only ~5–6% of carriers developing AS · synovial white cell count usually >50,000/mm³ in native joint septic arthritis, with the pre-antibiotic threshold shift · temporal artery biopsy ≥15 mm post-fixation, biopsy within ~1 week of starting steroids, median positive yield ~25% · ultrasound halo circumferential, ≥2 planes, >0.3 mm, resolving after 2–4 weeks of steroids · skin prick wheal ≥3 mm read at 15–20 minutes, antihistamines stopped ~3 days.
+
+**Omissions under the sourcing standard, each stated in place:** CK reference intervals and the numeric thresholds for diagnosing rhabdomyolysis or stopping a statin · all autoantibody titre cut-offs · corticosteroid doses in GCA.
+
+**Deliberate non-duplication:** the general approach to ANA and to an unexpected positive autoantibody is in `NEW_Investigations_Infectious_Diseases.md` 0.19–0.21 and is referenced rather than restated, since the build list carries those rows under Infectious Diseases.
+
+
+<!-- ===== SOURCE: 12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis.md ===== -->
+
+
+## Rheumatoid arthritis (RA)
+
+- **D:** chronic, erosive arthritis. Affects ~1% of the population.
+- **R:** F>M, family history (main risk factor), possibly smoking.
+- **A/P:** inflamed synovium → infiltration of inflammatory cells + cytokines → erosions.
+- **S/Smx:**
+  - **Earlier:** symmetrical arthritis >6 weeks (insidious development, small → large joints); swollen, painful joints in hands/feet; stiffness worse in the morning, classically lasting **>1 hour** (often >2 hours in more active disease); ± systemic disturbances.
+  - **Later:** deformities — swan neck, boutonnière, Z-thumb, ulnar deviation. Positive squeeze test.
+
+> [!info] Gap-filled — the morning stiffness duration cutoff, and *why* it differs so much between inflammatory and mechanical arthritis, was stated in the OA section below (as a red flag threshold) without ever being explained here at its actual source. **Mechanism:** RA's morning stiffness reflects genuine ongoing **inflammation** — inflammatory cytokines and synovial fluid accumulate within the joint capsule overnight during rest, and this accumulated inflammatory fluid/oedema takes a genuinely prolonged period of movement to disperse once activity resumes, producing stiffness lasting an hour or more. **OA's morning stiffness, by contrast, is a "gel phenomenon"** — a purely mechanical effect where joint fluid viscosity briefly increases during a period of rest (no inflammatory cytokine accumulation involved), resolving quickly — typically **<30 minutes** — with the first few minutes of movement, since there's no ongoing inflammatory process needing to clear. This is precisely why duration, not just presence, of morning stiffness is the genuinely useful discriminator between inflammatory and mechanical joint disease — see the OA red-flag box below, not repeated here, for the specific >2h threshold used as a trigger to reconsider an inflammatory cause.
+
+> [!info] Swan neck vs boutonnière — genuinely opposite finger positions, and frequently confused given both affect the PIP and DIP joints:
+> - **Swan neck:** PIP joint **hyperextension** with DIP joint **flexion** — caused by damage/laxity of the extensor mechanism at the PIP (central slip stays intact but the lateral bands migrate dorsally, over-extending the PIP), while the DIP correspondingly flexes.
+> - **Boutonnière:** PIP joint **flexion** with DIP joint **hyperextension** — the reverse pattern, caused by rupture/attenuation of the **central slip** of the extensor tendon at the PIP (classically from chronic synovitis in RA); the lateral bands then migrate volarly, converting them from PIP extensors into PIP flexors while still extending the DIP.
+> - **A simple way to remember which is which**: in boutonnière, the finger pokes through the "buttonhole" created by the ruptured central slip — the PIP flexes through the gap while the DIP is pulled into extension by the displaced lateral bands.
+  - Other pattern: relapsing/remitting monoarthritis of different large joints (palindromic rheumatism).
+- **Dx:** clinical + lab confirmation.
+  - Rheumatology screen: rheumatoid factor (RF, 70% positive), **anti-CCP (anti-cyclic citrullinated peptide antibody)** (90–95% positive) — **anti-CCP is the more specific of the two**: RF is also positive in Sjögren's, SLE, chronic infection and healthy older people, so a positive anti-CCP is what makes the diagnosis convincing, while RF alone does not.
+  - X-rays of hands & feet — a standard, internationally-consistent diagnostic step (not a UK/NICE-specific recommendation), including in Australian practice: early — loss of joint space, juxta-articular osteoporosis, soft-tissue swelling; later — periarticular erosions, subluxation.
+
+> [!info] 2010 American College of Rheumatology / European League Against Rheumatism (ACR/EULAR) classification criteria — jointly developed, not an ACR-only tool (corrected attribution)
+> - Joint involvement — more points for more joints; ≥1 small joint must be involved.
+> - Serology — positive, ↑↑RF, anti-CCP.
+> - Acute phase reactants — ↑CRP, ESR.
+> - Duration of symptoms — >6 weeks.
+
+### Management
+
+- Start a DMARD as soon as possible — monotherapy ± a short course of bridging prednisolone.
+- Monitoring: CRP + DAS28 score (see below for what this actually measures, not previously explained).
+- Flares: corticosteroids PO/IM.
+
+> [!note] Gap-filled — DAS28 was only ever mentioned by name, never explained, despite directly driving RA treatment escalation decisions. See [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Ankylosing spondylitis for BASDAI, the analogous disease-activity monitoring tool used in axial spondyloarthritis, not repeated here.
+
+**DAS28 (Disease Activity Score in 28 joints):** a composite score combining four components — **T**ender **J**oint **C**ount (of 28 specified joints), **S**wollen **J**oint **C**ount (same 28 joints), an inflammatory marker (**CRP** or **ESR**), and the patient's own global assessment of disease activity (a 0–100 visual analogue scale) — into a single number, calculated via a weighted formula (not required at intern level; the components and thresholds below are the testable, clinically relevant part).
+
+> [!info] DAS28 thresholds — genuinely drive treatment decisions under a treat-to-target strategy, not just descriptive labels:
+> - **<2.6:** remission
+> - **2.6–3.2:** low disease activity
+> - **3.2–5.1:** moderate disease activity
+> - **>5.1:** high disease activity
+
+**Treat-to-target principle:** DAS28 is measured regularly (e.g. every 1–3 months in active disease) and used to actively escalate therapy if the target (remission, or low disease activity where remission isn't achievable) isn't being met — e.g. adding a second DMARD, or escalating to a biologic/TNFα inhibitor (see below, not repeated here) if DAS28 remains in the moderate/high range despite an adequate trial of conventional DMARD therapy. This is a genuinely active, target-driven monitoring strategy, not a passive score recorded for its own sake.
+
+> [!danger] Methotrexate is dosed **once weekly, not daily** — a genuine, documented, and repeatedly fatal Australian prescribing error (see "A decade of Australian methotrexate dosing errors," Medical Journal of Australia 2016) given accidental daily dosing causes severe, sometimes fatal myelosuppression. Typical weekly dose 7.5–25mg PO or SC (SC reduces GI side effects and improves bioavailability). **Folic acid must be co-prescribed** — at least 5mg weekly, taken on a **different day** to the methotrexate dose (same-day dosing may reduce methotrexate absorption/efficacy) — per Australian Therapeutic Guidelines, up to a maximum folic acid:methotrexate ratio of 3:1 if adverse effects persist despite the standard dose. In case of accidental pregnancy: stop methotrexate immediately, start folic acid 5mg daily, and contact the treating rheumatologist urgently, given methotrexate's teratogenicity.
+
+> [!warning] DMARDs and their key adverse effects
+> - **Methotrexate (MTX):** monitor FBC, LFTs. AE: myelosuppression, liver failure, pneumonitis.
+> - **Sulfasalazine:** AE — rashes, oligospermia, Heinz body anaemia, interstitial lung disease.
+> - **Leflunomide:** AE — liver failure, interstitial lung disease, hypertension.
+> - **Hydroxychloroquine:** AE — retinopathy, corneal deposits. **Retinopathy screening (RANZCO-verified, Aug 2026): baseline ophthalmological examination within the first year of starting hydroxychloroquine, then annual screening from the 5-year mark onward for patients with no additional risk factors** — earlier annual screening (i.e. from initiation, not deferred to year 5) is warranted for patients on higher doses (>5mg/kg/day actual body weight), with renal impairment, on concurrent tamoxifen, with pre-existing retinal/macular disease, or on chloroquine specifically. Optical coherence tomography (OCT) plus fundus autofluorescence (FAF) is the primary screening approach, given standard visual acuity testing alone is a poor early-detection tool — significant retinal damage can occur before visual acuity is affected. **Genuinely important given the risk profile is cumulative and dose/duration-dependent**: toxicity risk is <1% at 5 years, rising to ~20% by 20 years of continuous use — this is why baseline screening alone isn't sufficient and ongoing annual review matters, not a one-off check that can be forgotten once done.
+> - **Gold:** AE — proteinuria.
+> - **Penicillamine:** AE — proteinuria, ↑Mg.
+
+> [!info] TNFα inhibitors — indicated if inadequate response to ≥2 DMARDs, including MTX.
+> - **Etanercept:** recombinant protein, acts as a decoy receptor for TNF-α. SQ administration. AE: demyelination, reactivation of TB.
+> - **Infliximab:** monoclonal antibody, binds TNF-α and prevents it binding TNF receptors. IV administration. AE: reactivation of TB.
+> - **Adalimumab:** monoclonal antibody, SQ administration.
+
+- **Rituximab:** anti-CD20 monoclonal antibody, ↓B cells. Two 1g IV infusions, 2 weeks apart. AE: infusion reactions.
+- **Abatacept:** fusion protein that modulates a key signal required for T-cell activation; ↓T cell proliferation, ↓cytokines. IV or SC administration. **PBS-listed in Australia** (corrected — the original note's "not recommended by NICE" was UK-specific guidance left uncorrected) for patients who have failed an adequate trial of at least two conventional DMARDs including methotrexate at the required minimum dose (≥20mg/week, unless contraindicated or not tolerated) — **maintaining methotrexate alongside abatacept is itself a PBS eligibility requirement**, not merely a clinical preference, reflecting genuinely superior efficacy of the combination over either agent alone.
+
+> [!warning] Poor prognostic factors: RF positive, anti-CCP positive, HLA-DR4, poor functional status at presentation, early erosions on X-ray (<2 years), extra-articular features, insidious onset, possibly female sex.
+
+### Complications / extra-articular manifestations
+
+- Ocular manifestations in 25%: keratoconjunctivitis sicca, episcleritis, scleritis, corneal ulceration, keratitis.
+- Respiratory: pulmonary fibrosis, pleural effusion, pulmonary nodules, bronchiolitis obliterans, pleurisy.
+- Osteoporosis (possibly secondary to steroids).
+- Ischaemic heart disease.
+- ↑risk of infections (possibly secondary to DMARDs).
+- Depression; amyloidosis.
+
+> [!info] Felty's syndrome: RA + splenomegaly + neutropenia.
+
+## Osteoarthritis (OA)
+
+- **D:** degenerative joint disorder — the result of mechanical and biological events that destabilise the normal process of degradation and synthesis of articular cartilage chondrocytes, extracellular matrix, and subchondral bone.
+- **R:** >50 years old, F>M, obesity, genetic factors, knee alignment, ↑activity, post-trauma.
+- **S/Smx:** pain, functional difficulties, ↓range of motion, malalignment. Knee > hip > hand in frequency.
+
+> [!danger] A genuine, severe Australian health equity issue with an important disease-specific nuance and a striking treatment-access gap — not a generic epidemiological footnote. **Overall arthritis prevalence is higher in Aboriginal and Torres Strait Islander Australians (around 17%) than non-Indigenous Australians (around 13%)**, but this genuinely varies by condition rather than being uniform: **osteoarthritis prevalence is around 1.2–1.5 times higher**, and systemic lupus erythematosus prevalence is markedly higher (roughly 52–93 per 100,000 vs 19–39 per 100,000) — but **rheumatoid arthritis prevalence appears lower** in Indigenous Australians based on published literature, the opposite direction from OA/SLE. This disease-specific variation matters — "arthritis is more common in this population" isn't accurate applied uniformly across all rheumatological conditions.
+> - **A genuinely striking, specific treatment-access gap for OA**: Aboriginal and Torres Strait Islander people with hip or knee osteoarthritis access primary care at **half the rate** expected based on disease incidence, and are correspondingly **half as likely to receive hip or knee replacement surgery** compared with non-Aboriginal people with the same condition — this mirrors the surgical-access pattern already established for lung cancer (see [[02_Respiratory]] Lung Cancers, not repeated here) and renal transplant (see [[07_Renal_Medicine_and_Urology]] Renal transplant, not repeated here): a recurring theme across multiple, unrelated conditions where Indigenous Australians access surgical/definitive treatment at a lower rate than disease burden alone would predict.
+> - **Recognised barriers are structural and relational, not individual**: cultural safety concerns, experiences of racism within health services, communication difficulties with practitioners, and lower health literacy resources historically available (Arthritis Australia only launched Australia's first culturally-appropriate arthritis resources for Aboriginal and Torres Strait Islander people in 2023–24) — addressing this gap requires health-system and resource design changes, not just patient-level intervention.
+
+### OA of the hip
+
+- Chronic history of groin ache, worse with exercise, better with rest — described as a "C sign" (patient cups hand in a C-shape over the lateral hip/groin to indicate pain location).
+- Oxford Hip Score used to assess severity — a 12-item, patient-reported questionnaire (scored 0–48, higher = better function) covering pain and functional difficulty, used mainly to track symptom severity over time and to help prioritise surgical waiting lists rather than as a diagnostic tool; a persistently low score despite conservative management is one factor supporting referral for joint replacement.
+
+### OA of the knee
+
+> [!note] Gap-filled — genuinely absent despite the knee being explicitly the most common site for OA (per "Knee > hip > hand in frequency" above), while the two less common sites (hip, hand) both already had dedicated subsections.
+
+- Pain with activity, worse at the end of the day; medial compartment most commonly affected given it bears more load than the lateral compartment; ± crepitus, effusion, quadriceps wasting in advanced disease.
+- Varus (bow-legged) deformity is a common late finding, reflecting the medial compartment's predominant involvement.
+- Oxford Knee Score used to assess severity — the same 12-item, patient-reported structure as the Oxford Hip Score above (scored 0–48, higher = better function), not repeated here.
+- See the **Kellgren-Lawrence (K-L) grading** box under Investigations below (not repeated here) for the radiographic severity scale most commonly applied to this joint specifically.
+
+### OA of the hand
+
+- Possibly positive family history, F>M, >55 years old; increases risk for hip and knee OA.
+- **R:** hypermobility, increased hand-intensive work.
+- Usually bilateral; affects the basal thumb joint (CMC) and DIPs.
+- Episodic (intermittent) joint pain; short-duration stiffness.
+- Painless nodes — Heberden's (DIP), Bouchard's (PIP), secondary to osteophytes.
+- Squaring of the thumbs (causes fixed adduction of the thumb).
+
+> [!danger] Rest pain, night pain, or morning stiffness >2h should prompt consideration of an alternative diagnosis (e.g. inflammatory arthritis).
+
+### Investigations
+
+> [!tip] Mnemonic — "LOSS" for XR findings in OA
+> - **L**oss of joint space
+> - **O**steophyte formation
+> - **S**ubchondral cysts
+> - **S**clerosis
+
+> [!note] Gap-filled — the four radiographic features above are present, but no severity grading system existed to interpret them together. **Kellgren-Lawrence (K-L) grading** is the standard radiographic severity scale, genuinely relevant given it informs the management threshold below (e.g. joint replacement is generally considered for higher-grade disease with correlating symptoms, not offered purely on symptom severity without radiographic correlation):
+> - **Grade 0:** no radiographic features of OA.
+> - **Grade 1:** doubtful joint space narrowing, possible osteophytic lipping.
+> - **Grade 2:** definite osteophytes, possible joint space narrowing.
+> - **Grade 3:** moderate osteophytes, definite joint space narrowing, some sclerosis.
+> - **Grade 4:** large osteophytes, marked joint space narrowing, severe sclerosis, definite bony deformity.
+> A genuinely important caveat: **radiographic severity correlates poorly with symptom severity** — a patient can have severe pain with only mild K-L changes, or significant K-L grade with minimal symptoms, so grading informs but does not replace clinical assessment when deciding on management, particularly surgical referral.
+
+- Rule out RA if needed (FBC, RF, anti-CCP).
+
+### Management
+
+- **Conservative + medical:** weight loss, muscle strengthening; non-prescription options — supports, braces, TENS, shock-absorbing insoles/shoes; paracetamol, NSAIDs; opioids, capsaicin cream, intra-articular corticosteroids.
+
+> [!warning] A PPI must be co-prescribed with NSAIDs.
+
+- **Surgical (joint replacement):** for patients with significant pain.
+  - Hips: cemented hip replacement, uncemented hip replacement (in younger, more active patients — more expensive), hip resurfacing (preserves the femoral neck).
+  - Post-op: physiotherapy, home exercises, walking sticks/crutches for ≤6 weeks.
+  - Advice to avoid dislocation: avoid flexing the hip >90°, avoid low chairs, do not cross legs, sleep on back for the first 6 weeks.
+
+> [!warning] Complications of joint replacement: VTE, fracture, nerve injury, surgical site infection, leg-length discrepancy.
+> - Posterior dislocation — presents acutely with a clunk, pain, inability to weight bear. O/E: internal rotation, shortening of the affected leg.
+> - Aseptic loosening — the most common reason for revision surgery — and prosthetic joint infection.
+
+## Psoriatic arthritis (PsA)
+
+- **D:** chronic inflammatory joint disease associated with psoriasis. Oligo- or mono-articular initial pattern + DIP joint involvement.
+- **R:** psoriasis, family history of psoriasis or PsA.
+- **A/P:** likely genetic, associated with HLA-B27. Seronegative. CD8 T-cells attack the joints.
+- **S/Smx:**
+  - Symmetric polyarthritis (similar to RA), OR asymmetrical oligoarthritis of the hands and feet (less common than the symmetric pattern).
+  - Sacroiliitis.
+  - DIP joint disease (10%).
+  - Arthritis mutilans — severe deformity of the hands ("telescoping fingers").
+  - Nail changes (80–90%): pitting, onycholysis, subungual hyperkeratosis, loss of the nail.
+  - ± Psoriatic skin lesions.
+  - ± Periarticular disease: enthesitis, tenosynovitis (especially hand flexors), dactylitis (uniquely associated with psoriatic arthritis).
+- **Ix:** XR — erosive changes, new bone formation, periostitis, "pencil in cup" appearance. Bloods — ESR, CRP, RF, anti-CCP.
+- **Exacerbating factors:** trauma, alcohol, drugs (beta-blockers, lithium, antimalarials, NSAIDs, ACE inhibitors, infliximab), withdrawal of steroids. Strep infection for guttate psoriasis.
+- **Mx:** treat as for RA. With mild arthritis, NSAID monotherapy may be sufficient. Ustekinumab and secukinumab are options.
+- **P:** better than RA.
+
+
+<!-- ===== SOURCE: 12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS.md ===== -->
+
+
+## 0.1 Ankylosing spondylitis
+
+- **D:** chronic progressive inflammatory arthropathy of primarily the axial skeleton.
+- **R:** family history (97% heritability), HLA-B27, ERAP1 and IL23R genes, young age, M>F.
+
+> [!info] New York criteria for diagnosis
+> 1. Low back pain ≥3 months, improved by exercise, not relieved by rest — may come on at night and improve on getting up.
+> 2. Limited lumbar spinal motion — **Schober's test**: with the patient standing, mark the L5 spinous process (level with the "dimples of Venus"/posterior superior iliac spines) and a point 10cm above it; ask the patient to bend forward maximally (knees straight); the distance between the two marks should increase by ≥5cm in a normal spine — **an increase of <5cm ("Schober's test positive" or "reduced") indicates limited lumbar flexion**, consistent with axial spondyloarthritis.
+> 3. ↓chest expansion for age/sex.
+> 4. XR evidence of sacroiliitis — bilateral grade 2 to 4, or unilateral grade 3 to 4.
+
+> [!tip] Mnemonic for extra-articular features — the "A's": **A**pical fibrosis, **A**nterior uveitis, **A**ortic regurgitation, **A**chilles tendonitis, **A**V node block, **A**myloidosis; also cauda equina and peripheral arthritis.
+
+- **Ix:** XR — changes only apparent in later disease: sacroiliitis (subchondral erosions), squaring of the lumbar vertebrae, "bamboo spine" (late, uncommon), syndesmophytes (secondary to ossification of the annulus fibrosus). CXR — apical fibrosis. If XR negative, MRI may capture earlier changes. Spirometry — restrictive defect.
+- **Mx:** regular exercise, physiotherapy; NSAIDs; anti-TNFα drugs if refractory; DMARDs only useful if there is peripheral joint involvement.
+
+> [!note] Gap-filled — BASDAI was genuinely absent despite being the standard AS-specific disease activity monitoring tool, directly analogous to DAS28's role in RA (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Rheumatoid arthritis (RA), not repeated here) — both drive treat-to-target treatment escalation decisions in their respective conditions.
+
+**BASDAI (Bath Ankylosing Spondylitis Disease Activity Index):** a patient-reported outcome measure — six questions, each scored 0–10 on a visual analogue scale, covering fatigue, spinal pain, peripheral joint pain/swelling, localised tenderness (enthesitis), morning stiffness severity, and morning stiffness duration — averaged into a single 0–10 score. **BASDAI ≥4 indicates active disease** and is the threshold commonly used to justify escalating to biologic therapy (e.g. anti-TNFα agents) where conventional management (NSAIDs, physiotherapy) hasn't achieved adequate control — genuinely analogous to how a DAS28 above threshold drives escalation in RA, though BASDAI is entirely patient-reported (a symptom questionnaire) rather than combining an objective joint examination and inflammatory marker the way DAS28 does.
+
+## 0.2 Gout
+
+- **D:** mono/oligo-articular inflammatory microcrystal synovitis.
+- **A/P:** chronic hyperuricaemia (>450 μmol/L) increases risk of crystal formation.
+- **R:** ↑age (>40), M>F, menopause, consumption of meat/seafood/alcohol, drugs (diuretics, ciclosporin, tacrolimus, pyrazinamide, aspirin), family history, ↑cell turnover rate.
+- **S/Smx:** 70% affect the first MTP joint ("podagra") — urate crystal solubility is temperature-dependent, and cooler, peripheral joints (first MTP, ears, other distal joints) favour crystal precipitation, which is why gout classically presents distally rather than in more central/proximal joints; rapid onset severe pain, joint stiffness, swelling and joint effusion, tenderness ± tophi.
+- **Ix:** synovial fluid analysis — needle-shaped, negatively birefringent monosodium urate crystals under polarised light. Serum uric acid levels (check 2 weeks after an acute episode). XR.
+
+> [!note] Family history consideration — Lesch-Nyhan syndrome (enzyme deficiency, X-linked recessive [M>>F]) presents with gout, renal failure, neurological deficits, learning difficulties, and self-mutilation.
+
+### 0.2.1 Management
+
+- **Acute:** NSAIDs, colchicine (colchicine has a slower onset, also causes diarrhoea), or PO steroids (e.g. prednisolone 15mg/day) or intra-articular steroids — equally efficacious options, with the choice guided by comorbidities and concomitant drugs. **Colchicine dose (Australian Medicines Handbook/Australian Prescriber-verified, Aug 2026): 1mg as soon as possible, then 500 micrograms (0.5mg) one hour later — maximum 1.5mg per course, and do not repeat the course within 3 days.** This is a genuinely low, specific total dose reflecting the now-established shift toward low-dose colchicine strategies (similar efficacy to older, much higher-dose regimens, with an adverse-effect profile not significantly different from placebo) — worth stating explicitly rather than leaving colchicine undosed, given a remembered "high-dose"/hourly-until-diarrhoea regimen from older teaching would be both outdated and genuinely more toxic than current practice. **Colchicine is a substrate of CYP3A4 and P-glycoprotein**, with clinically relevant interactions including calcium channel blockers (diltiazem, verapamil), macrolides, calcineurin inhibitors, digoxin, and dabigatran — worth an active medication check before prescribing, not an assumed-safe default.
+
+> [!tip] If the patient is already on allopurinol, continue it during an acute attack.
+
+> [!info] Indications for urate-lowering therapy: after the first attack of gout, especially if ≥2 attacks in 12 months, tophi, renal disease, uric acid renal stones; prophylaxis if starting cytotoxics or diuretics.
+
+- **Prophylactic:** allopurinol 100mg OD (**lower starting dose required in renal impairment** — starting dose should be guided by renal function per current AU guidance, not a fixed 100mg regardless of eGFR), titrate to uric acid <300 μmol/L — consider starting only after the acute episode is over, with colchicine/NSAID cover (≤6 months). See [[09_01_Dermatology_-_Dermatological_Emergencies]] Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN) for the genuinely important HLA-B*58:01/allopurinol hypersensitivity association, not repeated here. Febuxostat as an alternative. 3rd line (refractory): uricase, IV pegloticase. *(And read the eGFR itself with care — see [[07_Renal_Medicine_and_Urology]] Chronic Kidney Disease (CKD) for why an eGFR overestimates function in a low-muscle-mass patient and is invalid while creatinine is unstable, both of which bite hardest exactly where a renally-dosed drug is being started.)*
+
+## 0.3 Pseudogout
+
+- **D:** microcrystal synovitis caused by the deposition of calcium pyrophosphate dihydrate crystals in the synovium — more accurately termed acute calcium pyrophosphate crystal deposition disease.
+- **R:** ↑age. Risk factors for pseudogout at <60 years old: haemochromatosis, hyperparathyroidism, ↓Mg, ↓PO4, acromegaly, Wilson's disease.
+- **S/Smx:** painful and tender joints — knee, wrist and shoulders most commonly affected. Chronic form mimics OA/RA, with variable degrees of inflammation.
+- **Ix:** arthrocentesis with synovial fluid analysis — weakly positively birefringent, rhomboid-shaped crystals. XR — chondrocalcinosis.
+- **Mx:** arthrocentesis (to exclude septic arthritis); NSAIDs ± intra-articular, intramuscular, or PO steroids as for gout.
+
+## 0.4 Reactive arthritis
+
+- **D:** inflammatory arthritis that occurs after exposure to certain GI and GU infections.
+- **R:** M>F, HLA-B27, preceding chlamydial or GI infection.
+- **A/P:** associated with *Shigella*, *Salmonella*, *Yersinia*, *Campylobacter*, *Chlamydia*. Possibly triggered by bacterial DNA in synovial tissue. One of the HLA-B27-associated seronegative spondyloarthropathies.
+
+> [!tip] Mnemonic — "can't see, can't pee, can't climb a tree" (urethritis, conjunctivitis, arthritis).
+
+- **Ix:** history taking; bloods (ESR, CRP, ANA, RF, ?HLA-B27).
+- **Mx:** symptomatic — analgesia, NSAIDs, intra-articular steroids. Persistent disease — sulfasalazine, MTX.
+- **P:** symptoms rarely last >12 months.
+
+## 0.5 Polymyalgia rheumatica
+
+- **D:** an inflammatory rheumatologic syndrome. Associated with giant cell arteritis (GCA) in some patients.
+- **R:** ≥50 years old, association with GCA, possibly F>M.
+- **A/P:** unknown/unclear.
+- **S/Smx:** rapid onset (<1 month). Aching, morning stiffness in the proximal limbs (NOT true weakness). Others: mild polyarthralgia, lethargy, depression, low-grade fever, anorexia, night sweats.
+- **Ix:** ↑ESR (>40). Normal CK and EMG.
+- **Mx:** prednisolone (e.g. 15mg OD) — patient usually responds dramatically, within 24h. If no response, consider an alternative diagnosis. Continue until ESR/CRP resolves. Taper slowly — treatment usually lasts ~1 year.
+
+## 0.6 Fibromyalgia
+
+- **D:** chronic pain syndrome diagnosed by the presence of widespread body pain.
+- **R:** family history, rheumatological conditions, age 20–60, F>M.
+- **A/P:** CNS pain or sensory amplification — "nociplastic pain"; centralisation of pain.
+- **S/Smx:** hyperalgesia, allodynia; multiple sites — "pain all over"; lethargy, cognitive impairment ("fibro fog"), sleep disturbances, headache, dizziness.
+
+> [!note] Gap-filled — "Dx: clinical" gave no actual criteria; genuinely worth specifying given the diagnostic approach changed substantially in 2010/2016, a point worth knowing explicitly to avoid the outdated tender-point approach.
+
+- **Dx:** current diagnostic approach (2016-revised ACR criteria) moved **away from the older physical examination of 18 specific tender points** (the pre-2010 standard) toward two patient-reported scales:
+  - **Widespread Pain Index (WPI):** number of body regions (out of 19) with pain in the past week.
+  - **Symptom Severity Scale (SSS):** rates fatigue, waking unrefreshed, and cognitive symptoms (0–3 each), plus additional somatic symptoms — total 0–12.
+  - **Diagnostic threshold:** WPI ≥7 and SSS ≥5, **or** WPI 3–6 and SSS ≥9; plus generalised pain in ≥4 of 5 body regions, present at a similar level for ≥3 months, not better explained by another condition (though fibromyalgia can coexist with another diagnosis — it doesn't require exclusion of all other pathology).
+  - Bloods (FBC, ESR/CRP, TFTs) are typically normal, and are mainly useful to exclude an alternative or coexisting cause rather than to confirm the diagnosis — over-testing beyond a reasonable baseline is generally discouraged given fibromyalgia is fundamentally a clinical diagnosis.
+- **Mx:** bio-psycho-social model — patient education, CBT; aerobic exercise (most evidence); pregabalin, duloxetine, TCAs.
+
+## 0.7 Chronic fatigue syndrome (myalgic encephalomyelitis)
+
+- **D:** condition characterised by disabling fatigue affecting mental and physical function more than 50% of the time for at least 3 months. Symptoms not better attributed to another disorder.
+- **R:** F>M, lower socioeconomic status, ↑BMI, increased physiological toll (e.g. pregnancy, inadequate rest), chronic health conditions (e.g. diabetes, cancer), psychological stress (e.g. depression).
+- Cause and pathology are not well understood.
+- **S/Smx:** tiredness/fatigue; sleep problems (↑ or ↓ sleep); myalgia, arthralgia; headache; painful lymph nodes; sore throat; "flu-like" symptoms; cognitive dysfunction (e.g. inability to concentrate); dizziness, nausea; palpitations.
+- **Ix:** performed to rule out other conditions, especially cancer.
+  - "Tired all the time" (TATT) bloods: FBC, U&Es, LFTs, TFTs, ESR/CRP, HbA1c, IgA TTG, CK, bone profile + consider vitamin D, vitamin B12 & folate, iron studies, monospot test, HIV test, hepatitis serology, early morning cortisol. CK will be normal.
+  - Other tests: urine dip, CXR, sputum samples for TB.
+- **Mx:** refer to a specialist CFS/ME service. Energy management — help with managing energy levels to continue functioning. Physical activity & exercise, under advice of an ME/CFS specialist team. Cognitive behavioural therapy.
+
+> [!info] Verified — this is a genuinely current, actively contested area, not a simple "NICE says X, check locally" case. The UK's NICE (2021 update) moved away from recommending graded exercise therapy (GET) as a primary treatment, largely due to concerns about post-exertional malaise (PEM) — worsening of symptoms following exertion, now considered a core diagnostic feature of ME/CFS rather than a sign the patient should push through. **Australia's position is currently different and specifically contested**: Australia's last full official clinical guideline dates to 2002 (RACGP/Royal Australasian College of Physicians), and the RACGP's own patient-resource HANDI guide was updated as recently as 2024 to *still* recommend incremental/graded physical activity — a position patient advocacy groups (e.g. Emerge Australia) have specifically and publicly criticised as outdated, not evidence-based, and out of step with the post-exertional-malaise-focused international shift reflected in NICE's 2021 update. The NHMRC is currently developing Australia's first fully updated ME/CFS clinical guidelines in over 20 years (project underway, not yet complete as of the most recent information available), specifically in response to this controversy. **Given this is a live, unresolved guideline transition rather than a settled position, don't state either "graded exercise is recommended" or "graded exercise is not recommended" as a fixed Australian fact** — the honest current picture is that official Australian guidance still endorses it while this is actively disputed and under review, which is itself the more accurate and exam-relevant thing to know than either extreme.
+
+
+<!-- ===== SOURCE: 12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_.md ===== -->
+
+
+## Systemic lupus erythematosus (SLE)
+
+- **D:** chronic multisystem disorder characterised by the presence of ANA.
+- **R:** F>M, onset commonly age 20–40; drug-induced lupus can occur with sulfasalazine, isoniazid, phenytoin, or carbamazepine.
+- **A/P:** type III hypersensitivity reaction — immune system dysregulation → immune complex formation → can affect any organ.
+
+> [!tip] Mnemonic — "RASH or PAIN" for SLE features:
+> - **Rash:** malar, discoid (discoid = scaly, red, well-demarcated rash in sun-exposed areas).
+> - **Arthritis, arthralgia.**
+> - **Serositis:** pleuritis, pericarditis.
+> - **Haematologic:** cytopenias, ITP, etc.
+> - **Oral, nasopharyngeal ulcers.**
+> - **Renal disorders, Raynaud's.**
+> - **Photosensitivity.**
+> - **ANA positive.**
+> - **Immunoglobulins:** anti-dsDNA, anti-Smith, antiphospholipid antibodies.
+> - **Neurologic:** seizures, psychosis.
+
+- **Ix:** autoimmune screen — 99% ANA positive, 70% anti-dsDNA positive, 30% anti-Smith positive, etc. ESR monitored; ↑CRP may indicate infection instead of a flare. ↓complement levels during active disease. Anti-dsDNA titres may be monitored to track disease activity if positive.
+- **Mx:** NSAIDs, sunblock, hydroxychloroquine (first-line). If internal organ involvement — prednisolone, cyclophosphamide.
+
+### Lupus nephritis
+
+> [!info] WHO classification
+> - **Class I:** normal kidney.
+> - **Class II:** mesangial glomerulonephritis.
+> - **Class III:** focal, segmental proliferative GN.
+> - **Class IV:** diffuse proliferative GN — most common and severe class; "wire-loop" appearance, thickened capillary wall, immune complex deposits, granular appearance.
+> - **Class V:** diffuse membranous GN.
+> - **Class VI:** sclerosing GN.
+
+- **Mx:** **hydroxychloroquine for all patients with lupus nephritis unless contraindicated** — foundational rather than optional, and the piece most easily missed because it is not the immunosuppressant. Treat hypertension (RAS blockade). Initial therapy for Class III and IV — glucocorticoids + mycophenolate or cyclophosphamide. Subsequent therapy — mycophenolate, azathioprine.
+  - The hydroxychloroquine recommendation was added to [[07_Renal_Medicine_and_Urology]] Lupus Nephritis when that entry was updated against the **KDIGO 2024 Lupus Nephritis Guideline**, and **was not carried across to here** — found by the pairs audit (2026-08-29). That entry owns the full KDIGO regimen and the induction/maintenance detail.
+- **P:** can result in end-stage kidney disease requiring transplant. Monitor with urine dipstick to check for proteinuria.
+
+## Systemic sclerosis (scleroderma)
+
+- **D:** multi-system autoimmune disease characterised by functional and structural abnormalities of small blood vessels, fibrosis of skin and internal organs, and production of autoantibodies.
+- **R:** family history, immune dysregulation (e.g. positive ANA), F>M (4:1).
+
+> [!info] LeRoy classification
+> - **Diffuse cutaneous systemic sclerosis:** skin thickening on the proximal extremities or trunk + face and distal extremities. Associated with Scl-70 antibodies. Respiratory involvement — 80% interstitial lung disease, pulmonary artery hypertension (most common cause of death). Also renal disease, hypertension. Poor prognosis.
+> - **Limited cutaneous systemic sclerosis:** skin thickening confined to sites distal to the elbows and knees ± face. Associated with anti-centromere antibodies.
+
+> [!tip] Mnemonic — "CREST" for limited cutaneous systemic sclerosis features: **C**alcinosis, **R**aynaud's, **E**sophageal dysmotility, **S**clerodactyly, **T**elangiectasia.
+
+> - **Sine scleroderma:** no skin involvement.
+> - **"Pure" scleroderma:** no internal organ involvement — tightening and fibrosis of skin; plaques (morphea) or linear.
+
+- **Ix:** serum autoantibodies, full bloods, ESR, CRP, pulmonary function tests, ECG, echo, CXR, barium swallow, etc.
+- **Mx:** according to symptoms (e.g. ACE inhibitor for renal disease, CCB for Raynaud's). DMARDs for advanced/severe disease.
+- **P:** mean survival ~12 years after diagnosis.
+
+## Dermatomyositis
+
+- **D:** idiopathic autoimmune inflammatory myopathy characterised by distinctive skin manifestations.
+- **R:** family history, children or >40 years old, F>M, Black ethnicity, UV radiation. May be associated with underlying malignancy (typically ovarian, breast, lung) — screen for underlying cancer.
+- **A/P:** autoimmune; autoantibodies present; evidence of T-cell mediated muscle injury; complement-mediated vascular damage.
+- **S/Smx — myositis:** proximal muscle weakness ± tenderness; Raynaud's; respiratory muscle weakness; interstitial lung disease; dysphagia, dysphonia.
+- **S/Smx — skin lesions:** photosensitive; macular rash over the back, shoulder; periorbital heliotrope rash; Gottron's papules; "mechanic's hands" (extremely dry and scaly hands with linear cracks); nail fold capillary dilatation.
+- **Ix:** ↑↑CK, serum aldolase, muscle and skin biopsy (vasculitis), abnormal EMG. 70% ANA positive; the remainder have antibodies to anti-Jo-1, anti-SRP, anti-Mi2.
+- **Mx:**
+  - Acute flares: IV corticosteroids ± IVIG; DMARD, rituximab.
+  - Ongoing disease: PO steroids; sun protection; topical steroids for skin lesions ± treatment of underlying malignancy if present.
+
+## Polymyositis
+
+- **D:** idiopathic autoimmune inflammatory myopathy characterised by muscle inflammation only.
+- Similar to dermatomyositis, apart from not having skin lesions — the myositis features (proximal muscle weakness, ↑↑CK, muscle biopsy, EMG changes) and management approach broadly mirror dermatomyositis (see above), minus the skin-directed treatment.
+- **R:** F>M, >30 years old, African descent in Europe/US, and Asian ethnicity; drug triggers (sulfasalazine, isoniazid, phenytoin, carbamazepine).
+
+## Sjögren syndrome
+
+- **D:** chronic inflammatory and autoimmune disorder characterised by diminished lacrimal and salivary gland secretion.
+- **R:** F>M, SLE, RA, scleroderma, HLA II markers, age 20–30 or onset after menopause.
+- **A/P:** immunological, genetic, hormonal, and viral components ± oestrogen involvement.
+- **S/Smx:** dry eyes (keratoconjunctivitis sicca); dry mouth; vaginal dryness; arthralgia; Raynaud's, myalgia; sensory polyneuropathy; recurrent episodes of parotitis; renal tubular acidosis (usually subclinical).
+- **Ix:** RF positive in 50%, ANA positive in 70%, anti-Ro (SSA) positive in 70%, anti-La (SSB) positive in 30%. Schirmer's test — filter paper near the conjunctival sac to measure tear formation. Histology: focal lymphocytic infiltration. ± hypergammaglobulinaemia, low C4.
+- **Mx:** artificial tears and saliva ± pilocarpine to stimulate saliva production.
+
+> [!warning] Markedly increased risk of lymphoid malignancy (40–60× baseline).
+
+*(See [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] and [[10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders]] for related haematological topics, e.g. the lymphoid malignancy risk noted above.)*
+
+
+<!-- ===== SOURCE: 12_04_Rheum_-_Vasculitis.md ===== -->
+
+
+## Vasculitis — overview
+
+- **D:** inflammation of the blood vessels. Usually refers to autoimmune systemic vasculitides.
+- **R:** age >50, white ancestry, sex (depends on the specific disorder).
+- **A/P:** autoimmune. Fibrinoid necrosis of the vessel wall with fragmentation of chromatin into unstructured granules and RBC extravasation.
+- **S/Smx:** constitutional symptoms. General: abdominal pain, foot drop, wrist drop, ulcers, haematuria, purpura, nasal symptoms, sinus pain, wheeze. (See specific conditions below for detailed symptoms.)
+- **Ix:** ESR, CRP, ANCA, U&E, urinalysis, biopsy of affected tissue.
+- **Mx:** corticosteroids + bone-protective agents, cyclophosphamide.
+- **P:** likely lifelong management required.
+
+> [!info] Classification by vessel size
+> - **Large-vessel:** Takayasu's arteritis; giant cell arteritis.
+> - **Medium-vessel:** polyarteritis nodosa; Kawasaki disease.
+> - **Small-vessel:** granulomatosis with polyangiitis (Wegener's); microscopic polyangiitis; eosinophilic granulomatosis with polyangiitis (Churg-Strauss); cryoglobulinaemic vasculitis; Henoch-Schönlein purpura; leukocytoclastic angiitis.
+> - **Variable-vessel:** Cogan syndrome; Behçet's disease.
+> - **Single-organ:** cutaneous leukocytoclastic angiitis; cutaneous arteritis; primary CNS vasculitis; isolated aortitis.
+
+## Granulomatosis with polyangiitis (GPA, formerly Wegener's)
+
+- **D:** autoimmune condition associated with a necrotising granulomatous vasculitis, affecting both the upper and lower respiratory tract and kidneys.
+- **S/Smx:**
+  - Upper respiratory tract: epistaxis, sinusitis, nasal crusting.
+  - Lower respiratory tract: dyspnoea, haemoptysis.
+  - Rapidly progressive glomerulonephritis ("pauci-immune", 80% of cases).
+  - Saddle-shape nose deformity.
+  - Also: vasculitic rash, eye involvement (e.g. proptosis), cranial nerve lesions.
+- **Ix:** cANCA positive >90%, pANCA positive in 25%. CXR — wide variety of appearances. Renal biopsy — epithelial crescents in Bowman's capsule.
+- **Mx:** steroids; cyclophosphamide; plasma exchange.
+- **P:** median survival 8–9 years.
+
+## Eosinophilic granulomatosis with polyangiitis (EGPA, formerly Churg-Strauss)
+
+- **D:** autoimmune condition associated with a necrotising granulomatous vasculitis, affecting (predominantly, possibly exclusively) the respiratory tract.
+- **S/Smx:** asthma; blood eosinophilia (e.g. >10%); paranasal sinusitis; mononeuritis multiplex.
+- **Ix:** pANCA positive in ~60%.
+- **Mx:** the same general vasculitis treatment principles as the overview above (corticosteroids ± cyclophosphamide for severe/organ-threatening disease, given this shares the same underlying small-vessel ANCA-associated vasculitis mechanism as GPA and microscopic polyangiitis) — not repeated here; **specific to EGPA, ongoing asthma control is itself part of disease management**, given the condition's close relationship to severe/late-onset asthma, and mepolizumab (an anti-IL-5 monoclonal antibody, also used in severe eosinophilic asthma) has a specific, evidence-supported role here given the eosinophil-driven pathophysiology — a genuinely EGPA-specific treatment option beyond the general vasculitis approach shared with GPA/microscopic polyangiitis.
+
+### GPA vs EGPA — comparison
+
+| Feature | GPA (Wegener's) | Shared | EGPA (Churg-Strauss) |
+|---|---|---|---|
+| Key ANCA pattern | cANCA (>90%) | Vasculitis, sinusitis, dyspnoea | pANCA (~60%) |
+| Distinguishing features | Renal failure, epistaxis, haemoptysis | — | Asthma, eosinophilia |
+
+> [!note] Gap-filled — cANCA/pANCA above describes the **immunofluorescence staining pattern**; the actual **antigen target** each pattern usually reflects (PR3 or MPO) was never explained, despite being the more clinically important distinction in current diagnostic practice.
+
+**PR3 (proteinase 3) and MPO (myeloperoxidase) are the actual autoantigens** the ANCA antibodies bind — the cANCA/pANCA immunofluorescence pattern is really just an indirect readout of which antigen the antibody targets, given a technical fixation artefact: anti-PR3 antibodies typically produce a diffuse granular cytoplasmic staining pattern (cANCA), while anti-MPO antibodies typically produce a perinuclear pattern (pANCA). **Current international consensus recommends antigen-specific immunoassays (PR3-ANCA/MPO-ANCA testing) as the primary, first-line test — not immunofluorescence pattern alone** — given genuinely superior diagnostic accuracy; IIF (the cANCA/pANCA pattern) is now used as an adjunct/confirmatory test rather than the primary screening method.
+
+**The correlation between pattern and antigen, and between antigen and disease, is strong but genuinely not absolute** — a frequently-tested "gotcha" point: roughly 10–20% of GPA patients are actually MPO-ANCA positive (not PR3), and a similarly meaningful proportion of MPA/EGPA patients are PR3-ANCA positive rather than MPO — so a specific ANCA result should inform, not replace, clinical judgement, and an "unexpected" antigen result doesn't exclude the clinically-suspected diagnosis. **PR3-ANCA/GPA correlation is somewhat stronger than MPO-ANCA/MPA correlation** in most series, though neither is 100%.
+
+## Giant cell arteritis (GCA)
+
+> [!warning] FLAG 2026-09-01 — GCA is in four places and only one pointer is correct
+> Here · `L3 §0.3 Giant Cell Arteritis — The Overlap` (this file) ·
+> `Neuro_merged ## Temporal Arteritis` — **which correctly defers here**, saying it *"covers only the
+> headache aspect"* · `Neuro_merged D1 §0.4 Secondary Headaches Worth Knowing`.
+> **The Neuro deferral is the model; the other three are unmarked.** Flagged, not merged.
+
+- **D:** granulomatous vasculitis of large and medium-sized arteries.
+- **R:** >50 years old, F>M, possible family history.
+- **S/Smx:**
+  - Site: branches of the external carotid artery, especially the temporal artery; skip lesions.
+  - Onset: <1 month.
+  - Character: tender, palpable temporal artery + headache (85%); jaw claudication (65%); ocular complications (majority anterior ischaemic optic neuropathy) — fundoscopy shows a swollen, pale disc with blurred margins.
+
+> [!danger] Amaurosis fugax can progress to permanent blindness (see [[05_Ophthalmology]] Anterior Ischaemic Optic Neuropathy (AION) for the GCA-related visual loss detail, not repeated here).
+
+  - Associated with polymyalgia rheumatica (50% — aching, morning stiffness in proximal limbs).
+  - Also: lethargy, depression, low-grade fever, anorexia, night sweats.
+- **Ix:** ↑ESR >50, possibly ↑CRP. Temporal artery biopsy — histology shows multinucleated giant cells. Duplex ultrasound of the temporal artery may show a "hypoechoic halo sign".
+
+> [!tip] CK and EMG should be normal in GCA — useful to distinguish from myositis.
+
+- **Mx:**
+
+> [!danger] Urgent 60mg prednisolone PO. If no visual loss, high-dose prednisolone. If visual loss, **IV methylprednisolone 500mg–1g/day for 3 days**, then switch to PO prednisolone — there should be a dramatic response in patients with visual symptoms. Same-day ophthalmology review. Do not delay steroid treatment while awaiting temporal artery biopsy, given biopsy findings remain positive for at least 1–2 weeks after starting steroids.
+
+  - If treated with steroids, co-prescribe a bisphosphonate.
+  - Consider low-dose aspirin.
+- **P:** treatment usually required for 1–2 years. Early neuro complications: vision loss, CVA. Late complications: relapses, CVA, aortitis leading to aortic aneurysm and aortic dissection.
+
+## Takayasu's arteritis
+
+- **D:** chronic granulomatous vasculitis affecting large arteries — primarily the aorta and its main branches.
+- **R:** family history, F>M, <40 years old, Asian (Japanese) ethnicity.
+- **S/Smx:** systemic features of vasculitis (e.g. malaise, headache); unequal BP in the upper limbs; carotid bruit and tenderness; absent or weak peripheral pulses; upper or lower limb claudication on exertion; aortic regurgitation (~20%); associated with renal artery stenosis.
+- **Ix:** ↑ESR (>50), ↑CRP; CTA or MRA (shows segmental narrowing or occlusion of affected vessels).
+- **Mx:** prednisolone (high to low dose), aspirin, alendronate.
+- **P:** relapsing disease; cardiac failure is a common cause of death.
+
+## Polyarteritis nodosa (PAN)
+
+- **D:** necrotising inflammation of medium-sized or small arteries, without glomerulonephritis or vasculitis in arterioles, capillaries, or venules.
+- **R:** hepatitis B, age 40–60, M:F 2:1.
+- **A/P:** triggers — immune complexes, endothelial dysfunction, etc. → intimal proliferation → thrombosis → ischaemia or infarction of organ/tissue ± aneurysm.
+- **S/Smx:** fever, malaise, arthralgia, weight loss, hypertension; mononeuritis multiplex, sensorimotor polyneuropathy (see [[04_Neurology]] for the general peripheral neuropathy differential this fits into, not repeated here); testicular pain; livedo reticularis; haematuria, renal failure.
+- **Ix:** ANCA positive in 20% of "classic" PAN. Hepatitis B serology positive in 30%. CRP, ESR, FBC, rheumatology screen, etc.
+- **Mx:** PO prednisolone, DMARD — cyclophosphamide ± IV methylprednisolone.
+
+## Microscopic polyangiitis
+
+- **D:** small-vessel ANCA vasculitis.
+- **S/Smx:** renal — ↑creatinine, haematuria, proteinuria; fever, lethargy, myalgia, weight loss; rash — palpable purpura; cough, dyspnoea, haemoptysis; mononeuritis multiplex.
+- **Ix:** pANCA positive in 50–75%, cANCA positive in 40%.
+- **Mx:** the same general ANCA-associated vasculitis treatment approach as GPA above (corticosteroids + cyclophosphamide or rituximab for remission induction in severe/organ-threatening disease, given microscopic polyangiitis shares the same small-vessel ANCA-associated mechanism, distinguished from GPA mainly by the absence of granulomatous inflammation and upper respiratory tract involvement) — not repeated here; plasma exchange may be considered for severe renal involvement or pulmonary haemorrhage, analogous to its use in GPA.
+
+## Henoch-Schönlein purpura (HSP)
+
+- **D:** IgA-mediated small vessel vasculitis. Associated with IgA nephropathy.
+- **S/Smx:** palpable purpuric rash (+ localised oedema) over the buttocks and extensor surfaces of the arms and legs; abdominal pain; polyarthritis; ± IgA nephropathy (haematuria, AKI).
+- **Mx:** analgesia, supportive treatment of nephropathy; inconsistent support for steroids and DMARDs.
+- **P:** generally good, self-limiting in children. Monitor BP and urinalysis. 1/3 of patients have a relapse.
+
+> [!note] See [[15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP]] Henoch-Schönlein purpura (HSP, IgA vasculitis) for the fuller paediatric-specific detail (risk factors, DDx to actively rule out, and specific complications) — HSP is predominantly a paediatric presentation, so that entry carries the more detailed clinical picture, not repeated here.
+
+## Behçet's syndrome
+
+- **D:** complex multisystem disorder associated with presumed autoimmune-mediated inflammation of the arteries and veins.
+- **R:** Eastern Mediterranean ancestry, M>F, young adults (age 20–40), HLA-B51, family history.
+- **S/Smx:**
+
+> [!info] Classic triad: oral ulcers, genital ulcers, anterior uveitis.
+
+  - Thrombophlebitis and DVT.
+  - Arthritis; erythema nodosum.
+  - Neurological involvement (e.g. aseptic meningitis).
+  - GI: abdominal pain, diarrhoea, colitis.
+- **Ix:** clinical diagnosis.
+
+> [!tip] Pathergy test — a needle prick causes the puncture site to become inflamed with a small pustule; suggestive of Behçet's.
+
+- **Mx:** prednisolone + azathioprine (or other DMARDs). Ulcers — topical triamcinolone paste. VTE prevention, etc.
+
+
+<!-- ===== SOURCE: L3_Muscle_Symptoms_and_Widespread_Pain.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, discriminators and management principles are reliable at intern level. **Every dose, taper schedule, diagnostic criterion and threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Rheumatology** and current Australian rheumatology and pain guidance.
+>
+> **Inflammatory and drug-induced myopathy is built in [[D4]] 0.6**, and **giant cell arteritis in [[D1]] 0.4** — both are cross-referenced and extended here rather than repeated.
+
+---
+
+## 0.1 Approach to Muscle Symptoms
+
+> [!danger] Patients say "weak" for at least four different things — establish which
+> **· TRUE WEAKNESS** — objective loss of power. Neuromuscular. Cross-refer [[D4]] 0.1.
+> **· MYALGIA** — pain, with normal power once the pain is overcome.
+> **· STIFFNESS** — difficulty initiating or sustaining movement, which may be inflammatory, parkinsonian or mechanical.
+> **· FATIGUE** — tiredness and lack of stamina, which is not weakness at all.
+> **The question that resolves it: "what can't you do now that you could do before?"**
+> **Rising from a low chair without using the arms · climbing stairs · lifting the arms above the head to wash hair or reach a shelf · opening jars · getting off the toilet.** These are functional, specific, and they localise proximal versus distal far better than formal power testing in a painful patient.
+
+> [!tip] The pattern narrows it fast
+> **· Proximal, symmetrical, painless weakness → myopathy** (inflammatory, drug-induced, endocrine, metabolic).
+> **· Proximal PAIN and stiffness with preserved power → polymyalgia rheumatica** (see 0.2), or bilateral rotator cuff disease.
+> **· Distal weakness → neuropathy** (cross-refer [[D4]] 0.2), or **inclusion body myositis** (which uniquely affects finger flexors and quadriceps, asymmetrically).
+> **· Fatigable weakness worse through the day → neuromuscular junction** (cross-refer [[D4]] 0.5).
+> **· Widespread pain with normal power and normal investigations → nociplastic pain** (see 0.5).
+
+> [!warning] What a creatine kinase does and does not tell you
+> **RAISED in: inflammatory myopathy, drug-induced myopathy (statins), rhabdomyolysis, muscular dystrophy, metabolic myopathy, hypothyroidism, and after seizures, intramuscular injections, trauma or vigorous exercise.**
+> **NORMAL in: polymyalgia rheumatica · STEROID myopathy · fibromyalgia · neuropathy · neuromuscular junction disease.**
+> **So a normal CK does NOT exclude a myopathy**, and a raised CK is not specific.
+> **Asymptomatic hyperCKaemia** is common and often benign — consider **recent exercise, intramuscular injection, statins, hypothyroidism, higher baseline levels in people of African ancestry, and macro-CK** before pursuing it. **Repeat it after several days of rest before investigating further.**
+
+> [!danger] Red flags in muscle symptoms
+> **· Rapidly progressive weakness** — think Guillain–Barré, myasthenic crisis, necrotising myopathy.
+> **· Respiratory or bulbar involvement** — breathlessness lying flat, weak cough, choking, nasal voice. **Monitor FVC, not oximetry** — cross-refer [[F0.5]] 0.5.
+> **· Dark or "cola-coloured" urine** — rhabdomyolysis. Cross-refer [[A7]] 0.6.
+> **· Systemic features — fever, weight loss, rash** — think inflammatory myopathy, vasculitis, malignancy.
+> **· New headache, jaw claudication or visual symptoms in a patient over 50** — **giant cell arteritis. Steroids immediately.** See 0.3.
+
+**Ix:** **CK, TSH, UEC, calcium, phosphate, magnesium, vitamin D, ESR and CRP** (*why:* covers the endocrine, electrolyte and inflammatory causes of muscle symptoms, most of which are reversible; *what:* the abnormality — **and remember vitamin D deficiency causing osteomalacic proximal myopathy, cross-refer [[I3]] 0.5**). **Medication review** (*why:* statins, corticosteroids, colchicine, and alcohol are among the commonest causes; *what:* culprit drug). EMG and nerve conduction studies (*why:* distinguishes myopathy from neuropathy and from neuromuscular junction disease; *what:* the pattern). Myositis-specific antibodies and muscle MRI or biopsy where inflammatory myopathy is suspected (*why:* classifies and directs treatment; *what:* histology, antibody profile — cross-refer [[D4]] 0.6).
+
+---
+
+## 0.2 Polymyalgia Rheumatica
+
+**D:** An inflammatory condition of people over 50, causing **bilateral shoulder and/or pelvic girdle PAIN AND STIFFNESS** with a marked inflammatory response and a characteristic response to corticosteroids.
+
+> [!tip] The clinical picture, and the two features that define it
+> **· Age over 50 — it essentially does not occur below this**, and a diagnosis of PMR under 50 should be re-examined.
+> **· Bilateral shoulder and/or hip girdle pain and stiffness, often abrupt in onset — patients can sometimes name the day.**
+> **· PROLONGED MORNING STIFFNESS**, often severe enough that they cannot get out of bed, turn over, or dress unaided.
+> **· Systemic features: fatigue, low-grade fever, weight loss, anorexia and low mood** — which is why it is sometimes mistaken for depression or malignancy.
+> **The two defining discriminators:**
+> **1. PAIN AND STIFFNESS, NOT TRUE WEAKNESS.** Power is normal once the pain is overcome. **This separates it from inflammatory myopathy**, where there is genuine weakness.
+> **2. The CK IS NORMAL.** A raised CK means it is not PMR.
+
+> [!warning] Inflammatory markers are usually but not always raised
+> **ESR and CRP are typically markedly elevated**, and this supports the diagnosis.
+> **But a minority of genuine PMR has normal inflammatory markers**, so normal results do not exclude it in a compelling clinical picture — and equally, raised markers in an older person with aches are non-specific.
+
+> [!danger] The steroid response is near-diagnostic — and failure to respond means reconsider
+> **PMR responds to low-dose prednisolone dramatically and fast — typically substantial improvement within days**, often described by patients as transformative.
+> **If there is not a clear response within about a week at an adequate dose, the diagnosis is probably wrong.** Do not escalate the steroid dose; revisit the differential.
+> This makes the therapeutic trial part of the diagnostic process — but it also means **the mimics must be considered BEFORE steroids are started**, because steroids will partially mask several of them and complicate later diagnosis. `UNVERIFIED — starting dose, expected time to response, and the taper schedule.`
+
+> [!danger] The mimics — consider them before committing to a year of steroids
+> **· Elderly-onset RHEUMATOID ARTHRITIS** — can present with a polymyalgic picture. **Look for peripheral synovitis and check anti-CCP.**
+> **· Inflammatory MYOPATHY** — true weakness and a raised CK.
+> **· HYPOTHYROIDISM** — proximal aches, stiffness, fatigue, raised CK. **Check the TSH.**
+> **· MALIGNANCY** — particularly myeloma, lymphoma and solid tumours, which cause aches, weight loss and a high ESR. **Check a serum protein electrophoresis** — cross-refer [[J4]].
+> **· INFECTION — infective endocarditis in particular** presents with malaise, aches, weight loss and a high inflammatory response, and **immunosuppressing it is disastrous.** Cross-refer [[B5]] 0.2.
+> **· STATIN-associated muscle symptoms** — cross-refer [[I5]] 0.3.
+> **· Bilateral rotator cuff disease and adhesive capsulitis** — mechanical, without systemic features or a raised ESR.
+> **· PARKINSON disease** — rigidity and slowness misread as stiffness. Cross-refer [[D6]] 0.5.
+> **· Late-onset spondyloarthritis, osteoarthritis, vitamin D deficiency, and depression.**
+
+> [!danger] Every PMR patient must be counselled about giant cell arteritis
+> **A meaningful proportion of PMR patients develop giant cell arteritis, and it can occur at any point — including while on treatment.**
+> **Explicitly tell the patient: "If you develop a new headache, scalp tenderness, pain in the jaw when chewing, or ANY change in your vision, seek medical attention the same day."**
+> **Document that you gave this advice.** **Visual loss in GCA is sudden, painless and irreversible**, and the interval in which it is preventable is short. This counselling is examinable and it genuinely prevents blindness.
+
+**S/Smx:** As above, with examination showing painful restriction of shoulder and hip movement, sometimes with peripheral features such as distal swelling, carpal tunnel syndrome or a mild peripheral synovitis.
+
+**Ix:** **ESR and CRP** (*why:* usually markedly raised, and used to monitor response and relapse; *what:* elevation). **CK** (*why:* **normal in PMR — a raised CK redirects to myopathy**; *what:* normal). **TSH** (*why:* hypothyroidism mimics it precisely and is reversible; *what:* raised TSH). **Anti-CCP and rheumatoid factor** (*why:* elderly-onset rheumatoid arthritis presents polymyalgically and needs different treatment; *what:* positive anti-CCP). **Serum protein electrophoresis and free light chains** (*why:* **myeloma causes aches, fatigue, weight loss and a very high ESR in exactly this age group**; *what:* paraprotein). FBC, UEC, LFT, calcium, glucose (*why:* baseline before prolonged steroids, and screens for alternative causes; *what:* derangement). Blood cultures where any suspicion of endocarditis (*why:* immunosuppressing endocarditis is catastrophic; *what:* organism). **Urinalysis and a chest radiograph** (*why:* occult malignancy and infection; *what:* findings). **Vitamin D and consideration of bone density** (*why:* baseline before a prolonged steroid course; *what:* deficiency, low bone density). Ultrasound of shoulders and hips (*why:* demonstrates subacromial bursitis and biceps tenosynovitis characteristic of PMR, and identifies rotator cuff disease as an alternative; *what:* bursitis, tenosynovitis).
+
+### 0.2.1 Mx – Immediate
+Not applicable — **unless GCA is suspected, in which case give high-dose steroids the same day.**
+
+### 0.2.2 Mx – Definitive
+**Low-dose prednisolone with a slow, structured taper over one to two years.** **Relapse during tapering is common** and usually responds to a modest dose increase. **Steroid-sparing agents — methotrexate, and tocilizumab — for relapsing disease or where steroid toxicity is a concern.** `UNVERIFIED — doses, taper schedules and steroid-sparing indications.`
+
+### 0.2.3 Mx – Chronic/long-term
+**BONE PROTECTION FROM DAY ONE** — calcium, vitamin D, bone density assessment and bisphosphonate consideration, because a one-to-two-year steroid course reliably causes bone loss and these are elderly patients already at fracture risk. Cross-refer [[GER1]] 0.6.
+**Also: glucose monitoring (steroid-induced diabetes), blood pressure, gastric protection where indicated, cataract and glaucoma awareness, infection risk, and a steroid card.**
+**Repeated GCA counselling at every review**, not just at diagnosis.
+
+---
+
+## 0.3 Giant Cell Arteritis — The Overlap
+
+Built in [[D1]] 0.4. Extended here for the PMR relationship and the large-vessel manifestations.
+
+> [!danger] The core principle bears repeating: treat before you investigate
+> **High-dose corticosteroids are started on clinical suspicion — before the ESR result, before the temporal artery biopsy, and before imaging.**
+> **Visual loss is sudden, painless, irreversible, and can become bilateral within days.** The steroid is what prevents the second eye.
+> **Biopsy within about two weeks of starting steroids**, taking an adequate length of artery because of **skip lesions** — and **a negative biopsy does not exclude the diagnosis.**
+> `UNVERIFIED — the steroid doses, which differ substantially between visual and non-visual presentations, and the biopsy timing window.`
+
+> [!tip] The relationship with PMR
+> **They are part of the same disease spectrum.** A substantial minority of PMR patients develop GCA, and a large proportion of GCA patients have polymyalgic symptoms.
+> **This is why PMR patients need GCA counselling, and why every patient with new GCA should be asked about girdle pain and stiffness.**
+
+> [!warning] Large-vessel GCA — a different presentation that is missed
+> **GCA can affect the aorta and its major branches rather than the cranial arteries**, presenting with:
+> **· Limb claudication, particularly of the arms · asymmetric pulses or blood pressure · bruits · and constitutional symptoms with a very high inflammatory response and NO headache at all.**
+> **· Later: thoracic aortic aneurysm and dissection**, which is why long-term aortic surveillance is considered.
+> **This presentation is diagnosed on imaging — PET-CT, CT or MR angiography — not on temporal artery biopsy**, which may be entirely normal.
+> **Consider it in an older patient with an unexplained inflammatory syndrome and no localising features** — it is a recognised cause of "fever of unknown origin" in this age group. Cross-refer [[K1]] 0.3.
+
+> [!tip] Ultrasound and steroid-sparing therapy
+> **Temporal and axillary artery ultrasound looking for the "halo sign"** (a hypoechoic circumferential wall thickening) is increasingly used and can be done rapidly, but is operator-dependent and its sensitivity falls after steroids are started — **so it should be done early if it is going to be done.**
+> **Tocilizumab is an effective steroid-sparing agent in GCA** and reduces cumulative steroid exposure, which matters enormously in this elderly population. `UNVERIFIED — availability and PBS criteria in Australia.`
+
+**Ix:** As per [[D1]] 0.4, plus **large-vessel imaging (PET-CT, CT or MR angiography) where the presentation is constitutional without cranial features** (*why:* temporal artery biopsy will be negative in large-vessel disease; *what:* aortic and branch wall thickening or uptake). **Aortic surveillance imaging in the long term** (*why:* aneurysm and dissection risk; *what:* aortic dilatation).
+
+---
+
+## 0.4 Myopathy and the Raised CK
+
+Built in [[D4]] 0.6. The points worth carrying here:
+
+> [!tip] The pattern that separates the myopathies
+> **· Inflammatory (polymyositis, dermatomyositis)** — subacute proximal weakness, raised CK, treatable with immunosuppression. **Dermatomyositis carries a paraneoplastic association requiring age-appropriate malignancy screening.**
+> **· Inclusion body myositis** — **older, ASYMMETRIC, FINGER FLEXORS and QUADRICEPS, slowly progressive, steroid-UNRESPONSIVE.** Misdiagnosis as polymyositis leads to years of futile immunosuppression.
+> **· Statin-associated** — from myalgia through to rhabdomyolysis, and **immune-mediated necrotising myopathy with anti-HMGCR antibodies, which PROGRESSES AFTER the statin is stopped.** Cross-refer [[I5]] 0.3.
+> **· STEROID myopathy — proximal weakness with a NORMAL CK.** Improves with dose reduction and exercise.
+> **· Endocrine — hypothyroidism, hyperthyroidism, Cushing syndrome, and vitamin D deficiency with osteomalacia.** All reversible, all worth testing for.
+> **· Rhabdomyolysis** — cross-refer [[A7]] 0.6.
+
+> [!warning] Investigating asymptomatic hyperCKaemia
+> **Repeat it after several days of rest, avoiding exercise, before doing anything else** — exercise-related elevation is by far the commonest explanation.
+> Then **check TSH, review medications, and consider ethnicity-related higher baseline levels.**
+> **Persistent unexplained elevation with any weakness warrants EMG and specialist referral**, since it may be the first sign of a metabolic or dystrophic myopathy.
+
+---
+
+## 0.5 Fibromyalgia and Chronic Widespread Pain
+
+> [!danger] Fibromyalgia is a disorder of central pain processing — it is neither imaginary nor psychological
+> **The mechanism is "nociplastic" pain: altered central pain processing, with central sensitisation and impaired descending inhibition, so that normal input is amplified and interpreted as painful.** There is measurable evidence of this on functional imaging and quantitative sensory testing.
+> **This framing is not a nicety — it is the single most therapeutically important thing you can convey.**
+> **"All your tests are normal" is heard as "there is nothing wrong with you and I don't believe you", and it drives patients to further investigation, further practitioners, and worse outcomes.**
+> **The alternative: "your tests are normal, and that is exactly what I expected, because this is a problem with how pain signals are processed rather than damage in the tissues themselves — the pain is real, and there is a lot we can do about it."**
+
+> [!tip] The clinical picture — pain is not the whole of it
+> **· Chronic widespread pain lasting more than three months.**
+> **· FATIGUE, and characteristically UNREFRESHING SLEEP** — waking as tired as on going to bed.
+> **· COGNITIVE difficulty — "fibro fog": word-finding, concentration and memory problems**, which patients often find more distressing than the pain and frequently fear is dementia.
+> **· And the associated conditions that cluster with it: irritable bowel syndrome, chronic headache, temporomandibular pain, bladder symptoms, and anxiety and depression.** These are not coincidental — they share the nociplastic mechanism.
+> **Diagnosis is POSITIVE and clinical**, based on the distribution of pain and the symptom burden. **The old tender-point examination is no longer required.** `UNVERIFIED — the current diagnostic criteria.`
+
+> [!danger] Investigate once, appropriately, and then stop
+> **A limited screen: FBC, ESR and CRP, TSH, CK, calcium, vitamin D, and coeliac serology** — chosen because each identifies a treatable mimic.
+> **Then stop.**
+> **Repeated investigation is actively harmful**: it reinforces the belief that something has been missed, it finds incidental abnormalities that generate further investigation, and it delays engagement with treatment that works. **Every negative scan makes the next reassurance less effective.**
+> **But the converse trap is equally real: fibromyalgia COEXISTS with inflammatory disease.** **Do not use the label to dismiss new objective findings — genuine synovitis, a rising inflammatory response, weight loss, or a new neurological sign deserve assessment on their merits.** Patients with fibromyalgia get lupus and cancer too, and the label makes them harder to hear.
+
+> [!warning] Management — what works, in order of effect size
+> **1. EDUCATION AND EXPLANATION — the highest-value intervention.** Validating the symptoms, explaining central sensitisation, and setting the expectation of management rather than cure.
+> **2. GRADED EXERCISE — the best-evidenced treatment.** **Start far below what seems reasonable and build very slowly**, because doing too much causes a flare that convinces the patient exercise is harmful. Aerobic exercise, aquatic exercise and resistance training all have evidence.
+> **3. Sleep** — addressing sleep quality, and screening for obstructive sleep apnoea and restless legs, both of which are common and treatable.
+> **4. Psychological therapy — cognitive behavioural therapy and acceptance and commitment therapy**, framed as pain management, not as treatment for a psychiatric illness.
+> **5. Pacing** — activity management to break the boom-and-bust cycle.
+> **6. Pharmacotherapy — modest, second-line, and adjunctive.** Amitriptyline, duloxetine and pregabalin have some evidence. **Simple analgesics are largely ineffective.**
+
+> [!danger] Opioids are contraindicated in fibromyalgia and cause harm
+> **They do not work for nociplastic pain, they cause OPIOID-INDUCED HYPERALGESIA which worsens the underlying problem, and they cause dependence, cognitive impairment and endocrine dysfunction.**
+> **Patients with fibromyalgia are disproportionately likely to end up on long-term opioids** — because the pain is severe, the consultations are difficult, and prescribing something feels like doing something.
+> **Deprescribing opioids in an established fibromyalgia patient is difficult but is one of the more valuable things that can be done**, and it requires a plan, time and support rather than abrupt cessation. Cross-refer [[F0.4]] 0.9.
+> **Avoid the harm cycle: repeated imaging, repeated referrals, injections, procedures, surgery and opioids.** Each intervention that fails deepens the illness identity.
+
+**Ix:** **The limited screen above, once** (*why:* identifies the treatable mimics — hypothyroidism, inflammatory disease, myopathy, coeliac disease, vitamin D deficiency — and nothing further is indicated; *what:* the mimic or, more often, normal results). **Screening for depression, anxiety, and a trauma history** (*why:* they are common, treatable, and adverse childhood experiences are over-represented — asked sensitively, not as an implication that the pain is psychological; *what:* comorbid mood disorder). **Sleep assessment** (*why:* obstructive sleep apnoea and restless legs are common, treatable, and directly worsen pain and fatigue; *what:* apnoea, low ferritin in restless legs — cross-refer [[D6]] 0.6).
+
+### 0.5.1 Mx – Immediate
+Not applicable.
+
+### 0.5.2 Mx – Definitive
+The multimodal package above, with education and graded exercise as the core.
+
+### 0.5.3 Mx – Chronic/long-term
+**Continuity with one clinician is itself therapeutic** — it reduces repeated investigation and doctor-shopping. Function-focused goals rather than pain scores. **Multidisciplinary pain service referral** where available. Realistic framing: improvement in function and quality of life, not elimination of pain.
+
+---
+
+## 0.6 Chronic Fatigue and the Overlap Syndromes
+
+> [!tip] Approach to chronic fatigue
+> The differential is broad and is covered in [[B6]] 0.5. The essential exclusions: **anaemia and iron deficiency · thyroid disease · diabetes · coeliac disease · obstructive sleep apnoea · chronic kidney or liver disease · adrenal insufficiency · malignancy · chronic infection including HIV and hepatitis · MEDICATION · and DEPRESSION**, which is both a common cause and a common consequence.
+> **A limited, targeted screen — then stop**, as in 0.5.
+
+> [!warning] Myalgic encephalomyelitis / chronic fatigue syndrome
+> **The cardinal feature is POST-EXERTIONAL MALAISE — a disproportionate and delayed worsening of symptoms after physical, cognitive or emotional exertion, often lasting days**, and it is what distinguishes ME/CFS from ordinary fatigue and from deconditioning.
+> Alongside: profound fatigue not relieved by rest, unrefreshing sleep, cognitive impairment, and often orthostatic intolerance.
+> **The management position has changed.** **Graded exercise therapy, previously a standard recommendation, is now contested and is not recommended in the way it once was**, because of concern that exertion can worsen ME/CFS through post-exertional malaise. **PACING — activity management within the patient's energy envelope — is the current emphasis.**
+> `UNVERIFIED — this is a genuinely contested and evolving area, the guidance has changed and differs between jurisdictions and guideline bodies, and it is emotionally charged for patients. Check the current position before advising, and be careful not to apply the fibromyalgia exercise advice to ME/CFS uncritically — they are different conditions with different evidence.`
+
+> [!tip] Long COVID and the overlap
+> **Post-acute sequelae of COVID-19** overlaps substantially with ME/CFS and fibromyalgia — fatigue, post-exertional symptoms, cognitive difficulty, breathlessness, and autonomic symptoms including **postural orthostatic tachycardia syndrome (POTS)**.
+> **POTS** — an excessive heart rate rise on standing without hypotension, with light-headedness, palpitations and fatigue. **It is often missed and is worth testing for with a lying and standing heart rate and blood pressure**, because it is manageable with fluids, salt, compression, exercise reconditioning and sometimes medication. Cross-refer [[B4]] 0.2.
+> **The general principles are the same across these conditions: validate, screen appropriately once, avoid iatrogenic harm, focus on function, and manage the treatable comorbidities.**
+
+**Ix:** As per [[B6]] 0.5. **Lying and standing heart rate and blood pressure** (*why:* detects POTS and orthostatic hypotension, both treatable and both commonly missed in chronic fatigue; *what:* excessive tachycardia or postural drop). Sleep assessment and mood screening (*why:* treatable contributors; *what:* apnoea, depression).
+
+### 0.6.1 Mx – Immediate
+Not applicable.
+
+### 0.6.2 Mx – Definitive
+Treat identified causes and comorbidities. **Pacing and energy management in ME/CFS.**
+
+### 0.6.3 Mx – Chronic/long-term
+Function-focused, continuity of care, and support for work and study adjustments — **which frequently matter more to the patient than any prescription.**
+
+---
+
+> [!note] Cross-references
+> Localising weakness and the neuromuscular levels → [[D4]] 0.1 · Inflammatory and drug-induced myopathy → [[D4]] 0.6 · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Giant cell arteritis → [[D1]] 0.4 · Fever of unknown origin in the elderly → [[K1]] 0.3 · Fatigue differential → [[B6]] 0.5 · Rhabdomyolysis → [[A7]] 0.6 · Statin myopathy → [[I5]] 0.3 · Osteomalacia and vitamin D → [[I3]] 0.5 · Myeloma → [[J4]] · Infective endocarditis as a mimic → [[B5]] 0.2 · Parkinsonism as a mimic of stiffness → [[D6]] 0.5 · Restless legs and ferritin → [[D6]] 0.6 · POTS and orthostatic intolerance → [[B4]] 0.2 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Opioid deprescribing and chronic pain → [[F0.4]] 0.9 · Inflammatory arthritis → [[L2]] · Back pain → [[L4]]
+
+
+<!-- ===== SOURCE: L4_Back_and_Neck_Pain.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, red flags and discriminators are reliable at intern level. **Every dose, imaging rule, time target and threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify decision rules (Canadian C-spine, NEXUS) and dexamethasone dosing for cord compression against current sources and your health network's protocol.
+>
+> **Radiculopathy is built in [[D4]] 0.3**, **paresis patterns in [[D3]] 0.6**, and **inflammatory back pain in [[L2]] 0.3** — each is cross-referenced rather than repeated.
+
+---
+
+## 0.1 Approach and Red Flags
+
+> [!tip] Most back pain is non-specific and self-limiting — the task is to find the few that are not
+> The clinical job is a **triage into three groups: non-specific mechanical back pain (the great majority) · radicular pain · and the serious pathologies below.**
+> **That triage is done by history and examination, not by imaging.**
+
+> [!danger] The red flags, grouped by what they point to
+> **CAUDA EQUINA — the most time-critical**
+> **· Bilateral leg pain or neurological symptoms · SADDLE ANAESTHESIA · bladder dysfunction, especially altered urinary sensation or retention · bowel incontinence or loss of sensation · sexual dysfunction · reduced anal tone.**
+> **MALIGNANCY**
+> **· Age over 50 or under 20 at new onset · known malignancy · unexplained weight loss · pain at REST and at NIGHT · progressive, unremitting, non-mechanical pain · failure to improve after several weeks · thoracic pain.**
+> **INFECTION**
+> **· Fever · injecting drug use · immunosuppression or diabetes · recent bacteraemia, spinal procedure or instrumentation · focal spinal tenderness · severe unremitting night pain with a raised CRP.**
+> **FRACTURE**
+> **· Significant trauma — or MINOR trauma in the osteoporotic, elderly, or those on corticosteroids · known osteoporosis · ANY trauma in a patient with ANKYLOSING SPONDYLITIS or DISH.**
+> **INFLAMMATORY**
+> **· Onset under 45 · insidious · morning stiffness over 30 minutes · improves with EXERCISE not rest · wakes in the second half of the night · good NSAID response.** Cross-refer [[L2]] 0.3.
+> **NEUROLOGICAL**
+> **· Progressive motor deficit · a sensory level · upper motor neurone signs in the legs.**
+
+> [!danger] Back pain can be referred visceral pain — and some of it is lethal
+> **· ABDOMINAL AORTIC ANEURYSM — a ruptured or symptomatic AAA presents as back or flank pain, and is repeatedly misdiagnosed as renal colic or musculoskeletal pain in an older patient.** **Examine the abdomen and feel for a pulsatile mass; a normal examination does not exclude it.** Cross-refer [[B5]] 0.4 and [[C1]] 0.7.
+> **· Aortic dissection** — tearing interscapular pain. Cross-refer [[B1]] 0.3.
+> **· Pancreatitis, peptic ulcer perforation, cholecystitis, pyelonephritis, renal colic, pelvic inflammatory disease, ectopic pregnancy, and endometriosis.**
+> **"New back pain in an older patient" deserves at least a moment's thought about the aorta before it is called mechanical.**
+
+> [!warning] Yellow flags predict chronicity better than any scan
+> **Psychosocial factors are the strongest predictors of whether acute back pain becomes chronic disabling pain:**
+> **· Fear-avoidance — the belief that movement causes damage, leading to activity restriction and deconditioning.**
+> **· Catastrophising.**
+> **· Low mood, anxiety and distress.**
+> **· The belief that pain equals ongoing tissue damage.**
+> **· Job dissatisfaction, workplace conflict, and compensation or litigation involvement.**
+> **· Passive expectations — waiting for a cure rather than participating in recovery.**
+> **Identifying and addressing these at the acute stage does more for long-term outcome than any investigation.**
+
+> [!danger] Do NOT image non-specific back pain without red flags
+> **Degenerative changes, disc bulges, protrusions and annular fissures are present in a very large proportion of ASYMPTOMATIC people, and their prevalence rises steeply with age.**
+> **Imaging without red flags does not improve outcomes and actively worsens them**: it produces findings that are attributed causally, generates fear and catastrophising, increases the likelihood of unnecessary intervention and surgery, and converts a self-limiting problem into a chronic illness identity.
+> **The words used to report and relay imaging matter — "degeneration", "wear and tear", "crumbling", "slipped disc" and "bone on bone" all cause measurable harm.** Prefer neutral, age-normalising language: *"the scan shows the changes we'd expect for your age — like grey hair, on the inside."*
+
+**Ix:** **Determined entirely by red flags.** In their absence, **no investigation** (*why:* imaging worsens outcomes in non-specific back pain; *what:* nothing that changes management). Where red flags are present, see the relevant section below.
+
+---
+
+## 0.2 Cauda Equina Syndrome
+
+**A/P:** Compression of the **lumbosacral nerve roots below the conus medullaris** (which ends around L1–L2), producing a **LOWER motor neurone** picture — flaccid weakness, reduced reflexes, and loss of sphincter function.
+**Causes: a large central disc herniation (the commonest), tumour, epidural abscess or haematoma, trauma, and severe spinal stenosis.**
+
+> [!danger] Ask about bladder, bowel and sexual function directly — patients do not volunteer it
+> **The symptoms that matter are embarrassing and are not reported spontaneously.** You must ask, explicitly:
+> **· "Have you had any change in the feeling when you pass urine — can you tell when your bladder is full? Can you tell when the stream starts and stops?"**
+> **· "Have you had any accidents, or difficulty starting?"**
+> **· "Any change in sensation when you wipe, or around the back passage?"**
+> **· "Any change in sexual sensation?"**
+> **The earliest urinary feature is ALTERED SENSATION — loss of the desire to void, or loss of awareness of the stream — not incontinence.** **Painless retention with overflow incontinence is a LATE finding**, and outcomes are substantially better when decompression occurs before that point.
+
+> [!danger] Bladder scan and rectal examination — do both, and document both
+> **A post-void residual bladder scan is objective, takes two minutes, and is the single most useful test at the bedside.**
+> **A rectal examination for anal tone and perianal sensation must be performed and documented** — its absence from the notes is a recurring problem when these cases are reviewed.
+> **Test saddle sensation on both sides.**
+
+> [!danger] Same-day MRI and same-day referral — do not arrange an outpatient scan
+> **Suspected cauda equina syndrome requires an URGENT MRI, out of hours if necessary, and urgent discussion with the spinal or neurosurgical service.**
+> **Time to decompression correlates with outcome**, and the deficits — incontinence, sexual dysfunction, saddle numbness — are permanent and devastating in a typically young patient.
+> **This is among the most litigated diagnoses in medicine, almost always because of delay**, and the delay is usually a decision to arrange imaging the next day.
+> **If you are considering it, escalate now.** `UNVERIFIED — the recommended time targets to imaging and to surgery.`
+
+**S/Smx:** Bilateral or alternating radicular leg pain, saddle anaesthesia, urinary and bowel dysfunction, sexual dysfunction, lower limb weakness, and reduced or absent lower limb reflexes.
+
+**Ix:** **URGENT MRI of the whole lumbosacral spine** (*why:* the only test that identifies the level and cause, and the decision to operate depends on it; *what:* compression of the cauda equina). **Post-void residual bladder scan** (*why:* objective evidence of retention, and it can be done immediately; *what:* significant residual volume). **Rectal examination and saddle sensation testing, documented** (*why:* clinical evidence of sacral root involvement; *what:* reduced tone, reduced perianal sensation). Where MRI is contraindicated, CT myelography (*why:* alternative when MRI cannot be performed; *what:* compression).
+
+### 0.2.1 Mx – Immediate
+**Urgent MRI and urgent spinal surgical referral. Catheterise if in retention.** Analgesia. **Do not wait for morning.**
+
+### 0.2.2 Mx – Definitive
+Surgical decompression.
+
+### 0.2.3 Mx – Chronic/long-term
+**Bladder and bowel management, sexual function support, and rehabilitation** — deficits frequently persist, and these patients need ongoing multidisciplinary support that is often not arranged.
+
+---
+
+## 0.3 Metastatic Spinal Cord Compression
+
+**A/P:** **Vertebral body metastases extend into the epidural space and compress the cord** — most commonly from **breast, lung, prostate, myeloma, renal and thyroid** primaries. Above the conus this is an **UPPER motor neurone** lesion with a sensory level, distinguishing it from cauda equina syndrome.
+
+> [!danger] The pain precedes the neurology by weeks — that is the window
+> **Progressive back pain, often thoracic, worse on lying flat and at night, sometimes band-like around the chest or abdomen, and worse on coughing or straining.**
+> **This pain phase typically precedes any neurological deficit by weeks, and it is the opportunity to intervene before the patient is paraplegic.**
+> **New or changing back pain in ANY patient with a known malignancy should be treated as cord compression until proven otherwise** — not as a musculoskeletal problem, and not as "their usual back pain".
+
+> [!danger] Ambulatory status at treatment predicts ambulatory status afterwards
+> **A patient who is walking when treated usually keeps walking. A patient who has lost the ability to walk usually does not regain it.**
+> **This single fact is why the pain phase matters, why the referral is urgent, and why "we'll scan them tomorrow" is the wrong answer.**
+
+> [!warning] Image the WHOLE spine
+> **Around a third of patients have compression at more than one level**, frequently at levels that are clinically silent.
+> **Imaging only the symptomatic region misses these, and treating one level while another progresses is a recognised failure.**
+
+**S/Smx:** Back pain as above, then **limb weakness, a sensory level, gait disturbance, and — late — sphincter dysfunction.** Upper motor neurone signs below the level.
+
+**Ix:** **URGENT MRI OF THE WHOLE SPINE** (*why:* identifies all levels of compression, which changes the radiotherapy field or surgical plan; *what:* epidural disease, cord compression, multiple levels). CT (*why:* assesses bony destruction and stability, and guides surgical decision-making; *what:* vertebral body destruction, instability). Investigation for a primary where unknown — **CT chest, abdomen and pelvis, serum protein electrophoresis, PSA, mammography** (*why:* the primary determines treatment and prognosis, and myeloma is common and specifically treatable; *what:* primary tumour, paraprotein). **Calcium** (*why:* hypercalcaemia of malignancy frequently coexists and causes confusion, constipation and dehydration; *what:* elevation — cross-refer [[I3]] 0.2). FBC, UEC, LFT (*why:* baseline and organ involvement; *what:* derangement).
+
+### 0.3.1 Mx – Immediate
+**High-dose corticosteroid immediately on clinical suspicion**, before imaging confirms. **Urgent whole-spine MRI. Urgent discussion with oncology, radiation oncology and spinal surgery.** **Nurse flat with log-rolling until spinal stability is established.** Analgesia, VTE prophylaxis, and bowel and bladder care. `UNVERIFIED — the dexamethasone dose and regimen, and whether a loading dose is used.`
+
+### 0.3.2 Mx – Definitive
+**Radiotherapy**, or **surgical decompression and stabilisation** where there is spinal instability, a single level with good performance status, an unknown primary requiring tissue, or radioresistant tumour. **Bone-modifying agents (bisphosphonates or denosumab).**
+
+### 0.3.3 Mx – Chronic/long-term
+Rehabilitation, pressure area and bladder care, **and — importantly — a goals-of-care discussion**, since cord compression usually signals advanced disease. Cross-refer [[GER2]] 0.5 and [[J5]].
+
+---
+
+## 0.4 Spinal Infection — Discitis, Vertebral Osteomyelitis and Epidural Abscess
+
+> [!danger] The classic triad is present in a minority — a raised CRP with severe new back pain is the practical trigger
+> **The textbook triad of fever, back pain and neurological deficit occurs in the minority.** **Fever is absent in a substantial proportion**, and the neurological deficit is a late feature you are trying to prevent.
+> **The most useful practical rule: severe, unremitting, night-time back pain with a RAISED CRP warrants an MRI**, particularly in a patient with risk factors.
+> **Risk factors: injecting drug use · diabetes · immunosuppression · recent bacteraemia or infection elsewhere · recent spinal surgery, injection or epidural · haemodialysis · and infective endocarditis.**
+
+> [!tip] Organisms
+> ***Staphylococcus aureus* is the commonest**, followed by streptococci and Gram-negatives.
+> **Tuberculosis (Pott disease)** — indolent, over months, with vertebral body destruction, a **gibbus deformity**, and large paravertebral "cold" abscesses. Consider it in patients from high-prevalence countries and the immunosuppressed. Cross-refer [[K3]] 0.3.
+> ***Brucella*** — with relevant occupational or unpasteurised dairy exposure.
+
+> [!warning] Take blood cultures before antibiotics
+> **Blood cultures are positive in the majority of pyogenic spinal infection**, and identifying the organism determines a treatment course lasting weeks to months.
+> **Giving empirical antibiotics before cultures — in a haemodynamically stable patient — frequently leaves the organism unidentified and commits the patient to prolonged broad-spectrum therapy or a CT-guided biopsy.**
+> **The exception, as always: if the patient is septic, treat immediately.**
+
+> [!danger] Epidural abscess causes rapid, irreversible cord injury
+> **Progression from back pain to radicular pain to weakness to paralysis can occur over hours to days.**
+> **Any neurological deficit with suspected spinal infection is a surgical emergency requiring urgent decompression and drainage.**
+
+**Ix:** **Blood cultures — at least two sets, before antibiotics where the patient is stable** (*why:* identifies the organism and avoids a biopsy; *what:* organism and sensitivities). **CRP and ESR** (*why:* almost always raised, useful for monitoring response, and the practical trigger for imaging; *what:* elevation). **MRI with contrast** (*why:* the diagnostic test — detects discitis, vertebral osteomyelitis, paravertebral collections and epidural abscess, all of which plain radiographs miss for weeks; *what:* marrow oedema, disc and endplate destruction, epidural collection). CT-guided biopsy where blood cultures are negative (*why:* organism identification directs prolonged therapy; *what:* organism, and histology to exclude malignancy). **Echocardiography** (*why:* **infective endocarditis and spinal infection frequently coexist**, and finding one should prompt a search for the other; *what:* vegetation — cross-refer [[B5]] 0.2). HIV testing and assessment for immunosuppression (*why:* predisposing conditions; *what:* immunodeficiency).
+
+### 0.4.1 Mx – Immediate
+**Blood cultures, then antibiotics.** Urgent MRI. **Urgent surgical referral for any neurological deficit, instability, or abscess requiring drainage.**
+
+### 0.4.2 Mx – Definitive
+**Prolonged targeted antimicrobial therapy — weeks to months** — with surgical drainage and stabilisation where indicated. `UNVERIFIED — regimens and duration from eTG Antibiotic.`
+
+### 0.4.3 Mx – Chronic/long-term
+Monitoring of inflammatory markers and repeat imaging to confirm resolution, rehabilitation, and management of the predisposing condition including injecting drug use support.
+
+---
+
+## 0.5 Mechanical Back Pain and Radiculopathy
+
+> [!tip] The natural history is good, and saying so is part of the treatment
+> **Most acute non-specific low back pain improves substantially within weeks**, and telling the patient this — confidently and specifically — measurably improves outcomes.
+> **Management:**
+> **· STAY ACTIVE. Bed rest is harmful and delays recovery.** Return to normal activity, including work, as early as tolerable.
+> **· Reassurance and education**, with attention to the language used.
+> **· Simple analgesia and heat.** **NSAIDs where not contraindicated. AVOID OPIOIDS** — they do not improve outcomes in back pain, and they cause dependence, constipation and hyperalgesia. Cross-refer [[F0.4]] 0.9.
+> **· Physiotherapy and exercise**, particularly where recovery is slower than expected.
+> **· Address the yellow flags** from 0.1.
+
+> [!danger] Language shapes the outcome
+> **Telling a patient their spine is "degenerating", "crumbling", "worn out" or "bone on bone", or that they have a "slipped disc", produces fear, activity avoidance, and worse long-term function.**
+> **Better framings:**
+> **· "The scan shows normal age-related changes — most people your age have these and have no pain."**
+> **· "Your back is strong. Hurt doesn't equal harm."**
+> **· "Movement is the treatment, not the risk."**
+> **This is examinable, and it is one of the clearest examples of a consultation changing a disease course.**
+
+> [!tip] Radiculopathy
+> Covered in **[[D4]] 0.3.** The points to carry:
+> **· L5 is the commonest lumbar radiculopathy, causes foot drop, and has NO reflex change** — so a normal reflex examination does not exclude it.
+> **· Straight leg raise reproduces L5/S1 pain; femoral stretch reproduces L2–L4.**
+> **· Most radiculopathy resolves with conservative management over weeks.**
+> **· Image for red flags, progressive deficit, or when intervention is being considered — and the imaging must MATCH the clinical level**, because incidental disc abnormalities at other levels are near-universal.
+
+> [!warning] Chronic back pain is a different problem from acute back pain
+> Once pain persists beyond about three months, **central sensitisation and psychosocial factors dominate over any structural lesion**, and the management shifts accordingly — cross-refer [[L3]] 0.5.
+> **What helps: exercise, graded activity, cognitive behavioural approaches, multidisciplinary pain programs, and addressing sleep, mood and work factors.**
+> **What harms: repeated imaging, repeated specialist referral, escalating opioids, and repeated interventional procedures.**
+
+**Ix:** **None in the absence of red flags.** Where indicated: **MRI matched to the clinical level** (*why:* identifies compression amenable to intervention; *what:* nerve root compression corresponding to the deficit).
+
+---
+
+## 0.6 Spinal Stenosis and Degenerative Disease
+
+> [!danger] Neurogenic versus vascular claudication — the discriminating table
+> | | **Neurogenic (spinal stenosis)** | **Vascular (peripheral arterial disease)** |
+> |---|---|---|
+> | **Relieved by** | **SITTING or bending FORWARD** | **Standing still** |
+> | **Position** | Better with spinal FLEXION | Position-independent |
+> | **Walking uphill** | **EASIER** (spine flexed) | **HARDER** (greater demand) |
+> | **Cycling** | **Well tolerated** (flexed) | Poorly tolerated |
+> | **Claudication distance** | Variable day to day | Relatively fixed |
+> | **Pulses** | **Present** | **Reduced or absent** |
+> | **Symptoms** | Heaviness, paraesthesia, weakness | Cramping calf pain |
+> | **Skin** | Normal | Hair loss, trophic change, cool |
+> **The "shopping trolley sign" — able to walk much further when leaning on a trolley — is characteristic of neurogenic claudication** and is a useful single question. **They can also coexist**, particularly in older vasculopaths. Cross-refer [[B5]] 0.5.
+
+> [!tip] Lumbar spinal stenosis
+> **Degenerative narrowing of the central canal or lateral recesses from facet hypertrophy, ligamentum flavum thickening and disc bulging.**
+> **Bilateral buttock and leg heaviness, aching or paraesthesia brought on by walking or prolonged standing, relieved by sitting or flexion.**
+> Management: **conservative first — exercise, physiotherapy, analgesia, and activity modification.** **Decompressive surgery for refractory symptoms with concordant imaging**, with better outcomes for leg symptoms than for back pain.
+
+> [!warning] Vertebral fragility fracture
+> **Sudden onset of severe localised back pain, often after trivial or no trauma, in an older or osteoporotic patient**, with subsequent height loss and progressive kyphosis.
+> **Many are ASYMPTOMATIC and found incidentally on imaging done for another reason — and an incidental vertebral fracture is a diagnosis of osteoporosis that is routinely not acted upon.** Cross-refer [[GER1]] 0.6.
+> **Consider malignancy and myeloma** in any vertebral fracture, particularly above T5, with atypical features, or in a patient without osteoporosis risk factors.
+> Management: analgesia adequate to allow mobilisation, early mobilisation, calcitonin or other adjuncts in some cases, **and — critically — investigation and treatment of the underlying osteoporosis.** **Vertebroplasty and kyphoplasty remain contested.**
+
+> [!tip] The other degenerative entities
+> **· Spondylolisthesis** — anterior slip of one vertebra on another; degenerative in older patients, or from a pars defect (spondylolysis) in younger athletes, particularly those doing repeated hyperextension.
+> **· Facet joint arthropathy** — pain worse on extension and rotation.
+> **· Diffuse idiopathic skeletal hyperostosis (DISH)** — flowing ossification along the anterior spine, associated with diabetes and metabolic syndrome, and — like ankylosing spondylitis — **producing a rigid spine that fractures with minor trauma.**
+
+**Ix:** **MRI** (*why:* the imaging of choice for stenosis and for nerve root compression; *what:* canal and foraminal dimensions, level). **Ankle-brachial index** (*why:* distinguishes or identifies coexisting vascular claudication, which is common in the same demographic; *what:* reduced ABI — **noting it can be falsely normal in diabetic calcification** — cross-refer [[B5]] 0.5). Radiographs including flexion-extension views (*why:* instability and spondylolisthesis, which affect surgical planning; *what:* slip, mobility). **DXA and osteoporosis workup after any fragility fracture** (*why:* the fracture is the diagnosis, and treatment prevents the next one; *what:* bone density, secondary causes — cross-refer [[GER1]] 0.6 and [[I3]]).
+
+---
+
+## 0.7 Neck Pain and the Cervical Spine
+
+> [!danger] Cervical myelopathy — insidious, progressive, and repeatedly attributed to ageing
+> **The symptoms are subtle and functional rather than painful, which is why it is missed:**
+> **· CLUMSY HANDS — difficulty with buttons, coins, keys, handwriting deteriorating.**
+> **· Gait disturbance and unsteadiness, with falls.**
+> **· A vague heaviness or numbness in the limbs.**
+> **· LHERMITTE phenomenon — an electric shock down the spine on neck flexion.**
+> **· Neck pain may be MINIMAL or absent** — which is the main reason the diagnosis is not considered.
+> **The signs: UPPER motor neurone findings in the LEGS — brisk reflexes, increased tone, upgoing plantars, clonus — with mixed or lower motor neurone findings at the level of compression in the arms.** **HOFFMANN sign** and **inverted supinator reflex** are useful.
+> **Test the gait and the hands in any older patient with neck symptoms or unexplained falls.**
+> **Decompression halts progression but does not reverse established deficit** — which is why early diagnosis matters, and why "it's just arthritis in the neck" is a costly conclusion. **Urgent MRI and spinal surgical referral.**
+
+> [!warning] Cervical spine trauma — clear it properly
+> **Validated decision rules — the Canadian C-Spine Rule and NEXUS — identify patients in whom imaging can be safely omitted.** `UNVERIFIED — the rule criteria, their exclusions, and which is used in your health service.`
+> **CT is the imaging of choice** where imaging is indicated in adults. **MRI is added where there is neurological deficit, or to assess ligamentous injury.**
+> **Neither rule applies to patients who are intoxicated, distracted by another painful injury, or have altered consciousness.**
+
+> [!danger] Three groups whose cervical spine is different
+> **1. ANKYLOSING SPONDYLITIS AND DISH — a fused spine fractures with trivial trauma, and the fracture is UNSTABLE and involves all three columns.** **Plain films are inadequate: get a CT, and often an MRI.** **Immobilise in the patient's usual deformed position — forcing a kyphotic fused neck flat onto a board can itself cause cord injury.** Cross-refer [[L2]] 0.3 and [[F0.5]] 0.7.
+> **2. RHEUMATOID ARTHRITIS — atlantoaxial subluxation**, with risk of cord compression during intubation or manipulation. **Flag it to the anaesthetist.** Cross-refer [[L2]] 0.2 and [[AN1]].
+> **3. DOWN SYNDROME — atlantoaxial instability** is more prevalent, and relevant to anaesthesia and to certain sports.
+
+> [!tip] Mechanical neck pain and whiplash
+> **Reassurance, early return to normal movement and activity, simple analgesia, and physiotherapy.**
+> **Soft collars are NOT recommended** — immobilisation delays recovery and promotes stiffness and chronicity.
+> **Whiplash-associated disorder** has strong psychosocial and compensation-related determinants of chronicity, and **the same yellow flag principles apply as in low back pain.**
+
+> [!warning] Two vascular considerations in neck pain
+> **· Vertebral or carotid artery dissection** — **neck pain with posterior circulation symptoms, or a painful Horner syndrome**, particularly in a younger patient after minor trauma or neck manipulation. **Requires vascular imaging of the neck, not just a brain CT.** Cross-refer [[D3]] 0.3 and [[D7]] 0.3.
+> **· Subarachnoid haemorrhage** — neck pain and stiffness developing over hours after a thunderclap headache. Cross-refer [[D1]] 0.2.
+
+**Ix:** **MRI cervical spine urgently in suspected myelopathy** (*why:* the only test that shows cord compression and signal change, and the deficit is progressive; *what:* canal stenosis, cord compression, cord signal change). **CT cervical spine in trauma where a decision rule indicates imaging** (*why:* far more sensitive than plain radiographs for fracture; *what:* fracture, alignment). **CT and MRI after ANY trauma in a fused spine** (*why:* plain films miss these fractures and they are unstable; *what:* three-column fracture). **CT or MR angiography of the neck vessels where dissection is suspected** (*why:* brain imaging alone misses the dissection; *what:* flap, tapering, intramural haematoma). Flexion-extension views or MRI in rheumatoid arthritis before surgery (*why:* atlantoaxial subluxation; *what:* instability).
+
+### 0.7.1 Mx – Immediate
+Immobilisation and imaging in trauma. **Urgent referral for myelopathy or unstable fracture.**
+
+### 0.7.2 Mx – Definitive
+Surgical decompression or stabilisation where indicated; conservative management for mechanical neck pain.
+
+### 0.7.3 Mx – Chronic/long-term
+Physiotherapy, ergonomic and postural advice, and **avoidance of prolonged collar use and repeated passive treatments.**
+
+---
+
+> [!note] Cross-references
+> Radiculopathy, myotomes and dermatomes → [[D4]] 0.3 · Paresis patterns and spinal cord syndromes → [[D3]] 0.6 · Cervical and vertebral artery dissection → [[D3]] 0.3 · Inflammatory back pain and axial spondyloarthritis → [[L2]] 0.3 · Rheumatoid cervical spine and anaesthesia → [[L2]] 0.2 and [[AN1]] · Chronic widespread pain and central sensitisation → [[L3]] 0.5 · Fractures and spinal trauma → [[L7]] · Abdominal aortic aneurysm → [[B5]] 0.4 and [[C1]] 0.7 · Aortic dissection → [[B1]] 0.3 · Peripheral arterial disease and claudication → [[B5]] 0.5 · Spinal infection and endocarditis → [[B5]] 0.2 · Tuberculosis → [[K3]] 0.3 · Hypercalcaemia of malignancy → [[I3]] 0.2 · Osteoporosis and fragility fracture → [[GER1]] 0.6 · Opioid stewardship → [[F0.4]] 0.9 · Head and spinal injury → [[F0.5]] 0.7 · Palliative and goals of care → [[GER2]] 0.5 and [[J5]]
+
+
+<!-- ===== SOURCE: 11_06_Ortho_-_Spinal_Orthopaedics.md ===== -->
+
+
+## Autonomic dysreflexia
+
+- Secondary to spinal cord injury at or above T6.
+- **S/Smx:** extreme hypertension, flushing, sweating above the level of the cord lesion, agitation → haemorrhagic stroke.
+- **Mx:** removal/control of the stimulus, treatment of life-threatening hypertension ± bradycardia. The stimulus may be faecal impaction or urinary retention.
+
+## Cervical spondylosis (degenerative cervical spine disease / degenerative disc disease)
+
+> [!note] See [[11_07a_Ortho_-_Dermatomes_and_Myotomes_Reference]] for the full dermatome/myotome/reflex reference relevant to localising a specific cervical nerve root lesion causing radiculopathy, not repeated here.
+
+- Specific term for OA of the spine. Can lead to radiculopathy and cervical myelopathy.
+- **R:** >40 years old, previous back surgery, previous injury, achondroplasia, acromegaly. Weaker risk factors: manual labour, family history, smoking, diabetes, peripheral vascular occlusive disease.
+- **S/Smx:** neck pain ± spasm; referred pain can cause headache around the occipital area; ± radiating arm pain (rare).
+- **Ix:** cervical XR ± MRI (if pain lasts >4–6 weeks and is not amenable to treatment).
+- **Mx:** physiotherapy, NSAIDs. Consider muscle relaxants, e.g. baclofen, diazepam.
+
+## Degenerative cervical myelopathy
+
+- **D:** spinal cord compression secondary to degenerative changes to the cervical spine (a further manifestation of cervical spondylosis).
+- **S/Smx:** as above for cervical spondylosis, plus:
+  - Loss of motor function (e.g. ↓digital dexterity — patient cannot button a shirt).
+  - Loss of sensory function causing numbness (e.g. carpal tunnel syndrome-like symptoms).
+  - Loss of autonomic function (e.g. urinary or faecal incontinence) — rule out cauda equina syndrome.
+
+> [!tip] Hoffman's sign positive — hold the patient's middle finger by the DIP joint and watch the thumb and index finger; flick the middle finger down; if the thumb and index finger twitch (come closer together), this is Hoffman's positive. Sometimes considered an upper-limb equivalent of the Babinski sign.
+
+- **Mx:** refer to neurosurgery or orthopaedic spinal surgery → decompressive surgery.
+
+## Spinal stenosis (lumbar spondylosis)
+
+- **D:** degenerative condition of the lumbar spine causing narrowing of the spinal canal.
+- **R:** >40 years old, previous back surgery, previous injury, achondroplasia, acromegaly. Weaker risk factors: manual labour, family history, smoking, diabetes, peripheral vascular occlusive disease.
+- **A:** degenerative changes.
+- **P:** narrowing of the spinal canal → compression of the nerve roots of the cauda equina → symptoms.
+- **S/Smx:** lower back pain; claudication-like symptoms (e.g. calf pain, pain on walking, leg numbness, pain radiating down the leg).
+
+> [!tip] Pain with spinal stenosis tends to improve on sitting, and patients find it easier to walk uphill than downhill.
+
+- **Ix:** XR + MRI (will show canal narrowing).
+- **Mx:** rule out cauda equina syndrome (surgical emergency). If not severe — analgesics. Definitive treatment — surgery (laminectomy).
+
+> [!info] Terminology
+> - **Spondylosis** = degenerative changes to the spine (e.g. OA).
+> - **Spondylolysis** = (stress) fracture of the vertebra, usually referring to a fracture through the pars interarticularis of the lumbar vertebrae.
+> - **Spondylolisthesis** = displacement of one vertebra over an adjacent vertebra.
+
+## Vertebral compression (crush) fracture
+
+> [!note] Gap-filled from CSV ("Vertebral Column Crush Fracture," High yield) — genuinely absent despite osteoporosis (a major risk factor) being thoroughly built in [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] and bone metastases (another major cause) in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]].
+
+- **A/P:** loss of vertebral body height from structural failure under load — the two major causes are genuinely different in mechanism and worth distinguishing: **osteoporotic** (fragility) fractures occur with minimal or no trauma in weakened bone (see [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis for the disease-level risk factors and management, not repeated here) versus **pathological** fractures from bone weakened by malignant infiltration (metastatic disease or myeloma — see [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] and [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] 0.3 Multiple myeloma, not repeated here); high-energy trauma can also cause vertebral fracture in an otherwise normal spine, a genuinely different mechanism again.
+- **S/Smx:** acute back pain (often the presenting feature, sometimes following a seemingly trivial event like bending or coughing in osteoporotic fractures — a genuinely important point, since the trivial mechanism can make patients/clinicians underestimate the significance), localised spinal tenderness; **often asymptomatic and identified incidentally on imaging** for another reason, particularly in osteoporotic fractures, given the gradual nature of bone weakening; progressive kyphosis ("dowager's hump") with multiple fractures over time; neurological deficit is uncommon with typical osteoporotic wedge fractures but should be actively screened for, particularly with pathological or high-energy fractures, given the risk of retropulsed fragments causing cord/cauda equina compression (see [[04_Neurology]] and [[11_01_Ortho_-_Orthopaedic_Emergencies]] Spinal cord compression for the disease-level red flags this connects to, not repeated here).
+- **Ix:** plain XR (AP and lateral spine) (*why:* the first-line screening test, often sufficient to confirm loss of vertebral body height; *what:* wedge-shaped or uniformly compressed vertebral body, with the specific pattern sometimes hinting at aetiology — e.g. an isolated wedge fracture with normal-appearing adjacent bone favours a mechanical/osteoporotic cause, while destructive changes to the pedicles or an associated soft tissue mass raises concern for malignancy). MRI (*why:* distinguishes an acute/subacute fracture (likely to respond to intervention, and relevant if considering vertebroplasty/kyphoplasty) from an old, healed fracture, and is the key test for identifying a malignant cause or any cord/cauda equina compression given its superior soft-tissue and marrow detail over plain film; *what:* bone marrow oedema on STIR/T2 sequences indicates an acute fracture; an associated soft tissue mass or diffuse marrow infiltration raises concern for an underlying malignant process rather than simple osteoporotic fracture). Bloods (calcium, ALP, myeloma screen — protein electrophoresis, if malignancy is suspected per the differential above) — see the relevant disease-level Ix sections cross-referenced above for the specific work-up these point toward, not repeated here.
+- **Mx:**
+  - **Immediate/acute:** analgesia (often the primary early management need, given many uncomplicated osteoporotic wedge fractures don't require surgical intervention); urgent escalation and imaging if any red flag neurological symptoms/signs are present, per the spinal cord compression/cauda equina principles in [[11_01_Ortho_-_Orthopaedic_Emergencies]], not repeated here.
+  - **Definitive:** most uncomplicated osteoporotic compression fractures are managed conservatively (analgesia, bracing if needed, early mobilisation as tolerated) and heal without surgical intervention; vertebroplasty or kyphoplasty (injecting cement into the fractured vertebral body) may be considered for painful fractures not responding to conservative management, particularly if imaging confirms an acute/subacute fracture likely to benefit; surgical stabilisation/decompression is reserved for fractures with neurological compromise, significant instability, or high-energy trauma with structural disruption.
+  - **Chronic/long-term:** address the underlying cause given the high risk of further fractures without doing so — osteoporosis treatment per [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] if osteoporotic, oncological management if pathological (per the cross-references above); falls risk assessment and bone health optimisation are genuinely as important as treating the acute fracture itself, given a first fragility fracture substantially increases the risk of subsequent fractures.
+
+## Rib fractures
+
+- **R:** blunt chest trauma (e.g. RTA), CPR, physical abuse in children, osteoporosis, contact sports. Weaker risk factors: cancer/metastasis.
+- **S/Smx:** severe, sharp chest wall pain, especially with deep breaths or coughing; significant chest wall tenderness over the fracture site ± bruising. Auscultation: crackles, ↓breath sounds if there is underlying lung injury. ↓Ventilation if the patient is in pain or has an underlying lung injury.
+
+> [!danger] Red flags
+> - Pneumothorax — ↓chest expansion, ↓breath sounds, hyper-resonant percussion.
+> - Flail chest — occurs when there are ≥2 rib fractures along ≥3 consecutive ribs, resulting in a "detached" segment of rib bones. This flail segment moves paradoxically during respiration and impairs ventilation ± contusional injury to the lung.
+
+- **Ix:** CT for major trauma/metastases. CXR as first line, but can miss up to 50% of rib fractures.
+
+> [!warning] In children, non-acute rib fractures may show up as periosteal reactions on imaging. Rib fractures in children are assumed to be non-accidental injury until otherwise proven — refer to safeguarding. Skeletal survey + CT head (if <1 year old, external evidence of head trauma, or neurological symptoms).
+
+- **Mx:** conservative — analgesia (to prevent breathing problems; inadequate ventilation can increase risk of chest infections); consider nerve blocks. If severe or refractory to conservative management, may require surgical fixation. Flail chest: immediate referral to cardiothoracics.
+
+## Scheuermann's kyphosis (juvenile kyphosis)
+
+- **D:** condition of hyperkyphosis where there is anterior wedging of the vertebral bodies >5° in ≥3 adjacent vertebral bodies. Most commonly affects the thoracic spine.
+- **R:** M>F (2:1), age 12–17.
+- **S/Smx:** postural deformity; subacute thoracic pain (in the absence of trauma, worse with activity); rigid hyperkyphotic curve that does not resolve with lying down.
+- **Ix:** XR (should show anterior wedging ± epiphyseal plate disturbance).
+- **Mx:** minor — physiotherapy, analgesia. Severe — may require bracing or surgical stabilisation.
+
+## Scoliosis
+
+- **D:** structural spinal deformity, with evidence of ≥10° lateral curvature with vertebral rotation on a standing upright radiograph of the spine.
+- **R:** family history, peak adolescent growth spurt.
+- **S/Smx:** postural deformity, usually identified on screening; scoliometer measurement >5° at any paraspinal prominence.
+- **Ix:** clinical diagnosis ± XR (to calculate Cobb angle, which quantifies spinal curvature/severity).
+- **Mx:** minor scoliosis — watch and wait. Cobb angle 21–45° — bracing. >45° — consider surgical spinal arthrodesis (spinal fusion).
+
+## Discitis
+
+- **D:** infection of the intervertebral disc space.
+- **R:** children, immunocompromise, IVDU, alcoholics, malignancy.
+- **A:** usually due to haematogenous seeding — bacterial (*Staph aureus* most common), viral, TB, aseptic.
+- **S/Smx:** back pain; general — fever, rigors, septic shock; neuro — change in lower limb neurology if an epidural abscess develops.
+- **Ix:** MRI, CT-guided biopsy + MC&S to guide antibiotic choice.
+- **Mx:** antibiotics (6–8 weeks IV) — choice dependent on culture. Assess for endocarditis with trans-thoracic echo.
+- **Complications:** sepsis; epidural abscess (collection of pus superficial to the dura of the spinal cord) — long-term antibiotics (as above), may require surgical drainage of the abscess.
+
+
+<!-- ===== SOURCE: L5_Regional_Limb_Pain.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from guidelines. Anatomy, examination findings and discriminators are reliable at intern level. **Every decision rule, injection regimen and timeframe carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify the **Ottawa ankle and knee rules** and fracture management against current sources and your local orthopaedic protocols.
+>
+> **Entrapment neuropathies are built in [[D4]] 0.4**, **hand infections in [[K2]] 0.3**, **fractures in [[L7]]**, and **paediatric hip and limp in [[M5]]** — each is cross-referenced rather than repeated.
+
+---
+
+## 0.1 Approach to Regional Limb Pain
+
+> [!danger] Referred pain — the patterns that account for most diagnostic errors
+> **· KNEE pain from the HIP.** **A child or adolescent with knee pain must have the hip examined — slipped upper femoral epiphysis and Perthes disease present as knee or thigh pain with a normal knee.** The same applies in adults with hip osteoarthritis. **This is the single most important referred pattern in musculoskeletal medicine.** Cross-refer [[M5]].
+> **· SHOULDER pain from the DIAPHRAGM** (C3–C5): **subphrenic abscess, ruptured spleen, ruptured ectopic pregnancy, cholecystitis, perforated viscus** — and from the heart. **Shoulder-tip pain with abdominal signs is intra-abdominal until proven otherwise.** Cross-refer [[C1]] and [[C7]] 0.5.
+> **· SHOULDER and arm pain from the CERVICAL SPINE** (C5–C6 radiculopathy) and from a **Pancoast tumour** at the lung apex — with **Horner syndrome and hand wasting.** Cross-refer [[D7]] 0.3.
+> **· HIP and thigh pain from the LUMBAR SPINE** — L2–L4 radiculopathy and spinal stenosis. Cross-refer [[L4]] 0.6.
+> **· ELBOW pain from the neck, and from cardiac ischaemia.**
+> **· FOOT pain from lumbosacral radiculopathy.**
+> **A joint that is not tender, has full passive range, and has a normal examination is unlikely to be the source of the pain.**
+
+> [!tip] Localise by structure, using movement
+> **· Pain on PASSIVE movement with global restriction → the JOINT itself** (arthritis, capsulitis, sepsis).
+> **· Pain on RESISTED movement with preserved passive range → MUSCLE or TENDON.** Resisted testing of specific movements localises to the specific tendon.
+> **· Point tenderness over a bony prominence → ENTHESIS or bursa.**
+> **· Pain reproduced by nerve tension tests, with paraesthesia → NEURAL.**
+> Cross-refer [[L1]] 0.1 for the intra-articular versus periarticular distinction.
+
+> [!warning] Red flags in regional limb pain
+> **· Night pain and rest pain, unrelated to activity — particularly around the knee or proximal humerus in a young person → BONE TUMOUR.**
+> **· Systemic features — fever, weight loss.**
+> **· A palpable mass, especially if deep, larger than a golf ball, or growing → SARCOMA. Refer BEFORE biopsy.** Cross-refer [[B6]] 0.8.
+> **· Neurovascular deficit.**
+> **· Inability to weight bear after trauma.**
+> **· Bilateral, symmetrical girdle pain in someone over 50 → polymyalgia rheumatica.** Cross-refer [[L3]] 0.2.
+
+> [!warning] Corticosteroid injection — useful, and not a long-term strategy
+> **Injections give short-term symptomatic relief in many soft tissue conditions.**
+> **But repeated injections damage tendon and cartilage**, and in some conditions — notably **lateral epicondylalgia** — **injection produces WORSE long-term outcomes than placebo or physiotherapy.**
+> **Load management and progressive exercise are the definitive treatment for most tendinopathies.** Injection buys a window in which to do the rehabilitation, not a substitute for it.
+
+---
+
+## 0.2 Shoulder
+
+> [!danger] The discriminator: is PASSIVE range preserved?
+> **· PASSIVE range PRESERVED, active painful → rotator cuff related pain or tear, subacromial pathology, ACJ disease.**
+> **· PASSIVE range GLOBALLY RESTRICTED, especially EXTERNAL ROTATION → adhesive capsulitis or glenohumeral arthritis.**
+> **Loss of passive external rotation is the key finding**, and it takes ten seconds to test. It is what separates a frozen shoulder from a cuff problem, and the two are managed entirely differently.
+
+> [!tip] Rotator cuff related shoulder pain
+> **The commonest shoulder complaint.** Pain over the deltoid insertion, **a painful arc through mid-abduction**, pain on overhead activity, and **night pain when lying on the affected side** — which is often what brings people in.
+> **Examination: painful arc, pain and weakness on resisted abduction (empty can) and resisted external rotation.**
+> **Exercise-based physiotherapy is first-line and is as effective as surgery for most patients** — a well-established point that is frequently not acted upon. Subacromial injection can facilitate rehabilitation.
+
+> [!warning] Rotator cuff tear
+> **Weakness rather than just pain**, particularly of external rotation and abduction.
+> **The DROP ARM sign** — inability to lower the arm smoothly from full abduction — indicates a significant tear.
+> **Distinguish an ACUTE TRAUMATIC tear in a younger patient — which warrants early surgical referral for repair — from a DEGENERATIVE tear in an older patient, where conservative management is usually appropriate.** The distinction is age and mechanism, and the referral timeframe differs.
+> **A massive cuff tear causes pseudoparalysis** — the patient cannot initiate abduction at all, which can be mistaken for a neurological problem.
+
+> [!tip] Adhesive capsulitis (frozen shoulder)
+> **Global restriction of passive movement, with external rotation lost first and most.**
+> Runs through phases: **freezing (painful, progressively stiffening) → frozen (stiff, less painful) → thawing (gradual recovery)**, over **one to three years** — a long and frustrating course that patients must be told about honestly.
+> **Strongly associated with DIABETES** — and it is more severe and more prolonged in diabetics — as well as with **thyroid disease, Dupuytren contracture, and any period of shoulder immobilisation.**
+> **Check the HbA1c in anyone presenting with frozen shoulder** — it is occasionally how diabetes is first found.
+> Management: analgesia, **physiotherapy within the pain-free range**, intra-articular corticosteroid injection (most useful in the painful phase), and hydrodilatation. Surgery for refractory cases.
+
+> [!danger] Posterior shoulder dislocation is missed on the AP film
+> **Anterior dislocation is far commoner** — arm held abducted and externally rotated, loss of the deltoid contour. **Check AXILLARY NERVE function before and after reduction — regimental badge sensation and deltoid contraction — and document it.**
+> **POSTERIOR dislocation is the one that is missed.** It occurs after **SEIZURES, ELECTROCUTION, and electroconvulsive therapy** — the powerful internal rotators overwhelm the external rotators — and after posteriorly directed trauma.
+> **The arm is held internally rotated and the patient cannot externally rotate it at all.**
+> **On the AP film it can look almost normal — the "light bulb sign" (the humeral head appears symmetrically rounded because it is internally rotated) is the clue.** **An axillary or scapular-Y view is required**, and posterior dislocations are missed for weeks or months when only an AP is taken.
+> **Any patient with shoulder pain after a seizure needs adequate views.**
+
+> [!tip] The others
+> **· Acromioclavicular joint pain** — localised over the ACJ, worse on **cross-body adduction**, and pain in the highest arc of abduction rather than the mid-arc.
+> **· Glenohumeral osteoarthritis** — older patients, global loss of both active and passive range with crepitus.
+> **· Calcific tendinopathy** — abrupt onset of severe pain, sometimes with visible calcification on radiograph, and it can be exquisitely painful.
+> **· Biceps tendinopathy and long head rupture** — with the "Popeye" deformity, usually managed conservatively.
+> **· Referred and systemic causes: cervical radiculopathy, Pancoast tumour, diaphragmatic irritation, myocardial ischaemia, and polymyalgia rheumatica (bilateral).**
+> **· Septic arthritis** — less common at the shoulder but it occurs, particularly in the elderly and immunosuppressed. Cross-refer [[L1]] 0.2.
+
+**Ix:** **Examination of passive external rotation** (*why:* the single most discriminating test; *what:* restricted in capsulitis and arthritis, preserved in cuff disease). Radiographs including an **axillary or scapular-Y view where dislocation is suspected** (*why:* posterior dislocation is invisible on AP; *what:* dislocation, calcification, arthritis, cuff arthropathy). Ultrasound (*why:* an excellent, accessible test for cuff integrity and can be dynamic; *what:* tear, tendinopathy, bursal thickening). MRI (*why:* labral and intra-articular pathology, and pre-surgical planning; *what:* labral tear, cuff tear size and retraction). **HbA1c in adhesive capsulitis** (*why:* strong diabetes association; *what:* undiagnosed diabetes). **Chest radiograph where an apical cause is possible** (*why:* Pancoast tumour presents as shoulder pain; *what:* apical mass).
+
+---
+
+## 0.3 Elbow
+
+> [!danger] Lateral epicondylalgia — and why injection is the wrong reflex
+> **"Tennis elbow" is a TENDINOPATHY — a degenerative failed-healing response — not a tendinitis.** There is little inflammation, which is why anti-inflammatory approaches disappoint.
+> **Pain over the lateral epicondyle, reproduced by resisted wrist extension and by gripping.**
+> **Corticosteroid injection provides short-term relief but is associated with WORSE outcomes at one year than physiotherapy or watchful waiting** — one of the clearest examples in musculoskeletal medicine of a treatment that helps this week and harms next year.
+> **Management: load modification, progressive eccentric and resistance exercise, a counterforce brace, and time.** Most resolve over months.
+
+> [!tip] The rest of the elbow
+> **· Medial epicondylalgia ("golfer's elbow")** — resisted wrist flexion and pronation. Same principles.
+> **· Olecranon bursitis** — a fluctuant swelling over the olecranon **with a freely mobile elbow joint**, which distinguishes it from septic arthritis. **Aspirate where infection is suspected** — septic olecranon bursitis is common, particularly after abrasion. **Gout also causes it**, sometimes with visible tophi. Cross-refer [[K2]] 0.3.
+> **· Ulnar neuropathy at the cubital tunnel** — cross-refer [[D4]] 0.4.
+> **· Distal biceps tendon rupture** — a sudden pop on eccentric loading, weakness of supination, a "reverse Popeye" with the muscle belly retracted proximally, and a palpable gap. **Distal rupture requires PROMPT surgical referral for repair** — unlike proximal long head rupture, which is managed conservatively. **This distinction matters and the window is short.**
+
+> [!warning] The posterior fat pad sign is always pathological
+> **On a lateral elbow radiograph, a visible POSTERIOR fat pad indicates a joint effusion — and in the context of trauma, that means an occult fracture until proven otherwise**, most often a **radial head fracture** in adults or a **supracondylar fracture** in children.
+> **An anterior fat pad can be normal; an enlarged "sail-shaped" anterior fat pad is also abnormal.**
+> **A patient with elbow trauma, a posterior fat pad, and no visible fracture is treated as having a fracture** — immobilised and re-imaged. Cross-refer [[L7]].
+
+> [!tip] Pulled elbow in a toddler
+> **Radial head subluxation from a sudden longitudinal pull on a pronated, extended arm** — lifting a child by the hand, or swinging them.
+> **The child holds the arm slightly flexed and pronated and refuses to use it, with no swelling and no bony tenderness.**
+> **Radiographs are not required if the history and examination are typical**, and reduction is a simple manoeuvre with immediate return of function. Cross-refer [[M5]].
+
+**Ix:** Radiographs including a true lateral (*why:* fat pad sign and occult fracture; *what:* effusion, fracture). Ultrasound (*why:* tendon and bursal assessment, and guides aspiration; *what:* tendinopathy, tear, collection). Aspiration of the bursa (*why:* distinguishes septic from inflammatory bursitis; *what:* cell count, Gram stain, culture, crystals).
+
+---
+
+## 0.4 Hip
+
+> [!danger] Where the pain is tells you what it is
+> **· GROIN pain (± referral to the anterior thigh and knee) → the TRUE HIP JOINT.**
+> **· LATERAL pain over the greater trochanter → GREATER TROCHANTERIC PAIN SYNDROME (gluteal tendinopathy), not the hip joint.**
+> **· BUTTOCK pain → the LUMBAR SPINE or SACROILIAC JOINT.**
+> **Patients say "hip" for all three, and pointing to where it hurts resolves it immediately.** **The "C-sign" — the patient cupping the hand around the lateral hip and groin — indicates true intra-articular pain.**
+
+> [!tip] Hip osteoarthritis
+> **Groin pain worse on weight bearing and at the end of the day**, with morning stiffness under 30 minutes, difficulty with socks and shoes, and reduced walking distance.
+> **The earliest and most reliable examination finding is loss of INTERNAL ROTATION**, tested with the hip flexed.
+> Management: **exercise, weight management, analgesia, walking aids, and joint replacement for refractory disease with concordant imaging.**
+
+> [!warning] Greater trochanteric pain syndrome is gluteal tendinopathy, not bursitis
+> **Lateral hip pain, tender directly over the greater trochanter, worse lying on that side at night, worse crossing the legs and climbing stairs.**
+> **The old label "trochanteric bursitis" is inaccurate — the pathology is predominantly gluteus medius and minimus TENDINOPATHY**, which matters because it means **the treatment is load management and progressive abductor strengthening, not repeated injection.**
+> **Trendelenburg sign** and **single-leg stance test** support it.
+
+> [!danger] Avascular necrosis — the radiograph is normal early
+> **Groin pain, often insidious, with risk factors: CORTICOSTEROIDS (the commonest), alcohol, sickle cell disease, trauma, SLE and antiphospholipid syndrome, radiotherapy, and dysbarism.**
+> **Plain radiographs are NORMAL in the early stages, and by the time they show collapse the joint is often unsalvageable.**
+> **MRI is the investigation, and it should be requested on clinical suspicion in an at-risk patient with a normal radiograph** — early intervention can preserve the joint.
+
+> [!danger] Occult hip fracture — a normal radiograph does not exclude it
+> **An older person with hip or groin pain after a fall, WHO MAY STILL BE ABLE TO WEIGHT BEAR, can have an undisplaced or impacted neck of femur fracture with normal or equivocal plain films.**
+> **If the pain and the mechanism fit and the patient cannot mobilise normally, get further imaging — CT or MRI — rather than discharging them.**
+> **Discharged occult hip fractures displace, and the outcome is far worse.** Cross-refer [[L7]] and [[GER1]] 0.5.
+
+> [!tip] The rest of the hip
+> **· Femoroacetabular impingement and labral tear** — younger, active patients; groin pain with flexion and rotation, clicking or catching; **FADIR test.** MRI arthrogram.
+> **· Referred from the lumbar spine** — cross-refer [[L4]].
+> **· Psoas abscess** — fever, back and groin pain, hip held flexed, pain on extension. Cross-refer [[C7]] 0.5.
+> **· Inguinal hernia, adductor-related groin pain, pubic symphysis pathology, and — in women — gynaecological causes.**
+> **· Paediatric: developmental dysplasia, Perthes disease, slipped upper femoral epiphysis, transient synovitis and septic arthritis.** **SUFE — an adolescent, often overweight, with knee or thigh pain, loss of internal rotation and OBLIGATE EXTERNAL ROTATION ON FLEXION — is an urgent, non-weight-bearing referral.** Cross-refer [[M5]].
+
+**Ix:** **Radiographs — AP pelvis AND a lateral of the affected hip** (*why:* a single AP misses subtle femoral neck and SUFE changes, and the pelvis view allows comparison; *what:* fracture, arthritis, slip). **MRI where the radiograph is normal but suspicion persists** (*why:* occult fracture, avascular necrosis, labral pathology and stress fracture are all radiographically silent early; *what:* marrow oedema, fracture line, necrosis). CT (*why:* alternative for occult fracture and for surgical planning; *what:* fracture). Inflammatory markers and aspiration where infection is suspected (*why:* septic arthritis; *what:* infection).
+
+---
+
+## 0.5 Knee
+
+> [!danger] Examine the hip in every patient with knee pain
+> **Repeated because it is the commonest missed diagnosis in this region.** Hip pathology — osteoarthritis in adults, SUFE and Perthes in children — refers to the knee, and the knee examination is normal.
+
+> [!tip] Osteoarthritis, and the evidence about arthroscopy
+> Activity-related pain, brief morning stiffness, crepitus, effusion, and progressive varus deformity.
+> **Exercise therapy and weight loss are first-line and genuinely effective** — a modest weight reduction produces a large reduction in knee load.
+> **ARTHROSCOPIC surgery for degenerative meniscal tears and for knee osteoarthritis is NOT indicated** — multiple high-quality trials show no benefit over placebo or conservative care, and it remains one of the most consistently over-performed operations. **A degenerative meniscal tear on MRI in a middle-aged or older patient is usually part of the osteoarthritic process, not a separate surgical problem.**
+
+> [!warning] Acute knee injury — what the effusion timing tells you
+> **· Immediate, tense swelling within a few hours → HAEMARTHROSIS → ACL rupture, intra-articular fracture, patellar dislocation, or peripheral meniscal tear.** Cross-refer [[L1]] 0.4.
+> **· Swelling developing over 12–24 hours → a reactive effusion → meniscal injury more likely.**
+> **· No swelling → less likely a significant intra-articular injury.**
+> **Ask specifically how quickly it swelled** — it is one of the most useful questions in knee trauma.
+
+> [!tip] The specific injuries
+> **· ACL rupture** — a pivoting or deceleration mechanism, an audible "pop", immediate haemarthrosis, and subsequent giving way. **The LACHMAN test is more sensitive than the anterior drawer.** MRI confirms.
+> **· Meniscal tear** — twisting on a loaded flexed knee, with joint line tenderness, catching, and **locking (a true mechanical block to full extension)** in a bucket-handle tear, which is a surgical indication.
+> **· Collateral ligament injury** — valgus or varus stress with localised tenderness.
+> **· Patellar dislocation** — almost always lateral, often reduces spontaneously with knee extension, with a positive apprehension test afterwards.
+> **· Patellofemoral pain** — anterior knee pain in younger people, worse on stairs and after prolonged sitting (the "theatre sign"). **Managed with exercise-based rehabilitation**, not imaging.
+
+> [!danger] Extensor mechanism rupture — test the straight leg raise
+> **Quadriceps or patellar tendon rupture presents with sudden pain, inability to extend the knee against gravity, and a palpable gap above or below the patella.**
+> **The test is a STRAIGHT LEG RAISE — the patient cannot perform one, or cannot maintain the extended knee against gravity.**
+> **It is missed because the knee is swollen and painful and the examination is abbreviated, and because the patient may still be able to walk with the knee locked.**
+> **It requires surgical repair, and delay worsens the outcome.** **Test the straight leg raise in every acute knee injury.**
+
+> [!tip] The rest
+> **· Prepatellar and infrapatellar bursitis** — anterior swelling with a mobile knee joint. **Septic prepatellar bursitis is common** after abrasion or kneeling occupations.
+> **· Baker cyst** — posterior knee swelling. **A ruptured Baker cyst causes acute calf pain, swelling and sometimes bruising, and mimics DVT closely ("pseudothrombophlebitis")** — and the two coexist, so **imaging is required rather than assuming.** Cross-refer [[B6]] 0.3.
+> **· Osgood-Schlatter and Sinding-Larsen** in adolescents.
+> **· Osteosarcoma — night pain and rest pain around the knee in an adolescent or young adult.** Cross-refer [[B6]] 0.8.
+> **The Ottawa knee rules** identify who needs a radiograph after acute injury. `UNVERIFIED — the criteria.`
+
+**Ix:** **Straight leg raise, and assessment of the timing of the effusion** (*why:* the two highest-yield bedside findings; *what:* extensor mechanism integrity, haemarthrosis). Radiographs per decision rule (*why:* fracture; *what:* fracture, lipohaemarthrosis, degenerative change). **MRI** (*why:* ligamentous, meniscal and osteochondral injury, which radiographs cannot show — **but not indicated for degenerative change in an older patient where it will not change management**; *what:* soft tissue injury). Ultrasound (*why:* Baker cyst, bursitis, tendon rupture, and guides aspiration; *what:* fluid collection, tendon gap). Aspiration where infection or crystal disease is possible (*why:* septic arthritis; *what:* cell count, culture, crystals — cross-refer [[L1]] 0.6).
+
+---
+
+## 0.6 Wrist and Hand
+
+> [!danger] Scaphoid fracture — the radiograph is normal in a significant proportion
+> **A fall on the outstretched hand with pain in the radial wrist.**
+> **Examination: tenderness in the ANATOMICAL SNUFFBOX, tenderness over the SCAPHOID TUBERCLE, and pain on AXIAL COMPRESSION of the thumb.**
+> **INITIAL RADIOGRAPHS ARE NORMAL IN A SIGNIFICANT PROPORTION OF SCAPHOID FRACTURES**, even with dedicated scaphoid views.
+> **So: if the clinical findings fit, IMMOBILISE and either re-image after an interval or obtain MRI or CT** — do not discharge on the strength of a normal film.
+> **The consequence of missing it is real: the scaphoid's blood supply enters distally and runs retrograde, so a proximal fracture risks AVASCULAR NECROSIS and NON-UNION**, leading to wrist collapse and arthritis in a young person. **This is one of the classic medicolegal misses.**
+
+> [!warning] The other fractures and injuries not to miss
+> **· Distal radius fracture (Colles, Smith)** — **check MEDIAN nerve function before and after reduction**, and be alert to acute carpal tunnel syndrome from swelling.
+> **· Boxer's fracture (fifth metacarpal neck)** — and **any wound over the MCP joints from a punch is a FIGHT BITE until proven otherwise**, requiring exploration, washout and antibiotics. Cross-refer [[A7]] 0.5 and [[K2]] 0.5.
+> **· Mallet finger** — loss of active DIP extension after forced flexion; splinting in extension continuously for weeks.
+> **· Jersey finger** — flexor digitorum profundus avulsion; inability to flex the DIP; needs surgical repair.
+> **· Gamekeeper's / skier's thumb** — ulnar collateral ligament injury at the thumb MCP from forced abduction. **A complete tear with a Stener lesion will not heal without surgery**, so instability on examination warrants referral.
+
+> [!danger] Hand infections are surgical emergencies more often than they appear
+> **Flexor tenosynovitis — Kanavel signs: fusiform digit swelling, held in flexion, tenderness along the flexor sheath, pain on passive extension.** Urgent hand surgical drainage. Cross-refer [[K2]] 0.3.
+> **Felon, paronychia, and any deep hand infection** — the hand has closed compartments and functionally critical structures, and **the threshold for referral should be low.**
+
+> [!tip] The common non-traumatic conditions
+> **· Carpal tunnel syndrome** — cross-refer [[D4]] 0.4, including the point that **sensation over the thenar eminence is preserved.**
+> **· De Quervain tenosynovitis** — pain over the radial styloid, **Finkelstein test positive**; common in new mothers (lifting an infant) and with repetitive thumb use.
+> **· Trigger finger** — catching or locking with a palpable nodule at the A1 pulley. **Strongly associated with diabetes.**
+> **· Dupuytren contracture** — palmar cords with progressive MCP and PIP flexion contracture. **Associated with diabetes, alcohol, family history, and antiepileptic drugs.** The **tabletop test** assesses severity and guides referral timing.
+> **· First carpometacarpal (thumb base) osteoarthritis** — very common, particularly in postmenopausal women, with pain on pinch and grip and a positive **grind test.** Splinting, activity modification and injection help.
+> **· Ganglion** — a smooth, transilluminable swelling, usually benign, often resolving spontaneously.
+
+**Ix:** **Scaphoid views and, if normal with concordant clinical findings, MRI or delayed re-imaging** (*why:* the fracture is radiographically occult in a significant proportion and the consequences of missing it are severe; *what:* fracture line, marrow oedema). Radiographs for other suspected fractures (*why:* fracture and alignment; *what:* fracture). **Documented neurovascular examination before and after any reduction** (*why:* median nerve injury and compartment problems, and the documentation matters medicolegally; *what:* sensation, motor function, perfusion). Ultrasound (*why:* tendon and ganglion assessment; *what:* tenosynovitis, cyst). HbA1c (*why:* diabetes underlies trigger finger, Dupuytren contracture and adhesive capsulitis; *what:* hyperglycaemia).
+
+---
+
+## 0.7 Ankle and Foot
+
+> [!danger] Achilles rupture — the ability to plantarflex does NOT exclude it
+> **The classic error.** After a complete Achilles rupture, **the patient can still plantarflex the ankle using tibialis posterior, the peroneals and the toe flexors** — so "can you point your foot down?" is a useless test and produces false reassurance.
+> **The tests that work:**
+> **· SIMMONDS (Thompson) calf squeeze test** — with the patient prone and feet over the end of the couch, squeezing the calf produces plantarflexion if the tendon is intact and NO movement if it is ruptured. **This is the test.**
+> **· A palpable gap in the tendon.**
+> **· Loss of the normal resting tension asymmetry between the two feet.**
+> **History: a sudden sensation of being struck or kicked in the back of the ankle, often with an audible snap, during push-off.**
+> **Risk factors worth knowing: FLUOROQUINOLONE antibiotics and CORTICOSTEROIDS — both systemic and injected — predispose to tendon rupture**, and this is a genuine and avoidable prescribing consideration in patients with Achilles symptoms.
+
+> [!danger] Always examine the proximal fibula in an ankle injury
+> **A MAISONNEUVE fracture is a proximal fibular fracture accompanying a syndesmotic and medial ankle injury.**
+> **If you only radiograph the ankle, you miss it** — and the injury is unstable and requires fixation.
+> **Palpate the whole length of the fibula in every significant ankle injury**, and image the proximal fibula if it is tender.
+
+> [!tip] Ankle sprain and the decision rules
+> **Lateral ligament sprain — most commonly the anterior talofibular ligament — from an inversion injury.**
+> **The Ottawa ankle and foot rules** identify who requires radiography, based on bony tenderness at specific sites and the ability to weight bear. `UNVERIFIED — the criteria.`
+> Management: **early mobilisation and functional rehabilitation, not prolonged immobilisation** — with proprioceptive retraining to reduce recurrence.
+
+> [!tip] The common foot conditions
+> **· Plantar heel pain (plantar fasciitis)** — **pain on the first steps in the morning and after periods of rest**, easing with walking then worsening with prolonged activity; tenderness at the medial calcaneal tubercle. **Self-limiting over months to a couple of years.** Managed with **stretching, load management, footwear and orthoses**; injection is second-line and carries a risk of fat pad atrophy and fascial rupture.
+> **· Morton neuroma** — burning pain and numbness between the toes, most often the third web space, with a **Mulder click.**
+> **· Hallux valgus and hallux rigidus.**
+> **· Gout at the first MTP** — cross-refer [[L1]] 0.3.
+> **· Posterior tibial tendon dysfunction** — progressive adult acquired flatfoot, with the **"too many toes" sign** from behind and inability to perform a single-heel raise.
+> **· Tarsal tunnel syndrome** — burning sole pain from posterior tibial nerve entrapment.
+
+> [!warning] Stress fracture — the radiograph is normal for weeks
+> **Insidious activity-related bone pain with focal bony tenderness, in someone who has recently increased training load, changed surface or footwear, or is under-fuelled.**
+> **Common sites: metatarsals (the "march" fracture), tibia, navicular, calcaneus and femoral neck.**
+> **Radiographs are typically NORMAL for the first weeks — MRI is the investigation.**
+> **Consider relative energy deficiency in sport (RED-S) and the associated menstrual and bone health consequences**, particularly in female athletes and dancers — **and ask about eating patterns, menstrual history and training load.** Cross-refer [[N8]] and [[GER1]] 0.6.
+> **Femoral neck and navicular stress fractures are high-risk and can progress to complete fracture** — they need non-weight-bearing and urgent referral, not a return to training.
+
+> [!warning] The diabetic foot
+> **Charcot neuroarthropathy — a hot, swollen, often painless foot in a neuropathic diabetic — is misdiagnosed as cellulitis or gout while the patient keeps walking on it and destroys the architecture of the foot.**
+> **Immediate offloading and non-weight-bearing.** Cross-refer [[I2]] 0.6 and [[D4]] 0.2.
+
+**Ix:** **Simmonds calf squeeze test** (*why:* the test that actually detects Achilles rupture; *what:* absent plantarflexion). **Palpation of the entire fibula** (*why:* Maisonneuve fracture; *what:* proximal tenderness). Radiographs per decision rule, **including the proximal fibula where indicated** (*why:* fracture and syndesmotic injury; *what:* fracture, widened mortise). Ultrasound (*why:* Achilles integrity, plantar fascia, and it is dynamic and accessible; *what:* tendon gap, thickening). **MRI where stress fracture is suspected and radiographs are normal** (*why:* radiographs are normal for weeks and continuing to load a high-risk site risks complete fracture; *what:* marrow oedema, fracture line). Assessment for RED-S where a stress fracture occurs in an athlete (*why:* it recurs unless the energy availability and hormonal issues are addressed; *what:* menstrual history, energy intake, bone density).
+
+---
+
+> [!note] Cross-references
+> Intra-articular versus periarticular pain, and joint aspiration → [[L1]] 0.1, 0.6 · Haemarthrosis → [[L1]] 0.4 · Gout at the first MTP → [[L1]] 0.3 · Inflammatory arthritis patterns → [[L2]] · Polymyalgia rheumatica → [[L3]] 0.2 · Referred pain from the spine, and stenosis versus vascular claudication → [[L4]] 0.5–0.6 · Soft tissue injury and rehabilitation → [[L6]] · Fractures and eponyms → [[L7]] · Entrapment neuropathies and foot drop → [[D4]] 0.4 · Pancoast tumour and Horner syndrome → [[D7]] 0.3 · Hand infections and flexor tenosynovitis → [[K2]] 0.3 · Fight bite and wound management → [[A7]] 0.5 · Compartment syndrome → [[A7]] 0.6 · Baker cyst versus DVT → [[B6]] 0.3 · Sarcoma referral before biopsy → [[B6]] 0.8 · Shoulder tip pain and intra-abdominal pathology → [[C1]] and [[C7]] 0.5 · Diabetic foot and Charcot → [[I2]] 0.6 · Osteoporosis and fragility fracture → [[GER1]] 0.6 · Paediatric hip, limp, SUFE and pulled elbow → [[M5]] · RED-S and disordered eating → [[N8]]
 
 
 <!-- ===== SOURCE: 11_02_Ortho_-_Upper_Limb__Shoulder__Elbow__Distal_Radius_Fractures_.md ===== -->
@@ -688,109 +3143,6 @@
 - **Mx:** urgent referral to orthopaedics.
 
 
-<!-- ===== SOURCE: 11_06_Ortho_-_Spinal_Orthopaedics.md ===== -->
-
-
-## Autonomic dysreflexia
-
-- Secondary to spinal cord injury at or above T6.
-- **S/Smx:** extreme hypertension, flushing, sweating above the level of the cord lesion, agitation → haemorrhagic stroke.
-- **Mx:** removal/control of the stimulus, treatment of life-threatening hypertension ± bradycardia. The stimulus may be faecal impaction or urinary retention.
-
-## Cervical spondylosis (degenerative cervical spine disease / degenerative disc disease)
-
-> [!note] See [[11_07a_Ortho_-_Dermatomes_and_Myotomes_Reference]] for the full dermatome/myotome/reflex reference relevant to localising a specific cervical nerve root lesion causing radiculopathy, not repeated here.
-
-- Specific term for OA of the spine. Can lead to radiculopathy and cervical myelopathy.
-- **R:** >40 years old, previous back surgery, previous injury, achondroplasia, acromegaly. Weaker risk factors: manual labour, family history, smoking, diabetes, peripheral vascular occlusive disease.
-- **S/Smx:** neck pain ± spasm; referred pain can cause headache around the occipital area; ± radiating arm pain (rare).
-- **Ix:** cervical XR ± MRI (if pain lasts >4–6 weeks and is not amenable to treatment).
-- **Mx:** physiotherapy, NSAIDs. Consider muscle relaxants, e.g. baclofen, diazepam.
-
-## Degenerative cervical myelopathy
-
-- **D:** spinal cord compression secondary to degenerative changes to the cervical spine (a further manifestation of cervical spondylosis).
-- **S/Smx:** as above for cervical spondylosis, plus:
-  - Loss of motor function (e.g. ↓digital dexterity — patient cannot button a shirt).
-  - Loss of sensory function causing numbness (e.g. carpal tunnel syndrome-like symptoms).
-  - Loss of autonomic function (e.g. urinary or faecal incontinence) — rule out cauda equina syndrome.
-
-> [!tip] Hoffman's sign positive — hold the patient's middle finger by the DIP joint and watch the thumb and index finger; flick the middle finger down; if the thumb and index finger twitch (come closer together), this is Hoffman's positive. Sometimes considered an upper-limb equivalent of the Babinski sign.
-
-- **Mx:** refer to neurosurgery or orthopaedic spinal surgery → decompressive surgery.
-
-## Spinal stenosis (lumbar spondylosis)
-
-- **D:** degenerative condition of the lumbar spine causing narrowing of the spinal canal.
-- **R:** >40 years old, previous back surgery, previous injury, achondroplasia, acromegaly. Weaker risk factors: manual labour, family history, smoking, diabetes, peripheral vascular occlusive disease.
-- **A:** degenerative changes.
-- **P:** narrowing of the spinal canal → compression of the nerve roots of the cauda equina → symptoms.
-- **S/Smx:** lower back pain; claudication-like symptoms (e.g. calf pain, pain on walking, leg numbness, pain radiating down the leg).
-
-> [!tip] Pain with spinal stenosis tends to improve on sitting, and patients find it easier to walk uphill than downhill.
-
-- **Ix:** XR + MRI (will show canal narrowing).
-- **Mx:** rule out cauda equina syndrome (surgical emergency). If not severe — analgesics. Definitive treatment — surgery (laminectomy).
-
-> [!info] Terminology
-> - **Spondylosis** = degenerative changes to the spine (e.g. OA).
-> - **Spondylolysis** = (stress) fracture of the vertebra, usually referring to a fracture through the pars interarticularis of the lumbar vertebrae.
-> - **Spondylolisthesis** = displacement of one vertebra over an adjacent vertebra.
-
-## Vertebral compression (crush) fracture
-
-> [!note] Gap-filled from CSV ("Vertebral Column Crush Fracture," High yield) — genuinely absent despite osteoporosis (a major risk factor) being thoroughly built in [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] and bone metastases (another major cause) in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]].
-
-- **A/P:** loss of vertebral body height from structural failure under load — the two major causes are genuinely different in mechanism and worth distinguishing: **osteoporotic** (fragility) fractures occur with minimal or no trauma in weakened bone (see [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] Osteoporosis for the disease-level risk factors and management, not repeated here) versus **pathological** fractures from bone weakened by malignant infiltration (metastatic disease or myeloma — see [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] and [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] 0.3 Multiple myeloma, not repeated here); high-energy trauma can also cause vertebral fracture in an otherwise normal spine, a genuinely different mechanism again.
-- **S/Smx:** acute back pain (often the presenting feature, sometimes following a seemingly trivial event like bending or coughing in osteoporotic fractures — a genuinely important point, since the trivial mechanism can make patients/clinicians underestimate the significance), localised spinal tenderness; **often asymptomatic and identified incidentally on imaging** for another reason, particularly in osteoporotic fractures, given the gradual nature of bone weakening; progressive kyphosis ("dowager's hump") with multiple fractures over time; neurological deficit is uncommon with typical osteoporotic wedge fractures but should be actively screened for, particularly with pathological or high-energy fractures, given the risk of retropulsed fragments causing cord/cauda equina compression (see [[04_Neurology]] and [[11_01_Ortho_-_Orthopaedic_Emergencies]] Spinal cord compression for the disease-level red flags this connects to, not repeated here).
-- **Ix:** plain XR (AP and lateral spine) (*why:* the first-line screening test, often sufficient to confirm loss of vertebral body height; *what:* wedge-shaped or uniformly compressed vertebral body, with the specific pattern sometimes hinting at aetiology — e.g. an isolated wedge fracture with normal-appearing adjacent bone favours a mechanical/osteoporotic cause, while destructive changes to the pedicles or an associated soft tissue mass raises concern for malignancy). MRI (*why:* distinguishes an acute/subacute fracture (likely to respond to intervention, and relevant if considering vertebroplasty/kyphoplasty) from an old, healed fracture, and is the key test for identifying a malignant cause or any cord/cauda equina compression given its superior soft-tissue and marrow detail over plain film; *what:* bone marrow oedema on STIR/T2 sequences indicates an acute fracture; an associated soft tissue mass or diffuse marrow infiltration raises concern for an underlying malignant process rather than simple osteoporotic fracture). Bloods (calcium, ALP, myeloma screen — protein electrophoresis, if malignancy is suspected per the differential above) — see the relevant disease-level Ix sections cross-referenced above for the specific work-up these point toward, not repeated here.
-- **Mx:**
-  - **Immediate/acute:** analgesia (often the primary early management need, given many uncomplicated osteoporotic wedge fractures don't require surgical intervention); urgent escalation and imaging if any red flag neurological symptoms/signs are present, per the spinal cord compression/cauda equina principles in [[11_01_Ortho_-_Orthopaedic_Emergencies]], not repeated here.
-  - **Definitive:** most uncomplicated osteoporotic compression fractures are managed conservatively (analgesia, bracing if needed, early mobilisation as tolerated) and heal without surgical intervention; vertebroplasty or kyphoplasty (injecting cement into the fractured vertebral body) may be considered for painful fractures not responding to conservative management, particularly if imaging confirms an acute/subacute fracture likely to benefit; surgical stabilisation/decompression is reserved for fractures with neurological compromise, significant instability, or high-energy trauma with structural disruption.
-  - **Chronic/long-term:** address the underlying cause given the high risk of further fractures without doing so — osteoporosis treatment per [[11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis]] if osteoporotic, oncological management if pathological (per the cross-references above); falls risk assessment and bone health optimisation are genuinely as important as treating the acute fracture itself, given a first fragility fracture substantially increases the risk of subsequent fractures.
-
-## Rib fractures
-
-- **R:** blunt chest trauma (e.g. RTA), CPR, physical abuse in children, osteoporosis, contact sports. Weaker risk factors: cancer/metastasis.
-- **S/Smx:** severe, sharp chest wall pain, especially with deep breaths or coughing; significant chest wall tenderness over the fracture site ± bruising. Auscultation: crackles, ↓breath sounds if there is underlying lung injury. ↓Ventilation if the patient is in pain or has an underlying lung injury.
-
-> [!danger] Red flags
-> - Pneumothorax — ↓chest expansion, ↓breath sounds, hyper-resonant percussion.
-> - Flail chest — occurs when there are ≥2 rib fractures along ≥3 consecutive ribs, resulting in a "detached" segment of rib bones. This flail segment moves paradoxically during respiration and impairs ventilation ± contusional injury to the lung.
-
-- **Ix:** CT for major trauma/metastases. CXR as first line, but can miss up to 50% of rib fractures.
-
-> [!warning] In children, non-acute rib fractures may show up as periosteal reactions on imaging. Rib fractures in children are assumed to be non-accidental injury until otherwise proven — refer to safeguarding. Skeletal survey + CT head (if <1 year old, external evidence of head trauma, or neurological symptoms).
-
-- **Mx:** conservative — analgesia (to prevent breathing problems; inadequate ventilation can increase risk of chest infections); consider nerve blocks. If severe or refractory to conservative management, may require surgical fixation. Flail chest: immediate referral to cardiothoracics.
-
-## Scheuermann's kyphosis (juvenile kyphosis)
-
-- **D:** condition of hyperkyphosis where there is anterior wedging of the vertebral bodies >5° in ≥3 adjacent vertebral bodies. Most commonly affects the thoracic spine.
-- **R:** M>F (2:1), age 12–17.
-- **S/Smx:** postural deformity; subacute thoracic pain (in the absence of trauma, worse with activity); rigid hyperkyphotic curve that does not resolve with lying down.
-- **Ix:** XR (should show anterior wedging ± epiphyseal plate disturbance).
-- **Mx:** minor — physiotherapy, analgesia. Severe — may require bracing or surgical stabilisation.
-
-## Scoliosis
-
-- **D:** structural spinal deformity, with evidence of ≥10° lateral curvature with vertebral rotation on a standing upright radiograph of the spine.
-- **R:** family history, peak adolescent growth spurt.
-- **S/Smx:** postural deformity, usually identified on screening; scoliometer measurement >5° at any paraspinal prominence.
-- **Ix:** clinical diagnosis ± XR (to calculate Cobb angle, which quantifies spinal curvature/severity).
-- **Mx:** minor scoliosis — watch and wait. Cobb angle 21–45° — bracing. >45° — consider surgical spinal arthrodesis (spinal fusion).
-
-## Discitis
-
-- **D:** infection of the intervertebral disc space.
-- **R:** children, immunocompromise, IVDU, alcoholics, malignancy.
-- **A:** usually due to haematogenous seeding — bacterial (*Staph aureus* most common), viral, TB, aseptic.
-- **S/Smx:** back pain; general — fever, rigors, septic shock; neuro — change in lower limb neurology if an epidural abscess develops.
-- **Ix:** MRI, CT-guided biopsy + MC&S to guide antibiotic choice.
-- **Mx:** antibiotics (6–8 weeks IV) — choice dependent on culture. Assess for endocarditis with trans-thoracic echo.
-- **Complications:** sepsis; epidural abscess (collection of pus superficial to the dura of the spinal cord) — long-term antibiotics (as above), may require surgical drainage of the abscess.
-
-
 <!-- ===== SOURCE: 11_07a_Ortho_-_Dermatomes_and_Myotomes_Reference.md ===== -->
 
 
@@ -854,2501 +3206,6 @@
 > Moved under the standing rule: **how to elicit the sign / take the history** is owned by
 > `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
 > verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: 11_07b_Ortho_-_Osteomyelitis__Osteochondritis_Dissecans__Fat_Embolism__Charcot_Joint__Osteomalacia.md ===== -->
-
-
-## Osteomyelitis
-
-- **D:** infection of the bone.
-- **A:** *Staph aureus* most common. *Salmonella* spp most common in patients with sickle cell disease.
-- **P:**
-  - **Haematogenous spread** — secondary to bacteraemia; the most common form in children. R: sickle cell anaemia, IVDU, immunosuppression, infective endocarditis.
-  - **Non-haematogenous spread** — contiguous spread (from adjacent soft tissues), or direct inoculation (e.g. via trauma); more often polymicrobial. R: pressure sores, diabetes, peripheral arterial disease.
-
-> [!danger] A genuine, severe Australian health equity issue with a direct causal chain worth understanding, not a generic epidemiological footnote. **Skin and soft tissue infections (impetigo, scabies-related sores, cellulitis) are dramatically more common in Aboriginal and Torres Strait Islander children**, and this directly drives a correspondingly higher rate of invasive *S. aureus* disease: one MJA review found *S. aureus* **sepsis incidence roughly tenfold higher** in Aboriginal children (46.6 vs 4.4 per 100,000 children/year) and **bacteraemia threefold higher** (47.6 vs 15.9 per 100,000/year) compared with non-Aboriginal children — the skin is the entry point for this invasive disease, making the skin infection burden and the bone/joint infection burden directly connected, not two separate issues.
-> - **Osteomyelitis and septic arthritis are a genuinely significant downstream consequence of this pathway, not a rare complication**: a recent Northern Territory study of *S. aureus* bloodstream infections found osteomyelitis/septic arthritis was the **second most common primary infection site** (14%), after skin and soft tissue infection itself (41%) — directly linking the skin infection epidemic in this population to the specific bone/joint disease entities in this file.
-> - **A genuinely important microbiological point for empirical antibiotic choice**: community-associated MRSA, particularly **Panton-Valentine leucocidin (PVL)-positive strains**, is specifically prevalent and appears to be increasing in Indigenous Australian communities (documented in both Central Australia and tropical northern Australia) — a distinct local resistance/virulence pattern worth knowing when selecting empirical therapy in this population, given standard flucloxacillin-based empirical cover (per the AU-verified regimen below) assumes methicillin-sensitive *S. aureus* and may need local antibiogram-guided adjustment where CA-MRSA prevalence is high.
-
-- **S/Smx:** hot, erythematous swelling over the affected bone + bone pain.
-- **Ix:** MRI.
-
-> [!info] Verified — flucloxacillin is confirmed as the correct, internationally-consistent first-line agent for staphylococcal osteomyelitis (the dominant causative organism per the aetiology above), and this isn't a UK-specific choice needing wholesale replacement — Australian sources (including the RCH Melbourne bone and joint infection guideline, in the paediatric context specifically) confirm the same general first-line-agent logic. The 4–6 week duration range is also broadly internationally consistent, including in Australian practice, rather than a UK-specific figure. The main point worth flagging: **check current eTG directly for the exact adjunct-drug timing (fusidic acid/rifampicin combination) and precise duration cutoffs**, given antibiotic duration and adjunct use in bone/joint infection is a genuinely evolving, guideline-specific area or clinicians manage it "according to local guidelines" as the note below already correctly states — the core drug choice itself doesn't need correction.
-
-- **Mx:** antibiotics according to local guidelines — flucloxacillin remains standard first-line (clindamycin if penicillin allergic) for a duration typically in the 4–6 week range; adjunct agents (e.g. fusidic acid or rifampicin) may be added, and vancomycin is switched to if MRSA is cultured — check current eTG for the precise Australian-specific dosing/duration protocol given this detail can vary between guideline editions and isn't a simple one-off fact to memorise.
-
-## Osteochondritis dissecans
-
-- **D:** acquired idiopathic lesion of subchondral bone resulting in delamination and sequestration ± articular cartilage involvement and instability. Tends to affect adolescents.
-- **R:** repetitive throwing/valgus stress, gymnastics or weight bearing on upper extremities, ankle sprain/instability, competitive athletics.
-- **S/Smx:** most commonly affects the knee — pain, swelling worse on activity; joint catching, locking ± giving way; painful clunk when flexing or extending the joint; joint effusion; tenderness on palpation of articular cartilage (pain on the anteromedial aspect of the knee when flexed to 90°).
-- **Ix:** XR (may show a subchondral crescent sign [osteochondral lesion] or loose bodies). MRI (evaluates cartilage, visualises loose bodies, stages and assesses joint stability).
-- **Mx:** refer to orthopaedics. If no joint malalignment, conservative management (NSAIDs, watch and wait) may be enough. If joint malalignment or unstable, arthroscopy + surgery may be needed.
-
-## Fat embolism
-
-- **D:** presence of fat particles that can result in a systemic manifestation.
-- **A:** most commonly due to trauma (e.g. fracture of long bones, post-op complication, soft tissue damage, crush injury); non-traumatic causes (e.g. fatty liver).
-- **S/Smx:** depends on the organ affected by the fat emboli.
-  - Respiratory (similar to PE): ↑HR, ↑RR, dyspnoea, hypoxia (usually ~72h following injury), fever.
-  - Skin: red/brown impalpable petechial rash; subconjunctival and oral petechiae.
-  - CNS: confusion, agitation; retinal haemorrhages and intra-arterial fat globules on fundoscopy.
-- **Ix:** imaging may be normal; a high degree of suspicion is required.
-- **Mx:** prompt fixation of long bone fractures; DVT prophylaxis; supportive care.
-
-## Charcot joint (neuropathic joint)
-
-- **D:** joint damage secondary to loss of sensation.
-- **R:** diabetes, neurosyphilis.
-- **S/Smx:** swollen, red and warm joint; less pain than expected (due to sensory loss).
-- **Ix:** XR ± others.
-- **Mx:** immobilisation (casting); orthotics to prevent recurrence; surgical intervention if severe deformity.
-
-## Osteomalacia
-
-- **D:** metabolic bone disease characterised by incomplete mineralisation of the underlying mature organic bone matrix. Rickets is the equivalent condition in children (see [[11_10_Ortho_-_Paediatric_Orthopaedics]] Rickets, not repeated here); osteomalacia is the term used in adults.
-- **R/A:** ↓calcium and vitamin D in diet, CKD, ↓sunlight, inherited disorders of vitamin D and bone metabolism, anticonvulsant therapy, coeliac disease, liver disease.
-- **S/Smx:** bone pain ± muscle tenderness; fractures, especially femoral neck; proximal myopathy → "waddling gait".
-- **Ix:** bloods (↓vitamin D, ↓Ca, ↓PO4, ↑ALP); XR (translucent bands, pseudofractures).
-- **Mx:** vitamin D supplementation (a loading dose is usually needed); calcium supplementation if needed.
-
-
-<!-- ===== SOURCE: 11_08a_Ortho_-_Joint_Replacements.md ===== -->
-
-
-## Joint replacements (arthroplasty)
-
-### Hip replacements
-
-- **Cemented hip replacement:** the metal femoral component is cemented into the femoral shaft, and a cemented acetabular polyethylene cup is used.
-- **For younger, more active patients:**
-  - Uncemented hip replacements are more common but more expensive.
-  - Hip resurfacing — a metal cap is attached over the femoral head, preserving the femoral neck for conventional arthroplasty if required later on.
-
-### Post-op recovery
-
-- Physiotherapy, home exercises.
-- Walking sticks or crutches for 6 weeks post-op in hip and knee replacements.
-
-### Advice to reduce risk of dislocation
-
-- Avoid flexing the hip >90 degrees.
-- Avoid low chairs.
-- Do not cross your legs.
-- Sleep on your back for the first 6 weeks.
-
-### Complications
-
-- Wound and joint infections.
-- VTE — LMWH for 4 weeks post hip replacement.
-- Dislocation.
-
-
-<!-- ===== SOURCE: 11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis.md ===== -->
-
-
-## Paget's disease of the bone
-
-- **D:** chronic localised bone remodelling disorder characterised by ↑bone resorption, bone formation, and remodelling.
-- **R:** family history, >50 years old, M>F.
-- **A:** unknown, possibly genetic.
-- **P:** localised areas of metabolic hyperactivity of the bone. 3 phases: bone resorption (↑osteoclastic activity); mixed osteoclastic and osteoblastic activity → deposition of structurally abnormal bone; sclerotic phase (bone formation > bone resorption).
-- **S/Smx:** 95% asymptomatic. Most commonly affects the skull, spine/pelvis, and long bones of the lower extremities.
-
-> [!tip] Classic patient: older male with bone pain and an isolated ↑ALP.
-
-- Bone pain; if untreated, can cause bowing of the tibia and bossing of the skull (protuberance of the frontal bones).
-- **Ix:** bloods — ↑ALP, normal Ca, PO4. XR — osteolysis in early disease, mixed lytic/sclerotic lesions in later disease. Bone scan — ↑isotope uptake at active bone lesions.
-- **Mx:** treat only if bone pain, skull or long bone deformity, fracture, or periarticular location. Bisphosphonate — PO risedronate or IV zoledronate. Calcitonin less commonly used.
-- **Complications:** deafness (secondary to cranial nerve entrapment); bone sarcoma; fractures; high-output cardiac failure (secondary to ↑blood flow within bone and surrounding limb tissue).
-
-## Osteoporosis
-
-- **D:** ↓bone density and bone micro-deformities causing ↑bone fragility and susceptibility to fracture.
-- **R:** F>M, ↑age, ↓BMI, rheumatoid arthritis, post-menopause, smoking, ↑alcohol use, family history of hip fracture, glucocorticoid use, white ancestry, CKD, testosterone deficiency, etc.
-- **S/Smx:** asymptomatic until a fracture occurs.
-
-> [!info] Gap-filled — why the classic osteoporotic fracture sites (vertebrae, distal radius, femoral neck) are specifically vertebrae, wrist, and hip — rather than osteoporotic fracture occurring randomly anywhere in the skeleton — was never explained. **Bone exists in two structurally different forms**: dense **cortical (compact) bone**, forming the outer shaft of long bones, and porous, honeycomb-like **trabecular (cancellous) bone**, concentrated at the ends of long bones and filling vertebral bodies. Trabecular bone has a **much higher surface-area-to-volume ratio** than cortical bone, meaning it's metabolically more active and undergoes bone turnover (both formation and resorption) considerably faster — which also means it's lost considerably **faster** once resorption outpaces formation in osteoporosis. This is precisely why the classic fracture sites are trabecular-bone-rich: **vertebral bodies** (predominantly trabecular, and specifically reliant on that trabecular structure to bear day-to-day axial/compressive load) undergo compression/wedge fractures once trabecular loss reduces their ability to withstand ordinary loading — genuinely different from a traumatic fracture, given these can occur under everyday loads (bending, lifting) that wouldn't fracture healthy bone. The **distal radius** and **femoral neck** are similarly trabecular-rich transition zones, explaining why these three sites — not an arbitrary or random selection — are the ones classically screened for and specifically named in fracture-risk tools like FRAX above.
-
-> [!info] Verified against the 2024 RACGP/Healthy Bones Australia guideline for osteoporosis management and fracture prevention (replacing the prior 2017 guideline), Aug 2026 — Australia genuinely uses FRAX too (the same tool, not a UK-specific alternative), so the tool itself doesn't need replacing, but several thresholds and concepts are Australia-specific and have also genuinely changed with this 2024 update.
-> **DXA referral threshold:** in patients ≥50yo without a fracture, refer for DXA if FRAX 10-year Major Osteoporotic Fracture (MOF) risk is **≥10%**; if <10%, DXA is not routinely recommended — a specific numeric threshold that was not in the UK-style note this entry was written against, and which that note did not carry at all. Anyone ≥50yo with a minimal trauma fracture should be referred for DXA regardless of FRAX score.
-> **"Very high" / "imminent" fracture risk — a genuinely new, clinically important concept in the 2024 update:** defined as T-score ≤−3.0 with a fracture within 2 years, and/or ≥2 fragility fractures, and/or a 10-year FRAX MOF risk ≥30% or hip fracture risk ≥4.5% — patients meeting this threshold are candidates for **osteoanabolic therapy as initial treatment** (rather than starting with a bisphosphonate and escalating only if needed), reflecting the genuinely elevated near-term refracture risk in this group, particularly in the first 24 months after an incident fracture.
-> **Population-based osteoporosis screening is explicitly not recommended in Australia**, given insufficient supporting evidence — risk-factor-and-FRAX-triggered case-finding is the Australian approach, not blanket screening.
-> T-score <−2.5 defining osteoporosis, and the general T-score (young reference population) vs Z-score (age/sex/ethnicity-adjusted) distinction, are internationally standard definitions and don't need correction for Australia.
-
-- **Ix:**
-  - XR for fractures.
-  - Risk assessment with FRAX score (10-year fracture risk) — DXA referral if MOF risk ≥10%, or regardless of FRAX score if there's already been a minimal trauma fracture, per the AU-specific thresholds above.
-  - DEXA scan — may not be required in females ≥75 years old according to clinician judgment.
-    - **T-score:** based on bone mass of a young reference population. <-2.5 = osteoporosis.
-    - **Z-score:** adjusted for age, gender and ethnic factors.
-
-> [!info] Verified against the same 2024 RACGP/Healthy Bones Australia guideline — the drug-choice logic below needed one genuinely important correction, not just a "check locally" caveat: **strontium ranelate has been specifically removed as a therapy option in the current (2024) Australian guideline** — it should not be offered as a bisphosphonate-intolerance alternative the way the UK-style note this entry was written against did (the Mx list that follows has already been corrected accordingly, and says so); this is a genuine, dated removal, not a jurisdictional variation to simply verify. The 2024 update also specifically flags the risk of **rebound vertebral fracture following denosumab cessation** as an important safety point (denosumab discontinuation requires a planned transition to another anti-resorptive agent, not simply stopping) — a genuinely current Australian-highlighted safety concern worth knowing, not detailed in the original UK-style note at all. Treatment initiation is recommended for: very high fracture risk (per the definition above), minimal trauma hip or vertebral fracture, or a minimal trauma fracture at another site with T-score ≤−1.5 — a more specific AU threshold structure than a blanket "start treatment if osteoporosis confirmed."
-
-- **Mx:**
-  - Start treatment per the AU-specific initiation criteria above (very high fracture risk, minimal trauma hip/vertebral fracture, or other minimal trauma fracture with T-score ≤−1.5).
-  - Alendronate first-line. 25% cannot tolerate this — offer risedronate. **Strontium ranelate is no longer recommended in current Australian guidance** (see note above) — raloxifene remains an option for bisphosphonate-intolerant patients where appropriate. Osteoanabolic therapy (e.g. teriparatide, romosozumab) is considered as **initial** therapy specifically in patients meeting "very high"/"imminent" fracture risk criteria above, rather than reserved only for bisphosphonate treatment failure.
-  - Calcium & vitamin D supplementation — **most effective specifically in patients with confirmed calcium/vitamin D deficiency**, rather than given routinely to all healthy, non-institutionalised individuals regardless of status, per the current guideline's specific emphasis.
-  - Other options: HRT (↓incidence of vertebral and non-vertebral fractures, but concerns about ↑risk of heart disease and breast cancer); hip protectors (helps especially in nursing home patients, but may be uncomfortable, leading to low compliance); falls risk assessment.
-  - **If stopping denosumab:** plan a transition to another anti-resorptive agent (e.g. a bisphosphonate) rather than simply discontinuing, given the specific rebound vertebral fracture risk noted above.
-
-> [!danger] For patients on glucocorticoids: if it is anticipated the patient will be on ≥3 months of steroids (equivalent to prednisolone 7.5mg), start bone protection ASAP — e.g. in polymyalgia rheumatica — with a bisphosphonate.
-
-## Bisphosphonates
-
-> [!warning] FLAG 2026-09-01 — duplicate pair with the endocrine drug file
-> `Endocrine and metabolics_merged NEW_Drugs_10 §0.1.1 Bisphosphonates` covers the same class.
-> **Osteoporosis and fragility fracture sit in five places**: `## Osteoporosis` and this section here,
-> `L7 §0.6 Fragility Fractures`, `Endocrine I3 §0.5 Metabolic Bone Disease`, and
-> `Geriatrics GER1 §0.6 Osteoporosis and Fracture Prevention`. Pairs marked, nothing merged.
-
-- **MOA:** inhibits osteoclasts.
-- **AE:** oesophageal reactions; osteonecrosis of the jaw; atypical stress fractures (alendronate); acute phase response (fever, myalgia); hypocalcaemia (usually clinically unimportant).
-- **Counselling:** swallow whole with plenty of water on an empty stomach ≥30 minutes before breakfast; sit/stand upright for ≥30 minutes after taking the medicine.
-- Correct vitamin D deficiency before giving a bisphosphonate.
-- **Stop bisphosphonates at 5 years if:** patient <75 years old, femoral neck T-score >−2.5, and low fracture risk on reassessment (the criteria for a drug holiday; reassess rather than stop indefinitely).
-
-> [!warning] **Two corrections here, both found by the reference-value audit that followed M10 (2026-08-29).**
->
-> **1. "NOGG" was a UK guideline body.** The National Osteoporosis Guideline Group is **UK**, and its risk thresholds are not the Australian ones — the Australian position is the 2024 RACGP/Healthy Bones Australia guideline already verified above. Removed. It is also a **Step 17 miss**: "NOGG" was not on the UK-localisation term list, which is the second time this session a UK body has survived because the term list did not name it (the first was "2-week-wait"). The list is a starting point, not a checklist.
->
-> **2. FRAX is country-calibrated, and the thresholds above only mean what they say on the Australian model.** *The mechanism:* FRAX converts risk factors into an absolute 10-year probability using **country-specific fracture and mortality data**, so the same inputs produce different outputs depending on which country's model is selected. **A FRAX run on the wrong country setting gives a number that looks valid and is not comparable to the ≥10% MOF referral threshold above.** Select Australia explicitly. This is the same class of caveat as the cognitive screening cutoffs in [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS) — **a threshold carries its derivation population with it**, and this file quoted FRAX thresholds four times without saying so.
->
-> Note the box above verified the **DXA referral threshold and the drug-choice logic** against the Australian guideline. It did not cover this line, which sits well below it — the partial-verification-box pattern, now found for the third time this session.
-
-
-<!-- ===== SOURCE: 11_08c_Ortho_-_Fracture_Types_and_Pathological_Fractures.md ===== -->
-
-
-## Fracture types (by pattern)
-
-> [!info] Fracture pattern classification
-> - **Oblique:** fracture lies obliquely to the long axis of the bone.
-> - **Comminuted:** >2 fragments.
-> - **Segmental:** >1 fracture along a bone.
-> - **Transverse:** perpendicular to the long axis of the bone.
-> - **Spiral:** oblique fracture with rotation along the long axis of the bone.
-> - **Greenstick:** incomplete fracture.
-
-## Pathological fractures
-
-### Osteogenesis imperfecta
-
-- Defective osteoid formation, secondary to a congenital inability to produce adequate intercellular substances like osteoid, collagen and dentine.
-- Failure of maturation of collagen in all the connective tissues.
-- **XR:** translucent bones, multiple fractures (particularly of the long bones), Wormian bones (irregular patches of ossification), and a trefoil pelvis.
-
-> [!info] Types of osteogenesis imperfecta
-> - **Type I:** normal quality, ↓quantity.
-> - **Type II:** ↓quality, ↓quantity.
-> - **Types III & IV:** ↓quality, normal quantity.
-
-### Osteopetrosis
-
-- Autosomal recessive; bones are harder and denser.
-- **XR:** "marble bone" appearance.
-
-
-<!-- ===== SOURCE: 11_09a_Ortho_-_Orthopaedic_and_Bone_Malignancies.md ===== -->
-
-
-> [!tip] Diagnostic approach to a suspected bone tumour: S/Smx are typically non-mechanical pain, swelling ± pathological fracture. Key diagnostic leads: (1) age distribution, (2) past medical history, (3) location of pain, (4) imaging.
-
-> [!info] Bone tumours tend to cluster by age and location — younger patients (0–20 years) more often have Ewing's sarcoma and osteosarcoma (osteosarcoma classically at the metaphysis, Ewing's more diaphyseal); older patients (>40 years) more often have chondrosarcoma, giant cell tumour, or metastatic disease.
-
-## Osteosarcoma
-
-- **D:** primary osseous malignant neoplasm composed of mesenchymal cells producing osteoid and immature bone.
-- **R:** age 10–25, possibly M>F, Paget's disease, radiotherapy, Rothmund-Thomson syndrome, familial retinoblastoma, Li-Fraumeni syndrome.
-- **A/P:** ↑osteoid production by osteoblasts.
-- **S/Smx:** bone pain (gradual worsening), especially in patients aged 10–25 + swelling (usually firm to touch), limping, ↓range of movement ± skin ulceration.
-- **Ix:** XR of the affected limb — radiolucent lesion, periosteal reaction (Codman's triangle, spiculations) ± soft tissue swelling. MRI, CT thorax, radionuclide bone scan. Bloods — ↑ALP and ↑LDH. Bone biopsy to confirm histology.
-- **Mx:** chemotherapy + surgical resection.
-
-## Chondrosarcoma
-
-- **D:** malignant cancer of the cartilage.
-- Age 30–60. Affects the flat bones (ilium, ribs).
-- **Mx:** wide local resection ± chemo/radiotherapy.
-
-## Ewing's sarcoma
-
-- **D:** small round blue cell tumour.
-- <15 years old, M>F. Associated with t(11;22) translocation.
-- **S/Smx:** affects bones around the knee. Patient may present with fever and hot swelling — often mistaken for osteomyelitis.
-- **Ix:** XR may show "onion skin" periosteal reaction + lung metastases.
-- **Mx:** 12-week neoadjuvant chemotherapy + re-evaluate, re-stage + wide local resection/amputation.
-- **P:** poor — 50% 5-year survival.
-
-## Giant cell tumour
-
-- **D:** tumour of multinucleated giant cells within a fibrous stroma. Most are locally aggressive but benign; ~10% transform to malignant tumours (aka osteoclastoma).
-- Age 20–40, F>M.
-- **S/Smx:** bony prominence around the knee; other locations include wrist, hip, shoulder, or lower back.
-- **Ix:** XR will show a "soap bubble" appearance.
-- **Mx:** local excision, replace defect with cement or bone graft.
-- **P:** recurrence is common.
-
-## Bone metastases
-
-> [!note] Full entry (mechanism, lytic vs sclerotic pattern, Ix, Mx including the spinal cord compression emergency and bisphosphonate/denosumab role) already built in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Metastatic Disease — Bone Metastases and Metastases of Unknown Primary, not duplicated here — that entry was built independently and covers this topic more thoroughly, including the orthopaedically-relevant "impending pathological fracture" surgical referral principle. Kept here only as a cross-reference plus the mnemonic below, given this file's PBKTL mnemonic didn't exist in the other entry and is worth preserving.
-
-> [!tip] Mnemonic for most common primary sources of bone metastasis — "PBKTL": **P**rostate, **B**reast, **K**idneys, **T**hyroid, **L**ungs.
-
-- Most common sites of metastases: spine, pelvis, ribs, skull, long bones.
-- **S/Smx:** bone pain; pathological fractures; hypercalcaemia ("moans, stones, bones, groans"); ↑ALP.
-- See [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] for the full Ix/Mx detail, not repeated here.
-
-
-<!-- ===== SOURCE: 11_09b_Ortho_-_Trauma.md ===== -->
-
-
-## Major Trauma — Primary Survey
-
-> [!warning] FLAG 2026-09-01 — trauma is duplicated inside this file and across three others
-> **Within MSK:** this section +7 subsections, and `L8 §0.1 The Primary Survey and Trauma Principles`
-> are the same topic twice. `## Splenic trauma`, `## Liver trauma` and `L8 §0.4 Abdominal Trauma` are
-> three copies of abdominal trauma. `## Head injuries` duplicates `Neuro ### Head Injury`.
-> **Across files:** `GI_merged C1 §0.10 Abdominal Trauma` · `Emergency F0-5 §0.7 Major Head Injury` and
-> `§0.8 Minor Head Injury` · `Neuro_merged ### Head Injury`.
-> **See `_meta/flags/_TRAUMA.md` for the full analysis. Nothing has been moved.**
-
-> [!note] Gap-filled from CSV ("Major trauma" and "Trauma," Medium yield). **Verified as genuinely absent before building rather than assumed** — this file holds organ-specific trauma (thoracic, genitourinary, splenic, liver, head, ocular) with no structured approach to the patient, and corpus-wide search returned **zero hits** for catastrophic haemorrhage, pelvic binder, permissive hypotension or secondary survey. The **generic** ABCDE approach is fully built in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient) and is **not repeated here** — this entry covers only what trauma changes about it. Verified against ANZCOR guidelines and Australian state major trauma service guidelines, Aug 2026.
-
-**What trauma changes about ABCDE:** the sequence is the same, but the differential within each letter is narrower and more time-critical, and one step is added in front.
-
-### \<C\> — Catastrophic haemorrhage, before airway
-
-In trauma, **exsanguinating external haemorrhage is addressed before the airway**, because a patient can bleed out faster than they can obstruct. Direct pressure, a **haemostatic dressing**, or an **arterial tourniquet** for a limb bleed that pressure will not control. This is the only situation in which anything precedes A.
-
-### A — Airway **with cervical spine protection**
-
-The addition is the C-spine. Assume injury in any significant blunt mechanism until cleared, use **manual in-line stabilisation** during airway manoeuvres, and prefer **jaw thrust over head tilt–chin lift**. The reason is mechanical: head tilt extends the neck, which is exactly the movement a potentially unstable cervical injury cannot tolerate.
-
-### B — Breathing: the immediately life-threatening chest injuries
-
-Five that must be found in the primary survey rather than on imaging, because each kills before a scan:
-- **Tension pneumothorax** — a clinical diagnosis treated on suspicion, not confirmed radiologically first (see [[02_Respiratory]] for the disease-level detail, not repeated here)
-- **Open pneumothorax** (sucking chest wound)
-- **Massive haemothorax** — see Thoracic trauma below
-- **Flail chest** with underlying pulmonary contusion
-- **Cardiac tamponade** — see [[01_Cardiovascular]] for Beck's triad and the tamponade physiology, not repeated here
-
-### C — Circulation: where the blood goes
-
-> [!info] **"Blood on the floor and four more" — the five places a trauma patient can lose enough blood to die, and the reason this list exists is that four of them are invisible.** External (on the floor), **chest**, **abdomen**, **pelvis/retroperitoneum**, and **long bones** (a femoral shaft fracture can hold 1–1.5 L; bilateral, considerably more). A hypotensive trauma patient with no external bleeding has occult haemorrhage in one of the other four until proven otherwise — that is what the list is for, and it is why the assessment is a search rather than an observation.
-
-- **Two large-bore IV cannulae**, bloods including crossmatch.
-- **Pelvic binder** at the level of the **greater trochanters** — not the iliac crests, which is the commonest application error and makes the binder ineffective. It works by reducing pelvic volume and tamponading venous bleeding, which is also why a suspected pelvic fracture should **not** be repeatedly "sprung" to test stability: doing so disrupts clot.
-- **Permissive hypotension** — accepting a lower blood pressure until surgical control of bleeding is achieved. The reasoning is that aggressive crystalloid before haemostasis raises pressure enough to dislodge formed clot, dilutes clotting factors, and worsens the trauma-induced coagulopathy.
-- **Blood, not crystalloid**, is the resuscitation fluid in haemorrhagic shock — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Massive Transfusion Protocol (MTP) and [[01_Cardiovascular]] 0.20 Shock (0.20.2 Hypovolaemic shock) for the physiology and the classification by blood loss, not repeated here.
-- **Tranexamic acid** is given early in significant trauma haemorrhage; the benefit is time-dependent, so it is an early-in-the-primary-survey decision rather than a later one.
-
-### D — Disability
-
-GCS, pupils, blood glucose, and gross limb movement. The trauma-specific point is that **a falling GCS is a reason to re-look at A, B and C before attributing it to head injury** — hypoxia and hypoperfusion both reduce conscious level and both are reversible. See [[04_Neurology]] CT Head, Head Injury, and Intracranial Pressure for imaging thresholds and raised-ICP management, not repeated here.
-
-### E — Exposure and environment
-
-Fully expose, then **actively prevent hypothermia** — warmed fluids, warming blankets, minimise exposure time. Hypothermia in trauma is not merely uncomfortable: it forms the **"lethal triad" with acidosis and coagulopathy**, each worsening the others, and it is the component most directly under the treating team's control.
-
-### After the primary survey
-
-**Secondary survey** — a systematic head-to-toe examination including a **log roll** to inspect the back and perform a rectal examination if indicated, once the patient is stable enough. **AMPLE history** (Allergies, Medications, Past history, Last meal, Events) as in the generic ABCDE entry. **Re-assess from the top whenever the patient deteriorates** rather than continuing down the sequence — the primary survey is a loop, not a checklist to complete once.
-
-> [!info] **Remoteness is the equity variable that matters most in trauma**, and it operates through time rather than through any difference in the injury itself: distance to a designated major trauma service lengthens the interval to definitive haemorrhage control, and that interval is what the primary survey is buying. The practical consequence is the same one stated for burns above — **activate retrieval early, in parallel with resuscitation**, because the transfer time is the part of the pathway you cannot compress later. (Stated as a mechanism rather than with a mortality figure: this project has not sourced Australian trauma-outcome disparity data directly, and a number is not asserted here.)
-
-> [!warning] Australian context worth knowing: major trauma care is organised through **state-based trauma systems with designated major trauma services**, and the intern-level task in a smaller or regional hospital is usually **recognition, resuscitation and early retrieval** rather than definitive management. Retrieval services (such as the state aeromedical and retrieval organisations) should be contacted **early** — the referral conversation happens in parallel with resuscitation, not after it.
-
----
-
-## Burns and Scalds
-
-> [!note] Gap-filled from CSV — **two rows** ("Burns" and "Burns and scalds," both Low yield, Injury/Poisoning/Envenomation/Environmental category). Flagged as absent early in this project and **confirmed missing twice** on corpus-wide search: zero hits for Parkland, rule of nines, TBSA in a burns context (every TBSA hit was SJS/TEN in [[09_01_Dermatology_-_Dermatological_Emergencies]] Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN)), or cooling. Built here rather than in the dermatology file because burns are managed as **trauma** — primary survey, fluid resuscitation, transfer to a burns unit — and this file is already the project's de facto general trauma home despite its "Ortho" filename (it holds thoracic, genitourinary, splenic, liver, head and ocular trauma, none of them orthopaedic). Verified against ANZCOR Guideline 9.1.3 (First Aid for Burns), ANZBA (Australian and New Zealand Burn Association) referral criteria and Emergency Management of Severe Burns principles, and Australian state burns service guidelines, Aug 2026.
-
-### First aid — the intervention with the best evidence, and the one most often done wrong
-
-> [!danger] **Cool running water, 20 minutes, and it still works up to 3 hours after the burn.** This is ANZCOR's guidance and it is worth knowing precisely, because all three parts are commonly got wrong:
-> - **20 minutes**, not "a splash" — shorter durations do not achieve the same reduction in burn depth and subsequent scarring.
-> - **Cool running water — never ice or iced water**, which causes vasoconstriction and can deepen the burn and induce hypothermia.
-> - **Late is still worth doing.** Cooling started up to **3 hours** after injury retains benefit, so a patient arriving at hospital an hour later should still be cooled — the common error is deciding the window has closed.
->
-> **Keep the patient warm while cooling the burn.** These are not contradictory: cool the injured area, warm the person. Hypothermia is a real and under-recognised risk, especially in children and in large burns, and it worsens coagulopathy and outcome.
-
-Remove clothing and jewellery (unless adherent), cover with cling film laid on longitudinally rather than wrapped circumferentially (it must not constrict as oedema develops), and give **analgesia early** — burns are severely painful and under-analgesia is routine.
-
-### Assessment — depth and TBSA
-
-**Depth** determines healing and whether grafting is needed:
-
-| Depth | Appearance | Sensation | Healing |
-|---|---|---|---|
-| **Superficial (epidermal)** | Erythema, no blisters (sunburn) | Painful | Days, no scar. **Not counted in TBSA** |
-| **Superficial partial thickness** | Blisters, moist, pink, blanches | **Very painful** | ~2–3 weeks, minimal scarring |
-| **Deep partial thickness** | Blisters, mottled red/white, sluggish or absent blanching | Reduced sensation | Slow, scars; often needs grafting |
-| **Full thickness** | White, waxy or charred, dry, leathery | **Painless** — the nerve endings are destroyed | Will not heal without grafting |
-
-> [!info] **The counter-intuitive point, and the reason it matters: a painless burn is a worse burn.** Loss of sensation means full-thickness destruction of the dermis including its nerve endings, so pain is inversely related to depth at the severe end. An intern reassured by a patient not complaining of pain has the finding exactly backwards.
-
-**TBSA (total body surface area) estimation** — the percentage of the body burned, and the number the whole fluid calculation is built on:
-- **Rule of Nines (adults):** head 9%, each arm 9%, each leg 18%, anterior trunk 18%, posterior trunk 18%, perineum 1%.
-- **The patient's own palm including fingers ≈ 1% TBSA** — the most practical tool for small or patchy burns.
-- **Do not count superficial (erythema-only) burns** in TBSA. Including sunburn-type erythema is a common error that inflates the calculation and leads to over-resuscitation.
-
-> [!danger] **The Rule of Nines is wrong in children, and the reason is anatomical rather than arbitrary: a child's head is proportionally much larger and their legs proportionally shorter.** An infant's head is around **18%** — double the adult figure — with each leg correspondingly closer to **14%**. Applying the adult rule to a small child **underestimates** a head burn and **overestimates** a leg burn. Use a **Lund and Browder chart**, which is age-adjusted, wherever one is available; it is the accurate tool and the reason it exists.
-
-### Mx
-
-- **Immediate/acute:** treat as **major trauma** — see Major Trauma — Primary Survey below, not repeated here. Burns-specific priorities within it:
-  - **Airway.** Suspect **inhalation injury** with burns sustained in an enclosed space, facial or neck burns, singed nasal hairs, soot in the mouth or sputum, hoarseness or stridor. **Airway oedema is progressive**, so the decision to intubate is made early on trajectory rather than on the current appearance — waiting until the airway looks bad means intubating a much harder airway.
-  - **Breathing.** Consider **carbon monoxide and cyanide poisoning** in enclosed-space fires. Pulse oximetry is **falsely reassuring in CO poisoning** because carboxyhaemoglobin absorbs light similarly to oxyhaemoglobin — the saturation reads normal while the patient is hypoxic. Give high-flow oxygen and measure a blood gas with co-oximetry.
-  - **Circumferential burns** of a limb or the chest can act as a tourniquet as oedema develops — limb ischaemia or restricted ventilation — and may need **escharotomy** — a surgical incision through the full thickness of the burned, inelastic eschar (not into muscle, which would be a fasciotomy) to release the constriction and restore perfusion or chest expansion. An intern's task is to **recognise the need and escalate**, not to perform it.
-- **Fluid resuscitation — the modified Parkland formula.** **Volume = mL × body weight (kg) × %TBSA**, given over the first 24 hours, with **half in the first 8 hours and the remainder over the following 16**. **Hartmann's (compound sodium lactate)** is the standard fluid across Australian trauma networks.
-
-  > [!info] **3 or 4 mL is a clinical decision, not a jurisdictional disagreement — and knowing the trigger is the point.**
-  > - **3 mL/kg/%TBSA — the standard adult baseline.**
-  > - **4 mL/kg/%TBSA — escalate to this for suspected inhalation injury, high-voltage electrical injury, or burns with associated major trauma.** These patients have larger third-space losses and greater fluid requirements, so the higher figure is a response to a specific finding rather than a preference.
-  >
-  > **A source of genuine confusion worth pre-empting:** the *original* Parkland formula as published, and as still quoted in much international literature, is **4 mL/kg/%TBSA for everyone**. Australian practice uses the modified 3 mL baseline. Meeting "Parkland = 4 mL" in a textbook is therefore not an error on the textbook's part — it is the unmodified formula, and the Australian starting figure is lower.
-
-  **Four things interns get wrong:**
-  - **The clock starts at the time of the burn, not at the time of presentation.** This is a classic trap. A patient arriving **3 hours** after injury has already consumed 3 of the first 8 hours — they have **5 hours left** in which to receive the first half of the volume, not 8. Calculate backwards from the injury and catch up accordingly.
-  - **Superficial (erythema-only, "first-degree") burns are excluded from the %TBSA calculation.** Counting sunburn-type erythema inflates the figure and drives over-resuscitation.
-  - **The formula gives an initial estimate only — titrate against urine output, reassessed 1–2 hourly.** Target roughly **0.5 mL/kg/hr in adults** and **1 mL/kg/hr in children**. Over-resuscitation ("fluid creep") causes real harm — compartment syndrome, pulmonary oedema, deepening of the burn — so the formula is a starting rate to be adjusted, never a volume to be delivered regardless.
-  - **Children need separate maintenance fluid containing glucose, in addition to the resuscitation volume**, and the reason is worth holding rather than the rule alone: **children have limited hepatic glycogen stores**, so they become hypoglycaemic quickly once catabolic and not feeding. Resuscitation fluid replaces losses; it does not meet maintenance requirements, and Hartmann's contains no glucose. Give maintenance with a **glucose-containing** solution alongside, and **monitor blood glucose**.
-
-  > [!warning] **The TBSA threshold for starting formal fluid resuscitation is stated inconsistently across sources and is deliberately not fixed here.** **Children: ≥10% TBSA** is consistent across the sources checked. **Adults: both ≥15% and ≥20% appear**, including within Australian and international material, and the American Burn Association uses ≥20% adults / ≥15% children. **Confirm the threshold against your local burns service protocol rather than memorising one figure** — and note that the practical consequence of the ambiguity is small, because any burn approaching these figures warrants early discussion with a burns unit anyway (see the referral criteria below), and that conversation will settle it.
-- **Definitive:** wound care and dressings, tetanus status, early nutrition in major burns, and **surgical debridement and grafting** for deep partial and full thickness burns. Analgesia throughout — including for dressing changes, which are often the most painful part of the admission.
-
-> [!warning] **ANZBA referral criteria — burns that should go to a burns unit.** Worth knowing as a list because the threshold is lower than most people assume:
-> - **>10% TBSA in adults**, or **>5% TBSA in children**
-> - **Full thickness burns >5% TBSA**
-> - **Burns of special areas** — face, hands, feet, genitalia, perineum, major joints
-> - **Circumferential** limb or chest burns
-> - **Inhalation injury**
-> - **Electrical** or **chemical** burns
-> - Burns with **significant pre-existing illness**, or **associated major trauma**
-> - **Extremes of age** — young children and the elderly
-> - **Burns in pregnancy**
-> - **Non-accidental burns** (see below)
-
-> [!danger] **Aboriginal and Torres Strait Islander children — a large disparity, and one finding that makes the first-aid section above the most actionable part of this entry.** Burn injury rates are **2–3 times higher** than in other Australian children (hospitalisation around **58 vs 22 per 100,000**, and in the 0–4 year age group **174 vs 56 per 100,000**), with **greater severity and longer admissions** — a median length of stay of **5 days versus 1**. Remoteness, flame burns, larger %TBSA and full-thickness injury all contribute, and all are more common in this group.
-> **The actionable finding:** in an Australian study of caregivers of Aboriginal and Torres Strait Islander children with burns, **only 34 of 208 received gold-standard burns first aid at the scene**. Two consequences follow directly:
-> - **Assume adequate cooling has probably not happened**, and cool on arrival — which is exactly why the 3-hour window matters clinically rather than being a piece of trivia. Do not skip cooling because time has passed.
-> - **Prevention and first-aid education are a genuine clinical intervention here**, not background health promotion — the single modifiable factor with the largest effect on final burn depth is whether 20 minutes of cool running water happened.
->
-> Retrieval distance also lengthens the interval to definitive care, so **contact the burns service and retrieval early** rather than after local stabilisation is complete. Verified against AIHW hospitalised burn injury data, MJA population data-linkage research on Indigenous and non-Indigenous children hospitalised for burns, and Australian burns first-aid research, Aug 2026.
-
-> [!danger] **Non-accidental injury is a genuine differential in a paediatric burn, not a remote possibility.** Patterns that should raise concern: a **scald with a clear immersion line and no splash marks** (a child who fell into hot water splashes and withdraws; a child who is held does not), **symmetrical "glove and stocking" distribution**, **burns to the buttocks or perineum**, contact burns with a clear imprint of an object, delayed presentation, or an explanation inconsistent with the child's developmental stage. Assess and escalate exactly as for any suspected NAI — see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Non-accidental injury (NAI) for the full assessment, information-sharing and mandatory reporting framework, not repeated here.
-
----
-
-## Thoracic trauma
-
-> [!danger] Haemothorax — secondary to laceration of a blood vessel. Mx: wide bore chest drain; thoracotomy if >1.5L blood loss initially, or >200mL/h loss for >2h.
-
-- **Mediastinal traversing wounds:** entrance on one side of the thorax, exit on the other side. Haematoma indicates increased likelihood of great vessel injury. Ix: CTPA, oesophageal contrast swallow. Mx: consider thoracotomy.
-
-> [!danger] Traumatic aortic disruption — the most common cause of death after RTA. 98% will show up on XR.
-
-- **Cardiac contusions:** result in cardiac arrhythmias + sternal fracture. Ix: echo. Mx: pericardial effusions or tamponade managed accordingly.
-- **Pulmonary contusion:** common, insidious onset but lethal. Mx: early intubation & ventilation.
-- **Diaphragmatic injury:** usually on the left side. Mx: gastric tube passing into the thoracic cavity, then surgical repair.
-- Cross-referenced conditions: simple and tension pneumothorax — see [[02_Respiratory]] Pneumothorax; flail chest — see [[11_06_Ortho_-_Spinal_Orthopaedics]] Rib fractures; cardiac tamponade — see [[01_Cardiovascular]] 0.34 Cardiac Tamponade.
-
-## Lower genitourinary tract trauma
-
-- **Urethral injury:**
-  - Bulbar rupture — often secondary to straddle-type injuries → urinary retention, perineal haematoma, blood at the meatus.
-  - Membranous rupture — usually secondary to pelvic fracture → penile or perineal oedema/haematoma.
-  - Ix: ascending urethrogram. Mx: suprapubic catheter.
-- **External genitalia injuries:** often secondary to penetration, blunt trauma, devices, mutilation. Uro/plastics input required.
-- **Bladder injury:** divided into intra- or extra-peritoneal. S/Smx: haematuria, suprapubic pain. Ix: IV urethrogram or cystogram. Mx: laparotomy if intraperitoneal injury; conservative management if extraperitoneal.
-
-## Splenic trauma
-
-- Small injuries (e.g. small haematoma, little blood loss) can be managed conservatively.
-- **Laparotomy with conservation** if: increased intra-abdominal blood, moderate haemodynamic compromise, tears or lacerations affecting <50% of the spleen.
-- **Resection (removal of spleen)** if: hilar injuries, major haemorrhage + shock, major associated injuries.
-
-## Liver trauma
-
-- Laceration of blood vessels can cause haematoma (subcapsular or intraparenchymal), or bleeding into the abdomen.
-- Injury to the bile duct is more likely to occur in severe injuries, central injuries, or penetrating trauma.
-- **S/Smx:** RUQ pain, right shoulder tip pain, ↓BP, shock.
-- **Ix:** ↑ALT/AST, CT.
-- **Mx:** maintain haemodynamic stability; 80% can be treated non-surgically.
-
-## Head injuries
-
-*(See [[04_Neurology]] CT Head, Head Injury, and Intracranial Pressure)*
-
-> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `Ocular trauma` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: 11_10_Ortho_-_Paediatric_Orthopaedics.md ===== -->
-
-
-## Juvenile idiopathic arthritis (JIA)
-
-- **D:** chronic paediatric inflammatory arthritides characterised by onset before age 16 and the presence of objective arthritis (in ≥1 joint) for ≥6 weeks.
-- **R:** F>M, HLA polymorphisms, family history of autoimmunity.
-- **A:** autoimmune disorder.
-- **P:** chronic inflammation of the synovium.
-- **S/Smx:**
-  - **Systemic onset:** fever, salmon-pink rash, arthritis, lymphadenopathy, uveitis, anorexia, weight loss.
-  - **Pauciarticular (60% of cases):** ≤4 joints affected, usually medium-sized joints, e.g. knees and ankles.
-- **Ix:** ANA, rheumatoid factor — negative.
-- **Mx:**
-  - Pauciarticular/oligoarticular (≤4 joints): intra-articular corticosteroids; consider NSAIDs and DMARDs if severe.
-  - Polyarticular (≥5 joints): DMARDs, methotrexate; consider NSAIDs, biological agents if appropriate.
-
-## Transient synovitis of the hip
-
-- **D:** self-limiting inflammatory disorder of the hip — more common in young children.
-- **R:** age 2–12, M>F (2:1) ± history of recent URTI.
-- **A/P:** non-specific inflammation, possibly a secondary reaction post-viral infection.
-- **S/Smx:** limited movement + pain; limp (but weight bearing); positive log roll (involuntary muscle guarding in the affected limb); patient may keep the hip in abduction and external rotation.
-- **Ix:** XR (typically normal).
-- **Mx:** activity restrictions, bed rest, analgesia (NOT aspirin in young children). Safety netting advice for parents.
-
-### Septic arthritis vs transient synovitis
-
-> [!info] Kocher criteria for diagnosis of septic arthritis
-> - Fever >38.5°C
-> - Non-weight bearing
-> - ↑ESR >40
-> - ↑WCC >12
->
-> If 3–4 criteria are present, positive predictive value is >90% for septic arthritis.
-
-## Developmental dysplasia of the hip (DDH)
-
-- **D:** spectrum of conditions affecting the proximal femur and acetabulum.
-- Affects 1–3% of newborns; left hip more often affected than right, but 20% of cases are bilateral.
-- **R:** F>M (6× increased risk), breech presentation, family history, firstborn child, oligohydramnios, birth weight >5kg, congenital calcaneovalgus foot deformity.
-- **A:** not fully understood.
-- **P:** incorrect anatomical relationship between the femoral head and acetabulum leads to abnormal development.
-
-> [!info] Spectrum of DDH
-> - **Hip dysplasia:** radiographic finding showing the femoral head is not fully interacting with the acetabulum.
-> - **Hip subluxation:** partial articulation of joint surfaces — usually shows up as a hip that has increased laxity with provocative testing.
-> - **Hip dislocation:** femoral head sits outside the acetabulum.
-> - **Fixed antenatal dislocation:** hip cannot be reduced.
-
-### Screening and testing
-
-- **Screening by ultrasound if:** 1st degree family history of hip problems in childhood; breech presentation at or after 36 weeks gestation; multiple pregnancy.
-- All other children are screened at the newborn check and 6-week check by clinical exam.
-
-> [!info] Clinical tests
-> - **Barlow test:** attempts to dislocate an articulated femoral head.
-> - **Ortolani test:** attempts to relocate a dislocated femoral head.
-> - Also assess: symmetry of leg length; level of knees when hips and knees are all flexed; restricted abduction of the hip in flexion.
-
-- **If any clinical suspicion:** ultrasound if ≤4.5 months old; XR if >4.5 months old.
-- **Mx:** monitor until 6 weeks old. If no improvement — Pavlik harness if child is <4–5 months old, or surgery if older.
-
-## Perthes' disease
-
-- **D:** self-limiting degenerative condition affecting the hip joints of children (age 4–8).
-- M>F (5× more common). 10% bilateral.
-- **A/P:** avascular necrosis of the femoral epiphysis → collapse, repair, remodelling → self-limiting disorder.
-- **S/Smx:** hip pain (progressive); limp; stiffness, ↓range of hip movement.
-- **Ix:** hip XR (↑joint space, ↓femoral head size); bone scan or MRI if XR is normal but symptoms are worsening.
-- **Mx:** cast or braces to stabilise the joint. If <6 years old — watch and wait. If >6 years old or severe — consider surgical management.
-
-## Slipped capital femoral epiphysis (SCFE / SUFE)
-
-- **D:** anterosuperior displacement of the femoral metaphysis due to weakness in the growth plate. Also known as slipped upper femoral epiphysis (SUFE).
-- **R:** obesity, puberty, M>F.
-- **A/P:** stress around the hip joint + shear forces cause slip of the growth plate.
-- **S/Smx:** most commonly age 10–15; hip, groin, medial thigh, or knee pain; loss of internal rotation of the leg in flexion; occurs bilaterally in 20%.
-- **Ix:** XR (AP & lateral, typically frog-leg views) will show slipped epiphysis.
-- **Mx:** internal fixation of the hip.
-- **Complications:** OA, avascular necrosis of the femoral head, chondrolysis, leg length discrepancy.
-
-## Postural Lower Limb Variants (Bow Legs, Knock Knees, Flat Feet, In-Toeing)
-
-> [!note] Gap-filled from CSV ("Paediatric Orthopaedics: ... Postural Changes (Bow Legs, Knock Knees, Flat Feet, Scoliosis)," Medium yield) — genuinely absent as a normal-variant topic despite genu varum/valgum already being mentioned as *pathological* rickets findings below; this entry covers the far more common *physiological* presentation, and the distinction between the two is the single most important thing to take from this entry.
-
-**The core concept:** bow legs, knock knees, and flat feet are all part of the **normal, predictable sequence of lower limb development** that essentially every child passes through — not variants that only some unlucky children have. Recognising the expected age-related pattern is what allows a clinician to reassure confidently in the overwhelming majority of cases, and to recognise the minority that need further assessment.
-
-**The normal developmental sequence, in order:**
-- **Genu varum (bow legs):** the default alignment in infancy and toddlerhood, most noticeable around 12–18 months, reflecting the legs' folded position in utero — physiological and expected to have resolved by around age 2, and should not be worsening or persisting beyond this.
-- **Genu valgum (knock knees):** the alignment typically swings the *other* way after bow legs resolve — physiological genu valgum peaks between ages 3–6 years, then gradually settles to the stable, adult, mildly-valgus alignment by around age 7.
-- **Flat feet (flexible pes planus):** most infants and toddlers appear flat-footed, partly due to a fat pad on the sole obscuring the arch — the longitudinal arch develops with growth and typically resolves by around age 6; a genuinely useful bedside distinguishing test is asking the child to stand on tiptoe (or passively extending the big toe) — **the arch reappearing confirms flexible (physiological) flat feet**, which needs no treatment, versus a **fixed/non-mobile flat foot (arch does not reappear on tiptoe)**, which is not physiological and warrants assessment.
-- **In-toeing:** common in toddlers learning to walk ("pigeon-toed"), most often due to internal tibial torsion at this age — usually resolves spontaneously by around age 6–10 years; insoles and stretching exercises have not been shown to help and shouldn't be recommended.
-- **Out-toeing:** similarly common, particularly as children first learn to walk, and similarly self-resolving.
-
-> [!tip] Quick bedside distinguishing check for varum vs valgum — the "O vs X" test: with the child's ankles/feet together, genu varum leaves a gap between the knees ("O" shape); genu valgum leaves the knees touching while the ankles separate ("X" shape, with the intermalleolar distance being the practical measurement used to gauge severity).
-
-**Red flags warranting referral rather than reassurance — the same underlying pattern across all these variants: asymmetry, pain, progression, or persistence beyond the expected age range:**
-- Asymmetry between the two limbs (one side notably worse than the other).
-- Pain, functional limitation, or increased falling/tripping beyond what's typical for the child's age and stage.
-- Progressive worsening over time, rather than the expected gradual improvement — the *direction of change* matters more than a single measurement, since a mild deformity that's improving is reassuring in a way an identical deformity that's worsening is not.
-- Persistence beyond the expected age for resolution (e.g. genu varum still present or worsening after age 2, genu valgum persisting significantly beyond age 7, flat feet with a fixed/non-mobile arch, in-toeing not improving by the early school years).
-- Short stature or growth concerns alongside the limb finding — raises concern for an underlying skeletal dysplasia or rickets (see Rickets below, not repeated here) rather than a purely physiological variant.
-- A visible "lateral thrust" (the knee visibly pops outward with each step) in genu varum specifically.
-
-**Ix (only where a red flag is present, not routinely):** bloods (calcium, phosphate, ALP, vitamin D) to screen for rickets given the overlapping presentation — see Rickets below; bilateral long-leg alignment X-rays if there's asymmetry, a history of trauma/infection in the affected limb, or persistence beyond the expected age.
-
-**Mx:** for the physiological variants above, **parental education and reassurance, with periodic follow-up to confirm the expected spontaneous resolution, is the correct management** — treatment (braces, special shoes, insoles) has not been shown to accelerate resolution of physiological variants and is not recommended; referral to paediatric orthopaedics is reserved for the red-flag features above, where an underlying pathological cause needs to be actively excluded rather than assumed physiological.
-
-## Rickets
-
-> [!warning] FLAG 2026-09-01 — vitamin D deficiency states are in four places
-> Here · `11_07b ## Osteomalacia` (this file) · `Endocrine and metabolics_merged §0.12 Vitamin D
-> Deficiency` · `Endocrine I3 §0.5 Metabolic Bone Disease`.
-> **Rickets and osteomalacia are the same disease at different ages** and are separated by 480 lines in
-> this file. Flagged, not merged.
-
-- **D:** condition arising from deficient mineralisation at the growth plate of long bones, presenting in childhood.
-- **R:** ↓calcium and vitamin D intake (e.g. developing countries or lower socioeconomic status), prolonged breastfeeding, unsupplemented cow's milk formula, ↓sunlight exposure.
-- **A/P:** ↓Ca, ↓vitamin D, and/or ↓PO4 disrupts the normal process of bone mineral deposition, especially at the growth plate. If the condition persists for a long time, bone deformity occurs.
-- **S/Smx:** bone pain, arthralgia; lower limb abnormalities — genu varum (bow legs) in toddlers, genu valgum (knock knees) in older children; kyphoscoliosis; craniotabes (soft skull bones); Harrison's groove (horizontal groove along the lower border of the thorax).
-- **Ix:** bloods (↓vitamin D, ↓Ca, ↑ALP); XR may show a "rickety rosary" — swelling at the costochondral junction.
-- **Mx:** vitamin D supplementation.
-
-## Osgood-Schlatter disease
-
-- **D:** apophysitis (inflammation of the growth plate where tendons attach to bones) at the tibial tuberosity.
-- **R:** growth spurts, sports.
-- **S/Smx:** knee pain (70% unilateral) exacerbated by activity, may develop over weeks/months. Tenderness over the tibial tuberosity, worsened by making the patient extend the knee against resistance, ± swelling over the area.
-- **Ix:** clinical diagnosis ± XR if needed to rule out other pathology (e.g. trauma/fracture).
-- **Mx:** conservative — analgesia, ice packs, exercise modification, stretching.
-
-## Paediatric fractures
-
-> [!info] Fracture patterns specific to children
-> - **Complete fracture:** both sides of the cortex are breached.
-> - **Toddler's fracture:** oblique tibial fracture in infants.
-> - **Plastic deformity:** stress on the bone resulting in deformity without cortical disruption.
-> - **Greenstick:** unilateral cortical breach only.
-> - **Buckle/torus:** incomplete cortical disruption resulting in periosteal haematoma (bulging of the cortex).
-
-### Growth plate (Salter-Harris) fractures
-
-> [!tip] Mnemonic — "SALTER": **S**lipped / **A**bove / **L**ower / **T**hrough **E**ve**R**ything.
-> - **Type I:** fracture through the physis only (Slipped).
-> - **Type II:** through the physis + metaphysis (Above).
-> - **Type III:** physis + epiphysis + joint (Lower).
-> - **Type IV:** physis + metaphysis + epiphysis (Through everything).
-> - **Type V:** crush injury involving the physis (Crush).
-
-*(See also [[11_03_Ortho_-_Hand_and_Foot]] Club foot (talipes equinovarus))*
-
-
-<!-- ===== SOURCE: 12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis.md ===== -->
-
-
-## Rheumatoid arthritis (RA)
-
-- **D:** chronic, erosive arthritis. Affects ~1% of the population.
-- **R:** F>M, family history (main risk factor), possibly smoking.
-- **A/P:** inflamed synovium → infiltration of inflammatory cells + cytokines → erosions.
-- **S/Smx:**
-  - **Earlier:** symmetrical arthritis >6 weeks (insidious development, small → large joints); swollen, painful joints in hands/feet; stiffness worse in the morning, classically lasting **>1 hour** (often >2 hours in more active disease); ± systemic disturbances.
-  - **Later:** deformities — swan neck, boutonnière, Z-thumb, ulnar deviation. Positive squeeze test.
-
-> [!info] Gap-filled — the morning stiffness duration cutoff, and *why* it differs so much between inflammatory and mechanical arthritis, was stated in the OA section below (as a red flag threshold) without ever being explained here at its actual source. **Mechanism:** RA's morning stiffness reflects genuine ongoing **inflammation** — inflammatory cytokines and synovial fluid accumulate within the joint capsule overnight during rest, and this accumulated inflammatory fluid/oedema takes a genuinely prolonged period of movement to disperse once activity resumes, producing stiffness lasting an hour or more. **OA's morning stiffness, by contrast, is a "gel phenomenon"** — a purely mechanical effect where joint fluid viscosity briefly increases during a period of rest (no inflammatory cytokine accumulation involved), resolving quickly — typically **<30 minutes** — with the first few minutes of movement, since there's no ongoing inflammatory process needing to clear. This is precisely why duration, not just presence, of morning stiffness is the genuinely useful discriminator between inflammatory and mechanical joint disease — see the OA red-flag box below, not repeated here, for the specific >2h threshold used as a trigger to reconsider an inflammatory cause.
-
-> [!info] Swan neck vs boutonnière — genuinely opposite finger positions, and frequently confused given both affect the PIP and DIP joints:
-> - **Swan neck:** PIP joint **hyperextension** with DIP joint **flexion** — caused by damage/laxity of the extensor mechanism at the PIP (central slip stays intact but the lateral bands migrate dorsally, over-extending the PIP), while the DIP correspondingly flexes.
-> - **Boutonnière:** PIP joint **flexion** with DIP joint **hyperextension** — the reverse pattern, caused by rupture/attenuation of the **central slip** of the extensor tendon at the PIP (classically from chronic synovitis in RA); the lateral bands then migrate volarly, converting them from PIP extensors into PIP flexors while still extending the DIP.
-> - **A simple way to remember which is which**: in boutonnière, the finger pokes through the "buttonhole" created by the ruptured central slip — the PIP flexes through the gap while the DIP is pulled into extension by the displaced lateral bands.
-  - Other pattern: relapsing/remitting monoarthritis of different large joints (palindromic rheumatism).
-- **Dx:** clinical + lab confirmation.
-  - Rheumatology screen: rheumatoid factor (RF, 70% positive), **anti-CCP (anti-cyclic citrullinated peptide antibody)** (90–95% positive) — **anti-CCP is the more specific of the two**: RF is also positive in Sjögren's, SLE, chronic infection and healthy older people, so a positive anti-CCP is what makes the diagnosis convincing, while RF alone does not.
-  - X-rays of hands & feet — a standard, internationally-consistent diagnostic step (not a UK/NICE-specific recommendation), including in Australian practice: early — loss of joint space, juxta-articular osteoporosis, soft-tissue swelling; later — periarticular erosions, subluxation.
-
-> [!info] 2010 American College of Rheumatology / European League Against Rheumatism (ACR/EULAR) classification criteria — jointly developed, not an ACR-only tool (corrected attribution)
-> - Joint involvement — more points for more joints; ≥1 small joint must be involved.
-> - Serology — positive, ↑↑RF, anti-CCP.
-> - Acute phase reactants — ↑CRP, ESR.
-> - Duration of symptoms — >6 weeks.
-
-### Management
-
-- Start a DMARD as soon as possible — monotherapy ± a short course of bridging prednisolone.
-- Monitoring: CRP + DAS28 score (see below for what this actually measures, not previously explained).
-- Flares: corticosteroids PO/IM.
-
-> [!note] Gap-filled — DAS28 was only ever mentioned by name, never explained, despite directly driving RA treatment escalation decisions. See [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Ankylosing spondylitis for BASDAI, the analogous disease-activity monitoring tool used in axial spondyloarthritis, not repeated here.
-
-**DAS28 (Disease Activity Score in 28 joints):** a composite score combining four components — **T**ender **J**oint **C**ount (of 28 specified joints), **S**wollen **J**oint **C**ount (same 28 joints), an inflammatory marker (**CRP** or **ESR**), and the patient's own global assessment of disease activity (a 0–100 visual analogue scale) — into a single number, calculated via a weighted formula (not required at intern level; the components and thresholds below are the testable, clinically relevant part).
-
-> [!info] DAS28 thresholds — genuinely drive treatment decisions under a treat-to-target strategy, not just descriptive labels:
-> - **<2.6:** remission
-> - **2.6–3.2:** low disease activity
-> - **3.2–5.1:** moderate disease activity
-> - **>5.1:** high disease activity
-
-**Treat-to-target principle:** DAS28 is measured regularly (e.g. every 1–3 months in active disease) and used to actively escalate therapy if the target (remission, or low disease activity where remission isn't achievable) isn't being met — e.g. adding a second DMARD, or escalating to a biologic/TNFα inhibitor (see below, not repeated here) if DAS28 remains in the moderate/high range despite an adequate trial of conventional DMARD therapy. This is a genuinely active, target-driven monitoring strategy, not a passive score recorded for its own sake.
-
-> [!danger] Methotrexate is dosed **once weekly, not daily** — a genuine, documented, and repeatedly fatal Australian prescribing error (see "A decade of Australian methotrexate dosing errors," Medical Journal of Australia 2016) given accidental daily dosing causes severe, sometimes fatal myelosuppression. Typical weekly dose 7.5–25mg PO or SC (SC reduces GI side effects and improves bioavailability). **Folic acid must be co-prescribed** — at least 5mg weekly, taken on a **different day** to the methotrexate dose (same-day dosing may reduce methotrexate absorption/efficacy) — per Australian Therapeutic Guidelines, up to a maximum folic acid:methotrexate ratio of 3:1 if adverse effects persist despite the standard dose. In case of accidental pregnancy: stop methotrexate immediately, start folic acid 5mg daily, and contact the treating rheumatologist urgently, given methotrexate's teratogenicity.
-
-> [!warning] DMARDs and their key adverse effects
-> - **Methotrexate (MTX):** monitor FBC, LFTs. AE: myelosuppression, liver failure, pneumonitis.
-> - **Sulfasalazine:** AE — rashes, oligospermia, Heinz body anaemia, interstitial lung disease.
-> - **Leflunomide:** AE — liver failure, interstitial lung disease, hypertension.
-> - **Hydroxychloroquine:** AE — retinopathy, corneal deposits. **Retinopathy screening (RANZCO-verified, Aug 2026): baseline ophthalmological examination within the first year of starting hydroxychloroquine, then annual screening from the 5-year mark onward for patients with no additional risk factors** — earlier annual screening (i.e. from initiation, not deferred to year 5) is warranted for patients on higher doses (>5mg/kg/day actual body weight), with renal impairment, on concurrent tamoxifen, with pre-existing retinal/macular disease, or on chloroquine specifically. Optical coherence tomography (OCT) plus fundus autofluorescence (FAF) is the primary screening approach, given standard visual acuity testing alone is a poor early-detection tool — significant retinal damage can occur before visual acuity is affected. **Genuinely important given the risk profile is cumulative and dose/duration-dependent**: toxicity risk is <1% at 5 years, rising to ~20% by 20 years of continuous use — this is why baseline screening alone isn't sufficient and ongoing annual review matters, not a one-off check that can be forgotten once done.
-> - **Gold:** AE — proteinuria.
-> - **Penicillamine:** AE — proteinuria, ↑Mg.
-
-> [!info] TNFα inhibitors — indicated if inadequate response to ≥2 DMARDs, including MTX.
-> - **Etanercept:** recombinant protein, acts as a decoy receptor for TNF-α. SQ administration. AE: demyelination, reactivation of TB.
-> - **Infliximab:** monoclonal antibody, binds TNF-α and prevents it binding TNF receptors. IV administration. AE: reactivation of TB.
-> - **Adalimumab:** monoclonal antibody, SQ administration.
-
-- **Rituximab:** anti-CD20 monoclonal antibody, ↓B cells. Two 1g IV infusions, 2 weeks apart. AE: infusion reactions.
-- **Abatacept:** fusion protein that modulates a key signal required for T-cell activation; ↓T cell proliferation, ↓cytokines. IV or SC administration. **PBS-listed in Australia** (corrected — the original note's "not recommended by NICE" was UK-specific guidance left uncorrected) for patients who have failed an adequate trial of at least two conventional DMARDs including methotrexate at the required minimum dose (≥20mg/week, unless contraindicated or not tolerated) — **maintaining methotrexate alongside abatacept is itself a PBS eligibility requirement**, not merely a clinical preference, reflecting genuinely superior efficacy of the combination over either agent alone.
-
-> [!warning] Poor prognostic factors: RF positive, anti-CCP positive, HLA-DR4, poor functional status at presentation, early erosions on X-ray (<2 years), extra-articular features, insidious onset, possibly female sex.
-
-### Complications / extra-articular manifestations
-
-- Ocular manifestations in 25%: keratoconjunctivitis sicca, episcleritis, scleritis, corneal ulceration, keratitis.
-- Respiratory: pulmonary fibrosis, pleural effusion, pulmonary nodules, bronchiolitis obliterans, pleurisy.
-- Osteoporosis (possibly secondary to steroids).
-- Ischaemic heart disease.
-- ↑risk of infections (possibly secondary to DMARDs).
-- Depression; amyloidosis.
-
-> [!info] Felty's syndrome: RA + splenomegaly + neutropenia.
-
-## Osteoarthritis (OA)
-
-- **D:** degenerative joint disorder — the result of mechanical and biological events that destabilise the normal process of degradation and synthesis of articular cartilage chondrocytes, extracellular matrix, and subchondral bone.
-- **R:** >50 years old, F>M, obesity, genetic factors, knee alignment, ↑activity, post-trauma.
-- **S/Smx:** pain, functional difficulties, ↓range of motion, malalignment. Knee > hip > hand in frequency.
-
-> [!danger] A genuine, severe Australian health equity issue with an important disease-specific nuance and a striking treatment-access gap — not a generic epidemiological footnote. **Overall arthritis prevalence is higher in Aboriginal and Torres Strait Islander Australians (around 17%) than non-Indigenous Australians (around 13%)**, but this genuinely varies by condition rather than being uniform: **osteoarthritis prevalence is around 1.2–1.5 times higher**, and systemic lupus erythematosus prevalence is markedly higher (roughly 52–93 per 100,000 vs 19–39 per 100,000) — but **rheumatoid arthritis prevalence appears lower** in Indigenous Australians based on published literature, the opposite direction from OA/SLE. This disease-specific variation matters — "arthritis is more common in this population" isn't accurate applied uniformly across all rheumatological conditions.
-> - **A genuinely striking, specific treatment-access gap for OA**: Aboriginal and Torres Strait Islander people with hip or knee osteoarthritis access primary care at **half the rate** expected based on disease incidence, and are correspondingly **half as likely to receive hip or knee replacement surgery** compared with non-Aboriginal people with the same condition — this mirrors the surgical-access pattern already established for lung cancer (see [[02_Respiratory]] Lung Cancers, not repeated here) and renal transplant (see [[07_Renal_Medicine_and_Urology]] Renal transplant, not repeated here): a recurring theme across multiple, unrelated conditions where Indigenous Australians access surgical/definitive treatment at a lower rate than disease burden alone would predict.
-> - **Recognised barriers are structural and relational, not individual**: cultural safety concerns, experiences of racism within health services, communication difficulties with practitioners, and lower health literacy resources historically available (Arthritis Australia only launched Australia's first culturally-appropriate arthritis resources for Aboriginal and Torres Strait Islander people in 2023–24) — addressing this gap requires health-system and resource design changes, not just patient-level intervention.
-
-### OA of the hip
-
-- Chronic history of groin ache, worse with exercise, better with rest — described as a "C sign" (patient cups hand in a C-shape over the lateral hip/groin to indicate pain location).
-- Oxford Hip Score used to assess severity — a 12-item, patient-reported questionnaire (scored 0–48, higher = better function) covering pain and functional difficulty, used mainly to track symptom severity over time and to help prioritise surgical waiting lists rather than as a diagnostic tool; a persistently low score despite conservative management is one factor supporting referral for joint replacement.
-
-### OA of the knee
-
-> [!note] Gap-filled — genuinely absent despite the knee being explicitly the most common site for OA (per "Knee > hip > hand in frequency" above), while the two less common sites (hip, hand) both already had dedicated subsections.
-
-- Pain with activity, worse at the end of the day; medial compartment most commonly affected given it bears more load than the lateral compartment; ± crepitus, effusion, quadriceps wasting in advanced disease.
-- Varus (bow-legged) deformity is a common late finding, reflecting the medial compartment's predominant involvement.
-- Oxford Knee Score used to assess severity — the same 12-item, patient-reported structure as the Oxford Hip Score above (scored 0–48, higher = better function), not repeated here.
-- See the **Kellgren-Lawrence (K-L) grading** box under Investigations below (not repeated here) for the radiographic severity scale most commonly applied to this joint specifically.
-
-### OA of the hand
-
-- Possibly positive family history, F>M, >55 years old; increases risk for hip and knee OA.
-- **R:** hypermobility, increased hand-intensive work.
-- Usually bilateral; affects the basal thumb joint (CMC) and DIPs.
-- Episodic (intermittent) joint pain; short-duration stiffness.
-- Painless nodes — Heberden's (DIP), Bouchard's (PIP), secondary to osteophytes.
-- Squaring of the thumbs (causes fixed adduction of the thumb).
-
-> [!danger] Rest pain, night pain, or morning stiffness >2h should prompt consideration of an alternative diagnosis (e.g. inflammatory arthritis).
-
-### Investigations
-
-> [!tip] Mnemonic — "LOSS" for XR findings in OA
-> - **L**oss of joint space
-> - **O**steophyte formation
-> - **S**ubchondral cysts
-> - **S**clerosis
-
-> [!note] Gap-filled — the four radiographic features above are present, but no severity grading system existed to interpret them together. **Kellgren-Lawrence (K-L) grading** is the standard radiographic severity scale, genuinely relevant given it informs the management threshold below (e.g. joint replacement is generally considered for higher-grade disease with correlating symptoms, not offered purely on symptom severity without radiographic correlation):
-> - **Grade 0:** no radiographic features of OA.
-> - **Grade 1:** doubtful joint space narrowing, possible osteophytic lipping.
-> - **Grade 2:** definite osteophytes, possible joint space narrowing.
-> - **Grade 3:** moderate osteophytes, definite joint space narrowing, some sclerosis.
-> - **Grade 4:** large osteophytes, marked joint space narrowing, severe sclerosis, definite bony deformity.
-> A genuinely important caveat: **radiographic severity correlates poorly with symptom severity** — a patient can have severe pain with only mild K-L changes, or significant K-L grade with minimal symptoms, so grading informs but does not replace clinical assessment when deciding on management, particularly surgical referral.
-
-- Rule out RA if needed (FBC, RF, anti-CCP).
-
-### Management
-
-- **Conservative + medical:** weight loss, muscle strengthening; non-prescription options — supports, braces, TENS, shock-absorbing insoles/shoes; paracetamol, NSAIDs; opioids, capsaicin cream, intra-articular corticosteroids.
-
-> [!warning] A PPI must be co-prescribed with NSAIDs.
-
-- **Surgical (joint replacement):** for patients with significant pain.
-  - Hips: cemented hip replacement, uncemented hip replacement (in younger, more active patients — more expensive), hip resurfacing (preserves the femoral neck).
-  - Post-op: physiotherapy, home exercises, walking sticks/crutches for ≤6 weeks.
-  - Advice to avoid dislocation: avoid flexing the hip >90°, avoid low chairs, do not cross legs, sleep on back for the first 6 weeks.
-
-> [!warning] Complications of joint replacement: VTE, fracture, nerve injury, surgical site infection, leg-length discrepancy.
-> - Posterior dislocation — presents acutely with a clunk, pain, inability to weight bear. O/E: internal rotation, shortening of the affected leg.
-> - Aseptic loosening — the most common reason for revision surgery — and prosthetic joint infection.
-
-## Psoriatic arthritis (PsA)
-
-- **D:** chronic inflammatory joint disease associated with psoriasis. Oligo- or mono-articular initial pattern + DIP joint involvement.
-- **R:** psoriasis, family history of psoriasis or PsA.
-- **A/P:** likely genetic, associated with HLA-B27. Seronegative. CD8 T-cells attack the joints.
-- **S/Smx:**
-  - Symmetric polyarthritis (similar to RA), OR asymmetrical oligoarthritis of the hands and feet (less common than the symmetric pattern).
-  - Sacroiliitis.
-  - DIP joint disease (10%).
-  - Arthritis mutilans — severe deformity of the hands ("telescoping fingers").
-  - Nail changes (80–90%): pitting, onycholysis, subungual hyperkeratosis, loss of the nail.
-  - ± Psoriatic skin lesions.
-  - ± Periarticular disease: enthesitis, tenosynovitis (especially hand flexors), dactylitis (uniquely associated with psoriatic arthritis).
-- **Ix:** XR — erosive changes, new bone formation, periostitis, "pencil in cup" appearance. Bloods — ESR, CRP, RF, anti-CCP.
-- **Exacerbating factors:** trauma, alcohol, drugs (beta-blockers, lithium, antimalarials, NSAIDs, ACE inhibitors, infliximab), withdrawal of steroids. Strep infection for guttate psoriasis.
-- **Mx:** treat as for RA. With mild arthritis, NSAID monotherapy may be sufficient. Ustekinumab and secukinumab are options.
-- **P:** better than RA.
-
-
-<!-- ===== SOURCE: 12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS.md ===== -->
-
-
-## 0.1 Ankylosing spondylitis
-
-- **D:** chronic progressive inflammatory arthropathy of primarily the axial skeleton.
-- **R:** family history (97% heritability), HLA-B27, ERAP1 and IL23R genes, young age, M>F.
-
-> [!info] New York criteria for diagnosis
-> 1. Low back pain ≥3 months, improved by exercise, not relieved by rest — may come on at night and improve on getting up.
-> 2. Limited lumbar spinal motion — **Schober's test**: with the patient standing, mark the L5 spinous process (level with the "dimples of Venus"/posterior superior iliac spines) and a point 10cm above it; ask the patient to bend forward maximally (knees straight); the distance between the two marks should increase by ≥5cm in a normal spine — **an increase of <5cm ("Schober's test positive" or "reduced") indicates limited lumbar flexion**, consistent with axial spondyloarthritis.
-> 3. ↓chest expansion for age/sex.
-> 4. XR evidence of sacroiliitis — bilateral grade 2 to 4, or unilateral grade 3 to 4.
-
-> [!tip] Mnemonic for extra-articular features — the "A's": **A**pical fibrosis, **A**nterior uveitis, **A**ortic regurgitation, **A**chilles tendonitis, **A**V node block, **A**myloidosis; also cauda equina and peripheral arthritis.
-
-- **Ix:** XR — changes only apparent in later disease: sacroiliitis (subchondral erosions), squaring of the lumbar vertebrae, "bamboo spine" (late, uncommon), syndesmophytes (secondary to ossification of the annulus fibrosus). CXR — apical fibrosis. If XR negative, MRI may capture earlier changes. Spirometry — restrictive defect.
-- **Mx:** regular exercise, physiotherapy; NSAIDs; anti-TNFα drugs if refractory; DMARDs only useful if there is peripheral joint involvement.
-
-> [!note] Gap-filled — BASDAI was genuinely absent despite being the standard AS-specific disease activity monitoring tool, directly analogous to DAS28's role in RA (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Rheumatoid arthritis (RA), not repeated here) — both drive treat-to-target treatment escalation decisions in their respective conditions.
-
-**BASDAI (Bath Ankylosing Spondylitis Disease Activity Index):** a patient-reported outcome measure — six questions, each scored 0–10 on a visual analogue scale, covering fatigue, spinal pain, peripheral joint pain/swelling, localised tenderness (enthesitis), morning stiffness severity, and morning stiffness duration — averaged into a single 0–10 score. **BASDAI ≥4 indicates active disease** and is the threshold commonly used to justify escalating to biologic therapy (e.g. anti-TNFα agents) where conventional management (NSAIDs, physiotherapy) hasn't achieved adequate control — genuinely analogous to how a DAS28 above threshold drives escalation in RA, though BASDAI is entirely patient-reported (a symptom questionnaire) rather than combining an objective joint examination and inflammatory marker the way DAS28 does.
-
-## 0.2 Gout
-
-- **D:** mono/oligo-articular inflammatory microcrystal synovitis.
-- **A/P:** chronic hyperuricaemia (>450 μmol/L) increases risk of crystal formation.
-- **R:** ↑age (>40), M>F, menopause, consumption of meat/seafood/alcohol, drugs (diuretics, ciclosporin, tacrolimus, pyrazinamide, aspirin), family history, ↑cell turnover rate.
-- **S/Smx:** 70% affect the first MTP joint ("podagra") — urate crystal solubility is temperature-dependent, and cooler, peripheral joints (first MTP, ears, other distal joints) favour crystal precipitation, which is why gout classically presents distally rather than in more central/proximal joints; rapid onset severe pain, joint stiffness, swelling and joint effusion, tenderness ± tophi.
-- **Ix:** synovial fluid analysis — needle-shaped, negatively birefringent monosodium urate crystals under polarised light. Serum uric acid levels (check 2 weeks after an acute episode). XR.
-
-> [!note] Family history consideration — Lesch-Nyhan syndrome (enzyme deficiency, X-linked recessive [M>>F]) presents with gout, renal failure, neurological deficits, learning difficulties, and self-mutilation.
-
-### 0.2.1 Management
-
-- **Acute:** NSAIDs, colchicine (colchicine has a slower onset, also causes diarrhoea), or PO steroids (e.g. prednisolone 15mg/day) or intra-articular steroids — equally efficacious options, with the choice guided by comorbidities and concomitant drugs. **Colchicine dose (Australian Medicines Handbook/Australian Prescriber-verified, Aug 2026): 1mg as soon as possible, then 500 micrograms (0.5mg) one hour later — maximum 1.5mg per course, and do not repeat the course within 3 days.** This is a genuinely low, specific total dose reflecting the now-established shift toward low-dose colchicine strategies (similar efficacy to older, much higher-dose regimens, with an adverse-effect profile not significantly different from placebo) — worth stating explicitly rather than leaving colchicine undosed, given a remembered "high-dose"/hourly-until-diarrhoea regimen from older teaching would be both outdated and genuinely more toxic than current practice. **Colchicine is a substrate of CYP3A4 and P-glycoprotein**, with clinically relevant interactions including calcium channel blockers (diltiazem, verapamil), macrolides, calcineurin inhibitors, digoxin, and dabigatran — worth an active medication check before prescribing, not an assumed-safe default.
-
-> [!tip] If the patient is already on allopurinol, continue it during an acute attack.
-
-> [!info] Indications for urate-lowering therapy: after the first attack of gout, especially if ≥2 attacks in 12 months, tophi, renal disease, uric acid renal stones; prophylaxis if starting cytotoxics or diuretics.
-
-- **Prophylactic:** allopurinol 100mg OD (**lower starting dose required in renal impairment** — starting dose should be guided by renal function per current AU guidance, not a fixed 100mg regardless of eGFR), titrate to uric acid <300 μmol/L — consider starting only after the acute episode is over, with colchicine/NSAID cover (≤6 months). See [[09_01_Dermatology_-_Dermatological_Emergencies]] Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN) for the genuinely important HLA-B*58:01/allopurinol hypersensitivity association, not repeated here. Febuxostat as an alternative. 3rd line (refractory): uricase, IV pegloticase. *(And read the eGFR itself with care — see [[07_Renal_Medicine_and_Urology]] Chronic Kidney Disease (CKD) for why an eGFR overestimates function in a low-muscle-mass patient and is invalid while creatinine is unstable, both of which bite hardest exactly where a renally-dosed drug is being started.)*
-
-## 0.3 Pseudogout
-
-- **D:** microcrystal synovitis caused by the deposition of calcium pyrophosphate dihydrate crystals in the synovium — more accurately termed acute calcium pyrophosphate crystal deposition disease.
-- **R:** ↑age. Risk factors for pseudogout at <60 years old: haemochromatosis, hyperparathyroidism, ↓Mg, ↓PO4, acromegaly, Wilson's disease.
-- **S/Smx:** painful and tender joints — knee, wrist and shoulders most commonly affected. Chronic form mimics OA/RA, with variable degrees of inflammation.
-- **Ix:** arthrocentesis with synovial fluid analysis — weakly positively birefringent, rhomboid-shaped crystals. XR — chondrocalcinosis.
-- **Mx:** arthrocentesis (to exclude septic arthritis); NSAIDs ± intra-articular, intramuscular, or PO steroids as for gout.
-
-## 0.4 Reactive arthritis
-
-- **D:** inflammatory arthritis that occurs after exposure to certain GI and GU infections.
-- **R:** M>F, HLA-B27, preceding chlamydial or GI infection.
-- **A/P:** associated with *Shigella*, *Salmonella*, *Yersinia*, *Campylobacter*, *Chlamydia*. Possibly triggered by bacterial DNA in synovial tissue. One of the HLA-B27-associated seronegative spondyloarthropathies.
-
-> [!tip] Mnemonic — "can't see, can't pee, can't climb a tree" (urethritis, conjunctivitis, arthritis).
-
-- **Ix:** history taking; bloods (ESR, CRP, ANA, RF, ?HLA-B27).
-- **Mx:** symptomatic — analgesia, NSAIDs, intra-articular steroids. Persistent disease — sulfasalazine, MTX.
-- **P:** symptoms rarely last >12 months.
-
-## 0.5 Polymyalgia rheumatica
-
-- **D:** an inflammatory rheumatologic syndrome. Associated with giant cell arteritis (GCA) in some patients.
-- **R:** ≥50 years old, association with GCA, possibly F>M.
-- **A/P:** unknown/unclear.
-- **S/Smx:** rapid onset (<1 month). Aching, morning stiffness in the proximal limbs (NOT true weakness). Others: mild polyarthralgia, lethargy, depression, low-grade fever, anorexia, night sweats.
-- **Ix:** ↑ESR (>40). Normal CK and EMG.
-- **Mx:** prednisolone (e.g. 15mg OD) — patient usually responds dramatically, within 24h. If no response, consider an alternative diagnosis. Continue until ESR/CRP resolves. Taper slowly — treatment usually lasts ~1 year.
-
-## 0.6 Fibromyalgia
-
-- **D:** chronic pain syndrome diagnosed by the presence of widespread body pain.
-- **R:** family history, rheumatological conditions, age 20–60, F>M.
-- **A/P:** CNS pain or sensory amplification — "nociplastic pain"; centralisation of pain.
-- **S/Smx:** hyperalgesia, allodynia; multiple sites — "pain all over"; lethargy, cognitive impairment ("fibro fog"), sleep disturbances, headache, dizziness.
-
-> [!note] Gap-filled — "Dx: clinical" gave no actual criteria; genuinely worth specifying given the diagnostic approach changed substantially in 2010/2016, a point worth knowing explicitly to avoid the outdated tender-point approach.
-
-- **Dx:** current diagnostic approach (2016-revised ACR criteria) moved **away from the older physical examination of 18 specific tender points** (the pre-2010 standard) toward two patient-reported scales:
-  - **Widespread Pain Index (WPI):** number of body regions (out of 19) with pain in the past week.
-  - **Symptom Severity Scale (SSS):** rates fatigue, waking unrefreshed, and cognitive symptoms (0–3 each), plus additional somatic symptoms — total 0–12.
-  - **Diagnostic threshold:** WPI ≥7 and SSS ≥5, **or** WPI 3–6 and SSS ≥9; plus generalised pain in ≥4 of 5 body regions, present at a similar level for ≥3 months, not better explained by another condition (though fibromyalgia can coexist with another diagnosis — it doesn't require exclusion of all other pathology).
-  - Bloods (FBC, ESR/CRP, TFTs) are typically normal, and are mainly useful to exclude an alternative or coexisting cause rather than to confirm the diagnosis — over-testing beyond a reasonable baseline is generally discouraged given fibromyalgia is fundamentally a clinical diagnosis.
-- **Mx:** bio-psycho-social model — patient education, CBT; aerobic exercise (most evidence); pregabalin, duloxetine, TCAs.
-
-## 0.7 Chronic fatigue syndrome (myalgic encephalomyelitis)
-
-- **D:** condition characterised by disabling fatigue affecting mental and physical function more than 50% of the time for at least 3 months. Symptoms not better attributed to another disorder.
-- **R:** F>M, lower socioeconomic status, ↑BMI, increased physiological toll (e.g. pregnancy, inadequate rest), chronic health conditions (e.g. diabetes, cancer), psychological stress (e.g. depression).
-- Cause and pathology are not well understood.
-- **S/Smx:** tiredness/fatigue; sleep problems (↑ or ↓ sleep); myalgia, arthralgia; headache; painful lymph nodes; sore throat; "flu-like" symptoms; cognitive dysfunction (e.g. inability to concentrate); dizziness, nausea; palpitations.
-- **Ix:** performed to rule out other conditions, especially cancer.
-  - "Tired all the time" (TATT) bloods: FBC, U&Es, LFTs, TFTs, ESR/CRP, HbA1c, IgA TTG, CK, bone profile + consider vitamin D, vitamin B12 & folate, iron studies, monospot test, HIV test, hepatitis serology, early morning cortisol. CK will be normal.
-  - Other tests: urine dip, CXR, sputum samples for TB.
-- **Mx:** refer to a specialist CFS/ME service. Energy management — help with managing energy levels to continue functioning. Physical activity & exercise, under advice of an ME/CFS specialist team. Cognitive behavioural therapy.
-
-> [!info] Verified — this is a genuinely current, actively contested area, not a simple "NICE says X, check locally" case. The UK's NICE (2021 update) moved away from recommending graded exercise therapy (GET) as a primary treatment, largely due to concerns about post-exertional malaise (PEM) — worsening of symptoms following exertion, now considered a core diagnostic feature of ME/CFS rather than a sign the patient should push through. **Australia's position is currently different and specifically contested**: Australia's last full official clinical guideline dates to 2002 (RACGP/Royal Australasian College of Physicians), and the RACGP's own patient-resource HANDI guide was updated as recently as 2024 to *still* recommend incremental/graded physical activity — a position patient advocacy groups (e.g. Emerge Australia) have specifically and publicly criticised as outdated, not evidence-based, and out of step with the post-exertional-malaise-focused international shift reflected in NICE's 2021 update. The NHMRC is currently developing Australia's first fully updated ME/CFS clinical guidelines in over 20 years (project underway, not yet complete as of the most recent information available), specifically in response to this controversy. **Given this is a live, unresolved guideline transition rather than a settled position, don't state either "graded exercise is recommended" or "graded exercise is not recommended" as a fixed Australian fact** — the honest current picture is that official Australian guidance still endorses it while this is actively disputed and under review, which is itself the more accurate and exam-relevant thing to know than either extreme.
-
-
-<!-- ===== SOURCE: 12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_.md ===== -->
-
-
-## Systemic lupus erythematosus (SLE)
-
-- **D:** chronic multisystem disorder characterised by the presence of ANA.
-- **R:** F>M, onset commonly age 20–40; drug-induced lupus can occur with sulfasalazine, isoniazid, phenytoin, or carbamazepine.
-- **A/P:** type III hypersensitivity reaction — immune system dysregulation → immune complex formation → can affect any organ.
-
-> [!tip] Mnemonic — "RASH or PAIN" for SLE features:
-> - **Rash:** malar, discoid (discoid = scaly, red, well-demarcated rash in sun-exposed areas).
-> - **Arthritis, arthralgia.**
-> - **Serositis:** pleuritis, pericarditis.
-> - **Haematologic:** cytopenias, ITP, etc.
-> - **Oral, nasopharyngeal ulcers.**
-> - **Renal disorders, Raynaud's.**
-> - **Photosensitivity.**
-> - **ANA positive.**
-> - **Immunoglobulins:** anti-dsDNA, anti-Smith, antiphospholipid antibodies.
-> - **Neurologic:** seizures, psychosis.
-
-- **Ix:** autoimmune screen — 99% ANA positive, 70% anti-dsDNA positive, 30% anti-Smith positive, etc. ESR monitored; ↑CRP may indicate infection instead of a flare. ↓complement levels during active disease. Anti-dsDNA titres may be monitored to track disease activity if positive.
-- **Mx:** NSAIDs, sunblock, hydroxychloroquine (first-line). If internal organ involvement — prednisolone, cyclophosphamide.
-
-### Lupus nephritis
-
-> [!info] WHO classification
-> - **Class I:** normal kidney.
-> - **Class II:** mesangial glomerulonephritis.
-> - **Class III:** focal, segmental proliferative GN.
-> - **Class IV:** diffuse proliferative GN — most common and severe class; "wire-loop" appearance, thickened capillary wall, immune complex deposits, granular appearance.
-> - **Class V:** diffuse membranous GN.
-> - **Class VI:** sclerosing GN.
-
-- **Mx:** **hydroxychloroquine for all patients with lupus nephritis unless contraindicated** — foundational rather than optional, and the piece most easily missed because it is not the immunosuppressant. Treat hypertension (RAS blockade). Initial therapy for Class III and IV — glucocorticoids + mycophenolate or cyclophosphamide. Subsequent therapy — mycophenolate, azathioprine.
-  - The hydroxychloroquine recommendation was added to [[07_Renal_Medicine_and_Urology]] Lupus Nephritis when that entry was updated against the **KDIGO 2024 Lupus Nephritis Guideline**, and **was not carried across to here** — found by the pairs audit (2026-08-29). That entry owns the full KDIGO regimen and the induction/maintenance detail.
-- **P:** can result in end-stage kidney disease requiring transplant. Monitor with urine dipstick to check for proteinuria.
-
-## Systemic sclerosis (scleroderma)
-
-- **D:** multi-system autoimmune disease characterised by functional and structural abnormalities of small blood vessels, fibrosis of skin and internal organs, and production of autoantibodies.
-- **R:** family history, immune dysregulation (e.g. positive ANA), F>M (4:1).
-
-> [!info] LeRoy classification
-> - **Diffuse cutaneous systemic sclerosis:** skin thickening on the proximal extremities or trunk + face and distal extremities. Associated with Scl-70 antibodies. Respiratory involvement — 80% interstitial lung disease, pulmonary artery hypertension (most common cause of death). Also renal disease, hypertension. Poor prognosis.
-> - **Limited cutaneous systemic sclerosis:** skin thickening confined to sites distal to the elbows and knees ± face. Associated with anti-centromere antibodies.
-
-> [!tip] Mnemonic — "CREST" for limited cutaneous systemic sclerosis features: **C**alcinosis, **R**aynaud's, **E**sophageal dysmotility, **S**clerodactyly, **T**elangiectasia.
-
-> - **Sine scleroderma:** no skin involvement.
-> - **"Pure" scleroderma:** no internal organ involvement — tightening and fibrosis of skin; plaques (morphea) or linear.
-
-- **Ix:** serum autoantibodies, full bloods, ESR, CRP, pulmonary function tests, ECG, echo, CXR, barium swallow, etc.
-- **Mx:** according to symptoms (e.g. ACE inhibitor for renal disease, CCB for Raynaud's). DMARDs for advanced/severe disease.
-- **P:** mean survival ~12 years after diagnosis.
-
-## Dermatomyositis
-
-- **D:** idiopathic autoimmune inflammatory myopathy characterised by distinctive skin manifestations.
-- **R:** family history, children or >40 years old, F>M, Black ethnicity, UV radiation. May be associated with underlying malignancy (typically ovarian, breast, lung) — screen for underlying cancer.
-- **A/P:** autoimmune; autoantibodies present; evidence of T-cell mediated muscle injury; complement-mediated vascular damage.
-- **S/Smx — myositis:** proximal muscle weakness ± tenderness; Raynaud's; respiratory muscle weakness; interstitial lung disease; dysphagia, dysphonia.
-- **S/Smx — skin lesions:** photosensitive; macular rash over the back, shoulder; periorbital heliotrope rash; Gottron's papules; "mechanic's hands" (extremely dry and scaly hands with linear cracks); nail fold capillary dilatation.
-- **Ix:** ↑↑CK, serum aldolase, muscle and skin biopsy (vasculitis), abnormal EMG. 70% ANA positive; the remainder have antibodies to anti-Jo-1, anti-SRP, anti-Mi2.
-- **Mx:**
-  - Acute flares: IV corticosteroids ± IVIG; DMARD, rituximab.
-  - Ongoing disease: PO steroids; sun protection; topical steroids for skin lesions ± treatment of underlying malignancy if present.
-
-## Polymyositis
-
-- **D:** idiopathic autoimmune inflammatory myopathy characterised by muscle inflammation only.
-- Similar to dermatomyositis, apart from not having skin lesions — the myositis features (proximal muscle weakness, ↑↑CK, muscle biopsy, EMG changes) and management approach broadly mirror dermatomyositis (see above), minus the skin-directed treatment.
-- **R:** F>M, >30 years old, African descent in Europe/US, and Asian ethnicity; drug triggers (sulfasalazine, isoniazid, phenytoin, carbamazepine).
-
-## Sjögren syndrome
-
-- **D:** chronic inflammatory and autoimmune disorder characterised by diminished lacrimal and salivary gland secretion.
-- **R:** F>M, SLE, RA, scleroderma, HLA II markers, age 20–30 or onset after menopause.
-- **A/P:** immunological, genetic, hormonal, and viral components ± oestrogen involvement.
-- **S/Smx:** dry eyes (keratoconjunctivitis sicca); dry mouth; vaginal dryness; arthralgia; Raynaud's, myalgia; sensory polyneuropathy; recurrent episodes of parotitis; renal tubular acidosis (usually subclinical).
-- **Ix:** RF positive in 50%, ANA positive in 70%, anti-Ro (SSA) positive in 70%, anti-La (SSB) positive in 30%. Schirmer's test — filter paper near the conjunctival sac to measure tear formation. Histology: focal lymphocytic infiltration. ± hypergammaglobulinaemia, low C4.
-- **Mx:** artificial tears and saliva ± pilocarpine to stimulate saliva production.
-
-> [!warning] Markedly increased risk of lymphoid malignancy (40–60× baseline).
-
-*(See [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] and [[10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders]] for related haematological topics, e.g. the lymphoid malignancy risk noted above.)*
-
-
-<!-- ===== SOURCE: 12_04_Rheum_-_Vasculitis.md ===== -->
-
-
-## Vasculitis — overview
-
-- **D:** inflammation of the blood vessels. Usually refers to autoimmune systemic vasculitides.
-- **R:** age >50, white ancestry, sex (depends on the specific disorder).
-- **A/P:** autoimmune. Fibrinoid necrosis of the vessel wall with fragmentation of chromatin into unstructured granules and RBC extravasation.
-- **S/Smx:** constitutional symptoms. General: abdominal pain, foot drop, wrist drop, ulcers, haematuria, purpura, nasal symptoms, sinus pain, wheeze. (See specific conditions below for detailed symptoms.)
-- **Ix:** ESR, CRP, ANCA, U&E, urinalysis, biopsy of affected tissue.
-- **Mx:** corticosteroids + bone-protective agents, cyclophosphamide.
-- **P:** likely lifelong management required.
-
-> [!info] Classification by vessel size
-> - **Large-vessel:** Takayasu's arteritis; giant cell arteritis.
-> - **Medium-vessel:** polyarteritis nodosa; Kawasaki disease.
-> - **Small-vessel:** granulomatosis with polyangiitis (Wegener's); microscopic polyangiitis; eosinophilic granulomatosis with polyangiitis (Churg-Strauss); cryoglobulinaemic vasculitis; Henoch-Schönlein purpura; leukocytoclastic angiitis.
-> - **Variable-vessel:** Cogan syndrome; Behçet's disease.
-> - **Single-organ:** cutaneous leukocytoclastic angiitis; cutaneous arteritis; primary CNS vasculitis; isolated aortitis.
-
-## Granulomatosis with polyangiitis (GPA, formerly Wegener's)
-
-- **D:** autoimmune condition associated with a necrotising granulomatous vasculitis, affecting both the upper and lower respiratory tract and kidneys.
-- **S/Smx:**
-  - Upper respiratory tract: epistaxis, sinusitis, nasal crusting.
-  - Lower respiratory tract: dyspnoea, haemoptysis.
-  - Rapidly progressive glomerulonephritis ("pauci-immune", 80% of cases).
-  - Saddle-shape nose deformity.
-  - Also: vasculitic rash, eye involvement (e.g. proptosis), cranial nerve lesions.
-- **Ix:** cANCA positive >90%, pANCA positive in 25%. CXR — wide variety of appearances. Renal biopsy — epithelial crescents in Bowman's capsule.
-- **Mx:** steroids; cyclophosphamide; plasma exchange.
-- **P:** median survival 8–9 years.
-
-## Eosinophilic granulomatosis with polyangiitis (EGPA, formerly Churg-Strauss)
-
-- **D:** autoimmune condition associated with a necrotising granulomatous vasculitis, affecting (predominantly, possibly exclusively) the respiratory tract.
-- **S/Smx:** asthma; blood eosinophilia (e.g. >10%); paranasal sinusitis; mononeuritis multiplex.
-- **Ix:** pANCA positive in ~60%.
-- **Mx:** the same general vasculitis treatment principles as the overview above (corticosteroids ± cyclophosphamide for severe/organ-threatening disease, given this shares the same underlying small-vessel ANCA-associated vasculitis mechanism as GPA and microscopic polyangiitis) — not repeated here; **specific to EGPA, ongoing asthma control is itself part of disease management**, given the condition's close relationship to severe/late-onset asthma, and mepolizumab (an anti-IL-5 monoclonal antibody, also used in severe eosinophilic asthma) has a specific, evidence-supported role here given the eosinophil-driven pathophysiology — a genuinely EGPA-specific treatment option beyond the general vasculitis approach shared with GPA/microscopic polyangiitis.
-
-### GPA vs EGPA — comparison
-
-| Feature | GPA (Wegener's) | Shared | EGPA (Churg-Strauss) |
-|---|---|---|---|
-| Key ANCA pattern | cANCA (>90%) | Vasculitis, sinusitis, dyspnoea | pANCA (~60%) |
-| Distinguishing features | Renal failure, epistaxis, haemoptysis | — | Asthma, eosinophilia |
-
-> [!note] Gap-filled — cANCA/pANCA above describes the **immunofluorescence staining pattern**; the actual **antigen target** each pattern usually reflects (PR3 or MPO) was never explained, despite being the more clinically important distinction in current diagnostic practice.
-
-**PR3 (proteinase 3) and MPO (myeloperoxidase) are the actual autoantigens** the ANCA antibodies bind — the cANCA/pANCA immunofluorescence pattern is really just an indirect readout of which antigen the antibody targets, given a technical fixation artefact: anti-PR3 antibodies typically produce a diffuse granular cytoplasmic staining pattern (cANCA), while anti-MPO antibodies typically produce a perinuclear pattern (pANCA). **Current international consensus recommends antigen-specific immunoassays (PR3-ANCA/MPO-ANCA testing) as the primary, first-line test — not immunofluorescence pattern alone** — given genuinely superior diagnostic accuracy; IIF (the cANCA/pANCA pattern) is now used as an adjunct/confirmatory test rather than the primary screening method.
-
-**The correlation between pattern and antigen, and between antigen and disease, is strong but genuinely not absolute** — a frequently-tested "gotcha" point: roughly 10–20% of GPA patients are actually MPO-ANCA positive (not PR3), and a similarly meaningful proportion of MPA/EGPA patients are PR3-ANCA positive rather than MPO — so a specific ANCA result should inform, not replace, clinical judgement, and an "unexpected" antigen result doesn't exclude the clinically-suspected diagnosis. **PR3-ANCA/GPA correlation is somewhat stronger than MPO-ANCA/MPA correlation** in most series, though neither is 100%.
-
-## Giant cell arteritis (GCA)
-
-> [!warning] FLAG 2026-09-01 — GCA is in four places and only one pointer is correct
-> Here · `L3 §0.3 Giant Cell Arteritis — The Overlap` (this file) ·
-> `Neuro_merged ## Temporal Arteritis` — **which correctly defers here**, saying it *"covers only the
-> headache aspect"* · `Neuro_merged D1 §0.4 Secondary Headaches Worth Knowing`.
-> **The Neuro deferral is the model; the other three are unmarked.** Flagged, not merged.
-
-- **D:** granulomatous vasculitis of large and medium-sized arteries.
-- **R:** >50 years old, F>M, possible family history.
-- **S/Smx:**
-  - Site: branches of the external carotid artery, especially the temporal artery; skip lesions.
-  - Onset: <1 month.
-  - Character: tender, palpable temporal artery + headache (85%); jaw claudication (65%); ocular complications (majority anterior ischaemic optic neuropathy) — fundoscopy shows a swollen, pale disc with blurred margins.
-
-> [!danger] Amaurosis fugax can progress to permanent blindness (see [[05_Ophthalmology]] Anterior Ischaemic Optic Neuropathy (AION) for the GCA-related visual loss detail, not repeated here).
-
-  - Associated with polymyalgia rheumatica (50% — aching, morning stiffness in proximal limbs).
-  - Also: lethargy, depression, low-grade fever, anorexia, night sweats.
-- **Ix:** ↑ESR >50, possibly ↑CRP. Temporal artery biopsy — histology shows multinucleated giant cells. Duplex ultrasound of the temporal artery may show a "hypoechoic halo sign".
-
-> [!tip] CK and EMG should be normal in GCA — useful to distinguish from myositis.
-
-- **Mx:**
-
-> [!danger] Urgent 60mg prednisolone PO. If no visual loss, high-dose prednisolone. If visual loss, **IV methylprednisolone 500mg–1g/day for 3 days**, then switch to PO prednisolone — there should be a dramatic response in patients with visual symptoms. Same-day ophthalmology review. Do not delay steroid treatment while awaiting temporal artery biopsy, given biopsy findings remain positive for at least 1–2 weeks after starting steroids.
-
-  - If treated with steroids, co-prescribe a bisphosphonate.
-  - Consider low-dose aspirin.
-- **P:** treatment usually required for 1–2 years. Early neuro complications: vision loss, CVA. Late complications: relapses, CVA, aortitis leading to aortic aneurysm and aortic dissection.
-
-## Takayasu's arteritis
-
-- **D:** chronic granulomatous vasculitis affecting large arteries — primarily the aorta and its main branches.
-- **R:** family history, F>M, <40 years old, Asian (Japanese) ethnicity.
-- **S/Smx:** systemic features of vasculitis (e.g. malaise, headache); unequal BP in the upper limbs; carotid bruit and tenderness; absent or weak peripheral pulses; upper or lower limb claudication on exertion; aortic regurgitation (~20%); associated with renal artery stenosis.
-- **Ix:** ↑ESR (>50), ↑CRP; CTA or MRA (shows segmental narrowing or occlusion of affected vessels).
-- **Mx:** prednisolone (high to low dose), aspirin, alendronate.
-- **P:** relapsing disease; cardiac failure is a common cause of death.
-
-## Polyarteritis nodosa (PAN)
-
-- **D:** necrotising inflammation of medium-sized or small arteries, without glomerulonephritis or vasculitis in arterioles, capillaries, or venules.
-- **R:** hepatitis B, age 40–60, M:F 2:1.
-- **A/P:** triggers — immune complexes, endothelial dysfunction, etc. → intimal proliferation → thrombosis → ischaemia or infarction of organ/tissue ± aneurysm.
-- **S/Smx:** fever, malaise, arthralgia, weight loss, hypertension; mononeuritis multiplex, sensorimotor polyneuropathy (see [[04_Neurology]] for the general peripheral neuropathy differential this fits into, not repeated here); testicular pain; livedo reticularis; haematuria, renal failure.
-- **Ix:** ANCA positive in 20% of "classic" PAN. Hepatitis B serology positive in 30%. CRP, ESR, FBC, rheumatology screen, etc.
-- **Mx:** PO prednisolone, DMARD — cyclophosphamide ± IV methylprednisolone.
-
-## Microscopic polyangiitis
-
-- **D:** small-vessel ANCA vasculitis.
-- **S/Smx:** renal — ↑creatinine, haematuria, proteinuria; fever, lethargy, myalgia, weight loss; rash — palpable purpura; cough, dyspnoea, haemoptysis; mononeuritis multiplex.
-- **Ix:** pANCA positive in 50–75%, cANCA positive in 40%.
-- **Mx:** the same general ANCA-associated vasculitis treatment approach as GPA above (corticosteroids + cyclophosphamide or rituximab for remission induction in severe/organ-threatening disease, given microscopic polyangiitis shares the same small-vessel ANCA-associated mechanism, distinguished from GPA mainly by the absence of granulomatous inflammation and upper respiratory tract involvement) — not repeated here; plasma exchange may be considered for severe renal involvement or pulmonary haemorrhage, analogous to its use in GPA.
-
-## Henoch-Schönlein purpura (HSP)
-
-- **D:** IgA-mediated small vessel vasculitis. Associated with IgA nephropathy.
-- **S/Smx:** palpable purpuric rash (+ localised oedema) over the buttocks and extensor surfaces of the arms and legs; abdominal pain; polyarthritis; ± IgA nephropathy (haematuria, AKI).
-- **Mx:** analgesia, supportive treatment of nephropathy; inconsistent support for steroids and DMARDs.
-- **P:** generally good, self-limiting in children. Monitor BP and urinalysis. 1/3 of patients have a relapse.
-
-> [!note] See [[15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP]] Henoch-Schönlein purpura (HSP, IgA vasculitis) for the fuller paediatric-specific detail (risk factors, DDx to actively rule out, and specific complications) — HSP is predominantly a paediatric presentation, so that entry carries the more detailed clinical picture, not repeated here.
-
-## Behçet's syndrome
-
-- **D:** complex multisystem disorder associated with presumed autoimmune-mediated inflammation of the arteries and veins.
-- **R:** Eastern Mediterranean ancestry, M>F, young adults (age 20–40), HLA-B51, family history.
-- **S/Smx:**
-
-> [!info] Classic triad: oral ulcers, genital ulcers, anterior uveitis.
-
-  - Thrombophlebitis and DVT.
-  - Arthritis; erythema nodosum.
-  - Neurological involvement (e.g. aseptic meningitis).
-  - GI: abdominal pain, diarrhoea, colitis.
-- **Ix:** clinical diagnosis.
-
-> [!tip] Pathergy test — a needle prick causes the puncture site to become inflamed with a small pustule; suggestive of Behçet's.
-
-- **Mx:** prednisolone + azathioprine (or other DMARDs). Ulcers — topical triamcinolone paste. VTE prevention, etc.
-
-
-<!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, discriminators and procedural principles are reliable at intern level. **Every cell count threshold, dose, urate target and criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
-> **All antimicrobial regimens are omitted** — obtain from **eTG Antibiotic**. Verify gout management against **eTG Rheumatology** and current Australian rheumatology guidance, and **HLA-B\*5801 testing recommendations** against current advice, since they are population-specific.
-
----
-
-## 0.1 The Acutely Hot, Swollen Joint
-
-> [!danger] Septic arthritis until proven otherwise
-> **This is the organising principle of the entire presentation.** Untreated septic arthritis destroys articular cartilage within days and carries significant mortality, particularly in the elderly and those with prosthetic joints.
-> **The definitive step is JOINT ASPIRATION, and it should not be delayed for imaging, for inflammatory markers, or for a rheumatology opinion.**
-> **A previous diagnosis of gout does not protect a patient from sepsis** — see the box below.
-
-> [!tip] The examination finding that localises the problem
-> **Pain on PASSIVE movement through a small range, with the patient resisting any movement of the joint, indicates INTRA-ARTICULAR pathology.**
-> **Preserved passive movement with pain only on active movement, or point tenderness away from the joint line, suggests PERIARTICULAR pathology** — **bursitis, cellulitis, tendinitis or tenosynovitis** — which does not require joint aspiration and has a different differential.
-> **This single distinction separates the patients who need urgent aspiration from those who do not**, and it takes seconds. **Olecranon and prepatellar bursitis in particular are frequently mistaken for septic arthritis** — the joint itself moves freely.
-
-> [!danger] Crystals and infection coexist
-> **Finding urate or pyrophosphate crystals in synovial fluid does NOT exclude septic arthritis**, and a patient with known gout who presents with a hot joint may have both — indeed pre-existing joint disease is a risk factor for infection.
-> **Send the fluid for culture regardless of the crystal result**, and if the clinical picture is at all septic, treat as septic while awaiting cultures.
-> **"It's just his gout" is a recurring cause of missed septic arthritis.**
-
-> [!tip] The differential
-> **· Septic arthritis** — bacterial, gonococcal, mycobacterial, fungal.
-> **· Crystal arthropathy** — gout, calcium pyrophosphate deposition.
-> **· Haemarthrosis** — trauma, bleeding disorder, anticoagulation.
-> **· Trauma and intra-articular fracture.**
-> **· First presentation of an inflammatory arthritis** — rheumatoid, psoriatic, spondyloarthritis, reactive. Cross-refer [[L2]].
-> **· Reactive arthritis** — post-enteric or post-urogenital.
-> **· Osteoarthritis with an effusion** — usually less inflamed and more chronic.
-> **· Periarticular** — bursitis, cellulitis, tenosynovitis.
-> **· Avascular necrosis, osteomyelitis, and tumour.**
-
-**S/Smx:** Speed of onset, trauma, fever and systemic features, previous episodes, prosthetic joints, recent joint injection or surgery, skin breaches, sexual history, injecting drug use, immunosuppression, and travel or tick exposure.
-
-**Ix:** **Joint aspiration — the definitive investigation.** See 0.6.
-
-### 0.1.1 Mx – Immediate
-**Aspirate, then treat.** Analgesia. Do not give antibiotics before aspirating unless the patient is septic and unstable.
-
----
-
-## 0.2 Septic Arthritis
-
-**A/P:** Bacteria reach the joint **haematogenously (the commonest route), by direct inoculation (injection, surgery, penetrating injury), or by contiguous spread from adjacent osteomyelitis or soft tissue infection.** The synovium is highly vascular and lacks a basement membrane, which makes it readily seeded. **The resulting inflammatory response — bacterial and host proteases and cytokines — degrades cartilage within days**, which is why this is a surgical emergency rather than simply an infection to treat with antibiotics.
-
-> [!tip] Organisms, and who gets which
-> **· *Staphylococcus aureus* — the commonest overall**, in all age groups.
-> **· Streptococci.**
-> **· *Neisseria gonorrhoeae* — in sexually active young adults**, with a distinct presentation (see below).
-> **· Gram-negative organisms** — in the elderly, immunosuppressed, and people who inject drugs.
-> **· *Salmonella*** — with a particular association in **sickle cell disease.**
-> **· Mycobacteria and fungi** — in chronic, indolent monoarthritis, particularly in the immunosuppressed and in people from high-prevalence areas.
-
-> [!warning] Disseminated gonococcal infection looks different, and is missed
-> **Rather than a single hot joint, it typically causes a MIGRATORY POLYARTHRALGIA with TENOSYNOVITIS (classically of the wrists, hands and ankles) and a sparse PUSTULAR or vesiculopustular RASH** — the "arthritis-dermatitis syndrome" — before, or instead of, settling into a frank purulent monoarthritis.
-> **Synovial fluid cultures are frequently NEGATIVE**, so **the diagnosis requires NAAT testing of genital, rectal and pharyngeal sites even in the absence of genitourinary symptoms**, plus blood cultures.
-> **Consider it in every sexually active young person with an inflammatory arthritis**, and take a sexual history. Cross-refer [[O6]] 0.2.
-
-> [!danger] Fever is absent in a substantial proportion — and immunosuppression masks everything
-> **The absence of fever does NOT exclude septic arthritis**, and neither does a normal white cell count or a normal CRP, particularly early.
-> **Patients on corticosteroids, biologics or other immunosuppression — and those with rheumatoid arthritis, who are both immunosuppressed and have abnormal joints — may present with strikingly blunted signs.** **A rheumatoid patient with one joint disproportionately worse than the others has septic arthritis until proven otherwise**, and this is a classic missed scenario.
-
-> [!warning] Site matters, and injecting drug use changes it
-> **The knee is the commonest joint overall**, followed by hip, shoulder and ankle.
-> **In people who inject drugs, the axial joints are disproportionately involved — sternoclavicular, sacroiliac and vertebral (discitis).** **Sternoclavicular or sacroiliac pain in someone who injects should prompt imaging and cultures, not reassurance**, and these sites are easily overlooked because they are not routinely examined.
-
-> [!danger] Prosthetic joint infection is a different problem
-> **It is classified by timing — early, delayed and late — which predicts the organism and the surgical approach.**
-> **Biofilm formation on the prosthesis means antibiotics alone rarely eradicate it**, and management usually requires **surgical intervention: debridement with implant retention in early infection, or one- or two-stage revision.**
-> **Do NOT aspirate a prosthetic joint through overlying cellulitis**, and **aspiration of a prosthetic joint should generally be done by or in consultation with the arthroplasty team**, under sterile conditions, because a poorly performed aspiration can introduce infection into a joint that did not have it.
-> **Withhold antibiotics until cultures are taken wherever the patient's condition allows**, because organism identification determines whether the prosthesis can be salvaged.
-
-> [!warning] In children — the hip, and the score
-> **Septic arthritis of the hip in a child is a surgical emergency**: the femoral head's blood supply is intracapsular, and raised intra-articular pressure causes avascular necrosis.
-> **The differential from transient synovitis is the classic problem**, and the **Kocher criteria** (fever, non-weight-bearing, raised ESR, raised white cell count) stratify the probability. `UNVERIFIED — the criteria and their thresholds.`
-> **A child who refuses to weight bear needs the hip and the whole limb examined, and considered for aspiration** — cross-refer [[M5]].
-
-**S/Smx:** Acute onset of a hot, swollen, exquisitely painful joint with **marked restriction of both active and passive movement**, often held in the position of maximal capsular volume (hip in flexion, abduction and external rotation). Fever and systemic upset variably present.
-
-**Ix:** **Joint aspiration BEFORE antibiotics — cell count and differential, Gram stain, culture, and crystals** (*why:* the diagnostic test, and antibiotics given first substantially reduce culture yield and may leave the diagnosis unprovable; *what:* raised white cell count with neutrophil predominance, organisms — see 0.6). **Blood cultures** (*why:* frequently positive and sometimes the only microbiological yield, particularly in haematogenous infection; *what:* organism). FBC, CRP and ESR (*why:* baseline and monitoring, with the caveat that **normal values do not exclude infection early or in the immunosuppressed**; *what:* inflammatory response). **Gonococcal NAAT from genital, rectal and pharyngeal sites in sexually active patients** (*why:* joint cultures are usually negative in disseminated gonococcal infection, so the diagnosis is made elsewhere; *what:* positive NAAT). Plain radiograph (*why:* baseline, and identifies fracture, chondrocalcinosis, erosions and pre-existing disease — **it will be normal early in sepsis, so a normal film is meaningless for excluding infection**; *what:* structural findings). **MRI** where **osteomyelitis, discitis, sacroiliitis or a deep joint (hip, sacroiliac, sternoclavicular) is suspected** (*why:* far more sensitive than radiography for bone and deep joint infection, and those sites are hard to aspirate; *what:* effusion, marrow oedema, collection). Ultrasound (*why:* confirms an effusion and guides aspiration, particularly in the hip and in children; *what:* effusion).
-
-### 0.2.1 Mx – Immediate
-**Aspirate, then start empirical intravenous antibiotics.** **Urgent orthopaedic referral** — the joint requires **washout (arthroscopic or open) or serial aspiration**, and antibiotics alone are usually insufficient. Analgesia and immobilisation for comfort, then early mobilisation. `UNVERIFIED — empirical regimens and treatment duration from eTG Antibiotic.`
-
-### 0.2.2 Mx – Definitive
-Surgical drainage, targeted antibiotics on culture, and **prosthesis revision where a prosthetic joint is involved.**
-
-### 0.2.3 Mx – Chronic/long-term
-Physiotherapy and rehabilitation — **joint stiffness and functional loss after septic arthritis are common even with successful eradication.** Address the source and the risk factors, including injecting drug use support and skin care.
-
----
-
-## 0.3 Crystal Arthropathy
-
-> [!danger] Serum urate is unreliable during an acute attack of gout
-> **The urate is frequently NORMAL, and sometimes LOW, during an acute flare** — because urate is being deposited in the joint and the acute phase response lowers serum levels.
-> **So a normal urate does NOT exclude gout, and a raised urate does NOT diagnose it** — most people with hyperuricaemia never develop gout.
-> **Measure the urate several weeks after the attack has settled**, when it reflects the steady state and can guide urate-lowering therapy. **Diagnosing or excluding gout on an acute urate level is a common error.**
-
-> [!tip] Gout — the presentation and the risk factors
-> **Abrupt onset, reaching maximal severity within about 24 hours**, in a joint that is **exquisitely tender, red and swollen — patients often cannot bear the weight of a bedsheet.**
-> **Classically the first metatarsophalangeal joint (podagra)**, then midfoot, ankle, knee, and in chronic disease the hands and elbows with **tophi.**
-> **Risk factors: male sex, increasing age, chronic kidney disease, obesity, diabetes and metabolic syndrome · DIURETICS (thiazide and loop) · low-dose aspirin · ciclosporin and tacrolimus · alcohol, particularly beer · fructose-sweetened drinks · red meat and shellfish · dehydration · and cell turnover states including tumour lysis.**
-> **The medication review is important — a thiazide started for hypertension is a common precipitant of new gout, and changing it may be more useful than escalating gout treatment.**
-
-> [!warning] The Australian and New Zealand epidemiology
-> **Gout prevalence is substantially higher, with earlier onset and more severe disease, among Aboriginal and Torres Strait Islander peoples and among Māori and Pacific Islander peoples.**
-> **It is also markedly under-treated in these groups** — with acute attacks managed repeatedly and urate-lowering therapy never started, which is the intervention that actually prevents recurrence and joint damage.
-> **This is a genuine equity gap and a concrete thing to get right.** Cross-refer [[AU1]].
-
-> [!danger] The conceptual shift: gout is a chronic disease of urate deposition, not a series of attacks
-> **Treating each flare and stopping there leaves the underlying urate burden untouched, and the disease progresses to tophi, erosive damage and chronic arthropathy.**
-> **Urate-lowering therapy, titrated to a TARGET serum urate, dissolves the deposits and effectively cures the disease** — it is one of the few genuinely curable forms of arthritis, and it is chronically under-used.
-> **Indications for urate-lowering therapy: recurrent attacks, tophi, erosive change on imaging, urate nephrolithiasis, and chronic kidney disease.** `UNVERIFIED — the target urate, the indications and the thresholds.`
-> **Allopurinol is first-line: START LOW AND TITRATE UPWARD to the target urate**, rather than using a fixed dose. **Prophylaxis with low-dose colchicine or an NSAID is given during initiation, because starting urate-lowering therapy PRECIPITATES flares** as deposits mobilise — and patients who are not warned about this conclude the drug caused their gout and stop it.
-> **Do not stop established urate-lowering therapy during an acute attack.**
-
-> [!warning] Allopurinol hypersensitivity and HLA-B*5801
-> **Allopurinol can cause severe cutaneous adverse reactions including DRESS and SJS/TEN**, with significant mortality.
-> **The risk is strongly associated with the HLA-B\*5801 allele, which is markedly more prevalent in people of Han Chinese, Thai and Korean ancestry** — and **pre-treatment testing is recommended in those populations.** Cross-refer [[A5]] 0.6.
-> **Starting at a low dose and titrating slowly also reduces the risk.** `UNVERIFIED — the populations in whom testing is recommended and the current Australian advice.`
-
-> [!tip] Acute treatment — choose by comorbidity
-> **· NSAIDs** — effective, but avoid in renal impairment, heart failure, peptic ulcer disease, anticoagulation and the elderly.
-> **· Colchicine — LOW DOSE.** **The old high-dose "until diarrhoea" regimen is obsolete and toxic.** **Reduce the dose in renal and hepatic impairment**, and beware interactions with **statins (myopathy), clarithromycin, ciclosporin and other CYP3A4/P-glycoprotein inhibitors**, which cause serious colchicine toxicity.
-> **· Corticosteroids — oral, intramuscular, or intra-articular** — often the best choice in the elderly, in renal impairment, and in those with multiple comorbidities. **Intra-articular injection is excellent for a single joint, provided sepsis has been excluded first.**
-> `UNVERIFIED — all doses and durations.`
-
-> [!tip] Calcium pyrophosphate deposition (pseudogout)
-> **Older patients, most often the KNEE and WRIST.** **Chondrocalcinosis on radiographs** — linear calcification of cartilage and menisci — supports it, though it is common in the elderly and does not by itself prove the joint is inflamed by crystals.
-> **Crystals: rhomboid or rod-shaped, POSITIVELY birefringent** — as opposed to gout's needle-shaped, NEGATIVELY birefringent crystals.
-> **In a YOUNGER patient with CPPD, screen for a metabolic cause: HYPERPARATHYROIDISM, HAEMOCHROMATOSIS, hypomagnesaemia, and hypophosphatasia.** **This is the point most often missed** — CPPD in someone under about 55 should prompt calcium, PTH, iron studies and magnesium. Cross-refer [[I3]].
-> Treatment is symptomatic — there is no equivalent of urate-lowering therapy.
-
-**Ix:** **Joint aspiration with polarised light microscopy** (*why:* definitive, and simultaneously excludes infection; *what:* crystal type and birefringence, plus cell count and culture). **Serum urate — several weeks AFTER the acute attack** (*why:* acute levels mislead in both directions; *what:* steady-state urate to guide therapy). UEC and eGFR (*why:* determines drug choice and dosing for both acute and urate-lowering therapy; *what:* renal function). **Medication review** (*why:* diuretics, aspirin and immunosuppressants precipitate gout and may be changeable; *what:* culprit drugs). Radiographs (*why:* erosions with overhanging edges in chronic gout, and chondrocalcinosis in CPPD; *what:* structural change). **In CPPD under about 55: calcium, PTH, magnesium, iron studies and ferritin, and ALP** (*why:* screens for hyperparathyroidism, haemochromatosis, hypomagnesaemia and hypophosphatasia; *what:* the metabolic cause). **HLA-B\*5801 in relevant populations before allopurinol** (*why:* severe cutaneous adverse reaction risk; *what:* allele presence). Cardiovascular and metabolic risk assessment (*why:* gout clusters with hypertension, chronic kidney disease, obesity and cardiovascular disease, and is an independent risk marker; *what:* comorbidity).
-
-### 0.3.1 Mx – Immediate
-Acute anti-inflammatory therapy chosen by comorbidity. **Aspirate first if sepsis is at all possible.**
-
-### 0.3.2 Mx – Definitive
-**Urate-lowering therapy, titrated to target, with flare prophylaxis during initiation** — for anyone meeting the indications.
-
-### 0.3.3 Mx – Chronic/long-term
-**Treat-to-target monitoring of urate, not symptom-driven care.** Address diet and alcohol without moralising — **the dietary contribution is smaller than the genetic and renal contribution, and blaming the patient's diet is both inaccurate and a barrier to accepting medication.** Review diuretics. Manage the cardiovascular and renal comorbidity.
-
----
-
-## 0.4 Haemarthrosis
-
-> [!danger] A tense haemarthrosis after knee injury means significant intra-articular damage
-> **Blood in a joint within a few hours of trauma indicates a structure with a blood supply has torn** — most commonly **anterior cruciate ligament rupture, tibial plateau or other intra-articular fracture, patellar dislocation, osteochondral fracture, or peripheral meniscal tear.**
-> **A simple sprain does not produce a tense haemarthrosis.** The presence of one substantially raises the probability of a surgically relevant injury and warrants imaging and orthopaedic review.
-
-> [!tip] Fat globules in the aspirate mean an intra-articular fracture
-> **Lipohaemarthrosis** — fat from the marrow entering the joint through a fracture line — appears as **fat globules floating on the blood in the aspirate**, or as a **fat-fluid level on a horizontal-beam radiograph or on CT/MRI.**
-> **This is essentially diagnostic of an intra-articular fracture, even when the plain films look normal**, and it should prompt further imaging.
-
-> [!danger] Haemophilia — give factor before imaging
-> **In a person with haemophilia, a haemarthrosis is treated by giving FACTOR REPLACEMENT IMMEDIATELY, on clinical suspicion, before radiographs, before aspiration, and before waiting for a specialist opinion.**
-> **Delay causes progressive joint damage.** Recurrent bleeds into the same "target joint" produce synovial hypertrophy and **haemophilic arthropathy** with permanent destruction.
-> **Aspiration is generally avoided in haemophilia** unless there is a specific indication, and only after adequate factor cover. Cross-refer [[J3]].
-
-> [!tip] The other causes
-> **· Anticoagulant therapy**, particularly with supratherapeutic levels or after minor trauma.
-> **· Other bleeding disorders** — von Willebrand disease, thrombocytopenia.
-> **· Pigmented villonodular synovitis** — recurrent atraumatic haemarthrosis, often of the knee, in a young adult, with characteristic MRI appearances.
-> **· Neuropathic (Charcot) joint** — cross-refer [[I2]] 0.6.
-> **· Synovial haemangioma and other vascular lesions.**
-> **· Tumour.**
-> **Recurrent atraumatic haemarthrosis in a young person without a bleeding disorder needs MRI** — it is not a normal event.
-
-**Ix:** **Aspiration** (*why:* confirms blood, relieves a painful tense effusion, and **the presence of fat globules indicates fracture**; *what:* frank blood, fat globules). **Plain radiographs including a horizontal-beam lateral where feasible** (*why:* fracture and the fat-fluid level; *what:* fracture, lipohaemarthrosis). **MRI** (*why:* the investigation of choice for ligamentous, meniscal and osteochondral injury and for synovial pathology, which radiographs miss entirely; *what:* ACL rupture, meniscal tear, bone bruising, synovial disease). **Coagulation screen, platelets, and factor assays where a bleeding disorder is suspected** (*why:* atraumatic or disproportionate haemarthrosis; *what:* the disorder — cross-refer [[A9]] 0.3). Review of anticoagulation and INR (*why:* over-anticoagulation; *what:* supratherapeutic level).
-
-### 0.4.1 Mx – Immediate
-**Factor replacement first in haemophilia.** Analgesia, aspiration for a tense painful effusion, immobilisation and elevation.
-
-### 0.4.2 Mx – Definitive
-Orthopaedic management of the underlying injury. Reversal or adjustment of anticoagulation where appropriate.
-
-### 0.4.3 Mx – Chronic/long-term
-Physiotherapy and rehabilitation. **In haemophilia, prophylactic factor regimens prevent target joint arthropathy** and are the standard of care — cross-refer [[J3]].
-
----
-
-## 0.5 The Wider Monoarthritis Differential
-
-> [!tip] Reactive arthritis
-> **An asymmetrical, predominantly lower limb oligoarthritis developing days to weeks AFTER an infection at a distant site** — **enteric (*Salmonella*, *Shigella*, *Campylobacter*, *Yersinia*) or urogenital (*Chlamydia trachomatis*).** The joint itself is sterile.
-> **Associated features that support it: ENTHESITIS (particularly Achilles insertion and plantar fascia), DACTYLITIS ("sausage digit"), conjunctivitis or uveitis, urethritis, and the mucocutaneous features — circinate balanitis and keratoderma blennorrhagicum.**
-> **HLA-B27 associated**, and it sits within the spondyloarthritis family. Cross-refer [[L2]].
-> **Ask about diarrhoea or a genitourinary infection in the preceding month** — the patient will not volunteer it because they consider it resolved and unrelated.
-
-> [!danger] Non-mechanical pain, night pain and rest pain in a young person
-> **Pain that is worse at night, present at rest, unrelated to activity, and progressive — particularly around the knee or proximal humerus in an adolescent or young adult — is BONE MALIGNANCY until proven otherwise.**
-> **Osteosarcoma and Ewing sarcoma present this way**, and they are frequently attributed to sporting injury or growing pains for months.
-> **A plain radiograph is the first step and is usually abnormal**, and any concerning lesion should be referred to a specialist sarcoma service **before biopsy** — cross-refer [[B6]] 0.8.
-
-> [!tip] The rest
-> **· First presentation of an inflammatory arthritis** — rheumatoid, psoriatic or axial spondyloarthritis may begin as a monoarthritis. **Look for the extra-articular clues: psoriasis (including scalp, natal cleft and nails), inflammatory back pain, family history, uveitis, inflammatory bowel symptoms.** Cross-refer [[L2]].
-> **· Viral arthritis** — **parvovirus B19** (with a symmetrical small-joint arthritis in adults, often after contact with a child with slapped cheek), hepatitis B and C, and **Ross River and Barmah Forest virus in Australia, which cause a prolonged and disabling polyarthralgia** — cross-refer [[K3]] 0.6.
-> **· Osteoarthritis with an acute effusion** — usually less inflamed, in a joint with pre-existing radiographic change, and frequently a flare after unaccustomed activity.
-> **· Avascular necrosis** — hip most commonly, with risk factors of corticosteroids, alcohol, sickle cell disease, trauma and radiotherapy. **Radiographs are normal early; MRI is the test.**
-> **· Osteomyelitis and discitis.**
-> **· Tuberculous and fungal arthritis** — chronic, indolent, monoarticular, in the immunosuppressed or from high-prevalence areas.
-> **· Sarcoidosis** — **Löfgren syndrome**: acute ankle arthritis or periarthritis with erythema nodosum and bilateral hilar lymphadenopathy, which is a distinctive and self-limiting presentation.
-
-**Ix:** As per 0.6, plus targeted serology and imaging directed by the clinical picture — **HLA-B27, viral serology, chlamydia and enteric pathogen testing, chest radiograph for sarcoidosis, MRI for avascular necrosis and bone lesions.**
-
----
-
-## 0.6 Joint Aspiration and Synovial Fluid Interpretation
-
-> [!warning] Technique and contraindications
-> **· Strict aseptic technique**, with local anaesthetic and adequate explanation.
-> **· DO NOT aspirate through overlying cellulitis** — it risks introducing organisms into a sterile joint. Approach from an uninvolved area or defer to a specialist.
-> **· Prosthetic joints** — aspirate in consultation with the orthopaedic team, under appropriate conditions.
-> **· Anticoagulation** is not an absolute contraindication for a large joint, but requires care and consideration of the INR.
-> **· Ultrasound guidance** improves success in small joints, deep joints (hip) and obese patients, and should be used where available rather than persisting with blind attempts.
-
-> [!info] What to send, and what not to bother with
-> **SEND: cell count and differential · Gram stain · culture (in blood culture bottles as well as a sterile container improves yield) · and crystal examination under POLARISED light.**
-> **Do not bother with synovial fluid glucose and protein** — they add nothing to the four tests above and are a hangover from older practice.
-
-> [!tip] Interpreting the fluid
-> | | **Normal** | **Non-inflammatory** | **Inflammatory** | **Septic** | **Haemorrhagic** |
-> |---|---|---|---|---|---|
-> | Appearance | Clear, viscous | Clear, yellow | Cloudy, yellow | **Turbid, purulent** | **Bloody** |
-> | White cells | Very low | Low | Raised | **Markedly raised** | Variable |
-> | Neutrophils | Low % | Low % | Higher % | **Predominant** | Variable |
-> | Typical cause | — | **Osteoarthritis, trauma** | **Crystal, RA, reactive, spondyloarthritis** | **Bacterial infection** | **Trauma, bleeding disorder, PVNS** |
-> `UNVERIFIED — all cell count thresholds. These are the numbers that determine whether a joint is washed out, and they must come from a current source.`
-
-> [!danger] Two negatives that do not exclude septic arthritis
-> **1. A NEGATIVE GRAM STAIN.** **The Gram stain is negative in the majority of proven septic arthritis.** It is useful when positive and meaningless when negative.
-> **2. A synovial white cell count BELOW the usual septic threshold.** **This occurs in early infection, in partially treated infection, in prosthetic joint infection (where the thresholds are lower), and in the immunosuppressed.**
-> **The decision to treat as septic is clinical**, informed by the fluid but not dictated by it. **If the clinical picture is septic, treat it as septic while cultures are pending.**
-
-> [!tip] Crystal identification
-> **· Monosodium urate (gout) — NEEDLE-shaped, strongly NEGATIVELY birefringent** (yellow when parallel to the compensator axis).
-> **· Calcium pyrophosphate (CPPD) — RHOMBOID or rod-shaped, weakly POSITIVELY birefringent** (blue when parallel).
-> **Crystal examination requires a polarising microscope and an experienced operator — it is operator-dependent and false negatives occur**, so a negative crystal result in a convincing clinical picture of gout does not exclude it.
-
-**Ix:** As above.
-
-### 0.6.1 Mx – Immediate
-Aspiration relieves pain in a tense effusion as well as being diagnostic.
-
-### 0.6.2 Mx – Definitive
-Determined by the fluid and the clinical picture.
-
-### 0.6.3 Mx – Chronic/long-term
-**Document the aspirate results clearly**, because a future presentation with a hot joint will be interpreted against them — and a previously documented crystal diagnosis is exactly what leads to a later septic joint being dismissed.
-
----
-
-> [!note] Cross-references
-> Polyarthralgia and inflammatory arthritis → [[L2]] · Muscle symptoms and widespread pain → [[L3]] · Regional limb pain → [[L5]] · Cellulitis and pseudocellulitis → [[K2]] 0.1 · Fever workup → [[K1]] · Disseminated gonococcal infection and STI testing → [[O6]] 0.2 · Ross River and vector-borne arthritis → [[K3]] 0.6 · Bleeding disorders and haemophilia → [[A9]] 0.3 and [[J3]] · Calcium, PTH and haemochromatosis in CPPD → [[I3]] · Charcot joint and the diabetic foot → [[I2]] 0.6 · Allopurinol hypersensitivity and SCARs → [[A5]] 0.6 · Sarcoma referral before biopsy → [[B6]] 0.8 · Paediatric limp and hip → [[M5]] · Aboriginal and Torres Strait Islander health and gout equity → [[AU1]]
-
-
-
-<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
-*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of synovial fluid interpretation, side by side, both intact.**
-> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
-> A third account is the **procedure** itself, `GER8 §0.5 Arthrocentesis`, now in `[[Procedures]]`. Three copies, none reconciled.
-
-## 1.15 Joint Aspirate (Synovial Fluid) Analysis — Systematic Approach
-
-`CF-PAIR` **THREE-WAY. The second account is `L1_Hot_and_Swollen_Joint §0.6 Joint Aspiration and Synovial Fluid Interpretation`, immediately above this one. The third is the **procedure**, `GER8 §0.5 Arthrocentesis`, in `[[Procedures]]`. All three kept in full, NOT reconciled.**
-
-> [!note] Gap-filled from CSV ("Joint aspirate analysis," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — the individual synovial fluid findings for specific diagnoses are scattered throughout [[11_01_Ortho_-_Orthopaedic_Emergencies]] (Septic arthritis), [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], and [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] (Gout, Pseudogout), but never consolidated into one systematic interpretation framework — built here in the same spirit as the FBC/Blood Film and Coagulation Screen entries above.
-
-**Why aspirate:** a hot, swollen, acutely painful joint should prompt joint aspiration essentially routinely, given the single most important diagnostic task is **excluding septic arthritis** — see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis for the disease-level urgency and Mx this feeds into, not repeated here. Aspiration should ideally occur **before** starting antibiotics where possible, given antibiotics can sterilise the fluid and reduce diagnostic yield — the same principle as blood cultures before antibiotics elsewhere in this project.
-
-**Systematic interpretation — work through in this order:**
-
-1. **Appearance:** normal synovial fluid is clear/pale yellow and viscous; **turbid/purulent fluid** raises concern for infection; **blood-stained fluid (haemarthrosis)** suggests trauma, a bleeding disorder, or anticoagulation — a genuinely different differential from turbid fluid, worth distinguishing early by simple visual inspection before any lab result returns.
-2. **Cell count and differential:** the single most useful quantitative discriminator between inflammatory and non-inflammatory processes — very high white cell counts (particularly with a neutrophil predominance) point strongly toward septic arthritis or crystal arthropathy (gout/pseudogout can produce counts nearly as high as infection, which is exactly why microscopy for crystals, not cell count alone, is needed to distinguish them); lower counts with a more mixed or mononuclear picture are more typical of non-inflammatory (e.g. osteoarthritis) or milder inflammatory processes.
-3. **Gram stain and culture:** the definitive test for septic arthritis, though a negative Gram stain does **not** exclude infection given its imperfect sensitivity — culture remains the reference standard, and empirical treatment for septic arthritis should not be withheld while awaiting culture results if clinical suspicion is high, per the urgency principle in [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis.
-4. **Polarised light microscopy for crystals — the key test distinguishing the two major crystal arthropathies:**
-   - **Gout:** needle-shaped, **negatively birefringent** monosodium urate crystals — see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout for the disease-level detail, not repeated here.
-   - **Pseudogout:** rhomboid-shaped, **weakly positively birefringent** calcium pyrophosphate crystals — see the same file's Pseudogout entry, not repeated here.
-   - The birefringence direction (negative vs weakly positive) is the classic, frequently-tested distinguishing feature between the two — worth having genuinely automatic given how similarly gout and pseudogout can present clinically despite this clear lab distinction.
-
-> [!info] Quick-reference summary table
-> | Finding | Non-inflammatory (e.g. OA) | Inflammatory (e.g. RA, reactive arthritis) | Septic | Crystal (gout/pseudogout) |
-> |---|---|---|---|---|
-> | Appearance | Clear/straw | Cloudy/yellow | Turbid/purulent | Cloudy |
-> | WCC | Low (<2000/mm³) | Moderate-high | Very high | High (can overlap with septic) |
-> | Neutrophil % | Low | Moderate | High | High |
-> | Gram stain/culture | Negative | Negative | Often positive | Negative |
-> | Crystals | Absent | Absent | Absent | Present (see birefringence distinction above) |
-
-**Cross-reference:** see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis, [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout and Pseudogout, and [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] for the disease-level context each finding above feeds into.
-
----
-
-<!-- ===== SOURCE: L1_Hot_and_Swollen_Joint.md ===== -->
-
-<!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Pattern recognition, clinical reasoning and serology interpretation are reliable at intern level. **Every dose, monitoring interval, classification criterion and antibody performance figure carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Rheumatology**, the **Australian Medicines Handbook** for DMARD monitoring, and PBS authority criteria, which determine biologic access in Australia.
-
----
-
-## 0.1 Approach to Polyarthralgia
-
-> [!danger] The pivotal question: is this inflammatory or mechanical?
-> **Everything else follows from this, and it is answered by history alone.**
-> | | **Inflammatory** | **Mechanical** |
-> |---|---|---|
-> | **Morning stiffness** | **Prolonged — over 30 to 60 minutes** | Brief, under 30 minutes |
-> | **Effect of activity** | **BETTER with movement** | **WORSE with movement** |
-> | **Effect of rest** | **Worse — stiffens up** | Better |
-> | **Night pain** | **Wakes in the SECOND half of the night** | Uncommon, usually positional |
-> | **Swelling** | **Soft tissue swelling, warmth** | Bony swelling, effusion |
-> | **Systemic features** | **Fatigue, weight loss, low-grade fever** | Absent |
-> | **NSAID response** | **Marked** | Partial |
-> **"Does it get better or worse as the day goes on?" and "how long are you stiff in the morning?" are the two highest-yield questions in rheumatology.**
-
-> [!tip] Then characterise the pattern
-> **· Number** — monoarthritis (cross-refer [[L1]]), oligoarthritis (up to about four joints), or polyarthritis.
-> **· Symmetry** — symmetrical suggests rheumatoid arthritis, lupus, viral; asymmetrical suggests spondyloarthritis, psoriatic arthritis, gout.
-> **· Distribution** — small versus large joints, peripheral versus axial, upper versus lower limb.
-> **· WHICH joints, specifically:**
-> **— MCPs, PIPs, wrists and MTPs with DIP SPARING → rheumatoid arthritis.**
-> **— DIP involvement → psoriatic arthritis or osteoarthritis, NOT rheumatoid.**
-> **— First carpometacarpal and DIPs (Heberden and Bouchard nodes) → osteoarthritis.**
-> **— Axial and sacroiliac → spondyloarthritis.**
-> **· Duration** — under about six weeks suggests a self-limiting cause; beyond that suggests chronic inflammatory disease.
-
-> [!warning] Acute symmetrical polyarthritis of under six weeks is often viral — do not over-investigate
-> **Parvovirus B19** (classically in an adult after contact with a child with slapped cheek disease — a symmetrical small joint arthritis that resolves), **Ross River and Barmah Forest virus** (which cause prolonged, disabling polyarthralgia in Australia — cross-refer [[K3]] 0.6), hepatitis B and C, rubella, EBV and chikungunya.
-> **An extensive autoantibody panel in a well person with a six-week symmetrical polyarthritis generates false positives and mislabels people.** Take a history, exclude the serious, and review — most resolve.
-
-> [!tip] The extra-articular clues that make the diagnosis
-> **Examine for these actively rather than waiting for them to be reported:**
-> **· SKIN — psoriasis, and LOOK WHERE IT HIDES: scalp and hairline, behind the ears, umbilicus, natal cleft, and the NAILS (pitting, onycholysis, ridging).** Also: malar rash, discoid lesions, palpable purpura, erythema nodosum, livedo, nodules.
-> **· EYES — dry eyes, red painful eye (uveitis, scleritis, episcleritis).**
-> **· MOUTH AND GENITALS — ulcers (painless in lupus, painful in Behçet).**
-> **· RAYNAUD phenomenon** — a key pointer to connective tissue disease.
-> **· BOWEL — chronic diarrhoea and blood suggest inflammatory bowel disease-associated arthritis.**
-> **· GENITOURINARY — urethritis, and a recent enteric or sexually transmitted infection suggesting reactive arthritis.**
-> **· ENTHESITIS AND DACTYLITIS** — see 0.3.
-> **· Sicca symptoms, alopecia, serositis, and constitutional features.**
-
-> [!danger] Red flags that change the pathway
-> **· Fever with a single hot joint → septic arthritis** — cross-refer [[L1]].
-> **· Weight loss, night sweats, or a raised inflammatory response out of proportion → malignancy, chronic infection, or vasculitis.**
-> **· New headache with jaw claudication or visual symptoms in someone over 50 → GIANT CELL ARTERITIS. Give steroids immediately** — cross-refer [[D1]] 0.4 and [[L3]].
-> **· Haemoptysis with haematuria and acute kidney injury → PULMONARY-RENAL SYNDROME** — see 0.5.
-> **· Mononeuritis multiplex → vasculitis** — cross-refer [[D4]] 0.4.
-
-**Ix:** **FBC, CRP and ESR, UEC, LFT, calcium, urate** (*why:* the baseline that identifies inflammation, cytopenias, renal and hepatic involvement, and gout; *what:* inflammatory response, organ involvement). **URINALYSIS with microscopy at every visit in suspected connective tissue disease** (*why:* **lupus nephritis and vasculitic renal involvement are frequently silent, and blood and protein on a dipstick is how they are detected before renal function declines** — this is a free test that is repeatedly omitted; *what:* haematuria, proteinuria, casts). Radiographs of symptomatic joints (*why:* erosions, chondrocalcinosis, osteoarthritic change; *what:* structural change). **Targeted serology only** — see 0.6 (*why:* untargeted panels in low-probability patients cause harm; *what:* confirmation of a clinical suspicion). Viral serology where an acute polyarthritis (*why:* self-limiting causes; *what:* parvovirus, arboviral, hepatitis).
-
----
-
-## 0.2 Rheumatoid Arthritis
-
-**A/P:** A chronic autoimmune synovitis. **Inflamed synovium proliferates into a PANNUS**, which invades and destroys articular cartilage and subchondral bone at the joint margins — producing the characteristic **marginal erosions** — and stretches the capsule and ligaments, causing the deformities.
-
-**S/Smx:** **Symmetrical polyarthritis of the small joints — MCPs, PIPs, wrists and MTPs — with DIP SPARING**, prolonged morning stiffness, and soft tissue swelling. **Squeezing across the MCPs or MTPs elicits tenderness early**, before deformity develops.
-Later deformities: ulnar deviation, swan neck and boutonnière, Z-thumb, and MTP subluxation with painful walking.
-
-> [!warning] The extra-articular disease is where much of the morbidity lies
-> **· Cardiovascular — ACCELERATED ATHEROSCLEROSIS IS THE LEADING CAUSE OF DEATH in rheumatoid arthritis**, driven by chronic inflammation independently of traditional risk factors. **Cardiovascular risk must be assessed and treated actively**, and the risk is under-recognised because these patients are seen as having a joint disease. Cross-refer [[B2]] 0.1.
-> **· Lung — interstitial lung disease, pleural effusions, nodules.** ILD is a major cause of mortality and may precede the arthritis.
-> **· Eye — episcleritis, scleritis, and secondary Sjögren syndrome.**
-> **· Haematological — anaemia of chronic disease; Felty syndrome (RA with splenomegaly and neutropenia).**
-> **· Nodules, vasculitis, and amyloidosis** in longstanding disease.
-
-> [!danger] Atlantoaxial subluxation — flag it before any anaesthetic
-> **Erosion of the transverse ligament and odontoid peg allows the atlas to subluxate on the axis, risking CERVICAL CORD COMPRESSION.**
-> **Neck manipulation during intubation or positioning can cause catastrophic cord injury.**
-> **Any patient with longstanding rheumatoid arthritis presenting for surgery, or requiring intubation, needs this considered — flexion/extension cervical radiographs or MRI, and the anaesthetist informed.**
-> **Symptoms to ask about: neck pain, occipital headache, paraesthesia in the hands, and a sense of the head "falling forward".** Cross-refer [[F0.4]] 0.6.
-
-> [!danger] Methotrexate — the weekly dosing error kills people
-> **Methotrexate for rheumatoid arthritis is dosed ONCE WEEKLY.**
-> **Daily administration causes fatal pancytopenia and mucositis, and it happens — through prescribing error, dispensing error, transcription onto an inpatient chart, or patient misunderstanding.**
-> **Practical safeguards: specify the DAY of the week on every prescription and drug chart · check the intended dose against the patient's own understanding · and be alert when transcribing on admission.**
-> **Other essentials:**
-> **· FOLIC ACID supplementation reduces toxicity and is standard.**
-> **· Monitoring: FBC, LFT and renal function at defined intervals** — myelosuppression and hepatotoxicity are the main concerns.
-> **· PNEUMONITIS** — a new dry cough and breathlessness in a patient on methotrexate is methotrexate pneumonitis until proven otherwise, and it can be fatal.
-> **· AVOID TRIMETHOPRIM AND CO-TRIMOXAZOLE** — both are antifolates and the combination causes severe pancytopenia. **This is a common and avoidable prescribing interaction, since co-trimoxazole and trimethoprim are prescribed casually for urinary infection.**
-> **· TERATOGENIC** — effective contraception is required, and it must be stopped before conception with an appropriate washout.
-> **· Renal impairment increases toxicity** — reduce or withhold, and withhold during acute illness and dehydration.
-> `UNVERIFIED — all doses, monitoring intervals, washout periods and the current advice regarding male fertility.`
-
-> [!tip] Treat early — the window of opportunity
-> **Erosions develop within the first months to years, and they are irreversible.** **Early DMARD therapy prevents them; late therapy controls symptoms in an already damaged joint.**
-> **This is why a patient with a persistent inflammatory polyarthritis needs early rheumatology referral rather than a trial of NSAIDs and review in six months.**
-> **Treat-to-target: escalate therapy until remission or low disease activity is achieved**, measured with a composite score, rather than accepting partial control.
-> **Conventional DMARDs**: methotrexate first-line; also **sulfasalazine, hydroxychloroquine (requiring retinal monitoring for retinopathy) and leflunomide.**
-> **Biologic and targeted synthetic DMARDs**: TNF inhibitors, IL-6 inhibitors, B-cell depletion, T-cell costimulation blockade, and **JAK inhibitors.** **All require screening for latent tuberculosis and hepatitis B before starting** — cross-refer [[K3]] 0.5 — and **live vaccines are contraindicated once established.**
-> **Corticosteroids are a bridge, not a strategy** — effective and fast, but with cumulative harm, so **bone protection and an exit plan should be in place from the outset.** Cross-refer [[GER1]] 0.6.
-
-**Ix:** **Rheumatoid factor and anti-CCP** (*why:* **anti-CCP is considerably more SPECIFIC than rheumatoid factor and predicts erosive disease**, whereas RF is positive in Sjögren syndrome, hepatitis C, endocarditis, sarcoidosis and a proportion of healthy older people; *what:* positive antibodies — **noting seronegative RA exists and a negative result does not exclude the diagnosis**). CRP and ESR (*why:* disease activity and monitoring; *what:* inflammatory response). FBC (*why:* anaemia of chronic disease, and baseline before DMARDs; *what:* anaemia, cytopenias). **Radiographs of hands and feet** (*why:* baseline for progression, and **erosions of the MTP joints often appear before those in the hands**; *what:* periarticular osteopenia, joint space narrowing, marginal erosions). **Ultrasound or MRI where the examination is equivocal** (*why:* detects synovitis and early erosions that clinical examination and radiographs miss; *what:* synovitis, power Doppler signal). **Baseline before DMARDs: FBC, LFT, UEC, hepatitis B and C serology, latent TB screening, chest radiograph, and pregnancy test** (*why:* the pre-immunosuppression screen prevents reactivation and toxicity; *what:* baseline and latent infection). Cardiovascular risk assessment (*why:* the leading cause of death; *what:* risk factors).
-
-### 0.2.1 Mx – Immediate
-Not usually applicable — **except to exclude septic arthritis in a disproportionately inflamed single joint.**
-
-### 0.2.2 Mx – Definitive
-Early DMARD therapy with treat-to-target escalation, rheumatology-led.
-
-### 0.2.3 Mx – Chronic/long-term
-**Cardiovascular risk management · bone protection · vaccination (before immunosuppression, and annual influenza and pneumococcal) · monitoring for DMARD toxicity · physiotherapy, occupational therapy and hand therapy · and surgical referral for deformity and joint destruction.** **Flag the cervical spine on any surgical or anaesthetic referral.**
-
----
-
-## 0.3 Spondyloarthritis
-
-> [!tip] The family, and what unites it
-> **Axial spondyloarthritis (including ankylosing spondylitis) · psoriatic arthritis · reactive arthritis · inflammatory bowel disease-associated (enteropathic) arthritis · undifferentiated spondyloarthritis.**
-> **Shared features: HLA-B27 association · AXIAL involvement (sacroiliitis and spondylitis) · ENTHESITIS · DACTYLITIS · asymmetrical, lower-limb-predominant peripheral arthritis · ANTERIOR UVEITIS · absence of rheumatoid factor · and familial clustering.**
-> **Enthesitis — inflammation where tendon or ligament inserts into bone — is the defining pathology**, as opposed to the synovitis of rheumatoid arthritis. **Common sites: Achilles insertion, plantar fascia, patellar tendon, iliac crest.**
-> **Dactylitis — uniform "sausage" swelling of an entire digit** rather than of individual joints, reflecting combined synovitis and tenosynovitis.
-
-> [!danger] Inflammatory back pain — the criteria that should trigger referral
-> **· Onset before about age 45 · insidious onset · duration over three months · morning stiffness over 30 minutes · improvement with EXERCISE but NOT with rest · pain waking the patient in the SECOND HALF of the night · and alternating buttock pain.**
-> **Good response to NSAIDs supports it.**
-> **Axial spondyloarthritis has a long diagnostic delay — frequently many years — and the delay is longer in WOMEN**, in whom it is under-recognised and more often attributed to fibromyalgia or mechanical back pain. Cross-refer [[L4]].
-> **Radiographic sacroiliitis is a LATE finding — plain films can be normal for years. MRI of the sacroiliac joints detects active inflammation (bone marrow oedema) at the pre-radiographic stage**, and is what allows early diagnosis.
-
-> [!danger] A fused spine fractures with trivial trauma — and the fracture is unstable
-> **In advanced ankylosing spondylitis the spine becomes a rigid, osteoporotic column with no capacity to absorb force.**
-> **A fall from standing height, or even a minor jolt, can cause a highly unstable three-column fracture — most often in the cervical spine — with a high risk of spinal cord injury.**
-> **Have a very low threshold for CT or MRI after ANY trauma in a patient with a fused spine, however trivial. Plain radiographs are inadequate.**
-> **And immobilise in the patient's usual deformed position, not in a neutral position** — forcing a fused kyphotic spine flat can itself cause cord injury. Cross-refer [[F0.5]] 0.7 and [[L4]].
-
-> [!warning] Acute anterior uveitis needs same-day ophthalmology
-> **Acute, usually unilateral, painful red eye with photophobia and blurred vision, recurring and often alternating sides.**
-> **It occurs in a substantial proportion of HLA-B27-associated disease, and it can be the presenting feature — sometimes years before the joint symptoms.**
-> **Any patient with spondyloarthritis must know to seek urgent ophthalmological assessment for a painful red eye**, because delayed treatment causes synechiae, glaucoma and visual loss. Cross-refer [[E1]].
-
-> [!tip] Psoriatic arthritis — the patterns and the hidden psoriasis
-> **Five patterns: asymmetrical oligoarthritis · symmetrical polyarthritis resembling rheumatoid arthritis · DIP-predominant · arthritis mutilans (severe destructive, with "telescoping" digits) · and axial disease.**
-> **NAIL CHANGES — pitting, onycholysis, subungual hyperkeratosis — correlate strongly with DIP joint involvement**, because the nail and the DIP joint share an enthesis. **Examine the nails.**
-> **The arthritis can PRECEDE the psoriasis, and the psoriasis can be minimal or hidden** — scalp, behind the ears, umbilicus, natal cleft, and the nails. **Ask about a family history of psoriasis, and look in those places yourself.**
-> **Conventional DMARDs work for peripheral joint disease. For AXIAL disease, methotrexate and sulfasalazine do NOT work** — biologic therapy (TNF or IL-17 inhibition) is required. **This is a key distinction and a common error: prescribing methotrexate for axial spondyloarthritis achieves nothing.**
-
-**Ix:** **MRI of the sacroiliac joints** (*why:* detects active sacroiliitis before radiographic change and is what enables early diagnosis; *what:* bone marrow oedema, erosions). **HLA-B27** (*why:* supports the diagnosis in a compatible clinical picture — **but it is present in a significant proportion of the healthy population and is NOT a screening test**; *what:* positive, interpreted with pre-test probability — see 0.6). Plain radiographs of sacroiliac joints and spine (*why:* established structural change, syndesmophytes, "bamboo spine"; *what:* late findings). CRP and ESR (*why:* often but not always raised in axial disease; *what:* inflammatory response — **normal markers do not exclude active axial spondyloarthritis**). **Examination for enthesitis, dactylitis, nails, skin and eyes** (*why:* these make the diagnosis clinically and cost nothing; *what:* the extra-articular features). **Schober test, chest expansion and occiput-to-wall distance** (*why:* objective measures of spinal mobility for diagnosis and monitoring; *what:* restricted mobility). Faecal calprotectin or colonoscopy where bowel symptoms (*why:* inflammatory bowel disease-associated arthritis; *what:* intestinal inflammation). Echocardiography and ECG in longstanding disease (*why:* **aortic regurgitation and conduction defects occur in ankylosing spondylitis**; *what:* valve disease, heart block).
-
-### 0.3.1 Mx – Immediate
-**Urgent ophthalmology for a painful red eye. Urgent imaging for any spinal trauma in a fused spine.**
-
-### 0.3.2 Mx – Definitive
-**Exercise and physiotherapy are central and disease-modifying in axial disease — not an adjunct.** NSAIDs. **Biologic therapy for axial disease; conventional DMARDs for peripheral disease.**
-
-### 0.3.3 Mx – Chronic/long-term
-**Bone density assessment — osteoporosis is common and under-recognised in ankylosing spondylitis despite the radiographically dense-looking spine.** Cardiovascular risk, smoking cessation (which worsens axial disease), posture, and vocational support.
-
----
-
-## 0.4 Connective Tissue Disease
-
-> [!tip] Systemic lupus erythematosus
-> **A multisystem autoimmune disease, predominantly of women of reproductive age.**
-> **In Australia, prevalence and severity are higher among Aboriginal and Torres Strait Islander people and among people of Asian, African and Pacific ancestry**, with more renal involvement and worse outcomes — cross-refer [[AU1]].
-> **Features: malar rash (SPARING the nasolabial folds, which distinguishes it from rosacea and dermatomyositis) · discoid lesions · photosensitivity · PAINLESS oral or nasal ulcers · non-erosive arthritis (Jaccoud arthropathy — reducible deformity without erosion) · serositis (pleuritis, pericarditis) · RENAL · neuropsychiatric · haematological (any cytopenia) · and the immunological features.**
-> **LUPUS NEPHRITIS IS FREQUENTLY SILENT.** **Urinalysis with microscopy at every visit is how it is caught** — proteinuria, haematuria and casts appear before renal function declines, and by the time the creatinine rises significant damage has occurred. **This is the single most important routine test in lupus follow-up.**
-> **Monitoring activity: anti-dsDNA titre RISES and complement C3 and C4 FALL with disease activity, particularly renal flares.**
-> **Hydroxychloroquine is recommended for essentially all patients** — it reduces flares, organ damage and mortality, and is safe in pregnancy. **Requires baseline and periodic retinal screening.**
-
-> [!danger] Antiphospholipid syndrome — and the anticoagulant choice
-> **Arterial or venous thrombosis, or pregnancy morbidity (recurrent early loss, late fetal death, severe pre-eclampsia), with persistently positive antiphospholipid antibodies — lupus anticoagulant, anticardiolipin, or anti-β2-glycoprotein I — on TWO occasions at least 12 weeks apart.**
-> **The paradox worth knowing: the lupus anticoagulant PROLONGS the APTT in vitro while causing THROMBOSIS in vivo.** An unexplained prolonged APTT that does not correct on mixing should prompt the thought.
-> **After thrombosis, lifelong anticoagulation is required — and WARFARIN rather than a DOAC**, because **direct oral anticoagulants have been shown to be inferior in antiphospholipid syndrome, particularly in triple-positive patients, with increased arterial thrombotic events.** **This is a recent and important change, and putting an antiphospholipid patient on a DOAC out of convenience is a recognised harm.** `UNVERIFIED — confirm the current recommendation and the patient groups it applies to.`
-> **In pregnancy: aspirin and low molecular weight heparin**, not warfarin. Cross-refer [[O1]] and [[O2]].
-
-> [!warning] Systemic sclerosis — and the emergency within it
-> **Limited cutaneous** (skin distal to elbows and knees, plus face) — the **CREST** features, **anti-centromere antibody**, and the main late complication is **PULMONARY ARTERIAL HYPERTENSION**, requiring annual screening echocardiography.
-> **Diffuse cutaneous** (proximal skin involvement) — **anti-Scl-70 (topoisomerase I)**, with **interstitial lung disease** and **renal crisis** as the major risks.
-> **SCLERODERMA RENAL CRISIS: abrupt severe hypertension with rapidly progressive acute kidney injury, sometimes with microangiopathic haemolysis and encephalopathy.**
-> **The treatment is an ACE INHIBITOR, urgently and at full dose — it is life-saving and transformed the prognosis of this condition, and it is given even as the creatinine rises.**
-> **CORTICOSTEROIDS INCREASE THE RISK OF RENAL CRISIS** and should be avoided or minimised in diffuse systemic sclerosis. **This is counterintuitive — the reflex to give steroids for an inflammatory disease is exactly wrong here.**
-> Also: **Raynaud phenomenon with digital ulcers, severe GORD and oesophageal dysmotility, gastric antral vascular ectasia, and small bowel bacterial overgrowth.**
-
-> [!tip] Raynaud phenomenon — primary or secondary?
-> **Triphasic colour change (white → blue → red) of the digits on cold or emotional stress.**
-> **Features suggesting SECONDARY (i.e. underlying connective tissue disease): onset after about age 30 · asymmetry · DIGITAL ULCERS or pitting scars · ABNORMAL NAILFOLD CAPILLAROSCOPY · positive ANA · and associated systemic symptoms.**
-> **Nailfold capillaroscopy — examining the capillaries at the nail fold, which can be done with a dermatoscope or even an ophthalmoscope — is a genuinely useful bedside test that is rarely performed**, and abnormal capillaries strongly predict an underlying connective tissue disease.
-
-> [!tip] Sjögren syndrome
-> **Dry eyes and dry mouth from lymphocytic infiltration of exocrine glands**, with fatigue and arthralgia. **Anti-Ro (SSA) and anti-La (SSB).**
-> **Two things that matter beyond the sicca symptoms:**
-> **1. A substantially increased risk of NON-HODGKIN LYMPHOMA** — **persistent parotid swelling, new lymphadenopathy, or a falling complement should prompt investigation**, not reassurance.
-> **2. ANTI-Ro CROSSES THE PLACENTA AND CAUSES NEONATAL LUPUS AND CONGENITAL COMPLETE HEART BLOCK**, which is irreversible. **Any woman with anti-Ro antibodies planning pregnancy needs specialist obstetric input and fetal cardiac monitoring.** Cross-refer [[O2]].
-> Also: severe dental caries from xerostomia — **dental review is a legitimate part of management.**
-
-> [!tip] The others
-> **· Inflammatory myopathies — dermatomyositis and polymyositis** — cross-refer [[D4]] 0.6 and [[L3]]. **Dermatomyositis carries a paraneoplastic association warranting age-appropriate malignancy screening.**
-> **· Mixed connective tissue disease** — overlapping features with **anti-U1-RNP.**
-> **· Drug-induced lupus** — **hydralazine, procainamide, minocycline, isoniazid, and TNF inhibitors.** **Anti-histone antibodies**, sparing of the kidneys and CNS, and **resolution on stopping the drug.**
-
-**Ix:** **Urinalysis with microscopy at every visit** (*why:* silent lupus nephritis; *what:* proteinuria, haematuria, casts). **ANA as the entry test, with ENA and anti-dsDNA only if positive and clinically indicated** — see 0.6. **Complement C3 and C4** (*why:* fall with active disease, particularly renal; *what:* consumption). **Antiphospholipid antibodies — lupus anticoagulant, anticardiolipin and anti-β2-glycoprotein I, repeated after 12 weeks** (*why:* a single positive result is insufficient and transient positives occur with infection; *what:* persistent positivity). FBC (*why:* the cytopenias are diagnostic criteria; *what:* anaemia, leucopenia, lymphopenia, thrombocytopenia). **Anti-Ro and anti-La in any woman of reproductive age with connective tissue disease** (*why:* congenital heart block risk; *what:* positive). **Annual echocardiography in limited systemic sclerosis** (*why:* screens for pulmonary arterial hypertension, which is asymptomatic until advanced and treatable; *what:* estimated pulmonary pressures). **High-resolution CT chest and pulmonary function tests with DLCO in systemic sclerosis and myositis** (*why:* interstitial lung disease is a leading cause of death and is asymptomatic early; *what:* fibrosis, reduced DLCO). **Blood pressure and creatinine monitoring in diffuse systemic sclerosis** (*why:* renal crisis; *what:* new hypertension, rising creatinine). Nailfold capillaroscopy in Raynaud phenomenon (*why:* predicts underlying connective tissue disease; *what:* abnormal capillary pattern).
-
-### 0.4.1 Mx – Immediate
-**ACE inhibitor for scleroderma renal crisis. Anticoagulation for antiphospholipid thrombosis. Urgent management of pulmonary-renal syndrome** — see 0.5.
-
-### 0.4.2 Mx – Definitive
-Disease-specific immunomodulation, rheumatology-led. **Hydroxychloroquine for essentially all lupus patients.**
-
-### 0.4.3 Mx – Chronic/long-term
-**Sun protection in lupus** (genuine and effective). **Pregnancy planning — hydroxychloroquine continued; methotrexate, mycophenolate and cyclophosphamide stopped with appropriate washout; anti-Ro status established.** Cardiovascular and bone risk management. Vaccination before immunosuppression. **Lymphoma vigilance in Sjögren syndrome.**
-
----
-
-## 0.5 Vasculitis
-
-> [!tip] Classify by vessel size — it predicts the clinical picture
-> **LARGE VESSEL**
-> **· Giant cell arteritis** — over 50, headache, scalp tenderness, jaw claudication, visual loss. **Treat with steroids on suspicion, before biopsy** — cross-refer [[D1]] 0.4 and [[L3]].
-> **· Takayasu arteritis** — younger women, **absent or asymmetric pulses, blood pressure discrepancy between arms, bruits, limb claudication.** "Pulseless disease."
-> **MEDIUM VESSEL**
-> **· Polyarteritis nodosa** — **mononeuritis multiplex, renal infarction and hypertension, abdominal angina, skin nodules and livedo — and it characteristically SPARES the lungs.** Associated with **hepatitis B.**
-> **· Kawasaki disease** — cross-refer [[M2]].
-> **SMALL VESSEL — ANCA-ASSOCIATED**
-> **· Granulomatosis with polyangiitis** — **the ENT, lung and kidney triad: epistaxis, nasal crusting, SADDLE-NOSE deformity, sinusitis and subglottic stenosis; pulmonary nodules, cavities or haemorrhage; and rapidly progressive glomerulonephritis.** **c-ANCA / anti-PR3.**
-> **· Microscopic polyangiitis** — pulmonary-renal, without granulomas or ENT disease. **p-ANCA / anti-MPO.**
-> **· Eosinophilic granulomatosis with polyangiitis** — **ASTHMA, EOSINOPHILIA and neuropathy** as the defining triad, with sinusitis and cardiac involvement.
-> **SMALL VESSEL — IMMUNE COMPLEX**
-> **· IgA vasculitis (Henoch-Schönlein purpura)** — **palpable purpura on the buttocks and extensor legs, arthralgia, abdominal pain and nephritis**, mostly in children. Cross-refer [[C4]] 0.4 and [[M5]].
-> **· Cryoglobulinaemic vasculitis** — strongly associated with **hepatitis C.**
-> **· Anti-GBM disease (Goodpasture)** — pulmonary haemorrhage with glomerulonephritis.
-
-> [!danger] Pulmonary-renal syndrome is a medical emergency
-> **Haemoptysis or unexplained hypoxia, with haematuria, proteinuria and a rising creatinine.**
-> **The causes are ANCA-associated vasculitis, anti-GBM disease, and lupus** — all of which cause irreversible renal loss and fatal pulmonary haemorrhage within days.
-> **Urgent investigation and urgent immunosuppression — high-dose corticosteroids with cyclophosphamide or rituximab, and plasma exchange in anti-GBM disease — cannot wait for a tissue diagnosis if the patient is deteriorating.**
-> **Send ANCA and anti-GBM urgently, get a urine microscopy for red cell casts, and involve nephrology and rheumatology the same day.**
-
-> [!warning] The clinical red flags for vasculitis
-> **· PALPABLE PURPURA** — non-blanching, raised. This is small vessel vasculitis until proven otherwise and warrants a skin biopsy. Cross-refer [[G3]].
-> **· MONONEURITIS MULTIPLEX** — sequential involvement of individual named nerves. Cross-refer [[D4]] 0.4.
-> **· Unexplained multisystem illness with a markedly raised inflammatory response** — particularly with constitutional symptoms, renal involvement and an abnormal urinary sediment.
-> **· Recurrent epistaxis with nasal crusting, or a new saddle-nose deformity.**
-> **· Digital ischaemia or gangrene.**
-
-> [!tip] Behçet disease
-> **Recurrent oral AND genital ulceration, with uveitis** — plus skin lesions, arthritis, and a tendency to both venous and arterial thrombosis.
-> **Pathergy** — a papule or pustule forming at a needle prick site — is characteristic.
-> More common along the historical Silk Road, and worth considering in patients from those regions with recurrent ulceration.
-
-**Ix:** **ANCA with PR3 and MPO specificity** (*why:* supports and subtypes ANCA-associated vasculitis, though **it does not exclude vasculitis when negative**; *what:* c-ANCA/PR3 or p-ANCA/MPO). **Anti-GBM antibodies urgently in pulmonary-renal syndrome** (*why:* treatment includes plasma exchange and is time-critical; *what:* positive). **URINE MICROSCOPY FOR RED CELL CASTS AND DYSMORPHIC RED CELLS** (*why:* **casts indicate glomerulonephritis and are the finding that converts a vague systemic illness into an urgent renal emergency** — and they require a fresh sample examined promptly; *what:* casts, dysmorphic red cells). Creatinine and urine protein-creatinine ratio (*why:* renal involvement and its severity; *what:* declining function, proteinuria). CRP, ESR, FBC with **eosinophil count** (*why:* eosinophilia points to EGPA; *what:* inflammation, eosinophilia). **Chest imaging — radiograph and CT** (*why:* nodules, cavities, haemorrhage and fibrosis; *what:* the pulmonary pattern). Hepatitis B and C serology (*why:* polyarteritis nodosa and cryoglobulinaemic vasculitis respectively; *what:* infection). Cryoglobulins and complement (*why:* cryoglobulinaemia consumes complement; *what:* cryoglobulins, low C4). **Tissue biopsy — skin, kidney, nerve, temporal artery or lung** (*why:* the definitive diagnosis, and important before committing to prolonged immunosuppression; *what:* vasculitis on histology). Blood cultures and echocardiography (*why:* **infective endocarditis mimics vasculitis closely — with fever, splinter haemorrhages, glomerulonephritis and a positive ANCA — and immunosuppressing it is catastrophic**; *what:* organism, vegetation).
-
-### 0.5.1 Mx – Immediate
-**Urgent immunosuppression in organ-threatening disease.** **Steroids on suspicion in giant cell arteritis.** **Exclude infection first, particularly endocarditis.**
-
-### 0.5.2 Mx – Definitive
-Induction with corticosteroids plus cyclophosphamide or rituximab, then maintenance immunosuppression, specialist-led.
-
-### 0.5.3 Mx – Chronic/long-term
-**Prophylaxis against *Pneumocystis* and other opportunistic infection on intensive immunosuppression, bone protection, and vaccination.** Monitoring for relapse and for treatment toxicity, including bladder surveillance after cyclophosphamide.
-
----
-
-## 0.6 Autoantibody and Serology Interpretation
-
-> [!danger] The principle that governs everything: order antibodies to CONFIRM a suspicion, never to screen
-> **The predictive value of every autoantibody depends on the pre-test probability.**
-> **In a patient with a convincing clinical syndrome, a positive result confirms. In a patient with fatigue and vague aches, a positive result is far more likely to be a false positive — and it causes real harm: anxiety, a mistaken diagnostic label that follows them for years, unnecessary referral, and occasionally inappropriate immunosuppression.**
-> **"Rheumatology screen" ordered reflexively on an undifferentiated patient is one of the more harmful habits in general medicine.**
-
-> [!tip] What each test is actually for
-> **· ANA** — **a SENSITIVE but NOT SPECIFIC entry test for connective tissue disease.** **It is positive in a meaningful proportion of the healthy population, and the proportion rises with age.** **A low-titre positive ANA in a well person is usually meaningless.** Titre and pattern matter: a high titre with a compatible clinical picture is significant.
-> **· ENA panel and anti-dsDNA** — **ordered only if the ANA is positive and the clinical picture warrants it.** These are the specific antibodies: **anti-dsDNA and anti-Sm are specific for lupus; anti-Ro and anti-La for Sjögren; anti-Scl-70 and anti-centromere for systemic sclerosis subtypes; anti-Jo-1 for myositis; anti-U1-RNP for mixed connective tissue disease.**
-> **· Rheumatoid factor** — **poor specificity.** Positive in Sjögren syndrome, **hepatitis C, infective endocarditis, sarcoidosis, chronic infection and a proportion of healthy older people.** A positive RF in someone without inflammatory arthritis means very little.
-> **· Anti-CCP** — **high specificity for rheumatoid arthritis**, and predicts erosive disease.
-> **· ANCA** — order when vasculitis is genuinely suspected. **Request PR3 and MPO specificity, not just the immunofluorescence pattern.** **False positives occur in infection — notably endocarditis — and in inflammatory bowel disease.**
-> **· Complement C3 and C4** — **consumed in active immune complex disease**, so they FALL with active lupus and cryoglobulinaemia. Useful for monitoring.
-> **· HLA-B27** — **present in a significant minority of the healthy Caucasian population.** **It is NOT a diagnostic test and NOT a screening test** — it shifts probability in a patient who already has inflammatory back pain or a compatible syndrome.
-
-> [!warning] ESR and CRP are not interchangeable, and their discordance is informative
-> **CRP is a hepatic acute phase protein — it rises within hours and falls quickly.**
-> **ESR reflects plasma protein composition and is slower to rise and fall, and it is raised by AGE, ANAEMIA, PREGNANCY, obesity, renal failure and PARAPROTEINS independently of inflammation.**
-> **A very high ESR with a normal or near-normal CRP is a recognised and useful pattern** — it points toward **systemic lupus erythematosus (where CRP is characteristically not raised unless there is infection or serositis), MYELOMA and other paraproteinaemias**, and it should prompt a serum protein electrophoresis. Cross-refer [[J4]].
-> **Conversely, a raised CRP in a lupus patient should raise INFECTION rather than being assumed to be a flare** — which is a genuinely useful clinical rule.
-
-**Ix:** As described. **The practical rule: take the history, examine the patient, form a clinical hypothesis, and then order the two or three tests that will confirm or refute it** — not a panel.
-
----
-
-> [!note] Cross-references
-> The hot swollen joint and septic arthritis → [[L1]] · Muscle symptoms, PMR and giant cell arteritis → [[L3]] · Inflammatory back pain and axial disease → [[L4]] · Regional limb pain → [[L5]] · Giant cell arteritis → [[D1]] 0.4 · Mononeuritis multiplex and inflammatory myopathy → [[D4]] 0.4, 0.6 · Palpable purpura → [[G3]] · Anterior uveitis → [[E1]] · Interstitial lung disease → [[RESP-X]] · Cervical spine and anaesthesia → [[F0.4]] 0.6 and [[AN1]] · Pre-immunosuppression screening → [[K3]] 0.5 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Cardiovascular risk in inflammatory disease → [[B2]] 0.1 · Anticoagulation in antiphospholipid syndrome → [[A9]] 0.4 and [[J3]] · Pregnancy, anti-Ro and congenital heart block → [[O2]] · Myeloma and the ESR-CRP discordance → [[J4]] · IgA vasculitis in children → [[M5]] · Aboriginal and Torres Strait Islander health → [[AU1]]
-
-
-
-<!-- ===== SOURCE: Investigation-Interpretation.md ===== -->
-*Co-located here from `Investigation-Interpretation.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-> [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of autoantibody interpretation, side by side, both intact.**
-> They were in two files. A cross-reference means opening a second file, which under time pressure does not happen.
-> Two further accounts sit in `[[Infectious Disease_merged]]` — `NEW_Investigations_Infectious_Diseases §0.19` and `§0.20` — where autoimmune serology is arguably misfiled. They were not moved; that is a separate decision.
-
-## 1.16 Autoimmune Markers — Systematic Reference
-
-> [!note] Gap-filled from CSV ("Autoimmune markers," Musculoskeletal/Orthopaedics/Rheumatology category, Medium yield) — genuinely absent as a consolidated reference despite ANA, RF, anti-CCP, ANCA, and complement levels being scattered across [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] without ever being brought together into one interpretive framework. This entry consolidates the pattern; disease-specific detail is cross-referenced rather than repeated here.
-
-**General interpretive principle:** autoimmune markers should always be interpreted in the context of clinical suspicion, not used as a screening panel in patients with a low pre-test probability of autoimmune disease — most of these markers have a meaningful false-positive rate in the general population (particularly ANA), so an isolated positive result in a patient without a compatible clinical picture is more often a false positive than a new diagnosis.
-
-**ANA (antinuclear antibody):**
-- Highly **sensitive** but poorly **specific** — positive in 99% of SLE (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE)) but also positive in a meaningful proportion of the healthy general population (increasing with age), and in many other autoimmune and even non-autoimmune conditions — a positive ANA alone is a starting point for further testing, not a diagnosis.
-- A negative ANA makes SLE genuinely unlikely (given its high sensitivity) and is a reasonable test to rule the diagnosis out; a positive ANA needs to be followed by more specific antibody testing (anti-dsDNA, anti-Smith, extractable nuclear antigens) to build a clinically meaningful picture. **Anti-Smith (anti-Sm) is the inverse of ANA in this respect: highly specific (close to 99%) for SLE but poorly sensitive (only around 30% of SLE patients test positive)** — a positive anti-Smith result is genuinely strong supporting evidence for SLE given how few other conditions produce it, but a negative result does very little to rule the diagnosis out, unlike a negative ANA.
-
-**Rheumatoid factor (RF) and anti-CCP:**
-- **RF:** positive in ~70% of RA (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Rheumatoid arthritis (RA)) but also positive in other autoimmune conditions (Sjögren syndrome, SLE) and in a proportion of healthy older adults — genuinely non-specific on its own.
-- **Anti-CCP:** more specific for RA than RF (90–95% positive in RA, with fewer false positives in unrelated conditions) — anti-CCP positivity, particularly combined with clinical features, carries more diagnostic weight than RF alone, and can also be a useful early marker (sometimes positive before RF or before overt joint disease is established).
-
-**ANCA (anti-neutrophil cytoplasmic antibody) — cANCA vs pANCA:**
-- **cANCA** — classically associated with granulomatosis with polyangiitis (GPA/Wegener's), positive in >90% (see [[12_04_Rheum_-_Vasculitis]] Granulomatosis with polyangiitis (GPA, formerly Wegener's)).
-- **pANCA** — classically associated with eosinophilic granulomatosis with polyangiitis (EGPA/Churg-Strauss, ~60%) and microscopic polyangiitis (50–75%) — see [[12_04_Rheum_-_Vasculitis]] for the disease-level detail and the GPA vs EGPA comparison table, not repeated here.
-- **Neither pattern is perfectly specific to a single disease** — some overlap exists (e.g. cANCA in a minority of EGPA, pANCA in a minority of GPA), so ANCA pattern narrows the differential rather than confirming a single diagnosis in isolation; always interpret alongside the clinical picture per the general principle above.
-
-**Complement levels (C3, C4):**
-- **Low complement** reflects consumption by active immune complex formation — classically tracked in SLE, where **falling complement alongside rising anti-dsDNA titres supports an active lupus flare** (see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic lupus erythematosus (SLE), not repeated here) — complement trending is a genuinely useful way to monitor disease activity over time, distinct from a one-off diagnostic test.
-- Low C4 specifically is also relevant to hereditary angioedema (see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hereditary angioedema) — a good example of why the same lab value can mean genuinely different things depending on the clinical context it's ordered in.
-
-**Extractable nuclear antigens (ENA) — anti-Ro/La, anti-Scl-70, anti-centromere, anti-Jo-1:**
-- **Anti-Ro (SSA) and anti-La (SSB):** associated with Sjögren syndrome (70% and 30% respectively — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Sjögren syndrome) and SLE; anti-Ro specifically also carries relevance in pregnancy given the (rare) risk of neonatal lupus/congenital heart block.
-- **Anti-Scl-70 (topoisomerase I):** associated with diffuse cutaneous systemic sclerosis, generally the more severe phenotype; **anti-centromere antibodies** associated with limited cutaneous systemic sclerosis (CREST) — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Systemic sclerosis (scleroderma) for the LeRoy classification this maps onto, not repeated here.
-- **Anti-Jo-1:** associated with dermatomyositis/polymyositis, particularly the subset with interstitial lung disease — see [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]] Dermatomyositis, not repeated here.
-
-**Cross-reference:** see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]], [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]], and [[12_04_Rheum_-_Vasculitis]] for the full disease-level detail each marker pattern above feeds into.
-
----
-
-<!-- ===== SOURCE: L2_Polyarthralgia_and_Inflammatory_Arthritis.md ===== -->
-
-<!-- ===== SOURCE: L3_Muscle_Symptoms_and_Widespread_Pain.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, discriminators and management principles are reliable at intern level. **Every dose, taper schedule, diagnostic criterion and threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Rheumatology** and current Australian rheumatology and pain guidance.
->
-> **Inflammatory and drug-induced myopathy is built in [[D4]] 0.6**, and **giant cell arteritis in [[D1]] 0.4** — both are cross-referenced and extended here rather than repeated.
-
----
-
-## 0.1 Approach to Muscle Symptoms
-
-> [!danger] Patients say "weak" for at least four different things — establish which
-> **· TRUE WEAKNESS** — objective loss of power. Neuromuscular. Cross-refer [[D4]] 0.1.
-> **· MYALGIA** — pain, with normal power once the pain is overcome.
-> **· STIFFNESS** — difficulty initiating or sustaining movement, which may be inflammatory, parkinsonian or mechanical.
-> **· FATIGUE** — tiredness and lack of stamina, which is not weakness at all.
-> **The question that resolves it: "what can't you do now that you could do before?"**
-> **Rising from a low chair without using the arms · climbing stairs · lifting the arms above the head to wash hair or reach a shelf · opening jars · getting off the toilet.** These are functional, specific, and they localise proximal versus distal far better than formal power testing in a painful patient.
-
-> [!tip] The pattern narrows it fast
-> **· Proximal, symmetrical, painless weakness → myopathy** (inflammatory, drug-induced, endocrine, metabolic).
-> **· Proximal PAIN and stiffness with preserved power → polymyalgia rheumatica** (see 0.2), or bilateral rotator cuff disease.
-> **· Distal weakness → neuropathy** (cross-refer [[D4]] 0.2), or **inclusion body myositis** (which uniquely affects finger flexors and quadriceps, asymmetrically).
-> **· Fatigable weakness worse through the day → neuromuscular junction** (cross-refer [[D4]] 0.5).
-> **· Widespread pain with normal power and normal investigations → nociplastic pain** (see 0.5).
-
-> [!warning] What a creatine kinase does and does not tell you
-> **RAISED in: inflammatory myopathy, drug-induced myopathy (statins), rhabdomyolysis, muscular dystrophy, metabolic myopathy, hypothyroidism, and after seizures, intramuscular injections, trauma or vigorous exercise.**
-> **NORMAL in: polymyalgia rheumatica · STEROID myopathy · fibromyalgia · neuropathy · neuromuscular junction disease.**
-> **So a normal CK does NOT exclude a myopathy**, and a raised CK is not specific.
-> **Asymptomatic hyperCKaemia** is common and often benign — consider **recent exercise, intramuscular injection, statins, hypothyroidism, higher baseline levels in people of African ancestry, and macro-CK** before pursuing it. **Repeat it after several days of rest before investigating further.**
-
-> [!danger] Red flags in muscle symptoms
-> **· Rapidly progressive weakness** — think Guillain–Barré, myasthenic crisis, necrotising myopathy.
-> **· Respiratory or bulbar involvement** — breathlessness lying flat, weak cough, choking, nasal voice. **Monitor FVC, not oximetry** — cross-refer [[F0.5]] 0.5.
-> **· Dark or "cola-coloured" urine** — rhabdomyolysis. Cross-refer [[A7]] 0.6.
-> **· Systemic features — fever, weight loss, rash** — think inflammatory myopathy, vasculitis, malignancy.
-> **· New headache, jaw claudication or visual symptoms in a patient over 50** — **giant cell arteritis. Steroids immediately.** See 0.3.
-
-**Ix:** **CK, TSH, UEC, calcium, phosphate, magnesium, vitamin D, ESR and CRP** (*why:* covers the endocrine, electrolyte and inflammatory causes of muscle symptoms, most of which are reversible; *what:* the abnormality — **and remember vitamin D deficiency causing osteomalacic proximal myopathy, cross-refer [[I3]] 0.5**). **Medication review** (*why:* statins, corticosteroids, colchicine, and alcohol are among the commonest causes; *what:* culprit drug). EMG and nerve conduction studies (*why:* distinguishes myopathy from neuropathy and from neuromuscular junction disease; *what:* the pattern). Myositis-specific antibodies and muscle MRI or biopsy where inflammatory myopathy is suspected (*why:* classifies and directs treatment; *what:* histology, antibody profile — cross-refer [[D4]] 0.6).
-
----
-
-## 0.2 Polymyalgia Rheumatica
-
-**D:** An inflammatory condition of people over 50, causing **bilateral shoulder and/or pelvic girdle PAIN AND STIFFNESS** with a marked inflammatory response and a characteristic response to corticosteroids.
-
-> [!tip] The clinical picture, and the two features that define it
-> **· Age over 50 — it essentially does not occur below this**, and a diagnosis of PMR under 50 should be re-examined.
-> **· Bilateral shoulder and/or hip girdle pain and stiffness, often abrupt in onset — patients can sometimes name the day.**
-> **· PROLONGED MORNING STIFFNESS**, often severe enough that they cannot get out of bed, turn over, or dress unaided.
-> **· Systemic features: fatigue, low-grade fever, weight loss, anorexia and low mood** — which is why it is sometimes mistaken for depression or malignancy.
-> **The two defining discriminators:**
-> **1. PAIN AND STIFFNESS, NOT TRUE WEAKNESS.** Power is normal once the pain is overcome. **This separates it from inflammatory myopathy**, where there is genuine weakness.
-> **2. The CK IS NORMAL.** A raised CK means it is not PMR.
-
-> [!warning] Inflammatory markers are usually but not always raised
-> **ESR and CRP are typically markedly elevated**, and this supports the diagnosis.
-> **But a minority of genuine PMR has normal inflammatory markers**, so normal results do not exclude it in a compelling clinical picture — and equally, raised markers in an older person with aches are non-specific.
-
-> [!danger] The steroid response is near-diagnostic — and failure to respond means reconsider
-> **PMR responds to low-dose prednisolone dramatically and fast — typically substantial improvement within days**, often described by patients as transformative.
-> **If there is not a clear response within about a week at an adequate dose, the diagnosis is probably wrong.** Do not escalate the steroid dose; revisit the differential.
-> This makes the therapeutic trial part of the diagnostic process — but it also means **the mimics must be considered BEFORE steroids are started**, because steroids will partially mask several of them and complicate later diagnosis. `UNVERIFIED — starting dose, expected time to response, and the taper schedule.`
-
-> [!danger] The mimics — consider them before committing to a year of steroids
-> **· Elderly-onset RHEUMATOID ARTHRITIS** — can present with a polymyalgic picture. **Look for peripheral synovitis and check anti-CCP.**
-> **· Inflammatory MYOPATHY** — true weakness and a raised CK.
-> **· HYPOTHYROIDISM** — proximal aches, stiffness, fatigue, raised CK. **Check the TSH.**
-> **· MALIGNANCY** — particularly myeloma, lymphoma and solid tumours, which cause aches, weight loss and a high ESR. **Check a serum protein electrophoresis** — cross-refer [[J4]].
-> **· INFECTION — infective endocarditis in particular** presents with malaise, aches, weight loss and a high inflammatory response, and **immunosuppressing it is disastrous.** Cross-refer [[B5]] 0.2.
-> **· STATIN-associated muscle symptoms** — cross-refer [[I5]] 0.3.
-> **· Bilateral rotator cuff disease and adhesive capsulitis** — mechanical, without systemic features or a raised ESR.
-> **· PARKINSON disease** — rigidity and slowness misread as stiffness. Cross-refer [[D6]] 0.5.
-> **· Late-onset spondyloarthritis, osteoarthritis, vitamin D deficiency, and depression.**
-
-> [!danger] Every PMR patient must be counselled about giant cell arteritis
-> **A meaningful proportion of PMR patients develop giant cell arteritis, and it can occur at any point — including while on treatment.**
-> **Explicitly tell the patient: "If you develop a new headache, scalp tenderness, pain in the jaw when chewing, or ANY change in your vision, seek medical attention the same day."**
-> **Document that you gave this advice.** **Visual loss in GCA is sudden, painless and irreversible**, and the interval in which it is preventable is short. This counselling is examinable and it genuinely prevents blindness.
-
-**S/Smx:** As above, with examination showing painful restriction of shoulder and hip movement, sometimes with peripheral features such as distal swelling, carpal tunnel syndrome or a mild peripheral synovitis.
-
-**Ix:** **ESR and CRP** (*why:* usually markedly raised, and used to monitor response and relapse; *what:* elevation). **CK** (*why:* **normal in PMR — a raised CK redirects to myopathy**; *what:* normal). **TSH** (*why:* hypothyroidism mimics it precisely and is reversible; *what:* raised TSH). **Anti-CCP and rheumatoid factor** (*why:* elderly-onset rheumatoid arthritis presents polymyalgically and needs different treatment; *what:* positive anti-CCP). **Serum protein electrophoresis and free light chains** (*why:* **myeloma causes aches, fatigue, weight loss and a very high ESR in exactly this age group**; *what:* paraprotein). FBC, UEC, LFT, calcium, glucose (*why:* baseline before prolonged steroids, and screens for alternative causes; *what:* derangement). Blood cultures where any suspicion of endocarditis (*why:* immunosuppressing endocarditis is catastrophic; *what:* organism). **Urinalysis and a chest radiograph** (*why:* occult malignancy and infection; *what:* findings). **Vitamin D and consideration of bone density** (*why:* baseline before a prolonged steroid course; *what:* deficiency, low bone density). Ultrasound of shoulders and hips (*why:* demonstrates subacromial bursitis and biceps tenosynovitis characteristic of PMR, and identifies rotator cuff disease as an alternative; *what:* bursitis, tenosynovitis).
-
-### 0.2.1 Mx – Immediate
-Not applicable — **unless GCA is suspected, in which case give high-dose steroids the same day.**
-
-### 0.2.2 Mx – Definitive
-**Low-dose prednisolone with a slow, structured taper over one to two years.** **Relapse during tapering is common** and usually responds to a modest dose increase. **Steroid-sparing agents — methotrexate, and tocilizumab — for relapsing disease or where steroid toxicity is a concern.** `UNVERIFIED — doses, taper schedules and steroid-sparing indications.`
-
-### 0.2.3 Mx – Chronic/long-term
-**BONE PROTECTION FROM DAY ONE** — calcium, vitamin D, bone density assessment and bisphosphonate consideration, because a one-to-two-year steroid course reliably causes bone loss and these are elderly patients already at fracture risk. Cross-refer [[GER1]] 0.6.
-**Also: glucose monitoring (steroid-induced diabetes), blood pressure, gastric protection where indicated, cataract and glaucoma awareness, infection risk, and a steroid card.**
-**Repeated GCA counselling at every review**, not just at diagnosis.
-
----
-
-## 0.3 Giant Cell Arteritis — The Overlap
-
-Built in [[D1]] 0.4. Extended here for the PMR relationship and the large-vessel manifestations.
-
-> [!danger] The core principle bears repeating: treat before you investigate
-> **High-dose corticosteroids are started on clinical suspicion — before the ESR result, before the temporal artery biopsy, and before imaging.**
-> **Visual loss is sudden, painless, irreversible, and can become bilateral within days.** The steroid is what prevents the second eye.
-> **Biopsy within about two weeks of starting steroids**, taking an adequate length of artery because of **skip lesions** — and **a negative biopsy does not exclude the diagnosis.**
-> `UNVERIFIED — the steroid doses, which differ substantially between visual and non-visual presentations, and the biopsy timing window.`
-
-> [!tip] The relationship with PMR
-> **They are part of the same disease spectrum.** A substantial minority of PMR patients develop GCA, and a large proportion of GCA patients have polymyalgic symptoms.
-> **This is why PMR patients need GCA counselling, and why every patient with new GCA should be asked about girdle pain and stiffness.**
-
-> [!warning] Large-vessel GCA — a different presentation that is missed
-> **GCA can affect the aorta and its major branches rather than the cranial arteries**, presenting with:
-> **· Limb claudication, particularly of the arms · asymmetric pulses or blood pressure · bruits · and constitutional symptoms with a very high inflammatory response and NO headache at all.**
-> **· Later: thoracic aortic aneurysm and dissection**, which is why long-term aortic surveillance is considered.
-> **This presentation is diagnosed on imaging — PET-CT, CT or MR angiography — not on temporal artery biopsy**, which may be entirely normal.
-> **Consider it in an older patient with an unexplained inflammatory syndrome and no localising features** — it is a recognised cause of "fever of unknown origin" in this age group. Cross-refer [[K1]] 0.3.
-
-> [!tip] Ultrasound and steroid-sparing therapy
-> **Temporal and axillary artery ultrasound looking for the "halo sign"** (a hypoechoic circumferential wall thickening) is increasingly used and can be done rapidly, but is operator-dependent and its sensitivity falls after steroids are started — **so it should be done early if it is going to be done.**
-> **Tocilizumab is an effective steroid-sparing agent in GCA** and reduces cumulative steroid exposure, which matters enormously in this elderly population. `UNVERIFIED — availability and PBS criteria in Australia.`
-
-**Ix:** As per [[D1]] 0.4, plus **large-vessel imaging (PET-CT, CT or MR angiography) where the presentation is constitutional without cranial features** (*why:* temporal artery biopsy will be negative in large-vessel disease; *what:* aortic and branch wall thickening or uptake). **Aortic surveillance imaging in the long term** (*why:* aneurysm and dissection risk; *what:* aortic dilatation).
-
----
-
-## 0.4 Myopathy and the Raised CK
-
-Built in [[D4]] 0.6. The points worth carrying here:
-
-> [!tip] The pattern that separates the myopathies
-> **· Inflammatory (polymyositis, dermatomyositis)** — subacute proximal weakness, raised CK, treatable with immunosuppression. **Dermatomyositis carries a paraneoplastic association requiring age-appropriate malignancy screening.**
-> **· Inclusion body myositis** — **older, ASYMMETRIC, FINGER FLEXORS and QUADRICEPS, slowly progressive, steroid-UNRESPONSIVE.** Misdiagnosis as polymyositis leads to years of futile immunosuppression.
-> **· Statin-associated** — from myalgia through to rhabdomyolysis, and **immune-mediated necrotising myopathy with anti-HMGCR antibodies, which PROGRESSES AFTER the statin is stopped.** Cross-refer [[I5]] 0.3.
-> **· STEROID myopathy — proximal weakness with a NORMAL CK.** Improves with dose reduction and exercise.
-> **· Endocrine — hypothyroidism, hyperthyroidism, Cushing syndrome, and vitamin D deficiency with osteomalacia.** All reversible, all worth testing for.
-> **· Rhabdomyolysis** — cross-refer [[A7]] 0.6.
-
-> [!warning] Investigating asymptomatic hyperCKaemia
-> **Repeat it after several days of rest, avoiding exercise, before doing anything else** — exercise-related elevation is by far the commonest explanation.
-> Then **check TSH, review medications, and consider ethnicity-related higher baseline levels.**
-> **Persistent unexplained elevation with any weakness warrants EMG and specialist referral**, since it may be the first sign of a metabolic or dystrophic myopathy.
-
----
-
-## 0.5 Fibromyalgia and Chronic Widespread Pain
-
-> [!danger] Fibromyalgia is a disorder of central pain processing — it is neither imaginary nor psychological
-> **The mechanism is "nociplastic" pain: altered central pain processing, with central sensitisation and impaired descending inhibition, so that normal input is amplified and interpreted as painful.** There is measurable evidence of this on functional imaging and quantitative sensory testing.
-> **This framing is not a nicety — it is the single most therapeutically important thing you can convey.**
-> **"All your tests are normal" is heard as "there is nothing wrong with you and I don't believe you", and it drives patients to further investigation, further practitioners, and worse outcomes.**
-> **The alternative: "your tests are normal, and that is exactly what I expected, because this is a problem with how pain signals are processed rather than damage in the tissues themselves — the pain is real, and there is a lot we can do about it."**
-
-> [!tip] The clinical picture — pain is not the whole of it
-> **· Chronic widespread pain lasting more than three months.**
-> **· FATIGUE, and characteristically UNREFRESHING SLEEP** — waking as tired as on going to bed.
-> **· COGNITIVE difficulty — "fibro fog": word-finding, concentration and memory problems**, which patients often find more distressing than the pain and frequently fear is dementia.
-> **· And the associated conditions that cluster with it: irritable bowel syndrome, chronic headache, temporomandibular pain, bladder symptoms, and anxiety and depression.** These are not coincidental — they share the nociplastic mechanism.
-> **Diagnosis is POSITIVE and clinical**, based on the distribution of pain and the symptom burden. **The old tender-point examination is no longer required.** `UNVERIFIED — the current diagnostic criteria.`
-
-> [!danger] Investigate once, appropriately, and then stop
-> **A limited screen: FBC, ESR and CRP, TSH, CK, calcium, vitamin D, and coeliac serology** — chosen because each identifies a treatable mimic.
-> **Then stop.**
-> **Repeated investigation is actively harmful**: it reinforces the belief that something has been missed, it finds incidental abnormalities that generate further investigation, and it delays engagement with treatment that works. **Every negative scan makes the next reassurance less effective.**
-> **But the converse trap is equally real: fibromyalgia COEXISTS with inflammatory disease.** **Do not use the label to dismiss new objective findings — genuine synovitis, a rising inflammatory response, weight loss, or a new neurological sign deserve assessment on their merits.** Patients with fibromyalgia get lupus and cancer too, and the label makes them harder to hear.
-
-> [!warning] Management — what works, in order of effect size
-> **1. EDUCATION AND EXPLANATION — the highest-value intervention.** Validating the symptoms, explaining central sensitisation, and setting the expectation of management rather than cure.
-> **2. GRADED EXERCISE — the best-evidenced treatment.** **Start far below what seems reasonable and build very slowly**, because doing too much causes a flare that convinces the patient exercise is harmful. Aerobic exercise, aquatic exercise and resistance training all have evidence.
-> **3. Sleep** — addressing sleep quality, and screening for obstructive sleep apnoea and restless legs, both of which are common and treatable.
-> **4. Psychological therapy — cognitive behavioural therapy and acceptance and commitment therapy**, framed as pain management, not as treatment for a psychiatric illness.
-> **5. Pacing** — activity management to break the boom-and-bust cycle.
-> **6. Pharmacotherapy — modest, second-line, and adjunctive.** Amitriptyline, duloxetine and pregabalin have some evidence. **Simple analgesics are largely ineffective.**
-
-> [!danger] Opioids are contraindicated in fibromyalgia and cause harm
-> **They do not work for nociplastic pain, they cause OPIOID-INDUCED HYPERALGESIA which worsens the underlying problem, and they cause dependence, cognitive impairment and endocrine dysfunction.**
-> **Patients with fibromyalgia are disproportionately likely to end up on long-term opioids** — because the pain is severe, the consultations are difficult, and prescribing something feels like doing something.
-> **Deprescribing opioids in an established fibromyalgia patient is difficult but is one of the more valuable things that can be done**, and it requires a plan, time and support rather than abrupt cessation. Cross-refer [[F0.4]] 0.9.
-> **Avoid the harm cycle: repeated imaging, repeated referrals, injections, procedures, surgery and opioids.** Each intervention that fails deepens the illness identity.
-
-**Ix:** **The limited screen above, once** (*why:* identifies the treatable mimics — hypothyroidism, inflammatory disease, myopathy, coeliac disease, vitamin D deficiency — and nothing further is indicated; *what:* the mimic or, more often, normal results). **Screening for depression, anxiety, and a trauma history** (*why:* they are common, treatable, and adverse childhood experiences are over-represented — asked sensitively, not as an implication that the pain is psychological; *what:* comorbid mood disorder). **Sleep assessment** (*why:* obstructive sleep apnoea and restless legs are common, treatable, and directly worsen pain and fatigue; *what:* apnoea, low ferritin in restless legs — cross-refer [[D6]] 0.6).
-
-### 0.5.1 Mx – Immediate
-Not applicable.
-
-### 0.5.2 Mx – Definitive
-The multimodal package above, with education and graded exercise as the core.
-
-### 0.5.3 Mx – Chronic/long-term
-**Continuity with one clinician is itself therapeutic** — it reduces repeated investigation and doctor-shopping. Function-focused goals rather than pain scores. **Multidisciplinary pain service referral** where available. Realistic framing: improvement in function and quality of life, not elimination of pain.
-
----
-
-## 0.6 Chronic Fatigue and the Overlap Syndromes
-
-> [!tip] Approach to chronic fatigue
-> The differential is broad and is covered in [[B6]] 0.5. The essential exclusions: **anaemia and iron deficiency · thyroid disease · diabetes · coeliac disease · obstructive sleep apnoea · chronic kidney or liver disease · adrenal insufficiency · malignancy · chronic infection including HIV and hepatitis · MEDICATION · and DEPRESSION**, which is both a common cause and a common consequence.
-> **A limited, targeted screen — then stop**, as in 0.5.
-
-> [!warning] Myalgic encephalomyelitis / chronic fatigue syndrome
-> **The cardinal feature is POST-EXERTIONAL MALAISE — a disproportionate and delayed worsening of symptoms after physical, cognitive or emotional exertion, often lasting days**, and it is what distinguishes ME/CFS from ordinary fatigue and from deconditioning.
-> Alongside: profound fatigue not relieved by rest, unrefreshing sleep, cognitive impairment, and often orthostatic intolerance.
-> **The management position has changed.** **Graded exercise therapy, previously a standard recommendation, is now contested and is not recommended in the way it once was**, because of concern that exertion can worsen ME/CFS through post-exertional malaise. **PACING — activity management within the patient's energy envelope — is the current emphasis.**
-> `UNVERIFIED — this is a genuinely contested and evolving area, the guidance has changed and differs between jurisdictions and guideline bodies, and it is emotionally charged for patients. Check the current position before advising, and be careful not to apply the fibromyalgia exercise advice to ME/CFS uncritically — they are different conditions with different evidence.`
-
-> [!tip] Long COVID and the overlap
-> **Post-acute sequelae of COVID-19** overlaps substantially with ME/CFS and fibromyalgia — fatigue, post-exertional symptoms, cognitive difficulty, breathlessness, and autonomic symptoms including **postural orthostatic tachycardia syndrome (POTS)**.
-> **POTS** — an excessive heart rate rise on standing without hypotension, with light-headedness, palpitations and fatigue. **It is often missed and is worth testing for with a lying and standing heart rate and blood pressure**, because it is manageable with fluids, salt, compression, exercise reconditioning and sometimes medication. Cross-refer [[B4]] 0.2.
-> **The general principles are the same across these conditions: validate, screen appropriately once, avoid iatrogenic harm, focus on function, and manage the treatable comorbidities.**
-
-**Ix:** As per [[B6]] 0.5. **Lying and standing heart rate and blood pressure** (*why:* detects POTS and orthostatic hypotension, both treatable and both commonly missed in chronic fatigue; *what:* excessive tachycardia or postural drop). Sleep assessment and mood screening (*why:* treatable contributors; *what:* apnoea, depression).
-
-### 0.6.1 Mx – Immediate
-Not applicable.
-
-### 0.6.2 Mx – Definitive
-Treat identified causes and comorbidities. **Pacing and energy management in ME/CFS.**
-
-### 0.6.3 Mx – Chronic/long-term
-Function-focused, continuity of care, and support for work and study adjustments — **which frequently matter more to the patient than any prescription.**
-
----
-
-> [!note] Cross-references
-> Localising weakness and the neuromuscular levels → [[D4]] 0.1 · Inflammatory and drug-induced myopathy → [[D4]] 0.6 · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Giant cell arteritis → [[D1]] 0.4 · Fever of unknown origin in the elderly → [[K1]] 0.3 · Fatigue differential → [[B6]] 0.5 · Rhabdomyolysis → [[A7]] 0.6 · Statin myopathy → [[I5]] 0.3 · Osteomalacia and vitamin D → [[I3]] 0.5 · Myeloma → [[J4]] · Infective endocarditis as a mimic → [[B5]] 0.2 · Parkinsonism as a mimic of stiffness → [[D6]] 0.5 · Restless legs and ferritin → [[D6]] 0.6 · POTS and orthostatic intolerance → [[B4]] 0.2 · Steroid-induced osteoporosis → [[GER1]] 0.6 · Opioid deprescribing and chronic pain → [[F0.4]] 0.9 · Inflammatory arthritis → [[L2]] · Back pain → [[L4]]
-
-
-<!-- ===== SOURCE: L4_Back_and_Neck_Pain.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Clinical reasoning, red flags and discriminators are reliable at intern level. **Every dose, imaging rule, time target and threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify decision rules (Canadian C-spine, NEXUS) and dexamethasone dosing for cord compression against current sources and your health network's protocol.
->
-> **Radiculopathy is built in [[D4]] 0.3**, **paresis patterns in [[D3]] 0.6**, and **inflammatory back pain in [[L2]] 0.3** — each is cross-referenced rather than repeated.
-
----
-
-## 0.1 Approach and Red Flags
-
-> [!tip] Most back pain is non-specific and self-limiting — the task is to find the few that are not
-> The clinical job is a **triage into three groups: non-specific mechanical back pain (the great majority) · radicular pain · and the serious pathologies below.**
-> **That triage is done by history and examination, not by imaging.**
-
-> [!danger] The red flags, grouped by what they point to
-> **CAUDA EQUINA — the most time-critical**
-> **· Bilateral leg pain or neurological symptoms · SADDLE ANAESTHESIA · bladder dysfunction, especially altered urinary sensation or retention · bowel incontinence or loss of sensation · sexual dysfunction · reduced anal tone.**
-> **MALIGNANCY**
-> **· Age over 50 or under 20 at new onset · known malignancy · unexplained weight loss · pain at REST and at NIGHT · progressive, unremitting, non-mechanical pain · failure to improve after several weeks · thoracic pain.**
-> **INFECTION**
-> **· Fever · injecting drug use · immunosuppression or diabetes · recent bacteraemia, spinal procedure or instrumentation · focal spinal tenderness · severe unremitting night pain with a raised CRP.**
-> **FRACTURE**
-> **· Significant trauma — or MINOR trauma in the osteoporotic, elderly, or those on corticosteroids · known osteoporosis · ANY trauma in a patient with ANKYLOSING SPONDYLITIS or DISH.**
-> **INFLAMMATORY**
-> **· Onset under 45 · insidious · morning stiffness over 30 minutes · improves with EXERCISE not rest · wakes in the second half of the night · good NSAID response.** Cross-refer [[L2]] 0.3.
-> **NEUROLOGICAL**
-> **· Progressive motor deficit · a sensory level · upper motor neurone signs in the legs.**
-
-> [!danger] Back pain can be referred visceral pain — and some of it is lethal
-> **· ABDOMINAL AORTIC ANEURYSM — a ruptured or symptomatic AAA presents as back or flank pain, and is repeatedly misdiagnosed as renal colic or musculoskeletal pain in an older patient.** **Examine the abdomen and feel for a pulsatile mass; a normal examination does not exclude it.** Cross-refer [[B5]] 0.4 and [[C1]] 0.7.
-> **· Aortic dissection** — tearing interscapular pain. Cross-refer [[B1]] 0.3.
-> **· Pancreatitis, peptic ulcer perforation, cholecystitis, pyelonephritis, renal colic, pelvic inflammatory disease, ectopic pregnancy, and endometriosis.**
-> **"New back pain in an older patient" deserves at least a moment's thought about the aorta before it is called mechanical.**
-
-> [!warning] Yellow flags predict chronicity better than any scan
-> **Psychosocial factors are the strongest predictors of whether acute back pain becomes chronic disabling pain:**
-> **· Fear-avoidance — the belief that movement causes damage, leading to activity restriction and deconditioning.**
-> **· Catastrophising.**
-> **· Low mood, anxiety and distress.**
-> **· The belief that pain equals ongoing tissue damage.**
-> **· Job dissatisfaction, workplace conflict, and compensation or litigation involvement.**
-> **· Passive expectations — waiting for a cure rather than participating in recovery.**
-> **Identifying and addressing these at the acute stage does more for long-term outcome than any investigation.**
-
-> [!danger] Do NOT image non-specific back pain without red flags
-> **Degenerative changes, disc bulges, protrusions and annular fissures are present in a very large proportion of ASYMPTOMATIC people, and their prevalence rises steeply with age.**
-> **Imaging without red flags does not improve outcomes and actively worsens them**: it produces findings that are attributed causally, generates fear and catastrophising, increases the likelihood of unnecessary intervention and surgery, and converts a self-limiting problem into a chronic illness identity.
-> **The words used to report and relay imaging matter — "degeneration", "wear and tear", "crumbling", "slipped disc" and "bone on bone" all cause measurable harm.** Prefer neutral, age-normalising language: *"the scan shows the changes we'd expect for your age — like grey hair, on the inside."*
-
-**Ix:** **Determined entirely by red flags.** In their absence, **no investigation** (*why:* imaging worsens outcomes in non-specific back pain; *what:* nothing that changes management). Where red flags are present, see the relevant section below.
-
----
-
-## 0.2 Cauda Equina Syndrome
-
-**A/P:** Compression of the **lumbosacral nerve roots below the conus medullaris** (which ends around L1–L2), producing a **LOWER motor neurone** picture — flaccid weakness, reduced reflexes, and loss of sphincter function.
-**Causes: a large central disc herniation (the commonest), tumour, epidural abscess or haematoma, trauma, and severe spinal stenosis.**
-
-> [!danger] Ask about bladder, bowel and sexual function directly — patients do not volunteer it
-> **The symptoms that matter are embarrassing and are not reported spontaneously.** You must ask, explicitly:
-> **· "Have you had any change in the feeling when you pass urine — can you tell when your bladder is full? Can you tell when the stream starts and stops?"**
-> **· "Have you had any accidents, or difficulty starting?"**
-> **· "Any change in sensation when you wipe, or around the back passage?"**
-> **· "Any change in sexual sensation?"**
-> **The earliest urinary feature is ALTERED SENSATION — loss of the desire to void, or loss of awareness of the stream — not incontinence.** **Painless retention with overflow incontinence is a LATE finding**, and outcomes are substantially better when decompression occurs before that point.
-
-> [!danger] Bladder scan and rectal examination — do both, and document both
-> **A post-void residual bladder scan is objective, takes two minutes, and is the single most useful test at the bedside.**
-> **A rectal examination for anal tone and perianal sensation must be performed and documented** — its absence from the notes is a recurring problem when these cases are reviewed.
-> **Test saddle sensation on both sides.**
-
-> [!danger] Same-day MRI and same-day referral — do not arrange an outpatient scan
-> **Suspected cauda equina syndrome requires an URGENT MRI, out of hours if necessary, and urgent discussion with the spinal or neurosurgical service.**
-> **Time to decompression correlates with outcome**, and the deficits — incontinence, sexual dysfunction, saddle numbness — are permanent and devastating in a typically young patient.
-> **This is among the most litigated diagnoses in medicine, almost always because of delay**, and the delay is usually a decision to arrange imaging the next day.
-> **If you are considering it, escalate now.** `UNVERIFIED — the recommended time targets to imaging and to surgery.`
-
-**S/Smx:** Bilateral or alternating radicular leg pain, saddle anaesthesia, urinary and bowel dysfunction, sexual dysfunction, lower limb weakness, and reduced or absent lower limb reflexes.
-
-**Ix:** **URGENT MRI of the whole lumbosacral spine** (*why:* the only test that identifies the level and cause, and the decision to operate depends on it; *what:* compression of the cauda equina). **Post-void residual bladder scan** (*why:* objective evidence of retention, and it can be done immediately; *what:* significant residual volume). **Rectal examination and saddle sensation testing, documented** (*why:* clinical evidence of sacral root involvement; *what:* reduced tone, reduced perianal sensation). Where MRI is contraindicated, CT myelography (*why:* alternative when MRI cannot be performed; *what:* compression).
-
-### 0.2.1 Mx – Immediate
-**Urgent MRI and urgent spinal surgical referral. Catheterise if in retention.** Analgesia. **Do not wait for morning.**
-
-### 0.2.2 Mx – Definitive
-Surgical decompression.
-
-### 0.2.3 Mx – Chronic/long-term
-**Bladder and bowel management, sexual function support, and rehabilitation** — deficits frequently persist, and these patients need ongoing multidisciplinary support that is often not arranged.
-
----
-
-## 0.3 Metastatic Spinal Cord Compression
-
-**A/P:** **Vertebral body metastases extend into the epidural space and compress the cord** — most commonly from **breast, lung, prostate, myeloma, renal and thyroid** primaries. Above the conus this is an **UPPER motor neurone** lesion with a sensory level, distinguishing it from cauda equina syndrome.
-
-> [!danger] The pain precedes the neurology by weeks — that is the window
-> **Progressive back pain, often thoracic, worse on lying flat and at night, sometimes band-like around the chest or abdomen, and worse on coughing or straining.**
-> **This pain phase typically precedes any neurological deficit by weeks, and it is the opportunity to intervene before the patient is paraplegic.**
-> **New or changing back pain in ANY patient with a known malignancy should be treated as cord compression until proven otherwise** — not as a musculoskeletal problem, and not as "their usual back pain".
-
-> [!danger] Ambulatory status at treatment predicts ambulatory status afterwards
-> **A patient who is walking when treated usually keeps walking. A patient who has lost the ability to walk usually does not regain it.**
-> **This single fact is why the pain phase matters, why the referral is urgent, and why "we'll scan them tomorrow" is the wrong answer.**
-
-> [!warning] Image the WHOLE spine
-> **Around a third of patients have compression at more than one level**, frequently at levels that are clinically silent.
-> **Imaging only the symptomatic region misses these, and treating one level while another progresses is a recognised failure.**
-
-**S/Smx:** Back pain as above, then **limb weakness, a sensory level, gait disturbance, and — late — sphincter dysfunction.** Upper motor neurone signs below the level.
-
-**Ix:** **URGENT MRI OF THE WHOLE SPINE** (*why:* identifies all levels of compression, which changes the radiotherapy field or surgical plan; *what:* epidural disease, cord compression, multiple levels). CT (*why:* assesses bony destruction and stability, and guides surgical decision-making; *what:* vertebral body destruction, instability). Investigation for a primary where unknown — **CT chest, abdomen and pelvis, serum protein electrophoresis, PSA, mammography** (*why:* the primary determines treatment and prognosis, and myeloma is common and specifically treatable; *what:* primary tumour, paraprotein). **Calcium** (*why:* hypercalcaemia of malignancy frequently coexists and causes confusion, constipation and dehydration; *what:* elevation — cross-refer [[I3]] 0.2). FBC, UEC, LFT (*why:* baseline and organ involvement; *what:* derangement).
-
-### 0.3.1 Mx – Immediate
-**High-dose corticosteroid immediately on clinical suspicion**, before imaging confirms. **Urgent whole-spine MRI. Urgent discussion with oncology, radiation oncology and spinal surgery.** **Nurse flat with log-rolling until spinal stability is established.** Analgesia, VTE prophylaxis, and bowel and bladder care. `UNVERIFIED — the dexamethasone dose and regimen, and whether a loading dose is used.`
-
-### 0.3.2 Mx – Definitive
-**Radiotherapy**, or **surgical decompression and stabilisation** where there is spinal instability, a single level with good performance status, an unknown primary requiring tissue, or radioresistant tumour. **Bone-modifying agents (bisphosphonates or denosumab).**
-
-### 0.3.3 Mx – Chronic/long-term
-Rehabilitation, pressure area and bladder care, **and — importantly — a goals-of-care discussion**, since cord compression usually signals advanced disease. Cross-refer [[GER2]] 0.5 and [[J5]].
-
----
-
-## 0.4 Spinal Infection — Discitis, Vertebral Osteomyelitis and Epidural Abscess
-
-> [!danger] The classic triad is present in a minority — a raised CRP with severe new back pain is the practical trigger
-> **The textbook triad of fever, back pain and neurological deficit occurs in the minority.** **Fever is absent in a substantial proportion**, and the neurological deficit is a late feature you are trying to prevent.
-> **The most useful practical rule: severe, unremitting, night-time back pain with a RAISED CRP warrants an MRI**, particularly in a patient with risk factors.
-> **Risk factors: injecting drug use · diabetes · immunosuppression · recent bacteraemia or infection elsewhere · recent spinal surgery, injection or epidural · haemodialysis · and infective endocarditis.**
-
-> [!tip] Organisms
-> ***Staphylococcus aureus* is the commonest**, followed by streptococci and Gram-negatives.
-> **Tuberculosis (Pott disease)** — indolent, over months, with vertebral body destruction, a **gibbus deformity**, and large paravertebral "cold" abscesses. Consider it in patients from high-prevalence countries and the immunosuppressed. Cross-refer [[K3]] 0.3.
-> ***Brucella*** — with relevant occupational or unpasteurised dairy exposure.
-
-> [!warning] Take blood cultures before antibiotics
-> **Blood cultures are positive in the majority of pyogenic spinal infection**, and identifying the organism determines a treatment course lasting weeks to months.
-> **Giving empirical antibiotics before cultures — in a haemodynamically stable patient — frequently leaves the organism unidentified and commits the patient to prolonged broad-spectrum therapy or a CT-guided biopsy.**
-> **The exception, as always: if the patient is septic, treat immediately.**
-
-> [!danger] Epidural abscess causes rapid, irreversible cord injury
-> **Progression from back pain to radicular pain to weakness to paralysis can occur over hours to days.**
-> **Any neurological deficit with suspected spinal infection is a surgical emergency requiring urgent decompression and drainage.**
-
-**Ix:** **Blood cultures — at least two sets, before antibiotics where the patient is stable** (*why:* identifies the organism and avoids a biopsy; *what:* organism and sensitivities). **CRP and ESR** (*why:* almost always raised, useful for monitoring response, and the practical trigger for imaging; *what:* elevation). **MRI with contrast** (*why:* the diagnostic test — detects discitis, vertebral osteomyelitis, paravertebral collections and epidural abscess, all of which plain radiographs miss for weeks; *what:* marrow oedema, disc and endplate destruction, epidural collection). CT-guided biopsy where blood cultures are negative (*why:* organism identification directs prolonged therapy; *what:* organism, and histology to exclude malignancy). **Echocardiography** (*why:* **infective endocarditis and spinal infection frequently coexist**, and finding one should prompt a search for the other; *what:* vegetation — cross-refer [[B5]] 0.2). HIV testing and assessment for immunosuppression (*why:* predisposing conditions; *what:* immunodeficiency).
-
-### 0.4.1 Mx – Immediate
-**Blood cultures, then antibiotics.** Urgent MRI. **Urgent surgical referral for any neurological deficit, instability, or abscess requiring drainage.**
-
-### 0.4.2 Mx – Definitive
-**Prolonged targeted antimicrobial therapy — weeks to months** — with surgical drainage and stabilisation where indicated. `UNVERIFIED — regimens and duration from eTG Antibiotic.`
-
-### 0.4.3 Mx – Chronic/long-term
-Monitoring of inflammatory markers and repeat imaging to confirm resolution, rehabilitation, and management of the predisposing condition including injecting drug use support.
-
----
-
-## 0.5 Mechanical Back Pain and Radiculopathy
-
-> [!tip] The natural history is good, and saying so is part of the treatment
-> **Most acute non-specific low back pain improves substantially within weeks**, and telling the patient this — confidently and specifically — measurably improves outcomes.
-> **Management:**
-> **· STAY ACTIVE. Bed rest is harmful and delays recovery.** Return to normal activity, including work, as early as tolerable.
-> **· Reassurance and education**, with attention to the language used.
-> **· Simple analgesia and heat.** **NSAIDs where not contraindicated. AVOID OPIOIDS** — they do not improve outcomes in back pain, and they cause dependence, constipation and hyperalgesia. Cross-refer [[F0.4]] 0.9.
-> **· Physiotherapy and exercise**, particularly where recovery is slower than expected.
-> **· Address the yellow flags** from 0.1.
-
-> [!danger] Language shapes the outcome
-> **Telling a patient their spine is "degenerating", "crumbling", "worn out" or "bone on bone", or that they have a "slipped disc", produces fear, activity avoidance, and worse long-term function.**
-> **Better framings:**
-> **· "The scan shows normal age-related changes — most people your age have these and have no pain."**
-> **· "Your back is strong. Hurt doesn't equal harm."**
-> **· "Movement is the treatment, not the risk."**
-> **This is examinable, and it is one of the clearest examples of a consultation changing a disease course.**
-
-> [!tip] Radiculopathy
-> Covered in **[[D4]] 0.3.** The points to carry:
-> **· L5 is the commonest lumbar radiculopathy, causes foot drop, and has NO reflex change** — so a normal reflex examination does not exclude it.
-> **· Straight leg raise reproduces L5/S1 pain; femoral stretch reproduces L2–L4.**
-> **· Most radiculopathy resolves with conservative management over weeks.**
-> **· Image for red flags, progressive deficit, or when intervention is being considered — and the imaging must MATCH the clinical level**, because incidental disc abnormalities at other levels are near-universal.
-
-> [!warning] Chronic back pain is a different problem from acute back pain
-> Once pain persists beyond about three months, **central sensitisation and psychosocial factors dominate over any structural lesion**, and the management shifts accordingly — cross-refer [[L3]] 0.5.
-> **What helps: exercise, graded activity, cognitive behavioural approaches, multidisciplinary pain programs, and addressing sleep, mood and work factors.**
-> **What harms: repeated imaging, repeated specialist referral, escalating opioids, and repeated interventional procedures.**
-
-**Ix:** **None in the absence of red flags.** Where indicated: **MRI matched to the clinical level** (*why:* identifies compression amenable to intervention; *what:* nerve root compression corresponding to the deficit).
-
----
-
-## 0.6 Spinal Stenosis and Degenerative Disease
-
-> [!danger] Neurogenic versus vascular claudication — the discriminating table
-> | | **Neurogenic (spinal stenosis)** | **Vascular (peripheral arterial disease)** |
-> |---|---|---|
-> | **Relieved by** | **SITTING or bending FORWARD** | **Standing still** |
-> | **Position** | Better with spinal FLEXION | Position-independent |
-> | **Walking uphill** | **EASIER** (spine flexed) | **HARDER** (greater demand) |
-> | **Cycling** | **Well tolerated** (flexed) | Poorly tolerated |
-> | **Claudication distance** | Variable day to day | Relatively fixed |
-> | **Pulses** | **Present** | **Reduced or absent** |
-> | **Symptoms** | Heaviness, paraesthesia, weakness | Cramping calf pain |
-> | **Skin** | Normal | Hair loss, trophic change, cool |
-> **The "shopping trolley sign" — able to walk much further when leaning on a trolley — is characteristic of neurogenic claudication** and is a useful single question. **They can also coexist**, particularly in older vasculopaths. Cross-refer [[B5]] 0.5.
-
-> [!tip] Lumbar spinal stenosis
-> **Degenerative narrowing of the central canal or lateral recesses from facet hypertrophy, ligamentum flavum thickening and disc bulging.**
-> **Bilateral buttock and leg heaviness, aching or paraesthesia brought on by walking or prolonged standing, relieved by sitting or flexion.**
-> Management: **conservative first — exercise, physiotherapy, analgesia, and activity modification.** **Decompressive surgery for refractory symptoms with concordant imaging**, with better outcomes for leg symptoms than for back pain.
-
-> [!warning] Vertebral fragility fracture
-> **Sudden onset of severe localised back pain, often after trivial or no trauma, in an older or osteoporotic patient**, with subsequent height loss and progressive kyphosis.
-> **Many are ASYMPTOMATIC and found incidentally on imaging done for another reason — and an incidental vertebral fracture is a diagnosis of osteoporosis that is routinely not acted upon.** Cross-refer [[GER1]] 0.6.
-> **Consider malignancy and myeloma** in any vertebral fracture, particularly above T5, with atypical features, or in a patient without osteoporosis risk factors.
-> Management: analgesia adequate to allow mobilisation, early mobilisation, calcitonin or other adjuncts in some cases, **and — critically — investigation and treatment of the underlying osteoporosis.** **Vertebroplasty and kyphoplasty remain contested.**
-
-> [!tip] The other degenerative entities
-> **· Spondylolisthesis** — anterior slip of one vertebra on another; degenerative in older patients, or from a pars defect (spondylolysis) in younger athletes, particularly those doing repeated hyperextension.
-> **· Facet joint arthropathy** — pain worse on extension and rotation.
-> **· Diffuse idiopathic skeletal hyperostosis (DISH)** — flowing ossification along the anterior spine, associated with diabetes and metabolic syndrome, and — like ankylosing spondylitis — **producing a rigid spine that fractures with minor trauma.**
-
-**Ix:** **MRI** (*why:* the imaging of choice for stenosis and for nerve root compression; *what:* canal and foraminal dimensions, level). **Ankle-brachial index** (*why:* distinguishes or identifies coexisting vascular claudication, which is common in the same demographic; *what:* reduced ABI — **noting it can be falsely normal in diabetic calcification** — cross-refer [[B5]] 0.5). Radiographs including flexion-extension views (*why:* instability and spondylolisthesis, which affect surgical planning; *what:* slip, mobility). **DXA and osteoporosis workup after any fragility fracture** (*why:* the fracture is the diagnosis, and treatment prevents the next one; *what:* bone density, secondary causes — cross-refer [[GER1]] 0.6 and [[I3]]).
-
----
-
-## 0.7 Neck Pain and the Cervical Spine
-
-> [!danger] Cervical myelopathy — insidious, progressive, and repeatedly attributed to ageing
-> **The symptoms are subtle and functional rather than painful, which is why it is missed:**
-> **· CLUMSY HANDS — difficulty with buttons, coins, keys, handwriting deteriorating.**
-> **· Gait disturbance and unsteadiness, with falls.**
-> **· A vague heaviness or numbness in the limbs.**
-> **· LHERMITTE phenomenon — an electric shock down the spine on neck flexion.**
-> **· Neck pain may be MINIMAL or absent** — which is the main reason the diagnosis is not considered.
-> **The signs: UPPER motor neurone findings in the LEGS — brisk reflexes, increased tone, upgoing plantars, clonus — with mixed or lower motor neurone findings at the level of compression in the arms.** **HOFFMANN sign** and **inverted supinator reflex** are useful.
-> **Test the gait and the hands in any older patient with neck symptoms or unexplained falls.**
-> **Decompression halts progression but does not reverse established deficit** — which is why early diagnosis matters, and why "it's just arthritis in the neck" is a costly conclusion. **Urgent MRI and spinal surgical referral.**
-
-> [!warning] Cervical spine trauma — clear it properly
-> **Validated decision rules — the Canadian C-Spine Rule and NEXUS — identify patients in whom imaging can be safely omitted.** `UNVERIFIED — the rule criteria, their exclusions, and which is used in your health service.`
-> **CT is the imaging of choice** where imaging is indicated in adults. **MRI is added where there is neurological deficit, or to assess ligamentous injury.**
-> **Neither rule applies to patients who are intoxicated, distracted by another painful injury, or have altered consciousness.**
-
-> [!danger] Three groups whose cervical spine is different
-> **1. ANKYLOSING SPONDYLITIS AND DISH — a fused spine fractures with trivial trauma, and the fracture is UNSTABLE and involves all three columns.** **Plain films are inadequate: get a CT, and often an MRI.** **Immobilise in the patient's usual deformed position — forcing a kyphotic fused neck flat onto a board can itself cause cord injury.** Cross-refer [[L2]] 0.3 and [[F0.5]] 0.7.
-> **2. RHEUMATOID ARTHRITIS — atlantoaxial subluxation**, with risk of cord compression during intubation or manipulation. **Flag it to the anaesthetist.** Cross-refer [[L2]] 0.2 and [[AN1]].
-> **3. DOWN SYNDROME — atlantoaxial instability** is more prevalent, and relevant to anaesthesia and to certain sports.
-
-> [!tip] Mechanical neck pain and whiplash
-> **Reassurance, early return to normal movement and activity, simple analgesia, and physiotherapy.**
-> **Soft collars are NOT recommended** — immobilisation delays recovery and promotes stiffness and chronicity.
-> **Whiplash-associated disorder** has strong psychosocial and compensation-related determinants of chronicity, and **the same yellow flag principles apply as in low back pain.**
-
-> [!warning] Two vascular considerations in neck pain
-> **· Vertebral or carotid artery dissection** — **neck pain with posterior circulation symptoms, or a painful Horner syndrome**, particularly in a younger patient after minor trauma or neck manipulation. **Requires vascular imaging of the neck, not just a brain CT.** Cross-refer [[D3]] 0.3 and [[D7]] 0.3.
-> **· Subarachnoid haemorrhage** — neck pain and stiffness developing over hours after a thunderclap headache. Cross-refer [[D1]] 0.2.
-
-**Ix:** **MRI cervical spine urgently in suspected myelopathy** (*why:* the only test that shows cord compression and signal change, and the deficit is progressive; *what:* canal stenosis, cord compression, cord signal change). **CT cervical spine in trauma where a decision rule indicates imaging** (*why:* far more sensitive than plain radiographs for fracture; *what:* fracture, alignment). **CT and MRI after ANY trauma in a fused spine** (*why:* plain films miss these fractures and they are unstable; *what:* three-column fracture). **CT or MR angiography of the neck vessels where dissection is suspected** (*why:* brain imaging alone misses the dissection; *what:* flap, tapering, intramural haematoma). Flexion-extension views or MRI in rheumatoid arthritis before surgery (*why:* atlantoaxial subluxation; *what:* instability).
-
-### 0.7.1 Mx – Immediate
-Immobilisation and imaging in trauma. **Urgent referral for myelopathy or unstable fracture.**
-
-### 0.7.2 Mx – Definitive
-Surgical decompression or stabilisation where indicated; conservative management for mechanical neck pain.
-
-### 0.7.3 Mx – Chronic/long-term
-Physiotherapy, ergonomic and postural advice, and **avoidance of prolonged collar use and repeated passive treatments.**
-
----
-
-> [!note] Cross-references
-> Radiculopathy, myotomes and dermatomes → [[D4]] 0.3 · Paresis patterns and spinal cord syndromes → [[D3]] 0.6 · Cervical and vertebral artery dissection → [[D3]] 0.3 · Inflammatory back pain and axial spondyloarthritis → [[L2]] 0.3 · Rheumatoid cervical spine and anaesthesia → [[L2]] 0.2 and [[AN1]] · Chronic widespread pain and central sensitisation → [[L3]] 0.5 · Fractures and spinal trauma → [[L7]] · Abdominal aortic aneurysm → [[B5]] 0.4 and [[C1]] 0.7 · Aortic dissection → [[B1]] 0.3 · Peripheral arterial disease and claudication → [[B5]] 0.5 · Spinal infection and endocarditis → [[B5]] 0.2 · Tuberculosis → [[K3]] 0.3 · Hypercalcaemia of malignancy → [[I3]] 0.2 · Osteoporosis and fragility fracture → [[GER1]] 0.6 · Opioid stewardship → [[F0.4]] 0.9 · Head and spinal injury → [[F0.5]] 0.7 · Palliative and goals of care → [[GER2]] 0.5 and [[J5]]
-
-
-<!-- ===== SOURCE: L5_Regional_Limb_Pain.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from guidelines. Anatomy, examination findings and discriminators are reliable at intern level. **Every decision rule, injection regimen and timeframe carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify the **Ottawa ankle and knee rules** and fracture management against current sources and your local orthopaedic protocols.
->
-> **Entrapment neuropathies are built in [[D4]] 0.4**, **hand infections in [[K2]] 0.3**, **fractures in [[L7]]**, and **paediatric hip and limp in [[M5]]** — each is cross-referenced rather than repeated.
-
----
-
-## 0.1 Approach to Regional Limb Pain
-
-> [!danger] Referred pain — the patterns that account for most diagnostic errors
-> **· KNEE pain from the HIP.** **A child or adolescent with knee pain must have the hip examined — slipped upper femoral epiphysis and Perthes disease present as knee or thigh pain with a normal knee.** The same applies in adults with hip osteoarthritis. **This is the single most important referred pattern in musculoskeletal medicine.** Cross-refer [[M5]].
-> **· SHOULDER pain from the DIAPHRAGM** (C3–C5): **subphrenic abscess, ruptured spleen, ruptured ectopic pregnancy, cholecystitis, perforated viscus** — and from the heart. **Shoulder-tip pain with abdominal signs is intra-abdominal until proven otherwise.** Cross-refer [[C1]] and [[C7]] 0.5.
-> **· SHOULDER and arm pain from the CERVICAL SPINE** (C5–C6 radiculopathy) and from a **Pancoast tumour** at the lung apex — with **Horner syndrome and hand wasting.** Cross-refer [[D7]] 0.3.
-> **· HIP and thigh pain from the LUMBAR SPINE** — L2–L4 radiculopathy and spinal stenosis. Cross-refer [[L4]] 0.6.
-> **· ELBOW pain from the neck, and from cardiac ischaemia.**
-> **· FOOT pain from lumbosacral radiculopathy.**
-> **A joint that is not tender, has full passive range, and has a normal examination is unlikely to be the source of the pain.**
-
-> [!tip] Localise by structure, using movement
-> **· Pain on PASSIVE movement with global restriction → the JOINT itself** (arthritis, capsulitis, sepsis).
-> **· Pain on RESISTED movement with preserved passive range → MUSCLE or TENDON.** Resisted testing of specific movements localises to the specific tendon.
-> **· Point tenderness over a bony prominence → ENTHESIS or bursa.**
-> **· Pain reproduced by nerve tension tests, with paraesthesia → NEURAL.**
-> Cross-refer [[L1]] 0.1 for the intra-articular versus periarticular distinction.
-
-> [!warning] Red flags in regional limb pain
-> **· Night pain and rest pain, unrelated to activity — particularly around the knee or proximal humerus in a young person → BONE TUMOUR.**
-> **· Systemic features — fever, weight loss.**
-> **· A palpable mass, especially if deep, larger than a golf ball, or growing → SARCOMA. Refer BEFORE biopsy.** Cross-refer [[B6]] 0.8.
-> **· Neurovascular deficit.**
-> **· Inability to weight bear after trauma.**
-> **· Bilateral, symmetrical girdle pain in someone over 50 → polymyalgia rheumatica.** Cross-refer [[L3]] 0.2.
-
-> [!warning] Corticosteroid injection — useful, and not a long-term strategy
-> **Injections give short-term symptomatic relief in many soft tissue conditions.**
-> **But repeated injections damage tendon and cartilage**, and in some conditions — notably **lateral epicondylalgia** — **injection produces WORSE long-term outcomes than placebo or physiotherapy.**
-> **Load management and progressive exercise are the definitive treatment for most tendinopathies.** Injection buys a window in which to do the rehabilitation, not a substitute for it.
-
----
-
-## 0.2 Shoulder
-
-> [!danger] The discriminator: is PASSIVE range preserved?
-> **· PASSIVE range PRESERVED, active painful → rotator cuff related pain or tear, subacromial pathology, ACJ disease.**
-> **· PASSIVE range GLOBALLY RESTRICTED, especially EXTERNAL ROTATION → adhesive capsulitis or glenohumeral arthritis.**
-> **Loss of passive external rotation is the key finding**, and it takes ten seconds to test. It is what separates a frozen shoulder from a cuff problem, and the two are managed entirely differently.
-
-> [!tip] Rotator cuff related shoulder pain
-> **The commonest shoulder complaint.** Pain over the deltoid insertion, **a painful arc through mid-abduction**, pain on overhead activity, and **night pain when lying on the affected side** — which is often what brings people in.
-> **Examination: painful arc, pain and weakness on resisted abduction (empty can) and resisted external rotation.**
-> **Exercise-based physiotherapy is first-line and is as effective as surgery for most patients** — a well-established point that is frequently not acted upon. Subacromial injection can facilitate rehabilitation.
-
-> [!warning] Rotator cuff tear
-> **Weakness rather than just pain**, particularly of external rotation and abduction.
-> **The DROP ARM sign** — inability to lower the arm smoothly from full abduction — indicates a significant tear.
-> **Distinguish an ACUTE TRAUMATIC tear in a younger patient — which warrants early surgical referral for repair — from a DEGENERATIVE tear in an older patient, where conservative management is usually appropriate.** The distinction is age and mechanism, and the referral timeframe differs.
-> **A massive cuff tear causes pseudoparalysis** — the patient cannot initiate abduction at all, which can be mistaken for a neurological problem.
-
-> [!tip] Adhesive capsulitis (frozen shoulder)
-> **Global restriction of passive movement, with external rotation lost first and most.**
-> Runs through phases: **freezing (painful, progressively stiffening) → frozen (stiff, less painful) → thawing (gradual recovery)**, over **one to three years** — a long and frustrating course that patients must be told about honestly.
-> **Strongly associated with DIABETES** — and it is more severe and more prolonged in diabetics — as well as with **thyroid disease, Dupuytren contracture, and any period of shoulder immobilisation.**
-> **Check the HbA1c in anyone presenting with frozen shoulder** — it is occasionally how diabetes is first found.
-> Management: analgesia, **physiotherapy within the pain-free range**, intra-articular corticosteroid injection (most useful in the painful phase), and hydrodilatation. Surgery for refractory cases.
-
-> [!danger] Posterior shoulder dislocation is missed on the AP film
-> **Anterior dislocation is far commoner** — arm held abducted and externally rotated, loss of the deltoid contour. **Check AXILLARY NERVE function before and after reduction — regimental badge sensation and deltoid contraction — and document it.**
-> **POSTERIOR dislocation is the one that is missed.** It occurs after **SEIZURES, ELECTROCUTION, and electroconvulsive therapy** — the powerful internal rotators overwhelm the external rotators — and after posteriorly directed trauma.
-> **The arm is held internally rotated and the patient cannot externally rotate it at all.**
-> **On the AP film it can look almost normal — the "light bulb sign" (the humeral head appears symmetrically rounded because it is internally rotated) is the clue.** **An axillary or scapular-Y view is required**, and posterior dislocations are missed for weeks or months when only an AP is taken.
-> **Any patient with shoulder pain after a seizure needs adequate views.**
-
-> [!tip] The others
-> **· Acromioclavicular joint pain** — localised over the ACJ, worse on **cross-body adduction**, and pain in the highest arc of abduction rather than the mid-arc.
-> **· Glenohumeral osteoarthritis** — older patients, global loss of both active and passive range with crepitus.
-> **· Calcific tendinopathy** — abrupt onset of severe pain, sometimes with visible calcification on radiograph, and it can be exquisitely painful.
-> **· Biceps tendinopathy and long head rupture** — with the "Popeye" deformity, usually managed conservatively.
-> **· Referred and systemic causes: cervical radiculopathy, Pancoast tumour, diaphragmatic irritation, myocardial ischaemia, and polymyalgia rheumatica (bilateral).**
-> **· Septic arthritis** — less common at the shoulder but it occurs, particularly in the elderly and immunosuppressed. Cross-refer [[L1]] 0.2.
-
-**Ix:** **Examination of passive external rotation** (*why:* the single most discriminating test; *what:* restricted in capsulitis and arthritis, preserved in cuff disease). Radiographs including an **axillary or scapular-Y view where dislocation is suspected** (*why:* posterior dislocation is invisible on AP; *what:* dislocation, calcification, arthritis, cuff arthropathy). Ultrasound (*why:* an excellent, accessible test for cuff integrity and can be dynamic; *what:* tear, tendinopathy, bursal thickening). MRI (*why:* labral and intra-articular pathology, and pre-surgical planning; *what:* labral tear, cuff tear size and retraction). **HbA1c in adhesive capsulitis** (*why:* strong diabetes association; *what:* undiagnosed diabetes). **Chest radiograph where an apical cause is possible** (*why:* Pancoast tumour presents as shoulder pain; *what:* apical mass).
-
----
-
-## 0.3 Elbow
-
-> [!danger] Lateral epicondylalgia — and why injection is the wrong reflex
-> **"Tennis elbow" is a TENDINOPATHY — a degenerative failed-healing response — not a tendinitis.** There is little inflammation, which is why anti-inflammatory approaches disappoint.
-> **Pain over the lateral epicondyle, reproduced by resisted wrist extension and by gripping.**
-> **Corticosteroid injection provides short-term relief but is associated with WORSE outcomes at one year than physiotherapy or watchful waiting** — one of the clearest examples in musculoskeletal medicine of a treatment that helps this week and harms next year.
-> **Management: load modification, progressive eccentric and resistance exercise, a counterforce brace, and time.** Most resolve over months.
-
-> [!tip] The rest of the elbow
-> **· Medial epicondylalgia ("golfer's elbow")** — resisted wrist flexion and pronation. Same principles.
-> **· Olecranon bursitis** — a fluctuant swelling over the olecranon **with a freely mobile elbow joint**, which distinguishes it from septic arthritis. **Aspirate where infection is suspected** — septic olecranon bursitis is common, particularly after abrasion. **Gout also causes it**, sometimes with visible tophi. Cross-refer [[K2]] 0.3.
-> **· Ulnar neuropathy at the cubital tunnel** — cross-refer [[D4]] 0.4.
-> **· Distal biceps tendon rupture** — a sudden pop on eccentric loading, weakness of supination, a "reverse Popeye" with the muscle belly retracted proximally, and a palpable gap. **Distal rupture requires PROMPT surgical referral for repair** — unlike proximal long head rupture, which is managed conservatively. **This distinction matters and the window is short.**
-
-> [!warning] The posterior fat pad sign is always pathological
-> **On a lateral elbow radiograph, a visible POSTERIOR fat pad indicates a joint effusion — and in the context of trauma, that means an occult fracture until proven otherwise**, most often a **radial head fracture** in adults or a **supracondylar fracture** in children.
-> **An anterior fat pad can be normal; an enlarged "sail-shaped" anterior fat pad is also abnormal.**
-> **A patient with elbow trauma, a posterior fat pad, and no visible fracture is treated as having a fracture** — immobilised and re-imaged. Cross-refer [[L7]].
-
-> [!tip] Pulled elbow in a toddler
-> **Radial head subluxation from a sudden longitudinal pull on a pronated, extended arm** — lifting a child by the hand, or swinging them.
-> **The child holds the arm slightly flexed and pronated and refuses to use it, with no swelling and no bony tenderness.**
-> **Radiographs are not required if the history and examination are typical**, and reduction is a simple manoeuvre with immediate return of function. Cross-refer [[M5]].
-
-**Ix:** Radiographs including a true lateral (*why:* fat pad sign and occult fracture; *what:* effusion, fracture). Ultrasound (*why:* tendon and bursal assessment, and guides aspiration; *what:* tendinopathy, tear, collection). Aspiration of the bursa (*why:* distinguishes septic from inflammatory bursitis; *what:* cell count, Gram stain, culture, crystals).
-
----
-
-## 0.4 Hip
-
-> [!danger] Where the pain is tells you what it is
-> **· GROIN pain (± referral to the anterior thigh and knee) → the TRUE HIP JOINT.**
-> **· LATERAL pain over the greater trochanter → GREATER TROCHANTERIC PAIN SYNDROME (gluteal tendinopathy), not the hip joint.**
-> **· BUTTOCK pain → the LUMBAR SPINE or SACROILIAC JOINT.**
-> **Patients say "hip" for all three, and pointing to where it hurts resolves it immediately.** **The "C-sign" — the patient cupping the hand around the lateral hip and groin — indicates true intra-articular pain.**
-
-> [!tip] Hip osteoarthritis
-> **Groin pain worse on weight bearing and at the end of the day**, with morning stiffness under 30 minutes, difficulty with socks and shoes, and reduced walking distance.
-> **The earliest and most reliable examination finding is loss of INTERNAL ROTATION**, tested with the hip flexed.
-> Management: **exercise, weight management, analgesia, walking aids, and joint replacement for refractory disease with concordant imaging.**
-
-> [!warning] Greater trochanteric pain syndrome is gluteal tendinopathy, not bursitis
-> **Lateral hip pain, tender directly over the greater trochanter, worse lying on that side at night, worse crossing the legs and climbing stairs.**
-> **The old label "trochanteric bursitis" is inaccurate — the pathology is predominantly gluteus medius and minimus TENDINOPATHY**, which matters because it means **the treatment is load management and progressive abductor strengthening, not repeated injection.**
-> **Trendelenburg sign** and **single-leg stance test** support it.
-
-> [!danger] Avascular necrosis — the radiograph is normal early
-> **Groin pain, often insidious, with risk factors: CORTICOSTEROIDS (the commonest), alcohol, sickle cell disease, trauma, SLE and antiphospholipid syndrome, radiotherapy, and dysbarism.**
-> **Plain radiographs are NORMAL in the early stages, and by the time they show collapse the joint is often unsalvageable.**
-> **MRI is the investigation, and it should be requested on clinical suspicion in an at-risk patient with a normal radiograph** — early intervention can preserve the joint.
-
-> [!danger] Occult hip fracture — a normal radiograph does not exclude it
-> **An older person with hip or groin pain after a fall, WHO MAY STILL BE ABLE TO WEIGHT BEAR, can have an undisplaced or impacted neck of femur fracture with normal or equivocal plain films.**
-> **If the pain and the mechanism fit and the patient cannot mobilise normally, get further imaging — CT or MRI — rather than discharging them.**
-> **Discharged occult hip fractures displace, and the outcome is far worse.** Cross-refer [[L7]] and [[GER1]] 0.5.
-
-> [!tip] The rest of the hip
-> **· Femoroacetabular impingement and labral tear** — younger, active patients; groin pain with flexion and rotation, clicking or catching; **FADIR test.** MRI arthrogram.
-> **· Referred from the lumbar spine** — cross-refer [[L4]].
-> **· Psoas abscess** — fever, back and groin pain, hip held flexed, pain on extension. Cross-refer [[C7]] 0.5.
-> **· Inguinal hernia, adductor-related groin pain, pubic symphysis pathology, and — in women — gynaecological causes.**
-> **· Paediatric: developmental dysplasia, Perthes disease, slipped upper femoral epiphysis, transient synovitis and septic arthritis.** **SUFE — an adolescent, often overweight, with knee or thigh pain, loss of internal rotation and OBLIGATE EXTERNAL ROTATION ON FLEXION — is an urgent, non-weight-bearing referral.** Cross-refer [[M5]].
-
-**Ix:** **Radiographs — AP pelvis AND a lateral of the affected hip** (*why:* a single AP misses subtle femoral neck and SUFE changes, and the pelvis view allows comparison; *what:* fracture, arthritis, slip). **MRI where the radiograph is normal but suspicion persists** (*why:* occult fracture, avascular necrosis, labral pathology and stress fracture are all radiographically silent early; *what:* marrow oedema, fracture line, necrosis). CT (*why:* alternative for occult fracture and for surgical planning; *what:* fracture). Inflammatory markers and aspiration where infection is suspected (*why:* septic arthritis; *what:* infection).
-
----
-
-## 0.5 Knee
-
-> [!danger] Examine the hip in every patient with knee pain
-> **Repeated because it is the commonest missed diagnosis in this region.** Hip pathology — osteoarthritis in adults, SUFE and Perthes in children — refers to the knee, and the knee examination is normal.
-
-> [!tip] Osteoarthritis, and the evidence about arthroscopy
-> Activity-related pain, brief morning stiffness, crepitus, effusion, and progressive varus deformity.
-> **Exercise therapy and weight loss are first-line and genuinely effective** — a modest weight reduction produces a large reduction in knee load.
-> **ARTHROSCOPIC surgery for degenerative meniscal tears and for knee osteoarthritis is NOT indicated** — multiple high-quality trials show no benefit over placebo or conservative care, and it remains one of the most consistently over-performed operations. **A degenerative meniscal tear on MRI in a middle-aged or older patient is usually part of the osteoarthritic process, not a separate surgical problem.**
-
-> [!warning] Acute knee injury — what the effusion timing tells you
-> **· Immediate, tense swelling within a few hours → HAEMARTHROSIS → ACL rupture, intra-articular fracture, patellar dislocation, or peripheral meniscal tear.** Cross-refer [[L1]] 0.4.
-> **· Swelling developing over 12–24 hours → a reactive effusion → meniscal injury more likely.**
-> **· No swelling → less likely a significant intra-articular injury.**
-> **Ask specifically how quickly it swelled** — it is one of the most useful questions in knee trauma.
-
-> [!tip] The specific injuries
-> **· ACL rupture** — a pivoting or deceleration mechanism, an audible "pop", immediate haemarthrosis, and subsequent giving way. **The LACHMAN test is more sensitive than the anterior drawer.** MRI confirms.
-> **· Meniscal tear** — twisting on a loaded flexed knee, with joint line tenderness, catching, and **locking (a true mechanical block to full extension)** in a bucket-handle tear, which is a surgical indication.
-> **· Collateral ligament injury** — valgus or varus stress with localised tenderness.
-> **· Patellar dislocation** — almost always lateral, often reduces spontaneously with knee extension, with a positive apprehension test afterwards.
-> **· Patellofemoral pain** — anterior knee pain in younger people, worse on stairs and after prolonged sitting (the "theatre sign"). **Managed with exercise-based rehabilitation**, not imaging.
-
-> [!danger] Extensor mechanism rupture — test the straight leg raise
-> **Quadriceps or patellar tendon rupture presents with sudden pain, inability to extend the knee against gravity, and a palpable gap above or below the patella.**
-> **The test is a STRAIGHT LEG RAISE — the patient cannot perform one, or cannot maintain the extended knee against gravity.**
-> **It is missed because the knee is swollen and painful and the examination is abbreviated, and because the patient may still be able to walk with the knee locked.**
-> **It requires surgical repair, and delay worsens the outcome.** **Test the straight leg raise in every acute knee injury.**
-
-> [!tip] The rest
-> **· Prepatellar and infrapatellar bursitis** — anterior swelling with a mobile knee joint. **Septic prepatellar bursitis is common** after abrasion or kneeling occupations.
-> **· Baker cyst** — posterior knee swelling. **A ruptured Baker cyst causes acute calf pain, swelling and sometimes bruising, and mimics DVT closely ("pseudothrombophlebitis")** — and the two coexist, so **imaging is required rather than assuming.** Cross-refer [[B6]] 0.3.
-> **· Osgood-Schlatter and Sinding-Larsen** in adolescents.
-> **· Osteosarcoma — night pain and rest pain around the knee in an adolescent or young adult.** Cross-refer [[B6]] 0.8.
-> **The Ottawa knee rules** identify who needs a radiograph after acute injury. `UNVERIFIED — the criteria.`
-
-**Ix:** **Straight leg raise, and assessment of the timing of the effusion** (*why:* the two highest-yield bedside findings; *what:* extensor mechanism integrity, haemarthrosis). Radiographs per decision rule (*why:* fracture; *what:* fracture, lipohaemarthrosis, degenerative change). **MRI** (*why:* ligamentous, meniscal and osteochondral injury, which radiographs cannot show — **but not indicated for degenerative change in an older patient where it will not change management**; *what:* soft tissue injury). Ultrasound (*why:* Baker cyst, bursitis, tendon rupture, and guides aspiration; *what:* fluid collection, tendon gap). Aspiration where infection or crystal disease is possible (*why:* septic arthritis; *what:* cell count, culture, crystals — cross-refer [[L1]] 0.6).
-
----
-
-## 0.6 Wrist and Hand
-
-> [!danger] Scaphoid fracture — the radiograph is normal in a significant proportion
-> **A fall on the outstretched hand with pain in the radial wrist.**
-> **Examination: tenderness in the ANATOMICAL SNUFFBOX, tenderness over the SCAPHOID TUBERCLE, and pain on AXIAL COMPRESSION of the thumb.**
-> **INITIAL RADIOGRAPHS ARE NORMAL IN A SIGNIFICANT PROPORTION OF SCAPHOID FRACTURES**, even with dedicated scaphoid views.
-> **So: if the clinical findings fit, IMMOBILISE and either re-image after an interval or obtain MRI or CT** — do not discharge on the strength of a normal film.
-> **The consequence of missing it is real: the scaphoid's blood supply enters distally and runs retrograde, so a proximal fracture risks AVASCULAR NECROSIS and NON-UNION**, leading to wrist collapse and arthritis in a young person. **This is one of the classic medicolegal misses.**
-
-> [!warning] The other fractures and injuries not to miss
-> **· Distal radius fracture (Colles, Smith)** — **check MEDIAN nerve function before and after reduction**, and be alert to acute carpal tunnel syndrome from swelling.
-> **· Boxer's fracture (fifth metacarpal neck)** — and **any wound over the MCP joints from a punch is a FIGHT BITE until proven otherwise**, requiring exploration, washout and antibiotics. Cross-refer [[A7]] 0.5 and [[K2]] 0.5.
-> **· Mallet finger** — loss of active DIP extension after forced flexion; splinting in extension continuously for weeks.
-> **· Jersey finger** — flexor digitorum profundus avulsion; inability to flex the DIP; needs surgical repair.
-> **· Gamekeeper's / skier's thumb** — ulnar collateral ligament injury at the thumb MCP from forced abduction. **A complete tear with a Stener lesion will not heal without surgery**, so instability on examination warrants referral.
-
-> [!danger] Hand infections are surgical emergencies more often than they appear
-> **Flexor tenosynovitis — Kanavel signs: fusiform digit swelling, held in flexion, tenderness along the flexor sheath, pain on passive extension.** Urgent hand surgical drainage. Cross-refer [[K2]] 0.3.
-> **Felon, paronychia, and any deep hand infection** — the hand has closed compartments and functionally critical structures, and **the threshold for referral should be low.**
-
-> [!tip] The common non-traumatic conditions
-> **· Carpal tunnel syndrome** — cross-refer [[D4]] 0.4, including the point that **sensation over the thenar eminence is preserved.**
-> **· De Quervain tenosynovitis** — pain over the radial styloid, **Finkelstein test positive**; common in new mothers (lifting an infant) and with repetitive thumb use.
-> **· Trigger finger** — catching or locking with a palpable nodule at the A1 pulley. **Strongly associated with diabetes.**
-> **· Dupuytren contracture** — palmar cords with progressive MCP and PIP flexion contracture. **Associated with diabetes, alcohol, family history, and antiepileptic drugs.** The **tabletop test** assesses severity and guides referral timing.
-> **· First carpometacarpal (thumb base) osteoarthritis** — very common, particularly in postmenopausal women, with pain on pinch and grip and a positive **grind test.** Splinting, activity modification and injection help.
-> **· Ganglion** — a smooth, transilluminable swelling, usually benign, often resolving spontaneously.
-
-**Ix:** **Scaphoid views and, if normal with concordant clinical findings, MRI or delayed re-imaging** (*why:* the fracture is radiographically occult in a significant proportion and the consequences of missing it are severe; *what:* fracture line, marrow oedema). Radiographs for other suspected fractures (*why:* fracture and alignment; *what:* fracture). **Documented neurovascular examination before and after any reduction** (*why:* median nerve injury and compartment problems, and the documentation matters medicolegally; *what:* sensation, motor function, perfusion). Ultrasound (*why:* tendon and ganglion assessment; *what:* tenosynovitis, cyst). HbA1c (*why:* diabetes underlies trigger finger, Dupuytren contracture and adhesive capsulitis; *what:* hyperglycaemia).
-
----
-
-## 0.7 Ankle and Foot
-
-> [!danger] Achilles rupture — the ability to plantarflex does NOT exclude it
-> **The classic error.** After a complete Achilles rupture, **the patient can still plantarflex the ankle using tibialis posterior, the peroneals and the toe flexors** — so "can you point your foot down?" is a useless test and produces false reassurance.
-> **The tests that work:**
-> **· SIMMONDS (Thompson) calf squeeze test** — with the patient prone and feet over the end of the couch, squeezing the calf produces plantarflexion if the tendon is intact and NO movement if it is ruptured. **This is the test.**
-> **· A palpable gap in the tendon.**
-> **· Loss of the normal resting tension asymmetry between the two feet.**
-> **History: a sudden sensation of being struck or kicked in the back of the ankle, often with an audible snap, during push-off.**
-> **Risk factors worth knowing: FLUOROQUINOLONE antibiotics and CORTICOSTEROIDS — both systemic and injected — predispose to tendon rupture**, and this is a genuine and avoidable prescribing consideration in patients with Achilles symptoms.
-
-> [!danger] Always examine the proximal fibula in an ankle injury
-> **A MAISONNEUVE fracture is a proximal fibular fracture accompanying a syndesmotic and medial ankle injury.**
-> **If you only radiograph the ankle, you miss it** — and the injury is unstable and requires fixation.
-> **Palpate the whole length of the fibula in every significant ankle injury**, and image the proximal fibula if it is tender.
-
-> [!tip] Ankle sprain and the decision rules
-> **Lateral ligament sprain — most commonly the anterior talofibular ligament — from an inversion injury.**
-> **The Ottawa ankle and foot rules** identify who requires radiography, based on bony tenderness at specific sites and the ability to weight bear. `UNVERIFIED — the criteria.`
-> Management: **early mobilisation and functional rehabilitation, not prolonged immobilisation** — with proprioceptive retraining to reduce recurrence.
-
-> [!tip] The common foot conditions
-> **· Plantar heel pain (plantar fasciitis)** — **pain on the first steps in the morning and after periods of rest**, easing with walking then worsening with prolonged activity; tenderness at the medial calcaneal tubercle. **Self-limiting over months to a couple of years.** Managed with **stretching, load management, footwear and orthoses**; injection is second-line and carries a risk of fat pad atrophy and fascial rupture.
-> **· Morton neuroma** — burning pain and numbness between the toes, most often the third web space, with a **Mulder click.**
-> **· Hallux valgus and hallux rigidus.**
-> **· Gout at the first MTP** — cross-refer [[L1]] 0.3.
-> **· Posterior tibial tendon dysfunction** — progressive adult acquired flatfoot, with the **"too many toes" sign** from behind and inability to perform a single-heel raise.
-> **· Tarsal tunnel syndrome** — burning sole pain from posterior tibial nerve entrapment.
-
-> [!warning] Stress fracture — the radiograph is normal for weeks
-> **Insidious activity-related bone pain with focal bony tenderness, in someone who has recently increased training load, changed surface or footwear, or is under-fuelled.**
-> **Common sites: metatarsals (the "march" fracture), tibia, navicular, calcaneus and femoral neck.**
-> **Radiographs are typically NORMAL for the first weeks — MRI is the investigation.**
-> **Consider relative energy deficiency in sport (RED-S) and the associated menstrual and bone health consequences**, particularly in female athletes and dancers — **and ask about eating patterns, menstrual history and training load.** Cross-refer [[N8]] and [[GER1]] 0.6.
-> **Femoral neck and navicular stress fractures are high-risk and can progress to complete fracture** — they need non-weight-bearing and urgent referral, not a return to training.
-
-> [!warning] The diabetic foot
-> **Charcot neuroarthropathy — a hot, swollen, often painless foot in a neuropathic diabetic — is misdiagnosed as cellulitis or gout while the patient keeps walking on it and destroys the architecture of the foot.**
-> **Immediate offloading and non-weight-bearing.** Cross-refer [[I2]] 0.6 and [[D4]] 0.2.
-
-**Ix:** **Simmonds calf squeeze test** (*why:* the test that actually detects Achilles rupture; *what:* absent plantarflexion). **Palpation of the entire fibula** (*why:* Maisonneuve fracture; *what:* proximal tenderness). Radiographs per decision rule, **including the proximal fibula where indicated** (*why:* fracture and syndesmotic injury; *what:* fracture, widened mortise). Ultrasound (*why:* Achilles integrity, plantar fascia, and it is dynamic and accessible; *what:* tendon gap, thickening). **MRI where stress fracture is suspected and radiographs are normal** (*why:* radiographs are normal for weeks and continuing to load a high-risk site risks complete fracture; *what:* marrow oedema, fracture line). Assessment for RED-S where a stress fracture occurs in an athlete (*why:* it recurs unless the energy availability and hormonal issues are addressed; *what:* menstrual history, energy intake, bone density).
-
----
-
-> [!note] Cross-references
-> Intra-articular versus periarticular pain, and joint aspiration → [[L1]] 0.1, 0.6 · Haemarthrosis → [[L1]] 0.4 · Gout at the first MTP → [[L1]] 0.3 · Inflammatory arthritis patterns → [[L2]] · Polymyalgia rheumatica → [[L3]] 0.2 · Referred pain from the spine, and stenosis versus vascular claudication → [[L4]] 0.5–0.6 · Soft tissue injury and rehabilitation → [[L6]] · Fractures and eponyms → [[L7]] · Entrapment neuropathies and foot drop → [[D4]] 0.4 · Pancoast tumour and Horner syndrome → [[D7]] 0.3 · Hand infections and flexor tenosynovitis → [[K2]] 0.3 · Fight bite and wound management → [[A7]] 0.5 · Compartment syndrome → [[A7]] 0.6 · Baker cyst versus DVT → [[B6]] 0.3 · Sarcoma referral before biopsy → [[B6]] 0.8 · Shoulder tip pain and intra-abdominal pathology → [[C1]] and [[C7]] 0.5 · Diabetic foot and Charcot → [[I2]] 0.6 · Osteoporosis and fragility fracture → [[GER1]] 0.6 · Paediatric hip, limp, SUFE and pulled elbow → [[M5]] · RED-S and disordered eating → [[N8]]
-
 
 <!-- ===== SOURCE: L6_Soft_Tissue_Injury_and_Mobility.md ===== -->
 
@@ -3847,6 +3704,404 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 > Compartment syndrome, crush injury and tetanus → [[A7]] 0.5–0.6 · Occult scaphoid and hip fractures, and the Maisonneuve → [[L5]] 0.4, 0.6, 0.7 · Haemarthrosis and lipohaemarthrosis → [[L1]] 0.4 · Immobilisation, rehabilitation and mobility aids → [[L6]] · Spinal fractures and the fused spine → [[L4]] 0.6–0.7 · Major trauma, pelvic binder and massive transfusion → [[L8]], [[F0.3]] 0.2 and [[A9]] 0.1 · Osteoporosis and the treatment gap → [[GER1]] 0.6 · Falls assessment → [[GER1]] 0.5 · Delirium prevention → [[D2]] 0.2 · Anticoagulation and surgical timing → [[A9]] 0.4 and [[AN1]] · Pathological fracture, myeloma and sarcoma → [[J4]] and [[B6]] 0.8 · Non-accidental injury and mandatory reporting → [[GER4]] and [[M6]] · Paediatric limp and elbow → [[M5]] · Goals of care after hip fracture → [[GER2]] 0.5
 
 
+<!-- ===== SOURCE: 11_08c_Ortho_-_Fracture_Types_and_Pathological_Fractures.md ===== -->
+
+
+## Fracture types (by pattern)
+
+> [!info] Fracture pattern classification
+> - **Oblique:** fracture lies obliquely to the long axis of the bone.
+> - **Comminuted:** >2 fragments.
+> - **Segmental:** >1 fracture along a bone.
+> - **Transverse:** perpendicular to the long axis of the bone.
+> - **Spiral:** oblique fracture with rotation along the long axis of the bone.
+> - **Greenstick:** incomplete fracture.
+
+## Pathological fractures
+
+### Osteogenesis imperfecta
+
+- Defective osteoid formation, secondary to a congenital inability to produce adequate intercellular substances like osteoid, collagen and dentine.
+- Failure of maturation of collagen in all the connective tissues.
+- **XR:** translucent bones, multiple fractures (particularly of the long bones), Wormian bones (irregular patches of ossification), and a trefoil pelvis.
+
+> [!info] Types of osteogenesis imperfecta
+> - **Type I:** normal quality, ↓quantity.
+> - **Type II:** ↓quality, ↓quantity.
+> - **Types III & IV:** ↓quality, normal quantity.
+
+### Osteopetrosis
+
+- Autosomal recessive; bones are harder and denser.
+- **XR:** "marble bone" appearance.
+
+
+<!-- ===== SOURCE: 11_07b_Ortho_-_Osteomyelitis__Osteochondritis_Dissecans__Fat_Embolism__Charcot_Joint__Osteomalacia.md ===== -->
+
+
+## Osteomyelitis
+
+- **D:** infection of the bone.
+- **A:** *Staph aureus* most common. *Salmonella* spp most common in patients with sickle cell disease.
+- **P:**
+  - **Haematogenous spread** — secondary to bacteraemia; the most common form in children. R: sickle cell anaemia, IVDU, immunosuppression, infective endocarditis.
+  - **Non-haematogenous spread** — contiguous spread (from adjacent soft tissues), or direct inoculation (e.g. via trauma); more often polymicrobial. R: pressure sores, diabetes, peripheral arterial disease.
+
+> [!danger] A genuine, severe Australian health equity issue with a direct causal chain worth understanding, not a generic epidemiological footnote. **Skin and soft tissue infections (impetigo, scabies-related sores, cellulitis) are dramatically more common in Aboriginal and Torres Strait Islander children**, and this directly drives a correspondingly higher rate of invasive *S. aureus* disease: one MJA review found *S. aureus* **sepsis incidence roughly tenfold higher** in Aboriginal children (46.6 vs 4.4 per 100,000 children/year) and **bacteraemia threefold higher** (47.6 vs 15.9 per 100,000/year) compared with non-Aboriginal children — the skin is the entry point for this invasive disease, making the skin infection burden and the bone/joint infection burden directly connected, not two separate issues.
+> - **Osteomyelitis and septic arthritis are a genuinely significant downstream consequence of this pathway, not a rare complication**: a recent Northern Territory study of *S. aureus* bloodstream infections found osteomyelitis/septic arthritis was the **second most common primary infection site** (14%), after skin and soft tissue infection itself (41%) — directly linking the skin infection epidemic in this population to the specific bone/joint disease entities in this file.
+> - **A genuinely important microbiological point for empirical antibiotic choice**: community-associated MRSA, particularly **Panton-Valentine leucocidin (PVL)-positive strains**, is specifically prevalent and appears to be increasing in Indigenous Australian communities (documented in both Central Australia and tropical northern Australia) — a distinct local resistance/virulence pattern worth knowing when selecting empirical therapy in this population, given standard flucloxacillin-based empirical cover (per the AU-verified regimen below) assumes methicillin-sensitive *S. aureus* and may need local antibiogram-guided adjustment where CA-MRSA prevalence is high.
+
+- **S/Smx:** hot, erythematous swelling over the affected bone + bone pain.
+- **Ix:** MRI.
+
+> [!info] Verified — flucloxacillin is confirmed as the correct, internationally-consistent first-line agent for staphylococcal osteomyelitis (the dominant causative organism per the aetiology above), and this isn't a UK-specific choice needing wholesale replacement — Australian sources (including the RCH Melbourne bone and joint infection guideline, in the paediatric context specifically) confirm the same general first-line-agent logic. The 4–6 week duration range is also broadly internationally consistent, including in Australian practice, rather than a UK-specific figure. The main point worth flagging: **check current eTG directly for the exact adjunct-drug timing (fusidic acid/rifampicin combination) and precise duration cutoffs**, given antibiotic duration and adjunct use in bone/joint infection is a genuinely evolving, guideline-specific area or clinicians manage it "according to local guidelines" as the note below already correctly states — the core drug choice itself doesn't need correction.
+
+- **Mx:** antibiotics according to local guidelines — flucloxacillin remains standard first-line (clindamycin if penicillin allergic) for a duration typically in the 4–6 week range; adjunct agents (e.g. fusidic acid or rifampicin) may be added, and vancomycin is switched to if MRSA is cultured — check current eTG for the precise Australian-specific dosing/duration protocol given this detail can vary between guideline editions and isn't a simple one-off fact to memorise.
+
+## Osteochondritis dissecans
+
+- **D:** acquired idiopathic lesion of subchondral bone resulting in delamination and sequestration ± articular cartilage involvement and instability. Tends to affect adolescents.
+- **R:** repetitive throwing/valgus stress, gymnastics or weight bearing on upper extremities, ankle sprain/instability, competitive athletics.
+- **S/Smx:** most commonly affects the knee — pain, swelling worse on activity; joint catching, locking ± giving way; painful clunk when flexing or extending the joint; joint effusion; tenderness on palpation of articular cartilage (pain on the anteromedial aspect of the knee when flexed to 90°).
+- **Ix:** XR (may show a subchondral crescent sign [osteochondral lesion] or loose bodies). MRI (evaluates cartilage, visualises loose bodies, stages and assesses joint stability).
+- **Mx:** refer to orthopaedics. If no joint malalignment, conservative management (NSAIDs, watch and wait) may be enough. If joint malalignment or unstable, arthroscopy + surgery may be needed.
+
+## Fat embolism
+
+- **D:** presence of fat particles that can result in a systemic manifestation.
+- **A:** most commonly due to trauma (e.g. fracture of long bones, post-op complication, soft tissue damage, crush injury); non-traumatic causes (e.g. fatty liver).
+- **S/Smx:** depends on the organ affected by the fat emboli.
+  - Respiratory (similar to PE): ↑HR, ↑RR, dyspnoea, hypoxia (usually ~72h following injury), fever.
+  - Skin: red/brown impalpable petechial rash; subconjunctival and oral petechiae.
+  - CNS: confusion, agitation; retinal haemorrhages and intra-arterial fat globules on fundoscopy.
+- **Ix:** imaging may be normal; a high degree of suspicion is required.
+- **Mx:** prompt fixation of long bone fractures; DVT prophylaxis; supportive care.
+
+## Charcot joint (neuropathic joint)
+
+- **D:** joint damage secondary to loss of sensation.
+- **R:** diabetes, neurosyphilis.
+- **S/Smx:** swollen, red and warm joint; less pain than expected (due to sensory loss).
+- **Ix:** XR ± others.
+- **Mx:** immobilisation (casting); orthotics to prevent recurrence; surgical intervention if severe deformity.
+
+## Osteomalacia
+
+- **D:** metabolic bone disease characterised by incomplete mineralisation of the underlying mature organic bone matrix. Rickets is the equivalent condition in children (see [[11_10_Ortho_-_Paediatric_Orthopaedics]] Rickets, not repeated here); osteomalacia is the term used in adults.
+- **R/A:** ↓calcium and vitamin D in diet, CKD, ↓sunlight, inherited disorders of vitamin D and bone metabolism, anticonvulsant therapy, coeliac disease, liver disease.
+- **S/Smx:** bone pain ± muscle tenderness; fractures, especially femoral neck; proximal myopathy → "waddling gait".
+- **Ix:** bloods (↓vitamin D, ↓Ca, ↓PO4, ↑ALP); XR (translucent bands, pseudofractures).
+- **Mx:** vitamin D supplementation (a loading dose is usually needed); calcium supplementation if needed.
+
+
+<!-- ===== SOURCE: 11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis.md ===== -->
+
+
+## Paget's disease of the bone
+
+- **D:** chronic localised bone remodelling disorder characterised by ↑bone resorption, bone formation, and remodelling.
+- **R:** family history, >50 years old, M>F.
+- **A:** unknown, possibly genetic.
+- **P:** localised areas of metabolic hyperactivity of the bone. 3 phases: bone resorption (↑osteoclastic activity); mixed osteoclastic and osteoblastic activity → deposition of structurally abnormal bone; sclerotic phase (bone formation > bone resorption).
+- **S/Smx:** 95% asymptomatic. Most commonly affects the skull, spine/pelvis, and long bones of the lower extremities.
+
+> [!tip] Classic patient: older male with bone pain and an isolated ↑ALP.
+
+- Bone pain; if untreated, can cause bowing of the tibia and bossing of the skull (protuberance of the frontal bones).
+- **Ix:** bloods — ↑ALP, normal Ca, PO4. XR — osteolysis in early disease, mixed lytic/sclerotic lesions in later disease. Bone scan — ↑isotope uptake at active bone lesions.
+- **Mx:** treat only if bone pain, skull or long bone deformity, fracture, or periarticular location. Bisphosphonate — PO risedronate or IV zoledronate. Calcitonin less commonly used.
+- **Complications:** deafness (secondary to cranial nerve entrapment); bone sarcoma; fractures; high-output cardiac failure (secondary to ↑blood flow within bone and surrounding limb tissue).
+
+## Osteoporosis
+
+- **D:** ↓bone density and bone micro-deformities causing ↑bone fragility and susceptibility to fracture.
+- **R:** F>M, ↑age, ↓BMI, rheumatoid arthritis, post-menopause, smoking, ↑alcohol use, family history of hip fracture, glucocorticoid use, white ancestry, CKD, testosterone deficiency, etc.
+- **S/Smx:** asymptomatic until a fracture occurs.
+
+> [!info] Gap-filled — why the classic osteoporotic fracture sites (vertebrae, distal radius, femoral neck) are specifically vertebrae, wrist, and hip — rather than osteoporotic fracture occurring randomly anywhere in the skeleton — was never explained. **Bone exists in two structurally different forms**: dense **cortical (compact) bone**, forming the outer shaft of long bones, and porous, honeycomb-like **trabecular (cancellous) bone**, concentrated at the ends of long bones and filling vertebral bodies. Trabecular bone has a **much higher surface-area-to-volume ratio** than cortical bone, meaning it's metabolically more active and undergoes bone turnover (both formation and resorption) considerably faster — which also means it's lost considerably **faster** once resorption outpaces formation in osteoporosis. This is precisely why the classic fracture sites are trabecular-bone-rich: **vertebral bodies** (predominantly trabecular, and specifically reliant on that trabecular structure to bear day-to-day axial/compressive load) undergo compression/wedge fractures once trabecular loss reduces their ability to withstand ordinary loading — genuinely different from a traumatic fracture, given these can occur under everyday loads (bending, lifting) that wouldn't fracture healthy bone. The **distal radius** and **femoral neck** are similarly trabecular-rich transition zones, explaining why these three sites — not an arbitrary or random selection — are the ones classically screened for and specifically named in fracture-risk tools like FRAX above.
+
+> [!info] Verified against the 2024 RACGP/Healthy Bones Australia guideline for osteoporosis management and fracture prevention (replacing the prior 2017 guideline), Aug 2026 — Australia genuinely uses FRAX too (the same tool, not a UK-specific alternative), so the tool itself doesn't need replacing, but several thresholds and concepts are Australia-specific and have also genuinely changed with this 2024 update.
+> **DXA referral threshold:** in patients ≥50yo without a fracture, refer for DXA if FRAX 10-year Major Osteoporotic Fracture (MOF) risk is **≥10%**; if <10%, DXA is not routinely recommended — a specific numeric threshold that was not in the UK-style note this entry was written against, and which that note did not carry at all. Anyone ≥50yo with a minimal trauma fracture should be referred for DXA regardless of FRAX score.
+> **"Very high" / "imminent" fracture risk — a genuinely new, clinically important concept in the 2024 update:** defined as T-score ≤−3.0 with a fracture within 2 years, and/or ≥2 fragility fractures, and/or a 10-year FRAX MOF risk ≥30% or hip fracture risk ≥4.5% — patients meeting this threshold are candidates for **osteoanabolic therapy as initial treatment** (rather than starting with a bisphosphonate and escalating only if needed), reflecting the genuinely elevated near-term refracture risk in this group, particularly in the first 24 months after an incident fracture.
+> **Population-based osteoporosis screening is explicitly not recommended in Australia**, given insufficient supporting evidence — risk-factor-and-FRAX-triggered case-finding is the Australian approach, not blanket screening.
+> T-score <−2.5 defining osteoporosis, and the general T-score (young reference population) vs Z-score (age/sex/ethnicity-adjusted) distinction, are internationally standard definitions and don't need correction for Australia.
+
+- **Ix:**
+  - XR for fractures.
+  - Risk assessment with FRAX score (10-year fracture risk) — DXA referral if MOF risk ≥10%, or regardless of FRAX score if there's already been a minimal trauma fracture, per the AU-specific thresholds above.
+  - DEXA scan — may not be required in females ≥75 years old according to clinician judgment.
+    - **T-score:** based on bone mass of a young reference population. <-2.5 = osteoporosis.
+    - **Z-score:** adjusted for age, gender and ethnic factors.
+
+> [!info] Verified against the same 2024 RACGP/Healthy Bones Australia guideline — the drug-choice logic below needed one genuinely important correction, not just a "check locally" caveat: **strontium ranelate has been specifically removed as a therapy option in the current (2024) Australian guideline** — it should not be offered as a bisphosphonate-intolerance alternative the way the UK-style note this entry was written against did (the Mx list that follows has already been corrected accordingly, and says so); this is a genuine, dated removal, not a jurisdictional variation to simply verify. The 2024 update also specifically flags the risk of **rebound vertebral fracture following denosumab cessation** as an important safety point (denosumab discontinuation requires a planned transition to another anti-resorptive agent, not simply stopping) — a genuinely current Australian-highlighted safety concern worth knowing, not detailed in the original UK-style note at all. Treatment initiation is recommended for: very high fracture risk (per the definition above), minimal trauma hip or vertebral fracture, or a minimal trauma fracture at another site with T-score ≤−1.5 — a more specific AU threshold structure than a blanket "start treatment if osteoporosis confirmed."
+
+- **Mx:**
+  - Start treatment per the AU-specific initiation criteria above (very high fracture risk, minimal trauma hip/vertebral fracture, or other minimal trauma fracture with T-score ≤−1.5).
+  - Alendronate first-line. 25% cannot tolerate this — offer risedronate. **Strontium ranelate is no longer recommended in current Australian guidance** (see note above) — raloxifene remains an option for bisphosphonate-intolerant patients where appropriate. Osteoanabolic therapy (e.g. teriparatide, romosozumab) is considered as **initial** therapy specifically in patients meeting "very high"/"imminent" fracture risk criteria above, rather than reserved only for bisphosphonate treatment failure.
+  - Calcium & vitamin D supplementation — **most effective specifically in patients with confirmed calcium/vitamin D deficiency**, rather than given routinely to all healthy, non-institutionalised individuals regardless of status, per the current guideline's specific emphasis.
+  - Other options: HRT (↓incidence of vertebral and non-vertebral fractures, but concerns about ↑risk of heart disease and breast cancer); hip protectors (helps especially in nursing home patients, but may be uncomfortable, leading to low compliance); falls risk assessment.
+  - **If stopping denosumab:** plan a transition to another anti-resorptive agent (e.g. a bisphosphonate) rather than simply discontinuing, given the specific rebound vertebral fracture risk noted above.
+
+> [!danger] For patients on glucocorticoids: if it is anticipated the patient will be on ≥3 months of steroids (equivalent to prednisolone 7.5mg), start bone protection ASAP — e.g. in polymyalgia rheumatica — with a bisphosphonate.
+
+## Bisphosphonates
+
+> [!warning] FLAG 2026-09-01 — duplicate pair with the endocrine drug file
+> `Endocrine and metabolics_merged NEW_Drugs_10 §0.1.1 Bisphosphonates` covers the same class.
+> **Osteoporosis and fragility fracture sit in five places**: `## Osteoporosis` and this section here,
+> `L7 §0.6 Fragility Fractures`, `Endocrine I3 §0.5 Metabolic Bone Disease`, and
+> `Geriatrics GER1 §0.6 Osteoporosis and Fracture Prevention`. Pairs marked, nothing merged.
+
+- **MOA:** inhibits osteoclasts.
+- **AE:** oesophageal reactions; osteonecrosis of the jaw; atypical stress fractures (alendronate); acute phase response (fever, myalgia); hypocalcaemia (usually clinically unimportant).
+- **Counselling:** swallow whole with plenty of water on an empty stomach ≥30 minutes before breakfast; sit/stand upright for ≥30 minutes after taking the medicine.
+- Correct vitamin D deficiency before giving a bisphosphonate.
+- **Stop bisphosphonates at 5 years if:** patient <75 years old, femoral neck T-score >−2.5, and low fracture risk on reassessment (the criteria for a drug holiday; reassess rather than stop indefinitely).
+
+> [!warning] **Two corrections here, both found by the reference-value audit that followed M10 (2026-08-29).**
+>
+> **1. "NOGG" was a UK guideline body.** The National Osteoporosis Guideline Group is **UK**, and its risk thresholds are not the Australian ones — the Australian position is the 2024 RACGP/Healthy Bones Australia guideline already verified above. Removed. It is also a **Step 17 miss**: "NOGG" was not on the UK-localisation term list, which is the second time this session a UK body has survived because the term list did not name it (the first was "2-week-wait"). The list is a starting point, not a checklist.
+>
+> **2. FRAX is country-calibrated, and the thresholds above only mean what they say on the Australian model.** *The mechanism:* FRAX converts risk factors into an absolute 10-year probability using **country-specific fracture and mortality data**, so the same inputs produce different outputs depending on which country's model is selected. **A FRAX run on the wrong country setting gives a number that looks valid and is not comparable to the ≥10% MOF referral threshold above.** Select Australia explicitly. This is the same class of caveat as the cognitive screening cutoffs in [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS) — **a threshold carries its derivation population with it**, and this file quoted FRAX thresholds four times without saying so.
+>
+> Note the box above verified the **DXA referral threshold and the drug-choice logic** against the Australian guideline. It did not cover this line, which sits well below it — the partial-verification-box pattern, now found for the third time this session.
+
+
+<!-- ===== SOURCE: 11_08a_Ortho_-_Joint_Replacements.md ===== -->
+
+
+## Joint replacements (arthroplasty)
+
+### Hip replacements
+
+- **Cemented hip replacement:** the metal femoral component is cemented into the femoral shaft, and a cemented acetabular polyethylene cup is used.
+- **For younger, more active patients:**
+  - Uncemented hip replacements are more common but more expensive.
+  - Hip resurfacing — a metal cap is attached over the femoral head, preserving the femoral neck for conventional arthroplasty if required later on.
+
+### Post-op recovery
+
+- Physiotherapy, home exercises.
+- Walking sticks or crutches for 6 weeks post-op in hip and knee replacements.
+
+### Advice to reduce risk of dislocation
+
+- Avoid flexing the hip >90 degrees.
+- Avoid low chairs.
+- Do not cross your legs.
+- Sleep on your back for the first 6 weeks.
+
+### Complications
+
+- Wound and joint infections.
+- VTE — LMWH for 4 weeks post hip replacement.
+- Dislocation.
+
+
+<!-- ===== SOURCE: 11_09a_Ortho_-_Orthopaedic_and_Bone_Malignancies.md ===== -->
+
+
+> [!tip] Diagnostic approach to a suspected bone tumour: S/Smx are typically non-mechanical pain, swelling ± pathological fracture. Key diagnostic leads: (1) age distribution, (2) past medical history, (3) location of pain, (4) imaging.
+
+> [!info] Bone tumours tend to cluster by age and location — younger patients (0–20 years) more often have Ewing's sarcoma and osteosarcoma (osteosarcoma classically at the metaphysis, Ewing's more diaphyseal); older patients (>40 years) more often have chondrosarcoma, giant cell tumour, or metastatic disease.
+
+## Osteosarcoma
+
+- **D:** primary osseous malignant neoplasm composed of mesenchymal cells producing osteoid and immature bone.
+- **R:** age 10–25, possibly M>F, Paget's disease, radiotherapy, Rothmund-Thomson syndrome, familial retinoblastoma, Li-Fraumeni syndrome.
+- **A/P:** ↑osteoid production by osteoblasts.
+- **S/Smx:** bone pain (gradual worsening), especially in patients aged 10–25 + swelling (usually firm to touch), limping, ↓range of movement ± skin ulceration.
+- **Ix:** XR of the affected limb — radiolucent lesion, periosteal reaction (Codman's triangle, spiculations) ± soft tissue swelling. MRI, CT thorax, radionuclide bone scan. Bloods — ↑ALP and ↑LDH. Bone biopsy to confirm histology.
+- **Mx:** chemotherapy + surgical resection.
+
+## Chondrosarcoma
+
+- **D:** malignant cancer of the cartilage.
+- Age 30–60. Affects the flat bones (ilium, ribs).
+- **Mx:** wide local resection ± chemo/radiotherapy.
+
+## Ewing's sarcoma
+
+- **D:** small round blue cell tumour.
+- <15 years old, M>F. Associated with t(11;22) translocation.
+- **S/Smx:** affects bones around the knee. Patient may present with fever and hot swelling — often mistaken for osteomyelitis.
+- **Ix:** XR may show "onion skin" periosteal reaction + lung metastases.
+- **Mx:** 12-week neoadjuvant chemotherapy + re-evaluate, re-stage + wide local resection/amputation.
+- **P:** poor — 50% 5-year survival.
+
+## Giant cell tumour
+
+- **D:** tumour of multinucleated giant cells within a fibrous stroma. Most are locally aggressive but benign; ~10% transform to malignant tumours (aka osteoclastoma).
+- Age 20–40, F>M.
+- **S/Smx:** bony prominence around the knee; other locations include wrist, hip, shoulder, or lower back.
+- **Ix:** XR will show a "soap bubble" appearance.
+- **Mx:** local excision, replace defect with cement or bone graft.
+- **P:** recurrence is common.
+
+## Bone metastases
+
+> [!note] Full entry (mechanism, lytic vs sclerotic pattern, Ix, Mx including the spinal cord compression emergency and bisphosphonate/denosumab role) already built in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Metastatic Disease — Bone Metastases and Metastases of Unknown Primary, not duplicated here — that entry was built independently and covers this topic more thoroughly, including the orthopaedically-relevant "impending pathological fracture" surgical referral principle. Kept here only as a cross-reference plus the mnemonic below, given this file's PBKTL mnemonic didn't exist in the other entry and is worth preserving.
+
+> [!tip] Mnemonic for most common primary sources of bone metastasis — "PBKTL": **P**rostate, **B**reast, **K**idneys, **T**hyroid, **L**ungs.
+
+- Most common sites of metastases: spine, pelvis, ribs, skull, long bones.
+- **S/Smx:** bone pain; pathological fractures; hypercalcaemia ("moans, stones, bones, groans"); ↑ALP.
+- See [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] for the full Ix/Mx detail, not repeated here.
+
+
+<!-- ===== SOURCE: 11_10_Ortho_-_Paediatric_Orthopaedics.md ===== -->
+
+
+## Juvenile idiopathic arthritis (JIA)
+
+- **D:** chronic paediatric inflammatory arthritides characterised by onset before age 16 and the presence of objective arthritis (in ≥1 joint) for ≥6 weeks.
+- **R:** F>M, HLA polymorphisms, family history of autoimmunity.
+- **A:** autoimmune disorder.
+- **P:** chronic inflammation of the synovium.
+- **S/Smx:**
+  - **Systemic onset:** fever, salmon-pink rash, arthritis, lymphadenopathy, uveitis, anorexia, weight loss.
+  - **Pauciarticular (60% of cases):** ≤4 joints affected, usually medium-sized joints, e.g. knees and ankles.
+- **Ix:** ANA, rheumatoid factor — negative.
+- **Mx:**
+  - Pauciarticular/oligoarticular (≤4 joints): intra-articular corticosteroids; consider NSAIDs and DMARDs if severe.
+  - Polyarticular (≥5 joints): DMARDs, methotrexate; consider NSAIDs, biological agents if appropriate.
+
+## Transient synovitis of the hip
+
+- **D:** self-limiting inflammatory disorder of the hip — more common in young children.
+- **R:** age 2–12, M>F (2:1) ± history of recent URTI.
+- **A/P:** non-specific inflammation, possibly a secondary reaction post-viral infection.
+- **S/Smx:** limited movement + pain; limp (but weight bearing); positive log roll (involuntary muscle guarding in the affected limb); patient may keep the hip in abduction and external rotation.
+- **Ix:** XR (typically normal).
+- **Mx:** activity restrictions, bed rest, analgesia (NOT aspirin in young children). Safety netting advice for parents.
+
+### Septic arthritis vs transient synovitis
+
+> [!info] Kocher criteria for diagnosis of septic arthritis
+> - Fever >38.5°C
+> - Non-weight bearing
+> - ↑ESR >40
+> - ↑WCC >12
+>
+> If 3–4 criteria are present, positive predictive value is >90% for septic arthritis.
+
+## Developmental dysplasia of the hip (DDH)
+
+- **D:** spectrum of conditions affecting the proximal femur and acetabulum.
+- Affects 1–3% of newborns; left hip more often affected than right, but 20% of cases are bilateral.
+- **R:** F>M (6× increased risk), breech presentation, family history, firstborn child, oligohydramnios, birth weight >5kg, congenital calcaneovalgus foot deformity.
+- **A:** not fully understood.
+- **P:** incorrect anatomical relationship between the femoral head and acetabulum leads to abnormal development.
+
+> [!info] Spectrum of DDH
+> - **Hip dysplasia:** radiographic finding showing the femoral head is not fully interacting with the acetabulum.
+> - **Hip subluxation:** partial articulation of joint surfaces — usually shows up as a hip that has increased laxity with provocative testing.
+> - **Hip dislocation:** femoral head sits outside the acetabulum.
+> - **Fixed antenatal dislocation:** hip cannot be reduced.
+
+### Screening and testing
+
+- **Screening by ultrasound if:** 1st degree family history of hip problems in childhood; breech presentation at or after 36 weeks gestation; multiple pregnancy.
+- All other children are screened at the newborn check and 6-week check by clinical exam.
+
+> [!info] Clinical tests
+> - **Barlow test:** attempts to dislocate an articulated femoral head.
+> - **Ortolani test:** attempts to relocate a dislocated femoral head.
+> - Also assess: symmetry of leg length; level of knees when hips and knees are all flexed; restricted abduction of the hip in flexion.
+
+- **If any clinical suspicion:** ultrasound if ≤4.5 months old; XR if >4.5 months old.
+- **Mx:** monitor until 6 weeks old. If no improvement — Pavlik harness if child is <4–5 months old, or surgery if older.
+
+## Perthes' disease
+
+- **D:** self-limiting degenerative condition affecting the hip joints of children (age 4–8).
+- M>F (5× more common). 10% bilateral.
+- **A/P:** avascular necrosis of the femoral epiphysis → collapse, repair, remodelling → self-limiting disorder.
+- **S/Smx:** hip pain (progressive); limp; stiffness, ↓range of hip movement.
+- **Ix:** hip XR (↑joint space, ↓femoral head size); bone scan or MRI if XR is normal but symptoms are worsening.
+- **Mx:** cast or braces to stabilise the joint. If <6 years old — watch and wait. If >6 years old or severe — consider surgical management.
+
+## Slipped capital femoral epiphysis (SCFE / SUFE)
+
+- **D:** anterosuperior displacement of the femoral metaphysis due to weakness in the growth plate. Also known as slipped upper femoral epiphysis (SUFE).
+- **R:** obesity, puberty, M>F.
+- **A/P:** stress around the hip joint + shear forces cause slip of the growth plate.
+- **S/Smx:** most commonly age 10–15; hip, groin, medial thigh, or knee pain; loss of internal rotation of the leg in flexion; occurs bilaterally in 20%.
+- **Ix:** XR (AP & lateral, typically frog-leg views) will show slipped epiphysis.
+- **Mx:** internal fixation of the hip.
+- **Complications:** OA, avascular necrosis of the femoral head, chondrolysis, leg length discrepancy.
+
+## Postural Lower Limb Variants (Bow Legs, Knock Knees, Flat Feet, In-Toeing)
+
+> [!note] Gap-filled from CSV ("Paediatric Orthopaedics: ... Postural Changes (Bow Legs, Knock Knees, Flat Feet, Scoliosis)," Medium yield) — genuinely absent as a normal-variant topic despite genu varum/valgum already being mentioned as *pathological* rickets findings below; this entry covers the far more common *physiological* presentation, and the distinction between the two is the single most important thing to take from this entry.
+
+**The core concept:** bow legs, knock knees, and flat feet are all part of the **normal, predictable sequence of lower limb development** that essentially every child passes through — not variants that only some unlucky children have. Recognising the expected age-related pattern is what allows a clinician to reassure confidently in the overwhelming majority of cases, and to recognise the minority that need further assessment.
+
+**The normal developmental sequence, in order:**
+- **Genu varum (bow legs):** the default alignment in infancy and toddlerhood, most noticeable around 12–18 months, reflecting the legs' folded position in utero — physiological and expected to have resolved by around age 2, and should not be worsening or persisting beyond this.
+- **Genu valgum (knock knees):** the alignment typically swings the *other* way after bow legs resolve — physiological genu valgum peaks between ages 3–6 years, then gradually settles to the stable, adult, mildly-valgus alignment by around age 7.
+- **Flat feet (flexible pes planus):** most infants and toddlers appear flat-footed, partly due to a fat pad on the sole obscuring the arch — the longitudinal arch develops with growth and typically resolves by around age 6; a genuinely useful bedside distinguishing test is asking the child to stand on tiptoe (or passively extending the big toe) — **the arch reappearing confirms flexible (physiological) flat feet**, which needs no treatment, versus a **fixed/non-mobile flat foot (arch does not reappear on tiptoe)**, which is not physiological and warrants assessment.
+- **In-toeing:** common in toddlers learning to walk ("pigeon-toed"), most often due to internal tibial torsion at this age — usually resolves spontaneously by around age 6–10 years; insoles and stretching exercises have not been shown to help and shouldn't be recommended.
+- **Out-toeing:** similarly common, particularly as children first learn to walk, and similarly self-resolving.
+
+> [!tip] Quick bedside distinguishing check for varum vs valgum — the "O vs X" test: with the child's ankles/feet together, genu varum leaves a gap between the knees ("O" shape); genu valgum leaves the knees touching while the ankles separate ("X" shape, with the intermalleolar distance being the practical measurement used to gauge severity).
+
+**Red flags warranting referral rather than reassurance — the same underlying pattern across all these variants: asymmetry, pain, progression, or persistence beyond the expected age range:**
+- Asymmetry between the two limbs (one side notably worse than the other).
+- Pain, functional limitation, or increased falling/tripping beyond what's typical for the child's age and stage.
+- Progressive worsening over time, rather than the expected gradual improvement — the *direction of change* matters more than a single measurement, since a mild deformity that's improving is reassuring in a way an identical deformity that's worsening is not.
+- Persistence beyond the expected age for resolution (e.g. genu varum still present or worsening after age 2, genu valgum persisting significantly beyond age 7, flat feet with a fixed/non-mobile arch, in-toeing not improving by the early school years).
+- Short stature or growth concerns alongside the limb finding — raises concern for an underlying skeletal dysplasia or rickets (see Rickets below, not repeated here) rather than a purely physiological variant.
+- A visible "lateral thrust" (the knee visibly pops outward with each step) in genu varum specifically.
+
+**Ix (only where a red flag is present, not routinely):** bloods (calcium, phosphate, ALP, vitamin D) to screen for rickets given the overlapping presentation — see Rickets below; bilateral long-leg alignment X-rays if there's asymmetry, a history of trauma/infection in the affected limb, or persistence beyond the expected age.
+
+**Mx:** for the physiological variants above, **parental education and reassurance, with periodic follow-up to confirm the expected spontaneous resolution, is the correct management** — treatment (braces, special shoes, insoles) has not been shown to accelerate resolution of physiological variants and is not recommended; referral to paediatric orthopaedics is reserved for the red-flag features above, where an underlying pathological cause needs to be actively excluded rather than assumed physiological.
+
+## Rickets
+
+> [!warning] FLAG 2026-09-01 — vitamin D deficiency states are in four places
+> Here · `11_07b ## Osteomalacia` (this file) · `Endocrine and metabolics_merged §0.12 Vitamin D
+> Deficiency` · `Endocrine I3 §0.5 Metabolic Bone Disease`.
+> **Rickets and osteomalacia are the same disease at different ages** and are separated by 480 lines in
+> this file. Flagged, not merged.
+
+- **D:** condition arising from deficient mineralisation at the growth plate of long bones, presenting in childhood.
+- **R:** ↓calcium and vitamin D intake (e.g. developing countries or lower socioeconomic status), prolonged breastfeeding, unsupplemented cow's milk formula, ↓sunlight exposure.
+- **A/P:** ↓Ca, ↓vitamin D, and/or ↓PO4 disrupts the normal process of bone mineral deposition, especially at the growth plate. If the condition persists for a long time, bone deformity occurs.
+- **S/Smx:** bone pain, arthralgia; lower limb abnormalities — genu varum (bow legs) in toddlers, genu valgum (knock knees) in older children; kyphoscoliosis; craniotabes (soft skull bones); Harrison's groove (horizontal groove along the lower border of the thorax).
+- **Ix:** bloods (↓vitamin D, ↓Ca, ↑ALP); XR may show a "rickety rosary" — swelling at the costochondral junction.
+- **Mx:** vitamin D supplementation.
+
+## Osgood-Schlatter disease
+
+- **D:** apophysitis (inflammation of the growth plate where tendons attach to bones) at the tibial tuberosity.
+- **R:** growth spurts, sports.
+- **S/Smx:** knee pain (70% unilateral) exacerbated by activity, may develop over weeks/months. Tenderness over the tibial tuberosity, worsened by making the patient extend the knee against resistance, ± swelling over the area.
+- **Ix:** clinical diagnosis ± XR if needed to rule out other pathology (e.g. trauma/fracture).
+- **Mx:** conservative — analgesia, ice packs, exercise modification, stretching.
+
+## Paediatric fractures
+
+> [!info] Fracture patterns specific to children
+> - **Complete fracture:** both sides of the cortex are breached.
+> - **Toddler's fracture:** oblique tibial fracture in infants.
+> - **Plastic deformity:** stress on the bone resulting in deformity without cortical disruption.
+> - **Greenstick:** unilateral cortical breach only.
+> - **Buckle/torus:** incomplete cortical disruption resulting in periosteal haematoma (bulging of the cortex).
+
+### Growth plate (Salter-Harris) fractures
+
+> [!tip] Mnemonic — "SALTER": **S**lipped / **A**bove / **L**ower / **T**hrough **E**ve**R**ything.
+> - **Type I:** fracture through the physis only (Slipped).
+> - **Type II:** through the physis + metaphysis (Above).
+> - **Type III:** physis + epiphysis + joint (Lower).
+> - **Type IV:** physis + metaphysis + epiphysis (Through everything).
+> - **Type V:** crush injury involving the physis (Crush).
+
+*(See also [[11_03_Ortho_-_Hand_and_Foot]] Club foot (talipes equinovarus))*
+
+
 <!-- ===== SOURCE: L8_Facial__Head_and_Torso_Trauma.md ===== -->
 
 
@@ -4066,77 +4321,190 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 > Head injury, GCS and intracranial haemorrhage → [[F0.5]] 0.7–0.8 · Tension pneumothorax and acute respiratory emergencies → [[F0.5]] 0.2 · Airway compromise → [[A2]] · Shock phenotypes and haemorrhagic shock → [[F0.3]] 0.2 · Massive transfusion, tranexamic acid and anticoagulant reversal → [[A9]] 0.1, 0.4 · Burns and chemical injury → [[A7]] · Wounds, bites and tetanus → [[A7]] 0.5 · Compartment syndrome → [[A7]] 0.6 · Hypothermia → [[A6]] · Fractures, open fractures and orthopaedic emergencies → [[L7]] · Spinal trauma and the fused spine → [[L4]] 0.7 · Ocular trauma and the red eye → [[E1]] · Mandibular and deep neck space injury → [[F0.5]] 0.10 · Non-accidental injury and mandatory reporting → [[L7]] 0.5, [[GER4]] and [[M6]] · Frailty and goals of care → [[GER1]] 0.2 and [[GER2]] 0.5 · Trauma in pregnancy and perimortem caesarean → [[O2]] and [[F0.4]] · Paediatric resuscitation → [[M1]]
 
 
-<!-- ===== SOURCE: NEW_Drugs_19_Rheumatological.md ===== -->
+<!-- ===== SOURCE: 11_09b_Ortho_-_Trauma.md ===== -->
 
 
-# NEW — Drug Classes: Rheumatological (AMH section 19)
+## Major Trauma — Primary Survey
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!warning] FLAG 2026-09-01 — trauma is duplicated inside this file and across three others
+> **Within MSK:** this section +7 subsections, and `L8 §0.1 The Primary Survey and Trauma Principles`
+> are the same topic twice. `## Splenic trauma`, `## Liver trauma` and `L8 §0.4 Abdominal Trauma` are
+> three copies of abdominal trauma. `## Head injuries` duplicates `Neuro ### Head Injury`.
+> **Across files:** `GI_merged C1 §0.10 Abdominal Trauma` · `Emergency F0-5 §0.7 Major Head Injury` and
+> `§0.8 Minor Head Injury` · `Neuro_merged ### Head Injury`.
+> **See `_meta/flags/_TRAUMA.md` for the full analysis. Nothing has been moved.**
 
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
+> [!note] Gap-filled from CSV ("Major trauma" and "Trauma," Medium yield). **Verified as genuinely absent before building rather than assumed** — this file holds organ-specific trauma (thoracic, genitourinary, splenic, liver, head, ocular) with no structured approach to the patient, and corpus-wide search returned **zero hits** for catastrophic haemorrhage, pelvic binder, permissive hypotension or secondary survey. The **generic** ABCDE approach is fully built in [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient) and is **not repeated here** — this entry covers only what trauma changes about it. Verified against ANZCOR guidelines and Australian state major trauma service guidelines, Aug 2026.
 
-> [!note] **Scope note.** AMH section 19 in the build list is a **single subsection with three classes**. Much of what an intern associates with rheumatology sits in other sections and is cross-referenced rather than duplicated: **NSAIDs and colchicine and the gout drugs** in `NEW_Drugs_03_Analgesics.md`; **methotrexate, biologics, TNF inhibitors and other immunosuppressants** in `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.5; **systemic corticosteroids** in `NEW_Drugs_10_Endocrine.md` 0.5.1; and **bisphosphonates and osteoporosis drugs** in `NEW_Drugs_10_Endocrine.md` 0.1.
+**What trauma changes about ABCDE:** the sequence is the same, but the differential within each letter is narrower and more time-critical, and one step is added in front.
+
+### \<C\> — Catastrophic haemorrhage, before airway
+
+In trauma, **exsanguinating external haemorrhage is addressed before the airway**, because a patient can bleed out faster than they can obstruct. Direct pressure, a **haemostatic dressing**, or an **arterial tourniquet** for a limb bleed that pressure will not control. This is the only situation in which anything precedes A.
+
+### A — Airway **with cervical spine protection**
+
+The addition is the C-spine. Assume injury in any significant blunt mechanism until cleared, use **manual in-line stabilisation** during airway manoeuvres, and prefer **jaw thrust over head tilt–chin lift**. The reason is mechanical: head tilt extends the neck, which is exactly the movement a potentially unstable cervical injury cannot tolerate.
+
+### B — Breathing: the immediately life-threatening chest injuries
+
+Five that must be found in the primary survey rather than on imaging, because each kills before a scan:
+- **Tension pneumothorax** — a clinical diagnosis treated on suspicion, not confirmed radiologically first (see [[02_Respiratory]] for the disease-level detail, not repeated here)
+- **Open pneumothorax** (sucking chest wound)
+- **Massive haemothorax** — see Thoracic trauma below
+- **Flail chest** with underlying pulmonary contusion
+- **Cardiac tamponade** — see [[01_Cardiovascular]] for Beck's triad and the tamponade physiology, not repeated here
+
+### C — Circulation: where the blood goes
+
+> [!info] **"Blood on the floor and four more" — the five places a trauma patient can lose enough blood to die, and the reason this list exists is that four of them are invisible.** External (on the floor), **chest**, **abdomen**, **pelvis/retroperitoneum**, and **long bones** (a femoral shaft fracture can hold 1–1.5 L; bilateral, considerably more). A hypotensive trauma patient with no external bleeding has occult haemorrhage in one of the other four until proven otherwise — that is what the list is for, and it is why the assessment is a search rather than an observation.
+
+- **Two large-bore IV cannulae**, bloods including crossmatch.
+- **Pelvic binder** at the level of the **greater trochanters** — not the iliac crests, which is the commonest application error and makes the binder ineffective. It works by reducing pelvic volume and tamponading venous bleeding, which is also why a suspected pelvic fracture should **not** be repeatedly "sprung" to test stability: doing so disrupts clot.
+- **Permissive hypotension** — accepting a lower blood pressure until surgical control of bleeding is achieved. The reasoning is that aggressive crystalloid before haemostasis raises pressure enough to dislodge formed clot, dilutes clotting factors, and worsens the trauma-induced coagulopathy.
+- **Blood, not crystalloid**, is the resuscitation fluid in haemorrhagic shock — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Massive Transfusion Protocol (MTP) and [[01_Cardiovascular]] 0.20 Shock (0.20.2 Hypovolaemic shock) for the physiology and the classification by blood loss, not repeated here.
+- **Tranexamic acid** is given early in significant trauma haemorrhage; the benefit is time-dependent, so it is an early-in-the-primary-survey decision rather than a later one.
+
+### D — Disability
+
+GCS, pupils, blood glucose, and gross limb movement. The trauma-specific point is that **a falling GCS is a reason to re-look at A, B and C before attributing it to head injury** — hypoxia and hypoperfusion both reduce conscious level and both are reversible. See [[04_Neurology]] CT Head, Head Injury, and Intracranial Pressure for imaging thresholds and raised-ICP management, not repeated here.
+
+### E — Exposure and environment
+
+Fully expose, then **actively prevent hypothermia** — warmed fluids, warming blankets, minimise exposure time. Hypothermia in trauma is not merely uncomfortable: it forms the **"lethal triad" with acidosis and coagulopathy**, each worsening the others, and it is the component most directly under the treating team's control.
+
+### After the primary survey
+
+**Secondary survey** — a systematic head-to-toe examination including a **log roll** to inspect the back and perform a rectal examination if indicated, once the patient is stable enough. **AMPLE history** (Allergies, Medications, Past history, Last meal, Events) as in the generic ABCDE entry. **Re-assess from the top whenever the patient deteriorates** rather than continuing down the sequence — the primary survey is a loop, not a checklist to complete once.
+
+> [!info] **Remoteness is the equity variable that matters most in trauma**, and it operates through time rather than through any difference in the injury itself: distance to a designated major trauma service lengthens the interval to definitive haemorrhage control, and that interval is what the primary survey is buying. The practical consequence is the same one stated for burns above — **activate retrieval early, in parallel with resuscitation**, because the transfer time is the part of the pathway you cannot compress later. (Stated as a mechanism rather than with a mortality figure: this project has not sourced Australian trauma-outcome disparity data directly, and a number is not asserted here.)
+
+> [!warning] Australian context worth knowing: major trauma care is organised through **state-based trauma systems with designated major trauma services**, and the intern-level task in a smaller or regional hospital is usually **recognition, resuscitation and early retrieval** rather than definitive management. Retrieval services (such as the state aeromedical and retrieval organisations) should be contacted **early** — the referral conversation happens in parallel with resuscitation, not after it.
 
 ---
 
-## 0.1 Drugs for Other Musculoskeletal Conditions
+## Burns and Scalds
 
-> [!info] **The organising principle of modern rheumatology: TREAT TO TARGET, and treat EARLY.**
-> In inflammatory arthritis, **the window in which disease-modifying therapy prevents irreversible joint erosion is measured in weeks to months.** **Early referral of suspected inflammatory arthritis — persistent joint swelling, early morning stiffness lasting over 30 minutes, symmetrical small joint involvement, raised inflammatory markers — is one of the highest-value referrals in general practice.** **NSAIDs and steroids relieve symptoms; they do not prevent damage.** Treatment is then escalated at defined intervals until **remission or low disease activity** is achieved, not until the patient merely feels better.
+> [!note] Gap-filled from CSV — **two rows** ("Burns" and "Burns and scalds," both Low yield, Injury/Poisoning/Envenomation/Environmental category). Flagged as absent early in this project and **confirmed missing twice** on corpus-wide search: zero hits for Parkland, rule of nines, TBSA in a burns context (every TBSA hit was SJS/TEN in [[09_01_Dermatology_-_Dermatological_Emergencies]] Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN)), or cooling. Built here rather than in the dermatology file because burns are managed as **trauma** — primary survey, fluid resuscitation, transfer to a burns unit — and this file is already the project's de facto general trauma home despite its "Ortho" filename (it holds thoracic, genitourinary, splenic, liver, head and ocular trauma, none of them orthopaedic). Verified against ANZCOR Guideline 9.1.3 (First Aid for Burns), ANZBA (Australian and New Zealand Burn Association) referral criteria and Emergency Management of Severe Burns principles, and Australian state burns service guidelines, Aug 2026.
 
-### 0.1.1 Antimalarials as DMARDs
-- **Key agents:** **hydroxychloroquine** (and, less commonly, chloroquine).
-- **Mechanism:** incompletely understood — lysosomal alkalinisation, interference with antigen processing and **inhibition of toll-like receptor signalling**, producing a mild immunomodulatory effect without general immunosuppression.
-- **Indications:** **systemic lupus erythematosus — where it is foundational and should be given to essentially all patients**, reducing flares, organ damage, thrombosis and mortality, and being safe in pregnancy; **rheumatoid arthritis** (mild disease, or as part of combination DMARD therapy); **Sjögren syndrome**; and cutaneous lupus.
+### First aid — the intervention with the best evidence, and the one most often done wrong
 
-> [!danger] **RETINAL TOXICITY — irreversible, and the reason for mandatory ophthalmological screening.**
-> Hydroxychloroquine accumulates in the retinal pigment epithelium and can cause a **bull's-eye maculopathy** that **continues to progress even after the drug is stopped** and causes permanent central visual loss. **Risk is related to DAILY DOSE PER ACTUAL BODY WEIGHT and CUMULATIVE DURATION**, and is increased by **renal impairment, concurrent tamoxifen, and pre-existing retinal disease.**
-> **Requirements: a baseline ophthalmological assessment within the first year, and regular screening thereafter (annually after about five years of use), using modern sensitive tests — OCT and automated visual fields — not just fundoscopy, because by the time it is visible on fundoscopy the damage is advanced.** **Dose is capped by real body weight.**
-- **Other adverse effects:** generally very well tolerated — gastrointestinal upset, rash, and **skin and mucosal hyperpigmentation**; **QT prolongation** (relevant with other QT-prolonging drugs); **haemolysis in G6PD deficiency**; and rarely cardiomyopathy, myopathy and neuropathy with prolonged use.
-- **A distinctive strength: it is one of the few immunomodulators that is CONTINUED in pregnancy and breastfeeding** — stopping it in a pregnant woman with lupus precipitates flares and worsens outcomes, and this is a common and harmful error. See [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]].
+> [!danger] **Cool running water, 20 minutes, and it still works up to 3 hours after the burn.** This is ANZCOR's guidance and it is worth knowing precisely, because all three parts are commonly got wrong:
+> - **20 minutes**, not "a splash" — shorter durations do not achieve the same reduction in burn depth and subsequent scarring.
+> - **Cool running water — never ice or iced water**, which causes vasoconstriction and can deepen the burn and induce hypothermia.
+> - **Late is still worth doing.** Cooling started up to **3 hours** after injury retains benefit, so a patient arriving at hospital an hour later should still be cooled — the common error is deciding the window has closed.
+>
+> **Keep the patient warm while cooling the burn.** These are not contradictory: cool the injured area, warm the person. Hypothermia is a real and under-recognised risk, especially in children and in large burns, and it worsens coagulopathy and outcome.
 
-### 0.1.2 Immunosuppressants (Rheumatology)
-- **Conventional synthetic DMARDs:**
-  - **Methotrexate** — the **anchor drug of rheumatoid arthritis and psoriatic arthritis**. **ONCE WEEKLY dosing, with folic acid on other days** — see the fatal-error warning in `NEW_Drugs_08_Dermatological.md` 0.3.4. Monitor **FBC, LFTs and renal function**; watch for **mucositis, pneumonitis and hepatic fibrosis**; **teratogenic and abortifacient — contraception is required in both sexes**; and remember the **co-trimoxazole/trimethoprim and NSAID interactions**.
-  - **Sulfasalazine** — effective, safe in pregnancy, and useful where methotrexate cannot be used; causes rash, **haemolysis in G6PD deficiency**, **reversible oligospermia**, and folate deficiency.
-  - **Leflunomide** — for rheumatoid and psoriatic arthritis. **Teratogenic with a VERY LONG half-life requiring an accelerated elimination procedure with colestyramine before pregnancy — and this applies to male patients too.** Causes hypertension, diarrhoea, hepatotoxicity and peripheral neuropathy.
-  - **Azathioprine, mycophenolate, ciclosporin and cyclophosphamide** — for connective tissue disease, vasculitis and organ-threatening manifestations. **Check TPMT/NUDT15 before azathioprine; mycophenolate is teratogenic and requires a pregnancy prevention programme; cyclophosphamide requires MESNA, fertility counselling and preservation.**
-- **Biologic and targeted synthetic DMARDs:** **TNF inhibitors**, **IL-6 inhibitors (tocilizumab)**, **B-cell depletion (rituximab)**, **T-cell costimulation blockade (abatacept)**, **IL-17 and IL-23 inhibitors** for spondyloarthritis and psoriatic disease, and **JAK inhibitors (tofacitinib, baricitinib, upadacitinib)**. **Australian PBS authority criteria are specific, require documented failure of conventional DMARDs, and change — check them.** See `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.5.3 and 0.5.4 for the class detail.
+Remove clothing and jewellery (unless adherent), cover with cling film laid on longitudinally rather than wrapped circumferentially (it must not constrict as oedema develops), and give **analgesia early** — burns are severely painful and under-analgesia is routine.
 
-> [!danger] **BEFORE ANY DMARD, BIOLOGIC OR JAK INHIBITOR — a standing, checkable list that is regularly incomplete:**
-> **Screen for latent TUBERCULOSIS, HEPATITIS B and C, and HIV. VACCINATE — including LIVE vaccines — BEFORE starting, because they are contraindicated afterwards. Consider STRONGYLOIDES serology in anyone with relevant exposure. Discuss pregnancy, contraception and fertility. Establish the monitoring schedule and who is doing it.** See `NEW_Drugs_05_Anti_infectives.md` 0.1.2 and 0.6.3.
+### Assessment — depth and TBSA
 
-> [!danger] **AND THE POINT THAT MATTERS MOST ON THE WARD: A FEVER IN A PATIENT ON A DMARD OR BIOLOGIC IS SEPSIS UNTIL PROVEN OTHERWISE, AND THE SIGNS MAY BE BLUNTED.**
-> **Withhold the immunosuppressant during serious infection**, take cultures broadly, image with a low threshold, and think about **opportunistic organisms**. **Also consider ADRENAL INSUFFICIENCY** in any hypotensive patient on long-term corticosteroids. **A septic joint in a patient with rheumatoid arthritis is easily dismissed as a flare — aspirate it.** See [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]].
+**Depth** determines healing and whether grafting is needed:
 
-### 0.1.3 Muscle Relaxants (GABA-B Agonists)
-- **Key agent:** **baclofen** (oral and intrathecal); **tizanidine** (an α₂-agonist), **dantrolene** (acting directly on skeletal muscle), **diazepam**, and **botulinum toxin** are the other agents used for spasticity.
-- **Mechanism:** **baclofen is a GABA-B receptor agonist** acting at the spinal cord to reduce excitatory transmission and monosynaptic and polysynaptic reflexes.
-- **Indications:** **SPASTICITY of central origin — multiple sclerosis, spinal cord injury, cerebral palsy and stroke** — which is its evidence base. It is also used, with much weaker evidence, for musculoskeletal muscle spasm and low back pain.
-- **Adverse effects:** **sedation, dizziness, weakness and fatigue** — and **the weakness is the therapeutic problem: reducing tone can remove the spasticity a patient is USING to stand or transfer.** Also confusion (especially in older people), nausea, hypotension, and **lowered seizure threshold**. **Renally cleared — accumulates in renal impairment, where it causes encephalopathy at ordinary doses.**
+| Depth | Appearance | Sensation | Healing |
+|---|---|---|---|
+| **Superficial (epidermal)** | Erythema, no blisters (sunburn) | Painful | Days, no scar. **Not counted in TBSA** |
+| **Superficial partial thickness** | Blisters, moist, pink, blanches | **Very painful** | ~2–3 weeks, minimal scarring |
+| **Deep partial thickness** | Blisters, mottled red/white, sluggish or absent blanching | Reduced sensation | Slow, scars; often needs grafting |
+| **Full thickness** | White, waxy or charred, dry, leathery | **Painless** — the nerve endings are destroyed | Will not heal without grafting |
 
-> [!danger] **BACLOFEN WITHDRAWAL IS A MEDICAL EMERGENCY, AND INTRATHECAL BACLOFEN WITHDRAWAL CAN BE FATAL.**
-> Abrupt cessation — including from **a failed or empty intrathecal pump, a disconnected catheter, or simply omitting oral doses in an admitted patient** — causes **high fever, severe rebound spasticity and rigidity, altered mental state, rhabdomyolysis, multi-organ failure and death**, and closely mimics **neuroleptic malignant syndrome, serotonin syndrome and sepsis**.
-> **Practical: never omit baclofen in an inpatient; if the patient cannot swallow, find a route; and if a patient with an intrathecal pump becomes unwell with fever and rigidity, think PUMP FAILURE and contact the implanting service urgently.** Treatment is restoring baclofen (oral or intrathecal) plus supportive care and benzodiazepines.
-- **Note on the other agents:** **dantrolene is also the antidote in malignant hyperthermia** (see `NEW_Drugs_02_Anaesthetics.md` 0.2.3) and causes **hepatotoxicity** with long-term oral use; **tizanidine** causes hypotension and hepatotoxicity and interacts strongly with **ciprofloxacin and fluvoxamine (CYP1A2)**; and **carisoprodol and orphenadrine-type agents have poor evidence and real misuse potential** — muscle relaxants are not a good long-term answer to back pain.
+> [!info] **The counter-intuitive point, and the reason it matters: a painless burn is a worse burn.** Loss of sensation means full-thickness destruction of the dermis including its nerve endings, so pain is inversely related to depth at the severe end. An intern reassured by a patient not complaining of pain has the finding exactly backwards.
 
-> [!info] **What actually helps in musculoskeletal conditions, beyond drugs:** **exercise and physiotherapy** (the strongest evidence in osteoarthritis, back pain and inflammatory arthritis alike), **weight management**, **occupational therapy and joint protection**, **hand therapy**, **pain education for chronic pain**, and **surgery where indicated**. **For osteoarthritis specifically, there is no disease-modifying drug** — paracetamol is weakly effective, topical NSAIDs are a good first choice for knee and hand OA, oral NSAIDs work but carry the risks in `NEW_Drugs_03_Analgesics.md` 0.4.2, **opioids perform poorly and cause harm**, and **intra-articular corticosteroid gives short-term relief only**. Saying this honestly to a patient is better than escalating drugs that will not work.
+**TBSA (total body surface area) estimation** — the percentage of the body burned, and the number the whole fluid calculation is built on:
+- **Rule of Nines (adults):** head 9%, each arm 9%, each leg 18%, anterior trunk 18%, posterior trunk 18%, perineum 1%.
+- **The patient's own palm including fingers ≈ 1% TBSA** — the most practical tool for small or patchy burns.
+- **Do not count superficial (erythema-only) burns** in TBSA. Including sunburn-type erythema is a common error that inflates the calculation and leads to over-resuscitation.
+
+> [!danger] **The Rule of Nines is wrong in children, and the reason is anatomical rather than arbitrary: a child's head is proportionally much larger and their legs proportionally shorter.** An infant's head is around **18%** — double the adult figure — with each leg correspondingly closer to **14%**. Applying the adult rule to a small child **underestimates** a head burn and **overestimates** a leg burn. Use a **Lund and Browder chart**, which is age-adjusted, wherever one is available; it is the accurate tool and the reason it exists.
+
+### Mx
+
+- **Immediate/acute:** treat as **major trauma** — see Major Trauma — Primary Survey below, not repeated here. Burns-specific priorities within it:
+  - **Airway.** Suspect **inhalation injury** with burns sustained in an enclosed space, facial or neck burns, singed nasal hairs, soot in the mouth or sputum, hoarseness or stridor. **Airway oedema is progressive**, so the decision to intubate is made early on trajectory rather than on the current appearance — waiting until the airway looks bad means intubating a much harder airway.
+  - **Breathing.** Consider **carbon monoxide and cyanide poisoning** in enclosed-space fires. Pulse oximetry is **falsely reassuring in CO poisoning** because carboxyhaemoglobin absorbs light similarly to oxyhaemoglobin — the saturation reads normal while the patient is hypoxic. Give high-flow oxygen and measure a blood gas with co-oximetry.
+  - **Circumferential burns** of a limb or the chest can act as a tourniquet as oedema develops — limb ischaemia or restricted ventilation — and may need **escharotomy** — a surgical incision through the full thickness of the burned, inelastic eschar (not into muscle, which would be a fasciotomy) to release the constriction and restore perfusion or chest expansion. An intern's task is to **recognise the need and escalate**, not to perform it.
+- **Fluid resuscitation — the modified Parkland formula.** **Volume = mL × body weight (kg) × %TBSA**, given over the first 24 hours, with **half in the first 8 hours and the remainder over the following 16**. **Hartmann's (compound sodium lactate)** is the standard fluid across Australian trauma networks.
+
+  > [!info] **3 or 4 mL is a clinical decision, not a jurisdictional disagreement — and knowing the trigger is the point.**
+  > - **3 mL/kg/%TBSA — the standard adult baseline.**
+  > - **4 mL/kg/%TBSA — escalate to this for suspected inhalation injury, high-voltage electrical injury, or burns with associated major trauma.** These patients have larger third-space losses and greater fluid requirements, so the higher figure is a response to a specific finding rather than a preference.
+  >
+  > **A source of genuine confusion worth pre-empting:** the *original* Parkland formula as published, and as still quoted in much international literature, is **4 mL/kg/%TBSA for everyone**. Australian practice uses the modified 3 mL baseline. Meeting "Parkland = 4 mL" in a textbook is therefore not an error on the textbook's part — it is the unmodified formula, and the Australian starting figure is lower.
+
+  **Four things interns get wrong:**
+  - **The clock starts at the time of the burn, not at the time of presentation.** This is a classic trap. A patient arriving **3 hours** after injury has already consumed 3 of the first 8 hours — they have **5 hours left** in which to receive the first half of the volume, not 8. Calculate backwards from the injury and catch up accordingly.
+  - **Superficial (erythema-only, "first-degree") burns are excluded from the %TBSA calculation.** Counting sunburn-type erythema inflates the figure and drives over-resuscitation.
+  - **The formula gives an initial estimate only — titrate against urine output, reassessed 1–2 hourly.** Target roughly **0.5 mL/kg/hr in adults** and **1 mL/kg/hr in children**. Over-resuscitation ("fluid creep") causes real harm — compartment syndrome, pulmonary oedema, deepening of the burn — so the formula is a starting rate to be adjusted, never a volume to be delivered regardless.
+  - **Children need separate maintenance fluid containing glucose, in addition to the resuscitation volume**, and the reason is worth holding rather than the rule alone: **children have limited hepatic glycogen stores**, so they become hypoglycaemic quickly once catabolic and not feeding. Resuscitation fluid replaces losses; it does not meet maintenance requirements, and Hartmann's contains no glucose. Give maintenance with a **glucose-containing** solution alongside, and **monitor blood glucose**.
+
+  > [!warning] **The TBSA threshold for starting formal fluid resuscitation is stated inconsistently across sources and is deliberately not fixed here.** **Children: ≥10% TBSA** is consistent across the sources checked. **Adults: both ≥15% and ≥20% appear**, including within Australian and international material, and the American Burn Association uses ≥20% adults / ≥15% children. **Confirm the threshold against your local burns service protocol rather than memorising one figure** — and note that the practical consequence of the ambiguity is small, because any burn approaching these figures warrants early discussion with a burns unit anyway (see the referral criteria below), and that conversation will settle it.
+- **Definitive:** wound care and dressings, tetanus status, early nutrition in major burns, and **surgical debridement and grafting** for deep partial and full thickness burns. Analgesia throughout — including for dressing changes, which are often the most painful part of the admission.
+
+> [!warning] **ANZBA referral criteria — burns that should go to a burns unit.** Worth knowing as a list because the threshold is lower than most people assume:
+> - **>10% TBSA in adults**, or **>5% TBSA in children**
+> - **Full thickness burns >5% TBSA**
+> - **Burns of special areas** — face, hands, feet, genitalia, perineum, major joints
+> - **Circumferential** limb or chest burns
+> - **Inhalation injury**
+> - **Electrical** or **chemical** burns
+> - Burns with **significant pre-existing illness**, or **associated major trauma**
+> - **Extremes of age** — young children and the elderly
+> - **Burns in pregnancy**
+> - **Non-accidental burns** (see below)
+
+> [!danger] **Aboriginal and Torres Strait Islander children — a large disparity, and one finding that makes the first-aid section above the most actionable part of this entry.** Burn injury rates are **2–3 times higher** than in other Australian children (hospitalisation around **58 vs 22 per 100,000**, and in the 0–4 year age group **174 vs 56 per 100,000**), with **greater severity and longer admissions** — a median length of stay of **5 days versus 1**. Remoteness, flame burns, larger %TBSA and full-thickness injury all contribute, and all are more common in this group.
+> **The actionable finding:** in an Australian study of caregivers of Aboriginal and Torres Strait Islander children with burns, **only 34 of 208 received gold-standard burns first aid at the scene**. Two consequences follow directly:
+> - **Assume adequate cooling has probably not happened**, and cool on arrival — which is exactly why the 3-hour window matters clinically rather than being a piece of trivia. Do not skip cooling because time has passed.
+> - **Prevention and first-aid education are a genuine clinical intervention here**, not background health promotion — the single modifiable factor with the largest effect on final burn depth is whether 20 minutes of cool running water happened.
+>
+> Retrieval distance also lengthens the interval to definitive care, so **contact the burns service and retrieval early** rather than after local stabilisation is complete. Verified against AIHW hospitalised burn injury data, MJA population data-linkage research on Indigenous and non-Indigenous children hospitalised for burns, and Australian burns first-aid research, Aug 2026.
+
+> [!danger] **Non-accidental injury is a genuine differential in a paediatric burn, not a remote possibility.** Patterns that should raise concern: a **scald with a clear immersion line and no splash marks** (a child who fell into hot water splashes and withdraws; a child who is held does not), **symmetrical "glove and stocking" distribution**, **burns to the buttocks or perineum**, contact burns with a clear imprint of an object, delayed presentation, or an explanation inconsistent with the child's developmental stage. Assess and escalate exactly as for any suspected NAI — see [[15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse]] Non-accidental injury (NAI) for the full assessment, information-sharing and mandatory reporting framework, not repeated here.
 
 ---
 
-## Build status
+## Thoracic trauma
 
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for other musculoskeletal conditions | SUB | yes | Framed on treat-to-target and early referral. |
-| 0.1.1 | Antimalarials / DMARDs | CLS | yes | Hydroxychloroquine, with the mandatory retinal screening requirement and its continuation in pregnancy. |
-| 0.1.2 | Immunosuppressants (rheumatology) | CLS | yes | Conventional synthetic DMARDs given in full; biologics and JAK inhibitors cross-referenced to section 14 rather than duplicated. |
-| 0.1.3 | Muscle Relaxants (GABA-B Agonists) | CLS | yes | Baclofen, with the withdrawal emergency including intrathecal pump failure. |
+> [!danger] Haemothorax — secondary to laceration of a blood vessel. Mx: wide bore chest drain; thoracotomy if >1.5L blood loss initially, or >200mL/h loss for >2h.
 
-**Rows in file: 4 (1 SUB + 3 CLS). AMH section 19 build-list rows: 4. Section complete.**
+- **Mediastinal traversing wounds:** entrance on one side of the thorax, exit on the other side. Haematoma indicates increased likelihood of great vessel injury. Ix: CTPA, oesophageal contrast swallow. Mx: consider thoracotomy.
 
-> [!note] **This is the smallest section in Part C**, because most rheumatology drug classes are catalogued under other AMH sections in the build list. Those are cross-referenced in the scope note at the top rather than duplicated, so that a single clinical topic does not exist in two places and drift apart.
+> [!danger] Traumatic aortic disruption — the most common cause of death after RTA. 98% will show up on XR.
 
+- **Cardiac contusions:** result in cardiac arrhythmias + sternal fracture. Ix: echo. Mx: pericardial effusions or tamponade managed accordingly.
+- **Pulmonary contusion:** common, insidious onset but lethal. Mx: early intubation & ventilation.
+- **Diaphragmatic injury:** usually on the left side. Mx: gastric tube passing into the thoracic cavity, then surgical repair.
+- Cross-referenced conditions: simple and tension pneumothorax — see [[02_Respiratory]] Pneumothorax; flail chest — see [[11_06_Ortho_-_Spinal_Orthopaedics]] Rib fractures; cardiac tamponade — see [[01_Cardiovascular]] 0.34 Cardiac Tamponade.
+
+## Lower genitourinary tract trauma
+
+- **Urethral injury:**
+  - Bulbar rupture — often secondary to straddle-type injuries → urinary retention, perineal haematoma, blood at the meatus.
+  - Membranous rupture — usually secondary to pelvic fracture → penile or perineal oedema/haematoma.
+  - Ix: ascending urethrogram. Mx: suprapubic catheter.
+- **External genitalia injuries:** often secondary to penetration, blunt trauma, devices, mutilation. Uro/plastics input required.
+- **Bladder injury:** divided into intra- or extra-peritoneal. S/Smx: haematuria, suprapubic pain. Ix: IV urethrogram or cystogram. Mx: laparotomy if intraperitoneal injury; conservative management if extraperitoneal.
+
+## Splenic trauma
+
+- Small injuries (e.g. small haematoma, little blood loss) can be managed conservatively.
+- **Laparotomy with conservation** if: increased intra-abdominal blood, moderate haemodynamic compromise, tears or lacerations affecting <50% of the spleen.
+- **Resection (removal of spleen)** if: hilar injuries, major haemorrhage + shock, major associated injuries.
+
+## Liver trauma
+
+- Laceration of blood vessels can cause haematoma (subcapsular or intraparenchymal), or bleeding into the abdomen.
+- Injury to the bile duct is more likely to occur in severe injuries, central injuries, or penetrating trauma.
+- **S/Smx:** RUQ pain, right shoulder tip pain, ↓BP, shock.
+- **Ix:** ↑ALT/AST, CT.
+- **Mx:** maintain haemodynamic stability; 80% can be treated non-surgically.
+
+## Head injuries
+
+*(See [[04_Neurology]] CT Head, Head Injury, and Intracranial Pressure)*
+
+> [!note] **Moved to `[[Opthalm_merged]]` on 2026-09-01:** `Ocular trauma` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
 <!-- ===== SOURCE: NEW_Investigations_Orthopaedics_Neurology_and_Other.md ===== -->
 
@@ -4738,442 +5106,74 @@ Ongoing exercise, falls prevention, review of aids as function changes, and care
 > **The error was in the evidence, not the arithmetic: "the file exists and the plan says DONE" was treated as "the file covers its rows."** With both gaps closed, **Part A is now complete against `data/build_list_investigations.md`, checked row by row** — but that statement should be re-verified by anyone relying on it, not taken from this note.
 
 
-<!-- ===== SOURCE: NEW_Investigations_Rheumatology.md ===== -->
+<!-- ===== SOURCE: NEW_Drugs_19_Rheumatological.md ===== -->
 
 
-# NEW — Investigations: Rheumatology and Immunology
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay-dependent values are **omitted with the omission stated in place**.
-
-> [!note] **Overlap with the infectious diseases file is deliberate.** The build list carries `Autoimmune / Rheum Serology`, `Positive Autoimmune Serology` and `Vasculitis Serology` under Infectious Diseases and `Autoimmune / ANA Panel`, `ANCA Profile`, `Anti-Centromere Antibodies` and `Myositis Profile` under Rheumatology. The general interpretive approach is in `NEW_Investigations_Infectious_Diseases.md` 0.19–0.21 and is **not restated here**; these entries cover what is specific to each test.
-
----
-
-## 0.1 Autoimmune / ANA Panel (ANA, Anti-dsDNA, Anti-Sm, Anti-RNP, Anti-Ro/SSA)
-
-**D:** Antinuclear antibody by indirect immunofluorescence (reported as **titre and pattern**), reflexing to extractable nuclear antigen specificities.
-
-**Ind:** A clinical syndrome suggesting connective tissue disease — inflammatory arthritis, photosensitive rash, serositis, Raynaud phenomenon, sicca, unexplained cytopenias, unexplained renal or interstitial lung disease.
-
-**Role:** **Supportive, never diagnostic alone.** The general caution — that ANA is a poor test in an unselected patient and that low-titre positives are common in healthy people — is set out in `NEW_Investigations_Infectious_Diseases.md` 0.19 and 0.20 and is not repeated.
-
-> [!info] **What each specificity adds once ANA is positive**
-> - **Anti-dsDNA** — relatively specific for **SLE**; **titre tracks disease activity, particularly lupus nephritis**, so it is a monitoring test as well as a diagnostic one.
-> - **Anti-Sm** — highly specific for SLE but insensitive; a positive is close to diagnostic, a negative excludes nothing.
-> - **Anti-RNP** — high titres in **mixed connective tissue disease**.
-> - **Anti-Ro/SSA and anti-La/SSB** — Sjögren syndrome, subacute cutaneous lupus. **Anti-Ro carries a specific obstetric consequence: risk of congenital heart block and neonatal lupus**, so it must be known before or early in pregnancy and triggers fetal cardiac surveillance.
-
-> [!danger] **Do not ignore**
-> **A positive ANA with hypertension, oedema, an active urinary sediment or a rising creatinine** — lupus nephritis. Send **anti-dsDNA, C3/C4, urinalysis with microscopy and a urine protein:creatinine ratio**, and refer; renal outcome depends on early treatment. **Never diagnose SLE on serology alone** — it is a clinical diagnosis against criteria.
-
-**Normal/abnormal:** Report as titre and pattern; **complement (C3/C4) falls with active SLE** and is the cheap companion test that is often forgotten.
-
-**Alt:** Complement; urinalysis and UPCR; specific organ assessment; skin or renal biopsy.
-
-## 0.2 ANCA Profile (ANCA, c-ANCA/PR3, p-ANCA/MPO)
-
-**D:** Anti-neutrophil cytoplasmic antibodies, now measured primarily by **antigen-specific immunoassay for PR3 and MPO**, with indirect immunofluorescence patterns (cANCA/pANCA) reported in some laboratories.
-
-**Ind:** Suspected small-vessel vasculitis — rapidly progressive glomerulonephritis, pulmonary haemorrhage, mononeuritis multiplex, chronic destructive upper airway disease, palpable purpura, unexplained multisystem illness.
-
-**Role:** Sensitive and specific for ANCA-associated vasculitis; sources note international consensus supports **primary use of the PR3/MPO immunoassays without categorically requiring immunofluorescence**.
-
-> [!danger] **This is an urgent request, not a routine one.** Pulmonary–renal syndrome needs same-day nephrology or rheumatology involvement, and **the referral is made on clinical grounds, not after the serology returns.** The fuller danger box is in `NEW_Investigations_Infectious_Diseases.md` 0.21, including the dual ANCA/anti-GBM phenotype.
-
-> [!warning] **A p-ANCA pattern on immunofluorescence is not specific to vasculitis** — it also occurs in inflammatory bowel disease, autoimmune hepatitis, primary sclerosing cholangitis and some infections, usually **without** MPO specificity. **Sources also note that ANA interferes with the pANCA pattern on immunofluorescence**, which is precisely why antigen-specific assays are preferred. **Also consider drug-induced ANCA vasculitis** — hydralazine, propylthiouracil, cocaine/levamisole.
-
-**Normal/abnormal:** A negative ANCA does not exclude vasculitis, particularly limited disease. Confirm with **biopsy** before committing to prolonged immunosuppression wherever feasible.
-
-**Alt:** Anti-GBM; urinalysis with microscopy for casts (**the fastest and cheapest test in this presentation**); renal or other tissue biopsy; imaging.
-
-## 0.3 Anti-CCP (Anti-Cyclic Citrullinated Peptide Antibodies)
-
-**D:** Antibody to citrullinated peptides — the most specific serological marker for rheumatoid arthritis.
-
-**Ind:** Suspected inflammatory polyarthritis; **early undifferentiated arthritis**, where the question is whether this will become RA; prognostication in established RA.
-
-**Role:** **The preferred serological test for RA**, used with rheumatoid factor.
-
-> [!info] **Performance, and why it beats rheumatoid factor** (sources broadly agree, with a range across studies)
-> - **Anti-CCP: sensitivity around 74–80%, specificity around 94–98%.**
-> - **Rheumatoid factor: sensitivity around 70%, specificity around 81%** — RF is the less specific of the pair, and is positive in **Sjögren syndrome, chronic infection (hepatitis C, endocarditis, TB), other connective tissue disease, and in healthy older people**, which is why a positive RF alone is weak evidence.
-> - **Anti-CCP can be positive years before clinical arthritis appears**, and its presence predicts progression from undifferentiated arthritis to RA.
-
-> [!warning] **Both can be negative in genuine RA — "seronegative RA" is real** and is diagnosed clinically and radiologically. **A negative anti-CCP in a patient with persistent synovitis does not permit discharge**; refer.
-
-> [!danger] **Do not ignore**
-> **Persistent synovitis of more than about six weeks in small joints with early morning stiffness** — early referral matters because **the window for preventing erosive damage is measured in months**, and outcomes are determined by time to disease-modifying therapy, not by the serology. See [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]].
-
-**Normal/abnormal:** Positive anti-CCP with clinical synovitis strongly supports RA and predicts **more erosive, more extra-articular disease** — a prognostic as well as diagnostic marker.
-
-**Alt:** Rheumatoid factor; CRP/ESR; **ultrasound or MRI for subclinical synovitis and early erosions** (more sensitive than plain films); X-rays of hands and feet as a baseline.
-
-## 0.4 Anti-Centromere Antibodies
-
-**D:** ANA subtype producing a discrete speckled centromere pattern.
-
-**Ind:** Raynaud phenomenon with any sclerodermatous feature; suspected **limited cutaneous systemic sclerosis (CREST)**; nailfold capillary abnormality.
-
-**Role:** Diagnostic and **prognostic** — it separates the two systemic sclerosis phenotypes, which have different organ risks and different surveillance.
-
-> [!info] **The phenotype split that matters**
-> - **Anti-centromere → limited cutaneous systemic sclerosis (CREST)** — **C**alcinosis, **R**aynaud, o**E**sophageal dysmotility, **S**clerodactyly, **T**elangiectasia. The dominant late risk is **pulmonary arterial hypertension**.
-> - **Anti-Scl-70 (topoisomerase I) → diffuse cutaneous systemic sclerosis** — the dominant risks are **interstitial lung disease and scleroderma renal crisis**.
-> - **Anti-RNA polymerase III** → diffuse disease with the highest **renal crisis** risk and an association with malignancy.
->
-> **These antibodies are mutually exclusive in most patients**, so the one that is positive defines the surveillance programme.
-
-> [!danger] **Do not ignore**
-> **New or worsening hypertension with acute kidney injury in systemic sclerosis** — **scleroderma renal crisis**, a hypertensive emergency treated with ACE inhibitors (the one setting where ACE inhibitors are the specific treatment for an acute renal crisis). **Anti-centromere-positive patients need lifelong PAH surveillance** — breathlessness on exertion is not to be attributed to deconditioning.
-
-**Normal/abnormal:** A positive result in a patient with Raynaud phenomenon substantially raises the probability of progression to a defined connective tissue disease and warrants rheumatology referral even if there is little skin change.
-
-**Alt:** Full ENA panel; **nailfold capillaroscopy** (cheap and highly informative in Raynaud); echocardiography and pulmonary function tests with DLCO for surveillance; high-resolution CT chest. See [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]].
-
-## 0.5 Myositis Profile (Anti-Jo-1, Anti-Mi-2, Anti-SRP, Anti-MDA5)
-
-**D:** Panel of myositis-specific and myositis-associated antibodies.
-
-**Ind:** Proximal muscle weakness with raised CK; suspected dermatomyositis or polymyositis; **interstitial lung disease of unknown cause** — a frequent and under-recognised indication.
-
-**Role:** These antibodies **define clinical syndromes**, which is more useful than the diagnostic label alone.
-
-> [!info] **Antibody–syndrome associations**
-> - **Anti-Jo-1 and the other antisynthetases** → **antisynthetase syndrome**: myositis, **interstitial lung disease**, mechanic's hands, Raynaud, fever and arthritis. The ILD, not the muscle disease, usually determines outcome.
-> - **Anti-Mi-2** → classic dermatomyositis with prominent rash and relatively good treatment response.
-> - **Anti-SRP** → **immune-mediated necrotising myopathy** — severe weakness, very high CK, often treatment-resistant. (Also consider **statin-associated** necrotising myopathy, with anti-HMGCR.)
-> - **Anti-MDA5** → **rapidly progressive interstitial lung disease with little or no muscle involvement** and characteristic skin ulceration; a high-mortality phenotype where delay is dangerous.
-
-> [!danger] **Do not ignore**
-> **Dermatomyositis in an adult is a paraneoplastic marker** — it carries an increased risk of underlying malignancy, and age- and sex-appropriate cancer screening is part of the work-up, not an afterthought.
-> **Breathlessness in any myositis patient** — get pulmonary function tests and a high-resolution CT; ILD can progress while attention is on the muscles.
-> **Bulbar or respiratory muscle involvement** — assess swallow and **forced vital capacity**, not oxygen saturation, which is a late marker.
-
-**Normal/abnormal:** A negative panel does not exclude inflammatory myopathy. Interpret with CK, EMG, imaging and biopsy.
-
-**Alt:** CK (0.6); **MRI of muscle** to identify oedema and guide the biopsy site; EMG; **muscle biopsy** (0.9); malignancy screening.
-
-## 0.6 Creatine Kinase (Serum CK)
-
-**D:** Enzyme released from damaged muscle; the CK-MM isoform predominates in skeletal muscle.
-
-**Ind:** Proximal weakness or myalgia; suspected inflammatory myopathy; **suspected rhabdomyolysis** (crush injury, prolonged immobility, seizures, extreme exertion, hyperthermia, neuroleptic malignant syndrome, prolonged restraint); statin-related muscle symptoms; unexplained AKI with dark urine.
-
-**Role:** Sensitive marker of muscle injury but **entirely non-specific as to cause**.
-
-> [!danger] **Do not ignore**
-> **A markedly raised CK with AKI, hyperkalaemia, hypocalcaemia and dark urine** — **rhabdomyolysis**; the killers are **hyperkalaemia and acute kidney injury**, and the treatment is aggressive fluid resuscitation and potassium management. **Numeric CK thresholds for diagnosing rhabdomyolysis or for stopping a statin are deliberately omitted** — they differ between guidelines and did not meet the three-source bar.
-> **Raised CK with rigidity and hyperthermia on antipsychotics** — neuroleptic malignant syndrome. **With serotonergic drugs and clonus** — serotonin syndrome.
-
-> [!warning] **Common causes of a raised CK that are not myopathy** — recent **exercise** (especially eccentric or unaccustomed; can raise CK for days), **intramuscular injection**, trauma, seizure, **needle EMG** (so take the CK *before* the EMG), hypothyroidism, alcohol, and normal higher baseline values in people of African ancestry and in muscular individuals. **Repeat after rest before investigating an isolated modest elevation.**
-
-**Normal/abnormal:** Reference intervals are laboratory-, sex- and ancestry-dependent and are **not stated here**. Interpret the **trend** in rhabdomyolysis — a falling CK with improving renal function is the reassuring pattern.
-
-**Alt:** Urine dipstick (**blood-positive, red-cell-negative** in myoglobinuria — see `NEW_Investigations_Renal_and_Urology.md` 0.4); UEC, potassium, calcium, phosphate; LDH and aldolase; TFTs; myositis serology; MRI muscle; biopsy.
-
-## 0.7 HLA-B27 Test
-
-**D:** Genotyping for the HLA-B27 allele.
-
-**Ind:** Suspected **axial spondyloarthritis** where the diagnosis is uncertain after clinical assessment and imaging — inflammatory back pain, alternating buttock pain, enthesitis, dactylitis, acute anterior uveitis, or spondyloarthritis with IBD or psoriasis.
-
-**Role:** **Adjunctive only, and it is very easy to misuse.**
-
-> [!danger] **This test cannot rule in or rule out the disease, and the numbers explain why.** Sources agree that **80–90% of people with ankylosing spondylitis are HLA-B27 positive, but so are roughly 5–10% of the general population** (with marked variation by ethnicity — reported from well under 1% to around 7% in different populations). Critically, **only about 5–6% of HLA-B27-positive people ever develop ankylosing spondylitis.**
-> **Therefore: a positive result in someone with mechanical back pain means almost nothing**, and generates anxiety and unnecessary referral. **Order it only when the pre-test probability is already meaningful** — inflammatory back pain features present — and interpret it as one weighted item among several, not as a verdict.
-
-> [!info] **Inflammatory back pain features that should be present before ordering** — onset **under 40**, insidious onset, **improvement with exercise but not with rest**, night pain waking the patient in the second half of the night, and **morning stiffness over about 30 minutes**. This is the reverse of the mechanical pattern.
-
-**Normal/abnormal:** Interpret with imaging. **X-rays of the sacroiliac joints are often normal early** — **MRI showing sacroiliac bone marrow oedema** is what detects non-radiographic axial spondyloarthritis.
-
-**Alt:** MRI sacroiliac joints; CRP/ESR; plain pelvic X-ray; assessment for extra-articular features (uveitis, psoriasis, IBD). See [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]].
-
-## 0.8 Synovial Fluid Analysis (Arthrocentesis Fluid Analysis)
-
-**D:** Aspiration of joint fluid for **cell count and differential, Gram stain, culture, and polarised light microscopy for crystals**; appearance and viscosity are also recorded.
-
-**Ind:** **Any acute monoarthritis** — the presentation where this test is mandatory; suspected septic arthritis; suspected crystal arthropathy; unexplained joint effusion.
-
-**Role:** **The definitive test in acute monoarthritis**, and the only one that separates infection from crystal disease at the bedside.
-
-> [!danger] **A hot, swollen, painful joint is septic arthritis until the aspirate says otherwise. Aspirate before antibiotics wherever it can be done promptly.**
-> Sources report that in native joint septic arthritis the synovial white cell count is **usually above about 50,000/mm³** with neutrophil predominance — **but antibiotics given before aspiration lower the cell count, the neutrophil percentage and the culture yield**, and studies show a substantially lower optimal cut-off in pre-treated patients. **Pre-treatment does not merely reduce yield; it moves the diagnostic threshold in a way that cannot be corrected for afterwards.**
-> **The presence of crystals does not exclude coexisting infection** — gout and sepsis can occur in the same joint. **A substantial proportion of patients with septic arthritis are afebrile**, so normal observations are not reassurance.
-
-> [!warning] **Do not aspirate through overlying cellulitis** (risk of seeding the joint), and **do not aspirate a prosthetic joint outside the orthopaedic team** — prosthetic joint infection has its own pathway and sampling requirements.
-
-**Normal/abnormal:** Clear, viscous, low cell count fluid suggests a non-inflammatory (e.g. osteoarthritic) effusion. Turbid fluid with a high neutrophil count suggests infection or crystal disease. **Negatively birefringent needle-shaped crystals → gout (urate); positively birefringent rhomboid crystals → pseudogout (calcium pyrophosphate).** Frank blood suggests haemarthrosis — trauma, anticoagulation, or a bleeding disorder; **fat globules suggest an intra-articular fracture.**
-
-**Alt:** Blood cultures (at least two sets); CRP, ESR, FBC; **urate** — with the caveat that it is often **normal during an acute gout attack** and a raised level neither diagnoses gout nor excludes sepsis; plain X-ray; ultrasound to confirm an effusion and guide aspiration; MRI for osteomyelitis.
-
-## 0.9 Muscle Biopsy
-
-**D:** Sampling of skeletal muscle for histology, immunohistochemistry, enzyme histochemistry and, where indicated, electron microscopy and genetic studies.
-
-**Ind:** Suspected inflammatory myopathy where serology and imaging are not conclusive; suspected metabolic, mitochondrial or dystrophic muscle disease; unexplained persistent CK elevation with weakness; suspected vasculitis affecting muscle.
-
-**Role:** **Histological gold standard** for inflammatory and structural myopathy.
-
-> [!warning] **Site selection determines whether the test works.** Sample an **affected but not end-stage** muscle — a severely wasted, fatty-replaced muscle yields non-diagnostic tissue. **MRI is used to pick the site.** **Avoid a muscle recently studied by needle EMG**, because needle trauma produces inflammatory artefact that mimics myositis — take the biopsy from the contralateral side.
-
-**Safety/cost:** Minor procedure under local anaesthetic (open) or needle; bleeding, infection, scarring, and sampling error. Specialised handling — **fresh, correctly oriented and snap-frozen tissue** is required for enzyme histochemistry, so it must be arranged with the laboratory in advance rather than sent in formalin.
-
-**Normal/abnormal:** Reported as inflammatory infiltrate and its distribution (perimysial/perivascular in dermatomyositis, endomysial with invasion of non-necrotic fibres in polymyositis and inclusion body myositis), necrosis with sparse inflammation (necrotising myopathy), fibre-type changes, dystrophic features, or storage material. **A normal biopsy does not exclude myopathy** — patchy disease and sampling error occur.
-
-**Alt:** MRI muscle; EMG and nerve conduction studies; myositis serology (0.5); CK (0.6); genetic testing, which increasingly replaces biopsy for inherited myopathies.
-
-## 0.10 Temporal Artery Biopsy (TAB)
-
-**D:** Surgical excision of a segment of superficial temporal artery for histology, looking for granulomatous inflammation with giant cells and intimal hyperplasia.
-
-**Ind:** Suspected **giant cell arteritis** — new headache over 50, scalp tenderness, **jaw claudication**, visual symptoms, polymyalgic symptoms, systemic features with markedly raised inflammatory markers.
-
-**Role:** Traditional gold standard, though **ultrasound is increasingly used first** in many centres.
-
-> [!danger] **Treatment comes first. Do not delay corticosteroids to obtain the biopsy — the fellow eye can be lost within days.** Sources address the practical tension directly: to limit false negatives, **biopsy is recommended within about 1 week of starting corticosteroids**, and reported positive yields after starting treatment vary very widely across the literature (from around 10% at one week to as high as 86% after four or more weeks in some series). **The variation itself is the message — arrange the biopsy urgently, but never before the first steroid dose.**
-
-> [!warning] **Why a negative biopsy does not exclude GCA — and how to reduce that risk**
-> GCA is a **segmental** vasculitis with **skip lesions**, so an inflamed artery can yield a normal-looking segment. Sources support an adequate specimen length — **at least about 15 mm post-fixation (roughly 15–20 mm pre-fixation)** — and note that even so, the median positive yield in one series was around **25%**. **Multiple histological cross-sections** are examined for the same reason.
-> **Inflammatory markers can be normal in biopsy-proven GCA**, so a normal ESR/CRP is also not exclusion.
-
-**Safety/cost:** Minor surgical procedure under local anaesthetic; bleeding, infection, scarring, transient nerve injury. Requires theatre access, which is often the rate-limiting step.
-
-**Normal/abnormal:** Positive confirms the diagnosis and supports prolonged corticosteroid therapy. **Negative in a convincing clinical picture does not overturn a clinical diagnosis** — GCA remains a clinical diagnosis and treatment continues.
-
-**Alt:** **Temporal artery ultrasound** looking for the **halo sign** — sources describe the halo as **circumferential, visible in at least two planes and more than about 0.3 mm thick**, and note that **the halo resolves in essentially all patients after two to four weeks of corticosteroid treatment**, so ultrasound must also be done early. Also **large-vessel imaging** (CT/MR angiography, PET-CT) for extracranial large-vessel GCA, plus ESR, CRP and FBC. See the Acute Visual Loss entry in `NEW_Ophthalmology.md`.
-
-## 0.11 Allergy Skin Testing (Skin Prick Test — SPT)
-
-**D:** Introduction of standardised allergen extracts into the epidermis with a lancet, alongside a **positive (histamine) and negative (diluent) control**, read after a set interval.
-
-**Ind:** Suspected **IgE-mediated** allergy — allergic rhinoconjunctivitis, food allergy, drug allergy, venom allergy, and to guide immunotherapy. **It tests sensitisation, not clinical allergy** — the distinction that governs everything below.
-
-**Role:** First-line for IgE-mediated allergy, with serum specific IgE as the alternative.
-
-> [!info] **Technique and interpretation** (source-supported)
-> Results are read at **15–20 minutes**, and a **wheal of ≥3 mm diameter** (relative to the negative control) is the conventional positive threshold. **The controls are not optional** — a negative histamine control means the test is uninterpretable, usually because of antihistamines.
-
-> [!danger] **Medication interference, and the practical rule**
-> **Antihistamines must be stopped before testing.** Sources report that patients who stopped H1-antihistamines **3 days** before testing all had positive histamine controls, and that **second-generation antihistamines may not require the full 7 days** often quoted. **Tricyclic antidepressants and some antipsychotics also suppress the wheal** and have long half-lives. **Topical corticosteroids at the test site** suppress reactivity; systemic corticosteroids at usual doses generally do not.
-> **Beta-blockers are the safety issue rather than an interference issue** — they can make anaphylaxis harder to treat, so testing is done where resuscitation facilities are available and beta-blockade is considered in advance.
-
-> [!warning] **A positive result is not a diagnosis.** Sensitisation is common in people with no clinical reaction, so **the result must be interpreted against a convincing history of reaction to that allergen**. Testing a broad panel without a history generates false positives and leads to unnecessary food avoidance — which in children carries real nutritional and quality-of-life harm, and can itself increase the risk of developing true allergy.
-
-**Safety/cost:** Cheap, quick, and generally safe, but **systemic reactions including anaphylaxis can occur**, so it is performed where adrenaline and resuscitation are immediately available. **Not performed on extensively eczematous or dermographic skin**, where it cannot be read.
-
-**Normal/abnormal:** Negative with a good history → consider serum specific IgE, a different mechanism (non-IgE), or challenge testing. Positive with a matching history → allergen avoidance, action plan, and consideration of immunotherapy.
-
-**Alt:** **Serum allergen-specific IgE** (unaffected by antihistamines and usable in severe eczema, but less sensitive and slower); **component-resolved diagnostics**; **oral food challenge — the true gold standard** for food allergy; intradermal and patch testing for specific indications (patch testing is for **delayed, type IV** contact allergy and answers a different question entirely).
-
----
-
-## Build status of this file
-
-| Measure | Value |
-|---|---|
-| Category | Investigations — Rheumatology and Immunology |
-| No-header items in category | 11 |
-| **Built** | **11** |
-| Dropped as `[CUT]` | 0 |
-| Searches used | 2 (plus sourcing carried from the infectious-diseases and presentations builds) |
-
-**Numerics carried on source agreement:** anti-CCP sensitivity ~74–80% and specificity ~94–98% against RF ~70%/~81% · HLA-B27 in 80–90% of AS but 5–10% of the general population, with only ~5–6% of carriers developing AS · synovial white cell count usually >50,000/mm³ in native joint septic arthritis, with the pre-antibiotic threshold shift · temporal artery biopsy ≥15 mm post-fixation, biopsy within ~1 week of starting steroids, median positive yield ~25% · ultrasound halo circumferential, ≥2 planes, >0.3 mm, resolving after 2–4 weeks of steroids · skin prick wheal ≥3 mm read at 15–20 minutes, antihistamines stopped ~3 days.
-
-**Omissions under the sourcing standard, each stated in place:** CK reference intervals and the numeric thresholds for diagnosing rhabdomyolysis or stopping a statin · all autoantibody titre cut-offs · corticosteroid doses in GCA.
-
-**Deliberate non-duplication:** the general approach to ANA and to an unexpected positive autoantibody is in `NEW_Investigations_Infectious_Diseases.md` 0.19–0.21 and is referenced rather than restated, since the build list carries those rows under Infectious Diseases.
-
-
-<!-- ===== SOURCE: NEW_Orthopaedics_and_Trauma.md ===== -->
-
-
-# NEW — Orthopaedics & Trauma
-
-> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **This file contains all Tier 1 and Tier 2 Orthopaedics & Trauma topics.** The category has 2 T1, 2 T2, 51 T3 and 2 CUT topics. T3 not yet built. See the build-status table at the end.
-
-## Acute Back Pain
-
-- **D:** back pain of recent onset. **The overwhelming majority is benign, self-limiting mechanical back pain — and the entire clinical value of the assessment lies in identifying the small minority that is not.** The structure of this entry follows that logic: screen for the serious causes, and if absent, avoid over-investigating.
-- **DDx:**
-  - **The serious causes to screen for:**
-    - **Cauda equina syndrome** — a surgical emergency.
-    - **Malignancy** — metastatic disease (breast, prostate, lung, kidney, thyroid, myeloma), or primary bone tumour.
-    - **Infection** — vertebral osteomyelitis, discitis, **spinal epidural abscess** (particularly in intravenous drug use, diabetes, immunosuppression, recent spinal procedure or bacteraemia).
-    - **Fracture** — osteoporotic vertebral compression fracture (may follow trivial or no trauma in an older or steroid-treated patient), traumatic fracture.
-    - **Inflammatory back pain** — axial spondyloarthritis; suggested by **age of onset under 40, insidious onset, morning stiffness over 30 minutes, improvement with exercise and not with rest, and night pain waking the patient in the second half of the night** — the reverse of the mechanical pattern.
-  - **Referred and non-spinal causes that present as back pain and are missed:** **ruptured or expanding abdominal aortic aneurysm** (older patient, sudden severe back or flank pain, consider before diagnosing "renal colic"), **aortic dissection**, pancreatitis, peptic ulcer, pyelonephritis, renal colic, biliary disease, retroperitoneal haemorrhage, pelvic and gynaecological pathology, herpes zoster before the rash.
-  - **Mechanical/benign:** lumbar strain, degenerative disc and facet joint disease, **lumbar disc herniation with radiculopathy (sciatica)**, spondylolisthesis, lumbar spinal stenosis.
-- **Focused Hx:** onset and mechanism, including whether trauma was proportionate to the injury; site, radiation and whether pain follows a dermatomal pattern below the knee; **night pain and rest pain**; morning stiffness and its duration; **the cauda equina questions, asked explicitly of every patient and documented — urinary retention or difficulty initiating, urinary or faecal incontinence, saddle or perineal numbness, sexual dysfunction, and bilateral leg symptoms**; **red-flag history: age over 50 or under 20 at first onset, known malignancy, unexplained weight loss, fever or night sweats, immunosuppression, corticosteroid use, osteoporosis, intravenous drug use, recent spinal procedure or bacteraemia, significant trauma, and progressive neurological deficit**; anticoagulation; previous episodes and response; and the **psychosocial and occupational context**, which predicts chronicity more strongly than imaging does.
-- **Examination:** gait and posture; **inspection for deformity and for a dermatomal vesicular rash**; **palpation for focal bony tenderness over spinous processes** (raising fracture, infection or metastasis) versus diffuse paraspinal muscular tenderness; range of movement; **straight leg raise and femoral stretch test**; **full lower limb neurological examination — power by myotome, sensation by dermatome, reflexes and plantar responses**, comparing sides; **assessment of perianal sensation and anal tone where any cauda equina feature is present** — this examination is not optional if the history raises it, and its omission is a recurring medicolegal finding; **post-void bladder scan** where retention is possible; **abdominal examination including palpation for an expansile mass and assessment of femoral pulses**; temperature; breast, chest, prostate and lymph node examination where malignancy is a consideration.
-- **First-line Ix:** **in the absence of red flags, no imaging** — early imaging in uncomplicated acute back pain does not improve outcomes and generates incidental findings that drive unnecessary intervention. This is one of the clearest examples of appropriate non-investigation in the whole curriculum. Where red flags are present:
-  - **Urgent MRI of the whole spine** for suspected cauda equina syndrome, epidural abscess, or cord compression — **MRI is the definitive test**, and for cauda equina it is arranged as an emergency, not as an outpatient request.
-  - **FBC, CRP and ESR** — inflammatory markers are the most useful screen for infection and inflammatory disease; **blood cultures** if infection is suspected.
-  - **UEC, calcium, LFTs including ALP**, and **serum and urine protein electrophoresis with free light chains** where myeloma is a consideration.
-  - **PSA** in an older man with suspected metastatic disease.
-  - **Plain X-ray** where fracture is suspected — with the limitation that it can be normal early and does not exclude infection or malignancy.
-  - **CT or CT angiography of the abdomen** where aneurysm or dissection is a possibility.
-  - **Post-void residual volume** measured and recorded.
-
-> [!danger] **Cauda equina syndrome — the red flags, and why they must be asked rather than waited for.** Suspect it with acute back pain plus any of: **new urinary retention or overflow incontinence**, **faecal incontinence or loss of anal tone**, **saddle or perineal sensory loss**, **sexual dysfunction of new onset**, or **bilateral sciatica or progressive bilateral leg weakness**. Multiple sources agree that **earlier decompression gives better recovery of motor, sensory, bladder and bowel function** — so this is an immediate referral for urgent MRI and surgical assessment, not an overnight wait. *(Sources quote differing specific time targets for surgery, so no single figure is stated here; the operative principle is that delay costs function.)*
-> **Painless urinary retention is not reassuring — it is the classic late presentation**, and by then the recovery of bladder function is substantially worse. Ask about it in every patient with acute back pain, and record the answer.
-
-## Acute Limb Pain
-
-- **D:** pain in an arm or leg of recent onset. The organising principle is that **several of the causes are limb- or life-threatening and time-critical**, and each has a specific tell that separates it from ordinary musculoskeletal pain.
-- **DDx — the time-critical group first:**
-  - **Acute limb ischaemia** — sudden arterial occlusion by embolus or thrombosis. The classic **"6 Ps": pain, pallor, pulselessness, paraesthesia, paralysis and perishing cold (poikilothermia)**. They are rarely all present at once, and **paraesthesia and paralysis are the ominous pair** — they mark threatened, not merely symptomatic, ischaemia and demand immediate vascular referral.
-  - **Acute compartment syndrome** — raised pressure within a fascial compartment compromising perfusion. Classically after fracture, crush injury, reperfusion, tight casts or bandages, burns, or a prolonged period lying on the limb; also in anticoagulated patients after minor injury. **The cardinal feature is pain out of proportion to the injury, and pain on passive stretch of the muscles in the affected compartment**. **Pulses are typically present — their presence does not exclude it**, which is the single most dangerous misconception about this diagnosis.
-  - **Necrotising fasciitis** — pain grossly out of proportion to skin appearances, rapid progression, systemic toxicity, skin anaesthesia, crepitus or bullae developing later.
-  - **Septic arthritis** — a hot, swollen, exquisitely painful joint with markedly restricted movement, in a systemically unwell patient.
-  - **Deep vein thrombosis** and **massive iliofemoral thrombosis (phlegmasia)**.
-  - **Fracture and dislocation**, including **fragility fracture in an older person after minimal trauma** and **occult neck of femur fracture**.
-- **The rest of the differential:** cellulitis, gout and pseudogout, ruptured Baker's cyst, muscle tear or haematoma (particularly on anticoagulants), tendon rupture, radiculopathy and nerve root compression, peripheral neuropathy, **complex regional pain syndrome** (disproportionate pain with autonomic and trophic change after an injury), osteomyelitis, bone metastasis or primary bone tumour, sickle cell vaso-occlusive crisis, and referred pain — **cardiac ischaemia presenting as arm pain** being the one not to overlook.
-- **Focused Hx:** onset — **sudden and severe suggests vascular or fracture; progressive over hours suggests compartment syndrome or infection**; trauma and its mechanism, and whether the pain is proportionate to it; **analgesia requirement and whether it is escalating despite treatment** — an escalating opioid requirement in a limb after injury is a compartment syndrome warning sign in itself; sensory change and weakness; fever and systemic upset; **cardiac history and atrial fibrillation** (embolic source); claudication or previous vascular disease and intervention; recent immobility, surgery, malignancy, previous VTE, hormonal therapy or long-haul travel; anticoagulation; intravenous drug use; recent cast, splint or tight dressing; diabetes and immunosuppression; joint disease and gout.
-- **Examination:** **compare with the other limb throughout.** Inspect for colour, swelling, deformity, wounds, blistering, bruising and skin changes; **palpate temperature and all distal pulses, and use a hand-held Doppler if pulses are not palpable**; capillary refill; **assess compartments for tenderness and tension, and specifically test pain on passive stretch**; full neurological examination of the limb — sensation, power and, importantly, **serial reassessment, since compartment syndrome is a diagnosis made over time**; joint examination for effusion, warmth and range of movement; measure and mark any area of erythema; check for crepitus; **vital signs and a full septic screen**; examine the abdomen and cardiovascular system for an embolic source or aneurysm.
-- **First-line Ix:** **the diagnosis of both acute limb ischaemia and compartment syndrome is clinical, and neither should wait for imaging.** Alongside urgent senior referral:
-  - **Bloods:** FBC, CRP, UEC, **creatine kinase** (rhabdomyolysis in compartment syndrome and prolonged ischaemia), **coagulation profile**, group and hold, lactate, **urate** if gout is possible, blood cultures if febrile.
-  - **Urinalysis for myoglobin** where rhabdomyolysis is suspected.
-  - **ECG** — for atrial fibrillation as an embolic source, and for a cardiac cause of arm pain.
-  - **Arterial duplex ultrasound or CT angiography** for suspected acute limb ischaemia, **arranged without delaying vascular referral**.
-  - **Venous duplex ultrasound** for suspected DVT within a validated pretest-probability pathway.
-  - **Plain X-ray** for suspected fracture; **MRI** where an occult hip fracture is suspected and X-rays are normal, since a normal X-ray does not exclude it.
-  - **Joint aspiration before antibiotics** where septic arthritis is suspected — for cell count, Gram stain, culture and crystals.
-  - **Compartment pressure measurement** where the diagnosis is clinically uncertain, particularly in an obtunded or anaesthetised patient who cannot report pain. Sources agree the commonly used thresholds are **an absolute compartment pressure above roughly 30 mmHg**, or **a delta pressure (diastolic BP minus compartment pressure) of less than about 30 mmHg**; the delta measure is generally preferred because it accounts for perfusion pressure. **In a conscious patient with a convincing clinical picture, a normal pressure reading does not override the clinical diagnosis, and measurement must not delay fasciotomy.**
-
-> [!danger] **Both time-critical diagnoses here are made worse by waiting for a test.** For **compartment syndrome**, sources agree that **fasciotomy performed early gives near-complete functional recovery, and that delay beyond several hours risks irreversible nerve and muscle damage** — the specific hour figures vary between sources and are not fixed here, but the direction is unambiguous. For **acute limb ischaemia**, the presence of **paraesthesia or paralysis** marks a threatened limb requiring immediate vascular surgical involvement. In both, **the correct intern action is escalation, serial reassessment and documentation of the neurovascular status at each check** — not ordering an investigation and waiting for it.
-
-## Acute Neck Pain
-
-- **DDx:**
-  - **Serious causes to exclude:** **cervical fracture or ligamentous instability** after trauma; **cervical myelopathy or cord compression** (from disc, tumour, abscess or trauma) — indicated by **limb weakness, gait disturbance, clumsy hands, bladder or bowel involvement, and upper motor neurone signs in the legs**; **epidural abscess** and **vertebral osteomyelitis/discitis** (fever, immunosuppression, IV drug use, recent bacteraemia or procedure); **malignancy** with vertebral metastases; **meningitis** and **subarachnoid haemorrhage** (neck stiffness with headache and fever or thunderclap onset — the neck pain is a symptom of the intracranial problem, not a mechanical one); **vertebral or carotid artery dissection** (neck pain with headache, Horner's syndrome, or neurological deficit — commoner in younger patients and after minor trauma or neck manipulation); **inflammatory arthritis with atlanto-axial instability**, particularly in **long-standing rheumatoid arthritis**, which is a critical anaesthetic and manual-handling consideration.
-  - **Common and mechanical:** cervical strain, degenerative facet and disc disease, **cervical radiculopathy** (dermatomal arm pain, often worse with neck extension and rotation toward the side of pain), acute torticollis, whiplash-associated disorder, myofascial pain, poor posture and occupational strain.
-  - **Referred:** cardiac ischaemia, pharyngeal or dental infection, apical lung pathology (**Pancoast tumour**, with shoulder and arm pain, Horner's syndrome and hand wasting), thyroiditis, diaphragmatic irritation.
-- **Focused Hx:** mechanism and severity of any trauma; **age, and whether there is a dangerous mechanism** — both feed into the validated cervical spine imaging decision rules used in Australian emergency departments; **midline neck pain versus paraspinal**; **arm pain, numbness, weakness, and its distribution**; **the myelopathy questions — buttons and coins, handwriting deterioration, unsteady gait, urinary urgency or retention**; **fever, night sweats, weight loss, known malignancy, immunosuppression, IV drug use**; headache and its onset; **rheumatoid arthritis and its duration**; anticoagulation; recent neck manipulation; occupation.
-- **Examination:** **if trauma is possible, immobilise and clear the cervical spine using a validated decision rule before moving the neck.** Otherwise: inspect posture and deformity; **palpate for midline bony tenderness (bone) versus paraspinal muscular tenderness**; range of movement; **full upper and lower limb neurological examination — power, reflexes, sensation, tone and plantar responses**, since **hyperreflexia and upgoing plantars in the legs with neck pain means myelopathy until proven otherwise**; **gait and Romberg's**; **Hoffmann's sign**; **Spurling's test** for radiculopathy; **neck stiffness and Kernig's sign** where meningitis is possible; **Horner's syndrome**; temperature; lymph nodes and thyroid; and cardiorespiratory examination for referred causes.
-- **First-line Ix:** **none for uncomplicated mechanical neck pain.** Where red flags exist: **CT cervical spine** for suspected fracture (**a validated decision rule should drive this, not reflex imaging**); **urgent MRI cervical spine** for suspected myelopathy, cord compression, abscess or malignancy — **MRI is the test, and CT does not exclude these**; **FBC, CRP, ESR, blood cultures** for suspected infection; **CT or MR angiography of the neck vessels** for suspected dissection; **CT brain** for suspected subarachnoid haemorrhage; **calcium, ALP, myeloma screen and PSA** where malignancy is suspected; **flexion–extension views or CT** where atlanto-axial instability is a concern in rheumatoid disease — **and flag this to the anaesthetic team before any airway manipulation.**
-
-## Acute Soft Tissue Swelling
-
-- **DDx:**
-  - **Infective — the time-critical group:** **necrotising fasciitis** (**pain out of proportion, rapid progression, systemic toxicity, skin anaesthesia, crepitus, bullae or dusky skin** — a surgical emergency where delay to debridement drives mortality), **cellulitis and abscess**, **septic arthritis** or bursitis, **osteomyelitis**, **Ludwig's angina** and other deep space infections when in the neck.
-  - **Vascular:** **deep vein thrombosis**, superficial thrombophlebitis, haematoma (especially **on anticoagulants, and spontaneously in a patient with a bleeding disorder**), **acute limb ischaemia with reperfusion swelling**, ruptured Baker's cyst (mimics DVT closely), lymphoedema, venous insufficiency.
-  - **Traumatic:** contusion, muscle tear, fracture, **compartment syndrome**, tendon rupture, joint effusion or haemarthrosis.
-  - **Inflammatory and other:** **gout and pseudogout** (which reliably mimic infection — hot, red, exquisitely tender), reactive or inflammatory arthritis, **angioedema** (including **ACE inhibitor–induced, which can occur years after starting the drug**, and hereditary angioedema — both of which threaten the airway when facial or oral), allergic reaction, **anaphylaxis**, insect or snake bite envenomation, drug reaction, malignancy including soft tissue sarcoma, and **generalised oedema from cardiac, renal, hepatic or nutritional causes presenting as a swollen limb**.
-- **Focused Hx:** **speed of onset — over minutes suggests allergy, angioedema or bleeding; over hours suggests infection or DVT; over days to weeks suggests inflammatory, venous or neoplastic causes**; **pain and whether it is out of proportion to appearances**; fever and systemic upset; trauma; **anticoagulants and antiplatelets**; **ACE inhibitors and angiotensin receptor blockers, and NSAIDs** for angioedema; allergen, food, drug, sting or bite exposure; **VTE risk factors in full**; previous similar episodes; known gout; immunosuppression, diabetes and IV drug use; recent surgery, cannula or injection at the site; travel; and cardiac, renal and liver history.
-- **Examination:** **vital signs and a sepsis assessment first** — swelling with systemic illness is a different problem from swelling alone.
-  - **Mark the border of any erythema with a pen and note the time** — the practical intern action that lets the next reviewer see whether it is advancing.
-  - Assess **temperature, tenderness, fluctuance, crepitus, skin colour including dusky or mottled areas, blistering, and any area of anaesthesia within the swelling** — **anaesthetic skin over a painful swelling is a necrotising infection sign**.
-  - **Compare with the other side, and measure limb circumference at a marked level** for a suspected DVT.
-  - Assess **distal neurovascular status, compartments, and pain on passive stretch**.
-  - Examine the **joint** — effusion, range of movement, and whether the pain is truly articular.
-  - **Airway assessment and inspection of the lips, tongue and oropharynx** in any facial or neck swelling.
-  - Look for **generalised oedema, JVP elevation, ascites and pitting**, which reframe the problem as systemic.
-- **First-line Ix:** **FBC, CRP, UEC, LFTs, coagulation profile, creatine kinase, lactate, blood cultures if febrile**; **urate** (though a normal level during an acute gout attack is common and does not exclude it, and a raised level does not exclude septic arthritis); **glucose/HbA1c**; **venous duplex ultrasound** for suspected DVT within a pretest-probability pathway; **plain X-ray** for fracture, foreign body or gas in the tissues; **ultrasound** for abscess and fluid collections; **CT or MRI** where deep infection, necrotising fasciitis or malignancy is suspected — **but in necrotising fasciitis, imaging must not delay surgical review**; **joint aspiration before antibiotics** where septic arthritis is possible; **albumin, urinalysis with protein quantification, and echocardiography** where the swelling is generalised.
-
-> [!danger] **Necrotising fasciitis is a clinical diagnosis and the commonest reason it is missed is that the skin looks unremarkable early.** The triad to act on is **pain out of proportion to the appearance, rapid progression, and systemic toxicity**. Anaesthesia of the overlying skin, crepitus, dusky discolouration and bullae are later signs. **If it is suspected, the action is immediate surgical referral, not a scan and not a period of observation on antibiotics.**
-
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 2 | **Both built** — Acute Back Pain, Acute Limb Pain |
-| **T2** | 2 | **Both built** — Acute Neck Pain, Acute Soft Tissue Swelling |
-| T3 | 51 | Not built |
-| CUT | 2 | **Dropped per the tier tags** — Hill-Sachs lesion, Stener lesion |
-
-## Topics skipped in this category
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Ocular Trauma** (T3) | `## Ocular trauma` | `11_09b_Ortho_-_Trauma.md` | Exact |
-
-### Near-miss deliberately **built** rather than skipped
-
-| Topic | Header it partially matched | Why built anyway |
-|---|---|---|
-| **Acute Back Pain** (T1) | `### Back pain red flags → urgent MRI` (`11_01_Ortho_-_Orthopaedic_Emergencies`) | The existing header is a **red-flag list pointing to imaging**, not an approach to the presentation. The T1 build product is the full DDx/Hx/Ex/Ix. **The topic `Back Pain` (T3, unbuilt) matches the same header and is the one where the overlap will need reconciling** — flagged now rather than later. |
-
-
-<!-- ===== SOURCE: NEW_Rheumatology_and_Immunology.md ===== -->
-
-
-# NEW — Rheumatology & Immunology
+# NEW — Drug Classes: Rheumatological (AMH section 19)
 
 > [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
 
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
 
-> [!note] **This file contains the two Tier 2 topics.** The category has **no T1 topics**; 2 T2 and 16 T3. See the build-status table at the end.
-
-## Acute Joint Pain
-
-- **D:** joint pain of recent onset. **The single organising question is: how many joints, and is this one hot joint?** — because **acute monoarthritis is septic arthritis until proven otherwise**, and that is a joint-destroying emergency.
-- **DDx:**
-  - **Acute monoarthritis:** **septic arthritis** (the must-exclude), **gout** (classically first metatarsophalangeal joint — podagra — but any joint), **pseudogout/calcium pyrophosphate disease** (commonly knee and wrist, older patients), **haemarthrosis** (trauma, anticoagulation, haemophilia), trauma and internal derangement, **osteomyelitis** with sympathetic effusion, reactive arthritis, monoarticular presentation of an inflammatory arthritis, **Lyme arthritis** in a returned traveller, avascular necrosis, tumour.
-  - **Acute oligo/polyarthritis:** **viral arthritis** (**parvovirus B19, hepatitis B and C, EBV, and in Australia specifically the alphaviruses — Ross River and Barmah Forest virus**, which are a genuinely important local cause of acute polyarthralgia and are routinely forgotten), **reactive arthritis** (after gastrointestinal or genitourinary infection), **rheumatoid arthritis** and other inflammatory arthritides at first presentation, **psoriatic arthritis**, **acute rheumatic fever** (migratory polyarthritis — and in Australia, a specific consideration in Aboriginal and Torres Strait Islander patients from high-risk communities), **connective tissue disease** (SLE), **vasculitis**, **gonococcal arthritis** (a disseminated infection — migratory polyarthralgia, tenosynovitis and pustular skin lesions in a sexually active young person; **it is septic arthritis in a different clothing**), **inflammatory bowel disease-associated arthritis**, **serum sickness and drug reactions**, **crystal disease affecting several joints**.
-  - **Periarticular mimics — pain around rather than in the joint:** bursitis, tendinopathy, cellulitis, fracture, polymyalgia rheumatica, fibromyalgia.
-- **Focused Hx:** **number and distribution of joints, and whether it is symmetrical, migratory or additive**; onset speed; **fever, rigors and systemic illness**; **preceding gastrointestinal or genitourinary infection, and how long before**; **sexual history** (gonococcal and reactive arthritis); **mosquito exposure and location** (Ross River virus); **trauma or recent joint injection or surgery, or a prosthetic joint**; **IV drug use, immunosuppression, diabetes, and skin breaches** — the septic arthritis risk factors; previous gout and its triggers; **morning stiffness and its duration** (over about 30–60 minutes suggests inflammatory rather than mechanical); rash, eye symptoms, oral or genital ulcers, urethral discharge, diarrhoea, back pain; **anticoagulation** and bleeding history; family history of psoriasis or inflammatory arthritis; drug history including **diuretics** (gout) and recent antibiotics.
-- **Examination:** **vital signs and a septic screen first.** Then: **inspect each joint for swelling, erythema and deformity, and compare sides**; **palpate for effusion, warmth and tenderness — and distinguish the joint line from periarticular structures**; **active and passive range of movement** — in septic arthritis, **passive movement is exquisitely painful through a very small arc, and the patient holds the joint still**, whereas periarticular problems allow more passive movement; examine **all** joints including spine, and the **skin (psoriasis, pustules, erythema nodosum, tophi), nails (pitting, onycholysis), eyes (conjunctivitis, uveitis), and mucosae**; examine for **tenosynovitis** and **enthesitis**; check for lymphadenopathy and cardiac murmurs (endocarditis, rheumatic fever).
-- **First-line Ix:**
-  - **Joint aspiration is the definitive investigation in acute monoarthritis, and it should be performed before antibiotics wherever possible.** Send for **cell count and differential, Gram stain, culture, and polarised light microscopy for crystals**. **Do not aspirate through overlying cellulitis, and do not aspirate a prosthetic joint outside the orthopaedic team.**
-  - **The interpretation, with an important caveat.** Sources agree that in native joint septic arthritis the synovial white cell count is **usually above about 50,000/mm³ with a high neutrophil predominance**; but **antibiotics given before aspiration lower the cell count, the neutrophil percentage and the culture yield**, and studies show a substantially lower optimal cut-off in patients pre-treated with antibiotics. **This is the practical reason to aspirate first**: giving antibiotics before the tap does not just reduce culture yield, it moves the diagnostic threshold in a way that is hard to correct for. **The presence of crystals does not exclude coexisting infection.**
-  - **Bloods:** FBC, CRP, ESR, UEC, LFTs, **urate** (with the caveat that it is often **normal during an acute gout attack** and a raised level does not diagnose gout or exclude sepsis), **blood cultures — at least two sets**, coagulation profile.
-  - **Targeted serology and swabs:** **Ross River and Barmah Forest virus serology** in the right clinical and geographic context, parvovirus B19, hepatitis B and C, **NAAT for chlamydia and gonorrhoea including extragenital sites**, ASOT and anti-DNase B, **rheumatoid factor, anti-CCP and ANA** (arranged rather than urgent, and **not** used to rule sepsis in or out).
-  - **Imaging:** plain X-ray (baseline, chondrocalcinosis, erosions, fracture, osteomyelitis — often normal early); **ultrasound** to confirm an effusion and guide aspiration; **MRI** for osteomyelitis or where the joint cannot be assessed clinically.
-
-> [!danger] **The rule: a single hot, swollen, painful joint is septic arthritis until the aspirate says otherwise.** Aspirate before antibiotics wherever it can be done promptly; involve orthopaedics early, since treatment is washout as well as antimicrobials; and **do not be reassured by an absence of fever — a substantial proportion of patients with septic arthritis are afebrile — nor by a plausible alternative diagnosis such as gout, which can coexist with infection.** **Antibiotic choice is deliberately omitted**: it depends on local resistance and the suspected organism, and Australian guidance is egress-blocked.
-
-## Acute Joint Trauma
-
-- **D:** joint injury from a discrete mechanical event. **The tasks are: exclude fracture, exclude a joint-threatening injury (dislocation, neurovascular compromise, open joint, septic complication), and identify the specific soft-tissue structure injured — and the mechanism usually tells you which.**
-- **DDx by mechanism, which is the useful organiser:**
-  - **Knee:** twisting on a planted foot with immediate swelling → **anterior cruciate ligament rupture** (haemarthrosis within hours) or **meniscal tear** (slower effusion, locking, giving way); direct blow to the flexed knee → posterior cruciate; valgus force → medial collateral; **patellar dislocation** (usually lateral, often reduces spontaneously).
-  - **Ankle:** inversion → **lateral ligament sprain** (much the commonest), but consider **fracture** and, with more force, **syndesmotic (high ankle) injury** and **fifth metatarsal base fracture**.
-  - **Shoulder:** fall on an outstretched hand or forced abduction and external rotation → **anterior dislocation** (**always assess and document axillary nerve sensation over the regimental badge area before and after reduction**); seizure or electrocution → consider **posterior dislocation**, which is the one classically missed on a single AP film.
-  - **Elbow, wrist and hand:** fall on outstretched hand → distal radius fracture, scaphoid fracture (**anatomical snuffbox tenderness with normal X-rays still needs immobilisation and repeat imaging — a missed scaphoid fracture leads to avascular necrosis and non-union**), radial head fracture; **thumb forced into abduction** → ulnar collateral ligament injury of the thumb MCP joint.
-  - **Any joint:** **haemarthrosis**, **fracture-dislocation**, **open joint injury** (any wound near a joint — assume communication until proven otherwise), **neurovascular injury**, and later, **compartment syndrome** and **septic arthritis after penetrating injury**.
-- **Focused Hx:** **exact mechanism, including direction of force and position of the limb**; whether the patient heard or felt a **pop or crack**; **could they weight-bear immediately and can they now** (a component of validated decision rules); **speed of swelling** (**immediate swelling suggests haemarthrosis and a significant intra-articular injury; swelling over hours suggests effusion**); locking, catching or giving way; previous injury or instability of that joint; **hand dominance, occupation and sport**; anticoagulation; **and in an injury that does not fit the history, or in a child, an explicit consideration of non-accidental injury or intimate partner violence**.
-- **Examination:** **look, feel, move, and assess neurovascular status — before and after any intervention, and documented each time.**
-  - Inspect for deformity, swelling, bruising, wounds and skin tenting.
-  - **Palpate for the point of maximal bony tenderness** — this drives the imaging decision rules.
-  - Assess **active then passive range of movement**, and **compare with the other side**.
-  - **Specific stress tests** once the patient can tolerate them — and note that **acute pain and guarding make ligament testing unreliable in the first hours**, so a normal examination in a swollen painful joint does not exclude a ligament injury and re-examination after a few days is often more informative.
-  - **Examine the joint above and below** the injury.
-  - Document **distal pulses, capillary refill, and motor and sensory function of each relevant nerve by name**.
-- **First-line Ix:** **use the validated decision rules** (for ankle, knee and cervical spine) rather than imaging reflexively — they exist to reduce unnecessary radiographs and are part of the expected standard.
-  - **Plain X-ray** with appropriate views — **and for the shoulder, an axillary or scapular-Y view in addition to the AP, because posterior dislocation is missed on the AP alone**.
-  - **Repeat X-ray, CT or MRI** for suspected scaphoid fracture with normal initial films.
-  - **MRI** for suspected ligament, meniscal or cartilage injury — arranged after acute management, not in the emergency department.
-  - **CT** for complex intra-articular fractures.
-  - **Joint aspiration** if septic arthritis is suspected after a penetrating injury, and **note that fat globules in an aspirate suggest an intra-articular fracture**.
-  - **FBC, coagulation profile and group and hold** where there is significant bleeding, anticoagulation or planned surgery.
+> [!note] **Scope note.** AMH section 19 in the build list is a **single subsection with three classes**. Much of what an intern associates with rheumatology sits in other sections and is cross-referenced rather than duplicated: **NSAIDs and colchicine and the gout drugs** in `NEW_Drugs_03_Analgesics.md`; **methotrexate, biologics, TNF inhibitors and other immunosuppressants** in `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.5; **systemic corticosteroids** in `NEW_Drugs_10_Endocrine.md` 0.5.1; and **bisphosphonates and osteoporosis drugs** in `NEW_Drugs_10_Endocrine.md` 0.1.
 
 ---
 
-## Build status of this file
+## 0.1 Drugs for Other Musculoskeletal Conditions
 
-| Tier | Count | Status |
-|---|---|---|
-| T1 | 0 | No T1 topics in this category |
-| **T2** | 2 | **Both built** — Acute Joint Pain, Acute Joint Trauma |
-| T3 | 16 | Not built |
+> [!info] **The organising principle of modern rheumatology: TREAT TO TARGET, and treat EARLY.**
+> In inflammatory arthritis, **the window in which disease-modifying therapy prevents irreversible joint erosion is measured in weeks to months.** **Early referral of suspected inflammatory arthritis — persistent joint swelling, early morning stiffness lasting over 30 minutes, symmetrical small joint involvement, raised inflammatory markers — is one of the highest-value referrals in general practice.** **NSAIDs and steroids relieve symptoms; they do not prevent damage.** Treatment is then escalated at defined intervals until **remission or low disease activity** is achieved, not until the patient merely feels better.
 
-## Topics skipped in this category
+### 0.1.1 Antimalarials as DMARDs
+- **Key agents:** **hydroxychloroquine** (and, less commonly, chloroquine).
+- **Mechanism:** incompletely understood — lysosomal alkalinisation, interference with antigen processing and **inhibition of toll-like receptor signalling**, producing a mild immunomodulatory effect without general immunosuppression.
+- **Indications:** **systemic lupus erythematosus — where it is foundational and should be given to essentially all patients**, reducing flares, organ damage, thrombosis and mortality, and being safe in pregnancy; **rheumatoid arthritis** (mild disease, or as part of combination DMARD therapy); **Sjögren syndrome**; and cutaneous lupus.
 
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Joint Pain** (T3) | `## Joint Pain (Generalised and Local)` | `History-Taking.md` | Exact |
+> [!danger] **RETINAL TOXICITY — irreversible, and the reason for mandatory ophthalmological screening.**
+> Hydroxychloroquine accumulates in the retinal pigment epithelium and can cause a **bull's-eye maculopathy** that **continues to progress even after the drug is stopped** and causes permanent central visual loss. **Risk is related to DAILY DOSE PER ACTUAL BODY WEIGHT and CUMULATIVE DURATION**, and is increased by **renal impairment, concurrent tamoxifen, and pre-existing retinal disease.**
+> **Requirements: a baseline ophthalmological assessment within the first year, and regular screening thereafter (annually after about five years of use), using modern sensitive tests — OCT and automated visual fields — not just fundoscopy, because by the time it is visible on fundoscopy the damage is advanced.** **Dose is capped by real body weight.**
+- **Other adverse effects:** generally very well tolerated — gastrointestinal upset, rash, and **skin and mucosal hyperpigmentation**; **QT prolongation** (relevant with other QT-prolonging drugs); **haemolysis in G6PD deficiency**; and rarely cardiomyopathy, myopathy and neuropathy with prolonged use.
+- **A distinctive strength: it is one of the few immunomodulators that is CONTINUED in pregnancy and breastfeeding** — stopping it in a pregnant woman with lupus precipitates flares and worsens outcomes, and this is a common and harmful error. See [[12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_]].
 
-> [!note] The T2 topic **Acute Joint Pain** was built despite the bare `Joint Pain` header existing, because the literal string "Acute Joint Pain" matches no header and the acute presentation is a distinct product. **Expect overlap with the History-Taking entry and decide ownership on review.**
+### 0.1.2 Immunosuppressants (Rheumatology)
+- **Conventional synthetic DMARDs:**
+  - **Methotrexate** — the **anchor drug of rheumatoid arthritis and psoriatic arthritis**. **ONCE WEEKLY dosing, with folic acid on other days** — see the fatal-error warning in `NEW_Drugs_08_Dermatological.md` 0.3.4. Monitor **FBC, LFTs and renal function**; watch for **mucositis, pneumonitis and hepatic fibrosis**; **teratogenic and abortifacient — contraception is required in both sexes**; and remember the **co-trimoxazole/trimethoprim and NSAID interactions**.
+  - **Sulfasalazine** — effective, safe in pregnancy, and useful where methotrexate cannot be used; causes rash, **haemolysis in G6PD deficiency**, **reversible oligospermia**, and folate deficiency.
+  - **Leflunomide** — for rheumatoid and psoriatic arthritis. **Teratogenic with a VERY LONG half-life requiring an accelerated elimination procedure with colestyramine before pregnancy — and this applies to male patients too.** Causes hypertension, diarrhoea, hepatotoxicity and peripheral neuropathy.
+  - **Azathioprine, mycophenolate, ciclosporin and cyclophosphamide** — for connective tissue disease, vasculitis and organ-threatening manifestations. **Check TPMT/NUDT15 before azathioprine; mycophenolate is teratogenic and requires a pregnancy prevention programme; cyclophosphamide requires MESNA, fertility counselling and preservation.**
+- **Biologic and targeted synthetic DMARDs:** **TNF inhibitors**, **IL-6 inhibitors (tocilizumab)**, **B-cell depletion (rituximab)**, **T-cell costimulation blockade (abatacept)**, **IL-17 and IL-23 inhibitors** for spondyloarthritis and psoriatic disease, and **JAK inhibitors (tofacitinib, baricitinib, upadacitinib)**. **Australian PBS authority criteria are specific, require documented failure of conventional DMARDs, and change — check them.** See `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.5.3 and 0.5.4 for the class detail.
+
+> [!danger] **BEFORE ANY DMARD, BIOLOGIC OR JAK INHIBITOR — a standing, checkable list that is regularly incomplete:**
+> **Screen for latent TUBERCULOSIS, HEPATITIS B and C, and HIV. VACCINATE — including LIVE vaccines — BEFORE starting, because they are contraindicated afterwards. Consider STRONGYLOIDES serology in anyone with relevant exposure. Discuss pregnancy, contraception and fertility. Establish the monitoring schedule and who is doing it.** See `NEW_Drugs_05_Anti_infectives.md` 0.1.2 and 0.6.3.
+
+> [!danger] **AND THE POINT THAT MATTERS MOST ON THE WARD: A FEVER IN A PATIENT ON A DMARD OR BIOLOGIC IS SEPSIS UNTIL PROVEN OTHERWISE, AND THE SIGNS MAY BE BLUNTED.**
+> **Withhold the immunosuppressant during serious infection**, take cultures broadly, image with a low threshold, and think about **opportunistic organisms**. **Also consider ADRENAL INSUFFICIENCY** in any hypotensive patient on long-term corticosteroids. **A septic joint in a patient with rheumatoid arthritis is easily dismissed as a flare — aspirate it.** See [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]].
+
+### 0.1.3 Muscle Relaxants (GABA-B Agonists)
+- **Key agent:** **baclofen** (oral and intrathecal); **tizanidine** (an α₂-agonist), **dantrolene** (acting directly on skeletal muscle), **diazepam**, and **botulinum toxin** are the other agents used for spasticity.
+- **Mechanism:** **baclofen is a GABA-B receptor agonist** acting at the spinal cord to reduce excitatory transmission and monosynaptic and polysynaptic reflexes.
+- **Indications:** **SPASTICITY of central origin — multiple sclerosis, spinal cord injury, cerebral palsy and stroke** — which is its evidence base. It is also used, with much weaker evidence, for musculoskeletal muscle spasm and low back pain.
+- **Adverse effects:** **sedation, dizziness, weakness and fatigue** — and **the weakness is the therapeutic problem: reducing tone can remove the spasticity a patient is USING to stand or transfer.** Also confusion (especially in older people), nausea, hypotension, and **lowered seizure threshold**. **Renally cleared — accumulates in renal impairment, where it causes encephalopathy at ordinary doses.**
+
+> [!danger] **BACLOFEN WITHDRAWAL IS A MEDICAL EMERGENCY, AND INTRATHECAL BACLOFEN WITHDRAWAL CAN BE FATAL.**
+> Abrupt cessation — including from **a failed or empty intrathecal pump, a disconnected catheter, or simply omitting oral doses in an admitted patient** — causes **high fever, severe rebound spasticity and rigidity, altered mental state, rhabdomyolysis, multi-organ failure and death**, and closely mimics **neuroleptic malignant syndrome, serotonin syndrome and sepsis**.
+> **Practical: never omit baclofen in an inpatient; if the patient cannot swallow, find a route; and if a patient with an intrathecal pump becomes unwell with fever and rigidity, think PUMP FAILURE and contact the implanting service urgently.** Treatment is restoring baclofen (oral or intrathecal) plus supportive care and benzodiazepines.
+- **Note on the other agents:** **dantrolene is also the antidote in malignant hyperthermia** (see `NEW_Drugs_02_Anaesthetics.md` 0.2.3) and causes **hepatotoxicity** with long-term oral use; **tizanidine** causes hypotension and hepatotoxicity and interacts strongly with **ciprofloxacin and fluvoxamine (CYP1A2)**; and **carisoprodol and orphenadrine-type agents have poor evidence and real misuse potential** — muscle relaxants are not a good long-term answer to back pain.
+
+> [!info] **What actually helps in musculoskeletal conditions, beyond drugs:** **exercise and physiotherapy** (the strongest evidence in osteoarthritis, back pain and inflammatory arthritis alike), **weight management**, **occupational therapy and joint protection**, **hand therapy**, **pain education for chronic pain**, and **surgery where indicated**. **For osteoarthritis specifically, there is no disease-modifying drug** — paracetamol is weakly effective, topical NSAIDs are a good first choice for knee and hand OA, oral NSAIDs work but carry the risks in `NEW_Drugs_03_Analgesics.md` 0.4.2, **opioids perform poorly and cause harm**, and **intra-articular corticosteroid gives short-term relief only**. Saying this honestly to a patient is better than escalating drugs that will not work.
 
 ---
 
-# 2 Block-5 moves merged in (2026-09-01)
+## Build status
 
-> [!info] **Block 5.** `C-11` was held — 🔻 inbound mark.
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Drugs for other musculoskeletal conditions | SUB | yes | Framed on treat-to-target and early referral. |
+| 0.1.1 | Antimalarials / DMARDs | CLS | yes | Hydroxychloroquine, with the mandatory retinal screening requirement and its continuation in pregnancy. |
+| 0.1.2 | Immunosuppressants (rheumatology) | CLS | yes | Conventional synthetic DMARDs given in full; biologics and JAK inhibitors cross-referenced to section 14 rather than duplicated. |
+| 0.1.3 | Muscle Relaxants (GABA-B Agonists) | CLS | yes | Baclofen, with the withdrawal emergency including intrathecal pump failure. |
+
+**Rows in file: 4 (1 SUB + 3 CLS). AMH section 19 build-list rows: 4. Section complete.**
+
+> [!note] **This is the smallest section in Part C**, because most rheumatology drug classes are catalogued under other AMH sections in the build list. Those are cross-referenced in the scope note at the top rather than duplicated, so that a single clinical topic does not exist in two places and drift apart.
+
