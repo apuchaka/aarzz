@@ -3465,10 +3465,11 @@ Assess volume status:
 > 240 lines, and the only one of 295 sources concatenated into two merged documents.
 >
 > **The Heme Onc copy was kept**, because **three of its four sections are haematological** —
-> `§0.1 Blood Products`, `§0.2 Drugs for Anaemias`, `§0.4 Vitamins and Supplements` — and only
-> `§0.3 Drugs for Electrolyte Imbalance` is metabolic. The file name leads with *Blood*.
+> `NEW_Drugs_07 §0.1 Blood Products`, `NEW_Drugs_07 §0.2 Drugs for Anaemias`,
+> `NEW_Drugs_07 §0.4 Vitamins and Supplements` — and only
+> `NEW_Drugs_07 §0.3 Drugs for Electrolyte Imbalance` is metabolic. The file name leads with *Blood*.
 >
-> **`§0.3 Drugs for Electrolyte Imbalance` is the section this file wanted.** It is one pointer away
+> **`NEW_Drugs_07 §0.3 Drugs for Electrolyte Imbalance` is the section this file wanted.** It is one pointer away
 > rather than one file away, and the electrolyte *disorders* remain here.
 
 <!-- ===== SOURCE: NEW_Drugs_21_Miscellaneous.md ===== -->
