@@ -24,7 +24,7 @@ aliases:
 >
 > **This file also settles the fourth Austroads driving home.** `GER3 §0.6` is one of four
 > (`Cardio §0.35.5` · `Endocrine §0.15.8` · `Neuro ### Austroads Driving Standards (Neurological)`),
-> and `Clinical-Process-EBM-Consent-Capacity:102` points at two of them.
+> and `Clinical-Process-EBM-Consent-Capacity` no longer holds the table row that pointed at two of them — it resolves here.
 
 <!-- ===== SOURCE: GER3_Preventive_and_Occupational_Health.md ===== -->
 

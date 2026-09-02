@@ -4404,7 +4404,7 @@ Five that must be found in the primary survey rather than on imaging, because ea
 - **Two large-bore IV cannulae**, bloods including crossmatch.
 - **Pelvic binder** at the level of the **greater trochanters** — not the iliac crests, which is the commonest application error and makes the binder ineffective. It works by reducing pelvic volume and tamponading venous bleeding, which is also why a suspected pelvic fracture should **not** be repeatedly "sprung" to test stability: doing so disrupts clot.
 - **Permissive hypotension** — accepting a lower blood pressure until surgical control of bleeding is achieved. The reasoning is that aggressive crystalloid before haemostasis raises pressure enough to dislodge formed clot, dilutes clotting factors, and worsens the trauma-induced coagulopathy.
-- **Blood, not crystalloid**, is the resuscitation fluid in haemorrhagic shock — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Massive Transfusion Protocol (MTP) and [[01_Cardiovascular]] 0.20 Shock (0.20.2 Hypovolaemic shock) for the physiology and the classification by blood loss, not repeated here.
+- **Blood, not crystalloid**, is the resuscitation fluid in haemorrhagic shock — see [[10_08_Haemonc_-_Blood_Products_and_Transfusion]] Massive Transfusion Protocol (MTP) and `[[Emergency and Crit Care_merged]] 01_Cardiovascular §0.20 Shock`, §0.20.2 Hypovolaemic shock, for the physiology and the classification by blood loss, not repeated here.
 - **Tranexamic acid** is given early in significant trauma haemorrhage; the benefit is time-dependent, so it is an early-in-the-primary-survey decision rather than a later one.
 
 ### D — Disability

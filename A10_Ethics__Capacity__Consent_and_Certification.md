@@ -447,7 +447,7 @@ The half that was entirely missing, and the one an intern is least prepared for.
 - [ ] Explain realistic outcomes of CPR in this specific clinical context (survival rates in the frail/multimorbid/terminally unwell are much lower than commonly assumed) — be honest but compassionate
 - [ ] Clarify that a DNACPR decision applies specifically to CPR and does **not** mean withdrawal of other active treatment (pain relief, antibiotics, other supportive care continue as clinically appropriate) — this is the most common misconception and needs explicit correction
 - [ ] Explore the patient's own values, goals of care, and what quality of life means to them
-- [ ] Establish who has decision-making authority if the patient lacks capacity (substitute decision-maker per SA's Advance Care Directives Act 2013 framework — confirm the applicable state legislation if outside SA) — see [[Clinical-Process-EBM-Consent-Capacity]] for full capacity/substitute-decision-maker detail
+- [ ] Establish who has decision-making authority if the patient lacks capacity (substitute decision-maker per SA's Advance Care Directives Act 2013 framework — confirm the applicable state legislation if outside SA) — see `## Capacity assessment — the general framework` in this file for full capacity/substitute-decision-maker detail
 - [ ] Document the outcome clearly and ensure it is communicated to the wider care team
 
 **Useful phrases/scripts:**
@@ -546,4 +546,4 @@ The relationship: the Advance Care Directive **informs** the goals-of-care docum
 
 ## Guardianship — a related but distinct framework
 
-Where a person is unable to manage their own health, safety, or welfare more broadly (not specifically limited to a mental illness needing treatment), the **Guardianship and Administration Act 1993 (SA)** may apply instead of or alongside the Mental Health Act — see [[Clinical-Process-EBM-Consent-Capacity]] for the general capacity/substitute decision-maker framework this connects to, not repeated here. The two Acts serve genuinely different purposes and aren't interchangeable — the Mental Health Act is specifically about treatment for mental illness; guardianship is broader welfare decision-making.
+Where a person is unable to manage their own health, safety, or welfare more broadly (not specifically limited to a mental illness needing treatment), the **Guardianship and Administration Act 1993 (SA)** may apply instead of or alongside the Mental Health Act — see `## Capacity assessment — the general framework` in this file for the general capacity/substitute decision-maker framework this connects to, not repeated here. The two Acts serve genuinely different purposes and aren't interchangeable — the Mental Health Act is specifically about treatment for mental illness; guardianship is broader welfare decision-making.

@@ -262,7 +262,7 @@ Deliberately figure-free. Same status as 1d: a correct abstaining copy, not an i
 | Anaphylaxis | Paeds `15_01b` | `Pediatrics_merged.md:153–188` | 3 | bands only, defers to Derm for the table |
 | Anaphylaxis | Emerg `NEW_Drugs_01 §0.5` | `Emergency…:3854–3892` | 2 | `mL/kg` not `mg/kg`; weight-only bands |
 | Anaphylaxis | Emerg `F0-1 §0.9` | `Emergency…:2564–2598` | **0** | deliberately abstains |
-| Anaphylaxis | **Cardio `§0.20.3` Distributive shock** | `Cardio_merged.md:632–676` | **6** | **MISSED BY THIS INVENTORY — added 2026-09-01. It is a FIFTH copy and it carries the `<7.5 kg` row.** |
+| Anaphylaxis | **`01_Cardiovascular §0.20.3` Distributive shock** | `Emergency and Crit Care_merged.md:1959–2004` (co-located out of `Cardio_merged.md` 2026-09-01) | **6** | **MISSED BY THIS INVENTORY — added 2026-09-01. It is a FIFTH copy and it carries the `<7.5 kg` row.** |
 | Life support | Paeds `15_01a` | `Pediatrics_merged.md:3–152` | **11** | **owner**; ANZCOR-verified; one live timing correction |
 | Life support | Emerg `F0-4 §0.4` | `Emergency…:3167–3194` | **0** | abstains; owns the length-based-tape instruction |
 | Life support | Emerg `F0-4 §0.5` | `Emergency…:3195–3222` | **0** | abstains (neonatal) |
@@ -274,8 +274,9 @@ Deliberately figure-free. Same status as 1d: a correct abstaining copy, not an i
 ---
 
 > [!danger] **THIS INVENTORY MISSED A COPY, AND IT IS THE ONE THAT MATTERS MOST AFTER THE OWNER.**
-> Found 2026-09-01 while checking whether the moves had damaged any callouts. **`Cardio_merged.md
-> §0.20.3 Distributive shock` carries a full ASCIA adrenaline box, including
+> Found 2026-09-01 while checking whether the moves had damaged any callouts. **`01_Cardiovascular
+> §0.20.3 Distributive shock`, now in `Emergency and Crit Care_merged.md` (co-located out of
+> `Cardio_merged.md` 2026-09-01), carries a full ASCIA adrenaline box, including
 > `<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)`** — the infant row. So the row exists in **two**
 > places, not one: `Derm 09_01` and here.
 >

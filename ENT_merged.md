@@ -138,7 +138,7 @@ aliases:
 > [!warning] Sourcing
 > Written from model knowledge, not retrieved from source. Examination technique, discriminators and clinical reasoning are reliable at intern level. **Every dose, time window, antibiotic regimen and audiometric threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG** and current ENT and Australian otitis media guidance.
 >
-> **Central causes of vertigo and the HINTS examination are built in the neurology block ([[D3]] 0.5)**, and **Ramsay Hunt syndrome in [[D7]]** — cross-referenced rather than repeated.
+> **Central causes of vertigo are built in the neurology block ([[D3]] 0.5), and the HINTS examination in `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`**, and **Ramsay Hunt syndrome in [[D7]]** — cross-referenced rather than repeated.
 
 ---
 
@@ -278,7 +278,7 @@ aliases:
 ## 0.6 Vertigo, Trauma and Foreign Bodies
 
 > [!tip] The peripheral (ear) causes of vertigo
-> **The critical central-versus-peripheral distinction and the HINTS examination are in [[D3]] 0.5. The ear causes:**
+> **The critical central-versus-peripheral distinction is in [[D3]] 0.5 and the HINTS examination in `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`. The ear causes:**
 > **· BENIGN PAROXYSMAL POSITIONAL VERTIGO — brief (seconds) vertigo triggered by head POSITION change, diagnosed with the DIX-HALLPIKE manoeuvre and treated with the EPLEY repositioning manoeuvre, which is highly effective and can be done at the bedside.** **No hearing loss.**
 > **· VESTIBULAR NEURITIS — acute, severe, continuous vertigo lasting days, with nausea and vomiting, WITHOUT hearing loss.**
 > **· LABYRINTHITIS — the same picture WITH hearing loss.** **That single difference distinguishes them.**
@@ -310,7 +310,7 @@ aliases:
 ---
 
 > [!note] Cross-references
-> Vertigo, HINTS and central causes → [[D3]] 0.5 · Facial nerve palsy and Ramsay Hunt → [[D7]] · Meningitis and hearing sequelae → [[D1]] 0.5 · Idiopathic intracranial hypertension → [[D1]] 0.3 · Nose, sinus and epistaxis → [[F2]] · Sore throat, hoarseness and head and neck cancer → [[F3]] · Neck lumps and facial pain → [[F4]] · Temporal bone fracture and head injury → [[L8]] 0.2 and [[F0.5]] 0.7 · Delirium and sensory impairment → [[D2]] 0.2 · Dementia and modifiable risk factors → [[D2]] 0.3 and [[GER1]] 0.5 · Otitis media and hearing loss in Aboriginal and Torres Strait Islander children → [[AU1]] 0.4 · Developmental surveillance and hearing → [[M4]] 0.5 · Behavioural presentations of hearing loss → [[M7]] 0.6 · Occupational noise exposure → [[RESP-X]] 0.2 and [[GER3]] · Button battery ingestion → [[F3]]
+> Vertigo and central causes → [[D3]] 0.5 · HINTS examination → `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Facial nerve palsy and Ramsay Hunt → [[D7]] · Meningitis and hearing sequelae → [[D1]] 0.5 · Idiopathic intracranial hypertension → [[D1]] 0.3 · Nose, sinus and epistaxis → [[F2]] · Sore throat, hoarseness and head and neck cancer → [[F3]] · Neck lumps and facial pain → [[F4]] · Temporal bone fracture and head injury → [[L8]] 0.2 and [[F0.5]] 0.7 · Delirium and sensory impairment → [[D2]] 0.2 · Dementia and modifiable risk factors → [[D2]] 0.3 and [[GER1]] 0.5 · Otitis media and hearing loss in Aboriginal and Torres Strait Islander children → [[AU1]] 0.4 · Developmental surveillance and hearing → [[M4]] 0.5 · Behavioural presentations of hearing loss → [[M7]] 0.6 · Occupational noise exposure → [[RESP-X]] 0.2 and [[GER3]] · Button battery ingestion → [[F3]]
 
 
 <!-- ===== SOURCE: 13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_.md ===== -->

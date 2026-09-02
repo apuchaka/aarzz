@@ -802,7 +802,7 @@ Blood pressure control, which is the principal preventive measure. Rehabilitatio
 > **· Space-occupying lesion, subdural haematoma, multiple sclerosis, Bell palsy, peripheral vestibular disease, hypertensive encephalopathy, drug or alcohol intoxication.**
 
 > [!danger] Chameleons — strokes that do not look like strokes
-> **· Isolated vertigo** — a posterior circulation stroke presenting as "dizziness" is the most consequential missed stroke, because these patients are discharged with a vestibular diagnosis. **The HINTS examination distinguishes central from peripheral vertigo and is more sensitive than early MRI** — cross-refer [[D5]].
+> **· Isolated vertigo** — a posterior circulation stroke presenting as "dizziness" is the most consequential missed stroke, because these patients are discharged with a vestibular diagnosis. **The HINTS examination distinguishes central from peripheral vertigo and is more sensitive than early MRI** — cross-refer [[D5]] for the vertigo syndromes and `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` for the examination itself.
 > **· Acute confusion or delirium** — particularly with non-dominant hemisphere or thalamic strokes.
 > **· Isolated dysarthria or isolated monoparesis.**
 > **· Cortical blindness** (bilateral occipital) — the patient may deny blindness (Anton syndrome).
@@ -879,7 +879,7 @@ Rehabilitation, disease-modifying therapy in MS, driving and occupational advice
 ---
 
 > [!note] Cross-references
-> Headache, SAH and CVST → [[D1]] · Altered consciousness, delirium and dementia → [[D2]] · Weakness, neuropathy and radiculopathy → [[D4]] · Vertigo and the HINTS examination → [[D5]] · Cranial nerve examination and facial palsy → [[D7]] · Atrial fibrillation and anticoagulation → [[B3]] 0.4 · Hypertension management → [[B2]] · Anticoagulant reversal → [[A9]] 0.4 · Back pain red flags and cord compression → [[L4]] · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Driving after stroke or TIA → [[A10]] 0.6 · Functional neurological disorder → [[N6]]
+> Headache, SAH and CVST → [[D1]] · Altered consciousness, delirium and dementia → [[D2]] · Weakness, neuropathy and radiculopathy → [[D4]] · Vertigo → [[D5]] · The HINTS examination → `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Cranial nerve examination and facial palsy → [[D7]] · Atrial fibrillation and anticoagulation → [[B3]] 0.4 · Hypertension management → [[B2]] · Anticoagulant reversal → [[A9]] 0.4 · Back pain red flags and cord compression → [[L4]] · Neuromuscular respiratory failure → [[F0.5]] 0.5 · Driving after stroke or TIA → [[A10]] 0.6 · Functional neurological disorder → [[N6]]
 
 
 <!-- ===== SOURCE: D6_Seizures_and_Movement_Disorders.md ===== -->
@@ -1895,7 +1895,7 @@ Hearing rehabilitation, facial reanimation, swallow management, and surveillance
 ---
 
 > [!note] Cross-references
-> Stroke, gaze deviation and localisation → [[D3]] 0.2 · Headache, giant cell arteritis and raised intracranial pressure → [[D1]] 0.4 · Trigeminal neuralgia → [[D1]] 0.3 · Myasthenia gravis → [[D4]] 0.5 · Vertigo and HINTS → [[D5]] 0.2 · Parkinsonism and hyposmia → [[D6]] 0.5 · Hearing loss and tinnitus → [[F1]] · Hoarseness, dysphagia and the ENT approach → [[F3]] · Oesophageal dysphagia → [[C6]] 0.3 · Orbital cellulitis and eyelid swelling → [[B6]] 0.4 · Orbital fracture → [[L8]] · Carotid dissection → [[D3]] 0.3 · Swallow screening after stroke → [[D3]] 0.1
+> Stroke, gaze deviation and localisation → [[D3]] 0.2 · Headache, giant cell arteritis and raised intracranial pressure → [[D1]] 0.4 · Trigeminal neuralgia → [[D1]] 0.3 · Myasthenia gravis → [[D4]] 0.5 · Vertigo → [[D5]] · HINTS → `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)` · Parkinsonism and hyposmia → [[D6]] 0.5 · Hearing loss and tinnitus → [[F1]] · Hoarseness, dysphagia and the ENT approach → [[F3]] · Oesophageal dysphagia → [[C6]] 0.3 · Orbital cellulitis and eyelid swelling → [[B6]] 0.4 · Orbital fracture → [[L8]] · Carotid dissection → [[D3]] 0.3 · Swallow screening after stroke → [[D3]] 0.1
 
 
 > [!note] The Corpus B psychiatry sources moved out of this file on 2026-09-01
@@ -3568,7 +3568,8 @@ Primary injuries divided into focal or diffuse.
 
 > [!warning] FLAG 2026-09-01 — one of four Austroads homes
 > `Cardio_merged §0.35.5` · `Endocrine and metabolics_merged §0.15.8` · `Preventive-Health.md §0.6`.
-> **`Clinical-Process-EBM-Consent-Capacity.md:102` points at two of them from a single table row**, and
+> **`Clinical-Process-EBM-Consent-Capacity.md` no longer holds that table — its *Fitness to drive* row now resolves to `[[Preventive-Health]] §0.6`, recorded in that file's closing SPLIT note.**  
+> Also,
 > `Neuro_merged.md:1774` and `Resp_merged.md:725` both cross-refer to the cardiovascular one.
 > Candidate for a single home; not moved.
 

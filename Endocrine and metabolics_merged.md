@@ -2175,7 +2175,7 @@ Increase monitoring ± check ketones; consume 3L of fluids/24h ± sugary drinks.
 
 > [!warning] FLAG 2026-09-01 — one of four Austroads homes
 > `Cardio_merged §0.35.5` · `Neuro_merged ### Austroads Driving Standards (Neurological Conditions)` ·
-> `Preventive-Health.md §0.6`. **`Clinical-Process-EBM-Consent-Capacity.md:102` points at two of them.**
+> `Preventive-Health.md §0.6`. **`Clinical-Process-EBM-Consent-Capacity.md` no longer holds that table — its *Fitness to drive* row now resolves to `[[Preventive-Health]] §0.6`, recorded in that file's closing SPLIT note.**
 > Candidate for a single home; not moved.
 
 > [!info] Verified against Austroads *Assessing Fitness to Drive* (2022 edition, current at Aug 2026), Aug 2026 — Australian standards are structured differently from the UK DVLA episode-counting model: rather than counting hypoglycaemic episodes over the preceding 12 months, the Australian framework is built around periodic review requirements (5-yearly for non-insulin, more frequent for insulin) plus a specific hypoglycaemia-awareness assessment tool (the Clarke Questionnaire) and a public safety message — "Don't Drive Under Five" — advising against driving with a BGL <5 mmol/L, rather than a retrospective episode count.

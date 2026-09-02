@@ -154,7 +154,7 @@ But two parallel breakdowns exist and **no flag row in any of the 25 files ever 
 
 | File | Structure |
 |---|---|
-| `Cardio_merged.md §0.20 Shock` | `§0.20.1` Cardiogenic · `§0.20.2` Hypovolaemic · `§0.20.3` Distributive · `§0.20.4` Obstructive |
+| `Emergency and Crit Care_merged.md` 01_Cardiovascular `§0.20 Shock` (co-located out of `Cardio_merged.md` 2026-09-01) | `§0.20.1` Cardiogenic · `§0.20.2` Hypovolaemic · `§0.20.3` Distributive · `§0.20.4` Obstructive |
 | `Emergency and Crit Care_merged.md F0-3` | `§0.1` Recognition and Phenotype Framework · `§0.2` Hypovolaemic · `§0.3` Cardiogenic · `§0.4` Obstructive (tamponade) · `§0.5` Obstructive (PE) · `§0.6` Distributive (Addisonian) |
 
 Plus `Emergency §0.2 SIRS, Sepsis and Septic Shock`, `§0.10 Urosepsis and Gram-Negative Septic

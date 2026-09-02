@@ -3501,7 +3501,7 @@ TEVAR = thoracic endovascular aortic repair
 > Here · `Endocrine and metabolics_merged §0.15.8 Austroads Driving Standards for Diabetes` ·
 > `Neuro_merged ### Austroads Driving Standards (Neurological Conditions)` ·
 > `Preventive-Health.md §0.6 Occupational Health, Certification and Driving`.
-> **`Clinical-Process-EBM-Consent-Capacity.md:102` points at two of them from one table row.**
+> **`Clinical-Process-EBM-Consent-Capacity.md` no longer holds that table — its *Fitness to drive* row now resolves to `[[Preventive-Health]] §0.6`, recorded in that file's closing SPLIT note.**
 > Candidate for a single home once the preventive-health destination is settled.
 
 > [!info] Verified against Austroads *Assessing Fitness to Drive* 2022 edition (current at Aug 2026), private-vehicle standards. Commercial-vehicle standards are stricter/longer and generally require annual specialist review — check the source document if advising a commercial driver. All periods below are minimum non-driving periods; a conditional licence beyond that requires satisfactory response to treatment and minimal symptoms (chest pain, palpitations, breathlessness) relevant to driving, per the treating doctor/specialist.

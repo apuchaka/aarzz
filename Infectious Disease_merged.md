@@ -1725,7 +1725,7 @@ Organism-specific therapy with infectious diseases involvement, and prolonged th
 > `## Notifiable Diseases in Australia — What "Notifiable" Actually Means` (in `08_09_Infectious_Disease_-_Miscellaneous`)
 > covers the same duty. **Both retained; pair marked, not merged.**
 > ⚠️ **Do not conflate with the OTHER notifiable duty** — reporting a colleague. That is
-> `Clinical-Process-EBM-Consent-Capacity ## Mandatory Reporting` + `## Notifiable conduct`,
+> `[[A10_Ethics__Capacity__Consent_and_Certification]] ## Mandatory Reporting — the Overarching Duty` + `### Notifiable conduct — reporting a colleague` (moved there from `Clinical-Process-EBM-Consent-Capacity` on 2026-09-01),
 > `A10 §0.5 Professional Practice Concern`, and `Safeguarding.md §0.1`. **Two different obligations
 > that share a word.**
 
