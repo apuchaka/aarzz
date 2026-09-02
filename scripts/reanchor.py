@@ -23,6 +23,7 @@ CLAUDE.md rule 9: a high hit count is the least reliable signal in this corpus.
 Usage:  reanchor.py "## 0.1 Thyroid Panel (TSH, fT4, fT3, antibodies)"
 """
 import re, sys, glob, os
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
 
 STOP = {'and','the','of','a','in','for','to','its','with','on'}
 SKIP = {'CLAUDE.md','RUN_STATE.md','PENDING_GUIDELINE_CHECKS.md'}
@@ -40,7 +41,7 @@ def num(t):
 def find(query, vault):
     qt, qn = toks(query), num(query)
     out = []
-    for p in sorted(glob.glob(os.path.join(vault, '*.md'))):
+    for p in vaultroot.md_files(vault):
         b = os.path.basename(p)
         if b in SKIP:
             continue
@@ -73,7 +74,7 @@ def selftest(vault):
     return 0 if exact else 1
 
 if __name__ == '__main__':
-    vault = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    vault = vaultroot.root()
     if '--selftest' in sys.argv:
         sys.exit(selftest(vault))
     for sc, f, i, l in find(sys.argv[1], vault):

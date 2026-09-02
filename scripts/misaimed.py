@@ -7,9 +7,10 @@
    number: '[[01_Cardiovascular]] 0.30 Infective Endocarditis'. Where the number
    and the name disagree, one of them is wrong."""
 import re, glob, os, collections
-VAULT='/home/user/aarzz'
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
+VAULT=vaultroot.root()
 head=collections.defaultdict(dict); code2stem={}
-for f in sorted(glob.glob(os.path.join(VAULT,'*.md'))):
+for f in vaultroot.md_files(VAULT):
     b=os.path.basename(f)
     if b in ('CLAUDE.md','RUN_STATE.md'): continue
     cur=b[:-3]
@@ -31,7 +32,7 @@ RX=re.compile(r'\[\[('+alt+r')\]\]\s*(?:§|section|sections|part|chapter|item)?\
 STOP={'for','the','and','see','not','a','of','in','to','with'}
 def words(s): return {w.lower().strip("'()/-") for w in re.findall(r"[A-Za-z']+",s)} - STOP
 checked=0; bad=[]
-for f in sorted(glob.glob(os.path.join(VAULT,'*.md'))):
+for f in vaultroot.md_files(VAULT):
     b=os.path.basename(f)
     if b in ('CLAUDE.md','RUN_STATE.md'): continue
     for n,l in enumerate(open(f,encoding='utf-8'),1):

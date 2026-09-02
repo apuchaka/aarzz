@@ -21,8 +21,9 @@ vs a diluent volume, risk factors at both extremes of age).
 """
 import io,re,subprocess,sys,os
 from decimal import Decimal
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
 
-ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT=vaultroot.root()
 U=(r'(kg|g|mg|mcg|mm|cm|mL|L|mmol/L|mmol|umol/L|U/L|IU/L|IU|years?|yrs?|months?|'
    r'weeks?|days?|hours?|min|%|°C|mmHg|bpm|×10⁹/L|g/L|fL)')
 TOK=re.compile(r'(?<![\w.])(?:(\d+(?:\.\d+)?)\s*[-–—−]\s*(\d+(?:\.\d+)?)'
@@ -77,8 +78,7 @@ def selftest():
     print('selftest failures:',bad); return bad
 
 def sweep():
-    files=[f for f in subprocess.run(['git','-C',ROOT,'ls-files','*.md'],
-           capture_output=True,text=True).stdout.split('\n')
+    files=[f for f in '\n'.join(vaultroot.tracked_md_files(ROOT)).split('\n')
            if f.strip() and not f.startswith('_meta/')
            and f not in ('RUN_STATE.md','CLAUDE.md','PENDING_GUIDELINE_CHECKS.md')]
     n=0

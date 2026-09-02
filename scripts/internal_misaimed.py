@@ -14,7 +14,8 @@ against the target, and no tool can do it.
   scripts/internal_misaimed.py [--selftest]
 """
 import re,sys,os,io,subprocess,difflib
-ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
+ROOT=vaultroot.root()
 RE_DIV=re.compile(r'^<!-- ===== SOURCE: (\S+\.md) ===== -->')
 RE_H  =re.compile(r'^(#{2,6}) (\d+\.\d+(?:\.\d+)*)\s+(.*)$')
 # a reference that carries a title: §0.5 Mesothelioma  /  `0.18 OSA`
@@ -77,7 +78,7 @@ def selftest():
     return ok
 
 def files():
-    o=subprocess.run(['git','-C',ROOT,'ls-files','*_merged.md'],capture_output=True,text=True).stdout
+    o='\n'.join(vaultroot.tracked_md_files(ROOT,'*_merged.md'))
     return [f for f in o.split('\n') if f.strip() and '/' not in f]
 
 if __name__=='__main__':

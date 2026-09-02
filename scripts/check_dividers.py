@@ -22,6 +22,7 @@ Nothing else on the line. Provenance notes go on the FOLLOWING line, as italics.
 Exit 1 if any divider in the vault deviates.
 """
 import re, sys, glob, os
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
 
 GOOD = re.compile(r'^<!-- ===== SOURCE: [^\s<>|]+\.md ===== -->$')
 ANY  = re.compile(r'<!-- =+ SOURCE:')
@@ -63,8 +64,8 @@ def selftest():
 if __name__ == '__main__':
     if '--selftest' in sys.argv:
         sys.exit(1 if selftest() else 0)
-    vault = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    total, bad = check(sorted(glob.glob(os.path.join(vault, '*.md'))))
+    vault = sys.argv[1] if len(sys.argv) > 1 else vaultroot.root()
+    total, bad = check(vaultroot.md_files(vault))
     print(f'SOURCE dividers checked: {total}')
     if bad:
         print(f'DEVIATING FROM THE CONVENTION: {len(bad)}')

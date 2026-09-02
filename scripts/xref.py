@@ -4,8 +4,9 @@
    Built after the wikilink-only sweep produced a false negative on the
    three NEW_* sources in GI (CLAUDE.md rule 9: a false skip is invisible)."""
 import re, sys, glob, collections, os
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
 
-VAULT = '/home/user/aarzz'
+VAULT = vaultroot.root()
 
 def sources_of(path):
     """Source files concatenated into a merged doc, with their line spans."""
@@ -42,7 +43,7 @@ def index(target_merged):
     bt = re.compile(r'`?(' + '|'.join(re.escape(k) for k in sorted(tok, key=len, reverse=True)) +
                     r')(?:\.md)?`?\s*(§?\d+\.\d+(?:\.\d+)?)?')
     hits = collections.defaultdict(list)
-    for f in sorted(glob.glob(os.path.join(VAULT, '*.md'))):
+    for f in vaultroot.md_files(VAULT):
         b = os.path.basename(f)
         if b in ('CLAUDE.md','RUN_STATE.md'):
             continue

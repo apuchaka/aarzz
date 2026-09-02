@@ -13,10 +13,11 @@
    carry a name, so MISNAMED can only ever see a sliver. Absence of signal is
    weak evidence; presence of signal is strong."""
 import re, glob, os, collections, sys
-V='/home/user/aarzz'
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
+V=vaultroot.root()
 heads=collections.defaultdict(dict); order=collections.defaultdict(list)
 fingerprint=collections.defaultdict(list); c2s={}; owner={}
-for f in sorted(glob.glob(os.path.join(V,'*.md'))):
+for f in vaultroot.md_files(V):
     b=os.path.basename(f)
     if b in ('CLAUDE.md','RUN_STATE.md'): continue
     cur=b[:-3]; owner[cur]=b
@@ -44,7 +45,7 @@ PTR=re.compile(r'(?:\[\[|`)('+alt+r')(?:\.md)?(?:\]\]|`)\s*(?:§|section|section
 STOP={'for','the','and','see','not','a','of','in','to','with'}
 W=lambda s:{w.lower().strip("'()/-") for w in re.findall(r"[A-Za-z']+",s or '')}-STOP
 dang=collections.Counter(); mis=collections.Counter()
-for f in sorted(glob.glob(os.path.join(V,'*.md'))):
+for f in vaultroot.md_files(V):
     b=os.path.basename(f)
     if b in ('CLAUDE.md','RUN_STATE.md'): continue
     for l in open(f,encoding='utf-8'):

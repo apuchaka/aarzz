@@ -5,14 +5,15 @@ Every claim below is a comparison against a named commit, not an assertion.
   scripts/verify_reorder.py [BASE]      default BASE=78cd7b3 (pre-reorder)
 """
 import re,sys,os,io,glob,collections,subprocess
-ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
+ROOT=vaultroot.root()
 BASE=sys.argv[1] if len(sys.argv)>1 else '78cd7b3'
 # The pure-move guarantee holds over the REORDER range only. Commits after it -
 # the bare-pointer qualification - are prose edits and change lines by design, so
 # checks 1 and 2 compare BASE..MOVES_END while everything else compares BASE..HEAD.
 MOVES_END=sys.argv[2] if len(sys.argv)>2 else '46c6bdf'
 def sh(*a): return subprocess.run(list(a),capture_output=True,text=True,cwd=ROOT).stdout
-def files(): return [f for f in sh('git','ls-files','*.md').split('\n') if f.strip()]
+def files(): return vaultroot.tracked_md_files(ROOT)
 def at(f): return sh('git','show',f'{BASE}:{f}')
 def now(f):
     p=os.path.join(ROOT,f)

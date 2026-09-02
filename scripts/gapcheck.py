@@ -29,6 +29,7 @@ What it CANNOT do, and you still must: spelling and naming variants, and the
 concept expressed in different words. Rule 2's territory.
 """
 import re, sys, glob, os, collections
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
 
 DASH = '[-‐‑‒–—−]'
 SKIP = {'CLAUDE.md', 'RUN_STATE.md'}
@@ -41,7 +42,7 @@ def fold(p):
     return re.sub(DASH, DASH, p)
 
 def files(vault):
-    return [p for p in sorted(glob.glob(os.path.join(vault, '*.md')))
+    return [p for p in vaultroot.md_files(vault)
             if os.path.basename(p) not in SKIP]
 
 def search(pattern, vault):
@@ -133,7 +134,7 @@ def selftest(vault):
     return tot - ok
 
 if __name__ == '__main__':
-    vault = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    vault = vaultroot.root()
     if '--selftest' in sys.argv:
         sys.exit(1 if selftest(vault) else 0)
     if len(sys.argv) < 2:

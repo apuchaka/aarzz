@@ -4,10 +4,11 @@
    Found because Cardio carries pointers to 01_Cardiovascular 0.34.5 / 0.35.8,
    neither of which exists - each off by one at the second level."""
 import re, glob, os, collections
-VAULT='/home/user/aarzz'
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
+VAULT=vaultroot.root()
 # map: source-file stem -> set of section numbers it actually contains
 have=collections.defaultdict(set); code2stem={}
-for f in sorted(glob.glob(os.path.join(VAULT,'*.md'))):
+for f in vaultroot.md_files(VAULT):
     b=os.path.basename(f)
     if b in ('CLAUDE.md','RUN_STATE.md'): continue
     cur=b[:-3]
@@ -31,7 +32,7 @@ alt='|'.join(re.escape(t) for t in toks)
 WL=re.compile(r'\[\[('+alt+r')\]\]\s*(?:§|section|sections|part|chapter|item)?\s*(\d+\.\d+(?:\.\d+)?)')
 BT=re.compile(r'`('+alt+r')(?:\.md)?`\s*(?:§|section|sections|part|chapter|item)?\s*(\d+\.\d+(?:\.\d+)?)')
 bad=[]; total=0
-for f in sorted(glob.glob(os.path.join(VAULT,'*.md'))):
+for f in vaultroot.md_files(VAULT):
     b=os.path.basename(f)
     if b in ('CLAUDE.md','RUN_STATE.md'): continue
     for n,l in enumerate(open(f,encoding='utf-8'),1):

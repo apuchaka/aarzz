@@ -14,11 +14,12 @@ Rule 11: every check below is run first against a case whose answer is already
 known.  A check that cannot fail is worse than no check, because it reports clean.
 """
 import re,sys,os,io,glob,collections,subprocess
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
 
-ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT=vaultroot.root()
 
 def files():
-    out=subprocess.run(['git','-C',ROOT,'ls-files','*.md'],capture_output=True,text=True).stdout
+    out='\n'.join(vaultroot.tracked_md_files(ROOT))
     return [f for f in out.split('\n') if f.strip() and not f.startswith('_meta/')]
 
 def text(f):  return io.open(os.path.join(ROOT,f),encoding='utf-8').read()

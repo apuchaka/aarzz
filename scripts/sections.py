@@ -2,7 +2,8 @@
 """Heading + first paragraph for every section of a merged file.
    Skips the Corpus-B 'Mx - Immediate/Definitive/Chronic' boilerplate triads."""
 import re, sys, os
-VAULT='/home/user/aarzz'
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
+VAULT=vaultroot.root()
 BOILER=re.compile(r'^#{2,6} \d+\.\d+\.\d+ Mx\b')
 p=os.path.join(VAULT,sys.argv[1])
 lines=open(p,encoding='utf-8').read().split('\n')

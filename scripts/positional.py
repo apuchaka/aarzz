@@ -14,8 +14,9 @@ section in the SAME file, and checks the direction against the current order.
   scripts/positional.py --selftest
 """
 import re,sys,os,io,subprocess,collections
+import os,sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import vaultroot
 
-ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT=vaultroot.root()
 RE_HEAD=re.compile(r'^(#{2,6}) (.+)$')
 # "<Name> above" / "<Name> below".  Name must start capitalised or with a section number.
 RE_POS=re.compile(r'(?:§|\bsee\s+|\bin\s+|\bat\s+)?((?:\d+\.\d+(?:\.\d+)*)|(?:[A-Z][A-Za-z0-9/\'’\- ]{3,60}?))\s+(above|below)\b')
@@ -139,7 +140,7 @@ def constraints(path,text):
     return sorted(out)
 
 def files():
-    o=subprocess.run(['git','-C',ROOT,'ls-files','*.md'],capture_output=True,text=True).stdout
+    o='\n'.join(vaultroot.tracked_md_files(ROOT))
     return [f for f in o.split('\n') if f.strip() and not f.startswith('_meta/')]
 
 def selftest():
