@@ -404,6 +404,47 @@ Intern/RMO level. The test for any content: would a newly-graduated intern need 
    - **Weight the finding.** A missed red flag, a lethal misattribution and a management step
      are not the same as a footnote. Say which it is.
 
+13. **A POSITIONAL REFERENCE CANNOT BE JUDGED BY MATCHING ITS NAME AGAINST ONE
+   HEADING. The topic usually has a second home under a different name.** Rules 2, 9 and
+   10 govern searches that look for content. This governs the check that decides an
+   existing reference is *wrong* — and it manufactures defects rather than missing them,
+   which is the direction nothing downstream questions.
+   - **The worked case, 2026-09-02.** `Endocrine and metabolics_merged` has **two**
+     hypercholesterolaemia sections: `§0.3 Lipid Disorders` (Corpus B — the AU CVD risk
+     calculator, familial hypercholesterolaemia, statin thresholds) and
+     `§0.22 Hypercholesterolaemia` (Corpus A). Two references in `§0.15` say the topic is
+     **above** and mean `§0.3`, which is above them. One in `§0.21` says **below** and
+     means `§0.22`, which is below it. **All three were correct.** A resolver that knew
+     only the heading carrying the word matched all three to `§0.22`, reported two as
+     wrong-way, and I wrote the result up as *"an unsatisfiable cycle — 0.15 before 0.21
+     before 0.22 before 0.15"*. **Three correct references and a resolver that knew one
+     heading produced a contradiction that did not exist.** The user found it by opening
+     the file.
+   - **It is not rare.** Sweeping the other fourteen the same way: **six** were the same
+     shape and every one was correct as written — `NRTIs above` meaning the NRTI row of
+     its own table rather than the NRTI heading below; `Strokes section above` meaning
+     `D3 §0.1 Acute Stroke` rather than `04_Neurology ## Strokes`; `Keratitis above`
+     meaning `E1`'s keratitis prose; `KDIGO staging above` meaning the `[!info]` box
+     fifteen lines up; `Warfarin Reversal` and `FFP` likewise.
+   - **`Neuro:2114` is the one to remember.** It was genuinely wrong at the baseline and
+     became correct **only because a reorder happened to move `D3` above `04_Neurology`.**
+     Correct by accident survives until the next reorder.
+   - **So, when a check says a positional reference points the wrong way:** find every
+     place the topic lives, not just the heading that carries its name. Read the sentence
+     against each. Only then rule.
+
+   - **WRITE NAMED REFERENCES, NOT POSITIONAL ONES.** `` `I5 §0.3 Lipid Disorders` `` survives
+     a reorder; *"the section above"* does not, and cannot be checked. Where you must fix a
+     positional reference, **fix it by naming the target, not by moving a section** — moving
+     one to satisfy a reference breaks the grouping the reorder existed to create.
+   - **NAMING THE SECTION IS NOT ENOUGH — NAME THE FILE.** In a merged file every source
+     block restarts at `0.1`, so `` `§0.3 Lipid Disorders` `` still resolves, wrongly, to
+     whatever `0.3` is in the block it sits in. **Four of the twelve references caught by
+     `scripts/internal_misaimed.py` were written the same day by the session fixing this
+     rule's own worked case** — the ambiguity was fixed one level down and reintroduced.
+     The form that works is `` `<source-code-or-file> §<number> <Title>` ``.
+
+
 ## 1.4 Reporting format
 For each queue item: what was checked · scan hits produced · genuine gaps vs dismissed artifacts (with reasons) · fixes made with commit hashes · any limitation noticed in the method itself.
 
