@@ -1380,7 +1380,7 @@ If mother has primary infection lesions at time of delivery:
 > [!warning] FLAG 2026-09-01 — this pointer does not resolve, and is deliberately NOT guessed
 > **`B2_Hypertension_Spectrum` has only `§0.1`–`§0.4`. There is no `§0.5`.**
 > The context is antihypertensives in pregnancy, so the intended target was plausibly
-> `B2 §0.1 Elevated Blood Pressure` or `§0.3 Hypertensive Emergency` — **but that is a guess, and
+> `B2 §0.1 Elevated Blood Pressure` or `B2 §0.3 Hypertensive Emergency` — **but that is a guess, and
 > CLAUDE.md rule 1 forbids writing a plausible-sounding cross-reference.**
 > This is the **only dangling numeric pointer left in the vault** after the 23 repaired on 2026-09-01.
 > It needs a human ruling. `UNVERIFIED — all doses and thresholds for treatment.`

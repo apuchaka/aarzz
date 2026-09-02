@@ -924,7 +924,7 @@ Support completion of an advance care directive and appointment of a substitute 
 
 > [!warning] FLAG 2026-09-01 — end-of-life care is split with Heme Onc and has no owner
 > `Heme Onc_merged 10_11c_Oncology_-_Palliative_Care_Prescribing` and `J5 §0.4 Palliative Care
-> Principles`, `§0.5 Symptom Control`, `§0.6 The Last Days of Life`.
+> Principles`, `J5 §0.5 Symptom Control`, `J5 §0.6 The Last Days of Life`.
 > **31 inbound references between them, none from haematology.**
 > **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty; nothing has
 > been moved into it.**

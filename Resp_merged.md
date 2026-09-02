@@ -1272,7 +1272,7 @@ Treat the underlying cause where identified, and establish the maintenance regim
 **Alt:** Sputum or lower-respiratory specimen where there is productive cough or the patient is intubated (a **tracheal aspirate or BAL** is the better specimen in a ventilated patient); blood cultures; *Legionella* and pneumococcal **urinary antigen**; chest X-ray; serology for pertussis late in the illness.
 
 ## 0.5 Sputum Culture (with Gram Stain and Microscopy)
-`CF-PAIR` **The general specimen-collection and culture-interpretation account is `Infectious Disease_merged §1.18 Blood Cultures and Microbiology Basics`, co-located there beside `§0.1 Gram Stain` and `§0.2 Microbiology Panel` on 2026-09-01. Sputum culture stays here because it is respiratory. Both kept in full, NOT reconciled.**
+`CF-PAIR` **The general specimen-collection and culture-interpretation account is `Infectious Disease_merged §1.18 Blood Cultures and Microbiology Basics`, co-located there beside `NEW_Investigations_Infectious_Diseases §0.1 Gram Stain` and `NEW_Investigations_Infectious_Diseases §0.2 Microbiology Panel` on 2026-09-01. Sputum culture stays here because it is respiratory. Both kept in full, NOT reconciled.**
 
 **D:** Expectorated lower-respiratory secretions examined by **Gram stain and microscopy**, then cultured with susceptibility testing. In a ventilated patient the equivalent specimens are a **tracheal aspirate** or **bronchoalveolar lavage**.
 

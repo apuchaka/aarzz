@@ -102,10 +102,10 @@
 
 > [!warning] FLAG 2026-09-01 — same topic twice in this file, and twice more elsewhere
 > `AN1 §0.5 Postoperative Complications` is the Corpus B version.
-> Also `Emergency and Crit Care_merged A1 §0.5 Post-Procedural Deterioration`, `§0.6 Failure to Wake
+> Also `Emergency and Crit Care_merged A1 §0.5 Post-Procedural Deterioration`, `A1 §0.6 Failure to Wake
 > Post-Sedation`, and `Infectious Disease_merged K1 §0.6 Post-Operative and Drug Fever`.
 > ⚠️ **Three inbound flags are destined for `AN1 §0.3 Perioperative Medication Management` and
-> `§0.7 Specific Perioperative Situations`** — perioperative diabetes management (Endocrine),
+> `AN1 §0.7 Specific Perioperative Situations`** — perioperative diabetes management (Endocrine),
 > surgical fluid and electrolyte principles (Endocrine), and TURP syndrome (Renal). Check for
 > duplication before any of them is actioned.
 

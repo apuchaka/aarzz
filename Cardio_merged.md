@@ -170,7 +170,7 @@ Long-term calcium channel blocker, with long-acting nitrates added if needed. Ca
 
 ## 0.5 Troponin and Cardiac Biomarkers
 
-`CF-PAIR` **THIRD HOME. `Investigation-Interpretation §1.12` and Part 3 `## 0.4 Troponins and Cardiac Biomarkers` (from `GER7`) both cover this assay. All three kept in full, NOT reconciled — this one stays where the disease is.**
+`CF-PAIR` **THIRD HOME. `Investigation-Interpretation §1.12` and Part 3 `GER7 §0.4 Troponins and Cardiac Biomarkers` both cover this assay. All three kept in full, NOT reconciled — this one stays where the disease is.**
 
 **D:** Cardiac troponin I and T are structural proteins released on myocyte injury, and the primary biomarkers of myocardial damage.
 
@@ -2114,7 +2114,7 @@ Risk stratify with **GRACE score** (predicts all-cause mortality at 6 months pos
 ## 0.11 Cardiac Enzymes
 
 > [!warning] FLAG 2026-09-01 — troponin has four section-level homes and no owner
-> `## 0.5 Troponin and Cardiac Biomarkers` (B1, later in this file) ·
+> `B1 §0.5 Troponin and Cardiac Biomarkers` (later in this file) ·
 > `Investigation-Interpretation.md §1.12 Cardiac Markers (Troponin) and Lactate` ·
 > `GER7_Investigation_and_Lab_Addendum §0.4 Troponins and Cardiac Biomarkers`.
 > **Four versions, none marked as the owner.** Flagged at this end; content left where it is.
