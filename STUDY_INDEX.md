@@ -27,7 +27,7 @@ Five. Nothing else at the root is for reading.
 |---|---|---|---|
 | **the 40 system files** at the root — `Cardio_merged.md`, `Neuro_merged.md`, `Examination.md` and the rest | the notes. 66,431 lines | always | read top to bottom |
 | **`checklist.csv`** | 872 topics, 24 categories, each rated High / Medium / Low yield (308 / 394 / 170). Read it with `encoding='utf-8-sig'` or the first column header breaks | when choosing what to read next, and to record what you have read | the `Studied? (Y/N)` and `Confidence (1-3)` columns are **blank for all 872 rows** — it is a topic list you have not yet used as a tracker |
-| **`_meta/MY_TASKS.md`** | 69 lines. Every known clinical defect, contradiction and boundary problem, one line each: file, line, what is wrong, what to change | when a marker makes you stop, and once before each exam | check whether the thing in front of you is already on it. If it is, the line tells you what is wrong without you re-deriving it |
+| **`_meta/MY_TASKS.md`** | 70 lines. Every known clinical defect, contradiction and boundary problem, one line each: file, line, what is wrong, what to change | when a marker makes you stop, and once before each exam | check whether the thing in front of you is already on it. If it is, the line tells you what is wrong without you re-deriving it |
 | **`PENDING_GUIDELINE_CHECKS.md`** | 65 rows, **64 still open**, IDs B1–B67 | when you hit a figure you intend to rely on | search the file, line or drug. A row means the figure is known to need a source check |
 | **`CLAUDE.md` §1.7 and §1.12** | the marker definitions, if you want them first-hand | rarely — section 3 below is the short version | — |
 
@@ -89,7 +89,7 @@ These *look* like content and are not. Read past every one:
 ```
 the SOURCE divider comment          422 of them. Provenance.
 *Moved here from … Verbatim.*       the line under a divider. Provenance.
-> [!note] **Moved to `[[…]]` …**    114 tombstones. A signpost, not a gap.
+> [!note] **Moved to <destination>**  114 tombstones. A signpost, not a gap.
 > [!info] **CO-LOCATED …**          26 notices. Means: the second account is
                                     directly below. Keep reading.
 `CF-PAIR` …                         133. Means: another account exists. Named, not merged.
@@ -109,7 +109,7 @@ study.** That single test disposes of all of the above.
 | Marker | What it tells you | What you do |
 |---|---|---|
 | **the `SOURCE:` divider comment** (an HTML comment naming the origin file) | a new source block starts here, and **its section numbers restart at 0.1** | note which block you are in, only if you meet a bare `§0.x` — see section 4 |
-| **tombstones** — `> [!note] **Moved to [[X]] on 2026-09-01:** …` | this section's content is now in file X, verbatim, with a divider naming this file. 114 of them | if you want that content, open X. Otherwise keep reading. **Nothing was lost** |
+| **tombstones** — a `> [!note]` beginning **"Moved to"** and naming a destination file | this section's content is now in file X, verbatim, with a divider naming this file. 114 of them | if you want that content, open X. Otherwise keep reading. **Nothing was lost** |
 | **`CF-PAIR`** | a second full account of this topic exists, named on the marker. Deliberately not merged. 133 of them | read the one in front of you. Open the other only if the figures matter and you want to compare |
 | **`CO-LOCATED`** | the second account is **directly below**, intact | keep reading. You will meet it in a moment |
 | **`[!info] Verified against <source>, Aug 2026`** | somebody checked this against a named Australian source. 189 boxes | **read past — but see the warning below** |
@@ -201,17 +201,19 @@ it is absent.
 
 Counts and where they live. Not the items.
 
-**`_meta/MY_TASKS.md` — 69 lines**, every cited line number verified against
+**`_meta/MY_TASKS.md` — 70 lines**, every cited line number verified against
 live content on 2026-09-02:
 
 ```
-24   banded-table boundary defects — gaps, overlaps, point boundaries, two-axis
-29   clinical errors and pairs of accounts that disagree
+20   banded-table boundary defects — gaps, overlaps, point boundaries, two-axis
+28   clinical errors and pairs of accounts that disagree
  6   build-time judgement calls to confirm or overrule
  5   cross-file partners located, neither account declaring the other
- 3   ordering decisions (2 of them already declined by you and marked as such)
- 2   large duplication sets, reported as sets rather than pair by pair
+ 3   ordering decisions still open
+ 2   ordering decisions you have already declined
+ 2   large duplication sets, reported as sets not pair by pair
  3   questions asked and answered — a finding, no action needed
+ 1   corpus-wide: 189 verification boxes, none carrying a NOT checked: line
 ```
 
 **`PENDING_GUIDELINE_CHECKS.md` — 65 rows, 64 open**, IDs B1–B67. Each names a
@@ -246,5 +248,5 @@ marker is an instruction to look it up at the point of use.
 **`checklist.csv` — 872 topics**, 308 High yield, 394 Medium, 170 Low.
 `Studied?` and `Confidence` are blank for all 872.
 
-That is the whole of what is known to be outstanding. It is 69 lines in one
+That is the whole of what is known to be outstanding. It is 70 lines in one
 file and 64 rows in another. You are not carrying anything else.
