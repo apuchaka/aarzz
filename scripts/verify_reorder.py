@@ -7,12 +7,17 @@ Every claim below is a comparison against a named commit, not an assertion.
 import re,sys,os,io,glob,collections,subprocess
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE=sys.argv[1] if len(sys.argv)>1 else '78cd7b3'
+# The pure-move guarantee holds over the REORDER range only. Commits after it -
+# the bare-pointer qualification - are prose edits and change lines by design, so
+# checks 1 and 2 compare BASE..MOVES_END while everything else compares BASE..HEAD.
+MOVES_END=sys.argv[2] if len(sys.argv)>2 else '46c6bdf'
 def sh(*a): return subprocess.run(list(a),capture_output=True,text=True,cwd=ROOT).stdout
 def files(): return [f for f in sh('git','ls-files','*.md').split('\n') if f.strip()]
 def at(f): return sh('git','show',f'{BASE}:{f}')
 def now(f):
     p=os.path.join(ROOT,f)
     return io.open(p,encoding='utf-8').read() if os.path.exists(p) else ''
+def atmoves(f): return sh('git','show',f'{MOVES_END}:{f}')
 
 fail=0
 def check(label,ok,detail=''):
@@ -22,21 +27,21 @@ def check(label,ok,detail=''):
 
 print(f'=== verify_reorder.py — everything below is measured against {BASE} ===\n')
 
-print('1. PURE MOVE: line multiset identical per reordered file')
+print(f'1. PURE MOVE: line multiset identical per reordered file, {BASE}..{MOVES_END}')
 # top-level merged files only: _meta/flags/ holds analysis files with the same names
 reordered=[f for f in files() if f.endswith('_merged.md') and '/' not in f]
 bad=[]
 for f in reordered:
-    a=collections.Counter(at(f).split('\n')); b=collections.Counter(now(f).split('\n'))
+    a=collections.Counter(at(f).split('\n')); b=collections.Counter(atmoves(f).split('\n'))
     if a!=b: bad.append((f,sum((b-a).values()),sum((a-b).values())))
 check(f'{len(reordered)} merged files, line multiset unchanged',not bad,
       '; '.join(f'{f} +{p}/-{m}' for f,p,m in bad))
 
-print('\n2. PURE MOVE: digit multiset identical per reordered file')
+print(f'\n2. PURE MOVE: digit multiset identical per reordered file, {BASE}..{MOVES_END}')
 bad=[]
 for f in reordered:
     a=collections.Counter(c for c in at(f) if c.isdigit())
-    b=collections.Counter(c for c in now(f) if c.isdigit())
+    b=collections.Counter(c for c in atmoves(f) if c.isdigit())
     if a!=b: bad.append(f)
 check(f'{len(reordered)} merged files, digit multiset unchanged',not bad,', '.join(bad))
 
