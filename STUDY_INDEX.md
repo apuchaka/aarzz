@@ -221,8 +221,22 @@ it is absent.
 
 Counts and where they live. Not the items.
 
-**`MY_TASKS.md` — 71 lines**, every cited line number verified against
-live content on 2026-09-02:
+**`MY_TASKS.md` — 71 lines.** Every citation in it was retargeted to the split
+files on 2026-09-02 — 112 of them, across 62 rows — and **what that verification
+covers is this: each one points at a line byte-identical to the line it cited
+before the split.** They were resolved by matching the text, never by shifting
+the number, so none can have drifted onto whatever now sits at an arithmetically
+adjusted line. Nineteen rows were then read by hand against the content they
+describe; eighteen land on it exactly.
+
+**What it does not cover:** whether the original citation was well-aimed in the
+first place. One is not — **row 45** cites the melanoma metastatic-disease line
+where it describes the Breslow survival table, which sits about eight lines
+below. That was true before the split and was carried across unchanged, because
+the retarget was allowed to alter only the file name and the number.
+
+Five rows (1-5) cite a block deleted at commit `2495aba` and still point into git
+history, which is immutable and correct as written:
 
 ```
 20   banded-table boundary defects — gaps, overlaps, point boundaries, two-axis
