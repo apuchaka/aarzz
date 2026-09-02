@@ -2440,7 +2440,7 @@ The Act specifically provides for a person subject to a CTO or ITO to have that 
 
 ## Binge-eating disorder
 
-> [!note] Gap-filled from CSV ("Binge-eating disorder," High yield) — genuinely absent as a standalone diagnosis despite being a recognised DSM-5 eating disorder distinct from bulimia nervosa, and now the most common eating disorder in several population studies.
+> [!note] Gap-filled from CSV ("Binge-eating disorder," High yield) — **a second account is in this file at `N8 §0.5 Bulimia Nervosa, Binge Eating Disorder and ARFID` (L2337); both retained, neither reconciled.** (This note previously called it genuinely absent; that was written against the pre-merge corpus.) It is a recognised DSM-5 eating disorder distinct from bulimia nervosa, and now the most common eating disorder in several population studies.
 
 - **D:** an eating disorder characterised by recurrent episodes of binge eating, **without** the regular compensatory behaviours (self-induced vomiting, laxative misuse, excessive exercise) that define bulimia nervosa above — this is the single key distinguishing feature between the two conditions, not severity or bingeing frequency.
 - **R:** can occur across a wider range of body weights than anorexia or bulimia (including normal weight and overweight/obesity), though it's strongly associated with overweight/obesity given the absence of compensatory behaviours; F>M though the gender gap is narrower than in anorexia/bulimia; history of dieting, weight stigma/teasing, depression, anxiety, impulsivity.

@@ -298,7 +298,7 @@ aliases:
 
 ## Cutaneous Drug Eruptions (Overview and Spectrum)
 
-> [!note] Gap-filled — drug eruptions were completely absent from this project despite being frequently mentioned as a differential elsewhere (e.g. within [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Contact Dermatitis (Irritant and Allergic) and the Pruritus differential in [[09_08_Dermatology_-_Miscellaneous]]), and despite SJS/TEN below being one of the most severe forms on this same spectrum. This entry gives the overview and the milder end of the spectrum; SJS/TEN below covers the most severe end in full detail.
+> [!note] Gap-filled — **a second account of drug eruptions is in this file at `G1 §0.4 Drug Eruptions` (L118)**, which organises the same ground by timing; both retained, neither reconciled. (This note previously said drug eruptions were completely absent from the project; that was written against the pre-merge corpus.) They are also frequently mentioned as a differential elsewhere (e.g. within [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Contact Dermatitis (Irritant and Allergic) and the Pruritus differential in [[09_08_Dermatology_-_Miscellaneous]]), and despite SJS/TEN below being one of the most severe forms on this same spectrum. This entry gives the overview and the milder end of the spectrum; SJS/TEN below covers the most severe end in full detail.
 
 **The core principle: drug eruptions span a genuine spectrum from benign and self-limiting to life-threatening**, and recognising which end of the spectrum a given presentation sits on is the most important clinical skill here — not simply recognising "this is a drug rash."
 

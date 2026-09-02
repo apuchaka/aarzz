@@ -2306,7 +2306,7 @@ Increase monitoring ± check ketones; consume 3L of fluids/24h ± sugary drinks.
 
 ## 0.21 Metabolic Syndrome
 
-> [!note] Gap-filled — genuinely absent as its own diagnostic entity despite being mentioned once as a bare risk factor for hypertension elsewhere in this project. This is exactly the "assumed but never explained" pattern found repeatedly throughout this project (TNM, ECOG, DAS28, and others) — a term used as if already understood, never itself defined.
+> [!note] Gap-filled — **a second account is in this file at `I5 §0.4 Metabolic Syndrome and Integrated Risk` (L1160)**, which carries the clustering and a caveat about the label's usefulness; both retained, neither reconciled. (This note previously said the entity was genuinely absent; that was written against the pre-merge corpus.) This is exactly the "assumed but never explained" pattern found repeatedly throughout this project (TNM, ECOG, DAS28, and others) — a term used as if already understood, never itself defined.
 
 **D:** a clustering of cardiometabolic risk factors — central obesity, dyslipidaemia, hypertension, and insulin resistance/hyperglycaemia — that together confer substantially greater cardiovascular and type 2 diabetes risk than any single component alone; presence of metabolic syndrome roughly **quintuples the risk of developing T2DM** and **triples cardiovascular risk** compared with the general population.
 
