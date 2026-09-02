@@ -1,5 +1,200 @@
 
 
+<!-- ===== SOURCE: M1_The_Seriously_Unwell_Child.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Recognition, physiology and clinical reasoning are reliable at intern level. **Every age-specific vital sign range, weight formula, fluid volume, drug dose and age threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
+> **PAEDIATRIC DOSES AND FLUID VOLUMES ARE NOT REPRODUCED HERE AT ALL.** Obtain them from the **Royal Children's Hospital Melbourne Clinical Practice Guidelines**, your local paediatric formulary, or **ANZCOR** — and calculate them for the individual child every time.
+>
+> **Paediatric resuscitation algorithms are also built in [[F0.4]]**, **febrile children in [[M2]]**, and **neonatal problems in [[M3]]** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Recognising the Seriously Unwell Child
+
+> [!tip] Assess from the end of the bed, before you touch them
+> **The PAEDIATRIC ASSESSMENT TRIANGLE — three observations made in seconds, from across the room, before any equipment:**
+> **1. APPEARANCE — tone, interactivity, consolability, look and gaze, speech or cry.** *(Is the child engaging with the world?)*
+> **2. WORK OF BREATHING — recession, grunting, nasal flaring, accessory muscle use, positioning, audible sounds.**
+> **3. CIRCULATION TO SKIN — colour: pink, pale, mottled, ashen or cyanosed.**
+> **This is the most useful thirty seconds of the assessment**, and it is frequently skipped in favour of going straight to observations. **A child who is alert, playing, and interested in you is very unlikely to be critically unwell, whatever the numbers say.**
+
+> [!danger] The quiet child is more worrying than the screaming one
+> **A child who screams when examined, resists, and is consoled by their parent has energy and neurological function.**
+> **A child who is FLOPPY, quiet, uninterested, will not make eye contact, does not resist examination, or cannot be consoled is a far more concerning presentation** — and is repeatedly described as "settled" or "sleepy" in the notes.
+> **"He's been so good, he's just been sleeping" from a parent is a symptom, not reassurance.**
+
+> [!danger] Parental concern is a red flag in its own right
+> **A parent saying "she's not herself" or "he's never been like this" is reporting a change from a baseline they know far better than you do.**
+> **This is one of the most consistently under-weighted signals in paediatrics, and it appears in essentially every root-cause analysis of a missed serious illness in a child.**
+> **Take it seriously, document it, and let it lower your threshold** — for observation, for reassessment, and for escalation.
+> **The corollary applies to your own colleagues: a nurse who is worried about a child is reporting the same kind of information.**
+
+> [!warning] The red flag features
+> **APPEARANCE: abnormal tone or floppiness · not rousable, or does not stay awake · weak, high-pitched or continuous cry · no smile · reduced response to social cues · does not fix or follow.**
+> **BREATHING: GRUNTING (an ominous sign — it is auto-PEEP against a partially closed glottis) · severe recession · very high or very low respiratory rate · APNOEA · hypoxia · head bobbing in infants.**
+> **CIRCULATION: pallor, mottling, ashen or blue colour · prolonged capillary refill · TACHYCARDIA · reduced urine output (ask about wet nappies) · sunken eyes and fontanelle · reduced skin turgor.**
+> **OTHER: a NON-BLANCHING rash · neck stiffness or a BULGING FONTANELLE · focal neurology · seizures · temperature extremes including HYPOTHERMIA · BILE-STAINED VOMITING · and severe or localised abdominal pain.**
+> **Structured tools (traffic-light systems) formalise these into green, amber and red categories.** `UNVERIFIED — the specific criteria and thresholds.`
+
+> [!tip] Two habits that catch deterioration
+> **1. USE AGE-SPECIFIC NORMAL RANGES, from a chart — do not estimate.** **A heart rate of 150 is normal in a young infant and alarming in a ten-year-old. A respiratory rate of 40 is normal in a neonate and a serious sign in a school-age child.** `UNVERIFIED — the age-specific ranges.`
+> **2. REASSESS.** **A single set of observations in a febrile, frightened, crying child is of limited value.** **Reassess after antipyretics, after fluid, after settling — and it is the TREND and the response that inform you.** **A tachycardia that does not settle when the fever comes down and the child calms is a different finding from one that does.**
+
+---
+
+## 0.2 Why Children Compensate and Then Crash
+
+> [!danger] Hypotension in a child is a LATE, PRE-TERMINAL sign
+> **Children maintain their blood pressure by tachycardia and intense vasoconstriction, and they do it extremely well — until they suddenly cannot.**
+> **A child can lose a substantial proportion of circulating volume with a NORMAL blood pressure.**
+> **By the time a child is hypotensive, they are close to arrest.**
+> **NEVER WAIT FOR HYPOTENSION TO DIAGNOSE SHOCK IN A CHILD.** **The earlier signs are TACHYCARDIA, prolonged capillary refill, cool peripheries with a narrowing pulse pressure, reduced urine output, and — crucially — ALTERED CONSCIOUS LEVEL and reduced interaction.**
+
+> [!danger] Bradycardia in a child is pre-terminal
+> **Infant cardiac output is largely HEART-RATE dependent, because stroke volume is relatively fixed.**
+> **So bradycardia in an unwell child is not a sign of good vagal tone — it is a sign of profound hypoxia or imminent arrest, and it demands immediate airway and breathing intervention rather than atropine.**
+> **The commonest cause of bradycardia in a child is HYPOXIA. Treat the airway and breathing first.**
+
+> [!tip] The other physiological differences, and what each means clinically
+> **· HIGHER metabolic rate and oxygen consumption, with a SMALLER functional residual capacity → children DESATURATE FAST.** Pre-oxygenation buys much less time than in an adult.
+> **· A more COMPLIANT chest wall and horizontally-oriented ribs → RECESSION is visible and is a genuine sign, and the mechanical efficiency of breathing is lower.**
+> **· LARGER surface-area-to-mass ratio → rapid HYPOTHERMIA and greater insensible fluid losses.** **Keep them warm and covered.**
+> **· LOWER glycogen reserves → HYPOGLYCAEMIA develops quickly in any unwell or poorly feeding child. CHECK THE GLUCOSE.**
+> **· A relatively LARGE HEAD with weak neck musculature → different head injury patterns, and airway positioning differs (see 0.3).**
+> **· Immature immunity in infants, with a reduced ability to localise infection** — which is why a young infant with a serious bacterial infection may have no focal signs at all.
+
+> [!danger] Paediatric cardiac arrest is usually respiratory in origin
+> **Unlike adults, where arrest is typically a primary cardiac arrhythmic event, children arrest because of HYPOXIA — from respiratory failure or from shock progressing to hypoxia.**
+> **The deterioration sequence: COMPENSATION (tachycardia, tachypnoea, vasoconstriction) → DECOMPENSATION (hypotension, bradycardia, reduced consciousness) → ARREST.**
+> **Two consequences: (1) the focus is overwhelmingly on AIRWAY AND BREATHING, and (2) outcomes after paediatric arrest are poor — which means the entire clinical effort belongs in the compensation phase, recognising and reversing deterioration BEFORE arrest.**
+
+---
+
+## 0.3 Resuscitation and the Sick Child Pathway
+
+> [!warning] The paediatric sequence differs from the adult one — and it follows from the physiology
+> **· FIVE RESCUE BREATHS FIRST, before chest compressions** — because the arrest is usually hypoxic in origin, so oxygenation is the priority.
+> **· Compression-to-ventilation ratio differs from adult practice for two rescuers.**
+> **· Compression technique and depth vary by age and size.**
+> `UNVERIFIED — the ratios, rates, depths and energy levels. Obtain from ANZCOR.` Cross-refer [[F0.4]].
+
+> [!tip] Airway positioning changes with age — because head shape does
+> **· INFANTS have a large occiput, which flexes the neck when supine. Position the airway NEUTRAL, and consider a SHOULDER ROLL to counteract the occiput.**
+> **· OLDER CHILDREN and adults use the "sniffing" position with head tilt and chin lift.**
+> **Over-extending an infant's neck OBSTRUCTS the airway rather than opening it** — a common and immediately consequential error.
+> **Also: infants are obligate nasal breathers early on, so nasal obstruction matters; the tongue is relatively large; and the airway is narrowest at the cricoid in young children.**
+
+> [!danger] Go to intraosseous access early
+> **Peripheral access in a shocked, small, vasoconstricted child is difficult and slow, and repeated failed attempts waste time that matters.**
+> **INTRAOSSEOUS access is fast, reliable, and can take everything intravenous access can — fluids, blood, drugs, and blood samples on insertion.**
+> **The error is persisting with cannulation attempts. Set a limit — a small number of attempts or a short time — and then go intraosseous.** `UNVERIFIED — the recommended threshold.`
+
+> [!warning] Fluids, drugs and weight — and why you must not do this from memory
+> **· WEIGHT is the basis of everything.** Use an actual weight if available; otherwise an age-based formula or a length-based resuscitation tape. `UNVERIFIED — the formula.`
+> **· FLUID BOLUSES are given by weight, with REASSESSMENT AFTER EACH — not as a fixed prescription.** **Be more cautious in DKA (cerebral oedema risk), in severe malnutrition, in known cardiac disease, and in neonates.** `UNVERIFIED — bolus volumes and the fluid type.`
+> **· DRUG DOSES are weight-based, and MAXIMUM doses apply — a large adolescent should not exceed the adult dose.**
+> **· ALWAYS USE A REFERENCE — a paediatric formulary, a pre-calculated drug sheet, or a decision support tool. DO NOT CALCULATE PAEDIATRIC DOSES FROM MEMORY, and have the calculation independently checked.** **Tenfold dosing errors in children are a recognised and recurring source of serious harm, and decimal point errors are the classic mechanism.**
+> **· CHECK THE GLUCOSE in every seriously unwell child**, early.
+
+> [!tip] Escalate early, and involve the family
+> **The threshold for calling for senior and paediatric help should be low.** In South Australia, **paediatric retrieval is provided by MedSTAR Kids**, and early contact is better than late — retrieval services expect and welcome advice calls before the child is peri-arrest. `UNVERIFIED — current service arrangements.`
+> **FAMILY PRESENCE during resuscitation is supported by evidence and by most guidelines**, with a dedicated staff member to support them. **Parents who are present generally cope better with the outcome, including a poor one.**
+> **Communicate continuously with the parents** — even brief, honest updates during a resuscitation. Silence is experienced as concealment.
+
+---
+
+## 0.4 The Unwell Infant
+
+> [!danger] Young infants present non-specifically, and the differential includes things that are not infection
+> **A sick young infant may present ONLY with: poor feeding · lethargy or irritability · temperature INSTABILITY (fever OR hypothermia, and hypothermia is at least as concerning) · apnoea · vomiting · jaundice · grunting · or "just not right".**
+> **There are frequently NO localising signs.**
+> **FEVER IN A YOUNG INFANT REQUIRES A FULL SEPSIS EVALUATION AND EMPIRICAL ANTIBIOTICS** — the threshold age and the extent of investigation are protocol-defined. Cross-refer [[M2]]. `UNVERIFIED — the age thresholds and the required workup.`
+> **Serious bacterial infection in this group: sepsis, meningitis, URINARY TRACT INFECTION (the commonest), and pneumonia.**
+
+> [!danger] The non-infective causes of the collapsed or unwell neonate — the list that must not be missed
+> **· DUCT-DEPENDENT CONGENITAL HEART DISEASE.** **Presents with collapse, shock or cyanosis as the ductus arteriosus CLOSES — characteristically in the first one to two weeks, and often AFTER discharge from hospital.**
+> **Check: PRE- AND POST-DUCTAL saturations (right hand versus foot) · FEMORAL PULSES (absent or weak in coarctation) · and four-limb blood pressures.**
+> **A shocked neonate who does not respond to fluid and antibiotics should prompt consideration of PROSTAGLANDIN E1 to reopen the duct**, discussed urgently with a paediatric cardiologist. Cross-refer [[M3]].
+> **· INBORN ERRORS OF METABOLISM.** **Typically a well baby who deteriorates after a period of normal feeding — with vomiting, lethargy, poor feeding, seizures, and a characteristic biochemical picture.** **CHECK: blood gas (for METABOLIC ACIDOSIS), GLUCOSE, LACTATE, AMMONIA and ketones.** **A raised AMMONIA is the finding that is missed because nobody sends it.**
+> **· CONGENITAL ADRENAL HYPERPLASIA — a SALT-WASTING CRISIS, typically in the first weeks: vomiting, poor feeding, dehydration, shock, with HYPONATRAEMIA, HYPERKALAEMIA and HYPOGLYCAEMIA.** **Virilised genitalia may be evident in a female infant; a male infant looks normal, which is why boys present in crisis.** Cross-refer [[I4]] 0.6.
+> **· MALROTATION WITH VOLVULUS — BILE-STAINED (green) VOMITING IN AN INFANT IS MALROTATION WITH VOLVULUS UNTIL PROVEN OTHERWISE.** **It is a surgical emergency, the bowel infarcts within hours, and the child may initially look deceptively well.** **Green vomit in an infant means an urgent surgical opinion and an upper gastrointestinal contrast study — not observation.** Cross-refer [[M5]].
+> **· NON-ACCIDENTAL INJURY — including abusive head trauma, which presents as a collapsed, seizing or apnoeic infant with no history.** Cross-refer [[M6]] and [[GER4]].
+> **· Intussusception, in older infants** — cross-refer [[M5]].
+> **Never attribute an unwell neonate to "a virus" until these have been considered.**
+
+---
+
+## 0.5 The Irritable, Lethargic or Pale Child
+
+> [!danger] Undress the child completely and examine everything
+> **The findings that change the diagnosis are hidden: the non-blanching rash on the back · the bruise in an unusual site · the swollen tender limb · the bulging fontanelle · the perforated eardrum · the incarcerated hernia · the tender testis.**
+> **HAIR TOURNIQUET — a hair or thread wrapped tightly around a digit, toe or the penis, causing ischaemia in an inconsolable infant.** **It is easily missed and easily treated, and it is a classic cause of unexplained inconsolable crying. Look between the toes and fingers, and at the genitals.**
+> **A full examination in a distressed child is difficult and takes time — and it is where the diagnosis is.**
+
+> [!tip] The irritable, inconsolable child
+> **· PAIN — otitis media · corneal abrasion (a crying infant who will not open one eye) · HAIR TOURNIQUET · testicular torsion · a fracture (including from non-accidental injury) · dental · and — much less often than parents assume — teething.**
+> **· INFECTION — meningitis, urinary tract infection, sepsis.**
+> **· INTUSSUSCEPTION — EPISODIC inconsolable crying with the legs drawn up, lasting minutes, with PALLOR during the episode and apparent normality or lethargy in between.** **Late features are vomiting, a "redcurrant jelly" stool and a palpable sausage-shaped mass — but waiting for these means waiting too long.** **The episodic pallor is the discriminating feature.** Cross-refer [[M5]].
+> **· RAISED INTRACRANIAL PRESSURE — bulging fontanelle, high-pitched cry, vomiting, sunset eyes.**
+> **· Infantile colic — a diagnosis of exclusion, and only after the above have been considered.**
+
+> [!warning] The lethargic child
+> **· Sepsis and meningitis · HYPOGLYCAEMIA · diabetic ketoacidosis · POISONING (deliberate or accidental — ask what is in the house, including grandparents' medications, and consider it in any unexplained altered consciousness) · head injury including abusive head trauma · postictal state · intussusception (late) · myocarditis · severe dehydration · and inborn errors of metabolism.**
+> **Check the glucose. Take a medication and toxin history covering the whole household.** Cross-refer [[A5]] and [[F0.1]].
+
+> [!danger] The pale child — and the pattern that means leukaemia
+> **· ANAEMIA — most commonly IRON DEFICIENCY, which in toddlers is frequently DIETARY (excessive cow's milk intake displacing iron-rich foods is a classic and specific cause). Also haemolysis, blood loss, and marrow failure.**
+> **· SHOCK and sepsis.**
+> **· MALIGNANCY — and the pattern to recognise for ACUTE LEUKAEMIA is: PALLOR (anaemia) + BRUISING or petechiae (thrombocytopenia) + INFECTION or fever (neutropenia) + BONE PAIN or a limp + LYMPHADENOPATHY and HEPATOSPLENOMEGALY.**
+> **A child with unexplained pallor, bruising and bone pain needs a full blood count and film TODAY.** **Persistent limb or bone pain in a child, particularly waking them at night, is a red flag.** Cross-refer [[M5]] and [[J4]].
+> **· Cardiac disease and intussusception.**
+
+> [!danger] Bruising in a non-mobile infant is non-accidental injury until proven otherwise
+> **"If they don't cruise, they don't bruise."** **A pre-mobile infant does not sustain bruises by accident.**
+> **Other concerning patterns: bruises in protected sites (ears, neck, torso, buttocks, inner thighs) · patterned bruises · injuries inconsistent with the history or the developmental stage · and a delay in presentation.**
+> **You do not need certainty — you need concern, and mandatory reporting obligations apply.** Cross-refer [[M6]], [[L7]] 0.5 and [[GER4]].
+
+---
+
+## 0.6 Practical Paediatrics
+
+> [!danger] Use isotonic maintenance fluids — hypotonic fluids have killed children
+> **Hypotonic maintenance fluids in unwell children cause HOSPITAL-ACQUIRED HYPONATRAEMIA, cerebral oedema, seizures, permanent neurological injury and death.**
+> **This was a major and repeated patient safety failure, and it led to a change in practice: MAINTENANCE FLUIDS IN CHILDREN SHOULD BE ISOTONIC.**
+> **Unwell children have high ADH levels — from pain, nausea, surgery, infection and respiratory illness — so they retain free water and cannot excrete a hypotonic load.**
+> **Also: prescribe maintenance by weight-based calculation, add deficit and ongoing losses separately, include glucose where appropriate, and MEASURE THE SODIUM regularly in any child on intravenous fluids.**
+> `UNVERIFIED — the maintenance calculation, the specific fluid, and the monitoring frequency.`
+
+> [!tip] Assessing dehydration
+> **The most accurate measure is the CHANGE IN WEIGHT against a recent known weight** — which is frequently available in children because they are weighed often.
+> **Clinical signs: reduced skin turgor, sunken eyes and fontanelle, dry mucous membranes, reduced tears, prolonged capillary refill, tachycardia, reduced urine output (ask about the number of wet nappies), and altered conscious state.**
+> **ORAL REHYDRATION is preferred wherever it is feasible — including via nasogastric tube — and it is as effective as intravenous fluid in mild to moderate dehydration with fewer complications.** **The reflex to cannulate is often unnecessary.** Cross-refer [[M5]].
+> `UNVERIFIED — the clinical grading of dehydration severity.`
+
+> [!warning] Talking to children, and to their parents
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `**· Get down to the child's level, introduce yourself to THEM, and`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
+
+> [!tip] Two things to consider at every paediatric presentation
+> **1. SAFEGUARDING.** Not as an accusation, but as a routine consideration — the history, the developmental fit, the delay, the interaction, and the child's demeanour. Cross-refer [[M6]].
+> **2. CONSENT AND WHO IS PRESENT.** **Parental responsibility, the capacity of a mature minor, and — where an adolescent is present — the need for time alone with them.** Cross-refer [[A10]] 0.1 and [[M7]].
+
+**Ix:** **BEDSIDE GLUCOSE in every seriously unwell child** (*why:* children deplete glycogen quickly, hypoglycaemia is rapidly reversible, and it mimics everything; *what:* hypoglycaemia). **Blood gas with LACTATE** (*why:* rapid assessment of perfusion and of metabolic derangement, and it can be obtained from a small sample; *what:* acidosis, lactate, glucose, electrolytes). **FBC and film, CRP, UEC, blood cultures** (*why:* infection, anaemia, and the leukaemia pattern; *what:* the counts and the film). **AMMONIA, lactate and ketones in an unwell neonate or an unexplained encephalopathy** (*why:* inborn errors of metabolism are missed because ammonia is not sent, and they are time-critical; *what:* hyperammonaemia, acidosis). **Urine — collected properly (clean catch, catheter or suprapubic aspirate rather than a bag specimen, which is unreliable)** (*why:* urinary tract infection is the commonest serious bacterial infection in infants, and a contaminated bag sample causes both over- and under-treatment; *what:* infection). **Pre- and post-ductal saturations and femoral pulses in a collapsed neonate** (*why:* duct-dependent congenital heart disease is treatable with prostaglandin and is missed if not specifically sought; *what:* saturation difference, absent femoral pulses). Chest radiograph, lumbar puncture and further imaging as directed (*why:* source identification; *what:* the focus). **A full examination with the child undressed** (*why:* the diagnosis is frequently visible and hidden — rash, bruise, tourniquet, hernia, testis; *what:* the finding).
+
+---
+
+> [!note] Cross-references
+> Paediatric resuscitation algorithms → [[F0.4]] · Fever in children and the febrile infant → [[M2]] · Neonatal problems, jaundice and cyanosis → [[M3]] · Growth and development → [[M4]] · Paediatric abdominal pain, intussusception and limp → [[M5]] · Child protection and non-accidental injury → [[M6]], [[L7]] 0.5 and [[GER4]] · Adolescent health and consent → [[M7]] and [[A10]] 0.1 · Poisoning in children → [[A5]] and [[F0.1]] · Congenital adrenal hyperplasia → [[I4]] 0.6 · Leukaemia and the pale bruising child → [[J4]] · Hyponatraemia → [[I5]] 0.5 · Sepsis recognition → [[F0.3]] 0.7 · Aboriginal and Torres Strait Islander child health → [[AU1]] 0.4
+
+
 <!-- ===== SOURCE: 15_01a_Paeds_-_Paediatric_and_Newborn_Life_Support.md ===== -->
 
 > [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
@@ -207,6 +402,201 @@
   - Has a concomitant illness that increases risk (e.g. severe asthma, a history of arrhythmia, systemic mastocytosis or other mast cell disorders).
   - Presents for care late in the evening, given this limits the practical ability to complete a full observation period and safely arrange follow-up before a typical discharge time.
 - A child who remains stable and asymptomatic through the appropriate observation period above, has (or is prescribed) an adrenaline injector with confirmed understanding of its use, and has adequate supervision arranged after discharge, may be discharged with the safety-netting and referral advice above.
+
+
+<!-- ===== SOURCE: M2_Fever_in_Children.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, patterns and discriminators are reliable at intern level. **Every age threshold, temperature cut-off, dose and investigation protocol carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
+> **The age thresholds and required investigations for the febrile infant are protocol-defined and differ between guidelines** — obtain them from the **Royal Children's Hospital Melbourne Clinical Practice Guidelines**, your local paediatric protocol, and **eTG Antibiotic**. **All doses are omitted.**
+>
+> **Meningitis is built in [[D1]] 0.5**, **meningococcal sepsis in [[F0.3]] 0.9**, and **recognition of the seriously unwell child in [[M1]] 0.1** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Approach to the Febrile Child
+
+> [!danger] Three myths that cause harm
+> **1. "The fever came down with paracetamol, so it's probably viral."**
+> **RESPONSE TO ANTIPYRETICS DOES NOT DISTINGUISH BACTERIAL FROM VIRAL ILLNESS.** A child with meningitis or bacteraemia will also look better when their temperature falls. **Defervescence with antipyretics is not reassurance and must not be used as a discriminator** — though how the child looks WHEN AFEBRILE is genuinely informative, which is a different thing.
+> **2. "The fever is very high, so it must be bacterial."**
+> **The HEIGHT of the fever correlates poorly with the severity of the illness.** Roseola produces spectacular fevers in well children; overwhelming sepsis can present with a modest fever or with **HYPOTHERMIA, which is at least as concerning as fever in a young infant.**
+> **3. "Antipyretics prevent febrile convulsions."**
+> **They do not.** **Antipyretics are given for COMFORT — because a miserable child feels better — not to normalise the number, and not to prevent seizures.** **Routinely alternating or combining paracetamol and ibuprofen is not recommended** and increases dosing errors. `UNVERIFIED — current antipyretic guidance.`
+
+> [!tip] Measurement, and believing the parent
+> **Accuracy varies by route: rectal and oral are most accurate; TYMPANIC and TEMPORAL ARTERY measurements are unreliable in infants; axillary underestimates.** **In young infants the route matters and protocols specify it.** `UNVERIFIED — the recommended route by age and the temperature thresholds.`
+> **BELIEVE A PARENT WHO REPORTS FEVER AT HOME**, even if the child is afebrile in front of you. **A documented or reported fever counts**, and dismissing it because the child is now afebrile in a cool waiting room is a recognised error.
+
+> [!warning] The structure of the assessment
+> **· END-OF-THE-BED assessment first — appearance, work of breathing, circulation.** Cross-refer [[M1]] 0.1.
+> **· FULL examination with the child UNDRESSED** — the rash, the joint, the ear, the fontanelle, the perineum.
+> **· A structured traffic-light approach** to categorise risk. `UNVERIFIED — the criteria.`
+> **· HISTORY THAT MATTERS: DURATION of fever · IMMUNISATION status (and specifically whether they are up to date, not just "yes") · sick contacts · TRAVEL · animal exposure · immunosuppression, including corticosteroids and biologics · and any indwelling device or recent surgery.**
+> **· DURATION IS A KEY VARIABLE: a fever of five days or more changes the differential** — see Kawasaki disease in 0.5 — **and beyond about a week it broadens further to include atypical infection, malignancy, inflammatory disease and tuberculosis.**
+
+---
+
+## 0.2 Fever in the Young Infant
+
+> [!danger] The young infant is the highest-risk group and has the strictest rules
+> **Infants below a defined age with fever require a FULL SEPTIC EVALUATION AND EMPIRICAL ANTIBIOTICS, regardless of how well they appear.**
+> **The reasons are physiological: an immature immune system, an inability to localise infection, a high rate of serious bacterial infection, and rapid progression.**
+> **A WELL-APPEARING YOUNG INFANT CAN HAVE MENINGITIS OR BACTERAEMIA.** **"He looks fine" is not a basis for omitting the workup in this age group — that is the entire point of the rule.**
+> **HYPOTHERMIA in a young infant is as concerning as fever**, and is a recognised presentation of sepsis.
+> `UNVERIFIED — the age thresholds, the temperature cut-off, and exactly what the septic screen must include at each age. These differ between guidelines and must come from your local protocol.`
+
+> [!warning] What a full septic evaluation typically includes, and the one that gets deferred
+> **Blood culture · full blood count and film · CRP (and procalcitonin where used) · URINE obtained by a RELIABLE method · and LUMBAR PUNCTURE.** Plus chest radiograph if respiratory signs, and stool studies if diarrhoea.
+> **THE LUMBAR PUNCTURE IS THE ONE THAT GETS DEFERRED — because the baby looks well, because the parents are anxious, or because it is difficult.** **In the age group where it is indicated, the whole justification is that clinical appearance does not exclude meningitis.**
+> **If antibiotics are given before the LP, give them — do not delay treatment — but recognise the CSF culture may be sterilised, which is why PCR matters.** Cross-refer [[D1]] 0.5.
+> **URINE MUST BE OBTAINED BY CLEAN CATCH, CATHETER OR SUPRAPUBIC ASPIRATE.** **BAG SPECIMENS ARE UNRELIABLE — the contamination rate is high enough that a positive bag urine cannot be trusted, leading to over-treatment, and a negative one is reasonable.** **Do not diagnose or exclude urinary tract infection in an infant on a bag urine.**
+
+> [!danger] The organisms, and the one that needs aciclovir
+> **· NEONATES: GROUP B STREPTOCOCCUS · *ESCHERICHIA COLI* · *LISTERIA MONOCYTOGENES*.** **The Listeria cover is why neonatal empirical regimens differ from those used in older children.**
+> **· Older infants and children: *Streptococcus pneumoniae*, *Neisseria meningitidis*, *Staphylococcus aureus*, and *Haemophilus influenzae* type b (now rare in immunised populations, and a reason to check immunisation status).**
+> **· NEONATAL HERPES SIMPLEX — consider and treat empirically with ACICLOVIR in a febrile or unwell neonate with any of: seizures · vesicles (which may be absent) · abnormal liver function or coagulopathy · CSF pleocytosis · or a maternal history of genital herpes (which is frequently absent, because most transmission occurs from asymptomatic primary infection).**
+> **Neonatal HSV has high mortality and severe morbidity, aciclovir is safe, and the diagnosis is easily missed because the vesicles are often not there.** Cross-refer [[O3]] and [[O6]] 0.2.
+
+---
+
+## 0.3 Fever Without Source in Older Children
+
+> [!danger] Get a urine sample — urinary tract infection is the commonest occult bacterial infection
+> **In an infant or young child with fever and no identifiable focus, UTI is the commonest serious bacterial infection — and it is missed because obtaining urine is inconvenient and gets deferred.**
+> **The presentation in infants is entirely non-specific: fever, vomiting, poor feeding, irritability, lethargy, prolonged jaundice in neonates, or faltering growth.** **There are no urinary symptoms because they cannot report them.**
+> **Get a properly collected urine sample in any young child with unexplained fever.** Cross-refer [[M5]].
+> **And recognise the follow-up obligation: a confirmed UTI in a young child warrants consideration of imaging and of underlying structural abnormality or vesicoureteric reflux, per protocol.** `UNVERIFIED — the imaging and prophylaxis criteria, which have become less interventionist.`
+
+> [!tip] The other occult sources
+> **· PNEUMONIA — and TACHYPNOEA IS THE MOST SENSITIVE SIGN.** **Auscultation is unreliable in young children, and a child can have pneumonia with a normal-sounding chest and no cough.** **Count the respiratory rate against age-specific values.** **A chest radiograph is NOT required in uncomplicated community-acquired pneumonia** where the diagnosis is clinical.
+> **· OCCULT BACTERAEMIA — much less common since conjugate pneumococcal and Hib vaccination**, which is one of the clearest examples of vaccination changing clinical practice.
+> **· OSTEOMYELITIS AND SEPTIC ARTHRITIS — presenting as a limp, refusal to weight bear, or PSEUDOPARALYSIS (an infant not moving a limb).** Cross-refer [[M5]] and [[L1]] 0.2.
+> **· Otitis media, tonsillitis, sinusitis, mastoiditis, cellulitis, dental abscess.**
+> **· Appendicitis** — cross-refer [[M5]].
+
+> [!warning] Do not over-investigate a well child with a short viral illness
+> **The great majority of febrile children have a self-limiting viral illness, and blood tests in a well-appearing child with a clear viral picture and a short duration cause more harm than benefit** — distress, false positives, and unnecessary antibiotics.
+> **Investigation is directed by AGE, APPEARANCE, DURATION and the presence of red flags — not by the presence of fever.**
+> **What replaces investigation is SAFETY NETTING and REASSESSMENT**, which is a clinical intervention in its own right.
+
+> [!danger] Safety netting — be specific
+> **"Come back if you're worried" is not safety netting.**
+> **Give SPECIFIC, CONCRETE return criteria, ideally written:**
+> **· Any NON-BLANCHING RASH — and show them the glass test.**
+> **· Becoming drowsy, difficult to rouse, or unresponsive.**
+> **· Difficulty breathing, grunting, or working hard to breathe.**
+> **· Refusing feeds, or markedly reduced wet nappies.**
+> **· A fever lasting beyond a specified number of days.**
+> **· Any seizure.**
+> **· Cold hands and feet with a mottled appearance.**
+> **· "If you feel he's getting worse or you're worried — come back, and don't wait."**
+> **Tell them WHERE to go and WHEN**, and document what you said.
+
+---
+
+## 0.4 The Serious Bacterial Infections
+
+> [!danger] Meningitis — the signs are absent in infants
+> **NECK STIFFNESS AND KERNIG/BRUDZINSKI SIGNS ARE FREQUENTLY ABSENT IN INFANTS AND YOUNG CHILDREN.**
+> **What you get instead: fever or hypothermia · irritability, particularly PARADOXICAL IRRITABILITY (crying MORE when picked up and handled, because movement hurts) · poor feeding · lethargy · a HIGH-PITCHED or unusual cry · vomiting · a BULGING FONTANELLE · and seizures.**
+> **DO NOT DELAY ANTIBIOTICS FOR THE LUMBAR PUNCTURE OR FOR IMAGING.** Cross-refer [[D1]] 0.5.
+> **Dexamethasone is given with or before the first antibiotic dose in certain circumstances** — protocol-defined. `UNVERIFIED — the indications and dose.`
+
+> [!warning] Periorbital versus orbital cellulitis — the distinction is sight- and life-threatening
+> **PERIORBITAL (preseptal) cellulitis — infection anterior to the orbital septum. Eyelid swelling and erythema, with NORMAL eye movements, NORMAL visual acuity, NO proptosis and NO pain on eye movement.** Usually managed with antibiotics.
+> **ORBITAL (postseptal) cellulitis — infection behind the septum, usually spreading from the ethmoid sinuses. PROPTOSIS · PAINFUL and RESTRICTED eye movements · DIPLOPIA · REDUCED VISUAL ACUITY or colour vision · chemosis · and systemic illness.**
+> **Orbital cellulitis threatens VISION and can progress to cavernous sinus thrombosis, intracranial abscess and death.**
+> **It requires urgent CT, intravenous antibiotics, and ophthalmology and ENT involvement.**
+> **The examination that distinguishes them: EYE MOVEMENTS, VISUAL ACUITY and the presence of PROPTOSIS** — and they must be assessed, which is difficult in a swollen crying child but is the whole point of the assessment. Cross-refer [[E1]] and [[F2]].
+
+> [!tip] The rest
+> **· Pneumonia** — see 0.3.
+> **· Osteomyelitis and septic arthritis** — cross-refer [[L1]] 0.2 and [[M5]]. **A child who will not weight bear needs the hip examined and considered for aspiration.**
+> **· Retropharyngeal abscess** — a child who will not move their neck, with drooling, a muffled voice and systemic illness. Cross-refer [[F0.5]] 0.10.
+> **· Epiglottitis** — now rare where Hib vaccination is high, but it still occurs in the under-immunised. **Do not examine the throat or distress the child; get senior airway help.** Cross-refer [[A2]] 0.3.
+> **· Sepsis** — cross-refer [[F0.3]] 0.7.
+
+---
+
+## 0.5 Rash in a Febrile Child
+
+> [!danger] A non-blanching rash is meningococcal disease until proven otherwise
+> **Use the GLASS (tumbler) TEST and check the WHOLE body — including the soles, the palms, the conjunctivae and behind the ears — with the child fully undressed and in good light.**
+> **The rash may BEGIN as a blanching maculopapular rash and evolve**, so an early blanching rash in an unwell child does not exclude it, and reassessment matters.
+> **GIVE ANTIBIOTICS IMMEDIATELY — do not wait for investigations, transfer or the lumbar puncture.** Cross-refer [[F0.3]] 0.9.
+> **Meningococcal disease can progress from a well child to death within hours**, and the earliest features are non-specific: fever, limb pain, cold hands and feet, and abnormal skin colour — **which frequently precede the rash and precede any meningism.**
+
+> [!tip] The benign and non-meningococcal causes of petechiae
+> **· MECHANICAL — petechiae confined to the distribution ABOVE THE NIPPLE LINE (face, neck, upper chest) following forceful COUGHING or VOMITING.** **This is a recognisable benign pattern in a well child** — but the child must be well, the distribution must fit, and it does not excuse a cursory assessment.
+> **· IMMUNE THROMBOCYTOPENIA — petechiae and bruising in a WELL child, often after a viral illness.** Cross-refer [[J1]].
+> **· LEUKAEMIA — petechiae with pallor, bruising, bone pain, lymphadenopathy and hepatosplenomegaly.** Cross-refer [[M1]] 0.5 and [[J4]].
+> **· IgA VASCULITIS (Henoch-Schönlein purpura) — PALPABLE PURPURA over the BUTTOCKS and EXTENSOR SURFACES OF THE LEGS, with arthralgia, ABDOMINAL PAIN (which can herald intussusception) and NEPHRITIS.** **Check the urine and blood pressure at diagnosis and on follow-up — the renal involvement is what determines the long-term outcome and it can appear weeks later.** Cross-refer [[L2]] 0.5 and [[H1]].
+> **· NON-ACCIDENTAL INJURY.** Cross-refer [[M6]].
+
+> [!warning] The viral exanthems worth recognising
+> **· MEASLES — a PRODROME of high fever with the three Cs (COUGH, CORYZA, CONJUNCTIVITIS) and KOPLIK SPOTS on the buccal mucosa, followed by a DESCENDING maculopapular rash starting behind the ears and at the hairline.** **Highly infectious, NOTIFIABLE, and RESURGING where immunisation coverage has fallen.** **Complications: pneumonia, otitis media, ENCEPHALITIS, and the rare late subacute sclerosing panencephalitis.** **Isolate immediately, notify, and check immunisation status.**
+> **· RUBELLA — mild in children, but TERATOGENIC. The significance is congenital rubella syndrome.**
+> **· PARVOVIRUS B19 (fifth disease, "slapped cheek") — bright red cheeks then a LACY reticular rash on the limbs.** **Three things matter beyond the rash: it causes an APLASTIC CRISIS in children with haemolytic anaemia (sickle cell, spherocytosis) · it causes HYDROPS FETALIS in pregnancy · and it causes an arthropathy in adults.** Cross-refer [[J2]].
+> **· ROSEOLA (HHV-6) — several days of HIGH fever in a relatively well child, and then the RASH APPEARS AS THE FEVER RESOLVES.** **That sequence is the diagnostic feature.** A common cause of febrile convulsions.
+> **· VARICELLA (chickenpox) — vesicles in CROPS AT DIFFERENT STAGES of evolution.** **Complications: secondary bacterial infection including NECROTISING FASCIITIS (a child with chickenpox who develops severe focal pain and fever needs urgent assessment) · cerebellitis · pneumonia · and severe disease in the immunocompromised and neonates.**
+> **· HAND, FOOT AND MOUTH DISEASE (coxsackievirus) — oral ulcers with vesicles on hands, feet and buttocks.**
+> **· SCARLET FEVER — group A streptococcal. A SANDPAPER-textured rash with CIRCUMORAL PALLOR, a STRAWBERRY TONGUE, and later DESQUAMATION.** **Treat with antibiotics — and in Australia this matters particularly because of ACUTE RHEUMATIC FEVER prevention in high-risk populations.** Cross-refer [[F0.5]] 0.10 and [[AU1]] 0.4.
+
+> [!danger] Kawasaki disease — fever for five days changes the differential
+> **A medium-vessel vasculitis of young children, and the leading cause of acquired heart disease in children in developed countries.**
+> **The diagnostic features: FEVER FOR FIVE OR MORE DAYS, plus four of five:**
+> **1. Bilateral NON-PURULENT CONJUNCTIVITIS (bulbar, sparing the limbus)**
+> **2. MUCOSAL changes — cracked red lips, STRAWBERRY TONGUE, injected pharynx**
+> **3. CERVICAL LYMPHADENOPATHY — often UNILATERAL and large**
+> **4. POLYMORPHOUS RASH**
+> **5. EXTREMITY changes — erythema and oedema of the hands and feet, followed later by DESQUAMATION of the fingertips**
+> `UNVERIFIED — the diagnostic criteria and the current definitions.`
+> **THE REASON IT MATTERS: CORONARY ARTERY ANEURYSMS.** **Treatment with INTRAVENOUS IMMUNOGLOBULIN, given within a defined early window, dramatically reduces the risk — and the window is measured in days.**
+> **An ECHOCARDIOGRAM is required.**
+> **INCOMPLETE (atypical) KAWASAKI — with fewer than four features — occurs particularly in INFANTS, who are also at the HIGHEST risk of coronary complications.** **So the youngest children with the fewest features are the most dangerous group, and a prolonged unexplained fever in an infant should prompt the thought even without the full criteria.**
+> **The practical rule: a child with fever for five days and no source needs Kawasaki disease actively considered, not another course of antibiotics.**
+
+> [!warning] The toxin-mediated and drug-related rashes
+> **· STAPHYLOCOCCAL OR STREPTOCOCCAL TOXIC SHOCK SYNDROME — fever, diffuse erythroderma, hypotension and multi-organ involvement, with later desquamation.** Consider with retained foreign bodies, wounds, burns and varicella.
+> **· STAPHYLOCOCCAL SCALDED SKIN SYNDROME — in young children, with widespread superficial blistering and a POSITIVE NIKOLSKY sign, from an exfoliative toxin.**
+> **· DRUG REACTIONS including SJS/TEN and DRESS** — cross-refer [[A5]] 0.6.
+
+---
+
+## 0.6 Specific Infections and the Australian Context
+
+> [!tip] Check the immunisation status — and know what it changes
+> **An UNDER-IMMUNISED or unimmunised child has a materially different differential: MEASLES, PERTUSSIS, *Haemophilus influenzae* type b (epiglottitis, meningitis), pneumococcal disease, and varicella complications.**
+> **Ask specifically whether they are up to date on the schedule rather than accepting "yes, they've had their needles".**
+> **Use the presentation as an opportunity for catch-up**, and check the Australian Immunisation Register. Cross-refer [[GER3]].
+
+> [!danger] Pertussis — and the infant is the one at risk
+> **The classic course: a CATARRHAL phase (indistinguishable from a cold, and the MOST INFECTIOUS period) → a PAROXYSMAL phase with severe coughing fits, an inspiratory WHOOP (frequently absent in infants and in adults) and POST-TUSSIVE VOMITING → a prolonged convalescent phase.**
+> **IN YOUNG INFANTS: apnoea, cyanosis and bradycardia may be the presentation, WITHOUT a whoop and sometimes without much cough — and it is in this group that pertussis kills.**
+> **Adults and adolescents with a prolonged cough are the reservoir**, which is the rationale for **COCOONING — vaccinating parents, grandparents and carers — and for maternal vaccination in pregnancy, which protects the newborn before their own immunisation.**
+> **Notifiable, and contacts require assessment for prophylaxis.**
+> **A prolonged paroxysmal cough with post-tussive vomiting in a child or adult should prompt the thought, particularly during outbreaks.** `UNVERIFIED — testing, treatment and prophylaxis regimens.`
+
+> [!warning] The others to consider
+> **· BRONCHIOLITIS — cross-refer [[M6]].**
+> **· TUBERCULOSIS — in children from or with contacts in high-prevalence areas, and in some remote Australian communities.** Cross-refer [[K3]] 0.3.
+> **· MALARIA in a returning traveller — cross-refer [[K1]] 0.4.** **Fever in a child returning from an endemic area is malaria until excluded.**
+> **· THE IMMUNOCOMPROMISED CHILD — an oncology patient with fever is FEBRILE NEUTROPENIA until proven otherwise and requires antibiotics within a short defined window, before the workup is complete.** Cross-refer [[K1]] 0.5.
+> **· Children with indwelling devices — central lines, VP shunts (fever plus a shunt means shunt infection until excluded), gastrostomies.**
+
+> [!tip] Aboriginal and Torres Strait Islander children
+> **Higher rates of serious bacterial infection, skin infection, acute rheumatic fever, otitis media, bronchiectasis and hospitalisation for infection** — with the drivers being overcrowding, environmental health and access rather than anything intrinsic.
+> **The practical consequences: a lower threshold for investigation and treatment · specific consideration of ACUTE RHEUMATIC FEVER with sore throat, skin infection or joint symptoms · treatment thresholds for impetigo and scabies that differ from those in low-risk populations · and attention to persistent wet cough as a precursor of bronchiectasis.**
+> Cross-refer [[AU1]] 0.4, [[K2]] 0.6 and [[RESP-X]] 0.4.
+
+**Ix:** **Urine by a RELIABLE method (clean catch, catheter or suprapubic aspirate — NOT a bag) in any young child with unexplained fever** (*why:* UTI is the commonest occult serious bacterial infection and a bag specimen cannot be trusted; *what:* pyuria, organism). **Blood culture, FBC and film, CRP** (*why:* bacteraemia, and the film may show the leukaemia that presents as fever; *what:* organism, counts, blast cells). **LUMBAR PUNCTURE where indicated by age and clinical picture — and do not defer it because the infant looks well** (*why:* clinical appearance does not exclude meningitis in this group; *what:* CSF cell count, glucose, protein, culture and PCR). **Respiratory rate against age-specific values** (*why:* the most sensitive sign of pneumonia, and auscultation is unreliable in children; *what:* tachypnoea). Chest radiograph **only where clinically indicated** (*why:* not required in uncomplicated pneumonia; *what:* consolidation, effusion). **Blood gas, glucose and lactate in the unwell child** (*why:* perfusion and metabolic state; *what:* acidosis, hypoglycaemia). **ECHOCARDIOGRAM where Kawasaki disease is suspected** (*why:* coronary artery involvement determines management and prognosis; *what:* aneurysm, ectasia). **Pertussis PCR on a nasopharyngeal specimen** (*why:* diagnosis, notification and contact prophylaxis; *what:* *Bordetella*). Malaria films in a returning traveller (*why:* it kills fastest; *what:* parasites). **NOTIFICATION to public health for measles, pertussis, meningococcal disease and other notifiable conditions** (*why:* a legal obligation and the basis of contact tracing; *what:* the notifiable list — `UNVERIFIED — check the SA Health list`).
+
+---
+
+> [!note] Cross-references
+> Recognising the seriously unwell child and red flags → [[M1]] 0.1 · Neonatal problems and jaundice → [[M3]] · Paediatric GI, urinary and limb presentations → [[M5]] · Paediatric wheeze, bronchiolitis and seizures → [[M6]] · Child protection → [[M6]] and [[GER4]] · Meningitis and encephalitis → [[D1]] 0.5 · Meningococcal sepsis and contact prophylaxis → [[F0.3]] 0.9 · Sepsis recognition → [[F0.3]] 0.7 · Febrile neutropenia → [[K1]] 0.5 · Tuberculosis → [[K3]] 0.3 · Malaria and the returning traveller → [[K1]] 0.4 · Septic arthritis and osteomyelitis → [[L1]] 0.2 · IgA vasculitis → [[L2]] 0.5 and [[H1]] · Severe cutaneous drug reactions → [[A5]] 0.6 · Orbital cellulitis → [[E1]] and [[F2]] · Epiglottitis and croup → [[A2]] 0.3 and [[F0.5]] 0.10 · Parvovirus and aplastic crisis → [[J2]] · Immunisation and the Australian schedule → [[GER3]] · Aboriginal and Torres Strait Islander child health → [[AU1]] 0.4
 
 
 <!-- ===== SOURCE: 15_02_Paeds_-_Ill_and_Feverish_Child__Meningitis__Encephalitis.md ===== -->
@@ -426,6 +816,1082 @@
 *(See [[08_05-06_Infectious_Disease_-_Viral_Infections]] Human immunodeficiency virus (HIV) for HIV in adults and more information on medications, not repeated here.)*
 
 
+<!-- ===== SOURCE: M3_Neonatal_Problems.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Patterns, timing rules and clinical reasoning are reliable at intern level. **Every bilirubin threshold, age cut-off, glucose value, weight-loss percentage and dose carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
+> **Bilirubin treatment thresholds are plotted on age-in-HOURS nomograms and cannot be reproduced usefully in text** — use the chart. Obtain all protocols from the **Royal Children's Hospital Melbourne guidelines**, your local neonatal unit protocol, and **Safer Care Victoria / SA Health neonatal guidance**.
+>
+> **The collapsed neonate is introduced in [[M1]] 0.4** and **fever in the young infant in [[M2]] 0.2** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Neonatal Jaundice
+
+**A/P:** Neonates are predisposed to jaundice by **a higher red cell mass with a shorter red cell lifespan · immature hepatic conjugation (low UGT activity) · and increased enterohepatic circulation of bilirubin.** Physiological jaundice is the result — but the timing tells you whether it is physiological.
+
+> [!danger] The three timing rules — the highest-yield framework in neonatal medicine
+> **1. JAUNDICE IN THE FIRST 24 HOURS IS ALWAYS PATHOLOGICAL.**
+> **It is HAEMOLYSIS until proven otherwise — ABO or Rhesus incompatibility, G6PD deficiency, hereditary spherocytosis — or congenital infection or sepsis.**
+> **It requires urgent investigation and treatment. It is never "just physiological".**
+> **2. JAUNDICE FROM DAY 2 TO ABOUT TWO WEEKS is usually physiological or breast milk jaundice** — but sepsis, haemolysis, bruising or cephalhaematoma (a resorbing haematoma is a bilirubin load), polycythaemia and dehydration must still be considered, particularly if the baby is unwell or the level is high or rising fast.
+> **3. JAUNDICE PERSISTING BEYOND TWO WEEKS (PROLONGED JAUNDICE) REQUIRES A SPLIT (CONJUGATED) BILIRUBIN.**
+> **This is the single most important investigation in neonatal jaundice, and the one most often not sent.**
+
+> [!danger] Conjugated hyperbilirubinaemia is ALWAYS pathological — and means biliary atresia until excluded
+> **A raised CONJUGATED fraction is never physiological and never breast milk jaundice.**
+> **BILIARY ATRESIA is the diagnosis that must not be missed.**
+> **The clinical signs: PROLONGED jaundice · PALE, CHALKY, ACHOLIC STOOLS · and DARK URINE (a neonate's urine should be colourless).**
+> **LOOK AT THE NAPPY. Ask the parents about stool colour, and use a stool colour chart if available** — pale stools are the earliest and most accessible sign, and parents will not report them unless asked because they do not know what is normal.
+> **WHY THE URGENCY: the KASAI PORTOENTEROSTOMY has substantially better outcomes when performed EARLY — the success rate falls markedly with age, and beyond a critical window the child needs liver transplantation instead.**
+> **Every week of delay matters. A prolonged jaundice referral is not a routine outpatient problem.**
+> `UNVERIFIED — the age threshold for optimal Kasai outcome.`
+
+> [!tip] The rest of the prolonged jaundice differential
+> **UNCONJUGATED:**
+> **· BREAST MILK JAUNDICE — a well, thriving, breastfed baby with unconjugated jaundice persisting for weeks. Common and benign — but a DIAGNOSIS OF EXCLUSION made only after the conjugated fraction is normal and other causes are excluded. Breastfeeding should NOT be stopped.**
+> **· HYPOTHYROIDISM — check the newborn bloodspot screening result rather than assuming it was normal.**
+> **· URINARY TRACT INFECTION — a recognised and easily missed cause of prolonged neonatal jaundice. Send a urine.**
+> **· Ongoing haemolysis, G6PD deficiency, Gilbert and Crigler-Najjar syndromes.**
+> **· GALACTOSAEMIA — with vomiting, hypoglycaemia, hepatomegaly and *E. coli* sepsis.**
+> **CONJUGATED:**
+> **· BILIARY ATRESIA · choledochal cyst · neonatal hepatitis · alpha-1 antitrypsin deficiency · TPN-associated · metabolic and infective causes.**
+
+> [!danger] Kernicterus is preventable, and that is the point of treating jaundice
+> **Unconjugated, unbound bilirubin crosses the blood-brain barrier and deposits in the basal ganglia.**
+> **ACUTE bilirubin encephalopathy: lethargy and poor feeding → hypertonia, retrocollis and OPISTHOTONOS, a HIGH-PITCHED CRY, fever → seizures and death.**
+> **CHRONIC kernicterus: ATHETOID CEREBRAL PALSY · SENSORINEURAL HEARING LOSS · upward GAZE PALSY · and dental enamel dysplasia. It is permanent.**
+> **Risk is increased by: PREMATURITY · HAEMOLYSIS · SEPSIS · ACIDOSIS · HYPOALBUMINAEMIA · and drugs that displace bilirubin from albumin.** **These babies require treatment at lower thresholds.**
+
+> [!warning] Assessment and treatment
+> **DO NOT ESTIMATE SEVERITY VISUALLY.** **Clinical assessment of jaundice depth is unreliable — particularly in babies with darker skin, where jaundice is significantly under-recognised.** **Measure it: transcutaneous bilirubinometry for screening, serum bilirubin where the level is high, the baby is unwell, or below a certain age.**
+> **PLOT THE LEVEL ON AN AGE-IN-HOURS NOMOGRAM.** **A bilirubin value means nothing without the postnatal age in hours and the gestation** — the same number is benign at 96 hours and requires exchange transfusion at 12 hours.
+> **Treatment: PHOTOTHERAPY (which isomerises bilirubin to a water-soluble form excreted without conjugation) · EXCHANGE TRANSFUSION at higher thresholds · INTRAVENOUS IMMUNOGLOBULIN in isoimmune haemolytic disease · plus ensuring adequate FEEDING AND HYDRATION, since dehydration worsens jaundice.**
+> **Treat the underlying cause — sepsis, haemolysis, dehydration.**
+> `UNVERIFIED — all thresholds; use the nomogram.`
+
+**Ix:** **Serum bilirubin with a SPLIT (conjugated and unconjugated) fraction in any jaundice under 24 hours or beyond two weeks** (*why:* the conjugated fraction is what identifies biliary atresia, and it is the test most often omitted; *what:* conjugated proportion). **Blood group and direct antiglobulin (Coombs) test on the baby, with the maternal blood group** (*why:* isoimmune haemolysis; *what:* incompatibility, positive DAT). **FBC, film and reticulocytes** (*why:* haemolysis, polycythaemia, anaemia; *what:* the pattern). **G6PD assay** where relevant ancestry or family history (*why:* a common and treatable cause of severe neonatal jaundice; *what:* deficiency). **Urine microscopy and culture in prolonged jaundice** (*why:* UTI is a recognised and missed cause; *what:* infection). **Thyroid function or the newborn screening result** (*why:* congenital hypothyroidism; *what:* raised TSH). **Direct observation of STOOL COLOUR** (*why:* acholic stools indicate obstructive jaundice and biliary atresia, and parents will not report them unprompted; *what:* pale, chalky stool). LFTs and liver ultrasound where conjugated (*why:* biliary atresia and choledochal cyst; *what:* absent gallbladder, triangular cord sign). Septic screen where unwell (*why:* sepsis causes jaundice; *what:* infection).
+
+---
+
+## 0.2 The Cyanosed or Collapsed Neonate
+
+> [!danger] Duct-dependent lesions present when the duct closes — often after discharge
+> **The ductus arteriosus closes over the first days to two weeks. Lesions that depend on it become catastrophic at that point — which is frequently AFTER the baby has gone home.**
+> **· DUCT-DEPENDENT PULMONARY circulation → progressive CYANOSIS.** Pulmonary atresia, critical pulmonary stenosis, tricuspid atresia, severe tetralogy of Fallot.
+> **· DUCT-DEPENDENT SYSTEMIC circulation → SHOCK and collapse.** **Coarctation of the aorta, interrupted aortic arch, critical aortic stenosis, hypoplastic left heart syndrome.**
+> **· TRANSPOSITION OF THE GREAT ARTERIES → depends on the duct and foramen ovale for MIXING.**
+> **A collapsed or cyanosed neonate in the first two weeks who does not respond to fluid and antibiotics needs congenital heart disease considered urgently.**
+
+> [!danger] Prostaglandin E1 reopens the duct — and it causes apnoea
+> **PROSTAGLANDIN E1 (alprostadil) maintains or reopens ductal patency and is life-saving in duct-dependent lesions.**
+> **It should be started on clinical suspicion after urgent discussion with a paediatric cardiologist or retrieval service — waiting for a definitive echocardiogram may be too long.**
+> **THE KEY SIDE EFFECT IS APNOEA. Be prepared to support the airway and ventilate**, and this must be anticipated before starting, particularly before transfer.
+> `UNVERIFIED — dose and administration.`
+
+> [!tip] The bedside assessment of a cyanosed or shocked neonate
+> **· PRE- AND POST-DUCTAL SATURATIONS — right hand (pre-ductal) versus either foot (post-ductal).** A significant difference suggests a ductal shunt or coarctation. **Both may be low in transposition, and in some lesions the FOOT reads HIGHER than the hand (reverse differential), which is highly specific for transposition with associated obstruction.**
+> **· FEMORAL PULSES — ABSENT OR WEAK FEMORAL PULSES MEAN COARCTATION UNTIL PROVEN OTHERWISE.** **Palpate them in every newborn examination and in every unwell infant. It takes seconds and it is the single highest-yield examination finding in neonatal cardiology.**
+> **· FOUR-LIMB BLOOD PRESSURES** — an upper limb to lower limb gradient.
+> **· Murmur — but note that the most severe lesions may have NO murmur** (a large VSD may be silent early, and hypoplastic left heart may have only a single second sound).
+> **· HEPATOMEGALY — the cardinal sign of heart failure in an infant** (peripheral oedema is not).
+> **· THE HYPEROXIA TEST — administering high-flow oxygen: a RESPIRATORY cause improves the saturation substantially; a CARDIAC (right-to-left shunt) cause does not.** Largely superseded by echocardiography but conceptually useful and still used where echo is not immediately available. `UNVERIFIED — the protocol and interpretation.`
+
+> [!warning] Heart failure in an infant looks like a feeding problem
+> **The presentation is NOT oedema and breathlessness. It is:**
+> **· POOR FEEDING and taking a long time to feed**
+> **· SWEATING WITH FEEDS — the classic and specific symptom, because feeding is an infant's exercise**
+> **· TACHYPNOEA and recession**
+> **· FALTERING GROWTH**
+> **· HEPATOMEGALY**
+> **· recurrent chest infections.**
+> **"He gets sweaty and breathless and takes forty minutes to finish a bottle, and he's not putting on weight" is a cardiac history**, and it is regularly managed as reflux or a feeding problem.
+
+> [!tip] Cyanotic spells and innocent murmurs
+> **HYPERCYANOTIC ("TET") SPELLS in tetralogy of Fallot — sudden deepening cyanosis with irritability and a paradoxical DISAPPEARANCE of the murmur (because flow across the outflow tract has stopped).** **Management: KNEE-CHEST position (or picking the child up with knees to chest — which increases systemic vascular resistance and reduces the right-to-left shunt) · oxygen · morphine · fluids · and escalation.** **Older children squat instinctively for the same reason.**
+> **INNOCENT MURMURS are common: soft, systolic, no thrill, no diastolic component, normal heart sounds, varying with posture, in a well, thriving, acyanotic child with normal pulses.**
+> **Features suggesting pathology: any DIASTOLIC murmur · a loud or harsh murmur with a thrill · an abnormal second heart sound · abnormal pulses · cyanosis · failure to thrive · or symptoms.** `UNVERIFIED — full criteria.`
+> **Australia performs PULSE OXIMETRY SCREENING of newborns** to detect critical congenital heart disease before discharge. `UNVERIFIED — the protocol and thresholds.`
+
+---
+
+## 0.3 Feeding, Weight and Hypoglycaemia
+
+> [!tip] Normal weight loss, and when it stops being normal
+> **Newborns lose weight in the first days and regain birth weight within a defined period.** **Loss beyond a threshold percentage, or failure to regain by the expected day, triggers assessment — of feeding, of hydration, and of the baby.** `UNVERIFIED — the percentage and the day.`
+> **Assessment of feeding: OBSERVE A FEED — attachment, positioning, suck, swallow, and the mother's comfort.** **This cannot be done by history.** Cross-refer [[O7]] 0.6.
+> **The objective markers of adequate intake are OUTPUT and WEIGHT: the number of wet nappies, the stool pattern and colour transition, and the weight trajectory** — not the mother's perception of supply, which is frequently and unnecessarily doubted.
+
+> [!danger] Hypernatraemic dehydration in the exclusively breastfed neonate
+> **Inadequate milk transfer in the early days — often from poor attachment in a first-time mother with an unrecognised problem — causes progressive dehydration.**
+> **Because free water is lost disproportionately, the sodium RISES, producing HYPERNATRAEMIC dehydration.**
+> **The presentation: excessive weight loss · lethargy · poor feeding (which worsens the cycle) · fever · jaundice · and, in severe cases, seizures and cerebral injury.**
+> **The signs of dehydration are DECEPTIVE in hypernatraemia — skin turgor and peripheral perfusion are relatively preserved because the intravascular volume is defended at the expense of the cells, so the baby looks better than they are.**
+> **Correction must be SLOW** — rapid correction of hypernatraemia causes cerebral oedema. Cross-refer [[I5]] 0.5.
+> **Prevention is the point: weigh babies, review feeding early, and support breastfeeding properly rather than either ignoring the problem or reflexively stopping breastfeeding.**
+
+> [!warning] Neonatal hypoglycaemia — who is at risk and why it matters
+> **AT-RISK GROUPS requiring screening: INFANTS OF DIABETIC MOTHERS (hyperinsulinism from maternal hyperglycaemia) · SMALL FOR GESTATIONAL AGE and growth-restricted infants (low glycogen stores) · LARGE FOR GESTATIONAL AGE · PRETERM · perinatal asphyxia · hypothermia · sepsis · maternal beta-blockers · and inborn errors of metabolism.**
+> **Untreated or recurrent hypoglycaemia causes permanent neurological injury**, which is why screening protocols exist and why the response is prompt.
+> **Management: feed and recheck for mild asymptomatic hypoglycaemia; buccal dextrose gel is used in many protocols; INTRAVENOUS DEXTROSE for severe, symptomatic or refractory hypoglycaemia.**
+> **PERSISTENT or recurrent hypoglycaemia requires investigation for hyperinsulinism, hypopituitarism, adrenal insufficiency and metabolic disease — with the CRITICAL SAMPLE (insulin, cortisol, growth hormone, ketones, lactate, free fatty acids) taken DURING the hypoglycaemic episode, because afterwards it is uninterpretable.** Cross-refer [[I2]] 0.4.
+> `UNVERIFIED — glucose thresholds, screening schedules and dextrose regimens.`
+
+> [!danger] Vitamin K prophylaxis prevents vitamin K deficiency bleeding
+> **Newborns are relatively vitamin K deficient — poor placental transfer, low stores, sterile gut, and low levels in breast milk.**
+> **VITAMIN K DEFICIENCY BLEEDING has an EARLY form and a LATE form. The LATE form occurs at several weeks of age, is strongly associated with EXCLUSIVE BREASTFEEDING WITHOUT PROPHYLAXIS, and presents as INTRACRANIAL HAEMORRHAGE — with high mortality and permanent disability in survivors.**
+> **Prophylaxis is highly effective and refusal rates are rising**, which means clinicians increasingly encounter unprophylaxed infants.
+> **Practical: check whether vitamin K was given · in an infant with unexplained bruising, bleeding or intracranial haemorrhage, ask about it specifically · and where parents decline, the conversation should be respectful, informed, and revisited.**
+> `UNVERIFIED — dose, route and schedule, and the oral alternative regimen.`
+
+---
+
+## 0.4 Neonatal Vomiting
+
+> [!danger] Bile-stained vomiting is malrotation with volvulus until proven otherwise
+> **GREEN vomit in an infant is a SURGICAL EMERGENCY.**
+> **Malrotation with midgut volvulus twists the bowel around a narrow mesenteric pedicle, occluding the superior mesenteric artery — and the entire midgut infarcts within HOURS.**
+> **The child may initially look DECEPTIVELY WELL, with only vomiting.** By the time there is peritonism, shock and blood per rectum, bowel has been lost.
+> **The response is an URGENT SURGICAL OPINION and an URGENT UPPER GASTROINTESTINAL CONTRAST STUDY — not observation, not a trial of feeds, and not an antiemetic.**
+> **"Green vomit means go" is the rule.**
+
+> [!warning] Pyloric stenosis — resuscitate before you operate
+> **Presents at around three to six weeks with PROJECTILE, NON-BILIOUS vomiting.** **The baby is HUNGRY IMMEDIATELY AFTER VOMITING — which distinguishes it from vomiting due to illness — and progressively loses weight and becomes dehydrated.**
+> **Signs: visible gastric PERISTALSIS crossing the abdomen, and a palpable "OLIVE" in the right upper quadrant, best felt during a test feed.**
+> **THE BIOCHEMISTRY IS CHARACTERISTIC AND EXAMINED: a HYPOCHLORAEMIC, HYPOKALAEMIC METABOLIC ALKALOSIS** — from loss of gastric hydrochloric acid — **with PARADOXICAL ACIDURIA**, because the kidney eventually prioritises sodium retention over acid-base and excretes hydrogen ions despite the alkalosis.
+> **THE CRITICAL MANAGEMENT POINT: PYLORIC STENOSIS IS A MEDICAL EMERGENCY, NOT A SURGICAL ONE.**
+> **The infant must be RESUSCITATED and the ELECTROLYTES AND ALKALOSIS CORRECTED BEFORE surgery** — operating on an alkalotic, hypochloraemic, hypokalaemic infant risks post-operative APNOEA and arrhythmia.
+> **Diagnosis is by ULTRASOUND.**
+
+> [!tip] The rest of the neonatal vomiting differential
+> **· POSSETING AND REFLUX — very common, in a well, thriving baby. Reassurance, positioning and feeding advice. Reflux in a THRIVING baby does not need medication.**
+> **· OVERFEEDING and incorrect formula preparation** — ask how the formula is made up.
+> **· COW'S MILK PROTEIN ALLERGY — vomiting, blood or mucus in stools, eczema, irritability, faltering growth.**
+> **· SEPSIS — vomiting is a common non-specific presentation.**
+> **· RAISED INTRACRANIAL PRESSURE — including from ABUSIVE HEAD TRAUMA, hydrocephalus and tumour. A bulging fontanelle, rapidly increasing head circumference, or a tense fontanelle matters.**
+> **· INBORN ERRORS OF METABOLISM** — cross-refer [[M1]] 0.4.
+> **· OBSTRUCTION — duodenal atresia (a "DOUBLE BUBBLE" on radiograph, associated with Down syndrome), intestinal atresia, HIRSCHSPRUNG DISEASE, meconium ileus.**
+> **· NECROTISING ENTEROCOLITIS — predominantly preterm infants, with feeding intolerance, abdominal distension, bloody stools and systemic deterioration; PNEUMATOSIS INTESTINALIS on abdominal radiograph.**
+
+> [!danger] Failure to pass meconium within the first day or two
+> **A neonate should pass meconium within a defined early period. Failure to do so is abnormal and points to:**
+> **· HIRSCHSPRUNG DISEASE — aganglionosis, with delayed meconium, abdominal distension, and sometimes an explosive release of stool and gas on rectal examination. It can present later with severe constipation, and it can present acutely with ENTEROCOLITIS, which is life-threatening.**
+> **· MECONIUM ILEUS — strongly associated with CYSTIC FIBROSIS, and it may be the presenting feature.**
+> **· ANORECTAL MALFORMATION — check that the anus is patent and normally sited on the newborn examination.**
+> Cross-refer [[M5]].
+
+---
+
+## 0.5 Apnoea and BRUE
+
+> [!danger] Apnoea in a term infant is always abnormal
+> **Apnoea of prematurity is a recognised entity in preterm infants and resolves with maturity.**
+> **APNOEA IN A TERM NEONATE OR OLDER INFANT IS NEVER NORMAL and requires explanation.**
+> **The causes: SEPSIS (including meningitis) · SEIZURE · PERTUSSIS (which in infants presents with apnoea rather than a whoop) · BRONCHIOLITIS and RSV · airway obstruction · gastro-oesophageal reflux (a contested association) · METABOLIC disease including hypoglycaemia and electrolyte disturbance · CARDIAC arrhythmia including long QT · raised intracranial pressure · ABUSIVE HEAD TRAUMA · and poisoning.**
+
+> [!info] BRUE — brief resolved unexplained event
+> **This terminology REPLACED the older "apparent life-threatening event (ALTE)"**, because the old term was frightening and non-specific.
+> **BRUE requires: an infant under one year · a BRIEF episode (typically under a minute) that has COMPLETELY RESOLVED with the infant back to baseline · with one or more of: colour change (cyanosis or pallor) · absent, decreased or irregular breathing · a marked change in TONE · or altered responsiveness · AND — critically — NO EXPLANATION after a thorough history and examination.**
+> **The "unexplained" is the key word. If there is an explanation — reflux, a choking episode on a feed, a seizure, an infection — it is not a BRUE, it is that diagnosis.**
+> **Infants are then stratified into LOWER-RISK and HIGHER-RISK groups by age, prematurity, duration, whether CPR was required, and whether it was a first event.** **Lower-risk infants need brief observation, an ECG, education and safety-netting rather than extensive investigation. Higher-risk infants are admitted and investigated.** `UNVERIFIED — the risk criteria.`
+
+> [!danger] The three that must be actively considered in every BRUE
+> **1. NON-ACCIDENTAL INJURY, particularly ABUSIVE HEAD TRAUMA and suffocation.** **A recurrent BRUE, an event witnessed only by one carer, an inconsistent history, or other concerning features should raise it.** Cross-refer [[M6]].
+> **2. PERTUSSIS** — apnoea may be the only feature in a young infant, and the immunisation status of the infant and the household matters. Cross-refer [[M2]] 0.6.
+> **3. CARDIAC ARRHYTHMIA — long QT syndrome. An ECG is recommended in essentially all BRUE presentations**, because it is cheap and the diagnosis has implications for the whole family. Cross-refer [[B3]] 0.3.
+
+> [!warning] Safe sleeping and sudden unexpected death in infancy
+> **The evidence-based safe sleeping advice, which every parent should receive and which every clinician should be able to give:**
+> **· Sleep the baby ON THEIR BACK, every sleep.**
+> **· Keep the FACE AND HEAD UNCOVERED — no loose bedding, pillows, bumpers or soft toys.**
+> **· A SMOKE-FREE environment, before and after birth.**
+> **· A SAFE SLEEP SPACE — a firm, flat mattress in a safe cot, with the baby's own sleep surface.**
+> **· ROOM-SHARE with the baby in the parents' room, in their own cot, for the first months — which is protective, whereas BED-SHARING carries risk, particularly with parental smoking, alcohol, sedating drugs, extreme tiredness, prematurity, or sleeping on a sofa or armchair (which is the highest-risk situation of all).**
+> **· BREASTFEEDING is protective.**
+> **· Avoid OVERHEATING.**
+> **Australian guidance is provided by Red Nose.** `UNVERIFIED — the current recommendations.`
+> **Deliver this without blame** — many parents bed-share, and a conversation about how to reduce risk is more useful than a prohibition that is ignored.
+
+---
+
+## 0.6 Common and Minor Neonatal Problems
+
+> [!tip] The benign skin findings — and one that must be documented
+> **· ERYTHEMA TOXICUM NEONATORUM — blotchy erythematous macules with a central papule or pustule, appearing in the first days, migrating, and resolving spontaneously. Entirely benign, and frequently mistaken for infection.**
+> **· MILIA, neonatal acne, cradle cap, and NAEVUS SIMPLEX ("stork mark", "angel kiss") on the eyelids, glabella and nape.**
+> **· CONGENITAL DERMAL MELANOCYTOSIS (formerly "Mongolian spots") — blue-grey macular pigmentation, most often over the sacrum and buttocks, common in babies with darker skin.** **DOCUMENT THEM CLEARLY IN THE NOTES, INCLUDING SITE AND SIZE — they are repeatedly and distressingly mistaken for BRUISING and have led to child protection referrals.**
+> **· INFANTILE HAEMANGIOMA — appears in the first weeks, proliferates then involutes. Most need no treatment. REFER those that are PERIOCULAR (amblyopia risk) · AIRWAY-related (a "beard distribution" haemangioma suggests airway involvement) · ULCERATING · very large or multiple (consider PHACE syndrome or hepatic haemangiomas) · or in cosmetically sensitive sites.** **PROPRANOLOL is the treatment.**
+
+> [!danger] Three neonatal presentations that are not minor
+> **1. OMPHALITIS — periumbilical ERYTHEMA, induration or discharge.** **In a neonate this is a serious infection that can progress rapidly to necrotising fasciitis, sepsis and portal vein thrombosis.** **It requires intravenous antibiotics, not topical treatment.** Umbilical granuloma (a small pink nodule with no surrounding erythema) is benign by contrast.
+> **2. OPHTHALMIA NEONATORUM — conjunctivitis in the first month.** **PURULENT discharge in the FIRST FEW DAYS suggests GONOCOCCAL infection, which is SIGHT-THREATENING — it can perforate the cornea within days and requires urgent systemic treatment and ophthalmology.** **Onset around days 5 to 14 suggests CHLAMYDIA, which also causes pneumonitis at 4 to 12 weeks.** **Both require systemic (not just topical) treatment, NOTIFICATION, and TREATMENT OF THE MOTHER AND HER PARTNER.** **A "sticky eye" from a blocked nasolacrimal duct is different — it is not purulent, the eye is white, and it resolves.** Cross-refer [[O6]] 0.2 and [[E1]].
+> **3. ABSENT RED REFLEX — check it on every newborn examination. An absent or abnormal red reflex means CONGENITAL CATARACT or RETINOBLASTOMA until proven otherwise, and requires URGENT ophthalmology referral.** **Both are sight-threatening and retinoblastoma is life-threatening; both have far better outcomes with early detection.** Cross-refer [[E1]].
+
+> [!tip] The newborn examination and screening — what it is actually looking for
+> **· RED REFLEX — cataract, retinoblastoma.**
+> **· FEMORAL PULSES — coarctation.**
+> **· HIPS (Barlow and Ortolani) — developmental dysplasia. RISK FACTORS warranting ultrasound screening: BREECH presentation, a FAMILY HISTORY, female sex, and firstborn.** Cross-refer [[M5]].
+> **· TESTES — undescended testis, requiring referral if not descended by the defined age (and note the increased malignancy and fertility implications).** Cross-refer [[H4]] 0.2.
+> **· PALATE — cleft palate is missed if the palate is not both looked at and felt.**
+> **· ANUS — patency and position.**
+> **· SPINE — sacral dimples, hairy patches or masses suggesting spinal dysraphism.**
+> **· NEWBORN BLOODSPOT SCREENING — for congenital hypothyroidism, cystic fibrosis, phenylketonuria and a panel of metabolic conditions. Check the result rather than assuming.**
+> **· NEWBORN HEARING SCREENING — because early detection transforms language outcomes.**
+> **· PULSE OXIMETRY SCREENING for critical congenital heart disease.**
+> `UNVERIFIED — the Australian screening panel and protocols.`
+
+**Ix:** **Split bilirubin in prolonged jaundice, and stool colour inspection** (*why:* biliary atresia is time-critical and both are simple; *what:* conjugated fraction, acholic stools). **Pre- and post-ductal saturations and femoral pulses in any unwell neonate** (*why:* duct-dependent lesions are treatable with prostaglandin and are missed if not sought; *what:* saturation differential, absent pulses). **Bedside glucose** (*why:* neonatal hypoglycaemia causes neurological injury and is rapidly correctable; *what:* low glucose). **Blood gas, lactate, AMMONIA and ketones in an unwell or vomiting neonate** (*why:* inborn errors of metabolism, and ammonia is the test not sent; *what:* acidosis, hyperammonaemia). **Abdominal radiograph and URGENT upper GI contrast study for bile-stained vomiting** (*why:* malrotation with volvulus infarcts the midgut within hours; *what:* abnormal duodenojejunal flexure position). **Ultrasound for suspected pyloric stenosis, with UEC and blood gas BEFORE surgery** (*why:* the alkalosis and electrolyte derangement must be corrected pre-operatively to avoid apnoea; *what:* pyloric measurements, hypochloraemic hypokalaemic alkalosis). **Urine culture in prolonged jaundice, vomiting or unexplained fever** (*why:* UTI presents non-specifically and causes prolonged jaundice; *what:* infection). **ECG in BRUE** (*why:* long QT syndrome, with implications for the family; *what:* QTc). Septic screen where unwell (*why:* sepsis is the commonest serious cause of almost every neonatal presentation; *what:* infection).
+
+---
+
+> [!note] Cross-references
+> The seriously unwell child and the collapsed neonate → [[M1]] 0.4 · Fever in the young infant → [[M2]] 0.2 · Growth faltering and development → [[M4]] · Paediatric GI, hip dysplasia and constipation → [[M5]] · Child protection and abusive head trauma → [[M6]] and [[GER4]] · Bronchiolitis and paediatric respiratory → [[M6]] · Pertussis → [[M2]] 0.6 · Long QT syndrome → [[B3]] 0.3 · Neonatal hypoglycaemia and the critical sample → [[I2]] 0.4 · Congenital adrenal hyperplasia → [[I4]] 0.6 · Hypernatraemia and correction rates → [[I5]] 0.5 · Breastfeeding assessment and support → [[O7]] 0.6 · Ophthalmia neonatorum, cataract and retinoblastoma → [[E1]] and [[O6]] 0.2 · Undescended testis → [[H4]] 0.2 · Neonatal herpes → [[O3]] · Jaundice and liver disease in adults → [[C3]]
+
+
+<!-- ===== SOURCE: 15_22a_Paeds_-_Neonatal_Sepsis_and_Seizures.md ===== -->
+
+
+> [!note] A neonate refers to an infant in the first 28 days of life.
+
+## Neonatal sepsis
+
+- **D:** sepsis in premature babies, divided into early onset (<72h after birth) or late onset.
+
+### Early-onset sepsis
+
+- **A:** organisms acquired from the mother — usually GBS, *E. coli*, or *Listeria*. Others include HSV, *Chlamydia*, anaerobes, and *H. influenzae*.
+- **R:** mother a known carrier of GBS from vagina or urine, or a previous infant affected by this (requires intrapartum antibiotics). Intrapartum maternal pyrexia >38°C or suspected chorioamnionitis. Prolonged (>18h) or pre-labour rupture of membranes. Spontaneous preterm labour (<37 weeks). Suspected maternal invasive bacterial infection.
+
+### Late-onset sepsis
+
+- **A:** organisms acquired from the environment — coagulase-negative Staph, *S. aureus*, *E. coli*, GBS, viral, fungal, etc.
+- **R:** prematurity, low birth weight, central lines and catheters, parenteral nutrition, congenital malformations, immunodeficiency.
+
+### S/Smx and management
+
+- Variable, and can be subtle to frank collapse.
+
+> [!danger] Management of collapse
+> - ABC — crystalloid 20mL/kg (caution if signs of HF).
+> - Fluid refractory shock: inotropes (e.g. dopamine 10mcg/kg/min); intubate, ventilate.
+> - ABG, lactate, glucose, FBC, CRP, U&Es, clotting ± ammonia ± ECG.
+> - Blood culture, CXR, urine (if >72h old), LP, skin swabs ± HSV PCR ± stool virology ± urine MC&S PCR.
+
+- **Mx of sepsis/infection:** antibiotics according to local (Trust) guidelines.
+
+## Neonatal seizures
+
+- Incidence ~4/1000 births. Most occur 12–48h after birth. May be generalised, focal, tonic, clonic, or myoclonic.
+
+> [!info] Causes: hypoxic-ischaemic encephalopathy; infection (meningitis, encephalitis); intracranial haemorrhage/infarction; structural CNS lesion; metabolic disturbance/disorder; neonatal withdrawal from maternal drugs or substance abuse; kernicterus; benign neonatal convulsions (aka 5th day fits, a diagnosis of exclusion).
+
+- **Ix/Dx:** cerebral function analysis monitoring (CFAM) or EEG to confirm seizure activity; video EEG.
+- **Mx:**
+  - ABC, glucose, turn on side if aspiration risk.
+  - A single short seizure does not need to be treated with anticonvulsants.
+  - If prolonged (>3–5 minutes) or repeated seizures, consider anticonvulsants — 1st: phenobarbital; 2nd: phenytoin.
+  - If intractable, consider trials of pyridoxine or biotin supplements.
+  - Consider starting empirical antibiotics.
+  - Insert IV access, get bloods + ABG.
+  - Imaging: US, MRI.
+  - Other tests: toxicology, ammonia, urine organic acids, serum amino acids, karyotype, TORCH screen.
+  - Treat the cause where identified.
+
+
+<!-- ===== SOURCE: 15_22b_Paeds_-_Neonatal_Respiratory_Distress_and_Jaundice.md ===== -->
+
+
+## Neonatal respiratory distress
+
+- **D:** increased work of breathing in the newborn infant.
+- **S/Smx:** ↑RR (>60 breaths/min), ↑work of breathing (chest wall recession, nasal flaring), expiratory grunting ± cyanosis.
+
+### Aetiologies, risk factors, and pathophysiology
+
+> [!info] Causes
+> - **Transient tachypnoea of the newborn** (most common cause) — secondary to ↑amniotic fluid in the lungs, transient as the fluid is usually absorbed or expelled after a while.
+> - **Meconium aspiration** — occurs in utero. R: post-term babies, fetal hypoxia.
+> - **Pneumonia** — R: prolonged rupture of membranes, chorioamnionitis, low birth weight.
+> - **Pneumothorax** (1–2% of births) — may occur secondary to meconium aspiration, ARDS, or as a complication of mechanical ventilation.
+> - **Persistent pulmonary hypertension of the newborn** — can occur as a standalone condition, or associated with hypoxic-ischaemic encephalopathy, meconium aspiration, sepsis, or ARDS.
+> - **Milk aspiration** — R: preterm infants, neurodisability, bronchopulmonary dysplasia, GORD, cleft palate.
+> - **Airway obstruction** — e.g. choanal atresia.
+> - **Pulmonary hypoplasia** — usually associated with syndromes.
+> - **Non-pulmonary causes** — congenital heart disease, diaphragmatic hernia, tracheo-oesophageal fistula, hypoxic ischaemic encephalopathy, severe anaemia, metabolic acidosis, sepsis.
+
+- **Ix:** CXR, bloods (for sepsis).
+- **Mx:** admit to the neonatal unit. Oxygen support depends on needs — ranging from wafting oxygen, NIV (Airvo, CPAP, etc), to mechanical ventilation and ECMO.
+
+## Neonatal jaundice
+
+- **D:** yellow discolouration of the skin and sclera of a neonate due to ↑bilirubin — clinically apparent when bilirubin ≥80µmol/L.
+
+> [!danger] Jaundice starting <24h after birth and/or persisting ≥2 weeks is almost always pathological.
+
+### Jaundice starting <24h after birth
+
+- Haemolytic disorders: Rh incompatibility; ABO incompatibility; G6PD deficiency; spherocytosis, pyruvate kinase deficiency.
+- Congenital infection.
+
+### Jaundice at 24h – 2 weeks of age
+
+- **Physiological jaundice** — occurs due to breakdown of fetal Hb + ineffective hepatic bilirubin breakdown in the first few days.
+- **Breastmilk jaundice** — possibly secondary to ↑enterohepatic circulation of bilirubin. A benign condition that can last ~3 months.
+- Infection, e.g. UTI.
+- Haemolytic causes (as above).
+- Bruising.
+- Polycythaemia.
+- Crigler-Najjar syndrome.
+
+### Jaundice at >2 weeks of age
+
+- **Unconjugated bilirubin:** physiological or breastmilk jaundice; infection (e.g. UTI); hypothyroidism; haemolytic causes (as above); high GI obstruction (e.g. pyloric stenosis).
+- **Conjugated bilirubin:** bile duct obstruction (e.g. biliary atresia); neonatal hepatitis.
+
+### Investigation and management
+
+- **Ix:** bilirubin charting to determine if the baby has crossed the threshold requiring treatment, and other investigations as required to determine the cause (e.g. antenatal antibodies, LFTs, etc).
+- **Mx:**
+  - Phototherapy with blue-green light — converts bilirubin into a water-soluble pigment excreted in urine.
+  - Exchange transfusion required if bilirubin is very high — the baby's blood is taken and replaced with donor blood.
+
+### Complications
+
+> [!danger] Kernicterus — occurs when unconjugated bilirubin is deposited in the basal ganglia and brainstem nuclei. The baby's blood-brain barrier is not completely formed, allowing this to occur. Results in encephalopathy, which can cause seizures, coma, and ultimately death. Long-term sequelae include choreoathetoid cerebral palsy, learning difficulties, sensorineural deafness.
+
+
+<!-- ===== SOURCE: 15_23a_Paeds_-_NEC__Neonatal_Hypoglycaemia__Hypotonia.md ===== -->
+
+
+## Necrotising enterocolitis (NEC)
+
+- **D:** ischaemic necrosis of the intestinal mucosa.
+- **R:** preterm (the more preterm the baby, the higher the risk), IUGR, perinatal asphyxia.
+- **A/P:** not fully understood, but thought to be associated with ischaemic injury, bacterial invasion of the bowel wall, and an altered gut microbiome.
+- **S/Smx:**
+  - Early: feeding intolerance, vomiting (± bile stained), abdominal distension, bloody stools.
+  - Later: abdominal discolouration, shock (secondary to perforation), peritonism.
+- **Ix:** XR — distended loops of bowel, thickening of the bowel wall with intramural gas (pneumatosis intestinalis), portal venous gas, etc.
+- **Mx:**
+  - Stop PO feeding, switch to parenteral nutrition.
+  - Give broad spectrum antibiotics (aerobic and anaerobic bacteria cover).
+  - Mechanical ventilation and circulatory support often required.
+  - Surgical management if bowel perforation or failure of medical management.
+- **Complications:** 20% mortality. Long-term sequelae: bowel strictures, malabsorption, ↑risk of poor neurodevelopmental outcome.
+
+## Neonatal hypoglycaemia
+
+- **D:** no fixed definition; generally <2.6mmol/L.
+
+> [!info] Causes/risk factors: may be transient in the first hours after birth (common); preterm birth (<37 weeks); maternal diabetes; IUGR; hypothermia; neonatal sepsis; inborn errors of metabolism; nesidioblastosis (diffuse islet cell hyperplasia arising from pancreatic ductal epithelium); Beckwith-Wiedemann syndrome (congenital overgrowth syndrome).
+
+- **S/Smx:** may be asymptomatic. Autonomic symptoms: jittery baby, irritable, ↑RR, pallor. Neuro symptoms: poor feeding/sucking, weak cry, drowsy, hypotonia, seizures. Others: apnoea, hypothermia.
+- **Mx:**
+  - If the baby is still awake & able, encourage PO feeding + monitor pre-feeding sugars.
+  - If the baby is symptomatic or has very low blood glucose: IV infusion of 10% dextrose; admit and monitor on the neonatal unit.
+
+## Neonatal hypotonia
+
+> [!info] Causes: neonatal sepsis; Werdnig-Hoffmann disease (spinal muscular atrophy subtype); hypothyroidism; syndromes (Down syndrome, Prader-Willi syndrome); maternal drug use (e.g. benzodiazepines); maternal myasthenia gravis.
+
+- **Ix:** very extensive to find the cause (including bloods, genetics, MRI brain).
+- **Mx:** respiratory and feeding support as required.
+
+
+<!-- ===== SOURCE: 15_23b_Paeds_-_Minor_Neonatal_Problems.md ===== -->
+
+
+## Infantile haemangioma (strawberry naevus)
+
+- **D:** benign vascular lesion that typically appears within the first few weeks of life.
+- **R:** low birth weight, prematurity, white ethnicity, F>M (5:1).
+- **S/Smx:** 80% appear by the first 3 months of life. Max size at ~9 months. Flat or nodular lesion. Involution occurs, with 90% completion by age 4. Commonly appears on the face, scalp, and back.
+- **Potential complications:** mechanical (rarely, if it develops in the upper airway, can cause obstruction); bleeding; ulceration; thrombocytopaenia.
+- **Ix:** generally not necessary unless there is doubt about the diagnosis — Doppler ultrasound would be first line.
+- **Mx:** watch and wait, unless large or over a critical area (e.g. joint, eye) — propranolol to shrink.
+
+## Milia
+
+- **D:** benign, transient, subepidermal keratin-filled cysts.
+- **S/Smx:** white bumps, commonly on the face, 1–2mm wide. Present in about half of newborns. Usually resolves spontaneously by 1 month old.
+
+## Erythema toxicum neonatorum
+
+- **D:** rash (reddish wheals with central white/yellow pustules) found in newborns.
+- **A:** possibly a reaction to meconium.
+- **S/Smx:** presents within the first week of life; resolves within 7–14 days. The rash may be exacerbated by heat. Most lesions are temporary, disappearing within a few hours and reappearing elsewhere.
+
+## Miliaria crystallina
+
+- **D:** cutaneous eruption due to retention of sweat, from occlusion or disruption of eccrine sweat ducts.
+- **S/Smx:** asymptomatic; clear vesicles that rupture easily; self-resolving.
+- **Miliaria rubra:** surrounding rash and pruritus present.
+- **Mx:** ensure the baby is not too warm; generally self-resolving (hours to days).
+
+## Stork bites (salmon patches)
+
+- **D:** benign areas of capillary dilation on the eyelids, forehead, or back of the neck.
+- **S/Smx:** slight redness in those areas, fading within hours/days.
+
+## Umbilicus
+
+- After birth, it should dry and separate by ~1 week, but may persist for up to 3 weeks.
+- Infection (omphalitis) is rare.
+- Granuloma: table salt application twice a day for 2 days usually results in complete resolution.
+
+## Sticky eye
+
+- Common in newborns.
+- Try applying mother's breast milk to the sticky eye, or cleanse gently — should resolve.
+- If persistent, may be due to a blocked tear duct.
+- Treat as infection if copious secretions, purulent discharge, or conjunctivitis.
+
+## Red-stained nappy
+
+> [!info] DDx: urinary urate crystals (more likely when the baby is dehydrated); blood from the cord; blood from the baby's vagina (due to oestrogen withdrawal — "pseudo-menstruation").
+
+- Generally not a cause for concern if the baby is systemically well.
+
+## Harlequin colour change
+
+- **D:** transient, episodic, demarcated erythema on the left or right side, with contralateral blanching.
+- Benign and self-limiting.
+
+## Caput succedaneum
+
+- **D:** oedema of the scalp at the presenting part of the head.
+- **S/Smx:** usually presents at birth; soft, puffy swelling due to localised oedema; crosses suture lines.
+- **Mx:** watch and wait, self-resolving within days.
+
+## Cephalohaematoma
+
+- **D:** haematoma secondary to bleeding between the periosteum and skull (typically at the parietal region).
+- **S/Smx:** usually presents hours after birth; swelling does NOT cross suture lines.
+- **Ix:** bilirubin + LFTs (jaundice may develop due to breakdown of Hb).
+- **Mx:** watch and wait if not severe — may take up to 3 months to resolve. Other management dependent on severity.
+
+## Cradle cap
+
+- **D:** seborrhoeic dermatitis on the skull.
+- **S/Smx:** usually develops in the first few weeks of life. Erythematous rash + coarse yellow scales (can come in large patches). Rash can also appear on the nappy area, face, and limb flexures.
+- **Mx:** reassurance that it doesn't affect the baby and will resolve in a few weeks. Massage topical emollient onto the scalp to loosen scales, remove with a soft brush and shampoo. If severe/persistent, trial of topical imidazole cream.
+- **P:** usually resolves by 8 months.
+
+*(For developmental dysplasia of the hip, see [[11_10_Ortho_-_Paediatric_Orthopaedics]] Developmental dysplasia of the hip (DDH); birth injuries specifically are not yet built pending an Obstetrics category upload.)*
+
+
+<!-- ===== SOURCE: 16_08-09_Antenatal_and_Perinatal_Problems.md ===== -->
+*Moved here from `OBGYN_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## Birth injuries
+
+| Injury | Description |
+|---|---|
+| Moulding (not an injury) | Overriding of skull bones |
+| Cephalhaematoma | Subperiosteal swelling, limited by suture lines, fluctuant; may take weeks to resolve; may contribute to jaundice |
+| Caput succedaneum | Oedematous scalp swelling superficial to periosteum; **not** limited by suture lines; from venous congestion + exuded serum during labour ("chignon" if ventouse-caused); resolves in first few days |
+| Erb's palsy | Brachial trunk nerve damage — flaccid arm/hand in fixed posture; most resolve; exclude fractured clavicle, arrange physio; unlikely to improve further if not resolved by 6 months |
+| Subaponeurotic haematoma | Blood between aponeurosis and periosteum; associated with vacuum extraction; may contribute to anaemia or jaundice |
+| Skull fractures | Associated with difficult forceps delivery or impacted head at 2nd-stage C-section; parietal/frontal bones most affected; check CNS signs → neurosurgery consult |
+| Intracranial injuries | ICH associated with difficult/fast labour, instrumental or breech delivery, especially in premature babies; anoxia may cause intraventricular haemorrhage; asphyxia may cause ICH → cerebral palsy (extradural, subdural, or subarachnoid); supportive Mx |
+| Fetal laceration | 1–2% of C-section deliveries (more common in breech C-section and post-membrane-rupture C-section); most superficial, heal without scarring; warn parents when consenting for C-section |
+
+*See 15.23 for minor neonatal problems.*
+
+<!-- ===== SOURCE: M4_Growth_and_Development.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Frameworks, discriminators and clinical reasoning are reliable at intern level. **Every milestone age, centile threshold, formula and referral criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
+> **Milestone limit ages differ between references and must come from a current source** — use the **Royal Children's Hospital Melbourne guidelines**, the **Australian child health record ("blue book" equivalent)** and your state's child health service materials.
+>
+> **Puberty and its disorders are built in [[O6]] 0.6** and **adolescent health in [[M7]]** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Measuring and Plotting Growth
+
+> [!danger] The trajectory matters more than the centile
+> **A child tracking steadily along the 3rd centile is usually normal — they are simply small.**
+> **A child CROSSING DOWN through centiles is abnormal, even if they are still on the 50th.**
+> **This is the single most important principle in growth assessment, and it means a single measurement is nearly uninterpretable.** **You need serial measurements plotted over time**, which is why the child health record and previous weights are worth chasing.
+> **Growth is the most sensitive general indicator of a child's health** — chronic disease of almost any kind shows up in the growth chart before it shows up elsewhere.
+
+> [!tip] Plot everything, on the right chart
+> **· WEIGHT · LENGTH or HEIGHT · HEAD CIRCUMFERENCE (routinely to about age two or three) · and BMI in older children.**
+> **· Use the appropriate chart for age and population, and CONDITION-SPECIFIC charts where they exist — Down syndrome, Turner syndrome, and preterm infants.**
+> **· CORRECT FOR PREMATURITY until the defined age.** **Failing to correct makes a normally growing preterm infant look like they are failing.** `UNVERIFIED — the chart in use and the age to which correction applies.`
+> **· TECHNIQUE matters: LENGTH is measured lying down with two people to about age two; HEIGHT standing thereafter — and the transition produces an artefactual drop of a centimetre or two that should not be over-interpreted.** Infants are weighed naked.
+
+> [!warning] Head circumference — and the pattern that means urgent imaging
+> **A RAPIDLY INCREASING head circumference crossing centiles upward means RAISED INTRACRANIAL PRESSURE until proven otherwise — hydrocephalus, tumour, or a SUBDURAL COLLECTION from abusive head trauma.**
+> **Look also for: a tense or bulging fontanelle · splayed sutures · "sunsetting" eyes · vomiting · irritability or lethargy · and developmental regression.**
+> **MICROCEPHALY** — congenital infection, genetic syndromes, perinatal injury, or a familial small head (check the parents' head circumferences before alarming anyone).
+> Cross-refer [[M6]] and [[M1]] 0.5.
+
+> [!tip] Mid-parental height puts the child in family context
+> **Calculate the expected height range from the parents' heights and compare it with the child's projected adult height.**
+> **A child who is short but tracking within their genetic target range is a different problem from one who is short relative to their own family.**
+> **Measure the parents if they are present rather than accepting reported heights** — reported heights are unreliable, usually upward. `UNVERIFIED — the mid-parental height formula and target range.`
+
+---
+
+## 0.2 Growth Faltering
+
+> [!info] Terminology and definition
+> **"GROWTH FALTERING" has largely replaced "failure to thrive"**, which was stigmatising and implied fault, usually maternal.
+> **It describes sustained downward centile crossing of weight, or a weight substantially below that expected for age or length.** `UNVERIFIED — the centile-crossing thresholds.`
+> **THE SEQUENCE OF FALTERING INDICATES SEVERITY AND CHRONICITY:**
+> **WEIGHT falls FIRST → then LENGTH/HEIGHT (stunting, indicating a more chronic process) → then HEAD CIRCUMFERENCE (indicating a severe or prolonged insult, or a primary neurological cause).**
+> **A child whose weight has fallen but whose length and head circumference are preserved has a shorter-duration, usually nutritional problem. A child whose head circumference has faltered is a different and more concerning presentation.**
+
+> [!tip] The four-category framework
+> **1. INADEQUATE INTAKE — by far the commonest.**
+> **· Feeding technique — poor attachment, inadequate milk transfer, incorrect formula preparation (both over- and under-concentration).**
+> **· FOOD INSECURITY and poverty — ask, gently and directly.**
+> **· Oral-motor difficulty, cleft palate, neurological impairment, tongue tie.**
+> **· Feeding aversion and ARFID** — cross-refer [[N8]] 0.5.
+> **· Adenotonsillar hypertrophy causing feeding fatigue and sleep-disordered breathing.**
+> **· NEGLECT.**
+> **2. INADEQUATE ABSORPTION.**
+> **· COELIAC DISEASE — classically presenting after the introduction of gluten, with growth faltering, abdominal distension, irritability and abnormal stools.**
+> **· CYSTIC FIBROSIS — with steatorrhoea, recurrent chest infections, and a positive newborn screen (check it).**
+> **· Cow's milk protein allergy · inflammatory bowel disease · giardiasis · post-infectious enteropathy · short gut.**
+> **3. INCREASED REQUIREMENTS.**
+> **· CONGENITAL HEART DISEASE — sweating with feeds, tachypnoea, hepatomegaly.** Cross-refer [[M3]] 0.2.
+> **· Chronic lung disease · chronic or recurrent infection including recurrent UTI, HIV and TB · malignancy · hyperthyroidism · chronic inflammation · chronic kidney disease.**
+> **4. INADEQUATE UTILISATION — metabolic, chromosomal and endocrine disorders.**
+
+> [!danger] The psychosocial dimension — consider it, sensitively, in every case
+> **Poverty and food insecurity · parental mental illness, particularly maternal depression · family violence · substance use · social isolation and lack of support · and neglect.**
+> **These are common and they are frequently the answer** — but the conversation has to be handled without accusation, because a defensive family disengages and the child loses the follow-up.
+> **Ask about practicalities: "how are things at home?", "is there enough food to go around?", "who's helping you?", "how are YOU going?"**
+> **And hold neglect in mind as a possibility while working with the family — the two are not mutually exclusive, and a child protection concern does not require certainty.** Cross-refer [[M6]] and [[GER4]].
+
+> [!warning] Investigate in a targeted way, not with a panel
+> **Most children with growth faltering have INADEQUATE INTAKE and NO organic disease**, and an extensive laboratory workup in a child with a clear feeding history is unhelpful.
+> **The assessment that matters is CLINICAL: a detailed feeding and dietary history · OBSERVING A FEED or a meal · a full systems review · a full examination including dysmorphic features, development, and evidence of chronic disease · and the growth chart over time.**
+> **A reasonable baseline where investigation is warranted: FBC and film, ferritin, UEC, LFT, COELIAC serology (with total IgA), TFTs, CRP, urinalysis and urine culture.** **Then targeted tests as the history directs — sweat test, stool studies, imaging.**
+> **Management is multidisciplinary: DIETITIAN, feeding support (speech pathology or lactation consultant as appropriate), child health nurse, treatment of any identified cause, energy supplementation, and social supports.**
+
+---
+
+## 0.3 Short Stature
+
+> [!tip] Two questions sort the differential
+> **1. IS IT PROPORTIONATE OR DISPROPORTIONATE?** **Disproportion (a short trunk or short limbs relative to the rest) points to a SKELETAL DYSPLASIA or rickets, and is assessed by measuring sitting height and arm span alongside standing height.**
+> **2. IS THE GROWTH VELOCITY NORMAL OR REDUCED?** **A child who is short but growing at a normal rate along their own centile is likely a normal variant. A child whose growth velocity has FALLEN is likely pathological.**
+> **Growth velocity — the rate of change over time — is far more informative than any single height measurement.**
+
+> [!danger] Bone age distinguishes the two normal variants
+> **· FAMILIAL SHORT STATURE — short parents, a height appropriate to the mid-parental range, NORMAL growth velocity, BONE AGE EQUAL TO CHRONOLOGICAL AGE, puberty at the normal time, and a short but genetically appropriate final height.**
+> **· CONSTITUTIONAL DELAY OF GROWTH AND PUBERTY — often a family history of being a "late developer", DELAYED BONE AGE, delayed puberty, and — crucially — a NORMAL FINAL ADULT HEIGHT once growth continues for longer.**
+> **The bone age radiograph is the key discriminating investigation**, and the distinction matters enormously to an adolescent boy and his family: constitutional delay reaches a normal height, familial short stature does not.
+> **Constitutional delay is a diagnosis of exclusion** — chronic disease, coeliac disease, hypothyroidism and Turner syndrome must be excluded first.
+
+> [!warning] The pattern that distinguishes endocrine from nutritional causes
+> **This is a genuinely useful discriminator:**
+> **· NUTRITIONAL or systemic disease → the child is SHORT and THIN. Weight is affected FIRST and more than height.**
+> **· ENDOCRINE causes (growth hormone deficiency, hypothyroidism, Cushing syndrome, corticosteroid excess) → the child is SHORT with RELATIVELY PRESERVED OR INCREASED WEIGHT — short and plump.** **Height is affected more than weight.**
+> **A short, overweight child is more likely to have an endocrine cause; a short, thin child is more likely to have inadequate nutrition or chronic disease.**
+
+> [!danger] Check a karyotype in any unexplained short girl
+> **TURNER SYNDROME (45,X and variants) is a common and treatable cause of short stature in girls, and it can present with SHORT STATURE AS THE ONLY FEATURE.**
+> **The classic features — webbed neck, widely spaced nipples, cubitus valgus, low hairline, lymphoedema — are frequently ABSENT or subtle.**
+> **Associations that matter: COARCTATION OF THE AORTA and bicuspid aortic valve (with a lifelong risk of aortic dissection) · horseshoe kidney · recurrent otitis media and hearing loss · autoimmune thyroid disease and coeliac disease · and gonadal dysgenesis with delayed puberty and infertility.**
+> **Growth hormone improves final height, and the diagnosis has lifelong cardiac, endocrine and reproductive implications — which is why the karyotype should be checked rather than assumed unnecessary.**
+
+> [!warning] Red flags in a short child
+> **· FALLING growth velocity or downward centile crossing.**
+> **· Height substantially below the mid-parental target range.**
+> **· DISPROPORTION.**
+> **· Dysmorphic features.**
+> **· HEADACHE, VOMITING or VISUAL FIELD DEFECTS — a CRANIOPHARYNGIOMA or other intracranial lesion can present as growth failure, and a suprasellar mass compresses the optic chiasm.** **Check the visual fields and fundi in a child with unexplained growth failure.**
+> **· Symptoms of chronic disease — diarrhoea, abdominal pain, recurrent infection, fatigue.**
+> **· Delayed or absent puberty.**
+
+**Ix:** **Serial heights plotted, with GROWTH VELOCITY calculated** (*why:* the rate of growth discriminates normal variants from pathology far better than a single measurement; *what:* velocity, centile crossing). **BONE AGE radiograph (left hand and wrist)** (*why:* distinguishes familial short stature from constitutional delay and estimates growth potential; *what:* delayed or appropriate bone age). **KARYOTYPE in any unexplained short girl** (*why:* Turner syndrome may present with short stature alone; *what:* 45,X or mosaic). **Coeliac serology with total IgA** (*why:* coeliac disease causes growth failure with minimal gastrointestinal symptoms, and IgA deficiency causes false negatives; *what:* tissue transglutaminase IgA). **TFTs** (*why:* hypothyroidism is treatable and presents with short stature and weight gain; *what:* raised TSH). FBC, ferritin, UEC, LFT, CRP, calcium, phosphate, ALP, vitamin D (*why:* chronic disease, rickets, and inflammatory conditions; *what:* the abnormality). **IGF-1 and growth hormone stimulation testing** where growth hormone deficiency is suspected (*why:* random growth hormone is uninterpretable because secretion is pulsatile; *what:* low IGF-1, failed stimulation response). **MRI brain and pituitary where growth hormone deficiency is confirmed, or where there are visual or neurological features** (*why:* craniopharyngioma and other suprasellar lesions; *what:* mass). Urinalysis and renal function (*why:* occult renal disease causes growth failure; *what:* proteinuria, impairment).
+
+---
+
+## 0.4 Tall Stature, Obesity and Puberty
+
+> [!tip] Tall stature is usually familial — but check for the syndromes
+> **· MARFAN SYNDROME — tall with disproportionately long limbs and arm span exceeding height, arachnodactyly, joint hypermobility, high-arched palate, pectus deformity, scoliosis, LENS DISLOCATION (upward), and — the reason it matters — AORTIC ROOT DILATATION AND DISSECTION.** **Echocardiography and ophthalmology assessment, and family screening.**
+> **· KLINEFELTER SYNDROME (47,XXY) — tall, with long limbs, small firm testes, gynaecomastia, reduced secondary sexual hair, learning and behavioural difficulties, and infertility.** Frequently diagnosed late or never.
+> **· HOMOCYSTINURIA — a marfanoid habitus with DOWNWARD lens dislocation, intellectual disability, and a thrombotic tendency.** The lens direction distinguishes it from Marfan syndrome.
+> **· PRECOCIOUS PUBERTY — tall as a child, but SHORT as an adult because of early epiphyseal fusion.**
+> **· Growth hormone excess, Sotos syndrome, hyperthyroidism.**
+
+> [!warning] Childhood obesity — the height tells you whether it is endocrine
+> **THE DISCRIMINATOR: exogenous (nutritional) obesity makes children TALL for their age. Endocrine causes make them SHORT.**
+> **· TALL and obese → almost always exogenous. Extensive endocrine investigation is not warranted.**
+> **· SHORT and obese → investigate: HYPOTHYROIDISM · CUSHING SYNDROME · growth hormone deficiency · PRADER-WILLI syndrome · and other genetic syndromes.**
+> **Complications to screen for: type 2 diabetes and insulin resistance · metabolic dysfunction-associated steatotic liver disease · obstructive sleep apnoea · hypertension and dyslipidaemia · SLIPPED UPPER FEMORAL EPIPHYSIS (a specifically orthopaedic risk — cross-refer [[M5]]) · and the substantial psychosocial burden including bullying and low self-esteem.**
+> **Management is FAMILY-BASED and behavioural, and the language used matters enormously.** **Weight stigma in healthcare is harmful and counterproductive** — cross-refer [[I5]] 0.1. **Avoid weighing and discussing weight in front of siblings, avoid moralising about food, and focus on health behaviours and family patterns rather than on the number.**
+
+> [!tip] Puberty — normal, precocious and delayed
+> The detail is in **[[O6]] 0.6.** The points to carry:
+> **· The normal SEQUENCE: in girls, breast development first, then pubic hair, then the growth spurt, then menarche. In boys, TESTICULAR ENLARGEMENT first, then pubic hair, then the growth spurt and voice change.** **Testicular volume is the first sign in boys and is measured with an orchidometer — pubic hair without testicular enlargement suggests an adrenal androgen source rather than true puberty.**
+> **· PRECOCIOUS PUBERTY — central (gonadotrophin-dependent) or peripheral. It is more often IDIOPATHIC IN GIRLS and more often PATHOLOGICAL IN BOYS — so a boy with precocious puberty requires CNS imaging.**
+> **· DELAYED PUBERTY — constitutional delay is commonest, but exclude chronic disease, coeliac disease, hypothyroidism, TURNER and KLINEFELTER syndromes, undernutrition and excessive exercise, and KALLMANN SYNDROME (hypogonadotrophic hypogonadism with ANOSMIA — ask about the sense of smell).**
+> **· The growth spurt occurs EARLIER in girls and LATER in boys**, which is why a short 13-year-old boy alongside taller female peers is usually normal — and why it is nonetheless distressing and worth taking seriously.
+
+---
+
+## 0.5 Developmental Milestones and Surveillance
+
+> [!info] Four domains — assess all of them
+> **1. GROSS MOTOR**
+> **2. FINE MOTOR AND VISION**
+> **3. SPEECH, LANGUAGE AND HEARING**
+> **4. SOCIAL, EMOTIONAL AND BEHAVIOURAL**
+> **Delay in ONE domain has a different differential from GLOBAL delay across all four** — isolated motor delay suggests a neuromuscular or cerebral cause; isolated speech delay suggests hearing loss first; global delay suggests a genetic, metabolic or acquired brain cause.
+> **Use LIMIT AGES (the age by which a skill should be present) rather than average ages** — the average is what most children do, the limit age is what should prompt concern. `UNVERIFIED — all milestone limit ages; use a current reference.`
+
+> [!danger] The red flags that require action rather than reassurance
+> **· ANY LOSS OF PREVIOUSLY ACQUIRED SKILLS — see the box below. This is the most important one.**
+> **· HAND PREFERENCE BEFORE ABOUT 12–18 MONTHS.** **Established handedness in an infant is ABNORMAL and suggests a HEMIPLEGIA — the child is not preferring one hand, they are unable to use the other.** **This is a specific, easily elicited and frequently missed sign.**
+> **· PERSISTENT PRIMITIVE REFLEXES beyond the age at which they should have integrated.**
+> **· Not smiling responsively, not fixing and following, no response to sound.**
+> **· Not sitting, not walking, or no words by the relevant limit ages.**
+> **· Marked asymmetry of movement or tone.**
+> **· PARENTAL CONCERN — which, as in acute illness, is a genuine signal and should be acted on.**
+> `UNVERIFIED — the specific limit ages for each milestone.`
+
+> [!danger] Regression is always pathological
+> **LOSS OF PREVIOUSLY ACQUIRED SKILLS IS NEVER NORMAL and requires urgent investigation.**
+> **The differential: NEURODEGENERATIVE and metabolic disease · EPILEPTIC ENCEPHALOPATHIES (including Landau-Kleffner syndrome, where language regresses with an abnormal EEG) · RETT SYNDROME (in girls, with regression, loss of purposeful hand use and stereotypic hand-wringing) · brain tumour · hydrocephalus · infection · ABUSIVE HEAD TRAUMA · and severe neglect.**
+> **Note that some autistic children show a plateau or apparent loss of social and language skills in the second year — this is recognised, but it does NOT excuse skipping the investigation of regression**, because the other causes are treatable or serious.
+
+> [!warning] Always check hearing and vision
+> **This is the most commonly omitted step in a developmental assessment, and it is the most likely to yield a treatable cause.**
+> **· HEARING — a child with speech and language delay has hearing loss until proven otherwise.** **Both permanent sensorineural loss (which newborn screening detects, but which can be acquired or progressive) and CONDUCTIVE loss from OTITIS MEDIA WITH EFFUSION ("glue ear"), which is extremely common, fluctuating, and a genuine cause of language and educational delay — and which is disproportionately prevalent and persistent in Aboriginal and Torres Strait Islander children.** Cross-refer [[F1]] and [[AU1]] 0.4.
+> **· VISION — visual impairment presents as developmental delay, poor eye contact (which may be misattributed to autism), and delayed motor skills.**
+> **Formal audiology and ophthalmology assessment, not a bedside impression.**
+
+> [!tip] The Australian surveillance framework
+> **Routine developmental surveillance occurs through: the CHILD HEALTH RECORD held by parents (the "blue book" or state equivalent) · scheduled CHILD HEALTH CHECKS by community child health nurses and general practitioners at defined ages · immunisation visits as an opportunity · and school entry health assessments.**
+> **The Aboriginal and Torres Strait Islander child health check (part of the 715 framework) provides a structured opportunity.** Cross-refer [[AU1]] 0.1.
+> **Surveillance is continuous and opportunistic rather than a one-off screen** — every contact with a child is a chance to look at the growth chart and ask about development. `UNVERIFIED — the current schedule and checks.`
+
+---
+
+## 0.6 Developmental Delay and Neurodevelopmental Conditions
+
+> [!tip] Terminology
+> **· GLOBAL DEVELOPMENTAL DELAY — significant delay in two or more domains, used in children under about five, where the future trajectory is uncertain.**
+> **· INTELLECTUAL DISABILITY — diagnosed in older children after formal cognitive and adaptive assessment.**
+> **The distinction matters because delay in a young child does not necessarily predict intellectual disability, and premature labelling harms.**
+
+> [!warning] The causes, and how often no cause is found
+> **· GENETIC AND CHROMOSOMAL — Down syndrome, fragile X, microdeletion and microduplication syndromes, single gene disorders.**
+> **· PRENATAL — congenital infection (cytomegalovirus is the commonest infectious cause of neurodevelopmental disability and is frequently unrecognised) · teratogens · and FETAL ALCOHOL SPECTRUM DISORDER.**
+> **FASD is an important and under-diagnosed cause in Australia**, with growth restriction, characteristic facial features, and neurodevelopmental impairment — and its prevention is a public health matter rather than an individual failing. Cross-refer [[AU1]] and [[N2]] 0.2.
+> **· PERINATAL — hypoxic-ischaemic encephalopathy, extreme prematurity, kernicterus, hypoglycaemia.**
+> **· POSTNATAL — meningitis and encephalitis, traumatic brain injury including ABUSIVE head trauma, near-drowning, lead exposure, and severe neglect.**
+> **· METABOLIC and neurodegenerative disorders.**
+> **In a substantial proportion, no cause is identified** — and telling families this honestly, rather than continuing indefinite investigation, is part of good care.
+
+> [!danger] Check a creatine kinase in a boy with motor delay
+> **DUCHENNE MUSCULAR DYSTROPHY presents with delayed walking, toe-walking, difficulty climbing stairs, frequent falls, calf pseudohypertrophy, and GOWERS SIGN (climbing up their own legs to stand).**
+> **THE CK IS MARKEDLY RAISED — often to many times normal — and it is a cheap, simple test.**
+> **The diagnosis is frequently delayed by years**, because early motor delay is attributed to normal variation and because the CK is not checked.
+> **A BOY WITH MOTOR DELAY, LATE WALKING OR AN ABNORMAL GAIT SHOULD HAVE A CK.** **Early diagnosis matters for treatment, for surveillance, and critically for GENETIC COUNSELLING — because carrier mothers may have further affected sons in the interim.** Cross-refer [[D4]] 0.6.
+
+> [!tip] Cerebral palsy
+> **A group of permanent disorders of movement and posture attributed to a NON-PROGRESSIVE lesion in the developing brain.** **Non-progressive is the key word — the lesion does not change, but the clinical picture does as the child grows.**
+> **Types: SPASTIC (commonest — hemiplegic, diplegic, quadriplegic) · DYSKINETIC · ATAXIC · mixed.** Functional classification uses the Gross Motor Function Classification System.
+> **The comorbidities determine quality of life more than the motor impairment does: EPILEPSY · intellectual disability · communication impairment · FEEDING difficulty and aspiration · HIP DISPLACEMENT (which requires a formal SURVEILLANCE program with regular radiographs, because silent progressive subluxation leads to painful dislocation) · scoliosis · constipation · sleep disturbance · and PAIN, which is very common and markedly under-recognised in children who cannot report it.**
+> **Early intervention improves function**, and the diagnosis can now be made earlier than was traditional. Cross-refer [[N2]] 0.5 for behavioural presentations in children with disability.
+
+> [!warning] Autism spectrum — the early signs, and who gets missed
+> **Persistent difficulties in SOCIAL COMMUNICATION AND INTERACTION, plus RESTRICTED AND REPETITIVE patterns of behaviour, interests or activities, present from early development.**
+> **The early signs worth knowing: reduced or absent JOINT ATTENTION (not following a point, not pointing to share interest) · not responding to their NAME · limited eye contact · absent or reduced PRETEND PLAY · loss or absence of babbling and gesture · unusual sensory responses · and repetitive movements.**
+> **WHO GETS MISSED:**
+> **· GIRLS — who more often mask and camouflage, present with anxiety or eating difficulties, and are diagnosed later or misdiagnosed.**
+> **· Children with average or high intelligence, who compensate until social demands exceed their capacity — often at high school transition.**
+> **· ADULTS, increasingly recognised, often after their own child is diagnosed.**
+> **EARLY INTERVENTION improves outcomes**, and in Australia access is largely through the **NDIS**, with the early childhood approach for young children. **Knowing that the NDIS exists and how to initiate access is a practical and valuable thing to be able to tell a family.** `UNVERIFIED — current NDIS access pathways and eligibility.`
+> **Autistic people have higher rates of coexisting ADHD, anxiety, epilepsy, gastrointestinal problems, sleep disorder and ARFID** — cross-refer [[M7]] and [[N8]] 0.5.
+
+> [!tip] Supporting the family
+> **· Diagnosis disclosure is a significant event.** Give it in a planned appointment with both parents where possible, allow time, expect grief, and provide written information and a follow-up appointment — **people retain very little of what is said at the moment of diagnosis.** Cross-refer [[GER5]].
+> **· Acknowledge the grief without pathologising it, and without rushing to reassurance.**
+> **· Ask about SIBLINGS and about the parents' own wellbeing and relationship.**
+> **· Connect them with early intervention, funding pathways, peer and parent support organisations, and respite where appropriate.**
+> **· Emphasise what the child CAN do and what will help, not only the deficits** — families are given a great deal of deficit and very little direction.
+
+**Ix:** **HEARING and VISION assessment first, formally** (*why:* the most likely treatable contributors to developmental concern, and the most commonly omitted step; *what:* sensorineural or conductive loss, visual impairment). **CREATINE KINASE in any boy with motor delay** (*why:* Duchenne muscular dystrophy, where diagnostic delay has genetic counselling consequences for the family; *what:* markedly raised CK). **Chromosomal microarray and fragile X testing** (*why:* the first-line genetic investigations in global developmental delay; *what:* copy number variants, FMR1 expansion). TFTs (*why:* congenital and acquired hypothyroidism; *what:* raised TSH). Ferritin and lead where indicated (*why:* iron deficiency and lead exposure affect development; *what:* deficiency, elevated lead). **MRI brain where there are focal neurological signs, regression, microcephaly or macrocephaly, or seizures** (*why:* structural and neurodegenerative causes; *what:* malformation, injury, white matter change). **EEG where there is regression, particularly of language, or suspected seizures** (*why:* epileptic encephalopathy is treatable and presents as regression; *what:* epileptiform activity). Metabolic screening where regression, unexplained global delay, consanguinity or a suggestive family history (*why:* some metabolic causes are treatable; *what:* the specific disorder). **Formal developmental and cognitive assessment** (*why:* characterises the profile, which directs intervention and educational support far better than a label; *what:* domain-specific strengths and difficulties).
+
+---
+
+> [!note] Cross-references
+> The seriously unwell child → [[M1]] · Fever and infection in children → [[M2]] · Neonatal problems, jaundice and cyanosis → [[M3]] · Paediatric GI, hip dysplasia and SUFE → [[M5]] · Child protection, neglect and abusive head trauma → [[M6]] and [[GER4]] · Adolescent health, ADHD and school refusal → [[M7]] · Puberty, precocious and delayed → [[O6]] 0.6 · Duchenne muscular dystrophy → [[D4]] 0.6 · Hearing loss and otitis media with effusion → [[F1]] · Turner syndrome, coarctation and aortic disease → [[B5]] 0.1 · Congenital heart disease → [[M3]] 0.2 · Coeliac disease → [[C5]] 0.4 · Cystic fibrosis and bronchiectasis → [[RESP-X]] 0.4 · Obesity and weight stigma → [[I5]] 0.1 · ARFID and feeding aversion → [[N8]] 0.5 · Fetal alcohol spectrum disorder → [[AU1]] and [[N2]] 0.2 · Breaking bad news and diagnosis disclosure → [[GER5]] · Child health checks and immunisation → [[GER3]] and [[AU1]] 0.1
+
+
+<!-- ===== SOURCE: 15_19a_Paeds_-_Developmental_Milestones_and_Delay.md ===== -->
+
+
+## Developmental milestones and red flags
+
+| Age | Milestones | Red flags |
+|---|---|---|
+| **6 weeks** | Smiles; eyes follow an object past midline | Strabismus persisting >3 months |
+| **4–6 months** | Sits with support; rolls; good head control; reaches out for objects; transfers objects hand to hand; starts babbling | At 6 months: ↓eye contact; no smile; no grasp; not rolling; poor head control |
+| **6–9 months** | Crawls; sits with support; pulls to stand; gives toy on request; turns head to name; responds to bye-bye; gestures with babbling; first tooth | At 9 months: no response to words; no gestures; no passing toys hand to hand; unable to roll, crawl, or sit without support |
+| **7–12 months** | Walks with support or using furniture ("cruising"); develops pincer grasp; plays peekaboo; waves goodbye | At 12 months: cannot pick up small items; cannot crawl or bottom shuffle; cannot pull self up; no babbled phrases |
+| **12–15 months** | Single words; listens to stories; drinks from a cup | — |
+| **18 months** | ≥6 words; walks up steps; names pictures; walks independently; scribbles; builds with blocks | At 18 months: uninterested in playing with others; no clear words; not walking without support; not able to hold a crayon; unable to stack 2 blocks |
+| **1.5–2 years** | Kicks/throws ball; runs; 2-word sentences; follows 2-step command; stacks 5–6 blocks; turns pages; uses a spoon; helps with dressing | At 2 years: <50 words; difficulty handling small objects; cannot climb stairs; no interest in feeding/dressing |
+
+## Speech delay
+
+> [!info] If <50 words at 3 years old, consider: deafness; expressive dysphasia or speech dyspraxia; audio-premotor syndrome (APM) — the child is quiet, cannot hum/sing; respiro-laryngeal dysfunction — voice is loud and rough; congenital aphonia (rare) — thin, effortful voice.
+
+> [!info] If parents cannot understand most speech by 2.5 years old, consider: deafness; articulatory dyspraxia (M>F 3:1) — including tongue tie (may need surgery to the frenulum and speech therapy); APM or respiro-laryngeal dysfunction.
+
+> [!info] If the child is unable to understand simple phrases by 2.5 years old (e.g. "get your shoes"), consider: deafness (if hearing is impaired, secretory otitis media is likely the cause); cognitive impairment; deprivation.
+
+### Causes of delayed speech
+
+- Hearing impairment — especially chronic otitis media.
+- Familial — family history.
+- Environmental — deprivation, poor social interaction, neglect, etc.
+- Neuropsychological — global developmental delay; ASD; acquired epileptiform aphasia.
+
+## Global developmental delay
+
+- **D:** delay in ≥2 developmental domains.
+
+> [!info] Causes by timing
+> - **Genetic:** chromosomal disorders (e.g. Down syndrome), Duchenne muscular dystrophy, metabolic disorders (e.g. PKU).
+> - **Congenital brain abnormality:** hydrocephalus, microcephaly.
+> - **Prenatal cause:** teratogens (drugs, alcohol), congenital infections (especially CMV, rubella, toxoplasmosis), hypothyroidism.
+> - **Perinatal cause:** extreme prematurity leading to IVH or periventricular leukomalacia, birth asphyxia, metabolic disorders or hypoglycaemia.
+> - **Postnatal cause:** brain injury from suffocation, drowning, head injury, CNS infection, hypoglycaemia, hypothyroidism.
+
+## Behavioural Problems in Children
+
+> [!note] Gap-filled from CSV ("Behavioural problem (adult and child)," Medium yield) — genuinely absent as a general approach despite ADHD and autism, the two conditions most often confused with this topic, both being individually covered ([[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] and [[15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate]] Autism spectrum disorder (ASD) respectively — this entry is explicitly about the more common, usually developmentally normal behaviours that sit outside those specific diagnoses, not repeated here).
+
+**The core concept:** the great majority of childhood behavioural problems (tantrums, defiance, breath-holding, occasional lying or minor stealing) are a **normal, expected part of development** — reflecting a young child's genuine frustration at their limited ability to control their own environment and limited emotional regulation skills, rather than an early marker of pathology. Most resolve with time and consistent parenting strategies alone; only a minority are symptomatic of an underlying neurodevelopmental disorder or emotional/family disturbance requiring more than reassurance and behavioural advice.
+
+**Temper tantrums:** crying, screaming, aggression, or breath-holding, typically triggered by frustration, fatigue, hunger, or illness in a young child with limited coping skills — behaviour usually appears disproportionate to the trigger (going limp, flailing, hitting, throwing objects), but **mood and behaviour return to normal between episodes**, which is itself a reassuring feature distinguishing a normal tantrum from a more concerning presentation.
+
+> [!info] Breath-holding spells — a specific, genuinely paediatric presentation worth knowing explicitly, given how alarming it looks to parents: triggered by pain, frustration, or anger, the child cries briefly then holds their breath, which can progress to cyanosis (the more common "cyanotic" type) or pallor and, in some children, brief loss of consciousness or even a brief convulsive movement — genuinely frightening to witness but **benign and self-limiting**, with the child breathing spontaneously and recovering fully within seconds to a minute. Distinguishing this from a seizure matters — the clear preceding trigger (pain/frustration) and the breath-holding-then-colour-change sequence (rather than colour change occurring first, as in a primary seizure) are the key discriminating features; see [[04_Neurology]] for the seizure differential this needs to be distinguished from, not repeated here.
+
+**General approach and management:**
+- Caregiver education is the central intervention — explaining the normal developmental basis of the behaviour is often itself therapeutic, given much parental distress comes from misinterpreting normal behaviour as a sign something is wrong.
+- Avoid a punitive response during an active tantrum or breath-holding episode — the child is often frightened by the intensity of their own reaction and needs comfort once it passes, not punishment; removing oneself from the room (where safe to do so) can be a reasonable practical strategy for tantrums specifically.
+- Consistent routines, positive reinforcement of desired behaviour, and calm, predictable caregiver responses are the mainstay of behavioural management across the range of these presentations.
+- **Screen for sleep problems actively** — poor sleep is genuinely and specifically associated with both externalising (aggression, hyperactivity) and internalising (emotional distress) behavioural difficulties in children, making sleep history a worthwhile routine part of assessing any behavioural concern rather than a separate, optional line of inquiry.
+
+**Red flags warranting referral rather than reassurance and behavioural advice alone:**
+- Initial behavioural strategies have genuinely failed despite consistent application.
+- The child is at risk of physical harm (to self or others).
+- The behaviour is significantly impairing the child's functioning or development, or family functioning more broadly.
+- Concern for an underlying medical cause (e.g. sensory impairment, an intracranial or other organic cause) rather than a purely behavioural explanation.
+- Suspicion of an underlying neurodevelopmental or psychiatric condition — autism spectrum disorder, ADHD, anxiety or depressive disorder, oppositional defiant disorder, or conduct disorder — see [[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] and [[15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate]] Autism spectrum disorder (ASD) for the disease-level detail these differentials feed into, not repeated here.
+- Parental mental health difficulties or significant family dysfunction contributing to the picture.
+- Childcare, kindergarten, or school reporting concern or difficulty managing the behaviour, given this represents an independent, cross-context data point beyond the parent's own report.
+
+**Cross-reference:** see [[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] and [[15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate]] Autism spectrum disorder (ASD) for the specific neurodevelopmental diagnoses this entry's differential connects to, not repeated here.
+
+
+<!-- ===== SOURCE: 15_19b_Paeds_-_Cerebral_Palsy_and_Muscular_Dystrophies.md ===== -->
+
+
+## Cerebral palsy
+
+- **D:** umbrella term referring to a non-progressive disease of the brain originating during the ante-, neo-, or early postnatal period → disorders of movement and posture development.
+- **R/A:** prematurity, low birth weight, fetal birth asphyxia, multiple births, maternal illness, fetal brain malformation, major birth defects, familial metabolic or genetic disorder, neonatal complications, meningitis, maternal teratogen exposure, low socioeconomic status. 70–80% possibly have antenatal causes.
+- **P:** depends on cause.
+
+### Classification by movement disorder
+
+> [!info]
+> - **Spastic:** velocity-dependent resistance to passive muscle stretch — possibly pyramidal/UMN. Further divided into monoplegia, hemiplegia, diplegia (bilateral lower limbs), quadriplegia.
+> - **Dyskinetic:** uncoordinated, involuntary movements and postures — possibly basal ganglia involvement. Further divided into dystonia, chorea, athetosis. Associated with kernicterus.
+> - **Ataxic:** loss of muscular coordination with abnormal force and rhythm, decreased accuracy. Cerebellar.
+> - **Mixed.**
+
+- **S/Smx:** abnormal tone in early infancy; delayed motor milestones; abnormal gait; feeding difficulties.
+- **Associated with:** learning difficulties (60%); epilepsy (30%); squints (30%); hearing impairment (20%).
+- **Mx:** holistic, with specialists. Botulinum toxin may benefit children with spasticity. Epidural cord/deep brain stimulation, intrathecal or oral baclofen.
+- **P:** by age 6, 80% of hemiplegic/diplegic and 54% of quadriplegic patients gain urinary continence.
+
+### Gross Motor Function Classification System (levels)
+
+1. Walks, runs, climbs stairs without a rail; speed, balance, and coordination limited.
+2. Uses a rail for stairs; walks but may use a handheld or wheeled device for long distances or uneven terrain; minimal ability to run or jump.
+3. Walks with a handheld or wheeled device in most indoor settings, uses a wheeled device for longer distances.
+4. Mobility requires physical assistance or powered mobility in most settings.
+5. Transported in a manual wheelchair in all settings, limited anti-gravity head, trunk, and limb control.
+
+## Muscular dystrophies
+
+- **D:** inherited disorders characterised by muscle degeneration and weakness.
+  - **Duchenne muscular dystrophy (DMD):** X-linked recessive. The most severe and rapidly progressive form.
+  - **Becker muscular dystrophy (BMD):** a milder form.
+- **R:** family history, males (X-linked).
+- **A:** DMD & BMD are caused by mutation of the dystrophin gene.
+- **P:** absence of dystrophin protein → ↑instability and degeneration of skeletal muscle + replacement with adipose and connective tissue. Brain cells & smooth muscle cells may also be affected.
+- **S/Smx:** onset in childhood — DMD at ~5 years old, BMD at ~10 years old. Progressive proximal muscle weakness. Calf pseudohypertrophy. Gower's sign (child uses arms to stand up from a squatted position). Intellectual impairment (especially in DMD).
+- **Ix:** CK ↑, genetic testing, rarely muscle biopsy (an older testing method).
+- **Mx:** supportive — ensuring the patient has mobility aids, accessibility at home, etc. No curative treatment.
+- **P:** DMD — most children cannot walk by age 12; survive to age 25–30. Associated with dilated cardiomyopathy.
+
+
+<!-- ===== SOURCE: 15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate.md ===== -->
+
+
+## Autism spectrum disorder (ASD)
+
+- **D:** lifelong neurodevelopmental condition characterised by persistent impairments in social communication, and restricted, repetitive, and stereotyped patterns of behaviours, interests, or activities.
+- **R:** M>F (4:1), family history positive, valproate exposure in pregnancy.
+- **A:** genetic element. **P:** modified brain development → reorganisation of neural networks underlying cognition and behaviour.
+
+> [!info] DSM-5 criteria
+> - Persistent deficits in social communication and interaction across multiple contexts — ↓social-emotional reciprocity; ↓non-verbal communicative behaviours used for social interaction; ↓developing/understanding relationships.
+> - Restricted, repetitive patterns of behaviour, interests, or activities — stereotyped or repetitive motor movements, use of objects, or speech; insistence of sameness, inflexible adherence to routines, or ritualised patterns of verbal or non-verbal behaviour; highly restricted, fixated interests abnormal in intensity or focus; hyper- or hyporeactivity to sensory input or unusual interest in sensory aspects of the environment.
+> - Symptoms must be present in the early developmental period.
+> - Symptoms cause clinically significant impairment in social, occupational, or other important areas of current functioning.
+
+> [!info] 3 levels of severity: Level 1 (some support); Level 2 (substantial support); Level 3 (very substantial support).
+
+> [!note] Asperger syndrome has been removed as a diagnostic entity in current classification systems.
+
+- **Ix:** if a child is suspected to have ASD (usually presents around age 2–4), refer to an MDT for assessment.
+- **Mx:**
+  - Early educational and behavioural interventions.
+  - Pharmacological: SSRI (may help ↓anxiety, depression, and repetitive stereotyped behaviour); antipsychotic drugs (↓aggression, self-harm); methylphenidate (for ADHD).
+  - Family support and counselling.
+
+### Complications / associated conditions
+
+- Intellectual disability in 40–80%.
+- Epilepsy — tends to develop in young children or adolescence; higher rates in those with intellectual disability.
+- Psychiatric: anxiety and depression.
+
+## Cleft lip and palate
+
+- **D:** congenital malformation of the lip and hard palate due to disruption of the embryological growth process. 1:1000 births.
+- **Subtypes:** isolated cleft lip (15%), isolated cleft palate (40%), combined cleft lip and palate (45%).
+- **R:** maternal antiepileptic use, family history, genetic or metabolic disorder (e.g. DiGeorge syndrome).
+- **S/Smx:** visible deformity; feeding problems; speech problems; ↑incidence of otitis media.
+- **Mx:** surgery — cleft lip usually repaired before 3 months old, cleft palate repaired between 6–12 months old.
+
+
+<!-- ===== SOURCE: M6_Paediatric_Respiratory_and_Neurology.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Recognition, discriminators and management principles are reliable at intern level. **Every dose, age threshold, severity criterion and time limit carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** **All paediatric doses are omitted** — obtain them from the **Royal Children's Hospital Melbourne guidelines**, the **Australian Asthma Handbook**, and **ANZCOR**.
+>
+> **NOTE ON CROSS-REFERENCES:** earlier files in this corpus cross-reference `[[M6]]` for **child protection and non-accidental injury**. That is an error — **safeguarding is built in [[GER4]]**, and M6 covers respiratory and neurology per the build queue. Those links should be redirected to `[[GER4]]` during consolidation.
+>
+> **Status epilepticus is built in [[D6]] 0.2 and [[F0.4]]**, **anaphylaxis in [[K4]]**, and **paediatric head injury in [[F0.5]] 0.7** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Assessing Respiratory Distress
+
+> [!tip] Three questions — effort, efficacy, effects
+> **1. WORK OF BREATHING (effort)** — respiratory rate against age-specific values · RECESSION (subcostal, intercostal, sternal, suprasternal) · nasal flaring · HEAD BOBBING in infants · tracheal tug · accessory muscle use · GRUNTING · and inspiratory or expiratory noises.
+> **2. EFFICACY** — air entry and chest expansion on auscultation, oxygen saturation.
+> **3. EFFECTS on other systems** — HEART RATE · skin colour · and MENTAL STATE.
+> **The third is the one that gets omitted and the one that matters most.** **Agitation, then drowsiness, then unresponsiveness is the sequence of worsening hypoxia and hypercapnia — not a behavioural response to being in hospital.**
+
+> [!danger] Three signs that mean the child is deteriorating, not settling
+> **1. GRUNTING — expiration against a partially closed glottis to generate auto-PEEP.** It means significant lung disease and it is an ominous sign at any age, particularly in infants.
+> **2. A SILENT CHEST — no wheeze because there is insufficient air movement to generate one.** **The loudest wheeze is not the sickest child; the quietest chest is.**
+> **3. EXHAUSTION — a child who was working hard and becomes QUIET, with a FALLING respiratory rate and reduced recession, is TIRING, not improving.** **This is the point at which children arrest, and it is misread as improvement with distressing regularity.**
+> **Hypoxia on the saturation probe is a LATE sign. The clinical signs precede it.**
+
+> [!warning] Do not distress a child with suspected upper airway obstruction
+> **In stridor with significant obstruction — suspected epiglottitis, bacterial tracheitis, severe croup or a foreign body — DISTRESS CAN PRECIPITATE COMPLETE OBSTRUCTION.**
+> **Therefore: DO NOT examine the throat · DO NOT attempt cannulation or blood tests · DO NOT lie the child down · DO NOT separate them from their parent · keep the environment calm and quiet.**
+> **Get senior anaesthetic, ENT and paediatric help to the child, rather than moving the child to investigations.**
+> **The instinct to "just have a quick look" at the throat has killed children.** Cross-refer [[A2]] 0.3.
+
+---
+
+## 0.2 Stridor and Upper Airway Obstruction
+
+> [!tip] Croup — and steroids for everyone
+> **Laryngotracheobronchitis, usually parainfluenza, typically in children between about six months and three years.**
+> **The presentation: a prodrome of coryza, then a BARKING, seal-like COUGH, a HOARSE voice or cry, and INSPIRATORY STRIDOR — characteristically WORSE AT NIGHT and worse with agitation.**
+> **THE SINGLE MOST IMPORTANT INTERVENTION IS CORTICOSTEROIDS — given to ALL severities, including mild croup managed at home.** They reduce severity, re-presentation and admission, and a single dose is usually sufficient. `UNVERIFIED — agent, dose and route.`
+> **NEBULISED ADRENALINE for moderate to severe croup** — it works quickly but the effect is temporary, so **the child must be OBSERVED for rebound as it wears off** and must not be discharged immediately after.
+> **Supportive: minimal handling, keep the child calm and with the parent, oxygen if hypoxic.**
+> **Steam and humidified air are NOT effective**, despite persisting popular belief.
+> **Severity is judged by: stridor AT REST · recession · agitation or lethargy · and cyanosis.** `UNVERIFIED — the severity criteria.`
+
+> [!danger] The stridor that is not croup
+> **· EPIGLOTTITIS — rare where *Haemophilus influenzae* type b immunisation is high, but it still occurs in the UNDER-IMMUNISED and in older children and adults.** **The picture: RAPID onset over hours · high fever and a TOXIC appearance · DROOLING and inability to swallow · a MUFFLED "hot potato" voice · the TRIPOD position, sitting forward · and — importantly — LITTLE OR NO COUGH, which distinguishes it from croup.** **Do not examine the throat. Senior airway team, theatre, intubation.**
+> **· BACTERIAL TRACHEITIS — a toxic child with high fever, a croup-like picture that does NOT respond to adrenaline and steroids, and copious purulent secretions.** Requires antibiotics and often intubation.
+> **· INHALED FOREIGN BODY — SUDDEN onset, often with a witnessed choking episode, though the history may be absent or forgotten.** **Signs may be UNILATERAL (reduced air entry, unilateral wheeze), and the CHEST RADIOGRAPH MAY BE NORMAL — most foreign bodies are radiolucent.** **Inspiratory and expiratory films may show air trapping, but a normal film does not exclude it: bronchoscopy is the test.** **A persistent focal wheeze or recurrent pneumonia in the same lobe should prompt the thought.**
+> **· ANAPHYLAXIS — cross-refer [[K4]] 0.1.** Rapid onset, urticaria, angioedema, other system involvement. **Adrenaline intramuscularly.**
+> **· RETROPHARYNGEAL ABSCESS — neck stiffness or refusal to move the neck, drooling, fever, and systemic illness.**
+
+> [!tip] Laryngomalacia — the common benign one
+> **The commonest congenital cause of stridor.** **Intermittent inspiratory stridor appearing in the first weeks, WORSE when SUPINE, feeding, crying or with an intercurrent illness, and BETTER when PRONE or at rest.**
+> **The infant is otherwise well, feeding and growing normally, and it resolves over the first year or two.**
+> **RED FLAGS requiring referral: failure to thrive · feeding difficulty or aspiration · apnoea · cyanosis · severe or worsening stridor · or an atypical pattern.**
+
+---
+
+## 0.3 Bronchiolitis and Preschool Wheeze
+
+> [!danger] Bronchiolitis — the high-yield point is everything that does NOT work
+> **A viral lower respiratory infection of infants under about 12 months, most often RSV, with a peak around three to six months.**
+> **The course: coryza for a day or two → cough, TACHYPNOEA, WHEEZE and fine CRACKLES → feeding difficulty → typically worst around days three to five, then gradual improvement over one to two weeks (with the cough lasting longer).**
+> **MANAGEMENT IS SUPPORTIVE: oxygen if hypoxic · FEEDING SUPPORT (nasogastric or intravenous fluids where feeding is inadequate) · minimal handling · and observation.**
+> **THE FOLLOWING ARE NOT RECOMMENDED IN TYPICAL BRONCHIOLITIS, AND ARE STILL GIVEN:**
+> **· BRONCHODILATORS (salbutamol) — no benefit.**
+> **· CORTICOSTEROIDS — no benefit.**
+> **· Nebulised ADRENALINE — no sustained benefit.**
+> **· ANTIBIOTICS — no benefit, and bacterial co-infection is uncommon.**
+> **· Nebulised hypertonic or normal SALINE.**
+> **· CHEST PHYSIOTHERAPY — no benefit and distressing.**
+> **· A CHEST RADIOGRAPH — not routinely indicated, and it is actively harmful because atelectasis is misread as consolidation and generates unnecessary antibiotics.**
+> **"Doing less" is the evidence-based management, and it is harder than doing something.** `UNVERIFIED — current guidance, particularly on oxygen saturation thresholds and respiratory support.`
+
+> [!warning] Who gets severe bronchiolitis, and the presentation that is missed
+> **Risk factors for severe disease: YOUNG AGE (under about six to eight weeks) · PREMATURITY · chronic lung disease of prematurity · congenital HEART disease · neuromuscular disease · immunodeficiency · and Aboriginal and Torres Strait Islander infants, in whom rates of severe disease and subsequent bronchiectasis are higher.** Cross-refer [[AU1]] 0.4 and [[RESP-X]] 0.4.
+> **APNOEA MAY BE THE PRESENTING FEATURE IN YOUNG INFANTS, sometimes before significant respiratory signs** — so bronchiolitis belongs in the differential of an infant presenting with apnoea or a BRUE. Cross-refer [[M3]] 0.5.
+> **Respiratory support with high-flow nasal cannula or CPAP is used for those who need it**, and the threshold for escalation should be low in the high-risk groups.
+
+> [!tip] Preschool wheeze — resist diagnosing asthma too early
+> **Wheeze in preschool children is extremely common and MOST OF IT IS NOT ASTHMA.**
+> **· EPISODIC VIRAL WHEEZE — wheeze only with viral infections, and completely well in between. The majority of preschool wheezers. Most outgrow it.**
+> **· MULTIPLE-TRIGGER WHEEZE — wheeze with viruses AND with exercise, allergens, smoke and emotion, with interval symptoms. More likely to represent evolving asthma.**
+> **Features increasing the likelihood of asthma: interval symptoms between infections · atopy (eczema, allergic rhinitis, food allergy) · a family history of asthma or atopy · and a clear response to bronchodilator.**
+> **The risks of over-diagnosis: unnecessary long-term inhaled corticosteroids in young children, a label that follows the child, and failure to consider alternatives.**
+> **Always consider the alternatives to asthma in a wheezing child: INHALED FOREIGN BODY · CYSTIC FIBROSIS (check the newborn screen, ask about stools and growth) · bronchiectasis and chronic suppurative lung disease · congenital airway abnormality · a vascular ring · gastro-oesophageal reflux and aspiration · cardiac failure · and primary ciliary dyskinesia.**
+> **FOCAL or PERSISTENT wheeze, wheeze from birth, faltering growth, a wet productive cough, or failure to respond to treatment all argue against simple asthma.**
+
+---
+
+## 0.4 Asthma in Children
+
+> [!tip] Diagnosis is a pattern, not a single test
+> **Recurrent WHEEZE, cough, breathlessness and chest tightness that are VARIABLE over time, WORSE AT NIGHT AND IN THE EARLY MORNING, provoked by identifiable triggers (viral infection, exercise, cold air, allergens, smoke, emotion), and RESPONSIVE to bronchodilator.**
+> **Supported by: personal or family atopy · documented variable airflow obstruction.**
+> **SPIROMETRY with bronchodilator response is possible from about age six** — younger children cannot perform it reliably, so the diagnosis is clinical. `UNVERIFIED — diagnostic criteria and spirometry thresholds.`
+> **A trial of treatment with a clear assessment of response is a legitimate diagnostic approach in young children — provided the response is actually assessed and treatment stopped if there is none.**
+
+> [!danger] A spacer with a metered-dose inhaler is as effective as a nebuliser
+> **For mild to moderate acute asthma, MDI plus SPACER delivers salbutamol at least as effectively as a nebuliser, with FEWER side effects (less tachycardia and tremor), less hypoxia risk, shorter stays, and no aerosol generation.**
+> **Nebulisers are reserved for severe or critical asthma requiring continuous therapy and oxygen.**
+> **The habit of reaching for a nebuliser is common and is not better care.**
+> **Acute management: salbutamol via spacer, repeated and titrated to response · OXYGEN if hypoxic · SYSTEMIC CORTICOSTEROIDS EARLY (the earlier the better — they take hours to work, so giving them late wastes the benefit) · IPRATROPIUM added in severe cases · and escalation to intravenous magnesium, aminophylline or salbutamol infusion with senior involvement.**
+> **REASSESS AFTER EACH TREATMENT** — the pattern of response over the first hour determines disposition far better than the initial severity does.
+> `UNVERIFIED — all doses, frequencies and escalation thresholds.`
+
+> [!warning] Severity assessment — and the child who has stopped wheezing
+> **Judged by: ability to talk in sentences, phrases or single words · work of breathing · oxygen saturation · heart rate · mental state · and air entry.**
+> **A SILENT CHEST, exhaustion, confusion or drowsiness, and cyanosis indicate CRITICAL asthma requiring immediate senior help.**
+> **Do not be reassured by a reduction in wheeze without a clear improvement in work of breathing, air entry and mental state.**
+
+> [!danger] Discharge is where deaths are prevented
+> **Asthma deaths in children are consistently associated with: under-treatment and under-recognition of severity · OVER-RELIANCE ON RELIEVER with under-use of preventer · poor ADHERENCE · NO WRITTEN ACTION PLAN · a previous severe attack or ICU admission · poor inhaler TECHNIQUE · and psychosocial adversity and disengagement from care.**
+> **Every child discharged after an asthma presentation needs:**
+> **· A WRITTEN ASTHMA ACTION PLAN — colour-coded, specific, and given to the family and the school.**
+> **· INHALER TECHNIQUE CHECKED AND DEMONSTRATED — most children (and most adults) use inhalers incorrectly, and a device used badly delivers nothing. WATCH THEM DO IT.**
+> **· A SPACER, and instruction in its use and cleaning.**
+> **· Review of PREVENTER therapy and adherence — including how many reliever canisters they are getting through, which is a sensitive marker of poor control.**
+> **· TRIGGER review, including SMOKING IN THE HOUSEHOLD, which should be asked about directly and addressed without blame.**
+> **· FOLLOW-UP arranged with a named clinician.**
+> **This is the intern's task, it takes fifteen minutes, and it is the part most often abbreviated.**
+
+---
+
+## 0.5 Seizures and Febrile Convulsions
+
+> [!info] Febrile convulsion — simple versus complex
+> **A seizure in a child between about six months and six years, in the context of FEVER, without central nervous system infection or another identifiable cause.** `UNVERIFIED — the age range.`
+> **· SIMPLE: GENERALISED · SHORT (under about 15 minutes) · occurring ONCE in the febrile illness · with COMPLETE recovery.**
+> **· COMPLEX: FOCAL features · PROLONGED · or RECURRING within the same illness.**
+> **Simple febrile convulsions in a well child with an identified source of fever require NO routine investigation — no lumbar puncture, no EEG, no imaging, no electrolytes.**
+
+> [!warning] What to tell the parents — and two things they will believe that are wrong
+> **Parents witnessing a first febrile convulsion frequently believe their child is dying, and the reassurance is the treatment.**
+> **What to say:**
+> **· It is common, and it is frightening but not dangerous.**
+> **· Roughly a third will have another one.**
+> **· MOST CHILDREN WITH FEBRILE CONVULSIONS DO NOT DEVELOP EPILEPSY** — the increase in risk is small.
+> **· It does not cause brain damage.**
+> **THE TWO MYTHS TO CORRECT:**
+> **1. "ANTIPYRETICS WILL PREVENT ANOTHER ONE." THEY DO NOT.** Paracetamol and ibuprofen do not reduce the recurrence of febrile convulsions. Give them for comfort, not for prevention — and tell parents this, so they do not blame themselves for a recurrence.
+> **2. "Put something in their mouth."** **Never.**
+> **FIRST AID TO TEACH: stay calm · put the child on their SIDE in the recovery position · do NOT restrain them · do NOT put anything in the mouth · move dangerous objects away · TIME the seizure · and CALL AN AMBULANCE IF IT LASTS MORE THAN FIVE MINUTES or if they do not recover.**
+
+> [!danger] When a febrile seizure is not a simple febrile convulsion
+> **· Age OUTSIDE the usual range — under six months or over six years.**
+> **· FOCAL features.**
+> **· PROLONGED, or recurrent within the illness.**
+> **· INCOMPLETE RECOVERY, or persisting drowsiness beyond the usual short postictal period.**
+> **· MENINGISM, a bulging fontanelle, or a petechial rash.**
+> **· NO CLEAR SOURCE for the fever.**
+> **· A child who is systemically UNWELL.**
+> **· A child ALREADY ON ANTIBIOTICS — which can PARTIALLY TREAT and MASK meningitis, blunting the classic features while the infection continues. This is a specific and important trap.**
+> **Any of these means considering MENINGITIS and encephalitis, and a lower threshold for lumbar puncture and imaging.** Cross-refer [[D1]] 0.5 and [[M2]] 0.4.
+
+> [!danger] Most paroxysmal events in children are not epilepsy
+> **· BREATH-HOLDING SPELLS — two types, both benign:**
+> **CYANOTIC (blue) — provoked by anger, frustration or crying; the child cries, holds their breath in expiration, becomes blue, and may briefly lose consciousness and stiffen.**
+> **PALLID (reflex anoxic) — provoked by a MINOR INJURY, pain or fright, often with little or no crying; a vagally mediated asystolic pause, with sudden PALLOR and collapse, sometimes with stiffening or jerking.**
+> **Both are benign and self-limiting, and the management is reassurance, first aid and avoiding reinforcement of the behaviour.** **CHECK THE FERRITIN — iron deficiency is associated with breath-holding spells and treating it reduces their frequency.** This is a specific, easily actioned point.
+> **· SYNCOPE — including vasovagal syncope with a few myoclonic jerks, which is regularly misdiagnosed as a seizure. But note that CARDIAC syncope must be excluded: syncope on EXERTION, syncope without warning, syncope with palpitations, or a family history of sudden death — all of which require an ECG.** Cross-refer [[B3]] 0.1 and 0.3.
+> **· Benign neonatal sleep myoclonus · night terrors and other parasomnias (cross-refer [[N7]] 0.4) · tics · daydreaming · self-gratification behaviour · and SANDIFER SYNDROME (dystonic posturing associated with gastro-oesophageal reflux).**
+
+> [!tip] The most useful investigation is a good eyewitness account — or a video
+> **The description of the event is more informative than any test, and parents' phones make this practical.**
+> **ASK THE FAMILY TO RECORD A FUTURE EPISODE.** A short video resolves the majority of diagnostic uncertainty about paroxysmal events, and it is now routine practice in paediatric neurology.
+> **What to elicit: what the child was doing immediately before · any warning · the colour · the position of the eyes and limbs · the duration (which is almost always over-estimated) · what happened afterwards and how long recovery took · and whether the child was responsive during the event.**
+> **STATUS EPILEPTICUS: treat a seizure lasting beyond about five minutes** — cross-refer [[D6]] 0.2 and [[F0.4]]. **Check GLUCOSE, sodium and calcium in any child with a seizure, and consider pyridoxine-dependent seizures in a neonate or young infant with refractory seizures.**
+
+---
+
+## 0.6 Epilepsy and Paediatric Neurology
+
+> [!danger] Infantile spasms — recognise them, because delay costs development
+> **Clusters of brief SYMMETRICAL SPASMS — a sudden flexion or extension of the trunk and limbs — occurring in RUNS, often on waking, in an infant typically under a year.**
+> **They are frequently mistaken for colic, startle or reflux, and the diagnosis is commonly delayed by weeks.**
+> **THE TRIAD: spasms · DEVELOPMENTAL REGRESSION OR ARREST · and HYPSARRHYTHMIA on EEG.**
+> **THIS IS AN EMERGENCY. Time to treatment correlates with developmental outcome — delay causes permanent cognitive loss.**
+> **An infant with clusters of spasms needs an URGENT EEG and urgent paediatric neurology involvement, the same day.**
+> **Treated with vigabatrin or corticosteroids.** **Look for an underlying cause, particularly TUBEROUS SCLEROSIS — examine the skin under a Wood lamp for hypopigmented (ash-leaf) macules.**
+
+> [!tip] The childhood epilepsy syndromes worth recognising
+> **· CHILDHOOD ABSENCE EPILEPSY — brief (seconds) episodes of staring and unresponsiveness with abrupt onset and offset, no warning, no postictal state, and many per day.** **Frequently misdiagnosed as daydreaming, inattention or ADHD, and picked up by teachers as declining school performance.**
+> **THE BEDSIDE TEST: ask the child to HYPERVENTILATE for two to three minutes (blowing a windmill or pinwheel works well) — this reliably provokes an absence in untreated childhood absence epilepsy and is diagnostic at the bedside.** EEG shows generalised 3 Hz spike-and-wave.
+> **· SELF-LIMITED EPILEPSY WITH CENTROTEMPORAL SPIKES (formerly benign rolandic epilepsy) — nocturnal focal seizures involving the face and mouth, with drooling, gurgling and speech arrest, sometimes generalising. Remits in adolescence, and often does not require treatment.**
+> **· JUVENILE MYOCLONIC EPILEPSY — MYOCLONIC JERKS shortly after waking (the teenager who "drops their cereal bowl in the morning"), with generalised tonic-clonic seizures, provoked by SLEEP DEPRIVATION, alcohol and photic stimulation.** **Usually requires lifelong treatment**, and the myoclonus is often not volunteered unless specifically asked about.
+> **· Epileptic encephalopathies (Dravet, Lennox-Gastaut) — early-onset, drug-resistant, with developmental impairment.**
+> **VALPROATE: highly effective in generalised epilepsy but must NOT be used in girls and women of childbearing potential except under strict conditions.** Cross-refer [[D6]] 0.3 and [[N4]] 0.5.
+
+> [!warning] Headache in children — the red flags
+> **Most childhood headache is migraine or tension-type, and children's migraine is more often BILATERAL and SHORTER than adults', frequently with prominent abdominal symptoms.**
+> **RED FLAGS requiring imaging: headache that WAKES the child from sleep or is present on WAKING, with VOMITING · progressively worsening headache · focal neurological signs · PAPILLOEDEMA · increasing head circumference · personality or behavioural change · declining school performance · new squint or visual change · ataxia · and headache in a child under about five, in whom primary headache is uncommon.**
+> **Posterior fossa tumours are the classic paediatric brain tumour and present with morning headache, vomiting, ataxia and cranial nerve signs — often attributed to gastroenteritis or migraine for weeks.**
+
+> [!tip] Three other neurological presentations
+> **· ACUTE ATAXIA — post-infectious cerebellitis (commonly post-varicella, and the commonest cause) · INGESTION or poisoning (always consider, and ask what is in the house) · posterior fossa tumour · Guillain-Barré syndrome (with the Miller Fisher variant) · and stroke.**
+> **· HYPOTONIA — distinguish CENTRAL (with reduced alertness, normal or brisk reflexes, and other neurological features) from PERIPHERAL (alert child, absent reflexes, weakness — pointing to spinal muscular atrophy, congenital myopathy or neuromuscular junction disease).** **The alert, floppy, weak infant with absent reflexes is a neuromuscular emergency.**
+> **· ACUTE WEAKNESS — Guillain-Barré syndrome (ascending, areflexic, with a risk of respiratory failure requiring SERIAL FVC monitoring) · transverse myelitis · and spinal cord compression.** Cross-refer [[D4]] 0.4–0.5.
+
+**Ix:** **Oxygen saturation and respiratory rate against AGE-SPECIFIC values** (*why:* the numbers are meaningless without the age norms; *what:* hypoxia, tachypnoea). **Blood gas ONLY where it will change management in a distressed child** (*why:* it is painful, distressing and can precipitate deterioration in upper airway obstruction — and a rising CO₂ in asthma is a clinical diagnosis of exhaustion before it is a laboratory one; *what:* hypercapnia, acidosis). **Chest radiograph only where indicated** — NOT routinely in bronchiolitis or uncomplicated asthma (*why:* it drives unnecessary antibiotics; *what:* consolidation, pneumothorax, foreign body effects). **Nasopharyngeal viral testing where it changes cohorting or management** (*why:* it rarely changes treatment in bronchiolitis; *what:* RSV and other viruses). **Bedside GLUCOSE, plus sodium and calcium, in any seizing child** (*why:* rapidly reversible causes; *what:* hypoglycaemia, electrolyte disturbance). **URGENT EEG where infantile spasms or regression are suspected** (*why:* time to treatment determines developmental outcome; *what:* hypsarrhythmia, epileptiform activity). **A VIDEO of a typical event recorded by the family** (*why:* the single most useful investigation for paroxysmal events, and it resolves most diagnostic uncertainty; *what:* the semiology). **ECG in any child with syncope or an unexplained collapse** (*why:* long QT and other channelopathies, with implications for the whole family; *what:* QTc, pre-excitation, hypertrophy). **FERRITIN in breath-holding spells** (*why:* iron deficiency is associated and treating it reduces frequency; *what:* low ferritin). MRI brain where red flags, focal signs or regression (*why:* structural lesion; *what:* tumour, malformation, demyelination).
+
+---
+
+> [!note] Cross-references
+> The seriously unwell child and paediatric physiology → [[M1]] · Fever, meningitis and serious bacterial infection → [[M2]] · Neonatal apnoea and BRUE → [[M3]] 0.5 · Growth, development and regression → [[M4]] 0.6 · Paediatric abdominal pain and limp → [[M5]] · Adolescent health and ADHD → [[M7]] · CHILD PROTECTION AND NON-ACCIDENTAL INJURY → **[[GER4]]** (not M6 — see the sourcing note) · Status epilepticus → [[D6]] 0.2 and [[F0.4]] · Epilepsy, valproate and driving → [[D6]] 0.3 · Meningitis and encephalitis → [[D1]] 0.5 · Guillain-Barré and FVC monitoring → [[D4]] 0.4–0.5 · Anaphylaxis → [[K4]] 0.1 · Airway obstruction and epiglottitis → [[A2]] 0.3 · Asthma and COPD in adults → [[F0.5]] 0.1 · Bronchiectasis and chronic suppurative lung disease → [[RESP-X]] 0.4 · Paediatric head injury → [[F0.5]] 0.7 · Long QT and syncope → [[B3]] 0.1, 0.3 · Parasomnias and night terrors → [[N7]] 0.4 · Aboriginal and Torres Strait Islander child respiratory health → [[AU1]] 0.4
+
+
 <!-- ===== SOURCE: 15_04a_Paeds_-_URTI_and_LRTI.md ===== -->
 
 
@@ -610,171 +2076,446 @@
 **Cross-reference:** see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Eczema (atopic dermatitis), [[15_09b_Paeds_-_Infant_Feeding_Problems]] Cow's milk protein intolerance, and Asthma in Children above in this file for the individual disease-level detail this entry connects, not repeated here.
 
 
-<!-- ===== SOURCE: 15_05_Paeds_-_Acyanotic_Congenital_Heart_Disease.md ===== -->
+<!-- ===== SOURCE: 15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus.md ===== -->
 
 
-> [!note] Congenital heart disease occurs in 0.8% of live births.
+## Epilepsy — overview
 
-> [!info] Classification by shunt direction
-> - **Left→Right shunts / Acyanotic:** VSD (30%), ASD, PDA, coarctation of the aorta, aortic valve stenosis.
-> - **Right→Left shunts / Cyanotic:** Tetralogy of Fallot, transposition of the great arteries, tricuspid atresia, truncus arteriosus, total anomalous pulmonary venous drainage (TAPVD), hypoplastic left heart (HLH). *(See [[15_06_Paeds_-_Cyanotic_CHD__Kawasaki_Disease__Murmurs]] for detail on these, not repeated here.)*
+- **D:** tendency to recurrent unprovoked seizures (abnormal electrical brain activity). 1% of children will have a seizure not associated with fever by age 14.
+- Divided into generalised, focal, unknown — focal further divided by awareness; both further divided by signs (motor, non-motor).
 
-## Ventricular septal defect (VSD)
+## Infantile spasms (West syndrome)
 
-- **D:** defects in the inter-ventricular septum that allow shunting of blood between the left and right ventricles.
-- **R:** family history, Down syndrome (35% of Down syndrome patients will have VSDs).
-- **P:** small defects may spontaneously close. Moderate to larger defects can lead to pulmonary hypertension due to ↑flow into the left ventricle and thus into the pulmonary circulation.
-- **S/Smx:** most present in infancy. Pulmonary hypertension; Eisenmenger's syndrome; murmur — holosystolic at the left parasternal border ± palpable thrill.
-- **Dx/Ix:** echo, CXR, ECG, cardiac MRI.
-- **Mx:** watch and wait for small defects. Moderate to severe — surgical closure. HF symptoms must be treated before surgery.
+- Brief spasms at ~3–9 months. Flexion of head, trunk, limbs, then extension of arms — lasting 1–2 seconds, repeating up to 50×.
+- **EEG:** hypsarrhythmia.
+- Usually secondary to serious neuro abnormality (e.g. tuberous sclerosis, encephalitis, birth asphyxia). May be idiopathic.
+- **Possible treatment:** vigabatrin, steroids.
+- **P:** poor prognosis.
 
-> [!danger] If the patient presents with severe pulmonary hypertension & Eisenmenger's syndrome, closure of the VSD is contraindicated. Use pulmonary vasodilators (e.g. bosentan, sildenafil) for supportive treatment; consider heart-lung transplant.
+## Absence seizures
 
-## Atrial septal defect (ASD)
+- Generalised seizures (loss of consciousness) — the patient is unaware of the LOC.
+- Onset age 4–8. Each episode lasts <30 seconds, no warning, quick recovery.
+- **EEG:** 3Hz generalised, symmetrical.
+- **Tx:** sodium valproate, ethosuximide.
+- **P:** good prognosis; 90–95% seizure-free in adolescence.
 
-- Interatrial communications: incomplete separation between the left and right atrium.
-- 5 types: secundum, ostium primum, sinus venosus, coronary sinus, and vestibular. Only secundum and vestibular defects are true ASDs.
-- **R:** F>M (2:1), maternal alcoholism.
-- **S/Smx:** the most common congenital heart defect to present in adulthood. Ejection systolic murmur, fixed splitting of S2. Embolism may pass from the venous system to the left side of the heart, causing a stroke.
+## Lennox-Gastaut syndrome
 
-| Type | Features |
-|---|---|
-| Ostium secundum (70% of ASDs) | Associated with Holt-Oram syndrome (tri-phalangeal thumbs); ECG shows RBBB with RAD |
-| Ostium primum | Presents earlier than ostium secundum; associated with abnormal AV valves; ECG shows RBBB with LAD, prolonged PR interval |
+- Possibly an extension of infantile spasms. Onset age 1–5.
+- Atypical absences, falls, jerks; 90% moderate-severe mental handicap.
+- **EEG:** slow spike.
+- **Tx:** possibly ketogenic diet.
 
-- **Mx:** young patients with small ASDs — watch and wait, spontaneous closure possible. If larger, or evidence of right atrial enlargement, surgical closure is indicated.
+## Juvenile myoclonic epilepsy (Janz syndrome)
 
-## Patent ductus arteriosus (PDA)
+- Typical onset in teenage years, F>M.
+- Infrequent generalised seizures, often in the morning or following sleep deprivation. Daytime absences. Sudden, shock-like myoclonic seizures.
+- **Mx:** sodium valproate. Sleep hygiene.
 
-- **D:** persistence of the ductus arteriosus after birth.
-- **R:** prematurity (10× risk), maternal rubella (possibly 50%), F>M (2:1).
-- **A:** in the fetus, patency of the ductus arteriosus is maintained by low O2 and circulating PGE2/PGI2. After birth, ↑O2 and ↓prostaglandins (due to removal of the placenta and ↑pulmonary blood flow) lead to closure. Possibly ↓O2 exposure and continued sensitivity to prostaglandins in preterm infants leads to PDA.
-- **P:** shunting of blood from the aorta to the pulmonary artery through the PDA (L→R shunt, oxygenated blood goes into the pulmonary circulation). Can eventually result in late cyanosis in the lower extremities (differential cyanosis).
-- **S/Smx:** usually present at 2–3 months. Left subclavicular thrill; continuous "machinery" murmur (crescendo-decrescendo); large volume, bounding, collapsing pulse; wide pulse pressure; heaving apex beat.
+## Panayiotopoulos syndrome
+
+- 6% of all epilepsies. Benign focal epilepsy presenting in early childhood, age 4–7.
+- Autonomic symptoms dominate: vomiting, sweating, eye deviation, impaired consciousness ± bilateral clonic activity. Usually occurs at night. May last >30 minutes. No brain damage.
+- **EEG:** shifting ± multiple foci, occipital predominance.
+- **Mx:** remission usually occurs within 2 years; medication not needed.
+
+## Febrile seizures/convulsions
+
+- = single tonic-clonic, symmetrical generalised seizure lasting <15 minutes, occurring as temperature rises rapidly in a febrile illness in a normally developing child, occurring only once in 24h.
+- 3% of children have ≥1 febrile seizure; positive family history is common. **Age range 6 months to 5 years** — carried from [[04_Neurology]] Febrile Convulsions by the G27 round (2026-08-29), which stated the age band this entry did not.
+- **Dx/Ix:** find the source of infection, look for signs of meningitis. MSU, CXR, ENT swabs. Avoid LP in the postictal period.
+- **Mx:** O2 + recovery position. Check glucose. If the fit lasts >5 minutes, treat as status epilepticus.
+- **Parental education:** allay fear (the child is not dying). Febrile seizure is associated with ≤3% risk of epilepsy — risk increases with a positive family history, complex features (focal onset, >15 minutes, >1 seizure in 24h), developmental abnormality. Recurrence of febrile seizures is common. If a seizure lasts >5 minutes, call an ambulance.
+
+## Status epilepticus — management
+
+> [!info] Verified — the overall structure (benzodiazepine first-line, second-line anticonvulsant if seizures persist, RSI/anaesthesia if refractory) is internationally standard, including in Australian/NZ practice (via APLS-style algorithms), so the general framework doesn't need replacing. Genuinely useful AU/NZ-specific context: the **ConSEPT trial** — conducted across 13 Australian and New Zealand emergency departments via the PREDICT paediatric emergency research network — directly compared levetiracetam and phenytoin as second-line treatment for paediatric convulsive status epilepticus, finding phenytoin achieved seizure cessation in 60% vs levetiracetam's 50% in this specific AU/NZ trial population (a separate UK trial, EcLiPSE, found more comparable results between the two drugs) — meaning **either levetiracetam or phenytoin is a reasonable, evidence-supported second-line choice in Australian practice**, with local/institutional protocol determining which is preferred first. The exact time-based thresholds below (5/15/25/45 minutes) broadly reflect the same UK APLS-style structure used internationally; check current local/APLS ANZ protocol for the precise timing your institution uses, given minor variations exist between guideline versions.
+
+> [!danger] 0 minutes: ABC
+> - Secure airway; high flow O2.
+> - Basic obs + glucose — if hypoglycaemic, 2–5mL/kg IV glucose 10%, repeat glucose.
+> - Secure IV/IO access.
+> - Estimate weight; start the clock.
+
+> [!danger] 5 minutes:
+> - Lorazepam 0.1mg/kg IV/IO slow bolus, OR
+> - Buccal midazolam 0.5mg/kg (massage between the lower gum and cheek), OR
+> - Rectal diazepam 0.5mg/kg.
+
+> [!danger] 15 minutes:
+> - Repeat lorazepam.
+> - Call for senior help.
+> - Reconfirm epileptic seizure.
+> - Prepare phenytoin.
+
+> [!danger] 25 minutes:
+> - Phenytoin 20mg/kg IVI over 20 minutes (monitor ECG), OR phenobarbital 20mg/kg over 20 minutes.
+> - Call PICU and anaesthetist; prepare for intubation.
+
+> [!danger] 45 minutes:
+> - Rapid sequence induction with thiopental sodium 4mg/kg IV/IO.
+> - Transfer to PICU.
+
+### Tests during status epilepticus
+
+- Obs + glucose.
+- Consider: bloods (electrolytes), ABG, FBC + CRP, septic screen, anticonvulsant levels, toxicology screen (including CO, lead), blood ammonia.
+- Consider CT if focal seizures or focal neurological signs.
+
+## Anti-epileptic drug (AED) options by seizure type
+
+> [!info] Verified — the drug classes and sex-specific valproate caveat below are consistent with Australian practice, already independently verified against TGA safety guidance and Epilepsy Action Australia for the adult presentation in [[04_Neurology]] Seizures and Epilepsy → Generalised Tonic-Clonic Seizures — the same underlying principle applies here: Australia shares the UK's underlying valproate-teratogenicity caution (avoid in women/people who can bear children unless alternatives are ineffective) but has **not** adopted the UK's 2024 mandatory pregnancy-prevention-programme regulatory mechanism, a genuine but narrow AU/UK divergence in process rather than clinical substance — see that entry for the fuller detail, not repeated here. The specific drug choices themselves (valproate, lamotrigine, ethosuximide, levetiracetam, carbamazepine, oxcarbazepine by seizure type) are standard AMH/eTG choices in Australian paediatric practice.
+
+| Seizure type | 1st line | Other options |
+|---|---|---|
+| Generalised tonic-clonic | Males: sodium valproate. Females: lamotrigine, carbamazepine | Adjunctive: clobazam, levetiracetam, topiramate |
+| Absence | Ethosuximide | 2nd: sodium valproate. Others: lamotrigine, combination. Avoid: all others |
+| Myoclonic | Sodium valproate, levetiracetam, topiramate | — |
+| Tonic or atonic | Sodium valproate | 2nd: lamotrigine |
+| Focal | Carbamazepine or lamotrigine | 2nd: sodium valproate, oxcarbazepine, or levetiracetam |
+
+### Other treatment options
+
+- Ketogenic diet (may reduce fits by 2/3). SE: constipation, vomiting, etc.
+- Surgery: if there is an epileptogenic focus.
+- Vagal nerve stimulation: mainly for focal seizures not amenable to surgery.
+
+### Stopping anticonvulsants
+
+- Do not stop abruptly. Taper over ≥6 weeks.
+
+*(See [[04_Neurology]] Seizures and Epilepsy and Anticonvulsants / Antiepileptics for more on seizures, epilepsy, and anticonvulsants; see Brain Tumours and Brain Lesion Localisation for more on brain tumours and localisation symptoms, not repeated here.)*
+
+
+<!-- ===== SOURCE: 15_12b_Paeds_-_Brain_Tumours.md ===== -->
+
+
+## Brain tumours
+
+- **D:** malignancy of the brain.
+
+### By location
+
+- **Medulloblastoma** — midline cerebellar embryonal tumour (inferior vermis). S/Smx: causes ↑ICP, speech difficulty, truncal ataxia ± falls. Seeding along CSF pathways. M>F 4:1; peak age 4.
+- **Brainstem astrocytoma** — associated with NF1, prior radiation. S/Smx: cranial nerve palsies, pyramidal tract signs (e.g. hemiparesis), cerebellar ataxia. The most common brain tumour in children.
+- **Midbrain and 3rd ventricle tumours** — may be astrocytomas, pinealomas, or colloid cysts. S/Smx: posture-dependent drowsiness, behaviour change, pyramidal tract and cerebellar signs, upward gaze defect.
+- **Suprasellar glioma** — S/Smx: visual field defects, optic atrophy, pituitary disorders (growth arrest, hypothyroidism, delayed puberty), diabetes insipidus.
+- **Cerebral hemispheres** — usually gliomas, rarely meningiomas. S/Smx: fits are common; other signs depend on the lobe involved. Mx: seizures, ↑ICP (dexamethasone, CSF shunt), and endocrine abnormalities. Excision if possible, radiotherapy, chemotherapy.
+
+## Red flags prompting consideration of a brain tumour
+
+> [!danger] Headache: >2 weeks that wake the child from sleep or occur on waking; persistent headache in any child <4 years old; headache associated with confusion or disorientation; persistent headache.
+
+> [!danger] Vomiting: >2 weeks of vomiting on waking; persistent vomiting.
+
+> [!danger] Visual system: papilloedema; optic atrophy; new onset nystagmus; proptosis; new-onset paralytic squint or diplopia; reduced visual acuity or visual fields not due to an ocular cause.
+
+> [!danger] Motor system: motor skill regression; focal motor weakness; abnormal gait/ataxia; swallowing difficulties; persistent head tilt without cause; Bell's palsy with no improvement in 4 weeks.
+
+### When to refer for imaging
+
+- ≥2 symptoms/signs suggestive of tumour AND:
+  - **Endocrine symptoms:** precocious, arrested, or delayed puberty; galactorrhoea; amenorrhoea; growth failure; diabetes insipidus (polyuria, polydipsia).
+  - **Other symptoms:** ↑head size, macrocephaly (the most common presenting symptom in <4 year olds — measure head circumference); persisting lethargy; behavioural change (new mood disturbance, withdrawal, disinhibition); dysphagia, dysphasia; new focal seizures.
+
+### Referral pathway
+
+- Discuss with a specialist the same day if a tumour is suspected.
+- The child should be seen within 2 weeks. Imaging reported <4 weeks.
+- MRI, contrast CT if MRI unavailable (EEG is not useful).
+
+### DDx (space-occupying lesions)
+
+- Aneurysms; haematomas; granulomas; tuberculomas; cysts (neurocysticercosis); abscess (suspect if ↑ICP, ↑temperature, ↑WCC).
+
+## Spinal tumours
+
+- Consider in children presenting with back or neck pain, gait abnormality, focal weakness, or scoliosis. Rare.
+
+*(See [[04_Neurology]] Brain Tumours and Brain Lesion Localisation for more on brain tumours and localisation symptoms in adults, not repeated here. For the adult spinal tumour presentation and its management, see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Spinal tumours.)*
+
+
+<!-- ===== SOURCE: 15_13a_Paeds_-_Neural_Tube_Defects.md ===== -->
+
+
+## Neural tube defects — overview
+
+- **D:** spectrum of disorders that can affect the brain or the spinal cord.
+- **R:** inadequate maternal folate/B12 intake, antenatal exposure to valproate, carbamazepine, isotretinoin, or methotrexate; previous affected pregnancy (10× risk); maternal history of spina bifida or other neural tube defect; maternal obesity or diabetes.
+- **A:** genetic + environmental factors.
+- **P:** failure of normal fusion of the neural plate to form the neural tube during the first 28 days following conception.
+
+## Anencephaly
+
+- Failure to develop most of the cranium and brain.
+- Most infants are born stillborn or die shortly after birth.
+- Can be detected on antenatal ultrasound — offer termination of pregnancy.
+
+## Encephalocele
+
+- Extrusion of brain and meninges through a midline skull defect.
+- Usually associated with cerebral malformations.
+
+## Spina bifida occulta
+
+- Failure of fusion of the vertebral arch. Aka closed spinal dysraphism.
+- **S/Smx:** may be asymptomatic (identified incidentally on XR). Overlying skin lesion (e.g. tuft of hair, lipoma, etc) in the lumbar region usually.
+
+> [!warning] Tethered cord syndrome: ↓lower limb function (children begin to stumble after they have learnt to walk normally); ↓bladder function (children classically start to dribble after being successfully toilet trained); other findings — footdrop, painless sores, scoliosis, back pain exacerbated by exercise in older children.
+
+## Meningocele
+
+- Herniation of the meninges without involvement of spinal elements.
+- Apart from the visible deformity, there are no neurological symptoms.
+
+## Myelomeningocele
+
+- Herniation of both meninges and spinal cord — 80% involves the lumbar and sacral region.
+- Associated with Chiari II malformation and hydrocephalus — downward displacement of the cerebellar tonsils and medulla (Chiari II), obstruction of CSF flow through the posterior fossa → hydrocephalus.
+- **S/Smx:** Chiari II + hydrocephalus can cause cognitive deficits, attention deficits, stridor, apnoea, etc. Neurologic deficits depend on the level of the lesion — typically affects trunk, legs, bladder, and bowel. Urinary and faecal incontinence affects 97% of patients.
+- **Ix:** diagnosis on antenatal ultrasound or direct visualisation at birth.
 - **Mx:**
-  - **In preterm infants:** indomethacin or ibuprofen (MOA: ↓prostaglandin synthesis, closes the connection in the majority). If associated with another heart defect, prostaglandin E1 (alprostadil) is useful to keep the duct open until after surgical repair.
-  - **In older children:** observe until age 1 with echo. Transcatheter or surgical closure.
-
-## Coarctation of the aorta
-
-- **D:** narrowing in the aorta, most commonly at the site of insertion of the ductus arteriosus, just distal to the left subclavian artery.
-- **R:** M>F, Turner syndrome (50%), DiGeorge syndrome, HLHS, Shone's complex, PHACE syndrome.
-- **P:** effects depend on severity of narrowing and resultant ↑afterload on the LV.
-- **S/Smx:**
-  - Infancy: heart failure.
-  - Adult: hypertension — also associated with bicuspid aortic valve, berry aneurysms, and neurofibromatosis.
-  - Radio-femoral delay; mid systolic murmur, maximal over the back; apical click from the aortic valve; notching of the inferior border of the ribs (due to collateral vessels — not seen in young children).
-- **Mx:** if not severe, watch and wait. If critical + risk of HF, prostaglandin E is used to keep the ductus arteriosus open while waiting for surgery. Definitive treatment: surgery to correct coarctation and ligate the ductus arteriosus.
-
-## Congenital aortic valve stenosis
-
-- **D:** narrow aortic valve that restricts blood flow from the left ventricle into the aorta.
-- **S/Smx:** mild stenosis may be asymptomatic. Severe: fatigue, SOB, dizziness, fainting — usually presents within months of birth. Ejection systolic murmur, loudest at the aortic area (crescendo-decrescendo), radiates to the carotids. Ejection click, palpable thrill, slow rising pulse, and narrow pulse pressure.
-- **Dx/Ix:** echo, ECG, exercise testing.
-- **Mx:** percutaneous balloon aortic valvuloplasty, surgical aortic valvotomy, valve replacement.
-
-## Eisenmenger's syndrome
-
-- **D:** shunt reversal (blood flowing from the RV to the LV) leading to distribution of de-oxygenated blood to the systemic arterial circulation.
-- **A:** ASD, VSD, PDA.
-- **P:** over time, pulmonary hypertension develops. ↑Pulmonary pressure > systemic pressure → reversal of shunt (R>L). This causes deoxygenated blood to bypass the lungs and enter the body → cyanosis.
-- **S/Smx of pulmonary hypertension:** RV heave, loud P2, ↑JVP, peripheral oedema. Also cyanosis, clubbing, SOB, plethoric complexion (associated with polycythaemia).
-- **Mx:** only definitive management is heart-lung transplant.
-
-*(See [[15_20a_Paeds_-_Trisomies_and_Sex_Chromosome_Disorders]] Turner syndrome and [[15_21a_Paeds_-_Microdeletion_Syndromes__Cri_du_Chat__DiGeorge__Williams_]] DiGeorge syndrome for detail, not repeated here.)*
-
-> [!info] Related syndromes
-> - **Hypoplastic left heart syndrome (HLHS):** underdeveloped LV, mitral and aortic valves ± ASD.
-> - **Shone's complex:** supravalvular mitral membrane, parachute mitral valve, subvalvular aortic stenosis, and coarctation of the aorta.
-> - **PHACE syndrome:** posterior fossa malformations, haemangioma, arterial anomalies, coarctation of the aorta/cardiac defects, and eye abnormalities.
+  - Surgery soon after birth to close up the back lesion — in some centres, fetal surgery can be performed during pregnancy.
+  - Physiotherapy for paralysis and muscle imbalances.
+  - Skin care required to avoid sores (↓sensation conveys ↑risk).
+  - Catheterisation for neuropathic bladder, and regular toileting for bowel incontinence.
 
 
-<!-- ===== SOURCE: 15_06_Paeds_-_Cyanotic_CHD__Kawasaki_Disease__Murmurs.md ===== -->
+<!-- ===== SOURCE: 04_Neurology.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
+### Febrile Convulsions
+Children 6 months to 5 years old, ~3% of children; occurs early in a viral infection when temperature rises rapidly; brief, generalised tonic-clonic or tonic.
 
-## Tetralogy of Fallot (ToF)
-
-- **D:** congenital cardiac malformation with four classic findings:
-  1. Pulmonary stenosis.
-  2. RV hypertrophy (concentric).
-  3. Over-riding aorta.
-  4. VSD.
-- **R:** rubella, ↑maternal age (>40), maternal alcoholism, GDM.
-- **P:** degree of RV outflow tract obstruction determines severity. Significant pulmonary obstruction results in cyanosis — blood is shunted from the RV to the aorta through the VSD.
-
-> [!danger] "Tet spells" — episodes of severe cyanosis associated with hyperpnoea, due to pulmonary obstruction → ↓pulmonary blood flow, ↑R-L shunting across the VSD.
-
-- **S/Smx:** can be picked up on antenatal scans or newborn check. Tet spells (baby turns blue and may faint; triggered by crying, pooping, etc). Harsh ejection systolic murmur at the LLSE. R-sided aortic arch in 25%. CXR shows a "boot-shaped" heart; ECG shows RV hypertrophy.
-- **Dx/Ix:** echo, Doppler, CXR (not often done in practice).
-
-### Management of Tet spells
-
-- Squatting/knees to chest — increases systemic vascular resistance, encouraging blood to enter pulmonary vessels.
-- Supplemental O2.
-- Beta-blockers — relax the RV.
-- IV fluids — increase preload.
-- Morphine — decreases respiratory drive, more effective breathing.
-- Bicarbonate — buffers metabolic acidosis.
-- Phenylephrine infusion — increases systemic vascular resistance.
-
-### Definitive management
-
-- Prostaglandin infusion to maintain the ductus arteriosus.
-- Total surgical repair by open heart surgery — a 2-stage procedure at 6 months, with ~5% mortality.
-
-## Transposition of the great arteries (TGA)
-
-- **D:** attachments of the aorta and the pulmonary trunk to the heart are transposed. Incidence 4.7 per 10,000 live births.
-- **R:** M>F, diabetic mothers.
-- **A/P:** embryological discordance between the aorta and pulmonary trunk — aorta arises from the RV, pulmonary trunk arises from the LV → two parallel circuits, incompatible with life without a shunt.
-- **S/Smx:** degree of symptoms depends on other defects (e.g. PDA, ASD, or VSD) that allow a shunt for oxygenation. May be picked up on antenatal ultrasound. Cyanosis, tachypnoea; loud single S2; prominent RV impulse; "egg-on-side" appearance on CXR.
-- **Mx:**
-  - Prostaglandin E infusion to maintain the ductus arteriosus.
-  - Balloon septostomy — inserting a catheter into the foramen ovale via the umbilicus, inflating the balloon to create a large ASD, allowing for shunting.
-  - Definitive: open heart surgery.
-
-## Ebstein's anomaly
-
-- **D:** low insertion of the tricuspid valve resulting in a large atrium and small ventricle. Sometimes referred to as "atrialisation" of the RV.
-- **R:** maternal use of lithium.
-- Associated with a patent foramen ovale or ASD (80%), resulting in a shunt, and WPW syndrome.
-- **S/Smx:** often present after a few days of birth, after the ductus arteriosus closes. Evidence of HF (e.g. oedema); gallop rhythm on auscultation (S3 and S4); cyanosis; SOB and tachypnoea; poor feeding; collapse or cardiac arrest.
-- **Dx/Ix:** echo.
-- **Mx:** medical management of arrhythmias and HF; possibly prophylactic antibiotics to prevent infective endocarditis; definitive management by surgical correction.
-
-## Murmurs and heart sounds in children
-
-- Innocent murmurs occur in ~80% of children at some time (e.g. fever, anxiety, etc).
-- A flow murmur is the most common.
-- A venous hum is heard above or below the clavicles, continuous, low pitched — abolished by pressing the ipsilateral jugular or lying down.
-- Still's murmur — heard at the LLSE to apex, early systolic, vibratory, loudest lying flat; the child is well.
-
-> [!danger] Red flags: signs of HF; faltering growth; chest pain; syncope; unexplained fever; cyanosis; clubbing; diastolic murmur; thrills (grade ≥IV); heave.
-
-> [!warning] Increased suspicion warranted with a family history of congenital heart disease.
-
-## Kawasaki disease
-
-- **D:** systemic vasculitis that occurs almost exclusively in childhood.
-- **R:** Asian ancestry (especially Japanese), age 3 months to 4 years.
-- **A:** possible infection in a susceptible host. **P:** arterial vasculitis and remodelling.
-
-> [!info] Diagnostic criteria — Classic Kawasaki disease must have 5 days of fever refractory to antibiotic therapy (if given) AND ≥4 of the following:
-> - Bilateral conjunctivitis.
-> - Polymorphous rash.
-> - ≥1 mucous membrane change — red and cracked lips; sore throat/injected pharynx; strawberry tongue.
-> - ≥1 extremity change — erythema and desquamation of palms/soles (redness then peeling of skin); periungual desquamation of fingers and toes.
-> - Cervical lymphadenopathy.
+> [!warning] **This is a one-line definition and was the whole entry.** [[15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus]] Febrile seizures/convulsions owns it, and carries the three things missing here that change what you do:
+> - **Simple vs complex.** A *simple* febrile seizure is generalised, lasts **<15 minutes**, and occurs **once in 24 hours**. Focal onset, duration >15 minutes, or recurrence within 24 hours make it **complex** — which changes the risk and the threshold for investigation.
+> - **Meningitis must be actively excluded** — the fever is the presenting feature of both, and this entry named neither the differential nor the work-up (source of infection, MSU, CXR, ENT swabs; avoid LP in the postictal period).
+> - **Management**, including that a seizure lasting **>5 minutes is treated as status epilepticus** — see Status Epilepticus below in this file.
 >
-> Atypical Kawasaki disease may present with fewer of these symptoms.
+> Linked and summarised by the G27 round (2026-08-29). Both entries agree on the ~3% incidence and the seizure description.
 
-- **Ix:** clinical diagnosis. Following diagnosis, patients will need echos to look for coronary artery aneurysms.
-- **Mx:**
-  - High-dose aspirin — 80–100mg/kg/day PO given in 4 divided doses for 24–72h after fever stops (up to 14 days), then 3–5mg/kg PO OD for 6–8 weeks.
-  - **IVIG (intravenous immunoglobulin)** — high-dose, acting as an immunomodulator rather than as passive protection, and given to reduce the risk of coronary artery aneurysms rather than to treat an infection (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Passive Immunisation — Immunoglobulin After an Exposure for the distinction).
-  - Echo — if coronary artery aneurysms are spotted, refer to paediatric cardiology.
+<!-- ===== SOURCE: M5_Paediatric_GI__GU_and_Limb.md ===== -->
 
-> [!danger] Complications: coronary artery aneurysms. Highest risk in those who do not receive IVIG within 10 days of fever onset, and patients who have persistent fever and inflammation despite treatment.
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Age-based frameworks, discriminators and clinical reasoning are reliable at intern level. **Every dose, age threshold, scoring system and imaging criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** **All paediatric doses are omitted** — obtain them from the **Royal Children's Hospital Melbourne guidelines** and your local formulary.
+>
+> **Neonatal vomiting and malrotation are built in [[M3]] 0.4**, **fever and UTI in [[M2]]**, and **septic arthritis in [[L1]] 0.2** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Acute Abdominal Pain in Children
+
+> [!tip] The differential is driven by AGE
+> **· INFANT: INTUSSUSCEPTION · MALROTATION with volvulus · incarcerated hernia · necrotising enterocolitis · Hirschsprung disease · urinary tract infection · TESTICULAR TORSION · and colic (a diagnosis of exclusion).**
+> **· TODDLER AND PRESCHOOL: intussusception · APPENDICITIS · CONSTIPATION · gastroenteritis · UTI · mesenteric adenitis · IgA vasculitis · testicular torsion.**
+> **· SCHOOL AGE AND ADOLESCENT: APPENDICITIS · constipation · gastroenteritis · mesenteric adenitis · UTI · DIABETIC KETOACIDOSIS · inflammatory bowel disease · functional abdominal pain · and, in girls, OVARIAN TORSION and ECTOPIC PREGNANCY.**
+
+> [!danger] Three things to do in every child with abdominal pain
+> **1. EXAMINE THE SCROTUM IN EVERY BOY.** **Testicular torsion presents with abdominal pain, and the boy may be too embarrassed to mention the scrotal pain — particularly an adolescent.** **Missing it because you did not look is a preventable loss of a testis.** Cross-refer [[H4]] 0.1.
+> **2. CHECK THE GLUCOSE.** **Diabetic ketoacidosis presents with abdominal pain and vomiting**, and new-onset type 1 diabetes in a child is frequently first diagnosed in DKA — sometimes after the abdominal pain has been attributed to gastroenteritis. Cross-refer [[F0.2]] 0.3.
+> **3. DO A PREGNANCY TEST IN ANY GIRL WHO COULD BE PREGNANT** — which includes adolescents who say they are not sexually active, asked and tested privately.
+
+> [!warning] Appendicitis in children is atypical and perforates faster
+> **The classic history of central pain migrating to the right iliac fossa is FREQUENTLY ABSENT in young children.**
+> **· Under about five, appendicitis presents non-specifically — vomiting, diarrhoea, fever, irritability, refusal to walk — and is REGULARLY MISDIAGNOSED AS GASTROENTERITIS.**
+> **· PERFORATION RATES ARE HIGH in young children**, both because presentation is atypical and because the omentum is less developed and less able to wall off the infection.
+> **· A child who is quiet, still, and does not want to move or be jostled has peritonism** — in contrast to the child with colic who writhes.
+> **The most useful investigation is SERIAL EXAMINATION by the same clinician over hours.** Scoring systems support the assessment but do not replace it. `UNVERIFIED — the scoring systems and their thresholds.`
+> **Diarrhoea does NOT exclude appendicitis** — a pelvic appendix irritates the rectum and produces loose stool, which is a classic trap.
+
+> [!danger] Intussusception — the episodic pallor is the clue
+> **Typically between about six months and two years.**
+> **The presentation: EPISODES of sudden inconsolable crying with DRAWING UP OF THE LEGS and marked PALLOR, lasting minutes, recurring every 15–20 minutes — with the child appearing NORMAL OR LETHARGIC in between.**
+> **THE LETHARGY BETWEEN EPISODES MAY BE THE DOMINANT FEATURE**, and intussusception is a recognised cause of the "unexplained lethargic child" with no abdominal signs. Cross-refer [[M1]] 0.5.
+> **"Redcurrant jelly" stool and a palpable sausage-shaped mass are LATE features — waiting for them means waiting too long.**
+> **Diagnosis: ULTRASOUND, showing the "target" or "doughnut" sign.**
+> **Treatment: AIR (or contrast) ENEMA REDUCTION under radiological guidance is both diagnostic and therapeutic, with a high success rate** — and it is one of the more satisfying interventions in paediatrics. **Surgery for failed reduction, peritonitis or perforation.**
+> **A pathological lead point (Meckel diverticulum, polyp, lymphoma, IgA vasculitis) is more likely in older children and in recurrent cases.**
+
+> [!tip] Functional abdominal pain — and the red flags that argue against it
+> **Recurrent abdominal pain is very common in school-age children and is usually functional.** **It is a POSITIVE diagnosis, and it is real pain.**
+> **The useful rule: "the further from the umbilicus, the more likely it is organic".** Periumbilical pain in a well, thriving child with a normal examination is reassuring.
+> **RED FLAGS suggesting organic disease: weight loss or growth faltering · pain that WAKES the child from sleep · blood in the stool · BILIOUS vomiting · dysphagia · persistent fever · joint symptoms or rash · perianal disease (fissures, tags, fistulae — suggesting Crohn disease) · a family history of inflammatory bowel disease or coeliac disease · pain localised away from the umbilicus, particularly right lower or right upper quadrant · and unexplained anaemia.**
+> **Management of functional pain: explain the mechanism (real pain, gut-brain interaction), avoid repeated investigation, address school attendance and anxiety, and focus on function.** Cross-refer [[N6]] 0.2 and [[C5]] 0.3.
+
+---
+
+## 0.2 Vomiting and Gastroenteritis
+
+> [!danger] Vomiting without diarrhoea is not gastroenteritis
+> **Gastroenteritis is a diagnosis that requires DIARRHOEA. Isolated vomiting has a different and more serious differential:**
+> **· SURGICAL — obstruction, appendicitis, intussusception, malrotation.**
+> **· RAISED INTRACRANIAL PRESSURE — tumour, hydrocephalus, abusive head trauma. Ask about early morning vomiting, headache, and check the fontanelle and head circumference.**
+> **· DIABETIC KETOACIDOSIS.**
+> **· URINARY TRACT INFECTION and sepsis.**
+> **· Metabolic disease.**
+> **· Poisoning.**
+> **"Vomiting, no diarrhoea, tender abdomen" is not gastroenteritis until those have been considered.**
+> **And BILIOUS (green) vomiting means OBSTRUCTION until proven otherwise, at ANY age** — in an infant, malrotation with volvulus. Cross-refer [[M3]] 0.4.
+
+> [!tip] Gastroenteritis — assess the dehydration, not the diarrhoea
+> **The clinical task is quantifying DEHYDRATION and deciding the route of rehydration** — the causative organism rarely changes management.
+> **Viral causes predominate — norovirus, adenovirus, and rotavirus, which has been substantially reduced in Australia by the ROTAVIRUS VACCINE on the national schedule.**
+> **The best measure of dehydration is the CHANGE IN WEIGHT against a recent known weight.** Clinical signs — capillary refill, skin turgor, mucous membranes, sunken eyes and fontanelle, tears, urine output, conscious state — supplement it. `UNVERIFIED — the clinical grading of severity.`
+
+> [!warning] Oral and nasogastric rehydration beats intravenous fluid in most cases
+> **ORAL REHYDRATION SOLUTION, given in small frequent volumes, is first-line and is as effective as intravenous fluid in mild to moderate dehydration, with fewer complications and less distress.**
+> **NASOGASTRIC rehydration is preferable to intravenous in a child who cannot tolerate oral fluids but is not shocked** — it avoids cannulation, is well tolerated, and is under-used because clinicians reach for a drip.
+> **ONDANSETRON reduces vomiting, improves the success of oral rehydration and reduces the need for intravenous fluids and admission**, and is now widely used in paediatric emergency practice. `UNVERIFIED — dosing and the age restrictions.`
+> **DO NOT use antidiarrhoeal agents (loperamide) in children** — they cause ileus, and mask ongoing losses.
+> **CONTINUE FEEDING.** **Breastfeeding should continue throughout. There is no need for dilute formula, routine lactose-free formula, or a period of "gut rest"** — early refeeding shortens the illness. **The old advice to withhold milk is outdated.**
+
+> [!danger] Bloody diarrhoea — and haemolytic uraemic syndrome
+> **Bloody diarrhoea raises bacterial causes: *Campylobacter*, *Salmonella*, *Shigella*, and Shiga toxin-producing *Escherichia coli* (STEC).**
+> **HAEMOLYTIC URAEMIC SYNDROME follows STEC infection, typically days after the diarrhoea, with the triad of MICROANGIOPATHIC HAEMOLYTIC ANAEMIA, THROMBOCYTOPENIA and ACUTE KIDNEY INJURY.**
+> **The warning signs: pallor, reduced urine output, oedema, lethargy and irritability in a child recovering from bloody diarrhoea.**
+> **ANTIBIOTICS ARE GENERALLY AVOIDED IN SUSPECTED STEC** — they may increase the risk of HUS by increasing toxin release. **This is a specific and counterintuitive point.**
+> **Antimotility agents are also contraindicated.** Cross-refer [[J2]] and [[H3]]. `UNVERIFIED — the current evidence and recommendations.`
+> **Notification and exclusion from childcare and school apply to several enteric pathogens.**
+
+---
+
+## 0.3 Constipation and Soiling
+
+> [!info] The vicious cycle explains both the problem and the treatment
+> **A painful or hard stool → the child WITHHOLDS → stool accumulates and hardens in the rectum → the rectum distends and its sensation is BLUNTED → the child no longer feels the urge → softer stool leaks around the impacted mass as OVERFLOW SOILING → which is embarrassing and blamed on the child → and the withholding intensifies.**
+> **Understanding this cycle is what makes the management make sense, and explaining it to the family is the most important part of the consultation.**
+
+> [!danger] Soiling is almost always overflow from constipation — not a behavioural problem
+> **ENCOPRESIS in a school-age child is usually OVERFLOW INCONTINENCE from faecal impaction, and the child has NO awareness or control of it.**
+> **Treating it as deliberate, lazy or attention-seeking — and punishing it — is harmful, common, and makes the problem worse.**
+> **The child is frequently mortified, hides soiled underwear, and is bullied. The family is frequently exhausted and angry.**
+> **DE-BLAMING IS THERAPEUTIC: say explicitly that this is a physical problem, that the child cannot feel it and cannot control it, that it is common, and that it is treatable.**
+> **An abdominal examination usually reveals palpable faecal loading.**
+
+> [!warning] The red flags suggesting an organic cause
+> **· DELAYED PASSAGE OF MECONIUM (beyond the first day or two of life).**
+> **· Constipation present from BIRTH or the first weeks.**
+> **· RIBBON-LIKE stools.**
+> **· Failure to thrive or growth faltering.**
+> **· Abdominal DISTENSION with vomiting.**
+> **· An abnormally positioned, patulous or abnormal-looking ANUS.**
+> **· ABNORMAL NEUROLOGY OR SPINE — a SACRAL DIMPLE, hairy patch, naevus or mass over the spine; abnormal lower limb tone, reflexes or gait; or bladder involvement — suggesting SPINAL DYSRAPHISM or tethered cord.**
+> **· Failure to respond to appropriate treatment.**
+> **These point to: HIRSCHSPRUNG DISEASE · anorectal malformation · spinal dysraphism · hypothyroidism · coeliac disease · hypercalcaemia · cow's milk protein allergy.**
+> **In the absence of red flags, functional constipation is the diagnosis and does not require investigation.**
+
+> [!danger] Under-treatment is the commonest reason treatment fails
+> **The two-phase approach:**
+> **1. DISIMPACTION FIRST.** **A child with a loaded rectum will not respond to maintenance doses — the impaction must be cleared first, usually with an escalating osmotic laxative regimen over several days.** **Warn the family that soiling may temporarily WORSEN during disimpaction**, or they will stop.
+> **2. MAINTENANCE FOR MONTHS.** **This is the step that is done badly.** **Maintenance laxatives must continue for MONTHS — often many months — after the child is passing normal stools, to allow the stretched rectum to return to normal size and sensation.**
+> **Stopping as soon as things improve guarantees relapse, and the family concludes the treatment failed.**
+> **Alongside: a TOILETING ROUTINE — sitting after meals to use the gastrocolic reflex, with the FEET SUPPORTED on a step (a child dangling their legs cannot generate effective abdominal pressure), unhurried, and without pressure · adequate fluid and dietary fibre · and a non-punitive reward system for sitting rather than for producing.**
+> **ORAL laxatives are preferred to rectal treatments in children**, which are distressing and rarely necessary.
+> `UNVERIFIED — agents, doses and disimpaction regimens.`
+
+---
+
+## 0.4 Urinary Tract Infection and Enuresis
+
+> [!danger] The sample matters more than the test
+> **UTI in infants and young children presents NON-SPECIFICALLY — fever without source, vomiting, poor feeding, irritability, lethargy, prolonged jaundice in neonates, or faltering growth.** **There are no urinary symptoms because they cannot report them.**
+> **OBTAIN A RELIABLE SAMPLE: clean catch, catheter specimen, or suprapubic aspirate.**
+> **BAG SPECIMENS HAVE AN UNACCEPTABLY HIGH CONTAMINATION RATE. A positive bag urine cannot be used to diagnose UTI**, and acting on one leads to unnecessary antibiotics, unnecessary imaging and a label that follows the child.
+> Cross-refer [[M2]] 0.3.
+
+> [!warning] Why childhood UTI matters, and when to image
+> **RENAL SCARRING from pyelonephritis in early childhood can lead to HYPERTENSION and CHRONIC KIDNEY DISEASE decades later** — which is the entire justification for taking childhood UTI seriously.
+> **Imaging is indicated for ATYPICAL or RECURRENT infection** — the definitions and the imaging pathway are protocol-defined and have become LESS interventionist over time, with fewer routine investigations than in older practice.
+> **Underlying abnormalities to consider: VESICOURETERIC REFLUX · obstruction (posterior urethral valves in boys — with a poor urinary stream) · duplex systems · and stones.**
+> `UNVERIFIED — the definitions of atypical and recurrent UTI, the imaging pathway, and the indications for prophylaxis, all of which differ between guidelines.`
+
+> [!tip] Nocturnal enuresis — and the two questions that direct management
+> **Bedwetting is NORMAL up to a defined age and remains common well beyond it.** `UNVERIFIED — the age.`
+> **QUESTION 1: PRIMARY (never reliably dry) or SECONDARY (previously dry for at least six months)?**
+> **SECONDARY enuresis requires a cause to be sought: URINARY TRACT INFECTION · new-onset DIABETES (ask about polyuria, polydipsia and weight loss) · CONSTIPATION · obstructive sleep apnoea · and PSYCHOSOCIAL STRESS, including bullying, family disruption, and ABUSE.** **New bedwetting in a previously dry child is a recognised presentation of distress and of sexual abuse, and it warrants gentle exploration.** Cross-refer [[M6]].
+> **QUESTION 2: IS THERE CONSTIPATION?** **CONSTIPATION IS A COMMON, TREATABLE AND ROUTINELY OVERLOOKED CAUSE OF BOTH BEDWETTING AND DAYTIME WETTING** — a loaded rectum compresses the bladder and reduces its functional capacity. **Treat the constipation before anything else, and a proportion of enuresis resolves.**
+
+> [!warning] Managing enuresis — and the single most important thing to say
+> **DE-BLAME. Say explicitly, to the child and in front of the parents: "this is not your fault, you are not doing it on purpose, and you are not the only one."**
+> **PUNISHMENT AND SHAMING ARE HARMFUL AND INEFFECTIVE**, and they are still common — including withholding fluids punitively, which does not work and makes the urine more irritant.
+> **Practical measures: normal daytime fluid intake with reduced intake in the last hour or two before bed · regular daytime voiding · treating constipation · a reward system for behaviours the child can control (drinking well, going to the toilet before bed) rather than for dry nights, which they cannot.**
+> **· ENURESIS ALARM — the best LONG-TERM cure rates, but requires motivation and a committed family, and takes weeks.**
+> **· DESMOPRESSIN — works quickly but relapse is usual on stopping. Genuinely useful for SHORT-TERM needs — school camps, sleepovers, holidays — where its rapid effect is exactly what is wanted.** **Fluid restriction in the evening is essential to avoid hyponatraemia.**
+> **DAYTIME WETTING is a different problem — overactive bladder, dysfunctional voiding, constipation or UTI.** **Red flags: CONTINUOUS dribbling (suggesting an ECTOPIC URETER), an abnormal urinary stream, and neurological or spinal signs.**
+
+---
+
+## 0.5 The Limping Child
+
+> [!danger] Exclude septic arthritis and osteomyelitis first, at any age
+> **A limping child has septic arthritis until proven otherwise.** **Septic arthritis of the hip in a child destroys the femoral head, because the intracapsular blood supply is compressed by raised intra-articular pressure.**
+> **The Kocher criteria — fever, non-weight-bearing, raised ESR and raised white cell count — stratify the probability of septic arthritis versus transient synovitis of the hip.** `UNVERIFIED — the criteria and the associated probabilities.`
+> **Where the diagnosis is genuinely uncertain, ASPIRATE.** Cross-refer [[L1]] 0.2.
+> **OSTEOMYELITIS may present with limp and localised bony tenderness with a normal joint, and radiographs are NORMAL for the first one to two weeks — MRI is the investigation.**
+
+> [!tip] The age-based framework
+> **· UNDER 3 YEARS: septic arthritis and osteomyelitis · DEVELOPMENTAL DYSPLASIA OF THE HIP presenting late · TODDLER'S FRACTURE (an undisplaced spiral tibial fracture from a trivial or unwitnessed twist, with a refusal to weight bear and often normal initial radiographs) · NON-ACCIDENTAL INJURY · and malignancy.**
+> **· 3 TO 10 YEARS: TRANSIENT SYNOVITIS (the commonest) · septic arthritis · PERTHES DISEASE · juvenile idiopathic arthritis · trauma · and malignancy.**
+> **· 10 TO 16 YEARS: SLIPPED UPPER FEMORAL EPIPHYSIS · Perthes presenting late · septic arthritis · JIA · Osgood-Schlatter disease · osteochondritis dissecans · sports injuries · and malignancy.**
+
+> [!warning] Transient synovitis versus septic arthritis
+> **TRANSIENT SYNOVITIS ("irritable hip") — typically 3 to 8 years, often after a viral upper respiratory infection, with a child who is AFEBRILE or has a low-grade temperature, is systemically WELL, will usually weight bear (with a limp), has a less restricted range of movement, and has normal or near-normal inflammatory markers.** Self-limiting over days.
+> **SEPTIC ARTHRITIS — febrile, systemically unwell, REFUSES to weight bear, holds the hip flexed abducted and externally rotated, resists ANY movement, and has raised inflammatory markers.**
+> **The overlap is real and the consequences of getting it wrong are severe.** **If in doubt, discuss with orthopaedics and aspirate — a negative aspirate is a good outcome, a destroyed femoral head is not.**
+
+> [!danger] Slipped upper femoral epiphysis — and it presents as KNEE pain
+> **Typically an adolescent, often overweight, sometimes during the growth spurt, and it can be bilateral.**
+> **IT FREQUENTLY PRESENTS WITH KNEE OR THIGH PAIN AND A NORMAL KNEE EXAMINATION.** **EXAMINE THE HIP IN EVERY CHILD OR ADOLESCENT WITH KNEE PAIN.**
+> **The signs: restricted INTERNAL ROTATION, and OBLIGATE EXTERNAL ROTATION ON HIP FLEXION — as the hip is flexed the leg rotates externally, which is close to pathognomonic.**
+> **Management: MAKE THE CHILD NON-WEIGHT-BEARING IMMEDIATELY and refer urgently to orthopaedics.** **Continued weight bearing can convert a stable slip into an unstable one, with a substantial risk of AVASCULAR NECROSIS.**
+> **Imaging requires a FROG-LEG LATERAL view** — an anteroposterior film alone can miss the slip.
+> **Consider the CONTRALATERAL hip**, which is also at risk.
+
+> [!warning] Perthes disease and developmental dysplasia
+> **PERTHES DISEASE — idiopathic avascular necrosis of the femoral head, typically in boys aged around 4 to 10.** **Insidious onset of a limp with hip or referred KNEE pain, and RESTRICTED ABDUCTION AND INTERNAL ROTATION.** Often bilateral. Managed with containment and observation depending on age and severity.
+> **DEVELOPMENTAL DYSPLASIA OF THE HIP — screened for at the newborn examination with Barlow and Ortolani tests, but LATE PRESENTATION occurs.** **Later signs: limited hip ABDUCTION, asymmetric skin creases, apparent leg length discrepancy, a waddling gait or toe-walking on one side.**
+> **Risk factors warranting ultrasound screening: BREECH presentation · FAMILY HISTORY · female sex · firstborn.** Cross-refer [[M3]] 0.6.
+
+> [!danger] Night pain, rest pain and systemic features mean malignancy
+> **· LEUKAEMIA — the commonest childhood malignancy, and it presents with bone pain and limp in a meaningful proportion.** **Look for PALLOR, BRUISING or petechiae, LYMPHADENOPATHY, HEPATOSPLENOMEGALY, fever and lethargy.** **A full blood count and film is the test, and it should be done today.**
+> **· OSTEOSARCOMA and EWING SARCOMA — persistent bone pain, often around the knee or in the proximal humerus, WORSE AT NIGHT, unrelated to activity, sometimes with a palpable mass or swelling.** **Radiograph first, and refer to a specialist sarcoma service BEFORE biopsy.** Cross-refer [[B6]] 0.8 and [[J4]].
+> **A child with persistent bone pain that wakes them at night needs imaging and a blood count, not reassurance and analgesia.**
+
+**Ix:** **Examine the ENTIRE lower limb, the spine, the abdomen and the scrotum — and observe the child WALKING** (*why:* the source of a limp is frequently not where the child says it hurts, and hip pathology refers to the knee; *what:* the site and the gait pattern). **Radiographs including a FROG-LEG LATERAL of the hips** (*why:* SUFE and Perthes are missed on an AP view alone; *what:* slip, femoral head changes, fracture). **FBC and FILM, CRP, ESR, blood cultures** (*why:* infection and leukaemia, and the film is what identifies blasts; *what:* inflammatory markers, blast cells). **Ultrasound of the hip** (*why:* detects an effusion and guides aspiration; *what:* effusion). **Joint aspiration where septic arthritis is possible** (*why:* the definitive test, and the consequences of missing it are permanent; *what:* cell count, Gram stain, culture). **MRI** (*why:* osteomyelitis, discitis and bone tumours, all of which are radiographically occult early; *what:* marrow oedema, collection, lesion). **Consideration of non-accidental injury** (*why:* fractures and limp in a non-mobile child, or with an inconsistent history; *what:* the pattern — cross-refer [[M6]]).
+
+---
+
+## 0.6 Bone Pain and Paediatric Orthopaedic Conditions
+
+> [!warning] "Growing pains" is a diagnosis of exclusion with a specific pattern
+> **The pattern that permits the diagnosis: BILATERAL · in the LOWER limbs, typically calves, thighs and behind the knees · occurring in the EVENING or waking the child at NIGHT · RELIEVED BY MASSAGE and comfort · with the child COMPLETELY WELL AND NORMAL BY MORNING and able to run and play · NO limp · NO joint swelling · NO systemic features · and a NORMAL examination.**
+> **WHAT IS NOT GROWING PAINS: unilateral pain · pain in a JOINT · persistent pain · pain with a LIMP · pain present in the morning · systemic symptoms · localised bony tenderness · or an abnormal examination.**
+> **Applying the label loosely is how leukaemia and bone tumours are delayed.**
+
+> [!danger] Juvenile idiopathic arthritis — and the uveitis that has no symptoms
+> **Arthritis persisting beyond a defined duration in a child, of unknown cause, with several subtypes.**
+> **THE POINT THAT MATTERS MOST: OLIGOARTICULAR JIA, particularly in young ANA-POSITIVE girls, carries a substantial risk of CHRONIC ANTERIOR UVEITIS THAT IS COMPLETELY ASYMPTOMATIC — no pain, no redness, no photophobia — and which causes cataract, glaucoma, band keratopathy and BLINDNESS if undetected.**
+> **These children require REGULAR SLIT-LAMP SCREENING BY AN OPHTHALMOLOGIST on a defined schedule, regardless of symptoms and regardless of whether the arthritis is controlled.**
+> **This is the single highest-yield fact about JIA, and missed screening causes preventable blindness.** `UNVERIFIED — the screening intervals and risk stratification.`
+> **SYSTEMIC JIA (Still disease) — QUOTIDIAN (once-daily spiking) fever, an EVANESCENT SALMON-PINK rash appearing with the fever, arthritis, lymphadenopathy, hepatosplenomegaly and serositis.** **It is a cause of prolonged fever of unknown origin in a child** — cross-refer [[M2]] 0.1.
+> **MACROPHAGE ACTIVATION SYNDROME complicates systemic JIA: a life-threatening cytokine storm with persistent fever, cytopenias, a PARADOXICALLY FALLING ESR, a very high FERRITIN, hepatic dysfunction and coagulopathy.** **A child with systemic JIA who deteriorates with falling cell counts needs it considered urgently.**
+
+> [!tip] The apophysitis and overuse conditions
+> **· OSGOOD-SCHLATTER DISEASE — traction apophysitis at the tibial tuberosity in an active adolescent, with a tender prominent tuberosity, worse with running and jumping. Self-limiting with skeletal maturity; managed with load modification.**
+> **· SEVER DISEASE — calcaneal apophysitis, causing heel pain in an active child.**
+> **· Osteochondritis dissecans, patellofemoral pain, and stress fractures.** Cross-refer [[L5]] and [[L6]].
+
+> [!warning] Scoliosis, and the physiological variants that worry parents
+> **ADOLESCENT IDIOPATHIC SCOLIOSIS — detected with the ADAMS FORWARD BEND TEST, looking for a rib hump.** Managed by observation, bracing or surgery depending on curve magnitude and remaining growth.
+> **RED FLAGS suggesting a SECONDARY cause requiring MRI: PAIN · a LEFT-sided thoracic curve (idiopathic curves are usually right thoracic) · neurological signs · onset in a young child · rapid progression · or an abnormal skin finding over the spine.**
+> **THE PHYSIOLOGICAL VARIANTS — worth knowing so you can reassure confidently:**
+> **· IN-TOEING — from persistent femoral anteversion, internal tibial torsion or metatarsus adductus, depending on age. Almost always resolves.**
+> **· BOW LEGS (genu varum) in toddlers and KNOCK KNEES (genu valgum) in preschoolers follow a normal developmental sequence and resolve.** **RED FLAGS: asymmetry · progression · short stature · pain · or a marked deformity — suggesting RICKETS, skeletal dysplasia or Blount disease.**
+> **· FLAT FEET — normal in young children (the arch develops with age) and usually benign if FLEXIBLE (an arch appears on tiptoeing or with the great toe extended). A RIGID flat foot, or a painful one, warrants investigation for tarsal coalition.**
+> **· TOE WALKING — common and often idiopathic, but exclude CEREBRAL PALSY, tethered cord, muscular dystrophy (check the CK in a boy) and autism.** Cross-refer [[M4]] 0.6.
+
+---
+
+> [!note] Cross-references
+> The seriously unwell child and the lethargic child → [[M1]] 0.5 · Fever, UTI and serious bacterial infection → [[M2]] · Neonatal vomiting, malrotation and pyloric stenosis → [[M3]] 0.4 · Growth, development and CK in motor delay → [[M4]] · Child protection and non-accidental injury → [[M6]] and [[GER4]] · Septic arthritis and joint aspiration → [[L1]] 0.2, 0.6 · Regional limb pain and referred knee pain → [[L5]] 0.4–0.5 · Paediatric fractures and Salter-Harris → [[L7]] 0.5 · Testicular torsion → [[H4]] 0.1 · Diabetic ketoacidosis → [[F0.2]] 0.3 · Haemolytic uraemic syndrome → [[J2]] and [[H3]] · Leukaemia and bone tumours → [[J4]] and [[B6]] 0.8 · Functional abdominal pain and IBS → [[N6]] 0.2 and [[C5]] 0.3 · Constipation in adults → [[C5]] 0.2 · Uveitis → [[E1]] · Adolescent health → [[M7]]
 
 
 <!-- ===== SOURCE: 15_07_Paeds_-_Abdominal_Pain__Neuroblastoma__Coeliac_Disease__Malnutrition__Diarrhoea_and_Vomiting.md ===== -->
@@ -1316,250 +3057,171 @@
 > [!note] The adult/haematology entry is [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Haemolytic uraemic syndrome (HUS), which also lists the non-STEC causes (pneumococcal infection, HIV, SLE, drugs, cancer) relevant outside childhood.
 
 
-<!-- ===== SOURCE: 15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus.md ===== -->
+<!-- ===== SOURCE: 15_05_Paeds_-_Acyanotic_Congenital_Heart_Disease.md ===== -->
 
 
-## Epilepsy — overview
+> [!note] Congenital heart disease occurs in 0.8% of live births.
 
-- **D:** tendency to recurrent unprovoked seizures (abnormal electrical brain activity). 1% of children will have a seizure not associated with fever by age 14.
-- Divided into generalised, focal, unknown — focal further divided by awareness; both further divided by signs (motor, non-motor).
+> [!info] Classification by shunt direction
+> - **Left→Right shunts / Acyanotic:** VSD (30%), ASD, PDA, coarctation of the aorta, aortic valve stenosis.
+> - **Right→Left shunts / Cyanotic:** Tetralogy of Fallot, transposition of the great arteries, tricuspid atresia, truncus arteriosus, total anomalous pulmonary venous drainage (TAPVD), hypoplastic left heart (HLH). *(See [[15_06_Paeds_-_Cyanotic_CHD__Kawasaki_Disease__Murmurs]] for detail on these, not repeated here.)*
 
-## Infantile spasms (West syndrome)
+## Ventricular septal defect (VSD)
 
-- Brief spasms at ~3–9 months. Flexion of head, trunk, limbs, then extension of arms — lasting 1–2 seconds, repeating up to 50×.
-- **EEG:** hypsarrhythmia.
-- Usually secondary to serious neuro abnormality (e.g. tuberous sclerosis, encephalitis, birth asphyxia). May be idiopathic.
-- **Possible treatment:** vigabatrin, steroids.
-- **P:** poor prognosis.
+- **D:** defects in the inter-ventricular septum that allow shunting of blood between the left and right ventricles.
+- **R:** family history, Down syndrome (35% of Down syndrome patients will have VSDs).
+- **P:** small defects may spontaneously close. Moderate to larger defects can lead to pulmonary hypertension due to ↑flow into the left ventricle and thus into the pulmonary circulation.
+- **S/Smx:** most present in infancy. Pulmonary hypertension; Eisenmenger's syndrome; murmur — holosystolic at the left parasternal border ± palpable thrill.
+- **Dx/Ix:** echo, CXR, ECG, cardiac MRI.
+- **Mx:** watch and wait for small defects. Moderate to severe — surgical closure. HF symptoms must be treated before surgery.
 
-## Absence seizures
+> [!danger] If the patient presents with severe pulmonary hypertension & Eisenmenger's syndrome, closure of the VSD is contraindicated. Use pulmonary vasodilators (e.g. bosentan, sildenafil) for supportive treatment; consider heart-lung transplant.
 
-- Generalised seizures (loss of consciousness) — the patient is unaware of the LOC.
-- Onset age 4–8. Each episode lasts <30 seconds, no warning, quick recovery.
-- **EEG:** 3Hz generalised, symmetrical.
-- **Tx:** sodium valproate, ethosuximide.
-- **P:** good prognosis; 90–95% seizure-free in adolescence.
+## Atrial septal defect (ASD)
 
-## Lennox-Gastaut syndrome
+- Interatrial communications: incomplete separation between the left and right atrium.
+- 5 types: secundum, ostium primum, sinus venosus, coronary sinus, and vestibular. Only secundum and vestibular defects are true ASDs.
+- **R:** F>M (2:1), maternal alcoholism.
+- **S/Smx:** the most common congenital heart defect to present in adulthood. Ejection systolic murmur, fixed splitting of S2. Embolism may pass from the venous system to the left side of the heart, causing a stroke.
 
-- Possibly an extension of infantile spasms. Onset age 1–5.
-- Atypical absences, falls, jerks; 90% moderate-severe mental handicap.
-- **EEG:** slow spike.
-- **Tx:** possibly ketogenic diet.
+| Type | Features |
+|---|---|
+| Ostium secundum (70% of ASDs) | Associated with Holt-Oram syndrome (tri-phalangeal thumbs); ECG shows RBBB with RAD |
+| Ostium primum | Presents earlier than ostium secundum; associated with abnormal AV valves; ECG shows RBBB with LAD, prolonged PR interval |
 
-## Juvenile myoclonic epilepsy (Janz syndrome)
+- **Mx:** young patients with small ASDs — watch and wait, spontaneous closure possible. If larger, or evidence of right atrial enlargement, surgical closure is indicated.
 
-- Typical onset in teenage years, F>M.
-- Infrequent generalised seizures, often in the morning or following sleep deprivation. Daytime absences. Sudden, shock-like myoclonic seizures.
-- **Mx:** sodium valproate. Sleep hygiene.
+## Patent ductus arteriosus (PDA)
 
-## Panayiotopoulos syndrome
-
-- 6% of all epilepsies. Benign focal epilepsy presenting in early childhood, age 4–7.
-- Autonomic symptoms dominate: vomiting, sweating, eye deviation, impaired consciousness ± bilateral clonic activity. Usually occurs at night. May last >30 minutes. No brain damage.
-- **EEG:** shifting ± multiple foci, occipital predominance.
-- **Mx:** remission usually occurs within 2 years; medication not needed.
-
-## Febrile seizures/convulsions
-
-- = single tonic-clonic, symmetrical generalised seizure lasting <15 minutes, occurring as temperature rises rapidly in a febrile illness in a normally developing child, occurring only once in 24h.
-- 3% of children have ≥1 febrile seizure; positive family history is common. **Age range 6 months to 5 years** — carried from [[04_Neurology]] Febrile Convulsions by the G27 round (2026-08-29), which stated the age band this entry did not.
-- **Dx/Ix:** find the source of infection, look for signs of meningitis. MSU, CXR, ENT swabs. Avoid LP in the postictal period.
-- **Mx:** O2 + recovery position. Check glucose. If the fit lasts >5 minutes, treat as status epilepticus.
-- **Parental education:** allay fear (the child is not dying). Febrile seizure is associated with ≤3% risk of epilepsy — risk increases with a positive family history, complex features (focal onset, >15 minutes, >1 seizure in 24h), developmental abnormality. Recurrence of febrile seizures is common. If a seizure lasts >5 minutes, call an ambulance.
-
-## Status epilepticus — management
-
-> [!info] Verified — the overall structure (benzodiazepine first-line, second-line anticonvulsant if seizures persist, RSI/anaesthesia if refractory) is internationally standard, including in Australian/NZ practice (via APLS-style algorithms), so the general framework doesn't need replacing. Genuinely useful AU/NZ-specific context: the **ConSEPT trial** — conducted across 13 Australian and New Zealand emergency departments via the PREDICT paediatric emergency research network — directly compared levetiracetam and phenytoin as second-line treatment for paediatric convulsive status epilepticus, finding phenytoin achieved seizure cessation in 60% vs levetiracetam's 50% in this specific AU/NZ trial population (a separate UK trial, EcLiPSE, found more comparable results between the two drugs) — meaning **either levetiracetam or phenytoin is a reasonable, evidence-supported second-line choice in Australian practice**, with local/institutional protocol determining which is preferred first. The exact time-based thresholds below (5/15/25/45 minutes) broadly reflect the same UK APLS-style structure used internationally; check current local/APLS ANZ protocol for the precise timing your institution uses, given minor variations exist between guideline versions.
-
-> [!danger] 0 minutes: ABC
-> - Secure airway; high flow O2.
-> - Basic obs + glucose — if hypoglycaemic, 2–5mL/kg IV glucose 10%, repeat glucose.
-> - Secure IV/IO access.
-> - Estimate weight; start the clock.
-
-> [!danger] 5 minutes:
-> - Lorazepam 0.1mg/kg IV/IO slow bolus, OR
-> - Buccal midazolam 0.5mg/kg (massage between the lower gum and cheek), OR
-> - Rectal diazepam 0.5mg/kg.
-
-> [!danger] 15 minutes:
-> - Repeat lorazepam.
-> - Call for senior help.
-> - Reconfirm epileptic seizure.
-> - Prepare phenytoin.
-
-> [!danger] 25 minutes:
-> - Phenytoin 20mg/kg IVI over 20 minutes (monitor ECG), OR phenobarbital 20mg/kg over 20 minutes.
-> - Call PICU and anaesthetist; prepare for intubation.
-
-> [!danger] 45 minutes:
-> - Rapid sequence induction with thiopental sodium 4mg/kg IV/IO.
-> - Transfer to PICU.
-
-### Tests during status epilepticus
-
-- Obs + glucose.
-- Consider: bloods (electrolytes), ABG, FBC + CRP, septic screen, anticonvulsant levels, toxicology screen (including CO, lead), blood ammonia.
-- Consider CT if focal seizures or focal neurological signs.
-
-## Anti-epileptic drug (AED) options by seizure type
-
-> [!info] Verified — the drug classes and sex-specific valproate caveat below are consistent with Australian practice, already independently verified against TGA safety guidance and Epilepsy Action Australia for the adult presentation in [[04_Neurology]] Seizures and Epilepsy → Generalised Tonic-Clonic Seizures — the same underlying principle applies here: Australia shares the UK's underlying valproate-teratogenicity caution (avoid in women/people who can bear children unless alternatives are ineffective) but has **not** adopted the UK's 2024 mandatory pregnancy-prevention-programme regulatory mechanism, a genuine but narrow AU/UK divergence in process rather than clinical substance — see that entry for the fuller detail, not repeated here. The specific drug choices themselves (valproate, lamotrigine, ethosuximide, levetiracetam, carbamazepine, oxcarbazepine by seizure type) are standard AMH/eTG choices in Australian paediatric practice.
-
-| Seizure type | 1st line | Other options |
-|---|---|---|
-| Generalised tonic-clonic | Males: sodium valproate. Females: lamotrigine, carbamazepine | Adjunctive: clobazam, levetiracetam, topiramate |
-| Absence | Ethosuximide | 2nd: sodium valproate. Others: lamotrigine, combination. Avoid: all others |
-| Myoclonic | Sodium valproate, levetiracetam, topiramate | — |
-| Tonic or atonic | Sodium valproate | 2nd: lamotrigine |
-| Focal | Carbamazepine or lamotrigine | 2nd: sodium valproate, oxcarbazepine, or levetiracetam |
-
-### Other treatment options
-
-- Ketogenic diet (may reduce fits by 2/3). SE: constipation, vomiting, etc.
-- Surgery: if there is an epileptogenic focus.
-- Vagal nerve stimulation: mainly for focal seizures not amenable to surgery.
-
-### Stopping anticonvulsants
-
-- Do not stop abruptly. Taper over ≥6 weeks.
-
-*(See [[04_Neurology]] Seizures and Epilepsy and Anticonvulsants / Antiepileptics for more on seizures, epilepsy, and anticonvulsants; see Brain Tumours and Brain Lesion Localisation for more on brain tumours and localisation symptoms, not repeated here.)*
-
-
-<!-- ===== SOURCE: 15_12b_Paeds_-_Brain_Tumours.md ===== -->
-
-
-## Brain tumours
-
-- **D:** malignancy of the brain.
-
-### By location
-
-- **Medulloblastoma** — midline cerebellar embryonal tumour (inferior vermis). S/Smx: causes ↑ICP, speech difficulty, truncal ataxia ± falls. Seeding along CSF pathways. M>F 4:1; peak age 4.
-- **Brainstem astrocytoma** — associated with NF1, prior radiation. S/Smx: cranial nerve palsies, pyramidal tract signs (e.g. hemiparesis), cerebellar ataxia. The most common brain tumour in children.
-- **Midbrain and 3rd ventricle tumours** — may be astrocytomas, pinealomas, or colloid cysts. S/Smx: posture-dependent drowsiness, behaviour change, pyramidal tract and cerebellar signs, upward gaze defect.
-- **Suprasellar glioma** — S/Smx: visual field defects, optic atrophy, pituitary disorders (growth arrest, hypothyroidism, delayed puberty), diabetes insipidus.
-- **Cerebral hemispheres** — usually gliomas, rarely meningiomas. S/Smx: fits are common; other signs depend on the lobe involved. Mx: seizures, ↑ICP (dexamethasone, CSF shunt), and endocrine abnormalities. Excision if possible, radiotherapy, chemotherapy.
-
-## Red flags prompting consideration of a brain tumour
-
-> [!danger] Headache: >2 weeks that wake the child from sleep or occur on waking; persistent headache in any child <4 years old; headache associated with confusion or disorientation; persistent headache.
-
-> [!danger] Vomiting: >2 weeks of vomiting on waking; persistent vomiting.
-
-> [!danger] Visual system: papilloedema; optic atrophy; new onset nystagmus; proptosis; new-onset paralytic squint or diplopia; reduced visual acuity or visual fields not due to an ocular cause.
-
-> [!danger] Motor system: motor skill regression; focal motor weakness; abnormal gait/ataxia; swallowing difficulties; persistent head tilt without cause; Bell's palsy with no improvement in 4 weeks.
-
-### When to refer for imaging
-
-- ≥2 symptoms/signs suggestive of tumour AND:
-  - **Endocrine symptoms:** precocious, arrested, or delayed puberty; galactorrhoea; amenorrhoea; growth failure; diabetes insipidus (polyuria, polydipsia).
-  - **Other symptoms:** ↑head size, macrocephaly (the most common presenting symptom in <4 year olds — measure head circumference); persisting lethargy; behavioural change (new mood disturbance, withdrawal, disinhibition); dysphagia, dysphasia; new focal seizures.
-
-### Referral pathway
-
-- Discuss with a specialist the same day if a tumour is suspected.
-- The child should be seen within 2 weeks. Imaging reported <4 weeks.
-- MRI, contrast CT if MRI unavailable (EEG is not useful).
-
-### DDx (space-occupying lesions)
-
-- Aneurysms; haematomas; granulomas; tuberculomas; cysts (neurocysticercosis); abscess (suspect if ↑ICP, ↑temperature, ↑WCC).
-
-## Spinal tumours
-
-- Consider in children presenting with back or neck pain, gait abnormality, focal weakness, or scoliosis. Rare.
-
-*(See [[04_Neurology]] Brain Tumours and Brain Lesion Localisation for more on brain tumours and localisation symptoms in adults, not repeated here. For the adult spinal tumour presentation and its management, see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Spinal tumours.)*
-
-
-<!-- ===== SOURCE: 15_13a_Paeds_-_Neural_Tube_Defects.md ===== -->
-
-
-## Neural tube defects — overview
-
-- **D:** spectrum of disorders that can affect the brain or the spinal cord.
-- **R:** inadequate maternal folate/B12 intake, antenatal exposure to valproate, carbamazepine, isotretinoin, or methotrexate; previous affected pregnancy (10× risk); maternal history of spina bifida or other neural tube defect; maternal obesity or diabetes.
-- **A:** genetic + environmental factors.
-- **P:** failure of normal fusion of the neural plate to form the neural tube during the first 28 days following conception.
-
-## Anencephaly
-
-- Failure to develop most of the cranium and brain.
-- Most infants are born stillborn or die shortly after birth.
-- Can be detected on antenatal ultrasound — offer termination of pregnancy.
-
-## Encephalocele
-
-- Extrusion of brain and meninges through a midline skull defect.
-- Usually associated with cerebral malformations.
-
-## Spina bifida occulta
-
-- Failure of fusion of the vertebral arch. Aka closed spinal dysraphism.
-- **S/Smx:** may be asymptomatic (identified incidentally on XR). Overlying skin lesion (e.g. tuft of hair, lipoma, etc) in the lumbar region usually.
-
-> [!warning] Tethered cord syndrome: ↓lower limb function (children begin to stumble after they have learnt to walk normally); ↓bladder function (children classically start to dribble after being successfully toilet trained); other findings — footdrop, painless sores, scoliosis, back pain exacerbated by exercise in older children.
-
-## Meningocele
-
-- Herniation of the meninges without involvement of spinal elements.
-- Apart from the visible deformity, there are no neurological symptoms.
-
-## Myelomeningocele
-
-- Herniation of both meninges and spinal cord — 80% involves the lumbar and sacral region.
-- Associated with Chiari II malformation and hydrocephalus — downward displacement of the cerebellar tonsils and medulla (Chiari II), obstruction of CSF flow through the posterior fossa → hydrocephalus.
-- **S/Smx:** Chiari II + hydrocephalus can cause cognitive deficits, attention deficits, stridor, apnoea, etc. Neurologic deficits depend on the level of the lesion — typically affects trunk, legs, bladder, and bowel. Urinary and faecal incontinence affects 97% of patients.
-- **Ix:** diagnosis on antenatal ultrasound or direct visualisation at birth.
+- **D:** persistence of the ductus arteriosus after birth.
+- **R:** prematurity (10× risk), maternal rubella (possibly 50%), F>M (2:1).
+- **A:** in the fetus, patency of the ductus arteriosus is maintained by low O2 and circulating PGE2/PGI2. After birth, ↑O2 and ↓prostaglandins (due to removal of the placenta and ↑pulmonary blood flow) lead to closure. Possibly ↓O2 exposure and continued sensitivity to prostaglandins in preterm infants leads to PDA.
+- **P:** shunting of blood from the aorta to the pulmonary artery through the PDA (L→R shunt, oxygenated blood goes into the pulmonary circulation). Can eventually result in late cyanosis in the lower extremities (differential cyanosis).
+- **S/Smx:** usually present at 2–3 months. Left subclavicular thrill; continuous "machinery" murmur (crescendo-decrescendo); large volume, bounding, collapsing pulse; wide pulse pressure; heaving apex beat.
 - **Mx:**
-  - Surgery soon after birth to close up the back lesion — in some centres, fetal surgery can be performed during pregnancy.
-  - Physiotherapy for paralysis and muscle imbalances.
-  - Skin care required to avoid sores (↓sensation conveys ↑risk).
-  - Catheterisation for neuropathic bladder, and regular toileting for bowel incontinence.
+  - **In preterm infants:** indomethacin or ibuprofen (MOA: ↓prostaglandin synthesis, closes the connection in the majority). If associated with another heart defect, prostaglandin E1 (alprostadil) is useful to keep the duct open until after surgical repair.
+  - **In older children:** observe until age 1 with echo. Transcatheter or surgical closure.
+
+## Coarctation of the aorta
+
+- **D:** narrowing in the aorta, most commonly at the site of insertion of the ductus arteriosus, just distal to the left subclavian artery.
+- **R:** M>F, Turner syndrome (50%), DiGeorge syndrome, HLHS, Shone's complex, PHACE syndrome.
+- **P:** effects depend on severity of narrowing and resultant ↑afterload on the LV.
+- **S/Smx:**
+  - Infancy: heart failure.
+  - Adult: hypertension — also associated with bicuspid aortic valve, berry aneurysms, and neurofibromatosis.
+  - Radio-femoral delay; mid systolic murmur, maximal over the back; apical click from the aortic valve; notching of the inferior border of the ribs (due to collateral vessels — not seen in young children).
+- **Mx:** if not severe, watch and wait. If critical + risk of HF, prostaglandin E is used to keep the ductus arteriosus open while waiting for surgery. Definitive treatment: surgery to correct coarctation and ligate the ductus arteriosus.
+
+## Congenital aortic valve stenosis
+
+- **D:** narrow aortic valve that restricts blood flow from the left ventricle into the aorta.
+- **S/Smx:** mild stenosis may be asymptomatic. Severe: fatigue, SOB, dizziness, fainting — usually presents within months of birth. Ejection systolic murmur, loudest at the aortic area (crescendo-decrescendo), radiates to the carotids. Ejection click, palpable thrill, slow rising pulse, and narrow pulse pressure.
+- **Dx/Ix:** echo, ECG, exercise testing.
+- **Mx:** percutaneous balloon aortic valvuloplasty, surgical aortic valvotomy, valve replacement.
+
+## Eisenmenger's syndrome
+
+- **D:** shunt reversal (blood flowing from the RV to the LV) leading to distribution of de-oxygenated blood to the systemic arterial circulation.
+- **A:** ASD, VSD, PDA.
+- **P:** over time, pulmonary hypertension develops. ↑Pulmonary pressure > systemic pressure → reversal of shunt (R>L). This causes deoxygenated blood to bypass the lungs and enter the body → cyanosis.
+- **S/Smx of pulmonary hypertension:** RV heave, loud P2, ↑JVP, peripheral oedema. Also cyanosis, clubbing, SOB, plethoric complexion (associated with polycythaemia).
+- **Mx:** only definitive management is heart-lung transplant.
+
+*(See [[15_20a_Paeds_-_Trisomies_and_Sex_Chromosome_Disorders]] Turner syndrome and [[15_21a_Paeds_-_Microdeletion_Syndromes__Cri_du_Chat__DiGeorge__Williams_]] DiGeorge syndrome for detail, not repeated here.)*
+
+> [!info] Related syndromes
+> - **Hypoplastic left heart syndrome (HLHS):** underdeveloped LV, mitral and aortic valves ± ASD.
+> - **Shone's complex:** supravalvular mitral membrane, parachute mitral valve, subvalvular aortic stenosis, and coarctation of the aorta.
+> - **PHACE syndrome:** posterior fossa malformations, haemangioma, arterial anomalies, coarctation of the aorta/cardiac defects, and eye abnormalities.
 
 
-<!-- ===== SOURCE: 15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate.md ===== -->
+<!-- ===== SOURCE: 15_06_Paeds_-_Cyanotic_CHD__Kawasaki_Disease__Murmurs.md ===== -->
 
 
-## Autism spectrum disorder (ASD)
+## Tetralogy of Fallot (ToF)
 
-- **D:** lifelong neurodevelopmental condition characterised by persistent impairments in social communication, and restricted, repetitive, and stereotyped patterns of behaviours, interests, or activities.
-- **R:** M>F (4:1), family history positive, valproate exposure in pregnancy.
-- **A:** genetic element. **P:** modified brain development → reorganisation of neural networks underlying cognition and behaviour.
+- **D:** congenital cardiac malformation with four classic findings:
+  1. Pulmonary stenosis.
+  2. RV hypertrophy (concentric).
+  3. Over-riding aorta.
+  4. VSD.
+- **R:** rubella, ↑maternal age (>40), maternal alcoholism, GDM.
+- **P:** degree of RV outflow tract obstruction determines severity. Significant pulmonary obstruction results in cyanosis — blood is shunted from the RV to the aorta through the VSD.
 
-> [!info] DSM-5 criteria
-> - Persistent deficits in social communication and interaction across multiple contexts — ↓social-emotional reciprocity; ↓non-verbal communicative behaviours used for social interaction; ↓developing/understanding relationships.
-> - Restricted, repetitive patterns of behaviour, interests, or activities — stereotyped or repetitive motor movements, use of objects, or speech; insistence of sameness, inflexible adherence to routines, or ritualised patterns of verbal or non-verbal behaviour; highly restricted, fixated interests abnormal in intensity or focus; hyper- or hyporeactivity to sensory input or unusual interest in sensory aspects of the environment.
-> - Symptoms must be present in the early developmental period.
-> - Symptoms cause clinically significant impairment in social, occupational, or other important areas of current functioning.
+> [!danger] "Tet spells" — episodes of severe cyanosis associated with hyperpnoea, due to pulmonary obstruction → ↓pulmonary blood flow, ↑R-L shunting across the VSD.
 
-> [!info] 3 levels of severity: Level 1 (some support); Level 2 (substantial support); Level 3 (very substantial support).
+- **S/Smx:** can be picked up on antenatal scans or newborn check. Tet spells (baby turns blue and may faint; triggered by crying, pooping, etc). Harsh ejection systolic murmur at the LLSE. R-sided aortic arch in 25%. CXR shows a "boot-shaped" heart; ECG shows RV hypertrophy.
+- **Dx/Ix:** echo, Doppler, CXR (not often done in practice).
 
-> [!note] Asperger syndrome has been removed as a diagnostic entity in current classification systems.
+### Management of Tet spells
 
-- **Ix:** if a child is suspected to have ASD (usually presents around age 2–4), refer to an MDT for assessment.
+- Squatting/knees to chest — increases systemic vascular resistance, encouraging blood to enter pulmonary vessels.
+- Supplemental O2.
+- Beta-blockers — relax the RV.
+- IV fluids — increase preload.
+- Morphine — decreases respiratory drive, more effective breathing.
+- Bicarbonate — buffers metabolic acidosis.
+- Phenylephrine infusion — increases systemic vascular resistance.
+
+### Definitive management
+
+- Prostaglandin infusion to maintain the ductus arteriosus.
+- Total surgical repair by open heart surgery — a 2-stage procedure at 6 months, with ~5% mortality.
+
+## Transposition of the great arteries (TGA)
+
+- **D:** attachments of the aorta and the pulmonary trunk to the heart are transposed. Incidence 4.7 per 10,000 live births.
+- **R:** M>F, diabetic mothers.
+- **A/P:** embryological discordance between the aorta and pulmonary trunk — aorta arises from the RV, pulmonary trunk arises from the LV → two parallel circuits, incompatible with life without a shunt.
+- **S/Smx:** degree of symptoms depends on other defects (e.g. PDA, ASD, or VSD) that allow a shunt for oxygenation. May be picked up on antenatal ultrasound. Cyanosis, tachypnoea; loud single S2; prominent RV impulse; "egg-on-side" appearance on CXR.
 - **Mx:**
-  - Early educational and behavioural interventions.
-  - Pharmacological: SSRI (may help ↓anxiety, depression, and repetitive stereotyped behaviour); antipsychotic drugs (↓aggression, self-harm); methylphenidate (for ADHD).
-  - Family support and counselling.
+  - Prostaglandin E infusion to maintain the ductus arteriosus.
+  - Balloon septostomy — inserting a catheter into the foramen ovale via the umbilicus, inflating the balloon to create a large ASD, allowing for shunting.
+  - Definitive: open heart surgery.
 
-### Complications / associated conditions
+## Ebstein's anomaly
 
-- Intellectual disability in 40–80%.
-- Epilepsy — tends to develop in young children or adolescence; higher rates in those with intellectual disability.
-- Psychiatric: anxiety and depression.
+- **D:** low insertion of the tricuspid valve resulting in a large atrium and small ventricle. Sometimes referred to as "atrialisation" of the RV.
+- **R:** maternal use of lithium.
+- Associated with a patent foramen ovale or ASD (80%), resulting in a shunt, and WPW syndrome.
+- **S/Smx:** often present after a few days of birth, after the ductus arteriosus closes. Evidence of HF (e.g. oedema); gallop rhythm on auscultation (S3 and S4); cyanosis; SOB and tachypnoea; poor feeding; collapse or cardiac arrest.
+- **Dx/Ix:** echo.
+- **Mx:** medical management of arrhythmias and HF; possibly prophylactic antibiotics to prevent infective endocarditis; definitive management by surgical correction.
 
-## Cleft lip and palate
+## Murmurs and heart sounds in children
 
-- **D:** congenital malformation of the lip and hard palate due to disruption of the embryological growth process. 1:1000 births.
-- **Subtypes:** isolated cleft lip (15%), isolated cleft palate (40%), combined cleft lip and palate (45%).
-- **R:** maternal antiepileptic use, family history, genetic or metabolic disorder (e.g. DiGeorge syndrome).
-- **S/Smx:** visible deformity; feeding problems; speech problems; ↑incidence of otitis media.
-- **Mx:** surgery — cleft lip usually repaired before 3 months old, cleft palate repaired between 6–12 months old.
+- Innocent murmurs occur in ~80% of children at some time (e.g. fever, anxiety, etc).
+- A flow murmur is the most common.
+- A venous hum is heard above or below the clavicles, continuous, low pitched — abolished by pressing the ipsilateral jugular or lying down.
+- Still's murmur — heard at the LLSE to apex, early systolic, vibratory, loudest lying flat; the child is well.
+
+> [!danger] Red flags: signs of HF; faltering growth; chest pain; syncope; unexplained fever; cyanosis; clubbing; diastolic murmur; thrills (grade ≥IV); heave.
+
+> [!warning] Increased suspicion warranted with a family history of congenital heart disease.
+
+## Kawasaki disease
+
+- **D:** systemic vasculitis that occurs almost exclusively in childhood.
+- **R:** Asian ancestry (especially Japanese), age 3 months to 4 years.
+- **A:** possible infection in a susceptible host. **P:** arterial vasculitis and remodelling.
+
+> [!info] Diagnostic criteria — Classic Kawasaki disease must have 5 days of fever refractory to antibiotic therapy (if given) AND ≥4 of the following:
+> - Bilateral conjunctivitis.
+> - Polymorphous rash.
+> - ≥1 mucous membrane change — red and cracked lips; sore throat/injected pharynx; strawberry tongue.
+> - ≥1 extremity change — erythema and desquamation of palms/soles (redness then peeling of skin); periungual desquamation of fingers and toes.
+> - Cervical lymphadenopathy.
+>
+> Atypical Kawasaki disease may present with fewer of these symptoms.
+
+- **Ix:** clinical diagnosis. Following diagnosis, patients will need echos to look for coronary artery aneurysms.
+- **Mx:**
+  - High-dose aspirin — 80–100mg/kg/day PO given in 4 divided doses for 24–72h after fever stops (up to 14 days), then 3–5mg/kg PO OD for 6–8 weeks.
+  - **IVIG (intravenous immunoglobulin)** — high-dose, acting as an immunomodulator rather than as passive protection, and given to reduce the risk of coronary artery aneurysms rather than to treat an infection (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Passive Immunisation — Immunoglobulin After an Exposure for the distinction).
+  - Echo — if coronary artery aneurysms are spotted, refer to paediatric cardiology.
+
+> [!danger] Complications: coronary artery aneurysms. Highest risk in those who do not receive IVIG within 10 days of fever onset, and patients who have persistent fever and inflammation despite treatment.
 
 
 <!-- ===== SOURCE: 15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP.md ===== -->
@@ -1767,6 +3429,55 @@
 *(See [[06_Metabolic_Medicine_and_Endocrinology]] Hypothyroidism for more on thyroid disease in adults, not repeated here.)*
 
 
+<!-- ===== SOURCE: 15_17a_Paeds_-_Hyperthyroidism_and_Approach_to_Inherited_Metabolic_Disease.md ===== -->
+
+
+## Hyperthyroidism in children
+
+- **A:** Graves' disease, autoimmune thyroiditis (Hashimoto's), thyroid nodules, adenomas, carcinomas.
+- **S/Smx:** hyperactivity, irritability, ↑HR, palpitations, tremor, anxiety, heat intolerance, diarrhoea, hyperreflexia, weight loss despite ↑appetite, menstrual irregularity.
+- **Specific to Graves':** exophthalmos, proptosis, lid lag, ophthalmoplegia.
+- **Mx:**
+  1. Dose titration with antithyroid drugs (carbimazole or PTU), OR
+  2. Block and replace — induce complete thyroid suppression, replace with levothyroxine.
+  3. (For multiple relapses) ablative treatment with radioiodine or thyroid surgery.
+
+### Transient neonatal thyrotoxicosis
+
+- **A:** maternal Graves' disease. **P:** TSHR stimulating antibodies cross the placenta and cause transient thyrotoxicosis in the newborn.
+- **S/Smx:** flushing, sweating, irritability, poor weight gain, ↑HR, heart failure.
+- Self-limiting, but antithyroid drugs and supportive treatment PRN.
+
+*(See [[06_Metabolic_Medicine_and_Endocrinology]] Hyperthyroidism for more on thyroid disease in adults, not repeated here.)*
+
+## Inherited metabolic diseases (IMDs) — approach
+
+- **D:** conditions involving genetic defects (any mode of inheritance) that cause an enzyme in a cellular pathway to be dysfunctional or absent → block in a metabolic pathway ± toxic byproduct buildup.
+- **E:** individual IMDs are rare, but the combined incidence of all IMDs is ~1:800.
+
+> [!danger] General symptoms — consider IMD in the DDx of an acutely unwell child who does not have a clear diagnosis or does not respond to standard therapy. Often misdiagnosed as sepsis.
+
+> [!danger] Red flags: neonatal presentation with a few days of well-being/feeding prior to presentation; previous episodes triggered by illness or fasting, including cyclical vomiting; change in diet precipitating illness (e.g. weaning); positive family history or consanguinity.
+
+### Investigation
+
+- ABG; lactate; glucose; ketones; ammonia; LFTs; CK.
+- If IMD suspected: discuss urgently with an IMD centre. Consider: plasma amino acids, acylcarnitine profile, urine organic acids ± DNA, skin biopsy.
+
+### Management
+
+- Stop feeds to contain potentially toxic substrate.
+- Provide adequate energy to promote anabolism.
+- Diagnose and manage hyperammonaemia and hypoglycaemia.
+
+### Hyperammonaemia
+
+> [!danger] Medical emergency. Complications: cerebral oedema, ↑ICP → neurodisability, death.
+
+- **S/Smx:** lethargy, vomiting, altered consciousness → coma. Early on: ↑RR + respiratory alkalosis.
+- **DDx:** urea cycle defects, organic acidaemias, fat oxidation defects, non-IMD causes (liver failure, poor sampling).
+
+
 <!-- ===== SOURCE: 15_16b_Paeds_-_Diabetes_Mellitus__MODY__DKA.md ===== -->
 
 
@@ -1885,55 +3596,6 @@
 - ARDS; AKI.
 
 
-<!-- ===== SOURCE: 15_17a_Paeds_-_Hyperthyroidism_and_Approach_to_Inherited_Metabolic_Disease.md ===== -->
-
-
-## Hyperthyroidism in children
-
-- **A:** Graves' disease, autoimmune thyroiditis (Hashimoto's), thyroid nodules, adenomas, carcinomas.
-- **S/Smx:** hyperactivity, irritability, ↑HR, palpitations, tremor, anxiety, heat intolerance, diarrhoea, hyperreflexia, weight loss despite ↑appetite, menstrual irregularity.
-- **Specific to Graves':** exophthalmos, proptosis, lid lag, ophthalmoplegia.
-- **Mx:**
-  1. Dose titration with antithyroid drugs (carbimazole or PTU), OR
-  2. Block and replace — induce complete thyroid suppression, replace with levothyroxine.
-  3. (For multiple relapses) ablative treatment with radioiodine or thyroid surgery.
-
-### Transient neonatal thyrotoxicosis
-
-- **A:** maternal Graves' disease. **P:** TSHR stimulating antibodies cross the placenta and cause transient thyrotoxicosis in the newborn.
-- **S/Smx:** flushing, sweating, irritability, poor weight gain, ↑HR, heart failure.
-- Self-limiting, but antithyroid drugs and supportive treatment PRN.
-
-*(See [[06_Metabolic_Medicine_and_Endocrinology]] Hyperthyroidism for more on thyroid disease in adults, not repeated here.)*
-
-## Inherited metabolic diseases (IMDs) — approach
-
-- **D:** conditions involving genetic defects (any mode of inheritance) that cause an enzyme in a cellular pathway to be dysfunctional or absent → block in a metabolic pathway ± toxic byproduct buildup.
-- **E:** individual IMDs are rare, but the combined incidence of all IMDs is ~1:800.
-
-> [!danger] General symptoms — consider IMD in the DDx of an acutely unwell child who does not have a clear diagnosis or does not respond to standard therapy. Often misdiagnosed as sepsis.
-
-> [!danger] Red flags: neonatal presentation with a few days of well-being/feeding prior to presentation; previous episodes triggered by illness or fasting, including cyclical vomiting; change in diet precipitating illness (e.g. weaning); positive family history or consanguinity.
-
-### Investigation
-
-- ABG; lactate; glucose; ketones; ammonia; LFTs; CK.
-- If IMD suspected: discuss urgently with an IMD centre. Consider: plasma amino acids, acylcarnitine profile, urine organic acids ± DNA, skin biopsy.
-
-### Management
-
-- Stop feeds to contain potentially toxic substrate.
-- Provide adequate energy to promote anabolism.
-- Diagnose and manage hyperammonaemia and hypoglycaemia.
-
-### Hyperammonaemia
-
-> [!danger] Medical emergency. Complications: cerebral oedema, ↑ICP → neurodisability, death.
-
-- **S/Smx:** lethargy, vomiting, altered consciousness → coma. Early on: ↑RR + respiratory alkalosis.
-- **DDx:** urea cycle defects, organic acidaemias, fat oxidation defects, non-IMD causes (liver failure, poor sampling).
-
-
 <!-- ===== SOURCE: 15_17b_Paeds_-_Glycogen_Storage_Disorders__PKU__Lysosomal_Storage_Diseases.md ===== -->
 
 
@@ -1985,6 +3647,45 @@
   - Juvenile form: optic atrophy, progressive dementia, ataxia, gait disturbance, failure to thrive, joint contracture, depression.
   - Young adults: psychosis, ataxia, dystonia, cataplexy.
 
+
+<!-- ===== SOURCE: NEW_Investigations_Endocrine.md ===== -->
+*Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.8 Carnitine Levels (Free and Total Carnitine)
+
+**D:** Plasma free and total carnitine, usually interpreted with an **acylcarnitine profile** by tandem mass spectrometry.
+
+**Ind:** Suspected **fatty acid oxidation disorder** or organic acidaemia — hypoketotic hypoglycaemia, unexplained encephalopathy, cardiomyopathy, rhabdomyolysis, sudden unexplained infant death or a sibling with one; abnormal **newborn screening**; long-term valproate or certain other therapy; and secondary carnitine deficiency in renal replacement therapy or severe malnutrition.
+
+**Role:** Part of a **metabolic panel**, not a standalone test. **Interpretation is a metabolic-specialist task** and results are read alongside urine organic acids, plasma amino acids, glucose, ketones, ammonia, lactate and blood gas.
+
+> [!danger] **The critical point is sample timing, not the assay.** In suspected metabolic decompensation, **the diagnostic samples must be taken during the acute illness — before glucose or other treatment is given** — because metabolites normalise rapidly once the patient is treated. **Treatment is never delayed for the samples**; they are taken alongside resuscitation. A "critical sample" protocol exists in most Australian paediatric units — **know where yours is.**
+> **Hypoketotic hypoglycaemia** — hypoglycaemia with inappropriately low ketones — is the pattern that specifically suggests a **fatty acid oxidation disorder** and should trigger the metabolic screen.
+
+> [!warning] **Per CLAUDE.md rule 5, no absolute quantities are stated in this entry.** Reference intervals for carnitine and acylcarnitines are **age-dependent** and differ substantially between neonates, infants and adults; sources note that acylcarnitine profiles differ between preterm and term newborns and that samples are conventionally collected on around the third day of life for newborn screening. **Interpret only against age-appropriate, laboratory-specific ranges, with metabolic specialist input.**
+
+**Normal/abnormal:** Low free carnitine with a raised acyl:free ratio suggests secondary deficiency from accumulating acyl groups. Specific acylcarnitine species point to specific disorders. **A normal profile between episodes does not exclude a disorder.**
+
+**Alt:** Urine organic acids; plasma amino acids (0.9); ammonia, lactate, glucose, ketones and blood gas; genetic testing, which increasingly gives the definitive answer.
+
+## 0.9 Plasma Amino Acid Screen
+
+**D:** Quantitative plasma amino acid profile, usually with urine organic acids and an acylcarnitine profile.
+
+**Ind:** Suspected **inherited metabolic disease** — unexplained neonatal or infant encephalopathy, vomiting, poor feeding, seizures, developmental regression, unexplained metabolic acidosis or hyperammonaemia; abnormal newborn screening; a previously affected sibling; unexplained intellectual disability.
+
+**Role:** Part of the same metabolic panel as 0.8. Sources note that **for an at-risk sibling, urine organic acids, plasma amino acids and acylcarnitine profile are measured immediately in the newborn period in parallel with newborn screening** — rather than waiting for the screening result.
+
+> [!danger] **Hyperammonaemia in a neonate or infant is a metabolic emergency** — urea cycle disorders present this way, and delay causes irreversible neurological injury. **Send ammonia on a free-flowing sample transported immediately on ice**, because a delayed or squeezed sample gives a spuriously high result and a real result gets dismissed as artefact. Stop protein intake, give glucose, and involve the metabolic service immediately.
+
+> [!warning] **Sample conditions change the answer.** Amino acids are ideally taken **fasting or before a feed**, and the **clinical state at the time of sampling must be recorded** — a profile taken when the child is well may be normal in a disorder that only decompensates under catabolic stress.
+> **Per CLAUDE.md rule 5, no absolute quantities are given.** Amino acid reference intervals are strongly **age-dependent** and must be read against neonatal, infant or adult ranges as appropriate.
+
+**Normal/abnormal:** Specific patterns point to specific disorders — raised phenylalanine (PKU), raised branched-chain amino acids (maple syrup urine disease), raised glutamine with low citrulline patterns in urea cycle defects. **Interpretation is specialist.**
+
+**Alt:** Newborn screening card (the Australian programme covers a defined panel); urine organic acids; ammonia, lactate, glucose, ketones; genetic and genomic testing.
+
+---
 
 <!-- ===== SOURCE: 15_18a_Paeds_-_Precocious_and_Delayed_Puberty__CAH.md ===== -->
 
@@ -2070,119 +3771,6 @@
 > 15q11-13 — paternal deletion/disomy: Prader-Willi syndrome. Maternal deletion/disomy: Angelman syndrome.
 
 *(See [[15_20a_Paeds_-_Trisomies_and_Sex_Chromosome_Disorders]], [[15_20b_Paeds_-_Imprinting_Disorders__Prader-Willi__Angelman_]], [[15_21a_Paeds_-_Microdeletion_Syndromes__Cri_du_Chat__DiGeorge__Williams_]], and [[15_21b_Paeds_-_Fragile_X__Achondroplasia__Noonan__Marfan]] for detail on the individual syndromes listed above, not repeated here.)*
-
-
-<!-- ===== SOURCE: 15_19a_Paeds_-_Developmental_Milestones_and_Delay.md ===== -->
-
-
-## Developmental milestones and red flags
-
-| Age | Milestones | Red flags |
-|---|---|---|
-| **6 weeks** | Smiles; eyes follow an object past midline | Strabismus persisting >3 months |
-| **4–6 months** | Sits with support; rolls; good head control; reaches out for objects; transfers objects hand to hand; starts babbling | At 6 months: ↓eye contact; no smile; no grasp; not rolling; poor head control |
-| **6–9 months** | Crawls; sits with support; pulls to stand; gives toy on request; turns head to name; responds to bye-bye; gestures with babbling; first tooth | At 9 months: no response to words; no gestures; no passing toys hand to hand; unable to roll, crawl, or sit without support |
-| **7–12 months** | Walks with support or using furniture ("cruising"); develops pincer grasp; plays peekaboo; waves goodbye | At 12 months: cannot pick up small items; cannot crawl or bottom shuffle; cannot pull self up; no babbled phrases |
-| **12–15 months** | Single words; listens to stories; drinks from a cup | — |
-| **18 months** | ≥6 words; walks up steps; names pictures; walks independently; scribbles; builds with blocks | At 18 months: uninterested in playing with others; no clear words; not walking without support; not able to hold a crayon; unable to stack 2 blocks |
-| **1.5–2 years** | Kicks/throws ball; runs; 2-word sentences; follows 2-step command; stacks 5–6 blocks; turns pages; uses a spoon; helps with dressing | At 2 years: <50 words; difficulty handling small objects; cannot climb stairs; no interest in feeding/dressing |
-
-## Speech delay
-
-> [!info] If <50 words at 3 years old, consider: deafness; expressive dysphasia or speech dyspraxia; audio-premotor syndrome (APM) — the child is quiet, cannot hum/sing; respiro-laryngeal dysfunction — voice is loud and rough; congenital aphonia (rare) — thin, effortful voice.
-
-> [!info] If parents cannot understand most speech by 2.5 years old, consider: deafness; articulatory dyspraxia (M>F 3:1) — including tongue tie (may need surgery to the frenulum and speech therapy); APM or respiro-laryngeal dysfunction.
-
-> [!info] If the child is unable to understand simple phrases by 2.5 years old (e.g. "get your shoes"), consider: deafness (if hearing is impaired, secretory otitis media is likely the cause); cognitive impairment; deprivation.
-
-### Causes of delayed speech
-
-- Hearing impairment — especially chronic otitis media.
-- Familial — family history.
-- Environmental — deprivation, poor social interaction, neglect, etc.
-- Neuropsychological — global developmental delay; ASD; acquired epileptiform aphasia.
-
-## Global developmental delay
-
-- **D:** delay in ≥2 developmental domains.
-
-> [!info] Causes by timing
-> - **Genetic:** chromosomal disorders (e.g. Down syndrome), Duchenne muscular dystrophy, metabolic disorders (e.g. PKU).
-> - **Congenital brain abnormality:** hydrocephalus, microcephaly.
-> - **Prenatal cause:** teratogens (drugs, alcohol), congenital infections (especially CMV, rubella, toxoplasmosis), hypothyroidism.
-> - **Perinatal cause:** extreme prematurity leading to IVH or periventricular leukomalacia, birth asphyxia, metabolic disorders or hypoglycaemia.
-> - **Postnatal cause:** brain injury from suffocation, drowning, head injury, CNS infection, hypoglycaemia, hypothyroidism.
-
-## Behavioural Problems in Children
-
-> [!note] Gap-filled from CSV ("Behavioural problem (adult and child)," Medium yield) — genuinely absent as a general approach despite ADHD and autism, the two conditions most often confused with this topic, both being individually covered ([[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] and [[15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate]] Autism spectrum disorder (ASD) respectively — this entry is explicitly about the more common, usually developmentally normal behaviours that sit outside those specific diagnoses, not repeated here).
-
-**The core concept:** the great majority of childhood behavioural problems (tantrums, defiance, breath-holding, occasional lying or minor stealing) are a **normal, expected part of development** — reflecting a young child's genuine frustration at their limited ability to control their own environment and limited emotional regulation skills, rather than an early marker of pathology. Most resolve with time and consistent parenting strategies alone; only a minority are symptomatic of an underlying neurodevelopmental disorder or emotional/family disturbance requiring more than reassurance and behavioural advice.
-
-**Temper tantrums:** crying, screaming, aggression, or breath-holding, typically triggered by frustration, fatigue, hunger, or illness in a young child with limited coping skills — behaviour usually appears disproportionate to the trigger (going limp, flailing, hitting, throwing objects), but **mood and behaviour return to normal between episodes**, which is itself a reassuring feature distinguishing a normal tantrum from a more concerning presentation.
-
-> [!info] Breath-holding spells — a specific, genuinely paediatric presentation worth knowing explicitly, given how alarming it looks to parents: triggered by pain, frustration, or anger, the child cries briefly then holds their breath, which can progress to cyanosis (the more common "cyanotic" type) or pallor and, in some children, brief loss of consciousness or even a brief convulsive movement — genuinely frightening to witness but **benign and self-limiting**, with the child breathing spontaneously and recovering fully within seconds to a minute. Distinguishing this from a seizure matters — the clear preceding trigger (pain/frustration) and the breath-holding-then-colour-change sequence (rather than colour change occurring first, as in a primary seizure) are the key discriminating features; see [[04_Neurology]] for the seizure differential this needs to be distinguished from, not repeated here.
-
-**General approach and management:**
-- Caregiver education is the central intervention — explaining the normal developmental basis of the behaviour is often itself therapeutic, given much parental distress comes from misinterpreting normal behaviour as a sign something is wrong.
-- Avoid a punitive response during an active tantrum or breath-holding episode — the child is often frightened by the intensity of their own reaction and needs comfort once it passes, not punishment; removing oneself from the room (where safe to do so) can be a reasonable practical strategy for tantrums specifically.
-- Consistent routines, positive reinforcement of desired behaviour, and calm, predictable caregiver responses are the mainstay of behavioural management across the range of these presentations.
-- **Screen for sleep problems actively** — poor sleep is genuinely and specifically associated with both externalising (aggression, hyperactivity) and internalising (emotional distress) behavioural difficulties in children, making sleep history a worthwhile routine part of assessing any behavioural concern rather than a separate, optional line of inquiry.
-
-**Red flags warranting referral rather than reassurance and behavioural advice alone:**
-- Initial behavioural strategies have genuinely failed despite consistent application.
-- The child is at risk of physical harm (to self or others).
-- The behaviour is significantly impairing the child's functioning or development, or family functioning more broadly.
-- Concern for an underlying medical cause (e.g. sensory impairment, an intracranial or other organic cause) rather than a purely behavioural explanation.
-- Suspicion of an underlying neurodevelopmental or psychiatric condition — autism spectrum disorder, ADHD, anxiety or depressive disorder, oppositional defiant disorder, or conduct disorder — see [[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] and [[15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate]] Autism spectrum disorder (ASD) for the disease-level detail these differentials feed into, not repeated here.
-- Parental mental health difficulties or significant family dysfunction contributing to the picture.
-- Childcare, kindergarten, or school reporting concern or difficulty managing the behaviour, given this represents an independent, cross-context data point beyond the parent's own report.
-
-**Cross-reference:** see [[14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder]] and [[15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate]] Autism spectrum disorder (ASD) for the specific neurodevelopmental diagnoses this entry's differential connects to, not repeated here.
-
-
-<!-- ===== SOURCE: 15_19b_Paeds_-_Cerebral_Palsy_and_Muscular_Dystrophies.md ===== -->
-
-
-## Cerebral palsy
-
-- **D:** umbrella term referring to a non-progressive disease of the brain originating during the ante-, neo-, or early postnatal period → disorders of movement and posture development.
-- **R/A:** prematurity, low birth weight, fetal birth asphyxia, multiple births, maternal illness, fetal brain malformation, major birth defects, familial metabolic or genetic disorder, neonatal complications, meningitis, maternal teratogen exposure, low socioeconomic status. 70–80% possibly have antenatal causes.
-- **P:** depends on cause.
-
-### Classification by movement disorder
-
-> [!info]
-> - **Spastic:** velocity-dependent resistance to passive muscle stretch — possibly pyramidal/UMN. Further divided into monoplegia, hemiplegia, diplegia (bilateral lower limbs), quadriplegia.
-> - **Dyskinetic:** uncoordinated, involuntary movements and postures — possibly basal ganglia involvement. Further divided into dystonia, chorea, athetosis. Associated with kernicterus.
-> - **Ataxic:** loss of muscular coordination with abnormal force and rhythm, decreased accuracy. Cerebellar.
-> - **Mixed.**
-
-- **S/Smx:** abnormal tone in early infancy; delayed motor milestones; abnormal gait; feeding difficulties.
-- **Associated with:** learning difficulties (60%); epilepsy (30%); squints (30%); hearing impairment (20%).
-- **Mx:** holistic, with specialists. Botulinum toxin may benefit children with spasticity. Epidural cord/deep brain stimulation, intrathecal or oral baclofen.
-- **P:** by age 6, 80% of hemiplegic/diplegic and 54% of quadriplegic patients gain urinary continence.
-
-### Gross Motor Function Classification System (levels)
-
-1. Walks, runs, climbs stairs without a rail; speed, balance, and coordination limited.
-2. Uses a rail for stairs; walks but may use a handheld or wheeled device for long distances or uneven terrain; minimal ability to run or jump.
-3. Walks with a handheld or wheeled device in most indoor settings, uses a wheeled device for longer distances.
-4. Mobility requires physical assistance or powered mobility in most settings.
-5. Transported in a manual wheelchair in all settings, limited anti-gravity head, trunk, and limb control.
-
-## Muscular dystrophies
-
-- **D:** inherited disorders characterised by muscle degeneration and weakness.
-  - **Duchenne muscular dystrophy (DMD):** X-linked recessive. The most severe and rapidly progressive form.
-  - **Becker muscular dystrophy (BMD):** a milder form.
-- **R:** family history, males (X-linked).
-- **A:** DMD & BMD are caused by mutation of the dystrophin gene.
-- **P:** absence of dystrophin protein → ↑instability and degeneration of skeletal muscle + replacement with adipose and connective tissue. Brain cells & smooth muscle cells may also be affected.
-- **S/Smx:** onset in childhood — DMD at ~5 years old, BMD at ~10 years old. Progressive proximal muscle weakness. Calf pseudohypertrophy. Gower's sign (child uses arms to stand up from a squatted position). Intellectual impairment (especially in DMD).
-- **Ix:** CK ↑, genetic testing, rarely muscle biopsy (an older testing method).
-- **Mx:** supportive — ensuring the patient has mobility aids, accessibility at home, etc. No curative treatment.
-- **P:** DMD — most children cannot walk by age 12; survive to age 25–30. Associated with dilated cardiomyopathy.
 
 
 <!-- ===== SOURCE: 15_20a_Paeds_-_Trisomies_and_Sex_Chromosome_Disorders.md ===== -->
@@ -2346,1560 +3934,6 @@
   - Orthopaedic correction for severe skeletal deformities.
 
 
-<!-- ===== SOURCE: 15_22a_Paeds_-_Neonatal_Sepsis_and_Seizures.md ===== -->
-
-
-> [!note] A neonate refers to an infant in the first 28 days of life.
-
-## Neonatal sepsis
-
-- **D:** sepsis in premature babies, divided into early onset (<72h after birth) or late onset.
-
-### Early-onset sepsis
-
-- **A:** organisms acquired from the mother — usually GBS, *E. coli*, or *Listeria*. Others include HSV, *Chlamydia*, anaerobes, and *H. influenzae*.
-- **R:** mother a known carrier of GBS from vagina or urine, or a previous infant affected by this (requires intrapartum antibiotics). Intrapartum maternal pyrexia >38°C or suspected chorioamnionitis. Prolonged (>18h) or pre-labour rupture of membranes. Spontaneous preterm labour (<37 weeks). Suspected maternal invasive bacterial infection.
-
-### Late-onset sepsis
-
-- **A:** organisms acquired from the environment — coagulase-negative Staph, *S. aureus*, *E. coli*, GBS, viral, fungal, etc.
-- **R:** prematurity, low birth weight, central lines and catheters, parenteral nutrition, congenital malformations, immunodeficiency.
-
-### S/Smx and management
-
-- Variable, and can be subtle to frank collapse.
-
-> [!danger] Management of collapse
-> - ABC — crystalloid 20mL/kg (caution if signs of HF).
-> - Fluid refractory shock: inotropes (e.g. dopamine 10mcg/kg/min); intubate, ventilate.
-> - ABG, lactate, glucose, FBC, CRP, U&Es, clotting ± ammonia ± ECG.
-> - Blood culture, CXR, urine (if >72h old), LP, skin swabs ± HSV PCR ± stool virology ± urine MC&S PCR.
-
-- **Mx of sepsis/infection:** antibiotics according to local (Trust) guidelines.
-
-## Neonatal seizures
-
-- Incidence ~4/1000 births. Most occur 12–48h after birth. May be generalised, focal, tonic, clonic, or myoclonic.
-
-> [!info] Causes: hypoxic-ischaemic encephalopathy; infection (meningitis, encephalitis); intracranial haemorrhage/infarction; structural CNS lesion; metabolic disturbance/disorder; neonatal withdrawal from maternal drugs or substance abuse; kernicterus; benign neonatal convulsions (aka 5th day fits, a diagnosis of exclusion).
-
-- **Ix/Dx:** cerebral function analysis monitoring (CFAM) or EEG to confirm seizure activity; video EEG.
-- **Mx:**
-  - ABC, glucose, turn on side if aspiration risk.
-  - A single short seizure does not need to be treated with anticonvulsants.
-  - If prolonged (>3–5 minutes) or repeated seizures, consider anticonvulsants — 1st: phenobarbital; 2nd: phenytoin.
-  - If intractable, consider trials of pyridoxine or biotin supplements.
-  - Consider starting empirical antibiotics.
-  - Insert IV access, get bloods + ABG.
-  - Imaging: US, MRI.
-  - Other tests: toxicology, ammonia, urine organic acids, serum amino acids, karyotype, TORCH screen.
-  - Treat the cause where identified.
-
-
-<!-- ===== SOURCE: 15_22b_Paeds_-_Neonatal_Respiratory_Distress_and_Jaundice.md ===== -->
-
-
-## Neonatal respiratory distress
-
-- **D:** increased work of breathing in the newborn infant.
-- **S/Smx:** ↑RR (>60 breaths/min), ↑work of breathing (chest wall recession, nasal flaring), expiratory grunting ± cyanosis.
-
-### Aetiologies, risk factors, and pathophysiology
-
-> [!info] Causes
-> - **Transient tachypnoea of the newborn** (most common cause) — secondary to ↑amniotic fluid in the lungs, transient as the fluid is usually absorbed or expelled after a while.
-> - **Meconium aspiration** — occurs in utero. R: post-term babies, fetal hypoxia.
-> - **Pneumonia** — R: prolonged rupture of membranes, chorioamnionitis, low birth weight.
-> - **Pneumothorax** (1–2% of births) — may occur secondary to meconium aspiration, ARDS, or as a complication of mechanical ventilation.
-> - **Persistent pulmonary hypertension of the newborn** — can occur as a standalone condition, or associated with hypoxic-ischaemic encephalopathy, meconium aspiration, sepsis, or ARDS.
-> - **Milk aspiration** — R: preterm infants, neurodisability, bronchopulmonary dysplasia, GORD, cleft palate.
-> - **Airway obstruction** — e.g. choanal atresia.
-> - **Pulmonary hypoplasia** — usually associated with syndromes.
-> - **Non-pulmonary causes** — congenital heart disease, diaphragmatic hernia, tracheo-oesophageal fistula, hypoxic ischaemic encephalopathy, severe anaemia, metabolic acidosis, sepsis.
-
-- **Ix:** CXR, bloods (for sepsis).
-- **Mx:** admit to the neonatal unit. Oxygen support depends on needs — ranging from wafting oxygen, NIV (Airvo, CPAP, etc), to mechanical ventilation and ECMO.
-
-## Neonatal jaundice
-
-- **D:** yellow discolouration of the skin and sclera of a neonate due to ↑bilirubin — clinically apparent when bilirubin ≥80µmol/L.
-
-> [!danger] Jaundice starting <24h after birth and/or persisting ≥2 weeks is almost always pathological.
-
-### Jaundice starting <24h after birth
-
-- Haemolytic disorders: Rh incompatibility; ABO incompatibility; G6PD deficiency; spherocytosis, pyruvate kinase deficiency.
-- Congenital infection.
-
-### Jaundice at 24h – 2 weeks of age
-
-- **Physiological jaundice** — occurs due to breakdown of fetal Hb + ineffective hepatic bilirubin breakdown in the first few days.
-- **Breastmilk jaundice** — possibly secondary to ↑enterohepatic circulation of bilirubin. A benign condition that can last ~3 months.
-- Infection, e.g. UTI.
-- Haemolytic causes (as above).
-- Bruising.
-- Polycythaemia.
-- Crigler-Najjar syndrome.
-
-### Jaundice at >2 weeks of age
-
-- **Unconjugated bilirubin:** physiological or breastmilk jaundice; infection (e.g. UTI); hypothyroidism; haemolytic causes (as above); high GI obstruction (e.g. pyloric stenosis).
-- **Conjugated bilirubin:** bile duct obstruction (e.g. biliary atresia); neonatal hepatitis.
-
-### Investigation and management
-
-- **Ix:** bilirubin charting to determine if the baby has crossed the threshold requiring treatment, and other investigations as required to determine the cause (e.g. antenatal antibodies, LFTs, etc).
-- **Mx:**
-  - Phototherapy with blue-green light — converts bilirubin into a water-soluble pigment excreted in urine.
-  - Exchange transfusion required if bilirubin is very high — the baby's blood is taken and replaced with donor blood.
-
-### Complications
-
-> [!danger] Kernicterus — occurs when unconjugated bilirubin is deposited in the basal ganglia and brainstem nuclei. The baby's blood-brain barrier is not completely formed, allowing this to occur. Results in encephalopathy, which can cause seizures, coma, and ultimately death. Long-term sequelae include choreoathetoid cerebral palsy, learning difficulties, sensorineural deafness.
-
-
-<!-- ===== SOURCE: 15_23a_Paeds_-_NEC__Neonatal_Hypoglycaemia__Hypotonia.md ===== -->
-
-
-## Necrotising enterocolitis (NEC)
-
-- **D:** ischaemic necrosis of the intestinal mucosa.
-- **R:** preterm (the more preterm the baby, the higher the risk), IUGR, perinatal asphyxia.
-- **A/P:** not fully understood, but thought to be associated with ischaemic injury, bacterial invasion of the bowel wall, and an altered gut microbiome.
-- **S/Smx:**
-  - Early: feeding intolerance, vomiting (± bile stained), abdominal distension, bloody stools.
-  - Later: abdominal discolouration, shock (secondary to perforation), peritonism.
-- **Ix:** XR — distended loops of bowel, thickening of the bowel wall with intramural gas (pneumatosis intestinalis), portal venous gas, etc.
-- **Mx:**
-  - Stop PO feeding, switch to parenteral nutrition.
-  - Give broad spectrum antibiotics (aerobic and anaerobic bacteria cover).
-  - Mechanical ventilation and circulatory support often required.
-  - Surgical management if bowel perforation or failure of medical management.
-- **Complications:** 20% mortality. Long-term sequelae: bowel strictures, malabsorption, ↑risk of poor neurodevelopmental outcome.
-
-## Neonatal hypoglycaemia
-
-- **D:** no fixed definition; generally <2.6mmol/L.
-
-> [!info] Causes/risk factors: may be transient in the first hours after birth (common); preterm birth (<37 weeks); maternal diabetes; IUGR; hypothermia; neonatal sepsis; inborn errors of metabolism; nesidioblastosis (diffuse islet cell hyperplasia arising from pancreatic ductal epithelium); Beckwith-Wiedemann syndrome (congenital overgrowth syndrome).
-
-- **S/Smx:** may be asymptomatic. Autonomic symptoms: jittery baby, irritable, ↑RR, pallor. Neuro symptoms: poor feeding/sucking, weak cry, drowsy, hypotonia, seizures. Others: apnoea, hypothermia.
-- **Mx:**
-  - If the baby is still awake & able, encourage PO feeding + monitor pre-feeding sugars.
-  - If the baby is symptomatic or has very low blood glucose: IV infusion of 10% dextrose; admit and monitor on the neonatal unit.
-
-## Neonatal hypotonia
-
-> [!info] Causes: neonatal sepsis; Werdnig-Hoffmann disease (spinal muscular atrophy subtype); hypothyroidism; syndromes (Down syndrome, Prader-Willi syndrome); maternal drug use (e.g. benzodiazepines); maternal myasthenia gravis.
-
-- **Ix:** very extensive to find the cause (including bloods, genetics, MRI brain).
-- **Mx:** respiratory and feeding support as required.
-
-
-<!-- ===== SOURCE: 15_23b_Paeds_-_Minor_Neonatal_Problems.md ===== -->
-
-
-## Infantile haemangioma (strawberry naevus)
-
-- **D:** benign vascular lesion that typically appears within the first few weeks of life.
-- **R:** low birth weight, prematurity, white ethnicity, F>M (5:1).
-- **S/Smx:** 80% appear by the first 3 months of life. Max size at ~9 months. Flat or nodular lesion. Involution occurs, with 90% completion by age 4. Commonly appears on the face, scalp, and back.
-- **Potential complications:** mechanical (rarely, if it develops in the upper airway, can cause obstruction); bleeding; ulceration; thrombocytopaenia.
-- **Ix:** generally not necessary unless there is doubt about the diagnosis — Doppler ultrasound would be first line.
-- **Mx:** watch and wait, unless large or over a critical area (e.g. joint, eye) — propranolol to shrink.
-
-## Milia
-
-- **D:** benign, transient, subepidermal keratin-filled cysts.
-- **S/Smx:** white bumps, commonly on the face, 1–2mm wide. Present in about half of newborns. Usually resolves spontaneously by 1 month old.
-
-## Erythema toxicum neonatorum
-
-- **D:** rash (reddish wheals with central white/yellow pustules) found in newborns.
-- **A:** possibly a reaction to meconium.
-- **S/Smx:** presents within the first week of life; resolves within 7–14 days. The rash may be exacerbated by heat. Most lesions are temporary, disappearing within a few hours and reappearing elsewhere.
-
-## Miliaria crystallina
-
-- **D:** cutaneous eruption due to retention of sweat, from occlusion or disruption of eccrine sweat ducts.
-- **S/Smx:** asymptomatic; clear vesicles that rupture easily; self-resolving.
-- **Miliaria rubra:** surrounding rash and pruritus present.
-- **Mx:** ensure the baby is not too warm; generally self-resolving (hours to days).
-
-## Stork bites (salmon patches)
-
-- **D:** benign areas of capillary dilation on the eyelids, forehead, or back of the neck.
-- **S/Smx:** slight redness in those areas, fading within hours/days.
-
-## Umbilicus
-
-- After birth, it should dry and separate by ~1 week, but may persist for up to 3 weeks.
-- Infection (omphalitis) is rare.
-- Granuloma: table salt application twice a day for 2 days usually results in complete resolution.
-
-## Sticky eye
-
-- Common in newborns.
-- Try applying mother's breast milk to the sticky eye, or cleanse gently — should resolve.
-- If persistent, may be due to a blocked tear duct.
-- Treat as infection if copious secretions, purulent discharge, or conjunctivitis.
-
-## Red-stained nappy
-
-> [!info] DDx: urinary urate crystals (more likely when the baby is dehydrated); blood from the cord; blood from the baby's vagina (due to oestrogen withdrawal — "pseudo-menstruation").
-
-- Generally not a cause for concern if the baby is systemically well.
-
-## Harlequin colour change
-
-- **D:** transient, episodic, demarcated erythema on the left or right side, with contralateral blanching.
-- Benign and self-limiting.
-
-## Caput succedaneum
-
-- **D:** oedema of the scalp at the presenting part of the head.
-- **S/Smx:** usually presents at birth; soft, puffy swelling due to localised oedema; crosses suture lines.
-- **Mx:** watch and wait, self-resolving within days.
-
-## Cephalohaematoma
-
-- **D:** haematoma secondary to bleeding between the periosteum and skull (typically at the parietal region).
-- **S/Smx:** usually presents hours after birth; swelling does NOT cross suture lines.
-- **Ix:** bilirubin + LFTs (jaundice may develop due to breakdown of Hb).
-- **Mx:** watch and wait if not severe — may take up to 3 months to resolve. Other management dependent on severity.
-
-## Cradle cap
-
-- **D:** seborrhoeic dermatitis on the skull.
-- **S/Smx:** usually develops in the first few weeks of life. Erythematous rash + coarse yellow scales (can come in large patches). Rash can also appear on the nappy area, face, and limb flexures.
-- **Mx:** reassurance that it doesn't affect the baby and will resolve in a few weeks. Massage topical emollient onto the scalp to loosen scales, remove with a soft brush and shampoo. If severe/persistent, trial of topical imidazole cream.
-- **P:** usually resolves by 8 months.
-
-*(For developmental dysplasia of the hip, see [[11_10_Ortho_-_Paediatric_Orthopaedics]] Developmental dysplasia of the hip (DDH); birth injuries specifically are not yet built pending an Obstetrics category upload.)*
-
-
-<!-- ===== SOURCE: 15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse.md ===== -->
-
-
-> [!note] **Moved to `[[Safeguarding]]` on 2026-09-01:** `Non-accidental injury (NAI)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[Safeguarding]]` on 2026-09-01:** `Sexual abuse` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: 15_24b_Paeds_-_Screening__SIDS__Vaccination_Schedule.md ===== -->
-
-
-> [!info] Localised for Australia — verified against the Australian Government National Immunisation Program (NIP) Schedule, Aug 2026. The Australian schedule differs structurally from the UK NHS schedule this file was originally written against, not just in vaccine naming — the timing points themselves differ (Australia: birth/2mo/4mo/6mo/12mo/18mo/4yr/12–13yr, vs the UK's 8wk/12wk/16wk/1yr/40mo/11yr/13yr pattern), and Australia does **not** include a routine MenB dose in the standard national schedule (nationally funded only for Aboriginal and Torres Strait Islander children with specified medical risk conditions — some states/territories fund it more broadly for all infants, so check the current local program).
-
-> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Screening schedule` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## Sudden infant death syndrome (SIDS)
-
-- **D:** sudden unexpected death of an apparently healthy infant under 1 year old, with the cause of death unclear after thorough investigation.
-
-> [!warning] Odds ratios (OR) are additive — more than one risk factor markedly increases risk.
-
-> [!danger] Major risk factors: prone sleeping (OR 3.5–9.3, higher risk if the baby is not used to prone sleeping); prenatal smoking (OR 5); prematurity (OR 4); bed sharing (OR 5.1); hyperthermia or head covering.
-
-- **Other risk factors:** M>F; multiple births; lower socioeconomic status; maternal drug use; winter.
-- **Protective factors:** breastfeeding; room sharing (but not bed sharing); use of dummies/pacifiers.
-- **A/P:** not fully understood; multifactorial — vulnerable infant + critical period + exogenous stressor → abnormal cardiorespiratory control → death.
-- **Mx:** death must be referred to the coroner. Screen siblings for potential sepsis and inborn errors of metabolism.
-
-> [!danger] A genuine, severe Australian health equity issue, and a genuinely actionable one given the disparity is largely explained by known, modifiable risk factors already listed above — not by an unexplained biological difference. **Sudden unexpected death in infancy (SUDI, the broader category SIDS sits within) occurs at roughly 3 times the rate in Aboriginal and Torres Strait Islander infants** (2.13 per 1,000 live births vs 0.72 per 1,000 for non-Indigenous infants in Queensland cohort data) — Indigenous infants have historically accounted for close to a third of all SIDS deaths in some jurisdictions despite being a much smaller proportion of all births.
-> - **The disparity is substantially explained by the same risk factors already listed above, distributed unevenly** — specifically bed-sharing/surface-sharing (OR ~2.9), maternal smoking (OR ~2.5), inadequate antenatal care (OR ~6.9), young maternal age at first birth, and living in outer regional/remote areas — meaning this is a genuinely addressable disparity through the same risk-reduction principles already established, not a separate or mysterious phenomenon requiring different underlying safe-sleep advice.
-> - **A genuinely important nuance for delivering safe-sleep advice appropriately**: standard Red Nose safe-sleep campaigns achieved substantial reductions in SIDS rates nationally, but had comparatively less impact in rural and remote Aboriginal communities specifically — recognising that generic public health messaging doesn't always translate effectively without community-specific, culturally-appropriate delivery. **Reducing the Risks of SIDS in Aboriginal Communities (RROSIAC)**, a targeted Western Australian program, was developed specifically in response to this gap.
-> - **A genuinely positive trend worth noting alongside the disparity**: the gap between Indigenous and non-Indigenous SIDS rates has narrowed substantially over time (from a gap of 401 per 100,000 in 1991–1996 to 83 per 100,000 in 2002–2006 in tracked jurisdictions) — demonstrating that targeted intervention and improved risk-factor management can meaningfully close this gap, rather than it being a fixed or unchangeable disparity.
-
-> [!info] In Australia, safe sleeping advice (sleep on back, face uncovered, no bed-sharing, smoke-free environment, room-sharing without bed-sharing) is promoted by **Red Nose Australia** — the relevant Australian public health body/resource for SIDS/safe sleep education, distinct from the general risk-factor evidence above.
-
-> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Vaccination schedule (Australia — National Immunisation Program)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: M1_The_Seriously_Unwell_Child.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Recognition, physiology and clinical reasoning are reliable at intern level. **Every age-specific vital sign range, weight formula, fluid volume, drug dose and age threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
-> **PAEDIATRIC DOSES AND FLUID VOLUMES ARE NOT REPRODUCED HERE AT ALL.** Obtain them from the **Royal Children's Hospital Melbourne Clinical Practice Guidelines**, your local paediatric formulary, or **ANZCOR** — and calculate them for the individual child every time.
->
-> **Paediatric resuscitation algorithms are also built in [[F0.4]]**, **febrile children in [[M2]]**, and **neonatal problems in [[M3]]** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Recognising the Seriously Unwell Child
-
-> [!tip] Assess from the end of the bed, before you touch them
-> **The PAEDIATRIC ASSESSMENT TRIANGLE — three observations made in seconds, from across the room, before any equipment:**
-> **1. APPEARANCE — tone, interactivity, consolability, look and gaze, speech or cry.** *(Is the child engaging with the world?)*
-> **2. WORK OF BREATHING — recession, grunting, nasal flaring, accessory muscle use, positioning, audible sounds.**
-> **3. CIRCULATION TO SKIN — colour: pink, pale, mottled, ashen or cyanosed.**
-> **This is the most useful thirty seconds of the assessment**, and it is frequently skipped in favour of going straight to observations. **A child who is alert, playing, and interested in you is very unlikely to be critically unwell, whatever the numbers say.**
-
-> [!danger] The quiet child is more worrying than the screaming one
-> **A child who screams when examined, resists, and is consoled by their parent has energy and neurological function.**
-> **A child who is FLOPPY, quiet, uninterested, will not make eye contact, does not resist examination, or cannot be consoled is a far more concerning presentation** — and is repeatedly described as "settled" or "sleepy" in the notes.
-> **"He's been so good, he's just been sleeping" from a parent is a symptom, not reassurance.**
-
-> [!danger] Parental concern is a red flag in its own right
-> **A parent saying "she's not herself" or "he's never been like this" is reporting a change from a baseline they know far better than you do.**
-> **This is one of the most consistently under-weighted signals in paediatrics, and it appears in essentially every root-cause analysis of a missed serious illness in a child.**
-> **Take it seriously, document it, and let it lower your threshold** — for observation, for reassessment, and for escalation.
-> **The corollary applies to your own colleagues: a nurse who is worried about a child is reporting the same kind of information.**
-
-> [!warning] The red flag features
-> **APPEARANCE: abnormal tone or floppiness · not rousable, or does not stay awake · weak, high-pitched or continuous cry · no smile · reduced response to social cues · does not fix or follow.**
-> **BREATHING: GRUNTING (an ominous sign — it is auto-PEEP against a partially closed glottis) · severe recession · very high or very low respiratory rate · APNOEA · hypoxia · head bobbing in infants.**
-> **CIRCULATION: pallor, mottling, ashen or blue colour · prolonged capillary refill · TACHYCARDIA · reduced urine output (ask about wet nappies) · sunken eyes and fontanelle · reduced skin turgor.**
-> **OTHER: a NON-BLANCHING rash · neck stiffness or a BULGING FONTANELLE · focal neurology · seizures · temperature extremes including HYPOTHERMIA · BILE-STAINED VOMITING · and severe or localised abdominal pain.**
-> **Structured tools (traffic-light systems) formalise these into green, amber and red categories.** `UNVERIFIED — the specific criteria and thresholds.`
-
-> [!tip] Two habits that catch deterioration
-> **1. USE AGE-SPECIFIC NORMAL RANGES, from a chart — do not estimate.** **A heart rate of 150 is normal in a young infant and alarming in a ten-year-old. A respiratory rate of 40 is normal in a neonate and a serious sign in a school-age child.** `UNVERIFIED — the age-specific ranges.`
-> **2. REASSESS.** **A single set of observations in a febrile, frightened, crying child is of limited value.** **Reassess after antipyretics, after fluid, after settling — and it is the TREND and the response that inform you.** **A tachycardia that does not settle when the fever comes down and the child calms is a different finding from one that does.**
-
----
-
-## 0.2 Why Children Compensate and Then Crash
-
-> [!danger] Hypotension in a child is a LATE, PRE-TERMINAL sign
-> **Children maintain their blood pressure by tachycardia and intense vasoconstriction, and they do it extremely well — until they suddenly cannot.**
-> **A child can lose a substantial proportion of circulating volume with a NORMAL blood pressure.**
-> **By the time a child is hypotensive, they are close to arrest.**
-> **NEVER WAIT FOR HYPOTENSION TO DIAGNOSE SHOCK IN A CHILD.** **The earlier signs are TACHYCARDIA, prolonged capillary refill, cool peripheries with a narrowing pulse pressure, reduced urine output, and — crucially — ALTERED CONSCIOUS LEVEL and reduced interaction.**
-
-> [!danger] Bradycardia in a child is pre-terminal
-> **Infant cardiac output is largely HEART-RATE dependent, because stroke volume is relatively fixed.**
-> **So bradycardia in an unwell child is not a sign of good vagal tone — it is a sign of profound hypoxia or imminent arrest, and it demands immediate airway and breathing intervention rather than atropine.**
-> **The commonest cause of bradycardia in a child is HYPOXIA. Treat the airway and breathing first.**
-
-> [!tip] The other physiological differences, and what each means clinically
-> **· HIGHER metabolic rate and oxygen consumption, with a SMALLER functional residual capacity → children DESATURATE FAST.** Pre-oxygenation buys much less time than in an adult.
-> **· A more COMPLIANT chest wall and horizontally-oriented ribs → RECESSION is visible and is a genuine sign, and the mechanical efficiency of breathing is lower.**
-> **· LARGER surface-area-to-mass ratio → rapid HYPOTHERMIA and greater insensible fluid losses.** **Keep them warm and covered.**
-> **· LOWER glycogen reserves → HYPOGLYCAEMIA develops quickly in any unwell or poorly feeding child. CHECK THE GLUCOSE.**
-> **· A relatively LARGE HEAD with weak neck musculature → different head injury patterns, and airway positioning differs (see 0.3).**
-> **· Immature immunity in infants, with a reduced ability to localise infection** — which is why a young infant with a serious bacterial infection may have no focal signs at all.
-
-> [!danger] Paediatric cardiac arrest is usually respiratory in origin
-> **Unlike adults, where arrest is typically a primary cardiac arrhythmic event, children arrest because of HYPOXIA — from respiratory failure or from shock progressing to hypoxia.**
-> **The deterioration sequence: COMPENSATION (tachycardia, tachypnoea, vasoconstriction) → DECOMPENSATION (hypotension, bradycardia, reduced consciousness) → ARREST.**
-> **Two consequences: (1) the focus is overwhelmingly on AIRWAY AND BREATHING, and (2) outcomes after paediatric arrest are poor — which means the entire clinical effort belongs in the compensation phase, recognising and reversing deterioration BEFORE arrest.**
-
----
-
-## 0.3 Resuscitation and the Sick Child Pathway
-
-> [!warning] The paediatric sequence differs from the adult one — and it follows from the physiology
-> **· FIVE RESCUE BREATHS FIRST, before chest compressions** — because the arrest is usually hypoxic in origin, so oxygenation is the priority.
-> **· Compression-to-ventilation ratio differs from adult practice for two rescuers.**
-> **· Compression technique and depth vary by age and size.**
-> `UNVERIFIED — the ratios, rates, depths and energy levels. Obtain from ANZCOR.` Cross-refer [[F0.4]].
-
-> [!tip] Airway positioning changes with age — because head shape does
-> **· INFANTS have a large occiput, which flexes the neck when supine. Position the airway NEUTRAL, and consider a SHOULDER ROLL to counteract the occiput.**
-> **· OLDER CHILDREN and adults use the "sniffing" position with head tilt and chin lift.**
-> **Over-extending an infant's neck OBSTRUCTS the airway rather than opening it** — a common and immediately consequential error.
-> **Also: infants are obligate nasal breathers early on, so nasal obstruction matters; the tongue is relatively large; and the airway is narrowest at the cricoid in young children.**
-
-> [!danger] Go to intraosseous access early
-> **Peripheral access in a shocked, small, vasoconstricted child is difficult and slow, and repeated failed attempts waste time that matters.**
-> **INTRAOSSEOUS access is fast, reliable, and can take everything intravenous access can — fluids, blood, drugs, and blood samples on insertion.**
-> **The error is persisting with cannulation attempts. Set a limit — a small number of attempts or a short time — and then go intraosseous.** `UNVERIFIED — the recommended threshold.`
-
-> [!warning] Fluids, drugs and weight — and why you must not do this from memory
-> **· WEIGHT is the basis of everything.** Use an actual weight if available; otherwise an age-based formula or a length-based resuscitation tape. `UNVERIFIED — the formula.`
-> **· FLUID BOLUSES are given by weight, with REASSESSMENT AFTER EACH — not as a fixed prescription.** **Be more cautious in DKA (cerebral oedema risk), in severe malnutrition, in known cardiac disease, and in neonates.** `UNVERIFIED — bolus volumes and the fluid type.`
-> **· DRUG DOSES are weight-based, and MAXIMUM doses apply — a large adolescent should not exceed the adult dose.**
-> **· ALWAYS USE A REFERENCE — a paediatric formulary, a pre-calculated drug sheet, or a decision support tool. DO NOT CALCULATE PAEDIATRIC DOSES FROM MEMORY, and have the calculation independently checked.** **Tenfold dosing errors in children are a recognised and recurring source of serious harm, and decimal point errors are the classic mechanism.**
-> **· CHECK THE GLUCOSE in every seriously unwell child**, early.
-
-> [!tip] Escalate early, and involve the family
-> **The threshold for calling for senior and paediatric help should be low.** In South Australia, **paediatric retrieval is provided by MedSTAR Kids**, and early contact is better than late — retrieval services expect and welcome advice calls before the child is peri-arrest. `UNVERIFIED — current service arrangements.`
-> **FAMILY PRESENCE during resuscitation is supported by evidence and by most guidelines**, with a dedicated staff member to support them. **Parents who are present generally cope better with the outcome, including a poor one.**
-> **Communicate continuously with the parents** — even brief, honest updates during a resuscitation. Silence is experienced as concealment.
-
----
-
-## 0.4 The Unwell Infant
-
-> [!danger] Young infants present non-specifically, and the differential includes things that are not infection
-> **A sick young infant may present ONLY with: poor feeding · lethargy or irritability · temperature INSTABILITY (fever OR hypothermia, and hypothermia is at least as concerning) · apnoea · vomiting · jaundice · grunting · or "just not right".**
-> **There are frequently NO localising signs.**
-> **FEVER IN A YOUNG INFANT REQUIRES A FULL SEPSIS EVALUATION AND EMPIRICAL ANTIBIOTICS** — the threshold age and the extent of investigation are protocol-defined. Cross-refer [[M2]]. `UNVERIFIED — the age thresholds and the required workup.`
-> **Serious bacterial infection in this group: sepsis, meningitis, URINARY TRACT INFECTION (the commonest), and pneumonia.**
-
-> [!danger] The non-infective causes of the collapsed or unwell neonate — the list that must not be missed
-> **· DUCT-DEPENDENT CONGENITAL HEART DISEASE.** **Presents with collapse, shock or cyanosis as the ductus arteriosus CLOSES — characteristically in the first one to two weeks, and often AFTER discharge from hospital.**
-> **Check: PRE- AND POST-DUCTAL saturations (right hand versus foot) · FEMORAL PULSES (absent or weak in coarctation) · and four-limb blood pressures.**
-> **A shocked neonate who does not respond to fluid and antibiotics should prompt consideration of PROSTAGLANDIN E1 to reopen the duct**, discussed urgently with a paediatric cardiologist. Cross-refer [[M3]].
-> **· INBORN ERRORS OF METABOLISM.** **Typically a well baby who deteriorates after a period of normal feeding — with vomiting, lethargy, poor feeding, seizures, and a characteristic biochemical picture.** **CHECK: blood gas (for METABOLIC ACIDOSIS), GLUCOSE, LACTATE, AMMONIA and ketones.** **A raised AMMONIA is the finding that is missed because nobody sends it.**
-> **· CONGENITAL ADRENAL HYPERPLASIA — a SALT-WASTING CRISIS, typically in the first weeks: vomiting, poor feeding, dehydration, shock, with HYPONATRAEMIA, HYPERKALAEMIA and HYPOGLYCAEMIA.** **Virilised genitalia may be evident in a female infant; a male infant looks normal, which is why boys present in crisis.** Cross-refer [[I4]] 0.6.
-> **· MALROTATION WITH VOLVULUS — BILE-STAINED (green) VOMITING IN AN INFANT IS MALROTATION WITH VOLVULUS UNTIL PROVEN OTHERWISE.** **It is a surgical emergency, the bowel infarcts within hours, and the child may initially look deceptively well.** **Green vomit in an infant means an urgent surgical opinion and an upper gastrointestinal contrast study — not observation.** Cross-refer [[M5]].
-> **· NON-ACCIDENTAL INJURY — including abusive head trauma, which presents as a collapsed, seizing or apnoeic infant with no history.** Cross-refer [[M6]] and [[GER4]].
-> **· Intussusception, in older infants** — cross-refer [[M5]].
-> **Never attribute an unwell neonate to "a virus" until these have been considered.**
-
----
-
-## 0.5 The Irritable, Lethargic or Pale Child
-
-> [!danger] Undress the child completely and examine everything
-> **The findings that change the diagnosis are hidden: the non-blanching rash on the back · the bruise in an unusual site · the swollen tender limb · the bulging fontanelle · the perforated eardrum · the incarcerated hernia · the tender testis.**
-> **HAIR TOURNIQUET — a hair or thread wrapped tightly around a digit, toe or the penis, causing ischaemia in an inconsolable infant.** **It is easily missed and easily treated, and it is a classic cause of unexplained inconsolable crying. Look between the toes and fingers, and at the genitals.**
-> **A full examination in a distressed child is difficult and takes time — and it is where the diagnosis is.**
-
-> [!tip] The irritable, inconsolable child
-> **· PAIN — otitis media · corneal abrasion (a crying infant who will not open one eye) · HAIR TOURNIQUET · testicular torsion · a fracture (including from non-accidental injury) · dental · and — much less often than parents assume — teething.**
-> **· INFECTION — meningitis, urinary tract infection, sepsis.**
-> **· INTUSSUSCEPTION — EPISODIC inconsolable crying with the legs drawn up, lasting minutes, with PALLOR during the episode and apparent normality or lethargy in between.** **Late features are vomiting, a "redcurrant jelly" stool and a palpable sausage-shaped mass — but waiting for these means waiting too long.** **The episodic pallor is the discriminating feature.** Cross-refer [[M5]].
-> **· RAISED INTRACRANIAL PRESSURE — bulging fontanelle, high-pitched cry, vomiting, sunset eyes.**
-> **· Infantile colic — a diagnosis of exclusion, and only after the above have been considered.**
-
-> [!warning] The lethargic child
-> **· Sepsis and meningitis · HYPOGLYCAEMIA · diabetic ketoacidosis · POISONING (deliberate or accidental — ask what is in the house, including grandparents' medications, and consider it in any unexplained altered consciousness) · head injury including abusive head trauma · postictal state · intussusception (late) · myocarditis · severe dehydration · and inborn errors of metabolism.**
-> **Check the glucose. Take a medication and toxin history covering the whole household.** Cross-refer [[A5]] and [[F0.1]].
-
-> [!danger] The pale child — and the pattern that means leukaemia
-> **· ANAEMIA — most commonly IRON DEFICIENCY, which in toddlers is frequently DIETARY (excessive cow's milk intake displacing iron-rich foods is a classic and specific cause). Also haemolysis, blood loss, and marrow failure.**
-> **· SHOCK and sepsis.**
-> **· MALIGNANCY — and the pattern to recognise for ACUTE LEUKAEMIA is: PALLOR (anaemia) + BRUISING or petechiae (thrombocytopenia) + INFECTION or fever (neutropenia) + BONE PAIN or a limp + LYMPHADENOPATHY and HEPATOSPLENOMEGALY.**
-> **A child with unexplained pallor, bruising and bone pain needs a full blood count and film TODAY.** **Persistent limb or bone pain in a child, particularly waking them at night, is a red flag.** Cross-refer [[M5]] and [[J4]].
-> **· Cardiac disease and intussusception.**
-
-> [!danger] Bruising in a non-mobile infant is non-accidental injury until proven otherwise
-> **"If they don't cruise, they don't bruise."** **A pre-mobile infant does not sustain bruises by accident.**
-> **Other concerning patterns: bruises in protected sites (ears, neck, torso, buttocks, inner thighs) · patterned bruises · injuries inconsistent with the history or the developmental stage · and a delay in presentation.**
-> **You do not need certainty — you need concern, and mandatory reporting obligations apply.** Cross-refer [[M6]], [[L7]] 0.5 and [[GER4]].
-
----
-
-## 0.6 Practical Paediatrics
-
-> [!danger] Use isotonic maintenance fluids — hypotonic fluids have killed children
-> **Hypotonic maintenance fluids in unwell children cause HOSPITAL-ACQUIRED HYPONATRAEMIA, cerebral oedema, seizures, permanent neurological injury and death.**
-> **This was a major and repeated patient safety failure, and it led to a change in practice: MAINTENANCE FLUIDS IN CHILDREN SHOULD BE ISOTONIC.**
-> **Unwell children have high ADH levels — from pain, nausea, surgery, infection and respiratory illness — so they retain free water and cannot excrete a hypotonic load.**
-> **Also: prescribe maintenance by weight-based calculation, add deficit and ongoing losses separately, include glucose where appropriate, and MEASURE THE SODIUM regularly in any child on intravenous fluids.**
-> `UNVERIFIED — the maintenance calculation, the specific fluid, and the monitoring frequency.`
-
-> [!tip] Assessing dehydration
-> **The most accurate measure is the CHANGE IN WEIGHT against a recent known weight** — which is frequently available in children because they are weighed often.
-> **Clinical signs: reduced skin turgor, sunken eyes and fontanelle, dry mucous membranes, reduced tears, prolonged capillary refill, tachycardia, reduced urine output (ask about the number of wet nappies), and altered conscious state.**
-> **ORAL REHYDRATION is preferred wherever it is feasible — including via nasogastric tube — and it is as effective as intravenous fluid in mild to moderate dehydration with fewer complications.** **The reflex to cannulate is often unnecessary.** Cross-refer [[M5]].
-> `UNVERIFIED — the clinical grading of dehydration severity.`
-
-> [!warning] Talking to children, and to their parents
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
->
-> `**· Get down to the child's level, introduce yourself to THEM, and`
->
-> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
-> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
-
-
-> [!tip] Two things to consider at every paediatric presentation
-> **1. SAFEGUARDING.** Not as an accusation, but as a routine consideration — the history, the developmental fit, the delay, the interaction, and the child's demeanour. Cross-refer [[M6]].
-> **2. CONSENT AND WHO IS PRESENT.** **Parental responsibility, the capacity of a mature minor, and — where an adolescent is present — the need for time alone with them.** Cross-refer [[A10]] 0.1 and [[M7]].
-
-**Ix:** **BEDSIDE GLUCOSE in every seriously unwell child** (*why:* children deplete glycogen quickly, hypoglycaemia is rapidly reversible, and it mimics everything; *what:* hypoglycaemia). **Blood gas with LACTATE** (*why:* rapid assessment of perfusion and of metabolic derangement, and it can be obtained from a small sample; *what:* acidosis, lactate, glucose, electrolytes). **FBC and film, CRP, UEC, blood cultures** (*why:* infection, anaemia, and the leukaemia pattern; *what:* the counts and the film). **AMMONIA, lactate and ketones in an unwell neonate or an unexplained encephalopathy** (*why:* inborn errors of metabolism are missed because ammonia is not sent, and they are time-critical; *what:* hyperammonaemia, acidosis). **Urine — collected properly (clean catch, catheter or suprapubic aspirate rather than a bag specimen, which is unreliable)** (*why:* urinary tract infection is the commonest serious bacterial infection in infants, and a contaminated bag sample causes both over- and under-treatment; *what:* infection). **Pre- and post-ductal saturations and femoral pulses in a collapsed neonate** (*why:* duct-dependent congenital heart disease is treatable with prostaglandin and is missed if not specifically sought; *what:* saturation difference, absent femoral pulses). Chest radiograph, lumbar puncture and further imaging as directed (*why:* source identification; *what:* the focus). **A full examination with the child undressed** (*why:* the diagnosis is frequently visible and hidden — rash, bruise, tourniquet, hernia, testis; *what:* the finding).
-
----
-
-> [!note] Cross-references
-> Paediatric resuscitation algorithms → [[F0.4]] · Fever in children and the febrile infant → [[M2]] · Neonatal problems, jaundice and cyanosis → [[M3]] · Growth and development → [[M4]] · Paediatric abdominal pain, intussusception and limp → [[M5]] · Child protection and non-accidental injury → [[M6]], [[L7]] 0.5 and [[GER4]] · Adolescent health and consent → [[M7]] and [[A10]] 0.1 · Poisoning in children → [[A5]] and [[F0.1]] · Congenital adrenal hyperplasia → [[I4]] 0.6 · Leukaemia and the pale bruising child → [[J4]] · Hyponatraemia → [[I5]] 0.5 · Sepsis recognition → [[F0.3]] 0.7 · Aboriginal and Torres Strait Islander child health → [[AU1]] 0.4
-
-
-<!-- ===== SOURCE: M2_Fever_in_Children.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Clinical reasoning, patterns and discriminators are reliable at intern level. **Every age threshold, temperature cut-off, dose and investigation protocol carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
-> **The age thresholds and required investigations for the febrile infant are protocol-defined and differ between guidelines** — obtain them from the **Royal Children's Hospital Melbourne Clinical Practice Guidelines**, your local paediatric protocol, and **eTG Antibiotic**. **All doses are omitted.**
->
-> **Meningitis is built in [[D1]] 0.5**, **meningococcal sepsis in [[F0.3]] 0.9**, and **recognition of the seriously unwell child in [[M1]] 0.1** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Approach to the Febrile Child
-
-> [!danger] Three myths that cause harm
-> **1. "The fever came down with paracetamol, so it's probably viral."**
-> **RESPONSE TO ANTIPYRETICS DOES NOT DISTINGUISH BACTERIAL FROM VIRAL ILLNESS.** A child with meningitis or bacteraemia will also look better when their temperature falls. **Defervescence with antipyretics is not reassurance and must not be used as a discriminator** — though how the child looks WHEN AFEBRILE is genuinely informative, which is a different thing.
-> **2. "The fever is very high, so it must be bacterial."**
-> **The HEIGHT of the fever correlates poorly with the severity of the illness.** Roseola produces spectacular fevers in well children; overwhelming sepsis can present with a modest fever or with **HYPOTHERMIA, which is at least as concerning as fever in a young infant.**
-> **3. "Antipyretics prevent febrile convulsions."**
-> **They do not.** **Antipyretics are given for COMFORT — because a miserable child feels better — not to normalise the number, and not to prevent seizures.** **Routinely alternating or combining paracetamol and ibuprofen is not recommended** and increases dosing errors. `UNVERIFIED — current antipyretic guidance.`
-
-> [!tip] Measurement, and believing the parent
-> **Accuracy varies by route: rectal and oral are most accurate; TYMPANIC and TEMPORAL ARTERY measurements are unreliable in infants; axillary underestimates.** **In young infants the route matters and protocols specify it.** `UNVERIFIED — the recommended route by age and the temperature thresholds.`
-> **BELIEVE A PARENT WHO REPORTS FEVER AT HOME**, even if the child is afebrile in front of you. **A documented or reported fever counts**, and dismissing it because the child is now afebrile in a cool waiting room is a recognised error.
-
-> [!warning] The structure of the assessment
-> **· END-OF-THE-BED assessment first — appearance, work of breathing, circulation.** Cross-refer [[M1]] 0.1.
-> **· FULL examination with the child UNDRESSED** — the rash, the joint, the ear, the fontanelle, the perineum.
-> **· A structured traffic-light approach** to categorise risk. `UNVERIFIED — the criteria.`
-> **· HISTORY THAT MATTERS: DURATION of fever · IMMUNISATION status (and specifically whether they are up to date, not just "yes") · sick contacts · TRAVEL · animal exposure · immunosuppression, including corticosteroids and biologics · and any indwelling device or recent surgery.**
-> **· DURATION IS A KEY VARIABLE: a fever of five days or more changes the differential** — see Kawasaki disease in 0.5 — **and beyond about a week it broadens further to include atypical infection, malignancy, inflammatory disease and tuberculosis.**
-
----
-
-## 0.2 Fever in the Young Infant
-
-> [!danger] The young infant is the highest-risk group and has the strictest rules
-> **Infants below a defined age with fever require a FULL SEPTIC EVALUATION AND EMPIRICAL ANTIBIOTICS, regardless of how well they appear.**
-> **The reasons are physiological: an immature immune system, an inability to localise infection, a high rate of serious bacterial infection, and rapid progression.**
-> **A WELL-APPEARING YOUNG INFANT CAN HAVE MENINGITIS OR BACTERAEMIA.** **"He looks fine" is not a basis for omitting the workup in this age group — that is the entire point of the rule.**
-> **HYPOTHERMIA in a young infant is as concerning as fever**, and is a recognised presentation of sepsis.
-> `UNVERIFIED — the age thresholds, the temperature cut-off, and exactly what the septic screen must include at each age. These differ between guidelines and must come from your local protocol.`
-
-> [!warning] What a full septic evaluation typically includes, and the one that gets deferred
-> **Blood culture · full blood count and film · CRP (and procalcitonin where used) · URINE obtained by a RELIABLE method · and LUMBAR PUNCTURE.** Plus chest radiograph if respiratory signs, and stool studies if diarrhoea.
-> **THE LUMBAR PUNCTURE IS THE ONE THAT GETS DEFERRED — because the baby looks well, because the parents are anxious, or because it is difficult.** **In the age group where it is indicated, the whole justification is that clinical appearance does not exclude meningitis.**
-> **If antibiotics are given before the LP, give them — do not delay treatment — but recognise the CSF culture may be sterilised, which is why PCR matters.** Cross-refer [[D1]] 0.5.
-> **URINE MUST BE OBTAINED BY CLEAN CATCH, CATHETER OR SUPRAPUBIC ASPIRATE.** **BAG SPECIMENS ARE UNRELIABLE — the contamination rate is high enough that a positive bag urine cannot be trusted, leading to over-treatment, and a negative one is reasonable.** **Do not diagnose or exclude urinary tract infection in an infant on a bag urine.**
-
-> [!danger] The organisms, and the one that needs aciclovir
-> **· NEONATES: GROUP B STREPTOCOCCUS · *ESCHERICHIA COLI* · *LISTERIA MONOCYTOGENES*.** **The Listeria cover is why neonatal empirical regimens differ from those used in older children.**
-> **· Older infants and children: *Streptococcus pneumoniae*, *Neisseria meningitidis*, *Staphylococcus aureus*, and *Haemophilus influenzae* type b (now rare in immunised populations, and a reason to check immunisation status).**
-> **· NEONATAL HERPES SIMPLEX — consider and treat empirically with ACICLOVIR in a febrile or unwell neonate with any of: seizures · vesicles (which may be absent) · abnormal liver function or coagulopathy · CSF pleocytosis · or a maternal history of genital herpes (which is frequently absent, because most transmission occurs from asymptomatic primary infection).**
-> **Neonatal HSV has high mortality and severe morbidity, aciclovir is safe, and the diagnosis is easily missed because the vesicles are often not there.** Cross-refer [[O3]] and [[O6]] 0.2.
-
----
-
-## 0.3 Fever Without Source in Older Children
-
-> [!danger] Get a urine sample — urinary tract infection is the commonest occult bacterial infection
-> **In an infant or young child with fever and no identifiable focus, UTI is the commonest serious bacterial infection — and it is missed because obtaining urine is inconvenient and gets deferred.**
-> **The presentation in infants is entirely non-specific: fever, vomiting, poor feeding, irritability, lethargy, prolonged jaundice in neonates, or faltering growth.** **There are no urinary symptoms because they cannot report them.**
-> **Get a properly collected urine sample in any young child with unexplained fever.** Cross-refer [[M5]].
-> **And recognise the follow-up obligation: a confirmed UTI in a young child warrants consideration of imaging and of underlying structural abnormality or vesicoureteric reflux, per protocol.** `UNVERIFIED — the imaging and prophylaxis criteria, which have become less interventionist.`
-
-> [!tip] The other occult sources
-> **· PNEUMONIA — and TACHYPNOEA IS THE MOST SENSITIVE SIGN.** **Auscultation is unreliable in young children, and a child can have pneumonia with a normal-sounding chest and no cough.** **Count the respiratory rate against age-specific values.** **A chest radiograph is NOT required in uncomplicated community-acquired pneumonia** where the diagnosis is clinical.
-> **· OCCULT BACTERAEMIA — much less common since conjugate pneumococcal and Hib vaccination**, which is one of the clearest examples of vaccination changing clinical practice.
-> **· OSTEOMYELITIS AND SEPTIC ARTHRITIS — presenting as a limp, refusal to weight bear, or PSEUDOPARALYSIS (an infant not moving a limb).** Cross-refer [[M5]] and [[L1]] 0.2.
-> **· Otitis media, tonsillitis, sinusitis, mastoiditis, cellulitis, dental abscess.**
-> **· Appendicitis** — cross-refer [[M5]].
-
-> [!warning] Do not over-investigate a well child with a short viral illness
-> **The great majority of febrile children have a self-limiting viral illness, and blood tests in a well-appearing child with a clear viral picture and a short duration cause more harm than benefit** — distress, false positives, and unnecessary antibiotics.
-> **Investigation is directed by AGE, APPEARANCE, DURATION and the presence of red flags — not by the presence of fever.**
-> **What replaces investigation is SAFETY NETTING and REASSESSMENT**, which is a clinical intervention in its own right.
-
-> [!danger] Safety netting — be specific
-> **"Come back if you're worried" is not safety netting.**
-> **Give SPECIFIC, CONCRETE return criteria, ideally written:**
-> **· Any NON-BLANCHING RASH — and show them the glass test.**
-> **· Becoming drowsy, difficult to rouse, or unresponsive.**
-> **· Difficulty breathing, grunting, or working hard to breathe.**
-> **· Refusing feeds, or markedly reduced wet nappies.**
-> **· A fever lasting beyond a specified number of days.**
-> **· Any seizure.**
-> **· Cold hands and feet with a mottled appearance.**
-> **· "If you feel he's getting worse or you're worried — come back, and don't wait."**
-> **Tell them WHERE to go and WHEN**, and document what you said.
-
----
-
-## 0.4 The Serious Bacterial Infections
-
-> [!danger] Meningitis — the signs are absent in infants
-> **NECK STIFFNESS AND KERNIG/BRUDZINSKI SIGNS ARE FREQUENTLY ABSENT IN INFANTS AND YOUNG CHILDREN.**
-> **What you get instead: fever or hypothermia · irritability, particularly PARADOXICAL IRRITABILITY (crying MORE when picked up and handled, because movement hurts) · poor feeding · lethargy · a HIGH-PITCHED or unusual cry · vomiting · a BULGING FONTANELLE · and seizures.**
-> **DO NOT DELAY ANTIBIOTICS FOR THE LUMBAR PUNCTURE OR FOR IMAGING.** Cross-refer [[D1]] 0.5.
-> **Dexamethasone is given with or before the first antibiotic dose in certain circumstances** — protocol-defined. `UNVERIFIED — the indications and dose.`
-
-> [!warning] Periorbital versus orbital cellulitis — the distinction is sight- and life-threatening
-> **PERIORBITAL (preseptal) cellulitis — infection anterior to the orbital septum. Eyelid swelling and erythema, with NORMAL eye movements, NORMAL visual acuity, NO proptosis and NO pain on eye movement.** Usually managed with antibiotics.
-> **ORBITAL (postseptal) cellulitis — infection behind the septum, usually spreading from the ethmoid sinuses. PROPTOSIS · PAINFUL and RESTRICTED eye movements · DIPLOPIA · REDUCED VISUAL ACUITY or colour vision · chemosis · and systemic illness.**
-> **Orbital cellulitis threatens VISION and can progress to cavernous sinus thrombosis, intracranial abscess and death.**
-> **It requires urgent CT, intravenous antibiotics, and ophthalmology and ENT involvement.**
-> **The examination that distinguishes them: EYE MOVEMENTS, VISUAL ACUITY and the presence of PROPTOSIS** — and they must be assessed, which is difficult in a swollen crying child but is the whole point of the assessment. Cross-refer [[E1]] and [[F2]].
-
-> [!tip] The rest
-> **· Pneumonia** — see 0.3.
-> **· Osteomyelitis and septic arthritis** — cross-refer [[L1]] 0.2 and [[M5]]. **A child who will not weight bear needs the hip examined and considered for aspiration.**
-> **· Retropharyngeal abscess** — a child who will not move their neck, with drooling, a muffled voice and systemic illness. Cross-refer [[F0.5]] 0.10.
-> **· Epiglottitis** — now rare where Hib vaccination is high, but it still occurs in the under-immunised. **Do not examine the throat or distress the child; get senior airway help.** Cross-refer [[A2]] 0.3.
-> **· Sepsis** — cross-refer [[F0.3]] 0.7.
-
----
-
-## 0.5 Rash in a Febrile Child
-
-> [!danger] A non-blanching rash is meningococcal disease until proven otherwise
-> **Use the GLASS (tumbler) TEST and check the WHOLE body — including the soles, the palms, the conjunctivae and behind the ears — with the child fully undressed and in good light.**
-> **The rash may BEGIN as a blanching maculopapular rash and evolve**, so an early blanching rash in an unwell child does not exclude it, and reassessment matters.
-> **GIVE ANTIBIOTICS IMMEDIATELY — do not wait for investigations, transfer or the lumbar puncture.** Cross-refer [[F0.3]] 0.9.
-> **Meningococcal disease can progress from a well child to death within hours**, and the earliest features are non-specific: fever, limb pain, cold hands and feet, and abnormal skin colour — **which frequently precede the rash and precede any meningism.**
-
-> [!tip] The benign and non-meningococcal causes of petechiae
-> **· MECHANICAL — petechiae confined to the distribution ABOVE THE NIPPLE LINE (face, neck, upper chest) following forceful COUGHING or VOMITING.** **This is a recognisable benign pattern in a well child** — but the child must be well, the distribution must fit, and it does not excuse a cursory assessment.
-> **· IMMUNE THROMBOCYTOPENIA — petechiae and bruising in a WELL child, often after a viral illness.** Cross-refer [[J1]].
-> **· LEUKAEMIA — petechiae with pallor, bruising, bone pain, lymphadenopathy and hepatosplenomegaly.** Cross-refer [[M1]] 0.5 and [[J4]].
-> **· IgA VASCULITIS (Henoch-Schönlein purpura) — PALPABLE PURPURA over the BUTTOCKS and EXTENSOR SURFACES OF THE LEGS, with arthralgia, ABDOMINAL PAIN (which can herald intussusception) and NEPHRITIS.** **Check the urine and blood pressure at diagnosis and on follow-up — the renal involvement is what determines the long-term outcome and it can appear weeks later.** Cross-refer [[L2]] 0.5 and [[H1]].
-> **· NON-ACCIDENTAL INJURY.** Cross-refer [[M6]].
-
-> [!warning] The viral exanthems worth recognising
-> **· MEASLES — a PRODROME of high fever with the three Cs (COUGH, CORYZA, CONJUNCTIVITIS) and KOPLIK SPOTS on the buccal mucosa, followed by a DESCENDING maculopapular rash starting behind the ears and at the hairline.** **Highly infectious, NOTIFIABLE, and RESURGING where immunisation coverage has fallen.** **Complications: pneumonia, otitis media, ENCEPHALITIS, and the rare late subacute sclerosing panencephalitis.** **Isolate immediately, notify, and check immunisation status.**
-> **· RUBELLA — mild in children, but TERATOGENIC. The significance is congenital rubella syndrome.**
-> **· PARVOVIRUS B19 (fifth disease, "slapped cheek") — bright red cheeks then a LACY reticular rash on the limbs.** **Three things matter beyond the rash: it causes an APLASTIC CRISIS in children with haemolytic anaemia (sickle cell, spherocytosis) · it causes HYDROPS FETALIS in pregnancy · and it causes an arthropathy in adults.** Cross-refer [[J2]].
-> **· ROSEOLA (HHV-6) — several days of HIGH fever in a relatively well child, and then the RASH APPEARS AS THE FEVER RESOLVES.** **That sequence is the diagnostic feature.** A common cause of febrile convulsions.
-> **· VARICELLA (chickenpox) — vesicles in CROPS AT DIFFERENT STAGES of evolution.** **Complications: secondary bacterial infection including NECROTISING FASCIITIS (a child with chickenpox who develops severe focal pain and fever needs urgent assessment) · cerebellitis · pneumonia · and severe disease in the immunocompromised and neonates.**
-> **· HAND, FOOT AND MOUTH DISEASE (coxsackievirus) — oral ulcers with vesicles on hands, feet and buttocks.**
-> **· SCARLET FEVER — group A streptococcal. A SANDPAPER-textured rash with CIRCUMORAL PALLOR, a STRAWBERRY TONGUE, and later DESQUAMATION.** **Treat with antibiotics — and in Australia this matters particularly because of ACUTE RHEUMATIC FEVER prevention in high-risk populations.** Cross-refer [[F0.5]] 0.10 and [[AU1]] 0.4.
-
-> [!danger] Kawasaki disease — fever for five days changes the differential
-> **A medium-vessel vasculitis of young children, and the leading cause of acquired heart disease in children in developed countries.**
-> **The diagnostic features: FEVER FOR FIVE OR MORE DAYS, plus four of five:**
-> **1. Bilateral NON-PURULENT CONJUNCTIVITIS (bulbar, sparing the limbus)**
-> **2. MUCOSAL changes — cracked red lips, STRAWBERRY TONGUE, injected pharynx**
-> **3. CERVICAL LYMPHADENOPATHY — often UNILATERAL and large**
-> **4. POLYMORPHOUS RASH**
-> **5. EXTREMITY changes — erythema and oedema of the hands and feet, followed later by DESQUAMATION of the fingertips**
-> `UNVERIFIED — the diagnostic criteria and the current definitions.`
-> **THE REASON IT MATTERS: CORONARY ARTERY ANEURYSMS.** **Treatment with INTRAVENOUS IMMUNOGLOBULIN, given within a defined early window, dramatically reduces the risk — and the window is measured in days.**
-> **An ECHOCARDIOGRAM is required.**
-> **INCOMPLETE (atypical) KAWASAKI — with fewer than four features — occurs particularly in INFANTS, who are also at the HIGHEST risk of coronary complications.** **So the youngest children with the fewest features are the most dangerous group, and a prolonged unexplained fever in an infant should prompt the thought even without the full criteria.**
-> **The practical rule: a child with fever for five days and no source needs Kawasaki disease actively considered, not another course of antibiotics.**
-
-> [!warning] The toxin-mediated and drug-related rashes
-> **· STAPHYLOCOCCAL OR STREPTOCOCCAL TOXIC SHOCK SYNDROME — fever, diffuse erythroderma, hypotension and multi-organ involvement, with later desquamation.** Consider with retained foreign bodies, wounds, burns and varicella.
-> **· STAPHYLOCOCCAL SCALDED SKIN SYNDROME — in young children, with widespread superficial blistering and a POSITIVE NIKOLSKY sign, from an exfoliative toxin.**
-> **· DRUG REACTIONS including SJS/TEN and DRESS** — cross-refer [[A5]] 0.6.
-
----
-
-## 0.6 Specific Infections and the Australian Context
-
-> [!tip] Check the immunisation status — and know what it changes
-> **An UNDER-IMMUNISED or unimmunised child has a materially different differential: MEASLES, PERTUSSIS, *Haemophilus influenzae* type b (epiglottitis, meningitis), pneumococcal disease, and varicella complications.**
-> **Ask specifically whether they are up to date on the schedule rather than accepting "yes, they've had their needles".**
-> **Use the presentation as an opportunity for catch-up**, and check the Australian Immunisation Register. Cross-refer [[GER3]].
-
-> [!danger] Pertussis — and the infant is the one at risk
-> **The classic course: a CATARRHAL phase (indistinguishable from a cold, and the MOST INFECTIOUS period) → a PAROXYSMAL phase with severe coughing fits, an inspiratory WHOOP (frequently absent in infants and in adults) and POST-TUSSIVE VOMITING → a prolonged convalescent phase.**
-> **IN YOUNG INFANTS: apnoea, cyanosis and bradycardia may be the presentation, WITHOUT a whoop and sometimes without much cough — and it is in this group that pertussis kills.**
-> **Adults and adolescents with a prolonged cough are the reservoir**, which is the rationale for **COCOONING — vaccinating parents, grandparents and carers — and for maternal vaccination in pregnancy, which protects the newborn before their own immunisation.**
-> **Notifiable, and contacts require assessment for prophylaxis.**
-> **A prolonged paroxysmal cough with post-tussive vomiting in a child or adult should prompt the thought, particularly during outbreaks.** `UNVERIFIED — testing, treatment and prophylaxis regimens.`
-
-> [!warning] The others to consider
-> **· BRONCHIOLITIS — cross-refer [[M6]].**
-> **· TUBERCULOSIS — in children from or with contacts in high-prevalence areas, and in some remote Australian communities.** Cross-refer [[K3]] 0.3.
-> **· MALARIA in a returning traveller — cross-refer [[K1]] 0.4.** **Fever in a child returning from an endemic area is malaria until excluded.**
-> **· THE IMMUNOCOMPROMISED CHILD — an oncology patient with fever is FEBRILE NEUTROPENIA until proven otherwise and requires antibiotics within a short defined window, before the workup is complete.** Cross-refer [[K1]] 0.5.
-> **· Children with indwelling devices — central lines, VP shunts (fever plus a shunt means shunt infection until excluded), gastrostomies.**
-
-> [!tip] Aboriginal and Torres Strait Islander children
-> **Higher rates of serious bacterial infection, skin infection, acute rheumatic fever, otitis media, bronchiectasis and hospitalisation for infection** — with the drivers being overcrowding, environmental health and access rather than anything intrinsic.
-> **The practical consequences: a lower threshold for investigation and treatment · specific consideration of ACUTE RHEUMATIC FEVER with sore throat, skin infection or joint symptoms · treatment thresholds for impetigo and scabies that differ from those in low-risk populations · and attention to persistent wet cough as a precursor of bronchiectasis.**
-> Cross-refer [[AU1]] 0.4, [[K2]] 0.6 and [[RESP-X]] 0.4.
-
-**Ix:** **Urine by a RELIABLE method (clean catch, catheter or suprapubic aspirate — NOT a bag) in any young child with unexplained fever** (*why:* UTI is the commonest occult serious bacterial infection and a bag specimen cannot be trusted; *what:* pyuria, organism). **Blood culture, FBC and film, CRP** (*why:* bacteraemia, and the film may show the leukaemia that presents as fever; *what:* organism, counts, blast cells). **LUMBAR PUNCTURE where indicated by age and clinical picture — and do not defer it because the infant looks well** (*why:* clinical appearance does not exclude meningitis in this group; *what:* CSF cell count, glucose, protein, culture and PCR). **Respiratory rate against age-specific values** (*why:* the most sensitive sign of pneumonia, and auscultation is unreliable in children; *what:* tachypnoea). Chest radiograph **only where clinically indicated** (*why:* not required in uncomplicated pneumonia; *what:* consolidation, effusion). **Blood gas, glucose and lactate in the unwell child** (*why:* perfusion and metabolic state; *what:* acidosis, hypoglycaemia). **ECHOCARDIOGRAM where Kawasaki disease is suspected** (*why:* coronary artery involvement determines management and prognosis; *what:* aneurysm, ectasia). **Pertussis PCR on a nasopharyngeal specimen** (*why:* diagnosis, notification and contact prophylaxis; *what:* *Bordetella*). Malaria films in a returning traveller (*why:* it kills fastest; *what:* parasites). **NOTIFICATION to public health for measles, pertussis, meningococcal disease and other notifiable conditions** (*why:* a legal obligation and the basis of contact tracing; *what:* the notifiable list — `UNVERIFIED — check the SA Health list`).
-
----
-
-> [!note] Cross-references
-> Recognising the seriously unwell child and red flags → [[M1]] 0.1 · Neonatal problems and jaundice → [[M3]] · Paediatric GI, urinary and limb presentations → [[M5]] · Paediatric wheeze, bronchiolitis and seizures → [[M6]] · Child protection → [[M6]] and [[GER4]] · Meningitis and encephalitis → [[D1]] 0.5 · Meningococcal sepsis and contact prophylaxis → [[F0.3]] 0.9 · Sepsis recognition → [[F0.3]] 0.7 · Febrile neutropenia → [[K1]] 0.5 · Tuberculosis → [[K3]] 0.3 · Malaria and the returning traveller → [[K1]] 0.4 · Septic arthritis and osteomyelitis → [[L1]] 0.2 · IgA vasculitis → [[L2]] 0.5 and [[H1]] · Severe cutaneous drug reactions → [[A5]] 0.6 · Orbital cellulitis → [[E1]] and [[F2]] · Epiglottitis and croup → [[A2]] 0.3 and [[F0.5]] 0.10 · Parvovirus and aplastic crisis → [[J2]] · Immunisation and the Australian schedule → [[GER3]] · Aboriginal and Torres Strait Islander child health → [[AU1]] 0.4
-
-
-<!-- ===== SOURCE: M3_Neonatal_Problems.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Patterns, timing rules and clinical reasoning are reliable at intern level. **Every bilirubin threshold, age cut-off, glucose value, weight-loss percentage and dose carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
-> **Bilirubin treatment thresholds are plotted on age-in-HOURS nomograms and cannot be reproduced usefully in text** — use the chart. Obtain all protocols from the **Royal Children's Hospital Melbourne guidelines**, your local neonatal unit protocol, and **Safer Care Victoria / SA Health neonatal guidance**.
->
-> **The collapsed neonate is introduced in [[M1]] 0.4** and **fever in the young infant in [[M2]] 0.2** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Neonatal Jaundice
-
-**A/P:** Neonates are predisposed to jaundice by **a higher red cell mass with a shorter red cell lifespan · immature hepatic conjugation (low UGT activity) · and increased enterohepatic circulation of bilirubin.** Physiological jaundice is the result — but the timing tells you whether it is physiological.
-
-> [!danger] The three timing rules — the highest-yield framework in neonatal medicine
-> **1. JAUNDICE IN THE FIRST 24 HOURS IS ALWAYS PATHOLOGICAL.**
-> **It is HAEMOLYSIS until proven otherwise — ABO or Rhesus incompatibility, G6PD deficiency, hereditary spherocytosis — or congenital infection or sepsis.**
-> **It requires urgent investigation and treatment. It is never "just physiological".**
-> **2. JAUNDICE FROM DAY 2 TO ABOUT TWO WEEKS is usually physiological or breast milk jaundice** — but sepsis, haemolysis, bruising or cephalhaematoma (a resorbing haematoma is a bilirubin load), polycythaemia and dehydration must still be considered, particularly if the baby is unwell or the level is high or rising fast.
-> **3. JAUNDICE PERSISTING BEYOND TWO WEEKS (PROLONGED JAUNDICE) REQUIRES A SPLIT (CONJUGATED) BILIRUBIN.**
-> **This is the single most important investigation in neonatal jaundice, and the one most often not sent.**
-
-> [!danger] Conjugated hyperbilirubinaemia is ALWAYS pathological — and means biliary atresia until excluded
-> **A raised CONJUGATED fraction is never physiological and never breast milk jaundice.**
-> **BILIARY ATRESIA is the diagnosis that must not be missed.**
-> **The clinical signs: PROLONGED jaundice · PALE, CHALKY, ACHOLIC STOOLS · and DARK URINE (a neonate's urine should be colourless).**
-> **LOOK AT THE NAPPY. Ask the parents about stool colour, and use a stool colour chart if available** — pale stools are the earliest and most accessible sign, and parents will not report them unless asked because they do not know what is normal.
-> **WHY THE URGENCY: the KASAI PORTOENTEROSTOMY has substantially better outcomes when performed EARLY — the success rate falls markedly with age, and beyond a critical window the child needs liver transplantation instead.**
-> **Every week of delay matters. A prolonged jaundice referral is not a routine outpatient problem.**
-> `UNVERIFIED — the age threshold for optimal Kasai outcome.`
-
-> [!tip] The rest of the prolonged jaundice differential
-> **UNCONJUGATED:**
-> **· BREAST MILK JAUNDICE — a well, thriving, breastfed baby with unconjugated jaundice persisting for weeks. Common and benign — but a DIAGNOSIS OF EXCLUSION made only after the conjugated fraction is normal and other causes are excluded. Breastfeeding should NOT be stopped.**
-> **· HYPOTHYROIDISM — check the newborn bloodspot screening result rather than assuming it was normal.**
-> **· URINARY TRACT INFECTION — a recognised and easily missed cause of prolonged neonatal jaundice. Send a urine.**
-> **· Ongoing haemolysis, G6PD deficiency, Gilbert and Crigler-Najjar syndromes.**
-> **· GALACTOSAEMIA — with vomiting, hypoglycaemia, hepatomegaly and *E. coli* sepsis.**
-> **CONJUGATED:**
-> **· BILIARY ATRESIA · choledochal cyst · neonatal hepatitis · alpha-1 antitrypsin deficiency · TPN-associated · metabolic and infective causes.**
-
-> [!danger] Kernicterus is preventable, and that is the point of treating jaundice
-> **Unconjugated, unbound bilirubin crosses the blood-brain barrier and deposits in the basal ganglia.**
-> **ACUTE bilirubin encephalopathy: lethargy and poor feeding → hypertonia, retrocollis and OPISTHOTONOS, a HIGH-PITCHED CRY, fever → seizures and death.**
-> **CHRONIC kernicterus: ATHETOID CEREBRAL PALSY · SENSORINEURAL HEARING LOSS · upward GAZE PALSY · and dental enamel dysplasia. It is permanent.**
-> **Risk is increased by: PREMATURITY · HAEMOLYSIS · SEPSIS · ACIDOSIS · HYPOALBUMINAEMIA · and drugs that displace bilirubin from albumin.** **These babies require treatment at lower thresholds.**
-
-> [!warning] Assessment and treatment
-> **DO NOT ESTIMATE SEVERITY VISUALLY.** **Clinical assessment of jaundice depth is unreliable — particularly in babies with darker skin, where jaundice is significantly under-recognised.** **Measure it: transcutaneous bilirubinometry for screening, serum bilirubin where the level is high, the baby is unwell, or below a certain age.**
-> **PLOT THE LEVEL ON AN AGE-IN-HOURS NOMOGRAM.** **A bilirubin value means nothing without the postnatal age in hours and the gestation** — the same number is benign at 96 hours and requires exchange transfusion at 12 hours.
-> **Treatment: PHOTOTHERAPY (which isomerises bilirubin to a water-soluble form excreted without conjugation) · EXCHANGE TRANSFUSION at higher thresholds · INTRAVENOUS IMMUNOGLOBULIN in isoimmune haemolytic disease · plus ensuring adequate FEEDING AND HYDRATION, since dehydration worsens jaundice.**
-> **Treat the underlying cause — sepsis, haemolysis, dehydration.**
-> `UNVERIFIED — all thresholds; use the nomogram.`
-
-**Ix:** **Serum bilirubin with a SPLIT (conjugated and unconjugated) fraction in any jaundice under 24 hours or beyond two weeks** (*why:* the conjugated fraction is what identifies biliary atresia, and it is the test most often omitted; *what:* conjugated proportion). **Blood group and direct antiglobulin (Coombs) test on the baby, with the maternal blood group** (*why:* isoimmune haemolysis; *what:* incompatibility, positive DAT). **FBC, film and reticulocytes** (*why:* haemolysis, polycythaemia, anaemia; *what:* the pattern). **G6PD assay** where relevant ancestry or family history (*why:* a common and treatable cause of severe neonatal jaundice; *what:* deficiency). **Urine microscopy and culture in prolonged jaundice** (*why:* UTI is a recognised and missed cause; *what:* infection). **Thyroid function or the newborn screening result** (*why:* congenital hypothyroidism; *what:* raised TSH). **Direct observation of STOOL COLOUR** (*why:* acholic stools indicate obstructive jaundice and biliary atresia, and parents will not report them unprompted; *what:* pale, chalky stool). LFTs and liver ultrasound where conjugated (*why:* biliary atresia and choledochal cyst; *what:* absent gallbladder, triangular cord sign). Septic screen where unwell (*why:* sepsis causes jaundice; *what:* infection).
-
----
-
-## 0.2 The Cyanosed or Collapsed Neonate
-
-> [!danger] Duct-dependent lesions present when the duct closes — often after discharge
-> **The ductus arteriosus closes over the first days to two weeks. Lesions that depend on it become catastrophic at that point — which is frequently AFTER the baby has gone home.**
-> **· DUCT-DEPENDENT PULMONARY circulation → progressive CYANOSIS.** Pulmonary atresia, critical pulmonary stenosis, tricuspid atresia, severe tetralogy of Fallot.
-> **· DUCT-DEPENDENT SYSTEMIC circulation → SHOCK and collapse.** **Coarctation of the aorta, interrupted aortic arch, critical aortic stenosis, hypoplastic left heart syndrome.**
-> **· TRANSPOSITION OF THE GREAT ARTERIES → depends on the duct and foramen ovale for MIXING.**
-> **A collapsed or cyanosed neonate in the first two weeks who does not respond to fluid and antibiotics needs congenital heart disease considered urgently.**
-
-> [!danger] Prostaglandin E1 reopens the duct — and it causes apnoea
-> **PROSTAGLANDIN E1 (alprostadil) maintains or reopens ductal patency and is life-saving in duct-dependent lesions.**
-> **It should be started on clinical suspicion after urgent discussion with a paediatric cardiologist or retrieval service — waiting for a definitive echocardiogram may be too long.**
-> **THE KEY SIDE EFFECT IS APNOEA. Be prepared to support the airway and ventilate**, and this must be anticipated before starting, particularly before transfer.
-> `UNVERIFIED — dose and administration.`
-
-> [!tip] The bedside assessment of a cyanosed or shocked neonate
-> **· PRE- AND POST-DUCTAL SATURATIONS — right hand (pre-ductal) versus either foot (post-ductal).** A significant difference suggests a ductal shunt or coarctation. **Both may be low in transposition, and in some lesions the FOOT reads HIGHER than the hand (reverse differential), which is highly specific for transposition with associated obstruction.**
-> **· FEMORAL PULSES — ABSENT OR WEAK FEMORAL PULSES MEAN COARCTATION UNTIL PROVEN OTHERWISE.** **Palpate them in every newborn examination and in every unwell infant. It takes seconds and it is the single highest-yield examination finding in neonatal cardiology.**
-> **· FOUR-LIMB BLOOD PRESSURES** — an upper limb to lower limb gradient.
-> **· Murmur — but note that the most severe lesions may have NO murmur** (a large VSD may be silent early, and hypoplastic left heart may have only a single second sound).
-> **· HEPATOMEGALY — the cardinal sign of heart failure in an infant** (peripheral oedema is not).
-> **· THE HYPEROXIA TEST — administering high-flow oxygen: a RESPIRATORY cause improves the saturation substantially; a CARDIAC (right-to-left shunt) cause does not.** Largely superseded by echocardiography but conceptually useful and still used where echo is not immediately available. `UNVERIFIED — the protocol and interpretation.`
-
-> [!warning] Heart failure in an infant looks like a feeding problem
-> **The presentation is NOT oedema and breathlessness. It is:**
-> **· POOR FEEDING and taking a long time to feed**
-> **· SWEATING WITH FEEDS — the classic and specific symptom, because feeding is an infant's exercise**
-> **· TACHYPNOEA and recession**
-> **· FALTERING GROWTH**
-> **· HEPATOMEGALY**
-> **· recurrent chest infections.**
-> **"He gets sweaty and breathless and takes forty minutes to finish a bottle, and he's not putting on weight" is a cardiac history**, and it is regularly managed as reflux or a feeding problem.
-
-> [!tip] Cyanotic spells and innocent murmurs
-> **HYPERCYANOTIC ("TET") SPELLS in tetralogy of Fallot — sudden deepening cyanosis with irritability and a paradoxical DISAPPEARANCE of the murmur (because flow across the outflow tract has stopped).** **Management: KNEE-CHEST position (or picking the child up with knees to chest — which increases systemic vascular resistance and reduces the right-to-left shunt) · oxygen · morphine · fluids · and escalation.** **Older children squat instinctively for the same reason.**
-> **INNOCENT MURMURS are common: soft, systolic, no thrill, no diastolic component, normal heart sounds, varying with posture, in a well, thriving, acyanotic child with normal pulses.**
-> **Features suggesting pathology: any DIASTOLIC murmur · a loud or harsh murmur with a thrill · an abnormal second heart sound · abnormal pulses · cyanosis · failure to thrive · or symptoms.** `UNVERIFIED — full criteria.`
-> **Australia performs PULSE OXIMETRY SCREENING of newborns** to detect critical congenital heart disease before discharge. `UNVERIFIED — the protocol and thresholds.`
-
----
-
-## 0.3 Feeding, Weight and Hypoglycaemia
-
-> [!tip] Normal weight loss, and when it stops being normal
-> **Newborns lose weight in the first days and regain birth weight within a defined period.** **Loss beyond a threshold percentage, or failure to regain by the expected day, triggers assessment — of feeding, of hydration, and of the baby.** `UNVERIFIED — the percentage and the day.`
-> **Assessment of feeding: OBSERVE A FEED — attachment, positioning, suck, swallow, and the mother's comfort.** **This cannot be done by history.** Cross-refer [[O7]] 0.6.
-> **The objective markers of adequate intake are OUTPUT and WEIGHT: the number of wet nappies, the stool pattern and colour transition, and the weight trajectory** — not the mother's perception of supply, which is frequently and unnecessarily doubted.
-
-> [!danger] Hypernatraemic dehydration in the exclusively breastfed neonate
-> **Inadequate milk transfer in the early days — often from poor attachment in a first-time mother with an unrecognised problem — causes progressive dehydration.**
-> **Because free water is lost disproportionately, the sodium RISES, producing HYPERNATRAEMIC dehydration.**
-> **The presentation: excessive weight loss · lethargy · poor feeding (which worsens the cycle) · fever · jaundice · and, in severe cases, seizures and cerebral injury.**
-> **The signs of dehydration are DECEPTIVE in hypernatraemia — skin turgor and peripheral perfusion are relatively preserved because the intravascular volume is defended at the expense of the cells, so the baby looks better than they are.**
-> **Correction must be SLOW** — rapid correction of hypernatraemia causes cerebral oedema. Cross-refer [[I5]] 0.5.
-> **Prevention is the point: weigh babies, review feeding early, and support breastfeeding properly rather than either ignoring the problem or reflexively stopping breastfeeding.**
-
-> [!warning] Neonatal hypoglycaemia — who is at risk and why it matters
-> **AT-RISK GROUPS requiring screening: INFANTS OF DIABETIC MOTHERS (hyperinsulinism from maternal hyperglycaemia) · SMALL FOR GESTATIONAL AGE and growth-restricted infants (low glycogen stores) · LARGE FOR GESTATIONAL AGE · PRETERM · perinatal asphyxia · hypothermia · sepsis · maternal beta-blockers · and inborn errors of metabolism.**
-> **Untreated or recurrent hypoglycaemia causes permanent neurological injury**, which is why screening protocols exist and why the response is prompt.
-> **Management: feed and recheck for mild asymptomatic hypoglycaemia; buccal dextrose gel is used in many protocols; INTRAVENOUS DEXTROSE for severe, symptomatic or refractory hypoglycaemia.**
-> **PERSISTENT or recurrent hypoglycaemia requires investigation for hyperinsulinism, hypopituitarism, adrenal insufficiency and metabolic disease — with the CRITICAL SAMPLE (insulin, cortisol, growth hormone, ketones, lactate, free fatty acids) taken DURING the hypoglycaemic episode, because afterwards it is uninterpretable.** Cross-refer [[I2]] 0.4.
-> `UNVERIFIED — glucose thresholds, screening schedules and dextrose regimens.`
-
-> [!danger] Vitamin K prophylaxis prevents vitamin K deficiency bleeding
-> **Newborns are relatively vitamin K deficient — poor placental transfer, low stores, sterile gut, and low levels in breast milk.**
-> **VITAMIN K DEFICIENCY BLEEDING has an EARLY form and a LATE form. The LATE form occurs at several weeks of age, is strongly associated with EXCLUSIVE BREASTFEEDING WITHOUT PROPHYLAXIS, and presents as INTRACRANIAL HAEMORRHAGE — with high mortality and permanent disability in survivors.**
-> **Prophylaxis is highly effective and refusal rates are rising**, which means clinicians increasingly encounter unprophylaxed infants.
-> **Practical: check whether vitamin K was given · in an infant with unexplained bruising, bleeding or intracranial haemorrhage, ask about it specifically · and where parents decline, the conversation should be respectful, informed, and revisited.**
-> `UNVERIFIED — dose, route and schedule, and the oral alternative regimen.`
-
----
-
-## 0.4 Neonatal Vomiting
-
-> [!danger] Bile-stained vomiting is malrotation with volvulus until proven otherwise
-> **GREEN vomit in an infant is a SURGICAL EMERGENCY.**
-> **Malrotation with midgut volvulus twists the bowel around a narrow mesenteric pedicle, occluding the superior mesenteric artery — and the entire midgut infarcts within HOURS.**
-> **The child may initially look DECEPTIVELY WELL, with only vomiting.** By the time there is peritonism, shock and blood per rectum, bowel has been lost.
-> **The response is an URGENT SURGICAL OPINION and an URGENT UPPER GASTROINTESTINAL CONTRAST STUDY — not observation, not a trial of feeds, and not an antiemetic.**
-> **"Green vomit means go" is the rule.**
-
-> [!warning] Pyloric stenosis — resuscitate before you operate
-> **Presents at around three to six weeks with PROJECTILE, NON-BILIOUS vomiting.** **The baby is HUNGRY IMMEDIATELY AFTER VOMITING — which distinguishes it from vomiting due to illness — and progressively loses weight and becomes dehydrated.**
-> **Signs: visible gastric PERISTALSIS crossing the abdomen, and a palpable "OLIVE" in the right upper quadrant, best felt during a test feed.**
-> **THE BIOCHEMISTRY IS CHARACTERISTIC AND EXAMINED: a HYPOCHLORAEMIC, HYPOKALAEMIC METABOLIC ALKALOSIS** — from loss of gastric hydrochloric acid — **with PARADOXICAL ACIDURIA**, because the kidney eventually prioritises sodium retention over acid-base and excretes hydrogen ions despite the alkalosis.
-> **THE CRITICAL MANAGEMENT POINT: PYLORIC STENOSIS IS A MEDICAL EMERGENCY, NOT A SURGICAL ONE.**
-> **The infant must be RESUSCITATED and the ELECTROLYTES AND ALKALOSIS CORRECTED BEFORE surgery** — operating on an alkalotic, hypochloraemic, hypokalaemic infant risks post-operative APNOEA and arrhythmia.
-> **Diagnosis is by ULTRASOUND.**
-
-> [!tip] The rest of the neonatal vomiting differential
-> **· POSSETING AND REFLUX — very common, in a well, thriving baby. Reassurance, positioning and feeding advice. Reflux in a THRIVING baby does not need medication.**
-> **· OVERFEEDING and incorrect formula preparation** — ask how the formula is made up.
-> **· COW'S MILK PROTEIN ALLERGY — vomiting, blood or mucus in stools, eczema, irritability, faltering growth.**
-> **· SEPSIS — vomiting is a common non-specific presentation.**
-> **· RAISED INTRACRANIAL PRESSURE — including from ABUSIVE HEAD TRAUMA, hydrocephalus and tumour. A bulging fontanelle, rapidly increasing head circumference, or a tense fontanelle matters.**
-> **· INBORN ERRORS OF METABOLISM** — cross-refer [[M1]] 0.4.
-> **· OBSTRUCTION — duodenal atresia (a "DOUBLE BUBBLE" on radiograph, associated with Down syndrome), intestinal atresia, HIRSCHSPRUNG DISEASE, meconium ileus.**
-> **· NECROTISING ENTEROCOLITIS — predominantly preterm infants, with feeding intolerance, abdominal distension, bloody stools and systemic deterioration; PNEUMATOSIS INTESTINALIS on abdominal radiograph.**
-
-> [!danger] Failure to pass meconium within the first day or two
-> **A neonate should pass meconium within a defined early period. Failure to do so is abnormal and points to:**
-> **· HIRSCHSPRUNG DISEASE — aganglionosis, with delayed meconium, abdominal distension, and sometimes an explosive release of stool and gas on rectal examination. It can present later with severe constipation, and it can present acutely with ENTEROCOLITIS, which is life-threatening.**
-> **· MECONIUM ILEUS — strongly associated with CYSTIC FIBROSIS, and it may be the presenting feature.**
-> **· ANORECTAL MALFORMATION — check that the anus is patent and normally sited on the newborn examination.**
-> Cross-refer [[M5]].
-
----
-
-## 0.5 Apnoea and BRUE
-
-> [!danger] Apnoea in a term infant is always abnormal
-> **Apnoea of prematurity is a recognised entity in preterm infants and resolves with maturity.**
-> **APNOEA IN A TERM NEONATE OR OLDER INFANT IS NEVER NORMAL and requires explanation.**
-> **The causes: SEPSIS (including meningitis) · SEIZURE · PERTUSSIS (which in infants presents with apnoea rather than a whoop) · BRONCHIOLITIS and RSV · airway obstruction · gastro-oesophageal reflux (a contested association) · METABOLIC disease including hypoglycaemia and electrolyte disturbance · CARDIAC arrhythmia including long QT · raised intracranial pressure · ABUSIVE HEAD TRAUMA · and poisoning.**
-
-> [!info] BRUE — brief resolved unexplained event
-> **This terminology REPLACED the older "apparent life-threatening event (ALTE)"**, because the old term was frightening and non-specific.
-> **BRUE requires: an infant under one year · a BRIEF episode (typically under a minute) that has COMPLETELY RESOLVED with the infant back to baseline · with one or more of: colour change (cyanosis or pallor) · absent, decreased or irregular breathing · a marked change in TONE · or altered responsiveness · AND — critically — NO EXPLANATION after a thorough history and examination.**
-> **The "unexplained" is the key word. If there is an explanation — reflux, a choking episode on a feed, a seizure, an infection — it is not a BRUE, it is that diagnosis.**
-> **Infants are then stratified into LOWER-RISK and HIGHER-RISK groups by age, prematurity, duration, whether CPR was required, and whether it was a first event.** **Lower-risk infants need brief observation, an ECG, education and safety-netting rather than extensive investigation. Higher-risk infants are admitted and investigated.** `UNVERIFIED — the risk criteria.`
-
-> [!danger] The three that must be actively considered in every BRUE
-> **1. NON-ACCIDENTAL INJURY, particularly ABUSIVE HEAD TRAUMA and suffocation.** **A recurrent BRUE, an event witnessed only by one carer, an inconsistent history, or other concerning features should raise it.** Cross-refer [[M6]].
-> **2. PERTUSSIS** — apnoea may be the only feature in a young infant, and the immunisation status of the infant and the household matters. Cross-refer [[M2]] 0.6.
-> **3. CARDIAC ARRHYTHMIA — long QT syndrome. An ECG is recommended in essentially all BRUE presentations**, because it is cheap and the diagnosis has implications for the whole family. Cross-refer [[B3]] 0.3.
-
-> [!warning] Safe sleeping and sudden unexpected death in infancy
-> **The evidence-based safe sleeping advice, which every parent should receive and which every clinician should be able to give:**
-> **· Sleep the baby ON THEIR BACK, every sleep.**
-> **· Keep the FACE AND HEAD UNCOVERED — no loose bedding, pillows, bumpers or soft toys.**
-> **· A SMOKE-FREE environment, before and after birth.**
-> **· A SAFE SLEEP SPACE — a firm, flat mattress in a safe cot, with the baby's own sleep surface.**
-> **· ROOM-SHARE with the baby in the parents' room, in their own cot, for the first months — which is protective, whereas BED-SHARING carries risk, particularly with parental smoking, alcohol, sedating drugs, extreme tiredness, prematurity, or sleeping on a sofa or armchair (which is the highest-risk situation of all).**
-> **· BREASTFEEDING is protective.**
-> **· Avoid OVERHEATING.**
-> **Australian guidance is provided by Red Nose.** `UNVERIFIED — the current recommendations.`
-> **Deliver this without blame** — many parents bed-share, and a conversation about how to reduce risk is more useful than a prohibition that is ignored.
-
----
-
-## 0.6 Common and Minor Neonatal Problems
-
-> [!tip] The benign skin findings — and one that must be documented
-> **· ERYTHEMA TOXICUM NEONATORUM — blotchy erythematous macules with a central papule or pustule, appearing in the first days, migrating, and resolving spontaneously. Entirely benign, and frequently mistaken for infection.**
-> **· MILIA, neonatal acne, cradle cap, and NAEVUS SIMPLEX ("stork mark", "angel kiss") on the eyelids, glabella and nape.**
-> **· CONGENITAL DERMAL MELANOCYTOSIS (formerly "Mongolian spots") — blue-grey macular pigmentation, most often over the sacrum and buttocks, common in babies with darker skin.** **DOCUMENT THEM CLEARLY IN THE NOTES, INCLUDING SITE AND SIZE — they are repeatedly and distressingly mistaken for BRUISING and have led to child protection referrals.**
-> **· INFANTILE HAEMANGIOMA — appears in the first weeks, proliferates then involutes. Most need no treatment. REFER those that are PERIOCULAR (amblyopia risk) · AIRWAY-related (a "beard distribution" haemangioma suggests airway involvement) · ULCERATING · very large or multiple (consider PHACE syndrome or hepatic haemangiomas) · or in cosmetically sensitive sites.** **PROPRANOLOL is the treatment.**
-
-> [!danger] Three neonatal presentations that are not minor
-> **1. OMPHALITIS — periumbilical ERYTHEMA, induration or discharge.** **In a neonate this is a serious infection that can progress rapidly to necrotising fasciitis, sepsis and portal vein thrombosis.** **It requires intravenous antibiotics, not topical treatment.** Umbilical granuloma (a small pink nodule with no surrounding erythema) is benign by contrast.
-> **2. OPHTHALMIA NEONATORUM — conjunctivitis in the first month.** **PURULENT discharge in the FIRST FEW DAYS suggests GONOCOCCAL infection, which is SIGHT-THREATENING — it can perforate the cornea within days and requires urgent systemic treatment and ophthalmology.** **Onset around days 5 to 14 suggests CHLAMYDIA, which also causes pneumonitis at 4 to 12 weeks.** **Both require systemic (not just topical) treatment, NOTIFICATION, and TREATMENT OF THE MOTHER AND HER PARTNER.** **A "sticky eye" from a blocked nasolacrimal duct is different — it is not purulent, the eye is white, and it resolves.** Cross-refer [[O6]] 0.2 and [[E1]].
-> **3. ABSENT RED REFLEX — check it on every newborn examination. An absent or abnormal red reflex means CONGENITAL CATARACT or RETINOBLASTOMA until proven otherwise, and requires URGENT ophthalmology referral.** **Both are sight-threatening and retinoblastoma is life-threatening; both have far better outcomes with early detection.** Cross-refer [[E1]].
-
-> [!tip] The newborn examination and screening — what it is actually looking for
-> **· RED REFLEX — cataract, retinoblastoma.**
-> **· FEMORAL PULSES — coarctation.**
-> **· HIPS (Barlow and Ortolani) — developmental dysplasia. RISK FACTORS warranting ultrasound screening: BREECH presentation, a FAMILY HISTORY, female sex, and firstborn.** Cross-refer [[M5]].
-> **· TESTES — undescended testis, requiring referral if not descended by the defined age (and note the increased malignancy and fertility implications).** Cross-refer [[H4]] 0.2.
-> **· PALATE — cleft palate is missed if the palate is not both looked at and felt.**
-> **· ANUS — patency and position.**
-> **· SPINE — sacral dimples, hairy patches or masses suggesting spinal dysraphism.**
-> **· NEWBORN BLOODSPOT SCREENING — for congenital hypothyroidism, cystic fibrosis, phenylketonuria and a panel of metabolic conditions. Check the result rather than assuming.**
-> **· NEWBORN HEARING SCREENING — because early detection transforms language outcomes.**
-> **· PULSE OXIMETRY SCREENING for critical congenital heart disease.**
-> `UNVERIFIED — the Australian screening panel and protocols.`
-
-**Ix:** **Split bilirubin in prolonged jaundice, and stool colour inspection** (*why:* biliary atresia is time-critical and both are simple; *what:* conjugated fraction, acholic stools). **Pre- and post-ductal saturations and femoral pulses in any unwell neonate** (*why:* duct-dependent lesions are treatable with prostaglandin and are missed if not sought; *what:* saturation differential, absent pulses). **Bedside glucose** (*why:* neonatal hypoglycaemia causes neurological injury and is rapidly correctable; *what:* low glucose). **Blood gas, lactate, AMMONIA and ketones in an unwell or vomiting neonate** (*why:* inborn errors of metabolism, and ammonia is the test not sent; *what:* acidosis, hyperammonaemia). **Abdominal radiograph and URGENT upper GI contrast study for bile-stained vomiting** (*why:* malrotation with volvulus infarcts the midgut within hours; *what:* abnormal duodenojejunal flexure position). **Ultrasound for suspected pyloric stenosis, with UEC and blood gas BEFORE surgery** (*why:* the alkalosis and electrolyte derangement must be corrected pre-operatively to avoid apnoea; *what:* pyloric measurements, hypochloraemic hypokalaemic alkalosis). **Urine culture in prolonged jaundice, vomiting or unexplained fever** (*why:* UTI presents non-specifically and causes prolonged jaundice; *what:* infection). **ECG in BRUE** (*why:* long QT syndrome, with implications for the family; *what:* QTc). Septic screen where unwell (*why:* sepsis is the commonest serious cause of almost every neonatal presentation; *what:* infection).
-
----
-
-> [!note] Cross-references
-> The seriously unwell child and the collapsed neonate → [[M1]] 0.4 · Fever in the young infant → [[M2]] 0.2 · Growth faltering and development → [[M4]] · Paediatric GI, hip dysplasia and constipation → [[M5]] · Child protection and abusive head trauma → [[M6]] and [[GER4]] · Bronchiolitis and paediatric respiratory → [[M6]] · Pertussis → [[M2]] 0.6 · Long QT syndrome → [[B3]] 0.3 · Neonatal hypoglycaemia and the critical sample → [[I2]] 0.4 · Congenital adrenal hyperplasia → [[I4]] 0.6 · Hypernatraemia and correction rates → [[I5]] 0.5 · Breastfeeding assessment and support → [[O7]] 0.6 · Ophthalmia neonatorum, cataract and retinoblastoma → [[E1]] and [[O6]] 0.2 · Undescended testis → [[H4]] 0.2 · Neonatal herpes → [[O3]] · Jaundice and liver disease in adults → [[C3]]
-
-
-<!-- ===== SOURCE: M4_Growth_and_Development.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Frameworks, discriminators and clinical reasoning are reliable at intern level. **Every milestone age, centile threshold, formula and referral criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.**
-> **Milestone limit ages differ between references and must come from a current source** — use the **Royal Children's Hospital Melbourne guidelines**, the **Australian child health record ("blue book" equivalent)** and your state's child health service materials.
->
-> **Puberty and its disorders are built in [[O6]] 0.6** and **adolescent health in [[M7]]** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Measuring and Plotting Growth
-
-> [!danger] The trajectory matters more than the centile
-> **A child tracking steadily along the 3rd centile is usually normal — they are simply small.**
-> **A child CROSSING DOWN through centiles is abnormal, even if they are still on the 50th.**
-> **This is the single most important principle in growth assessment, and it means a single measurement is nearly uninterpretable.** **You need serial measurements plotted over time**, which is why the child health record and previous weights are worth chasing.
-> **Growth is the most sensitive general indicator of a child's health** — chronic disease of almost any kind shows up in the growth chart before it shows up elsewhere.
-
-> [!tip] Plot everything, on the right chart
-> **· WEIGHT · LENGTH or HEIGHT · HEAD CIRCUMFERENCE (routinely to about age two or three) · and BMI in older children.**
-> **· Use the appropriate chart for age and population, and CONDITION-SPECIFIC charts where they exist — Down syndrome, Turner syndrome, and preterm infants.**
-> **· CORRECT FOR PREMATURITY until the defined age.** **Failing to correct makes a normally growing preterm infant look like they are failing.** `UNVERIFIED — the chart in use and the age to which correction applies.`
-> **· TECHNIQUE matters: LENGTH is measured lying down with two people to about age two; HEIGHT standing thereafter — and the transition produces an artefactual drop of a centimetre or two that should not be over-interpreted.** Infants are weighed naked.
-
-> [!warning] Head circumference — and the pattern that means urgent imaging
-> **A RAPIDLY INCREASING head circumference crossing centiles upward means RAISED INTRACRANIAL PRESSURE until proven otherwise — hydrocephalus, tumour, or a SUBDURAL COLLECTION from abusive head trauma.**
-> **Look also for: a tense or bulging fontanelle · splayed sutures · "sunsetting" eyes · vomiting · irritability or lethargy · and developmental regression.**
-> **MICROCEPHALY** — congenital infection, genetic syndromes, perinatal injury, or a familial small head (check the parents' head circumferences before alarming anyone).
-> Cross-refer [[M6]] and [[M1]] 0.5.
-
-> [!tip] Mid-parental height puts the child in family context
-> **Calculate the expected height range from the parents' heights and compare it with the child's projected adult height.**
-> **A child who is short but tracking within their genetic target range is a different problem from one who is short relative to their own family.**
-> **Measure the parents if they are present rather than accepting reported heights** — reported heights are unreliable, usually upward. `UNVERIFIED — the mid-parental height formula and target range.`
-
----
-
-## 0.2 Growth Faltering
-
-> [!info] Terminology and definition
-> **"GROWTH FALTERING" has largely replaced "failure to thrive"**, which was stigmatising and implied fault, usually maternal.
-> **It describes sustained downward centile crossing of weight, or a weight substantially below that expected for age or length.** `UNVERIFIED — the centile-crossing thresholds.`
-> **THE SEQUENCE OF FALTERING INDICATES SEVERITY AND CHRONICITY:**
-> **WEIGHT falls FIRST → then LENGTH/HEIGHT (stunting, indicating a more chronic process) → then HEAD CIRCUMFERENCE (indicating a severe or prolonged insult, or a primary neurological cause).**
-> **A child whose weight has fallen but whose length and head circumference are preserved has a shorter-duration, usually nutritional problem. A child whose head circumference has faltered is a different and more concerning presentation.**
-
-> [!tip] The four-category framework
-> **1. INADEQUATE INTAKE — by far the commonest.**
-> **· Feeding technique — poor attachment, inadequate milk transfer, incorrect formula preparation (both over- and under-concentration).**
-> **· FOOD INSECURITY and poverty — ask, gently and directly.**
-> **· Oral-motor difficulty, cleft palate, neurological impairment, tongue tie.**
-> **· Feeding aversion and ARFID** — cross-refer [[N8]] 0.5.
-> **· Adenotonsillar hypertrophy causing feeding fatigue and sleep-disordered breathing.**
-> **· NEGLECT.**
-> **2. INADEQUATE ABSORPTION.**
-> **· COELIAC DISEASE — classically presenting after the introduction of gluten, with growth faltering, abdominal distension, irritability and abnormal stools.**
-> **· CYSTIC FIBROSIS — with steatorrhoea, recurrent chest infections, and a positive newborn screen (check it).**
-> **· Cow's milk protein allergy · inflammatory bowel disease · giardiasis · post-infectious enteropathy · short gut.**
-> **3. INCREASED REQUIREMENTS.**
-> **· CONGENITAL HEART DISEASE — sweating with feeds, tachypnoea, hepatomegaly.** Cross-refer [[M3]] 0.2.
-> **· Chronic lung disease · chronic or recurrent infection including recurrent UTI, HIV and TB · malignancy · hyperthyroidism · chronic inflammation · chronic kidney disease.**
-> **4. INADEQUATE UTILISATION — metabolic, chromosomal and endocrine disorders.**
-
-> [!danger] The psychosocial dimension — consider it, sensitively, in every case
-> **Poverty and food insecurity · parental mental illness, particularly maternal depression · family violence · substance use · social isolation and lack of support · and neglect.**
-> **These are common and they are frequently the answer** — but the conversation has to be handled without accusation, because a defensive family disengages and the child loses the follow-up.
-> **Ask about practicalities: "how are things at home?", "is there enough food to go around?", "who's helping you?", "how are YOU going?"**
-> **And hold neglect in mind as a possibility while working with the family — the two are not mutually exclusive, and a child protection concern does not require certainty.** Cross-refer [[M6]] and [[GER4]].
-
-> [!warning] Investigate in a targeted way, not with a panel
-> **Most children with growth faltering have INADEQUATE INTAKE and NO organic disease**, and an extensive laboratory workup in a child with a clear feeding history is unhelpful.
-> **The assessment that matters is CLINICAL: a detailed feeding and dietary history · OBSERVING A FEED or a meal · a full systems review · a full examination including dysmorphic features, development, and evidence of chronic disease · and the growth chart over time.**
-> **A reasonable baseline where investigation is warranted: FBC and film, ferritin, UEC, LFT, COELIAC serology (with total IgA), TFTs, CRP, urinalysis and urine culture.** **Then targeted tests as the history directs — sweat test, stool studies, imaging.**
-> **Management is multidisciplinary: DIETITIAN, feeding support (speech pathology or lactation consultant as appropriate), child health nurse, treatment of any identified cause, energy supplementation, and social supports.**
-
----
-
-## 0.3 Short Stature
-
-> [!tip] Two questions sort the differential
-> **1. IS IT PROPORTIONATE OR DISPROPORTIONATE?** **Disproportion (a short trunk or short limbs relative to the rest) points to a SKELETAL DYSPLASIA or rickets, and is assessed by measuring sitting height and arm span alongside standing height.**
-> **2. IS THE GROWTH VELOCITY NORMAL OR REDUCED?** **A child who is short but growing at a normal rate along their own centile is likely a normal variant. A child whose growth velocity has FALLEN is likely pathological.**
-> **Growth velocity — the rate of change over time — is far more informative than any single height measurement.**
-
-> [!danger] Bone age distinguishes the two normal variants
-> **· FAMILIAL SHORT STATURE — short parents, a height appropriate to the mid-parental range, NORMAL growth velocity, BONE AGE EQUAL TO CHRONOLOGICAL AGE, puberty at the normal time, and a short but genetically appropriate final height.**
-> **· CONSTITUTIONAL DELAY OF GROWTH AND PUBERTY — often a family history of being a "late developer", DELAYED BONE AGE, delayed puberty, and — crucially — a NORMAL FINAL ADULT HEIGHT once growth continues for longer.**
-> **The bone age radiograph is the key discriminating investigation**, and the distinction matters enormously to an adolescent boy and his family: constitutional delay reaches a normal height, familial short stature does not.
-> **Constitutional delay is a diagnosis of exclusion** — chronic disease, coeliac disease, hypothyroidism and Turner syndrome must be excluded first.
-
-> [!warning] The pattern that distinguishes endocrine from nutritional causes
-> **This is a genuinely useful discriminator:**
-> **· NUTRITIONAL or systemic disease → the child is SHORT and THIN. Weight is affected FIRST and more than height.**
-> **· ENDOCRINE causes (growth hormone deficiency, hypothyroidism, Cushing syndrome, corticosteroid excess) → the child is SHORT with RELATIVELY PRESERVED OR INCREASED WEIGHT — short and plump.** **Height is affected more than weight.**
-> **A short, overweight child is more likely to have an endocrine cause; a short, thin child is more likely to have inadequate nutrition or chronic disease.**
-
-> [!danger] Check a karyotype in any unexplained short girl
-> **TURNER SYNDROME (45,X and variants) is a common and treatable cause of short stature in girls, and it can present with SHORT STATURE AS THE ONLY FEATURE.**
-> **The classic features — webbed neck, widely spaced nipples, cubitus valgus, low hairline, lymphoedema — are frequently ABSENT or subtle.**
-> **Associations that matter: COARCTATION OF THE AORTA and bicuspid aortic valve (with a lifelong risk of aortic dissection) · horseshoe kidney · recurrent otitis media and hearing loss · autoimmune thyroid disease and coeliac disease · and gonadal dysgenesis with delayed puberty and infertility.**
-> **Growth hormone improves final height, and the diagnosis has lifelong cardiac, endocrine and reproductive implications — which is why the karyotype should be checked rather than assumed unnecessary.**
-
-> [!warning] Red flags in a short child
-> **· FALLING growth velocity or downward centile crossing.**
-> **· Height substantially below the mid-parental target range.**
-> **· DISPROPORTION.**
-> **· Dysmorphic features.**
-> **· HEADACHE, VOMITING or VISUAL FIELD DEFECTS — a CRANIOPHARYNGIOMA or other intracranial lesion can present as growth failure, and a suprasellar mass compresses the optic chiasm.** **Check the visual fields and fundi in a child with unexplained growth failure.**
-> **· Symptoms of chronic disease — diarrhoea, abdominal pain, recurrent infection, fatigue.**
-> **· Delayed or absent puberty.**
-
-**Ix:** **Serial heights plotted, with GROWTH VELOCITY calculated** (*why:* the rate of growth discriminates normal variants from pathology far better than a single measurement; *what:* velocity, centile crossing). **BONE AGE radiograph (left hand and wrist)** (*why:* distinguishes familial short stature from constitutional delay and estimates growth potential; *what:* delayed or appropriate bone age). **KARYOTYPE in any unexplained short girl** (*why:* Turner syndrome may present with short stature alone; *what:* 45,X or mosaic). **Coeliac serology with total IgA** (*why:* coeliac disease causes growth failure with minimal gastrointestinal symptoms, and IgA deficiency causes false negatives; *what:* tissue transglutaminase IgA). **TFTs** (*why:* hypothyroidism is treatable and presents with short stature and weight gain; *what:* raised TSH). FBC, ferritin, UEC, LFT, CRP, calcium, phosphate, ALP, vitamin D (*why:* chronic disease, rickets, and inflammatory conditions; *what:* the abnormality). **IGF-1 and growth hormone stimulation testing** where growth hormone deficiency is suspected (*why:* random growth hormone is uninterpretable because secretion is pulsatile; *what:* low IGF-1, failed stimulation response). **MRI brain and pituitary where growth hormone deficiency is confirmed, or where there are visual or neurological features** (*why:* craniopharyngioma and other suprasellar lesions; *what:* mass). Urinalysis and renal function (*why:* occult renal disease causes growth failure; *what:* proteinuria, impairment).
-
----
-
-## 0.4 Tall Stature, Obesity and Puberty
-
-> [!tip] Tall stature is usually familial — but check for the syndromes
-> **· MARFAN SYNDROME — tall with disproportionately long limbs and arm span exceeding height, arachnodactyly, joint hypermobility, high-arched palate, pectus deformity, scoliosis, LENS DISLOCATION (upward), and — the reason it matters — AORTIC ROOT DILATATION AND DISSECTION.** **Echocardiography and ophthalmology assessment, and family screening.**
-> **· KLINEFELTER SYNDROME (47,XXY) — tall, with long limbs, small firm testes, gynaecomastia, reduced secondary sexual hair, learning and behavioural difficulties, and infertility.** Frequently diagnosed late or never.
-> **· HOMOCYSTINURIA — a marfanoid habitus with DOWNWARD lens dislocation, intellectual disability, and a thrombotic tendency.** The lens direction distinguishes it from Marfan syndrome.
-> **· PRECOCIOUS PUBERTY — tall as a child, but SHORT as an adult because of early epiphyseal fusion.**
-> **· Growth hormone excess, Sotos syndrome, hyperthyroidism.**
-
-> [!warning] Childhood obesity — the height tells you whether it is endocrine
-> **THE DISCRIMINATOR: exogenous (nutritional) obesity makes children TALL for their age. Endocrine causes make them SHORT.**
-> **· TALL and obese → almost always exogenous. Extensive endocrine investigation is not warranted.**
-> **· SHORT and obese → investigate: HYPOTHYROIDISM · CUSHING SYNDROME · growth hormone deficiency · PRADER-WILLI syndrome · and other genetic syndromes.**
-> **Complications to screen for: type 2 diabetes and insulin resistance · metabolic dysfunction-associated steatotic liver disease · obstructive sleep apnoea · hypertension and dyslipidaemia · SLIPPED UPPER FEMORAL EPIPHYSIS (a specifically orthopaedic risk — cross-refer [[M5]]) · and the substantial psychosocial burden including bullying and low self-esteem.**
-> **Management is FAMILY-BASED and behavioural, and the language used matters enormously.** **Weight stigma in healthcare is harmful and counterproductive** — cross-refer [[I5]] 0.1. **Avoid weighing and discussing weight in front of siblings, avoid moralising about food, and focus on health behaviours and family patterns rather than on the number.**
-
-> [!tip] Puberty — normal, precocious and delayed
-> The detail is in **[[O6]] 0.6.** The points to carry:
-> **· The normal SEQUENCE: in girls, breast development first, then pubic hair, then the growth spurt, then menarche. In boys, TESTICULAR ENLARGEMENT first, then pubic hair, then the growth spurt and voice change.** **Testicular volume is the first sign in boys and is measured with an orchidometer — pubic hair without testicular enlargement suggests an adrenal androgen source rather than true puberty.**
-> **· PRECOCIOUS PUBERTY — central (gonadotrophin-dependent) or peripheral. It is more often IDIOPATHIC IN GIRLS and more often PATHOLOGICAL IN BOYS — so a boy with precocious puberty requires CNS imaging.**
-> **· DELAYED PUBERTY — constitutional delay is commonest, but exclude chronic disease, coeliac disease, hypothyroidism, TURNER and KLINEFELTER syndromes, undernutrition and excessive exercise, and KALLMANN SYNDROME (hypogonadotrophic hypogonadism with ANOSMIA — ask about the sense of smell).**
-> **· The growth spurt occurs EARLIER in girls and LATER in boys**, which is why a short 13-year-old boy alongside taller female peers is usually normal — and why it is nonetheless distressing and worth taking seriously.
-
----
-
-## 0.5 Developmental Milestones and Surveillance
-
-> [!info] Four domains — assess all of them
-> **1. GROSS MOTOR**
-> **2. FINE MOTOR AND VISION**
-> **3. SPEECH, LANGUAGE AND HEARING**
-> **4. SOCIAL, EMOTIONAL AND BEHAVIOURAL**
-> **Delay in ONE domain has a different differential from GLOBAL delay across all four** — isolated motor delay suggests a neuromuscular or cerebral cause; isolated speech delay suggests hearing loss first; global delay suggests a genetic, metabolic or acquired brain cause.
-> **Use LIMIT AGES (the age by which a skill should be present) rather than average ages** — the average is what most children do, the limit age is what should prompt concern. `UNVERIFIED — all milestone limit ages; use a current reference.`
-
-> [!danger] The red flags that require action rather than reassurance
-> **· ANY LOSS OF PREVIOUSLY ACQUIRED SKILLS — see the box below. This is the most important one.**
-> **· HAND PREFERENCE BEFORE ABOUT 12–18 MONTHS.** **Established handedness in an infant is ABNORMAL and suggests a HEMIPLEGIA — the child is not preferring one hand, they are unable to use the other.** **This is a specific, easily elicited and frequently missed sign.**
-> **· PERSISTENT PRIMITIVE REFLEXES beyond the age at which they should have integrated.**
-> **· Not smiling responsively, not fixing and following, no response to sound.**
-> **· Not sitting, not walking, or no words by the relevant limit ages.**
-> **· Marked asymmetry of movement or tone.**
-> **· PARENTAL CONCERN — which, as in acute illness, is a genuine signal and should be acted on.**
-> `UNVERIFIED — the specific limit ages for each milestone.`
-
-> [!danger] Regression is always pathological
-> **LOSS OF PREVIOUSLY ACQUIRED SKILLS IS NEVER NORMAL and requires urgent investigation.**
-> **The differential: NEURODEGENERATIVE and metabolic disease · EPILEPTIC ENCEPHALOPATHIES (including Landau-Kleffner syndrome, where language regresses with an abnormal EEG) · RETT SYNDROME (in girls, with regression, loss of purposeful hand use and stereotypic hand-wringing) · brain tumour · hydrocephalus · infection · ABUSIVE HEAD TRAUMA · and severe neglect.**
-> **Note that some autistic children show a plateau or apparent loss of social and language skills in the second year — this is recognised, but it does NOT excuse skipping the investigation of regression**, because the other causes are treatable or serious.
-
-> [!warning] Always check hearing and vision
-> **This is the most commonly omitted step in a developmental assessment, and it is the most likely to yield a treatable cause.**
-> **· HEARING — a child with speech and language delay has hearing loss until proven otherwise.** **Both permanent sensorineural loss (which newborn screening detects, but which can be acquired or progressive) and CONDUCTIVE loss from OTITIS MEDIA WITH EFFUSION ("glue ear"), which is extremely common, fluctuating, and a genuine cause of language and educational delay — and which is disproportionately prevalent and persistent in Aboriginal and Torres Strait Islander children.** Cross-refer [[F1]] and [[AU1]] 0.4.
-> **· VISION — visual impairment presents as developmental delay, poor eye contact (which may be misattributed to autism), and delayed motor skills.**
-> **Formal audiology and ophthalmology assessment, not a bedside impression.**
-
-> [!tip] The Australian surveillance framework
-> **Routine developmental surveillance occurs through: the CHILD HEALTH RECORD held by parents (the "blue book" or state equivalent) · scheduled CHILD HEALTH CHECKS by community child health nurses and general practitioners at defined ages · immunisation visits as an opportunity · and school entry health assessments.**
-> **The Aboriginal and Torres Strait Islander child health check (part of the 715 framework) provides a structured opportunity.** Cross-refer [[AU1]] 0.1.
-> **Surveillance is continuous and opportunistic rather than a one-off screen** — every contact with a child is a chance to look at the growth chart and ask about development. `UNVERIFIED — the current schedule and checks.`
-
----
-
-## 0.6 Developmental Delay and Neurodevelopmental Conditions
-
-> [!tip] Terminology
-> **· GLOBAL DEVELOPMENTAL DELAY — significant delay in two or more domains, used in children under about five, where the future trajectory is uncertain.**
-> **· INTELLECTUAL DISABILITY — diagnosed in older children after formal cognitive and adaptive assessment.**
-> **The distinction matters because delay in a young child does not necessarily predict intellectual disability, and premature labelling harms.**
-
-> [!warning] The causes, and how often no cause is found
-> **· GENETIC AND CHROMOSOMAL — Down syndrome, fragile X, microdeletion and microduplication syndromes, single gene disorders.**
-> **· PRENATAL — congenital infection (cytomegalovirus is the commonest infectious cause of neurodevelopmental disability and is frequently unrecognised) · teratogens · and FETAL ALCOHOL SPECTRUM DISORDER.**
-> **FASD is an important and under-diagnosed cause in Australia**, with growth restriction, characteristic facial features, and neurodevelopmental impairment — and its prevention is a public health matter rather than an individual failing. Cross-refer [[AU1]] and [[N2]] 0.2.
-> **· PERINATAL — hypoxic-ischaemic encephalopathy, extreme prematurity, kernicterus, hypoglycaemia.**
-> **· POSTNATAL — meningitis and encephalitis, traumatic brain injury including ABUSIVE head trauma, near-drowning, lead exposure, and severe neglect.**
-> **· METABOLIC and neurodegenerative disorders.**
-> **In a substantial proportion, no cause is identified** — and telling families this honestly, rather than continuing indefinite investigation, is part of good care.
-
-> [!danger] Check a creatine kinase in a boy with motor delay
-> **DUCHENNE MUSCULAR DYSTROPHY presents with delayed walking, toe-walking, difficulty climbing stairs, frequent falls, calf pseudohypertrophy, and GOWERS SIGN (climbing up their own legs to stand).**
-> **THE CK IS MARKEDLY RAISED — often to many times normal — and it is a cheap, simple test.**
-> **The diagnosis is frequently delayed by years**, because early motor delay is attributed to normal variation and because the CK is not checked.
-> **A BOY WITH MOTOR DELAY, LATE WALKING OR AN ABNORMAL GAIT SHOULD HAVE A CK.** **Early diagnosis matters for treatment, for surveillance, and critically for GENETIC COUNSELLING — because carrier mothers may have further affected sons in the interim.** Cross-refer [[D4]] 0.6.
-
-> [!tip] Cerebral palsy
-> **A group of permanent disorders of movement and posture attributed to a NON-PROGRESSIVE lesion in the developing brain.** **Non-progressive is the key word — the lesion does not change, but the clinical picture does as the child grows.**
-> **Types: SPASTIC (commonest — hemiplegic, diplegic, quadriplegic) · DYSKINETIC · ATAXIC · mixed.** Functional classification uses the Gross Motor Function Classification System.
-> **The comorbidities determine quality of life more than the motor impairment does: EPILEPSY · intellectual disability · communication impairment · FEEDING difficulty and aspiration · HIP DISPLACEMENT (which requires a formal SURVEILLANCE program with regular radiographs, because silent progressive subluxation leads to painful dislocation) · scoliosis · constipation · sleep disturbance · and PAIN, which is very common and markedly under-recognised in children who cannot report it.**
-> **Early intervention improves function**, and the diagnosis can now be made earlier than was traditional. Cross-refer [[N2]] 0.5 for behavioural presentations in children with disability.
-
-> [!warning] Autism spectrum — the early signs, and who gets missed
-> **Persistent difficulties in SOCIAL COMMUNICATION AND INTERACTION, plus RESTRICTED AND REPETITIVE patterns of behaviour, interests or activities, present from early development.**
-> **The early signs worth knowing: reduced or absent JOINT ATTENTION (not following a point, not pointing to share interest) · not responding to their NAME · limited eye contact · absent or reduced PRETEND PLAY · loss or absence of babbling and gesture · unusual sensory responses · and repetitive movements.**
-> **WHO GETS MISSED:**
-> **· GIRLS — who more often mask and camouflage, present with anxiety or eating difficulties, and are diagnosed later or misdiagnosed.**
-> **· Children with average or high intelligence, who compensate until social demands exceed their capacity — often at high school transition.**
-> **· ADULTS, increasingly recognised, often after their own child is diagnosed.**
-> **EARLY INTERVENTION improves outcomes**, and in Australia access is largely through the **NDIS**, with the early childhood approach for young children. **Knowing that the NDIS exists and how to initiate access is a practical and valuable thing to be able to tell a family.** `UNVERIFIED — current NDIS access pathways and eligibility.`
-> **Autistic people have higher rates of coexisting ADHD, anxiety, epilepsy, gastrointestinal problems, sleep disorder and ARFID** — cross-refer [[M7]] and [[N8]] 0.5.
-
-> [!tip] Supporting the family
-> **· Diagnosis disclosure is a significant event.** Give it in a planned appointment with both parents where possible, allow time, expect grief, and provide written information and a follow-up appointment — **people retain very little of what is said at the moment of diagnosis.** Cross-refer [[GER5]].
-> **· Acknowledge the grief without pathologising it, and without rushing to reassurance.**
-> **· Ask about SIBLINGS and about the parents' own wellbeing and relationship.**
-> **· Connect them with early intervention, funding pathways, peer and parent support organisations, and respite where appropriate.**
-> **· Emphasise what the child CAN do and what will help, not only the deficits** — families are given a great deal of deficit and very little direction.
-
-**Ix:** **HEARING and VISION assessment first, formally** (*why:* the most likely treatable contributors to developmental concern, and the most commonly omitted step; *what:* sensorineural or conductive loss, visual impairment). **CREATINE KINASE in any boy with motor delay** (*why:* Duchenne muscular dystrophy, where diagnostic delay has genetic counselling consequences for the family; *what:* markedly raised CK). **Chromosomal microarray and fragile X testing** (*why:* the first-line genetic investigations in global developmental delay; *what:* copy number variants, FMR1 expansion). TFTs (*why:* congenital and acquired hypothyroidism; *what:* raised TSH). Ferritin and lead where indicated (*why:* iron deficiency and lead exposure affect development; *what:* deficiency, elevated lead). **MRI brain where there are focal neurological signs, regression, microcephaly or macrocephaly, or seizures** (*why:* structural and neurodegenerative causes; *what:* malformation, injury, white matter change). **EEG where there is regression, particularly of language, or suspected seizures** (*why:* epileptic encephalopathy is treatable and presents as regression; *what:* epileptiform activity). Metabolic screening where regression, unexplained global delay, consanguinity or a suggestive family history (*why:* some metabolic causes are treatable; *what:* the specific disorder). **Formal developmental and cognitive assessment** (*why:* characterises the profile, which directs intervention and educational support far better than a label; *what:* domain-specific strengths and difficulties).
-
----
-
-> [!note] Cross-references
-> The seriously unwell child → [[M1]] · Fever and infection in children → [[M2]] · Neonatal problems, jaundice and cyanosis → [[M3]] · Paediatric GI, hip dysplasia and SUFE → [[M5]] · Child protection, neglect and abusive head trauma → [[M6]] and [[GER4]] · Adolescent health, ADHD and school refusal → [[M7]] · Puberty, precocious and delayed → [[O6]] 0.6 · Duchenne muscular dystrophy → [[D4]] 0.6 · Hearing loss and otitis media with effusion → [[F1]] · Turner syndrome, coarctation and aortic disease → [[B5]] 0.1 · Congenital heart disease → [[M3]] 0.2 · Coeliac disease → [[C5]] 0.4 · Cystic fibrosis and bronchiectasis → [[RESP-X]] 0.4 · Obesity and weight stigma → [[I5]] 0.1 · ARFID and feeding aversion → [[N8]] 0.5 · Fetal alcohol spectrum disorder → [[AU1]] and [[N2]] 0.2 · Breaking bad news and diagnosis disclosure → [[GER5]] · Child health checks and immunisation → [[GER3]] and [[AU1]] 0.1
-
-
-<!-- ===== SOURCE: M5_Paediatric_GI__GU_and_Limb.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Age-based frameworks, discriminators and clinical reasoning are reliable at intern level. **Every dose, age threshold, scoring system and imaging criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** **All paediatric doses are omitted** — obtain them from the **Royal Children's Hospital Melbourne guidelines** and your local formulary.
->
-> **Neonatal vomiting and malrotation are built in [[M3]] 0.4**, **fever and UTI in [[M2]]**, and **septic arthritis in [[L1]] 0.2** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Acute Abdominal Pain in Children
-
-> [!tip] The differential is driven by AGE
-> **· INFANT: INTUSSUSCEPTION · MALROTATION with volvulus · incarcerated hernia · necrotising enterocolitis · Hirschsprung disease · urinary tract infection · TESTICULAR TORSION · and colic (a diagnosis of exclusion).**
-> **· TODDLER AND PRESCHOOL: intussusception · APPENDICITIS · CONSTIPATION · gastroenteritis · UTI · mesenteric adenitis · IgA vasculitis · testicular torsion.**
-> **· SCHOOL AGE AND ADOLESCENT: APPENDICITIS · constipation · gastroenteritis · mesenteric adenitis · UTI · DIABETIC KETOACIDOSIS · inflammatory bowel disease · functional abdominal pain · and, in girls, OVARIAN TORSION and ECTOPIC PREGNANCY.**
-
-> [!danger] Three things to do in every child with abdominal pain
-> **1. EXAMINE THE SCROTUM IN EVERY BOY.** **Testicular torsion presents with abdominal pain, and the boy may be too embarrassed to mention the scrotal pain — particularly an adolescent.** **Missing it because you did not look is a preventable loss of a testis.** Cross-refer [[H4]] 0.1.
-> **2. CHECK THE GLUCOSE.** **Diabetic ketoacidosis presents with abdominal pain and vomiting**, and new-onset type 1 diabetes in a child is frequently first diagnosed in DKA — sometimes after the abdominal pain has been attributed to gastroenteritis. Cross-refer [[F0.2]] 0.3.
-> **3. DO A PREGNANCY TEST IN ANY GIRL WHO COULD BE PREGNANT** — which includes adolescents who say they are not sexually active, asked and tested privately.
-
-> [!warning] Appendicitis in children is atypical and perforates faster
-> **The classic history of central pain migrating to the right iliac fossa is FREQUENTLY ABSENT in young children.**
-> **· Under about five, appendicitis presents non-specifically — vomiting, diarrhoea, fever, irritability, refusal to walk — and is REGULARLY MISDIAGNOSED AS GASTROENTERITIS.**
-> **· PERFORATION RATES ARE HIGH in young children**, both because presentation is atypical and because the omentum is less developed and less able to wall off the infection.
-> **· A child who is quiet, still, and does not want to move or be jostled has peritonism** — in contrast to the child with colic who writhes.
-> **The most useful investigation is SERIAL EXAMINATION by the same clinician over hours.** Scoring systems support the assessment but do not replace it. `UNVERIFIED — the scoring systems and their thresholds.`
-> **Diarrhoea does NOT exclude appendicitis** — a pelvic appendix irritates the rectum and produces loose stool, which is a classic trap.
-
-> [!danger] Intussusception — the episodic pallor is the clue
-> **Typically between about six months and two years.**
-> **The presentation: EPISODES of sudden inconsolable crying with DRAWING UP OF THE LEGS and marked PALLOR, lasting minutes, recurring every 15–20 minutes — with the child appearing NORMAL OR LETHARGIC in between.**
-> **THE LETHARGY BETWEEN EPISODES MAY BE THE DOMINANT FEATURE**, and intussusception is a recognised cause of the "unexplained lethargic child" with no abdominal signs. Cross-refer [[M1]] 0.5.
-> **"Redcurrant jelly" stool and a palpable sausage-shaped mass are LATE features — waiting for them means waiting too long.**
-> **Diagnosis: ULTRASOUND, showing the "target" or "doughnut" sign.**
-> **Treatment: AIR (or contrast) ENEMA REDUCTION under radiological guidance is both diagnostic and therapeutic, with a high success rate** — and it is one of the more satisfying interventions in paediatrics. **Surgery for failed reduction, peritonitis or perforation.**
-> **A pathological lead point (Meckel diverticulum, polyp, lymphoma, IgA vasculitis) is more likely in older children and in recurrent cases.**
-
-> [!tip] Functional abdominal pain — and the red flags that argue against it
-> **Recurrent abdominal pain is very common in school-age children and is usually functional.** **It is a POSITIVE diagnosis, and it is real pain.**
-> **The useful rule: "the further from the umbilicus, the more likely it is organic".** Periumbilical pain in a well, thriving child with a normal examination is reassuring.
-> **RED FLAGS suggesting organic disease: weight loss or growth faltering · pain that WAKES the child from sleep · blood in the stool · BILIOUS vomiting · dysphagia · persistent fever · joint symptoms or rash · perianal disease (fissures, tags, fistulae — suggesting Crohn disease) · a family history of inflammatory bowel disease or coeliac disease · pain localised away from the umbilicus, particularly right lower or right upper quadrant · and unexplained anaemia.**
-> **Management of functional pain: explain the mechanism (real pain, gut-brain interaction), avoid repeated investigation, address school attendance and anxiety, and focus on function.** Cross-refer [[N6]] 0.2 and [[C5]] 0.3.
-
----
-
-## 0.2 Vomiting and Gastroenteritis
-
-> [!danger] Vomiting without diarrhoea is not gastroenteritis
-> **Gastroenteritis is a diagnosis that requires DIARRHOEA. Isolated vomiting has a different and more serious differential:**
-> **· SURGICAL — obstruction, appendicitis, intussusception, malrotation.**
-> **· RAISED INTRACRANIAL PRESSURE — tumour, hydrocephalus, abusive head trauma. Ask about early morning vomiting, headache, and check the fontanelle and head circumference.**
-> **· DIABETIC KETOACIDOSIS.**
-> **· URINARY TRACT INFECTION and sepsis.**
-> **· Metabolic disease.**
-> **· Poisoning.**
-> **"Vomiting, no diarrhoea, tender abdomen" is not gastroenteritis until those have been considered.**
-> **And BILIOUS (green) vomiting means OBSTRUCTION until proven otherwise, at ANY age** — in an infant, malrotation with volvulus. Cross-refer [[M3]] 0.4.
-
-> [!tip] Gastroenteritis — assess the dehydration, not the diarrhoea
-> **The clinical task is quantifying DEHYDRATION and deciding the route of rehydration** — the causative organism rarely changes management.
-> **Viral causes predominate — norovirus, adenovirus, and rotavirus, which has been substantially reduced in Australia by the ROTAVIRUS VACCINE on the national schedule.**
-> **The best measure of dehydration is the CHANGE IN WEIGHT against a recent known weight.** Clinical signs — capillary refill, skin turgor, mucous membranes, sunken eyes and fontanelle, tears, urine output, conscious state — supplement it. `UNVERIFIED — the clinical grading of severity.`
-
-> [!warning] Oral and nasogastric rehydration beats intravenous fluid in most cases
-> **ORAL REHYDRATION SOLUTION, given in small frequent volumes, is first-line and is as effective as intravenous fluid in mild to moderate dehydration, with fewer complications and less distress.**
-> **NASOGASTRIC rehydration is preferable to intravenous in a child who cannot tolerate oral fluids but is not shocked** — it avoids cannulation, is well tolerated, and is under-used because clinicians reach for a drip.
-> **ONDANSETRON reduces vomiting, improves the success of oral rehydration and reduces the need for intravenous fluids and admission**, and is now widely used in paediatric emergency practice. `UNVERIFIED — dosing and the age restrictions.`
-> **DO NOT use antidiarrhoeal agents (loperamide) in children** — they cause ileus, and mask ongoing losses.
-> **CONTINUE FEEDING.** **Breastfeeding should continue throughout. There is no need for dilute formula, routine lactose-free formula, or a period of "gut rest"** — early refeeding shortens the illness. **The old advice to withhold milk is outdated.**
-
-> [!danger] Bloody diarrhoea — and haemolytic uraemic syndrome
-> **Bloody diarrhoea raises bacterial causes: *Campylobacter*, *Salmonella*, *Shigella*, and Shiga toxin-producing *Escherichia coli* (STEC).**
-> **HAEMOLYTIC URAEMIC SYNDROME follows STEC infection, typically days after the diarrhoea, with the triad of MICROANGIOPATHIC HAEMOLYTIC ANAEMIA, THROMBOCYTOPENIA and ACUTE KIDNEY INJURY.**
-> **The warning signs: pallor, reduced urine output, oedema, lethargy and irritability in a child recovering from bloody diarrhoea.**
-> **ANTIBIOTICS ARE GENERALLY AVOIDED IN SUSPECTED STEC** — they may increase the risk of HUS by increasing toxin release. **This is a specific and counterintuitive point.**
-> **Antimotility agents are also contraindicated.** Cross-refer [[J2]] and [[H3]]. `UNVERIFIED — the current evidence and recommendations.`
-> **Notification and exclusion from childcare and school apply to several enteric pathogens.**
-
----
-
-## 0.3 Constipation and Soiling
-
-> [!info] The vicious cycle explains both the problem and the treatment
-> **A painful or hard stool → the child WITHHOLDS → stool accumulates and hardens in the rectum → the rectum distends and its sensation is BLUNTED → the child no longer feels the urge → softer stool leaks around the impacted mass as OVERFLOW SOILING → which is embarrassing and blamed on the child → and the withholding intensifies.**
-> **Understanding this cycle is what makes the management make sense, and explaining it to the family is the most important part of the consultation.**
-
-> [!danger] Soiling is almost always overflow from constipation — not a behavioural problem
-> **ENCOPRESIS in a school-age child is usually OVERFLOW INCONTINENCE from faecal impaction, and the child has NO awareness or control of it.**
-> **Treating it as deliberate, lazy or attention-seeking — and punishing it — is harmful, common, and makes the problem worse.**
-> **The child is frequently mortified, hides soiled underwear, and is bullied. The family is frequently exhausted and angry.**
-> **DE-BLAMING IS THERAPEUTIC: say explicitly that this is a physical problem, that the child cannot feel it and cannot control it, that it is common, and that it is treatable.**
-> **An abdominal examination usually reveals palpable faecal loading.**
-
-> [!warning] The red flags suggesting an organic cause
-> **· DELAYED PASSAGE OF MECONIUM (beyond the first day or two of life).**
-> **· Constipation present from BIRTH or the first weeks.**
-> **· RIBBON-LIKE stools.**
-> **· Failure to thrive or growth faltering.**
-> **· Abdominal DISTENSION with vomiting.**
-> **· An abnormally positioned, patulous or abnormal-looking ANUS.**
-> **· ABNORMAL NEUROLOGY OR SPINE — a SACRAL DIMPLE, hairy patch, naevus or mass over the spine; abnormal lower limb tone, reflexes or gait; or bladder involvement — suggesting SPINAL DYSRAPHISM or tethered cord.**
-> **· Failure to respond to appropriate treatment.**
-> **These point to: HIRSCHSPRUNG DISEASE · anorectal malformation · spinal dysraphism · hypothyroidism · coeliac disease · hypercalcaemia · cow's milk protein allergy.**
-> **In the absence of red flags, functional constipation is the diagnosis and does not require investigation.**
-
-> [!danger] Under-treatment is the commonest reason treatment fails
-> **The two-phase approach:**
-> **1. DISIMPACTION FIRST.** **A child with a loaded rectum will not respond to maintenance doses — the impaction must be cleared first, usually with an escalating osmotic laxative regimen over several days.** **Warn the family that soiling may temporarily WORSEN during disimpaction**, or they will stop.
-> **2. MAINTENANCE FOR MONTHS.** **This is the step that is done badly.** **Maintenance laxatives must continue for MONTHS — often many months — after the child is passing normal stools, to allow the stretched rectum to return to normal size and sensation.**
-> **Stopping as soon as things improve guarantees relapse, and the family concludes the treatment failed.**
-> **Alongside: a TOILETING ROUTINE — sitting after meals to use the gastrocolic reflex, with the FEET SUPPORTED on a step (a child dangling their legs cannot generate effective abdominal pressure), unhurried, and without pressure · adequate fluid and dietary fibre · and a non-punitive reward system for sitting rather than for producing.**
-> **ORAL laxatives are preferred to rectal treatments in children**, which are distressing and rarely necessary.
-> `UNVERIFIED — agents, doses and disimpaction regimens.`
-
----
-
-## 0.4 Urinary Tract Infection and Enuresis
-
-> [!danger] The sample matters more than the test
-> **UTI in infants and young children presents NON-SPECIFICALLY — fever without source, vomiting, poor feeding, irritability, lethargy, prolonged jaundice in neonates, or faltering growth.** **There are no urinary symptoms because they cannot report them.**
-> **OBTAIN A RELIABLE SAMPLE: clean catch, catheter specimen, or suprapubic aspirate.**
-> **BAG SPECIMENS HAVE AN UNACCEPTABLY HIGH CONTAMINATION RATE. A positive bag urine cannot be used to diagnose UTI**, and acting on one leads to unnecessary antibiotics, unnecessary imaging and a label that follows the child.
-> Cross-refer [[M2]] 0.3.
-
-> [!warning] Why childhood UTI matters, and when to image
-> **RENAL SCARRING from pyelonephritis in early childhood can lead to HYPERTENSION and CHRONIC KIDNEY DISEASE decades later** — which is the entire justification for taking childhood UTI seriously.
-> **Imaging is indicated for ATYPICAL or RECURRENT infection** — the definitions and the imaging pathway are protocol-defined and have become LESS interventionist over time, with fewer routine investigations than in older practice.
-> **Underlying abnormalities to consider: VESICOURETERIC REFLUX · obstruction (posterior urethral valves in boys — with a poor urinary stream) · duplex systems · and stones.**
-> `UNVERIFIED — the definitions of atypical and recurrent UTI, the imaging pathway, and the indications for prophylaxis, all of which differ between guidelines.`
-
-> [!tip] Nocturnal enuresis — and the two questions that direct management
-> **Bedwetting is NORMAL up to a defined age and remains common well beyond it.** `UNVERIFIED — the age.`
-> **QUESTION 1: PRIMARY (never reliably dry) or SECONDARY (previously dry for at least six months)?**
-> **SECONDARY enuresis requires a cause to be sought: URINARY TRACT INFECTION · new-onset DIABETES (ask about polyuria, polydipsia and weight loss) · CONSTIPATION · obstructive sleep apnoea · and PSYCHOSOCIAL STRESS, including bullying, family disruption, and ABUSE.** **New bedwetting in a previously dry child is a recognised presentation of distress and of sexual abuse, and it warrants gentle exploration.** Cross-refer [[M6]].
-> **QUESTION 2: IS THERE CONSTIPATION?** **CONSTIPATION IS A COMMON, TREATABLE AND ROUTINELY OVERLOOKED CAUSE OF BOTH BEDWETTING AND DAYTIME WETTING** — a loaded rectum compresses the bladder and reduces its functional capacity. **Treat the constipation before anything else, and a proportion of enuresis resolves.**
-
-> [!warning] Managing enuresis — and the single most important thing to say
-> **DE-BLAME. Say explicitly, to the child and in front of the parents: "this is not your fault, you are not doing it on purpose, and you are not the only one."**
-> **PUNISHMENT AND SHAMING ARE HARMFUL AND INEFFECTIVE**, and they are still common — including withholding fluids punitively, which does not work and makes the urine more irritant.
-> **Practical measures: normal daytime fluid intake with reduced intake in the last hour or two before bed · regular daytime voiding · treating constipation · a reward system for behaviours the child can control (drinking well, going to the toilet before bed) rather than for dry nights, which they cannot.**
-> **· ENURESIS ALARM — the best LONG-TERM cure rates, but requires motivation and a committed family, and takes weeks.**
-> **· DESMOPRESSIN — works quickly but relapse is usual on stopping. Genuinely useful for SHORT-TERM needs — school camps, sleepovers, holidays — where its rapid effect is exactly what is wanted.** **Fluid restriction in the evening is essential to avoid hyponatraemia.**
-> **DAYTIME WETTING is a different problem — overactive bladder, dysfunctional voiding, constipation or UTI.** **Red flags: CONTINUOUS dribbling (suggesting an ECTOPIC URETER), an abnormal urinary stream, and neurological or spinal signs.**
-
----
-
-## 0.5 The Limping Child
-
-> [!danger] Exclude septic arthritis and osteomyelitis first, at any age
-> **A limping child has septic arthritis until proven otherwise.** **Septic arthritis of the hip in a child destroys the femoral head, because the intracapsular blood supply is compressed by raised intra-articular pressure.**
-> **The Kocher criteria — fever, non-weight-bearing, raised ESR and raised white cell count — stratify the probability of septic arthritis versus transient synovitis of the hip.** `UNVERIFIED — the criteria and the associated probabilities.`
-> **Where the diagnosis is genuinely uncertain, ASPIRATE.** Cross-refer [[L1]] 0.2.
-> **OSTEOMYELITIS may present with limp and localised bony tenderness with a normal joint, and radiographs are NORMAL for the first one to two weeks — MRI is the investigation.**
-
-> [!tip] The age-based framework
-> **· UNDER 3 YEARS: septic arthritis and osteomyelitis · DEVELOPMENTAL DYSPLASIA OF THE HIP presenting late · TODDLER'S FRACTURE (an undisplaced spiral tibial fracture from a trivial or unwitnessed twist, with a refusal to weight bear and often normal initial radiographs) · NON-ACCIDENTAL INJURY · and malignancy.**
-> **· 3 TO 10 YEARS: TRANSIENT SYNOVITIS (the commonest) · septic arthritis · PERTHES DISEASE · juvenile idiopathic arthritis · trauma · and malignancy.**
-> **· 10 TO 16 YEARS: SLIPPED UPPER FEMORAL EPIPHYSIS · Perthes presenting late · septic arthritis · JIA · Osgood-Schlatter disease · osteochondritis dissecans · sports injuries · and malignancy.**
-
-> [!warning] Transient synovitis versus septic arthritis
-> **TRANSIENT SYNOVITIS ("irritable hip") — typically 3 to 8 years, often after a viral upper respiratory infection, with a child who is AFEBRILE or has a low-grade temperature, is systemically WELL, will usually weight bear (with a limp), has a less restricted range of movement, and has normal or near-normal inflammatory markers.** Self-limiting over days.
-> **SEPTIC ARTHRITIS — febrile, systemically unwell, REFUSES to weight bear, holds the hip flexed abducted and externally rotated, resists ANY movement, and has raised inflammatory markers.**
-> **The overlap is real and the consequences of getting it wrong are severe.** **If in doubt, discuss with orthopaedics and aspirate — a negative aspirate is a good outcome, a destroyed femoral head is not.**
-
-> [!danger] Slipped upper femoral epiphysis — and it presents as KNEE pain
-> **Typically an adolescent, often overweight, sometimes during the growth spurt, and it can be bilateral.**
-> **IT FREQUENTLY PRESENTS WITH KNEE OR THIGH PAIN AND A NORMAL KNEE EXAMINATION.** **EXAMINE THE HIP IN EVERY CHILD OR ADOLESCENT WITH KNEE PAIN.**
-> **The signs: restricted INTERNAL ROTATION, and OBLIGATE EXTERNAL ROTATION ON HIP FLEXION — as the hip is flexed the leg rotates externally, which is close to pathognomonic.**
-> **Management: MAKE THE CHILD NON-WEIGHT-BEARING IMMEDIATELY and refer urgently to orthopaedics.** **Continued weight bearing can convert a stable slip into an unstable one, with a substantial risk of AVASCULAR NECROSIS.**
-> **Imaging requires a FROG-LEG LATERAL view** — an anteroposterior film alone can miss the slip.
-> **Consider the CONTRALATERAL hip**, which is also at risk.
-
-> [!warning] Perthes disease and developmental dysplasia
-> **PERTHES DISEASE — idiopathic avascular necrosis of the femoral head, typically in boys aged around 4 to 10.** **Insidious onset of a limp with hip or referred KNEE pain, and RESTRICTED ABDUCTION AND INTERNAL ROTATION.** Often bilateral. Managed with containment and observation depending on age and severity.
-> **DEVELOPMENTAL DYSPLASIA OF THE HIP — screened for at the newborn examination with Barlow and Ortolani tests, but LATE PRESENTATION occurs.** **Later signs: limited hip ABDUCTION, asymmetric skin creases, apparent leg length discrepancy, a waddling gait or toe-walking on one side.**
-> **Risk factors warranting ultrasound screening: BREECH presentation · FAMILY HISTORY · female sex · firstborn.** Cross-refer [[M3]] 0.6.
-
-> [!danger] Night pain, rest pain and systemic features mean malignancy
-> **· LEUKAEMIA — the commonest childhood malignancy, and it presents with bone pain and limp in a meaningful proportion.** **Look for PALLOR, BRUISING or petechiae, LYMPHADENOPATHY, HEPATOSPLENOMEGALY, fever and lethargy.** **A full blood count and film is the test, and it should be done today.**
-> **· OSTEOSARCOMA and EWING SARCOMA — persistent bone pain, often around the knee or in the proximal humerus, WORSE AT NIGHT, unrelated to activity, sometimes with a palpable mass or swelling.** **Radiograph first, and refer to a specialist sarcoma service BEFORE biopsy.** Cross-refer [[B6]] 0.8 and [[J4]].
-> **A child with persistent bone pain that wakes them at night needs imaging and a blood count, not reassurance and analgesia.**
-
-**Ix:** **Examine the ENTIRE lower limb, the spine, the abdomen and the scrotum — and observe the child WALKING** (*why:* the source of a limp is frequently not where the child says it hurts, and hip pathology refers to the knee; *what:* the site and the gait pattern). **Radiographs including a FROG-LEG LATERAL of the hips** (*why:* SUFE and Perthes are missed on an AP view alone; *what:* slip, femoral head changes, fracture). **FBC and FILM, CRP, ESR, blood cultures** (*why:* infection and leukaemia, and the film is what identifies blasts; *what:* inflammatory markers, blast cells). **Ultrasound of the hip** (*why:* detects an effusion and guides aspiration; *what:* effusion). **Joint aspiration where septic arthritis is possible** (*why:* the definitive test, and the consequences of missing it are permanent; *what:* cell count, Gram stain, culture). **MRI** (*why:* osteomyelitis, discitis and bone tumours, all of which are radiographically occult early; *what:* marrow oedema, collection, lesion). **Consideration of non-accidental injury** (*why:* fractures and limp in a non-mobile child, or with an inconsistent history; *what:* the pattern — cross-refer [[M6]]).
-
----
-
-## 0.6 Bone Pain and Paediatric Orthopaedic Conditions
-
-> [!warning] "Growing pains" is a diagnosis of exclusion with a specific pattern
-> **The pattern that permits the diagnosis: BILATERAL · in the LOWER limbs, typically calves, thighs and behind the knees · occurring in the EVENING or waking the child at NIGHT · RELIEVED BY MASSAGE and comfort · with the child COMPLETELY WELL AND NORMAL BY MORNING and able to run and play · NO limp · NO joint swelling · NO systemic features · and a NORMAL examination.**
-> **WHAT IS NOT GROWING PAINS: unilateral pain · pain in a JOINT · persistent pain · pain with a LIMP · pain present in the morning · systemic symptoms · localised bony tenderness · or an abnormal examination.**
-> **Applying the label loosely is how leukaemia and bone tumours are delayed.**
-
-> [!danger] Juvenile idiopathic arthritis — and the uveitis that has no symptoms
-> **Arthritis persisting beyond a defined duration in a child, of unknown cause, with several subtypes.**
-> **THE POINT THAT MATTERS MOST: OLIGOARTICULAR JIA, particularly in young ANA-POSITIVE girls, carries a substantial risk of CHRONIC ANTERIOR UVEITIS THAT IS COMPLETELY ASYMPTOMATIC — no pain, no redness, no photophobia — and which causes cataract, glaucoma, band keratopathy and BLINDNESS if undetected.**
-> **These children require REGULAR SLIT-LAMP SCREENING BY AN OPHTHALMOLOGIST on a defined schedule, regardless of symptoms and regardless of whether the arthritis is controlled.**
-> **This is the single highest-yield fact about JIA, and missed screening causes preventable blindness.** `UNVERIFIED — the screening intervals and risk stratification.`
-> **SYSTEMIC JIA (Still disease) — QUOTIDIAN (once-daily spiking) fever, an EVANESCENT SALMON-PINK rash appearing with the fever, arthritis, lymphadenopathy, hepatosplenomegaly and serositis.** **It is a cause of prolonged fever of unknown origin in a child** — cross-refer [[M2]] 0.1.
-> **MACROPHAGE ACTIVATION SYNDROME complicates systemic JIA: a life-threatening cytokine storm with persistent fever, cytopenias, a PARADOXICALLY FALLING ESR, a very high FERRITIN, hepatic dysfunction and coagulopathy.** **A child with systemic JIA who deteriorates with falling cell counts needs it considered urgently.**
-
-> [!tip] The apophysitis and overuse conditions
-> **· OSGOOD-SCHLATTER DISEASE — traction apophysitis at the tibial tuberosity in an active adolescent, with a tender prominent tuberosity, worse with running and jumping. Self-limiting with skeletal maturity; managed with load modification.**
-> **· SEVER DISEASE — calcaneal apophysitis, causing heel pain in an active child.**
-> **· Osteochondritis dissecans, patellofemoral pain, and stress fractures.** Cross-refer [[L5]] and [[L6]].
-
-> [!warning] Scoliosis, and the physiological variants that worry parents
-> **ADOLESCENT IDIOPATHIC SCOLIOSIS — detected with the ADAMS FORWARD BEND TEST, looking for a rib hump.** Managed by observation, bracing or surgery depending on curve magnitude and remaining growth.
-> **RED FLAGS suggesting a SECONDARY cause requiring MRI: PAIN · a LEFT-sided thoracic curve (idiopathic curves are usually right thoracic) · neurological signs · onset in a young child · rapid progression · or an abnormal skin finding over the spine.**
-> **THE PHYSIOLOGICAL VARIANTS — worth knowing so you can reassure confidently:**
-> **· IN-TOEING — from persistent femoral anteversion, internal tibial torsion or metatarsus adductus, depending on age. Almost always resolves.**
-> **· BOW LEGS (genu varum) in toddlers and KNOCK KNEES (genu valgum) in preschoolers follow a normal developmental sequence and resolve.** **RED FLAGS: asymmetry · progression · short stature · pain · or a marked deformity — suggesting RICKETS, skeletal dysplasia or Blount disease.**
-> **· FLAT FEET — normal in young children (the arch develops with age) and usually benign if FLEXIBLE (an arch appears on tiptoeing or with the great toe extended). A RIGID flat foot, or a painful one, warrants investigation for tarsal coalition.**
-> **· TOE WALKING — common and often idiopathic, but exclude CEREBRAL PALSY, tethered cord, muscular dystrophy (check the CK in a boy) and autism.** Cross-refer [[M4]] 0.6.
-
----
-
-> [!note] Cross-references
-> The seriously unwell child and the lethargic child → [[M1]] 0.5 · Fever, UTI and serious bacterial infection → [[M2]] · Neonatal vomiting, malrotation and pyloric stenosis → [[M3]] 0.4 · Growth, development and CK in motor delay → [[M4]] · Child protection and non-accidental injury → [[M6]] and [[GER4]] · Septic arthritis and joint aspiration → [[L1]] 0.2, 0.6 · Regional limb pain and referred knee pain → [[L5]] 0.4–0.5 · Paediatric fractures and Salter-Harris → [[L7]] 0.5 · Testicular torsion → [[H4]] 0.1 · Diabetic ketoacidosis → [[F0.2]] 0.3 · Haemolytic uraemic syndrome → [[J2]] and [[H3]] · Leukaemia and bone tumours → [[J4]] and [[B6]] 0.8 · Functional abdominal pain and IBS → [[N6]] 0.2 and [[C5]] 0.3 · Constipation in adults → [[C5]] 0.2 · Uveitis → [[E1]] · Adolescent health → [[M7]]
-
-
-<!-- ===== SOURCE: M6_Paediatric_Respiratory_and_Neurology.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Recognition, discriminators and management principles are reliable at intern level. **Every dose, age threshold, severity criterion and time limit carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** **All paediatric doses are omitted** — obtain them from the **Royal Children's Hospital Melbourne guidelines**, the **Australian Asthma Handbook**, and **ANZCOR**.
->
-> **NOTE ON CROSS-REFERENCES:** earlier files in this corpus cross-reference `[[M6]]` for **child protection and non-accidental injury**. That is an error — **safeguarding is built in [[GER4]]**, and M6 covers respiratory and neurology per the build queue. Those links should be redirected to `[[GER4]]` during consolidation.
->
-> **Status epilepticus is built in [[D6]] 0.2 and [[F0.4]]**, **anaphylaxis in [[K4]]**, and **paediatric head injury in [[F0.5]] 0.7** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Assessing Respiratory Distress
-
-> [!tip] Three questions — effort, efficacy, effects
-> **1. WORK OF BREATHING (effort)** — respiratory rate against age-specific values · RECESSION (subcostal, intercostal, sternal, suprasternal) · nasal flaring · HEAD BOBBING in infants · tracheal tug · accessory muscle use · GRUNTING · and inspiratory or expiratory noises.
-> **2. EFFICACY** — air entry and chest expansion on auscultation, oxygen saturation.
-> **3. EFFECTS on other systems** — HEART RATE · skin colour · and MENTAL STATE.
-> **The third is the one that gets omitted and the one that matters most.** **Agitation, then drowsiness, then unresponsiveness is the sequence of worsening hypoxia and hypercapnia — not a behavioural response to being in hospital.**
-
-> [!danger] Three signs that mean the child is deteriorating, not settling
-> **1. GRUNTING — expiration against a partially closed glottis to generate auto-PEEP.** It means significant lung disease and it is an ominous sign at any age, particularly in infants.
-> **2. A SILENT CHEST — no wheeze because there is insufficient air movement to generate one.** **The loudest wheeze is not the sickest child; the quietest chest is.**
-> **3. EXHAUSTION — a child who was working hard and becomes QUIET, with a FALLING respiratory rate and reduced recession, is TIRING, not improving.** **This is the point at which children arrest, and it is misread as improvement with distressing regularity.**
-> **Hypoxia on the saturation probe is a LATE sign. The clinical signs precede it.**
-
-> [!warning] Do not distress a child with suspected upper airway obstruction
-> **In stridor with significant obstruction — suspected epiglottitis, bacterial tracheitis, severe croup or a foreign body — DISTRESS CAN PRECIPITATE COMPLETE OBSTRUCTION.**
-> **Therefore: DO NOT examine the throat · DO NOT attempt cannulation or blood tests · DO NOT lie the child down · DO NOT separate them from their parent · keep the environment calm and quiet.**
-> **Get senior anaesthetic, ENT and paediatric help to the child, rather than moving the child to investigations.**
-> **The instinct to "just have a quick look" at the throat has killed children.** Cross-refer [[A2]] 0.3.
-
----
-
-## 0.2 Stridor and Upper Airway Obstruction
-
-> [!tip] Croup — and steroids for everyone
-> **Laryngotracheobronchitis, usually parainfluenza, typically in children between about six months and three years.**
-> **The presentation: a prodrome of coryza, then a BARKING, seal-like COUGH, a HOARSE voice or cry, and INSPIRATORY STRIDOR — characteristically WORSE AT NIGHT and worse with agitation.**
-> **THE SINGLE MOST IMPORTANT INTERVENTION IS CORTICOSTEROIDS — given to ALL severities, including mild croup managed at home.** They reduce severity, re-presentation and admission, and a single dose is usually sufficient. `UNVERIFIED — agent, dose and route.`
-> **NEBULISED ADRENALINE for moderate to severe croup** — it works quickly but the effect is temporary, so **the child must be OBSERVED for rebound as it wears off** and must not be discharged immediately after.
-> **Supportive: minimal handling, keep the child calm and with the parent, oxygen if hypoxic.**
-> **Steam and humidified air are NOT effective**, despite persisting popular belief.
-> **Severity is judged by: stridor AT REST · recession · agitation or lethargy · and cyanosis.** `UNVERIFIED — the severity criteria.`
-
-> [!danger] The stridor that is not croup
-> **· EPIGLOTTITIS — rare where *Haemophilus influenzae* type b immunisation is high, but it still occurs in the UNDER-IMMUNISED and in older children and adults.** **The picture: RAPID onset over hours · high fever and a TOXIC appearance · DROOLING and inability to swallow · a MUFFLED "hot potato" voice · the TRIPOD position, sitting forward · and — importantly — LITTLE OR NO COUGH, which distinguishes it from croup.** **Do not examine the throat. Senior airway team, theatre, intubation.**
-> **· BACTERIAL TRACHEITIS — a toxic child with high fever, a croup-like picture that does NOT respond to adrenaline and steroids, and copious purulent secretions.** Requires antibiotics and often intubation.
-> **· INHALED FOREIGN BODY — SUDDEN onset, often with a witnessed choking episode, though the history may be absent or forgotten.** **Signs may be UNILATERAL (reduced air entry, unilateral wheeze), and the CHEST RADIOGRAPH MAY BE NORMAL — most foreign bodies are radiolucent.** **Inspiratory and expiratory films may show air trapping, but a normal film does not exclude it: bronchoscopy is the test.** **A persistent focal wheeze or recurrent pneumonia in the same lobe should prompt the thought.**
-> **· ANAPHYLAXIS — cross-refer [[K4]] 0.1.** Rapid onset, urticaria, angioedema, other system involvement. **Adrenaline intramuscularly.**
-> **· RETROPHARYNGEAL ABSCESS — neck stiffness or refusal to move the neck, drooling, fever, and systemic illness.**
-
-> [!tip] Laryngomalacia — the common benign one
-> **The commonest congenital cause of stridor.** **Intermittent inspiratory stridor appearing in the first weeks, WORSE when SUPINE, feeding, crying or with an intercurrent illness, and BETTER when PRONE or at rest.**
-> **The infant is otherwise well, feeding and growing normally, and it resolves over the first year or two.**
-> **RED FLAGS requiring referral: failure to thrive · feeding difficulty or aspiration · apnoea · cyanosis · severe or worsening stridor · or an atypical pattern.**
-
----
-
-## 0.3 Bronchiolitis and Preschool Wheeze
-
-> [!danger] Bronchiolitis — the high-yield point is everything that does NOT work
-> **A viral lower respiratory infection of infants under about 12 months, most often RSV, with a peak around three to six months.**
-> **The course: coryza for a day or two → cough, TACHYPNOEA, WHEEZE and fine CRACKLES → feeding difficulty → typically worst around days three to five, then gradual improvement over one to two weeks (with the cough lasting longer).**
-> **MANAGEMENT IS SUPPORTIVE: oxygen if hypoxic · FEEDING SUPPORT (nasogastric or intravenous fluids where feeding is inadequate) · minimal handling · and observation.**
-> **THE FOLLOWING ARE NOT RECOMMENDED IN TYPICAL BRONCHIOLITIS, AND ARE STILL GIVEN:**
-> **· BRONCHODILATORS (salbutamol) — no benefit.**
-> **· CORTICOSTEROIDS — no benefit.**
-> **· Nebulised ADRENALINE — no sustained benefit.**
-> **· ANTIBIOTICS — no benefit, and bacterial co-infection is uncommon.**
-> **· Nebulised hypertonic or normal SALINE.**
-> **· CHEST PHYSIOTHERAPY — no benefit and distressing.**
-> **· A CHEST RADIOGRAPH — not routinely indicated, and it is actively harmful because atelectasis is misread as consolidation and generates unnecessary antibiotics.**
-> **"Doing less" is the evidence-based management, and it is harder than doing something.** `UNVERIFIED — current guidance, particularly on oxygen saturation thresholds and respiratory support.`
-
-> [!warning] Who gets severe bronchiolitis, and the presentation that is missed
-> **Risk factors for severe disease: YOUNG AGE (under about six to eight weeks) · PREMATURITY · chronic lung disease of prematurity · congenital HEART disease · neuromuscular disease · immunodeficiency · and Aboriginal and Torres Strait Islander infants, in whom rates of severe disease and subsequent bronchiectasis are higher.** Cross-refer [[AU1]] 0.4 and [[RESP-X]] 0.4.
-> **APNOEA MAY BE THE PRESENTING FEATURE IN YOUNG INFANTS, sometimes before significant respiratory signs** — so bronchiolitis belongs in the differential of an infant presenting with apnoea or a BRUE. Cross-refer [[M3]] 0.5.
-> **Respiratory support with high-flow nasal cannula or CPAP is used for those who need it**, and the threshold for escalation should be low in the high-risk groups.
-
-> [!tip] Preschool wheeze — resist diagnosing asthma too early
-> **Wheeze in preschool children is extremely common and MOST OF IT IS NOT ASTHMA.**
-> **· EPISODIC VIRAL WHEEZE — wheeze only with viral infections, and completely well in between. The majority of preschool wheezers. Most outgrow it.**
-> **· MULTIPLE-TRIGGER WHEEZE — wheeze with viruses AND with exercise, allergens, smoke and emotion, with interval symptoms. More likely to represent evolving asthma.**
-> **Features increasing the likelihood of asthma: interval symptoms between infections · atopy (eczema, allergic rhinitis, food allergy) · a family history of asthma or atopy · and a clear response to bronchodilator.**
-> **The risks of over-diagnosis: unnecessary long-term inhaled corticosteroids in young children, a label that follows the child, and failure to consider alternatives.**
-> **Always consider the alternatives to asthma in a wheezing child: INHALED FOREIGN BODY · CYSTIC FIBROSIS (check the newborn screen, ask about stools and growth) · bronchiectasis and chronic suppurative lung disease · congenital airway abnormality · a vascular ring · gastro-oesophageal reflux and aspiration · cardiac failure · and primary ciliary dyskinesia.**
-> **FOCAL or PERSISTENT wheeze, wheeze from birth, faltering growth, a wet productive cough, or failure to respond to treatment all argue against simple asthma.**
-
----
-
-## 0.4 Asthma in Children
-
-> [!tip] Diagnosis is a pattern, not a single test
-> **Recurrent WHEEZE, cough, breathlessness and chest tightness that are VARIABLE over time, WORSE AT NIGHT AND IN THE EARLY MORNING, provoked by identifiable triggers (viral infection, exercise, cold air, allergens, smoke, emotion), and RESPONSIVE to bronchodilator.**
-> **Supported by: personal or family atopy · documented variable airflow obstruction.**
-> **SPIROMETRY with bronchodilator response is possible from about age six** — younger children cannot perform it reliably, so the diagnosis is clinical. `UNVERIFIED — diagnostic criteria and spirometry thresholds.`
-> **A trial of treatment with a clear assessment of response is a legitimate diagnostic approach in young children — provided the response is actually assessed and treatment stopped if there is none.**
-
-> [!danger] A spacer with a metered-dose inhaler is as effective as a nebuliser
-> **For mild to moderate acute asthma, MDI plus SPACER delivers salbutamol at least as effectively as a nebuliser, with FEWER side effects (less tachycardia and tremor), less hypoxia risk, shorter stays, and no aerosol generation.**
-> **Nebulisers are reserved for severe or critical asthma requiring continuous therapy and oxygen.**
-> **The habit of reaching for a nebuliser is common and is not better care.**
-> **Acute management: salbutamol via spacer, repeated and titrated to response · OXYGEN if hypoxic · SYSTEMIC CORTICOSTEROIDS EARLY (the earlier the better — they take hours to work, so giving them late wastes the benefit) · IPRATROPIUM added in severe cases · and escalation to intravenous magnesium, aminophylline or salbutamol infusion with senior involvement.**
-> **REASSESS AFTER EACH TREATMENT** — the pattern of response over the first hour determines disposition far better than the initial severity does.
-> `UNVERIFIED — all doses, frequencies and escalation thresholds.`
-
-> [!warning] Severity assessment — and the child who has stopped wheezing
-> **Judged by: ability to talk in sentences, phrases or single words · work of breathing · oxygen saturation · heart rate · mental state · and air entry.**
-> **A SILENT CHEST, exhaustion, confusion or drowsiness, and cyanosis indicate CRITICAL asthma requiring immediate senior help.**
-> **Do not be reassured by a reduction in wheeze without a clear improvement in work of breathing, air entry and mental state.**
-
-> [!danger] Discharge is where deaths are prevented
-> **Asthma deaths in children are consistently associated with: under-treatment and under-recognition of severity · OVER-RELIANCE ON RELIEVER with under-use of preventer · poor ADHERENCE · NO WRITTEN ACTION PLAN · a previous severe attack or ICU admission · poor inhaler TECHNIQUE · and psychosocial adversity and disengagement from care.**
-> **Every child discharged after an asthma presentation needs:**
-> **· A WRITTEN ASTHMA ACTION PLAN — colour-coded, specific, and given to the family and the school.**
-> **· INHALER TECHNIQUE CHECKED AND DEMONSTRATED — most children (and most adults) use inhalers incorrectly, and a device used badly delivers nothing. WATCH THEM DO IT.**
-> **· A SPACER, and instruction in its use and cleaning.**
-> **· Review of PREVENTER therapy and adherence — including how many reliever canisters they are getting through, which is a sensitive marker of poor control.**
-> **· TRIGGER review, including SMOKING IN THE HOUSEHOLD, which should be asked about directly and addressed without blame.**
-> **· FOLLOW-UP arranged with a named clinician.**
-> **This is the intern's task, it takes fifteen minutes, and it is the part most often abbreviated.**
-
----
-
-## 0.5 Seizures and Febrile Convulsions
-
-> [!info] Febrile convulsion — simple versus complex
-> **A seizure in a child between about six months and six years, in the context of FEVER, without central nervous system infection or another identifiable cause.** `UNVERIFIED — the age range.`
-> **· SIMPLE: GENERALISED · SHORT (under about 15 minutes) · occurring ONCE in the febrile illness · with COMPLETE recovery.**
-> **· COMPLEX: FOCAL features · PROLONGED · or RECURRING within the same illness.**
-> **Simple febrile convulsions in a well child with an identified source of fever require NO routine investigation — no lumbar puncture, no EEG, no imaging, no electrolytes.**
-
-> [!warning] What to tell the parents — and two things they will believe that are wrong
-> **Parents witnessing a first febrile convulsion frequently believe their child is dying, and the reassurance is the treatment.**
-> **What to say:**
-> **· It is common, and it is frightening but not dangerous.**
-> **· Roughly a third will have another one.**
-> **· MOST CHILDREN WITH FEBRILE CONVULSIONS DO NOT DEVELOP EPILEPSY** — the increase in risk is small.
-> **· It does not cause brain damage.**
-> **THE TWO MYTHS TO CORRECT:**
-> **1. "ANTIPYRETICS WILL PREVENT ANOTHER ONE." THEY DO NOT.** Paracetamol and ibuprofen do not reduce the recurrence of febrile convulsions. Give them for comfort, not for prevention — and tell parents this, so they do not blame themselves for a recurrence.
-> **2. "Put something in their mouth."** **Never.**
-> **FIRST AID TO TEACH: stay calm · put the child on their SIDE in the recovery position · do NOT restrain them · do NOT put anything in the mouth · move dangerous objects away · TIME the seizure · and CALL AN AMBULANCE IF IT LASTS MORE THAN FIVE MINUTES or if they do not recover.**
-
-> [!danger] When a febrile seizure is not a simple febrile convulsion
-> **· Age OUTSIDE the usual range — under six months or over six years.**
-> **· FOCAL features.**
-> **· PROLONGED, or recurrent within the illness.**
-> **· INCOMPLETE RECOVERY, or persisting drowsiness beyond the usual short postictal period.**
-> **· MENINGISM, a bulging fontanelle, or a petechial rash.**
-> **· NO CLEAR SOURCE for the fever.**
-> **· A child who is systemically UNWELL.**
-> **· A child ALREADY ON ANTIBIOTICS — which can PARTIALLY TREAT and MASK meningitis, blunting the classic features while the infection continues. This is a specific and important trap.**
-> **Any of these means considering MENINGITIS and encephalitis, and a lower threshold for lumbar puncture and imaging.** Cross-refer [[D1]] 0.5 and [[M2]] 0.4.
-
-> [!danger] Most paroxysmal events in children are not epilepsy
-> **· BREATH-HOLDING SPELLS — two types, both benign:**
-> **CYANOTIC (blue) — provoked by anger, frustration or crying; the child cries, holds their breath in expiration, becomes blue, and may briefly lose consciousness and stiffen.**
-> **PALLID (reflex anoxic) — provoked by a MINOR INJURY, pain or fright, often with little or no crying; a vagally mediated asystolic pause, with sudden PALLOR and collapse, sometimes with stiffening or jerking.**
-> **Both are benign and self-limiting, and the management is reassurance, first aid and avoiding reinforcement of the behaviour.** **CHECK THE FERRITIN — iron deficiency is associated with breath-holding spells and treating it reduces their frequency.** This is a specific, easily actioned point.
-> **· SYNCOPE — including vasovagal syncope with a few myoclonic jerks, which is regularly misdiagnosed as a seizure. But note that CARDIAC syncope must be excluded: syncope on EXERTION, syncope without warning, syncope with palpitations, or a family history of sudden death — all of which require an ECG.** Cross-refer [[B3]] 0.1 and 0.3.
-> **· Benign neonatal sleep myoclonus · night terrors and other parasomnias (cross-refer [[N7]] 0.4) · tics · daydreaming · self-gratification behaviour · and SANDIFER SYNDROME (dystonic posturing associated with gastro-oesophageal reflux).**
-
-> [!tip] The most useful investigation is a good eyewitness account — or a video
-> **The description of the event is more informative than any test, and parents' phones make this practical.**
-> **ASK THE FAMILY TO RECORD A FUTURE EPISODE.** A short video resolves the majority of diagnostic uncertainty about paroxysmal events, and it is now routine practice in paediatric neurology.
-> **What to elicit: what the child was doing immediately before · any warning · the colour · the position of the eyes and limbs · the duration (which is almost always over-estimated) · what happened afterwards and how long recovery took · and whether the child was responsive during the event.**
-> **STATUS EPILEPTICUS: treat a seizure lasting beyond about five minutes** — cross-refer [[D6]] 0.2 and [[F0.4]]. **Check GLUCOSE, sodium and calcium in any child with a seizure, and consider pyridoxine-dependent seizures in a neonate or young infant with refractory seizures.**
-
----
-
-## 0.6 Epilepsy and Paediatric Neurology
-
-> [!danger] Infantile spasms — recognise them, because delay costs development
-> **Clusters of brief SYMMETRICAL SPASMS — a sudden flexion or extension of the trunk and limbs — occurring in RUNS, often on waking, in an infant typically under a year.**
-> **They are frequently mistaken for colic, startle or reflux, and the diagnosis is commonly delayed by weeks.**
-> **THE TRIAD: spasms · DEVELOPMENTAL REGRESSION OR ARREST · and HYPSARRHYTHMIA on EEG.**
-> **THIS IS AN EMERGENCY. Time to treatment correlates with developmental outcome — delay causes permanent cognitive loss.**
-> **An infant with clusters of spasms needs an URGENT EEG and urgent paediatric neurology involvement, the same day.**
-> **Treated with vigabatrin or corticosteroids.** **Look for an underlying cause, particularly TUBEROUS SCLEROSIS — examine the skin under a Wood lamp for hypopigmented (ash-leaf) macules.**
-
-> [!tip] The childhood epilepsy syndromes worth recognising
-> **· CHILDHOOD ABSENCE EPILEPSY — brief (seconds) episodes of staring and unresponsiveness with abrupt onset and offset, no warning, no postictal state, and many per day.** **Frequently misdiagnosed as daydreaming, inattention or ADHD, and picked up by teachers as declining school performance.**
-> **THE BEDSIDE TEST: ask the child to HYPERVENTILATE for two to three minutes (blowing a windmill or pinwheel works well) — this reliably provokes an absence in untreated childhood absence epilepsy and is diagnostic at the bedside.** EEG shows generalised 3 Hz spike-and-wave.
-> **· SELF-LIMITED EPILEPSY WITH CENTROTEMPORAL SPIKES (formerly benign rolandic epilepsy) — nocturnal focal seizures involving the face and mouth, with drooling, gurgling and speech arrest, sometimes generalising. Remits in adolescence, and often does not require treatment.**
-> **· JUVENILE MYOCLONIC EPILEPSY — MYOCLONIC JERKS shortly after waking (the teenager who "drops their cereal bowl in the morning"), with generalised tonic-clonic seizures, provoked by SLEEP DEPRIVATION, alcohol and photic stimulation.** **Usually requires lifelong treatment**, and the myoclonus is often not volunteered unless specifically asked about.
-> **· Epileptic encephalopathies (Dravet, Lennox-Gastaut) — early-onset, drug-resistant, with developmental impairment.**
-> **VALPROATE: highly effective in generalised epilepsy but must NOT be used in girls and women of childbearing potential except under strict conditions.** Cross-refer [[D6]] 0.3 and [[N4]] 0.5.
-
-> [!warning] Headache in children — the red flags
-> **Most childhood headache is migraine or tension-type, and children's migraine is more often BILATERAL and SHORTER than adults', frequently with prominent abdominal symptoms.**
-> **RED FLAGS requiring imaging: headache that WAKES the child from sleep or is present on WAKING, with VOMITING · progressively worsening headache · focal neurological signs · PAPILLOEDEMA · increasing head circumference · personality or behavioural change · declining school performance · new squint or visual change · ataxia · and headache in a child under about five, in whom primary headache is uncommon.**
-> **Posterior fossa tumours are the classic paediatric brain tumour and present with morning headache, vomiting, ataxia and cranial nerve signs — often attributed to gastroenteritis or migraine for weeks.**
-
-> [!tip] Three other neurological presentations
-> **· ACUTE ATAXIA — post-infectious cerebellitis (commonly post-varicella, and the commonest cause) · INGESTION or poisoning (always consider, and ask what is in the house) · posterior fossa tumour · Guillain-Barré syndrome (with the Miller Fisher variant) · and stroke.**
-> **· HYPOTONIA — distinguish CENTRAL (with reduced alertness, normal or brisk reflexes, and other neurological features) from PERIPHERAL (alert child, absent reflexes, weakness — pointing to spinal muscular atrophy, congenital myopathy or neuromuscular junction disease).** **The alert, floppy, weak infant with absent reflexes is a neuromuscular emergency.**
-> **· ACUTE WEAKNESS — Guillain-Barré syndrome (ascending, areflexic, with a risk of respiratory failure requiring SERIAL FVC monitoring) · transverse myelitis · and spinal cord compression.** Cross-refer [[D4]] 0.4–0.5.
-
-**Ix:** **Oxygen saturation and respiratory rate against AGE-SPECIFIC values** (*why:* the numbers are meaningless without the age norms; *what:* hypoxia, tachypnoea). **Blood gas ONLY where it will change management in a distressed child** (*why:* it is painful, distressing and can precipitate deterioration in upper airway obstruction — and a rising CO₂ in asthma is a clinical diagnosis of exhaustion before it is a laboratory one; *what:* hypercapnia, acidosis). **Chest radiograph only where indicated** — NOT routinely in bronchiolitis or uncomplicated asthma (*why:* it drives unnecessary antibiotics; *what:* consolidation, pneumothorax, foreign body effects). **Nasopharyngeal viral testing where it changes cohorting or management** (*why:* it rarely changes treatment in bronchiolitis; *what:* RSV and other viruses). **Bedside GLUCOSE, plus sodium and calcium, in any seizing child** (*why:* rapidly reversible causes; *what:* hypoglycaemia, electrolyte disturbance). **URGENT EEG where infantile spasms or regression are suspected** (*why:* time to treatment determines developmental outcome; *what:* hypsarrhythmia, epileptiform activity). **A VIDEO of a typical event recorded by the family** (*why:* the single most useful investigation for paroxysmal events, and it resolves most diagnostic uncertainty; *what:* the semiology). **ECG in any child with syncope or an unexplained collapse** (*why:* long QT and other channelopathies, with implications for the whole family; *what:* QTc, pre-excitation, hypertrophy). **FERRITIN in breath-holding spells** (*why:* iron deficiency is associated and treating it reduces frequency; *what:* low ferritin). MRI brain where red flags, focal signs or regression (*why:* structural lesion; *what:* tumour, malformation, demyelination).
-
----
-
-> [!note] Cross-references
-> The seriously unwell child and paediatric physiology → [[M1]] · Fever, meningitis and serious bacterial infection → [[M2]] · Neonatal apnoea and BRUE → [[M3]] 0.5 · Growth, development and regression → [[M4]] 0.6 · Paediatric abdominal pain and limp → [[M5]] · Adolescent health and ADHD → [[M7]] · CHILD PROTECTION AND NON-ACCIDENTAL INJURY → **[[GER4]]** (not M6 — see the sourcing note) · Status epilepticus → [[D6]] 0.2 and [[F0.4]] · Epilepsy, valproate and driving → [[D6]] 0.3 · Meningitis and encephalitis → [[D1]] 0.5 · Guillain-Barré and FVC monitoring → [[D4]] 0.4–0.5 · Anaphylaxis → [[K4]] 0.1 · Airway obstruction and epiglottitis → [[A2]] 0.3 · Asthma and COPD in adults → [[F0.5]] 0.1 · Bronchiectasis and chronic suppurative lung disease → [[RESP-X]] 0.4 · Paediatric head injury → [[F0.5]] 0.7 · Long QT and syncope → [[B3]] 0.1, 0.3 · Parasomnias and night terrors → [[N7]] 0.4 · Aboriginal and Torres Strait Islander child respiratory health → [[AU1]] 0.4
-
-
 <!-- ===== SOURCE: M7_Adolescent_and_Behavioural_Health.md ===== -->
 
 
@@ -4050,72 +4084,38 @@
 
 > [!info] **Block 5 executed for this destination.**
 
-<!-- ===== SOURCE: NEW_Investigations_Endocrine.md ===== -->
-*Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+<!-- ===== SOURCE: 15_24a_Paeds_-_Non-Accidental_Injury_and_Sexual_Abuse.md ===== -->
 
-## 0.8 Carnitine Levels (Free and Total Carnitine)
 
-**D:** Plasma free and total carnitine, usually interpreted with an **acylcarnitine profile** by tandem mass spectrometry.
+> [!note] **Moved to `[[Safeguarding]]` on 2026-09-01:** `Non-accidental injury (NAI)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-**Ind:** Suspected **fatty acid oxidation disorder** or organic acidaemia — hypoketotic hypoglycaemia, unexplained encephalopathy, cardiomyopathy, rhabdomyolysis, sudden unexplained infant death or a sibling with one; abnormal **newborn screening**; long-term valproate or certain other therapy; and secondary carnitine deficiency in renal replacement therapy or severe malnutrition.
+> [!note] **Moved to `[[Safeguarding]]` on 2026-09-01:** `Sexual abuse` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-**Role:** Part of a **metabolic panel**, not a standalone test. **Interpretation is a metabolic-specialist task** and results are read alongside urine organic acids, plasma amino acids, glucose, ketones, ammonia, lactate and blood gas.
+<!-- ===== SOURCE: 15_24b_Paeds_-_Screening__SIDS__Vaccination_Schedule.md ===== -->
 
-> [!danger] **The critical point is sample timing, not the assay.** In suspected metabolic decompensation, **the diagnostic samples must be taken during the acute illness — before glucose or other treatment is given** — because metabolites normalise rapidly once the patient is treated. **Treatment is never delayed for the samples**; they are taken alongside resuscitation. A "critical sample" protocol exists in most Australian paediatric units — **know where yours is.**
-> **Hypoketotic hypoglycaemia** — hypoglycaemia with inappropriately low ketones — is the pattern that specifically suggests a **fatty acid oxidation disorder** and should trigger the metabolic screen.
 
-> [!warning] **Per CLAUDE.md rule 5, no absolute quantities are stated in this entry.** Reference intervals for carnitine and acylcarnitines are **age-dependent** and differ substantially between neonates, infants and adults; sources note that acylcarnitine profiles differ between preterm and term newborns and that samples are conventionally collected on around the third day of life for newborn screening. **Interpret only against age-appropriate, laboratory-specific ranges, with metabolic specialist input.**
+> [!info] Localised for Australia — verified against the Australian Government National Immunisation Program (NIP) Schedule, Aug 2026. The Australian schedule differs structurally from the UK NHS schedule this file was originally written against, not just in vaccine naming — the timing points themselves differ (Australia: birth/2mo/4mo/6mo/12mo/18mo/4yr/12–13yr, vs the UK's 8wk/12wk/16wk/1yr/40mo/11yr/13yr pattern), and Australia does **not** include a routine MenB dose in the standard national schedule (nationally funded only for Aboriginal and Torres Strait Islander children with specified medical risk conditions — some states/territories fund it more broadly for all infants, so check the current local program).
 
-**Normal/abnormal:** Low free carnitine with a raised acyl:free ratio suggests secondary deficiency from accumulating acyl groups. Specific acylcarnitine species point to specific disorders. **A normal profile between episodes does not exclude a disorder.**
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Screening schedule` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-**Alt:** Urine organic acids; plasma amino acids (0.9); ammonia, lactate, glucose, ketones and blood gas; genetic testing, which increasingly gives the definitive answer.
+## Sudden infant death syndrome (SIDS)
 
-## 0.9 Plasma Amino Acid Screen
+- **D:** sudden unexpected death of an apparently healthy infant under 1 year old, with the cause of death unclear after thorough investigation.
 
-**D:** Quantitative plasma amino acid profile, usually with urine organic acids and an acylcarnitine profile.
+> [!warning] Odds ratios (OR) are additive — more than one risk factor markedly increases risk.
 
-**Ind:** Suspected **inherited metabolic disease** — unexplained neonatal or infant encephalopathy, vomiting, poor feeding, seizures, developmental regression, unexplained metabolic acidosis or hyperammonaemia; abnormal newborn screening; a previously affected sibling; unexplained intellectual disability.
+> [!danger] Major risk factors: prone sleeping (OR 3.5–9.3, higher risk if the baby is not used to prone sleeping); prenatal smoking (OR 5); prematurity (OR 4); bed sharing (OR 5.1); hyperthermia or head covering.
 
-**Role:** Part of the same metabolic panel as 0.8. Sources note that **for an at-risk sibling, urine organic acids, plasma amino acids and acylcarnitine profile are measured immediately in the newborn period in parallel with newborn screening** — rather than waiting for the screening result.
+- **Other risk factors:** M>F; multiple births; lower socioeconomic status; maternal drug use; winter.
+- **Protective factors:** breastfeeding; room sharing (but not bed sharing); use of dummies/pacifiers.
+- **A/P:** not fully understood; multifactorial — vulnerable infant + critical period + exogenous stressor → abnormal cardiorespiratory control → death.
+- **Mx:** death must be referred to the coroner. Screen siblings for potential sepsis and inborn errors of metabolism.
 
-> [!danger] **Hyperammonaemia in a neonate or infant is a metabolic emergency** — urea cycle disorders present this way, and delay causes irreversible neurological injury. **Send ammonia on a free-flowing sample transported immediately on ice**, because a delayed or squeezed sample gives a spuriously high result and a real result gets dismissed as artefact. Stop protein intake, give glucose, and involve the metabolic service immediately.
+> [!danger] A genuine, severe Australian health equity issue, and a genuinely actionable one given the disparity is largely explained by known, modifiable risk factors already listed above — not by an unexplained biological difference. **Sudden unexpected death in infancy (SUDI, the broader category SIDS sits within) occurs at roughly 3 times the rate in Aboriginal and Torres Strait Islander infants** (2.13 per 1,000 live births vs 0.72 per 1,000 for non-Indigenous infants in Queensland cohort data) — Indigenous infants have historically accounted for close to a third of all SIDS deaths in some jurisdictions despite being a much smaller proportion of all births.
+> - **The disparity is substantially explained by the same risk factors already listed above, distributed unevenly** — specifically bed-sharing/surface-sharing (OR ~2.9), maternal smoking (OR ~2.5), inadequate antenatal care (OR ~6.9), young maternal age at first birth, and living in outer regional/remote areas — meaning this is a genuinely addressable disparity through the same risk-reduction principles already established, not a separate or mysterious phenomenon requiring different underlying safe-sleep advice.
+> - **A genuinely important nuance for delivering safe-sleep advice appropriately**: standard Red Nose safe-sleep campaigns achieved substantial reductions in SIDS rates nationally, but had comparatively less impact in rural and remote Aboriginal communities specifically — recognising that generic public health messaging doesn't always translate effectively without community-specific, culturally-appropriate delivery. **Reducing the Risks of SIDS in Aboriginal Communities (RROSIAC)**, a targeted Western Australian program, was developed specifically in response to this gap.
+> - **A genuinely positive trend worth noting alongside the disparity**: the gap between Indigenous and non-Indigenous SIDS rates has narrowed substantially over time (from a gap of 401 per 100,000 in 1991–1996 to 83 per 100,000 in 2002–2006 in tracked jurisdictions) — demonstrating that targeted intervention and improved risk-factor management can meaningfully close this gap, rather than it being a fixed or unchangeable disparity.
 
-> [!warning] **Sample conditions change the answer.** Amino acids are ideally taken **fasting or before a feed**, and the **clinical state at the time of sampling must be recorded** — a profile taken when the child is well may be normal in a disorder that only decompensates under catabolic stress.
-> **Per CLAUDE.md rule 5, no absolute quantities are given.** Amino acid reference intervals are strongly **age-dependent** and must be read against neonatal, infant or adult ranges as appropriate.
+> [!info] In Australia, safe sleeping advice (sleep on back, face uncovered, no bed-sharing, smoke-free environment, room-sharing without bed-sharing) is promoted by **Red Nose Australia** — the relevant Australian public health body/resource for SIDS/safe sleep education, distinct from the general risk-factor evidence above.
 
-**Normal/abnormal:** Specific patterns point to specific disorders — raised phenylalanine (PKU), raised branched-chain amino acids (maple syrup urine disease), raised glutamine with low citrulline patterns in urea cycle defects. **Interpretation is specialist.**
-
-**Alt:** Newborn screening card (the Australian programme covers a defined panel); urine organic acids; ammonia, lactate, glucose, ketones; genetic and genomic testing.
-
----
-
-<!-- ===== SOURCE: 04_Neurology.md ===== -->
-*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-### Febrile Convulsions
-Children 6 months to 5 years old, ~3% of children; occurs early in a viral infection when temperature rises rapidly; brief, generalised tonic-clonic or tonic.
-
-> [!warning] **This is a one-line definition and was the whole entry.** [[15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus]] Febrile seizures/convulsions owns it, and carries the three things missing here that change what you do:
-> - **Simple vs complex.** A *simple* febrile seizure is generalised, lasts **<15 minutes**, and occurs **once in 24 hours**. Focal onset, duration >15 minutes, or recurrence within 24 hours make it **complex** — which changes the risk and the threshold for investigation.
-> - **Meningitis must be actively excluded** — the fever is the presenting feature of both, and this entry named neither the differential nor the work-up (source of infection, MSU, CXR, ENT swabs; avoid LP in the postictal period).
-> - **Management**, including that a seizure lasting **>5 minutes is treated as status epilepticus** — see Status Epilepticus below in this file.
->
-> Linked and summarised by the G27 round (2026-08-29). Both entries agree on the ~3% incidence and the seizure description.
-
-<!-- ===== SOURCE: 16_08-09_Antenatal_and_Perinatal_Problems.md ===== -->
-*Moved here from `OBGYN_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## Birth injuries
-
-| Injury | Description |
-|---|---|
-| Moulding (not an injury) | Overriding of skull bones |
-| Cephalhaematoma | Subperiosteal swelling, limited by suture lines, fluctuant; may take weeks to resolve; may contribute to jaundice |
-| Caput succedaneum | Oedematous scalp swelling superficial to periosteum; **not** limited by suture lines; from venous congestion + exuded serum during labour ("chignon" if ventouse-caused); resolves in first few days |
-| Erb's palsy | Brachial trunk nerve damage — flaccid arm/hand in fixed posture; most resolve; exclude fractured clavicle, arrange physio; unlikely to improve further if not resolved by 6 months |
-| Subaponeurotic haematoma | Blood between aponeurosis and periosteum; associated with vacuum extraction; may contribute to anaemia or jaundice |
-| Skull fractures | Associated with difficult forceps delivery or impacted head at 2nd-stage C-section; parietal/frontal bones most affected; check CNS signs → neurosurgery consult |
-| Intracranial injuries | ICH associated with difficult/fast labour, instrumental or breech delivery, especially in premature babies; anoxia may cause intraventricular haemorrhage; asphyxia may cause ICH → cerebral palsy (extradural, subdural, or subarachnoid); supportive Mx |
-| Fetal laceration | 1–2% of C-section deliveries (more common in breech C-section and post-membrane-rupture C-section); most superficial, heal without scarring; warn parents when consenting for C-section |
-
-*See 15.23 for minor neonatal problems.*
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Vaccination schedule (Australia — National Immunisation Program)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
