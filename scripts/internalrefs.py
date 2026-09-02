@@ -22,6 +22,32 @@ RE_H  =re.compile(r'^(#{2,6}) (\d+\.\d+(?:\.\d+)*)')
 RE_WL =re.compile(r'\[\[[^\]|#]+\]\]\s*§?\d+\.\d+(?:\.\d+)?')
 RE_BT =re.compile(r'`[A-Za-z0-9_\-. ]+\.md`\s*§?\d+\.\d+(?:\.\d+)?')
 RE_BARE=re.compile(r'§(\d+\.\d+(?:\.\d+)?)')
+# A reference is QUALIFIED if a file is named before the number, in any of the
+# forms this corpus actually uses - not only the two the first draft recognised.
+# Found 2026-09-02: the first draft reported 125, and most were notes reading
+# `AN1 §0.5 Postoperative Complications` or `GI_merged §0.42 ...`, where the file
+# IS named but inside the SAME backtick span, so `File.md` never matched.
+# CLAUDE.md rule 3: every automated scan produces false positives.
+RE_QUAL=re.compile(
+    r'(?:\[\[[^\]|#]+\]\]'                    # [[File]]
+    r'|`[A-Za-z0-9_\-. ]+\.md`'                 # `File.md`
+    r'|\b[A-Za-z0-9][A-Za-z0-9_\-.]*\.md\b'    # File.md, bare inside a span
+    r'|\b[A-Za-z0-9][A-Za-z0-9_\-.]*_merged\b'  # X_merged
+    r'|\b(?:[A-Z]{1,4}[0-9]{1,2}[a-z]?|[0-9]{2}[a-z]?(?:_[0-9]{2}[a-z]?)?|F[0-9]-[0-9]|CV-X|RESP-X)\b'  # source CODE
+    r')[^`§]{0,10}?$')
+
+def qualified(line,pos):
+    """Is the §n at `pos` preceded, close by, by a named file or source code?
+
+    Scope the look-back to the enclosing backtick span when there is one, and cap
+    the gap at 10 characters, so a file named in a NEIGHBOURING reference on the
+    same line - "cross-refer [[F0.3]] 0.7 and then 0.9" - does not qualify this one.
+    """
+    seg=line[:pos]
+    tick=seg.rfind('`')
+    if tick!=-1 and line.count('`',0,pos)%2==1:   # inside an open backtick span
+        seg=seg[tick+1:]
+    return bool(RE_QUAL.search(seg))
 
 def scan(path,text):
     L=text.split('\n')
@@ -42,7 +68,9 @@ def scan(path,text):
         if RE_DIV.match(l): bi+=1; continue
         if bi<0: continue
         stripped=RE_BT.sub(' ',RE_WL.sub(' ',l))     # drop qualified pointers
-        for n in RE_BARE.findall(stripped):
+        for m in RE_BARE.finditer(stripped):
+            n=m.group(1)
+            if qualified(stripped,m.start()): continue
             if n in blocks[bi]['nums']: continue      # resolves in its own block
             where=[b['src'] for b in blocks if n in b['nums']]
             out.append((path,i,n,blocks[bi]['src'],where))
