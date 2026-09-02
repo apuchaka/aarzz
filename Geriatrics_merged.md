@@ -696,7 +696,7 @@ Ongoing exercise, equipment, home supports, and **realistic goal-setting with th
 
 > [!warning] FLAG 2026-09-01 — three files cover wounds, pressure injury and leg ulcers
 > `Derm_merged G2 §0.6 Wounds, Pressure Injury and Leg Ulcers` ·
-> `Examination.md §1.27 Leg and Skin Ulcers` and `§1.28 Wound Management` ·
+> `Examination.md §1.27 Leg and Skin Ulcers` and `Examination.md §1.28 Wound Management` ·
 > `Cardio_merged §0.36.8 Lower Leg Ulcers`. Flagged, nothing merged.
 
 **A/P:** **Sustained pressure exceeding capillary closing pressure occludes perfusion**, causing tissue ischaemia. **Shear** (sliding down the bed, dragging rather than lifting during transfers) deforms and tears tissue at deeper levels, **friction** damages the epidermis, and **moisture** from incontinence or sweat macerates skin and lowers its tolerance.
