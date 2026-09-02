@@ -1874,7 +1874,7 @@ Continued steroid replacement, tapering to maintenance as the crisis resolves. E
 *Co-located here from `Cardio_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
 > [!info] **CO-LOCATED, NOT CROSS-REFERENCED. Two accounts of shock, side by side, both intact.**
-> `Cardio §0.20` and `F0-3 §0.1`–`§0.6` above are **the same four-phenotype framework taught twice**,
+> `Cardio §0.20` and `F0-3 §0.1`–`F0-3 §0.6` above are **the same four-phenotype framework taught twice**,
 > in two files, subdivided differently. Neither file declared the other, so no flag row caught it —
 > every row was generated per source file.
 >
