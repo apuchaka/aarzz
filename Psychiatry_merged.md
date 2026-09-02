@@ -1,1070 +1,5 @@
 
 
-<!-- ===== SOURCE: 14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_.md ===== -->
-
-
-## Depression (Major depressive disorder)
-
-- **D:** a clinical syndrome characterised by persistent low mood + loss of interest and enjoyment, among other symptoms.
-- **A:** poorly understood. **P:** many theories, including neurotransmitter dysfunction.
-
-> [!info] DSM-5 diagnostic criteria (as summarised in the source, e.g. via PHQ-9): ≥5 symptoms present within the same 2-week period, representing a change from baseline; ≥1 symptom must be (1) or (2):
-> 1. Depressed mood.
-> 2. Markedly ↓interest/pleasure in activities.
-> 3. Weight loss/gain (or appetite change).
-> 4. Insomnia/hypersomnia.
-> 5. Psychomotor agitation or retardation.
-> 6. Fatigue/↓energy.
-> 7. ↓ability to think/concentrate, or indecisiveness.
-> 8. Feelings of worthlessness or inappropriate guilt.
-> 9. Recurrent thoughts of death, suicidal ideation (± plan), attempt.
-
-### Screening
-
-- Patient Health Questionnaires — scale 0–3 (0 = not at all, 3 = all the time).
-- **PHQ-2:** "Over the last 2 weeks, how often have you been bothered by: little interest/pleasure in things? Feeling down/depressed/hopeless?" If PHQ-2 score ≥3, follow up with PHQ-9.
-- **Ix (in all patients with a new diagnosis of MDD):** TFTs, U&Es, FBC ± B12/folate — to rule out potentially reversible causes.
-
-### Management
-
-> [!info] Verified against the RACGP Guidelines for Preventive Activities in General Practice ("Red Book"), Aug 2026 — Australia's approach is genuinely structured differently from the UK's, not just using different cutoff numbers. **General population screening for depression is explicitly not recommended in Australia** (unlike a screening-driven pathway) — the RACGP approach is **case-finding**: staying alert to depressive symptoms (low mood, substance use, insomnia, anhedonia, suicidal thoughts, fatigue, persistent somatic complaints) opportunistically, then using a validated assessment tool if suspicion is raised. PHQ-9 remains a legitimate tool in Australian practice, but it's one option among several rather than the single default — K10, DASS (Depression Anxiety Stress Scales), and Sphere-12 are also commonly used and appear in Australian guidance alongside it. I could not confirm a clean Australian equivalent of NICE's specific PHQ-9 <16/≥16 severity-driven treatment-tier cutoffs — check current eTG/RACGP guidance directly for the precise Australian severity-to-treatment mapping if this specific threshold matters for a case; the underlying clinical logic below (psychological therapy first for milder presentations, combination therapy for more severe) is a reasonable general principle not itself contradicted by anything found, but the exact numeric gating is UK-specific and shouldn't be treated as an Australian standard.
-
-- **Less severe depression (PHQ-9 <16):** NICE discourages antidepressants as first-line. Offer guided self-help, CBT, counselling, etc. If the patient prefers medication, SSRIs can be offered.
-- **More severe depression (PHQ-9 ≥16):** combination CBT + antidepressant — SSRI, SNRI, or other antidepressants if indicated based on previous history. Other modes of therapy available based on what suits the patient best.
-
-### Switching antidepressants
-
-- If patients stop antidepressants abruptly, they are likely to experience symptoms (GI upset, "brain zaps", etc) — taper gradually over 4 weeks (except fluoxetine).
-- Switching between SSRIs: stop one SSRI before starting the other (except fluoxetine).
-- Switching from fluoxetine to an SSRI or TCA: stop fluoxetine → wait 4–7 days before starting the next SSRI/TCA (fluoxetine has a long half-life).
-- Switching SSRI to TCA: slowly ↓SSRI while ↑TCA (cross-tapering).
-
-### SSRIs
-
-*(See [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]] Selective serotonin reuptake inhibitors (SSRIs) for more.)*
-
-> [!danger] All SSRIs can theoretically increase risk of suicide — patients must be reviewed at 1 week after starting.
-
-- **AE:** GI upset (nausea, vomiting, diarrhoea); ↑risk of GI bleeding (co-prescribe a PPI if also on an NSAID); hyponatraemia.
-- **Drug-drug interactions:** NSAIDs or aspirin (see above); warfarin/heparin — consider mirtazapine instead; triptans — avoid SSRIs.
-- Counsel the patient to watch for increased anxiety and agitation after starting an SSRI.
-- Citalopram & escitalopram can increase QTc — avoid in patients with heart problems and watch out for older patients or those with liver impairment.
-
-## Suicide
-
-- **D:** the act of taking one's own life.
-- **R:** postnatal period, PMH or family history of depression or suicide, dementia, drugs (e.g. corticosteroids, propranolol, COCP), comorbidities, F>M.
-
-> [!info] Mnemonic — "SADPERSONS" risk factors
-> - **S**ex: male (males more likely to complete suicide, though females more likely to attempt).
-> - **A**ge: >45 / advancing age.
-> - **D**epression or other mental health disorder.
-> - **P**revious attempt + history of deliberate self-harm.
-> - **E**xcessive alcohol/substance use.
-> - **R**ational thinking loss.
-> - **S**ocial supports lacking (unemployment, social isolation, living alone).
-> - **O**rganised plan.
-> - **N**o spouse (unmarried, divorced, or widowed — includes individuals whose partners have died by suicide).
-> - **S**ickness — chronic illness.
->
-> Note: developed in 1983; useful as a mnemonic but not particularly sensitive. This version has been merged with additional risk factor data.
-
-> [!warning] Risk factors associated with completion of suicide at a future date: planned attempt; efforts to avoid discovery; leaving a written note; final acts such as sorting out finances; violent method.
-
-> [!tip] Protective factors: family support; having children at home; religious belief.
-
-- **Mx:** good history required — done compassionately but thoroughly. In the acute setting: medical/surgical stabilisation, then referral to the psychiatric liaison team. Referral to safeguarding. Management of underlying problems where possible (e.g. comorbidities) — seldom fully possible, but worth attempting.
-
-## Self-harm (including non-suicidal self-injury)
-
-> [!note] Gap-filled from CSV ("Suicide and self-harm / Risk Assessment," High yield) — self-harm is explicitly bundled with suicide in the CSV, but the two are genuinely clinically distinct rather than points on a single severity spectrum, a distinction worth making explicit rather than treating self-harm as simply "a milder suicide attempt."
-
-- **D:** any act of deliberate self-poisoning or self-injury, irrespective of the apparent purpose. **Non-suicidal self-injury (NSSI)** — deliberate self-harm (classically cutting, burning, or hitting oneself) without suicidal intent, typically used as a maladaptive coping mechanism to regulate overwhelming emotion, rather than an attempt to end life — is genuinely distinct from a **suicide attempt**, where the intent is (or was, at the time) to die, though the two can and do coexist in the same person, and intent can be genuinely ambivalent or difficult to establish with certainty even after careful assessment.
-- **A/P:** NSSI often serves a specific emotional-regulation function — many patients describe the physical act as relieving overwhelming emotional distress, numbness, or dissociation, or as a way of expressing distress that feels otherwise inexpressible, or as a form of self-punishment; commonly associated with borderline personality disorder (see [[14_04_Psych_-_Personality_Disorders]] Borderline personality disorder (emotionally unstable personality disorder) for the diagnostic criteria this connects to, not repeated here), though NSSI occurs across many diagnoses and also in people without any formal psychiatric diagnosis, particularly adolescents.
-- **S/Smx:** the specific method and pattern of injury (cutting is classically described as most common, though any method can occur); often occurs in a relatively predictable, ritualised way for a given individual, with specific triggers (interpersonal conflict, overwhelming emotion, dissociative states); frequently concealed from others (clothing choices, avoiding situations where injuries might be seen) — actively looking for evidence (e.g. during a physical examination for an unrelated reason) can be more revealing than waiting for the patient to volunteer it.
-- **Ix:** **the assessment task is establishing intent, not just documenting the act** — a careful, non-judgemental history of the specific episode (what preceded it, what the person was hoping to achieve or feel, what happened afterward, whether they expected to die or hoped to survive) does more diagnostic work than the severity of the physical injury alone, since injury severity and suicidal intent don't reliably correlate (a superficial scratch can occur with genuine suicidal intent that was simply poorly executed, while a more severe injury can occur with no intent to die at all) — see [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Suicide for the SADPERSONS risk factors this assessment feeds into, not repeated here. Medical assessment and treatment of the physical injury itself is the immediate first step regardless of the underlying intent.
-- **Mx:**
-  - **Immediate/acute:** treat the physical injury; assess risk (per the Suicide entry above) to determine the appropriate level of ongoing care — this determination (self-harm with clear non-suicidal intent vs a genuine suicide attempt vs genuinely ambivalent/uncertain intent) directly shapes the urgency and type of follow-up needed, so should be made explicitly rather than defaulting to either extreme.
-  - **Definitive:** for NSSI specifically, **dialectical behaviour therapy (DBT)** has the strongest evidence base, given its specific focus on distress tolerance and emotional regulation skills — directly addressing the underlying function NSSI serves, rather than simply trying to suppress the behaviour without replacing its emotional-regulation role; safety planning (identifying triggers, alternative coping strategies, and support contacts for moments of urge) is a practical, collaborative tool used across both NSSI and suicide risk contexts.
-  - **Chronic/long-term:** treat any underlying/coexisting psychiatric condition (depression, borderline personality disorder, PTSD, and others) actively, given self-harm is frequently a symptom/coping mechanism secondary to an underlying condition rather than a standalone diagnosis in its own right; ongoing follow-up given repeated self-harm (of either type) is itself a recognised risk factor for eventual suicide, per the SADPERSONS "previous attempt + history of deliberate self-harm" factor above — meaning NSSI without suicidal intent still warrants genuine, ongoing clinical attention rather than being dismissed as low-risk simply because intent to die was absent on a given occasion.
-
-> [!tip] A non-judgemental, curious clinical stance is genuinely important here — self-harm (of either type) commonly triggers frustration, anxiety, or moralising responses in clinicians and in patients' own families, which reliably damages engagement and disclosure; approaching the behaviour as a (maladaptive but understandable) coping strategy to be explored, rather than as attention-seeking or manipulative behaviour to be managed, is both more accurate and more clinically effective.
-
-## Bipolar disorder
-
-### Manic episode
-
-- Distinct period of abnormally and persistently elevated, expansive, or irritable mood + persistently increased goal-directed activity or energy, lasting ≥1 week and present most of the day, nearly every day.
-
-> [!info] During this period, ≥3 of the following symptoms:
-> - ↑self-esteem or grandiosity.
-> - ↓need for sleep.
-> - More talkative than usual, or pressure to keep talking ("pressured speech").
-> - Flight of ideas (or subjective experience that thoughts are racing).
-> - Distractibility.
-> - ↑goal-directed activity or psychomotor agitation.
-> - Excessive involvement in activities with high potential for painful consequences (e.g. unrestrained shopping sprees).
-
-- Mood disturbance sufficient to cause severe marked impairment in social or job functioning, or necessitates admission.
-
-### Hypomanic episode
-
-- ≥4 consecutive days, ≥3 symptoms as above. Change in mood/functioning uncharacteristic of the individual, BUT not severe enough to cause social/job impairment and does not require admission.
-
-> [!info] Bipolar I = mania and depression (more common). Bipolar II = hypomania and depression.
-
-- **R:** typically develops in late teen years; lifetime prevalence 2%.
-
-### Management
-
-> [!info] Verified — the core drug classes below (quetiapine, olanzapine, lithium, valproate for acute mania and prophylaxis; the SSRI-not-alone-in-bipolar principle) are internationally standard and consistent with Australian eTG Psychotropic/AMH guidance, not a UK-specific protocol needing wholesale replacement. The one terminology note: "CMHT" (Community Mental Health Team) is UK-specific naming — the equivalent Australian service is typically just termed the local community mental health service/team, varying by state health service naming conventions, but the underlying referral concept (urgent vs routine community mental health referral based on acuity) transfers directly.
-
-- **Acute manic episode:** antipsychotic (e.g. quetiapine, olanzapine); valproic acid or lithium (unless previously used with evidence of benefit — lithium may take up to 3 weeks for effectiveness, so not ideal acutely).
-  - If presenting to GP: hypomania — routine referral to community mental health team (CMHT); mania — urgent referral to CMHT.
-- **Depressive episode:** ensure the patient is on prophylaxis (and compliant) + check serum levels. Consider adding an SSRI alongside mood-stabilising prophylaxis.
-
-> [!danger] SSRIs should not be used alone in bipolar disorder, due to risk of triggering a manic episode.
-
-  - Quetiapine is also licensed to treat depression in bipolar disorder.
-- **Prophylactic management:** lithium ± valproate; or valproate, olanzapine, or quetiapine (valproate not for females of childbearing potential). Aim for a single agent, but most patients will require a mood stabiliser + low-dose antipsychotic, or mood stabiliser + antidepressant.
-
-## Cyclothymia (cyclothymic disorder)
-
-> [!note] Gap-filled from CSV ("Cyclothymia," Medium yield) — genuinely absent despite sitting directly adjacent to Bipolar I/II above, and easily confused with the milder end of that spectrum.
-
-- **D:** numerous periods of hypomanic symptoms (not meeting full criteria for a hypomanic episode — see Hypomanic episode above) **and** numerous periods of depressive symptoms (not meeting full criteria for a major depressive episode — see Depression (Major depressive disorder) above) over ≥2 years (≥1 year in children/adolescents), without ever meeting full criteria for a hypomanic, manic, or major depressive episode.
-- **A/P:** during the ≥2-year period, symptoms present for at least half the time, with no symptom-free period lasting >2 months — a genuinely chronic, fluctuating pattern rather than the more clearly demarcated discrete episodes of Bipolar I/II above.
-
-> [!tip] The core distinguishing concept: cyclothymia is to Bipolar II roughly as dysthymia (persistent depressive disorder) is to major depressive disorder — a **chronic, lower-amplitude** version of the mood instability, below the threshold for a full mood episode, rather than a different illness altogether. This is genuinely why it's easy to under-recognise: no single episode is severe enough to obviously prompt assessment, but the cumulative, unremitting fluctuation causes real functional impairment over time.
-
-- **R:** onset often in adolescence/early adulthood; family history of bipolar disorder is common, given the genuine relationship between the two conditions; a meaningful proportion of patients with cyclothymia go on to later develop full Bipolar I or II disorder, making this a condition worth monitoring longitudinally rather than treating as a fixed, static diagnosis.
-- **S/Smx:** chronic mood instability — periods of mild elevation (increased energy, reduced need for sleep, increased productivity, mild grandiosity) alternating with periods of mild depression (low mood, low energy, reduced interest), neither reaching the severity or duration threshold of a formal hypomanic or depressive episode; often experienced by the patient (and sometimes by clinicians) as simply "being moody" or having an unstable personality, rather than being recognised as a mood disorder — a genuine diagnostic pitfall given how non-specific this can look on the surface.
-- **Mx:** mood stabilisers (e.g. lithium, valproate — following similar principles to bipolar disorder prophylaxis above, though with less robust trial evidence specific to cyclothymia itself given its lower profile as a study population) are used, particularly if functional impairment is significant or if there's a strong family history of bipolar disorder raising concern for eventual progression; psychoeducation and psychotherapy (e.g. CBT) to help the patient recognise and manage the mood pattern; **avoid antidepressant monotherapy**, following the same underlying rationale as the SSRI-not-alone-in-bipolar danger box above, given the risk of destabilising toward hypomania; regular longitudinal follow-up given the meaningful risk of progression to full Bipolar I/II disorder over time.
-
-## Seasonal affective disorder
-
-> [!warning] Corrected, Aug 2026 — this entry previously stated "little evidence for light therapy," which is wrong and would lead an intern to dismiss the treatment with the strongest specific evidence base for this condition. Meta-analysis found bright light therapy produces symptom reduction in SAD with effect sizes comparable to antidepressant pharmacotherapy trials, and it is recommended as a first-line treatment. Verified against healthdirect (Australian Government) and the light-therapy meta-analytic literature.
-
-- **D:** recurrent depressive episodes with a consistent seasonal pattern, characteristically in winter with remission in spring/summer. **Not a standalone diagnosis in DSM-5** — it is the *"with seasonal pattern"* specifier applied to major depressive disorder or bipolar disorder, which matters because it means the underlying disorder must be diagnosed and managed on its own terms first (see Depression (Major depressive disorder) above; if there is any history of mania or hypomania, see Bipolar disorder above).
-- **S/Smx:** the core depressive syndrome, but the neurovegetative features often run *opposite* to typical depression — **hypersomnia rather than insomnia, increased appetite with carbohydrate craving and weight gain rather than anorexia and weight loss**, and prominent fatigue/anergia. This reversal is the recognition cue, and is why the reflex to treat the presenting "can't stop sleeping and eating" complaint symptomatically rather than as depression is a trap.
-- **A/P:** reduced winter light exposure disrupting circadian entrainment, with downstream effects on serotonergic and melatonergic signalling.
-- **The Australian context, which changes the pre-test probability:** SAD is **rare in Australia** — it is a condition of high latitudes with short winter days, and Australian latitudes largely do not produce the required light deprivation. Practically, this means a seasonal pattern in an Australian patient warrants a harder look for alternative explanations (a seasonally-recurring psychosocial stressor, seasonal occupational change, comorbid substance use) before settling on SAD, rather than the diagnosis being reached for as soon as a winter pattern is described.
-- **Mx:**
-  - **Bright light therapy** — first-line, alone or combined with other treatments. Typically 2,500–10,000 lux for 30–60 minutes daily, given **in the morning shortly after waking** (timing is part of the mechanism, not a convenience detail — it works by advancing circadian phase). Most patients improve within the first week.
-  - **Treat the underlying depressive disorder** as per Depression (Major depressive disorder) above — antidepressants and psychological therapy remain appropriate, and are not displaced by light therapy.
-  - Encourage outdoor light exposure and regular exercise as genuinely useful adjuncts.
-  - **Do not prescribe hypnotics for the hypersomnia** — the sleep disturbance here is excessive sleep, not insomnia, and sedatives worsen the daytime anergia.
-
-## Perinatal depression
-
-> [!note] Gap-filled from CSV ("Perinatal depression," High yield) — genuinely absent as a standalone entry despite Postpartum Psychosis being built in [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]]; this entry covers the far more common (non-psychotic) mood disorder of pregnancy and the postpartum period, complementary to that entry rather than overlapping with it.
-
-- **D:** a major depressive episode (see Depression (Major depressive disorder) above for the diagnostic criteria, not repeated here) occurring during pregnancy (antenatal depression) or within the postpartum period (postnatal/postpartum depression) — **genuinely distinct from, and far more common than, postpartum psychosis** (see [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]] Postpartum (Puerperal) Psychosis for that separate, rarer, and more acutely dangerous condition, not repeated here) — perinatal depression lacks the psychotic features (delusions, hallucinations, gross disorganisation) that define that condition, though both fall under the broader "perinatal mental illness" umbrella and both need active screening.
-- **A/P:** multifactorial — hormonal shifts, sleep deprivation, the psychosocial demands of pregnancy/new parenthood, and pre-existing vulnerability to depression all contribute; genuinely under-recognised given depressive symptoms (fatigue, sleep/appetite change, reduced interest) can overlap with the expected physical experience of pregnancy/early parenthood, making the diagnosis easy to miss if not actively screened for rather than assumed to be "normal" adjustment.
-- **R:** personal or family history of depression (a strong risk factor, similar to the general depression risk factors above); lack of partner/social support; history of childhood abuse; culturally and linguistically diverse background (associated with higher antenatal distress in Australian population data, plausibly reflecting compounding social/systemic stressors); unplanned pregnancy; obstetric complications; prior perinatal depression (a strong predictor of recurrence in a subsequent pregnancy).
-- **S/Smx:** the standard depressive symptom cluster above, occurring during pregnancy or postpartum — importantly, **antenatal distress/depression itself substantially raises the risk of subsequent postnatal depression**, meaning antenatal screening isn't just about the current pregnancy but is directly predictive of postnatal risk too; screen specifically and directly for suicidal ideation and, separately, for any thoughts of harming the infant, given both carry direct safety implications distinct from the general suicide risk assessment in Suicide above.
-- **Ix:** **the Edinburgh Postnatal Depression Scale (EPDS)** is the standard, Australian-guideline-recommended screening tool, used in **both** the antenatal and postnatal periods despite its name — universal EPDS screening is recommended in Australian National Perinatal Mental Health Guidelines (updated 2023), with screening recommended as early as practical in pregnancy and repeated at least once later in pregnancy, then again postnatally. **Recommended cutoffs: ≥13 postpartum, ≥15 antenatally** for "probable depression" warranting further assessment — though the EPDS is explicitly a screening tool, not a diagnostic one, and a positive screen should prompt a full clinical assessment rather than being treated as confirmatory on its own; a score of 10–12 ("perinatal distress," below the standard intervention threshold) is increasingly recognised as still clinically meaningful and worth monitoring, given it's associated with a several-fold higher risk of subsequent postnatal depression even without meeting the higher diagnostic-threshold cutoff. **Any positive response to EPDS Question 10 (regarding self-harm thoughts) warrants careful, direct follow-up regardless of the total score**, given a low total score can still coexist with a clinically significant single-item risk disclosure.
-- **Mx:** the same general depression management principles as Depression (Major depressive disorder) above (psychological therapy, antidepressants for more significant presentations) — not repeated in full here, but with perinatal-specific considerations: medication choice must weigh efficacy against the specific risks of use in pregnancy/breastfeeding (see [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]] Selective serotonin reuptake inhibitors (SSRIs) for the specific pregnancy-trimester and paroxetine-avoidance detail already established there, not repeated here); psychosocial support and partner/family involvement are particularly important given the risk factors above; the 2023 National Perinatal Mental Health Guidelines specifically extended scope to include screening and psychosocial assessment for fathers/non-birthing partners too, reflecting a broader recognition that perinatal mental illness isn't exclusively a maternal concern.
-
-> [!info] In Australia, PANDA (Perinatal Anxiety & Depression Australia, 1300 726 306) and the Gidget Foundation are relevant perinatal mental health support services, alongside the general crisis services (Lifeline 13 11 14) for acute risk — see [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]] Postpartum (Puerperal) Psychosis for the same PANDA reference in the more acute psychotic context, not repeated here.
-
-
-<!-- ===== SOURCE: 14_02_Psych_-_Anxiety_and_Related_Disorders.md ===== -->
-
-
-## Generalised anxiety disorder (GAD)
-
-- **D:** ≥6 months of excessive worry about everyday issues, disproportionate to any inherent risk, causing distress or impairment. The patient finds it difficult to control the worry.
-
-> [!info] Plus ≥3 of these symptoms, most of the time (in children, ≥1 symptom):
-> - Restlessness or nervousness.
-> - Easy fatigability.
-> - Poor concentration.
-> - Irritability.
-> - Muscle tension.
-> - Sleep disturbance.
-
-- **R:** family history of anxiety; physical or emotional stress (e.g. bullying); history of physical, sexual, or emotional trauma (e.g. sexual abuse, loss of a loved one); other anxiety disorder (e.g. panic disorder, social phobia); chronic physical health condition; F>M (2:1).
-- **S/Smx:** as above; others include muscle aches, sweating, dizziness, dyspnoea, chest pain, nausea/vomiting/diarrhoea (or other GI complaints).
-- **Ix:** to rule out physical health conditions that may cause GAD — TFT (rule out hyperthyroidism), ECG (rule out arrhythmias, e.g. if the patient complains of palpitations). Ask about medications/habits that may contribute to anxiety, e.g. salbutamol, caffeine/theophylline, corticosteroids, antidepressants.
-
-### Management (stepped-care approach)
-
-> [!info] Verified — the overall stepped structure (education/monitoring → low-intensity psychological support → high-intensity psychological therapy/medication → specialist input) and the specific drug choices (sertraline first-line SSRI, alternative SSRI/SNRI, pregabalin as a later option) are internationally standard and consistent with Australian eTG Psychotropic guidance, not a UK-specific protocol needing wholesale replacement — this is a case where the underlying clinical approach genuinely is shared, not just superficially similar. "NICE step-wise approach" as a label is UK-specific branding for what is otherwise a standard, internationally-used stepped-care model; the model itself doesn't need correcting for Australian use. **The heading has now been changed from "Management (NICE step-wise approach)" to "Management (stepped-care approach)" (G19 round, 2026-08-29)** — this box identified the branding as UK-specific but left it in the heading, where a reader scanning section titles meets it as though it were the Australian structure.
-
-1. Education about GAD + active monitoring — encourage the patient to reduce caffeine and other anxiety triggers.
-2. Low-intensity psychological interventions, e.g. self-help, support groups.
-3. High-intensity psychological interventions, e.g. CBT or applied relaxation, or drug treatment — sertraline first-line; alternative SSRI (e.g. fluoxetine) or SNRI (e.g. duloxetine or venlafaxine); 3rd line — consider pregabalin.
-
-> [!danger] Warn the patient of the risk of increased suicidal thinking and self-harm with medications — follow up within 1 month or sooner, depending on risk.
-
-4. Highly specialist input (e.g. multi-agency teams) — if the patient is at high risk of self-harm or suicide, may require admission.
-
-## Panic disorder
-
-- **D:** recurring unexpected panic attacks over a 1-month period. ≥1 attack followed by a 1-month period in which the individual worries about having additional attacks or their implications (e.g. worried they might be having a heart attack), and/or the individual has changed their behaviour in a maladaptive way (e.g. stops going out).
-
-> [!info] Panic attacks are characterised by markedly increased fear or physical discomfort, reaching a peak within a few minutes, with ≥4 of the following symptoms:
-> - Palpitations, pounding heart, ↑HR.
-> - Sweating; trembling/shaking.
-> - Sensations of shortness of breath or smothering.
-> - Feelings of choking.
-> - Chest pain or discomfort.
-> - Nausea or abdominal distress.
-> - Feeling dizzy, unsteady, light-headed or faint.
-> - Chills or heat sensations.
-> - Paraesthesias.
-> - Derealisation (feelings of unreality) or depersonalisation (feeling detached from oneself).
-> - Fears of losing control or "going crazy".
-> - Fear of dying.
-
-- **Ix:** as per GAD.
-- **Mx:** similar to GAD — CBT or drug treatment; SSRI offered first. If contraindicated or no response after 12 weeks, offer imipramine or clomipramine.
-
-## Obsessive-compulsive disorder (OCD)
-
-- **D:** obsessions — recurrent and persistent thoughts, urges, or images experienced as intrusive and unwanted. Compulsions — repetitive behaviours or mental acts an individual feels driven to perform in response to an obsession, or according to rules that must be applied rigidly. These are time-consuming, or cause clinically significant distress, or impair social/job functioning.
-- **R:** family history; paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection (PANDAS).
-- **S/Smx:** peak onset age 10–20, or during the perinatal period. May have a history of abuse, bullying, or neglect. Obsessions and compulsions as above — they may not necessarily be "visible" (e.g. repeating a certain phrase in one's mind). Scored with the Y-BOCS scale.
-
-### Management
-
-- **Mild functional impairment:** CBT, exposure and response prevention (ERP); offer SSRI.
-- **Moderate impairment:** SSRI (fluoxetine specifically for body dysmorphic disorder); consider clomipramine if the patient has had a good prior response.
-- **Severe impairment:** refer to secondary mental healthcare for assessment. While awaiting assessment, offer SSRI and CBT, or consider clomipramine.
-- ERP involves exposing the patient to an anxiety-provoking situation and stopping their compulsions.
-- SSRI usually requires a higher dose and a longer period for initial response (≥12 weeks).
-
-## Post-traumatic stress disorder (PTSD)
-
-> [!info] Diagnostic criteria (summary of DSM-5)
-> **A.** Exposure to actual or threatened death, serious injury, or sexual violence (direct experience, witnessing, learning about the event, or repeated exposure).
->
-> **B.** Presence of ≥1 intrusive symptom associated with the traumatic event — recurrent distressing memories; recurrent distressing dreams related to the event; dissociative reactions (e.g. flashbacks); intense or prolonged psychological distress or marked physiological reactions at exposure to reminders.
->
-> **C.** Persistent avoidance of stimuli associated with the traumatic event.
->
-> **D.** Negative alterations in cognition and mood (≥2 of): inability to remember important aspects of the event; persistent exaggerated negative beliefs; persistent distorted cognitions about cause/consequences (blaming oneself); persistent negative emotional state; markedly ↓interest/participation in activities; feelings of detachment/estrangement; persistent inability to experience positive emotions.
->
-> **E.** Marked alterations in arousal and reactivity (≥2 of): irritable behaviour or angry outbursts; reckless or self-destructive behaviour; hypervigilance; exaggerated startle response; concentration problems; sleep disturbance.
->
-> Diagnosis requires A + ≥1 month of B, C, D, E + clinically significant distress or impairment in social/job functioning.
-
-### Management
-
-- Following a traumatic event, single-session individual debriefing is NOT recommended (no evidence of benefit).
-- If mild symptoms <4 weeks — watchful waiting.
-- Trauma-focused CBT or eye movement desensitisation and reprocessing (EMDR) therapy may be used in more severe cases.
-- Drug treatment is not first-line, but if given, use venlafaxine or an SSRI; if severe, trial of risperidone.
-
-## Specific phobia
-
-> [!note] Gap-filled from CSV ("Specific phobias," Medium yield) — genuinely absent despite GAD, panic disorder, OCD, PTSD, and acute stress disorder all being covered above; a specific phobia is a genuinely distinct anxiety disorder from these, worth distinguishing rather than assuming it's just "a type of anxiety" covered by the general principles above.
-
-- **D:** marked, persistent fear or anxiety about a specific object or situation (e.g. flying, heights, animals, receiving an injection, seeing blood), that is disproportionate to the actual danger posed and out of proportion to the sociocultural context.
-- **A/P:** often begins in childhood; may develop following a specific frightening/traumatic experience with the feared object or situation (e.g. a dog bite preceding a dog phobia), through observational learning (witnessing someone else's fear response), or without any clearly identifiable triggering event.
-- **S/Smx:** the phobic object/situation almost always provokes immediate fear or anxiety; actively avoided, or endured only with intense distress; the fear/anxiety/avoidance is persistent (typically ≥6 months) and causes clinically significant distress or functional impairment; the person recognises the fear is excessive or unreasonable relative to the actual danger (distinguishing it from a delusional belief).
-- **Common subtypes:** animal type (e.g. spiders, dogs); natural environment type (e.g. heights, storms, water); blood-injection-injury type (**a genuinely distinct physiological pattern worth knowing** — this subtype classically produces a vasovagal response with an initial brief tachycardia followed by bradycardia and hypotension, which can lead to fainting, unlike the sustained tachycardia/sympathetic activation seen in other phobia subtypes and in anxiety disorders more broadly); situational type (e.g. flying, enclosed spaces, driving); other (e.g. choking, vomiting).
-- **Ix:** clinical diagnosis based on the history above; no specific investigation is required to confirm the diagnosis, though ruling out an organic cause is reasonable if the presentation is atypical (e.g. new-onset phobic symptoms in an older adult without a clear psychological trigger, where an underlying medical or neurological cause should be considered rather than assumed to be a primary anxiety disorder).
-- **Mx:** **exposure therapy (specifically graded/systematic exposure) is the single most evidence-based treatment** for specific phobia, and is genuinely more central here than for the broader anxiety disorders above — the principle is a gradual, structured hierarchy of exposure to the feared object/situation, allowing habituation (the anxiety response diminishing with repeated, controlled exposure) rather than avoidance reinforcing the fear over time; CBT more broadly (including cognitive restructuring alongside exposure) is also effective. **Medication is generally not first-line** for specific phobia, in contrast to GAD/panic disorder/OCD above where SSRIs are a standard part of first-line treatment — this is a genuine, important distinction, given specific phobia responds so well to exposure-based psychological treatment alone that medication is typically reserved for situational, short-term use (e.g. a benzodiazepine for a single unavoidable exposure such as one flight) rather than ongoing pharmacological management.
-
-> [!tip] The blood-injection-injury subtype's distinct vasovagal (bradycardic) response — rather than the sustained tachycardia of other phobias — is a genuinely useful, occasionally-tested distinguishing feature, and also has practical relevance: applied tension techniques (deliberately tensing muscle groups to raise blood pressure) are specifically used for this subtype to prevent fainting during exposure treatment or real-world exposure (e.g. blood draws), a technique not needed for other phobia subtypes.
-
-## Acute stress disorder
-
-- **D:** psychological stress reaction occurring <4 weeks after exposure to a traumatic event. Diagnostic criteria similar to PTSD, apart from the timeframe.
-- **Mx:** trauma-focused CBT. Benzodiazepines may be used for acute symptoms, but must be used with caution.
-
-## Eponymous syndromes (appendix)
-
-> [!warning] FLAG 2026-09-01 — an appendix inside clinical content
-> Administrative rather than clinical; candidate for `_meta/` alongside the `Build status` and
-> `Topics skipped` blocks found in most `NEW_*` sources.
-
-- **Charles Bonnet syndrome:** audio/visual hallucinations occurring in clear consciousness — the patient is usually aware these hallucinations are not real, with no other significant neuropsychiatric disturbance. "Lilliputian" hallucinations (seeing small people/things) are characteristic. Associated with ophthalmologic disorders (e.g. AMD, glaucoma, cataracts).
-- **Cotard syndrome:** patient believes part or all of their body is either dead or non-existent; associated with severe depression and psychotic disorders.
-- **De Clérambault syndrome:** erotomanic delusion (e.g. believing a famous person is in love with you).
-- **Othello syndrome:** pathological jealousy without real proof of infidelity.
-
-
-<!-- ===== SOURCE: 14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics.md ===== -->
-
-
-## 0.1 Features that define psychotic disorders (DSM-5)
-
-- **Delusions:** fixed beliefs not amenable to change in light of conflicting evidence. Types: persecutory, referential, grandiose, erotomanic, nihilistic, somatic. Termed "bizarre" if clearly implausible and not understandable to same-culture peers. Also encompasses thought withdrawal, thought insertion, delusions of control.
-- **Hallucinations:** perception-like experiences without an external stimulus. May occur in any sensory modality, but auditory hallucinations are most commonly associated with schizophrenia.
-- **Disorganised thinking (speech)** — formal thought disorder: derailment or loose association (e.g. Knight's move thinking); tangentiality (obliquely or completely unrelated answers) — circumstantiality is giving an answer in excessive, unnecessary detail; incoherence ("word salad").
-- **Grossly disorganised or abnormal motor behaviour:** includes catatonia — a marked decrease in reactivity to the environment (resistance to instructions/negativism, mutism and stupor, etc).
-- **Negative symptoms:** blunting of affect; anhedonia (inability to derive pleasure); alogia (poverty of speech); avolition (poor motivation); social withdrawal.
-
-## 0.2 Schizophrenia
-
-- **D:** mental health disorder in which a person's perception, thoughts, mood, and behaviour are significantly altered.
-
-> [!info] Risk — strong family history association (relative risk, RR = ratio of risk in the exposure group vs the non-exposure group):
-> - Parent with schizophrenia: RR 7.5.
-> - Identical twin with schizophrenia: RR 50.
-> - Fraternal twin with schizophrenia: RR 5–15.
->
-> Less strongly associated with obstetric complications, cannabis use (RR ~2), Black Caribbean ethnicity (RR 5.8).
-
-### 0.2.1 Diagnostic criteria (DSM-5)
-
-> [!info]
-> **A.** ≥2 of the following for most of 1 month: delusions; hallucinations; disorganised speech; grossly disorganised or catatonic behaviour; negative symptoms (↓emotional expression or avolition).
->
-> **B.** Significant impact on self-care, social, or job functioning.
->
-> **C.** Continuous signs of disturbance persist for ≥6 months, including ≥1 month of criterion A, plus prodromal or residual symptoms.
-
-> [!tip] Schneider's first-rank symptoms — useful as a triage tool, but not particularly sensitive or specific:
-> - Auditory hallucinations.
-> - Thought disorders (echo, insertion, withdrawal, broadcasting).
-> - Somatic hallucination (false perception of physical experience within the body).
-> - Delusional perception — a true perception to which a person attributes a false meaning; a fixed belief that does not change in light of conflicting evidence.
-> - Feelings or actions experienced as made or influenced by external agents (e.g. "the CIA is controlling my arm").
-
-### 0.2.2 Other features of schizophrenia
-
-- Impaired insight; negative symptoms; neologisms (made-up words); Knight's move thinking; catatonia; clang associations (ideas related only by similar sounds/rhymes); echolalia (repetition of someone else's speech).
-
-### 0.2.3 Management
-
-- 2nd generation antipsychotics; offer CBT; cardiovascular risk-factor modification.
-- **P:** factors associated with poor prognosis — strong family history, gradual onset, low IQ, prodromal phase of social withdrawal, lack of an obvious precipitant.
-
-## 0.3 Schizoaffective disorder
-
-> [!note] Gap-filled from CSV ("Schizoaffective disorder," Medium yield) — genuinely absent despite sitting conceptually between schizophrenia above and the mood disorders in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]], a distinction that's frequently examined precisely because of how easily it's confused with either.
-
-- **D:** a condition featuring both psychotic symptoms (meeting the schizophrenia criterion A above) **and** a major mood episode (depressive or manic), occurring together, **plus** a period of ≥2 weeks of psychotic symptoms in the **absence** of a mood episode at some point in the illness — this last criterion is the genuinely important distinguishing feature, since it confirms the psychosis isn't simply a feature that only ever appears alongside mood episodes.
-- **A/P:** the mood symptoms must be present for the majority of the total duration of the illness (both active and residual periods) — a threshold that helps distinguish schizoaffective disorder from schizophrenia with an incidental co-occurring mood episode.
-
-> [!tip] The key three-way distinction, worth holding in mind as a single framework:
-> - **Schizophrenia:** psychotic symptoms, with mood symptoms (if present at all) only ever occurring briefly relative to the total illness duration.
-> - **Mood disorder with psychotic features** (e.g. psychotic depression, or a manic episode with psychotic features — see [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Bipolar disorder and [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]] Psychosis for the disease-level detail, not repeated here): psychotic symptoms occur **only** during a mood episode, never independently.
-> - **Schizoaffective disorder:** both mood and psychotic symptoms are prominent for most of the illness, **and** there's a documented period of psychosis without any mood episode — the genuine "both, with independent psychosis" middle ground between the two categories above.
-
-- **S/Smx:** a combination of the psychotic features described in Features that define psychotic disorders (DSM-5) above and the mood episode criteria in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Depression (Major depressive disorder) and Bipolar disorder, not repeated here.
-- **Mx:** combination treatment addressing both symptom domains — antipsychotic medication for the psychotic features (per the schizophrenia Management principles above), plus mood-stabilising or antidepressant treatment depending on whether the bipolar or depressive subtype is present (per the relevant mood disorder Mx in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]], not repeated here); psychiatric specialist management given the diagnostic complexity and the need to titrate two categories of medication concurrently.
-- **P:** generally intermediate between schizophrenia (poorer) and mood disorders alone (better) — genuinely variable given the heterogeneity of presentation this diagnosis covers.
-
-## 0.4 Psychosis
-
-- **D:** a mental health disorder involving some loss of contact with reality.
-- **Brief psychotic disorder:** psychotic symptoms with duration <1 month, not better attributed to another cause, with eventual full return to premorbid level of functioning.
-
-> [!info] Psychosis can occur in other conditions: depression (psychotic depression); bipolar disorder; puerperal psychosis; neurological conditions (e.g. Parkinson's, Huntington's); prescribed drugs (e.g. steroids); illicit drugs (e.g. cannabis, phencyclidine).
-
-- **Mx:** identify and treat the underlying cause where one is found, given the broad differential above (e.g. treat the causative substance/drug reaction, manage the underlying mood episode in psychotic depression or bipolar disorder, address the organic neurological cause) — psychosis here is often a presenting *feature* of another condition rather than a standalone diagnosis requiring its own separate treatment pathway; antipsychotic medication (see Antipsychotics below) is used for symptomatic control of the psychotic symptoms themselves, in addition to treating the underlying cause; urgent psychiatric assessment for new-onset psychosis given the range of possible causes (some genuinely urgent/reversible, e.g. an organic or substance-induced cause) and the safety risk highlighted by the self-harm association above; admission may be required if there's significant risk to self or others, or if the patient lacks capacity/insight to engage safely with community-based care.
-
-## 0.5 Postpartum (Puerperal) Psychosis
-
-> [!note] Gap-filled from CSV ("Post-partum psychosis," High yield) — genuinely absent as a standalone entry despite being listed as a cause of psychosis immediately above; built here given its severity (a genuine psychiatric emergency) and its close relationship to the bipolar disorder content in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]], not repeated here.
-
-- **E:** approximately **1:500 births** — figure carried from [[16_10-13_Labour_and_Delivery]] Puerperal psychosis, which also frames onset as **50% by 7 days and 90% by 3 months** postpartum. **Note that entry gives recurrence risk as 25–50% where this one gives >50%** (see `PENDING_GUIDELINE_CHECKS.md` **B59**).
-- **D:** the most severe form of postpartum psychiatric illness — acute onset of psychotic symptoms (delusions, hallucinations, disorganised behaviour) in the days to weeks following childbirth. A genuine psychiatric emergency, not a milder variant of postpartum "baby blues" or postnatal depression.
-- **A/P:** genuinely closely linked to bipolar disorder — a substantial proportion of cases occur in women with a pre-existing bipolar diagnosis, and postpartum psychosis is increasingly understood as sitting within the bipolar spectrum for many patients, though 25–30% of women with postpartum psychosis never have another affective episode outside the postpartum period, making the relationship genuinely complex rather than a simple subtype. Risk is dramatically elevated in the first 3 weeks postpartum specifically (up to a 30-fold increased risk of acute psychosis in this window compared to baseline).
-- **R:** personal history of bipolar disorder (risk rises to ~30% in a subsequent pregnancy) or personal history of postpartum psychosis specifically (risk rises to >50% in a subsequent pregnancy — the single strongest risk factor); family history of bipolar disorder or postpartum psychosis; primiparity; sleep deprivation appears to be a genuine contributing/precipitating factor, not just a symptom.
-- **S/Smx:** rapid onset, classically within the first 2 weeks postpartum (up to 65% of cases), though onset as early as 48–72 hours or as late as several weeks postpartum also occurs; early, subtle warning signs include increasingly anxious affect and poor sleep **independent of the baby's waking pattern** — a genuinely useful early clue distinguishing this from ordinary new-parent sleep disruption; progresses to mood lability (depressed or elated, sometimes rapidly alternating), disorganised behaviour/thinking, delusions (which may specifically involve the baby — e.g. beliefs the baby is unwell, defective, or in danger), hallucinations, confusion; **fluctuating symptoms, particularly worse at night, and disorientation can mimic an acute confusional state/delirium**, which is exactly why organic causes should still be actively excluded even when the presentation looks psychiatric.
-- **Ix:** primarily a clinical diagnosis based on the presentation above, but organic causes should always be excluded given the physiological context of recent childbirth — screen for postpartum sepsis, significant blood loss/anaemia, eclampsia-related complications, thyroid dysfunction, and substance use, given these can all produce a similar acute mental state change and require entirely different urgent management. Collateral history from partner/family is particularly valuable given the fluctuating, sometimes subtle early presentation.
-- **Mx:**
-  - **Immediate/acute:** this is a genuine psychiatric emergency — urgent same-day psychiatric assessment and, for more severe presentations, admission is required, given the risk to both the mother (suicide risk is significantly elevated) and the infant (risk of harm, whether through delusional beliefs about the baby or impaired capacity to safely care for the infant); antipsychotic medication is the mainstay of acute symptomatic treatment; mood stabilisers (e.g. lithium) if there's a significant mood component or known/suspected bipolar association.
-  - **Definitive:** admission to a specialist **Mother and Baby Unit (MBU)** where available — a unit specifically designed to allow the baby to remain with the mother during admission, supporting bonding and providing safety, support, and parenting education alongside acute psychiatric treatment; MBUs exist in Australia (as well as UK and other countries), though access/availability varies by region.
-  - **Chronic/long-term:** careful discharge planning given the risk of relapse and the ongoing safety needs of both mother and infant; women with a history of postpartum psychosis (or bipolar disorder) planning a future pregnancy should have proactive perinatal psychiatric input given the substantial recurrence risk above — prophylactic treatment planning before and immediately after a subsequent delivery is a genuinely important preventive strategy, not something to address only if symptoms recur.
-- **P:** generally good with prompt treatment — women with first-onset postpartum psychosis (no prior bipolar diagnosis) tend to have a better prognosis and long-term outcome than women with an established bipolar disorder diagnosis, though the significant recurrence risk in future pregnancies remains regardless.
-
-> [!info] In Australia, PANDA (Perinatal Anxiety & Depression Australia) is a relevant support/helpline resource for perinatal mental health concerns more broadly — worth knowing as a genuinely Australian-specific resource, distinct from the acute emergency psychiatric response required for postpartum psychosis itself.
-
-## 0.6 Antipsychotics
-
-- Divided into typical and atypical.
-
-### 0.6.1 Typical antipsychotics
-
-- Dopamine D2 receptor antagonists, blocking dopaminergic transmission in mesolimbic pathways.
-- Cause extrapyramidal side effects and hyperprolactinaemia.
-- Examples: haloperidol, chlorpromazine.
-
-### 0.6.2 Atypical antipsychotics (2nd generation, SGA)
-
-- Act on D2, D3, D4, 5HT (serotonin) receptors.
-- Fewer extrapyramidal side effects and less hyperprolactinaemia, but can have marked metabolic effects.
-- Examples: olanzapine, risperidone.
-
-### 0.6.3 Extrapyramidal side effects (EPSE)
-
-> [!warning] Mnemonic — "ADAPT"
-> - **A**cute dystonia (days to weeks) — sustained muscle contractions: torticollis ("wry neck"), oculogyric crisis (spasmodic movement of eyeballs into a fixed position, usually upwards).
-> - **A**kathisia (severe restlessness).
-> - **P**arkinsonism (weeks to months).
-> - **T**ardive dyskinesia — onset months to years, ~40% of patients; choreoathetoid movements, e.g. chewing, pouting of the jaw.
-
-### 0.6.4 Other side effects
-
-- Increased risks in the elderly: stroke, VTE.
-- Antimuscarinic: dry mouth, blurred vision, urinary retention, constipation.
-- Sedation, weight gain.
-- ↑prolactin ± galactorrhoea (secondary to dopaminergic effects) — less seen with aripiprazole.
-- Impaired glucose tolerance.
-
-> [!danger] Neuroleptic malignant syndrome: markedly ↑fever, muscle stiffness — see [[04_Neurology]] Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS) for the full comparison against serotonin syndrome (a genuinely important distinguishing skill given both present with hyperthermia and altered mental status), Ix, and Mx, not repeated here.
-
-- Reduced seizure threshold (especially with 2nd generation antipsychotics).
-- Prolonged QT interval (especially with haloperidol).
-
-### 0.6.5 Clozapine — specific considerations
-
-> [!danger] Significant risk of agranulocytosis (1%) and neutropaenia (3%).
-
-- Reduced seizure threshold (may induce seizures in up to 3% of patients).
-- Constipation; myocarditis; hypersalivation.
-- Dose adjustment may be necessary if the patient starts or stops smoking during treatment.
-- If the patient is off clozapine for ≥48h, re-titration of dose is required to prevent toxicity.
-
-### 0.6.6 Monitoring for all antipsychotics
-
-> [!info] Monitoring schedule
-> - **At start of therapy (baseline):** FBC, U&Es, LFTs; lipids, weight/BMI; fasting blood glucose; prolactin; blood pressure; ECG.
-> - **At 3 months:** lipids, weight/BMI.
-> - **At 6 months:** fasting blood glucose, prolactin.
-> - **Annually:** FBC, U&Es, LFTs; lipids, weight/BMI; fasting blood glucose; prolactin; cardiovascular risk assessment.
-> - **During dose titration:** blood pressure.
-
-> [!danger] Clozapine requires initially weekly monitoring of FBC until stabilised on dose.
-
-### 0.6.7 Switching due to side effects
-
-- Tending to cause weight gain: risperidone, olanzapine — less likely with aripiprazole, amisulpride, lurasidone.
-- QTc prolongation: less likely with lurasidone.
-
-
-<!-- ===== SOURCE: 14_04_Psych_-_Personality_Disorders.md ===== -->
-
-
-> [!note] Personality disorders refer to enduring patterns of thinking and feeling about oneself and others that significantly and adversely affect how an individual functions across life domains. This pattern is stable and of long duration, with onset traceable to at least adolescence or early adulthood. Thought to affect 1 in 20 people.
-
-## Cluster A — "Odd or eccentric"
-
-### Paranoid personality disorder
-
-- A pattern of distrust and suspiciousness such that others' motives are interpreted as malevolent.
-
-> [!info] DSM-5 criteria — fulfils ≥4 of:
-> - Suspects that others are exploiting, harming, or deceiving them.
-> - Preoccupation with unjustified doubts about loyalty or trustworthiness of friends.
-> - Reluctant to confide in others due to unwarranted fear information will be used against them.
-> - Reads hidden demeaning or threatening messages into benign remarks/events.
-> - Persistently bears grudges.
-> - Perceives attacks on their character or reputation not apparent to others, and reacts angrily.
-> - Recurrent suspicions regarding fidelity of spouse/sexual partner without basis.
-
-### Schizoid personality disorder
-
-- A pattern of detachment from social relationships and a restricted range of emotional expression.
-
-> [!tip] Think "android" (robot-like).
-
-> [!info] DSM-5 criteria — fulfils ≥4 of:
-> - Does not desire or enjoy close relationships (including being part of a family).
-> - Almost always chooses solitary activities.
-> - Little interest in sexual experiences with others.
-> - Takes pleasure in few activities.
-> - Lacks close friends or confidants other than first-degree relatives.
-> - Appears indifferent to praise or criticism.
-> - Shows emotional coldness, detachment, or flattened affectivity.
-
-### Schizotypal personality disorder
-
-- A pattern of acute discomfort in close relationships, cognitive and perceptual distortions, and eccentricities of behaviour.
-
-> [!info] DSM-5 criteria — fulfils ≥5 of:
-> - Ideas of reference.
-> - Odd beliefs or magical thinking that influences behaviour, inconsistent with subcultural norms.
-> - Unusual perceptual experiences.
-> - Odd thinking and speech.
-> - Suspiciousness or paranoid ideation.
-> - Inappropriate or constricted affect.
-> - Odd, eccentric, or peculiar behaviour or appearance.
-> - Lack of close friends or confidants other than first-degree relatives.
-> - Excessive social anxiety that does not diminish with familiarity, associated with paranoid fears rather than negative self-judgment.
-
-## Cluster B — "Dramatic, emotional, or erratic"
-
-### Antisocial personality disorder
-
-- A pattern of disregard for, and violation of, the rights of others.
-
-> [!info] DSM-5 criteria — fulfils ≥3 of the following since age 15:
-> - Failure to conform to social norms regarding lawful behaviour (resulting in repeated arrests).
-> - Deceitfulness (e.g. repeated lying, conning others for personal profit or pleasure).
-> - Impulsivity or failure to plan ahead.
-> - Irritability and aggressiveness (e.g. repeated physical fights or assaults).
-> - Reckless disregard for safety of self or others.
-> - Consistent irresponsibility (e.g. repeated failure to sustain consistent work behaviour).
-> - Lack of remorse.
-
-> [!warning] Can only be diagnosed when the patient is ≥18 years old, but there is often evidence of conduct disorder at ≤15 years old.
-
-### Borderline personality disorder (emotionally unstable personality disorder)
-
-- A pattern of instability in interpersonal relationships, self-image, and affect, with marked impulsivity.
-
-> [!info] DSM-5 criteria — fulfils ≥5 of:
-> - Frantic efforts to avoid real or imagined abandonment.
-> - Pattern of unstable and intense interpersonal relationships, alternating between idealisation and devaluation.
-> - Identity disturbances — unstable self-image.
-> - Impulsivity in ≥2 potentially self-damaging areas (e.g. sex, spending, substance abuse).
-> - Recurrent suicidal behaviour, gestures, or threats, or self-mutilating behaviour.
-> - Affective instability due to marked reactivity of mood, usually lasting a few hours.
-> - Chronic feelings of emptiness.
-> - Inappropriate, intense anger or difficulty controlling anger.
-> - Transient, stress-related paranoid ideation or severe dissociative symptoms.
-
-### Narcissistic personality disorder
-
-- A pattern of grandiosity, need for admiration, and lack of empathy.
-
-> [!info] DSM-5 criteria — fulfils ≥5 of:
-> - Grandiose sense of self-importance.
-> - Preoccupation with fantasies of unlimited success, power, brilliance, beauty, or ideal love.
-> - Believes they are "special" and unique, should associate only with other special/high-status people.
-> - Requires excessive admiration.
-> - Sense of entitlement.
-> - Interpersonally exploitative.
-> - Lacks empathy.
-> - Often envious of others, or believes others are envious of them.
-> - Arrogant, haughty behaviours or attitudes.
-
-### Histrionic personality disorder
-
-- A pattern of excessive emotionality and attention seeking.
-
-> [!info] DSM-5 criteria — fulfils ≥5 of:
-> - Uncomfortable when not the centre of attention.
-> - Inappropriately sexually seductive or provocative interactions.
-> - Rapidly shifting and shallow expression of emotions.
-> - Consistently uses physical appearance to draw attention to self.
-> - Speech that is excessively impressionistic and lacking in detail.
-> - Self-dramatisation, theatricality, exaggerated expression of emotion.
-> - Is suggestible.
-> - Considers relationships to be more intimate than they actually are.
-
-## Cluster C — "Anxious and fearful"
-
-### Avoidant personality disorder
-
-- A pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation.
-
-> [!info] DSM-5 criteria — fulfils ≥4 of:
-> - Avoids occupational activities involving significant interpersonal contact, due to fear of criticism, disapproval, or rejection.
-> - Unwilling to get involved with people unless certain of being liked.
-> - Restraint within intimate relationships due to fear of shame or ridicule.
-> - Preoccupied with being criticised or rejected in social situations.
-> - Inhibited in new interpersonal situations due to feelings of inadequacy.
-> - Views self as socially inept, personally unappealing, or inferior.
-> - Unusually reluctant to take personal risks or engage in new activities that may prove embarrassing.
-
-### Dependent personality disorder
-
-- A pattern of submissive and clinging behaviour related to an excessive need to be taken care of.
-
-> [!info] DSM-5 criteria — fulfils ≥5 of:
-> - Difficulty making everyday decisions without excessive advice and reassurance.
-> - Needs others to assume responsibility for most major life areas.
-> - Difficulty expressing disagreement due to fear of loss of support/approval.
-> - Difficulty initiating projects or doing things alone.
-> - Goes to excessive lengths to obtain nurturance and support from others.
-> - Feels uncomfortable or helpless when alone.
-> - Urgently seeks another relationship as a source of care/support when one ends.
-> - Unrealistically preoccupied with fears of being left to care for themselves.
-
-### Obsessive-compulsive personality disorder
-
-- A pattern of preoccupation with orderliness, perfectionism, and control.
-
-> [!info] DSM-5 criteria — fulfils ≥4 of:
-> - Preoccupied with details, rules, lists, order, organisation, or schedules, to the extent the major point of the activity is lost.
-> - Perfectionism that interferes with task completion.
-> - Excessive devotion to work and productivity, excluding leisure and friendships.
-> - Overconscientious, scrupulous, and inflexible about morality, ethics, or values.
-> - Unable to discard worn-out or worthless objects, even without sentimental value.
-> - Reluctant to delegate tasks or work with others unless they submit to exactly their way of doing things.
-> - Miserly spending style.
-> - Rigidity and stubbornness.
-
-## Management (general, across personality disorders)
-
-- Danger to self or others must be addressed immediately, e.g. admission.
-- Psychological therapies: dialectical behaviour therapy (a type of talking therapy).
-- Treat any coexisting psychiatric conditions, e.g. referral for substance abuse disorders.
-
-
-<!-- ===== SOURCE: 14_05a_Psych_-_Eating_Disorders.md ===== -->
-
-
-## Anorexia nervosa
-
-- **D:** eating disorder characterised by restriction of caloric intake leading to low body weight, an intense fear of gaining weight, and a body image disturbance.
-- **R:** F>>M, adolescence, obsessive and perfectionist traits, genetic influence (based on twin studies).
-
-> [!info] Diagnostic criteria
-> - Restriction of energy intake relative to requirements → significantly low body weight.
-> - Intense fear of gaining weight or becoming fat, even though the patient is underweight.
-> - Disturbance in the way body weight or shape is experienced; undue influence of body weight/shape on self-evaluation; or denial of the seriousness of the current low body weight.
-
-- **Other S/Smx:** ↓BMI; bradycardia; hypotension; enlarged salivary glands.
-- **Ix:** bloods — ↓K, ↓T3, ↓FSH/LH/oestrogen/testosterone, ↑cortisol and ↑GH, impaired glucose tolerance, ↑cholesterol, ↑carotene.
-- **Mx:**
-  - If medically unstable, may require admission ± PO, enteral, or parenteral nutrition.
-
-> [!danger] If severe, nutrition should be reintroduced slowly to prevent refeeding syndrome. May also require fluid and electrolyte correction.
-
-  - Long term: psychotherapy and a structured eating plan with oral nutrition should be discussed.
-
-## Bulimia nervosa
-
-- **D:** eating disorder characterised by recurrent episodes of binge eating, followed by behaviours aimed at compensating for the binge.
-- **R:** F>>M; personality disorder; history of sexual abuse; impulsivity; family history of alcoholism, depression, or eating disorder.
-
-> [!info] Diagnostic criteria
-> - Recurrent episodes of binge eating (eating an amount of food definitely larger than most people would eat in a similar period/circumstances).
-> - A sense of lack of control over eating during the episode.
-> - Recurrent inappropriate compensatory behaviour to prevent weight gain — e.g. self-induced vomiting, misuse of laxatives/diuretics/other medications, fasting, or excessive exercise.
-> - Binge eating and compensatory behaviours both occur, on average, at least once a week for ≥3 months.
-> - Self-evaluation is unduly influenced by body shape and weight.
-> - The disturbance does not occur exclusively during episodes of anorexia nervosa.
-
-- **Other S/Smx:** recurrent vomiting may lead to erosion of teeth and calluses on the knuckles (Russell's sign).
-- **Ix:** as per anorexia — unlikely to see the same derangements, as nutrition is not as poor as in anorexia.
-- **Mx:**
-  - Referral to specialist care.
-  - Adults: NICE recommends a self-help guide first; if not effective, offer CBT. *(UK NICE guidance — **not verified against an Australian source**; see `PENDING_GUIDELINE_CHECKS.md` B32)*
-  - Children: offer family therapy.
-  - High-dose fluoxetine is licensed for bulimia nervosa, but long-term data is lacking.
-
-> [!info] Verified — the treatment approach (self-help guide as a reasonable first step, CBT if ineffective, family therapy for children, high-dose fluoxetine as a specifically evidence-supported and internationally-recognised pharmacological option for bulimia) is standard practice, not a UK-specific protocol needing wholesale replacement, and is consistent with Australian eating disorder treatment approaches. The resource correction already noted below (Butterfly Foundation as the current Australian helpline, replacing the US-specific NEDA reference) remains the most important Australia-specific correction in this entry and has already been made. If discussing eating disorder support resources with a person, note that the National Alliance for Eating Disorders helpline is the current recommended US resource (NEDA has been permanently disconnected) — for Australia, the Butterfly Foundation National Helpline is the relevant service.
-
-## Binge-eating disorder
-
-> [!note] Gap-filled from CSV ("Binge-eating disorder," High yield) — genuinely absent as a standalone diagnosis despite being a recognised DSM-5 eating disorder distinct from bulimia nervosa, and now the most common eating disorder in several population studies.
-
-- **D:** an eating disorder characterised by recurrent episodes of binge eating, **without** the regular compensatory behaviours (self-induced vomiting, laxative misuse, excessive exercise) that define bulimia nervosa above — this is the single key distinguishing feature between the two conditions, not severity or bingeing frequency.
-- **R:** can occur across a wider range of body weights than anorexia or bulimia (including normal weight and overweight/obesity), though it's strongly associated with overweight/obesity given the absence of compensatory behaviours; F>M though the gender gap is narrower than in anorexia/bulimia; history of dieting, weight stigma/teasing, depression, anxiety, impulsivity.
-
-> [!info] Diagnostic criteria
-> - Recurrent episodes of binge eating (eating an amount of food definitely larger than most people would eat in a similar period/circumstances) with a sense of lack of control during the episode.
-> - Binge eating episodes associated with ≥3 of: eating much more rapidly than normal; eating until uncomfortably full; eating large amounts when not physically hungry; eating alone due to embarrassment about the amount eaten; feeling disgusted, depressed, or guilty afterward.
-> - Marked distress regarding binge eating.
-> - Occurs, on average, at least once a week for ≥3 months.
-> - **Not** associated with the recurrent use of inappropriate compensatory behaviour, and does not occur exclusively during the course of bulimia nervosa or anorexia nervosa — the absence of compensation is what separates this diagnosis from bulimia.
-
-- **S/Smx:** the binge-eating pattern above; significant psychological distress and shame around the behaviour, often kept secret from others (distinct from the eating itself, which may or may not be visible depending on body weight); commonly coexists with depression, anxiety, and low self-esteem.
-- **Mx:**
-  - Referral to specialist eating disorder care, following the same principle as anorexia/bulimia above.
-  - CBT (specifically adapted for binge-eating disorder) has the strongest evidence base and is generally first-line psychological treatment.
-  - Structured self-help/guided self-help programs are a reasonable lower-intensity first step for less severe presentations, mirroring the stepped approach used in bulimia nervosa above.
-  - Pharmacological options exist (e.g. certain SSRIs, and lisdexamfetamine which has specific evidence and licensing for binge-eating disorder in several jurisdictions) — specialist-initiated given the need to weigh benefit against side effect profile and the coexisting mental health/weight context.
-  - Address coexisting depression/anxiety actively, given how commonly these co-occur and can perpetuate the binge-eating cycle.
-  - **Avoid framing treatment primarily around weight loss** — the evidence-based focus is on normalising eating patterns and addressing the psychological drivers of bingeing; weight-loss-focused approaches specifically have not been shown to resolve binge-eating disorder and can worsen the underlying relationship with food and body image.
-
-
-<!-- ===== SOURCE: 14_05b_Psych_-_Insomnia.md ===== -->
-
-
-## Insomnia
-
-- **D:** difficulty initiating or maintaining sleep, or early-morning awakening, leading to dissatisfaction with sleep quantity or quality.
-- **R:** F>M, ↑age, chronic medical conditions or pain, psychiatric illness, alcohol/substance misuse, stimulant usage, medicines such as corticosteroids, poor sleep hygiene, TBI.
-- **Ix:**
-  - Clinical diagnosis + risk factor identification — the patient may need to keep a sleep diary.
-  - Actigraphy — a sensor device (like a smart watch) worn to measure gross motor activity.
-  - Polysomnography is not routinely indicated — consider for patients with suspected obstructive sleep apnoea or periodic limb movement disorder, or if refractory to conventional treatment.
-- **Mx:**
-  - Identify potential causes, e.g. poor sleep hygiene, mental health issues.
-  - Patient education on good sleep hygiene: no screens before bed, limit caffeine intake, regular bedtimes, avoid daytime naps, etc.
-  - Advise the patient not to drive when sleepy.
-  - Only consider hypnotics if daytime impairment is severe — benzodiazepines, or Z-drugs (zopiclone, zolpidem, etc — linked to nightmares). Use the lowest effective dose for the shortest period possible; do not give a repeat prescription; review after 2 weeks.
-  - Consider referral to CBT.
-
-
-<!-- ===== SOURCE: 14_05c_Psych_-_Unexplained_Symptoms__Somatoform__Dissociative__Factitious_Disorders_.md ===== -->
-
-
-## Somatic symptom disorder (somatisation disorder)
-
-- ≥1 somatic symptom that is distressing.
-- Preoccupation with health concerns — e.g. excessive time and energy devoted to symptoms or health concerns; the patient refuses to accept reassurance or negative test results.
-- ≥6 months symptomatic.
-- **Mx:** a single, consistent GP/primary treating clinician is genuinely important — avoiding fragmented care across multiple providers reduces both unnecessary repeat investigation and the patient's sense of being passed around unheard; regular, scheduled (not purely symptom-triggered) review appointments, since scheduled review reduces the pressure to produce a new symptom to justify contact; CBT has the best evidence base among psychological therapies for this condition; avoid unnecessary investigations once a reasonable initial work-up has excluded serious pathology, given repeated testing can reinforce the illness preoccupation rather than reassure; treat any coexisting depression/anxiety, which commonly coexists and can worsen symptom perception.
-
-## Illness anxiety disorder (hypochondriasis)
-
-- Preoccupation with having or acquiring a serious illness.
-- Somatic symptoms are not present, or only mild.
-- ≥6 months of illness preoccupation.
-- **Mx:** the same general approach as somatic symptom disorder above (consistent clinician, scheduled review, CBT) — not repeated in full here; specifically avoid repeated reassurance-seeking behaviours being reinforced by excessive testing or specialist referral, since paradoxically this can worsen rather than resolve the anxiety by validating the perceived need for ongoing medical vigilance; psychoeducation about the disorder itself, delivered sensitively, can help given many patients aren't aware this is a recognised, treatable condition rather than a personal failing.
-
-## Conversion disorder (functional neurological disorder)
-
-- ≥1 symptom of altered voluntary motor or sensory function.
-- Clinical findings provide evidence of incompatibility between the symptom and recognised neurological or medical conditions.
-- The symptom is not consciously feigned by the patient, and the patient is not doing it to seek material gain.
-- The patient may be indifferent to their apparent disorder ("la belle indifférence").
-- **Mx:** **explaining the diagnosis carefully and non-judgementally is itself a core part of treatment** — framing it as a genuine, involuntary disorder of nervous system functioning (not "it's all in your head" or a suggestion the patient is faking) is essential to engagement, given a dismissive or accusatory framing reliably worsens outcomes and damages the therapeutic relationship; physiotherapy specifically tailored to functional neurological disorder (distinct from physiotherapy for a structural neurological lesion) has a good evidence base for motor symptoms; CBT and other psychological therapies for underlying stressors; multidisciplinary input (neurology + psychiatry/psychology + physiotherapy) is often genuinely necessary given the disorder sits at this specific intersection; avoid unnecessary repeat neurological investigation once a confident diagnosis has been made, similar to the principle in somatic symptom disorder above.
-
-## Dissociative disorders
-
-- Dissociation is a process of separating oneself off from certain memories, emotions, or identities.
-- Presents with psychiatric symptoms including amnesia, depersonalisation, derealisation, etc.
-- Umbrella term including: dissociative identity disorder (aka multiple personality disorder); dissociative amnesia; depersonalisation or derealisation disorder.
-- **Mx:** trauma-focused psychotherapy is central, given dissociative disorders are frequently linked to a history of significant psychological trauma (particularly childhood trauma) — the dissociation is understood as a maladaptive coping/protective mechanism that developed in response to that trauma, which is why simply trying to suppress the dissociative symptoms directly (rather than addressing the underlying trauma) is generally not effective; specialist psychiatric/psychological referral is usually needed given the complexity; grounding techniques can help manage acute dissociative episodes symptomatically; screen for and address any current safety concerns (self-harm, suicidality) given the strong association with trauma history and comorbid mental health conditions.
-
-## Factitious disorder (Munchausen's syndrome)
-
-- Falsification of physical or psychological symptoms, or induction of injury or disease.
-- The individual presents themselves to others as ill or injured.
-- Deceptive behaviour is evident even in the absence of obvious external rewards.
-- **Imposed on another** (Munchausen's by proxy) — e.g. a parent injures their child on purpose to present them as ill.
-- **Mx:** genuinely challenging given patients typically resist acknowledging the psychological basis of their presentation and often disengage or move providers ("doctor shopping") if confronted directly or if the diagnosis is suspected — a non-confrontational, empathetic approach focused on the underlying psychological distress (rather than directly accusing the patient of fabrication) is more likely to maintain engagement; psychiatric referral where the patient will accept it; **multidisciplinary communication and a single coordinating clinician are particularly important** here, given the risk of the patient obtaining unnecessary, sometimes harmful investigations or procedures across multiple uncoordinated providers. **Factitious disorder imposed on another (Munchausen's by proxy) is a child protection emergency** — this requires urgent safeguarding/child protection referral, not just psychiatric management of the perpetrator, given the immediate physical safety risk to the child.
-
-## Malingering
-
-- Fraudulent simulation or exaggeration of symptoms with the intention of financial (or other) gain.
-- **Mx:** malingering is not itself a psychiatric diagnosis requiring treatment (distinguishing it from every condition above, all of which are genuine psychiatric disorders) — management is primarily about careful, objective, well-documented clinical assessment to identify inconsistencies between reported symptoms and objective findings, rather than a therapeutic intervention; address the underlying secondary gain driving the behaviour where it can be identified (e.g. a disability claim, litigation, avoiding a legal or work obligation) as this is the actual driver, not a disease process; maintain a professional, non-accusatory approach in documentation and communication even where malingering is suspected, given the medicolegal sensitivity of this determination and the real possibility of misattributing a genuine but atypical presentation.
-
-
-<!-- ===== SOURCE: 14_05d_Psych_-_Electroconvulsive_Therapy.md ===== -->
-
-
-> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `Electroconvulsive therapy (ECT)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: 14_06a_Psych_-_Drugs_Used_in_Psychiatry.md ===== -->
-
-
-> [!info] Verified — most content in this file (drug mechanisms, adverse effect profiles, drug-drug interactions, discontinuation syndrome patterns) is pharmacological rather than jurisdiction-specific, and doesn't need wholesale replacement for Australian use. The one section requiring genuine correction was lithium's therapeutic range (see below, now indication-specific and AU-verified). For specific current PBS-subsidised formulations, exact starting doses, or the latest AMH/eTG Psychotropic prescribing detail for an individual patient, check those sources directly rather than treating this file as a prescribing reference — it's a conceptual/mechanistic study aid.
-
-## 0.1 Benzodiazepines
-
-> [!warning] FLAG 2026-09-01 — two drug references for the same classes in one file
-> `14_06a_Psych_-_Drugs_Used_in_Psychiatry` (this source) and `NEW_Drugs_17_Psychotropic` both cover
-> benzodiazepines, lithium, SSRIs, SNRIs, TCAs, MAOIs and Z-drugs. **Both retained; pair marked,
-> not merged.**
-
-- **MOA:** enhance the effect of GABA, an inhibitory neurotransmitter.
-- **AE:** sedation (including respiratory depression at very high doses or when mixed with other drugs like opioids). Tolerance and dependence can develop.
-
-> [!danger] Should only be prescribed for a short period of time (e.g. 2–4 weeks) with regular reviews.
-
-- **Withdrawal:** taper off slowly (e.g. drop dose by 1/8th every fortnight); switch to a longer-acting benzodiazepine (e.g. diazepam) so effects are less pronounced.
-- **S/Smx of withdrawal (if withdrawn too fast):** insomnia, irritability, anxiety, tremor, loss of appetite, perceptual disturbances, lowered seizure threshold.
-
-## 0.2 Lithium
-
-- **MOA:** not fully understood.
-- Narrow therapeutic range, sample 12h post-dose; mainly excreted via the kidneys.
-
-> [!info] Verified against RANZCP (Royal Australian and New Zealand College of Psychiatrists) guidance and the Royal Melbourne Hospital pathology handbook, Aug 2026 — the therapeutic range genuinely differs by indication, a distinction the original "0.4–1.0 mmol/L" single-figure range doesn't capture: **0.6–0.8 mmol/L for prophylaxis/maintenance (and in elderly patients specifically, given reduced renal clearance)**; **up to 1.0–1.2 mmol/L for acute mania**, reflecting the higher level typically needed for acute symptom control versus long-term relapse prevention. This same indication-specific split is also standard internationally (NICE, RANZCP, CANMAT/ISBD all converge on a similar structure), so it's not itself a UK-vs-Australia difference — the correction here is precision (single range → two indication-specific ranges), not jurisdiction.
-
-- **AE:** GI effects (nausea, vomiting, diarrhoea); fine tremor; nephrotoxicity (diabetes insipidus); hypothyroidism; ECG changes; weight gain; idiopathic intracranial hypertension; leukocytosis (↑WCC); hyperparathyroidism; hypercalcaemia.
-
-> [!info] Monitoring
-> - Lithium levels — sample 12h post-dose. Weekly, and after each dose change, until concentrations are stable; then 3-monthly thereafter.
-> - TFT and renal function every 6 months.
-
-## 0.3 Mirtazapine
-
-- **MOA:** α-2 adrenergic blocker → ↑serotonergic and noradrenergic transmission.
-- **AE (can be used for good effect!):** ↑appetite & weight gain; sedation (may be useful for insomnia).
-
-## 0.4 Monoamine oxidase inhibitors (MAOIs)
-
-- **MOA:** ↑serotonin and noradrenaline in presynaptic receptors.
-- Not used commonly nowadays due to side effect profile and drug-drug interactions.
-- **Non-selective:** e.g. phenelzine — used in atypical depression.
-- **Selective:** e.g. moclobemide, selegiline, rasagiline.
-- **AE:** hypertensive reactions with tyramine-containing foods (e.g. cheese, pickled herring); anticholinergic effects (dry mouth, constipation, urinary retention, etc).
-
-## 0.5 Selective serotonin reuptake inhibitors (SSRIs)
-
-- **AE:** GI side effects (nausea/vomiting/diarrhoea); ↑risk of GI bleeding; ↑risk of anxiety and agitation after starting; hyponatraemia.
-
-> [!danger] For patients <25 years old, review after 1 week to assess risk of suicide or self-harm.
-
-- **Drug interactions:** NSAIDs — use a PPI; warfarin/heparin — use mirtazapine instead; aspirin — caution (risk-benefit); triptans and MAOIs — ↑risk of serotonin syndrome.
-- **Citalopram & escitalopram:** specific concerns re: dose-dependent QT prolongation — caution in elderly patients, hepatic impairment; avoid in patients with known QT prolongation or on QT-prolonging medications.
-- **Post-MI:** use sertraline.
-- **Children & adolescents:** fluoxetine preferred.
-- **Pregnancy:** use in the 1st trimester increases risk of congenital malformations, especially with paroxetine — DO NOT give. Use in the 3rd trimester increases risk of pulmonary hypertension of the newborn.
-
-> [!info] Discontinuation symptoms — mnemonic "FINISH"
-> - **F**lu-like symptoms (e.g. lethargy).
-> - **I**nsomnia (± nightmares).
-> - **N**ausea ± vomiting.
-> - **I**mbalance (dizziness, vertigo).
-> - **S**ensory disturbances (paraesthesias, shock-like sensations).
-> - **H**yperarousal (anxiety, irritability, agitation, aggression, etc).
-
-## 0.6 Serotonin-noradrenaline reuptake inhibitors (SNRIs)
-
-- E.g. venlafaxine, duloxetine.
-- Side effect profile similar to SSRIs. Relatively newer than SSRIs, therefore a smaller evidence base.
-
-## 0.7 Tricyclic antidepressants (TCAs)
-
-- **MOA:** inhibits reuptake of serotonin and noradrenaline.
-- **AE:** anticholinergic effects (dry mouth, blurred vision, constipation, urinary retention); antihistamine effects (drowsiness — especially with amitriptyline, clomipramine, dosulepin); anti-adrenergic effects (postural hypotension).
-- Amitriptyline is used for neuropathic pain and migraine prophylaxis.
-
-## 0.8 Z-drugs (zopiclone, zolpidem, zaleplon)
-
-- **MOA:** GABA-receptor agonists — similar effect to benzodiazepines.
-- **AE:** similar to benzodiazepines; can cause intense dreams and hallucinations in some patients; ↑risk of falls in the elderly.
-
-
-<!-- ===== SOURCE: 14_06b_Psych_-_Mental_Health_Act_and_Sectioning.md ===== -->
-
-
-> [!danger] Verify everything in this section
-> **The MENTAL HEALTH ACT 2009 (SA) is the governing legislation in South Australia, and mental health law differs substantially between Australian states and territories.**
-> **`UNVERIFIED — every provision below. Order names and levels, durations, who may make and revoke them, review timeframes and forms must be confirmed against the current Act, SA Health policy and your own health service's procedure.`**
-> **Applied here 2026-09-01 from `N1 §0.5 Mental Health Legislation in South Australia`, which carries the same warning over the same subject matter.** Neither layer has verified this content. **If these two sections are ever reconciled, this warning survives the reconciliation** — it is the first thing lost when two versions of a legal section are merged, and it is the reason not to trust either.
-
-> [!warning] `CF-PAIR` — a second treatment of this topic exists in this file
-> **`N1 §0.5 Mental Health Legislation in South Australia`** covers the same Act from the Corpus B layer, with the principles underlying the Act, the order types and the SACAT review pathway. **Both are retained deliberately. Do not merge them** — place them side by side and resolve by hand against the current Act.
-
-> [!info] Localised for South Australia — the original source material described the UK Mental Health Act (sections 2, 3, 4, 5(2), 5(4), 17, 135, 136, and the AMHP process). This file has been rebuilt against the **Mental Health Act 2009 (SA)**, verified via the SA Law Handbook, SACAT, and the Office of the Public Advocate, Aug 2026 — the correct, current legislation for a Flinders/Adelaide context. Australian involuntary treatment law is state/territory-based (e.g. different Acts apply in Victoria, NSW, Queensland, etc, with different terminology, criteria, timeframes, and roles) — if practising outside SA, check the relevant state/territory Act rather than assuming this transfers directly.
-
-## Involuntary treatment — overview
-
-The Mental Health Act 2009 (SA) provides the legal basis for involuntary treatment and care of a person with a mental illness who cannot or will not consent, where community-based care is insufficient. The Act emphasises the **least restrictive** approach — involuntary orders are a last resort, not a default, and the same three-part test underlies every order type below (community and inpatient alike):
-
-> [!info] The core three-part test for any involuntary order
-> (a) the person has a mental illness; **and**
-> (b) because of the mental illness, the person requires treatment for their own protection from harm (including harm from continuation/deterioration of their condition) or for the protection of others from harm; **and**
-> (c) there is no less restrictive means of ensuring appropriate treatment.
-
-Unlike the UK's single "sectioning" terminology, SA distinguishes **Community Treatment Orders (CTOs)** — involuntary treatment while the person lives in the community — from **Inpatient Treatment Orders (ITOs)** — involuntary detention and treatment in a treatment centre — each with their own tiered levels below.
-
-## Community Treatment Orders (CTOs)
-
-- **Level 1 CTO:** maximum 42 days. Can be made by a psychiatrist, authorised medical practitioner, medical practitioner, or authorised mental health professional. The patient must be examined by a psychiatrist or authorised medical practitioner within 24 hours of the order being made (or as soon as possible thereafter if not practicable). The Chief Psychiatrist must be notified.
-- **Level 2 CTO:** maximum 12 months (adults) or 6 months (children). Made by SACAT (the South Australian Civil and Administrative Tribunal) on application — whether or not a Level 1 CTO exists or has previously expired.
-
-## Inpatient Treatment Orders (ITOs)
-
-- **Level 1 ITO:** maximum 7 days' detention. Can be made by a medical practitioner or authorised mental health professional. Must be reviewed within 24 hours by a psychiatrist or authorised medical practitioner — **a different person from whoever made the original order**, a genuine safeguard built into the tiered structure. Can be revoked by a psychiatrist or authorised medical practitioner who has examined the patient at any point during the order.
-- **Level 2 ITO:** maximum 42 days' detention. Made by a psychiatrist or authorised medical practitioner, for a patient already on a Level 1 ITO — the next tier up rather than a standalone starting point.
-- **Level 3 ITO:** maximum 12 months' detention. Made by SACAT — the same Tribunal that makes Level 2 CTOs, reflecting that both represent the longest-duration, most restrictive tier of their respective order type and require independent Tribunal oversight rather than clinician-only authorisation.
-
-> [!info] A patient subject to any level of ITO can be required to receive treatment despite refusing or withholding consent, and must remain in the treatment centre (or in the care/control of staff) unless granted leave of absence — genuinely analogous in effect to UK "sectioning," even though SA doesn't use that term. Involuntary inpatients must be given a statement of rights.
-
-## SACAT (South Australian Civil and Administrative Tribunal)
-
-SACAT is the legal tribunal responsible for making and reviewing the highest-tier orders (Level 3 ITOs, Level 2 CTOs) and for hearing appeals against orders made by clinicians at the lower tiers — the rough functional equivalent of the review/appeal role UK Mental Health Tribunals play, though structured differently. At a hearing, SACAT can confirm, vary, or revoke an order; make an alternative order; or direct that a Treatment and Care Plan be reviewed. An internal review of a SACAT decision must generally be sought within one month; a further appeal to the Supreme Court must generally be made within 14 days of the decision (or of receiving reasons for it).
-
-## Interstate transfer
-
-The Act specifically provides for a person subject to a CTO or ITO to have that order recognised and their treatment continued if they move interstate (and vice versa, for a person moving to SA under an interstate order) — this requires a Ministerial agreement between the relevant jurisdictions. A person transported and detained under these interstate arrangements must still be given a statement of rights.
-
-## Safeguards and oversight
-
-- **Community Visitors:** appointed under the Act to regularly visit and inspect treatment centres and meet with patients — a patient or their family can specifically request to speak with a Community Visitor, a genuine, accessible oversight mechanism distinct from the more formal SACAT review process above.
-- **Chief Psychiatrist:** must be notified of the making, variation, or revocation of several order types (Level 1 CTOs, Level 3 ITOs) — a central oversight role across the system, distinct from any individual patient's treating team.
-
-## Police involvement
-
-Police officers have a role in bringing a person to a treatment centre where an order applies and the person hasn't voluntarily attended, or in returning a patient who has left without leave — see the order-specific provisions above rather than a single UK-style "public place" power. **The specific SA provisions governing police apprehension of a person in the community for urgent mental health assessment (broadly analogous in purpose to the UK's sections 135/136) are not fully detailed in this entry — check the current Mental Health Act 2009 (SA) directly, or local SAPOL/SA Health protocols, for the precise current process if this is operationally relevant**, rather than relying on this summary for that specific scenario.
-
-## Voluntary inpatients
-
-The Act also explicitly provides for voluntary inpatients (Part 3) — a person who consents to admission and treatment without being subject to any order above. Voluntary inpatients must be given a statement of rights, the same as involuntary patients, reflecting the Act's broader emphasis on patient rights regardless of voluntary/involuntary status.
-
-> [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `Guardianship — a related but distinct framework` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: 14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder.md ===== -->
-
-
-## 0.1 Attention deficit hyperactivity disorder (ADHD)
-
-> [!note] Gap-filled from CSV ("Attention Deficit Hyperactivity Disorder (ADHD)," Medium yield) — genuinely absent from the source material despite being one of the most commonly diagnosed neurodevelopmental conditions, in both children and increasingly-recognised adults.
-
-- **D:** a neurodevelopmental disorder characterised by a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development, present in multiple settings (e.g. both home and school/work).
-- **A/P:** genetic factors are strongly implicated (high heritability in twin studies); differences in dopaminergic and noradrenergic neurotransmission and prefrontal cortex function/connectivity are thought to underlie the core symptoms, though the precise mechanism remains incompletely understood.
-- **R:** family history (one of the strongest risk factors); prematurity/low birth weight; prenatal exposure to alcohol, tobacco, or other substances; male sex (though this gap narrows in adult presentations, and inattentive-predominant presentations in girls are classically under-recognised, given the presentation is less disruptive/externalising than the hyperactive-impulsive pattern).
-
-> [!info] Diagnostic criteria (DSM-5, summarised) — symptoms present before age 12, in ≥2 settings, causing clear functional impairment, not better explained by another condition:
-> - **Inattentive presentation** (≥6 symptoms in children, ≥5 in adults ≥17yo): fails to give close attention to detail/makes careless mistakes; difficulty sustaining attention; doesn't seem to listen when spoken to directly; doesn't follow through on instructions/fails to finish tasks; difficulty organising tasks; avoids tasks requiring sustained mental effort; loses things necessary for tasks; easily distracted; forgetful in daily activities.
-> - **Hyperactive-impulsive presentation** (same symptom-count thresholds): fidgets/squirms; leaves seat when remaining seated is expected; runs/climbs excessively (or subjective restlessness in adults); unable to play/engage in leisure activities quietly; "on the go," acting as if "driven by a motor"; talks excessively; blurts out answers before a question is completed; difficulty waiting their turn; interrupts or intrudes on others.
-> - **Combined presentation:** criteria met for both inattentive and hyperactive-impulsive presentations.
-
-- **S/Smx:** as per the diagnostic criteria above — the specific presentation pattern (inattentive vs hyperactive-impulsive vs combined) genuinely varies by individual and can shift over the lifespan, with hyperactive-impulsive symptoms often becoming less overtly disruptive in adulthood while inattentive symptoms and internal restlessness persist; commonly coexists with learning difficulties, anxiety, depression, and oppositional/conduct problems in children — actively screening for these coexisting conditions matters, given they can be missed if ADHD symptoms dominate the clinical picture, or conversely can be misattributed as "just the ADHD" when they need separate attention.
-- **Ix:** primarily a clinical diagnosis based on a detailed developmental history (from the patient and, particularly in children, collateral history from parents/caregivers and teachers, given the requirement for symptoms across multiple settings) — there is no single confirmatory blood test or imaging study; standardised rating scales (e.g. Conners' scales, or the ADHD Rating Scale) support but don't replace clinical assessment; a general physical/developmental assessment and screening for other conditions that can mimic or coexist with ADHD (hearing/vision problems, sleep disorders, learning difficulties, anxiety/mood disorders, autism spectrum features) is an important part of a thorough work-up, given the differential is broad and misdiagnosis in either direction (missing a mimic, or missing genuine coexisting ADHD) has real consequences.
-- **Mx:**
-  - **Immediate/acute:** not an acute condition in the way many entries in this project are — management is fundamentally about establishing an accurate diagnosis and a structured long-term plan rather than urgent stabilisation.
-  - **Definitive (children):** behavioural/psychosocial interventions (parent training programs, classroom-based strategies, structured routines) are typically first-line, particularly for milder presentations or younger children; stimulant medication (e.g. methylphenidate, dexamfetamine/lisdexamfetamine) is a well-evidenced, effective treatment for moderate-severe ADHD, usually initiated and monitored by a specialist (paediatrician or child psychiatrist) given the need for careful titration, growth/cardiovascular monitoring, and regulatory requirements around prescribing stimulant medications; non-stimulant options (e.g. atomoxetine) exist for patients who don't tolerate or respond to stimulants, or where stimulants are contraindicated.
-  - **Definitive (adults):** increasingly recognised as a condition that persists into adulthood for a substantial proportion of those diagnosed in childhood, and can also be diagnosed for the first time in adulthood — the same general treatment principles apply (behavioural strategies, medication), with genuine growing awareness that adult ADHD has historically been under-recognised, particularly in women and in inattentive-predominant presentations.
-  - **Chronic/long-term:** regular review of symptom control, medication adverse effects (appetite suppression, sleep disturbance, growth trajectory in children, cardiovascular monitoring given stimulant effects on heart rate/blood pressure), and functional outcomes (academic/occupational performance, relationships); psychoeducation for the patient and family about the condition given the substantial impact of untreated ADHD on self-esteem, academic/occupational trajectory, and relationship functioning over time.
-- **Complications:** untreated ADHD is associated with increased risk of academic underachievement, occupational difficulties, relationship problems, substance misuse, and higher rates of accidents/injuries (including road traffic accidents in adults, relevant to driving safety) — genuinely important context for why treatment matters beyond symptom control alone, given these downstream functional consequences.
-
-
-<!-- ===== SOURCE: 14a-1_Psych_-_Substance_Misuse__Recreational_Drug_Profiles_.md ===== -->
-
-
-## Alcohol use disorder
-
-> [!warning] FLAG 2026-09-01 — `M-5` alcohol withdrawal is in four places across three files
-> This section already points at `[[03_Gastrointestinal]] Alcohol withdrawal` twice (lines 934 and 938)
-> as *"the full AU-verified management"* — **those pointers are correct and stay.**
-> The other copies: `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` (now in this same file, below) and
-> `Neuro_merged 04_Neurology ### Alcohol Withdrawal Seizures`.
-> **The GI pass recorded three; the Neuro pass found the fourth.** Flagged; nothing merged.
-
-> [!note] Gap-filled from CSV ("Alcohol and alcohol related diseases, substance abuse," Medium yield) — this entry covers the psychiatric diagnosis and screening approach specifically; the physical complications (alcohol-related liver disease) and withdrawal management are already thoroughly built in [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) and Alcohol withdrawal, not repeated here.
-
-- **D:** a problematic pattern of alcohol use leading to clinically significant impairment or distress — DSM-5 uses a single unified "alcohol use disorder" diagnosis (replacing the older separate "abuse" and "dependence" categories), graded mild/moderate/severe by symptom count rather than treated as two distinct conditions.
-
-> [!info] Diagnostic criteria (DSM-5, summarised) — ≥2 of the following within a 12-month period (2–3 = mild, 4–5 = moderate, ≥6 = severe):
-> - Alcohol often taken in larger amounts or over a longer period than intended.
-> - Persistent desire or unsuccessful efforts to cut down or control use.
-> - A great deal of time spent obtaining, using, or recovering from alcohol.
-> - Craving, or a strong desire/urge to use alcohol.
-> - Recurrent use resulting in failure to fulfil major role obligations (work, school, home).
-> - Continued use despite persistent social/interpersonal problems caused or worsened by alcohol.
-> - Important social, occupational, or recreational activities given up or reduced because of use.
-> - Recurrent use in physically hazardous situations (e.g. driving).
-> - Continued use despite knowledge of a persistent physical or psychological problem caused or worsened by alcohol.
-> - Tolerance (needing markedly increased amounts for the same effect, or markedly diminished effect with continued use of the same amount).
-> - Withdrawal (the characteristic withdrawal syndrome — see [[03_Gastrointestinal]] Alcohol withdrawal for the full clinical detail, not repeated here — or drinking to relieve/avoid withdrawal symptoms).
-
-- **Ix (screening):** **AUDIT-C** (a brief 3-question version of the full AUDIT, quick enough for routine opportunistic screening in primary care) or the full **AUDIT — the Alcohol Use Disorders Identification Test** (10 questions, more detailed risk stratification); **CAGE** (Cut down, Annoyed, Guilty, Eye-opener — a simpler, older screening tool, less sensitive than AUDIT but quick to remember and apply) — a positive screen on any of these should prompt a fuller clinical assessment against the diagnostic criteria above, not be treated as diagnostic on its own. Bloods (FBC for macrocytosis, LFTs including GGT) can support clinical suspicion but are neither sensitive nor specific enough to screen for or diagnose alcohol use disorder alone — see [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) for the full disease-level Ix detail these findings feed into, not repeated here.
-- **Mx:**
-  - **Immediate/acute:** assess and manage withdrawal risk if the patient is planning or attempting to stop/reduce — see [[03_Gastrointestinal]] Alcohol withdrawal for the full AU-verified management (diazepam-based regimen, thiamine), not repeated here; brief intervention (a short, structured conversation about drinking and its risks) has genuine evidence of benefit even as a single opportunistic encounter, particularly for less severe presentations.
-  - **Definitive:** psychological therapies (motivational interviewing, CBT) are central to longer-term treatment; pharmacological options for relapse prevention/reducing cravings include naltrexone, acamprosate, and disulfiram (the latter works via an aversive reaction to alcohol ingestion, requiring genuine patient commitment given the unpleasant reaction if alcohol is consumed while taking it) — specialist drug and alcohol service input is appropriate for moderate-severe presentations.
-  - **Chronic/long-term:** thiamine supplementation is important in patients with ongoing heavy alcohol use given the risk of Wernicke's encephalopathy/Korsakoff syndrome from thiamine deficiency (see [[04_Neurology]] for the relevant neurological detail, not repeated here); regular follow-up and relapse prevention planning, given relapse is a common part of the recovery trajectory rather than a treatment failure requiring the patient to "start over" from a punitive standpoint.
-
-## Cannabis
-
-- Aka marijuana, pot, weed, etc. THC is considered the primary psychoactive compound, but there are 500+ chemicals in cannabis.
-- **CNS & psych** (dependent on the individual):
-  - In some: euphoria, relaxation, sedation, ↑appetite, ↓short-term memory, ↓concentration, ↓coordination.
-  - In others: anxiety, panic attacks, paranoia, psychosis (including delusions, hallucinations) — especially at higher doses.
-- **Cardiovascular:** ↑HR, ↑BP, chest pain, palpitations, ECG changes.
-- **Renal:** AKI.
-- **Muscular:** hypertonia, myoclonus, muscle jerking and myalgia.
-- **Others:** cold extremities, dry mouth, dyspnoea, mydriasis, vomiting and hypokalaemia, conjunctival injection.
-- **Mx:** supportive treatment for symptoms; psychosocial support for reducing and controlling use. No approved medications.
-
-## Cocaine
-
-- Alkaloid derived from the coca plant.
-- **MOA:** blocks uptake of dopamine, noradrenaline and serotonin.
-- **CNS:** seizures, mydriasis, hypertonia, hyperreflexia. Psych: agitation, psychosis, hallucinations.
-
-> [!danger] Cardiovascular: coronary artery spasm (which can cause MI), ↑HR or ↓HR, ↑BP, ECG changes (QT prolongation, widening), aortic dissection.
-
-- **Others:** ischaemic colitis, hyperthermia, metabolic acidosis, rhabdomyolysis.
-- **Mx:** benzodiazepines.
-  - Chest pain: benzodiazepines + GTN. If MI, do PCI (see [[01_Cardiovascular]] 0.1 Acute Coronary Syndrome (ACS), not repeated here).
-  - Hypertension: benzodiazepines + sodium nitroprusside.
-
-> [!danger] DO NOT give beta-blockers in cocaine toxicity (risk of unopposed alpha-mediated vasoconstriction/coronary spasm).
-
-## MDMA / Ecstasy
-
-- **MOA:** stimulates the release of dopamine, norepinephrine, serotonin.
-- **CNS:** ataxia. Psych: acute reactions ("bad trips"), impaired judgment (→ injury), euphoria or dysphoria, agitation, psychosis.
-- **Cardiovascular:** ↑HR, ↑BP.
-- **Renal:** hyponatraemia (secondary to SIADH or ↑water intake).
-- **Others:** hyperthermia, rhabdomyolysis.
-- **Mx:** supportive treatment. Dantrolene if severe hyperthermia.
-
-> [!note] Methamphetamine works similarly to MDMA.
-
-## Lysergic acid diethylamide (LSD)
-
-- Synthetic hallucinogen with psychedelic effects — distorts sensory stimuli and enhances feelings & introspection.
-- **CNS:** headache, dizziness, incoordination, numbness, tremors. Psych: euphoria, altered perceptions, hallucinations, anxiety, paranoia.
-- **Others:** hypoxia, hypothermia, ↑HR, ↑BP.
-
-## Nitrous oxide
-
-- Aka whippets, balloons, laughing gas.
-- **MOA:** dissociative anaesthetic; blocks NMDA receptors (↓pain), induces euphoria and relaxation + ↑release of endogenous opioids and dopamine.
-- **CNS:** tremors, paraesthesias, mydriasis, hyperreflexia, headache, drowsiness.
-- **Cardiovascular:** ↑HR, ↑BP, palpitations.
-- **Others:** nausea/vomiting, dry mouth, pyrexia.
-
-> [!danger] Long-term effects: vitamin B12 deficiency → subacute combined degeneration of the spinal cord & anaemia. Also psychological issues, and direct harm from inhaling gas — lung damage, barotrauma, frostbite.
-
-- **Mx:** according to symptoms. Agitation — if reassurance fails, benzodiazepine. Psychosis — may require antipsychotics. Massive ingestions may require ICU care (e.g. intubation & ventilation).
-
-## Opioid misuse
-
-> [!note] See [[04_Neurology]] Opioid Toxicity for the general toxidrome, Ix approach, and re-sedation/monitoring principles after naloxone reversal — this entry focuses on the substance-misuse-specific detail (complications of injecting drug use, long-term opioid substitution therapy) that entry doesn't cover, not repeated here.
-
-- Includes a wide range of drugs (morphine, heroin, codeine, buprenorphine, methadone, fentanyl, etc).
-- **MOA:** stimulates mu, kappa and delta-opioid receptors to mediate analgesia pre- and post-synaptically.
-- **S/Smx:** pinpoint pupils (miosis), drowsiness, ↓RR, rhinorrhoea, ± needle track marks.
-- **Complications:** viral infection secondary to sharing needles (e.g. HIV); bacterial infection secondary to sharing needles (e.g. infective endocarditis, septic arthritis); VTE; respiratory depression, coma, death.
-
-### Acute management
-
-> [!danger] IV or IM naloxone — 400mcg, then 800mcg (up to 2 doses at 1 minute intervals), then 2mg (1 dose), then 4mg.
-
-### Long-term management
-
-- Methadone or buprenorphine.
-  - Methadone: full agonist of the µ-opioid receptor; helps relieve withdrawal symptoms and cravings.
-  - Buprenorphine: partial agonist at the µ-opioid receptor, antagonist at the κ-receptor; similar effect to methadone and helps ↓depressive and dysphoric states.
-- Compliance monitored by urinalysis.
-- Detox for 4 weeks in an inpatient facility, then 12 weeks in the community.
-
-> [!info] Verified against Australian Prescriber and NSW Health opioid dependence guidelines, Aug 2026 — methadone and buprenorphine are correctly the two core Australian-approved medicines for opioid dependence treatment (both are equally effective), so the drug choice itself doesn't need correcting. One genuinely significant update not in the original note: **long-acting injectable buprenorphine (LAIB)** — weekly or monthly depot formulations — has been PBS-subsidised in Australia since September 2019, with access expanded to non-specialist (primary care) prescribing from April 2020, and represents a meaningful shift from daily supervised dosing toward much less frequent dosing for suitable patients. Prescribing regulations for opioid dependence treatment are genuinely state/territory-based in Australia (differing training and authorisation requirements by jurisdiction) — check local health department guidance for the specific current process. I could not confirm a clean Australian-specific equivalent of the "4 weeks inpatient then 12 weeks community" detox duration figure below — this specific timeframe should be verified against current state guidelines or eTG directly rather than assumed, given detox pathways are one of the more genuinely jurisdiction-variable aspects of this area.
-
-## Gambling disorder (gambling-related harms)
-
-> [!note] Gap-filled from CSV ("Gambling-related harms," Medium yield) — genuinely absent from this project despite being the only behavioural (non-substance) addiction formally recognised in DSM-5's substance-related and addictive disorders category, reflecting genuine shared neurobiological and clinical overlap with the substance use disorders in this file, which is why it's included here rather than in a disease file elsewhere.
-
-- **D:** persistent and recurrent problematic gambling behaviour leading to clinically significant impairment or distress — the only behavioural addiction currently classified alongside substance use disorders in DSM-5, reflecting evidence of shared underlying reward-pathway mechanisms with substance addictions rather than being grouped with impulse-control disorders.
-- **A/P:** dysregulation of the same dopaminergic reward pathways implicated in substance addiction — the intermittent, variable reinforcement pattern inherent to gambling (unpredictable wins) is itself thought to be a particularly potent driver of this reward-pathway dysregulation, analogous to how variable-ratio reinforcement schedules are known to be especially resistant to extinction in behavioural psychology more broadly.
-
-> [!info] Diagnostic criteria (DSM-5, summarised) — ≥4 of the following within a 12-month period, causing significant distress or impairment:
-> - Needs to gamble with increasing amounts of money to achieve the desired excitement (tolerance).
-> - Restless or irritable when attempting to cut down or stop gambling (withdrawal-like pattern).
-> - Repeated unsuccessful efforts to control, cut back, or stop gambling.
-> - Preoccupied with gambling (e.g. reliving past experiences, planning the next venture, thinking of ways to get money to gamble).
-> - Often gambles when feeling distressed (helpless, guilty, anxious, depressed).
-> - After losing money, often returns another day to get even ("chasing" losses).
-> - Lies to conceal the extent of involvement with gambling.
-> - Has jeopardised or lost a significant relationship, job, or educational/career opportunity because of gambling.
-> - Relies on others to provide money to relieve a desperate financial situation caused by gambling.
-
-- **S/Smx:** the behavioural pattern above; commonly coexists with substance use disorders, mood disorders, and anxiety disorders — actively screening for these coexisting conditions matters, following the same general principle established for other addictive/psychiatric conditions throughout this project; significant financial, relationship, occupational, and legal harms are common downstream consequences given the behaviours described above (concealment, chasing losses, reliance on others for money).
-- **Ix:** primarily a clinical diagnosis based on the history above; screening tools exist (e.g. the Problem Gambling Severity Index) to support assessment and gauge severity, though a full clinical history remains central; screen for coexisting substance use and mental health conditions given the associations above, and assess for the downstream harms (financial, relationship, legal) given these are often what actually brings the harm to clinical attention rather than the gambling behaviour itself being volunteered.
-- **Mx:**
-  - CBT is the psychological treatment with the strongest evidence base, addressing the cognitive distortions common in problem gambling (e.g. beliefs about being "due" for a win, or that a pattern can be predicted from past outcomes).
-  - Motivational interviewing techniques can help given ambivalence about stopping is common, similar in spirit to substance use disorder treatment approaches.
-  - Self-exclusion programs (voluntarily restricting one's own access to gambling venues/platforms) are a practical, widely-available harm-reduction tool worth discussing directly with patients.
-  - Treat coexisting substance use and mental health conditions actively, given the strong association above and the way untreated coexisting conditions can undermine gambling-specific treatment.
-  - Financial and relationship counselling referral where appropriate, given the substantial downstream harms described above often need addressing in their own right alongside the gambling behaviour itself.
-  - In Australia, **Gambling Help Online** and state-based gambling help services are relevant support resources worth being aware of, given gambling harm services are typically state-funded and vary by jurisdiction.
-
-
-<!-- ===== SOURCE: 14a-2_Psych_-_Overdose_and_Poisoning_Management.md ===== -->
-
-
-> [!warning] This is a quick-reference antidote table only — always confirm doses and current protocols against Australian poisons information (Poisons Information Centre 13 11 26) and eTG before treating any overdose.
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.1 Overdose / poisoning — management by agent` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.2 Digoxin toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.3 Salicylate toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Tricyclic antidepressant toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
 <!-- ===== SOURCE: N1_Mental_State_Examination_and_Risk.md ===== -->
 
 
@@ -1288,6 +223,79 @@ The Act also explicitly provides for voluntary inpatients (Part 3) — a person 
 > Delirium and altered consciousness → [[D2]] 0.1–0.2 · Hyperthermic drug syndromes and catatonia → [[A6]] 0.3 and [[D6]] 0.7 · Autoimmune encephalitis → [[D1]] 0.5 · Non-convulsive status → [[D6]] 0.2 · Poisoning, overdose and paracetamol → [[A5]] and [[F0.1]] · Capacity, consent and substitute decision-making → [[A10]] 0.1–0.3 · Mood disorders → [[N4]] · Psychosis and antipsychotics → [[N3]] · Anxiety, trauma and functional disorders → [[N6]] · Substance use → [[N7]] · Eating disorders → [[N8]] · Personality and recurrent self-harm → [[N5]] · Aboriginal and Torres Strait Islander social and emotional wellbeing → [[AU1]] 0.4 · Thyroid and adrenal causes → [[I1]] and [[I4]] · QT prolongation → [[B3]] 0.3 · Communication and breaking bad news → [[GER5]]
 
 
+<!-- ===== SOURCE: NEW_Psychiatry.md ===== -->
+
+
+# NEW — Psychiatry
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains the one Tier 1 Psychiatry topic only.** The category has 1 T1, 3 T2 and 59 T3 topics — the largest T3 backlog on the list. See the build-status table at the end.
+
+## Acute Behavioural Disturbance
+
+- **D:** a state of severe agitation, aggression or disturbed behaviour posing risk to the patient or others. **Acute behavioural disturbance is a presentation, not a diagnosis** — and treating it as a psychiatric problem before excluding a medical one is the error that kills people in this presentation.
+- **The governing fact, and the reason this is Tier 1:** across Australian and international sources, **only a minority of acute behavioural disturbance is purely psychiatric — commonly quoted as around 10–20%.** The majority has a medical, neurological or toxicological driver, and **several of those causes are rapidly fatal if sedated and left unassessed.**
+- **DDx:**
+  - **Immediately reversible and immediately checkable:** **hypoglycaemia** (checked in every patient, before anything else), **hypoxia**, **hypercapnia**, **shock and hypoperfusion**, **head injury** — including a fall the patient cannot report.
+  - **Delirium from any systemic cause:** sepsis (urinary, respiratory, intra-abdominal, **meningitis and encephalitis**), electrolyte disturbance (**hyponatraemia, hypercalcaemia**), uraemia, hepatic encephalopathy, thyroid disease, **Wernicke's encephalopathy**, post-ictal state, **non-convulsive status epilepticus**, urinary retention, constipation, pain.
+  - **Toxicological:** **stimulant intoxication (methamphetamine, cocaine, MDMA)**, synthetic cannabinoids, anticholinergic toxicity, serotonin syndrome, neuroleptic malignant syndrome, **alcohol and benzodiazepine withdrawal**, opioid withdrawal, and **prescribed medications — corticosteroids, dopaminergic agents, anticholinergics**.
+  - **Neurological/structural:** stroke, intracranial haemorrhage, **subdural haematoma**, tumour, dementia with behavioural and psychological symptoms, autoimmune encephalitis, hypoxic brain injury.
+  - **Primary psychiatric:** psychosis (schizophrenia, drug-induced), **mania**, severe agitated depression, personality disorder in crisis, autism or intellectual disability with distress in an overstimulating environment, acute stress reaction, panic.
+- **Focused Hx:** frequently limited by the presentation, so **collateral is essential** — family, carers, residential staff, ambulance, police, the GP, and the patient's own previous records, which often contain the diagnosis. Establish: **onset and time course** (**abrupt onset in a person with no psychiatric history is a medical cause until proven otherwise**); **fluctuation and conscious level** (fluctuating attention points to delirium, not psychosis); **visual hallucinations** (more suggestive of an organic cause than the auditory hallucinations typical of primary psychosis); **substance use — what, how much, when, and withdrawal timelines**; **complete medication history including recent changes and non-adherence**; head injury and falls; fever and infective symptoms; known psychiatric and medical history; previous episodes and what helped; **and the patient's own account of what is distressing them**, which is both clinically informative and the foundation of de-escalation.
+- **Examination:** the practical difficulty is that examination may be limited by safety, so **prioritise and take what you can get.**
+  - **Non-negotiable minimum: capillary glucose, oxygen saturation, pulse, blood pressure, temperature, respiratory rate, and conscious level.** If the patient will not permit even these, that itself is a reason for escalation, not for deferring assessment.
+  - **Pupils** (pinpoint, dilated), **skin** (diaphoresis, flushing, dryness, needle marks, patches), **hydration**, **tremor and clonus** (serotonin syndrome), **rigidity** (neuroleptic malignant syndrome), **temperature — hyperthermia is a critical finding** in stimulant toxicity, serotonin syndrome and NMS.
+  - **Focal neurological signs**, gait, and evidence of head injury.
+  - **Full physical examination as soon as it is safely possible** — including after sedation, which is when a proper examination and investigation must actually happen rather than being forgotten.
+- **First-line Ix:** **capillary glucose immediately.** Then, as safety permits: **venous blood gas with lactate, sodium and potassium** (fast and high-yield), **FBC, UEC, calcium, magnesium, LFTs, CRP, TFTs, creatine kinase** (rhabdomyolysis from prolonged struggle or restraint — a genuine and under-recognised complication), **paracetamol level and a targeted toxicology screen** where overdose is possible, **ethanol**, **blood cultures if febrile**, **urinalysis and culture**, **ECG** (**QT interval before and after sedating drugs, and arrhythmia in stimulant toxicity**), **chest X-ray**, **CT brain** where there is head injury, focal signs, anticoagulation, or an unexplained picture, and **lumbar puncture** where CNS infection is suspected.
+
+> [!warning] **Management principles at intern level — the parts that are yours.**
+> - **De-escalation comes first and works.** Australian guidance is consistent that **a single nominated staff member should lead communication**, in a low-stimulus environment, with a calm approach, clear simple language, offered choices, attention to the patient's stated concerns, and to basic needs — pain relief, food, warmth, a quiet space, a phone call.
+> - **Address the reversible physical drivers while de-escalating** — glucose, oxygen, pain, urinary retention, and withdrawal.
+> - **Sedation is a medical intervention with medical risks** — airway obstruction, respiratory depression, hypotension, aspiration, arrhythmia and, with prolonged restraint, rhabdomyolysis and cardiac arrest. **A sedated patient requires the same monitoring as any sedated patient**: continuous observation, oxygen saturation, blood pressure, respiratory rate and conscious level, on a documented schedule.
+> - **Restraint is a last resort, is time-limited, requires documentation, and carries its own mortality**, particularly with prone restraint and struggle-related hyperthermia and acidosis.
+> - **Know the legal framework you are working under** — assessment and treatment without consent is governed by state mental health legislation and by common-law duty of care in an emergency, and the specific provisions differ between Australian states and territories.
+>
+> **Specific sedative agents, doses and routes are deliberately omitted.** Every Australian state health service publishes its own acute behavioural disturbance sedation protocol, they differ from each other, they are age- and weight-stratified, and all of them are egress-blocked in this environment. **Use your hospital's protocol.** Reproducing a sedation dose from memory for an agitated, possibly stimulant-intoxicated patient is exactly the failure mode this project exists to prevent.
+
+---
+
+## Build status of this file
+
+| Tier | Count | Status |
+|---|---|---|
+| **T1** | 1 | **Built** — Acute Behavioural Disturbance |
+| T2 | 3 | Not built — Acute Agitation, Acute Anxiety, Acute Severe Anxiety |
+| T3 | 59 | Not built — the largest T3 backlog of any category |
+
+## Topics skipped in this category
+
+All four skips are T3.
+
+| Topic | Matched header | File | Match type |
+|---|---|---|---|
+| **Insomnia** | `## Insomnia` | `14_05b_Psych_-_Insomnia.md` | Exact |
+| **Self-Harm** | `## Self-harm (including non-suicidal self-injury)` | `14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_.md` | Exact |
+| **Generalised Anxiety** | `## Generalised anxiety disorder (GAD)` | `14_02_Psych_-_Anxiety_and_Related_Disorders.md` | Partial |
+| **Somatic Symptom** | `## Somatic symptom disorder (somatisation disorder)` | `14_05c_Psych_-_Unexplained_Symptoms...` | Partial |
+
+### Near-misses deliberately **built-eligible** rather than skipped — for review when T3 is reached
+
+| Topic | Header it partially matched | Why not skipped |
+|---|---|---|
+| **Anxiety** | `Generalised anxiety disorder (GAD)`, `Illness anxiety disorder` | Both are **specific diagnoses**; anxiety as an undifferentiated presentation has a wider differential including organic causes. |
+| **Anorexia** | `Anorexia nervosa` | **Different concepts.** Anorexia the symptom is loss of appetite; anorexia nervosa is an eating disorder. Treating the header as a match would leave appetite loss uncovered. |
+| **Hyperactivity** | `Attention deficit hyperactivity disorder (ADHD)` | Hyperactivity as a presenting symptom has a differential beyond ADHD. |
+
+---
+
+# 2 Block-5 moves merged in (2026-09-01)
+
+> [!info] **Block 5.** `B-10` puerperal psychosis was held — it and `Y-2` point at each other in opposite directions.
+
 <!-- ===== SOURCE: N2_Acute_Behavioural_Disturbance_and_Substance_Use.md ===== -->
 
 
@@ -1472,226 +480,221 @@ The Act also explicitly provides for voluntary inpatients (Part 3) — a person 
 > De-escalation, sedation, restraint and the Mental Health Act → [[N1]] 0.4–0.5 · Medical causes of psychiatric presentation → [[N1]] 0.6 · Delirium and dementia → [[D2]] 0.2–0.3 · Wernicke encephalopathy and thiamine → [[C2]] 0.7 and [[D2]] 0.5 · Opioid overdose and toxidromes → [[F0.1]] 0.2 · Hyperthermia and serotonin toxicity → [[A6]] 0.2–0.3 · Rhabdomyolysis → [[A7]] 0.6 · Stimulant chest pain and stroke → [[B1]] and [[D3]] 0.4 · Hyponatraemia → [[I5]] 0.5 · Magnesium and electrolytes → [[I3]] 0.6 · Liver disease and hepatic encephalopathy → [[C3]] · Cannabinoid hyperemesis → [[C2]] 0.6 · Subacute combined degeneration → [[D4]] 0.2 · Psychosis and antipsychotics → [[N3]] · Opioid agonist treatment perioperatively → [[AN1]] 0.6 · Child protection and dependants → [[GER4]] · Open disclosure → [[A10]] 0.5 · Volatile substance use in remote communities → [[AU1]]
 
 
-<!-- ===== SOURCE: N3_Psychosis_and_Antipsychotics.md ===== -->
+<!-- ===== SOURCE: 14a-1_Psych_-_Substance_Misuse__Recreational_Drug_Profiles_.md ===== -->
 
 
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and adverse effect patterns are reliable at intern level. **Every dose, monitoring interval, diagnostic criterion and threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, RANZCP clinical practice guidelines, and — for clozapine — the mandatory monitoring requirements of the relevant patient monitoring system, which are legally binding.
->
-> **The mental state examination and risk assessment are built in [[N1]]**, **medical causes of psychosis in [[N1]] 0.6**, and **substance-induced psychosis in [[N2]] 0.3** — each is cross-referenced rather than repeated.
+## Alcohol use disorder
 
----
+> [!warning] FLAG 2026-09-01 — `M-5` alcohol withdrawal is in four places across three files
+> This section already points at `[[03_Gastrointestinal]] Alcohol withdrawal` twice (lines 934 and 938)
+> as *"the full AU-verified management"* — **those pointers are correct and stay.**
+> The other copies: `N2 §0.1 Alcohol Withdrawal and Delirium Tremens` (now in this same file, below) and
+> `Neuro_merged 04_Neurology ### Alcohol Withdrawal Seizures`.
+> **The GI pass recorded three; the Neuro pass found the fourth.** Flagged; nothing merged.
 
-## 0.1 The First Episode of Psychosis
+> [!note] Gap-filled from CSV ("Alcohol and alcohol related diseases, substance abuse," Medium yield) — this entry covers the psychiatric diagnosis and screening approach specifically; the physical complications (alcohol-related liver disease) and withdrawal management are already thoroughly built in [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) and Alcohol withdrawal, not repeated here.
 
-> [!tip] Positive and negative symptoms — and why the negative ones matter more
-> **POSITIVE symptoms — delusions, hallucinations, disorganised thought and speech, disorganised or catatonic behaviour.** These are what bring people to attention and what antipsychotics treat best.
-> **NEGATIVE symptoms — AVOLITION (loss of motivation), ALOGIA (poverty of speech), ANHEDONIA, affective FLATTENING, and ASOCIALITY.**
-> **The negative symptoms typically PRECEDE the positive ones, PERSIST after they are treated, and account for MOST of the long-term functional impairment.**
-> **They are also routinely misattributed — to depression, to laziness, to "not trying", to medication side effects, or to the person's personality.** **Recognising them as symptoms changes how families and clinicians respond**, and it is one of the more useful things to explain.
+- **D:** a problematic pattern of alcohol use leading to clinically significant impairment or distress — DSM-5 uses a single unified "alcohol use disorder" diagnosis (replacing the older separate "abuse" and "dependence" categories), graded mild/moderate/severe by symptom count rather than treated as two distinct conditions.
 
-> [!danger] Duration of untreated psychosis predicts outcome — and this drives the whole service model
-> **The longer psychosis goes untreated, the worse the outcomes: slower and less complete remission, greater functional decline, and worse long-term prognosis.**
-> **This is the evidence base behind EARLY INTERVENTION services**, and Australia has been internationally influential here — **the EPPIC model and the headspace network originated in Australian work.**
-> **Practical implication: a young person with emerging psychotic symptoms should be referred to an early intervention or youth mental health service promptly, not observed to see whether it declares itself.**
-> `UNVERIFIED — current service names, eligibility and referral pathways.`
+> [!info] Diagnostic criteria (DSM-5, summarised) — ≥2 of the following within a 12-month period (2–3 = mild, 4–5 = moderate, ≥6 = severe):
+> - Alcohol often taken in larger amounts or over a longer period than intended.
+> - Persistent desire or unsuccessful efforts to cut down or control use.
+> - A great deal of time spent obtaining, using, or recovering from alcohol.
+> - Craving, or a strong desire/urge to use alcohol.
+> - Recurrent use resulting in failure to fulfil major role obligations (work, school, home).
+> - Continued use despite persistent social/interpersonal problems caused or worsened by alcohol.
+> - Important social, occupational, or recreational activities given up or reduced because of use.
+> - Recurrent use in physically hazardous situations (e.g. driving).
+> - Continued use despite knowledge of a persistent physical or psychological problem caused or worsened by alcohol.
+> - Tolerance (needing markedly increased amounts for the same effect, or markedly diminished effect with continued use of the same amount).
+> - Withdrawal (the characteristic withdrawal syndrome — see [[03_Gastrointestinal]] Alcohol withdrawal for the full clinical detail, not repeated here — or drinking to relieve/avoid withdrawal symptoms).
 
-> [!warning] The prodrome is where the opportunity is, and it is non-specific
-> **Months to years of: social withdrawal · decline in school, work or self-care · sleep disturbance · odd or magical beliefs · suspiciousness · perceptual oddities · reduced motivation · and a sense that something has changed.**
-> **It looks like adolescence, depression, or drug use — which is why it is missed.**
-> **The signal is a sustained CHANGE from the person's own baseline, particularly a functional decline, reported by someone who knows them well.** **Collateral history is what makes this visible.**
+- **Ix (screening):** **AUDIT-C** (a brief 3-question version of the full AUDIT, quick enough for routine opportunistic screening in primary care) or the full **AUDIT — the Alcohol Use Disorders Identification Test** (10 questions, more detailed risk stratification); **CAGE** (Cut down, Annoyed, Guilty, Eye-opener — a simpler, older screening tool, less sensitive than AUDIT but quick to remember and apply) — a positive screen on any of these should prompt a fuller clinical assessment against the diagnostic criteria above, not be treated as diagnostic on its own. Bloods (FBC for macrocytosis, LFTs including GGT) can support clinical suspicion but are neither sensitive nor specific enough to screen for or diagnose alcohol use disorder alone — see [[03_Gastrointestinal]] Alcohol-Related Liver Disease (ArLD) for the full disease-level Ix detail these findings feed into, not repeated here.
+- **Mx:**
+  - **Immediate/acute:** assess and manage withdrawal risk if the patient is planning or attempting to stop/reduce — see [[03_Gastrointestinal]] Alcohol withdrawal for the full AU-verified management (diazepam-based regimen, thiamine), not repeated here; brief intervention (a short, structured conversation about drinking and its risks) has genuine evidence of benefit even as a single opportunistic encounter, particularly for less severe presentations.
+  - **Definitive:** psychological therapies (motivational interviewing, CBT) are central to longer-term treatment; pharmacological options for relapse prevention/reducing cravings include naltrexone, acamprosate, and disulfiram (the latter works via an aversive reaction to alcohol ingestion, requiring genuine patient commitment given the unpleasant reaction if alcohol is consumed while taking it) — specialist drug and alcohol service input is appropriate for moderate-severe presentations.
+  - **Chronic/long-term:** thiamine supplementation is important in patients with ongoing heavy alcohol use given the risk of Wernicke's encephalopathy/Korsakoff syndrome from thiamine deficiency (see [[04_Neurology]] for the relevant neurological detail, not repeated here); regular follow-up and relapse prevention planning, given relapse is a common part of the recovery trajectory rather than a treatment failure requiring the patient to "start over" from a punitive standpoint.
 
-> [!tip] What the first assessment must achieve
-> **· A full mental state examination and risk assessment** — cross-refer [[N1]].
-> **· COLLATERAL HISTORY — essential, and it is where the timeline and functional decline come from.**
-> **· A FULL MEDICAL WORKUP. First-episode psychosis mandates exclusion of organic causes** — cross-refer [[N1]] 0.6 and 0.3 below.
-> **· A substance use history, including synthetic and novel substances.**
-> **· ENGAGEMENT.** **A young person's first experience of mental health services predicts their engagement for years afterwards.** A coercive, frightening or dismissive first contact has long consequences. **Take the time, explain what is happening, involve them in decisions where possible, and involve family with consent.**
+## Opioid misuse
 
----
+> [!note] See [[04_Neurology]] Opioid Toxicity for the general toxidrome, Ix approach, and re-sedation/monitoring principles after naloxone reversal — this entry focuses on the substance-misuse-specific detail (complications of injecting drug use, long-term opioid substitution therapy) that entry doesn't cover, not repeated here.
 
-## 0.2 Schizophrenia and Related Disorders
+- Includes a wide range of drugs (morphine, heroin, codeine, buprenorphine, methadone, fentanyl, etc).
+- **MOA:** stimulates mu, kappa and delta-opioid receptors to mediate analgesia pre- and post-synaptically.
+- **S/Smx:** pinpoint pupils (miosis), drowsiness, ↓RR, rhinorrhoea, ± needle track marks.
+- **Complications:** viral infection secondary to sharing needles (e.g. HIV); bacterial infection secondary to sharing needles (e.g. infective endocarditis, septic arthritis); VTE; respiratory depression, coma, death.
 
-> [!info] The diagnostic frame
-> **Characteristic symptoms (positive, negative, disorganised) present for a defined duration, with significant functional impairment, and not better explained by a mood disorder, substance use or another medical condition.** `UNVERIFIED — the specific criteria and durations.`
-> **SCHNEIDERIAN FIRST-RANK SYMPTOMS** — thought insertion, withdrawal and broadcasting; passivity phenomena; third-person auditory hallucinations; running commentary; and delusional perception.
-> **These are classically taught and worth recognising — but they are NOT specific to schizophrenia.** They occur in mania, in organic states and in substance-induced psychosis, and their presence does not make the diagnosis.
+### Acute management
 
-> [!tip] The related disorders
-> **· SCHIZOAFFECTIVE DISORDER — psychotic and mood symptoms both prominent, with psychosis present for a period in the absence of mood symptoms.**
-> **· SCHIZOPHRENIFORM DISORDER — the schizophrenia picture but of shorter duration; a proportion progress and a proportion do not.**
-> **· BRIEF PSYCHOTIC DISORDER — abrupt onset, short duration, full return to premorbid function, often with an identifiable stressor.**
-> **· DELUSIONAL DISORDER — a circumscribed, non-bizarre delusional system with OTHERWISE PRESERVED functioning and no prominent hallucinations or negative symptoms.** These patients can appear entirely normal outside the delusional domain, which is why the diagnosis is often made late and why they rarely present voluntarily.
-> **· POSTPARTUM PSYCHOSIS — a PSYCHIATRIC EMERGENCY.** Rapid onset, typically within days to weeks of delivery, with a fluctuating and confusional quality, and **substantial risk to both mother and infant.** **It requires urgent psychiatric assessment and almost always admission, ideally to a mother-and-baby unit.** Cross-refer [[O3]].
+> [!danger] IV or IM naloxone — 400mcg, then 800mcg (up to 2 doses at 1 minute intervals), then 2mg (1 dose), then 4mg.
 
-> [!warning] The prognosis is heterogeneous — and saying so matters
-> **Outcomes range from full recovery to severe persistent disability, and the older nihilistic framing is inaccurate.**
-> **Better prognostic features: acute onset, an identifiable precipitant, good premorbid functioning, prominent mood symptoms, later age of onset, female sex, and good social support.**
-> **Worse: insidious onset, prominent negative symptoms, poor premorbid function, early onset, long duration of untreated psychosis, and ongoing substance use.**
-> **Telling a family "this is a lifelong deteriorating illness" at first presentation is both inaccurate and harmful.**
+### Long-term management
 
-> [!danger] The mortality gap is cardiovascular, not suicide
-> **People with schizophrenia die substantially earlier than the general population — on the order of 15 to 20 years.**
-> **Suicide risk is genuinely and substantially elevated, particularly early in the illness. But the MAJORITY of the excess mortality is from CARDIOVASCULAR DISEASE, respiratory disease and cancer.**
-> **The drivers: very high smoking rates · antipsychotic-related metabolic effects · sedentary lifestyle and poor diet · poverty · and — critically — UNDER-DIAGNOSIS AND UNDER-TREATMENT OF PHYSICAL ILLNESS through diagnostic overshadowing and fragmented care.**
-> **This reframes what good psychiatric care includes: metabolic monitoring, smoking cessation, cardiovascular risk management and cancer screening are not someone else's job.** See 0.7.
+- Methadone or buprenorphine.
+  - Methadone: full agonist of the µ-opioid receptor; helps relieve withdrawal symptoms and cravings.
+  - Buprenorphine: partial agonist at the µ-opioid receptor, antagonist at the κ-receptor; similar effect to methadone and helps ↓depressive and dysphoric states.
+- Compliance monitored by urinalysis.
+- Detox for 4 weeks in an inpatient facility, then 12 weeks in the community.
 
----
+> [!info] Verified against Australian Prescriber and NSW Health opioid dependence guidelines, Aug 2026 — methadone and buprenorphine are correctly the two core Australian-approved medicines for opioid dependence treatment (both are equally effective), so the drug choice itself doesn't need correcting. One genuinely significant update not in the original note: **long-acting injectable buprenorphine (LAIB)** — weekly or monthly depot formulations — has been PBS-subsidised in Australia since September 2019, with access expanded to non-specialist (primary care) prescribing from April 2020, and represents a meaningful shift from daily supervised dosing toward much less frequent dosing for suitable patients. Prescribing regulations for opioid dependence treatment are genuinely state/territory-based in Australia (differing training and authorisation requirements by jurisdiction) — check local health department guidance for the specific current process. I could not confirm a clean Australian-specific equivalent of the "4 weeks inpatient then 12 weeks community" detox duration figure below — this specific timeframe should be verified against current state guidelines or eTG directly rather than assumed, given detox pathways are one of the more genuinely jurisdiction-variable aspects of this area.
 
-## 0.3 The Differential Diagnosis of Psychosis
+## Cannabis
 
-> [!danger] Exclude organic causes in every first episode
-> The full list is in **[[N1]] 0.6.** The features that should prompt particular concern: **new onset over 40 · acute onset · fluctuating consciousness · disorientation · abnormal vital signs · focal neurology · VISUAL, olfactory or tactile hallucinations · and no prior psychiatric history.**
-> **ANTI-NMDA RECEPTOR ENCEPHALITIS deserves specific mention: a young person, often female, with a psychiatric prodrome followed by seizures, a movement disorder and autonomic instability, associated with an ovarian teratoma. It is treatable and it is repeatedly admitted to psychiatric units first.** Cross-refer [[D1]] 0.5.
+- Aka marijuana, pot, weed, etc. THC is considered the primary psychoactive compound, but there are 500+ chemicals in cannabis.
+- **CNS & psych** (dependent on the individual):
+  - In some: euphoria, relaxation, sedation, ↑appetite, ↓short-term memory, ↓concentration, ↓coordination.
+  - In others: anxiety, panic attacks, paranoia, psychosis (including delusions, hallucinations) — especially at higher doses.
+- **Cardiovascular:** ↑HR, ↑BP, chest pain, palpitations, ECG changes.
+- **Renal:** AKI.
+- **Muscular:** hypertonia, myoclonus, muscle jerking and myalgia.
+- **Others:** cold extremities, dry mouth, dyspnoea, mydriasis, vomiting and hypokalaemia, conjunctival injection.
+- **Mx:** supportive treatment for symptoms; psychosocial support for reducing and controlling use. No approved medications.
 
-> [!tip] Substance-induced psychosis
-> **Stimulants (methamphetamine in particular), cannabis and synthetic cannabinoids, hallucinogens, and corticosteroids** — plus **withdrawal states** and **anticholinergic and dopaminergic drugs.**
-> **Distinguishing it from a primary psychotic illness requires the temporal relationship and observation over time**, and it should not be settled confidently at first presentation. **Substance-induced psychosis usually resolves over days to weeks with abstinence — but it can persist, and repeated episodes are associated with subsequent primary psychotic illness.** Cross-refer [[N2]] 0.3.
+## Cocaine
 
-> [!warning] Mood disorder with psychotic features — and why the distinction changes treatment
-> **In psychotic depression: the delusions are typically MOOD-CONGRUENT — guilt, poverty, nihilism, deserved punishment, somatic decay (Cotard).** **The mood disturbance precedes and dominates.**
-> **In mania with psychosis: grandiose and often expansive delusions, with elevated or irritable mood, reduced need for sleep and increased activity.**
-> **This matters because the treatment differs: psychotic depression requires an antidepressant PLUS an antipsychotic (an antidepressant alone is inadequate), and electroconvulsive therapy is highly effective. Mania requires a mood stabiliser or antipsychotic, and an antidepressant alone can precipitate or worsen mania.** Cross-refer [[N4]].
+- Alkaloid derived from the coca plant.
+- **MOA:** blocks uptake of dopamine, noradrenaline and serotonin.
+- **CNS:** seizures, mydriasis, hypertonia, hyperreflexia. Psych: agitation, psychosis, hallucinations.
 
-> [!tip] The other things that are mistaken for psychosis
-> **· DELIRIUM — fluctuating attention and consciousness, visual hallucinations, acute onset.** Cross-refer [[D2]] 0.2.
-> **· DEMENTIA — particularly LEWY BODY dementia (well-formed visual hallucinations, fluctuation, parkinsonism, REM sleep behaviour disorder) and frontotemporal dementia (behavioural change misread as psychiatric).** Cross-refer [[D2]] 0.3.
-> **· BORDERLINE PERSONALITY DISORDER — transient, stress-related quasi-psychotic experiences, usually brief and with retained reality testing.** Cross-refer [[N6]].
-> **· PTSD — flashbacks and dissociative re-experiencing can be described in ways that sound like hallucinations.** Cross-refer [[N5]].
-> **· CULTURALLY NORMATIVE EXPERIENCES.** **Beliefs and experiences that are sanctioned within a person's cultural or religious community — including communication with ancestors or spirits, and experiences of possession or healing — are NOT delusions or hallucinations.**
-> **Pathologising them is a serious error with real consequences, and it disproportionately affects Aboriginal and Torres Strait Islander people and people from culturally diverse backgrounds.**
-> **The test is whether the belief or experience is shared and accepted within their community, and whether it is causing distress or dysfunction by their community's standards — which requires asking someone who knows.** **Seek a cultural informant, an Aboriginal Health Worker, or a clinician from that community.** Cross-refer [[AU1]] 0.3.
+> [!danger] Cardiovascular: coronary artery spasm (which can cause MI), ↑HR or ↓HR, ↑BP, ECG changes (QT prolongation, widening), aortic dissection.
 
----
+- **Others:** ischaemic colitis, hyperthermia, metabolic acidosis, rhabdomyolysis.
+- **Mx:** benzodiazepines.
+  - Chest pain: benzodiazepines + GTN. If MI, do PCI (see [[01_Cardiovascular]] 0.1 Acute Coronary Syndrome (ACS), not repeated here).
+  - Hypertension: benzodiazepines + sodium nitroprusside.
 
-## 0.4 Antipsychotics
+> [!danger] DO NOT give beta-blockers in cocaine toxicity (risk of unopposed alpha-mediated vasoconstriction/coronary spasm).
 
-> [!tip] The mechanism, and what the "typical/atypical" distinction actually means
-> **All effective antipsychotics act on the dopamine D2 receptor — as antagonists, or in the case of aripiprazole as a partial agonist.** Second-generation agents additionally antagonise 5-HT2A receptors.
-> **The "typical versus atypical" division is more historical and commercial than pharmacological.** **With the single exception of CLOZAPINE, efficacy is broadly comparable across agents.**
-> **What actually differs is the SIDE EFFECT PROFILE, and that is what drives the choice:**
-> **· First-generation (haloperidol, chlorpromazine, zuclopenthixol, flupenthixol) — MORE extrapyramidal side effects and hyperprolactinaemia.**
-> **· Second-generation (olanzapine, risperidone, quetiapine, amisulpride, aripiprazole, paliperidone, lurasidone, ziprasidone) — MORE metabolic effects, with substantial variation between them.**
-> **Choose on the basis of side effect profile, the patient's comorbidities and preferences, and previous response — not on a presumed efficacy difference.**
+## MDMA / Ecstasy
 
-> [!warning] Practical prescribing points
-> **· Antipsychotic effect on psychotic symptoms takes DAYS TO WEEKS.** Sedation is immediate, and it is easy to mistake sedation for therapeutic effect and escalate the dose too quickly.
-> **· "Start low, go slow" in the antipsychotic-naive, the elderly, and in first-episode psychosis** — first-episode patients respond to lower doses and are more sensitive to side effects.
-> **· AVOID ROUTINE ANTIPSYCHOTIC POLYPHARMACY.** Two agents together increase side effects, cost and mortality risk without clear benefit, and it usually arises from cross-titration that was never completed.
-> **· LONG-ACTING INJECTABLES (depots) improve adherence and reduce relapse and hospitalisation.** **They should be offered as a positive option early — "many people find this easier than remembering tablets" — rather than introduced as a consequence of non-adherence.** Framing them as a punishment guarantees refusal.
-> **· Adherence is the single biggest determinant of relapse**, and non-adherence usually has reasons — side effects, lack of insight, cost, complexity, or feeling well. **Ask about them rather than assuming.**
+- **MOA:** stimulates the release of dopamine, norepinephrine, serotonin.
+- **CNS:** ataxia. Psych: acute reactions ("bad trips"), impaired judgment (→ injury), euphoria or dysphoria, agitation, psychosis.
+- **Cardiovascular:** ↑HR, ↑BP.
+- **Renal:** hyponatraemia (secondary to SIADH or ↑water intake).
+- **Others:** hyperthermia, rhabdomyolysis.
+- **Mx:** supportive treatment. Dantrolene if severe hyperthermia.
 
----
+> [!note] Methamphetamine works similarly to MDMA.
 
-## 0.5 Antipsychotic Adverse Effects
+## Lysergic acid diethylamide (LSD)
 
-> [!danger] Acute dystonia — dramatic, frightening, and rapidly reversible
-> **Onset within hours to days of starting or increasing a dopamine antagonist**, more common in young men and with high-potency agents.
-> **Features: OCULOGYRIC CRISIS (forced sustained upward eye deviation), torticollis, trismus, opisthotonos, tongue protrusion, and — dangerously — LARYNGEAL DYSTONIA causing stridor and airway compromise.**
-> **It is frequently misdiagnosed as a seizure, a psychiatric manifestation, or tetanus** — particularly when it follows metoclopramide or prochlorperazine given for nausea rather than an antipsychotic.
-> **Treatment with an anticholinergic (benztropine) produces relief within minutes and is close to diagnostic.** Cross-refer [[C2]] 0.5 and [[D6]] 0.6.
+- Synthetic hallucinogen with psychedelic effects — distorts sensory stimuli and enhances feelings & introspection.
+- **CNS:** headache, dizziness, incoordination, numbness, tremors. Psych: euphoria, altered perceptions, hallucinations, anxiety, paranoia.
+- **Others:** hypoxia, hypothermia, ↑HR, ↑BP.
 
-> [!danger] Akathisia — and the trap of treating it with more antipsychotic
-> **A subjective sense of inner restlessness with a compulsion to move — pacing, rocking, inability to sit still, shifting the legs.**
-> **The critical error: it LOOKS like agitation or worsening psychosis, and the reflex response is to INCREASE the antipsychotic — which makes it worse.**
-> **The distinguishing feature is the SUBJECTIVE experience: ask "is it that you feel restless inside and can't keep still?" as opposed to feeling frightened, angry or driven by delusions.**
-> **Akathisia is profoundly distressing, is associated with treatment non-adherence, and has been associated with SUICIDE.** It should be taken seriously rather than tolerated.
-> **Management: reduce the dose, switch to a lower-risk agent, or add propranolol.** `UNVERIFIED — treatment options and doses.`
+## Nitrous oxide
 
-> [!tip] The other movement disorders
-> **· DRUG-INDUCED PARKINSONISM — days to weeks; bradykinesia, rigidity and tremor, typically SYMMETRICAL.** **May take months to resolve after stopping the drug**, so lack of immediate improvement does not exclude it. Cross-refer [[D6]] 0.5.
-> **· TARDIVE DYSKINESIA — months to years of exposure; orofacial choreiform movements, tongue protrusion, lip smacking, and truncal or limb movements.** **It may be IRREVERSIBLE, and STOPPING the drug can transiently WORSEN it before improvement**, which discourages both patient and clinician. **Prevention through the lowest effective dose and regular review is the main strategy.** Cross-refer [[D6]] 0.6.
-> **· NEUROLEPTIC MALIGNANT SYNDROME — rigidity, hyperthermia, autonomic instability, altered consciousness, raised CK.** Cross-refer [[A6]] 0.3.
+- Aka whippets, balloons, laughing gas.
+- **MOA:** dissociative anaesthetic; blocks NMDA receptors (↓pain), induces euphoria and relaxation + ↑release of endogenous opioids and dopamine.
+- **CNS:** tremors, paraesthesias, mydriasis, hyperreflexia, headache, drowsiness.
+- **Cardiovascular:** ↑HR, ↑BP, palpitations.
+- **Others:** nausea/vomiting, dry mouth, pyrexia.
 
-> [!danger] Metabolic adverse effects — monitor from baseline, because they are what kills these patients
-> **Weight gain, dyslipidaemia, insulin resistance and type 2 diabetes — with substantial variation between agents.**
-> **· Highest risk: OLANZAPINE and CLOZAPINE.**
-> **· Intermediate: quetiapine, risperidone, paliperidone.**
-> **· Lowest: ARIPIPRAZOLE, ziprasidone, lurasidone, amisulpride.**
-> **Weight gain is often rapid in the first weeks and is a major cause of non-adherence, particularly in young people — and it is dismissed by clinicians far more readily than by patients.**
-> **MONITOR: weight and waist circumference, blood pressure, fasting lipids, and glucose or HbA1c — with a BASELINE before starting and at defined intervals thereafter.** `UNVERIFIED — the monitoring schedule.`
-> **And act on the results** — metabolic monitoring that is recorded and never acted upon is the common failure. Cross-refer 0.7.
+> [!danger] Long-term effects: vitamin B12 deficiency → subacute combined degeneration of the spinal cord & anaemia. Also psychological issues, and direct harm from inhaling gas — lung damage, barotrauma, frostbite.
 
-> [!warning] Hyperprolactinaemia — ask, because they will not tell you
-> **Highest with RISPERIDONE, PALIPERIDONE, AMISULPRIDE and the first-generation agents; lowest with aripiprazole (which may even lower prolactin) and quetiapine.**
-> **Consequences: galactorrhoea · amenorrhoea and menstrual disturbance · sexual dysfunction and reduced libido · gynaecomastia · infertility · and long-term BONE LOSS.**
-> **Patients almost never raise sexual dysfunction or galactorrhoea spontaneously, and it is a significant and under-recognised cause of silent non-adherence.** **Ask directly and matter-of-factly.** Cross-refer [[I4]] 0.2.
+- **Mx:** according to symptoms. Agitation — if reassurance fails, benzodiazepine. Psychosis — may require antipsychotics. Massive ingestions may require ICU care (e.g. intubation & ventilation).
 
-> [!tip] The rest
-> **· QT PROLONGATION — baseline and follow-up ECG, and caution with combinations and with electrolyte disturbance.** Cross-refer [[B3]] 0.3.
-> **· Sedation and cognitive dulling** — a major reason people stop.
-> **· ANTICHOLINERGIC effects — dry mouth, constipation, urinary retention, blurred vision, cognitive impairment** — and constipation in particular must be taken seriously (see clozapine below).
-> **· Orthostatic hypotension** — especially on initiation and with quetiapine and clozapine.
-> **· Lowered seizure threshold.**
-> **· IN OLDER PEOPLE WITH DEMENTIA — increased stroke and mortality**, and in **Lewy body disease, severe neuroleptic sensitivity.** **Ask about visual hallucinations, fluctuation and dream enactment before prescribing an antipsychotic to any older person.** Cross-refer [[D2]] 0.2–0.3.
+## Gambling disorder (gambling-related harms)
 
----
+> [!note] Gap-filled from CSV ("Gambling-related harms," Medium yield) — genuinely absent from this project despite being the only behavioural (non-substance) addiction formally recognised in DSM-5's substance-related and addictive disorders category, reflecting genuine shared neurobiological and clinical overlap with the substance use disorders in this file, which is why it's included here rather than in a disease file elsewhere.
 
-## 0.6 Clozapine
+- **D:** persistent and recurrent problematic gambling behaviour leading to clinically significant impairment or distress — the only behavioural addiction currently classified alongside substance use disorders in DSM-5, reflecting evidence of shared underlying reward-pathway mechanisms with substance addictions rather than being grouped with impulse-control disorders.
+- **A/P:** dysregulation of the same dopaminergic reward pathways implicated in substance addiction — the intermittent, variable reinforcement pattern inherent to gambling (unpredictable wins) is itself thought to be a particularly potent driver of this reward-pathway dysregulation, analogous to how variable-ratio reinforcement schedules are known to be especially resistant to extinction in behavioural psychology more broadly.
 
-> [!danger] The only agent with superior efficacy in treatment resistance — and it is used too late
-> **Treatment-resistant schizophrenia is defined as failure to respond to adequate trials of two different antipsychotics at adequate dose and duration.**
-> **Clozapine is the only antipsychotic with demonstrated superior efficacy in this group, and it also reduces suicide risk.**
-> **It is consistently UNDER-USED and STARTED TOO LATE — often after many more failed trials than the definition requires — because of the monitoring burden and clinician apprehension.** **The delay costs patients years of unremitted illness.**
+> [!info] Diagnostic criteria (DSM-5, summarised) — ≥4 of the following within a 12-month period, causing significant distress or impairment:
+> - Needs to gamble with increasing amounts of money to achieve the desired excitement (tolerance).
+> - Restless or irritable when attempting to cut down or stop gambling (withdrawal-like pattern).
+> - Repeated unsuccessful efforts to control, cut back, or stop gambling.
+> - Preoccupied with gambling (e.g. reliving past experiences, planning the next venture, thinking of ways to get money to gamble).
+> - Often gambles when feeling distressed (helpless, guilty, anxious, depressed).
+> - After losing money, often returns another day to get even ("chasing" losses).
+> - Lies to conceal the extent of involvement with gambling.
+> - Has jeopardised or lost a significant relationship, job, or educational/career opportunity because of gambling.
+> - Relies on others to provide money to relieve a desperate financial situation caused by gambling.
 
-> [!danger] Constipation kills more clozapine patients than agranulocytosis does
-> **This is the point that is least known and most important.**
-> **Clozapine causes profound gastrointestinal hypomotility, and severe constipation can progress to paralytic ileus, bowel obstruction, ischaemia, perforation and death.**
-> **The mortality from clozapine-induced gastrointestinal hypomotility exceeds that from agranulocytosis** — yet the monitoring system is built entirely around the blood count.
-> **Practically: prescribe PROPHYLACTIC LAXATIVES from the outset · ASK ABOUT BOWELS AT EVERY REVIEW · and treat constipation aggressively rather than as a nuisance.**
-> **A clozapine patient with abdominal pain, distension or vomiting needs urgent assessment for obstruction — not reassurance.** Cross-refer [[C5]] 0.2 and 0.5.
+- **S/Smx:** the behavioural pattern above; commonly coexists with substance use disorders, mood disorders, and anxiety disorders — actively screening for these coexisting conditions matters, following the same general principle established for other addictive/psychiatric conditions throughout this project; significant financial, relationship, occupational, and legal harms are common downstream consequences given the behaviours described above (concealment, chasing losses, reliance on others for money).
+- **Ix:** primarily a clinical diagnosis based on the history above; screening tools exist (e.g. the Problem Gambling Severity Index) to support assessment and gauge severity, though a full clinical history remains central; screen for coexisting substance use and mental health conditions given the associations above, and assess for the downstream harms (financial, relationship, legal) given these are often what actually brings the harm to clinical attention rather than the gambling behaviour itself being volunteered.
+- **Mx:**
+  - CBT is the psychological treatment with the strongest evidence base, addressing the cognitive distortions common in problem gambling (e.g. beliefs about being "due" for a win, or that a pattern can be predicted from past outcomes).
+  - Motivational interviewing techniques can help given ambivalence about stopping is common, similar in spirit to substance use disorder treatment approaches.
+  - Self-exclusion programs (voluntarily restricting one's own access to gambling venues/platforms) are a practical, widely-available harm-reduction tool worth discussing directly with patients.
+  - Treat coexisting substance use and mental health conditions actively, given the strong association above and the way untreated coexisting conditions can undermine gambling-specific treatment.
+  - Financial and relationship counselling referral where appropriate, given the substantial downstream harms described above often need addressing in their own right alongside the gambling behaviour itself.
+  - In Australia, **Gambling Help Online** and state-based gambling help services are relevant support resources worth being aware of, given gambling harm services are typically state-funded and vary by jurisdiction.
 
-> [!danger] Myocarditis — in the first weeks, and it is missed
-> **Clozapine-induced myocarditis typically occurs within the FIRST FOUR TO SIX WEEKS of treatment and can be fatal.**
-> **Features: fever, tachycardia disproportionate to anything else, chest pain, breathlessness, fatigue, and flu-like symptoms — all of which are easily attributed to a viral illness or to clozapine's benign transient fever.**
-> **Monitoring during titration should include TROPONIN, CRP and observations**, precisely because the clinical features are non-specific.
-> **A raised troponin or CRP with tachycardia in the first weeks of clozapine requires the drug to be withheld and urgent cardiology assessment.** `UNVERIFIED — the monitoring protocol and thresholds, which are specified in the relevant clozapine monitoring programme.`
-> **Later-onset CARDIOMYOPATHY also occurs, warranting periodic echocardiography.**
 
-> [!warning] Agranulocytosis and the monitoring system
-> **The reason for mandatory haematological monitoring — a registered system linking patient, prescriber, pharmacy and laboratory, with defined blood count intervals (frequent initially, then reducing) and mandatory reporting.**
-> **The clinical instruction to the patient: FEVER, SORE THROAT OR MOUTH ULCERS means an urgent full blood count and withholding the dose.**
-> **This is legally structured, not discretionary, and dispensing is contingent on the monitoring being current.** `UNVERIFIED — the intervals, thresholds and system requirements.`
+<!-- ===== SOURCE: 14a-2_Psych_-_Overdose_and_Poisoning_Management.md ===== -->
 
-> [!tip] Three practical points that catch people out
-> **· SMOKING CESSATION RAISES CLOZAPINE LEVELS SUBSTANTIALLY.** Cigarette smoke induces CYP1A2; stopping removes that induction and levels can rise into the toxic range. **A patient admitted to a smoke-free hospital who stops smoking abruptly can develop clozapine toxicity — sedation, seizures, hypotension — within days.** **Anticipate it, monitor, and consider dose reduction and level measurement.** **The reverse applies on discharge if they resume.**
-> **· MISSED DOSES REQUIRE RETITRATION.** If clozapine has been missed for more than about 48 hours, it must be RESTARTED FROM A LOW DOSE and titrated up again — because tolerance to the hypotensive and sedative effects is lost rapidly. **Restarting at the previous dose can cause collapse.** `UNVERIFIED — the exact interval.`
-> **· Other adverse effects: HYPERSALIVATION (paradoxical, and often the most socially distressing to the patient), sedation, weight gain and metabolic effects, seizures at higher doses, orthostatic hypotension, tachycardia, and a benign transient fever early in treatment that must be distinguished from myocarditis and neutropenia.**
 
----
+> [!warning] This is a quick-reference antidote table only — always confirm doses and current protocols against Australian poisons information (Poisons Information Centre 13 11 26) and eTG before treating any overdose.
 
-## 0.7 Long-Term Management and Physical Health
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.1 Overdose / poisoning — management by agent` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!danger] Physical health care is part of psychiatric care, and if nobody is named, nobody does it
-> **Given that most of the mortality gap is cardiovascular, the physical health of a person with severe mental illness is not an ancillary concern.**
-> **The recurring system failure: the psychiatric team assumes the GP is doing it, the GP assumes the mental health service is doing it, and nobody does.**
-> **Fix it by naming who is responsible, in writing, in the discharge summary or care plan.**
-> **What needs to happen: metabolic monitoring with ACTION on the results · smoking cessation support · cardiovascular risk assessment · diabetes screening · cancer screening participation, which is markedly lower in this group · dental care · and sexual and reproductive health.**
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.2 Digoxin toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!tip] Smoking cessation works in this population
-> **Smoking rates in people with schizophrenia are very high, and the assumption that they cannot or do not want to quit is inaccurate — they are as motivated as the general population and quit rates with proper support are meaningful.**
-> **Offer nicotine replacement, varenicline and behavioural support** — with two caveats: **monitor mood, and remember the CLOZAPINE AND OLANZAPINE LEVEL EFFECT described above.**
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.3 Salicylate toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!warning] The psychosocial interventions with evidence
-> **· CBT for psychosis** — reduces distress and the impact of persistent symptoms.
-> **· FAMILY INTERVENTION — reduces relapse substantially**, and is under-provided.
-> **· INDIVIDUAL PLACEMENT AND SUPPORT (supported employment) — good evidence for helping people into competitive employment**, and employment itself improves outcomes. **"Train then place" models do not work as well as "place then train".**
-> **· Assertive community treatment and case management for those with complex needs and frequent admissions.**
-> **· Relapse prevention planning with identified EARLY WARNING SIGNS** — most people have a recognisable individual prodrome, and identifying it with them and their family allows earlier intervention.
-> **· Treat comorbid substance use concurrently.** Cross-refer [[N2]].
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `0.4 Tricyclic antidepressant toxicity — detail` — reproduced there verbatim under a `SOURCE:` divider naming this file.
 
-> [!tip] The framing that matters to patients
-> **Recovery in this context does not necessarily mean absence of symptoms — it means a meaningful life with self-determination, relationships, purpose and hope.**
-> **Stigma — including within healthcare — is a major determinant of outcome**, and the way psychiatric patients are spoken about and treated on medical wards is part of that.
-> **Carers need information, support and recognition**, and they are frequently excluded on privacy grounds when the patient would in fact consent if asked.
+<!-- ===== SOURCE: 14_06b_Psych_-_Mental_Health_Act_and_Sectioning.md ===== -->
 
-**Ix:** **Baseline before starting an antipsychotic: weight, waist circumference, blood pressure, FBC, UEC, LFT, fasting glucose or HbA1c, fasting lipids, prolactin where relevant, and ECG** (*why:* establishes the baseline against which metabolic and cardiac effects are judged, and it is impossible to attribute a later abnormality without it; *what:* baseline values, QTc). **First-episode organic screen** (*why:* medical causes of psychosis; *what:* per [[N1]] 0.6). **Metabolic monitoring at defined intervals thereafter** (*why:* the effects are early and progressive, and this is where the mortality gap is generated; *what:* weight, glucose, lipids, blood pressure). **Clozapine: mandatory FBC per protocol, plus troponin, CRP and observations during titration, and periodic echocardiography** (*why:* agranulocytosis, myocarditis and cardiomyopathy; *what:* neutrophil count, troponin, CRP, ejection fraction). **Clozapine level** where toxicity, non-response or a change in smoking status (*why:* levels vary widely and smoking is a major determinant; *what:* level). Prolactin where symptomatic (*why:* hyperprolactinaemia is common, symptomatic and under-asked; *what:* elevation).
 
----
+> [!danger] Verify everything in this section
+> **The MENTAL HEALTH ACT 2009 (SA) is the governing legislation in South Australia, and mental health law differs substantially between Australian states and territories.**
+> **`UNVERIFIED — every provision below. Order names and levels, durations, who may make and revoke them, review timeframes and forms must be confirmed against the current Act, SA Health policy and your own health service's procedure.`**
+> **Applied here 2026-09-01 from `N1 §0.5 Mental Health Legislation in South Australia`, which carries the same warning over the same subject matter.** Neither layer has verified this content. **If these two sections are ever reconciled, this warning survives the reconciliation** — it is the first thing lost when two versions of a legal section are merged, and it is the reason not to trust either.
 
-> [!note] Cross-references
-> Mental state examination, risk and the Mental Health Act → [[N1]] · Medical causes of psychosis → [[N1]] 0.6 · Substance-induced psychosis and stimulants → [[N2]] 0.3 · Mood disorders and psychotic depression → [[N4]] · Personality disorder and quasi-psychotic phenomena → [[N6]] · PTSD and dissociation → [[N5]] · Delirium, dementia and Lewy body neuroleptic sensitivity → [[D2]] 0.2–0.3 · Acute dystonic reactions and tardive dyskinesia → [[D6]] 0.6 and [[C2]] 0.5 · Drug-induced parkinsonism → [[D6]] 0.5 · Neuroleptic malignant syndrome → [[A6]] 0.3 · QT prolongation → [[B3]] 0.3 · Hyperprolactinaemia → [[I4]] 0.2 · Metabolic syndrome and cardiovascular risk → [[I5]] 0.4 and [[B2]] 0.1 · Constipation and ileus → [[C5]] 0.2, 0.5 · Autoimmune encephalitis → [[D1]] 0.5 · Postpartum psychosis → [[O3]] · Cultural safety and not pathologising cultural experience → [[AU1]] 0.3
+> [!warning] `CF-PAIR` — a second treatment of this topic exists in this file
+> **`N1 §0.5 Mental Health Legislation in South Australia`** covers the same Act from the Corpus B layer, with the principles underlying the Act, the order types and the SACAT review pathway. **Both are retained deliberately. Do not merge them** — place them side by side and resolve by hand against the current Act.
 
+> [!info] Localised for South Australia — the original source material described the UK Mental Health Act (sections 2, 3, 4, 5(2), 5(4), 17, 135, 136, and the AMHP process). This file has been rebuilt against the **Mental Health Act 2009 (SA)**, verified via the SA Law Handbook, SACAT, and the Office of the Public Advocate, Aug 2026 — the correct, current legislation for a Flinders/Adelaide context. Australian involuntary treatment law is state/territory-based (e.g. different Acts apply in Victoria, NSW, Queensland, etc, with different terminology, criteria, timeframes, and roles) — if practising outside SA, check the relevant state/territory Act rather than assuming this transfers directly.
+
+## Involuntary treatment — overview
+
+The Mental Health Act 2009 (SA) provides the legal basis for involuntary treatment and care of a person with a mental illness who cannot or will not consent, where community-based care is insufficient. The Act emphasises the **least restrictive** approach — involuntary orders are a last resort, not a default, and the same three-part test underlies every order type below (community and inpatient alike):
+
+> [!info] The core three-part test for any involuntary order
+> (a) the person has a mental illness; **and**
+> (b) because of the mental illness, the person requires treatment for their own protection from harm (including harm from continuation/deterioration of their condition) or for the protection of others from harm; **and**
+> (c) there is no less restrictive means of ensuring appropriate treatment.
+
+Unlike the UK's single "sectioning" terminology, SA distinguishes **Community Treatment Orders (CTOs)** — involuntary treatment while the person lives in the community — from **Inpatient Treatment Orders (ITOs)** — involuntary detention and treatment in a treatment centre — each with their own tiered levels below.
+
+## Voluntary inpatients
+
+The Act also explicitly provides for voluntary inpatients (Part 3) — a person who consents to admission and treatment without being subject to any order above. Voluntary inpatients must be given a statement of rights, the same as involuntary patients, reflecting the Act's broader emphasis on patient rights regardless of voluntary/involuntary status.
+
+> [!note] **Moved to `[[A10_Ethics__Capacity__Consent_and_Certification]]` on 2026-09-01:** `Guardianship — a related but distinct framework` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## Inpatient Treatment Orders (ITOs)
+
+- **Level 1 ITO:** maximum 7 days' detention. Can be made by a medical practitioner or authorised mental health professional. Must be reviewed within 24 hours by a psychiatrist or authorised medical practitioner — **a different person from whoever made the original order**, a genuine safeguard built into the tiered structure. Can be revoked by a psychiatrist or authorised medical practitioner who has examined the patient at any point during the order.
+- **Level 2 ITO:** maximum 42 days' detention. Made by a psychiatrist or authorised medical practitioner, for a patient already on a Level 1 ITO — the next tier up rather than a standalone starting point.
+- **Level 3 ITO:** maximum 12 months' detention. Made by SACAT — the same Tribunal that makes Level 2 CTOs, reflecting that both represent the longest-duration, most restrictive tier of their respective order type and require independent Tribunal oversight rather than clinician-only authorisation.
+
+> [!info] A patient subject to any level of ITO can be required to receive treatment despite refusing or withholding consent, and must remain in the treatment centre (or in the care/control of staff) unless granted leave of absence — genuinely analogous in effect to UK "sectioning," even though SA doesn't use that term. Involuntary inpatients must be given a statement of rights.
+
+## Community Treatment Orders (CTOs)
+
+- **Level 1 CTO:** maximum 42 days. Can be made by a psychiatrist, authorised medical practitioner, medical practitioner, or authorised mental health professional. The patient must be examined by a psychiatrist or authorised medical practitioner within 24 hours of the order being made (or as soon as possible thereafter if not practicable). The Chief Psychiatrist must be notified.
+- **Level 2 CTO:** maximum 12 months (adults) or 6 months (children). Made by SACAT (the South Australian Civil and Administrative Tribunal) on application — whether or not a Level 1 CTO exists or has previously expired.
+
+## SACAT (South Australian Civil and Administrative Tribunal)
+
+SACAT is the legal tribunal responsible for making and reviewing the highest-tier orders (Level 3 ITOs, Level 2 CTOs) and for hearing appeals against orders made by clinicians at the lower tiers — the rough functional equivalent of the review/appeal role UK Mental Health Tribunals play, though structured differently. At a hearing, SACAT can confirm, vary, or revoke an order; make an alternative order; or direct that a Treatment and Care Plan be reviewed. An internal review of a SACAT decision must generally be sought within one month; a further appeal to the Supreme Court must generally be made within 14 days of the decision (or of receiving reasons for it).
+
+## Safeguards and oversight
+
+- **Community Visitors:** appointed under the Act to regularly visit and inspect treatment centres and meet with patients — a patient or their family can specifically request to speak with a Community Visitor, a genuine, accessible oversight mechanism distinct from the more formal SACAT review process above.
+- **Chief Psychiatrist:** must be notified of the making, variation, or revocation of several order types (Level 1 CTOs, Level 3 ITOs) — a central oversight role across the system, distinct from any individual patient's treating team.
+
+## Police involvement
+
+Police officers have a role in bringing a person to a treatment centre where an order applies and the person hasn't voluntarily attended, or in returning a patient who has left without leave — see the order-specific provisions above rather than a single UK-style "public place" power. **The specific SA provisions governing police apprehension of a person in the community for urgent mental health assessment (broadly analogous in purpose to the UK's sections 135/136) are not fully detailed in this entry — check the current Mental Health Act 2009 (SA) directly, or local SAPOL/SA Health protocols, for the precise current process if this is operationally relevant**, rather than relying on this summary for that specific scenario.
+
+## Interstate transfer
+
+The Act specifically provides for a person subject to a CTO or ITO to have that order recognised and their treatment continued if they move interstate (and vice versa, for a person moving to SA under an interstate order) — this requires a Ministerial agreement between the relevant jurisdictions. A person transported and detained under these interstate arrangements must still be given a statement of rights.
 
 <!-- ===== SOURCE: N4_Mood_Disorders.md ===== -->
 
@@ -1935,6 +938,549 @@ The Act also explicitly provides for voluntary inpatients (Part 3) — a person 
 > Risk assessment, suicidality and safety planning → [[N1]] 0.2–0.3 · Substance use and alcohol → [[N2]] · Psychotic depression and antipsychotics → [[N3]] · Anxiety, PTSD and adjustment → [[N5]] · Personality disorder and chronic suicidality → [[N6]] · Eating disorders → [[N8]] · Depression versus dementia → [[D2]] 0.4 · Serotonin toxicity and NMS → [[A6]] 0.3 · TCA overdose → [[A5]] and [[F0.1]] 0.5 · Hyponatraemia and SIADH → [[I5]] 0.5 · Thyroid and adrenal causes → [[I1]] and [[I4]] · Obstructive sleep apnoea → [[RESP-X]] 0.5 · SSRI bleeding risk → [[C4]] 0.2 · Lamotrigine and severe cutaneous reactions → [[A5]] 0.6 · Valproate and enzyme-inducing drug interactions with contraception → [[D6]] 0.3 and [[O6]] 0.3 · Perinatal mental health and postpartum psychosis → [[O3]] and [[O2]] · Sexual dysfunction → [[O6]] 0.5 · Adolescent mental health → [[M7]]
 
 
+<!-- ===== SOURCE: 14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_.md ===== -->
+
+
+## Depression (Major depressive disorder)
+
+- **D:** a clinical syndrome characterised by persistent low mood + loss of interest and enjoyment, among other symptoms.
+- **A:** poorly understood. **P:** many theories, including neurotransmitter dysfunction.
+
+> [!info] DSM-5 diagnostic criteria (as summarised in the source, e.g. via PHQ-9): ≥5 symptoms present within the same 2-week period, representing a change from baseline; ≥1 symptom must be (1) or (2):
+> 1. Depressed mood.
+> 2. Markedly ↓interest/pleasure in activities.
+> 3. Weight loss/gain (or appetite change).
+> 4. Insomnia/hypersomnia.
+> 5. Psychomotor agitation or retardation.
+> 6. Fatigue/↓energy.
+> 7. ↓ability to think/concentrate, or indecisiveness.
+> 8. Feelings of worthlessness or inappropriate guilt.
+> 9. Recurrent thoughts of death, suicidal ideation (± plan), attempt.
+
+### Screening
+
+- Patient Health Questionnaires — scale 0–3 (0 = not at all, 3 = all the time).
+- **PHQ-2:** "Over the last 2 weeks, how often have you been bothered by: little interest/pleasure in things? Feeling down/depressed/hopeless?" If PHQ-2 score ≥3, follow up with PHQ-9.
+- **Ix (in all patients with a new diagnosis of MDD):** TFTs, U&Es, FBC ± B12/folate — to rule out potentially reversible causes.
+
+### Management
+
+> [!info] Verified against the RACGP Guidelines for Preventive Activities in General Practice ("Red Book"), Aug 2026 — Australia's approach is genuinely structured differently from the UK's, not just using different cutoff numbers. **General population screening for depression is explicitly not recommended in Australia** (unlike a screening-driven pathway) — the RACGP approach is **case-finding**: staying alert to depressive symptoms (low mood, substance use, insomnia, anhedonia, suicidal thoughts, fatigue, persistent somatic complaints) opportunistically, then using a validated assessment tool if suspicion is raised. PHQ-9 remains a legitimate tool in Australian practice, but it's one option among several rather than the single default — K10, DASS (Depression Anxiety Stress Scales), and Sphere-12 are also commonly used and appear in Australian guidance alongside it. I could not confirm a clean Australian equivalent of NICE's specific PHQ-9 <16/≥16 severity-driven treatment-tier cutoffs — check current eTG/RACGP guidance directly for the precise Australian severity-to-treatment mapping if this specific threshold matters for a case; the underlying clinical logic below (psychological therapy first for milder presentations, combination therapy for more severe) is a reasonable general principle not itself contradicted by anything found, but the exact numeric gating is UK-specific and shouldn't be treated as an Australian standard.
+
+- **Less severe depression (PHQ-9 <16):** NICE discourages antidepressants as first-line. Offer guided self-help, CBT, counselling, etc. If the patient prefers medication, SSRIs can be offered.
+- **More severe depression (PHQ-9 ≥16):** combination CBT + antidepressant — SSRI, SNRI, or other antidepressants if indicated based on previous history. Other modes of therapy available based on what suits the patient best.
+
+### Switching antidepressants
+
+- If patients stop antidepressants abruptly, they are likely to experience symptoms (GI upset, "brain zaps", etc) — taper gradually over 4 weeks (except fluoxetine).
+- Switching between SSRIs: stop one SSRI before starting the other (except fluoxetine).
+- Switching from fluoxetine to an SSRI or TCA: stop fluoxetine → wait 4–7 days before starting the next SSRI/TCA (fluoxetine has a long half-life).
+- Switching SSRI to TCA: slowly ↓SSRI while ↑TCA (cross-tapering).
+
+### SSRIs
+
+*(See [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]] Selective serotonin reuptake inhibitors (SSRIs) for more.)*
+
+> [!danger] All SSRIs can theoretically increase risk of suicide — patients must be reviewed at 1 week after starting.
+
+- **AE:** GI upset (nausea, vomiting, diarrhoea); ↑risk of GI bleeding (co-prescribe a PPI if also on an NSAID); hyponatraemia.
+- **Drug-drug interactions:** NSAIDs or aspirin (see above); warfarin/heparin — consider mirtazapine instead; triptans — avoid SSRIs.
+- Counsel the patient to watch for increased anxiety and agitation after starting an SSRI.
+- Citalopram & escitalopram can increase QTc — avoid in patients with heart problems and watch out for older patients or those with liver impairment.
+
+## Suicide
+
+- **D:** the act of taking one's own life.
+- **R:** postnatal period, PMH or family history of depression or suicide, dementia, drugs (e.g. corticosteroids, propranolol, COCP), comorbidities, F>M.
+
+> [!info] Mnemonic — "SADPERSONS" risk factors
+> - **S**ex: male (males more likely to complete suicide, though females more likely to attempt).
+> - **A**ge: >45 / advancing age.
+> - **D**epression or other mental health disorder.
+> - **P**revious attempt + history of deliberate self-harm.
+> - **E**xcessive alcohol/substance use.
+> - **R**ational thinking loss.
+> - **S**ocial supports lacking (unemployment, social isolation, living alone).
+> - **O**rganised plan.
+> - **N**o spouse (unmarried, divorced, or widowed — includes individuals whose partners have died by suicide).
+> - **S**ickness — chronic illness.
+>
+> Note: developed in 1983; useful as a mnemonic but not particularly sensitive. This version has been merged with additional risk factor data.
+
+> [!warning] Risk factors associated with completion of suicide at a future date: planned attempt; efforts to avoid discovery; leaving a written note; final acts such as sorting out finances; violent method.
+
+> [!tip] Protective factors: family support; having children at home; religious belief.
+
+- **Mx:** good history required — done compassionately but thoroughly. In the acute setting: medical/surgical stabilisation, then referral to the psychiatric liaison team. Referral to safeguarding. Management of underlying problems where possible (e.g. comorbidities) — seldom fully possible, but worth attempting.
+
+## Self-harm (including non-suicidal self-injury)
+
+> [!note] Gap-filled from CSV ("Suicide and self-harm / Risk Assessment," High yield) — self-harm is explicitly bundled with suicide in the CSV, but the two are genuinely clinically distinct rather than points on a single severity spectrum, a distinction worth making explicit rather than treating self-harm as simply "a milder suicide attempt."
+
+- **D:** any act of deliberate self-poisoning or self-injury, irrespective of the apparent purpose. **Non-suicidal self-injury (NSSI)** — deliberate self-harm (classically cutting, burning, or hitting oneself) without suicidal intent, typically used as a maladaptive coping mechanism to regulate overwhelming emotion, rather than an attempt to end life — is genuinely distinct from a **suicide attempt**, where the intent is (or was, at the time) to die, though the two can and do coexist in the same person, and intent can be genuinely ambivalent or difficult to establish with certainty even after careful assessment.
+- **A/P:** NSSI often serves a specific emotional-regulation function — many patients describe the physical act as relieving overwhelming emotional distress, numbness, or dissociation, or as a way of expressing distress that feels otherwise inexpressible, or as a form of self-punishment; commonly associated with borderline personality disorder (see [[14_04_Psych_-_Personality_Disorders]] Borderline personality disorder (emotionally unstable personality disorder) for the diagnostic criteria this connects to, not repeated here), though NSSI occurs across many diagnoses and also in people without any formal psychiatric diagnosis, particularly adolescents.
+- **S/Smx:** the specific method and pattern of injury (cutting is classically described as most common, though any method can occur); often occurs in a relatively predictable, ritualised way for a given individual, with specific triggers (interpersonal conflict, overwhelming emotion, dissociative states); frequently concealed from others (clothing choices, avoiding situations where injuries might be seen) — actively looking for evidence (e.g. during a physical examination for an unrelated reason) can be more revealing than waiting for the patient to volunteer it.
+- **Ix:** **the assessment task is establishing intent, not just documenting the act** — a careful, non-judgemental history of the specific episode (what preceded it, what the person was hoping to achieve or feel, what happened afterward, whether they expected to die or hoped to survive) does more diagnostic work than the severity of the physical injury alone, since injury severity and suicidal intent don't reliably correlate (a superficial scratch can occur with genuine suicidal intent that was simply poorly executed, while a more severe injury can occur with no intent to die at all) — see [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Suicide for the SADPERSONS risk factors this assessment feeds into, not repeated here. Medical assessment and treatment of the physical injury itself is the immediate first step regardless of the underlying intent.
+- **Mx:**
+  - **Immediate/acute:** treat the physical injury; assess risk (per the Suicide entry above) to determine the appropriate level of ongoing care — this determination (self-harm with clear non-suicidal intent vs a genuine suicide attempt vs genuinely ambivalent/uncertain intent) directly shapes the urgency and type of follow-up needed, so should be made explicitly rather than defaulting to either extreme.
+  - **Definitive:** for NSSI specifically, **dialectical behaviour therapy (DBT)** has the strongest evidence base, given its specific focus on distress tolerance and emotional regulation skills — directly addressing the underlying function NSSI serves, rather than simply trying to suppress the behaviour without replacing its emotional-regulation role; safety planning (identifying triggers, alternative coping strategies, and support contacts for moments of urge) is a practical, collaborative tool used across both NSSI and suicide risk contexts.
+  - **Chronic/long-term:** treat any underlying/coexisting psychiatric condition (depression, borderline personality disorder, PTSD, and others) actively, given self-harm is frequently a symptom/coping mechanism secondary to an underlying condition rather than a standalone diagnosis in its own right; ongoing follow-up given repeated self-harm (of either type) is itself a recognised risk factor for eventual suicide, per the SADPERSONS "previous attempt + history of deliberate self-harm" factor above — meaning NSSI without suicidal intent still warrants genuine, ongoing clinical attention rather than being dismissed as low-risk simply because intent to die was absent on a given occasion.
+
+> [!tip] A non-judgemental, curious clinical stance is genuinely important here — self-harm (of either type) commonly triggers frustration, anxiety, or moralising responses in clinicians and in patients' own families, which reliably damages engagement and disclosure; approaching the behaviour as a (maladaptive but understandable) coping strategy to be explored, rather than as attention-seeking or manipulative behaviour to be managed, is both more accurate and more clinically effective.
+
+## Perinatal depression
+
+> [!note] Gap-filled from CSV ("Perinatal depression," High yield) — genuinely absent as a standalone entry despite Postpartum Psychosis being built in [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]]; this entry covers the far more common (non-psychotic) mood disorder of pregnancy and the postpartum period, complementary to that entry rather than overlapping with it.
+
+- **D:** a major depressive episode (see Depression (Major depressive disorder) above for the diagnostic criteria, not repeated here) occurring during pregnancy (antenatal depression) or within the postpartum period (postnatal/postpartum depression) — **genuinely distinct from, and far more common than, postpartum psychosis** (see [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]] Postpartum (Puerperal) Psychosis for that separate, rarer, and more acutely dangerous condition, not repeated here) — perinatal depression lacks the psychotic features (delusions, hallucinations, gross disorganisation) that define that condition, though both fall under the broader "perinatal mental illness" umbrella and both need active screening.
+- **A/P:** multifactorial — hormonal shifts, sleep deprivation, the psychosocial demands of pregnancy/new parenthood, and pre-existing vulnerability to depression all contribute; genuinely under-recognised given depressive symptoms (fatigue, sleep/appetite change, reduced interest) can overlap with the expected physical experience of pregnancy/early parenthood, making the diagnosis easy to miss if not actively screened for rather than assumed to be "normal" adjustment.
+- **R:** personal or family history of depression (a strong risk factor, similar to the general depression risk factors above); lack of partner/social support; history of childhood abuse; culturally and linguistically diverse background (associated with higher antenatal distress in Australian population data, plausibly reflecting compounding social/systemic stressors); unplanned pregnancy; obstetric complications; prior perinatal depression (a strong predictor of recurrence in a subsequent pregnancy).
+- **S/Smx:** the standard depressive symptom cluster above, occurring during pregnancy or postpartum — importantly, **antenatal distress/depression itself substantially raises the risk of subsequent postnatal depression**, meaning antenatal screening isn't just about the current pregnancy but is directly predictive of postnatal risk too; screen specifically and directly for suicidal ideation and, separately, for any thoughts of harming the infant, given both carry direct safety implications distinct from the general suicide risk assessment in Suicide above.
+- **Ix:** **the Edinburgh Postnatal Depression Scale (EPDS)** is the standard, Australian-guideline-recommended screening tool, used in **both** the antenatal and postnatal periods despite its name — universal EPDS screening is recommended in Australian National Perinatal Mental Health Guidelines (updated 2023), with screening recommended as early as practical in pregnancy and repeated at least once later in pregnancy, then again postnatally. **Recommended cutoffs: ≥13 postpartum, ≥15 antenatally** for "probable depression" warranting further assessment — though the EPDS is explicitly a screening tool, not a diagnostic one, and a positive screen should prompt a full clinical assessment rather than being treated as confirmatory on its own; a score of 10–12 ("perinatal distress," below the standard intervention threshold) is increasingly recognised as still clinically meaningful and worth monitoring, given it's associated with a several-fold higher risk of subsequent postnatal depression even without meeting the higher diagnostic-threshold cutoff. **Any positive response to EPDS Question 10 (regarding self-harm thoughts) warrants careful, direct follow-up regardless of the total score**, given a low total score can still coexist with a clinically significant single-item risk disclosure.
+- **Mx:** the same general depression management principles as Depression (Major depressive disorder) above (psychological therapy, antidepressants for more significant presentations) — not repeated in full here, but with perinatal-specific considerations: medication choice must weigh efficacy against the specific risks of use in pregnancy/breastfeeding (see [[14_06a_Psych_-_Drugs_Used_in_Psychiatry]] Selective serotonin reuptake inhibitors (SSRIs) for the specific pregnancy-trimester and paroxetine-avoidance detail already established there, not repeated here); psychosocial support and partner/family involvement are particularly important given the risk factors above; the 2023 National Perinatal Mental Health Guidelines specifically extended scope to include screening and psychosocial assessment for fathers/non-birthing partners too, reflecting a broader recognition that perinatal mental illness isn't exclusively a maternal concern.
+
+> [!info] In Australia, PANDA (Perinatal Anxiety & Depression Australia, 1300 726 306) and the Gidget Foundation are relevant perinatal mental health support services, alongside the general crisis services (Lifeline 13 11 14) for acute risk — see [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]] Postpartum (Puerperal) Psychosis for the same PANDA reference in the more acute psychotic context, not repeated here.
+
+
+## Bipolar disorder
+
+### Manic episode
+
+- Distinct period of abnormally and persistently elevated, expansive, or irritable mood + persistently increased goal-directed activity or energy, lasting ≥1 week and present most of the day, nearly every day.
+
+> [!info] During this period, ≥3 of the following symptoms:
+> - ↑self-esteem or grandiosity.
+> - ↓need for sleep.
+> - More talkative than usual, or pressure to keep talking ("pressured speech").
+> - Flight of ideas (or subjective experience that thoughts are racing).
+> - Distractibility.
+> - ↑goal-directed activity or psychomotor agitation.
+> - Excessive involvement in activities with high potential for painful consequences (e.g. unrestrained shopping sprees).
+
+- Mood disturbance sufficient to cause severe marked impairment in social or job functioning, or necessitates admission.
+
+### Hypomanic episode
+
+- ≥4 consecutive days, ≥3 symptoms as above. Change in mood/functioning uncharacteristic of the individual, BUT not severe enough to cause social/job impairment and does not require admission.
+
+> [!info] Bipolar I = mania and depression (more common). Bipolar II = hypomania and depression.
+
+- **R:** typically develops in late teen years; lifetime prevalence 2%.
+
+### Management
+
+> [!info] Verified — the core drug classes below (quetiapine, olanzapine, lithium, valproate for acute mania and prophylaxis; the SSRI-not-alone-in-bipolar principle) are internationally standard and consistent with Australian eTG Psychotropic/AMH guidance, not a UK-specific protocol needing wholesale replacement. The one terminology note: "CMHT" (Community Mental Health Team) is UK-specific naming — the equivalent Australian service is typically just termed the local community mental health service/team, varying by state health service naming conventions, but the underlying referral concept (urgent vs routine community mental health referral based on acuity) transfers directly.
+
+- **Acute manic episode:** antipsychotic (e.g. quetiapine, olanzapine); valproic acid or lithium (unless previously used with evidence of benefit — lithium may take up to 3 weeks for effectiveness, so not ideal acutely).
+  - If presenting to GP: hypomania — routine referral to community mental health team (CMHT); mania — urgent referral to CMHT.
+- **Depressive episode:** ensure the patient is on prophylaxis (and compliant) + check serum levels. Consider adding an SSRI alongside mood-stabilising prophylaxis.
+
+> [!danger] SSRIs should not be used alone in bipolar disorder, due to risk of triggering a manic episode.
+
+  - Quetiapine is also licensed to treat depression in bipolar disorder.
+- **Prophylactic management:** lithium ± valproate; or valproate, olanzapine, or quetiapine (valproate not for females of childbearing potential). Aim for a single agent, but most patients will require a mood stabiliser + low-dose antipsychotic, or mood stabiliser + antidepressant.
+
+## Cyclothymia (cyclothymic disorder)
+
+> [!note] Gap-filled from CSV ("Cyclothymia," Medium yield) — genuinely absent despite sitting directly adjacent to Bipolar I/II above, and easily confused with the milder end of that spectrum.
+
+- **D:** numerous periods of hypomanic symptoms (not meeting full criteria for a hypomanic episode — see Hypomanic episode above) **and** numerous periods of depressive symptoms (not meeting full criteria for a major depressive episode — see Depression (Major depressive disorder) above) over ≥2 years (≥1 year in children/adolescents), without ever meeting full criteria for a hypomanic, manic, or major depressive episode.
+- **A/P:** during the ≥2-year period, symptoms present for at least half the time, with no symptom-free period lasting >2 months — a genuinely chronic, fluctuating pattern rather than the more clearly demarcated discrete episodes of Bipolar I/II above.
+
+> [!tip] The core distinguishing concept: cyclothymia is to Bipolar II roughly as dysthymia (persistent depressive disorder) is to major depressive disorder — a **chronic, lower-amplitude** version of the mood instability, below the threshold for a full mood episode, rather than a different illness altogether. This is genuinely why it's easy to under-recognise: no single episode is severe enough to obviously prompt assessment, but the cumulative, unremitting fluctuation causes real functional impairment over time.
+
+- **R:** onset often in adolescence/early adulthood; family history of bipolar disorder is common, given the genuine relationship between the two conditions; a meaningful proportion of patients with cyclothymia go on to later develop full Bipolar I or II disorder, making this a condition worth monitoring longitudinally rather than treating as a fixed, static diagnosis.
+- **S/Smx:** chronic mood instability — periods of mild elevation (increased energy, reduced need for sleep, increased productivity, mild grandiosity) alternating with periods of mild depression (low mood, low energy, reduced interest), neither reaching the severity or duration threshold of a formal hypomanic or depressive episode; often experienced by the patient (and sometimes by clinicians) as simply "being moody" or having an unstable personality, rather than being recognised as a mood disorder — a genuine diagnostic pitfall given how non-specific this can look on the surface.
+- **Mx:** mood stabilisers (e.g. lithium, valproate — following similar principles to bipolar disorder prophylaxis above, though with less robust trial evidence specific to cyclothymia itself given its lower profile as a study population) are used, particularly if functional impairment is significant or if there's a strong family history of bipolar disorder raising concern for eventual progression; psychoeducation and psychotherapy (e.g. CBT) to help the patient recognise and manage the mood pattern; **avoid antidepressant monotherapy**, following the same underlying rationale as the SSRI-not-alone-in-bipolar danger box above, given the risk of destabilising toward hypomania; regular longitudinal follow-up given the meaningful risk of progression to full Bipolar I/II disorder over time.
+
+## Seasonal affective disorder
+
+> [!warning] Corrected, Aug 2026 — this entry previously stated "little evidence for light therapy," which is wrong and would lead an intern to dismiss the treatment with the strongest specific evidence base for this condition. Meta-analysis found bright light therapy produces symptom reduction in SAD with effect sizes comparable to antidepressant pharmacotherapy trials, and it is recommended as a first-line treatment. Verified against healthdirect (Australian Government) and the light-therapy meta-analytic literature.
+
+- **D:** recurrent depressive episodes with a consistent seasonal pattern, characteristically in winter with remission in spring/summer. **Not a standalone diagnosis in DSM-5** — it is the *"with seasonal pattern"* specifier applied to major depressive disorder or bipolar disorder, which matters because it means the underlying disorder must be diagnosed and managed on its own terms first (see Depression (Major depressive disorder) above; if there is any history of mania or hypomania, see Bipolar disorder above).
+- **S/Smx:** the core depressive syndrome, but the neurovegetative features often run *opposite* to typical depression — **hypersomnia rather than insomnia, increased appetite with carbohydrate craving and weight gain rather than anorexia and weight loss**, and prominent fatigue/anergia. This reversal is the recognition cue, and is why the reflex to treat the presenting "can't stop sleeping and eating" complaint symptomatically rather than as depression is a trap.
+- **A/P:** reduced winter light exposure disrupting circadian entrainment, with downstream effects on serotonergic and melatonergic signalling.
+- **The Australian context, which changes the pre-test probability:** SAD is **rare in Australia** — it is a condition of high latitudes with short winter days, and Australian latitudes largely do not produce the required light deprivation. Practically, this means a seasonal pattern in an Australian patient warrants a harder look for alternative explanations (a seasonally-recurring psychosocial stressor, seasonal occupational change, comorbid substance use) before settling on SAD, rather than the diagnosis being reached for as soon as a winter pattern is described.
+- **Mx:**
+  - **Bright light therapy** — first-line, alone or combined with other treatments. Typically 2,500–10,000 lux for 30–60 minutes daily, given **in the morning shortly after waking** (timing is part of the mechanism, not a convenience detail — it works by advancing circadian phase). Most patients improve within the first week.
+  - **Treat the underlying depressive disorder** as per Depression (Major depressive disorder) above — antidepressants and psychological therapy remain appropriate, and are not displaced by light therapy.
+  - Encourage outdoor light exposure and regular exercise as genuinely useful adjuncts.
+  - **Do not prescribe hypnotics for the hypersomnia** — the sleep disturbance here is excessive sleep, not insomnia, and sedatives worsen the daytime anergia.
+
+<!-- ===== SOURCE: N3_Psychosis_and_Antipsychotics.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and adverse effect patterns are reliable at intern level. **Every dose, monitoring interval, diagnostic criterion and threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, RANZCP clinical practice guidelines, and — for clozapine — the mandatory monitoring requirements of the relevant patient monitoring system, which are legally binding.
+>
+> **The mental state examination and risk assessment are built in [[N1]]**, **medical causes of psychosis in [[N1]] 0.6**, and **substance-induced psychosis in [[N2]] 0.3** — each is cross-referenced rather than repeated.
+
+---
+
+## 0.1 The First Episode of Psychosis
+
+> [!tip] Positive and negative symptoms — and why the negative ones matter more
+> **POSITIVE symptoms — delusions, hallucinations, disorganised thought and speech, disorganised or catatonic behaviour.** These are what bring people to attention and what antipsychotics treat best.
+> **NEGATIVE symptoms — AVOLITION (loss of motivation), ALOGIA (poverty of speech), ANHEDONIA, affective FLATTENING, and ASOCIALITY.**
+> **The negative symptoms typically PRECEDE the positive ones, PERSIST after they are treated, and account for MOST of the long-term functional impairment.**
+> **They are also routinely misattributed — to depression, to laziness, to "not trying", to medication side effects, or to the person's personality.** **Recognising them as symptoms changes how families and clinicians respond**, and it is one of the more useful things to explain.
+
+> [!danger] Duration of untreated psychosis predicts outcome — and this drives the whole service model
+> **The longer psychosis goes untreated, the worse the outcomes: slower and less complete remission, greater functional decline, and worse long-term prognosis.**
+> **This is the evidence base behind EARLY INTERVENTION services**, and Australia has been internationally influential here — **the EPPIC model and the headspace network originated in Australian work.**
+> **Practical implication: a young person with emerging psychotic symptoms should be referred to an early intervention or youth mental health service promptly, not observed to see whether it declares itself.**
+> `UNVERIFIED — current service names, eligibility and referral pathways.`
+
+> [!warning] The prodrome is where the opportunity is, and it is non-specific
+> **Months to years of: social withdrawal · decline in school, work or self-care · sleep disturbance · odd or magical beliefs · suspiciousness · perceptual oddities · reduced motivation · and a sense that something has changed.**
+> **It looks like adolescence, depression, or drug use — which is why it is missed.**
+> **The signal is a sustained CHANGE from the person's own baseline, particularly a functional decline, reported by someone who knows them well.** **Collateral history is what makes this visible.**
+
+> [!tip] What the first assessment must achieve
+> **· A full mental state examination and risk assessment** — cross-refer [[N1]].
+> **· COLLATERAL HISTORY — essential, and it is where the timeline and functional decline come from.**
+> **· A FULL MEDICAL WORKUP. First-episode psychosis mandates exclusion of organic causes** — cross-refer [[N1]] 0.6 and 0.3 below.
+> **· A substance use history, including synthetic and novel substances.**
+> **· ENGAGEMENT.** **A young person's first experience of mental health services predicts their engagement for years afterwards.** A coercive, frightening or dismissive first contact has long consequences. **Take the time, explain what is happening, involve them in decisions where possible, and involve family with consent.**
+
+---
+
+## 0.2 Schizophrenia and Related Disorders
+
+> [!info] The diagnostic frame
+> **Characteristic symptoms (positive, negative, disorganised) present for a defined duration, with significant functional impairment, and not better explained by a mood disorder, substance use or another medical condition.** `UNVERIFIED — the specific criteria and durations.`
+> **SCHNEIDERIAN FIRST-RANK SYMPTOMS** — thought insertion, withdrawal and broadcasting; passivity phenomena; third-person auditory hallucinations; running commentary; and delusional perception.
+> **These are classically taught and worth recognising — but they are NOT specific to schizophrenia.** They occur in mania, in organic states and in substance-induced psychosis, and their presence does not make the diagnosis.
+
+> [!tip] The related disorders
+> **· SCHIZOAFFECTIVE DISORDER — psychotic and mood symptoms both prominent, with psychosis present for a period in the absence of mood symptoms.**
+> **· SCHIZOPHRENIFORM DISORDER — the schizophrenia picture but of shorter duration; a proportion progress and a proportion do not.**
+> **· BRIEF PSYCHOTIC DISORDER — abrupt onset, short duration, full return to premorbid function, often with an identifiable stressor.**
+> **· DELUSIONAL DISORDER — a circumscribed, non-bizarre delusional system with OTHERWISE PRESERVED functioning and no prominent hallucinations or negative symptoms.** These patients can appear entirely normal outside the delusional domain, which is why the diagnosis is often made late and why they rarely present voluntarily.
+> **· POSTPARTUM PSYCHOSIS — a PSYCHIATRIC EMERGENCY.** Rapid onset, typically within days to weeks of delivery, with a fluctuating and confusional quality, and **substantial risk to both mother and infant.** **It requires urgent psychiatric assessment and almost always admission, ideally to a mother-and-baby unit.** Cross-refer [[O3]].
+
+> [!warning] The prognosis is heterogeneous — and saying so matters
+> **Outcomes range from full recovery to severe persistent disability, and the older nihilistic framing is inaccurate.**
+> **Better prognostic features: acute onset, an identifiable precipitant, good premorbid functioning, prominent mood symptoms, later age of onset, female sex, and good social support.**
+> **Worse: insidious onset, prominent negative symptoms, poor premorbid function, early onset, long duration of untreated psychosis, and ongoing substance use.**
+> **Telling a family "this is a lifelong deteriorating illness" at first presentation is both inaccurate and harmful.**
+
+> [!danger] The mortality gap is cardiovascular, not suicide
+> **People with schizophrenia die substantially earlier than the general population — on the order of 15 to 20 years.**
+> **Suicide risk is genuinely and substantially elevated, particularly early in the illness. But the MAJORITY of the excess mortality is from CARDIOVASCULAR DISEASE, respiratory disease and cancer.**
+> **The drivers: very high smoking rates · antipsychotic-related metabolic effects · sedentary lifestyle and poor diet · poverty · and — critically — UNDER-DIAGNOSIS AND UNDER-TREATMENT OF PHYSICAL ILLNESS through diagnostic overshadowing and fragmented care.**
+> **This reframes what good psychiatric care includes: metabolic monitoring, smoking cessation, cardiovascular risk management and cancer screening are not someone else's job.** See 0.7.
+
+---
+
+## 0.3 The Differential Diagnosis of Psychosis
+
+> [!danger] Exclude organic causes in every first episode
+> The full list is in **[[N1]] 0.6.** The features that should prompt particular concern: **new onset over 40 · acute onset · fluctuating consciousness · disorientation · abnormal vital signs · focal neurology · VISUAL, olfactory or tactile hallucinations · and no prior psychiatric history.**
+> **ANTI-NMDA RECEPTOR ENCEPHALITIS deserves specific mention: a young person, often female, with a psychiatric prodrome followed by seizures, a movement disorder and autonomic instability, associated with an ovarian teratoma. It is treatable and it is repeatedly admitted to psychiatric units first.** Cross-refer [[D1]] 0.5.
+
+> [!tip] Substance-induced psychosis
+> **Stimulants (methamphetamine in particular), cannabis and synthetic cannabinoids, hallucinogens, and corticosteroids** — plus **withdrawal states** and **anticholinergic and dopaminergic drugs.**
+> **Distinguishing it from a primary psychotic illness requires the temporal relationship and observation over time**, and it should not be settled confidently at first presentation. **Substance-induced psychosis usually resolves over days to weeks with abstinence — but it can persist, and repeated episodes are associated with subsequent primary psychotic illness.** Cross-refer [[N2]] 0.3.
+
+> [!warning] Mood disorder with psychotic features — and why the distinction changes treatment
+> **In psychotic depression: the delusions are typically MOOD-CONGRUENT — guilt, poverty, nihilism, deserved punishment, somatic decay (Cotard).** **The mood disturbance precedes and dominates.**
+> **In mania with psychosis: grandiose and often expansive delusions, with elevated or irritable mood, reduced need for sleep and increased activity.**
+> **This matters because the treatment differs: psychotic depression requires an antidepressant PLUS an antipsychotic (an antidepressant alone is inadequate), and electroconvulsive therapy is highly effective. Mania requires a mood stabiliser or antipsychotic, and an antidepressant alone can precipitate or worsen mania.** Cross-refer [[N4]].
+
+> [!tip] The other things that are mistaken for psychosis
+> **· DELIRIUM — fluctuating attention and consciousness, visual hallucinations, acute onset.** Cross-refer [[D2]] 0.2.
+> **· DEMENTIA — particularly LEWY BODY dementia (well-formed visual hallucinations, fluctuation, parkinsonism, REM sleep behaviour disorder) and frontotemporal dementia (behavioural change misread as psychiatric).** Cross-refer [[D2]] 0.3.
+> **· BORDERLINE PERSONALITY DISORDER — transient, stress-related quasi-psychotic experiences, usually brief and with retained reality testing.** Cross-refer [[N6]].
+> **· PTSD — flashbacks and dissociative re-experiencing can be described in ways that sound like hallucinations.** Cross-refer [[N5]].
+> **· CULTURALLY NORMATIVE EXPERIENCES.** **Beliefs and experiences that are sanctioned within a person's cultural or religious community — including communication with ancestors or spirits, and experiences of possession or healing — are NOT delusions or hallucinations.**
+> **Pathologising them is a serious error with real consequences, and it disproportionately affects Aboriginal and Torres Strait Islander people and people from culturally diverse backgrounds.**
+> **The test is whether the belief or experience is shared and accepted within their community, and whether it is causing distress or dysfunction by their community's standards — which requires asking someone who knows.** **Seek a cultural informant, an Aboriginal Health Worker, or a clinician from that community.** Cross-refer [[AU1]] 0.3.
+
+---
+
+## 0.4 Antipsychotics
+
+> [!tip] The mechanism, and what the "typical/atypical" distinction actually means
+> **All effective antipsychotics act on the dopamine D2 receptor — as antagonists, or in the case of aripiprazole as a partial agonist.** Second-generation agents additionally antagonise 5-HT2A receptors.
+> **The "typical versus atypical" division is more historical and commercial than pharmacological.** **With the single exception of CLOZAPINE, efficacy is broadly comparable across agents.**
+> **What actually differs is the SIDE EFFECT PROFILE, and that is what drives the choice:**
+> **· First-generation (haloperidol, chlorpromazine, zuclopenthixol, flupenthixol) — MORE extrapyramidal side effects and hyperprolactinaemia.**
+> **· Second-generation (olanzapine, risperidone, quetiapine, amisulpride, aripiprazole, paliperidone, lurasidone, ziprasidone) — MORE metabolic effects, with substantial variation between them.**
+> **Choose on the basis of side effect profile, the patient's comorbidities and preferences, and previous response — not on a presumed efficacy difference.**
+
+> [!warning] Practical prescribing points
+> **· Antipsychotic effect on psychotic symptoms takes DAYS TO WEEKS.** Sedation is immediate, and it is easy to mistake sedation for therapeutic effect and escalate the dose too quickly.
+> **· "Start low, go slow" in the antipsychotic-naive, the elderly, and in first-episode psychosis** — first-episode patients respond to lower doses and are more sensitive to side effects.
+> **· AVOID ROUTINE ANTIPSYCHOTIC POLYPHARMACY.** Two agents together increase side effects, cost and mortality risk without clear benefit, and it usually arises from cross-titration that was never completed.
+> **· LONG-ACTING INJECTABLES (depots) improve adherence and reduce relapse and hospitalisation.** **They should be offered as a positive option early — "many people find this easier than remembering tablets" — rather than introduced as a consequence of non-adherence.** Framing them as a punishment guarantees refusal.
+> **· Adherence is the single biggest determinant of relapse**, and non-adherence usually has reasons — side effects, lack of insight, cost, complexity, or feeling well. **Ask about them rather than assuming.**
+
+---
+
+## 0.5 Antipsychotic Adverse Effects
+
+> [!danger] Acute dystonia — dramatic, frightening, and rapidly reversible
+> **Onset within hours to days of starting or increasing a dopamine antagonist**, more common in young men and with high-potency agents.
+> **Features: OCULOGYRIC CRISIS (forced sustained upward eye deviation), torticollis, trismus, opisthotonos, tongue protrusion, and — dangerously — LARYNGEAL DYSTONIA causing stridor and airway compromise.**
+> **It is frequently misdiagnosed as a seizure, a psychiatric manifestation, or tetanus** — particularly when it follows metoclopramide or prochlorperazine given for nausea rather than an antipsychotic.
+> **Treatment with an anticholinergic (benztropine) produces relief within minutes and is close to diagnostic.** Cross-refer [[C2]] 0.5 and [[D6]] 0.6.
+
+> [!danger] Akathisia — and the trap of treating it with more antipsychotic
+> **A subjective sense of inner restlessness with a compulsion to move — pacing, rocking, inability to sit still, shifting the legs.**
+> **The critical error: it LOOKS like agitation or worsening psychosis, and the reflex response is to INCREASE the antipsychotic — which makes it worse.**
+> **The distinguishing feature is the SUBJECTIVE experience: ask "is it that you feel restless inside and can't keep still?" as opposed to feeling frightened, angry or driven by delusions.**
+> **Akathisia is profoundly distressing, is associated with treatment non-adherence, and has been associated with SUICIDE.** It should be taken seriously rather than tolerated.
+> **Management: reduce the dose, switch to a lower-risk agent, or add propranolol.** `UNVERIFIED — treatment options and doses.`
+
+> [!tip] The other movement disorders
+> **· DRUG-INDUCED PARKINSONISM — days to weeks; bradykinesia, rigidity and tremor, typically SYMMETRICAL.** **May take months to resolve after stopping the drug**, so lack of immediate improvement does not exclude it. Cross-refer [[D6]] 0.5.
+> **· TARDIVE DYSKINESIA — months to years of exposure; orofacial choreiform movements, tongue protrusion, lip smacking, and truncal or limb movements.** **It may be IRREVERSIBLE, and STOPPING the drug can transiently WORSEN it before improvement**, which discourages both patient and clinician. **Prevention through the lowest effective dose and regular review is the main strategy.** Cross-refer [[D6]] 0.6.
+> **· NEUROLEPTIC MALIGNANT SYNDROME — rigidity, hyperthermia, autonomic instability, altered consciousness, raised CK.** Cross-refer [[A6]] 0.3.
+
+> [!danger] Metabolic adverse effects — monitor from baseline, because they are what kills these patients
+> **Weight gain, dyslipidaemia, insulin resistance and type 2 diabetes — with substantial variation between agents.**
+> **· Highest risk: OLANZAPINE and CLOZAPINE.**
+> **· Intermediate: quetiapine, risperidone, paliperidone.**
+> **· Lowest: ARIPIPRAZOLE, ziprasidone, lurasidone, amisulpride.**
+> **Weight gain is often rapid in the first weeks and is a major cause of non-adherence, particularly in young people — and it is dismissed by clinicians far more readily than by patients.**
+> **MONITOR: weight and waist circumference, blood pressure, fasting lipids, and glucose or HbA1c — with a BASELINE before starting and at defined intervals thereafter.** `UNVERIFIED — the monitoring schedule.`
+> **And act on the results** — metabolic monitoring that is recorded and never acted upon is the common failure. Cross-refer 0.7.
+
+> [!warning] Hyperprolactinaemia — ask, because they will not tell you
+> **Highest with RISPERIDONE, PALIPERIDONE, AMISULPRIDE and the first-generation agents; lowest with aripiprazole (which may even lower prolactin) and quetiapine.**
+> **Consequences: galactorrhoea · amenorrhoea and menstrual disturbance · sexual dysfunction and reduced libido · gynaecomastia · infertility · and long-term BONE LOSS.**
+> **Patients almost never raise sexual dysfunction or galactorrhoea spontaneously, and it is a significant and under-recognised cause of silent non-adherence.** **Ask directly and matter-of-factly.** Cross-refer [[I4]] 0.2.
+
+> [!tip] The rest
+> **· QT PROLONGATION — baseline and follow-up ECG, and caution with combinations and with electrolyte disturbance.** Cross-refer [[B3]] 0.3.
+> **· Sedation and cognitive dulling** — a major reason people stop.
+> **· ANTICHOLINERGIC effects — dry mouth, constipation, urinary retention, blurred vision, cognitive impairment** — and constipation in particular must be taken seriously (see clozapine below).
+> **· Orthostatic hypotension** — especially on initiation and with quetiapine and clozapine.
+> **· Lowered seizure threshold.**
+> **· IN OLDER PEOPLE WITH DEMENTIA — increased stroke and mortality**, and in **Lewy body disease, severe neuroleptic sensitivity.** **Ask about visual hallucinations, fluctuation and dream enactment before prescribing an antipsychotic to any older person.** Cross-refer [[D2]] 0.2–0.3.
+
+---
+
+## 0.6 Clozapine
+
+> [!danger] The only agent with superior efficacy in treatment resistance — and it is used too late
+> **Treatment-resistant schizophrenia is defined as failure to respond to adequate trials of two different antipsychotics at adequate dose and duration.**
+> **Clozapine is the only antipsychotic with demonstrated superior efficacy in this group, and it also reduces suicide risk.**
+> **It is consistently UNDER-USED and STARTED TOO LATE — often after many more failed trials than the definition requires — because of the monitoring burden and clinician apprehension.** **The delay costs patients years of unremitted illness.**
+
+> [!danger] Constipation kills more clozapine patients than agranulocytosis does
+> **This is the point that is least known and most important.**
+> **Clozapine causes profound gastrointestinal hypomotility, and severe constipation can progress to paralytic ileus, bowel obstruction, ischaemia, perforation and death.**
+> **The mortality from clozapine-induced gastrointestinal hypomotility exceeds that from agranulocytosis** — yet the monitoring system is built entirely around the blood count.
+> **Practically: prescribe PROPHYLACTIC LAXATIVES from the outset · ASK ABOUT BOWELS AT EVERY REVIEW · and treat constipation aggressively rather than as a nuisance.**
+> **A clozapine patient with abdominal pain, distension or vomiting needs urgent assessment for obstruction — not reassurance.** Cross-refer [[C5]] 0.2 and 0.5.
+
+> [!danger] Myocarditis — in the first weeks, and it is missed
+> **Clozapine-induced myocarditis typically occurs within the FIRST FOUR TO SIX WEEKS of treatment and can be fatal.**
+> **Features: fever, tachycardia disproportionate to anything else, chest pain, breathlessness, fatigue, and flu-like symptoms — all of which are easily attributed to a viral illness or to clozapine's benign transient fever.**
+> **Monitoring during titration should include TROPONIN, CRP and observations**, precisely because the clinical features are non-specific.
+> **A raised troponin or CRP with tachycardia in the first weeks of clozapine requires the drug to be withheld and urgent cardiology assessment.** `UNVERIFIED — the monitoring protocol and thresholds, which are specified in the relevant clozapine monitoring programme.`
+> **Later-onset CARDIOMYOPATHY also occurs, warranting periodic echocardiography.**
+
+> [!warning] Agranulocytosis and the monitoring system
+> **The reason for mandatory haematological monitoring — a registered system linking patient, prescriber, pharmacy and laboratory, with defined blood count intervals (frequent initially, then reducing) and mandatory reporting.**
+> **The clinical instruction to the patient: FEVER, SORE THROAT OR MOUTH ULCERS means an urgent full blood count and withholding the dose.**
+> **This is legally structured, not discretionary, and dispensing is contingent on the monitoring being current.** `UNVERIFIED — the intervals, thresholds and system requirements.`
+
+> [!tip] Three practical points that catch people out
+> **· SMOKING CESSATION RAISES CLOZAPINE LEVELS SUBSTANTIALLY.** Cigarette smoke induces CYP1A2; stopping removes that induction and levels can rise into the toxic range. **A patient admitted to a smoke-free hospital who stops smoking abruptly can develop clozapine toxicity — sedation, seizures, hypotension — within days.** **Anticipate it, monitor, and consider dose reduction and level measurement.** **The reverse applies on discharge if they resume.**
+> **· MISSED DOSES REQUIRE RETITRATION.** If clozapine has been missed for more than about 48 hours, it must be RESTARTED FROM A LOW DOSE and titrated up again — because tolerance to the hypotensive and sedative effects is lost rapidly. **Restarting at the previous dose can cause collapse.** `UNVERIFIED — the exact interval.`
+> **· Other adverse effects: HYPERSALIVATION (paradoxical, and often the most socially distressing to the patient), sedation, weight gain and metabolic effects, seizures at higher doses, orthostatic hypotension, tachycardia, and a benign transient fever early in treatment that must be distinguished from myocarditis and neutropenia.**
+
+---
+
+## 0.7 Long-Term Management and Physical Health
+
+> [!danger] Physical health care is part of psychiatric care, and if nobody is named, nobody does it
+> **Given that most of the mortality gap is cardiovascular, the physical health of a person with severe mental illness is not an ancillary concern.**
+> **The recurring system failure: the psychiatric team assumes the GP is doing it, the GP assumes the mental health service is doing it, and nobody does.**
+> **Fix it by naming who is responsible, in writing, in the discharge summary or care plan.**
+> **What needs to happen: metabolic monitoring with ACTION on the results · smoking cessation support · cardiovascular risk assessment · diabetes screening · cancer screening participation, which is markedly lower in this group · dental care · and sexual and reproductive health.**
+
+> [!tip] Smoking cessation works in this population
+> **Smoking rates in people with schizophrenia are very high, and the assumption that they cannot or do not want to quit is inaccurate — they are as motivated as the general population and quit rates with proper support are meaningful.**
+> **Offer nicotine replacement, varenicline and behavioural support** — with two caveats: **monitor mood, and remember the CLOZAPINE AND OLANZAPINE LEVEL EFFECT described above.**
+
+> [!warning] The psychosocial interventions with evidence
+> **· CBT for psychosis** — reduces distress and the impact of persistent symptoms.
+> **· FAMILY INTERVENTION — reduces relapse substantially**, and is under-provided.
+> **· INDIVIDUAL PLACEMENT AND SUPPORT (supported employment) — good evidence for helping people into competitive employment**, and employment itself improves outcomes. **"Train then place" models do not work as well as "place then train".**
+> **· Assertive community treatment and case management for those with complex needs and frequent admissions.**
+> **· Relapse prevention planning with identified EARLY WARNING SIGNS** — most people have a recognisable individual prodrome, and identifying it with them and their family allows earlier intervention.
+> **· Treat comorbid substance use concurrently.** Cross-refer [[N2]].
+
+> [!tip] The framing that matters to patients
+> **Recovery in this context does not necessarily mean absence of symptoms — it means a meaningful life with self-determination, relationships, purpose and hope.**
+> **Stigma — including within healthcare — is a major determinant of outcome**, and the way psychiatric patients are spoken about and treated on medical wards is part of that.
+> **Carers need information, support and recognition**, and they are frequently excluded on privacy grounds when the patient would in fact consent if asked.
+
+**Ix:** **Baseline before starting an antipsychotic: weight, waist circumference, blood pressure, FBC, UEC, LFT, fasting glucose or HbA1c, fasting lipids, prolactin where relevant, and ECG** (*why:* establishes the baseline against which metabolic and cardiac effects are judged, and it is impossible to attribute a later abnormality without it; *what:* baseline values, QTc). **First-episode organic screen** (*why:* medical causes of psychosis; *what:* per [[N1]] 0.6). **Metabolic monitoring at defined intervals thereafter** (*why:* the effects are early and progressive, and this is where the mortality gap is generated; *what:* weight, glucose, lipids, blood pressure). **Clozapine: mandatory FBC per protocol, plus troponin, CRP and observations during titration, and periodic echocardiography** (*why:* agranulocytosis, myocarditis and cardiomyopathy; *what:* neutrophil count, troponin, CRP, ejection fraction). **Clozapine level** where toxicity, non-response or a change in smoking status (*why:* levels vary widely and smoking is a major determinant; *what:* level). Prolactin where symptomatic (*why:* hyperprolactinaemia is common, symptomatic and under-asked; *what:* elevation).
+
+---
+
+> [!note] Cross-references
+> Mental state examination, risk and the Mental Health Act → [[N1]] · Medical causes of psychosis → [[N1]] 0.6 · Substance-induced psychosis and stimulants → [[N2]] 0.3 · Mood disorders and psychotic depression → [[N4]] · Personality disorder and quasi-psychotic phenomena → [[N6]] · PTSD and dissociation → [[N5]] · Delirium, dementia and Lewy body neuroleptic sensitivity → [[D2]] 0.2–0.3 · Acute dystonic reactions and tardive dyskinesia → [[D6]] 0.6 and [[C2]] 0.5 · Drug-induced parkinsonism → [[D6]] 0.5 · Neuroleptic malignant syndrome → [[A6]] 0.3 · QT prolongation → [[B3]] 0.3 · Hyperprolactinaemia → [[I4]] 0.2 · Metabolic syndrome and cardiovascular risk → [[I5]] 0.4 and [[B2]] 0.1 · Constipation and ileus → [[C5]] 0.2, 0.5 · Autoimmune encephalitis → [[D1]] 0.5 · Postpartum psychosis → [[O3]] · Cultural safety and not pathologising cultural experience → [[AU1]] 0.3
+
+
+<!-- ===== SOURCE: 14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics.md ===== -->
+
+
+## 0.1 Features that define psychotic disorders (DSM-5)
+
+- **Delusions:** fixed beliefs not amenable to change in light of conflicting evidence. Types: persecutory, referential, grandiose, erotomanic, nihilistic, somatic. Termed "bizarre" if clearly implausible and not understandable to same-culture peers. Also encompasses thought withdrawal, thought insertion, delusions of control.
+- **Hallucinations:** perception-like experiences without an external stimulus. May occur in any sensory modality, but auditory hallucinations are most commonly associated with schizophrenia.
+- **Disorganised thinking (speech)** — formal thought disorder: derailment or loose association (e.g. Knight's move thinking); tangentiality (obliquely or completely unrelated answers) — circumstantiality is giving an answer in excessive, unnecessary detail; incoherence ("word salad").
+- **Grossly disorganised or abnormal motor behaviour:** includes catatonia — a marked decrease in reactivity to the environment (resistance to instructions/negativism, mutism and stupor, etc).
+- **Negative symptoms:** blunting of affect; anhedonia (inability to derive pleasure); alogia (poverty of speech); avolition (poor motivation); social withdrawal.
+
+## 0.2 Schizophrenia
+
+- **D:** mental health disorder in which a person's perception, thoughts, mood, and behaviour are significantly altered.
+
+> [!info] Risk — strong family history association (relative risk, RR = ratio of risk in the exposure group vs the non-exposure group):
+> - Parent with schizophrenia: RR 7.5.
+> - Identical twin with schizophrenia: RR 50.
+> - Fraternal twin with schizophrenia: RR 5–15.
+>
+> Less strongly associated with obstetric complications, cannabis use (RR ~2), Black Caribbean ethnicity (RR 5.8).
+
+### 0.2.1 Diagnostic criteria (DSM-5)
+
+> [!info]
+> **A.** ≥2 of the following for most of 1 month: delusions; hallucinations; disorganised speech; grossly disorganised or catatonic behaviour; negative symptoms (↓emotional expression or avolition).
+>
+> **B.** Significant impact on self-care, social, or job functioning.
+>
+> **C.** Continuous signs of disturbance persist for ≥6 months, including ≥1 month of criterion A, plus prodromal or residual symptoms.
+
+> [!tip] Schneider's first-rank symptoms — useful as a triage tool, but not particularly sensitive or specific:
+> - Auditory hallucinations.
+> - Thought disorders (echo, insertion, withdrawal, broadcasting).
+> - Somatic hallucination (false perception of physical experience within the body).
+> - Delusional perception — a true perception to which a person attributes a false meaning; a fixed belief that does not change in light of conflicting evidence.
+> - Feelings or actions experienced as made or influenced by external agents (e.g. "the CIA is controlling my arm").
+
+### 0.2.2 Other features of schizophrenia
+
+- Impaired insight; negative symptoms; neologisms (made-up words); Knight's move thinking; catatonia; clang associations (ideas related only by similar sounds/rhymes); echolalia (repetition of someone else's speech).
+
+### 0.2.3 Management
+
+- 2nd generation antipsychotics; offer CBT; cardiovascular risk-factor modification.
+- **P:** factors associated with poor prognosis — strong family history, gradual onset, low IQ, prodromal phase of social withdrawal, lack of an obvious precipitant.
+
+## 0.3 Schizoaffective disorder
+
+> [!note] Gap-filled from CSV ("Schizoaffective disorder," Medium yield) — genuinely absent despite sitting conceptually between schizophrenia above and the mood disorders in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]], a distinction that's frequently examined precisely because of how easily it's confused with either.
+
+- **D:** a condition featuring both psychotic symptoms (meeting the schizophrenia criterion A above) **and** a major mood episode (depressive or manic), occurring together, **plus** a period of ≥2 weeks of psychotic symptoms in the **absence** of a mood episode at some point in the illness — this last criterion is the genuinely important distinguishing feature, since it confirms the psychosis isn't simply a feature that only ever appears alongside mood episodes.
+- **A/P:** the mood symptoms must be present for the majority of the total duration of the illness (both active and residual periods) — a threshold that helps distinguish schizoaffective disorder from schizophrenia with an incidental co-occurring mood episode.
+
+> [!tip] The key three-way distinction, worth holding in mind as a single framework:
+> - **Schizophrenia:** psychotic symptoms, with mood symptoms (if present at all) only ever occurring briefly relative to the total illness duration.
+> - **Mood disorder with psychotic features** (e.g. psychotic depression, or a manic episode with psychotic features — see [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Bipolar disorder and [[14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics]] Psychosis for the disease-level detail, not repeated here): psychotic symptoms occur **only** during a mood episode, never independently.
+> - **Schizoaffective disorder:** both mood and psychotic symptoms are prominent for most of the illness, **and** there's a documented period of psychosis without any mood episode — the genuine "both, with independent psychosis" middle ground between the two categories above.
+
+- **S/Smx:** a combination of the psychotic features described in Features that define psychotic disorders (DSM-5) above and the mood episode criteria in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Depression (Major depressive disorder) and Bipolar disorder, not repeated here.
+- **Mx:** combination treatment addressing both symptom domains — antipsychotic medication for the psychotic features (per the schizophrenia Management principles above), plus mood-stabilising or antidepressant treatment depending on whether the bipolar or depressive subtype is present (per the relevant mood disorder Mx in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]], not repeated here); psychiatric specialist management given the diagnostic complexity and the need to titrate two categories of medication concurrently.
+- **P:** generally intermediate between schizophrenia (poorer) and mood disorders alone (better) — genuinely variable given the heterogeneity of presentation this diagnosis covers.
+
+## 0.4 Psychosis
+
+- **D:** a mental health disorder involving some loss of contact with reality.
+- **Brief psychotic disorder:** psychotic symptoms with duration <1 month, not better attributed to another cause, with eventual full return to premorbid level of functioning.
+
+> [!info] Psychosis can occur in other conditions: depression (psychotic depression); bipolar disorder; puerperal psychosis; neurological conditions (e.g. Parkinson's, Huntington's); prescribed drugs (e.g. steroids); illicit drugs (e.g. cannabis, phencyclidine).
+
+- **Mx:** identify and treat the underlying cause where one is found, given the broad differential above (e.g. treat the causative substance/drug reaction, manage the underlying mood episode in psychotic depression or bipolar disorder, address the organic neurological cause) — psychosis here is often a presenting *feature* of another condition rather than a standalone diagnosis requiring its own separate treatment pathway; antipsychotic medication (see Antipsychotics below) is used for symptomatic control of the psychotic symptoms themselves, in addition to treating the underlying cause; urgent psychiatric assessment for new-onset psychosis given the range of possible causes (some genuinely urgent/reversible, e.g. an organic or substance-induced cause) and the safety risk highlighted by the self-harm association above; admission may be required if there's significant risk to self or others, or if the patient lacks capacity/insight to engage safely with community-based care.
+
+## 0.5 Postpartum (Puerperal) Psychosis
+
+> [!note] Gap-filled from CSV ("Post-partum psychosis," High yield) — genuinely absent as a standalone entry despite being listed as a cause of psychosis immediately above; built here given its severity (a genuine psychiatric emergency) and its close relationship to the bipolar disorder content in [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]], not repeated here.
+
+- **E:** approximately **1:500 births** — figure carried from [[16_10-13_Labour_and_Delivery]] Puerperal psychosis, which also frames onset as **50% by 7 days and 90% by 3 months** postpartum. **Note that entry gives recurrence risk as 25–50% where this one gives >50%** (see `PENDING_GUIDELINE_CHECKS.md` **B59**).
+- **D:** the most severe form of postpartum psychiatric illness — acute onset of psychotic symptoms (delusions, hallucinations, disorganised behaviour) in the days to weeks following childbirth. A genuine psychiatric emergency, not a milder variant of postpartum "baby blues" or postnatal depression.
+- **A/P:** genuinely closely linked to bipolar disorder — a substantial proportion of cases occur in women with a pre-existing bipolar diagnosis, and postpartum psychosis is increasingly understood as sitting within the bipolar spectrum for many patients, though 25–30% of women with postpartum psychosis never have another affective episode outside the postpartum period, making the relationship genuinely complex rather than a simple subtype. Risk is dramatically elevated in the first 3 weeks postpartum specifically (up to a 30-fold increased risk of acute psychosis in this window compared to baseline).
+- **R:** personal history of bipolar disorder (risk rises to ~30% in a subsequent pregnancy) or personal history of postpartum psychosis specifically (risk rises to >50% in a subsequent pregnancy — the single strongest risk factor); family history of bipolar disorder or postpartum psychosis; primiparity; sleep deprivation appears to be a genuine contributing/precipitating factor, not just a symptom.
+- **S/Smx:** rapid onset, classically within the first 2 weeks postpartum (up to 65% of cases), though onset as early as 48–72 hours or as late as several weeks postpartum also occurs; early, subtle warning signs include increasingly anxious affect and poor sleep **independent of the baby's waking pattern** — a genuinely useful early clue distinguishing this from ordinary new-parent sleep disruption; progresses to mood lability (depressed or elated, sometimes rapidly alternating), disorganised behaviour/thinking, delusions (which may specifically involve the baby — e.g. beliefs the baby is unwell, defective, or in danger), hallucinations, confusion; **fluctuating symptoms, particularly worse at night, and disorientation can mimic an acute confusional state/delirium**, which is exactly why organic causes should still be actively excluded even when the presentation looks psychiatric.
+- **Ix:** primarily a clinical diagnosis based on the presentation above, but organic causes should always be excluded given the physiological context of recent childbirth — screen for postpartum sepsis, significant blood loss/anaemia, eclampsia-related complications, thyroid dysfunction, and substance use, given these can all produce a similar acute mental state change and require entirely different urgent management. Collateral history from partner/family is particularly valuable given the fluctuating, sometimes subtle early presentation.
+- **Mx:**
+  - **Immediate/acute:** this is a genuine psychiatric emergency — urgent same-day psychiatric assessment and, for more severe presentations, admission is required, given the risk to both the mother (suicide risk is significantly elevated) and the infant (risk of harm, whether through delusional beliefs about the baby or impaired capacity to safely care for the infant); antipsychotic medication is the mainstay of acute symptomatic treatment; mood stabilisers (e.g. lithium) if there's a significant mood component or known/suspected bipolar association.
+  - **Definitive:** admission to a specialist **Mother and Baby Unit (MBU)** where available — a unit specifically designed to allow the baby to remain with the mother during admission, supporting bonding and providing safety, support, and parenting education alongside acute psychiatric treatment; MBUs exist in Australia (as well as UK and other countries), though access/availability varies by region.
+  - **Chronic/long-term:** careful discharge planning given the risk of relapse and the ongoing safety needs of both mother and infant; women with a history of postpartum psychosis (or bipolar disorder) planning a future pregnancy should have proactive perinatal psychiatric input given the substantial recurrence risk above — prophylactic treatment planning before and immediately after a subsequent delivery is a genuinely important preventive strategy, not something to address only if symptoms recur.
+- **P:** generally good with prompt treatment — women with first-onset postpartum psychosis (no prior bipolar diagnosis) tend to have a better prognosis and long-term outcome than women with an established bipolar disorder diagnosis, though the significant recurrence risk in future pregnancies remains regardless.
+
+> [!info] In Australia, PANDA (Perinatal Anxiety & Depression Australia) is a relevant support/helpline resource for perinatal mental health concerns more broadly — worth knowing as a genuinely Australian-specific resource, distinct from the acute emergency psychiatric response required for postpartum psychosis itself.
+
+## 0.6 Antipsychotics
+
+- Divided into typical and atypical.
+
+### 0.6.1 Typical antipsychotics
+
+- Dopamine D2 receptor antagonists, blocking dopaminergic transmission in mesolimbic pathways.
+- Cause extrapyramidal side effects and hyperprolactinaemia.
+- Examples: haloperidol, chlorpromazine.
+
+### 0.6.2 Atypical antipsychotics (2nd generation, SGA)
+
+- Act on D2, D3, D4, 5HT (serotonin) receptors.
+- Fewer extrapyramidal side effects and less hyperprolactinaemia, but can have marked metabolic effects.
+- Examples: olanzapine, risperidone.
+
+### 0.6.3 Extrapyramidal side effects (EPSE)
+
+> [!warning] Mnemonic — "ADAPT"
+> - **A**cute dystonia (days to weeks) — sustained muscle contractions: torticollis ("wry neck"), oculogyric crisis (spasmodic movement of eyeballs into a fixed position, usually upwards).
+> - **A**kathisia (severe restlessness).
+> - **P**arkinsonism (weeks to months).
+> - **T**ardive dyskinesia — onset months to years, ~40% of patients; choreoathetoid movements, e.g. chewing, pouting of the jaw.
+
+### 0.6.4 Other side effects
+
+- Increased risks in the elderly: stroke, VTE.
+- Antimuscarinic: dry mouth, blurred vision, urinary retention, constipation.
+- Sedation, weight gain.
+- ↑prolactin ± galactorrhoea (secondary to dopaminergic effects) — less seen with aripiprazole.
+- Impaired glucose tolerance.
+
+> [!danger] Neuroleptic malignant syndrome: markedly ↑fever, muscle stiffness — see [[04_Neurology]] Serotonin Syndrome and Neuroleptic Malignant Syndrome (NMS) for the full comparison against serotonin syndrome (a genuinely important distinguishing skill given both present with hyperthermia and altered mental status), Ix, and Mx, not repeated here.
+
+- Reduced seizure threshold (especially with 2nd generation antipsychotics).
+- Prolonged QT interval (especially with haloperidol).
+
+### 0.6.5 Clozapine — specific considerations
+
+> [!danger] Significant risk of agranulocytosis (1%) and neutropaenia (3%).
+
+- Reduced seizure threshold (may induce seizures in up to 3% of patients).
+- Constipation; myocarditis; hypersalivation.
+- Dose adjustment may be necessary if the patient starts or stops smoking during treatment.
+- If the patient is off clozapine for ≥48h, re-titration of dose is required to prevent toxicity.
+
+### 0.6.6 Monitoring for all antipsychotics
+
+> [!info] Monitoring schedule
+> - **At start of therapy (baseline):** FBC, U&Es, LFTs; lipids, weight/BMI; fasting blood glucose; prolactin; blood pressure; ECG.
+> - **At 3 months:** lipids, weight/BMI.
+> - **At 6 months:** fasting blood glucose, prolactin.
+> - **Annually:** FBC, U&Es, LFTs; lipids, weight/BMI; fasting blood glucose; prolactin; cardiovascular risk assessment.
+> - **During dose titration:** blood pressure.
+
+> [!danger] Clozapine requires initially weekly monitoring of FBC until stabilised on dose.
+
+### 0.6.7 Switching due to side effects
+
+- Tending to cause weight gain: risperidone, olanzapine — less likely with aripiprazole, amisulpride, lurasidone.
+- QTc prolongation: less likely with lurasidone.
+
+
 <!-- ===== SOURCE: N5_Anxiety__OCD_and_Trauma.md ===== -->
 
 
@@ -2125,6 +1671,124 @@ The Act also explicitly provides for voluntary inpatients (Part 3) — a person 
 > Mental state examination and risk → [[N1]] · Restraint, seclusion and re-traumatisation → [[N1]] 0.4 · Substance use, alcohol and benzodiazepine withdrawal → [[N2]] · Psychosis versus flashbacks → [[N3]] 0.3 · Depression and comorbid anxiety → [[N4]] · Somatic symptom and functional disorders, and personality → [[N6]] · Insomnia → [[N7]] · Thyrotoxicosis → [[I1]] 0.3 · Phaeochromocytoma → [[I4]] 0.5 · SVT and palpitations → [[B3]] 0.2 · Non-cardiac chest pain → [[B1]] 0.5 · Hyperventilation and ionised calcium → [[I3]] 0.1 · Pregabalin and benzodiazepine stewardship → [[F0.4]] 0.9 · Family and sexual violence → [[GER4]] · Veterans, refugees and intergenerational trauma → [[AU1]] 0.1–0.2, 0.5 · Adolescent mental health → [[M7]]
 
 
+<!-- ===== SOURCE: 14_02_Psych_-_Anxiety_and_Related_Disorders.md ===== -->
+
+
+## Generalised anxiety disorder (GAD)
+
+- **D:** ≥6 months of excessive worry about everyday issues, disproportionate to any inherent risk, causing distress or impairment. The patient finds it difficult to control the worry.
+
+> [!info] Plus ≥3 of these symptoms, most of the time (in children, ≥1 symptom):
+> - Restlessness or nervousness.
+> - Easy fatigability.
+> - Poor concentration.
+> - Irritability.
+> - Muscle tension.
+> - Sleep disturbance.
+
+- **R:** family history of anxiety; physical or emotional stress (e.g. bullying); history of physical, sexual, or emotional trauma (e.g. sexual abuse, loss of a loved one); other anxiety disorder (e.g. panic disorder, social phobia); chronic physical health condition; F>M (2:1).
+- **S/Smx:** as above; others include muscle aches, sweating, dizziness, dyspnoea, chest pain, nausea/vomiting/diarrhoea (or other GI complaints).
+- **Ix:** to rule out physical health conditions that may cause GAD — TFT (rule out hyperthyroidism), ECG (rule out arrhythmias, e.g. if the patient complains of palpitations). Ask about medications/habits that may contribute to anxiety, e.g. salbutamol, caffeine/theophylline, corticosteroids, antidepressants.
+
+### Management (stepped-care approach)
+
+> [!info] Verified — the overall stepped structure (education/monitoring → low-intensity psychological support → high-intensity psychological therapy/medication → specialist input) and the specific drug choices (sertraline first-line SSRI, alternative SSRI/SNRI, pregabalin as a later option) are internationally standard and consistent with Australian eTG Psychotropic guidance, not a UK-specific protocol needing wholesale replacement — this is a case where the underlying clinical approach genuinely is shared, not just superficially similar. "NICE step-wise approach" as a label is UK-specific branding for what is otherwise a standard, internationally-used stepped-care model; the model itself doesn't need correcting for Australian use. **The heading has now been changed from "Management (NICE step-wise approach)" to "Management (stepped-care approach)" (G19 round, 2026-08-29)** — this box identified the branding as UK-specific but left it in the heading, where a reader scanning section titles meets it as though it were the Australian structure.
+
+1. Education about GAD + active monitoring — encourage the patient to reduce caffeine and other anxiety triggers.
+2. Low-intensity psychological interventions, e.g. self-help, support groups.
+3. High-intensity psychological interventions, e.g. CBT or applied relaxation, or drug treatment — sertraline first-line; alternative SSRI (e.g. fluoxetine) or SNRI (e.g. duloxetine or venlafaxine); 3rd line — consider pregabalin.
+
+> [!danger] Warn the patient of the risk of increased suicidal thinking and self-harm with medications — follow up within 1 month or sooner, depending on risk.
+
+4. Highly specialist input (e.g. multi-agency teams) — if the patient is at high risk of self-harm or suicide, may require admission.
+
+## Panic disorder
+
+- **D:** recurring unexpected panic attacks over a 1-month period. ≥1 attack followed by a 1-month period in which the individual worries about having additional attacks or their implications (e.g. worried they might be having a heart attack), and/or the individual has changed their behaviour in a maladaptive way (e.g. stops going out).
+
+> [!info] Panic attacks are characterised by markedly increased fear or physical discomfort, reaching a peak within a few minutes, with ≥4 of the following symptoms:
+> - Palpitations, pounding heart, ↑HR.
+> - Sweating; trembling/shaking.
+> - Sensations of shortness of breath or smothering.
+> - Feelings of choking.
+> - Chest pain or discomfort.
+> - Nausea or abdominal distress.
+> - Feeling dizzy, unsteady, light-headed or faint.
+> - Chills or heat sensations.
+> - Paraesthesias.
+> - Derealisation (feelings of unreality) or depersonalisation (feeling detached from oneself).
+> - Fears of losing control or "going crazy".
+> - Fear of dying.
+
+- **Ix:** as per GAD.
+- **Mx:** similar to GAD — CBT or drug treatment; SSRI offered first. If contraindicated or no response after 12 weeks, offer imipramine or clomipramine.
+
+## Specific phobia
+
+> [!note] Gap-filled from CSV ("Specific phobias," Medium yield) — genuinely absent despite GAD, panic disorder, OCD, PTSD, and acute stress disorder all being covered above; a specific phobia is a genuinely distinct anxiety disorder from these, worth distinguishing rather than assuming it's just "a type of anxiety" covered by the general principles above.
+
+- **D:** marked, persistent fear or anxiety about a specific object or situation (e.g. flying, heights, animals, receiving an injection, seeing blood), that is disproportionate to the actual danger posed and out of proportion to the sociocultural context.
+- **A/P:** often begins in childhood; may develop following a specific frightening/traumatic experience with the feared object or situation (e.g. a dog bite preceding a dog phobia), through observational learning (witnessing someone else's fear response), or without any clearly identifiable triggering event.
+- **S/Smx:** the phobic object/situation almost always provokes immediate fear or anxiety; actively avoided, or endured only with intense distress; the fear/anxiety/avoidance is persistent (typically ≥6 months) and causes clinically significant distress or functional impairment; the person recognises the fear is excessive or unreasonable relative to the actual danger (distinguishing it from a delusional belief).
+- **Common subtypes:** animal type (e.g. spiders, dogs); natural environment type (e.g. heights, storms, water); blood-injection-injury type (**a genuinely distinct physiological pattern worth knowing** — this subtype classically produces a vasovagal response with an initial brief tachycardia followed by bradycardia and hypotension, which can lead to fainting, unlike the sustained tachycardia/sympathetic activation seen in other phobia subtypes and in anxiety disorders more broadly); situational type (e.g. flying, enclosed spaces, driving); other (e.g. choking, vomiting).
+- **Ix:** clinical diagnosis based on the history above; no specific investigation is required to confirm the diagnosis, though ruling out an organic cause is reasonable if the presentation is atypical (e.g. new-onset phobic symptoms in an older adult without a clear psychological trigger, where an underlying medical or neurological cause should be considered rather than assumed to be a primary anxiety disorder).
+- **Mx:** **exposure therapy (specifically graded/systematic exposure) is the single most evidence-based treatment** for specific phobia, and is genuinely more central here than for the broader anxiety disorders above — the principle is a gradual, structured hierarchy of exposure to the feared object/situation, allowing habituation (the anxiety response diminishing with repeated, controlled exposure) rather than avoidance reinforcing the fear over time; CBT more broadly (including cognitive restructuring alongside exposure) is also effective. **Medication is generally not first-line** for specific phobia, in contrast to GAD/panic disorder/OCD above where SSRIs are a standard part of first-line treatment — this is a genuine, important distinction, given specific phobia responds so well to exposure-based psychological treatment alone that medication is typically reserved for situational, short-term use (e.g. a benzodiazepine for a single unavoidable exposure such as one flight) rather than ongoing pharmacological management.
+
+> [!tip] The blood-injection-injury subtype's distinct vasovagal (bradycardic) response — rather than the sustained tachycardia of other phobias — is a genuinely useful, occasionally-tested distinguishing feature, and also has practical relevance: applied tension techniques (deliberately tensing muscle groups to raise blood pressure) are specifically used for this subtype to prevent fainting during exposure treatment or real-world exposure (e.g. blood draws), a technique not needed for other phobia subtypes.
+
+## Obsessive-compulsive disorder (OCD)
+
+- **D:** obsessions — recurrent and persistent thoughts, urges, or images experienced as intrusive and unwanted. Compulsions — repetitive behaviours or mental acts an individual feels driven to perform in response to an obsession, or according to rules that must be applied rigidly. These are time-consuming, or cause clinically significant distress, or impair social/job functioning.
+- **R:** family history; paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection (PANDAS).
+- **S/Smx:** peak onset age 10–20, or during the perinatal period. May have a history of abuse, bullying, or neglect. Obsessions and compulsions as above — they may not necessarily be "visible" (e.g. repeating a certain phrase in one's mind). Scored with the Y-BOCS scale.
+
+### Management
+
+- **Mild functional impairment:** CBT, exposure and response prevention (ERP); offer SSRI.
+- **Moderate impairment:** SSRI (fluoxetine specifically for body dysmorphic disorder); consider clomipramine if the patient has had a good prior response.
+- **Severe impairment:** refer to secondary mental healthcare for assessment. While awaiting assessment, offer SSRI and CBT, or consider clomipramine.
+- ERP involves exposing the patient to an anxiety-provoking situation and stopping their compulsions.
+- SSRI usually requires a higher dose and a longer period for initial response (≥12 weeks).
+
+## Acute stress disorder
+
+- **D:** psychological stress reaction occurring <4 weeks after exposure to a traumatic event. Diagnostic criteria similar to PTSD, apart from the timeframe.
+- **Mx:** trauma-focused CBT. Benzodiazepines may be used for acute symptoms, but must be used with caution.
+
+## Post-traumatic stress disorder (PTSD)
+
+> [!info] Diagnostic criteria (summary of DSM-5)
+> **A.** Exposure to actual or threatened death, serious injury, or sexual violence (direct experience, witnessing, learning about the event, or repeated exposure).
+>
+> **B.** Presence of ≥1 intrusive symptom associated with the traumatic event — recurrent distressing memories; recurrent distressing dreams related to the event; dissociative reactions (e.g. flashbacks); intense or prolonged psychological distress or marked physiological reactions at exposure to reminders.
+>
+> **C.** Persistent avoidance of stimuli associated with the traumatic event.
+>
+> **D.** Negative alterations in cognition and mood (≥2 of): inability to remember important aspects of the event; persistent exaggerated negative beliefs; persistent distorted cognitions about cause/consequences (blaming oneself); persistent negative emotional state; markedly ↓interest/participation in activities; feelings of detachment/estrangement; persistent inability to experience positive emotions.
+>
+> **E.** Marked alterations in arousal and reactivity (≥2 of): irritable behaviour or angry outbursts; reckless or self-destructive behaviour; hypervigilance; exaggerated startle response; concentration problems; sleep disturbance.
+>
+> Diagnosis requires A + ≥1 month of B, C, D, E + clinically significant distress or impairment in social/job functioning.
+
+### Management
+
+- Following a traumatic event, single-session individual debriefing is NOT recommended (no evidence of benefit).
+- If mild symptoms <4 weeks — watchful waiting.
+- Trauma-focused CBT or eye movement desensitisation and reprocessing (EMDR) therapy may be used in more severe cases.
+- Drug treatment is not first-line, but if given, use venlafaxine or an SSRI; if severe, trial of risperidone.
+
+## Eponymous syndromes (appendix)
+
+> [!warning] FLAG 2026-09-01 — an appendix inside clinical content
+> Administrative rather than clinical; candidate for `_meta/` alongside the `Build status` and
+> `Topics skipped` blocks found in most `NEW_*` sources.
+
+- **Charles Bonnet syndrome:** audio/visual hallucinations occurring in clear consciousness — the patient is usually aware these hallucinations are not real, with no other significant neuropsychiatric disturbance. "Lilliputian" hallucinations (seeing small people/things) are characteristic. Associated with ophthalmologic disorders (e.g. AMD, glaucoma, cataracts).
+- **Cotard syndrome:** patient believes part or all of their body is either dead or non-existent; associated with severe depression and psychotic disorders.
+- **De Clérambault syndrome:** erotomanic delusion (e.g. believing a famous person is in love with you).
+- **Othello syndrome:** pathological jealousy without real proof of infidelity.
+
+
 <!-- ===== SOURCE: N6_Functional__Dissociative_and_Personality_Disorders.md ===== -->
 
 
@@ -2301,188 +1965,211 @@ The Act also explicitly provides for voluntary inpatients (Part 3) — a person 
 > Mental state examination and risk assessment → [[N1]] · Substance use → [[N2]] · Psychosis versus dissociation and quasi-psychotic phenomena → [[N3]] 0.3 · Depression and anxiety comorbidity → [[N4]] and [[N5]] · Trauma, complex PTSD and trauma-informed practice → [[N5]] 0.5 · Chronic pain, fibromyalgia and central sensitisation → [[L3]] 0.5 · Dissociative versus organic amnesia → [[D2]] 0.5 · Seizures and video EEG → [[D6]] 0.1 · Functional weakness in the stroke differential → [[D3]] 0.5 · Functional tremor → [[D6]] 0.4 · Non-cardiac chest pain → [[B1]] 0.5 · Child protection and mandatory reporting → [[GER4]] and [[M6]] · Diagnostic overshadowing → [[AU1]] 0.5 · Opioid stewardship → [[F0.4]] 0.9
 
 
-<!-- ===== SOURCE: N7_Sleep_Disorders.md ===== -->
+<!-- ===== SOURCE: 14_04_Psych_-_Personality_Disorders.md ===== -->
 
 
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and behavioural treatment principles are reliable at intern level. **Every dose, threshold and diagnostic criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, and Sleep Health Foundation / Australasian Sleep Association guidance.
->
-> **Obstructive sleep apnoea and obesity hypoventilation are built in [[RESP-X]] 0.5**, and **restless legs syndrome in [[D6]] 0.6** — both are cross-referenced rather than repeated.
+> [!note] Personality disorders refer to enduring patterns of thinking and feeling about oneself and others that significantly and adversely affect how an individual functions across life domains. This pattern is stable and of long duration, with onset traceable to at least adolescence or early adulthood. Thought to affect 1 in 20 people.
 
----
+## Cluster A — "Odd or eccentric"
 
-## 0.1 Sleep Assessment
+### Paranoid personality disorder
 
-> [!tip] The framework that sorts the presentation in one question
-> **"Is the problem not enough OPPORTUNITY, not enough ABILITY, or not enough REFRESHMENT?"**
-> **· INSUFFICIENT SLEEP OPPORTUNITY — behavioural. The person simply is not in bed long enough** (work, caring, study, screens). **This is the commonest cause of daytime sleepiness and it is not a sleep disorder.**
-> **· INABILITY TO SLEEP despite adequate opportunity — INSOMNIA.**
-> **· ADEQUATE SLEEP that is UNREFRESHING, with excessive daytime sleepiness — sleep-disordered breathing, narcolepsy, idiopathic hypersomnia, or a medical or drug cause.**
-> **Asking what time they get into bed and what time they get up establishes the opportunity immediately**, and it frequently reveals that a "sleep disorder" is a five-hour sleep window.
+- A pattern of distrust and suspiciousness such that others' motives are interpreted as malevolent.
 
-> [!info] What normal sleep does, and how it changes with age
-> **NREM sleep (stages N1–N3, with SLOW-WAVE sleep concentrated in N3) predominates in the FIRST third of the night. REM sleep — with dreaming and muscle ATONIA — predominates in the LAST third.**
-> **This distribution explains the parasomnias: NREM events (sleepwalking, night terrors) occur EARLY; REM events (nightmares, REM sleep behaviour disorder) occur LATE.** See 0.4.
-> **Normal ageing brings: less slow-wave sleep · more frequent awakenings and lighter sleep · and a PHASE ADVANCE — going to bed earlier and waking earlier.**
-> **These are NORMAL age-related changes, not insomnia**, and treating them with hypnotics causes harm. **An older person who sleeps six hours, wakes at five, and functions well during the day does not have a sleep disorder.**
+> [!info] DSM-5 criteria — fulfils ≥4 of:
+> - Suspects that others are exploiting, harming, or deceiving them.
+> - Preoccupation with unjustified doubts about loyalty or trustworthiness of friends.
+> - Reluctant to confide in others due to unwarranted fear information will be used against them.
+> - Reads hidden demeaning or threatening messages into benign remarks/events.
+> - Persistently bears grudges.
+> - Perceives attacks on their character or reputation not apparent to others, and reacts angrily.
+> - Recurrent suspicions regarding fidelity of spouse/sexual partner without basis.
 
-> [!warning] The assessment — and the sleep diary is the core tool
-> **A two-week SLEEP DIARY is more informative than any single consultation**, because recall of sleep is unreliable in both directions and the diary reveals the pattern, the variability, and the weekday–weekend difference.
-> **Ask: time to bed · time to sleep onset · number and duration of awakenings · final waking time · time out of bed · TOTAL TIME IN BED versus estimated time ASLEEP · naps · daytime function · and the weekend pattern.**
-> **Also screen for: OBSTRUCTIVE SLEEP APNOEA (snoring, witnessed apnoeas, morning headache — use STOP-BANG) · RESTLESS LEGS · depression and anxiety · pain · nocturia · alcohol and caffeine · medications · and shift work.**
-> **The BED PARTNER's account is essential** — for snoring, apnoeas, limb movements, and dream enactment, none of which the patient can report.
+### Schizoid personality disorder
 
----
+- A pattern of detachment from social relationships and a restricted range of emotional expression.
 
-## 0.2 Insomnia
+> [!tip] Think "android" (robot-like).
 
-> [!tip] The 3P model — and the perpetuating factors are the treatment target
-> **· PREDISPOSING — trait hyperarousal, anxiety, family history, older age, female sex.**
-> **· PRECIPITATING — the stressor, illness, bereavement or shift change that started it.**
-> **· PERPETUATING — what keeps it going AFTER the precipitant has resolved.**
-> **The perpetuating factors are where the treatment acts, and they are almost all COMPENSATORY BEHAVIOURS that seem sensible:**
-> **· Spending LONGER IN BED to try to catch up — which dilutes sleep across more hours and weakens the association between bed and sleep.**
-> **· NAPPING, which reduces sleep pressure at night.**
-> **· CLOCK-WATCHING and calculating how much sleep remains.**
-> **· WORRYING ABOUT SLEEP, which is itself arousing — the effort to sleep is incompatible with sleeping.**
-> **· Going to bed early "to be sure of getting enough".**
-> **Explaining this to the patient is therapeutic in itself**, because it reframes their reasonable-seeming efforts as the mechanism maintaining the problem.
+> [!info] DSM-5 criteria — fulfils ≥4 of:
+> - Does not desire or enjoy close relationships (including being part of a family).
+> - Almost always chooses solitary activities.
+> - Little interest in sexual experiences with others.
+> - Takes pleasure in few activities.
+> - Lacks close friends or confidants other than first-degree relatives.
+> - Appears indifferent to praise or criticism.
+> - Shows emotional coldness, detachment, or flattened affectivity.
 
-> [!danger] CBT for insomnia is first-line — more effective than medication in the long term
-> **CBT-I outperforms hypnotics beyond the short term, and its benefits PERSIST after treatment ends, which medication's do not.** **It should be offered before, or alongside, any prescription.**
-> **Its components, in order of power:**
-> **· SLEEP RESTRICTION — the most effective component. Restrict TIME IN BED to approximately the actual time slept, keeping a FIXED WAKE TIME, then extend gradually as sleep efficiency improves.** It works by building sleep pressure and re-establishing the bed–sleep association. **It is temporarily unpleasant and requires explanation and support, which is why it needs to be delivered properly rather than mentioned.**
-> **· STIMULUS CONTROL — bed is for sleep and sex only; go to bed only when sleepy; if not asleep within about 20 minutes, GET UP and do something quiet elsewhere until sleepy; get up at the SAME TIME every day regardless of how the night went; no napping.**
-> **· COGNITIVE therapy — addressing catastrophic beliefs ("if I don't sleep I won't cope tomorrow"), which drive the arousal.**
-> **· Relaxation techniques.**
-> **DIGITAL CBT-I programs are effective, freely or cheaply available, and have no waiting list** — a practical option in general practice. `UNVERIFIED — the Australian programs currently available.`
+### Schizotypal personality disorder
 
-> [!warning] Sleep hygiene alone is not treatment
-> **Advice about caffeine, screens, room temperature and routine is NECESSARY but NOT SUFFICIENT** — sleep hygiene alone has repeatedly failed to treat chronic insomnia in trials.
-> **Handing over a sleep hygiene leaflet is not CBT-I**, and patients who have "tried everything" have usually tried exactly this.
-> **The active ingredients are sleep restriction and stimulus control**, and they require instruction and follow-up.
+- A pattern of acute discomfort in close relationships, cognitive and perceptual distortions, and eccentricities of behaviour.
 
-> [!danger] Hypnotics — short-term at most, and the harms are underestimated
-> **Benzodiazepines and Z-drugs (zolpidem, zopiclone): tolerance develops within weeks · dependence and withdrawal · REBOUND insomnia on cessation, which convinces the patient they still need it · cognitive impairment · next-day sedation and MOTOR VEHICLE ACCIDENT risk · and FALLS AND FRACTURES in older people, where the harm is substantial and well documented.**
-> **Z-drugs specifically cause COMPLEX SLEEP BEHAVIOURS — sleep-walking, sleep-eating, and sleep-DRIVING, with no recall** — which is a regulatory warning and a genuine hazard.
-> **If prescribed: short duration, defined end point agreed at the outset, and not as a substitute for CBT-I.**
-> **Deprescribing an established hypnotic requires a SLOW, negotiated taper with CBT-I support** — abrupt cessation produces rebound insomnia that the patient reasonably interprets as proof they need the drug.
-> **What NOT to use: QUETIAPINE for insomnia — it carries metabolic and cardiac risk without an evidence base for this indication, and it is prescribed for sleep far too readily. And sedating ANTIHISTAMINES — anticholinergic, with rapid tolerance and next-day impairment, particularly bad in older people.**
-> **Melatonin has modest effects in primary insomnia; it is more useful in CIRCADIAN disorders and, as a prolonged-release preparation, in older adults.** `UNVERIFIED — doses, formulations and PBS availability.`
+> [!info] DSM-5 criteria — fulfils ≥5 of:
+> - Ideas of reference.
+> - Odd beliefs or magical thinking that influences behaviour, inconsistent with subcultural norms.
+> - Unusual perceptual experiences.
+> - Odd thinking and speech.
+> - Suspiciousness or paranoid ideation.
+> - Inappropriate or constricted affect.
+> - Odd, eccentric, or peculiar behaviour or appearance.
+> - Lack of close friends or confidants other than first-degree relatives.
+> - Excessive social anxiety that does not diminish with familiarity, associated with paranoid fears rather than negative self-judgment.
 
----
+## Cluster B — "Dramatic, emotional, or erratic"
 
-## 0.3 Circadian Rhythm Disorders and Shift Work
+### Antisocial personality disorder
 
-> [!tip] Delayed sleep-wake phase disorder — commonly misread as insomnia or laziness
-> **The internal clock is shifted LATER. The person cannot fall asleep until the early hours and cannot wake at a conventional time — but if allowed to sleep on their own schedule, sleep is NORMAL in quality and duration.**
-> **That last point is the discriminator from insomnia: on holidays, they sleep perfectly well — just at the wrong times.**
-> **Very common in ADOLESCENTS and young adults, in whom the biological phase delay of puberty collides with early school start times** — producing chronic sleep deprivation that is attributed to poor motivation, screen use or defiance. Cross-refer [[M7]].
-> **Treatment targets the clock, not sleep: BRIGHT LIGHT EXPOSURE IN THE MORNING (which advances the phase), AVOIDANCE OF BRIGHT LIGHT IN THE EVENING, and SMALL-DOSE MELATONIN TAKEN SEVERAL HOURS BEFORE THE DESIRED SLEEP TIME — the timing matters more than the dose, and melatonin taken at bedtime does little.**
-> **Hypnotics do not work and are the wrong treatment.** `UNVERIFIED — light and melatonin timing protocols.`
-> **ADVANCED sleep-wake phase disorder is the mirror image, seen in older adults** — sleepy in the early evening, waking very early.
+- A pattern of disregard for, and violation of, the rights of others.
 
-> [!danger] Shift work — and this applies directly to you
-> **Shift work disorder: insomnia and/or excessive sleepiness attributable to a work schedule that conflicts with the circadian clock.**
-> **The health consequences of long-term shift work are real: increased cardiovascular disease, metabolic syndrome and type 2 diabetes, gastrointestinal disturbance, mood disorder, and an association with certain cancers — alongside the immediate risks of error and accident.**
-> **Practical strategies:**
-> **· Sleep BEFORE the first night shift — a substantial afternoon nap, not just an early night.**
-> **· STRATEGIC NAPPING during the shift where permitted — even brief naps improve alertness and performance.**
-> **· LIGHT — bright light during the shift to promote alertness; dark glasses on the way home to avoid phase-shifting light exposure.**
-> **· CAFFEINE early in the shift, not late — it has a long half-life and will impair the recovery sleep.**
-> **· A dark, quiet, cool sleep environment during the day — blackout blinds, earplugs, phone off.**
-> **· FORWARD-ROTATING rosters (day → evening → night) are better tolerated than backward rotation.**
-> **DRIVING HOME AFTER A NIGHT SHIFT IS A GENUINE AND WELL-DOCUMENTED CRASH RISK — comparable in impairment to alcohol.** **Plan it: public transport, a lift, a nap before driving, or accommodation.** **This is not theoretical — doctors have died driving home from night shifts.**
+> [!info] DSM-5 criteria — fulfils ≥3 of the following since age 15:
+> - Failure to conform to social norms regarding lawful behaviour (resulting in repeated arrests).
+> - Deceitfulness (e.g. repeated lying, conning others for personal profit or pleasure).
+> - Impulsivity or failure to plan ahead.
+> - Irritability and aggressiveness (e.g. repeated physical fights or assaults).
+> - Reckless disregard for safety of self or others.
+> - Consistent irresponsibility (e.g. repeated failure to sustain consistent work behaviour).
+> - Lack of remorse.
 
----
+> [!warning] Can only be diagnosed when the patient is ≥18 years old, but there is often evidence of conduct disorder at ≤15 years old.
 
-## 0.4 Parasomnias
+### Borderline personality disorder (emotionally unstable personality disorder)
 
-> [!info] The timing of the event tells you which type it is
-> **NREM PARASOMNIAS — sleepwalking, sleep terrors, confusional arousals:**
-> **· Occur in the FIRST THIRD of the night, arising from deep slow-wave sleep.**
-> **· The person is difficult to rouse, confused if woken, and has NO RECALL afterwards.**
-> **· Common in CHILDREN and usually outgrown.**
-> **· Triggered by SLEEP DEPRIVATION, alcohol, fever, stress, and untreated OBSTRUCTIVE SLEEP APNOEA — which is worth screening for in an adult with new sleepwalking.**
-> **· Management: SAFETY (secure windows and external doors, stair gates, remove hazards, ground-floor bedroom), address the triggers, and prioritise adequate sleep. Do not shake them awake — guide them gently back to bed.**
-> **REM PARASOMNIAS — nightmares and REM sleep behaviour disorder:**
-> **· Occur in the LAST third of the night.**
-> **· The person wakes fully and RECALLS the dream.**
+- A pattern of instability in interpersonal relationships, self-image, and affect, with marked impulsivity.
 
-> [!danger] REM sleep behaviour disorder is a neurological prodrome
-> **Loss of the normal REM muscle atonia, so the person physically ACTS OUT their dreams** — punching, kicking, shouting, leaping from bed — **with injuries to themselves and, frequently, to the bed partner.** They recall a dream that matches the behaviour.
-> **It is STRONGLY associated with the subsequent development of an ALPHA-SYNUCLEINOPATHY — Parkinson disease, dementia with Lewy bodies, or multiple system atrophy — often preceding the motor or cognitive features by YEARS to DECADES.**
-> **A large proportion of people with idiopathic RBD eventually convert.**
-> **Two implications:**
-> **1. Ask about dream enactment in anyone with parkinsonism or suspected Lewy body dementia** — it supports the diagnosis. Cross-refer [[D6]] 0.5 and [[D2]] 0.3.
-> **2. Conversely, a patient presenting with RBD needs a careful and honest conversation about prognostic significance — which is a genuinely difficult discussion and should be led by a specialist rather than delivered casually at the end of a consultation.**
-> **Management: bedroom SAFETY measures (move furniture, pad the floor, consider separate beds, remove sharp objects), plus melatonin or clonazepam.** `UNVERIFIED — agents and doses.`
+> [!info] DSM-5 criteria — fulfils ≥5 of:
+> - Frantic efforts to avoid real or imagined abandonment.
+> - Pattern of unstable and intense interpersonal relationships, alternating between idealisation and devaluation.
+> - Identity disturbances — unstable self-image.
+> - Impulsivity in ≥2 potentially self-damaging areas (e.g. sex, spending, substance abuse).
+> - Recurrent suicidal behaviour, gestures, or threats, or self-mutilating behaviour.
+> - Affective instability due to marked reactivity of mood, usually lasting a few hours.
+> - Chronic feelings of emptiness.
+> - Inappropriate, intense anger or difficulty controlling anger.
+> - Transient, stress-related paranoid ideation or severe dissociative symptoms.
 
-> [!tip] The distinctions that come up
-> **· NIGHTMARES versus NIGHT TERRORS in children — the classic exam distinction.**
-> **NIGHTMARES: REM, LATE in the night, the child WAKES fully, RECALLS the dream, and is CONSOLABLE.**
-> **NIGHT TERRORS: NREM, EARLY in the night, the child appears terrified and screams but is NOT awake, is INCONSOLABLE and unresponsive, and has NO RECALL in the morning.** **The parents are far more distressed than the child, and the reassurance that the child has no memory of it is the main therapeutic act.**
-> **· NOCTURNAL SEIZURES versus parasomnias — seizures are STEREOTYPED (identical each time), BRIEF, can occur at ANY time of night, may involve tongue biting or incontinence, and may have post-ictal confusion.** Parasomnias are variable and non-stereotyped. **Video EEG resolves genuinely unclear cases.** Cross-refer [[D6]] 0.1.
-> **· SLEEP PARALYSIS — REM atonia persisting into wakefulness: the person is awake and aware but unable to move, often with frightening hypnagogic hallucinations and a sense of presence or chest pressure.** **It is common, benign in isolation, and terrifying — and explaining the mechanism is genuinely relieving.** It is also part of the narcolepsy tetrad, so ask about the other features.
+### Narcissistic personality disorder
 
----
+- A pattern of grandiosity, need for admiration, and lack of empathy.
 
-## 0.5 Excessive Daytime Sleepiness and Narcolepsy
+> [!info] DSM-5 criteria — fulfils ≥5 of:
+> - Grandiose sense of self-importance.
+> - Preoccupation with fantasies of unlimited success, power, brilliance, beauty, or ideal love.
+> - Believes they are "special" and unique, should associate only with other special/high-status people.
+> - Requires excessive admiration.
+> - Sense of entitlement.
+> - Interpersonally exploitative.
+> - Lacks empathy.
+> - Often envious of others, or believes others are envious of them.
+> - Arrogant, haughty behaviours or attitudes.
 
-> [!danger] Exclude the common causes before considering the rare ones
-> **In order of frequency: INSUFFICIENT SLEEP OPPORTUNITY · OBSTRUCTIVE SLEEP APNOEA · medication and substance effects · depression · shift work and circadian misalignment · hypothyroidism · and chronic medical illness.**
-> **Together these account for the overwhelming majority.** Cross-refer [[RESP-X]] 0.5.
-> **Quantify the sleepiness with the EPWORTH SLEEPINESS SCALE**, and distinguish SLEEPINESS (a tendency to fall asleep) from FATIGUE (tiredness without the tendency to fall asleep) — **they have different differentials, and depression, anaemia and chronic disease produce fatigue rather than true sleepiness.** Cross-refer [[B6]] 0.5.
+### Histrionic personality disorder
 
-> [!warning] Narcolepsy — and the diagnostic delay is measured in years
-> **· TYPE 1 — excessive daytime sleepiness WITH CATAPLEXY**, associated with loss of hypocretin (orexin) neurons.
-> **· TYPE 2 — without cataplexy.**
-> **CATAPLEXY is the pathognomonic feature: SUDDEN, BILATERAL loss of muscle tone TRIGGERED BY EMOTION — most characteristically LAUGHTER, but also surprise, anger or excitement — with CONSCIOUSNESS FULLY PRESERVED.** It may be subtle (jaw dropping, head nodding, knees buckling) or complete collapse. **The preserved consciousness distinguishes it from syncope and seizure**, and the emotional trigger is the giveaway.
-> **The classic tetrad: excessive daytime sleepiness · cataplexy · SLEEP PARALYSIS · and HYPNAGOGIC or HYPNOPOMPIC HALLUCINATIONS (vivid, often frightening, at sleep onset or on waking).** **Most patients do not have all four.**
-> **The diagnostic delay is commonly a decade or more**, because the sleepiness is attributed to laziness, depression or poor sleep habits, and cataplexy is misdiagnosed as syncope, seizure or a psychiatric phenomenon. **Sleep attacks in adolescents are frequently interpreted as a behavioural problem.**
-> **Diagnosis: overnight polysomnography followed by a MULTIPLE SLEEP LATENCY TEST, looking for short sleep latency and SLEEP-ONSET REM PERIODS.** CSF hypocretin in selected cases.
-> **Treatment: scheduled short naps (genuinely effective), modafinil or stimulants for sleepiness, and specific agents for cataplexy.** `UNVERIFIED — agents, PBS criteria and access.`
+- A pattern of excessive emotionality and attention seeking.
 
-> [!tip] The other hypersomnias, and the driving question
-> **· IDIOPATHIC HYPERSOMNIA — long, unrefreshing sleep with severe SLEEP INERTIA ("sleep drunkenness" — prolonged grogginess and confusion on waking), and unrefreshing naps, without cataplexy or sleep-onset REM.**
-> **· KLEINE-LEVIN SYNDROME — rare, episodic hypersomnia with cognitive and behavioural change, typically in adolescent males, with normal function between episodes.**
-> **· DRIVING: excessive daytime sleepiness of any cause has fitness-to-drive implications, and the requirements are stricter for commercial licences.** **You must advise the patient, document that you have done so, and explain their obligation to notify the licensing authority.** Cross-refer [[A10]] 0.6.
+> [!info] DSM-5 criteria — fulfils ≥5 of:
+> - Uncomfortable when not the centre of attention.
+> - Inappropriately sexually seductive or provocative interactions.
+> - Rapidly shifting and shallow expression of emotions.
+> - Consistently uses physical appearance to draw attention to self.
+> - Speech that is excessively impressionistic and lacking in detail.
+> - Self-dramatisation, theatricality, exaggerated expression of emotion.
+> - Is suggestible.
+> - Considers relationships to be more intimate than they actually are.
 
----
+## Cluster C — "Anxious and fearful"
 
-## 0.6 Sleep in Specific Contexts
+### Avoidant personality disorder
 
-> [!danger] Hospital sleep deprivation contributes to delirium — and the answer is not a sedative
-> **Hospitals are designed in ways that make sleep almost impossible: continuous noise and light, overnight observations and medications, procedures, alarms, shared rooms, pain, anxiety and unfamiliarity.**
-> **Sleep deprivation is a modifiable contributor to DELIRIUM**, and the reflex response — a hypnotic or an antipsychotic — makes delirium worse.
-> **What actually helps, and can be implemented by a junior doctor:**
-> **· Review whether OVERNIGHT OBSERVATIONS are genuinely necessary for this patient tonight, and rationalise them.**
-> **· Move medication times so that nothing is due in the middle of the night unless it must be.**
-> **· CLUSTER care — do the observations, medications and reviews together rather than at three separate times.**
-> **· Offer EARPLUGS AND EYE MASKS — cheap, effective, and rarely offered.**
-> **· Reduce light and noise at night, and increase LIGHT EXPOSURE during the DAY, which supports the circadian rhythm.**
-> **· Treat pain adequately, and address nocturia and urinary retention.**
-> **· Protected sleep time where the ward supports it.**
-> Cross-refer [[D2]] 0.2 and [[GER2]] 0.4.
+- A pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation.
 
-> [!warning] Older adults
-> **Age-related phase advance and lighter sleep are NORMAL** — see 0.1.
-> **Look for the treatable contributors: NOCTURIA · pain · restless legs (CHECK FERRITIN — cross-refer [[D6]] 0.6) · obstructive sleep apnoea · depression · medications (diuretics timed late, steroids, stimulating antidepressants, cholinesterase inhibitors) · and daytime napping and inactivity.**
-> **AVOID benzodiazepines and Z-drugs — the falls, fracture, cognitive and mortality risks in older people are substantial, and this is one of the highest-value deprescribing targets.** Cross-refer [[GER1]] 0.4.
-> **CBT-I works in older adults** and should be offered rather than assumed inappropriate.
+> [!info] DSM-5 criteria — fulfils ≥4 of:
+> - Avoids occupational activities involving significant interpersonal contact, due to fear of criticism, disapproval, or rejection.
+> - Unwilling to get involved with people unless certain of being liked.
+> - Restraint within intimate relationships due to fear of shame or ridicule.
+> - Preoccupied with being criticised or rejected in social situations.
+> - Inhibited in new interpersonal situations due to feelings of inadequacy.
+> - Views self as socially inept, personally unappealing, or inferior.
+> - Unusually reluctant to take personal risks or engage in new activities that may prove embarrassing.
 
-> [!tip] Children and adolescents
-> **· Infants and toddlers — behavioural sleep problems centre on SLEEP ASSOCIATIONS (falling asleep only under conditions that cannot be reproduced at 2am) and bedtime resistance. Behavioural approaches are effective, and parental sleep deprivation is itself a health issue worth asking about.**
-> **· Screen for OBSTRUCTIVE SLEEP APNOEA — in children the usual cause is ADENOTONSILLAR HYPERTROPHY, and it presents with snoring, restless sleep, mouth breathing, and — characteristically — BEHAVIOURAL problems, hyperactivity and poor school performance RATHER than daytime sleepiness.** **A child being assessed for ADHD should be asked about snoring.** Cross-refer [[M2]] and [[RESP-X]] 0.5.
-> **· Adolescents — the biological phase delay of puberty against early school start times produces chronic sleep restriction, with consequences for mood, learning, and risk behaviour.** Cross-refer 0.3 and [[M7]].
-> **· Parasomnias are common and usually benign in childhood** — see 0.4.
+### Dependent personality disorder
 
-**Ix:** **A two-week SLEEP DIARY** (*why:* the single most informative investigation, revealing the pattern, the time in bed versus time asleep, and the weekend difference that recall does not; *what:* sleep opportunity, efficiency, timing). **Epworth Sleepiness Scale and STOP-BANG** (*why:* quantifies sleepiness and screens for obstructive sleep apnoea, which is the commonest treatable cause; *what:* scores). **Bed partner history** (*why:* snoring, apnoeas, limb movements and dream enactment cannot be self-reported; *what:* the observed behaviour). TFTs, FBC, **FERRITIN** (*why:* hypothyroidism causes sleepiness, and iron deficiency causes restless legs which is treatable; *what:* abnormal TSH, low ferritin). **Medication review** (*why:* both sedating and stimulating drugs, and timing of diuretics, are common and reversible contributors; *what:* culprit and its timing). **Polysomnography** (*why:* diagnoses sleep-disordered breathing, periodic limb movements and parasomnias; *what:* apnoea-hypopnoea index, sleep architecture, events). **Multiple sleep latency test** following polysomnography where narcolepsy is suspected (*why:* the diagnostic test, and it requires the preceding overnight study to be valid; *what:* short sleep latency, sleep-onset REM periods). **Video EEG** where nocturnal seizures are possible (*why:* distinguishes seizures from parasomnias; *what:* epileptiform correlate).
+- A pattern of submissive and clinging behaviour related to an excessive need to be taken care of.
 
----
+> [!info] DSM-5 criteria — fulfils ≥5 of:
+> - Difficulty making everyday decisions without excessive advice and reassurance.
+> - Needs others to assume responsibility for most major life areas.
+> - Difficulty expressing disagreement due to fear of loss of support/approval.
+> - Difficulty initiating projects or doing things alone.
+> - Goes to excessive lengths to obtain nurturance and support from others.
+> - Feels uncomfortable or helpless when alone.
+> - Urgently seeks another relationship as a source of care/support when one ends.
+> - Unrealistically preoccupied with fears of being left to care for themselves.
 
-> [!note] Cross-references
-> Obstructive sleep apnoea, obesity hypoventilation and CPAP → [[RESP-X]] 0.5 · Restless legs and ferritin → [[D6]] 0.6 · REM sleep behaviour disorder and parkinsonism → [[D6]] 0.5 and [[D2]] 0.3 · Nocturnal seizures and video EEG → [[D6]] 0.1 · Delirium prevention → [[D2]] 0.2 and [[GER2]] 0.4 · Fatigue versus sleepiness → [[B6]] 0.5 · Depression and anxiety → [[N4]] and [[N5]] · Benzodiazepine dependence and deprescribing → [[N2]] 0.4 and [[GER1]] 0.4 · Driving and fitness to drive → [[A10]] 0.6 · Paediatric sleep and adenotonsillar hypertrophy → [[M2]] · Adolescent health and school start times → [[M7]] · Shift work and occupational health → [[GER3]]
+### Obsessive-compulsive personality disorder
+
+- A pattern of preoccupation with orderliness, perfectionism, and control.
+
+> [!info] DSM-5 criteria — fulfils ≥4 of:
+> - Preoccupied with details, rules, lists, order, organisation, or schedules, to the extent the major point of the activity is lost.
+> - Perfectionism that interferes with task completion.
+> - Excessive devotion to work and productivity, excluding leisure and friendships.
+> - Overconscientious, scrupulous, and inflexible about morality, ethics, or values.
+> - Unable to discard worn-out or worthless objects, even without sentimental value.
+> - Reluctant to delegate tasks or work with others unless they submit to exactly their way of doing things.
+> - Miserly spending style.
+> - Rigidity and stubbornness.
+
+## Management (general, across personality disorders)
+
+- Danger to self or others must be addressed immediately, e.g. admission.
+- Psychological therapies: dialectical behaviour therapy (a type of talking therapy).
+- Treat any coexisting psychiatric conditions, e.g. referral for substance abuse disorders.
+
+
+<!-- ===== SOURCE: 14_05c_Psych_-_Unexplained_Symptoms__Somatoform__Dissociative__Factitious_Disorders_.md ===== -->
+
+
+## Somatic symptom disorder (somatisation disorder)
+
+- ≥1 somatic symptom that is distressing.
+- Preoccupation with health concerns — e.g. excessive time and energy devoted to symptoms or health concerns; the patient refuses to accept reassurance or negative test results.
+- ≥6 months symptomatic.
+- **Mx:** a single, consistent GP/primary treating clinician is genuinely important — avoiding fragmented care across multiple providers reduces both unnecessary repeat investigation and the patient's sense of being passed around unheard; regular, scheduled (not purely symptom-triggered) review appointments, since scheduled review reduces the pressure to produce a new symptom to justify contact; CBT has the best evidence base among psychological therapies for this condition; avoid unnecessary investigations once a reasonable initial work-up has excluded serious pathology, given repeated testing can reinforce the illness preoccupation rather than reassure; treat any coexisting depression/anxiety, which commonly coexists and can worsen symptom perception.
+
+## Illness anxiety disorder (hypochondriasis)
+
+- Preoccupation with having or acquiring a serious illness.
+- Somatic symptoms are not present, or only mild.
+- ≥6 months of illness preoccupation.
+- **Mx:** the same general approach as somatic symptom disorder above (consistent clinician, scheduled review, CBT) — not repeated in full here; specifically avoid repeated reassurance-seeking behaviours being reinforced by excessive testing or specialist referral, since paradoxically this can worsen rather than resolve the anxiety by validating the perceived need for ongoing medical vigilance; psychoeducation about the disorder itself, delivered sensitively, can help given many patients aren't aware this is a recognised, treatable condition rather than a personal failing.
+
+## Conversion disorder (functional neurological disorder)
+
+- ≥1 symptom of altered voluntary motor or sensory function.
+- Clinical findings provide evidence of incompatibility between the symptom and recognised neurological or medical conditions.
+- The symptom is not consciously feigned by the patient, and the patient is not doing it to seek material gain.
+- The patient may be indifferent to their apparent disorder ("la belle indifférence").
+- **Mx:** **explaining the diagnosis carefully and non-judgementally is itself a core part of treatment** — framing it as a genuine, involuntary disorder of nervous system functioning (not "it's all in your head" or a suggestion the patient is faking) is essential to engagement, given a dismissive or accusatory framing reliably worsens outcomes and damages the therapeutic relationship; physiotherapy specifically tailored to functional neurological disorder (distinct from physiotherapy for a structural neurological lesion) has a good evidence base for motor symptoms; CBT and other psychological therapies for underlying stressors; multidisciplinary input (neurology + psychiatry/psychology + physiotherapy) is often genuinely necessary given the disorder sits at this specific intersection; avoid unnecessary repeat neurological investigation once a confident diagnosis has been made, similar to the principle in somatic symptom disorder above.
+
+## Dissociative disorders
+
+- Dissociation is a process of separating oneself off from certain memories, emotions, or identities.
+- Presents with psychiatric symptoms including amnesia, depersonalisation, derealisation, etc.
+- Umbrella term including: dissociative identity disorder (aka multiple personality disorder); dissociative amnesia; depersonalisation or derealisation disorder.
+- **Mx:** trauma-focused psychotherapy is central, given dissociative disorders are frequently linked to a history of significant psychological trauma (particularly childhood trauma) — the dissociation is understood as a maladaptive coping/protective mechanism that developed in response to that trauma, which is why simply trying to suppress the dissociative symptoms directly (rather than addressing the underlying trauma) is generally not effective; specialist psychiatric/psychological referral is usually needed given the complexity; grounding techniques can help manage acute dissociative episodes symptomatically; screen for and address any current safety concerns (self-harm, suicidality) given the strong association with trauma history and comorbid mental health conditions.
+
+## Factitious disorder (Munchausen's syndrome)
+
+- Falsification of physical or psychological symptoms, or induction of injury or disease.
+- The individual presents themselves to others as ill or injured.
+- Deceptive behaviour is evident even in the absence of obvious external rewards.
+- **Imposed on another** (Munchausen's by proxy) — e.g. a parent injures their child on purpose to present them as ill.
+- **Mx:** genuinely challenging given patients typically resist acknowledging the psychological basis of their presentation and often disengage or move providers ("doctor shopping") if confronted directly or if the diagnosis is suspected — a non-confrontational, empathetic approach focused on the underlying psychological distress (rather than directly accusing the patient of fabrication) is more likely to maintain engagement; psychiatric referral where the patient will accept it; **multidisciplinary communication and a single coordinating clinician are particularly important** here, given the risk of the patient obtaining unnecessary, sometimes harmful investigations or procedures across multiple uncoordinated providers. **Factitious disorder imposed on another (Munchausen's by proxy) is a child protection emergency** — this requires urgent safeguarding/child protection referral, not just psychiatric management of the perpetrator, given the immediate physical safety risk to the child.
+
+## Malingering
+
+- Fraudulent simulation or exaggeration of symptoms with the intention of financial (or other) gain.
+- **Mx:** malingering is not itself a psychiatric diagnosis requiring treatment (distinguishing it from every condition above, all of which are genuine psychiatric disorders) — management is primarily about careful, objective, well-documented clinical assessment to identify inconsistencies between reported symptoms and objective findings, rather than a therapeutic intervention; address the underlying secondary gain driving the behaviour where it can be identified (e.g. a disability claim, litigation, avoiding a legal or work obligation) as this is the actual driver, not a disease process; maintain a professional, non-accusatory approach in documentation and communication even where malingering is suspected, given the medicolegal sensitivity of this determination and the real possibility of misattributing a genuine but atypical presentation.
 
 
 <!-- ===== SOURCE: N8_Eating_Disorders.md ===== -->
@@ -2672,6 +2359,392 @@ The Act also explicitly provides for voluntary inpatients (Part 3) — a person 
 
 > [!note] Cross-references
 > Risk assessment and suicidality → [[N1]] 0.2–0.3 · Involuntary treatment and the Mental Health Act → [[N1]] 0.5 · Capacity → [[A10]] 0.1 · Anxiety and OCD comorbidity → [[N5]] · Depression → [[N4]] · Refeeding syndrome → [[C2]] 0.7 and [[GER2]] 0.3 · Phosphate, potassium and magnesium → [[I3]] 0.6 · Osteoporosis and bone protection → [[GER1]] 0.6 · Amenorrhoea, RED-S and functional hypothalamic amenorrhoea → [[O4]] 0.4 · Stress fractures → [[L5]] 0.7 · Insulin omission and DKA → [[I2]] 0.3 and [[F0.2]] 0.3 · QT prolongation → [[B3]] 0.3 · Obesity, weight stigma and bariatric surgery → [[I5]] 0.1 · Malnutrition in hospital → [[GER2]] 0.3 · Autism, ARFID and adolescent health → [[M7]]
+
+
+<!-- ===== SOURCE: 14_05a_Psych_-_Eating_Disorders.md ===== -->
+
+
+## Anorexia nervosa
+
+- **D:** eating disorder characterised by restriction of caloric intake leading to low body weight, an intense fear of gaining weight, and a body image disturbance.
+- **R:** F>>M, adolescence, obsessive and perfectionist traits, genetic influence (based on twin studies).
+
+> [!info] Diagnostic criteria
+> - Restriction of energy intake relative to requirements → significantly low body weight.
+> - Intense fear of gaining weight or becoming fat, even though the patient is underweight.
+> - Disturbance in the way body weight or shape is experienced; undue influence of body weight/shape on self-evaluation; or denial of the seriousness of the current low body weight.
+
+- **Other S/Smx:** ↓BMI; bradycardia; hypotension; enlarged salivary glands.
+- **Ix:** bloods — ↓K, ↓T3, ↓FSH/LH/oestrogen/testosterone, ↑cortisol and ↑GH, impaired glucose tolerance, ↑cholesterol, ↑carotene.
+- **Mx:**
+  - If medically unstable, may require admission ± PO, enteral, or parenteral nutrition.
+
+> [!danger] If severe, nutrition should be reintroduced slowly to prevent refeeding syndrome. May also require fluid and electrolyte correction.
+
+  - Long term: psychotherapy and a structured eating plan with oral nutrition should be discussed.
+
+## Bulimia nervosa
+
+- **D:** eating disorder characterised by recurrent episodes of binge eating, followed by behaviours aimed at compensating for the binge.
+- **R:** F>>M; personality disorder; history of sexual abuse; impulsivity; family history of alcoholism, depression, or eating disorder.
+
+> [!info] Diagnostic criteria
+> - Recurrent episodes of binge eating (eating an amount of food definitely larger than most people would eat in a similar period/circumstances).
+> - A sense of lack of control over eating during the episode.
+> - Recurrent inappropriate compensatory behaviour to prevent weight gain — e.g. self-induced vomiting, misuse of laxatives/diuretics/other medications, fasting, or excessive exercise.
+> - Binge eating and compensatory behaviours both occur, on average, at least once a week for ≥3 months.
+> - Self-evaluation is unduly influenced by body shape and weight.
+> - The disturbance does not occur exclusively during episodes of anorexia nervosa.
+
+- **Other S/Smx:** recurrent vomiting may lead to erosion of teeth and calluses on the knuckles (Russell's sign).
+- **Ix:** as per anorexia — unlikely to see the same derangements, as nutrition is not as poor as in anorexia.
+- **Mx:**
+  - Referral to specialist care.
+  - Adults: NICE recommends a self-help guide first; if not effective, offer CBT. *(UK NICE guidance — **not verified against an Australian source**; see `PENDING_GUIDELINE_CHECKS.md` B32)*
+  - Children: offer family therapy.
+  - High-dose fluoxetine is licensed for bulimia nervosa, but long-term data is lacking.
+
+> [!info] Verified — the treatment approach (self-help guide as a reasonable first step, CBT if ineffective, family therapy for children, high-dose fluoxetine as a specifically evidence-supported and internationally-recognised pharmacological option for bulimia) is standard practice, not a UK-specific protocol needing wholesale replacement, and is consistent with Australian eating disorder treatment approaches. The resource correction already noted below (Butterfly Foundation as the current Australian helpline, replacing the US-specific NEDA reference) remains the most important Australia-specific correction in this entry and has already been made. If discussing eating disorder support resources with a person, note that the National Alliance for Eating Disorders helpline is the current recommended US resource (NEDA has been permanently disconnected) — for Australia, the Butterfly Foundation National Helpline is the relevant service.
+
+## Binge-eating disorder
+
+> [!note] Gap-filled from CSV ("Binge-eating disorder," High yield) — genuinely absent as a standalone diagnosis despite being a recognised DSM-5 eating disorder distinct from bulimia nervosa, and now the most common eating disorder in several population studies.
+
+- **D:** an eating disorder characterised by recurrent episodes of binge eating, **without** the regular compensatory behaviours (self-induced vomiting, laxative misuse, excessive exercise) that define bulimia nervosa above — this is the single key distinguishing feature between the two conditions, not severity or bingeing frequency.
+- **R:** can occur across a wider range of body weights than anorexia or bulimia (including normal weight and overweight/obesity), though it's strongly associated with overweight/obesity given the absence of compensatory behaviours; F>M though the gender gap is narrower than in anorexia/bulimia; history of dieting, weight stigma/teasing, depression, anxiety, impulsivity.
+
+> [!info] Diagnostic criteria
+> - Recurrent episodes of binge eating (eating an amount of food definitely larger than most people would eat in a similar period/circumstances) with a sense of lack of control during the episode.
+> - Binge eating episodes associated with ≥3 of: eating much more rapidly than normal; eating until uncomfortably full; eating large amounts when not physically hungry; eating alone due to embarrassment about the amount eaten; feeling disgusted, depressed, or guilty afterward.
+> - Marked distress regarding binge eating.
+> - Occurs, on average, at least once a week for ≥3 months.
+> - **Not** associated with the recurrent use of inappropriate compensatory behaviour, and does not occur exclusively during the course of bulimia nervosa or anorexia nervosa — the absence of compensation is what separates this diagnosis from bulimia.
+
+- **S/Smx:** the binge-eating pattern above; significant psychological distress and shame around the behaviour, often kept secret from others (distinct from the eating itself, which may or may not be visible depending on body weight); commonly coexists with depression, anxiety, and low self-esteem.
+- **Mx:**
+  - Referral to specialist eating disorder care, following the same principle as anorexia/bulimia above.
+  - CBT (specifically adapted for binge-eating disorder) has the strongest evidence base and is generally first-line psychological treatment.
+  - Structured self-help/guided self-help programs are a reasonable lower-intensity first step for less severe presentations, mirroring the stepped approach used in bulimia nervosa above.
+  - Pharmacological options exist (e.g. certain SSRIs, and lisdexamfetamine which has specific evidence and licensing for binge-eating disorder in several jurisdictions) — specialist-initiated given the need to weigh benefit against side effect profile and the coexisting mental health/weight context.
+  - Address coexisting depression/anxiety actively, given how commonly these co-occur and can perpetuate the binge-eating cycle.
+  - **Avoid framing treatment primarily around weight loss** — the evidence-based focus is on normalising eating patterns and addressing the psychological drivers of bingeing; weight-loss-focused approaches specifically have not been shown to resolve binge-eating disorder and can worsen the underlying relationship with food and body image.
+
+
+<!-- ===== SOURCE: N7_Sleep_Disorders.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Clinical reasoning, discriminators and behavioural treatment principles are reliable at intern level. **Every dose, threshold and diagnostic criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG Psychotropic**, the **Australian Medicines Handbook**, and Sleep Health Foundation / Australasian Sleep Association guidance.
+>
+> **Obstructive sleep apnoea and obesity hypoventilation are built in [[RESP-X]] 0.5**, and **restless legs syndrome in [[D6]] 0.6** — both are cross-referenced rather than repeated.
+
+---
+
+## 0.1 Sleep Assessment
+
+> [!tip] The framework that sorts the presentation in one question
+> **"Is the problem not enough OPPORTUNITY, not enough ABILITY, or not enough REFRESHMENT?"**
+> **· INSUFFICIENT SLEEP OPPORTUNITY — behavioural. The person simply is not in bed long enough** (work, caring, study, screens). **This is the commonest cause of daytime sleepiness and it is not a sleep disorder.**
+> **· INABILITY TO SLEEP despite adequate opportunity — INSOMNIA.**
+> **· ADEQUATE SLEEP that is UNREFRESHING, with excessive daytime sleepiness — sleep-disordered breathing, narcolepsy, idiopathic hypersomnia, or a medical or drug cause.**
+> **Asking what time they get into bed and what time they get up establishes the opportunity immediately**, and it frequently reveals that a "sleep disorder" is a five-hour sleep window.
+
+> [!info] What normal sleep does, and how it changes with age
+> **NREM sleep (stages N1–N3, with SLOW-WAVE sleep concentrated in N3) predominates in the FIRST third of the night. REM sleep — with dreaming and muscle ATONIA — predominates in the LAST third.**
+> **This distribution explains the parasomnias: NREM events (sleepwalking, night terrors) occur EARLY; REM events (nightmares, REM sleep behaviour disorder) occur LATE.** See 0.4.
+> **Normal ageing brings: less slow-wave sleep · more frequent awakenings and lighter sleep · and a PHASE ADVANCE — going to bed earlier and waking earlier.**
+> **These are NORMAL age-related changes, not insomnia**, and treating them with hypnotics causes harm. **An older person who sleeps six hours, wakes at five, and functions well during the day does not have a sleep disorder.**
+
+> [!warning] The assessment — and the sleep diary is the core tool
+> **A two-week SLEEP DIARY is more informative than any single consultation**, because recall of sleep is unreliable in both directions and the diary reveals the pattern, the variability, and the weekday–weekend difference.
+> **Ask: time to bed · time to sleep onset · number and duration of awakenings · final waking time · time out of bed · TOTAL TIME IN BED versus estimated time ASLEEP · naps · daytime function · and the weekend pattern.**
+> **Also screen for: OBSTRUCTIVE SLEEP APNOEA (snoring, witnessed apnoeas, morning headache — use STOP-BANG) · RESTLESS LEGS · depression and anxiety · pain · nocturia · alcohol and caffeine · medications · and shift work.**
+> **The BED PARTNER's account is essential** — for snoring, apnoeas, limb movements, and dream enactment, none of which the patient can report.
+
+---
+
+## 0.2 Insomnia
+
+> [!tip] The 3P model — and the perpetuating factors are the treatment target
+> **· PREDISPOSING — trait hyperarousal, anxiety, family history, older age, female sex.**
+> **· PRECIPITATING — the stressor, illness, bereavement or shift change that started it.**
+> **· PERPETUATING — what keeps it going AFTER the precipitant has resolved.**
+> **The perpetuating factors are where the treatment acts, and they are almost all COMPENSATORY BEHAVIOURS that seem sensible:**
+> **· Spending LONGER IN BED to try to catch up — which dilutes sleep across more hours and weakens the association between bed and sleep.**
+> **· NAPPING, which reduces sleep pressure at night.**
+> **· CLOCK-WATCHING and calculating how much sleep remains.**
+> **· WORRYING ABOUT SLEEP, which is itself arousing — the effort to sleep is incompatible with sleeping.**
+> **· Going to bed early "to be sure of getting enough".**
+> **Explaining this to the patient is therapeutic in itself**, because it reframes their reasonable-seeming efforts as the mechanism maintaining the problem.
+
+> [!danger] CBT for insomnia is first-line — more effective than medication in the long term
+> **CBT-I outperforms hypnotics beyond the short term, and its benefits PERSIST after treatment ends, which medication's do not.** **It should be offered before, or alongside, any prescription.**
+> **Its components, in order of power:**
+> **· SLEEP RESTRICTION — the most effective component. Restrict TIME IN BED to approximately the actual time slept, keeping a FIXED WAKE TIME, then extend gradually as sleep efficiency improves.** It works by building sleep pressure and re-establishing the bed–sleep association. **It is temporarily unpleasant and requires explanation and support, which is why it needs to be delivered properly rather than mentioned.**
+> **· STIMULUS CONTROL — bed is for sleep and sex only; go to bed only when sleepy; if not asleep within about 20 minutes, GET UP and do something quiet elsewhere until sleepy; get up at the SAME TIME every day regardless of how the night went; no napping.**
+> **· COGNITIVE therapy — addressing catastrophic beliefs ("if I don't sleep I won't cope tomorrow"), which drive the arousal.**
+> **· Relaxation techniques.**
+> **DIGITAL CBT-I programs are effective, freely or cheaply available, and have no waiting list** — a practical option in general practice. `UNVERIFIED — the Australian programs currently available.`
+
+> [!warning] Sleep hygiene alone is not treatment
+> **Advice about caffeine, screens, room temperature and routine is NECESSARY but NOT SUFFICIENT** — sleep hygiene alone has repeatedly failed to treat chronic insomnia in trials.
+> **Handing over a sleep hygiene leaflet is not CBT-I**, and patients who have "tried everything" have usually tried exactly this.
+> **The active ingredients are sleep restriction and stimulus control**, and they require instruction and follow-up.
+
+> [!danger] Hypnotics — short-term at most, and the harms are underestimated
+> **Benzodiazepines and Z-drugs (zolpidem, zopiclone): tolerance develops within weeks · dependence and withdrawal · REBOUND insomnia on cessation, which convinces the patient they still need it · cognitive impairment · next-day sedation and MOTOR VEHICLE ACCIDENT risk · and FALLS AND FRACTURES in older people, where the harm is substantial and well documented.**
+> **Z-drugs specifically cause COMPLEX SLEEP BEHAVIOURS — sleep-walking, sleep-eating, and sleep-DRIVING, with no recall** — which is a regulatory warning and a genuine hazard.
+> **If prescribed: short duration, defined end point agreed at the outset, and not as a substitute for CBT-I.**
+> **Deprescribing an established hypnotic requires a SLOW, negotiated taper with CBT-I support** — abrupt cessation produces rebound insomnia that the patient reasonably interprets as proof they need the drug.
+> **What NOT to use: QUETIAPINE for insomnia — it carries metabolic and cardiac risk without an evidence base for this indication, and it is prescribed for sleep far too readily. And sedating ANTIHISTAMINES — anticholinergic, with rapid tolerance and next-day impairment, particularly bad in older people.**
+> **Melatonin has modest effects in primary insomnia; it is more useful in CIRCADIAN disorders and, as a prolonged-release preparation, in older adults.** `UNVERIFIED — doses, formulations and PBS availability.`
+
+---
+
+## 0.3 Circadian Rhythm Disorders and Shift Work
+
+> [!tip] Delayed sleep-wake phase disorder — commonly misread as insomnia or laziness
+> **The internal clock is shifted LATER. The person cannot fall asleep until the early hours and cannot wake at a conventional time — but if allowed to sleep on their own schedule, sleep is NORMAL in quality and duration.**
+> **That last point is the discriminator from insomnia: on holidays, they sleep perfectly well — just at the wrong times.**
+> **Very common in ADOLESCENTS and young adults, in whom the biological phase delay of puberty collides with early school start times** — producing chronic sleep deprivation that is attributed to poor motivation, screen use or defiance. Cross-refer [[M7]].
+> **Treatment targets the clock, not sleep: BRIGHT LIGHT EXPOSURE IN THE MORNING (which advances the phase), AVOIDANCE OF BRIGHT LIGHT IN THE EVENING, and SMALL-DOSE MELATONIN TAKEN SEVERAL HOURS BEFORE THE DESIRED SLEEP TIME — the timing matters more than the dose, and melatonin taken at bedtime does little.**
+> **Hypnotics do not work and are the wrong treatment.** `UNVERIFIED — light and melatonin timing protocols.`
+> **ADVANCED sleep-wake phase disorder is the mirror image, seen in older adults** — sleepy in the early evening, waking very early.
+
+> [!danger] Shift work — and this applies directly to you
+> **Shift work disorder: insomnia and/or excessive sleepiness attributable to a work schedule that conflicts with the circadian clock.**
+> **The health consequences of long-term shift work are real: increased cardiovascular disease, metabolic syndrome and type 2 diabetes, gastrointestinal disturbance, mood disorder, and an association with certain cancers — alongside the immediate risks of error and accident.**
+> **Practical strategies:**
+> **· Sleep BEFORE the first night shift — a substantial afternoon nap, not just an early night.**
+> **· STRATEGIC NAPPING during the shift where permitted — even brief naps improve alertness and performance.**
+> **· LIGHT — bright light during the shift to promote alertness; dark glasses on the way home to avoid phase-shifting light exposure.**
+> **· CAFFEINE early in the shift, not late — it has a long half-life and will impair the recovery sleep.**
+> **· A dark, quiet, cool sleep environment during the day — blackout blinds, earplugs, phone off.**
+> **· FORWARD-ROTATING rosters (day → evening → night) are better tolerated than backward rotation.**
+> **DRIVING HOME AFTER A NIGHT SHIFT IS A GENUINE AND WELL-DOCUMENTED CRASH RISK — comparable in impairment to alcohol.** **Plan it: public transport, a lift, a nap before driving, or accommodation.** **This is not theoretical — doctors have died driving home from night shifts.**
+
+---
+
+## 0.4 Parasomnias
+
+> [!info] The timing of the event tells you which type it is
+> **NREM PARASOMNIAS — sleepwalking, sleep terrors, confusional arousals:**
+> **· Occur in the FIRST THIRD of the night, arising from deep slow-wave sleep.**
+> **· The person is difficult to rouse, confused if woken, and has NO RECALL afterwards.**
+> **· Common in CHILDREN and usually outgrown.**
+> **· Triggered by SLEEP DEPRIVATION, alcohol, fever, stress, and untreated OBSTRUCTIVE SLEEP APNOEA — which is worth screening for in an adult with new sleepwalking.**
+> **· Management: SAFETY (secure windows and external doors, stair gates, remove hazards, ground-floor bedroom), address the triggers, and prioritise adequate sleep. Do not shake them awake — guide them gently back to bed.**
+> **REM PARASOMNIAS — nightmares and REM sleep behaviour disorder:**
+> **· Occur in the LAST third of the night.**
+> **· The person wakes fully and RECALLS the dream.**
+
+> [!danger] REM sleep behaviour disorder is a neurological prodrome
+> **Loss of the normal REM muscle atonia, so the person physically ACTS OUT their dreams** — punching, kicking, shouting, leaping from bed — **with injuries to themselves and, frequently, to the bed partner.** They recall a dream that matches the behaviour.
+> **It is STRONGLY associated with the subsequent development of an ALPHA-SYNUCLEINOPATHY — Parkinson disease, dementia with Lewy bodies, or multiple system atrophy — often preceding the motor or cognitive features by YEARS to DECADES.**
+> **A large proportion of people with idiopathic RBD eventually convert.**
+> **Two implications:**
+> **1. Ask about dream enactment in anyone with parkinsonism or suspected Lewy body dementia** — it supports the diagnosis. Cross-refer [[D6]] 0.5 and [[D2]] 0.3.
+> **2. Conversely, a patient presenting with RBD needs a careful and honest conversation about prognostic significance — which is a genuinely difficult discussion and should be led by a specialist rather than delivered casually at the end of a consultation.**
+> **Management: bedroom SAFETY measures (move furniture, pad the floor, consider separate beds, remove sharp objects), plus melatonin or clonazepam.** `UNVERIFIED — agents and doses.`
+
+> [!tip] The distinctions that come up
+> **· NIGHTMARES versus NIGHT TERRORS in children — the classic exam distinction.**
+> **NIGHTMARES: REM, LATE in the night, the child WAKES fully, RECALLS the dream, and is CONSOLABLE.**
+> **NIGHT TERRORS: NREM, EARLY in the night, the child appears terrified and screams but is NOT awake, is INCONSOLABLE and unresponsive, and has NO RECALL in the morning.** **The parents are far more distressed than the child, and the reassurance that the child has no memory of it is the main therapeutic act.**
+> **· NOCTURNAL SEIZURES versus parasomnias — seizures are STEREOTYPED (identical each time), BRIEF, can occur at ANY time of night, may involve tongue biting or incontinence, and may have post-ictal confusion.** Parasomnias are variable and non-stereotyped. **Video EEG resolves genuinely unclear cases.** Cross-refer [[D6]] 0.1.
+> **· SLEEP PARALYSIS — REM atonia persisting into wakefulness: the person is awake and aware but unable to move, often with frightening hypnagogic hallucinations and a sense of presence or chest pressure.** **It is common, benign in isolation, and terrifying — and explaining the mechanism is genuinely relieving.** It is also part of the narcolepsy tetrad, so ask about the other features.
+
+---
+
+## 0.5 Excessive Daytime Sleepiness and Narcolepsy
+
+> [!danger] Exclude the common causes before considering the rare ones
+> **In order of frequency: INSUFFICIENT SLEEP OPPORTUNITY · OBSTRUCTIVE SLEEP APNOEA · medication and substance effects · depression · shift work and circadian misalignment · hypothyroidism · and chronic medical illness.**
+> **Together these account for the overwhelming majority.** Cross-refer [[RESP-X]] 0.5.
+> **Quantify the sleepiness with the EPWORTH SLEEPINESS SCALE**, and distinguish SLEEPINESS (a tendency to fall asleep) from FATIGUE (tiredness without the tendency to fall asleep) — **they have different differentials, and depression, anaemia and chronic disease produce fatigue rather than true sleepiness.** Cross-refer [[B6]] 0.5.
+
+> [!warning] Narcolepsy — and the diagnostic delay is measured in years
+> **· TYPE 1 — excessive daytime sleepiness WITH CATAPLEXY**, associated with loss of hypocretin (orexin) neurons.
+> **· TYPE 2 — without cataplexy.**
+> **CATAPLEXY is the pathognomonic feature: SUDDEN, BILATERAL loss of muscle tone TRIGGERED BY EMOTION — most characteristically LAUGHTER, but also surprise, anger or excitement — with CONSCIOUSNESS FULLY PRESERVED.** It may be subtle (jaw dropping, head nodding, knees buckling) or complete collapse. **The preserved consciousness distinguishes it from syncope and seizure**, and the emotional trigger is the giveaway.
+> **The classic tetrad: excessive daytime sleepiness · cataplexy · SLEEP PARALYSIS · and HYPNAGOGIC or HYPNOPOMPIC HALLUCINATIONS (vivid, often frightening, at sleep onset or on waking).** **Most patients do not have all four.**
+> **The diagnostic delay is commonly a decade or more**, because the sleepiness is attributed to laziness, depression or poor sleep habits, and cataplexy is misdiagnosed as syncope, seizure or a psychiatric phenomenon. **Sleep attacks in adolescents are frequently interpreted as a behavioural problem.**
+> **Diagnosis: overnight polysomnography followed by a MULTIPLE SLEEP LATENCY TEST, looking for short sleep latency and SLEEP-ONSET REM PERIODS.** CSF hypocretin in selected cases.
+> **Treatment: scheduled short naps (genuinely effective), modafinil or stimulants for sleepiness, and specific agents for cataplexy.** `UNVERIFIED — agents, PBS criteria and access.`
+
+> [!tip] The other hypersomnias, and the driving question
+> **· IDIOPATHIC HYPERSOMNIA — long, unrefreshing sleep with severe SLEEP INERTIA ("sleep drunkenness" — prolonged grogginess and confusion on waking), and unrefreshing naps, without cataplexy or sleep-onset REM.**
+> **· KLEINE-LEVIN SYNDROME — rare, episodic hypersomnia with cognitive and behavioural change, typically in adolescent males, with normal function between episodes.**
+> **· DRIVING: excessive daytime sleepiness of any cause has fitness-to-drive implications, and the requirements are stricter for commercial licences.** **You must advise the patient, document that you have done so, and explain their obligation to notify the licensing authority.** Cross-refer [[A10]] 0.6.
+
+---
+
+## 0.6 Sleep in Specific Contexts
+
+> [!danger] Hospital sleep deprivation contributes to delirium — and the answer is not a sedative
+> **Hospitals are designed in ways that make sleep almost impossible: continuous noise and light, overnight observations and medications, procedures, alarms, shared rooms, pain, anxiety and unfamiliarity.**
+> **Sleep deprivation is a modifiable contributor to DELIRIUM**, and the reflex response — a hypnotic or an antipsychotic — makes delirium worse.
+> **What actually helps, and can be implemented by a junior doctor:**
+> **· Review whether OVERNIGHT OBSERVATIONS are genuinely necessary for this patient tonight, and rationalise them.**
+> **· Move medication times so that nothing is due in the middle of the night unless it must be.**
+> **· CLUSTER care — do the observations, medications and reviews together rather than at three separate times.**
+> **· Offer EARPLUGS AND EYE MASKS — cheap, effective, and rarely offered.**
+> **· Reduce light and noise at night, and increase LIGHT EXPOSURE during the DAY, which supports the circadian rhythm.**
+> **· Treat pain adequately, and address nocturia and urinary retention.**
+> **· Protected sleep time where the ward supports it.**
+> Cross-refer [[D2]] 0.2 and [[GER2]] 0.4.
+
+> [!warning] Older adults
+> **Age-related phase advance and lighter sleep are NORMAL** — see 0.1.
+> **Look for the treatable contributors: NOCTURIA · pain · restless legs (CHECK FERRITIN — cross-refer [[D6]] 0.6) · obstructive sleep apnoea · depression · medications (diuretics timed late, steroids, stimulating antidepressants, cholinesterase inhibitors) · and daytime napping and inactivity.**
+> **AVOID benzodiazepines and Z-drugs — the falls, fracture, cognitive and mortality risks in older people are substantial, and this is one of the highest-value deprescribing targets.** Cross-refer [[GER1]] 0.4.
+> **CBT-I works in older adults** and should be offered rather than assumed inappropriate.
+
+> [!tip] Children and adolescents
+> **· Infants and toddlers — behavioural sleep problems centre on SLEEP ASSOCIATIONS (falling asleep only under conditions that cannot be reproduced at 2am) and bedtime resistance. Behavioural approaches are effective, and parental sleep deprivation is itself a health issue worth asking about.**
+> **· Screen for OBSTRUCTIVE SLEEP APNOEA — in children the usual cause is ADENOTONSILLAR HYPERTROPHY, and it presents with snoring, restless sleep, mouth breathing, and — characteristically — BEHAVIOURAL problems, hyperactivity and poor school performance RATHER than daytime sleepiness.** **A child being assessed for ADHD should be asked about snoring.** Cross-refer [[M2]] and [[RESP-X]] 0.5.
+> **· Adolescents — the biological phase delay of puberty against early school start times produces chronic sleep restriction, with consequences for mood, learning, and risk behaviour.** Cross-refer 0.3 and [[M7]].
+> **· Parasomnias are common and usually benign in childhood** — see 0.4.
+
+**Ix:** **A two-week SLEEP DIARY** (*why:* the single most informative investigation, revealing the pattern, the time in bed versus time asleep, and the weekend difference that recall does not; *what:* sleep opportunity, efficiency, timing). **Epworth Sleepiness Scale and STOP-BANG** (*why:* quantifies sleepiness and screens for obstructive sleep apnoea, which is the commonest treatable cause; *what:* scores). **Bed partner history** (*why:* snoring, apnoeas, limb movements and dream enactment cannot be self-reported; *what:* the observed behaviour). TFTs, FBC, **FERRITIN** (*why:* hypothyroidism causes sleepiness, and iron deficiency causes restless legs which is treatable; *what:* abnormal TSH, low ferritin). **Medication review** (*why:* both sedating and stimulating drugs, and timing of diuretics, are common and reversible contributors; *what:* culprit and its timing). **Polysomnography** (*why:* diagnoses sleep-disordered breathing, periodic limb movements and parasomnias; *what:* apnoea-hypopnoea index, sleep architecture, events). **Multiple sleep latency test** following polysomnography where narcolepsy is suspected (*why:* the diagnostic test, and it requires the preceding overnight study to be valid; *what:* short sleep latency, sleep-onset REM periods). **Video EEG** where nocturnal seizures are possible (*why:* distinguishes seizures from parasomnias; *what:* epileptiform correlate).
+
+---
+
+> [!note] Cross-references
+> Obstructive sleep apnoea, obesity hypoventilation and CPAP → [[RESP-X]] 0.5 · Restless legs and ferritin → [[D6]] 0.6 · REM sleep behaviour disorder and parkinsonism → [[D6]] 0.5 and [[D2]] 0.3 · Nocturnal seizures and video EEG → [[D6]] 0.1 · Delirium prevention → [[D2]] 0.2 and [[GER2]] 0.4 · Fatigue versus sleepiness → [[B6]] 0.5 · Depression and anxiety → [[N4]] and [[N5]] · Benzodiazepine dependence and deprescribing → [[N2]] 0.4 and [[GER1]] 0.4 · Driving and fitness to drive → [[A10]] 0.6 · Paediatric sleep and adenotonsillar hypertrophy → [[M2]] · Adolescent health and school start times → [[M7]] · Shift work and occupational health → [[GER3]]
+
+
+<!-- ===== SOURCE: 14_05b_Psych_-_Insomnia.md ===== -->
+
+
+## Insomnia
+
+- **D:** difficulty initiating or maintaining sleep, or early-morning awakening, leading to dissatisfaction with sleep quantity or quality.
+- **R:** F>M, ↑age, chronic medical conditions or pain, psychiatric illness, alcohol/substance misuse, stimulant usage, medicines such as corticosteroids, poor sleep hygiene, TBI.
+- **Ix:**
+  - Clinical diagnosis + risk factor identification — the patient may need to keep a sleep diary.
+  - Actigraphy — a sensor device (like a smart watch) worn to measure gross motor activity.
+  - Polysomnography is not routinely indicated — consider for patients with suspected obstructive sleep apnoea or periodic limb movement disorder, or if refractory to conventional treatment.
+- **Mx:**
+  - Identify potential causes, e.g. poor sleep hygiene, mental health issues.
+  - Patient education on good sleep hygiene: no screens before bed, limit caffeine intake, regular bedtimes, avoid daytime naps, etc.
+  - Advise the patient not to drive when sleepy.
+  - Only consider hypnotics if daytime impairment is severe — benzodiazepines, or Z-drugs (zopiclone, zolpidem, etc — linked to nightmares). Use the lowest effective dose for the shortest period possible; do not give a repeat prescription; review after 2 weeks.
+  - Consider referral to CBT.
+
+
+<!-- ===== SOURCE: 14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder.md ===== -->
+
+
+## 0.1 Attention deficit hyperactivity disorder (ADHD)
+
+> [!note] Gap-filled from CSV ("Attention Deficit Hyperactivity Disorder (ADHD)," Medium yield) — genuinely absent from the source material despite being one of the most commonly diagnosed neurodevelopmental conditions, in both children and increasingly-recognised adults.
+
+- **D:** a neurodevelopmental disorder characterised by a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development, present in multiple settings (e.g. both home and school/work).
+- **A/P:** genetic factors are strongly implicated (high heritability in twin studies); differences in dopaminergic and noradrenergic neurotransmission and prefrontal cortex function/connectivity are thought to underlie the core symptoms, though the precise mechanism remains incompletely understood.
+- **R:** family history (one of the strongest risk factors); prematurity/low birth weight; prenatal exposure to alcohol, tobacco, or other substances; male sex (though this gap narrows in adult presentations, and inattentive-predominant presentations in girls are classically under-recognised, given the presentation is less disruptive/externalising than the hyperactive-impulsive pattern).
+
+> [!info] Diagnostic criteria (DSM-5, summarised) — symptoms present before age 12, in ≥2 settings, causing clear functional impairment, not better explained by another condition:
+> - **Inattentive presentation** (≥6 symptoms in children, ≥5 in adults ≥17yo): fails to give close attention to detail/makes careless mistakes; difficulty sustaining attention; doesn't seem to listen when spoken to directly; doesn't follow through on instructions/fails to finish tasks; difficulty organising tasks; avoids tasks requiring sustained mental effort; loses things necessary for tasks; easily distracted; forgetful in daily activities.
+> - **Hyperactive-impulsive presentation** (same symptom-count thresholds): fidgets/squirms; leaves seat when remaining seated is expected; runs/climbs excessively (or subjective restlessness in adults); unable to play/engage in leisure activities quietly; "on the go," acting as if "driven by a motor"; talks excessively; blurts out answers before a question is completed; difficulty waiting their turn; interrupts or intrudes on others.
+> - **Combined presentation:** criteria met for both inattentive and hyperactive-impulsive presentations.
+
+- **S/Smx:** as per the diagnostic criteria above — the specific presentation pattern (inattentive vs hyperactive-impulsive vs combined) genuinely varies by individual and can shift over the lifespan, with hyperactive-impulsive symptoms often becoming less overtly disruptive in adulthood while inattentive symptoms and internal restlessness persist; commonly coexists with learning difficulties, anxiety, depression, and oppositional/conduct problems in children — actively screening for these coexisting conditions matters, given they can be missed if ADHD symptoms dominate the clinical picture, or conversely can be misattributed as "just the ADHD" when they need separate attention.
+- **Ix:** primarily a clinical diagnosis based on a detailed developmental history (from the patient and, particularly in children, collateral history from parents/caregivers and teachers, given the requirement for symptoms across multiple settings) — there is no single confirmatory blood test or imaging study; standardised rating scales (e.g. Conners' scales, or the ADHD Rating Scale) support but don't replace clinical assessment; a general physical/developmental assessment and screening for other conditions that can mimic or coexist with ADHD (hearing/vision problems, sleep disorders, learning difficulties, anxiety/mood disorders, autism spectrum features) is an important part of a thorough work-up, given the differential is broad and misdiagnosis in either direction (missing a mimic, or missing genuine coexisting ADHD) has real consequences.
+- **Mx:**
+  - **Immediate/acute:** not an acute condition in the way many entries in this project are — management is fundamentally about establishing an accurate diagnosis and a structured long-term plan rather than urgent stabilisation.
+  - **Definitive (children):** behavioural/psychosocial interventions (parent training programs, classroom-based strategies, structured routines) are typically first-line, particularly for milder presentations or younger children; stimulant medication (e.g. methylphenidate, dexamfetamine/lisdexamfetamine) is a well-evidenced, effective treatment for moderate-severe ADHD, usually initiated and monitored by a specialist (paediatrician or child psychiatrist) given the need for careful titration, growth/cardiovascular monitoring, and regulatory requirements around prescribing stimulant medications; non-stimulant options (e.g. atomoxetine) exist for patients who don't tolerate or respond to stimulants, or where stimulants are contraindicated.
+  - **Definitive (adults):** increasingly recognised as a condition that persists into adulthood for a substantial proportion of those diagnosed in childhood, and can also be diagnosed for the first time in adulthood — the same general treatment principles apply (behavioural strategies, medication), with genuine growing awareness that adult ADHD has historically been under-recognised, particularly in women and in inattentive-predominant presentations.
+  - **Chronic/long-term:** regular review of symptom control, medication adverse effects (appetite suppression, sleep disturbance, growth trajectory in children, cardiovascular monitoring given stimulant effects on heart rate/blood pressure), and functional outcomes (academic/occupational performance, relationships); psychoeducation for the patient and family about the condition given the substantial impact of untreated ADHD on self-esteem, academic/occupational trajectory, and relationship functioning over time.
+- **Complications:** untreated ADHD is associated with increased risk of academic underachievement, occupational difficulties, relationship problems, substance misuse, and higher rates of accidents/injuries (including road traffic accidents in adults, relevant to driving safety) — genuinely important context for why treatment matters beyond symptom control alone, given these downstream functional consequences.
+
+
+<!-- ===== SOURCE: 14_05d_Psych_-_Electroconvulsive_Therapy.md ===== -->
+
+
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `Electroconvulsive therapy (ECT)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+<!-- ===== SOURCE: 14_06a_Psych_-_Drugs_Used_in_Psychiatry.md ===== -->
+
+
+> [!info] Verified — most content in this file (drug mechanisms, adverse effect profiles, drug-drug interactions, discontinuation syndrome patterns) is pharmacological rather than jurisdiction-specific, and doesn't need wholesale replacement for Australian use. The one section requiring genuine correction was lithium's therapeutic range (see below, now indication-specific and AU-verified). For specific current PBS-subsidised formulations, exact starting doses, or the latest AMH/eTG Psychotropic prescribing detail for an individual patient, check those sources directly rather than treating this file as a prescribing reference — it's a conceptual/mechanistic study aid.
+
+## 0.5 Selective serotonin reuptake inhibitors (SSRIs)
+
+- **AE:** GI side effects (nausea/vomiting/diarrhoea); ↑risk of GI bleeding; ↑risk of anxiety and agitation after starting; hyponatraemia.
+
+> [!danger] For patients <25 years old, review after 1 week to assess risk of suicide or self-harm.
+
+- **Drug interactions:** NSAIDs — use a PPI; warfarin/heparin — use mirtazapine instead; aspirin — caution (risk-benefit); triptans and MAOIs — ↑risk of serotonin syndrome.
+- **Citalopram & escitalopram:** specific concerns re: dose-dependent QT prolongation — caution in elderly patients, hepatic impairment; avoid in patients with known QT prolongation or on QT-prolonging medications.
+- **Post-MI:** use sertraline.
+- **Children & adolescents:** fluoxetine preferred.
+- **Pregnancy:** use in the 1st trimester increases risk of congenital malformations, especially with paroxetine — DO NOT give. Use in the 3rd trimester increases risk of pulmonary hypertension of the newborn.
+
+> [!info] Discontinuation symptoms — mnemonic "FINISH"
+> - **F**lu-like symptoms (e.g. lethargy).
+> - **I**nsomnia (± nightmares).
+> - **N**ausea ± vomiting.
+> - **I**mbalance (dizziness, vertigo).
+> - **S**ensory disturbances (paraesthesias, shock-like sensations).
+> - **H**yperarousal (anxiety, irritability, agitation, aggression, etc).
+
+## 0.6 Serotonin-noradrenaline reuptake inhibitors (SNRIs)
+
+- E.g. venlafaxine, duloxetine.
+- Side effect profile similar to SSRIs. Relatively newer than SSRIs, therefore a smaller evidence base.
+
+## 0.3 Mirtazapine
+
+- **MOA:** α-2 adrenergic blocker → ↑serotonergic and noradrenergic transmission.
+- **AE (can be used for good effect!):** ↑appetite & weight gain; sedation (may be useful for insomnia).
+
+## 0.7 Tricyclic antidepressants (TCAs)
+
+- **MOA:** inhibits reuptake of serotonin and noradrenaline.
+- **AE:** anticholinergic effects (dry mouth, blurred vision, constipation, urinary retention); antihistamine effects (drowsiness — especially with amitriptyline, clomipramine, dosulepin); anti-adrenergic effects (postural hypotension).
+- Amitriptyline is used for neuropathic pain and migraine prophylaxis.
+
+## 0.4 Monoamine oxidase inhibitors (MAOIs)
+
+- **MOA:** ↑serotonin and noradrenaline in presynaptic receptors.
+- Not used commonly nowadays due to side effect profile and drug-drug interactions.
+- **Non-selective:** e.g. phenelzine — used in atypical depression.
+- **Selective:** e.g. moclobemide, selegiline, rasagiline.
+- **AE:** hypertensive reactions with tyramine-containing foods (e.g. cheese, pickled herring); anticholinergic effects (dry mouth, constipation, urinary retention, etc).
+
+## 0.2 Lithium
+
+- **MOA:** not fully understood.
+- Narrow therapeutic range, sample 12h post-dose; mainly excreted via the kidneys.
+
+> [!info] Verified against RANZCP (Royal Australian and New Zealand College of Psychiatrists) guidance and the Royal Melbourne Hospital pathology handbook, Aug 2026 — the therapeutic range genuinely differs by indication, a distinction the original "0.4–1.0 mmol/L" single-figure range doesn't capture: **0.6–0.8 mmol/L for prophylaxis/maintenance (and in elderly patients specifically, given reduced renal clearance)**; **up to 1.0–1.2 mmol/L for acute mania**, reflecting the higher level typically needed for acute symptom control versus long-term relapse prevention. This same indication-specific split is also standard internationally (NICE, RANZCP, CANMAT/ISBD all converge on a similar structure), so it's not itself a UK-vs-Australia difference — the correction here is precision (single range → two indication-specific ranges), not jurisdiction.
+
+- **AE:** GI effects (nausea, vomiting, diarrhoea); fine tremor; nephrotoxicity (diabetes insipidus); hypothyroidism; ECG changes; weight gain; idiopathic intracranial hypertension; leukocytosis (↑WCC); hyperparathyroidism; hypercalcaemia.
+
+> [!info] Monitoring
+> - Lithium levels — sample 12h post-dose. Weekly, and after each dose change, until concentrations are stable; then 3-monthly thereafter.
+> - TFT and renal function every 6 months.
+
+## 0.1 Benzodiazepines
+
+> [!warning] FLAG 2026-09-01 — two drug references for the same classes in one file
+> `14_06a_Psych_-_Drugs_Used_in_Psychiatry` (this source) and `NEW_Drugs_17_Psychotropic` both cover
+> benzodiazepines, lithium, SSRIs, SNRIs, TCAs, MAOIs and Z-drugs. **Both retained; pair marked,
+> not merged.**
+
+- **MOA:** enhance the effect of GABA, an inhibitory neurotransmitter.
+- **AE:** sedation (including respiratory depression at very high doses or when mixed with other drugs like opioids). Tolerance and dependence can develop.
+
+> [!danger] Should only be prescribed for a short period of time (e.g. 2–4 weeks) with regular reviews.
+
+- **Withdrawal:** taper off slowly (e.g. drop dose by 1/8th every fortnight); switch to a longer-acting benzodiazepine (e.g. diazepam) so effects are less pronounced.
+- **S/Smx of withdrawal (if withdrawn too fast):** insomnia, irritability, anxiety, tremor, loss of appetite, perceptual disturbances, lowered seizure threshold.
+
+## 0.8 Z-drugs (zopiclone, zolpidem, zaleplon)
+
+- **MOA:** GABA-receptor agonists — similar effect to benzodiazepines.
+- **AE:** similar to benzodiazepines; can cause intense dreams and hallucinations in some patients; ↑risk of falls in the elderly.
 
 
 <!-- ===== SOURCE: NEW_Drugs_17_Psychotropic.md ===== -->
@@ -2923,76 +2996,3 @@ The Act also explicitly provides for voluntary inpatients (Part 3) — a person 
 
 > [!note] **Five sets of build-list rows are duplicates or near-duplicates** — SSRIs, SNRIs and tricyclics each appear twice (abbreviated/expanded or differing in capitalisation), MAOIs appear as both a specific subclass and the general class, and NDRIs sit within the other-antidepressants group. Each concept is written once and every row mapped above.
 
-
-<!-- ===== SOURCE: NEW_Psychiatry.md ===== -->
-
-
-# NEW — Psychiatry
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **This file contains the one Tier 1 Psychiatry topic only.** The category has 1 T1, 3 T2 and 59 T3 topics — the largest T3 backlog on the list. See the build-status table at the end.
-
-## Acute Behavioural Disturbance
-
-- **D:** a state of severe agitation, aggression or disturbed behaviour posing risk to the patient or others. **Acute behavioural disturbance is a presentation, not a diagnosis** — and treating it as a psychiatric problem before excluding a medical one is the error that kills people in this presentation.
-- **The governing fact, and the reason this is Tier 1:** across Australian and international sources, **only a minority of acute behavioural disturbance is purely psychiatric — commonly quoted as around 10–20%.** The majority has a medical, neurological or toxicological driver, and **several of those causes are rapidly fatal if sedated and left unassessed.**
-- **DDx:**
-  - **Immediately reversible and immediately checkable:** **hypoglycaemia** (checked in every patient, before anything else), **hypoxia**, **hypercapnia**, **shock and hypoperfusion**, **head injury** — including a fall the patient cannot report.
-  - **Delirium from any systemic cause:** sepsis (urinary, respiratory, intra-abdominal, **meningitis and encephalitis**), electrolyte disturbance (**hyponatraemia, hypercalcaemia**), uraemia, hepatic encephalopathy, thyroid disease, **Wernicke's encephalopathy**, post-ictal state, **non-convulsive status epilepticus**, urinary retention, constipation, pain.
-  - **Toxicological:** **stimulant intoxication (methamphetamine, cocaine, MDMA)**, synthetic cannabinoids, anticholinergic toxicity, serotonin syndrome, neuroleptic malignant syndrome, **alcohol and benzodiazepine withdrawal**, opioid withdrawal, and **prescribed medications — corticosteroids, dopaminergic agents, anticholinergics**.
-  - **Neurological/structural:** stroke, intracranial haemorrhage, **subdural haematoma**, tumour, dementia with behavioural and psychological symptoms, autoimmune encephalitis, hypoxic brain injury.
-  - **Primary psychiatric:** psychosis (schizophrenia, drug-induced), **mania**, severe agitated depression, personality disorder in crisis, autism or intellectual disability with distress in an overstimulating environment, acute stress reaction, panic.
-- **Focused Hx:** frequently limited by the presentation, so **collateral is essential** — family, carers, residential staff, ambulance, police, the GP, and the patient's own previous records, which often contain the diagnosis. Establish: **onset and time course** (**abrupt onset in a person with no psychiatric history is a medical cause until proven otherwise**); **fluctuation and conscious level** (fluctuating attention points to delirium, not psychosis); **visual hallucinations** (more suggestive of an organic cause than the auditory hallucinations typical of primary psychosis); **substance use — what, how much, when, and withdrawal timelines**; **complete medication history including recent changes and non-adherence**; head injury and falls; fever and infective symptoms; known psychiatric and medical history; previous episodes and what helped; **and the patient's own account of what is distressing them**, which is both clinically informative and the foundation of de-escalation.
-- **Examination:** the practical difficulty is that examination may be limited by safety, so **prioritise and take what you can get.**
-  - **Non-negotiable minimum: capillary glucose, oxygen saturation, pulse, blood pressure, temperature, respiratory rate, and conscious level.** If the patient will not permit even these, that itself is a reason for escalation, not for deferring assessment.
-  - **Pupils** (pinpoint, dilated), **skin** (diaphoresis, flushing, dryness, needle marks, patches), **hydration**, **tremor and clonus** (serotonin syndrome), **rigidity** (neuroleptic malignant syndrome), **temperature — hyperthermia is a critical finding** in stimulant toxicity, serotonin syndrome and NMS.
-  - **Focal neurological signs**, gait, and evidence of head injury.
-  - **Full physical examination as soon as it is safely possible** — including after sedation, which is when a proper examination and investigation must actually happen rather than being forgotten.
-- **First-line Ix:** **capillary glucose immediately.** Then, as safety permits: **venous blood gas with lactate, sodium and potassium** (fast and high-yield), **FBC, UEC, calcium, magnesium, LFTs, CRP, TFTs, creatine kinase** (rhabdomyolysis from prolonged struggle or restraint — a genuine and under-recognised complication), **paracetamol level and a targeted toxicology screen** where overdose is possible, **ethanol**, **blood cultures if febrile**, **urinalysis and culture**, **ECG** (**QT interval before and after sedating drugs, and arrhythmia in stimulant toxicity**), **chest X-ray**, **CT brain** where there is head injury, focal signs, anticoagulation, or an unexplained picture, and **lumbar puncture** where CNS infection is suspected.
-
-> [!warning] **Management principles at intern level — the parts that are yours.**
-> - **De-escalation comes first and works.** Australian guidance is consistent that **a single nominated staff member should lead communication**, in a low-stimulus environment, with a calm approach, clear simple language, offered choices, attention to the patient's stated concerns, and to basic needs — pain relief, food, warmth, a quiet space, a phone call.
-> - **Address the reversible physical drivers while de-escalating** — glucose, oxygen, pain, urinary retention, and withdrawal.
-> - **Sedation is a medical intervention with medical risks** — airway obstruction, respiratory depression, hypotension, aspiration, arrhythmia and, with prolonged restraint, rhabdomyolysis and cardiac arrest. **A sedated patient requires the same monitoring as any sedated patient**: continuous observation, oxygen saturation, blood pressure, respiratory rate and conscious level, on a documented schedule.
-> - **Restraint is a last resort, is time-limited, requires documentation, and carries its own mortality**, particularly with prone restraint and struggle-related hyperthermia and acidosis.
-> - **Know the legal framework you are working under** — assessment and treatment without consent is governed by state mental health legislation and by common-law duty of care in an emergency, and the specific provisions differ between Australian states and territories.
->
-> **Specific sedative agents, doses and routes are deliberately omitted.** Every Australian state health service publishes its own acute behavioural disturbance sedation protocol, they differ from each other, they are age- and weight-stratified, and all of them are egress-blocked in this environment. **Use your hospital's protocol.** Reproducing a sedation dose from memory for an agitated, possibly stimulant-intoxicated patient is exactly the failure mode this project exists to prevent.
-
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — Acute Behavioural Disturbance |
-| T2 | 3 | Not built — Acute Agitation, Acute Anxiety, Acute Severe Anxiety |
-| T3 | 59 | Not built — the largest T3 backlog of any category |
-
-## Topics skipped in this category
-
-All four skips are T3.
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Insomnia** | `## Insomnia` | `14_05b_Psych_-_Insomnia.md` | Exact |
-| **Self-Harm** | `## Self-harm (including non-suicidal self-injury)` | `14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_.md` | Exact |
-| **Generalised Anxiety** | `## Generalised anxiety disorder (GAD)` | `14_02_Psych_-_Anxiety_and_Related_Disorders.md` | Partial |
-| **Somatic Symptom** | `## Somatic symptom disorder (somatisation disorder)` | `14_05c_Psych_-_Unexplained_Symptoms...` | Partial |
-
-### Near-misses deliberately **built-eligible** rather than skipped — for review when T3 is reached
-
-| Topic | Header it partially matched | Why not skipped |
-|---|---|---|
-| **Anxiety** | `Generalised anxiety disorder (GAD)`, `Illness anxiety disorder` | Both are **specific diagnoses**; anxiety as an undifferentiated presentation has a wider differential including organic causes. |
-| **Anorexia** | `Anorexia nervosa` | **Different concepts.** Anorexia the symptom is loss of appetite; anorexia nervosa is an eating disorder. Treating the header as a match would leave appetite loss uncovered. |
-| **Hyperactivity** | `Attention deficit hyperactivity disorder (ADHD)` | Hyperactivity as a presenting symptom has a differential beyond ADHD. |
-
----
-
-# 2 Block-5 moves merged in (2026-09-01)
-
-> [!info] **Block 5.** `B-10` puerperal psychosis was held — it and `Y-2` point at each other in opposite directions.
