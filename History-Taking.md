@@ -629,7 +629,7 @@ Ask the four questions in order. The fourth is the one most often skipped and th
 > They were elsewhere in this file. A cross-reference means opening a second place to read.
 
 <!-- ===== SOURCE: M7_Adolescent_and_Behavioural_Health.md ===== -->
-*Co-located here from elsewhere in this file, 2026-09-01. Verbatim.*
+*Co-located here from elsewhere in this file, 2026-09-01. Verbatim. **Its origin is `Pediatrics_merged.md`** — it was moved from there on 2026-09-01, then co-located to this position; the orphaned divider that carried that fact was removed on 2026-09-02.*
 
 ## 0.2 The HEEADSSS Psychosocial Assessment
 `CF-PAIR §1.25` **This block and Part 1 §1.25 cover the same ground. Both kept in full; neither supersedes the other, and they have NOT been reconciled.**
@@ -955,9 +955,6 @@ Pathogen-specific treatment, partner notification, and notification.
 **Retesting for reinfection**, which is common. Vaccination (HPV, hepatitis A and B). **Discuss PrEP where there is ongoing HIV risk** — cross-refer [[K3]] 0.2.
 
 ---
-
-<!-- ===== SOURCE: M7_Adolescent_and_Behavioural_Health.md ===== -->
-*Moved here from `Pediatrics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
 <!-- ===== SOURCE: RESP-X_Occupational_and_Chronic_Lung_Disease.md ===== -->
 *Moved here from `Resp_merged.md` on 2026-09-01. Verbatim and unrenumbered.*

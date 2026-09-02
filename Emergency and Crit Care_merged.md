@@ -2777,7 +2777,7 @@ Wound care and tetanus status. Warn about serum sickness after antivenom. Redbac
 > [!danger] **Adrenaline is the first and only first-line treatment for anaphylaxis. There is no dose of antihistamine or corticosteroid that substitutes for it, and delay in giving it is the factor most consistently associated with fatal outcome.**
 > **Give it intramuscularly into the mid-anterolateral thigh** — not subcutaneously, not into the deltoid, and not orally. Lay the patient **flat** (or in the recovery position if vomiting, or sitting only if breathing is severely compromised) and **do not stand them up or walk them to a trolley** — sudden postural change in anaphylaxis has been associated with cardiac arrest.
 
-> [!info] **Dose — the one dose stated in this file, in the correct per-kg-with-a-cap form**
+> [!info] **Dose — in the correct per-kg-with-a-cap form.** (Until 2026-09-02 this said "the one dose stated in this file". It is not: `01_Cardiovascular §0.20.3 Distributive shock`, co-located into this file on 2026-09-01, carries a second ASCIA box 800 lines above — including the `<7.5 kg` infant row this one does not have.)
 > Sources agree on the **ASCIA** dosing, which is consistent with the Australian **Acute Anaphylaxis Clinical Care Standard**, the **Australian Immunisation Handbook** and the World Allergy Organisation:
 > - **Ampoule (adrenaline 1:1000), all ages: 0.01 mL/kg, to a maximum of 0.5 mL (0.5 mg) per dose, intramuscular.**
 > - **Injector devices, by weight band:** **150 microgram** for those from **7.5 kg to 20 kg**; **300 microgram** for those **20 kg or more**; from around **12 years of age and over 50 kg**, either the **300 microgram or 500 microgram** device.

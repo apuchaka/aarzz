@@ -1665,26 +1665,6 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 > [!warning] **Two things to watch after relieving the obstruction.** **(1) Post-obstructive diuresis** — a large-volume diuresis can follow decompression of a chronically obstructed bladder, causing hypovolaemia and electrolyte disturbance, so urine output, fluid balance and electrolytes need monitoring rather than a catheter and discharge. **(2) Haematuria ex vacuo** — decompression bleeding, usually self-limiting. *(Specific advice on whether to decompress gradually or completely, and the volume thresholds involved, is not stated here: it did not meet the three-source standard, and practice varies. Drain the bladder, monitor the output, and follow local guidance.)*
 
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — Acute Scrotal Pain |
-| **T2** | 1 | **Built** — Acute Urinary Retention |
-| T3 | 31 | Not built |
-
-## Topics skipped in this category
-
-All four skips are T3, so none affects Tier 1 completeness.
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Incontinence** | `## Incontinence` | `07_Renal_Medicine_and_Urology.md` | Exact |
-| **Urinary Incontinence** | `## Urinary incontinence` | `17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse.md` | Exact |
-| **Urinary Retention** | `## Urinary Retention` | `07_Renal_Medicine_and_Urology.md` | Exact |
-| **Testicular Lump** | `## Testicular Lumps` | `07_Renal_Medicine_and_Urology.md` | Exact after plural fold — **this one was recovered only after I fixed a false negative in the scan**; the singular topic did not match the plural header until the fold was added |
 
 <!-- ===== SOURCE: NEW_Investigations_Renal_and_Urology.md ===== -->
 
@@ -1937,21 +1917,6 @@ All four skips are T3, so none affects Tier 1 completeness.
 
 **Alt:** Slit-lamp examination for **Kayser–Fleischer rings**; serum caeruloplasmin and free copper; liver biopsy with quantitative copper; *ATP7B* genetic testing; MRI brain.
 
-## Build status of this file
-
-| Measure | Value |
-|---|---|
-| Category | Investigations — Renal and Urology |
-| No-header items in category | 13 |
-| **Built** | **13** |
-| Dropped as `[CUT]` | 0 |
-| Searches used | 3 |
-
-**Mis-filed items built as listed, with the mis-filing noted in each:** Adrenal/Cortisol (endocrine) · Metanephrines (endocrine) · Dark Urine (a sign) · **Fecal Incontinence (a symptom, not a test — logged `UNRESOLVED — needs review` in 0.13)**.
-
-**Omissions under the sourcing standard, each stated in place:** ACR category boundaries in Australian units (**a deliberate refusal to convert mg/g to mg/mmol myself**) · all renal function reference intervals · PSA cut-offs · urine cytology numeric sensitivity · uroflowmetry flow thresholds · urodynamic pressure thresholds · all cortisol and metanephrine assay thresholds · corticosteroid doses for adrenal crisis.
-
-**Sourcing note:** the Wilson disease figures (caeruloplasmin <0.2 g/L; urinary copper >40 µg/day children, >100 µg/day adults) are stated **as orientation with an explicit caveat**, because sources describe the biochemical thresholds themselves as imperfect and a systematic review exists on their variable performance. They are not presented as a rule.
 
 
 <!-- ===== SOURCE: NEW_Drugs_13_Genitourinary.md ===== -->
@@ -2101,28 +2066,4 @@ All four skips are T3, so none affects Tier 1 completeness.
 > **ADRENAL CRISIS: hypotension unresponsive to fluids, vomiting, abdominal pain, hyponatraemia, hyperkalaemia, hypoglycaemia, fever, confusion. GIVE HYDROCORTISONE IMMEDIATELY ON SUSPICION — take the cortisol sample, then treat. Do not wait for the result.** Deaths from adrenal crisis are usually deaths from delay.
 > **Never omit or delay steroid replacement in an admitted patient**, and **never start thyroxine before treating adrenal insufficiency** — it precipitates crisis (see `NEW_Drugs_10_Endocrine.md` 0.4.1).
 
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for benign prostatic hyperplasia and prostatitis | SUB | yes | |
-| 0.1.1 | Alpha-1 Blockers (Uroselective) | CLS | yes | Built jointly with `Selective alpha-blockers (genitourinary)` — same class, two names; both rows mapped. Carries the intraoperative floppy iris syndrome warning with its incidence figures. |
-| 0.1.1 | Selective alpha-blockers (genitourinary) | CLS | yes | As above. |
-| 0.1.2 | 5-Alpha-Reductase Inhibitors | CLS | yes | PSA halving and the teratogenicity/handling warning. |
-| 0.2 | Drugs for urinary tract disorders | SUB | yes | |
-| 0.2.1 | Anticholinergics (genitourinary) | CLS | yes | Anticholinergic burden, cognition and the case against oral immediate-release oxybutynin in older people. |
-| 0.2.2 | Other drugs for urinary incontinence | CLS | yes | |
-| 0.3 | Drugs for sexual dysfunction | SUB | yes | |
-| 0.3.1 | Phosphodiesterase 5 inhibitors | CLS | yes | Nitrate contraindication and ED as a cardiovascular warning sign. |
-| 0.3.2 | Other drugs for sexual dysfunction | CLS | yes | |
-| 0.4 | Drugs for kidney stones | SUB | yes | Includes the do-NOT-restrict-dietary-calcium point and the obstructed infected kidney emergency. |
-| 0.5 | Urinary alkalinisers and acidifiers | SUB | yes | |
-| 0.6 | Bladder instillations | SUB | yes | BCG including systemic BCG infection. |
-| 0.7 | Drugs for adrenal insufficiency | SUB | yes | **Deliberately summarised, not rewritten** — the full content is in `NEW_Drugs_10_Endocrine.md` 0.5.1 and 0.5.2, and splitting one clinical topic across two files would risk them drifting apart. The three standing actions and adrenal crisis are stated here in full because they are safety-critical. |
-
-**Rows in file: 14 (7 SUB + 7 CLS). AMH section 13 build-list rows: 14. Section complete.**
-
-> [!note] **One pair of build-list rows is a naming duplicate** (`Alpha-1 Blockers (Uroselective)` / `Selective alpha-blockers (genitourinary)`), and **one subsection (`Drugs for adrenal insufficiency`) genuinely overlaps AMH section 10** — the build list places adrenal replacement in both sections. It is cross-referenced rather than duplicated, and that decision is recorded above.
 

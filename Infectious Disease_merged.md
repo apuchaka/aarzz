@@ -336,26 +336,6 @@ Source control — drainage, line removal, return to theatre for a leak. Cessati
 > **The intern-level actions:** recognise it, **triage it as an emergency**, take cultures **without delaying treatment**, give the empirical antibiotic on the local protocol within the hour, escalate immediately, and **do not wait for the blood count to come back if the clinical suspicion is there.**
 > **The specific empirical antibiotic regimen is deliberately omitted** — it is determined by local resistance patterns and by each hospital's protocol, and those documents are egress-blocked here. **Find your hospital's febrile neutropenia protocol before you need it**, because 60 minutes is not enough time to go looking.
 
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — Fever in Immunocompromised Patient |
-| T3 | 9 | Not built |
-
-## Topics skipped in this category
-
-| Topic | Tier | Matched header | File | Match type |
-|---|---|---|---|---|
-| **Fever of Unknown Origin** | T3 | `## Pyrexia of unknown origin (PUO) / Fever of unknown origin` | `08_09_Infectious_Disease_-_Miscellaneous.md` | Partial — the topic name appears verbatim in the header |
-
-### Near-miss deliberately **not skipped**
-
-| Topic | Header it partially matched | Why |
-|---|---|---|
-| **Fever** (T3) | `Rheumatic Fever`, `Enteric fever`, `Q fever`, `Scarlet fever`, `Dengue fever`, `Yellow fever` and others | Every match is a **specific named disease containing the word "fever"**. There is no approach-to-fever header. This is the clearest false-positive cluster the scan produced — 10+ hits, none of them a match. |
 
 
 <!-- ===== SOURCE: K2_Skin_and_Soft_Tissue_Infection.md ===== -->
@@ -3048,24 +3028,6 @@ Immunotherapy or biologic therapy through a specialist service.
 **Alt:** Multiplex stool PCR panel (0.9) for the diarrhoeal syndrome; **surgical exploration — the definitive diagnostic and therapeutic step** in suspected myonecrosis; blood cultures; CT or plain radiographs for soft tissue gas; CK, lactate and a full septic screen.
 
 
-## Build status of this file
-
-| Measure | Value |
-|---|---|
-| Category | Investigations — Infectious Diseases |
-| No-header items in category | 30 rows, of which 6 tagged `[CUT]` and 1 (`Blood Cultures`) was on the ambiguous list — 23 to build |
-| **Built** | **23** |
-| Dropped as `[CUT]` per tier tags | 6 |
-| Searches used | 7 at first build, +1 for the two items added on audit |
-
-**Dropped `[CUT]` items, recorded rather than silently omitted:** B. cereus · Citrobacter · Dark Field Examination · Echinococcus granulosus · Human Herpes Virus 8 · India-Ink Stain. *(Dark-field microscopy is nonetheless referenced inside 0.14 as an alternative test, since omitting it there would have left the syphilis entry incomplete.)*
-
-**Out-of-scope items encountered:** none in this category. `Blood Cultures` [T1] was on the **ambiguous** list, not the no-header list, so it is not built here.
-
-**Omissions under the sourcing standard, each stated in place:** faecal calprotectin cut-off · ASOT and anti-DNase B numeric cut-offs · coeliac no-biopsy antibody threshold · *Cryptosporidium* swimming exclusion period · splenic-rupture avoidance duration in EBV · all antimicrobial and antifungal agents and doses.
-
-> [!warning] **Two items were added on audit (2026-08-30), and the omission is recorded rather than quietly corrected.**
-> `Campylobacter` and `Clostridium perfringens` are both `[T3]` no-header rows in `data/build_list_investigations.md` and were **missed at first build**. The original status block claimed 21 built and its arithmetic did not reconcile with the build list (27 + 6 CUT ≠ 30 rows). They are now built as **0.22** and **0.23**, and the counts above are corrected. **The gap was found only by re-deriving the row list from the build list and checking each row against the file** — a narrative completeness claim would not have caught it.
 
 ---
 
@@ -3475,61 +3437,6 @@ Immunotherapy or biologic therapy through a specialist service.
 - **Pyrantel** — depolarising neuromuscular blockade in the worm; available over the counter for threadworm.
 - **Niclosamide, levamisole** — narrower, largely historical roles.
 
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Anthelmintics | SUB | yes | |
-| 0.1.1 | Benzimidazoles | CLS | yes | |
-| 0.1.2 | Other anthelmintics | CLS | yes | Includes the Australian *Strongyloides*-before-steroids warning. |
-| 0.2 | Antibacterials | SUB | yes | |
-| 0.2.1 | Penicillins | CLS | yes | |
-| 0.2.2 | Penicillin combinations | CLS | yes | |
-| 0.2.3 | Cephalosporins | CLS | yes | |
-| 0.2.4 | Carbapenems | CLS | yes | |
-| 0.2.5 | Monobactams | CLS | yes | |
-| 0.2.6 | Carbacephem | CLS | yes | **Not marketed in Australia**; built briefly and flagged as historical rather than omitted. |
-| 0.2.7 | Glycopeptides | CLS | yes | AUC-guided vancomycin monitoring recorded as the changed standard. |
-| 0.2.8 | Lipopeptide | CLS | yes | |
-| 0.2.9 | Polypeptides | CLS | yes | |
-| 0.2.10 | Aminoglycosides | CLS | yes | |
-| 0.2.11 | Macrolides | CLS | yes | |
-| 0.2.12 | Lincosamides | CLS | yes | |
-| 0.2.13 | Tetracyclines | CLS | yes | |
-| 0.2.14 | Quinolones | CLS | yes | TGA warnings on tendon, aorta and neuropathy recorded. |
-| 0.2.15 | Metronidazole | CLS | yes | |
-| 0.2.16 | Nitrofurans | CLS | yes | |
-| 0.2.17 | Rifamycins | CLS | yes | Built jointly with `Ansamycins` — rifamycins **are** ansamycins; one entry, both rows mapped. |
-| 0.2.17 | Ansamycins | CLS | yes | As above. |
-| 0.2.18 | Antimycobacterials | CLS | yes | |
-| 0.2.19 | Other antibacterials | CLS | yes | Sulfonamides/trimethoprim, oxazolidinones, chloramphenicol, fosfomycin, fusidic acid, dapsone. |
-| 0.2.20 | Antibacterials (skin) | CLS | yes | |
-| 0.2.21 | Antibacterials (ear) | CLS | yes | Carries the aminoglycoside-drops-and-perforation ototoxicity warning. |
-| 0.3 | Antifungals | SUB | yes | |
-| 0.3.1 | Azoles | CLS | yes | |
-| 0.3.2 | Echinocandins | CLS | yes | |
-| 0.3.3 | Other antifungals | CLS | yes | Polyenes, terbinafine, flucytosine, griseofulvin. |
-| 0.4 | Antiprotozoals | SUB | yes | |
-| 0.4.1 | Antimalarials | CLS | yes | G6PD before primaquine/tafenoquine stated as a hard requirement. |
-| 0.4.2 | Other antiprotozoals | CLS | yes | |
-| 0.5 | Antiretrovirals | SUB | yes | |
-| 0.5.1 | Nucleoside reverse transcriptase inhibitors | CLS | yes | Includes the HLA-B*57:01-before-abacavir requirement. |
-| 0.5.2 | Non-nucleoside reverse transcriptase inhibitors | CLS | yes | |
-| 0.5.3 | HIV-Protease inhibitors | CLS | yes | |
-| 0.5.4 | Integrase inhibitors | CLS | yes | |
-| 0.5.5 | Other antiretrovirals | CLS | yes | |
-| 0.6 | Antivirals | SUB | yes | |
-| 0.6.1 | Guanine analogues | CLS | yes | |
-| 0.6.2 | Neuraminidase inhibitors | CLS | yes | |
-| 0.6.3 | Antivirals for viral hepatitis | CLS | yes | Australian pan-genotypic DAA position and GP prescribing recorded; hepatitis B reactivation warning included. |
-| 0.6.4 | Interferons | CLS | yes | |
-| 0.6.5 | Antivirals (eye) | CLS | yes | |
-| 0.6.6 | Antivirals (skin) | CLS | yes | |
-| 0.6.7 | Other antivirals | CLS | yes | |
-
-**Rows in file: 47 (6 SUB + 41 CLS). AMH section 5 build-list rows: 47. Section complete.**
-
-> [!note] **One pair of build-list rows is a naming duplicate** — `Rifamycins` and `Ansamycins` name the same class; built once at 0.2.17 with both rows mapped. **One row, `Carbacephem`, describes a drug not marketed in Australia**; it is built briefly and flagged rather than silently dropped.
 
 
 <!-- ===== SOURCE: NEW_Drugs_20_Vaccines.md ===== -->
@@ -3593,17 +3500,4 @@ Immunotherapy or biologic therapy through a specialist service.
   - **IVIg BLUNTS THE RESPONSE TO LIVE VACCINES — MMR and varicella must be deferred for a defined interval after immunoglobulin**, and conversely immunoglobulin given shortly after a live vaccine may abolish its effect. **This interval is specified in the Australian Immunisation Handbook and must be looked up.**
   - **Supply is limited and criteria-based** — the national criteria determine which indications are funded, and requests go through a formal approval process.
 
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Vaccines | SUB | yes | **No schedule, age, interval or dose reproduced** — the Australian Immunisation Handbook and NIP schedule change continually and are named as the point-of-care source. Built as the principles, contraindications, and the live-vaccine-before-immunosuppression rule. |
-| 0.2 | Immunoglobulins | SUB | yes | Passive versus active immunity distinguished; replacement and immunomodulatory uses separated. |
-| 0.2.1 | Intravenous Immunoglobulins | CLS | yes | Includes the interval before live vaccines and the thrombosis risk. |
-
-**Rows in file: 3 (2 SUB + 1 CLS). AMH section 20 build-list rows: 3. Section complete.**
-
-> [!danger] **A note on how this file is written, per CLAUDE.md rule 8.** This is the one section where **stating specific figures would be actively harmful**, because the Australian schedule changes and a note like this one will be out of date before it is read. **The value here is in the principles and the traps — live vaccines and immunosuppression, what is not a contraindication, vaccinating before starting a biologic, cold chain, and the immunoglobulin–live vaccine interval — all of which are stable. The numbers are deliberately left to the Handbook.**
 

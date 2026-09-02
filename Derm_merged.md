@@ -474,34 +474,6 @@ aliases:
 - **Examination:** full skin examination **with the patient undressed** — including **scalp, behind the ears, umbilicus, natal cleft, nails, palms, soles and web spaces**, all of which are commonly skipped and all of which carry diagnostic information; distribution pattern (**extensor versus flexural is one of the highest-yield discriminators — psoriasis extensor, atopic eczema flexural**); morphology and scale character (silvery scale, greasy scale, fine collarette); **nail changes** (pitting, onycholysis, oil-drop sign in psoriasis); **Auspitz sign**; lichenification and excoriation; mucosal involvement (Wickham's striae in lichen planus); lymphadenopathy; joint examination.
 - **First-line Ix:** **often clinical**. Where needed: **skin scrapings for fungal microscopy and culture** — a low threshold, since tinea incognito is a common and avoidable error; **skin swab** if secondary infection; **FBC, UEC, LFTs, TFTs, glucose/HbA1c, CRP**; **iron studies and ferritin** where itch is prominent; **coeliac serology** where dermatitis herpetiformis is suspected; **ANA and extractable nuclear antigens** where connective tissue disease is possible; **patch testing** for suspected allergic contact dermatitis (referred, not done acutely); **skin biopsy** where the diagnosis remains unclear, and specifically where **a chronic "eczema" has failed to respond to adequate treatment** — the situation in which cutaneous lymphoma is found.
 
-## Build status of this file
-
-**Partial.** The six entries above were written **before the tiered build list arrived**, under the original list order. Against the tier tags, they cover:
-
-| Entry | Tier | Note |
-|---|---|---|
-| Acute Rash | **T2** | In scope for the current priority order |
-| Acute Inflammatory Dermatosis | **T2** | In scope for the current priority order |
-| Chronic Rash | T3 | Built ahead of priority — keep, do not rebuild |
-| Maculopapular Rash | T3 | Built ahead of priority — keep, do not rebuild |
-| Blistering Rash | T3 | Built ahead of priority — keep, do not rebuild |
-| Non-Blanching Rash and Purpuric Rash | T3 | Built ahead of priority — covers two list topics |
-
-**Dermatology has no T1 topics.** The remaining 23 unbuilt Dermatology topics are all T3 and are deferred until T1 and T2 are complete across all categories.
-
-## Topics skipped in this category
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Hair Loss** | `## Alopecia (Hair Loss) — Approach and Differential` | `09_08_Dermatology_-_Miscellaneous.md` | Partial — the topic name appears in the header verbatim |
-| **Pallor** | `## Fatigue and Pallor — Approach and Differential` | `10_09b_Haemonc_-_Miscellaneous_Haematology.md` | Partial — combined header |
-| **Pruritus** | `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` | `09_08_Dermatology_-_Miscellaneous.md` | Partial |
-| **Rash** | `## Skin Lesion / Rash` | `History-Taking.md` | Partial — combined header |
-| **Skin Lesion** | `## Skin Lesion / Rash` | `History-Taking.md` | Partial — combined header |
-
-### Judgement calls you should check
-
-**Generalised Pruritus** and **Localised Pruritus** were **skipped, and this is my judgement rather than a literal match.** Neither string appears in any header. Both were skipped because the matched header `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` **explicitly names both** in its own title. Under a strictly literal reading they would be built; I judged "Generalised and Localised" in the header to be a direct statement that the existing entry covers them. **Overrule me if you want them built separately.**
 
 
 <!-- ===== SOURCE: G2_Blisters_and_Skin_Failure.md ===== -->
@@ -2575,37 +2547,3 @@ aliases:
 > [!danger] **The dermatological drug reactions an intern must recognise, because they are drug-caused and life-threatening**
 > **STEVENS-JOHNSON SYNDROME and TOXIC EPIDERMAL NECROLYSIS** — mucosal involvement (eyes, mouth, genitals), painful skin, Nikolsky sign, in the first weeks of a new drug (**allopurinol, lamotrigine, carbamazepine, sulfonamides, NSAIDs, nevirapine**). **DRESS** — rash, fever, eosinophilia, lymphadenopathy and organ involvement, characteristically **2–8 weeks** after starting the drug. **Acute generalised exanthematous pustulosis (AGEP)**. **STOP THE CULPRIT DRUG IMMEDIATELY, involve dermatology and, for SJS/TEN, a burns or intensive care unit, and document the reaction prominently so it is never re-prescribed.** See [[09_01_Dermatology_-_Dermatological_Emergencies]].
 
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for acne | SUB | yes | |
-| 0.1.1 | Keratolytics | CLS | yes | Carries the benzoyl-peroxide-prevents-resistance point. |
-| 0.1.2 | Retinoids (Topical RAR Agonists) | CLS | yes | Built jointly with `Retinoids (skin)` — same class, two names; both rows mapped. |
-| 0.1.2 | Retinoids (skin) | CLS | yes | As above. |
-| 0.1.3 | Retinoids (Systemic) | CLS | yes | Built jointly with `Retinoids (oral)` — same class, two names. |
-| 0.1.3 | Retinoids (oral) | CLS | yes | As above. Isotretinoin teratogenicity given the fullest treatment in the file. |
-| 0.1.4 | Other drugs for acne | CLS | yes | |
-| 0.2 | Drugs for eczema | SUB | yes | |
-| 0.2.1 | Corticosteroids (skin) | CLS | yes | Built jointly with `Glucocorticoids (Topical)` — same class, two names. Fingertip unit given as a quantity-of-application rule, not a dose. |
-| 0.2.1 | Glucocorticoids (Topical) | CLS | yes | As above. |
-| 0.2.2 | Topical Calcineurin Inhibitors | CLS | yes | Boxed malignancy warning explained rather than merely repeated. |
-| 0.2.3 | PDE-4 Inhibitors (Topical) | CLS | yes | Australian availability/PBS status flagged as needing checking. |
-| 0.2.4 | Other drugs for eczema | CLS | yes | |
-| 0.3 | Drugs for psoriasis | SUB | yes | |
-| 0.3.1 | Vitamin D Analogs (Topical) | CLS | yes | |
-| 0.3.2 | Tars | CLS | yes | |
-| 0.3.3 | Antimitotics (Topical) | CLS | yes | Dithranol. |
-| 0.3.4 | Immunosuppressants (psoriasis) | CLS | yes | Carries the once-weekly methotrexate warning and the pre-immunosuppression screening callout. |
-| 0.3.5 | Other drugs for psoriasis | CLS | yes | Acitretin's years-long pregnancy exclusion distinguished from isotretinoin's one month. |
-| 0.4 | Drugs for skin infections | SUB | yes | |
-| 0.4.1 | Azoles (skin) | CLS | yes | Built with the other topical anti-infectives, cross-referenced to section 5 rather than duplicated. |
-| 0.5 | Scabicides and pediculicides | SUB | yes | Includes crusted scabies and its Australian public health significance. |
-| 0.6 | Drugs for warts | SUB | yes | |
-| 0.7 | Other dermatological drugs | SUB | yes | Closes with the severe cutaneous adverse drug reactions. |
-
-**Rows in file: 24 (7 SUB + 17 CLS). AMH section 8 build-list rows: 24. Section complete.**
-
-> [!note] **Three pairs of build-list rows are naming duplicates** — topical retinoids (×2 names), systemic retinoids (×2 names), and topical corticosteroids (×2 names). Each concept is written once and every row mapped above.
