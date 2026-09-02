@@ -28,26 +28,55 @@ RE_BARE=re.compile(r'§(\d+\.\d+(?:\.\d+)?)')
 # `AN1 §0.5 Postoperative Complications` or `GI_merged §0.42 ...`, where the file
 # IS named but inside the SAME backtick span, so `File.md` never matched.
 # CLAUDE.md rule 3: every automated scan produces false positives.
-RE_QUAL=re.compile(
-    r'(?:\[\[[^\]|#]+\]\]'                    # [[File]]
-    r'|`[A-Za-z0-9_\-. ]+\.md`'                 # `File.md`
-    r'|\b[A-Za-z0-9][A-Za-z0-9_\-.]*\.md\b'    # File.md, bare inside a span
-    r'|\b[A-Za-z0-9][A-Za-z0-9_\-.]*_merged\b'  # X_merged
-    r'|\b(?:[A-Z]{1,4}[0-9]{1,2}[a-z]?|[0-9]{2}[a-z]?(?:_[0-9]{2}[a-z]?)?|F[0-9]-[0-9]|CV-X|RESP-X)\b'  # source CODE
-    r')[^`§]{0,10}?$')
+_NAMES=None
+def known_names():
+    """Every name that can qualify a pointer: file basenames, SOURCE-divider
+    names, and the Corpus B prefix codes that resolve to exactly one of them.
+
+    Enumerating these EXACTLY replaced a regex that tried to guess their shape.
+    That regex missed `NEW_Investigations_Haematology_Part2 §0.11 ...` and
+    `GP_merged NEW_Investigations_General_and_Preventive §0.14 ...`, both of
+    which name the file plainly, and so reported a qualified pointer as bare.
+    """
+    global _NAMES
+    if _NAMES is not None: return _NAMES
+    n=set()
+    allmd=[f for f in subprocess.run(['git','-C',ROOT,'ls-files','*.md'],
+           capture_output=True,text=True).stdout.split('\n') if f.strip()]
+    for f in allmd:                       # every .md, not just the merged files:
+        n.add(os.path.basename(f)[:-3])   # `Examination.md 1.27` must qualify too
+        for m in re.finditer(r'^<!-- ===== SOURCE: (\S+)\.md ===== -->',
+                             io.open(os.path.join(ROOT,f),encoding='utf-8').read(),re.M):
+            n.add(m.group(1))
+    n={x for x in n if len(x)>2}
+    codes=set()
+    for x in n:
+        head=x.split('_')[0]
+        if len(head)<=5 and any(c.isdigit() for c in head) and len([y for y in n if y.startswith(head+'_')])==1:
+            codes.add(head)
+    _NAMES=sorted(n|codes,key=len,reverse=True)
+    return _NAMES
 
 def qualified(line,pos):
-    """Is the §n at `pos` preceded, close by, by a named file or source code?
+    """Is the section number at `pos` preceded, close by, by a named file?
 
-    Scope the look-back to the enclosing backtick span when there is one, and cap
-    the gap at 10 characters, so a file named in a NEIGHBOURING reference on the
-    same line - "cross-refer [[F0.3]] 0.7 and then 0.9" - does not qualify this one.
+    Scoped to the enclosing backtick span when there is one - this corpus writes
+    such notes as a single span, `AN1 §0.5 Postoperative Complications` - and
+    otherwise to the 25 characters before, so a file named in a NEIGHBOURING
+    reference on the same line does not qualify this one.
+
+    Found 2026-09-02: the first draft recognised only [[File]] 0.x and
+    `File.md` 0.x, and reported 125 bare pointers. 69 of those name the file
+    inside the same span in a form it could not see. CLAUDE.md rule 3.
     """
     seg=line[:pos]
     tick=seg.rfind('`')
-    if tick!=-1 and line.count('`',0,pos)%2==1:   # inside an open backtick span
+    if tick!=-1 and line.count('`',0,pos)%2==1:
         seg=seg[tick+1:]
-    return bool(RE_QUAL.search(seg))
+    else:
+        seg=seg[-25:]
+    if re.search(r'\[\[[^\]|#]+\]\][^`§]{0,10}?$',seg): return True
+    return any(nm in seg for nm in known_names())
 
 def scan(path,text):
     L=text.split('\n')
@@ -93,6 +122,21 @@ def selftest():
     qual=('<!-- ===== SOURCE: A.md ===== -->\n## 0.1 Alpha\nsee [[B]] 0.7 and `B.md` 0.8\n'
           '<!-- ===== SOURCE: B.md ===== -->\n## 0.7 G\n## 0.8 H\n')
     t('qualified pointers are not treated as bare',scan('t',qual),[])
+    print('--- qualified(): the nine cases the 125-to-56 correction turned on')
+    C=[("> `AN1 §0.5 Postoperative Complications` is the Corpus B version.",True,'source code in span'),
+       ("> `GI_merged §0.42 Faecal Incontinence (Adult)`.",True,'X_merged in span'),
+       ("> `NEW_Investigations_Haematology_Part2 §0.11 Coagulation Profile`",True,'long source name'),
+       ("> `GP_merged NEW_Investigations_General_and_Preventive §0.14 Genetic Risk`",True,'two names in span'),
+       ("> `Examination.md §1.27 Leg and Skin Ulcers`",True,'File.md in span'),
+       ("see §0.4 for the full management",False,'genuinely bare'),
+       ("cross-refer [[F0.3]] 0.7 and then §0.9",False,'neighbouring link must not qualify'),
+       ("> `§0.1 ILD` ↔ `§0.7 IPF`",False,'span starts with the number'),
+       ("`CF-PAIR` **`J3 §0.1 Interpreting` and `§1.17 Coagulation Screen`",False,'second span is bare')]
+    wrong=[]
+    for line,want,label in C:
+        i=line.rfind('§') if 'second span' in label else line.find('§')
+        if qualified(line,i)!=want: wrong.append(label)
+    t('all nine qualified() cases',wrong,[])
     return ok
 
 def files():
