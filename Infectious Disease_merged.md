@@ -1,1307 +1,5 @@
 
 
-<!-- ===== SOURCE: 08_01-03_Infectious_Disease_-_Bacterial_Infections.md ===== -->
-
-
-## Anthrax
-
-- **A/P:** Gram +ve *Bacillus anthracis*. Spread from animals — usually infected carcasses (sheep). Farmers, abattoir workers at risk.
-- **Toxins:** protective antigen; oedema factor (↑cAMP); lethal factor (toxic to macrophages).
-- **S/Smx:** painless black eschar, typically painless and non-tender; ± marked oedema; ± GI bleeding.
-- **Ix:** Gram stain and culture of the eschar/lesion (*why:* confirms the diagnosis and organism directly; *what:* Gram-positive rods, boxcar-shaped, on culture); blood cultures if systemic involvement suspected (*why:* screens for bacteraemia/inhalational or GI anthrax, which carry much higher mortality than cutaneous disease; *what:* may be positive in disseminated disease).
-- **Mx:** ciprofloxacin (or doxycycline). Further treatment — expert/infectious diseases advice, particularly for inhalational or GI anthrax given the significantly higher mortality and need for combination therapy/antitoxin in these forms.
-
-## Bacillus cereus
-
-- **A/P:** Gram +ve rod *Bacillus cereus*. From food (classically reheated rice), soil, water. Consider in the immunocompromised.
-- **Food poisoning syndromes:**
-  - Emetic syndrome — due to heat-stable exotoxin cereulide. Onset 0.5–6h after ingestion ± diarrhoea.
-  - Diarrhoeal syndrome — due to exotoxin haemolysin. Onset 8–16h. Crampy abdo pain and diarrhoea.
-  - Symptoms of both resolve within 24h.
-- **Other issues in immunosuppressed patients:** bacteraemia, endocarditis, MSK and CNS infections.
-- **Mx:** food poisoning — watch and wait. Other infections — β-lactamase-resistant penicillin + vancomycin.
-
-## Campylobacter
-
-- **A/P:** Gram -ve rod *Campylobacter jejuni*. Faecal-oral route, incubates 1–6 days.
-- **S/Smx:** prodromal headache and malaise; bloody diarrhoea; abdominal pain mimicking appendicitis.
-- **Mx:** usually self-limiting, watch and wait. Treat if immunocompromised or severe — clarithromycin or ciprofloxacin.
-- **Complications:** associated with Guillain-Barré syndrome, reactive arthritis, septicaemia, endocarditis.
-
-## Botulism
-
-- **A/P:** Gram +ve anaerobic *Clostridium botulinum* (serotypes A–G). Contaminated food (tinned food, honey), IVDU.
-- **MOA:** botulinum toxin is a neurotoxin that irreversibly blocks the release of ACh — affects bulbar muscles and the ANS.
-- **S/Smx:** flaccid paralysis (floppy), diplopia, ataxia, bulbar palsy.
-
-> [!tip] Patient is usually fully conscious with no sensory disturbance — helps distinguish from other causes of flaccid paralysis.
-
-- **Ix:** clinical diagnosis is usually made first, given the urgency of early antitoxin administration — mouse bioassay or PCR of serum/stool/food source can confirm toxin presence, but results shouldn't delay empirical treatment if the clinical picture is convincing.
-- **Mx:**
-  - **Immediate/acute:** botulism antitoxin — genuinely time-critical, given it is only useful if given early, before the toxin has bound to the presynaptic AChR (once bound, the effect cannot be reversed by antitoxin — only new toxin still circulating is neutralised); supportive care, including ventilatory support if respiratory muscles are affected, given this can be a genuine cause of respiratory failure.
-  - **Definitive:** identify and remove the source (e.g. wound debridement if wound botulism, stop the implicated food source).
-  - **Chronic/long-term:** recovery can take weeks to months as new neuromuscular junctions form, given the toxin's effect is only reversed by nerve terminal regeneration, not by clearance of bound toxin — supportive care and rehabilitation continue through this period.
-
-## Cat scratch disease
-
-- **A/P:** Gram -ve *Bartonella henselae*. Cat scratch, especially homeless/stray cats.
-- **S/Smx:** fever, regional lymphadenopathy, headache, malaise, ± abdominal pain.
-- **Mx:** mild infection — analgesia, watch and wait. Infections requiring antibiotics — erythromycin, doxycycline, azithromycin.
-
-## Cholera
-
-- **A/P:** Gram -ve *Vibrio cholerae*. Contaminated water, badly cooked seafood.
-- **S/Smx:** profuse "rice-water" diarrhoea, dehydration, hypoglycaemia.
-- **Mx:** oral rehydration solution, doxycycline or ciprofloxacin.
-
-## Diphtheria
-
-- **A/P:** Gram +ve *Corynebacterium diphtheriae*. Contaminated water. Consider in visitors to Eastern Europe, Russia, Asia.
-- **MOA:** exotoxin inhibits protein synthesis.
-- **S/Smx:**
-  - Sore throat with "diphtheric membrane" (grey pseudomembrane on posterior pharyngeal wall).
-  - Bulky cervical lymphadenopathy — "bull neck".
-  - Neuritis, heart block.
-- **Ix:** culture of throat swab (Loeffler's media) (*why:* the key diagnostic test; *what:* confirms *C. diphtheriae*, though treatment shouldn't wait for culture confirmation if the clinical picture — membrane, bull neck — is convincing, given the toxin-mediated complications develop early).
-- **Mx:**
-  - **Immediate/acute:** diphtheria antitoxin — the priority, given it neutralises circulating (not yet cell-bound) toxin, similarly time-critical to botulism antitoxin above; airway assessment/management given the membrane can cause obstruction.
-  - **Definitive:** IM penicillin (or erythromycin) to eradicate the organism and halt further toxin production; isolation and contact tracing given this is a notifiable, highly transmissible disease. **Antitoxin and antibiotic are both given — they are not alternatives.** The only antitoxin dose in the corpus (10–30k U IM) sits in [[15_04a_Paeds_-_URTI_and_LRTI]] Diphtheria and is unverified; see `PENDING_GUIDELINE_CHECKS.md` **B57**.
-
-## Escherichia coli
-
-- **A/P:** facultative anaerobic, lactose-fermenting Gram -ve rod; normal gut commensal.
-- Antigens: O (lipopolysaccharide); K (capsule) — associated with neonatal meningitis; H (flagellin).
-- **E. coli O157:H7** — found in contaminated ground beef.
-  - Severe, haemorrhagic watery diarrhoea → haemolytic uraemic syndrome.
-  - **Mx:** supportive care (fluids, monitoring for HUS) — **antibiotics and anti-motility agents (e.g. loperamide) should generally be avoided**, since they may increase the risk of HUS by increasing toxin release/absorption from dying bacteria — an important, easily-missed exception to the usual instinct to treat bacterial diarrhoea with antibiotics.
-
-## Klebsiella
-
-- **A/P:** Gram -ve; part of normal gut flora. *Klebsiella pneumoniae* causes aspiration pneumonia, seen in alcoholics and diabetics.
-- **S/Smx:** "red-currant jelly" sputum; often affects the upper lobe.
-- **P (prognosis):**
-
-> [!warning] Commonly causes lung abscess formation and empyema. Mortality 30–50%.
-
-## Enteric fever (typhoid / paratyphoid)
-
-- **A/P:** aerobic Gram -ve *Salmonella typhi* and *paratyphi* (types A, B, C). Faecal-oral route (contaminated food and water) — check travel history.
-- **S/Smx:** systemic (headache, fever, arthralgia), abdominal pain, distention.
-  - Relative bradycardia.
-  - Constipation more common than diarrhoea in typhoid.
-  - Rose spots on trunk in 40%, more common and a later sign in paratyphoid.
-- **Ix:** blood culture (*why:* the most sensitive test, particularly in the first week of illness before the organism becomes harder to isolate; *what:* positive in the majority of cases early in the illness course). Stool and urine culture (*why:* useful adjuncts, particularly later in the illness or to identify chronic carriage; *what:* may become positive as the illness progresses, given bacteraemia seeds these sites secondarily). FBC (*why:* screens for the characteristic haematological pattern; *what:* often shows a relative leucopenia, atypical for a bacterial infection and a useful distinguishing clue).
-- **Mx:**
-  - **Immediate/acute:** empirical antibiotics pending sensitivities — typically a fluoroquinolone or third-generation cephalosporin (e.g. ceftriaxone), given significant and geographically variable multidrug resistance (including fluoroquinolone resistance in parts of South Asia specifically) — local/travel-region resistance patterns should guide the specific choice, ideally with infectious diseases input.
-  - **Definitive:** narrow to the specific antibiotic once sensitivities return; supportive care (fluid/electrolyte management given the systemic illness).
-  - **Chronic/long-term:** chronic carriage (occurring in ~1% of cases, more often in women, related to gallbladder colonisation) may require prolonged antibiotic courses ± cholecystectomy in refractory cases, given the gallbladder acts as a reservoir; public health notification and contact/food-handling considerations given the faecal-oral transmission route.
-- **Complications:** osteomyelitis (especially in sickle cell disease), GI bleeding, meningitis, cholecystitis, chronic carriage (1%, F>M).
-
-## Legionella
-
-- **A/P:** intracellular *Legionella pneumophila* (Legionnaires' disease). Air conditioning systems, contaminated water.
-- **S/Smx:** flu-like symptoms (>95%), dry cough, relative bradycardia, confusion, lymphopaenia, hyponatraemia, deranged LFTs, pleural effusion (30%).
-- **Ix:** urinary antigen (*why:* the standard rapid diagnostic test, detecting *L. pneumophila* serogroup 1 specifically — the most common cause of clinical disease; *what:* positive supports the diagnosis, though a negative result doesn't fully exclude other serogroups). CXR (*why:* confirms and characterises the pneumonic process; *what:* mid/lower zone patchy consolidation, pleural effusion in around a third of cases).
-- **Mx:** erythromycin or clarithromycin (or a respiratory fluoroquinolone, an alternative not always specified in older sources) — see [[02_Respiratory]] for the broader pneumonia severity-assessment framework this fits into, not repeated here.
-
-## Haemophilus influenzae
-
-- **A/P:** Gram -ve cocci, spread by respiratory droplets.
-- Causes: community-acquired pneumonia; most common cause of bronchiectasis exacerbations; acute epiglottitis (type B).
-
-### Acute epiglottitis
-
-- Rapid onset, high fever, stridor, drooling, tripod position (leaning forward).
-- **Dx:** direct visualisation; CXR lateral view — "thumb sign".
-
-> [!danger] Do NOT examine the throat in suspected epiglottitis — risk of precipitating complete airway obstruction. Get immediate senior help ± endotracheal intubation. Give supplemental O2 and IV antibiotics.
-
-> [!note] Fuller entry, including the organism list and the antibiotic choice: [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]] Acute epiglottitis. Not repeated here.
-
-## Clostridioides difficile
-
-- **A/P:** Gram +ve rod, anaerobic, spore-forming, toxin-producing. Associated with hospitalisation / nursing home residence.
-- **R:** antibiotic exposure (especially clindamycin, cephalosporins), PPI use.
-- **S/Smx:** diarrhoea (classically very smelly), abdominal pain. If severe, toxic megacolon may develop.
-- **Ix:** WCC; stool sample for C. difficile toxin (diagnostic); blood culture not very useful — C. diff antigen only shows exposure.
-
-> [!info] Severity classification — criteria adapted from clinical parameters (WCC, creatinine, temperature, colitis signs) that are pharmacologically/physiologically driven and used similarly across international guidelines (IDSA/SHEA, ESCMID, ASID) — not a UK-specific classification despite originating from a UK source; relabelled here as general severity criteria rather than "Public Health England" branding.
-> - **Mild:** normal WCC
-> - **Moderate:** ↑WCC (10–15 ×10⁹); typically 3–5 loose stools/day
-> - **Severe:** ↑WCC (>15 ×10⁹); acute ↑creatinine (>1.5× baseline); temp >38.5°C; evidence of severe colitis (abdominal or radiological signs)
-> - **Life-threatening (fulminant):** hypotension, partial or complete ileus, toxic megacolon, CT evidence of severe disease
-
-> [!info] Verified against the Australasian Society for Infectious Diseases (ASID) 2025 updated CDI guidelines for Australia/NZ, Aug 2026 — the drug sequence below is already broadly aligned with current Australian practice, since ASID's key 2025 update was **replacing oral metronidazole with vancomycin as first-line for initial CDI** (a shift away from the older 2011 ASID position, where metronidazole was preferred first-line and vancomycin reserved for severe/recurrent disease) — the file's existing "PO vancomycin first-line" reflects the *current* rather than the superseded position, so this is a case where checking confirmed the note was already right rather than needing correction. Fidaxomicin's role is described by ASID as "emerging" (increasingly used, particularly for recurrence prevention) rather than unambiguously first-line the way some international (IDSA/SHEA, ESCMID) guidelines now frame it — worth knowing this nuance if comparing against international rather than Australian sources. FMT is specifically noted by ASID to reduce mortality in refractory severe/fulminant CDI, reinforcing its role for ≥2 previous episodes as below. Hypervirulent strains (PCR ribotype 027) have been specifically identified and tracked in Australia (originally prompting the first 2011 ASID guideline), so severe-disease surveillance/awareness is an established part of Australian practice, not just an international concern.
-
-- **Mx:** review current medicines.
-  - First episode: PO vancomycin ×10 days, or PO fidaxomicin; 3rd-line PO vancomycin ± IV metronidazole.
-  - Recurrent episode: within 12 weeks of symptom resolution — PO fidaxomicin; after 12 weeks — PO vancomycin or fidaxomicin.
-  - Life-threatening infection: PO vancomycin AND IV metronidazole; specialist advice re: surgery.
-  - Other options: bezlotoxumab, faecal microbiota transplant (consider if ≥2 previous episodes, or in refractory severe/fulminant disease given the mortality-reduction evidence above).
-  - Prevention: isolation in side room until no more episodes of diarrhoea for ≥48h + PPE + hand wash with soap (alcohol rub not effective against spores).
-
----
-
-## Leprosy
-
-- **A/P:** *Mycobacterium leprae*, person-to-person spread. Degree of cell-mediated immunity determines type of leprosy developed.
-- **Lepromatous leprosy ("multibacillary")** — low cell-mediated immunity: extensive skin involvement (buttocks, face, limb extensors), symmetric nerve involvement.
-- **Tuberculoid leprosy ("paucibacillary")** — high cell-mediated immunity: limited skin disease, hair loss, asymmetric nerve involvement → hyperaesthesia.
-- **Ix:** skin biopsy with acid-fast staining (*why:* the definitive diagnostic test, directly visualising the organism and confirming the histological pattern; *what:* multibacillary disease shows numerous acid-fast bacilli on staining, given the low cell-mediated immune response fails to contain the organism; paucibacillary disease shows few or no visible bacilli, consistent with the more effective immune containment in this form — the bacillary load itself is part of what distinguishes the two forms, not just the clinical pattern). Slit-skin smear is an alternative/adjunct sampling method used in some settings.
-- **Mx:** multidrug therapy — rifampicin, dapsone, clofazimine — the specific combination and duration depends on multibacillary vs paucibacillary classification (multibacillary disease requires all three drugs and a longer course, paucibacillary disease may use a shorter two-drug regimen in some protocols), given single-agent therapy risks resistance development.
-
-## Lyme disease
-
-- **A/P:** spirochaete *Borrelia burgdorferi*, spread by ticks.
-- **Early features:**
-  - Erythema migrans (80%) — target/bullseye rash at tick bite site, 1–4 weeks after bite, usually painless, >5cm, slowly increasing in size.
-  - Systemic features: headache, lethargy, fever, arthralgia.
-- **Late features (>30 days):**
-  - CVS: heart block, peri/myocarditis.
-  - Neurological: CN VII palsy, radicular pain, meningitis.
-- **Ix:** clinically if erythema migrans present; ELISA antibodies to *B. burgdorferi* (repeat at 4–6 and 12 weeks); immunoblot to confirm.
-- **Mx of asymptomatic tick bites:** remove tick with fine-tipped tweezers, grasping close to skin, then wash. Antibiotics not recommended.
-- **Mx of confirmed Lyme disease:** doxycycline or amoxicillin; if disseminated — ceftriaxone.
-
-> [!tip] Jarisch-Herxheimer reaction is sometimes seen after starting treatment — fever, rash, tachycardia.
-
-> [!info] Verified against the Australian Centre for Disease Control's guideline on overseas-acquired Lyme disease and CDC.gov.au patient information, Aug 2026 — the antibiotic choices themselves (doxycycline/amoxicillin for early disease, ceftriaxone for disseminated/neurological disease) are not meaningfully different from international/UK practice, so no drug correction is needed. The genuinely important Australian-specific context is different: **Lyme disease cannot be acquired in Australia** — a national CSIRO survey confirmed Australian ticks do not carry *Borrelia burgdorferi* — so every genuine Australian case is in a returned traveller from an endemic area (UK, northeastern USA, parts of Europe including Germany/Austria/Slovenia/Sweden, Russia, Japan, China). A tick bite with no overseas travel history should prompt discussion with a specialist microbiologist and infectious diseases physician about alternative Australian tick-borne pathogens instead of assuming Lyme disease. Worth also knowing: some Australian patients present with a chronic symptom complex they attribute to tick bites despite no confirmed Borrelia infection or overseas exposure — termed **"debilitating symptom complexes attributed to ticks" (DSCATT)** by Australian health authorities — a genuinely distinct Australian clinical/public health entity from true Lyme disease, worth being aware of as a differential when a patient presents with Lyme-like symptoms and no supporting travel history or serology.
-
-## Pseudomonas aeruginosa
-
-- **A/P:** Gram -ve rod. MOA: endotoxin (fever, shock); exotoxin A (↓protein synthesis).
-- **S/Smx:** chest infections especially in cystic fibrosis; skin — burns, wound infections, "hot tub" folliculitis; otitis externa (especially in diabetics); UTIs.
-
-## Mycoplasma pneumoniae
-
-- Affects younger patients.
-- **S/Smx:** gradual onset, prolonged course. Flu-like symptoms → dry cough. Bilateral consolidation.
-- **Complications:**
-  - Haemolytic anaemia secondary to cold agglutinins (IgM).
-  - Thrombocytopaenia.
-  - Erythema multiforme, erythema nodosum.
-  - Meningoencephalitis, Guillain-Barré and other immune-mediated neurological diseases.
-  - Bullous myringitis — painful vesicles on the tympanic membrane.
-  - Pericarditis/myocarditis.
-  - GI: hepatitis, pancreatitis.
-  - Renal: acute glomerulonephritis.
-- **Ix:** Mycoplasma serology; positive cold agglutination test.
-- **Mx:** doxycycline or macrolide (erythromycin, clarithromycin).
-
-## Q fever
-
-- **A/P:** *Coxiella burnetii*. Cattle exposure — abattoir workers, infected dust.
-- **S/Smx:** prodrome of fever and malaise, transaminitis, atypical pneumonia, culture-negative endocarditis.
-- **Mx:** doxycycline.
-
-## Leptospirosis
-
-- **A/P:** *Leptospira interrogans*. Rat urine. Sewage workers, farmers, vets, abattoir workers, and travellers to the tropics at risk.
-- **Early phase (bacteraemic, ~1 week):** fever, flu-like symptoms, subconjunctival suffusion (redness), haemorrhage.
-- **Second phase (immune reaction) = Weil's disease:** AKI (50%), hepatitis (jaundice, hepatomegaly), aseptic meningitis.
-- **Ix:** serology (antibodies develop by day 7), PCR, culture (less useful).
-- **Mx:** high-dose benzylpenicillin or doxycycline.
-
-## Staphylococci
-
-- **A/P:** Gram +ve cocci, facultative anaerobe.
-- **S. aureus:** catalase +ve, coagulase +ve. Skin infections, abscesses, osteomyelitis, toxic shock syndrome. S. aureus pneumonia classically follows influenza (secondary bacterial pneumonia).
-- **S. epidermidis:** coagulase -ve. Central line infections, infective endocarditis.
-
-### Toxic shock syndrome
-
-- **A/P:** *S. aureus* producing TSST-1 superantigen toxin.
-
-> [!info] CDC diagnostic criteria for toxic shock syndrome
-> - Temperature ≥39°C
-> - SBP <90 mmHg
-> - Diffuse erythematous rash
-> - Desquamation of rash, especially palms and soles
-> - Involvement of ≥3 organ systems, e.g. GI (diarrhoea), mucous membrane erythema, renal failure, hepatitis, thrombocytopaenia, CNS involvement (confusion)
-
-- **Mx:** remove infection focus (e.g. retained tampon); IV fluids; IV antibiotics. Screen all admitted patients (elective and emergency) — swab nose, axilla, groin.
-
-### MRSA
-
-- **Suppression from carrier state:**
-  - Nose: mupirocin 2% in white soft paraffin, TDS for 5 days.
-  - Skin: chlorhexidine gluconate, daily for 5 days — apply all over, especially axillae, groin, perineum.
-- **Mx of infection:** vancomycin, teicoplanin, linezolid.
-
-> [!warning] Avoid due to resistance: rifampicin, macrolides, tetracyclines, aminoglycosides, clindamycin (monotherapy).
-
-## Tetanus
-
-- **A/P:** *Clostridium tetani* producing exotoxin tetanospasmin. Spores in soil → wound / IVDU.
-- **MOA:** tetanospasmin prevents release of GABA.
-- **S/Smx:**
-  - Prodrome: fever, lethargy, headache.
-  - Trismus (lockjaw).
-  - Risus sardonicus — facial spasms.
-  - Opisthotonus — arched back, hyperextended neck.
-  - Spasms (e.g. dysphagia).
-- **Mx:**
-  - **Immediate/acute:** supportive care in a quiet, low-stimulus environment (external stimuli can trigger spasms), including ventilatory support if respiratory muscles/airway are affected — genuinely life-threatening given laryngospasm/respiratory failure risk; muscle relaxants (e.g. benzodiazepines) to control spasms; IM human tetanus immunoglobulin for high-risk wounds/unclear vaccination status, to neutralise circulating (not yet bound) toxin — the same time-critical "neutralise before binding" principle as botulinum and diphtheria antitoxin above.
-  - **Definitive:** metronidazole to eradicate the organism and halt further toxin production; wound debridement of the causative wound where identifiable, removing the anaerobic environment the organism needs to proliferate.
-  - **Chronic/long-term:** recovery can take weeks given the toxin's effect resolves only as new neurotransmission machinery is regenerated (the same underlying principle as botulism recovery above, though the toxins act via different mechanisms); ensure the vaccination schedule below is completed/updated as part of the same presentation, since tetanus does not confer natural immunity — a patient can be reinfected without immunisation.
-
-> [!info] Tetanus vaccination and wound management
-> - Complete course = 5 doses.
-> - Last dose <10 years ago: no vaccine or immunoglobulin required.
-> - Last dose >10 years ago: booster; if high-risk wound, + immunoglobulin.
-> - History incomplete or unknown: booster + immunoglobulin.
-
-## Other Clostridia
-
-- ***Clostridium perfringens*** — produces α-toxin (lecithinase). Causes gas gangrene and haemolysis.
-  - S/Smx: tender, oedematous skin; haemorrhagic blebs and bullae; crepitus on palpation.
-- ***Clostridium botulinum*** — see Botulism above. MOA: prevents acetylcholine release → flaccid paralysis.
-- ***Clostridioides difficile*** — see above (old name *Clostridium difficile*). MOA: exotoxin and cytotoxin, causing pseudomembranous colitis.
-
-*(Listeria as a standalone entry — including maternal listeriosis and food-borne transmission in pregnancy — is not yet built, pending an Obstetrics category upload; it is currently referenced only as a causative organism within relevant entries, e.g. neonatal sepsis and meningitis by age.)*
-
----
-
-## Streptococcus
-
-| Type | Haemolysis | Key associations |
-|---|---|---|
-| *Strep pneumoniae* | α-haemolytic (partial) | Pneumonia, meningitis, otitis media |
-| Group A Strep (*S. pyogenes*) | β-haemolytic (full) | Scarlet fever, pharyngitis, invasive disease |
-| Group B Strep (*S. agalactiae*) | β-haemolytic (full) | Neonatal sepsis (mother-to-child) |
-
-### Scarlet fever
-
-- **A/P:** *Strep pyogenes* (GAS). Spread by respiratory droplets or direct contact with nose/throat discharge. Peak age 2–6 years old (peak at 4).
-- **MOA:** erythrogenic toxin.
-- **S/Smx:** incubates 2–4 days.
-  - Fever for 24–48h.
-  - Malaise, headache, vomiting.
-  - Sore throat.
-  - Strawberry tongue.
-  - Rash — "pinhead" rash especially in flexures; flushed appearance; "sandpaper" texture.
-- **Dx:** clinical + throat swab.
-
-> [!warning] Notifiable disease.
-
-- **Mx:** PO penicillin V ×10 days, or azithromycin/clarithromycin. Children can return to school 24h after starting antibiotics.
-- **Complications:** otitis media; rheumatic fever (~20 days after infection, type II hypersensitivity); acute glomerulonephritis (~10 days after infection, type III hypersensitivity); rare invasive complications (bacteraemia, meningitis, necrotising fasciitis).
-
-### Centor criteria (sore throat)
-
-> [!warning] FLAG 2026-09-01 — ENT owns this, and the Australian caveat must travel with it
-> `ENT_merged 13_05a ## Sore throat` and `F3 §0.1 Sore Throat` own the presentation.
-> ⚠️ **`Cardio_merged §0.22 Rheumatic Fever` routes to the ENT entry and flags that Centor/FeverPAIN
-> thresholds do not apply the same way in Australia.** If these are ever reconciled, that caveat is the
-> thing most easily lost. Flagged, not moved.
-
-> [!info] Centor criteria
-> - Cervical lymphadenopathy
-> - Exudate (tonsillar)
-> - No cough
-> - Temperature (fever)
->
-> Treat if 3–4 criteria met (32–56% of these isolate Strep).
-
-> [!danger] **This rule does not apply unmodified to patients at high risk of acute rheumatic fever — added by the L5 seam audit (2026-08-29), because this entry gave the threshold with no caveat while another file carried the caveat with no threshold.**
->
-> **Centor and FeverPAIN were developed and validated in low-rheumatic-fever-risk populations.** They estimate the probability of *bacterial* pharyngitis to guide general antibiotic benefit — **they were never designed to estimate rheumatic fever risk**, and a patient can score low on Centor while still needing antibiotics to prevent a first or recurrent episode of ARF.
->
-> **For Aboriginal and Torres Strait Islander patients, particularly in rural and remote northern and central Australia** — where ARF and rheumatic heart disease occur at among the highest documented rates in the world — **high ARF risk is an independent indication to treat, not a modifier of the score.** Applying "3–4 criteria" as written to that population means withholding antibiotics from the patients in whom untreated GAS pharyngitis carries the gravest consequence.
->
-> The full caveat, its reasoning and the pointer to current Australian ARF/RHD guidance are in [[13_05a_ENT_-_Sore_Throat_and_Tonsillitis]] Sore throat (pharyngitis, tonsillitis, laryngitis) — not repeated here. See [[01_Cardiovascular]] 0.22 Rheumatic Fever and 0.22a Rheumatic Heart Disease (RHD) for the downstream disease this treatment prevents.
-
-### Group B Strep (*Streptococcus agalactiae*)
-
-- Mother-to-child transmission; 20–40% of mothers carry GBS in bowel flora.
-- **R (transmission risk factors):** premature birth, prolonged rupture of membranes, previous sibling with GBS infection, maternal pyrexia.
-- **Mx:** benzylpenicillin — **the dosing regimen is owned by [[16_06-07_Ante-Perinatal_Infections]]** (benzylpenicillin 3g IV loading, then 1.8g 4-hourly throughout labour, with **cephazolin** for non-anaphylactic penicillin allergy and **clindamycin** where there is a history of anaphylaxis — corrected from "vancomycin" by the Phase 4 close GBS check, 2026-08-29, to match the Safer Care Victoria-verified regimen in that entry), verified there against Safer Care Victoria and **not restated here**, so the two files cannot drift apart. Give intrapartum antibiotic prophylaxis (IAP) **≥4 hours before birth** where possible — that interval is what makes it effective.
-
-> [!info] Verified against RANZCOG's Group B Streptococcus guideline (updated 2019) and the Australian Government Pregnancy Care Guidelines, Aug 2026 — the Australian approach is structured genuinely differently from a single UK NICE-style risk-factor-only pathway: **Australia does not mandate one single national approach.** The Pregnancy Care Guidelines explicitly permit **either** universal antenatal culture-based screening (combined low vaginal ± anorectal swab at 35–37 weeks, or 3–5 weeks before anticipated delivery) **or** a risk-factor-based approach, with the specific choice left to individual organisational/maternity service policy — RANZCOG's position is that "all maternity services should have an established plan for prevention of early-onset GBS," without mandating which of the two approaches that plan uses. This is a genuinely different structure from a single NICE-style risk-factor-only pathway, so don't teach one approach as "the" Australian standard — the correct answer is that it depends on the specific service's policy. The underlying risk factors themselves (previous affected baby, preterm labour, prolonged rupture of membranes, maternal pyrexia) and the general IAP principle hold regardless of which screening strategy a given service uses; IAP should ideally be given ≥4 hours before birth per RANZCOG/CDC-consistent timing. **The bullets below previously opened "Universal screening not routine for all"** — the UK NICE position, asserted flatly and contradicting this box directly above it. Corrected during the G40 round (2026-08-29): the box was right about the structure and silent about the block beneath it, the fifth instance of that pattern.
-> **Which screening strategy applies depends on the maternity service's own policy — there is no single national Australian approach.** Services may use either:
-> - **Universal culture-based screening:** low vaginal ± anorectal swab at **35–37 weeks** (or 3–5 weeks before anticipated delivery); if positive, give IAP in labour.
-> - **Risk-factor-based screening:** no routine swab; IAP given on the risk factors below alone.
->
-> **The risk factors that indicate IAP under either strategy:**
-> - GBS+ve in a previous pregnancy — ~50% carriage risk this pregnancy; offer IAP, or test in late pregnancy and give IAP if positive.
-> - Previous baby with early- or late-onset GBS disease: offer IAP.
-> - Preterm labour: offer IAP regardless of GBS status.
-> - Pyrexia during labour: IAP.
-
----
-
-## Notifiable Diseases (Australia)
-
-> [!warning] **NOTIFIABLE DISEASES IS NOT MANDATORY REPORTING. Two different legal duties, easily conflated (C4 ruling, 2026-09-01).**
-> **This** is a public-health duty about **organisms** — you notify the health department that a case exists. **Mandatory reporting** is a duty about **people at risk and about colleagues** — child protection, elder abuse, notifiable conduct — and lives in `[[A10_Ethics__Capacity__Consent_and_Certification]]` and `[[Safeguarding]] §0.1`. **This section stays here and was deliberately not merged with them.**
-
-> [!warning] FLAG 2026-09-01 — the same topic appears twice in this file, from two different sources
-> `## Notifiable Diseases in Australia — What "Notifiable" Actually Means` (in `08_09_Infectious_Disease_-_Miscellaneous`)
-> covers the same duty. **Both retained; pair marked, not merged.**
-> ⚠️ **Do not conflate with the OTHER notifiable duty** — reporting a colleague. That is
-> `Clinical-Process-EBM-Consent-Capacity ## Mandatory Reporting` + `## Notifiable conduct`,
-> `A10 §0.5 Professional Practice Concern`, and `Safeguarding.md §0.1`. **Two different obligations
-> that share a word.**
-
-> [!info] Verified against the Australian Centre for Disease Control's National Notifiable Diseases Surveillance System (NNDSS) framework, Aug 2026 — Australia's notifiable disease system is structured genuinely differently from the UK's flat list, and the specific disease *list* also differs (some UK-notifiable diseases aren't Australian-notifiable and vice versa). This entry no longer carries the UK list it was originally written against — do not reintroduce one and do not quote a UK list as the Australian standard.
-> The NNDSS coordinates surveillance of **>70 diseases nationally**, organised into **8 categories** rather than one flat list, and reported to the Australian Centre for Disease Control: **bloodborne viral hepatitis** (hepatitis B, C, D), **gastrointestinal diseases** (e.g. campylobacteriosis — the most commonly notified gastrointestinal disease, salmonellosis, shigellosis, listeriosis, typhoid/paratyphoid, botulism, HUS), **other bacterial infections** (e.g. tuberculosis — the most commonly notified in this category, invasive pneumococcal disease, invasive meningococcal disease, legionellosis, leprosy), **quarantinable diseases** (cholera, plague, rabies/lyssaviruses, viral haemorrhagic fevers, yellow fever, smallpox), **sexually transmissible infections** (chlamydia — the most commonly notified STI, gonorrhoea, syphilis, donovanosis, LGV), **vector-borne diseases** (e.g. Ross River virus — the most commonly notified in this category, dengue, malaria, Japanese encephalitis, Murray Valley encephalitis), **vaccine-preventable diseases** (e.g. influenza — currently the most commonly notified VPD, measles, mumps, rubella, pertussis, diphtheria, tetanus, polio; note VPDs like rubella, diphtheria, and tetanus are now rare in Australia given high childhood immunisation rates), and **zoonotic diseases** (e.g. Q fever — the most commonly notified in this category, brucellosis, anthrax, leptospirosis). **HIV and Creutzfeldt-Jakob disease are notifiable but tracked under separate dedicated national surveillance systems**, not the general NNDSS categories above — worth knowing as a specific exception. Individual states/territories also maintain their own notifiable disease lists, which can include additional diseases beyond the national list — so "notifiable" can genuinely vary slightly by jurisdiction within Australia itself, not just between countries. Given the size and periodic revision of the full current list, check the Australian Centre for Disease Control's current National Notifiable Disease List directly for the definitive disease-by-disease list rather than relying on a static reproduction here.
-
-> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Vaccination Schedule (Australia — National Immunisation Program)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Passive Immunisation — Immunoglobulin After an Exposure` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: 08_04_Infectious_Disease_-_Antibiogram.md ===== -->
-
-
-## Antibiogram — empirical antibiotic cover by organism
-
-> [!warning] FLAG 2026-09-01 — a drug-selection reference with zero inbound references
-> `08_04_Infectious_Disease_-_Antibiogram` overlaps `NEW_Drugs_05 §0.2 Antibacterials` (21 subsections).
-> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers can be validated.
-> Listed because it coincides with the content overlap.
-
-> [!info] Reference chart adapted from the *Intensive Care Drug Manual* (Wellington ICU), Appendix 5, as seen on FOAMid. Use as a rough guide to spectrum of cover only — always confirm against local antibiogram/susceptibility data and current guidelines before prescribing.
-
-> [!info] Verified — the spectrum-of-cover content itself (which drug classes have activity against which organism categories) is pharmacological reference material and doesn't meaningfully differ between Australia and New Zealand or other developed-world settings — a drug's spectrum of activity against a given organism is a property of the drug and organism, not the jurisdiction. This chart remains a reasonable general reference for spectrum-of-cover logic on that basis. However, **confirming against local antibiogram/current guidelines before actually prescribing remains fully valid and important** — which specific drug to choose empirically for a given clinical scenario depends heavily on local resistance rates (e.g. gentamicin/fluoroquinolone resistance patterns vary meaningfully by region and hospital), current eTG-specific recommendations, and patient factors — this chart tells you what a drug *can* cover, not what you *should* prescribe first-line for a specific AU clinical scenario. Verify against eTG (Therapeutic Guidelines: Antibiotic) and the local hospital antibiogram before prescribing.
-
-### Gram positive (cocci)
-
-| Antibiotic / class | MRSA | S. epidermidis (coag -ve Staph) | MSSA | Enterococcus | Streptococcus |
-|---|:---:|:---:|:---:|:---:|:---:|
-| Penicillin | | | | ✓ | ✓ |
-| Amoxicillin | | | | ✓ | |
-| Flucloxacillin | | ✓ | ✓ | | |
-| Ticarcillin-clavulanate | | ✓ | ✓ | ✓ | |
-| Piperacillin-tazobactam | | ✓ | ✓ | ✓ | |
-| Clindamycin | ✓ | ✓ | | ✓ | |
-| Rifampicin / Fusidic acid | ✓ | | | | |
-| Vancomycin / Teicoplanin, Linezolid, Daptomycin | ✓ | ✓ | ✓ | ✓ | |
-| Co-trimoxazole | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Trimethoprim | | | | ✓ | |
-| Gentamicin / Tobramycin | ✓ | | ✓ | ✓ | |
-| Moxifloxacin | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Cephazolin | | ✓ | ✓ | | ✓ |
-| Cefuroxime, ceftriaxone | | | | ✓ | ✓ |
-| Cefepime | | ✓ | | | |
-| Meropenem, imipenem | ✓ | ✓ | | ✓ | |
-| Ertapenem | ✓ | | ✓ | | |
-| Tigecycline | ✓ | | | | |
-
-### Anaerobes
-
-| Antibiotic / class | Clostridium / Peptostrep | Bacteroides / Fusobacterium |
-|---|:---:|:---:|
-| Clindamycin | ✓ | |
-| Metronidazole | ✓ | ✓ |
-| Vancomycin, Teicoplanin | ✓ | |
-| Cefepime | ✓ | ✓ |
-| Meropenem, imipenem | ✓ | ✓ |
-| Ertapenem | ✓ | ✓ |
-
-### Gram negative (cocci/coccobacilli and bacilli)
-
-| Antibiotic / class | N. meningitidis | H. influenzae | Moraxella | E. coli | Klebsiella | Proteus mirabilis | Pseudomonas | Enterobacter/other coliforms | Legionella |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Penicillin | ✓ | | | | | | | | |
-| Amoxicillin | | ✓ | | | | | | | |
-| Macrolides | | | | | | | | | ✓ |
-| Rifampicin / Fusidic acid | ✓ | | | | | | | | |
-| Rifampicin | | ✓ | | | | | | | |
-| Cotrimoxazole | | | | | | | | | ✓ |
-| Trimethoprim | | ✓ | | | | | | | ✓ |
-| Gentamicin / Tobramycin | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
-| Ciprofloxacin, Aztreonam | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
-| Cipro | | | | | | | | | ✓ |
-| Moxifloxacin | | | ✓ | ✓ | ✓ | | | | ✓ |
-| Cephazolin | | | | ✓ | ✓ | | | | |
-| Cephaz | | | ✓ | | | | | | |
-| Cefuroxime, ceftriaxone | | | ✓ | ✓ | ✓ | ✓ | | ✓ | |
-| Ceftazidime | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
-| Cefepime | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
-| Meropenem, imipenem | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
-| Ertapenem | | | | ✓ | ✓ | ✓ | | ✓ | ✓ |
-| Tigecycline | | | | ✓ | | | | ✓ | ✓ |
-
-> [!tip] Broad pattern to remember: coverage generally widens as you move down each drug class "ladder" (e.g. penicillin → amoxicillin → beta-lactam/beta-lactamase inhibitor → cephalosporins → carbapenems), with pseudomonal cover a key branch point (piperacillin-tazobactam, ceftazidime, cefepime, meropenem/imipenem, ciprofloxacin cover *Pseudomonas*; most others do not).
-
-
-<!-- ===== SOURCE: 08_05-06_Infectious_Disease_-_Viral_Infections.md ===== -->
-
-
-## Cytomegalovirus (CMV)
-
-- **A/P:** CMV, a subtype of Herpesvirus. ~50% of people have been exposed, but disease-causing mainly in the immunocompromised.
-- **Ix:** CMV PCR (blood, or the relevant affected site — e.g. CSF, aqueous/vitreous fluid) (*why:* the standard test for active/disseminated disease, quantifying viral load and guiding treatment monitoring; *what:* detectable/quantifiable CMV DNA supports active disease, particularly relevant in the immunocompromised where reactivation is the concern). Serology (IgM/IgG) (*why:* useful for establishing prior exposure/immune status (e.g. donor/recipient risk stratification before transplant) rather than diagnosing active disease, given IgG reflects past exposure and PCR is the more direct marker of current viral activity; *what:* IgG-positive indicates past exposure; IgM may indicate recent/primary infection, though interpretation can be complicated in immunocompromised hosts). For congenital CMV specifically — urine or saliva PCR within the first 3 weeks of life (*why:* the timing distinguishes congenital (in-utero) infection from postnatally-acquired infection, which wouldn't carry the same implications; *what:* positive PCR within this window confirms congenital infection).
-- **Congenital CMV:** growth retardation, pinpoint petechial "blueberry muffin" skin lesions, microcephaly, sensorineural deafness, encephalitis (seizures), hepatosplenomegaly.
-- **CMV mononucleosis:** flu-like symptoms; can occur in healthy patients.
-- **CMV retinitis:** common in HIV+ve with CD4 <50. Visual impairment (blurry vision). Fundoscopy: retinal haemorrhages, necrosis ("pizza retina"). **Mx:** IV ganciclovir (or oral valganciclovir for less severe disease/maintenance) — see [[05_Ophthalmology]] for the broader retinal disease context, not repeated here.
-- **CMV encephalopathy:** HIV+ve with low CD4.
-- **CMV pneumonitis; CMV colitis.**
-
-## Dengue fever
-
-- **A/P:** RNA virus (*Flavivirus*). Spread by *Aedes aegypti* mosquito; incubates 7 days.
-- **S/Smx:** fever, retro-orbital headache, myalgia, bone pain, arthralgia ("break-bone fever"), pleuritic pain, facial flushing, maculopapular rash.
-- **Warning signs:** abdominal pain, hepatomegaly, persistent vomiting, clinical fluid accumulation (ascites, pleural effusion).
-
-> [!danger] Dengue haemorrhagic fever = DIC picture: thrombocytopaenia, spontaneous bleeding, positive tourniquet test, petechiae, purpura, ecchymosis, epistaxis. 20–30% develop dengue shock syndrome.
-
-- **Ix:** FBC (↓WCC, ↓platelets), LFT (↑ALT). **Dx:** serology, NAAT, NS1 antigen.
-- **Mx:** supportive (fluid resuscitation, blood transfusion, etc).
-
-## Ebola virus
-
-- **A/P:** Filoviridae family. Human-to-human spread — direct contact (broken skin, mucous membranes), blood, secretions, organs; also fomites. Healthcare workers at risk.
-- **S/Smx:** incubation 2–21 days; patient not infectious until symptoms develop.
-  - First: fever, fatigue, myalgia, headache, sore throat.
-  - Next: vomiting, diarrhoea, rash, renal dysfunction, liver dysfunction, signs of internal and external bleeding.
-- **Mx:** supportive, isolate; ± broad-spectrum antibiotics if severe.
-
-*(see also [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]] Genital herpes)*
-
-## Infectious mononucleosis
-
-- **A/P:** Epstein-Barr virus (HHV4) in 90% of cases. Adolescents and young adults.
-- **S/Smx:**
-  - Classic triad: sore throat, cervical lymphadenopathy, fever.
-  - Systemic symptoms.
-  - Palatal petechiae.
-  - Splenomegaly (50%).
-  - Hepatitis, transient ↑ALT.
-  - Lymphocytosis.
-  - Haemolytic anaemia secondary to cold agglutinins (IgM).
-  - Maculopapular, pruritic rash in 99% of patients who take ampicillin or amoxicillin.
-- **Mx:** symptoms typically resolve in 2–4 weeks. Supportive — rest, simple analgesia. Avoid contact sports for 4 weeks to reduce risk of splenic rupture.
-- **Ix:** heterophile antibody test (Monospot) in the 2nd week to confirm diagnosis.
-
-### EBV-associated conditions
-
-- **Malignancies:** Burkitt's lymphoma, Hodgkin's lymphoma, nasopharyngeal carcinoma, HIV-associated CNS lymphomas.
-- **Non-malignant:** hairy leukoplakia.
-
-## Mumps
-
-- **A/P:** RNA paramyxovirus, spread by droplets.
-- **MOA:** spreads to respiratory tract epithelial cells → parotid glands → other tissues.
-- Incubation 14–21 days. Infective 7 days before to 9 days after parotid swelling starts.
-- **S/Smx:** fever, malaise, myalgia, parotitis (earache, pain on eating) — unilateral then bilateral in 70%.
-
-> [!warning] Notifiable disease.
-
-- **Mx:** MMR prevents in 80% of cases; rest, analgesia.
-- **Complications:**
-  - Orchitis — 25–35% of post-pubertal males, 4–5 days after parotitis starts.
-  - Sensorineural hearing loss — unilateral and transient.
-  - Meningoencephalitis.
-  - Pancreatitis.
-
-## Norovirus
-
-- **A/P:** non-encapsulated RNA virus. Faecal-oral route; becomes aerosolised when a patient vomits or a toilet is flushed; also spread via fomites and food preparation.
-- **S/Smx:** develops within 15–50h. Nausea, vomiting, diarrhoea + headache, low-grade fevers, myalgia.
-- **Dx:** history, stool viral PCR.
-- **Mx:** supportive (ORS); self-limiting, ~72h. Isolate, good hand hygiene — alcohol gel is not as effective (need soap and water).
-
-### DDx of acute gastroenteritis-type illness
-
-| Organism | Key distinguishing features |
-|---|---|
-| Rotavirus | Similar to norovirus, tends to affect children <5 years old |
-| Salmonella | 6–72h incubation; exposure to contaminated food (e.g. milk); bloody diarrhoea + high fever |
-| E. coli | Longer incubation (≤10 days); bloody diarrhoea and severe abdominal pain |
-
-## Measles
-
-- **D:** caused by an RNA paramyxovirus. Spread by aerosol transmission, very infectious. Incubation 10–14 days. Patient infective from prodrome until 4 days after rash starts.
-- **S/Smx:**
-  - Prodromal phase: irritability, conjunctivitis, fever.
-  - Koplik spots — white spots ("grains of salt") on buccal mucosa, typically before the rash.
-  - Rash — starts on the head then spreads to the whole body; discrete maculopapular rash becoming blotchy and confluent. Desquamation may occur after a week; spares palms and soles.
-  - Diarrhoea in 10%.
-- **Ix:** IgM antibodies detected within a few days of rash onset.
-
-> [!warning] Notifiable disease.
-
-- **Mx:** mainly supportive. Consider admission if immunosuppressed or pregnant.
-- **Complications:**
-  - Otitis media — most common complication.
-  - Pneumonia — most common cause of death.
-  - Encephalitis — typically 1–2 weeks after onset of illness.
-  - Subacute sclerosing panencephalitis — very rare, may present 5–10 years after illness. S/Smx: personality change, myoclonus, choreoathetosis, dystonia, dementia, coma, death.
-  - Febrile convulsions.
-  - Keratoconjunctivitis, corneal ulceration.
-  - Diarrhoea.
-  - Increased incidence of appendicitis.
-  - Myocarditis.
-- If an unimmunised child contacts measles, offer MMR — vaccine-induced antibodies develop faster than a natural infection response; give within 72h.
-
-## Herpes simplex virus (HSV)
-
-> [!note] See [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]] Genital herpes and [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Genital herpes for the more detailed genital-specific presentation and Mx, not repeated in full here — this entry covers HSV more generally (including oral/labial presentation).
-
-- **D:** infection with HSV1 or HSV2 causing oral (herpes labialis), genital ulcers, and skin lesions.
-- **R:** HIV, immunosuppression, high-risk sexual behaviour.
-- **A/P:** acquired at mucosal surfaces or breaks in skin. Virus replicates in the epidermis, then infects sensory or autonomic nerve endings, travels by retrograde axonal transport to sensory ganglia, and enters a latent state — lifelong infection with reactivation.
-- **S/Smx:** lesions (cold sores, fever blisters), lymphadenopathy, tingling sensation.
-- **Ix:** clinical diagnosis ± wound swabs.
-- **Mx:** PO antivirals (e.g. aciclovir), preferred over topical. Short course e.g. aciclovir 200mg five times a day for 5 days. Patients with recurrences may need long-term treatment (e.g. aciclovir 400mg BD for 12 months). Contact tracing — inform partners. Daily antivirals + condom use reduce transmission risk. Avoid sexual activity when prodromal symptoms or genital lesions present.
-- **Pregnancy:** inform doctor. Elective C-section if the primary episode occurs **within 6 weeks of the due date** (not ">28 weeks" — corrected to match the figure already established and cross-verified across [[16_06-07_Ante-Perinatal_Infections]], [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]], and [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] — this was the third location in the project carrying the same propagated error, now fixed consistently across all of them). Recurrent episodes — suppressive therapy, low transmission risk.
-
----
-
-## Rabies
-
-- **A/P:** RNA rhabdovirus. Dog, rat, raccoon, skunk bites. Rural areas of Africa and Asia — especially children.
-- **MOA:** bite → retrograde movement of virus up the CNS. Negri bodies — cytoplasmic inclusion bodies in infected neurons.
-- **S/Smx:** prodrome of headache, fever, agitation; hydrophobia (water provokes muscle spasms); hypersalivation.
-- **Mx:** wash the wound. If previously immunised — 2 more doses. If not — human rabies immunoglobulin around the wound + full course of vaccination.
-
-> [!danger] Untreated rabies is fatal.
-
-## Rubella (German measles)
-
-- **A/P:** togavirus, winter and spring predominance. Spread by respiratory droplets. Incubation 14–21 days; infectious 7 days before symptoms to 4 days after rash starts.
-- **S/Smx:**
-  - Prodrome: fever.
-  - Rash: maculopapular, spreads face → whole body; fades after 3–5 days.
-  - Lymphadenopathy: suboccipital and postauricular.
-- **Complications:** arthritis, thrombocytopaenia, encephalitis, myocarditis.
-- **In pregnancy:** risk highest in first 8–10 weeks; damage rare after 16 weeks.
-
-> [!danger] Congenital rubella syndrome — sensorineural deafness, congenital cataracts, congenital heart disease (e.g. patent ductus arteriosus), growth retardation, hepatosplenomegaly, purpuric skin lesions, "salt and pepper" chorioretinitis, microphthalmia, cerebral palsy.
-
-- **Dx:** IgM. Also check parvovirus B19 (difficult to differentiate).
-
-> [!warning] Notifiable disease. Offer MMR in the post-natal period — do NOT offer before or during pregnancy (live vaccine).
-
-## Yellow fever
-
-- **A/P:** RNA virus (yellow fever virus). Spread by *Aedes aegypti* mosquitoes.
-- **S/Smx:** incubation 2–14 days; mild flu-like illness ~1 week.
-  - Classic biphasic course: phase 1 — sudden onset high fever, rigors, nausea, vomiting ± bradycardia; phase 2 — jaundice, haematemesis, oliguria.
-  - Councilman bodies (inclusion bodies) seen in hepatocytes.
-- **Mx:** supportive ± ICU.
-- **Vaccination:** protection from 10 days post-vaccination.
-
-## Human immunodeficiency virus (HIV)
-
-- **A/P:** retrovirus replicating in human lymphocytes and macrophages; HIV1 and HIV2. Spread via blood, sexual fluids, breast milk.
-- **Seroconversion** — symptomatic in 60–80%: sore throat, lymphadenopathy, malaise, myalgia, arthralgia, diarrhoea, maculopapular rash, mouth ulcers; rarely meningoencephalitis.
-
-- **Ix:** 4th-generation combination HIV antigen/antibody assay (*why:* the standard initial screening test, detecting both p24 antigen (positive earlier, from ~2–4 weeks post-exposure) and host antibodies (take longer to develop) — combining both substantially narrows the "window period" compared to antibody-only testing; *what:* a reactive screening test requires confirmatory testing before a diagnosis is given, never acted on alone). Confirmatory testing (e.g. Western blot or a second differentiation assay) (*why:* screening tests can have false positives, so a reactive screen is never itself diagnostic; *what:* confirms true infection and can distinguish HIV-1 from HIV-2). HIV RNA viral load (*why:* used both to confirm very early infection (detectable before antibody/antigen conversion in acute/seroconversion illness) and, once diagnosed, as the key marker of treatment response — the goal of ART is an undetectable viral load; *what:* quantifies circulating virus, trended over time on treatment). CD4 count (*why:* the key marker of immune status/degree of immunosuppression, directly determining opportunistic infection risk per the CD4-stratified list below and need for prophylaxis (e.g. PCP prophylaxis below CD4 200); *what:* trended over time, both at diagnosis and on treatment, though modern ART started promptly usually prevents progression to low CD4 counts). Baseline genotypic resistance testing (*why:* transmitted drug resistance (including INSTI resistance, an emerging Australian-specific concern associated with long-acting cabotegravir PrEP use) can affect first-line regimen choice, so baseline resistance testing before starting ART is standard practice; *what:* identifies resistance-associated mutations that would make a particular drug class ineffective).
-
-> [!info] Verified against the current ASHM (Australasian Society for HIV Medicine) Australian ARV guidelines, Aug 2026 — the drug-class combination below needed a genuine correction, not just localisation.
-> **Mx:** antiretroviral therapy (ART) — **current Australian first-line is 2 NRTIs + 1 integrase strand transfer inhibitor (INSTI)**, e.g. dolutegravir or bictegravir-based regimens — INSTIs have superseded protease inhibitors (PIs) and NNRTIs as the standard first-line third agent, given their superior tolerability, fewer drug interactions, and high barrier to resistance. PI- and NNRTI-based regimens remain in use (e.g. for specific resistance patterns, drug interactions, or in patients already established on them) but are no longer the standard *first-line* choice the way older teaching (2 NRTI + 1 PI or NNRTI) suggests. Start as soon as diagnosis is confirmed, regardless of CD4 count — treating promptly, not waiting for CD4 decline, is current standard practice (a genuine evolution from older "treat when CD4 falls below X" approaches).
-
-### HIV drug classes
-
-| Class | Examples | Mechanism / notes |
-|---|---|---|
-| Entry inhibitors | Maraviroc (binds CCR5), Enfuvirtide (binds gp41) | Prevent HIV-1 entering immune cells |
-| **Nucleoside/nucleotide reverse transcriptase inhibitors (NRTI)** | Zidovudine, lamivudine, tenofovir | **Faulty nucleoside analogues — reverse transcriptase incorporates them into the growing viral DNA chain, and because they lack the 3'-OH group the next nucleotide needs, the chain simply stops there.** The backbone of Australian first-line therapy (2 NRTIs + 1 INSTI). General SE: peripheral neuropathy |
-| **Non-nucleoside reverse transcriptase inhibitors (NNRTI)** | Nevirapine, efavirenz | **Bind reverse transcriptase at a site away from where it does its work, deforming the enzyme so it functions poorly — not incorporated into the DNA chain, which is the whole difference from the NRTIs above.** SE: P450 induction, rashes |
-| Protease inhibitors (PI) | Indinavir, nelfinavir, ritonavir | SE: DM, hyperlipidaemia, buffalo hump, central obesity. Indinavir: renal stones, asymptomatic ↑bilirubin. Ritonavir: potent P450 inhibitor |
-| **Integrase inhibitors (INSTI)** | **Dolutegravir, bictegravir, raltegravir, elvitegravir** | Block integration of viral genome into host DNA — **current first-line class in Australia**, per the Mx note above |
-
-> [!note] PrEP and PEP — high-yield, commonly examined and not in the original source. **PrEP (pre-exposure prophylaxis):** oral tenofovir/emtricitabine, taken by HIV-negative people at ongoing risk to prevent acquisition; long-acting injectable cabotegravir PrEP is TGA-approved in Australia but, as of the last confirmed update, is not PBS-subsidised, limiting accessibility. **PEP (post-exposure prophylaxis):** a combination ART course started as soon as possible (ideally within hours, and generally not beyond 72h) after a significant exposure (e.g. needlestick, condomless sex with a partner of unknown/positive status), continued for 28 days — genuinely time-critical, and a common OSCE/exam scenario (a patient presenting after a high-risk exposure asking about PEP).
-
-### Opportunistic infections by CD4 count
-
-> [!info] CD4-stratified opportunistic infections/complications
-
-**CD4 100–200**
-- Cryptosporidiosis — most common cause of diarrhoea in HIV. Ix: stool acid-fast stain may show red cysts. Mx: supportive.
-- Cerebral toxoplasmosis.
-- Progressive multifocal leukoencephalopathy — JC virus, widespread demyelination.
-- Pneumocystis jirovecii pneumonia (PJP) — CD4 <200 should receive PCP prophylaxis. S/Smx: dyspnoea, dry cough, fever, few chest signs; pneumothorax common; extrapulmonary spread (hepatosplenomegaly, lymphadenopathy, choroid lesions). Ix: CXR, exercise-induced desaturation, bronchoalveolar lavage. Mx: co-trimoxazole, IV pentamidine ± steroids if hypoxic.
-- HIV dementia (AIDS dementia complex) — caused by HIV itself.
-
-**CD4 200–500**
-- Oral thrush (Candida).
-- Shingles (Herpes zoster).
-- Hairy leukoplakia (EBV).
-- Kaposi sarcoma (HHV-8) — purple papules or plaques on skin/mucosa → ulcers. Mx: radiotherapy, resection.
-
-**CD4 50–100**
-- Aspergillosis (*A. fumigatus*).
-- Oesophageal candidiasis — dysphagia, odynophagia. Mx: fluconazole, itraconazole.
-- Cryptococcal meningitis.
-- Primary CNS lymphoma (due to EBV).
-
-**CD4 <50**
-- CMV retinitis — 30–40% of patients in this category.
-- *Mycobacterium avium-intracellulare* — fever, sweats, abdominal pain, diarrhoea. Mx: rifabutin, ethambutol, clarithromycin.
-
-*Notes: Toxoplasmosis (protozoan) — see [[04_Neurology]] Toxoplasmosis (under CNS Infections Associated with Immunosuppression) for the CNS/immunocompromised presentation already built there; maternal/congenital toxoplasmosis specifically is not yet built pending an Obstetrics category upload. Hepatitis viruses — see [[03_Gastrointestinal]] Hepatitis. VZV/chickenpox, shingles — see [[09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa]] Varicella zoster virus (VZV) / chickenpox and Herpes zoster / shingles.*
-
-## Mpox (formerly monkeypox)
-
-> [!note] Gap-filled from CSV ("M-Pox," Medium yield) — genuinely absent from the source notes despite the significant global outbreak activity and ongoing relevance since 2022; genuinely current, Australian-verified content.
-
-- **A/P:** monkeypox virus (MPXV), an *Orthopoxvirus* (the same genus as smallpox/variola, explaining the smallpox-vaccine cross-protection principle below) — a zoonotic double-stranded DNA virus. Spread via close skin-to-skin contact, contaminated surfaces/fomites, and respiratory droplets with prolonged close contact. The current global outbreak (ongoing since 2022, clade IIb) has predominantly affected gay, bisexual, and other men who have sex with men, though clinicians should maintain a broad index of suspicion in any sexually active person with compatible symptoms — this is a mode-of-transmission pattern, not an exclusive risk category.
-- **Incubation:** 5–21 days (median ~7 days). **Infectious period:** up to 4 days *before* symptom onset (similar to the "infectious before visible signs" pattern seen with parvovirus B19 elsewhere in this file) until all lesions have fully resolved (scabs fallen off, new skin underneath) — a genuinely long infectious window with public health implications for isolation duration.
-- **S/Smx:** biphasic — **prodromal phase** (fever, headache, myalgia, lymphadenopathy — the presence of lymphadenopathy is a relatively distinguishing feature from smallpox/chickenpox, worth knowing as a discriminating point), followed by the **rash phase** (lasting 2–4 weeks): lesions progress uniformly through macule → papule → vesicle → pustule → umbilication → scab → desquamation, classically with a centrifugal distribution starting on the face/head and spreading to trunk/extremities — though the current outbreak strain frequently presents with anogenital/perianal lesions first or predominantly, reflecting the close-contact transmission pattern, and proctitis is a recognised presentation.
-- **Ix:** mpox-specific PCR/NAAT of lesion swabs (*why:* the definitive diagnostic test; *what:* confirms MPXV — note some laboratories use a general orthopox PCR rather than an mpox-specific assay, which still confirms the diagnosis but is worth being aware of as a lab-dependent variation). Test for other STIs concurrently, given shared risk factors and transmission routes with the current outbreak pattern.
-- **Mx:**
-  - **Immediate/acute:** supportive care (analgesia, hydration) — the mainstay for the large majority of cases, which are self-limiting.
-  - **Definitive (severe disease or high risk of severe disease only):** **tecovirimat** — available in Australia through the National Medical Stockpile, but **current Australian STI guidelines specifically note that two subsequent randomised controlled trials did not demonstrate clinical benefit**, despite initial in vitro/emergency-use rationale — a genuinely important, current evidence update worth knowing (don't assume tecovirimat is a proven effective treatment). It may still be considered on specialist advice for patients at significantly increased risk of severe disease. Urgent specialist discussion is indicated for: severe disease (sepsis, encephalitis, eye involvement), complications (secondary cellulitis, dehydration, pneumonia), or patients at elevated risk of severe disease (immunocompromise including CD4 <200, children, pregnancy, breastfeeding).
-  - **Chronic/long-term:** isolation until lesions have fully resolved (per the infectious-period detail above); **vaccination** (JYNNEOS/Imvanex, a third-generation attenuated, replication-deficient vaccine — 2 doses ≥28 days apart) is available in Australia for pre-exposure prophylaxis in at-risk individuals and can also be used post-exposure in eligible contacts; contact tracing per local public health unit protocols, with sexual contacts advised to monitor for symptoms for 21 days (matching the upper end of the incubation period above).
-- **Notifiable:** an urgent/rapid notifiable condition in Australian states/territories, reflecting the outbreak-control importance of prompt case identification and contact tracing.
-
-## Parvovirus B19 (erythema infectiosum / slapped cheek syndrome)
-
-- Spread by droplets.
-- **S/Smx:** mild fever; rose-red rash on cheeks (peaks after a week, heat triggers rash — once rash appears the child is not infectious, no need to exclude from school); arthralgia in adults.
-
-> [!tip] Patient is infectious 3–5 days *before* the rash appears — the infectious window precedes the visible sign.
-
-- **In pregnancy:** before 20 weeks, check maternal IgM and IgG. Can cross the placenta → ↓erythropoiesis → hydrops fetalis (heart failure secondary to severe anaemia; fluid accumulation in fetal serous cavities — ascites, pleural, pericardial effusion). Mx: intrauterine blood transfusion.
-- **Other presentations:** can be asymptomatic. In immunosuppressed patients — pancytopaenia. In chronic haemolytic anaemia (e.g. sickle cell disease) — aplastic crises, due to viral suppression of erythropoiesis (~1 week).
-
-## Hand, foot and mouth disease (HFMD)
-
-- **A/P:** intestinal viruses Coxsackie A16 and Enterovirus 71.
-- **S/Smx:** mild systemic upset (sore throat, fever), oral ulcers, vesicles on palms and soles.
-- **Mx:** symptomatic — analgesia and hydration. Children do not need exclusion from school unless unwell. Reassure — not linked to disease in cattle.
-
-*(See [[15_03a_Paeds_-_Childhood_Viral_Exanthems]] Hand, foot and mouth disease (HFMD) for the paediatric-specific presentation notes, not repeated here.)*
-
-## Viral exanthemata ("numbered" rashes)
-
-| Number | Disease |
-|---|---|
-| First | Measles |
-| Second | Scarlet fever |
-| Third | Rubella |
-| Fourth | Duke's disease (of uncertain/questionable existence; sometimes used generically for other viral rashes) |
-| Fifth | Parvovirus B19 |
-| Sixth | Roseola infantum (see [[15_03a_Paeds_-_Childhood_Viral_Exanthems]] Roseola infantum (exanthem subitum)) |
-
-*(See [[15_03b_Paeds_-_HIV_in_Children]] for HIV in children)*
-
----
-
-## Influenza
-
-> [!note] Gap-filled from CSV ("Common viral infection (influenza, herpes, EBV, CMV)," Medium yield) — genuinely absent as a standalone entry despite herpes, EBV (Infectious mononucleosis above), and CMV all being covered elsewhere in this project; a striking omission given how commonly encountered this condition is. Verified against Australian eTG-referencing sources (WNHS, NT Health, Immunisation Coalition guidance for healthcare professionals), Aug 2026.
-
-- **D:** an acute respiratory illness caused by influenza virus — types A and B cause the seasonal epidemics relevant to most clinical practice (type A further subtyped, and capable of pandemic spread via antigenic shift, e.g. the 2009 H1N1 pandemic); type C typically causes mild illness; type D primarily affects cattle.
-- **S/Smx:** ranges from mild upper respiratory symptoms to a more systemic illness — fever (classically abrupt onset, often higher-peaking in children than adults), headache, myalgia, malaise, dry cough, sore throat — genuinely distinguishable from a common cold by the systemic symptom burden (myalgia and fever prominence) rather than by the respiratory symptoms alone. Complications include lower respiratory tract infection/pneumonia (viral or secondary bacterial), exacerbation of underlying cardiopulmonary disease, febrile seizures and myositis (more prominent in children), and rarely encephalopathy.
-- **Ix:** primarily a clinical diagnosis in typical seasonal presentations; PCR/rapid antigen testing where confirmation changes management (hospitalised patients, diagnostic uncertainty, infection control/outbreak settings) — treatment decisions in a patient with a high-risk profile should not be delayed while awaiting test results, given the time-critical nature of antiviral treatment below.
-- **Mx:**
-  - **Immediate/acute:** supportive care (rest, fluids, antipyretics/analgesics) is sufficient for the great majority of otherwise-healthy patients with uncomplicated influenza.
-  - **Antiviral treatment (neuraminidase inhibitors — oseltamivir first-line, or zanamivir/baloxavir):** **most effective when started within 48 hours of symptom onset** — genuinely time-critical, given treatment started beyond this window in mild/moderate illness is unlikely to be effective; recommended for patients requiring hospitalisation or at risk of complications (young children, adults ≥65, pregnant women, immunocompromised patients, and those with significant cardiopulmonary, renal, hepatic, or metabolic comorbidity, or severe/progressive disease) regardless of exact timing from symptom onset in hospitalised/high-risk patients, given the benefit still outweighs the reduced efficacy in this group. Typical course 5 days (oseltamivir/zanamivir); baloxavir is a single dose. Longer courses may be considered for hospitalised patients remaining severely unwell after 5 days.
-  - **Post-exposure prophylaxis:** oseltamivir, zanamivir, or baloxavir can be used for high-risk contacts or outbreak settings (e.g. aged care facilities), sometimes termed "treatment as prevention" given it protects other high-risk individuals in the same setting, not just the treated patient.
-  - **Chronic/long-term — prevention:** **annual vaccination remains the primary prevention strategy** and should be emphasised regardless of antiviral treatment availability, given vaccination reduces both the likelihood and severity of infection even though it doesn't guarantee full protection.
-- **P:** generally self-limiting in healthy individuals; morbidity and mortality concentrate in the high-risk groups above, which is precisely why the antiviral-treatment threshold is lower for these patients than for the general population.
-
-## COVID-19 (SARS-CoV-2)
-
-> [!note] See [[02_Respiratory]] Viral pneumonia/pneumonitis (including COVID-19) for the full entry — including current Australian antiviral treatment guidance (nirmatrelvir/ritonavir, molnupiravir, remdesivir eligibility) — not repeated here. Placed alongside Pneumonia in that file given COVID-19's primary clinical relevance in this project is as a cause of viral pneumonia, but flagged here too given this is the Infectious Disease category a search for "COVID" would most naturally start from.
-
-
-
-<!-- ===== SOURCE: 08_07_Infectious_Disease_-_Protozoan_Infections.md ===== -->
-
-
-## 0.1 Amoebiasis
-
-- **A/P:** protozoan *Entamoeba histolytica*. Faecal-oral route. Affects children; 10% of the world has chronic infection.
-- **Amoebic dysentery:** profuse, bloody diarrhoea ± long incubation period. Stool microscopy of a "hot stool" (within 15 minutes) may show trophozoites.
-  - **Mx:** PO metronidazole + diloxanide furoate ("luminal agent").
-- **Amoebic liver abscess:** usually a single mass in the right lobe, can be multiple. Contents described as "anchovy sauce".
-  - **S/Smx:** fever, RUQ pain, malaise, hepatomegaly.
-  - **Ix:** ultrasound; serology positive in >95%.
-  - **Mx:** PO metronidazole + diloxanide furoate.
-
-## 0.2 Cryptosporidiosis
-
-- **A/P:** *Cryptosporidium hominis*, *Cryptosporidium parvum*. Faecal-oral route. Young children and the immunocompromised at risk — most common cause of protozoal diarrhoea.
-- **Ix:** Ziehl-Neelsen stain of stool — characteristic red cysts.
-- **Mx:** supportive. If HIV+ve, start antiretrovirals. For the immunocompromised — nitazoxanide or rifaximin.
-
-## 0.3 Cutaneous larva migrans
-
-- **A/P:** dog hookworm *Ancylostoma braziliense*.
-- **S/Smx:** intensely itchy and creeping rash due to subcutaneous larval migration.
-- **Mx:** albendazole, ivermectin.
-
-## 0.4 Giardiasis
-
-- **A/P:** *Giardia lamblia*. Faecal-oral route. Travellers, especially those who swim or drink contaminated water, and MSM.
-- **S/Smx:** often asymptomatic. Non-bloody diarrhoea + steatorrhoea, bloating, abdominal pain. Lethargy, flatulence, weight loss. Malabsorption and lactose intolerance.
-- **Ix:** stool microscopy (65% sensitivity); stool antigen detection assay — more sensitive and faster.
-- **Mx:** PO metronidazole.
-
-## 0.5 Leishmaniasis
-
-- **A/P:** intracellular *Leishmania*, spread by sandfly bites.
-- **Cutaneous leishmaniasis** (*L. tropica* or *L. mexicana*): crusted lesion at bite site, underlying ulcer. Dx: punch biopsy.
-- **Mucocutaneous leishmaniasis** (*L. braziliensis*): skin lesion spreads to involve mucosae, nose, pharynx, etc.
-- **Visceral leishmaniasis** (*L. donovani*): Mediterranean, Asia, S. America, Africa. S/Smx: fever, sweats, rigors, massive hepatosplenomegaly → pancytopaenia, poor appetite, weight loss, grey skin ("kala-azar" = black sickness). Dx: bone marrow or splenic aspirate.
-  - **Mx:** watch and wait, topical or systemic antifungals (e.g. amphotericin).
-
-## 0.6 Malaria
-
-- **A/P:** *Plasmodium* species — *falciparum* (severe), *vivax*, *ovale*, *malariae*. Spread by female *Anopheles* mosquito.
-- **Protective factors:** sickle cell trait, G6PD deficiency, HLA-B53.
-- **Ix:** thick and thin blood films (*why:* the gold-standard diagnostic test — thick films are more sensitive for detecting parasitaemia, thin films allow species identification and quantification of parasitaemia percentage, both directly informing the severity assessment and Mx below; *what:* identifies the *Plasmodium* species and parasitaemia level — repeat films over 2–3 samples/days are needed to confidently exclude malaria, since a single negative film doesn't rule it out given fluctuating parasitaemia). Rapid diagnostic test (RDT, antigen-based) (*why:* faster than microscopy and useful where same-day microscopy expertise isn't available, though generally used alongside rather than instead of blood films given some RDTs have reduced sensitivity for non-falciparum species or low parasitaemia; *what:* detects *Plasmodium* antigens, positive supports the diagnosis). FBC, LFTs, U&Es, glucose (*why:* screens for the specific complications of severe falciparum malaria described below — anaemia, hypoglycaemia, renal impairment — directly informing severity classification and urgency of Mx; *what:* the specific derangements noted in the S/Smx below).
-
-### 0.6.1 Plasmodium falciparum
-
-- Most common and most severe species.
-- **S/Smx:** blood film shows schizonts; parasitaemia >2%; hypoglycaemia; T >39°C; acidosis; anaemia.
-
-> [!danger] Complications of severe falciparum malaria: cerebral malaria (seizures, coma); AKI ("blackwater fever" secondary to intravascular haemolysis); ARDS; DIC; hypoglycaemia.
-
-- **Mx:**
-  - **Immediate/acute:** artemisinin-based combination therapies (ACT), e.g. artemether + lumefantrine, first-line for uncomplicated disease; **if parasite count >2% or any severity feature present (per the danger box above), treat as severe malaria — IV artesunate** is the preferred agent for severe/complicated falciparum malaria given superior mortality outcomes over IV quinine in trial evidence; if parasitaemia >10%, consider exchange transfusion, particularly with any organ dysfunction. Monitor closely for hypoglycaemia (both disease- and quinine-related) and for parasitaemia clearance.
-  - **Definitive:** complete the full ACT course; shock in a patient with malaria should specifically prompt consideration of concurrent bacterial septicaemia (a recognised co-presentation, particularly in children) rather than assuming malaria alone explains haemodynamic compromise — treat with resuscitation and broad-spectrum antibiotics accordingly if suspected, alongside antimalarial therapy.
-  - **Chronic/long-term:** no chronic/relapsing form for *falciparum* specifically (unlike *vivax*/*ovale* below), so no primaquine or long-term eradication therapy is needed once the acute episode is treated.
-
-### 0.6.2 Non-falciparum malaria
-
-- Most common species is *vivax*.
-- **S/Smx:** fever, headache, splenomegaly. Vivax/ovale — cyclical fever every 48h. Malariae — fever every 72h + nephrotic syndrome.
-
-> [!info] Gap-filled — the cyclical fever timing was stated as a bare pattern without explaining what actually produces it. **Mechanism:** *Plasmodium* infects red blood cells, where the parasite matures and multiplies over a defined, species-specific period before the infected cell **ruptures synchronously**, releasing a wave of merozoites (and pyrogenic cellular debris) into the bloodstream — this synchronised rupture event is what triggers the fever spike, not a continuous process. Between rupture events, released merozoites invade fresh red cells and mature quietly (asymptomatically) until the next synchronised rupture — producing the classic paroxysmal, cyclical pattern rather than a continuous fever. **The specific interval is species-dependent because each *Plasmodium* species has its own characteristic red-cell replication cycle length**: *vivax* and *ovale* complete this cycle in 48 hours ("tertian" fever, so named because fever recurs on day 1 and day 3 by old inclusive counting), while *malariae*'s cycle takes 72 hours ("quartan" fever). *Falciparum* often lacks a clearly defined cyclical pattern clinically, given its tendency toward asynchronous, overlapping infection cycles in practice — which is part of why falciparum's fever pattern is generally described as more continuous/irregular rather than following the same clean cyclical timing as the other species.
-
-- **Mx:**
-  - **Immediate/acute:** ACT for the acute episode, as for falciparum above.
-  - **Definitive/chronic:** **add primaquine** (except in pregnant women, where it's contraindicated) specifically for *vivax* and *ovale* — these species form dormant liver-stage hypnozoites capable of causing relapse months to years after the initial infection, and primaquine is the only agent that eradicates this liver-stage reservoir; *falciparum* and *malariae* don't form hypnozoites and so don't need this additional step. **Check G6PD status before giving primaquine**, given the risk of severe haemolysis in G6PD deficiency — a genuinely important safety step given G6PD deficiency itself is more prevalent in populations from malaria-endemic regions (the same protective-factor overlap noted above).
-
-## 0.7 Schistosomiasis
-
-- **A/P:** parasitic flatworm, spread via contaminated water.
-- **Acute infection:** swimmers' itch; Katayama fever (+ urticaria, arthralgia, myalgia, cough, diarrhoea, eosinophilia).
-- ***S. haematobium***: worms deposit egg clusters in the bladder → inflammation. Swimmers' itch, obstructive uropathy, kidney damage → frequency, haematuria, bladder calcification.
-
-> [!warning] Risk factor for squamous cell bladder cancer.
-
-- **Mx:** PO praziquantel.
-- ***S. mansoni* and *S. japonicum***: worms mature in the liver → portal system → distal colon. Hepatosplenomegaly secondary to portal vein occlusion; liver cirrhosis, variceal disease, cor pulmonale.
-
-## 0.8 Trypanosomiasis
-
-- **A/P:** *Trypanosoma gambiense*, *Trypanosoma rhodesiense*, spread by tsetse fly bites.
-- ***T. rhodesiense***: trypanosoma chancre (painless squamous nodule at infection site); intermittent fever; posterior cervical lymph node enlargement; later CNS involvement — somnolence, headache, mood changes, meningoencephalitis.
-  - **Mx of early disease:** IV pentamidine or suramin.
-  - **Mx of late disease/CNS involvement:** IV melarsoprol.
-- ***T. cruzi* = Chagas disease (American trypanosomiasis)**: early phase 95% asymptomatic ± chagoma (erythematous nodule at infection site) ± periorbital oedema. Chronic disease — myocarditis; GI (mega-oesophagus, megacolon → dysphagia, constipation).
-  - **Mx (acute phase):** e.g. benznidazole, nifurtimox.
-  - **Mx (chronic phase):** management of complications.
-
-## 0.9 Other mosquito-borne illnesses
-
-### 0.9.1 Chikungunya virus
-
-- **A/P:** alphavirus, incubates ~15 days, spread by *Aedes* mosquitoes.
-- **S/Smx:** sudden onset high fever (>38.5°C) lasting 2–7 days; polyarthralgia and polyarthritis lasting longer than the fever (1–3 weeks); rash and other skin problems; photophobia, retro-ocular pain, conjunctivitis; lymphadenopathy; 1 in 5 develop neuropathic-type pain.
-- **Mx:** supportive; arthritis — NSAIDs or DMARDs.
-
-### 0.9.2 West Nile virus
-
-- **A/P:** flavivirus, incubates 2–6 days. Spread by mosquito or contact with infected blood.
-- **S/Smx:** sudden onset fever, malaise; arthralgia, myalgia, rash; lymphadenopathy; visual disturbances, conjunctival injection, chorioretinitis, inflammatory vitritis.
-
-> [!danger] Neuroinvasive disease can occur: encephalitis, meningitis, poliomyelitis.
-
-- **Ix:** serology. **Mx:** supportive.
-
-### 0.9.3 Filariasis
-
-- **A/P:** nematode parasites transmitted via mosquitoes (including *Aedes*).
-- Chronic disease — adult worms proliferate in the lymphatics → occlusion of lymph nodes disrupts lymphatic drainage. Increases risk of secondary infections (e.g. strep, fungal). Repeated infections → more lymphatic damage → can lead to elephantiasis.
-- **S/Smx:** fever, malaise; abscess and granuloma formation; lymphoedema; tropical pulmonary eosinophilia (restrictive lung disease — immune reaction to filarial infection).
-- **Ix:** blood smear, PCR, scrotal ultrasound.
-- **Mx:** combination therapy — diethylcarbamazine + ivermectin + albendazole. Surgical debulking of skin and lymphovenous anastomosis may be needed. Long-term patients may require compressive bandaging; encourage skin hygiene.
-
-> [!note] Marked "low yield" in the source material.
-
-
-<!-- ===== SOURCE: 08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs.md ===== -->
-
-
-> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
->
-> `The STI Check — Sexual History, What to Test, and When`
->
-> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
-> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
-
-## Bacterial vaginosis
-
-- **A/P:** anaerobic *Gardnerella vaginalis* overgrowth. Affects women.
-- **MOA:** overgrowth of *G. vaginalis* leads to a fall in aerobic lactobacilli producing lactic acid → ↑pH → problems.
-
-> [!info] Amsel's criteria for diagnosis of BV (≥3 of 4 required)
-> - Thin, white homogenous discharge
-> - Clue cells on microscopy — stippled vaginal epithelial cells
-> - Vaginal pH >4.5
-> - Positive whiff test (addition of KOH results in fishy odour)
-
-- **Mx:** PO metronidazole for 5–7 days (70–80% initial cure, relapse >50% within 3 months); alternatively topical metronidazole or topical clindamycin.
-- **Complications in pregnancy:** preterm labour, low birth weight, chorioamnionitis, late miscarriage. Still treat with low-dose PO metronidazole.
-
-## Trichomonas vaginalis
-
-- **S/Smx:** vaginal discharge — offensive, yellow/green, frothy. Vulvovaginitis with "strawberry cervix". pH >4.5. In males — often asymptomatic or urethritis.
-- **Ix:** microscopy of wet mount shows motile trophozoites.
-- **Mx:** **PO metronidazole 400mg BD for 7 days, or a one-off 2g dose** — the multi-day option's dose was previously missing here and stated only inside a verification box in [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Trichomonas vaginalis (WA Health, 2026). Treat sexual partners.
-
-## Chancroid
-
-- **A/P:** Gram -ve *Haemophilus ducreyi*.
-- **S/Smx:** painful genital ulcer — sharply defined, ragged, undermined border. Unilateral, painful inguinal lymph node enlargement.
-- **Mx:** check for HIV; azithromycin 1g single dose. Treat sexual partners within the last 10 days (based on exposure, no testing required).
-
-## Chlamydia
-
-- **A/P:** obligate intracellular *Chlamydia trachomatis*.
-
-> [!info] Verified against Australian STI notification data (Queensland Health, Victorian Department of Health) and STI Guidelines Australia, Aug 2026 — chlamydia is confirmed as the most commonly notified STI in Australia too (not a UK-specific fact), so the general point holds, but the specific "~1 in 10 young women" UK figure shouldn't be quoted as an Australian statistic. Australian-specific data: chlamydia is the **most frequently notified condition of any kind** (not just STIs) in Australia; highest notification rates are in the 15–29yo age group (RACGP recommends annual testing for all sexually active people in this age band, both sexes) and are substantially higher among Aboriginal and Torres Strait Islander people specifically (pooled prevalence estimates around 22% in Indigenous women <25yo attending sexual health clinics, several-fold higher than the general population).
-
-- **S/Smx:** asymptomatic in 70% of females and 50% of males; incubation 7–21 days.
-  - Females: cervicitis (discharge, bleeding), dysuria.
-  - Males: urethral discharge, dysuria.
-- **Ix:** NAAT using urine (first void) in males, vulvovaginal swab in females — carried out 2 weeks post-exposure.
-> [!danger] **Correction — this file carried a regimen that had already been corrected in another file and never propagated here.** [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Chlamydia trachomatis was corrected in an earlier round against the WA Health *Quick guide to STI and BBV management*, and the same wrong regimen ("azithromycin 3 days") was left standing here — in the file that is the corpus's primary STI reference. Re-verified against **STI Guidelines Australia** (the Australian STI management guidelines for primary care), Aug 2026.
-> - **First-line: doxycycline 100mg PO BD for 7 days.** Doxycycline is now explicitly preferred over azithromycin in Australia, on evidence of superior efficacy — particularly at **non-genital sites** (anorectal and pharyngeal), which matters because those sites are frequently untested and doxycycline covers them.
-> - **Alternative: azithromycin 1g PO as a single dose** — *not* a 3-day course. Reserve it for isolated genital infection where other sites have tested negative, or where adherence to a 7-day course is a genuine concern (which is the one real advantage single-dose therapy has).
-> - **In pregnancy: azithromycin 1g single dose**, since doxycycline is contraindicated.
-
-- **Mx:** **doxycycline 100mg PO BD for 7 days** (first-line); **azithromycin 1g PO single dose** as the alternative; in pregnancy — **azithromycin 1g single dose**.
-
-> [!info] Verified against STI Guidelines Australia (sti.guidelines.org.au), Aug 2026 — the Australian partner notification (contact tracing) window for chlamydia is genuinely different from the UK figures this entry originally carried. **(Step 12 fix, N7 pass: this box previously said "the UK figures below" three times, but the UK figures had already been removed when the entry was localised — the box was pointing at content that no longer existed. The Australian figures are now stated on their own terms.)**
-> - **Advise no sex with partners from the last 6 months** until those partners have been tested and treated if necessary. This is a **materially longer lookback window than the UK equivalent**, and — the more important structural difference — it applies **regardless of the patient's symptom status**, rather than setting a different window for symptomatic men than for everyone else.
-> - Test of cure by NAAT (only needed in specific situations, e.g. pregnancy, or where non-first-line treatment was used) should be performed no earlier than 4 weeks post-treatment, to avoid a false positive from residual chlamydia DNA.
-> - Retesting at 3 months is recommended to detect reinfection, distinct from test-of-cure.
-> - Patient-delivered partner therapy (allowing the patient to pass treatment directly to partners without those partners attending a clinic first) is available in some Australian jurisdictions (Victoria, NSW, NT) — a specific Australian contact-tracing mechanism with no direct UK equivalent.
-
-- **Complications:** epididymitis; pelvic inflammatory disease (PID) → perihepatitis (Fitz-Hugh-Curtis syndrome); endometritis; infertility; ↑risk of ectopic pregnancy; reactive arthritis.
-
-## Genital herpes
-
-> [!note] See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Genital herpes for a complementary, slightly more detailed version of this entry (specific analgesic options, immunocompromised dosing), not repeated here.
-
-- **A/P:** HSV1, HSV2.
-- **S/Smx:** painful genital ulceration, associated with dysuria and pruritus. Primary infection often more severe than recurrent episodes — systemic features (headache, fever, malaise) more common in the primary episode. ± tender inguinal lymphadenopathy, urinary retention.
-- **Ix:** NAAT; ± HSV serology.
-- **Mx:** saline bathing, analgesia, topical anaesthetic agents; PO aciclovir (some patients benefit from a longer course).
-- **In pregnancy:** elective C-section if the primary episode occurs **within 6 weeks of the due date** (not 28 weeks — corrected to match the figure already established and verified in [[16_06-07_Ante-Perinatal_Infections]], given the two entries previously stated genuinely different thresholds). In women with recurrent episodes, treat with suppressive therapy — low transmission risk.
-
-## Genital warts
-
-> [!note] See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Genital warts for the equivalent entry, not repeated in full here — content is consistent between both.
-
-- **A/P:** HPV 6 & 11 most commonly cause warts; HPV 16, 18, 33 are associated with cancer.
-- **S/Smx:** small (2–5mm) fleshy protuberances, slightly pigmented; may bleed or itch.
-- **Mx:** multiple, non-keratinised warts — topical podophyllum. Solitary, keratinised — cryotherapy or topical imiquimod. Can be resistant and recurrent; most clear without intervention within ~1–2 years.
-
-> [!info] **The prevention half, which this entry did not carry (N7 pass).** Genital warts is the one STI in this file with a **funded vaccine that has already changed its epidemiology in Australia**. **Gardasil 9 is given as a single dose at 12–13 years (Year 7) under the National Immunisation Program, with catch-up available to age 25** — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) for the schedule, not repeated here. It covers HPV 6 and 11 (the wart types above) as well as the oncogenic types, which is why the same vaccine sits behind both this entry and cervical screening (see [[17_09_Cervical__Vaginal_and_Endometrial_Cancer]] Cervical cancer screening). **Ask about HPV vaccination status as part of the STI check** — it is one of the few modifiable answers in a sexual history, and catch-up eligibility is routinely missed in the 18–25 age group.
-
-## Gonorrhoea
-
-- **A/P:** Gram -ve diplococcus *Neisseria gonorrhoeae*.
-- **S/Smx:** genitourinary, rectal, pharyngeal sites; incubates 2–5 days.
-  - Male: urethral discharge, dysuria.
-  - Female: cervicitis, vaginal discharge.
-  - Rectal and pharyngeal infection: usually asymptomatic.
-- **Ix:** swabs (NAAT and culture).
-> [!danger] **Correction — the same un-propagated correction as for chlamydia above, and this one was a double dose.** [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Gonorrhoea already carried this correction; this file did not. Re-verified against **STI Guidelines Australia** and the ASHM/CDNA gonococcal treatment recommendations, Aug 2026.
-> - **The structural point first: Australian first-line is dual therapy given together, not a choice between single agents.** The previous "IM ceftriaxone 1g, **or** PO cefixime + azithromycin" got both the dose and the structure wrong.
-> - **Ceftriaxone 500mg IM** (suspended in 2mL of 1% lignocaine — the injection is painful without it) **plus azithromycin 1g PO**, as one treatment, for uncomplicated anogenital infection. The former "1g" was **double** the Australian dose.
-> - **Pharyngeal infection: the azithromycin dose increases to 2g**, ceftriaxone unchanged at 500mg. *Mechanism:* drug penetration to pharyngeal mucosa is poorer, which makes the pharynx the most likely site of treatment failure and the most likely place resistance emerges.
-> - **Cefixime is not Australian first-line** and cefixime-resistant *N. gonorrhoeae* is documented in Australia. The reason dual therapy exists at all is to raise a pharmacological barrier to resistance, so substituting a single agent defeats its purpose.
-
-- **Mx:** **ceftriaxone 500mg IM (in 1% lignocaine) plus azithromycin 1g PO, given together** — uncomplicated genital or anorectal infection. **Pharyngeal:** same ceftriaxone dose, azithromycin increased to **2g**.
-- **Complications:** urethral strictures, epididymitis, salpingitis → infertility. Disseminated gonococcal infection — tenosynovitis, migratory polyarthritis, dermatitis (maculopapular/vesicular).
-
-*(see also [[08_05-06_Infectious_Disease_-_Viral_Infections]] Herpes simplex virus (HSV))*
-
-## Lymphogranuloma venereum (LGV)
-
-- **A/P:** *Chlamydia trachomatis* serovariants L1, L2, L3. Risk groups: MSM, HIV+ve, tropical exposure.
-- **Staging:**
-  - Stage 1: small painless pustule which later becomes an ulcer.
-  - Stage 2: painful inguinal lymphadenopathy → fistulating buboes.
-  - Stage 3: proctocolitis.
-- **Mx:** doxycycline.
-
-## Syphilis
-
-- **A/P:** *Treponema pallidum*.
-
-> [!info] Staging of syphilis
-> **Primary stage:** chancre (painless), local non-tender lymphadenopathy.
->
-> **Secondary stage (~6–10 weeks):** systemic — fevers, lymphadenopathy; rash on trunk, palms and soles; buccal "snail track" ulcers (30%); condylomata lata (painless, warty genital lesions).
->
-> **Tertiary stage:** gummas (granulomatous lesions of skin and bone); ascending aortic aneurysms; general paralysis of the insane; tabes dorsalis (slow degeneration of nerves, ↓proprioception); Argyll-Robertson pupil — small, irregular pupils that do not constrict to light but do to accommodation (see [[05_Ophthalmology]] Argyll Robertson Pupil, not repeated here).
-
-- **Dx:** based on clinical features, serology, and microscopic exam.
-
-| Test type | Examples | Notes |
-|---|---|---|
-| Non-treponemal | RPR, VDRL | Quantifies antibody level; becomes negative after treatment. False positives in pregnancy, SLE/antiphospholipid syndrome, TB, leprosy, HIV, malaria |
-| Treponemal-specific | TP-EIA, TPHA | Qualitative only — reported as "reactive" or "non-reactive" |
-
-> [!tip] Negative non-treponemal test + positive treponemal test = successfully treated syphilis.
-
-- **Mx:** IM benzylpenicillin, or doxycycline. Monitor RPR/VDRL after treatment — a 4-fold ↓ in titres (e.g. 1:16 → 1:4) indicates adequate response.
-
-> [!tip] Jarisch-Herxheimer reaction — fever, rash, tachycardia in response to antibiotics; usually no treatment required.
-
-> [!danger] Congenital syphilis — a genuine, severe, actively current Australian public health emergency, not a historical footnote. Syphilis has been declared a **Communicable Disease Incident of National Significance in Australia since August 2025**, with infectious syphilis notifications more than doubling over the past decade and spreading beyond the originally-affected remote communities into urban and regional areas nationally. **Aboriginal and Torres Strait Islander people are disproportionately affected, with rates around 7 times higher than the non-Indigenous population** as of 2024, though the outbreak is genuinely no longer confined to any single group or region.
-> - **The human cost is severe and ongoing**: 91 cases of congenital syphilis were recorded in Australia between 2020 and 2025, with **33 infant deaths** — transmission from an infected pregnant person to their baby is one of the most serious, and most preventable, outcomes of this outbreak, given effective antenatal screening and treatment can prevent it entirely.
-> - **A genuinely important systemic failure point identified in the 2026 national response review**: a substantial proportion of affected infants' mothers had not received antenatal care at all, and some healthcare facilities were found to be working from outdated antenatal syphilis testing guidelines, or staff were unaware testing recommendations had changed — meaning gaps in care access and guideline currency, not just individual case management, are recognised contributors.
-> - **Current Australian antenatal screening recommendation**: syphilis testing at the **first antenatal contact**, with **repeat testing in the third trimester and again at birth** for women at high risk of infection or reinfection — genuinely more intensive than a single booking-visit screen, reflecting the active outbreak context; check current state/territory guidance given screening protocols continue to be revised as part of the national response.
-> - **Practical relevance:** given how much of this outbreak's harm is preventable through timely testing and treatment, a syphilis test should be considered part of a comprehensive STI screen more broadly in any sexually active patient from an at-risk group or region, not reserved only for symptomatic presentations — see [[16_06-07_Ante-Perinatal_Infections]] for the pregnancy-specific infection screening context this connects to, not repeated here.
-
-### Congenital syphilis
-
-- Blunted upper incisor teeth (Hutchinson's teeth), "mulberry" molars.
-- Rhagades (linear scars at the angle of the mouth).
-- Keratitis, saber shins, saddle nose, deafness.
-
-## Donovanosis (granuloma inguinale)
-
-- **A/P:** *Klebsiella granulomatis*. Not common in the developed world.
-- **S/Smx:** small, painless, enlarging nodules on the area of contact (e.g. penis, labia, perineum); nodules burst open → fleshy, red ulcers with rolled edges.
-
-> [!danger] These ulcers bleed readily.
-
-- **Mx:** antibiotics (azithromycin, doxycycline, etc).
-
-## Mycoplasma genitalium
-
-> [!note] Gap-filled from CSV ("Mycoplasma genitalium," Low yield) — genuinely absent despite being an increasingly recognised cause of non-gonococcal urethritis/cervicitis and a topic of growing clinical relevance given emerging antibiotic resistance.
-
-- **A/P:** *Mycoplasma genitalium* — a small, cell-wall-deficient bacterium (explaining its intrinsic resistance to beta-lactam antibiotics, which target cell wall synthesis — a genuinely important point given it rules out the usual first-line STI antibiotic classes).
-- **S/Smx:** often asymptomatic in both sexes; when symptomatic, causes non-gonococcal urethritis in men (discharge, dysuria) and cervicitis in women (discharge, post-coital bleeding, pelvic pain) — clinically difficult to distinguish from chlamydia without specific testing.
-- **Ix:** NAAT specifically for *M. genitalium* (*why:* not covered by standard chlamydia/gonorrhoea NAAT panels, so requires a specific test request — worth knowing given a patient with persistent urethritis/cervicitis symptoms after chlamydia/gonorrhoea have been excluded or treated should prompt specific *M. genitalium* testing; *what:* confirms the diagnosis). **Macrolide resistance testing is routinely performed alongside diagnostic testing where available**, given how common resistance has become (see Mx below).
-- **Mx:** **doxycycline is used first, followed by a macrolide (typically azithromycin) if macrolide-sensitive on resistance testing** — this sequential/resistance-guided approach reflects genuinely high and rising macrolide resistance rates in *M. genitalium*, meaning empirical azithromycin monotherapy (as might be used for chlamydia) is increasingly unreliable and can select for further resistance if used inappropriately. For confirmed macrolide-resistant infection or treatment failure, moxifloxacin is used, again ideally guided by resistance testing given emerging fluoroquinolone resistance too. **Partner notification and treatment** as for other STIs — see Chlamydia above for the general AU-specific partner notification window, not repeated here.
-
-## Pubic lice (Pediculosis pubis)
-
-> [!note] Gap-filled from CSV ("Pubic lice," Low yield) — genuinely absent from the source notes.
-
-- **A/P:** infestation with *Pthirus pubis* (the pubic or "crab" louse), transmitted via close bodily/sexual contact, and occasionally via shared bedding/clothing.
-- **S/Smx:** pruritus in the pubic/perianal region (and occasionally other coarse body hair — eyelashes, eyebrows, axillary hair), worse at night; visible lice or nits (eggs) attached to hair shafts on close inspection; secondary excoriation from scratching.
-- **Ix:** clinical diagnosis, confirmed by direct visualisation of lice or nits on examination (sometimes with a magnifying glass/dermatoscope) — no laboratory test is typically needed.
-- **Mx:** topical permethrin or malathion applied to affected areas per product instructions, with a repeat application after 7 days to catch any newly-hatched lice from eggs that survived the first application; **treat all sexual partners from the preceding month**, given the sexually-transmitted nature of spread; wash bedding/clothing in hot water; **offer testing for other STIs**, given pubic lice acquisition implies a relevant sexual exposure and co-infection risk. Eyelash involvement specifically requires a different approach (e.g. petroleum jelly application) rather than the standard topical insecticides used elsewhere, given the need to avoid the treatment itself causing eye irritation/toxicity.
-
-## STI ulcers — summary DDx
-
-| | Painful | Painless |
-|---|---|---|
-| **Singular** | Chancroid | Chancre (syphilis) |
-| **Multiple** | Genital herpes (HSV) | LGV (small painless pustule → ulcer); genital herpes (HSV); *Klebsiella granulomatis* (donovanosis) |
-
-**Other causes of genital ulcers:** Behçet's disease; carcinoma.
-
-*(For candidiasis/thrush, see 17.07)*
-
-
-<!-- ===== SOURCE: 08_09_Infectious_Disease_-_Miscellaneous.md ===== -->
-
-
-## Animal & human bites
-
-- **A/P:**
-  - Animal bites — *Pasteurella multocida*.
-  - Human bites — aerobic and anaerobic bacteria: Strep, Staph, *Eikenella*, *Fusobacterium*, *Prevotella*. Consider risk of HIV, hepatitis C.
-- **Mx:** clean wound, do not suture closed unless thorough washout performed. Antibiotics: co-amoxiclav, or doxycycline + metronidazole.
-
-> [!info] Verified against Australian bite-wound literature (RCH Clinical Practice Guidelines; ED and tropical Australia bite-management studies), Aug 2026 — amoxicillin-clavulanate is confirmed as the current Australian first-line choice, consistent with the "co-amoxiclav" already in the note (this is the UK name for the same amoxicillin+clavulanic acid combination — not actually a different drug). **Oral dosing: amoxicillin-clavulanate 875/125mg 12-hourly** is specifically cited as most appropriate for high-risk wounds. For penicillin allergy, Australian sources specify **ciprofloxacin 500mg 12-hourly plus clindamycin 450mg 8-hourly** — a different combination from the doxycycline+metronidazole option in the note (which isn't wrong pharmacologically, but isn't the specific Australian-cited alternative either) — worth knowing both exist as reasonable options but the ciprofloxacin+clindamycin combination is the one specifically documented in Australian clinical practice guidelines. For established moderate-severe infection requiring admission, IV piperacillin-tazobactam is the cited regimen. Minor genuine correction beyond dose specifics: routine antibiotics are **not required prophylactically for all bites** in adults — thorough washout/debridement remains the most important intervention, with prophylactic antibiotics reserved for higher-risk wounds (immunocompromise, diabetes, crush injury, wounds needing surgical repair, hand/joint involvement) rather than given to every bite universally.
-
-## Cellulitis
-
-- **D:** infection of the dermis and deeper subcutaneous tissues. Erysipelas is a related, more superficial variant, involving only the upper dermis and superficial lymphatics — the purulent/non-purulent Mx distinction below broadly maps onto this deep/superficial and staphylococcal/streptococcal distinction respectively.
-- **A:** *Strep pyogenes*, *S. aureus*.
-- **R:** diabetes, venous insufficiency, eczema, oedema & lymphoedema, obesity, previous episodes of cellulitis, toe-web abnormalities (a disrupted skin barrier providing bacterial entry).
-- **S/Smx:** erythema, pain, swelling, commonly on the shins; possibly associated with systemic upset.
-- **Ix:** clinical diagnosis ± bloods and blood cultures if sepsis is suspected.
-
-> [!info] Eron classification of cellulitis
-> - **Class I:** no signs of systemic toxicity, no uncontrolled comorbidities.
-> - **Class II:** systemically unwell, or has a comorbidity that may complicate/delay resolution (e.g. peripheral arterial disease).
-> - **Class III:** severe systemic upset, or an unstable comorbidity that may interfere with response to treatment, or life-threatening infection due to vascular compromise.
-> - **Class IV:** sepsis, or a severe life-threatening infection (e.g. necrotising fasciitis).
-
-> [!info] Verified against Queensland Health clinical pathways and the 2025 eTG antibiotic guideline updates, Aug 2026 — flucloxacillin is confirmed as correct for Australian first-line cellulitis Mx, but current Australian practice draws a distinction not in the note below: **the specific first-line drug depends on whether the cellulitis is purulent (associated with an abscess, boil, or wound) or non-purulent (erysipelas-type, no associated wound)** — reflecting the different likely causative organism (*S. aureus* for the former, *Strep pyogenes* for the latter).
-> - **Purulent (abscess/wound/furuncle-associated):** dicloxacillin or flucloxacillin 500mg PO 6-hourly for 5 days.
-> - **Non-purulent (erysipelas, no associated wound):** phenoxymethylpenicillin 500mg PO 6-hourly for 5 days — genuinely narrower-spectrum than flucloxacillin, appropriate given *Strep pyogenes* remains penicillin-susceptible.
-> - For penicillin hypersensitivity or known MRSA colonisation, alternative agents are used per local guidance (not detailed here).
-> Amoxicillin+clavulanate is specifically reserved in current (2025) eTG guidance for more serious infections where *Enterobacterales* or *H. influenzae* involvement is suspected, rather than as a routine cellulitis first-line choice — worth knowing this is a more targeted indication than the broader "co-amoxiclav" framing below suggests. Cefazolin is a recognised IV alternative to flucloxacillin for confirmed MSSA. The general Eron-classification-based escalation logic (community oral therapy for Class I/II, IV/admission for Class III/IV) remains consistent with current Australian practice, and 2025 eTG updates specifically simplified/reduced the threshold for routine IV therapy in mild disease while increasing it for shock/ICU-level illness — a genuine recent shift toward oral-first management where appropriate.
-
-- **Mx of Eron Class I & II:** PO flucloxacillin (purulent) or phenoxymethylpenicillin (non-purulent) per the AU-specific distinction above, or clarithromycin/erythromycin (in pregnancy) or doxycycline for penicillin allergy. Class II may need IV treatment, but try to treat in the community.
-- **Mx of Eron Class III/IV:** admit if rapidly deteriorating, <1 year old, immunocompromised, significant lymphoedema, or facial/periorbital involvement. Treatment: IV flucloxacillin or cefazolin first-line, escalating to IV co-amoxiclav, clindamycin, cefuroxime, or ceftriaxone for more serious/broader-spectrum indications per the notes above.
-
-> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `Mastitis and Breast Abscess` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## Lemierre's syndrome
-
-- **D:** infectious thrombophlebitis of the internal jugular vein, secondary to bacterial sore throat caused by *Fusobacterium necrophorum* → peritonsillar abscess.
-- **S/Smx:** neck pain, stiffness, tenderness; systemic fever and rigors; ± septic pulmonary emboli.
-- **Ix:** contrast CT or Doppler ultrasound of the neck (*why:* confirms the internal jugular vein thrombosis directly, the key diagnostic finding distinguishing this from simple pharyngitis/peritonsillar abscess; *what:* thrombus within the internal jugular vein, ± the primary oropharyngeal source). Blood cultures (*why:* *F. necrophorum* bacteraemia is characteristic and confirms the diagnosis microbiologically, particularly relevant given the septic emboli risk below; *what:* often positive for *F. necrophorum*, an anaerobic Gram-negative organism). CT chest (*why:* screens for septic pulmonary emboli, a well-recognised and potentially serious complication given haematogenous spread from the infected thrombus; *what:* may show multiple peripheral nodules/cavitating lesions if emboli present).
-- **Mx:**
-  - **Immediate/acute:** IV antibiotics with anaerobic cover (e.g. a beta-lactam/beta-lactamase inhibitor or metronidazole-containing regimen) — genuinely urgent given the risk of ongoing septic embolisation if untreated.
-  - **Definitive:** prolonged antibiotic course (often several weeks, given the difficulty of sterilising an infected thrombus); anticoagulation is used selectively (not routinely) depending on thrombus extent/progression and specialist input, rather than as an automatic component of Mx.
-  - **Chronic/long-term:** source control (e.g. drainage of any peritonsillar abscess) if not already resolved; monitor for and manage any embolic complications.
-
-## Necrotising fasciitis
-
-> [!info] Classification
-> - **Type 1:** mixed anaerobes and aerobes — often occurs post-operatively in diabetics.
-> - **Type 2:** *Strep pyogenes* or MRSA (monomicrobial).
-> - **Type 3:** monomicrobial, fresh-water infection (rare) — e.g. *Vibrio* species from marine/fresh-water wound exposure.
-> - **Type 4:** monomicrobial fungal (mucormycosis) — rare, typically in severely immunocompromised patients.
-
-- **R:** recent trauma, diabetes (especially if treated with SGLT-2 inhibitors), IVDU, immunosuppression, VZV infection, surgery, non-traumatic skin lesions.
-- **A/P:** infection is introduced into and spreads along the fascial plane (does not typically spread into the muscle layer itself, distinguishing it from myonecrosis/gas gangrene).
-- **S/Smx:** most commonly affects the perineum (= Fournier's gangrene) or limbs. Acute onset of pain, swelling, erythema, resembling rapidly worsening cellulitis — pain out of keeping with physical exam findings, or numbness, is a key red flag — do not be reassured by unremarkable-looking skin. Systemic signs from bacterial toxins (fever, tachycardia, hypotension) may be absent or late. May develop over a few days (acute) or a few hours (fulminant).
-
-> [!danger] Skin necrosis and crepitus are LATE signs. Fever and tachycardia may be absent or late — do not rely on their absence to exclude necrotising fasciitis.
-
-- **Ix:** this is a **clinical diagnosis, and imaging/labs should never delay surgical referral** if clinical suspicion is high, given how rapidly this progresses and how directly outcome depends on time to debridement (the same "don't wait for confirmation" principle seen elsewhere in this file, e.g. spinal epidural abscess below and elsewhere in this project, e.g. testicular torsion). The **"finger test"** can be performed at the bedside under local anaesthetic if there's genuine diagnostic uncertainty — make a 2cm incision down to deep fascia: a positive test (minimal resistance to finger dissection, absence of bleeding, presence of necrotic tissue, murky or greyish "dishwasher" fluid) supports the diagnosis, though this should not delay urgent surgical referral if suspicion is already high on clinical grounds alone. Bloods — FBC, CRP, U&Es, CK, lactate, LFTs, clotting screen, ABG (*why:* screens for the systemic inflammatory/septic response and specifically for CK elevation, which reflects muscle/fascial involvement and can support the diagnosis; *what:* often shows a markedly elevated CRP and CK disproportionate to the visible skin findings — the LRINEC score (Laboratory Risk Indicator for Necrotising Fasciitis, incorporating CRP, WCC, Hb, sodium, creatinine, glucose) can support risk stratification but should never be used to rule out the diagnosis in a clinically convincing presentation, given its imperfect sensitivity). Blood and tissue cultures, Gram stain (*why:* identifies the causative organism(s), guiding antibiotic rationalisation once source control is achieved; *what:* may be polymicrobial (Type 1) or monomicrobial (Types 2–4) per the classification above). CT or MRI (*why:* can show fascial thickening/gas/fluid tracking along fascial planes supporting the diagnosis when it's not yet clinically obvious, but again should not delay surgical exploration if clinical suspicion is high — surgical exploration is itself both diagnostic and therapeutic; *what:* fascial oedema, gas in soft tissue, or fluid collections along fascial planes).
-
-- **Mx:**
-  - **Immediate/acute:** urgent surgical debridement — the single most important intervention and the priority over any investigation, given source control is what actually halts the rapidly progressive tissue destruction; broad-spectrum IV antibiotics covering the likely organisms per the Type 1–4 classification above (typically a broad-spectrum beta-lactam/beta-lactamase inhibitor or carbapenem plus clindamycin — clindamycin specifically added for its toxin-suppressing effect on toxin-producing organisms like *Strep pyogenes*, distinct from its antibacterial action); aggressive fluid resuscitation given the septic physiology; ICU-level supportive care given the shock/organ dysfunction risk.
-  - **Definitive:** repeated surgical debridement is often needed (a single operation frequently isn't sufficient, given how the disease can continue to progress along fascial planes even after initial debridement) — patients typically return to theatre for reassessment/further debridement within 24–48h; de-escalate antibiotics once culture/sensitivity results are available.
-  - **Chronic/long-term:** reconstructive surgery (skin grafting, flap reconstruction) once the infection is controlled, given the often extensive tissue loss from debridement; rehabilitation given the functional impact of extensive soft tissue/muscle loss.
-
-- **P:** average mortality 20%, worse (50–70%) if end organ damage or shock present — reinforcing why time to surgical debridement is the single most important prognostic factor.
-
-## Post-splenectomy sepsis
-
-> [!info] Verified against the Australian Immunisation Handbook and eTG-cited Australian guidance (Medicine Today), Aug 2026 — found genuine dose/frequency corrections and some updated vaccine coverage, not just a "check locally" caveat.
-> **Vaccinations:** pneumococcal (conjugate, then polysaccharide 6–8 weeks later), Hib, **meningococcal ACWY (quadrivalent — not just type C** as in the original note) and **meningococcal B**, annual influenza — administer **2 weeks before** planned/elective splenectomy, or **2 weeks after** emergency splenectomy (vaccines given earlier than 2 weeks post-op, particularly pneumococcal, produce a weaker antibody response — though if there's a real risk the patient won't return for follow-up, vaccinating before discharge is preferred over losing the patient to follow-up entirely).
-> **Antibiotic prophylaxis:** **amoxicillin 250mg PO once daily, OR phenoxymethylpenicillin (penicillin V) 250mg PO BD** — genuinely different from the original note's figures (penicillin V 500mg BD is double the correct dose; amoxicillin's frequency was also unspecified/implied differently). For confirmed penicillin allergy: roxithromycin 300mg daily or erythromycin (per local guidance).
-> **Duration:** prophylaxis for a **minimum of 3 years post-splenectomy** in adults (some sources/individualised plans support lifelong prophylaxis, particularly for higher-risk patients — this is a case-by-case decision rather than a fixed endpoint for everyone); in children, prophylaxis continues until **at least 5 years of age** regardless of when splenectomy occurred, given the disproportionate infection risk in young children with asplenia.
-> **Patient safety-netting:** patients should have a written action/emergency plan and keep emergency antibiotics at home and work, with instructions to take them immediately and seek urgent medical review if they develop fever, sweats, chills, or fatigue — reflecting the genuinely rapid, high-mortality course post-splenectomy sepsis can take. Infection risk is highest in the first 2 years post-splenectomy (~30% of infections occur in year 1, ~50% within 2 years) but persists lifelong, which is the rationale for the extended/individualised prophylaxis duration above.
-
-## Pyrexia of unknown origin (PUO) / Fever of unknown origin (FUO)
-
-> [!note] Expanded from CSV ("Fever of unknown origin," High yield) — the original entry was genuinely thin (a one-line definition and a bare causes list) for a High-yield topic; expanded with a systematic approach, Ix, and Mx. Verified against the NSW Agency for Clinical Innovation's FUO clinical tool, Aug 2026 — PUO and FUO are the same entity under different terminology (PUO the more traditional/British term, FUO more commonly used internationally including in current Australian resources); both are used interchangeably here.
-
-- **D (classic definition, Petersdorf/Durack-Street criteria):** fever >38.3°C on several occasions, for >3 weeks' duration, with no cause identified despite 3 days of inpatient evaluation or ≥3 outpatient visits (the original 1961 definition required 1 week of *inpatient* evaluation specifically; this was revised in 1991 to reflect that thorough outpatient work-up is now often possible, so a lack of hospital admission doesn't preclude the diagnosis).
-- **A genuinely important framing point:** FUO/PUO is most commonly an **atypical presentation of a common condition**, rather than a rare or exotic disease — this should shape the initial differential and Ix priorities, which is why the systematic approach below front-loads common causes before considering rarer possibilities.
-
-> [!info] Classification into four categories (Durack-Street) — each with a genuinely different differential, so establishing which category applies early helps focus the work-up:
-> - **Classic FUO:** the presentation above in an otherwise non-hospitalised, non-neutropenic, HIV-negative patient.
-> - **Nosocomial FUO:** fever developing in a hospitalised patient, not present or incubating on admission, with no diagnosis after 3 days of appropriate investigation — differential shifts toward hospital-acquired infection (line infection, C. difficile, drug fever, post-operative complications, DVT/PE).
-> - **Neutropenic FUO:** fever in a patient with a significantly low neutrophil count — a genuine emergency requiring urgent empirical broad-spectrum antibiotics rather than an unhurried diagnostic work-up (see [[10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies]] Neutropenic sepsis for the AU-verified acute management approach, not repeated here) — the diagnostic-approach framework below applies once the acute emergency has been addressed, not instead of it.
-> - **HIV-associated FUO:** fever of >4 weeks (outpatient) or >3 days (inpatient) in a person with confirmed HIV infection — differential shifts toward opportunistic infection (see [[04_Neurology]] CNS Infections Associated with Immunosuppression for relevant AU-verified detail, not repeated here) and HIV-associated malignancy.
-
-**Causes — broad categories, genuinely useful as a mental checklist given the range is wide:**
-- **Infection** (the single largest category in most series) — TB (including extrapulmonary), abscess (intra-abdominal, dental, or elsewhere occult), infective endocarditis, osteomyelitis, and a wide range of less common infections guided by specific risk factors/exposures.
-- **Malignancy** — lymphoma classically, but also leukaemia, renal cell carcinoma (hypernephroma), atrial myxoma, and other occult malignancies.
-- **Autoimmune/rheumatological/inflammatory** — connective tissue disease, vasculitis (see [[12_04_Rheum_-_Vasculitis]], not repeated here), adult-onset Still's disease, giant cell arteritis (particularly relevant in patients >50 given the genuinely serious visual-loss risk if missed — screen specifically for headache, jaw claudication, scalp tenderness, and visual symptoms in this age group).
-- **Miscellaneous** — drug fever (a genuinely easy-to-miss cause, since it requires actively reviewing the medication list rather than assuming a new diagnosis), thromboembolic disease, endocrine causes, and a substantial proportion of cases that remain undiagnosed even after thorough work-up (a reasonable minority of cases resolve spontaneously without ever reaching a specific diagnosis).
-
-**Approach — disciplined and stepwise, not a reflexive battery of tests:**
-1. **Confirm true fever** — document measured temperatures (not just patient-reported subjective fever), review the pattern, duration, associated rigors/sweats, and response to antipyretics; a fever diary is genuinely useful here.
-2. **Repeat a full history and examination** — specifically revisit medications (drug fever), exposures (travel, animals, insects/ticks, occupational), and repeat the physical exam given findings can evolve or be initially missed; targeted history clues matter — e.g. weight loss *without* anorexia points more toward infection, while weight loss *with* anorexia points more toward malignancy.
-3. **Targeted, risk-guided investigation rather than an indiscriminate panel:** blood cultures ×3 (particularly if endocarditis, bacteraemia, an indwelling line, or prosthetic material is a possibility); FBC, inflammatory markers, LFTs, U&Es; HIV and hepatitis serology, TB testing (noting TST/IGRA cannot distinguish active from latent TB) based on risk; CT chest/abdomen/pelvis or targeted imaging for occult malignancy, abscess, lymphadenopathy, or TB; echocardiography if endocarditis risk or positive blood cultures; ferritin, ANA/ENA, ANCA, complement — only when the history/examination genuinely supports an inflammatory/rheumatological cause, not ordered by default for every case.
-4. **Tissue diagnosis** where imaging or clinical suspicion points to a specific target — excisional lymph node biopsy, bone marrow biopsy, abscess drainage, or organ biopsy.
-5. **Specialist referral** (infectious diseases or general/internal medicine) for persistent unexplained fever, TB or endocarditis concern, or unusual exposures — genuinely appropriate given the breadth of this differential.
-
-**Mx:** **stable patients do not automatically need empirical antibiotics** — a genuinely important principle, given the temptation to treat empirically can obscure the underlying diagnosis (e.g. partially treating an infection without curing it, making subsequent cultures falsely negative) without addressing the actual cause; the highest-yield action is targeted, risk-guided investigation with repeated reassessment over time, not reflexive treatment. Treat the underlying cause once identified. Neutropenic FUO is the clear exception, requiring urgent empirical treatment as above, not repeated here.
-
-## Approach to Fever in the Returned Traveller
-
-> [!warning] FLAG 2026-09-01 — same topic twice in this file
-> `K1 §0.4 Fever in the Returning Traveller` covers the same presentation.
-> Part of a nine-section fever cluster across four sources in this file. Pair marked, not merged.
-
-> [!note] Gap-filled from CSV ("Return traveller fever," Medium yield) — the individual travel-related diseases (Malaria, Dengue fever, Yellow fever, Enteric fever/typhoid, Leptospirosis, Schistosomiasis, Trypanosomiasis) are all built across this project's Infectious Disease files, and the history-taking approach is already established in [[History-Taking]] Fever and Suspected Infection (the travel-history block within itected Infection entry) — this entry adds the organising framework that ties the differential together, given incubation period is genuinely one of the most useful ways to narrow it. Not repeated here: the individual disease-level Ix/Mx detail, or the history-taking questions themselves.
-
-**The single most important principle, worth stating before any framework: malaria must be actively excluded in any febrile returned traveller from an endemic area, regardless of how mild the presentation looks or how unlikely malaria seems** — falciparum malaria can deteriorate rapidly and unpredictably, and this exclusion should happen early rather than only after other causes have been worked through.
-
-**Organising the differential by incubation period — genuinely useful given it can substantially narrow the list based on the travel timeline alone:**
-
-> [!info] Short incubation (<10 days)
-> Dengue fever (see [[08_05-06_Infectious_Disease_-_Viral_Infections]] Dengue fever, not repeated here); chikungunya; most bacterial gastroenteritis (see [[08_10_Infectious_Disease_-_Diarrhoea_DDx_and_Gastroenteritis]], not repeated here); early enteric fever/typhoid; rickettsial infections (e.g. spotted fever); yellow fever (see [[08_05-06_Infectious_Disease_-_Viral_Infections]] Yellow fever, not repeated here).
-
-> [!info] Medium incubation (10–21 days)
-> **Malaria** (see [[08_07_Infectious_Disease_-_Protozoan_Infections]] Malaria, not repeated here — genuinely the diagnosis that must never be missed regardless of which incubation band the presentation otherwise fits, given *P. falciparum* can present outside the classic timeline); enteric fever/typhoid (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Enteric fever (typhoid / paratyphoid), not repeated here); leptospirosis (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Leptospirosis, not repeated here); brucellosis.
-
-> [!info] Long incubation (>21 days)
-> Malaria (can still present this late, particularly *P. vivax*/*P. ovale* with their dormant liver-stage hypnozoites causing delayed relapse); tuberculosis; viral hepatitis; schistosomiasis (see [[08_07_Infectious_Disease_-_Protozoan_Infections]] Schistosomiasis, not repeated here — acute Katayama syndrome specifically has a longer latency after freshwater exposure); amoebic liver abscess; HIV seroconversion illness.
-
-**Practical points beyond the incubation-period framework:**
-- **Non-travel causes remain part of the differential** — a returned traveller can still have a completely unrelated, locally-acquired cause of fever, and travel history shouldn't crowd out the standard differential entirely, particularly if the timeline or exposure pattern doesn't fit a travel-related cause.
-- **Specific exposures narrow the differential further than destination alone** — freshwater swimming (schistosomiasis, leptospirosis), animal contact (brucellosis, rabies exposure), insect/tick bites, sexual contact, food and water sources, and healthcare contact abroad (antimicrobial-resistant organism risk) — see [[History-Taking]] Fever and Suspected Infection for the travel-history questions that elicit these, not repeated here.
-- **Malaria prophylaxis adherence doesn't exclude malaria** — no chemoprophylaxis regimen is 100% effective, and poor adherence is common; malaria should still be actively tested for (thick and thin blood films, or rapid antigen testing) in a febrile returned traveller from an endemic area regardless of reported prophylaxis use.
-
-## Sepsis
-
-> [!note] See [[01_Cardiovascular]] Infective Endocarditis for the modified Duke criteria — the analogous structured diagnostic framework for a different specific infection, not repeated here.
-
-> [!info] Gap-filled — "bacteraemia" and "septicaemia" are used correctly throughout this project (e.g. in Lemierre's syndrome, spinal epidural abscess) as complications of specific infections, but the terms themselves were never defined or related to "sepsis." **Bacteraemia** simply means the presence of viable bacteria in the bloodstream — it can be transient and entirely asymptomatic (e.g. briefly after tooth brushing), and does **not** by itself imply illness. **Septicaemia** is an older, less precise term for a bloodstream infection causing systemic illness — largely superseded in current clinical use by the more precisely defined **sepsis** (below), which specifically requires life-threatening organ dysfunction, not just bacteraemia or a systemic infection. The practical relationship: bacteraemia can progress to sepsis if the host response becomes dysregulated and organ dysfunction develops, but bacteraemia alone (without organ dysfunction) doesn't meet the definition of sepsis — this is precisely why blood cultures confirming bacteraemia don't automatically mean a patient has "sepsis" in the modern, clinically actionable sense of the term.
-
-- **D:** life-threatening organ dysfunction caused by a dysregulated host response to infection.
-
-> [!info] qSOFA — quick screening tool to identify patients at increased risk of sepsis
-> - RR >22
-> - SBP <100
-> - Altered mentation
-
-> [!info] Verified — Australia has its own named sepsis pathway, distinct from the UK's "Sepsis 6" branding, though the underlying clinical actions are broadly similar in substance. **"SEPSIS KILLS"** (developed by NSW's Clinical Excellence Commission, now used in >200 health facilities and referenced by the Australian Commission on Safety and Quality in Health Care's national Sepsis Clinical Care Standard) organises the response around three actions — **RECOGNISE** (risk factors, signs/symptoms), **RESUSCITATE** (rapid IV fluids and antibiotics), **REFER** (to senior clinicians/specialty teams for source control and specialist care) — with a specific target of **IV antibiotics within 60 minutes of presentation**, rather than the "Sepsis 6" naming/framing below. The individual clinical actions in the "3 in/3 out" mnemonic below (oxygen, antibiotics, fluids; cultures, lactate, urine output) are pharmacologically/clinically sound regardless of which branded pathway a given Australian hospital uses, and most Australian EDs will have their own local sepsis pathway/order set implementing these same core actions under the SEPSIS KILLS or an equivalent local branding — check the specific hospital's own protocol/order set for the exact local process, but the underlying content below doesn't need clinical correction, only the "Sepsis 6" name/UK-attribution.
-> **3 in:**
-> - O2 — aim sats >94%
-> - Broad spectrum antibiotics
-> - IV fluids — 500mL crystalloid over 15 minutes
->
-> **3 out:**
-> - Blood cultures
-> - Measure serum lactate
-> - Measure urine output hourly
-
-- Within ICU, a full SOFA score is used. SOFA >2 increases mortality by 10% compared to other patients. Components: PaO2, platelets, bilirubin, cardiovascular (MAP, use of vasopressors), GCS, creatinine, urine output per day.
-
-## Spinal epidural abscess
-
-- **D:** collection of pus superficial to the dura mater.
-
-> [!danger] Medical emergency.
-
-- **A:** usually *S. aureus*.
-- **P:** contiguous spread from adjacent structures (e.g. discitis), haematogenous spread (e.g. bacteraemia from IVDU), or direct infection (e.g. surgery).
-- **S/Smx:** fever, back pain, focal neurological deficits according to the segment of cord affected.
-
-> [!danger] **The classic triad of back pain, fever and neurological deficit is present in only about 10% of cases** — so an incomplete picture is the *usual* picture, and its absence must not reassure. [[04_Neurology]] Spinal Epidural Abscess owns the four clinical stages this progresses through (localised pain → radicular pain → weakness and sphincter dysfunction → paralysis), which is the more useful frame than the triad. Caveat carried here by the pairs audit (2026-08-29) — this entry listed the triad with no indication of how rarely it is complete.
-- **Ix:** bloods, blood cultures, infection screen (including CXR, urine cultures) (*why:* screens for the causative organism and any concurrent/source infection given the contiguous, haematogenous, or direct-inoculation spread mechanisms above; *what:* may identify *S. aureus* bacteraemia or another source). MRI whole spine (*why:* the definitive imaging test, both confirming the diagnosis and defining the extent of the abscess (given epidural abscesses can span multiple levels) — essential for surgical planning if evacuation is needed; *what:* an epidural collection, often with cord/thecal sac compression visible, directly correlating with the neurological deficit pattern).
-- **Mx:**
-  - **Immediate/acute:** urgent neurosurgical/spinal referral, given the risk of progressive cord compression and irreversible neurological deficit if decompression is delayed — this shares the same time-critical, "don't wait for full work-up if focal deficit is present" urgency as cauda equina syndrome and malignant spinal cord compression (see [[04_Neurology]] for both, not repeated here); empirical broad-spectrum IV antibiotics started promptly, covering *S. aureus* (including MRSA where locally relevant) given this is the most common causative organism per the A/P above.
-  - **Definitive:** surgical evacuation/decompression for large abscesses, evidence of cord compression, or those not responding to antibiotics alone; long-term antibiotics (often several weeks), refined once culture/sensitivity results (from blood cultures or surgical specimens) are available.
-  - **Chronic/long-term:** address any identifiable source (e.g. treat the primary discitis or bacteraemia source) to prevent recurrence; rehabilitation if a neurological deficit has occurred, given recovery depends heavily on how promptly decompression occurred relative to deficit onset.
-
-## Nematode infections
-
-- ***Ancylostoma braziliense*** — most common cause of cutaneous larva migrans; Central/South America.
-- ***Strongyloides stercoralis*** — percutaneous entry, e.g. walking barefoot. Causes pruritus and larva currens (similar appearance to cutaneous larva migrans, but moves through the skin at a far greater rate). Abdominal pain, diarrhoea, pneumonitis. May cause Gram -ve septicaemia due to carrying of bacteria into the bloodstream. Eosinophilia sometimes seen.
-  - **Mx:** thiabendazole, albendazole, ± ivermectin (especially chronic infection).
-- ***Toxocara canis*** — spread by ingesting eggs from soil contaminated by dog faeces. Commonest cause of visceral larva migrans. Eye granulomas, liver/lung involvement.
-
-## Threadworms (pinworms)
-
-- **A/P:** *Enterobius vermicularis*. Spread by ingesting eggs. Affects children.
-- **S/Smx:** asymptomatic in 90%. Perianal itching, especially at night. Girls may have vulval symptoms.
-- **Dx:** usually clinical. If confirmation needed, apply tape to the perianal area ("swab") and send for microscopy to find eggs.
-- **Mx:** antihelminthic for the whole household — mebendazole (single dose), with hygiene measures.
-
-## Antimicrobial side effects
-
-| Drug | Key side effects |
-|---|---|
-| Metronidazole | Disulfiram-like reaction with alcohol; ↑anticoagulant effect of warfarin |
-| Rifampicin | RNA polymerase inhibitor; potent P450 inducer; red urine; hepatitis; flu-like symptoms |
-| Cotrimoxazole | Hyperkalaemia; headache; rash (including Stevens-Johnson syndrome) |
-| Vancomycin | Nephrotoxicity; ototoxicity; thrombophlebitis; red man syndrome |
-| Aminoglycosides | Haematologic SE including agranulocytosis; ototoxicity |
-| Tetracyclines (e.g. doxycycline) | Tooth discolouration — avoid in <12yo, pregnancy, breastfeeding; photosensitivity; angioedema; black hairy tongue |
-| Trimethoprim | Myelosuppression; transient ↑creatinine (competitive inhibition, not true renal impairment); teratogenic risk in 1st trimester — avoid in pregnancy |
-
----
-
-## Notifiable Diseases in Australia — What "Notifiable" Actually Means
-
-> [!note] Gap-filled — "Notifiable disease" appears as a bare flag on at least 7 separate conditions scattered throughout this project (measles, mumps, pertussis, diphtheria, and others), but nowhere is the underlying system explained. This entry fills that gap. ("Notifiable diseases & public health reporting" is explicitly a High-yield CSV item, filed under a not-yet-uploaded Public Health category — but the concept is already load-bearing content throughout this project's existing disease entries, exactly analogous to how MMSE/MoCA needed explaining despite being filed under a separate Geriatrics category, addressed elsewhere in this project.) Verified against SA Health's notifiable disease reporting requirements and the Australian CDC's National Notifiable Diseases Surveillance System (NNDSS) overview, Aug 2026.
-
-**The core system:** the **National Notifiable Diseases Surveillance System (NNDSS)** coordinates national surveillance data for a legislated list of over 70 diseases that present a risk to public health (the National Notifiable Disease List). Each state and territory runs its own notification and public health response under its own legislation — in South Australia, this is the **South Australian Public Health Act 2011** — with de-identified data supplied daily to the national system for collation and analysis. The purpose is genuinely practical, not just administrative: enabling early public health action (contact tracing, outbreak identification, targeted intervention) and informing public health policy (e.g. the National Immunisation Program).
-
-**Who must notify, and how:** in South Australia, **both medical practitioners and laboratories** are legally required to notify each episode of a notifiable condition to the Communicable Disease Control Branch (CDCB) — notification is not solely the laboratory's responsibility, and a clinician's own suspected/clinical diagnosis can itself trigger the requirement even before laboratory confirmation.
-
-**Timeframe — genuinely two-tiered, not a single blanket rule:**
-- **Most notifiable conditions:** notify **within 3 days** of suspecting or confirming the diagnosis — this is the routine/default timeframe, typically via the online notification form.
-- **Selected conditions requiring urgent public health action** (e.g. those with high transmission risk or outbreak potential — meningococcal disease is the classic example, given the time-critical need for contact prophylaxis) are **phone-notifiable**, meaning immediate telephone notification is required rather than waiting for the standard 3-day written process — this distinction matters clinically, since treating every notifiable disease as equally urgent both over- and under-responds depending on the specific condition.
-
-**Practical relevance to this project's content:** every condition flagged "Notifiable disease" throughout the Infectious Disease, Dermatology, and Paediatrics files (e.g. measles, mumps, pertussis, diphtheria — see the individual entries for the specific flags, not repeated here) falls under this same system — the flag itself is a prompt to notify per the framework above, not a separate requirement unique to each disease. **A genuinely useful exam-relevant principle: notification is based on clinical/reasonable suspicion, not confirmed diagnosis** — waiting for definitive laboratory confirmation before notifying a condition that's already clinically apparent defeats the purpose of early public health action, particularly for conditions on the phone-notifiable/urgent list.
-
-
-<!-- ===== SOURCE: 08_10_Infectious_Disease_-_Diarrhoea_DDx_and_Gastroenteritis.md ===== -->
-
-
-## Diarrhoea — differential diagnosis
-
-> [!info] Infectious: non-inflammatory
-> - **Viruses:** Norwalk virus, rotavirus, adenoviruses, astrovirus, coronavirus
-> - **Preformed toxin (food poisoning):** *Staph aureus*, *Bacillus cereus*, *Clostridium perfringens*
-> - **Toxin production:** enterotoxigenic *E. coli*, *Vibrio cholerae*, *Vibrio parahaemolyticus*
-> - **Protozoa:** *Giardia lamblia*, *Cryptosporidium*, *Cyclospora*, *Isospora*
-
-> [!info] Infectious: inflammatory / invasive
-> *Shigella*, *Salmonella*, *Campylobacter*, enteroinvasive *E. coli*, *E. coli* O157:H7, *Yersinia enterocolitica*, *C. difficile*, *Entamoeba histolytica*, *N. gonorrhoeae*, *Listeria monocytogenes*
-
-> [!info] Non-infectious causes
-> - **Inflammatory:** ulcerative colitis, Crohn's disease
-> - **Malabsorption:** coeliac disease, radiation, blind loop syndrome, short bowel syndrome
-> - **Neoplastic:** carcinoma, villous adenoma
-> - **Other intestinal:** diverticular disease, irritable bowel syndrome, faecal impaction (overflow diarrhoea), ischaemic colitis (⚠️), ileocolic fistula
-> - **Gastric:** post-vagotomy
-> - **Pancreatic:** chronic pancreatitis, cystic fibrosis, carcinoma ± pancreatic resection
-> - **Endocrine:** diabetes, thyrotoxicosis, carcinoid syndrome, Zollinger-Ellison syndrome, VIPoma, medullary thyroid cancer
-> - **Drug-induced:** antibiotics, laxatives, magnesium-containing antacids, cytotoxic agents
-> - **Others:** anxiety, diet
-
-## Gastroenteritis — causes, sorted by incubation time
-
-*(Table adapted from Oxford Handbook of Clinical Specialties)*
-
-| Organism / source | Incubation | Source of infection | Diarrhoea | Vomiting | Abdo pain | Fever | Other features |
-|---|---|---|---|---|---|---|---|
-| Heavy metals (e.g. zinc) | 5min–2h | Work exposure, paint, etc | | ✓ | | | Delayed fever, flu-like features |
-| Scrombotoxin | 10–60min | Fish (e.g. tuna, mackerel) | | | | | Flushing, sweating |
-| Mushrooms | 15min–24h | Mushrooms | | ✓ | ✓ | | Fits, coma, LFT derangement |
-| Red beans | 1–3h | Red beans | ✓ | ✓ | | | |
-| Bacillus cereus | 1–5h | Rice | ✓ | ✓ | | | Vomiting-type onset within 6h; diarrhoeal type onset after 6h |
-| Staph aureus | 1–6h | Meat | ✓ | ✓ | ✓ | | Hypotension |
-| Campylobacter | 2–5h | Milk, poultry, water | ✓ (bloody) | | ✓ | ✓ | Peritonism; flu-like prodrome; associated with Guillain-Barré |
-| Vibrio cholerae | 2h–5d | Water | ✓ (profuse) | | | ✓ | Rapid dehydration |
-| E. coli — enterotoxigenic | 6–48h | Water, food, soil | ✓ | ✓ | ✓ | | "Traveller's diarrhoea" |
-| C. perfringens | 8–24h | Meat | ✓ | | ✓ | | |
-| Vibrio parahaemolyticus | 12–24h | Seafood | ✓ (profuse) | ✓ | ✓ | | |
-| C. botulinum | 12–36h | Processed food | | ✓ | | | Paralysis |
-| Salmonella | 12–48h | Meat, eggs, poultry | ✓ | | ✓ | ✓ | Septicaemia |
-| Norovirus (Norwalk virus) | 12–48h | Faecal-oral | ✓ | ✓ (projectile) | ✓ | ✓ | "Winter vomiting illness"; remains contagious 48h after symptoms resolve |
-| E. coli O157:H7 — enterohaemorrhagic | 12–72h | Water, food, soil | ✓ (bloody) | | ✓/− | | Typhoid-like features; haemolytic uraemic syndrome |
-| E. coli — enteropathogenic | 12–72h | Water, food, soil | ✓ | ✓ | | | Especially in infants |
-| Y. enterocolitica | 24–34h | Milk | ✓ | ✓ | | ✓ | |
-| C. difficile | 1–7d | Antibiotic-associated / hospital-acquired | ✓ (bloody) | | ✓ | | Gut perforation, toxic megacolon |
-| Rotavirus | 1–7d | Food/water | ✓ | ✓ | | ✓ | Malaise |
-| Shigella | 2–3d | Any food | ✓ (bloody) | | ✓ | ✓ | Headache, neck stiffness |
-| Listeria monocytogenes | 2–9d | Cheese, pâtés | ✓ | ✓ | | ✓ | Meningoencephalitis, flu-like symptoms, miscarriages |
-| Cryptosporidium | 4–12d | Cow → water → man | ✓ (in HIV) | | | | |
-| Giardia lamblia | 1–4w | Nappies, cats, dogs, crows | ✓ | | | | Malabsorption; prolonged course |
-| Entamoeba histolytica | 1–4w | Food/water | ✓ (bloody) | | ✓ | | Weight loss; can affect other organ systems |
-
-> [!info] Verified against the Australian NNDSS gastrointestinal diseases category (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia) for the full AU-specific framework, not repeated here) — the underlying point holds for Australia too: all 5 organisms listed are notifiable, with **campylobacteriosis specifically confirmed as the most commonly notified gastrointestinal disease in Australia**. They fall under Australia's "gastrointestinal diseases" NNDSS category rather than a UK-style single flat list, and enterohaemorrhagic *E. coli*/HUS and shigellosis are both separately listed on the Australian gastrointestinal notifiable disease list too. *C. difficile* and *Entamoeba histolytica* notifiability can vary by state/territory (notifiable diseases lists aren't perfectly uniform across Australian jurisdictions) — check the specific state/territory list if this distinction matters for a specific context, but the general teaching point (these are bloody-diarrhoea-causing organisms subject to public health surveillance) holds regardless.
-
-## Cross-references — other infections covered elsewhere in this project
-
-- Ascending cholangitis — see [[03_Gastrointestinal]] Ascending Cholangitis.
-- Breast abscess / mastitis — see [[08_09_Infectious_Disease_-_Miscellaneous]] Mastitis and Breast Abscess.
-- Conjunctivitis — see [[05_Ophthalmology]] Conjunctivitis.
-- Croup — see [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]] Croup (laryngo-tracheo-bronchitis).
-- Cutaneous warts — see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Viral warts.
-- Encephalitis — see [[04_Neurology]] Encephalitis (under CNS Infections).
-- Epididymo-orchitis — see [[07_Renal_Medicine_and_Urology]] Epididymitis.
-- Folliculitis — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Folliculitis.
-- Head lice — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Head lice (pediculosis capitis).
-- Infective endocarditis — see [[01_Cardiovascular]] 0.31 Infective Endocarditis.
-- LRTI / pneumonia — see [[02_Respiratory]] Pneumonia.
-- Meningitis — see [[04_Neurology]] Bacterial Meningitis and Viral Meningitis (under CNS Infections).
-- Septic arthritis — see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis.
-- Spontaneous bacterial peritonitis — see [[03_Gastrointestinal]] Spontaneous bacterial peritonitis (SBP).
-- Tinea / dermatophyte infections — see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Tinea / Dermatophyte infections.
-- Tuberculosis — see [[02_Respiratory]] Tuberculosis.
-- Varicella zoster (chickenpox) — see [[09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa]] Varicella zoster virus (VZV) / chickenpox.
-- Vaginal candidiasis / thrush — not yet built in this project (no dedicated Gynaecology/Sexual Health category uploaded yet covering this specifically).
-
-
 <!-- ===== SOURCE: K1_Fever_Workup.md ===== -->
 
 
@@ -1565,6 +263,77 @@ Source control — drainage, line removal, return to theatre for a leak. Cessati
 
 > [!note] Cross-references
 > Sepsis definitions, phenotypes and management → [[F0.3]] 0.7 and [[A1]] 0.2 · Fever versus hyperthermia and the drug-induced hyperthermic syndromes → [[A6]] 0.3 · Meningococcal sepsis → [[F0.3]] 0.9 · Urosepsis and asymptomatic bacteriuria → [[F0.3]] 0.10 · Infective endocarditis and new murmur → [[B5]] 0.2 · Severe CAP and melioidosis → [[F0.5]] 0.4 · Meningitis and encephalitis → [[D1]] 0.5 · Transfusion reactions → [[A9]] 0.2 · Post-operative collections and anastomotic leak → [[C7]] 0.5 and [[A1]] 0.5 · Severe cutaneous adverse reactions and DRESS → [[A5]] 0.6 · Post-splenectomy prophylaxis → [[C1]] 0.5 · Giant cell arteritis → [[D1]] 0.4 · Atypical presentation in the elderly → [[GER1]] 0.1 · Skin and soft tissue infection → [[K2]] · Exposure, prophylaxis and immunodeficiency → [[K3]] · Neutropenia and haematological causes → [[J1]]
+
+
+<!-- ===== SOURCE: NEW_Infectious_Diseases.md ===== -->
+
+
+# NEW — Infectious Diseases
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!note] **This file contains the one Tier 1 Infectious Diseases topic only.** The category has 1 T1 and 9 T3 topics. See the build-status table at the end.
+
+## Fever in Immunocompromised Patient
+
+- **D:** fever in a patient whose immune defences are impaired. **This is a medical emergency and the reason it is Tier 1 is a single sentence: the usual signs of infection are absent, and the time available to act is measured in minutes, not hours.** A neutropenic patient cannot mount pus, so there is no consolidation on the film, no fluctuance in the abscess, no meningism — **fever, or even hypothermia and unexplained deterioration alone, may be the only sign of overwhelming sepsis.**
+- **Who counts as immunocompromised — a broader group than "on chemotherapy", and the group is routinely under-recognised:**
+  - **Neutropenia** from chemotherapy, haematological malignancy, marrow failure or drugs (clozapine, carbimazole, sulfasalazine, methotrexate).
+  - **Haematopoietic stem cell or solid organ transplant recipients** on immunosuppression.
+  - **Long-term corticosteroids**, biologic agents (**anti-TNF, rituximab and other monoclonals**), and conventional immunosuppressants.
+  - **Advanced HIV** with a low CD4 count.
+  - **Asplenia or hyposplenism** — post-splenectomy, sickle cell disease, coeliac disease — with a specific and lifelong risk of **overwhelming post-splenectomy infection from encapsulated organisms**, which can kill within hours.
+  - **Diabetes, chronic kidney disease, cirrhosis, malnutrition, and extremes of age** — lesser but real.
+- **DDx:**
+  - **Bacterial** — the immediate concern: Gram-negative bacilli including *Pseudomonas*, Gram-positive organisms including line-associated staphylococci and streptococci, and **encapsulated organisms in asplenia**.
+  - **Line and device infection** — central venous catheters, ports, drains, prosthetic material. **Examine every line site.**
+  - **Fungal** — *Candida*, and **invasive aspergillosis** in prolonged neutropenia; consider where fever persists despite antibacterials.
+  - **Viral** — CMV, EBV, HSV/VZV reactivation, respiratory viruses, and **CMV colitis or retinitis** in transplant and advanced HIV.
+  - **Opportunistic, particularly with advanced HIV or T-cell suppression:** ***Pneumocystis jirovecii* pneumonia** (dry cough, exertional desaturation, and a chest X-ray that can look far better than the patient), toxoplasmosis, cryptococcal meningitis, mycobacterial disease including reactivated tuberculosis.
+  - **Non-infective causes of fever, considered only after infection is treated:** drug fever, tumour fever, transfusion reaction, thrombosis, engraftment syndrome, graft-versus-host disease.
+- **Focused Hx:** **the nature and timing of immunosuppression — which agent, what dose, and crucially the date of the last chemotherapy cycle**, since the neutrophil nadir is predictable and places the patient at maximum risk; previous episodes of febrile neutropenia; **colonisation or previous infection with resistant organisms**, which changes empirical therapy; prophylactic antimicrobials currently taken (they shape which organisms remain likely); indwelling lines and how long they have been in; **localising symptoms, asked systematically and specifically, because they will be subtle** — cough, breathlessness, dysuria, diarrhoea, headache, neck stiffness, visual change, skin lesions, mouth or perianal pain (**mucositis and perianal infection are common and easily missed portals**); recent travel, contacts, animal exposure; vaccination status, particularly in asplenia; and **splenectomy history, which patients may not think to mention**.
+- **Examination:** **full vital signs including temperature — and note that hypothermia is as concerning as fever** — with early identification of sepsis physiology.
+  - **A full head-to-toe examination, including the areas usually skipped**: **mouth (mucositis, candidiasis, herpes)**, **perianal region (inspect; a perianal abscess may have no fluctuance)**, **all line and port sites, drain sites and recent puncture sites**, **skin folds and pressure areas**, and **the whole skin surface for emboli, cellulitis or fungal lesions**.
+  - Chest, abdomen, and a neurological examination including conscious level and neck stiffness.
+  - **Do not perform a digital rectal examination or take a rectal temperature in a neutropenic patient** — the risk of bacteraemia from mucosal trauma outweighs the information gained.
+  - Fundoscopy where candidaemia or CMV is a consideration.
+- **First-line Ix — and these are taken *while* antibiotics are being prepared, never before them:**
+  - **Blood cultures — peripheral and from every lumen of any central line**, which is what identifies a line as the source.
+  - **FBC with differential — for the absolute neutrophil count**, UEC, LFTs, CRP, **venous or arterial blood gas with lactate**, coagulation profile, calcium, magnesium.
+  - **Urinalysis and urine culture** (**pyuria may be absent in neutropenia**, so a bland urine does not exclude urinary infection).
+  - **Chest X-ray** — **a normal film does not exclude pneumonia in neutropenia**, because the infiltrate requires neutrophils to form; **CT chest** has a much higher yield and should be requested early where respiratory symptoms exist.
+  - **Swabs and cultures from any accessible site** — throat, wound, line exit site, stool for *C. difficile* if diarrhoea.
+  - **Respiratory virus PCR**; **sputum or induced sputum**; **serum cryptococcal antigen, galactomannan or beta-D-glucan** where fungal disease is suspected, per local practice.
+  - **Lumbar puncture** where CNS infection is suspected — **after considering platelets and coagulation**, and **never delaying antibiotics**.
+
+> [!danger] **The definition and the time target, which are the two facts to carry.**
+> **Febrile neutropenia** is commonly defined as a **single oral temperature of ≥38.5°C, or ≥38.0°C sustained or on two readings**, together with an **absolute neutrophil count <0.5 × 10⁹/L — or <1.0 × 10⁹/L and predicted to fall below 0.5**. Australian (eviQ) and international sources agreed on this structure; **the exact temperature convention varies slightly between protocols**, so use the local one.
+> **Empirical broad-spectrum intravenous antibiotics must be given within 60 minutes of presentation.** Multiple independent sources — Australian state and paediatric guidelines and international oncology guidance — agree on this target, and on the finding that delay beyond an hour is associated with worse outcomes.
+> **The intern-level actions:** recognise it, **triage it as an emergency**, take cultures **without delaying treatment**, give the empirical antibiotic on the local protocol within the hour, escalate immediately, and **do not wait for the blood count to come back if the clinical suspicion is there.**
+> **The specific empirical antibiotic regimen is deliberately omitted** — it is determined by local resistance patterns and by each hospital's protocol, and those documents are egress-blocked here. **Find your hospital's febrile neutropenia protocol before you need it**, because 60 minutes is not enough time to go looking.
+
+---
+
+## Build status of this file
+
+| Tier | Count | Status |
+|---|---|---|
+| **T1** | 1 | **Built** — Fever in Immunocompromised Patient |
+| T3 | 9 | Not built |
+
+## Topics skipped in this category
+
+| Topic | Tier | Matched header | File | Match type |
+|---|---|---|---|---|
+| **Fever of Unknown Origin** | T3 | `## Pyrexia of unknown origin (PUO) / Fever of unknown origin` | `08_09_Infectious_Disease_-_Miscellaneous.md` | Partial — the topic name appears verbatim in the header |
+
+### Near-miss deliberately **not skipped**
+
+| Topic | Header it partially matched | Why |
+|---|---|---|
+| **Fever** (T3) | `Rheumatic Fever`, `Enteric fever`, `Q fever`, `Scarlet fever`, `Dengue fever`, `Yellow fever` and others | Every match is a **specific named disease containing the word "fever"**. There is no approach-to-fever header. This is the clearest false-positive cluster the scan produced — 10+ hits, none of them a match. |
 
 
 <!-- ===== SOURCE: K2_Skin_and_Soft_Tissue_Infection.md ===== -->
@@ -1831,6 +600,224 @@ Complete the treatment course with the repeat application, and manage environmen
 
 > [!note] Cross-references
 > Fever workup and the source search → [[K1]] 0.2 · Sepsis and necrotising infection phenotypes → [[F0.3]] 0.3 · Bilateral leg swelling and pseudocellulitis → [[B6]] 0.2 · Lymphoedema and unilateral limb swelling → [[B6]] 0.3 · Undifferentiated lumps and lymphadenopathy → [[B6]] 0.8 and [[F4]] · Wounds, bites and tetanus → [[A7]] 0.5 · Crush injury and compartment syndrome → [[A7]] 0.6 · Perianal abscess and hidradenitis → [[C6]] 0.4 and [[G5]] · Breast abscess → [[O7]] · Diabetic foot and peripheral arterial disease → [[B5]] 0.5–0.6 and [[I2]] · Acute rheumatic fever and the skin infection link → [[F0.5]] 0.10 and [[AU1]] · Occupational and bloodborne exposure → [[K3]] · Pubic lice and STI screening → [[O6]] · Melioidosis → [[K1]] 0.4
+
+
+<!-- ===== SOURCE: 08_09_Infectious_Disease_-_Miscellaneous.md ===== -->
+
+
+## Sepsis
+
+> [!note] See [[01_Cardiovascular]] Infective Endocarditis for the modified Duke criteria — the analogous structured diagnostic framework for a different specific infection, not repeated here.
+
+> [!info] Gap-filled — "bacteraemia" and "septicaemia" are used correctly throughout this project (e.g. in Lemierre's syndrome, spinal epidural abscess) as complications of specific infections, but the terms themselves were never defined or related to "sepsis." **Bacteraemia** simply means the presence of viable bacteria in the bloodstream — it can be transient and entirely asymptomatic (e.g. briefly after tooth brushing), and does **not** by itself imply illness. **Septicaemia** is an older, less precise term for a bloodstream infection causing systemic illness — largely superseded in current clinical use by the more precisely defined **sepsis** (below), which specifically requires life-threatening organ dysfunction, not just bacteraemia or a systemic infection. The practical relationship: bacteraemia can progress to sepsis if the host response becomes dysregulated and organ dysfunction develops, but bacteraemia alone (without organ dysfunction) doesn't meet the definition of sepsis — this is precisely why blood cultures confirming bacteraemia don't automatically mean a patient has "sepsis" in the modern, clinically actionable sense of the term.
+
+- **D:** life-threatening organ dysfunction caused by a dysregulated host response to infection.
+
+> [!info] qSOFA — quick screening tool to identify patients at increased risk of sepsis
+> - RR >22
+> - SBP <100
+> - Altered mentation
+
+> [!info] Verified — Australia has its own named sepsis pathway, distinct from the UK's "Sepsis 6" branding, though the underlying clinical actions are broadly similar in substance. **"SEPSIS KILLS"** (developed by NSW's Clinical Excellence Commission, now used in >200 health facilities and referenced by the Australian Commission on Safety and Quality in Health Care's national Sepsis Clinical Care Standard) organises the response around three actions — **RECOGNISE** (risk factors, signs/symptoms), **RESUSCITATE** (rapid IV fluids and antibiotics), **REFER** (to senior clinicians/specialty teams for source control and specialist care) — with a specific target of **IV antibiotics within 60 minutes of presentation**, rather than the "Sepsis 6" naming/framing below. The individual clinical actions in the "3 in/3 out" mnemonic below (oxygen, antibiotics, fluids; cultures, lactate, urine output) are pharmacologically/clinically sound regardless of which branded pathway a given Australian hospital uses, and most Australian EDs will have their own local sepsis pathway/order set implementing these same core actions under the SEPSIS KILLS or an equivalent local branding — check the specific hospital's own protocol/order set for the exact local process, but the underlying content below doesn't need clinical correction, only the "Sepsis 6" name/UK-attribution.
+> **3 in:**
+> - O2 — aim sats >94%
+> - Broad spectrum antibiotics
+> - IV fluids — 500mL crystalloid over 15 minutes
+>
+> **3 out:**
+> - Blood cultures
+> - Measure serum lactate
+> - Measure urine output hourly
+
+- Within ICU, a full SOFA score is used. SOFA >2 increases mortality by 10% compared to other patients. Components: PaO2, platelets, bilirubin, cardiovascular (MAP, use of vasopressors), GCS, creatinine, urine output per day.
+
+## Cellulitis
+
+- **D:** infection of the dermis and deeper subcutaneous tissues. Erysipelas is a related, more superficial variant, involving only the upper dermis and superficial lymphatics — the purulent/non-purulent Mx distinction below broadly maps onto this deep/superficial and staphylococcal/streptococcal distinction respectively.
+- **A:** *Strep pyogenes*, *S. aureus*.
+- **R:** diabetes, venous insufficiency, eczema, oedema & lymphoedema, obesity, previous episodes of cellulitis, toe-web abnormalities (a disrupted skin barrier providing bacterial entry).
+- **S/Smx:** erythema, pain, swelling, commonly on the shins; possibly associated with systemic upset.
+- **Ix:** clinical diagnosis ± bloods and blood cultures if sepsis is suspected.
+
+> [!info] Eron classification of cellulitis
+> - **Class I:** no signs of systemic toxicity, no uncontrolled comorbidities.
+> - **Class II:** systemically unwell, or has a comorbidity that may complicate/delay resolution (e.g. peripheral arterial disease).
+> - **Class III:** severe systemic upset, or an unstable comorbidity that may interfere with response to treatment, or life-threatening infection due to vascular compromise.
+> - **Class IV:** sepsis, or a severe life-threatening infection (e.g. necrotising fasciitis).
+
+> [!info] Verified against Queensland Health clinical pathways and the 2025 eTG antibiotic guideline updates, Aug 2026 — flucloxacillin is confirmed as correct for Australian first-line cellulitis Mx, but current Australian practice draws a distinction not in the note below: **the specific first-line drug depends on whether the cellulitis is purulent (associated with an abscess, boil, or wound) or non-purulent (erysipelas-type, no associated wound)** — reflecting the different likely causative organism (*S. aureus* for the former, *Strep pyogenes* for the latter).
+> - **Purulent (abscess/wound/furuncle-associated):** dicloxacillin or flucloxacillin 500mg PO 6-hourly for 5 days.
+> - **Non-purulent (erysipelas, no associated wound):** phenoxymethylpenicillin 500mg PO 6-hourly for 5 days — genuinely narrower-spectrum than flucloxacillin, appropriate given *Strep pyogenes* remains penicillin-susceptible.
+> - For penicillin hypersensitivity or known MRSA colonisation, alternative agents are used per local guidance (not detailed here).
+> Amoxicillin+clavulanate is specifically reserved in current (2025) eTG guidance for more serious infections where *Enterobacterales* or *H. influenzae* involvement is suspected, rather than as a routine cellulitis first-line choice — worth knowing this is a more targeted indication than the broader "co-amoxiclav" framing below suggests. Cefazolin is a recognised IV alternative to flucloxacillin for confirmed MSSA. The general Eron-classification-based escalation logic (community oral therapy for Class I/II, IV/admission for Class III/IV) remains consistent with current Australian practice, and 2025 eTG updates specifically simplified/reduced the threshold for routine IV therapy in mild disease while increasing it for shock/ICU-level illness — a genuine recent shift toward oral-first management where appropriate.
+
+- **Mx of Eron Class I & II:** PO flucloxacillin (purulent) or phenoxymethylpenicillin (non-purulent) per the AU-specific distinction above, or clarithromycin/erythromycin (in pregnancy) or doxycycline for penicillin allergy. Class II may need IV treatment, but try to treat in the community.
+- **Mx of Eron Class III/IV:** admit if rapidly deteriorating, <1 year old, immunocompromised, significant lymphoedema, or facial/periorbital involvement. Treatment: IV flucloxacillin or cefazolin first-line, escalating to IV co-amoxiclav, clindamycin, cefuroxime, or ceftriaxone for more serious/broader-spectrum indications per the notes above.
+
+> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `Mastitis and Breast Abscess` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## Necrotising fasciitis
+
+> [!info] Classification
+> - **Type 1:** mixed anaerobes and aerobes — often occurs post-operatively in diabetics.
+> - **Type 2:** *Strep pyogenes* or MRSA (monomicrobial).
+> - **Type 3:** monomicrobial, fresh-water infection (rare) — e.g. *Vibrio* species from marine/fresh-water wound exposure.
+> - **Type 4:** monomicrobial fungal (mucormycosis) — rare, typically in severely immunocompromised patients.
+
+- **R:** recent trauma, diabetes (especially if treated with SGLT-2 inhibitors), IVDU, immunosuppression, VZV infection, surgery, non-traumatic skin lesions.
+- **A/P:** infection is introduced into and spreads along the fascial plane (does not typically spread into the muscle layer itself, distinguishing it from myonecrosis/gas gangrene).
+- **S/Smx:** most commonly affects the perineum (= Fournier's gangrene) or limbs. Acute onset of pain, swelling, erythema, resembling rapidly worsening cellulitis — pain out of keeping with physical exam findings, or numbness, is a key red flag — do not be reassured by unremarkable-looking skin. Systemic signs from bacterial toxins (fever, tachycardia, hypotension) may be absent or late. May develop over a few days (acute) or a few hours (fulminant).
+
+> [!danger] Skin necrosis and crepitus are LATE signs. Fever and tachycardia may be absent or late — do not rely on their absence to exclude necrotising fasciitis.
+
+- **Ix:** this is a **clinical diagnosis, and imaging/labs should never delay surgical referral** if clinical suspicion is high, given how rapidly this progresses and how directly outcome depends on time to debridement (the same "don't wait for confirmation" principle seen elsewhere in this file, e.g. spinal epidural abscess below and elsewhere in this project, e.g. testicular torsion). The **"finger test"** can be performed at the bedside under local anaesthetic if there's genuine diagnostic uncertainty — make a 2cm incision down to deep fascia: a positive test (minimal resistance to finger dissection, absence of bleeding, presence of necrotic tissue, murky or greyish "dishwasher" fluid) supports the diagnosis, though this should not delay urgent surgical referral if suspicion is already high on clinical grounds alone. Bloods — FBC, CRP, U&Es, CK, lactate, LFTs, clotting screen, ABG (*why:* screens for the systemic inflammatory/septic response and specifically for CK elevation, which reflects muscle/fascial involvement and can support the diagnosis; *what:* often shows a markedly elevated CRP and CK disproportionate to the visible skin findings — the LRINEC score (Laboratory Risk Indicator for Necrotising Fasciitis, incorporating CRP, WCC, Hb, sodium, creatinine, glucose) can support risk stratification but should never be used to rule out the diagnosis in a clinically convincing presentation, given its imperfect sensitivity). Blood and tissue cultures, Gram stain (*why:* identifies the causative organism(s), guiding antibiotic rationalisation once source control is achieved; *what:* may be polymicrobial (Type 1) or monomicrobial (Types 2–4) per the classification above). CT or MRI (*why:* can show fascial thickening/gas/fluid tracking along fascial planes supporting the diagnosis when it's not yet clinically obvious, but again should not delay surgical exploration if clinical suspicion is high — surgical exploration is itself both diagnostic and therapeutic; *what:* fascial oedema, gas in soft tissue, or fluid collections along fascial planes).
+
+- **Mx:**
+  - **Immediate/acute:** urgent surgical debridement — the single most important intervention and the priority over any investigation, given source control is what actually halts the rapidly progressive tissue destruction; broad-spectrum IV antibiotics covering the likely organisms per the Type 1–4 classification above (typically a broad-spectrum beta-lactam/beta-lactamase inhibitor or carbapenem plus clindamycin — clindamycin specifically added for its toxin-suppressing effect on toxin-producing organisms like *Strep pyogenes*, distinct from its antibacterial action); aggressive fluid resuscitation given the septic physiology; ICU-level supportive care given the shock/organ dysfunction risk.
+  - **Definitive:** repeated surgical debridement is often needed (a single operation frequently isn't sufficient, given how the disease can continue to progress along fascial planes even after initial debridement) — patients typically return to theatre for reassessment/further debridement within 24–48h; de-escalate antibiotics once culture/sensitivity results are available.
+  - **Chronic/long-term:** reconstructive surgery (skin grafting, flap reconstruction) once the infection is controlled, given the often extensive tissue loss from debridement; rehabilitation given the functional impact of extensive soft tissue/muscle loss.
+
+- **P:** average mortality 20%, worse (50–70%) if end organ damage or shock present — reinforcing why time to surgical debridement is the single most important prognostic factor.
+
+## Animal & human bites
+
+- **A/P:**
+  - Animal bites — *Pasteurella multocida*.
+  - Human bites — aerobic and anaerobic bacteria: Strep, Staph, *Eikenella*, *Fusobacterium*, *Prevotella*. Consider risk of HIV, hepatitis C.
+- **Mx:** clean wound, do not suture closed unless thorough washout performed. Antibiotics: co-amoxiclav, or doxycycline + metronidazole.
+
+> [!info] Verified against Australian bite-wound literature (RCH Clinical Practice Guidelines; ED and tropical Australia bite-management studies), Aug 2026 — amoxicillin-clavulanate is confirmed as the current Australian first-line choice, consistent with the "co-amoxiclav" already in the note (this is the UK name for the same amoxicillin+clavulanic acid combination — not actually a different drug). **Oral dosing: amoxicillin-clavulanate 875/125mg 12-hourly** is specifically cited as most appropriate for high-risk wounds. For penicillin allergy, Australian sources specify **ciprofloxacin 500mg 12-hourly plus clindamycin 450mg 8-hourly** — a different combination from the doxycycline+metronidazole option in the note (which isn't wrong pharmacologically, but isn't the specific Australian-cited alternative either) — worth knowing both exist as reasonable options but the ciprofloxacin+clindamycin combination is the one specifically documented in Australian clinical practice guidelines. For established moderate-severe infection requiring admission, IV piperacillin-tazobactam is the cited regimen. Minor genuine correction beyond dose specifics: routine antibiotics are **not required prophylactically for all bites** in adults — thorough washout/debridement remains the most important intervention, with prophylactic antibiotics reserved for higher-risk wounds (immunocompromise, diabetes, crush injury, wounds needing surgical repair, hand/joint involvement) rather than given to every bite universally.
+
+## Lemierre's syndrome
+
+- **D:** infectious thrombophlebitis of the internal jugular vein, secondary to bacterial sore throat caused by *Fusobacterium necrophorum* → peritonsillar abscess.
+- **S/Smx:** neck pain, stiffness, tenderness; systemic fever and rigors; ± septic pulmonary emboli.
+- **Ix:** contrast CT or Doppler ultrasound of the neck (*why:* confirms the internal jugular vein thrombosis directly, the key diagnostic finding distinguishing this from simple pharyngitis/peritonsillar abscess; *what:* thrombus within the internal jugular vein, ± the primary oropharyngeal source). Blood cultures (*why:* *F. necrophorum* bacteraemia is characteristic and confirms the diagnosis microbiologically, particularly relevant given the septic emboli risk below; *what:* often positive for *F. necrophorum*, an anaerobic Gram-negative organism). CT chest (*why:* screens for septic pulmonary emboli, a well-recognised and potentially serious complication given haematogenous spread from the infected thrombus; *what:* may show multiple peripheral nodules/cavitating lesions if emboli present).
+- **Mx:**
+  - **Immediate/acute:** IV antibiotics with anaerobic cover (e.g. a beta-lactam/beta-lactamase inhibitor or metronidazole-containing regimen) — genuinely urgent given the risk of ongoing septic embolisation if untreated.
+  - **Definitive:** prolonged antibiotic course (often several weeks, given the difficulty of sterilising an infected thrombus); anticoagulation is used selectively (not routinely) depending on thrombus extent/progression and specialist input, rather than as an automatic component of Mx.
+  - **Chronic/long-term:** source control (e.g. drainage of any peritonsillar abscess) if not already resolved; monitor for and manage any embolic complications.
+
+## Spinal epidural abscess
+
+- **D:** collection of pus superficial to the dura mater.
+
+> [!danger] Medical emergency.
+
+- **A:** usually *S. aureus*.
+- **P:** contiguous spread from adjacent structures (e.g. discitis), haematogenous spread (e.g. bacteraemia from IVDU), or direct infection (e.g. surgery).
+- **S/Smx:** fever, back pain, focal neurological deficits according to the segment of cord affected.
+
+> [!danger] **The classic triad of back pain, fever and neurological deficit is present in only about 10% of cases** — so an incomplete picture is the *usual* picture, and its absence must not reassure. [[04_Neurology]] Spinal Epidural Abscess owns the four clinical stages this progresses through (localised pain → radicular pain → weakness and sphincter dysfunction → paralysis), which is the more useful frame than the triad. Caveat carried here by the pairs audit (2026-08-29) — this entry listed the triad with no indication of how rarely it is complete.
+- **Ix:** bloods, blood cultures, infection screen (including CXR, urine cultures) (*why:* screens for the causative organism and any concurrent/source infection given the contiguous, haematogenous, or direct-inoculation spread mechanisms above; *what:* may identify *S. aureus* bacteraemia or another source). MRI whole spine (*why:* the definitive imaging test, both confirming the diagnosis and defining the extent of the abscess (given epidural abscesses can span multiple levels) — essential for surgical planning if evacuation is needed; *what:* an epidural collection, often with cord/thecal sac compression visible, directly correlating with the neurological deficit pattern).
+- **Mx:**
+  - **Immediate/acute:** urgent neurosurgical/spinal referral, given the risk of progressive cord compression and irreversible neurological deficit if decompression is delayed — this shares the same time-critical, "don't wait for full work-up if focal deficit is present" urgency as cauda equina syndrome and malignant spinal cord compression (see [[04_Neurology]] for both, not repeated here); empirical broad-spectrum IV antibiotics started promptly, covering *S. aureus* (including MRSA where locally relevant) given this is the most common causative organism per the A/P above.
+  - **Definitive:** surgical evacuation/decompression for large abscesses, evidence of cord compression, or those not responding to antibiotics alone; long-term antibiotics (often several weeks), refined once culture/sensitivity results (from blood cultures or surgical specimens) are available.
+  - **Chronic/long-term:** address any identifiable source (e.g. treat the primary discitis or bacteraemia source) to prevent recurrence; rehabilitation if a neurological deficit has occurred, given recovery depends heavily on how promptly decompression occurred relative to deficit onset.
+
+## Post-splenectomy sepsis
+
+> [!info] Verified against the Australian Immunisation Handbook and eTG-cited Australian guidance (Medicine Today), Aug 2026 — found genuine dose/frequency corrections and some updated vaccine coverage, not just a "check locally" caveat.
+> **Vaccinations:** pneumococcal (conjugate, then polysaccharide 6–8 weeks later), Hib, **meningococcal ACWY (quadrivalent — not just type C** as in the original note) and **meningococcal B**, annual influenza — administer **2 weeks before** planned/elective splenectomy, or **2 weeks after** emergency splenectomy (vaccines given earlier than 2 weeks post-op, particularly pneumococcal, produce a weaker antibody response — though if there's a real risk the patient won't return for follow-up, vaccinating before discharge is preferred over losing the patient to follow-up entirely).
+> **Antibiotic prophylaxis:** **amoxicillin 250mg PO once daily, OR phenoxymethylpenicillin (penicillin V) 250mg PO BD** — genuinely different from the original note's figures (penicillin V 500mg BD is double the correct dose; amoxicillin's frequency was also unspecified/implied differently). For confirmed penicillin allergy: roxithromycin 300mg daily or erythromycin (per local guidance).
+> **Duration:** prophylaxis for a **minimum of 3 years post-splenectomy** in adults (some sources/individualised plans support lifelong prophylaxis, particularly for higher-risk patients — this is a case-by-case decision rather than a fixed endpoint for everyone); in children, prophylaxis continues until **at least 5 years of age** regardless of when splenectomy occurred, given the disproportionate infection risk in young children with asplenia.
+> **Patient safety-netting:** patients should have a written action/emergency plan and keep emergency antibiotics at home and work, with instructions to take them immediately and seek urgent medical review if they develop fever, sweats, chills, or fatigue — reflecting the genuinely rapid, high-mortality course post-splenectomy sepsis can take. Infection risk is highest in the first 2 years post-splenectomy (~30% of infections occur in year 1, ~50% within 2 years) but persists lifelong, which is the rationale for the extended/individualised prophylaxis duration above.
+
+## Pyrexia of unknown origin (PUO) / Fever of unknown origin (FUO)
+
+> [!note] Expanded from CSV ("Fever of unknown origin," High yield) — the original entry was genuinely thin (a one-line definition and a bare causes list) for a High-yield topic; expanded with a systematic approach, Ix, and Mx. Verified against the NSW Agency for Clinical Innovation's FUO clinical tool, Aug 2026 — PUO and FUO are the same entity under different terminology (PUO the more traditional/British term, FUO more commonly used internationally including in current Australian resources); both are used interchangeably here.
+
+- **D (classic definition, Petersdorf/Durack-Street criteria):** fever >38.3°C on several occasions, for >3 weeks' duration, with no cause identified despite 3 days of inpatient evaluation or ≥3 outpatient visits (the original 1961 definition required 1 week of *inpatient* evaluation specifically; this was revised in 1991 to reflect that thorough outpatient work-up is now often possible, so a lack of hospital admission doesn't preclude the diagnosis).
+- **A genuinely important framing point:** FUO/PUO is most commonly an **atypical presentation of a common condition**, rather than a rare or exotic disease — this should shape the initial differential and Ix priorities, which is why the systematic approach below front-loads common causes before considering rarer possibilities.
+
+> [!info] Classification into four categories (Durack-Street) — each with a genuinely different differential, so establishing which category applies early helps focus the work-up:
+> - **Classic FUO:** the presentation above in an otherwise non-hospitalised, non-neutropenic, HIV-negative patient.
+> - **Nosocomial FUO:** fever developing in a hospitalised patient, not present or incubating on admission, with no diagnosis after 3 days of appropriate investigation — differential shifts toward hospital-acquired infection (line infection, C. difficile, drug fever, post-operative complications, DVT/PE).
+> - **Neutropenic FUO:** fever in a patient with a significantly low neutrophil count — a genuine emergency requiring urgent empirical broad-spectrum antibiotics rather than an unhurried diagnostic work-up (see [[10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies]] Neutropenic sepsis for the AU-verified acute management approach, not repeated here) — the diagnostic-approach framework below applies once the acute emergency has been addressed, not instead of it.
+> - **HIV-associated FUO:** fever of >4 weeks (outpatient) or >3 days (inpatient) in a person with confirmed HIV infection — differential shifts toward opportunistic infection (see [[04_Neurology]] CNS Infections Associated with Immunosuppression for relevant AU-verified detail, not repeated here) and HIV-associated malignancy.
+
+**Causes — broad categories, genuinely useful as a mental checklist given the range is wide:**
+- **Infection** (the single largest category in most series) — TB (including extrapulmonary), abscess (intra-abdominal, dental, or elsewhere occult), infective endocarditis, osteomyelitis, and a wide range of less common infections guided by specific risk factors/exposures.
+- **Malignancy** — lymphoma classically, but also leukaemia, renal cell carcinoma (hypernephroma), atrial myxoma, and other occult malignancies.
+- **Autoimmune/rheumatological/inflammatory** — connective tissue disease, vasculitis (see [[12_04_Rheum_-_Vasculitis]], not repeated here), adult-onset Still's disease, giant cell arteritis (particularly relevant in patients >50 given the genuinely serious visual-loss risk if missed — screen specifically for headache, jaw claudication, scalp tenderness, and visual symptoms in this age group).
+- **Miscellaneous** — drug fever (a genuinely easy-to-miss cause, since it requires actively reviewing the medication list rather than assuming a new diagnosis), thromboembolic disease, endocrine causes, and a substantial proportion of cases that remain undiagnosed even after thorough work-up (a reasonable minority of cases resolve spontaneously without ever reaching a specific diagnosis).
+
+**Approach — disciplined and stepwise, not a reflexive battery of tests:**
+1. **Confirm true fever** — document measured temperatures (not just patient-reported subjective fever), review the pattern, duration, associated rigors/sweats, and response to antipyretics; a fever diary is genuinely useful here.
+2. **Repeat a full history and examination** — specifically revisit medications (drug fever), exposures (travel, animals, insects/ticks, occupational), and repeat the physical exam given findings can evolve or be initially missed; targeted history clues matter — e.g. weight loss *without* anorexia points more toward infection, while weight loss *with* anorexia points more toward malignancy.
+3. **Targeted, risk-guided investigation rather than an indiscriminate panel:** blood cultures ×3 (particularly if endocarditis, bacteraemia, an indwelling line, or prosthetic material is a possibility); FBC, inflammatory markers, LFTs, U&Es; HIV and hepatitis serology, TB testing (noting TST/IGRA cannot distinguish active from latent TB) based on risk; CT chest/abdomen/pelvis or targeted imaging for occult malignancy, abscess, lymphadenopathy, or TB; echocardiography if endocarditis risk or positive blood cultures; ferritin, ANA/ENA, ANCA, complement — only when the history/examination genuinely supports an inflammatory/rheumatological cause, not ordered by default for every case.
+4. **Tissue diagnosis** where imaging or clinical suspicion points to a specific target — excisional lymph node biopsy, bone marrow biopsy, abscess drainage, or organ biopsy.
+5. **Specialist referral** (infectious diseases or general/internal medicine) for persistent unexplained fever, TB or endocarditis concern, or unusual exposures — genuinely appropriate given the breadth of this differential.
+
+**Mx:** **stable patients do not automatically need empirical antibiotics** — a genuinely important principle, given the temptation to treat empirically can obscure the underlying diagnosis (e.g. partially treating an infection without curing it, making subsequent cultures falsely negative) without addressing the actual cause; the highest-yield action is targeted, risk-guided investigation with repeated reassessment over time, not reflexive treatment. Treat the underlying cause once identified. Neutropenic FUO is the clear exception, requiring urgent empirical treatment as above, not repeated here.
+
+## Approach to Fever in the Returned Traveller
+
+> [!warning] FLAG 2026-09-01 — same topic twice in this file
+> `K1 §0.4 Fever in the Returning Traveller` covers the same presentation.
+> Part of a nine-section fever cluster across four sources in this file. Pair marked, not merged.
+
+> [!note] Gap-filled from CSV ("Return traveller fever," Medium yield) — the individual travel-related diseases (Malaria, Dengue fever, Yellow fever, Enteric fever/typhoid, Leptospirosis, Schistosomiasis, Trypanosomiasis) are all built across this project's Infectious Disease files, and the history-taking approach is already established in [[History-Taking]] Fever and Suspected Infection (the travel-history block within itected Infection entry) — this entry adds the organising framework that ties the differential together, given incubation period is genuinely one of the most useful ways to narrow it. Not repeated here: the individual disease-level Ix/Mx detail, or the history-taking questions themselves.
+
+**The single most important principle, worth stating before any framework: malaria must be actively excluded in any febrile returned traveller from an endemic area, regardless of how mild the presentation looks or how unlikely malaria seems** — falciparum malaria can deteriorate rapidly and unpredictably, and this exclusion should happen early rather than only after other causes have been worked through.
+
+**Organising the differential by incubation period — genuinely useful given it can substantially narrow the list based on the travel timeline alone:**
+
+> [!info] Short incubation (<10 days)
+> Dengue fever (see [[08_05-06_Infectious_Disease_-_Viral_Infections]] Dengue fever, not repeated here); chikungunya; most bacterial gastroenteritis (see [[08_10_Infectious_Disease_-_Diarrhoea_DDx_and_Gastroenteritis]], not repeated here); early enteric fever/typhoid; rickettsial infections (e.g. spotted fever); yellow fever (see [[08_05-06_Infectious_Disease_-_Viral_Infections]] Yellow fever, not repeated here).
+
+> [!info] Medium incubation (10–21 days)
+> **Malaria** (see [[08_07_Infectious_Disease_-_Protozoan_Infections]] Malaria, not repeated here — genuinely the diagnosis that must never be missed regardless of which incubation band the presentation otherwise fits, given *P. falciparum* can present outside the classic timeline); enteric fever/typhoid (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Enteric fever (typhoid / paratyphoid), not repeated here); leptospirosis (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Leptospirosis, not repeated here); brucellosis.
+
+> [!info] Long incubation (>21 days)
+> Malaria (can still present this late, particularly *P. vivax*/*P. ovale* with their dormant liver-stage hypnozoites causing delayed relapse); tuberculosis; viral hepatitis; schistosomiasis (see [[08_07_Infectious_Disease_-_Protozoan_Infections]] Schistosomiasis, not repeated here — acute Katayama syndrome specifically has a longer latency after freshwater exposure); amoebic liver abscess; HIV seroconversion illness.
+
+**Practical points beyond the incubation-period framework:**
+- **Non-travel causes remain part of the differential** — a returned traveller can still have a completely unrelated, locally-acquired cause of fever, and travel history shouldn't crowd out the standard differential entirely, particularly if the timeline or exposure pattern doesn't fit a travel-related cause.
+- **Specific exposures narrow the differential further than destination alone** — freshwater swimming (schistosomiasis, leptospirosis), animal contact (brucellosis, rabies exposure), insect/tick bites, sexual contact, food and water sources, and healthcare contact abroad (antimicrobial-resistant organism risk) — see [[History-Taking]] Fever and Suspected Infection for the travel-history questions that elicit these, not repeated here.
+- **Malaria prophylaxis adherence doesn't exclude malaria** — no chemoprophylaxis regimen is 100% effective, and poor adherence is common; malaria should still be actively tested for (thick and thin blood films, or rapid antigen testing) in a febrile returned traveller from an endemic area regardless of reported prophylaxis use.
+
+## Nematode infections
+
+- ***Ancylostoma braziliense*** — most common cause of cutaneous larva migrans; Central/South America.
+- ***Strongyloides stercoralis*** — percutaneous entry, e.g. walking barefoot. Causes pruritus and larva currens (similar appearance to cutaneous larva migrans, but moves through the skin at a far greater rate). Abdominal pain, diarrhoea, pneumonitis. May cause Gram -ve septicaemia due to carrying of bacteria into the bloodstream. Eosinophilia sometimes seen.
+  - **Mx:** thiabendazole, albendazole, ± ivermectin (especially chronic infection).
+- ***Toxocara canis*** — spread by ingesting eggs from soil contaminated by dog faeces. Commonest cause of visceral larva migrans. Eye granulomas, liver/lung involvement.
+
+## Threadworms (pinworms)
+
+- **A/P:** *Enterobius vermicularis*. Spread by ingesting eggs. Affects children.
+- **S/Smx:** asymptomatic in 90%. Perianal itching, especially at night. Girls may have vulval symptoms.
+- **Dx:** usually clinical. If confirmation needed, apply tape to the perianal area ("swab") and send for microscopy to find eggs.
+- **Mx:** antihelminthic for the whole household — mebendazole (single dose), with hygiene measures.
+
+## Antimicrobial side effects
+
+| Drug | Key side effects |
+|---|---|
+| Metronidazole | Disulfiram-like reaction with alcohol; ↑anticoagulant effect of warfarin |
+| Rifampicin | RNA polymerase inhibitor; potent P450 inducer; red urine; hepatitis; flu-like symptoms |
+| Cotrimoxazole | Hyperkalaemia; headache; rash (including Stevens-Johnson syndrome) |
+| Vancomycin | Nephrotoxicity; ototoxicity; thrombophlebitis; red man syndrome |
+| Aminoglycosides | Haematologic SE including agranulocytosis; ototoxicity |
+| Tetracyclines (e.g. doxycycline) | Tooth discolouration — avoid in <12yo, pregnancy, breastfeeding; photosensitivity; angioedema; black hairy tongue |
+| Trimethoprim | Myelosuppression; transient ↑creatinine (competitive inhibition, not true renal impairment); teratogenic risk in 1st trimester — avoid in pregnancy |
+
+---
+
+## Notifiable Diseases in Australia — What "Notifiable" Actually Means
+
+> [!note] Gap-filled — "Notifiable disease" appears as a bare flag on at least 7 separate conditions scattered throughout this project (measles, mumps, pertussis, diphtheria, and others), but nowhere is the underlying system explained. This entry fills that gap. ("Notifiable diseases & public health reporting" is explicitly a High-yield CSV item, filed under a not-yet-uploaded Public Health category — but the concept is already load-bearing content throughout this project's existing disease entries, exactly analogous to how MMSE/MoCA needed explaining despite being filed under a separate Geriatrics category, addressed elsewhere in this project.) Verified against SA Health's notifiable disease reporting requirements and the Australian CDC's National Notifiable Diseases Surveillance System (NNDSS) overview, Aug 2026.
+
+**The core system:** the **National Notifiable Diseases Surveillance System (NNDSS)** coordinates national surveillance data for a legislated list of over 70 diseases that present a risk to public health (the National Notifiable Disease List). Each state and territory runs its own notification and public health response under its own legislation — in South Australia, this is the **South Australian Public Health Act 2011** — with de-identified data supplied daily to the national system for collation and analysis. The purpose is genuinely practical, not just administrative: enabling early public health action (contact tracing, outbreak identification, targeted intervention) and informing public health policy (e.g. the National Immunisation Program).
+
+**Who must notify, and how:** in South Australia, **both medical practitioners and laboratories** are legally required to notify each episode of a notifiable condition to the Communicable Disease Control Branch (CDCB) — notification is not solely the laboratory's responsibility, and a clinician's own suspected/clinical diagnosis can itself trigger the requirement even before laboratory confirmation.
+
+**Timeframe — genuinely two-tiered, not a single blanket rule:**
+- **Most notifiable conditions:** notify **within 3 days** of suspecting or confirming the diagnosis — this is the routine/default timeframe, typically via the online notification form.
+- **Selected conditions requiring urgent public health action** (e.g. those with high transmission risk or outbreak potential — meningococcal disease is the classic example, given the time-critical need for contact prophylaxis) are **phone-notifiable**, meaning immediate telephone notification is required rather than waiting for the standard 3-day written process — this distinction matters clinically, since treating every notifiable disease as equally urgent both over- and under-responds depending on the specific condition.
+
+**Practical relevance to this project's content:** every condition flagged "Notifiable disease" throughout the Infectious Disease, Dermatology, and Paediatrics files (e.g. measles, mumps, pertussis, diphtheria — see the individual entries for the specific flags, not repeated here) falls under this same system — the flag itself is a prompt to notify per the framework above, not a separate requirement unique to each disease. **A genuinely useful exam-relevant principle: notification is based on clinical/reasonable suspicion, not confirmed diagnosis** — waiting for definitive laboratory confirmation before notifying a condition that's already clinically apparent defeats the purpose of early public health action, particularly for conditions on the phone-notifiable/urgent list.
 
 
 <!-- ===== SOURCE: K3_Exposure__Tuberculosis__HIV_and_Immunodeficiency.md ===== -->
@@ -2110,6 +1097,1090 @@ Organism-specific therapy with infectious diseases involvement, and prolonged th
 
 > [!note] Cross-references
 > Fever workup and the returning traveller → [[K1]] 0.2, 0.4 · Febrile neutropenia and the immunocompromised → [[K1]] 0.5 · Bites, bat exposure and Buruli ulcer → [[K2]] 0.5 · Meningococcal disease and complement deficiency → [[F0.3]] 0.9 · Post-splenectomy prophylaxis → [[C1]] 0.5 · Meningitis and encephalitis → [[D1]] 0.5 · Severe CAP and melioidosis → [[F0.5]] 0.4 · Immunotherapy toxicity → [[A5]] 0.7 · Allergy, anaphylaxis and alpha-gal → [[F0.1]] 0.9 and [[K4]] · STI screening, PrEP and sexual health → [[O6]] · Sexual assault and safeguarding → [[GER4]] · Immunisation and preventive health → [[GER3]] · Australian health context and ATSI health → [[AU1]]
+
+
+<!-- ===== SOURCE: 08_10_Infectious_Disease_-_Diarrhoea_DDx_and_Gastroenteritis.md ===== -->
+
+
+## Diarrhoea — differential diagnosis
+
+> [!info] Infectious: non-inflammatory
+> - **Viruses:** Norwalk virus, rotavirus, adenoviruses, astrovirus, coronavirus
+> - **Preformed toxin (food poisoning):** *Staph aureus*, *Bacillus cereus*, *Clostridium perfringens*
+> - **Toxin production:** enterotoxigenic *E. coli*, *Vibrio cholerae*, *Vibrio parahaemolyticus*
+> - **Protozoa:** *Giardia lamblia*, *Cryptosporidium*, *Cyclospora*, *Isospora*
+
+> [!info] Infectious: inflammatory / invasive
+> *Shigella*, *Salmonella*, *Campylobacter*, enteroinvasive *E. coli*, *E. coli* O157:H7, *Yersinia enterocolitica*, *C. difficile*, *Entamoeba histolytica*, *N. gonorrhoeae*, *Listeria monocytogenes*
+
+> [!info] Non-infectious causes
+> - **Inflammatory:** ulcerative colitis, Crohn's disease
+> - **Malabsorption:** coeliac disease, radiation, blind loop syndrome, short bowel syndrome
+> - **Neoplastic:** carcinoma, villous adenoma
+> - **Other intestinal:** diverticular disease, irritable bowel syndrome, faecal impaction (overflow diarrhoea), ischaemic colitis (⚠️), ileocolic fistula
+> - **Gastric:** post-vagotomy
+> - **Pancreatic:** chronic pancreatitis, cystic fibrosis, carcinoma ± pancreatic resection
+> - **Endocrine:** diabetes, thyrotoxicosis, carcinoid syndrome, Zollinger-Ellison syndrome, VIPoma, medullary thyroid cancer
+> - **Drug-induced:** antibiotics, laxatives, magnesium-containing antacids, cytotoxic agents
+> - **Others:** anxiety, diet
+
+## Gastroenteritis — causes, sorted by incubation time
+
+*(Table adapted from Oxford Handbook of Clinical Specialties)*
+
+| Organism / source | Incubation | Source of infection | Diarrhoea | Vomiting | Abdo pain | Fever | Other features |
+|---|---|---|---|---|---|---|---|
+| Heavy metals (e.g. zinc) | 5min–2h | Work exposure, paint, etc | | ✓ | | | Delayed fever, flu-like features |
+| Scrombotoxin | 10–60min | Fish (e.g. tuna, mackerel) | | | | | Flushing, sweating |
+| Mushrooms | 15min–24h | Mushrooms | | ✓ | ✓ | | Fits, coma, LFT derangement |
+| Red beans | 1–3h | Red beans | ✓ | ✓ | | | |
+| Bacillus cereus | 1–5h | Rice | ✓ | ✓ | | | Vomiting-type onset within 6h; diarrhoeal type onset after 6h |
+| Staph aureus | 1–6h | Meat | ✓ | ✓ | ✓ | | Hypotension |
+| Campylobacter | 2–5h | Milk, poultry, water | ✓ (bloody) | | ✓ | ✓ | Peritonism; flu-like prodrome; associated with Guillain-Barré |
+| Vibrio cholerae | 2h–5d | Water | ✓ (profuse) | | | ✓ | Rapid dehydration |
+| E. coli — enterotoxigenic | 6–48h | Water, food, soil | ✓ | ✓ | ✓ | | "Traveller's diarrhoea" |
+| C. perfringens | 8–24h | Meat | ✓ | | ✓ | | |
+| Vibrio parahaemolyticus | 12–24h | Seafood | ✓ (profuse) | ✓ | ✓ | | |
+| C. botulinum | 12–36h | Processed food | | ✓ | | | Paralysis |
+| Salmonella | 12–48h | Meat, eggs, poultry | ✓ | | ✓ | ✓ | Septicaemia |
+| Norovirus (Norwalk virus) | 12–48h | Faecal-oral | ✓ | ✓ (projectile) | ✓ | ✓ | "Winter vomiting illness"; remains contagious 48h after symptoms resolve |
+| E. coli O157:H7 — enterohaemorrhagic | 12–72h | Water, food, soil | ✓ (bloody) | | ✓/− | | Typhoid-like features; haemolytic uraemic syndrome |
+| E. coli — enteropathogenic | 12–72h | Water, food, soil | ✓ | ✓ | | | Especially in infants |
+| Y. enterocolitica | 24–34h | Milk | ✓ | ✓ | | ✓ | |
+| C. difficile | 1–7d | Antibiotic-associated / hospital-acquired | ✓ (bloody) | | ✓ | | Gut perforation, toxic megacolon |
+| Rotavirus | 1–7d | Food/water | ✓ | ✓ | | ✓ | Malaise |
+| Shigella | 2–3d | Any food | ✓ (bloody) | | ✓ | ✓ | Headache, neck stiffness |
+| Listeria monocytogenes | 2–9d | Cheese, pâtés | ✓ | ✓ | | ✓ | Meningoencephalitis, flu-like symptoms, miscarriages |
+| Cryptosporidium | 4–12d | Cow → water → man | ✓ (in HIV) | | | | |
+| Giardia lamblia | 1–4w | Nappies, cats, dogs, crows | ✓ | | | | Malabsorption; prolonged course |
+| Entamoeba histolytica | 1–4w | Food/water | ✓ (bloody) | | ✓ | | Weight loss; can affect other organ systems |
+
+> [!info] Verified against the Australian NNDSS gastrointestinal diseases category (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia) for the full AU-specific framework, not repeated here) — the underlying point holds for Australia too: all 5 organisms listed are notifiable, with **campylobacteriosis specifically confirmed as the most commonly notified gastrointestinal disease in Australia**. They fall under Australia's "gastrointestinal diseases" NNDSS category rather than a UK-style single flat list, and enterohaemorrhagic *E. coli*/HUS and shigellosis are both separately listed on the Australian gastrointestinal notifiable disease list too. *C. difficile* and *Entamoeba histolytica* notifiability can vary by state/territory (notifiable diseases lists aren't perfectly uniform across Australian jurisdictions) — check the specific state/territory list if this distinction matters for a specific context, but the general teaching point (these are bloody-diarrhoea-causing organisms subject to public health surveillance) holds regardless.
+
+## Cross-references — other infections covered elsewhere in this project
+
+- Ascending cholangitis — see [[03_Gastrointestinal]] Ascending Cholangitis.
+- Breast abscess / mastitis — see [[08_09_Infectious_Disease_-_Miscellaneous]] Mastitis and Breast Abscess.
+- Conjunctivitis — see [[05_Ophthalmology]] Conjunctivitis.
+- Croup — see [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]] Croup (laryngo-tracheo-bronchitis).
+- Cutaneous warts — see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Viral warts.
+- Encephalitis — see [[04_Neurology]] Encephalitis (under CNS Infections).
+- Epididymo-orchitis — see [[07_Renal_Medicine_and_Urology]] Epididymitis.
+- Folliculitis — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Folliculitis.
+- Head lice — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Head lice (pediculosis capitis).
+- Infective endocarditis — see [[01_Cardiovascular]] 0.31 Infective Endocarditis.
+- LRTI / pneumonia — see [[02_Respiratory]] Pneumonia.
+- Meningitis — see [[04_Neurology]] Bacterial Meningitis and Viral Meningitis (under CNS Infections).
+- Septic arthritis — see [[11_01_Ortho_-_Orthopaedic_Emergencies]] Septic arthritis.
+- Spontaneous bacterial peritonitis — see [[03_Gastrointestinal]] Spontaneous bacterial peritonitis (SBP).
+- Tinea / dermatophyte infections — see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Tinea / Dermatophyte infections.
+- Tuberculosis — see [[02_Respiratory]] Tuberculosis.
+- Varicella zoster (chickenpox) — see [[09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa]] Varicella zoster virus (VZV) / chickenpox.
+- Vaginal candidiasis / thrush — not yet built in this project (no dedicated Gynaecology/Sexual Health category uploaded yet covering this specifically).
+
+
+<!-- ===== SOURCE: 08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs.md ===== -->
+
+
+> [!note] **Moved to `[[History-Taking]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `The STI Check — Sexual History, What to Test, and When`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[History-Taking]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
+## Chlamydia
+
+- **A/P:** obligate intracellular *Chlamydia trachomatis*.
+
+> [!info] Verified against Australian STI notification data (Queensland Health, Victorian Department of Health) and STI Guidelines Australia, Aug 2026 — chlamydia is confirmed as the most commonly notified STI in Australia too (not a UK-specific fact), so the general point holds, but the specific "~1 in 10 young women" UK figure shouldn't be quoted as an Australian statistic. Australian-specific data: chlamydia is the **most frequently notified condition of any kind** (not just STIs) in Australia; highest notification rates are in the 15–29yo age group (RACGP recommends annual testing for all sexually active people in this age band, both sexes) and are substantially higher among Aboriginal and Torres Strait Islander people specifically (pooled prevalence estimates around 22% in Indigenous women <25yo attending sexual health clinics, several-fold higher than the general population).
+
+- **S/Smx:** asymptomatic in 70% of females and 50% of males; incubation 7–21 days.
+  - Females: cervicitis (discharge, bleeding), dysuria.
+  - Males: urethral discharge, dysuria.
+- **Ix:** NAAT using urine (first void) in males, vulvovaginal swab in females — carried out 2 weeks post-exposure.
+> [!danger] **Correction — this file carried a regimen that had already been corrected in another file and never propagated here.** [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Chlamydia trachomatis was corrected in an earlier round against the WA Health *Quick guide to STI and BBV management*, and the same wrong regimen ("azithromycin 3 days") was left standing here — in the file that is the corpus's primary STI reference. Re-verified against **STI Guidelines Australia** (the Australian STI management guidelines for primary care), Aug 2026.
+> - **First-line: doxycycline 100mg PO BD for 7 days.** Doxycycline is now explicitly preferred over azithromycin in Australia, on evidence of superior efficacy — particularly at **non-genital sites** (anorectal and pharyngeal), which matters because those sites are frequently untested and doxycycline covers them.
+> - **Alternative: azithromycin 1g PO as a single dose** — *not* a 3-day course. Reserve it for isolated genital infection where other sites have tested negative, or where adherence to a 7-day course is a genuine concern (which is the one real advantage single-dose therapy has).
+> - **In pregnancy: azithromycin 1g single dose**, since doxycycline is contraindicated.
+
+- **Mx:** **doxycycline 100mg PO BD for 7 days** (first-line); **azithromycin 1g PO single dose** as the alternative; in pregnancy — **azithromycin 1g single dose**.
+
+> [!info] Verified against STI Guidelines Australia (sti.guidelines.org.au), Aug 2026 — the Australian partner notification (contact tracing) window for chlamydia is genuinely different from the UK figures this entry originally carried. **(Step 12 fix, N7 pass: this box previously said "the UK figures below" three times, but the UK figures had already been removed when the entry was localised — the box was pointing at content that no longer existed. The Australian figures are now stated on their own terms.)**
+> - **Advise no sex with partners from the last 6 months** until those partners have been tested and treated if necessary. This is a **materially longer lookback window than the UK equivalent**, and — the more important structural difference — it applies **regardless of the patient's symptom status**, rather than setting a different window for symptomatic men than for everyone else.
+> - Test of cure by NAAT (only needed in specific situations, e.g. pregnancy, or where non-first-line treatment was used) should be performed no earlier than 4 weeks post-treatment, to avoid a false positive from residual chlamydia DNA.
+> - Retesting at 3 months is recommended to detect reinfection, distinct from test-of-cure.
+> - Patient-delivered partner therapy (allowing the patient to pass treatment directly to partners without those partners attending a clinic first) is available in some Australian jurisdictions (Victoria, NSW, NT) — a specific Australian contact-tracing mechanism with no direct UK equivalent.
+
+- **Complications:** epididymitis; pelvic inflammatory disease (PID) → perihepatitis (Fitz-Hugh-Curtis syndrome); endometritis; infertility; ↑risk of ectopic pregnancy; reactive arthritis.
+
+## Gonorrhoea
+
+- **A/P:** Gram -ve diplococcus *Neisseria gonorrhoeae*.
+- **S/Smx:** genitourinary, rectal, pharyngeal sites; incubates 2–5 days.
+  - Male: urethral discharge, dysuria.
+  - Female: cervicitis, vaginal discharge.
+  - Rectal and pharyngeal infection: usually asymptomatic.
+- **Ix:** swabs (NAAT and culture).
+> [!danger] **Correction — the same un-propagated correction as for chlamydia above, and this one was a double dose.** [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Gonorrhoea already carried this correction; this file did not. Re-verified against **STI Guidelines Australia** and the ASHM/CDNA gonococcal treatment recommendations, Aug 2026.
+> - **The structural point first: Australian first-line is dual therapy given together, not a choice between single agents.** The previous "IM ceftriaxone 1g, **or** PO cefixime + azithromycin" got both the dose and the structure wrong.
+> - **Ceftriaxone 500mg IM** (suspended in 2mL of 1% lignocaine — the injection is painful without it) **plus azithromycin 1g PO**, as one treatment, for uncomplicated anogenital infection. The former "1g" was **double** the Australian dose.
+> - **Pharyngeal infection: the azithromycin dose increases to 2g**, ceftriaxone unchanged at 500mg. *Mechanism:* drug penetration to pharyngeal mucosa is poorer, which makes the pharynx the most likely site of treatment failure and the most likely place resistance emerges.
+> - **Cefixime is not Australian first-line** and cefixime-resistant *N. gonorrhoeae* is documented in Australia. The reason dual therapy exists at all is to raise a pharmacological barrier to resistance, so substituting a single agent defeats its purpose.
+
+- **Mx:** **ceftriaxone 500mg IM (in 1% lignocaine) plus azithromycin 1g PO, given together** — uncomplicated genital or anorectal infection. **Pharyngeal:** same ceftriaxone dose, azithromycin increased to **2g**.
+- **Complications:** urethral strictures, epididymitis, salpingitis → infertility. Disseminated gonococcal infection — tenosynovitis, migratory polyarthritis, dermatitis (maculopapular/vesicular).
+
+*(see also [[08_05-06_Infectious_Disease_-_Viral_Infections]] Herpes simplex virus (HSV))*
+
+## Mycoplasma genitalium
+
+> [!note] Gap-filled from CSV ("Mycoplasma genitalium," Low yield) — genuinely absent despite being an increasingly recognised cause of non-gonococcal urethritis/cervicitis and a topic of growing clinical relevance given emerging antibiotic resistance.
+
+- **A/P:** *Mycoplasma genitalium* — a small, cell-wall-deficient bacterium (explaining its intrinsic resistance to beta-lactam antibiotics, which target cell wall synthesis — a genuinely important point given it rules out the usual first-line STI antibiotic classes).
+- **S/Smx:** often asymptomatic in both sexes; when symptomatic, causes non-gonococcal urethritis in men (discharge, dysuria) and cervicitis in women (discharge, post-coital bleeding, pelvic pain) — clinically difficult to distinguish from chlamydia without specific testing.
+- **Ix:** NAAT specifically for *M. genitalium* (*why:* not covered by standard chlamydia/gonorrhoea NAAT panels, so requires a specific test request — worth knowing given a patient with persistent urethritis/cervicitis symptoms after chlamydia/gonorrhoea have been excluded or treated should prompt specific *M. genitalium* testing; *what:* confirms the diagnosis). **Macrolide resistance testing is routinely performed alongside diagnostic testing where available**, given how common resistance has become (see Mx below).
+- **Mx:** **doxycycline is used first, followed by a macrolide (typically azithromycin) if macrolide-sensitive on resistance testing** — this sequential/resistance-guided approach reflects genuinely high and rising macrolide resistance rates in *M. genitalium*, meaning empirical azithromycin monotherapy (as might be used for chlamydia) is increasingly unreliable and can select for further resistance if used inappropriately. For confirmed macrolide-resistant infection or treatment failure, moxifloxacin is used, again ideally guided by resistance testing given emerging fluoroquinolone resistance too. **Partner notification and treatment** as for other STIs — see Chlamydia above for the general AU-specific partner notification window, not repeated here.
+
+## Trichomonas vaginalis
+
+- **S/Smx:** vaginal discharge — offensive, yellow/green, frothy. Vulvovaginitis with "strawberry cervix". pH >4.5. In males — often asymptomatic or urethritis.
+- **Ix:** microscopy of wet mount shows motile trophozoites.
+- **Mx:** **PO metronidazole 400mg BD for 7 days, or a one-off 2g dose** — the multi-day option's dose was previously missing here and stated only inside a verification box in [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Trichomonas vaginalis (WA Health, 2026). Treat sexual partners.
+
+## Bacterial vaginosis
+
+- **A/P:** anaerobic *Gardnerella vaginalis* overgrowth. Affects women.
+- **MOA:** overgrowth of *G. vaginalis* leads to a fall in aerobic lactobacilli producing lactic acid → ↑pH → problems.
+
+> [!info] Amsel's criteria for diagnosis of BV (≥3 of 4 required)
+> - Thin, white homogenous discharge
+> - Clue cells on microscopy — stippled vaginal epithelial cells
+> - Vaginal pH >4.5
+> - Positive whiff test (addition of KOH results in fishy odour)
+
+- **Mx:** PO metronidazole for 5–7 days (70–80% initial cure, relapse >50% within 3 months); alternatively topical metronidazole or topical clindamycin.
+- **Complications in pregnancy:** preterm labour, low birth weight, chorioamnionitis, late miscarriage. Still treat with low-dose PO metronidazole.
+
+## Genital herpes
+
+> [!note] See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Genital herpes for a complementary, slightly more detailed version of this entry (specific analgesic options, immunocompromised dosing), not repeated here.
+
+- **A/P:** HSV1, HSV2.
+- **S/Smx:** painful genital ulceration, associated with dysuria and pruritus. Primary infection often more severe than recurrent episodes — systemic features (headache, fever, malaise) more common in the primary episode. ± tender inguinal lymphadenopathy, urinary retention.
+- **Ix:** NAAT; ± HSV serology.
+- **Mx:** saline bathing, analgesia, topical anaesthetic agents; PO aciclovir (some patients benefit from a longer course).
+- **In pregnancy:** elective C-section if the primary episode occurs **within 6 weeks of the due date** (not 28 weeks — corrected to match the figure already established and verified in [[16_06-07_Ante-Perinatal_Infections]], given the two entries previously stated genuinely different thresholds). In women with recurrent episodes, treat with suppressive therapy — low transmission risk.
+
+## Syphilis
+
+- **A/P:** *Treponema pallidum*.
+
+> [!info] Staging of syphilis
+> **Primary stage:** chancre (painless), local non-tender lymphadenopathy.
+>
+> **Secondary stage (~6–10 weeks):** systemic — fevers, lymphadenopathy; rash on trunk, palms and soles; buccal "snail track" ulcers (30%); condylomata lata (painless, warty genital lesions).
+>
+> **Tertiary stage:** gummas (granulomatous lesions of skin and bone); ascending aortic aneurysms; general paralysis of the insane; tabes dorsalis (slow degeneration of nerves, ↓proprioception); Argyll-Robertson pupil — small, irregular pupils that do not constrict to light but do to accommodation (see [[05_Ophthalmology]] Argyll Robertson Pupil, not repeated here).
+
+- **Dx:** based on clinical features, serology, and microscopic exam.
+
+| Test type | Examples | Notes |
+|---|---|---|
+| Non-treponemal | RPR, VDRL | Quantifies antibody level; becomes negative after treatment. False positives in pregnancy, SLE/antiphospholipid syndrome, TB, leprosy, HIV, malaria |
+| Treponemal-specific | TP-EIA, TPHA | Qualitative only — reported as "reactive" or "non-reactive" |
+
+> [!tip] Negative non-treponemal test + positive treponemal test = successfully treated syphilis.
+
+- **Mx:** IM benzylpenicillin, or doxycycline. Monitor RPR/VDRL after treatment — a 4-fold ↓ in titres (e.g. 1:16 → 1:4) indicates adequate response.
+
+> [!tip] Jarisch-Herxheimer reaction — fever, rash, tachycardia in response to antibiotics; usually no treatment required.
+
+> [!danger] Congenital syphilis — a genuine, severe, actively current Australian public health emergency, not a historical footnote. Syphilis has been declared a **Communicable Disease Incident of National Significance in Australia since August 2025**, with infectious syphilis notifications more than doubling over the past decade and spreading beyond the originally-affected remote communities into urban and regional areas nationally. **Aboriginal and Torres Strait Islander people are disproportionately affected, with rates around 7 times higher than the non-Indigenous population** as of 2024, though the outbreak is genuinely no longer confined to any single group or region.
+> - **The human cost is severe and ongoing**: 91 cases of congenital syphilis were recorded in Australia between 2020 and 2025, with **33 infant deaths** — transmission from an infected pregnant person to their baby is one of the most serious, and most preventable, outcomes of this outbreak, given effective antenatal screening and treatment can prevent it entirely.
+> - **A genuinely important systemic failure point identified in the 2026 national response review**: a substantial proportion of affected infants' mothers had not received antenatal care at all, and some healthcare facilities were found to be working from outdated antenatal syphilis testing guidelines, or staff were unaware testing recommendations had changed — meaning gaps in care access and guideline currency, not just individual case management, are recognised contributors.
+> - **Current Australian antenatal screening recommendation**: syphilis testing at the **first antenatal contact**, with **repeat testing in the third trimester and again at birth** for women at high risk of infection or reinfection — genuinely more intensive than a single booking-visit screen, reflecting the active outbreak context; check current state/territory guidance given screening protocols continue to be revised as part of the national response.
+> - **Practical relevance:** given how much of this outbreak's harm is preventable through timely testing and treatment, a syphilis test should be considered part of a comprehensive STI screen more broadly in any sexually active patient from an at-risk group or region, not reserved only for symptomatic presentations — see [[16_06-07_Ante-Perinatal_Infections]] for the pregnancy-specific infection screening context this connects to, not repeated here.
+
+### Congenital syphilis
+
+- Blunted upper incisor teeth (Hutchinson's teeth), "mulberry" molars.
+- Rhagades (linear scars at the angle of the mouth).
+- Keratitis, saber shins, saddle nose, deafness.
+
+## Chancroid
+
+- **A/P:** Gram -ve *Haemophilus ducreyi*.
+- **S/Smx:** painful genital ulcer — sharply defined, ragged, undermined border. Unilateral, painful inguinal lymph node enlargement.
+- **Mx:** check for HIV; azithromycin 1g single dose. Treat sexual partners within the last 10 days (based on exposure, no testing required).
+
+## Lymphogranuloma venereum (LGV)
+
+- **A/P:** *Chlamydia trachomatis* serovariants L1, L2, L3. Risk groups: MSM, HIV+ve, tropical exposure.
+- **Staging:**
+  - Stage 1: small painless pustule which later becomes an ulcer.
+  - Stage 2: painful inguinal lymphadenopathy → fistulating buboes.
+  - Stage 3: proctocolitis.
+- **Mx:** doxycycline.
+
+## Donovanosis (granuloma inguinale)
+
+- **A/P:** *Klebsiella granulomatis*. Not common in the developed world.
+- **S/Smx:** small, painless, enlarging nodules on the area of contact (e.g. penis, labia, perineum); nodules burst open → fleshy, red ulcers with rolled edges.
+
+> [!danger] These ulcers bleed readily.
+
+- **Mx:** antibiotics (azithromycin, doxycycline, etc).
+
+## STI ulcers — summary DDx
+
+| | Painful | Painless |
+|---|---|---|
+| **Singular** | Chancroid | Chancre (syphilis) |
+| **Multiple** | Genital herpes (HSV) | LGV (small painless pustule → ulcer); genital herpes (HSV); *Klebsiella granulomatis* (donovanosis) |
+
+**Other causes of genital ulcers:** Behçet's disease; carcinoma.
+
+*(For candidiasis/thrush, see 17.07)*
+
+
+## Genital warts
+
+> [!note] See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Genital warts for the equivalent entry, not repeated in full here — content is consistent between both.
+
+- **A/P:** HPV 6 & 11 most commonly cause warts; HPV 16, 18, 33 are associated with cancer.
+- **S/Smx:** small (2–5mm) fleshy protuberances, slightly pigmented; may bleed or itch.
+- **Mx:** multiple, non-keratinised warts — topical podophyllum. Solitary, keratinised — cryotherapy or topical imiquimod. Can be resistant and recurrent; most clear without intervention within ~1–2 years.
+
+> [!info] **The prevention half, which this entry did not carry (N7 pass).** Genital warts is the one STI in this file with a **funded vaccine that has already changed its epidemiology in Australia**. **Gardasil 9 is given as a single dose at 12–13 years (Year 7) under the National Immunisation Program, with catch-up available to age 25** — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) for the schedule, not repeated here. It covers HPV 6 and 11 (the wart types above) as well as the oncogenic types, which is why the same vaccine sits behind both this entry and cervical screening (see [[17_09_Cervical__Vaginal_and_Endometrial_Cancer]] Cervical cancer screening). **Ask about HPV vaccination status as part of the STI check** — it is one of the few modifiable answers in a sexual history, and catch-up eligibility is routinely missed in the 18–25 age group.
+
+## Pubic lice (Pediculosis pubis)
+
+> [!note] Gap-filled from CSV ("Pubic lice," Low yield) — genuinely absent from the source notes.
+
+- **A/P:** infestation with *Pthirus pubis* (the pubic or "crab" louse), transmitted via close bodily/sexual contact, and occasionally via shared bedding/clothing.
+- **S/Smx:** pruritus in the pubic/perianal region (and occasionally other coarse body hair — eyelashes, eyebrows, axillary hair), worse at night; visible lice or nits (eggs) attached to hair shafts on close inspection; secondary excoriation from scratching.
+- **Ix:** clinical diagnosis, confirmed by direct visualisation of lice or nits on examination (sometimes with a magnifying glass/dermatoscope) — no laboratory test is typically needed.
+- **Mx:** topical permethrin or malathion applied to affected areas per product instructions, with a repeat application after 7 days to catch any newly-hatched lice from eggs that survived the first application; **treat all sexual partners from the preceding month**, given the sexually-transmitted nature of spread; wash bedding/clothing in hot water; **offer testing for other STIs**, given pubic lice acquisition implies a relevant sexual exposure and co-infection risk. Eyelash involvement specifically requires a different approach (e.g. petroleum jelly application) rather than the standard topical insecticides used elsewhere, given the need to avoid the treatment itself causing eye irritation/toxicity.
+
+<!-- ===== SOURCE: 08_01-03_Infectious_Disease_-_Bacterial_Infections.md ===== -->
+
+
+## Staphylococci
+
+- **A/P:** Gram +ve cocci, facultative anaerobe.
+- **S. aureus:** catalase +ve, coagulase +ve. Skin infections, abscesses, osteomyelitis, toxic shock syndrome. S. aureus pneumonia classically follows influenza (secondary bacterial pneumonia).
+- **S. epidermidis:** coagulase -ve. Central line infections, infective endocarditis.
+
+### Toxic shock syndrome
+
+- **A/P:** *S. aureus* producing TSST-1 superantigen toxin.
+
+> [!info] CDC diagnostic criteria for toxic shock syndrome
+> - Temperature ≥39°C
+> - SBP <90 mmHg
+> - Diffuse erythematous rash
+> - Desquamation of rash, especially palms and soles
+> - Involvement of ≥3 organ systems, e.g. GI (diarrhoea), mucous membrane erythema, renal failure, hepatitis, thrombocytopaenia, CNS involvement (confusion)
+
+- **Mx:** remove infection focus (e.g. retained tampon); IV fluids; IV antibiotics. Screen all admitted patients (elective and emergency) — swab nose, axilla, groin.
+
+### MRSA
+
+- **Suppression from carrier state:**
+  - Nose: mupirocin 2% in white soft paraffin, TDS for 5 days.
+  - Skin: chlorhexidine gluconate, daily for 5 days — apply all over, especially axillae, groin, perineum.
+- **Mx of infection:** vancomycin, teicoplanin, linezolid.
+
+> [!warning] Avoid due to resistance: rifampicin, macrolides, tetracyclines, aminoglycosides, clindamycin (monotherapy).
+
+## Streptococcus
+
+| Type | Haemolysis | Key associations |
+|---|---|---|
+| *Strep pneumoniae* | α-haemolytic (partial) | Pneumonia, meningitis, otitis media |
+| Group A Strep (*S. pyogenes*) | β-haemolytic (full) | Scarlet fever, pharyngitis, invasive disease |
+| Group B Strep (*S. agalactiae*) | β-haemolytic (full) | Neonatal sepsis (mother-to-child) |
+
+### Scarlet fever
+
+- **A/P:** *Strep pyogenes* (GAS). Spread by respiratory droplets or direct contact with nose/throat discharge. Peak age 2–6 years old (peak at 4).
+- **MOA:** erythrogenic toxin.
+- **S/Smx:** incubates 2–4 days.
+  - Fever for 24–48h.
+  - Malaise, headache, vomiting.
+  - Sore throat.
+  - Strawberry tongue.
+  - Rash — "pinhead" rash especially in flexures; flushed appearance; "sandpaper" texture.
+- **Dx:** clinical + throat swab.
+
+> [!warning] Notifiable disease.
+
+- **Mx:** PO penicillin V ×10 days, or azithromycin/clarithromycin. Children can return to school 24h after starting antibiotics.
+- **Complications:** otitis media; rheumatic fever (~20 days after infection, type II hypersensitivity); acute glomerulonephritis (~10 days after infection, type III hypersensitivity); rare invasive complications (bacteraemia, meningitis, necrotising fasciitis).
+
+### Centor criteria (sore throat)
+
+> [!warning] FLAG 2026-09-01 — ENT owns this, and the Australian caveat must travel with it
+> `ENT_merged 13_05a ## Sore throat` and `F3 §0.1 Sore Throat` own the presentation.
+> ⚠️ **`Cardio_merged §0.22 Rheumatic Fever` routes to the ENT entry and flags that Centor/FeverPAIN
+> thresholds do not apply the same way in Australia.** If these are ever reconciled, that caveat is the
+> thing most easily lost. Flagged, not moved.
+
+> [!info] Centor criteria
+> - Cervical lymphadenopathy
+> - Exudate (tonsillar)
+> - No cough
+> - Temperature (fever)
+>
+> Treat if 3–4 criteria met (32–56% of these isolate Strep).
+
+> [!danger] **This rule does not apply unmodified to patients at high risk of acute rheumatic fever — added by the L5 seam audit (2026-08-29), because this entry gave the threshold with no caveat while another file carried the caveat with no threshold.**
+>
+> **Centor and FeverPAIN were developed and validated in low-rheumatic-fever-risk populations.** They estimate the probability of *bacterial* pharyngitis to guide general antibiotic benefit — **they were never designed to estimate rheumatic fever risk**, and a patient can score low on Centor while still needing antibiotics to prevent a first or recurrent episode of ARF.
+>
+> **For Aboriginal and Torres Strait Islander patients, particularly in rural and remote northern and central Australia** — where ARF and rheumatic heart disease occur at among the highest documented rates in the world — **high ARF risk is an independent indication to treat, not a modifier of the score.** Applying "3–4 criteria" as written to that population means withholding antibiotics from the patients in whom untreated GAS pharyngitis carries the gravest consequence.
+>
+> The full caveat, its reasoning and the pointer to current Australian ARF/RHD guidance are in [[13_05a_ENT_-_Sore_Throat_and_Tonsillitis]] Sore throat (pharyngitis, tonsillitis, laryngitis) — not repeated here. See [[01_Cardiovascular]] 0.22 Rheumatic Fever and 0.22a Rheumatic Heart Disease (RHD) for the downstream disease this treatment prevents.
+
+### Group B Strep (*Streptococcus agalactiae*)
+
+- Mother-to-child transmission; 20–40% of mothers carry GBS in bowel flora.
+- **R (transmission risk factors):** premature birth, prolonged rupture of membranes, previous sibling with GBS infection, maternal pyrexia.
+- **Mx:** benzylpenicillin — **the dosing regimen is owned by [[16_06-07_Ante-Perinatal_Infections]]** (benzylpenicillin 3g IV loading, then 1.8g 4-hourly throughout labour, with **cephazolin** for non-anaphylactic penicillin allergy and **clindamycin** where there is a history of anaphylaxis — corrected from "vancomycin" by the Phase 4 close GBS check, 2026-08-29, to match the Safer Care Victoria-verified regimen in that entry), verified there against Safer Care Victoria and **not restated here**, so the two files cannot drift apart. Give intrapartum antibiotic prophylaxis (IAP) **≥4 hours before birth** where possible — that interval is what makes it effective.
+
+> [!info] Verified against RANZCOG's Group B Streptococcus guideline (updated 2019) and the Australian Government Pregnancy Care Guidelines, Aug 2026 — the Australian approach is structured genuinely differently from a single UK NICE-style risk-factor-only pathway: **Australia does not mandate one single national approach.** The Pregnancy Care Guidelines explicitly permit **either** universal antenatal culture-based screening (combined low vaginal ± anorectal swab at 35–37 weeks, or 3–5 weeks before anticipated delivery) **or** a risk-factor-based approach, with the specific choice left to individual organisational/maternity service policy — RANZCOG's position is that "all maternity services should have an established plan for prevention of early-onset GBS," without mandating which of the two approaches that plan uses. This is a genuinely different structure from a single NICE-style risk-factor-only pathway, so don't teach one approach as "the" Australian standard — the correct answer is that it depends on the specific service's policy. The underlying risk factors themselves (previous affected baby, preterm labour, prolonged rupture of membranes, maternal pyrexia) and the general IAP principle hold regardless of which screening strategy a given service uses; IAP should ideally be given ≥4 hours before birth per RANZCOG/CDC-consistent timing. **The bullets below previously opened "Universal screening not routine for all"** — the UK NICE position, asserted flatly and contradicting this box directly above it. Corrected during the G40 round (2026-08-29): the box was right about the structure and silent about the block beneath it, the fifth instance of that pattern.
+> **Which screening strategy applies depends on the maternity service's own policy — there is no single national Australian approach.** Services may use either:
+> - **Universal culture-based screening:** low vaginal ± anorectal swab at **35–37 weeks** (or 3–5 weeks before anticipated delivery); if positive, give IAP in labour.
+> - **Risk-factor-based screening:** no routine swab; IAP given on the risk factors below alone.
+>
+> **The risk factors that indicate IAP under either strategy:**
+> - GBS+ve in a previous pregnancy — ~50% carriage risk this pregnancy; offer IAP, or test in late pregnancy and give IAP if positive.
+> - Previous baby with early- or late-onset GBS disease: offer IAP.
+> - Preterm labour: offer IAP regardless of GBS status.
+> - Pyrexia during labour: IAP.
+
+---
+
+## Clostridioides difficile
+
+- **A/P:** Gram +ve rod, anaerobic, spore-forming, toxin-producing. Associated with hospitalisation / nursing home residence.
+- **R:** antibiotic exposure (especially clindamycin, cephalosporins), PPI use.
+- **S/Smx:** diarrhoea (classically very smelly), abdominal pain. If severe, toxic megacolon may develop.
+- **Ix:** WCC; stool sample for C. difficile toxin (diagnostic); blood culture not very useful — C. diff antigen only shows exposure.
+
+> [!info] Severity classification — criteria adapted from clinical parameters (WCC, creatinine, temperature, colitis signs) that are pharmacologically/physiologically driven and used similarly across international guidelines (IDSA/SHEA, ESCMID, ASID) — not a UK-specific classification despite originating from a UK source; relabelled here as general severity criteria rather than "Public Health England" branding.
+> - **Mild:** normal WCC
+> - **Moderate:** ↑WCC (10–15 ×10⁹); typically 3–5 loose stools/day
+> - **Severe:** ↑WCC (>15 ×10⁹); acute ↑creatinine (>1.5× baseline); temp >38.5°C; evidence of severe colitis (abdominal or radiological signs)
+> - **Life-threatening (fulminant):** hypotension, partial or complete ileus, toxic megacolon, CT evidence of severe disease
+
+> [!info] Verified against the Australasian Society for Infectious Diseases (ASID) 2025 updated CDI guidelines for Australia/NZ, Aug 2026 — the drug sequence below is already broadly aligned with current Australian practice, since ASID's key 2025 update was **replacing oral metronidazole with vancomycin as first-line for initial CDI** (a shift away from the older 2011 ASID position, where metronidazole was preferred first-line and vancomycin reserved for severe/recurrent disease) — the file's existing "PO vancomycin first-line" reflects the *current* rather than the superseded position, so this is a case where checking confirmed the note was already right rather than needing correction. Fidaxomicin's role is described by ASID as "emerging" (increasingly used, particularly for recurrence prevention) rather than unambiguously first-line the way some international (IDSA/SHEA, ESCMID) guidelines now frame it — worth knowing this nuance if comparing against international rather than Australian sources. FMT is specifically noted by ASID to reduce mortality in refractory severe/fulminant CDI, reinforcing its role for ≥2 previous episodes as below. Hypervirulent strains (PCR ribotype 027) have been specifically identified and tracked in Australia (originally prompting the first 2011 ASID guideline), so severe-disease surveillance/awareness is an established part of Australian practice, not just an international concern.
+
+- **Mx:** review current medicines.
+  - First episode: PO vancomycin ×10 days, or PO fidaxomicin; 3rd-line PO vancomycin ± IV metronidazole.
+  - Recurrent episode: within 12 weeks of symptom resolution — PO fidaxomicin; after 12 weeks — PO vancomycin or fidaxomicin.
+  - Life-threatening infection: PO vancomycin AND IV metronidazole; specialist advice re: surgery.
+  - Other options: bezlotoxumab, faecal microbiota transplant (consider if ≥2 previous episodes, or in refractory severe/fulminant disease given the mortality-reduction evidence above).
+  - Prevention: isolation in side room until no more episodes of diarrhoea for ≥48h + PPE + hand wash with soap (alcohol rub not effective against spores).
+
+---
+
+## Botulism
+
+- **A/P:** Gram +ve anaerobic *Clostridium botulinum* (serotypes A–G). Contaminated food (tinned food, honey), IVDU.
+- **MOA:** botulinum toxin is a neurotoxin that irreversibly blocks the release of ACh — affects bulbar muscles and the ANS.
+- **S/Smx:** flaccid paralysis (floppy), diplopia, ataxia, bulbar palsy.
+
+> [!tip] Patient is usually fully conscious with no sensory disturbance — helps distinguish from other causes of flaccid paralysis.
+
+- **Ix:** clinical diagnosis is usually made first, given the urgency of early antitoxin administration — mouse bioassay or PCR of serum/stool/food source can confirm toxin presence, but results shouldn't delay empirical treatment if the clinical picture is convincing.
+- **Mx:**
+  - **Immediate/acute:** botulism antitoxin — genuinely time-critical, given it is only useful if given early, before the toxin has bound to the presynaptic AChR (once bound, the effect cannot be reversed by antitoxin — only new toxin still circulating is neutralised); supportive care, including ventilatory support if respiratory muscles are affected, given this can be a genuine cause of respiratory failure.
+  - **Definitive:** identify and remove the source (e.g. wound debridement if wound botulism, stop the implicated food source).
+  - **Chronic/long-term:** recovery can take weeks to months as new neuromuscular junctions form, given the toxin's effect is only reversed by nerve terminal regeneration, not by clearance of bound toxin — supportive care and rehabilitation continue through this period.
+
+## Tetanus
+
+- **A/P:** *Clostridium tetani* producing exotoxin tetanospasmin. Spores in soil → wound / IVDU.
+- **MOA:** tetanospasmin prevents release of GABA.
+- **S/Smx:**
+  - Prodrome: fever, lethargy, headache.
+  - Trismus (lockjaw).
+  - Risus sardonicus — facial spasms.
+  - Opisthotonus — arched back, hyperextended neck.
+  - Spasms (e.g. dysphagia).
+- **Mx:**
+  - **Immediate/acute:** supportive care in a quiet, low-stimulus environment (external stimuli can trigger spasms), including ventilatory support if respiratory muscles/airway are affected — genuinely life-threatening given laryngospasm/respiratory failure risk; muscle relaxants (e.g. benzodiazepines) to control spasms; IM human tetanus immunoglobulin for high-risk wounds/unclear vaccination status, to neutralise circulating (not yet bound) toxin — the same time-critical "neutralise before binding" principle as botulinum and diphtheria antitoxin above.
+  - **Definitive:** metronidazole to eradicate the organism and halt further toxin production; wound debridement of the causative wound where identifiable, removing the anaerobic environment the organism needs to proliferate.
+  - **Chronic/long-term:** recovery can take weeks given the toxin's effect resolves only as new neurotransmission machinery is regenerated (the same underlying principle as botulism recovery above, though the toxins act via different mechanisms); ensure the vaccination schedule below is completed/updated as part of the same presentation, since tetanus does not confer natural immunity — a patient can be reinfected without immunisation.
+
+> [!info] Tetanus vaccination and wound management
+> - Complete course = 5 doses.
+> - Last dose <10 years ago: no vaccine or immunoglobulin required.
+> - Last dose >10 years ago: booster; if high-risk wound, + immunoglobulin.
+> - History incomplete or unknown: booster + immunoglobulin.
+
+## Other Clostridia
+
+- ***Clostridium perfringens*** — produces α-toxin (lecithinase). Causes gas gangrene and haemolysis.
+  - S/Smx: tender, oedematous skin; haemorrhagic blebs and bullae; crepitus on palpation.
+- ***Clostridium botulinum*** — see Botulism above. MOA: prevents acetylcholine release → flaccid paralysis.
+- ***Clostridioides difficile*** — see above (old name *Clostridium difficile*). MOA: exotoxin and cytotoxin, causing pseudomembranous colitis.
+
+*(Listeria as a standalone entry — including maternal listeriosis and food-borne transmission in pregnancy — is not yet built, pending an Obstetrics category upload; it is currently referenced only as a causative organism within relevant entries, e.g. neonatal sepsis and meningitis by age.)*
+
+---
+
+## Diphtheria
+
+- **A/P:** Gram +ve *Corynebacterium diphtheriae*. Contaminated water. Consider in visitors to Eastern Europe, Russia, Asia.
+- **MOA:** exotoxin inhibits protein synthesis.
+- **S/Smx:**
+  - Sore throat with "diphtheric membrane" (grey pseudomembrane on posterior pharyngeal wall).
+  - Bulky cervical lymphadenopathy — "bull neck".
+  - Neuritis, heart block.
+- **Ix:** culture of throat swab (Loeffler's media) (*why:* the key diagnostic test; *what:* confirms *C. diphtheriae*, though treatment shouldn't wait for culture confirmation if the clinical picture — membrane, bull neck — is convincing, given the toxin-mediated complications develop early).
+- **Mx:**
+  - **Immediate/acute:** diphtheria antitoxin — the priority, given it neutralises circulating (not yet cell-bound) toxin, similarly time-critical to botulism antitoxin above; airway assessment/management given the membrane can cause obstruction.
+  - **Definitive:** IM penicillin (or erythromycin) to eradicate the organism and halt further toxin production; isolation and contact tracing given this is a notifiable, highly transmissible disease. **Antitoxin and antibiotic are both given — they are not alternatives.** The only antitoxin dose in the corpus (10–30k U IM) sits in [[15_04a_Paeds_-_URTI_and_LRTI]] Diphtheria and is unverified; see `PENDING_GUIDELINE_CHECKS.md` **B57**.
+
+## Anthrax
+
+- **A/P:** Gram +ve *Bacillus anthracis*. Spread from animals — usually infected carcasses (sheep). Farmers, abattoir workers at risk.
+- **Toxins:** protective antigen; oedema factor (↑cAMP); lethal factor (toxic to macrophages).
+- **S/Smx:** painless black eschar, typically painless and non-tender; ± marked oedema; ± GI bleeding.
+- **Ix:** Gram stain and culture of the eschar/lesion (*why:* confirms the diagnosis and organism directly; *what:* Gram-positive rods, boxcar-shaped, on culture); blood cultures if systemic involvement suspected (*why:* screens for bacteraemia/inhalational or GI anthrax, which carry much higher mortality than cutaneous disease; *what:* may be positive in disseminated disease).
+- **Mx:** ciprofloxacin (or doxycycline). Further treatment — expert/infectious diseases advice, particularly for inhalational or GI anthrax given the significantly higher mortality and need for combination therapy/antitoxin in these forms.
+
+## Bacillus cereus
+
+- **A/P:** Gram +ve rod *Bacillus cereus*. From food (classically reheated rice), soil, water. Consider in the immunocompromised.
+- **Food poisoning syndromes:**
+  - Emetic syndrome — due to heat-stable exotoxin cereulide. Onset 0.5–6h after ingestion ± diarrhoea.
+  - Diarrhoeal syndrome — due to exotoxin haemolysin. Onset 8–16h. Crampy abdo pain and diarrhoea.
+  - Symptoms of both resolve within 24h.
+- **Other issues in immunosuppressed patients:** bacteraemia, endocarditis, MSK and CNS infections.
+- **Mx:** food poisoning — watch and wait. Other infections — β-lactamase-resistant penicillin + vancomycin.
+
+## Leprosy
+
+- **A/P:** *Mycobacterium leprae*, person-to-person spread. Degree of cell-mediated immunity determines type of leprosy developed.
+- **Lepromatous leprosy ("multibacillary")** — low cell-mediated immunity: extensive skin involvement (buttocks, face, limb extensors), symmetric nerve involvement.
+- **Tuberculoid leprosy ("paucibacillary")** — high cell-mediated immunity: limited skin disease, hair loss, asymmetric nerve involvement → hyperaesthesia.
+- **Ix:** skin biopsy with acid-fast staining (*why:* the definitive diagnostic test, directly visualising the organism and confirming the histological pattern; *what:* multibacillary disease shows numerous acid-fast bacilli on staining, given the low cell-mediated immune response fails to contain the organism; paucibacillary disease shows few or no visible bacilli, consistent with the more effective immune containment in this form — the bacillary load itself is part of what distinguishes the two forms, not just the clinical pattern). Slit-skin smear is an alternative/adjunct sampling method used in some settings.
+- **Mx:** multidrug therapy — rifampicin, dapsone, clofazimine — the specific combination and duration depends on multibacillary vs paucibacillary classification (multibacillary disease requires all three drugs and a longer course, paucibacillary disease may use a shorter two-drug regimen in some protocols), given single-agent therapy risks resistance development.
+
+## Escherichia coli
+
+- **A/P:** facultative anaerobic, lactose-fermenting Gram -ve rod; normal gut commensal.
+- Antigens: O (lipopolysaccharide); K (capsule) — associated with neonatal meningitis; H (flagellin).
+- **E. coli O157:H7** — found in contaminated ground beef.
+  - Severe, haemorrhagic watery diarrhoea → haemolytic uraemic syndrome.
+  - **Mx:** supportive care (fluids, monitoring for HUS) — **antibiotics and anti-motility agents (e.g. loperamide) should generally be avoided**, since they may increase the risk of HUS by increasing toxin release/absorption from dying bacteria — an important, easily-missed exception to the usual instinct to treat bacterial diarrhoea with antibiotics.
+
+## Klebsiella
+
+- **A/P:** Gram -ve; part of normal gut flora. *Klebsiella pneumoniae* causes aspiration pneumonia, seen in alcoholics and diabetics.
+- **S/Smx:** "red-currant jelly" sputum; often affects the upper lobe.
+- **P (prognosis):**
+
+> [!warning] Commonly causes lung abscess formation and empyema. Mortality 30–50%.
+
+## Campylobacter
+
+- **A/P:** Gram -ve rod *Campylobacter jejuni*. Faecal-oral route, incubates 1–6 days.
+- **S/Smx:** prodromal headache and malaise; bloody diarrhoea; abdominal pain mimicking appendicitis.
+- **Mx:** usually self-limiting, watch and wait. Treat if immunocompromised or severe — clarithromycin or ciprofloxacin.
+- **Complications:** associated with Guillain-Barré syndrome, reactive arthritis, septicaemia, endocarditis.
+
+## Enteric fever (typhoid / paratyphoid)
+
+- **A/P:** aerobic Gram -ve *Salmonella typhi* and *paratyphi* (types A, B, C). Faecal-oral route (contaminated food and water) — check travel history.
+- **S/Smx:** systemic (headache, fever, arthralgia), abdominal pain, distention.
+  - Relative bradycardia.
+  - Constipation more common than diarrhoea in typhoid.
+  - Rose spots on trunk in 40%, more common and a later sign in paratyphoid.
+- **Ix:** blood culture (*why:* the most sensitive test, particularly in the first week of illness before the organism becomes harder to isolate; *what:* positive in the majority of cases early in the illness course). Stool and urine culture (*why:* useful adjuncts, particularly later in the illness or to identify chronic carriage; *what:* may become positive as the illness progresses, given bacteraemia seeds these sites secondarily). FBC (*why:* screens for the characteristic haematological pattern; *what:* often shows a relative leucopenia, atypical for a bacterial infection and a useful distinguishing clue).
+- **Mx:**
+  - **Immediate/acute:** empirical antibiotics pending sensitivities — typically a fluoroquinolone or third-generation cephalosporin (e.g. ceftriaxone), given significant and geographically variable multidrug resistance (including fluoroquinolone resistance in parts of South Asia specifically) — local/travel-region resistance patterns should guide the specific choice, ideally with infectious diseases input.
+  - **Definitive:** narrow to the specific antibiotic once sensitivities return; supportive care (fluid/electrolyte management given the systemic illness).
+  - **Chronic/long-term:** chronic carriage (occurring in ~1% of cases, more often in women, related to gallbladder colonisation) may require prolonged antibiotic courses ± cholecystectomy in refractory cases, given the gallbladder acts as a reservoir; public health notification and contact/food-handling considerations given the faecal-oral transmission route.
+- **Complications:** osteomyelitis (especially in sickle cell disease), GI bleeding, meningitis, cholecystitis, chronic carriage (1%, F>M).
+
+## Cholera
+
+- **A/P:** Gram -ve *Vibrio cholerae*. Contaminated water, badly cooked seafood.
+- **S/Smx:** profuse "rice-water" diarrhoea, dehydration, hypoglycaemia.
+- **Mx:** oral rehydration solution, doxycycline or ciprofloxacin.
+
+## Haemophilus influenzae
+
+- **A/P:** Gram -ve cocci, spread by respiratory droplets.
+- Causes: community-acquired pneumonia; most common cause of bronchiectasis exacerbations; acute epiglottitis (type B).
+
+### Acute epiglottitis
+
+- Rapid onset, high fever, stridor, drooling, tripod position (leaning forward).
+- **Dx:** direct visualisation; CXR lateral view — "thumb sign".
+
+> [!danger] Do NOT examine the throat in suspected epiglottitis — risk of precipitating complete airway obstruction. Get immediate senior help ± endotracheal intubation. Give supplemental O2 and IV antibiotics.
+
+> [!note] Fuller entry, including the organism list and the antibiotic choice: [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]] Acute epiglottitis. Not repeated here.
+
+## Legionella
+
+- **A/P:** intracellular *Legionella pneumophila* (Legionnaires' disease). Air conditioning systems, contaminated water.
+- **S/Smx:** flu-like symptoms (>95%), dry cough, relative bradycardia, confusion, lymphopaenia, hyponatraemia, deranged LFTs, pleural effusion (30%).
+- **Ix:** urinary antigen (*why:* the standard rapid diagnostic test, detecting *L. pneumophila* serogroup 1 specifically — the most common cause of clinical disease; *what:* positive supports the diagnosis, though a negative result doesn't fully exclude other serogroups). CXR (*why:* confirms and characterises the pneumonic process; *what:* mid/lower zone patchy consolidation, pleural effusion in around a third of cases).
+- **Mx:** erythromycin or clarithromycin (or a respiratory fluoroquinolone, an alternative not always specified in older sources) — see [[02_Respiratory]] for the broader pneumonia severity-assessment framework this fits into, not repeated here.
+
+## Mycoplasma pneumoniae
+
+- Affects younger patients.
+- **S/Smx:** gradual onset, prolonged course. Flu-like symptoms → dry cough. Bilateral consolidation.
+- **Complications:**
+  - Haemolytic anaemia secondary to cold agglutinins (IgM).
+  - Thrombocytopaenia.
+  - Erythema multiforme, erythema nodosum.
+  - Meningoencephalitis, Guillain-Barré and other immune-mediated neurological diseases.
+  - Bullous myringitis — painful vesicles on the tympanic membrane.
+  - Pericarditis/myocarditis.
+  - GI: hepatitis, pancreatitis.
+  - Renal: acute glomerulonephritis.
+- **Ix:** Mycoplasma serology; positive cold agglutination test.
+- **Mx:** doxycycline or macrolide (erythromycin, clarithromycin).
+
+## Pseudomonas aeruginosa
+
+- **A/P:** Gram -ve rod. MOA: endotoxin (fever, shock); exotoxin A (↓protein synthesis).
+- **S/Smx:** chest infections especially in cystic fibrosis; skin — burns, wound infections, "hot tub" folliculitis; otitis externa (especially in diabetics); UTIs.
+
+## Cat scratch disease
+
+- **A/P:** Gram -ve *Bartonella henselae*. Cat scratch, especially homeless/stray cats.
+- **S/Smx:** fever, regional lymphadenopathy, headache, malaise, ± abdominal pain.
+- **Mx:** mild infection — analgesia, watch and wait. Infections requiring antibiotics — erythromycin, doxycycline, azithromycin.
+
+## Q fever
+
+- **A/P:** *Coxiella burnetii*. Cattle exposure — abattoir workers, infected dust.
+- **S/Smx:** prodrome of fever and malaise, transaminitis, atypical pneumonia, culture-negative endocarditis.
+- **Mx:** doxycycline.
+
+## Leptospirosis
+
+- **A/P:** *Leptospira interrogans*. Rat urine. Sewage workers, farmers, vets, abattoir workers, and travellers to the tropics at risk.
+- **Early phase (bacteraemic, ~1 week):** fever, flu-like symptoms, subconjunctival suffusion (redness), haemorrhage.
+- **Second phase (immune reaction) = Weil's disease:** AKI (50%), hepatitis (jaundice, hepatomegaly), aseptic meningitis.
+- **Ix:** serology (antibodies develop by day 7), PCR, culture (less useful).
+- **Mx:** high-dose benzylpenicillin or doxycycline.
+
+## Lyme disease
+
+- **A/P:** spirochaete *Borrelia burgdorferi*, spread by ticks.
+- **Early features:**
+  - Erythema migrans (80%) — target/bullseye rash at tick bite site, 1–4 weeks after bite, usually painless, >5cm, slowly increasing in size.
+  - Systemic features: headache, lethargy, fever, arthralgia.
+- **Late features (>30 days):**
+  - CVS: heart block, peri/myocarditis.
+  - Neurological: CN VII palsy, radicular pain, meningitis.
+- **Ix:** clinically if erythema migrans present; ELISA antibodies to *B. burgdorferi* (repeat at 4–6 and 12 weeks); immunoblot to confirm.
+- **Mx of asymptomatic tick bites:** remove tick with fine-tipped tweezers, grasping close to skin, then wash. Antibiotics not recommended.
+- **Mx of confirmed Lyme disease:** doxycycline or amoxicillin; if disseminated — ceftriaxone.
+
+> [!tip] Jarisch-Herxheimer reaction is sometimes seen after starting treatment — fever, rash, tachycardia.
+
+> [!info] Verified against the Australian Centre for Disease Control's guideline on overseas-acquired Lyme disease and CDC.gov.au patient information, Aug 2026 — the antibiotic choices themselves (doxycycline/amoxicillin for early disease, ceftriaxone for disseminated/neurological disease) are not meaningfully different from international/UK practice, so no drug correction is needed. The genuinely important Australian-specific context is different: **Lyme disease cannot be acquired in Australia** — a national CSIRO survey confirmed Australian ticks do not carry *Borrelia burgdorferi* — so every genuine Australian case is in a returned traveller from an endemic area (UK, northeastern USA, parts of Europe including Germany/Austria/Slovenia/Sweden, Russia, Japan, China). A tick bite with no overseas travel history should prompt discussion with a specialist microbiologist and infectious diseases physician about alternative Australian tick-borne pathogens instead of assuming Lyme disease. Worth also knowing: some Australian patients present with a chronic symptom complex they attribute to tick bites despite no confirmed Borrelia infection or overseas exposure — termed **"debilitating symptom complexes attributed to ticks" (DSCATT)** by Australian health authorities — a genuinely distinct Australian clinical/public health entity from true Lyme disease, worth being aware of as a differential when a patient presents with Lyme-like symptoms and no supporting travel history or serology.
+
+## Notifiable Diseases (Australia)
+
+> [!warning] **NOTIFIABLE DISEASES IS NOT MANDATORY REPORTING. Two different legal duties, easily conflated (C4 ruling, 2026-09-01).**
+> **This** is a public-health duty about **organisms** — you notify the health department that a case exists. **Mandatory reporting** is a duty about **people at risk and about colleagues** — child protection, elder abuse, notifiable conduct — and lives in `[[A10_Ethics__Capacity__Consent_and_Certification]]` and `[[Safeguarding]] §0.1`. **This section stays here and was deliberately not merged with them.**
+
+> [!warning] FLAG 2026-09-01 — the same topic appears twice in this file, from two different sources
+> `## Notifiable Diseases in Australia — What "Notifiable" Actually Means` (in `08_09_Infectious_Disease_-_Miscellaneous`)
+> covers the same duty. **Both retained; pair marked, not merged.**
+> ⚠️ **Do not conflate with the OTHER notifiable duty** — reporting a colleague. That is
+> `Clinical-Process-EBM-Consent-Capacity ## Mandatory Reporting` + `## Notifiable conduct`,
+> `A10 §0.5 Professional Practice Concern`, and `Safeguarding.md §0.1`. **Two different obligations
+> that share a word.**
+
+> [!info] Verified against the Australian Centre for Disease Control's National Notifiable Diseases Surveillance System (NNDSS) framework, Aug 2026 — Australia's notifiable disease system is structured genuinely differently from the UK's flat list, and the specific disease *list* also differs (some UK-notifiable diseases aren't Australian-notifiable and vice versa). This entry no longer carries the UK list it was originally written against — do not reintroduce one and do not quote a UK list as the Australian standard.
+> The NNDSS coordinates surveillance of **>70 diseases nationally**, organised into **8 categories** rather than one flat list, and reported to the Australian Centre for Disease Control: **bloodborne viral hepatitis** (hepatitis B, C, D), **gastrointestinal diseases** (e.g. campylobacteriosis — the most commonly notified gastrointestinal disease, salmonellosis, shigellosis, listeriosis, typhoid/paratyphoid, botulism, HUS), **other bacterial infections** (e.g. tuberculosis — the most commonly notified in this category, invasive pneumococcal disease, invasive meningococcal disease, legionellosis, leprosy), **quarantinable diseases** (cholera, plague, rabies/lyssaviruses, viral haemorrhagic fevers, yellow fever, smallpox), **sexually transmissible infections** (chlamydia — the most commonly notified STI, gonorrhoea, syphilis, donovanosis, LGV), **vector-borne diseases** (e.g. Ross River virus — the most commonly notified in this category, dengue, malaria, Japanese encephalitis, Murray Valley encephalitis), **vaccine-preventable diseases** (e.g. influenza — currently the most commonly notified VPD, measles, mumps, rubella, pertussis, diphtheria, tetanus, polio; note VPDs like rubella, diphtheria, and tetanus are now rare in Australia given high childhood immunisation rates), and **zoonotic diseases** (e.g. Q fever — the most commonly notified in this category, brucellosis, anthrax, leptospirosis). **HIV and Creutzfeldt-Jakob disease are notifiable but tracked under separate dedicated national surveillance systems**, not the general NNDSS categories above — worth knowing as a specific exception. Individual states/territories also maintain their own notifiable disease lists, which can include additional diseases beyond the national list — so "notifiable" can genuinely vary slightly by jurisdiction within Australia itself, not just between countries. Given the size and periodic revision of the full current list, check the Australian Centre for Disease Control's current National Notifiable Disease List directly for the definitive disease-by-disease list rather than relying on a static reproduction here.
+
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Vaccination Schedule (Australia — National Immunisation Program)` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+> [!note] **Moved to `[[Preventive-Health]]` on 2026-09-01:** `Passive Immunisation — Immunoglobulin After an Exposure` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+<!-- ===== SOURCE: 08_04_Infectious_Disease_-_Antibiogram.md ===== -->
+
+
+## Antibiogram — empirical antibiotic cover by organism
+
+> [!warning] FLAG 2026-09-01 — a drug-selection reference with zero inbound references
+> `08_04_Infectious_Disease_-_Antibiogram` overlaps `NEW_Drugs_05 §0.2 Antibacterials` (21 subsections).
+> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers can be validated.
+> Listed because it coincides with the content overlap.
+
+> [!info] Reference chart adapted from the *Intensive Care Drug Manual* (Wellington ICU), Appendix 5, as seen on FOAMid. Use as a rough guide to spectrum of cover only — always confirm against local antibiogram/susceptibility data and current guidelines before prescribing.
+
+> [!info] Verified — the spectrum-of-cover content itself (which drug classes have activity against which organism categories) is pharmacological reference material and doesn't meaningfully differ between Australia and New Zealand or other developed-world settings — a drug's spectrum of activity against a given organism is a property of the drug and organism, not the jurisdiction. This chart remains a reasonable general reference for spectrum-of-cover logic on that basis. However, **confirming against local antibiogram/current guidelines before actually prescribing remains fully valid and important** — which specific drug to choose empirically for a given clinical scenario depends heavily on local resistance rates (e.g. gentamicin/fluoroquinolone resistance patterns vary meaningfully by region and hospital), current eTG-specific recommendations, and patient factors — this chart tells you what a drug *can* cover, not what you *should* prescribe first-line for a specific AU clinical scenario. Verify against eTG (Therapeutic Guidelines: Antibiotic) and the local hospital antibiogram before prescribing.
+
+### Gram positive (cocci)
+
+| Antibiotic / class | MRSA | S. epidermidis (coag -ve Staph) | MSSA | Enterococcus | Streptococcus |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Penicillin | | | | ✓ | ✓ |
+| Amoxicillin | | | | ✓ | |
+| Flucloxacillin | | ✓ | ✓ | | |
+| Ticarcillin-clavulanate | | ✓ | ✓ | ✓ | |
+| Piperacillin-tazobactam | | ✓ | ✓ | ✓ | |
+| Clindamycin | ✓ | ✓ | | ✓ | |
+| Rifampicin / Fusidic acid | ✓ | | | | |
+| Vancomycin / Teicoplanin, Linezolid, Daptomycin | ✓ | ✓ | ✓ | ✓ | |
+| Co-trimoxazole | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Trimethoprim | | | | ✓ | |
+| Gentamicin / Tobramycin | ✓ | | ✓ | ✓ | |
+| Moxifloxacin | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Cephazolin | | ✓ | ✓ | | ✓ |
+| Cefuroxime, ceftriaxone | | | | ✓ | ✓ |
+| Cefepime | | ✓ | | | |
+| Meropenem, imipenem | ✓ | ✓ | | ✓ | |
+| Ertapenem | ✓ | | ✓ | | |
+| Tigecycline | ✓ | | | | |
+
+### Anaerobes
+
+| Antibiotic / class | Clostridium / Peptostrep | Bacteroides / Fusobacterium |
+|---|:---:|:---:|
+| Clindamycin | ✓ | |
+| Metronidazole | ✓ | ✓ |
+| Vancomycin, Teicoplanin | ✓ | |
+| Cefepime | ✓ | ✓ |
+| Meropenem, imipenem | ✓ | ✓ |
+| Ertapenem | ✓ | ✓ |
+
+### Gram negative (cocci/coccobacilli and bacilli)
+
+| Antibiotic / class | N. meningitidis | H. influenzae | Moraxella | E. coli | Klebsiella | Proteus mirabilis | Pseudomonas | Enterobacter/other coliforms | Legionella |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Penicillin | ✓ | | | | | | | | |
+| Amoxicillin | | ✓ | | | | | | | |
+| Macrolides | | | | | | | | | ✓ |
+| Rifampicin / Fusidic acid | ✓ | | | | | | | | |
+| Rifampicin | | ✓ | | | | | | | |
+| Cotrimoxazole | | | | | | | | | ✓ |
+| Trimethoprim | | ✓ | | | | | | | ✓ |
+| Gentamicin / Tobramycin | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| Ciprofloxacin, Aztreonam | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| Cipro | | | | | | | | | ✓ |
+| Moxifloxacin | | | ✓ | ✓ | ✓ | | | | ✓ |
+| Cephazolin | | | | ✓ | ✓ | | | | |
+| Cephaz | | | ✓ | | | | | | |
+| Cefuroxime, ceftriaxone | | | ✓ | ✓ | ✓ | ✓ | | ✓ | |
+| Ceftazidime | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| Cefepime | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| Meropenem, imipenem | | | | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| Ertapenem | | | | ✓ | ✓ | ✓ | | ✓ | ✓ |
+| Tigecycline | | | | ✓ | | | | ✓ | ✓ |
+
+> [!tip] Broad pattern to remember: coverage generally widens as you move down each drug class "ladder" (e.g. penicillin → amoxicillin → beta-lactam/beta-lactamase inhibitor → cephalosporins → carbapenems), with pseudomonal cover a key branch point (piperacillin-tazobactam, ceftazidime, cefepime, meropenem/imipenem, ciprofloxacin cover *Pseudomonas*; most others do not).
+
+
+<!-- ===== SOURCE: 08_05-06_Infectious_Disease_-_Viral_Infections.md ===== -->
+
+
+## Infectious mononucleosis
+
+- **A/P:** Epstein-Barr virus (HHV4) in 90% of cases. Adolescents and young adults.
+- **S/Smx:**
+  - Classic triad: sore throat, cervical lymphadenopathy, fever.
+  - Systemic symptoms.
+  - Palatal petechiae.
+  - Splenomegaly (50%).
+  - Hepatitis, transient ↑ALT.
+  - Lymphocytosis.
+  - Haemolytic anaemia secondary to cold agglutinins (IgM).
+  - Maculopapular, pruritic rash in 99% of patients who take ampicillin or amoxicillin.
+- **Mx:** symptoms typically resolve in 2–4 weeks. Supportive — rest, simple analgesia. Avoid contact sports for 4 weeks to reduce risk of splenic rupture.
+- **Ix:** heterophile antibody test (Monospot) in the 2nd week to confirm diagnosis.
+
+### EBV-associated conditions
+
+- **Malignancies:** Burkitt's lymphoma, Hodgkin's lymphoma, nasopharyngeal carcinoma, HIV-associated CNS lymphomas.
+- **Non-malignant:** hairy leukoplakia.
+
+## Cytomegalovirus (CMV)
+
+- **A/P:** CMV, a subtype of Herpesvirus. ~50% of people have been exposed, but disease-causing mainly in the immunocompromised.
+- **Ix:** CMV PCR (blood, or the relevant affected site — e.g. CSF, aqueous/vitreous fluid) (*why:* the standard test for active/disseminated disease, quantifying viral load and guiding treatment monitoring; *what:* detectable/quantifiable CMV DNA supports active disease, particularly relevant in the immunocompromised where reactivation is the concern). Serology (IgM/IgG) (*why:* useful for establishing prior exposure/immune status (e.g. donor/recipient risk stratification before transplant) rather than diagnosing active disease, given IgG reflects past exposure and PCR is the more direct marker of current viral activity; *what:* IgG-positive indicates past exposure; IgM may indicate recent/primary infection, though interpretation can be complicated in immunocompromised hosts). For congenital CMV specifically — urine or saliva PCR within the first 3 weeks of life (*why:* the timing distinguishes congenital (in-utero) infection from postnatally-acquired infection, which wouldn't carry the same implications; *what:* positive PCR within this window confirms congenital infection).
+- **Congenital CMV:** growth retardation, pinpoint petechial "blueberry muffin" skin lesions, microcephaly, sensorineural deafness, encephalitis (seizures), hepatosplenomegaly.
+- **CMV mononucleosis:** flu-like symptoms; can occur in healthy patients.
+- **CMV retinitis:** common in HIV+ve with CD4 <50. Visual impairment (blurry vision). Fundoscopy: retinal haemorrhages, necrosis ("pizza retina"). **Mx:** IV ganciclovir (or oral valganciclovir for less severe disease/maintenance) — see [[05_Ophthalmology]] for the broader retinal disease context, not repeated here.
+- **CMV encephalopathy:** HIV+ve with low CD4.
+- **CMV pneumonitis; CMV colitis.**
+
+## Herpes simplex virus (HSV)
+
+> [!note] See [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]] Genital herpes and [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Genital herpes for the more detailed genital-specific presentation and Mx, not repeated in full here — this entry covers HSV more generally (including oral/labial presentation).
+
+- **D:** infection with HSV1 or HSV2 causing oral (herpes labialis), genital ulcers, and skin lesions.
+- **R:** HIV, immunosuppression, high-risk sexual behaviour.
+- **A/P:** acquired at mucosal surfaces or breaks in skin. Virus replicates in the epidermis, then infects sensory or autonomic nerve endings, travels by retrograde axonal transport to sensory ganglia, and enters a latent state — lifelong infection with reactivation.
+- **S/Smx:** lesions (cold sores, fever blisters), lymphadenopathy, tingling sensation.
+- **Ix:** clinical diagnosis ± wound swabs.
+- **Mx:** PO antivirals (e.g. aciclovir), preferred over topical. Short course e.g. aciclovir 200mg five times a day for 5 days. Patients with recurrences may need long-term treatment (e.g. aciclovir 400mg BD for 12 months). Contact tracing — inform partners. Daily antivirals + condom use reduce transmission risk. Avoid sexual activity when prodromal symptoms or genital lesions present.
+- **Pregnancy:** inform doctor. Elective C-section if the primary episode occurs **within 6 weeks of the due date** (not ">28 weeks" — corrected to match the figure already established and cross-verified across [[16_06-07_Ante-Perinatal_Infections]], [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]], and [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] — this was the third location in the project carrying the same propagated error, now fixed consistently across all of them). Recurrent episodes — suppressive therapy, low transmission risk.
+
+---
+
+## Influenza
+
+> [!note] Gap-filled from CSV ("Common viral infection (influenza, herpes, EBV, CMV)," Medium yield) — genuinely absent as a standalone entry despite herpes, EBV (Infectious mononucleosis above), and CMV all being covered elsewhere in this project; a striking omission given how commonly encountered this condition is. Verified against Australian eTG-referencing sources (WNHS, NT Health, Immunisation Coalition guidance for healthcare professionals), Aug 2026.
+
+- **D:** an acute respiratory illness caused by influenza virus — types A and B cause the seasonal epidemics relevant to most clinical practice (type A further subtyped, and capable of pandemic spread via antigenic shift, e.g. the 2009 H1N1 pandemic); type C typically causes mild illness; type D primarily affects cattle.
+- **S/Smx:** ranges from mild upper respiratory symptoms to a more systemic illness — fever (classically abrupt onset, often higher-peaking in children than adults), headache, myalgia, malaise, dry cough, sore throat — genuinely distinguishable from a common cold by the systemic symptom burden (myalgia and fever prominence) rather than by the respiratory symptoms alone. Complications include lower respiratory tract infection/pneumonia (viral or secondary bacterial), exacerbation of underlying cardiopulmonary disease, febrile seizures and myositis (more prominent in children), and rarely encephalopathy.
+- **Ix:** primarily a clinical diagnosis in typical seasonal presentations; PCR/rapid antigen testing where confirmation changes management (hospitalised patients, diagnostic uncertainty, infection control/outbreak settings) — treatment decisions in a patient with a high-risk profile should not be delayed while awaiting test results, given the time-critical nature of antiviral treatment below.
+- **Mx:**
+  - **Immediate/acute:** supportive care (rest, fluids, antipyretics/analgesics) is sufficient for the great majority of otherwise-healthy patients with uncomplicated influenza.
+  - **Antiviral treatment (neuraminidase inhibitors — oseltamivir first-line, or zanamivir/baloxavir):** **most effective when started within 48 hours of symptom onset** — genuinely time-critical, given treatment started beyond this window in mild/moderate illness is unlikely to be effective; recommended for patients requiring hospitalisation or at risk of complications (young children, adults ≥65, pregnant women, immunocompromised patients, and those with significant cardiopulmonary, renal, hepatic, or metabolic comorbidity, or severe/progressive disease) regardless of exact timing from symptom onset in hospitalised/high-risk patients, given the benefit still outweighs the reduced efficacy in this group. Typical course 5 days (oseltamivir/zanamivir); baloxavir is a single dose. Longer courses may be considered for hospitalised patients remaining severely unwell after 5 days.
+  - **Post-exposure prophylaxis:** oseltamivir, zanamivir, or baloxavir can be used for high-risk contacts or outbreak settings (e.g. aged care facilities), sometimes termed "treatment as prevention" given it protects other high-risk individuals in the same setting, not just the treated patient.
+  - **Chronic/long-term — prevention:** **annual vaccination remains the primary prevention strategy** and should be emphasised regardless of antiviral treatment availability, given vaccination reduces both the likelihood and severity of infection even though it doesn't guarantee full protection.
+- **P:** generally self-limiting in healthy individuals; morbidity and mortality concentrate in the high-risk groups above, which is precisely why the antiviral-treatment threshold is lower for these patients than for the general population.
+
+## COVID-19 (SARS-CoV-2)
+
+> [!note] See [[02_Respiratory]] Viral pneumonia/pneumonitis (including COVID-19) for the full entry — including current Australian antiviral treatment guidance (nirmatrelvir/ritonavir, molnupiravir, remdesivir eligibility) — not repeated here. Placed alongside Pneumonia in that file given COVID-19's primary clinical relevance in this project is as a cause of viral pneumonia, but flagged here too given this is the Infectious Disease category a search for "COVID" would most naturally start from.
+
+
+
+## Measles
+
+- **D:** caused by an RNA paramyxovirus. Spread by aerosol transmission, very infectious. Incubation 10–14 days. Patient infective from prodrome until 4 days after rash starts.
+- **S/Smx:**
+  - Prodromal phase: irritability, conjunctivitis, fever.
+  - Koplik spots — white spots ("grains of salt") on buccal mucosa, typically before the rash.
+  - Rash — starts on the head then spreads to the whole body; discrete maculopapular rash becoming blotchy and confluent. Desquamation may occur after a week; spares palms and soles.
+  - Diarrhoea in 10%.
+- **Ix:** IgM antibodies detected within a few days of rash onset.
+
+> [!warning] Notifiable disease.
+
+- **Mx:** mainly supportive. Consider admission if immunosuppressed or pregnant.
+- **Complications:**
+  - Otitis media — most common complication.
+  - Pneumonia — most common cause of death.
+  - Encephalitis — typically 1–2 weeks after onset of illness.
+  - Subacute sclerosing panencephalitis — very rare, may present 5–10 years after illness. S/Smx: personality change, myoclonus, choreoathetosis, dystonia, dementia, coma, death.
+  - Febrile convulsions.
+  - Keratoconjunctivitis, corneal ulceration.
+  - Diarrhoea.
+  - Increased incidence of appendicitis.
+  - Myocarditis.
+- If an unimmunised child contacts measles, offer MMR — vaccine-induced antibodies develop faster than a natural infection response; give within 72h.
+
+## Rubella (German measles)
+
+- **A/P:** togavirus, winter and spring predominance. Spread by respiratory droplets. Incubation 14–21 days; infectious 7 days before symptoms to 4 days after rash starts.
+- **S/Smx:**
+  - Prodrome: fever.
+  - Rash: maculopapular, spreads face → whole body; fades after 3–5 days.
+  - Lymphadenopathy: suboccipital and postauricular.
+- **Complications:** arthritis, thrombocytopaenia, encephalitis, myocarditis.
+- **In pregnancy:** risk highest in first 8–10 weeks; damage rare after 16 weeks.
+
+> [!danger] Congenital rubella syndrome — sensorineural deafness, congenital cataracts, congenital heart disease (e.g. patent ductus arteriosus), growth retardation, hepatosplenomegaly, purpuric skin lesions, "salt and pepper" chorioretinitis, microphthalmia, cerebral palsy.
+
+- **Dx:** IgM. Also check parvovirus B19 (difficult to differentiate).
+
+> [!warning] Notifiable disease. Offer MMR in the post-natal period — do NOT offer before or during pregnancy (live vaccine).
+
+## Mumps
+
+- **A/P:** RNA paramyxovirus, spread by droplets.
+- **MOA:** spreads to respiratory tract epithelial cells → parotid glands → other tissues.
+- Incubation 14–21 days. Infective 7 days before to 9 days after parotid swelling starts.
+- **S/Smx:** fever, malaise, myalgia, parotitis (earache, pain on eating) — unilateral then bilateral in 70%.
+
+> [!warning] Notifiable disease.
+
+- **Mx:** MMR prevents in 80% of cases; rest, analgesia.
+- **Complications:**
+  - Orchitis — 25–35% of post-pubertal males, 4–5 days after parotitis starts.
+  - Sensorineural hearing loss — unilateral and transient.
+  - Meningoencephalitis.
+  - Pancreatitis.
+
+## Parvovirus B19 (erythema infectiosum / slapped cheek syndrome)
+
+- Spread by droplets.
+- **S/Smx:** mild fever; rose-red rash on cheeks (peaks after a week, heat triggers rash — once rash appears the child is not infectious, no need to exclude from school); arthralgia in adults.
+
+> [!tip] Patient is infectious 3–5 days *before* the rash appears — the infectious window precedes the visible sign.
+
+- **In pregnancy:** before 20 weeks, check maternal IgM and IgG. Can cross the placenta → ↓erythropoiesis → hydrops fetalis (heart failure secondary to severe anaemia; fluid accumulation in fetal serous cavities — ascites, pleural, pericardial effusion). Mx: intrauterine blood transfusion.
+- **Other presentations:** can be asymptomatic. In immunosuppressed patients — pancytopaenia. In chronic haemolytic anaemia (e.g. sickle cell disease) — aplastic crises, due to viral suppression of erythropoiesis (~1 week).
+
+## Hand, foot and mouth disease (HFMD)
+
+- **A/P:** intestinal viruses Coxsackie A16 and Enterovirus 71.
+- **S/Smx:** mild systemic upset (sore throat, fever), oral ulcers, vesicles on palms and soles.
+- **Mx:** symptomatic — analgesia and hydration. Children do not need exclusion from school unless unwell. Reassure — not linked to disease in cattle.
+
+*(See [[15_03a_Paeds_-_Childhood_Viral_Exanthems]] Hand, foot and mouth disease (HFMD) for the paediatric-specific presentation notes, not repeated here.)*
+
+## Viral exanthemata ("numbered" rashes)
+
+| Number | Disease |
+|---|---|
+| First | Measles |
+| Second | Scarlet fever |
+| Third | Rubella |
+| Fourth | Duke's disease (of uncertain/questionable existence; sometimes used generically for other viral rashes) |
+| Fifth | Parvovirus B19 |
+| Sixth | Roseola infantum (see [[15_03a_Paeds_-_Childhood_Viral_Exanthems]] Roseola infantum (exanthem subitum)) |
+
+*(See [[15_03b_Paeds_-_HIV_in_Children]] for HIV in children)*
+
+---
+
+## Norovirus
+
+- **A/P:** non-encapsulated RNA virus. Faecal-oral route; becomes aerosolised when a patient vomits or a toilet is flushed; also spread via fomites and food preparation.
+- **S/Smx:** develops within 15–50h. Nausea, vomiting, diarrhoea + headache, low-grade fevers, myalgia.
+- **Dx:** history, stool viral PCR.
+- **Mx:** supportive (ORS); self-limiting, ~72h. Isolate, good hand hygiene — alcohol gel is not as effective (need soap and water).
+
+### DDx of acute gastroenteritis-type illness
+
+| Organism | Key distinguishing features |
+|---|---|
+| Rotavirus | Similar to norovirus, tends to affect children <5 years old |
+| Salmonella | 6–72h incubation; exposure to contaminated food (e.g. milk); bloody diarrhoea + high fever |
+| E. coli | Longer incubation (≤10 days); bloody diarrhoea and severe abdominal pain |
+
+## Human immunodeficiency virus (HIV)
+
+- **A/P:** retrovirus replicating in human lymphocytes and macrophages; HIV1 and HIV2. Spread via blood, sexual fluids, breast milk.
+- **Seroconversion** — symptomatic in 60–80%: sore throat, lymphadenopathy, malaise, myalgia, arthralgia, diarrhoea, maculopapular rash, mouth ulcers; rarely meningoencephalitis.
+
+- **Ix:** 4th-generation combination HIV antigen/antibody assay (*why:* the standard initial screening test, detecting both p24 antigen (positive earlier, from ~2–4 weeks post-exposure) and host antibodies (take longer to develop) — combining both substantially narrows the "window period" compared to antibody-only testing; *what:* a reactive screening test requires confirmatory testing before a diagnosis is given, never acted on alone). Confirmatory testing (e.g. Western blot or a second differentiation assay) (*why:* screening tests can have false positives, so a reactive screen is never itself diagnostic; *what:* confirms true infection and can distinguish HIV-1 from HIV-2). HIV RNA viral load (*why:* used both to confirm very early infection (detectable before antibody/antigen conversion in acute/seroconversion illness) and, once diagnosed, as the key marker of treatment response — the goal of ART is an undetectable viral load; *what:* quantifies circulating virus, trended over time on treatment). CD4 count (*why:* the key marker of immune status/degree of immunosuppression, directly determining opportunistic infection risk per the CD4-stratified list below and need for prophylaxis (e.g. PCP prophylaxis below CD4 200); *what:* trended over time, both at diagnosis and on treatment, though modern ART started promptly usually prevents progression to low CD4 counts). Baseline genotypic resistance testing (*why:* transmitted drug resistance (including INSTI resistance, an emerging Australian-specific concern associated with long-acting cabotegravir PrEP use) can affect first-line regimen choice, so baseline resistance testing before starting ART is standard practice; *what:* identifies resistance-associated mutations that would make a particular drug class ineffective).
+
+> [!info] Verified against the current ASHM (Australasian Society for HIV Medicine) Australian ARV guidelines, Aug 2026 — the drug-class combination below needed a genuine correction, not just localisation.
+> **Mx:** antiretroviral therapy (ART) — **current Australian first-line is 2 NRTIs + 1 integrase strand transfer inhibitor (INSTI)**, e.g. dolutegravir or bictegravir-based regimens — INSTIs have superseded protease inhibitors (PIs) and NNRTIs as the standard first-line third agent, given their superior tolerability, fewer drug interactions, and high barrier to resistance. PI- and NNRTI-based regimens remain in use (e.g. for specific resistance patterns, drug interactions, or in patients already established on them) but are no longer the standard *first-line* choice the way older teaching (2 NRTI + 1 PI or NNRTI) suggests. Start as soon as diagnosis is confirmed, regardless of CD4 count — treating promptly, not waiting for CD4 decline, is current standard practice (a genuine evolution from older "treat when CD4 falls below X" approaches).
+
+### HIV drug classes
+
+| Class | Examples | Mechanism / notes |
+|---|---|---|
+| Entry inhibitors | Maraviroc (binds CCR5), Enfuvirtide (binds gp41) | Prevent HIV-1 entering immune cells |
+| **Nucleoside/nucleotide reverse transcriptase inhibitors (NRTI)** | Zidovudine, lamivudine, tenofovir | **Faulty nucleoside analogues — reverse transcriptase incorporates them into the growing viral DNA chain, and because they lack the 3'-OH group the next nucleotide needs, the chain simply stops there.** The backbone of Australian first-line therapy (2 NRTIs + 1 INSTI). General SE: peripheral neuropathy |
+| **Non-nucleoside reverse transcriptase inhibitors (NNRTI)** | Nevirapine, efavirenz | **Bind reverse transcriptase at a site away from where it does its work, deforming the enzyme so it functions poorly — not incorporated into the DNA chain, which is the whole difference from the NRTIs above.** SE: P450 induction, rashes |
+| Protease inhibitors (PI) | Indinavir, nelfinavir, ritonavir | SE: DM, hyperlipidaemia, buffalo hump, central obesity. Indinavir: renal stones, asymptomatic ↑bilirubin. Ritonavir: potent P450 inhibitor |
+| **Integrase inhibitors (INSTI)** | **Dolutegravir, bictegravir, raltegravir, elvitegravir** | Block integration of viral genome into host DNA — **current first-line class in Australia**, per the Mx note above |
+
+> [!note] PrEP and PEP — high-yield, commonly examined and not in the original source. **PrEP (pre-exposure prophylaxis):** oral tenofovir/emtricitabine, taken by HIV-negative people at ongoing risk to prevent acquisition; long-acting injectable cabotegravir PrEP is TGA-approved in Australia but, as of the last confirmed update, is not PBS-subsidised, limiting accessibility. **PEP (post-exposure prophylaxis):** a combination ART course started as soon as possible (ideally within hours, and generally not beyond 72h) after a significant exposure (e.g. needlestick, condomless sex with a partner of unknown/positive status), continued for 28 days — genuinely time-critical, and a common OSCE/exam scenario (a patient presenting after a high-risk exposure asking about PEP).
+
+### Opportunistic infections by CD4 count
+
+> [!info] CD4-stratified opportunistic infections/complications
+
+**CD4 100–200**
+- Cryptosporidiosis — most common cause of diarrhoea in HIV. Ix: stool acid-fast stain may show red cysts. Mx: supportive.
+- Cerebral toxoplasmosis.
+- Progressive multifocal leukoencephalopathy — JC virus, widespread demyelination.
+- Pneumocystis jirovecii pneumonia (PJP) — CD4 <200 should receive PCP prophylaxis. S/Smx: dyspnoea, dry cough, fever, few chest signs; pneumothorax common; extrapulmonary spread (hepatosplenomegaly, lymphadenopathy, choroid lesions). Ix: CXR, exercise-induced desaturation, bronchoalveolar lavage. Mx: co-trimoxazole, IV pentamidine ± steroids if hypoxic.
+- HIV dementia (AIDS dementia complex) — caused by HIV itself.
+
+**CD4 200–500**
+- Oral thrush (Candida).
+- Shingles (Herpes zoster).
+- Hairy leukoplakia (EBV).
+- Kaposi sarcoma (HHV-8) — purple papules or plaques on skin/mucosa → ulcers. Mx: radiotherapy, resection.
+
+**CD4 50–100**
+- Aspergillosis (*A. fumigatus*).
+- Oesophageal candidiasis — dysphagia, odynophagia. Mx: fluconazole, itraconazole.
+- Cryptococcal meningitis.
+- Primary CNS lymphoma (due to EBV).
+
+**CD4 <50**
+- CMV retinitis — 30–40% of patients in this category.
+- *Mycobacterium avium-intracellulare* — fever, sweats, abdominal pain, diarrhoea. Mx: rifabutin, ethambutol, clarithromycin.
+
+*Notes: Toxoplasmosis (protozoan) — see [[04_Neurology]] Toxoplasmosis (under CNS Infections Associated with Immunosuppression) for the CNS/immunocompromised presentation already built there; maternal/congenital toxoplasmosis specifically is not yet built pending an Obstetrics category upload. Hepatitis viruses — see [[03_Gastrointestinal]] Hepatitis. VZV/chickenpox, shingles — see [[09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa]] Varicella zoster virus (VZV) / chickenpox and Herpes zoster / shingles.*
+
+## Mpox (formerly monkeypox)
+
+> [!note] Gap-filled from CSV ("M-Pox," Medium yield) — genuinely absent from the source notes despite the significant global outbreak activity and ongoing relevance since 2022; genuinely current, Australian-verified content.
+
+- **A/P:** monkeypox virus (MPXV), an *Orthopoxvirus* (the same genus as smallpox/variola, explaining the smallpox-vaccine cross-protection principle below) — a zoonotic double-stranded DNA virus. Spread via close skin-to-skin contact, contaminated surfaces/fomites, and respiratory droplets with prolonged close contact. The current global outbreak (ongoing since 2022, clade IIb) has predominantly affected gay, bisexual, and other men who have sex with men, though clinicians should maintain a broad index of suspicion in any sexually active person with compatible symptoms — this is a mode-of-transmission pattern, not an exclusive risk category.
+- **Incubation:** 5–21 days (median ~7 days). **Infectious period:** up to 4 days *before* symptom onset (similar to the "infectious before visible signs" pattern seen with parvovirus B19 elsewhere in this file) until all lesions have fully resolved (scabs fallen off, new skin underneath) — a genuinely long infectious window with public health implications for isolation duration.
+- **S/Smx:** biphasic — **prodromal phase** (fever, headache, myalgia, lymphadenopathy — the presence of lymphadenopathy is a relatively distinguishing feature from smallpox/chickenpox, worth knowing as a discriminating point), followed by the **rash phase** (lasting 2–4 weeks): lesions progress uniformly through macule → papule → vesicle → pustule → umbilication → scab → desquamation, classically with a centrifugal distribution starting on the face/head and spreading to trunk/extremities — though the current outbreak strain frequently presents with anogenital/perianal lesions first or predominantly, reflecting the close-contact transmission pattern, and proctitis is a recognised presentation.
+- **Ix:** mpox-specific PCR/NAAT of lesion swabs (*why:* the definitive diagnostic test; *what:* confirms MPXV — note some laboratories use a general orthopox PCR rather than an mpox-specific assay, which still confirms the diagnosis but is worth being aware of as a lab-dependent variation). Test for other STIs concurrently, given shared risk factors and transmission routes with the current outbreak pattern.
+- **Mx:**
+  - **Immediate/acute:** supportive care (analgesia, hydration) — the mainstay for the large majority of cases, which are self-limiting.
+  - **Definitive (severe disease or high risk of severe disease only):** **tecovirimat** — available in Australia through the National Medical Stockpile, but **current Australian STI guidelines specifically note that two subsequent randomised controlled trials did not demonstrate clinical benefit**, despite initial in vitro/emergency-use rationale — a genuinely important, current evidence update worth knowing (don't assume tecovirimat is a proven effective treatment). It may still be considered on specialist advice for patients at significantly increased risk of severe disease. Urgent specialist discussion is indicated for: severe disease (sepsis, encephalitis, eye involvement), complications (secondary cellulitis, dehydration, pneumonia), or patients at elevated risk of severe disease (immunocompromise including CD4 <200, children, pregnancy, breastfeeding).
+  - **Chronic/long-term:** isolation until lesions have fully resolved (per the infectious-period detail above); **vaccination** (JYNNEOS/Imvanex, a third-generation attenuated, replication-deficient vaccine — 2 doses ≥28 days apart) is available in Australia for pre-exposure prophylaxis in at-risk individuals and can also be used post-exposure in eligible contacts; contact tracing per local public health unit protocols, with sexual contacts advised to monitor for symptoms for 21 days (matching the upper end of the incubation period above).
+- **Notifiable:** an urgent/rapid notifiable condition in Australian states/territories, reflecting the outbreak-control importance of prompt case identification and contact tracing.
+
+## Dengue fever
+
+- **A/P:** RNA virus (*Flavivirus*). Spread by *Aedes aegypti* mosquito; incubates 7 days.
+- **S/Smx:** fever, retro-orbital headache, myalgia, bone pain, arthralgia ("break-bone fever"), pleuritic pain, facial flushing, maculopapular rash.
+- **Warning signs:** abdominal pain, hepatomegaly, persistent vomiting, clinical fluid accumulation (ascites, pleural effusion).
+
+> [!danger] Dengue haemorrhagic fever = DIC picture: thrombocytopaenia, spontaneous bleeding, positive tourniquet test, petechiae, purpura, ecchymosis, epistaxis. 20–30% develop dengue shock syndrome.
+
+- **Ix:** FBC (↓WCC, ↓platelets), LFT (↑ALT). **Dx:** serology, NAAT, NS1 antigen.
+- **Mx:** supportive (fluid resuscitation, blood transfusion, etc).
+
+## Yellow fever
+
+- **A/P:** RNA virus (yellow fever virus). Spread by *Aedes aegypti* mosquitoes.
+- **S/Smx:** incubation 2–14 days; mild flu-like illness ~1 week.
+  - Classic biphasic course: phase 1 — sudden onset high fever, rigors, nausea, vomiting ± bradycardia; phase 2 — jaundice, haematemesis, oliguria.
+  - Councilman bodies (inclusion bodies) seen in hepatocytes.
+- **Mx:** supportive ± ICU.
+- **Vaccination:** protection from 10 days post-vaccination.
+
+## Rabies
+
+- **A/P:** RNA rhabdovirus. Dog, rat, raccoon, skunk bites. Rural areas of Africa and Asia — especially children.
+- **MOA:** bite → retrograde movement of virus up the CNS. Negri bodies — cytoplasmic inclusion bodies in infected neurons.
+- **S/Smx:** prodrome of headache, fever, agitation; hydrophobia (water provokes muscle spasms); hypersalivation.
+- **Mx:** wash the wound. If previously immunised — 2 more doses. If not — human rabies immunoglobulin around the wound + full course of vaccination.
+
+> [!danger] Untreated rabies is fatal.
+
+## Ebola virus
+
+- **A/P:** Filoviridae family. Human-to-human spread — direct contact (broken skin, mucous membranes), blood, secretions, organs; also fomites. Healthcare workers at risk.
+- **S/Smx:** incubation 2–21 days; patient not infectious until symptoms develop.
+  - First: fever, fatigue, myalgia, headache, sore throat.
+  - Next: vomiting, diarrhoea, rash, renal dysfunction, liver dysfunction, signs of internal and external bleeding.
+- **Mx:** supportive, isolate; ± broad-spectrum antibiotics if severe.
+
+*(see also [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]] Genital herpes)*
+
+<!-- ===== SOURCE: 08_07_Infectious_Disease_-_Protozoan_Infections.md ===== -->
+
+
+## 0.6 Malaria
+
+- **A/P:** *Plasmodium* species — *falciparum* (severe), *vivax*, *ovale*, *malariae*. Spread by female *Anopheles* mosquito.
+- **Protective factors:** sickle cell trait, G6PD deficiency, HLA-B53.
+- **Ix:** thick and thin blood films (*why:* the gold-standard diagnostic test — thick films are more sensitive for detecting parasitaemia, thin films allow species identification and quantification of parasitaemia percentage, both directly informing the severity assessment and Mx below; *what:* identifies the *Plasmodium* species and parasitaemia level — repeat films over 2–3 samples/days are needed to confidently exclude malaria, since a single negative film doesn't rule it out given fluctuating parasitaemia). Rapid diagnostic test (RDT, antigen-based) (*why:* faster than microscopy and useful where same-day microscopy expertise isn't available, though generally used alongside rather than instead of blood films given some RDTs have reduced sensitivity for non-falciparum species or low parasitaemia; *what:* detects *Plasmodium* antigens, positive supports the diagnosis). FBC, LFTs, U&Es, glucose (*why:* screens for the specific complications of severe falciparum malaria described below — anaemia, hypoglycaemia, renal impairment — directly informing severity classification and urgency of Mx; *what:* the specific derangements noted in the S/Smx below).
+
+### 0.6.1 Plasmodium falciparum
+
+- Most common and most severe species.
+- **S/Smx:** blood film shows schizonts; parasitaemia >2%; hypoglycaemia; T >39°C; acidosis; anaemia.
+
+> [!danger] Complications of severe falciparum malaria: cerebral malaria (seizures, coma); AKI ("blackwater fever" secondary to intravascular haemolysis); ARDS; DIC; hypoglycaemia.
+
+- **Mx:**
+  - **Immediate/acute:** artemisinin-based combination therapies (ACT), e.g. artemether + lumefantrine, first-line for uncomplicated disease; **if parasite count >2% or any severity feature present (per the danger box above), treat as severe malaria — IV artesunate** is the preferred agent for severe/complicated falciparum malaria given superior mortality outcomes over IV quinine in trial evidence; if parasitaemia >10%, consider exchange transfusion, particularly with any organ dysfunction. Monitor closely for hypoglycaemia (both disease- and quinine-related) and for parasitaemia clearance.
+  - **Definitive:** complete the full ACT course; shock in a patient with malaria should specifically prompt consideration of concurrent bacterial septicaemia (a recognised co-presentation, particularly in children) rather than assuming malaria alone explains haemodynamic compromise — treat with resuscitation and broad-spectrum antibiotics accordingly if suspected, alongside antimalarial therapy.
+  - **Chronic/long-term:** no chronic/relapsing form for *falciparum* specifically (unlike *vivax*/*ovale* below), so no primaquine or long-term eradication therapy is needed once the acute episode is treated.
+
+### 0.6.2 Non-falciparum malaria
+
+- Most common species is *vivax*.
+- **S/Smx:** fever, headache, splenomegaly. Vivax/ovale — cyclical fever every 48h. Malariae — fever every 72h + nephrotic syndrome.
+
+> [!info] Gap-filled — the cyclical fever timing was stated as a bare pattern without explaining what actually produces it. **Mechanism:** *Plasmodium* infects red blood cells, where the parasite matures and multiplies over a defined, species-specific period before the infected cell **ruptures synchronously**, releasing a wave of merozoites (and pyrogenic cellular debris) into the bloodstream — this synchronised rupture event is what triggers the fever spike, not a continuous process. Between rupture events, released merozoites invade fresh red cells and mature quietly (asymptomatically) until the next synchronised rupture — producing the classic paroxysmal, cyclical pattern rather than a continuous fever. **The specific interval is species-dependent because each *Plasmodium* species has its own characteristic red-cell replication cycle length**: *vivax* and *ovale* complete this cycle in 48 hours ("tertian" fever, so named because fever recurs on day 1 and day 3 by old inclusive counting), while *malariae*'s cycle takes 72 hours ("quartan" fever). *Falciparum* often lacks a clearly defined cyclical pattern clinically, given its tendency toward asynchronous, overlapping infection cycles in practice — which is part of why falciparum's fever pattern is generally described as more continuous/irregular rather than following the same clean cyclical timing as the other species.
+
+- **Mx:**
+  - **Immediate/acute:** ACT for the acute episode, as for falciparum above.
+  - **Definitive/chronic:** **add primaquine** (except in pregnant women, where it's contraindicated) specifically for *vivax* and *ovale* — these species form dormant liver-stage hypnozoites capable of causing relapse months to years after the initial infection, and primaquine is the only agent that eradicates this liver-stage reservoir; *falciparum* and *malariae* don't form hypnozoites and so don't need this additional step. **Check G6PD status before giving primaquine**, given the risk of severe haemolysis in G6PD deficiency — a genuinely important safety step given G6PD deficiency itself is more prevalent in populations from malaria-endemic regions (the same protective-factor overlap noted above).
+
+## 0.4 Giardiasis
+
+- **A/P:** *Giardia lamblia*. Faecal-oral route. Travellers, especially those who swim or drink contaminated water, and MSM.
+- **S/Smx:** often asymptomatic. Non-bloody diarrhoea + steatorrhoea, bloating, abdominal pain. Lethargy, flatulence, weight loss. Malabsorption and lactose intolerance.
+- **Ix:** stool microscopy (65% sensitivity); stool antigen detection assay — more sensitive and faster.
+- **Mx:** PO metronidazole.
+
+## 0.1 Amoebiasis
+
+- **A/P:** protozoan *Entamoeba histolytica*. Faecal-oral route. Affects children; 10% of the world has chronic infection.
+- **Amoebic dysentery:** profuse, bloody diarrhoea ± long incubation period. Stool microscopy of a "hot stool" (within 15 minutes) may show trophozoites.
+  - **Mx:** PO metronidazole + diloxanide furoate ("luminal agent").
+- **Amoebic liver abscess:** usually a single mass in the right lobe, can be multiple. Contents described as "anchovy sauce".
+  - **S/Smx:** fever, RUQ pain, malaise, hepatomegaly.
+  - **Ix:** ultrasound; serology positive in >95%.
+  - **Mx:** PO metronidazole + diloxanide furoate.
+
+## 0.2 Cryptosporidiosis
+
+- **A/P:** *Cryptosporidium hominis*, *Cryptosporidium parvum*. Faecal-oral route. Young children and the immunocompromised at risk — most common cause of protozoal diarrhoea.
+- **Ix:** Ziehl-Neelsen stain of stool — characteristic red cysts.
+- **Mx:** supportive. If HIV+ve, start antiretrovirals. For the immunocompromised — nitazoxanide or rifaximin.
+
+## 0.7 Schistosomiasis
+
+- **A/P:** parasitic flatworm, spread via contaminated water.
+- **Acute infection:** swimmers' itch; Katayama fever (+ urticaria, arthralgia, myalgia, cough, diarrhoea, eosinophilia).
+- ***S. haematobium***: worms deposit egg clusters in the bladder → inflammation. Swimmers' itch, obstructive uropathy, kidney damage → frequency, haematuria, bladder calcification.
+
+> [!warning] Risk factor for squamous cell bladder cancer.
+
+- **Mx:** PO praziquantel.
+- ***S. mansoni* and *S. japonicum***: worms mature in the liver → portal system → distal colon. Hepatosplenomegaly secondary to portal vein occlusion; liver cirrhosis, variceal disease, cor pulmonale.
+
+## 0.5 Leishmaniasis
+
+- **A/P:** intracellular *Leishmania*, spread by sandfly bites.
+- **Cutaneous leishmaniasis** (*L. tropica* or *L. mexicana*): crusted lesion at bite site, underlying ulcer. Dx: punch biopsy.
+- **Mucocutaneous leishmaniasis** (*L. braziliensis*): skin lesion spreads to involve mucosae, nose, pharynx, etc.
+- **Visceral leishmaniasis** (*L. donovani*): Mediterranean, Asia, S. America, Africa. S/Smx: fever, sweats, rigors, massive hepatosplenomegaly → pancytopaenia, poor appetite, weight loss, grey skin ("kala-azar" = black sickness). Dx: bone marrow or splenic aspirate.
+  - **Mx:** watch and wait, topical or systemic antifungals (e.g. amphotericin).
+
+## 0.8 Trypanosomiasis
+
+- **A/P:** *Trypanosoma gambiense*, *Trypanosoma rhodesiense*, spread by tsetse fly bites.
+- ***T. rhodesiense***: trypanosoma chancre (painless squamous nodule at infection site); intermittent fever; posterior cervical lymph node enlargement; later CNS involvement — somnolence, headache, mood changes, meningoencephalitis.
+  - **Mx of early disease:** IV pentamidine or suramin.
+  - **Mx of late disease/CNS involvement:** IV melarsoprol.
+- ***T. cruzi* = Chagas disease (American trypanosomiasis)**: early phase 95% asymptomatic ± chagoma (erythematous nodule at infection site) ± periorbital oedema. Chronic disease — myocarditis; GI (mega-oesophagus, megacolon → dysphagia, constipation).
+  - **Mx (acute phase):** e.g. benznidazole, nifurtimox.
+  - **Mx (chronic phase):** management of complications.
+
+## 0.3 Cutaneous larva migrans
+
+- **A/P:** dog hookworm *Ancylostoma braziliense*.
+- **S/Smx:** intensely itchy and creeping rash due to subcutaneous larval migration.
+- **Mx:** albendazole, ivermectin.
+
+## 0.9 Other mosquito-borne illnesses
+
+### 0.9.1 Chikungunya virus
+
+- **A/P:** alphavirus, incubates ~15 days, spread by *Aedes* mosquitoes.
+- **S/Smx:** sudden onset high fever (>38.5°C) lasting 2–7 days; polyarthralgia and polyarthritis lasting longer than the fever (1–3 weeks); rash and other skin problems; photophobia, retro-ocular pain, conjunctivitis; lymphadenopathy; 1 in 5 develop neuropathic-type pain.
+- **Mx:** supportive; arthritis — NSAIDs or DMARDs.
+
+### 0.9.2 West Nile virus
+
+- **A/P:** flavivirus, incubates 2–6 days. Spread by mosquito or contact with infected blood.
+- **S/Smx:** sudden onset fever, malaise; arthralgia, myalgia, rash; lymphadenopathy; visual disturbances, conjunctival injection, chorioretinitis, inflammatory vitritis.
+
+> [!danger] Neuroinvasive disease can occur: encephalitis, meningitis, poliomyelitis.
+
+- **Ix:** serology. **Mx:** supportive.
+
+### 0.9.3 Filariasis
+
+- **A/P:** nematode parasites transmitted via mosquitoes (including *Aedes*).
+- Chronic disease — adult worms proliferate in the lymphatics → occlusion of lymph nodes disrupts lymphatic drainage. Increases risk of secondary infections (e.g. strep, fungal). Repeated infections → more lymphatic damage → can lead to elephantiasis.
+- **S/Smx:** fever, malaise; abscess and granuloma formation; lymphoedema; tropical pulmonary eosinophilia (restrictive lung disease — immune reaction to filarial infection).
+- **Ix:** blood smear, PCR, scrotal ultrasound.
+- **Mx:** combination therapy — diethylcarbamazine + ivermectin + albendazole. Surgical debulking of skin and lymphovenous anastomosis may be needed. Long-term patients may require compressive bandaging; encourage skin hygiene.
+
+> [!note] Marked "low yield" in the source material.
 
 
 <!-- ===== SOURCE: K4_Allergy_and_Clinical_Immunology.md ===== -->
@@ -2417,591 +2488,19 @@ Immunotherapy or biologic therapy through a specialist service.
 > Anaphylaxis acute management → [[F0.1]] 0.9 · Angioedema and airway compromise → [[A2]] 0.2 · Severe cutaneous adverse reactions (SJS/TEN, DRESS) → [[A5]] 0.6 · Adverse drug reaction classification → [[A5]] 0.5 · Immunodeficiency and pre-immunosuppression screening → [[K3]] 0.5 · Asthma → [[F0.5]] 0.1 · Chronic cough and reflux → [[A4]] 0.5 · Coeliac disease and chronic diarrhoea → [[C5]] 0.4 · Eosinophilic oesophagitis → [[C6]] 0.3 · Eczema and chronic dermatoses → [[G4]] · Nasal polyps and rhinosinusitis → [[F2]] · Tick-induced mammalian meat allergy → [[K3]] 0.6 · Transfusion reactions → [[A9]] 0.2
 
 
-<!-- ===== SOURCE: NEW_Drugs_05_Anti_infectives.md ===== -->
+<!-- ===== SOURCE: 10_09b_Haemonc_-_Miscellaneous_Haematology.md ===== -->
+*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
 
+## Hereditary angioedema
+`CF-PAIR` **An angioedema entry already exists in this file (`K4 §0.6 Urticaria, Angioedema and Mast Cell Disorders`). Both kept in full — this one is the hereditary complement-mediated disease, that one the mast-cell spectrum.**
 
-# NEW — Drug Classes: Anti-infectives (AMH section 5)
+- **D:** ↓plasma levels of complement C1 inhibitor protein → uncontrolled release of bradykinin → oedema of tissues. Autosomal dominant.
+- **S/Smx:** painless, non-pruritic swelling of subcutaneous/submucosal tissues (angioedema); may affect the upper airways, skin, or abdominal organs; a painful macular rash may precede an attack; urticaria is rare.
+- **Ix:** ↓C1 inhibitor during attacks; ↓C2 and C4 at all times.
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+> [!danger] No response to IM adrenaline, antihistamines, or glucocorticoids — hereditary angioedema is not mast-cell/IgE-mediated, so standard anaphylaxis treatment is ineffective.
 
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines: Antibiotic are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** **Therapeutic Guidelines: Antibiotic is the Australian standard** and is what an intern should actually be prescribing from — this file is for understanding the classes, not for choosing a regimen.
-
-> [!info] **The frame for the whole file: antimicrobial stewardship.**
-> Before writing any antimicrobial, answer: **Is this infection? Which infection, and where? Have I taken cultures FIRST? What is the narrowest agent that covers the likely organism? What route, what dose for this patient's renal function and weight, and — the one most often left blank — FOR HOW LONG?** Then **review at 48–72 hours** against the culture result and de-escalate. Resistance, *C. difficile*, and adverse effects are all driven by unnecessary and unnecessarily broad prescribing. **Every antimicrobial prescription needs an indication and a stop or review date documented.**
-
-> [!danger] **Antibiotic allergy labels: most are wrong, and the label itself causes harm.**
-> Around 10% of patients carry a "penicillin allergy" label and the great majority are not truly allergic — the label is often childhood rash during a viral illness. The consequence is real: patients get **broader, more toxic, less effective second-line agents**, with higher rates of MRSA, VRE, *C. difficile* and surgical site infection. **Take a proper allergy history** — what happened, when, how soon after the dose, what was done — and **distinguish intolerance (nausea, diarrhoea) from allergy**, and **non-severe rash from anaphylaxis or a severe cutaneous adverse reaction (SJS/TEN, DRESS, AGEP)**. Refer for delabelling where appropriate. **A patient with a documented severe reaction must never be rechallenged** — that decision belongs to an immunologist.
-
----
-
-## 0.1 Anthelmintics
-
-### 0.1.1 Benzimidazoles
-- **Mechanism:** bind parasite **β-tubulin**, inhibiting microtubule polymerisation → impaired glucose uptake and parasite death.
-- **Key agents:** **albendazole, mebendazole**, triclabendazole (fasciola).
-- **Indications:** **threadworm (pinworm, *Enterobius*)** — the commonest use in Australian general practice; roundworm, hookworm, whipworm; **hydatid disease** (*Echinococcus*, with surgery); neurocysticercosis; strongyloidiasis (ivermectin preferred); larva migrans.
-- **Adverse effects:** usually mild GI upset and headache with short courses. **Prolonged high-dose therapy (hydatid, neurocysticercosis) causes hepatotoxicity and bone marrow suppression** and needs FBC and LFT monitoring.
-- **Practical points:** **treat the whole household simultaneously for threadworm**, repeat after ~2 weeks to catch the next cycle, and combine with hygiene measures (nails, bedding, handwashing) or reinfection is guaranteed. Avoid in the first trimester of pregnancy where possible.
-- **Interactions:** albendazole levels rise with **fatty food** (used deliberately for systemic infection) and are altered by dexamethasone and praziquantel.
-
-> [!danger] **Neurocysticercosis: starting an anthelmintic can precipitate a severe inflammatory reaction and seizures** as cysts die in the brain. **Corticosteroids and anticonvulsant cover, with ophthalmological assessment to exclude intraocular cysts, come first** — this is specialist territory, not an outpatient prescription.
-
-### 0.1.2 Other Anthelmintics
-- **Praziquantel** — increases parasite membrane calcium permeability causing paralysis. **Schistosomiasis** (the main use — relevant in returned travellers and migrants from endemic regions) and tapeworms. Well tolerated; may provoke inflammatory reactions when large worm burdens die.
-- **Ivermectin** — glutamate-gated chloride channel agonist. **Strongyloidiasis (the drug of choice), scabies (including crusted scabies), onchocerciasis, and cutaneous larva migrans.**
-  - **Strongyloides is the one to know in Australia:** endemic in some remote Aboriginal and Torres Strait Islander communities and in returned travellers, it can persist for decades by autoinfection, and **immunosuppression — particularly CORTICOSTEROIDS — can precipitate fatal hyperinfection syndrome and disseminated disease with Gram-negative sepsis.** **Screen (serology, eosinophilia) before starting corticosteroids or other immunosuppression in anyone with relevant exposure.** See [[08_07_Infectious_Disease_-_Protozoan_Infections]].
-- **Pyrantel** — depolarising neuromuscular blockade in the worm; available over the counter for threadworm.
-- **Niclosamide, levamisole** — narrower, largely historical roles.
-
-## 0.2 Antibacterials
-
-### 0.2.1 Penicillins
-- **Mechanism:** **β-lactams** — bind penicillin-binding proteins, inhibiting cross-linking of peptidoglycan in the bacterial cell wall → **bactericidal**, and **time-dependent** killing (so dosing frequency and infusion strategy matter more than peak concentration).
-- **Key agents and their spectra:**
-  - **Benzylpenicillin (penicillin G)** and **phenoxymethylpenicillin (penicillin V)** — *Streptococcus pyogenes* and other streptococci, *Neisseria meningitidis*, syphilis, *Clostridium* species. **Still first-line for syphilis and for streptococcal pharyngitis and cellulitis.**
-  - **Antistaphylococcal penicillins — flucloxacillin, dicloxacillin** — **β-lactamase stable**, so they cover **methicillin-susceptible *Staphylococcus aureus* (MSSA)**. **Flucloxacillin is the drug of choice for MSSA bacteraemia and is superior to vancomycin for susceptible organisms** — a point worth knowing, because the reflex to keep a patient on vancomycin once susceptibility is known is a real error.
-  - **Aminopenicillins — amoxicillin, ampicillin** — extended Gram-negative cover; *Listeria*, enterococci, *H. influenzae* (if β-lactamase negative). **Amoxicillin is first-line for community-acquired pneumonia and otitis media in Australia.**
-  - **Antipseudomonal — piperacillin (with tazobactam), ticarcillin** — see 0.2.2.
-- **Adverse effects:** hypersensitivity (immediate IgE-mediated through to delayed rashes and severe cutaneous reactions); GI upset and *C. difficile*; **interstitial nephritis**; seizures at very high doses or in renal impairment; **flucloxacillin causes cholestatic hepatitis**, which can present **weeks after the course has finished** and is commoner in older patients and with prolonged courses; **encephalopathy** with high-dose benzylpenicillin in renal failure.
-- **Practical:** **a maculopapular rash with amoxicillin during EBV (glandular fever) is near-universal and is NOT a penicillin allergy** — mislabelling it commits the patient to a lifetime of second-line antibiotics.
-
-### 0.2.2 Penicillin Combinations
-- **Mechanism:** a penicillin plus a **β-lactamase inhibitor** (clavulanate, tazobactam), which sacrifices itself to the enzyme so the penicillin survives — restoring activity against β-lactamase-producing organisms.
-- **Key agents:** **amoxicillin–clavulanate**, **piperacillin–tazobactam**, ticarcillin–clavulanate, ampicillin–sulbactam.
-- **Indications:** **amoxicillin–clavulanate** — animal and human bites, sinusitis and otitis failing amoxicillin, aspiration, diabetic foot and other mixed infections. **Piperacillin–tazobactam** — broad-spectrum intravenous cover including *Pseudomonas* and anaerobes, in hospital-acquired and intra-abdominal infection and febrile neutropenia.
-- **Adverse effects:** as for penicillins, plus more **diarrhoea** (clavulanate) and a notable risk of **cholestatic hepatitis with amoxicillin–clavulanate**. Piperacillin–tazobactam is associated with **hypokalaemia**, thrombocytopenia and — in combination with vancomycin — an **increased incidence of acute kidney injury**.
-- **Stewardship point:** these are broad agents. **"Amoxicillin–clavulanate for everything" is poor practice** — it drives resistance and *C. difficile* where plain amoxicillin or a narrow agent would do.
-
-### 0.2.3 Cephalosporins
-- **Mechanism:** β-lactams, as above.
-- **Generations — the spectrum shifts predictably:**
-  - **1st (cefalexin, cefazolin)** — good Gram-positive (MSSA, streptococci), limited Gram-negative. **Cefazolin is the standard surgical prophylaxis agent**; cefalexin is the common oral agent for cellulitis and UTI.
-  - **2nd (cefuroxime, cefoxitin)** — more Gram-negative, some anaerobic activity.
-  - **3rd (ceftriaxone, cefotaxime, ceftazidime)** — broad Gram-negative and good **CSF penetration**. **Ceftriaxone is central to empirical meningitis, severe community-acquired pneumonia and gonorrhoea treatment**; **ceftazidime** adds *Pseudomonas* but has weak Gram-positive activity.
-  - **4th (cefepime)** — broad, including *Pseudomonas*, with Gram-positive activity retained.
-  - **5th (ceftaroline)** — the one with **MRSA** activity.
-- **The gaps every generation shares — remember what cephalosporins do NOT cover:** ***Listeria*, *Enterococcus*, MRSA** (except ceftaroline), and atypicals. **"LEM"** is a serviceable mnemonic and explains why amoxicillin is added to ceftriaxone in meningitis at the extremes of age.
-- **Adverse effects:** hypersensitivity; **cross-reactivity with penicillin allergy is much lower than the traditional 10% teaching** and is determined largely by **shared side chains** rather than the β-lactam ring — most patients with a non-severe penicillin allergy can safely receive a structurally dissimilar cephalosporin, though this decision should follow local policy; *C. difficile* (**cephalosporins are among the highest-risk classes**); **ceftriaxone causes biliary sludging/pseudolithiasis** and displaces bilirubin, so it is **avoided in neonates**, particularly with calcium-containing fluids.
-
-### 0.2.4 Carbapenems
-- **Key agents:** **meropenem, imipenem–cilastatin, ertapenem**.
-- **Spectrum:** the broadest β-lactams — Gram-positive, Gram-negative including **ESBL producers**, and anaerobes. **Meropenem and imipenem cover *Pseudomonas*; ertapenem does NOT** (and also misses *Acinetobacter* and *Enterococcus*), which is the single most useful distinction in the class.
-- **Role:** **reserve agents.** Multi-resistant Gram-negative infection, severe sepsis with resistant organisms, and infections where nothing narrower will do. Carbapenem use drives **carbapenem-resistant Enterobacterales**, one of the most serious current resistance threats.
-- **Adverse effects:** **seizures** — highest with imipenem and at high doses in renal impairment or with CNS pathology; hypersensitivity (with some cross-reactivity to penicillins, though lower than once thought); *C. difficile*.
-- **Interaction:** **carbapenems dramatically reduce valproate levels** and can precipitate seizures in a patient with epilepsy — a genuinely important and often-missed interaction.
-
-### 0.2.5 Monobactams
-- **Aztreonam** — the sole member. A **monocyclic** β-lactam active **only against aerobic Gram-negative organisms**, including *Pseudomonas*; **no Gram-positive or anaerobic activity at all**.
-- **Its niche is its structure:** aztreonam has **essentially no cross-reactivity with penicillins or other β-lactams** (except ceftazidime, with which it shares a side chain), so it is the β-lactam option in a patient with severe penicillin allergy who needs Gram-negative cover. Not widely stocked in Australian hospitals — check availability.
-
-### 0.2.6 Carbacephem
-- **Loracarbef** — a β-lactam structurally related to the cephalosporins (a carbon replaces the sulfur in the ring), with a cefaclor-like spectrum. **It is not marketed in Australia and is of historical interest only**; it appears on the build list but an Australian intern will not encounter it. Recorded here for completeness rather than because it has clinical relevance.
-
-### 0.2.7 Glycopeptides
-- **Mechanism:** bind the **D-Ala-D-Ala terminus** of cell wall precursors, blocking transglycosylation — a different site from the β-lactams, hence activity against β-lactam-resistant Gram-positives.
-- **Key agents:** **vancomycin, teicoplanin**.
-- **Spectrum:** **Gram-positive only** — **MRSA**, methicillin-resistant coagulase-negative staphylococci, *Enterococcus* (unless VRE), *C. difficile* (**oral** vancomycin for colitis — oral vancomycin is not absorbed and has **no systemic effect**, and conversely IV vancomycin does not treat *C. difficile*; confusing the two is a classic error).
-- **Adverse effects:**
-  - **Nephrotoxicity** — dose- and exposure-related, and substantially increased when combined with **piperacillin–tazobactam** or other nephrotoxins.
-  - **Ototoxicity.**
-  - **Vancomycin infusion reaction ("red man syndrome")** — an **anaphylactoid, histamine-mediated, rate-dependent** flushing of the face, neck and upper torso, sometimes with hypotension. **It is NOT an allergy**; the management is to **slow the infusion** and premedicate with an antihistamine, not to label the patient allergic and switch to something worse.
-  - Neutropenia and thrombocytopenia with prolonged courses; **DRESS**.
-- **Monitoring — and the standard has changed:** sources describe the **2020 consensus shift from trough-based to AUC-guided monitoring**, targeting an **AUC/MIC of approximately 400–600 mg·h/L**, on the grounds that trough targets of 15–20 mg/L drove unnecessary exposure and **acute kidney injury**. **Know which method your hospital uses**, and monitor renal function throughout.
-
-### 0.2.8 Lipopeptide
-- **Daptomycin** — inserts into the Gram-positive cell membrane and depolarises it. Active against **MRSA and VRE**.
-- **THE defining limitation: daptomycin is INACTIVATED BY PULMONARY SURFACTANT and therefore does NOT work in pneumonia.** It is used for bacteraemia, right-sided endocarditis, and skin and soft tissue infection — never for a lung source.
-- **Adverse effects:** **myopathy and rhabdomyolysis** — **monitor CK weekly**, and consider withholding statins during therapy; eosinophilic pneumonia (a distinct entity from treatment failure); peripheral neuropathy.
-
-### 0.2.9 Polypeptides
-- **Key agents:** **colistin (polymyxin E)** and **polymyxin B** systemically; **bacitracin** topically.
-- **Mechanism:** cationic detergents that disrupt the Gram-negative **outer membrane**.
-- **Role:** **last-line agents** for **multidrug-resistant Gram-negative infection** — carbapenem-resistant *Pseudomonas*, *Acinetobacter*, *Klebsiella*. Their revival is a direct consequence of resistance.
-- **Adverse effects:** **significant nephrotoxicity and neurotoxicity** (paraesthesia, weakness, and neuromuscular blockade that can cause apnoea). Their toxicity is why they were abandoned in the first place, and why their use is a specialist decision with close monitoring.
-
-### 0.2.10 Aminoglycosides
-- **Mechanism:** bind the **30S ribosomal subunit**, causing misreading of mRNA → **bactericidal**, with **concentration-dependent** killing and a prolonged **post-antibiotic effect** — which is the rationale for **once-daily (extended-interval) dosing**.
-- **Key agents:** **gentamicin, tobramycin, amikacin**; **neomycin** and **framycetin** topically.
-- **Spectrum:** aerobic **Gram-negative** organisms including *Pseudomonas*; **synergy with a β-lactam against Gram-positives** (used in enterococcal and staphylococcal endocarditis). **No anaerobic activity** — they require oxygen for uptake, which also explains their poor performance in abscesses and acidic environments.
-- **Adverse effects — the two that define the class:**
-  - **Nephrotoxicity** — usually **non-oliguric acute tubular necrosis**, typically reversible, and the reason short courses are preferred.
-  - **Ototoxicity — cochlear (hearing loss) and vestibular (imbalance, oscillopsia) — and it is IRREVERSIBLE.** Risk rises with duration, cumulative dose, renal impairment, age, and concurrent loop diuretics or other ototoxins. There is a **mitochondrial (m.1555A>G) variant** conferring susceptibility to profound deafness after a single dose — ask about a **maternal family history of aminoglycoside-related deafness**.
-  - Also **neuromuscular blockade** — dangerous in myasthenia gravis and additive with neuromuscular blocking agents.
-- **Monitoring:** **renal function before and during therapy**, therapeutic drug monitoring to your hospital's protocol, and **audiometry for prolonged courses**. **Keep courses short**, and review the indication daily.
-- **Pregnancy:** avoided — fetal ototoxicity.
-
-### 0.2.11 Macrolides
-- **Mechanism:** bind the **50S** subunit, inhibiting translocation — **bacteriostatic** at usual concentrations.
-- **Key agents:** **azithromycin, clarithromycin, roxithromycin, erythromycin**.
-- **Spectrum and indications:** **atypical pneumonia — *Mycoplasma*, *Chlamydia*, *Legionella*** (the main reason they are added to a β-lactam in community-acquired pneumonia); *Bordetella pertussis*; *Campylobacter*; chlamydial genital infection; *H. pylori* eradication (clarithromycin); **the penicillin-allergic patient** with a streptococcal infection; and **long-term azithromycin** as an anti-inflammatory in bronchiectasis and severe asthma.
-- **Adverse effects:** **GI upset** — erythromycin is a **motilin agonist** (which is why it is used deliberately as a prokinetic); **QT PROLONGATION and torsades de pointes** — a class effect that matters because macrolides are so often added to other QT-prolonging drugs; **cholestatic hepatitis**; ototoxicity at high doses; hypertrophic pyloric stenosis in neonates given erythromycin.
-- **INTERACTIONS — this is the highest-yield part of the entry.** **Erythromycin and clarithromycin are potent CYP3A4 inhibitors** and cause clinically serious interactions with: **statins** (rhabdomyolysis — simvastatin and atorvastatin especially), **colchicine** (toxicity, with reported deaths), **warfarin** (bleeding), **calcium channel blockers** (hypotension), **ciclosporin and tacrolimus**, **ergot alkaloids**, and **digoxin**. **Azithromycin has far less CYP interaction**, which is often the reason to choose it.
-
-### 0.2.12 Lincosamides
-- **Clindamycin** (and lincomycin) — bind the **50S** subunit at a site overlapping the macrolides.
-- **Spectrum:** **Gram-positives including many MRSA strains, and excellent anaerobic cover**; good bone, soft tissue and abscess penetration.
-- **The property that makes it valuable:** clindamycin **inhibits bacterial protein synthesis**, so it **switches off exotoxin production**. This is why it is added to a β-lactam in **necrotising fasciitis, streptococcal and staphylococcal toxic shock syndrome** — a genuinely life-saving indication.
-- **Adverse effects:** **the highest-profile association with *Clostridioides difficile* colitis** of any antibiotic — though in practice cephalosporins, fluoroquinolones and broad β-lactams cause more cases by volume. Diarrhoea, rash, and oesophageal ulceration if swallowed without water.
-- **Resistance note:** **inducible clindamycin resistance** in erythromycin-resistant staphylococci is detected by the **D-test**; a laboratory report of clindamycin susceptibility in an erythromycin-resistant isolate must be interpreted with this in mind.
-
-### 0.2.13 Tetracyclines
-- **Mechanism:** bind the **30S** subunit, blocking aminoacyl-tRNA — **bacteriostatic**, broad spectrum.
-- **Key agents:** **doxycycline** (the one used most in Australia), minocycline, tetracycline; **tigecycline** (a glycylcycline reserve agent).
-- **Indications — an unusually wide and Australian-relevant list:** **atypical and community-acquired pneumonia**; **chlamydia** and pelvic inflammatory disease; **acne and rosacea**; **rickettsial infections — Q fever, scrub typhus, Australian tick typhus**; **leptospirosis**; **Lyme-like illness and melioidosis eradication**; **malaria prophylaxis and treatment adjunct**; **bites**; **MRSA** skin infection (doxycycline is a useful oral option).
-- **Adverse effects:** **photosensitivity** — significant in Australia, and patients must be told to use sun protection; **oesophagitis and oesophageal ulceration** — take with a full glass of water, sitting or standing, and not immediately before lying down; GI upset; **benign intracranial hypertension** (particularly minocycline, and additively with isotretinoin — do not combine); **minocycline-specific** drug-induced lupus, hyperpigmentation and vestibular disturbance; candidiasis.
-- **Contraindications:** **pregnancy and breastfeeding**, and **children under 8 years** — deposition in developing teeth and bone causes **permanent discolouration and enamel hypoplasia** and inhibits bone growth. (Short courses in serious rickettsial illness in children are an accepted exception on specialist advice.)
-- **Interactions:** **absorption is markedly reduced by calcium, magnesium, aluminium, iron and zinc** — antacids, dairy, and supplements. **Separate the doses**; this is the commonest reason doxycycline appears not to work.
-
-### 0.2.14 Quinolones (Fluoroquinolones)
-- **Mechanism:** inhibit **DNA gyrase and topoisomerase IV** — bactericidal, excellent oral bioavailability and tissue penetration.
-- **Key agents:** **ciprofloxacin** (best Gram-negative and the main **antipseudomonal** oral option), **norfloxacin** (urinary), **moxifloxacin** (better Gram-positive and anaerobic, no useful urinary concentration).
-- **Role in Australia: deliberately restricted.** Australian prescribing has always been more conservative than elsewhere, to preserve activity and limit harm, and the PBS restricts them. **They are not first-line for uncomplicated UTI, community-acquired pneumonia or skin infection in Australia.**
-- **Adverse effects — the TGA has issued specific warnings, and sources confirm the Product Information was updated:**
-  - **TENDINOPATHY AND TENDON RUPTURE** — classically the Achilles, can occur **within days of starting and up to months after stopping**, and risk is greatly increased by **concurrent corticosteroids, age over 60, and renal impairment or transplantation**. **Any new tendon pain means stopping the drug and resting the limb.**
-  - **AORTIC ANEURYSM AND DISSECTION** — sources record the TGA precaution that fluoroquinolones should be used **only after careful benefit-risk assessment and consideration of alternatives** in patients with a **family history of aneurysm, known aortic aneurysm or dissection, or predisposing risk factors** (Marfan, Ehlers-Danlos, hypertension, atherosclerosis, older age).
-  - **PERIPHERAL NEUROPATHY** — can be rapid in onset and **permanent**.
-  - **CNS effects** — insomnia, agitation, confusion, psychosis, **seizures** (lowered threshold; caution in epilepsy), and delirium in the elderly.
-  - **QT prolongation**; **tendon and CNS effects are worse in the elderly**; **aortic and tendon effects reflect collagen toxicity**; ***C. difficile*** risk is high; **dysglycaemia** with sulfonylureas; retinal detachment (debated).
-- **Interactions:** absorption blocked by **divalent and trivalent cations** (antacids, iron, calcium, zinc — separate the doses); **ciprofloxacin inhibits CYP1A2**, raising **theophylline** and **clozapine** levels; additive QT prolongation; **warfarin** potentiation.
-- **Contraindications/cautions:** children and adolescents (arthropathy in animal studies) except where the benefit clearly outweighs; pregnancy; myasthenia gravis (**exacerbation**); epilepsy; known aneurysm risk.
-
-### 0.2.15 Metronidazole (Nitroimidazoles)
-- **Mechanism:** reduced intracellularly by **anaerobic** organisms to a reactive nitro radical that damages DNA — which is precisely why it works only where there is no oxygen.
-- **Key agents:** **metronidazole**, tinidazole.
-- **Indications:** **anaerobic infection** — intra-abdominal, pelvic, dental, aspiration, brain abscess (good CNS penetration); ***C. difficile*** (now second-line to oral vancomycin); **bacterial vaginosis and trichomoniasis**; **amoebiasis and giardiasis**; *H. pylori* eradication regimens.
-- **Adverse effects:** **metallic taste** (very characteristic), nausea, furred tongue; **peripheral neuropathy with prolonged courses** — sensory, cumulative-dose related and sometimes irreversible; **encephalopathy and cerebellar toxicity** (rare); dark urine; **oral candidiasis**.
-- **The interaction to warn about explicitly: DISULFIRAM-LIKE REACTION WITH ALCOHOL** — flushing, vomiting, headache, tachycardia. **Tell the patient to avoid alcohol during the course and for 24–48 hours afterwards**, and remember alcohol hides in mouthwashes and some medicines. Also **potentiates warfarin** significantly.
-
-### 0.2.16 Nitrofurans
-- **Nitrofurantoin** — reduced by bacterial nitroreductases to multiple reactive intermediates attacking ribosomes, DNA and metabolic enzymes; the multi-target mechanism explains why **resistance has remained low despite decades of use**.
-- **Indication:** **uncomplicated lower urinary tract infection** — it concentrates in urine but achieves **negligible tissue and serum concentrations**.
-- **THE KEY LIMITATIONS, both of which follow from that:**
-  - **It does NOT treat pyelonephritis, prostatitis or any systemic infection** — using it for an upper tract infection is a recognised and dangerous error.
-  - **It requires adequate renal function to reach therapeutic urinary concentrations** and is **avoided in significant renal impairment** — where it both fails to work and accumulates systemically, increasing toxicity. This matters most in the frail elderly patient who is exactly the person being prescribed it.
-- **Adverse effects:** nausea (better with food); **acute pulmonary reaction** (fever, dyspnoea, eosinophilia — within days to weeks) and **chronic interstitial pulmonary fibrosis** with long-term prophylactic use; **peripheral neuropathy** (worse in renal impairment); **hepatotoxicity** including chronic active hepatitis; **haemolysis in G6PD deficiency**; brown urine.
-- **Pregnancy:** generally acceptable but **avoided near term and in the neonatal period** because of haemolysis risk in the newborn.
-
-### 0.2.17 Rifamycins / Ansamycins
-*(the build list carries `Rifamycins` and `Ansamycins` separately — rifamycins ARE ansamycins, so they are built once here)*
-- **Mechanism:** inhibit **bacterial DNA-dependent RNA polymerase**.
-- **Key agents:** **rifampicin**, rifabutin, rifapentine; **rifaximin** (non-absorbed, acting in the gut).
-- **Indications:** **tuberculosis and other mycobacterial disease** (see 0.2.18); **meningococcal and *H. influenzae* type b prophylaxis**; **staphylococcal prosthetic material and bone and joint infection** — where its **biofilm penetration** is the reason it is added; leprosy. **Rifaximin** — hepatic encephalopathy and travellers' diarrhoea.
-- **The two things every clinician must say to a patient starting rifampicin:**
-  1. **"It turns your urine, tears and sweat ORANGE-RED, and it will permanently stain soft contact lenses."** Harmless, but terrifying if unexpected.
-  2. **"It will stop your contraceptive pill working."**
-- **RIFAMPICIN IS A POTENT INDUCER OF CYP3A4 AND OTHER ENZYMES** — one of the most interaction-prone drugs in the formulary. It reduces the effect of: **hormonal contraceptives** (alternative contraception is mandatory), **warfarin and DOACs**, **corticosteroids** (can precipitate adrenal crisis in a steroid-dependent patient), **antiretrovirals** (major issue in HIV-TB co-treatment — rifabutin is often substituted), **azole antifungals**, **methadone** (precipitating withdrawal), **statins**, **ciclosporin and tacrolimus**, and many more. **Check every co-prescribed drug.**
-- **Other adverse effects:** hepatotoxicity; a flu-like syndrome with intermittent dosing; thrombocytopenia; interstitial nephritis.
-- **NEVER use rifampicin as monotherapy for an active infection** — resistance emerges rapidly.
-
-### 0.2.18 Antimycobacterials
-- **First-line anti-tuberculous therapy — "RIPE"**, given as combination therapy for months under specialist and public health supervision:
-  - **Rifampicin** — see 0.2.17. **Orange secretions; enzyme induction.**
-  - **Isoniazid** — **peripheral neuropathy** (prevented by **pyridoxine**, which should be co-prescribed in those at risk — diabetes, renal failure, alcohol dependence, malnutrition, pregnancy, HIV); **hepatitis**; drug-induced lupus; and **seizures in overdose, treated with pyridoxine**.
-  - **Pyrazinamide** — **hepatotoxicity**; **hyperuricaemia and gout**; arthralgia.
-  - **Ethambutol** — **OPTIC NEURITIS with loss of visual acuity and RED-GREEN COLOUR VISION** — dose-related and usually reversible if caught. **Baseline and periodic visual acuity and colour vision testing are required, and the patient must be told to report any visual change immediately and stop the drug.**
-- **Cross-cutting principles:**
-  - **Hepatotoxicity is a shared risk of rifampicin, isoniazid and pyrazinamide** — check baseline LFTs and monitor; a patient on TB treatment with nausea, vomiting, jaundice or abdominal pain needs urgent LFTs.
-  - **Never treat active TB with a single agent** — resistance is the inevitable result.
-  - **Directly observed therapy and public health involvement are standard**; TB is **notifiable** in every Australian jurisdiction and is managed by state TB services.
-  - **Exclude active TB before treating latent infection.** See `NEW_Investigations_Respiratory.md` 0.7.
-  - **Non-tuberculous mycobacteria** (*M. avium* complex, *M. abscessus*) require different, prolonged, multi-drug regimens; **leprosy** is treated with rifampicin, dapsone and clofazimine.
-  - **Second-line and MDR-TB agents** — fluoroquinolones, bedaquiline, linezolid, aminoglycosides — are specialist-only, and bedaquiline plus azoles both prolong the QT.
-
-### 0.2.19 Other Antibacterials
-- **Sulfonamides and trimethoprim — trimethoprim, and trimethoprim–sulfamethoxazole (co-trimoxazole)**
-  - **Mechanism:** sequential blockade of bacterial folate synthesis (sulfamethoxazole at dihydropteroate synthase, trimethoprim at dihydrofolate reductase).
-  - **Indications:** UTI (**trimethoprim alone is a common Australian first-line oral agent**); ***Pneumocystis jirovecii* pneumonia — treatment and prophylaxis**, which is the indication that saves lives in the immunosuppressed; *Nocardia*; *Stenotrophomonas*; some MRSA skin infection; toxoplasmosis.
-  - **Adverse effects:** **HYPERKALAEMIA** — trimethoprim blocks the distal tubular epithelial sodium channel like amiloride, and the effect is clinically significant, especially with **ACE inhibitors, ARBs, spironolactone or renal impairment**; a **rise in creatinine without a true fall in GFR** (it blocks tubular creatinine secretion); **rash and severe cutaneous adverse reactions (SJS/TEN)** — sulfonamides are among the leading causes; marrow suppression and megaloblastic changes; hepatitis; hyponatraemia; **haemolysis in G6PD deficiency**.
-  - **Contraindication:** **first trimester of pregnancy** (folate antagonism — neural tube defects) and near term; **interacts with methotrexate** (additive antifolate — potentially fatal) and **warfarin**.
-- **Oxazolidinones — linezolid, tedizolid.** 50S inhibitors active against **MRSA and VRE**, with **excellent oral bioavailability** (so a patient can complete treatment orally). **Adverse effects: myelosuppression — especially thrombocytopenia — with courses beyond about two weeks (monitor FBC); peripheral and OPTIC neuropathy with prolonged use; lactic acidosis; and SEROTONIN SYNDROME**, because linezolid is a weak **MAOI** — a critical interaction with SSRIs, SNRIs, tramadol and triptans.
-- **Chloramphenicol** — broad-spectrum; systemic use abandoned in Australia because of **idiosyncratic aplastic anaemia** (unpredictable, not dose-related, often fatal) and **grey baby syndrome** in neonates. **Topical ocular and otic preparations remain in common use** and are safe.
-- **Fosfomycin** — single-dose oral therapy for uncomplicated UTI, useful against multi-resistant organisms.
-- **Fusidic acid** — antistaphylococcal; **used topically for impetigo, and resistance emerges rapidly**, so topical use should be short and limited. Systemically it is combined with another agent and causes hepatotoxicity and statin interaction (rhabdomyolysis).
-- **Dapsone** — leprosy, dermatitis herpetiformis, PJP prophylaxis (second-line). **Haemolysis and methaemoglobinaemia, markedly worse in G6PD deficiency — screen before starting.**
-- **Nitroimidazole, glycylcycline and other reserve agents** — see the relevant classes above.
-
-### 0.2.20 Antibacterials (Skin)
-- **Key agents:** **mupirocin**, fusidic acid, silver sulfadiazine, chlorhexidine and other antiseptics, topical clindamycin and benzoyl peroxide (acne), topical metronidazole (rosacea).
-- **Indications:** **localised impetigo**; **nasal decolonisation for *S. aureus*** (mupirocin) before surgery or in recurrent furunculosis; burns (silver sulfadiazine); acne and rosacea.
-- **The principles that matter more than the agents:**
-  - **Widespread, systemic or deep infection needs oral or intravenous antibiotics**, not a cream. Topical treatment of cellulitis does not work.
-  - **Topical antibiotic use drives resistance efficiently** — **mupirocin resistance and fusidic acid resistance in *S. aureus* have both risen with liberal topical use in Australia.** Keep courses short and indications tight, and prefer **antiseptics (chlorhexidine, povidone-iodine, bleach baths)** where an antibacterial effect is wanted without an antibiotic.
-  - **Topical antibiotics are a common cause of contact allergic dermatitis** — a "worsening infection" on topical treatment may be sensitisation.
-  - **In tropical and remote Australian settings, skin sores are a driver of acute post-streptococcal glomerulonephritis and acute rheumatic fever**, so treatment thresholds and regimens differ and follow specific regional protocols. See [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]].
-- **Silver sulfadiazine** — note the **sulfonamide** component (allergy), possible marrow effects with large-area use, and that it can obscure burn wound assessment.
-
-### 0.2.21 Antibacterials (Ear)
-- **Key agents:** topical drops containing **ciprofloxacin** (± a corticosteroid), **framycetin/neomycin**, **gentamicin**, chloramphenicol, and acetic acid/aluminium acetate preparations.
-- **Indications:** **otitis externa** — where **topical treatment is more effective than oral antibiotics**, and aural toilet (microsuction or dry mopping) is at least as important as the drops; **chronic suppurative otitis media with discharge through a perforation or grommet**.
-
-> [!danger] **Aminoglycoside ear drops and a perforated tympanic membrane: the classic ototoxicity trap.**
-> **Framycetin, neomycin and gentamicin drops are potentially ototoxic if they reach the middle ear** through a perforation or a grommet, and the resulting sensorineural hearing loss is **permanent**. **Where the drum is perforated or grommets are in place, use a quinolone drop (ciprofloxacin), which is not ototoxic** — this is the standard and it is frequently got wrong.
-
-- **Other practical points:** **keep the ear dry**; a **wick** is used when the canal is too swollen for drops to penetrate; **failure to respond suggests fungal otitis externa** (*Aspergillus*, *Candida* — needs an antifungal, and topical antibiotic use predisposes to it), a foreign body, or an underlying dermatitis. **Severe pain, granulation tissue in the canal, cranial nerve palsy, or otitis externa in an elderly diabetic or immunosuppressed patient raises NECROTISING (MALIGNANT) OTITIS EXTERNA** — a *Pseudomonas* skull-base osteomyelitis requiring urgent imaging, admission and prolonged systemic therapy. See [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]].
-
-## 0.3 Antifungals
-
-### 0.3.1 Azoles
-- **Mechanism:** inhibit fungal **14α-demethylase (CYP51)**, blocking ergosterol synthesis and disrupting the fungal membrane.
-- **Key agents:** **fluconazole** (candida, cryptococcus; excellent CSF and urinary penetration; **no mould activity**), **itraconazole** (dermatophytes, *Aspergillus*, sporotrichosis), **voriconazole** (**invasive aspergillosis** — the drug of choice), **posaconazole** (broad mould cover including mucormycosis; prophylaxis in haematology), **isavuconazole**; and topical **clotrimazole, miconazole, ketoconazole**.
-- **Adverse effects:** hepatotoxicity (monitor LFTs on systemic therapy); **QT prolongation** (except isavuconazole, which shortens it); rash including SJS/TEN.
-  - **Voriconazole specifically:** **transient visual disturbance — altered colour perception, blurring, photophobia — in a large proportion of patients**, usually early and reversible; **photosensitivity and, with prolonged use, squamous cell skin cancer**; **hallucinations and encephalopathy**; **periostitis with fluorosis**. Its metabolism is **CYP2C19-dependent with wide polymorphic variability**, so **therapeutic drug monitoring is standard**.
-  - **Itraconazole** is **negatively inotropic and is contraindicated in heart failure**, and its absorption is erratic and formulation-dependent (capsules need acid and food; solution is taken fasting) — a frequent cause of treatment failure.
-
-> [!danger] **AZOLE DRUG INTERACTIONS ARE AMONG THE MOST DANGEROUS IN THE FORMULARY.**
-> Sources confirm that **itraconazole, ketoconazole and miconazole are the strongest CYP3A4/3A5 inhibitors** of the antifungals, and that voriconazole is contraindicated with drugs highly dependent on CYP3A4 for clearance where raised levels cause serious or life-threatening events. In practice this means checking every co-prescribed drug, and specifically: **statins** (rhabdomyolysis), **warfarin and DOACs** (bleeding), **ciclosporin, tacrolimus and sirolimus** (toxicity — dose reductions are required and are calculated by the transplant team), **ergot alkaloids** (ergotism), **other QT-prolonging drugs**, **midazolam and other benzodiazepines**, **vincristine** (neurotoxicity), **methadone**, and **sulfonylureas** (hypoglycaemia). **Even topical MICONAZOLE oral gel is absorbed enough to raise the INR dangerously in a warfarinised patient** — a genuinely common and preventable bleed. Conversely **rifampicin, phenytoin and carbamazepine drastically reduce azole levels** and cause treatment failure.
-
-- **Pregnancy:** **high-dose or prolonged fluconazole is teratogenic**; a single low dose for vaginal candidiasis is generally considered acceptable, but check.
-
-### 0.3.2 Echinocandins
-- **Mechanism:** inhibit **β-(1,3)-D-glucan synthase**, a component of the **fungal cell wall** that has no human counterpart — which is why this class is so well tolerated.
-- **Key agents:** **caspofungin, anidulafungin, micafungin**. **Intravenous only** — no oral formulation.
-- **Spectrum:** **excellent against *Candida*, including fluconazole-resistant species (*C. glabrata*, *C. krusei*) and *Candida auris***; **fungistatic against *Aspergillus***; **no activity against *Cryptococcus*, and none against the agents of mucormycosis.**
-- **Role:** **first-line empirical therapy for candidaemia and invasive candidiasis**, especially in the unstable or azole-exposed patient; empirical therapy in persistent febrile neutropenia.
-- **Advantages:** sources comparing **caspofungin with liposomal amphotericin B** in persistent fever and neutropenia report substantially **less nephrotoxicity (about 2.6% vs 11.5%)** and **fewer infusion-related and drug-related adverse events**. Minimal drug interactions.
-- **Limitations:** IV only; **poor penetration into urine, CSF and the eye** — so they are **not the agent for candiduria, fungal meningitis or endophthalmitis**. A patient with candidaemia should have a **dilated fundoscopic examination** to look for endophthalmitis, which changes the agent and duration.
-
-### 0.3.3 Other Antifungals
-- **Polyenes — amphotericin B** (conventional deoxycholate and **liposomal**), **nystatin** (topical/oral, not absorbed).
-  - **Mechanism:** bind **ergosterol**, forming membrane pores.
-  - **Role:** the broadest antifungal — **cryptococcal meningitis** (with flucytosine), **mucormycosis**, severe or refractory invasive fungal infection, visceral leishmaniasis.
-  - **Adverse effects:** **infusion reactions** (fever, rigors, hypotension); **NEPHROTOXICITY** with **potassium and magnesium wasting** requiring aggressive replacement; anaemia. Sources describe **liposomal amphotericin as having greatly reduced nephrotoxicity and infusion toxicity** than the conventional formulation, but note it is **still associated with relatively high rates of nephrotoxicity** — "liposomal" means less nephrotoxic, not non-nephrotoxic.
-  - **The formulations are NOT interchangeable and their doses differ by several fold** — a formulation error with amphotericin has caused fatal overdoses, which is why the full product name must be written out.
-- **Terbinafine** — an **allylamine** inhibiting squalene epoxidase. **The agent of choice for dermatophyte nail and skin infection** (fungistatic against *Candida*, fungicidal against dermatophytes). **Adverse effects: hepatotoxicity (check LFTs before and during prolonged courses), taste and smell disturbance which can be prolonged or permanent, and severe cutaneous reactions.** Sources note its interaction potential is limited, **except that it inhibits CYP2D6** — relevant for tricyclics, some β-blockers, and codeine/tramadol activation.
-- **Flucytosine (5-FC)** — used **only in combination** (resistance emerges rapidly alone), classically with amphotericin for **cryptococcal meningitis**. **Bone marrow suppression** is dose-related; requires level monitoring and renal dose adjustment.
-- **Griseofulvin** — an older agent still used for **tinea capitis in children**; requires prolonged courses, taken with fatty food; **enzyme-inducing** (reduces contraceptive efficacy) and causes a **disulfiram-like reaction with alcohol**.
-
-## 0.4 Antiprotozoals
-
-### 0.4.1 Antimalarials
-- **Treatment (falciparum):** **artemisinin-based combination therapy (ACT)** — **artemether–lumefantrine** is the standard; **intravenous artesunate is the treatment of choice for severe malaria** and is superior to quinine. Quinine (with doxycycline or clindamycin) remains an alternative.
-- **Treatment (vivax/ovale):** a blood-stage agent (chloroquine or an ACT) **plus a radical cure with primaquine or tafenoquine** to eradicate **liver hypnozoites** and prevent relapse.
-- **Chemoprophylaxis:** sources list **doxycycline, atovaquone–proguanil, mefloquine, chloroquine and tafenoquine**, reporting prophylactic efficacy of about **97% for atovaquone–proguanil against *P. falciparum*** and around **93–95% against all species**, and noting that **mefloquine and doxycycline were both associated with gastrointestinal and neurological adverse effects** in comparative study.
-- **Agent-specific points:**
-  - **Doxycycline** — daily, cheap, also covers rickettsiae and leptospirosis (useful in the same travellers), but causes **photosensitivity** and **oesophagitis**, and is **contraindicated in pregnancy and children under 8** (see 0.2.13).
-  - **Atovaquone–proguanil** — daily, well tolerated, short pre- and post-travel course, expensive; **not recommended in pregnancy** owing to limited data.
-  - **Mefloquine** — weekly, but **neuropsychiatric adverse effects** (vivid dreams, anxiety, depression, psychosis, seizures) mean it is **contraindicated in a history of psychiatric illness or epilepsy**.
-  - **PRIMAQUINE AND TAFENOQUINE CAUSE SEVERE HAEMOLYSIS IN G6PD DEFICIENCY — G6PD MUST BE MEASURED BEFORE PRESCRIBING EITHER.** Sources also state that **neither should be used in pregnancy**, because they cross the placenta and can cause **haemolytic anaemia in a G6PD-deficient fetus in utero**.
-
-> [!danger] **Falciparum malaria is a medical emergency and can kill within 24 hours.**
-> **Fever in a returned traveller from a malarious area is malaria until excluded** — send **thick and thin films and a rapid diagnostic test, and repeat them** (a single negative film does not exclude it). Chemoprophylaxis reduces but does not eliminate risk, and **adherence and bite avoidance (nets, repellent, covering up) are as important as the tablets**. Warn travellers that symptoms can appear **months** after return, particularly with vivax. See [[08_07_Infectious_Disease_-_Protozoan_Infections]].
-
-### 0.4.2 Other Antiprotozoals
-- **Metronidazole and tinidazole** — **giardiasis, amoebiasis, trichomoniasis** (see 0.2.15). In amoebic liver abscess and intestinal amoebiasis, a **luminal agent (paromomycin, diloxanide)** must follow to clear cysts and prevent relapse.
-- **Co-trimoxazole** — ***Pneumocystis jirovecii*** (a fungus by taxonomy, treated with an antibacterial) and **toxoplasmosis prophylaxis**; **pyrimethamine + sulfadiazine + folinic acid** for toxoplasma encephalitis.
-- **Pentamidine** — PJP (second-line, and nebulised for prophylaxis), trypanosomiasis, leishmaniasis. Causes **hypoglycaemia then hyperglycaemia and pancreatitis**, nephrotoxicity and QT prolongation.
-- **Benznidazole and nifurtimox** — Chagas disease; **melarsoprol, suramin, eflornithine, fexinidazole** — African trypanosomiasis; **antimonials, liposomal amphotericin, miltefosine** — leishmaniasis. All specialist and referred to infectious diseases.
-- **Nitazoxanide** — cryptosporidiosis and giardiasis.
-
-## 0.5 Antiretrovirals
-
-> [!info] **Principles that apply to the whole section**
-> - **Combination therapy always** — modern regimens are typically **an integrase inhibitor plus two NRTIs**, increasingly as a **single-tablet regimen**, and sometimes as a two-drug regimen. **Monotherapy generates resistance.**
-> - **Never interrupt antiretroviral therapy without specialist advice**, including for an inpatient stay — an admitted patient's ART must be continued, and this is one of the commonest inpatient medication errors. **If the exact combination is unavailable on the ward, call the HIV pharmacist or the treating service the same day; do not substitute or omit.**
-> - **Check every new drug for interactions** — ART is one of the most interaction-prone areas in medicine.
-> - **Treatment is prevention: U=U — an undetectable viral load means untransmittable.**
-> - **PrEP** (pre-exposure prophylaxis, tenofovir/emtricitabine) and **PEP** (post-exposure prophylaxis, started as soon as possible after a significant exposure and continued for 28 days) are both established Australian practice; **occupational and non-occupational exposures should be discussed with the local HIV/ID service or a 24-hour PEP line the same day.**
-
-### 0.5.1 Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)
-- **Mechanism:** phosphorylated intracellularly to nucleotide analogues that are incorporated into viral DNA and **terminate the chain**.
-- **Key agents:** **tenofovir disoproxil fumarate (TDF)** and **tenofovir alafenamide (TAF)**, **emtricitabine (FTC)**, **lamivudine (3TC)**, **abacavir (ABC)**, zidovudine (largely historical).
-- **The "backbone" of most regimens**, typically **TAF or TDF with emtricitabine**, or **abacavir with lamivudine**.
-- **Agent-specific points:**
-  - **ABACAVIR REQUIRES HLA-B\*57:01 TESTING BEFORE USE** — the allele predicts a potentially fatal hypersensitivity syndrome, and sources report the test has a **negative predictive value of approximately 100%**. **A patient who has had abacavir hypersensitivity must never be rechallenged.** See `NEW_Investigations_General_and_Preventive.md` 0.16.
-  - **Tenofovir disoproxil (TDF)** — **renal tubular toxicity (including Fanconi syndrome) and reduced bone mineral density**. **Tenofovir alafenamide (TAF)** achieves the same intracellular levels at far lower plasma exposure and has **less renal and bone toxicity**, but is associated with more **weight gain and dyslipidaemia**. Sources describe TAF as showing equivalent antiviral efficacy to TDF.
-  - **Lamivudine, emtricitabine and tenofovir are also active against hepatitis B** — see 0.6.3 and the danger note there.
-  - **Older NRTIs (stavudine, didanosine, zidovudine)** caused **mitochondrial toxicity — lactic acidosis, hepatic steatosis, lipoatrophy, peripheral neuropathy, pancreatitis** — and are essentially no longer used; zidovudine also causes **anaemia and macrocytosis**.
-
-### 0.5.2 Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
-- **Mechanism:** bind an **allosteric** site on reverse transcriptase, changing its conformation. Not phosphorylation-dependent.
-- **Key agents:** **efavirenz, rilpivirine, doravirine, etravirine, nevirapine** (and **doravirine** as the better-tolerated modern option).
-- **Adverse effects:**
-  - **Efavirenz** — **CNS effects in the majority initially**: vivid dreams, dizziness, insomnia, impaired concentration, and **depression and suicidality**, usually settling over weeks but sometimes persisting; false-positive urine cannabinoid screens.
-  - **Nevirapine** — **severe hepatotoxicity and severe cutaneous reactions (SJS/TEN)**, with risk stratified by CD4 count and sex; it requires a lead-in dose escalation and is now little used.
-  - **Rilpivirine** — needs **an acidic stomach and a substantial meal** for absorption; **proton pump inhibitors are contraindicated** with it, which is a very easy interaction to miss.
-- **A single mutation can confer class-wide resistance** — the **low genetic barrier** is why NNRTIs have been displaced from first-line by integrase inhibitors.
-- **Interactions:** efavirenz and nevirapine are **CYP inducers**; etravirine and rilpivirine have complex profiles. **Rifampicin significantly affects all of them.**
-
-### 0.5.3 HIV Protease Inhibitors
-- **Mechanism:** block the viral protease that cleaves polyproteins into functional units, producing **immature, non-infectious virions**.
-- **Key agents:** **darunavir, atazanavir, lopinavir**; **boosted with ritonavir or cobicistat** — a deliberate pharmacokinetic interaction in which a potent CYP3A4 inhibitor raises and sustains the level of the active drug.
-- **Advantage:** a **high genetic barrier to resistance**, which is why darunavir remains valuable in salvage and in adherence-challenged patients.
-- **Adverse effects:** **gastrointestinal upset and diarrhoea**; **dyslipidaemia and insulin resistance**; **lipodystrophy** (older agents); **atazanavir causes unconjugated hyperbilirubinaemia and jaundice** (benign, Gilbert-like, but distressing and easily misinterpreted as liver injury) and **nephrolithiasis**.
-- **INTERACTIONS ARE THE DEFINING ISSUE.** The **ritonavir/cobicistat booster is a potent CYP3A4 inhibitor**, so it raises levels of a very long list of co-prescribed drugs — **statins (rhabdomyolysis), inhaled and intranasal FLUTICASONE and other corticosteroids (iatrogenic Cushing syndrome and adrenal suppression — a classic and frequently missed interaction), sedatives, antiarrhythmics, ergots, some anticoagulants and many others.** **Every new prescription in a patient on a boosted regimen must be interaction-checked.**
-
-### 0.5.4 Integrase Inhibitors (INSTIs)
-- **Mechanism:** block **integrase**, preventing the proviral DNA from being inserted into the host genome.
-- **Key agents:** **dolutegravir, bictegravir, raltegravir, elvitegravir** (cobicistat-boosted), **cabotegravir** (including **long-acting injectable** formulations).
-- **Role: the FIRST-LINE class.** Sources describe **dolutegravir-based** and **bictegravir/emtricitabine/tenofovir alafenamide** regimens as the commonly used first-line treatments worldwide, and note that the bictegravir single-tablet regimen has **high efficacy, a high genetic barrier to resistance, low drug-interaction potential and a good safety profile**. Rapid viral suppression, once-daily dosing and few interactions are why they displaced the older classes.
-- **Adverse effects:** generally well tolerated. **Weight gain** (a real and increasingly discussed effect, particularly in combination with TAF); **insomnia, headache and mood disturbance** with dolutegravir; **raltegravir** rarely causes rhabdomyolysis; a small early rise in creatinine with dolutegravir and bictegravir that reflects **inhibition of tubular creatinine secretion, not renal injury** — do not misread it.
-- **Interactions:** **absorption is markedly reduced by polyvalent cations — antacids, calcium, iron, magnesium and multivitamins.** **Separate the doses** (the timing rule differs by agent and direction). This is the commonest cause of unexplained viral rebound in an otherwise adherent patient — **ask about supplements.** Rifampicin requires dose adjustment.
-
-### 0.5.5 Other Antiretrovirals
-- **Entry and attachment inhibitors** — **maraviroc** (a CCR5 antagonist, requiring a **tropism assay** before use, since it fails against CXCR4-tropic virus); **enfuvirtide** (a fusion inhibitor, subcutaneous, now little used); **ibalizumab** and **fostemsavir** for multi-drug-resistant salvage.
-- **Capsid inhibitors — lenacapavir**, a long-acting agent for heavily treatment-experienced patients and, increasingly, for prevention.
-- **Pharmacokinetic boosters — ritonavir and cobicistat** — not antiretrovirals in effect (at booster dose) but **CYP3A4 inhibitors** included to raise the levels of other agents; they carry the interaction burden described in 0.5.3.
-
-## 0.6 Antivirals
-
-### 0.6.1 Guanine Analogues
-- **Mechanism:** nucleoside analogues that require **phosphorylation by a VIRAL kinase** for their first activation step — which is exactly why they are selective for infected cells and so well tolerated.
-- **Key agents:** **aciclovir** and its better-absorbed prodrug **valaciclovir**; **famciclovir/penciclovir**; **ganciclovir** and **valganciclovir** (for CMV).
-- **Indications:** **herpes simplex** (orolabial, genital, keratitis, **encephalitis**), **varicella-zoster** (chickenpox, **shingles**, disseminated disease), and — for ganciclovir/valganciclovir — **cytomegalovirus** disease and prophylaxis in transplantation and HIV.
-- **The timing principle:** these drugs **inhibit replication and do not eradicate latent virus.** They work best **started early** — within 72 hours of shingles rash onset, and immediately on suspicion in encephalitis. **Suspected HSV encephalitis is treated with intravenous aciclovir IMMEDIATELY, before the PCR returns**; waiting for confirmation costs brain.
-- **Adverse effects:**
-  - **Aciclovir: crystal nephropathy and acute kidney injury** with intravenous dosing — **ensure adequate hydration and infuse slowly**; **neurotoxicity** (confusion, hallucinations, myoclonus, seizures) in renal impairment and the elderly. **Dose reduction in renal impairment is mandatory** and is a common ward error.
-  - **Ganciclovir and valganciclovir: significant myelosuppression** — neutropenia, thrombocytopenia and anaemia — requiring regular FBC monitoring; also carcinogenic/teratogenic in animal studies, with handling precautions.
-- **Practical:** **shingles in an immunocompromised patient, or involving the ophthalmic division of the trigeminal nerve (Hutchinson sign), needs urgent treatment and ophthalmology review**; disseminated zoster requires isolation.
-
-### 0.6.2 Neuraminidase Inhibitors
-- **Key agents:** **oseltamivir** (oral), **zanamivir** (inhaled), peramivir (IV).
-- **Mechanism:** inhibit **influenza neuraminidase**, preventing release of new virions from the infected cell.
-- **Indications:** **influenza** — treatment and post-exposure prophylaxis. **The benefit depends heavily on early administration**, ideally **within 48 hours of symptom onset**; the benefit in otherwise healthy adults is modest (roughly a day less illness), and the case for treatment rests on the **high-risk** groups: pregnancy, significant comorbidity, immunosuppression, the very young and the elderly, Aboriginal and Torres Strait Islander people, and those admitted to hospital.
-- **Adverse effects:** nausea and vomiting (oseltamivir, better with food); **bronchospasm with inhaled zanamivir** — avoid in asthma and COPD; neuropsychiatric events reported particularly in children and adolescents in Japan (causality debated).
-- **The point that matters most:** **vaccination is the primary prevention and antivirals are not a substitute for it.** In an outbreak — particularly in **residential aged care** — prophylaxis, isolation and public health involvement are part of the response.
-- **Baloxavir** (a cap-dependent endonuclease inhibitor) is a newer single-dose alternative with a different mechanism.
-
-### 0.6.3 Antivirals for Viral Hepatitis
-- **Hepatitis C — direct-acting antivirals (DAAs).** Sources describe the Australian position clearly: DAAs have **transformed treatment since PBS listing in 2016**, and practice has **shifted from genotype-specific to PAN-GENOTYPIC regimens**, with **sofosbuvir–velpatasvir** and **glecaprevir–pibrentasvir** now the recommended regimens in Australian guidelines (sources give average market shares since introduction of about **55%** and **34%** respectively).
-  - **Cure rates exceed 95%**, courses are short (typically 8–12 weeks), and the drugs are well tolerated.
-  - **A defining feature of the Australian model is that GENERAL PRACTITIONERS CAN PRESCRIBE**, with specialist consultation, which is what made elimination targets plausible. Treatment is available to anyone with hepatitis C regardless of fibrosis stage or ongoing drug use.
-  - **Interactions:** **amiodarone with sofosbuvir causes severe bradycardia**; **acid suppression** affects some regimens; **rifampicin, carbamazepine, phenytoin and St John's wort** reduce DAA levels and can cause treatment failure; statin interactions are common.
-- **Hepatitis B — nucleos(t)ide analogues: entecavir and tenofovir (TDF/TAF)** are first-line. They **suppress** the virus and are usually **long-term or lifelong**; cure (HBsAg loss) is uncommon. Peginterferon is an alternative in selected patients.
-
-> [!danger] **Two hepatitis B traps that cause deaths and are entirely preventable**
-> 1. **STOPPING hepatitis B treatment can cause a severe flare and hepatic decompensation.** These drugs are not stopped casually, and an inpatient must not have theirs omitted.
-> 2. **HEPATITIS B REACTIVATION with immunosuppression.** **Rituximab, other B-cell-depleting agents, chemotherapy, high-dose corticosteroids and transplant immunosuppression can reactivate hepatitis B — including in people who appear to have cleared it (HBsAg negative, anti-HBc positive) — causing fulminant hepatitis and death.** **SCREEN FOR HEPATITIS B (HBsAg, anti-HBc, anti-HBs) BEFORE STARTING ANY SIGNIFICANT IMMUNOSUPPRESSION**, and give prophylactic antiviral cover where indicated. This is a standing, checkable action and it is missed regularly.
-> 3. **Lamivudine, emtricitabine and tenofovir treat BOTH HIV and hepatitis B.** Test for HIV before treating hepatitis B (inadvertent HIV monotherapy generates resistance), and in co-infection design the regimen to cover both — **and never stop it abruptly.** See [[03_Gastrointestinal]].
-
-### 0.6.4 Interferons
-- **Mechanism:** recombinant cytokines (**peginterferon alfa** predominantly) that activate host antiviral and immunomodulatory pathways rather than acting on the virus directly.
-- **Indications — now largely historical for hepatitis C**, displaced entirely by the DAAs. Remaining uses: selected **hepatitis B and D**, some **myeloproliferative neoplasms**, melanoma and other malignancies, and multiple sclerosis (interferon beta).
-- **Adverse effects — the reason they were abandoned as soon as an alternative existed:** severe **flu-like syndrome**, **depression and suicidality**, **bone marrow suppression**, **thyroid dysfunction** (both hypo- and hyperthyroidism), autoimmune phenomena, fatigue and weight loss, alopecia, and injection site reactions. **Contraindicated in decompensated cirrhosis, uncontrolled psychiatric illness and autoimmune disease.**
-
-### 0.6.5 Antivirals (Eye)
-- **Key agents:** **aciclovir eye ointment**, **ganciclovir eye gel**, trifluridine.
-- **Indication:** **herpes simplex keratitis** — the classic **dendritic ulcer**, seen with fluorescein under blue light.
-
-> [!danger] **A red painful eye with a dendritic ulcer must NEVER receive a topical corticosteroid without ophthalmological supervision** — steroids convert a dendritic ulcer into a **geographic ulcer** with risk of perforation and permanent visual loss. **Any suspected herpetic eye disease is a same-day ophthalmology referral.** Recurrent disease causes stromal scarring and is a leading infectious cause of corneal blindness. **Herpes zoster ophthalmicus** (shingles involving the ophthalmic division, with the **Hutchinson sign** — vesicles on the nose tip) requires **systemic** antiviral treatment and ophthalmology review. See [[05_Ophthalmology]].
-
-### 0.6.6 Antivirals (Skin)
-- **Key agents:** **topical aciclovir and penciclovir** creams for **herpes labialis (cold sores)**; **imiquimod** (an immune response modifier) and **podophyllotoxin** for **anogenital warts**.
-- **The honest assessment of topical antivirals:** their benefit in cold sores is **marginal** — at best around a day's reduction in duration, and only if applied at the very first prodromal tingle. **They are not an alternative to systemic therapy** for anything significant.
-- **Systemic treatment is required for**: primary herpetic gingivostomatitis, eczema herpeticum (**a dermatological emergency** — see [[09_01_Dermatology_-_Dermatological_Emergencies]]), shingles, ophthalmic involvement, disseminated disease, and any herpetic infection in an **immunocompromised** patient.
-- **Imiquimod** causes intentional local inflammation — erythema, erosion and discomfort are expected and should be explained, or the patient will stop. **Podophyllotoxin is contraindicated in pregnancy.**
-
-### 0.6.7 Other Antivirals
-- **Ribavirin** — RSV (nebulised, contested), viral haemorrhagic fevers, hepatitis E, and formerly hepatitis C. **Haemolytic anaemia** is dose-limiting, and it is **strongly TERATOGENIC** — **effective contraception is required in both male and female patients during and for months after treatment.**
-- **Nirmatrelvir–ritonavir** and **remdesivir** — COVID-19 antivirals. **Nirmatrelvir–ritonavir is a ritonavir-boosted regimen and therefore carries the entire CYP3A4 interaction burden of section 0.5.3** — statins, calcium channel blockers, immunosuppressants, some anticoagulants, amiodarone and many others must be held or adjusted. Sources include a case report of **voriconazole toxicity precipitated by nirmatrelvir/ritonavir**. **Every prescription requires a full interaction check**, and there is a short treatment window from symptom onset.
-- **Cidofovir and foscarnet** — resistant CMV and severe herpesvirus infection; both are **markedly nephrotoxic** (foscarnet also causes profound **electrolyte disturbance** — hypocalcaemia, hypomagnesaemia, hypokalaemia — and genital ulceration).
-- **Letermovir and maribavir** — CMV prophylaxis and refractory CMV in transplantation.
-- **Palivizumab and nirsevimab** — monoclonal antibodies for **RSV prophylaxis** in high-risk infants.
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Anthelmintics | SUB | yes | |
-| 0.1.1 | Benzimidazoles | CLS | yes | |
-| 0.1.2 | Other anthelmintics | CLS | yes | Includes the Australian *Strongyloides*-before-steroids warning. |
-| 0.2 | Antibacterials | SUB | yes | |
-| 0.2.1 | Penicillins | CLS | yes | |
-| 0.2.2 | Penicillin combinations | CLS | yes | |
-| 0.2.3 | Cephalosporins | CLS | yes | |
-| 0.2.4 | Carbapenems | CLS | yes | |
-| 0.2.5 | Monobactams | CLS | yes | |
-| 0.2.6 | Carbacephem | CLS | yes | **Not marketed in Australia**; built briefly and flagged as historical rather than omitted. |
-| 0.2.7 | Glycopeptides | CLS | yes | AUC-guided vancomycin monitoring recorded as the changed standard. |
-| 0.2.8 | Lipopeptide | CLS | yes | |
-| 0.2.9 | Polypeptides | CLS | yes | |
-| 0.2.10 | Aminoglycosides | CLS | yes | |
-| 0.2.11 | Macrolides | CLS | yes | |
-| 0.2.12 | Lincosamides | CLS | yes | |
-| 0.2.13 | Tetracyclines | CLS | yes | |
-| 0.2.14 | Quinolones | CLS | yes | TGA warnings on tendon, aorta and neuropathy recorded. |
-| 0.2.15 | Metronidazole | CLS | yes | |
-| 0.2.16 | Nitrofurans | CLS | yes | |
-| 0.2.17 | Rifamycins | CLS | yes | Built jointly with `Ansamycins` — rifamycins **are** ansamycins; one entry, both rows mapped. |
-| 0.2.17 | Ansamycins | CLS | yes | As above. |
-| 0.2.18 | Antimycobacterials | CLS | yes | |
-| 0.2.19 | Other antibacterials | CLS | yes | Sulfonamides/trimethoprim, oxazolidinones, chloramphenicol, fosfomycin, fusidic acid, dapsone. |
-| 0.2.20 | Antibacterials (skin) | CLS | yes | |
-| 0.2.21 | Antibacterials (ear) | CLS | yes | Carries the aminoglycoside-drops-and-perforation ototoxicity warning. |
-| 0.3 | Antifungals | SUB | yes | |
-| 0.3.1 | Azoles | CLS | yes | |
-| 0.3.2 | Echinocandins | CLS | yes | |
-| 0.3.3 | Other antifungals | CLS | yes | Polyenes, terbinafine, flucytosine, griseofulvin. |
-| 0.4 | Antiprotozoals | SUB | yes | |
-| 0.4.1 | Antimalarials | CLS | yes | G6PD before primaquine/tafenoquine stated as a hard requirement. |
-| 0.4.2 | Other antiprotozoals | CLS | yes | |
-| 0.5 | Antiretrovirals | SUB | yes | |
-| 0.5.1 | Nucleoside reverse transcriptase inhibitors | CLS | yes | Includes the HLA-B*57:01-before-abacavir requirement. |
-| 0.5.2 | Non-nucleoside reverse transcriptase inhibitors | CLS | yes | |
-| 0.5.3 | HIV-Protease inhibitors | CLS | yes | |
-| 0.5.4 | Integrase inhibitors | CLS | yes | |
-| 0.5.5 | Other antiretrovirals | CLS | yes | |
-| 0.6 | Antivirals | SUB | yes | |
-| 0.6.1 | Guanine analogues | CLS | yes | |
-| 0.6.2 | Neuraminidase inhibitors | CLS | yes | |
-| 0.6.3 | Antivirals for viral hepatitis | CLS | yes | Australian pan-genotypic DAA position and GP prescribing recorded; hepatitis B reactivation warning included. |
-| 0.6.4 | Interferons | CLS | yes | |
-| 0.6.5 | Antivirals (eye) | CLS | yes | |
-| 0.6.6 | Antivirals (skin) | CLS | yes | |
-| 0.6.7 | Other antivirals | CLS | yes | |
-
-**Rows in file: 47 (6 SUB + 41 CLS). AMH section 5 build-list rows: 47. Section complete.**
-
-> [!note] **One pair of build-list rows is a naming duplicate** — `Rifamycins` and `Ansamycins` name the same class; built once at 0.2.17 with both rows mapped. **One row, `Carbacephem`, describes a drug not marketed in Australia**; it is built briefly and flagged rather than silently dropped.
-
-
-<!-- ===== SOURCE: NEW_Drugs_20_Vaccines.md ===== -->
-
-
-# NEW — Drug Classes: Vaccines and Immunoglobulins (AMH section 20)
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file, and it matters more here than anywhere else.** The **Australian Immunisation Handbook and the National Immunisation Program schedule are the authoritative Australian sources**, and they are **updated continually**. **No schedule, age, interval or dose is reproduced in this file.** Sources confirm the Handbook is the definitive reference and direct clinicians to it. **Always check `immunisationhandbook.health.gov.au` and the current NIP schedule at the point of care — a remembered schedule is out of date.**
-
----
-
-## 0.1 Vaccines
-
-- **What they are:** preparations that induce **active, durable, antigen-specific immunity**. **Live attenuated** (MMR, varicella, zoster live, rotavirus, BCG, yellow fever, oral typhoid); **inactivated or subunit** (influenza, hepatitis A and B, HPV, pertussis-containing, pneumococcal conjugate and polysaccharide, meningococcal, inactivated polio, rabies, Japanese encephalitis); **toxoid** (tetanus, diphtheria); **mRNA and viral vector** (COVID-19); and **recombinant adjuvanted** (recombinant zoster vaccine).
-- **Australian delivery:** the **National Immunisation Program (NIP)**, established in 1997, funds vaccines for defined groups across the life course — childhood, adolescent (school-based HPV and meningococcal), pregnancy (**pertussis and influenza, and RSV where funded**), older adults (**influenza, pneumococcal, shingles, COVID-19**), and specific medical and occupational risk groups. **Aboriginal and Torres Strait Islander people have additional and earlier funded indications**, reflecting a higher burden of vaccine-preventable disease — this is a substantive and frequently missed part of the schedule.
-- **Records:** the **Australian Immunisation Register (AIR)** records vaccinations across the lifespan; **checking and updating it is part of every immunisation encounter**, and it is where catch-up planning starts.
-
-> [!danger] **LIVE VACCINES AND IMMUNOSUPPRESSION — the single most important vaccine safety rule.**
-> Sources state that **live vaccines may be contraindicated in immunocompromised people because extensive replication of the vaccine strain can cause severe or fatal vaccine-associated infection**, while **non-live vaccines can be safely given, though the immune response may be lower.**
-> **Practical consequences:**
-> - **VACCINATE BEFORE STARTING IMMUNOSUPPRESSION WHEREVER POSSIBLE** — live vaccines need to be given a defined interval **before** starting, and cannot be given afterwards. This applies to **biologics, DMARDs, high-dose corticosteroids, transplant immunosuppression, chemotherapy and asplenia** — and it is one of the most consistently missed opportunities in medicine. **The moment a biologic or DMARD is being considered is the moment to check vaccination status.**
-> - **Also consider: household contacts** (they can usually be vaccinated, with specific precautions after rotavirus and oral polio), **timing around rituximab** (responses are poor for months), and **revaccination after stem cell transplant**, where the whole schedule is repeated.
-> - **Asplenia and hyposplenism** require **pneumococcal, meningococcal, Hib and influenza vaccination plus antibiotic prophylaxis and an emergency plan** — and it applies to functional asplenia in sickle cell disease and coeliac disease, not just surgical splenectomy.
-> - **Eculizumab and ravulizumab require meningococcal vaccination before starting** (see `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.5.4).
-> - **Pregnancy: inactivated vaccines are recommended (pertussis and influenza in particular, protecting the newborn through transplacental antibody); LIVE vaccines are avoided.**
-
-> [!warning] **Contraindications and precautions — and what is NOT a contraindication.**
-> **True contraindications** are few: **anaphylaxis to a previous dose or to a vaccine component**, and **live vaccines in significant immunosuppression or pregnancy**.
-> **The following are NOT contraindications, and treating them as such causes missed vaccination:** a minor illness with or without low-grade fever; antibiotic use; a family history of adverse events; prematurity (**preterm infants are vaccinated by chronological age, not corrected age**); breastfeeding; and — importantly — **egg allergy is NOT a contraindication to influenza vaccine** in current Australian practice, including anaphylactic egg allergy, though **yellow fever vaccine requires specialist assessment**.
-> **A previous anaphylaxis to a vaccine warrants specialist immunology assessment, not permanent blanket avoidance** — the culprit component can often be identified.
-
-> [!danger] **Every vaccination encounter requires preparation for ANAPHYLAXIS.**
-> **Adrenaline must be immediately available, staff must know the dose and route, and the patient is observed for at least 15 minutes afterwards.** See `NEW_Drugs_01_Allergy_and_Anaphylaxis.md` 0.5. **Distinguish anaphylaxis from a vasovagal episode** — the latter is common, especially in adolescents, and is managed by lying the patient down.
-> **Also: report adverse events following immunisation** to the relevant state surveillance service and the TGA. **And correct the record — an unreported or misattributed reaction leads to a lifetime of unnecessary avoidance.**
-
-- **Other practical points:**
-  - **COLD CHAIN failure is a real and common problem** — vaccines exposed outside 2–8 °C may be inactivated. **A cold chain breach must be reported and the vaccines quarantined, not used.** Patients given compromised vaccine need revaccination.
-  - **Administration technique matters:** correct route (**intramuscular for most; subcutaneous for MMR and varicella**), correct site and needle length by age and body habitus, **do not aspirate**, and give **multiple vaccines at separate sites in the same visit rather than deferring** — deferral loses people.
-  - **Pain and distress management in children** improves the whole family's future engagement: breastfeeding or sucrose in infants, distraction, topical anaesthetic where appropriate, and never restraining a child unnecessarily.
-  - **Catch-up schedules** exist for the incompletely vaccinated, including **refugees and new arrivals**, and are age-specific — use the Handbook's catch-up calculator rather than improvising.
-  - **Vaccine hesitancy** is best addressed by **presuming vaccination ("your child is due for their vaccines today"), addressing specific concerns without lecturing, and giving a clear recommendation.** Dismissiveness entrenches refusal.
-  - **Travel vaccination** requires a risk assessment by destination, activity and duration, planned weeks ahead.
-
-## 0.2 Immunoglobulins
-
-- **What they are:** **pooled human plasma-derived antibody preparations**, providing **PASSIVE, immediate but temporary immunity** — in contrast to the active, delayed but durable immunity of vaccines. Supplied in Australia through the **national blood supply arrangements** with restricted access criteria.
-- **Two distinct uses, which must not be confused:**
-  1. **Replacement** — in **primary and secondary immunodeficiency** (including hypogammaglobulinaemia after rituximab or in CLL and myeloma), given regularly and long-term.
-  2. **Immunomodulation** — at much higher doses in **ITP, Guillain-Barré syndrome, CIDP, myasthenic crisis, Kawasaki disease** and selected other conditions.
-- **Specific (hyperimmune) immunoglobulins** — concentrated against a single organism, for **post-exposure prophylaxis**: **tetanus, hepatitis B, rabies, varicella-zoster, and Rh D (anti-D)** (see `NEW_Drugs_16_Obstetric_and_Gynaecological.md` 0.10.2).
-
-### 0.2.1 Intravenous Immunoglobulin
-- **Route:** **intravenous (IVIg)** or **subcutaneous (SCIg)** — the latter allowing home self-administration with steadier levels and fewer systemic reactions, and now widely used for replacement therapy.
-- **Adverse effects:** **infusion-related** — headache, fever, chills, myalgia, flushing and back pain, largely **rate-related** and managed by slowing the infusion and premedication; **aseptic meningitis** (severe headache, photophobia and neck stiffness in the days after infusion — alarming, self-limiting, and frequently investigated as bacterial meningitis); **acute kidney injury** (particularly with sucrose-containing products, in renal impairment, diabetes and dehydration); **haemolysis** from anti-A/anti-B isohaemagglutinins; and **THROMBOSIS — arterial and venous, and a real risk in older patients and those with cardiovascular risk factors**, which is why infusion rates are controlled and hydration maintained.
-- **Practical points:**
-  - **It is a blood product** — consent, identification checks, batch recording and traceability all apply, as for any transfusion (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.1).
-  - **IgA deficiency** carries a risk of anaphylaxis to IgA-containing products in those with anti-IgA antibodies — check where relevant.
-  - **IVIg interferes with serological testing** and can cause a **positive direct antiglobulin test**, and it **transfers passive antibody**, which confounds serology for weeks.
-  - **IVIg BLUNTS THE RESPONSE TO LIVE VACCINES — MMR and varicella must be deferred for a defined interval after immunoglobulin**, and conversely immunoglobulin given shortly after a live vaccine may abolish its effect. **This interval is specified in the Australian Immunisation Handbook and must be looked up.**
-  - **Supply is limited and criteria-based** — the national criteria determine which indications are funded, and requests go through a formal approval process.
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Vaccines | SUB | yes | **No schedule, age, interval or dose reproduced** — the Australian Immunisation Handbook and NIP schedule change continually and are named as the point-of-care source. Built as the principles, contraindications, and the live-vaccine-before-immunosuppression rule. |
-| 0.2 | Immunoglobulins | SUB | yes | Passive versus active immunity distinguished; replacement and immunomodulatory uses separated. |
-| 0.2.1 | Intravenous Immunoglobulins | CLS | yes | Includes the interval before live vaccines and the thrombosis risk. |
-
-**Rows in file: 3 (2 SUB + 1 CLS). AMH section 20 build-list rows: 3. Section complete.**
-
-> [!danger] **A note on how this file is written, per CLAUDE.md rule 8.** This is the one section where **stating specific figures would be actively harmful**, because the Australian schedule changes and a note like this one will be out of date before it is read. **The value here is in the principles and the traps — live vaccines and immunosuppression, what is not a contraindication, vaccinating before starting a biologic, cold chain, and the immunoglobulin–live vaccine interval — all of which are stable. The numbers are deliberately left to the Handbook.**
-
-
-<!-- ===== SOURCE: NEW_Infectious_Diseases.md ===== -->
-
-
-# NEW — Infectious Diseases
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!note] **This file contains the one Tier 1 Infectious Diseases topic only.** The category has 1 T1 and 9 T3 topics. See the build-status table at the end.
-
-## Fever in Immunocompromised Patient
-
-- **D:** fever in a patient whose immune defences are impaired. **This is a medical emergency and the reason it is Tier 1 is a single sentence: the usual signs of infection are absent, and the time available to act is measured in minutes, not hours.** A neutropenic patient cannot mount pus, so there is no consolidation on the film, no fluctuance in the abscess, no meningism — **fever, or even hypothermia and unexplained deterioration alone, may be the only sign of overwhelming sepsis.**
-- **Who counts as immunocompromised — a broader group than "on chemotherapy", and the group is routinely under-recognised:**
-  - **Neutropenia** from chemotherapy, haematological malignancy, marrow failure or drugs (clozapine, carbimazole, sulfasalazine, methotrexate).
-  - **Haematopoietic stem cell or solid organ transplant recipients** on immunosuppression.
-  - **Long-term corticosteroids**, biologic agents (**anti-TNF, rituximab and other monoclonals**), and conventional immunosuppressants.
-  - **Advanced HIV** with a low CD4 count.
-  - **Asplenia or hyposplenism** — post-splenectomy, sickle cell disease, coeliac disease — with a specific and lifelong risk of **overwhelming post-splenectomy infection from encapsulated organisms**, which can kill within hours.
-  - **Diabetes, chronic kidney disease, cirrhosis, malnutrition, and extremes of age** — lesser but real.
-- **DDx:**
-  - **Bacterial** — the immediate concern: Gram-negative bacilli including *Pseudomonas*, Gram-positive organisms including line-associated staphylococci and streptococci, and **encapsulated organisms in asplenia**.
-  - **Line and device infection** — central venous catheters, ports, drains, prosthetic material. **Examine every line site.**
-  - **Fungal** — *Candida*, and **invasive aspergillosis** in prolonged neutropenia; consider where fever persists despite antibacterials.
-  - **Viral** — CMV, EBV, HSV/VZV reactivation, respiratory viruses, and **CMV colitis or retinitis** in transplant and advanced HIV.
-  - **Opportunistic, particularly with advanced HIV or T-cell suppression:** ***Pneumocystis jirovecii* pneumonia** (dry cough, exertional desaturation, and a chest X-ray that can look far better than the patient), toxoplasmosis, cryptococcal meningitis, mycobacterial disease including reactivated tuberculosis.
-  - **Non-infective causes of fever, considered only after infection is treated:** drug fever, tumour fever, transfusion reaction, thrombosis, engraftment syndrome, graft-versus-host disease.
-- **Focused Hx:** **the nature and timing of immunosuppression — which agent, what dose, and crucially the date of the last chemotherapy cycle**, since the neutrophil nadir is predictable and places the patient at maximum risk; previous episodes of febrile neutropenia; **colonisation or previous infection with resistant organisms**, which changes empirical therapy; prophylactic antimicrobials currently taken (they shape which organisms remain likely); indwelling lines and how long they have been in; **localising symptoms, asked systematically and specifically, because they will be subtle** — cough, breathlessness, dysuria, diarrhoea, headache, neck stiffness, visual change, skin lesions, mouth or perianal pain (**mucositis and perianal infection are common and easily missed portals**); recent travel, contacts, animal exposure; vaccination status, particularly in asplenia; and **splenectomy history, which patients may not think to mention**.
-- **Examination:** **full vital signs including temperature — and note that hypothermia is as concerning as fever** — with early identification of sepsis physiology.
-  - **A full head-to-toe examination, including the areas usually skipped**: **mouth (mucositis, candidiasis, herpes)**, **perianal region (inspect; a perianal abscess may have no fluctuance)**, **all line and port sites, drain sites and recent puncture sites**, **skin folds and pressure areas**, and **the whole skin surface for emboli, cellulitis or fungal lesions**.
-  - Chest, abdomen, and a neurological examination including conscious level and neck stiffness.
-  - **Do not perform a digital rectal examination or take a rectal temperature in a neutropenic patient** — the risk of bacteraemia from mucosal trauma outweighs the information gained.
-  - Fundoscopy where candidaemia or CMV is a consideration.
-- **First-line Ix — and these are taken *while* antibiotics are being prepared, never before them:**
-  - **Blood cultures — peripheral and from every lumen of any central line**, which is what identifies a line as the source.
-  - **FBC with differential — for the absolute neutrophil count**, UEC, LFTs, CRP, **venous or arterial blood gas with lactate**, coagulation profile, calcium, magnesium.
-  - **Urinalysis and urine culture** (**pyuria may be absent in neutropenia**, so a bland urine does not exclude urinary infection).
-  - **Chest X-ray** — **a normal film does not exclude pneumonia in neutropenia**, because the infiltrate requires neutrophils to form; **CT chest** has a much higher yield and should be requested early where respiratory symptoms exist.
-  - **Swabs and cultures from any accessible site** — throat, wound, line exit site, stool for *C. difficile* if diarrhoea.
-  - **Respiratory virus PCR**; **sputum or induced sputum**; **serum cryptococcal antigen, galactomannan or beta-D-glucan** where fungal disease is suspected, per local practice.
-  - **Lumbar puncture** where CNS infection is suspected — **after considering platelets and coagulation**, and **never delaying antibiotics**.
-
-> [!danger] **The definition and the time target, which are the two facts to carry.**
-> **Febrile neutropenia** is commonly defined as a **single oral temperature of ≥38.5°C, or ≥38.0°C sustained or on two readings**, together with an **absolute neutrophil count <0.5 × 10⁹/L — or <1.0 × 10⁹/L and predicted to fall below 0.5**. Australian (eviQ) and international sources agreed on this structure; **the exact temperature convention varies slightly between protocols**, so use the local one.
-> **Empirical broad-spectrum intravenous antibiotics must be given within 60 minutes of presentation.** Multiple independent sources — Australian state and paediatric guidelines and international oncology guidance — agree on this target, and on the finding that delay beyond an hour is associated with worse outcomes.
-> **The intern-level actions:** recognise it, **triage it as an emergency**, take cultures **without delaying treatment**, give the empirical antibiotic on the local protocol within the hour, escalate immediately, and **do not wait for the blood count to come back if the clinical suspicion is there.**
-> **The specific empirical antibiotic regimen is deliberately omitted** — it is determined by local resistance patterns and by each hospital's protocol, and those documents are egress-blocked here. **Find your hospital's febrile neutropenia protocol before you need it**, because 60 minutes is not enough time to go looking.
-
----
-
-## Build status of this file
-
-| Tier | Count | Status |
-|---|---|---|
-| **T1** | 1 | **Built** — Fever in Immunocompromised Patient |
-| T3 | 9 | Not built |
-
-## Topics skipped in this category
-
-| Topic | Tier | Matched header | File | Match type |
-|---|---|---|---|---|
-| **Fever of Unknown Origin** | T3 | `## Pyrexia of unknown origin (PUO) / Fever of unknown origin` | `08_09_Infectious_Disease_-_Miscellaneous.md` | Partial — the topic name appears verbatim in the header |
-
-### Near-miss deliberately **not skipped**
-
-| Topic | Header it partially matched | Why |
-|---|---|---|
-| **Fever** (T3) | `Rheumatic Fever`, `Enteric fever`, `Q fever`, `Scarlet fever`, `Dengue fever`, `Yellow fever` and others | Every match is a **specific named disease containing the word "fever"**. There is no approach-to-fever header. This is the clearest false-positive cluster the scan produced — 10+ hits, none of them a match. |
-
+- **Mx:** IV C1-inhibitor concentrate; FFP if not available.
 
 <!-- ===== SOURCE: NEW_Investigations_Infectious_Diseases.md ===== -->
 
@@ -3572,16 +3071,517 @@ Immunotherapy or biologic therapy through a specialist service.
 
 **Alt:** PCR and IgM for acute infection; documented vaccination history (though serology is used where records are unavailable).
 
-<!-- ===== SOURCE: 10_09b_Haemonc_-_Miscellaneous_Haematology.md ===== -->
-*Moved here from `Heme Onc_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+<!-- ===== SOURCE: NEW_Drugs_05_Anti_infectives.md ===== -->
 
-## Hereditary angioedema
-`CF-PAIR` **An angioedema entry already exists in this file (`K4 §0.6 Urticaria, Angioedema and Mast Cell Disorders`). Both kept in full — this one is the hereditary complement-mediated disease, that one the mast-cell spectrum.**
 
-- **D:** ↓plasma levels of complement C1 inhibitor protein → uncontrolled release of bradykinin → oedema of tissues. Autosomal dominant.
-- **S/Smx:** painless, non-pruritic swelling of subcutaneous/submucosal tissues (angioedema); may affect the upper airways, skin, or abdominal organs; a painful macular rash may precede an attack; urticaria is rare.
-- **Ix:** ↓C1 inhibitor during attacks; ↓C2 and C4 at all times.
+# NEW — Drug Classes: Anti-infectives (AMH section 5)
 
-> [!danger] No response to IM adrenaline, antihistamines, or glucocorticoids — hereditary angioedema is not mast-cell/IgE-mediated, so standard anaphylaxis treatment is ineffective.
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
 
-- **Mx:** IV C1-inhibitor concentrate; FFP if not available.
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines: Antibiotic are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.** **Therapeutic Guidelines: Antibiotic is the Australian standard** and is what an intern should actually be prescribing from — this file is for understanding the classes, not for choosing a regimen.
+
+> [!info] **The frame for the whole file: antimicrobial stewardship.**
+> Before writing any antimicrobial, answer: **Is this infection? Which infection, and where? Have I taken cultures FIRST? What is the narrowest agent that covers the likely organism? What route, what dose for this patient's renal function and weight, and — the one most often left blank — FOR HOW LONG?** Then **review at 48–72 hours** against the culture result and de-escalate. Resistance, *C. difficile*, and adverse effects are all driven by unnecessary and unnecessarily broad prescribing. **Every antimicrobial prescription needs an indication and a stop or review date documented.**
+
+> [!danger] **Antibiotic allergy labels: most are wrong, and the label itself causes harm.**
+> Around 10% of patients carry a "penicillin allergy" label and the great majority are not truly allergic — the label is often childhood rash during a viral illness. The consequence is real: patients get **broader, more toxic, less effective second-line agents**, with higher rates of MRSA, VRE, *C. difficile* and surgical site infection. **Take a proper allergy history** — what happened, when, how soon after the dose, what was done — and **distinguish intolerance (nausea, diarrhoea) from allergy**, and **non-severe rash from anaphylaxis or a severe cutaneous adverse reaction (SJS/TEN, DRESS, AGEP)**. Refer for delabelling where appropriate. **A patient with a documented severe reaction must never be rechallenged** — that decision belongs to an immunologist.
+
+---
+
+## 0.2 Antibacterials
+
+### 0.2.1 Penicillins
+- **Mechanism:** **β-lactams** — bind penicillin-binding proteins, inhibiting cross-linking of peptidoglycan in the bacterial cell wall → **bactericidal**, and **time-dependent** killing (so dosing frequency and infusion strategy matter more than peak concentration).
+- **Key agents and their spectra:**
+  - **Benzylpenicillin (penicillin G)** and **phenoxymethylpenicillin (penicillin V)** — *Streptococcus pyogenes* and other streptococci, *Neisseria meningitidis*, syphilis, *Clostridium* species. **Still first-line for syphilis and for streptococcal pharyngitis and cellulitis.**
+  - **Antistaphylococcal penicillins — flucloxacillin, dicloxacillin** — **β-lactamase stable**, so they cover **methicillin-susceptible *Staphylococcus aureus* (MSSA)**. **Flucloxacillin is the drug of choice for MSSA bacteraemia and is superior to vancomycin for susceptible organisms** — a point worth knowing, because the reflex to keep a patient on vancomycin once susceptibility is known is a real error.
+  - **Aminopenicillins — amoxicillin, ampicillin** — extended Gram-negative cover; *Listeria*, enterococci, *H. influenzae* (if β-lactamase negative). **Amoxicillin is first-line for community-acquired pneumonia and otitis media in Australia.**
+  - **Antipseudomonal — piperacillin (with tazobactam), ticarcillin** — see 0.2.2.
+- **Adverse effects:** hypersensitivity (immediate IgE-mediated through to delayed rashes and severe cutaneous reactions); GI upset and *C. difficile*; **interstitial nephritis**; seizures at very high doses or in renal impairment; **flucloxacillin causes cholestatic hepatitis**, which can present **weeks after the course has finished** and is commoner in older patients and with prolonged courses; **encephalopathy** with high-dose benzylpenicillin in renal failure.
+- **Practical:** **a maculopapular rash with amoxicillin during EBV (glandular fever) is near-universal and is NOT a penicillin allergy** — mislabelling it commits the patient to a lifetime of second-line antibiotics.
+
+### 0.2.2 Penicillin Combinations
+- **Mechanism:** a penicillin plus a **β-lactamase inhibitor** (clavulanate, tazobactam), which sacrifices itself to the enzyme so the penicillin survives — restoring activity against β-lactamase-producing organisms.
+- **Key agents:** **amoxicillin–clavulanate**, **piperacillin–tazobactam**, ticarcillin–clavulanate, ampicillin–sulbactam.
+- **Indications:** **amoxicillin–clavulanate** — animal and human bites, sinusitis and otitis failing amoxicillin, aspiration, diabetic foot and other mixed infections. **Piperacillin–tazobactam** — broad-spectrum intravenous cover including *Pseudomonas* and anaerobes, in hospital-acquired and intra-abdominal infection and febrile neutropenia.
+- **Adverse effects:** as for penicillins, plus more **diarrhoea** (clavulanate) and a notable risk of **cholestatic hepatitis with amoxicillin–clavulanate**. Piperacillin–tazobactam is associated with **hypokalaemia**, thrombocytopenia and — in combination with vancomycin — an **increased incidence of acute kidney injury**.
+- **Stewardship point:** these are broad agents. **"Amoxicillin–clavulanate for everything" is poor practice** — it drives resistance and *C. difficile* where plain amoxicillin or a narrow agent would do.
+
+### 0.2.3 Cephalosporins
+- **Mechanism:** β-lactams, as above.
+- **Generations — the spectrum shifts predictably:**
+  - **1st (cefalexin, cefazolin)** — good Gram-positive (MSSA, streptococci), limited Gram-negative. **Cefazolin is the standard surgical prophylaxis agent**; cefalexin is the common oral agent for cellulitis and UTI.
+  - **2nd (cefuroxime, cefoxitin)** — more Gram-negative, some anaerobic activity.
+  - **3rd (ceftriaxone, cefotaxime, ceftazidime)** — broad Gram-negative and good **CSF penetration**. **Ceftriaxone is central to empirical meningitis, severe community-acquired pneumonia and gonorrhoea treatment**; **ceftazidime** adds *Pseudomonas* but has weak Gram-positive activity.
+  - **4th (cefepime)** — broad, including *Pseudomonas*, with Gram-positive activity retained.
+  - **5th (ceftaroline)** — the one with **MRSA** activity.
+- **The gaps every generation shares — remember what cephalosporins do NOT cover:** ***Listeria*, *Enterococcus*, MRSA** (except ceftaroline), and atypicals. **"LEM"** is a serviceable mnemonic and explains why amoxicillin is added to ceftriaxone in meningitis at the extremes of age.
+- **Adverse effects:** hypersensitivity; **cross-reactivity with penicillin allergy is much lower than the traditional 10% teaching** and is determined largely by **shared side chains** rather than the β-lactam ring — most patients with a non-severe penicillin allergy can safely receive a structurally dissimilar cephalosporin, though this decision should follow local policy; *C. difficile* (**cephalosporins are among the highest-risk classes**); **ceftriaxone causes biliary sludging/pseudolithiasis** and displaces bilirubin, so it is **avoided in neonates**, particularly with calcium-containing fluids.
+
+### 0.2.4 Carbapenems
+- **Key agents:** **meropenem, imipenem–cilastatin, ertapenem**.
+- **Spectrum:** the broadest β-lactams — Gram-positive, Gram-negative including **ESBL producers**, and anaerobes. **Meropenem and imipenem cover *Pseudomonas*; ertapenem does NOT** (and also misses *Acinetobacter* and *Enterococcus*), which is the single most useful distinction in the class.
+- **Role:** **reserve agents.** Multi-resistant Gram-negative infection, severe sepsis with resistant organisms, and infections where nothing narrower will do. Carbapenem use drives **carbapenem-resistant Enterobacterales**, one of the most serious current resistance threats.
+- **Adverse effects:** **seizures** — highest with imipenem and at high doses in renal impairment or with CNS pathology; hypersensitivity (with some cross-reactivity to penicillins, though lower than once thought); *C. difficile*.
+- **Interaction:** **carbapenems dramatically reduce valproate levels** and can precipitate seizures in a patient with epilepsy — a genuinely important and often-missed interaction.
+
+### 0.2.5 Monobactams
+- **Aztreonam** — the sole member. A **monocyclic** β-lactam active **only against aerobic Gram-negative organisms**, including *Pseudomonas*; **no Gram-positive or anaerobic activity at all**.
+- **Its niche is its structure:** aztreonam has **essentially no cross-reactivity with penicillins or other β-lactams** (except ceftazidime, with which it shares a side chain), so it is the β-lactam option in a patient with severe penicillin allergy who needs Gram-negative cover. Not widely stocked in Australian hospitals — check availability.
+
+### 0.2.6 Carbacephem
+- **Loracarbef** — a β-lactam structurally related to the cephalosporins (a carbon replaces the sulfur in the ring), with a cefaclor-like spectrum. **It is not marketed in Australia and is of historical interest only**; it appears on the build list but an Australian intern will not encounter it. Recorded here for completeness rather than because it has clinical relevance.
+
+### 0.2.7 Glycopeptides
+- **Mechanism:** bind the **D-Ala-D-Ala terminus** of cell wall precursors, blocking transglycosylation — a different site from the β-lactams, hence activity against β-lactam-resistant Gram-positives.
+- **Key agents:** **vancomycin, teicoplanin**.
+- **Spectrum:** **Gram-positive only** — **MRSA**, methicillin-resistant coagulase-negative staphylococci, *Enterococcus* (unless VRE), *C. difficile* (**oral** vancomycin for colitis — oral vancomycin is not absorbed and has **no systemic effect**, and conversely IV vancomycin does not treat *C. difficile*; confusing the two is a classic error).
+- **Adverse effects:**
+  - **Nephrotoxicity** — dose- and exposure-related, and substantially increased when combined with **piperacillin–tazobactam** or other nephrotoxins.
+  - **Ototoxicity.**
+  - **Vancomycin infusion reaction ("red man syndrome")** — an **anaphylactoid, histamine-mediated, rate-dependent** flushing of the face, neck and upper torso, sometimes with hypotension. **It is NOT an allergy**; the management is to **slow the infusion** and premedicate with an antihistamine, not to label the patient allergic and switch to something worse.
+  - Neutropenia and thrombocytopenia with prolonged courses; **DRESS**.
+- **Monitoring — and the standard has changed:** sources describe the **2020 consensus shift from trough-based to AUC-guided monitoring**, targeting an **AUC/MIC of approximately 400–600 mg·h/L**, on the grounds that trough targets of 15–20 mg/L drove unnecessary exposure and **acute kidney injury**. **Know which method your hospital uses**, and monitor renal function throughout.
+
+### 0.2.8 Lipopeptide
+- **Daptomycin** — inserts into the Gram-positive cell membrane and depolarises it. Active against **MRSA and VRE**.
+- **THE defining limitation: daptomycin is INACTIVATED BY PULMONARY SURFACTANT and therefore does NOT work in pneumonia.** It is used for bacteraemia, right-sided endocarditis, and skin and soft tissue infection — never for a lung source.
+- **Adverse effects:** **myopathy and rhabdomyolysis** — **monitor CK weekly**, and consider withholding statins during therapy; eosinophilic pneumonia (a distinct entity from treatment failure); peripheral neuropathy.
+
+### 0.2.9 Polypeptides
+- **Key agents:** **colistin (polymyxin E)** and **polymyxin B** systemically; **bacitracin** topically.
+- **Mechanism:** cationic detergents that disrupt the Gram-negative **outer membrane**.
+- **Role:** **last-line agents** for **multidrug-resistant Gram-negative infection** — carbapenem-resistant *Pseudomonas*, *Acinetobacter*, *Klebsiella*. Their revival is a direct consequence of resistance.
+- **Adverse effects:** **significant nephrotoxicity and neurotoxicity** (paraesthesia, weakness, and neuromuscular blockade that can cause apnoea). Their toxicity is why they were abandoned in the first place, and why their use is a specialist decision with close monitoring.
+
+### 0.2.10 Aminoglycosides
+- **Mechanism:** bind the **30S ribosomal subunit**, causing misreading of mRNA → **bactericidal**, with **concentration-dependent** killing and a prolonged **post-antibiotic effect** — which is the rationale for **once-daily (extended-interval) dosing**.
+- **Key agents:** **gentamicin, tobramycin, amikacin**; **neomycin** and **framycetin** topically.
+- **Spectrum:** aerobic **Gram-negative** organisms including *Pseudomonas*; **synergy with a β-lactam against Gram-positives** (used in enterococcal and staphylococcal endocarditis). **No anaerobic activity** — they require oxygen for uptake, which also explains their poor performance in abscesses and acidic environments.
+- **Adverse effects — the two that define the class:**
+  - **Nephrotoxicity** — usually **non-oliguric acute tubular necrosis**, typically reversible, and the reason short courses are preferred.
+  - **Ototoxicity — cochlear (hearing loss) and vestibular (imbalance, oscillopsia) — and it is IRREVERSIBLE.** Risk rises with duration, cumulative dose, renal impairment, age, and concurrent loop diuretics or other ototoxins. There is a **mitochondrial (m.1555A>G) variant** conferring susceptibility to profound deafness after a single dose — ask about a **maternal family history of aminoglycoside-related deafness**.
+  - Also **neuromuscular blockade** — dangerous in myasthenia gravis and additive with neuromuscular blocking agents.
+- **Monitoring:** **renal function before and during therapy**, therapeutic drug monitoring to your hospital's protocol, and **audiometry for prolonged courses**. **Keep courses short**, and review the indication daily.
+- **Pregnancy:** avoided — fetal ototoxicity.
+
+### 0.2.11 Macrolides
+- **Mechanism:** bind the **50S** subunit, inhibiting translocation — **bacteriostatic** at usual concentrations.
+- **Key agents:** **azithromycin, clarithromycin, roxithromycin, erythromycin**.
+- **Spectrum and indications:** **atypical pneumonia — *Mycoplasma*, *Chlamydia*, *Legionella*** (the main reason they are added to a β-lactam in community-acquired pneumonia); *Bordetella pertussis*; *Campylobacter*; chlamydial genital infection; *H. pylori* eradication (clarithromycin); **the penicillin-allergic patient** with a streptococcal infection; and **long-term azithromycin** as an anti-inflammatory in bronchiectasis and severe asthma.
+- **Adverse effects:** **GI upset** — erythromycin is a **motilin agonist** (which is why it is used deliberately as a prokinetic); **QT PROLONGATION and torsades de pointes** — a class effect that matters because macrolides are so often added to other QT-prolonging drugs; **cholestatic hepatitis**; ototoxicity at high doses; hypertrophic pyloric stenosis in neonates given erythromycin.
+- **INTERACTIONS — this is the highest-yield part of the entry.** **Erythromycin and clarithromycin are potent CYP3A4 inhibitors** and cause clinically serious interactions with: **statins** (rhabdomyolysis — simvastatin and atorvastatin especially), **colchicine** (toxicity, with reported deaths), **warfarin** (bleeding), **calcium channel blockers** (hypotension), **ciclosporin and tacrolimus**, **ergot alkaloids**, and **digoxin**. **Azithromycin has far less CYP interaction**, which is often the reason to choose it.
+
+### 0.2.12 Lincosamides
+- **Clindamycin** (and lincomycin) — bind the **50S** subunit at a site overlapping the macrolides.
+- **Spectrum:** **Gram-positives including many MRSA strains, and excellent anaerobic cover**; good bone, soft tissue and abscess penetration.
+- **The property that makes it valuable:** clindamycin **inhibits bacterial protein synthesis**, so it **switches off exotoxin production**. This is why it is added to a β-lactam in **necrotising fasciitis, streptococcal and staphylococcal toxic shock syndrome** — a genuinely life-saving indication.
+- **Adverse effects:** **the highest-profile association with *Clostridioides difficile* colitis** of any antibiotic — though in practice cephalosporins, fluoroquinolones and broad β-lactams cause more cases by volume. Diarrhoea, rash, and oesophageal ulceration if swallowed without water.
+- **Resistance note:** **inducible clindamycin resistance** in erythromycin-resistant staphylococci is detected by the **D-test**; a laboratory report of clindamycin susceptibility in an erythromycin-resistant isolate must be interpreted with this in mind.
+
+### 0.2.13 Tetracyclines
+- **Mechanism:** bind the **30S** subunit, blocking aminoacyl-tRNA — **bacteriostatic**, broad spectrum.
+- **Key agents:** **doxycycline** (the one used most in Australia), minocycline, tetracycline; **tigecycline** (a glycylcycline reserve agent).
+- **Indications — an unusually wide and Australian-relevant list:** **atypical and community-acquired pneumonia**; **chlamydia** and pelvic inflammatory disease; **acne and rosacea**; **rickettsial infections — Q fever, scrub typhus, Australian tick typhus**; **leptospirosis**; **Lyme-like illness and melioidosis eradication**; **malaria prophylaxis and treatment adjunct**; **bites**; **MRSA** skin infection (doxycycline is a useful oral option).
+- **Adverse effects:** **photosensitivity** — significant in Australia, and patients must be told to use sun protection; **oesophagitis and oesophageal ulceration** — take with a full glass of water, sitting or standing, and not immediately before lying down; GI upset; **benign intracranial hypertension** (particularly minocycline, and additively with isotretinoin — do not combine); **minocycline-specific** drug-induced lupus, hyperpigmentation and vestibular disturbance; candidiasis.
+- **Contraindications:** **pregnancy and breastfeeding**, and **children under 8 years** — deposition in developing teeth and bone causes **permanent discolouration and enamel hypoplasia** and inhibits bone growth. (Short courses in serious rickettsial illness in children are an accepted exception on specialist advice.)
+- **Interactions:** **absorption is markedly reduced by calcium, magnesium, aluminium, iron and zinc** — antacids, dairy, and supplements. **Separate the doses**; this is the commonest reason doxycycline appears not to work.
+
+### 0.2.14 Quinolones (Fluoroquinolones)
+- **Mechanism:** inhibit **DNA gyrase and topoisomerase IV** — bactericidal, excellent oral bioavailability and tissue penetration.
+- **Key agents:** **ciprofloxacin** (best Gram-negative and the main **antipseudomonal** oral option), **norfloxacin** (urinary), **moxifloxacin** (better Gram-positive and anaerobic, no useful urinary concentration).
+- **Role in Australia: deliberately restricted.** Australian prescribing has always been more conservative than elsewhere, to preserve activity and limit harm, and the PBS restricts them. **They are not first-line for uncomplicated UTI, community-acquired pneumonia or skin infection in Australia.**
+- **Adverse effects — the TGA has issued specific warnings, and sources confirm the Product Information was updated:**
+  - **TENDINOPATHY AND TENDON RUPTURE** — classically the Achilles, can occur **within days of starting and up to months after stopping**, and risk is greatly increased by **concurrent corticosteroids, age over 60, and renal impairment or transplantation**. **Any new tendon pain means stopping the drug and resting the limb.**
+  - **AORTIC ANEURYSM AND DISSECTION** — sources record the TGA precaution that fluoroquinolones should be used **only after careful benefit-risk assessment and consideration of alternatives** in patients with a **family history of aneurysm, known aortic aneurysm or dissection, or predisposing risk factors** (Marfan, Ehlers-Danlos, hypertension, atherosclerosis, older age).
+  - **PERIPHERAL NEUROPATHY** — can be rapid in onset and **permanent**.
+  - **CNS effects** — insomnia, agitation, confusion, psychosis, **seizures** (lowered threshold; caution in epilepsy), and delirium in the elderly.
+  - **QT prolongation**; **tendon and CNS effects are worse in the elderly**; **aortic and tendon effects reflect collagen toxicity**; ***C. difficile*** risk is high; **dysglycaemia** with sulfonylureas; retinal detachment (debated).
+- **Interactions:** absorption blocked by **divalent and trivalent cations** (antacids, iron, calcium, zinc — separate the doses); **ciprofloxacin inhibits CYP1A2**, raising **theophylline** and **clozapine** levels; additive QT prolongation; **warfarin** potentiation.
+- **Contraindications/cautions:** children and adolescents (arthropathy in animal studies) except where the benefit clearly outweighs; pregnancy; myasthenia gravis (**exacerbation**); epilepsy; known aneurysm risk.
+
+### 0.2.15 Metronidazole (Nitroimidazoles)
+- **Mechanism:** reduced intracellularly by **anaerobic** organisms to a reactive nitro radical that damages DNA — which is precisely why it works only where there is no oxygen.
+- **Key agents:** **metronidazole**, tinidazole.
+- **Indications:** **anaerobic infection** — intra-abdominal, pelvic, dental, aspiration, brain abscess (good CNS penetration); ***C. difficile*** (now second-line to oral vancomycin); **bacterial vaginosis and trichomoniasis**; **amoebiasis and giardiasis**; *H. pylori* eradication regimens.
+- **Adverse effects:** **metallic taste** (very characteristic), nausea, furred tongue; **peripheral neuropathy with prolonged courses** — sensory, cumulative-dose related and sometimes irreversible; **encephalopathy and cerebellar toxicity** (rare); dark urine; **oral candidiasis**.
+- **The interaction to warn about explicitly: DISULFIRAM-LIKE REACTION WITH ALCOHOL** — flushing, vomiting, headache, tachycardia. **Tell the patient to avoid alcohol during the course and for 24–48 hours afterwards**, and remember alcohol hides in mouthwashes and some medicines. Also **potentiates warfarin** significantly.
+
+### 0.2.16 Nitrofurans
+- **Nitrofurantoin** — reduced by bacterial nitroreductases to multiple reactive intermediates attacking ribosomes, DNA and metabolic enzymes; the multi-target mechanism explains why **resistance has remained low despite decades of use**.
+- **Indication:** **uncomplicated lower urinary tract infection** — it concentrates in urine but achieves **negligible tissue and serum concentrations**.
+- **THE KEY LIMITATIONS, both of which follow from that:**
+  - **It does NOT treat pyelonephritis, prostatitis or any systemic infection** — using it for an upper tract infection is a recognised and dangerous error.
+  - **It requires adequate renal function to reach therapeutic urinary concentrations** and is **avoided in significant renal impairment** — where it both fails to work and accumulates systemically, increasing toxicity. This matters most in the frail elderly patient who is exactly the person being prescribed it.
+- **Adverse effects:** nausea (better with food); **acute pulmonary reaction** (fever, dyspnoea, eosinophilia — within days to weeks) and **chronic interstitial pulmonary fibrosis** with long-term prophylactic use; **peripheral neuropathy** (worse in renal impairment); **hepatotoxicity** including chronic active hepatitis; **haemolysis in G6PD deficiency**; brown urine.
+- **Pregnancy:** generally acceptable but **avoided near term and in the neonatal period** because of haemolysis risk in the newborn.
+
+### 0.2.17 Rifamycins / Ansamycins
+*(the build list carries `Rifamycins` and `Ansamycins` separately — rifamycins ARE ansamycins, so they are built once here)*
+- **Mechanism:** inhibit **bacterial DNA-dependent RNA polymerase**.
+- **Key agents:** **rifampicin**, rifabutin, rifapentine; **rifaximin** (non-absorbed, acting in the gut).
+- **Indications:** **tuberculosis and other mycobacterial disease** (see 0.2.18); **meningococcal and *H. influenzae* type b prophylaxis**; **staphylococcal prosthetic material and bone and joint infection** — where its **biofilm penetration** is the reason it is added; leprosy. **Rifaximin** — hepatic encephalopathy and travellers' diarrhoea.
+- **The two things every clinician must say to a patient starting rifampicin:**
+  1. **"It turns your urine, tears and sweat ORANGE-RED, and it will permanently stain soft contact lenses."** Harmless, but terrifying if unexpected.
+  2. **"It will stop your contraceptive pill working."**
+- **RIFAMPICIN IS A POTENT INDUCER OF CYP3A4 AND OTHER ENZYMES** — one of the most interaction-prone drugs in the formulary. It reduces the effect of: **hormonal contraceptives** (alternative contraception is mandatory), **warfarin and DOACs**, **corticosteroids** (can precipitate adrenal crisis in a steroid-dependent patient), **antiretrovirals** (major issue in HIV-TB co-treatment — rifabutin is often substituted), **azole antifungals**, **methadone** (precipitating withdrawal), **statins**, **ciclosporin and tacrolimus**, and many more. **Check every co-prescribed drug.**
+- **Other adverse effects:** hepatotoxicity; a flu-like syndrome with intermittent dosing; thrombocytopenia; interstitial nephritis.
+- **NEVER use rifampicin as monotherapy for an active infection** — resistance emerges rapidly.
+
+### 0.2.18 Antimycobacterials
+- **First-line anti-tuberculous therapy — "RIPE"**, given as combination therapy for months under specialist and public health supervision:
+  - **Rifampicin** — see 0.2.17. **Orange secretions; enzyme induction.**
+  - **Isoniazid** — **peripheral neuropathy** (prevented by **pyridoxine**, which should be co-prescribed in those at risk — diabetes, renal failure, alcohol dependence, malnutrition, pregnancy, HIV); **hepatitis**; drug-induced lupus; and **seizures in overdose, treated with pyridoxine**.
+  - **Pyrazinamide** — **hepatotoxicity**; **hyperuricaemia and gout**; arthralgia.
+  - **Ethambutol** — **OPTIC NEURITIS with loss of visual acuity and RED-GREEN COLOUR VISION** — dose-related and usually reversible if caught. **Baseline and periodic visual acuity and colour vision testing are required, and the patient must be told to report any visual change immediately and stop the drug.**
+- **Cross-cutting principles:**
+  - **Hepatotoxicity is a shared risk of rifampicin, isoniazid and pyrazinamide** — check baseline LFTs and monitor; a patient on TB treatment with nausea, vomiting, jaundice or abdominal pain needs urgent LFTs.
+  - **Never treat active TB with a single agent** — resistance is the inevitable result.
+  - **Directly observed therapy and public health involvement are standard**; TB is **notifiable** in every Australian jurisdiction and is managed by state TB services.
+  - **Exclude active TB before treating latent infection.** See `NEW_Investigations_Respiratory.md` 0.7.
+  - **Non-tuberculous mycobacteria** (*M. avium* complex, *M. abscessus*) require different, prolonged, multi-drug regimens; **leprosy** is treated with rifampicin, dapsone and clofazimine.
+  - **Second-line and MDR-TB agents** — fluoroquinolones, bedaquiline, linezolid, aminoglycosides — are specialist-only, and bedaquiline plus azoles both prolong the QT.
+
+### 0.2.19 Other Antibacterials
+- **Sulfonamides and trimethoprim — trimethoprim, and trimethoprim–sulfamethoxazole (co-trimoxazole)**
+  - **Mechanism:** sequential blockade of bacterial folate synthesis (sulfamethoxazole at dihydropteroate synthase, trimethoprim at dihydrofolate reductase).
+  - **Indications:** UTI (**trimethoprim alone is a common Australian first-line oral agent**); ***Pneumocystis jirovecii* pneumonia — treatment and prophylaxis**, which is the indication that saves lives in the immunosuppressed; *Nocardia*; *Stenotrophomonas*; some MRSA skin infection; toxoplasmosis.
+  - **Adverse effects:** **HYPERKALAEMIA** — trimethoprim blocks the distal tubular epithelial sodium channel like amiloride, and the effect is clinically significant, especially with **ACE inhibitors, ARBs, spironolactone or renal impairment**; a **rise in creatinine without a true fall in GFR** (it blocks tubular creatinine secretion); **rash and severe cutaneous adverse reactions (SJS/TEN)** — sulfonamides are among the leading causes; marrow suppression and megaloblastic changes; hepatitis; hyponatraemia; **haemolysis in G6PD deficiency**.
+  - **Contraindication:** **first trimester of pregnancy** (folate antagonism — neural tube defects) and near term; **interacts with methotrexate** (additive antifolate — potentially fatal) and **warfarin**.
+- **Oxazolidinones — linezolid, tedizolid.** 50S inhibitors active against **MRSA and VRE**, with **excellent oral bioavailability** (so a patient can complete treatment orally). **Adverse effects: myelosuppression — especially thrombocytopenia — with courses beyond about two weeks (monitor FBC); peripheral and OPTIC neuropathy with prolonged use; lactic acidosis; and SEROTONIN SYNDROME**, because linezolid is a weak **MAOI** — a critical interaction with SSRIs, SNRIs, tramadol and triptans.
+- **Chloramphenicol** — broad-spectrum; systemic use abandoned in Australia because of **idiosyncratic aplastic anaemia** (unpredictable, not dose-related, often fatal) and **grey baby syndrome** in neonates. **Topical ocular and otic preparations remain in common use** and are safe.
+- **Fosfomycin** — single-dose oral therapy for uncomplicated UTI, useful against multi-resistant organisms.
+- **Fusidic acid** — antistaphylococcal; **used topically for impetigo, and resistance emerges rapidly**, so topical use should be short and limited. Systemically it is combined with another agent and causes hepatotoxicity and statin interaction (rhabdomyolysis).
+- **Dapsone** — leprosy, dermatitis herpetiformis, PJP prophylaxis (second-line). **Haemolysis and methaemoglobinaemia, markedly worse in G6PD deficiency — screen before starting.**
+- **Nitroimidazole, glycylcycline and other reserve agents** — see the relevant classes above.
+
+### 0.2.20 Antibacterials (Skin)
+- **Key agents:** **mupirocin**, fusidic acid, silver sulfadiazine, chlorhexidine and other antiseptics, topical clindamycin and benzoyl peroxide (acne), topical metronidazole (rosacea).
+- **Indications:** **localised impetigo**; **nasal decolonisation for *S. aureus*** (mupirocin) before surgery or in recurrent furunculosis; burns (silver sulfadiazine); acne and rosacea.
+- **The principles that matter more than the agents:**
+  - **Widespread, systemic or deep infection needs oral or intravenous antibiotics**, not a cream. Topical treatment of cellulitis does not work.
+  - **Topical antibiotic use drives resistance efficiently** — **mupirocin resistance and fusidic acid resistance in *S. aureus* have both risen with liberal topical use in Australia.** Keep courses short and indications tight, and prefer **antiseptics (chlorhexidine, povidone-iodine, bleach baths)** where an antibacterial effect is wanted without an antibiotic.
+  - **Topical antibiotics are a common cause of contact allergic dermatitis** — a "worsening infection" on topical treatment may be sensitisation.
+  - **In tropical and remote Australian settings, skin sores are a driver of acute post-streptococcal glomerulonephritis and acute rheumatic fever**, so treatment thresholds and regimens differ and follow specific regional protocols. See [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]].
+- **Silver sulfadiazine** — note the **sulfonamide** component (allergy), possible marrow effects with large-area use, and that it can obscure burn wound assessment.
+
+### 0.2.21 Antibacterials (Ear)
+- **Key agents:** topical drops containing **ciprofloxacin** (± a corticosteroid), **framycetin/neomycin**, **gentamicin**, chloramphenicol, and acetic acid/aluminium acetate preparations.
+- **Indications:** **otitis externa** — where **topical treatment is more effective than oral antibiotics**, and aural toilet (microsuction or dry mopping) is at least as important as the drops; **chronic suppurative otitis media with discharge through a perforation or grommet**.
+
+> [!danger] **Aminoglycoside ear drops and a perforated tympanic membrane: the classic ototoxicity trap.**
+> **Framycetin, neomycin and gentamicin drops are potentially ototoxic if they reach the middle ear** through a perforation or a grommet, and the resulting sensorineural hearing loss is **permanent**. **Where the drum is perforated or grommets are in place, use a quinolone drop (ciprofloxacin), which is not ototoxic** — this is the standard and it is frequently got wrong.
+
+- **Other practical points:** **keep the ear dry**; a **wick** is used when the canal is too swollen for drops to penetrate; **failure to respond suggests fungal otitis externa** (*Aspergillus*, *Candida* — needs an antifungal, and topical antibiotic use predisposes to it), a foreign body, or an underlying dermatitis. **Severe pain, granulation tissue in the canal, cranial nerve palsy, or otitis externa in an elderly diabetic or immunosuppressed patient raises NECROTISING (MALIGNANT) OTITIS EXTERNA** — a *Pseudomonas* skull-base osteomyelitis requiring urgent imaging, admission and prolonged systemic therapy. See [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]].
+
+## 0.6 Antivirals
+
+### 0.6.1 Guanine Analogues
+- **Mechanism:** nucleoside analogues that require **phosphorylation by a VIRAL kinase** for their first activation step — which is exactly why they are selective for infected cells and so well tolerated.
+- **Key agents:** **aciclovir** and its better-absorbed prodrug **valaciclovir**; **famciclovir/penciclovir**; **ganciclovir** and **valganciclovir** (for CMV).
+- **Indications:** **herpes simplex** (orolabial, genital, keratitis, **encephalitis**), **varicella-zoster** (chickenpox, **shingles**, disseminated disease), and — for ganciclovir/valganciclovir — **cytomegalovirus** disease and prophylaxis in transplantation and HIV.
+- **The timing principle:** these drugs **inhibit replication and do not eradicate latent virus.** They work best **started early** — within 72 hours of shingles rash onset, and immediately on suspicion in encephalitis. **Suspected HSV encephalitis is treated with intravenous aciclovir IMMEDIATELY, before the PCR returns**; waiting for confirmation costs brain.
+- **Adverse effects:**
+  - **Aciclovir: crystal nephropathy and acute kidney injury** with intravenous dosing — **ensure adequate hydration and infuse slowly**; **neurotoxicity** (confusion, hallucinations, myoclonus, seizures) in renal impairment and the elderly. **Dose reduction in renal impairment is mandatory** and is a common ward error.
+  - **Ganciclovir and valganciclovir: significant myelosuppression** — neutropenia, thrombocytopenia and anaemia — requiring regular FBC monitoring; also carcinogenic/teratogenic in animal studies, with handling precautions.
+- **Practical:** **shingles in an immunocompromised patient, or involving the ophthalmic division of the trigeminal nerve (Hutchinson sign), needs urgent treatment and ophthalmology review**; disseminated zoster requires isolation.
+
+### 0.6.2 Neuraminidase Inhibitors
+- **Key agents:** **oseltamivir** (oral), **zanamivir** (inhaled), peramivir (IV).
+- **Mechanism:** inhibit **influenza neuraminidase**, preventing release of new virions from the infected cell.
+- **Indications:** **influenza** — treatment and post-exposure prophylaxis. **The benefit depends heavily on early administration**, ideally **within 48 hours of symptom onset**; the benefit in otherwise healthy adults is modest (roughly a day less illness), and the case for treatment rests on the **high-risk** groups: pregnancy, significant comorbidity, immunosuppression, the very young and the elderly, Aboriginal and Torres Strait Islander people, and those admitted to hospital.
+- **Adverse effects:** nausea and vomiting (oseltamivir, better with food); **bronchospasm with inhaled zanamivir** — avoid in asthma and COPD; neuropsychiatric events reported particularly in children and adolescents in Japan (causality debated).
+- **The point that matters most:** **vaccination is the primary prevention and antivirals are not a substitute for it.** In an outbreak — particularly in **residential aged care** — prophylaxis, isolation and public health involvement are part of the response.
+- **Baloxavir** (a cap-dependent endonuclease inhibitor) is a newer single-dose alternative with a different mechanism.
+
+### 0.6.3 Antivirals for Viral Hepatitis
+- **Hepatitis C — direct-acting antivirals (DAAs).** Sources describe the Australian position clearly: DAAs have **transformed treatment since PBS listing in 2016**, and practice has **shifted from genotype-specific to PAN-GENOTYPIC regimens**, with **sofosbuvir–velpatasvir** and **glecaprevir–pibrentasvir** now the recommended regimens in Australian guidelines (sources give average market shares since introduction of about **55%** and **34%** respectively).
+  - **Cure rates exceed 95%**, courses are short (typically 8–12 weeks), and the drugs are well tolerated.
+  - **A defining feature of the Australian model is that GENERAL PRACTITIONERS CAN PRESCRIBE**, with specialist consultation, which is what made elimination targets plausible. Treatment is available to anyone with hepatitis C regardless of fibrosis stage or ongoing drug use.
+  - **Interactions:** **amiodarone with sofosbuvir causes severe bradycardia**; **acid suppression** affects some regimens; **rifampicin, carbamazepine, phenytoin and St John's wort** reduce DAA levels and can cause treatment failure; statin interactions are common.
+- **Hepatitis B — nucleos(t)ide analogues: entecavir and tenofovir (TDF/TAF)** are first-line. They **suppress** the virus and are usually **long-term or lifelong**; cure (HBsAg loss) is uncommon. Peginterferon is an alternative in selected patients.
+
+> [!danger] **Two hepatitis B traps that cause deaths and are entirely preventable**
+> 1. **STOPPING hepatitis B treatment can cause a severe flare and hepatic decompensation.** These drugs are not stopped casually, and an inpatient must not have theirs omitted.
+> 2. **HEPATITIS B REACTIVATION with immunosuppression.** **Rituximab, other B-cell-depleting agents, chemotherapy, high-dose corticosteroids and transplant immunosuppression can reactivate hepatitis B — including in people who appear to have cleared it (HBsAg negative, anti-HBc positive) — causing fulminant hepatitis and death.** **SCREEN FOR HEPATITIS B (HBsAg, anti-HBc, anti-HBs) BEFORE STARTING ANY SIGNIFICANT IMMUNOSUPPRESSION**, and give prophylactic antiviral cover where indicated. This is a standing, checkable action and it is missed regularly.
+> 3. **Lamivudine, emtricitabine and tenofovir treat BOTH HIV and hepatitis B.** Test for HIV before treating hepatitis B (inadvertent HIV monotherapy generates resistance), and in co-infection design the regimen to cover both — **and never stop it abruptly.** See [[03_Gastrointestinal]].
+
+### 0.6.4 Interferons
+- **Mechanism:** recombinant cytokines (**peginterferon alfa** predominantly) that activate host antiviral and immunomodulatory pathways rather than acting on the virus directly.
+- **Indications — now largely historical for hepatitis C**, displaced entirely by the DAAs. Remaining uses: selected **hepatitis B and D**, some **myeloproliferative neoplasms**, melanoma and other malignancies, and multiple sclerosis (interferon beta).
+- **Adverse effects — the reason they were abandoned as soon as an alternative existed:** severe **flu-like syndrome**, **depression and suicidality**, **bone marrow suppression**, **thyroid dysfunction** (both hypo- and hyperthyroidism), autoimmune phenomena, fatigue and weight loss, alopecia, and injection site reactions. **Contraindicated in decompensated cirrhosis, uncontrolled psychiatric illness and autoimmune disease.**
+
+### 0.6.5 Antivirals (Eye)
+- **Key agents:** **aciclovir eye ointment**, **ganciclovir eye gel**, trifluridine.
+- **Indication:** **herpes simplex keratitis** — the classic **dendritic ulcer**, seen with fluorescein under blue light.
+
+> [!danger] **A red painful eye with a dendritic ulcer must NEVER receive a topical corticosteroid without ophthalmological supervision** — steroids convert a dendritic ulcer into a **geographic ulcer** with risk of perforation and permanent visual loss. **Any suspected herpetic eye disease is a same-day ophthalmology referral.** Recurrent disease causes stromal scarring and is a leading infectious cause of corneal blindness. **Herpes zoster ophthalmicus** (shingles involving the ophthalmic division, with the **Hutchinson sign** — vesicles on the nose tip) requires **systemic** antiviral treatment and ophthalmology review. See [[05_Ophthalmology]].
+
+### 0.6.6 Antivirals (Skin)
+- **Key agents:** **topical aciclovir and penciclovir** creams for **herpes labialis (cold sores)**; **imiquimod** (an immune response modifier) and **podophyllotoxin** for **anogenital warts**.
+- **The honest assessment of topical antivirals:** their benefit in cold sores is **marginal** — at best around a day's reduction in duration, and only if applied at the very first prodromal tingle. **They are not an alternative to systemic therapy** for anything significant.
+- **Systemic treatment is required for**: primary herpetic gingivostomatitis, eczema herpeticum (**a dermatological emergency** — see [[09_01_Dermatology_-_Dermatological_Emergencies]]), shingles, ophthalmic involvement, disseminated disease, and any herpetic infection in an **immunocompromised** patient.
+- **Imiquimod** causes intentional local inflammation — erythema, erosion and discomfort are expected and should be explained, or the patient will stop. **Podophyllotoxin is contraindicated in pregnancy.**
+
+### 0.6.7 Other Antivirals
+- **Ribavirin** — RSV (nebulised, contested), viral haemorrhagic fevers, hepatitis E, and formerly hepatitis C. **Haemolytic anaemia** is dose-limiting, and it is **strongly TERATOGENIC** — **effective contraception is required in both male and female patients during and for months after treatment.**
+- **Nirmatrelvir–ritonavir** and **remdesivir** — COVID-19 antivirals. **Nirmatrelvir–ritonavir is a ritonavir-boosted regimen and therefore carries the entire CYP3A4 interaction burden of section 0.5.3** — statins, calcium channel blockers, immunosuppressants, some anticoagulants, amiodarone and many others must be held or adjusted. Sources include a case report of **voriconazole toxicity precipitated by nirmatrelvir/ritonavir**. **Every prescription requires a full interaction check**, and there is a short treatment window from symptom onset.
+- **Cidofovir and foscarnet** — resistant CMV and severe herpesvirus infection; both are **markedly nephrotoxic** (foscarnet also causes profound **electrolyte disturbance** — hypocalcaemia, hypomagnesaemia, hypokalaemia — and genital ulceration).
+- **Letermovir and maribavir** — CMV prophylaxis and refractory CMV in transplantation.
+- **Palivizumab and nirsevimab** — monoclonal antibodies for **RSV prophylaxis** in high-risk infants.
+
+---
+
+## 0.3 Antifungals
+
+### 0.3.1 Azoles
+- **Mechanism:** inhibit fungal **14α-demethylase (CYP51)**, blocking ergosterol synthesis and disrupting the fungal membrane.
+- **Key agents:** **fluconazole** (candida, cryptococcus; excellent CSF and urinary penetration; **no mould activity**), **itraconazole** (dermatophytes, *Aspergillus*, sporotrichosis), **voriconazole** (**invasive aspergillosis** — the drug of choice), **posaconazole** (broad mould cover including mucormycosis; prophylaxis in haematology), **isavuconazole**; and topical **clotrimazole, miconazole, ketoconazole**.
+- **Adverse effects:** hepatotoxicity (monitor LFTs on systemic therapy); **QT prolongation** (except isavuconazole, which shortens it); rash including SJS/TEN.
+  - **Voriconazole specifically:** **transient visual disturbance — altered colour perception, blurring, photophobia — in a large proportion of patients**, usually early and reversible; **photosensitivity and, with prolonged use, squamous cell skin cancer**; **hallucinations and encephalopathy**; **periostitis with fluorosis**. Its metabolism is **CYP2C19-dependent with wide polymorphic variability**, so **therapeutic drug monitoring is standard**.
+  - **Itraconazole** is **negatively inotropic and is contraindicated in heart failure**, and its absorption is erratic and formulation-dependent (capsules need acid and food; solution is taken fasting) — a frequent cause of treatment failure.
+
+> [!danger] **AZOLE DRUG INTERACTIONS ARE AMONG THE MOST DANGEROUS IN THE FORMULARY.**
+> Sources confirm that **itraconazole, ketoconazole and miconazole are the strongest CYP3A4/3A5 inhibitors** of the antifungals, and that voriconazole is contraindicated with drugs highly dependent on CYP3A4 for clearance where raised levels cause serious or life-threatening events. In practice this means checking every co-prescribed drug, and specifically: **statins** (rhabdomyolysis), **warfarin and DOACs** (bleeding), **ciclosporin, tacrolimus and sirolimus** (toxicity — dose reductions are required and are calculated by the transplant team), **ergot alkaloids** (ergotism), **other QT-prolonging drugs**, **midazolam and other benzodiazepines**, **vincristine** (neurotoxicity), **methadone**, and **sulfonylureas** (hypoglycaemia). **Even topical MICONAZOLE oral gel is absorbed enough to raise the INR dangerously in a warfarinised patient** — a genuinely common and preventable bleed. Conversely **rifampicin, phenytoin and carbamazepine drastically reduce azole levels** and cause treatment failure.
+
+- **Pregnancy:** **high-dose or prolonged fluconazole is teratogenic**; a single low dose for vaginal candidiasis is generally considered acceptable, but check.
+
+### 0.3.2 Echinocandins
+- **Mechanism:** inhibit **β-(1,3)-D-glucan synthase**, a component of the **fungal cell wall** that has no human counterpart — which is why this class is so well tolerated.
+- **Key agents:** **caspofungin, anidulafungin, micafungin**. **Intravenous only** — no oral formulation.
+- **Spectrum:** **excellent against *Candida*, including fluconazole-resistant species (*C. glabrata*, *C. krusei*) and *Candida auris***; **fungistatic against *Aspergillus***; **no activity against *Cryptococcus*, and none against the agents of mucormycosis.**
+- **Role:** **first-line empirical therapy for candidaemia and invasive candidiasis**, especially in the unstable or azole-exposed patient; empirical therapy in persistent febrile neutropenia.
+- **Advantages:** sources comparing **caspofungin with liposomal amphotericin B** in persistent fever and neutropenia report substantially **less nephrotoxicity (about 2.6% vs 11.5%)** and **fewer infusion-related and drug-related adverse events**. Minimal drug interactions.
+- **Limitations:** IV only; **poor penetration into urine, CSF and the eye** — so they are **not the agent for candiduria, fungal meningitis or endophthalmitis**. A patient with candidaemia should have a **dilated fundoscopic examination** to look for endophthalmitis, which changes the agent and duration.
+
+### 0.3.3 Other Antifungals
+- **Polyenes — amphotericin B** (conventional deoxycholate and **liposomal**), **nystatin** (topical/oral, not absorbed).
+  - **Mechanism:** bind **ergosterol**, forming membrane pores.
+  - **Role:** the broadest antifungal — **cryptococcal meningitis** (with flucytosine), **mucormycosis**, severe or refractory invasive fungal infection, visceral leishmaniasis.
+  - **Adverse effects:** **infusion reactions** (fever, rigors, hypotension); **NEPHROTOXICITY** with **potassium and magnesium wasting** requiring aggressive replacement; anaemia. Sources describe **liposomal amphotericin as having greatly reduced nephrotoxicity and infusion toxicity** than the conventional formulation, but note it is **still associated with relatively high rates of nephrotoxicity** — "liposomal" means less nephrotoxic, not non-nephrotoxic.
+  - **The formulations are NOT interchangeable and their doses differ by several fold** — a formulation error with amphotericin has caused fatal overdoses, which is why the full product name must be written out.
+- **Terbinafine** — an **allylamine** inhibiting squalene epoxidase. **The agent of choice for dermatophyte nail and skin infection** (fungistatic against *Candida*, fungicidal against dermatophytes). **Adverse effects: hepatotoxicity (check LFTs before and during prolonged courses), taste and smell disturbance which can be prolonged or permanent, and severe cutaneous reactions.** Sources note its interaction potential is limited, **except that it inhibits CYP2D6** — relevant for tricyclics, some β-blockers, and codeine/tramadol activation.
+- **Flucytosine (5-FC)** — used **only in combination** (resistance emerges rapidly alone), classically with amphotericin for **cryptococcal meningitis**. **Bone marrow suppression** is dose-related; requires level monitoring and renal dose adjustment.
+- **Griseofulvin** — an older agent still used for **tinea capitis in children**; requires prolonged courses, taken with fatty food; **enzyme-inducing** (reduces contraceptive efficacy) and causes a **disulfiram-like reaction with alcohol**.
+
+## 0.5 Antiretrovirals
+
+> [!info] **Principles that apply to the whole section**
+> - **Combination therapy always** — modern regimens are typically **an integrase inhibitor plus two NRTIs**, increasingly as a **single-tablet regimen**, and sometimes as a two-drug regimen. **Monotherapy generates resistance.**
+> - **Never interrupt antiretroviral therapy without specialist advice**, including for an inpatient stay — an admitted patient's ART must be continued, and this is one of the commonest inpatient medication errors. **If the exact combination is unavailable on the ward, call the HIV pharmacist or the treating service the same day; do not substitute or omit.**
+> - **Check every new drug for interactions** — ART is one of the most interaction-prone areas in medicine.
+> - **Treatment is prevention: U=U — an undetectable viral load means untransmittable.**
+> - **PrEP** (pre-exposure prophylaxis, tenofovir/emtricitabine) and **PEP** (post-exposure prophylaxis, started as soon as possible after a significant exposure and continued for 28 days) are both established Australian practice; **occupational and non-occupational exposures should be discussed with the local HIV/ID service or a 24-hour PEP line the same day.**
+
+### 0.5.1 Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)
+- **Mechanism:** phosphorylated intracellularly to nucleotide analogues that are incorporated into viral DNA and **terminate the chain**.
+- **Key agents:** **tenofovir disoproxil fumarate (TDF)** and **tenofovir alafenamide (TAF)**, **emtricitabine (FTC)**, **lamivudine (3TC)**, **abacavir (ABC)**, zidovudine (largely historical).
+- **The "backbone" of most regimens**, typically **TAF or TDF with emtricitabine**, or **abacavir with lamivudine**.
+- **Agent-specific points:**
+  - **ABACAVIR REQUIRES HLA-B\*57:01 TESTING BEFORE USE** — the allele predicts a potentially fatal hypersensitivity syndrome, and sources report the test has a **negative predictive value of approximately 100%**. **A patient who has had abacavir hypersensitivity must never be rechallenged.** See `NEW_Investigations_General_and_Preventive.md` 0.16.
+  - **Tenofovir disoproxil (TDF)** — **renal tubular toxicity (including Fanconi syndrome) and reduced bone mineral density**. **Tenofovir alafenamide (TAF)** achieves the same intracellular levels at far lower plasma exposure and has **less renal and bone toxicity**, but is associated with more **weight gain and dyslipidaemia**. Sources describe TAF as showing equivalent antiviral efficacy to TDF.
+  - **Lamivudine, emtricitabine and tenofovir are also active against hepatitis B** — see 0.6.3 and the danger note there.
+  - **Older NRTIs (stavudine, didanosine, zidovudine)** caused **mitochondrial toxicity — lactic acidosis, hepatic steatosis, lipoatrophy, peripheral neuropathy, pancreatitis** — and are essentially no longer used; zidovudine also causes **anaemia and macrocytosis**.
+
+### 0.5.2 Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
+- **Mechanism:** bind an **allosteric** site on reverse transcriptase, changing its conformation. Not phosphorylation-dependent.
+- **Key agents:** **efavirenz, rilpivirine, doravirine, etravirine, nevirapine** (and **doravirine** as the better-tolerated modern option).
+- **Adverse effects:**
+  - **Efavirenz** — **CNS effects in the majority initially**: vivid dreams, dizziness, insomnia, impaired concentration, and **depression and suicidality**, usually settling over weeks but sometimes persisting; false-positive urine cannabinoid screens.
+  - **Nevirapine** — **severe hepatotoxicity and severe cutaneous reactions (SJS/TEN)**, with risk stratified by CD4 count and sex; it requires a lead-in dose escalation and is now little used.
+  - **Rilpivirine** — needs **an acidic stomach and a substantial meal** for absorption; **proton pump inhibitors are contraindicated** with it, which is a very easy interaction to miss.
+- **A single mutation can confer class-wide resistance** — the **low genetic barrier** is why NNRTIs have been displaced from first-line by integrase inhibitors.
+- **Interactions:** efavirenz and nevirapine are **CYP inducers**; etravirine and rilpivirine have complex profiles. **Rifampicin significantly affects all of them.**
+
+### 0.5.3 HIV Protease Inhibitors
+- **Mechanism:** block the viral protease that cleaves polyproteins into functional units, producing **immature, non-infectious virions**.
+- **Key agents:** **darunavir, atazanavir, lopinavir**; **boosted with ritonavir or cobicistat** — a deliberate pharmacokinetic interaction in which a potent CYP3A4 inhibitor raises and sustains the level of the active drug.
+- **Advantage:** a **high genetic barrier to resistance**, which is why darunavir remains valuable in salvage and in adherence-challenged patients.
+- **Adverse effects:** **gastrointestinal upset and diarrhoea**; **dyslipidaemia and insulin resistance**; **lipodystrophy** (older agents); **atazanavir causes unconjugated hyperbilirubinaemia and jaundice** (benign, Gilbert-like, but distressing and easily misinterpreted as liver injury) and **nephrolithiasis**.
+- **INTERACTIONS ARE THE DEFINING ISSUE.** The **ritonavir/cobicistat booster is a potent CYP3A4 inhibitor**, so it raises levels of a very long list of co-prescribed drugs — **statins (rhabdomyolysis), inhaled and intranasal FLUTICASONE and other corticosteroids (iatrogenic Cushing syndrome and adrenal suppression — a classic and frequently missed interaction), sedatives, antiarrhythmics, ergots, some anticoagulants and many others.** **Every new prescription in a patient on a boosted regimen must be interaction-checked.**
+
+### 0.5.4 Integrase Inhibitors (INSTIs)
+- **Mechanism:** block **integrase**, preventing the proviral DNA from being inserted into the host genome.
+- **Key agents:** **dolutegravir, bictegravir, raltegravir, elvitegravir** (cobicistat-boosted), **cabotegravir** (including **long-acting injectable** formulations).
+- **Role: the FIRST-LINE class.** Sources describe **dolutegravir-based** and **bictegravir/emtricitabine/tenofovir alafenamide** regimens as the commonly used first-line treatments worldwide, and note that the bictegravir single-tablet regimen has **high efficacy, a high genetic barrier to resistance, low drug-interaction potential and a good safety profile**. Rapid viral suppression, once-daily dosing and few interactions are why they displaced the older classes.
+- **Adverse effects:** generally well tolerated. **Weight gain** (a real and increasingly discussed effect, particularly in combination with TAF); **insomnia, headache and mood disturbance** with dolutegravir; **raltegravir** rarely causes rhabdomyolysis; a small early rise in creatinine with dolutegravir and bictegravir that reflects **inhibition of tubular creatinine secretion, not renal injury** — do not misread it.
+- **Interactions:** **absorption is markedly reduced by polyvalent cations — antacids, calcium, iron, magnesium and multivitamins.** **Separate the doses** (the timing rule differs by agent and direction). This is the commonest cause of unexplained viral rebound in an otherwise adherent patient — **ask about supplements.** Rifampicin requires dose adjustment.
+
+### 0.5.5 Other Antiretrovirals
+- **Entry and attachment inhibitors** — **maraviroc** (a CCR5 antagonist, requiring a **tropism assay** before use, since it fails against CXCR4-tropic virus); **enfuvirtide** (a fusion inhibitor, subcutaneous, now little used); **ibalizumab** and **fostemsavir** for multi-drug-resistant salvage.
+- **Capsid inhibitors — lenacapavir**, a long-acting agent for heavily treatment-experienced patients and, increasingly, for prevention.
+- **Pharmacokinetic boosters — ritonavir and cobicistat** — not antiretrovirals in effect (at booster dose) but **CYP3A4 inhibitors** included to raise the levels of other agents; they carry the interaction burden described in 0.5.3.
+
+## 0.4 Antiprotozoals
+
+### 0.4.1 Antimalarials
+- **Treatment (falciparum):** **artemisinin-based combination therapy (ACT)** — **artemether–lumefantrine** is the standard; **intravenous artesunate is the treatment of choice for severe malaria** and is superior to quinine. Quinine (with doxycycline or clindamycin) remains an alternative.
+- **Treatment (vivax/ovale):** a blood-stage agent (chloroquine or an ACT) **plus a radical cure with primaquine or tafenoquine** to eradicate **liver hypnozoites** and prevent relapse.
+- **Chemoprophylaxis:** sources list **doxycycline, atovaquone–proguanil, mefloquine, chloroquine and tafenoquine**, reporting prophylactic efficacy of about **97% for atovaquone–proguanil against *P. falciparum*** and around **93–95% against all species**, and noting that **mefloquine and doxycycline were both associated with gastrointestinal and neurological adverse effects** in comparative study.
+- **Agent-specific points:**
+  - **Doxycycline** — daily, cheap, also covers rickettsiae and leptospirosis (useful in the same travellers), but causes **photosensitivity** and **oesophagitis**, and is **contraindicated in pregnancy and children under 8** (see 0.2.13).
+  - **Atovaquone–proguanil** — daily, well tolerated, short pre- and post-travel course, expensive; **not recommended in pregnancy** owing to limited data.
+  - **Mefloquine** — weekly, but **neuropsychiatric adverse effects** (vivid dreams, anxiety, depression, psychosis, seizures) mean it is **contraindicated in a history of psychiatric illness or epilepsy**.
+  - **PRIMAQUINE AND TAFENOQUINE CAUSE SEVERE HAEMOLYSIS IN G6PD DEFICIENCY — G6PD MUST BE MEASURED BEFORE PRESCRIBING EITHER.** Sources also state that **neither should be used in pregnancy**, because they cross the placenta and can cause **haemolytic anaemia in a G6PD-deficient fetus in utero**.
+
+> [!danger] **Falciparum malaria is a medical emergency and can kill within 24 hours.**
+> **Fever in a returned traveller from a malarious area is malaria until excluded** — send **thick and thin films and a rapid diagnostic test, and repeat them** (a single negative film does not exclude it). Chemoprophylaxis reduces but does not eliminate risk, and **adherence and bite avoidance (nets, repellent, covering up) are as important as the tablets**. Warn travellers that symptoms can appear **months** after return, particularly with vivax. See [[08_07_Infectious_Disease_-_Protozoan_Infections]].
+
+### 0.4.2 Other Antiprotozoals
+- **Metronidazole and tinidazole** — **giardiasis, amoebiasis, trichomoniasis** (see 0.2.15). In amoebic liver abscess and intestinal amoebiasis, a **luminal agent (paromomycin, diloxanide)** must follow to clear cysts and prevent relapse.
+- **Co-trimoxazole** — ***Pneumocystis jirovecii*** (a fungus by taxonomy, treated with an antibacterial) and **toxoplasmosis prophylaxis**; **pyrimethamine + sulfadiazine + folinic acid** for toxoplasma encephalitis.
+- **Pentamidine** — PJP (second-line, and nebulised for prophylaxis), trypanosomiasis, leishmaniasis. Causes **hypoglycaemia then hyperglycaemia and pancreatitis**, nephrotoxicity and QT prolongation.
+- **Benznidazole and nifurtimox** — Chagas disease; **melarsoprol, suramin, eflornithine, fexinidazole** — African trypanosomiasis; **antimonials, liposomal amphotericin, miltefosine** — leishmaniasis. All specialist and referred to infectious diseases.
+- **Nitazoxanide** — cryptosporidiosis and giardiasis.
+
+## 0.1 Anthelmintics
+
+### 0.1.1 Benzimidazoles
+- **Mechanism:** bind parasite **β-tubulin**, inhibiting microtubule polymerisation → impaired glucose uptake and parasite death.
+- **Key agents:** **albendazole, mebendazole**, triclabendazole (fasciola).
+- **Indications:** **threadworm (pinworm, *Enterobius*)** — the commonest use in Australian general practice; roundworm, hookworm, whipworm; **hydatid disease** (*Echinococcus*, with surgery); neurocysticercosis; strongyloidiasis (ivermectin preferred); larva migrans.
+- **Adverse effects:** usually mild GI upset and headache with short courses. **Prolonged high-dose therapy (hydatid, neurocysticercosis) causes hepatotoxicity and bone marrow suppression** and needs FBC and LFT monitoring.
+- **Practical points:** **treat the whole household simultaneously for threadworm**, repeat after ~2 weeks to catch the next cycle, and combine with hygiene measures (nails, bedding, handwashing) or reinfection is guaranteed. Avoid in the first trimester of pregnancy where possible.
+- **Interactions:** albendazole levels rise with **fatty food** (used deliberately for systemic infection) and are altered by dexamethasone and praziquantel.
+
+> [!danger] **Neurocysticercosis: starting an anthelmintic can precipitate a severe inflammatory reaction and seizures** as cysts die in the brain. **Corticosteroids and anticonvulsant cover, with ophthalmological assessment to exclude intraocular cysts, come first** — this is specialist territory, not an outpatient prescription.
+
+### 0.1.2 Other Anthelmintics
+- **Praziquantel** — increases parasite membrane calcium permeability causing paralysis. **Schistosomiasis** (the main use — relevant in returned travellers and migrants from endemic regions) and tapeworms. Well tolerated; may provoke inflammatory reactions when large worm burdens die.
+- **Ivermectin** — glutamate-gated chloride channel agonist. **Strongyloidiasis (the drug of choice), scabies (including crusted scabies), onchocerciasis, and cutaneous larva migrans.**
+  - **Strongyloides is the one to know in Australia:** endemic in some remote Aboriginal and Torres Strait Islander communities and in returned travellers, it can persist for decades by autoinfection, and **immunosuppression — particularly CORTICOSTEROIDS — can precipitate fatal hyperinfection syndrome and disseminated disease with Gram-negative sepsis.** **Screen (serology, eosinophilia) before starting corticosteroids or other immunosuppression in anyone with relevant exposure.** See [[08_07_Infectious_Disease_-_Protozoan_Infections]].
+- **Pyrantel** — depolarising neuromuscular blockade in the worm; available over the counter for threadworm.
+- **Niclosamide, levamisole** — narrower, largely historical roles.
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Anthelmintics | SUB | yes | |
+| 0.1.1 | Benzimidazoles | CLS | yes | |
+| 0.1.2 | Other anthelmintics | CLS | yes | Includes the Australian *Strongyloides*-before-steroids warning. |
+| 0.2 | Antibacterials | SUB | yes | |
+| 0.2.1 | Penicillins | CLS | yes | |
+| 0.2.2 | Penicillin combinations | CLS | yes | |
+| 0.2.3 | Cephalosporins | CLS | yes | |
+| 0.2.4 | Carbapenems | CLS | yes | |
+| 0.2.5 | Monobactams | CLS | yes | |
+| 0.2.6 | Carbacephem | CLS | yes | **Not marketed in Australia**; built briefly and flagged as historical rather than omitted. |
+| 0.2.7 | Glycopeptides | CLS | yes | AUC-guided vancomycin monitoring recorded as the changed standard. |
+| 0.2.8 | Lipopeptide | CLS | yes | |
+| 0.2.9 | Polypeptides | CLS | yes | |
+| 0.2.10 | Aminoglycosides | CLS | yes | |
+| 0.2.11 | Macrolides | CLS | yes | |
+| 0.2.12 | Lincosamides | CLS | yes | |
+| 0.2.13 | Tetracyclines | CLS | yes | |
+| 0.2.14 | Quinolones | CLS | yes | TGA warnings on tendon, aorta and neuropathy recorded. |
+| 0.2.15 | Metronidazole | CLS | yes | |
+| 0.2.16 | Nitrofurans | CLS | yes | |
+| 0.2.17 | Rifamycins | CLS | yes | Built jointly with `Ansamycins` — rifamycins **are** ansamycins; one entry, both rows mapped. |
+| 0.2.17 | Ansamycins | CLS | yes | As above. |
+| 0.2.18 | Antimycobacterials | CLS | yes | |
+| 0.2.19 | Other antibacterials | CLS | yes | Sulfonamides/trimethoprim, oxazolidinones, chloramphenicol, fosfomycin, fusidic acid, dapsone. |
+| 0.2.20 | Antibacterials (skin) | CLS | yes | |
+| 0.2.21 | Antibacterials (ear) | CLS | yes | Carries the aminoglycoside-drops-and-perforation ototoxicity warning. |
+| 0.3 | Antifungals | SUB | yes | |
+| 0.3.1 | Azoles | CLS | yes | |
+| 0.3.2 | Echinocandins | CLS | yes | |
+| 0.3.3 | Other antifungals | CLS | yes | Polyenes, terbinafine, flucytosine, griseofulvin. |
+| 0.4 | Antiprotozoals | SUB | yes | |
+| 0.4.1 | Antimalarials | CLS | yes | G6PD before primaquine/tafenoquine stated as a hard requirement. |
+| 0.4.2 | Other antiprotozoals | CLS | yes | |
+| 0.5 | Antiretrovirals | SUB | yes | |
+| 0.5.1 | Nucleoside reverse transcriptase inhibitors | CLS | yes | Includes the HLA-B*57:01-before-abacavir requirement. |
+| 0.5.2 | Non-nucleoside reverse transcriptase inhibitors | CLS | yes | |
+| 0.5.3 | HIV-Protease inhibitors | CLS | yes | |
+| 0.5.4 | Integrase inhibitors | CLS | yes | |
+| 0.5.5 | Other antiretrovirals | CLS | yes | |
+| 0.6 | Antivirals | SUB | yes | |
+| 0.6.1 | Guanine analogues | CLS | yes | |
+| 0.6.2 | Neuraminidase inhibitors | CLS | yes | |
+| 0.6.3 | Antivirals for viral hepatitis | CLS | yes | Australian pan-genotypic DAA position and GP prescribing recorded; hepatitis B reactivation warning included. |
+| 0.6.4 | Interferons | CLS | yes | |
+| 0.6.5 | Antivirals (eye) | CLS | yes | |
+| 0.6.6 | Antivirals (skin) | CLS | yes | |
+| 0.6.7 | Other antivirals | CLS | yes | |
+
+**Rows in file: 47 (6 SUB + 41 CLS). AMH section 5 build-list rows: 47. Section complete.**
+
+> [!note] **One pair of build-list rows is a naming duplicate** — `Rifamycins` and `Ansamycins` name the same class; built once at 0.2.17 with both rows mapped. **One row, `Carbacephem`, describes a drug not marketed in Australia**; it is built briefly and flagged rather than silently dropped.
+
+
+<!-- ===== SOURCE: NEW_Drugs_20_Vaccines.md ===== -->
+
+
+# NEW — Drug Classes: Vaccines and Immunoglobulins (AMH section 20)
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file, and it matters more here than anywhere else.** The **Australian Immunisation Handbook and the National Immunisation Program schedule are the authoritative Australian sources**, and they are **updated continually**. **No schedule, age, interval or dose is reproduced in this file.** Sources confirm the Handbook is the definitive reference and direct clinicians to it. **Always check `immunisationhandbook.health.gov.au` and the current NIP schedule at the point of care — a remembered schedule is out of date.**
+
+---
+
+## 0.1 Vaccines
+
+- **What they are:** preparations that induce **active, durable, antigen-specific immunity**. **Live attenuated** (MMR, varicella, zoster live, rotavirus, BCG, yellow fever, oral typhoid); **inactivated or subunit** (influenza, hepatitis A and B, HPV, pertussis-containing, pneumococcal conjugate and polysaccharide, meningococcal, inactivated polio, rabies, Japanese encephalitis); **toxoid** (tetanus, diphtheria); **mRNA and viral vector** (COVID-19); and **recombinant adjuvanted** (recombinant zoster vaccine).
+- **Australian delivery:** the **National Immunisation Program (NIP)**, established in 1997, funds vaccines for defined groups across the life course — childhood, adolescent (school-based HPV and meningococcal), pregnancy (**pertussis and influenza, and RSV where funded**), older adults (**influenza, pneumococcal, shingles, COVID-19**), and specific medical and occupational risk groups. **Aboriginal and Torres Strait Islander people have additional and earlier funded indications**, reflecting a higher burden of vaccine-preventable disease — this is a substantive and frequently missed part of the schedule.
+- **Records:** the **Australian Immunisation Register (AIR)** records vaccinations across the lifespan; **checking and updating it is part of every immunisation encounter**, and it is where catch-up planning starts.
+
+> [!danger] **LIVE VACCINES AND IMMUNOSUPPRESSION — the single most important vaccine safety rule.**
+> Sources state that **live vaccines may be contraindicated in immunocompromised people because extensive replication of the vaccine strain can cause severe or fatal vaccine-associated infection**, while **non-live vaccines can be safely given, though the immune response may be lower.**
+> **Practical consequences:**
+> - **VACCINATE BEFORE STARTING IMMUNOSUPPRESSION WHEREVER POSSIBLE** — live vaccines need to be given a defined interval **before** starting, and cannot be given afterwards. This applies to **biologics, DMARDs, high-dose corticosteroids, transplant immunosuppression, chemotherapy and asplenia** — and it is one of the most consistently missed opportunities in medicine. **The moment a biologic or DMARD is being considered is the moment to check vaccination status.**
+> - **Also consider: household contacts** (they can usually be vaccinated, with specific precautions after rotavirus and oral polio), **timing around rituximab** (responses are poor for months), and **revaccination after stem cell transplant**, where the whole schedule is repeated.
+> - **Asplenia and hyposplenism** require **pneumococcal, meningococcal, Hib and influenza vaccination plus antibiotic prophylaxis and an emergency plan** — and it applies to functional asplenia in sickle cell disease and coeliac disease, not just surgical splenectomy.
+> - **Eculizumab and ravulizumab require meningococcal vaccination before starting** (see `NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md` 0.5.4).
+> - **Pregnancy: inactivated vaccines are recommended (pertussis and influenza in particular, protecting the newborn through transplacental antibody); LIVE vaccines are avoided.**
+
+> [!warning] **Contraindications and precautions — and what is NOT a contraindication.**
+> **True contraindications** are few: **anaphylaxis to a previous dose or to a vaccine component**, and **live vaccines in significant immunosuppression or pregnancy**.
+> **The following are NOT contraindications, and treating them as such causes missed vaccination:** a minor illness with or without low-grade fever; antibiotic use; a family history of adverse events; prematurity (**preterm infants are vaccinated by chronological age, not corrected age**); breastfeeding; and — importantly — **egg allergy is NOT a contraindication to influenza vaccine** in current Australian practice, including anaphylactic egg allergy, though **yellow fever vaccine requires specialist assessment**.
+> **A previous anaphylaxis to a vaccine warrants specialist immunology assessment, not permanent blanket avoidance** — the culprit component can often be identified.
+
+> [!danger] **Every vaccination encounter requires preparation for ANAPHYLAXIS.**
+> **Adrenaline must be immediately available, staff must know the dose and route, and the patient is observed for at least 15 minutes afterwards.** See `NEW_Drugs_01_Allergy_and_Anaphylaxis.md` 0.5. **Distinguish anaphylaxis from a vasovagal episode** — the latter is common, especially in adolescents, and is managed by lying the patient down.
+> **Also: report adverse events following immunisation** to the relevant state surveillance service and the TGA. **And correct the record — an unreported or misattributed reaction leads to a lifetime of unnecessary avoidance.**
+
+- **Other practical points:**
+  - **COLD CHAIN failure is a real and common problem** — vaccines exposed outside 2–8 °C may be inactivated. **A cold chain breach must be reported and the vaccines quarantined, not used.** Patients given compromised vaccine need revaccination.
+  - **Administration technique matters:** correct route (**intramuscular for most; subcutaneous for MMR and varicella**), correct site and needle length by age and body habitus, **do not aspirate**, and give **multiple vaccines at separate sites in the same visit rather than deferring** — deferral loses people.
+  - **Pain and distress management in children** improves the whole family's future engagement: breastfeeding or sucrose in infants, distraction, topical anaesthetic where appropriate, and never restraining a child unnecessarily.
+  - **Catch-up schedules** exist for the incompletely vaccinated, including **refugees and new arrivals**, and are age-specific — use the Handbook's catch-up calculator rather than improvising.
+  - **Vaccine hesitancy** is best addressed by **presuming vaccination ("your child is due for their vaccines today"), addressing specific concerns without lecturing, and giving a clear recommendation.** Dismissiveness entrenches refusal.
+  - **Travel vaccination** requires a risk assessment by destination, activity and duration, planned weeks ahead.
+
+## 0.2 Immunoglobulins
+
+- **What they are:** **pooled human plasma-derived antibody preparations**, providing **PASSIVE, immediate but temporary immunity** — in contrast to the active, delayed but durable immunity of vaccines. Supplied in Australia through the **national blood supply arrangements** with restricted access criteria.
+- **Two distinct uses, which must not be confused:**
+  1. **Replacement** — in **primary and secondary immunodeficiency** (including hypogammaglobulinaemia after rituximab or in CLL and myeloma), given regularly and long-term.
+  2. **Immunomodulation** — at much higher doses in **ITP, Guillain-Barré syndrome, CIDP, myasthenic crisis, Kawasaki disease** and selected other conditions.
+- **Specific (hyperimmune) immunoglobulins** — concentrated against a single organism, for **post-exposure prophylaxis**: **tetanus, hepatitis B, rabies, varicella-zoster, and Rh D (anti-D)** (see `NEW_Drugs_16_Obstetric_and_Gynaecological.md` 0.10.2).
+
+### 0.2.1 Intravenous Immunoglobulin
+- **Route:** **intravenous (IVIg)** or **subcutaneous (SCIg)** — the latter allowing home self-administration with steadier levels and fewer systemic reactions, and now widely used for replacement therapy.
+- **Adverse effects:** **infusion-related** — headache, fever, chills, myalgia, flushing and back pain, largely **rate-related** and managed by slowing the infusion and premedication; **aseptic meningitis** (severe headache, photophobia and neck stiffness in the days after infusion — alarming, self-limiting, and frequently investigated as bacterial meningitis); **acute kidney injury** (particularly with sucrose-containing products, in renal impairment, diabetes and dehydration); **haemolysis** from anti-A/anti-B isohaemagglutinins; and **THROMBOSIS — arterial and venous, and a real risk in older patients and those with cardiovascular risk factors**, which is why infusion rates are controlled and hydration maintained.
+- **Practical points:**
+  - **It is a blood product** — consent, identification checks, batch recording and traceability all apply, as for any transfusion (see `NEW_Drugs_07_Blood_and_Electrolytes.md` 0.1).
+  - **IgA deficiency** carries a risk of anaphylaxis to IgA-containing products in those with anti-IgA antibodies — check where relevant.
+  - **IVIg interferes with serological testing** and can cause a **positive direct antiglobulin test**, and it **transfers passive antibody**, which confounds serology for weeks.
+  - **IVIg BLUNTS THE RESPONSE TO LIVE VACCINES — MMR and varicella must be deferred for a defined interval after immunoglobulin**, and conversely immunoglobulin given shortly after a live vaccine may abolish its effect. **This interval is specified in the Australian Immunisation Handbook and must be looked up.**
+  - **Supply is limited and criteria-based** — the national criteria determine which indications are funded, and requests go through a formal approval process.
+
+---
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Vaccines | SUB | yes | **No schedule, age, interval or dose reproduced** — the Australian Immunisation Handbook and NIP schedule change continually and are named as the point-of-care source. Built as the principles, contraindications, and the live-vaccine-before-immunosuppression rule. |
+| 0.2 | Immunoglobulins | SUB | yes | Passive versus active immunity distinguished; replacement and immunomodulatory uses separated. |
+| 0.2.1 | Intravenous Immunoglobulins | CLS | yes | Includes the interval before live vaccines and the thrombosis risk. |
+
+**Rows in file: 3 (2 SUB + 1 CLS). AMH section 20 build-list rows: 3. Section complete.**
+
+> [!danger] **A note on how this file is written, per CLAUDE.md rule 8.** This is the one section where **stating specific figures would be actively harmful**, because the Australian schedule changes and a note like this one will be out of date before it is read. **The value here is in the principles and the traps — live vaccines and immunosuppression, what is not a contraindication, vaccinating before starting a biologic, cold chain, and the immunoglobulin–live vaccine interval — all of which are stable. The numbers are deliberately left to the Handbook.**
+
