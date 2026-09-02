@@ -3,6 +3,24 @@
 <!-- ===== SOURCE: 13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear.md ===== -->
 
 
+## 0.2 Causes of otalgia (painful ear)
+
+> [!note] Persistent unilateral otalgia (especially with a normal ear exam) or unilateral middle ear effusion in an adult is itself a red-flag symptom for head and neck cancer, given referred pain from the pharynx/larynx via the glossopharyngeal or vagus nerve is a recognised presentation — see [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) for the full red-flag list, not repeated here. This doesn't apply to the benign local causes below when the ear examination itself explains the pain.
+
+- Otitis externa + malignant OE.
+- Otitis media — acute or chronic.
+- **Furunculosis** — a painful Staph abscess arising in a hair follicle within the canal. Lance with a sucker fine end; treat with oral antibiotics; check for diabetes.
+- **Barotrauma** — severe pain ± secondary effusion as a transudate or haemotympanum. Prevention: don't fly with a URTI, use decongestants, repeatedly yawn/swallow/move jaw.
+- **TMJ dysfunction** — earache, facial pain, joint clicking related to teeth-grinding + stress. Conservative treatment ± analgesia.
+
+## 0.3 Causes of a discharging ear
+
+- Otitis media — acute or chronic.
+- **Eustachian tube dysfunction:** closed (blocked) vs constantly open (patulous — "sniffing"). Blocked management: grommet insertion, balloon dilation. Patulous management: topical intranasal irritants to cause oedema of the Eustachian tube orifice; also surgery.
+- Otitis externa + malignant OE.
+- **Cholesteatoma:** peak incidence age 5–15. S/Smx: discharge ± deafness, headache, pain, facial paralysis, vertigo — signs of impending CNS compromise. Mx: mastoid surgery.
+- **Mastoiditis:** S/Smx — fever, tenderness, swelling, redness behind the pinna, protruding auricle. CT to diagnose. Mx: antibiotics, myringotomy ± mastoidectomy.
+
 ## 0.1 Otitis externa
 
 > [!note] Expanded and localised — verified against RACGP's "Approach to otitis externa in Australian general practice" (AJGP, Dec 2024), Aug 2026. The original entry cited "EarCalm" and "Otosporin" — **neither is the correct Australian product name**: EarCalm is a UK-market brand; the genuine Australian equivalent combination product is Kenacomb Otic/Otocomb Otic. Also expanded with the AAO-HNS-aligned quinolone/non-quinolone framework (the actual clinically important distinction driving Australian prescribing) and a genuinely important Indigenous Australian risk-equity point, both previously absent.
@@ -40,24 +58,6 @@
 - **S/Smx:** severe, unrelenting, deep otalgia; temporal headache; purulent discharge; ± dysphagia, hoarseness, CN VII dysfunction.
 - **Ix:** CT head.
 - **Mx:** urgent referral to ENT; IV antibiotics covering *Pseudomonas*.
-
-## 0.2 Causes of otalgia (painful ear)
-
-> [!note] Persistent unilateral otalgia (especially with a normal ear exam) or unilateral middle ear effusion in an adult is itself a red-flag symptom for head and neck cancer, given referred pain from the pharynx/larynx via the glossopharyngeal or vagus nerve is a recognised presentation — see [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) for the full red-flag list, not repeated here. This doesn't apply to the benign local causes below when the ear examination itself explains the pain.
-
-- Otitis externa + malignant OE.
-- Otitis media — acute or chronic.
-- **Furunculosis** — a painful Staph abscess arising in a hair follicle within the canal. Lance with a sucker fine end; treat with oral antibiotics; check for diabetes.
-- **Barotrauma** — severe pain ± secondary effusion as a transudate or haemotympanum. Prevention: don't fly with a URTI, use decongestants, repeatedly yawn/swallow/move jaw.
-- **TMJ dysfunction** — earache, facial pain, joint clicking related to teeth-grinding + stress. Conservative treatment ± analgesia.
-
-## 0.3 Causes of a discharging ear
-
-- Otitis media — acute or chronic.
-- **Eustachian tube dysfunction:** closed (blocked) vs constantly open (patulous — "sniffing"). Blocked management: grommet insertion, balloon dilation. Patulous management: topical intranasal irritants to cause oedema of the Eustachian tube orifice; also surgery.
-- Otitis externa + malignant OE.
-- **Cholesteatoma:** peak incidence age 5–15. S/Smx: discharge ± deafness, headache, pain, facial paralysis, vertigo — signs of impending CNS compromise. Mx: mastoid surgery.
-- **Mastoiditis:** S/Smx — fever, tenderness, swelling, redness behind the pinna, protruding auricle. CT to diagnose. Mx: antibiotics, myringotomy ± mastoidectomy.
 
 ## 0.4 Otitis media (acute)
 
@@ -105,6 +105,187 @@
 - **S/Smx:** hearing loss, otorrhoea, fullness, otalgia.
 - **Mx:** topical or PO antibiotics, aural cleaning, water precautions, follow-up appointments ± surgery (grommets, etc).
 - **Complications:** cholesteatoma.
+
+
+<!-- ===== SOURCE: F1_Ear.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Examination technique, discriminators and clinical reasoning are reliable at intern level. **Every dose, time window, antibiotic regimen and audiometric threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG** and current ENT and Australian otitis media guidance.
+>
+> **Central causes of vertigo and the HINTS examination are built in the neurology block ([[D3]] 0.5)**, and **Ramsay Hunt syndrome in [[D5]]** — cross-referenced rather than repeated.
+
+---
+
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `0.1 Examining the Ear and Assessing Hearing`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
+## 0.2 Otalgia
+
+> [!danger] A normal-looking ear with persistent otalgia in an adult is a red flag
+> **The ear receives sensory innervation from FIVE nerves — the trigeminal (V), facial (VII), glossopharyngeal (IX), vagus (X), and cervical roots C2 and C3.**
+> **Because those nerves supply a large territory, PAIN REFERS TO THE EAR FROM ANYWHERE THEY INNERVATE — the teeth, temporomandibular joint, tonsil, tongue base, pharynx, LARYNX and HYPOPHARYNX, parotid, cervical spine and thyroid.**
+> **THE CONSEQUENCE THAT MATTERS: REFERRED OTALGIA CAN BE THE ONLY PRESENTING SYMPTOM OF A HEAD AND NECK CANCER — particularly of the tongue base, tonsil, hypopharynx or larynx, which have few early local symptoms.**
+> **AN ADULT WITH PERSISTENT UNILATERAL OTALGIA AND A NORMAL EAR EXAMINATION NEEDS THE UPPER AERODIGESTIVE TRACT VISUALISED — which in practice means an urgent ENT referral for nasendoscopy, not reassurance and analgesia.**
+> **The risk factors that raise the stakes: age over 50 · SMOKING · ALCOHOL · HPV exposure · and the associated features of DYSPHAGIA, ODYNOPHAGIA, HOARSENESS, weight loss, a NECK LUMP, or trismus.** Cross-refer [[F3]] and [[F4]].
+> **This is one of the highest-yield facts in ENT and it is regularly missed.**
+
+> [!tip] The primary causes
+> **· OTITIS EXTERNA and OTITIS MEDIA — see 0.3.**
+> **· MASTOIDITIS — post-auricular swelling, erythema and tenderness with the PINNA PUSHED FORWARD AND OUT.**
+> **· PERICHONDRITIS — infection of the pinna cartilage, characteristically SPARING THE LOBULE (which has no cartilage), often after piercing or trauma. It threatens the cartilage and requires prompt systemic antibiotics covering *Pseudomonas*.**
+> **· HERPES ZOSTER OTICUS / RAMSAY HUNT SYNDROME — severe ear pain with vesicles in the canal or on the concha, facial palsy, and often vertigo and hearing loss.** **It has a worse prognosis than Bell palsy and requires prompt antivirals and corticosteroids.** Cross-refer [[D5]].
+> **· Trauma, foreign body, impacted wax, barotrauma, and — rarely — carcinoma of the canal.**
+> **The commonest REFERRED cause overall is DENTAL disease, followed by temporomandibular joint dysfunction** (pain on chewing, tenderness over the joint, clicking, bruxism).
+
+---
+
+## 0.3 Otitis Externa and Otitis Media
+
+> [!tip] Otitis externa — and the sign that distinguishes it
+> **Pain, itch, discharge, and a sense of blockage, with an oedematous canal containing debris.**
+> **THE DISCRIMINATING SIGN: TRAGAL TENDERNESS AND PAIN ON MOVING THE PINNA.** **This hurts in otitis EXTERNA and does not in otitis MEDIA** — it takes two seconds and it separates them.
+> **Risk factors: WATER exposure and swimming · humidity · TRAUMA, particularly COTTON BUDS · eczema and psoriasis of the canal · hearing aids and earplugs · and diabetes.**
+> **TREATMENT — and the most important part is not the drops:**
+> **· AURAL TOILET (microsuction or dry mopping) is the single most effective intervention.** **Topical drops cannot reach the skin through a canal full of debris, which is the commonest reason treatment fails.**
+> **· TOPICAL antibiotic and corticosteroid drops.**
+> **· A WICK if the canal is too swollen for drops to penetrate.**
+> **· KEEP THE EAR DRY, adequate ANALGESIA, and stop cotton buds permanently.**
+> **· SYSTEMIC antibiotics are rarely required and are over-prescribed** — reserve them for spreading cellulitis, systemic illness or immunocompromise. `UNVERIFIED — agents and regimens.`
+
+> [!danger] Necrotising (malignant) otitis externa
+> **Skull base osteomyelitis arising from otitis externa, almost always *Pseudomonas aeruginosa*, in ELDERLY DIABETIC or IMMUNOCOMPROMISED patients.**
+> **THE FEATURES: SEVERE, UNREMITTING, DEEP ear pain — classically OUT OF PROPORTION to the examination and WORSE AT NIGHT, disturbing sleep · persistent discharge not responding to topical treatment · and GRANULATION TISSUE at the bone-cartilage junction on the FLOOR of the canal, which is the characteristic finding.**
+> **PROGRESSION IS TO CRANIAL NERVE PALSIES — the FACIAL NERVE first, then the lower cranial nerves as the skull base is involved — and to meningitis and death.**
+> **A DIABETIC PATIENT WITH OTITIS EXTERNA THAT IS NOT SETTLING, OR WITH DISPROPORTIONATE PAIN, NEEDS ENT REFERRAL, IMAGING AND INFLAMMATORY MARKERS — NOT ANOTHER COURSE OF DROPS.**
+> **Treatment requires prolonged systemic antipseudomonal therapy, and the diagnosis is frequently made late.**
+
+> [!warning] Acute otitis media — and when antibiotics are actually indicated
+> **Predominantly a childhood illness: ear pain, fever, irritability, with a BULGING, red, opaque drum and loss of the light reflex.** **Perforation relieves the pain and produces discharge.**
+> **MOST CASES RESOLVE WITHOUT ANTIBIOTICS, and adequate ANALGESIA is the main treatment.** **DELAYED or "back-pocket" prescribing — giving a script to be filled only if not improving after a defined period — is appropriate for many children and reduces antibiotic use without worsening outcomes.**
+> **ANTIBIOTICS ARE INDICATED FOR: young infants · systemically unwell children · bilateral disease in young children · perforation with discharge · immunocompromise · and — importantly in Australia — ABORIGINAL AND TORRES STRAIT ISLANDER CHILDREN, who have a substantially higher risk of persistent disease, perforation and chronic suppurative otitis media.** Cross-refer [[AU1]] 0.4. `UNVERIFIED — the age thresholds and the antibiotic regimens.`
+> **COMPLICATIONS: perforation · MASTOIDITIS · FACIAL NERVE PALSY · labyrinthitis · and intracranial spread (meningitis, intracranial abscess, lateral sinus thrombosis).** **A child with otitis media who develops a facial palsy, severe headache, neck stiffness or post-auricular swelling needs urgent assessment.**
+
+> [!danger] Glue ear — and why it matters far beyond the ear
+> **OTITIS MEDIA WITH EFFUSION: fluid in the middle ear WITHOUT acute infection, causing a CONDUCTIVE hearing loss, with a dull, retracted or amber drum, sometimes with visible fluid levels or bubbles, and a FLAT (type B) tympanogram.**
+> **IT IS THE COMMONEST CAUSE OF HEARING LOSS IN CHILDREN.**
+> **THE CONSEQUENCES ARE DEVELOPMENTAL, NOT JUST AUDITORY: impaired SPEECH AND LANGUAGE development · behavioural problems and inattention (frequently mistaken for ADHD — cross-refer [[M7]] 0.6) · reduced educational attainment · and social difficulty.**
+> **Most cases resolve spontaneously, so a period of WATCHFUL WAITING with hearing assessment is appropriate. Grommets (ventilation tubes) are considered for persistent bilateral effusion with significant hearing loss or developmental impact.**
+> **THE AUSTRALIAN DIMENSION: otitis media with effusion and chronic suppurative otitis media are markedly MORE PREVALENT, occur EARLIER, and PERSIST LONGER in Aboriginal and Torres Strait Islander children — with rates in some remote communities among the highest reported anywhere.**
+> **The resulting conductive hearing loss during the critical period for language acquisition contributes measurably to educational disadvantage, and — through impaired classroom participation and literacy — to later disadvantage including over-representation in the justice system.**
+> **This makes detecting and treating middle ear disease in Aboriginal children one of the highest-leverage interventions in Australian paediatrics, and it is the reason ear examination is part of the routine child health check.** Cross-refer [[AU1]] 0.4 and [[M4]] 0.5.
+
+> [!danger] Cholesteatoma — look at the attic
+> **Keratinising squamous epithelium trapped within the middle ear or mastoid, which expands and ERODES BONE.**
+> **THE PRESENTATION: a persistently DISCHARGING ear with FOUL-SMELLING, scanty discharge · progressive CONDUCTIVE hearing loss · and — the key finding — a RETRACTION POCKET, CRUST OR PERFORATION IN THE ATTIC (pars flaccida) or the posterosuperior drum.**
+> **IT IS NOT AN INFECTION THAT ANTIBIOTICS WILL CURE. It is a structural, locally destructive lesion requiring SURGERY.**
+> **THE COMPLICATIONS FOLLOW FROM WHAT IT ERODES: ossicles (hearing loss) · FACIAL NERVE (palsy) · LABYRINTH (vertigo and sensorineural loss — a fistula) · and the SKULL BASE (meningitis, intracranial abscess, sinus thrombosis).**
+> **The clinical rule: A CHRONICALLY DISCHARGING EAR WITH FOUL ODOUR, OR ANY ATTIC CRUST OR RETRACTION, NEEDS ENT REFERRAL — and repeated courses of drops without an ENT opinion is how cholesteatoma progresses to a facial palsy or an abscess.**
+
+---
+
+## 0.4 Hearing Loss
+
+> [!tip] Conductive causes
+> **· WAX — the commonest, and always check for it first before anything more elaborate.**
+> **· Otitis externa, otitis media with effusion, tympanic perforation, and chronic suppurative otitis media.**
+> **· OTOSCLEROSIS — abnormal bone remodelling fixing the stapes footplate. Typically presents in early to middle adulthood, is PROGRESSIVE, often BILATERAL, frequently has a FAMILY HISTORY, and characteristically WORSENS DURING PREGNANCY.** **Patients often report hearing better in noisy environments (paracusis). The drum is normal.** Treated with stapes surgery or hearing aids.
+> **· CHOLESTEATOMA and ossicular discontinuity after trauma or infection.**
+> **· Foreign body, and congenital canal or ossicular abnormalities.**
+
+> [!warning] Sensorineural causes
+> **· PRESBYCUSIS — the commonest. BILATERAL, symmetrical, HIGH-FREQUENCY loss.** **The characteristic symptom is not "I can't hear" but "I CAN'T FOLLOW CONVERSATION IN A NOISY ROOM" — because high-frequency consonants carry most of the intelligibility of speech.** Asking about that specifically detects it earlier than asking about hearing generally.
+> **· NOISE-INDUCED — occupational and recreational, producing a characteristic notch at around 4 kHz.** **A significant occupational health issue in Australia (mining, construction, agriculture, defence, music), it is entirely PREVENTABLE, and hearing protection and surveillance are legal obligations in noisy workplaces.** Cross-refer [[RESP-X]] 0.2 and [[GER3]].
+> **· OTOTOXICITY — AMINOGLYCOSIDES (irreversible, and the ototoxicity is frequently forgotten alongside the nephrotoxicity) · CISPLATIN · loop diuretics · high-dose salicylates (reversible) · and quinine.**
+> **· MÉNIÈRE DISEASE — see 0.6.**
+> **· VESTIBULAR SCHWANNOMA (acoustic neuroma) — see below.**
+> **· INFECTION — congenital CYTOMEGALOVIRUS (the commonest infectious cause of congenital sensorineural hearing loss, and frequently unrecognised), congenital rubella, mumps, measles, and BACTERIAL MENINGITIS (which causes hearing loss in a significant minority of survivors — hence the requirement for audiological assessment after meningitis).** Cross-refer [[D1]] 0.5.
+> **· Trauma, autoimmune inner ear disease, and genetic causes.**
+
+> [!danger] Asymmetry is the red flag
+> **UNILATERAL OR ASYMMETRIC SENSORINEURAL HEARING LOSS, with or without tinnitus and imbalance, requires an MRI TO EXCLUDE A VESTIBULAR SCHWANNOMA.**
+> **Presbycusis and noise damage are SYMMETRICAL. Asymmetry demands an explanation.**
+> **Vestibular schwannomas grow slowly at the cerebellopontine angle, producing progressive unilateral hearing loss, tinnitus and unsteadiness — and later, facial numbness (trigeminal), facial weakness, and brainstem compression.** **Early detection permits smaller, safer intervention.**
+
+> [!warning] Hearing loss is a modifiable risk factor for dementia
+> **Untreated hearing loss in mid and later life is one of the largest identified MODIFIABLE risk factors for dementia, and it is independently associated with social isolation, depression, falls and reduced quality of life.**
+> **Hearing aids remain substantially UNDER-USED — because of cost, stigma, the perception that hearing loss is a normal and unimportant part of ageing, and clinicians not asking.**
+> **THE PRACTICAL POINT: treating hearing loss is not a quality-of-life extra; it is a cognitive and social intervention.** **Ask about hearing in older patients, examine for wax, refer for audiology, and encourage hearing aid use rather than accepting "I manage".** Cross-refer [[D2]] 0.3 and [[GER1]] 0.5.
+
+---
+
+## 0.5 Sudden Sensorineural Hearing Loss and Tinnitus
+
+> [!danger] Sudden sensorineural hearing loss is an ENT emergency
+> **RAPID-ONSET (over hours to a few days) sensorineural hearing loss, usually UNILATERAL, often noticed on waking or when using a phone on that side, frequently with tinnitus and a sense of fullness, and sometimes with vertigo.**
+> **TREATMENT IS TIME-CRITICAL: CORTICOSTEROIDS — oral, intratympanic, or both — and the probability of recovery falls with delay. DAYS MATTER.**
+> **THE TRAP — AND IT IS COMMON: IT IS REPEATEDLY MISDIAGNOSED AS WAX, "GLUE EAR" OR A BLOCKED EUSTACHIAN TUBE, and treated with drops, decongestants or reassurance while the treatment window closes.**
+> **THE THING THAT PREVENTS THIS IS THIRTY SECONDS WITH A TUNING FORK:**
+> **· If the WEBER LATERALISES AWAY from the blocked-feeling ear, the loss is SENSORINEURAL — this is an emergency.**
+> **· If it lateralises TOWARDS it, the loss is conductive — wax, effusion, perforation.**
+> **DO THE TUNING FORK TESTS ON EVERY PATIENT PRESENTING WITH SUDDEN HEARING LOSS OR A BLOCKED EAR WITH A NORMAL-LOOKING DRUM.**
+> **All patients need URGENT ENT referral, audiometry, and an MRI to exclude a vestibular schwannoma — since a small proportion of sudden losses are the presenting feature of one.**
+> `UNVERIFIED — the definition, the steroid regimen, and the treatment window.`
+
+> [!warning] Tinnitus — and the two red flags
+> **Most tinnitus is subjective, bilateral, and associated with hearing loss — reflecting central compensation for reduced auditory input rather than a disease in itself.**
+> **THE TWO PATTERNS THAT REQUIRE INVESTIGATION:**
+> **1. PULSATILE TINNITUS — a rhythmic whooshing synchronous with the pulse.** **This is VASCULAR until proven otherwise: dural arteriovenous fistula · carotid stenosis or DISSECTION · glomus tumour (paraganglioma, which may be visible as a red mass behind the drum) · IDIOPATHIC INTRACRANIAL HYPERTENSION (check the fundi for papilloedema and ask about headache and visual obscurations) · and a high-riding jugular bulb.** **It warrants imaging.** Cross-refer [[D1]] 0.3.
+> **2. UNILATERAL tinnitus with ASYMMETRIC hearing loss → MRI for vestibular schwannoma.**
+> **Also ask about OTOTOXIC drugs, noise exposure, and whether it is objective (audible to the examiner — palatal myoclonus, vascular bruit).**
+
+> [!tip] Managing chronic tinnitus
+> **· Treat any identifiable cause — wax, effusion, ototoxic drug, hearing loss.**
+> **· HEARING AIDS often help substantially, because amplifying ambient sound reduces the prominence of the tinnitus.**
+> **· SOUND THERAPY and environmental enrichment (background sound, particularly at night when silence makes it intrusive).**
+> **· COGNITIVE BEHAVIOURAL THERAPY has the best evidence for reducing tinnitus-related DISTRESS — the aim is reducing the impact and the attention paid to it, rather than abolishing the sound.**
+> **· EXPLAIN THE MECHANISM — that it reflects the brain's response to reduced input rather than damage that is ongoing — because fear of progression and of a sinister cause drives much of the distress.**
+> **· SCREEN FOR DEPRESSION, ANXIETY AND INSOMNIA, which are common, treatable, and amplify the symptom.** **Severe tinnitus is genuinely disabling and has been associated with suicide — do not dismiss it.**
+> **· Avoid reinforcing hypervigilance with repeated investigation once a cause has been excluded.**
+
+---
+
+## 0.6 Vertigo, Trauma and Foreign Bodies
+
+> [!tip] The peripheral (ear) causes of vertigo
+> **The critical central-versus-peripheral distinction and the HINTS examination are in [[D3]] 0.5. The ear causes:**
+> **· BENIGN PAROXYSMAL POSITIONAL VERTIGO — brief (seconds) vertigo triggered by head POSITION change, diagnosed with the DIX-HALLPIKE manoeuvre and treated with the EPLEY repositioning manoeuvre, which is highly effective and can be done at the bedside.** **No hearing loss.**
+> **· VESTIBULAR NEURITIS — acute, severe, continuous vertigo lasting days, with nausea and vomiting, WITHOUT hearing loss.**
+> **· LABYRINTHITIS — the same picture WITH hearing loss.** **That single difference distinguishes them.**
+> **· MÉNIÈRE DISEASE — the tetrad: EPISODIC vertigo lasting MINUTES TO HOURS (not seconds, not days) · FLUCTUATING sensorineural hearing loss (low frequency initially) · TINNITUS · and AURAL FULLNESS.** **The duration of the vertigo is the most useful discriminator from BPPV (seconds) and vestibular neuritis (days).** Managed with salt restriction, diuretics, betahistine and intratympanic therapy. `UNVERIFIED — diagnostic criteria and treatment.`
+> **· Cholesteatoma with a labyrinthine fistula, and perilymph fistula (vertigo on straining, sneezing or loud noise).**
+
+> [!warning] Ear trauma
+> **· TEMPORAL BONE FRACTURE — suspect with haemotympanum, blood in the canal, CSF OTORRHOEA, BATTLE SIGN (post-auricular bruising, appearing after some delay), facial nerve palsy and hearing loss.** **A facial palsy that is IMMEDIATE after trauma suggests nerve transection and warrants urgent ENT involvement; a DELAYED palsy is more likely oedema and has a better prognosis.** Cross-refer [[L8]] 0.2 and [[F0.5]] 0.7.
+> **· TRAUMATIC PERFORATION — from a slap, blast, or an instrument in the ear.** **MOST HEAL SPONTANEOUSLY. Keep the ear COMPLETELY DRY, do not use drops unless there is infection, do NOT syringe, and review.**
+> **· BAROTRAUMA — flying or diving with Eustachian dysfunction.**
+> **· AURICULAR HAEMATOMA — a collection between cartilage and perichondrium after blunt injury (classically in rugby, wrestling and boxing).** **It must be DRAINED PROMPTLY, because pressure devascularises the cartilage and produces a permanent "CAULIFLOWER EAR". It also needs a pressure dressing and review, because it re-accumulates.**
+> **· ACOUSTIC TRAUMA from blast or sudden loud noise.**
+
+> [!danger] Foreign bodies — and the one that cannot wait
+> **· ONE CAREFUL ATTEMPT, with the right instrument, good light and a cooperative patient.** **REPEATED ATTEMPTS CAUSE CANAL OEDEMA, BLEEDING, TRAUMA AND PUSH THE OBJECT DEEPER — converting a simple problem into one requiring a general anaesthetic.** **Know when to stop and refer.**
+> **· INSECTS — KILL THEM FIRST with mineral oil or lignocaine before attempting removal.** A live insect moving in the canal is distressing and painful, and it will not be removed cooperatively.
+> **· A BUTTON BATTERY IN THE EAR IS AN EMERGENCY.** **It causes liquefactive necrosis of the canal, drum and middle ear structures within HOURS, with permanent damage.** **It requires IMMEDIATE removal — the same urgency as a button battery in the oesophagus.** Cross-refer [[F3]].
+> **· Organic material (seeds, food) SWELLS with moisture — so do not irrigate it.**
+> **· Children may present late, with unilateral foul discharge as the only sign.**
+
+> [!tip] Wax, and the cotton bud conversation
+> **· Wax is normal, protective, and self-clearing in most people. It requires removal only if it causes symptoms or obstructs examination.**
+> **· SOFTENING drops for several days, then MICROSUCTION (safest and preferred) or irrigation.**
+> **· IRRIGATION IS CONTRAINDICATED with a known or suspected PERFORATION, grommets in situ, previous ear surgery, active infection, or in an ONLY HEARING EAR.** **Asking those questions before syringing prevents a serious and avoidable complication.**
+> **· AND TELL PEOPLE TO STOP USING COTTON BUDS.** They push wax inward and impact it, abrade the canal skin, and are a leading cause of otitis externa and traumatic perforation. **"Nothing smaller than your elbow in your ear" remains the correct advice.**
+
+**Ix:** **OTOSCOPY INCLUDING THE ATTIC (pars flaccida), in both ears** (*why:* cholesteatoma hides there and is missed by examining only the pars tensa; *what:* retraction, crust, perforation). **RINNE AND WEBER with a 512 Hz fork — interpreted together** (*why:* thirty seconds separates a conductive problem from an emergency sensorineural loss, and the false negative Rinne is resolved only by doing both; *what:* the pattern of loss). **PURE TONE AUDIOMETRY and TYMPANOMETRY** (*why:* quantifies and characterises the loss, and confirms middle ear effusion; *what:* the audiogram and compliance trace). **URGENT ENT REFERRAL AND MRI FOR SUDDEN SENSORINEURAL HEARING LOSS** (*why:* steroid treatment is time-critical and outcomes fall with delay, and a proportion have a vestibular schwannoma; *what:* treatment within the window, and the schwannoma). **MRI FOR ASYMMETRIC SENSORINEURAL LOSS, UNILATERAL TINNITUS, OR UNILATERAL VESTIBULAR SYMPTOMS** (*why:* asymmetry demands an explanation; *what:* cerebellopontine angle lesion). **IMAGING FOR PULSATILE TINNITUS** (*why:* vascular causes including dissection, fistula and raised intracranial pressure; *what:* the vascular lesion). **Inflammatory markers, glucose or HbA1c, and CT or MRI in suspected necrotising otitis externa** (*why:* skull base osteomyelitis in a diabetic patient; *what:* bone involvement). **NASENDOSCOPY VIA URGENT ENT REFERRAL for persistent unilateral otalgia with a normal ear** (*why:* referred pain may be the only symptom of a head and neck cancer; *what:* the primary tumour). **Audiological assessment after bacterial meningitis** (*why:* sensorineural loss is a common sequela and early detection permits early intervention; *what:* hearing loss).
+
+---
+
+> [!note] Cross-references
+> Vertigo, HINTS and central causes → [[D3]] 0.5 · Facial nerve palsy and Ramsay Hunt → [[D5]] · Meningitis and hearing sequelae → [[D1]] 0.5 · Idiopathic intracranial hypertension → [[D1]] 0.3 · Nose, sinus and epistaxis → [[F2]] · Sore throat, hoarseness and head and neck cancer → [[F3]] · Neck lumps and facial pain → [[F4]] · Temporal bone fracture and head injury → [[L8]] 0.2 and [[F0.5]] 0.7 · Delirium and sensory impairment → [[D2]] 0.2 · Dementia and modifiable risk factors → [[D2]] 0.3 and [[GER1]] 0.5 · Otitis media and hearing loss in Aboriginal and Torres Strait Islander children → [[AU1]] 0.4 · Developmental surveillance and hearing → [[M4]] 0.5 · Behavioural presentations of hearing loss → [[M7]] 0.6 · Occupational noise exposure → [[RESP-X]] 0.2 and [[GER3]] · Button battery ingestion → [[F3]]
 
 
 <!-- ===== SOURCE: 13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_.md ===== -->
@@ -287,6 +468,20 @@
 - **Mx:** same as vestibular neuronitis.
 
 
+<!-- ===== SOURCE: 13_06c_ENT_-_Bell_s_Palsy.md ===== -->
+
+
+## Bell's palsy
+
+> [!warning] FLAG 2026-09-01 — this stub is the MODEL, not a problem
+> It has **zero inbound references and that is correct**: it exists only so the ENT-context
+> cross-reference to `[[04_Neurology]] Cranial Nerve Disorders and Vertigo → Bell's Palsy` is not lost.
+> It states what it defers, why, and where the full entry lives.
+> **This is the shape every deliberate deferral in this corpus should take. Do not delete it.**
+
+> [!note] Full disease entry (definition, forehead-sparing UMN vs LMN localising sign, Ix, dosing regimens, referral criteria, prognosis, risk factors) already built in [[04_Neurology]] Cranial Nerve Disorders and Vertigo → Bell's Palsy, not duplicated here — that entry is the more natural anatomical home for this cranial nerve topic and has since been merged with this file's originally-unique detail (specific prednisolone regimens, bilateral-palsy differential, 3-week referral timeline). See there for the full clinical picture; this stub exists only so the ENT-context cross-reference (relevant given Bell's palsy is a common ENT referral) isn't lost.
+
+
 <!-- ===== SOURCE: 13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_.md ===== -->
 
 
@@ -416,601 +611,6 @@
 - **Dx/Ix:** endoscopy + biopsy; staging by MRI.
 - **Mx:** radiotherapy + chemotherapy + surgery.
 - **P:** >80% 5-year survival for stage I; <30% for advanced tumours.
-
-
-<!-- ===== SOURCE: 13_05a_ENT_-_Sore_Throat_and_Tonsillitis.md ===== -->
-
-
-## Sore throat (pharyngitis, tonsillitis, laryngitis)
-
-- **D:** infection of the throat structures.
-
-> [!info] Centor criteria — to determine which patients likely have bacterial infections and would therefore benefit from antibiotics
-> - Presence of tonsillar exudate.
-> - Tender anterior cervical lymphadenopathy or lymphadenitis.
-> - History of fever.
-> - Absence of cough.
->
-> Score 0–2: 3–17% likely bacterial. Score 3–4: 32–56% likely bacterial. If all 4 are absent, negative predictive value is 80%.
-
-> [!info] FeverPAIN criteria — similar to Centor criteria, used to identify patients likely to have Strep pharyngitis
-> - Fever >38°C.
-> - Purulence (pharyngeal/tonsillar).
-> - Attend rapidly (≤3 days).
-> - Inflamed tonsils (severe).
-> - No cough or coryza.
->
-> Score 2–3: 34–40% likely. Score 4–5: 62–65% likely.
-
-> [!danger] A genuinely important Australian-specific caveat, not a simple "verify locally" note: **Centor and FeverPAIN were both developed and validated in low-rheumatic-fever-risk populations, and neither score should be applied uncritically in patients at high risk of acute rheumatic fever (ARF)** — specifically Aboriginal and Torres Strait Islander people, particularly in rural and remote northern/central Australia, where ARF and rheumatic heart disease occur at some of the highest documented rates in the world. These scores estimate the probability of *bacterial* pharyngitis to guide antibiotic benefit generally — they were never designed to estimate *rheumatic fever risk specifically*, and a patient can score "low risk" on Centor/FeverPAIN while still needing antibiotic treatment to prevent a first or recurrent episode of ARF. **Current Australian guidance (e.g. RCH Melbourne) identifies high-ARF-risk patients as a distinct management pathway** with a substantially lower threshold for treating suspected GAS pharyngitis — check the current Australian guideline for the prevention, diagnosis, and management of ARF/RHD for the specific approach in a patient from a high-risk population, rather than applying the general-population scores below as if they were universally applicable.
-
-### Management
-
-- Symptomatic relief: ibuprofen ± paracetamol for fever & pain. Consider mouthwash or spray.
-- **Antibiotics only indicated if:**
-  - Centor / FeverPAIN positive (**or the patient is at high risk of ARF, per the caveat above — treat this as an independent indication, not merely a modifier of the score**).
-  - Features of marked systemic upset secondary to acute sore throat.
-  - Unilateral peritonsillitis.
-  - History of rheumatic fever.
-  - Increased risk of acute infection.
-- If antibiotics indicated, use phenoxymethylpenicillin (penicillin V) or clarithromycin, 7–10 day course.
-
-> [!danger] Avoid amoxicillin — causes a rash if the pharyngitis is caused by EBV (infectious mononucleosis).
-
-> [!warning] If the patient is on DMARDs or carbimazole, check FBC urgently (risk of drug-induced neutropenia/agranulocytosis being mistaken for or compounded by infection).
-
-### DDx of unilateral tonsillar enlargement
-
-- Peritonsillar abscess.
-- Malignancy (perform excision biopsy to rule out).
-
-### Complications of tonsillitis
-
-- Otitis media; sinusitis.
-- **Peritonsillar abscess (quinsy):** sore throat, dysphagia, peritonsillar bulge, uvular deviation, trismus (lockjaw), muffled voice. Mx: antibiotics, aspiration.
-- **Parapharyngeal abscess:** diffuse swelling in the neck, dysphagia, head turned towards the side of the abscess. Mx: CT/US, IV antibiotics, incision & drainage under general anaesthesia.
-- **Lemierre syndrome:** acute septicaemia and jugular vein thrombosis secondary to infection with *Fusobacterium* + septic embolism.
-
-- **P:** if uncomplicated, symptoms resolve in 40% within 3 days, and within 1 week in 85%.
-
-### Tonsillectomy
-
-> [!info] Indications — only done if recurrent sore throats are due to tonsillitis, and these episodes are disabling:
-> - ≥7 well-documented, clinically significant, adequately treated sore throats in the preceding year.
-> - ≥5 episodes in each of the last 2 years.
-> - ≥3 episodes in each of the last 3 years.
->
-> Other indications: children with obstructive sleep apnoea; suspicion of malignancy.
-
-- **Complications:**
-  - **1° haemorrhage (<24h):** return to theatre ASAP.
-  - **2° haemorrhage (>24h):** secondary to infection of the tonsillar fossae; an ENT emergency. ABCDE, resuscitation ± theatre. If bleeding stops, admit for hydrogen peroxide gargles and IV antibiotics.
-
-*(See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Scarlet fever for the full entry.)*
-
-
-<!-- ===== SOURCE: 13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA.md ===== -->
-
-
-## Stridor — overview
-
-> [!info] Stridor = inspiratory high-pitched noise on inspiration, secondary to partial obstruction at the larynx or a large airway.
-> Stertor = inspiratory snoring noise secondary to obstruction of the pharynx.
-
-> [!info] Causes of stridor
-> - **Congenital:** laryngomalacia, web/stenosis, vascular rings.
-> - **Inflammation:** laryngitis, epiglottitis, croup, anaphylaxis.
-> - **Tumours:** haemangiomas, laryngeal papilloma (HPV-related).
-> - **Trauma:** thermal, chemical, intubation-related.
-
-## Croup (laryngo-tracheo-bronchitis)
-
-- **E:** age 6 months to 6 years, autumn, possibly M>F.
-- **A:** usually parainfluenza viruses.
-
-> [!info] Severity assessment
-
-| Feature | Mild | Moderate | Severe |
-|---|---|---|---|
-| Barking cough | Occasional | Frequent | Frequent |
-| Stridor at rest | None | Easily audible | Prominent |
-| Chest wall recession | None or mild | Present at rest | Marked |
-| General behaviour | Happy, eating & drinking, playing | Can be placated, interested in surroundings | Significant distress, lethargic or restless |
-
-- **Ix:** clinical — imaging is not required to diagnose croup. Where a CXR is taken for another reason, the PA view may show the **"steeple sign"** (subglottic narrowing). Carried here by the G23 round (2026-08-29): this entry owns croup and did not mention the sign, while the epiglottitis entry below correctly warns that the steeple sign belongs to croup rather than epiglottitis — the caveat existed without the fact it refers to.
-- **Mx:**
-  - Admit any child with moderate to severe croup, or if <6 months old, known airway abnormality, or uncertainty about diagnosis.
-  - Regardless of severity, single dose of PO dexamethasone (0.15mg/kg) — alternative: prednisolone (1mg/kg).
-
-> [!info] Verified against RCH Melbourne, NSW ACI, and Queensland Children's Health croup guidelines, Aug 2026 — **0.15mg/kg dexamethasone is confirmed correct, current Australian practice** for mild-to-moderate croup, not a UK-specific figure needing correction; some Australian protocols (e.g. Queensland) specifically reserve the higher 0.6mg/kg dose for severe/life-threatening croup, so the "regardless of severity" framing here is a reasonable simplification but a severity-scaled approach also exists in AU practice if precision is needed for a specific case.
-  - Emergency treatment: high flow O2; nebulised adrenaline.
-
-## Acute epiglottitis
-
-- **D:** infection of the supraglottis with the potential to cause airway compromise.
-- **A:** *Haemophilus influenzae* type B most common, but also *Strep pneumoniae*, *S. aureus*, MRSA. Less commonly viral, fungal, traumatic.
-- **P:** inflammatory pathways lead to localised oedema of the airway → ↑airway resistance.
-- **S/Smx:** rapid onset; high temperature, generally unwell; stridor; drooling saliva; "tripod" position — patient finds it easier to breathe leaning forward.
-- **Dx:** only by airway-trained staff — direct visualisation. XR lateral view may show a "thumb sign"; PA view may show a "steeple sign" (note: the steeple sign is classically described for croup, not epiglottitis).
-
-> [!danger] If suspected, DO NOT examine the throat or distress the patient — risk of precipitating complete airway obstruction.
-
-- **Mx:** O2 + keep the patient upright. Immediate senior involvement (ENT, anaesthetics) — endotracheal intubation may be needed. **IV antibiotics — a third-generation cephalosporin (cefotaxime or ceftriaxone)**, carried here from [[15_04a_Paeds_-_URTI_and_LRTI]] Acute epiglottitis during the pairs audit (2026-08-29), where it was the only one of the corpus's three epiglottitis entries to name the drug at all.
-
-> [!note] **Three entries cover acute epiglottitis and none referenced any other.** This is the fullest and owns the clinical detail; [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Acute epiglottitis covers it in the bacterial-infection context and [[15_04a_Paeds_-_URTI_and_LRTI]] Acute epiglottitis in the paediatric URTI context. All three agree on organism, presentation, the thumb sign and the do-not-examine-the-throat rule; only the antibiotic was in one place.
-
-## Foreign body airway obstruction (choking)
-
-> [!note] Gap-filled from CSV ("Upper airway obstruction," Medium yield) — genuinely absent as its own entry despite being one of the classic causes of acute upper airway obstruction, particularly in young children, and despite the closely-related oesophageal/ear foreign body content already built in [[13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology]] and [[13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_]].
-
-- **A/P:** an inhaled foreign object lodging in the larynx, trachea, or a bronchus — genuinely most common in young children (toddlers exploring objects orally, classically small toys, coins, and **foods that are round/firm and roughly airway-sized, e.g. whole grapes, nuts, hard lollies/sweets** — a specific, well-known choking-hazard food list worth knowing given how directly parent counselling connects to it) and in adults with impaired swallowing or reduced consciousness (e.g. intoxication, food bolus in the elderly).
-- **S/Smx — severity determines the whole approach, and should be assessed immediately:**
-  - **Mild/partial obstruction (effective cough):** patient is able to speak, cry, or cough forcefully; conscious and responsive.
-  - **Severe/complete obstruction (ineffective cough):** unable to speak, cry, or breathe; silent or weakening cough; cyanosis; loss of consciousness if not urgently relieved — this is the presentation demanding immediate physical intervention, not further assessment or observation.
-- **Ix:** this is a clinical diagnosis requiring immediate action in the severe/complete obstruction scenario — **do not delay intervention to obtain imaging**; once the acute obstruction is relieved (or in a stable partial-obstruction presentation with an unclear history), a CXR can help localise a radio-opaque foreign body or show indirect signs (e.g. unilateral hyperinflation from air-trapping distal to a bronchial foreign body), though many aspirated foreign bodies (food, most plastic toys) are radiolucent and won't be directly visible.
-- **Mx:**
-  - **Mild/partial obstruction:** encourage the patient to continue coughing — this is usually the most effective way to clear the obstruction; do not perform back blows/abdominal thrusts on an effectively coughing patient, given this can convert a partial obstruction into a complete one; monitor closely and escalate immediately if the cough becomes ineffective or the patient deteriorates.
-  - **Severe/complete obstruction, conscious patient:** **5 back blows** (firm blows between the shoulder blades with the heel of the hand) followed by **5 abdominal thrusts** (Heimlich manoeuvre — standing behind the patient, hands clasped above the umbilicus, sharp inward-and-upward thrusts) if back blows are unsuccessful; alternate between the two, reassessing after each set, until the obstruction clears or the patient loses consciousness. **In infants (<1 year old), abdominal thrusts are avoided given the risk of intra-abdominal organ injury** — use back blows and **chest thrusts** instead (two fingers on the lower sternum, similar hand position to infant CPR compressions).
-  - **Unconscious patient:** start CPR (chest compressions, per standard basic life support — see [[01_Cardiovascular]] 0.5 Advanced Life Support (Adult) for the general resuscitation framework this fits into, not repeated here) — chest compressions themselves can help dislodge/expel the foreign body, in addition to their primary circulatory purpose; check the mouth for a visible object before each set of rescue breaths, but **do not perform blind finger sweeps**, given this risks pushing the object further into the airway.
-  - **Definitive:** if the obstruction cannot be cleared by the above measures and the patient is deteriorating, urgent laryngoscopy/bronchoscopy (rigid bronchoscopy is often preferred for foreign body retrieval given better instrumentation access) under direct vision for object removal — a genuine airway emergency requiring immediate senior anaesthetic/ENT involvement, following the same "call for help early" principle as [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), not repeated here. A surgical airway (cricothyroidotomy) is a last-resort option if the obstruction is complete and cannot be relieved by any of the above and standard intubation isn't possible.
-- **Complications:** hypoxic brain injury or death if not relieved promptly; aspiration pneumonia or a retained bronchial foreign body causing recurrent/chronic respiratory symptoms if a partial bronchial obstruction goes unrecognised (a genuinely important differential for unexplained recurrent unilateral chest signs or "asthma that isn't responding to treatment" in a young child with a plausible choking history, even if remote).
-
-## Laryngomalacia
-
-- **A/w:** GORD (50%), neurological abnormality (up to 20%), M>F (2×), genetic syndromic disorders (e.g. Down syndrome).
-
-> [!info] Gap-filled — genuinely absent: laryngomalacia's classic positional variation (worse supine, improved prone) wasn't mentioned at all, despite being one of its most distinctive and practically useful features. **Mechanism:** laryngomalacia reflects abnormally soft, immature supraglottic cartilage (particularly a floppy, often omega-shaped epiglottis, and short aryepiglottic folds) — during inspiration, the negative intrathoracic/intraluminal pressure generated by normal breathing pulls these floppy structures inward, causing dynamic, inspiratory collapse and the characteristic stridor. **Positioning genuinely changes the severity, not just the sound**: lying **supine** allows gravity to pull these already-floppy structures further posteriorly, into the airway, worsening the dynamic collapse and stridor. Lying **prone**, or extending the neck, allows gravity to instead pull the structures away from the airway, reducing obstruction and improving symptoms. This is why stridor is classically worse when feeding or crying (both increase inspiratory effort/negative pressure) and worse when supine, and why simple positioning advice (avoiding prolonged supine positioning while awake and supervised, prone positioning during supervised awake time) is a genuinely practical, low-risk first-line measure for mild cases — not just a theoretical point, but something that can meaningfully reduce symptom severity while awaiting the natural resolution most infants experience.
-
-- **S/Smx:** onset within 2–4 weeks of birth, resolution by age 2. Normal cry (differentiates from vocal cord palsy or laryngeal webs).
-- **Ix:** flexible laryngoscopy.
-- **Mx:** watch and wait if mild. If moderate (stridor, ↑work of breathing, etc) — watch and wait or surgery. Severe (10–15%) — endoscopic supraglottoplasty.
-- **P:** 85% spontaneously improve by 12–24 months.
-
-## Primary (simple) snoring
-
-> [!note] Gap-filled from CSV ("Snoring," Low yield) — genuinely distinct from OSA below, given the key clinical task with a snoring presentation is distinguishing benign primary snoring from OSA, not assuming every snorer needs a sleep study.
-
-- **D:** snoring without the episodic apnoea, significant oxygen desaturation, or daytime consequences that define OSA below — vibration of the soft palate/pharyngeal tissues during sleep from partial airway narrowing, without the complete/near-complete obstruction and arousal pattern of OSA.
-- **A/P:** similar contributing factors to OSA (nasal obstruction, obesity, alcohol/sedative use, supine sleeping position, large tonsils/adenoids in children) but without progressing to significant airway collapse.
-- **S/Smx:** snoring reported by a bed partner/family, **without** the OSA-specific features below (witnessed apnoeic episodes, gasping/choking arousals, significant daytime somnolence) — the presence or absence of these specific OSA features is the key discriminator on history, given snoring itself is extremely common and often benign.
-- **Ix:** primarily a clinical history-based distinction from OSA — screening questionnaires (e.g. the Epworth Sleepiness Scale used for OSA below) can help identify whether daytime symptoms suggest something beyond simple snoring; formal polysomnography is reserved for cases where the history raises genuine concern for OSA rather than ordered routinely for straightforward snoring.
-- **Mx:** reassurance is often appropriate once OSA has been reasonably excluded on history; conservative measures shared with OSA management below (weight loss if relevant, reducing alcohol/sedative use before bed, avoiding the supine sleeping position, treating nasal obstruction if present) — the same lifestyle measures, without the CPAP/device escalation reserved for confirmed OSA.
-
-## Obstructive sleep apnoea (OSA)
-
-- **D:** episodic partial or complete airway obstruction during sleep.
-- **R:** obesity, M>F, post-menopause, chronic snoring, macroglossia (e.g. hypothyroidism), large tonsils, etc.
-- **S/Smx:** daytime somnolence; partner may notice episodes of apnoea, gasping, restless sleeping; compensated respiratory acidosis.
-- **Ix/Dx:** Epworth Sleepiness Scale (questionnaire for patient ± partner); Multiple Sleep Latency Test (measures time to fall asleep in a dark room); polysomnography.
-- **Mx:** weight loss; CPAP (for moderate to severe OSA); intra-oral devices (e.g. mandibular advancement) if CPAP not tolerated, or for mild symptoms.
-
-> [!warning] Verified against Austroads' Assessing Fitness to Drive (2022 edition) — the Australian standard, not the UK's DVLA (which the source material's original wording assumed). Untreated OSA with significant excessive daytime sleepiness is incompatible with holding an unconditional licence in Australia; report per the state driver licensing authority's requirements (responsibility rests with the individual to report, but the treating doctor has an ethical/professional obligation to advise on this and may need to notify authorities directly if the patient poses a significant ongoing risk and doesn't self-report) — advise the patient not to drive until effectively treated (e.g. demonstrated CPAP compliance, defined as ≥4h/night on ≥70% of nights) and daytime sleepiness has resolved.
-
-
-<!-- ===== SOURCE: 13_06a_ENT_-_Dysphonia_and_HNSCC.md ===== -->
-
-
-## Dysphonia (hoarseness)
-
-- **D:** hoarseness = difficulty producing sound, with a change in voice pitch or quality.
-
-> [!danger] Laryngeal cancer — investigate all hoarseness >6 weeks. Hoarseness is the chief (and often only) presenting symptom of laryngeal carcinoma, especially in smokers.
-
-### Causes
-
-- **Vocal cord palsy:** weak, breathy voice. Often due to cancer — **the single most important step is finding the underlying cause of the nerve palsy, not just describing the voice change**, given vocal cord palsy is frequently the presenting sign of a malignancy (laryngeal, thyroid, or a lung cancer compressing the recurrent laryngeal nerve — the left recurrent laryngeal nerve's longer intrathoracic course under the aortic arch makes it more vulnerable to compression by a mediastinal/lung mass than the right, a classically-tested asymmetry) — other causes include prior thyroid/neck/thoracic surgery (iatrogenic nerve injury), idiopathic, and rarely a brainstem lesion (with other cranial nerve involvement). **Ix:** nasendoscopy/laryngoscopy to directly visualise cord movement and confirm the palsy; CT neck and chest to trace the recurrent laryngeal nerve's course and identify a compressive or infiltrative cause, given the nerve's long path means the causative lesion can be anywhere from the skull base to the chest. **Mx:** treat the underlying cause where identified (e.g. oncological management if malignant); speech and language therapy can improve voice quality and swallowing safety regardless of cause; surgical options (e.g. medialisation thyroplasty, injection augmentation) for persistent, symptomatic unilateral palsy not expected to recover, particularly if aspiration risk or significant voice impairment persists.
-- **Laryngitis:** usually viral, occasionally bacterial. Can be secondary to GORD or autoimmune disease (e.g. RA). Mx: supportive ± antibiotics if indicated.
-- **Reinke's oedema:** chronic cord irritation from smoking ± voice abuse → gelatinous fusiform enlargement of the cords. Mx: conservative (stop smoking), laser therapy.
-- **Vocal cord nodules:** secondary to vocal cord abuse, usually. Fibrous nodules (often bilateral) form at the junction of the anterior 1/3 and posterior 2/3 of the cords. Mx: speech therapy or surgical excision.
-- **Disorders of speech articulation:** spasmodic dysphonia (analogous to "blepharospasm" of the vocal cords) — Mx: botulinum toxin injection into the affected laryngeal muscles, the mainstay treatment given it directly addresses the focal dystonia mechanism, analogous to its use in blepharospasm; muscle tension dysphonia (a functional disorder) — Mx: voice therapy/speech and language therapy, given this addresses the underlying muscular tension pattern rather than a structural lesion; children with functional speech disorders (difficulty pronouncing certain sounds) — Mx: paediatric speech and language therapy.
-
-## Head and neck squamous cell carcinoma (HNSCC)
-
-> [!note] See [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Cancer Outcomes in Aboriginal and Torres Strait Islander Australians — HNSCC is specifically named there as one of the cancer types with the largest survival disparity, making the red-flag awareness below even more clinically important, not repeated here.
-
-- **D:** umbrella term including oral cavity cancers, cancers of the pharynx, and cancers of the larynx. 90% are SCC.
-- **R:** >80% occur in patients >50 years old. Associated with smoking (10× risk), HPV (70% of oropharyngeal cancers), increased alcohol use, vitamin A & C deficiency, nitrosamines in salted fish, GORD, deprivation.
-
-> [!danger] Red flag symptoms/signs
-> - Neck pain/lump.
-> - Hoarse voice >6 weeks.
-> - Sore throat >6 weeks.
-> - Mouth bleeding; numbness.
-> - Sore tongue; painless ulcers; patches in the mouth.
-> - Earache/effusion.
-> - Lumps (lip, mouth, gum).
-> - Speech change; dysphagia.
-
-- **Ix/Dx:** refer urgently to ENT. Endoscopy, FNA/biopsy, CT/MRI, etc.
-- **Mx:** surgery, chemo/radiotherapy.
-
-### HPV-related cancer (HPV 16)
-
-- Linked to cancer of the tongue, tonsil, and pharynx.
-- Most commonly transmitted during oral sex.
-- Occurs in younger people, with a better prognosis (compared to smoking-related HNSCC).
-- Vaccination may reduce risk.
-
-
-<!-- ===== SOURCE: 13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology.md ===== -->
-
-
-## 0.1 Dysphagia — approach
-
-> [!note] Persistent dysphagia is itself a red-flag symptom for head and neck cancer — see [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) for the full red-flag list this presentation should always be screened against, not repeated here.
-
-- **D:** difficulty swallowing. Odynophagia = painful swallowing.
-
-> [!tip] Useful screening questions
-> - "Can fluids be drunk as normal?" — YES suggests a stricture; NO suggests a motility disorder.
-> - "Is it difficult to make the swallowing movement?" — YES suggests bulbar palsy (especially if the patient coughs on swallowing).
-> - "Is the dysphagia constant and painful?" — YES suggests a malignant stricture.
-> - "Does the neck bulge or gurgle on drinking?" — YES suggests a pharyngeal pouch.
-
-> [!info] Causes of dysphagia
-> - **Malignant:** oesophageal cancer, pharyngeal cancer, gastric cancer, extrinsic pressure (e.g. from lung cancer or node enlargement).
-> - **Neurological:** bulbar palsy, lateral medullary syndrome, myasthenia gravis, syringomyelia.
-> - **Others:** benign stricture, pharyngeal pouch, achalasia, systemic sclerosis, oesophagitis, iron deficiency anaemia.
-
-- **Ix:** bloods (FBC, ESR), CXR, barium swallow, endoscopy + biopsy, oesophageal motility studies.
-
-## 0.2 Benign oesophageal stricture
-
-- **A:** reflux, swallowing corrosives, foreign body, trauma.
-- **Mx:** dilatation.
-
-> [!note] **Moved to `[[GI_merged]]` on 2026-09-01:** `0.3 Barrett's oesophagus` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] **Moved to `[[GI_merged]]` on 2026-09-01:** `0.4 Oesophageal carcinoma` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## 0.5 Pharyngeal pouch (Zenker's diverticulum)
-
-- **D:** a posteromedial diverticulum through Killian's dehiscence.
-- **R:** ↑age, M>F (5:1).
-- **S/Smx:** dysphagia, regurgitation, aspiration, neck swelling (gurgles on palpation), halitosis.
-- **Ix:** barium swallow combined with dynamic video fluoroscopy.
-- **Mx:** surgery.
-
-## 0.6 Globus pharyngeus (globus hystericus)
-
-- **D:** sensation of a lump in the throat, most noticed when swallowing saliva.
-- **A:** unknown; possibly excess muscle tension in the pharynx or increased acid exposure at the laryngopharyngeal junction.
-- **Mx:** reassure. Endoscopy may be needed to exclude malignancy, especially with red flag symptoms.
-
-
-<!-- ===== SOURCE: 13_06c_ENT_-_Bell_s_Palsy.md ===== -->
-
-
-## Bell's palsy
-
-> [!warning] FLAG 2026-09-01 — this stub is the MODEL, not a problem
-> It has **zero inbound references and that is correct**: it exists only so the ENT-context
-> cross-reference to `[[04_Neurology]] Cranial Nerve Disorders and Vertigo → Bell's Palsy` is not lost.
-> It states what it defers, why, and where the full entry lives.
-> **This is the shape every deliberate deferral in this corpus should take. Do not delete it.**
-
-> [!note] Full disease entry (definition, forehead-sparing UMN vs LMN localising sign, Ix, dosing regimens, referral criteria, prognosis, risk factors) already built in [[04_Neurology]] Cranial Nerve Disorders and Vertigo → Bell's Palsy, not duplicated here — that entry is the more natural anatomical home for this cranial nerve topic and has since been merged with this file's originally-unique detail (specific prednisolone regimens, bilateral-palsy differential, 3-week referral timeline). See there for the full clinical picture; this stub exists only so the ENT-context cross-reference (relevant given Bell's palsy is a common ENT referral) isn't lost.
-
-
-<!-- ===== SOURCE: 13_07a_ENT_-_Neck_Lumps.md ===== -->
-
-
-## 0.1 Lumps in the neck — approach
-
-> [!note] This entry approaches neck lumps by anatomical location; see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Lymphadenopathy for the complementary aetiological (cause-based) differential for lymph node swelling specifically, not repeated here — the two lenses are complementary, not overlapping. See also [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) for the full red-flag list this presentation should always be screened against — a persistent neck lump is itself one of those red flags, not repeated here.
-
-> [!tip] Key screening questions
-> - "How long has the lump been present?" — if <3 weeks, reactive lymphadenopathy from a self-limiting infection is likely.
-> - "Which tissue layer is the lump in?" — intradermal lumps suggest a sebaceous cyst, lipoma, etc.
-
-- **Ix:** ultrasound ± FNAC; CT; virology and Mantoux test; CXR.
-
-## 0.2 Differential diagnosis by anatomical location
-
-> [!info] Midline lumps
-> - <20 years old: dermoid cyst.
-> - If it moves up on tongue protrusion: thyroglossal cyst (a fluid-filled sac resulting from incomplete closure of the thyroid's migration path).
-> - >20 years old: thyroid mass.
-> - Bony hard: consider chondroma.
-
-> [!info] Submandibular triangle
-> - <20 years old: reactive lymphadenopathy.
-> - >20 years old: rule out malignant lymphadenopathy (e.g. firm, non-tender; any B-symptoms).
-> - Always rule out TB.
-> - If it's not a node, consider a submandibular salivary stone, tumour, or sialadenitis.
-
-> [!info] Anterior triangle
-> - Lymphadenopathy.
-> - Branchial cyst — Mx: excision.
-> - >40 years old: consider parotid tumour.
-> - Laryngoceles — painless, M>F, made worse by blowing.
-> - If the lump is pulsatile: carotid artery aneurysm; tortuous carotid artery; carotid body tumour (rare).
-
-> [!info] Posterior triangle
-> - Cervical rib.
-> - Pharyngeal pouches (usually on the left).
-> - Cystic hygromas — macrocystic lymphatic malformations, bright transillumination.
-> - Small lumps: consider lymphadenopathy secondary to TB, viruses, or metastases.
-
-
-<!-- ===== SOURCE: 13_07b_ENT_-_Salivary_Gland_Problems_and_Xerostomia.md ===== -->
-
-
-## 0.1 Sialadenitis
-
-- **D:** acute infection of the submandibular or parotid glands.
-- **R:** elderly or debilitated patients who are dehydrated ± have poor oral hygiene.
-- **S/Smx:** painful diffuse swelling of the gland and fever. Pus may leak out of the duct.
-- **Mx:** antibiotics + good oral hygiene. Sialogogues are helpful. Surgical drainage may be required.
-- **Complications:** chronic or recurrent attacks may lead to strictures or salivary gland stones.
-
-## 0.2 Sialolithiasis
-
-- **D:** salivary stones — usually affect the submandibular gland (higher calcium content, thicker secretions).
-- **S/Smx:** pain, tense swelling of the gland during/after meals ± palpable stone on the floor of the mouth.
-- **Ix:** plain XR or sialogram.
-- **Mx:** small stones may pass spontaneously; larger stones may need surgery.
-
-## 0.3 Salivary gland tumours
-
-> [!tip] "80% rule": 80% occur in the parotid gland, 80% are benign pleomorphic adenomas, 80% are in the superficial lobe.
-
-- **R for malignancy:** neck radiation, smoking.
-
-> [!danger] Red flags: hard, fixed mass ± pain, associated with facial nerve palsy.
-
-- **Ix:** US/MRI, FNAC, biopsy.
-- **Mx:** surgery, radiotherapy.
-
-### 0.3.1 Specific tumours
-
-- **Pleomorphic adenoma:** slow-growing benign tumour; middle-age; may turn malignant if present for a long time (carcinoma ex pleomorphic adenoma — a genuine reason not to simply "watch and wait" indefinitely despite the tumour's benign nature). **Mx:** surgical excision (typically superficial parotidectomy if in the parotid, given the "80% rule" above) is standard even for confirmed benign disease, for two specific reasons: the malignant transformation risk over time noted above, and because **the tumour capsule is often incomplete with microscopic extensions into surrounding tissue**, meaning simple enucleation (removing just the visible lump) carries a significant recurrence risk — complete excision with a margin of normal tissue is required, not just "shelling out" the lump.
-- **Warthin's tumour:** elderly men, may be bilateral. Mx: partial parotidectomy.
-- **Mucoepidermoid carcinoma:** aggressive, high-grade — excision + radiotherapy.
-- **Adenoid cystic tumours:** painful, slow-growing tumours that tend to spread along nerves ("perineural infiltration") + distant metastases and late recurrence. Mx: surgical excision, post-op radiotherapy.
-
-## 0.4 Xerostomia (dry mouth)
-
-> [!info] Typical causes
-> - Drugs: hypnotics & TCAs, antipsychotics, beta-blockers, diuretics.
-> - Mouth breathing; dehydration.
-> - ENT radiotherapy.
-> - Sjögren syndrome, SLE, systemic sclerosis, sarcoidosis.
-> - HIV/AIDS; parotid stones.
-
-- **S/Smx:** dry, atrophic, fissured oral mucosa; discomfort → difficulty eating, speaking, and wearing dentures; no saliva pooling in the floor of the mouth.
-- **Complications:** dental caries, candida infection.
-- **Mx:** ↑oral fluids, frequent sips. Good dental hygiene — avoid acidic drinks or foods. Try saliva substitutes or dry mouth products.
-
-
-<!-- ===== SOURCE: 13_07c_ENT_-_Dental_and_Teeth_Problems.md ===== -->
-
-
-## Dentistry for doctors
-
-### Assessing tooth pain
-
-> [!tip] Key questions to ask about tooth pain
-> - Worse with sugar and heat?
-> - Worse/better with cold?
-> - Intermittent, or constant/uninterrupted?
-> - Worse with percussion?
-> - Exacerbated by movement between finger and thumb?
-
-> [!info] Pattern recognition
-> - **Tooth is alive (pulpitis):** typically intermittent pain, related to hot/cold/sugar stimuli.
-> - **Tooth is dead (osteitis/abscess):** typically constant, uninterrupted pain, worse with percussion.
-
-## Trismus
-
-- **D:** difficulty or inability to fully open the mouth because of muscle spasm or pain, most commonly affecting the muscles of mastication.
-- **A/P — a genuinely broad differential worth actively considering, not just "infection":** dental/odontogenic infection (particularly involving the masticator space, e.g. a lower third molar/wisdom tooth abscess — the classic cause); peritonsillar abscess (quinsy — see [[13_05a_ENT_-_Sore_Throat_and_Tonsillitis]] Complications of tonsillitis (the peritonsillar abscess/quinsy item), given trismus is one of its defining features, not repeated here); temporomandibular joint dysfunction (a much more benign cause, see [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]] Causes of otalgia (painful ear) for the TMJ dysfunction item); tetanus (a rare but classically-tested cause — trismus/"lockjaw" is a hallmark early feature); post-surgical or post-radiotherapy fibrosis; rarely, a mandibular or infratemporal fossa tumour.
-- **Ix:** clinical examination (assess degree of mouth opening, look for a clear dental/infective source, assess for airway compromise given the danger below) is the priority; further imaging (OPG/dental X-ray, CT if a deep space infection or abscess is suspected) guided by the likely cause once assessed.
-
-> [!danger] Trismus is a red flag for severe infection — always requires maxillofacial referral, given the risk of a deep space infection tracking toward the airway (see Facial swellings due to dental infection below for the specific airway-risk anatomy) — trismus itself is one of the reasons deep dental infections are taken seriously rather than dismissed as "just a toothache."
-
-- **Mx:** treat the underlying cause — urgent maxillofacial referral for suspected infective trismus (IV antibiotics, source control/drainage as needed, per the facial swelling entry below); analgesia; if TMJ dysfunction is confirmed as the cause (a much more benign differential), conservative management applies instead, per [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]] Causes of otalgia (painful ear), where the TMJ dysfunction item sits, not repeated here — the point of actively considering the differential above is precisely to avoid either under-treating a genuine deep space infection or over-referring a benign TMJ cause.
-
-## Facial swellings due to dental infection
-
-> [!danger] If related to the lower jaw, assess for airway obstruction. If spreading to the eye, assess CN II (optic nerve) function.
-
-- **A/P:** dental infection (most commonly from an abscessed tooth) can spread into the surrounding fascial spaces of the face and neck — the specific danger above reflects real anatomy: infection from lower jaw teeth can track into the submandibular/sublingual spaces and threaten the airway (a presentation sometimes termed Ludwig's angina when bilateral submandibular/sublingual/submental spaces are all involved — a genuine airway emergency), while infection near the eye (particularly from upper canine/premolar teeth, given their proximity to the orbit) can threaten orbital structures.
-- **Ix:** clinical assessment of airway and ocular involvement is the immediate priority per the danger box above; CT (face/neck) if a deep space infection or abscess requiring drainage is suspected, given clinical examination alone can underestimate the extent of deep spread.
-- **Mx:** usually subsides with PO antibiotics for a straightforward, localised dental abscess without airway or orbital involvement; **any sign of airway compromise (per the danger box above) or a rapidly spreading/bilateral swelling warrants urgent escalation** — IV antibiotics, urgent maxillofacial/ENT involvement, and surgical drainage of any collection, following the same "source control matters as much as antibiotics" principle as deep space infections elsewhere in this project; do not manage a swelling with airway or orbital red flags with oral antibiotics alone in the community.
-
-## Systemic disease complicating dental infection
-
-> [!warning] Refer any patient who is immunocompromised, at risk of endocarditis, or at risk of bleeding (e.g. coagulopathy).
-
-## Periodontal disease
-
-### Vincent's angina (necrotising ulcerative gingivitis)
-
-- Associated with smoking, HIV.
-- Foul-smelling, caused by anaerobes (*Fusobacteria*) ± spirochetes (e.g. *Borrelia*).
-- **Mx:** amoxicillin 500mg/8h PO + metronidazole 400mg/8h PO + dental referral.
-
-
-<!-- ===== SOURCE: F1_Ear.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Examination technique, discriminators and clinical reasoning are reliable at intern level. **Every dose, time window, antibiotic regimen and audiometric threshold carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG** and current ENT and Australian otitis media guidance.
->
-> **Central causes of vertigo and the HINTS examination are built in the neurology block ([[D3]] 0.5)**, and **Ramsay Hunt syndrome in [[D5]]** — cross-referenced rather than repeated.
-
----
-
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
->
-> `0.1 Examining the Ear and Assessing Hearing`
->
-> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
-> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
-
-## 0.2 Otalgia
-
-> [!danger] A normal-looking ear with persistent otalgia in an adult is a red flag
-> **The ear receives sensory innervation from FIVE nerves — the trigeminal (V), facial (VII), glossopharyngeal (IX), vagus (X), and cervical roots C2 and C3.**
-> **Because those nerves supply a large territory, PAIN REFERS TO THE EAR FROM ANYWHERE THEY INNERVATE — the teeth, temporomandibular joint, tonsil, tongue base, pharynx, LARYNX and HYPOPHARYNX, parotid, cervical spine and thyroid.**
-> **THE CONSEQUENCE THAT MATTERS: REFERRED OTALGIA CAN BE THE ONLY PRESENTING SYMPTOM OF A HEAD AND NECK CANCER — particularly of the tongue base, tonsil, hypopharynx or larynx, which have few early local symptoms.**
-> **AN ADULT WITH PERSISTENT UNILATERAL OTALGIA AND A NORMAL EAR EXAMINATION NEEDS THE UPPER AERODIGESTIVE TRACT VISUALISED — which in practice means an urgent ENT referral for nasendoscopy, not reassurance and analgesia.**
-> **The risk factors that raise the stakes: age over 50 · SMOKING · ALCOHOL · HPV exposure · and the associated features of DYSPHAGIA, ODYNOPHAGIA, HOARSENESS, weight loss, a NECK LUMP, or trismus.** Cross-refer [[F3]] and [[F4]].
-> **This is one of the highest-yield facts in ENT and it is regularly missed.**
-
-> [!tip] The primary causes
-> **· OTITIS EXTERNA and OTITIS MEDIA — see 0.3.**
-> **· MASTOIDITIS — post-auricular swelling, erythema and tenderness with the PINNA PUSHED FORWARD AND OUT.**
-> **· PERICHONDRITIS — infection of the pinna cartilage, characteristically SPARING THE LOBULE (which has no cartilage), often after piercing or trauma. It threatens the cartilage and requires prompt systemic antibiotics covering *Pseudomonas*.**
-> **· HERPES ZOSTER OTICUS / RAMSAY HUNT SYNDROME — severe ear pain with vesicles in the canal or on the concha, facial palsy, and often vertigo and hearing loss.** **It has a worse prognosis than Bell palsy and requires prompt antivirals and corticosteroids.** Cross-refer [[D5]].
-> **· Trauma, foreign body, impacted wax, barotrauma, and — rarely — carcinoma of the canal.**
-> **The commonest REFERRED cause overall is DENTAL disease, followed by temporomandibular joint dysfunction** (pain on chewing, tenderness over the joint, clicking, bruxism).
-
----
-
-## 0.3 Otitis Externa and Otitis Media
-
-> [!tip] Otitis externa — and the sign that distinguishes it
-> **Pain, itch, discharge, and a sense of blockage, with an oedematous canal containing debris.**
-> **THE DISCRIMINATING SIGN: TRAGAL TENDERNESS AND PAIN ON MOVING THE PINNA.** **This hurts in otitis EXTERNA and does not in otitis MEDIA** — it takes two seconds and it separates them.
-> **Risk factors: WATER exposure and swimming · humidity · TRAUMA, particularly COTTON BUDS · eczema and psoriasis of the canal · hearing aids and earplugs · and diabetes.**
-> **TREATMENT — and the most important part is not the drops:**
-> **· AURAL TOILET (microsuction or dry mopping) is the single most effective intervention.** **Topical drops cannot reach the skin through a canal full of debris, which is the commonest reason treatment fails.**
-> **· TOPICAL antibiotic and corticosteroid drops.**
-> **· A WICK if the canal is too swollen for drops to penetrate.**
-> **· KEEP THE EAR DRY, adequate ANALGESIA, and stop cotton buds permanently.**
-> **· SYSTEMIC antibiotics are rarely required and are over-prescribed** — reserve them for spreading cellulitis, systemic illness or immunocompromise. `UNVERIFIED — agents and regimens.`
-
-> [!danger] Necrotising (malignant) otitis externa
-> **Skull base osteomyelitis arising from otitis externa, almost always *Pseudomonas aeruginosa*, in ELDERLY DIABETIC or IMMUNOCOMPROMISED patients.**
-> **THE FEATURES: SEVERE, UNREMITTING, DEEP ear pain — classically OUT OF PROPORTION to the examination and WORSE AT NIGHT, disturbing sleep · persistent discharge not responding to topical treatment · and GRANULATION TISSUE at the bone-cartilage junction on the FLOOR of the canal, which is the characteristic finding.**
-> **PROGRESSION IS TO CRANIAL NERVE PALSIES — the FACIAL NERVE first, then the lower cranial nerves as the skull base is involved — and to meningitis and death.**
-> **A DIABETIC PATIENT WITH OTITIS EXTERNA THAT IS NOT SETTLING, OR WITH DISPROPORTIONATE PAIN, NEEDS ENT REFERRAL, IMAGING AND INFLAMMATORY MARKERS — NOT ANOTHER COURSE OF DROPS.**
-> **Treatment requires prolonged systemic antipseudomonal therapy, and the diagnosis is frequently made late.**
-
-> [!warning] Acute otitis media — and when antibiotics are actually indicated
-> **Predominantly a childhood illness: ear pain, fever, irritability, with a BULGING, red, opaque drum and loss of the light reflex.** **Perforation relieves the pain and produces discharge.**
-> **MOST CASES RESOLVE WITHOUT ANTIBIOTICS, and adequate ANALGESIA is the main treatment.** **DELAYED or "back-pocket" prescribing — giving a script to be filled only if not improving after a defined period — is appropriate for many children and reduces antibiotic use without worsening outcomes.**
-> **ANTIBIOTICS ARE INDICATED FOR: young infants · systemically unwell children · bilateral disease in young children · perforation with discharge · immunocompromise · and — importantly in Australia — ABORIGINAL AND TORRES STRAIT ISLANDER CHILDREN, who have a substantially higher risk of persistent disease, perforation and chronic suppurative otitis media.** Cross-refer [[AU1]] 0.4. `UNVERIFIED — the age thresholds and the antibiotic regimens.`
-> **COMPLICATIONS: perforation · MASTOIDITIS · FACIAL NERVE PALSY · labyrinthitis · and intracranial spread (meningitis, intracranial abscess, lateral sinus thrombosis).** **A child with otitis media who develops a facial palsy, severe headache, neck stiffness or post-auricular swelling needs urgent assessment.**
-
-> [!danger] Glue ear — and why it matters far beyond the ear
-> **OTITIS MEDIA WITH EFFUSION: fluid in the middle ear WITHOUT acute infection, causing a CONDUCTIVE hearing loss, with a dull, retracted or amber drum, sometimes with visible fluid levels or bubbles, and a FLAT (type B) tympanogram.**
-> **IT IS THE COMMONEST CAUSE OF HEARING LOSS IN CHILDREN.**
-> **THE CONSEQUENCES ARE DEVELOPMENTAL, NOT JUST AUDITORY: impaired SPEECH AND LANGUAGE development · behavioural problems and inattention (frequently mistaken for ADHD — cross-refer [[M7]] 0.6) · reduced educational attainment · and social difficulty.**
-> **Most cases resolve spontaneously, so a period of WATCHFUL WAITING with hearing assessment is appropriate. Grommets (ventilation tubes) are considered for persistent bilateral effusion with significant hearing loss or developmental impact.**
-> **THE AUSTRALIAN DIMENSION: otitis media with effusion and chronic suppurative otitis media are markedly MORE PREVALENT, occur EARLIER, and PERSIST LONGER in Aboriginal and Torres Strait Islander children — with rates in some remote communities among the highest reported anywhere.**
-> **The resulting conductive hearing loss during the critical period for language acquisition contributes measurably to educational disadvantage, and — through impaired classroom participation and literacy — to later disadvantage including over-representation in the justice system.**
-> **This makes detecting and treating middle ear disease in Aboriginal children one of the highest-leverage interventions in Australian paediatrics, and it is the reason ear examination is part of the routine child health check.** Cross-refer [[AU1]] 0.4 and [[M4]] 0.5.
-
-> [!danger] Cholesteatoma — look at the attic
-> **Keratinising squamous epithelium trapped within the middle ear or mastoid, which expands and ERODES BONE.**
-> **THE PRESENTATION: a persistently DISCHARGING ear with FOUL-SMELLING, scanty discharge · progressive CONDUCTIVE hearing loss · and — the key finding — a RETRACTION POCKET, CRUST OR PERFORATION IN THE ATTIC (pars flaccida) or the posterosuperior drum.**
-> **IT IS NOT AN INFECTION THAT ANTIBIOTICS WILL CURE. It is a structural, locally destructive lesion requiring SURGERY.**
-> **THE COMPLICATIONS FOLLOW FROM WHAT IT ERODES: ossicles (hearing loss) · FACIAL NERVE (palsy) · LABYRINTH (vertigo and sensorineural loss — a fistula) · and the SKULL BASE (meningitis, intracranial abscess, sinus thrombosis).**
-> **The clinical rule: A CHRONICALLY DISCHARGING EAR WITH FOUL ODOUR, OR ANY ATTIC CRUST OR RETRACTION, NEEDS ENT REFERRAL — and repeated courses of drops without an ENT opinion is how cholesteatoma progresses to a facial palsy or an abscess.**
-
----
-
-## 0.4 Hearing Loss
-
-> [!tip] Conductive causes
-> **· WAX — the commonest, and always check for it first before anything more elaborate.**
-> **· Otitis externa, otitis media with effusion, tympanic perforation, and chronic suppurative otitis media.**
-> **· OTOSCLEROSIS — abnormal bone remodelling fixing the stapes footplate. Typically presents in early to middle adulthood, is PROGRESSIVE, often BILATERAL, frequently has a FAMILY HISTORY, and characteristically WORSENS DURING PREGNANCY.** **Patients often report hearing better in noisy environments (paracusis). The drum is normal.** Treated with stapes surgery or hearing aids.
-> **· CHOLESTEATOMA and ossicular discontinuity after trauma or infection.**
-> **· Foreign body, and congenital canal or ossicular abnormalities.**
-
-> [!warning] Sensorineural causes
-> **· PRESBYCUSIS — the commonest. BILATERAL, symmetrical, HIGH-FREQUENCY loss.** **The characteristic symptom is not "I can't hear" but "I CAN'T FOLLOW CONVERSATION IN A NOISY ROOM" — because high-frequency consonants carry most of the intelligibility of speech.** Asking about that specifically detects it earlier than asking about hearing generally.
-> **· NOISE-INDUCED — occupational and recreational, producing a characteristic notch at around 4 kHz.** **A significant occupational health issue in Australia (mining, construction, agriculture, defence, music), it is entirely PREVENTABLE, and hearing protection and surveillance are legal obligations in noisy workplaces.** Cross-refer [[RESP-X]] 0.2 and [[GER3]].
-> **· OTOTOXICITY — AMINOGLYCOSIDES (irreversible, and the ototoxicity is frequently forgotten alongside the nephrotoxicity) · CISPLATIN · loop diuretics · high-dose salicylates (reversible) · and quinine.**
-> **· MÉNIÈRE DISEASE — see 0.6.**
-> **· VESTIBULAR SCHWANNOMA (acoustic neuroma) — see below.**
-> **· INFECTION — congenital CYTOMEGALOVIRUS (the commonest infectious cause of congenital sensorineural hearing loss, and frequently unrecognised), congenital rubella, mumps, measles, and BACTERIAL MENINGITIS (which causes hearing loss in a significant minority of survivors — hence the requirement for audiological assessment after meningitis).** Cross-refer [[D1]] 0.5.
-> **· Trauma, autoimmune inner ear disease, and genetic causes.**
-
-> [!danger] Asymmetry is the red flag
-> **UNILATERAL OR ASYMMETRIC SENSORINEURAL HEARING LOSS, with or without tinnitus and imbalance, requires an MRI TO EXCLUDE A VESTIBULAR SCHWANNOMA.**
-> **Presbycusis and noise damage are SYMMETRICAL. Asymmetry demands an explanation.**
-> **Vestibular schwannomas grow slowly at the cerebellopontine angle, producing progressive unilateral hearing loss, tinnitus and unsteadiness — and later, facial numbness (trigeminal), facial weakness, and brainstem compression.** **Early detection permits smaller, safer intervention.**
-
-> [!warning] Hearing loss is a modifiable risk factor for dementia
-> **Untreated hearing loss in mid and later life is one of the largest identified MODIFIABLE risk factors for dementia, and it is independently associated with social isolation, depression, falls and reduced quality of life.**
-> **Hearing aids remain substantially UNDER-USED — because of cost, stigma, the perception that hearing loss is a normal and unimportant part of ageing, and clinicians not asking.**
-> **THE PRACTICAL POINT: treating hearing loss is not a quality-of-life extra; it is a cognitive and social intervention.** **Ask about hearing in older patients, examine for wax, refer for audiology, and encourage hearing aid use rather than accepting "I manage".** Cross-refer [[D2]] 0.3 and [[GER1]] 0.5.
-
----
-
-## 0.5 Sudden Sensorineural Hearing Loss and Tinnitus
-
-> [!danger] Sudden sensorineural hearing loss is an ENT emergency
-> **RAPID-ONSET (over hours to a few days) sensorineural hearing loss, usually UNILATERAL, often noticed on waking or when using a phone on that side, frequently with tinnitus and a sense of fullness, and sometimes with vertigo.**
-> **TREATMENT IS TIME-CRITICAL: CORTICOSTEROIDS — oral, intratympanic, or both — and the probability of recovery falls with delay. DAYS MATTER.**
-> **THE TRAP — AND IT IS COMMON: IT IS REPEATEDLY MISDIAGNOSED AS WAX, "GLUE EAR" OR A BLOCKED EUSTACHIAN TUBE, and treated with drops, decongestants or reassurance while the treatment window closes.**
-> **THE THING THAT PREVENTS THIS IS THIRTY SECONDS WITH A TUNING FORK:**
-> **· If the WEBER LATERALISES AWAY from the blocked-feeling ear, the loss is SENSORINEURAL — this is an emergency.**
-> **· If it lateralises TOWARDS it, the loss is conductive — wax, effusion, perforation.**
-> **DO THE TUNING FORK TESTS ON EVERY PATIENT PRESENTING WITH SUDDEN HEARING LOSS OR A BLOCKED EAR WITH A NORMAL-LOOKING DRUM.**
-> **All patients need URGENT ENT referral, audiometry, and an MRI to exclude a vestibular schwannoma — since a small proportion of sudden losses are the presenting feature of one.**
-> `UNVERIFIED — the definition, the steroid regimen, and the treatment window.`
-
-> [!warning] Tinnitus — and the two red flags
-> **Most tinnitus is subjective, bilateral, and associated with hearing loss — reflecting central compensation for reduced auditory input rather than a disease in itself.**
-> **THE TWO PATTERNS THAT REQUIRE INVESTIGATION:**
-> **1. PULSATILE TINNITUS — a rhythmic whooshing synchronous with the pulse.** **This is VASCULAR until proven otherwise: dural arteriovenous fistula · carotid stenosis or DISSECTION · glomus tumour (paraganglioma, which may be visible as a red mass behind the drum) · IDIOPATHIC INTRACRANIAL HYPERTENSION (check the fundi for papilloedema and ask about headache and visual obscurations) · and a high-riding jugular bulb.** **It warrants imaging.** Cross-refer [[D1]] 0.3.
-> **2. UNILATERAL tinnitus with ASYMMETRIC hearing loss → MRI for vestibular schwannoma.**
-> **Also ask about OTOTOXIC drugs, noise exposure, and whether it is objective (audible to the examiner — palatal myoclonus, vascular bruit).**
-
-> [!tip] Managing chronic tinnitus
-> **· Treat any identifiable cause — wax, effusion, ototoxic drug, hearing loss.**
-> **· HEARING AIDS often help substantially, because amplifying ambient sound reduces the prominence of the tinnitus.**
-> **· SOUND THERAPY and environmental enrichment (background sound, particularly at night when silence makes it intrusive).**
-> **· COGNITIVE BEHAVIOURAL THERAPY has the best evidence for reducing tinnitus-related DISTRESS — the aim is reducing the impact and the attention paid to it, rather than abolishing the sound.**
-> **· EXPLAIN THE MECHANISM — that it reflects the brain's response to reduced input rather than damage that is ongoing — because fear of progression and of a sinister cause drives much of the distress.**
-> **· SCREEN FOR DEPRESSION, ANXIETY AND INSOMNIA, which are common, treatable, and amplify the symptom.** **Severe tinnitus is genuinely disabling and has been associated with suicide — do not dismiss it.**
-> **· Avoid reinforcing hypervigilance with repeated investigation once a cause has been excluded.**
-
----
-
-## 0.6 Vertigo, Trauma and Foreign Bodies
-
-> [!tip] The peripheral (ear) causes of vertigo
-> **The critical central-versus-peripheral distinction and the HINTS examination are in [[D3]] 0.5. The ear causes:**
-> **· BENIGN PAROXYSMAL POSITIONAL VERTIGO — brief (seconds) vertigo triggered by head POSITION change, diagnosed with the DIX-HALLPIKE manoeuvre and treated with the EPLEY repositioning manoeuvre, which is highly effective and can be done at the bedside.** **No hearing loss.**
-> **· VESTIBULAR NEURITIS — acute, severe, continuous vertigo lasting days, with nausea and vomiting, WITHOUT hearing loss.**
-> **· LABYRINTHITIS — the same picture WITH hearing loss.** **That single difference distinguishes them.**
-> **· MÉNIÈRE DISEASE — the tetrad: EPISODIC vertigo lasting MINUTES TO HOURS (not seconds, not days) · FLUCTUATING sensorineural hearing loss (low frequency initially) · TINNITUS · and AURAL FULLNESS.** **The duration of the vertigo is the most useful discriminator from BPPV (seconds) and vestibular neuritis (days).** Managed with salt restriction, diuretics, betahistine and intratympanic therapy. `UNVERIFIED — diagnostic criteria and treatment.`
-> **· Cholesteatoma with a labyrinthine fistula, and perilymph fistula (vertigo on straining, sneezing or loud noise).**
-
-> [!warning] Ear trauma
-> **· TEMPORAL BONE FRACTURE — suspect with haemotympanum, blood in the canal, CSF OTORRHOEA, BATTLE SIGN (post-auricular bruising, appearing after some delay), facial nerve palsy and hearing loss.** **A facial palsy that is IMMEDIATE after trauma suggests nerve transection and warrants urgent ENT involvement; a DELAYED palsy is more likely oedema and has a better prognosis.** Cross-refer [[L8]] 0.2 and [[F0.5]] 0.7.
-> **· TRAUMATIC PERFORATION — from a slap, blast, or an instrument in the ear.** **MOST HEAL SPONTANEOUSLY. Keep the ear COMPLETELY DRY, do not use drops unless there is infection, do NOT syringe, and review.**
-> **· BAROTRAUMA — flying or diving with Eustachian dysfunction.**
-> **· AURICULAR HAEMATOMA — a collection between cartilage and perichondrium after blunt injury (classically in rugby, wrestling and boxing).** **It must be DRAINED PROMPTLY, because pressure devascularises the cartilage and produces a permanent "CAULIFLOWER EAR". It also needs a pressure dressing and review, because it re-accumulates.**
-> **· ACOUSTIC TRAUMA from blast or sudden loud noise.**
-
-> [!danger] Foreign bodies — and the one that cannot wait
-> **· ONE CAREFUL ATTEMPT, with the right instrument, good light and a cooperative patient.** **REPEATED ATTEMPTS CAUSE CANAL OEDEMA, BLEEDING, TRAUMA AND PUSH THE OBJECT DEEPER — converting a simple problem into one requiring a general anaesthetic.** **Know when to stop and refer.**
-> **· INSECTS — KILL THEM FIRST with mineral oil or lignocaine before attempting removal.** A live insect moving in the canal is distressing and painful, and it will not be removed cooperatively.
-> **· A BUTTON BATTERY IN THE EAR IS AN EMERGENCY.** **It causes liquefactive necrosis of the canal, drum and middle ear structures within HOURS, with permanent damage.** **It requires IMMEDIATE removal — the same urgency as a button battery in the oesophagus.** Cross-refer [[F3]].
-> **· Organic material (seeds, food) SWELLS with moisture — so do not irrigate it.**
-> **· Children may present late, with unilateral foul discharge as the only sign.**
-
-> [!tip] Wax, and the cotton bud conversation
-> **· Wax is normal, protective, and self-clearing in most people. It requires removal only if it causes symptoms or obstructs examination.**
-> **· SOFTENING drops for several days, then MICROSUCTION (safest and preferred) or irrigation.**
-> **· IRRIGATION IS CONTRAINDICATED with a known or suspected PERFORATION, grommets in situ, previous ear surgery, active infection, or in an ONLY HEARING EAR.** **Asking those questions before syringing prevents a serious and avoidable complication.**
-> **· AND TELL PEOPLE TO STOP USING COTTON BUDS.** They push wax inward and impact it, abrade the canal skin, and are a leading cause of otitis externa and traumatic perforation. **"Nothing smaller than your elbow in your ear" remains the correct advice.**
-
-**Ix:** **OTOSCOPY INCLUDING THE ATTIC (pars flaccida), in both ears** (*why:* cholesteatoma hides there and is missed by examining only the pars tensa; *what:* retraction, crust, perforation). **RINNE AND WEBER with a 512 Hz fork — interpreted together** (*why:* thirty seconds separates a conductive problem from an emergency sensorineural loss, and the false negative Rinne is resolved only by doing both; *what:* the pattern of loss). **PURE TONE AUDIOMETRY and TYMPANOMETRY** (*why:* quantifies and characterises the loss, and confirms middle ear effusion; *what:* the audiogram and compliance trace). **URGENT ENT REFERRAL AND MRI FOR SUDDEN SENSORINEURAL HEARING LOSS** (*why:* steroid treatment is time-critical and outcomes fall with delay, and a proportion have a vestibular schwannoma; *what:* treatment within the window, and the schwannoma). **MRI FOR ASYMMETRIC SENSORINEURAL LOSS, UNILATERAL TINNITUS, OR UNILATERAL VESTIBULAR SYMPTOMS** (*why:* asymmetry demands an explanation; *what:* cerebellopontine angle lesion). **IMAGING FOR PULSATILE TINNITUS** (*why:* vascular causes including dissection, fistula and raised intracranial pressure; *what:* the vascular lesion). **Inflammatory markers, glucose or HbA1c, and CT or MRI in suspected necrotising otitis externa** (*why:* skull base osteomyelitis in a diabetic patient; *what:* bone involvement). **NASENDOSCOPY VIA URGENT ENT REFERRAL for persistent unilateral otalgia with a normal ear** (*why:* referred pain may be the only symptom of a head and neck cancer; *what:* the primary tumour). **Audiological assessment after bacterial meningitis** (*why:* sensorineural loss is a common sequela and early detection permits early intervention; *what:* hearing loss).
-
----
-
-> [!note] Cross-references
-> Vertigo, HINTS and central causes → [[D3]] 0.5 · Facial nerve palsy and Ramsay Hunt → [[D5]] · Meningitis and hearing sequelae → [[D1]] 0.5 · Idiopathic intracranial hypertension → [[D1]] 0.3 · Nose, sinus and epistaxis → [[F2]] · Sore throat, hoarseness and head and neck cancer → [[F3]] · Neck lumps and facial pain → [[F4]] · Temporal bone fracture and head injury → [[L8]] 0.2 and [[F0.5]] 0.7 · Delirium and sensory impairment → [[D2]] 0.2 · Dementia and modifiable risk factors → [[D2]] 0.3 and [[GER1]] 0.5 · Otitis media and hearing loss in Aboriginal and Torres Strait Islander children → [[AU1]] 0.4 · Developmental surveillance and hearing → [[M4]] 0.5 · Behavioural presentations of hearing loss → [[M7]] 0.6 · Occupational noise exposure → [[RESP-X]] 0.2 and [[GER3]] · Button battery ingestion → [[F3]]
 
 
 <!-- ===== SOURCE: F2_Nose_and_Sinus.md ===== -->
@@ -1206,6 +806,175 @@
 
 > [!note] Cross-references
 > Ear examination, glue ear and unilateral effusion → [[F1]] 0.1, 0.3 · Sore throat, hoarseness and head and neck cancer → [[F3]] · Neck lumps and nasopharyngeal carcinoma → [[F4]] · Orbital versus preseptal cellulitis → [[M2]] 0.4 and [[E3]] · Anticoagulant reversal → [[A9]] 0.4 · Hereditary haemorrhagic telangiectasia → [[J3]] 0.2 · Aspirin-exacerbated respiratory disease and allergy testing → [[K4]] 0.3–0.4 · Asthma and the united airway → [[F0.5]] 0.1 · Cystic fibrosis and bronchiectasis → [[RESP-X]] 0.4 · Granulomatosis with polyangiitis and septal perforation → [[L2]] 0.5 · Invasive fungal disease in DKA and immunosuppression → [[F0.2]] 0.3 and [[K3]] 0.5 · CSF leak and base of skull fracture → [[F0.5]] 0.7 and [[L8]] 0.2 · Choanal atresia and the neonate → [[M3]] 0.2 · Adenoids and paediatric sleep-disordered breathing → [[N7]] 0.6 · Anosmia in Parkinson disease → [[D6]] 0.5 · Kallmann syndrome → [[O4]] 0.4
+
+
+<!-- ===== SOURCE: 13_05a_ENT_-_Sore_Throat_and_Tonsillitis.md ===== -->
+
+
+## Sore throat (pharyngitis, tonsillitis, laryngitis)
+
+- **D:** infection of the throat structures.
+
+> [!info] Centor criteria — to determine which patients likely have bacterial infections and would therefore benefit from antibiotics
+> - Presence of tonsillar exudate.
+> - Tender anterior cervical lymphadenopathy or lymphadenitis.
+> - History of fever.
+> - Absence of cough.
+>
+> Score 0–2: 3–17% likely bacterial. Score 3–4: 32–56% likely bacterial. If all 4 are absent, negative predictive value is 80%.
+
+> [!info] FeverPAIN criteria — similar to Centor criteria, used to identify patients likely to have Strep pharyngitis
+> - Fever >38°C.
+> - Purulence (pharyngeal/tonsillar).
+> - Attend rapidly (≤3 days).
+> - Inflamed tonsils (severe).
+> - No cough or coryza.
+>
+> Score 2–3: 34–40% likely. Score 4–5: 62–65% likely.
+
+> [!danger] A genuinely important Australian-specific caveat, not a simple "verify locally" note: **Centor and FeverPAIN were both developed and validated in low-rheumatic-fever-risk populations, and neither score should be applied uncritically in patients at high risk of acute rheumatic fever (ARF)** — specifically Aboriginal and Torres Strait Islander people, particularly in rural and remote northern/central Australia, where ARF and rheumatic heart disease occur at some of the highest documented rates in the world. These scores estimate the probability of *bacterial* pharyngitis to guide antibiotic benefit generally — they were never designed to estimate *rheumatic fever risk specifically*, and a patient can score "low risk" on Centor/FeverPAIN while still needing antibiotic treatment to prevent a first or recurrent episode of ARF. **Current Australian guidance (e.g. RCH Melbourne) identifies high-ARF-risk patients as a distinct management pathway** with a substantially lower threshold for treating suspected GAS pharyngitis — check the current Australian guideline for the prevention, diagnosis, and management of ARF/RHD for the specific approach in a patient from a high-risk population, rather than applying the general-population scores below as if they were universally applicable.
+
+### Management
+
+- Symptomatic relief: ibuprofen ± paracetamol for fever & pain. Consider mouthwash or spray.
+- **Antibiotics only indicated if:**
+  - Centor / FeverPAIN positive (**or the patient is at high risk of ARF, per the caveat above — treat this as an independent indication, not merely a modifier of the score**).
+  - Features of marked systemic upset secondary to acute sore throat.
+  - Unilateral peritonsillitis.
+  - History of rheumatic fever.
+  - Increased risk of acute infection.
+- If antibiotics indicated, use phenoxymethylpenicillin (penicillin V) or clarithromycin, 7–10 day course.
+
+> [!danger] Avoid amoxicillin — causes a rash if the pharyngitis is caused by EBV (infectious mononucleosis).
+
+> [!warning] If the patient is on DMARDs or carbimazole, check FBC urgently (risk of drug-induced neutropenia/agranulocytosis being mistaken for or compounded by infection).
+
+### DDx of unilateral tonsillar enlargement
+
+- Peritonsillar abscess.
+- Malignancy (perform excision biopsy to rule out).
+
+### Complications of tonsillitis
+
+- Otitis media; sinusitis.
+- **Peritonsillar abscess (quinsy):** sore throat, dysphagia, peritonsillar bulge, uvular deviation, trismus (lockjaw), muffled voice. Mx: antibiotics, aspiration.
+- **Parapharyngeal abscess:** diffuse swelling in the neck, dysphagia, head turned towards the side of the abscess. Mx: CT/US, IV antibiotics, incision & drainage under general anaesthesia.
+- **Lemierre syndrome:** acute septicaemia and jugular vein thrombosis secondary to infection with *Fusobacterium* + septic embolism.
+
+- **P:** if uncomplicated, symptoms resolve in 40% within 3 days, and within 1 week in 85%.
+
+### Tonsillectomy
+
+> [!info] Indications — only done if recurrent sore throats are due to tonsillitis, and these episodes are disabling:
+> - ≥7 well-documented, clinically significant, adequately treated sore throats in the preceding year.
+> - ≥5 episodes in each of the last 2 years.
+> - ≥3 episodes in each of the last 3 years.
+>
+> Other indications: children with obstructive sleep apnoea; suspicion of malignancy.
+
+- **Complications:**
+  - **1° haemorrhage (<24h):** return to theatre ASAP.
+  - **2° haemorrhage (>24h):** secondary to infection of the tonsillar fossae; an ENT emergency. ABCDE, resuscitation ± theatre. If bleeding stops, admit for hydrogen peroxide gargles and IV antibiotics.
+
+*(See [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Scarlet fever for the full entry.)*
+
+
+<!-- ===== SOURCE: 13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA.md ===== -->
+
+
+## Stridor — overview
+
+> [!info] Stridor = inspiratory high-pitched noise on inspiration, secondary to partial obstruction at the larynx or a large airway.
+> Stertor = inspiratory snoring noise secondary to obstruction of the pharynx.
+
+> [!info] Causes of stridor
+> - **Congenital:** laryngomalacia, web/stenosis, vascular rings.
+> - **Inflammation:** laryngitis, epiglottitis, croup, anaphylaxis.
+> - **Tumours:** haemangiomas, laryngeal papilloma (HPV-related).
+> - **Trauma:** thermal, chemical, intubation-related.
+
+## Croup (laryngo-tracheo-bronchitis)
+
+- **E:** age 6 months to 6 years, autumn, possibly M>F.
+- **A:** usually parainfluenza viruses.
+
+> [!info] Severity assessment
+
+| Feature | Mild | Moderate | Severe |
+|---|---|---|---|
+| Barking cough | Occasional | Frequent | Frequent |
+| Stridor at rest | None | Easily audible | Prominent |
+| Chest wall recession | None or mild | Present at rest | Marked |
+| General behaviour | Happy, eating & drinking, playing | Can be placated, interested in surroundings | Significant distress, lethargic or restless |
+
+- **Ix:** clinical — imaging is not required to diagnose croup. Where a CXR is taken for another reason, the PA view may show the **"steeple sign"** (subglottic narrowing). Carried here by the G23 round (2026-08-29): this entry owns croup and did not mention the sign, while the epiglottitis entry below correctly warns that the steeple sign belongs to croup rather than epiglottitis — the caveat existed without the fact it refers to.
+- **Mx:**
+  - Admit any child with moderate to severe croup, or if <6 months old, known airway abnormality, or uncertainty about diagnosis.
+  - Regardless of severity, single dose of PO dexamethasone (0.15mg/kg) — alternative: prednisolone (1mg/kg).
+
+> [!info] Verified against RCH Melbourne, NSW ACI, and Queensland Children's Health croup guidelines, Aug 2026 — **0.15mg/kg dexamethasone is confirmed correct, current Australian practice** for mild-to-moderate croup, not a UK-specific figure needing correction; some Australian protocols (e.g. Queensland) specifically reserve the higher 0.6mg/kg dose for severe/life-threatening croup, so the "regardless of severity" framing here is a reasonable simplification but a severity-scaled approach also exists in AU practice if precision is needed for a specific case.
+  - Emergency treatment: high flow O2; nebulised adrenaline.
+
+## Acute epiglottitis
+
+- **D:** infection of the supraglottis with the potential to cause airway compromise.
+- **A:** *Haemophilus influenzae* type B most common, but also *Strep pneumoniae*, *S. aureus*, MRSA. Less commonly viral, fungal, traumatic.
+- **P:** inflammatory pathways lead to localised oedema of the airway → ↑airway resistance.
+- **S/Smx:** rapid onset; high temperature, generally unwell; stridor; drooling saliva; "tripod" position — patient finds it easier to breathe leaning forward.
+- **Dx:** only by airway-trained staff — direct visualisation. XR lateral view may show a "thumb sign"; PA view may show a "steeple sign" (note: the steeple sign is classically described for croup, not epiglottitis).
+
+> [!danger] If suspected, DO NOT examine the throat or distress the patient — risk of precipitating complete airway obstruction.
+
+- **Mx:** O2 + keep the patient upright. Immediate senior involvement (ENT, anaesthetics) — endotracheal intubation may be needed. **IV antibiotics — a third-generation cephalosporin (cefotaxime or ceftriaxone)**, carried here from [[15_04a_Paeds_-_URTI_and_LRTI]] Acute epiglottitis during the pairs audit (2026-08-29), where it was the only one of the corpus's three epiglottitis entries to name the drug at all.
+
+> [!note] **Three entries cover acute epiglottitis and none referenced any other.** This is the fullest and owns the clinical detail; [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Acute epiglottitis covers it in the bacterial-infection context and [[15_04a_Paeds_-_URTI_and_LRTI]] Acute epiglottitis in the paediatric URTI context. All three agree on organism, presentation, the thumb sign and the do-not-examine-the-throat rule; only the antibiotic was in one place.
+
+## Foreign body airway obstruction (choking)
+
+> [!note] Gap-filled from CSV ("Upper airway obstruction," Medium yield) — genuinely absent as its own entry despite being one of the classic causes of acute upper airway obstruction, particularly in young children, and despite the closely-related oesophageal/ear foreign body content already built in [[13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology]] and [[13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_]].
+
+- **A/P:** an inhaled foreign object lodging in the larynx, trachea, or a bronchus — genuinely most common in young children (toddlers exploring objects orally, classically small toys, coins, and **foods that are round/firm and roughly airway-sized, e.g. whole grapes, nuts, hard lollies/sweets** — a specific, well-known choking-hazard food list worth knowing given how directly parent counselling connects to it) and in adults with impaired swallowing or reduced consciousness (e.g. intoxication, food bolus in the elderly).
+- **S/Smx — severity determines the whole approach, and should be assessed immediately:**
+  - **Mild/partial obstruction (effective cough):** patient is able to speak, cry, or cough forcefully; conscious and responsive.
+  - **Severe/complete obstruction (ineffective cough):** unable to speak, cry, or breathe; silent or weakening cough; cyanosis; loss of consciousness if not urgently relieved — this is the presentation demanding immediate physical intervention, not further assessment or observation.
+- **Ix:** this is a clinical diagnosis requiring immediate action in the severe/complete obstruction scenario — **do not delay intervention to obtain imaging**; once the acute obstruction is relieved (or in a stable partial-obstruction presentation with an unclear history), a CXR can help localise a radio-opaque foreign body or show indirect signs (e.g. unilateral hyperinflation from air-trapping distal to a bronchial foreign body), though many aspirated foreign bodies (food, most plastic toys) are radiolucent and won't be directly visible.
+- **Mx:**
+  - **Mild/partial obstruction:** encourage the patient to continue coughing — this is usually the most effective way to clear the obstruction; do not perform back blows/abdominal thrusts on an effectively coughing patient, given this can convert a partial obstruction into a complete one; monitor closely and escalate immediately if the cough becomes ineffective or the patient deteriorates.
+  - **Severe/complete obstruction, conscious patient:** **5 back blows** (firm blows between the shoulder blades with the heel of the hand) followed by **5 abdominal thrusts** (Heimlich manoeuvre — standing behind the patient, hands clasped above the umbilicus, sharp inward-and-upward thrusts) if back blows are unsuccessful; alternate between the two, reassessing after each set, until the obstruction clears or the patient loses consciousness. **In infants (<1 year old), abdominal thrusts are avoided given the risk of intra-abdominal organ injury** — use back blows and **chest thrusts** instead (two fingers on the lower sternum, similar hand position to infant CPR compressions).
+  - **Unconscious patient:** start CPR (chest compressions, per standard basic life support — see [[01_Cardiovascular]] 0.5 Advanced Life Support (Adult) for the general resuscitation framework this fits into, not repeated here) — chest compressions themselves can help dislodge/expel the foreign body, in addition to their primary circulatory purpose; check the mouth for a visible object before each set of rescue breaths, but **do not perform blind finger sweeps**, given this risks pushing the object further into the airway.
+  - **Definitive:** if the obstruction cannot be cleared by the above measures and the patient is deteriorating, urgent laryngoscopy/bronchoscopy (rigid bronchoscopy is often preferred for foreign body retrieval given better instrumentation access) under direct vision for object removal — a genuine airway emergency requiring immediate senior anaesthetic/ENT involvement, following the same "call for help early" principle as [[Examination]] ABCDE Assessment (Acutely Unwell / Deteriorating Patient), not repeated here. A surgical airway (cricothyroidotomy) is a last-resort option if the obstruction is complete and cannot be relieved by any of the above and standard intubation isn't possible.
+- **Complications:** hypoxic brain injury or death if not relieved promptly; aspiration pneumonia or a retained bronchial foreign body causing recurrent/chronic respiratory symptoms if a partial bronchial obstruction goes unrecognised (a genuinely important differential for unexplained recurrent unilateral chest signs or "asthma that isn't responding to treatment" in a young child with a plausible choking history, even if remote).
+
+## Laryngomalacia
+
+- **A/w:** GORD (50%), neurological abnormality (up to 20%), M>F (2×), genetic syndromic disorders (e.g. Down syndrome).
+
+> [!info] Gap-filled — genuinely absent: laryngomalacia's classic positional variation (worse supine, improved prone) wasn't mentioned at all, despite being one of its most distinctive and practically useful features. **Mechanism:** laryngomalacia reflects abnormally soft, immature supraglottic cartilage (particularly a floppy, often omega-shaped epiglottis, and short aryepiglottic folds) — during inspiration, the negative intrathoracic/intraluminal pressure generated by normal breathing pulls these floppy structures inward, causing dynamic, inspiratory collapse and the characteristic stridor. **Positioning genuinely changes the severity, not just the sound**: lying **supine** allows gravity to pull these already-floppy structures further posteriorly, into the airway, worsening the dynamic collapse and stridor. Lying **prone**, or extending the neck, allows gravity to instead pull the structures away from the airway, reducing obstruction and improving symptoms. This is why stridor is classically worse when feeding or crying (both increase inspiratory effort/negative pressure) and worse when supine, and why simple positioning advice (avoiding prolonged supine positioning while awake and supervised, prone positioning during supervised awake time) is a genuinely practical, low-risk first-line measure for mild cases — not just a theoretical point, but something that can meaningfully reduce symptom severity while awaiting the natural resolution most infants experience.
+
+- **S/Smx:** onset within 2–4 weeks of birth, resolution by age 2. Normal cry (differentiates from vocal cord palsy or laryngeal webs).
+- **Ix:** flexible laryngoscopy.
+- **Mx:** watch and wait if mild. If moderate (stridor, ↑work of breathing, etc) — watch and wait or surgery. Severe (10–15%) — endoscopic supraglottoplasty.
+- **P:** 85% spontaneously improve by 12–24 months.
+
+## Primary (simple) snoring
+
+> [!note] Gap-filled from CSV ("Snoring," Low yield) — genuinely distinct from OSA below, given the key clinical task with a snoring presentation is distinguishing benign primary snoring from OSA, not assuming every snorer needs a sleep study.
+
+- **D:** snoring without the episodic apnoea, significant oxygen desaturation, or daytime consequences that define OSA below — vibration of the soft palate/pharyngeal tissues during sleep from partial airway narrowing, without the complete/near-complete obstruction and arousal pattern of OSA.
+- **A/P:** similar contributing factors to OSA (nasal obstruction, obesity, alcohol/sedative use, supine sleeping position, large tonsils/adenoids in children) but without progressing to significant airway collapse.
+- **S/Smx:** snoring reported by a bed partner/family, **without** the OSA-specific features below (witnessed apnoeic episodes, gasping/choking arousals, significant daytime somnolence) — the presence or absence of these specific OSA features is the key discriminator on history, given snoring itself is extremely common and often benign.
+- **Ix:** primarily a clinical history-based distinction from OSA — screening questionnaires (e.g. the Epworth Sleepiness Scale used for OSA below) can help identify whether daytime symptoms suggest something beyond simple snoring; formal polysomnography is reserved for cases where the history raises genuine concern for OSA rather than ordered routinely for straightforward snoring.
+- **Mx:** reassurance is often appropriate once OSA has been reasonably excluded on history; conservative measures shared with OSA management below (weight loss if relevant, reducing alcohol/sedative use before bed, avoiding the supine sleeping position, treating nasal obstruction if present) — the same lifestyle measures, without the CPAP/device escalation reserved for confirmed OSA.
+
+## Obstructive sleep apnoea (OSA)
+
+- **D:** episodic partial or complete airway obstruction during sleep.
+- **R:** obesity, M>F, post-menopause, chronic snoring, macroglossia (e.g. hypothyroidism), large tonsils, etc.
+- **S/Smx:** daytime somnolence; partner may notice episodes of apnoea, gasping, restless sleeping; compensated respiratory acidosis.
+- **Ix/Dx:** Epworth Sleepiness Scale (questionnaire for patient ± partner); Multiple Sleep Latency Test (measures time to fall asleep in a dark room); polysomnography.
+- **Mx:** weight loss; CPAP (for moderate to severe OSA); intra-oral devices (e.g. mandibular advancement) if CPAP not tolerated, or for mild symptoms.
+
+> [!warning] Verified against Austroads' Assessing Fitness to Drive (2022 edition) — the Australian standard, not the UK's DVLA (which the source material's original wording assumed). Untreated OSA with significant excessive daytime sleepiness is incompatible with holding an unconditional licence in Australia; report per the state driver licensing authority's requirements (responsibility rests with the individual to report, but the treating doctor has an ethical/professional obligation to advise on this and may need to notify authorities directly if the patient poses a significant ongoing risk and doesn't self-report) — advise the patient not to drive until effectively treated (e.g. demonstrated CPAP compliance, defined as ≥4h/night on ≥70% of nights) and daytime sleepiness has resolved.
 
 
 <!-- ===== SOURCE: F3_Throat__Voice_and_Oral.md ===== -->
@@ -1406,6 +1175,189 @@
 > Airway obstruction and epiglottitis → [[A2]] 0.3 · Ear examination and referred otalgia → [[F1]] 0.2 · Nose, sinus and nasopharyngeal carcinoma → [[F2]] 0.5 · Neck lumps and head and neck cancer → [[F4]] · Oesophageal dysphagia and food bolus obstruction → [[C6]] 0.1 · Anaphylaxis, angioedema and drug allergy labelling → [[K4]] 0.1, 0.3 · Agranulocytosis and febrile neutropenia → [[I1]] 0.3, [[N3]] 0.6 and [[K1]] 0.5 · HIV and oral markers → [[K3]] 0.5 · Acute rheumatic fever and streptococcal disease → [[F0.5]] 0.10, [[K2]] 0.6 and [[AU1]] 0.4 · Post-streptococcal glomerulonephritis → [[H1]] 0.3 · Glandular fever rash and penicillin labelling → [[G1]] 0.4 · Oral lichen planus and pemphigus → [[G4]] 0.3 and [[G2]] 0.2 · Sjögren syndrome and lymphoma risk → [[L2]] 0.4 · Coeliac disease and aphthous ulceration → [[C5]] 0.4 · Bulbar dysfunction in MND and myasthenia → [[D4]] 0.3 · Inhaled corticosteroid technique → [[F0.5]] 0.1 · Feeding decisions in advanced dementia → [[GER2]] 0.3, 0.5 and [[D2]] 0.3 · Osteonecrosis of the jaw and bone protection → [[GER1]] 0.6 and [[J4]] 0.2 · Dental trauma → [[L8]] 0.2 · Oral health access and equity → [[AU1]] 0.1
 
 
+<!-- ===== SOURCE: 13_06a_ENT_-_Dysphonia_and_HNSCC.md ===== -->
+
+
+## Dysphonia (hoarseness)
+
+- **D:** hoarseness = difficulty producing sound, with a change in voice pitch or quality.
+
+> [!danger] Laryngeal cancer — investigate all hoarseness >6 weeks. Hoarseness is the chief (and often only) presenting symptom of laryngeal carcinoma, especially in smokers.
+
+### Causes
+
+- **Vocal cord palsy:** weak, breathy voice. Often due to cancer — **the single most important step is finding the underlying cause of the nerve palsy, not just describing the voice change**, given vocal cord palsy is frequently the presenting sign of a malignancy (laryngeal, thyroid, or a lung cancer compressing the recurrent laryngeal nerve — the left recurrent laryngeal nerve's longer intrathoracic course under the aortic arch makes it more vulnerable to compression by a mediastinal/lung mass than the right, a classically-tested asymmetry) — other causes include prior thyroid/neck/thoracic surgery (iatrogenic nerve injury), idiopathic, and rarely a brainstem lesion (with other cranial nerve involvement). **Ix:** nasendoscopy/laryngoscopy to directly visualise cord movement and confirm the palsy; CT neck and chest to trace the recurrent laryngeal nerve's course and identify a compressive or infiltrative cause, given the nerve's long path means the causative lesion can be anywhere from the skull base to the chest. **Mx:** treat the underlying cause where identified (e.g. oncological management if malignant); speech and language therapy can improve voice quality and swallowing safety regardless of cause; surgical options (e.g. medialisation thyroplasty, injection augmentation) for persistent, symptomatic unilateral palsy not expected to recover, particularly if aspiration risk or significant voice impairment persists.
+- **Laryngitis:** usually viral, occasionally bacterial. Can be secondary to GORD or autoimmune disease (e.g. RA). Mx: supportive ± antibiotics if indicated.
+- **Reinke's oedema:** chronic cord irritation from smoking ± voice abuse → gelatinous fusiform enlargement of the cords. Mx: conservative (stop smoking), laser therapy.
+- **Vocal cord nodules:** secondary to vocal cord abuse, usually. Fibrous nodules (often bilateral) form at the junction of the anterior 1/3 and posterior 2/3 of the cords. Mx: speech therapy or surgical excision.
+- **Disorders of speech articulation:** spasmodic dysphonia (analogous to "blepharospasm" of the vocal cords) — Mx: botulinum toxin injection into the affected laryngeal muscles, the mainstay treatment given it directly addresses the focal dystonia mechanism, analogous to its use in blepharospasm; muscle tension dysphonia (a functional disorder) — Mx: voice therapy/speech and language therapy, given this addresses the underlying muscular tension pattern rather than a structural lesion; children with functional speech disorders (difficulty pronouncing certain sounds) — Mx: paediatric speech and language therapy.
+
+## Head and neck squamous cell carcinoma (HNSCC)
+
+> [!note] See [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Cancer Outcomes in Aboriginal and Torres Strait Islander Australians — HNSCC is specifically named there as one of the cancer types with the largest survival disparity, making the red-flag awareness below even more clinically important, not repeated here.
+
+- **D:** umbrella term including oral cavity cancers, cancers of the pharynx, and cancers of the larynx. 90% are SCC.
+- **R:** >80% occur in patients >50 years old. Associated with smoking (10× risk), HPV (70% of oropharyngeal cancers), increased alcohol use, vitamin A & C deficiency, nitrosamines in salted fish, GORD, deprivation.
+
+> [!danger] Red flag symptoms/signs
+> - Neck pain/lump.
+> - Hoarse voice >6 weeks.
+> - Sore throat >6 weeks.
+> - Mouth bleeding; numbness.
+> - Sore tongue; painless ulcers; patches in the mouth.
+> - Earache/effusion.
+> - Lumps (lip, mouth, gum).
+> - Speech change; dysphagia.
+
+- **Ix/Dx:** refer urgently to ENT. Endoscopy, FNA/biopsy, CT/MRI, etc.
+- **Mx:** surgery, chemo/radiotherapy.
+
+### HPV-related cancer (HPV 16)
+
+- Linked to cancer of the tongue, tonsil, and pharynx.
+- Most commonly transmitted during oral sex.
+- Occurs in younger people, with a better prognosis (compared to smoking-related HNSCC).
+- Vaccination may reduce risk.
+
+
+<!-- ===== SOURCE: 13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology.md ===== -->
+
+
+## 0.1 Dysphagia — approach
+
+> [!note] Persistent dysphagia is itself a red-flag symptom for head and neck cancer — see [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) for the full red-flag list this presentation should always be screened against, not repeated here.
+
+- **D:** difficulty swallowing. Odynophagia = painful swallowing.
+
+> [!tip] Useful screening questions
+> - "Can fluids be drunk as normal?" — YES suggests a stricture; NO suggests a motility disorder.
+> - "Is it difficult to make the swallowing movement?" — YES suggests bulbar palsy (especially if the patient coughs on swallowing).
+> - "Is the dysphagia constant and painful?" — YES suggests a malignant stricture.
+> - "Does the neck bulge or gurgle on drinking?" — YES suggests a pharyngeal pouch.
+
+> [!info] Causes of dysphagia
+> - **Malignant:** oesophageal cancer, pharyngeal cancer, gastric cancer, extrinsic pressure (e.g. from lung cancer or node enlargement).
+> - **Neurological:** bulbar palsy, lateral medullary syndrome, myasthenia gravis, syringomyelia.
+> - **Others:** benign stricture, pharyngeal pouch, achalasia, systemic sclerosis, oesophagitis, iron deficiency anaemia.
+
+- **Ix:** bloods (FBC, ESR), CXR, barium swallow, endoscopy + biopsy, oesophageal motility studies.
+
+## 0.2 Benign oesophageal stricture
+
+- **A:** reflux, swallowing corrosives, foreign body, trauma.
+- **Mx:** dilatation.
+
+> [!note] **Moved to `[[GI_merged]]` on 2026-09-01:** `0.3 Barrett's oesophagus` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+> [!note] **Moved to `[[GI_merged]]` on 2026-09-01:** `0.4 Oesophageal carcinoma` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## 0.5 Pharyngeal pouch (Zenker's diverticulum)
+
+- **D:** a posteromedial diverticulum through Killian's dehiscence.
+- **R:** ↑age, M>F (5:1).
+- **S/Smx:** dysphagia, regurgitation, aspiration, neck swelling (gurgles on palpation), halitosis.
+- **Ix:** barium swallow combined with dynamic video fluoroscopy.
+- **Mx:** surgery.
+
+## 0.6 Globus pharyngeus (globus hystericus)
+
+- **D:** sensation of a lump in the throat, most noticed when swallowing saliva.
+- **A:** unknown; possibly excess muscle tension in the pharynx or increased acid exposure at the laryngopharyngeal junction.
+- **Mx:** reassure. Endoscopy may be needed to exclude malignancy, especially with red flag symptoms.
+
+
+<!-- ===== SOURCE: D7_Cranial_Nerves_and_Special_Senses.md ===== -->
+*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.4 Speech, Voice and Swallowing
+
+> [!tip] Three different problems that all sound like "trouble talking"
+> **· Dysphasia (aphasia) — a LANGUAGE problem.** The content is wrong. Dominant hemisphere.
+> **· Dysarthria — an ARTICULATION problem.** The language is intact but the production is impaired; **writing is normal.**
+> **· Dysphonia — a VOICE problem.** Volume and quality of phonation; larynx and recurrent laryngeal nerve.
+> **Asking the patient to WRITE a sentence separates dysphasia from dysarthria immediately** — the dysarthric patient writes normally, the dysphasic patient does not.
+
+> [!info] Aphasia types
+> **Broca (expressive, non-fluent)** — effortful, telegraphic, sparse output; **comprehension relatively preserved**, so **the patient knows what they want to say and cannot say it, and is visibly frustrated.** Often with a right hemiparesis.
+> **Wernicke (receptive, fluent)** — fluent, normal rhythm, but full of paraphasias and neologisms — "word salad"; **comprehension is poor and the patient is typically UNAWARE**, which is why they can be mistaken for confused or psychotic.
+> **Conduction aphasia** — fluent, good comprehension, but **repetition is disproportionately impaired.**
+> **Global aphasia** — both expressive and receptive, with large dominant hemisphere lesions.
+
+> [!info] Dysarthria types localise the lesion
+> **· Spastic** — strained, slow, effortful. **Bilateral UMN.**
+> **· Flaccid** — breathy, **nasal**, with weak consonants. **LMN or bulbar.**
+> **· Ataxic** — irregular, **"scanning"**, with variable volume and explosive bursts. **Cerebellar.**
+> **· Hypokinetic** — quiet, monotonous, rapid and festinant, with reduced articulation. **Parkinsonism.**
+> **· Hyperkinetic** — irregular interruptions. Chorea, dystonia.
+
+> [!danger] Bulbar versus pseudobulbar palsy
+> **· Bulbar palsy — LOWER motor neurone.** **Flaccid, wasted, FASCICULATING tongue; absent gag; nasal speech; nasal regurgitation of fluids.** Causes: motor neurone disease, Guillain–Barré, myasthenia, brainstem lesions, poliomyelitis.
+> **· Pseudobulbar palsy — bilateral UPPER motor neurone.** **Small, spastic, immobile tongue with NO fasciculation; BRISK jaw jerk; slow strained speech; and EMOTIONAL LABILITY (pathological laughing and crying) which is characteristic and distressing.** Causes: bilateral strokes, motor neurone disease, multiple sclerosis, extensive small vessel disease.
+> **A fasciculating tongue with brisk reflexes elsewhere is motor neurone disease until proven otherwise.**
+
+> [!warning] Dysphagia — the first question is oropharyngeal or oesophageal
+> **· Oropharyngeal** — **difficulty INITIATING the swallow**, coughing or choking immediately, nasal regurgitation, drooling, recurrent chest infections. **Neurological or muscular.** Cross-refer [[F3]].
+> **· Oesophageal** — **food "sticking" seconds AFTER swallowing**, pointed to at the sternum. **Structural or motility.** Cross-refer [[C6]] 0.3.
+> **Aspiration risk is the acute concern in oropharyngeal dysphagia.** **Nil by mouth pending a swallow screen** in any acute neurological presentation with speech or swallow disturbance — cross-refer [[D3]] 0.1. **Silent aspiration — aspiration without coughing — is common and is precisely why a formal screen is needed rather than watching them sip water.**
+
+> [!danger] Hoarseness lasting more than about three weeks needs laryngoscopy
+> **Persistent hoarseness is laryngeal carcinoma until proven otherwise, particularly in a smoker.** It also indicates recurrent laryngeal nerve palsy — and **the left recurrent laryngeal nerve loops under the aortic arch, so a left vocal cord palsy can be caused by lung cancer, mediastinal disease, an aortic aneurysm, or thyroid or oesophageal malignancy.**
+> **A new hoarse voice is a symptom to investigate, not to treat with reassurance and voice rest.** Cross-refer [[F3]]. `UNVERIFIED — the duration threshold for referral in current Australian guidance.`
+
+**Ix:** **Ask the patient to write** (*why:* separates dysphasia from dysarthria in seconds; *what:* normal writing in dysarthria). Full neurological examination including tongue, palate and gag (*why:* localises bulbar versus pseudobulbar; *what:* fasciculation, wasting, jaw jerk). **Formal swallow screen, then speech pathology assessment** (*why:* prevents aspiration pneumonia, and detects silent aspiration that bedside observation misses; *what:* aspiration risk). **Videofluoroscopy or fibreoptic endoscopic evaluation of swallowing** (*why:* the definitive assessment of oropharyngeal dysphagia and of silent aspiration; *what:* penetration, aspiration, residue). **Flexible nasendoscopy for hoarseness** (*why:* visualises the cords and detects malignancy and palsy; *what:* mass, cord palsy). CT chest and neck for a left vocal cord palsy (*why:* traces the recurrent laryngeal nerve along its course; *what:* lung, mediastinal, thyroid or oesophageal lesion). MRI brain (*why:* stroke, demyelination, brainstem lesion; *what:* structural cause). EMG and nerve conduction studies (*why:* motor neurone disease, myasthenia; *what:* denervation, decrement).
+
+### 0.4.1 Mx – Immediate
+**Nil by mouth pending swallow screen.** Airway protection where bulbar function is severely impaired.
+
+### 0.4.2 Mx – Definitive
+Cause-specific, with speech pathology central to management.
+
+### 0.4.3 Mx – Chronic/long-term
+Speech pathology for both communication and swallowing. Modified diets and fluids. **Communication aids — and the recognition that being unable to communicate is profoundly isolating and is a major cause of low mood after stroke.** Consideration of enteral feeding in progressive disease, ideally discussed in advance as part of advance care planning.
+
+---
+
+<!-- ===== SOURCE: 13_07a_ENT_-_Neck_Lumps.md ===== -->
+
+
+## 0.1 Lumps in the neck — approach
+
+> [!note] This entry approaches neck lumps by anatomical location; see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Lymphadenopathy for the complementary aetiological (cause-based) differential for lymph node swelling specifically, not repeated here — the two lenses are complementary, not overlapping. See also [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) for the full red-flag list this presentation should always be screened against — a persistent neck lump is itself one of those red flags, not repeated here.
+
+> [!tip] Key screening questions
+> - "How long has the lump been present?" — if <3 weeks, reactive lymphadenopathy from a self-limiting infection is likely.
+> - "Which tissue layer is the lump in?" — intradermal lumps suggest a sebaceous cyst, lipoma, etc.
+
+- **Ix:** ultrasound ± FNAC; CT; virology and Mantoux test; CXR.
+
+## 0.2 Differential diagnosis by anatomical location
+
+> [!info] Midline lumps
+> - <20 years old: dermoid cyst.
+> - If it moves up on tongue protrusion: thyroglossal cyst (a fluid-filled sac resulting from incomplete closure of the thyroid's migration path).
+> - >20 years old: thyroid mass.
+> - Bony hard: consider chondroma.
+
+> [!info] Submandibular triangle
+> - <20 years old: reactive lymphadenopathy.
+> - >20 years old: rule out malignant lymphadenopathy (e.g. firm, non-tender; any B-symptoms).
+> - Always rule out TB.
+> - If it's not a node, consider a submandibular salivary stone, tumour, or sialadenitis.
+
+> [!info] Anterior triangle
+> - Lymphadenopathy.
+> - Branchial cyst — Mx: excision.
+> - >40 years old: consider parotid tumour.
+> - Laryngoceles — painless, M>F, made worse by blowing.
+> - If the lump is pulsatile: carotid artery aneurysm; tortuous carotid artery; carotid body tumour (rare).
+
+> [!info] Posterior triangle
+> - Cervical rib.
+> - Pharyngeal pouches (usually on the left).
+> - Cystic hygromas — macrocystic lymphatic malformations, bright transillumination.
+> - Small lumps: consider lymphadenopathy secondary to TB, viruses, or metastases.
+
+
 <!-- ===== SOURCE: F4_Neck_Lumps_and_Facial_Pain.md ===== -->
 
 
@@ -1595,133 +1547,103 @@
 > Ear, referred otalgia and unilateral adult effusion → [[F1]] 0.2–0.3 · Nose, sinus and nasopharyngeal carcinoma → [[F2]] 0.2, 0.5 · Sore throat, hoarseness, oral cancer and salivary glands → [[F3]] · Thyroid function and thyroiditis → [[I1]] · MEN2 and phaeochromocytoma → [[I4]] 0.5 · Lymphoma, B symptoms and biopsy technique → [[J4]] 0.4 · Superior vena cava obstruction → [[J5]] 0.3 · Lymphadenopathy and metastatic disease → [[B6]] 0.8 · Tuberculosis and mycobacterial disease → [[K3]] 0.3 · Angioedema → [[K4]] 0.1 · Trigeminal neuralgia, cluster headache and giant cell arteritis → [[D1]] 0.3–0.4 · Multiple sclerosis → [[D4]] 0.1 · Facial nerve palsy → [[D5]] · Herpes zoster ophthalmicus → [[E1]] and [[G1]] 0.5 · Persistent idiopathic facial pain and chronic pain → [[N6]] 0.2 and [[L3]] 0.5 · HPV vaccination → [[O6]] 0.2 · Osteoradionecrosis and dental access → [[F3]] 0.6 and [[AU1]] 0.1
 
 
-<!-- ===== SOURCE: NEW_Drugs_09_ENT.md ===== -->
+<!-- ===== SOURCE: 13_07b_ENT_-_Salivary_Gland_Problems_and_Xerostomia.md ===== -->
 
 
-# NEW — Drug Classes: Ear, Nose and Throat (AMH section 9)
+## 0.1 Sialadenitis
 
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+- **D:** acute infection of the submandibular or parotid glands.
+- **R:** elderly or debilitated patients who are dehydrated ± have poor oral hygiene.
+- **S/Smx:** painful diffuse swelling of the gland and fever. Pus may leak out of the duct.
+- **Mx:** antibiotics + good oral hygiene. Sialogogues are helpful. Surgical drainage may be required.
+- **Complications:** chronic or recurrent attacks may lead to strictures or salivary gland stones.
 
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
+## 0.2 Sialolithiasis
 
-> [!info] **A theme running through this section: technique and duration matter more than agent choice.** Most ENT topical failures are **not** the wrong drug — they are a spray aimed at the septum, drops that never reached a swollen canal, a decongestant used for three weeks instead of three days, or a treatment stopped at day four of a fourteen-day course.
+- **D:** salivary stones — usually affect the submandibular gland (higher calcium content, thicker secretions).
+- **S/Smx:** pain, tense swelling of the gland during/after meals ± palpable stone on the floor of the mouth.
+- **Ix:** plain XR or sialogram.
+- **Mx:** small stones may pass spontaneously; larger stones may need surgery.
 
----
+## 0.3 Salivary gland tumours
 
-## 0.1 Drugs for Ear Infections
+> [!tip] "80% rule": 80% occur in the parotid gland, 80% are benign pleomorphic adenomas, 80% are in the superficial lobe.
 
-- **Key agents:** topical **ciprofloxacin** drops (± a corticosteroid), **framycetin/neomycin** and **gentamicin** drops, chloramphenicol drops, and acetic acid / aluminium acetate preparations; **oral antibiotics** where systemic treatment is indicated (amoxicillin first-line for acute otitis media in Australia); topical and systemic **antifungals** for otomycosis.
-- **Indications:** **otitis externa** — where **topical treatment is more effective than oral antibiotics**, and **aural toilet (microsuction or dry mopping) is at least as important as the drops**; **chronic suppurative otitis media** with discharge through a perforation or grommet; and **acute otitis media**, most of which is viral or self-limiting.
+- **R for malignancy:** neck radiation, smoking.
 
-> [!danger] **AMINOGLYCOSIDE EAR DROPS WITH A PERFORATED DRUM OR GROMMETS: the ototoxicity trap.**
-> **Framycetin, neomycin and gentamicin drops can cause PERMANENT sensorineural hearing loss** if they reach the middle ear through a perforation or grommet. **Where the drum is perforated or grommets are in place, use a QUINOLONE drop (ciprofloxacin), which is not ototoxic.** This is standard and is frequently got wrong.
+> [!danger] Red flags: hard, fixed mass ± pain, associated with facial nerve palsy.
 
-> [!warning] **Acute otitis media: most children do not need an antibiotic.** Australian practice supports **analgesia and review**, with antibiotics reserved for those under 6 months, systemically unwell children, those with a perforation and discharge, bilateral disease in the very young, immunosuppression, and — importantly — **Aboriginal and Torres Strait Islander children, in whom the threshold is lower** because of the burden of chronic suppurative otitis media and its consequences for hearing, language and education. **Analgesia is the treatment patients actually want and is under-prescribed.**
+- **Ix:** US/MRI, FNAC, biopsy.
+- **Mx:** surgery, radiotherapy.
 
-> [!danger] **Do not ignore**
-> - **A wick is needed when the canal is too swollen for drops to penetrate** — otherwise the drops sit at the meatus and the patient "fails treatment".
-> - **Keep the ear dry**, and review non-responders.
-> - **Failure to respond suggests fungal otitis externa** (*Aspergillus*, *Candida* — which topical antibiotic use itself predisposes to), a foreign body, or underlying eczema or psoriasis.
-> - **NECROTISING (MALIGNANT) OTITIS EXTERNA** — severe pain, granulation tissue in the canal, cranial nerve palsy, in an **elderly diabetic or immunosuppressed** patient. This is a *Pseudomonas* skull-base osteomyelitis needing urgent imaging, admission and prolonged systemic therapy.
-> - **Mastoiditis, intracranial complications and facial nerve palsy** complicate otitis media and are emergencies.
-> - See [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]] and `NEW_Drugs_05_Anti_infectives.md` 0.2.21.
+### 0.3.1 Specific tumours
 
-## 0.2 Drugs for Ear Wax
+- **Pleomorphic adenoma:** slow-growing benign tumour; middle-age; may turn malignant if present for a long time (carcinoma ex pleomorphic adenoma — a genuine reason not to simply "watch and wait" indefinitely despite the tumour's benign nature). **Mx:** surgical excision (typically superficial parotidectomy if in the parotid, given the "80% rule" above) is standard even for confirmed benign disease, for two specific reasons: the malignant transformation risk over time noted above, and because **the tumour capsule is often incomplete with microscopic extensions into surrounding tissue**, meaning simple enucleation (removing just the visible lump) carries a significant recurrence risk — complete excision with a margin of normal tissue is required, not just "shelling out" the lump.
+- **Warthin's tumour:** elderly men, may be bilateral. Mx: partial parotidectomy.
+- **Mucoepidermoid carcinoma:** aggressive, high-grade — excision + radiotherapy.
+- **Adenoid cystic tumours:** painful, slow-growing tumours that tend to spread along nerves ("perineural infiltration") + distant metastases and late recurrence. Mx: surgical excision, post-op radiotherapy.
 
-### 0.2.1 Cerumenolytics
-- **Mechanism:** soften, break down or disperse cerumen. **Water- or oil-based** (docusate sodium, sodium bicarbonate, olive and almond oil, glycerol) or **non-water-based organic** preparations; several are simple emollients rather than true keratolytics.
-- **Indications:** **symptomatic** wax impaction — hearing loss, blocked sensation, tinnitus, discomfort — or wax preventing **examination of the drum**, audiometry, or hearing aid fitting.
-- **Role:** softening before syringing/irrigation or microsuction, and sometimes sufficient alone. Evidence between agents is weak and **plain water or sodium bicarbonate performs comparably to proprietary products** in several comparisons — cost is a reasonable deciding factor.
+## 0.4 Xerostomia (dry mouth)
 
-> [!danger] **Do not irrigate an ear with a perforated or possibly perforated tympanic membrane, grommets, previous ear surgery, or a history of ear discharge — and do not irrigate an ear with a foreign body or in a patient who has had complications previously.** Irrigation can cause perforation, ossicular damage, vertigo, otitis externa and, rarely, permanent hearing loss. **Look first.** If you cannot see the drum, that is a reason for microsuction by someone who can, not a reason to flush.
+> [!info] Typical causes
+> - Drugs: hypnotics & TCAs, antipsychotics, beta-blockers, diuretics.
+> - Mouth breathing; dehydration.
+> - ENT radiotherapy.
+> - Sjögren syndrome, SLE, systemic sclerosis, sarcoidosis.
+> - HIV/AIDS; parotid stones.
 
-> [!warning] **Asymptomatic wax does not need treatment**, and **cotton buds are the commonest cause of impaction** — they push wax inward and abrade the canal. Advise against them explicitly.
+- **S/Smx:** dry, atrophic, fissured oral mucosa; discomfort → difficulty eating, speaking, and wearing dentures; no saliva pooling in the floor of the mouth.
+- **Complications:** dental caries, candida infection.
+- **Mx:** ↑oral fluids, frequent sips. Good dental hygiene — avoid acidic drinks or foods. Try saliva substitutes or dry mouth products.
 
-## 0.3 Drugs for Mouth and Throat Conditions
 
-- **Oral candidiasis:** **nystatin oral suspension**, **miconazole oral gel**, **amphotericin lozenges**; systemic **fluconazole** for extensive, oesophageal or refractory disease.
+<!-- ===== SOURCE: 13_07c_ENT_-_Dental_and_Teeth_Problems.md ===== -->
 
-> [!danger] **MICONAZOLE ORAL GEL AND WARFARIN — a lethal and entirely preventable interaction.**
-> Sources are emphatic: miconazole oral gel **potentiates warfarin**, with the proportion of patients having an **INR above 5 rising from 5.5% to 30.1%** after starting it, and documented **morbidity and mortality**. Sources advise that **nystatin should be prescribed instead of miconazole oral gel in patients taking warfarin** unless close INR monitoring and titration is arranged — and that **INR was unaffected by nystatin oral solution**. It is easy to think of an oral gel as "topical" and therefore harmless. It is not.
 
-> [!warning] **Oral candidiasis is usually a sign of something else.** Look for **inhaled corticosteroid use without rinsing and spitting** (the commonest cause and easily fixed), dentures and denture hygiene, dry mouth, antibiotics, diabetes, iron/B₁₂/folate deficiency, and **immunosuppression including undiagnosed HIV**. **Oesophageal candidiasis is an AIDS-defining illness** — a patient with dysphagia and thrush needs an HIV test.
+## Dentistry for doctors
 
-- **Aphthous ulceration and mucosal inflammation:** topical **corticosteroids** (triamcinolone in orabase, betamethasone mouthwash), **benzydamine** (a topical NSAID with analgesic and anti-inflammatory action, useful in mucositis and pharyngitis), **chlorhexidine** and other antiseptic mouthwashes, topical local anaesthetics, and barrier preparations. **Look for the underlying cause in recurrent or severe ulceration:** iron, B₁₂ and folate deficiency, **coeliac disease**, inflammatory bowel disease, Behçet syndrome, HIV, and drugs (nicorandil — see `NEW_Drugs_06_Cardiovascular.md` 0.6.2 — methotrexate, NSAIDs).
-- **Dry mouth (xerostomia):** saliva substitutes, sugar-free gum, **pilocarpine** in Sjögren syndrome and after head and neck radiotherapy; and a **medication review** — anticholinergics, tricyclics, antipsychotics, antihistamines, opioids and diuretics are the usual cause. **Xerostomia causes rampant dental caries** — dental referral is part of management.
-- **Sore throat:** **analgesia is the main treatment.** Lozenges and sprays give short-lived relief. **Antibiotics are for group A streptococcal pharyngitis where indicated**, and Australian thresholds differ by population: **Aboriginal and Torres Strait Islander people and others at high risk of acute rheumatic fever are treated, because preventing ARF and rheumatic heart disease is the point** — see [[13_05a_ENT_-_Sore_Throat_and_Tonsillitis]].
-- **Oral corticosteroids** — for severe pharyngitis or croup; **dexamethasone in croup is one of the highest-yield single interventions in paediatrics.**
+### Assessing tooth pain
 
-> [!danger] **Do not ignore the red flags in the mouth and throat:** a **persistent ulcer beyond about 3 weeks, an indurated or fixed lesion, unexplained hoarseness, dysphagia, otalgia with a normal ear, a neck lump, or leukoplakia/erythroplakia** — these are **head and neck cancer until proven otherwise** and require urgent specialist referral, not another mouthwash. **Trismus, drooling, "hot potato" voice, stridor or systemic toxicity** signal **quinsy, epiglottitis or deep neck space infection** — airway emergencies. See [[13_06a_ENT_-_Dysphonia_and_HNSCC]] and [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]].
+> [!tip] Key questions to ask about tooth pain
+> - Worse with sugar and heat?
+> - Worse/better with cold?
+> - Intermittent, or constant/uninterrupted?
+> - Worse with percussion?
+> - Exacerbated by movement between finger and thumb?
 
-## 0.4 Drugs for Rhinitis and Sinusitis
+> [!info] Pattern recognition
+> - **Tooth is alive (pulpitis):** typically intermittent pain, related to hot/cold/sugar stimuli.
+> - **Tooth is dead (osteitis/abscess):** typically constant, uninterrupted pain, worse with percussion.
 
-### 0.4.1 Intranasal Corticosteroids
-- **Key agents:** **mometasone, fluticasone propionate and furoate, budesonide, beclometasone, ciclesonide**; and **fixed combinations with an intranasal antihistamine** (azelastine/fluticasone).
-- **Mechanism:** local anti-inflammatory action on the nasal mucosa, reducing all four cardinal symptoms — congestion, rhinorrhoea, sneezing and itch — and with some benefit for associated ocular symptoms.
-- **Role:** **FIRST-LINE for persistent or moderate-to-severe allergic rhinitis in Australia (ASCIA)**, alone or with an intranasal antihistamine, and the most effective single class. Also used in chronic rhinosinusitis and nasal polyposis.
+## Trismus
 
-> [!warning] **They take days to weeks for full effect and must be used REGULARLY, not as required.** A patient who uses one "when blocked" concludes it does not work. **Say this explicitly at the time of prescribing** — it is the single commonest reason for apparent failure.
+- **D:** difficulty or inability to fully open the mouth because of muscle spasm or pain, most commonly affecting the muscles of mastication.
+- **A/P — a genuinely broad differential worth actively considering, not just "infection":** dental/odontogenic infection (particularly involving the masticator space, e.g. a lower third molar/wisdom tooth abscess — the classic cause); peritonsillar abscess (quinsy — see [[13_05a_ENT_-_Sore_Throat_and_Tonsillitis]] Complications of tonsillitis (the peritonsillar abscess/quinsy item), given trismus is one of its defining features, not repeated here); temporomandibular joint dysfunction (a much more benign cause, see [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]] Causes of otalgia (painful ear) for the TMJ dysfunction item); tetanus (a rare but classically-tested cause — trismus/"lockjaw" is a hallmark early feature); post-surgical or post-radiotherapy fibrosis; rarely, a mandibular or infratemporal fossa tumour.
+- **Ix:** clinical examination (assess degree of mouth opening, look for a clear dental/infective source, assess for airway compromise given the danger below) is the priority; further imaging (OPG/dental X-ray, CT if a deep space infection or abscess is suspected) guided by the likely cause once assessed.
 
-> [!danger] **TECHNIQUE — aim AWAY from the septum, and this is not a cosmetic detail.**
-> Sources report that **pointing the spray tip toward the nasal septum increased adverse event risk 3.6-fold**, and that an ipsilateral-hand technique was associated with a 15.5% epistaxis rate. **Standard technique: neutral head position (do not tilt the head back), spray tip directed upward and LATERALLY toward the ipsilateral outer canthus — conventionally using the opposite hand — do not sniff hard, and breathe out through the mouth.**
-> **Epistaxis** is a confirmed class effect — a meta-analysis found an increased risk versus placebo, with **beclometasone HFA, fluticasone furoate, mometasone furoate and fluticasone propionate at the higher end and beclometasone aqueous and ciclesonide at the lower end**. **Septal perforation is rare but described with continuous use beyond about a year.** Stop and reassess for persistent bleeding or crusting.
+> [!danger] Trismus is a red flag for severe infection — always requires maxillofacial referral, given the risk of a deep space infection tracking toward the airway (see Facial swellings due to dental infection below for the specific airway-risk anatomy) — trismus itself is one of the reasons deep dental infections are taken seriously rather than dismissed as "just a toothache."
 
-- **Other adverse effects:** nasal dryness, irritation, throat irritation. **Systemic effects are minimal at usual doses**, though growth velocity in children on long-term treatment is monitored, and caution applies with concurrent inhaled or oral corticosteroids (cumulative burden) and with **ritonavir/cobicistat**, which can cause iatrogenic Cushing syndrome with fluticasone (see `NEW_Drugs_05_Anti_infectives.md` 0.5.3).
+- **Mx:** treat the underlying cause — urgent maxillofacial referral for suspected infective trismus (IV antibiotics, source control/drainage as needed, per the facial swelling entry below); analgesia; if TMJ dysfunction is confirmed as the cause (a much more benign differential), conservative management applies instead, per [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]] Causes of otalgia (painful ear), where the TMJ dysfunction item sits, not repeated here — the point of actively considering the differential above is precisely to avoid either under-treating a genuine deep space infection or over-referring a benign TMJ cause.
 
-### 0.4.2 Other Drugs for Rhinitis and Sinusitis
-- **Intranasal antihistamines (azelastine)** — fast onset (minutes); used alone in mild disease and as **step-up added to an intranasal corticosteroid**. **Bitter taste** is the main tolerability issue. See `NEW_Drugs_01_Allergy_and_Anaphylaxis.md` 0.1.3.
-- **Oral antihistamines** — less sedating agents; better for sneeze, itch and ocular symptoms than for **congestion**, which is the symptom they most often fail to relieve.
-- **Intranasal ipratropium** — an antimuscarinic specifically for **watery rhinorrhoea**, including vasomotor and gustatory rhinitis, where it works well and is under-used.
-- **Intranasal sodium cromoglicate** — mast cell stabiliser; preventive, needs frequent regular dosing, very safe (useful in children and pregnancy). See `NEW_Drugs_01_Allergy_and_Anaphylaxis.md` 0.4.1.
-- **Saline irrigation** — cheap, safe, evidence-supported in both allergic rhinitis and chronic rhinosinusitis, and consistently under-recommended. **Use sterile, distilled or previously boiled and cooled water** — not untreated tap water (rare but fatal amoebic infection has been reported).
-- **Leukotriene receptor antagonists (montelukast)** — an option with coexisting asthma; **the neuropsychiatric warning must be discussed** (sleep disturbance, nightmares, agitation, depression, suicidal ideation).
-- **Allergen immunotherapy** — the only disease-modifying option; specialist-initiated.
-- **Antibiotics for sinusitis** — **most acute rhinosinusitis is viral and does not need antibiotics.** Reserve for prolonged, severe, or "double-worsening" illness, and be alert to **orbital and intracranial complications** (periorbital swelling, proptosis, eye movement restriction, visual change, severe headache, neurological signs) which need urgent imaging and admission. See [[13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_]].
+## Facial swellings due to dental infection
 
-## 0.5 Intranasal Decongestants
+> [!danger] If related to the lower jaw, assess for airway obstruction. If spreading to the eye, assess CN II (optic nerve) function.
 
-- **Key agents:** **oxymetazoline, xylometazoline, phenylephrine** (topical); **tramazoline**.
-- **Mechanism:** **α-adrenoceptor agonists** producing vasoconstriction of the nasal mucosal vasculature → rapid, marked reduction in congestion.
-- **Role:** **short-term symptomatic relief only** — an adjunct while another treatment takes effect, for eustachian tube dysfunction, or to allow examination or the penetration of a nasal corticosteroid in a very blocked nose.
+- **A/P:** dental infection (most commonly from an abscessed tooth) can spread into the surrounding fascial spaces of the face and neck — the specific danger above reflects real anatomy: infection from lower jaw teeth can track into the submandibular/sublingual spaces and threaten the airway (a presentation sometimes termed Ludwig's angina when bilateral submandibular/sublingual/submental spaces are all involved — a genuine airway emergency), while infection near the eye (particularly from upper canine/premolar teeth, given their proximity to the orbit) can threaten orbital structures.
+- **Ix:** clinical assessment of airway and ocular involvement is the immediate priority per the danger box above; CT (face/neck) if a deep space infection or abscess requiring drainage is suspected, given clinical examination alone can underestimate the extent of deep spread.
+- **Mx:** usually subsides with PO antibiotics for a straightforward, localised dental abscess without airway or orbital involvement; **any sign of airway compromise (per the danger box above) or a rapidly spreading/bilateral swelling warrants urgent escalation** — IV antibiotics, urgent maxillofacial/ENT involvement, and surgical drainage of any collection, following the same "source control matters as much as antibiotics" principle as deep space infections elsewhere in this project; do not manage a swelling with airway or orbital red flags with oral antibiotics alone in the community.
 
-> [!danger] **RHINITIS MEDICAMENTOSA: the reason these must be limited to a few days.**
-> Sources are consistent that **intranasal decongestants should be used in short courses only, and can be considered for up to about 5 days**, because longer use causes **rebound congestion**. The patient's nose blocks worse than before, they use more spray, and a self-perpetuating dependence develops that can take weeks of misery to unwind (with an intranasal corticosteroid, saline and often a short course of oral steroid). **Patients buy these over the counter and use them for months.** **Ask specifically about nasal spray use in anyone with chronic congestion**, and give an explicit stop date when recommending one.
+## Systemic disease complicating dental infection
 
-### 0.5.1 Oral Decongestants
-- **Key agents:** **pseudoephedrine, phenylephrine**.
-- **Mechanism:** systemic sympathomimetics.
-- **Efficacy:** **oral phenylephrine has largely failed to demonstrate efficacy** at usual oral doses (extensive first-pass metabolism), and this is a reasonable thing to tell a patient buying it. Pseudoephedrine is more effective.
-- **Adverse effects and cautions:** **hypertension, tachycardia and arrhythmia, insomnia, agitation, tremor, and urinary retention** in men with prostatic obstruction; **angle-closure glaucoma**. **Avoid or use with caution in hypertension, ischaemic heart disease, arrhythmia, hyperthyroidism, diabetes, and with MAOIs** (hypertensive crisis).
-- **Australian regulatory context:** **pseudoephedrine is restricted** (pharmacist-only, with photo identification and recording through Project STOP) because of diversion to methamphetamine manufacture — worth knowing when a patient asks why they were questioned at the pharmacy.
-- **Do not ignore:** these are in very many **combination cold-and-flu preparations**, which also frequently contain **paracetamol** — a well-documented route to **inadvertent paracetamol overdose** when taken alongside regular paracetamol (see `NEW_Drugs_03_Analgesics.md` 0.4.1). **Ask what over-the-counter products the patient is taking, by name.**
+> [!warning] Refer any patient who is immunocompromised, at risk of endocarditis, or at risk of bleeding (e.g. coagulopathy).
 
-## 0.6 Drugs for Other Nasal Conditions
+## Periodontal disease
 
-- **Epistaxis:** **topical vasoconstrictor** (e.g. oxymetazoline or co-phenylcaine) with pressure as first aid; **topical antiseptic/antibiotic ointment** (chlorhexidine–neomycin, mupirocin) for anterior crusting and recurrent minor bleeds; **tranexamic acid** (topical or systemic) for recurrent or troublesome bleeding; **silver nitrate cautery** for an identified anterior bleeding point; and **nasal packing** where those fail.
+### Vincent's angina (necrotising ulcerative gingivitis)
 
-> [!danger] **In epistaxis, do the simple thing properly first: firm continuous pressure on the SOFT part of the nose (not the bony bridge) for 10–15 minutes, sitting up and leaning forward.** Then: **look for the cause and the risk** — anticoagulants and antiplatelets, hypertension, alcohol, nasal steroid or cocaine use, digital trauma, hereditary haemorrhagic telangiectasia, and thrombocytopenia or coagulopathy. **Posterior bleeding, haemodynamic compromise, or bleeding on anticoagulation may need admission, ENT and reversal decisions.** A **unilateral blood-stained discharge or obstruction in an adult**, especially with facial numbness or a neck node, raises **nasal or nasopharyngeal malignancy**.
-- **Nasal dryness and crusting:** saline gels and sprays, petroleum-based ointments (avoid prolonged use, and avoid in patients at aspiration risk — lipoid pneumonia).
-- **Nasal polyposis:** intranasal and, in severe disease, oral corticosteroids; **biologics (dupilumab, omalizumab, mepolizumab)** in severe chronic rhinosinusitis with nasal polyps; surgery. **Consider aspirin-exacerbated respiratory disease** (asthma + polyps + NSAID sensitivity) and **cystic fibrosis or primary ciliary dyskinesia in a child with polyps** — polyps in a child are not normal.
-- **Anosmia** — a symptom to take seriously: post-viral, rhinosinusitis, head injury, and neurodegenerative disease. There is no reliable drug treatment; **olfactory training** and treatment of any underlying inflammatory disease are the options.
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for ear infections | SUB | yes | Carries the aminoglycoside-drops-and-perforation ototoxicity warning and the Australian lower antibiotic threshold for Aboriginal and Torres Strait Islander children. |
-| 0.2 | Drugs for ear wax | SUB | yes | |
-| 0.2.1 | Cerumenolytics | CLS | yes | |
-| 0.3 | Drugs for mouth and throat conditions | SUB | yes | Carries the miconazole oral gel–warfarin interaction with its INR figures. |
-| 0.4 | Drugs for rhinitis and sinusitis | SUB | yes | |
-| 0.4.1 | Corticosteroids (intranasal) | CLS | yes | Spray technique given with the 3.6-fold adverse-event figure for septal aiming. |
-| 0.4.2 | Other drugs for rhinitis and sinusitis | CLS | yes | |
-| 0.5 | Intranasal decongestants | SUB | yes | Rhinitis medicamentosa and the ~5-day limit. |
-| 0.5.1 | Oral decongestants | CLS | yes | Includes the Australian pseudoephedrine restriction and the combination-product paracetamol overdose route. |
-| 0.6 | Drugs for other nasal conditions | SUB | yes | |
-
-**Rows in file: 10 (6 SUB + 4 CLS). AMH section 9 build-list rows: 10. Section complete.**
+- Associated with smoking, HIV.
+- Foul-smelling, caused by anaerobes (*Fusobacteria*) ± spirochetes (e.g. *Borrelia*).
+- **Mx:** amoxicillin 500mg/8h PO + metronidazole 400mg/8h PO + dental referral.
 
 
 <!-- ===== SOURCE: NEW_ENT_and_Oral.md ===== -->
@@ -1734,20 +1656,6 @@
 > [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
 
 > [!note] **This file contains the four Tier 2 topics.** ENT & Oral has **no T1 topics**; 4 T2 and 29 T3. See the build-status table at the end.
-
-## Acute Sore Throat
-
-- **DDx:**
-  - **Emergencies that present as "sore throat" and must be excluded first:** **epiglottitis/supraglottitis** (rapid onset, severe odynophagia out of proportion to visible findings, **drooling, muffled "hot potato" voice, tripod posture, stridor** — and often a near-normal-looking oropharynx, which is the trap); **peritonsillar abscess (quinsy)** (unilateral severe pain, trismus, uvular deviation, muffled voice); **parapharyngeal or retropharyngeal abscess** (neck stiffness, neck swelling, systemic toxicity — commoner in children); **Ludwig's angina** (bilateral submandibular swelling with a raised, firm floor of mouth and tongue elevation, usually of dental origin — a genuine airway emergency); **Lemierre's syndrome** (persisting sore throat with rigors and unilateral neck tenderness from internal jugular thrombophlebitis).
-  - **Common infective causes:** viral pharyngitis (much the commonest), **group A streptococcal pharyngitis**, infectious mononucleosis (EBV — marked lymphadenopathy, fatigue, splenomegaly, and **a rash if given amoxicillin**), herpangina and hand-foot-and-mouth in children, herpes simplex gingivostomatitis, **acute HIV seroconversion**, gonococcal pharyngitis, candidiasis (consider immunosuppression or inhaled steroid use), diphtheria (in the unimmunised).
-  - **Non-infective:** gastro-oesophageal reflux, post-nasal drip, allergy, smoking and irritants, vocal overuse, foreign body (**fish bone**), chemical or thermal injury, **agranulocytosis from a drug — clozapine, carbimazole, methimazole, sulfasalazine, chemotherapy** (a sore throat in a patient on any of these is a haematological emergency until the neutrophil count is known), malignancy, Kawasaki disease and other systemic inflammatory conditions in children.
-- **Focused Hx:** duration and speed of onset; **fever**; **difficulty swallowing, swallowing saliva, or breathing** — the airway questions; **voice change and trismus**; unilateral versus bilateral pain; ear pain; **neck swelling and stiffness**; rash; fatigue and its duration (mononucleosis); cough and coryza (**their presence points away from streptococcal infection**); **contacts and recent streptococcal illness**; **immunisation status**; **medications, specifically clozapine, carbimazole and any recent chemotherapy**; immunosuppression; sexual history where gonococcal or HIV causes are plausible; smoking and alcohol; **and — in Australia specifically — whether the patient identifies as Aboriginal or Torres Strait Islander, and whether they live in a rural or remote community**, because that changes the management threshold (see the box below).
-- **Examination:** **assess the airway before the throat.** Look for stridor, drooling, tripoding, respiratory distress and inability to swallow saliva — **if any of these are present, do not attempt to examine the throat with a tongue depressor, and call for senior and anaesthetic/ENT help immediately**, particularly in a child. Otherwise: vital signs; oropharyngeal inspection for tonsillar enlargement, exudate, unilateral swelling, **uvular deviation**, palatal petechiae, ulcers, membrane; **trismus**; **floor of mouth and tongue elevation**; **cervical lymphadenopathy — site and tenderness**; **abdominal examination for splenomegaly** where mononucleosis is possible (and the advice to avoid contact sport that follows from it); dentition; skin for rash; and a general septic screen.
-- **First-line Ix:** **most acute sore throat needs no investigation.** Where indicated: **throat swab for culture** (and, in high-risk settings, for group A *Streptococcus*); **FBC with differential — urgently if the patient is on a drug that causes agranulocytosis**; **CRP**; **EBV serology or monospot** (noting it can be falsely negative in the first week and in young children); **HIV testing** where seroconversion is a possibility; **blood cultures if septic**; **lateral soft-tissue neck X-ray or CT neck** where a deep neck space infection or epiglottitis is suspected — **imaging must never delay airway management**; **ultrasound or CT** for suspected abscess.
-
-> [!danger] **The Australian equity point, which changes practice rather than being background.** Acute rheumatic fever following group A streptococcal infection is **strongly concentrated among Aboriginal and Torres Strait Islander people, particularly children living in rural and remote communities**, where rates are among the highest reported anywhere in the world and vastly exceed those in the non-Indigenous population. The consequence at the bedside is that **the threshold for treating a sore throat with antibiotics is lower in a patient from a high-risk group** than the "most sore throats are viral" rule would otherwise suggest — this is a recognised primary-prevention strategy, and the relevant Australian guidance is RHDAustralia's.
-> **The specific antibiotic, dose and duration are deliberately omitted** — the Australian guidance has been updated to expand the oral options for high-risk patients, and neither the current regimen nor the exact risk-group definitions could be read first-hand under the egress limitation. **Check the current RHDAustralia guideline and your local pathway.**
-> **A specific incidence figure was retrieved and deliberately rejected.** One source gave ARF incidence as ">300 per 1,000 person-years" in Indigenous Australians against "<5 per 1,000" — a figure that is internally implausible (it would mean roughly a third of the population developing ARF each year) and almost certainly a units error in the source for a per-100,000 rate. **Under the three-source rule it does not qualify, and under this project's rule about absolute figures it fails a sanity check, so the disparity is stated in words rather than numbers.** Do not "restore" a number here without a primary source.
 
 ## Acute Ear Pain
 
@@ -1771,6 +1679,20 @@
 - **Examination:** **A–E first if bleeding is heavy — this can be a haemorrhagic emergency, particularly in an anticoagulated older patient.** Vital signs including postural blood pressure; pallor and perfusion. Then, with the patient **sitting up and leaning forward**, suction and inspect with a nasal speculum and light for an anterior bleeding point; examine the **oropharynx for blood tracking posteriorly** — the finding that suggests a posterior bleed; look for telangiectasia on the lips, tongue and fingers; check for signs of chronic liver disease and for bruising or petechiae elsewhere.
 - **First-line Ix:** **none in a straightforward, self-limiting anterior bleed in a well patient.** Otherwise: **FBC** (haemoglobin and **platelet count**), **coagulation profile and INR** — essential in anyone anticoagulated, **group and hold or crossmatch** if bleeding is significant, **UEC and LFTs**; **β-hCG** where relevant; **nasendoscopy** by ENT for posterior or recurrent bleeding; **CT or MRI** where a tumour is suspected — particularly for **unilateral recurrent epistaxis with obstruction**.
 - **Immediate management at intern level:** **sit the patient up and forward, apply firm continuous pressure to the soft cartilaginous part of the nose for a sustained period without releasing to check**, and ask them to spit out rather than swallow blood. Escalate for cautery or packing if this fails. **Reverse or withhold anticoagulation only after discussing with a senior**, weighing the indication for it. **Specific topical agents, packing products and tranexamic acid regimens are deliberately omitted** — practice varies between Australian services and the guidelines are egress-blocked.
+
+## Acute Sore Throat
+
+- **DDx:**
+  - **Emergencies that present as "sore throat" and must be excluded first:** **epiglottitis/supraglottitis** (rapid onset, severe odynophagia out of proportion to visible findings, **drooling, muffled "hot potato" voice, tripod posture, stridor** — and often a near-normal-looking oropharynx, which is the trap); **peritonsillar abscess (quinsy)** (unilateral severe pain, trismus, uvular deviation, muffled voice); **parapharyngeal or retropharyngeal abscess** (neck stiffness, neck swelling, systemic toxicity — commoner in children); **Ludwig's angina** (bilateral submandibular swelling with a raised, firm floor of mouth and tongue elevation, usually of dental origin — a genuine airway emergency); **Lemierre's syndrome** (persisting sore throat with rigors and unilateral neck tenderness from internal jugular thrombophlebitis).
+  - **Common infective causes:** viral pharyngitis (much the commonest), **group A streptococcal pharyngitis**, infectious mononucleosis (EBV — marked lymphadenopathy, fatigue, splenomegaly, and **a rash if given amoxicillin**), herpangina and hand-foot-and-mouth in children, herpes simplex gingivostomatitis, **acute HIV seroconversion**, gonococcal pharyngitis, candidiasis (consider immunosuppression or inhaled steroid use), diphtheria (in the unimmunised).
+  - **Non-infective:** gastro-oesophageal reflux, post-nasal drip, allergy, smoking and irritants, vocal overuse, foreign body (**fish bone**), chemical or thermal injury, **agranulocytosis from a drug — clozapine, carbimazole, methimazole, sulfasalazine, chemotherapy** (a sore throat in a patient on any of these is a haematological emergency until the neutrophil count is known), malignancy, Kawasaki disease and other systemic inflammatory conditions in children.
+- **Focused Hx:** duration and speed of onset; **fever**; **difficulty swallowing, swallowing saliva, or breathing** — the airway questions; **voice change and trismus**; unilateral versus bilateral pain; ear pain; **neck swelling and stiffness**; rash; fatigue and its duration (mononucleosis); cough and coryza (**their presence points away from streptococcal infection**); **contacts and recent streptococcal illness**; **immunisation status**; **medications, specifically clozapine, carbimazole and any recent chemotherapy**; immunosuppression; sexual history where gonococcal or HIV causes are plausible; smoking and alcohol; **and — in Australia specifically — whether the patient identifies as Aboriginal or Torres Strait Islander, and whether they live in a rural or remote community**, because that changes the management threshold (see the box below).
+- **Examination:** **assess the airway before the throat.** Look for stridor, drooling, tripoding, respiratory distress and inability to swallow saliva — **if any of these are present, do not attempt to examine the throat with a tongue depressor, and call for senior and anaesthetic/ENT help immediately**, particularly in a child. Otherwise: vital signs; oropharyngeal inspection for tonsillar enlargement, exudate, unilateral swelling, **uvular deviation**, palatal petechiae, ulcers, membrane; **trismus**; **floor of mouth and tongue elevation**; **cervical lymphadenopathy — site and tenderness**; **abdominal examination for splenomegaly** where mononucleosis is possible (and the advice to avoid contact sport that follows from it); dentition; skin for rash; and a general septic screen.
+- **First-line Ix:** **most acute sore throat needs no investigation.** Where indicated: **throat swab for culture** (and, in high-risk settings, for group A *Streptococcus*); **FBC with differential — urgently if the patient is on a drug that causes agranulocytosis**; **CRP**; **EBV serology or monospot** (noting it can be falsely negative in the first week and in young children); **HIV testing** where seroconversion is a possibility; **blood cultures if septic**; **lateral soft-tissue neck X-ray or CT neck** where a deep neck space infection or epiglottitis is suspected — **imaging must never delay airway management**; **ultrasound or CT** for suspected abscess.
+
+> [!danger] **The Australian equity point, which changes practice rather than being background.** Acute rheumatic fever following group A streptococcal infection is **strongly concentrated among Aboriginal and Torres Strait Islander people, particularly children living in rural and remote communities**, where rates are among the highest reported anywhere in the world and vastly exceed those in the non-Indigenous population. The consequence at the bedside is that **the threshold for treating a sore throat with antibiotics is lower in a patient from a high-risk group** than the "most sore throats are viral" rule would otherwise suggest — this is a recognised primary-prevention strategy, and the relevant Australian guidance is RHDAustralia's.
+> **The specific antibiotic, dose and duration are deliberately omitted** — the Australian guidance has been updated to expand the oral options for high-risk patients, and neither the current regimen nor the exact risk-group definitions could be read first-hand under the egress limitation. **Check the current RHDAustralia guideline and your local pathway.**
+> **A specific incidence figure was retrieved and deliberately rejected.** One source gave ARF incidence as ">300 per 1,000 person-years" in Indigenous Australians against "<5 per 1,000" — a figure that is internally implausible (it would mean roughly a third of the population developing ARF each year) and almost certainly a units error in the source for a per-100,000 rate. **Under the three-source rule it does not qualify, and under this project's rule about absolute figures it fails a sanity check, so the disparity is stated in words rather than numbers.** Do not "restore" a number here without a primary source.
 
 ## Acute Hoarseness
 
@@ -1828,53 +1750,131 @@ All six skips are T3.
 
 > [!info] **Block 5.**
 
-<!-- ===== SOURCE: D7_Cranial_Nerves_and_Special_Senses.md ===== -->
-*Moved here from `Neuro_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+<!-- ===== SOURCE: NEW_Drugs_09_ENT.md ===== -->
 
-## 0.4 Speech, Voice and Swallowing
 
-> [!tip] Three different problems that all sound like "trouble talking"
-> **· Dysphasia (aphasia) — a LANGUAGE problem.** The content is wrong. Dominant hemisphere.
-> **· Dysarthria — an ARTICULATION problem.** The language is intact but the production is impaired; **writing is normal.**
-> **· Dysphonia — a VOICE problem.** Volume and quality of phonation; larynx and recurrent laryngeal nerve.
-> **Asking the patient to WRITE a sentence separates dysphasia from dysarthria immediately** — the dysarthric patient writes normally, the dysphasic patient does not.
+# NEW — Drug Classes: Ear, Nose and Throat (AMH section 9)
 
-> [!info] Aphasia types
-> **Broca (expressive, non-fluent)** — effortful, telegraphic, sparse output; **comprehension relatively preserved**, so **the patient knows what they want to say and cannot say it, and is visibly frustrated.** Often with a right hemiparesis.
-> **Wernicke (receptive, fluent)** — fluent, normal rhythm, but full of paraphasias and neologisms — "word salad"; **comprehension is poor and the patient is typically UNAWARE**, which is why they can be mistaken for confused or psychotic.
-> **Conduction aphasia** — fluent, good comprehension, but **repetition is disproportionately impaired.**
-> **Global aphasia** — both expressive and receptive, with large dominant hemisphere lesions.
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
 
-> [!info] Dysarthria types localise the lesion
-> **· Spastic** — strained, slow, effortful. **Bilateral UMN.**
-> **· Flaccid** — breathy, **nasal**, with weak consonants. **LMN or bulbar.**
-> **· Ataxic** — irregular, **"scanning"**, with variable volume and explosive bursts. **Cerebellar.**
-> **· Hypokinetic** — quiet, monotonous, rapid and festinant, with reduced articulation. **Parkinsonism.**
-> **· Hyperkinetic** — irregular interruptions. Chorea, dystonia.
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
 
-> [!danger] Bulbar versus pseudobulbar palsy
-> **· Bulbar palsy — LOWER motor neurone.** **Flaccid, wasted, FASCICULATING tongue; absent gag; nasal speech; nasal regurgitation of fluids.** Causes: motor neurone disease, Guillain–Barré, myasthenia, brainstem lesions, poliomyelitis.
-> **· Pseudobulbar palsy — bilateral UPPER motor neurone.** **Small, spastic, immobile tongue with NO fasciculation; BRISK jaw jerk; slow strained speech; and EMOTIONAL LABILITY (pathological laughing and crying) which is characteristic and distressing.** Causes: bilateral strokes, motor neurone disease, multiple sclerosis, extensive small vessel disease.
-> **A fasciculating tongue with brisk reflexes elsewhere is motor neurone disease until proven otherwise.**
-
-> [!warning] Dysphagia — the first question is oropharyngeal or oesophageal
-> **· Oropharyngeal** — **difficulty INITIATING the swallow**, coughing or choking immediately, nasal regurgitation, drooling, recurrent chest infections. **Neurological or muscular.** Cross-refer [[F3]].
-> **· Oesophageal** — **food "sticking" seconds AFTER swallowing**, pointed to at the sternum. **Structural or motility.** Cross-refer [[C6]] 0.3.
-> **Aspiration risk is the acute concern in oropharyngeal dysphagia.** **Nil by mouth pending a swallow screen** in any acute neurological presentation with speech or swallow disturbance — cross-refer [[D3]] 0.1. **Silent aspiration — aspiration without coughing — is common and is precisely why a formal screen is needed rather than watching them sip water.**
-
-> [!danger] Hoarseness lasting more than about three weeks needs laryngoscopy
-> **Persistent hoarseness is laryngeal carcinoma until proven otherwise, particularly in a smoker.** It also indicates recurrent laryngeal nerve palsy — and **the left recurrent laryngeal nerve loops under the aortic arch, so a left vocal cord palsy can be caused by lung cancer, mediastinal disease, an aortic aneurysm, or thyroid or oesophageal malignancy.**
-> **A new hoarse voice is a symptom to investigate, not to treat with reassurance and voice rest.** Cross-refer [[F3]]. `UNVERIFIED — the duration threshold for referral in current Australian guidance.`
-
-**Ix:** **Ask the patient to write** (*why:* separates dysphasia from dysarthria in seconds; *what:* normal writing in dysarthria). Full neurological examination including tongue, palate and gag (*why:* localises bulbar versus pseudobulbar; *what:* fasciculation, wasting, jaw jerk). **Formal swallow screen, then speech pathology assessment** (*why:* prevents aspiration pneumonia, and detects silent aspiration that bedside observation misses; *what:* aspiration risk). **Videofluoroscopy or fibreoptic endoscopic evaluation of swallowing** (*why:* the definitive assessment of oropharyngeal dysphagia and of silent aspiration; *what:* penetration, aspiration, residue). **Flexible nasendoscopy for hoarseness** (*why:* visualises the cords and detects malignancy and palsy; *what:* mass, cord palsy). CT chest and neck for a left vocal cord palsy (*why:* traces the recurrent laryngeal nerve along its course; *what:* lung, mediastinal, thyroid or oesophageal lesion). MRI brain (*why:* stroke, demyelination, brainstem lesion; *what:* structural cause). EMG and nerve conduction studies (*why:* motor neurone disease, myasthenia; *what:* denervation, decrement).
-
-### 0.4.1 Mx – Immediate
-**Nil by mouth pending swallow screen.** Airway protection where bulbar function is severely impaired.
-
-### 0.4.2 Mx – Definitive
-Cause-specific, with speech pathology central to management.
-
-### 0.4.3 Mx – Chronic/long-term
-Speech pathology for both communication and swallowing. Modified diets and fluids. **Communication aids — and the recognition that being unable to communicate is profoundly isolating and is a major cause of low mood after stroke.** Consideration of enteral feeding in progressive disease, ideally discussed in advance as part of advance care planning.
+> [!info] **A theme running through this section: technique and duration matter more than agent choice.** Most ENT topical failures are **not** the wrong drug — they are a spray aimed at the septum, drops that never reached a swollen canal, a decongestant used for three weeks instead of three days, or a treatment stopped at day four of a fourteen-day course.
 
 ---
+
+## 0.1 Drugs for Ear Infections
+
+- **Key agents:** topical **ciprofloxacin** drops (± a corticosteroid), **framycetin/neomycin** and **gentamicin** drops, chloramphenicol drops, and acetic acid / aluminium acetate preparations; **oral antibiotics** where systemic treatment is indicated (amoxicillin first-line for acute otitis media in Australia); topical and systemic **antifungals** for otomycosis.
+- **Indications:** **otitis externa** — where **topical treatment is more effective than oral antibiotics**, and **aural toilet (microsuction or dry mopping) is at least as important as the drops**; **chronic suppurative otitis media** with discharge through a perforation or grommet; and **acute otitis media**, most of which is viral or self-limiting.
+
+> [!danger] **AMINOGLYCOSIDE EAR DROPS WITH A PERFORATED DRUM OR GROMMETS: the ototoxicity trap.**
+> **Framycetin, neomycin and gentamicin drops can cause PERMANENT sensorineural hearing loss** if they reach the middle ear through a perforation or grommet. **Where the drum is perforated or grommets are in place, use a QUINOLONE drop (ciprofloxacin), which is not ototoxic.** This is standard and is frequently got wrong.
+
+> [!warning] **Acute otitis media: most children do not need an antibiotic.** Australian practice supports **analgesia and review**, with antibiotics reserved for those under 6 months, systemically unwell children, those with a perforation and discharge, bilateral disease in the very young, immunosuppression, and — importantly — **Aboriginal and Torres Strait Islander children, in whom the threshold is lower** because of the burden of chronic suppurative otitis media and its consequences for hearing, language and education. **Analgesia is the treatment patients actually want and is under-prescribed.**
+
+> [!danger] **Do not ignore**
+> - **A wick is needed when the canal is too swollen for drops to penetrate** — otherwise the drops sit at the meatus and the patient "fails treatment".
+> - **Keep the ear dry**, and review non-responders.
+> - **Failure to respond suggests fungal otitis externa** (*Aspergillus*, *Candida* — which topical antibiotic use itself predisposes to), a foreign body, or underlying eczema or psoriasis.
+> - **NECROTISING (MALIGNANT) OTITIS EXTERNA** — severe pain, granulation tissue in the canal, cranial nerve palsy, in an **elderly diabetic or immunosuppressed** patient. This is a *Pseudomonas* skull-base osteomyelitis needing urgent imaging, admission and prolonged systemic therapy.
+> - **Mastoiditis, intracranial complications and facial nerve palsy** complicate otitis media and are emergencies.
+> - See [[13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear]] and `NEW_Drugs_05_Anti_infectives.md` 0.2.21.
+
+## 0.2 Drugs for Ear Wax
+
+### 0.2.1 Cerumenolytics
+- **Mechanism:** soften, break down or disperse cerumen. **Water- or oil-based** (docusate sodium, sodium bicarbonate, olive and almond oil, glycerol) or **non-water-based organic** preparations; several are simple emollients rather than true keratolytics.
+- **Indications:** **symptomatic** wax impaction — hearing loss, blocked sensation, tinnitus, discomfort — or wax preventing **examination of the drum**, audiometry, or hearing aid fitting.
+- **Role:** softening before syringing/irrigation or microsuction, and sometimes sufficient alone. Evidence between agents is weak and **plain water or sodium bicarbonate performs comparably to proprietary products** in several comparisons — cost is a reasonable deciding factor.
+
+> [!danger] **Do not irrigate an ear with a perforated or possibly perforated tympanic membrane, grommets, previous ear surgery, or a history of ear discharge — and do not irrigate an ear with a foreign body or in a patient who has had complications previously.** Irrigation can cause perforation, ossicular damage, vertigo, otitis externa and, rarely, permanent hearing loss. **Look first.** If you cannot see the drum, that is a reason for microsuction by someone who can, not a reason to flush.
+
+> [!warning] **Asymptomatic wax does not need treatment**, and **cotton buds are the commonest cause of impaction** — they push wax inward and abrade the canal. Advise against them explicitly.
+
+## 0.4 Drugs for Rhinitis and Sinusitis
+
+### 0.4.1 Intranasal Corticosteroids
+- **Key agents:** **mometasone, fluticasone propionate and furoate, budesonide, beclometasone, ciclesonide**; and **fixed combinations with an intranasal antihistamine** (azelastine/fluticasone).
+- **Mechanism:** local anti-inflammatory action on the nasal mucosa, reducing all four cardinal symptoms — congestion, rhinorrhoea, sneezing and itch — and with some benefit for associated ocular symptoms.
+- **Role:** **FIRST-LINE for persistent or moderate-to-severe allergic rhinitis in Australia (ASCIA)**, alone or with an intranasal antihistamine, and the most effective single class. Also used in chronic rhinosinusitis and nasal polyposis.
+
+> [!warning] **They take days to weeks for full effect and must be used REGULARLY, not as required.** A patient who uses one "when blocked" concludes it does not work. **Say this explicitly at the time of prescribing** — it is the single commonest reason for apparent failure.
+
+> [!danger] **TECHNIQUE — aim AWAY from the septum, and this is not a cosmetic detail.**
+> Sources report that **pointing the spray tip toward the nasal septum increased adverse event risk 3.6-fold**, and that an ipsilateral-hand technique was associated with a 15.5% epistaxis rate. **Standard technique: neutral head position (do not tilt the head back), spray tip directed upward and LATERALLY toward the ipsilateral outer canthus — conventionally using the opposite hand — do not sniff hard, and breathe out through the mouth.**
+> **Epistaxis** is a confirmed class effect — a meta-analysis found an increased risk versus placebo, with **beclometasone HFA, fluticasone furoate, mometasone furoate and fluticasone propionate at the higher end and beclometasone aqueous and ciclesonide at the lower end**. **Septal perforation is rare but described with continuous use beyond about a year.** Stop and reassess for persistent bleeding or crusting.
+
+- **Other adverse effects:** nasal dryness, irritation, throat irritation. **Systemic effects are minimal at usual doses**, though growth velocity in children on long-term treatment is monitored, and caution applies with concurrent inhaled or oral corticosteroids (cumulative burden) and with **ritonavir/cobicistat**, which can cause iatrogenic Cushing syndrome with fluticasone (see `NEW_Drugs_05_Anti_infectives.md` 0.5.3).
+
+### 0.4.2 Other Drugs for Rhinitis and Sinusitis
+- **Intranasal antihistamines (azelastine)** — fast onset (minutes); used alone in mild disease and as **step-up added to an intranasal corticosteroid**. **Bitter taste** is the main tolerability issue. See `NEW_Drugs_01_Allergy_and_Anaphylaxis.md` 0.1.3.
+- **Oral antihistamines** — less sedating agents; better for sneeze, itch and ocular symptoms than for **congestion**, which is the symptom they most often fail to relieve.
+- **Intranasal ipratropium** — an antimuscarinic specifically for **watery rhinorrhoea**, including vasomotor and gustatory rhinitis, where it works well and is under-used.
+- **Intranasal sodium cromoglicate** — mast cell stabiliser; preventive, needs frequent regular dosing, very safe (useful in children and pregnancy). See `NEW_Drugs_01_Allergy_and_Anaphylaxis.md` 0.4.1.
+- **Saline irrigation** — cheap, safe, evidence-supported in both allergic rhinitis and chronic rhinosinusitis, and consistently under-recommended. **Use sterile, distilled or previously boiled and cooled water** — not untreated tap water (rare but fatal amoebic infection has been reported).
+- **Leukotriene receptor antagonists (montelukast)** — an option with coexisting asthma; **the neuropsychiatric warning must be discussed** (sleep disturbance, nightmares, agitation, depression, suicidal ideation).
+- **Allergen immunotherapy** — the only disease-modifying option; specialist-initiated.
+- **Antibiotics for sinusitis** — **most acute rhinosinusitis is viral and does not need antibiotics.** Reserve for prolonged, severe, or "double-worsening" illness, and be alert to **orbital and intracranial complications** (periorbital swelling, proptosis, eye movement restriction, visual change, severe headache, neurological signs) which need urgent imaging and admission. See [[13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_]].
+
+## 0.5 Intranasal Decongestants
+
+- **Key agents:** **oxymetazoline, xylometazoline, phenylephrine** (topical); **tramazoline**.
+- **Mechanism:** **α-adrenoceptor agonists** producing vasoconstriction of the nasal mucosal vasculature → rapid, marked reduction in congestion.
+- **Role:** **short-term symptomatic relief only** — an adjunct while another treatment takes effect, for eustachian tube dysfunction, or to allow examination or the penetration of a nasal corticosteroid in a very blocked nose.
+
+> [!danger] **RHINITIS MEDICAMENTOSA: the reason these must be limited to a few days.**
+> Sources are consistent that **intranasal decongestants should be used in short courses only, and can be considered for up to about 5 days**, because longer use causes **rebound congestion**. The patient's nose blocks worse than before, they use more spray, and a self-perpetuating dependence develops that can take weeks of misery to unwind (with an intranasal corticosteroid, saline and often a short course of oral steroid). **Patients buy these over the counter and use them for months.** **Ask specifically about nasal spray use in anyone with chronic congestion**, and give an explicit stop date when recommending one.
+
+### 0.5.1 Oral Decongestants
+- **Key agents:** **pseudoephedrine, phenylephrine**.
+- **Mechanism:** systemic sympathomimetics.
+- **Efficacy:** **oral phenylephrine has largely failed to demonstrate efficacy** at usual oral doses (extensive first-pass metabolism), and this is a reasonable thing to tell a patient buying it. Pseudoephedrine is more effective.
+- **Adverse effects and cautions:** **hypertension, tachycardia and arrhythmia, insomnia, agitation, tremor, and urinary retention** in men with prostatic obstruction; **angle-closure glaucoma**. **Avoid or use with caution in hypertension, ischaemic heart disease, arrhythmia, hyperthyroidism, diabetes, and with MAOIs** (hypertensive crisis).
+- **Australian regulatory context:** **pseudoephedrine is restricted** (pharmacist-only, with photo identification and recording through Project STOP) because of diversion to methamphetamine manufacture — worth knowing when a patient asks why they were questioned at the pharmacy.
+- **Do not ignore:** these are in very many **combination cold-and-flu preparations**, which also frequently contain **paracetamol** — a well-documented route to **inadvertent paracetamol overdose** when taken alongside regular paracetamol (see `NEW_Drugs_03_Analgesics.md` 0.4.1). **Ask what over-the-counter products the patient is taking, by name.**
+
+## 0.6 Drugs for Other Nasal Conditions
+
+- **Epistaxis:** **topical vasoconstrictor** (e.g. oxymetazoline or co-phenylcaine) with pressure as first aid; **topical antiseptic/antibiotic ointment** (chlorhexidine–neomycin, mupirocin) for anterior crusting and recurrent minor bleeds; **tranexamic acid** (topical or systemic) for recurrent or troublesome bleeding; **silver nitrate cautery** for an identified anterior bleeding point; and **nasal packing** where those fail.
+
+> [!danger] **In epistaxis, do the simple thing properly first: firm continuous pressure on the SOFT part of the nose (not the bony bridge) for 10–15 minutes, sitting up and leaning forward.** Then: **look for the cause and the risk** — anticoagulants and antiplatelets, hypertension, alcohol, nasal steroid or cocaine use, digital trauma, hereditary haemorrhagic telangiectasia, and thrombocytopenia or coagulopathy. **Posterior bleeding, haemodynamic compromise, or bleeding on anticoagulation may need admission, ENT and reversal decisions.** A **unilateral blood-stained discharge or obstruction in an adult**, especially with facial numbness or a neck node, raises **nasal or nasopharyngeal malignancy**.
+- **Nasal dryness and crusting:** saline gels and sprays, petroleum-based ointments (avoid prolonged use, and avoid in patients at aspiration risk — lipoid pneumonia).
+- **Nasal polyposis:** intranasal and, in severe disease, oral corticosteroids; **biologics (dupilumab, omalizumab, mepolizumab)** in severe chronic rhinosinusitis with nasal polyps; surgery. **Consider aspirin-exacerbated respiratory disease** (asthma + polyps + NSAID sensitivity) and **cystic fibrosis or primary ciliary dyskinesia in a child with polyps** — polyps in a child are not normal.
+- **Anosmia** — a symptom to take seriously: post-viral, rhinosinusitis, head injury, and neurodegenerative disease. There is no reliable drug treatment; **olfactory training** and treatment of any underlying inflammatory disease are the options.
+
+---
+
+## 0.3 Drugs for Mouth and Throat Conditions
+
+- **Oral candidiasis:** **nystatin oral suspension**, **miconazole oral gel**, **amphotericin lozenges**; systemic **fluconazole** for extensive, oesophageal or refractory disease.
+
+> [!danger] **MICONAZOLE ORAL GEL AND WARFARIN — a lethal and entirely preventable interaction.**
+> Sources are emphatic: miconazole oral gel **potentiates warfarin**, with the proportion of patients having an **INR above 5 rising from 5.5% to 30.1%** after starting it, and documented **morbidity and mortality**. Sources advise that **nystatin should be prescribed instead of miconazole oral gel in patients taking warfarin** unless close INR monitoring and titration is arranged — and that **INR was unaffected by nystatin oral solution**. It is easy to think of an oral gel as "topical" and therefore harmless. It is not.
+
+> [!warning] **Oral candidiasis is usually a sign of something else.** Look for **inhaled corticosteroid use without rinsing and spitting** (the commonest cause and easily fixed), dentures and denture hygiene, dry mouth, antibiotics, diabetes, iron/B₁₂/folate deficiency, and **immunosuppression including undiagnosed HIV**. **Oesophageal candidiasis is an AIDS-defining illness** — a patient with dysphagia and thrush needs an HIV test.
+
+- **Aphthous ulceration and mucosal inflammation:** topical **corticosteroids** (triamcinolone in orabase, betamethasone mouthwash), **benzydamine** (a topical NSAID with analgesic and anti-inflammatory action, useful in mucositis and pharyngitis), **chlorhexidine** and other antiseptic mouthwashes, topical local anaesthetics, and barrier preparations. **Look for the underlying cause in recurrent or severe ulceration:** iron, B₁₂ and folate deficiency, **coeliac disease**, inflammatory bowel disease, Behçet syndrome, HIV, and drugs (nicorandil — see `NEW_Drugs_06_Cardiovascular.md` 0.6.2 — methotrexate, NSAIDs).
+- **Dry mouth (xerostomia):** saliva substitutes, sugar-free gum, **pilocarpine** in Sjögren syndrome and after head and neck radiotherapy; and a **medication review** — anticholinergics, tricyclics, antipsychotics, antihistamines, opioids and diuretics are the usual cause. **Xerostomia causes rampant dental caries** — dental referral is part of management.
+- **Sore throat:** **analgesia is the main treatment.** Lozenges and sprays give short-lived relief. **Antibiotics are for group A streptococcal pharyngitis where indicated**, and Australian thresholds differ by population: **Aboriginal and Torres Strait Islander people and others at high risk of acute rheumatic fever are treated, because preventing ARF and rheumatic heart disease is the point** — see [[13_05a_ENT_-_Sore_Throat_and_Tonsillitis]].
+- **Oral corticosteroids** — for severe pharyngitis or croup; **dexamethasone in croup is one of the highest-yield single interventions in paediatrics.**
+
+> [!danger] **Do not ignore the red flags in the mouth and throat:** a **persistent ulcer beyond about 3 weeks, an indurated or fixed lesion, unexplained hoarseness, dysphagia, otalgia with a normal ear, a neck lump, or leukoplakia/erythroplakia** — these are **head and neck cancer until proven otherwise** and require urgent specialist referral, not another mouthwash. **Trismus, drooling, "hot potato" voice, stridor or systemic toxicity** signal **quinsy, epiglottitis or deep neck space infection** — airway emergencies. See [[13_06a_ENT_-_Dysphonia_and_HNSCC]] and [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]].
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Drugs for ear infections | SUB | yes | Carries the aminoglycoside-drops-and-perforation ototoxicity warning and the Australian lower antibiotic threshold for Aboriginal and Torres Strait Islander children. |
+| 0.2 | Drugs for ear wax | SUB | yes | |
+| 0.2.1 | Cerumenolytics | CLS | yes | |
+| 0.3 | Drugs for mouth and throat conditions | SUB | yes | Carries the miconazole oral gel–warfarin interaction with its INR figures. |
+| 0.4 | Drugs for rhinitis and sinusitis | SUB | yes | |
+| 0.4.1 | Corticosteroids (intranasal) | CLS | yes | Spray technique given with the 3.6-fold adverse-event figure for septal aiming. |
+| 0.4.2 | Other drugs for rhinitis and sinusitis | CLS | yes | |
+| 0.5 | Intranasal decongestants | SUB | yes | Rhinitis medicamentosa and the ~5-day limit. |
+| 0.5.1 | Oral decongestants | CLS | yes | Includes the Australian pseudoephedrine restriction and the combination-product paracetamol overdose route. |
+| 0.6 | Drugs for other nasal conditions | SUB | yes | |
+
+**Rows in file: 10 (6 SUB + 4 CLS). AMH section 9 build-list rows: 10. Section complete.**
+
