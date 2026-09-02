@@ -1,5 +1,408 @@
 
 
+<!-- ===== SOURCE: H3_Acute_Kidney_Injury_and_CKD.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Mechanism, diagnostic reasoning and discriminators are reliable at intern level. **Every staging criterion, eGFR threshold, dose and referral criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **KDIGO**, **Kidney Health Australia (CKD management handbook and CARI guidelines)**, eTG and the Australian Medicines Handbook.
+> **Note that the position on contrast-associated AKI has changed substantially** — see 0.5.
+>
+> **Hyponatraemia, hypernatraemia and potassium disorders are built in [[I5]] 0.5–0.6**, **CKD-MBD in [[I3]] 0.5**, and **glomerular disease in [[H1]]** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Acute Kidney Injury — Definition and Approach
+
+> [!danger] Creatinine is a late, insensitive marker — and the "normal range" hides a lot
+> **Creatinine rises only after a substantial fall in GFR, and it LAGS the injury by a day or more.** By the time it is abnormal, the damage has occurred.
+> **A rise from 60 to 110 µmol/L is a DOUBLING of creatinine and represents a major fall in GFR — yet both values sit within most laboratory reference ranges.** **AKI is defined by the CHANGE, not by crossing a threshold.**
+> **THE BASELINE IS ESSENTIAL. Look it up.** Without a previous result you cannot stage the injury, cannot distinguish acute from chronic, and cannot tell whether the patient is improving.
+> **Creatinine also over-estimates function in low muscle mass** — the elderly, women, the malnourished, amputees, and patients with cirrhosis. **A frail 85-year-old with a creatinine of 90 may have substantially impaired renal function.**
+> **Urine output falls BEFORE creatinine rises**, which makes it the earlier signal — and the reason fluid balance charts matter.
+> `UNVERIFIED — the KDIGO staging criteria for creatinine rise and urine output.`
+
+> [!tip] Four questions, in order
+> **1. IS THIS ACUTE, CHRONIC, OR ACUTE-ON-CHRONIC?**
+> **Features favouring CHRONIC: previous abnormal results · ANAEMIA · HYPOCALCAEMIA with HYPERPHOSPHATAEMIA and raised PTH · SMALL, ECHOGENIC KIDNEYS on ultrasound · and long-standing hypertension.**
+> **This matters because chronic disease does not recover, the workup differs, and small kidneys mean biopsy is pointless.**
+> **2. IS IT PRE-RENAL, RENAL OR POST-RENAL?** See 0.2.
+> **3. IS THE PATIENT SICK RIGHT NOW — hyperkalaemia, acidosis, fluid overload, uraemic complications?** These need addressing before the diagnosis is complete.
+> **4. WHAT IS REVERSIBLE?** — obstruction, hypovolaemia, sepsis, and drugs. These are where the intervention is.
+
+---
+
+## 0.2 The Causes
+
+> [!info] Pre-renal — the commonest, and the drug combination that causes it
+> **· TRUE hypovolaemia — haemorrhage, gastrointestinal losses, burns, over-diuresis, third-spacing (pancreatitis, obstruction, sepsis).** Cross-refer [[F0.2]] 0.10.
+> **· REDUCED EFFECTIVE circulating volume despite total body fluid overload — heart failure, cirrhosis, nephrotic syndrome, and the vasodilatation of sepsis.** **These patients are oedematous AND under-perfused, which is why the fluid decision is hard.**
+> **· Renovascular — renal artery stenosis, where an ACE inhibitor or ARB removes the efferent arteriolar constriction the kidney is relying on.**
+> **· DRUGS THAT IMPAIR GLOMERULAR AUTOREGULATION — and this is the mechanism worth understanding properly:**
+> **NSAIDs block prostaglandin-mediated dilatation of the AFFERENT arteriole (reducing inflow). ACE inhibitors and ARBs block angiotensin-mediated constriction of the EFFERENT arteriole (reducing outflow resistance). Either alone reduces filtration pressure; TOGETHER, plus a DIURETIC reducing volume, they remove both compensatory mechanisms at once.**
+> **This is the "TRIPLE WHAMMY" — ACE inhibitor or ARB + diuretic + NSAID — and it is one of the commonest causes of drug-induced AKI in the community, particularly when a patient becomes dehydrated with a diarrhoeal illness.**
+> **HEPATORENAL SYNDROME** — cross-refer [[C3]] 0.6.
+
+> [!warning] Intrinsic renal
+> **· ACUTE TUBULAR NECROSIS — the commonest intrinsic cause.** Either **ISCHAEMIC** (prolonged pre-renal insult that has tipped over) or **TOXIC** (aminoglycosides, contrast, MYOGLOBIN, haemoglobin, light chains, cisplatin). **Muddy brown granular casts on urine microscopy.** Recovery takes days to weeks and may pass through a polyuric phase.
+> **· ACUTE INTERSTITIAL NEPHRITIS — see the box below.**
+> **· GLOMERULAR disease** — cross-refer [[H1]] 0.3.
+> **· VASCULAR — vasculitis · thrombotic microangiopathy (TTP, HUS) · SCLERODERMA RENAL CRISIS (cross-refer [[L2]] 0.4) · malignant hypertension · and ATHEROEMBOLIC disease.**
+> **ATHEROEMBOLIC (cholesterol embolisation) — occurs DAYS TO WEEKS AFTER an arterial procedure (angiography, cardiac catheterisation, aortic surgery) or after starting anticoagulation, with a subacute stepwise rise in creatinine, LIVEDO RETICULARIS, blue toes with preserved pulses, EOSINOPHILIA and LOW COMPLEMENT.** **It is frequently misattributed to contrast nephropathy — but contrast injury occurs within days and recovers, whereas atheroembolic disease appears later and progresses.** The timing distinguishes them.
+> **· TUMOUR LYSIS SYNDROME, RHABDOMYOLYSIS, and MYELOMA CAST NEPHROPATHY.** Cross-refer [[A7]] 0.6 and [[J4]].
+
+> [!danger] Acute interstitial nephritis — and proton pump inhibitors are now a leading cause
+> **A hypersensitivity reaction within the renal interstitium, most often DRUG-induced.**
+> **The drugs: PROTON PUMP INHIBITORS (now among the commonest causes, and markedly under-recognised because they are so widely and chronically prescribed) · NSAIDs · penicillins and cephalosporins · sulfonamides · allopurinol · mesalazine · rifampicin.** Also infection and autoimmune disease.
+> **The classic triad of FEVER, RASH and EOSINOPHILIA is present in a MINORITY — its absence does not exclude the diagnosis, and relying on it is why AIN is missed.**
+> **Urinary eosinophils are unreliable and no longer recommended.** **White cell casts and sterile pyuria support it.**
+> **Diagnosis is often presumptive; biopsy is definitive.**
+> **Treatment is STOPPING THE DRUG, with corticosteroids in selected cases — and the earlier the drug is stopped, the better the recovery.**
+> **Practical implication: in any unexplained AKI, review the full drug list including the PPI that has been on the chart for years and that nobody considers a medication.**
+
+> [!danger] Always exclude post-renal — it is the most reversible cause
+> **Obstruction requires BOTH kidneys, a single functioning kidney, or the bladder outlet.**
+> **A bladder scan takes two minutes and a renal ultrasound takes minutes more.** **Missing obstruction means losing nephrons that a catheter or a nephrostomy would have saved.**
+> **And note: hydronephrosis can be ABSENT in early obstruction and in retroperitoneal fibrosis or encasing malignancy, where the collecting system cannot dilate** — so a normal ultrasound does not fully exclude it if the clinical suspicion is high. Cross-refer [[H2]] 0.4.
+
+> [!warning] Distinguishing pre-renal from ATN — and why the classical tests disappoint
+> **Classically: pre-renal shows LOW urine sodium, LOW fractional excretion of sodium, and HIGH urine osmolality (the kidney is working hard to retain salt and water); ATN shows the opposite (the tubules cannot).**
+> **In practice these are frequently unhelpful: DIURETICS invalidate the sodium-based indices entirely · they are unreliable in CKD, sepsis and contrast injury · and the two states exist on a continuum.**
+> **The most informative test is usually the RESPONSE TO A CAREFULLY GIVEN FLUID CHALLENGE with reassessment** — and **URINE MICROSCOPY, which costs nothing and is genuinely discriminating.**
+> **URINALYSIS AND MICROSCOPY IS THE MOST UNDER-USED TEST IN AKI:**
+> **· BLAND sediment → pre-renal or post-renal.**
+> **· MUDDY BROWN GRANULAR CASTS → acute tubular necrosis.**
+> **· RED CELL CASTS and proteinuria → glomerulonephritis — an urgent finding.**
+> **· WHITE CELL CASTS and sterile pyuria → interstitial nephritis or pyelonephritis.**
+> **· Crystals → tumour lysis, ethylene glycol, drug crystalluria.**
+
+---
+
+## 0.3 Management and the Dialysis Indications
+
+> [!danger] Stop the nephrotoxins — the sick day medication list
+> **Withhold in AKI and during acute dehydrating illness:**
+> **· ACE INHIBITORS and ARBs · DIURETICS · NSAIDs · METFORMIN (risk of lactic acidosis if the injury progresses) · SGLT2 INHIBITORS · and review aminoglycosides, vancomycin, contrast and other nephrotoxins.**
+> **Every patient on these drugs should have SICK DAY RULES explained — that they are held during vomiting, diarrhoea or fever, and restarted when eating and drinking normally.** **This is a genuinely preventive intervention delivered in general practice, and it is rarely given.** Cross-refer [[I2]] 0.7.
+> **TRIMETHOPRIM raises creatinine by blocking tubular SECRETION of creatinine WITHOUT reducing GFR** — a "pseudo-AKI". **It also causes hyperkalaemia.** **Know it, so you neither panic nor dismiss a genuine injury.**
+
+> [!warning] Volume — both under- and over-filling cause harm
+> **Assess volume status properly: history of losses and intake, weight change, blood pressure and POSTURAL change, JVP, mucous membranes, capillary refill, and chest examination.**
+> **Give a fluid challenge and REASSESS**, rather than prescribing a fixed regimen and reviewing tomorrow.
+> **Use BALANCED CRYSTALLOID rather than large volumes of 0.9% saline, which causes hyperchloraemic acidosis.** Cross-refer [[F0.2]] 0.6.
+> **In the oedematous but under-perfused patient (heart failure, cirrhosis), the decision is genuinely difficult and warrants senior input rather than a reflex bolus or a reflex diuretic.**
+> **Monitor: daily weight (the most reliable measure), fluid balance, urine output, and daily UEC.** **Catheterise only if accurate output measurement genuinely changes management.**
+
+> [!danger] The indications for urgent dialysis — AEIOU
+> **· A — ACIDOSIS, severe and refractory to medical management.**
+> **· E — ELECTROLYTES: refractory HYPERKALAEMIA.**
+> **· I — INTOXICATION with a dialysable substance (lithium, salicylate, toxic alcohols, metformin).**
+> **· O — OVERLOAD: refractory pulmonary oedema unresponsive to diuresis.**
+> **· U — URAEMIA with complications: encephalopathy, PERICARDITIS (a rub is a hard indication), or bleeding from uraemic platelet dysfunction.**
+> **The word "refractory" is doing the work in most of these** — dialysis is for what medical management has failed to control, not for a number in isolation.
+
+> [!danger] AKI is not benign, and the follow-up is routinely not arranged
+> **AKI independently increases in-hospital mortality, and survivors carry a substantially increased risk of subsequent CHRONIC kidney disease, cardiovascular events and recurrent AKI.**
+> **The discharge failures that matter:**
+> **1. THE HELD MEDICATIONS ARE NEVER RESTARTED — or are restarted without monitoring.** **Name explicitly in the discharge summary WHICH drugs were held, WHY, WHO should restart them, WHEN, and with what monitoring.** "ACE inhibitor withheld" with no plan means either a patient permanently off a beneficial drug, or one restarted blindly.
+> **2. NO FOLLOW-UP CREATININE IS ARRANGED.** Arrange one, with a named clinician.
+> **3. THE AKI IS NOT DOCUMENTED AS A DIAGNOSIS**, so the next clinician does not know it happened.
+> **4. Blood pressure and proteinuria are not rechecked.**
+
+---
+
+## 0.4 Chronic Kidney Disease
+
+> [!info] Staging uses TWO axes — eGFR and albuminuria
+> **CKD is defined by abnormalities of kidney structure or function present for more than three months.**
+> **It is staged by BOTH: the eGFR category (G1–G5) AND the ALBUMINURIA category (A1–A3).**
+> **"CKD stage 3" alone is an incomplete description** — the albuminuria category independently predicts progression and cardiovascular risk, and a patient with the same eGFR but heavy albuminuria has a substantially worse prognosis.
+> `UNVERIFIED — the eGFR and ACR cut-offs for each category, and the combined risk matrix.`
+> **eGFR caveats: it is NOT valid in acute kidney injury (it assumes a steady state) · it is unreliable at extremes of body size and muscle mass, in amputees, in pregnancy and in cirrhosis · and the historical race-based adjustment has been removed in many jurisdictions.** `UNVERIFIED — the current equation and its adjustments in Australia.`
+
+> [!tip] Causes, and what to look for
+> **· DIABETES — the commonest cause in Australia.** Cross-refer [[I2]] 0.5.
+> **· Hypertension and vascular disease.**
+> **· Glomerulonephritis** — cross-refer [[H1]].
+> **· POLYCYSTIC KIDNEY DISEASE — autosomal dominant, with a family history, hypertension, haematuria, and extrarenal associations including INTRACRANIAL ANEURYSMS, hepatic cysts and mitral valve prolapse.** Cross-refer [[D1]] 0.2.
+> **· Reflux nephropathy, obstruction, myeloma, and drug-related (lithium, analgesics, calcineurin inhibitors).**
+
+> [!danger] Most people with CKD die of cardiovascular disease before they reach dialysis
+> **CKD is a powerful, independent cardiovascular risk factor — and the risk rises with falling eGFR and with increasing albuminuria.**
+> **This reframes the management: aggressive cardiovascular risk reduction is at least as important as renal-specific treatment**, and it is frequently neglected because the focus is on the kidney.
+
+> [!warning] The complications, and what to monitor
+> **· ANAEMIA — from erythropoietin deficiency and functional iron deficiency. CORRECT IRON FIRST, then consider an erythropoiesis-stimulating agent.** **Do not over-correct the haemoglobin — higher targets increase stroke and mortality.** `UNVERIFIED — targets.`
+> **· CKD-MINERAL AND BONE DISORDER — hyperphosphataemia, reduced calcitriol, secondary hyperparathyroidism, and VASCULAR CALCIFICATION, which is the outcome that actually matters.** Cross-refer [[I3]] 0.5.
+> **· METABOLIC ACIDOSIS — contributes to bone loss, muscle wasting and progression; treated with oral bicarbonate.**
+> **· HYPERKALAEMIA — which constrains the use of the RAS blockade that protects the kidney, and is the commonest reason it is stopped inappropriately.** Cross-refer [[I5]] 0.6.
+> **· Fluid overload and hypertension.**
+> **· Uraemic symptoms — fatigue, nausea, anorexia, PRURITUS (which is severe, under-treated and profoundly distressing), RESTLESS LEGS, sleep disturbance, and sexual dysfunction.**
+> **· Malnutrition and sarcopenia.**
+
+> [!tip] Slowing progression — and SGLT2 inhibitors have changed this
+> **· BLOOD PRESSURE control — the largest single lever.**
+> **· RAS BLOCKADE (ACE inhibitor or ARB, not both) — reduces proteinuria and slows progression.** **Expect and accept a modest creatinine rise on initiation.**
+> **· SGLT2 INHIBITORS — now a core renal protective therapy, with benefit in chronic kidney disease INDEPENDENT of diabetes.** **This is a substantial and relatively recent change, and these agents are under-prescribed in non-diabetic CKD.**
+> **· Non-steroidal mineralocorticoid receptor antagonists (finerenone) in diabetic kidney disease.**
+> **· Glycaemic control, sodium restriction, smoking cessation, weight management, and avoidance of nephrotoxins.**
+> `UNVERIFIED — agents, eGFR thresholds for initiation, and PBS criteria.`
+
+> [!danger] Preserve the veins — "fistula first" starts on the ward
+> **A patient likely to need haemodialysis needs an arteriovenous FISTULA, which takes MONTHS to mature and must be planned long in advance.**
+> **The fistula depends on healthy forearm and upper arm veins — and those veins are routinely destroyed by hospital care.**
+> **What to do, from the first admission:**
+> **· AVOID cannulation, venepuncture and blood pressure cuffs in the NON-DOMINANT arm of a patient with advanced CKD.**
+> **· AVOID PICC lines and subclavian central lines** — subclavian stenosis makes the ipsilateral arm unusable for a fistula permanently.
+> **· Use the back of the hand or the dominant arm where possible.**
+> **· Put a sign above the bed** — this is standard practice in renal units and rarely done elsewhere.
+> **A patient whose veins have been used up arrives at dialysis needing a tunnelled line, with higher infection and mortality risk.** **This is a concrete thing an intern controls.**
+
+> [!warning] Conservative (non-dialytic) management is a legitimate choice
+> **For frail older patients with multiple comorbidities, dialysis may not extend life meaningfully and may reduce its quality — with substantial treatment burden, hospitalisation, and functional decline.**
+> **Conservative kidney management — active symptom control, treatment of anaemia and acidosis, and palliative input, without dialysis — is a genuine option, not a failure or a withdrawal of care.**
+> **The decision should be made in advance, with the patient and family, using honest prognostic information.** Cross-refer [[GER2]] 0.5–0.6 and [[GER1]] 0.2.
+> **And note the Australian dimension: for Aboriginal and Torres Strait Islander patients in remote communities, dialysis frequently means RELOCATION AWAY FROM COUNTRY, family and community — sometimes permanently.** **Declining or discontinuing dialysis in that context is a rational decision about a whole life, not non-compliance.** Cross-refer [[AU1]] 0.4.
+
+---
+
+## 0.5 Drug and Contrast Nephropathy
+
+> [!danger] The risk of contrast nephropathy has been substantially over-estimated
+> **Older literature attributed AKI to contrast without control groups — in patients who were unwell, dehydrated, and receiving other nephrotoxins, and who would have developed AKI anyway.**
+> **Modern controlled studies show a much smaller attributable risk, particularly with modern low- and iso-osmolar agents.**
+> **THE PRACTICAL CONSEQUENCE: DO NOT WITHHOLD A CLINICALLY INDICATED CONTRAST CT BECAUSE OF FEAR OF CONTRAST NEPHROPATHY.** **Delayed or missed diagnoses of pulmonary embolism, aortic dissection, mesenteric ischaemia and cancer cause far more harm than contrast does.**
+> **Risk is genuinely increased in: pre-existing significant CKD · diabetic nephropathy · volume depletion · large contrast volumes · and intra-arterial administration.**
+> **Prevention: VOLUME EXPANSION with intravenous fluid in at-risk patients, and using the minimum necessary contrast volume.**
+> **N-ACETYLCYSTEINE and sodium BICARBONATE are NOT supported by current evidence and should not be used.**
+> `UNVERIFIED — the eGFR thresholds defining risk and the hydration protocols.`
+> **Metformin and contrast: the concern is LACTIC ACIDOSIS if AKI develops, not contrast nephropathy itself.** Withhold per local policy and recheck renal function. Cross-refer [[F0.2]] 0.5.
+
+> [!warning] The nephrotoxic drugs worth knowing
+> **· NSAIDs — the triple whammy, plus interstitial nephritis and papillary necrosis.**
+> **· AMINOGLYCOSIDES — dose-dependent tubular toxicity plus OTOTOXICITY (which is irreversible and frequently forgotten). Once-daily dosing with level monitoring, and the shortest possible duration.**
+> **· VANCOMYCIN, particularly in combination with piperacillin-tazobactam.**
+> **· CALCINEURIN INHIBITORS (ciclosporin, tacrolimus) — both acute vasoconstrictive and chronic fibrotic toxicity.**
+> **· CISPLATIN, amphotericin B, tenofovir.**
+> **· LITHIUM — nephrogenic diabetes insipidus and chronic interstitial nephropathy.** Cross-refer [[N4]] 0.5.
+> **· PROTON PUMP INHIBITORS — interstitial nephritis, and an association with CKD.**
+> **· HERBAL AND COMPLEMENTARY PREPARATIONS — ARISTOLOCHIC ACID causes a distinctive nephropathy and urothelial malignancy, and patients do not report these products as medications unless asked specifically.**
+
+---
+
+## 0.6 Polyuria, Oliguria and Water Handling
+
+> [!tip] Polyuria — first distinguish it from frequency
+> **POLYURIA is a genuinely increased VOLUME of urine. FREQUENCY is voiding often, in small volumes.** **A bladder diary with measured volumes separates them, and they have entirely different differentials.**
+> **Then distinguish OSMOTIC from WATER diuresis:**
+> **· OSMOTIC DIURESIS — an unabsorbed solute dragging water: GLUCOSE (uncontrolled diabetes) · urea (recovering ATN, high protein feeds, post-obstructive) · mannitol · SGLT2 inhibitors.**
+> **· WATER DIURESIS — dilute urine: DIABETES INSIPIDUS or primary polydipsia.**
+
+> [!warning] Diabetes insipidus — cranial versus nephrogenic
+> **· CRANIAL (central) — deficient ADH.** Pituitary surgery, tumour, trauma, infiltrative disease. Cross-refer [[I4]] 0.1.
+> **· NEPHROGENIC — renal resistance to ADH.** **The causes to know: LITHIUM (the commonest) · HYPERCALCAEMIA · HYPOKALAEMIA · chronic kidney disease · and rare inherited forms.**
+> **Distinguished by the response to DESMOPRESSIN: cranial DI concentrates the urine, nephrogenic does not.** Water deprivation testing or copeptin measurement supports the diagnosis.
+> **The two electrolyte causes are important because they are correctable — a polyuric patient should have calcium and potassium checked before anything more elaborate.**
+
+> [!danger] Complete anuria — check the catheter first
+> **True anuria is uncommon and has a short differential: BLADDER OUTLET OBSTRUCTION (including a BLOCKED CATHETER) · bilateral ureteric obstruction · a vascular catastrophe (bilateral renal artery occlusion or aortic dissection) · and severe cortical necrosis.**
+> **THE COMMONEST CAUSE OF SUDDEN ANURIA IN A HOSPITAL INPATIENT IS A BLOCKED CATHETER.** **Flush it or replace it before initiating an AKI workup** — it takes a minute and it is right often enough to be the first move.
+> **Gradually declining urine output has the full AKI differential; abrupt complete cessation points to obstruction.**
+
+**Ix:** **URINALYSIS AND MICROSCOPY on a fresh sample** (*why:* the cheapest and most discriminating test in AKI, distinguishing pre-renal, ATN, glomerular and interstitial causes — and it is routinely omitted; *what:* casts, cells, protein). **UEC with a BASELINE comparison, and daily thereafter** (*why:* AKI is defined by change, and the trajectory guides management; *what:* creatinine trend, potassium, bicarbonate). **Bladder scan and RENAL TRACT ULTRASOUND** (*why:* obstruction is the most reversible cause and must be excluded early — **noting hydronephrosis may be absent in early or encased obstruction**; *what:* residual volume, hydronephrosis, kidney size and echogenicity). **VBG** (*why:* rapid potassium and acid-base assessment while awaiting formal biochemistry; *what:* pH, bicarbonate, potassium, lactate). FBC (*why:* anaemia suggesting chronicity, thrombocytopenia suggesting thrombotic microangiopathy; *what:* the pattern). **CK** (*why:* rhabdomyolysis; *what:* elevation). **Calcium, phosphate, urate, LDH** (*why:* tumour lysis and myeloma; *what:* the pattern). **Serum and urine electrophoresis with free light chains in unexplained AKI, particularly over 50** (*why:* myeloma cast nephropathy is missed because the dipstick does not detect light chains; *what:* paraprotein — cross-refer [[J4]]). **Immunology — ANA, ANCA, anti-GBM, complement — where there is an active urinary sediment** (*why:* rapidly progressive glomerulonephritis is time-critical; *what:* the cause — cross-refer [[H1]] 0.3). **A complete medication review including over-the-counter NSAIDs, PPIs and complementary products** (*why:* drugs are among the commonest and most reversible causes and patients do not report several of these as medications; *what:* culprit). **Daily weight and fluid balance** (*why:* the most reliable measure of volume change; *what:* trend).
+
+---
+
+> [!note] Cross-references
+> Haematuria, proteinuria and glomerular disease → [[H1]] · Retention, obstructive uropathy and catheters → [[H2]] 0.3–0.5 · Renal colic and obstructed infected system → [[H4]] 0.4 and [[F0.3]] 0.10 · Hyperkalaemia, hyponatraemia and fluid states → [[I5]] 0.5–0.6 and [[F0.2]] · CKD-MBD, calcium and phosphate → [[I3]] 0.5 · Diabetic kidney disease and sick day rules → [[I2]] 0.5, 0.7 · SGLT2 inhibitors and RAS blockade → [[CV-X]] 0.3 · Hepatorenal syndrome → [[C3]] 0.6 · Rhabdomyolysis → [[A7]] 0.6 · Tumour lysis and myeloma → [[J4]] and [[J5]] · Vasculitis and scleroderma renal crisis → [[L2]] 0.4–0.5 · Diabetes insipidus and pituitary disease → [[I4]] 0.1 · Lithium monitoring → [[N4]] 0.5 · Polycystic kidney disease and intracranial aneurysm → [[D1]] 0.2 · Conservative kidney management and goals of care → [[GER2]] 0.5–0.6 · Dialysis away from Country → [[AU1]] 0.4 · Contrast and perioperative medication → [[AN1]] 0.3
+
+
+<!-- ===== SOURCE: H1_Haematuria_and_Proteinuria.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Diagnostic reasoning, discriminators and mechanism are reliable at intern level. **Every threshold, referral criterion, dose and regimen carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG**, **Kidney Health Australia (CARI guidelines and the CKD management handbook)**, and your local nephrology and urology referral criteria.
+>
+> **Vasculitis and ANCA-associated disease are built in [[L2]] 0.5**, and **acute kidney injury and chronic kidney disease in [[H3]]** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Haematuria
+
+> [!tip] First — is it actually blood?
+> **A positive dipstick with NO red cells on microscopy means haemoglobin or MYOGLOBIN, not haematuria.**
+> **· MYOGLOBINURIA — rhabdomyolysis. Cross-refer [[A7]] 0.6.**
+> **· HAEMOGLOBINURIA — intravascular haemolysis.**
+> **· Non-blood causes of discoloured urine: beetroot, food dyes, RIFAMPICIN (orange), senna, nitrofurantoin, methyldopa, porphyria, and bile.**
+> **· Contamination — menstruation, or a lesion of the external genitalia or perineum.** **Repeat the sample outside menstruation before investigating.**
+
+> [!danger] Then — glomerular or non-glomerular? This is the branch point
+> | | **GLOMERULAR** | **NON-GLOMERULAR (urological)** |
+> |---|---|---|
+> | Colour | **Brown, "cola" or tea-coloured** | **Bright red or pink** |
+> | Clots | **Absent** | **May be present** |
+> | Red cells | **DYSMORPHIC** | Isomorphic (normal shaped) |
+> | **RED CELL CASTS** | **PRESENT — pathognomonic of glomerular bleeding** | Absent |
+> | Proteinuria | Present, often significant | Absent or minimal |
+> | Associated | Hypertension, oedema, renal impairment | Pain, LUTS, or asymptomatic |
+> **RED CELL CASTS ARE THE SINGLE MOST USEFUL FINDING** — they form in the tubules and can only come from glomerular bleeding. **They require a FRESH sample examined promptly, because casts degrade** — a specimen that sits for hours will not show them, which is the commonest reason they are "absent".
+> **Glomerular → nephrology. Non-glomerular → urology.**
+
+> [!danger] Visible haematuria in an adult requires urological investigation — even with a UTI, even on anticoagulants
+> **Two errors account for most delayed bladder cancer diagnoses:**
+> **1. "It's just a urinary tract infection."** A positive urine culture does not exclude a tumour, and infection and malignancy coexist. **If visible haematuria does not resolve completely after treating the infection, investigate.**
+> **2. "They're on warfarin, that explains it."** **ANTICOAGULATION DOES NOT CAUSE HAEMATURIA — IT UNMASKS AN UNDERLYING LESION.** A significant proportion of anticoagulated patients with visible haematuria have identifiable pathology, including malignancy. **The anticoagulant is a reason to look harder, not a reason to stop looking.**
+
+> [!warning] The risk factors for urothelial malignancy
+> **· AGE — risk rises steeply after about 40–50.**
+> **· SMOKING — the dominant modifiable risk factor for bladder cancer, and the association is strong and dose-related.**
+> **· Male sex.**
+> **· OCCUPATIONAL EXPOSURE to aromatic amines — rubber, dye, leather, paint, printing and chemical industries — with a LATENCY OF DECADES, so the occupational history must cover the whole working life.**
+> **· Previous pelvic RADIOTHERAPY, and CYCLOPHOSPHAMIDE (which also causes haemorrhagic cystitis).**
+> **· Chronic indwelling catheter and chronic irritation (squamous cell carcinoma).**
+> **· SCHISTOSOMIASIS — squamous cell bladder cancer, relevant in people from endemic areas.**
+
+> [!tip] The non-glomerular causes
+> **· MALIGNANCY — bladder, renal, ureteric, prostatic.**
+> **· STONES** — cross-refer [[H4]] 0.4.
+> **· INFECTION — cystitis, pyelonephritis, prostatitis, tuberculosis (with STERILE PYURIA).**
+> **· Benign prostatic enlargement.**
+> **· Trauma, including catheter trauma and post-instrumentation.**
+> **· Radiation cystitis, arteriovenous malformation, papillary necrosis (analgesics, sickle cell, diabetes), loin pain-haematuria syndrome.**
+> **· Vigorous exercise** — "runner's haematuria", which should resolve.
+
+**Ix:** **Urine microscopy on a FRESH sample, ideally with phase contrast** (*why:* dysmorphic cells and red cell casts determine whether this is a nephrology or urology problem, and casts degrade rapidly; *what:* dysmorphic red cells, casts). **Urine albumin-creatinine ratio or protein-creatinine ratio** (*why:* significant proteinuria alongside haematuria strongly indicates glomerular disease; *what:* proteinuria). **UEC and eGFR, blood pressure** (*why:* renal impairment and hypertension point to glomerular disease and to urgency; *what:* impairment, hypertension). Urine culture (*why:* infection, which must be treated and then the haematuria rechecked; *what:* organism). **CT urography and CYSTOSCOPY for non-glomerular visible haematuria** (*why:* imaging assesses the upper tracts and cystoscopy the bladder — **neither alone is sufficient, because CT misses flat bladder lesions and cystoscopy does not see the upper tracts**; *what:* tumour, stone, structural lesion). Urine cytology (*why:* adjunctive, with limited sensitivity for low-grade tumours; *what:* malignant cells). FBC and coagulation (*why:* anaemia and bleeding tendency; *what:* the values). **Nephrology referral for glomerular features** and consideration of biopsy (see 0.6).
+
+---
+
+## 0.2 The Glomerular Syndromes
+
+> [!info] Five ways glomerular disease presents
+> **1. ASYMPTOMATIC URINARY ABNORMALITIES — isolated haematuria and/or proteinuria found incidentally.**
+> **2. NEPHRITIC SYNDROME — an inflammatory picture.**
+> **3. NEPHROTIC SYNDROME — a leaky picture.**
+> **4. RAPIDLY PROGRESSIVE GLOMERULONEPHRITIS — nephritic with rapid loss of function over days to weeks. A MEDICAL EMERGENCY.**
+> **5. CHRONIC GLOMERULONEPHRITIS — slow decline to end-stage disease.**
+
+> [!tip] Nephritic versus nephrotic — the comparison worth memorising
+> | | **NEPHRITIC** | **NEPHROTIC** |
+> |---|---|---|
+> | Mechanism | **INFLAMMATION** of the glomerulus | **INCREASED PERMEABILITY** of the barrier |
+> | Haematuria | **Prominent, with RED CELL CASTS** | Absent or minimal |
+> | Proteinuria | Mild to moderate | **HEAVY** |
+> | Albumin | Normal or mildly low | **LOW** |
+> | Oedema | **Mild — periorbital, facial** | **Marked — generalised, ascites, pleural effusions** |
+> | Blood pressure | **HIGH** | Normal or low |
+> | Renal function | **Impaired, oliguria** | Often initially preserved |
+> | Lipids | Normal | **HIGH** |
+> **The two can overlap**, and some diseases (membranoproliferative GN, lupus nephritis) produce a mixed picture.
+
+---
+
+## 0.3 Nephritic Syndrome and Glomerulonephritis
+
+> [!danger] Rapidly progressive glomerulonephritis is an emergency — and it is classified by immunofluorescence
+> **RPGN: a nephritic picture with loss of renal function over days to weeks, with CRESCENTS on biopsy.** **Untreated, it progresses to irreversible end-stage kidney disease within weeks.**
+> **Three immunofluorescence patterns, which map onto three groups of disease:**
+> **· LINEAR — ANTI-GBM DISEASE (Goodpasture). Antibodies against the glomerular and alveolar basement membrane, causing glomerulonephritis with PULMONARY HAEMORRHAGE. Treated with PLASMA EXCHANGE plus immunosuppression, and it is TIME-CRITICAL — renal recovery depends on how early it is started.**
+> **· GRANULAR (immune complex) — post-infectious GN, IgA nephropathy and IgA vasculitis, LUPUS nephritis, cryoglobulinaemic GN, membranoproliferative GN.**
+> **· PAUCI-IMMUNE (little or no staining) — ANCA-ASSOCIATED VASCULITIS: granulomatosis with polyangiitis, microscopic polyangiitis, eosinophilic granulomatosis with polyangiitis.** Cross-refer [[L2]] 0.5.
+
+> [!danger] Pulmonary-renal syndrome
+> **HAEMOPTYSIS or unexplained hypoxia + HAEMATURIA and PROTEINURIA + RISING CREATININE.**
+> **Causes: ANCA-associated vasculitis, anti-GBM disease, and lupus.**
+> **Send ANCA and anti-GBM URGENTLY, get a fresh urine microscopy looking for RED CELL CASTS, and involve nephrology and rheumatology the same day.** **Immunosuppression cannot wait for a tissue diagnosis if the patient is deteriorating.** Cross-refer [[L2]] 0.5 and [[A4]] 0.3.
+
+> [!tip] IgA nephropathy versus post-streptococcal GN — the timing discriminates them
+> **· IgA NEPHROPATHY — the commonest primary glomerulonephritis worldwide.** **"SYNPHARYNGITIC" haematuria: visible haematuria appearing within ONE TO TWO DAYS of an upper respiratory tract infection — essentially concurrent with the sore throat.** Complement is NORMAL.
+> **· POST-STREPTOCOCCAL GN — haematuria appearing ONE TO THREE WEEKS after a throat infection, or THREE TO SIX WEEKS after a skin infection.** **Complement C3 is LOW and recovers over weeks — a useful and time-limited finding.**
+> **The interval is the discriminator: days versus weeks.**
+> **Post-streptococcal GN is usually self-limiting in children with supportive care. It remains clinically important in Australia because of the high burden of streptococcal SKIN infection in some remote Aboriginal and Torres Strait Islander communities** — the same infections that drive acute rheumatic fever. Cross-refer [[K2]] 0.6 and [[AU1]] 0.4.
+> **IgA nephropathy has a variable course** — a proportion progress to end-stage disease over decades, so it needs long-term monitoring rather than reassurance.
+
+> [!warning] The hereditary and benign causes of persistent haematuria
+> **· ALPORT SYNDROME — a hereditary type IV collagen disorder, usually X-linked. Haematuria progressing to renal failure, with SENSORINEURAL HEARING LOSS and ocular abnormalities (anterior lenticonus).** **A young man with haematuria and hearing loss, with a family history of renal failure, should prompt the thought — and the family needs testing.**
+> **· THIN BASEMENT MEMBRANE DISEASE (benign familial haematuria) — persistent non-visible haematuria with a family history of haematuria WITHOUT renal failure, normal function, no proteinuria, and a benign course.** **The distinction from Alport syndrome matters enormously for the patient and their family, and rests on the family history of renal failure and deafness, and ultimately on biopsy and genetics.**
+
+> [!tip] Management principles in glomerulonephritis
+> **· BLOOD PRESSURE CONTROL — the single most important intervention for preserving renal function long term.**
+> **· RENIN-ANGIOTENSIN SYSTEM BLOCKADE — ACE inhibitor or ARB — which reduces proteinuria and slows progression independently of blood pressure.** **Expect a modest creatinine rise and accept it.** Cross-refer [[CV-X]] 0.3.
+> **· IMMUNOSUPPRESSION where the disease is immune-mediated and progressive** — specialist-directed.
+> **· Treat the underlying cause** — infection, lupus, vasculitis, drug.
+> **· URGENT nephrology involvement for RPGN**, where delay costs nephrons permanently.
+
+---
+
+## 0.4 Nephrotic Syndrome
+
+**D:** **Heavy proteinuria, hypoalbuminaemia and oedema**, usually with hyperlipidaemia. `UNVERIFIED — the proteinuria threshold.`
+
+> [!tip] The causes, by age
+> **· MINIMAL CHANGE DISEASE — the commonest cause in CHILDREN, and highly steroid-responsive.** Normal light microscopy with podocyte foot process effacement on electron microscopy.
+> **· FOCAL SEGMENTAL GLOMERULOSCLEROSIS — the commonest primary cause in ADULTS.** Associated with obesity, HIV, heroin use, reflux nephropathy, reduced nephron mass, and specific genetic variants (with higher prevalence in people of African ancestry).
+> **· MEMBRANOUS NEPHROPATHY — the classic adult primary cause.** **Anti-PLA2R antibodies are positive in the majority of primary cases, which has largely replaced biopsy for diagnosis in typical presentations.** **Secondary causes matter: MALIGNANCY (particularly solid tumours in older patients), hepatitis B, lupus, and drugs (NSAIDs, penicillamine, gold).** **A new membranous nephropathy in an older adult warrants age-appropriate malignancy assessment.**
+> **· MEMBRANOPROLIFERATIVE GN — often with a mixed nephritic-nephrotic picture; associated with hepatitis C, cryoglobulinaemia and complement dysregulation.**
+> **· SECONDARY CAUSES — DIABETIC NEPHROPATHY is the commonest overall cause of nephrotic-range proteinuria; also AMYLOIDOSIS, lupus, and infections.**
+
+> [!danger] The two complications that kill — thrombosis and infection
+> **1. THROMBOSIS.** **The nephrotic patient is HYPERCOAGULABLE, because ANTITHROMBIN III and other regulatory proteins are lost in the urine while the liver overproduces procoagulant factors.**
+> **RENAL VEIN THROMBOSIS is the classic — presenting with loin pain, worsening haematuria, and deteriorating renal function — and it is most associated with MEMBRANOUS nephropathy.** **Also deep vein thrombosis and pulmonary embolism.**
+> **A nephrotic patient with new loin pain or breathlessness needs thrombosis considered urgently.**
+> **2. INFECTION.** **Immunoglobulins and complement components are lost in the urine, producing susceptibility to ENCAPSULATED organisms.**
+> **SPONTANEOUS BACTERIAL PERITONITIS — classically pneumococcal — occurs in nephrotic CHILDREN with ascites, and abdominal pain in a nephrotic child must be taken seriously rather than attributed to the oedema.**
+> **Vaccination (pneumococcal, influenza) is part of management.**
+> **Other complications: hyperlipidaemia, acute kidney injury (from intravascular depletion, often precipitated by over-diuresis), protein malnutrition, vitamin D deficiency, and an anaemia that does not respond to iron.**
+
+> [!warning] Management, and the diuretic trap
+> **· RAS BLOCKADE to reduce proteinuria.**
+> **· SALT RESTRICTION — more effective than people expect, and necessary for diuretics to work.**
+> **· DIURETICS for oedema — but CAUTIOUSLY.** **The nephrotic patient may be oedematous yet INTRAVASCULARLY DEPLETED, and aggressive diuresis precipitates acute kidney injury.** **Monitor weight, renal function and postural blood pressure rather than diuresing to the appearance of the legs.**
+> **· Statin for the hyperlipidaemia.**
+> **· ANTICOAGULATION consideration in high-risk patients** — a specialist decision balancing thrombotic and bleeding risk. `UNVERIFIED — the criteria.`
+> **· Immunosuppression directed by the diagnosis.**
+> **· Vaccination and infection vigilance.**
+
+> [!tip] Children with typical nephrotic syndrome are treated without a biopsy
+> **A child of typical age with typical nephrotic syndrome, normal complement, no significant haematuria, no hypertension and normal renal function is presumed to have MINIMAL CHANGE DISEASE and treated with CORTICOSTEROIDS without biopsy.**
+> **Biopsy is reserved for atypical features: age outside the usual range, significant haematuria, hypertension, renal impairment, low complement, or FAILURE TO RESPOND to steroids.** Cross-refer [[M5]].
+
+---
+
+## 0.5 Proteinuria
+
+> [!warning] The dipstick detects albumin — and misses light chains
+> **Urine dipstick is primarily sensitive to ALBUMIN.**
+> **It DOES NOT reliably detect immunoglobulin LIGHT CHAINS (Bence Jones protein).**
+> **So a patient with MYELOMA can have massive overflow proteinuria and a NEGATIVE or trace dipstick** — which is why **unexplained renal impairment, particularly with anaemia, hypercalcaemia or bone pain, requires SERUM AND URINE ELECTROPHORESIS AND FREE LIGHT CHAINS specifically, not just a dipstick.** Cross-refer [[J4]].
+> **The dipstick is also affected by urine concentration** — producing false positives in concentrated urine and false negatives in dilute — which is why quantification uses a ratio to creatinine.
+
+> [!tip] Types of proteinuria, by mechanism
+> **· GLOMERULAR — increased filtration of albumin through a damaged barrier. The commonest and most significant.**
+> **· TUBULAR — failure to reabsorb normally filtered low-molecular-weight proteins (tubulointerstitial disease, Fanconi syndrome).**
+> **· OVERFLOW — excess production of a filterable protein exceeding reabsorptive capacity: LIGHT CHAINS in myeloma, myoglobin, haemoglobin.**
+> **· POST-RENAL — from the urinary tract itself (infection, inflammation, blood).**
+
+> [!info] Quantification and the transient causes
+> **· ALBUMIN-CREATININE RATIO (ACR) — preferred for detecting and monitoring early kidney disease, including diabetic kidney disease.**
+> **· PROTEIN-CREATININE RATIO (PCR) — used for heavier proteinuria and where non-albumin proteins matter.**
+> **· 24-hour collections have largely been superseded** by these ratios, which are more practical and comparably accurate.
+> **TRANSIENT AND BENIGN CAUSES — always confirm on a repeat sample: fever · vigorous exercise · urinary tract infection · heart failure · and ORTHOSTATIC (postural) PROTEINURIA.**
+> **ORTHOSTATIC PROTEINURIA — proteinuria present during the day but ABSENT in a FIRST-MORNING sample taken immediately on waking. It occurs in adolescents and young adults, is benign, and the first-morning specimen is the diagnostic test.** **Recognising it prevents an unnecessary renal workup in a healthy young person.**
+
+> [!danger] Persistent proteinuria matters twice over
+> **It is a marker of kidney disease AND an INDEPENDENT CARDIOVASCULAR RISK FACTOR** — a patient with proteinuria is at higher cardiovascular risk than an equivalent patient without it, irrespective of eGFR.
+> **So finding it obliges two things: renal assessment, and intensified cardiovascular risk management.**
+> **Reducing proteinuria with RAS blockade slows renal progression**, and it is one of the few interventions that modifies the trajectory of chronic kidney disease. Cross-refer [[H3]] and [[I2]] 0.5.
+
+**Ix:** **Repeat ACR or PCR to confirm persistence** (*why:* transient proteinuria is common and does not warrant a workup; *what:* persistent elevation). **First-morning specimen where orthostatic proteinuria is possible** (*why:* it is the diagnostic test and avoids unnecessary investigation of a healthy adolescent; *what:* absent proteinuria on waking). **Urine microscopy for casts and dysmorphic cells** (*why:* distinguishes glomerular disease; *what:* casts). UEC, eGFR, albumin, lipids, glucose or HbA1c (*why:* renal function, nephrotic features and diabetes; *what:* the pattern). **Serum and urine electrophoresis with free light chains** where unexplained, particularly over 50 (*why:* myeloma is missed by dipstick; *what:* paraprotein). Autoimmune screen — ANA, anti-dsDNA, complement, ANCA, anti-GBM (*why:* immune-mediated glomerular disease; *what:* the cause — cross-refer [[L2]] 0.6). Hepatitis B and C, HIV, syphilis serology (*why:* treatable infective causes of glomerular disease; *what:* infection). **Anti-PLA2R antibodies** where membranous nephropathy is suspected (*why:* may obviate biopsy in typical primary disease; *what:* positive). Renal ultrasound (*why:* size, symmetry, obstruction and echogenicity, and it determines biopsy feasibility — **small echogenic kidneys indicate chronic irreversible disease and biopsy will not help**; *what:* structural findings).
+
+---
+
+> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.6 Renal Biopsy` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+> [!note] Cross-references
+> Acute kidney injury, chronic kidney disease and CKD-MBD → [[H3]] · Lower urinary tract symptoms and retention → [[H2]] · Renal colic, scrotal and groin problems → [[H4]] · Vasculitis, ANCA and pulmonary-renal syndrome → [[L2]] 0.5 · Autoantibody interpretation → [[L2]] 0.6 · Lupus nephritis and urinalysis at every visit → [[L2]] 0.4 · Haemoptysis → [[A4]] 0.3 · Myeloma and light chains → [[J4]] · Rhabdomyolysis and myoglobinuria → [[A7]] 0.6 · Diabetic kidney disease → [[I2]] 0.5 · RAS blockade and the expected creatinine rise → [[CV-X]] 0.3 · Post-streptococcal disease and skin infection → [[K2]] 0.6 and [[AU1]] 0.4 · Paediatric nephrotic syndrome → [[M5]] · Hypertension → [[B2]]
+
+
 <!-- ===== SOURCE: 07_Renal_Medicine_and_Urology.md ===== -->
 
 
@@ -420,6 +823,90 @@ Definitive diagnosis based on histology, but biopsies are rare. Presumptive clin
 
 ---
 
+## 0.15 Urinary Tract Stones
+
+**D:** presence of crystalline stones (calculi) within the urinary system (kidneys and ureter).
+
+| Stone type | Frequency | Urine pH | Features |
+|---|---|---|---|
+| Calcium oxalate | 85% | Variable | R: hypercalciuria, hyperoxaluria, hypocitraturia (citrate normally makes calcium more soluble); radio-opaque; hyperuricosuria may cause uric acid stones onto which calcium oxalate binds |
+| Cystine | 1% | Acidic to normal | Inherited recessive disorder of transmembrane cystine transport → decreased intestinal/renal tubular absorption; multiple stones may form; relatively radiodense (may contain sulphur) |
+| Uric acid | 5–10% | Acidic | R: gout, high-purine diet (precipitates at low urinary pH), high cell turnover (malignancy), ileostomy (more acidic urine), inborn errors of metabolism; radiolucent |
+| Calcium phosphate | 10% | Normal to alkaline | R: RTA types 1 and 3 (↑urinary pH → supersaturation of urine with Ca, PO4); radio-opaque (bone-like density) |
+| Struvite | 2–20% | Alkaline | Magnesium, ammonium, and PO4 — form under alkaline conditions due to urease-producing bacteria (associated with chronic infections); slightly radio-opaque; staghorn calculi (renal pelvis + ≥2 calyces) secondary to *Ureaplasma urealyticum* and *Proteus* infections |
+
+**R:** dehydration, medullary sponge kidney, polycystic kidney disease, beryllium or cadmium exposure.
+
+**Drugs increasing calcium stone risk:** loop diuretics, steroids, acetazolamide, theophylline.
+
+**S/Smx:** ureteric/renal colic — severe, intermittent, stabbing pain radiating from loin to groin (patient unable to keep still due to pain); haematuria (usually microscopic); systemic symptoms (nausea/vomiting, ↑HR, fever); loin/renal angle tenderness; iliac fossa tenderness.
+
+> [!info] The mechanism behind the "loin to groin" pattern — genuinely useful clinically, not just a fixed phrase to memorise. Ureteric pain is visceral, referred pain, and its location tracks the dermatomes sharing the same spinal segments as the ureter's sympathetic afferent supply **at the level the stone currently sits** — as the stone migrates distally down the ureter, the pain migrates with it. A stone in the **renal pelvis or proximal ureter** refers pain to the **flank/loin** (T10–T12 dermatomes); as it progresses toward the **vesicoureteric junction**, referred pain shifts toward the **groin, and can extend to the scrotum/labia and anterior thigh** (L1, via the ilioinguinal and genitofemoral nerve territories). **This has genuine clinical value beyond just recognising the pattern**: groin/genital pain suggests the stone has already migrated close to the bladder — a location associated with a substantially higher likelihood of spontaneous passage — while pain confined to the flank suggests a more proximal stone, less likely to pass without intervention.
+
+**Ix:** urine dip + culture (*why:* screens for a concurrent/contributing infection, particularly relevant given struvite stones are directly infection-driven (see the table above) and any infection proximal to an obstructing stone is a genuine emergency (infected obstructed system) requiring urgent decompression; *what:* may show haematuria, and positive culture supports an infective component or struvite stone specifically). Bloods — U&Es, FBC, CRP (*why:* U&Es assess for renal impairment from obstruction; FBC/CRP screen for infection/systemic inflammatory response, again relevant to the infected-obstruction emergency; *what:* may show AKI if obstructive, or raised inflammatory markers if infected). Ca and urate levels (*why:* screens for the metabolic risk factors driving calcium and uric acid stone formation specifically (see the stone-type table above), relevant to secondary prevention Mx below; *what:* hypercalcaemia or hyperuricaemia would suggest a specific metabolic driver worth addressing).
+
+> [!info] Partially re-verified with additional findings, Aug 2026 — non-contrast CT KUB remains confirmed as the internationally standard gold-standard imaging modality for suspected renal colic (not UK-specific), so that part of the note still doesn't need correction. On the specific timeframe: Australia does **not** have a stone-specific "within 14h/24h" imaging access target matching the UK's BAUS/NICE standard — the relevant Australian framework instead is the **National Emergency Access Target (NEAT)**, a whole-of-encounter standard requiring 90% of ED presentations to be admitted, discharged, or transferred within **4 hours**, which indirectly drives urgency for same-visit imaging without being a stone-specific target. Genuinely different in emphasis too: the **Australasian College for Emergency Medicine's Choosing Wisely recommendation actively advises *against* routine/repeat CT KUB** in younger, low-risk patients with typical renal colic that settles with analgesia and no complicating features — a more imaging-conservative stance than the UK approach, reflecting radiation-exposure concerns rather than a same-day-imaging mandate for everyone. In practice, Australian EDs are documented (per a 2025 Emergency Medicine Australasia audit) as still experiencing long imaging waits for renal colic despite this. Treat "within 14h" as illustrative of general urgency (same-visit imaging preferred over delayed outpatient studies) rather than an Australian benchmark, and note that ACEM's guidance leans toward being more selective about ordering CT KUB at all in low-risk patients, not just about how quickly it's done.
+
+**Mx:**
+- Analgesia (diclofenac PR/IM), antiemetic (metoclopramide), IV fluid resuscitation
+- Stones ≤5mm: watchful waiting (usually pass within 4 weeks of symptom onset)
+- More severe stones: shock wave lithotripsy, percutaneous nephrolithotomy, ureteroscopy, open surgery
+- Ureteric obstruction: emergency — nephrostomy tube, ureteric catheters, or stents — **particularly urgent if the obstructed system is also infected (infected hydronephrosis), given the risk of rapid sepsis/renal destruction if decompression is delayed**
+
+**Shock wave lithotripsy:** shock wave generated externally; internal cavitation bubbles and mechanical stress cause fragmentation. Risks — solid organ injury, ureteric obstruction. Requires analgesia during/after. Suitable for most patients with a stone burden <2cm aggregate.
+
+**Ureteroscopy:** for patients in whom lithotripsy is contraindicated (e.g. pregnancy); a stent is usually left for 4 weeks post-procedure.
+
+**Percutaneous nephrolithotomy:** access to the renal collecting system; intra-corporeal lithotripsy or fragmentation performed, then fragments removed. Reserved for complex renal calculi and staghorn calculi.
+
+**Prevention:**
+- Calcium stones: increased water intake, decreased animal protein, decreased salt ± thiazide diuretics
+- Oxalate stones: cholestyramine and pyridoxine
+- Uric acid stones: allopurinol, urinary alkalinisation (bicarbonate)
+
+---
+
+## 0.14 Benign Prostatic Hyperplasia (BPH)
+
+**D:** lower urinary tract symptoms (LUTS) caused by bladder obstruction due to prostate enlargement (transitional zone).
+
+> [!info] LUTS
+> **Storage symptoms:** frequency, urgency, nocturia, incontinence
+> **Voiding symptoms:** weak stream, dribbling, dysuria, straining
+
+**A:** hyperplasia of epithelial and stromal compartments.
+
+**P:**
+- Static component: increased tissue causes urethral lumen narrowing
+- Dynamic component: increased prostatic smooth muscle tone mediated by α-receptors
+
+**R:** >50yo
+
+> [!danger] Refer to urology if: haematuria, neurological disease (?neurogenic bladder), history of prior urological surgeries and urethral stricture, recurrent or persistent UTI, retention/palpable bladder, renal impairment secondary to BPH, abnormal DRE, abnormal PSA levels.
+
+**Ix:** urine dipstick (*why:* screens for an alternative/co-existing cause of LUTS, particularly infection, which would need its own treatment and could mimic or exacerbate BPH symptoms; *what:* typically normal in uncomplicated BPH — an abnormal result should prompt consideration of infection or another cause rather than assuming BPH). PSA (*why:* screens for coexisting prostate cancer, given LUTS overlap between BPH and prostate cancer, and also somewhat correlates with prostate volume; *what:* age-adjusted limits apply — see Prostate Cancer below for the fuller current AU-specific PSA interpretation framework, not repeated here). International Prostate Symptom Score (IPSS) (*why:* quantifies symptom severity in a standardised, reproducible way, both supporting the diagnosis and providing a baseline to track treatment response over time; *what:* the specific severity category per the scoring below). Voiding diary (*why:* objectively characterises the voiding pattern (frequency, volumes, nocturia), useful when the history alone is ambiguous or to distinguish BPH from other causes like polyuria from diabetes/diuretics; *what:* documents the actual pattern rather than relying on patient recall). ± US, CT/MRI, cystoscopy (*why:* reserved for specific indications — assessing post-void residual/hydronephrosis (US), excluding other structural pathology, or direct visualisation when the diagnosis is unclear or complications are suspected; *what:* not routine first-line for straightforward BPH, used selectively per the red-flag/referral criteria above).
+
+> [!info] IPSS: 7 questions, scale 0–5. Covers incomplete emptying, frequency, intermittency, urgency, weak stream, straining, nocturia, ± QoL 0–6. Mild 0–7, moderate 8–19, severe 20–35.
+
+**Mx:**
+- **Conservative:** watchful waiting; lifestyle modifications (decrease evening fluids, decrease caffeine/alcohol, change diuretic timing)
+- **Medical:** α-blockers (doxazosin, tamsulosin) first-line for symptom relief; 5α-reductase inhibitors (finasteride) especially for patients at risk of progression; PDE-5 inhibitors (sildenafil) to improve LUTS, ED, and QoL; anticholinergics (tolterodine)
+- **Surgical:** refer to urologists if complications secondary to BPH (renal insufficiency, recurrent bladder stones) or refractory response to medications → transurethral resection of prostate (TURP)
+
+### 0.14.1 TURP Syndrome
+
+**D:** life-threatening complication of TURP, secondary to large volumes of glycine irrigation fluid being absorbed systemically when prostatic venous sinuses are opened during resection.
+
+**P:** hyponatraemia; breakdown of glycine causing hyperammonaemia and visual changes.
+
+**S/Smx:** appear 15 min to 24h post-op. Respiratory — distress, hypoxia, pulmonary oedema. GI — nausea/vomiting. Visual disturbances (e.g. blindness). Neuro — confusion, seizures, coma. AKI. Reflex bradycardia.
+
+**Mx:**
+- **Immediate/acute:** treat underlying cause (e.g. stop surgery — recognising and halting ongoing fluid absorption is the single most important step); symptomatic — resuscitation (ABC); fluid overload — furosemide; seizures — benzodiazepines; severe hyponatraemia — hypertonic saline, applying the same cautious correction-rate principle as for any severe hyponatraemia (see [[06_Metabolic_Medicine_and_Endocrinology]] Urgent Considerations in Hyponatraemia for the fuller detail on avoiding overcorrection/osmotic demyelination, not repeated here).
+- **Chronic/long-term:** intraoperative prevention is the real long-term Mx — limiting resection time, using the lowest effective irrigation pressure, and increasingly performing bipolar TURP with saline irrigation instead of glycine specifically to avoid this complication altogether, worth knowing as the modern practice shift that has reduced TURP syndrome incidence.
+
+---
+
 ## 0.12 Urinary Retention
 
 > [!note] Gap-filled from CSV ("Urinary retention," Medium yield) — previously only mentioned in passing (as a cause of raised PSA). This entry covers acute and chronic retention as distinct entities, cross-referencing BPH above for the most common underlying cause rather than repeating it.
@@ -475,90 +962,6 @@ Definitive diagnosis based on histology, but biopsies are rare. Presumptive clin
 
 ---
 
-## 0.14 Benign Prostatic Hyperplasia (BPH)
-
-**D:** lower urinary tract symptoms (LUTS) caused by bladder obstruction due to prostate enlargement (transitional zone).
-
-> [!info] LUTS
-> **Storage symptoms:** frequency, urgency, nocturia, incontinence
-> **Voiding symptoms:** weak stream, dribbling, dysuria, straining
-
-**A:** hyperplasia of epithelial and stromal compartments.
-
-**P:**
-- Static component: increased tissue causes urethral lumen narrowing
-- Dynamic component: increased prostatic smooth muscle tone mediated by α-receptors
-
-**R:** >50yo
-
-> [!danger] Refer to urology if: haematuria, neurological disease (?neurogenic bladder), history of prior urological surgeries and urethral stricture, recurrent or persistent UTI, retention/palpable bladder, renal impairment secondary to BPH, abnormal DRE, abnormal PSA levels.
-
-**Ix:** urine dipstick (*why:* screens for an alternative/co-existing cause of LUTS, particularly infection, which would need its own treatment and could mimic or exacerbate BPH symptoms; *what:* typically normal in uncomplicated BPH — an abnormal result should prompt consideration of infection or another cause rather than assuming BPH). PSA (*why:* screens for coexisting prostate cancer, given LUTS overlap between BPH and prostate cancer, and also somewhat correlates with prostate volume; *what:* age-adjusted limits apply — see Prostate Cancer below for the fuller current AU-specific PSA interpretation framework, not repeated here). International Prostate Symptom Score (IPSS) (*why:* quantifies symptom severity in a standardised, reproducible way, both supporting the diagnosis and providing a baseline to track treatment response over time; *what:* the specific severity category per the scoring below). Voiding diary (*why:* objectively characterises the voiding pattern (frequency, volumes, nocturia), useful when the history alone is ambiguous or to distinguish BPH from other causes like polyuria from diabetes/diuretics; *what:* documents the actual pattern rather than relying on patient recall). ± US, CT/MRI, cystoscopy (*why:* reserved for specific indications — assessing post-void residual/hydronephrosis (US), excluding other structural pathology, or direct visualisation when the diagnosis is unclear or complications are suspected; *what:* not routine first-line for straightforward BPH, used selectively per the red-flag/referral criteria above).
-
-> [!info] IPSS: 7 questions, scale 0–5. Covers incomplete emptying, frequency, intermittency, urgency, weak stream, straining, nocturia, ± QoL 0–6. Mild 0–7, moderate 8–19, severe 20–35.
-
-**Mx:**
-- **Conservative:** watchful waiting; lifestyle modifications (decrease evening fluids, decrease caffeine/alcohol, change diuretic timing)
-- **Medical:** α-blockers (doxazosin, tamsulosin) first-line for symptom relief; 5α-reductase inhibitors (finasteride) especially for patients at risk of progression; PDE-5 inhibitors (sildenafil) to improve LUTS, ED, and QoL; anticholinergics (tolterodine)
-- **Surgical:** refer to urologists if complications secondary to BPH (renal insufficiency, recurrent bladder stones) or refractory response to medications → transurethral resection of prostate (TURP)
-
-### 0.14.1 TURP Syndrome
-
-**D:** life-threatening complication of TURP, secondary to large volumes of glycine irrigation fluid being absorbed systemically when prostatic venous sinuses are opened during resection.
-
-**P:** hyponatraemia; breakdown of glycine causing hyperammonaemia and visual changes.
-
-**S/Smx:** appear 15 min to 24h post-op. Respiratory — distress, hypoxia, pulmonary oedema. GI — nausea/vomiting. Visual disturbances (e.g. blindness). Neuro — confusion, seizures, coma. AKI. Reflex bradycardia.
-
-**Mx:**
-- **Immediate/acute:** treat underlying cause (e.g. stop surgery — recognising and halting ongoing fluid absorption is the single most important step); symptomatic — resuscitation (ABC); fluid overload — furosemide; seizures — benzodiazepines; severe hyponatraemia — hypertonic saline, applying the same cautious correction-rate principle as for any severe hyponatraemia (see [[06_Metabolic_Medicine_and_Endocrinology]] Urgent Considerations in Hyponatraemia for the fuller detail on avoiding overcorrection/osmotic demyelination, not repeated here).
-- **Chronic/long-term:** intraoperative prevention is the real long-term Mx — limiting resection time, using the lowest effective irrigation pressure, and increasingly performing bipolar TURP with saline irrigation instead of glycine specifically to avoid this complication altogether, worth knowing as the modern practice shift that has reduced TURP syndrome incidence.
-
----
-
-## 0.15 Urinary Tract Stones
-
-**D:** presence of crystalline stones (calculi) within the urinary system (kidneys and ureter).
-
-| Stone type | Frequency | Urine pH | Features |
-|---|---|---|---|
-| Calcium oxalate | 85% | Variable | R: hypercalciuria, hyperoxaluria, hypocitraturia (citrate normally makes calcium more soluble); radio-opaque; hyperuricosuria may cause uric acid stones onto which calcium oxalate binds |
-| Cystine | 1% | Acidic to normal | Inherited recessive disorder of transmembrane cystine transport → decreased intestinal/renal tubular absorption; multiple stones may form; relatively radiodense (may contain sulphur) |
-| Uric acid | 5–10% | Acidic | R: gout, high-purine diet (precipitates at low urinary pH), high cell turnover (malignancy), ileostomy (more acidic urine), inborn errors of metabolism; radiolucent |
-| Calcium phosphate | 10% | Normal to alkaline | R: RTA types 1 and 3 (↑urinary pH → supersaturation of urine with Ca, PO4); radio-opaque (bone-like density) |
-| Struvite | 2–20% | Alkaline | Magnesium, ammonium, and PO4 — form under alkaline conditions due to urease-producing bacteria (associated with chronic infections); slightly radio-opaque; staghorn calculi (renal pelvis + ≥2 calyces) secondary to *Ureaplasma urealyticum* and *Proteus* infections |
-
-**R:** dehydration, medullary sponge kidney, polycystic kidney disease, beryllium or cadmium exposure.
-
-**Drugs increasing calcium stone risk:** loop diuretics, steroids, acetazolamide, theophylline.
-
-**S/Smx:** ureteric/renal colic — severe, intermittent, stabbing pain radiating from loin to groin (patient unable to keep still due to pain); haematuria (usually microscopic); systemic symptoms (nausea/vomiting, ↑HR, fever); loin/renal angle tenderness; iliac fossa tenderness.
-
-> [!info] The mechanism behind the "loin to groin" pattern — genuinely useful clinically, not just a fixed phrase to memorise. Ureteric pain is visceral, referred pain, and its location tracks the dermatomes sharing the same spinal segments as the ureter's sympathetic afferent supply **at the level the stone currently sits** — as the stone migrates distally down the ureter, the pain migrates with it. A stone in the **renal pelvis or proximal ureter** refers pain to the **flank/loin** (T10–T12 dermatomes); as it progresses toward the **vesicoureteric junction**, referred pain shifts toward the **groin, and can extend to the scrotum/labia and anterior thigh** (L1, via the ilioinguinal and genitofemoral nerve territories). **This has genuine clinical value beyond just recognising the pattern**: groin/genital pain suggests the stone has already migrated close to the bladder — a location associated with a substantially higher likelihood of spontaneous passage — while pain confined to the flank suggests a more proximal stone, less likely to pass without intervention.
-
-**Ix:** urine dip + culture (*why:* screens for a concurrent/contributing infection, particularly relevant given struvite stones are directly infection-driven (see the table above) and any infection proximal to an obstructing stone is a genuine emergency (infected obstructed system) requiring urgent decompression; *what:* may show haematuria, and positive culture supports an infective component or struvite stone specifically). Bloods — U&Es, FBC, CRP (*why:* U&Es assess for renal impairment from obstruction; FBC/CRP screen for infection/systemic inflammatory response, again relevant to the infected-obstruction emergency; *what:* may show AKI if obstructive, or raised inflammatory markers if infected). Ca and urate levels (*why:* screens for the metabolic risk factors driving calcium and uric acid stone formation specifically (see the stone-type table above), relevant to secondary prevention Mx below; *what:* hypercalcaemia or hyperuricaemia would suggest a specific metabolic driver worth addressing).
-
-> [!info] Partially re-verified with additional findings, Aug 2026 — non-contrast CT KUB remains confirmed as the internationally standard gold-standard imaging modality for suspected renal colic (not UK-specific), so that part of the note still doesn't need correction. On the specific timeframe: Australia does **not** have a stone-specific "within 14h/24h" imaging access target matching the UK's BAUS/NICE standard — the relevant Australian framework instead is the **National Emergency Access Target (NEAT)**, a whole-of-encounter standard requiring 90% of ED presentations to be admitted, discharged, or transferred within **4 hours**, which indirectly drives urgency for same-visit imaging without being a stone-specific target. Genuinely different in emphasis too: the **Australasian College for Emergency Medicine's Choosing Wisely recommendation actively advises *against* routine/repeat CT KUB** in younger, low-risk patients with typical renal colic that settles with analgesia and no complicating features — a more imaging-conservative stance than the UK approach, reflecting radiation-exposure concerns rather than a same-day-imaging mandate for everyone. In practice, Australian EDs are documented (per a 2025 Emergency Medicine Australasia audit) as still experiencing long imaging waits for renal colic despite this. Treat "within 14h" as illustrative of general urgency (same-visit imaging preferred over delayed outpatient studies) rather than an Australian benchmark, and note that ACEM's guidance leans toward being more selective about ordering CT KUB at all in low-risk patients, not just about how quickly it's done.
-
-**Mx:**
-- Analgesia (diclofenac PR/IM), antiemetic (metoclopramide), IV fluid resuscitation
-- Stones ≤5mm: watchful waiting (usually pass within 4 weeks of symptom onset)
-- More severe stones: shock wave lithotripsy, percutaneous nephrolithotomy, ureteroscopy, open surgery
-- Ureteric obstruction: emergency — nephrostomy tube, ureteric catheters, or stents — **particularly urgent if the obstructed system is also infected (infected hydronephrosis), given the risk of rapid sepsis/renal destruction if decompression is delayed**
-
-**Shock wave lithotripsy:** shock wave generated externally; internal cavitation bubbles and mechanical stress cause fragmentation. Risks — solid organ injury, ureteric obstruction. Requires analgesia during/after. Suitable for most patients with a stone burden <2cm aggregate.
-
-**Ureteroscopy:** for patients in whom lithotripsy is contraindicated (e.g. pregnancy); a stent is usually left for 4 weeks post-procedure.
-
-**Percutaneous nephrolithotomy:** access to the renal collecting system; intra-corporeal lithotripsy or fragmentation performed, then fragments removed. Reserved for complex renal calculi and staghorn calculi.
-
-**Prevention:**
-- Calcium stones: increased water intake, decreased animal protein, decreased salt ± thiazide diuretics
-- Oxalate stones: cholestyramine and pyridoxine
-- Uric acid stones: allopurinol, urinary alkalinisation (bicarbonate)
-
----
-
 ## 0.16 Erectile Dysfunction (ED)
 
 **D:** inability to achieve or maintain an erection satisfactory for sexual intercourse.
@@ -588,6 +991,73 @@ Definitive diagnosis based on histology, but biopsies are rare. Presumptive clin
 > [!note] Peyronie's disease: fibrous tissue in the penis causing curvature during erection; associated with Dupuytren's contracture.
 
 ---
+
+## 0.20 Testicular Torsion
+
+> [!note] Gap-filled from CSV ("Testicular Torsion"/"Torsion of testis," both High yield) — previously only covered within the compact Testicular Lumps comparison table further below; given a full dedicated entry here given its status as a true time-critical surgical emergency, distinct from the other more chronic/subacute conditions in that table.
+
+**D:** twisting of the spermatic cord, causing constriction of the testicular blood supply — a surgical emergency where delayed treatment risks testicular loss.
+
+**R:** <25yo (peak incidence 13–15yo), neonates (a separate, less common presentation — extravaginal torsion), bell-clapper deformity (a congenital anatomical variant where the tunica vaginalis abnormally envelops the entire epididymis and distal spermatic cord, allowing the testis to rotate freely within it — the anatomical basis for most adolescent/young-adult torsion), previous episodes of intermittent torsion/detorsion, cold weather, trauma.
+
+**A/P:** twisting of the spermatic cord constricts venous outflow first, then arterial inflow as twisting progresses → venous congestion and oedema → ischaemia → infarction and necrosis if not relieved promptly.
+
+**S/Smx:** sudden, severe onset of unilateral scrotal/testicular pain, often waking the patient from sleep; pain may be referred to the lower abdomen or groin ± nausea and vomiting (which can misdirect toward a GI diagnosis if the scrotal exam is not performed); "high-riding" testicle (elevated position due to cord shortening from twisting); horizontal lie of the affected testis (loss of the normal vertical orientation); **absent cremasteric reflex on the affected side** (a useful but not perfectly sensitive/specific sign — the mechanism is mechanical, not neurological: the cremaster muscle fibres wrap around and are physically continuous with the spermatic cord, so when the cord twists, the muscle's own ability to contract and elevate the testis is directly disrupted by the torsion itself, rather than the reflex's afferent/efferent nerve pathway being damaged — this is why the reflex specifically fails on the torted side while remaining intact on the normal contralateral side, and why it's a genuinely useful lateralising sign); **negative Prehn's sign — pain is NOT relieved by elevating the testis**, in contrast to epididymo-orchitis where elevation classically eases pain (positive Prehn's sign) — though this sign is not reliable enough to exclude torsion on its own and should never delay urgent assessment/surgical referral.
+
+> [!danger] Testicular torsion is a clinical diagnosis and a time-critical surgical emergency — **do not delay surgical referral for imaging if clinical suspicion is high.** Testicular salvage rates fall sharply with time: salvage is high (>90%) if surgery occurs within 6 hours of symptom onset, but drops substantially beyond 12–24 hours, and is low beyond this window. "Time is testicle" — the same urgency principle as "time is brain" in stroke.
+
+**Ix:** this is fundamentally a clinical diagnosis, and investigation should never delay surgical exploration when suspicion is high — Doppler ultrasound ("whirlpool sign" — the twisted appearance of the spermatic cord, and absent/reduced testicular blood flow) can support the diagnosis and help distinguish torsion from other causes of acute scrotal pain (e.g. epididymo-orchitis, torsion of a testicular appendage) **when the diagnosis is genuinely uncertain and obtaining the scan will not meaningfully delay definitive Mx** — but a normal or equivocal ultrasound should never override strong clinical suspicion, given the ultrasound's imperfect sensitivity and the catastrophic consequence of a missed/delayed diagnosis.
+
+**Mx:**
+- **Immediate/acute:** urgent surgical exploration — this is the priority, and should not be delayed for imaging or other investigations if clinical suspicion is high, given how directly outcome depends on time to detorsion (see above); analgesia and antiemetics while arranging theatre; **manual detorsion can be attempted by an experienced clinician while awaiting surgery** (classically rotating the testis "open book" — laterally — though direction can vary, and successful detorsion is confirmed by symptom relief), but this does not replace the need for surgical exploration and fixation, since manual detorsion can be incomplete or the testis can re-torse.
+- **Definitive:** surgical exploration, detorsion, and assessment of testicular viability; **bilateral orchidopexy (fixation) is performed regardless of which side was affected** — the contralateral (unaffected) side is fixed prophylactically at the same operation, since the bell-clapper anatomical variant predisposing to torsion is typically bilateral, and the contralateral testis remains at ongoing risk of torsion in the future if not fixed. Orchidectomy (removal) if the affected testis is non-viable at exploration.
+- **Chronic/long-term:** patients who undergo orchidectomy may wish to discuss a testicular prosthesis; fertility counselling may be relevant given the loss of one testis, though the remaining testis is generally sufficient for fertility in most cases.
+
+**P:** testicular salvage is highly time-dependent (see above) — this is the single most important prognostic factor, far outweighing any other clinical feature, which is why the overriding message in this topic is urgency of surgical referral over diagnostic certainty.
+
+## 0.21 Testicular Cancer
+
+> [!note] Gap-filled from CSV ("Testicular cancer," High yield) — previously only covered within the compact Testicular Lumps comparison table below (a single row), exactly parallel to how Testicular Torsion above was expanded from that same table into its own full entry; given the same treatment here for consistency, given its equal High-yield status. Also closes a related gap: beta-hCG was absent from the Tumour markers table in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Tumour markers despite being one of the classic markers for this exact cancer — cross-referenced below rather than duplicated in that table.
+
+**D:** malignancy arising from the testis — the most common cancer in young men (peak incidence age 15–35), and genuinely one of the most curable solid cancers when caught and treated appropriately, making early recognition and referral highly consequential.
+
+**R:** cryptorchidism (undescended testis, even if surgically corrected) — the single most established risk factor; family history of testicular cancer; personal history of testicular cancer in the contralateral testis; infertility; Klinefelter syndrome; increased height (a genuinely real, if less intuitive, epidemiological association).
+
+**A/P — germ cell tumours account for the large majority of testicular cancers, and split into two clinically distinct categories with different behaviour and Mx:**
+- **Seminoma:** typically presents at a somewhat older age within the overall young-adult range, tends to be slower-growing and more radiosensitive/chemosensitive, and carries a generally excellent prognosis even with more advanced disease.
+- **Non-seminomatous germ cell tumours (NSGCT)** — a mixed category including embryonal carcinoma, yolk sac tumour, choriocarcinoma, and teratoma — tend to present somewhat younger, grow and spread more rapidly, and are managed somewhat more aggressively given this behaviour, though modern chemotherapy has made even advanced NSGCT highly treatable.
+
+**S/Smx:** classically a painless testicular lump or diffuse enlargement — noticed by the patient or found incidentally; discrete, craggy, hard lesion on examination, sometimes with an associated hydrocele; gynaecomastia can occur (from beta-hCG cross-reacting with LH receptors, or from oestrogen-secreting tumours), a genuinely useful if easily-overlooked associated finding. **Any painless testicular lump should be assumed malignant until proven otherwise** and investigated promptly — the painless nature is precisely why presentation can be delayed, unlike the acute pain of torsion or epididymo-orchitis which the same testicular-lumps table above compares this against.
+
+**Ix:**
+- **Scrotal ultrasound** — first-line imaging, essentially always performed for any suspicious testicular lump.
+- **Serum tumour markers — genuinely central to both diagnosis and ongoing management, not just a supportive test:** **AFP** (alpha-fetoprotein — elevated in yolk sac tumour/embryonal components; **never elevated in pure seminoma**, so an elevated AFP with seminoma-appearing histology means the tumour should be treated as NSGCT regardless of the histological label), **beta-hCG** (elevated in choriocarcinoma and, notably, in a meaningful proportion of seminomas too — around 15% — so its presence doesn't exclude seminoma the way AFP elevation does), and **LDH** (a non-specific marker of tumour burden, useful for staging and monitoring rather than histological subtyping). **Markers must be drawn before orchidectomy** — baseline levels are needed for staging and for tracking post-treatment response, given persistently elevated or rising markers after surgery are often the earliest sign of residual or recurrent disease, sometimes preceding radiological evidence.
+- **Staging CT chest/abdomen/pelvis** once the diagnosis is confirmed, to assess for nodal/metastatic spread (retroperitoneal lymph nodes are the classic first site).
+
+**Mx:**
+- **Immediate/definitive: radical inguinal orchidectomy** — genuinely the standard surgical approach for both diagnosis and initial treatment; **a trans-scrotal biopsy or trans-scrotal approach is specifically avoided**, given the risk of disrupting normal lymphatic drainage and seeding tumour cells into the scrotal skin/inguinal nodes, altering the pattern of potential spread.
+- **Further Mx guided by histology, stage, and post-orchidectomy marker levels:** surveillance alone for low-stage disease with normalising markers; adjuvant chemotherapy or radiotherapy (seminoma is particularly radiosensitive) for higher-stage or persistently marker-positive disease; retroperitoneal lymph node dissection is sometimes used, particularly for residual NSGCT masses after chemotherapy.
+- **Fertility:** sperm banking should be offered and discussed **before** orchidectomy/chemotherapy wherever possible, given both the surgery itself (loss of one testis) and subsequent chemotherapy can affect fertility — this is a genuinely time-sensitive counselling point that shouldn't be an afterthought once treatment has already started.
+
+**P:** genuinely excellent overall — 5-year survival exceeds 90% even accounting for more advanced presentations, reflecting how chemosensitive and radiosensitive most testicular germ cell tumours are; this makes testicular cancer one of the clearest examples in oncology where prompt diagnosis and appropriate specialist Mx translate into excellent outcomes even from advanced disease, rather than prognosis being primarily determined by stage at diagnosis alone.
+
+
+## 0.22 Testicular Lumps
+
+> [!tip] Investigate all testicular lumps with ULTRASOUND.
+
+| | Inguinal hernia | Hydrocele | Epididymal cyst | Epididymo-orchitis | Testicular tumour | Testicular torsion | Varicocele |
+|---|---|---|---|---|---|---|---|
+| **Definition** | Protrusion of abdominal/pelvic contents through the inguinal ring | Collection of serous fluid between layers surrounding the testis or along the spermatic cord | Collection of fluid within its own sac/lining | Infection of the epididymis ± testes | Malignancy of the testes — most common malignancy in males 20–34yo | Twisting of the testicle on the spermatic cord | Abnormal enlargement of internal spermatic veins and pampiniform plexus |
+| **A/P** | Indirect — persistent processus vaginalis; Direct — acquired abdominal wall weakness | Communicating — see indirect inguinal hernia; Simple — imbalance of secretion/reabsorption | ?Associated with polycystic kidney disease, cystic fibrosis, VHL syndrome | "Male equivalent of PID" — local spread from GUT (*C. trachomatis*, *N. gonorrhoeae* in younger patients; *E. coli* in older patients) | Starts as carcinoma in situ — growth beyond basement membrane; seminoma vs non-seminoma | Constriction of vascular supply → ischaemia, necrosis | ?↑temperature, incompetent valves, ↑hydrostatic pressure, nutcracker phenomenon |
+| **R** | M>F, ↑age, family history, prematurity, anatomical defects, ↑abdominal pressure | Prematurity, low birth weight, ↑abdominal pressure, inflammation/injury, cancer | ?Mountain biking | Unprotected sex, bladder outflow obstruction, catheters | Infertility (3x risk), cryptorchidism, family history, mumps, gonadal dysgenesis/atrophy, white ethnicity, HIV | <25yo (peak 13–15yo), neonates, bell-clapper deformity | ?Taller and thinner build, family history |
+| **Key features** | Usually painless unless strangulated/incarcerated; cannot get above it; ± cough impulse; ± reducible; superior/medial to pubic tubercle; disappears with pressure/lying down | Painless; can get above it; soft, fluctuant, transilluminates | Painless; can get above it; clear/opalescent fluid; located above and behind testes, separate from testicular body | May be tender; pain eased by elevating testes (positive Prehn's sign) | Painless; discrete lesion(s); craggy and hard; ± hydrocele; gynaecomastia (↑oestrogen:androgen ratio) | Painful — sudden, severe onset, NOT eased by elevating testes (negative/positive Prehn's sign); pain may be referred to lower abdomen ± N&V; "high-riding testicle"; absent cremasteric reflex | Painless; usually left-sided; "bag of worms" feeling; sub/infertility |
+| **Ix** | Clinical diagnosis | Clinical diagnosis ± US | Diagnosis confirmed by US | STI workup, midstream urine MC&S | Doppler US, CXR, CT-TAP, β-hCG, AFP, LDH, post-op histology | Clinical diagnosis + US ("whirlpool sign") | Clinical diagnosis; consider semen analysis if infertility a concern |
+| **Mx** | Treat even if asymptomatic; mesh repair (unilateral — open approach; bilateral/recurrent — laparoscopy); hernia truss if unfit for surgery | If asymptomatic — watchful waiting; if symptomatic — surgery; most simple hydroceles resolve within the first 2 years of life | If asymptomatic — watchful waiting; if symptomatic — surgery | Ceftriaxone 500mg IM single dose + doxycycline 100mg PO bd for 14 days (AU regimen — see Epididymitis section above for the fuller detail and the azithromycin alternative); exclude testicular torsion | Inguinal (radical) orchidectomy + chemo + radiotherapy first-line; testis-sparing surgery only for limited disease | Analgesia, antiemetics, IV fluids; urgent surgical exploration; orchidopexy of both sides ("time is testicle") | Reassurance + observation; surgery for grade II or III varicocele (asymmetrical, >2cm³ or >20% difference) |
+| **Prognosis** | Bruising, wound infection, chronic pain, recurrence possible; return to light work after 2–3 weeks | Low rate of recurrence | Not stated in source | Rapid resolution with antibiotics; can cause infertility if inadequately treated | Main complication is infertility; excellent 5-year survival if caught early | Can recur if the contralateral side is not fixed prophylactically | Surgical complications — testicular atrophy, hydrocele; 50–80% chance of catch-up growth of the affected testis |
+
+> [!info] Verified — this table's epididymo-orchitis regimen has been aligned with the AU-verified detail already established in the Epididymitis section above (Australian STI Management Guidelines, sti.guidelines.org.au) — not repeated in full here.
+
 
 ## 0.17 Urological Cancers
 
@@ -723,260 +1193,6 @@ Failure rate 1:2000 (more effective than female sterilisation). Semen analysis m
 - **Definitive (urethral injury):** partial injuries may be managed with a period of urinary diversion (suprapubic catheter) and delayed definitive repair; complete disruption typically requires either early or delayed surgical realignment/repair depending on the specific injury pattern and associated injuries, decided by urological specialists.
 - **Definitive (bladder injury):** extraperitoneal rupture can often be managed conservatively with catheter drainage alone, given the extraperitoneal space tends to tamponade and heal; intraperitoneal rupture generally requires surgical repair, given ongoing urine leak into the peritoneal cavity risks peritonitis and doesn't reliably heal with drainage alone.
 - **Chronic/long-term:** urethral stricture is a recognised long-term complication of urethral injury (particularly after posterior urethral disruption), sometimes requiring delayed reconstructive surgery — patients should be counselled about this possibility and followed up accordingly.
-
-## 0.20 Testicular Torsion
-
-> [!note] Gap-filled from CSV ("Testicular Torsion"/"Torsion of testis," both High yield) — previously only covered within the compact Testicular Lumps comparison table further below; given a full dedicated entry here given its status as a true time-critical surgical emergency, distinct from the other more chronic/subacute conditions in that table.
-
-**D:** twisting of the spermatic cord, causing constriction of the testicular blood supply — a surgical emergency where delayed treatment risks testicular loss.
-
-**R:** <25yo (peak incidence 13–15yo), neonates (a separate, less common presentation — extravaginal torsion), bell-clapper deformity (a congenital anatomical variant where the tunica vaginalis abnormally envelops the entire epididymis and distal spermatic cord, allowing the testis to rotate freely within it — the anatomical basis for most adolescent/young-adult torsion), previous episodes of intermittent torsion/detorsion, cold weather, trauma.
-
-**A/P:** twisting of the spermatic cord constricts venous outflow first, then arterial inflow as twisting progresses → venous congestion and oedema → ischaemia → infarction and necrosis if not relieved promptly.
-
-**S/Smx:** sudden, severe onset of unilateral scrotal/testicular pain, often waking the patient from sleep; pain may be referred to the lower abdomen or groin ± nausea and vomiting (which can misdirect toward a GI diagnosis if the scrotal exam is not performed); "high-riding" testicle (elevated position due to cord shortening from twisting); horizontal lie of the affected testis (loss of the normal vertical orientation); **absent cremasteric reflex on the affected side** (a useful but not perfectly sensitive/specific sign — the mechanism is mechanical, not neurological: the cremaster muscle fibres wrap around and are physically continuous with the spermatic cord, so when the cord twists, the muscle's own ability to contract and elevate the testis is directly disrupted by the torsion itself, rather than the reflex's afferent/efferent nerve pathway being damaged — this is why the reflex specifically fails on the torted side while remaining intact on the normal contralateral side, and why it's a genuinely useful lateralising sign); **negative Prehn's sign — pain is NOT relieved by elevating the testis**, in contrast to epididymo-orchitis where elevation classically eases pain (positive Prehn's sign) — though this sign is not reliable enough to exclude torsion on its own and should never delay urgent assessment/surgical referral.
-
-> [!danger] Testicular torsion is a clinical diagnosis and a time-critical surgical emergency — **do not delay surgical referral for imaging if clinical suspicion is high.** Testicular salvage rates fall sharply with time: salvage is high (>90%) if surgery occurs within 6 hours of symptom onset, but drops substantially beyond 12–24 hours, and is low beyond this window. "Time is testicle" — the same urgency principle as "time is brain" in stroke.
-
-**Ix:** this is fundamentally a clinical diagnosis, and investigation should never delay surgical exploration when suspicion is high — Doppler ultrasound ("whirlpool sign" — the twisted appearance of the spermatic cord, and absent/reduced testicular blood flow) can support the diagnosis and help distinguish torsion from other causes of acute scrotal pain (e.g. epididymo-orchitis, torsion of a testicular appendage) **when the diagnosis is genuinely uncertain and obtaining the scan will not meaningfully delay definitive Mx** — but a normal or equivocal ultrasound should never override strong clinical suspicion, given the ultrasound's imperfect sensitivity and the catastrophic consequence of a missed/delayed diagnosis.
-
-**Mx:**
-- **Immediate/acute:** urgent surgical exploration — this is the priority, and should not be delayed for imaging or other investigations if clinical suspicion is high, given how directly outcome depends on time to detorsion (see above); analgesia and antiemetics while arranging theatre; **manual detorsion can be attempted by an experienced clinician while awaiting surgery** (classically rotating the testis "open book" — laterally — though direction can vary, and successful detorsion is confirmed by symptom relief), but this does not replace the need for surgical exploration and fixation, since manual detorsion can be incomplete or the testis can re-torse.
-- **Definitive:** surgical exploration, detorsion, and assessment of testicular viability; **bilateral orchidopexy (fixation) is performed regardless of which side was affected** — the contralateral (unaffected) side is fixed prophylactically at the same operation, since the bell-clapper anatomical variant predisposing to torsion is typically bilateral, and the contralateral testis remains at ongoing risk of torsion in the future if not fixed. Orchidectomy (removal) if the affected testis is non-viable at exploration.
-- **Chronic/long-term:** patients who undergo orchidectomy may wish to discuss a testicular prosthesis; fertility counselling may be relevant given the loss of one testis, though the remaining testis is generally sufficient for fertility in most cases.
-
-**P:** testicular salvage is highly time-dependent (see above) — this is the single most important prognostic factor, far outweighing any other clinical feature, which is why the overriding message in this topic is urgency of surgical referral over diagnostic certainty.
-
-## 0.21 Testicular Cancer
-
-> [!note] Gap-filled from CSV ("Testicular cancer," High yield) — previously only covered within the compact Testicular Lumps comparison table below (a single row), exactly parallel to how Testicular Torsion above was expanded from that same table into its own full entry; given the same treatment here for consistency, given its equal High-yield status. Also closes a related gap: beta-hCG was absent from the Tumour markers table in [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Tumour markers despite being one of the classic markers for this exact cancer — cross-referenced below rather than duplicated in that table.
-
-**D:** malignancy arising from the testis — the most common cancer in young men (peak incidence age 15–35), and genuinely one of the most curable solid cancers when caught and treated appropriately, making early recognition and referral highly consequential.
-
-**R:** cryptorchidism (undescended testis, even if surgically corrected) — the single most established risk factor; family history of testicular cancer; personal history of testicular cancer in the contralateral testis; infertility; Klinefelter syndrome; increased height (a genuinely real, if less intuitive, epidemiological association).
-
-**A/P — germ cell tumours account for the large majority of testicular cancers, and split into two clinically distinct categories with different behaviour and Mx:**
-- **Seminoma:** typically presents at a somewhat older age within the overall young-adult range, tends to be slower-growing and more radiosensitive/chemosensitive, and carries a generally excellent prognosis even with more advanced disease.
-- **Non-seminomatous germ cell tumours (NSGCT)** — a mixed category including embryonal carcinoma, yolk sac tumour, choriocarcinoma, and teratoma — tend to present somewhat younger, grow and spread more rapidly, and are managed somewhat more aggressively given this behaviour, though modern chemotherapy has made even advanced NSGCT highly treatable.
-
-**S/Smx:** classically a painless testicular lump or diffuse enlargement — noticed by the patient or found incidentally; discrete, craggy, hard lesion on examination, sometimes with an associated hydrocele; gynaecomastia can occur (from beta-hCG cross-reacting with LH receptors, or from oestrogen-secreting tumours), a genuinely useful if easily-overlooked associated finding. **Any painless testicular lump should be assumed malignant until proven otherwise** and investigated promptly — the painless nature is precisely why presentation can be delayed, unlike the acute pain of torsion or epididymo-orchitis which the same testicular-lumps table above compares this against.
-
-**Ix:**
-- **Scrotal ultrasound** — first-line imaging, essentially always performed for any suspicious testicular lump.
-- **Serum tumour markers — genuinely central to both diagnosis and ongoing management, not just a supportive test:** **AFP** (alpha-fetoprotein — elevated in yolk sac tumour/embryonal components; **never elevated in pure seminoma**, so an elevated AFP with seminoma-appearing histology means the tumour should be treated as NSGCT regardless of the histological label), **beta-hCG** (elevated in choriocarcinoma and, notably, in a meaningful proportion of seminomas too — around 15% — so its presence doesn't exclude seminoma the way AFP elevation does), and **LDH** (a non-specific marker of tumour burden, useful for staging and monitoring rather than histological subtyping). **Markers must be drawn before orchidectomy** — baseline levels are needed for staging and for tracking post-treatment response, given persistently elevated or rising markers after surgery are often the earliest sign of residual or recurrent disease, sometimes preceding radiological evidence.
-- **Staging CT chest/abdomen/pelvis** once the diagnosis is confirmed, to assess for nodal/metastatic spread (retroperitoneal lymph nodes are the classic first site).
-
-**Mx:**
-- **Immediate/definitive: radical inguinal orchidectomy** — genuinely the standard surgical approach for both diagnosis and initial treatment; **a trans-scrotal biopsy or trans-scrotal approach is specifically avoided**, given the risk of disrupting normal lymphatic drainage and seeding tumour cells into the scrotal skin/inguinal nodes, altering the pattern of potential spread.
-- **Further Mx guided by histology, stage, and post-orchidectomy marker levels:** surveillance alone for low-stage disease with normalising markers; adjuvant chemotherapy or radiotherapy (seminoma is particularly radiosensitive) for higher-stage or persistently marker-positive disease; retroperitoneal lymph node dissection is sometimes used, particularly for residual NSGCT masses after chemotherapy.
-- **Fertility:** sperm banking should be offered and discussed **before** orchidectomy/chemotherapy wherever possible, given both the surgery itself (loss of one testis) and subsequent chemotherapy can affect fertility — this is a genuinely time-sensitive counselling point that shouldn't be an afterthought once treatment has already started.
-
-**P:** genuinely excellent overall — 5-year survival exceeds 90% even accounting for more advanced presentations, reflecting how chemosensitive and radiosensitive most testicular germ cell tumours are; this makes testicular cancer one of the clearest examples in oncology where prompt diagnosis and appropriate specialist Mx translate into excellent outcomes even from advanced disease, rather than prognosis being primarily determined by stage at diagnosis alone.
-
-
-## 0.22 Testicular Lumps
-
-> [!tip] Investigate all testicular lumps with ULTRASOUND.
-
-| | Inguinal hernia | Hydrocele | Epididymal cyst | Epididymo-orchitis | Testicular tumour | Testicular torsion | Varicocele |
-|---|---|---|---|---|---|---|---|
-| **Definition** | Protrusion of abdominal/pelvic contents through the inguinal ring | Collection of serous fluid between layers surrounding the testis or along the spermatic cord | Collection of fluid within its own sac/lining | Infection of the epididymis ± testes | Malignancy of the testes — most common malignancy in males 20–34yo | Twisting of the testicle on the spermatic cord | Abnormal enlargement of internal spermatic veins and pampiniform plexus |
-| **A/P** | Indirect — persistent processus vaginalis; Direct — acquired abdominal wall weakness | Communicating — see indirect inguinal hernia; Simple — imbalance of secretion/reabsorption | ?Associated with polycystic kidney disease, cystic fibrosis, VHL syndrome | "Male equivalent of PID" — local spread from GUT (*C. trachomatis*, *N. gonorrhoeae* in younger patients; *E. coli* in older patients) | Starts as carcinoma in situ — growth beyond basement membrane; seminoma vs non-seminoma | Constriction of vascular supply → ischaemia, necrosis | ?↑temperature, incompetent valves, ↑hydrostatic pressure, nutcracker phenomenon |
-| **R** | M>F, ↑age, family history, prematurity, anatomical defects, ↑abdominal pressure | Prematurity, low birth weight, ↑abdominal pressure, inflammation/injury, cancer | ?Mountain biking | Unprotected sex, bladder outflow obstruction, catheters | Infertility (3x risk), cryptorchidism, family history, mumps, gonadal dysgenesis/atrophy, white ethnicity, HIV | <25yo (peak 13–15yo), neonates, bell-clapper deformity | ?Taller and thinner build, family history |
-| **Key features** | Usually painless unless strangulated/incarcerated; cannot get above it; ± cough impulse; ± reducible; superior/medial to pubic tubercle; disappears with pressure/lying down | Painless; can get above it; soft, fluctuant, transilluminates | Painless; can get above it; clear/opalescent fluid; located above and behind testes, separate from testicular body | May be tender; pain eased by elevating testes (positive Prehn's sign) | Painless; discrete lesion(s); craggy and hard; ± hydrocele; gynaecomastia (↑oestrogen:androgen ratio) | Painful — sudden, severe onset, NOT eased by elevating testes (negative/positive Prehn's sign); pain may be referred to lower abdomen ± N&V; "high-riding testicle"; absent cremasteric reflex | Painless; usually left-sided; "bag of worms" feeling; sub/infertility |
-| **Ix** | Clinical diagnosis | Clinical diagnosis ± US | Diagnosis confirmed by US | STI workup, midstream urine MC&S | Doppler US, CXR, CT-TAP, β-hCG, AFP, LDH, post-op histology | Clinical diagnosis + US ("whirlpool sign") | Clinical diagnosis; consider semen analysis if infertility a concern |
-| **Mx** | Treat even if asymptomatic; mesh repair (unilateral — open approach; bilateral/recurrent — laparoscopy); hernia truss if unfit for surgery | If asymptomatic — watchful waiting; if symptomatic — surgery; most simple hydroceles resolve within the first 2 years of life | If asymptomatic — watchful waiting; if symptomatic — surgery | Ceftriaxone 500mg IM single dose + doxycycline 100mg PO bd for 14 days (AU regimen — see Epididymitis section above for the fuller detail and the azithromycin alternative); exclude testicular torsion | Inguinal (radical) orchidectomy + chemo + radiotherapy first-line; testis-sparing surgery only for limited disease | Analgesia, antiemetics, IV fluids; urgent surgical exploration; orchidopexy of both sides ("time is testicle") | Reassurance + observation; surgery for grade II or III varicocele (asymmetrical, >2cm³ or >20% difference) |
-| **Prognosis** | Bruising, wound infection, chronic pain, recurrence possible; return to light work after 2–3 weeks | Low rate of recurrence | Not stated in source | Rapid resolution with antibiotics; can cause infertility if inadequately treated | Main complication is infertility; excellent 5-year survival if caught early | Can recur if the contralateral side is not fixed prophylactically | Surgical complications — testicular atrophy, hydrocele; 50–80% chance of catch-up growth of the affected testis |
-
-> [!info] Verified — this table's epididymo-orchitis regimen has been aligned with the AU-verified detail already established in the Epididymitis section above (Australian STI Management Guidelines, sti.guidelines.org.au) — not repeated in full here.
-
-
-<!-- ===== SOURCE: H1_Haematuria_and_Proteinuria.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Diagnostic reasoning, discriminators and mechanism are reliable at intern level. **Every threshold, referral criterion, dose and regimen carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **eTG**, **Kidney Health Australia (CARI guidelines and the CKD management handbook)**, and your local nephrology and urology referral criteria.
->
-> **Vasculitis and ANCA-associated disease are built in [[L2]] 0.5**, and **acute kidney injury and chronic kidney disease in [[H3]]** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Haematuria
-
-> [!tip] First — is it actually blood?
-> **A positive dipstick with NO red cells on microscopy means haemoglobin or MYOGLOBIN, not haematuria.**
-> **· MYOGLOBINURIA — rhabdomyolysis. Cross-refer [[A7]] 0.6.**
-> **· HAEMOGLOBINURIA — intravascular haemolysis.**
-> **· Non-blood causes of discoloured urine: beetroot, food dyes, RIFAMPICIN (orange), senna, nitrofurantoin, methyldopa, porphyria, and bile.**
-> **· Contamination — menstruation, or a lesion of the external genitalia or perineum.** **Repeat the sample outside menstruation before investigating.**
-
-> [!danger] Then — glomerular or non-glomerular? This is the branch point
-> | | **GLOMERULAR** | **NON-GLOMERULAR (urological)** |
-> |---|---|---|
-> | Colour | **Brown, "cola" or tea-coloured** | **Bright red or pink** |
-> | Clots | **Absent** | **May be present** |
-> | Red cells | **DYSMORPHIC** | Isomorphic (normal shaped) |
-> | **RED CELL CASTS** | **PRESENT — pathognomonic of glomerular bleeding** | Absent |
-> | Proteinuria | Present, often significant | Absent or minimal |
-> | Associated | Hypertension, oedema, renal impairment | Pain, LUTS, or asymptomatic |
-> **RED CELL CASTS ARE THE SINGLE MOST USEFUL FINDING** — they form in the tubules and can only come from glomerular bleeding. **They require a FRESH sample examined promptly, because casts degrade** — a specimen that sits for hours will not show them, which is the commonest reason they are "absent".
-> **Glomerular → nephrology. Non-glomerular → urology.**
-
-> [!danger] Visible haematuria in an adult requires urological investigation — even with a UTI, even on anticoagulants
-> **Two errors account for most delayed bladder cancer diagnoses:**
-> **1. "It's just a urinary tract infection."** A positive urine culture does not exclude a tumour, and infection and malignancy coexist. **If visible haematuria does not resolve completely after treating the infection, investigate.**
-> **2. "They're on warfarin, that explains it."** **ANTICOAGULATION DOES NOT CAUSE HAEMATURIA — IT UNMASKS AN UNDERLYING LESION.** A significant proportion of anticoagulated patients with visible haematuria have identifiable pathology, including malignancy. **The anticoagulant is a reason to look harder, not a reason to stop looking.**
-
-> [!warning] The risk factors for urothelial malignancy
-> **· AGE — risk rises steeply after about 40–50.**
-> **· SMOKING — the dominant modifiable risk factor for bladder cancer, and the association is strong and dose-related.**
-> **· Male sex.**
-> **· OCCUPATIONAL EXPOSURE to aromatic amines — rubber, dye, leather, paint, printing and chemical industries — with a LATENCY OF DECADES, so the occupational history must cover the whole working life.**
-> **· Previous pelvic RADIOTHERAPY, and CYCLOPHOSPHAMIDE (which also causes haemorrhagic cystitis).**
-> **· Chronic indwelling catheter and chronic irritation (squamous cell carcinoma).**
-> **· SCHISTOSOMIASIS — squamous cell bladder cancer, relevant in people from endemic areas.**
-
-> [!tip] The non-glomerular causes
-> **· MALIGNANCY — bladder, renal, ureteric, prostatic.**
-> **· STONES** — cross-refer [[H4]] 0.4.
-> **· INFECTION — cystitis, pyelonephritis, prostatitis, tuberculosis (with STERILE PYURIA).**
-> **· Benign prostatic enlargement.**
-> **· Trauma, including catheter trauma and post-instrumentation.**
-> **· Radiation cystitis, arteriovenous malformation, papillary necrosis (analgesics, sickle cell, diabetes), loin pain-haematuria syndrome.**
-> **· Vigorous exercise** — "runner's haematuria", which should resolve.
-
-**Ix:** **Urine microscopy on a FRESH sample, ideally with phase contrast** (*why:* dysmorphic cells and red cell casts determine whether this is a nephrology or urology problem, and casts degrade rapidly; *what:* dysmorphic red cells, casts). **Urine albumin-creatinine ratio or protein-creatinine ratio** (*why:* significant proteinuria alongside haematuria strongly indicates glomerular disease; *what:* proteinuria). **UEC and eGFR, blood pressure** (*why:* renal impairment and hypertension point to glomerular disease and to urgency; *what:* impairment, hypertension). Urine culture (*why:* infection, which must be treated and then the haematuria rechecked; *what:* organism). **CT urography and CYSTOSCOPY for non-glomerular visible haematuria** (*why:* imaging assesses the upper tracts and cystoscopy the bladder — **neither alone is sufficient, because CT misses flat bladder lesions and cystoscopy does not see the upper tracts**; *what:* tumour, stone, structural lesion). Urine cytology (*why:* adjunctive, with limited sensitivity for low-grade tumours; *what:* malignant cells). FBC and coagulation (*why:* anaemia and bleeding tendency; *what:* the values). **Nephrology referral for glomerular features** and consideration of biopsy (see 0.6).
-
----
-
-## 0.2 The Glomerular Syndromes
-
-> [!info] Five ways glomerular disease presents
-> **1. ASYMPTOMATIC URINARY ABNORMALITIES — isolated haematuria and/or proteinuria found incidentally.**
-> **2. NEPHRITIC SYNDROME — an inflammatory picture.**
-> **3. NEPHROTIC SYNDROME — a leaky picture.**
-> **4. RAPIDLY PROGRESSIVE GLOMERULONEPHRITIS — nephritic with rapid loss of function over days to weeks. A MEDICAL EMERGENCY.**
-> **5. CHRONIC GLOMERULONEPHRITIS — slow decline to end-stage disease.**
-
-> [!tip] Nephritic versus nephrotic — the comparison worth memorising
-> | | **NEPHRITIC** | **NEPHROTIC** |
-> |---|---|---|
-> | Mechanism | **INFLAMMATION** of the glomerulus | **INCREASED PERMEABILITY** of the barrier |
-> | Haematuria | **Prominent, with RED CELL CASTS** | Absent or minimal |
-> | Proteinuria | Mild to moderate | **HEAVY** |
-> | Albumin | Normal or mildly low | **LOW** |
-> | Oedema | **Mild — periorbital, facial** | **Marked — generalised, ascites, pleural effusions** |
-> | Blood pressure | **HIGH** | Normal or low |
-> | Renal function | **Impaired, oliguria** | Often initially preserved |
-> | Lipids | Normal | **HIGH** |
-> **The two can overlap**, and some diseases (membranoproliferative GN, lupus nephritis) produce a mixed picture.
-
----
-
-## 0.3 Nephritic Syndrome and Glomerulonephritis
-
-> [!danger] Rapidly progressive glomerulonephritis is an emergency — and it is classified by immunofluorescence
-> **RPGN: a nephritic picture with loss of renal function over days to weeks, with CRESCENTS on biopsy.** **Untreated, it progresses to irreversible end-stage kidney disease within weeks.**
-> **Three immunofluorescence patterns, which map onto three groups of disease:**
-> **· LINEAR — ANTI-GBM DISEASE (Goodpasture). Antibodies against the glomerular and alveolar basement membrane, causing glomerulonephritis with PULMONARY HAEMORRHAGE. Treated with PLASMA EXCHANGE plus immunosuppression, and it is TIME-CRITICAL — renal recovery depends on how early it is started.**
-> **· GRANULAR (immune complex) — post-infectious GN, IgA nephropathy and IgA vasculitis, LUPUS nephritis, cryoglobulinaemic GN, membranoproliferative GN.**
-> **· PAUCI-IMMUNE (little or no staining) — ANCA-ASSOCIATED VASCULITIS: granulomatosis with polyangiitis, microscopic polyangiitis, eosinophilic granulomatosis with polyangiitis.** Cross-refer [[L2]] 0.5.
-
-> [!danger] Pulmonary-renal syndrome
-> **HAEMOPTYSIS or unexplained hypoxia + HAEMATURIA and PROTEINURIA + RISING CREATININE.**
-> **Causes: ANCA-associated vasculitis, anti-GBM disease, and lupus.**
-> **Send ANCA and anti-GBM URGENTLY, get a fresh urine microscopy looking for RED CELL CASTS, and involve nephrology and rheumatology the same day.** **Immunosuppression cannot wait for a tissue diagnosis if the patient is deteriorating.** Cross-refer [[L2]] 0.5 and [[A4]] 0.3.
-
-> [!tip] IgA nephropathy versus post-streptococcal GN — the timing discriminates them
-> **· IgA NEPHROPATHY — the commonest primary glomerulonephritis worldwide.** **"SYNPHARYNGITIC" haematuria: visible haematuria appearing within ONE TO TWO DAYS of an upper respiratory tract infection — essentially concurrent with the sore throat.** Complement is NORMAL.
-> **· POST-STREPTOCOCCAL GN — haematuria appearing ONE TO THREE WEEKS after a throat infection, or THREE TO SIX WEEKS after a skin infection.** **Complement C3 is LOW and recovers over weeks — a useful and time-limited finding.**
-> **The interval is the discriminator: days versus weeks.**
-> **Post-streptococcal GN is usually self-limiting in children with supportive care. It remains clinically important in Australia because of the high burden of streptococcal SKIN infection in some remote Aboriginal and Torres Strait Islander communities** — the same infections that drive acute rheumatic fever. Cross-refer [[K2]] 0.6 and [[AU1]] 0.4.
-> **IgA nephropathy has a variable course** — a proportion progress to end-stage disease over decades, so it needs long-term monitoring rather than reassurance.
-
-> [!warning] The hereditary and benign causes of persistent haematuria
-> **· ALPORT SYNDROME — a hereditary type IV collagen disorder, usually X-linked. Haematuria progressing to renal failure, with SENSORINEURAL HEARING LOSS and ocular abnormalities (anterior lenticonus).** **A young man with haematuria and hearing loss, with a family history of renal failure, should prompt the thought — and the family needs testing.**
-> **· THIN BASEMENT MEMBRANE DISEASE (benign familial haematuria) — persistent non-visible haematuria with a family history of haematuria WITHOUT renal failure, normal function, no proteinuria, and a benign course.** **The distinction from Alport syndrome matters enormously for the patient and their family, and rests on the family history of renal failure and deafness, and ultimately on biopsy and genetics.**
-
-> [!tip] Management principles in glomerulonephritis
-> **· BLOOD PRESSURE CONTROL — the single most important intervention for preserving renal function long term.**
-> **· RENIN-ANGIOTENSIN SYSTEM BLOCKADE — ACE inhibitor or ARB — which reduces proteinuria and slows progression independently of blood pressure.** **Expect a modest creatinine rise and accept it.** Cross-refer [[CV-X]] 0.3.
-> **· IMMUNOSUPPRESSION where the disease is immune-mediated and progressive** — specialist-directed.
-> **· Treat the underlying cause** — infection, lupus, vasculitis, drug.
-> **· URGENT nephrology involvement for RPGN**, where delay costs nephrons permanently.
-
----
-
-## 0.4 Nephrotic Syndrome
-
-**D:** **Heavy proteinuria, hypoalbuminaemia and oedema**, usually with hyperlipidaemia. `UNVERIFIED — the proteinuria threshold.`
-
-> [!tip] The causes, by age
-> **· MINIMAL CHANGE DISEASE — the commonest cause in CHILDREN, and highly steroid-responsive.** Normal light microscopy with podocyte foot process effacement on electron microscopy.
-> **· FOCAL SEGMENTAL GLOMERULOSCLEROSIS — the commonest primary cause in ADULTS.** Associated with obesity, HIV, heroin use, reflux nephropathy, reduced nephron mass, and specific genetic variants (with higher prevalence in people of African ancestry).
-> **· MEMBRANOUS NEPHROPATHY — the classic adult primary cause.** **Anti-PLA2R antibodies are positive in the majority of primary cases, which has largely replaced biopsy for diagnosis in typical presentations.** **Secondary causes matter: MALIGNANCY (particularly solid tumours in older patients), hepatitis B, lupus, and drugs (NSAIDs, penicillamine, gold).** **A new membranous nephropathy in an older adult warrants age-appropriate malignancy assessment.**
-> **· MEMBRANOPROLIFERATIVE GN — often with a mixed nephritic-nephrotic picture; associated with hepatitis C, cryoglobulinaemia and complement dysregulation.**
-> **· SECONDARY CAUSES — DIABETIC NEPHROPATHY is the commonest overall cause of nephrotic-range proteinuria; also AMYLOIDOSIS, lupus, and infections.**
-
-> [!danger] The two complications that kill — thrombosis and infection
-> **1. THROMBOSIS.** **The nephrotic patient is HYPERCOAGULABLE, because ANTITHROMBIN III and other regulatory proteins are lost in the urine while the liver overproduces procoagulant factors.**
-> **RENAL VEIN THROMBOSIS is the classic — presenting with loin pain, worsening haematuria, and deteriorating renal function — and it is most associated with MEMBRANOUS nephropathy.** **Also deep vein thrombosis and pulmonary embolism.**
-> **A nephrotic patient with new loin pain or breathlessness needs thrombosis considered urgently.**
-> **2. INFECTION.** **Immunoglobulins and complement components are lost in the urine, producing susceptibility to ENCAPSULATED organisms.**
-> **SPONTANEOUS BACTERIAL PERITONITIS — classically pneumococcal — occurs in nephrotic CHILDREN with ascites, and abdominal pain in a nephrotic child must be taken seriously rather than attributed to the oedema.**
-> **Vaccination (pneumococcal, influenza) is part of management.**
-> **Other complications: hyperlipidaemia, acute kidney injury (from intravascular depletion, often precipitated by over-diuresis), protein malnutrition, vitamin D deficiency, and an anaemia that does not respond to iron.**
-
-> [!warning] Management, and the diuretic trap
-> **· RAS BLOCKADE to reduce proteinuria.**
-> **· SALT RESTRICTION — more effective than people expect, and necessary for diuretics to work.**
-> **· DIURETICS for oedema — but CAUTIOUSLY.** **The nephrotic patient may be oedematous yet INTRAVASCULARLY DEPLETED, and aggressive diuresis precipitates acute kidney injury.** **Monitor weight, renal function and postural blood pressure rather than diuresing to the appearance of the legs.**
-> **· Statin for the hyperlipidaemia.**
-> **· ANTICOAGULATION consideration in high-risk patients** — a specialist decision balancing thrombotic and bleeding risk. `UNVERIFIED — the criteria.`
-> **· Immunosuppression directed by the diagnosis.**
-> **· Vaccination and infection vigilance.**
-
-> [!tip] Children with typical nephrotic syndrome are treated without a biopsy
-> **A child of typical age with typical nephrotic syndrome, normal complement, no significant haematuria, no hypertension and normal renal function is presumed to have MINIMAL CHANGE DISEASE and treated with CORTICOSTEROIDS without biopsy.**
-> **Biopsy is reserved for atypical features: age outside the usual range, significant haematuria, hypertension, renal impairment, low complement, or FAILURE TO RESPOND to steroids.** Cross-refer [[M5]].
-
----
-
-## 0.5 Proteinuria
-
-> [!warning] The dipstick detects albumin — and misses light chains
-> **Urine dipstick is primarily sensitive to ALBUMIN.**
-> **It DOES NOT reliably detect immunoglobulin LIGHT CHAINS (Bence Jones protein).**
-> **So a patient with MYELOMA can have massive overflow proteinuria and a NEGATIVE or trace dipstick** — which is why **unexplained renal impairment, particularly with anaemia, hypercalcaemia or bone pain, requires SERUM AND URINE ELECTROPHORESIS AND FREE LIGHT CHAINS specifically, not just a dipstick.** Cross-refer [[J4]].
-> **The dipstick is also affected by urine concentration** — producing false positives in concentrated urine and false negatives in dilute — which is why quantification uses a ratio to creatinine.
-
-> [!tip] Types of proteinuria, by mechanism
-> **· GLOMERULAR — increased filtration of albumin through a damaged barrier. The commonest and most significant.**
-> **· TUBULAR — failure to reabsorb normally filtered low-molecular-weight proteins (tubulointerstitial disease, Fanconi syndrome).**
-> **· OVERFLOW — excess production of a filterable protein exceeding reabsorptive capacity: LIGHT CHAINS in myeloma, myoglobin, haemoglobin.**
-> **· POST-RENAL — from the urinary tract itself (infection, inflammation, blood).**
-
-> [!info] Quantification and the transient causes
-> **· ALBUMIN-CREATININE RATIO (ACR) — preferred for detecting and monitoring early kidney disease, including diabetic kidney disease.**
-> **· PROTEIN-CREATININE RATIO (PCR) — used for heavier proteinuria and where non-albumin proteins matter.**
-> **· 24-hour collections have largely been superseded** by these ratios, which are more practical and comparably accurate.
-> **TRANSIENT AND BENIGN CAUSES — always confirm on a repeat sample: fever · vigorous exercise · urinary tract infection · heart failure · and ORTHOSTATIC (postural) PROTEINURIA.**
-> **ORTHOSTATIC PROTEINURIA — proteinuria present during the day but ABSENT in a FIRST-MORNING sample taken immediately on waking. It occurs in adolescents and young adults, is benign, and the first-morning specimen is the diagnostic test.** **Recognising it prevents an unnecessary renal workup in a healthy young person.**
-
-> [!danger] Persistent proteinuria matters twice over
-> **It is a marker of kidney disease AND an INDEPENDENT CARDIOVASCULAR RISK FACTOR** — a patient with proteinuria is at higher cardiovascular risk than an equivalent patient without it, irrespective of eGFR.
-> **So finding it obliges two things: renal assessment, and intensified cardiovascular risk management.**
-> **Reducing proteinuria with RAS blockade slows renal progression**, and it is one of the few interventions that modifies the trajectory of chronic kidney disease. Cross-refer [[H3]] and [[I2]] 0.5.
-
-**Ix:** **Repeat ACR or PCR to confirm persistence** (*why:* transient proteinuria is common and does not warrant a workup; *what:* persistent elevation). **First-morning specimen where orthostatic proteinuria is possible** (*why:* it is the diagnostic test and avoids unnecessary investigation of a healthy adolescent; *what:* absent proteinuria on waking). **Urine microscopy for casts and dysmorphic cells** (*why:* distinguishes glomerular disease; *what:* casts). UEC, eGFR, albumin, lipids, glucose or HbA1c (*why:* renal function, nephrotic features and diabetes; *what:* the pattern). **Serum and urine electrophoresis with free light chains** where unexplained, particularly over 50 (*why:* myeloma is missed by dipstick; *what:* paraprotein). Autoimmune screen — ANA, anti-dsDNA, complement, ANCA, anti-GBM (*why:* immune-mediated glomerular disease; *what:* the cause — cross-refer [[L2]] 0.6). Hepatitis B and C, HIV, syphilis serology (*why:* treatable infective causes of glomerular disease; *what:* infection). **Anti-PLA2R antibodies** where membranous nephropathy is suspected (*why:* may obviate biopsy in typical primary disease; *what:* positive). Renal ultrasound (*why:* size, symmetry, obstruction and echogenicity, and it determines biopsy feasibility — **small echogenic kidneys indicate chronic irreversible disease and biopsy will not help**; *what:* structural findings).
-
----
-
-> [!note] **Moved to `[[Procedures]]` on 2026-09-01:** `0.6 Renal Biopsy` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-> [!note] Cross-references
-> Acute kidney injury, chronic kidney disease and CKD-MBD → [[H3]] · Lower urinary tract symptoms and retention → [[H2]] · Renal colic, scrotal and groin problems → [[H4]] · Vasculitis, ANCA and pulmonary-renal syndrome → [[L2]] 0.5 · Autoantibody interpretation → [[L2]] 0.6 · Lupus nephritis and urinalysis at every visit → [[L2]] 0.4 · Haemoptysis → [[A4]] 0.3 · Myeloma and light chains → [[J4]] · Rhabdomyolysis and myoglobinuria → [[A7]] 0.6 · Diabetic kidney disease → [[I2]] 0.5 · RAS blockade and the expected creatinine rise → [[CV-X]] 0.3 · Post-streptococcal disease and skin infection → [[K2]] 0.6 and [[AU1]] 0.4 · Paediatric nephrotic syndrome → [[M5]] · Hypertension → [[B2]]
-
 
 <!-- ===== SOURCE: H2_LUTS__Retention_and_Incontinence.md ===== -->
 
@@ -1168,222 +1384,6 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 > Haematuria and its investigation → [[H1]] 0.1 · Acute kidney injury and obstructive uropathy → [[H3]] · Renal colic, scrotal problems and paraphimosis → [[H4]] · Cauda equina syndrome → [[L4]] 0.2 · Urosepsis and asymptomatic bacteriuria → [[F0.3]] 0.10 · Continence, catheters and functional incontinence → [[GER2]] 0.1 · Anticholinergic burden and deprescribing → [[GER1]] 0.4 · Female prolapse and pelvic floor → [[O5]] 0.6 · Prostate cancer screening and PSA counselling → [[GER3]] · Post-operative retention → [[AN1]] 0.5 · Heart failure and nocturia → [[CV-X]] · Obstructive sleep apnoea and nocturia → [[RESP-X]] 0.5 · Delirium and tethers → [[D2]] 0.2
 
 
-<!-- ===== SOURCE: H3_Acute_Kidney_Injury_and_CKD.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Mechanism, diagnostic reasoning and discriminators are reliable at intern level. **Every staging criterion, eGFR threshold, dose and referral criterion carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Verify against **KDIGO**, **Kidney Health Australia (CKD management handbook and CARI guidelines)**, eTG and the Australian Medicines Handbook.
-> **Note that the position on contrast-associated AKI has changed substantially** — see 0.5.
->
-> **Hyponatraemia, hypernatraemia and potassium disorders are built in [[I5]] 0.5–0.6**, **CKD-MBD in [[I3]] 0.5**, and **glomerular disease in [[H1]]** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Acute Kidney Injury — Definition and Approach
-
-> [!danger] Creatinine is a late, insensitive marker — and the "normal range" hides a lot
-> **Creatinine rises only after a substantial fall in GFR, and it LAGS the injury by a day or more.** By the time it is abnormal, the damage has occurred.
-> **A rise from 60 to 110 µmol/L is a DOUBLING of creatinine and represents a major fall in GFR — yet both values sit within most laboratory reference ranges.** **AKI is defined by the CHANGE, not by crossing a threshold.**
-> **THE BASELINE IS ESSENTIAL. Look it up.** Without a previous result you cannot stage the injury, cannot distinguish acute from chronic, and cannot tell whether the patient is improving.
-> **Creatinine also over-estimates function in low muscle mass** — the elderly, women, the malnourished, amputees, and patients with cirrhosis. **A frail 85-year-old with a creatinine of 90 may have substantially impaired renal function.**
-> **Urine output falls BEFORE creatinine rises**, which makes it the earlier signal — and the reason fluid balance charts matter.
-> `UNVERIFIED — the KDIGO staging criteria for creatinine rise and urine output.`
-
-> [!tip] Four questions, in order
-> **1. IS THIS ACUTE, CHRONIC, OR ACUTE-ON-CHRONIC?**
-> **Features favouring CHRONIC: previous abnormal results · ANAEMIA · HYPOCALCAEMIA with HYPERPHOSPHATAEMIA and raised PTH · SMALL, ECHOGENIC KIDNEYS on ultrasound · and long-standing hypertension.**
-> **This matters because chronic disease does not recover, the workup differs, and small kidneys mean biopsy is pointless.**
-> **2. IS IT PRE-RENAL, RENAL OR POST-RENAL?** See 0.2.
-> **3. IS THE PATIENT SICK RIGHT NOW — hyperkalaemia, acidosis, fluid overload, uraemic complications?** These need addressing before the diagnosis is complete.
-> **4. WHAT IS REVERSIBLE?** — obstruction, hypovolaemia, sepsis, and drugs. These are where the intervention is.
-
----
-
-## 0.2 The Causes
-
-> [!info] Pre-renal — the commonest, and the drug combination that causes it
-> **· TRUE hypovolaemia — haemorrhage, gastrointestinal losses, burns, over-diuresis, third-spacing (pancreatitis, obstruction, sepsis).** Cross-refer [[F0.2]] 0.10.
-> **· REDUCED EFFECTIVE circulating volume despite total body fluid overload — heart failure, cirrhosis, nephrotic syndrome, and the vasodilatation of sepsis.** **These patients are oedematous AND under-perfused, which is why the fluid decision is hard.**
-> **· Renovascular — renal artery stenosis, where an ACE inhibitor or ARB removes the efferent arteriolar constriction the kidney is relying on.**
-> **· DRUGS THAT IMPAIR GLOMERULAR AUTOREGULATION — and this is the mechanism worth understanding properly:**
-> **NSAIDs block prostaglandin-mediated dilatation of the AFFERENT arteriole (reducing inflow). ACE inhibitors and ARBs block angiotensin-mediated constriction of the EFFERENT arteriole (reducing outflow resistance). Either alone reduces filtration pressure; TOGETHER, plus a DIURETIC reducing volume, they remove both compensatory mechanisms at once.**
-> **This is the "TRIPLE WHAMMY" — ACE inhibitor or ARB + diuretic + NSAID — and it is one of the commonest causes of drug-induced AKI in the community, particularly when a patient becomes dehydrated with a diarrhoeal illness.**
-> **HEPATORENAL SYNDROME** — cross-refer [[C3]] 0.6.
-
-> [!warning] Intrinsic renal
-> **· ACUTE TUBULAR NECROSIS — the commonest intrinsic cause.** Either **ISCHAEMIC** (prolonged pre-renal insult that has tipped over) or **TOXIC** (aminoglycosides, contrast, MYOGLOBIN, haemoglobin, light chains, cisplatin). **Muddy brown granular casts on urine microscopy.** Recovery takes days to weeks and may pass through a polyuric phase.
-> **· ACUTE INTERSTITIAL NEPHRITIS — see the box below.**
-> **· GLOMERULAR disease** — cross-refer [[H1]] 0.3.
-> **· VASCULAR — vasculitis · thrombotic microangiopathy (TTP, HUS) · SCLERODERMA RENAL CRISIS (cross-refer [[L2]] 0.4) · malignant hypertension · and ATHEROEMBOLIC disease.**
-> **ATHEROEMBOLIC (cholesterol embolisation) — occurs DAYS TO WEEKS AFTER an arterial procedure (angiography, cardiac catheterisation, aortic surgery) or after starting anticoagulation, with a subacute stepwise rise in creatinine, LIVEDO RETICULARIS, blue toes with preserved pulses, EOSINOPHILIA and LOW COMPLEMENT.** **It is frequently misattributed to contrast nephropathy — but contrast injury occurs within days and recovers, whereas atheroembolic disease appears later and progresses.** The timing distinguishes them.
-> **· TUMOUR LYSIS SYNDROME, RHABDOMYOLYSIS, and MYELOMA CAST NEPHROPATHY.** Cross-refer [[A7]] 0.6 and [[J4]].
-
-> [!danger] Acute interstitial nephritis — and proton pump inhibitors are now a leading cause
-> **A hypersensitivity reaction within the renal interstitium, most often DRUG-induced.**
-> **The drugs: PROTON PUMP INHIBITORS (now among the commonest causes, and markedly under-recognised because they are so widely and chronically prescribed) · NSAIDs · penicillins and cephalosporins · sulfonamides · allopurinol · mesalazine · rifampicin.** Also infection and autoimmune disease.
-> **The classic triad of FEVER, RASH and EOSINOPHILIA is present in a MINORITY — its absence does not exclude the diagnosis, and relying on it is why AIN is missed.**
-> **Urinary eosinophils are unreliable and no longer recommended.** **White cell casts and sterile pyuria support it.**
-> **Diagnosis is often presumptive; biopsy is definitive.**
-> **Treatment is STOPPING THE DRUG, with corticosteroids in selected cases — and the earlier the drug is stopped, the better the recovery.**
-> **Practical implication: in any unexplained AKI, review the full drug list including the PPI that has been on the chart for years and that nobody considers a medication.**
-
-> [!danger] Always exclude post-renal — it is the most reversible cause
-> **Obstruction requires BOTH kidneys, a single functioning kidney, or the bladder outlet.**
-> **A bladder scan takes two minutes and a renal ultrasound takes minutes more.** **Missing obstruction means losing nephrons that a catheter or a nephrostomy would have saved.**
-> **And note: hydronephrosis can be ABSENT in early obstruction and in retroperitoneal fibrosis or encasing malignancy, where the collecting system cannot dilate** — so a normal ultrasound does not fully exclude it if the clinical suspicion is high. Cross-refer [[H2]] 0.4.
-
-> [!warning] Distinguishing pre-renal from ATN — and why the classical tests disappoint
-> **Classically: pre-renal shows LOW urine sodium, LOW fractional excretion of sodium, and HIGH urine osmolality (the kidney is working hard to retain salt and water); ATN shows the opposite (the tubules cannot).**
-> **In practice these are frequently unhelpful: DIURETICS invalidate the sodium-based indices entirely · they are unreliable in CKD, sepsis and contrast injury · and the two states exist on a continuum.**
-> **The most informative test is usually the RESPONSE TO A CAREFULLY GIVEN FLUID CHALLENGE with reassessment** — and **URINE MICROSCOPY, which costs nothing and is genuinely discriminating.**
-> **URINALYSIS AND MICROSCOPY IS THE MOST UNDER-USED TEST IN AKI:**
-> **· BLAND sediment → pre-renal or post-renal.**
-> **· MUDDY BROWN GRANULAR CASTS → acute tubular necrosis.**
-> **· RED CELL CASTS and proteinuria → glomerulonephritis — an urgent finding.**
-> **· WHITE CELL CASTS and sterile pyuria → interstitial nephritis or pyelonephritis.**
-> **· Crystals → tumour lysis, ethylene glycol, drug crystalluria.**
-
----
-
-## 0.3 Management and the Dialysis Indications
-
-> [!danger] Stop the nephrotoxins — the sick day medication list
-> **Withhold in AKI and during acute dehydrating illness:**
-> **· ACE INHIBITORS and ARBs · DIURETICS · NSAIDs · METFORMIN (risk of lactic acidosis if the injury progresses) · SGLT2 INHIBITORS · and review aminoglycosides, vancomycin, contrast and other nephrotoxins.**
-> **Every patient on these drugs should have SICK DAY RULES explained — that they are held during vomiting, diarrhoea or fever, and restarted when eating and drinking normally.** **This is a genuinely preventive intervention delivered in general practice, and it is rarely given.** Cross-refer [[I2]] 0.7.
-> **TRIMETHOPRIM raises creatinine by blocking tubular SECRETION of creatinine WITHOUT reducing GFR** — a "pseudo-AKI". **It also causes hyperkalaemia.** **Know it, so you neither panic nor dismiss a genuine injury.**
-
-> [!warning] Volume — both under- and over-filling cause harm
-> **Assess volume status properly: history of losses and intake, weight change, blood pressure and POSTURAL change, JVP, mucous membranes, capillary refill, and chest examination.**
-> **Give a fluid challenge and REASSESS**, rather than prescribing a fixed regimen and reviewing tomorrow.
-> **Use BALANCED CRYSTALLOID rather than large volumes of 0.9% saline, which causes hyperchloraemic acidosis.** Cross-refer [[F0.2]] 0.6.
-> **In the oedematous but under-perfused patient (heart failure, cirrhosis), the decision is genuinely difficult and warrants senior input rather than a reflex bolus or a reflex diuretic.**
-> **Monitor: daily weight (the most reliable measure), fluid balance, urine output, and daily UEC.** **Catheterise only if accurate output measurement genuinely changes management.**
-
-> [!danger] The indications for urgent dialysis — AEIOU
-> **· A — ACIDOSIS, severe and refractory to medical management.**
-> **· E — ELECTROLYTES: refractory HYPERKALAEMIA.**
-> **· I — INTOXICATION with a dialysable substance (lithium, salicylate, toxic alcohols, metformin).**
-> **· O — OVERLOAD: refractory pulmonary oedema unresponsive to diuresis.**
-> **· U — URAEMIA with complications: encephalopathy, PERICARDITIS (a rub is a hard indication), or bleeding from uraemic platelet dysfunction.**
-> **The word "refractory" is doing the work in most of these** — dialysis is for what medical management has failed to control, not for a number in isolation.
-
-> [!danger] AKI is not benign, and the follow-up is routinely not arranged
-> **AKI independently increases in-hospital mortality, and survivors carry a substantially increased risk of subsequent CHRONIC kidney disease, cardiovascular events and recurrent AKI.**
-> **The discharge failures that matter:**
-> **1. THE HELD MEDICATIONS ARE NEVER RESTARTED — or are restarted without monitoring.** **Name explicitly in the discharge summary WHICH drugs were held, WHY, WHO should restart them, WHEN, and with what monitoring.** "ACE inhibitor withheld" with no plan means either a patient permanently off a beneficial drug, or one restarted blindly.
-> **2. NO FOLLOW-UP CREATININE IS ARRANGED.** Arrange one, with a named clinician.
-> **3. THE AKI IS NOT DOCUMENTED AS A DIAGNOSIS**, so the next clinician does not know it happened.
-> **4. Blood pressure and proteinuria are not rechecked.**
-
----
-
-## 0.4 Chronic Kidney Disease
-
-> [!info] Staging uses TWO axes — eGFR and albuminuria
-> **CKD is defined by abnormalities of kidney structure or function present for more than three months.**
-> **It is staged by BOTH: the eGFR category (G1–G5) AND the ALBUMINURIA category (A1–A3).**
-> **"CKD stage 3" alone is an incomplete description** — the albuminuria category independently predicts progression and cardiovascular risk, and a patient with the same eGFR but heavy albuminuria has a substantially worse prognosis.
-> `UNVERIFIED — the eGFR and ACR cut-offs for each category, and the combined risk matrix.`
-> **eGFR caveats: it is NOT valid in acute kidney injury (it assumes a steady state) · it is unreliable at extremes of body size and muscle mass, in amputees, in pregnancy and in cirrhosis · and the historical race-based adjustment has been removed in many jurisdictions.** `UNVERIFIED — the current equation and its adjustments in Australia.`
-
-> [!tip] Causes, and what to look for
-> **· DIABETES — the commonest cause in Australia.** Cross-refer [[I2]] 0.5.
-> **· Hypertension and vascular disease.**
-> **· Glomerulonephritis** — cross-refer [[H1]].
-> **· POLYCYSTIC KIDNEY DISEASE — autosomal dominant, with a family history, hypertension, haematuria, and extrarenal associations including INTRACRANIAL ANEURYSMS, hepatic cysts and mitral valve prolapse.** Cross-refer [[D1]] 0.2.
-> **· Reflux nephropathy, obstruction, myeloma, and drug-related (lithium, analgesics, calcineurin inhibitors).**
-
-> [!danger] Most people with CKD die of cardiovascular disease before they reach dialysis
-> **CKD is a powerful, independent cardiovascular risk factor — and the risk rises with falling eGFR and with increasing albuminuria.**
-> **This reframes the management: aggressive cardiovascular risk reduction is at least as important as renal-specific treatment**, and it is frequently neglected because the focus is on the kidney.
-
-> [!warning] The complications, and what to monitor
-> **· ANAEMIA — from erythropoietin deficiency and functional iron deficiency. CORRECT IRON FIRST, then consider an erythropoiesis-stimulating agent.** **Do not over-correct the haemoglobin — higher targets increase stroke and mortality.** `UNVERIFIED — targets.`
-> **· CKD-MINERAL AND BONE DISORDER — hyperphosphataemia, reduced calcitriol, secondary hyperparathyroidism, and VASCULAR CALCIFICATION, which is the outcome that actually matters.** Cross-refer [[I3]] 0.5.
-> **· METABOLIC ACIDOSIS — contributes to bone loss, muscle wasting and progression; treated with oral bicarbonate.**
-> **· HYPERKALAEMIA — which constrains the use of the RAS blockade that protects the kidney, and is the commonest reason it is stopped inappropriately.** Cross-refer [[I5]] 0.6.
-> **· Fluid overload and hypertension.**
-> **· Uraemic symptoms — fatigue, nausea, anorexia, PRURITUS (which is severe, under-treated and profoundly distressing), RESTLESS LEGS, sleep disturbance, and sexual dysfunction.**
-> **· Malnutrition and sarcopenia.**
-
-> [!tip] Slowing progression — and SGLT2 inhibitors have changed this
-> **· BLOOD PRESSURE control — the largest single lever.**
-> **· RAS BLOCKADE (ACE inhibitor or ARB, not both) — reduces proteinuria and slows progression.** **Expect and accept a modest creatinine rise on initiation.**
-> **· SGLT2 INHIBITORS — now a core renal protective therapy, with benefit in chronic kidney disease INDEPENDENT of diabetes.** **This is a substantial and relatively recent change, and these agents are under-prescribed in non-diabetic CKD.**
-> **· Non-steroidal mineralocorticoid receptor antagonists (finerenone) in diabetic kidney disease.**
-> **· Glycaemic control, sodium restriction, smoking cessation, weight management, and avoidance of nephrotoxins.**
-> `UNVERIFIED — agents, eGFR thresholds for initiation, and PBS criteria.`
-
-> [!danger] Preserve the veins — "fistula first" starts on the ward
-> **A patient likely to need haemodialysis needs an arteriovenous FISTULA, which takes MONTHS to mature and must be planned long in advance.**
-> **The fistula depends on healthy forearm and upper arm veins — and those veins are routinely destroyed by hospital care.**
-> **What to do, from the first admission:**
-> **· AVOID cannulation, venepuncture and blood pressure cuffs in the NON-DOMINANT arm of a patient with advanced CKD.**
-> **· AVOID PICC lines and subclavian central lines** — subclavian stenosis makes the ipsilateral arm unusable for a fistula permanently.
-> **· Use the back of the hand or the dominant arm where possible.**
-> **· Put a sign above the bed** — this is standard practice in renal units and rarely done elsewhere.
-> **A patient whose veins have been used up arrives at dialysis needing a tunnelled line, with higher infection and mortality risk.** **This is a concrete thing an intern controls.**
-
-> [!warning] Conservative (non-dialytic) management is a legitimate choice
-> **For frail older patients with multiple comorbidities, dialysis may not extend life meaningfully and may reduce its quality — with substantial treatment burden, hospitalisation, and functional decline.**
-> **Conservative kidney management — active symptom control, treatment of anaemia and acidosis, and palliative input, without dialysis — is a genuine option, not a failure or a withdrawal of care.**
-> **The decision should be made in advance, with the patient and family, using honest prognostic information.** Cross-refer [[GER2]] 0.5–0.6 and [[GER1]] 0.2.
-> **And note the Australian dimension: for Aboriginal and Torres Strait Islander patients in remote communities, dialysis frequently means RELOCATION AWAY FROM COUNTRY, family and community — sometimes permanently.** **Declining or discontinuing dialysis in that context is a rational decision about a whole life, not non-compliance.** Cross-refer [[AU1]] 0.4.
-
----
-
-## 0.5 Drug and Contrast Nephropathy
-
-> [!danger] The risk of contrast nephropathy has been substantially over-estimated
-> **Older literature attributed AKI to contrast without control groups — in patients who were unwell, dehydrated, and receiving other nephrotoxins, and who would have developed AKI anyway.**
-> **Modern controlled studies show a much smaller attributable risk, particularly with modern low- and iso-osmolar agents.**
-> **THE PRACTICAL CONSEQUENCE: DO NOT WITHHOLD A CLINICALLY INDICATED CONTRAST CT BECAUSE OF FEAR OF CONTRAST NEPHROPATHY.** **Delayed or missed diagnoses of pulmonary embolism, aortic dissection, mesenteric ischaemia and cancer cause far more harm than contrast does.**
-> **Risk is genuinely increased in: pre-existing significant CKD · diabetic nephropathy · volume depletion · large contrast volumes · and intra-arterial administration.**
-> **Prevention: VOLUME EXPANSION with intravenous fluid in at-risk patients, and using the minimum necessary contrast volume.**
-> **N-ACETYLCYSTEINE and sodium BICARBONATE are NOT supported by current evidence and should not be used.**
-> `UNVERIFIED — the eGFR thresholds defining risk and the hydration protocols.`
-> **Metformin and contrast: the concern is LACTIC ACIDOSIS if AKI develops, not contrast nephropathy itself.** Withhold per local policy and recheck renal function. Cross-refer [[F0.2]] 0.5.
-
-> [!warning] The nephrotoxic drugs worth knowing
-> **· NSAIDs — the triple whammy, plus interstitial nephritis and papillary necrosis.**
-> **· AMINOGLYCOSIDES — dose-dependent tubular toxicity plus OTOTOXICITY (which is irreversible and frequently forgotten). Once-daily dosing with level monitoring, and the shortest possible duration.**
-> **· VANCOMYCIN, particularly in combination with piperacillin-tazobactam.**
-> **· CALCINEURIN INHIBITORS (ciclosporin, tacrolimus) — both acute vasoconstrictive and chronic fibrotic toxicity.**
-> **· CISPLATIN, amphotericin B, tenofovir.**
-> **· LITHIUM — nephrogenic diabetes insipidus and chronic interstitial nephropathy.** Cross-refer [[N4]] 0.5.
-> **· PROTON PUMP INHIBITORS — interstitial nephritis, and an association with CKD.**
-> **· HERBAL AND COMPLEMENTARY PREPARATIONS — ARISTOLOCHIC ACID causes a distinctive nephropathy and urothelial malignancy, and patients do not report these products as medications unless asked specifically.**
-
----
-
-## 0.6 Polyuria, Oliguria and Water Handling
-
-> [!tip] Polyuria — first distinguish it from frequency
-> **POLYURIA is a genuinely increased VOLUME of urine. FREQUENCY is voiding often, in small volumes.** **A bladder diary with measured volumes separates them, and they have entirely different differentials.**
-> **Then distinguish OSMOTIC from WATER diuresis:**
-> **· OSMOTIC DIURESIS — an unabsorbed solute dragging water: GLUCOSE (uncontrolled diabetes) · urea (recovering ATN, high protein feeds, post-obstructive) · mannitol · SGLT2 inhibitors.**
-> **· WATER DIURESIS — dilute urine: DIABETES INSIPIDUS or primary polydipsia.**
-
-> [!warning] Diabetes insipidus — cranial versus nephrogenic
-> **· CRANIAL (central) — deficient ADH.** Pituitary surgery, tumour, trauma, infiltrative disease. Cross-refer [[I4]] 0.1.
-> **· NEPHROGENIC — renal resistance to ADH.** **The causes to know: LITHIUM (the commonest) · HYPERCALCAEMIA · HYPOKALAEMIA · chronic kidney disease · and rare inherited forms.**
-> **Distinguished by the response to DESMOPRESSIN: cranial DI concentrates the urine, nephrogenic does not.** Water deprivation testing or copeptin measurement supports the diagnosis.
-> **The two electrolyte causes are important because they are correctable — a polyuric patient should have calcium and potassium checked before anything more elaborate.**
-
-> [!danger] Complete anuria — check the catheter first
-> **True anuria is uncommon and has a short differential: BLADDER OUTLET OBSTRUCTION (including a BLOCKED CATHETER) · bilateral ureteric obstruction · a vascular catastrophe (bilateral renal artery occlusion or aortic dissection) · and severe cortical necrosis.**
-> **THE COMMONEST CAUSE OF SUDDEN ANURIA IN A HOSPITAL INPATIENT IS A BLOCKED CATHETER.** **Flush it or replace it before initiating an AKI workup** — it takes a minute and it is right often enough to be the first move.
-> **Gradually declining urine output has the full AKI differential; abrupt complete cessation points to obstruction.**
-
-**Ix:** **URINALYSIS AND MICROSCOPY on a fresh sample** (*why:* the cheapest and most discriminating test in AKI, distinguishing pre-renal, ATN, glomerular and interstitial causes — and it is routinely omitted; *what:* casts, cells, protein). **UEC with a BASELINE comparison, and daily thereafter** (*why:* AKI is defined by change, and the trajectory guides management; *what:* creatinine trend, potassium, bicarbonate). **Bladder scan and RENAL TRACT ULTRASOUND** (*why:* obstruction is the most reversible cause and must be excluded early — **noting hydronephrosis may be absent in early or encased obstruction**; *what:* residual volume, hydronephrosis, kidney size and echogenicity). **VBG** (*why:* rapid potassium and acid-base assessment while awaiting formal biochemistry; *what:* pH, bicarbonate, potassium, lactate). FBC (*why:* anaemia suggesting chronicity, thrombocytopenia suggesting thrombotic microangiopathy; *what:* the pattern). **CK** (*why:* rhabdomyolysis; *what:* elevation). **Calcium, phosphate, urate, LDH** (*why:* tumour lysis and myeloma; *what:* the pattern). **Serum and urine electrophoresis with free light chains in unexplained AKI, particularly over 50** (*why:* myeloma cast nephropathy is missed because the dipstick does not detect light chains; *what:* paraprotein — cross-refer [[J4]]). **Immunology — ANA, ANCA, anti-GBM, complement — where there is an active urinary sediment** (*why:* rapidly progressive glomerulonephritis is time-critical; *what:* the cause — cross-refer [[H1]] 0.3). **A complete medication review including over-the-counter NSAIDs, PPIs and complementary products** (*why:* drugs are among the commonest and most reversible causes and patients do not report several of these as medications; *what:* culprit). **Daily weight and fluid balance** (*why:* the most reliable measure of volume change; *what:* trend).
-
----
-
-> [!note] Cross-references
-> Haematuria, proteinuria and glomerular disease → [[H1]] · Retention, obstructive uropathy and catheters → [[H2]] 0.3–0.5 · Renal colic and obstructed infected system → [[H4]] 0.4 and [[F0.3]] 0.10 · Hyperkalaemia, hyponatraemia and fluid states → [[I5]] 0.5–0.6 and [[F0.2]] · CKD-MBD, calcium and phosphate → [[I3]] 0.5 · Diabetic kidney disease and sick day rules → [[I2]] 0.5, 0.7 · SGLT2 inhibitors and RAS blockade → [[CV-X]] 0.3 · Hepatorenal syndrome → [[C3]] 0.6 · Rhabdomyolysis → [[A7]] 0.6 · Tumour lysis and myeloma → [[J4]] and [[J5]] · Vasculitis and scleroderma renal crisis → [[L2]] 0.4–0.5 · Diabetes insipidus and pituitary disease → [[I4]] 0.1 · Lithium monitoring → [[N4]] 0.5 · Polycystic kidney disease and intracranial aneurysm → [[D1]] 0.2 · Conservative kidney management and goals of care → [[GER2]] 0.5–0.6 · Dialysis away from Country → [[AU1]] 0.4 · Contrast and perioperative medication → [[AN1]] 0.3
-
-
 <!-- ===== SOURCE: H4_Scrotum__Groin_and_Loin.md ===== -->
 
 
@@ -1489,6 +1489,34 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ---
 
+## 0.5 Groin Lumps and Hernias
+
+> [!tip] The differential, and the landmark that matters
+> **Inguinal hernia · FEMORAL hernia · lymph nodes · SAPHENA VARIX · femoral artery aneurysm · psoas abscess · lipoma of the cord · hydrocele of the cord · undescended or ectopic testis · and soft tissue tumour.**
+> **THE PUBIC TUBERCLE IS THE LANDMARK:**
+> **· INGUINAL hernia — the neck lies ABOVE and MEDIAL to the pubic tubercle.**
+> **· FEMORAL hernia — the neck lies BELOW and LATERAL to it.**
+> **· SAPHENA VARIX — a saphenofemoral junction varicosity: it is soft and compressible, has a cough impulse (so it mimics a hernia), DISAPPEARS COMPLETELY on lying down, has a bluish tinge, and there are usually varicose veins in the leg.** **It is easily mistaken for a hernia and does not need repair.**
+
+> [!danger] Femoral hernias strangulate
+> **They are more common in WOMEN, have a NARROW, RIGID neck bounded by the inguinal ligament and lacunar ligament, and carry a HIGH RISK OF STRANGULATION.**
+> **They frequently present for the first time WITH strangulation and bowel obstruction**, in an older woman whose small groin lump was never noticed or was assumed to be a node.
+> **A femoral hernia warrants PROMPT surgical repair rather than watchful waiting.**
+> **Any patient with bowel obstruction needs BOTH groins examined** — a small, tender, irreducible femoral hernia is easily missed under a pannus, and it is a classic cause of "obstruction of unknown cause". Cross-refer [[C5]] 0.5.
+
+> [!warning] Strangulation, and what not to do
+> **Features: an IRREDUCIBLE, TENDER hernia, with overlying erythema, systemic upset, and signs of bowel obstruction.** **This is a surgical emergency.**
+> **DO NOT ATTEMPT FORCEFUL REDUCTION of a tender irreducible hernia** — you risk **reducing dead or compromised bowel back into the abdomen ("reduction en masse"), where it perforates unobserved.**
+> Gentle reduction of a recently incarcerated but non-tender hernia is reasonable; force is not.
+
+> [!tip] Groin lymphadenopathy
+> **· Infective — lower limb infection or trauma, genital infection, and SEXUALLY TRANSMITTED causes including syphilis, herpes, chancroid and LYMPHOGRANULOMA VENEREUM (which causes prominent, sometimes suppurative inguinal nodes).** Cross-refer [[O6]] 0.2.
+> **· Malignant — MELANOMA and squamous cell carcinoma of the lower limb, and ANAL, VULVAL, PENILE and CERVICAL cancers, all of which drain to the inguinal nodes.** **A hard, fixed or persistent inguinal node warrants examination of the entire lower limb, perineum, genitalia and anus — including between the toes and the soles, where melanomas hide.**
+> **· Lymphoma.**
+> Cross-refer [[B6]] 0.8.
+
+---
+
 ## 0.4 Renal Colic and Urolithiasis
 
 > [!danger] Rule out an abdominal aortic aneurysm before diagnosing first-episode renal colic over 50
@@ -1530,34 +1558,6 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 ---
 
-## 0.5 Groin Lumps and Hernias
-
-> [!tip] The differential, and the landmark that matters
-> **Inguinal hernia · FEMORAL hernia · lymph nodes · SAPHENA VARIX · femoral artery aneurysm · psoas abscess · lipoma of the cord · hydrocele of the cord · undescended or ectopic testis · and soft tissue tumour.**
-> **THE PUBIC TUBERCLE IS THE LANDMARK:**
-> **· INGUINAL hernia — the neck lies ABOVE and MEDIAL to the pubic tubercle.**
-> **· FEMORAL hernia — the neck lies BELOW and LATERAL to it.**
-> **· SAPHENA VARIX — a saphenofemoral junction varicosity: it is soft and compressible, has a cough impulse (so it mimics a hernia), DISAPPEARS COMPLETELY on lying down, has a bluish tinge, and there are usually varicose veins in the leg.** **It is easily mistaken for a hernia and does not need repair.**
-
-> [!danger] Femoral hernias strangulate
-> **They are more common in WOMEN, have a NARROW, RIGID neck bounded by the inguinal ligament and lacunar ligament, and carry a HIGH RISK OF STRANGULATION.**
-> **They frequently present for the first time WITH strangulation and bowel obstruction**, in an older woman whose small groin lump was never noticed or was assumed to be a node.
-> **A femoral hernia warrants PROMPT surgical repair rather than watchful waiting.**
-> **Any patient with bowel obstruction needs BOTH groins examined** — a small, tender, irreducible femoral hernia is easily missed under a pannus, and it is a classic cause of "obstruction of unknown cause". Cross-refer [[C5]] 0.5.
-
-> [!warning] Strangulation, and what not to do
-> **Features: an IRREDUCIBLE, TENDER hernia, with overlying erythema, systemic upset, and signs of bowel obstruction.** **This is a surgical emergency.**
-> **DO NOT ATTEMPT FORCEFUL REDUCTION of a tender irreducible hernia** — you risk **reducing dead or compromised bowel back into the abdomen ("reduction en masse"), where it perforates unobserved.**
-> Gentle reduction of a recently incarcerated but non-tender hernia is reasonable; force is not.
-
-> [!tip] Groin lymphadenopathy
-> **· Infective — lower limb infection or trauma, genital infection, and SEXUALLY TRANSMITTED causes including syphilis, herpes, chancroid and LYMPHOGRANULOMA VENEREUM (which causes prominent, sometimes suppurative inguinal nodes).** Cross-refer [[O6]] 0.2.
-> **· Malignant — MELANOMA and squamous cell carcinoma of the lower limb, and ANAL, VULVAL, PENILE and CERVICAL cancers, all of which drain to the inguinal nodes.** **A hard, fixed or persistent inguinal node warrants examination of the entire lower limb, perineum, genitalia and anus — including between the toes and the soles, where melanomas hide.**
-> **· Lymphoma.**
-> Cross-refer [[B6]] 0.8.
-
----
-
 ## 0.6 Urological Trauma
 
 > [!danger] Blood at the meatus means no catheter
@@ -1585,447 +1585,6 @@ Chronic obstruction then causes detrusor hypertrophy and instability — which i
 
 > [!note] Cross-references
 > Haematuria investigation → [[H1]] 0.1 · LUTS, retention and catheter complications → [[H2]] · Acute kidney injury and obstructive uropathy → [[H3]] · Urosepsis and obstructed infected systems → [[F0.3]] 0.10 · Abdominal aortic aneurysm → [[B5]] 0.4 and [[C1]] 0.7 · Bowel obstruction and hernia → [[C5]] 0.5 · Fournier gangrene and necrotising infection → [[K2]] 0.2 · IgA vasculitis → [[L2]] 0.5 · Pelvic and urethral trauma → [[L8]] 0.5 · Sickle cell disease and priapism → [[J2]] · STI testing and partner notification → [[O6]] 0.1–0.2 · Erectile dysfunction as a cardiovascular marker → [[O6]] 0.5 · Lichen sclerosus → [[O5]] 0.5 · Lymphadenopathy and melanoma → [[B6]] 0.8 · Gout and urate → [[L1]] 0.3 · Hypercalcaemia and hyperparathyroidism → [[I3]] 0.2, 0.4
-
-
-<!-- ===== SOURCE: NEW_Drugs_13_Genitourinary.md ===== -->
-
-
-# NEW — Drug Classes: Genitourinary (AMH section 13)
-
-> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
-
----
-
-## 0.1 Drugs for Benign Prostatic Hyperplasia and Prostatitis
-
-### 0.1.1 Uroselective Alpha-1 Blockers
-*(covers build-list classes: Alpha-1 Blockers (Uroselective); Selective alpha-blockers (genitourinary))*
-- **Mechanism:** block **α₁-adrenoceptors** in prostatic and bladder neck smooth muscle → **relaxation and reduced dynamic outflow obstruction**. **α₁A** predominates in the prostate, which is the basis of "uroselectivity".
-- **Key agents:** **tamsulosin** and **silodosin** (α₁A-selective); **alfuzosin** (functionally uroselective); **prazosin** and **terazosin** (non-selective — more hypotension, and still used where hypertension coexists).
-- **Role:** **first-line for moderate-to-severe lower urinary tract symptoms of BPH**, with **onset within days to weeks** — much faster than 5-alpha-reductase inhibitors. Also used to facilitate **trial of void after acute urinary retention** and as **medical expulsive therapy** for distal ureteric stones (see 0.4).
-- **Adverse effects:** **postural hypotension, dizziness and syncope** — particularly with the first dose and in the elderly, so **take at night and warn about standing up slowly**; **retrograde or absent ejaculation** (prominent with tamsulosin and especially silodosin — **this must be discussed before prescribing, not discovered**); nasal congestion; asthenia.
-
-> [!danger] **INTRAOPERATIVE FLOPPY IRIS SYNDROME (IFIS) — tell the patient and the ophthalmologist BEFORE cataract surgery.**
-> Sources report IFIS in **40–90% of patients on tamsulosin** (one retrospective study: **86% on tamsulosin versus 15% on alfuzosin**), and a large Canadian cohort of nearly 100,000 men found those on tamsulosin had **2.3 times the risk of severe postoperative complications** such as retinal detachment and lost lens fragments. The mechanism is relaxation of the **iris dilator muscle**.
-> **Critically: stopping the drug shortly before surgery does NOT reliably prevent it** — the effect persists long after cessation. **What helps is the surgeon knowing in advance**, so they can modify their technique. **Ask every man about alpha-blocker use before cataract surgery, and record the exposure permanently — including past use.**
-
-- **Interactions:** additive hypotension with **antihypertensives and PDE5 inhibitors** — a very common co-prescription in this population, so **stagger dosing and counsel**; CYP3A4 inhibitors raise tamsulosin and silodosin levels.
-
-### 0.1.2 5-Alpha-Reductase Inhibitors
-- **Mechanism:** inhibit **5-alpha-reductase**, blocking conversion of testosterone to **dihydrotestosterone** → the prostate **shrinks** over months.
-- **Key agents:** **finasteride** (type 2), **dutasteride** (types 1 and 2).
-- **Role:** for men with a **demonstrably enlarged prostate**; reduce prostate volume, **reduce the risk of acute urinary retention and the need for surgery**, and reduce haematuria of prostatic origin. **Takes 3–6 months to work** — a patient expecting rapid relief will stop it. Often combined with an alpha-blocker, which provides the early benefit while the 5-ARI provides the long-term one. Finasteride at lower dose is also used for **androgenetic alopecia**.
-- **Adverse effects:** **sexual dysfunction — reduced libido, erectile dysfunction and ejaculatory disorders**; **gynaecomastia and breast tenderness** (and **breast cancer in men has been reported** — investigate a breast lump); and **persistent sexual and mood symptoms after cessation ("post-finasteride syndrome") are reported and contested** — the honest position is that the association is debated, but it must be part of the consent conversation, along with **depression and suicidal ideation**, which carry regulatory warnings.
-
-> [!danger] **5-ARIs approximately HALVE the PSA. Failing to account for this can hide a prostate cancer.**
-> After about 6 months of treatment, **the measured PSA must be doubled** to estimate the true value when interpreting it against a reference range — and, more usefully, **any RISE in PSA on treatment is significant and warrants urological assessment**, even if the absolute number still looks normal. **Record a baseline PSA before starting**, and make sure the treating GP and urologist know the patient is on the drug.
-
-> [!danger] **Finasteride and dutasteride are TERATOGENIC — they cause abnormal development of the external genitalia in a male fetus.** **Women who are or may become pregnant must not handle crushed or broken tablets**, and men on treatment should use condoms where a partner is or may become pregnant. **They must not donate blood during treatment or for a defined period after stopping.**
-
-### 0.1.3 Other Drugs for BPH and Prostatitis
-- **PDE5 inhibitors — tadalafil** at a daily dose is licensed for BPH symptoms and is especially useful where **erectile dysfunction coexists** (see 0.5.1). **Do not combine with an alpha-blocker without care** — additive hypotension.
-- **Antimuscarinics and mirabegron** — added where **storage symptoms (urgency, frequency, nocturia)** predominate; safe with careful monitoring for retention, and no longer regarded as contraindicated in BPH provided the post-void residual is checked.
-- **Prostatitis:** **acute bacterial prostatitis** needs prolonged antibiotics with good prostatic penetration (**trimethoprim, co-trimoxazole or a fluoroquinolone**, guided by culture and local resistance — see `NEW_Drugs_05_Anti_infectives.md` 0.2.14 for fluoroquinolone cautions), and can cause sepsis and abscess. **Chronic prostatitis / chronic pelvic pain syndrome** is usually **not infective** and responds poorly to repeated antibiotics — it needs a multimodal approach including alpha-blockers, pain management, physiotherapy and psychological support.
-- **Non-drug:** fluid and caffeine advice, bladder retraining, and **review of drugs that worsen symptoms** — anticholinergics, sympathomimetics (including decongestants), opioids and diuretics.
-
-> [!danger] **ACUTE URINARY RETENTION with a palpable bladder is an emergency requiring catheterisation.** Look for the precipitant — constipation, urinary infection, a new anticholinergic or decongestant, alcohol, postoperative state. **Beware POST-OBSTRUCTIVE DIURESIS after relieving chronic retention** — monitor urine output, electrolytes and blood pressure, and replace fluid; these patients can become profoundly volume- and electrolyte-depleted. **And always exclude CAUDA EQUINA SYNDROME** in retention with back pain or neurological features.
-
-## 0.2 Drugs for Urinary Tract Disorders
-
-### 0.2.1 Anticholinergics (Genitourinary)
-- **Mechanism:** **antimuscarinic** blockade (mainly M₃) of detrusor contraction → increased bladder capacity and reduced urgency.
-- **Key agents:** **oxybutynin** (including transdermal), **solifenacin**, **darifenacin**, **tolterodine**, **trospium** (quaternary — poor CNS penetration), propantheline.
-- **Indications:** **overactive bladder** — urgency, frequency, urge incontinence and nocturia; neurogenic detrusor overactivity.
-- **Adverse effects — the anticholinergic burden, and it is the whole issue in this class:** **dry mouth** (the commonest reason for stopping), constipation, blurred vision, **urinary retention**, tachycardia, and **heat intolerance**.
-
-> [!danger] **ANTICHOLINERGIC BURDEN AND COGNITION IN OLDER PEOPLE — this is the most important prescribing consideration in the class.**
-> These drugs cause **confusion, delirium, falls and functional decline** in the elderly, and **cumulative anticholinergic exposure is associated with an increased risk of dementia.** **Oxybutynin (immediate-release, oral) is the worst offender** — it is highly lipophilic and crosses the blood-brain barrier readily, and it appears on every deprescribing and potentially-inappropriate-medication list for older adults.
-> **Practical:** prefer **trospium** (quaternary, minimal CNS penetration), **darifenacin** or transdermal oxybutynin if an antimuscarinic is needed in an older patient; better still, consider **mirabegron** (0.2.2). **Add up the total anticholinergic load** — the patient is often also on an antihistamine, a tricyclic, an antipsychotic and an antiemetic. **Try bladder training and conservative measures first: they work, and they have no adverse effects.**
-
-- **Contraindications:** **narrow-angle glaucoma**, urinary retention and significant outflow obstruction, gastrointestinal obstruction, myasthenia gravis, severe ulcerative colitis and toxic megacolon.
-
-### 0.2.2 Other Drugs for Urinary Incontinence
-- **Mirabegron** — a **β₃-adrenoceptor agonist** relaxing the detrusor during filling. **The main advantage is the absence of anticholinergic effects**, which makes it valuable in older patients and those already carrying anticholinergic burden. **Adverse effects: hypertension** (check the blood pressure before and during treatment — it is contraindicated in severe uncontrolled hypertension), tachycardia, urinary tract infection, headache. Inhibits **CYP2D6** (relevant for metoprolol, some antidepressants).
-- **Duloxetine** — an SNRI with a role in **stress urinary incontinence** (increasing urethral sphincter tone); nausea limits its use, and pelvic floor training remains first-line.
-- **Desmopressin** — for **nocturnal polyuria and nocturnal enuresis**. **HYPONATRAEMIA is the serious risk — restrict fluid, monitor sodium, and use with great caution in the elderly**, in whom it can cause severe symptomatic hyponatraemia (see `NEW_Drugs_06_Cardiovascular.md` 0.11.4).
-- **Topical vaginal oestrogen** — genuinely effective for **genitourinary syndrome of menopause**, and for **recurrent urinary tract infection in postmenopausal women**, with minimal systemic absorption. **Substantially under-used.**
-- **Botulinum toxin** (intradetrusor injection) for refractory overactive bladder — effective, but the patient **must be willing and able to self-catheterise** if retention occurs; and **sacral neuromodulation** and surgery for refractory cases.
-- **Non-drug first-line:** **pelvic floor muscle training** (supervised, for stress and mixed incontinence — the single most effective intervention), **bladder retraining**, weight loss, fluid and caffeine modification, treating constipation, and **continence nurse or physiotherapy referral**.
-
-> [!danger] **Before treating incontinence as "overactive bladder", exclude the things that mimic it:** **urinary tract infection**, **faecal impaction**, **diabetes and hypercalcaemia** (polyuria), **diuretics and other drugs**, **atrophic vaginitis**, **prostatic obstruction with overflow**, **delirium and impaired mobility** (functional incontinence), and — importantly — **haematuria or new irritative symptoms, which raise BLADDER CANCER and require urological investigation, particularly in smokers.** **Cauda equina and spinal cord pathology** must be excluded where there are neurological features.
-
-## 0.3 Drugs for Sexual Dysfunction
-
-### 0.3.1 Phosphodiesterase 5 Inhibitors
-- **Mechanism:** inhibit **PDE5**, so **cGMP persists** in corpus cavernosum smooth muscle following nitric-oxide release → vasodilation and erection. **They require sexual stimulation to work** — they do not cause spontaneous erections, and telling patients this prevents a "failed" trial.
-- **Key agents:** **sildenafil, tadalafil** (long half-life — up to 36 hours, and available as a daily low dose), **vardenafil, avanafil**.
-- **Indications:** **erectile dysfunction**; **BPH symptoms** (tadalafil daily); **pulmonary arterial hypertension** (see `NEW_Drugs_06_Cardiovascular.md` 0.11.3); Raynaud phenomenon.
-- **Adverse effects:** headache, flushing, dyspepsia, nasal congestion, back and limb pain (tadalafil), **visual disturbance including a blue tinge** (sildenafil, via PDE6); and rarely **non-arteritic anterior ischaemic optic neuropathy** and **sudden sensorineural hearing loss** — both requiring immediate cessation and assessment. **Priapism** is rare but is a urological emergency.
-
-> [!danger] **PDE5 INHIBITORS ARE ABSOLUTELY CONTRAINDICATED WITH NITRATES IN ANY FORM — the combination causes profound, potentially fatal hypotension.**
-> This includes **GTN spray and patches, isosorbide, nicorandil, and recreational nitrite "poppers"**. **Ask every man presenting with chest pain whether he has taken one and when** — the required interval is much longer for **tadalafil** because of its long half-life. Also **avoid with riociguat**, and use caution with **alpha-blockers** (additive hypotension — stagger the doses).
-
-> [!danger] **ERECTILE DYSFUNCTION IS A CARDIOVASCULAR WARNING SIGN, NOT JUST A SEXUAL PROBLEM.**
-> The penile arteries are small, and endothelial dysfunction shows there first — **ED frequently precedes a coronary event by years.** **Every man presenting with ED should have a cardiovascular risk assessment**: blood pressure, lipids, glucose/HbA1c, smoking and weight. Also check **testosterone** (and prolactin if low), review **drugs** (**antihypertensives — especially thiazides and beta-blockers — SSRIs, antipsychotics, 5-ARIs, opioids, alcohol**), and screen for **depression and relationship factors**. **Treating the erection without assessing the heart is a missed opportunity that recurs constantly.**
-
-### 0.3.2 Other Drugs for Sexual Dysfunction
-- **Intracavernosal and intraurethral alprostadil** (a prostaglandin E1) — for men who cannot use or do not respond to PDE5 inhibitors. **Priapism risk means the patient must be taught what to do and when to present** — an erection lasting more than about 4 hours is an emergency requiring aspiration and phenylephrine, and delay causes permanent erectile failure.
-- **Vacuum erection devices and penile prostheses** — non-drug options with good outcomes.
-- **Testosterone replacement** — only for **confirmed hypogonadism on repeated morning testosterone with appropriate gonadotrophins**, not as an empirical treatment for tiredness or low libido. **Contraindicated in prostate and breast cancer**; causes **polycythaemia (monitor haematocrit), sleep apnoea, acne, and suppression of spermatogenesis and fertility.** Australian PBS criteria are specific.
-- **Dapoxetine** — a short-acting SSRI for premature ejaculation; other SSRIs are used off-label for the same effect.
-- **Female sexual dysfunction** — **topical vaginal oestrogen and non-hormonal lubricants and moisturisers** for genitourinary syndrome of menopause and dyspareunia; **ospemifene**; and, importantly, **assessment of pain, relationship, psychological and drug causes** — SSRIs being a very common contributor. Referral to a psychosexual service is often more useful than a prescription.
-
-## 0.4 Drugs for Kidney Stones
-
-- **Acute management:** **analgesia first — NSAIDs (where renal function and context allow) are at least as effective as opioids** for renal colic and are first-line; parenteral opioids where NSAIDs are contraindicated; antiemetics; and fluid as needed (**forced diuresis does not help**).
-- **Medical expulsive therapy:** **alpha-blockers (tamsulosin)** to aid passage of **distal ureteric stones**, particularly those larger than about 5 mm — the benefit is modest and greatest for larger distal stones. This is an off-label but widely used indication.
-- **Prevention — driven by stone composition and metabolic work-up:**
-  - **All stone types: high fluid intake** to produce a large daily urine volume — the single most effective preventive measure, and the one patients are least often given a specific target for.
-  - **Calcium oxalate:** **thiazide diuretics** (reduce urinary calcium), **potassium citrate** (raises urinary citrate, an inhibitor), dietary sodium and oxalate reduction. **Do NOT restrict dietary calcium** — it paradoxically increases oxalate absorption and stone risk; **normal dietary calcium with meals is protective.**
-  - **Uric acid stones:** **urinary alkalinisation with potassium citrate or sodium bicarbonate** (uric acid stones can dissolve with alkalinisation — one of the few stones amenable to medical dissolution) and **allopurinol** where urate is high.
-  - **Cystine stones:** high fluid intake, alkalinisation, and **tiopronin or penicillamine**.
-  - **Struvite (infection) stones:** treat the infection and remove the stone — they are a nidus for chronic infection; urease inhibitors are rarely used.
-- **Review the drug list:** **topiramate, acetazolamide, calcium and vitamin D supplements, protease indinavir** and others promote stones.
-
-> [!danger] **AN OBSTRUCTED, INFECTED KIDNEY IS A UROLOGICAL EMERGENCY.** Fever, rigors, systemic upset or sepsis with an obstructing stone requires **antibiotics and URGENT DECOMPRESSION (nephrostomy or ureteric stent)** — antibiotics alone will not sterilise an obstructed system and the patient will die. Also urgent: **a solitary or transplanted kidney**, **bilateral obstruction**, and **acute kidney injury**. See [[07_Renal_Medicine_and_Urology]].
-
-## 0.5 Urinary Alkalinisers and Acidifiers
-
-- **Alkalinisers:** **potassium citrate**, **sodium bicarbonate**, and over-the-counter **sodium citrate/citric acid** sachets.
-- **Indications:** **uric acid and cystine stone prevention and dissolution** (0.4); **symptomatic relief in cystitis** (widely sold and used, with weak evidence — they relieve dysuria somewhat but do not treat infection); **urinary alkalinisation in poisoning**, notably **salicylate** and in **rhabdomyolysis** to reduce myoglobin cast nephropathy; and in some tumour lysis protocols.
-- **Cautions:** **sodium load** — avoid the sodium-containing preparations in **hypertension, heart failure and renal impairment**; **potassium citrate causes hyperkalaemia**, especially with ACE inhibitors, ARBs, MRAs or renal impairment; alkalinisation promotes **calcium phosphate stone formation**, so it is not appropriate for all stone types; and gastrointestinal upset is common.
-- **Acidifiers:** **ammonium chloride** and **ascorbic acid** are of largely historical interest; **methenamine hippurate** works by releasing formaldehyde in acidic urine and is used for **UTI prophylaxis** — a useful non-antibiotic option that avoids driving resistance, though it needs acidic urine and is ineffective for treating established infection.
-
-> [!warning] **Over-the-counter urinary alkalinisers do not treat a urinary tract infection.** A woman self-treating dysuria with sachets while a pyelonephritis develops is a recognised presentation. **Systemic features — fever, rigors, loin pain, vomiting — mean pyelonephritis and require antibiotics and assessment.** And **dysuria with a negative culture** should prompt consideration of STIs, atrophic vaginitis, interstitial cystitis and, in the older patient, bladder pathology.
-
-## 0.6 Bladder Instillations
-
-- **Key agents and indications:**
-  - **BCG (intravesical *Bacillus* Calmette-Guérin)** — **immunotherapy for non-muscle-invasive bladder cancer**, particularly carcinoma in situ and high-grade disease; reduces recurrence and progression.
-  - **Intravesical chemotherapy — mitomycin C, epirubicin, gemcitabine** — a single post-resection instillation reduces recurrence; also used in maintenance regimens.
-  - **Dimethyl sulfoxide (DMSO), hyaluronic acid, chondroitin sulfate, heparin** — for **interstitial cystitis / bladder pain syndrome**, restoring the glycosaminoglycan layer.
-  - **Local anaesthetic and alkalinising instillations** for bladder pain.
-  - **Bladder washouts** (saline, citric acid preparations) for catheter encrustation and blockage.
-- **Adverse effects:**
-  - **BCG:** chemical cystitis with frequency, urgency and dysuria (very common and expected), haematuria, and **systemic BCG infection ("BCGosis")** — fever, malaise, hepatitis, pneumonitis — which is **rare but serious and requires antituberculous therapy**. **A high fever or persistent systemic symptoms after BCG is not "expected irritation"** and must be assessed. **BCG is contraindicated with traumatic catheterisation, active haematuria, active UTI and in immunosuppressed patients**, and it is a **live organism requiring cytotoxic-style handling and disposal precautions.**
-  - **Mitomycin:** chemical cystitis and, notably, **contact dermatitis of the hands and genitals** — patients are advised on voiding technique, washing and hygiene.
-- **Practical:** instillations are given by trained staff, retained for a specified period, and followed by voiding precautions. **Patients on intravesical therapy need a clear point of contact for fever or worsening symptoms.**
-
-## 0.7 Drugs for Adrenal Insufficiency
-
-> [!warning] FLAG 2026-09-01 — this subsection declares its own duplication
-> Its scope note already says: *"This subsection duplicates content built in AMH section 10 … written in
-> full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2
-> (mineralocorticoids)**."* **Both retained; pair marked, not merged.** The other copy is in
-> `Endocrine and metabolics_merged.md`.
-
-> [!note] **This subsection duplicates content built in AMH section 10.** Adrenal replacement is written in full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2 (mineralocorticoids)**. It is summarised here rather than rewritten, because splitting a single clinical topic across two files would risk the two drifting apart.
-
-- **Replacement therapy:** **hydrocortisone** (usually in divided doses mimicking the diurnal rhythm; modified-release preparations exist) or prednisolone as the glucocorticoid; **fludrocortisone** as the mineralocorticoid — **needed in PRIMARY adrenal insufficiency (Addison disease) but NOT in secondary**, where the renin-angiotensin-aldosterone axis is intact. **DHEA** is occasionally added in women.
-- **Monitoring:** clinical assessment of weight, energy, postural blood pressure and pigmentation; **sodium, potassium and plasma renin activity** guide fludrocortisone adequacy. **There is no reliable biochemical marker of adequate glucocorticoid replacement — over-replacement is common and causes weight gain, osteoporosis and metabolic harm.**
-
-> [!danger] **THE THREE THINGS THAT MUST HAPPEN FOR EVERY PATIENT WITH ADRENAL INSUFFICIENCY**
-> 1. **SICK DAY RULES, taught and given in writing** — increase the glucocorticoid dose during illness (sources describe doubling for fever above 38 °C and tripling above 39 °C, while noting the evidence for the optimal dose is weak).
-> 2. **AN EMERGENCY PARENTERAL HYDROCORTISONE KIT**, with the patient and their family trained to use it — because **if they are vomiting, oral medication is useless.**
-> 3. **A STEROID ALERT CARD OR BRACELET**, and the diagnosis flagged prominently in the record.
->
-> **ADRENAL CRISIS: hypotension unresponsive to fluids, vomiting, abdominal pain, hyponatraemia, hyperkalaemia, hypoglycaemia, fever, confusion. GIVE HYDROCORTISONE IMMEDIATELY ON SUSPICION — take the cortisol sample, then treat. Do not wait for the result.** Deaths from adrenal crisis are usually deaths from delay.
-> **Never omit or delay steroid replacement in an admitted patient**, and **never start thyroxine before treating adrenal insufficiency** — it precipitates crisis (see `NEW_Drugs_10_Endocrine.md` 0.4.1).
-
----
-
-## Build status
-
-| # | Build-list row | Type | Built | Notes |
-|---|---|---|---|---|
-| 0.1 | Drugs for benign prostatic hyperplasia and prostatitis | SUB | yes | |
-| 0.1.1 | Alpha-1 Blockers (Uroselective) | CLS | yes | Built jointly with `Selective alpha-blockers (genitourinary)` — same class, two names; both rows mapped. Carries the intraoperative floppy iris syndrome warning with its incidence figures. |
-| 0.1.1 | Selective alpha-blockers (genitourinary) | CLS | yes | As above. |
-| 0.1.2 | 5-Alpha-Reductase Inhibitors | CLS | yes | PSA halving and the teratogenicity/handling warning. |
-| 0.2 | Drugs for urinary tract disorders | SUB | yes | |
-| 0.2.1 | Anticholinergics (genitourinary) | CLS | yes | Anticholinergic burden, cognition and the case against oral immediate-release oxybutynin in older people. |
-| 0.2.2 | Other drugs for urinary incontinence | CLS | yes | |
-| 0.3 | Drugs for sexual dysfunction | SUB | yes | |
-| 0.3.1 | Phosphodiesterase 5 inhibitors | CLS | yes | Nitrate contraindication and ED as a cardiovascular warning sign. |
-| 0.3.2 | Other drugs for sexual dysfunction | CLS | yes | |
-| 0.4 | Drugs for kidney stones | SUB | yes | Includes the do-NOT-restrict-dietary-calcium point and the obstructed infected kidney emergency. |
-| 0.5 | Urinary alkalinisers and acidifiers | SUB | yes | |
-| 0.6 | Bladder instillations | SUB | yes | BCG including systemic BCG infection. |
-| 0.7 | Drugs for adrenal insufficiency | SUB | yes | **Deliberately summarised, not rewritten** — the full content is in `NEW_Drugs_10_Endocrine.md` 0.5.1 and 0.5.2, and splitting one clinical topic across two files would risk them drifting apart. The three standing actions and adrenal crisis are stated here in full because they are safety-critical. |
-
-**Rows in file: 14 (7 SUB + 7 CLS). AMH section 13 build-list rows: 14. Section complete.**
-
-> [!note] **One pair of build-list rows is a naming duplicate** (`Alpha-1 Blockers (Uroselective)` / `Selective alpha-blockers (genitourinary)`), and **one subsection (`Drugs for adrenal insufficiency`) genuinely overlaps AMH section 10** — the build list places adrenal replacement in both sections. It is cross-referenced rather than duplicated, and that decision is recorded above.
-
-
-<!-- ===== SOURCE: NEW_Investigations_Renal_and_Urology.md ===== -->
-
-
-# NEW — Investigations: Renal and Urology
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay- or laboratory-dependent values are **omitted with the omission stated in place**.
-
-> [!warning] **Mis-filed items in this category:** `Adrenal / Cortisol` and `Metanephrines` are endocrine tests, and `Fecal Incontinence` is a **symptom, not an investigation**. Each is built as listed with the mis-filing noted.
-
----
-
-## 0.1 Urinalysis Panel (Dipstick, pH, Specific Gravity, Microscopy, Culture)
-
-**D:** Bedside **reagent strip** testing (pH, specific gravity, blood, protein, glucose, ketones, nitrites, leucocyte esterase, bilirubin, urobilinogen) plus laboratory **microscopy** (cells, casts, crystals, organisms) and **culture with sensitivities**.
-
-**Ind:** Suspected urinary tract infection; haematuria; proteinuria; acute kidney injury and CKD assessment; suspected glomerulonephritis; diabetes and its complications; unexplained systemic illness; antenatal screening; pre-operative assessment.
-
-**Role:** **The cheapest, fastest and highest-yield test in nephrology and urology**, and the one most often under-used. In suspected glomerular disease it is effectively the bedside biopsy — **an active sediment changes the whole pathway**.
-
-> [!danger] **Do not ignore**
-> **Red cell casts or dysmorphic red cells** — glomerulonephritis. With acute kidney injury this is a **nephrological emergency**; see the vasculitis serology entry in `NEW_Investigations_Infectious_Diseases.md` 0.21 and [[12_04_Rheum_-_Vasculitis]].
-> **Visible (macroscopic) haematuria in an adult** — urological malignancy until excluded, regardless of anticoagulation or a concurrent UTI.
-> **Glycosuria with ketonuria** — check a capillary glucose and ketones; consider DKA, including **euglycaemic DKA on an SGLT2 inhibitor**, where the glucose may be near-normal.
-
-> [!warning] **Asymptomatic bacteriuria is not a UTI.** It is common in older people, in the catheterised, and in residential care, and **treating it does not help and drives resistance and *C. difficile***. The exceptions where it *is* treated are **pregnancy** and **before urological procedures that breach the mucosa**. A positive dipstick in a delirious older person does not explain the delirium — see the Acute Confusion entry in `NEW_Neurology.md`.
-
-**Normal/interpretation:** Dipstick positives for protein, nitrite, leucocytes or blood should prompt **microscopy**. Nitrites are reasonably specific for Enterobacterales but insensitive (organisms that do not reduce nitrate, or short bladder dwell time give false negatives). Leucocyte esterase is more sensitive, less specific. **Sterile pyuria** — think prior antibiotics, urethritis/STI, **renal tract tuberculosis**, stones, tumour, interstitial nephritis. **Heavy proteinuria on dipstick (≥3+)** is described in sources as high-grade and warrants quantification (see 0.2).
-
-**Abnormal → next steps:** Culture before antibiotics where practical; quantify proteinuria by ACR/PCR; ultrasound for obstruction or stones; nephrology referral for an active sediment.
-
-**Alt:** ACR/PCR (quantification); renal tract ultrasound; CT KUB for stones; cystoscopy for haematuria; renal biopsy.
-
-## 0.2 Urine ACR (Albumin-to-Creatinine Ratio)
-
-**D:** Ratio of urinary albumin to creatinine, correcting for urine concentration; measured on a **first-morning spot sample** where possible.
-
-**Ind:** **Screening and staging of CKD**, especially in diabetes and hypertension; quantifying proteinuria; cardiovascular risk assessment.
-
-**Role:** **The standard quantitative measure of albuminuria**, and it has replaced 24-hour collections for most purposes. Albuminuria is an **independent predictor of both renal and cardiovascular outcome**, not just a marker of kidney damage — which is why it belongs in cardiovascular risk assessment as well as renal.
-
-> [!info] **CKD is staged on two axes together — eGFR *and* albuminuria (KDIGO)**
-> **Albuminuria categories:** **A1** normal to mildly increased · **A2** moderately increased · **A3** severely increased. **Persistence for ≥3 months** is required for a CKD diagnosis.
-> **eGFR categories:** **G1** ≥90 · **G2** 60–<90 · **G3a** 45–<60 · **G3b** 30–<45 · **G4** 15–<30 · **G5** <15 mL/min/1.73 m².
-
-> [!danger] **A units trap, and it is a real one in Australia.** The KDIGO albuminuria category boundaries are commonly published in **mg/g**, while **Australian laboratories report ACR in mg/mmol** — the numeric boundaries are therefore completely different. **Converting the figures myself would be presenting my own arithmetic as a sourced threshold, so the numeric boundaries are deliberately omitted here.** Use the **A1/A2/A3 category printed on the Australian report**, which the laboratory has already applied to its own units. This is the same class of error as quoting a US prolactin or PSA figure in the wrong units.
-
-**Normal/abnormal:** Confirm an abnormal result on a repeat sample. **Transient albuminuria** occurs with fever, exercise, heart failure, hyperglycaemia and UTI — repeat when the patient is well before labelling CKD.
-
-**Alt:** Urine protein:creatinine ratio (**PCR** — better where non-albumin proteins matter, as in myeloma); 24-hour urine protein (largely superseded, error-prone); dipstick (screening only — sources note it performs less well than ACR for CKD screening).
-
-## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)
-
-**D:** Serum urea, creatinine and calculated **eGFR**, with sodium, potassium, chloride and bicarbonate.
-
-**Ind:** Ubiquitous — acute illness, drug dosing and monitoring, CKD staging and surveillance, before contrast or nephrotoxic drugs, fluid and electrolyte problems.
-
-**Role:** First-line and continuous. **eGFR is an estimate with assumptions**, and knowing where it fails is what distinguishes safe prescribing.
-
-> [!warning] **Where eGFR misleads, and it matters most in exactly the patients you worry about**
-> - **Creatinine depends on muscle mass** — so eGFR **overestimates** function in the **elderly, cachectic, amputees, and those with chronic liver disease or malnutrition**, and **underestimates** it in the very muscular. A "normal" creatinine in a frail 85-year-old can conceal substantial renal impairment.
-> - **eGFR equations assume steady state** and are **invalid in acute kidney injury**, where creatinine lags behind the true GFR by hours to days — so a rising creatinine understates how bad things already are.
-> - Drugs alter creatinine without altering GFR — **trimethoprim** and others reduce tubular secretion; this is a benign rise, not injury.
-> - **Cystatin C-based eGFR** is recommended by KDIGO alongside creatinine where available, and helps precisely in these discordant situations.
-
-> [!danger] **Do not ignore**
-> **Hyperkalaemia** — an ECG and treatment decision, not a number to file. **A rising creatinine with anuria** — think obstruction, and scan the bladder and kidneys; post-renal AKI is the reversible one. **Any AKI: review the drug chart immediately** and withhold nephrotoxics (NSAIDs, ACE inhibitors/ARBs, diuretics, metformin, SGLT2 inhibitors) per local sick-day guidance.
-
-**Normal/abnormal:** Reference intervals are laboratory-specific and **not stated here**. A **urea:creatinine ratio raised out of proportion** supports pre-renal states or upper GI bleeding.
-
-**Alt:** Cystatin C; measured creatinine clearance; renal tract ultrasound; urinalysis; **CKD staging requires ACR alongside** (see 0.2).
-
-## 0.4 Dark Urine
-
-> [!warning] FLAG 2026-09-01 — a sign filed as an investigation, and the file says so
-> Its own callout reads *"A sign, not a test. Built as listed."* **Two other files produced the same
-> error class**: `GI NEW_Investigations_Gastroenterology §0.31 Pale Stools` and
-> `Heme NEW_Investigations_Haematology_Part2 §0.25 Petechiae`.
-> **The symmetry is worth noting**: `Renal and Urology_merged.md:1848` cites the GI pale-stools entry,
-> so the two halves of one sign-pair sit in two different system files, both misfiled the same way.
-
-> [!warning] **A sign, not a test.** Built as listed.
-
-**D:** Urine darker than expected — the diagnostic task is to decide **which pigment**.
-
-**Interpretation — the differential is short and separable by dipstick:**
-- **Concentrated urine** (dehydration) — the commonest cause; dipstick negative for blood, high specific gravity.
-- **Bilirubinuria** — **conjugated** hyperbilirubinaemia; dark urine **with pale stools** signals cholestasis (see the Pale Stools entry in `NEW_Investigations_Gastroenterology.md` 0.31). Unconjugated bilirubin is not water-soluble and does **not** darken urine — so **dark urine in jaundice means the bilirubin is conjugated**, which is a genuinely useful bedside inference.
-- **Haematuria** — dipstick positive for blood, **red cells present** on microscopy.
-- **Haemoglobinuria** (intravascular haemolysis) or **myoglobinuria** (rhabdomyolysis) — **dipstick positive for blood but microscopy shows no red cells**. This dissociation is the classic and high-yield finding.
-- **Drugs and foods** — rifampicin (orange), nitrofurantoin, metronidazole, methyldopa, levodopa, beetroot, senna; **porphyria** (urine darkens on standing in light).
-
-> [!danger] **Do not ignore**
-> **Dipstick blood-positive, microscopy red-cell-negative urine after crush injury, prolonged immobility, seizure, extreme exertion or a statin** — **rhabdomyolysis**. Check **creatine kinase, potassium, calcium and renal function urgently**; hyperkalaemia and AKI are the killers.
-
-**Next steps:** Dipstick, microscopy, split bilirubin, CK, LDH and haptoglobin, and a drug history.
-
-## 0.5 Elevated PSA (Prostate-Specific Antigen)
-
-**D:** Serum glycoprotein produced by prostatic epithelium — **prostate-specific, not prostate-cancer-specific**, which is the entire interpretive problem.
-
-**Ind:** Symptomatic assessment of suspected prostate cancer; monitoring known disease; and — separately and more contentiously — **screening of asymptomatic men**.
-
-**Role:** Screening role in Australia is **conditional on shared decision-making, not routine**. Sources describe RACGP and Cancer Council Australia guidance as **offering PSA screening to asymptomatic men aged 50–69** (or **from 45 with a first-degree family history**) **only after a conversation that explicitly covers benefits and harms**. *(Guidance in this area is actively being revised — sources reference a draft update — so confirm current recommendations.)*
-
-> [!warning] **Causes of a raised PSA other than cancer** — benign prostatic hyperplasia, **prostatitis or UTI** (which can raise it dramatically and take months to settle), urinary retention, recent **ejaculation, cycling, digital rectal examination, catheterisation, prostate biopsy or surgery**, and increasing age. **Repeat an unexpected result after an interval, having excluded infection, before acting on it.**
-> **Free:total PSA ratio** adds discrimination in the intermediate band — sources describe its use where total PSA is between **4 and 10 ng/mL**, with a **lower free:total fraction indicating higher cancer risk**. Note the caveat sources raise: **chronic prostatitis also lowers the free fraction**, so it does not cleanly separate inflammation from cancer.
-> **DRE has high specificity but low sensitivity** — a normal examination does not exclude cancer, and DRE alone is not a screening test.
-
-> [!danger] **Do not ignore**
-> **A hard, irregular, nodular prostate on DRE**, or PSA with **bone pain, anaemia or raised ALP** — consider metastatic disease and refer urgently, regardless of the PSA value.
-
-**Normal/abnormal:** **No single "normal" cut-off is stated here** — thresholds are age-referenced, assay-dependent, and used differently between guidelines. **PSA velocity and density** are used in interpretation. Rising or persistently elevated PSA → urology referral; contemporary pathways use **multiparametric MRI before biopsy** to reduce unnecessary biopsies.
-
-**Alt:** mpMRI prostate; transperineal or transrectal biopsy; bone scan and CT for staging.
-
-## 0.6 Urine Cytology
-
-**D:** Microscopic examination of exfoliated urothelial cells in voided or washing specimens.
-
-**Ind:** Haematuria work-up; surveillance of known urothelial carcinoma; suspected **carcinoma in situ**; occupational exposure surveillance (aromatic amines, aniline dyes, rubber).
-
-**Role:** **Adjunct, never a substitute for cystoscopy.** Its performance is strongly grade-dependent: **good for high-grade urothelial carcinoma and carcinoma in situ, poor for low-grade papillary tumours**, which exfoliate bland cells. **A numeric sensitivity is deliberately not stated — it did not reach the sourcing standard in this build.**
-
-**Safety/cost:** Non-invasive and inexpensive. **A first-morning specimen is not used** — overnight cells degenerate; a fresh voided sample later in the morning is preferred.
-
-**Normal/abnormal:** Negative cytology **does not exclude bladder cancer**. Positive cytology with a normal cystoscopy should prompt a search for an **upper tract** or prostatic urethral source. False positives occur with stones, infection, instrumentation, and after intravesical BCG or chemotherapy.
-
-**Alt:** **Cystoscopy — the definitive test for bladder mucosa**; CT urography for the upper tracts; urinary tumour-marker assays (variable adoption).
-
-## 0.7 Uroflowmetry
-
-**D:** Non-invasive measurement of urinary flow rate over time, producing a flow curve, with a **post-void residual** measured by bladder scan.
-
-**Ind:** Lower urinary tract symptoms, particularly voiding symptoms in men; suspected bladder outlet obstruction; before and after prostate surgery.
-
-**Role:** Sources describe it as **the initial, non-invasive urodynamic investigation for LUTS**. It is a screening test — **it demonstrates a poor flow but cannot say why**, because obstruction and a weak detrusor produce similar curves.
-
-**Safety/cost:** Non-invasive, cheap, no complications. **Requires an adequately full bladder** — a low voided volume makes the study uninterpretable, which is the commonest technical failure.
-
-**Normal/abnormal:** A normal flow rate and curve with a low residual makes significant obstruction unlikely. **Numeric flow-rate thresholds are not stated** — they are volume- and age-dependent. An intermittent or plateau curve suggests obstruction or stricture; a **significant post-void residual** raises retention and the risk of upper tract damage.
-
-**Alt:** **Formal urodynamics** (see 0.8) where the cause of a poor flow must be established; bladder scan; symptom scores; flexible cystoscopy for stricture.
-
-## 0.8 Urodynamic Studies (UDS)
-
-**D:** Invasive multichannel study measuring bladder and abdominal pressures during filling and voiding, with provocative manoeuvres (cough, Valsalva); **video-urodynamics** adds fluoroscopy.
-
-**Ind:** Sources list: **incongruity between symptoms and clinical findings**; **neurogenic bladder** and neurological disease; persistent LUTS despite appropriate therapy; **before surgery for incontinence**, and in recurrent incontinence after previous surgery; **mixed stress and urge incontinence**; young men with LUTS; selected children with persistent daytime wetting or spinal abnormality; and where a planned therapy carries high complication risk or the diagnosis is otherwise unclear.
-
-**Role:** **The functional gold standard** — it distinguishes detrusor overactivity, stress incontinence, poor compliance, detrusor underactivity and bladder outlet obstruction, which no non-invasive test reliably separates.
-
-> [!warning] **Not a routine test for uncomplicated incontinence.** Straightforward stress or urge incontinence is managed on history, examination and a bladder diary. UDS is reserved for the situations above; performing it routinely subjects patients to an invasive, uncomfortable study that does not change management.
-
-**Safety/cost:** Catheterisation is uncomfortable and carries **UTI risk** (antibiotic prophylaxis is used in some settings), plus haematuria and, rarely, retention. Expensive and specialist.
-
-**Normal/abnormal:** Reported as filling and voiding phase findings. **Numeric pressure thresholds are not stated here.**
-
-**Alt:** Bladder diary and pad testing (cheap, informative, always do first); uroflowmetry with residual; imaging; cystoscopy.
-
-## 0.9 Adrenal / Cortisol Testing (Morning Cortisol, 24-h Urine Free Cortisol, Salivary Cortisol, Short Synacthen, Dexamethasone Suppression)
-
-> [!warning] **Mis-filed** — an endocrine investigation listed under Renal & Urology. Built as listed.
-
-**D:** A family of tests answering two opposite questions: **is there too little cortisol (adrenal insufficiency)** or **too much (Cushing syndrome)**.
-
-**Ind:** **Insufficiency** — unexplained hypotension, hyponatraemia with hyperkalaemia, weight loss, fatigue, hyperpigmentation, hypoglycaemia, or shock unresponsive to fluids; and in anyone on long-term corticosteroids who becomes unwell. **Excess** — central obesity, proximal myopathy, thin skin and easy bruising, striae, new or difficult-to-control diabetes and hypertension, osteoporosis at a young age.
-
-**Role:** **Morning cortisol** screens for insufficiency; the **short Synacthen (ACTH stimulation) test** confirms it. For excess, screening uses **overnight or low-dose dexamethasone suppression, 24-hour urinary free cortisol, or late-night salivary cortisol** — usually two abnormal tests before proceeding.
-
-> [!danger] **Do not ignore — and do not wait for the result**
-> **Suspected adrenal crisis is treated immediately with hydrocortisone; the cortisol sample is taken before the dose, but treatment is not delayed for it.** Sudden withdrawal of long-term corticosteroids, or failure to increase the dose during intercurrent illness or surgery, is a preventable cause of crisis. **Corticosteroid doses are deliberately not stated here** (Australian guidance egress-blocked) — use the local adrenal crisis protocol, and know where it is before you need it.
-
-> [!warning] **Interpretation pitfalls** — cortisol has a **diurnal rhythm**, so timing of the sample is part of the test; **oestrogen (including the combined oral contraceptive) raises cortisol-binding globulin** and therefore total cortisol, causing false reassurance or false positives; shift work disrupts the rhythm; and **exogenous corticosteroids of any route — including inhaled, topical and intra-articular — suppress the axis** and must be asked about explicitly.
-
-**Normal/abnormal:** **All numeric thresholds are deliberately omitted** — they are assay-specific and differ between the newer and older cortisol immunoassays, and none met the three-source bar here. Interpret against the reporting laboratory's stated cut-offs and involve endocrinology.
-
-**Alt:** ACTH level (separates primary from secondary); renin and aldosterone; adrenal imaging **after** biochemical confirmation, never before; pituitary MRI.
-
-## 0.10 Metanephrines (Plasma Free or 24-hour Urinary Fractionated)
-
-> [!warning] **Mis-filed** — an endocrine investigation listed under Renal & Urology.
-
-**D:** Measurement of the O-methylated catecholamine metabolites **metanephrine and normetanephrine**, which are produced continuously within the tumour and so are less affected by episodic secretion than catecholamines themselves.
-
-**Ind:** Suspected **phaeochromocytoma or paraganglioma** — paroxysmal hypertension, the triad of **episodic headache, sweating and palpitations**, hypertension in a young patient, resistant hypertension, an **adrenal incidentaloma**, or a relevant family syndrome (**MEN2, von Hippel–Lindau, neurofibromatosis type 1, SDH mutations**).
-
-**Role:** **The screening test of choice**, having replaced urinary catecholamines and VMA.
-
-> [!danger] **Collection conditions and interfering drugs are part of the test, and ignoring them is the commonest cause of a misleading result.** Sources note that **tricyclic antidepressants, SNRIs, labetalol, paracetamol, levodopa, sympathomimetics and caffeine** interfere. Plasma sampling conditions (supine rest before venepuncture, in many protocols) also matter. **Check the reporting laboratory's specific requirements before collecting** — a false positive here leads to unnecessary imaging and a false negative can be fatal at induction of anaesthesia.
-
-> [!warning] **Sequence matters: confirm biochemically, then image.** Adrenal nodules are common incidental findings; imaging first generates confusion. And in a confirmed phaeochromocytoma, **alpha blockade must precede beta blockade** — see the non-selective alpha-blocker entry in `NEW_Drug_Classes_Cardiovascular_Antihypertensives.md`.
-
-**Normal/abnormal:** **Numeric thresholds are omitted** (assay-dependent). Mildly raised results are common and often drug-related; markedly raised results are more specific. Repeat with interfering drugs withdrawn where safe.
-
-**Alt:** Clonidine suppression test in equivocal cases; CT/MRI adrenals; functional imaging (MIBG, DOTATATE PET) for localisation and metastatic disease; genetic testing.
-
-## 0.11 24-hour Urine Copper
-
-**D:** Quantification of copper excreted in a 24-hour urine collection, used with **serum caeruloplasmin**.
-
-**Ind:** Suspected **Wilson disease** — unexplained liver disease in a young person, unexplained neurological or psychiatric disease with liver abnormality, haemolytic anaemia with liver disease, or a family history.
-
-**Role:** Part of a **composite diagnosis** — no single test is diagnostic.
-
-> [!info] **The figures sources give** — serum caeruloplasmin **below about 0.2 g/L**, with 24-hour urinary copper excretion **above roughly 40 µg/day in children and 100 µg/day in adults**, supporting the diagnosis. **Treat these as orientation, not as a rule**: sources describe the biochemical thresholds as imperfect, and a systematic review of biochemical testing exists precisely because performance varies. Where results are equivocal — raised transaminases, no Kayser–Fleischer rings, indeterminate caeruloplasmin and copper — **liver biopsy for hepatic copper concentration** is the arbiter, with penicillamine-provocation testing used in some centres.
-
-**Safety/cost:** Requires a complete, correctly collected 24-hour sample in a **copper-free container** — incomplete collection is the commonest cause of a spurious result. Cheap otherwise.
-
-> [!danger] **Do not ignore**
-> **Wilson disease presenting as acute liver failure with a Coombs-negative haemolytic anaemia** — a recognised, rapidly fatal presentation, typically in a young person, requiring urgent transplant assessment. **A disproportionately low ALP relative to bilirubin** is a described clue.
-
-**Normal/abnormal:** As above. **Caeruloplasmin is an acute-phase reactant** and can be falsely normal in inflammation, pregnancy or oestrogen use — a normal level does not exclude Wilson disease.
-
-**Alt:** Slit-lamp examination for **Kayser–Fleischer rings**; serum caeruloplasmin and free copper; liver biopsy with quantitative copper; *ATP7B* genetic testing; MRI brain.
-
-## 0.12 Urine Protein Electrophoresis (UPEP / Bence-Jones Protein)
-
-**D:** Electrophoresis of urine with **immunofixation** to detect monoclonal **free light chains** — historically "Bence-Jones protein".
-
-**Ind:** Suspected **multiple myeloma or related plasma cell disorder** — unexplained anaemia, bone pain or lytic lesions, hypercalcaemia, renal impairment, raised total protein or globulin gap, recurrent infection; and monitoring of known disease.
-
-**Role:** Part of the myeloma screen alongside **serum protein electrophoresis (SPEP), immunofixation, and serum free light chains**.
-
-> [!warning] **Two technical points that decide whether the test works**
-> **(1) Free light chains are not detected by urine dipstick** — the dipstick detects albumin. **A negative dipstick for protein does not exclude Bence-Jones proteinuria**, and this is the classic trap in light-chain-only myeloma presenting with renal failure.
-> **(2) Specimen type matters** — sources describe a clean-catch early-morning sample for screening by UPEP/immunofixation, with a **24-hour collection preferred for quantification**. Sources also describe **serum free light chain assays reducing the need for urine testing**, and note algorithms using sFLC to rule out unnecessary Bence-Jones testing.
-
-> [!danger] **Do not ignore**
-> **Unexplained renal impairment with anaemia, hypercalcaemia or bone pain in an older patient** — screen for myeloma; **cast nephropathy from free light chains is a treatable cause of AKI where delay costs renal function.** Also request **calcium, ALP** and a skeletal survey or whole-body imaging as directed.
-
-**Normal/abnormal:** No monoclonal band. A monoclonal band requires quantification, typing, and haematology referral. Note that a small monoclonal band may represent **MGUS**, which requires surveillance rather than treatment.
-
-**Alt:** **Serum free light chain assay** (more sensitive, avoids collection problems); SPEP with immunofixation; quantitative immunoglobulins; bone marrow biopsy; imaging.
-
-## 0.13 Fecal Incontinence
-
-> [!warning] FLAG 2026-09-01 — confirmed misfiled from both ends, and its `UNRESOLVED` marker is NOT answered by moving it
-> This file calls it *"mis-filed and mis-categorised — a symptom, not an investigation"*.
-> **`GI_merged 03_Gastrointestinal §0.42 Faecal Incontinence (Adult)` independently records that the
-> topic was *"found under Renal & Urology in the source spreadsheet, but genuinely a GI/colorectal
-> topic"*.** Two files agreeing from opposite ends.
-> ⚠️ **The live `UNRESOLVED — needs review` marker asks whether the build list intended anorectal
-> manometry rather than the symptom. Moving this section would answer that question silently. It is
-> not answered, and the marker stays.**
-
-> [!warning] **Mis-filed and mis-categorised** — this is a **symptom**, not an investigation. Recorded here for traceability; the presentation-level differential belongs with the presentations axis. **UNRESOLVED — needs review:** confirm whether the build list intended an investigation (most likely **anorectal manometry** and **endoanal ultrasound**, both already built) and remove this row from the investigations list if so.
-
-**Brief note — the investigations that answer it:** **anorectal manometry** (sphincter pressures, rectal sensation, RAIR — see `NEW_Investigations_Gastroenterology.md` 0.29); **endoanal/endorectal ultrasound** (structural sphincter defects, particularly obstetric injury — see 0.22–0.23 of the same file); **defecating proctography**; and **flexible sigmoidoscopy** to exclude a rectal lesion or inflammation. Also examine for **faecal impaction with overflow**, which is common, reversible, and the first thing to exclude — and in a patient with **new faecal incontinence plus saddle anaesthesia, leg weakness or urinary retention, consider cauda equina syndrome** and image the spine urgently.
-
----
-
-## Build status of this file
-
-| Measure | Value |
-|---|---|
-| Category | Investigations — Renal and Urology |
-| No-header items in category | 13 |
-| **Built** | **13** |
-| Dropped as `[CUT]` | 0 |
-| Searches used | 3 |
-
-**Mis-filed items built as listed, with the mis-filing noted in each:** Adrenal/Cortisol (endocrine) · Metanephrines (endocrine) · Dark Urine (a sign) · **Fecal Incontinence (a symptom, not a test — logged `UNRESOLVED — needs review` in 0.13)**.
-
-**Omissions under the sourcing standard, each stated in place:** ACR category boundaries in Australian units (**a deliberate refusal to convert mg/g to mg/mmol myself**) · all renal function reference intervals · PSA cut-offs · urine cytology numeric sensitivity · uroflowmetry flow thresholds · urodynamic pressure thresholds · all cortisol and metanephrine assay thresholds · corticosteroid doses for adrenal crisis.
-
-**Sourcing note:** the Wilson disease figures (caeruloplasmin <0.2 g/L; urinary copper >40 µg/day children, >100 µg/day adults) are stated **as orientation with an explicit caveat**, because sources describe the biochemical thresholds themselves as imperfect and a systematic review exists on their variable performance. They are not presented as a rule.
 
 
 <!-- ===== SOURCE: NEW_Renal_and_Urology.md ===== -->
@@ -2111,3 +1670,444 @@ All four skips are T3, so none affects Tier 1 completeness.
 | **Urinary Incontinence** | `## Urinary incontinence` | `17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse.md` | Exact |
 | **Urinary Retention** | `## Urinary Retention` | `07_Renal_Medicine_and_Urology.md` | Exact |
 | **Testicular Lump** | `## Testicular Lumps` | `07_Renal_Medicine_and_Urology.md` | Exact after plural fold — **this one was recovered only after I fixed a false negative in the scan**; the singular topic did not match the plural header until the fold was added |
+
+<!-- ===== SOURCE: NEW_Investigations_Renal_and_Urology.md ===== -->
+
+
+# NEW — Investigations: Renal and Urology
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked** (verified 2026-08-30); AMH and Therapeutic Guidelines are subscription-gated. Entries are **snippet-sourced**. Numerics appear only on three-source agreement; assay- or laboratory-dependent values are **omitted with the omission stated in place**.
+
+> [!warning] **Mis-filed items in this category:** `Adrenal / Cortisol` and `Metanephrines` are endocrine tests, and `Fecal Incontinence` is a **symptom, not an investigation**. Each is built as listed with the mis-filing noted.
+
+---
+
+## 0.1 Urinalysis Panel (Dipstick, pH, Specific Gravity, Microscopy, Culture)
+
+**D:** Bedside **reagent strip** testing (pH, specific gravity, blood, protein, glucose, ketones, nitrites, leucocyte esterase, bilirubin, urobilinogen) plus laboratory **microscopy** (cells, casts, crystals, organisms) and **culture with sensitivities**.
+
+**Ind:** Suspected urinary tract infection; haematuria; proteinuria; acute kidney injury and CKD assessment; suspected glomerulonephritis; diabetes and its complications; unexplained systemic illness; antenatal screening; pre-operative assessment.
+
+**Role:** **The cheapest, fastest and highest-yield test in nephrology and urology**, and the one most often under-used. In suspected glomerular disease it is effectively the bedside biopsy — **an active sediment changes the whole pathway**.
+
+> [!danger] **Do not ignore**
+> **Red cell casts or dysmorphic red cells** — glomerulonephritis. With acute kidney injury this is a **nephrological emergency**; see the vasculitis serology entry in `NEW_Investigations_Infectious_Diseases.md` 0.21 and [[12_04_Rheum_-_Vasculitis]].
+> **Visible (macroscopic) haematuria in an adult** — urological malignancy until excluded, regardless of anticoagulation or a concurrent UTI.
+> **Glycosuria with ketonuria** — check a capillary glucose and ketones; consider DKA, including **euglycaemic DKA on an SGLT2 inhibitor**, where the glucose may be near-normal.
+
+> [!warning] **Asymptomatic bacteriuria is not a UTI.** It is common in older people, in the catheterised, and in residential care, and **treating it does not help and drives resistance and *C. difficile***. The exceptions where it *is* treated are **pregnancy** and **before urological procedures that breach the mucosa**. A positive dipstick in a delirious older person does not explain the delirium — see the Acute Confusion entry in `NEW_Neurology.md`.
+
+**Normal/interpretation:** Dipstick positives for protein, nitrite, leucocytes or blood should prompt **microscopy**. Nitrites are reasonably specific for Enterobacterales but insensitive (organisms that do not reduce nitrate, or short bladder dwell time give false negatives). Leucocyte esterase is more sensitive, less specific. **Sterile pyuria** — think prior antibiotics, urethritis/STI, **renal tract tuberculosis**, stones, tumour, interstitial nephritis. **Heavy proteinuria on dipstick (≥3+)** is described in sources as high-grade and warrants quantification (see 0.2).
+
+**Abnormal → next steps:** Culture before antibiotics where practical; quantify proteinuria by ACR/PCR; ultrasound for obstruction or stones; nephrology referral for an active sediment.
+
+**Alt:** ACR/PCR (quantification); renal tract ultrasound; CT KUB for stones; cystoscopy for haematuria; renal biopsy.
+
+## 0.3 Renal Function Panel (Urea, Creatinine, eGFR, Electrolytes)
+
+**D:** Serum urea, creatinine and calculated **eGFR**, with sodium, potassium, chloride and bicarbonate.
+
+**Ind:** Ubiquitous — acute illness, drug dosing and monitoring, CKD staging and surveillance, before contrast or nephrotoxic drugs, fluid and electrolyte problems.
+
+**Role:** First-line and continuous. **eGFR is an estimate with assumptions**, and knowing where it fails is what distinguishes safe prescribing.
+
+> [!warning] **Where eGFR misleads, and it matters most in exactly the patients you worry about**
+> - **Creatinine depends on muscle mass** — so eGFR **overestimates** function in the **elderly, cachectic, amputees, and those with chronic liver disease or malnutrition**, and **underestimates** it in the very muscular. A "normal" creatinine in a frail 85-year-old can conceal substantial renal impairment.
+> - **eGFR equations assume steady state** and are **invalid in acute kidney injury**, where creatinine lags behind the true GFR by hours to days — so a rising creatinine understates how bad things already are.
+> - Drugs alter creatinine without altering GFR — **trimethoprim** and others reduce tubular secretion; this is a benign rise, not injury.
+> - **Cystatin C-based eGFR** is recommended by KDIGO alongside creatinine where available, and helps precisely in these discordant situations.
+
+> [!danger] **Do not ignore**
+> **Hyperkalaemia** — an ECG and treatment decision, not a number to file. **A rising creatinine with anuria** — think obstruction, and scan the bladder and kidneys; post-renal AKI is the reversible one. **Any AKI: review the drug chart immediately** and withhold nephrotoxics (NSAIDs, ACE inhibitors/ARBs, diuretics, metformin, SGLT2 inhibitors) per local sick-day guidance.
+
+**Normal/abnormal:** Reference intervals are laboratory-specific and **not stated here**. A **urea:creatinine ratio raised out of proportion** supports pre-renal states or upper GI bleeding.
+
+**Alt:** Cystatin C; measured creatinine clearance; renal tract ultrasound; urinalysis; **CKD staging requires ACR alongside** (see 0.2).
+
+## 0.2 Urine ACR (Albumin-to-Creatinine Ratio)
+
+**D:** Ratio of urinary albumin to creatinine, correcting for urine concentration; measured on a **first-morning spot sample** where possible.
+
+**Ind:** **Screening and staging of CKD**, especially in diabetes and hypertension; quantifying proteinuria; cardiovascular risk assessment.
+
+**Role:** **The standard quantitative measure of albuminuria**, and it has replaced 24-hour collections for most purposes. Albuminuria is an **independent predictor of both renal and cardiovascular outcome**, not just a marker of kidney damage — which is why it belongs in cardiovascular risk assessment as well as renal.
+
+> [!info] **CKD is staged on two axes together — eGFR *and* albuminuria (KDIGO)**
+> **Albuminuria categories:** **A1** normal to mildly increased · **A2** moderately increased · **A3** severely increased. **Persistence for ≥3 months** is required for a CKD diagnosis.
+> **eGFR categories:** **G1** ≥90 · **G2** 60–<90 · **G3a** 45–<60 · **G3b** 30–<45 · **G4** 15–<30 · **G5** <15 mL/min/1.73 m².
+
+> [!danger] **A units trap, and it is a real one in Australia.** The KDIGO albuminuria category boundaries are commonly published in **mg/g**, while **Australian laboratories report ACR in mg/mmol** — the numeric boundaries are therefore completely different. **Converting the figures myself would be presenting my own arithmetic as a sourced threshold, so the numeric boundaries are deliberately omitted here.** Use the **A1/A2/A3 category printed on the Australian report**, which the laboratory has already applied to its own units. This is the same class of error as quoting a US prolactin or PSA figure in the wrong units.
+
+**Normal/abnormal:** Confirm an abnormal result on a repeat sample. **Transient albuminuria** occurs with fever, exercise, heart failure, hyperglycaemia and UTI — repeat when the patient is well before labelling CKD.
+
+**Alt:** Urine protein:creatinine ratio (**PCR** — better where non-albumin proteins matter, as in myeloma); 24-hour urine protein (largely superseded, error-prone); dipstick (screening only — sources note it performs less well than ACR for CKD screening).
+
+## 0.4 Dark Urine
+
+> [!warning] FLAG 2026-09-01 — a sign filed as an investigation, and the file says so
+> Its own callout reads *"A sign, not a test. Built as listed."* **Two other files produced the same
+> error class**: `GI NEW_Investigations_Gastroenterology §0.31 Pale Stools` and
+> `Heme NEW_Investigations_Haematology_Part2 §0.25 Petechiae`.
+> **The symmetry is worth noting**: `Renal and Urology_merged.md:1848` cites the GI pale-stools entry,
+> so the two halves of one sign-pair sit in two different system files, both misfiled the same way.
+
+> [!warning] **A sign, not a test.** Built as listed.
+
+**D:** Urine darker than expected — the diagnostic task is to decide **which pigment**.
+
+**Interpretation — the differential is short and separable by dipstick:**
+- **Concentrated urine** (dehydration) — the commonest cause; dipstick negative for blood, high specific gravity.
+- **Bilirubinuria** — **conjugated** hyperbilirubinaemia; dark urine **with pale stools** signals cholestasis (see the Pale Stools entry in `NEW_Investigations_Gastroenterology.md` 0.31). Unconjugated bilirubin is not water-soluble and does **not** darken urine — so **dark urine in jaundice means the bilirubin is conjugated**, which is a genuinely useful bedside inference.
+- **Haematuria** — dipstick positive for blood, **red cells present** on microscopy.
+- **Haemoglobinuria** (intravascular haemolysis) or **myoglobinuria** (rhabdomyolysis) — **dipstick positive for blood but microscopy shows no red cells**. This dissociation is the classic and high-yield finding.
+- **Drugs and foods** — rifampicin (orange), nitrofurantoin, metronidazole, methyldopa, levodopa, beetroot, senna; **porphyria** (urine darkens on standing in light).
+
+> [!danger] **Do not ignore**
+> **Dipstick blood-positive, microscopy red-cell-negative urine after crush injury, prolonged immobility, seizure, extreme exertion or a statin** — **rhabdomyolysis**. Check **creatine kinase, potassium, calcium and renal function urgently**; hyperkalaemia and AKI are the killers.
+
+**Next steps:** Dipstick, microscopy, split bilirubin, CK, LDH and haptoglobin, and a drug history.
+
+## 0.12 Urine Protein Electrophoresis (UPEP / Bence-Jones Protein)
+
+**D:** Electrophoresis of urine with **immunofixation** to detect monoclonal **free light chains** — historically "Bence-Jones protein".
+
+**Ind:** Suspected **multiple myeloma or related plasma cell disorder** — unexplained anaemia, bone pain or lytic lesions, hypercalcaemia, renal impairment, raised total protein or globulin gap, recurrent infection; and monitoring of known disease.
+
+**Role:** Part of the myeloma screen alongside **serum protein electrophoresis (SPEP), immunofixation, and serum free light chains**.
+
+> [!warning] **Two technical points that decide whether the test works**
+> **(1) Free light chains are not detected by urine dipstick** — the dipstick detects albumin. **A negative dipstick for protein does not exclude Bence-Jones proteinuria**, and this is the classic trap in light-chain-only myeloma presenting with renal failure.
+> **(2) Specimen type matters** — sources describe a clean-catch early-morning sample for screening by UPEP/immunofixation, with a **24-hour collection preferred for quantification**. Sources also describe **serum free light chain assays reducing the need for urine testing**, and note algorithms using sFLC to rule out unnecessary Bence-Jones testing.
+
+> [!danger] **Do not ignore**
+> **Unexplained renal impairment with anaemia, hypercalcaemia or bone pain in an older patient** — screen for myeloma; **cast nephropathy from free light chains is a treatable cause of AKI where delay costs renal function.** Also request **calcium, ALP** and a skeletal survey or whole-body imaging as directed.
+
+**Normal/abnormal:** No monoclonal band. A monoclonal band requires quantification, typing, and haematology referral. Note that a small monoclonal band may represent **MGUS**, which requires surveillance rather than treatment.
+
+**Alt:** **Serum free light chain assay** (more sensitive, avoids collection problems); SPEP with immunofixation; quantitative immunoglobulins; bone marrow biopsy; imaging.
+
+## 0.6 Urine Cytology
+
+**D:** Microscopic examination of exfoliated urothelial cells in voided or washing specimens.
+
+**Ind:** Haematuria work-up; surveillance of known urothelial carcinoma; suspected **carcinoma in situ**; occupational exposure surveillance (aromatic amines, aniline dyes, rubber).
+
+**Role:** **Adjunct, never a substitute for cystoscopy.** Its performance is strongly grade-dependent: **good for high-grade urothelial carcinoma and carcinoma in situ, poor for low-grade papillary tumours**, which exfoliate bland cells. **A numeric sensitivity is deliberately not stated — it did not reach the sourcing standard in this build.**
+
+**Safety/cost:** Non-invasive and inexpensive. **A first-morning specimen is not used** — overnight cells degenerate; a fresh voided sample later in the morning is preferred.
+
+**Normal/abnormal:** Negative cytology **does not exclude bladder cancer**. Positive cytology with a normal cystoscopy should prompt a search for an **upper tract** or prostatic urethral source. False positives occur with stones, infection, instrumentation, and after intravesical BCG or chemotherapy.
+
+**Alt:** **Cystoscopy — the definitive test for bladder mucosa**; CT urography for the upper tracts; urinary tumour-marker assays (variable adoption).
+
+## 0.5 Elevated PSA (Prostate-Specific Antigen)
+
+**D:** Serum glycoprotein produced by prostatic epithelium — **prostate-specific, not prostate-cancer-specific**, which is the entire interpretive problem.
+
+**Ind:** Symptomatic assessment of suspected prostate cancer; monitoring known disease; and — separately and more contentiously — **screening of asymptomatic men**.
+
+**Role:** Screening role in Australia is **conditional on shared decision-making, not routine**. Sources describe RACGP and Cancer Council Australia guidance as **offering PSA screening to asymptomatic men aged 50–69** (or **from 45 with a first-degree family history**) **only after a conversation that explicitly covers benefits and harms**. *(Guidance in this area is actively being revised — sources reference a draft update — so confirm current recommendations.)*
+
+> [!warning] **Causes of a raised PSA other than cancer** — benign prostatic hyperplasia, **prostatitis or UTI** (which can raise it dramatically and take months to settle), urinary retention, recent **ejaculation, cycling, digital rectal examination, catheterisation, prostate biopsy or surgery**, and increasing age. **Repeat an unexpected result after an interval, having excluded infection, before acting on it.**
+> **Free:total PSA ratio** adds discrimination in the intermediate band — sources describe its use where total PSA is between **4 and 10 ng/mL**, with a **lower free:total fraction indicating higher cancer risk**. Note the caveat sources raise: **chronic prostatitis also lowers the free fraction**, so it does not cleanly separate inflammation from cancer.
+> **DRE has high specificity but low sensitivity** — a normal examination does not exclude cancer, and DRE alone is not a screening test.
+
+> [!danger] **Do not ignore**
+> **A hard, irregular, nodular prostate on DRE**, or PSA with **bone pain, anaemia or raised ALP** — consider metastatic disease and refer urgently, regardless of the PSA value.
+
+**Normal/abnormal:** **No single "normal" cut-off is stated here** — thresholds are age-referenced, assay-dependent, and used differently between guidelines. **PSA velocity and density** are used in interpretation. Rising or persistently elevated PSA → urology referral; contemporary pathways use **multiparametric MRI before biopsy** to reduce unnecessary biopsies.
+
+**Alt:** mpMRI prostate; transperineal or transrectal biopsy; bone scan and CT for staging.
+
+## 0.7 Uroflowmetry
+
+**D:** Non-invasive measurement of urinary flow rate over time, producing a flow curve, with a **post-void residual** measured by bladder scan.
+
+**Ind:** Lower urinary tract symptoms, particularly voiding symptoms in men; suspected bladder outlet obstruction; before and after prostate surgery.
+
+**Role:** Sources describe it as **the initial, non-invasive urodynamic investigation for LUTS**. It is a screening test — **it demonstrates a poor flow but cannot say why**, because obstruction and a weak detrusor produce similar curves.
+
+**Safety/cost:** Non-invasive, cheap, no complications. **Requires an adequately full bladder** — a low voided volume makes the study uninterpretable, which is the commonest technical failure.
+
+**Normal/abnormal:** A normal flow rate and curve with a low residual makes significant obstruction unlikely. **Numeric flow-rate thresholds are not stated** — they are volume- and age-dependent. An intermittent or plateau curve suggests obstruction or stricture; a **significant post-void residual** raises retention and the risk of upper tract damage.
+
+**Alt:** **Formal urodynamics** (see 0.8) where the cause of a poor flow must be established; bladder scan; symptom scores; flexible cystoscopy for stricture.
+
+## 0.8 Urodynamic Studies (UDS)
+
+**D:** Invasive multichannel study measuring bladder and abdominal pressures during filling and voiding, with provocative manoeuvres (cough, Valsalva); **video-urodynamics** adds fluoroscopy.
+
+**Ind:** Sources list: **incongruity between symptoms and clinical findings**; **neurogenic bladder** and neurological disease; persistent LUTS despite appropriate therapy; **before surgery for incontinence**, and in recurrent incontinence after previous surgery; **mixed stress and urge incontinence**; young men with LUTS; selected children with persistent daytime wetting or spinal abnormality; and where a planned therapy carries high complication risk or the diagnosis is otherwise unclear.
+
+**Role:** **The functional gold standard** — it distinguishes detrusor overactivity, stress incontinence, poor compliance, detrusor underactivity and bladder outlet obstruction, which no non-invasive test reliably separates.
+
+> [!warning] **Not a routine test for uncomplicated incontinence.** Straightforward stress or urge incontinence is managed on history, examination and a bladder diary. UDS is reserved for the situations above; performing it routinely subjects patients to an invasive, uncomfortable study that does not change management.
+
+**Safety/cost:** Catheterisation is uncomfortable and carries **UTI risk** (antibiotic prophylaxis is used in some settings), plus haematuria and, rarely, retention. Expensive and specialist.
+
+**Normal/abnormal:** Reported as filling and voiding phase findings. **Numeric pressure thresholds are not stated here.**
+
+**Alt:** Bladder diary and pad testing (cheap, informative, always do first); uroflowmetry with residual; imaging; cystoscopy.
+
+## 0.13 Fecal Incontinence
+
+> [!warning] FLAG 2026-09-01 — confirmed misfiled from both ends, and its `UNRESOLVED` marker is NOT answered by moving it
+> This file calls it *"mis-filed and mis-categorised — a symptom, not an investigation"*.
+> **`GI_merged 03_Gastrointestinal §0.42 Faecal Incontinence (Adult)` independently records that the
+> topic was *"found under Renal & Urology in the source spreadsheet, but genuinely a GI/colorectal
+> topic"*.** Two files agreeing from opposite ends.
+> ⚠️ **The live `UNRESOLVED — needs review` marker asks whether the build list intended anorectal
+> manometry rather than the symptom. Moving this section would answer that question silently. It is
+> not answered, and the marker stays.**
+
+> [!warning] **Mis-filed and mis-categorised** — this is a **symptom**, not an investigation. Recorded here for traceability; the presentation-level differential belongs with the presentations axis. **UNRESOLVED — needs review:** confirm whether the build list intended an investigation (most likely **anorectal manometry** and **endoanal ultrasound**, both already built) and remove this row from the investigations list if so.
+
+**Brief note — the investigations that answer it:** **anorectal manometry** (sphincter pressures, rectal sensation, RAIR — see `NEW_Investigations_Gastroenterology.md` 0.29); **endoanal/endorectal ultrasound** (structural sphincter defects, particularly obstetric injury — see 0.22–0.23 of the same file); **defecating proctography**; and **flexible sigmoidoscopy** to exclude a rectal lesion or inflammation. Also examine for **faecal impaction with overflow**, which is common, reversible, and the first thing to exclude — and in a patient with **new faecal incontinence plus saddle anaesthesia, leg weakness or urinary retention, consider cauda equina syndrome** and image the spine urgently.
+
+---
+
+## 0.9 Adrenal / Cortisol Testing (Morning Cortisol, 24-h Urine Free Cortisol, Salivary Cortisol, Short Synacthen, Dexamethasone Suppression)
+
+> [!warning] **Mis-filed** — an endocrine investigation listed under Renal & Urology. Built as listed.
+
+**D:** A family of tests answering two opposite questions: **is there too little cortisol (adrenal insufficiency)** or **too much (Cushing syndrome)**.
+
+**Ind:** **Insufficiency** — unexplained hypotension, hyponatraemia with hyperkalaemia, weight loss, fatigue, hyperpigmentation, hypoglycaemia, or shock unresponsive to fluids; and in anyone on long-term corticosteroids who becomes unwell. **Excess** — central obesity, proximal myopathy, thin skin and easy bruising, striae, new or difficult-to-control diabetes and hypertension, osteoporosis at a young age.
+
+**Role:** **Morning cortisol** screens for insufficiency; the **short Synacthen (ACTH stimulation) test** confirms it. For excess, screening uses **overnight or low-dose dexamethasone suppression, 24-hour urinary free cortisol, or late-night salivary cortisol** — usually two abnormal tests before proceeding.
+
+> [!danger] **Do not ignore — and do not wait for the result**
+> **Suspected adrenal crisis is treated immediately with hydrocortisone; the cortisol sample is taken before the dose, but treatment is not delayed for it.** Sudden withdrawal of long-term corticosteroids, or failure to increase the dose during intercurrent illness or surgery, is a preventable cause of crisis. **Corticosteroid doses are deliberately not stated here** (Australian guidance egress-blocked) — use the local adrenal crisis protocol, and know where it is before you need it.
+
+> [!warning] **Interpretation pitfalls** — cortisol has a **diurnal rhythm**, so timing of the sample is part of the test; **oestrogen (including the combined oral contraceptive) raises cortisol-binding globulin** and therefore total cortisol, causing false reassurance or false positives; shift work disrupts the rhythm; and **exogenous corticosteroids of any route — including inhaled, topical and intra-articular — suppress the axis** and must be asked about explicitly.
+
+**Normal/abnormal:** **All numeric thresholds are deliberately omitted** — they are assay-specific and differ between the newer and older cortisol immunoassays, and none met the three-source bar here. Interpret against the reporting laboratory's stated cut-offs and involve endocrinology.
+
+**Alt:** ACTH level (separates primary from secondary); renin and aldosterone; adrenal imaging **after** biochemical confirmation, never before; pituitary MRI.
+
+## 0.10 Metanephrines (Plasma Free or 24-hour Urinary Fractionated)
+
+> [!warning] **Mis-filed** — an endocrine investigation listed under Renal & Urology.
+
+**D:** Measurement of the O-methylated catecholamine metabolites **metanephrine and normetanephrine**, which are produced continuously within the tumour and so are less affected by episodic secretion than catecholamines themselves.
+
+**Ind:** Suspected **phaeochromocytoma or paraganglioma** — paroxysmal hypertension, the triad of **episodic headache, sweating and palpitations**, hypertension in a young patient, resistant hypertension, an **adrenal incidentaloma**, or a relevant family syndrome (**MEN2, von Hippel–Lindau, neurofibromatosis type 1, SDH mutations**).
+
+**Role:** **The screening test of choice**, having replaced urinary catecholamines and VMA.
+
+> [!danger] **Collection conditions and interfering drugs are part of the test, and ignoring them is the commonest cause of a misleading result.** Sources note that **tricyclic antidepressants, SNRIs, labetalol, paracetamol, levodopa, sympathomimetics and caffeine** interfere. Plasma sampling conditions (supine rest before venepuncture, in many protocols) also matter. **Check the reporting laboratory's specific requirements before collecting** — a false positive here leads to unnecessary imaging and a false negative can be fatal at induction of anaesthesia.
+
+> [!warning] **Sequence matters: confirm biochemically, then image.** Adrenal nodules are common incidental findings; imaging first generates confusion. And in a confirmed phaeochromocytoma, **alpha blockade must precede beta blockade** — see the non-selective alpha-blocker entry in `NEW_Drug_Classes_Cardiovascular_Antihypertensives.md`.
+
+**Normal/abnormal:** **Numeric thresholds are omitted** (assay-dependent). Mildly raised results are common and often drug-related; markedly raised results are more specific. Repeat with interfering drugs withdrawn where safe.
+
+**Alt:** Clonidine suppression test in equivocal cases; CT/MRI adrenals; functional imaging (MIBG, DOTATATE PET) for localisation and metastatic disease; genetic testing.
+
+## 0.11 24-hour Urine Copper
+
+**D:** Quantification of copper excreted in a 24-hour urine collection, used with **serum caeruloplasmin**.
+
+**Ind:** Suspected **Wilson disease** — unexplained liver disease in a young person, unexplained neurological or psychiatric disease with liver abnormality, haemolytic anaemia with liver disease, or a family history.
+
+**Role:** Part of a **composite diagnosis** — no single test is diagnostic.
+
+> [!info] **The figures sources give** — serum caeruloplasmin **below about 0.2 g/L**, with 24-hour urinary copper excretion **above roughly 40 µg/day in children and 100 µg/day in adults**, supporting the diagnosis. **Treat these as orientation, not as a rule**: sources describe the biochemical thresholds as imperfect, and a systematic review of biochemical testing exists precisely because performance varies. Where results are equivocal — raised transaminases, no Kayser–Fleischer rings, indeterminate caeruloplasmin and copper — **liver biopsy for hepatic copper concentration** is the arbiter, with penicillamine-provocation testing used in some centres.
+
+**Safety/cost:** Requires a complete, correctly collected 24-hour sample in a **copper-free container** — incomplete collection is the commonest cause of a spurious result. Cheap otherwise.
+
+> [!danger] **Do not ignore**
+> **Wilson disease presenting as acute liver failure with a Coombs-negative haemolytic anaemia** — a recognised, rapidly fatal presentation, typically in a young person, requiring urgent transplant assessment. **A disproportionately low ALP relative to bilirubin** is a described clue.
+
+**Normal/abnormal:** As above. **Caeruloplasmin is an acute-phase reactant** and can be falsely normal in inflammation, pregnancy or oestrogen use — a normal level does not exclude Wilson disease.
+
+**Alt:** Slit-lamp examination for **Kayser–Fleischer rings**; serum caeruloplasmin and free copper; liver biopsy with quantitative copper; *ATP7B* genetic testing; MRI brain.
+
+## Build status of this file
+
+| Measure | Value |
+|---|---|
+| Category | Investigations — Renal and Urology |
+| No-header items in category | 13 |
+| **Built** | **13** |
+| Dropped as `[CUT]` | 0 |
+| Searches used | 3 |
+
+**Mis-filed items built as listed, with the mis-filing noted in each:** Adrenal/Cortisol (endocrine) · Metanephrines (endocrine) · Dark Urine (a sign) · **Fecal Incontinence (a symptom, not a test — logged `UNRESOLVED — needs review` in 0.13)**.
+
+**Omissions under the sourcing standard, each stated in place:** ACR category boundaries in Australian units (**a deliberate refusal to convert mg/g to mg/mmol myself**) · all renal function reference intervals · PSA cut-offs · urine cytology numeric sensitivity · uroflowmetry flow thresholds · urodynamic pressure thresholds · all cortisol and metanephrine assay thresholds · corticosteroid doses for adrenal crisis.
+
+**Sourcing note:** the Wilson disease figures (caeruloplasmin <0.2 g/L; urinary copper >40 µg/day children, >100 µg/day adults) are stated **as orientation with an explicit caveat**, because sources describe the biochemical thresholds themselves as imperfect and a systematic review exists on their variable performance. They are not presented as a rule.
+
+
+<!-- ===== SOURCE: NEW_Drugs_13_Genitourinary.md ===== -->
+
+
+# NEW — Drug Classes: Genitourinary (AMH section 13)
+
+> [!warning] **Standalone build, not yet integrated.** No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** The **Australian Medicines Handbook and Therapeutic Guidelines are subscription-gated and egress-blocked** in this environment. Entries are **snippet-sourced**, and **no doses are stated anywhere in this file.**
+
+---
+
+## 0.2 Drugs for Urinary Tract Disorders
+
+### 0.2.1 Anticholinergics (Genitourinary)
+- **Mechanism:** **antimuscarinic** blockade (mainly M₃) of detrusor contraction → increased bladder capacity and reduced urgency.
+- **Key agents:** **oxybutynin** (including transdermal), **solifenacin**, **darifenacin**, **tolterodine**, **trospium** (quaternary — poor CNS penetration), propantheline.
+- **Indications:** **overactive bladder** — urgency, frequency, urge incontinence and nocturia; neurogenic detrusor overactivity.
+- **Adverse effects — the anticholinergic burden, and it is the whole issue in this class:** **dry mouth** (the commonest reason for stopping), constipation, blurred vision, **urinary retention**, tachycardia, and **heat intolerance**.
+
+> [!danger] **ANTICHOLINERGIC BURDEN AND COGNITION IN OLDER PEOPLE — this is the most important prescribing consideration in the class.**
+> These drugs cause **confusion, delirium, falls and functional decline** in the elderly, and **cumulative anticholinergic exposure is associated with an increased risk of dementia.** **Oxybutynin (immediate-release, oral) is the worst offender** — it is highly lipophilic and crosses the blood-brain barrier readily, and it appears on every deprescribing and potentially-inappropriate-medication list for older adults.
+> **Practical:** prefer **trospium** (quaternary, minimal CNS penetration), **darifenacin** or transdermal oxybutynin if an antimuscarinic is needed in an older patient; better still, consider **mirabegron** (0.2.2). **Add up the total anticholinergic load** — the patient is often also on an antihistamine, a tricyclic, an antipsychotic and an antiemetic. **Try bladder training and conservative measures first: they work, and they have no adverse effects.**
+
+- **Contraindications:** **narrow-angle glaucoma**, urinary retention and significant outflow obstruction, gastrointestinal obstruction, myasthenia gravis, severe ulcerative colitis and toxic megacolon.
+
+### 0.2.2 Other Drugs for Urinary Incontinence
+- **Mirabegron** — a **β₃-adrenoceptor agonist** relaxing the detrusor during filling. **The main advantage is the absence of anticholinergic effects**, which makes it valuable in older patients and those already carrying anticholinergic burden. **Adverse effects: hypertension** (check the blood pressure before and during treatment — it is contraindicated in severe uncontrolled hypertension), tachycardia, urinary tract infection, headache. Inhibits **CYP2D6** (relevant for metoprolol, some antidepressants).
+- **Duloxetine** — an SNRI with a role in **stress urinary incontinence** (increasing urethral sphincter tone); nausea limits its use, and pelvic floor training remains first-line.
+- **Desmopressin** — for **nocturnal polyuria and nocturnal enuresis**. **HYPONATRAEMIA is the serious risk — restrict fluid, monitor sodium, and use with great caution in the elderly**, in whom it can cause severe symptomatic hyponatraemia (see `NEW_Drugs_06_Cardiovascular.md` 0.11.4).
+- **Topical vaginal oestrogen** — genuinely effective for **genitourinary syndrome of menopause**, and for **recurrent urinary tract infection in postmenopausal women**, with minimal systemic absorption. **Substantially under-used.**
+- **Botulinum toxin** (intradetrusor injection) for refractory overactive bladder — effective, but the patient **must be willing and able to self-catheterise** if retention occurs; and **sacral neuromodulation** and surgery for refractory cases.
+- **Non-drug first-line:** **pelvic floor muscle training** (supervised, for stress and mixed incontinence — the single most effective intervention), **bladder retraining**, weight loss, fluid and caffeine modification, treating constipation, and **continence nurse or physiotherapy referral**.
+
+> [!danger] **Before treating incontinence as "overactive bladder", exclude the things that mimic it:** **urinary tract infection**, **faecal impaction**, **diabetes and hypercalcaemia** (polyuria), **diuretics and other drugs**, **atrophic vaginitis**, **prostatic obstruction with overflow**, **delirium and impaired mobility** (functional incontinence), and — importantly — **haematuria or new irritative symptoms, which raise BLADDER CANCER and require urological investigation, particularly in smokers.** **Cauda equina and spinal cord pathology** must be excluded where there are neurological features.
+
+## 0.1 Drugs for Benign Prostatic Hyperplasia and Prostatitis
+
+### 0.1.1 Uroselective Alpha-1 Blockers
+*(covers build-list classes: Alpha-1 Blockers (Uroselective); Selective alpha-blockers (genitourinary))*
+- **Mechanism:** block **α₁-adrenoceptors** in prostatic and bladder neck smooth muscle → **relaxation and reduced dynamic outflow obstruction**. **α₁A** predominates in the prostate, which is the basis of "uroselectivity".
+- **Key agents:** **tamsulosin** and **silodosin** (α₁A-selective); **alfuzosin** (functionally uroselective); **prazosin** and **terazosin** (non-selective — more hypotension, and still used where hypertension coexists).
+- **Role:** **first-line for moderate-to-severe lower urinary tract symptoms of BPH**, with **onset within days to weeks** — much faster than 5-alpha-reductase inhibitors. Also used to facilitate **trial of void after acute urinary retention** and as **medical expulsive therapy** for distal ureteric stones (see 0.4).
+- **Adverse effects:** **postural hypotension, dizziness and syncope** — particularly with the first dose and in the elderly, so **take at night and warn about standing up slowly**; **retrograde or absent ejaculation** (prominent with tamsulosin and especially silodosin — **this must be discussed before prescribing, not discovered**); nasal congestion; asthenia.
+
+> [!danger] **INTRAOPERATIVE FLOPPY IRIS SYNDROME (IFIS) — tell the patient and the ophthalmologist BEFORE cataract surgery.**
+> Sources report IFIS in **40–90% of patients on tamsulosin** (one retrospective study: **86% on tamsulosin versus 15% on alfuzosin**), and a large Canadian cohort of nearly 100,000 men found those on tamsulosin had **2.3 times the risk of severe postoperative complications** such as retinal detachment and lost lens fragments. The mechanism is relaxation of the **iris dilator muscle**.
+> **Critically: stopping the drug shortly before surgery does NOT reliably prevent it** — the effect persists long after cessation. **What helps is the surgeon knowing in advance**, so they can modify their technique. **Ask every man about alpha-blocker use before cataract surgery, and record the exposure permanently — including past use.**
+
+- **Interactions:** additive hypotension with **antihypertensives and PDE5 inhibitors** — a very common co-prescription in this population, so **stagger dosing and counsel**; CYP3A4 inhibitors raise tamsulosin and silodosin levels.
+
+### 0.1.2 5-Alpha-Reductase Inhibitors
+- **Mechanism:** inhibit **5-alpha-reductase**, blocking conversion of testosterone to **dihydrotestosterone** → the prostate **shrinks** over months.
+- **Key agents:** **finasteride** (type 2), **dutasteride** (types 1 and 2).
+- **Role:** for men with a **demonstrably enlarged prostate**; reduce prostate volume, **reduce the risk of acute urinary retention and the need for surgery**, and reduce haematuria of prostatic origin. **Takes 3–6 months to work** — a patient expecting rapid relief will stop it. Often combined with an alpha-blocker, which provides the early benefit while the 5-ARI provides the long-term one. Finasteride at lower dose is also used for **androgenetic alopecia**.
+- **Adverse effects:** **sexual dysfunction — reduced libido, erectile dysfunction and ejaculatory disorders**; **gynaecomastia and breast tenderness** (and **breast cancer in men has been reported** — investigate a breast lump); and **persistent sexual and mood symptoms after cessation ("post-finasteride syndrome") are reported and contested** — the honest position is that the association is debated, but it must be part of the consent conversation, along with **depression and suicidal ideation**, which carry regulatory warnings.
+
+> [!danger] **5-ARIs approximately HALVE the PSA. Failing to account for this can hide a prostate cancer.**
+> After about 6 months of treatment, **the measured PSA must be doubled** to estimate the true value when interpreting it against a reference range — and, more usefully, **any RISE in PSA on treatment is significant and warrants urological assessment**, even if the absolute number still looks normal. **Record a baseline PSA before starting**, and make sure the treating GP and urologist know the patient is on the drug.
+
+> [!danger] **Finasteride and dutasteride are TERATOGENIC — they cause abnormal development of the external genitalia in a male fetus.** **Women who are or may become pregnant must not handle crushed or broken tablets**, and men on treatment should use condoms where a partner is or may become pregnant. **They must not donate blood during treatment or for a defined period after stopping.**
+
+### 0.1.3 Other Drugs for BPH and Prostatitis
+- **PDE5 inhibitors — tadalafil** at a daily dose is licensed for BPH symptoms and is especially useful where **erectile dysfunction coexists** (see 0.5.1). **Do not combine with an alpha-blocker without care** — additive hypotension.
+- **Antimuscarinics and mirabegron** — added where **storage symptoms (urgency, frequency, nocturia)** predominate; safe with careful monitoring for retention, and no longer regarded as contraindicated in BPH provided the post-void residual is checked.
+- **Prostatitis:** **acute bacterial prostatitis** needs prolonged antibiotics with good prostatic penetration (**trimethoprim, co-trimoxazole or a fluoroquinolone**, guided by culture and local resistance — see `NEW_Drugs_05_Anti_infectives.md` 0.2.14 for fluoroquinolone cautions), and can cause sepsis and abscess. **Chronic prostatitis / chronic pelvic pain syndrome** is usually **not infective** and responds poorly to repeated antibiotics — it needs a multimodal approach including alpha-blockers, pain management, physiotherapy and psychological support.
+- **Non-drug:** fluid and caffeine advice, bladder retraining, and **review of drugs that worsen symptoms** — anticholinergics, sympathomimetics (including decongestants), opioids and diuretics.
+
+> [!danger] **ACUTE URINARY RETENTION with a palpable bladder is an emergency requiring catheterisation.** Look for the precipitant — constipation, urinary infection, a new anticholinergic or decongestant, alcohol, postoperative state. **Beware POST-OBSTRUCTIVE DIURESIS after relieving chronic retention** — monitor urine output, electrolytes and blood pressure, and replace fluid; these patients can become profoundly volume- and electrolyte-depleted. **And always exclude CAUDA EQUINA SYNDROME** in retention with back pain or neurological features.
+
+## 0.4 Drugs for Kidney Stones
+
+- **Acute management:** **analgesia first — NSAIDs (where renal function and context allow) are at least as effective as opioids** for renal colic and are first-line; parenteral opioids where NSAIDs are contraindicated; antiemetics; and fluid as needed (**forced diuresis does not help**).
+- **Medical expulsive therapy:** **alpha-blockers (tamsulosin)** to aid passage of **distal ureteric stones**, particularly those larger than about 5 mm — the benefit is modest and greatest for larger distal stones. This is an off-label but widely used indication.
+- **Prevention — driven by stone composition and metabolic work-up:**
+  - **All stone types: high fluid intake** to produce a large daily urine volume — the single most effective preventive measure, and the one patients are least often given a specific target for.
+  - **Calcium oxalate:** **thiazide diuretics** (reduce urinary calcium), **potassium citrate** (raises urinary citrate, an inhibitor), dietary sodium and oxalate reduction. **Do NOT restrict dietary calcium** — it paradoxically increases oxalate absorption and stone risk; **normal dietary calcium with meals is protective.**
+  - **Uric acid stones:** **urinary alkalinisation with potassium citrate or sodium bicarbonate** (uric acid stones can dissolve with alkalinisation — one of the few stones amenable to medical dissolution) and **allopurinol** where urate is high.
+  - **Cystine stones:** high fluid intake, alkalinisation, and **tiopronin or penicillamine**.
+  - **Struvite (infection) stones:** treat the infection and remove the stone — they are a nidus for chronic infection; urease inhibitors are rarely used.
+- **Review the drug list:** **topiramate, acetazolamide, calcium and vitamin D supplements, protease indinavir** and others promote stones.
+
+> [!danger] **AN OBSTRUCTED, INFECTED KIDNEY IS A UROLOGICAL EMERGENCY.** Fever, rigors, systemic upset or sepsis with an obstructing stone requires **antibiotics and URGENT DECOMPRESSION (nephrostomy or ureteric stent)** — antibiotics alone will not sterilise an obstructed system and the patient will die. Also urgent: **a solitary or transplanted kidney**, **bilateral obstruction**, and **acute kidney injury**. See [[07_Renal_Medicine_and_Urology]].
+
+## 0.5 Urinary Alkalinisers and Acidifiers
+
+- **Alkalinisers:** **potassium citrate**, **sodium bicarbonate**, and over-the-counter **sodium citrate/citric acid** sachets.
+- **Indications:** **uric acid and cystine stone prevention and dissolution** (0.4); **symptomatic relief in cystitis** (widely sold and used, with weak evidence — they relieve dysuria somewhat but do not treat infection); **urinary alkalinisation in poisoning**, notably **salicylate** and in **rhabdomyolysis** to reduce myoglobin cast nephropathy; and in some tumour lysis protocols.
+- **Cautions:** **sodium load** — avoid the sodium-containing preparations in **hypertension, heart failure and renal impairment**; **potassium citrate causes hyperkalaemia**, especially with ACE inhibitors, ARBs, MRAs or renal impairment; alkalinisation promotes **calcium phosphate stone formation**, so it is not appropriate for all stone types; and gastrointestinal upset is common.
+- **Acidifiers:** **ammonium chloride** and **ascorbic acid** are of largely historical interest; **methenamine hippurate** works by releasing formaldehyde in acidic urine and is used for **UTI prophylaxis** — a useful non-antibiotic option that avoids driving resistance, though it needs acidic urine and is ineffective for treating established infection.
+
+> [!warning] **Over-the-counter urinary alkalinisers do not treat a urinary tract infection.** A woman self-treating dysuria with sachets while a pyelonephritis develops is a recognised presentation. **Systemic features — fever, rigors, loin pain, vomiting — mean pyelonephritis and require antibiotics and assessment.** And **dysuria with a negative culture** should prompt consideration of STIs, atrophic vaginitis, interstitial cystitis and, in the older patient, bladder pathology.
+
+## 0.6 Bladder Instillations
+
+- **Key agents and indications:**
+  - **BCG (intravesical *Bacillus* Calmette-Guérin)** — **immunotherapy for non-muscle-invasive bladder cancer**, particularly carcinoma in situ and high-grade disease; reduces recurrence and progression.
+  - **Intravesical chemotherapy — mitomycin C, epirubicin, gemcitabine** — a single post-resection instillation reduces recurrence; also used in maintenance regimens.
+  - **Dimethyl sulfoxide (DMSO), hyaluronic acid, chondroitin sulfate, heparin** — for **interstitial cystitis / bladder pain syndrome**, restoring the glycosaminoglycan layer.
+  - **Local anaesthetic and alkalinising instillations** for bladder pain.
+  - **Bladder washouts** (saline, citric acid preparations) for catheter encrustation and blockage.
+- **Adverse effects:**
+  - **BCG:** chemical cystitis with frequency, urgency and dysuria (very common and expected), haematuria, and **systemic BCG infection ("BCGosis")** — fever, malaise, hepatitis, pneumonitis — which is **rare but serious and requires antituberculous therapy**. **A high fever or persistent systemic symptoms after BCG is not "expected irritation"** and must be assessed. **BCG is contraindicated with traumatic catheterisation, active haematuria, active UTI and in immunosuppressed patients**, and it is a **live organism requiring cytotoxic-style handling and disposal precautions.**
+  - **Mitomycin:** chemical cystitis and, notably, **contact dermatitis of the hands and genitals** — patients are advised on voiding technique, washing and hygiene.
+- **Practical:** instillations are given by trained staff, retained for a specified period, and followed by voiding precautions. **Patients on intravesical therapy need a clear point of contact for fever or worsening symptoms.**
+
+## 0.3 Drugs for Sexual Dysfunction
+
+### 0.3.1 Phosphodiesterase 5 Inhibitors
+- **Mechanism:** inhibit **PDE5**, so **cGMP persists** in corpus cavernosum smooth muscle following nitric-oxide release → vasodilation and erection. **They require sexual stimulation to work** — they do not cause spontaneous erections, and telling patients this prevents a "failed" trial.
+- **Key agents:** **sildenafil, tadalafil** (long half-life — up to 36 hours, and available as a daily low dose), **vardenafil, avanafil**.
+- **Indications:** **erectile dysfunction**; **BPH symptoms** (tadalafil daily); **pulmonary arterial hypertension** (see `NEW_Drugs_06_Cardiovascular.md` 0.11.3); Raynaud phenomenon.
+- **Adverse effects:** headache, flushing, dyspepsia, nasal congestion, back and limb pain (tadalafil), **visual disturbance including a blue tinge** (sildenafil, via PDE6); and rarely **non-arteritic anterior ischaemic optic neuropathy** and **sudden sensorineural hearing loss** — both requiring immediate cessation and assessment. **Priapism** is rare but is a urological emergency.
+
+> [!danger] **PDE5 INHIBITORS ARE ABSOLUTELY CONTRAINDICATED WITH NITRATES IN ANY FORM — the combination causes profound, potentially fatal hypotension.**
+> This includes **GTN spray and patches, isosorbide, nicorandil, and recreational nitrite "poppers"**. **Ask every man presenting with chest pain whether he has taken one and when** — the required interval is much longer for **tadalafil** because of its long half-life. Also **avoid with riociguat**, and use caution with **alpha-blockers** (additive hypotension — stagger the doses).
+
+> [!danger] **ERECTILE DYSFUNCTION IS A CARDIOVASCULAR WARNING SIGN, NOT JUST A SEXUAL PROBLEM.**
+> The penile arteries are small, and endothelial dysfunction shows there first — **ED frequently precedes a coronary event by years.** **Every man presenting with ED should have a cardiovascular risk assessment**: blood pressure, lipids, glucose/HbA1c, smoking and weight. Also check **testosterone** (and prolactin if low), review **drugs** (**antihypertensives — especially thiazides and beta-blockers — SSRIs, antipsychotics, 5-ARIs, opioids, alcohol**), and screen for **depression and relationship factors**. **Treating the erection without assessing the heart is a missed opportunity that recurs constantly.**
+
+### 0.3.2 Other Drugs for Sexual Dysfunction
+- **Intracavernosal and intraurethral alprostadil** (a prostaglandin E1) — for men who cannot use or do not respond to PDE5 inhibitors. **Priapism risk means the patient must be taught what to do and when to present** — an erection lasting more than about 4 hours is an emergency requiring aspiration and phenylephrine, and delay causes permanent erectile failure.
+- **Vacuum erection devices and penile prostheses** — non-drug options with good outcomes.
+- **Testosterone replacement** — only for **confirmed hypogonadism on repeated morning testosterone with appropriate gonadotrophins**, not as an empirical treatment for tiredness or low libido. **Contraindicated in prostate and breast cancer**; causes **polycythaemia (monitor haematocrit), sleep apnoea, acne, and suppression of spermatogenesis and fertility.** Australian PBS criteria are specific.
+- **Dapoxetine** — a short-acting SSRI for premature ejaculation; other SSRIs are used off-label for the same effect.
+- **Female sexual dysfunction** — **topical vaginal oestrogen and non-hormonal lubricants and moisturisers** for genitourinary syndrome of menopause and dyspareunia; **ospemifene**; and, importantly, **assessment of pain, relationship, psychological and drug causes** — SSRIs being a very common contributor. Referral to a psychosexual service is often more useful than a prescription.
+
+## 0.7 Drugs for Adrenal Insufficiency
+
+> [!warning] FLAG 2026-09-01 — this subsection declares its own duplication
+> Its scope note already says: *"This subsection duplicates content built in AMH section 10 … written in
+> full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2
+> (mineralocorticoids)**."* **Both retained; pair marked, not merged.** The other copy is in
+> `Endocrine and metabolics_merged.md`.
+
+> [!note] **This subsection duplicates content built in AMH section 10.** Adrenal replacement is written in full at `NEW_Drugs_10_Endocrine.md` **0.5.1 (systemic glucocorticoids)** and **0.5.2 (mineralocorticoids)**. It is summarised here rather than rewritten, because splitting a single clinical topic across two files would risk the two drifting apart.
+
+- **Replacement therapy:** **hydrocortisone** (usually in divided doses mimicking the diurnal rhythm; modified-release preparations exist) or prednisolone as the glucocorticoid; **fludrocortisone** as the mineralocorticoid — **needed in PRIMARY adrenal insufficiency (Addison disease) but NOT in secondary**, where the renin-angiotensin-aldosterone axis is intact. **DHEA** is occasionally added in women.
+- **Monitoring:** clinical assessment of weight, energy, postural blood pressure and pigmentation; **sodium, potassium and plasma renin activity** guide fludrocortisone adequacy. **There is no reliable biochemical marker of adequate glucocorticoid replacement — over-replacement is common and causes weight gain, osteoporosis and metabolic harm.**
+
+> [!danger] **THE THREE THINGS THAT MUST HAPPEN FOR EVERY PATIENT WITH ADRENAL INSUFFICIENCY**
+> 1. **SICK DAY RULES, taught and given in writing** — increase the glucocorticoid dose during illness (sources describe doubling for fever above 38 °C and tripling above 39 °C, while noting the evidence for the optimal dose is weak).
+> 2. **AN EMERGENCY PARENTERAL HYDROCORTISONE KIT**, with the patient and their family trained to use it — because **if they are vomiting, oral medication is useless.**
+> 3. **A STEROID ALERT CARD OR BRACELET**, and the diagnosis flagged prominently in the record.
+>
+> **ADRENAL CRISIS: hypotension unresponsive to fluids, vomiting, abdominal pain, hyponatraemia, hyperkalaemia, hypoglycaemia, fever, confusion. GIVE HYDROCORTISONE IMMEDIATELY ON SUSPICION — take the cortisol sample, then treat. Do not wait for the result.** Deaths from adrenal crisis are usually deaths from delay.
+> **Never omit or delay steroid replacement in an admitted patient**, and **never start thyroxine before treating adrenal insufficiency** — it precipitates crisis (see `NEW_Drugs_10_Endocrine.md` 0.4.1).
+
+---
+
+## Build status
+
+| # | Build-list row | Type | Built | Notes |
+|---|---|---|---|---|
+| 0.1 | Drugs for benign prostatic hyperplasia and prostatitis | SUB | yes | |
+| 0.1.1 | Alpha-1 Blockers (Uroselective) | CLS | yes | Built jointly with `Selective alpha-blockers (genitourinary)` — same class, two names; both rows mapped. Carries the intraoperative floppy iris syndrome warning with its incidence figures. |
+| 0.1.1 | Selective alpha-blockers (genitourinary) | CLS | yes | As above. |
+| 0.1.2 | 5-Alpha-Reductase Inhibitors | CLS | yes | PSA halving and the teratogenicity/handling warning. |
+| 0.2 | Drugs for urinary tract disorders | SUB | yes | |
+| 0.2.1 | Anticholinergics (genitourinary) | CLS | yes | Anticholinergic burden, cognition and the case against oral immediate-release oxybutynin in older people. |
+| 0.2.2 | Other drugs for urinary incontinence | CLS | yes | |
+| 0.3 | Drugs for sexual dysfunction | SUB | yes | |
+| 0.3.1 | Phosphodiesterase 5 inhibitors | CLS | yes | Nitrate contraindication and ED as a cardiovascular warning sign. |
+| 0.3.2 | Other drugs for sexual dysfunction | CLS | yes | |
+| 0.4 | Drugs for kidney stones | SUB | yes | Includes the do-NOT-restrict-dietary-calcium point and the obstructed infected kidney emergency. |
+| 0.5 | Urinary alkalinisers and acidifiers | SUB | yes | |
+| 0.6 | Bladder instillations | SUB | yes | BCG including systemic BCG infection. |
+| 0.7 | Drugs for adrenal insufficiency | SUB | yes | **Deliberately summarised, not rewritten** — the full content is in `NEW_Drugs_10_Endocrine.md` 0.5.1 and 0.5.2, and splitting one clinical topic across two files would risk them drifting apart. The three standing actions and adrenal crisis are stated here in full because they are safety-critical. |
+
+**Rows in file: 14 (7 SUB + 7 CLS). AMH section 13 build-list rows: 14. Section complete.**
+
+> [!note] **One pair of build-list rows is a naming duplicate** (`Alpha-1 Blockers (Uroselective)` / `Selective alpha-blockers (genitourinary)`), and **one subsection (`Drugs for adrenal insufficiency`) genuinely overlaps AMH section 10** — the build list places adrenal replacement in both sections. It is cross-referenced rather than duplicated, and that decision is recorded above.
+
