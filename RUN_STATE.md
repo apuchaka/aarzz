@@ -309,7 +309,57 @@ option was taken and is reversible.
 | `Cardio_merged.md` | done — `d75e2f2` |
 | `GI_merged.md` | done — `1aeef95` |
 | `Infectious Disease_merged.md` | done — `bdc3589` |
-| *(next: Emergency and Crit Care, Heme Onc, Pediatrics, MSK, OBGYN)* | |
+| `Emergency and Crit Care_merged.md` | done — `7e4c2f5` |
+| `Heme Onc_merged.md` | done — `b50dda3` |
+| `MSK_merged.md` | done — `81ee311` |
+| `Pediatrics_merged.md` | done — `1084281` |
+| `OBGYN_merged.md` | done — `46c6bdf` |
+
+**All 19 merged system files reordered. One commit each, before-and-after order in every
+commit message.**
+
+### Whole-vault verification — `scripts/verify_reorder.py`, all checks pass
+
+Everything is a comparison against `78cd7b3`, the commit before the first reorder:
+
+| check | result |
+|---|---|
+| line multiset per merged file | **identical**, 19/19 — proves no line was edited, only moved |
+| digit multiset per merged file | **identical**, 19/19 |
+| content headings vault-wide | **4383 → 4383**, none gained or lost |
+| duplicate headings introduced | **0** |
+| conflict markers | **0** |
+| empty callouts / callout bodies severed from their title | **0 / 0**, checked structurally |
+| wikilinks | 5,539 checked, 37 unresolved, **all 37 byte-identical at the baseline** |
+| working tree | clean |
+
+Plus the standing checks: `SOURCE` dividers **423, all conforming** · dangling numeric
+pointers **1** (the deliberate `[[B2]] 0.5`) · misaimed **0** · broken stubs **0** ·
+positional references pointing the wrong way, **new: 0**.
+
+### The eight breaks the reorder caused, all caught and reversed
+
+Every one was a section whose own prose says "above" or "below" about a section I had just
+moved past it. **None was visible in the diff; all eight came from a tool printing a line.**
+
+| file | the reference | fix |
+|---|---|---|
+| Anaes | `0.8` says *"the PONV section above"* | `0.8` moved back below `0.4` |
+| Resp | `0.20` says *"the IPF section above"* | `0.7` moved back above `0.20` |
+| Geriatrics | Discharge Planning says *"see Abuse of Older People … above"* | swap undone |
+| Opthalm | Endophthalmitis says *"see Keratitis below"* | Endophthalmitis leads the red-eye run |
+| Opthalm | Strabismus says *"see Cataracts above"* | lens group moved before the neuro group |
+| Renal | Testicular Cancer says *"the Testicular Lumps table below"* | run reads torsion, cancer, lumps |
+| Derm | NEW_Dermatology says *"SJS/TEN and DRESS above"* | block moved to third, after `09_01` |
+| Derm | Epidermoid Cyst says *"the same row as Alopecia above"* | alopecia moved before it |
+| Endocrine | **fifteen at once**, across two attempts | order rebuilt from the extracted constraints |
+| GI | Gastritis *"H. pylori regimen above"*; Malabsorption *"SBBOS (see above)"* | both groups reordered |
+
+**Two of these were invisible to the resolver and only the `--audit` read found them** — the
+GI pair, where the reference is a bare `(see above)` with no name in it. That is the shape no
+matcher can resolve and the reason the audit prints lines without offering a verdict.
+
+
 
 **Positional breaks caught and reversed during the run so far:** Anaes 0.8/0.4 PONV ·
 Resp 0.20/0.7 IPF · Geriatrics Discharge/Abuse · Opthalm Endophthalmitis/Keratitis ·
