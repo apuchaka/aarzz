@@ -1,1718 +1,5 @@
 
 
-<!-- ===== SOURCE: 10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders.md ===== -->
-
-
-> [!note] Leukaemia = cancer of the WBCs in the bone marrow → marrow failure → ↓RBC (anaemia) and ↓mature WBC and ↓platelets (haemorrhage).
-
-## 0.1 Acute lymphoblastic leukaemia (ALL)
-
-- **D:** malignant clonal cancer of the lymphoid progenitor cell.
-  - Common ALL (75%) — CD10+, pre-B phenotype.
-  - T-ALL (20%) and B-ALL (5%).
-- **R:** children <5 years old (accounts for 80% of childhood leukaemias); associated with Down syndrome.
-- **S/Smx:** predictable by bone marrow failure — anaemia (lethargy, pallor), neutropaenia (frequent/severe infections), thrombocytopaenia (easy bruising, petechiae).
-  - Other features: bone pain (secondary to bone marrow infiltration), mediastinal mass (T-ALL), splenomegaly, hepatomegaly, fever (up to 50% of new cases), testicular swelling (secondary to spread).
-- **Ix:** FBC and blood film (*why:* the first-line screening test, often showing the diagnostic picture directly; *what:* circulating lymphoblasts, plus the cytopaenias reflecting marrow failure described above). Bone marrow aspirate and trephine biopsy (*why:* the definitive diagnostic test, required to confirm >20% blasts (the diagnostic threshold for acute leukaemia) and to obtain material for immunophenotyping and cytogenetics, both of which directly determine the prognostic group and treatment protocol; *what:* lymphoblast infiltration, with flow cytometry/immunophenotyping distinguishing common/T-ALL/B-ALL subtypes per the classification above). Cytogenetics/molecular studies (*why:* directly informs the prognosis box above — e.g. t(12;21) vs other translocations — and specific treatment protocol selection; *what:* identifies the specific genetic subtype). Lumbar puncture (*why:* CNS involvement is a recognised site of disease and needs specific assessment/treatment given standard systemic chemotherapy doesn't adequately penetrate the CNS; *what:* screens for CNS leukaemic involvement).
-- **Mx:**
-  - **Immediate/acute:** supportive care for the presenting cytopaenias (blood/platelet transfusion as needed, infection management), given patients often present acutely unwell from marrow failure before any leukaemia-specific treatment starts.
-  - **Definitive:** multi-agent chemotherapy in phases — induction (achieving remission), consolidation, and maintenance (often prolonged, over ~2 years) — the specific protocol and intensity is guided by the risk stratification (age, WBC, cytogenetics) established at diagnosis per the prognosis box above; CNS-directed therapy (intrathecal chemotherapy ± cranial irradiation) given the CNS sanctuary site issue noted under Ix above; stem cell transplant considered for high-risk or relapsed/refractory disease.
-  - **Chronic/long-term:** long-term surveillance for relapse and for treatment-related late effects (particularly relevant given this is often a paediatric diagnosis with decades of subsequent life — secondary malignancy risk, cardiotoxicity from anthracyclines, fertility issues, neurocognitive effects from CNS-directed therapy).
-
-> [!info] Complications and their prevention — genuinely important given how much of the morbidity in treated ALL comes from these rather than the leukaemia itself
-> - **Neutropenic sepsis:** the most immediately dangerous complication during treatment — co-trimoxazole prophylaxis is standard (also covers *Pneumocystis jirovecii* given the degree of immunosuppression); see the Febrile neutropenia approach below for acute management if it occurs.
-> - **Hyperuricaemia/tumour lysis:** pre-treat before starting chemotherapy with increased fluid intake and allopurinol, given the risk of tumour lysis syndrome as a large leukaemic cell burden breaks down rapidly with treatment.
-> - **Poor growth:** a recognised long-term treatment effect, part of the long-term surveillance above.
-> - **Second malignancy:** ~3% risk of a second leukaemia or a cancer elsewhere (especially CNS), part of why long-term surveillance continues well beyond the active treatment period.
-> - **Immunity:** live vaccines are contraindicated during treatment; the full vaccination schedule should be restarted/caught up ~6 months after completing chemotherapy, once immune reconstitution has occurred.
-
-> [!info] Febrile neutropenia in a child on ALL treatment — a genuine emergency requiring urgent management, not just routine fever assessment
-> - **Initial:** blood cultures (peripheral + central line if present) and parenteral antibiotics as soon as possible per local/institutional guidelines (piperacillin-tazobactam is standard empirical Australian practice — see [[10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies]] for the AU-verified detail on this, not repeated here); also send MSU, CXR if respiratory symptoms, swabs of all orifices and any central line, respiratory virus swab, and baseline bloods/serology.
-> - **Ongoing:** managed by paediatric oncology; if investigations point to a viral or low-risk cause, the child may be discharged with or without oral antibiotics; if blood cultures are negative, other tests are inconclusive, and the child has been afebrile for >24h, antibiotics are typically continued for a total of 5 days; if blood culture is positive, treat according to the specific organism and local guidelines; if the child continues to spike fevers or becomes more unwell, actively reconsider viral or fungal infection, or a central line infection, rather than simply continuing the same antibiotic course unchanged.
-
-## 0.2 Chronic lymphocytic leukaemia (CLL)
-
-- **D:** indolent lymphoproliferative disorder in which monoclonal B lymphocytes predominate in the peripheral blood.
-- **R:** >60 years old — the most common adult leukaemia.
-- **S/Smx:** often asymptomatic. Systemic signs: anorexia, weight loss. Bleeding, infection, lymphadenopathy.
-- **Ix:** FBC (lymphocytosis, lymphocytes >5, anaemia, thrombocytopaenia); blood film (smudge cells — see note below); immunophenotyping (CD5, CD19, CD20, CD23).
-
-> [!info] Gap-filled — smudge cells were named as a finding without explaining what they actually are. **CLL cells have an abnormal, deficient cytoskeleton** (notably reduced vimentin, a structural protein that normally provides mechanical stability to the cell) — this makes them genuinely fragile and prone to physical rupture during the mechanical process of preparing a blood film (spreading a drop of blood thinly across a slide). The resulting disrupted, smeared-out cell remnants are the "smudge cells" (also called basket cells) seen on the film. **This is genuinely a slide-preparation artifact, not a finding reflecting anything happening within the bloodstream itself** — the cells don't rupture in vivo, only under the mechanical stress of smear preparation — but it's a useful and characteristic clue precisely because it reflects CLL cells' distinctive underlying fragility, a direct consequence of their abnormal cytoskeletal structure.
-- **Mx:**
-  - **Immediate/acute:** many patients require no immediate treatment given the indolent course — "watch and wait" is a genuinely appropriate strategy for asymptomatic, early-stage disease, not a failure to treat.
-  - **Definitive:** treatment is indicated for symptomatic or progressive disease (constitutional symptoms, progressive cytopaenias, bulky/symptomatic lymphadenopathy, autoimmune complications not responding to steroids) — options include targeted therapies (e.g. BTK inhibitors such as ibrutinib, BCL2 inhibitors such as venetoclax) which have increasingly supplanted traditional chemoimmunotherapy as first-line in many patients, given generally favourable efficacy and toxicity profiles; chemoimmunotherapy remains an option depending on patient fitness and specific mutation status.
-  - **Chronic/long-term:** monitor for and manage the complications below (recurrent infection, autoimmune haemolysis) and specifically for Richter's transformation given its sudden-deterioration presentation; vaccination status should be optimised given the infection risk from disease-related hypogammaglobulinaemia, per general principles established elsewhere in this project (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program)).
-- **Complications:** anaemia, recurrent infections (secondary to hypogammaglobulinaemia), warm autoimmune haemolytic anaemia (10–15%).
-
-> [!danger] Richter's transformation — leukaemia cells enter lymph nodes and transform into a high-grade, fast-growing non-Hodgkin's lymphoma (often DLBCL), causing sudden clinical deterioration. S/Smx: lymph node swelling, fever without infection, weight loss, night sweats, nausea, abdominal pain.
-
-## 0.3 Hairy cell leukaemia
-
-- **D:** indolent, mature B-cell neoplasm.
-- **R:** middle age, M>F, white ethnicity, possible EBV association.
-- **Features:** dry tap on aspiration (due to marrow fibrosis); massive splenomegaly; pancytopaenia. Histology: fuzzy cells, stains **TRAP (tartrate-resistant acid phosphatase)** positive — an enzyme stain that resists tartrate inhibition, which is what makes it relatively specific for hairy cells; associated with BRAF mutations.
-- **Ix:** FBC and blood film (*why:* screens for the pancytopaenia and characteristic "hairy" cell morphology directly; *what:* pancytopaenia with circulating hairy cells visible on film). Bone marrow trephine biopsy (*why:* aspiration classically yields a "dry tap" given marrow fibrosis, making trephine biopsy necessary to obtain diagnostic tissue — the dry tap itself is a useful diagnostic clue rather than simply a technical failure; *what:* confirms hairy cell infiltration and marrow fibrosis). TRAP stain and immunophenotyping (*why:* confirms the diagnosis definitively, given TRAP positivity and characteristic surface markers are relatively specific for this entity; *what:* TRAP-positive cells with the characteristic immunophenotype). BRAF mutation testing (*why:* the BRAF V600E mutation is present in the large majority of cases and increasingly informs targeted treatment options; *what:* confirms the mutation, relevant to both diagnosis confidence and treatment selection).
-- **Mx:** purine analogues (e.g. cladribine, pentostatin) are highly effective first-line treatment, often achieving durable remission with a single course — a notably favourable treatment story relative to many other haematological malignancies; targeted BRAF inhibition is an option in relapsed/refractory disease given the mutation frequency above; splenectomy is a historical option now largely superseded by pharmacological treatment but occasionally still relevant for massive symptomatic splenomegaly.
-
-## 0.4 Acute myeloid leukaemia (AML)
-
-- **D:** clonal expansion of myeloid blasts in the bone marrow, peripheral blood, or extramedullary tissues.
-- **R:** >65 years old, previous haematological disorders, previous chemotherapy, radiation exposure, benzene exposure (paints, petrol, rubber).
-- **S/Smx** (secondary to bone marrow failure): anaemia (pallor, lethargy, weakness); neutropenia + frequent infections (WBC counts may be very high, but functioning neutrophil levels may be low); thrombocytopenia (bleeding); splenomegaly; bone pain.
-- **Ix:** FBC and blood film (*why:* the first-line screening test; *what:* circulating myeloblasts ± the cytopaenias reflecting marrow failure above; Auer rods, if seen, are highly suggestive of AML — see the APML info box below for the specific association). Bone marrow aspirate and trephine biopsy (*why:* the definitive diagnostic test, required to confirm ≥20% myeloblasts (the diagnostic threshold) and to obtain material for immunophenotyping and cytogenetics, which directly determine prognostic subgroup and treatment intensity; *what:* myeloblast infiltration, with flow cytometry distinguishing AML from ALL and cytogenetics identifying specific subtypes such as APML below). Coagulation screen (*why:* DIC is a recognised presentation, particularly in APML, so should be actively screened for rather than assumed absent; *what:* may show deranged coagulation supporting a DIC picture if present).
-- **Mx:**
-  - **Immediate/acute:** supportive care for presenting cytopaenias and any DIC (particularly relevant given the APML association below); urgent recognition and specific treatment if APML is suspected, given its distinct and highly effective treatment pathway.
-  - **Definitive:** intensive combination chemotherapy (induction then consolidation) for fit patients; APML specifically is treated with all-trans retinoic acid (ATRA) and arsenic trioxide rather than standard AML chemotherapy protocols, given its excellent, distinct treatment response — see the info box below. Less intensive or supportive-care-focused approaches are appropriate for frailer/older patients where intensive chemotherapy carries prohibitive risk, reflecting the genuinely different risk-benefit calculus in this generally older-onset disease. Stem cell transplant considered for appropriate candidates with higher-risk disease.
-  - **Chronic/long-term:** long-term surveillance for relapse; management of treatment-related complications given the intensity of AML chemotherapy regimens.
-
-> [!info] Acute promyelocytic leukaemia (APML) — associated with t(15;17), the fusion of PML and RAR-alpha genes. Associated with younger age, possible Down syndrome. Histology: Auer rods (seen with myeloperoxidase stain). DIC or thrombocytopenia often present at presentation. Good prognosis; responds to all-trans retinoic acid (vitamin A) and arsenic.
-
-## 0.5 Chronic myeloid leukaemia (CML)
-
-- **D:** malignant clonal disorder of myeloid stem cells arising due to the t(9;22) mutation (Philadelphia chromosome), resulting in the BCR-ABL fusion gene.
-- **R:** age 65–74.
-- **S/Smx:** typically in elderly patients — anaemia (fatigue is the most common presenting symptom), massive splenomegaly, hypermetabolic symptoms (weight loss, night sweats).
-- **Ix:** bloods (anaemia), blood film (tear drop cells), bone marrow aspirate often difficult ("dry tap") — trephine biopsy needed.
-- **Mx:** tyrosine kinase inhibitors; monitoring; may require stem cell transplant if severe.
-- Additional features: anaemia (lethargy); weight loss, sweats; splenomegaly → abdominal discomfort; ↑granulocytes at different stages of maturation ± thrombocytosis; ↓leukocyte alkaline phosphatase; may undergo blast transformation ("blast crisis" — AML in 80%, ALL in 20%).
-
-## 0.6 Myelofibrosis
-
-- **D:** myeloproliferative disorder characterised by bone marrow fibrosis.
-- **R:** radiation exposure, industrial solvent exposure (e.g. benzene).
-- **A/P:** thought to be caused by hyperplasia of abnormal megakaryocytes → ↑platelet-derived growth factor → ↑fibroblasts.
-- **S/Smx:** often insidious onset; constitutional/hypermetabolic symptoms (fatigue, weight loss, night sweats — similar in character to the CML features below, reflecting the shared myeloproliferative pathophysiology); massive splenomegaly (a hallmark feature, causing abdominal discomfort/early satiety) secondary to extramedullary haematopoiesis as the fibrotic marrow fails; anaemia-related symptoms as marrow failure progresses; bone pain.
-- **Ix:** FBC and blood film (*why:* screens for the characteristic blood picture; *what:* leucoerythroblastic film with tear-drop poikilocytes ("dacrocytes") — the same tear-drop cell morphology noted under CML below, reflecting cells being mechanically deformed as they're extruded from a fibrotic marrow). Bone marrow aspirate and trephine biopsy (*why:* aspiration is often unsuccessful ("dry tap") given the fibrosis itself, making trephine biopsy essential for diagnosis — the same "dry tap requiring trephine" pattern seen in hairy cell leukaemia above, though for a different underlying reason (fibrosis rather than cell-packing); *what:* confirms marrow fibrosis and megakaryocyte hyperplasia). JAK2, CALR, or MPL mutation testing (*why:* one of these three driver mutations is present in the large majority of cases and supports the diagnosis, also relevant to prognosis and to targeted treatment eligibility (JAK2 inhibitors); *what:* confirms a clonal myeloproliferative process).
-- **Mx:**
-  - **Immediate/acute:** supportive care for cytopaenias (transfusion as needed).
-  - **Definitive:** JAK2 inhibitors (e.g. ruxolitinib) for symptomatic splenomegaly/constitutional symptoms, particularly in JAK2-mutated disease; allogeneic stem cell transplant is the only potentially curative option and is considered in appropriate candidates given the otherwise generally poor long-term prognosis, particularly for higher-risk disease.
-  - **Chronic/long-term:** monitor for progression to acute leukaemia (a recognised long-term risk, similar in spirit to the transformation risks seen with the other myeloproliferative disorders in this file); manage progressive splenomegaly and cytopaenias as the disease advances.
-
-## 0.7 Myelodysplastic syndromes (MDS)
-
-- **D:** clonal haematopoietic stem cell disorders characterised by ineffective haematopoiesis, peripheral blood cytopaenias, and risk of progression to AML.
-- **A:** 90% primary (typically >70 years old); 10% secondary to causes such as chemotherapy and radiotherapy (usually 5 years after treatment).
-- **S/Smx:** can be asymptomatic; otherwise a milder version of AML.
-- **Ix:** peripheral blood counts, bone marrow examination (dysplastic changes), cytogenetic analysis.
-- **Mx:** supportive care (e.g. blood transfusions), immunomodulatory drugs (e.g. lenalidomide), immunosuppressive therapy, stem cell transplant.
-
-## 0.8 Polycythaemia vera (PV)
-
-- **D:** primary polycythaemia — clonal proliferation of a marrow stem cell leading to an increase in red cell volume ± ↑neutrophils and platelets.
-- **A/P:** JAK2 mutation present in ~95% of cases.
-- **R:** peak incidence in the 60s.
-- **S/Smx:** pruritus (typically after a hot bath); splenomegaly; hypertension; hyperviscosity; arterial and venous thrombosis; haemorrhage (secondary to abnormal platelets).
-- **Ix:** FBC (*why:* screens for the characteristic blood picture directly; *what:* raised haemoglobin/haematocrit ± raised neutrophils and platelets, per the definition above). JAK2 mutation testing (*why:* present in ~95% of cases and is now central to diagnosis, largely superseding older approaches like red cell mass studies; *what:* a positive result strongly supports the diagnosis, particularly combined with the blood count picture). Serum erythropoietin level (*why:* helps distinguish primary (PV) from secondary polycythaemia — EPO is characteristically low/suppressed in PV given the clonal proliferation is EPO-independent, versus raised in secondary polycythaemia driven by appropriate or inappropriate EPO stimulation; *what:* a low EPO level supports PV over the secondary causes in the differential table below).
-- **Mx:** aspirin, venesection, chemotherapy (hydroxyurea).
-- **P:** high rate of thrombotic events (main cause of morbidity/mortality); 5–15% progress to myelofibrosis; 5–15% progress to acute leukaemia (increased risk with chemotherapy).
-
-### 0.8.1 Polycythaemia — differential diagnosis
-
-| Type | Cause |
-|---|---|
-| **Primary (PV)** | Clonal marrow stem cell proliferation, JAK2 mutation |
-| **Relative** (↓circulating volume) | Dehydration; stress ("Gaisbock syndrome" — HTN, ↑RBC, plethora without splenomegaly) |
-| **Secondary** (↑stimulation to produce RBCs) | COPD, high altitude, obstructive sleep apnoea, excessive erythropoietin (cerebellar haemangioma, hypernephroma, hepatoma, uterine fibroids), iatrogenic/doping |
-
-## 0.9 How to interpret blood results — a quick approach
-
-1. Look at lymphocytes — ↓ suggests ALL or AML.
-2. Look at WBC — >100 suggests a chronic process (e.g. CML).
-3. Look at the WBC differential — bands suggest CML; blasts suggest AML.
-
-
-<!-- ===== SOURCE: 10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma.md ===== -->
-
-
-> [!note] Lymphoma = a discrete tumour mass arising from lymph nodes.
-
-## 0.1 Non-Hodgkin's lymphoma (NHL)
-
-- More common than Hodgkin lymphoma.
-- Generally affects the elderly (1/3 of cases in patients >75 years old).
-- Affects B-cells mainly; T-cell lymphomas are less common.
-- Associated with autoimmune disease and viral infections (worse prognosis).
-- **S/Smx:** painless lymphadenopathy (non-tender, rubbery, asymmetrical); constitutional B-symptoms (fever, weight loss, night sweats, lethargy); extranodal disease (GI, bone marrow, lungs, skin, CNS symptoms).
-- **Ix:** excisional node biopsy; CT-TAP for staging/PET; serology (HIV, EBV); other bloods.
-
-> [!info] Staging — Ann Arbor system (used for both NHL and Hodgkin lymphoma)
-> **The unit is a lymph node *region*, not an individual node** — this is what makes the stages mutually exclusive, and it is the single easiest thing to get wrong.
-> 1. **One** lymph node region (or a single extralymphatic site).
-> 2. **≥2** lymph node regions, **all on the same side** of the diaphragm.
-> 3. Lymph node regions on **both sides** of the diaphragm.
-> 4. **Diffuse or disseminated involvement of one or more extralymphatic organs** (e.g. bone marrow, liver, lung), with or without nodal disease.
->
-> Suffix: **A** = absence of B-symptoms; **B** = presence of B-symptoms (e.g. stage 3B, stage 1A). **S** = splenic involvement; **E** = a single contiguous extranodal site.
->
-> **The spleen is lymphatic tissue, not an extranodal organ** — splenic involvement is recorded with the **S** suffix and does *not* by itself make the disease stage 4.
->
-> **Corrected in the G5 round (2026-08-29).** The box previously read "One node affected" for stage 1 and "≥1 node affected on the same side of the diaphragm" for stage 2 — which made **stage 1 a subset of stage 2**, so the stages did not partition. It also gave the spleen as an example of the extranodal involvement defining stage 4. Both were visible from the box alone, without any source. See `PENDING_GUIDELINE_CHECKS.md` **B53**.
-
-- **Mx:** depends on subtype. All patients should be offered flu and pneumococcal vaccines. Patients with neutropaenia may require antibiotic prophylaxis.
-- **Complications:** bone marrow infiltration (→ pancytopaenic symptoms); SVC obstruction; metastases; spinal cord compression.
-
-### 0.1.1 Neoplasms of B cells
-
-| Subtype | Key features |
-|---|---|
-| Burkitt lymphoma | Adolescents/young adults; t(8;14); associated with EBV; "starry sky" appearance, tingible body macrophages; endemic jaw lesion in Africa |
-| Diffuse large B-cell lymphoma (DLBCL) | Older adults, 20% children; BCL2, BCL6; most common type of NHL in adults |
-| Follicular lymphoma | Adults; t(14;18); indolent course, waxing and waning lymphadenopathy |
-| Mantle cell lymphoma | Adults, M>F; t(11;14); very aggressive, patients often present late |
-| Marginal zone lymphoma | Adults; t(11;18); associated with chronic inflammation, e.g. Sjögren's, MALT syndrome |
-| Primary CNS lymphoma | Adults; associated with EBV, HIV/AIDS (AIDS-defining); presents with neuro symptoms — confusion, seizures, memory loss; single, ring-enhancing mass |
-| Mycosis fungoides / Sézary syndrome | Adults; presents with skin patches/plaques; CD4+ cells with cerebriform nuclei and intraepidermal neoplastic cell aggregates; Sézary syndrome = the leukaemic (T-cell leukaemia) form |
-
-### 0.1.2 Neoplasms of T cells
-
-| Subtype | Key features |
-|---|---|
-| Adult T-cell lymphoma | Adults; secondary to HTLV (associated with IVDU); presents with cutaneous lesions; common in Japan, West Africa, Caribbean |
-
-> [!info] Translocation reference
-> - t(8;14): Burkitt lymphoma
-> - t(11;14): Mantle cell lymphoma
-> - t(11;18): Marginal zone lymphoma
-> - t(14;18): Follicular lymphoma
-> - t(15;17): Acute promyelocytic leukaemia (APML)
-> - t(9;22): Chronic myeloid leukaemia (Philadelphia chromosome)
-
-## 0.2 Hodgkin lymphoma
-
-- **D:** haematological malignancy of mature B cells characterised by the presence of Hodgkin's cells and Reed-Sternberg cells.
-- **R:** associated with HIV, EBV.
-- **S/Smx:**
-  - Lymphadenopathy (75%) — most common in the neck (cervical or supraclavicular) > axillary > inguinal; usually painless, non-tender, asymmetrical.
-
-> [!tip] Alcohol-induced lymph node pain is characteristic of Hodgkin lymphoma, but seen in <10% of patients.
-
-  - Systemic B symptoms: weight loss, night sweats, fever, pruritus (worse prognosis).
-  - Other presentations: mediastinal mass.
-- **Ix:** bloods — normocytic anaemia, eosinophilia, ↑LDH. Lymph node biopsy — Reed-Sternberg cells are diagnostic ("owl eyes" appearance); CD15 and CD30 positive.
-
-> [!info] Classification (by prognosis)
-> - Nodular sclerosing (70%) — good prognosis.
-> - Mixed cellularity (20%) — good prognosis.
-> - Lymphocyte predominant (5%) — best prognosis.
-> - Lymphocyte depleted (rare) — worst prognosis.
-
-- **Staging:** Ann Arbor system (see above).
-- **Mx:** chemotherapy, radiotherapy; if relapsed or refractory, stem cell transplant.
-
-## 0.3 Multiple myeloma
-
-- **D:** haematological cancer characterised by clonal proliferation of plasma cells in the bone marrow.
-- **R:** increasing age (median 70 years old), MGUS, family history, possible radiation exposure.
-- **A/P:** genetic mutations occur as B-cells differentiate into mature plasma cells. ↑Production of monoclonal Ig or Ig fragments (paraproteins) in serum and urine. Normal Ig production is impaired, causing relative hypogammaglobulinaemia → predisposes to infection.
-
-> [!tip] Mnemonic — "CRABBI"
-> - **C**alcium: hypercalcaemia (>2.75), secondary to osteoclastic bone resorption → "bones, stones, moans, groans" + constipation and confusion.
-> - **R**enal issues: light chain deposition within renal tubules → renal damage → dehydration, ↑thirst; also amyloidosis, nephrocalcinosis, nephrolithiasis.
-> - **A**naemia: secondary to bone marrow crowding suppressing erythropoiesis.
-> - **B**leeding: secondary to thrombocytopaenia.
-> - **B**ones: lytic bone lesions, pathological fractures.
-> - **I**nfection: due to defective and decreased Ig.
-> - **Others:** hyperviscosity, neuropathy, amyloidosis.
-
-> [!info] Gap-filled — the "C" (hypercalcaemia) and "B" (bone lesions) findings above are actually the **same underlying mechanism** manifesting two ways, though the mnemonic presents them as separate letters. **Mechanism:** malignant plasma cells within the bone marrow secrete factors — most notably **RANKL** — while simultaneously suppressing **osteoprotegerin (OPG)**, RANKL's natural decoy receptor that would otherwise limit its effect. This shifts the RANKL:OPG balance strongly toward osteoclast activation, while myeloma cells also directly suppress osteoblast activity (impairing new bone formation). The combination — **increased bone resorption plus suppressed bone formation** — is why myeloma bone disease is purely destructive/lytic, rather than the mixed lytic-sclerotic pattern seen in some other cancers that metastasise to bone (e.g. prostate cancer, which is characteristically sclerotic). The released calcium from this resorption directly causes the hypercalcaemia in "C," while the localised structural bone loss produces the "punched-out" lytic lesions and pathological fracture risk in "B" — one process, two clinical consequences.
-
-- **Ix:**
-  - Bloods (FBC, peripheral blood film — rouleaux formation, U&Es, bone profile — ↑Ca).
-  - Protein electrophoresis, urinalysis (Bence Jones proteins).
-  - Bone marrow aspiration.
-  - Imaging — whole body MRI ("rain drop skull" on plain films).
-
-> [!info] Diagnostic criteria — 1 major + 1 minor criterion, or 3 minor criteria.
-> **Major:** plasmacytoma; ≥30% plasma cells in a bone marrow sample; ↑M protein in blood or urine.
-> **Minor:** 10–30% plasma cells; minor ↑M protein; osteolytic lesions on imaging; ↓antibodies in blood.
-
-- **Mx:** watch and wait if "smouldering MM"; stem cell transplant; supportive care to reduce complications — hydration, bisphosphonate infusions for bone pain and osteolytic lesions, denosumab.
-- **P:** incurable without stem cell transplant. Relapse at ~2–5 years post-treatment. Median survival 29–62 months depending on stage at diagnosis.
-
-### 0.3.1 Other plasma cell disorders
-
-**Waldenström's macroglobulinaemia**
-- Disorder secondary to overproduction of IgM.
-- **S/Smx:** peripheral neuropathy; hyperviscosity syndrome (headache, blurry vision, Raynaud's, retinal haemorrhages).
-- **Ix:** bone marrow shows >10% small lymphocytes with IgM inclusions.
-- **Complications:** thrombosis.
-
-**Monoclonal gammopathy of undetermined significance (MGUS)**
-- Overproduction of any Ig type.
-- **S/Smx:** usually asymptomatic; 10–30% have a demyelinating neuropathy.
-- **Ix:** bone marrow <10% monoclonal plasma cells.
-- **Complications:** 1–2% risk of transforming to multiple myeloma.
-
-
-<!-- ===== SOURCE: 10_03a_Haemonc_-_Primary_Immunodeficiencies.md ===== -->
-
-
-> [!tip] Highlighted conditions in this file come up more frequently in exams: Chronic granulomatous disease, DiGeorge syndrome, SCID, Wiskott-Aldrich syndrome, X-linked agammaglobulinaemia.
-
-## Neutrophil / phagocyte disorders
-
-### Chronic granulomatous disease
-
-- **D:** ↓NADPH oxidase → ↓ability of phagocytes to produce reactive oxygen species.
-- **S/Smx:** recurrent pneumonias and abscesses caused by catalase-positive bacteria (e.g. *Staph aureus*) and fungi (e.g. *Aspergillus*).
-- **Ix:** nitroblue tetrazolium (NBT) test or dihydrorhodamine (DHR) flow cytometry assay (*why:* the classic and current confirmatory tests respectively, both directly assessing phagocyte oxidative burst capacity — the specific functional defect described above — DHR flow cytometry is the more modern, more sensitive and specific test and is now generally preferred over NBT; *what:* failure of neutrophils to reduce the test reagent (NBT) or produce the fluorescent oxidation product (DHR) confirms defective NADPH oxidase function). Genetic testing (*why:* confirms the specific gene defect, relevant to prognosis, carrier testing in X-linked forms specifically, and genetic counselling; *what:* identifies the causative mutation, most commonly in the X-linked *CYBB* gene).
-
-### Chediak-Higashi syndrome
-
-- **D:** microtubule polymerisation defect → ↓phagocytosis. Autosomal recessive.
-
-> [!tip] Mnemonic — "PLAIN"
-> - **P**rogressive neurodegeneration
-> - **L**ymphohistiocytosis
-> - **A**lbinism (partial)
-> - **I**nfections (recurrent pyogenic)
-> - **N**europathy (peripheral)
-
-- **Ix:** neutrophils and platelets have giant granules; pancytopaenia; mild coagulation defects.
-
-### Leukocyte adhesion deficiency
-
-- **D:** defect of LFA-1 integrin (CD18) protein on neutrophils. Autosomal recessive.
-- **S/Smx:** recurrent skin and mucosal bacterial infection with no pus; impaired wound healing; delayed separation of the umbilical cord.
-- **Ix:** ↑neutrophils in blood, but absence of neutrophils at infection sites.
-
-## B-cell disorders
-
-### Common variable immunodeficiency (CVID)
-
-- **D:** defect in B-cell differentiation.
-- **S/Smx:** presents after age 2; increased risk of autoimmune disease, bronchiectasis, lymphoma, heart and lung infections.
-- **Ix:** ↓IgG, IgM, IgA.
-
-### X-linked (Bruton) agammaglobulinaemia
-
-- **D:** defect in BTK (tyrosine kinase gene) → no B cell maturation. X-linked recessive.
-- **S/Smx:** presents ~6 months of age (as maternal IgG wanes); recurrent bacterial and enteroviral infections.
-- **Ix:** absent B cells in peripheral blood; ↓Ig of all classes; absent or few lymph nodes and tonsils.
-
-> [!danger] Live vaccines are contraindicated in X-linked agammaglobulinaemia.
-
-### Selective IgA deficiency
-
-- **D:** maturation defect in B cells. The most common primary antibody deficiency.
-- Associated with coeliac disease (may cause a false-negative coeliac antibody screen).
-- **S/Smx:** most patients are asymptomatic; recurrent sinus and respiratory infections (increased susceptibility to giardiasis); anaphylactoid reaction in response to blood transfusions.
-- **Ix:** ↓IgA (but normal IgG, IgM).
-
-## T-cell disorders
-
-### DiGeorge syndrome
-
-- **D:** absent thymus and parathyroid glands due to a 22q11 microdeletion (results in failure to develop the 3rd and 4th pharyngeal pouches).
-
-> [!tip] Mnemonic — "CATCH-22"
-> - **C**ardiac defects
-> - **A**bnormal facies
-> - **T**hymic hypoplasia (giving rise to T-cell deficiency and recurrent viral and fungal infections)
-> - **C**left palate
-> - **H**ypocalcaemia, secondary to parathyroid aplasia → tetany
-
-- **Velocardiofacial syndrome is not a similar condition — it is the same condition.** Both are manifestations of the same **22q11.2 deletion**, described separately in the historical literature before the shared genetic basis was known, which is why current practice increasingly uses **22q11.2 deletion syndrome** as the umbrella term. Corrected by the pairs audit (2026-08-29): [[15_21a_Paeds_-_Microdeletion_Syndromes__Cri_du_Chat__DiGeorge__Williams_]] DiGeorge syndrome already stated it correctly as "aka velocardiofacial syndrome", and that entry owns the phenotype beyond the immune features (TBX1 mechanism, prognosis, the intellectual disability/autism/ADHD associations).
-- **Ix:** FISH testing or chromosomal microarray for the 22q11.2 deletion (*why:* the definitive diagnostic test, confirming the specific genetic deletion directly; *what:* confirms the deletion in the majority of clinically-suspected cases). Serum calcium and PTH (*why:* screens for the hypocalcaemia component of the mnemonic above, directly relevant given this can present acutely as neonatal tetany/seizures — often the presenting feature prompting the diagnostic work-up; *what:* low calcium with low or inappropriately normal PTH, reflecting parathyroid aplasia). Lymphocyte subset analysis (*why:* quantifies the degree of T-cell deficiency, given the clinical severity spans a spectrum from mild (partial DiGeorge) to severe/complete athymia, directly informing management intensity and live vaccine safety; *what:* low T-cell count/function correlating with the degree of thymic hypoplasia). Echocardiogram (*why:* screens for the cardiac defects in the mnemonic above, given these are common and clinically significant; *what:* identifies conotruncal cardiac abnormalities such as tetralogy of Fallot or interrupted aortic arch, which are classically associated with this deletion).
-
-### Job syndrome (Hyper-IgE syndrome)
-
-- **D:** STAT3 mutation → deficiency of Th17 cells → impaired recruitment of neutrophils to sites of infection.
-- **S/Smx:** cold abscesses; retained baby teeth; coarse facies; dermatological problems; ↑IgE; bone fractures from minor trauma.
-- **Ix:** serum IgE level (*why:* markedly elevated IgE is a hallmark finding directly reflecting the name of the condition and supports the diagnosis; *what:* very high IgE, often >2000 IU/mL). STAT3 genetic testing (*why:* confirms the specific molecular diagnosis; *what:* identifies the causative STAT3 mutation in autosomal dominant Job syndrome specifically — note some Hyper-IgE-syndrome-like presentations have other genetic causes, so genetic testing also helps distinguish these).
-
-### Chronic mucocutaneous candidiasis
-
-- **D:** T cell dysfunction → impaired cell-mediated immunity against Candida.
-- **S/Smx:** non-invasive *Candida albicans* infections of skin and mucous membranes.
-- **Ix:** clinical diagnosis supported by the characteristic pattern of persistent/recurrent non-invasive candidiasis; T-cell function testing and specific gene testing (e.g. AIRE gene in the associated autoimmune polyendocrinopathy syndrome, or STAT1 gain-of-function mutations in another recognised cause) where an underlying cause is being actively sought, given this presentation can be a marker of an underlying genetic immunodeficiency rather than a standalone diagnosis.
-
-## B- and T-cell disorders
-
-### Severe combined immunodeficiency (SCID)
-
-*(fuller entry: [[15_15b_Paeds_-_Primary_Immunodeficiencies_and_SCID]] Severe combined immunodeficiency (SCID))*
-
-- Several types, including X-linked recessive defective IL-2 receptor, and autosomal recessive adenosine deaminase deficiency.
-- **S/Smx:** failure to thrive; chronic diarrhoea; thrush; recurrent viral, bacterial, fungal and protozoal infections.
-- **Ix:** lymphocyte subset analysis (*why:* directly demonstrates the profound T-cell (and often B-cell/NK-cell, depending on subtype) deficiency that defines this condition — genuinely the key diagnostic test; *what:* markedly low T-cell counts, with B-cell and NK-cell counts varying by the specific genetic subtype). Newborn screening via T-cell receptor excision circles (TRECs) (*why:* SCID is now included in newborn screening programs in many settings specifically because early diagnosis before infection onset dramatically improves outcomes — genuinely one of the clearest examples of a screening test changing prognosis in this file; *what:* low/absent TRECs reflect failure of normal thymic T-cell output, prompting urgent further work-up in an otherwise asymptomatic newborn). Genetic testing (*why:* confirms the specific molecular subtype, directly relevant to prognosis and treatment planning, e.g. gene therapy is now an option for some specific genetic subtypes such as ADA deficiency; *what:* identifies the causative mutation).
-- **Mx:** live vaccines contraindicated; antimicrobial prophylaxis and **IVIG (intravenous immunoglobulin** — here genuinely *replacement* therapy, a third use distinct from both immunomodulation and post-exposure protection: the patient cannot make their own antibody, so it is supplied**)**; bone marrow transplant — genuinely urgent given untreated SCID is fatal in infancy, making this one of the few paediatric immunology diagnoses where treatment delay is directly life-threatening.
-
-### Ataxic telangiectasia
-
-- **D:** defect in the ATM gene → defect in DNA repair enzymes → accumulation of mutations. Autosomal recessive.
-- **S/Smx:** cerebellar defects → ataxia; spider angiomas (telangiectasia); IgA deficiency; increased sensitivity to radiation.
-
-### Wiskott-Aldrich syndrome
-
-- **D:** defect in the WASP gene → leukocytes and platelets cannot recognise the actin skeleton → defective antigen presentation. X-linked recessive.
-
-> [!tip] Mnemonic — "WA-TER"
-> - **T**hrombocytopaenia
-> - **E**czema
-> - **R**ecurrent pyogenic infections
-> - ↑risk of autoimmune disease and malignancy
-
-- **Ix:** ↓IgM levels.
-
-### Hyper-IgM syndromes
-
-- **D:** CD40 gene mutation → IgM cannot switch to other classes.
-- **S/Smx:** severe pyogenic infections early in life; opportunistic infection with *Pneumocystis*, *Cryptosporidium*, CMV.
-- **Ix:** normal or ↑IgM, ↓↓IgG, IgA, or IgE.
-
-## Haematopoiesis — lineage overview
-
-> [!info] Multipotent haematopoietic stem cell (haemocytoblast) divides into:
-> - **Myeloid stem cell** → erythropoiesis (erythroblast → reticulocyte → erythrocyte); thrombopoiesis (megakaryocyte → platelets); granulocytopoiesis (myeloblast → neutrophil, eosinophil, basophil); monocytopoiesis (monocyte → macrophage).
-> - **Lymphoid stem cell** → lymphopoiesis (B cell → plasma cell; T cell → T-helper cell, T-cytotoxic cell; NK cell).
-
-
-<!-- ===== SOURCE: 10_03b_Haemonc_-_Acute_Intermittent_Porphyria.md ===== -->
-
-
-## Acute intermittent porphyria
-
-- **D:** partial deficiency of porphobilinogen deaminase → accumulation of porphyrin precursors and porphyrins → defective haem synthesis. Autosomal dominant.
-- **R:** family history, F>M (5:1).
-- **Exacerbating factors:**
-  - Drugs (e.g. phenytoin, progestins, metoclopramide, sulfonamide antibiotics).
-  - ↓caloric intake.
-  - Smoking (more frequent attacks).
-- **S/Smx:**
-  - Classically presents in patients aged 20–40.
-  - Abdominal pain, vomiting.
-  - Neurological: motor neuropathy.
-  - Psychiatric: depression.
-  - Hypertension and tachycardia.
-- **Ix:**
-  - ↑urinary porphobilinogen and total porphyrins (especially during attacks) — urine will turn deep red on standing.
-  - ↑serum porphobilinogen (PBG) and delta-aminolaevulinic acid (dALA).
-  - Assay of red cells for porphobilinogen deaminase.
-
-> [!warning] Avoid triggers — many drugs listed above are commonly prescribed; check any new medication against a porphyria-safe drug list before administering in a known/suspected case.
-
-- **Mx:**
-  - Avoid triggers.
-  - **During acute attacks:**
-    - IV haemin/haem arginate — specialist treatment.
-    - IV glucose (if IV haemin not available) — ≥300g dextrose (10% glucose).
-  - Other options: givosiran (↓PBG and ↓dALA), liver transplant.
-
-
-<!-- ===== SOURCE: 10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia.md ===== -->
-
-
-> [!info] Definition: anaemia = Hb <120 g/L in non-pregnant females; Hb <130 g/L in males.
-
-## Anaemia — differential diagnosis by MCV and reticulocyte index
-
-> [!info] Microcytic (MCV <80 fL)
-> Thalassaemias, anaemia of chronic disease, iron deficiency, lead poisoning, sideroblastic anaemia.
-
-> [!info] Normocytic (MCV 80–100 fL) — non-haemolytic (reticulocyte index ≤2%)
-> Iron deficiency (early), anaemia of chronic disease, aplastic anaemia, chronic kidney disease.
-
-> [!info] Normocytic (MCV 80–100 fL) — haemolytic (reticulocyte index >2%)
-> **Intrinsic:** membrane defects (hereditary spherocytosis, paroxysmal nocturnal haemoglobinuria); enzyme deficiencies (G6PD deficiency, pyruvate kinase deficiency); haemoglobinopathies (sickle cell anaemia, HbC disease).
-> **Extrinsic:** autoimmune (warm/cold); microangiopathic (TTP/HUS, DIC, malignancy, pre-eclampsia); macroangiopathic (prosthetic heart valves); infections (malaria).
-
-> [!info] Macrocytic (MCV >100 fL)
-> **Megaloblastic:** folate deficiency, vitamin B12 deficiency, Fanconi anaemia.
-> **Non-megaloblastic:** liver disease, alcohol, hypothyroidism, pregnancy, reticulocytosis, myelodysplasia, drugs (e.g. cytotoxics).
-
-*(See [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] for normocytic anaemia in detail, and [[10_06a_Haemonc_-_Macrocytic_Anaemia]] for macrocytic anaemia in detail.)*
-
-## Iron studies interpretation
-
-| | Serum iron | Transferrin/TIBC | Ferritin | % transferrin saturation |
-|---|:---:|:---:|:---:|:---:|
-| **Iron deficiency** | ↓ | ↑ | ↓ | <8 |
-| **Chronic disease** | ↓ | ↓ | ↑ | <15 |
-| **Haemochromatosis (screening)** | ↑ | ↓ | ↑ | >45 |
-
-> [!tip] Transferrin transports iron in the blood. TIBC (total iron binding capacity) is an indirect measure of transferrin. Ferritin functions as iron storage but is also a marker of inflammation — an acute phase reactant, so it can be falsely elevated in active inflammation even with true iron deficiency.
-
-> [!note] See [[03_Gastrointestinal]] Haemochromatosis for the full disease-level entry (genetics, complications, reversibility of specific complications with treatment, and venesection Mx), not repeated here — this table covers only the iron-studies screening pattern.
-
-## Anaemia of chronic disease
-
-- Anaemia secondary to inflammation-mediated ↓RBC production ± ↓RBC survival.
-- Associated with autoimmune disorders, malignancy, infection, critical illness, major trauma or major surgery with delayed recovery, and other chronic disease states (e.g. CKD, HF, COPD).
-- **Mx:** treat the underlying disease; blood transfusion, erythropoiesis-stimulating agents, supplemental iron.
-
-## Iron deficiency anaemia
-
-- **Causes:** inadequate dietary intake (e.g. vegans), poor intestinal absorption, ↑iron requirements (e.g. pregnancy), blood loss (e.g. menorrhagia). In low-income countries, hookworm infections (*Ancylostoma*).
-
-> [!danger] A genuine, severe Australian health equity issue with a striking prevalence gap and a genuinely important long-term consequence — not a generic epidemiological footnote. **Iron deficiency anaemia in Aboriginal and Torres Strait Islander children, particularly in remote communities, occurs at rates many times higher than the general Australian population** — a Northern Territory school screening study found 52% of Indigenous school-aged children (5–15 years) were anaemic; separate Far North Queensland cohort data found 61% of children became anaemic between 6 and 23 months of age, with contributing causes identified as poor nutrition (specifically iron deficiency) and frequent infections rather than a single cause.
-> - **The genuinely important consequence extends well beyond a lab value**: early childhood anaemia is associated with **more than double the risk of developmental vulnerability at school age** across multiple developmental domains (physical health, social competence, emotional maturity, language/cognitive skills) — this is a neurodevelopmental issue with lifelong educational and functional consequences, not merely a correctable blood count.
-> - **Practical implication**: given how common and consequential this is, proactive screening (not waiting for symptoms) in Aboriginal and Torres Strait Islander infants and young children in relevant settings is genuinely important — Iron deficiency anaemia is described as the leading type of anaemia identified in remote-dwelling Aboriginal children specifically, making it a genuinely high-yield target for early detection and treatment in this population, consistent with the broader "Close the Gap" public health framing this issue is discussed under.
-
-> [!danger] In older adults, especially with a history of GI bleeding, iron deficiency anaemia = malignancy until proven otherwise.
-
-- **Ix:** blood films may show RBCs of different sizes/shapes, target cells, and pencil poikilocytes. Endoscopy to rule out malignancy.
-- **Mx:** treat underlying cause; PO ferrous sulfate (can cause abdominal pain, GI upset); iron-rich diet.
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Lead poisoning` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## β-thalassaemia
-
-- **D:** genetic syndrome of ineffective erythropoiesis caused by mutations of the beta-globin gene.
-- **R:** family history.
-- **A/P:** ineffective erythropoiesis. ↓β-chains lead to ↑α-chains and precipitation, causing RBC damage. Erythroid hyperplasia → bony changes in the skull, extra-medullary haematopoiesis (liver, spleen).
-- **S/Smx:** presents in the first year of life with failure to thrive, hepatosplenomegaly; expansion of the bony skull (rarely); microcytic anaemia; ↑HbA2 and HbF, absent HbA.
-- **Ix:** FBC and blood film (*why:* screens for the characteristic microcytic anaemia and RBC morphology directly; *what:* microcytic, hypochromic anaemia with target cells and nucleated RBCs — often more strikingly abnormal than the microcytosis seen in iron deficiency, a useful distinguishing clue). Hb electrophoresis (*why:* the definitive diagnostic test, directly demonstrating the abnormal haemoglobin pattern described above; *what:* raised HbA2 and HbF with absent or markedly reduced HbA, confirming the diagnosis and distinguishing β-thalassaemia major from the milder trait/minor forms). Iron studies (*why:* important both to confirm iron status isn't the driver of the microcytosis, given thalassaemia and iron deficiency can coexist or be confused, and because iron overload becomes a major complication of the transfusion-dependent Mx below, making baseline and ongoing iron monitoring essential; *what:* iron studies help distinguish thalassaemia from iron deficiency at baseline, then monitor for iron overload once transfusion therapy begins). Genetic testing (*why:* confirms the specific mutation, useful for genetic counselling and prenatal diagnosis in affected families; *what:* identifies the specific beta-globin gene mutation).
-- **Mx:**
-  - **Immediate/acute:** regular blood transfusion to correct symptomatic anaemia — genuinely transfusion-*dependent* in the major (severe) form, not just occasionally needed.
-  - **Definitive:** iron chelation (desferrioxamine, or newer oral chelators such as deferasirox) to prevent iron overload from the required regular transfusions — iron overload causing organ failure (cardiac, hepatic, endocrine) is a major cause of morbidity/mortality in inadequately chelated patients, making chelation just as essential as the transfusion itself, not an optional add-on; allogeneic stem cell transplant is the only curative option and is considered in appropriate candidates, particularly with a matched sibling donor.
-  - **Chronic/long-term:** lifelong monitoring for iron overload complications (cardiac function, liver, endocrine — growth, pubertal development, diabetes given pancreatic iron deposition) even with good chelation adherence; splenectomy may be considered if hypersplenism develops and increases transfusion requirements, weighed against the infection risk of subsequent hyposplenism (see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hyposplenism, not repeated here).
-
-## α-thalassaemia
-
-- **D:** genetic syndrome of ineffective erythropoiesis caused by mutations of the alpha-globin gene.
-- **R:** family history.
-- **A/P:** ineffective erythropoiesis (similar to β-thalassaemia).
-- **S/Smx:**
-  - 1–2 α-globin alleles affected — usually asymptomatic.
-  - 3 α-globin alleles affected (= Hb H disease) — variable symptoms: anaemia, jaundice, gallstones, hepatosplenomegaly.
-
-> [!danger] All 4 α-globin alleles affected is incompatible with life (fetus dies in utero).
-
-- **Ix:** FBC and blood film (*why:* screens for microcytic anaemia in the symptomatic forms; *what:* microcytic anaemia of variable severity depending on the number of alleles affected, per the S/Smx above). Hb electrophoresis (*why:* helps confirm the diagnosis, though **interpretation is genuinely more nuanced than in β-thalassaemia** — HbA2 and HbF are typically normal or only mildly affected in α-thalassaemia (unlike the clearly raised HbA2/HbF pattern in β-thalassaemia above), since the electrophoresis pattern primarily reflects β-chain-containing haemoglobins; *what:* may show HbH (a tetramer of excess β-chains, visible specifically in Hb H disease with 3 affected alleles) but is often less diagnostically clear-cut than in β-thalassaemia, making genetic testing more central to diagnosis here). Genetic testing (*why:* given the electrophoresis limitation above, genetic testing (identifying the number and specific type of alpha-globin gene deletions) is often necessary for a definitive diagnosis and is essential for genetic counselling, particularly relevant given the incompatible-with-life risk of the 4-allele form in future pregnancies for carrier couples; *what:* confirms the specific number of affected alleles).
-- **Mx:** if asymptomatic, no treatment necessary. If severe — blood transfusion, splenectomy, consider stem cell transplant.
-
-## Sideroblastic anaemia
-
-- **D:** disorder where RBCs cannot form haem in the mitochondria → deposits of iron in the mitochondria = ring sideroblast.
-- **Causes:** congenital, myelodysplasia, alcohol, lead, anti-TB medications.
-- **Ix:** bloods, iron studies (↑ferritin, ↑iron, ↑transferrin saturation), blood film (basophilic stippling of RBCs), bone marrow aspiration.
-- **Mx:** supportive, treat underlying cause, ± pyridoxine (B6).
-
-## Aplastic anaemia
-
-- **D:** pancytopaenia with a hypocellular marrow and no abnormal cells.
-- **Causes:** idiopathic, congenital (e.g. Fanconi anaemia), drugs (cytotoxics, chloramphenicol, sulphonamides, phenytoin, gold), toxins (benzene), infections (parvovirus B19, hepatitis), radiation.
-
-> [!info] ≥2 of the following must be present:
-> - Hb <100 g/L
-> - Platelets <50 ×10⁹/L
-> - Neutrophils <1.5 ×10⁹/L
-
-- **Mx:** if not severe, monitoring ± steroids or **IVIG (intravenous immunoglobulin)** may be sufficient. If severe or congenital, patients may need a stem cell transplant.
-
-## Anaemia of chronic kidney disease
-
-- Secondary to ↓erythropoietin levels due to declining renal function.
-- Usually becomes apparent when GFR <35 mL/min.
-- **Mx:** optimise iron status and give erythropoiesis-stimulating agents.
-
-
-<!-- ===== SOURCE: 10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease.md ===== -->
-
-
-## Sickle cell disease
-
-- **D:** autosomal recessive disorder causing production of sickle cell Hb and subsequent complications.
-- **R:** family history/genetic.
-- **A/P:** hypoxia and acidosis trigger polymerisation of HbS → rigid, sickle-shaped RBCs.
-  - Occlusion in small vessels or adhesion to vessel walls.
-  - Deformed cells → haemolysis → anaemia.
-  - ± Activation of WBCs.
-  - Anaemia leads to high blood flow, which can cause cardiomegaly ± heart failure.
-- **Dx:** Hb electrophoresis.
-
-### Acute management of sickle cell crises
-
-> [!danger] Analgesia must be offered within 30 minutes of presentation — titrate to the patient's pain, may range from paracetamol to opioids.
-
-- Resuscitation: fluid rehydration, oxygen as needed.
-- Antibiotics as needed.
-- Blood transfusion if >20g/L drop from baseline Hb level.
-- Exchange transfusion reserved for stroke and acute chest syndrome.
-
-### Sickle cell crises — types
-
-> [!info] Thrombotic (painful / vaso-occlusive) crises
-> Triggered by infection, dehydration, deoxygenation (e.g. high altitude). Clinical diagnosis; rule out other possibilities. Infarcts can occur in bones (e.g. avascular necrosis of the hip, hand-foot syndrome in children), lungs, spleen, and brain (stroke).
-
-> [!danger] Acute chest syndrome — vaso-occlusion within the pulmonary microvasculature → infarction in the lung parenchyma. S/Smx: dyspnoea, chest pain, pulmonary infiltrates on CXR, ↓pO2. Mx: analgesia, O2 ± antibiotics; transfusion improves oxygenation. This is the most common cause of death in sickle cell disease after childhood.
-
-> [!info] Aplastic crises — secondary to infection with parvovirus. Sudden fall in Hb; bone marrow suppression causes ↓reticulocyte count.
-
-> [!info] Sequestration crises — sickling within organs such as the spleen or lungs causes pooling of blood with ↓Hb; associated with an ↑reticulocyte count.
-
-> [!note] See [[15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP]] Sickle cell disease for the complementary paediatric-specific detail (antenatal/newborn screening, paediatric-specific S/Smx including dactylitis and maxillary hypertrophy, and paediatric-specific long-term Mx including hydroxycarbamide and penicillin prophylaxis timing) not repeated here.
-
-### Long-term (preventative) management
-
-- Hydroxyurea (↑HbF to prevent painful episodes).
-- **Prophylactic penicillin from around 3 months of age until at least 5 years**, continued longer (or lifelong) in those with increased infection risk such as prior invasive pneumococcal disease or post-splenectomy — erythromycin if penicillin-allergic.
-
-> [!warning] **Corrected during the duplicate-pair audit (2026-08-29).** This line previously read "prophylactic penicillin **if frequent pneumococcal infections** (lifelong)", which makes routine infant prophylaxis sound like a response to recurrent infection. It is not — it is **started in infancy in every child with sickle cell disease, before any infection has occurred**, because functional hyposplenism develops early and the risk it mitigates is fulminant pneumococcal sepsis. [[15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP]] Sickle cell disease already stated the correct schedule (3 months to 5 years); the two entries disagreed and this one was wrong. See `PENDING_GUIDELINE_CHECKS.md` **B44**.
-- Folic acid supplementation if deficient and poor diet.
-- Pneumococcal polysaccharide vaccine every 5 years (due to hyposplenism) — **but vaccination is only one of three parts**, and the current Australian regimen also includes Hib, meningococcal ACWY **and** B, annual influenza, plus long-term antibiotic prophylaxis and a written emergency plan: see [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis for the full source-verified regimen, which applies to functional hyposplenism as it does after splenectomy.
-
-> [!note] Gap-filled — hyposplenism was stated above as the reason for pneumococcal vaccination, without explaining how sickle cell disease causes it. **Why hyposplenism develops:** repeated vaso-occlusive sickling episodes within the spleen (a sequestration crisis, per the box above, is an acute example of this same process) cause recurrent splenic infarction over childhood — the spleen progressively fibroses and shrinks, a process termed **autoinfarction/autosplenectomy**, typically complete by early childhood in most patients. This matters clinically well beyond just explaining the vaccination schedule: a functionally (and eventually anatomically) absent spleen means genuinely **increased susceptibility to overwhelming infection with encapsulated organisms** (*S. pneumoniae*, *H. influenzae*, *N. meningitidis*) — the same underlying vulnerability seen in any hyposplenic/asplenic patient, which is why the vaccination and antibiotic prophylaxis above matter as much as, or more than, the sickle cell disease's haematological complications themselves in terms of preventable mortality.
-
-> [!warning] Sickle cell disease does NOT protect against malaria — patients still need antimalarial prophylaxis when travelling to endemic areas.
-
-## Normocytic haemolytic anaemias — intrinsic causes
-
-### Hereditary spherocytosis
-
-- **D:** inherited abnormality of the RBC caused by defects in structural membrane proteins (autosomal dominant in 75%).
-- **P:** sphere-shaped RBCs due to cytoskeleton defects → ↓surface area of RBC + RBCs destroyed by the spleen.
-
-> [!info] Gap-filled — jaundice, gallstones, and splenomegaly were listed as three separate features without the shared mechanism connecting them. **All three trace back to the same underlying process: chronic haemolysis.** The abnormally-shaped, less deformable spherocytes are recognised and destroyed by the spleen at a substantially increased rate (extravascular haemolysis) — this drives **splenomegaly** directly, from the sheer ongoing workload of destroying abnormal red cells. This same increased red cell breakdown releases haemoglobin, which is metabolised into **unconjugated bilirubin** faster than the liver can conjugate and excrete it, producing chronically elevated bilirubin — hence the **jaundice**. This excess bilirubin is then excreted into bile at higher-than-normal concentrations, and can precipitate as **pigment gallstones** (bilirubin-based, genuinely distinct in composition from the more common cholesterol gallstones) — explaining why pigment gallstones are a well-recognised complication specifically of chronic haemolytic conditions (also seen in sickle cell disease and thalassaemia, not unique to hereditary spherocytosis) rather than a coincidental association.
-
-- **S/Smx:** failure to thrive, jaundice, gallstones, splenomegaly; aplastic crisis precipitated by parvovirus B19 infection.
-- **Ix:** bloods (↑mean corpuscular Hb concentration); blood films (spherocytes).
-- **Dx:** clinical, based on history and labs.
-- **Mx:** acute crisis — supportive ± blood transfusion. Long-term — folate replacement, splenectomy.
-
-> [!warning] **Splenectomy is recommended above and neither hereditary spherocytosis entry said what follows it.** Asplenia carries a lifelong risk of overwhelming sepsis from encapsulated organisms, and the preparation is time-sensitive: **vaccination should be given before an elective splenectomy, not after.** [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hyposplenism owns the vaccination and prophylaxis schedule, and [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis owns the acute presentation. Added by the pairs audit (2026-08-29).
-
-
-### G6PD deficiency
-
-- Enzyme deficiency (X-linked recessive), more common in Mediterranean and African populations.
-- **Precipitating drugs:** antimalarials (primaquine), ciprofloxacin, sulph-group drugs (e.g. sulphonamides, sulphasalazine, sulfonylureas).
-
-> [!info] The mechanism — genuinely worth understanding, given it explains why this specific enzyme deficiency causes haemolysis only under oxidative stress rather than continuously. **G6PD (glucose-6-phosphate dehydrogenase) is the rate-limiting enzyme of the pentose phosphate pathway**, and its product is NADPH — the cell's key reducing agent, needed to regenerate **reduced glutathione**, which protects red cells from oxidative damage. Red cells are particularly vulnerable to this specific deficiency because, lacking a nucleus and mitochondria, the pentose phosphate pathway is their **only** source of NADPH, unlike most other cell types which have alternative NADPH-generating pathways. Without adequate reduced glutathione, an oxidative stressor (the precipitating drugs above, fava beans, or acute infection/illness) causes hydrogen peroxide and other reactive oxygen species to denature haemoglobin, which precipitates within the red cell as **Heinz bodies**; the spleen then removes these precipitates during red cell passage, "biting" a portion of the membrane away and producing the characteristic **bite cells** seen on the blood film — the oxidative damage to the membrane itself also contributes directly to intravascular haemolysis. This is precisely why haemolysis is episodic and trigger-dependent rather than a constant baseline anaemia — the deficiency only becomes clinically apparent when oxidative demand exceeds the limited NADPH-generating capacity available.
-
-- **S/Smx:** neonatal jaundice; intravascular haemolysis; ± gallstones, splenomegaly.
-- **Ix:** blood films (Heinz bodies, bite and blister cells); definitive diagnosis with G6PD enzyme assay (done 3 months after an acute episode of haemolysis).
-- **Mx:** avoid triggers; if chronic and severe — splenectomy.
-
-### Paroxysmal nocturnal haemoglobinuria (PNH)
-
-- Acquired disorder characterised by intravascular haemolysis and thrombophilia, secondary to absence of anchor proteins on the membrane of RBCs.
-
-> [!info] Triad — Coombs-negative haemolytic anaemia, pancytopaenia, venous thrombosis (e.g. Budd-Chiari syndrome).
-
-- **Mx:** eculizumab, stem cell transplant.
-
-### HbC disease
-
-- Mutation in the gene coding for β-globin (glutamic acid to lysine).
-- Causes extravascular haemolysis.
-- Patients with HbSC (1 normal allele, 1 mutated allele) have milder disease.
-- **Ix:** blood film (crystals inside RBCs, target cells).
-
-## Normocytic haemolytic anaemias — extrinsic causes
-
-### Autoimmune haemolytic anaemia (AIHA)
-
-- Decompensated acquired haemolysis caused by the host's immune system attacking its own RBCs.
-- **Ix:** bloods, Coombs test positive.
-
-| | Warm AIHA | Cold AIHA |
-|---|---|---|
-| Antibody | IgG | IgM |
-| Site of haemolysis | Most at body temperature, extravascular (e.g. spleen) | Most at 4°C, complement-mediated, intravascular |
-| Causes | Idiopathic, autoimmune disease (e.g. SLE), neoplasia (e.g. lymphoma), drugs (e.g. methyldopa) | Neoplasia (e.g. lymphoma), infections (e.g. mycoplasma, EBV) |
-| Associated features | — | Raynaud's, acrocyanosis (painless bluish discolouration of both hands) |
-| Mx | Treat underlying disorder; steroids ± rituximab | Less responsive to steroids |
-
-### Thrombotic thrombocytopaenic purpura (TTP)
-
-- Clinical syndrome of microangiopathic haemolytic anaemia and thrombocytopaenic purpura.
-- **A:** post-infection (e.g. GI), pregnancy, drugs (e.g. penicillin, COCP), tumours, SLE, HIV.
-- **P:** absence of ADAMTS-13 (vWF-cleaving enzyme) → large vWF multimers → platelet plugs within vessels.
-- **S/Smx:** anaemia + thrombocytopaenia; microemboli can cause fluctuating neurological signs and renal failure; fever.
-- **Mx:** plasma exchange + steroids. Following resolution of the acute episode, patients can be given aspirin to reduce risk of platelet aggregation.
-
-### Haemolytic uraemic syndrome (HUS)
-
-- Syndrome comprising microangiopathic anaemia, thrombocytopaenia and AKI.
-- **Causes:** classically Shiga toxin-producing *E. coli* (O157:H7), especially in children. Others: pneumococcal infection, HIV, SLE, drugs, cancer.
-- **P:** endothelial injury → microvascular injury and anaemia.
-- **S/Smx:** no specific symptoms apart from infective diarrhoea preceding HUS.
-- **Ix:** FBC (Coombs-negative anaemia), blood films (schistocytes and helmet cells), U&Es (AKI), stool culture/PCR (looking for *E. coli*, Shiga toxins).
-
-> [!danger] No role for antibiotics in HUS.
-
-- **Mx:** supportive — **fluids, blood transfusion, and dialysis where the AKI requires it** (AKI is one third of the defining triad, so renal replacement is part of standard supportive care, not an exception). **Plasma exchange only in severe cases not associated with diarrhoea.**
-- **Typical vs atypical — the distinction that changes management:** the diarrhoea-associated, Shiga-toxin form above is **typical** HUS. **Atypical HUS** arises from dysregulation of the complement cascade (often familial), is not diarrhoea-associated, and is the form in which complement-directed therapy is relevant — so "no diarrhoeal prodrome" is the clue that should prompt asking which type this is.
-
-> [!note] [[15_11_Paeds_-_Urological_and_Renal_Anomalies__Wilms_Tumour__HUS]] Haemolytic uraemic syndrome (HUS) covers the paediatric presentation, where 90% of cases occur. The two entries agree on the triad, the Coombs-negative film findings and the no-antibiotics rule; dialysis, plasma exchange and the atypical form were carried into this entry from there during the pairs audit (2026-08-29).
-
-### Disseminated intravascular coagulation (DIC)
-
-- Activation of coagulation pathways results in formation of intravascular thrombi and depletion of platelets and coagulation factors.
-- **Causes:** sepsis, trauma, obstetric complications (e.g. HELLP syndrome), malignancy.
-- **Ix:** bloods (↓platelets, ↓fibrinogen, ↑PT, ↑APTT, ↑D-dimer); blood film (schistocytes).
-- **Mx:** treat underlying disorder. If platelets <20, or <50 with active bleeding — platelet transfusion. Fresh frozen plasma to replace coagulation factors.
-
-### Macroangiopathic haemolytic anaemia
-
-- Mechanical shearing damage to RBCs.
-- **Causes:** prosthetic heart valves, aortic stenosis.
-- **Ix:** blood films (schistocytes).
-
-### Infections (e.g. malaria)
-
-- ↑destruction of RBCs.
-
-
-<!-- ===== SOURCE: 10_06a_Haemonc_-_Macrocytic_Anaemia.md ===== -->
-
-
-> [!note] Megaloblastic anaemias affect DNA synthesis and inhibit nuclear division → causes the large size of RBCs (megaloblasts).
-
-## Vitamin B12 deficiency
-
-- B12 is needed for the development of RBCs and also for maintenance of the CNS.
-- **Causes:** pernicious anaemia (autoimmune); post-gastrectomy or ileocaecal resection; dietary deficiency (e.g. vegan diet); disorders or surgery of the terminal ileum (e.g. Crohn's disease).
-- **Features:**
-  - Macrocytic anaemia.
-  - Sore tongue/mouth (glossitis).
-  - Neurological symptoms (see subacute combined degeneration).
-  - Neuropsychiatric disturbances, e.g. mood disturbances.
-- **Ix:** FBC and blood film (*why:* screens for the macrocytic, megaloblastic picture; *what:* macrocytosis, hypersegmented neutrophils — see the Folate deficiency entry below for the reason this picture is shared between B12 and folate deficiency, and why both need checking together). Serum B12 level (*why:* directly confirms the deficiency; *what:* a low level supports the diagnosis, though levels can be falsely normal in some early or mild cases). Intrinsic factor and parietal cell antibodies (*why:* screens specifically for pernicious anaemia, the most classically-tested cause, given a positive result confirms the autoimmune mechanism and has implications for associated autoimmune disease screening; *what:* intrinsic factor antibodies are more specific but less sensitive than parietal cell antibodies for pernicious anaemia). Folate level (*why:* should always be checked alongside B12, per the danger box below, given the management-sequencing implications; *what:* identifies any concurrent folate deficiency).
-- **Mx:** if no neurological involvement, IM B12 is sufficient.
-
-> [!danger] Always replace B12 deficiency before folic acid — giving folic acid first can precipitate subacute combined degeneration of the cord. See [[04_Neurology]] Subacute Combined Degeneration of the Spinal Cord for the actual biochemical mechanism behind this rule (the dual role of B12 in methionine synthase and methylmalonyl-CoA mutase, and why folate lacks the second pathway), not repeated here.
-
-## Folate (B9) deficiency
-
-- **Causes:** ↑requirements (e.g. pregnancy), ↓absorption (e.g. alcoholics), drugs (e.g. methotrexate, phenytoin).
-- **S/Smx:** no neurological symptoms (as opposed to B12 deficiency).
-- **Ix:** FBC and blood film (*why:* screens for the macrocytic anaemia and megaloblastic changes shared with B12 deficiency; *what:* macrocytosis, hypersegmented neutrophils — the same megaloblastic picture as B12 deficiency, which is exactly why distinguishing the two on serum levels matters, given the management and urgency differ per the danger box above). Serum folate (and red cell folate, which better reflects tissue stores than serum folate given serum levels can fluctuate with very recent dietary intake) (*why:* directly confirms the deficiency; *what:* low folate level). **B12 level should always be checked alongside folate** (*why:* critical given the danger box above — replacing folate in a patient with an undiagnosed concurrent B12 deficiency risks precipitating or worsening subacute combined degeneration of the cord; *what:* confirms B12 status is adequate before folate replacement, or identifies combined deficiency requiring B12 replacement first).
-- **Mx:** oral folic acid replacement, addressing the underlying cause where identifiable (e.g. dietary advice, reviewing causative medications) — **only once a concurrent B12 deficiency has been excluded or is being treated first**, per the danger box above.
-
-## Fanconi anaemia
-
-- **D:** autosomal recessive cause of bone marrow failure characterised by pancytopaenia.
-- **S/Smx:** aplastic anaemia; increased risk of acute myeloid leukaemia; neurological symptoms; skeletal abnormalities (short stature, abnormalities of the thumb, radius and ulna, lower limb abnormalities); café-au-lait spots.
-- **Mx:** supportive (blood transfusions), stem cell transplant.
-
-## Other causes of macrocytic (non-megaloblastic) anaemia
-
-### Anaemia in liver disease
-
-- Secondary to many causes, including GI haemorrhage, hypersplenism (due to portal hypertension).
-- Associated with clotting disorders due to severe liver disease.
-
-### Anaemia in alcohol use
-
-- Dose-dependent effects.
-- Also linked to nutritional deficiency.
-- ↓RBC production + structurally abnormal RBCs.
-- Associated with ↓WBC, ↓platelets as well.
-
-### Anaemia in hypothyroidism
-
-- Can cause different types of anaemia.
-- Secondary to bone marrow suppression, ↓EPO, or comorbid disease.
-
-
-<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
-
-
-> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Methaemoglobinaemia` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## Antiphospholipid syndrome (APS)
-
-- **D:** association of persistent antiphospholipid antibodies with thromboses and pregnancy-related morbidity.
-- **Antibodies include:** lupus anticoagulant, anticardiolipin antibody, anti-beta2-glycoprotein I.
-- **R:** personal history of SLE (30% of SLE patients are positive for APS antibodies) and other autoimmune disorders.
-
-> [!tip] Mnemonic — "CLOT"
-> - **C**lots — venous/arterial thrombosis
-> - **L**ivedo reticularis (mottled skin)
-> - **O**bstetric complications — recurrent miscarriages, pulmonary hypertension, pre-eclampsia
-> - **T**hrombocytopaenia
-
-- **Ix:** antibodies as above; bloods and clotting screen (↓platelets and ↑APTT).
-- **Mx:**
-  - Primary thromboprophylaxis: aspirin 75mg.
-  - Secondary thromboprophylaxis (after an event has occurred): lifelong warfarin (target INR 2–3); if arterial thrombosis, warfarin (target INR 2–3); if recurrent events, consider adding aspirin.
-  - **In pregnancy:** low-dose aspirin once pregnancy is confirmed; add LMWH (e.g. enoxaparin) once fetal heart is seen on ultrasound, usually discontinued at 34 weeks.
-
-## Thrombocytosis
-
-- **D:** platelets >400 ×10⁹/L.
-- **Causes:**
-  - **Reactive** — platelets are an acute phase reactant, ↑inflammation → ↑platelets (e.g. iron deficiency anaemia, surgery, severe infection).
-  - **Malignancy.**
-  - **Hyposplenism** — ↓ability of the spleen to destroy circulating platelets.
-  - **Essential thrombocytosis** (essential thrombocythaemia).
-
-### Essential thrombocytosis
-
-- **D:** chronic myeloproliferative neoplasm associated with ↑number or ↑size of platelets.
-- **R:** JAK2 mutation in 50% of patients.
-- **S/Smx:** platelets >600 ×10⁹/L; arterial or venous thrombosis; burning sensation in hands.
-- **Mx:** life-threatening thrombosis — plateletpheresis. 75mg aspirin to reduce thrombotic risk. Hydroxyurea (hydroxycarbamide) to reduce platelet count. Interferon-α in younger patients.
-
-## Thrombophilia
-
-- **D:** abnormality of blood coagulation that increases risk of thrombosis.
-- **Causes:** Factor V Leiden (most common), prothrombin gene mutations, antithrombin III deficiency, protein C or S deficiency, antiphospholipid syndrome, combined oral contraceptive pill.
-
-### Factor V Leiden
-
-- Prevalence of up to 6% in white people, rare in other ethnicities.
-- Gain of function in the factor V Leiden protein → increased activity of factor V.
-- Also known as activated protein C resistance, as protein C inactivates factor V much more slowly.
-- Heterozygotes: 4–5× risk of VTE. Homozygotes: 10× risk.
-- **S/Smx:** asymptomatic until a VTE occurs.
-- **Ix:** screening is not recommended even after a VTE, because a previous history of VTE is already considered a risk factor for further events — no need to specifically screen for clotting disorders.
-- **Mx:**
-  - Generally does not require treatment in day-to-day life.
-  - Prophylaxis in hospitalisation, cancer, or surgical procedures — early mobilisation; LMWH, DOAC, or aspirin are options if there is no excessive bleeding risk; if increased bleeding risk, mechanical thromboprophylaxis (e.g. compression stockings, intermittent pneumatic compression).
-  - If VTE occurs, prophylactic DOAC for 3 months (6 months if unprovoked) — see [[01_Cardiovascular]] 0.29 Deep Vein Thrombosis (DVT) and 0.30 Pulmonary Embolism (PE) for the disease-level Mx this feeds into, not repeated here.
-
-> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `Postpartum Infection and Thromboembolism` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-<!-- ===== SOURCE: 10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia.md ===== -->
-
-
-> [!info] Definitions
-> - **Thrombocytopaenia:** platelets <100 ×10⁹/L (normal range 150–400 ×10⁹/L).
-> - **Neutropaenia:** neutrophils <1.5 ×10⁹/L (normal range 2.0–7.5 ×10⁹/L). Mild: 1.0–1.5; Moderate: 0.5–1.0; Severe: <0.5; Agranulocytosis: <0.1 ×10⁹/L.
-
-## Immune thrombocytopenia (ITP)
-
-- **D:** also known as immune thrombocytopenic purpura; autoimmune disorder with isolated ↓platelets in the absence of an identifiable cause.
-- **R:** women of childbearing age, <10 years old or >65 years old.
-- **A:** autoimmune.
-- **P:** antibodies are directed against glycoprotein IIb/IIIa or Ib-V-IX complex → destruction of platelets in the spleen → ↓platelet count.
-- **S/Smx:** can be asymptomatic, picked up on bloods; petechiae, purpura; bleeding (e.g. epistaxis); rarely, catastrophic bleeding (e.g. intracranial haemorrhage).
-- **Ix:** FBC — isolated platelets <100 ×10⁹/L with no other abnormality. Bone marrow examination only if atypical features (e.g. splenomegaly) or failure to respond to treatment.
-- **Mx:**
-  - Life/organ-threatening bleed — **IVIG (intravenous immunoglobulin** — here an immunomodulator, not passive protection; see [[04_Neurology]] Guillain-Barré Syndrome (GBS) for what it is doing and [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Passive Immunisation — Immunoglobulin After an Exposure for the contrast**)** + prednisolone + platelet transfusion.
-  - Platelets <30 or bleeding — prednisolone ± IVIG.
-  - Mild with no other risk factors — consider observation. In children, 80% resolve within 6 months with or without treatment. In adults, only 5–10% resolve — monitor.
-  - Advise avoiding activities that may result in trauma, e.g. contact sports.
-  - **In children specifically:** safety-net for concerning bleeding signs (persistent headache — raises concern for intracranial haemorrhage, melaena, menorrhagia); splenectomy (where needed) is delayed for ≥12 months given the genuine chance of spontaneous resolution in this age group, unlike the lower spontaneous-resolution rate in adults above.
-
-## Thrombocytopaenia — causes by severity
-
-> [!info] Severe thrombocytopaenia
-> ITP, DIC, TTP, haematological malignancy.
-
-> [!info] Moderate thrombocytopaenia
-> - Heparin-induced thrombocytopaenia (HIT) — immune-mediated, antibodies against platelet factor 4 and heparin complex. Develops 5–10 days after treatment. ↓Platelets by ~50%, thrombosis, skin allergy. Mx: stop heparin ± protamine sulfate (if overdose); if anticoagulation still needed, use a direct thrombin inhibitor (e.g. argatroban) or low molecular weight heparinoid (danaparoid).
-> - Drug-induced (e.g. quinine, diuretics, sulphonamides, aspirin, thiazides).
-> - Alcohol and liver disease — portal hypertension → sequestration of platelets in the spleen; ↓thrombopoietin production in the liver.
-> - Hypersplenism — sequestration of platelets in the spleen; viral infections (e.g. EBV, HIV) can lead to hypersplenism.
-> - Pregnancy.
-> - SLE / antiphospholipid syndrome.
-> - Vitamin B12 deficiency.
-
-- **Mx:** treat underlying disorder; platelet transfusions (see 10.08).
-
-## Von Willebrand disease (vWD)
-
-- **D:** inherited bleeding disorder due to either a quantitative or qualitative abnormality of von Willebrand factor (vWF).
-- 80% have Type 1 disease, which is autosomal dominant.
-
-> [!info] Types
-> - **Type 1:** partial ↓vWF (autosomal dominant, most common).
-> - **Type 2:** abnormal form of vWF.
-> - **Type 3:** complete absence of vWF (autosomal recessive, most severe).
-
-- **P:** vWF mediates platelet adhesion to exposed subendothelium at sites of vascular injury; also functions as a carrier molecule for factor VIII. Problems with vWF → ↓platelet adhesion → bleeding problems.
-- **R:** family history, consanguineous parents (especially for Type 3 vWD).
-- **S/Smx:** excessive or prolonged bleeding from minor wounds or post-op; easy and excessive bruising; menorrhagia.
-- **Ix:** bloods — ↑bleeding time, ↑APTT (or normal) ± ↓factor VIII; normal PT, normal FBC usually. Defective platelet aggregation with ristocetin.
-- **Mx:**
-  - Severe active haemorrhage: vWF-containing concentrate ± platelet transfusion.
-  - Less acute settings: tranexamic acid; desmopressin (MOA: induces release of vWF from Weibel-Palade bodies in endothelial cells).
-
-### Other platelet disorders
-
-- **Bernard-Soulier syndrome** — large platelets ("big suckers"); defect in adhesion of platelets due to ↓GpIb.
-- **Glanzmann thrombasthenia** — defect in aggregation due to ↓GpIIb/IIIa.
-
-## Haemophilia
-
-- **D:** X-linked recessive deficiency of a coagulation factor resulting in a bleeding disorder.
-  - Haemophilia A: ↓factor VIII.
-  - Haemophilia B: ↓factor IX (aka Christmas disease).
-- Note: up to 30% of patients have no family history of the condition.
-- **S/Smx:**
-  - History of recurrent or severe bleeding (e.g. prolonged bleeding after trauma or surgery).
-  - Musculoskeletal bleeding — haemarthroses (into joints), bleeding into muscles.
-  - Pseudotumours — recurrent bleeds into soft tissues → chronic encapsulated cystic mass.
-  - Intracranial bleeding — 3–5% of newborn boys with severe haemophilia.
-
-> [!info] Gap-filled — haemarthrosis was listed as a characteristic feature without explaining why joints specifically, rather than skin or mucosa, are preferentially affected. **Mechanism:** joints (particularly high-motion, weight-bearing joints — knees, elbows, ankles) undergo frequent minor microtrauma during ordinary daily activity, causing small capillary bleeds within the synovium — in a person with normal clotting, these are rapidly sealed by **secondary haemostasis** (the clotting factor cascade, culminating in a stable fibrin clot). In haemophilia, this specific pathway is deficient, so these routine, otherwise-inconsequential microtraumas fail to clot properly and progress into significant, clinically apparent joint bleeds — explaining why haemarthrosis is disproportionately prominent in haemophilia specifically, unlike bleeding disorders affecting **primary** haemostasis (platelet disorders), which instead cause predominantly mucocutaneous bleeding (petechiae, epistaxis, gum bleeding) — platelet plug formation, the first-response mechanism for routine minor capillary injury, remains fully intact in haemophilia, since only the factor-dependent stabilisation step downstream is affected. Recurrent haemarthrosis in the same joint leads to chronic synovitis and progressive joint destruction ("haemophilic arthropathy") if bleeds aren't promptly treated — genuinely important given this is a preventable cause of long-term disability, not just an acute bleeding episode.
-
-- **Ix:** bloods — ↑APTT + normal PT, other tests normal. Plasma factor VIII & IX assay will show ↓ or absent factors.
-
-> [!info] APTT measures the intrinsic coagulation pathway, of which factors VIII and IX are part; PT measures the extrinsic pathway, which is not affected in haemophilia.
-
-- Mixing study — patient plasma + normal plasma will show corrected APTT. 10–15% of patients with haemophilia A will develop antibodies to factor VIII treatment.
-- **Mx:**
-  - Prophylaxis — regular infusion of plasma-derived factors; emicizumab in haemophilia A (mimics the action of factor VIII).
-  - Life- or limb-threatening bleed — factor concentrate + supportive care as needed; if the patient has antibodies to factor VIII, they need a bypassing agent.
-
-## Neutropaenia
-
-> [!info] Causes
-> - Viral: HIV, EBV, hepatitis.
-> - Drugs: cytotoxics, carbimazole, clozapine.
-> - Benign ethnic neutropaenia — common in Black or Afro-Caribbean ethnicities, no treatment required.
-> - Haematological malignancies — myelodysplasia, aplastic anaemia.
-> - Rheumatological conditions — Felty's syndrome (RA + splenomegaly + neutropaenia).
-> - SLE (secondary to anti-neutrophil antibodies).
-> - Severe sepsis.
-> - Haemodialysis.
-
-- **Mx:**
-  - Treat or remove the cause — stop offending drugs.
-  - Refer to haematology.
-  - Antibiotic prophylaxis.
-  - Granulocyte colony stimulating factor (G-CSF) can be used.
-
-*(See also [[10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies]] Neutropenic sepsis)*
-
-
-<!-- ===== SOURCE: 10_08_Haemonc_-_Blood_Products_and_Transfusion.md ===== -->
-
-
-## Warfarin — management of high INR
-
-> [!danger] Stop warfarin in ALL patients with an elevated INR requiring management.
-
-> [!info] Verified against the Australasian Society of Thrombosis and Haemostasis consensus guidelines (MJA) and Australian Red Cross Lifeblood clinical guidance, Aug 2026 — the AU-specific INR-banding and doses differ meaningfully from the UK figures this entry previously carried (the table that follows is the Australian management), and there's a genuinely current supply-chain change worth knowing: **Australia transitioned from Prothrombinex-VF (a 3-factor PCC) to Beriplex (a 4-factor PCC) as the standard PCC for warfarin reversal in June 2024** — 4-factor PCC contains all four vitamin K-dependent factors (II, VII, IX, X) at adequate concentration, so **FFP is no longer routinely needed alongside PCC** the way it sometimes was with the older 3-factor product (which lacked adequate factor VII) — a genuine, recent change from older teaching that specified PCC + FFP together. Target INR for most indications (VTE, single mechanical valve excluding mitral) is 2–3; mechanical mitral valve or other high-thrombotic-risk indications may have a higher target (not detailed here).
-
-| Scenario | Australian management |
-|---|---|
-| **Major bleeding, or urgent surgery/procedure needed** | IV Vitamin K1 5–10mg + PCC (Beriplex/4-factor PCC — see note above; FFP not routinely required with 4-factor PCC, unlike older 3-factor protocols) |
-| **INR >9, bleeding absent, high risk of bleeding** | Cease warfarin; IV Vitamin K1 1mg; consider PCC + FFP; recheck INR in 6–12h; resume warfarin at a reduced dose once INR <5 |
-| **INR >9, bleeding absent, low risk of bleeding** | Cease warfarin; Vitamin K1 2.5–5mg PO (or 1mg IV); recheck INR in 6–12h; resume warfarin at a reduced dose once INR <5 |
-| **INR 4.5–10, bleeding absent, no high bleeding risk** | Withholding warfarin alone, with careful subsequent monitoring, is considered safe — Vitamin K may not be needed in this band specifically |
-| **Any INR + bleeding present, not classified as "major"** | Individualised — generally follows the same principle as the major-bleeding row above but with clinical judgement on PCC necessity based on bleeding severity |
-
-## ABO and Rh Compatibility — The Two Opposite Rules
-
-> [!note] Gap-filled — the "universal donor is AB blood" statement below (in the FFP section) is correct **specifically for plasma**, but is exactly the kind of statement that gets confused with the opposite rule for red cells if the underlying logic isn't explained — this entry provides that logic once, given both rules recur throughout this file.
-
-**The core principle: ABO compatibility is about which antigens are present on the cells and which antibodies are present in the plasma — and red cells and plasma have opposite compatibility rules, precisely because it's the *other* component (antigens vs antibodies) that matters for each.**
-
-> [!info] Red cells — matching AVOIDS giving antigens the recipient has antibodies against
-> - **Type O red cells have neither A nor B antigens** — since there's nothing on the cell surface for the recipient's own anti-A/anti-B antibodies to react against, **O red cells can be given to any ABO recipient** — making **O the universal red cell donor**.
-> - Conversely, **type AB red cells carry both A and B antigens** — an AB recipient has neither anti-A nor anti-B antibodies (since their own cells carry both antigens), so **AB recipients can receive red cells of any ABO type** — making **AB the universal red cell recipient**.
-
-> [!info] Plasma — the opposite logic, because plasma is being matched by its antibody content instead
-> - **Type AB plasma contains neither anti-A nor anti-B antibodies** — since an AB person's own cells carry both antigens, their plasma was never exposed to develop antibodies against either — so **AB plasma can be given to any ABO recipient without triggering a reaction against the recipient's own red cell antigens**, making **AB the universal plasma donor** (the statement already in the FFP section above, now with the reasoning behind it).
-> - Conversely, **type O plasma contains both anti-A and anti-B antibodies** (since a type O person's own cells carry neither antigen, their immune system develops antibodies against both) — so **only type O recipients can safely receive type O plasma**, making **O recipients the most restricted for plasma specifically** — genuinely the opposite pattern from red cells, where O is the most flexible donor.
-
-**Rh(D) compatibility — a separate system, layered on top of ABO:** Rh-negative individuals lack the RhD antigen and can develop anti-D antibodies if exposed to RhD-positive blood (via transfusion or, in pregnancy, via fetomaternal exposure — see [[16_01-05_Antenatal_Care]] for the anti-D prophylaxis detail this underlies, not repeated here) — **Rh-negative blood is preferred whenever the recipient's Rh status is unknown or when transfusing Rh-negative individuals specifically**, given the risk of sensitisation with future exposures (transfusion reactions or, for a person capable of pregnancy, haemolytic disease of the newborn in a future pregnancy).
-
-**Practical relevance:** this is why **O-negative red cells are the true "universal donor" blood** referenced in emergency transfusion contexts (see [[03a_Anaesthetics_Primer]] Group & Hold / Crossmatch for the emergency O-negative use principle, not repeated here) — combining the universal-donor property for both the ABO (O) and Rh (negative) systems simultaneously.
-
-## Blood products
-
-### Packed red cells
-
-- Each unit is ~300mL — whole blood is collected from the donor, then plasma is removed.
-- Each bag should raise the patient's Hb by approximately 10 g/L (3% haematocrit).
-- Requires group & save (G&S) and cross-match before administration.
-- Store at 4°C prior to infusion. In a non-urgent scenario, a unit of RBCs is usually transfused over 90–120 minutes. Shelf life ~42 days.
-
-**Indications for giving:**
-- Acute major haemorrhage.
-- Regular transfusions for chronic anaemia.
-- In most other settings, transfusion thresholds: patients without acute coronary syndrome (e.g. STEMI) — <70 g/L; patients with ACS — <80 g/L.
-
-### Platelets
-
-- Platelet-rich plasma, or platelet concentrate (via high speed centrifugation).
-
-> [!warning] Platelets carry the highest risk of bacterial contamination compared to other blood products.
-
-**Indications for giving:**
-- Active bleeding — platelets <30 ×10⁹ with clinically significant bleeding (e.g. melaena); platelets <100 ×10⁹ with severe bleeding or bleeding at critical sites (e.g. CNS).
-- Before an invasive procedure — aim for >50 ×10⁹ in most patients; >50–75 if high risk of bleeding; >100 if surgery at a critical site.
-- If no active bleeding or planned invasive procedure, the threshold for platelet transfusion is <10 ×10⁹ if there are no alternatives.
-
-### CMV-negative and irradiated blood
-
-> [!info] Indications for CMV-negative blood
-> - Granulocyte transfusions
-> - Intra-uterine transfusions
-> - Neonates ≤28 days post expected date of delivery
-> - Pregnancy — elective transfusions during pregnancy (not during labour or delivery)
-
-> [!info] Indications for irradiated blood
-> - Granulocyte transfusions
-> - Intra-uterine transfusions
-> - Neonates ≤28 days post expected date of delivery
-> - Bone marrow or stem cell transplants
-> - Immunocompromised (e.g. chemotherapy or congenital — but not HIV)
-> - Patients with current or previous Hodgkin lymphoma
-
-> [!tip] CMV-negative blood is essentially blood without leucocytes, as CMV is transmitted in leucocytes. Irradiated blood products are depleted of T cells, and are used to avoid transfusion-associated graft versus host disease.
-
-### Fresh frozen plasma (FFP)
-
-- Each unit is ~150–220mL. In warfarin reversal, 30mL/kg is needed — give along with ≥1L fluid in a 70kg person (caution in fluid overload states; may not be suitable).
-- Prepared from single units of blood. Contains clotting factors, albumin and immunoglobulin.
-- Requires G&S and cross-match before administration. Universal donor is AB blood.
-
-**Indications for giving:**
-- Patients with clinically significant but non-major haemorrhage with a PT:APTT ratio >1.5.
-- Prophylaxis for surgery if there is significant risk of bleeding.
-
-### Cryoprecipitate
-
-- Each unit is 15–20mL. FFP is centrifuged → the liquid that remains on top (supernatant) is cryoprecipitate.
-- Contains Factor VIII and fibrinogen among other clotting factors — clinically used to replace fibrinogen.
-- Requires G&S and cross-match before administration.
-
-**Indications for giving:**
-- Patients with clinically significant but non-major haemorrhage with fibrinogen concentration <1.5 g/L (e.g. DIC, liver failure).
-- Emergency situations for haemophiliacs and von Willebrand disease.
-- Prophylaxis for surgery if there is significant risk of bleeding and fibrinogen <1.0 g/L.
-
-### Prothrombin complex concentrate (PCC)
-
-- Aka factor IX complex — a 4-factor PCC containing factors II, VII, IX and X at therapeutic concentration (Beriplex is the current standard Australian product, replacing the older 3-factor Prothrombinex-VF in June 2024 — see the Warfarin Reversal section above for the fuller detail, not repeated here).
-- Dose: Beriplex 50 U/kg.
-- Main indication is emergency reversal of anticoagulation in patients with severe bleeding or head injury with suspected intracranial haemorrhage.
-- Rarely used for prophylaxis.
-
-### Cell saver devices
-
-- Device collects the patient's blood during surgery and re-infuses it — some devices wash the RBCs prior to re-infusion (↓risk of contamination) but are more expensive.
-- May be acceptable to Jehovah's Witnesses.
-- Contraindicated in malignant disease due to risk of increased disease dissemination.
-
-## Massive Transfusion Protocol (MTP)
-
-> [!note] Gap-filled — despite the individual blood products above being thoroughly built, the coordinated protocol tying them together for critical bleeding was genuinely absent, referenced only in passing elsewhere in this project as a cause of dilutional coagulopathy. Verified against Australian Red Cross Lifeblood's "Management of critical bleeding" clinical guidance, Aug 2026.
-
-- **D:** a predefined, coordinated hospital protocol for the rapid, balanced delivery of blood products in critical/life-threatening haemorrhage — activated to prevent the delays inherent in ordering products individually as a crisis unfolds. Massive transfusion is typically defined as ≥10 units of RBC within 24 hours, or transfusion of half the patient's blood volume within 4 hours, or a full blood volume within 24 hours (adult blood volume ≈70mL/kg).
-- **Activation criteria:** life-threatening haemorrhage with a genuine or anticipated need for large-volume transfusion — activated on clinical judgement and anticipated trajectory, not only once a fixed unit-count threshold has already been reached, given the entire purpose is to get ahead of a deteriorating situation rather than react to it.
-
-> [!info] Ratio-based product delivery — the genuinely important Australian-specific point: Lifeblood's institutional guidance specifies **no fewer than 4 units of FFP and 1 adult unit of platelets for every 8 units of RBC** — a minimum ratio framing, distinct from (though broadly in the same direction as) the "1:1:1" ratio more commonly cited internationally from the PROPPR trial. Local Health Districts/hospitals customise this into a site-specific MTP with predefined product "packs," so the exact configuration genuinely varies by institution — check the local protocol rather than assuming a fixed national number. **Viscoelastic haemostatic assay (VHA)-guided algorithms** are an accepted alternative to fixed ratio-based dosing where locally available, allowing product delivery to be tailored to the patient's actual measured coagulation status rather than a predefined ratio alone.
-> - **Fibrinogen replacement:** usual adult target dose 3–4g, achievable via cryoprecipitate (10 units whole-blood-equivalent) or fibrinogen concentrate per local protocol; allow up to 30 minutes thawing time for FFP/cryoprecipitate — a genuinely practical logistic point, given this delay needs to be anticipated rather than discovered mid-crisis.
-> - **Platelets:** thrombocytopenia <50×10⁹/L can be anticipated after two blood-volume equivalents of replacement, from dilution and consumption — aim to keep platelets >50×10⁹/L (higher thresholds for intracranial/spinal bleeding, consistent with the general platelet transfusion thresholds already established above, not repeated here); usual adult platelet dose is 1 unit.
-
-- **Practical/logistic principles beyond the product ratios themselves:**
-  - **Communication between the clinical team and the transfusion laboratory is genuinely critical**, not a secondary administrative concern — MTP is as much a logistics protocol as a clinical one, and delays or miscommunication directly translate into delayed product availability during active haemorrhage.
-  - **Treat the underlying cause of bleeding concurrently** — MTP replaces lost blood volume and coagulation factors, but doesn't itself stop the bleeding; definitive haemorrhage control (surgical, interventional radiological, obstetric per [[16_14-15_Obstetric_Emergencies]] Postpartum haemorrhage (PPH), not repeated here) must proceed in parallel, not be delayed while transfusion catches up.
-  - **Paediatric/neonatal patients require age-specific institutional protocols** for both activation criteria and product dosing — adult ratios and activation thresholds don't transfer directly, given different blood volumes and different tolerance of the products involved.
-- **A genuinely important caution on activation accuracy:** MTP over-activation causes blood product wastage; under-activation risks patient morbidity/mortality from inadequate resuscitation — neither clinical judgement alone nor current scoring systems reliably achieve optimal activation accuracy, which is precisely why predefined institutional criteria (rather than case-by-case discretion alone) are used, even though they remain imperfect.
-
-## Blood product transfusion complications
-
-> [!danger] Acute haemolytic reaction — acute onset of intravascular haemolysis due to ABO-incompatible blood transfusion, resulting in complement activation and an inflammatory cascade; RBC destruction secondary to IgM antibodies. S/Smx: onset within minutes of transfusion — fever, abdominal pain, hypotension; if severe, DIC, ARDS. Mx: stop transfusion, check blood product (identity, blood type, Coombs test), repeat cross-match, fluid resuscitation.
-
-> [!warning] Non-haemolytic febrile reaction — acute onset immune-mediated reaction to blood products. A/P: antibodies against fragments from cells (possible contamination) or WCC, formation of immune complexes. Associated with RCC transfusion (1–2%), platelet transfusions (10–30%). S/Smx: fever, chills. Mx: slow or stop transfusion, paracetamol, and monitor.
-
-> [!tip] Minor allergic reaction — acute onset of minor allergic reaction, possibly due to foreign plasma proteins. S/Smx: pruritus, urticaria. Mx: temporarily stop transfusion, antihistamines, monitor.
-
-> [!danger] Anaphylactic reaction — acute onset of IgE-mediated major allergic reaction. Anaphylactoid reaction in patients with IgA deficiency who have anti-IgA antibodies. S/Smx: hypotension (shock), dyspnoea, wheezing, angioedema. Mx: stop transfusion, IM adrenaline, oxygen, fluid resuscitation.
-
-> [!danger] Transfusion-related acute lung injury (TRALI) — non-cardiogenic pulmonary oedema, possibly secondary to ↑vascular permeability due to host neutrophils being activated by substances in donated blood. S/Smx: hypoxia, pulmonary infiltrates on CXR, fever, ↓BP. Mx: stop transfusion, O2, support as needed.
-
-> [!warning] Transfusion-associated circulatory overload (TACO) — hypervolaemia secondary to excessive transfusion, seen especially in patients with predisposing conditions such as heart failure. S/Smx: pulmonary oedema, ↑BP. Mx: slow or stop transfusion, consider IV furosemide, support as needed.
-
-
-<!-- ===== SOURCE: 10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets.md ===== -->
-
-
-## Anticoagulants
-
-> [!note] See [[03a_Anaesthetics_Primer]] General Anaesthesia for the AU-verified perioperative DOAC/warfarin timing and bridging detail (ANZCA-aligned, 2022 CHEST guideline update) — not repeated here, given this file focuses on ongoing/chronic anticoagulant management and acute bleeding/reversal rather than elective perioperative planning.
-
-**Indications:** prevention of stroke in AF; prevention of VTE following hip and knee surgery; treatment of DVT and PE.
-
-### Direct oral anticoagulants (DOACs)
-
-> [!info] Verified against the NSW Agency for Clinical Innovation's DOAC Guidelines and an Australian retrospective cohort study on real-world reversal practice, Aug 2026 — the reversal-agent table below needed genuine expansion beyond drug names alone, given DOACs are now the dominant/first-line anticoagulant class (see Warfarin below, now explicitly 2nd-line) yet the original note gave them far less practical detail than warfarin's.
-
-| Drug | MOA | Excretion | Reversal |
-|---|---|---|---|
-| Dabigatran | Direct thrombin inhibitor | Mainly renal | Idarucizumab |
-| Rivaroxaban | Direct factor Xa inhibitor | Mainly liver | Andexanet alfa |
-| Apixaban | Direct factor Xa inhibitor | Mainly faecal | Andexanet alfa |
-| Edoxaban | Direct factor Xa inhibitor | Mainly faecal | ? Andexanet alfa |
-
-- **When reversal is actually indicated:** minor bleeding is usually managed with local haemostatic measures, supportive care, and simply withholding the next dose — **reversal agents are reserved for major/life-threatening bleeding, or when urgent reversal is needed for emergency surgery**, not applied routinely for any bleeding on a DOAC.
-- **Idarucizumab (dabigatran reversal):** the specific, effective reversal agent — **genuinely important practical caveat: idarucizumab may not be available in all facilities**, so availability should be confirmed rather than assumed, particularly outside major centres.
-- **Andexanet alfa (rivaroxaban/apixaban reversal):** received TGA **provisional approval** in Australia in July 2023 — a genuinely evolving access situation rather than a settled one, given "provisional" approval and continuing limited stocking mean it is **not reliably available in all Australian hospitals**, even now. **A real-world Australian cohort study found no specific factor Xa reversal agent was actually accessible in practice, with prothrombin complex concentrate (PCC) or activated PCC used off-label instead** — this remains the practical default in many Australian settings when andexanet isn't accessible, not merely a theoretical fallback.
-- **Prothrombin complex concentrate (PCC) — the practical non-specific alternative when a specific reversal agent isn't available (which is genuinely common in Australian practice for factor Xa inhibitors specifically):** used off-label for DOAC reversal, with reasonable evidence for efficacy despite lacking the same trial-level evidence base as the specific agents; a lower thromboembolic risk than andexanet in comparative data, though optimal dosing remains less clearly established than for warfarin reversal.
-- **Practical hierarchy worth holding in mind:** for dabigatran, idarucizumab first if available, PCC/activated PCC as the alternative; for factor Xa inhibitors (rivaroxaban/apixaban), PCC is often the practical Australian default given andexanet's limited real-world accessibility despite formal approval — check current local/hospital protocol rather than assuming a specific agent will be on hand.
-
-### Warfarin
-
-- **MOA:** prevents vitamin K activation.
-- **Indications:** mechanical heart valves; 2nd line after DOACs.
-- **Monitoring:** INR (international normalised ratio — the ratio of the patient's prothrombin time over normal prothrombin time).
-
-> [!warning] Factors potentiating warfarin
-> - Liver disease.
-> - P450 enzyme inhibitors, e.g. amiodarone, ciprofloxacin.
-> - Drugs that displace warfarin from plasma albumin, e.g. NSAIDs.
-> - Drugs that inhibit platelet function, e.g. NSAIDs, aspirin.
-> - Cranberry juice.
-
-- **Side effects:** haemorrhage; teratogenic (but can be used in breastfeeding mothers); skin necrosis (avoid by concurrent heparin administration during the initial phase); purple toes.
-
-### Unfractionated heparin (UFH)
-
-- **MOA:** activates antithrombin III → inhibits thrombin, factors X, IX, XI, and XII (intrinsic pathway).
-- IV administration, short half-life. Monitor using APTT.
-- **Indications:** anticoagulation needed but high risk of bleeding (UFH can be rapidly terminated + has an antidote); renal failure.
-- **Antidote:** protamine sulfate.
-- **Side effects:** thrombocytopaenia (heparin-induced thrombocytopaenia, HIT); osteoporosis, ↑fracture risk; hyperkalaemia.
-
-### Low molecular weight heparin (LMWH)
-
-- E.g. enoxaparin.
-- **MOA:** activates antithrombin III → inhibits only factor Xa.
-- Subcutaneous administration, long half-life.
-- **Indications:** ACS; VTE treatment and prophylaxis.
-- No antidote, and not routinely monitored (fewer side effects).
-
-## Antiplatelets
-
-### Aspirin
-
-- **MOA:** blocks COX1 and COX2 enzymes → ↓prostaglandin, prostacyclin, and thromboxane synthesis → ↓platelet aggregation.
-- **Indications:** first line for ischaemic heart disease (ACS prevention).
-
-> [!danger] Contraindicated in children <16 years old due to risk of Reye's syndrome — except in Kawasaki disease.
-
-- **SE:** as per NSAIDs; also potentiates the effects of oral hypoglycaemics, warfarin, steroids.
-
-### P2Y12 inhibitors
-
-- E.g. clopidogrel, ticagrelor, prasugrel.
-- **MOA:** inhibits the P2Y12 receptor on platelets → ↓platelet aggregation.
-- **Indications:** first line in TIA, ischaemic stroke, and peripheral arterial disease; second line or combined with aspirin in other conditions.
-- **SE:** GI upset.
-
-## Tranexamic acid
-
-- Synthetic derivative of lysine.
-- **MOA:** reversibly binds to lysine receptor sites on plasminogen or plasmin → prevents plasmin from degrading fibrin — anti-fibrinolytic (essentially prevents clots from breaking down).
-- **Indications:** menorrhagia; IV bolus in major haemorrhage (proven benefit if administered within the first 3h).
-
-
-<!-- ===== SOURCE: 10_09b_Haemonc_-_Miscellaneous_Haematology.md ===== -->
-
-
-> [!note] **Moved to `[[Infectious Disease_merged]]` on 2026-09-01:** `Hereditary angioedema` — reproduced there verbatim under a `SOURCE:` divider naming this file.
-
-## Hyposplenism
-
-- **D:** ↓spleen function (due to structural or functional causes).
-- **Causes:** splenectomy; sickle cell disease (can cause splenomegaly, but hyposplenism is more common); coeliac disease; Graves' disease; SLE; amyloid deposits.
-- **Ix:** blood films — Howell-Jolly bodies, siderocytes (RBCs containing non-haemoglobin iron, usually removed by the spleen).
-
-> [!danger] **Mx — and the reason this entry previously stopped at Ix is worth naming.** Hyposplenism was built here as a *finding* (definition, causes, blood film) with **no management at all**, while the full, Australian-verified prophylaxis regimen sits in [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis. Nothing connected them, so a reader arriving at the topic by name met the diagnosis and never the thing that matters.
->
-> **Functional hyposplenism carries the same risk as surgical asplenia.** *The mechanism:* the spleen clears encapsulated organisms opsonised by antibody, and coeliac disease, sickle cell disease and the other causes above impair that function whether or not the organ is present. **Overwhelming post-splenectomy infection (OPSI) is not confined to people who have had a splenectomy** — the "post-splenectomy" framing of the entry that carries the regimen should not be read as excluding these patients.
->
-> **Management is prophylaxis, and it has three parts** — vaccination (pneumococcal, Hib, meningococcal ACWY *and* B, annual influenza), long-term antibiotic prophylaxis, and a written emergency plan with antibiotics kept at home. **The doses, timing and duration are set out and source-verified in [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis and are not repeated here** — including the correction that penicillin V 500mg BD, which appears in older teaching, is double the correct prophylactic dose.
-
-## Splenomegaly
-
-- **D:** increased size ± function of the spleen.
-
-> [!info] Causes of massive splenomegaly
-> Myelofibrosis; chronic myeloid leukaemia; visceral leishmaniasis (kala-azar); malaria; Gaucher's disease (inherited disorder of lipid metabolism).
-
-> [!info] Other causes
-> Portal hypertension; lymphoproliferative disease (e.g. CLL, Hodgkin's); haemolytic anaemia; infection (hepatitis, glandular fever, infective endocarditis); thalassaemia; Felty syndrome (in rheumatoid arthritis).
-
-## Thymoma
-
-> [!warning] FLAG 2026-09-01 — ties to Neuro
-> Thymoma's clinical significance here is largely its myasthenia gravis association, owned by
-> `Neuro_merged D4 §0.5 Neuromuscular Junction Disorders` and `04_Neurology ### Myasthenia Gravis`.
-> Flagged, not moved.
-
-- **D:** neoplasm of the epithelial cells of the thymus gland, located in the anterior mediastinum.
-- **R (associations):** myasthenia gravis (30–40% of thymoma patients); RBC aplasia; dermatomyositis; SLE; SIADH.
-- **S/Smx:** generally asymptomatic — 1/3 of cases are identified incidentally on imaging.
-
-> [!danger] Large tumours can cause chest discomfort, cough, dyspnoea — can cause death if the tumour compresses the airway or heart (cardiac tamponade).
-
-- **Ix:** chest MRI + tissue biopsy.
-- **Mx:** surgical resection if possible + post-op radiotherapy; if recurrent, chemotherapy may be indicated.
-
-## Lymphadenopathy
-
-- **D:** lymph nodes abnormal in size (>1cm), consistency, or number.
-
-> [!info] Causes (↑inflammation)
-> - **Infective:** infectious mononucleosis, HIV (including seroconversion), eczema with secondary infection, rubella, toxoplasmosis, CMV, tuberculosis, roseola infantum.
-> - **Neoplastic:** leukaemia, lymphoma.
-> - **Others:** autoimmune conditions (e.g. SLE), graft versus host disease, sarcoidosis, drugs (e.g. phenytoin, allopurinol, isoniazid).
-
-> [!info] Causes of bilateral hilar lymphadenopathy
-> Sarcoidosis; tuberculosis; lymphoma or other malignancies; pneumoconiosis; fungi (e.g. histoplasmosis).
-
----
-
-## Fatigue and Pallor — Approach and Differential
-
-> [!note] Gap-filled from CSV ("Fatigue" and "Pallor," both Low yield) — genuinely absent as standalone differentials despite being extremely common, non-specific presenting complaints. Kept deliberately concise given the Low-yield status and given the individual causes are already thoroughly built elsewhere throughout this project — this entry's value is the organising framework, not new disease content.
-
-**The core principle:** both are genuinely non-specific — fatigue and pallor are presenting complaints, not diagnoses, and the differential for each is broad enough that a systematic approach (rather than jumping straight to the most obvious cause) is the actual skill being tested.
-
-**Pallor specifically:** while anaemia is the classic and most commonly tested cause (see [[10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia]] for the full microcytic/normocytic/macrocytic approach, not repeated here), **pallor and anaemia are not synonymous** — pallor can reflect reduced cutaneous blood flow without true anaemia (e.g. shock/hypovolaemia, peripheral vasoconstriction from cold or anxiety, hypothyroidism) and, conversely, anaemia is not always visibly apparent as pallor, particularly in patients with more pigmented skin, where conjunctival or palmar crease pallor are more reliable examination sites than facial skin colour alone.
-
-**Fatigue — genuinely one of the broadest presenting complaints in medicine, worth organising by system:**
-- **Haematological:** anaemia of any cause (see the cross-reference above, not repeated here).
-- **Endocrine/metabolic:** hypothyroidism, diabetes (poor control or, conversely, hypoglycaemia), adrenal insufficiency (see [[06_Metabolic_Medicine_and_Endocrinology]] Addison's Disease (Primary Adrenal Insufficiency), not repeated here).
-- **Cardiorespiratory:** heart failure, COPD, obstructive sleep apnoea (via poor sleep quality — see [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]] for the adult OSA entry, not repeated here).
-- **Infective/inflammatory:** any chronic or subacute infection, malignancy (including as a genuinely important red flag alongside other B-symptoms — weight loss, night sweats), chronic inflammatory/autoimmune disease.
-- **Psychiatric:** depression, anxiety, and other mental health conditions are genuinely common causes of fatigue and should be actively screened for rather than only considered once organic causes are excluded — see [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Depression (Major depressive disorder), not repeated here.
-- **Sleep-related:** poor sleep quality/quantity from any cause, including but not limited to OSA above — see [[14_05b_Psych_-_Insomnia]], not repeated here.
-- **Medication-related:** a genuinely easy-to-overlook cause — sedating medications, beta-blockers, and many others can cause fatigue as a side effect, making medication review a routine part of the work-up rather than an afterthought.
-- **Renal/hepatic:** CKD (via anaemia, uraemia, and the disease process itself — see [[07_Renal_Medicine_and_Urology]] Chronic Kidney Disease (CKD), not repeated here) and chronic liver disease.
-
-**Ix — guided by the history/examination and red flags, not a reflexive standard panel:** FBC (anaemia), TFTs, U&Es/LFTs (renal/hepatic causes), fasting glucose/HbA1c, and further targeted investigation guided by specific findings — inflammatory markers, autoimmune screen, or malignancy work-up where the clinical picture supports it, rather than ordered by default for every presentation of fatigue.
-
-**A genuinely important closing point:** the great majority of fatigue presentations in general practice **remain unexplained after reasonable initial investigation**, or reflect lifestyle/psychosocial factors (poor sleep hygiene, stress, overwork) rather than a single organic diagnosis — this is worth holding in mind so that a negative initial work-up is met with continued clinical reasoning and reassurance/lifestyle advice where appropriate, rather than an escalating, indefinitely expanding investigation cascade in search of a diagnosis that may not exist.
-
-
-<!-- ===== SOURCE: 10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies.md ===== -->
-
-
-> [!warning] **This file is named for oncological emergencies and covers three of them — neutropenic sepsis, tumour lysis syndrome, and SVC obstruction. Two more are owned elsewhere and were not pointed at from here at all** (added in the G9 round, 2026-08-29):
-> - **Malignant spinal cord compression** — [[04_Neurology]] Malignant Spinal Cord Compression (MSCC), which owns it in full, including the UMN-pattern distinction from cauda equina syndrome. (A separate, broader entry on non-malignant cord compression from trauma, disc or infection sits in [[11_01_Ortho_-_Orthopaedic_Emergencies]] Spinal cord compression.)
-> - **Hypercalcaemia of malignancy** — [[06_Metabolic_Medicine_and_Endocrinology]] Hypercalcaemia, which owns the CHIMPANZEES differential, the PTH-dependent/independent split that separates malignancy from hyperparathyroidism, and the fluid and zoledronic acid figures.
->
-> Neither is repeated here: **one owner for the numbers, pointers from everywhere else.** The point of this note is that a reader revising "oncological emergencies" from the file of that name was getting three of five, with nothing indicating the other two existed.
-
-## Neutropenic sepsis
-
-- **D:** medical emergency — presence of fever in a neutropenic patient (aka febrile neutropaenia).
-- **A:** infection, most often Gram-positive (*S. aureus*, *S. epidermidis*); also Gram-negative (*E. coli*, *Klebsiella*, *Pseudomonas aeruginosa*).
-- **P:** chemotherapy-induced immunosuppression; mucosal breaches, lines, catheters, etc. as routes of entry.
-- **S/Smx:** mainly fever, but any other symptoms/signs of sepsis.
-
-> [!danger] ASK "when was your last chemotherapy?" — neutropenic sepsis is most likely to occur ~10 days post-chemotherapy, but can occur at any time within 6 weeks.
-
-- **Ix:** FBC (neutrophils <0.5), blood cultures, lactate, LDH, etc.
-
-> [!info] Verified against current Australian Therapeutic Guidelines: Antibiotic practice, Aug 2026 — **piperacillin-tazobactam is confirmed as genuine, current first-line Australian empirical therapy** for sepsis of unknown origin including neutropenic sepsis, not a UK-specific choice as originally flagged — this is a case where checking confirmed the note was already correct rather than needing replacement. The general escalation logic (add vancomycin for suspected line-related sepsis or septic shock; switch to meropenem if risk factors for multidrug-resistant Gram-negative organisms) also matches current Australian guidance. As with the [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis entry, Australian sepsis pathways use the "SEPSIS KILLS" branding rather than "Sepsis 6" — see that entry for the fuller AU-specific detail on the underlying clinical actions, not repeated here; the substance of "Sepsis 6" below (oxygen, cultures, fluids, antibiotics, lactate, urine output) remains clinically appropriate regardless of naming.
-
-- **Mx:**
-  - SEPSIS KILLS / Sepsis 6 principles — see [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis for the full AU-specific framework, not repeated here.
-  - Antibiotics: piperacillin-tazobactam to cover — only 30% of cultures come back positive, so go broad spectrum.
-  - If the patient is still febrile and unwell after 48h, add meropenem ± vancomycin (vancomycin specifically for suspected line-related sepsis or septic shock, per current AU guidance).
-  - If not responding in 4–6 days, order investigations for fungal infection (e.g. HRCT).
-  - ± G-CSF if appropriate.
-
-## Tumour lysis syndrome
-
-- **D:** oncological emergency caused by the rapid breakdown of cancer cells and the subsequent release of large amounts of intracellular content into the bloodstream.
-- **R:** haematological cancer, large tumour burden, treatment-sensitive tumours, recent cancer treatment, pre-existing renal impairment, dehydration, volume depletion, nephrotoxic drugs.
-
-> [!danger] Biochemical picture: ↑K, ↓Ca, ↑PO4, ↑urate, ↑LDH. LDH is a prognostic factor — indicates the rate/level of cell death.
-
-- **S/Smx:** most often occurs in children and young adults; most often when chemotherapy starts (12–72h after). Nausea, vomiting, diarrhoea, anorexia, muscle weakness, muscle cramps, tetany, flank pain, lethargy, paraesthesia, and laryngeal spasm.
-- **Ix:** U&Es, etc.
-- **Mx:**
-  - Fluid resuscitation.
-  - Manage hyperkalaemia.
-  - IV rasburicase for high-risk patients (breaks down uric acid).
-  - Allopurinol for lower-risk patients.
-
-## Superior vena cava obstruction (SVCO)
-
-- **D:** oncological emergency caused by compression of the SVC.
-- **A:** lung cancer (especially small cell lung cancer), non-Hodgkin's lymphoma, other cancers. Non-malignant causes: aortic aneurysm, mediastinal fibrosis, goitre, SVC thrombosis.
-- **P:** compression of the SVC → ↓drainage of blood from the top of the body (head, neck, arms).
-- **S/Smx:** dyspnoea; swelling of face, neck and arms; headache (worse in mornings); visual disturbances (possibly secondary to cerebral oedema); pulseless jugular venous distention.
-
-> [!note] The mechanism by which SVC obstruction causes visual disturbances is not well explained in the literature.
-
-- **Mx:** endovascular stenting to provide symptomatic relief; radical chemotherapy or chemo-radiotherapy in some cancers; ± glucocorticoids (weak evidence).
-
-
-<!-- ===== SOURCE: 10_10b_Haemonc_-_Transplant_Medicine.md ===== -->
-
-
-## 0.1 Graft versus host disease (GVHD)
-
-- **D:** major complication following allogeneic haematopoietic cell transplantation, occurring when donor T cells respond to histoincompatible antigens on host tissues.
-- **R:** HLA disparity (↑degree of mismatch → ↑risk of GVHD); ↑age of donor or recipient; female donor with male recipient; advanced malignant condition; graft source (bone marrow or peripheral blood source associated with ↑risk vs umbilical cord blood).
-- **P:** acute GVHD — antigen presenting cells activate donor T cells → target tissue destruction. Chronic GVHD is not as well understood.
-- Divided into acute and chronic:
-  - **Acute GVHD** — classically within 100 days of transplantation.
-  - **Chronic GVHD** — follows acute disease, or arises de novo after 100 days.
-
-### 0.1.1 S/Smx of acute GVHD
-
-- Skin (80%): painful maculopapular rash (often neck, palms, soles) ± erythroderma or toxic epidermal necrolysis-like syndrome.
-- Liver (50%): jaundice.
-- GIT (50%): watery or bloody diarrhoea, persistent nausea/vomiting.
-- Culture-negative fever.
-- Scoring systems exist that take into account the degree of involvement (grades I to IV).
-
-### 0.1.2 S/Smx of chronic GVHD
-
-- Skin: poikiloderma (pigmented skin disorder), scleroderma, vitiligo, lichen planus, etc.
-- Eyes: keratoconjunctivitis sicca, corneal ulcers, scleritis.
-- GI: dysphagia, odynophagia, oral ulcers, ileus (oral lichenoid changes are characteristically seen early on).
-- Lungs: obstructive or restrictive lung disease.
-
-### 0.1.3 Diagnosis
-
-- Based primarily on clinical symptoms/signs.
-- Tissue biopsy with histopathological confirmation if the aetiology is not clearly determined.
-- Other investigations guided by systems affected.
-
-> [!info] Billingham criteria for diagnosis of GVHD
-> 1. Transplanted tissue contains immunologically functioning cells.
-> 2. Recipient and donor are immunologically different.
-> 3. Recipient is immunocompromised.
-
-### 0.1.4 Management
-
-- **Prophylaxis:** calcineurin inhibitor (e.g. ciclosporin or tacrolimus) AND low-dose methotrexate or mycophenolate.
-- **Acute grade I (skin only):** topical corticosteroid (e.g. hydrocortisone cream) + calcineurin inhibitor.
-- **Acute grade II to IV:** systemic (IV/PO) corticosteroid + calcineurin inhibitor.
-- **Chronic GVHD:** systemic (IV/PO) corticosteroid + calcineurin inhibitor, AND antibiotic prophylaxis (e.g. azithromycin), AND *Pneumocystis* prophylaxis (e.g. TMP-SMX), AND vaccinations.
-
-### 0.1.5 Prognosis
-
-- In acute GVHD, complete response rates ~20–40%. The most important predictor of long-term survival is the primary response to therapy.
-- In chronic GVHD, if treated early, most cases resolve within 5 years. 2-year survival was 74% in one study.
-
-## 0.2 Organ transplant
-
-> [!warning] FLAG 2026-09-01 — overlaps Renal, and this source has zero inbound references
-> `Renal and Urology_merged §0.2.4 Renal Replacement Therapy Modalities`, `§0.2.5 Rejection` and
-> `§0.2.6 Complications of transplant and lifelong immunosuppression` cover the same ground and **are**
-> referenced. **`10_10b_Haemonc_-_Transplant_Medicine` has none.**
-> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers in this vault can be
-> validated at all. It is listed because it coincides with demonstrated content overlap, not instead of it.
-
-> [!info] Types of transplant
-> - **Allograft:** organ transplanted from one individual to another.
-> - **Isograft:** transplant between identical twins.
-> - **Autograft:** transplant to one's own self (e.g. skin graft).
-> - **Xenograft:** transplant from another species (e.g. porcine heart valve).
-
-**Sources of organs:** live donor; DBD (donor brain dead); DCD (donor cardiac dead).
-
-### 0.2.1 Matching organ donor to recipient
-
-- **ABO groups** — incompatibility will result in hyperacute rejection.
-- **Human leucocyte antigens (HLA A, B, C, DR alleles)** — ideally all 8 alleles are matched; ↑degree of mismatch → ↑risk of rejection.
-- **Major histocompatibility antigens.**
-
-### 0.2.2 Types of organ rejection
-
-> [!danger] Hyperacute rejection — occurs immediately, due to pre-formed antigens (e.g. ABO incompatibility). Greatest risk in renal transplants.
-
-> [!warning] Acute rejection — occurs within the first 6 months, T-cell mediated. Tissue infiltrates + vascular lesions. All types of organ transplants are susceptible; can occur in up to 50% of cases.
-
-> [!warning] Chronic rejection — occurs after the first 6 months. Vascular changes mainly → organ ischaemia, e.g. in cardiac transplants, rapid coronary artery disease. ↑risk with previous acute rejections.
-
-
-<!-- ===== SOURCE: 10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers.md ===== -->
-
-
-> [!info] Verified against GLOBOCAN 2022 data (Australia/New Zealand) and AIHW/Cancer Australia statistics, Aug 2026 — the Australian rankings genuinely differ from the UK figures this file previously carried in one particularly important, clinically relevant way: **melanoma ranks far higher in Australia** (2nd most common cancer in males, 4th in females) than in the UK — a direct reflection of Australia's much higher UV exposure and skin cancer burden already covered extensively in [[09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers]], not repeated here. Breast cancer is confirmed as the single most commonly diagnosed cancer overall in Australia (across both sexes combined), a genuinely different headline statistic from the UK data (where breast and prostate are closer, with breast highest among all UK cancers but lung the leading cause of death).
-
-## Common cancers — Australian incidence rankings (2022 GLOBOCAN data, AU/NZ)
-
-> [!info] Most common cancers in males (by number of new cases)
-> 1. Prostate (16.1%)
-> 2. Melanoma (9.1%) — genuinely much higher-ranked than in the UK, reflecting Australia's UV exposure
-> 3. Colorectal (8.2%)
-> 4. Lung (6.6%)
-> 5. Leukaemia (3.0%)
-
-> [!info] Most common cancers in females (by number of new cases)
-> 1. Breast (22.7%)
-> 2. Colorectal (8.8%)
-> 3. Lung (6.3%)
-> 4. Melanoma (6.3%)
-> 5. Corpus uteri (endometrial, 3.4%)
-
-> [!info] Most common cancers overall, both sexes combined
-> 1. Breast (10.3%) — the single most commonly diagnosed cancer in Australia overall
-> 2. Prostate (8.8%)
-> 3. Colorectal (8.4%)
-> 4. Melanoma (7.8%)
-> 5. Lung (6.5%)
-
-> [!note] Cause-of-death rankings (rather than incidence) are not detailed here — lung cancer remains the leading cause of cancer death in Australia despite not being the most commonly diagnosed cancer, the same "high incidence vs high mortality are different rankings" principle as in the original UK-style note, given lung cancer's poorer overall prognosis compared to more commonly diagnosed but more treatable cancers like breast and prostate. Check current AIHW/Cancer Australia data directly for the specific current cause-of-death ranking order, given this shifts somewhat year to year as treatment and screening effectiveness change.
-
-## Metastatic Disease — Bone Metastases and Metastases of Unknown Primary
-
-> [!note] Gap-filled from CSV ("Malignancy with metastases to bone," Medium yield; "Metastases from other organs," Medium yield) — genuinely absent as standalone topics despite bone pain/metastatic bone disease being mentioned throughout this project's oncology-adjacent content (e.g. multiple myeloma's lytic lesions in [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]]) without a dedicated overview entry.
-
-### Bone metastases
-
-- **A/P:** cancer spread to bone via haematogenous or, less commonly, direct/lymphatic routes; the axial skeleton (spine, pelvis, ribs, proximal long bones) is affected far more often than distal bones, given the greater red marrow (and therefore blood supply) in these sites in adults.
-- **Most common primary cancers causing bone metastases** (a genuinely high-yield list): **breast, prostate, lung, kidney, thyroid** — worth memorising as a group, since these five account for the large majority of clinically significant bone metastases; breast and prostate specifically are the two most common overall given their high incidence combined with a genuine propensity to spread to bone.
-- **Lytic vs sclerotic pattern** — a useful, commonly-tested distinguishing feature: **lytic** lesions (bone destruction) are classic for lung, kidney, thyroid, and multiple myeloma (see [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] 0.3 Multiple myeloma for the disease-level detail on myeloma's lytic lesions specifically, not repeated here); **sclerotic** (osteoblastic) lesions are classic for prostate cancer; **breast cancer metastases are often mixed** (both lytic and sclerotic components) — this pattern can itself be a diagnostic clue when the primary is unknown.
-- **S/Smx:** bone pain (often worse at night, and progressive rather than mechanical/activity-related — a useful distinguishing feature from degenerative musculoskeletal pain); pathological fracture (a fracture occurring with minimal or no trauma, from bone weakened by tumour infiltration); hypercalcaemia (from osteoclastic bone resorption, particularly with lytic disease — see the CRABBI mnemonic in [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] 0.3 Multiple myeloma for the calcium-related symptom detail, not repeated here); spinal cord compression if vertebral metastases extend into the epidural space (a genuine oncological emergency — see below).
-- **Ix:** plain film X-ray (*why:* often the first-line imaging test, particularly for a symptomatic specific site; *what:* may show lytic, sclerotic, or mixed lesions per the pattern above, though a significant proportion of bone must be affected before changes become visible radiographically — a normal X-ray doesn't reliably exclude early metastatic disease). Bone scan (technetium-99m) (*why:* more sensitive than plain film for detecting metastatic disease and allows whole-skeleton screening in one study, useful for staging; *what:* areas of increased tracer uptake reflecting osteoblastic activity — note this makes bone scan **less sensitive for purely lytic disease** such as myeloma, which characteristically shows a normal or "cold" bone scan despite extensive lytic disease — a genuinely important exception worth knowing, and part of why whole-body MRI/CT is preferred over bone scan specifically in suspected myeloma). CT or MRI (*why:* provides more detailed anatomical assessment, particularly important if spinal cord compression is a concern given the need to assess the exact relationship to the cord/canal; *what:* directly visualises the lesion and any soft tissue/canal involvement). Bloods — calcium, ALP, LFTs (*why:* screens for the hypercalcaemia complication above and for ALP elevation, which can support bone involvement, particularly with osteoblastic/sclerotic disease; *what:* elevated calcium and/or ALP support active bone metastatic disease).
-- **Mx:**
-  - **Immediate/acute:** analgesia (following the general principles in [[10_11c_Oncology_-_Palliative_Care_Prescribing]] for cancer-related bone pain, not repeated here); urgent MRI and specialist input if spinal cord compression is suspected (new/progressive back pain with neurological symptoms/signs in a patient with known or suspected cancer is a genuine oncological emergency requiring same-day imaging and urgent oncology/neurosurgical/radiation oncology input — do not delay imaging to "see if it settles"); manage hypercalcaemia if present (IV fluids, bisphosphonates).
-  - **Definitive:** radiotherapy for localised painful bone metastases (often very effective for pain palliation); bisphosphonates or denosumab to reduce skeletal-related events (fractures, need for radiotherapy/surgery, hypercalcaemia) in patients with confirmed bone metastases — a genuinely important disease-modifying (for the bone complications specifically, not the cancer itself) intervention rather than pure symptom control; orthopaedic referral for actual or impending pathological fracture, given prophylactic fixation of an impending fracture is often preferable to waiting for it to occur.
-  - **Chronic/long-term:** ongoing bisphosphonate/denosumab therapy per oncology guidance; monitor for treatment-specific complications (e.g. osteonecrosis of the jaw with prolonged bisphosphonate/denosumab use — a recognised, genuinely important long-term risk worth knowing given how commonly tested it is).
-
-### Metastases of unknown primary (cancer of unknown primary, CUP)
-
-- **D:** metastatic cancer confirmed on biopsy where, despite reasonable investigation, no primary tumour site can be identified.
-- **Ix:** the diagnostic approach is guided heavily by the histology and immunohistochemistry pattern on biopsy of the metastatic site — different immunohistochemical marker panels point toward different likely primary sites/tumour types, directly narrowing further investigation (e.g. specific staining patterns can suggest a likely site of origin even without directly visualising the primary tumour) — this histology-first, targeted-investigation-second approach is more efficient than blind whole-body imaging in every case. CT chest/abdomen/pelvis is a reasonable general starting point once histology has narrowed the likely category; more targeted investigation follows the histological clues (e.g. mammography if breast primary suspected, PSA if prostate suspected).
-- **Mx:** where a likely primary can be inferred from histology/immunohistochemistry even without direct visualisation, treatment follows that presumed primary's standard protocol; true unknown-primary disease (histology non-specific) is managed with broad-spectrum chemotherapy regimens and has a generally poorer prognosis than metastatic disease with a known primary, given treatment can't be as precisely targeted.
-
-## Carcinogens
-
-| Carcinogen | Associated cancer |
-|---|---|
-| Aflatoxin (from *Aspergillus*) | Liver (hepatocellular carcinoma) |
-| Aniline dyes | Bladder (transitional cell carcinoma) |
-| Asbestos | Mesothelioma and bronchial carcinoma |
-| Nitrosamines (found in some processed foods) | Oesophageal and gastric cancer |
-| Vinyl chloride (chemical used to make PVC) | Hepatic angiosarcoma |
-
-## Tumour markers
-
-| Marker | Associated cancer |
-|---|---|
-| Ca125 | Ovarian cancer |
-| Ca19-9 | Pancreatic cancer |
-| Ca15-3 | Breast cancer |
-| Prostate specific antigen (PSA) | Prostatic carcinoma |
-| Alpha-fetoprotein (AFP) | Hepatocellular carcinoma, teratoma, and non-seminomatous germ cell tumours (yolk sac/embryonal components) — never elevated in pure seminoma, a genuinely useful discriminator (see [[07_Renal_Medicine_and_Urology]] Testicular Cancer, not repeated here) |
-| Beta-human chorionic gonadotropin (beta-hCG) | Choriocarcinoma, hydatidiform mole (see [[17_04_Ectopic_Pregnancy_and_GTD]] Gestational trophoblastic disease (GTD), not repeated here), and testicular germ cell tumours — elevated in ~15% of seminomas as well as most choriocarcinoma-containing NSGCTs, so (unlike AFP) its presence does not exclude seminoma |
-| Carcinoembryonic antigen (CEA) | Colorectal cancer |
-| S-100 | Melanoma, schwannoma |
-| Bombesin | Small cell lung cancer, gastric cancer, neuroblastoma |
-
----
-
-## TNM Staging — What It Actually Means
-
-> [!note] Gap-filled — "TNM" is referenced by name throughout this project's individual cancer entries (e.g. colorectal cancer's "feeds into the Dukes'/TNM staging," and staging discussions in breast, biliary, and pancreatic cancer elsewhere in this project) but the framework itself was never actually explained anywhere — the same pattern already addressed for MMSE/MoCA (see [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS) Tools) and Notifiable Diseases (see [[08_09_Infectious_Disease_-_Miscellaneous]] Notifiable Diseases in Australia) elsewhere in this project: a concept load-bearing throughout existing content, never itself explained.
-
-**The core system:** TNM is the internationally standardised framework (maintained jointly by the UICC and AJCC) for describing the anatomical extent of most solid tumours — three independent components combine to describe a cancer's extent, which then map onto an overall numbered stage (I–IV) used for prognosis and treatment planning.
-
-> [!info] The three components
-> - **T (Tumour):** size and/or local extent of the primary tumour — typically scored T1 through T4, with higher numbers reflecting larger size or greater local invasion (e.g. invasion into adjacent structures). T0 indicates no evidence of primary tumour; Tis indicates carcinoma in situ (non-invasive).
-> - **N (Nodes):** extent of regional lymph node involvement — typically N0 (no nodal involvement) through N3, with higher numbers reflecting more extensive nodal spread (more nodes involved, and/or nodes further from the primary site).
-> - **M (Metastasis):** presence or absence of distant metastatic spread — M0 (no distant metastasis) or M1 (distant metastasis present), sometimes subdivided by the specific site(s) of metastasis.
-
-**Genuinely important practical points:**
-- **The specific criteria for each T/N/M category are cancer-specific** — T2 breast cancer and T2 colorectal cancer represent different actual tumour sizes/extents, since each cancer type has its own defined staging criteria reflecting what's prognostically meaningful for that specific tumour. TNM is a shared *framework*, not a single universal ruler applied identically to every cancer.
-- **Overall stage groupings (I–IV) combine T, N, and M** into a single number for easier communication and prognostic/treatment-planning use — broadly, Stage I represents early, localised disease; Stage II/III represent progressively more locally advanced or node-positive disease; **Stage IV represents distant metastatic disease (M1) regardless of T or N category** — the presence of distant metastasis alone is sufficient to make a cancer Stage IV, even with a small primary tumour and no nodal involvement.
-- **Clinical (cTNM) vs pathological (pTNM) staging:** clinical staging is based on pre-treatment assessment (examination, imaging, biopsy), while pathological staging is based on findings after surgical resection and histological examination of the removed tissue — pathological staging is generally more accurate (given direct tissue examination) but is only available for patients who undergo surgery, so clinical staging remains essential for treatment planning and for patients who aren't surgical candidates.
-- **Cancer-specific alternative/legacy staging systems still exist alongside TNM** — colorectal cancer's Dukes' staging (already referenced elsewhere in this project) is a classic example, predating TNM and still occasionally used or referenced clinically even though TNM is now the standard; other cancers have their own specific systems (e.g. FIGO staging for gynaecological cancers) rather than using TNM at all — TNM is the dominant framework for most solid tumours, not a universal system covering every malignancy.
-
-**Practical relevance:** whenever a specific cancer entry throughout this project references "staging" or cites a specific T/N/M value, it's using this framework — this entry provides the general structure; the cancer-specific staging criteria and their treatment/prognostic implications are covered within each individual disease entry, not repeated here.
-
-> [!info] Grade vs Stage — a classic, frequently-confused paired distinction worth stating explicitly alongside TNM above, given both concepts are genuinely absent from this project otherwise: **Grade** describes how abnormal the cancer cells look under the microscope compared to normal tissue (differentiation) — typically reported as well, moderately, or poorly differentiated (or a numbered grade, e.g. Grade 1–3), and reflects how aggressively the tumour is likely to behave biologically. **Stage** (TNM, above) describes how far the cancer has actually spread anatomically — tumour size/extent, nodal involvement, and distant metastasis. **The two are independent axes, not two measures of the same thing** — a small, early-stage tumour can be high-grade (aggressive-looking cells, poor differentiation) and, conversely, a more advanced-stage tumour can be low-grade — knowing one doesn't tell you the other, and both genuinely matter for prognosis and treatment planning together, not as substitutes for each other.
-
----
-
-## ECOG Performance Status
-
-> [!note] Gap-filled — genuinely absent everywhere despite being fundamental to oncology treatment decisions; phrases already used elsewhere in this project like "fit patients" vs "frailer/older patients" for AML chemotherapy intensity (see [[10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders]] Acute myeloid leukaemia (AML), not repeated here) are effectively describing ECOG performance status without ever naming or defining the actual scoring system.
-
-**The core purpose:** a simple, widely-used 0–4 scale (developed by the Eastern Cooperative Oncology Group) describing a cancer patient's functional status and ability to tolerate treatment — genuinely one of the most commonly used tools in oncology for standardising communication about a patient's fitness for a given therapy, and for comparing outcomes across clinical trial populations.
-
-> [!info] ECOG Performance Status scale
-> - **0:** fully active, able to carry on all pre-disease activities without restriction.
-> - **1:** restricted in physically strenuous activity, but ambulatory and able to carry out light/sedentary work.
-> - **2:** ambulatory and capable of all self-care, but unable to work; up and about more than 50% of waking hours.
-> - **3:** capable of only limited self-care; confined to bed or chair more than 50% of waking hours.
-> - **4:** completely disabled; cannot carry out any self-care; totally confined to bed or chair.
-> (Some versions include a **5**, denoting death — relevant in clinical trial/research contexts rather than routine clinical documentation.)
-
-**Genuinely important practical relevance — this score actively drives treatment decisions, not just describing the patient:**
-- **ECOG 0–1** patients are generally considered fit for standard intensive treatment (chemotherapy, surgery) without particular reservation.
-- **ECOG 2** is a genuine grey zone — cytotoxic chemotherapy is still commonly offered for solid tumours at this level in routine practice, though this population is significantly under-represented in the clinical trials that generated the efficacy evidence in the first place, so the evidence base for treating ECOG 2 patients is genuinely weaker than for ECOG 0–1. Some patients at ECOG 2 may improve with supportive interventions (nutrition, physiotherapy) enough to become better treatment candidates.
-- **ECOG ≥3** generally represents a threshold where cancer-directed therapy is often reconsidered in favour of best supportive/palliative care — reflecting both a poor demonstrated treatment tolerance and response rate at this functional level, and a recognition that aggressive treatment may cause more harm than benefit for a patient this functionally limited, though this remains an individualised decision rather than an absolute rule (some patients with reversible causes of poor performance status, e.g. an easily treated complication, can still benefit).
-- **Relevant beyond systemic therapy too** — surgical candidacy is also commonly assessed against ECOG status, with ECOG 2 or below often required for major surgery to be considered a reasonable option, though this varies by procedure and individual circumstances.
-
-**A genuinely important limitation to keep in mind:** ECOG-PS, despite being intended as an objective measure, shows real inter-rater variability — different clinicians (and patients themselves) can score the same patient differently, and it's a broad functional snapshot rather than a comprehensive geriatric or frailty assessment. It remains a genuinely useful, simple, widely-understood common language for describing fitness for treatment, but shouldn't be treated as a precise or infallible measurement.
-
----
-
-## Treatment Intent — Neoadjuvant, Adjuvant, and Palliative
-
-> [!note] Gap-filled — "neoadjuvant" is used correctly in [[10_12_Oncology_-_Breast]] ("chemotherapy... neoadjuvant to downstage the primary lesion") but never defined, and its counterpart "adjuvant" isn't mentioned there at all — the same "assumed but never explained" pattern already addressed for TNM and ECOG above in this file, not repeated here. This distinction underlies treatment planning across essentially every solid tumour discussed throughout this project.
-
-**The core distinction is about *timing and purpose* relative to the primary definitive treatment (usually surgery), not about which specific drugs are used:**
-
-- **Neoadjuvant therapy:** given **before** the primary definitive treatment (typically surgery) — purposes include **downstaging** a tumour to make it operable or to allow a less extensive operation (e.g. breast-conserving surgery instead of mastectomy), treating micrometastatic disease as early as possible, and providing an early in-vivo assessment of how well the tumour responds to a given systemic therapy (useful information that isn't available if the same drug is only ever given after surgery).
-- **Adjuvant therapy:** given **after** the primary definitive treatment, once no detectable disease remains — purpose is to eliminate microscopic residual disease that imaging/pathology can't detect, reducing the risk of recurrence. This is genuinely different in intent from neoadjuvant therapy even when the exact same drug is used, given the goal (mopping up invisible residual disease vs shrinking a known visible tumour) is different.
-- **Palliative therapy:** given with the primary intent of controlling symptoms and improving quality of life/prolonging survival in the context of disease **not expected to be cured** — a fundamentally different goal from neoadjuvant/adjuvant therapy, which are both given with curative intent. This distinction genuinely changes how treatment intensity, side-effect tolerance, and treatment goals should be discussed with a patient — see [[10_11c_Oncology_-_Palliative_Care_Prescribing]] for the fuller palliative care detail, not repeated here.
-
-**Practical relevance:** the same drug (e.g. a specific chemotherapy regimen) can be used neoadjuvantly, adjuvantly, or palliatively depending on the clinical scenario — the drug itself doesn't determine the "intent" label, the treatment plan and goal do. Whenever a specific cancer entry throughout this project mentions "neoadjuvant" or "adjuvant" treatment, it's using this framework — this entry provides the general distinction; cancer-specific protocols and evidence for when each is used are covered within each individual disease entry, not repeated here.
-
----
-
-## Cancer Outcomes in Aboriginal and Torres Strait Islander Australians
-
-> [!danger] A genuine, severe Australian health equity issue — not a generic epidemiological footnote, and genuinely different in character from most disparities already noted elsewhere in this project (which are mostly about a condition being more *common*). This is specifically about **worse survival after an equivalent diagnosis** — a systems-level care-pathway issue, not primarily a difference in disease biology.
-> - **Aboriginal and Torres Strait Islander Australians diagnosed with cancer have a genuinely higher probability of dying from that cancer within 5 years than other Australians, even after accounting for competing causes of death** — a national cohort study found the 5-year crude probability of cancer death was 0.44 for Indigenous Australians, around 7 percentage points higher than for other Australians, translating to roughly 1 in 13 average-year cancer diagnoses (2012–2016 data) representing a death that would potentially have been avoided with equivalent survival.
-> - **The disparity is concentrated specifically in the first 2 years after diagnosis** — a genuinely important pattern pointing toward later-stage diagnosis, delayed or incomplete access to treatment, and screening participation gaps as the likely drivers, rather than the cancer itself behaving more aggressively once diagnosed.
-> - **The magnitude varies substantially by cancer type — head and neck cancers and cervical cancer show among the largest survival gaps of any cancer type** (an excess ~20 percentage-point probability of cancer death, several times larger than the gap for cancers like pancreatic, prostate, or uterine cancer) — directly relevant given [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) is built elsewhere in this project; the red-flag symptom awareness already established there matters even more given how much this specific cancer's outcome gap reflects delayed diagnosis.
-> - **Breast cancer specifically**: Aboriginal and Torres Strait Islander women carry roughly twice the disease burden and have poorer survival than other Australian women — partially, but not fully, explained by more diagnoses at a later stage, pointing to screening participation and post-diagnosis treatment pathways as contributing factors beyond stage at presentation alone.
-> - **The practical, clinically actionable takeaway**: given the disparity concentrates early and relates to pathway/access factors rather than inherent tumour biology, the areas with genuine potential for impact are exactly the ones already emphasised throughout this project — proactive symptom recognition and red-flag awareness (reducing diagnostic delay), supporting screening participation, and ensuring treatment access and completion once a diagnosis is made — rather than assuming a worse prognosis is an unavoidable biological given for this population.
-
-
-<!-- ===== SOURCE: 10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes.md ===== -->
-
-
-## 0.1 Li-Fraumeni syndrome
-
-> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
-> **`10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes` has 3 inbound references and ALL THREE
-> ARE FROM `GP_merged.md`** — nothing in haematology or oncology points at it.
-> **`GP_merged NEW_Investigations_General_and_Preventive §0.14 Genetic Risk Assessment` and
-> `§0.15 Genetics and Molecular Testing` point here**, and this file does not point back.
-> `Pediatrics_merged 15_18b Genetic Disorders Inheritance Summary` and `15_20`–`15_21` hold the
-> syndrome genetics from the paediatric side.
-> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
-
-- **D:** cancer predisposition disorder due to germline mutations in the p53 tumour suppressor gene. Autosomal dominant.
-- **Cancers:** sarcomas, leukaemias.
-- Tends to be diagnosed when a patient develops sarcoma before age 45. May also be diagnosed on screening when another family member develops cancer <45 years old, or sarcoma at any age.
-- **Ix:** germline TP53 genetic testing (*why:* the definitive diagnostic test, confirming the causative mutation directly; *what:* identifies a pathogenic TP53 variant, typically offered based on family history meeting the Chompret criteria or similar clinical risk-assessment thresholds, with pre- and post-test genetic counselling given the significant implications of a positive result for the patient and their relatives — the same counselling principle established for BRCA testing below, not repeated in full here). Whole-body MRI surveillance (*why:* once a pathogenic mutation is confirmed, this is the key ongoing investigation for early cancer detection, given the very broad tumour spectrum in this condition makes site-specific screening alone inadequate; *what:* used for periodic whole-body cancer surveillance in confirmed mutation carriers, given the genuinely wide range of cancers this predisposes to).
-- **Mx:** no cure; patients should adhere to preventive screening.
-
-## 0.2 BRCA1 and BRCA2 mutations
-
-- BRCA1 is on chromosome 17; BRCA2 is on chromosome 13.
-- 55–72% of women with BRCA1 and 45–69% of women with BRCA2 will develop breast cancer by age 70–80 — in contrast to 13% in the general population (4–6× prevalence).
-- Also associated with increased risk of developing breast cancer in the contralateral breast after a first breast cancer diagnosis.
-- 39–44% of women with BRCA1 and 11–17% of women with BRCA2 will develop ovarian cancer by age 70–80 — in contrast to 1.2% in the general population.
-- BRCA2 is associated with prostate cancer in men.
-- **Ix:** genetic testing (germline BRCA1/BRCA2 sequencing) — offered based on personal/family history meeting risk-assessment criteria (e.g. multiple affected relatives, early-onset breast cancer, triple-negative breast cancer, male breast cancer, ovarian cancer, Ashkenazi Jewish ancestry with even a single affected relative) rather than universally, given genetic counselling both before and after testing is essential — a positive or negative result carries significant implications for the patient and their relatives, and pre-test counselling ensures the patient understands this before proceeding.
-- **Mx (risk management, not treatment of an existing cancer — see [[10_12_Oncology_-_Breast]] Breast cancer for the disease-level treatment approach once a cancer has actually developed, not repeated here):**
-  - **Enhanced screening:** earlier and more frequent breast surveillance than the general population (e.g. annual MRI ± mammography starting well before the general screening age, given the substantially elevated lifetime risk above); no established effective ovarian cancer screening test exists, which is part of why risk-reducing surgery (below) is more strongly emphasised for ovarian cancer risk specifically than a screening-based approach.
-  - **Risk-reducing surgery:** bilateral risk-reducing mastectomy substantially reduces (though doesn't completely eliminate, given some breast tissue inevitably remains) breast cancer risk, and is a genuine option some carriers choose, particularly BRCA1 carriers given their higher risk; risk-reducing bilateral salpingo-oophorectomy substantially reduces ovarian cancer risk and is generally recommended once childbearing is complete, given the lack of an effective ovarian screening alternative makes this a more strongly favoured option than for breast risk.
-  - **Chemoprevention:** hormonal risk-reduction options (e.g. tamoxifen) may be considered for breast cancer risk reduction in appropriate candidates, as an alternative or adjunct to surgical risk reduction.
-  - **Family/cascade testing:** first-degree relatives of a confirmed carrier should be offered testing for the specific familial mutation, given each first-degree relative has a 50% chance of carrying the same mutation — this cascade testing principle is a genuinely important, actionable step beyond the index patient alone.
-  - **Reproductive counselling:** relevant given the autosomal dominant inheritance pattern and the option of preimplantation genetic testing for carriers planning a family, though this is a nuanced, personal decision area rather than a directive recommendation.
-
-## 0.3 Lynch syndrome
-
-- **D:** also known as hereditary non-polyposis colorectal cancer syndrome — a predisposition to developing colorectal cancer (and endometrial cancer). Autosomal dominant.
-
-> [!info] **Amsterdam II criteria** (to help identify patients at high risk) — the "3-2-1 rule"
-> - **3** — ≥3 family members with a confirmed diagnosis of a Lynch syndrome-related cancer (colorectal, endometrial, small bowel, ureter, or renal pelvis), **one a first-degree relative of the other two**.
-> - **2** — ≥2 successive affected generations.
-> - **1** — **≥1 of those cancers** diagnosed at <50 years old.
-> - Familial adenomatous polyposis excluded in any colorectal cases.
->
-> **The cancer list and the age criterion must match, and previously did not:** this box carried the Amsterdam **II** cancer list (which added endometrial, small bowel, ureter and renal pelvis) while the age criterion still read "≥1 **colon** cancers diagnosed at <50" — the older Amsterdam **I** wording, which was colorectal-only. A family meeting Amsterdam II through, say, three endometrial cancers would have failed the age criterion as written. Corrected in the G1 round (2026-08-29). See `PENDING_GUIDELINE_CHECKS.md` **B52**.
-
-- **Ix:** tumour testing on any diagnosed colorectal or endometrial cancer — microsatellite instability (MSI) testing and/or immunohistochemistry for mismatch repair (MMR) protein expression (*why:* Lynch syndrome is caused by inherited defects in DNA mismatch repair genes, so tumours characteristically show MSI-high status or loss of specific MMR protein staining — this is now routinely performed on colorectal/endometrial cancers as an initial screen to identify patients who should proceed to germline testing, rather than relying on family history criteria (like Amsterdam, above) alone, given family history-based criteria miss a meaningful proportion of cases; *what:* MSI-high status or absent staining for a specific MMR protein (MLH1, MSH2, MSH6, or PMS2) points toward the specific gene likely affected, directly guiding germline testing). Germline genetic testing for the specific MMR gene (*why:* confirms the diagnosis definitively and identifies the specific mutation for cascade testing of at-risk relatives; *what:* identifies the causative germline mutation, with genetic counselling before and after testing given the significant implications, per the same general principle established for BRCA testing above).
-- **Risk management:** e.g. colonoscopy starting at age 20, repeated every 1–2 years; colectomy if surveillance measures are not possible.
-
-## 0.4 Familial adenomatous polyposis (FAP)
-
-- **D:** cancer predisposition disorder where numerous adenomatous polyps line the intestinal mucosal surface, with a high potential for malignancy. One variant is known as Gardner syndrome. Autosomal dominant.
-- Mutation of the APC gene, located on chromosome 5.
-
-> [!info] Gardner syndrome features
-> Numerous colonic polyps; skull osteoma; thyroid cancer; epidermoid cysts; desmoid tumours in 15% (soft tissue tumour, aka aggressive fibromatosis).
-
-- **Ix:** colonoscopy (*why:* the key screening/diagnostic test, given the diagnosis is often suspected first from the sheer number of polyps visualised endoscopically, classically hundreds to thousands, which is itself distinctive enough to prompt genetic testing; *what:* numerous (often innumerable) colonic adenomatous polyps, a pattern distinctly different from sporadic colorectal polyps in both number and age of onset). Germline APC genetic testing (*why:* confirms the diagnosis and identifies the specific mutation for cascade testing of at-risk relatives, given the high (near-100% if untreated) lifetime colorectal cancer risk makes early identification of at-risk family members genuinely important; *what:* identifies the causative APC mutation).
-- **Mx:** many patients undergo colectomy ± proctectomy to reduce risk of colorectal cancer.
-
-## 0.5 Von Hippel-Lindau disease
-
-- **D:** disease characterised by growth of cysts and/or tumours (benign or malignant). Autosomal dominant.
-- **Tumours:** haemangioblastomas, renal cell carcinoma, pancreatic neuroendocrine tumours, phaeochromocytomas, etc. Symptoms depend on tumour location — e.g. CNS tumours can cause ataxia.
-- **Ix:** genetic testing (VHL gene mutation) confirms the diagnosis in a patient with a suggestive personal/family history; once confirmed (or in an at-risk relative), **lifelong periodic surveillance imaging** is the key ongoing investigation given the multi-organ tumour risk above — regular MRI brain/spine (for haemangioblastomas), abdominal imaging (for renal cell carcinoma and pancreatic lesions), and biochemical screening for phaeochromocytoma (e.g. plasma or urinary metanephrines) — the specific surveillance schedule and modalities are guided by specialist genetic/oncology protocols given the number of organ systems involved, not detailed further here.
-- **Mx:** surgical removal of tumours, guided by the surveillance findings above — the emphasis on structured, lifelong surveillance (rather than treatment only once symptomatic) reflects the goal of catching malignant transformation (particularly renal cell carcinoma) or dangerous functional tumours (phaeochromocytoma) early, given the multi-organ, recurring nature of this condition over a patient's lifetime.
-
-
-<!-- ===== SOURCE: 10_11c_Oncology_-_Palliative_Care_Prescribing.md ===== -->
-
-
-> [!info] Verified against Australian palliative care prescribing resources (Therapeutic Guidelines: Palliative Care at tg.org.au, WA Cancer and Palliative Care Network guidelines, NSW CEC last-days-of-life guidance), Aug 2026 — found one genuinely important correction beyond "check locally": **diamorphine (heroin) is not used in Australian clinical practice** — it's a UK-specific palliative/anaesthetic drug, essentially unavailable here, so the diamorphine conversion figures below should not be used in an Australian context at all (not just "verify the numbers" — the drug itself isn't part of the Australian formulary for this indication). Australian practice uses morphine, oxycodone, hydromorphone, and fentanyl as the standard opioid options instead — hydromorphone in particular is commonly used in Australian palliative care (including for renal impairment, given a more favourable metabolite profile than morphine) and is a genuinely more prominent option in Australian teaching than this UK-sourced file reflects.
-> Beyond that specific drug-availability point, the broader principles cross-check reasonably well against Australian sources: **breakthrough dose = one-sixth of the daily dose is confirmed** by WA Cancer and Palliative Care Network guidelines; the general PO morphine : PO oxycodone ≈ 2:1 ratio is broadly consistent with Australian references. However, **the specific PO→SC morphine ratio genuinely varies even between Australian sources** (2:1 in some services' guidelines, 3:1 in others citing the Therapeutic Guidelines directly) — this reflects genuine practice variation rather than a single settled Australian figure, so treat the ratio below as illustrative and always confirm against the current Therapeutic Guidelines: Palliative Care or local palliative care service protocol before calculating an actual dose, given how safety-critical this conversion is.
-
-## General principles
-
-> [!warning] FLAG 2026-09-01 — palliative care has 31 inbound references and none from haematology
-> `10_11c_Oncology_-_Palliative_Care_Prescribing` (11 inbound: **Anaes ×4**, GP, MSK) and
-> `J5 §0.4–§0.6` (20 inbound) are referenced from across the vault but not from within this file's
-> subject. `Geriatrics_merged GER2 §0.5 End-of-Life Care` and `§0.6 Advance Care Planning` are the
-> other half. **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty:
-> nothing has been moved.**
-> **Opioid conversion appears in five places** (here, `Anaes 03a §0.7`, `AN1 §0.6`,
-> `NEW_Drugs_03 §0.4`, `Emergency F0-4 §0.9/§0.10`).
-
-- Breakthrough dose of a strong opioid is one-sixth of the daily dose — confirmed consistent with Australian palliative care guidance (see note above).
-- Laxatives for all patients on opioids.
-- **In renal impairment:** hydromorphone and fentanyl are generally preferred in Australian practice given more favourable metabolite clearance profiles than morphine; oxycodone requires caution and dose reduction rather than being a clearly preferred first choice — check current Therapeutic Guidelines: Palliative Care renal-impairment-specific dosing tables directly given this is a genuinely nuanced, patient-specific decision.
-- **For metastatic bone pain:** options include strong opioids, bisphosphonates, radiotherapy; consider denosumab; consider referral to oncologist.
-- **When increasing the dose of opioids:** increase by 30–50% (i.e. 1.5× the dose for both regular and breakthrough doses) — this general titration principle is not jurisdiction-specific and doesn't need correction.
-- **Side effects:** nausea and drowsiness tend to be transient; constipation is usually persistent.
-
-## Conversion between opioids
-
-> [!danger] Opioid conversion is high-risk and errors can be fatal. The figures below are illustrative only — always calculate using the current Therapeutic Guidelines: Palliative Care (tg.org.au) conversion tables directly, or with specialist palliative care input, rather than relying on a static reproduction here. **Diamorphine is not used in Australian practice** (see note above) — use morphine, oxycodone, hydromorphone, or fentanyl equivalents instead.
-
-**Oral preparations**
-- Codeine → morphine: divide by 10.
-- Tramadol → morphine: divide by 10.
-- Morphine → oxycodone: divide by 2 (broadly consistent across Australian and international sources).
-
-**Transdermal patches**
-- 12mcg fentanyl patch ≈ 30mg PO morphine (per 24h) — broadly consistent internationally, but confirm the exact current figure against the Therapeutic Guidelines directly given patch-based conversion is particularly safety-critical.
-- Buprenorphine patch conversions vary by specific patch strength — check the current Therapeutic Guidelines table directly rather than a single ratio.
-
-**Subcutaneous delivery**
-- PO → SC morphine: ratio genuinely varies between Australian sources (2:1 to 3:1) — see the note above; confirm against current Therapeutic Guidelines or specialist palliative care input before calculating an actual patient dose.
-- **Diamorphine-based conversions are not applicable in Australian practice** — for parenteral opioid switching, use morphine, oxycodone, or hydromorphone subcutaneous conversion tables from the current Therapeutic Guidelines: Palliative Care instead.
-
-## Symptom management in palliative care
-
-> [!info] Hiccups
-> Chlorpromazine; haloperidol, gabapentin ± dexamethasone (especially if hepatic lesions).
-
-> [!info] Secretions ("death rattle")
-> Hyoscine (Buscopan); glycopyrronium.
->
-> Educate family that the patient is likely not troubled by secretions themselves.
-
-> [!info] Nausea and vomiting — matched to likely mechanism
-> - **↓Gastric motility:** metoclopramide, domperidone.
-> - **Chemically mediated:** ondansetron, haloperidol, levomepromazine.
-> - **Visceral/serosal:** cyclizine, levomepromazine ± Buscopan.
-> - **↑ICP:** cyclizine, dexamethasone ± radiotherapy if secondary to a lesion.
-> - **Vestibular:** cyclizine, metoclopramide, prochlorperazine, atypical antipsychotics (olanzapine).
-> - **Cortical (e.g. anticipatory):** lorazepam, cyclizine.
-
-*(Note: haloperidol and chlorpromazine/chlorperazine appear both in the hiccups and nausea sections in the source material — a reflection of overlapping antiemetic/antidopaminergic mechanisms rather than an error.)*
-
-
-<!-- ===== SOURCE: 10_12_Oncology_-_Breast.md ===== -->
-
-
-## Breast cancer
-
-- **D:** ductal or lobular carcinoma — carcinoma in situ vs invasive.
-
-> [!info] Most common types
-> - Invasive ductal carcinoma — most common, also called "No Special Type (NST)".
-> - Invasive lobular carcinoma.
-> - Ductal carcinoma-in-situ (DCIS).
-> - Lobular carcinoma-in-situ (LCIS).
-
-- **R:** ↑age, F>M, family history, genetics, oestrogen exposure (endogenous and exogenous), alcohol, radiation.
-- **S/Smx:**
-  - Lump — hard, irregular, fixed in place ± tethered.
-  - Nipple retraction; discharge.
-  - Skin dimpling.
-  - Paget's disease of the breast — eczematoid change of the nipple, associated with underlying breast cancer.
-  - Inflammatory breast cancer — cancer cells block lymph node drainage.
-
-> [!info] Verified against Cancer Australia's Optimal Care Pathway for Breast Cancer and the RACGP-endorsed "Investigation of a new breast symptom" guide, Aug 2026 — Australia's referral framework is structured genuinely differently from the UK's symptom/age-based 2-week-wait criteria, though it converges on a similar overall urgency principle.
-> **The Australian approach centres on the "triple test" rather than age/symptom-based referral bands**: clinical assessment + imaging + histology (the same three components as the "Triple assessment" below), and **a positive result on *any single component* of the triple test warrants specialist surgical referral, irrespective of the other two components being normal** — this "any positive component triggers referral" principle, rather than a fixed set of age/symptom criteria, is the genuinely distinctive Australian structure. Once referred, Australian guidance specifies the surgeon should **ideally see the patient within 2 weeks** of a proven or suspected cancer diagnosis — so a comparable "2-week" urgency benchmark exists in Australian practice too, but it's anchored to a positive triple-test result rather than to the UK's age-banded symptom criteria (e.g. "lump ≥30yo," "nipple change ≥50yo") below.
-
-- **Ix:**
-  - **Triple test-based referral (AU-specific structure — see note above):** any single positive/suspicious/indeterminate component of the triple assessment below warrants specialist surgical referral, regardless of whether the other components are normal; the surgeon should ideally see the patient within 2 weeks of a proven or suspected cancer diagnosis.
-  - **Triple assessment:**
-    - Clinical assessment (history & physical exam).
-    - Imaging — ultrasound for ≤30 years old, mammogram for all others (hypoechoic mass, irregular + internal calcification, enlarged axillary lymph node).
-    - Histology (needle aspiration/core biopsy — core biopsy, including vacuum-assisted core biopsy, is the Cancer Australia-recommended procedure of choice for most screen-detected abnormalities specifically).
-  - Others: hormone receptor testing, HER2 testing, CT or PET if metastases suspected.
-- **Mx:**
-  - **Before surgery:** no palpable axillary lymph node — pre-op ultrasound → if positive, sentinel node biopsy. Palpable axillary lymph node — axillary node clearance (associated with lymphoedema and increased risk of infections).
-  - **Surgical options:** mastectomy if multifocal tumour, central tumour, large lesion in a small breast, or DCIS >4cm. Wide local excision (WLE) if solitary tumour, peripheral, small lesion, or DCIS <4cm. Offer reconstructive surgery.
-  - **Radiological options:** for WLE — whole breast radiotherapy recommended, reduces recurrence by 66%. For mastectomy — T3 and T4 tumours and/or ≥4 positive nodes.
-  - **Hormonal options** (if hormone receptor-positive): pre- and peri-menopausal — tamoxifen (SE: ↑risk of endometrial cancer, VTE, menopausal symptoms). Post-menopausal — aromatase inhibitors (e.g. anastrozole; MOA: ↓peripheral synthesis of oestrogen).
-  - **Biological options:** for HER2-positive tumours (20–25%) — trastuzumab (Herceptin).
-  - **Chemotherapy:** neoadjuvant to downstage the primary lesion (see [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Treatment Intent — Neoadjuvant, Adjuvant, and Palliative for the general distinction, not repeated here); for axillary node disease.
-- **P:** men have higher mortality. Various prognostic tools exist. Biomarker: CEA.
-
-## Fibroadenoma
-
-- **D:** benign tumour of stromal/epithelial breast duct tissue that develops from a whole lobule — 12% of all breast masses.
-- **R:** age 30–50, ↑hormone exposure.
-- **S/Smx:** ≤3cm, round, smooth and well-defined borders, firm, mobile, and painless — sometimes described as a "breast mouse".
-
-> [!tip] Useful description framework for any breast lump: site, size and shape; colour, contour, consistency; tethering, tenderness; fluctuance ± transillumination.
-
-- **Mx:** conservative — monitoring. Over a 2-year period, ≤30% get smaller. No increased risk of malignancy unless there is a family history or complex features. Surgical excision if ≥3cm in diameter.
-
-## Fibrocystic breast changes
-
-*(aka fibroadenosis, benign mammary dysplasia)*
-
-- **D:** non-specific term for a continuum of physiological to pathological changes.
-- **R:** young age (20–40), hormone exposure (oestrogen & progesterone).
-- **A/P:** the stroma, ducts and lobules respond to female sex hormones and become fibrous and cystic — may fluctuate within the menstrual cycle.
-- **S/Smx:** often occur prior to menses (within 10 days) and resolve once menses begins.
-  - Lumpiness ± fluctuation of breast size ± nipple discharge.
-  - Mastalgia — cyclical or non-cyclical.
-  - Cysts: round, smooth and well-defined borders, mobile, possibly fluctuant — associated with pain due to mastalgia.
-- **Mx:** rule out cancer.
-  - Advice: wear a supportive bra, avoid caffeine, apply heat to the area.
-  - Rx: NSAIDs, hormonal treatment under specialist guidance.
-- **P:** mastalgia is likely chronic, relapsing (~12 years). Cysts recur in ~1/4 of patients within 1 year.
-
-## Fat necrosis
-
-- **D:** localised degeneration and scarring of fat tissue in the breast.
-- **A/P:** often triggered by localised trauma, radiotherapy, or surgery → inflammatory reaction → fibrosis and fat necrosis.
-- **S/Smx:** firm, irregular, fixed in local structures, painless; associated with skin dimpling, nipple inversion; associated with an oil cyst containing liquid fat.
-- **Ix:** since it presents similarly to breast cancer, triple assessment is required. Imaging can show a similar appearance to breast cancer. Histology may be required to confirm diagnosis and rule out cancer.
-- **Mx:** conservative — may resolve spontaneously with time. Surgical excision if symptomatic.
-
-## Lipoma
-
-- **D:** slow-growing, benign, mesenchymal tumour made of adipocytes.
-- **S/Smx:** incidence 1 in 1000, usually middle-aged patients. Smooth, soft, mobile, painless. Not associated with skin changes.
-- **Mx:** conservative — conversion to liposarcoma is very rare.
-  - Surgical excision, liposuction, or lipolysis indicated for: cosmetic reasons; symptomatic lesions (painful, bothersome); increased size or concern for conversion — size >5cm, pain, deep anatomical location (all 4 features together are associated with an 85% risk of malignant transformation).
-
-## Galactocele
-
-- **D:** breast milk-filled cysts occurring due to blocked lactiferous ducts.
-- **S/Smx:** firm, mobile, painless lump, usually beneath the areola.
-- **Mx:** conservative — tend to resolve. Drainage with a needle if needed. Antibiotics if infected.
-
-## Phyllodes tumour
-
-> [!note] Expanded — previously only a brief 3-line mention despite being an explicit Medium-yield CSV item; verified against StatPearls, the NCCN breast cancer guideline (margin recommendations), and current diagnostic-differentiation literature, Aug 2026.
-
-- **D:** a fibroepithelial tumour of the breast stroma, histologically resembling fibroadenoma but distinguished by stromal hypercellularity and a characteristic "leaf-like" (phyllodes) architecture — genuinely rare, accounting for less than 1% of all breast tumours.
-- **S/Smx:** typically women aged 35–55 (somewhat older than the classic fibroadenoma age range, a useful if imperfect clue); a firm, palpable mass with **rapid growth** — the median size at presentation is around 4cm, and larger tumours can stretch the overlying skin enough to cause visible dilated veins and blue discolouration. **The clinical/radiological overlap with fibroadenoma is the central diagnostic challenge** — features that should raise suspicion of phyllodes over fibroadenoma include size >3cm, rapid interval growth, irregular or microlobulated margins, and heterogeneous/cystic areas on ultrasound.
-- **A/P:** classified into **benign, borderline, or malignant** based on histological grading (tumour border, stromal cellularity, mitotic count, cellular atypia, and stromal overgrowth) — genuinely a spectrum rather than three sharply distinct entities, and grading has an acknowledged subjective element with real inter-pathologist variability. Roughly 50% are benign, 25% borderline, 25% malignant.
-- **Ix:** **core needle biopsy is the standard initial diagnostic tool**, but a genuinely important limitation to know: core biopsy frequently cannot reliably distinguish a phyllodes tumour from a fibroadenoma, given the overlapping histological appearance — **definitive diagnosis often isn't reached until surgical excision**, which is precisely why any fibroepithelial lesion with suspicious clinical/imaging features (per the S/Smx clues above) should proceed to excisional biopsy rather than being managed non-operatively the way a straightforward fibroadenoma often is.
-- **Mx:**
-  - **Definitive: surgical excision is the mainstay of treatment for all three grades** (benign, borderline, malignant) — genuinely different from fibroadenoma management, where non-operative surveillance is now the widely accepted default for a classic, low-risk presentation.
-  - **Margin width matters and should be explicit, not left vague:** current guidance (including NCCN) recommends excision with **clear margins, ideally ≥1cm** — narrower margins are associated with meaningfully higher local recurrence rates (studies report roughly 17–40% recurrence with narrow/positive margins vs a substantially lower rate with adequate ≥1cm margins). Either wide local excision (tumourectomy) or mastectomy can achieve this depending on tumour size relative to breast size; axillary staging is **not** routinely required regardless of grade, given nodal metastasis is rare even in malignant phyllodes tumours.
-  - **Adjuvant therapy:** chemotherapy has not shown a clear clinical benefit even for malignant phyllodes tumours, so management remains predominantly surgical rather than following the multimodal pattern of many other breast malignancies — a genuinely important distinction from the invasive ductal/lobular carcinoma Mx elsewhere in this file, not repeated here.
-- **P:** even benign phyllodes tumours carry a real local recurrence risk (up to ~25% after excision, particularly with inadequate margins) — genuine long-term follow-up is required regardless of initial grade, given recurrence risk and the possibility of a recurrence presenting at a higher grade than the original tumour. Malignant phyllodes tumours can metastasise (typically haematogenously, unlike the nodal-predominant spread of most other breast cancers) — inadequately treated malignant disease carries a risk of rapid growth and metastatic spread.
-
-## Mammary duct ectasia
-
-- **D:** dilatation of the large breast ducts.
-- **S/Smx:** commonly occurs around menopause and in smokers.
-  - Tender lump around the areola.
-  - ± Green nipple discharge.
-  - May cause local inflammation if it ruptures (≈ plasma cell mastitis).
-- **Mx:** rule out malignancy, smoking cessation. If severe symptoms, total duct excision.
-
-## Duct papilloma
-
-- **D:** epithelial proliferation in the large mammary ducts — hyperplastic lesions that are usually benign.
-- **S/Smx:** blood-stained discharge, usually originating from only one duct. Mass if large enough.
-- **Mx:** microdochectomy if symptomatic. No increased risk of malignancy.
-
-
 <!-- ===== SOURCE: J1_Cytopenias_and_Marrow_Failure.md ===== -->
 
 
@@ -1933,6 +220,166 @@
 > Haemolysis, thalassaemia and sickle cell disease → [[J2]] · Bleeding disorders, VTE and anticoagulation → [[J3]] · Myeloma, leukaemia and lymphoma → [[J4]] · Oncological emergencies → [[J5]] · Transfusion, massive haemorrhage and reversal → [[A9]] · Febrile neutropenia → [[K1]] 0.5 · Strongyloides and immunosuppression → [[K3]] 0.5 · Iron deficiency and GI bleeding → [[C4]] 0.2 and [[C5]] 0.5 · Coeliac disease → [[C5]] 0.4 · Heavy menstrual bleeding → [[O4]] 0.2 · Anaemia of chronic kidney disease → [[H3]] 0.4 · Subacute combined degeneration → [[D4]] 0.2 · Nitrous oxide and functional B12 deficiency → [[N2]] 0.4 · Clozapine monitoring and benign ethnic neutropenia → [[N3]] 0.6 · Preoperative anaemia and patient blood management → [[AN1]] 0.1 · Thrombocytopenia in pregnancy → [[O2]]
 
 
+<!-- ===== SOURCE: 10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia.md ===== -->
+
+
+> [!info] Definition: anaemia = Hb <120 g/L in non-pregnant females; Hb <130 g/L in males.
+
+## Anaemia — differential diagnosis by MCV and reticulocyte index
+
+> [!info] Microcytic (MCV <80 fL)
+> Thalassaemias, anaemia of chronic disease, iron deficiency, lead poisoning, sideroblastic anaemia.
+
+> [!info] Normocytic (MCV 80–100 fL) — non-haemolytic (reticulocyte index ≤2%)
+> Iron deficiency (early), anaemia of chronic disease, aplastic anaemia, chronic kidney disease.
+
+> [!info] Normocytic (MCV 80–100 fL) — haemolytic (reticulocyte index >2%)
+> **Intrinsic:** membrane defects (hereditary spherocytosis, paroxysmal nocturnal haemoglobinuria); enzyme deficiencies (G6PD deficiency, pyruvate kinase deficiency); haemoglobinopathies (sickle cell anaemia, HbC disease).
+> **Extrinsic:** autoimmune (warm/cold); microangiopathic (TTP/HUS, DIC, malignancy, pre-eclampsia); macroangiopathic (prosthetic heart valves); infections (malaria).
+
+> [!info] Macrocytic (MCV >100 fL)
+> **Megaloblastic:** folate deficiency, vitamin B12 deficiency, Fanconi anaemia.
+> **Non-megaloblastic:** liver disease, alcohol, hypothyroidism, pregnancy, reticulocytosis, myelodysplasia, drugs (e.g. cytotoxics).
+
+*(See [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] for normocytic anaemia in detail, and [[10_06a_Haemonc_-_Macrocytic_Anaemia]] for macrocytic anaemia in detail.)*
+
+## Iron studies interpretation
+
+| | Serum iron | Transferrin/TIBC | Ferritin | % transferrin saturation |
+|---|:---:|:---:|:---:|:---:|
+| **Iron deficiency** | ↓ | ↑ | ↓ | <8 |
+| **Chronic disease** | ↓ | ↓ | ↑ | <15 |
+| **Haemochromatosis (screening)** | ↑ | ↓ | ↑ | >45 |
+
+> [!tip] Transferrin transports iron in the blood. TIBC (total iron binding capacity) is an indirect measure of transferrin. Ferritin functions as iron storage but is also a marker of inflammation — an acute phase reactant, so it can be falsely elevated in active inflammation even with true iron deficiency.
+
+> [!note] See [[03_Gastrointestinal]] Haemochromatosis for the full disease-level entry (genetics, complications, reversibility of specific complications with treatment, and venesection Mx), not repeated here — this table covers only the iron-studies screening pattern.
+
+## Iron deficiency anaemia
+
+- **Causes:** inadequate dietary intake (e.g. vegans), poor intestinal absorption, ↑iron requirements (e.g. pregnancy), blood loss (e.g. menorrhagia). In low-income countries, hookworm infections (*Ancylostoma*).
+
+> [!danger] A genuine, severe Australian health equity issue with a striking prevalence gap and a genuinely important long-term consequence — not a generic epidemiological footnote. **Iron deficiency anaemia in Aboriginal and Torres Strait Islander children, particularly in remote communities, occurs at rates many times higher than the general Australian population** — a Northern Territory school screening study found 52% of Indigenous school-aged children (5–15 years) were anaemic; separate Far North Queensland cohort data found 61% of children became anaemic between 6 and 23 months of age, with contributing causes identified as poor nutrition (specifically iron deficiency) and frequent infections rather than a single cause.
+> - **The genuinely important consequence extends well beyond a lab value**: early childhood anaemia is associated with **more than double the risk of developmental vulnerability at school age** across multiple developmental domains (physical health, social competence, emotional maturity, language/cognitive skills) — this is a neurodevelopmental issue with lifelong educational and functional consequences, not merely a correctable blood count.
+> - **Practical implication**: given how common and consequential this is, proactive screening (not waiting for symptoms) in Aboriginal and Torres Strait Islander infants and young children in relevant settings is genuinely important — Iron deficiency anaemia is described as the leading type of anaemia identified in remote-dwelling Aboriginal children specifically, making it a genuinely high-yield target for early detection and treatment in this population, consistent with the broader "Close the Gap" public health framing this issue is discussed under.
+
+> [!danger] In older adults, especially with a history of GI bleeding, iron deficiency anaemia = malignancy until proven otherwise.
+
+- **Ix:** blood films may show RBCs of different sizes/shapes, target cells, and pencil poikilocytes. Endoscopy to rule out malignancy.
+- **Mx:** treat underlying cause; PO ferrous sulfate (can cause abdominal pain, GI upset); iron-rich diet.
+
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Lead poisoning` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## Anaemia of chronic disease
+
+- Anaemia secondary to inflammation-mediated ↓RBC production ± ↓RBC survival.
+- Associated with autoimmune disorders, malignancy, infection, critical illness, major trauma or major surgery with delayed recovery, and other chronic disease states (e.g. CKD, HF, COPD).
+- **Mx:** treat the underlying disease; blood transfusion, erythropoiesis-stimulating agents, supplemental iron.
+
+## β-thalassaemia
+
+- **D:** genetic syndrome of ineffective erythropoiesis caused by mutations of the beta-globin gene.
+- **R:** family history.
+- **A/P:** ineffective erythropoiesis. ↓β-chains lead to ↑α-chains and precipitation, causing RBC damage. Erythroid hyperplasia → bony changes in the skull, extra-medullary haematopoiesis (liver, spleen).
+- **S/Smx:** presents in the first year of life with failure to thrive, hepatosplenomegaly; expansion of the bony skull (rarely); microcytic anaemia; ↑HbA2 and HbF, absent HbA.
+- **Ix:** FBC and blood film (*why:* screens for the characteristic microcytic anaemia and RBC morphology directly; *what:* microcytic, hypochromic anaemia with target cells and nucleated RBCs — often more strikingly abnormal than the microcytosis seen in iron deficiency, a useful distinguishing clue). Hb electrophoresis (*why:* the definitive diagnostic test, directly demonstrating the abnormal haemoglobin pattern described above; *what:* raised HbA2 and HbF with absent or markedly reduced HbA, confirming the diagnosis and distinguishing β-thalassaemia major from the milder trait/minor forms). Iron studies (*why:* important both to confirm iron status isn't the driver of the microcytosis, given thalassaemia and iron deficiency can coexist or be confused, and because iron overload becomes a major complication of the transfusion-dependent Mx below, making baseline and ongoing iron monitoring essential; *what:* iron studies help distinguish thalassaemia from iron deficiency at baseline, then monitor for iron overload once transfusion therapy begins). Genetic testing (*why:* confirms the specific mutation, useful for genetic counselling and prenatal diagnosis in affected families; *what:* identifies the specific beta-globin gene mutation).
+- **Mx:**
+  - **Immediate/acute:** regular blood transfusion to correct symptomatic anaemia — genuinely transfusion-*dependent* in the major (severe) form, not just occasionally needed.
+  - **Definitive:** iron chelation (desferrioxamine, or newer oral chelators such as deferasirox) to prevent iron overload from the required regular transfusions — iron overload causing organ failure (cardiac, hepatic, endocrine) is a major cause of morbidity/mortality in inadequately chelated patients, making chelation just as essential as the transfusion itself, not an optional add-on; allogeneic stem cell transplant is the only curative option and is considered in appropriate candidates, particularly with a matched sibling donor.
+  - **Chronic/long-term:** lifelong monitoring for iron overload complications (cardiac function, liver, endocrine — growth, pubertal development, diabetes given pancreatic iron deposition) even with good chelation adherence; splenectomy may be considered if hypersplenism develops and increases transfusion requirements, weighed against the infection risk of subsequent hyposplenism (see [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hyposplenism, not repeated here).
+
+## α-thalassaemia
+
+- **D:** genetic syndrome of ineffective erythropoiesis caused by mutations of the alpha-globin gene.
+- **R:** family history.
+- **A/P:** ineffective erythropoiesis (similar to β-thalassaemia).
+- **S/Smx:**
+  - 1–2 α-globin alleles affected — usually asymptomatic.
+  - 3 α-globin alleles affected (= Hb H disease) — variable symptoms: anaemia, jaundice, gallstones, hepatosplenomegaly.
+
+> [!danger] All 4 α-globin alleles affected is incompatible with life (fetus dies in utero).
+
+- **Ix:** FBC and blood film (*why:* screens for microcytic anaemia in the symptomatic forms; *what:* microcytic anaemia of variable severity depending on the number of alleles affected, per the S/Smx above). Hb electrophoresis (*why:* helps confirm the diagnosis, though **interpretation is genuinely more nuanced than in β-thalassaemia** — HbA2 and HbF are typically normal or only mildly affected in α-thalassaemia (unlike the clearly raised HbA2/HbF pattern in β-thalassaemia above), since the electrophoresis pattern primarily reflects β-chain-containing haemoglobins; *what:* may show HbH (a tetramer of excess β-chains, visible specifically in Hb H disease with 3 affected alleles) but is often less diagnostically clear-cut than in β-thalassaemia, making genetic testing more central to diagnosis here). Genetic testing (*why:* given the electrophoresis limitation above, genetic testing (identifying the number and specific type of alpha-globin gene deletions) is often necessary for a definitive diagnosis and is essential for genetic counselling, particularly relevant given the incompatible-with-life risk of the 4-allele form in future pregnancies for carrier couples; *what:* confirms the specific number of affected alleles).
+- **Mx:** if asymptomatic, no treatment necessary. If severe — blood transfusion, splenectomy, consider stem cell transplant.
+
+## Sideroblastic anaemia
+
+- **D:** disorder where RBCs cannot form haem in the mitochondria → deposits of iron in the mitochondria = ring sideroblast.
+- **Causes:** congenital, myelodysplasia, alcohol, lead, anti-TB medications.
+- **Ix:** bloods, iron studies (↑ferritin, ↑iron, ↑transferrin saturation), blood film (basophilic stippling of RBCs), bone marrow aspiration.
+- **Mx:** supportive, treat underlying cause, ± pyridoxine (B6).
+
+## Anaemia of chronic kidney disease
+
+- Secondary to ↓erythropoietin levels due to declining renal function.
+- Usually becomes apparent when GFR <35 mL/min.
+- **Mx:** optimise iron status and give erythropoiesis-stimulating agents.
+
+
+## Aplastic anaemia
+
+- **D:** pancytopaenia with a hypocellular marrow and no abnormal cells.
+- **Causes:** idiopathic, congenital (e.g. Fanconi anaemia), drugs (cytotoxics, chloramphenicol, sulphonamides, phenytoin, gold), toxins (benzene), infections (parvovirus B19, hepatitis), radiation.
+
+> [!info] ≥2 of the following must be present:
+> - Hb <100 g/L
+> - Platelets <50 ×10⁹/L
+> - Neutrophils <1.5 ×10⁹/L
+
+- **Mx:** if not severe, monitoring ± steroids or **IVIG (intravenous immunoglobulin)** may be sufficient. If severe or congenital, patients may need a stem cell transplant.
+
+<!-- ===== SOURCE: 10_06a_Haemonc_-_Macrocytic_Anaemia.md ===== -->
+
+
+> [!note] Megaloblastic anaemias affect DNA synthesis and inhibit nuclear division → causes the large size of RBCs (megaloblasts).
+
+## Vitamin B12 deficiency
+
+- B12 is needed for the development of RBCs and also for maintenance of the CNS.
+- **Causes:** pernicious anaemia (autoimmune); post-gastrectomy or ileocaecal resection; dietary deficiency (e.g. vegan diet); disorders or surgery of the terminal ileum (e.g. Crohn's disease).
+- **Features:**
+  - Macrocytic anaemia.
+  - Sore tongue/mouth (glossitis).
+  - Neurological symptoms (see subacute combined degeneration).
+  - Neuropsychiatric disturbances, e.g. mood disturbances.
+- **Ix:** FBC and blood film (*why:* screens for the macrocytic, megaloblastic picture; *what:* macrocytosis, hypersegmented neutrophils — see the Folate deficiency entry below for the reason this picture is shared between B12 and folate deficiency, and why both need checking together). Serum B12 level (*why:* directly confirms the deficiency; *what:* a low level supports the diagnosis, though levels can be falsely normal in some early or mild cases). Intrinsic factor and parietal cell antibodies (*why:* screens specifically for pernicious anaemia, the most classically-tested cause, given a positive result confirms the autoimmune mechanism and has implications for associated autoimmune disease screening; *what:* intrinsic factor antibodies are more specific but less sensitive than parietal cell antibodies for pernicious anaemia). Folate level (*why:* should always be checked alongside B12, per the danger box below, given the management-sequencing implications; *what:* identifies any concurrent folate deficiency).
+- **Mx:** if no neurological involvement, IM B12 is sufficient.
+
+> [!danger] Always replace B12 deficiency before folic acid — giving folic acid first can precipitate subacute combined degeneration of the cord. See [[04_Neurology]] Subacute Combined Degeneration of the Spinal Cord for the actual biochemical mechanism behind this rule (the dual role of B12 in methionine synthase and methylmalonyl-CoA mutase, and why folate lacks the second pathway), not repeated here.
+
+## Folate (B9) deficiency
+
+- **Causes:** ↑requirements (e.g. pregnancy), ↓absorption (e.g. alcoholics), drugs (e.g. methotrexate, phenytoin).
+- **S/Smx:** no neurological symptoms (as opposed to B12 deficiency).
+- **Ix:** FBC and blood film (*why:* screens for the macrocytic anaemia and megaloblastic changes shared with B12 deficiency; *what:* macrocytosis, hypersegmented neutrophils — the same megaloblastic picture as B12 deficiency, which is exactly why distinguishing the two on serum levels matters, given the management and urgency differ per the danger box above). Serum folate (and red cell folate, which better reflects tissue stores than serum folate given serum levels can fluctuate with very recent dietary intake) (*why:* directly confirms the deficiency; *what:* low folate level). **B12 level should always be checked alongside folate** (*why:* critical given the danger box above — replacing folate in a patient with an undiagnosed concurrent B12 deficiency risks precipitating or worsening subacute combined degeneration of the cord; *what:* confirms B12 status is adequate before folate replacement, or identifies combined deficiency requiring B12 replacement first).
+- **Mx:** oral folic acid replacement, addressing the underlying cause where identifiable (e.g. dietary advice, reviewing causative medications) — **only once a concurrent B12 deficiency has been excluded or is being treated first**, per the danger box above.
+
+## Fanconi anaemia
+
+- **D:** autosomal recessive cause of bone marrow failure characterised by pancytopaenia.
+- **S/Smx:** aplastic anaemia; increased risk of acute myeloid leukaemia; neurological symptoms; skeletal abnormalities (short stature, abnormalities of the thumb, radius and ulna, lower limb abnormalities); café-au-lait spots.
+- **Mx:** supportive (blood transfusions), stem cell transplant.
+
+## Other causes of macrocytic (non-megaloblastic) anaemia
+
+### Anaemia in liver disease
+
+- Secondary to many causes, including GI haemorrhage, hypersplenism (due to portal hypertension).
+- Associated with clotting disorders due to severe liver disease.
+
+### Anaemia in alcohol use
+
+- Dose-dependent effects.
+- Also linked to nutritional deficiency.
+- ↓RBC production + structurally abnormal RBCs.
+- Associated with ↓WBC, ↓platelets as well.
+
+### Anaemia in hypothyroidism
+
+- Can cause different types of anaemia.
+- Secondary to bone marrow suppression, ↓EPO, or comorbid disease.
+
+
 <!-- ===== SOURCE: J2_Haemoglobinopathy_and_Haemolysis.md ===== -->
 
 
@@ -2135,6 +582,176 @@
 > [!note] Cross-references
 > The anaemia framework, thalassaemia trait and TTP/HIT → [[J1]] 0.1–0.2, 0.6 · Bleeding, thrombosis and anticoagulation → [[J3]] · Myeloma, leukaemia and lymphoma → [[J4]] · Tumour lysis and rasburicase → [[J5]] · Transfusion, DIC and massive haemorrhage → [[A9]] 0.1–0.3 · Malaria and the returned traveller → [[K1]] 0.4 · Asplenia, vaccination and prophylaxis → [[K3]] 0.5 · Haemoglobinuria versus haematuria → [[H1]] 0.1 · Prosthetic valve dysfunction → [[B5]] 0.3 · Priapism → [[H4]] 0.3 · Neonatal jaundice and G6PD → [[M3]] 0.1 · Parvovirus B19 → [[M2]] 0.5 · Haemolytic uraemic syndrome → [[M5]] 0.2 · HELLP and pregnancy → [[O2]] · Transition and adherence in adolescence → [[M7]] 0.4 · Gallstones → [[C3]] 0.4
 
+
+<!-- ===== SOURCE: 10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease.md ===== -->
+
+
+## Sickle cell disease
+
+- **D:** autosomal recessive disorder causing production of sickle cell Hb and subsequent complications.
+- **R:** family history/genetic.
+- **A/P:** hypoxia and acidosis trigger polymerisation of HbS → rigid, sickle-shaped RBCs.
+  - Occlusion in small vessels or adhesion to vessel walls.
+  - Deformed cells → haemolysis → anaemia.
+  - ± Activation of WBCs.
+  - Anaemia leads to high blood flow, which can cause cardiomegaly ± heart failure.
+- **Dx:** Hb electrophoresis.
+
+### Acute management of sickle cell crises
+
+> [!danger] Analgesia must be offered within 30 minutes of presentation — titrate to the patient's pain, may range from paracetamol to opioids.
+
+- Resuscitation: fluid rehydration, oxygen as needed.
+- Antibiotics as needed.
+- Blood transfusion if >20g/L drop from baseline Hb level.
+- Exchange transfusion reserved for stroke and acute chest syndrome.
+
+### Sickle cell crises — types
+
+> [!info] Thrombotic (painful / vaso-occlusive) crises
+> Triggered by infection, dehydration, deoxygenation (e.g. high altitude). Clinical diagnosis; rule out other possibilities. Infarcts can occur in bones (e.g. avascular necrosis of the hip, hand-foot syndrome in children), lungs, spleen, and brain (stroke).
+
+> [!danger] Acute chest syndrome — vaso-occlusion within the pulmonary microvasculature → infarction in the lung parenchyma. S/Smx: dyspnoea, chest pain, pulmonary infiltrates on CXR, ↓pO2. Mx: analgesia, O2 ± antibiotics; transfusion improves oxygenation. This is the most common cause of death in sickle cell disease after childhood.
+
+> [!info] Aplastic crises — secondary to infection with parvovirus. Sudden fall in Hb; bone marrow suppression causes ↓reticulocyte count.
+
+> [!info] Sequestration crises — sickling within organs such as the spleen or lungs causes pooling of blood with ↓Hb; associated with an ↑reticulocyte count.
+
+> [!note] See [[15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP]] Sickle cell disease for the complementary paediatric-specific detail (antenatal/newborn screening, paediatric-specific S/Smx including dactylitis and maxillary hypertrophy, and paediatric-specific long-term Mx including hydroxycarbamide and penicillin prophylaxis timing) not repeated here.
+
+### Long-term (preventative) management
+
+- Hydroxyurea (↑HbF to prevent painful episodes).
+- **Prophylactic penicillin from around 3 months of age until at least 5 years**, continued longer (or lifelong) in those with increased infection risk such as prior invasive pneumococcal disease or post-splenectomy — erythromycin if penicillin-allergic.
+
+> [!warning] **Corrected during the duplicate-pair audit (2026-08-29).** This line previously read "prophylactic penicillin **if frequent pneumococcal infections** (lifelong)", which makes routine infant prophylaxis sound like a response to recurrent infection. It is not — it is **started in infancy in every child with sickle cell disease, before any infection has occurred**, because functional hyposplenism develops early and the risk it mitigates is fulminant pneumococcal sepsis. [[15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP]] Sickle cell disease already stated the correct schedule (3 months to 5 years); the two entries disagreed and this one was wrong. See `PENDING_GUIDELINE_CHECKS.md` **B44**.
+- Folic acid supplementation if deficient and poor diet.
+- Pneumococcal polysaccharide vaccine every 5 years (due to hyposplenism) — **but vaccination is only one of three parts**, and the current Australian regimen also includes Hib, meningococcal ACWY **and** B, annual influenza, plus long-term antibiotic prophylaxis and a written emergency plan: see [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis for the full source-verified regimen, which applies to functional hyposplenism as it does after splenectomy.
+
+> [!note] Gap-filled — hyposplenism was stated above as the reason for pneumococcal vaccination, without explaining how sickle cell disease causes it. **Why hyposplenism develops:** repeated vaso-occlusive sickling episodes within the spleen (a sequestration crisis, per the box above, is an acute example of this same process) cause recurrent splenic infarction over childhood — the spleen progressively fibroses and shrinks, a process termed **autoinfarction/autosplenectomy**, typically complete by early childhood in most patients. This matters clinically well beyond just explaining the vaccination schedule: a functionally (and eventually anatomically) absent spleen means genuinely **increased susceptibility to overwhelming infection with encapsulated organisms** (*S. pneumoniae*, *H. influenzae*, *N. meningitidis*) — the same underlying vulnerability seen in any hyposplenic/asplenic patient, which is why the vaccination and antibiotic prophylaxis above matter as much as, or more than, the sickle cell disease's haematological complications themselves in terms of preventable mortality.
+
+> [!warning] Sickle cell disease does NOT protect against malaria — patients still need antimalarial prophylaxis when travelling to endemic areas.
+
+## Normocytic haemolytic anaemias — intrinsic causes
+
+### Hereditary spherocytosis
+
+- **D:** inherited abnormality of the RBC caused by defects in structural membrane proteins (autosomal dominant in 75%).
+- **P:** sphere-shaped RBCs due to cytoskeleton defects → ↓surface area of RBC + RBCs destroyed by the spleen.
+
+> [!info] Gap-filled — jaundice, gallstones, and splenomegaly were listed as three separate features without the shared mechanism connecting them. **All three trace back to the same underlying process: chronic haemolysis.** The abnormally-shaped, less deformable spherocytes are recognised and destroyed by the spleen at a substantially increased rate (extravascular haemolysis) — this drives **splenomegaly** directly, from the sheer ongoing workload of destroying abnormal red cells. This same increased red cell breakdown releases haemoglobin, which is metabolised into **unconjugated bilirubin** faster than the liver can conjugate and excrete it, producing chronically elevated bilirubin — hence the **jaundice**. This excess bilirubin is then excreted into bile at higher-than-normal concentrations, and can precipitate as **pigment gallstones** (bilirubin-based, genuinely distinct in composition from the more common cholesterol gallstones) — explaining why pigment gallstones are a well-recognised complication specifically of chronic haemolytic conditions (also seen in sickle cell disease and thalassaemia, not unique to hereditary spherocytosis) rather than a coincidental association.
+
+- **S/Smx:** failure to thrive, jaundice, gallstones, splenomegaly; aplastic crisis precipitated by parvovirus B19 infection.
+- **Ix:** bloods (↑mean corpuscular Hb concentration); blood films (spherocytes).
+- **Dx:** clinical, based on history and labs.
+- **Mx:** acute crisis — supportive ± blood transfusion. Long-term — folate replacement, splenectomy.
+
+> [!warning] **Splenectomy is recommended above and neither hereditary spherocytosis entry said what follows it.** Asplenia carries a lifelong risk of overwhelming sepsis from encapsulated organisms, and the preparation is time-sensitive: **vaccination should be given before an elective splenectomy, not after.** [[10_09b_Haemonc_-_Miscellaneous_Haematology]] Hyposplenism owns the vaccination and prophylaxis schedule, and [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis owns the acute presentation. Added by the pairs audit (2026-08-29).
+
+
+### G6PD deficiency
+
+- Enzyme deficiency (X-linked recessive), more common in Mediterranean and African populations.
+- **Precipitating drugs:** antimalarials (primaquine), ciprofloxacin, sulph-group drugs (e.g. sulphonamides, sulphasalazine, sulfonylureas).
+
+> [!info] The mechanism — genuinely worth understanding, given it explains why this specific enzyme deficiency causes haemolysis only under oxidative stress rather than continuously. **G6PD (glucose-6-phosphate dehydrogenase) is the rate-limiting enzyme of the pentose phosphate pathway**, and its product is NADPH — the cell's key reducing agent, needed to regenerate **reduced glutathione**, which protects red cells from oxidative damage. Red cells are particularly vulnerable to this specific deficiency because, lacking a nucleus and mitochondria, the pentose phosphate pathway is their **only** source of NADPH, unlike most other cell types which have alternative NADPH-generating pathways. Without adequate reduced glutathione, an oxidative stressor (the precipitating drugs above, fava beans, or acute infection/illness) causes hydrogen peroxide and other reactive oxygen species to denature haemoglobin, which precipitates within the red cell as **Heinz bodies**; the spleen then removes these precipitates during red cell passage, "biting" a portion of the membrane away and producing the characteristic **bite cells** seen on the blood film — the oxidative damage to the membrane itself also contributes directly to intravascular haemolysis. This is precisely why haemolysis is episodic and trigger-dependent rather than a constant baseline anaemia — the deficiency only becomes clinically apparent when oxidative demand exceeds the limited NADPH-generating capacity available.
+
+- **S/Smx:** neonatal jaundice; intravascular haemolysis; ± gallstones, splenomegaly.
+- **Ix:** blood films (Heinz bodies, bite and blister cells); definitive diagnosis with G6PD enzyme assay (done 3 months after an acute episode of haemolysis).
+- **Mx:** avoid triggers; if chronic and severe — splenectomy.
+
+### Paroxysmal nocturnal haemoglobinuria (PNH)
+
+- Acquired disorder characterised by intravascular haemolysis and thrombophilia, secondary to absence of anchor proteins on the membrane of RBCs.
+
+> [!info] Triad — Coombs-negative haemolytic anaemia, pancytopaenia, venous thrombosis (e.g. Budd-Chiari syndrome).
+
+- **Mx:** eculizumab, stem cell transplant.
+
+### HbC disease
+
+- Mutation in the gene coding for β-globin (glutamic acid to lysine).
+- Causes extravascular haemolysis.
+- Patients with HbSC (1 normal allele, 1 mutated allele) have milder disease.
+- **Ix:** blood film (crystals inside RBCs, target cells).
+
+## Normocytic haemolytic anaemias — extrinsic causes
+
+### Autoimmune haemolytic anaemia (AIHA)
+
+- Decompensated acquired haemolysis caused by the host's immune system attacking its own RBCs.
+- **Ix:** bloods, Coombs test positive.
+
+| | Warm AIHA | Cold AIHA |
+|---|---|---|
+| Antibody | IgG | IgM |
+| Site of haemolysis | Most at body temperature, extravascular (e.g. spleen) | Most at 4°C, complement-mediated, intravascular |
+| Causes | Idiopathic, autoimmune disease (e.g. SLE), neoplasia (e.g. lymphoma), drugs (e.g. methyldopa) | Neoplasia (e.g. lymphoma), infections (e.g. mycoplasma, EBV) |
+| Associated features | — | Raynaud's, acrocyanosis (painless bluish discolouration of both hands) |
+| Mx | Treat underlying disorder; steroids ± rituximab | Less responsive to steroids |
+
+### Thrombotic thrombocytopaenic purpura (TTP)
+
+- Clinical syndrome of microangiopathic haemolytic anaemia and thrombocytopaenic purpura.
+- **A:** post-infection (e.g. GI), pregnancy, drugs (e.g. penicillin, COCP), tumours, SLE, HIV.
+- **P:** absence of ADAMTS-13 (vWF-cleaving enzyme) → large vWF multimers → platelet plugs within vessels.
+- **S/Smx:** anaemia + thrombocytopaenia; microemboli can cause fluctuating neurological signs and renal failure; fever.
+- **Mx:** plasma exchange + steroids. Following resolution of the acute episode, patients can be given aspirin to reduce risk of platelet aggregation.
+
+### Haemolytic uraemic syndrome (HUS)
+
+- Syndrome comprising microangiopathic anaemia, thrombocytopaenia and AKI.
+- **Causes:** classically Shiga toxin-producing *E. coli* (O157:H7), especially in children. Others: pneumococcal infection, HIV, SLE, drugs, cancer.
+- **P:** endothelial injury → microvascular injury and anaemia.
+- **S/Smx:** no specific symptoms apart from infective diarrhoea preceding HUS.
+- **Ix:** FBC (Coombs-negative anaemia), blood films (schistocytes and helmet cells), U&Es (AKI), stool culture/PCR (looking for *E. coli*, Shiga toxins).
+
+> [!danger] No role for antibiotics in HUS.
+
+- **Mx:** supportive — **fluids, blood transfusion, and dialysis where the AKI requires it** (AKI is one third of the defining triad, so renal replacement is part of standard supportive care, not an exception). **Plasma exchange only in severe cases not associated with diarrhoea.**
+- **Typical vs atypical — the distinction that changes management:** the diarrhoea-associated, Shiga-toxin form above is **typical** HUS. **Atypical HUS** arises from dysregulation of the complement cascade (often familial), is not diarrhoea-associated, and is the form in which complement-directed therapy is relevant — so "no diarrhoeal prodrome" is the clue that should prompt asking which type this is.
+
+> [!note] [[15_11_Paeds_-_Urological_and_Renal_Anomalies__Wilms_Tumour__HUS]] Haemolytic uraemic syndrome (HUS) covers the paediatric presentation, where 90% of cases occur. The two entries agree on the triad, the Coombs-negative film findings and the no-antibiotics rule; dialysis, plasma exchange and the atypical form were carried into this entry from there during the pairs audit (2026-08-29).
+
+### Disseminated intravascular coagulation (DIC)
+
+- Activation of coagulation pathways results in formation of intravascular thrombi and depletion of platelets and coagulation factors.
+- **Causes:** sepsis, trauma, obstetric complications (e.g. HELLP syndrome), malignancy.
+- **Ix:** bloods (↓platelets, ↓fibrinogen, ↑PT, ↑APTT, ↑D-dimer); blood film (schistocytes).
+- **Mx:** treat underlying disorder. If platelets <20, or <50 with active bleeding — platelet transfusion. Fresh frozen plasma to replace coagulation factors.
+
+### Macroangiopathic haemolytic anaemia
+
+- Mechanical shearing damage to RBCs.
+- **Causes:** prosthetic heart valves, aortic stenosis.
+- **Ix:** blood films (schistocytes).
+
+### Infections (e.g. malaria)
+
+- ↑destruction of RBCs.
+
+
+<!-- ===== SOURCE: NEW_Investigations_Endocrine.md ===== -->
+*Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.7 G6PD Assay (Glucose-6-Phosphate Dehydrogenase Screen)
+`CF-PAIR` **A G6PD entry already exists in this file. Both kept in full, NOT reconciled.**
+
+**D:** Quantitative enzyme activity assay (or flow-cytometric assay) on red cells.
+
+**Ind:** Unexplained **haemolytic anaemia**, especially episodic and triggered; **neonatal jaundice**, particularly prolonged, severe, or in an at-risk ethnic background; **before prescribing an oxidant drug** — most importantly **primaquine, tafenoquine, dapsone, rasburicase, nitrofurantoin, sulfonamides, methylene blue**; family history.
+
+**Role:** Definitive for the enzyme deficiency, but **the timing of the sample determines whether the answer is true**.
+
+> [!danger] **The false-negative trap, and it is the whole entry.** Sources agree that **the assay can be falsely normal during or immediately after acute haemolysis**, because the G6PD-deficient older red cells have already been destroyed and the surviving population is enriched with **reticulocytes, which have several-fold higher G6PD activity**. **Testing at the time of the haemolytic crisis is therefore the worst time to test.**
+> **The rule: if the assay is normal but the clinical picture fits, repeat it 2–3 months after the acute event**, once the red cell mass has been repopulated with cells of all ages. Sources are consistent on this interval.
+> The same reasoning means **a normal result after recent transfusion is uninterpretable** — you are measuring the donor's cells.
+
+> [!warning] **X-linked inheritance matters for interpretation.** Males are hemizygous and results are usually clear-cut. **Heterozygous females have two red cell populations and can have intermediate or normal-looking enzyme activity while still being clinically susceptible** — sources note the flow-cytometric assay is more reliable than the quantitative assay in women and in anaemic patients for exactly this reason.
+
+**Normal/abnormal:** **Numeric activity thresholds are not stated** — assay-dependent. Interpret with the reticulocyte count and the timing of the episode. A deficient result means **lifelong avoidance advice** — oxidant drugs, **fava beans**, naphthalene (mothballs) — and family testing.
+
+**Alt:** Blood film (**bite cells, blister cells, Heinz bodies** on supravital stain); haemolysis screen (see `NEW_Investigations_Haematology.md`); genetic testing.
 
 <!-- ===== SOURCE: J3_Bleeding_and_Thrombosis.md ===== -->
 
@@ -2392,406 +1009,395 @@
 > Massive haemorrhage, DIC and anticoagulant reversal → [[A9]] 0.1, 0.3–0.4 · Cytopenias, HIT and TTP → [[J1]] 0.6 · Haemolysis and PNH → [[J2]] 0.4 · Cancer-associated thrombosis and oncological emergencies → [[J4]] and [[J5]] · Pulmonary embolism as obstructive shock → [[F0.3]] 0.4 · Atrial fibrillation and stroke prevention → [[B3]] 0.4 · Mechanical valves and Heyde syndrome → [[B5]] 0.2–0.3 · Post-thrombotic syndrome and the swollen leg → [[B6]] 0.4 · Liver disease and rebalanced haemostasis → [[C3]] 0.5 · Obscure GI bleeding and angiodysplasia → [[C4]] 0.3 · SSRI bleeding risk → [[N4]] 0.3 · Cerebral venous sinus thrombosis → [[D1]] 0.2 · Antiphospholipid syndrome and lupus → [[L2]] 0.4 · Heavy menstrual bleeding and tranexamic acid → [[O4]] 0.2 · VTE in pregnancy → [[O2]] · Vitamin K deficiency bleeding in the newborn → [[M3]] 0.3 · Perioperative anticoagulation and VTE prophylaxis → [[AN1]] 0.3, 0.5
 
 
-<!-- ===== SOURCE: J4_Paraproteins_and_Lymphoproliferative.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Recognition, patterns and clinical reasoning are reliable at intern level. **Every diagnostic threshold, staging criterion, dose and regimen carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Treatment protocols are specialist matters and are described only in principle.
->
-> **Oncological emergencies including tumour lysis, cord compression and neutropenic sepsis are built in [[J5]]**, and **hypercalcaemia in [[I3]] 0.2** — cross-referenced rather than repeated.
-
----
-
-## 0.1 Paraproteins and MGUS
-
-> [!danger] The urine dipstick does not detect light chains
-> **A paraprotein is a monoclonal immunoglobulin — or a free light chain — produced by a clonal plasma cell or B-cell population.**
-> **DETECTION REQUIRES THE RIGHT TESTS: serum protein ELECTROPHORESIS with IMMUNOFIXATION · SERUM FREE LIGHT CHAINS with the kappa/lambda ratio · and urine electrophoresis for Bence Jones protein.**
-> **URINE DIPSTICK IS SENSITIVE TO ALBUMIN AND DOES NOT DETECT LIGHT CHAINS**, so a patient with massive light chain proteinuria and cast nephropathy can have a negative or trace dipstick.
-> **This is why unexplained renal impairment — particularly with anaemia, hypercalcaemia or bone pain — requires electrophoresis and free light chains SPECIFICALLY REQUESTED.** Cross-refer [[H1]] 0.5 and [[H3]] 0.2.
-> **A clue on routine bloods: a raised GLOBULIN GAP (total protein minus albumin) or a markedly raised ESR with a normal CRP.**
-
-> [!warning] MGUS is a lifelong diagnosis, not a discharge
-> **Monoclonal gammopathy of undetermined significance: a paraprotein below a defined level, fewer than 10% clonal plasma cells in the marrow, and NO end-organ damage.**
-> **It is COMMON and its prevalence rises steeply with age.**
-> **The risk of progression to myeloma or a related disorder is roughly 1% PER YEAR — and that risk does NOT decline with time.** **So a patient with MGUS for fifteen uneventful years carries the same annual risk as one diagnosed last year.**
-> **THEREFORE MGUS REQUIRES INDEFINITE MONITORING, not reassurance and discharge.** The interval is risk-stratified.
-> **SMOULDERING MYELOMA — a higher tumour burden without end-organ damage, with a substantially higher rate of progression, and now sometimes treated rather than observed.**
-> `UNVERIFIED — the diagnostic thresholds, risk stratification and monitoring intervals.`
-
-> [!danger] "MGUS" is only benign once these have been excluded
-> **A paraprotein is not automatically insignificant. The conditions that must be considered:**
-> **· MULTIPLE MYELOMA — see 0.2.**
-> **· AL AMYLOIDOSIS — which can occur with a very small paraprotein and is frequently diagnosed late.**
-> **· WALDENSTRÖM MACROGLOBULINAEMIA — an IgM paraprotein.**
-> **· MONOCLONAL GAMMOPATHY OF RENAL SIGNIFICANCE (MGRS) — a small clone causing kidney damage that would not meet myeloma criteria, but which needs treating to save the kidney.**
-> **· CRYOGLOBULINAEMIA, POEMS syndrome, and paraprotein-associated PERIPHERAL NEUROPATHY.**
-> **The practical consequence: a new paraprotein warrants assessment for end-organ damage — renal function, calcium, haemoglobin, bone imaging, urine protein, and consideration of cardiac and neurological involvement — before the "undetermined significance" label is applied.**
-
----
-
-## 0.2 Multiple Myeloma
-
-> [!danger] CRAB — the end-organ damage that defines the disease
-> **· C — HYPERCALCAEMIA**
-> **· R — RENAL impairment**
-> **· A — ANAEMIA**
-> **· B — BONE lesions (lytic lesions, pathological fracture, or osteoporosis with fracture)**
-> **Any one of these, with a clonal plasma cell population, makes the diagnosis.**
-> **Additional biomarkers of malignancy (the "SLiM" criteria — a very high marrow plasma cell percentage, an extreme free light chain ratio, or focal lesions on MRI) now also define treatable disease before end-organ damage occurs.** `UNVERIFIED — the criteria and thresholds.`
-
-> [!warning] The presentation is back pain and fatigue — and it gets attributed to age
-> **BACK PAIN is the commonest presenting symptom, and it is regularly attributed to degenerative disease for months.**
-> **Also: fatigue from anaemia · recurrent bacterial INFECTION (from immunoparesis — the normal immunoglobulins are suppressed) · renal impairment · hypercalcaemia with confusion, constipation and thirst · weight loss · pathological fracture · and spinal cord compression.**
-> **THE COMBINATION THAT SHOULD TRIGGER A MYELOMA SCREEN:**
-> **· Unexplained ANAEMIA plus RENAL IMPAIRMENT in an older patient.**
-> **· BACK PAIN with systemic features, or back pain not behaving mechanically, in someone over 50.**
-> **· Unexplained HYPERCALCAEMIA.**
-> **· A markedly raised ESR with a raised globulin gap.**
-> **· Recurrent bacterial infections in an older adult.**
-> **· Unexplained peripheral neuropathy.**
-> **The screen is: SERUM ELECTROPHORESIS AND IMMUNOFIXATION + SERUM FREE LIGHT CHAINS + urine electrophoresis, alongside FBC, UEC, calcium and albumin.**
-
-> [!danger] The bone scan is negative in myeloma — and the skeletal survey is obsolete
-> **Myeloma bone disease is PURELY LYTIC. Malignant plasma cells activate osteoclasts AND suppress osteoblasts.**
-> **A radionuclide BONE SCAN detects OSTEOBLASTIC activity — so it is typically NEGATIVE in myeloma despite extensive bone destruction.** **This is a classic examination point and a real clinical trap: a normal bone scan does not exclude myeloma bone disease.**
-> **For the same reason, the ALKALINE PHOSPHATASE is often NORMAL** in myeloma, unlike in metastatic bone disease or a healing fracture.
-> **The plain-film SKELETAL SURVEY is now OUTDATED — it is insensitive, requiring substantial bone loss before a lesion is visible.**
-> **Current imaging is WHOLE-BODY LOW-DOSE CT, whole-body MRI, or PET-CT.** `UNVERIFIED — the preferred modality and current recommendations.`
-
-> [!warning] The complications that present as emergencies
-> **· HYPERCALCAEMIA — confusion, dehydration, constipation, arrhythmia. Fluids first.** Cross-refer [[I3]] 0.2.
-> **· SPINAL CORD COMPRESSION — back pain precedes neurological signs by weeks. Whole-spine MRI and dexamethasone immediately.** Cross-refer [[L4]] 0.3 and [[J5]].
-> **· ACUTE KIDNEY INJURY — most often CAST NEPHROPATHY from filtered light chains obstructing tubules.** **Management: aggressive HYDRATION · stop nephrotoxics including NSAIDs and, where possible, avoid contrast · correct hypercalcaemia · and treat the myeloma urgently, because that is what stops the light chain production.**
-> **· HYPERVISCOSITY — more typical of IgM (Waldenström) but occurring with high IgA or IgG paraproteins: headache, visual disturbance, mucosal bleeding, confusion. Plasmapheresis.**
-> **· INFECTION — from immunoparesis, neutropenia and treatment. A leading cause of early death.**
-> **· PATHOLOGICAL FRACTURE, including vertebral collapse.**
-
-> [!tip] Treatment principles worth knowing at intern level
-> **Modern myeloma is NOT CURABLE but is HIGHLY TREATABLE, with survival that has improved substantially — which matters when talking to patients who may have outdated expectations.**
-> **· Induction with combinations typically including a PROTEASOME INHIBITOR, an IMMUNOMODULATORY DRUG, a corticosteroid and an anti-CD38 antibody · AUTOLOGOUS STEM CELL TRANSPLANT in eligible patients · then maintenance.**
-> **· BONE PROTECTION with a bisphosphonate or denosumab for essentially all patients with bone disease.**
-> **· VTE PROPHYLAXIS — IMMUNOMODULATORY DRUGS (thalidomide, lenalidomide) ARE STRONGLY THROMBOGENIC, particularly combined with dexamethasone, and thromboprophylaxis is mandatory.** **This is a specific, examinable and clinically important point.**
-> **· Infection prophylaxis, vaccination, and prompt treatment of febrile episodes.**
-> **· RADIOTHERAPY for painful lesions and for cord compression.**
-> **· Steroid side effects — hyperglycaemia, mood change, insomnia, infection — are a major part of the day-to-day burden and are worth anticipating.**
-
----
-
-## 0.3 The Other Paraprotein Disorders
-
-> [!danger] AL amyloidosis — and the echocardiographic discordance that gives it away
-> **Misfolded free LIGHT CHAINS deposit as amyloid fibrils in tissues.**
-> **The clinical clues, which are individually non-specific and collectively distinctive:**
-> **· NEPHROTIC SYNDROME with heavy proteinuria.**
-> **· RESTRICTIVE CARDIOMYOPATHY — heart failure with preserved ejection fraction, raised NT-proBNP and troponin, and — the key finding — THICKENED VENTRICULAR WALLS ON ECHOCARDIOGRAPHY WITH LOW VOLTAGES ON THE ECG.** **That discordance (a thick heart that generates small complexes) is highly suggestive, because the wall is thickened by infiltrate rather than by muscle.**
-> **· MACROGLOSSIA (with dental indentations) and PERIORBITAL PURPURA ("raccoon eyes", appearing after minor pressure such as coughing or rubbing) — both uncommon but close to specific.**
-> **· Hepatomegaly, autonomic neuropathy (postural hypotension, gastroparesis), peripheral neuropathy, CARPAL TUNNEL SYNDROME (often bilateral and preceding diagnosis by years), and easy bruising with an ACQUIRED FACTOR X DEFICIENCY.**
-> **Diagnosis: TISSUE BIOPSY with CONGO RED staining showing APPLE-GREEN BIREFRINGENCE under polarised light, plus TYPING of the amyloid (because treatment differs completely between AL, ATTR and other types).**
-> **CARDIAC INVOLVEMENT DETERMINES PROGNOSIS**, and untreated cardiac AL amyloidosis has a very short survival — which makes early recognition genuinely consequential. Cross-refer [[CV-X]] 0.4.
-
-> [!warning] Waldenström macroglobulinaemia and hyperviscosity
-> **A lymphoplasmacytic lymphoma producing an IgM paraprotein.** **IgM is a large pentameric molecule, which is why it causes HYPERVISCOSITY at relatively modest concentrations.**
-> **HYPERVISCOSITY SYNDROME: headache · VISUAL DISTURBANCE · mucosal bleeding (epistaxis, gum bleeding) · confusion and reduced consciousness · and heart failure.**
-> **FUNDOSCOPY IS THE BEDSIDE TEST — dilated, tortuous, "sausage-string" retinal veins with haemorrhages.** **Look at the fundi in anyone with a high paraprotein and neurological symptoms.**
-> **PLASMAPHERESIS is the emergency treatment and works rapidly.**
-> **Other features: lymphadenopathy and hepatosplenomegaly · peripheral NEUROPATHY (anti-MAG) · COLD AGGLUTININ disease · and cryoglobulinaemia.**
-> **CRYOGLOBULINAEMIA — strongly associated with HEPATITIS C — causing palpable purpura, arthralgia, peripheral neuropathy and membranoproliferative glomerulonephritis.** **Test for hepatitis C.** Cross-refer [[L2]] 0.5 and [[C3]] 0.3.
-
----
-
-## 0.4 Lymphoma
-
-> [!tip] Hodgkin and non-Hodgkin, and one counterintuitive fact
-> **HODGKIN LYMPHOMA — bimodal age distribution (young adults and older adults) · REED-STERNBERG cells · typically CONTIGUOUS nodal spread · cervical and MEDIASTINAL nodes · and it is HIGHLY CURABLE, including in advanced stage.**
-> **Two classic features: ALCOHOL-INDUCED NODAL PAIN (rare, but essentially unique to Hodgkin lymphoma) and PEL-EBSTEIN FEVER (cyclical fevers over days to weeks).**
-> **NON-HODGKIN LYMPHOMA — a heterogeneous group, broadly split into:**
-> **· AGGRESSIVE (diffuse large B-cell lymphoma, Burkitt lymphoma) — fast-growing, symptomatic, and POTENTIALLY CURABLE.**
-> **· INDOLENT (follicular, marginal zone, small lymphocytic) — slow-growing, often asymptomatic and found incidentally, TREATABLE BUT GENERALLY NOT CURABLE, and often managed with watchful waiting.**
-> **THE PARADOX WORTH REMEMBERING: the AGGRESSIVE lymphomas are the CURABLE ones. The indolent ones are not.** **Fast-growing tumours respond to chemotherapy; slow-growing ones do not, but also do not kill quickly.** This is counterintuitive and is regularly examined.
-
-> [!warning] B symptoms and the lymph node red flags
-> **B SYMPTOMS — unexplained FEVER · DRENCHING NIGHT SWEATS (soaking the sheets and requiring a change of clothes, not just feeling warm) · and unintentional WEIGHT LOSS of more than 10% in six months.** **They are prognostic and part of staging, and they should be asked about specifically and in those terms.**
-> **LYMPH NODE FEATURES SUGGESTING MALIGNANCY:**
-> **· Size above about 2 cm.**
-> **· PERSISTENT beyond four to six weeks, or PROGRESSIVELY ENLARGING.**
-> **· HARD, RUBBERY, FIXED or matted.**
-> **· NON-TENDER.**
-> **· SUPRACLAVICULAR — always abnormal, and warrants investigation for both haematological and solid malignancy (a left supraclavicular node, Virchow node, suggests intra-abdominal malignancy).**
-> **· GENERALISED lymphadenopathy.**
-> **· Associated B symptoms, hepatosplenomegaly, or unexplained cytopenias.**
-> Cross-refer [[B6]] 0.8.
-
-> [!danger] Excisional biopsy, not fine needle aspiration
-> **Lymphoma classification depends on NODAL ARCHITECTURE as well as cell morphology and immunophenotype.**
-> **A FINE NEEDLE ASPIRATE DESTROYS THE ARCHITECTURE and frequently cannot distinguish lymphoma subtypes, or distinguish lymphoma from reactive change.**
-> **AN EXCISIONAL (or generous core) BIOPSY IS REQUIRED.**
-> **Requesting an FNA on a suspicious node delays diagnosis by weeks while a proper biopsy is arranged** — and it is a common error.
-
-> [!warning] The investigations and the things to check before treatment
-> **· BIOPSY, then PET-CT for staging.**
-> **· LDH — prognostic and reflects tumour burden.**
-> **· FBC, film, UEC, calcium, urate, LFT.**
-> **· HIV, HEPATITIS B and HEPATITIS C SEROLOGY — and hepatitis B specifically because RITUXIMAB CAUSES HEPATITIS B REACTIVATION, which can be fulminant and fatal.** **Anyone receiving rituximab must be screened for hepatitis B (including core antibody, not just surface antigen) and given antiviral prophylaxis if positive.** **This is a specific, well-documented and preventable harm.** Cross-refer [[C3]] 0.3 and [[K3]] 0.5.
-> **· ECHOCARDIOGRAPHY before ANTHRACYCLINES.**
-> **· FERTILITY DISCUSSION AND PRESERVATION BEFORE TREATMENT — time-critical, and frequently omitted in young patients focused on survival.**
-> **BURKITT LYMPHOMA has an extremely high proliferation rate and is a MEDICAL EMERGENCY — with a very high risk of TUMOUR LYSIS SYNDROME, which must be anticipated and prevented before treatment starts.** Cross-refer [[J5]].
-> **Late effects of successful treatment: SECONDARY MALIGNANCY (including breast cancer after chest radiotherapy, which requires early intensive surveillance — cross-refer [[O7]] 0.1) · cardiac disease · hypothyroidism after neck radiotherapy · and infertility.**
-
----
-
-## 0.5 Leukaemia
-
-> [!danger] Acute promyelocytic leukaemia — start treatment on suspicion
-> **APML (a subtype of AML, with the t(15;17) translocation) is distinctive because it presents with a severe COAGULOPATHY AND DIC, and patients die of CATASTROPHIC HAEMORRHAGE — intracranial or pulmonary — in the first days, often BEFORE or SHORTLY AFTER diagnosis.**
-> **ALL-TRANS RETINOIC ACID (ATRA) is highly effective and should be STARTED ON CLINICAL SUSPICION, before genetic confirmation returns.**
-> **Alongside: aggressive blood product support to keep the platelets and fibrinogen well above usual thresholds.**
-> **THE EXAMINABLE AND CLINICALLY IMPORTANT POINT: this is the leukaemia where hours matter and where treatment precedes confirmation.** **A patient with acute leukaemia and a coagulopathy needs a haematologist immediately.**
-> **DIFFERENTIATION SYNDROME is the complication of ATRA — fever, dyspnoea, pulmonary infiltrates, hypotension, weight gain — treated with corticosteroids.**
-
-> [!tip] The four leukaemias in outline
-> **· ACUTE MYELOID LEUKAEMIA — predominantly older adults. Blasts with AUER RODS. Presents with MARROW FAILURE: anaemia, bleeding from thrombocytopenia, and infection from neutropenia — plus gum infiltration and skin involvement in monocytic subtypes.**
-> **· ACUTE LYMPHOBLASTIC LEUKAEMIA — the commonest childhood cancer, with a peak in early childhood, and a second smaller peak in adults (where prognosis is worse).** **Presents with pallor, bruising, BONE PAIN and limp, lymphadenopathy, hepatosplenomegaly and fever.** **CNS and TESTES are sanctuary sites requiring specific directed treatment.** Cross-refer [[M1]] 0.5 and [[M5]] 0.5.
-> **· CHRONIC MYELOID LEUKAEMIA — the PHILADELPHIA CHROMOSOME t(9;22) producing the BCR-ABL fusion tyrosine kinase.** **Presents with a very high white cell count showing the FULL SPECTRUM of myeloid precursors, MASSIVE SPLENOMEGALY, and constitutional symptoms — or incidentally.** **TYROSINE KINASE INHIBITORS transformed this from a fatal disease to one with near-normal life expectancy, and it is the classic example of successful targeted therapy.** **Untreated it progresses to BLAST CRISIS.**
-> **· CHRONIC LYMPHOCYTIC LEUKAEMIA — the commonest leukaemia in adults, usually found INCIDENTALLY as a lymphocytosis on a routine count.** **SMEAR (smudge) CELLS on the film.** **Complications: IMMUNOPARESIS with recurrent infection (the leading cause of death) · AUTOIMMUNE complications, particularly haemolytic anaemia and immune thrombocytopenia · and RICHTER TRANSFORMATION to aggressive lymphoma.** **MANY PATIENTS NEVER REQUIRE TREATMENT** — "watch and wait" is appropriate and evidence-based, and treating early does not improve survival, which is important to explain to a patient told they have leukaemia and then offered no treatment.
-
-> [!warning] The leukaemia emergencies
-> **· FEBRILE NEUTROPENIA — antibiotics within a short defined window, before the workup is complete.** Cross-refer [[K1]] 0.5.
-> **· HYPERLEUCOCYTOSIS AND LEUCOSTASIS — a very high blast count causing sludging in the microvasculature: breathlessness and hypoxia, confusion, visual change, priapism.** **A medical emergency requiring urgent cytoreduction, and a reason NOT to transfuse red cells (which increases viscosity) before discussion with haematology.**
-> **· TUMOUR LYSIS SYNDROME — cross-refer [[J5]].**
-> **· DIC, particularly in APML.**
-> **WHEN TO PHONE RATHER THAN REFER: blasts on the film · pancytopenia with illness · a very high white cell count with symptoms · any coagulopathy with acute leukaemia · and neutropenic fever.**
-
----
-
-## 0.6 Myeloproliferative Neoplasms
-
-> [!tip] Polycythaemia — first work out whether it is real and primary
-> **· RELATIVE (apparent) polycythaemia — a reduced plasma volume rather than increased red cell mass: dehydration, diuretics, alcohol, obesity.**
-> **· SECONDARY — appropriate erythropoietin drive: CHRONIC HYPOXIA (COPD, obstructive sleep apnoea, cyanotic heart disease, altitude), SMOKING (carboxyhaemoglobin), erythropoietin-secreting tumours (renal cell carcinoma, hepatocellular carcinoma), and exogenous TESTOSTERONE — which is an increasingly common cause given the growth in testosterone prescribing and use.**
-> **· PRIMARY — POLYCYTHAEMIA VERA, driven by a JAK2 mutation, with low or suppressed erythropoietin.**
-> **Features of polycythaemia vera: THROMBOSIS (arterial and venous, including at unusual sites — cross-refer [[J3]] 0.6) · AQUAGENIC PRURITUS (itch after a hot shower — highly characteristic and worth asking about) · ERYTHROMELALGIA (burning red painful hands and feet) · plethora · splenomegaly · headache and visual disturbance.**
-> **Management: VENESECTION to a target haematocrit, low-dose ASPIRIN, cytoreduction in higher-risk patients, and cardiovascular risk factor management.** `UNVERIFIED — haematocrit targets.`
-
-> [!warning] Thrombocytosis is usually reactive
-> **REACTIVE (secondary) thrombocytosis is FAR more common than essential thrombocythaemia: IRON DEFICIENCY · infection and inflammation · malignancy · bleeding · post-splenectomy or hyposplenism · tissue damage and surgery.**
-> **So a raised platelet count should first prompt a search for the cause — starting with iron studies and inflammatory markers — rather than a haematology referral.**
-> **ESSENTIAL THROMBOCYTHAEMIA — a clonal disorder (JAK2, CALR or MPL) causing both THROMBOSIS and, paradoxically, BLEEDING at very high platelet counts through an ACQUIRED VON WILLEBRAND SYNDROME (the large multimers are adsorbed onto the excess platelets).** Cross-refer [[J3]] 0.3.
-> **MYELOFIBROSIS — marrow fibrosis with extramedullary haematopoiesis.** **MASSIVE SPLENOMEGALY · constitutional symptoms (fever, sweats, weight loss) · a LEUCOERYTHROBLASTIC film with characteristic TEARDROP-shaped red cells (dacrocytes) · and a "DRY TAP" on marrow aspiration requiring trephine biopsy.**
-> **All the myeloproliferative neoplasms carry a risk of THROMBOSIS and of transformation to acute myeloid leukaemia.**
-
-**Ix:** **SERUM PROTEIN ELECTROPHORESIS WITH IMMUNOFIXATION, SERUM FREE LIGHT CHAINS, and urine electrophoresis — requested explicitly** (*why:* the dipstick misses light chains and myeloma is otherwise missed in unexplained renal impairment or anaemia; *what:* paraprotein, light chain ratio). **FBC with BLOOD FILM** (*why:* blasts, smear cells, rouleaux, teardrop cells and leucoerythroblastic change each point to a specific diagnosis; *what:* the morphology). **UEC, CALCIUM, albumin, LDH, urate, beta-2 microglobulin** (*why:* end-organ damage, tumour burden and prognosis; *what:* CRAB features, LDH). **EXCISIONAL LYMPH NODE BIOPSY — not FNA** (*why:* classification requires architecture, and an FNA delays diagnosis; *what:* histology, immunophenotype). **WHOLE-BODY LOW-DOSE CT, MRI or PET-CT for myeloma — NOT a bone scan and NOT a plain skeletal survey** (*why:* myeloma lesions are purely lytic so the bone scan is negative, and the skeletal survey is insensitive; *what:* lytic lesions, focal disease). **PET-CT for lymphoma staging** (*why:* stage determines treatment; *what:* nodal and extranodal disease). **HIV, HEPATITIS B (including core antibody) and HEPATITIS C serology BEFORE rituximab or chemotherapy** (*why:* hepatitis B reactivation with rituximab can be fatal and is preventable with prophylaxis; *what:* infection or past exposure). **Echocardiography before anthracyclines, and where amyloidosis is suspected** (*why:* baseline function, and the wall thickness/ECG voltage discordance of amyloid; *what:* ejection fraction, wall thickness). **Bone marrow aspirate and trephine, with cytogenetics and molecular studies** (*why:* diagnosis, classification and prognosis; *what:* the clone). **FUNDOSCOPY in suspected hyperviscosity** (*why:* a bedside diagnosis that triggers urgent plasmapheresis; *what:* dilated tortuous retinal veins). **JAK2, CALR and MPL testing where a myeloproliferative neoplasm is suspected** (*why:* establishes clonality; *what:* the mutation). **Fertility discussion and referral before gonadotoxic treatment** (*why:* time-critical and routinely omitted; *what:* preservation options).
-
----
-
-> [!note] Cross-references
-> Oncological emergencies, tumour lysis and cord compression → [[J5]] · Cytopenias, pancytopenia and marrow failure → [[J1]] 0.6 · Autoimmune haemolysis in CLL → [[J2]] 0.3 · Unusual-site thrombosis and JAK2 → [[J3]] 0.6 · Acquired von Willebrand syndrome → [[J3]] 0.3 · Febrile neutropenia → [[K1]] 0.5 · Hepatitis B reactivation and immunosuppression → [[C3]] 0.3 and [[K3]] 0.5 · Hypercalcaemia → [[I3]] 0.2 · Metastatic spinal cord compression → [[L4]] 0.3 · Renal impairment and light chains → [[H1]] 0.5 and [[H3]] 0.2 · Cardiac amyloidosis and HFpEF → [[CV-X]] 0.4 · Cryoglobulinaemia and vasculitis → [[L2]] 0.5 · Lymphadenopathy and the neck lump → [[B6]] 0.8 · Childhood leukaemia presentation → [[M1]] 0.5 and [[M5]] 0.5 · Breast surveillance after chest radiotherapy → [[O7]] 0.1 · Palliative care and symptom control → [[GER2]] 0.5
-
-
-<!-- ===== SOURCE: J5_Oncological_Emergencies_and_Palliative_Care.md ===== -->
-
-
-> [!warning] Sourcing
-> Written from model knowledge, not retrieved from source. Recognition, principles and clinical reasoning are reliable at intern level. **ALL DOSES ARE OMITTED** — end-of-life and opioid prescribing must come from the **Australian Medicines Handbook**, **eTG Palliative Care**, **CareSearch / palliAGED**, and your health network's anticipatory prescribing chart, calculated for the individual patient.
-> **VOLUNTARY ASSISTED DYING is lawful in South Australia under specific statutory requirements** — every aspect of it is flagged `UNVERIFIED` and must be checked against the current Act and SA Health guidance. **Do not act on anything in 0.4 about VAD without verifying it.**
->
-> **End-of-life care, prognostic trajectories and advance care planning are built in [[GER2]] 0.5–0.6**, **febrile neutropenia in [[K1]] 0.5**, and **hypercalcaemia in [[I3]] 0.2** — cross-referenced rather than repeated.
-
----
-
-## 0.1 The Oncological Emergencies
-
-> [!tip] The list, and why it belongs to generalists
-> **· FEBRILE NEUTROPENIA · METASTATIC SPINAL CORD COMPRESSION · SUPERIOR VENA CAVA OBSTRUCTION · HYPERCALCAEMIA · TUMOUR LYSIS SYNDROME · raised intracranial pressure from brain metastases · MALIGNANT BOWEL OBSTRUCTION · massive haemoptysis or haemorrhage · hyperviscosity and leucostasis · IMMUNE-RELATED ADVERSE EVENTS · neutropenic enterocolitis · and cardiac tamponade.**
-> **Almost all of these present out of hours, to an emergency department or a ward cover intern, not to the oncologist.**
-> **Outcomes depend on RECOGNITION and on the first hour**, not on specialist treatment that follows.
-
-> [!danger] Four questions to ask about every cancer patient who presents unwell
-> **1. WHAT IS THE CANCER, and is it curative or palliative intent?**
-> **2. WHAT TREATMENT ARE THEY ON, and WHEN WAS THE LAST DOSE?** **Anyone within weeks of chemotherapy is neutropenic until proven otherwise. Anyone on a checkpoint inhibitor — even months after the last dose — can have an immune-related adverse event.**
-> **3. DO THEY HAVE A TREATMENT CARD, protocol or alert?** Most oncology and haematology services issue one, and it names the regimen and the contact number.
-> **4. WHAT IS THE DOCUMENTED GOALS-OF-CARE STATUS?** **Find it before you escalate or before you withhold — and if there isn't one, that is itself a finding.** Cross-refer [[A10]] 0.3.
-
----
-
-## 0.2 Neutropenic Sepsis and Treatment Toxicity
-
-> [!danger] Antibiotics within the hour — before the workup is complete
-> **FEBRILE NEUTROPENIA IS A MEDICAL EMERGENCY with mortality comparable to any other form of sepsis.**
-> **GIVE EMPIRICAL BROAD-SPECTRUM ANTIBIOTICS WITHIN A SHORT DEFINED WINDOW — do NOT wait for the neutrophil count, the cultures, the chest radiograph, or a senior review.** Cross-refer [[K1]] 0.5.
-> **THE ABSENCE OF FEVER DOES NOT EXCLUDE IT.** **Patients on corticosteroids, the elderly, and those in septic shock may be afebrile or HYPOTHERMIC.** **Hypotension, tachycardia, confusion, rigors or simply "feeling unwell" in a recently treated patient warrant the same response.**
-> **Practical points: take cultures from peripheral sites AND from every lumen of any central line · examine the line site, the mouth, the perineum and the skin · and AVOID RECTAL EXAMINATIONS, SUPPOSITORIES AND ENEMAS in a neutropenic patient**, because of the risk of bacteraemia and perianal infection.
-> **NEUTROPENIC ENTEROCOLITIS (typhlitis) — right iliac fossa pain, fever and diarrhoea in a neutropenic patient, with bowel wall thickening on CT.** **It mimics appendicitis, and it is managed medically rather than surgically in most cases** — so recognising it prevents an operation the patient may not survive.
-
-> [!danger] Immune-related adverse events — diarrhoea is colitis until proven otherwise
-> **Checkpoint inhibitors (anti-PD-1, anti-PD-L1, anti-CTLA-4) cause autoimmune inflammation that can affect ANY organ.**
-> **THE COMMON ONES: COLITIS · hepatitis · PNEUMONITIS · THYROIDITIS (which may present as thyrotoxicosis then hypothyroidism) · HYPOPHYSITIS and ADRENAL INSUFFICIENCY · nephritis · dermatitis · arthritis · and neurological syndromes.**
-> **MYOCARDITIS is uncommon but carries very high mortality — a checkpoint inhibitor patient with chest pain, breathlessness, arrhythmia or a raised troponin needs urgent assessment.**
-> **THREE THINGS THAT CATCH PEOPLE OUT:**
-> **1. THEY OCCUR MONTHS AFTER THE LAST DOSE.** A patient who stopped treatment three months ago is still at risk, and the connection is not made.
-> **2. TREATMENT IS CORTICOSTEROIDS — not just stopping the drug.** Immunosuppression is the therapy, escalating to other agents for severe or refractory cases.
-> **3. DIARRHOEA IN A CHECKPOINT INHIBITOR PATIENT IS IMMUNE COLITIS UNTIL PROVEN OTHERWISE.** **Treating it as gastroenteritis with LOPERAMIDE is dangerous — it can mask progression to perforation.** Exclude infection (including *C. difficile*), then treat with steroids.
-> **ENDOCRINOPATHIES ARE FREQUENTLY PERMANENT**, requiring lifelong replacement — and adrenal insufficiency can present as collapse. Cross-refer [[I4]] 0.3 and [[A5]] 0.7.
-
-> [!warning] The chemotherapy toxicities worth knowing by name
-> **· ANTHRACYCLINES — cumulative CARDIOTOXICITY; baseline and surveillance echocardiography.** Cross-refer [[CV-X]] 0.1.
-> **· TRASTUZUMAB — cardiotoxicity, usually reversible.**
-> **· BLEOMYCIN — PULMONARY FIBROSIS, with risk related to cumulative dose and to high inspired oxygen concentrations, which matters if the patient later needs anaesthesia.** Cross-refer [[RESP-X]] 0.1.
-> **· CISPLATIN — nephrotoxicity, OTOTOXICITY (irreversible, and a reason for audiometry) and peripheral neuropathy.**
-> **· VINCRISTINE — peripheral neuropathy, and it is FATAL IF GIVEN INTRATHECALLY.** **This has caused deaths, and it is why vinca alkaloids are dispensed in minibags and never in a syringe.**
-> **· 5-FLUOROURACIL and CAPECITABINE — mucositis, diarrhoea, hand-foot syndrome, coronary vasospasm; severe toxicity occurs in DPD deficiency, for which testing is increasingly used.**
-> **· METHOTREXATE — mucositis, myelosuppression, and remember it is WEEKLY.** Cross-refer [[L2]] 0.2.
-> **EXTRAVASATION of a vesicant: STOP the infusion, do NOT flush, ASPIRATE what you can through the cannula, leave the cannula in initially, mark the area, apply the appropriate warm or cold compress for that drug, use the specific antidote where one exists, and involve the oncology and plastic surgery teams.** `UNVERIFIED — drug-specific management.`
-
----
-
-## 0.3 The Metabolic and Structural Emergencies
-
-> [!danger] Tumour lysis syndrome — and do not give calcium
-> **Massive cell lysis releases intracellular contents: HIGH POTASSIUM · HIGH PHOSPHATE · HIGH URATE — and the phosphate binds calcium, producing LOW CALCIUM.**
-> **The consequences: acute kidney injury (urate and calcium phosphate deposition), arrhythmia, seizures and death.**
-> **HIGHEST RISK: BURKITT and other high-grade lymphomas · acute leukaemias, particularly with a high white cell count · bulky chemosensitive disease · and pre-existing renal impairment or dehydration. It can occur SPONTANEOUSLY before treatment in very high-turnover disease.**
-> **PREVENTION IS THE MANAGEMENT: aggressive HYDRATION · ALLOPURINOL or, in high-risk cases, RASBURICASE · and frequent monitoring of potassium, phosphate, calcium, urate and renal function.**
-> **RASBURICASE IS CONTRAINDICATED IN G6PD DEFICIENCY — it causes severe haemolysis and methaemoglobinaemia.** **Screen at-risk patients first.** Cross-refer [[J2]] 0.2.
-> **THE COUNTERINTUITIVE POINT: DO NOT GIVE CALCIUM FOR ASYMPTOMATIC HYPOCALCAEMIA in tumour lysis** — it increases calcium phosphate precipitation and worsens renal injury. **Treat calcium only if symptomatic or with arrhythmia.**
-> **Treat the hyperkalaemia, and involve renal medicine early — dialysis is sometimes required.** Cross-refer [[I5]] 0.6.
-
-> [!warning] Superior vena cava obstruction
-> **Features: facial and upper limb SWELLING · distended, non-pulsatile neck and chest wall VEINS with visible collaterals · plethora · dyspnoea and cough · headache WORSE ON BENDING FORWARD OR LYING FLAT · and PEMBERTON SIGN (facial plethora, distress and stridor on raising both arms above the head).**
-> **Usually caused by lung cancer or lymphoma, and increasingly by intravascular devices causing thrombosis.**
-> **THE EMERGENCY IS AIRWAY COMPROMISE AND CEREBRAL OEDEMA — most cases are urgent but not immediately life-threatening.**
-> **Because of that: WHERE THE PATIENT IS STABLE, OBTAIN A TISSUE DIAGNOSIS BEFORE TREATING**, since steroids and radiotherapy can obscure the histology and the diagnosis determines the entire treatment plan — particularly if it is lymphoma, which is highly treatable.
-> **Management: CT with contrast · endovascular STENTING (which gives rapid relief) · radiotherapy or chemotherapy depending on the tumour · corticosteroids · and anticoagulation for thrombotic causes.**
-
-> [!danger] Metastatic spinal cord compression — the neurology at treatment predicts the outcome
-> **PAIN PRECEDES NEUROLOGICAL SIGNS BY WEEKS.** New or worsening back pain in a patient with known malignancy — particularly if it is band-like, worse lying flat, or wakes them at night — is cord compression until proven otherwise.
-> **THE FUNCTIONAL OUTCOME IS DETERMINED BY THE NEUROLOGICAL STATUS AT THE TIME OF TREATMENT.** **A patient who is still walking when treated usually keeps walking. A patient who has lost the ability to walk usually does not regain it.**
-> **That single fact is why this is an emergency and why the window is the pain phase, not the paralysis phase.**
-> **Management: DEXAMETHASONE IMMEDIATELY · WHOLE-SPINE MRI (because there are frequently multiple levels) · and urgent discussion with oncology, radiation oncology and spinal surgery.** **Do not wait until morning.** Cross-refer [[L4]] 0.3.
-
-> [!tip] The other structural emergencies
-> **· RAISED INTRACRANIAL PRESSURE from brain metastases — headache worse in the morning or on coughing, vomiting, focal deficit, seizures, papilloedema.** **Dexamethasone and imaging.** **But avoid steroids before biopsy if primary CNS LYMPHOMA is a possibility — steroids can make the lesion disappear radiologically and render the biopsy non-diagnostic**, delaying treatment of a treatable disease. **Discuss before prescribing.**
-> **· MALIGNANT BOWEL OBSTRUCTION — frequently MULTI-LEVEL and NOT surgically correctable.** **Management is often MEDICAL: anti-secretory agents, antiemetics chosen by mechanism, analgesia, corticosteroids, and a venting gastrostomy or nasogastric tube for symptom relief.** **Surgery is considered only for a single-level obstruction in a patient with reasonable performance status.** Cross-refer [[C5]] 0.5.
-> **· CARDIAC TAMPONADE from a malignant pericardial effusion — cross-refer [[F0.3]] 0.5.**
-> **· MASSIVE HAEMOPTYSIS or catastrophic haemorrhage — and where this is anticipated in a dying patient, PLAN FOR IT: dark towels, sedation prescribed in advance, and a briefed family.** See 0.6.
-
----
-
-## 0.4 Palliative Care Principles
-
-> [!danger] Palliative care is not the same as end-of-life care
-> **This misunderstanding causes real harm — patients and families hear "palliative" as "giving up", and clinicians defer referral until the last days, when most of the benefit has been lost.**
-> **PALLIATIVE CARE IS SPECIALIST SYMPTOM AND QUALITY-OF-LIFE CARE THAT RUNS ALONGSIDE ACTIVE TREATMENT.** It can start at diagnosis, and it is appropriate in non-malignant disease — heart failure, COPD, renal failure, neurodegenerative disease — as much as in cancer.
-> **EARLY PALLIATIVE CARE INVOLVEMENT IMPROVES QUALITY OF LIFE, REDUCES DEPRESSION, REDUCES AGGRESSIVE END-OF-LIFE TREATMENT — AND, IN SOME STUDIES, IMPROVES SURVIVAL.**
-> **That last point is worth having available**, because it answers the objection directly: earlier referral is not a shorter life.
-> **How to frame it to a patient: "this is a team who specialise in helping you feel as well as possible and in supporting you and your family — it works alongside your cancer treatment, not instead of it."**
-
-> [!warning] Clinicians systematically over-estimate prognosis
-> **Doctors consistently predict survival LONGER than it turns out to be, and the error increases the better they know the patient.**
-> **The consequences: late referral · conversations that never happen · treatment continued past benefit · and families unprepared.**
-> **The "SURPRISE QUESTION" — "would I be surprised if this patient died in the next twelve months?" — is a crude but useful prompt, and a "no" should trigger advance care planning.**
-> **Communicating prognosis: ask first what they want to know, and how much detail.** **Use RANGES in units of time — "days to weeks", "weeks to short months" — rather than a number, and acknowledge the uncertainty honestly.** **A specific number is almost always wrong and is remembered forever.** Cross-refer [[GER5]].
-> **The illness trajectories — cancer's late steep decline, organ failure's sawtooth, frailty's slow drift — are in [[GER2]] 0.5** and explain why prognostication is hardest in non-malignant disease.
-
-> [!tip] Place of care, and what makes home possible
-> **Most people say they would prefer to die at home. Most die in hospital.**
-> **The gap is usually practical, not preferential — and the things that close it are: ANTICIPATORY MEDICATIONS IN THE HOUSE · a syringe driver and someone able to manage it · equipment (bed, commode, pressure mattress) · community nursing and after-hours access to advice · a documented plan so that an ambulance called at 3am does not automatically transport and resuscitate · and — most importantly — a carer who is supported enough to keep going.**
-> **CARER EXHAUSTION IS THE COMMONEST REASON A PLANNED HOME DEATH BECOMES A HOSPITAL ONE**, and asking the carer how they are — separately, and meaning it — is a genuine clinical intervention.
-
-> [!danger] Voluntary assisted dying — know that it exists and verify everything else
-> **VOLUNTARY ASSISTED DYING IS LAWFUL IN SOUTH AUSTRALIA under specific statutory eligibility criteria and a defined process involving multiple assessments and mandated training for participating practitioners.**
-> **`UNVERIFIED — every aspect: the eligibility criteria, the process, the timeframes, who may participate, the conscientious objection provisions, and — importantly — the rules about who may RAISE the subject, which differ between Australian jurisdictions and have been the subject of amendment. Verify against the current SA Act and SA Health guidance before saying anything about it to a patient.`**
-> **What holds generally: practitioners may CONSCIENTIOUSLY OBJECT to participating, but must not obstruct a patient's access to information or care · and a request for VAD should always prompt exploration of what is driving it — uncontrolled symptoms, fear of future suffering, loss of control, or feeling a burden — because those are frequently addressable and the request may change when they are addressed.**
-> **Responding to a request: do not react with alarm or shut it down. Listen, explore, be honest about your own position, and ensure they can access accurate information through the proper channel.**
-
----
-
-## 0.5 Symptom Control
-
-> [!tip] Pain — and the concept that changes the consultation
-> **"TOTAL PAIN" — the recognition that the experience of pain has PHYSICAL, PSYCHOLOGICAL, SOCIAL and SPIRITUAL components, and that pain which does not respond to escalating opioids is frequently not primarily physical.**
-> **A patient whose pain is worse at night, or who needs escalating doses without benefit, may be frightened, or grieving, or worried about their family's finances, or unable to say goodbye to someone.** **Asking "what is the worst thing about this for you?" sometimes achieves more than another dose increase.**
-> **Practical opioid principles:**
-> **· Regular background analgesia plus BREAKTHROUGH doses calculated as a proportion of the total daily dose.** `UNVERIFIED — the fraction and all doses.`
-> **· TITRATE against response, reviewing the number of breakthrough doses used to guide the background dose.**
-> **· PRESCRIBE A LAXATIVE WITH EVERY OPIOID, EVERY TIME. Opioid-induced constipation does not develop tolerance and it is universal.**
-> **· ANTICIPATE nausea on initiation and prescribe an antiemetic.**
-> **· RENAL IMPAIRMENT: AVOID MORPHINE — its active metabolites accumulate and cause sedation, myoclonus and respiratory depression. Use hydromorphone or fentanyl.** **This is one of the commonest and most consequential prescribing errors in palliative care.**
-> **· ADJUVANTS by pain type: NEUROPATHIC pain → antineuropathic agents (cross-refer [[F0.4]] 0.8) · BONE pain → NSAIDs, RADIOTHERAPY (a single fraction is often highly effective and under-used), bisphosphonates · liver capsular pain and raised intracranial pressure → dexamethasone · colic → antispasmodics.**
-> **· OPIOID ROTATION where side effects limit dose escalation.**
-
-> [!danger] The opioid myths that cause under-treatment
-> **1. "They'll become addicted."** **Addiction in the context of pain from advanced disease is rare. Physical dependence and tolerance are expected pharmacological phenomena and are not addiction.**
-> **2. "Morphine will hasten death."** **Opioids TITRATED TO SYMPTOMS do not shorten life.** Uncontrolled pain and breathlessness cause distress, exhaustion and agitation — treating them well is not euthanasia, and the doctrine of double effect is rarely even needed because appropriate titration does not depress respiration in a patient in pain.
-> **3. "Starting morphine means the end is near."** **Patients and families frequently believe this and refuse treatment because of it.** **Say explicitly that morphine is a treatment for a symptom, not a signal about prognosis** — otherwise the fear itself becomes the barrier.
-
-> [!warning] Breathlessness — and the free intervention that works
-> **· A HANDHELD FAN directed at the face.** **Trigeminal stimulation reduces the sensation of breathlessness. It is free, portable, evidence-supported and consistently forgotten.**
-> **· Positioning (upright, leaning forward with arms braced), breathing control, pacing, and a cool, open, uncluttered room.**
-> **· LOW-DOSE OPIOIDS are effective for refractory breathlessness and are safe at the doses used.**
-> **· Anxiolytics where anxiety is driving or amplifying it — and the two feed each other.**
-> **· OXYGEN ONLY IF HYPOXIC.** **Oxygen does not relieve breathlessness in non-hypoxaemic patients, and it tethers them to a machine and a mask.** Cross-refer [[RESP-X]] 0.6.
-
-> [!tip] The rest of the symptom burden
-> **· NAUSEA AND VOMITING — choose the antiemetic by MECHANISM and receptor, not by habit.** Cross-refer [[C2]] 0.5.
-> **· CONSTIPATION — as above, prescribed prophylactically.**
-> **· DELIRIUM — extremely common at the end of life. Look for the reversible causes (urinary retention, constipation, hypercalcaemia, infection, opioid toxicity, drug withdrawal) before assuming it is terminal.** Cross-refer [[D2]] 0.2.
-> **· MOUTH CARE — dry mouth, thrush and mucositis cause disproportionate distress and are easily and cheaply treated. It is the single most appreciated nursing intervention at the end of life.**
-> **· ANOREXIA AND CACHEXIA — the distress is usually greater for the FAMILY than for the patient. Explaining that not eating is a consequence of the illness rather than a cause of deterioration relieves a great deal of guilt and conflict.**
-> **· Fatigue, pruritus, hiccups, lymphoedema, malignant wounds, ascites and pleural effusions** — each with specific management.
-> **· Psychological, social and spiritual support, and access to allied health — occupational therapy for equipment, social work for practical and financial matters, and pastoral care.**
-
----
-
-## 0.6 The Last Days of Life
-
-> [!warning] Recognising dying is a clinical skill, and failing to do it causes harm
-> **The signs: progressive weakness and being bed-bound · reduced consciousness and increasing time asleep · minimal oral intake and difficulty swallowing medications · reduced urine output · peripheral MOTTLING and cooling · and altered breathing patterns including CHEYNE-STOKES respiration and long apnoeic pauses.**
-> **Recognising it allows the right things to happen: symptom control optimised, futile interventions stopped, the family told, and the person's wishes about place of care honoured.**
-> **FAILING TO RECOGNISE IT PRODUCES: blood tests and observations that change nothing, escalation to interventions that cannot help, a family who are not warned, and a death in a resuscitation bay rather than in a quiet room with people present.**
-> **When it is recognised, SAY SO — clearly and kindly — to the patient where possible and to the family. "I think he is dying, and I think it will be in the next few days" is one of the most important sentences in medicine, and it is frequently avoided.**
-
-> [!danger] Anticipatory prescribing — four symptoms, prescribed before they happen
-> **"JUST IN CASE" MEDICATIONS are prescribed SUBCUTANEOUSLY, AS REQUIRED, IN ADVANCE, and dispensed to the home or charted on the ward BEFORE the symptom occurs.**
-> **THE FOUR CORE SYMPTOMS:**
-> **1. PAIN or BREATHLESSNESS → an OPIOID.**
-> **2. NAUSEA AND VOMITING → an ANTIEMETIC.**
-> **3. AGITATION, ANXIETY or terminal restlessness → a BENZODIAZEPINE (usually midazolam).**
-> **4. RESPIRATORY SECRETIONS → an ANTIMUSCARINIC (glycopyrronium or hyoscine).**
-> **`UNVERIFIED — all agents and doses. Use your health network's anticipatory prescribing chart and eTG Palliative Care.`**
-> **WHY IT MATTERS SO MUCH: the commonest cause of a distressing death at home is a symptom developing at 2am with no medication in the house and no prescriber available.** **Prescribing in advance takes ten minutes and prevents that.**
-> **A CONTINUOUS SUBCUTANEOUS INFUSION (syringe driver) is used where symptoms are persistent rather than intermittent, or where swallowing is lost.**
-> **RATIONALISE THE OTHER MEDICATIONS: stop statins, antihypertensives, oral hypoglycaemics, bone protection, vitamins and most other long-term drugs; convert essential symptom control to a subcutaneous route; and stop routine observations, blood tests and finger-prick glucose testing that will not change anything.**
-
-> [!tip] Terminal secretions, and what to tell the family
-> **The "death rattle" is caused by air moving over pooled oropharyngeal secretions in a patient too weak to clear them.**
-> **TWO THINGS TO KNOW:**
-> **1. ANTIMUSCARINICS PREVENT FURTHER SECRETION BUT DO NOT DRY UP WHAT IS ALREADY THERE — so they work much better given EARLY, when the rattle first appears, than later.** **Repositioning onto the side helps.** **Suctioning is generally distressing and unhelpful.**
-> **2. IT DISTRESSES THE FAMILY FAR MORE THAN THE PATIENT.** **There is no evidence that unconscious dying patients experience distress from it.**
-> **SAYING THIS EXPLICITLY — "that sound is upsetting to hear, and I want you to know he isn't distressed by it and isn't choking" — is one of the most valuable things you can offer a family**, and it is frequently not said.
-
-> [!warning] Hydration, nutrition, and the family conversations
-> **· ARTIFICIAL HYDRATION AND NUTRITION at the end of life do not prolong life or improve symptoms in the dying phase, and can worsen secretions, oedema and breathlessness.** **The decision should be individualised and discussed, not applied by default in either direction.** **MOUTH CARE is what relieves the sensation of thirst.** Cross-refer [[GER2]] 0.3.
-> **· TELL THE FAMILY WHAT TO EXPECT — the breathing changes, the reduced consciousness, the mottling, the fact that hearing is thought to persist, and that the timing is uncertain.** **Unexpected normal events are frightening; anticipated ones are not.**
-> **· GIVE PERMISSION — to be present, and equally to step out. Families frequently feel they must maintain a vigil and then feel guilty when the death occurs during the few minutes they left the room.** **Tell them in advance that this commonly happens and that it is not a failure.**
-> **· INVOLVE CHILDREN honestly and age-appropriately — exclusion causes more lasting harm than inclusion, and children construct worse explanations than the truth.**
-> **· ANTICIPATE catastrophic events (major haemorrhage, airway obstruction) where they are foreseeable, with crisis medications prescribed and the family briefed.**
-
-> [!tip] After the death
-> **· VERIFICATION and CERTIFICATION of death — know your local process and who may do each.**
-> **· CORONER REFERRAL — required in defined circumstances including unexpected death, death within a defined period of a procedure or anaesthetic, deaths related to injury, and deaths in care or custody.** `UNVERIFIED — the SA reportable death criteria. Check them; getting this wrong causes real distress to families.`
-> **· Tissue and organ donation where appropriate.**
-> **· PRACTICAL INFORMATION for the family — what to do next, funeral arrangements, paperwork, and who to contact. A grieving family cannot retain verbal instructions; give it in writing.**
-> **· BEREAVEMENT follow-up, with attention to those at higher risk of complicated grief.**
-> **· AND YOUR OWN TEAM.** **Deaths affect staff, particularly junior staff, particularly a first death or a death of someone young. Debriefing should be offered rather than assumed unnecessary, and it is legitimate to be affected.**
-
-**Ix:** **In an unwell cancer patient: FBC, UEC, CALCIUM, LFT, CRP, blood cultures — and the neutrophil count, though ANTIBIOTICS MUST NOT WAIT FOR IT** (*why:* neutropenic sepsis is the commonest lethal presentation and the first hour determines outcome; *what:* neutropenia, organ dysfunction, infection). **Potassium, phosphate, calcium, urate and renal function in anyone at tumour lysis risk** (*why:* it is preventable and rapidly lethal; *what:* the metabolic pattern). **WHOLE-SPINE MRI for suspected cord compression, urgently** (*why:* the neurological status at treatment determines whether they walk again, and disease is often multi-level; *what:* compression). CT with contrast for suspected SVC obstruction (*why:* confirms and identifies the cause; *what:* obstruction, mass, thrombus). **Troponin and ECG in a checkpoint inhibitor patient with cardiac symptoms** (*why:* immune myocarditis has high mortality; *what:* elevation). **G6PD status before rasburicase** (*why:* severe haemolysis; *what:* deficiency). **In the DYING patient: stop investigations that will not change management** (*why:* blood tests, observations and glucose monitoring in the last days cause discomfort and inform nothing; *what:* nothing useful). **A review of the drug chart and of the goals-of-care documentation** (*why:* the highest-yield "investigation" at end of life is rationalising medications and knowing what has already been decided; *what:* deprescribing opportunities, documented wishes).
-
----
-
-> [!note] Cross-references
-> End-of-life care, trajectories and advance care planning → [[GER2]] 0.5–0.6 · Capacity, substitute decision-making and goals of care → [[A10]] 0.1–0.3 · Breaking bad news and difficult conversations → [[GER5]] · Febrile neutropenia → [[K1]] 0.5 · Hypercalcaemia → [[I3]] 0.2 · Hyperkalaemia → [[I5]] 0.6 · Metastatic spinal cord compression → [[L4]] 0.3 · Malignant bowel obstruction → [[C5]] 0.5 · Cardiac tamponade → [[F0.3]] 0.5 · Antiemetic selection by mechanism → [[C2]] 0.5 · Delirium → [[D2]] 0.2 · Neuropathic pain and opioid stewardship → [[F0.4]] 0.8–0.9 · Refractory breathlessness and the handheld fan → [[RESP-X]] 0.6 · Anthracycline and trastuzumab cardiotoxicity → [[CV-X]] 0.1 · Bleomycin lung toxicity → [[RESP-X]] 0.1 · Checkpoint inhibitor adverse events → [[A5]] 0.7 and [[I4]] 0.3 · G6PD deficiency and rasburicase → [[J2]] 0.2 · Myeloma, lymphoma and leukaemia → [[J4]] · Malnutrition and artificial nutrition → [[GER2]] 0.3
+<!-- ===== SOURCE: 10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia.md ===== -->
+
+
+> [!info] Definitions
+> - **Thrombocytopaenia:** platelets <100 ×10⁹/L (normal range 150–400 ×10⁹/L).
+> - **Neutropaenia:** neutrophils <1.5 ×10⁹/L (normal range 2.0–7.5 ×10⁹/L). Mild: 1.0–1.5; Moderate: 0.5–1.0; Severe: <0.5; Agranulocytosis: <0.1 ×10⁹/L.
+
+## Immune thrombocytopenia (ITP)
 
+- **D:** also known as immune thrombocytopenic purpura; autoimmune disorder with isolated ↓platelets in the absence of an identifiable cause.
+- **R:** women of childbearing age, <10 years old or >65 years old.
+- **A:** autoimmune.
+- **P:** antibodies are directed against glycoprotein IIb/IIIa or Ib-V-IX complex → destruction of platelets in the spleen → ↓platelet count.
+- **S/Smx:** can be asymptomatic, picked up on bloods; petechiae, purpura; bleeding (e.g. epistaxis); rarely, catastrophic bleeding (e.g. intracranial haemorrhage).
+- **Ix:** FBC — isolated platelets <100 ×10⁹/L with no other abnormality. Bone marrow examination only if atypical features (e.g. splenomegaly) or failure to respond to treatment.
+- **Mx:**
+  - Life/organ-threatening bleed — **IVIG (intravenous immunoglobulin** — here an immunomodulator, not passive protection; see [[04_Neurology]] Guillain-Barré Syndrome (GBS) for what it is doing and [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Passive Immunisation — Immunoglobulin After an Exposure for the contrast**)** + prednisolone + platelet transfusion.
+  - Platelets <30 or bleeding — prednisolone ± IVIG.
+  - Mild with no other risk factors — consider observation. In children, 80% resolve within 6 months with or without treatment. In adults, only 5–10% resolve — monitor.
+  - Advise avoiding activities that may result in trauma, e.g. contact sports.
+  - **In children specifically:** safety-net for concerning bleeding signs (persistent headache — raises concern for intracranial haemorrhage, melaena, menorrhagia); splenectomy (where needed) is delayed for ≥12 months given the genuine chance of spontaneous resolution in this age group, unlike the lower spontaneous-resolution rate in adults above.
+
+## Thrombocytopaenia — causes by severity
+
+> [!info] Severe thrombocytopaenia
+> ITP, DIC, TTP, haematological malignancy.
+
+> [!info] Moderate thrombocytopaenia
+> - Heparin-induced thrombocytopaenia (HIT) — immune-mediated, antibodies against platelet factor 4 and heparin complex. Develops 5–10 days after treatment. ↓Platelets by ~50%, thrombosis, skin allergy. Mx: stop heparin ± protamine sulfate (if overdose); if anticoagulation still needed, use a direct thrombin inhibitor (e.g. argatroban) or low molecular weight heparinoid (danaparoid).
+> - Drug-induced (e.g. quinine, diuretics, sulphonamides, aspirin, thiazides).
+> - Alcohol and liver disease — portal hypertension → sequestration of platelets in the spleen; ↓thrombopoietin production in the liver.
+> - Hypersplenism — sequestration of platelets in the spleen; viral infections (e.g. EBV, HIV) can lead to hypersplenism.
+> - Pregnancy.
+> - SLE / antiphospholipid syndrome.
+> - Vitamin B12 deficiency.
+
+- **Mx:** treat underlying disorder; platelet transfusions (see 10.08).
+
+## Von Willebrand disease (vWD)
+
+- **D:** inherited bleeding disorder due to either a quantitative or qualitative abnormality of von Willebrand factor (vWF).
+- 80% have Type 1 disease, which is autosomal dominant.
+
+> [!info] Types
+> - **Type 1:** partial ↓vWF (autosomal dominant, most common).
+> - **Type 2:** abnormal form of vWF.
+> - **Type 3:** complete absence of vWF (autosomal recessive, most severe).
+
+- **P:** vWF mediates platelet adhesion to exposed subendothelium at sites of vascular injury; also functions as a carrier molecule for factor VIII. Problems with vWF → ↓platelet adhesion → bleeding problems.
+- **R:** family history, consanguineous parents (especially for Type 3 vWD).
+- **S/Smx:** excessive or prolonged bleeding from minor wounds or post-op; easy and excessive bruising; menorrhagia.
+- **Ix:** bloods — ↑bleeding time, ↑APTT (or normal) ± ↓factor VIII; normal PT, normal FBC usually. Defective platelet aggregation with ristocetin.
+- **Mx:**
+  - Severe active haemorrhage: vWF-containing concentrate ± platelet transfusion.
+  - Less acute settings: tranexamic acid; desmopressin (MOA: induces release of vWF from Weibel-Palade bodies in endothelial cells).
+
+### Other platelet disorders
+
+- **Bernard-Soulier syndrome** — large platelets ("big suckers"); defect in adhesion of platelets due to ↓GpIb.
+- **Glanzmann thrombasthenia** — defect in aggregation due to ↓GpIIb/IIIa.
+
+## Haemophilia
+
+- **D:** X-linked recessive deficiency of a coagulation factor resulting in a bleeding disorder.
+  - Haemophilia A: ↓factor VIII.
+  - Haemophilia B: ↓factor IX (aka Christmas disease).
+- Note: up to 30% of patients have no family history of the condition.
+- **S/Smx:**
+  - History of recurrent or severe bleeding (e.g. prolonged bleeding after trauma or surgery).
+  - Musculoskeletal bleeding — haemarthroses (into joints), bleeding into muscles.
+  - Pseudotumours — recurrent bleeds into soft tissues → chronic encapsulated cystic mass.
+  - Intracranial bleeding — 3–5% of newborn boys with severe haemophilia.
+
+> [!info] Gap-filled — haemarthrosis was listed as a characteristic feature without explaining why joints specifically, rather than skin or mucosa, are preferentially affected. **Mechanism:** joints (particularly high-motion, weight-bearing joints — knees, elbows, ankles) undergo frequent minor microtrauma during ordinary daily activity, causing small capillary bleeds within the synovium — in a person with normal clotting, these are rapidly sealed by **secondary haemostasis** (the clotting factor cascade, culminating in a stable fibrin clot). In haemophilia, this specific pathway is deficient, so these routine, otherwise-inconsequential microtraumas fail to clot properly and progress into significant, clinically apparent joint bleeds — explaining why haemarthrosis is disproportionately prominent in haemophilia specifically, unlike bleeding disorders affecting **primary** haemostasis (platelet disorders), which instead cause predominantly mucocutaneous bleeding (petechiae, epistaxis, gum bleeding) — platelet plug formation, the first-response mechanism for routine minor capillary injury, remains fully intact in haemophilia, since only the factor-dependent stabilisation step downstream is affected. Recurrent haemarthrosis in the same joint leads to chronic synovitis and progressive joint destruction ("haemophilic arthropathy") if bleeds aren't promptly treated — genuinely important given this is a preventable cause of long-term disability, not just an acute bleeding episode.
+
+- **Ix:** bloods — ↑APTT + normal PT, other tests normal. Plasma factor VIII & IX assay will show ↓ or absent factors.
+
+> [!info] APTT measures the intrinsic coagulation pathway, of which factors VIII and IX are part; PT measures the extrinsic pathway, which is not affected in haemophilia.
+
+- Mixing study — patient plasma + normal plasma will show corrected APTT. 10–15% of patients with haemophilia A will develop antibodies to factor VIII treatment.
+- **Mx:**
+  - Prophylaxis — regular infusion of plasma-derived factors; emicizumab in haemophilia A (mimics the action of factor VIII).
+  - Life- or limb-threatening bleed — factor concentrate + supportive care as needed; if the patient has antibodies to factor VIII, they need a bypassing agent.
+
+## Neutropaenia
+
+> [!info] Causes
+> - Viral: HIV, EBV, hepatitis.
+> - Drugs: cytotoxics, carbimazole, clozapine.
+> - Benign ethnic neutropaenia — common in Black or Afro-Caribbean ethnicities, no treatment required.
+> - Haematological malignancies — myelodysplasia, aplastic anaemia.
+> - Rheumatological conditions — Felty's syndrome (RA + splenomegaly + neutropaenia).
+> - SLE (secondary to anti-neutrophil antibodies).
+> - Severe sepsis.
+> - Haemodialysis.
+
+- **Mx:**
+  - Treat or remove the cause — stop offending drugs.
+  - Refer to haematology.
+  - Antibiotic prophylaxis.
+  - Granulocyte colony stimulating factor (G-CSF) can be used.
+
+*(See also [[10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies]] Neutropenic sepsis)*
+
+
+<!-- ===== SOURCE: 10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia.md ===== -->
+
+
+> [!note] **Moved to `[[Emergency and Crit Care_merged]]` on 2026-09-01:** `Methaemoglobinaemia` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## Antiphospholipid syndrome (APS)
+
+- **D:** association of persistent antiphospholipid antibodies with thromboses and pregnancy-related morbidity.
+- **Antibodies include:** lupus anticoagulant, anticardiolipin antibody, anti-beta2-glycoprotein I.
+- **R:** personal history of SLE (30% of SLE patients are positive for APS antibodies) and other autoimmune disorders.
+
+> [!tip] Mnemonic — "CLOT"
+> - **C**lots — venous/arterial thrombosis
+> - **L**ivedo reticularis (mottled skin)
+> - **O**bstetric complications — recurrent miscarriages, pulmonary hypertension, pre-eclampsia
+> - **T**hrombocytopaenia
+
+- **Ix:** antibodies as above; bloods and clotting screen (↓platelets and ↑APTT).
+- **Mx:**
+  - Primary thromboprophylaxis: aspirin 75mg.
+  - Secondary thromboprophylaxis (after an event has occurred): lifelong warfarin (target INR 2–3); if arterial thrombosis, warfarin (target INR 2–3); if recurrent events, consider adding aspirin.
+  - **In pregnancy:** low-dose aspirin once pregnancy is confirmed; add LMWH (e.g. enoxaparin) once fetal heart is seen on ultrasound, usually discontinued at 34 weeks.
+
+## Thrombocytosis
+
+- **D:** platelets >400 ×10⁹/L.
+- **Causes:**
+  - **Reactive** — platelets are an acute phase reactant, ↑inflammation → ↑platelets (e.g. iron deficiency anaemia, surgery, severe infection).
+  - **Malignancy.**
+  - **Hyposplenism** — ↓ability of the spleen to destroy circulating platelets.
+  - **Essential thrombocytosis** (essential thrombocythaemia).
+
+### Essential thrombocytosis
+
+- **D:** chronic myeloproliferative neoplasm associated with ↑number or ↑size of platelets.
+- **R:** JAK2 mutation in 50% of patients.
+- **S/Smx:** platelets >600 ×10⁹/L; arterial or venous thrombosis; burning sensation in hands.
+- **Mx:** life-threatening thrombosis — plateletpheresis. 75mg aspirin to reduce thrombotic risk. Hydroxyurea (hydroxycarbamide) to reduce platelet count. Interferon-α in younger patients.
+
+## Thrombophilia
+
+- **D:** abnormality of blood coagulation that increases risk of thrombosis.
+- **Causes:** Factor V Leiden (most common), prothrombin gene mutations, antithrombin III deficiency, protein C or S deficiency, antiphospholipid syndrome, combined oral contraceptive pill.
+
+### Factor V Leiden
+
+- Prevalence of up to 6% in white people, rare in other ethnicities.
+- Gain of function in the factor V Leiden protein → increased activity of factor V.
+- Also known as activated protein C resistance, as protein C inactivates factor V much more slowly.
+- Heterozygotes: 4–5× risk of VTE. Homozygotes: 10× risk.
+- **S/Smx:** asymptomatic until a VTE occurs.
+- **Ix:** screening is not recommended even after a VTE, because a previous history of VTE is already considered a risk factor for further events — no need to specifically screen for clotting disorders.
+- **Mx:**
+  - Generally does not require treatment in day-to-day life.
+  - Prophylaxis in hospitalisation, cancer, or surgical procedures — early mobilisation; LMWH, DOAC, or aspirin are options if there is no excessive bleeding risk; if increased bleeding risk, mechanical thromboprophylaxis (e.g. compression stockings, intermittent pneumatic compression).
+  - If VTE occurs, prophylactic DOAC for 3 months (6 months if unprovoked) — see [[01_Cardiovascular]] 0.29 Deep Vein Thrombosis (DVT) and 0.30 Pulmonary Embolism (PE) for the disease-level Mx this feeds into, not repeated here.
+
+> [!note] **Moved to `[[OBGYN_merged]]` on 2026-09-01:** `Postpartum Infection and Thromboembolism` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+<!-- ===== SOURCE: 10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets.md ===== -->
+
+
+## Anticoagulants
+
+> [!note] See [[03a_Anaesthetics_Primer]] General Anaesthesia for the AU-verified perioperative DOAC/warfarin timing and bridging detail (ANZCA-aligned, 2022 CHEST guideline update) — not repeated here, given this file focuses on ongoing/chronic anticoagulant management and acute bleeding/reversal rather than elective perioperative planning.
+
+**Indications:** prevention of stroke in AF; prevention of VTE following hip and knee surgery; treatment of DVT and PE.
+
+### Direct oral anticoagulants (DOACs)
+
+> [!info] Verified against the NSW Agency for Clinical Innovation's DOAC Guidelines and an Australian retrospective cohort study on real-world reversal practice, Aug 2026 — the reversal-agent table below needed genuine expansion beyond drug names alone, given DOACs are now the dominant/first-line anticoagulant class (see Warfarin below, now explicitly 2nd-line) yet the original note gave them far less practical detail than warfarin's.
+
+| Drug | MOA | Excretion | Reversal |
+|---|---|---|---|
+| Dabigatran | Direct thrombin inhibitor | Mainly renal | Idarucizumab |
+| Rivaroxaban | Direct factor Xa inhibitor | Mainly liver | Andexanet alfa |
+| Apixaban | Direct factor Xa inhibitor | Mainly faecal | Andexanet alfa |
+| Edoxaban | Direct factor Xa inhibitor | Mainly faecal | ? Andexanet alfa |
+
+- **When reversal is actually indicated:** minor bleeding is usually managed with local haemostatic measures, supportive care, and simply withholding the next dose — **reversal agents are reserved for major/life-threatening bleeding, or when urgent reversal is needed for emergency surgery**, not applied routinely for any bleeding on a DOAC.
+- **Idarucizumab (dabigatran reversal):** the specific, effective reversal agent — **genuinely important practical caveat: idarucizumab may not be available in all facilities**, so availability should be confirmed rather than assumed, particularly outside major centres.
+- **Andexanet alfa (rivaroxaban/apixaban reversal):** received TGA **provisional approval** in Australia in July 2023 — a genuinely evolving access situation rather than a settled one, given "provisional" approval and continuing limited stocking mean it is **not reliably available in all Australian hospitals**, even now. **A real-world Australian cohort study found no specific factor Xa reversal agent was actually accessible in practice, with prothrombin complex concentrate (PCC) or activated PCC used off-label instead** — this remains the practical default in many Australian settings when andexanet isn't accessible, not merely a theoretical fallback.
+- **Prothrombin complex concentrate (PCC) — the practical non-specific alternative when a specific reversal agent isn't available (which is genuinely common in Australian practice for factor Xa inhibitors specifically):** used off-label for DOAC reversal, with reasonable evidence for efficacy despite lacking the same trial-level evidence base as the specific agents; a lower thromboembolic risk than andexanet in comparative data, though optimal dosing remains less clearly established than for warfarin reversal.
+- **Practical hierarchy worth holding in mind:** for dabigatran, idarucizumab first if available, PCC/activated PCC as the alternative; for factor Xa inhibitors (rivaroxaban/apixaban), PCC is often the practical Australian default given andexanet's limited real-world accessibility despite formal approval — check current local/hospital protocol rather than assuming a specific agent will be on hand.
+
+### Warfarin
+
+- **MOA:** prevents vitamin K activation.
+- **Indications:** mechanical heart valves; 2nd line after DOACs.
+- **Monitoring:** INR (international normalised ratio — the ratio of the patient's prothrombin time over normal prothrombin time).
+
+> [!warning] Factors potentiating warfarin
+> - Liver disease.
+> - P450 enzyme inhibitors, e.g. amiodarone, ciprofloxacin.
+> - Drugs that displace warfarin from plasma albumin, e.g. NSAIDs.
+> - Drugs that inhibit platelet function, e.g. NSAIDs, aspirin.
+> - Cranberry juice.
+
+- **Side effects:** haemorrhage; teratogenic (but can be used in breastfeeding mothers); skin necrosis (avoid by concurrent heparin administration during the initial phase); purple toes.
+
+### Unfractionated heparin (UFH)
+
+- **MOA:** activates antithrombin III → inhibits thrombin, factors X, IX, XI, and XII (intrinsic pathway).
+- IV administration, short half-life. Monitor using APTT.
+- **Indications:** anticoagulation needed but high risk of bleeding (UFH can be rapidly terminated + has an antidote); renal failure.
+- **Antidote:** protamine sulfate.
+- **Side effects:** thrombocytopaenia (heparin-induced thrombocytopaenia, HIT); osteoporosis, ↑fracture risk; hyperkalaemia.
+
+### Low molecular weight heparin (LMWH)
+
+- E.g. enoxaparin.
+- **MOA:** activates antithrombin III → inhibits only factor Xa.
+- Subcutaneous administration, long half-life.
+- **Indications:** ACS; VTE treatment and prophylaxis.
+- No antidote, and not routinely monitored (fewer side effects).
+
+## Antiplatelets
+
+### Aspirin
+
+- **MOA:** blocks COX1 and COX2 enzymes → ↓prostaglandin, prostacyclin, and thromboxane synthesis → ↓platelet aggregation.
+- **Indications:** first line for ischaemic heart disease (ACS prevention).
+
+> [!danger] Contraindicated in children <16 years old due to risk of Reye's syndrome — except in Kawasaki disease.
+
+- **SE:** as per NSAIDs; also potentiates the effects of oral hypoglycaemics, warfarin, steroids.
+
+### P2Y12 inhibitors
+
+- E.g. clopidogrel, ticagrelor, prasugrel.
+- **MOA:** inhibits the P2Y12 receptor on platelets → ↓platelet aggregation.
+- **Indications:** first line in TIA, ischaemic stroke, and peripheral arterial disease; second line or combined with aspirin in other conditions.
+- **SE:** GI upset.
+
+## Tranexamic acid
+
+- Synthetic derivative of lysine.
+- **MOA:** reversibly binds to lysine receptor sites on plasminogen or plasmin → prevents plasmin from degrading fibrin — anti-fibrinolytic (essentially prevents clots from breaking down).
+- **Indications:** menorrhagia; IV bolus in major haemorrhage (proven benefit if administered within the first 3h).
+
+
+<!-- ===== SOURCE: 10_08_Haemonc_-_Blood_Products_and_Transfusion.md ===== -->
+
+
+## Blood products
+
+### Packed red cells
+
+- Each unit is ~300mL — whole blood is collected from the donor, then plasma is removed.
+- Each bag should raise the patient's Hb by approximately 10 g/L (3% haematocrit).
+- Requires group & save (G&S) and cross-match before administration.
+- Store at 4°C prior to infusion. In a non-urgent scenario, a unit of RBCs is usually transfused over 90–120 minutes. Shelf life ~42 days.
+
+**Indications for giving:**
+- Acute major haemorrhage.
+- Regular transfusions for chronic anaemia.
+- In most other settings, transfusion thresholds: patients without acute coronary syndrome (e.g. STEMI) — <70 g/L; patients with ACS — <80 g/L.
+
+### Platelets
+
+- Platelet-rich plasma, or platelet concentrate (via high speed centrifugation).
+
+> [!warning] Platelets carry the highest risk of bacterial contamination compared to other blood products.
+
+**Indications for giving:**
+- Active bleeding — platelets <30 ×10⁹ with clinically significant bleeding (e.g. melaena); platelets <100 ×10⁹ with severe bleeding or bleeding at critical sites (e.g. CNS).
+- Before an invasive procedure — aim for >50 ×10⁹ in most patients; >50–75 if high risk of bleeding; >100 if surgery at a critical site.
+- If no active bleeding or planned invasive procedure, the threshold for platelet transfusion is <10 ×10⁹ if there are no alternatives.
+
+### CMV-negative and irradiated blood
+
+> [!info] Indications for CMV-negative blood
+> - Granulocyte transfusions
+> - Intra-uterine transfusions
+> - Neonates ≤28 days post expected date of delivery
+> - Pregnancy — elective transfusions during pregnancy (not during labour or delivery)
+
+> [!info] Indications for irradiated blood
+> - Granulocyte transfusions
+> - Intra-uterine transfusions
+> - Neonates ≤28 days post expected date of delivery
+> - Bone marrow or stem cell transplants
+> - Immunocompromised (e.g. chemotherapy or congenital — but not HIV)
+> - Patients with current or previous Hodgkin lymphoma
+
+> [!tip] CMV-negative blood is essentially blood without leucocytes, as CMV is transmitted in leucocytes. Irradiated blood products are depleted of T cells, and are used to avoid transfusion-associated graft versus host disease.
+
+### Fresh frozen plasma (FFP)
+
+- Each unit is ~150–220mL. In warfarin reversal, 30mL/kg is needed — give along with ≥1L fluid in a 70kg person (caution in fluid overload states; may not be suitable).
+- Prepared from single units of blood. Contains clotting factors, albumin and immunoglobulin.
+- Requires G&S and cross-match before administration. Universal donor is AB blood.
+
+**Indications for giving:**
+- Patients with clinically significant but non-major haemorrhage with a PT:APTT ratio >1.5.
+- Prophylaxis for surgery if there is significant risk of bleeding.
+
+### Cryoprecipitate
+
+- Each unit is 15–20mL. FFP is centrifuged → the liquid that remains on top (supernatant) is cryoprecipitate.
+- Contains Factor VIII and fibrinogen among other clotting factors — clinically used to replace fibrinogen.
+- Requires G&S and cross-match before administration.
+
+**Indications for giving:**
+- Patients with clinically significant but non-major haemorrhage with fibrinogen concentration <1.5 g/L (e.g. DIC, liver failure).
+- Emergency situations for haemophiliacs and von Willebrand disease.
+- Prophylaxis for surgery if there is significant risk of bleeding and fibrinogen <1.0 g/L.
+
+### Prothrombin complex concentrate (PCC)
+
+- Aka factor IX complex — a 4-factor PCC containing factors II, VII, IX and X at therapeutic concentration (Beriplex is the current standard Australian product, replacing the older 3-factor Prothrombinex-VF in June 2024 — see the Warfarin Reversal section above for the fuller detail, not repeated here).
+- Dose: Beriplex 50 U/kg.
+- Main indication is emergency reversal of anticoagulation in patients with severe bleeding or head injury with suspected intracranial haemorrhage.
+- Rarely used for prophylaxis.
+
+### Cell saver devices
+
+- Device collects the patient's blood during surgery and re-infuses it — some devices wash the RBCs prior to re-infusion (↓risk of contamination) but are more expensive.
+- May be acceptable to Jehovah's Witnesses.
+- Contraindicated in malignant disease due to risk of increased disease dissemination.
+
+## ABO and Rh Compatibility — The Two Opposite Rules
+
+> [!note] Gap-filled — the "universal donor is AB blood" statement below (in the FFP section) is correct **specifically for plasma**, but is exactly the kind of statement that gets confused with the opposite rule for red cells if the underlying logic isn't explained — this entry provides that logic once, given both rules recur throughout this file.
+
+**The core principle: ABO compatibility is about which antigens are present on the cells and which antibodies are present in the plasma — and red cells and plasma have opposite compatibility rules, precisely because it's the *other* component (antigens vs antibodies) that matters for each.**
+
+> [!info] Red cells — matching AVOIDS giving antigens the recipient has antibodies against
+> - **Type O red cells have neither A nor B antigens** — since there's nothing on the cell surface for the recipient's own anti-A/anti-B antibodies to react against, **O red cells can be given to any ABO recipient** — making **O the universal red cell donor**.
+> - Conversely, **type AB red cells carry both A and B antigens** — an AB recipient has neither anti-A nor anti-B antibodies (since their own cells carry both antigens), so **AB recipients can receive red cells of any ABO type** — making **AB the universal red cell recipient**.
+
+> [!info] Plasma — the opposite logic, because plasma is being matched by its antibody content instead
+> - **Type AB plasma contains neither anti-A nor anti-B antibodies** — since an AB person's own cells carry both antigens, their plasma was never exposed to develop antibodies against either — so **AB plasma can be given to any ABO recipient without triggering a reaction against the recipient's own red cell antigens**, making **AB the universal plasma donor** (the statement already in the FFP section above, now with the reasoning behind it).
+> - Conversely, **type O plasma contains both anti-A and anti-B antibodies** (since a type O person's own cells carry neither antigen, their immune system develops antibodies against both) — so **only type O recipients can safely receive type O plasma**, making **O recipients the most restricted for plasma specifically** — genuinely the opposite pattern from red cells, where O is the most flexible donor.
+
+**Rh(D) compatibility — a separate system, layered on top of ABO:** Rh-negative individuals lack the RhD antigen and can develop anti-D antibodies if exposed to RhD-positive blood (via transfusion or, in pregnancy, via fetomaternal exposure — see [[16_01-05_Antenatal_Care]] for the anti-D prophylaxis detail this underlies, not repeated here) — **Rh-negative blood is preferred whenever the recipient's Rh status is unknown or when transfusing Rh-negative individuals specifically**, given the risk of sensitisation with future exposures (transfusion reactions or, for a person capable of pregnancy, haemolytic disease of the newborn in a future pregnancy).
+
+**Practical relevance:** this is why **O-negative red cells are the true "universal donor" blood** referenced in emergency transfusion contexts (see [[03a_Anaesthetics_Primer]] Group & Hold / Crossmatch for the emergency O-negative use principle, not repeated here) — combining the universal-donor property for both the ABO (O) and Rh (negative) systems simultaneously.
+
+## Massive Transfusion Protocol (MTP)
+
+> [!note] Gap-filled — despite the individual blood products above being thoroughly built, the coordinated protocol tying them together for critical bleeding was genuinely absent, referenced only in passing elsewhere in this project as a cause of dilutional coagulopathy. Verified against Australian Red Cross Lifeblood's "Management of critical bleeding" clinical guidance, Aug 2026.
+
+- **D:** a predefined, coordinated hospital protocol for the rapid, balanced delivery of blood products in critical/life-threatening haemorrhage — activated to prevent the delays inherent in ordering products individually as a crisis unfolds. Massive transfusion is typically defined as ≥10 units of RBC within 24 hours, or transfusion of half the patient's blood volume within 4 hours, or a full blood volume within 24 hours (adult blood volume ≈70mL/kg).
+- **Activation criteria:** life-threatening haemorrhage with a genuine or anticipated need for large-volume transfusion — activated on clinical judgement and anticipated trajectory, not only once a fixed unit-count threshold has already been reached, given the entire purpose is to get ahead of a deteriorating situation rather than react to it.
+
+> [!info] Ratio-based product delivery — the genuinely important Australian-specific point: Lifeblood's institutional guidance specifies **no fewer than 4 units of FFP and 1 adult unit of platelets for every 8 units of RBC** — a minimum ratio framing, distinct from (though broadly in the same direction as) the "1:1:1" ratio more commonly cited internationally from the PROPPR trial. Local Health Districts/hospitals customise this into a site-specific MTP with predefined product "packs," so the exact configuration genuinely varies by institution — check the local protocol rather than assuming a fixed national number. **Viscoelastic haemostatic assay (VHA)-guided algorithms** are an accepted alternative to fixed ratio-based dosing where locally available, allowing product delivery to be tailored to the patient's actual measured coagulation status rather than a predefined ratio alone.
+> - **Fibrinogen replacement:** usual adult target dose 3–4g, achievable via cryoprecipitate (10 units whole-blood-equivalent) or fibrinogen concentrate per local protocol; allow up to 30 minutes thawing time for FFP/cryoprecipitate — a genuinely practical logistic point, given this delay needs to be anticipated rather than discovered mid-crisis.
+> - **Platelets:** thrombocytopenia <50×10⁹/L can be anticipated after two blood-volume equivalents of replacement, from dilution and consumption — aim to keep platelets >50×10⁹/L (higher thresholds for intracranial/spinal bleeding, consistent with the general platelet transfusion thresholds already established above, not repeated here); usual adult platelet dose is 1 unit.
+
+- **Practical/logistic principles beyond the product ratios themselves:**
+  - **Communication between the clinical team and the transfusion laboratory is genuinely critical**, not a secondary administrative concern — MTP is as much a logistics protocol as a clinical one, and delays or miscommunication directly translate into delayed product availability during active haemorrhage.
+  - **Treat the underlying cause of bleeding concurrently** — MTP replaces lost blood volume and coagulation factors, but doesn't itself stop the bleeding; definitive haemorrhage control (surgical, interventional radiological, obstetric per [[16_14-15_Obstetric_Emergencies]] Postpartum haemorrhage (PPH), not repeated here) must proceed in parallel, not be delayed while transfusion catches up.
+  - **Paediatric/neonatal patients require age-specific institutional protocols** for both activation criteria and product dosing — adult ratios and activation thresholds don't transfer directly, given different blood volumes and different tolerance of the products involved.
+- **A genuinely important caution on activation accuracy:** MTP over-activation causes blood product wastage; under-activation risks patient morbidity/mortality from inadequate resuscitation — neither clinical judgement alone nor current scoring systems reliably achieve optimal activation accuracy, which is precisely why predefined institutional criteria (rather than case-by-case discretion alone) are used, even though they remain imperfect.
+
+## Blood product transfusion complications
+
+> [!danger] Acute haemolytic reaction — acute onset of intravascular haemolysis due to ABO-incompatible blood transfusion, resulting in complement activation and an inflammatory cascade; RBC destruction secondary to IgM antibodies. S/Smx: onset within minutes of transfusion — fever, abdominal pain, hypotension; if severe, DIC, ARDS. Mx: stop transfusion, check blood product (identity, blood type, Coombs test), repeat cross-match, fluid resuscitation.
+
+> [!warning] Non-haemolytic febrile reaction — acute onset immune-mediated reaction to blood products. A/P: antibodies against fragments from cells (possible contamination) or WCC, formation of immune complexes. Associated with RCC transfusion (1–2%), platelet transfusions (10–30%). S/Smx: fever, chills. Mx: slow or stop transfusion, paracetamol, and monitor.
+
+> [!tip] Minor allergic reaction — acute onset of minor allergic reaction, possibly due to foreign plasma proteins. S/Smx: pruritus, urticaria. Mx: temporarily stop transfusion, antihistamines, monitor.
+
+> [!danger] Anaphylactic reaction — acute onset of IgE-mediated major allergic reaction. Anaphylactoid reaction in patients with IgA deficiency who have anti-IgA antibodies. S/Smx: hypotension (shock), dyspnoea, wheezing, angioedema. Mx: stop transfusion, IM adrenaline, oxygen, fluid resuscitation.
+
+> [!danger] Transfusion-related acute lung injury (TRALI) — non-cardiogenic pulmonary oedema, possibly secondary to ↑vascular permeability due to host neutrophils being activated by substances in donated blood. S/Smx: hypoxia, pulmonary infiltrates on CXR, fever, ↓BP. Mx: stop transfusion, O2, support as needed.
+
+> [!warning] Transfusion-associated circulatory overload (TACO) — hypervolaemia secondary to excessive transfusion, seen especially in patients with predisposing conditions such as heart failure. S/Smx: pulmonary oedema, ↑BP. Mx: slow or stop transfusion, consider IV furosemide, support as needed.
+
+
+## Warfarin — management of high INR
+
+> [!danger] Stop warfarin in ALL patients with an elevated INR requiring management.
+
+> [!info] Verified against the Australasian Society of Thrombosis and Haemostasis consensus guidelines (MJA) and Australian Red Cross Lifeblood clinical guidance, Aug 2026 — the AU-specific INR-banding and doses differ meaningfully from the UK figures this entry previously carried (the table that follows is the Australian management), and there's a genuinely current supply-chain change worth knowing: **Australia transitioned from Prothrombinex-VF (a 3-factor PCC) to Beriplex (a 4-factor PCC) as the standard PCC for warfarin reversal in June 2024** — 4-factor PCC contains all four vitamin K-dependent factors (II, VII, IX, X) at adequate concentration, so **FFP is no longer routinely needed alongside PCC** the way it sometimes was with the older 3-factor product (which lacked adequate factor VII) — a genuine, recent change from older teaching that specified PCC + FFP together. Target INR for most indications (VTE, single mechanical valve excluding mitral) is 2–3; mechanical mitral valve or other high-thrombotic-risk indications may have a higher target (not detailed here).
+
+| Scenario | Australian management |
+|---|---|
+| **Major bleeding, or urgent surgery/procedure needed** | IV Vitamin K1 5–10mg + PCC (Beriplex/4-factor PCC — see note above; FFP not routinely required with 4-factor PCC, unlike older 3-factor protocols) |
+| **INR >9, bleeding absent, high risk of bleeding** | Cease warfarin; IV Vitamin K1 1mg; consider PCC + FFP; recheck INR in 6–12h; resume warfarin at a reduced dose once INR <5 |
+| **INR >9, bleeding absent, low risk of bleeding** | Cease warfarin; Vitamin K1 2.5–5mg PO (or 1mg IV); recheck INR in 6–12h; resume warfarin at a reduced dose once INR <5 |
+| **INR 4.5–10, bleeding absent, no high bleeding risk** | Withholding warfarin alone, with careful subsequent monitoring, is considered safe — Vitamin K may not be needed in this band specifically |
+| **Any INR + bleeding present, not classified as "major"** | Individualised — generally follows the same principle as the major-bleeding row above but with clinical judgement on PCC necessity based on bleeding severity |
 
 <!-- ===== SOURCE: NEW_Drugs_07_Blood_and_Electrolytes.md ===== -->
 
@@ -3039,6 +1645,1432 @@
 **Rows in file: 17 (4 SUB + 13 CLS). AMH section 7 build-list rows: 17. Section complete.**
 
 > [!note] **One pair of build-list rows is a naming duplicate** — `Erythropoiesis-Stimulating Agents` and `Erythropoietin agonists` name the same class; built once at 0.2.2 with both rows mapped.
+
+
+<!-- ===== SOURCE: 10_09b_Haemonc_-_Miscellaneous_Haematology.md ===== -->
+
+
+> [!note] **Moved to `[[Infectious Disease_merged]]` on 2026-09-01:** `Hereditary angioedema` — reproduced there verbatim under a `SOURCE:` divider naming this file.
+
+## Fatigue and Pallor — Approach and Differential
+
+> [!note] Gap-filled from CSV ("Fatigue" and "Pallor," both Low yield) — genuinely absent as standalone differentials despite being extremely common, non-specific presenting complaints. Kept deliberately concise given the Low-yield status and given the individual causes are already thoroughly built elsewhere throughout this project — this entry's value is the organising framework, not new disease content.
+
+**The core principle:** both are genuinely non-specific — fatigue and pallor are presenting complaints, not diagnoses, and the differential for each is broad enough that a systematic approach (rather than jumping straight to the most obvious cause) is the actual skill being tested.
+
+**Pallor specifically:** while anaemia is the classic and most commonly tested cause (see [[10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia]] for the full microcytic/normocytic/macrocytic approach, not repeated here), **pallor and anaemia are not synonymous** — pallor can reflect reduced cutaneous blood flow without true anaemia (e.g. shock/hypovolaemia, peripheral vasoconstriction from cold or anxiety, hypothyroidism) and, conversely, anaemia is not always visibly apparent as pallor, particularly in patients with more pigmented skin, where conjunctival or palmar crease pallor are more reliable examination sites than facial skin colour alone.
+
+**Fatigue — genuinely one of the broadest presenting complaints in medicine, worth organising by system:**
+- **Haematological:** anaemia of any cause (see the cross-reference above, not repeated here).
+- **Endocrine/metabolic:** hypothyroidism, diabetes (poor control or, conversely, hypoglycaemia), adrenal insufficiency (see [[06_Metabolic_Medicine_and_Endocrinology]] Addison's Disease (Primary Adrenal Insufficiency), not repeated here).
+- **Cardiorespiratory:** heart failure, COPD, obstructive sleep apnoea (via poor sleep quality — see [[13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA]] for the adult OSA entry, not repeated here).
+- **Infective/inflammatory:** any chronic or subacute infection, malignancy (including as a genuinely important red flag alongside other B-symptoms — weight loss, night sweats), chronic inflammatory/autoimmune disease.
+- **Psychiatric:** depression, anxiety, and other mental health conditions are genuinely common causes of fatigue and should be actively screened for rather than only considered once organic causes are excluded — see [[14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_]] Depression (Major depressive disorder), not repeated here.
+- **Sleep-related:** poor sleep quality/quantity from any cause, including but not limited to OSA above — see [[14_05b_Psych_-_Insomnia]], not repeated here.
+- **Medication-related:** a genuinely easy-to-overlook cause — sedating medications, beta-blockers, and many others can cause fatigue as a side effect, making medication review a routine part of the work-up rather than an afterthought.
+- **Renal/hepatic:** CKD (via anaemia, uraemia, and the disease process itself — see [[07_Renal_Medicine_and_Urology]] Chronic Kidney Disease (CKD), not repeated here) and chronic liver disease.
+
+**Ix — guided by the history/examination and red flags, not a reflexive standard panel:** FBC (anaemia), TFTs, U&Es/LFTs (renal/hepatic causes), fasting glucose/HbA1c, and further targeted investigation guided by specific findings — inflammatory markers, autoimmune screen, or malignancy work-up where the clinical picture supports it, rather than ordered by default for every presentation of fatigue.
+
+**A genuinely important closing point:** the great majority of fatigue presentations in general practice **remain unexplained after reasonable initial investigation**, or reflect lifestyle/psychosocial factors (poor sleep hygiene, stress, overwork) rather than a single organic diagnosis — this is worth holding in mind so that a negative initial work-up is met with continued clinical reasoning and reassurance/lifestyle advice where appropriate, rather than an escalating, indefinitely expanding investigation cascade in search of a diagnosis that may not exist.
+
+
+## Lymphadenopathy
+
+- **D:** lymph nodes abnormal in size (>1cm), consistency, or number.
+
+> [!info] Causes (↑inflammation)
+> - **Infective:** infectious mononucleosis, HIV (including seroconversion), eczema with secondary infection, rubella, toxoplasmosis, CMV, tuberculosis, roseola infantum.
+> - **Neoplastic:** leukaemia, lymphoma.
+> - **Others:** autoimmune conditions (e.g. SLE), graft versus host disease, sarcoidosis, drugs (e.g. phenytoin, allopurinol, isoniazid).
+
+> [!info] Causes of bilateral hilar lymphadenopathy
+> Sarcoidosis; tuberculosis; lymphoma or other malignancies; pneumoconiosis; fungi (e.g. histoplasmosis).
+
+---
+
+## Splenomegaly
+
+- **D:** increased size ± function of the spleen.
+
+> [!info] Causes of massive splenomegaly
+> Myelofibrosis; chronic myeloid leukaemia; visceral leishmaniasis (kala-azar); malaria; Gaucher's disease (inherited disorder of lipid metabolism).
+
+> [!info] Other causes
+> Portal hypertension; lymphoproliferative disease (e.g. CLL, Hodgkin's); haemolytic anaemia; infection (hepatitis, glandular fever, infective endocarditis); thalassaemia; Felty syndrome (in rheumatoid arthritis).
+
+## Hyposplenism
+
+- **D:** ↓spleen function (due to structural or functional causes).
+- **Causes:** splenectomy; sickle cell disease (can cause splenomegaly, but hyposplenism is more common); coeliac disease; Graves' disease; SLE; amyloid deposits.
+- **Ix:** blood films — Howell-Jolly bodies, siderocytes (RBCs containing non-haemoglobin iron, usually removed by the spleen).
+
+> [!danger] **Mx — and the reason this entry previously stopped at Ix is worth naming.** Hyposplenism was built here as a *finding* (definition, causes, blood film) with **no management at all**, while the full, Australian-verified prophylaxis regimen sits in [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis. Nothing connected them, so a reader arriving at the topic by name met the diagnosis and never the thing that matters.
+>
+> **Functional hyposplenism carries the same risk as surgical asplenia.** *The mechanism:* the spleen clears encapsulated organisms opsonised by antibody, and coeliac disease, sickle cell disease and the other causes above impair that function whether or not the organ is present. **Overwhelming post-splenectomy infection (OPSI) is not confined to people who have had a splenectomy** — the "post-splenectomy" framing of the entry that carries the regimen should not be read as excluding these patients.
+>
+> **Management is prophylaxis, and it has three parts** — vaccination (pneumococcal, Hib, meningococcal ACWY *and* B, annual influenza), long-term antibiotic prophylaxis, and a written emergency plan with antibiotics kept at home. **The doses, timing and duration are set out and source-verified in [[08_09_Infectious_Disease_-_Miscellaneous]] Post-splenectomy sepsis and are not repeated here** — including the correction that penicillin V 500mg BD, which appears in older teaching, is double the correct prophylactic dose.
+
+## Thymoma
+
+> [!warning] FLAG 2026-09-01 — ties to Neuro
+> Thymoma's clinical significance here is largely its myasthenia gravis association, owned by
+> `Neuro_merged D4 §0.5 Neuromuscular Junction Disorders` and `04_Neurology ### Myasthenia Gravis`.
+> Flagged, not moved.
+
+- **D:** neoplasm of the epithelial cells of the thymus gland, located in the anterior mediastinum.
+- **R (associations):** myasthenia gravis (30–40% of thymoma patients); RBC aplasia; dermatomyositis; SLE; SIADH.
+- **S/Smx:** generally asymptomatic — 1/3 of cases are identified incidentally on imaging.
+
+> [!danger] Large tumours can cause chest discomfort, cough, dyspnoea — can cause death if the tumour compresses the airway or heart (cardiac tamponade).
+
+- **Ix:** chest MRI + tissue biopsy.
+- **Mx:** surgical resection if possible + post-op radiotherapy; if recurrent, chemotherapy may be indicated.
+
+<!-- ===== SOURCE: J4_Paraproteins_and_Lymphoproliferative.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Recognition, patterns and clinical reasoning are reliable at intern level. **Every diagnostic threshold, staging criterion, dose and regimen carries an `UNVERIFIED` marker naming what to check, or has been omitted with the omission stated in place.** Treatment protocols are specialist matters and are described only in principle.
+>
+> **Oncological emergencies including tumour lysis, cord compression and neutropenic sepsis are built in [[J5]]**, and **hypercalcaemia in [[I3]] 0.2** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 Paraproteins and MGUS
+
+> [!danger] The urine dipstick does not detect light chains
+> **A paraprotein is a monoclonal immunoglobulin — or a free light chain — produced by a clonal plasma cell or B-cell population.**
+> **DETECTION REQUIRES THE RIGHT TESTS: serum protein ELECTROPHORESIS with IMMUNOFIXATION · SERUM FREE LIGHT CHAINS with the kappa/lambda ratio · and urine electrophoresis for Bence Jones protein.**
+> **URINE DIPSTICK IS SENSITIVE TO ALBUMIN AND DOES NOT DETECT LIGHT CHAINS**, so a patient with massive light chain proteinuria and cast nephropathy can have a negative or trace dipstick.
+> **This is why unexplained renal impairment — particularly with anaemia, hypercalcaemia or bone pain — requires electrophoresis and free light chains SPECIFICALLY REQUESTED.** Cross-refer [[H1]] 0.5 and [[H3]] 0.2.
+> **A clue on routine bloods: a raised GLOBULIN GAP (total protein minus albumin) or a markedly raised ESR with a normal CRP.**
+
+> [!warning] MGUS is a lifelong diagnosis, not a discharge
+> **Monoclonal gammopathy of undetermined significance: a paraprotein below a defined level, fewer than 10% clonal plasma cells in the marrow, and NO end-organ damage.**
+> **It is COMMON and its prevalence rises steeply with age.**
+> **The risk of progression to myeloma or a related disorder is roughly 1% PER YEAR — and that risk does NOT decline with time.** **So a patient with MGUS for fifteen uneventful years carries the same annual risk as one diagnosed last year.**
+> **THEREFORE MGUS REQUIRES INDEFINITE MONITORING, not reassurance and discharge.** The interval is risk-stratified.
+> **SMOULDERING MYELOMA — a higher tumour burden without end-organ damage, with a substantially higher rate of progression, and now sometimes treated rather than observed.**
+> `UNVERIFIED — the diagnostic thresholds, risk stratification and monitoring intervals.`
+
+> [!danger] "MGUS" is only benign once these have been excluded
+> **A paraprotein is not automatically insignificant. The conditions that must be considered:**
+> **· MULTIPLE MYELOMA — see 0.2.**
+> **· AL AMYLOIDOSIS — which can occur with a very small paraprotein and is frequently diagnosed late.**
+> **· WALDENSTRÖM MACROGLOBULINAEMIA — an IgM paraprotein.**
+> **· MONOCLONAL GAMMOPATHY OF RENAL SIGNIFICANCE (MGRS) — a small clone causing kidney damage that would not meet myeloma criteria, but which needs treating to save the kidney.**
+> **· CRYOGLOBULINAEMIA, POEMS syndrome, and paraprotein-associated PERIPHERAL NEUROPATHY.**
+> **The practical consequence: a new paraprotein warrants assessment for end-organ damage — renal function, calcium, haemoglobin, bone imaging, urine protein, and consideration of cardiac and neurological involvement — before the "undetermined significance" label is applied.**
+
+---
+
+## 0.2 Multiple Myeloma
+
+> [!danger] CRAB — the end-organ damage that defines the disease
+> **· C — HYPERCALCAEMIA**
+> **· R — RENAL impairment**
+> **· A — ANAEMIA**
+> **· B — BONE lesions (lytic lesions, pathological fracture, or osteoporosis with fracture)**
+> **Any one of these, with a clonal plasma cell population, makes the diagnosis.**
+> **Additional biomarkers of malignancy (the "SLiM" criteria — a very high marrow plasma cell percentage, an extreme free light chain ratio, or focal lesions on MRI) now also define treatable disease before end-organ damage occurs.** `UNVERIFIED — the criteria and thresholds.`
+
+> [!warning] The presentation is back pain and fatigue — and it gets attributed to age
+> **BACK PAIN is the commonest presenting symptom, and it is regularly attributed to degenerative disease for months.**
+> **Also: fatigue from anaemia · recurrent bacterial INFECTION (from immunoparesis — the normal immunoglobulins are suppressed) · renal impairment · hypercalcaemia with confusion, constipation and thirst · weight loss · pathological fracture · and spinal cord compression.**
+> **THE COMBINATION THAT SHOULD TRIGGER A MYELOMA SCREEN:**
+> **· Unexplained ANAEMIA plus RENAL IMPAIRMENT in an older patient.**
+> **· BACK PAIN with systemic features, or back pain not behaving mechanically, in someone over 50.**
+> **· Unexplained HYPERCALCAEMIA.**
+> **· A markedly raised ESR with a raised globulin gap.**
+> **· Recurrent bacterial infections in an older adult.**
+> **· Unexplained peripheral neuropathy.**
+> **The screen is: SERUM ELECTROPHORESIS AND IMMUNOFIXATION + SERUM FREE LIGHT CHAINS + urine electrophoresis, alongside FBC, UEC, calcium and albumin.**
+
+> [!danger] The bone scan is negative in myeloma — and the skeletal survey is obsolete
+> **Myeloma bone disease is PURELY LYTIC. Malignant plasma cells activate osteoclasts AND suppress osteoblasts.**
+> **A radionuclide BONE SCAN detects OSTEOBLASTIC activity — so it is typically NEGATIVE in myeloma despite extensive bone destruction.** **This is a classic examination point and a real clinical trap: a normal bone scan does not exclude myeloma bone disease.**
+> **For the same reason, the ALKALINE PHOSPHATASE is often NORMAL** in myeloma, unlike in metastatic bone disease or a healing fracture.
+> **The plain-film SKELETAL SURVEY is now OUTDATED — it is insensitive, requiring substantial bone loss before a lesion is visible.**
+> **Current imaging is WHOLE-BODY LOW-DOSE CT, whole-body MRI, or PET-CT.** `UNVERIFIED — the preferred modality and current recommendations.`
+
+> [!warning] The complications that present as emergencies
+> **· HYPERCALCAEMIA — confusion, dehydration, constipation, arrhythmia. Fluids first.** Cross-refer [[I3]] 0.2.
+> **· SPINAL CORD COMPRESSION — back pain precedes neurological signs by weeks. Whole-spine MRI and dexamethasone immediately.** Cross-refer [[L4]] 0.3 and [[J5]].
+> **· ACUTE KIDNEY INJURY — most often CAST NEPHROPATHY from filtered light chains obstructing tubules.** **Management: aggressive HYDRATION · stop nephrotoxics including NSAIDs and, where possible, avoid contrast · correct hypercalcaemia · and treat the myeloma urgently, because that is what stops the light chain production.**
+> **· HYPERVISCOSITY — more typical of IgM (Waldenström) but occurring with high IgA or IgG paraproteins: headache, visual disturbance, mucosal bleeding, confusion. Plasmapheresis.**
+> **· INFECTION — from immunoparesis, neutropenia and treatment. A leading cause of early death.**
+> **· PATHOLOGICAL FRACTURE, including vertebral collapse.**
+
+> [!tip] Treatment principles worth knowing at intern level
+> **Modern myeloma is NOT CURABLE but is HIGHLY TREATABLE, with survival that has improved substantially — which matters when talking to patients who may have outdated expectations.**
+> **· Induction with combinations typically including a PROTEASOME INHIBITOR, an IMMUNOMODULATORY DRUG, a corticosteroid and an anti-CD38 antibody · AUTOLOGOUS STEM CELL TRANSPLANT in eligible patients · then maintenance.**
+> **· BONE PROTECTION with a bisphosphonate or denosumab for essentially all patients with bone disease.**
+> **· VTE PROPHYLAXIS — IMMUNOMODULATORY DRUGS (thalidomide, lenalidomide) ARE STRONGLY THROMBOGENIC, particularly combined with dexamethasone, and thromboprophylaxis is mandatory.** **This is a specific, examinable and clinically important point.**
+> **· Infection prophylaxis, vaccination, and prompt treatment of febrile episodes.**
+> **· RADIOTHERAPY for painful lesions and for cord compression.**
+> **· Steroid side effects — hyperglycaemia, mood change, insomnia, infection — are a major part of the day-to-day burden and are worth anticipating.**
+
+---
+
+## 0.3 The Other Paraprotein Disorders
+
+> [!danger] AL amyloidosis — and the echocardiographic discordance that gives it away
+> **Misfolded free LIGHT CHAINS deposit as amyloid fibrils in tissues.**
+> **The clinical clues, which are individually non-specific and collectively distinctive:**
+> **· NEPHROTIC SYNDROME with heavy proteinuria.**
+> **· RESTRICTIVE CARDIOMYOPATHY — heart failure with preserved ejection fraction, raised NT-proBNP and troponin, and — the key finding — THICKENED VENTRICULAR WALLS ON ECHOCARDIOGRAPHY WITH LOW VOLTAGES ON THE ECG.** **That discordance (a thick heart that generates small complexes) is highly suggestive, because the wall is thickened by infiltrate rather than by muscle.**
+> **· MACROGLOSSIA (with dental indentations) and PERIORBITAL PURPURA ("raccoon eyes", appearing after minor pressure such as coughing or rubbing) — both uncommon but close to specific.**
+> **· Hepatomegaly, autonomic neuropathy (postural hypotension, gastroparesis), peripheral neuropathy, CARPAL TUNNEL SYNDROME (often bilateral and preceding diagnosis by years), and easy bruising with an ACQUIRED FACTOR X DEFICIENCY.**
+> **Diagnosis: TISSUE BIOPSY with CONGO RED staining showing APPLE-GREEN BIREFRINGENCE under polarised light, plus TYPING of the amyloid (because treatment differs completely between AL, ATTR and other types).**
+> **CARDIAC INVOLVEMENT DETERMINES PROGNOSIS**, and untreated cardiac AL amyloidosis has a very short survival — which makes early recognition genuinely consequential. Cross-refer [[CV-X]] 0.4.
+
+> [!warning] Waldenström macroglobulinaemia and hyperviscosity
+> **A lymphoplasmacytic lymphoma producing an IgM paraprotein.** **IgM is a large pentameric molecule, which is why it causes HYPERVISCOSITY at relatively modest concentrations.**
+> **HYPERVISCOSITY SYNDROME: headache · VISUAL DISTURBANCE · mucosal bleeding (epistaxis, gum bleeding) · confusion and reduced consciousness · and heart failure.**
+> **FUNDOSCOPY IS THE BEDSIDE TEST — dilated, tortuous, "sausage-string" retinal veins with haemorrhages.** **Look at the fundi in anyone with a high paraprotein and neurological symptoms.**
+> **PLASMAPHERESIS is the emergency treatment and works rapidly.**
+> **Other features: lymphadenopathy and hepatosplenomegaly · peripheral NEUROPATHY (anti-MAG) · COLD AGGLUTININ disease · and cryoglobulinaemia.**
+> **CRYOGLOBULINAEMIA — strongly associated with HEPATITIS C — causing palpable purpura, arthralgia, peripheral neuropathy and membranoproliferative glomerulonephritis.** **Test for hepatitis C.** Cross-refer [[L2]] 0.5 and [[C3]] 0.3.
+
+---
+
+## 0.4 Lymphoma
+
+> [!tip] Hodgkin and non-Hodgkin, and one counterintuitive fact
+> **HODGKIN LYMPHOMA — bimodal age distribution (young adults and older adults) · REED-STERNBERG cells · typically CONTIGUOUS nodal spread · cervical and MEDIASTINAL nodes · and it is HIGHLY CURABLE, including in advanced stage.**
+> **Two classic features: ALCOHOL-INDUCED NODAL PAIN (rare, but essentially unique to Hodgkin lymphoma) and PEL-EBSTEIN FEVER (cyclical fevers over days to weeks).**
+> **NON-HODGKIN LYMPHOMA — a heterogeneous group, broadly split into:**
+> **· AGGRESSIVE (diffuse large B-cell lymphoma, Burkitt lymphoma) — fast-growing, symptomatic, and POTENTIALLY CURABLE.**
+> **· INDOLENT (follicular, marginal zone, small lymphocytic) — slow-growing, often asymptomatic and found incidentally, TREATABLE BUT GENERALLY NOT CURABLE, and often managed with watchful waiting.**
+> **THE PARADOX WORTH REMEMBERING: the AGGRESSIVE lymphomas are the CURABLE ones. The indolent ones are not.** **Fast-growing tumours respond to chemotherapy; slow-growing ones do not, but also do not kill quickly.** This is counterintuitive and is regularly examined.
+
+> [!warning] B symptoms and the lymph node red flags
+> **B SYMPTOMS — unexplained FEVER · DRENCHING NIGHT SWEATS (soaking the sheets and requiring a change of clothes, not just feeling warm) · and unintentional WEIGHT LOSS of more than 10% in six months.** **They are prognostic and part of staging, and they should be asked about specifically and in those terms.**
+> **LYMPH NODE FEATURES SUGGESTING MALIGNANCY:**
+> **· Size above about 2 cm.**
+> **· PERSISTENT beyond four to six weeks, or PROGRESSIVELY ENLARGING.**
+> **· HARD, RUBBERY, FIXED or matted.**
+> **· NON-TENDER.**
+> **· SUPRACLAVICULAR — always abnormal, and warrants investigation for both haematological and solid malignancy (a left supraclavicular node, Virchow node, suggests intra-abdominal malignancy).**
+> **· GENERALISED lymphadenopathy.**
+> **· Associated B symptoms, hepatosplenomegaly, or unexplained cytopenias.**
+> Cross-refer [[B6]] 0.8.
+
+> [!danger] Excisional biopsy, not fine needle aspiration
+> **Lymphoma classification depends on NODAL ARCHITECTURE as well as cell morphology and immunophenotype.**
+> **A FINE NEEDLE ASPIRATE DESTROYS THE ARCHITECTURE and frequently cannot distinguish lymphoma subtypes, or distinguish lymphoma from reactive change.**
+> **AN EXCISIONAL (or generous core) BIOPSY IS REQUIRED.**
+> **Requesting an FNA on a suspicious node delays diagnosis by weeks while a proper biopsy is arranged** — and it is a common error.
+
+> [!warning] The investigations and the things to check before treatment
+> **· BIOPSY, then PET-CT for staging.**
+> **· LDH — prognostic and reflects tumour burden.**
+> **· FBC, film, UEC, calcium, urate, LFT.**
+> **· HIV, HEPATITIS B and HEPATITIS C SEROLOGY — and hepatitis B specifically because RITUXIMAB CAUSES HEPATITIS B REACTIVATION, which can be fulminant and fatal.** **Anyone receiving rituximab must be screened for hepatitis B (including core antibody, not just surface antigen) and given antiviral prophylaxis if positive.** **This is a specific, well-documented and preventable harm.** Cross-refer [[C3]] 0.3 and [[K3]] 0.5.
+> **· ECHOCARDIOGRAPHY before ANTHRACYCLINES.**
+> **· FERTILITY DISCUSSION AND PRESERVATION BEFORE TREATMENT — time-critical, and frequently omitted in young patients focused on survival.**
+> **BURKITT LYMPHOMA has an extremely high proliferation rate and is a MEDICAL EMERGENCY — with a very high risk of TUMOUR LYSIS SYNDROME, which must be anticipated and prevented before treatment starts.** Cross-refer [[J5]].
+> **Late effects of successful treatment: SECONDARY MALIGNANCY (including breast cancer after chest radiotherapy, which requires early intensive surveillance — cross-refer [[O7]] 0.1) · cardiac disease · hypothyroidism after neck radiotherapy · and infertility.**
+
+---
+
+## 0.5 Leukaemia
+
+> [!danger] Acute promyelocytic leukaemia — start treatment on suspicion
+> **APML (a subtype of AML, with the t(15;17) translocation) is distinctive because it presents with a severe COAGULOPATHY AND DIC, and patients die of CATASTROPHIC HAEMORRHAGE — intracranial or pulmonary — in the first days, often BEFORE or SHORTLY AFTER diagnosis.**
+> **ALL-TRANS RETINOIC ACID (ATRA) is highly effective and should be STARTED ON CLINICAL SUSPICION, before genetic confirmation returns.**
+> **Alongside: aggressive blood product support to keep the platelets and fibrinogen well above usual thresholds.**
+> **THE EXAMINABLE AND CLINICALLY IMPORTANT POINT: this is the leukaemia where hours matter and where treatment precedes confirmation.** **A patient with acute leukaemia and a coagulopathy needs a haematologist immediately.**
+> **DIFFERENTIATION SYNDROME is the complication of ATRA — fever, dyspnoea, pulmonary infiltrates, hypotension, weight gain — treated with corticosteroids.**
+
+> [!tip] The four leukaemias in outline
+> **· ACUTE MYELOID LEUKAEMIA — predominantly older adults. Blasts with AUER RODS. Presents with MARROW FAILURE: anaemia, bleeding from thrombocytopenia, and infection from neutropenia — plus gum infiltration and skin involvement in monocytic subtypes.**
+> **· ACUTE LYMPHOBLASTIC LEUKAEMIA — the commonest childhood cancer, with a peak in early childhood, and a second smaller peak in adults (where prognosis is worse).** **Presents with pallor, bruising, BONE PAIN and limp, lymphadenopathy, hepatosplenomegaly and fever.** **CNS and TESTES are sanctuary sites requiring specific directed treatment.** Cross-refer [[M1]] 0.5 and [[M5]] 0.5.
+> **· CHRONIC MYELOID LEUKAEMIA — the PHILADELPHIA CHROMOSOME t(9;22) producing the BCR-ABL fusion tyrosine kinase.** **Presents with a very high white cell count showing the FULL SPECTRUM of myeloid precursors, MASSIVE SPLENOMEGALY, and constitutional symptoms — or incidentally.** **TYROSINE KINASE INHIBITORS transformed this from a fatal disease to one with near-normal life expectancy, and it is the classic example of successful targeted therapy.** **Untreated it progresses to BLAST CRISIS.**
+> **· CHRONIC LYMPHOCYTIC LEUKAEMIA — the commonest leukaemia in adults, usually found INCIDENTALLY as a lymphocytosis on a routine count.** **SMEAR (smudge) CELLS on the film.** **Complications: IMMUNOPARESIS with recurrent infection (the leading cause of death) · AUTOIMMUNE complications, particularly haemolytic anaemia and immune thrombocytopenia · and RICHTER TRANSFORMATION to aggressive lymphoma.** **MANY PATIENTS NEVER REQUIRE TREATMENT** — "watch and wait" is appropriate and evidence-based, and treating early does not improve survival, which is important to explain to a patient told they have leukaemia and then offered no treatment.
+
+> [!warning] The leukaemia emergencies
+> **· FEBRILE NEUTROPENIA — antibiotics within a short defined window, before the workup is complete.** Cross-refer [[K1]] 0.5.
+> **· HYPERLEUCOCYTOSIS AND LEUCOSTASIS — a very high blast count causing sludging in the microvasculature: breathlessness and hypoxia, confusion, visual change, priapism.** **A medical emergency requiring urgent cytoreduction, and a reason NOT to transfuse red cells (which increases viscosity) before discussion with haematology.**
+> **· TUMOUR LYSIS SYNDROME — cross-refer [[J5]].**
+> **· DIC, particularly in APML.**
+> **WHEN TO PHONE RATHER THAN REFER: blasts on the film · pancytopenia with illness · a very high white cell count with symptoms · any coagulopathy with acute leukaemia · and neutropenic fever.**
+
+---
+
+## 0.6 Myeloproliferative Neoplasms
+
+> [!tip] Polycythaemia — first work out whether it is real and primary
+> **· RELATIVE (apparent) polycythaemia — a reduced plasma volume rather than increased red cell mass: dehydration, diuretics, alcohol, obesity.**
+> **· SECONDARY — appropriate erythropoietin drive: CHRONIC HYPOXIA (COPD, obstructive sleep apnoea, cyanotic heart disease, altitude), SMOKING (carboxyhaemoglobin), erythropoietin-secreting tumours (renal cell carcinoma, hepatocellular carcinoma), and exogenous TESTOSTERONE — which is an increasingly common cause given the growth in testosterone prescribing and use.**
+> **· PRIMARY — POLYCYTHAEMIA VERA, driven by a JAK2 mutation, with low or suppressed erythropoietin.**
+> **Features of polycythaemia vera: THROMBOSIS (arterial and venous, including at unusual sites — cross-refer [[J3]] 0.6) · AQUAGENIC PRURITUS (itch after a hot shower — highly characteristic and worth asking about) · ERYTHROMELALGIA (burning red painful hands and feet) · plethora · splenomegaly · headache and visual disturbance.**
+> **Management: VENESECTION to a target haematocrit, low-dose ASPIRIN, cytoreduction in higher-risk patients, and cardiovascular risk factor management.** `UNVERIFIED — haematocrit targets.`
+
+> [!warning] Thrombocytosis is usually reactive
+> **REACTIVE (secondary) thrombocytosis is FAR more common than essential thrombocythaemia: IRON DEFICIENCY · infection and inflammation · malignancy · bleeding · post-splenectomy or hyposplenism · tissue damage and surgery.**
+> **So a raised platelet count should first prompt a search for the cause — starting with iron studies and inflammatory markers — rather than a haematology referral.**
+> **ESSENTIAL THROMBOCYTHAEMIA — a clonal disorder (JAK2, CALR or MPL) causing both THROMBOSIS and, paradoxically, BLEEDING at very high platelet counts through an ACQUIRED VON WILLEBRAND SYNDROME (the large multimers are adsorbed onto the excess platelets).** Cross-refer [[J3]] 0.3.
+> **MYELOFIBROSIS — marrow fibrosis with extramedullary haematopoiesis.** **MASSIVE SPLENOMEGALY · constitutional symptoms (fever, sweats, weight loss) · a LEUCOERYTHROBLASTIC film with characteristic TEARDROP-shaped red cells (dacrocytes) · and a "DRY TAP" on marrow aspiration requiring trephine biopsy.**
+> **All the myeloproliferative neoplasms carry a risk of THROMBOSIS and of transformation to acute myeloid leukaemia.**
+
+**Ix:** **SERUM PROTEIN ELECTROPHORESIS WITH IMMUNOFIXATION, SERUM FREE LIGHT CHAINS, and urine electrophoresis — requested explicitly** (*why:* the dipstick misses light chains and myeloma is otherwise missed in unexplained renal impairment or anaemia; *what:* paraprotein, light chain ratio). **FBC with BLOOD FILM** (*why:* blasts, smear cells, rouleaux, teardrop cells and leucoerythroblastic change each point to a specific diagnosis; *what:* the morphology). **UEC, CALCIUM, albumin, LDH, urate, beta-2 microglobulin** (*why:* end-organ damage, tumour burden and prognosis; *what:* CRAB features, LDH). **EXCISIONAL LYMPH NODE BIOPSY — not FNA** (*why:* classification requires architecture, and an FNA delays diagnosis; *what:* histology, immunophenotype). **WHOLE-BODY LOW-DOSE CT, MRI or PET-CT for myeloma — NOT a bone scan and NOT a plain skeletal survey** (*why:* myeloma lesions are purely lytic so the bone scan is negative, and the skeletal survey is insensitive; *what:* lytic lesions, focal disease). **PET-CT for lymphoma staging** (*why:* stage determines treatment; *what:* nodal and extranodal disease). **HIV, HEPATITIS B (including core antibody) and HEPATITIS C serology BEFORE rituximab or chemotherapy** (*why:* hepatitis B reactivation with rituximab can be fatal and is preventable with prophylaxis; *what:* infection or past exposure). **Echocardiography before anthracyclines, and where amyloidosis is suspected** (*why:* baseline function, and the wall thickness/ECG voltage discordance of amyloid; *what:* ejection fraction, wall thickness). **Bone marrow aspirate and trephine, with cytogenetics and molecular studies** (*why:* diagnosis, classification and prognosis; *what:* the clone). **FUNDOSCOPY in suspected hyperviscosity** (*why:* a bedside diagnosis that triggers urgent plasmapheresis; *what:* dilated tortuous retinal veins). **JAK2, CALR and MPL testing where a myeloproliferative neoplasm is suspected** (*why:* establishes clonality; *what:* the mutation). **Fertility discussion and referral before gonadotoxic treatment** (*why:* time-critical and routinely omitted; *what:* preservation options).
+
+---
+
+> [!note] Cross-references
+> Oncological emergencies, tumour lysis and cord compression → [[J5]] · Cytopenias, pancytopenia and marrow failure → [[J1]] 0.6 · Autoimmune haemolysis in CLL → [[J2]] 0.3 · Unusual-site thrombosis and JAK2 → [[J3]] 0.6 · Acquired von Willebrand syndrome → [[J3]] 0.3 · Febrile neutropenia → [[K1]] 0.5 · Hepatitis B reactivation and immunosuppression → [[C3]] 0.3 and [[K3]] 0.5 · Hypercalcaemia → [[I3]] 0.2 · Metastatic spinal cord compression → [[L4]] 0.3 · Renal impairment and light chains → [[H1]] 0.5 and [[H3]] 0.2 · Cardiac amyloidosis and HFpEF → [[CV-X]] 0.4 · Cryoglobulinaemia and vasculitis → [[L2]] 0.5 · Lymphadenopathy and the neck lump → [[B6]] 0.8 · Childhood leukaemia presentation → [[M1]] 0.5 and [[M5]] 0.5 · Breast surveillance after chest radiotherapy → [[O7]] 0.1 · Palliative care and symptom control → [[GER2]] 0.5
+
+
+<!-- ===== SOURCE: 10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders.md ===== -->
+
+
+> [!note] Leukaemia = cancer of the WBCs in the bone marrow → marrow failure → ↓RBC (anaemia) and ↓mature WBC and ↓platelets (haemorrhage).
+
+## 0.9 How to interpret blood results — a quick approach
+
+1. Look at lymphocytes — ↓ suggests ALL or AML.
+2. Look at WBC — >100 suggests a chronic process (e.g. CML).
+3. Look at the WBC differential — bands suggest CML; blasts suggest AML.
+
+
+## 0.1 Acute lymphoblastic leukaemia (ALL)
+
+- **D:** malignant clonal cancer of the lymphoid progenitor cell.
+  - Common ALL (75%) — CD10+, pre-B phenotype.
+  - T-ALL (20%) and B-ALL (5%).
+- **R:** children <5 years old (accounts for 80% of childhood leukaemias); associated with Down syndrome.
+- **S/Smx:** predictable by bone marrow failure — anaemia (lethargy, pallor), neutropaenia (frequent/severe infections), thrombocytopaenia (easy bruising, petechiae).
+  - Other features: bone pain (secondary to bone marrow infiltration), mediastinal mass (T-ALL), splenomegaly, hepatomegaly, fever (up to 50% of new cases), testicular swelling (secondary to spread).
+- **Ix:** FBC and blood film (*why:* the first-line screening test, often showing the diagnostic picture directly; *what:* circulating lymphoblasts, plus the cytopaenias reflecting marrow failure described above). Bone marrow aspirate and trephine biopsy (*why:* the definitive diagnostic test, required to confirm >20% blasts (the diagnostic threshold for acute leukaemia) and to obtain material for immunophenotyping and cytogenetics, both of which directly determine the prognostic group and treatment protocol; *what:* lymphoblast infiltration, with flow cytometry/immunophenotyping distinguishing common/T-ALL/B-ALL subtypes per the classification above). Cytogenetics/molecular studies (*why:* directly informs the prognosis box above — e.g. t(12;21) vs other translocations — and specific treatment protocol selection; *what:* identifies the specific genetic subtype). Lumbar puncture (*why:* CNS involvement is a recognised site of disease and needs specific assessment/treatment given standard systemic chemotherapy doesn't adequately penetrate the CNS; *what:* screens for CNS leukaemic involvement).
+- **Mx:**
+  - **Immediate/acute:** supportive care for the presenting cytopaenias (blood/platelet transfusion as needed, infection management), given patients often present acutely unwell from marrow failure before any leukaemia-specific treatment starts.
+  - **Definitive:** multi-agent chemotherapy in phases — induction (achieving remission), consolidation, and maintenance (often prolonged, over ~2 years) — the specific protocol and intensity is guided by the risk stratification (age, WBC, cytogenetics) established at diagnosis per the prognosis box above; CNS-directed therapy (intrathecal chemotherapy ± cranial irradiation) given the CNS sanctuary site issue noted under Ix above; stem cell transplant considered for high-risk or relapsed/refractory disease.
+  - **Chronic/long-term:** long-term surveillance for relapse and for treatment-related late effects (particularly relevant given this is often a paediatric diagnosis with decades of subsequent life — secondary malignancy risk, cardiotoxicity from anthracyclines, fertility issues, neurocognitive effects from CNS-directed therapy).
+
+> [!info] Complications and their prevention — genuinely important given how much of the morbidity in treated ALL comes from these rather than the leukaemia itself
+> - **Neutropenic sepsis:** the most immediately dangerous complication during treatment — co-trimoxazole prophylaxis is standard (also covers *Pneumocystis jirovecii* given the degree of immunosuppression); see the Febrile neutropenia approach below for acute management if it occurs.
+> - **Hyperuricaemia/tumour lysis:** pre-treat before starting chemotherapy with increased fluid intake and allopurinol, given the risk of tumour lysis syndrome as a large leukaemic cell burden breaks down rapidly with treatment.
+> - **Poor growth:** a recognised long-term treatment effect, part of the long-term surveillance above.
+> - **Second malignancy:** ~3% risk of a second leukaemia or a cancer elsewhere (especially CNS), part of why long-term surveillance continues well beyond the active treatment period.
+> - **Immunity:** live vaccines are contraindicated during treatment; the full vaccination schedule should be restarted/caught up ~6 months after completing chemotherapy, once immune reconstitution has occurred.
+
+> [!info] Febrile neutropenia in a child on ALL treatment — a genuine emergency requiring urgent management, not just routine fever assessment
+> - **Initial:** blood cultures (peripheral + central line if present) and parenteral antibiotics as soon as possible per local/institutional guidelines (piperacillin-tazobactam is standard empirical Australian practice — see [[10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies]] for the AU-verified detail on this, not repeated here); also send MSU, CXR if respiratory symptoms, swabs of all orifices and any central line, respiratory virus swab, and baseline bloods/serology.
+> - **Ongoing:** managed by paediatric oncology; if investigations point to a viral or low-risk cause, the child may be discharged with or without oral antibiotics; if blood cultures are negative, other tests are inconclusive, and the child has been afebrile for >24h, antibiotics are typically continued for a total of 5 days; if blood culture is positive, treat according to the specific organism and local guidelines; if the child continues to spike fevers or becomes more unwell, actively reconsider viral or fungal infection, or a central line infection, rather than simply continuing the same antibiotic course unchanged.
+
+## 0.4 Acute myeloid leukaemia (AML)
+
+- **D:** clonal expansion of myeloid blasts in the bone marrow, peripheral blood, or extramedullary tissues.
+- **R:** >65 years old, previous haematological disorders, previous chemotherapy, radiation exposure, benzene exposure (paints, petrol, rubber).
+- **S/Smx** (secondary to bone marrow failure): anaemia (pallor, lethargy, weakness); neutropenia + frequent infections (WBC counts may be very high, but functioning neutrophil levels may be low); thrombocytopenia (bleeding); splenomegaly; bone pain.
+- **Ix:** FBC and blood film (*why:* the first-line screening test; *what:* circulating myeloblasts ± the cytopaenias reflecting marrow failure above; Auer rods, if seen, are highly suggestive of AML — see the APML info box below for the specific association). Bone marrow aspirate and trephine biopsy (*why:* the definitive diagnostic test, required to confirm ≥20% myeloblasts (the diagnostic threshold) and to obtain material for immunophenotyping and cytogenetics, which directly determine prognostic subgroup and treatment intensity; *what:* myeloblast infiltration, with flow cytometry distinguishing AML from ALL and cytogenetics identifying specific subtypes such as APML below). Coagulation screen (*why:* DIC is a recognised presentation, particularly in APML, so should be actively screened for rather than assumed absent; *what:* may show deranged coagulation supporting a DIC picture if present).
+- **Mx:**
+  - **Immediate/acute:** supportive care for presenting cytopaenias and any DIC (particularly relevant given the APML association below); urgent recognition and specific treatment if APML is suspected, given its distinct and highly effective treatment pathway.
+  - **Definitive:** intensive combination chemotherapy (induction then consolidation) for fit patients; APML specifically is treated with all-trans retinoic acid (ATRA) and arsenic trioxide rather than standard AML chemotherapy protocols, given its excellent, distinct treatment response — see the info box below. Less intensive or supportive-care-focused approaches are appropriate for frailer/older patients where intensive chemotherapy carries prohibitive risk, reflecting the genuinely different risk-benefit calculus in this generally older-onset disease. Stem cell transplant considered for appropriate candidates with higher-risk disease.
+  - **Chronic/long-term:** long-term surveillance for relapse; management of treatment-related complications given the intensity of AML chemotherapy regimens.
+
+> [!info] Acute promyelocytic leukaemia (APML) — associated with t(15;17), the fusion of PML and RAR-alpha genes. Associated with younger age, possible Down syndrome. Histology: Auer rods (seen with myeloperoxidase stain). DIC or thrombocytopenia often present at presentation. Good prognosis; responds to all-trans retinoic acid (vitamin A) and arsenic.
+
+## 0.2 Chronic lymphocytic leukaemia (CLL)
+
+- **D:** indolent lymphoproliferative disorder in which monoclonal B lymphocytes predominate in the peripheral blood.
+- **R:** >60 years old — the most common adult leukaemia.
+- **S/Smx:** often asymptomatic. Systemic signs: anorexia, weight loss. Bleeding, infection, lymphadenopathy.
+- **Ix:** FBC (lymphocytosis, lymphocytes >5, anaemia, thrombocytopaenia); blood film (smudge cells — see note below); immunophenotyping (CD5, CD19, CD20, CD23).
+
+> [!info] Gap-filled — smudge cells were named as a finding without explaining what they actually are. **CLL cells have an abnormal, deficient cytoskeleton** (notably reduced vimentin, a structural protein that normally provides mechanical stability to the cell) — this makes them genuinely fragile and prone to physical rupture during the mechanical process of preparing a blood film (spreading a drop of blood thinly across a slide). The resulting disrupted, smeared-out cell remnants are the "smudge cells" (also called basket cells) seen on the film. **This is genuinely a slide-preparation artifact, not a finding reflecting anything happening within the bloodstream itself** — the cells don't rupture in vivo, only under the mechanical stress of smear preparation — but it's a useful and characteristic clue precisely because it reflects CLL cells' distinctive underlying fragility, a direct consequence of their abnormal cytoskeletal structure.
+- **Mx:**
+  - **Immediate/acute:** many patients require no immediate treatment given the indolent course — "watch and wait" is a genuinely appropriate strategy for asymptomatic, early-stage disease, not a failure to treat.
+  - **Definitive:** treatment is indicated for symptomatic or progressive disease (constitutional symptoms, progressive cytopaenias, bulky/symptomatic lymphadenopathy, autoimmune complications not responding to steroids) — options include targeted therapies (e.g. BTK inhibitors such as ibrutinib, BCL2 inhibitors such as venetoclax) which have increasingly supplanted traditional chemoimmunotherapy as first-line in many patients, given generally favourable efficacy and toxicity profiles; chemoimmunotherapy remains an option depending on patient fitness and specific mutation status.
+  - **Chronic/long-term:** monitor for and manage the complications below (recurrent infection, autoimmune haemolysis) and specifically for Richter's transformation given its sudden-deterioration presentation; vaccination status should be optimised given the infection risk from disease-related hypogammaglobulinaemia, per general principles established elsewhere in this project (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program)).
+- **Complications:** anaemia, recurrent infections (secondary to hypogammaglobulinaemia), warm autoimmune haemolytic anaemia (10–15%).
+
+> [!danger] Richter's transformation — leukaemia cells enter lymph nodes and transform into a high-grade, fast-growing non-Hodgkin's lymphoma (often DLBCL), causing sudden clinical deterioration. S/Smx: lymph node swelling, fever without infection, weight loss, night sweats, nausea, abdominal pain.
+
+## 0.5 Chronic myeloid leukaemia (CML)
+
+- **D:** malignant clonal disorder of myeloid stem cells arising due to the t(9;22) mutation (Philadelphia chromosome), resulting in the BCR-ABL fusion gene.
+- **R:** age 65–74.
+- **S/Smx:** typically in elderly patients — anaemia (fatigue is the most common presenting symptom), massive splenomegaly, hypermetabolic symptoms (weight loss, night sweats).
+- **Ix:** bloods (anaemia), blood film (tear drop cells), bone marrow aspirate often difficult ("dry tap") — trephine biopsy needed.
+- **Mx:** tyrosine kinase inhibitors; monitoring; may require stem cell transplant if severe.
+- Additional features: anaemia (lethargy); weight loss, sweats; splenomegaly → abdominal discomfort; ↑granulocytes at different stages of maturation ± thrombocytosis; ↓leukocyte alkaline phosphatase; may undergo blast transformation ("blast crisis" — AML in 80%, ALL in 20%).
+
+## 0.3 Hairy cell leukaemia
+
+- **D:** indolent, mature B-cell neoplasm.
+- **R:** middle age, M>F, white ethnicity, possible EBV association.
+- **Features:** dry tap on aspiration (due to marrow fibrosis); massive splenomegaly; pancytopaenia. Histology: fuzzy cells, stains **TRAP (tartrate-resistant acid phosphatase)** positive — an enzyme stain that resists tartrate inhibition, which is what makes it relatively specific for hairy cells; associated with BRAF mutations.
+- **Ix:** FBC and blood film (*why:* screens for the pancytopaenia and characteristic "hairy" cell morphology directly; *what:* pancytopaenia with circulating hairy cells visible on film). Bone marrow trephine biopsy (*why:* aspiration classically yields a "dry tap" given marrow fibrosis, making trephine biopsy necessary to obtain diagnostic tissue — the dry tap itself is a useful diagnostic clue rather than simply a technical failure; *what:* confirms hairy cell infiltration and marrow fibrosis). TRAP stain and immunophenotyping (*why:* confirms the diagnosis definitively, given TRAP positivity and characteristic surface markers are relatively specific for this entity; *what:* TRAP-positive cells with the characteristic immunophenotype). BRAF mutation testing (*why:* the BRAF V600E mutation is present in the large majority of cases and increasingly informs targeted treatment options; *what:* confirms the mutation, relevant to both diagnosis confidence and treatment selection).
+- **Mx:** purine analogues (e.g. cladribine, pentostatin) are highly effective first-line treatment, often achieving durable remission with a single course — a notably favourable treatment story relative to many other haematological malignancies; targeted BRAF inhibition is an option in relapsed/refractory disease given the mutation frequency above; splenectomy is a historical option now largely superseded by pharmacological treatment but occasionally still relevant for massive symptomatic splenomegaly.
+
+## 0.8 Polycythaemia vera (PV)
+
+- **D:** primary polycythaemia — clonal proliferation of a marrow stem cell leading to an increase in red cell volume ± ↑neutrophils and platelets.
+- **A/P:** JAK2 mutation present in ~95% of cases.
+- **R:** peak incidence in the 60s.
+- **S/Smx:** pruritus (typically after a hot bath); splenomegaly; hypertension; hyperviscosity; arterial and venous thrombosis; haemorrhage (secondary to abnormal platelets).
+- **Ix:** FBC (*why:* screens for the characteristic blood picture directly; *what:* raised haemoglobin/haematocrit ± raised neutrophils and platelets, per the definition above). JAK2 mutation testing (*why:* present in ~95% of cases and is now central to diagnosis, largely superseding older approaches like red cell mass studies; *what:* a positive result strongly supports the diagnosis, particularly combined with the blood count picture). Serum erythropoietin level (*why:* helps distinguish primary (PV) from secondary polycythaemia — EPO is characteristically low/suppressed in PV given the clonal proliferation is EPO-independent, versus raised in secondary polycythaemia driven by appropriate or inappropriate EPO stimulation; *what:* a low EPO level supports PV over the secondary causes in the differential table below).
+- **Mx:** aspirin, venesection, chemotherapy (hydroxyurea).
+- **P:** high rate of thrombotic events (main cause of morbidity/mortality); 5–15% progress to myelofibrosis; 5–15% progress to acute leukaemia (increased risk with chemotherapy).
+
+### 0.8.1 Polycythaemia — differential diagnosis
+
+| Type | Cause |
+|---|---|
+| **Primary (PV)** | Clonal marrow stem cell proliferation, JAK2 mutation |
+| **Relative** (↓circulating volume) | Dehydration; stress ("Gaisbock syndrome" — HTN, ↑RBC, plethora without splenomegaly) |
+| **Secondary** (↑stimulation to produce RBCs) | COPD, high altitude, obstructive sleep apnoea, excessive erythropoietin (cerebellar haemangioma, hypernephroma, hepatoma, uterine fibroids), iatrogenic/doping |
+
+## 0.6 Myelofibrosis
+
+- **D:** myeloproliferative disorder characterised by bone marrow fibrosis.
+- **R:** radiation exposure, industrial solvent exposure (e.g. benzene).
+- **A/P:** thought to be caused by hyperplasia of abnormal megakaryocytes → ↑platelet-derived growth factor → ↑fibroblasts.
+- **S/Smx:** often insidious onset; constitutional/hypermetabolic symptoms (fatigue, weight loss, night sweats — similar in character to the CML features below, reflecting the shared myeloproliferative pathophysiology); massive splenomegaly (a hallmark feature, causing abdominal discomfort/early satiety) secondary to extramedullary haematopoiesis as the fibrotic marrow fails; anaemia-related symptoms as marrow failure progresses; bone pain.
+- **Ix:** FBC and blood film (*why:* screens for the characteristic blood picture; *what:* leucoerythroblastic film with tear-drop poikilocytes ("dacrocytes") — the same tear-drop cell morphology noted under CML below, reflecting cells being mechanically deformed as they're extruded from a fibrotic marrow). Bone marrow aspirate and trephine biopsy (*why:* aspiration is often unsuccessful ("dry tap") given the fibrosis itself, making trephine biopsy essential for diagnosis — the same "dry tap requiring trephine" pattern seen in hairy cell leukaemia above, though for a different underlying reason (fibrosis rather than cell-packing); *what:* confirms marrow fibrosis and megakaryocyte hyperplasia). JAK2, CALR, or MPL mutation testing (*why:* one of these three driver mutations is present in the large majority of cases and supports the diagnosis, also relevant to prognosis and to targeted treatment eligibility (JAK2 inhibitors); *what:* confirms a clonal myeloproliferative process).
+- **Mx:**
+  - **Immediate/acute:** supportive care for cytopaenias (transfusion as needed).
+  - **Definitive:** JAK2 inhibitors (e.g. ruxolitinib) for symptomatic splenomegaly/constitutional symptoms, particularly in JAK2-mutated disease; allogeneic stem cell transplant is the only potentially curative option and is considered in appropriate candidates given the otherwise generally poor long-term prognosis, particularly for higher-risk disease.
+  - **Chronic/long-term:** monitor for progression to acute leukaemia (a recognised long-term risk, similar in spirit to the transformation risks seen with the other myeloproliferative disorders in this file); manage progressive splenomegaly and cytopaenias as the disease advances.
+
+## 0.7 Myelodysplastic syndromes (MDS)
+
+- **D:** clonal haematopoietic stem cell disorders characterised by ineffective haematopoiesis, peripheral blood cytopaenias, and risk of progression to AML.
+- **A:** 90% primary (typically >70 years old); 10% secondary to causes such as chemotherapy and radiotherapy (usually 5 years after treatment).
+- **S/Smx:** can be asymptomatic; otherwise a milder version of AML.
+- **Ix:** peripheral blood counts, bone marrow examination (dysplastic changes), cytogenetic analysis.
+- **Mx:** supportive care (e.g. blood transfusions), immunomodulatory drugs (e.g. lenalidomide), immunosuppressive therapy, stem cell transplant.
+
+<!-- ===== SOURCE: 10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma.md ===== -->
+
+
+> [!note] Lymphoma = a discrete tumour mass arising from lymph nodes.
+
+## 0.1 Non-Hodgkin's lymphoma (NHL)
+
+- More common than Hodgkin lymphoma.
+- Generally affects the elderly (1/3 of cases in patients >75 years old).
+- Affects B-cells mainly; T-cell lymphomas are less common.
+- Associated with autoimmune disease and viral infections (worse prognosis).
+- **S/Smx:** painless lymphadenopathy (non-tender, rubbery, asymmetrical); constitutional B-symptoms (fever, weight loss, night sweats, lethargy); extranodal disease (GI, bone marrow, lungs, skin, CNS symptoms).
+- **Ix:** excisional node biopsy; CT-TAP for staging/PET; serology (HIV, EBV); other bloods.
+
+> [!info] Staging — Ann Arbor system (used for both NHL and Hodgkin lymphoma)
+> **The unit is a lymph node *region*, not an individual node** — this is what makes the stages mutually exclusive, and it is the single easiest thing to get wrong.
+> 1. **One** lymph node region (or a single extralymphatic site).
+> 2. **≥2** lymph node regions, **all on the same side** of the diaphragm.
+> 3. Lymph node regions on **both sides** of the diaphragm.
+> 4. **Diffuse or disseminated involvement of one or more extralymphatic organs** (e.g. bone marrow, liver, lung), with or without nodal disease.
+>
+> Suffix: **A** = absence of B-symptoms; **B** = presence of B-symptoms (e.g. stage 3B, stage 1A). **S** = splenic involvement; **E** = a single contiguous extranodal site.
+>
+> **The spleen is lymphatic tissue, not an extranodal organ** — splenic involvement is recorded with the **S** suffix and does *not* by itself make the disease stage 4.
+>
+> **Corrected in the G5 round (2026-08-29).** The box previously read "One node affected" for stage 1 and "≥1 node affected on the same side of the diaphragm" for stage 2 — which made **stage 1 a subset of stage 2**, so the stages did not partition. It also gave the spleen as an example of the extranodal involvement defining stage 4. Both were visible from the box alone, without any source. See `PENDING_GUIDELINE_CHECKS.md` **B53**.
+
+- **Mx:** depends on subtype. All patients should be offered flu and pneumococcal vaccines. Patients with neutropaenia may require antibiotic prophylaxis.
+- **Complications:** bone marrow infiltration (→ pancytopaenic symptoms); SVC obstruction; metastases; spinal cord compression.
+
+### 0.1.1 Neoplasms of B cells
+
+| Subtype | Key features |
+|---|---|
+| Burkitt lymphoma | Adolescents/young adults; t(8;14); associated with EBV; "starry sky" appearance, tingible body macrophages; endemic jaw lesion in Africa |
+| Diffuse large B-cell lymphoma (DLBCL) | Older adults, 20% children; BCL2, BCL6; most common type of NHL in adults |
+| Follicular lymphoma | Adults; t(14;18); indolent course, waxing and waning lymphadenopathy |
+| Mantle cell lymphoma | Adults, M>F; t(11;14); very aggressive, patients often present late |
+| Marginal zone lymphoma | Adults; t(11;18); associated with chronic inflammation, e.g. Sjögren's, MALT syndrome |
+| Primary CNS lymphoma | Adults; associated with EBV, HIV/AIDS (AIDS-defining); presents with neuro symptoms — confusion, seizures, memory loss; single, ring-enhancing mass |
+| Mycosis fungoides / Sézary syndrome | Adults; presents with skin patches/plaques; CD4+ cells with cerebriform nuclei and intraepidermal neoplastic cell aggregates; Sézary syndrome = the leukaemic (T-cell leukaemia) form |
+
+### 0.1.2 Neoplasms of T cells
+
+| Subtype | Key features |
+|---|---|
+| Adult T-cell lymphoma | Adults; secondary to HTLV (associated with IVDU); presents with cutaneous lesions; common in Japan, West Africa, Caribbean |
+
+> [!info] Translocation reference
+> - t(8;14): Burkitt lymphoma
+> - t(11;14): Mantle cell lymphoma
+> - t(11;18): Marginal zone lymphoma
+> - t(14;18): Follicular lymphoma
+> - t(15;17): Acute promyelocytic leukaemia (APML)
+> - t(9;22): Chronic myeloid leukaemia (Philadelphia chromosome)
+
+## 0.2 Hodgkin lymphoma
+
+- **D:** haematological malignancy of mature B cells characterised by the presence of Hodgkin's cells and Reed-Sternberg cells.
+- **R:** associated with HIV, EBV.
+- **S/Smx:**
+  - Lymphadenopathy (75%) — most common in the neck (cervical or supraclavicular) > axillary > inguinal; usually painless, non-tender, asymmetrical.
+
+> [!tip] Alcohol-induced lymph node pain is characteristic of Hodgkin lymphoma, but seen in <10% of patients.
+
+  - Systemic B symptoms: weight loss, night sweats, fever, pruritus (worse prognosis).
+  - Other presentations: mediastinal mass.
+- **Ix:** bloods — normocytic anaemia, eosinophilia, ↑LDH. Lymph node biopsy — Reed-Sternberg cells are diagnostic ("owl eyes" appearance); CD15 and CD30 positive.
+
+> [!info] Classification (by prognosis)
+> - Nodular sclerosing (70%) — good prognosis.
+> - Mixed cellularity (20%) — good prognosis.
+> - Lymphocyte predominant (5%) — best prognosis.
+> - Lymphocyte depleted (rare) — worst prognosis.
+
+- **Staging:** Ann Arbor system (see above).
+- **Mx:** chemotherapy, radiotherapy; if relapsed or refractory, stem cell transplant.
+
+## 0.3 Multiple myeloma
+
+- **D:** haematological cancer characterised by clonal proliferation of plasma cells in the bone marrow.
+- **R:** increasing age (median 70 years old), MGUS, family history, possible radiation exposure.
+- **A/P:** genetic mutations occur as B-cells differentiate into mature plasma cells. ↑Production of monoclonal Ig or Ig fragments (paraproteins) in serum and urine. Normal Ig production is impaired, causing relative hypogammaglobulinaemia → predisposes to infection.
+
+> [!tip] Mnemonic — "CRABBI"
+> - **C**alcium: hypercalcaemia (>2.75), secondary to osteoclastic bone resorption → "bones, stones, moans, groans" + constipation and confusion.
+> - **R**enal issues: light chain deposition within renal tubules → renal damage → dehydration, ↑thirst; also amyloidosis, nephrocalcinosis, nephrolithiasis.
+> - **A**naemia: secondary to bone marrow crowding suppressing erythropoiesis.
+> - **B**leeding: secondary to thrombocytopaenia.
+> - **B**ones: lytic bone lesions, pathological fractures.
+> - **I**nfection: due to defective and decreased Ig.
+> - **Others:** hyperviscosity, neuropathy, amyloidosis.
+
+> [!info] Gap-filled — the "C" (hypercalcaemia) and "B" (bone lesions) findings above are actually the **same underlying mechanism** manifesting two ways, though the mnemonic presents them as separate letters. **Mechanism:** malignant plasma cells within the bone marrow secrete factors — most notably **RANKL** — while simultaneously suppressing **osteoprotegerin (OPG)**, RANKL's natural decoy receptor that would otherwise limit its effect. This shifts the RANKL:OPG balance strongly toward osteoclast activation, while myeloma cells also directly suppress osteoblast activity (impairing new bone formation). The combination — **increased bone resorption plus suppressed bone formation** — is why myeloma bone disease is purely destructive/lytic, rather than the mixed lytic-sclerotic pattern seen in some other cancers that metastasise to bone (e.g. prostate cancer, which is characteristically sclerotic). The released calcium from this resorption directly causes the hypercalcaemia in "C," while the localised structural bone loss produces the "punched-out" lytic lesions and pathological fracture risk in "B" — one process, two clinical consequences.
+
+- **Ix:**
+  - Bloods (FBC, peripheral blood film — rouleaux formation, U&Es, bone profile — ↑Ca).
+  - Protein electrophoresis, urinalysis (Bence Jones proteins).
+  - Bone marrow aspiration.
+  - Imaging — whole body MRI ("rain drop skull" on plain films).
+
+> [!info] Diagnostic criteria — 1 major + 1 minor criterion, or 3 minor criteria.
+> **Major:** plasmacytoma; ≥30% plasma cells in a bone marrow sample; ↑M protein in blood or urine.
+> **Minor:** 10–30% plasma cells; minor ↑M protein; osteolytic lesions on imaging; ↓antibodies in blood.
+
+- **Mx:** watch and wait if "smouldering MM"; stem cell transplant; supportive care to reduce complications — hydration, bisphosphonate infusions for bone pain and osteolytic lesions, denosumab.
+- **P:** incurable without stem cell transplant. Relapse at ~2–5 years post-treatment. Median survival 29–62 months depending on stage at diagnosis.
+
+### 0.3.1 Other plasma cell disorders
+
+**Waldenström's macroglobulinaemia**
+- Disorder secondary to overproduction of IgM.
+- **S/Smx:** peripheral neuropathy; hyperviscosity syndrome (headache, blurry vision, Raynaud's, retinal haemorrhages).
+- **Ix:** bone marrow shows >10% small lymphocytes with IgM inclusions.
+- **Complications:** thrombosis.
+
+**Monoclonal gammopathy of undetermined significance (MGUS)**
+- Overproduction of any Ig type.
+- **S/Smx:** usually asymptomatic; 10–30% have a demyelinating neuropathy.
+- **Ix:** bone marrow <10% monoclonal plasma cells.
+- **Complications:** 1–2% risk of transforming to multiple myeloma.
+
+
+<!-- ===== SOURCE: 10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers.md ===== -->
+
+
+> [!info] Verified against GLOBOCAN 2022 data (Australia/New Zealand) and AIHW/Cancer Australia statistics, Aug 2026 — the Australian rankings genuinely differ from the UK figures this file previously carried in one particularly important, clinically relevant way: **melanoma ranks far higher in Australia** (2nd most common cancer in males, 4th in females) than in the UK — a direct reflection of Australia's much higher UV exposure and skin cancer burden already covered extensively in [[09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers]], not repeated here. Breast cancer is confirmed as the single most commonly diagnosed cancer overall in Australia (across both sexes combined), a genuinely different headline statistic from the UK data (where breast and prostate are closer, with breast highest among all UK cancers but lung the leading cause of death).
+
+## Common cancers — Australian incidence rankings (2022 GLOBOCAN data, AU/NZ)
+
+> [!info] Most common cancers in males (by number of new cases)
+> 1. Prostate (16.1%)
+> 2. Melanoma (9.1%) — genuinely much higher-ranked than in the UK, reflecting Australia's UV exposure
+> 3. Colorectal (8.2%)
+> 4. Lung (6.6%)
+> 5. Leukaemia (3.0%)
+
+> [!info] Most common cancers in females (by number of new cases)
+> 1. Breast (22.7%)
+> 2. Colorectal (8.8%)
+> 3. Lung (6.3%)
+> 4. Melanoma (6.3%)
+> 5. Corpus uteri (endometrial, 3.4%)
+
+> [!info] Most common cancers overall, both sexes combined
+> 1. Breast (10.3%) — the single most commonly diagnosed cancer in Australia overall
+> 2. Prostate (8.8%)
+> 3. Colorectal (8.4%)
+> 4. Melanoma (7.8%)
+> 5. Lung (6.5%)
+
+> [!note] Cause-of-death rankings (rather than incidence) are not detailed here — lung cancer remains the leading cause of cancer death in Australia despite not being the most commonly diagnosed cancer, the same "high incidence vs high mortality are different rankings" principle as in the original UK-style note, given lung cancer's poorer overall prognosis compared to more commonly diagnosed but more treatable cancers like breast and prostate. Check current AIHW/Cancer Australia data directly for the specific current cause-of-death ranking order, given this shifts somewhat year to year as treatment and screening effectiveness change.
+
+## Metastatic Disease — Bone Metastases and Metastases of Unknown Primary
+
+> [!note] Gap-filled from CSV ("Malignancy with metastases to bone," Medium yield; "Metastases from other organs," Medium yield) — genuinely absent as standalone topics despite bone pain/metastatic bone disease being mentioned throughout this project's oncology-adjacent content (e.g. multiple myeloma's lytic lesions in [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]]) without a dedicated overview entry.
+
+### Bone metastases
+
+- **A/P:** cancer spread to bone via haematogenous or, less commonly, direct/lymphatic routes; the axial skeleton (spine, pelvis, ribs, proximal long bones) is affected far more often than distal bones, given the greater red marrow (and therefore blood supply) in these sites in adults.
+- **Most common primary cancers causing bone metastases** (a genuinely high-yield list): **breast, prostate, lung, kidney, thyroid** — worth memorising as a group, since these five account for the large majority of clinically significant bone metastases; breast and prostate specifically are the two most common overall given their high incidence combined with a genuine propensity to spread to bone.
+- **Lytic vs sclerotic pattern** — a useful, commonly-tested distinguishing feature: **lytic** lesions (bone destruction) are classic for lung, kidney, thyroid, and multiple myeloma (see [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] 0.3 Multiple myeloma for the disease-level detail on myeloma's lytic lesions specifically, not repeated here); **sclerotic** (osteoblastic) lesions are classic for prostate cancer; **breast cancer metastases are often mixed** (both lytic and sclerotic components) — this pattern can itself be a diagnostic clue when the primary is unknown.
+- **S/Smx:** bone pain (often worse at night, and progressive rather than mechanical/activity-related — a useful distinguishing feature from degenerative musculoskeletal pain); pathological fracture (a fracture occurring with minimal or no trauma, from bone weakened by tumour infiltration); hypercalcaemia (from osteoclastic bone resorption, particularly with lytic disease — see the CRABBI mnemonic in [[10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma]] 0.3 Multiple myeloma for the calcium-related symptom detail, not repeated here); spinal cord compression if vertebral metastases extend into the epidural space (a genuine oncological emergency — see below).
+- **Ix:** plain film X-ray (*why:* often the first-line imaging test, particularly for a symptomatic specific site; *what:* may show lytic, sclerotic, or mixed lesions per the pattern above, though a significant proportion of bone must be affected before changes become visible radiographically — a normal X-ray doesn't reliably exclude early metastatic disease). Bone scan (technetium-99m) (*why:* more sensitive than plain film for detecting metastatic disease and allows whole-skeleton screening in one study, useful for staging; *what:* areas of increased tracer uptake reflecting osteoblastic activity — note this makes bone scan **less sensitive for purely lytic disease** such as myeloma, which characteristically shows a normal or "cold" bone scan despite extensive lytic disease — a genuinely important exception worth knowing, and part of why whole-body MRI/CT is preferred over bone scan specifically in suspected myeloma). CT or MRI (*why:* provides more detailed anatomical assessment, particularly important if spinal cord compression is a concern given the need to assess the exact relationship to the cord/canal; *what:* directly visualises the lesion and any soft tissue/canal involvement). Bloods — calcium, ALP, LFTs (*why:* screens for the hypercalcaemia complication above and for ALP elevation, which can support bone involvement, particularly with osteoblastic/sclerotic disease; *what:* elevated calcium and/or ALP support active bone metastatic disease).
+- **Mx:**
+  - **Immediate/acute:** analgesia (following the general principles in [[10_11c_Oncology_-_Palliative_Care_Prescribing]] for cancer-related bone pain, not repeated here); urgent MRI and specialist input if spinal cord compression is suspected (new/progressive back pain with neurological symptoms/signs in a patient with known or suspected cancer is a genuine oncological emergency requiring same-day imaging and urgent oncology/neurosurgical/radiation oncology input — do not delay imaging to "see if it settles"); manage hypercalcaemia if present (IV fluids, bisphosphonates).
+  - **Definitive:** radiotherapy for localised painful bone metastases (often very effective for pain palliation); bisphosphonates or denosumab to reduce skeletal-related events (fractures, need for radiotherapy/surgery, hypercalcaemia) in patients with confirmed bone metastases — a genuinely important disease-modifying (for the bone complications specifically, not the cancer itself) intervention rather than pure symptom control; orthopaedic referral for actual or impending pathological fracture, given prophylactic fixation of an impending fracture is often preferable to waiting for it to occur.
+  - **Chronic/long-term:** ongoing bisphosphonate/denosumab therapy per oncology guidance; monitor for treatment-specific complications (e.g. osteonecrosis of the jaw with prolonged bisphosphonate/denosumab use — a recognised, genuinely important long-term risk worth knowing given how commonly tested it is).
+
+### Metastases of unknown primary (cancer of unknown primary, CUP)
+
+- **D:** metastatic cancer confirmed on biopsy where, despite reasonable investigation, no primary tumour site can be identified.
+- **Ix:** the diagnostic approach is guided heavily by the histology and immunohistochemistry pattern on biopsy of the metastatic site — different immunohistochemical marker panels point toward different likely primary sites/tumour types, directly narrowing further investigation (e.g. specific staining patterns can suggest a likely site of origin even without directly visualising the primary tumour) — this histology-first, targeted-investigation-second approach is more efficient than blind whole-body imaging in every case. CT chest/abdomen/pelvis is a reasonable general starting point once histology has narrowed the likely category; more targeted investigation follows the histological clues (e.g. mammography if breast primary suspected, PSA if prostate suspected).
+- **Mx:** where a likely primary can be inferred from histology/immunohistochemistry even without direct visualisation, treatment follows that presumed primary's standard protocol; true unknown-primary disease (histology non-specific) is managed with broad-spectrum chemotherapy regimens and has a generally poorer prognosis than metastatic disease with a known primary, given treatment can't be as precisely targeted.
+
+## Carcinogens
+
+| Carcinogen | Associated cancer |
+|---|---|
+| Aflatoxin (from *Aspergillus*) | Liver (hepatocellular carcinoma) |
+| Aniline dyes | Bladder (transitional cell carcinoma) |
+| Asbestos | Mesothelioma and bronchial carcinoma |
+| Nitrosamines (found in some processed foods) | Oesophageal and gastric cancer |
+| Vinyl chloride (chemical used to make PVC) | Hepatic angiosarcoma |
+
+## Tumour markers
+
+| Marker | Associated cancer |
+|---|---|
+| Ca125 | Ovarian cancer |
+| Ca19-9 | Pancreatic cancer |
+| Ca15-3 | Breast cancer |
+| Prostate specific antigen (PSA) | Prostatic carcinoma |
+| Alpha-fetoprotein (AFP) | Hepatocellular carcinoma, teratoma, and non-seminomatous germ cell tumours (yolk sac/embryonal components) — never elevated in pure seminoma, a genuinely useful discriminator (see [[07_Renal_Medicine_and_Urology]] Testicular Cancer, not repeated here) |
+| Beta-human chorionic gonadotropin (beta-hCG) | Choriocarcinoma, hydatidiform mole (see [[17_04_Ectopic_Pregnancy_and_GTD]] Gestational trophoblastic disease (GTD), not repeated here), and testicular germ cell tumours — elevated in ~15% of seminomas as well as most choriocarcinoma-containing NSGCTs, so (unlike AFP) its presence does not exclude seminoma |
+| Carcinoembryonic antigen (CEA) | Colorectal cancer |
+| S-100 | Melanoma, schwannoma |
+| Bombesin | Small cell lung cancer, gastric cancer, neuroblastoma |
+
+---
+
+## TNM Staging — What It Actually Means
+
+> [!note] Gap-filled — "TNM" is referenced by name throughout this project's individual cancer entries (e.g. colorectal cancer's "feeds into the Dukes'/TNM staging," and staging discussions in breast, biliary, and pancreatic cancer elsewhere in this project) but the framework itself was never actually explained anywhere — the same pattern already addressed for MMSE/MoCA (see [[Investigation-Interpretation]] Cognitive Screening Tools (MMSE, MoCA, AMTS) Tools) and Notifiable Diseases (see [[08_09_Infectious_Disease_-_Miscellaneous]] Notifiable Diseases in Australia) elsewhere in this project: a concept load-bearing throughout existing content, never itself explained.
+
+**The core system:** TNM is the internationally standardised framework (maintained jointly by the UICC and AJCC) for describing the anatomical extent of most solid tumours — three independent components combine to describe a cancer's extent, which then map onto an overall numbered stage (I–IV) used for prognosis and treatment planning.
+
+> [!info] The three components
+> - **T (Tumour):** size and/or local extent of the primary tumour — typically scored T1 through T4, with higher numbers reflecting larger size or greater local invasion (e.g. invasion into adjacent structures). T0 indicates no evidence of primary tumour; Tis indicates carcinoma in situ (non-invasive).
+> - **N (Nodes):** extent of regional lymph node involvement — typically N0 (no nodal involvement) through N3, with higher numbers reflecting more extensive nodal spread (more nodes involved, and/or nodes further from the primary site).
+> - **M (Metastasis):** presence or absence of distant metastatic spread — M0 (no distant metastasis) or M1 (distant metastasis present), sometimes subdivided by the specific site(s) of metastasis.
+
+**Genuinely important practical points:**
+- **The specific criteria for each T/N/M category are cancer-specific** — T2 breast cancer and T2 colorectal cancer represent different actual tumour sizes/extents, since each cancer type has its own defined staging criteria reflecting what's prognostically meaningful for that specific tumour. TNM is a shared *framework*, not a single universal ruler applied identically to every cancer.
+- **Overall stage groupings (I–IV) combine T, N, and M** into a single number for easier communication and prognostic/treatment-planning use — broadly, Stage I represents early, localised disease; Stage II/III represent progressively more locally advanced or node-positive disease; **Stage IV represents distant metastatic disease (M1) regardless of T or N category** — the presence of distant metastasis alone is sufficient to make a cancer Stage IV, even with a small primary tumour and no nodal involvement.
+- **Clinical (cTNM) vs pathological (pTNM) staging:** clinical staging is based on pre-treatment assessment (examination, imaging, biopsy), while pathological staging is based on findings after surgical resection and histological examination of the removed tissue — pathological staging is generally more accurate (given direct tissue examination) but is only available for patients who undergo surgery, so clinical staging remains essential for treatment planning and for patients who aren't surgical candidates.
+- **Cancer-specific alternative/legacy staging systems still exist alongside TNM** — colorectal cancer's Dukes' staging (already referenced elsewhere in this project) is a classic example, predating TNM and still occasionally used or referenced clinically even though TNM is now the standard; other cancers have their own specific systems (e.g. FIGO staging for gynaecological cancers) rather than using TNM at all — TNM is the dominant framework for most solid tumours, not a universal system covering every malignancy.
+
+**Practical relevance:** whenever a specific cancer entry throughout this project references "staging" or cites a specific T/N/M value, it's using this framework — this entry provides the general structure; the cancer-specific staging criteria and their treatment/prognostic implications are covered within each individual disease entry, not repeated here.
+
+> [!info] Grade vs Stage — a classic, frequently-confused paired distinction worth stating explicitly alongside TNM above, given both concepts are genuinely absent from this project otherwise: **Grade** describes how abnormal the cancer cells look under the microscope compared to normal tissue (differentiation) — typically reported as well, moderately, or poorly differentiated (or a numbered grade, e.g. Grade 1–3), and reflects how aggressively the tumour is likely to behave biologically. **Stage** (TNM, above) describes how far the cancer has actually spread anatomically — tumour size/extent, nodal involvement, and distant metastasis. **The two are independent axes, not two measures of the same thing** — a small, early-stage tumour can be high-grade (aggressive-looking cells, poor differentiation) and, conversely, a more advanced-stage tumour can be low-grade — knowing one doesn't tell you the other, and both genuinely matter for prognosis and treatment planning together, not as substitutes for each other.
+
+---
+
+## ECOG Performance Status
+
+> [!note] Gap-filled — genuinely absent everywhere despite being fundamental to oncology treatment decisions; phrases already used elsewhere in this project like "fit patients" vs "frailer/older patients" for AML chemotherapy intensity (see [[10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders]] Acute myeloid leukaemia (AML), not repeated here) are effectively describing ECOG performance status without ever naming or defining the actual scoring system.
+
+**The core purpose:** a simple, widely-used 0–4 scale (developed by the Eastern Cooperative Oncology Group) describing a cancer patient's functional status and ability to tolerate treatment — genuinely one of the most commonly used tools in oncology for standardising communication about a patient's fitness for a given therapy, and for comparing outcomes across clinical trial populations.
+
+> [!info] ECOG Performance Status scale
+> - **0:** fully active, able to carry on all pre-disease activities without restriction.
+> - **1:** restricted in physically strenuous activity, but ambulatory and able to carry out light/sedentary work.
+> - **2:** ambulatory and capable of all self-care, but unable to work; up and about more than 50% of waking hours.
+> - **3:** capable of only limited self-care; confined to bed or chair more than 50% of waking hours.
+> - **4:** completely disabled; cannot carry out any self-care; totally confined to bed or chair.
+> (Some versions include a **5**, denoting death — relevant in clinical trial/research contexts rather than routine clinical documentation.)
+
+**Genuinely important practical relevance — this score actively drives treatment decisions, not just describing the patient:**
+- **ECOG 0–1** patients are generally considered fit for standard intensive treatment (chemotherapy, surgery) without particular reservation.
+- **ECOG 2** is a genuine grey zone — cytotoxic chemotherapy is still commonly offered for solid tumours at this level in routine practice, though this population is significantly under-represented in the clinical trials that generated the efficacy evidence in the first place, so the evidence base for treating ECOG 2 patients is genuinely weaker than for ECOG 0–1. Some patients at ECOG 2 may improve with supportive interventions (nutrition, physiotherapy) enough to become better treatment candidates.
+- **ECOG ≥3** generally represents a threshold where cancer-directed therapy is often reconsidered in favour of best supportive/palliative care — reflecting both a poor demonstrated treatment tolerance and response rate at this functional level, and a recognition that aggressive treatment may cause more harm than benefit for a patient this functionally limited, though this remains an individualised decision rather than an absolute rule (some patients with reversible causes of poor performance status, e.g. an easily treated complication, can still benefit).
+- **Relevant beyond systemic therapy too** — surgical candidacy is also commonly assessed against ECOG status, with ECOG 2 or below often required for major surgery to be considered a reasonable option, though this varies by procedure and individual circumstances.
+
+**A genuinely important limitation to keep in mind:** ECOG-PS, despite being intended as an objective measure, shows real inter-rater variability — different clinicians (and patients themselves) can score the same patient differently, and it's a broad functional snapshot rather than a comprehensive geriatric or frailty assessment. It remains a genuinely useful, simple, widely-understood common language for describing fitness for treatment, but shouldn't be treated as a precise or infallible measurement.
+
+---
+
+## Treatment Intent — Neoadjuvant, Adjuvant, and Palliative
+
+> [!note] Gap-filled — "neoadjuvant" is used correctly in [[10_12_Oncology_-_Breast]] ("chemotherapy... neoadjuvant to downstage the primary lesion") but never defined, and its counterpart "adjuvant" isn't mentioned there at all — the same "assumed but never explained" pattern already addressed for TNM and ECOG above in this file, not repeated here. This distinction underlies treatment planning across essentially every solid tumour discussed throughout this project.
+
+**The core distinction is about *timing and purpose* relative to the primary definitive treatment (usually surgery), not about which specific drugs are used:**
+
+- **Neoadjuvant therapy:** given **before** the primary definitive treatment (typically surgery) — purposes include **downstaging** a tumour to make it operable or to allow a less extensive operation (e.g. breast-conserving surgery instead of mastectomy), treating micrometastatic disease as early as possible, and providing an early in-vivo assessment of how well the tumour responds to a given systemic therapy (useful information that isn't available if the same drug is only ever given after surgery).
+- **Adjuvant therapy:** given **after** the primary definitive treatment, once no detectable disease remains — purpose is to eliminate microscopic residual disease that imaging/pathology can't detect, reducing the risk of recurrence. This is genuinely different in intent from neoadjuvant therapy even when the exact same drug is used, given the goal (mopping up invisible residual disease vs shrinking a known visible tumour) is different.
+- **Palliative therapy:** given with the primary intent of controlling symptoms and improving quality of life/prolonging survival in the context of disease **not expected to be cured** — a fundamentally different goal from neoadjuvant/adjuvant therapy, which are both given with curative intent. This distinction genuinely changes how treatment intensity, side-effect tolerance, and treatment goals should be discussed with a patient — see [[10_11c_Oncology_-_Palliative_Care_Prescribing]] for the fuller palliative care detail, not repeated here.
+
+**Practical relevance:** the same drug (e.g. a specific chemotherapy regimen) can be used neoadjuvantly, adjuvantly, or palliatively depending on the clinical scenario — the drug itself doesn't determine the "intent" label, the treatment plan and goal do. Whenever a specific cancer entry throughout this project mentions "neoadjuvant" or "adjuvant" treatment, it's using this framework — this entry provides the general distinction; cancer-specific protocols and evidence for when each is used are covered within each individual disease entry, not repeated here.
+
+---
+
+## Cancer Outcomes in Aboriginal and Torres Strait Islander Australians
+
+> [!danger] A genuine, severe Australian health equity issue — not a generic epidemiological footnote, and genuinely different in character from most disparities already noted elsewhere in this project (which are mostly about a condition being more *common*). This is specifically about **worse survival after an equivalent diagnosis** — a systems-level care-pathway issue, not primarily a difference in disease biology.
+> - **Aboriginal and Torres Strait Islander Australians diagnosed with cancer have a genuinely higher probability of dying from that cancer within 5 years than other Australians, even after accounting for competing causes of death** — a national cohort study found the 5-year crude probability of cancer death was 0.44 for Indigenous Australians, around 7 percentage points higher than for other Australians, translating to roughly 1 in 13 average-year cancer diagnoses (2012–2016 data) representing a death that would potentially have been avoided with equivalent survival.
+> - **The disparity is concentrated specifically in the first 2 years after diagnosis** — a genuinely important pattern pointing toward later-stage diagnosis, delayed or incomplete access to treatment, and screening participation gaps as the likely drivers, rather than the cancer itself behaving more aggressively once diagnosed.
+> - **The magnitude varies substantially by cancer type — head and neck cancers and cervical cancer show among the largest survival gaps of any cancer type** (an excess ~20 percentage-point probability of cancer death, several times larger than the gap for cancers like pancreatic, prostate, or uterine cancer) — directly relevant given [[13_06a_ENT_-_Dysphonia_and_HNSCC]] Head and neck squamous cell carcinoma (HNSCC) is built elsewhere in this project; the red-flag symptom awareness already established there matters even more given how much this specific cancer's outcome gap reflects delayed diagnosis.
+> - **Breast cancer specifically**: Aboriginal and Torres Strait Islander women carry roughly twice the disease burden and have poorer survival than other Australian women — partially, but not fully, explained by more diagnoses at a later stage, pointing to screening participation and post-diagnosis treatment pathways as contributing factors beyond stage at presentation alone.
+> - **The practical, clinically actionable takeaway**: given the disparity concentrates early and relates to pathway/access factors rather than inherent tumour biology, the areas with genuine potential for impact are exactly the ones already emphasised throughout this project — proactive symptom recognition and red-flag awareness (reducing diagnostic delay), supporting screening participation, and ensuring treatment access and completion once a diagnosis is made — rather than assuming a worse prognosis is an unavoidable biological given for this population.
+
+
+<!-- ===== SOURCE: 10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes.md ===== -->
+
+
+## 0.1 Li-Fraumeni syndrome
+
+> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
+> **`10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes` has 3 inbound references and ALL THREE
+> ARE FROM `GP_merged.md`** — nothing in haematology or oncology points at it.
+> **`GP_merged NEW_Investigations_General_and_Preventive §0.14 Genetic Risk Assessment` and
+> `§0.15 Genetics and Molecular Testing` point here**, and this file does not point back.
+> `Pediatrics_merged 15_18b Genetic Disorders Inheritance Summary` and `15_20`–`15_21` hold the
+> syndrome genetics from the paediatric side.
+> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
+
+- **D:** cancer predisposition disorder due to germline mutations in the p53 tumour suppressor gene. Autosomal dominant.
+- **Cancers:** sarcomas, leukaemias.
+- Tends to be diagnosed when a patient develops sarcoma before age 45. May also be diagnosed on screening when another family member develops cancer <45 years old, or sarcoma at any age.
+- **Ix:** germline TP53 genetic testing (*why:* the definitive diagnostic test, confirming the causative mutation directly; *what:* identifies a pathogenic TP53 variant, typically offered based on family history meeting the Chompret criteria or similar clinical risk-assessment thresholds, with pre- and post-test genetic counselling given the significant implications of a positive result for the patient and their relatives — the same counselling principle established for BRCA testing below, not repeated in full here). Whole-body MRI surveillance (*why:* once a pathogenic mutation is confirmed, this is the key ongoing investigation for early cancer detection, given the very broad tumour spectrum in this condition makes site-specific screening alone inadequate; *what:* used for periodic whole-body cancer surveillance in confirmed mutation carriers, given the genuinely wide range of cancers this predisposes to).
+- **Mx:** no cure; patients should adhere to preventive screening.
+
+## 0.2 BRCA1 and BRCA2 mutations
+
+- BRCA1 is on chromosome 17; BRCA2 is on chromosome 13.
+- 55–72% of women with BRCA1 and 45–69% of women with BRCA2 will develop breast cancer by age 70–80 — in contrast to 13% in the general population (4–6× prevalence).
+- Also associated with increased risk of developing breast cancer in the contralateral breast after a first breast cancer diagnosis.
+- 39–44% of women with BRCA1 and 11–17% of women with BRCA2 will develop ovarian cancer by age 70–80 — in contrast to 1.2% in the general population.
+- BRCA2 is associated with prostate cancer in men.
+- **Ix:** genetic testing (germline BRCA1/BRCA2 sequencing) — offered based on personal/family history meeting risk-assessment criteria (e.g. multiple affected relatives, early-onset breast cancer, triple-negative breast cancer, male breast cancer, ovarian cancer, Ashkenazi Jewish ancestry with even a single affected relative) rather than universally, given genetic counselling both before and after testing is essential — a positive or negative result carries significant implications for the patient and their relatives, and pre-test counselling ensures the patient understands this before proceeding.
+- **Mx (risk management, not treatment of an existing cancer — see [[10_12_Oncology_-_Breast]] Breast cancer for the disease-level treatment approach once a cancer has actually developed, not repeated here):**
+  - **Enhanced screening:** earlier and more frequent breast surveillance than the general population (e.g. annual MRI ± mammography starting well before the general screening age, given the substantially elevated lifetime risk above); no established effective ovarian cancer screening test exists, which is part of why risk-reducing surgery (below) is more strongly emphasised for ovarian cancer risk specifically than a screening-based approach.
+  - **Risk-reducing surgery:** bilateral risk-reducing mastectomy substantially reduces (though doesn't completely eliminate, given some breast tissue inevitably remains) breast cancer risk, and is a genuine option some carriers choose, particularly BRCA1 carriers given their higher risk; risk-reducing bilateral salpingo-oophorectomy substantially reduces ovarian cancer risk and is generally recommended once childbearing is complete, given the lack of an effective ovarian screening alternative makes this a more strongly favoured option than for breast risk.
+  - **Chemoprevention:** hormonal risk-reduction options (e.g. tamoxifen) may be considered for breast cancer risk reduction in appropriate candidates, as an alternative or adjunct to surgical risk reduction.
+  - **Family/cascade testing:** first-degree relatives of a confirmed carrier should be offered testing for the specific familial mutation, given each first-degree relative has a 50% chance of carrying the same mutation — this cascade testing principle is a genuinely important, actionable step beyond the index patient alone.
+  - **Reproductive counselling:** relevant given the autosomal dominant inheritance pattern and the option of preimplantation genetic testing for carriers planning a family, though this is a nuanced, personal decision area rather than a directive recommendation.
+
+## 0.3 Lynch syndrome
+
+- **D:** also known as hereditary non-polyposis colorectal cancer syndrome — a predisposition to developing colorectal cancer (and endometrial cancer). Autosomal dominant.
+
+> [!info] **Amsterdam II criteria** (to help identify patients at high risk) — the "3-2-1 rule"
+> - **3** — ≥3 family members with a confirmed diagnosis of a Lynch syndrome-related cancer (colorectal, endometrial, small bowel, ureter, or renal pelvis), **one a first-degree relative of the other two**.
+> - **2** — ≥2 successive affected generations.
+> - **1** — **≥1 of those cancers** diagnosed at <50 years old.
+> - Familial adenomatous polyposis excluded in any colorectal cases.
+>
+> **The cancer list and the age criterion must match, and previously did not:** this box carried the Amsterdam **II** cancer list (which added endometrial, small bowel, ureter and renal pelvis) while the age criterion still read "≥1 **colon** cancers diagnosed at <50" — the older Amsterdam **I** wording, which was colorectal-only. A family meeting Amsterdam II through, say, three endometrial cancers would have failed the age criterion as written. Corrected in the G1 round (2026-08-29). See `PENDING_GUIDELINE_CHECKS.md` **B52**.
+
+- **Ix:** tumour testing on any diagnosed colorectal or endometrial cancer — microsatellite instability (MSI) testing and/or immunohistochemistry for mismatch repair (MMR) protein expression (*why:* Lynch syndrome is caused by inherited defects in DNA mismatch repair genes, so tumours characteristically show MSI-high status or loss of specific MMR protein staining — this is now routinely performed on colorectal/endometrial cancers as an initial screen to identify patients who should proceed to germline testing, rather than relying on family history criteria (like Amsterdam, above) alone, given family history-based criteria miss a meaningful proportion of cases; *what:* MSI-high status or absent staining for a specific MMR protein (MLH1, MSH2, MSH6, or PMS2) points toward the specific gene likely affected, directly guiding germline testing). Germline genetic testing for the specific MMR gene (*why:* confirms the diagnosis definitively and identifies the specific mutation for cascade testing of at-risk relatives; *what:* identifies the causative germline mutation, with genetic counselling before and after testing given the significant implications, per the same general principle established for BRCA testing above).
+- **Risk management:** e.g. colonoscopy starting at age 20, repeated every 1–2 years; colectomy if surveillance measures are not possible.
+
+## 0.4 Familial adenomatous polyposis (FAP)
+
+- **D:** cancer predisposition disorder where numerous adenomatous polyps line the intestinal mucosal surface, with a high potential for malignancy. One variant is known as Gardner syndrome. Autosomal dominant.
+- Mutation of the APC gene, located on chromosome 5.
+
+> [!info] Gardner syndrome features
+> Numerous colonic polyps; skull osteoma; thyroid cancer; epidermoid cysts; desmoid tumours in 15% (soft tissue tumour, aka aggressive fibromatosis).
+
+- **Ix:** colonoscopy (*why:* the key screening/diagnostic test, given the diagnosis is often suspected first from the sheer number of polyps visualised endoscopically, classically hundreds to thousands, which is itself distinctive enough to prompt genetic testing; *what:* numerous (often innumerable) colonic adenomatous polyps, a pattern distinctly different from sporadic colorectal polyps in both number and age of onset). Germline APC genetic testing (*why:* confirms the diagnosis and identifies the specific mutation for cascade testing of at-risk relatives, given the high (near-100% if untreated) lifetime colorectal cancer risk makes early identification of at-risk family members genuinely important; *what:* identifies the causative APC mutation).
+- **Mx:** many patients undergo colectomy ± proctectomy to reduce risk of colorectal cancer.
+
+## 0.5 Von Hippel-Lindau disease
+
+- **D:** disease characterised by growth of cysts and/or tumours (benign or malignant). Autosomal dominant.
+- **Tumours:** haemangioblastomas, renal cell carcinoma, pancreatic neuroendocrine tumours, phaeochromocytomas, etc. Symptoms depend on tumour location — e.g. CNS tumours can cause ataxia.
+- **Ix:** genetic testing (VHL gene mutation) confirms the diagnosis in a patient with a suggestive personal/family history; once confirmed (or in an at-risk relative), **lifelong periodic surveillance imaging** is the key ongoing investigation given the multi-organ tumour risk above — regular MRI brain/spine (for haemangioblastomas), abdominal imaging (for renal cell carcinoma and pancreatic lesions), and biochemical screening for phaeochromocytoma (e.g. plasma or urinary metanephrines) — the specific surveillance schedule and modalities are guided by specialist genetic/oncology protocols given the number of organ systems involved, not detailed further here.
+- **Mx:** surgical removal of tumours, guided by the surveillance findings above — the emphasis on structured, lifelong surveillance (rather than treatment only once symptomatic) reflects the goal of catching malignant transformation (particularly renal cell carcinoma) or dangerous functional tumours (phaeochromocytoma) early, given the multi-organ, recurring nature of this condition over a patient's lifetime.
+
+
+<!-- ===== SOURCE: 10_12_Oncology_-_Breast.md ===== -->
+
+
+## Breast cancer
+
+- **D:** ductal or lobular carcinoma — carcinoma in situ vs invasive.
+
+> [!info] Most common types
+> - Invasive ductal carcinoma — most common, also called "No Special Type (NST)".
+> - Invasive lobular carcinoma.
+> - Ductal carcinoma-in-situ (DCIS).
+> - Lobular carcinoma-in-situ (LCIS).
+
+- **R:** ↑age, F>M, family history, genetics, oestrogen exposure (endogenous and exogenous), alcohol, radiation.
+- **S/Smx:**
+  - Lump — hard, irregular, fixed in place ± tethered.
+  - Nipple retraction; discharge.
+  - Skin dimpling.
+  - Paget's disease of the breast — eczematoid change of the nipple, associated with underlying breast cancer.
+  - Inflammatory breast cancer — cancer cells block lymph node drainage.
+
+> [!info] Verified against Cancer Australia's Optimal Care Pathway for Breast Cancer and the RACGP-endorsed "Investigation of a new breast symptom" guide, Aug 2026 — Australia's referral framework is structured genuinely differently from the UK's symptom/age-based 2-week-wait criteria, though it converges on a similar overall urgency principle.
+> **The Australian approach centres on the "triple test" rather than age/symptom-based referral bands**: clinical assessment + imaging + histology (the same three components as the "Triple assessment" below), and **a positive result on *any single component* of the triple test warrants specialist surgical referral, irrespective of the other two components being normal** — this "any positive component triggers referral" principle, rather than a fixed set of age/symptom criteria, is the genuinely distinctive Australian structure. Once referred, Australian guidance specifies the surgeon should **ideally see the patient within 2 weeks** of a proven or suspected cancer diagnosis — so a comparable "2-week" urgency benchmark exists in Australian practice too, but it's anchored to a positive triple-test result rather than to the UK's age-banded symptom criteria (e.g. "lump ≥30yo," "nipple change ≥50yo") below.
+
+- **Ix:**
+  - **Triple test-based referral (AU-specific structure — see note above):** any single positive/suspicious/indeterminate component of the triple assessment below warrants specialist surgical referral, regardless of whether the other components are normal; the surgeon should ideally see the patient within 2 weeks of a proven or suspected cancer diagnosis.
+  - **Triple assessment:**
+    - Clinical assessment (history & physical exam).
+    - Imaging — ultrasound for ≤30 years old, mammogram for all others (hypoechoic mass, irregular + internal calcification, enlarged axillary lymph node).
+    - Histology (needle aspiration/core biopsy — core biopsy, including vacuum-assisted core biopsy, is the Cancer Australia-recommended procedure of choice for most screen-detected abnormalities specifically).
+  - Others: hormone receptor testing, HER2 testing, CT or PET if metastases suspected.
+- **Mx:**
+  - **Before surgery:** no palpable axillary lymph node — pre-op ultrasound → if positive, sentinel node biopsy. Palpable axillary lymph node — axillary node clearance (associated with lymphoedema and increased risk of infections).
+  - **Surgical options:** mastectomy if multifocal tumour, central tumour, large lesion in a small breast, or DCIS >4cm. Wide local excision (WLE) if solitary tumour, peripheral, small lesion, or DCIS <4cm. Offer reconstructive surgery.
+  - **Radiological options:** for WLE — whole breast radiotherapy recommended, reduces recurrence by 66%. For mastectomy — T3 and T4 tumours and/or ≥4 positive nodes.
+  - **Hormonal options** (if hormone receptor-positive): pre- and peri-menopausal — tamoxifen (SE: ↑risk of endometrial cancer, VTE, menopausal symptoms). Post-menopausal — aromatase inhibitors (e.g. anastrozole; MOA: ↓peripheral synthesis of oestrogen).
+  - **Biological options:** for HER2-positive tumours (20–25%) — trastuzumab (Herceptin).
+  - **Chemotherapy:** neoadjuvant to downstage the primary lesion (see [[10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers]] Treatment Intent — Neoadjuvant, Adjuvant, and Palliative for the general distinction, not repeated here); for axillary node disease.
+- **P:** men have higher mortality. Various prognostic tools exist. Biomarker: CEA.
+
+## Fibroadenoma
+
+- **D:** benign tumour of stromal/epithelial breast duct tissue that develops from a whole lobule — 12% of all breast masses.
+- **R:** age 30–50, ↑hormone exposure.
+- **S/Smx:** ≤3cm, round, smooth and well-defined borders, firm, mobile, and painless — sometimes described as a "breast mouse".
+
+> [!tip] Useful description framework for any breast lump: site, size and shape; colour, contour, consistency; tethering, tenderness; fluctuance ± transillumination.
+
+- **Mx:** conservative — monitoring. Over a 2-year period, ≤30% get smaller. No increased risk of malignancy unless there is a family history or complex features. Surgical excision if ≥3cm in diameter.
+
+## Fibrocystic breast changes
+
+*(aka fibroadenosis, benign mammary dysplasia)*
+
+- **D:** non-specific term for a continuum of physiological to pathological changes.
+- **R:** young age (20–40), hormone exposure (oestrogen & progesterone).
+- **A/P:** the stroma, ducts and lobules respond to female sex hormones and become fibrous and cystic — may fluctuate within the menstrual cycle.
+- **S/Smx:** often occur prior to menses (within 10 days) and resolve once menses begins.
+  - Lumpiness ± fluctuation of breast size ± nipple discharge.
+  - Mastalgia — cyclical or non-cyclical.
+  - Cysts: round, smooth and well-defined borders, mobile, possibly fluctuant — associated with pain due to mastalgia.
+- **Mx:** rule out cancer.
+  - Advice: wear a supportive bra, avoid caffeine, apply heat to the area.
+  - Rx: NSAIDs, hormonal treatment under specialist guidance.
+- **P:** mastalgia is likely chronic, relapsing (~12 years). Cysts recur in ~1/4 of patients within 1 year.
+
+## Fat necrosis
+
+- **D:** localised degeneration and scarring of fat tissue in the breast.
+- **A/P:** often triggered by localised trauma, radiotherapy, or surgery → inflammatory reaction → fibrosis and fat necrosis.
+- **S/Smx:** firm, irregular, fixed in local structures, painless; associated with skin dimpling, nipple inversion; associated with an oil cyst containing liquid fat.
+- **Ix:** since it presents similarly to breast cancer, triple assessment is required. Imaging can show a similar appearance to breast cancer. Histology may be required to confirm diagnosis and rule out cancer.
+- **Mx:** conservative — may resolve spontaneously with time. Surgical excision if symptomatic.
+
+## Lipoma
+
+- **D:** slow-growing, benign, mesenchymal tumour made of adipocytes.
+- **S/Smx:** incidence 1 in 1000, usually middle-aged patients. Smooth, soft, mobile, painless. Not associated with skin changes.
+- **Mx:** conservative — conversion to liposarcoma is very rare.
+  - Surgical excision, liposuction, or lipolysis indicated for: cosmetic reasons; symptomatic lesions (painful, bothersome); increased size or concern for conversion — size >5cm, pain, deep anatomical location (all 4 features together are associated with an 85% risk of malignant transformation).
+
+## Galactocele
+
+- **D:** breast milk-filled cysts occurring due to blocked lactiferous ducts.
+- **S/Smx:** firm, mobile, painless lump, usually beneath the areola.
+- **Mx:** conservative — tend to resolve. Drainage with a needle if needed. Antibiotics if infected.
+
+## Phyllodes tumour
+
+> [!note] Expanded — previously only a brief 3-line mention despite being an explicit Medium-yield CSV item; verified against StatPearls, the NCCN breast cancer guideline (margin recommendations), and current diagnostic-differentiation literature, Aug 2026.
+
+- **D:** a fibroepithelial tumour of the breast stroma, histologically resembling fibroadenoma but distinguished by stromal hypercellularity and a characteristic "leaf-like" (phyllodes) architecture — genuinely rare, accounting for less than 1% of all breast tumours.
+- **S/Smx:** typically women aged 35–55 (somewhat older than the classic fibroadenoma age range, a useful if imperfect clue); a firm, palpable mass with **rapid growth** — the median size at presentation is around 4cm, and larger tumours can stretch the overlying skin enough to cause visible dilated veins and blue discolouration. **The clinical/radiological overlap with fibroadenoma is the central diagnostic challenge** — features that should raise suspicion of phyllodes over fibroadenoma include size >3cm, rapid interval growth, irregular or microlobulated margins, and heterogeneous/cystic areas on ultrasound.
+- **A/P:** classified into **benign, borderline, or malignant** based on histological grading (tumour border, stromal cellularity, mitotic count, cellular atypia, and stromal overgrowth) — genuinely a spectrum rather than three sharply distinct entities, and grading has an acknowledged subjective element with real inter-pathologist variability. Roughly 50% are benign, 25% borderline, 25% malignant.
+- **Ix:** **core needle biopsy is the standard initial diagnostic tool**, but a genuinely important limitation to know: core biopsy frequently cannot reliably distinguish a phyllodes tumour from a fibroadenoma, given the overlapping histological appearance — **definitive diagnosis often isn't reached until surgical excision**, which is precisely why any fibroepithelial lesion with suspicious clinical/imaging features (per the S/Smx clues above) should proceed to excisional biopsy rather than being managed non-operatively the way a straightforward fibroadenoma often is.
+- **Mx:**
+  - **Definitive: surgical excision is the mainstay of treatment for all three grades** (benign, borderline, malignant) — genuinely different from fibroadenoma management, where non-operative surveillance is now the widely accepted default for a classic, low-risk presentation.
+  - **Margin width matters and should be explicit, not left vague:** current guidance (including NCCN) recommends excision with **clear margins, ideally ≥1cm** — narrower margins are associated with meaningfully higher local recurrence rates (studies report roughly 17–40% recurrence with narrow/positive margins vs a substantially lower rate with adequate ≥1cm margins). Either wide local excision (tumourectomy) or mastectomy can achieve this depending on tumour size relative to breast size; axillary staging is **not** routinely required regardless of grade, given nodal metastasis is rare even in malignant phyllodes tumours.
+  - **Adjuvant therapy:** chemotherapy has not shown a clear clinical benefit even for malignant phyllodes tumours, so management remains predominantly surgical rather than following the multimodal pattern of many other breast malignancies — a genuinely important distinction from the invasive ductal/lobular carcinoma Mx elsewhere in this file, not repeated here.
+- **P:** even benign phyllodes tumours carry a real local recurrence risk (up to ~25% after excision, particularly with inadequate margins) — genuine long-term follow-up is required regardless of initial grade, given recurrence risk and the possibility of a recurrence presenting at a higher grade than the original tumour. Malignant phyllodes tumours can metastasise (typically haematogenously, unlike the nodal-predominant spread of most other breast cancers) — inadequately treated malignant disease carries a risk of rapid growth and metastatic spread.
+
+## Mammary duct ectasia
+
+- **D:** dilatation of the large breast ducts.
+- **S/Smx:** commonly occurs around menopause and in smokers.
+  - Tender lump around the areola.
+  - ± Green nipple discharge.
+  - May cause local inflammation if it ruptures (≈ plasma cell mastitis).
+- **Mx:** rule out malignancy, smoking cessation. If severe symptoms, total duct excision.
+
+## Duct papilloma
+
+- **D:** epithelial proliferation in the large mammary ducts — hyperplastic lesions that are usually benign.
+- **S/Smx:** blood-stained discharge, usually originating from only one duct. Mass if large enough.
+- **Mx:** microdochectomy if symptomatic. No increased risk of malignancy.
+
+
+<!-- ===== SOURCE: 10_10b_Haemonc_-_Transplant_Medicine.md ===== -->
+
+
+## 0.1 Graft versus host disease (GVHD)
+
+- **D:** major complication following allogeneic haematopoietic cell transplantation, occurring when donor T cells respond to histoincompatible antigens on host tissues.
+- **R:** HLA disparity (↑degree of mismatch → ↑risk of GVHD); ↑age of donor or recipient; female donor with male recipient; advanced malignant condition; graft source (bone marrow or peripheral blood source associated with ↑risk vs umbilical cord blood).
+- **P:** acute GVHD — antigen presenting cells activate donor T cells → target tissue destruction. Chronic GVHD is not as well understood.
+- Divided into acute and chronic:
+  - **Acute GVHD** — classically within 100 days of transplantation.
+  - **Chronic GVHD** — follows acute disease, or arises de novo after 100 days.
+
+### 0.1.1 S/Smx of acute GVHD
+
+- Skin (80%): painful maculopapular rash (often neck, palms, soles) ± erythroderma or toxic epidermal necrolysis-like syndrome.
+- Liver (50%): jaundice.
+- GIT (50%): watery or bloody diarrhoea, persistent nausea/vomiting.
+- Culture-negative fever.
+- Scoring systems exist that take into account the degree of involvement (grades I to IV).
+
+### 0.1.2 S/Smx of chronic GVHD
+
+- Skin: poikiloderma (pigmented skin disorder), scleroderma, vitiligo, lichen planus, etc.
+- Eyes: keratoconjunctivitis sicca, corneal ulcers, scleritis.
+- GI: dysphagia, odynophagia, oral ulcers, ileus (oral lichenoid changes are characteristically seen early on).
+- Lungs: obstructive or restrictive lung disease.
+
+### 0.1.3 Diagnosis
+
+- Based primarily on clinical symptoms/signs.
+- Tissue biopsy with histopathological confirmation if the aetiology is not clearly determined.
+- Other investigations guided by systems affected.
+
+> [!info] Billingham criteria for diagnosis of GVHD
+> 1. Transplanted tissue contains immunologically functioning cells.
+> 2. Recipient and donor are immunologically different.
+> 3. Recipient is immunocompromised.
+
+### 0.1.4 Management
+
+- **Prophylaxis:** calcineurin inhibitor (e.g. ciclosporin or tacrolimus) AND low-dose methotrexate or mycophenolate.
+- **Acute grade I (skin only):** topical corticosteroid (e.g. hydrocortisone cream) + calcineurin inhibitor.
+- **Acute grade II to IV:** systemic (IV/PO) corticosteroid + calcineurin inhibitor.
+- **Chronic GVHD:** systemic (IV/PO) corticosteroid + calcineurin inhibitor, AND antibiotic prophylaxis (e.g. azithromycin), AND *Pneumocystis* prophylaxis (e.g. TMP-SMX), AND vaccinations.
+
+### 0.1.5 Prognosis
+
+- In acute GVHD, complete response rates ~20–40%. The most important predictor of long-term survival is the primary response to therapy.
+- In chronic GVHD, if treated early, most cases resolve within 5 years. 2-year survival was 74% in one study.
+
+## 0.2 Organ transplant
+
+> [!warning] FLAG 2026-09-01 — overlaps Renal, and this source has zero inbound references
+> `Renal and Urology_merged §0.2.4 Renal Replacement Therapy Modalities`, `§0.2.5 Rejection` and
+> `§0.2.6 Complications of transplant and lifelong immunosuppression` cover the same ground and **are**
+> referenced. **`10_10b_Haemonc_-_Transplant_Medicine` has none.**
+> ⚠️ Zero inbound is **weak evidence on its own** — only 0.9% of numeric pointers in this vault can be
+> validated at all. It is listed because it coincides with demonstrated content overlap, not instead of it.
+
+> [!info] Types of transplant
+> - **Allograft:** organ transplanted from one individual to another.
+> - **Isograft:** transplant between identical twins.
+> - **Autograft:** transplant to one's own self (e.g. skin graft).
+> - **Xenograft:** transplant from another species (e.g. porcine heart valve).
+
+**Sources of organs:** live donor; DBD (donor brain dead); DCD (donor cardiac dead).
+
+### 0.2.1 Matching organ donor to recipient
+
+- **ABO groups** — incompatibility will result in hyperacute rejection.
+- **Human leucocyte antigens (HLA A, B, C, DR alleles)** — ideally all 8 alleles are matched; ↑degree of mismatch → ↑risk of rejection.
+- **Major histocompatibility antigens.**
+
+### 0.2.2 Types of organ rejection
+
+> [!danger] Hyperacute rejection — occurs immediately, due to pre-formed antigens (e.g. ABO incompatibility). Greatest risk in renal transplants.
+
+> [!warning] Acute rejection — occurs within the first 6 months, T-cell mediated. Tissue infiltrates + vascular lesions. All types of organ transplants are susceptible; can occur in up to 50% of cases.
+
+> [!warning] Chronic rejection — occurs after the first 6 months. Vascular changes mainly → organ ischaemia, e.g. in cardiac transplants, rapid coronary artery disease. ↑risk with previous acute rejections.
+
+
+<!-- ===== SOURCE: J5_Oncological_Emergencies_and_Palliative_Care.md ===== -->
+
+
+> [!warning] Sourcing
+> Written from model knowledge, not retrieved from source. Recognition, principles and clinical reasoning are reliable at intern level. **ALL DOSES ARE OMITTED** — end-of-life and opioid prescribing must come from the **Australian Medicines Handbook**, **eTG Palliative Care**, **CareSearch / palliAGED**, and your health network's anticipatory prescribing chart, calculated for the individual patient.
+> **VOLUNTARY ASSISTED DYING is lawful in South Australia under specific statutory requirements** — every aspect of it is flagged `UNVERIFIED` and must be checked against the current Act and SA Health guidance. **Do not act on anything in 0.4 about VAD without verifying it.**
+>
+> **End-of-life care, prognostic trajectories and advance care planning are built in [[GER2]] 0.5–0.6**, **febrile neutropenia in [[K1]] 0.5**, and **hypercalcaemia in [[I3]] 0.2** — cross-referenced rather than repeated.
+
+---
+
+## 0.1 The Oncological Emergencies
+
+> [!tip] The list, and why it belongs to generalists
+> **· FEBRILE NEUTROPENIA · METASTATIC SPINAL CORD COMPRESSION · SUPERIOR VENA CAVA OBSTRUCTION · HYPERCALCAEMIA · TUMOUR LYSIS SYNDROME · raised intracranial pressure from brain metastases · MALIGNANT BOWEL OBSTRUCTION · massive haemoptysis or haemorrhage · hyperviscosity and leucostasis · IMMUNE-RELATED ADVERSE EVENTS · neutropenic enterocolitis · and cardiac tamponade.**
+> **Almost all of these present out of hours, to an emergency department or a ward cover intern, not to the oncologist.**
+> **Outcomes depend on RECOGNITION and on the first hour**, not on specialist treatment that follows.
+
+> [!danger] Four questions to ask about every cancer patient who presents unwell
+> **1. WHAT IS THE CANCER, and is it curative or palliative intent?**
+> **2. WHAT TREATMENT ARE THEY ON, and WHEN WAS THE LAST DOSE?** **Anyone within weeks of chemotherapy is neutropenic until proven otherwise. Anyone on a checkpoint inhibitor — even months after the last dose — can have an immune-related adverse event.**
+> **3. DO THEY HAVE A TREATMENT CARD, protocol or alert?** Most oncology and haematology services issue one, and it names the regimen and the contact number.
+> **4. WHAT IS THE DOCUMENTED GOALS-OF-CARE STATUS?** **Find it before you escalate or before you withhold — and if there isn't one, that is itself a finding.** Cross-refer [[A10]] 0.3.
+
+---
+
+## 0.2 Neutropenic Sepsis and Treatment Toxicity
+
+> [!danger] Antibiotics within the hour — before the workup is complete
+> **FEBRILE NEUTROPENIA IS A MEDICAL EMERGENCY with mortality comparable to any other form of sepsis.**
+> **GIVE EMPIRICAL BROAD-SPECTRUM ANTIBIOTICS WITHIN A SHORT DEFINED WINDOW — do NOT wait for the neutrophil count, the cultures, the chest radiograph, or a senior review.** Cross-refer [[K1]] 0.5.
+> **THE ABSENCE OF FEVER DOES NOT EXCLUDE IT.** **Patients on corticosteroids, the elderly, and those in septic shock may be afebrile or HYPOTHERMIC.** **Hypotension, tachycardia, confusion, rigors or simply "feeling unwell" in a recently treated patient warrant the same response.**
+> **Practical points: take cultures from peripheral sites AND from every lumen of any central line · examine the line site, the mouth, the perineum and the skin · and AVOID RECTAL EXAMINATIONS, SUPPOSITORIES AND ENEMAS in a neutropenic patient**, because of the risk of bacteraemia and perianal infection.
+> **NEUTROPENIC ENTEROCOLITIS (typhlitis) — right iliac fossa pain, fever and diarrhoea in a neutropenic patient, with bowel wall thickening on CT.** **It mimics appendicitis, and it is managed medically rather than surgically in most cases** — so recognising it prevents an operation the patient may not survive.
+
+> [!danger] Immune-related adverse events — diarrhoea is colitis until proven otherwise
+> **Checkpoint inhibitors (anti-PD-1, anti-PD-L1, anti-CTLA-4) cause autoimmune inflammation that can affect ANY organ.**
+> **THE COMMON ONES: COLITIS · hepatitis · PNEUMONITIS · THYROIDITIS (which may present as thyrotoxicosis then hypothyroidism) · HYPOPHYSITIS and ADRENAL INSUFFICIENCY · nephritis · dermatitis · arthritis · and neurological syndromes.**
+> **MYOCARDITIS is uncommon but carries very high mortality — a checkpoint inhibitor patient with chest pain, breathlessness, arrhythmia or a raised troponin needs urgent assessment.**
+> **THREE THINGS THAT CATCH PEOPLE OUT:**
+> **1. THEY OCCUR MONTHS AFTER THE LAST DOSE.** A patient who stopped treatment three months ago is still at risk, and the connection is not made.
+> **2. TREATMENT IS CORTICOSTEROIDS — not just stopping the drug.** Immunosuppression is the therapy, escalating to other agents for severe or refractory cases.
+> **3. DIARRHOEA IN A CHECKPOINT INHIBITOR PATIENT IS IMMUNE COLITIS UNTIL PROVEN OTHERWISE.** **Treating it as gastroenteritis with LOPERAMIDE is dangerous — it can mask progression to perforation.** Exclude infection (including *C. difficile*), then treat with steroids.
+> **ENDOCRINOPATHIES ARE FREQUENTLY PERMANENT**, requiring lifelong replacement — and adrenal insufficiency can present as collapse. Cross-refer [[I4]] 0.3 and [[A5]] 0.7.
+
+> [!warning] The chemotherapy toxicities worth knowing by name
+> **· ANTHRACYCLINES — cumulative CARDIOTOXICITY; baseline and surveillance echocardiography.** Cross-refer [[CV-X]] 0.1.
+> **· TRASTUZUMAB — cardiotoxicity, usually reversible.**
+> **· BLEOMYCIN — PULMONARY FIBROSIS, with risk related to cumulative dose and to high inspired oxygen concentrations, which matters if the patient later needs anaesthesia.** Cross-refer [[RESP-X]] 0.1.
+> **· CISPLATIN — nephrotoxicity, OTOTOXICITY (irreversible, and a reason for audiometry) and peripheral neuropathy.**
+> **· VINCRISTINE — peripheral neuropathy, and it is FATAL IF GIVEN INTRATHECALLY.** **This has caused deaths, and it is why vinca alkaloids are dispensed in minibags and never in a syringe.**
+> **· 5-FLUOROURACIL and CAPECITABINE — mucositis, diarrhoea, hand-foot syndrome, coronary vasospasm; severe toxicity occurs in DPD deficiency, for which testing is increasingly used.**
+> **· METHOTREXATE — mucositis, myelosuppression, and remember it is WEEKLY.** Cross-refer [[L2]] 0.2.
+> **EXTRAVASATION of a vesicant: STOP the infusion, do NOT flush, ASPIRATE what you can through the cannula, leave the cannula in initially, mark the area, apply the appropriate warm or cold compress for that drug, use the specific antidote where one exists, and involve the oncology and plastic surgery teams.** `UNVERIFIED — drug-specific management.`
+
+---
+
+## 0.3 The Metabolic and Structural Emergencies
+
+> [!danger] Tumour lysis syndrome — and do not give calcium
+> **Massive cell lysis releases intracellular contents: HIGH POTASSIUM · HIGH PHOSPHATE · HIGH URATE — and the phosphate binds calcium, producing LOW CALCIUM.**
+> **The consequences: acute kidney injury (urate and calcium phosphate deposition), arrhythmia, seizures and death.**
+> **HIGHEST RISK: BURKITT and other high-grade lymphomas · acute leukaemias, particularly with a high white cell count · bulky chemosensitive disease · and pre-existing renal impairment or dehydration. It can occur SPONTANEOUSLY before treatment in very high-turnover disease.**
+> **PREVENTION IS THE MANAGEMENT: aggressive HYDRATION · ALLOPURINOL or, in high-risk cases, RASBURICASE · and frequent monitoring of potassium, phosphate, calcium, urate and renal function.**
+> **RASBURICASE IS CONTRAINDICATED IN G6PD DEFICIENCY — it causes severe haemolysis and methaemoglobinaemia.** **Screen at-risk patients first.** Cross-refer [[J2]] 0.2.
+> **THE COUNTERINTUITIVE POINT: DO NOT GIVE CALCIUM FOR ASYMPTOMATIC HYPOCALCAEMIA in tumour lysis** — it increases calcium phosphate precipitation and worsens renal injury. **Treat calcium only if symptomatic or with arrhythmia.**
+> **Treat the hyperkalaemia, and involve renal medicine early — dialysis is sometimes required.** Cross-refer [[I5]] 0.6.
+
+> [!warning] Superior vena cava obstruction
+> **Features: facial and upper limb SWELLING · distended, non-pulsatile neck and chest wall VEINS with visible collaterals · plethora · dyspnoea and cough · headache WORSE ON BENDING FORWARD OR LYING FLAT · and PEMBERTON SIGN (facial plethora, distress and stridor on raising both arms above the head).**
+> **Usually caused by lung cancer or lymphoma, and increasingly by intravascular devices causing thrombosis.**
+> **THE EMERGENCY IS AIRWAY COMPROMISE AND CEREBRAL OEDEMA — most cases are urgent but not immediately life-threatening.**
+> **Because of that: WHERE THE PATIENT IS STABLE, OBTAIN A TISSUE DIAGNOSIS BEFORE TREATING**, since steroids and radiotherapy can obscure the histology and the diagnosis determines the entire treatment plan — particularly if it is lymphoma, which is highly treatable.
+> **Management: CT with contrast · endovascular STENTING (which gives rapid relief) · radiotherapy or chemotherapy depending on the tumour · corticosteroids · and anticoagulation for thrombotic causes.**
+
+> [!danger] Metastatic spinal cord compression — the neurology at treatment predicts the outcome
+> **PAIN PRECEDES NEUROLOGICAL SIGNS BY WEEKS.** New or worsening back pain in a patient with known malignancy — particularly if it is band-like, worse lying flat, or wakes them at night — is cord compression until proven otherwise.
+> **THE FUNCTIONAL OUTCOME IS DETERMINED BY THE NEUROLOGICAL STATUS AT THE TIME OF TREATMENT.** **A patient who is still walking when treated usually keeps walking. A patient who has lost the ability to walk usually does not regain it.**
+> **That single fact is why this is an emergency and why the window is the pain phase, not the paralysis phase.**
+> **Management: DEXAMETHASONE IMMEDIATELY · WHOLE-SPINE MRI (because there are frequently multiple levels) · and urgent discussion with oncology, radiation oncology and spinal surgery.** **Do not wait until morning.** Cross-refer [[L4]] 0.3.
+
+> [!tip] The other structural emergencies
+> **· RAISED INTRACRANIAL PRESSURE from brain metastases — headache worse in the morning or on coughing, vomiting, focal deficit, seizures, papilloedema.** **Dexamethasone and imaging.** **But avoid steroids before biopsy if primary CNS LYMPHOMA is a possibility — steroids can make the lesion disappear radiologically and render the biopsy non-diagnostic**, delaying treatment of a treatable disease. **Discuss before prescribing.**
+> **· MALIGNANT BOWEL OBSTRUCTION — frequently MULTI-LEVEL and NOT surgically correctable.** **Management is often MEDICAL: anti-secretory agents, antiemetics chosen by mechanism, analgesia, corticosteroids, and a venting gastrostomy or nasogastric tube for symptom relief.** **Surgery is considered only for a single-level obstruction in a patient with reasonable performance status.** Cross-refer [[C5]] 0.5.
+> **· CARDIAC TAMPONADE from a malignant pericardial effusion — cross-refer [[F0.3]] 0.5.**
+> **· MASSIVE HAEMOPTYSIS or catastrophic haemorrhage — and where this is anticipated in a dying patient, PLAN FOR IT: dark towels, sedation prescribed in advance, and a briefed family.** See 0.6.
+
+---
+
+## 0.4 Palliative Care Principles
+
+> [!danger] Palliative care is not the same as end-of-life care
+> **This misunderstanding causes real harm — patients and families hear "palliative" as "giving up", and clinicians defer referral until the last days, when most of the benefit has been lost.**
+> **PALLIATIVE CARE IS SPECIALIST SYMPTOM AND QUALITY-OF-LIFE CARE THAT RUNS ALONGSIDE ACTIVE TREATMENT.** It can start at diagnosis, and it is appropriate in non-malignant disease — heart failure, COPD, renal failure, neurodegenerative disease — as much as in cancer.
+> **EARLY PALLIATIVE CARE INVOLVEMENT IMPROVES QUALITY OF LIFE, REDUCES DEPRESSION, REDUCES AGGRESSIVE END-OF-LIFE TREATMENT — AND, IN SOME STUDIES, IMPROVES SURVIVAL.**
+> **That last point is worth having available**, because it answers the objection directly: earlier referral is not a shorter life.
+> **How to frame it to a patient: "this is a team who specialise in helping you feel as well as possible and in supporting you and your family — it works alongside your cancer treatment, not instead of it."**
+
+> [!warning] Clinicians systematically over-estimate prognosis
+> **Doctors consistently predict survival LONGER than it turns out to be, and the error increases the better they know the patient.**
+> **The consequences: late referral · conversations that never happen · treatment continued past benefit · and families unprepared.**
+> **The "SURPRISE QUESTION" — "would I be surprised if this patient died in the next twelve months?" — is a crude but useful prompt, and a "no" should trigger advance care planning.**
+> **Communicating prognosis: ask first what they want to know, and how much detail.** **Use RANGES in units of time — "days to weeks", "weeks to short months" — rather than a number, and acknowledge the uncertainty honestly.** **A specific number is almost always wrong and is remembered forever.** Cross-refer [[GER5]].
+> **The illness trajectories — cancer's late steep decline, organ failure's sawtooth, frailty's slow drift — are in [[GER2]] 0.5** and explain why prognostication is hardest in non-malignant disease.
+
+> [!tip] Place of care, and what makes home possible
+> **Most people say they would prefer to die at home. Most die in hospital.**
+> **The gap is usually practical, not preferential — and the things that close it are: ANTICIPATORY MEDICATIONS IN THE HOUSE · a syringe driver and someone able to manage it · equipment (bed, commode, pressure mattress) · community nursing and after-hours access to advice · a documented plan so that an ambulance called at 3am does not automatically transport and resuscitate · and — most importantly — a carer who is supported enough to keep going.**
+> **CARER EXHAUSTION IS THE COMMONEST REASON A PLANNED HOME DEATH BECOMES A HOSPITAL ONE**, and asking the carer how they are — separately, and meaning it — is a genuine clinical intervention.
+
+> [!danger] Voluntary assisted dying — know that it exists and verify everything else
+> **VOLUNTARY ASSISTED DYING IS LAWFUL IN SOUTH AUSTRALIA under specific statutory eligibility criteria and a defined process involving multiple assessments and mandated training for participating practitioners.**
+> **`UNVERIFIED — every aspect: the eligibility criteria, the process, the timeframes, who may participate, the conscientious objection provisions, and — importantly — the rules about who may RAISE the subject, which differ between Australian jurisdictions and have been the subject of amendment. Verify against the current SA Act and SA Health guidance before saying anything about it to a patient.`**
+> **What holds generally: practitioners may CONSCIENTIOUSLY OBJECT to participating, but must not obstruct a patient's access to information or care · and a request for VAD should always prompt exploration of what is driving it — uncontrolled symptoms, fear of future suffering, loss of control, or feeling a burden — because those are frequently addressable and the request may change when they are addressed.**
+> **Responding to a request: do not react with alarm or shut it down. Listen, explore, be honest about your own position, and ensure they can access accurate information through the proper channel.**
+
+---
+
+## 0.5 Symptom Control
+
+> [!tip] Pain — and the concept that changes the consultation
+> **"TOTAL PAIN" — the recognition that the experience of pain has PHYSICAL, PSYCHOLOGICAL, SOCIAL and SPIRITUAL components, and that pain which does not respond to escalating opioids is frequently not primarily physical.**
+> **A patient whose pain is worse at night, or who needs escalating doses without benefit, may be frightened, or grieving, or worried about their family's finances, or unable to say goodbye to someone.** **Asking "what is the worst thing about this for you?" sometimes achieves more than another dose increase.**
+> **Practical opioid principles:**
+> **· Regular background analgesia plus BREAKTHROUGH doses calculated as a proportion of the total daily dose.** `UNVERIFIED — the fraction and all doses.`
+> **· TITRATE against response, reviewing the number of breakthrough doses used to guide the background dose.**
+> **· PRESCRIBE A LAXATIVE WITH EVERY OPIOID, EVERY TIME. Opioid-induced constipation does not develop tolerance and it is universal.**
+> **· ANTICIPATE nausea on initiation and prescribe an antiemetic.**
+> **· RENAL IMPAIRMENT: AVOID MORPHINE — its active metabolites accumulate and cause sedation, myoclonus and respiratory depression. Use hydromorphone or fentanyl.** **This is one of the commonest and most consequential prescribing errors in palliative care.**
+> **· ADJUVANTS by pain type: NEUROPATHIC pain → antineuropathic agents (cross-refer [[F0.4]] 0.8) · BONE pain → NSAIDs, RADIOTHERAPY (a single fraction is often highly effective and under-used), bisphosphonates · liver capsular pain and raised intracranial pressure → dexamethasone · colic → antispasmodics.**
+> **· OPIOID ROTATION where side effects limit dose escalation.**
+
+> [!danger] The opioid myths that cause under-treatment
+> **1. "They'll become addicted."** **Addiction in the context of pain from advanced disease is rare. Physical dependence and tolerance are expected pharmacological phenomena and are not addiction.**
+> **2. "Morphine will hasten death."** **Opioids TITRATED TO SYMPTOMS do not shorten life.** Uncontrolled pain and breathlessness cause distress, exhaustion and agitation — treating them well is not euthanasia, and the doctrine of double effect is rarely even needed because appropriate titration does not depress respiration in a patient in pain.
+> **3. "Starting morphine means the end is near."** **Patients and families frequently believe this and refuse treatment because of it.** **Say explicitly that morphine is a treatment for a symptom, not a signal about prognosis** — otherwise the fear itself becomes the barrier.
+
+> [!warning] Breathlessness — and the free intervention that works
+> **· A HANDHELD FAN directed at the face.** **Trigeminal stimulation reduces the sensation of breathlessness. It is free, portable, evidence-supported and consistently forgotten.**
+> **· Positioning (upright, leaning forward with arms braced), breathing control, pacing, and a cool, open, uncluttered room.**
+> **· LOW-DOSE OPIOIDS are effective for refractory breathlessness and are safe at the doses used.**
+> **· Anxiolytics where anxiety is driving or amplifying it — and the two feed each other.**
+> **· OXYGEN ONLY IF HYPOXIC.** **Oxygen does not relieve breathlessness in non-hypoxaemic patients, and it tethers them to a machine and a mask.** Cross-refer [[RESP-X]] 0.6.
+
+> [!tip] The rest of the symptom burden
+> **· NAUSEA AND VOMITING — choose the antiemetic by MECHANISM and receptor, not by habit.** Cross-refer [[C2]] 0.5.
+> **· CONSTIPATION — as above, prescribed prophylactically.**
+> **· DELIRIUM — extremely common at the end of life. Look for the reversible causes (urinary retention, constipation, hypercalcaemia, infection, opioid toxicity, drug withdrawal) before assuming it is terminal.** Cross-refer [[D2]] 0.2.
+> **· MOUTH CARE — dry mouth, thrush and mucositis cause disproportionate distress and are easily and cheaply treated. It is the single most appreciated nursing intervention at the end of life.**
+> **· ANOREXIA AND CACHEXIA — the distress is usually greater for the FAMILY than for the patient. Explaining that not eating is a consequence of the illness rather than a cause of deterioration relieves a great deal of guilt and conflict.**
+> **· Fatigue, pruritus, hiccups, lymphoedema, malignant wounds, ascites and pleural effusions** — each with specific management.
+> **· Psychological, social and spiritual support, and access to allied health — occupational therapy for equipment, social work for practical and financial matters, and pastoral care.**
+
+---
+
+## 0.6 The Last Days of Life
+
+> [!warning] Recognising dying is a clinical skill, and failing to do it causes harm
+> **The signs: progressive weakness and being bed-bound · reduced consciousness and increasing time asleep · minimal oral intake and difficulty swallowing medications · reduced urine output · peripheral MOTTLING and cooling · and altered breathing patterns including CHEYNE-STOKES respiration and long apnoeic pauses.**
+> **Recognising it allows the right things to happen: symptom control optimised, futile interventions stopped, the family told, and the person's wishes about place of care honoured.**
+> **FAILING TO RECOGNISE IT PRODUCES: blood tests and observations that change nothing, escalation to interventions that cannot help, a family who are not warned, and a death in a resuscitation bay rather than in a quiet room with people present.**
+> **When it is recognised, SAY SO — clearly and kindly — to the patient where possible and to the family. "I think he is dying, and I think it will be in the next few days" is one of the most important sentences in medicine, and it is frequently avoided.**
+
+> [!danger] Anticipatory prescribing — four symptoms, prescribed before they happen
+> **"JUST IN CASE" MEDICATIONS are prescribed SUBCUTANEOUSLY, AS REQUIRED, IN ADVANCE, and dispensed to the home or charted on the ward BEFORE the symptom occurs.**
+> **THE FOUR CORE SYMPTOMS:**
+> **1. PAIN or BREATHLESSNESS → an OPIOID.**
+> **2. NAUSEA AND VOMITING → an ANTIEMETIC.**
+> **3. AGITATION, ANXIETY or terminal restlessness → a BENZODIAZEPINE (usually midazolam).**
+> **4. RESPIRATORY SECRETIONS → an ANTIMUSCARINIC (glycopyrronium or hyoscine).**
+> **`UNVERIFIED — all agents and doses. Use your health network's anticipatory prescribing chart and eTG Palliative Care.`**
+> **WHY IT MATTERS SO MUCH: the commonest cause of a distressing death at home is a symptom developing at 2am with no medication in the house and no prescriber available.** **Prescribing in advance takes ten minutes and prevents that.**
+> **A CONTINUOUS SUBCUTANEOUS INFUSION (syringe driver) is used where symptoms are persistent rather than intermittent, or where swallowing is lost.**
+> **RATIONALISE THE OTHER MEDICATIONS: stop statins, antihypertensives, oral hypoglycaemics, bone protection, vitamins and most other long-term drugs; convert essential symptom control to a subcutaneous route; and stop routine observations, blood tests and finger-prick glucose testing that will not change anything.**
+
+> [!tip] Terminal secretions, and what to tell the family
+> **The "death rattle" is caused by air moving over pooled oropharyngeal secretions in a patient too weak to clear them.**
+> **TWO THINGS TO KNOW:**
+> **1. ANTIMUSCARINICS PREVENT FURTHER SECRETION BUT DO NOT DRY UP WHAT IS ALREADY THERE — so they work much better given EARLY, when the rattle first appears, than later.** **Repositioning onto the side helps.** **Suctioning is generally distressing and unhelpful.**
+> **2. IT DISTRESSES THE FAMILY FAR MORE THAN THE PATIENT.** **There is no evidence that unconscious dying patients experience distress from it.**
+> **SAYING THIS EXPLICITLY — "that sound is upsetting to hear, and I want you to know he isn't distressed by it and isn't choking" — is one of the most valuable things you can offer a family**, and it is frequently not said.
+
+> [!warning] Hydration, nutrition, and the family conversations
+> **· ARTIFICIAL HYDRATION AND NUTRITION at the end of life do not prolong life or improve symptoms in the dying phase, and can worsen secretions, oedema and breathlessness.** **The decision should be individualised and discussed, not applied by default in either direction.** **MOUTH CARE is what relieves the sensation of thirst.** Cross-refer [[GER2]] 0.3.
+> **· TELL THE FAMILY WHAT TO EXPECT — the breathing changes, the reduced consciousness, the mottling, the fact that hearing is thought to persist, and that the timing is uncertain.** **Unexpected normal events are frightening; anticipated ones are not.**
+> **· GIVE PERMISSION — to be present, and equally to step out. Families frequently feel they must maintain a vigil and then feel guilty when the death occurs during the few minutes they left the room.** **Tell them in advance that this commonly happens and that it is not a failure.**
+> **· INVOLVE CHILDREN honestly and age-appropriately — exclusion causes more lasting harm than inclusion, and children construct worse explanations than the truth.**
+> **· ANTICIPATE catastrophic events (major haemorrhage, airway obstruction) where they are foreseeable, with crisis medications prescribed and the family briefed.**
+
+> [!tip] After the death
+> **· VERIFICATION and CERTIFICATION of death — know your local process and who may do each.**
+> **· CORONER REFERRAL — required in defined circumstances including unexpected death, death within a defined period of a procedure or anaesthetic, deaths related to injury, and deaths in care or custody.** `UNVERIFIED — the SA reportable death criteria. Check them; getting this wrong causes real distress to families.`
+> **· Tissue and organ donation where appropriate.**
+> **· PRACTICAL INFORMATION for the family — what to do next, funeral arrangements, paperwork, and who to contact. A grieving family cannot retain verbal instructions; give it in writing.**
+> **· BEREAVEMENT follow-up, with attention to those at higher risk of complicated grief.**
+> **· AND YOUR OWN TEAM.** **Deaths affect staff, particularly junior staff, particularly a first death or a death of someone young. Debriefing should be offered rather than assumed unnecessary, and it is legitimate to be affected.**
+
+**Ix:** **In an unwell cancer patient: FBC, UEC, CALCIUM, LFT, CRP, blood cultures — and the neutrophil count, though ANTIBIOTICS MUST NOT WAIT FOR IT** (*why:* neutropenic sepsis is the commonest lethal presentation and the first hour determines outcome; *what:* neutropenia, organ dysfunction, infection). **Potassium, phosphate, calcium, urate and renal function in anyone at tumour lysis risk** (*why:* it is preventable and rapidly lethal; *what:* the metabolic pattern). **WHOLE-SPINE MRI for suspected cord compression, urgently** (*why:* the neurological status at treatment determines whether they walk again, and disease is often multi-level; *what:* compression). CT with contrast for suspected SVC obstruction (*why:* confirms and identifies the cause; *what:* obstruction, mass, thrombus). **Troponin and ECG in a checkpoint inhibitor patient with cardiac symptoms** (*why:* immune myocarditis has high mortality; *what:* elevation). **G6PD status before rasburicase** (*why:* severe haemolysis; *what:* deficiency). **In the DYING patient: stop investigations that will not change management** (*why:* blood tests, observations and glucose monitoring in the last days cause discomfort and inform nothing; *what:* nothing useful). **A review of the drug chart and of the goals-of-care documentation** (*why:* the highest-yield "investigation" at end of life is rationalising medications and knowing what has already been decided; *what:* deprescribing opportunities, documented wishes).
+
+---
+
+> [!note] Cross-references
+> End-of-life care, trajectories and advance care planning → [[GER2]] 0.5–0.6 · Capacity, substitute decision-making and goals of care → [[A10]] 0.1–0.3 · Breaking bad news and difficult conversations → [[GER5]] · Febrile neutropenia → [[K1]] 0.5 · Hypercalcaemia → [[I3]] 0.2 · Hyperkalaemia → [[I5]] 0.6 · Metastatic spinal cord compression → [[L4]] 0.3 · Malignant bowel obstruction → [[C5]] 0.5 · Cardiac tamponade → [[F0.3]] 0.5 · Antiemetic selection by mechanism → [[C2]] 0.5 · Delirium → [[D2]] 0.2 · Neuropathic pain and opioid stewardship → [[F0.4]] 0.8–0.9 · Refractory breathlessness and the handheld fan → [[RESP-X]] 0.6 · Anthracycline and trastuzumab cardiotoxicity → [[CV-X]] 0.1 · Bleomycin lung toxicity → [[RESP-X]] 0.1 · Checkpoint inhibitor adverse events → [[A5]] 0.7 and [[I4]] 0.3 · G6PD deficiency and rasburicase → [[J2]] 0.2 · Myeloma, lymphoma and leukaemia → [[J4]] · Malnutrition and artificial nutrition → [[GER2]] 0.3
+
+
+<!-- ===== SOURCE: 10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies.md ===== -->
+
+
+> [!warning] **This file is named for oncological emergencies and covers three of them — neutropenic sepsis, tumour lysis syndrome, and SVC obstruction. Two more are owned elsewhere and were not pointed at from here at all** (added in the G9 round, 2026-08-29):
+> - **Malignant spinal cord compression** — [[04_Neurology]] Malignant Spinal Cord Compression (MSCC), which owns it in full, including the UMN-pattern distinction from cauda equina syndrome. (A separate, broader entry on non-malignant cord compression from trauma, disc or infection sits in [[11_01_Ortho_-_Orthopaedic_Emergencies]] Spinal cord compression.)
+> - **Hypercalcaemia of malignancy** — [[06_Metabolic_Medicine_and_Endocrinology]] Hypercalcaemia, which owns the CHIMPANZEES differential, the PTH-dependent/independent split that separates malignancy from hyperparathyroidism, and the fluid and zoledronic acid figures.
+>
+> Neither is repeated here: **one owner for the numbers, pointers from everywhere else.** The point of this note is that a reader revising "oncological emergencies" from the file of that name was getting three of five, with nothing indicating the other two existed.
+
+## Neutropenic sepsis
+
+- **D:** medical emergency — presence of fever in a neutropenic patient (aka febrile neutropaenia).
+- **A:** infection, most often Gram-positive (*S. aureus*, *S. epidermidis*); also Gram-negative (*E. coli*, *Klebsiella*, *Pseudomonas aeruginosa*).
+- **P:** chemotherapy-induced immunosuppression; mucosal breaches, lines, catheters, etc. as routes of entry.
+- **S/Smx:** mainly fever, but any other symptoms/signs of sepsis.
+
+> [!danger] ASK "when was your last chemotherapy?" — neutropenic sepsis is most likely to occur ~10 days post-chemotherapy, but can occur at any time within 6 weeks.
+
+- **Ix:** FBC (neutrophils <0.5), blood cultures, lactate, LDH, etc.
+
+> [!info] Verified against current Australian Therapeutic Guidelines: Antibiotic practice, Aug 2026 — **piperacillin-tazobactam is confirmed as genuine, current first-line Australian empirical therapy** for sepsis of unknown origin including neutropenic sepsis, not a UK-specific choice as originally flagged — this is a case where checking confirmed the note was already correct rather than needing replacement. The general escalation logic (add vancomycin for suspected line-related sepsis or septic shock; switch to meropenem if risk factors for multidrug-resistant Gram-negative organisms) also matches current Australian guidance. As with the [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis entry, Australian sepsis pathways use the "SEPSIS KILLS" branding rather than "Sepsis 6" — see that entry for the fuller AU-specific detail on the underlying clinical actions, not repeated here; the substance of "Sepsis 6" below (oxygen, cultures, fluids, antibiotics, lactate, urine output) remains clinically appropriate regardless of naming.
+
+- **Mx:**
+  - SEPSIS KILLS / Sepsis 6 principles — see [[08_09_Infectious_Disease_-_Miscellaneous]] Sepsis for the full AU-specific framework, not repeated here.
+  - Antibiotics: piperacillin-tazobactam to cover — only 30% of cultures come back positive, so go broad spectrum.
+  - If the patient is still febrile and unwell after 48h, add meropenem ± vancomycin (vancomycin specifically for suspected line-related sepsis or septic shock, per current AU guidance).
+  - If not responding in 4–6 days, order investigations for fungal infection (e.g. HRCT).
+  - ± G-CSF if appropriate.
+
+## Tumour lysis syndrome
+
+- **D:** oncological emergency caused by the rapid breakdown of cancer cells and the subsequent release of large amounts of intracellular content into the bloodstream.
+- **R:** haematological cancer, large tumour burden, treatment-sensitive tumours, recent cancer treatment, pre-existing renal impairment, dehydration, volume depletion, nephrotoxic drugs.
+
+> [!danger] Biochemical picture: ↑K, ↓Ca, ↑PO4, ↑urate, ↑LDH. LDH is a prognostic factor — indicates the rate/level of cell death.
+
+- **S/Smx:** most often occurs in children and young adults; most often when chemotherapy starts (12–72h after). Nausea, vomiting, diarrhoea, anorexia, muscle weakness, muscle cramps, tetany, flank pain, lethargy, paraesthesia, and laryngeal spasm.
+- **Ix:** U&Es, etc.
+- **Mx:**
+  - Fluid resuscitation.
+  - Manage hyperkalaemia.
+  - IV rasburicase for high-risk patients (breaks down uric acid).
+  - Allopurinol for lower-risk patients.
+
+## Superior vena cava obstruction (SVCO)
+
+- **D:** oncological emergency caused by compression of the SVC.
+- **A:** lung cancer (especially small cell lung cancer), non-Hodgkin's lymphoma, other cancers. Non-malignant causes: aortic aneurysm, mediastinal fibrosis, goitre, SVC thrombosis.
+- **P:** compression of the SVC → ↓drainage of blood from the top of the body (head, neck, arms).
+- **S/Smx:** dyspnoea; swelling of face, neck and arms; headache (worse in mornings); visual disturbances (possibly secondary to cerebral oedema); pulseless jugular venous distention.
+
+> [!note] The mechanism by which SVC obstruction causes visual disturbances is not well explained in the literature.
+
+- **Mx:** endovascular stenting to provide symptomatic relief; radical chemotherapy or chemo-radiotherapy in some cancers; ± glucocorticoids (weak evidence).
+
+
+<!-- ===== SOURCE: NEW_Investigations_Gastroenterology.md ===== -->
+*Moved here from `GI_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
+
+## 0.34 G-CSF (Granulocyte Colony-Stimulating Factor)
+`CF-PAIR` **`M-3` named `NEW_Drugs_07` as the destination. Under AXIS-1 that source block was de-duplicated to THIS file, so this is where it lands — the row resolves to a file rather than to a standalone drug file.**
+
+> [!warning] **Mis-filed, and mis-categorised as an investigation** — G-CSF is a **drug**, not a test. Recorded here for traceability; the drug-class treatment belongs in the drug files (`Colony stimulating factors`, AMH section 7, `NEW_Drugs_07_Blood_and_Electrolytes.md`).
+
+**Brief note:** granulocyte colony-stimulating factor (filgrastim and analogues) stimulates neutrophil production and is used for chemotherapy-induced neutropenia prophylaxis and treatment, and for stem cell mobilisation. **Common adverse effect: bone pain.** A **serum G-CSF *level*** is not a routine clinical test. **UNRESOLVED — needs review:** confirm whether the build list intended a G-CSF assay or the drug class, and delete from the investigations axis if the latter.
+
+<!-- ===== SOURCE: 10_11c_Oncology_-_Palliative_Care_Prescribing.md ===== -->
+
+
+> [!info] Verified against Australian palliative care prescribing resources (Therapeutic Guidelines: Palliative Care at tg.org.au, WA Cancer and Palliative Care Network guidelines, NSW CEC last-days-of-life guidance), Aug 2026 — found one genuinely important correction beyond "check locally": **diamorphine (heroin) is not used in Australian clinical practice** — it's a UK-specific palliative/anaesthetic drug, essentially unavailable here, so the diamorphine conversion figures below should not be used in an Australian context at all (not just "verify the numbers" — the drug itself isn't part of the Australian formulary for this indication). Australian practice uses morphine, oxycodone, hydromorphone, and fentanyl as the standard opioid options instead — hydromorphone in particular is commonly used in Australian palliative care (including for renal impairment, given a more favourable metabolite profile than morphine) and is a genuinely more prominent option in Australian teaching than this UK-sourced file reflects.
+> Beyond that specific drug-availability point, the broader principles cross-check reasonably well against Australian sources: **breakthrough dose = one-sixth of the daily dose is confirmed** by WA Cancer and Palliative Care Network guidelines; the general PO morphine : PO oxycodone ≈ 2:1 ratio is broadly consistent with Australian references. However, **the specific PO→SC morphine ratio genuinely varies even between Australian sources** (2:1 in some services' guidelines, 3:1 in others citing the Therapeutic Guidelines directly) — this reflects genuine practice variation rather than a single settled Australian figure, so treat the ratio below as illustrative and always confirm against the current Therapeutic Guidelines: Palliative Care or local palliative care service protocol before calculating an actual dose, given how safety-critical this conversion is.
+
+## General principles
+
+> [!warning] FLAG 2026-09-01 — palliative care has 31 inbound references and none from haematology
+> `10_11c_Oncology_-_Palliative_Care_Prescribing` (11 inbound: **Anaes ×4**, GP, MSK) and
+> `J5 §0.4–§0.6` (20 inbound) are referenced from across the vault but not from within this file's
+> subject. `Geriatrics_merged GER2 §0.5 End-of-Life Care` and `§0.6 Advance Care Planning` are the
+> other half. **A destination file now exists — `Palliative-and-End-of-Life-Care.md` — but is empty:
+> nothing has been moved.**
+> **Opioid conversion appears in five places** (here, `Anaes 03a §0.7`, `AN1 §0.6`,
+> `NEW_Drugs_03 §0.4`, `Emergency F0-4 §0.9/§0.10`).
+
+- Breakthrough dose of a strong opioid is one-sixth of the daily dose — confirmed consistent with Australian palliative care guidance (see note above).
+- Laxatives for all patients on opioids.
+- **In renal impairment:** hydromorphone and fentanyl are generally preferred in Australian practice given more favourable metabolite clearance profiles than morphine; oxycodone requires caution and dose reduction rather than being a clearly preferred first choice — check current Therapeutic Guidelines: Palliative Care renal-impairment-specific dosing tables directly given this is a genuinely nuanced, patient-specific decision.
+- **For metastatic bone pain:** options include strong opioids, bisphosphonates, radiotherapy; consider denosumab; consider referral to oncologist.
+- **When increasing the dose of opioids:** increase by 30–50% (i.e. 1.5× the dose for both regular and breakthrough doses) — this general titration principle is not jurisdiction-specific and doesn't need correction.
+- **Side effects:** nausea and drowsiness tend to be transient; constipation is usually persistent.
+
+## Conversion between opioids
+
+> [!danger] Opioid conversion is high-risk and errors can be fatal. The figures below are illustrative only — always calculate using the current Therapeutic Guidelines: Palliative Care (tg.org.au) conversion tables directly, or with specialist palliative care input, rather than relying on a static reproduction here. **Diamorphine is not used in Australian practice** (see note above) — use morphine, oxycodone, hydromorphone, or fentanyl equivalents instead.
+
+**Oral preparations**
+- Codeine → morphine: divide by 10.
+- Tramadol → morphine: divide by 10.
+- Morphine → oxycodone: divide by 2 (broadly consistent across Australian and international sources).
+
+**Transdermal patches**
+- 12mcg fentanyl patch ≈ 30mg PO morphine (per 24h) — broadly consistent internationally, but confirm the exact current figure against the Therapeutic Guidelines directly given patch-based conversion is particularly safety-critical.
+- Buprenorphine patch conversions vary by specific patch strength — check the current Therapeutic Guidelines table directly rather than a single ratio.
+
+**Subcutaneous delivery**
+- PO → SC morphine: ratio genuinely varies between Australian sources (2:1 to 3:1) — see the note above; confirm against current Therapeutic Guidelines or specialist palliative care input before calculating an actual patient dose.
+- **Diamorphine-based conversions are not applicable in Australian practice** — for parenteral opioid switching, use morphine, oxycodone, or hydromorphone subcutaneous conversion tables from the current Therapeutic Guidelines: Palliative Care instead.
+
+## Symptom management in palliative care
+
+> [!info] Hiccups
+> Chlorpromazine; haloperidol, gabapentin ± dexamethasone (especially if hepatic lesions).
+
+> [!info] Secretions ("death rattle")
+> Hyoscine (Buscopan); glycopyrronium.
+>
+> Educate family that the patient is likely not troubled by secretions themselves.
+
+> [!info] Nausea and vomiting — matched to likely mechanism
+> - **↓Gastric motility:** metoclopramide, domperidone.
+> - **Chemically mediated:** ondansetron, haloperidol, levomepromazine.
+> - **Visceral/serosal:** cyclizine, levomepromazine ± Buscopan.
+> - **↑ICP:** cyclizine, dexamethasone ± radiotherapy if secondary to a lesion.
+> - **Vestibular:** cyclizine, metoclopramide, prochlorperazine, atypical antipsychotics (olanzapine).
+> - **Cortical (e.g. anticipatory):** lorazepam, cyclizine.
+
+*(Note: haloperidol and chlorpromazine/chlorperazine appear both in the hiccups and nausea sections in the source material — a reflection of overlapping antiemetic/antidopaminergic mechanisms rather than an error.)*
+
+
+<!-- ===== SOURCE: 10_03a_Haemonc_-_Primary_Immunodeficiencies.md ===== -->
+
+
+> [!tip] Highlighted conditions in this file come up more frequently in exams: Chronic granulomatous disease, DiGeorge syndrome, SCID, Wiskott-Aldrich syndrome, X-linked agammaglobulinaemia.
+
+## Neutrophil / phagocyte disorders
+
+### Chronic granulomatous disease
+
+- **D:** ↓NADPH oxidase → ↓ability of phagocytes to produce reactive oxygen species.
+- **S/Smx:** recurrent pneumonias and abscesses caused by catalase-positive bacteria (e.g. *Staph aureus*) and fungi (e.g. *Aspergillus*).
+- **Ix:** nitroblue tetrazolium (NBT) test or dihydrorhodamine (DHR) flow cytometry assay (*why:* the classic and current confirmatory tests respectively, both directly assessing phagocyte oxidative burst capacity — the specific functional defect described above — DHR flow cytometry is the more modern, more sensitive and specific test and is now generally preferred over NBT; *what:* failure of neutrophils to reduce the test reagent (NBT) or produce the fluorescent oxidation product (DHR) confirms defective NADPH oxidase function). Genetic testing (*why:* confirms the specific gene defect, relevant to prognosis, carrier testing in X-linked forms specifically, and genetic counselling; *what:* identifies the causative mutation, most commonly in the X-linked *CYBB* gene).
+
+### Chediak-Higashi syndrome
+
+- **D:** microtubule polymerisation defect → ↓phagocytosis. Autosomal recessive.
+
+> [!tip] Mnemonic — "PLAIN"
+> - **P**rogressive neurodegeneration
+> - **L**ymphohistiocytosis
+> - **A**lbinism (partial)
+> - **I**nfections (recurrent pyogenic)
+> - **N**europathy (peripheral)
+
+- **Ix:** neutrophils and platelets have giant granules; pancytopaenia; mild coagulation defects.
+
+### Leukocyte adhesion deficiency
+
+- **D:** defect of LFA-1 integrin (CD18) protein on neutrophils. Autosomal recessive.
+- **S/Smx:** recurrent skin and mucosal bacterial infection with no pus; impaired wound healing; delayed separation of the umbilical cord.
+- **Ix:** ↑neutrophils in blood, but absence of neutrophils at infection sites.
+
+## B-cell disorders
+
+### Common variable immunodeficiency (CVID)
+
+- **D:** defect in B-cell differentiation.
+- **S/Smx:** presents after age 2; increased risk of autoimmune disease, bronchiectasis, lymphoma, heart and lung infections.
+- **Ix:** ↓IgG, IgM, IgA.
+
+### X-linked (Bruton) agammaglobulinaemia
+
+- **D:** defect in BTK (tyrosine kinase gene) → no B cell maturation. X-linked recessive.
+- **S/Smx:** presents ~6 months of age (as maternal IgG wanes); recurrent bacterial and enteroviral infections.
+- **Ix:** absent B cells in peripheral blood; ↓Ig of all classes; absent or few lymph nodes and tonsils.
+
+> [!danger] Live vaccines are contraindicated in X-linked agammaglobulinaemia.
+
+### Selective IgA deficiency
+
+- **D:** maturation defect in B cells. The most common primary antibody deficiency.
+- Associated with coeliac disease (may cause a false-negative coeliac antibody screen).
+- **S/Smx:** most patients are asymptomatic; recurrent sinus and respiratory infections (increased susceptibility to giardiasis); anaphylactoid reaction in response to blood transfusions.
+- **Ix:** ↓IgA (but normal IgG, IgM).
+
+## T-cell disorders
+
+### DiGeorge syndrome
+
+- **D:** absent thymus and parathyroid glands due to a 22q11 microdeletion (results in failure to develop the 3rd and 4th pharyngeal pouches).
+
+> [!tip] Mnemonic — "CATCH-22"
+> - **C**ardiac defects
+> - **A**bnormal facies
+> - **T**hymic hypoplasia (giving rise to T-cell deficiency and recurrent viral and fungal infections)
+> - **C**left palate
+> - **H**ypocalcaemia, secondary to parathyroid aplasia → tetany
+
+- **Velocardiofacial syndrome is not a similar condition — it is the same condition.** Both are manifestations of the same **22q11.2 deletion**, described separately in the historical literature before the shared genetic basis was known, which is why current practice increasingly uses **22q11.2 deletion syndrome** as the umbrella term. Corrected by the pairs audit (2026-08-29): [[15_21a_Paeds_-_Microdeletion_Syndromes__Cri_du_Chat__DiGeorge__Williams_]] DiGeorge syndrome already stated it correctly as "aka velocardiofacial syndrome", and that entry owns the phenotype beyond the immune features (TBX1 mechanism, prognosis, the intellectual disability/autism/ADHD associations).
+- **Ix:** FISH testing or chromosomal microarray for the 22q11.2 deletion (*why:* the definitive diagnostic test, confirming the specific genetic deletion directly; *what:* confirms the deletion in the majority of clinically-suspected cases). Serum calcium and PTH (*why:* screens for the hypocalcaemia component of the mnemonic above, directly relevant given this can present acutely as neonatal tetany/seizures — often the presenting feature prompting the diagnostic work-up; *what:* low calcium with low or inappropriately normal PTH, reflecting parathyroid aplasia). Lymphocyte subset analysis (*why:* quantifies the degree of T-cell deficiency, given the clinical severity spans a spectrum from mild (partial DiGeorge) to severe/complete athymia, directly informing management intensity and live vaccine safety; *what:* low T-cell count/function correlating with the degree of thymic hypoplasia). Echocardiogram (*why:* screens for the cardiac defects in the mnemonic above, given these are common and clinically significant; *what:* identifies conotruncal cardiac abnormalities such as tetralogy of Fallot or interrupted aortic arch, which are classically associated with this deletion).
+
+### Job syndrome (Hyper-IgE syndrome)
+
+- **D:** STAT3 mutation → deficiency of Th17 cells → impaired recruitment of neutrophils to sites of infection.
+- **S/Smx:** cold abscesses; retained baby teeth; coarse facies; dermatological problems; ↑IgE; bone fractures from minor trauma.
+- **Ix:** serum IgE level (*why:* markedly elevated IgE is a hallmark finding directly reflecting the name of the condition and supports the diagnosis; *what:* very high IgE, often >2000 IU/mL). STAT3 genetic testing (*why:* confirms the specific molecular diagnosis; *what:* identifies the causative STAT3 mutation in autosomal dominant Job syndrome specifically — note some Hyper-IgE-syndrome-like presentations have other genetic causes, so genetic testing also helps distinguish these).
+
+### Chronic mucocutaneous candidiasis
+
+- **D:** T cell dysfunction → impaired cell-mediated immunity against Candida.
+- **S/Smx:** non-invasive *Candida albicans* infections of skin and mucous membranes.
+- **Ix:** clinical diagnosis supported by the characteristic pattern of persistent/recurrent non-invasive candidiasis; T-cell function testing and specific gene testing (e.g. AIRE gene in the associated autoimmune polyendocrinopathy syndrome, or STAT1 gain-of-function mutations in another recognised cause) where an underlying cause is being actively sought, given this presentation can be a marker of an underlying genetic immunodeficiency rather than a standalone diagnosis.
+
+## B- and T-cell disorders
+
+### Severe combined immunodeficiency (SCID)
+
+*(fuller entry: [[15_15b_Paeds_-_Primary_Immunodeficiencies_and_SCID]] Severe combined immunodeficiency (SCID))*
+
+- Several types, including X-linked recessive defective IL-2 receptor, and autosomal recessive adenosine deaminase deficiency.
+- **S/Smx:** failure to thrive; chronic diarrhoea; thrush; recurrent viral, bacterial, fungal and protozoal infections.
+- **Ix:** lymphocyte subset analysis (*why:* directly demonstrates the profound T-cell (and often B-cell/NK-cell, depending on subtype) deficiency that defines this condition — genuinely the key diagnostic test; *what:* markedly low T-cell counts, with B-cell and NK-cell counts varying by the specific genetic subtype). Newborn screening via T-cell receptor excision circles (TRECs) (*why:* SCID is now included in newborn screening programs in many settings specifically because early diagnosis before infection onset dramatically improves outcomes — genuinely one of the clearest examples of a screening test changing prognosis in this file; *what:* low/absent TRECs reflect failure of normal thymic T-cell output, prompting urgent further work-up in an otherwise asymptomatic newborn). Genetic testing (*why:* confirms the specific molecular subtype, directly relevant to prognosis and treatment planning, e.g. gene therapy is now an option for some specific genetic subtypes such as ADA deficiency; *what:* identifies the causative mutation).
+- **Mx:** live vaccines contraindicated; antimicrobial prophylaxis and **IVIG (intravenous immunoglobulin** — here genuinely *replacement* therapy, a third use distinct from both immunomodulation and post-exposure protection: the patient cannot make their own antibody, so it is supplied**)**; bone marrow transplant — genuinely urgent given untreated SCID is fatal in infancy, making this one of the few paediatric immunology diagnoses where treatment delay is directly life-threatening.
+
+### Ataxic telangiectasia
+
+- **D:** defect in the ATM gene → defect in DNA repair enzymes → accumulation of mutations. Autosomal recessive.
+- **S/Smx:** cerebellar defects → ataxia; spider angiomas (telangiectasia); IgA deficiency; increased sensitivity to radiation.
+
+### Wiskott-Aldrich syndrome
+
+- **D:** defect in the WASP gene → leukocytes and platelets cannot recognise the actin skeleton → defective antigen presentation. X-linked recessive.
+
+> [!tip] Mnemonic — "WA-TER"
+> - **T**hrombocytopaenia
+> - **E**czema
+> - **R**ecurrent pyogenic infections
+> - ↑risk of autoimmune disease and malignancy
+
+- **Ix:** ↓IgM levels.
+
+### Hyper-IgM syndromes
+
+- **D:** CD40 gene mutation → IgM cannot switch to other classes.
+- **S/Smx:** severe pyogenic infections early in life; opportunistic infection with *Pneumocystis*, *Cryptosporidium*, CMV.
+- **Ix:** normal or ↑IgM, ↓↓IgG, IgA, or IgE.
+
+## Haematopoiesis — lineage overview
+
+> [!info] Multipotent haematopoietic stem cell (haemocytoblast) divides into:
+> - **Myeloid stem cell** → erythropoiesis (erythroblast → reticulocyte → erythrocyte); thrombopoiesis (megakaryocyte → platelets); granulocytopoiesis (myeloblast → neutrophil, eosinophil, basophil); monocytopoiesis (monocyte → macrophage).
+> - **Lymphoid stem cell** → lymphopoiesis (B cell → plasma cell; T cell → T-helper cell, T-cytotoxic cell; NK cell).
+
+
+<!-- ===== SOURCE: 10_03b_Haemonc_-_Acute_Intermittent_Porphyria.md ===== -->
+
+
+## Acute intermittent porphyria
+
+- **D:** partial deficiency of porphobilinogen deaminase → accumulation of porphyrin precursors and porphyrins → defective haem synthesis. Autosomal dominant.
+- **R:** family history, F>M (5:1).
+- **Exacerbating factors:**
+  - Drugs (e.g. phenytoin, progestins, metoclopramide, sulfonamide antibiotics).
+  - ↓caloric intake.
+  - Smoking (more frequent attacks).
+- **S/Smx:**
+  - Classically presents in patients aged 20–40.
+  - Abdominal pain, vomiting.
+  - Neurological: motor neuropathy.
+  - Psychiatric: depression.
+  - Hypertension and tachycardia.
+- **Ix:**
+  - ↑urinary porphobilinogen and total porphyrins (especially during attacks) — urine will turn deep red on standing.
+  - ↑serum porphobilinogen (PBG) and delta-aminolaevulinic acid (dALA).
+  - Assay of red cells for porphobilinogen deaminase.
+
+> [!warning] Avoid triggers — many drugs listed above are commonly prescribed; check any new medication against a porphyria-safe drug list before administering in a known/suspected case.
+
+- **Mx:**
+  - Avoid triggers.
+  - **During acute attacks:**
+    - IV haemin/haem arginate — specialist treatment.
+    - IV glucose (if IV haemin not available) — ≥300g dextrose (10% glucose).
+  - Other options: givosiran (↓PBG and ↓dALA), liver transplant.
 
 
 <!-- ===== SOURCE: NEW_Drugs_14_Immunomodulators_and_Antineoplastics.md ===== -->
@@ -3772,35 +3804,3 @@
 
 > [!info] **Block 5.** `M-2` Coombs/DAT was held — the evidence changed under `ac620de`, which was
 > itself reverted on 2026-09-01. The hold stands and `M-2` needs re-deciding against the current tree. `M-3` G-CSF arrives here because AXIS-1 de-duplicated `NEW_Drugs_07` to this file.
-
-<!-- ===== SOURCE: NEW_Investigations_Endocrine.md ===== -->
-*Moved here from `Endocrine and metabolics_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.7 G6PD Assay (Glucose-6-Phosphate Dehydrogenase Screen)
-`CF-PAIR` **A G6PD entry already exists in this file. Both kept in full, NOT reconciled.**
-
-**D:** Quantitative enzyme activity assay (or flow-cytometric assay) on red cells.
-
-**Ind:** Unexplained **haemolytic anaemia**, especially episodic and triggered; **neonatal jaundice**, particularly prolonged, severe, or in an at-risk ethnic background; **before prescribing an oxidant drug** — most importantly **primaquine, tafenoquine, dapsone, rasburicase, nitrofurantoin, sulfonamides, methylene blue**; family history.
-
-**Role:** Definitive for the enzyme deficiency, but **the timing of the sample determines whether the answer is true**.
-
-> [!danger] **The false-negative trap, and it is the whole entry.** Sources agree that **the assay can be falsely normal during or immediately after acute haemolysis**, because the G6PD-deficient older red cells have already been destroyed and the surviving population is enriched with **reticulocytes, which have several-fold higher G6PD activity**. **Testing at the time of the haemolytic crisis is therefore the worst time to test.**
-> **The rule: if the assay is normal but the clinical picture fits, repeat it 2–3 months after the acute event**, once the red cell mass has been repopulated with cells of all ages. Sources are consistent on this interval.
-> The same reasoning means **a normal result after recent transfusion is uninterpretable** — you are measuring the donor's cells.
-
-> [!warning] **X-linked inheritance matters for interpretation.** Males are hemizygous and results are usually clear-cut. **Heterozygous females have two red cell populations and can have intermediate or normal-looking enzyme activity while still being clinically susceptible** — sources note the flow-cytometric assay is more reliable than the quantitative assay in women and in anaemic patients for exactly this reason.
-
-**Normal/abnormal:** **Numeric activity thresholds are not stated** — assay-dependent. Interpret with the reticulocyte count and the timing of the episode. A deficient result means **lifelong avoidance advice** — oxidant drugs, **fava beans**, naphthalene (mothballs) — and family testing.
-
-**Alt:** Blood film (**bite cells, blister cells, Heinz bodies** on supravital stain); haemolysis screen (see `NEW_Investigations_Haematology.md`); genetic testing.
-
-<!-- ===== SOURCE: NEW_Investigations_Gastroenterology.md ===== -->
-*Moved here from `GI_merged.md` on 2026-09-01. Verbatim and unrenumbered.*
-
-## 0.34 G-CSF (Granulocyte Colony-Stimulating Factor)
-`CF-PAIR` **`M-3` named `NEW_Drugs_07` as the destination. Under AXIS-1 that source block was de-duplicated to THIS file, so this is where it lands — the row resolves to a file rather than to a standalone drug file.**
-
-> [!warning] **Mis-filed, and mis-categorised as an investigation** — G-CSF is a **drug**, not a test. Recorded here for traceability; the drug-class treatment belongs in the drug files (`Colony stimulating factors`, AMH section 7, `NEW_Drugs_07_Blood_and_Electrolytes.md`).
-
-**Brief note:** granulocyte colony-stimulating factor (filgrastim and analogues) stimulates neutrophil production and is used for chemotherapy-induced neutropenia prophylaxis and treatment, and for stem cell mobilisation. **Common adverse effect: bone pain.** A **serum G-CSF *level*** is not a routine clinical test. **UNRESOLVED — needs review:** confirm whether the build list intended a G-CSF assay or the drug class, and delete from the investigations axis if the latter.
