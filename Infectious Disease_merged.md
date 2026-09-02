@@ -1359,7 +1359,7 @@ Organism-specific therapy with infectious diseases involvement, and prolonged th
 
 ## Pubic lice (Pediculosis pubis)
 
-> [!note] Gap-filled from CSV ("Pubic lice," Low yield) — genuinely absent from the source notes.
+> [!note] Gap-filled from CSV ("Pubic lice," Low yield) — **a second account is in this file at `K2 §0.6 Infestations`, which carries pubic lice with the point that it is a marker of sexual contact and warrants a full STI screen.** Both kept, neither reconciled. (This note previously said the topic was genuinely absent from the source notes; that was written against the pre-merge corpus.)
 
 - **A/P:** infestation with *Pthirus pubis* (the pubic or "crab" louse), transmitted via close bodily/sexual contact, and occasionally via shared bedding/clothing.
 - **S/Smx:** pruritus in the pubic/perianal region (and occasionally other coarse body hair — eyelashes, eyebrows, axillary hair), worse at night; visible lice or nits (eggs) attached to hair shafts on close inspection; secondary excoriation from scratching.

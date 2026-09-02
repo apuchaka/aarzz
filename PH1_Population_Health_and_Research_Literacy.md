@@ -269,7 +269,7 @@ aliases:
 ## Interpreting Treatment Effects — Absolute vs Relative Risk, and NNT
 `CF-PAIR §0.4` **Part 0 §0.4 Measures of Effect covers the same ground. Both kept in full.**
 
-> [!note] Gap-filled from CSV ("Absolute vs relative risk reduction, NNT," High yield, Public Health/Epidemiology category). Genuinely absent: corpus-wide search returned **zero hits** for NNT, number needed to treat, absolute risk reduction, or confidence interval — despite the project quoting relative risk figures in several entries (HRT's breast cancer risk, endometrial cancer RR) where the absolute/relative distinction is exactly what a patient will ask about. Verified against Australian Prescriber's *Evidence, risk and the patient* and the NHMRC levels of evidence framework, Aug 2026.
+> [!note] Gap-filled from CSV ("Absolute vs relative risk reduction, NNT," High yield, Public Health/Epidemiology category). **A second account is in this file at `PH1 §0.4 Measures of Effect`, which carries NNT, ARR, RRR and confidence intervals in full; the `CF-PAIR` marker naming it is four lines above this note.** (This note previously reported a corpus-wide zero-hit search for all four terms; that search was run against the pre-merge corpus.) The gap it was built for was real: the project quoting relative risk figures in several entries (HRT's breast cancer risk, endometrial cancer RR) where the absolute/relative distinction is exactly what a patient will ask about. Verified against Australian Prescriber's *Evidence, risk and the patient* and the NHMRC levels of evidence framework, Aug 2026.
 
 **The three numbers, using one worked example throughout.** Suppose an event occurs in **0.2%** of a control group and **0.1%** of a treated group:
 
@@ -395,7 +395,7 @@ The word *bias* here does not mean prejudice. It means **a systematic error in h
 
 ## Statistical Significance — p-values and Confidence Intervals
 
-> [!note] Gap-filled from CSV ("Interpretation of p-values," Public Health/Epidemiology category). Genuinely absent — corpus-wide search returned **zero hits** for *p-value*, *p value* or *statistical significance*; the only related content was the two-line "confidence intervals, briefly" note in the entry above, which stated the two intern-level uses of a CI without defining what either a CI or a p-value actually is. Verified against **Australian Prescriber**'s statistics-for-clinicians material and the NHMRC evidence framework, Aug 2026.
+> [!note] Gap-filled from CSV ("Interpretation of p-values," Public Health/Epidemiology category). **A second account is in this file at `PH1 §0.4 Measures of Effect`**, which defines the p-value, gives the "what it is not" list, states that confidence intervals are more informative, and carries the statistical-versus-clinical-significance danger box. **Both kept in full, neither reconciled.** (This note previously reported a corpus-wide zero-hit search for *p-value* and *statistical significance*; that search was run against the pre-merge corpus.) Verified against **Australian Prescriber**'s statistics-for-clinicians material and the NHMRC evidence framework, Aug 2026.
 
 **What a p-value actually is.** It is the probability of seeing a difference **at least as large as the one observed, if there were truly no difference** between the groups. Nothing more. The conventional threshold of **p < 0.05** is a social convention, not a law of nature — it means "this result would arise by chance less than 1 time in 20 if the treatment did nothing."
 
