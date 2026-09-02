@@ -1,1066 +1,5 @@
 
 
-<!-- ===== SOURCE: 09_01_Dermatology_-_Dermatological_Emergencies.md ===== -->
-
-
-## Anaphylaxis
-
-> [!note] Gap-filled — despite being referenced across 9 different files throughout this project (Insect bites, blood transfusion reactions, hereditary angioedema differential, anaesthetic emergencies, ABCDE assessment), anaphylaxis had never been built as its own dedicated entry. Given its close relationship to the urticaria/angioedema entry above, it's built here rather than elsewhere, with other files' brief mentions left as appropriate cross-references rather than duplicated content.
-
-> [!info] Verified against the current ASCIA (Australasian Society of Clinical Immunology and Allergy) Guidelines for Acute Management of Anaphylaxis (updated 2026) and the Australian Commission on Safety and Quality in Health Care's Acute Anaphylaxis Clinical Care Standard, Aug 2026 — ASCIA is genuinely the Australian- and New Zealand-specific peak body for this exact guideline, so this entry is built directly from the current Australian primary source rather than adapted from elsewhere.
-
-- **D:** a potentially life-threatening systemic allergic reaction, usually rapid in onset, involving typical skin features (urticarial rash, erythema/flushing, and/or angioedema — see Acute urticaria and angioedema below for the disease-level detail on these individual features, not repeated here) **plus** respiratory and/or cardiovascular and/or persistent severe gastrointestinal involvement — or, separately, any acute-onset hypotension, bronchospasm, or upper airway obstruction where anaphylaxis is considered possible, **even if typical skin features are absent** — a genuinely important point, since waiting for a rash to appear before considering anaphylaxis can delay recognition in a presentation without skin involvement.
-- **A/P:** usually IgE-mediated mast cell/basophil degranulation triggered by an allergen (food, drug, insect venom, latex among others), though non-IgE-mediated mechanisms exist too; the clinical picture reflects the downstream effects of mediator release (histamine and others) — vasodilation and increased vascular permeability (hypotension, angioedema), bronchospasm, and increased mucus secretion.
-- **S/Smx:** rapid onset (typically minutes, though can be delayed depending on the trigger and route of exposure) of urticaria/flushing/angioedema **plus** one or more of: respiratory (stridor, wheeze, dyspnoea, throat/chest tightness), cardiovascular (hypotension, dizziness, collapse — **persistent dizziness or collapse reflects hypotension and is a genuine red flag**, given a BP drop typically occurs relatively late in the process), or persistent severe GI symptoms (vomiting, abdominal pain). **In infants specifically**, additional/atypical signs include drooling, irritability/clinginess, persistent crying, somnolence, hypotonia, and mottled skin — a genuinely different presentation pattern worth knowing given infants can't verbally report symptoms like throat tightness. **In children, persistent tachycardia is typically the first sign of cardiovascular compromise**, with hypotension a later finding — though tachycardia alone is non-specific (also caused by crying, fever, pain, or as a side effect of adrenaline itself), so it should prompt closer monitoring rather than being diagnostic on its own.
-- **Ix:** anaphylaxis is a **clinical diagnosis made and treated immediately, without waiting for any test result** — this is the single most important practical point, given delaying adrenaline to "confirm" the diagnosis is a recognised, avoidable cause of poor outcomes. Serum tryptase (if taken, ideally within 1–2 hours of symptom onset, with a further sample later for comparison) can retrospectively support the diagnosis and is sometimes used where the diagnosis is unclear in retrospect, but has no role in the acute treatment decision. Skin prick testing/specific IgE testing are relevant later, as part of allergy work-up to identify the specific trigger, not during the acute episode.
-- **Mx:**
-  - **Immediate/acute:** **IM adrenaline into the mid-anterolateral thigh, given immediately on diagnosis or strong suspicion, before any other treatment** — this is the single highest-yield practical point in the entire entry, given adrenaline is first-line and should never be delayed for antihistamines, corticosteroids, or nebulised bronchodilators, none of which treat the underlying anaphylactic process. Subcutaneous or inhaled adrenaline routes are **not** recommended, given they're less effective than IM. **Lay flat (or in the position of comfort if breathing difficulty predominates) rather than upright** — an upright posture is a specifically recognised risk factor for fatal reactions, given it can precipitate or worsen hypotension-related collapse (the same principle as avoiding sudden standing in any hypotensive patient, but specifically flagged as important in anaphylaxis given how quickly it can be fatal). High-flow oxygen; IV fluid bolus for hypotension; call for help early given the potential for rapid deterioration — see the ABCDE Assessment entry in [[Examination]] for the general systematic approach this fits into, not repeated here.
-> [!danger] **IM adrenaline dose (ASCIA) — 1:1000, outer mid-thigh, 0.01 mg/kg up to a maximum of 0.5 mg.**
->
-> | Dose | Applies to |
-> |---|---|
-> | **0.1–0.15 mg** (0.1–0.15 mL) | **<7.5 kg / <6 months** |
-> | **0.15 mg** (0.15 mL) | 7.5–20 kg **and** ≤5 years |
-> | **0.3 mg** (0.3 mL) | >20 kg **and** ≥5 years |
-> | **0.5 mg** (0.5 mL) | >50 kg **and** ≥12 years — **the adult dose** |
->
-> **Note these are weight *and* age criteria together, not age bands.** Older teaching used a simple three-tier age split (6 months–6 years / 6–12 years / >12 years); current ASCIA guidance is weight-led with an age qualifier, and a small 13-year-old or a large 4-year-old is dosed on the combination rather than on birthday alone.
->
-> **The <7.5 kg row was added during the dose-table unit-and-progression sweep (2026-08-29): the table stopped at 7.5 kg, so a reader following the pointer here for an infant reached a table that did not cover them.** The figure is the one the corpus already held in [[01_Cardiovascular]] Shock (the **Anaphylactic shock** sub-entry); note it sits above what this box's own **0.01 mg/kg** rule would give for a <7.5 kg infant (<75 mcg), because a minimum practical volume is drawn rather than a strictly weight-calculated one — **the exact Australian figure for this band is unverified against ASCIA** (see `PENDING_GUIDELINE_CHECKS.md` **B50**).
->
-> **This box was added during the L3 seam audit (2026-08-29) because the number was not here.** [[15_01b_Paeds_-_Anaphylaxis]] pointed to *this* entry "for the exact current thresholds already verified there" and this entry carried no dose at all — a circular cross-reference, for the most time-critical drug dose in the corpus, between two entries that were both individually ASCIA-verified. See `PENDING_GUIDELINE_CHECKS.md` **B43**.
-
-> [!danger] **DO NOT "RECONCILE" THE `<7.5 kg` ROW IN THE TABLE ABOVE AGAINST THE `0.01 mg/kg` RULE IN ITS HEADING. THEY DISAGREE ON PURPOSE AND THE ROW IS CORRECT.**
->
-> The heading of the box above states `0.01 mg/kg`. For an infant under 7.5 kg that formula
-> gives **under 75 microgram**. The first row of the table says **100–150 microgram**. **The
-> row is higher than the formula deliberately:** a minimum practical volume is drawn rather
-> than a strictly weight-calculated one, because 0.05 mL cannot be drawn or given reliably
-> from a 1 mL ampoule under time pressure.
->
-> **It is the one row a consistency check will flag, and the one row that must not be
-> removed.** It is this corpus's only adrenaline dosing for an infant. It was added on
-> 2026-08-29 **because it was missing**: the table stopped at 7.5 kg, so a reader following a
-> pointer here for an infant reached a table that did not cover them. Deleting it as an
-> internal inconsistency restores that defect exactly — and **nothing downstream detects it**,
-> because the table would still look complete and self-consistent, simply with no row for the
-> smallest patients.
->
-> **If this table is ever merged with another copy, this row is the thing to check survived.**
-> The copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and in `NEW_Drugs_01 §0.5` (Emergency) do
-> **not** carry it — both begin at 7.5 kg — so a merge that takes either as canonical loses it
-> silently. See `_meta/flags/_RULE5_FIGURES.md`, ranked first of the five items most at risk.
->
-> **What is unverified here is the figure, not the principle.** The 0.1–0.15 mg value came
-> from `[[01_Cardiovascular]]` Shock (the Anaphylactic shock sub-entry) and has **not** been
-> checked against ASCIA — `PENDING_GUIDELINE_CHECKS.md` **B50**.
-> **The band-set defect this row fixed is tracked as a class at B67**, with a second instance
-> (the EZ-IO needle bands, `B66`) found on 2026-09-01.
-> `UNVERIFIED — the <7.5 kg / <6 months IM adrenaline dose, per the ASCIA Acute Management of Anaphylaxis dose table.`
-> **That is a reason to verify it. It is never a reason to delete it.**
->
-> **A SECOND copy of this row exists**, at `[[01_Cardiovascular]] §0.20.3 Distributive shock` — filed under *shock*, not under *anaphylaxis*, which is why the rule-5 inventory missed it until 2026-09-01. It is marked there. **Two copies, both needed, neither to be deleted.**
-
-  - **Definitive:** repeat IM adrenaline every 5 minutes if inadequate response — most episodes respond to one or two doses; **refractory anaphylaxis** (inadequate response to repeated IM doses) may require a peripheral IV adrenaline infusion under specialist/critical care guidance, a distinct escalation pathway from standard IM dosing. Antihistamines and corticosteroids may be given as adjuncts once adrenaline has been given, but **never as a substitute for, or before, adrenaline** — a genuinely common and important error to avoid.
-  - **Chronic/long-term:** clinical observation for **at least 4 hours after the last adrenaline dose**, given adrenaline's short duration of action means symptoms can recur as it wears off (biphasic reactions are a recognised phenomenon); prescribe an adrenaline injector at discharge for patients at risk of re-exposure (weight-based dosing: 150mcg for 7.5–20kg, 300mcg for ≥20kg, 300mcg or 500mcg from around 12 years old/>50kg — genuinely specific, current ASCIA-recommended thresholds); provide a written ASCIA Action Plan for Anaphylaxis with device-specific instructions, given patients/carers need to be trained on the specific device prescribed; allergen identification and avoidance advice; referral to an allergy/immunology specialist for confirmatory testing and ongoing management, particularly for children or where the trigger isn't already clearly known.
-
-> [!note] See [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific overnight-observation criteria (severe/refractory reaction, history of biphasic reaction, concomitant illness, late-evening presentation) that refine the 4-hour minimum above for children specifically, not repeated here.
-
-## Acute urticaria and angioedema
-
-> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
-> **`Infectious Disease_merged K4 §0.6 Urticaria, Angioedema and Mast Cell Disorders` covers the same
-> topic** — and **`Derm_merged.md:2242`, in this file, routes readers AWAY from here**, saying
-> *"Urticaria, anaphylaxis and drug reaction labelling → [[K4]] 0.2–0.3"*.
-> **So this file points at ID for content this file also holds, and ID holds it without pointing back.**
-> `Heme Onc_merged 10_09b ## Hereditary angioedema` is a third treatment, and
-> `Emergency F0-1 §0.9` and `NEW_Drugs_01` hold the anaphylaxis half.
-> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
-
-- **D:** urticaria (hives) is a skin condition characterised by erythematous, blanching, oedematous, non-painful, pruritic lesions that typically resolve within 24 hours and leave no residual markings. Angio-oedema is a sudden, pronounced swelling of the subdermis or mucous membranes.
-- **A/P:** usually allergic, IgE-mediated or mast cell degranulation. Most common allergens are drugs and foods.
-- **R:** positive family history, exposure to food/drug trigger, recent viral infection, recent insect bite/sting.
-- **Ix:** bloods (FBC, ESR, CRP, C4 level), others as indicated e.g. skin prick test.
-- **Mx:**
-  - If anaphylaxis is present (see Anaphylaxis above for the full definition and management, not repeated here): treat as anaphylaxis immediately.
-  - Allergen identification and avoidance.
-  - Investigate for an underlying disorder.
-  - 2nd generation antihistamine.
-  - Refer to dermatologist if necessary; advise on reducing scratching.
-
-> [!info] Erythroderma is defined as ≥95% of skin surface involved (a common endpoint of several severe dermatoses, not a diagnosis itself).
-
-## Cutaneous Drug Eruptions (Overview and Spectrum)
-
-> [!note] Gap-filled — drug eruptions were completely absent from this project despite being frequently mentioned as a differential elsewhere (e.g. within [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Contact Dermatitis (Irritant and Allergic) and the Pruritus differential in [[09_08_Dermatology_-_Miscellaneous]]), and despite SJS/TEN below being one of the most severe forms on this same spectrum. This entry gives the overview and the milder end of the spectrum; SJS/TEN below covers the most severe end in full detail.
-
-**The core principle: drug eruptions span a genuine spectrum from benign and self-limiting to life-threatening**, and recognising which end of the spectrum a given presentation sits on is the most important clinical skill here — not simply recognising "this is a drug rash."
-
-**A careful, complete medication history is the essential first diagnostic step** — prescription drugs, over-the-counter medications, supplements, recent contrast administration, and any recent dose changes; **timing from drug initiation to rash onset is genuinely high-yield and differs meaningfully by reaction type**, making it one of the most useful discriminating features:
-- **Urticaria/anaphylaxis:** minutes to hours after exposure (see Anaphylaxis and Acute urticaria and angioedema above, not repeated here).
-- **Morbilliform (maculopapular) exanthem:** typically 7–14 days after starting a new drug — genuinely the most common drug eruption, accounting for up to ~95% of cutaneous reactions with an identified causative drug.
-- **Fixed drug eruption (FDE):** recurs at the **same anatomical site** with each re-exposure to the causative drug — a genuinely distinctive and diagnostic feature; typically appears within 48 hours of re-exposure. Presents as well-demarcated erythematous-to-violaceous patches, sometimes with central blistering, healing with residual post-inflammatory hyperpigmentation. Common culprits: sulfonamides (including trimethoprim-sulfamethoxazole), NSAIDs, tetracyclines, and other antibiotics. A rare, severe variant — **generalised bullous fixed drug eruption (GBFDE)** — covers a large body surface area and can be life-threatening, clinically resembling SJS/TEN below.
-- **DRESS syndrome (drug reaction with eosinophilia and systemic symptoms) and SJS/TEN:** both genuinely delayed, typically **2–8 weeks** after drug exposure — a much longer latency than the morbilliform exanthem above, and worth knowing specifically because a patient presenting with a severe reaction weeks after starting a medication may not spontaneously connect the two given how much time has passed.
-
-**Morbilliform (maculopapular) drug exanthem:**
-- **S/Smx:** widespread erythematous macules and papules, typically starting on the trunk and spreading, often pruritic; may be accompanied by mild fever.
-- **Mx:** supportive — the causative drug should be identified and stopped where possible; oral antihistamines and mild topical corticosteroids/emollients for symptomatic relief; the eruption is generally self-limiting once the drug is stopped. **A genuinely important safety principle: all patients with a morbilliform eruption should be actively monitored for mucous membrane involvement, blistering, or skin sloughing** — the presence of any of these features is what distinguishes a benign morbilliform exanthem from early SJS/TEN or DRESS, and should prompt urgent escalation rather than continued reassurance.
-
-**DRESS syndrome (drug reaction with eosinophilia and systemic symptoms):**
-- **D:** a severe, delayed hypersensitivity drug reaction with a genuinely distinct clinical course from a simple exanthem — **fever, facial oedema, a morbilliform/maculopapular rash with scaling, and systemic organ involvement**, occurring 2–8 weeks after starting the causative drug.
-- **S/Smx:** the clinical course classically follows a sequence — fever first, then progressive organ involvement (most commonly hepatitis, but also interstitial nephritis, pancreatitis, myocarditis, or pneumonitis depending on the case), followed by the characteristic combination of prominent eosinophilia, lymphadenopathy, atypical circulating leukocytes, and the cutaneous eruption itself. Facial oedema is a genuinely distinctive early clue. **The "oblique earlobe crease sign" has been specifically described as a discriminating feature of DRESS versus other morbilliform eruptions** — a curiosity worth knowing given how few reliable bedside signs exist to separate the causes of a morbilliform rash. Common culprits: anticonvulsants (particularly aromatic ones), allopurinol, sulfonamides, and antibiotics.
-- **Mx:** identify and stop the causative drug immediately; admission for supportive care and monitoring of the affected organ systems (given the organ involvement, rather than the skin findings alone, drives most of the morbidity/mortality); systemic corticosteroids are commonly used for significant organ involvement, though this is a specialist-guided decision given the evidence base is less robust than for some other severe drug reactions.
-- **P:** a genuinely serious condition — DRESS carries meaningful mortality (largely driven by the organ involvement, particularly fulminant hepatitis), and recovery can be prolonged with a risk of relapse even after the causative drug is stopped, given the reaction can continue evolving for some time.
-
-**Other drug eruption patterns worth knowing exist** (not detailed further here, given lower individual yield): acute generalised exanthematous pustulosis (AGEP — widespread sterile pustules, typically rapid onset within days of the causative drug, most commonly antibiotics); photosensitivity reactions and drug-induced pigmentary changes; drug-induced lichenoid and vasculitic eruptions.
-
-## Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN)
-
-- **D:** SJS is a severe skin detachment disorder with mucocutaneous complications.
-
-> [!info] Classification by total body surface area (TBSA) involvement
-> - SJS: <10% TBSA
-> - SJS/TEN overlap: 10–30% TBSA
-> - TEN: >30% TBSA
-
-- **R:** active cancer, drugs (anticonvulsants, antibiotics, etc), recent infection, SLE, HIV, radiotherapy, HLA and genetic predisposition, smallpox vaccination.
-- **A/P:** detachment of the epidermis from the papillary dermis at the epidermal-dermal junction, manifesting as a papulomacular rash and bullae as a result of keratinocyte apoptosis.
-
-> [!info] Gap-filled — "HLA and genetic predisposition" was stated without any specifics, despite this being a genuinely testable and clinically actionable point. **The immunological mechanism**: SJS/TEN is a **type IV (delayed) hypersensitivity reaction** — the causative drug (or its metabolite) binds to a specific **HLA (human leukocyte antigen)** class I molecule on antigen-presenting cells, and this drug-HLA complex is recognised by cytotoxic CD8+ T-cells as foreign, triggering a cytotoxic immune response against keratinocytes (via Fas-FasL interaction and granulysin release) — this is the actual process underlying the "keratinocyte apoptosis" already noted above, not a separate mechanism.
-> **A specific, genuinely important drug-HLA pairing: allopurinol and HLA-B*58:01.** Allopurinol is one of the most frequently implicated drugs in SJS/TEN overall (in some case series, the single most commonly identified causative drug), and this risk is strongly concentrated in patients carrying HLA-B*58:01 — an allele with meaningfully higher frequency in some Asian populations (particularly Han Chinese and Thai) than in the general Australian population, though it isn't absent in other backgrounds. This is genuinely relevant given allopurinol's role as first-line urate-lowering therapy for gout already established elsewhere in this project (see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout, not repeated here) — there is genuine, current Australian clinical discussion (RACGP) about the case for limited/targeted HLA-B*58:01 screening before starting allopurinol in patients from higher-risk ethnic backgrounds, rather than universal screening for every patient starting the drug — check current local guidance given this remains an evolving area of practice.
-
-- **S/Smx:**
-  - Rash — maculopapular (widespread) + target lesions; may develop into vesicles or bullae.
-  - Nikolsky's sign — blisters and erosions appear when skin is rubbed gently.
-  - Mucosal involvement.
-  - Systemic symptoms: fever, arthralgia.
-- **Ix:** skin biopsy is key to diagnosis; blood cultures to rule out toxic shock and scalded skin syndromes; FBC, blood glucose, U&Es (incl Mg, PO4, bicarb), ESR, CRP, LFT; ABG; CXR; coagulation studies (rule out DIC); skin swab for secondary infection.
-- **Mx:** admit ± burns unit/ICU. Find and remove the causative agent. Supportive care + careful wound care (treat as a 2nd degree burn). Fluid management, pain management.
-- **P:** worse if >50 years old, high TBSA, not managed in a burns centre, sepsis + antibiotic use, pulmonary issues. Higher mortality in children also.
-
-## Eczema herpeticum
-
-> [!note] See [[08_05-06_Infectious_Disease_-_Viral_Infections]] Herpes simplex virus (HSV) for the general oral/genital HSV entry, not repeated here — this is a clinically distinct presentation (disseminated HSV superimposed on pre-existing eczema, a genuine dermatological emergency), not a variant of the general entry.
-
-- **D:** disseminated HSV-1 or HSV-2 infection characterised by fever and clusters of itchy blisters or punched-out erosions.
-- **A/P:** HSV-1/2 infection superimposed on a pre-existing skin condition, most commonly in infants and children with atopic dermatitis (due to impaired skin immunity).
-- **S/Smx:**
-  - Clusters of itchy and painful blisters, most commonly on face/neck.
-  - New patches form and spread over 7–10 days, rarely widely disseminated.
-  - Associated with fever, swollen lymph nodes, malaise.
-  - Blisters are monomorphic ± filled with clear yellow fluid or thick purulent material ± blood stained.
-  - Blisters may weep or bleed, then crust and form sores; may leave long-term scars.
-- **Ix:** swab — serology, PCR or MC&S; ± skin biopsy.
-- **Mx:** aciclovir PO 400–800mg 5×/day for 10–14 days or until lesions heal. If patient is severely unwell, IV aciclovir. Secondary bacterial infection — antibiotics. Topical steroids are not recommended. Refer to ophthalmologist if ocular involvement.
-
-## Staph scalded skin syndrome (SSSS)
-
-- **D:** severe, superficial blistering skin disorder characterised by detachment of the epidermis due to exotoxin release from *Staph aureus*.
-- **R:** <5 years old (peak 2–3 years), reduced immunity.
-- **A/P:** toxigenic *S. aureus* produces exfoliative toxins A and B which bind to desmosomes in the epidermis → desmoglein-1 is broken down → epidermis detaches → blistering.
-
-> [!tip] Desmoglein-1 is NOT present in mucosa, so mucosa is spared in SSSS — this helps distinguish it from SJS/TEN and pemphigus, both of which do involve mucosa.
-
-- **S/Smx:**
-  - Usually starts with non-specific symptoms in children — fever, generally unwell.
-  - Red rash with wrinkled, tissue- or paper-like consistency.
-  - Formation of large fluid-filled blisters (can be cloudy or contain pus).
-  - Blisters rupture easily → skin peels off in large sheets → "burned" appearance.
-  - Nikolsky's sign positive.
-- **Ix:** clinical diagnosis. Skin and wound swabs (MC&S). Blood cultures if sepsis. Skin biopsy if concerned about other diagnoses.
-- **Mx:** admit. IV antibiotics e.g. flucloxacillin, ceftriaxone. Supportive: IV fluids, pain relief, skin care (gentle washing with soap substitute, apply emollients, burn dressings if needed).
-- **Complications:** scarring, hypothermia, hypovolaemia/electrolyte abnormalities, secondary infections (sepsis, cellulitis, pneumonia), renal failure.
-- **P:** if treated promptly, should resolve within 2 weeks.
-
-## Necrotising fasciitis
-
-> [!note] Full entry consolidated into [[08_09_Infectious_Disease_-_Miscellaneous]] Necrotising fasciitis, not duplicated here — that entry now incorporates the classification, red-flag features, finger test, and Ix/Mx detail from both this file's original content and the Infectious Disease file's, merged into a single authoritative version. Cross-referenced here as this is also a dermatological emergency in its own right, but kept as a single-source entry to avoid drift between two independently-maintained copies of the same disease.
-
-## Cutaneous vasculitis
-
-- **D:** cutaneous manifestation of vasculitic disorders — inflammation of blood vessels within the skin, ranging from a purely skin-limited process to the cutaneous manifestation of a systemic vasculitis.
-- **A/P:** immune complex deposition in small dermal vessels (leukocytoclastic vasculitis is the most common histological pattern) → vessel wall inflammation and damage → extravasation of red cells into the skin (purpura) and, in more severe cases, tissue ischaemia/necrosis. Causes span infection (post-streptococcal, hepatitis B/C), drugs (a common and important cause — antibiotics, NSAIDs, allopurinol among others), malignancy (paraneoplastic), and primary systemic vasculitides (e.g. IgA vasculitis/Henoch-Schönlein purpura, ANCA-associated vasculitis, cryoglobulinaemia) — roughly half of cases remain idiopathic despite investigation.
-- **S/Smx:** purpura (± palpable — palpability is a classically taught distinguishing feature of vasculitic purpura from other causes of purpura like thrombocytopenia, since it reflects the inflammatory infiltrate within the vessel wall rather than purely extravasated blood), typically on dependent areas (lower limbs); may progress to vesicles, haemorrhagic bullae, or ulceration in more severe cases. **Systemic features and their pattern are the key differentiator between skin-limited and systemic disease** — fever, arthralgia, abdominal pain, haematuria/renal impairment, or peripheral neuropathy should prompt urgent work-up for an underlying systemic vasculitis rather than assuming a purely cutaneous process.
-- **Ix:** skin biopsy with direct immunofluorescence (*why:* confirms the vasculitic diagnosis histologically and can identify the specific immune complex deposited (e.g. IgA deposition supports IgA vasculitis/HSP), directly informing which systemic work-up to pursue; *what:* leukocytic infiltration and fibrinoid necrosis of vessel walls on histology, with the specific immunofluorescence pattern narrowing the differential). Urinalysis (*why:* screens for renal involvement — a critical test given renal vasculitis can be asymptomatic early and carries significant long-term morbidity if missed, particularly relevant given IgA vasculitis/HSP's known renal association; *what:* haematuria or proteinuria would indicate renal involvement requiring nephrology input). Bloods — FBC, U&Es, LFTs, ESR/CRP, ANCA, complement levels, hepatitis B/C serology, cryoglobulins (*why:* screens for the underlying systemic cause/association per the aetiology list above, directly guiding whether this is skin-limited or the cutaneous manifestation of a systemic disease needing its own specific management; *what:* positive ANCA supports ANCA-associated vasculitis, low complement supports immune-complex-mediated disease, positive cryoglobulins support cryoglobulinaemic vasculitis). Medication review (*why:* drug-induced vasculitis is common and the single most actionable step — stopping the causative drug can be curative; *what:* identifies a temporally-associated new medication as the likely trigger).
-- **Mx:**
-  - **Immediate/acute:** identify and stop any causative drug where relevant, given this is often the single most effective intervention; treat any identified underlying infection.
-  - **Definitive:** for skin-limited disease — supportive care (rest, leg elevation, compression), NSAIDs for symptomatic relief; for more severe or systemic disease — corticosteroids ± steroid-sparing immunosuppressants (DMARDs, e.g. azathioprine, methotrexate, or specific agents depending on the underlying systemic vasculitis identified).
-  - **Chronic/long-term:** treatment of the underlying systemic disease if identified (e.g. specific ANCA-associated vasculitis management), with the specific approach and duration depending on that diagnosis rather than the cutaneous manifestation alone; ongoing monitoring for renal involvement given its potential for delayed/insidious onset.
-
-
-<!-- ===== SOURCE: 09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers.md ===== -->
-
-
-## Melanoma
-
-- **D:** malignant tumour arising from melanocytes.
-- **R:** family history, personal history (melanoma, actinic damage, atypical naevi), white skin, red/blond hair colour, light eye colour, high freckle density, sun exposure, sunbed use, large congenital naevi, immunosuppression, xeroderma pigmentosum.
-
-> [!info] Clinical classification
-> - **Superficial spreading melanoma** — 70–80%, spreads superficially before extending to the dermis.
-> - **Nodular melanoma** — 9–15%, poorer prognosis.
-> - **Lentigo maligna melanoma** — 5–15%, slower growing.
-> - **Acral lentiginous melanoma** — 1–3%, seen in darker skin, on palms, soles and nail apparatus.
-> - Plus other rarer variants.
-
-- **S/Smx:**
-
-> [!tip] ABCDE rule for suspicious pigmented lesions
-> - **A**symmetry of lesion
-> - **B**order irregularity
-> - **C**olour variability
-> - **D**iameter >6mm
-> - **E**volution
-
-  - Any lesion that looks atypical compared to surrounding skin should raise suspicion — the "ugly duckling sign".
-  - Melanoma of the nail: persistent single-nail melanonychia striata; Hutchinson's sign (melanoma extending into the proximal/lateral nail fold).
-  - Bleeding of the lesion.
-- **Ix:** dermoscopy (*why:* the first-line non-invasive tool to assess a suspicious pigmented lesion, improving diagnostic accuracy over naked-eye assessment alone and helping decide whether biopsy is warranted; *what:* specific dermoscopic features (atypical pigment network, blue-white veil, irregular streaks) support melanoma over the benign mimickers in the DDx table below). Excision biopsy (*why:* the definitive diagnostic test — a full-thickness excisional biopsy with a narrow margin is preferred over a partial/shave biopsy wherever feasible, since accurate Breslow thickness measurement (the single most important prognostic factor, per below) requires the full depth of the lesion; a partial biopsy risks under-staging if the deepest part of the tumour is missed; *what:* confirms the diagnosis and, critically, measures Breslow thickness — directly determining the further excision margin and staging work-up below). Immunohistochemistry (*why:* used when the diagnosis is histologically ambiguous, to confirm melanocytic origin and support the malignant diagnosis; *what:* melanoma-specific markers e.g. S100, Melan-A, HMB-45 support the diagnosis). Sentinel lymph node biopsy (*why:* offered for intermediate-thickness melanoma (typically ≥0.8mm or with other high-risk features) to stage regional nodal involvement, which is prognostically important and can guide further Mx, though it is a staging procedure rather than proven to improve survival itself; *what:* a positive sentinel node indicates regional metastatic spread, upstaging the disease and prompting further staging/consideration of adjuvant therapy). Bloods, CT/PET scans (*why:* reserved for more advanced/high-risk disease to screen for distant metastatic spread, not needed for early, thin, node-negative melanoma; *what:* identifies visceral or distant nodal metastases if present).
-
-> [!info] Breslow thickness determines excision margin
-> - 0–1mm thick → 1cm margin
-> - 1–2mm thick → 1–2cm margin
-> - 2–4mm thick → 2–3cm margin
-> - >4mm thick → 3cm margin
-
-**Mx:**
-- **Immediate/definitive:** excision biopsy first, with margins determined by the initial diagnostic excision; once Breslow thickness is known, **wide local excision** to the definitive margin per the Breslow-thickness table above — this staged approach (diagnostic excision, then wider definitive excision once thickness is known) avoids over-excising a lesion that turns out to be thin/low-risk.
-- **Further staging/adjuvant Mx (thicker or node-positive disease):** sentinel lymph node biopsy as above for intermediate/high-risk lesions; **adjuvant systemic therapy** (immunotherapy — e.g. checkpoint inhibitors, or targeted therapy for BRAF-mutant disease) is increasingly used for stage III (node-positive) and high-risk stage II disease, reflecting a significant evolution in melanoma management in recent years beyond surgery alone — this is a genuinely active and rapidly-changing area of oncology.
-- **Metastatic disease:** systemic therapy (immunotherapy, targeted therapy per mutation status) — melanoma treatment has been transformed by these agents over the past decade, with outcomes for metastatic disease now substantially better than the historical prognosis Breslow-based tables below might suggest for equivalent disease extent.
-- **Chronic/long-term (all patients):** regular skin checks and surveillance for recurrence/new primary melanomas, sun protection education, self-examination training — melanoma patients carry an elevated lifetime risk of a second primary melanoma, making ongoing surveillance a standard part of long-term Mx, not just a formality.
-
-- **P:** Breslow thickness is the single most important factor in predicting prognosis.
-
-| Breslow thickness | 5-year survival |
-|---|---|
-| <0.75mm | 95–100% |
-| 0.76–1.50mm | 80–96% |
-| 1.51–4mm | 60–75% |
-| >4mm | ~50% |
-
-- **Risk factors for metastasis:** age >55, acral or head/neck tumour, Breslow's >4mm, vascular invasion, absence of regression, TERT promoter & BRAF mutations.
-
-> [!note] Marjolin's ulcer: cutaneous malignancy arising in the setting of previous tissue damage (e.g. old burn scar, chronic ulcer) — a general concept, not specific to melanoma.
-
-### Melanoma — differential diagnosis
-
-| Diagnosis | Distinguishing features |
-|---|---|
-| Benign/dysplastic melanocytic naevi | More uniform in shape and colour; less likely to itch or bleed |
-| Seborrhoeic keratosis | Waxy, "stuck on", often hyperkeratotic appearance; dermoscopy shows horned cysts, hairpin-shaped blood vessels |
-| Pigmented basal cell carcinoma | Pearly appearance, less pigmented, prominent telangiectatic vessels; dermoscopy shows leaf-like areas of pigmentation, arborising vessels |
-| Pigmented actinic keratosis | More hyperkeratosis and erythema, less pigmented, usually smaller, ± painful |
-| Dermatofibroma | Skin dimpling on palpation, scar-like appearance, typically localised to extremities |
-| Subungual haematoma | Reddish-black globules of pigment growing out distally as the nail grows; usually history of trauma; Hutchinson's sign negative |
-| Intracorneal haematoma | Can be pared away with a scalpel blade |
-| Tinea nigra (superficial infection) | On hands/feet; usually not itchy; more homogenous pigmentation; can be pared away with a scalpel blade |
-| Pyogenic granuloma (lobular haemangioma, usually in children) | Bright red, becomes fleshy pink over time |
-
-## Benign naevi
-
-- **D:** benign collection of melanocytes in the epidermis, dermis, or both.
-- **R:** genetic predisposition, fair skin, age — older children and young adults.
-
-### Subtypes
-
-- **Congenital melanocytic naevi** — >1cm diameter, ↑risk of malignant transformation.
-- **Junctional melanocytic naevi** — circular macules, may have heterogenous colour; most naevi of the palms, soles, and mucous membranes are this type.
-- **Compound naevi** — domed pigmented nodules ≤1cm diameter; arise from junctional naevi, usually uniform colour + smooth.
-- **Spitz naevi** — usually develop over a few months in children; pink or red, most common on the face and legs; may grow ≤1cm ± rapid growth.
-- **Atypical naevus syndrome** — ± autosomal dominant inheritance; some increased risk of melanoma, especially if a parent/sibling has had melanoma.
-
-## Seborrhoeic keratosis
-
-- **D:** benign skin tumour, usually multiple, typically over the torso and forehead.
-- **R:** >50 years old, light skin, family history, sun/UV exposure.
-- **A/P:** skin ageing.
-- **S/Smx:** appears "stuck on" with a wart-like texture. Subtypes: flat, raised, filiform (thread-like), and pedunculated. Variable colours; surface may have a greasy scale overlying it. Painless, but can be very itchy. Associated with blepharitis (eyelid inflammation).
-- **Ix:** dermoscopy — milia-like cysts and comedo-like openings.
-- **Mx:** conservative or shave excision.
-
-## Dermatofibroma
-
-- **D:** solitary dermal fibrous nodule.
-- **A/P:** may develop after minor trauma to the skin (e.g. shaving).
-- **S/Smx:** young adults, F>M; usually <1cm, on extremities; feels like a small rubbery button lying just under the surface of the skin; pink to brown in colour, forming a ring around the knot of tissue.
-- **Mx:** conservative or excision.
-
-## Pyoderma gangrenosum
-
-> [!warning] FLAG 2026-09-01 — cross-system association worth keeping visible
-> Strongly associated with inflammatory bowel disease. `GI_merged §0.16.3 Extra-intestinal features of
-> IBD (both CD and UC)` is the other end. **The skin lesion stays here**; the link is flagged so a
-> reader arriving from either side finds the other.
-
-- **D:** non-infectious, inflammatory disorder resulting in painful ulcers.
-- **A/P:** neutrophilic dermatosis — dense infiltration of neutrophils in the affected tissue.
-- **Associations:** IBD (10–15%), rheumatological disorders (RA, SLE), haematological disorders (myeloproliferative disease, lymphoma, myeloid leukaemias, MGUS), granulomatosis with polyangiitis ("Wegener's"), primary biliary cirrhosis; 50% idiopathic.
-- **S/Smx:**
-  - Location: typically the lower limb, often at the site of minor injury (pathergy).
-  - Usually starts suddenly as a small pustule, red bump, or blood-blister.
-  - Later, the skin breaks down resulting in an often-painful ulcer — edge is purple, violaceous and undermined; ulcer may be deep and necrotic.
-  - May be associated with fever and myalgia.
-- **Ix:** clinical diagnosis ± histology to rule out other causes of ulcer.
-- **Mx:** PO steroids. In difficult cases, ciclosporin and infliximab may have a role. Surgical options delayed until disease is relatively under control, to prevent further damage.
-
-
-<!-- ===== SOURCE: 09_03a_Dermatology_-_Non-Melanoma_Skin_Cancer.md ===== -->
-
-
-## Basal cell carcinoma (BCC)
-
-- **D:** neoplasm of the skin related to sun exposure. Also known as "rodent ulcer".
-- **R:** UV/sunlight, X-ray exposure, arsenic exposure, xeroderma pigmentosum, childhood cancer survivor, transplant patients.
-- **S/Smx:**
-  - Nodular: pearly white with telangiectasias, "rolled borders", small crusts and non-healing wounds; may later ulcerate with a central crater.
-  - Sun-exposed sites, especially head and neck.
-  - Other subtypes (e.g. superficial, pigmented) may have atypical presentations.
-- **Ix:** biopsy (*why:* the definitive diagnostic test, and histopathology (subtype, depth, margin involvement) directly determines which Mx option is appropriate below — exact histopathology matters more here than in many other cancers given how much subtype influences treatment choice; *what:* confirms BCC and identifies the specific histological subtype (nodular, superficial, morphoeic/infiltrative, etc.) and any high-risk features per the prognosis list below).
-
-**Mx:**
-- **Definitive (low-risk lesions):** standard surgical excision (most common approach), or cryosurgery, or non-surgical topical therapies (imiquimod, fluorouracil) for select superficial subtypes, or radiotherapy for patients unsuitable for surgery.
-- **Definitive (high-risk lesions — per the recurrence risk factors below):** Mohs micrographic surgery (with intraoperative frozen sections to ensure margins are clear) — preferred specifically for high-risk lesions and cosmetically/functionally sensitive sites (face, periorbital, nose) given its superior margin control compared to standard excision.
-- **Chronic/long-term (all patients):** strict sun protection measures + frequent skin checks — given the high risk of a further BCC or other skin cancer developing given the same underlying UV-damage risk factors, ongoing surveillance is a standard and important part of long-term Mx, not just a formality.
-- **P:** high risk factors for recurrence — tumour >2cm, located on the central face, poorly defined margins, high-risk histological subtype, histological features of aggression (perineural or perivascular location), failure of previous treatment, immunosuppression.
-
-## Squamous cell carcinoma (SCC)
-
-- **D:** proliferation of atypical, transformed keratinocytes in the skin with malignant behaviour.
-  - Precursor lesions are known as **actinic keratosis (AK)**.
-  - In situ tumours are known as **Bowen's disease**.
-  - Progression: invasive tumours → metastatic disease.
-- **R:** UV exposure, solid organ transplant recipient, immunosuppression, light skin, family history, increasing age, M>F, X-ray/radiotherapy, carcinogens, actinic keratosis, previous skin cancer, long-standing leg ulcers (Marjolin's ulcer).
-
-### Features by stage
-
-- **Actinic keratoses:** small, crusty or scaly lesions; pink, red, brown, or same colour as skin; typically on sun-exposed areas; multiple lesions may be present.
-- **Bowen's disease (SCC in situ):** red, scaly patches, often 10–15mm, slow-growing.
-- **SCC:** tumour grows over 3–6 months. Painless, ulcerating ± bleeding. Cauliflower-like appearance.
-  - Keratoacanthoma — dome-shaped, central keratin-filled crater; involutes after 2–3 months.
-  - Verrucous carcinoma — locally destructive but rarely metastatic; grows outwards, fungus/wart-like.
-- **Ix:** biopsy (*why:* the definitive diagnostic test at every stage of this disease spectrum, and critically distinguishes the three stages below by depth of atypia — a distinction that fundamentally changes Mx urgency and approach, from watchful/topical therapy for AK through to surgical excision for invasive disease; *what:* the specific histological pattern per stage below).
-  - AK — intraepidermal keratinocytic dysplasia, especially in the basal layer.
-  - Bowen's disease — full-thickness atypia, confined to the epidermis, intact basement membrane.
-  - Invasive disease — crosses the basement membrane.
-
-### Management
-
-> [!info] Verified against Cancer Council Australia's own "Clinical Practice Guidelines for Keratinocyte Cancer" (the dedicated Australian national guideline for this exact topic, referenced by Medicine Today) and DermNet, Aug 2026 — the treatment principles below (fluorouracil courses, cryotherapy as the mainstay for solitary/limited AK lesions, and standard excision margins) are broadly internationally consistent and match Australian practice, so this isn't a wholesale replacement — but note a few AU-specific/current refinements: Australia has one of the highest skin cancer rates in the world, so keratinocyte cancer guidance here is genuinely mature and dedicated (not a generic import), and a newer **combined 5-fluorouracil 0.5% + salicylic acid 10% solution** is now available in Australia specifically for lesion-directed and small-field-directed AK therapy (up to 25cm²) — a genuinely current addition not in the original UK-style note. SCC excision margins (4mm for <20mm lesions, 6mm for >20mm, as below) are consistent with international low-risk-tumour margins more broadly, not a UK-specific figure.
-
-- **Mx of actinic keratosis (a precursor lesion, not yet invasive):**
-  - Prevention of further risk — sun avoidance, sun cream.
-  - Fluorouracil cream — typically a 2–3 week course; warn the patient skin will become red and inflamed but to continue; can prescribe a steroid cream to help with inflammation.
-  - Topical diclofenac — may be used for mild AKs, moderate efficacy but fewer side effects.
-  - Topical imiquimod — trials have shown good efficacy.
-  - Cryotherapy; curettage and cautery.
-- **Mx of Bowen's disease (in situ, hasn't crossed the basement membrane):**
-  - As with actinic keratosis. Fluorouracil cream BD for 4 weeks (same warning re: redness/inflammation, ± steroid cream). Cryotherapy. Curettage and cautery.
-- **Mx of invasive SCC:**
-  - **Definitive:** surgical excision with 4mm margins if lesion <20mm; if tumour >20mm, margins should be 6mm — genuinely wider margins than BCC above, reflecting SCC's greater propensity for local invasion and metastasis. Mohs micrographic surgery may be used in high-risk patients and cosmetically important sites, as for BCC above.
-  - **Chronic/long-term:** given SCC (unlike BCC) carries a genuine, if generally low, metastatic potential, patients with high-risk features (per the risk factors above) warrant closer follow-up and consideration of regional lymph node assessment — a distinction worth knowing from BCC's Mx above, which doesn't carry the same metastatic consideration; ongoing sun protection and skin surveillance as for BCC, given the same underlying UV-damage risk factors predispose to further lesions.
-- **P:** good prognostic factors include well-differentiated tumour, <20mm diameter, <2mm deep, no immunosuppression.
-
-
-<!-- ===== SOURCE: 09_03b_Dermatology_-_Acne_Vulgaris.md ===== -->
-
-
-## Acne vulgaris
-
-- **D:** skin disease affecting the pilosebaceous unit.
-- **R:** puberty, family history/genetics, greasy skin or ↑sebum production, medications (androgens, steroids, anti-epileptics, isoniazid, lithium, hormones).
-- **A/P:** follicular epidermal hyperproliferation → formation of a keratin plug → plug obstructs the pilosebaceous follicle.
-  - Activity of sebaceous glands may be controlled by androgens — levels are often normal in patients with acne.
-  - Colonisation by the anaerobic bacterium *Propionibacterium acnes*.
-  - Inflammatory cascade.
-
-### Features
-
-- **Comedones** — due to a dilated sebaceous follicle. Whitehead: top is closed. Blackhead: top is opened.
-- **Inflammatory lesions** — due to follicle bursting and releasing irritants: papules, pustules.
-- Excess inflammation can cause nodules or cysts.
-- **Scarring** can result — ice-pick scars or hypertrophic scars.
-- **Drug-induced acne** — often monomorphic (e.g. steroids often cause pustules).
-
-> [!danger] Acne fulminans — very severe acne associated with systemic upset, often requiring hospital admission + steroid treatment.
-
-### Severity classification
-
-> [!info] Acne severity
-> - **Mild:** open and closed comedones ± sparse inflammatory lesions.
-> - **Moderate:** widespread non-inflammatory lesions, numerous papules and pustules.
-> - **Severe:** extensive inflammatory lesions (including nodules), pitting and scarring.
-
-- **Ix:** clinical diagnosis ± hormonal evaluation, swabs for bacterial culture.
-
-### Management
-
-> [!info] Verified against the TGA, the Australasian College of Dermatologists' own isotretinoin position statement (2018), and TGA's 2025 isotretinoin safety advisory, Aug 2026 — the step-wise structure (topical → oral antibiotic → COCP → isotretinoin) is broadly internationally consistent and matches Australian practice, but two specific details needed correction, not just a "check locally" caveat.
-> **Brand name correction:** "Dianette" is the **UK-specific brand name** for cyproterone acetate 2mg + ethinyloestradiol 35mcg — in Australia, the equivalent product is marketed as **Diane-35** (same active ingredients, same VTE risk profile). The TGA conducted its own dedicated safety review (2013) of Diane-35 specifically, reaching the same conclusion as UK/EU regulators: the increased VTE risk is real but the benefit continues to outweigh the risk for its approved indications (moderate-severe acne unresponsive to other therapy, or hirsutism) when used with appropriate risk counselling — so the clinical guidance below (second-line, time-limited use, VTE counselling) is substantively correct, just needs the brand name swapped.
-> **Isotretinoin monitoring:** Australia does **not** use the US's iPLEDGE program (a common point of confusion, since iPLEDGE is sometimes assumed to be a universal isotretinoin safeguard) — Australian isotretinoin prescribing is governed by the Australasian College of Dermatologists' own position statement and general TGA product information rather than a separate mandatory registry system. A **2025 TGA safety advisory specifically reinforced mental health monitoring** (depression, anxiety, suicidal ideation) as a required part of isotretinoin care before and during treatment — a genuinely current regulatory update reinforcing the safety-netting point already below, not a new contradiction to it.
-
-- **Step-wise approach:**
-  1. Single topical therapy (retinoids, benzoyl peroxide).
-  2. Combination topical therapy (antibiotics, benzoyl peroxide, retinoid).
-  3. Oral antibiotics: tetracyclines (lymecycline, oxytetracycline, doxycycline).
-     - Avoid in pregnant/breastfeeding women and in children <12 years old; use erythromycin in pregnancy.
-     - Use for a maximum of 3 months.
-     - Co-prescribe with a topical retinoid or benzoyl peroxide to reduce risk of resistance developing.
-     - Risk of Gram-negative folliculitis — use high-dose PO trimethoprim if this develops.
-  4. Combined oral contraceptive pill (COCP) — an alternative to oral antibiotics in women; use in combination with topical retinoid or benzoyl peroxide.
-
-> [!warning] **Diane-35** (the Australian brand name — see the correction above) has an increased risk of VTE compared to other COCPs — therefore used second-line, given for only 3 months, with counselling about risks.
-
-  5. PO isotretinoin — only under specialist supervision.
-
-> [!danger] Isotretinoin is absolutely contraindicated in pregnancy, and in hyperlipidaemia.
-
-### Discussion points with the patient
-
-- Can take 4–8 weeks for initial response; full response can take months. Adhere to treatment even if no early response.
-- **With isotretinoin:**
-  - Regular blood tests may be needed.
-  - Safety netting — stop and seek treatment if severe headache, decreased night vision, significant liver enzyme or lipid elevations, or adverse psychiatric events.
-  - Do not donate blood during treatment or for 30 days after.
-  - Do not become pregnant — pregnancy tests and monthly testing while on treatment.
-  - Dry and chapped skin are common — use moisturiser.
-
-
-<!-- ===== SOURCE: 09_04_Dermatology_-_Eczema__Psoriasis__Rosacea.md ===== -->
-
-
-## Contact Dermatitis (Irritant and Allergic)
-
-> [!note] Gap-filled from a High-yield CSV row ("Allergic contact dermatitis," filed under Immunology, Allergy & Infectious Disease in the source spreadsheet, but genuinely a Dermatology topic) — previously only mentioned as a single word within the Pruritus differential, never built as its own entry despite the classic irritant-vs-allergic distinction being frequently tested.
-
-**The core distinction — two genuinely different mechanisms, not two names for the same thing:**
-- **Irritant contact dermatitis (ICD):** non-immune-mediated direct chemical/physical damage to the skin from an irritant substance — genuinely the more common of the two forms overall. Symptoms can occur on **first exposure**, given no prior sensitisation is required, and severity/onset broadly correlates with irritant concentration and exposure duration. Common irritants: strong acids/alkalis, soaps and detergents, solvents, prolonged water/glove exposure (a classic cause in healthcare workers and hairdressers), some topical medications.
-- **Allergic contact dermatitis (ACD):** a **type IV (delayed, T-cell-mediated) hypersensitivity reaction** — the allergen binds skin proteins to form a complete antigen, sensitising T-cells on first exposure without necessarily causing visible symptoms; **symptoms only appear on re-exposure** after this sensitisation has occurred, typically 24–72 hours after contact — a genuinely important point distinguishing it from irritant reactions, which can occur immediately on first exposure. Common allergens: nickel (consistently the most frequently identified contact allergen in patch test series), fragrances, preservatives, rubber/latex, topical medications (including, somewhat ironically, topical corticosteroids and neomycin — worth considering when a treated dermatitis appears to worsen rather than improve), plants (e.g. poison ivy in some populations).
-- **Genuinely important in practice: the two conditions frequently coexist and can be difficult to distinguish clinically** — a disrupted skin barrier from irritant exposure increases the risk of subsequent allergen sensitisation, and vice versa, so finding one doesn't exclude the other.
-
-**S/Smx:** erythema and scaling with a **visible, often well-demarcated border corresponding to the area of contact** — a genuinely useful clue given this sharp geographic distribution (matching where a specific product, jewellery, or material touched the skin) points toward a contact cause rather than a more diffuse endogenous dermatitis like atopic eczema. Pruritus is prominent in ACD specifically; ICD can be more painful/burning than itchy depending on the causative irritant. Distribution often gives a genuine clue to the cause (e.g. earlobes/wrist for nickel from jewellery, hands for occupational irritant exposure, face/eyelids for cosmetic or airborne allergens).
-
-**Ix:** **ICD is primarily a clinical diagnosis** based on history (a clear temporal and spatial relationship to a specific exposure) and examination; **ACD requires patch testing for confirmation and allergen identification** where the diagnosis is uncertain, symptoms are persistent/recurrent, or first-line treatment fails — patch testing applies a standardised panel of allergens to the back, with readings taken at 48 and 96 hours (given the delayed hypersensitivity mechanism means an early reading alone can miss a genuine allergic response). A positive patch test result needs to be correlated with the patient's actual history and exposures to confirm clinical relevance, rather than assumed causative on its own.
-- **DDx to actively consider, given contact dermatitis can closely mimic several other conditions:** atopic dermatitis (see below, not repeated here), scabies (see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Scabies, not repeated here), psoriasis, seborrhoeic dermatitis, tinea (always worth excluding as a mimicker before assuming a dermatitis diagnosis, given the management is completely different).
-
-**Mx:**
-- **Immediate/acute:** identify and remove/avoid the causative irritant or allergen — genuinely the only definitive treatment for either condition, and should be explicitly framed to the patient as the central intervention rather than an adjunct to medication. Cool compresses for acute symptomatic relief.
-- **Definitive:** topical corticosteroids for localised disease (see Steroid creams below for the general potency/duration principles, not repeated here); oral corticosteroids may be considered for more extensive/severe disease (a reasonable working threshold cited in the literature is >20% body surface area involvement). Regular emollient use to support and repair the skin barrier — relevant to both conditions given barrier disruption is either the primary mechanism (ICD) or a contributing sensitisation risk factor (ACD).
-- **Chronic/long-term:** once a specific allergen is identified via patch testing, structured avoidance advice and product-ingredient education (e.g. checking cosmetic/personal care product ingredient lists for the specific identified allergen) — genuinely important given ongoing accidental re-exposure is a common cause of treatment failure or apparent "resistance" to otherwise appropriate management.
-
-## Eczema (atopic dermatitis)
-
-- **D:** inflammatory skin condition characterised by dry, pruritic skin with a chronic relapsing course.
-- **R:** filaggrin gene mutation, <5 years old, family history, allergic rhinitis, asthma.
-- **A/P:** loss-of-function mutation of the filaggrin gene predisposes to breaks in the epidermal barrier → increased exposure and sensitisation to allergens + environmental factors → inflammatory reaction.
-
-### Phases & features
-
-- **Infantile phase (birth to 2 years):** dermatitis on cheeks, forehead, scalp and extensor surfaces; prominent vesicular component; oedema, weeping, crusting.
-- **Childhood phase (2 years to puberty):** possibly worse; papules and plaques become lichenified due to constant scratching; antecubital and popliteal fossae, wrists, hands, ankles, and feet.
-- **Adult phase:** thickened, dry skin and lichenified plaques.
-
-- **Ix:** clinical diagnosis, based on the characteristic distribution and morphology by age phase above — no specific test is required for typical presentations. Allergen testing (skin prick or specific IgE) (*why:* reserved for cases where a specific trigger is suspected and identifying/avoiding it would meaningfully change management, rather than routine screening in all patients; *what:* identifies specific allergens contributing to flares in a subset of patients, though eczema's relationship to true IgE-mediated allergy is often more complex than a simple trigger-avoidance model).
-
-### Management
-
-- Avoid irritants.
-- **Simple emollients:**
-  - Large quantities (e.g. 250g/week), roughly 10:1 ratio with topical steroids by amount.
-  - Apply emollient, wait 30 minutes, then apply steroid.
-  - Creams soak into skin faster than emollients (oily).
-  - Emollients can become contaminated with bacteria.
-- **Topical steroids.**
-- **Wet wrapping** — large amounts of emollient (and sometimes topical steroids) applied under wet bandages.
-
-> [!note] Gap-filled — "severe cases" was undefined, the same gap already addressed for PASI in Psoriasis above (not repeated here). **SCORAD (SCORing Atopic Dermatitis):** the standard objective eczema severity tool — combines extent (% body surface area affected), intensity (six signs: erythema, oedema/papulation, oozing/crusting, excoriation, lichenification, dryness, each scored 0–3), and subjective symptoms (patient-reported itch and sleep loss, each 0–10) into a single weighted score, 0–103. **A SCORAD-guided or clinically-equivalent "severe, inadequately controlled with topical therapy" picture is what justifies escalating to systemic therapy** below, rather than a fixed universal number — unlike PASI's more commonly cited ">10" threshold, SCORAD is used more as a severity/response-tracking tool than a single hard cutoff for escalation, though severe/very severe SCORAD bands broadly correspond to the point systemic options become appropriate.
-- In severe cases (see SCORAD above), oral ciclosporin, or dupilumab (a biologic, IL-4/IL-13 receptor blocker) may be used.
-
-> [!info] Verified against the Australian Medicines Handbook, Therapeutic Guidelines, and an RACGP-published Australian potency table (AJGP), Aug 2026 — the underlying 4-tier classification framework (mild/moderate/potent/very potent) is genuinely shared between Australia and the UK, so this isn't a structural difference — but the specific product/concentration examples needed correction to Australian-available preparations, and the original table also contained a **genuine drug-name error, not just a localisation issue**: "Clobetasone propionate" in the "very potent" row doesn't exist as a real drug — clobetasone (butyrate) is a *moderate*-potency agent, while clobetas**ol** propionate is the very-potent agent actually intended. Fixed below.
-
-### Steroid creams
-
-- **1 fingertip unit ≈ 0.5g** — sufficient to treat a skin area about 2× the size of an adult hand.
-- Use the weakest potency sufficient to treat the patient's symptoms; do not use for longer than 1–2 weeks at one time.
-
-| Potency | Examples (Australian-available preparations) |
-|---|---|
-| Mild | Hydrocortisone 0.5–1% |
-| Moderate | Clobetasone butyrate 0.05%, hydrocortisone butyrate 0.1%, betamethasone valerate 0.02–0.05%, triamcinolone acetonide 0.02–0.05%, methylprednisolone aceponate 0.1% |
-| Potent | Betamethasone dipropionate 0.05%, betamethasone valerate 0.05–0.1%, mometasone furoate 0.1% |
-| Very potent | **Clobetasol propionate** 0.05% (corrected from "Clobetasone propionate" — see the note above), betamethasone dipropionate 0.05% in an optimised vehicle |
-
-**Quantity required per application, by area:**
-
-| Area | Amount |
-|---|---|
-| Face & neck | 15–30g |
-| Both hands | 15–30g |
-| Scalp | 15–30g |
-| Both arms | 30–60g |
-| Both legs | 100g |
-| Trunk | 100g |
-| Groin & genitalia | 15–30g |
-
-**Adverse effects:**
-- Skin atrophy, striae, rebound symptoms — atrophy especially for the face, limit to 1–2 weeks use at a time.
-- Perioral dermatitis — if applied to the face for long periods; increased risk if used with intranasal steroids.
-- Systemic effects only if applied to large areas.
-- Potent — limit use to 8 weeks at a go; very potent — limit to 4 weeks. Take a 4-week break before starting another course.
-
-> [!note] Australian Prescriber additionally specifies a practical weekly quantity limit: **no more than 45g/week of a potent or very potent topical corticosteroid** — a specific, useful safety-netting figure not in the original UK-style note. Absorption varies significantly by site — the face, scalp, and intertriginous areas absorb roughly 10–40× more than palms/soles, which is part of why lower-potency agents and shorter courses are preferred on the face specifically (see perioral dermatitis risk above).
-
-## Psoriasis
-
-- **D:** chronic inflammatory skin disease characterised by erythematous, circumscribed scaly papules and plaques.
-- **R:** family history/genetic, infection (e.g. URTI [strep], HIV), local trauma, medications that induce/exacerbate (beta-blockers, lithium, antimalarials, NSAIDs, ACE inhibitors, infliximab).
-- **A/P:** hyperproliferative disorder involving a complex cascade of inflammatory mediators.
-
-> [!tip] Beta-blockers can worsen psoriasis.
-
-### Classification & features
-
-- **Plaque psoriasis (80%):** raised, inflamed plaque lesions with a superficial silvery-white scaly eruption. Typically on extensor surfaces, scalp, trunk, buttocks, periumbilical areas. Clear delineation between good and bad skin. Auspitz's sign — if scale is removed, a red membrane with pinpoint bleeding points is seen.
-
-> [!info] Gap-filled — Auspitz's sign was described (what's seen) without explaining the mechanism (why it happens). **Psoriasis involves epidermal hyperproliferation, causing the epidermis to become markedly thinned specifically over the tips of the dermal papillae** (the "suprapapillary plate") even as the overall epidermis thickens elsewhere and builds up the characteristic scale — meanwhile, the **dermal papillae themselves become elongated, with their capillaries dilated and tortuous, sitting unusually close to the skin surface** as a result. When the overlying scale is mechanically removed, this abnormally thin suprapapillary epidermis is disrupted along with it, directly exposing these dilated, close-to-surface capillaries — producing the characteristic pinpoint bleeding. This is precisely why the sign is genuinely useful diagnostically: it reflects the specific structural abnormality of psoriatic skin (thinned epidermis over engorged, elongated papillae), not just non-specific skin fragility.
-- **Guttate psoriasis:** widespread, erythematous, fine, scaly papules ("water drops"). Usually associated with Strep URTI in children and adolescents. Acute onset over days. Most cases resolve spontaneously over 2–3 months; no need for antibiotics.
-- **Pustular psoriasis.**
-- **Erythroderma (erythrodermic psoriasis):** generalised erythema + fine scaling, often with pain, irritation, and sometimes severe itching.
-- **Psoriatic arthritis** (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Psoriatic arthritis (PsA), not repeated here): associated with arthralgia, joint deformities, nail changes.
-- **Reactive arthritis** (see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Reactive arthritis, not repeated here):
-
-> [!tip] Mnemonic for reactive arthritis triad — "can't see, can't pee, can't climb a tree" (conjunctivitis, urethritis, arthritis).
-
-- **Ix:** clinical diagnosis, based on the characteristic plaque morphology, distribution, and signs (e.g. Auspitz's sign) above — biopsy is reserved for atypical presentations or genuine diagnostic uncertainty, given the diagnosis is usually clear-cut clinically.
-
-### Management
-
-> [!info] Verified — the step-wise potent-corticosteroid-AM/vitamin-D-analogue-PM combination approach is genuinely internationally consistent evidence-based practice (matching AAD/US guidance and international systematic reviews), and Psoriasis Australia's own patient/clinician information describes the same combination strategy — this isn't a UK-specific protocol needing correction, the underlying regimen logic holds for Australian practice too. Vitamin D analogues are PBS-subsidised in Australia, supporting their accessibility as a standard first-line combination agent here as elsewhere. The specific duration limits below (4-week trials, 8-week escalation points) reflect the same general corticosteroid-course-limiting principle established in the Steroid Creams section above (the 45g/week and 4/8-week potency-specific limits), not a separate UK-only figure — check current eTG for the precise Australian-specified durations if prescribing, but the overall step-wise structure and rationale doesn't need wholesale replacement.
-
-**Step-wise approach:**
-1. Potent corticosteroid cream in the morning + vitamin D analogue in the evening (e.g. betamethasone with calcipotriol, applied separately). Trial initially for 4 weeks, assess response; trial for at least 8 weeks.
-2. Vitamin D analogue BD — trial for 8–12 weeks.
-3. Potent corticosteroid cream BD for up to 4 weeks, OR coal tar preparation OD/BD, OR short-acting dithranol.
-
-**2nd line management:**
-
-> [!note] Gap-filled — PASI genuinely absent despite directly determining when escalation to systemic/biologic therapy is warranted, the same pattern already addressed for DAS28 (RA) and BASDAI (ankylosing spondylitis) elsewhere in this project.
-
-**PASI (Psoriasis Area and Severity Index):** the standard objective severity measure — combines the extent of body surface area affected (by region: head, trunk, upper limbs, lower limbs) with the severity of erythema, induration (thickness), and desquamation (scaling) within the affected areas, into a single score from 0–72. **PASI >10, or failure/intolerance of an adequate trial of topical therapy, is the classic threshold defining "moderate-to-severe" psoriasis** — the point at which escalation to phototherapy or systemic/biologic therapy (below) is generally justified, rather than continuing to intensify topical treatment indefinitely. A simpler surrogate sometimes used alongside PASI: **body surface area (BSA) >10%** (one handprint ≈ 1% BSA), given PASI itself can be time-consuming to calculate in routine practice.
-- **Phototherapy:** narrowband UVB 3×/week, or photochemotherapy (psoralen + UVA). Adverse effects: skin ageing, increased risk of SCC.
-- **Systemic therapy:** PO methotrexate especially with joint disease; others — ciclosporin, systemic retinoids, biologics (DMARDs or others).
-
-**Management by specific area:**
-- Scalp — potent steroid OD for 4 weeks; if no improvement, use a different formulation (e.g. shampoo, mousse) ± a topical agent to remove adherent scales before applying corticosteroid.
-- Face, flexural, and genital areas — mild or moderate steroid OD/BD for a maximum of 2 weeks.
-
-**Vitamin D analogue creams** (e.g. calcipotriol, calcitriol, tacalcitol):
-- **MOA:** ↓cell division and differentiation → ↓epidermal proliferation; tend to reduce scale and thickness of plaques, but not erythema.
-- Adverse effects uncommon; can be used long-term. Avoid in pregnancy. Maximum 100g/week in adults.
-
-**Dithranol:**
-- **MOA:** inhibits DNA synthesis. Wash off after 30 minutes. Adverse effects include burning, staining.
-
-**Coal tar:**
-- MOA not fully understood; possibly inhibits DNA synthesis.
-
-## Rosacea
-
-- **D:** chronic disorder of the skin characterised by redness, flushing, and other cutaneous findings.
-- **R:** light skin, hot baths/showers, temperature extremes, sunlight, emotional stress, family history, F>M.
-- **S/Smx:**
-  - Typically affects the nose, cheeks and forehead.
-  - Flushing is often the first symptom.
-  - Telangiectasia are common.
-  - Later develops into persistent erythema with papules and pustules ± acne vulgaris.
-  - Rhinophyma (M>F) — nose deformity with nodules on the nose.
-  - Ocular involvement — blepharitis.
-  - Sunlight may exacerbate symptoms.
-
-- **Ix:** clinical diagnosis, based on the characteristic distribution and pattern above — no specific laboratory or histological test is routinely needed; biopsy is reserved for atypical presentations or to exclude mimics (e.g. lupus erythematosus, which can also cause facial erythema, or steroid-induced rosacea-like eruptions) when the diagnosis is genuinely unclear.
-
-### Management
-
-- For all patients: high SPF sunscreen ± camouflage creams to conceal redness.
-- **Predominant erythema/flushing (limited telangiectasia):** topical brimonidine gel PRN — usually reduces redness within 30 minutes, effect lasts 3–6h.
-- **Mild to moderate papules/pustules:** topical ivermectin, or topical metronidazole/topical azelaic acid.
-- **Moderate to severe disease:** topical ivermectin AND PO doxycycline.
-- Refer to dermatology if symptoms not improving (for consideration of laser therapy, especially if increased telangiectasia) or if rhinophyma present.
-
-
-<!-- ===== SOURCE: 09_05_Dermatology_-_Bacterial_Infections_and_Infestations.md ===== -->
-
-
-## Impetigo
-
-- **D:** superficial, contagious, blistering infection of the skin caused by *Staphylococcus aureus* and *Streptococcus pyogenes*.
-- **R:** ↑humidity, poor hygiene, malnutrition, overcrowding, chronic colonisation with *S. aureus* (nasal, axillary, pharyngeal, perineal), concomitant skin disease (e.g. scabies, head lice, atopic eczema).
-- **A/P:**
-  - GAS → non-bullous type: formation of a thick-walled pustule + erythematous base.
-  - *S. aureus* → bullous type: exfoliative toxin breaks down desmoglein 1 → large blisters in the epidermis with neutrophil & bacterial migration into the bullous cavity. Bullae = fluid-filled lesions >0.5cm diameter.
-  - Spread by direct contact with discharge from the scabs of an infected person — mainly by hands, but can spread indirectly via toys, clothing, equipment, environment.
-- **S/Smx:** "golden", crusted skin lesions typically found around the mouth. Vesicles/bullae seen in bullous impetigo — initially clear, then becomes turbid.
-- **Ix:** clinical diagnosis.
-
-> [!danger] A genuinely important, non-obvious Australian-context complication: **GAS impetigo (skin infection), not only GAS pharyngitis, is now recognised as a trigger for acute rheumatic fever (ARF)** in Australian Aboriginal children — evidence specifically from Australia supports this pathway, distinct from the traditional teaching (based on historical, largely non-Australian data) that ARF follows only streptococcal throat infection. See [[01_Cardiovascular]] 0.22 Rheumatic Fever and 0.22a Rheumatic Heart Disease for the full downstream disease and its severe Australian Indigenous health burden, not repeated here — this is directly relevant to why prompt, effective treatment of impetigo (per the Mx below) matters beyond the skin infection itself in high-ARF-risk populations.
-
-> [!info] Verified against Australian Prescriber (Bacterial skin and soft tissue infections) and state health department school exclusion tables (NSW, Victoria, Queensland, SA), Aug 2026 — found genuine corrections to both the antibiotic sequencing and the exclusion period, not just brand/dose tweaks.
-> **Antibiotic sequencing:** current Australian guidance recommends **topical mupirocin as the first-line topical option for mild impetigo**, rather than fusidic acid first with mupirocin reserved for resistance/MRSA — a genuine reversal of the UK-style sequencing this entry was written against, reflecting documented high fusidic acid resistance rates (cited as high as 32–75% in some studies) that make it a less reliable first choice. In remote/high-burden Australian settings specifically (where impetigo, colloquially "school sores," is a major issue particularly in Aboriginal communities), topical antibiotics are increasingly not used at all due to resistance, with oral/injectable therapy preferred instead — a notably different practice pattern from mainstream urban UK guidance.
-> **School exclusion:** the Australian standard across multiple state health departments (NSW, Victoria, Queensland, SA all broadly consistent) is **exclusion until the day after antibiotic treatment has started** (not "until crusted and healed, or 48h after commencing treatment" as below) — with any exposed sores covered by a waterproof/watertight dressing in the meantime. This is generally a shorter, simpler exclusion period than the UK-style figure, worth knowing as a genuine practical difference for patient/parent advice.
-> **Mx:** H2O2 1% cream, or topical mupirocin first-line (fusidic acid as an alternative, though resistance rates make it a less reliable first choice per the note above). In extensive disease, use PO flucloxacillin or erythromycin (for penicillin allergy). **School exclusion until the day after starting treatment, with any exposed sores covered by a waterproof dressing** (not the longer UK-style period above). Advise twice-daily washing with soap and water — same advice for people who have been in contact.
-
-## Folliculitis
-
-- **D:** inflammatory process involving any part of the hair follicle; most commonly secondary to infection.
-- **R:** trauma (including shaving, extraction), topical corticosteroids, diabetes, immunosuppression.
-- **A/P:** most commonly infectious in origin — *S. aureus*, *Klebsiella*, *Enterobacter*, *Proteus*, *Pseudomonas aeruginosa* (hot tub folliculitis). Fungal agents (often in young men); viral (herpes simplex, VZV, *Molluscum contagiosum*).
-- **S/Smx:** red bumps on skin with history of trauma or other risk factors; ± pruritus/mild discomfort in early stages. If the condition worsens, can become very painful with furuncles or carbuncles.
-- **Ix:** clinical diagnosis; consider viral skin swab, skin scraping for microbiology.
-- **Mx:** uncomplicated folliculitis — usually self-limiting; conservative treatment (antibacterial soaps, loose clothing, cool dry environment, careful shaving). Recurrent infectious folliculitis — PO antibiotic therapy guided by swabs (± flucloxacillin).
-
-## Cellulitis & erysipelas
-
-> [!note] Full entry consolidated into [[08_09_Infectious_Disease_-_Miscellaneous]] Cellulitis, not duplicated here — that entry now incorporates the risk factors, erysipelas distinction, and full Ix/Mx detail (including the AU-specific purulent/non-purulent drug choice and Eron classification) from both this file's original content and the Infectious Disease file's, merged into a single authoritative version. Cross-referenced here as this is also a core dermatology topic, but kept as a single-source entry to avoid drift between two independently-maintained copies of the same disease.
-
-## Head lice (pediculosis capitis)
-
-- **D:** infestation of the parasitic head louse *Pediculus humanus capitis* — also known as "nits".
-- **R:** age 3–12, F>M, close contact with infected people, overcrowding or close living conditions.
-- **A/P:** head lice grow on hair and feed on human blood.
-  - Eggs are grey or brown, approximately the size of a pinhead (diagnostic).
-  - Eggs are glued to the hair close to the scalp, and hatch in 7–10 days.
-  - Nits are the empty egg shells — white and shiny, found further along the hair shaft as hair grows.
-- **S/Smx:** common in children; causes itching and scratching.
-- **Ix:** fine-toothed combing of wet or dry hair should reveal eggs, nits, or living lice.
-
-> [!info] Verified against the eTG "Insects and mites" chapter and Victorian/NSW school exclusion tables, Aug 2026 — this section turns out to already be substantively correct for Australia rather than needing wholesale replacement. The product sequence (dimeticone first-line, topical ivermectin, malathion third-line given resistance) matches current eTG guidance directly. **"School exclusion is not necessary" is also confirmed correct for Australia** — Victorian and NSW health department exclusion tables both confirm head lice do not require school exclusion, consistent with the note below (a case where checking confirmed the existing content rather than needing correction).
-
-- **Mx:** treatment only indicated if living lice are found — contacts do not need to be treated unless living lice are found in them. School exclusion is not necessary.
-  - Dimeticone or cyclomethicone — apply, leave for 30 minutes to 8 hours (depending on product), rinse; repeat treatment after 8–10 days.
-  - Ivermectin topical lotion — apply, leave for 10 minutes, rinse.
-  - 3rd line: malathion (due to resistance) — apply, leave for 8–12h, rinse.
-  - Mechanical removal (especially for children <2 months old) or wet combing.
-  - Follow product instructions carefully to prevent recurrence.
-
-## Scabies
-
-- **D:** infestation with the ectoparasitic mite *Sarcoptes scabiei*.
-- **R:** overcrowding, <15 years old or >65 years old, sexual contact with new or multiple partners, immunosuppression.
-- **A/P:** the scabies mite burrows into the epidermis, tunnels through the stratum corneum, and lays 2–4 eggs per day.
-  - Larvae hatch in 2–4 days, develop into adult mites ~2 weeks later.
-  - Transmission is via direct and prolonged skin-to-skin contact + fomites (clothes, bedding).
-  - Host immune response causes pruritus, erythema, papules and nodules — appears 3–4 weeks after initial infestation, but within 1 day upon re-infestation (delayed type IV hypersensitivity).
-- **S/Smx (clinical diagnosis):** widespread pruritus; linear burrows on the sides of fingers, interdigital webs, flexor aspects of wrist; in infants, face and scalp are affected; also excoriation, secondary infection.
-
-> [!info] Verified against the National Healthy Skin Guideline (Telethon Kids Institute — the dedicated Australian national guideline for scabies and other skin infections), AMH, and NSW Health scabies advisory, Aug 2026 — the core drug choices are consistent, but the hierarchy and paediatric dosing detail benefit from AU-specific clarification.
-> **Permethrin 5% cream is confirmed first-line**, consistent with the note below. **Oral ivermectin is specifically second-line in Australia** — indicated for typical scabies when topical permethrin has failed, and as first-line specifically for crusted scabies (a more severe, heavily-infested form, notably more common in some Aboriginal and Torres Strait Islander communities and immunocompromised patients) — this explicit first/second-line hierarchy isn't stated in the original note, which presents ivermectin and malathion as parallel options rather than making clear permethrin is preferred first. Weight-based paediatric ivermectin dosing exists down to 10–14.9kg (children aged 2–4yo); for children <10kg, permethrin (or crotamiton/Eurax) is used instead given ivermectin isn't established as safe/effective at this weight. Scabies is genuinely more prevalent in some Australian settings (aged care facilities, some remote Aboriginal and Torres Strait Islander communities, institutional settings) — worth knowing as an Australian epidemiological context point, not present in a UK-focused note. Scabies is **not a nationally notifiable condition** in Australia (confirmed at least for NSW), consistent with it not appearing in the NNDSS categories established in [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia), not repeated here.
-> **Mx:**
-> - Permethrin 5% cream applied to all areas including face & scalp — allow to dry and leave on skin for 8–12h; re-apply if washed off (e.g. washing hands); repeat treatment 7 days later. Large quantities needed. Contraindicated in patients allergic to chrysanthemum.
-> - Second-line: PO ivermectin (weight-based dosing; first-line specifically for crusted scabies) or topical malathion 0.5% (24h application) if permethrin fails or is unsuitable.
-> - For all patients: avoid close physical contact with others until treatment is complete; all household and close physical contacts should be treated at the same time, even if asymptomatic; launder, iron or tumble dry clothing, bedding, towels on the first day of treatment; advise that itch can last 4–6 weeks post eradication.
-> - School/childcare exclusion: until the day after appropriate treatment has commenced.
-
-
-<!-- ===== SOURCE: 09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections.md ===== -->
-
-
-## Tinea / Dermatophyte infections
-
-- **D:** superficial fungal infection. Dermatophytes are fungal organisms that require keratin for growth.
-- **R:** exposure to infected people, animals, or soil; exposure to fomites (hats, combs, hairbrushes, upholstery); chronic topical or PO steroid use; HIV; diabetes; occlusive clothing; hot, humid weather; obesity; hyperhydrosis; frequent public bathing + going barefoot; deformities of the feet; recent trauma to skin.
-- **A/P:** fungal organisms (*Microsporum*, *Trichophyton*, *Epidermophyton* spp) transmitted via direct contact, fomites, soil, or animals.
-
-**Sites affected:**
-
-| Site | Terms |
-|---|---|
-| Hair/hair follicles | Tinea capitis, tinea barbae, Majocchi's granuloma |
-| Skin | Tinea faciale, tinea corporis, tinea cruris, tinea manuum, tinea pedis |
-| Nail | Tinea unguium (onychomycosis is the broader term, also covering yeasts and moulds) |
-
-### Onychomycosis (fungal nail infection)
-
-> [!note] Gap-filled — previously only a single row in the table above; expanded given how commonly encountered this presentation is and how genuinely different its management is from skin/scalp tinea (much longer treatment courses, reflecting the slow growth rate of nail rather than skin).
-
-- **D:** fungal infection of the nail unit — dermatophytes (~70% of cases, most commonly *Trichophyton rubrum*) are the leading cause, with non-dermatophyte moulds (~20%) and *Candida* species (~10–20%) accounting for the remainder.
-- **R:** older age, diabetes, concurrent tinea pedis (a genuinely common combination, given the same fungus commonly spreads from foot skin to adjacent nails), poor peripheral circulation, immunosuppression, psoriasis, occlusive footwear.
-- **S/Smx:** nail discolouration (yellow/white/brown), thickening, onycholysis (nail lifting from the nail bed), brittleness, and subungual debris — most commonly affects toenails, less often fingernails.
-- **Ix:** confirm the diagnosis before starting oral treatment, given the length and side-effect profile of the course below — nail clippings/scrapings for microscopy (KOH preparation) and fungal culture; a clinical diagnosis alone is genuinely less reliable here than for skin tinea, given several other conditions (psoriatic nail disease, nail trauma, lichen planus of the nail) can closely mimic onychomycosis on appearance alone.
-- **Mx:**
-  - **Oral antifungals — the preferred, most effective treatment for significant nail involvement:** oral terbinafine is first-line, given superior cure rates compared to itraconazole and griseofulvin in comparative trials. **Course length is genuinely much longer than for skin/scalp tinea, and differs by site: toenails require ~12 weeks of continuous therapy, fingernails typically only ~6 weeks**, reflecting how much more slowly nail grows compared to skin. Baseline LFTs before starting, and monitoring during treatment, given a small but genuine risk of hepatotoxicity.
-  - **A genuinely important point on timing expectations:** visible clinical improvement lags well behind the mycological cure — the nail has to grow out the affected portion, meaning the full cosmetic result isn't apparent until many months after treatment finishes (often not until close to 12 months post-treatment for toenails specifically) — worth explaining clearly to patients so they don't judge treatment as having failed simply because the nail doesn't look normal immediately after finishing the course.
-  - **Topical antifungal lacquers:** an option for mild disease limited to the distal nail plate, or where oral therapy is contraindicated/not tolerated — genuinely less effective than oral treatment given poor nail penetration, but avoids the systemic side-effect profile.
-  - **Nail debridement/removal** (mechanical or chemical) may be used alongside antifungal therapy for thickened nails, improving drug penetration and symptomatic comfort, particularly in severe disease.
-  - **Recurrence is genuinely common** even after apparently successful treatment, particularly if predisposing factors (concurrent tinea pedis, occlusive footwear) aren't also addressed — treating the whole clinical picture (including any co-existing tinea pedis) rather than the nail in isolation reduces this risk.
-
-### Tinea capitis
-
-- Often in children; can cause scarring alopecia.
-- If untreated, a kerion may form — a raised, pustular, spongy/boggy mass.
-- Most common cause is *Trichophyton tonsurans*; also *Microsporum canis* (acquired from cats or dogs).
-- **Dx:** clinical ± scalp scrapings — under Wood's lamp, *Microsporum* will glow green.
-- **Mx:** PO antifungals — terbinafine for *Trichophyton*; griseofulvin for *Microsporum* (take after fatty meals OD, requires an 8–10 week course as it is fungistatic). For both: topical ketoconazole for the first 2 weeks (topical agents alone are not effective as they do not penetrate the hair shaft).
-
-### Tinea corporis (ringworm)
-
-- Well-defined annular, erythematous lesions with pustules and papules.
-- **Mx:** topical agents until no further infection is visible, then continue for 2 weeks thereafter (~2–6 weeks total) ± PO azole therapy.
-
-### Tinea pedis (athlete's foot)
-
-- Itchy, peeling skin between the toes.
-- **Mx:** topical terbinafine + disinfect footwear, avoid going barefoot in public spaces. Apply topical agents until no further infection is visible, then continue for 2 weeks thereafter (~2–6 weeks total).
-
-**General advice:** disinfect hairbrushes and combs; wear loose-fitting clothing; avoid sharing clothes and combs; avoid walking barefoot in public areas; thoroughly dry any infected areas after washing before dressing; for tinea pedis, alternate footwear and use foot powders to reduce risk of relapse.
-
-### Pityriasis versicolor (tinea versicolor)
-
-- **D:** superficial cutaneous fungal infection caused by *Malassezia furfur*.
-- **R:** immunosuppression (although can occur in healthy individuals), Cushing's syndrome, malnutrition.
-- **S/Smx:** most commonly on the trunk; hypopigmented, pink, or brown patches ± scale; mild pruritus.
-- **Mx:** topical antifungal (e.g. ketoconazole shampoo). If diagnosis uncertain, send scrapings to confirm — if confirmed and refractory, PO itraconazole.
-
-## Candida (cutaneous candidiasis)
-
-- **D:** infection of the skin by *Candida albicans*, a yeast-like fungus that is part of the commensal flora of the GIT and vagina.
-- **R:** skin folds, ↑heat, ↑moisture, trauma, immunocompromise.
-- **A/P:** colonisation is usually asymptomatic, but can cause infection if the skin barrier is disrupted or immune defences are lowered.
-- **Ix:** clinical diagnosis ± bloods, blood cultures if sepsis suspected.
-- **Mx (uncomplicated):** adults — topical imidazole (clotrimazole, ketoconazole, etc) or topical terbinafine. Children — topical imidazole.
-- **Mx (inflammation/itch):** topical corticosteroid cream (e.g. hydrocortisone 1%) OD/BD for a maximum of 7–14 days, reassess for improvement.
-- **If widespread, immunocompromised, or refractory to initial treatment:** PO fluconazole for 2 weeks → reassess; consider swabbing and referral to dermatology. For children — refer to dermatology.
-- **General hygiene for all patients:** avoid skin occlusion; wash skin regularly with soap substitute; dry adequately; lose weight if obesity is a contributing factor.
-
-*(For vaginal candidiasis/thrush, see 17.07)*
-
-## Viral warts
-
-- **D:** warts are elevated, round, hyperkeratotic skin papules with a rough greyish-white or light brown surface.
-- **R:** water immersion, occupations involving handling of meat or fish, nail biting, <35 years old, immunocompromise.
-- **A/P:** HPV types 1, 2, 3, 27, 57, and 63 infect keratinocytes, causing koilocytosis (viral transformation of the keratinocyte) and proliferation. Plantar warts are associated with HPV-1.
-- **S/Smx:** round, raised papules ranging from pinpoint to 1cm, averaging 5mm; tiny black dots on the surface may be seen after gentle paring with a scalpel. Often on fingers or nail folds; filiform warts are associated with facial skin. Warts may fissure, bleed, and cause pain; can also have a rough, scaly appearance.
-- **Ix:** clinical diagnosis.
-- **Mx:** watchful waiting in immunocompetent patients, especially children (90% clear in 5 years spontaneously). Salicylic acid ± duct tape occlusion, cryotherapy, silver nitrate. Daily application of salicylic acid-containing compounds for ~8 weeks. Adverse effects: tenderness, erosion, superinfection. Cryotherapy adverse effects: blistering, pain, pigmentation change, recurrence. For resistant or recurring warts: imiquimod (90% cleared at 4 weeks with daily or every-other-day application), PO zinc sulfate, or pairing with surgical removal/cryotherapy.
-
-## Seborrhoeic dermatitis
-
-> [!note] Gap-filled from CSV ("Seborrhoeic dermatitis," Medium yield) — genuinely absent despite being commonly examined; placed here given the *Malassezia* fungal association shared with pityriasis versicolor above, not because it's a true dermatophyte infection itself.
-
-- **D:** a chronic, relapsing inflammatory skin condition affecting sebaceous-gland-rich areas — genuinely distinct from seborrhoeic *keratosis* (a benign proliferative skin lesion, covered elsewhere in this project) despite the similar name, a common point of confusion worth explicitly flagging.
-- **A/P:** thought to involve an inflammatory response to *Malassezia* yeast species (the same genus implicated in pityriasis versicolor above) in genetically predisposed individuals, rather than a straightforward infection — this is why antifungal treatment helps but the underlying process is inflammatory/reactive rather than purely infective.
-- **R:** infancy (a distinct, usually self-limiting form — "cradle cap") and adulthood (typically 30–60yo) are the two peak ages; immunosuppression (including HIV, where seborrhoeic dermatitis can be more extensive/severe) and Parkinson's disease are recognised associations — the latter thought to relate to increased sebum production and reduced facial movement/hygiene in this population.
-- **S/Smx:** erythematous patches with greasy, yellowish scale, typically affecting the scalp (dandruff is a mild form of scalp seborrhoeic dermatitis), nasolabial folds, eyebrows, and ears; mild pruritus is common. In infants, presents as "cradle cap" — greasy yellow scale on the scalp, usually resolving spontaneously within the first year of life without treatment.
-- **Ix:** clinical diagnosis, based on the characteristic distribution and appearance above — no specific test is routinely needed; skin scraping/biopsy is reserved for atypical presentations or to exclude mimics (e.g. psoriasis, which can affect similar areas — see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Psoriasis for the comparison, not repeated here).
-- **Mx:**
-  - **Adults — scalp:** antifungal shampoo (e.g. ketoconazole) is first-line, given the *Malassezia* association above; topical corticosteroids for more inflamed/symptomatic disease, used short-term given the same general steroid-course-limiting principles as elsewhere in this project.
-  - **Adults — face/body:** topical antifungal (e.g. ketoconazole cream) ± mild topical corticosteroid for flares; topical calcineurin inhibitors (e.g. tacrolimus) are a steroid-sparing option for chronic facial disease specifically, given the face's greater vulnerability to steroid-related skin atrophy.
-  - **Infants (cradle cap):** usually no treatment needed given spontaneous resolution; gentle emollient application and soft brushing to loosen scale if parents wish to treat, reserving antifungal/steroid treatment for more extensive or symptomatic cases.
-  - **Chronic/long-term:** genuinely a chronic relapsing-remitting condition in adults (unlike the infantile form) — patients should be counselled to expect recurrence and the need for intermittent rather than one-off treatment, similar in spirit to eczema/psoriasis management above.
-
-## Molluscum contagiosum
-
-- **D:** long-term infectious condition causing cutaneous lesions.
-- **R:** close/sexual contact with affected people, atopic dermatitis, immunocompromise, tropical/humid climate.
-- **A/P:** molluscum contagiosum virus (MCV), a poxvirus, infects keratinocytes ± mucosa → papular lesions. Abnormal keratinocytes are termed Henderson-Patterson bodies.
-- **S/Smx:** pinkish/pearly white papules with central umbilication, ≤5mm. Lesions appear in clusters anywhere on the body, except palms and soles. In adults, sexual contact may lead to lesions on the genitalia, pubis, thighs and lower abdomen. Lesions are rarely on the oral mucosa and eyelids.
-- **Mx:** conservative, as the condition is self-limiting — spontaneously resolves in ~18 months. Avoid sharing towels, clothing, baths with uninfected people. Avoid scratching lesions. School/social exclusion not needed.
-  - Treatment if desired: squeezing (with fingernails) or piercing lesions, then bathing — only a few lesions at once; cryotherapy.
-  - Eczema/inflammation associated with lesions — emollients, mild steroid (hydrocortisone), topical antibiotics (fusidic acid).
-  - Refer if: immunocompromised (e.g. HIV with extensive lesions), eyelid margin or ocular lesions, or anogenital lesions (refer to sexual health service to rule out other STIs).
-
-
-<!-- ===== SOURCE: 09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa.md ===== -->
-
-
-## Varicella zoster virus (VZV) / chickenpox
-
-- **D:** a childhood exanthem caused by the human α-herpesvirus VZV.
-- **R:** exposure, age 1–9 years, unimmunised status, occupational exposure.
-- **A/P:** direct contact or airborne respiratory droplet spread → virus spreads to regional lymph nodes causing a primary viraemic phase → spreads to liver, spleen, etc. Secondary viraemic phase at ~day 9 — mononuclear cells transport the virus to the skin and mucous membranes → classic vesicular rash. Patients are infectious 2–4 days before onset of rash, and remain so until lesions are crusted over. Incubation period is ~14 days.
-- **S/Smx:** fever initially ± mild systemic upset. Rash: itchy, starts on head/trunk; macular → papular → vesicular. Severe disease is associated with complications such as pneumonia, neurological sequelae, hepatitis, secondary bacterial infection.
-
-> [!warning] Do not give NSAIDs in chickenpox — possible increased risk of secondary bacterial infections; secondary invasive GAS infections can result in necrotising fasciitis.
-
-- **Ix:** clinical diagnosis in the large majority of cases, given the characteristic vesicular rash and exposure history — laboratory confirmation is reserved for atypical presentations or when the result would change management (e.g. confirming diagnosis in a pregnant or immunocompromised contact where VZIG/antiviral decisions depend on it): PCR of vesicle fluid (*why:* the most sensitive and specific confirmatory test when needed, particularly useful in atypical or severe presentations; *what:* confirms VZV directly). VZV IgG serology (*why:* used specifically to determine immune status in an exposed but asymptomatic at-risk contact (e.g. a pregnant woman with uncertain vaccination/infection history) — this is the test that directly drives the PEP decision below, not a diagnostic test for active infection; *what:* positive IgG indicates prior immunity, negative indicates susceptibility and potential need for VZIG).
-- **Mx:**
-  - **Immediate/acute:** supportive — keep cool, trim nails, calamine lotion; at-risk patients (immunocompromised, pregnant, neonates, or severe disease) — PO/IV antiviral therapy, given within 72h of onset for maximum benefit.
-  - **Definitive:** school exclusion until lesions have crusted over, matching the infectious period described above.
-  - **Chronic/long-term:** monitor for and manage the complications above (secondary bacterial infection, pneumonia, neurological sequelae) if they develop; varicella vaccination is part of the routine National Immunisation Program schedule for prevention in future — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) for the AU-specific timing, not repeated here.
-
-### Post-exposure prophylaxis (PEP)
-
-- Varicella zoster immunoglobulin (VZIG) for PEP — **passive** immunisation: preformed antibody giving immediate but temporary cover, which is why it is time-limited and why it does not remove the need for vaccination later (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Passive Immunisation — Immunoglobulin After an Exposure).
-- Indicated for significant exposure to VZV/HZV in patients with clinical conditions that increase risk of severe varicella — pregnant women, immunocompromised patients, neonates — and no antibodies to VZV.
-
-### VZV in pregnancy
-
-> [!danger] VZV infection in pregnancy carries significant maternal and fetal risk.
-> - Mother: 5× risk of pneumonitis.
-> - Fetal varicella syndrome — 1% risk if infection occurs before 20 weeks gestation: skin scarring, eye defects (microphthalmia), limb hypoplasia, microcephaly, learning disabilities.
-> - Shingles in infancy — 1–2% risk if maternal exposure occurs in the 2nd/3rd trimester.
-> - Severe neonatal varicella — fatal in 20% of cases.
-
-- **VZV prophylaxis/Mx in pregnancy:** if in doubt, check maternal blood for varicella antibodies.
-  - If ≤20 weeks and not immune — give VZIG as soon as possible (effective up to 10 days post-exposure).
-  - If >20 weeks and not immune — either VZIG or PO antivirals from day 7 to 14 post-exposure.
-
-## Herpes zoster / shingles
-
-- **D:** reactivation of VZV, characterised by dermatomal pain and papular rash.
-- **R:** >50 years old, F>M, HIV, chronic steroid use, chemotherapy, malignancies.
-- **A/P:** reactivation of latent VZV from the dorsal root or cranial nerve ganglia, present since primary infection. Latent infection is established by evading the immune system.
-- **S/Smx:**
-  - Prodromal period: burning pain for 2–3 days + fever in 20% of patients, headache, fatigue.
-  - Vesicular eruption follows in the dermatomal distribution of the infected ganglion (usually T1 to L2) — pain (localised, stinging), pruritus, rash (erythematous maculopapular → clear vesicles → crusted over). Does not cross the midline.
-  - Corneal ulceration if CN V involved.
-- **Ix:** clinical diagnosis in the large majority of cases, given the characteristic dermatomal vesicular rash — laboratory confirmation (PCR of vesicle fluid) is reserved for atypical presentations (e.g. disseminated disease, diagnostic uncertainty, or immunocompromised patients where the distribution may be less classic).
-- **Mx:**
-  - **Immediate/acute:** antivirals within 72h of onset (aciclovir, famciclovir, valaciclovir) — benefits include ↓incidence of post-herpetic neuralgia, especially in older people, making early recognition and prompt treatment genuinely time-sensitive; analgesia — paracetamol & NSAIDs, neuropathic agents (e.g. amitriptyline, gabapentin/pregabalin) given the neuropathic nature of the pain; PO corticosteroids in the first 2 weeks if immunocompetent, for symptom control (does not reduce post-herpetic neuralgia risk, a distinct point worth knowing from the antiviral benefit above).
-  - **Definitive:** advise patients they are potentially contagious to non-immune contacts (via direct contact with vesicle fluid, not respiratory spread the way primary varicella is) — avoid pregnant women and immunosuppressed people until vesicles have crusted over (usually 5–7 days following onset); covering lesions reduces transmission risk.
-  - **Chronic/long-term:** manage post-herpetic neuralgia if it develops (neuropathic agents, specialist pain referral if refractory); shingles (zoster) vaccination is available for prevention in eligible age/risk groups — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) for the AU-specific eligibility and funding detail (including the earlier funded age for Aboriginal and Torres Strait Islander people), not repeated here.
-- **Complications:** post-herpetic neuralgia (5–30%, resolves within ~6 months, may be longer); ophthalmic involvement; Ramsay Hunt syndrome (ear lesions and facial paralysis).
-
-*(See also [[05_Ophthalmology]] Ophthalmic Shingles)*
-
-## Pityriasis rosea
-
-- **D:** inflammatory skin disease with unclear aetiology.
-- **R:** age 10–35, F>M.
-- **S/Smx:**
-  - In some individuals, there may be a history of a recent viral infection.
-  - Herald patch — usually on the trunk, appearing about 2 weeks before the main rash.
-  - Erythematous, oval, scaly patches — "fir-tree" appearance, where the longitudinal diameters of the oval lesions run parallel to the lines of Langer.
-- **Ix:** clinical diagnosis.
-  - **DDx: guttate psoriasis** (see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Psoriasis → Classification & features) — usually preceded by strep throat (2–4 weeks prior), and presents with "tear drop" scaly papules on trunk and limbs. Either way, both conditions are self-resolving.
-- **Mx:** watch & wait — usually resolves spontaneously after 6–12 weeks.
-
-*(See also [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Pityriasis versicolor (tinea versicolor))*
-
-## Hidradenitis suppurativa
-
-- **D:** chronic inflammatory skin disease that primarily involves intertriginous areas (e.g. axilla, groin, perineum).
-- **R:** obesity, F>M, smoking, family history.
-- **A/P:** possibly an autoimmune disease — repeated inflammation occludes the hair follicles and apocrine glands → nodules, abscesses and scarring.
-- **S/Smx:** recurrent, painful and inflamed nodules, especially in the axillae; nodules may rupture, releasing pus. More severe/complicated disease: rope-like scarring, plaques, sinus tracts, contractures, lymphatic obstruction.
-
-> [!info] **Hurley classification — 3 stages, and the distinction that separates them is *sinus tracts and scarring*, not how many lesions there are.**
-> - **Stage I:** single or multiple isolated abscesses/nodules — **no sinus tracts, no scarring**.
-> - **Stage II:** recurrent abscesses, **widely separated** lesions, **with sinus tract formation and scarring**.
-> - **Stage III:** **diffuse or near-diffuse involvement** of an entire area, with multiple interconnected sinus tracts and abscesses.
->
-> **Why it matters clinically:** Hurley stage is what drives the management ladder below — topical therapy and lifestyle measures at stage I, systemic therapy at stage II, and biologic plus surgical management at stage III. Staging a patient is therefore the step that decides treatment, not a descriptive afterthought.
->
-> **The three classes were named but never listed** before the G4 round (2026-08-29) — the box announced a count and gave nothing, so the classification could not actually be applied. See `PENDING_GUIDELINE_CHECKS.md` **B54** for the Australian drug-specific questions this raised.
-
-- **Ix:** clinical diagnosis.
-- **DDx:** acne vulgaris (mainly face, upper chest; see [[09_03b_Dermatology_-_Acne_Vulgaris]] Acne vulgaris), follicular pyoderma (should respond rapidly to antibiotics), donovanosis (STI, mainly in regions of sexual contact; see [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]] Donovanosis (granuloma inguinale)).
-- **Mx:**
-  - Good hygiene, loose-fitting clothes.
-  - Smoking cessation, weight loss.
-  - Medical management: steroids (injection into lesion, or PO), antibiotics (e.g. flucloxacillin); long-term — topical or PO antibiotics (e.g. topical clindamycin, PO rifampicin).
-  - Surgical: excision of nodules.
-- **P:** depends on how well controlled the disease is; complete remission may require surgical intervention. May have a profound impact on quality of life.
-
-
-<!-- ===== SOURCE: 09_08_Dermatology_-_Miscellaneous.md ===== -->
-
-
-## Pemphigus
-
-- **D:** group of autoimmune blistering diseases involving the epidermal surfaces of the skin, mucosa, or both.
-  - Subtypes: pemphigus vulgaris, pemphigus foliaceus, paraneoplastic pemphigus.
-- **R:** increasing age; HLA DR4 (PV), DQ1 (PV), DRB1 (PNP); associated malignancy (non-HHV8 Castleman's disease, non-Hodgkin's lymphoma, CLL, thymoma, rare sarcomas). Increased incidence in Ashkenazi Jews.
-- **A/P:** IgG autoantibodies bind to desmoglein 3 or 1 of the desmosome (in skin and mouth), causing cell detachment and blistering.
-- **S/Smx:**
-  - Mucosal ulceration in 50–70%.
-  - Skin blistering — flaccid, easily ruptured vesicles and bullae; clear blisters; painful but not itchy.
-  - Nikolsky's sign positive (skin peels on gentle rubbing/shearing).
-  - On biopsy: acantholysis.
-- **Ix:** skin biopsy.
-- **Mx:** PO steroid ± azathioprine or mycophenolate — steroids to be given with bone protection and a PPI. Rituximab ± steroids in refractory cases.
-- **P:** pemphigus vulgaris and pemphigus foliaceus have a good prognosis if adequately controlled. Paraneoplastic pemphigus — mortality can approach 90%.
-
-## Bullous pemphigoid
-
-- **D:** chronic, acquired autoimmune blistering disease characterised by autoantibodies against hemidesmosomal antigens, resulting in a sub-epidermal blister.
-- **R:** age 60–90, HLA DQB1.
-- **A/P:** autoantibodies against two hemidesmosomal proteins, BP180 and BP230. Infiltration of inflammatory cells → release of proteases → inflammatory mediators; eosinophilic infiltration.
-- **S/Smx:**
-  - Itchy, tense blisters typically around flexures, axillae, groin, abdomen.
-  - Pruritus may precede blistering by 3–4 months.
-  - Blisters heal without scarring.
-  - Mouth is spared (10–50% may have mucosal involvement, but sparing of the mouth is classically the differentiating factor between pemphigus and pemphigoid).
-- **Ix:** skin biopsy — immunofluorescence shows IgG and C3 at the dermo-epidermal junction.
-- **Mx:** refer to dermatology. PO corticosteroids or tacrolimus (apply sparingly to affected areas BD for up to 2 weeks). Also topical corticosteroids, immunosuppressants, antibiotics.
-
-> [!tip] Key distinguishing feature between pemphigus and bullous pemphigoid: pemphigus blisters are flaccid, painful, Nikolsky-positive, with frequent mucosal involvement; bullous pemphigoid blisters are tense, itchy, heal without scarring, and classically spare the mouth.
-
-## Erythema multiforme
-
-> [!note] Gap-filled from CSV ("Erythema multiforme," Low yield) — genuinely absent from the source notes despite classic exam relevance, particularly the target-lesion morphology and the distinction from the SJS/TEN spectrum covered elsewhere in this project.
-
-- **D:** an acute, immune-mediated hypersensitivity reaction causing a characteristic target-lesion rash — genuinely distinct from SJS/TEN (see [[09_01_Dermatology_-_Dermatological_Emergencies]] Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN), not repeated here) despite superficial similarity and historical conflation of the two; erythema multiforme is generally a milder, self-limiting condition with a different typical trigger profile and minimal-to-no mucosal involvement in the minor form.
-- **A/P:** most commonly triggered by infection — **HSV is the most common trigger overall** (a genuinely important distinguishing point from SJS/TEN, which is predominantly drug-triggered), with *Mycoplasma pneumoniae* another recognised infectious trigger; less commonly drug-induced (though this overlaps more with the SJS/TEN differential when it occurs) or idiopathic.
-- **Classification:**
-  - **Erythema multiforme minor:** targetoid skin lesions, no or minimal mucosal involvement, no systemic symptoms.
-  - **Erythema multiforme major:** targetoid skin lesions plus significant mucosal involvement (oral, genital, or ocular) ± mild systemic symptoms — genuinely different from SJS in the pattern and extent of skin detachment (SJS/TEN classification is specifically based on % TBSA epidermal detachment, not mucosal involvement alone — see the SJS/TEN entry for the fuller distinction).
-- **S/Smx:** classic **target ("iris") lesions** — three concentric zones of colour change (a dark/dusky centre, a paler middle ring, and an erythematous outer ring) — typically symmetrical, acral distribution (hands, feet, extensor surfaces) before spreading centripetally; may be preceded by a prodrome of malaise/fever, particularly in the major form; recurrent episodes are common, particularly with HSV-triggered disease (often related to recurrent HSV reactivation, sometimes without an obvious clinical cold sore preceding it).
-- **Ix:** clinical diagnosis, based on the characteristic target-lesion morphology and distribution above — biopsy is reserved for atypical presentations or genuine diagnostic uncertainty (particularly to help distinguish from early SJS/TEN, given the differing prognostic and management implications). Consider screening for the underlying trigger where relevant — HSV PCR/serology if recurrent, *Mycoplasma* serology/PCR if a preceding respiratory illness is reported, and a thorough medication history given the drug-trigger overlap with SJS/TEN.
-- **Mx:**
-  - **Immediate/acute:** supportive care — analgesia, oral care/mouthwashes if mucosal involvement present, antihistamines for pruritus; treat any identified underlying infection (e.g. antivirals for active HSV, though this doesn't reliably prevent the EM episode itself once triggered); admission and closer monitoring for the major form given the greater systemic involvement, though nowhere near the burns-unit-level care SJS/TEN requires.
-  - **Definitive:** the condition is generally self-limiting over 2–4 weeks regardless of specific treatment, so Mx is predominantly symptomatic rather than disease-modifying.
-  - **Chronic/long-term:** for patients with frequent HSV-triggered recurrences, prophylactic suppressive antiviral therapy (e.g. long-term aciclovir) can reduce recurrence frequency — a genuinely useful, actionable long-term strategy distinct from treating an individual acute episode.
-
-## Erythema nodosum
-
-> [!note] Gap-filled from CSV ("Erythema nodosum," Low yield) — genuinely absent from the source notes despite classic exam relevance as a cutaneous marker of systemic disease.
-
-- **D:** a panniculitis (inflammation of subcutaneous fat) presenting as tender, erythematous nodules, most classically on the shins.
-- **A/P:** a delayed-type hypersensitivity reaction to a range of possible triggers rather than a primary skin disease in its own right — making it, similarly to cutaneous vasculitis above, a cutaneous marker that should prompt a search for an underlying cause rather than being treated as a standalone diagnosis.
-- **Causes** (mnemonic-friendly grouping): **infection** (streptococcal — the most common trigger overall, particularly in children — and TB), **inflammatory bowel disease** (both Crohn's and ulcerative colitis — see [[03_Gastrointestinal]] for the disease-level detail, not repeated here), **sarcoidosis** (erythema nodosum + bilateral hilar lymphadenopathy + arthralgia is the classic triad of Löfgren syndrome, an acute presentation of sarcoidosis with a generally good prognosis), **drugs** (sulphonamides, the combined oral contraceptive pill among others), **pregnancy**, and **malignancy** (rarely) — roughly 30–50% remain idiopathic despite investigation.
-- **S/Smx:** tender, erythematous, warm nodules, classically bilateral and symmetrical on the shins (pretibial region); may be preceded by a non-specific prodrome (fever, malaise, arthralgia); lesions evolve in colour over 1–2 weeks similarly to a resolving bruise (red → purple/blue → yellow-green — "bruise-like" colour change is a classically taught distinguishing feature) without ulcerating, in contrast to some other panniculitides.
-- **Ix:** clinical diagnosis in the majority of cases, based on the characteristic tender nodule pattern and colour evolution above — the more important task is **screening for the underlying cause** given erythema nodosum is a reactive marker: throat swab/ASOT (streptococcal association), CXR (screens for both TB and the bilateral hilar lymphadenopathy of sarcoidosis-associated Löfgren syndrome), FBC/ESR/CRP (supports an inflammatory process and can be trended), and consideration of IBD screening (faecal calprotectin, or referral if GI symptoms are present) — the specific work-up should be guided by the clinical context/associated symptoms rather than applied as a blanket panel to everyone. Biopsy is rarely needed given the clinical picture is usually characteristic, reserved for atypical presentations.
-- **Mx:**
-  - **Immediate/acute:** rest, leg elevation, NSAIDs for symptomatic relief — the nodules themselves are generally self-limiting over several weeks regardless of specific treatment.
-  - **Definitive:** treat the identified underlying cause where found (e.g. antibiotics for confirmed streptococcal infection, disease-specific management for IBD or sarcoidosis) — this is the genuinely actionable step, given erythema nodosum itself typically resolves once the trigger is addressed or simply with time.
-  - **Chronic/long-term:** recurrence is possible, particularly with an ongoing or recurrent trigger (e.g. recurrent streptococcal infection, active IBD) — addressing the underlying condition reduces recurrence risk.
-
-## Lichen planus
-
-> [!note] Gap-filled from CSV ("Lichen planus," Low yield) — genuinely absent from the source notes despite classic exam relevance (the "6 Ps" mnemonic and Wickham's striae are frequently tested). See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Lichen planus for the complementary genital-specific presentation (erosive, glazed appearance around the introitus) and the specific vaginal-dilator advice to prevent adhesions/stenosis, not repeated here.
-
-- **D:** a chronic inflammatory condition affecting the skin, mucous membranes, nails, and hair, thought to be T-cell-mediated against basal keratinocytes.
-- **A/P:** the exact trigger is often unclear, but associations include hepatitis C infection (a genuinely important association worth screening for), certain drugs (gold, antimalarials, thiazides, beta-blockers — "drug-induced lichenoid reactions" mimicking true lichen planus), and graft-versus-host disease (a lichen-planus-like eruption is a recognised chronic GVHD manifestation).
-- **S/Smx:** the classic "6 Ps" mnemonic — **P**ruritic, **P**urple, **P**olygonal, **P**lanar (flat-topped), **P**apules, **P**laques — typically on the flexor surfaces of the wrists and forearms, ankles, and lower back; **Wickham's striae** — fine white lines on the surface of lesions, a classic and specific examination finding. **Oral involvement is common** — white, lace-like (reticular) pattern on the buccal mucosa, sometimes the only manifestation. Nail involvement — thinning, ridging, or in severe cases permanent scarring (pterygium formation). Scalp involvement can cause scarring alopecia if untreated.
-- **Ix:** clinical diagnosis in typical presentations, based on the characteristic morphology and Wickham's striae above; skin biopsy if diagnostic uncertainty or atypical presentation, showing a characteristic "saw-tooth" pattern of basal keratinocyte damage with a dense band-like lymphocytic infiltrate at the dermo-epidermal junction on histology. **Screen for hepatitis C** given the recognised association above, particularly in patients with risk factors or oral lichen planus specifically (which has a stronger reported hepatitis C association than cutaneous disease alone).
-- **Mx:**
-  - **Immediate/acute (symptomatic disease):** potent topical corticosteroids first-line for skin lesions — see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Steroid creams for the general potency/duration principles, not repeated here; topical corticosteroids or calcineurin inhibitors for oral disease specifically.
-  - **Definitive:** the condition is often self-limiting over 1–2 years for cutaneous disease, though oral and nail disease can be more persistent/chronic; more extensive or refractory disease may need phototherapy or systemic immunosuppression (e.g. oral corticosteroids, retinoids) under specialist guidance.
-
-> [!note] See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Lichen planus for the **vulvovaginal** form, which differs in ways that change management: it is **painful and erosive** rather than itchy, and it **scars** — so treatment there includes graded dilators to prevent adhesions and stenosis, not topical steroid alone.
-  - **Chronic/long-term:** oral lichen planus specifically carries a small but recognised risk of malignant transformation to oral squamous cell carcinoma, warranting periodic monitoring/review — a genuinely important long-term surveillance point distinct from the generally benign course of cutaneous disease alone.
-
-## Insect bites
-
-- **Local reactions:** local oedema and pain. Spider bites may show one or two small fang marks. Allergic reactions — pain, wheal and flare formation, warmth, pruritus at the site, usually self-limiting and confined. Can be difficult to distinguish between a bite and cellulitis acutely. Delayed allergic reactions are common and can cause permanent skin discolouration.
-
-> [!danger] Systemic reactions — anaphylaxis.
-
-- **History taking:** time course of onset.
-
-> [!tip] Serum sickness — an uncommon delayed reaction, usually ~1 week after envenomation. Fever, myalgias, arthralgias, rash, lymphadenopathy, and headache.
-
-- **Mx:**
-  - Rest, ice, elevate for local pain and swelling.
-  - Clean wound with soap and water.
-  - Fire ant pustules — leave intact; if opened, keep clean and covered.
-  - Assess for tetanus prophylaxis.
-  - Stinger removal — all should be removed as soon as possible; scrape the stinger away with the edge of a plastic ID card.
-  - Medical treatment: corticosteroids, antihistamines, NSAIDs.
-  - Treat secondary infections accordingly.
-- **Other advice:**
-  - If previous anaphylaxis, ensure an EpiPen is carried everywhere and the patient/family know how to use it.
-  - Insect bite or sting can cause redness and itching for ≤10 days — try not to scratch, to prevent secondary infection.
-  - **Prevention:** cover skin, apply DEET, avoid products with strong scents, avoid camping near water, keep food/drink covered outdoors, inspect skin for ticks/bites at the end of the day.
-
-## Non-blanching rashes — approach and differential
-
-> [!warning] FLAG 2026-09-01 — this approach appears three times in this file
-> Here · `G3 §0.1 Approach to the Non-Blanching Rash` · `NEW_Dermatology ## Non-Blanching Rash and
-> Purpuric Rash`. **Pruritus appears twice** (`## Pruritus (Itch)` and `G4 §0.4 Pruritus`) and
-> **alopecia twice** (`## Alopecia (Hair Loss)` and `G5 §0.6 Hair Loss`).
-> All retained; pairs marked, nothing merged.
-
-> [!note] Gap-filled from CSV ("Non-blanching rashes," Medium yield) — genuinely absent as a standalone reasoning framework despite the individual causes being scattered across this project; built here as a DDx/approach entry rather than a single disease, in the same spirit as the STI Ulcers and Diarrhoea DDx tables elsewhere in this project.
-
-> [!danger] The glass test (pressing a clear glass/tumbler against the rash) is the classic bedside test — a rash that does **not** fade under pressure is non-blanching (purpuric/petechial) and, particularly with fever and systemic upset, should prompt urgent consideration of **meningococcal septicaemia** until proven otherwise, given the time-critical nature of that diagnosis. A blanching rash fades under pressure and reflects vasodilation rather than blood outside vessels — a fundamentally different (and generally far less urgent) mechanism.
-
-- **A/P — why a rash doesn't blanch:** non-blanching rashes reflect blood that has extravasated *outside* the blood vessels into the skin (into the dermis), so pressure on the vessel doesn't empty it the way it would with a normal, blood-filled (blanching) vessel — the two broad mechanistic categories are **vessel wall damage/inflammation** (vasculitis — see Cutaneous Vasculitis above) and **clotting/platelet failure** (thrombocytopenia, coagulopathy), with **infection/sepsis** and **trauma** as additional practical categories.
-
-> [!info] Differential by mechanism
-> - **Infection (time-critical):** meningococcal septicaemia (classically a rapidly progressive purpuric/petechial rash with fever, and the diagnosis this entry exists primarily to help recognise promptly — see [[04_Neurology]] Bacterial Meningitis for the fuller disease-level detail, not repeated here), other severe sepsis/DIC.
-> - **Vasculitis:** IgA vasculitis/Henoch-Schönlein purpura (classically palpable purpura on the lower limbs/buttocks in children, ± abdominal pain, arthralgia, renal involvement), other cutaneous vasculitis (see Cutaneous Vasculitis above, not repeated here), ANCA-associated vasculitis.
-> - **Platelet/clotting disorders:** thrombocytopenia (of any cause — immune thrombocytopenia, marrow failure, drug-induced, or **disseminated intravascular coagulation (DIC)** — the consumptive coagulopathy that turns a septic patient's rash purpuric, owned by [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation (DIC)), coagulopathy (anticoagulant therapy, liver disease, haemophilia), von Willebrand disease.
-> - **Trauma/mechanical:** accidental or non-accidental injury (a **non-blanching rash or bruising in a pattern or distribution inconsistent with the reported mechanism, or in a non-mobile infant, should raise safeguarding concerns** — a genuinely important point for both exams and real practice), Valsalva-related petechiae (e.g. from vomiting or coughing, typically confined to the face/neck and of no serious significance).
-> - **Other:** senile purpura (fragile skin/vessels in elderly patients, typically on the forearms from minor trauma — usually benign and expected given the mechanism), scurvy (vitamin C deficiency, causing perifollicular petechiae — rare but classically tested).
-
-- **Key distinguishing features on history/examination:**
-  - **Palpable vs non-palpable purpura** — palpable purpura points toward vasculitis (inflammatory infiltrate in the vessel wall); non-palpable (flat) purpura points toward a platelet/clotting problem (purely extravasated blood without vessel wall inflammation) — the same palpability principle discussed under Cutaneous Vasculitis above.
-  - **Distribution** — dependent areas (legs) for many vasculitides and senile purpura; widespread/petechial with fever for meningococcal septicaemia; face/neck only for benign Valsalva petechiae; pattern-inconsistent-with-history for possible non-accidental injury.
-  - **Associated systemic features** — fever and rapid progression are the red flags that should prompt urgent sepsis work-up and empirical antibiotic treatment without waiting for confirmatory tests, given how quickly meningococcal disease can progress.
-- **Ix:** guided by the differential above rather than a single fixed panel — FBC and coagulation screen (screens for thrombocytopenia/coagulopathy), blood cultures and inflammatory markers if infection/sepsis suspected, and the vasculitis-specific work-up under Cutaneous Vasculitis above if that's the leading differential based on the clinical pattern.
-- **Mx:** entirely dependent on the underlying cause identified above — this entry is a reasoning framework for reaching that diagnosis rather than a single treatment pathway; the only universal point is that **fever plus a rapidly progressive non-blanching rash warrants urgent empirical treatment for possible meningococcal septicaemia** (see [[04_Neurology]] Bacterial Meningitis for the specific AU-verified empirical antibiotic regimen, not repeated here) while the rest of the work-up proceeds in parallel, given the cost of delay in that specific scenario is so high.
-
-> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
->
-> `Skin lesion morphology — reference terms`
->
-> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
-> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
-> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
-
-## Pruritus (Itch) — Generalised and Localised, Approach and Differential
-
-> [!note] Gap-filled from CSV ("Itch (generalised and local)," Medium yield) — genuinely absent as a systematic approach despite pruritus being mentioned as a symptom within several individual disease entries throughout this project (psoriasis, eczema, scabies, PBC). This entry ties the differential together and covers the genuinely important principle that itch without a visible rash needs a different diagnostic approach from itch with one.
-
-**The core organising question: is there a primary skin lesion/rash, or not?** This single distinction reshapes the entire differential and Ix approach, and is the first thing to establish — pruritus with an identifiable dermatological cause is approached very differently from pruritus in the absence of any visible skin disease, where a systemic cause becomes genuinely more likely.
-
-**Localised pruritus** — usually reflects a local dermatological cause: eczema/atopic dermatitis, scabies (classically affects finger webs, wrists, genitals — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Scabies, not repeated here), contact dermatitis (see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Contact Dermatitis (Irritant and Allergic) for the full entry, not repeated here), tinea (see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Tinea / Dermatophyte infections, not repeated here), insect bites (see above, not repeated here), psoriasis, lichen planus (see above, not repeated here); pruritus ani and pruritus vulvae have their own specific differentials (see [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Vaginal discharge — differential diagnosis for the vulval-specific causes, not repeated here).
-
-**Generalised pruritus with a visible rash:** most commonly a primary dermatological condition — eczema, psoriasis, urticaria (see [[09_01_Dermatology_-_Dermatological_Emergencies]] Acute urticaria and angioedema, not repeated here), scabies, drug eruption, or a viral exanthem in the appropriate context (see the Paediatrics viral exanthem entries, not repeated here).
-
-**Generalised pruritus WITHOUT a visible rash — the genuinely important category to actively screen for a systemic cause, given roughly 15–25% of patients presenting this way to a dermatologist have an underlying systemic condition:**
-- **Renal:** chronic kidney disease/uraemic pruritus — genuinely common, affecting well over a third of dialysis patients; often generalised but can be worse on the back.
-- **Hepatic/cholestatic:** pruritus from impaired bile secretion (cholestasis) — a recognised, sometimes debilitating symptom of primary biliary cholangitis specifically (see [[03_Gastrointestinal]] Primary Biliary Cholangitis (PBC), not repeated here, including the existing note there on antihistamines being ineffective for this specific cause) and other cholestatic liver diseases; classically generalised but with a tendency to be worse on the palms and soles (palmoplantar pruritus) — a genuinely useful clue pointing toward a hepatic rather than other systemic cause.
-- **Haematological:** lymphoma (classically associated with itch, though this is often overemphasised as an early cancer sign relative to its actual frequency), polycythaemia vera (see [[10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders]] Polycythaemia vera (PV), not repeated here — classically **aquagenic pruritus**, triggered or worsened by warm water/showering, a genuinely distinctive and specific clue), iron deficiency, other myeloproliferative disorders.
-- **Endocrine/metabolic:** thyroid disease (hyper- or hypothyroidism), diabetes mellitus.
-- **Other:** pregnancy (see the obstetric cholestasis/pruritic rash content elsewhere in this project, not repeated here); psychogenic/psychiatric causes (a genuine diagnosis of exclusion, not a default assumption); medication-induced itch (a worthwhile, easily-overlooked medication-review check); age-related ("senile") pruritus and simple skin dryness (xerosis) — genuinely the most common cause encountered in general practice, and worth considering before extensive systemic work-up in an appropriate low-risk presentation.
-
-**Ix — guided by the presence/absence of a rash and clinical suspicion, not a reflexive standard panel:**
-- If a clear primary dermatological cause is identified on examination, further systemic investigation is generally unnecessary.
-- If no primary skin lesion is found, particularly in a patient with **chronic** pruritus (conventionally >6 weeks), older age, or other concerning features (fever, night sweats, weight loss, fatigue) — screen with FBC, U&Es/creatinine, LFTs, TSH, fasting glucose/HbA1c, and iron studies as a reasonable initial systemic panel; further targeted investigation (e.g. CXR, lymph node assessment) guided by specific findings rather than ordered by default.
-- **Findings suggesting a more likely benign/localised cause** (and therefore a lower threshold to manage symptomatically without extensive work-up): younger age, localised symptoms, acute onset, involvement limited to exposed areas, or a clear association with a sick contact or recent travel/exposure.
-
-**Mx:** treat the underlying cause where identified — not repeated here given this is disease-specific throughout the rest of this project. General symptomatic measures for pruritus regardless of cause: emollients and avoiding skin-drying triggers (hot showers, harsh soaps — genuinely relevant advice even for aquagenic pruritus specifically), sedating antihistamines may help with sleep disruption from itching (though have limited evidence for the itch itself in many non-histamine-mediated causes, e.g. **antihistamines are specifically ineffective for cholestatic/PBC-related pruritus**, already established in [[03_Gastrointestinal]], not repeated here — a useful example of why "itch = give an antihistamine" isn't a universal answer), and addressing the itch-scratch cycle (similar principle to lichen simplex chronicus management established elsewhere in this project, not repeated here) given scratching itself perpetuates and worsens pruritus regardless of the underlying cause.
-
----
-
-## Alopecia (Hair Loss) — Approach and Differential
-
-> [!note] Gap-filled from a High-yield combined CSV row ("hair and nail diseases," filed under Gastroenterology & Hepatology in the source spreadsheet, but genuinely a Dermatology topic) — alopecia was previously only mentioned in passing as a complication within Tinea capitis and Lichen planus, never built as its own condition.
-
-**The core organising distinction, exactly analogous to the primary-lesion-present-or-absent principle for pruritus above: is the hair loss scarring (cicatricial) or non-scarring (non-cicatricial)?** This single distinction is the most important branch point, since scarring alopecia reflects permanent follicular destruction (hair will not regrow even with treatment of the underlying cause) while non-scarring alopecia has a fundamentally better prognosis for regrowth if the cause is identified and addressed.
-
-> [!danger] Scarring alopecia is comparatively rare but is the presentation that most warrants specialist referral and biopsy — **discoid lupus erythematosus is the most common cause** and should be actively considered, particularly given non-scarring, patchy alopecia can itself very rarely be a presenting feature of SLE (added to the 2012 SLICC and 2019 EULAR/ACR SLE classification criteria) — a genuinely easy diagnosis to miss if hair loss is assumed to be simple alopecia areata without considering the broader autoimmune context, particularly in a young woman with other subtle systemic features.
-
-**Non-scarring alopecia — the large majority of presentations, further divided by pattern:**
-- **Diffuse hair thinning:**
-  - **Androgenetic alopecia (male- or female-pattern hair loss):** the most common cause of gradual, patterned hair thinning — temporal recession and vertex thinning in men, more diffuse crown thinning with a preserved frontal hairline in women; genetic and hormonally mediated. **Mx:** topical minoxidil (both sexes); oral finasteride is an option in men specifically (5α-reductase inhibitor, reducing conversion of testosterone to the more follicle-active DHT) — genuinely a chronic, ongoing treatment, given effect is lost on stopping.
-  - **Telogen effluvium:** diffuse, often acute-onset hair *shedding* (rather than thinning at a fixed pattern) following a significant physiological stressor 2–3 months prior — illness, surgery, significant psychological stress, childbirth, rapid weight loss, or a new medication — reflecting a disruption of the normal hair growth cycle (a larger-than-usual proportion of follicles shifting simultaneously from the growing/anagen phase into the resting/telogen phase, then shedding together). **Genuinely important to actively ask about the preceding few months, since the trigger event is often not volunteered spontaneously** and connecting it to the hair loss provides significant reassurance. **Mx:** address any identifiable underlying trigger where present; reassurance that acute telogen effluvium is self-limiting and spontaneously reversible, though regrowth can take up to 6 months to become apparent — a genuinely important point to set expectations, given the delay between stopping the shedding and visible improvement.
-- **Patchy/focal hair loss:**
-  - **Alopecia areata:** well-demarcated, typically oval patches of hair loss, often affecting the scalp but potentially any hair-bearing area — an autoimmune process, most commonly presenting in children and young adults. **"Exclamation mark hairs"** (short hairs, narrower at the base than the tip) at the margin of an active patch are a classic examination finding. **Mx:** many mild/limited cases resolve spontaneously without treatment; intralesional or topical corticosteroids for more extensive/persistent patches; referral to dermatology for extensive disease (alopecia totalis/universalis) given specialist immunomodulatory treatment options exist.
-  - **Traction alopecia:** hair loss from prolonged mechanical tension (tight hairstyles, braiding, extensions) — typically at the hairline/temporal margins, following the pattern of the causative style; **Mx:** removing the causative tension is the key step, and is genuinely reversible if addressed early, before the tension has caused enough follicular damage to become a scarring process.
-  - **Tinea capitis:** see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Tinea capitis for the full entry, not repeated here — a genuinely important differential in a child with patchy scalp hair loss, particularly given the specific antifungal Mx required (topical treatment alone is ineffective).
-  - **Trichotillomania:** hair loss from compulsive hair-pulling, often producing irregular patches with hairs of differing lengths (rather than the clean, uniform patches of alopecia areata) — a behavioural/psychological condition worth holding in mind as a differential, approached sensitively rather than assumed on first presentation.
-
-**Ix:** primarily clinical, based on the pattern (diffuse vs patchy) and distribution above; scalp examination for scarring vs non-scarring change, and for exclamation mark hairs or other pattern-specific features. Bloods where a systemic cause for diffuse thinning/telogen effluvium is suspected but no clear trigger is identified — TFTs, iron studies/ferritin, and consideration of the broader autoimmune screen where SLE or another connective tissue disease is suspected per the scarring-alopecia caution above. Scalp biopsy reserved for scarring alopecia or genuine diagnostic uncertainty, given the majority of non-scarring presentations are diagnosed clinically.
-
----
-
-## Epidermoid (Sebaceous) Cyst
-
-> [!note] Gap-filled from the same combined CSV row as Alopecia above — previously only mentioned in passing as part of a neck-lump differential (see [[13_07a_ENT_-_Neck_Lumps]], not repeated here), never built as its own entry.
-
-- **D:** a common benign subcutaneous cyst, filled with keratin debris, arising from the hair follicle infundibulum (a more accurate term than "sebaceous cyst," given true sebaceous gland-derived cysts are comparatively rare — but "sebaceous cyst" remains the more commonly used lay/clinical term in practice).
-- **S/Smx:** a firm, mobile, slow-growing subcutaneous nodule, often with a visible central punctum (a small overlying pore) — a genuinely useful distinguishing examination finding from a lipoma, which characteristically lacks a punctum and tends to feel softer/more lobulated. Can occur anywhere with hair-bearing skin, commonly the face, neck, scalp, and trunk.
-- **Complications:** infection/abscess formation (the cyst becomes acutely red, tender, and swollen — see [[08_09_Infectious_Disease_-_Miscellaneous]] Cellulitis for the general skin/soft tissue infection Mx principles this draws on, not repeated here); rupture, releasing the keratinous contents into surrounding tissue and provoking a marked local inflammatory reaction (which can look alarming and be mistaken for infection even in the absence of true bacterial involvement).
-- **Ix:** clinical diagnosis; imaging/biopsy not routinely required for a typical, asymptomatic presentation.
-- **Mx:** asymptomatic cysts can reasonably be left alone if the patient isn't bothered by them; **surgical excision (removing the cyst wall in its entirety) is curative and is the definitive treatment for a symptomatic or cosmetically bothersome cyst** — genuinely important that the *entire cyst wall* is removed, given incomplete excision (or simple incision and drainage of the contents alone) leaves the wall behind and the cyst will predictably recur. An acutely infected cyst is generally treated first with incision and drainage (± antibiotics per the cellulitis Mx principles above) to settle the acute infection, with formal excision of the residual cyst wall deferred until the inflammation has resolved, given attempting complete excision through acutely inflamed tissue is technically harder and carries a higher recurrence/complication risk.
-
----
-
-> [!note] Neurocutaneous syndromes with genuinely dermatology-relevant skin findings (café-au-lait spots, axillary/groin freckling, and peripheral neurofibromas in Neurofibromatosis; ash-leaf hypopigmented macules, Shagreen patches, and adenoma sebaceum in Tuberous Sclerosis) are built in [[04_Neurology]] Neurofibromatosis and Tuberous Sclerosis, not repeated here — housed there given the neurological content dominates each condition, but flagged here given a dermatology-focused search for these classic skin signs would otherwise miss them.
-
-
 <!-- ===== SOURCE: G1_Acute_Rash_and_Erythema.md ===== -->
 
 
@@ -1239,6 +178,304 @@
 
 > [!note] Cross-references
 > Blistering disease and erythroderma → [[G2]] · Purpura and vasculitis → [[G3]] · Eczema, psoriasis and chronic dermatoses → [[G4]] · Skin cancer and the suspicious lesion → [[G5]] · Meningococcal disease and sepsis → [[F0.3]] 0.9 · Necrotising fasciitis, scabies and skin infection → [[K2]] 0.2, 0.6 · Urticaria, angioedema and anaphylaxis → [[K4]] 0.1 · Drug allergy and delabelling → [[K4]] 0.3 · HIV, syphilis and STI testing → [[K3]] 0.5 and [[O6]] 0.1–0.2 · Rickettsial infection and the returned traveller → [[K1]] 0.4 · Paediatric exanthems and Kawasaki disease → [[M2]] 0.5 · Parvovirus and aplastic crisis → [[J2]] 0.1 · Herpes zoster ophthalmicus → [[E1]] · Ramsay Hunt and facial palsy → [[D5]] and [[F1]] · The swollen leg and DVT → [[B6]] 0.4 and [[J3]] 0.4 · Gout → [[L1]] 0.3 · Inflammatory breast cancer → [[O7]] 0.4 · HLA testing before allopurinol → [[L1]] 0.3 · Notifiable diseases → [[PH1]] 0.6
+
+
+<!-- ===== SOURCE: 09_01_Dermatology_-_Dermatological_Emergencies.md ===== -->
+
+
+## Anaphylaxis
+
+> [!note] Gap-filled — despite being referenced across 9 different files throughout this project (Insect bites, blood transfusion reactions, hereditary angioedema differential, anaesthetic emergencies, ABCDE assessment), anaphylaxis had never been built as its own dedicated entry. Given its close relationship to the urticaria/angioedema entry above, it's built here rather than elsewhere, with other files' brief mentions left as appropriate cross-references rather than duplicated content.
+
+> [!info] Verified against the current ASCIA (Australasian Society of Clinical Immunology and Allergy) Guidelines for Acute Management of Anaphylaxis (updated 2026) and the Australian Commission on Safety and Quality in Health Care's Acute Anaphylaxis Clinical Care Standard, Aug 2026 — ASCIA is genuinely the Australian- and New Zealand-specific peak body for this exact guideline, so this entry is built directly from the current Australian primary source rather than adapted from elsewhere.
+
+- **D:** a potentially life-threatening systemic allergic reaction, usually rapid in onset, involving typical skin features (urticarial rash, erythema/flushing, and/or angioedema — see Acute urticaria and angioedema below for the disease-level detail on these individual features, not repeated here) **plus** respiratory and/or cardiovascular and/or persistent severe gastrointestinal involvement — or, separately, any acute-onset hypotension, bronchospasm, or upper airway obstruction where anaphylaxis is considered possible, **even if typical skin features are absent** — a genuinely important point, since waiting for a rash to appear before considering anaphylaxis can delay recognition in a presentation without skin involvement.
+- **A/P:** usually IgE-mediated mast cell/basophil degranulation triggered by an allergen (food, drug, insect venom, latex among others), though non-IgE-mediated mechanisms exist too; the clinical picture reflects the downstream effects of mediator release (histamine and others) — vasodilation and increased vascular permeability (hypotension, angioedema), bronchospasm, and increased mucus secretion.
+- **S/Smx:** rapid onset (typically minutes, though can be delayed depending on the trigger and route of exposure) of urticaria/flushing/angioedema **plus** one or more of: respiratory (stridor, wheeze, dyspnoea, throat/chest tightness), cardiovascular (hypotension, dizziness, collapse — **persistent dizziness or collapse reflects hypotension and is a genuine red flag**, given a BP drop typically occurs relatively late in the process), or persistent severe GI symptoms (vomiting, abdominal pain). **In infants specifically**, additional/atypical signs include drooling, irritability/clinginess, persistent crying, somnolence, hypotonia, and mottled skin — a genuinely different presentation pattern worth knowing given infants can't verbally report symptoms like throat tightness. **In children, persistent tachycardia is typically the first sign of cardiovascular compromise**, with hypotension a later finding — though tachycardia alone is non-specific (also caused by crying, fever, pain, or as a side effect of adrenaline itself), so it should prompt closer monitoring rather than being diagnostic on its own.
+- **Ix:** anaphylaxis is a **clinical diagnosis made and treated immediately, without waiting for any test result** — this is the single most important practical point, given delaying adrenaline to "confirm" the diagnosis is a recognised, avoidable cause of poor outcomes. Serum tryptase (if taken, ideally within 1–2 hours of symptom onset, with a further sample later for comparison) can retrospectively support the diagnosis and is sometimes used where the diagnosis is unclear in retrospect, but has no role in the acute treatment decision. Skin prick testing/specific IgE testing are relevant later, as part of allergy work-up to identify the specific trigger, not during the acute episode.
+- **Mx:**
+  - **Immediate/acute:** **IM adrenaline into the mid-anterolateral thigh, given immediately on diagnosis or strong suspicion, before any other treatment** — this is the single highest-yield practical point in the entire entry, given adrenaline is first-line and should never be delayed for antihistamines, corticosteroids, or nebulised bronchodilators, none of which treat the underlying anaphylactic process. Subcutaneous or inhaled adrenaline routes are **not** recommended, given they're less effective than IM. **Lay flat (or in the position of comfort if breathing difficulty predominates) rather than upright** — an upright posture is a specifically recognised risk factor for fatal reactions, given it can precipitate or worsen hypotension-related collapse (the same principle as avoiding sudden standing in any hypotensive patient, but specifically flagged as important in anaphylaxis given how quickly it can be fatal). High-flow oxygen; IV fluid bolus for hypotension; call for help early given the potential for rapid deterioration — see the ABCDE Assessment entry in [[Examination]] for the general systematic approach this fits into, not repeated here.
+> [!danger] **IM adrenaline dose (ASCIA) — 1:1000, outer mid-thigh, 0.01 mg/kg up to a maximum of 0.5 mg.**
+>
+> | Dose | Applies to |
+> |---|---|
+> | **0.1–0.15 mg** (0.1–0.15 mL) | **<7.5 kg / <6 months** |
+> | **0.15 mg** (0.15 mL) | 7.5–20 kg **and** ≤5 years |
+> | **0.3 mg** (0.3 mL) | >20 kg **and** ≥5 years |
+> | **0.5 mg** (0.5 mL) | >50 kg **and** ≥12 years — **the adult dose** |
+>
+> **Note these are weight *and* age criteria together, not age bands.** Older teaching used a simple three-tier age split (6 months–6 years / 6–12 years / >12 years); current ASCIA guidance is weight-led with an age qualifier, and a small 13-year-old or a large 4-year-old is dosed on the combination rather than on birthday alone.
+>
+> **The <7.5 kg row was added during the dose-table unit-and-progression sweep (2026-08-29): the table stopped at 7.5 kg, so a reader following the pointer here for an infant reached a table that did not cover them.** The figure is the one the corpus already held in [[01_Cardiovascular]] Shock (the **Anaphylactic shock** sub-entry); note it sits above what this box's own **0.01 mg/kg** rule would give for a <7.5 kg infant (<75 mcg), because a minimum practical volume is drawn rather than a strictly weight-calculated one — **the exact Australian figure for this band is unverified against ASCIA** (see `PENDING_GUIDELINE_CHECKS.md` **B50**).
+>
+> **This box was added during the L3 seam audit (2026-08-29) because the number was not here.** [[15_01b_Paeds_-_Anaphylaxis]] pointed to *this* entry "for the exact current thresholds already verified there" and this entry carried no dose at all — a circular cross-reference, for the most time-critical drug dose in the corpus, between two entries that were both individually ASCIA-verified. See `PENDING_GUIDELINE_CHECKS.md` **B43**.
+
+> [!danger] **DO NOT "RECONCILE" THE `<7.5 kg` ROW IN THE TABLE ABOVE AGAINST THE `0.01 mg/kg` RULE IN ITS HEADING. THEY DISAGREE ON PURPOSE AND THE ROW IS CORRECT.**
+>
+> The heading of the box above states `0.01 mg/kg`. For an infant under 7.5 kg that formula
+> gives **under 75 microgram**. The first row of the table says **100–150 microgram**. **The
+> row is higher than the formula deliberately:** a minimum practical volume is drawn rather
+> than a strictly weight-calculated one, because 0.05 mL cannot be drawn or given reliably
+> from a 1 mL ampoule under time pressure.
+>
+> **It is the one row a consistency check will flag, and the one row that must not be
+> removed.** It is this corpus's only adrenaline dosing for an infant. It was added on
+> 2026-08-29 **because it was missing**: the table stopped at 7.5 kg, so a reader following a
+> pointer here for an infant reached a table that did not cover them. Deleting it as an
+> internal inconsistency restores that defect exactly — and **nothing downstream detects it**,
+> because the table would still look complete and self-consistent, simply with no row for the
+> smallest patients.
+>
+> **If this table is ever merged with another copy, this row is the thing to check survived.**
+> The copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and in `NEW_Drugs_01 §0.5` (Emergency) do
+> **not** carry it — both begin at 7.5 kg — so a merge that takes either as canonical loses it
+> silently. See `_meta/flags/_RULE5_FIGURES.md`, ranked first of the five items most at risk.
+>
+> **What is unverified here is the figure, not the principle.** The 0.1–0.15 mg value came
+> from `[[01_Cardiovascular]]` Shock (the Anaphylactic shock sub-entry) and has **not** been
+> checked against ASCIA — `PENDING_GUIDELINE_CHECKS.md` **B50**.
+> **The band-set defect this row fixed is tracked as a class at B67**, with a second instance
+> (the EZ-IO needle bands, `B66`) found on 2026-09-01.
+> `UNVERIFIED — the <7.5 kg / <6 months IM adrenaline dose, per the ASCIA Acute Management of Anaphylaxis dose table.`
+> **That is a reason to verify it. It is never a reason to delete it.**
+>
+> **A SECOND copy of this row exists**, at `[[01_Cardiovascular]] §0.20.3 Distributive shock` — filed under *shock*, not under *anaphylaxis*, which is why the rule-5 inventory missed it until 2026-09-01. It is marked there. **Two copies, both needed, neither to be deleted.**
+
+  - **Definitive:** repeat IM adrenaline every 5 minutes if inadequate response — most episodes respond to one or two doses; **refractory anaphylaxis** (inadequate response to repeated IM doses) may require a peripheral IV adrenaline infusion under specialist/critical care guidance, a distinct escalation pathway from standard IM dosing. Antihistamines and corticosteroids may be given as adjuncts once adrenaline has been given, but **never as a substitute for, or before, adrenaline** — a genuinely common and important error to avoid.
+  - **Chronic/long-term:** clinical observation for **at least 4 hours after the last adrenaline dose**, given adrenaline's short duration of action means symptoms can recur as it wears off (biphasic reactions are a recognised phenomenon); prescribe an adrenaline injector at discharge for patients at risk of re-exposure (weight-based dosing: 150mcg for 7.5–20kg, 300mcg for ≥20kg, 300mcg or 500mcg from around 12 years old/>50kg — genuinely specific, current ASCIA-recommended thresholds); provide a written ASCIA Action Plan for Anaphylaxis with device-specific instructions, given patients/carers need to be trained on the specific device prescribed; allergen identification and avoidance advice; referral to an allergy/immunology specialist for confirmatory testing and ongoing management, particularly for children or where the trigger isn't already clearly known.
+
+> [!note] See [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific overnight-observation criteria (severe/refractory reaction, history of biphasic reaction, concomitant illness, late-evening presentation) that refine the 4-hour minimum above for children specifically, not repeated here.
+
+## Acute urticaria and angioedema
+
+> [!warning] FLAG 2026-09-01 — TWO-WAY DISAGREEMENT: neither file owns this
+> **`Infectious Disease_merged K4 §0.6 Urticaria, Angioedema and Mast Cell Disorders` covers the same
+> topic** — and **`Derm_merged.md:2242`, in this file, routes readers AWAY from here**, saying
+> *"Urticaria, anaphylaxis and drug reaction labelling → [[K4]] 0.2–0.3"*.
+> **So this file points at ID for content this file also holds, and ID holds it without pointing back.**
+> `Heme Onc_merged 10_09b ## Hereditary angioedema` is a third treatment, and
+> `Emergency F0-1 §0.9` and `NEW_Drugs_01` hold the anaphylaxis half.
+> ⚠️ **Neither end is authoritative. Content left where it is; both ends flagged; NOT resolved.**
+
+- **D:** urticaria (hives) is a skin condition characterised by erythematous, blanching, oedematous, non-painful, pruritic lesions that typically resolve within 24 hours and leave no residual markings. Angio-oedema is a sudden, pronounced swelling of the subdermis or mucous membranes.
+- **A/P:** usually allergic, IgE-mediated or mast cell degranulation. Most common allergens are drugs and foods.
+- **R:** positive family history, exposure to food/drug trigger, recent viral infection, recent insect bite/sting.
+- **Ix:** bloods (FBC, ESR, CRP, C4 level), others as indicated e.g. skin prick test.
+- **Mx:**
+  - If anaphylaxis is present (see Anaphylaxis above for the full definition and management, not repeated here): treat as anaphylaxis immediately.
+  - Allergen identification and avoidance.
+  - Investigate for an underlying disorder.
+  - 2nd generation antihistamine.
+  - Refer to dermatologist if necessary; advise on reducing scratching.
+
+> [!info] Erythroderma is defined as ≥95% of skin surface involved (a common endpoint of several severe dermatoses, not a diagnosis itself).
+
+## Cutaneous Drug Eruptions (Overview and Spectrum)
+
+> [!note] Gap-filled — drug eruptions were completely absent from this project despite being frequently mentioned as a differential elsewhere (e.g. within [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Contact Dermatitis (Irritant and Allergic) and the Pruritus differential in [[09_08_Dermatology_-_Miscellaneous]]), and despite SJS/TEN below being one of the most severe forms on this same spectrum. This entry gives the overview and the milder end of the spectrum; SJS/TEN below covers the most severe end in full detail.
+
+**The core principle: drug eruptions span a genuine spectrum from benign and self-limiting to life-threatening**, and recognising which end of the spectrum a given presentation sits on is the most important clinical skill here — not simply recognising "this is a drug rash."
+
+**A careful, complete medication history is the essential first diagnostic step** — prescription drugs, over-the-counter medications, supplements, recent contrast administration, and any recent dose changes; **timing from drug initiation to rash onset is genuinely high-yield and differs meaningfully by reaction type**, making it one of the most useful discriminating features:
+- **Urticaria/anaphylaxis:** minutes to hours after exposure (see Anaphylaxis and Acute urticaria and angioedema above, not repeated here).
+- **Morbilliform (maculopapular) exanthem:** typically 7–14 days after starting a new drug — genuinely the most common drug eruption, accounting for up to ~95% of cutaneous reactions with an identified causative drug.
+- **Fixed drug eruption (FDE):** recurs at the **same anatomical site** with each re-exposure to the causative drug — a genuinely distinctive and diagnostic feature; typically appears within 48 hours of re-exposure. Presents as well-demarcated erythematous-to-violaceous patches, sometimes with central blistering, healing with residual post-inflammatory hyperpigmentation. Common culprits: sulfonamides (including trimethoprim-sulfamethoxazole), NSAIDs, tetracyclines, and other antibiotics. A rare, severe variant — **generalised bullous fixed drug eruption (GBFDE)** — covers a large body surface area and can be life-threatening, clinically resembling SJS/TEN below.
+- **DRESS syndrome (drug reaction with eosinophilia and systemic symptoms) and SJS/TEN:** both genuinely delayed, typically **2–8 weeks** after drug exposure — a much longer latency than the morbilliform exanthem above, and worth knowing specifically because a patient presenting with a severe reaction weeks after starting a medication may not spontaneously connect the two given how much time has passed.
+
+**Morbilliform (maculopapular) drug exanthem:**
+- **S/Smx:** widespread erythematous macules and papules, typically starting on the trunk and spreading, often pruritic; may be accompanied by mild fever.
+- **Mx:** supportive — the causative drug should be identified and stopped where possible; oral antihistamines and mild topical corticosteroids/emollients for symptomatic relief; the eruption is generally self-limiting once the drug is stopped. **A genuinely important safety principle: all patients with a morbilliform eruption should be actively monitored for mucous membrane involvement, blistering, or skin sloughing** — the presence of any of these features is what distinguishes a benign morbilliform exanthem from early SJS/TEN or DRESS, and should prompt urgent escalation rather than continued reassurance.
+
+**DRESS syndrome (drug reaction with eosinophilia and systemic symptoms):**
+- **D:** a severe, delayed hypersensitivity drug reaction with a genuinely distinct clinical course from a simple exanthem — **fever, facial oedema, a morbilliform/maculopapular rash with scaling, and systemic organ involvement**, occurring 2–8 weeks after starting the causative drug.
+- **S/Smx:** the clinical course classically follows a sequence — fever first, then progressive organ involvement (most commonly hepatitis, but also interstitial nephritis, pancreatitis, myocarditis, or pneumonitis depending on the case), followed by the characteristic combination of prominent eosinophilia, lymphadenopathy, atypical circulating leukocytes, and the cutaneous eruption itself. Facial oedema is a genuinely distinctive early clue. **The "oblique earlobe crease sign" has been specifically described as a discriminating feature of DRESS versus other morbilliform eruptions** — a curiosity worth knowing given how few reliable bedside signs exist to separate the causes of a morbilliform rash. Common culprits: anticonvulsants (particularly aromatic ones), allopurinol, sulfonamides, and antibiotics.
+- **Mx:** identify and stop the causative drug immediately; admission for supportive care and monitoring of the affected organ systems (given the organ involvement, rather than the skin findings alone, drives most of the morbidity/mortality); systemic corticosteroids are commonly used for significant organ involvement, though this is a specialist-guided decision given the evidence base is less robust than for some other severe drug reactions.
+- **P:** a genuinely serious condition — DRESS carries meaningful mortality (largely driven by the organ involvement, particularly fulminant hepatitis), and recovery can be prolonged with a risk of relapse even after the causative drug is stopped, given the reaction can continue evolving for some time.
+
+**Other drug eruption patterns worth knowing exist** (not detailed further here, given lower individual yield): acute generalised exanthematous pustulosis (AGEP — widespread sterile pustules, typically rapid onset within days of the causative drug, most commonly antibiotics); photosensitivity reactions and drug-induced pigmentary changes; drug-induced lichenoid and vasculitic eruptions.
+
+## Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN)
+
+- **D:** SJS is a severe skin detachment disorder with mucocutaneous complications.
+
+> [!info] Classification by total body surface area (TBSA) involvement
+> - SJS: <10% TBSA
+> - SJS/TEN overlap: 10–30% TBSA
+> - TEN: >30% TBSA
+
+- **R:** active cancer, drugs (anticonvulsants, antibiotics, etc), recent infection, SLE, HIV, radiotherapy, HLA and genetic predisposition, smallpox vaccination.
+- **A/P:** detachment of the epidermis from the papillary dermis at the epidermal-dermal junction, manifesting as a papulomacular rash and bullae as a result of keratinocyte apoptosis.
+
+> [!info] Gap-filled — "HLA and genetic predisposition" was stated without any specifics, despite this being a genuinely testable and clinically actionable point. **The immunological mechanism**: SJS/TEN is a **type IV (delayed) hypersensitivity reaction** — the causative drug (or its metabolite) binds to a specific **HLA (human leukocyte antigen)** class I molecule on antigen-presenting cells, and this drug-HLA complex is recognised by cytotoxic CD8+ T-cells as foreign, triggering a cytotoxic immune response against keratinocytes (via Fas-FasL interaction and granulysin release) — this is the actual process underlying the "keratinocyte apoptosis" already noted above, not a separate mechanism.
+> **A specific, genuinely important drug-HLA pairing: allopurinol and HLA-B*58:01.** Allopurinol is one of the most frequently implicated drugs in SJS/TEN overall (in some case series, the single most commonly identified causative drug), and this risk is strongly concentrated in patients carrying HLA-B*58:01 — an allele with meaningfully higher frequency in some Asian populations (particularly Han Chinese and Thai) than in the general Australian population, though it isn't absent in other backgrounds. This is genuinely relevant given allopurinol's role as first-line urate-lowering therapy for gout already established elsewhere in this project (see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Gout, not repeated here) — there is genuine, current Australian clinical discussion (RACGP) about the case for limited/targeted HLA-B*58:01 screening before starting allopurinol in patients from higher-risk ethnic backgrounds, rather than universal screening for every patient starting the drug — check current local guidance given this remains an evolving area of practice.
+
+- **S/Smx:**
+  - Rash — maculopapular (widespread) + target lesions; may develop into vesicles or bullae.
+  - Nikolsky's sign — blisters and erosions appear when skin is rubbed gently.
+  - Mucosal involvement.
+  - Systemic symptoms: fever, arthralgia.
+- **Ix:** skin biopsy is key to diagnosis; blood cultures to rule out toxic shock and scalded skin syndromes; FBC, blood glucose, U&Es (incl Mg, PO4, bicarb), ESR, CRP, LFT; ABG; CXR; coagulation studies (rule out DIC); skin swab for secondary infection.
+- **Mx:** admit ± burns unit/ICU. Find and remove the causative agent. Supportive care + careful wound care (treat as a 2nd degree burn). Fluid management, pain management.
+- **P:** worse if >50 years old, high TBSA, not managed in a burns centre, sepsis + antibiotic use, pulmonary issues. Higher mortality in children also.
+
+## Necrotising fasciitis
+
+> [!note] Full entry consolidated into [[08_09_Infectious_Disease_-_Miscellaneous]] Necrotising fasciitis, not duplicated here — that entry now incorporates the classification, red-flag features, finger test, and Ix/Mx detail from both this file's original content and the Infectious Disease file's, merged into a single authoritative version. Cross-referenced here as this is also a dermatological emergency in its own right, but kept as a single-source entry to avoid drift between two independently-maintained copies of the same disease.
+
+## Eczema herpeticum
+
+> [!note] See [[08_05-06_Infectious_Disease_-_Viral_Infections]] Herpes simplex virus (HSV) for the general oral/genital HSV entry, not repeated here — this is a clinically distinct presentation (disseminated HSV superimposed on pre-existing eczema, a genuine dermatological emergency), not a variant of the general entry.
+
+- **D:** disseminated HSV-1 or HSV-2 infection characterised by fever and clusters of itchy blisters or punched-out erosions.
+- **A/P:** HSV-1/2 infection superimposed on a pre-existing skin condition, most commonly in infants and children with atopic dermatitis (due to impaired skin immunity).
+- **S/Smx:**
+  - Clusters of itchy and painful blisters, most commonly on face/neck.
+  - New patches form and spread over 7–10 days, rarely widely disseminated.
+  - Associated with fever, swollen lymph nodes, malaise.
+  - Blisters are monomorphic ± filled with clear yellow fluid or thick purulent material ± blood stained.
+  - Blisters may weep or bleed, then crust and form sores; may leave long-term scars.
+- **Ix:** swab — serology, PCR or MC&S; ± skin biopsy.
+- **Mx:** aciclovir PO 400–800mg 5×/day for 10–14 days or until lesions heal. If patient is severely unwell, IV aciclovir. Secondary bacterial infection — antibiotics. Topical steroids are not recommended. Refer to ophthalmologist if ocular involvement.
+
+## Staph scalded skin syndrome (SSSS)
+
+- **D:** severe, superficial blistering skin disorder characterised by detachment of the epidermis due to exotoxin release from *Staph aureus*.
+- **R:** <5 years old (peak 2–3 years), reduced immunity.
+- **A/P:** toxigenic *S. aureus* produces exfoliative toxins A and B which bind to desmosomes in the epidermis → desmoglein-1 is broken down → epidermis detaches → blistering.
+
+> [!tip] Desmoglein-1 is NOT present in mucosa, so mucosa is spared in SSSS — this helps distinguish it from SJS/TEN and pemphigus, both of which do involve mucosa.
+
+- **S/Smx:**
+  - Usually starts with non-specific symptoms in children — fever, generally unwell.
+  - Red rash with wrinkled, tissue- or paper-like consistency.
+  - Formation of large fluid-filled blisters (can be cloudy or contain pus).
+  - Blisters rupture easily → skin peels off in large sheets → "burned" appearance.
+  - Nikolsky's sign positive.
+- **Ix:** clinical diagnosis. Skin and wound swabs (MC&S). Blood cultures if sepsis. Skin biopsy if concerned about other diagnoses.
+- **Mx:** admit. IV antibiotics e.g. flucloxacillin, ceftriaxone. Supportive: IV fluids, pain relief, skin care (gentle washing with soap substitute, apply emollients, burn dressings if needed).
+- **Complications:** scarring, hypothermia, hypovolaemia/electrolyte abnormalities, secondary infections (sepsis, cellulitis, pneumonia), renal failure.
+- **P:** if treated promptly, should resolve within 2 weeks.
+
+## Cutaneous vasculitis
+
+- **D:** cutaneous manifestation of vasculitic disorders — inflammation of blood vessels within the skin, ranging from a purely skin-limited process to the cutaneous manifestation of a systemic vasculitis.
+- **A/P:** immune complex deposition in small dermal vessels (leukocytoclastic vasculitis is the most common histological pattern) → vessel wall inflammation and damage → extravasation of red cells into the skin (purpura) and, in more severe cases, tissue ischaemia/necrosis. Causes span infection (post-streptococcal, hepatitis B/C), drugs (a common and important cause — antibiotics, NSAIDs, allopurinol among others), malignancy (paraneoplastic), and primary systemic vasculitides (e.g. IgA vasculitis/Henoch-Schönlein purpura, ANCA-associated vasculitis, cryoglobulinaemia) — roughly half of cases remain idiopathic despite investigation.
+- **S/Smx:** purpura (± palpable — palpability is a classically taught distinguishing feature of vasculitic purpura from other causes of purpura like thrombocytopenia, since it reflects the inflammatory infiltrate within the vessel wall rather than purely extravasated blood), typically on dependent areas (lower limbs); may progress to vesicles, haemorrhagic bullae, or ulceration in more severe cases. **Systemic features and their pattern are the key differentiator between skin-limited and systemic disease** — fever, arthralgia, abdominal pain, haematuria/renal impairment, or peripheral neuropathy should prompt urgent work-up for an underlying systemic vasculitis rather than assuming a purely cutaneous process.
+- **Ix:** skin biopsy with direct immunofluorescence (*why:* confirms the vasculitic diagnosis histologically and can identify the specific immune complex deposited (e.g. IgA deposition supports IgA vasculitis/HSP), directly informing which systemic work-up to pursue; *what:* leukocytic infiltration and fibrinoid necrosis of vessel walls on histology, with the specific immunofluorescence pattern narrowing the differential). Urinalysis (*why:* screens for renal involvement — a critical test given renal vasculitis can be asymptomatic early and carries significant long-term morbidity if missed, particularly relevant given IgA vasculitis/HSP's known renal association; *what:* haematuria or proteinuria would indicate renal involvement requiring nephrology input). Bloods — FBC, U&Es, LFTs, ESR/CRP, ANCA, complement levels, hepatitis B/C serology, cryoglobulins (*why:* screens for the underlying systemic cause/association per the aetiology list above, directly guiding whether this is skin-limited or the cutaneous manifestation of a systemic disease needing its own specific management; *what:* positive ANCA supports ANCA-associated vasculitis, low complement supports immune-complex-mediated disease, positive cryoglobulins support cryoglobulinaemic vasculitis). Medication review (*why:* drug-induced vasculitis is common and the single most actionable step — stopping the causative drug can be curative; *what:* identifies a temporally-associated new medication as the likely trigger).
+- **Mx:**
+  - **Immediate/acute:** identify and stop any causative drug where relevant, given this is often the single most effective intervention; treat any identified underlying infection.
+  - **Definitive:** for skin-limited disease — supportive care (rest, leg elevation, compression), NSAIDs for symptomatic relief; for more severe or systemic disease — corticosteroids ± steroid-sparing immunosuppressants (DMARDs, e.g. azathioprine, methotrexate, or specific agents depending on the underlying systemic vasculitis identified).
+  - **Chronic/long-term:** treatment of the underlying systemic disease if identified (e.g. specific ANCA-associated vasculitis management), with the specific approach and duration depending on that diagnosis rather than the cutaneous manifestation alone; ongoing monitoring for renal involvement given its potential for delayed/insidious onset.
+
+
+<!-- ===== SOURCE: NEW_Dermatology.md ===== -->
+
+
+# NEW — Dermatology
+
+> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
+
+> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
+
+> [!info] **How to use this file.** Rash presentations are split by **morphology** (maculopapular, blistering, non-blanching) and by **tempo** (acute, chronic), because that is how the differential actually narrows at the bedside. The single highest-yield question in all of them is the same: **is this patient systemically unwell, and does this rash blanch?**
+
+## Acute Rash
+
+- **DDx — sort by "sick or not sick" first, then by morphology:**
+  - **Rash in a systemically unwell patient — the emergencies:** **meningococcal septicaemia** (non-blanching, may start blanching and evolve within hours), **toxic shock syndrome**, **necrotising fasciitis** (pain grossly out of proportion to appearance, rapid progression, systemic toxicity), **staphylococcal scalded skin syndrome**, **Stevens–Johnson syndrome/toxic epidermal necrolysis**, **DRESS**, **acute meningococcal or other bacterial sepsis with purpura fulminans**, **erythroderma**, **anaphylaxis with urticaria**.
+  - **Infective:** viral exanthems (measles, rubella, parvovirus B19, enterovirus, EBV, HHV-6), scarlet fever, secondary syphilis, chickenpox, hand-foot-and-mouth, cellulitis, impetigo, fungal infection, scabies, **acute HIV seroconversion illness** (a recognised and frequently missed cause of an acute maculopapular rash with fever).
+  - **Drug-related:** morbilliform drug eruption (much the commonest), urticarial drug reaction, fixed drug eruption, AGEP, and the severe end — SJS/TEN and DRESS above.
+  - **Inflammatory:** acute urticaria, eczema flare or eczema herpeticum, acute contact dermatitis, guttate psoriasis (classically 1–3 weeks after streptococcal throat infection), pityriasis rosea, erythema multiforme.
+  - **Vascular/haematological:** vasculitis, **immune thrombocytopenia**, other causes of purpura (see Non-Blanching Rash below).
+- **Focused Hx:** **time of onset and rate of spread** (hours versus days changes urgency); **where it started and how it spread** (centrifugal, centripetal, flexural, sun-exposed); **fever and systemic symptoms**; **pain, burning or tenderness of the skin** — pain in a rash is a red flag; **mucosal involvement — mouth, eyes, genitals — asked explicitly**, because it separates a benign drug eruption from SJS/TEN; itch; **complete drug history with dates of starting each agent, including antibiotics, anticonvulsants, allopurinol, NSAIDs, over-the-counter and complementary medicines** (a morbilliform eruption typically appears 7–14 days after a new drug; DRESS and SJS/TEN typically 2–8 weeks — the latency is genuinely discriminating); recent infections; contacts and outbreaks; **immunisation status**; travel; sexual history; new soaps, cosmetics, plants, occupational exposures; immunosuppression; atopy and previous skin disease.
+- **Examination:** **vital signs first — this is a systemic assessment, not a skin assessment.** Then: **distribution** (whole body, dermatomal, sun-exposed, flexural, palms and soles — **palm and sole involvement narrows sharply to secondary syphilis, hand-foot-and-mouth, rickettsial disease, erythema multiforme and drug reactions**); **morphology** of the primary lesion (macule, papule, plaque, vesicle, bulla, pustule, wheal, petechia, purpura, nodule); **blanching — press with a glass slide or finger**; **mucous membranes: conjunctivae, mouth, genitals**; **Nikolsky's sign** (skin shears with lateral pressure) where blistering or SJS/TEN is suspected; **percentage body surface area involved**; lymphadenopathy; hepatosplenomegaly; joint swelling; **facial oedema** (a distinctive early sign of DRESS).
+- **First-line Ix:** driven by severity. In a well patient with a classic viral or drug exanthem, **often none**. Otherwise: **FBC with differential** (**eosinophilia points to DRESS**, atypical lymphocytes to viral illness, thrombocytopenia to ITP or sepsis), **CRP**, **UEC**, **LFTs** (transaminitis in DRESS), **blood cultures** if febrile and unwell, **coagulation profile and fibrinogen** if purpura or sepsis, **blood film**, **lactate**, **β-hCG**. Then targeted: **viral serology or PCR**, **HIV testing with consent**, **syphilis serology**, **throat swab and ASOT** in guttate psoriasis, **skin swab** for bacterial or viral (HSV/VZV) PCR, **skin scraping and fungal microscopy**, **skin biopsy** where the diagnosis is unclear or a severe reaction is suspected.
+
+> [!danger] **The five features that make an acute rash an emergency rather than a dermatology referral:** **systemic illness or haemodynamic instability**; **a non-blanching rash**; **mucosal involvement**; **skin pain, blistering or a positive Nikolsky's sign**; **rapid progression over hours**. Any one of them warrants senior review the same hour, not the next clinic.
+
+## Acute Inflammatory Dermatosis
+
+> A framework entry rather than a single condition — built because the build list asks for the comparison itself, not only its members.
+
+- **The concept:** an acute inflammatory dermatosis is **inflammation of the skin presenting acutely**, and the clinical task is to place the patient on a **severity spectrum** rather than to name the entity immediately. The spectrum runs from self-limiting (irritant contact dermatitis, mild eczema flare) through significant-but-manageable (widespread eczema, acute generalised urticaria) to **life-threatening (SJS/TEN, DRESS, AGEP, erythroderma, staphylococcal scalded skin syndrome, necrotising soft tissue infection)**.
+- **The organising questions, in order:**
+  1. **Is the patient systemically unwell?** Fever, tachycardia, hypotension, confusion → resuscitate and escalate before refining the dermatological diagnosis.
+  2. **Is there mucosal involvement?** Eye, mouth or genital involvement moves the patient toward SJS/TEN and away from a simple exanthem.
+  3. **Is the skin painful, blistering, or shearing (Nikolsky positive)?** Loss of the epidermal barrier is a fluid, temperature and infection problem as much as a skin problem.
+  4. **How much body surface area is involved?** **Erythroderma is defined as ≥90–95% involvement** and is a medical emergency in its own right regardless of cause, through fluid loss, heat loss, high-output cardiac failure and infection. (Sources state both 90% and 95%; the exact figure is **not** settled here — the point is "almost all of it".)
+  5. **Is there a drug that could have caused this, and when was it started?** Latency separates the entities more reliably than morphology alone.
+- **Management principle at intern level:** **stop the suspected culprit drug**, assess and support fluids and temperature, provide analgesia, involve dermatology and, for extensive skin loss, discuss with a burns or intensive care service — the physiology of extensive epidermal loss is the physiology of a burn.
+
+## Maculopapular Rash
+
+- **DDx:** **drug eruption** (morbilliform — the commonest cause in hospital, typically 7–14 days after a new drug); **viral exanthem** (measles — with Koplik spots, coryza, conjunctivitis and a descending rash; rubella; parvovirus B19; EBV — classically after amoxicillin; enterovirus; HHV-6 roseola; **acute HIV seroconversion**); **scarlet fever** (sandpaper texture, circumoral pallor, strawberry tongue); **secondary syphilis** (**palms and soles involved** — the finding that should trigger serology); **rickettsial infection** in a returned traveller; **Kawasaki disease** in a child with prolonged fever; **acute rheumatic fever**; early **DRESS**; **graft-versus-host disease** in a transplant recipient.
+- **Focused Hx:** **drug timeline with exact start dates**; fever pattern and whether the rash appeared before, with or after the fever; **immunisation history — measles specifically**; contacts, outbreaks and childcare or school exposure; travel with dates and destinations; **sexual history**, asked properly, since syphilis and HIV both present this way; immunosuppression; sore throat; conjunctivitis; arthralgia (parvovirus, rubella); recent antibiotic exposure.
+- **Examination:** distribution and direction of spread; **palms and soles**; **mucosae — Koplik spots, strawberry tongue, mucosal erosions**; conjunctivae; lymphadenopathy (**posterior auricular and suboccipital in rubella**); hepatosplenomegaly; joint examination; **facial oedema** and skin tenderness as early markers of a severe drug reaction; temperature and full vital signs.
+- **First-line Ix:** **FBC with differential** (eosinophilia → DRESS; atypical lymphocytes → EBV/viral), **CRP**, **LFTs**, **UEC**; **measles PCR/serology and urgent public health notification if measles is suspected** — a notifiable disease where the diagnosis has consequences beyond the patient; **EBV serology or monospot**; **parvovirus B19 serology**; **syphilis serology**; **HIV testing**; **throat swab/ASOT**; **blood cultures** if febrile and unwell; **β-hCG** (parvovirus and rubella both matter in pregnancy).
+
+## Blistering Rash
+
+- **DDx — separate by the level of the split, which determines both appearance and danger:**
+  - **Infective:** **herpes simplex** (grouped vesicles on an erythematous base), **varicella/zoster** (dermatomal in zoster; **disseminated zoster in the immunosuppressed**), **eczema herpeticum** (monomorphic punched-out erosions on eczematous skin, unwell child or adult — an emergency), **impetigo** (bullous and non-bullous), **staphylococcal scalded skin syndrome**, **hand-foot-and-mouth disease**, **necrotising fasciitis** with haemorrhagic bullae.
+  - **Drug-induced and immune:** **SJS/TEN**, **fixed drug eruption with blistering**, **AGEP**, **erythema multiforme** (target lesions), **bullous pemphigoid** (tense blisters, older patients, intensely itchy, subepidermal split), **pemphigus vulgaris** (flaccid blisters and erosions, **mucosal involvement early**, intraepidermal split, Nikolsky positive), **dermatitis herpetiformis** (intensely itchy, extensor, associated with coeliac disease), **linear IgA disease**.
+  - **Physical and other:** burns (thermal, chemical, friction), **phytophotodermatitis**, insect bites, **acute contact dermatitis with vesiculation**, oedema blisters in severe peripheral oedema, porphyria cutanea tarda on sun-exposed skin, diabetic bullae.
+- **Focused Hx:** speed of onset; **pain versus itch — pain suggests infection, SJS/TEN or necrotising infection; itch suggests pemphigoid, dermatitis herpetiformis or contact dermatitis**; distribution and whether dermatomal; **mucosal involvement and its timing** (early mucosal disease suggests pemphigus or SJS/TEN); systemic symptoms; **drug timeline**; sun and plant exposure; contacts; previous similar episodes and whether at the same site (fixed drug eruption); immunosuppression; known eczema; coeliac symptoms; occupational and chemical exposures.
+- **Examination:** **blister character — tense versus flaccid**; **Nikolsky's sign**; distribution including **dermatomal pattern**; mucosae (all three sites); **estimate body surface area of detached and detachable skin**; signs of secondary infection; temperature and vital signs; lymphadenopathy; and in a child, assessment for **non-accidental injury** where the pattern of burns or blistering is not consistent with the history given.
+- **First-line Ix:** **viral swab of deroofed blister base for HSV/VZV PCR** — fast, cheap and frequently diagnostic; **bacterial swab** for culture; **FBC, CRP, UEC, LFTs, albumin, coagulation profile**; **blood cultures** if febrile; **skin biopsy including a perilesional sample for direct immunofluorescence** where an autoimmune blistering disease is suspected — the DIF sample must be taken from perilesional skin, which is the technical point most often got wrong; **coeliac serology** for dermatitis herpetiformis; **urinary porphyrins** where PCT is suspected; **fluid balance and daily weights** where the area is extensive.
+
+## Non-Blanching Rash and Purpuric Rash
+
+> Built as one entry — a purpuric rash *is* a non-blanching rash, and separating them would duplicate identical content. Both list topics are covered here.
+
+- **D:** a rash that **does not blanch under pressure** indicates **blood outside the vessels**, in contrast to erythema, which does blanch. **Petechiae** are small (pinpoint) lesions; **purpura** larger; **ecchymoses** larger still. The distinction from a blanching rash is made at the bedside with a glass slide or firm finger pressure, and it is the single most consequential examination manoeuvre in acute dermatology.
+- **DDx:**
+  - **Must exclude immediately:** **meningococcal septicaemia** — the rash may be **blanching and maculopapular early and become petechial or purpuric over hours**, so a blanching rash in an unwell febrile patient does not exclude it and warrants re-examination; other causes of **sepsis with disseminated intravascular coagulation**; **purpura fulminans**.
+  - **Thrombocytopenic:** **immune thrombocytopenia**, marrow failure or infiltration (**leukaemia — petechiae plus pallor plus lymphadenopathy in a child is the presentation not to miss**), **thrombotic thrombocytopenic purpura**, **haemolytic uraemic syndrome**, drug-induced thrombocytopenia including heparin, hypersplenism, DIC.
+  - **Non-thrombocytopenic, vascular/vasculitic:** **Henoch–Schönlein purpura/IgA vasculitis** (palpable purpura on buttocks and extensor legs in a child, with arthralgia, abdominal pain and renal involvement), other small-vessel vasculitis, **infective endocarditis** (splinter haemorrhages, Janeway lesions, Osler nodes), rickettsial infection, **scurvy** (perifollicular purpura with corkscrew hairs — rare but genuinely occurs in restricted diets and alcohol dependence).
+  - **Non-thrombocytopenic, mechanical or structural:** senile/actinic purpura, **corticosteroid-induced purpura**, trauma including **non-accidental injury**, raised intravascular pressure from coughing or vomiting (typically head and neck petechiae), amyloidosis, **anticoagulant-related bleeding**.
+- **Focused Hx:** **fever and how unwell** — the first branch point; speed of onset and progression; **headache, neck stiffness, photophobia, altered conscious state**; bleeding elsewhere (gums, epistaxis, menorrhagia, haematuria, melaena); bruising tendency and its duration; **drugs — anticoagulants, antiplatelets, heparin, quinine, corticosteroids, recently started antibiotics**; recent viral illness (ITP often follows one); recent vaccination; joint and abdominal pain (HSP); weight loss, night sweats, bone pain (malignancy); diet and alcohol; family bleeding history; **in a child, an explicit and non-judgemental account of how any bruising occurred, and whether it fits the child's developmental stage**.
+- **Examination:** **vital signs and conscious state first**; **confirm non-blanching with a glass slide**; distribution and whether **palpable** (palpable purpura implies vasculitis, non-palpable implies thrombocytopenia or a vascular fragility cause — a genuinely useful discriminator); size and pattern of lesions; **mucosal bleeding, wet purpura in the mouth** (a marker of higher bleeding risk); fundoscopy for retinal haemorrhage; **lymphadenopathy, hepatosplenomegaly and pallor** (leukaemia); joint swelling; abdominal tenderness; **blood pressure and urinalysis** (renal involvement in HSP and vasculitis); signs of endocarditis; **in a child, full examination for injuries of differing ages and in unusual sites**.
+- **First-line Ix:** **FBC with platelet count and blood film — urgently**, since the film distinguishes ITP from leukaemia, TTP and HUS; **coagulation profile with fibrinogen and D-dimer** (DIC); **UEC** and **urinalysis for blood and protein**; **LFTs**; **CRP**; **blood cultures** if febrile; **group and hold**; **lactate**; **β-hCG**. Then as directed: **meningococcal PCR**, lumbar puncture (**only after considering contraindications and never delaying antibiotics**), **autoimmune screen and ANCA**, **complement**, **immunoglobulins**, **skin biopsy for vasculitis with immunofluorescence**, **echocardiography** for endocarditis, **bone marrow examination** where marrow pathology is suspected.
+
+> [!danger] **A non-blanching rash in a febrile or unwell patient is meningococcal sepsis until proven otherwise.** Antibiotics are given immediately on suspicion; investigation follows, and no test result should delay the first dose. **Specific antibiotic agents and doses are deliberately not stated here** — they are the local sepsis protocol's, that protocol is egress-blocked in this environment, and a reproduced-from-memory dose for a time-critical infection is exactly the failure this project has documented before.
+
+---
+
+## Chronic Rash
+
+- **DDx:** **eczema/atopic dermatitis**, contact dermatitis (irritant and allergic), **psoriasis**, seborrhoeic dermatitis, lichen planus, **fungal infection (tinea — commonly misdiagnosed and made worse by topical steroids)**, **scabies** (itch worse at night, burrows in web spaces, household contacts affected), urticaria persisting beyond 6 weeks (chronic urticaria), discoid eczema, pityriasis versicolor, rosacea, **cutaneous T-cell lymphoma/mycosis fungoides** (a long-standing "eczema" that never quite responds is the classic presentation and the one worth remembering), **cutaneous lupus**, dermatomyositis, granuloma annulare, drug-induced photosensitive eruption, and **skin manifestations of systemic disease** — diabetes, thyroid disease, coeliac disease with dermatitis herpetiformis, chronic liver or kidney disease.
+- **Focused Hx:** duration and pattern of relapse and remission; **what makes it better or worse — heat, sweating, sunlight, stress, seasons, occupation, weekends and holidays** (improvement away from work strongly suggests occupational contact dermatitis); distribution and whether it has changed; itch and its severity, including sleep disturbance; **treatments already tried, including potency and duration of topical steroids and whether they helped, partially helped, or made it worse** — worsening on steroids suggests tinea or scabies; personal and family history of atopy, psoriasis, autoimmune disease; systemic symptoms; joint pain and nail changes (psoriatic arthritis); occupational and hobby exposures; **household contacts with itch**.
+- **Examination:** full skin examination **with the patient undressed** — including **scalp, behind the ears, umbilicus, natal cleft, nails, palms, soles and web spaces**, all of which are commonly skipped and all of which carry diagnostic information; distribution pattern (**extensor versus flexural is one of the highest-yield discriminators — psoriasis extensor, atopic eczema flexural**); morphology and scale character (silvery scale, greasy scale, fine collarette); **nail changes** (pitting, onycholysis, oil-drop sign in psoriasis); **Auspitz sign**; lichenification and excoriation; mucosal involvement (Wickham's striae in lichen planus); lymphadenopathy; joint examination.
+- **First-line Ix:** **often clinical**. Where needed: **skin scrapings for fungal microscopy and culture** — a low threshold, since tinea incognito is a common and avoidable error; **skin swab** if secondary infection; **FBC, UEC, LFTs, TFTs, glucose/HbA1c, CRP**; **iron studies and ferritin** where itch is prominent; **coeliac serology** where dermatitis herpetiformis is suspected; **ANA and extractable nuclear antigens** where connective tissue disease is possible; **patch testing** for suspected allergic contact dermatitis (referred, not done acutely); **skin biopsy** where the diagnosis remains unclear, and specifically where **a chronic "eczema" has failed to respond to adequate treatment** — the situation in which cutaneous lymphoma is found.
+
+## Build status of this file
+
+**Partial.** The six entries above were written **before the tiered build list arrived**, under the original list order. Against the tier tags, they cover:
+
+| Entry | Tier | Note |
+|---|---|---|
+| Acute Rash | **T2** | In scope for the current priority order |
+| Acute Inflammatory Dermatosis | **T2** | In scope for the current priority order |
+| Chronic Rash | T3 | Built ahead of priority — keep, do not rebuild |
+| Maculopapular Rash | T3 | Built ahead of priority — keep, do not rebuild |
+| Blistering Rash | T3 | Built ahead of priority — keep, do not rebuild |
+| Non-Blanching Rash and Purpuric Rash | T3 | Built ahead of priority — covers two list topics |
+
+**Dermatology has no T1 topics.** The remaining 23 unbuilt Dermatology topics are all T3 and are deferred until T1 and T2 are complete across all categories.
+
+## Topics skipped in this category
+
+| Topic | Matched header | File | Match type |
+|---|---|---|---|
+| **Hair Loss** | `## Alopecia (Hair Loss) — Approach and Differential` | `09_08_Dermatology_-_Miscellaneous.md` | Partial — the topic name appears in the header verbatim |
+| **Pallor** | `## Fatigue and Pallor — Approach and Differential` | `10_09b_Haemonc_-_Miscellaneous_Haematology.md` | Partial — combined header |
+| **Pruritus** | `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` | `09_08_Dermatology_-_Miscellaneous.md` | Partial |
+| **Rash** | `## Skin Lesion / Rash` | `History-Taking.md` | Partial — combined header |
+| **Skin Lesion** | `## Skin Lesion / Rash` | `History-Taking.md` | Partial — combined header |
+
+### Judgement calls you should check
+
+**Generalised Pruritus** and **Localised Pruritus** were **skipped, and this is my judgement rather than a literal match.** Neither string appears in any header. Both were skipped because the matched header `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` **explicitly names both** in its own title. Under a strictly literal reading they would be built; I judged "Generalised and Localised" in the header to be a direct statement that the existing entry covers them. **Overrule me if you want them built separately.**
 
 
 <!-- ===== SOURCE: G2_Blisters_and_Skin_Failure.md ===== -->
@@ -1632,6 +869,368 @@
 > Acute rash and the unwell patient → [[G1]] 0.2 · Blistering and skin failure → [[G2]] · Eczema and chronic dermatoses → [[G4]] · Meningococcal sepsis and DIC → [[F0.3]] 0.9 and [[A9]] 0.3 · Thrombocytopenia, ITP, TTP and HIT → [[J1]] 0.6 · Warfarin skin necrosis and anticoagulation → [[J3]] 0.5 · AL amyloidosis and pinch purpura → [[J4]] 0.3 · Systemic vasculitis and autoantibody interpretation → [[L2]] 0.5–0.6 · Glomerulonephritis and pulmonary-renal syndrome → [[H1]] 0.3 · Cholesterol embolisation → [[H3]] 0.2 · Infective endocarditis → [[B5]] 0.1 · Paediatric purpura and IgA vasculitis → [[M2]] 0.5 and [[M5]] 0.1 · Child protection and elder abuse → [[GER4]], [[GER1]] 0.5 and [[L7]] 0.5 · Malnutrition and vitamin deficiency → [[GER2]] 0.3 · The returned traveller → [[K1]] 0.4
 
 
+<!-- ===== SOURCE: 09_08_Dermatology_-_Miscellaneous.md ===== -->
+
+
+## Non-blanching rashes — approach and differential
+
+> [!warning] FLAG 2026-09-01 — this approach appears three times in this file
+> Here · `G3 §0.1 Approach to the Non-Blanching Rash` · `NEW_Dermatology ## Non-Blanching Rash and
+> Purpuric Rash`. **Pruritus appears twice** (`## Pruritus (Itch)` and `G4 §0.4 Pruritus`) and
+> **alopecia twice** (`## Alopecia (Hair Loss)` and `G5 §0.6 Hair Loss`).
+> All retained; pairs marked, nothing merged.
+
+> [!note] Gap-filled from CSV ("Non-blanching rashes," Medium yield) — genuinely absent as a standalone reasoning framework despite the individual causes being scattered across this project; built here as a DDx/approach entry rather than a single disease, in the same spirit as the STI Ulcers and Diarrhoea DDx tables elsewhere in this project.
+
+> [!danger] The glass test (pressing a clear glass/tumbler against the rash) is the classic bedside test — a rash that does **not** fade under pressure is non-blanching (purpuric/petechial) and, particularly with fever and systemic upset, should prompt urgent consideration of **meningococcal septicaemia** until proven otherwise, given the time-critical nature of that diagnosis. A blanching rash fades under pressure and reflects vasodilation rather than blood outside vessels — a fundamentally different (and generally far less urgent) mechanism.
+
+- **A/P — why a rash doesn't blanch:** non-blanching rashes reflect blood that has extravasated *outside* the blood vessels into the skin (into the dermis), so pressure on the vessel doesn't empty it the way it would with a normal, blood-filled (blanching) vessel — the two broad mechanistic categories are **vessel wall damage/inflammation** (vasculitis — see Cutaneous Vasculitis above) and **clotting/platelet failure** (thrombocytopenia, coagulopathy), with **infection/sepsis** and **trauma** as additional practical categories.
+
+> [!info] Differential by mechanism
+> - **Infection (time-critical):** meningococcal septicaemia (classically a rapidly progressive purpuric/petechial rash with fever, and the diagnosis this entry exists primarily to help recognise promptly — see [[04_Neurology]] Bacterial Meningitis for the fuller disease-level detail, not repeated here), other severe sepsis/DIC.
+> - **Vasculitis:** IgA vasculitis/Henoch-Schönlein purpura (classically palpable purpura on the lower limbs/buttocks in children, ± abdominal pain, arthralgia, renal involvement), other cutaneous vasculitis (see Cutaneous Vasculitis above, not repeated here), ANCA-associated vasculitis.
+> - **Platelet/clotting disorders:** thrombocytopenia (of any cause — immune thrombocytopenia, marrow failure, drug-induced, or **disseminated intravascular coagulation (DIC)** — the consumptive coagulopathy that turns a septic patient's rash purpuric, owned by [[10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease]] Disseminated intravascular coagulation (DIC)), coagulopathy (anticoagulant therapy, liver disease, haemophilia), von Willebrand disease.
+> - **Trauma/mechanical:** accidental or non-accidental injury (a **non-blanching rash or bruising in a pattern or distribution inconsistent with the reported mechanism, or in a non-mobile infant, should raise safeguarding concerns** — a genuinely important point for both exams and real practice), Valsalva-related petechiae (e.g. from vomiting or coughing, typically confined to the face/neck and of no serious significance).
+> - **Other:** senile purpura (fragile skin/vessels in elderly patients, typically on the forearms from minor trauma — usually benign and expected given the mechanism), scurvy (vitamin C deficiency, causing perifollicular petechiae — rare but classically tested).
+
+- **Key distinguishing features on history/examination:**
+  - **Palpable vs non-palpable purpura** — palpable purpura points toward vasculitis (inflammatory infiltrate in the vessel wall); non-palpable (flat) purpura points toward a platelet/clotting problem (purely extravasated blood without vessel wall inflammation) — the same palpability principle discussed under Cutaneous Vasculitis above.
+  - **Distribution** — dependent areas (legs) for many vasculitides and senile purpura; widespread/petechial with fever for meningococcal septicaemia; face/neck only for benign Valsalva petechiae; pattern-inconsistent-with-history for possible non-accidental injury.
+  - **Associated systemic features** — fever and rapid progression are the red flags that should prompt urgent sepsis work-up and empirical antibiotic treatment without waiting for confirmatory tests, given how quickly meningococcal disease can progress.
+- **Ix:** guided by the differential above rather than a single fixed panel — FBC and coagulation screen (screens for thrombocytopenia/coagulopathy), blood cultures and inflammatory markers if infection/sepsis suspected, and the vasculitis-specific work-up under Cutaneous Vasculitis above if that's the leading differential based on the clinical pattern.
+- **Mx:** entirely dependent on the underlying cause identified above — this entry is a reasoning framework for reaching that diagnosis rather than a single treatment pathway; the only universal point is that **fever plus a rapidly progressive non-blanching rash warrants urgent empirical treatment for possible meningococcal septicaemia** (see [[04_Neurology]] Bacterial Meningitis for the specific AU-verified empirical antibiotic regimen, not repeated here) while the rest of the work-up proceeds in parallel, given the cost of delay in that specific scenario is so high.
+
+> [!note] **Moved to `[[Examination]]` Part 2 on 2026-09-01 — 1 block from this source.**
+>
+> `Skin lesion morphology — reference terms`
+>
+> Moved under the standing rule: **how to elicit the sign / take the history** is owned by
+> `[[Examination]]`; **what the finding means in this disease** stays here. Reproduced there
+> verbatim and unrenumbered, under a `SOURCE:` divider naming this file.
+
+## Pemphigus
+
+- **D:** group of autoimmune blistering diseases involving the epidermal surfaces of the skin, mucosa, or both.
+  - Subtypes: pemphigus vulgaris, pemphigus foliaceus, paraneoplastic pemphigus.
+- **R:** increasing age; HLA DR4 (PV), DQ1 (PV), DRB1 (PNP); associated malignancy (non-HHV8 Castleman's disease, non-Hodgkin's lymphoma, CLL, thymoma, rare sarcomas). Increased incidence in Ashkenazi Jews.
+- **A/P:** IgG autoantibodies bind to desmoglein 3 or 1 of the desmosome (in skin and mouth), causing cell detachment and blistering.
+- **S/Smx:**
+  - Mucosal ulceration in 50–70%.
+  - Skin blistering — flaccid, easily ruptured vesicles and bullae; clear blisters; painful but not itchy.
+  - Nikolsky's sign positive (skin peels on gentle rubbing/shearing).
+  - On biopsy: acantholysis.
+- **Ix:** skin biopsy.
+- **Mx:** PO steroid ± azathioprine or mycophenolate — steroids to be given with bone protection and a PPI. Rituximab ± steroids in refractory cases.
+- **P:** pemphigus vulgaris and pemphigus foliaceus have a good prognosis if adequately controlled. Paraneoplastic pemphigus — mortality can approach 90%.
+
+## Bullous pemphigoid
+
+- **D:** chronic, acquired autoimmune blistering disease characterised by autoantibodies against hemidesmosomal antigens, resulting in a sub-epidermal blister.
+- **R:** age 60–90, HLA DQB1.
+- **A/P:** autoantibodies against two hemidesmosomal proteins, BP180 and BP230. Infiltration of inflammatory cells → release of proteases → inflammatory mediators; eosinophilic infiltration.
+- **S/Smx:**
+  - Itchy, tense blisters typically around flexures, axillae, groin, abdomen.
+  - Pruritus may precede blistering by 3–4 months.
+  - Blisters heal without scarring.
+  - Mouth is spared (10–50% may have mucosal involvement, but sparing of the mouth is classically the differentiating factor between pemphigus and pemphigoid).
+- **Ix:** skin biopsy — immunofluorescence shows IgG and C3 at the dermo-epidermal junction.
+- **Mx:** refer to dermatology. PO corticosteroids or tacrolimus (apply sparingly to affected areas BD for up to 2 weeks). Also topical corticosteroids, immunosuppressants, antibiotics.
+
+> [!tip] Key distinguishing feature between pemphigus and bullous pemphigoid: pemphigus blisters are flaccid, painful, Nikolsky-positive, with frequent mucosal involvement; bullous pemphigoid blisters are tense, itchy, heal without scarring, and classically spare the mouth.
+
+## Erythema multiforme
+
+> [!note] Gap-filled from CSV ("Erythema multiforme," Low yield) — genuinely absent from the source notes despite classic exam relevance, particularly the target-lesion morphology and the distinction from the SJS/TEN spectrum covered elsewhere in this project.
+
+- **D:** an acute, immune-mediated hypersensitivity reaction causing a characteristic target-lesion rash — genuinely distinct from SJS/TEN (see [[09_01_Dermatology_-_Dermatological_Emergencies]] Stevens-Johnson syndrome / Toxic epidermal necrolysis (SJS/TEN), not repeated here) despite superficial similarity and historical conflation of the two; erythema multiforme is generally a milder, self-limiting condition with a different typical trigger profile and minimal-to-no mucosal involvement in the minor form.
+- **A/P:** most commonly triggered by infection — **HSV is the most common trigger overall** (a genuinely important distinguishing point from SJS/TEN, which is predominantly drug-triggered), with *Mycoplasma pneumoniae* another recognised infectious trigger; less commonly drug-induced (though this overlaps more with the SJS/TEN differential when it occurs) or idiopathic.
+- **Classification:**
+  - **Erythema multiforme minor:** targetoid skin lesions, no or minimal mucosal involvement, no systemic symptoms.
+  - **Erythema multiforme major:** targetoid skin lesions plus significant mucosal involvement (oral, genital, or ocular) ± mild systemic symptoms — genuinely different from SJS in the pattern and extent of skin detachment (SJS/TEN classification is specifically based on % TBSA epidermal detachment, not mucosal involvement alone — see the SJS/TEN entry for the fuller distinction).
+- **S/Smx:** classic **target ("iris") lesions** — three concentric zones of colour change (a dark/dusky centre, a paler middle ring, and an erythematous outer ring) — typically symmetrical, acral distribution (hands, feet, extensor surfaces) before spreading centripetally; may be preceded by a prodrome of malaise/fever, particularly in the major form; recurrent episodes are common, particularly with HSV-triggered disease (often related to recurrent HSV reactivation, sometimes without an obvious clinical cold sore preceding it).
+- **Ix:** clinical diagnosis, based on the characteristic target-lesion morphology and distribution above — biopsy is reserved for atypical presentations or genuine diagnostic uncertainty (particularly to help distinguish from early SJS/TEN, given the differing prognostic and management implications). Consider screening for the underlying trigger where relevant — HSV PCR/serology if recurrent, *Mycoplasma* serology/PCR if a preceding respiratory illness is reported, and a thorough medication history given the drug-trigger overlap with SJS/TEN.
+- **Mx:**
+  - **Immediate/acute:** supportive care — analgesia, oral care/mouthwashes if mucosal involvement present, antihistamines for pruritus; treat any identified underlying infection (e.g. antivirals for active HSV, though this doesn't reliably prevent the EM episode itself once triggered); admission and closer monitoring for the major form given the greater systemic involvement, though nowhere near the burns-unit-level care SJS/TEN requires.
+  - **Definitive:** the condition is generally self-limiting over 2–4 weeks regardless of specific treatment, so Mx is predominantly symptomatic rather than disease-modifying.
+  - **Chronic/long-term:** for patients with frequent HSV-triggered recurrences, prophylactic suppressive antiviral therapy (e.g. long-term aciclovir) can reduce recurrence frequency — a genuinely useful, actionable long-term strategy distinct from treating an individual acute episode.
+
+## Erythema nodosum
+
+> [!note] Gap-filled from CSV ("Erythema nodosum," Low yield) — genuinely absent from the source notes despite classic exam relevance as a cutaneous marker of systemic disease.
+
+- **D:** a panniculitis (inflammation of subcutaneous fat) presenting as tender, erythematous nodules, most classically on the shins.
+- **A/P:** a delayed-type hypersensitivity reaction to a range of possible triggers rather than a primary skin disease in its own right — making it, similarly to cutaneous vasculitis above, a cutaneous marker that should prompt a search for an underlying cause rather than being treated as a standalone diagnosis.
+- **Causes** (mnemonic-friendly grouping): **infection** (streptococcal — the most common trigger overall, particularly in children — and TB), **inflammatory bowel disease** (both Crohn's and ulcerative colitis — see [[03_Gastrointestinal]] for the disease-level detail, not repeated here), **sarcoidosis** (erythema nodosum + bilateral hilar lymphadenopathy + arthralgia is the classic triad of Löfgren syndrome, an acute presentation of sarcoidosis with a generally good prognosis), **drugs** (sulphonamides, the combined oral contraceptive pill among others), **pregnancy**, and **malignancy** (rarely) — roughly 30–50% remain idiopathic despite investigation.
+- **S/Smx:** tender, erythematous, warm nodules, classically bilateral and symmetrical on the shins (pretibial region); may be preceded by a non-specific prodrome (fever, malaise, arthralgia); lesions evolve in colour over 1–2 weeks similarly to a resolving bruise (red → purple/blue → yellow-green — "bruise-like" colour change is a classically taught distinguishing feature) without ulcerating, in contrast to some other panniculitides.
+- **Ix:** clinical diagnosis in the majority of cases, based on the characteristic tender nodule pattern and colour evolution above — the more important task is **screening for the underlying cause** given erythema nodosum is a reactive marker: throat swab/ASOT (streptococcal association), CXR (screens for both TB and the bilateral hilar lymphadenopathy of sarcoidosis-associated Löfgren syndrome), FBC/ESR/CRP (supports an inflammatory process and can be trended), and consideration of IBD screening (faecal calprotectin, or referral if GI symptoms are present) — the specific work-up should be guided by the clinical context/associated symptoms rather than applied as a blanket panel to everyone. Biopsy is rarely needed given the clinical picture is usually characteristic, reserved for atypical presentations.
+- **Mx:**
+  - **Immediate/acute:** rest, leg elevation, NSAIDs for symptomatic relief — the nodules themselves are generally self-limiting over several weeks regardless of specific treatment.
+  - **Definitive:** treat the identified underlying cause where found (e.g. antibiotics for confirmed streptococcal infection, disease-specific management for IBD or sarcoidosis) — this is the genuinely actionable step, given erythema nodosum itself typically resolves once the trigger is addressed or simply with time.
+  - **Chronic/long-term:** recurrence is possible, particularly with an ongoing or recurrent trigger (e.g. recurrent streptococcal infection, active IBD) — addressing the underlying condition reduces recurrence risk.
+
+## Lichen planus
+
+> [!note] Gap-filled from CSV ("Lichen planus," Low yield) — genuinely absent from the source notes despite classic exam relevance (the "6 Ps" mnemonic and Wickham's striae are frequently tested). See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Lichen planus for the complementary genital-specific presentation (erosive, glazed appearance around the introitus) and the specific vaginal-dilator advice to prevent adhesions/stenosis, not repeated here.
+
+- **D:** a chronic inflammatory condition affecting the skin, mucous membranes, nails, and hair, thought to be T-cell-mediated against basal keratinocytes.
+- **A/P:** the exact trigger is often unclear, but associations include hepatitis C infection (a genuinely important association worth screening for), certain drugs (gold, antimalarials, thiazides, beta-blockers — "drug-induced lichenoid reactions" mimicking true lichen planus), and graft-versus-host disease (a lichen-planus-like eruption is a recognised chronic GVHD manifestation).
+- **S/Smx:** the classic "6 Ps" mnemonic — **P**ruritic, **P**urple, **P**olygonal, **P**lanar (flat-topped), **P**apules, **P**laques — typically on the flexor surfaces of the wrists and forearms, ankles, and lower back; **Wickham's striae** — fine white lines on the surface of lesions, a classic and specific examination finding. **Oral involvement is common** — white, lace-like (reticular) pattern on the buccal mucosa, sometimes the only manifestation. Nail involvement — thinning, ridging, or in severe cases permanent scarring (pterygium formation). Scalp involvement can cause scarring alopecia if untreated.
+- **Ix:** clinical diagnosis in typical presentations, based on the characteristic morphology and Wickham's striae above; skin biopsy if diagnostic uncertainty or atypical presentation, showing a characteristic "saw-tooth" pattern of basal keratinocyte damage with a dense band-like lymphocytic infiltrate at the dermo-epidermal junction on histology. **Screen for hepatitis C** given the recognised association above, particularly in patients with risk factors or oral lichen planus specifically (which has a stronger reported hepatitis C association than cutaneous disease alone).
+- **Mx:**
+  - **Immediate/acute (symptomatic disease):** potent topical corticosteroids first-line for skin lesions — see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Steroid creams for the general potency/duration principles, not repeated here; topical corticosteroids or calcineurin inhibitors for oral disease specifically.
+  - **Definitive:** the condition is often self-limiting over 1–2 years for cutaneous disease, though oral and nail disease can be more persistent/chronic; more extensive or refractory disease may need phototherapy or systemic immunosuppression (e.g. oral corticosteroids, retinoids) under specialist guidance.
+
+> [!note] See [[17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma]] Lichen planus for the **vulvovaginal** form, which differs in ways that change management: it is **painful and erosive** rather than itchy, and it **scars** — so treatment there includes graded dilators to prevent adhesions and stenosis, not topical steroid alone.
+  - **Chronic/long-term:** oral lichen planus specifically carries a small but recognised risk of malignant transformation to oral squamous cell carcinoma, warranting periodic monitoring/review — a genuinely important long-term surveillance point distinct from the generally benign course of cutaneous disease alone.
+
+## Insect bites
+
+- **Local reactions:** local oedema and pain. Spider bites may show one or two small fang marks. Allergic reactions — pain, wheal and flare formation, warmth, pruritus at the site, usually self-limiting and confined. Can be difficult to distinguish between a bite and cellulitis acutely. Delayed allergic reactions are common and can cause permanent skin discolouration.
+
+> [!danger] Systemic reactions — anaphylaxis.
+
+- **History taking:** time course of onset.
+
+> [!tip] Serum sickness — an uncommon delayed reaction, usually ~1 week after envenomation. Fever, myalgias, arthralgias, rash, lymphadenopathy, and headache.
+
+- **Mx:**
+  - Rest, ice, elevate for local pain and swelling.
+  - Clean wound with soap and water.
+  - Fire ant pustules — leave intact; if opened, keep clean and covered.
+  - Assess for tetanus prophylaxis.
+  - Stinger removal — all should be removed as soon as possible; scrape the stinger away with the edge of a plastic ID card.
+  - Medical treatment: corticosteroids, antihistamines, NSAIDs.
+  - Treat secondary infections accordingly.
+- **Other advice:**
+  - If previous anaphylaxis, ensure an EpiPen is carried everywhere and the patient/family know how to use it.
+  - Insect bite or sting can cause redness and itching for ≤10 days — try not to scratch, to prevent secondary infection.
+  - **Prevention:** cover skin, apply DEET, avoid products with strong scents, avoid camping near water, keep food/drink covered outdoors, inspect skin for ticks/bites at the end of the day.
+
+## Pruritus (Itch) — Generalised and Localised, Approach and Differential
+
+> [!note] Gap-filled from CSV ("Itch (generalised and local)," Medium yield) — genuinely absent as a systematic approach despite pruritus being mentioned as a symptom within several individual disease entries throughout this project (psoriasis, eczema, scabies, PBC). This entry ties the differential together and covers the genuinely important principle that itch without a visible rash needs a different diagnostic approach from itch with one.
+
+**The core organising question: is there a primary skin lesion/rash, or not?** This single distinction reshapes the entire differential and Ix approach, and is the first thing to establish — pruritus with an identifiable dermatological cause is approached very differently from pruritus in the absence of any visible skin disease, where a systemic cause becomes genuinely more likely.
+
+**Localised pruritus** — usually reflects a local dermatological cause: eczema/atopic dermatitis, scabies (classically affects finger webs, wrists, genitals — see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Scabies, not repeated here), contact dermatitis (see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Contact Dermatitis (Irritant and Allergic) for the full entry, not repeated here), tinea (see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Tinea / Dermatophyte infections, not repeated here), insect bites (see above, not repeated here), psoriasis, lichen planus (see above, not repeated here); pruritus ani and pruritus vulvae have their own specific differentials (see [[17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse]] Vaginal discharge — differential diagnosis for the vulval-specific causes, not repeated here).
+
+**Generalised pruritus with a visible rash:** most commonly a primary dermatological condition — eczema, psoriasis, urticaria (see [[09_01_Dermatology_-_Dermatological_Emergencies]] Acute urticaria and angioedema, not repeated here), scabies, drug eruption, or a viral exanthem in the appropriate context (see the Paediatrics viral exanthem entries, not repeated here).
+
+**Generalised pruritus WITHOUT a visible rash — the genuinely important category to actively screen for a systemic cause, given roughly 15–25% of patients presenting this way to a dermatologist have an underlying systemic condition:**
+- **Renal:** chronic kidney disease/uraemic pruritus — genuinely common, affecting well over a third of dialysis patients; often generalised but can be worse on the back.
+- **Hepatic/cholestatic:** pruritus from impaired bile secretion (cholestasis) — a recognised, sometimes debilitating symptom of primary biliary cholangitis specifically (see [[03_Gastrointestinal]] Primary Biliary Cholangitis (PBC), not repeated here, including the existing note there on antihistamines being ineffective for this specific cause) and other cholestatic liver diseases; classically generalised but with a tendency to be worse on the palms and soles (palmoplantar pruritus) — a genuinely useful clue pointing toward a hepatic rather than other systemic cause.
+- **Haematological:** lymphoma (classically associated with itch, though this is often overemphasised as an early cancer sign relative to its actual frequency), polycythaemia vera (see [[10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders]] Polycythaemia vera (PV), not repeated here — classically **aquagenic pruritus**, triggered or worsened by warm water/showering, a genuinely distinctive and specific clue), iron deficiency, other myeloproliferative disorders.
+- **Endocrine/metabolic:** thyroid disease (hyper- or hypothyroidism), diabetes mellitus.
+- **Other:** pregnancy (see the obstetric cholestasis/pruritic rash content elsewhere in this project, not repeated here); psychogenic/psychiatric causes (a genuine diagnosis of exclusion, not a default assumption); medication-induced itch (a worthwhile, easily-overlooked medication-review check); age-related ("senile") pruritus and simple skin dryness (xerosis) — genuinely the most common cause encountered in general practice, and worth considering before extensive systemic work-up in an appropriate low-risk presentation.
+
+**Ix — guided by the presence/absence of a rash and clinical suspicion, not a reflexive standard panel:**
+- If a clear primary dermatological cause is identified on examination, further systemic investigation is generally unnecessary.
+- If no primary skin lesion is found, particularly in a patient with **chronic** pruritus (conventionally >6 weeks), older age, or other concerning features (fever, night sweats, weight loss, fatigue) — screen with FBC, U&Es/creatinine, LFTs, TSH, fasting glucose/HbA1c, and iron studies as a reasonable initial systemic panel; further targeted investigation (e.g. CXR, lymph node assessment) guided by specific findings rather than ordered by default.
+- **Findings suggesting a more likely benign/localised cause** (and therefore a lower threshold to manage symptomatically without extensive work-up): younger age, localised symptoms, acute onset, involvement limited to exposed areas, or a clear association with a sick contact or recent travel/exposure.
+
+**Mx:** treat the underlying cause where identified — not repeated here given this is disease-specific throughout the rest of this project. General symptomatic measures for pruritus regardless of cause: emollients and avoiding skin-drying triggers (hot showers, harsh soaps — genuinely relevant advice even for aquagenic pruritus specifically), sedating antihistamines may help with sleep disruption from itching (though have limited evidence for the itch itself in many non-histamine-mediated causes, e.g. **antihistamines are specifically ineffective for cholestatic/PBC-related pruritus**, already established in [[03_Gastrointestinal]], not repeated here — a useful example of why "itch = give an antihistamine" isn't a universal answer), and addressing the itch-scratch cycle (similar principle to lichen simplex chronicus management established elsewhere in this project, not repeated here) given scratching itself perpetuates and worsens pruritus regardless of the underlying cause.
+
+---
+
+## Alopecia (Hair Loss) — Approach and Differential
+
+> [!note] Gap-filled from a High-yield combined CSV row ("hair and nail diseases," filed under Gastroenterology & Hepatology in the source spreadsheet, but genuinely a Dermatology topic) — alopecia was previously only mentioned in passing as a complication within Tinea capitis and Lichen planus, never built as its own condition.
+
+**The core organising distinction, exactly analogous to the primary-lesion-present-or-absent principle for pruritus above: is the hair loss scarring (cicatricial) or non-scarring (non-cicatricial)?** This single distinction is the most important branch point, since scarring alopecia reflects permanent follicular destruction (hair will not regrow even with treatment of the underlying cause) while non-scarring alopecia has a fundamentally better prognosis for regrowth if the cause is identified and addressed.
+
+> [!danger] Scarring alopecia is comparatively rare but is the presentation that most warrants specialist referral and biopsy — **discoid lupus erythematosus is the most common cause** and should be actively considered, particularly given non-scarring, patchy alopecia can itself very rarely be a presenting feature of SLE (added to the 2012 SLICC and 2019 EULAR/ACR SLE classification criteria) — a genuinely easy diagnosis to miss if hair loss is assumed to be simple alopecia areata without considering the broader autoimmune context, particularly in a young woman with other subtle systemic features.
+
+**Non-scarring alopecia — the large majority of presentations, further divided by pattern:**
+- **Diffuse hair thinning:**
+  - **Androgenetic alopecia (male- or female-pattern hair loss):** the most common cause of gradual, patterned hair thinning — temporal recession and vertex thinning in men, more diffuse crown thinning with a preserved frontal hairline in women; genetic and hormonally mediated. **Mx:** topical minoxidil (both sexes); oral finasteride is an option in men specifically (5α-reductase inhibitor, reducing conversion of testosterone to the more follicle-active DHT) — genuinely a chronic, ongoing treatment, given effect is lost on stopping.
+  - **Telogen effluvium:** diffuse, often acute-onset hair *shedding* (rather than thinning at a fixed pattern) following a significant physiological stressor 2–3 months prior — illness, surgery, significant psychological stress, childbirth, rapid weight loss, or a new medication — reflecting a disruption of the normal hair growth cycle (a larger-than-usual proportion of follicles shifting simultaneously from the growing/anagen phase into the resting/telogen phase, then shedding together). **Genuinely important to actively ask about the preceding few months, since the trigger event is often not volunteered spontaneously** and connecting it to the hair loss provides significant reassurance. **Mx:** address any identifiable underlying trigger where present; reassurance that acute telogen effluvium is self-limiting and spontaneously reversible, though regrowth can take up to 6 months to become apparent — a genuinely important point to set expectations, given the delay between stopping the shedding and visible improvement.
+- **Patchy/focal hair loss:**
+  - **Alopecia areata:** well-demarcated, typically oval patches of hair loss, often affecting the scalp but potentially any hair-bearing area — an autoimmune process, most commonly presenting in children and young adults. **"Exclamation mark hairs"** (short hairs, narrower at the base than the tip) at the margin of an active patch are a classic examination finding. **Mx:** many mild/limited cases resolve spontaneously without treatment; intralesional or topical corticosteroids for more extensive/persistent patches; referral to dermatology for extensive disease (alopecia totalis/universalis) given specialist immunomodulatory treatment options exist.
+  - **Traction alopecia:** hair loss from prolonged mechanical tension (tight hairstyles, braiding, extensions) — typically at the hairline/temporal margins, following the pattern of the causative style; **Mx:** removing the causative tension is the key step, and is genuinely reversible if addressed early, before the tension has caused enough follicular damage to become a scarring process.
+  - **Tinea capitis:** see [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Tinea capitis for the full entry, not repeated here — a genuinely important differential in a child with patchy scalp hair loss, particularly given the specific antifungal Mx required (topical treatment alone is ineffective).
+  - **Trichotillomania:** hair loss from compulsive hair-pulling, often producing irregular patches with hairs of differing lengths (rather than the clean, uniform patches of alopecia areata) — a behavioural/psychological condition worth holding in mind as a differential, approached sensitively rather than assumed on first presentation.
+
+**Ix:** primarily clinical, based on the pattern (diffuse vs patchy) and distribution above; scalp examination for scarring vs non-scarring change, and for exclamation mark hairs or other pattern-specific features. Bloods where a systemic cause for diffuse thinning/telogen effluvium is suspected but no clear trigger is identified — TFTs, iron studies/ferritin, and consideration of the broader autoimmune screen where SLE or another connective tissue disease is suspected per the scarring-alopecia caution above. Scalp biopsy reserved for scarring alopecia or genuine diagnostic uncertainty, given the majority of non-scarring presentations are diagnosed clinically.
+
+---
+
+## Epidermoid (Sebaceous) Cyst
+
+> [!note] Gap-filled from the same combined CSV row as Alopecia above — previously only mentioned in passing as part of a neck-lump differential (see [[13_07a_ENT_-_Neck_Lumps]], not repeated here), never built as its own entry.
+
+- **D:** a common benign subcutaneous cyst, filled with keratin debris, arising from the hair follicle infundibulum (a more accurate term than "sebaceous cyst," given true sebaceous gland-derived cysts are comparatively rare — but "sebaceous cyst" remains the more commonly used lay/clinical term in practice).
+- **S/Smx:** a firm, mobile, slow-growing subcutaneous nodule, often with a visible central punctum (a small overlying pore) — a genuinely useful distinguishing examination finding from a lipoma, which characteristically lacks a punctum and tends to feel softer/more lobulated. Can occur anywhere with hair-bearing skin, commonly the face, neck, scalp, and trunk.
+- **Complications:** infection/abscess formation (the cyst becomes acutely red, tender, and swollen — see [[08_09_Infectious_Disease_-_Miscellaneous]] Cellulitis for the general skin/soft tissue infection Mx principles this draws on, not repeated here); rupture, releasing the keratinous contents into surrounding tissue and provoking a marked local inflammatory reaction (which can look alarming and be mistaken for infection even in the absence of true bacterial involvement).
+- **Ix:** clinical diagnosis; imaging/biopsy not routinely required for a typical, asymptomatic presentation.
+- **Mx:** asymptomatic cysts can reasonably be left alone if the patient isn't bothered by them; **surgical excision (removing the cyst wall in its entirety) is curative and is the definitive treatment for a symptomatic or cosmetically bothersome cyst** — genuinely important that the *entire cyst wall* is removed, given incomplete excision (or simple incision and drainage of the contents alone) leaves the wall behind and the cyst will predictably recur. An acutely infected cyst is generally treated first with incision and drainage (± antibiotics per the cellulitis Mx principles above) to settle the acute infection, with formal excision of the residual cyst wall deferred until the inflammation has resolved, given attempting complete excision through acutely inflamed tissue is technically harder and carries a higher recurrence/complication risk.
+
+---
+
+> [!note] Neurocutaneous syndromes with genuinely dermatology-relevant skin findings (café-au-lait spots, axillary/groin freckling, and peripheral neurofibromas in Neurofibromatosis; ash-leaf hypopigmented macules, Shagreen patches, and adenoma sebaceum in Tuberous Sclerosis) are built in [[04_Neurology]] Neurofibromatosis and Tuberous Sclerosis, not repeated here — housed there given the neurological content dominates each condition, but flagged here given a dermatology-focused search for these classic skin signs would otherwise miss them.
+
+
+<!-- ===== SOURCE: 09_04_Dermatology_-_Eczema__Psoriasis__Rosacea.md ===== -->
+
+
+## Contact Dermatitis (Irritant and Allergic)
+
+> [!note] Gap-filled from a High-yield CSV row ("Allergic contact dermatitis," filed under Immunology, Allergy & Infectious Disease in the source spreadsheet, but genuinely a Dermatology topic) — previously only mentioned as a single word within the Pruritus differential, never built as its own entry despite the classic irritant-vs-allergic distinction being frequently tested.
+
+**The core distinction — two genuinely different mechanisms, not two names for the same thing:**
+- **Irritant contact dermatitis (ICD):** non-immune-mediated direct chemical/physical damage to the skin from an irritant substance — genuinely the more common of the two forms overall. Symptoms can occur on **first exposure**, given no prior sensitisation is required, and severity/onset broadly correlates with irritant concentration and exposure duration. Common irritants: strong acids/alkalis, soaps and detergents, solvents, prolonged water/glove exposure (a classic cause in healthcare workers and hairdressers), some topical medications.
+- **Allergic contact dermatitis (ACD):** a **type IV (delayed, T-cell-mediated) hypersensitivity reaction** — the allergen binds skin proteins to form a complete antigen, sensitising T-cells on first exposure without necessarily causing visible symptoms; **symptoms only appear on re-exposure** after this sensitisation has occurred, typically 24–72 hours after contact — a genuinely important point distinguishing it from irritant reactions, which can occur immediately on first exposure. Common allergens: nickel (consistently the most frequently identified contact allergen in patch test series), fragrances, preservatives, rubber/latex, topical medications (including, somewhat ironically, topical corticosteroids and neomycin — worth considering when a treated dermatitis appears to worsen rather than improve), plants (e.g. poison ivy in some populations).
+- **Genuinely important in practice: the two conditions frequently coexist and can be difficult to distinguish clinically** — a disrupted skin barrier from irritant exposure increases the risk of subsequent allergen sensitisation, and vice versa, so finding one doesn't exclude the other.
+
+**S/Smx:** erythema and scaling with a **visible, often well-demarcated border corresponding to the area of contact** — a genuinely useful clue given this sharp geographic distribution (matching where a specific product, jewellery, or material touched the skin) points toward a contact cause rather than a more diffuse endogenous dermatitis like atopic eczema. Pruritus is prominent in ACD specifically; ICD can be more painful/burning than itchy depending on the causative irritant. Distribution often gives a genuine clue to the cause (e.g. earlobes/wrist for nickel from jewellery, hands for occupational irritant exposure, face/eyelids for cosmetic or airborne allergens).
+
+**Ix:** **ICD is primarily a clinical diagnosis** based on history (a clear temporal and spatial relationship to a specific exposure) and examination; **ACD requires patch testing for confirmation and allergen identification** where the diagnosis is uncertain, symptoms are persistent/recurrent, or first-line treatment fails — patch testing applies a standardised panel of allergens to the back, with readings taken at 48 and 96 hours (given the delayed hypersensitivity mechanism means an early reading alone can miss a genuine allergic response). A positive patch test result needs to be correlated with the patient's actual history and exposures to confirm clinical relevance, rather than assumed causative on its own.
+- **DDx to actively consider, given contact dermatitis can closely mimic several other conditions:** atopic dermatitis (see below, not repeated here), scabies (see [[09_05_Dermatology_-_Bacterial_Infections_and_Infestations]] Scabies, not repeated here), psoriasis, seborrhoeic dermatitis, tinea (always worth excluding as a mimicker before assuming a dermatitis diagnosis, given the management is completely different).
+
+**Mx:**
+- **Immediate/acute:** identify and remove/avoid the causative irritant or allergen — genuinely the only definitive treatment for either condition, and should be explicitly framed to the patient as the central intervention rather than an adjunct to medication. Cool compresses for acute symptomatic relief.
+- **Definitive:** topical corticosteroids for localised disease (see Steroid creams below for the general potency/duration principles, not repeated here); oral corticosteroids may be considered for more extensive/severe disease (a reasonable working threshold cited in the literature is >20% body surface area involvement). Regular emollient use to support and repair the skin barrier — relevant to both conditions given barrier disruption is either the primary mechanism (ICD) or a contributing sensitisation risk factor (ACD).
+- **Chronic/long-term:** once a specific allergen is identified via patch testing, structured avoidance advice and product-ingredient education (e.g. checking cosmetic/personal care product ingredient lists for the specific identified allergen) — genuinely important given ongoing accidental re-exposure is a common cause of treatment failure or apparent "resistance" to otherwise appropriate management.
+
+## Eczema (atopic dermatitis)
+
+- **D:** inflammatory skin condition characterised by dry, pruritic skin with a chronic relapsing course.
+- **R:** filaggrin gene mutation, <5 years old, family history, allergic rhinitis, asthma.
+- **A/P:** loss-of-function mutation of the filaggrin gene predisposes to breaks in the epidermal barrier → increased exposure and sensitisation to allergens + environmental factors → inflammatory reaction.
+
+### Phases & features
+
+- **Infantile phase (birth to 2 years):** dermatitis on cheeks, forehead, scalp and extensor surfaces; prominent vesicular component; oedema, weeping, crusting.
+- **Childhood phase (2 years to puberty):** possibly worse; papules and plaques become lichenified due to constant scratching; antecubital and popliteal fossae, wrists, hands, ankles, and feet.
+- **Adult phase:** thickened, dry skin and lichenified plaques.
+
+- **Ix:** clinical diagnosis, based on the characteristic distribution and morphology by age phase above — no specific test is required for typical presentations. Allergen testing (skin prick or specific IgE) (*why:* reserved for cases where a specific trigger is suspected and identifying/avoiding it would meaningfully change management, rather than routine screening in all patients; *what:* identifies specific allergens contributing to flares in a subset of patients, though eczema's relationship to true IgE-mediated allergy is often more complex than a simple trigger-avoidance model).
+
+### Management
+
+- Avoid irritants.
+- **Simple emollients:**
+  - Large quantities (e.g. 250g/week), roughly 10:1 ratio with topical steroids by amount.
+  - Apply emollient, wait 30 minutes, then apply steroid.
+  - Creams soak into skin faster than emollients (oily).
+  - Emollients can become contaminated with bacteria.
+- **Topical steroids.**
+- **Wet wrapping** — large amounts of emollient (and sometimes topical steroids) applied under wet bandages.
+
+> [!note] Gap-filled — "severe cases" was undefined, the same gap already addressed for PASI in Psoriasis above (not repeated here). **SCORAD (SCORing Atopic Dermatitis):** the standard objective eczema severity tool — combines extent (% body surface area affected), intensity (six signs: erythema, oedema/papulation, oozing/crusting, excoriation, lichenification, dryness, each scored 0–3), and subjective symptoms (patient-reported itch and sleep loss, each 0–10) into a single weighted score, 0–103. **A SCORAD-guided or clinically-equivalent "severe, inadequately controlled with topical therapy" picture is what justifies escalating to systemic therapy** below, rather than a fixed universal number — unlike PASI's more commonly cited ">10" threshold, SCORAD is used more as a severity/response-tracking tool than a single hard cutoff for escalation, though severe/very severe SCORAD bands broadly correspond to the point systemic options become appropriate.
+- In severe cases (see SCORAD above), oral ciclosporin, or dupilumab (a biologic, IL-4/IL-13 receptor blocker) may be used.
+
+> [!info] Verified against the Australian Medicines Handbook, Therapeutic Guidelines, and an RACGP-published Australian potency table (AJGP), Aug 2026 — the underlying 4-tier classification framework (mild/moderate/potent/very potent) is genuinely shared between Australia and the UK, so this isn't a structural difference — but the specific product/concentration examples needed correction to Australian-available preparations, and the original table also contained a **genuine drug-name error, not just a localisation issue**: "Clobetasone propionate" in the "very potent" row doesn't exist as a real drug — clobetasone (butyrate) is a *moderate*-potency agent, while clobetas**ol** propionate is the very-potent agent actually intended. Fixed below.
+
+### Steroid creams
+
+- **1 fingertip unit ≈ 0.5g** — sufficient to treat a skin area about 2× the size of an adult hand.
+- Use the weakest potency sufficient to treat the patient's symptoms; do not use for longer than 1–2 weeks at one time.
+
+| Potency | Examples (Australian-available preparations) |
+|---|---|
+| Mild | Hydrocortisone 0.5–1% |
+| Moderate | Clobetasone butyrate 0.05%, hydrocortisone butyrate 0.1%, betamethasone valerate 0.02–0.05%, triamcinolone acetonide 0.02–0.05%, methylprednisolone aceponate 0.1% |
+| Potent | Betamethasone dipropionate 0.05%, betamethasone valerate 0.05–0.1%, mometasone furoate 0.1% |
+| Very potent | **Clobetasol propionate** 0.05% (corrected from "Clobetasone propionate" — see the note above), betamethasone dipropionate 0.05% in an optimised vehicle |
+
+**Quantity required per application, by area:**
+
+| Area | Amount |
+|---|---|
+| Face & neck | 15–30g |
+| Both hands | 15–30g |
+| Scalp | 15–30g |
+| Both arms | 30–60g |
+| Both legs | 100g |
+| Trunk | 100g |
+| Groin & genitalia | 15–30g |
+
+**Adverse effects:**
+- Skin atrophy, striae, rebound symptoms — atrophy especially for the face, limit to 1–2 weeks use at a time.
+- Perioral dermatitis — if applied to the face for long periods; increased risk if used with intranasal steroids.
+- Systemic effects only if applied to large areas.
+- Potent — limit use to 8 weeks at a go; very potent — limit to 4 weeks. Take a 4-week break before starting another course.
+
+> [!note] Australian Prescriber additionally specifies a practical weekly quantity limit: **no more than 45g/week of a potent or very potent topical corticosteroid** — a specific, useful safety-netting figure not in the original UK-style note. Absorption varies significantly by site — the face, scalp, and intertriginous areas absorb roughly 10–40× more than palms/soles, which is part of why lower-potency agents and shorter courses are preferred on the face specifically (see perioral dermatitis risk above).
+
+## Psoriasis
+
+- **D:** chronic inflammatory skin disease characterised by erythematous, circumscribed scaly papules and plaques.
+- **R:** family history/genetic, infection (e.g. URTI [strep], HIV), local trauma, medications that induce/exacerbate (beta-blockers, lithium, antimalarials, NSAIDs, ACE inhibitors, infliximab).
+- **A/P:** hyperproliferative disorder involving a complex cascade of inflammatory mediators.
+
+> [!tip] Beta-blockers can worsen psoriasis.
+
+### Classification & features
+
+- **Plaque psoriasis (80%):** raised, inflamed plaque lesions with a superficial silvery-white scaly eruption. Typically on extensor surfaces, scalp, trunk, buttocks, periumbilical areas. Clear delineation between good and bad skin. Auspitz's sign — if scale is removed, a red membrane with pinpoint bleeding points is seen.
+
+> [!info] Gap-filled — Auspitz's sign was described (what's seen) without explaining the mechanism (why it happens). **Psoriasis involves epidermal hyperproliferation, causing the epidermis to become markedly thinned specifically over the tips of the dermal papillae** (the "suprapapillary plate") even as the overall epidermis thickens elsewhere and builds up the characteristic scale — meanwhile, the **dermal papillae themselves become elongated, with their capillaries dilated and tortuous, sitting unusually close to the skin surface** as a result. When the overlying scale is mechanically removed, this abnormally thin suprapapillary epidermis is disrupted along with it, directly exposing these dilated, close-to-surface capillaries — producing the characteristic pinpoint bleeding. This is precisely why the sign is genuinely useful diagnostically: it reflects the specific structural abnormality of psoriatic skin (thinned epidermis over engorged, elongated papillae), not just non-specific skin fragility.
+- **Guttate psoriasis:** widespread, erythematous, fine, scaly papules ("water drops"). Usually associated with Strep URTI in children and adolescents. Acute onset over days. Most cases resolve spontaneously over 2–3 months; no need for antibiotics.
+- **Pustular psoriasis.**
+- **Erythroderma (erythrodermic psoriasis):** generalised erythema + fine scaling, often with pain, irritation, and sometimes severe itching.
+- **Psoriatic arthritis** (see [[12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis]] Psoriatic arthritis (PsA), not repeated here): associated with arthralgia, joint deformities, nail changes.
+- **Reactive arthritis** (see [[12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS]] Reactive arthritis, not repeated here):
+
+> [!tip] Mnemonic for reactive arthritis triad — "can't see, can't pee, can't climb a tree" (conjunctivitis, urethritis, arthritis).
+
+- **Ix:** clinical diagnosis, based on the characteristic plaque morphology, distribution, and signs (e.g. Auspitz's sign) above — biopsy is reserved for atypical presentations or genuine diagnostic uncertainty, given the diagnosis is usually clear-cut clinically.
+
+### Management
+
+> [!info] Verified — the step-wise potent-corticosteroid-AM/vitamin-D-analogue-PM combination approach is genuinely internationally consistent evidence-based practice (matching AAD/US guidance and international systematic reviews), and Psoriasis Australia's own patient/clinician information describes the same combination strategy — this isn't a UK-specific protocol needing correction, the underlying regimen logic holds for Australian practice too. Vitamin D analogues are PBS-subsidised in Australia, supporting their accessibility as a standard first-line combination agent here as elsewhere. The specific duration limits below (4-week trials, 8-week escalation points) reflect the same general corticosteroid-course-limiting principle established in the Steroid Creams section above (the 45g/week and 4/8-week potency-specific limits), not a separate UK-only figure — check current eTG for the precise Australian-specified durations if prescribing, but the overall step-wise structure and rationale doesn't need wholesale replacement.
+
+**Step-wise approach:**
+1. Potent corticosteroid cream in the morning + vitamin D analogue in the evening (e.g. betamethasone with calcipotriol, applied separately). Trial initially for 4 weeks, assess response; trial for at least 8 weeks.
+2. Vitamin D analogue BD — trial for 8–12 weeks.
+3. Potent corticosteroid cream BD for up to 4 weeks, OR coal tar preparation OD/BD, OR short-acting dithranol.
+
+**2nd line management:**
+
+> [!note] Gap-filled — PASI genuinely absent despite directly determining when escalation to systemic/biologic therapy is warranted, the same pattern already addressed for DAS28 (RA) and BASDAI (ankylosing spondylitis) elsewhere in this project.
+
+**PASI (Psoriasis Area and Severity Index):** the standard objective severity measure — combines the extent of body surface area affected (by region: head, trunk, upper limbs, lower limbs) with the severity of erythema, induration (thickness), and desquamation (scaling) within the affected areas, into a single score from 0–72. **PASI >10, or failure/intolerance of an adequate trial of topical therapy, is the classic threshold defining "moderate-to-severe" psoriasis** — the point at which escalation to phototherapy or systemic/biologic therapy (below) is generally justified, rather than continuing to intensify topical treatment indefinitely. A simpler surrogate sometimes used alongside PASI: **body surface area (BSA) >10%** (one handprint ≈ 1% BSA), given PASI itself can be time-consuming to calculate in routine practice.
+- **Phototherapy:** narrowband UVB 3×/week, or photochemotherapy (psoralen + UVA). Adverse effects: skin ageing, increased risk of SCC.
+- **Systemic therapy:** PO methotrexate especially with joint disease; others — ciclosporin, systemic retinoids, biologics (DMARDs or others).
+
+**Management by specific area:**
+- Scalp — potent steroid OD for 4 weeks; if no improvement, use a different formulation (e.g. shampoo, mousse) ± a topical agent to remove adherent scales before applying corticosteroid.
+- Face, flexural, and genital areas — mild or moderate steroid OD/BD for a maximum of 2 weeks.
+
+**Vitamin D analogue creams** (e.g. calcipotriol, calcitriol, tacalcitol):
+- **MOA:** ↓cell division and differentiation → ↓epidermal proliferation; tend to reduce scale and thickness of plaques, but not erythema.
+- Adverse effects uncommon; can be used long-term. Avoid in pregnancy. Maximum 100g/week in adults.
+
+**Dithranol:**
+- **MOA:** inhibits DNA synthesis. Wash off after 30 minutes. Adverse effects include burning, staining.
+
+**Coal tar:**
+- MOA not fully understood; possibly inhibits DNA synthesis.
+
+## Rosacea
+
+- **D:** chronic disorder of the skin characterised by redness, flushing, and other cutaneous findings.
+- **R:** light skin, hot baths/showers, temperature extremes, sunlight, emotional stress, family history, F>M.
+- **S/Smx:**
+  - Typically affects the nose, cheeks and forehead.
+  - Flushing is often the first symptom.
+  - Telangiectasia are common.
+  - Later develops into persistent erythema with papules and pustules ± acne vulgaris.
+  - Rhinophyma (M>F) — nose deformity with nodules on the nose.
+  - Ocular involvement — blepharitis.
+  - Sunlight may exacerbate symptoms.
+
+- **Ix:** clinical diagnosis, based on the characteristic distribution and pattern above — no specific laboratory or histological test is routinely needed; biopsy is reserved for atypical presentations or to exclude mimics (e.g. lupus erythematosus, which can also cause facial erythema, or steroid-induced rosacea-like eruptions) when the diagnosis is genuinely unclear.
+
+### Management
+
+- For all patients: high SPF sunscreen ± camouflage creams to conceal redness.
+- **Predominant erythema/flushing (limited telangiectasia):** topical brimonidine gel PRN — usually reduces redness within 30 minutes, effect lasts 3–6h.
+- **Mild to moderate papules/pustules:** topical ivermectin, or topical metronidazole/topical azelaic acid.
+- **Moderate to severe disease:** topical ivermectin AND PO doxycycline.
+- Refer to dermatology if symptoms not improving (for consideration of laser therapy, especially if increased telangiectasia) or if rhinophyma present.
+
+
 <!-- ===== SOURCE: G4_Chronic_Rash__Pruritus_and_Pigment.md ===== -->
 
 
@@ -1865,6 +1464,517 @@
 
 > [!note] Cross-references
 > Acute rash, drug eruptions and photosensitive drugs → [[G1]] 0.4 · Eczema herpeticum → [[G1]] 0.2 · Erythroderma and steroid withdrawal → [[G2]] 0.4 · Pre-bullous pemphigoid as unexplained itch → [[G2]] 0.2 · Porphyria and phytophotodermatitis → [[G2]] 0.3 · Purpura and vasculitis → [[G3]] · Skin cancer, solar keratoses and field change → [[G5]] · Urticaria, food allergy testing and anaphylaxis → [[K4]] 0.2, 0.4 · Scabies → [[K2]] 0.6 · HIV and cutaneous markers → [[K3]] 0.5 · Psoriatic arthritis and spondyloarthropathy → [[L2]] 0.3 · Lupus and autoantibodies → [[L2]] 0.4, 0.6 · Cholestatic itch and primary biliary cholangitis → [[C3]] 0.2 · Uraemic pruritus → [[H3]] 0.4 · Lymphoma-associated itch → [[J4]] 0.4 · Addison disease and pigmentation → [[I4]] 0.3 · Acanthosis nigricans and insulin resistance → [[I2]] 0.1 · Vitamin D and bone health → [[I3]] 0.4 and [[GER1]] 0.6 · Obstetric cholestasis → [[O2]] · Seborrhoeic dermatitis in Parkinson disease → [[D6]] 0.5 · Vulval lichen planus → [[O5]] 0.5
+
+
+<!-- ===== SOURCE: 09_03b_Dermatology_-_Acne_Vulgaris.md ===== -->
+
+
+## Acne vulgaris
+
+- **D:** skin disease affecting the pilosebaceous unit.
+- **R:** puberty, family history/genetics, greasy skin or ↑sebum production, medications (androgens, steroids, anti-epileptics, isoniazid, lithium, hormones).
+- **A/P:** follicular epidermal hyperproliferation → formation of a keratin plug → plug obstructs the pilosebaceous follicle.
+  - Activity of sebaceous glands may be controlled by androgens — levels are often normal in patients with acne.
+  - Colonisation by the anaerobic bacterium *Propionibacterium acnes*.
+  - Inflammatory cascade.
+
+### Features
+
+- **Comedones** — due to a dilated sebaceous follicle. Whitehead: top is closed. Blackhead: top is opened.
+- **Inflammatory lesions** — due to follicle bursting and releasing irritants: papules, pustules.
+- Excess inflammation can cause nodules or cysts.
+- **Scarring** can result — ice-pick scars or hypertrophic scars.
+- **Drug-induced acne** — often monomorphic (e.g. steroids often cause pustules).
+
+> [!danger] Acne fulminans — very severe acne associated with systemic upset, often requiring hospital admission + steroid treatment.
+
+### Severity classification
+
+> [!info] Acne severity
+> - **Mild:** open and closed comedones ± sparse inflammatory lesions.
+> - **Moderate:** widespread non-inflammatory lesions, numerous papules and pustules.
+> - **Severe:** extensive inflammatory lesions (including nodules), pitting and scarring.
+
+- **Ix:** clinical diagnosis ± hormonal evaluation, swabs for bacterial culture.
+
+### Management
+
+> [!info] Verified against the TGA, the Australasian College of Dermatologists' own isotretinoin position statement (2018), and TGA's 2025 isotretinoin safety advisory, Aug 2026 — the step-wise structure (topical → oral antibiotic → COCP → isotretinoin) is broadly internationally consistent and matches Australian practice, but two specific details needed correction, not just a "check locally" caveat.
+> **Brand name correction:** "Dianette" is the **UK-specific brand name** for cyproterone acetate 2mg + ethinyloestradiol 35mcg — in Australia, the equivalent product is marketed as **Diane-35** (same active ingredients, same VTE risk profile). The TGA conducted its own dedicated safety review (2013) of Diane-35 specifically, reaching the same conclusion as UK/EU regulators: the increased VTE risk is real but the benefit continues to outweigh the risk for its approved indications (moderate-severe acne unresponsive to other therapy, or hirsutism) when used with appropriate risk counselling — so the clinical guidance below (second-line, time-limited use, VTE counselling) is substantively correct, just needs the brand name swapped.
+> **Isotretinoin monitoring:** Australia does **not** use the US's iPLEDGE program (a common point of confusion, since iPLEDGE is sometimes assumed to be a universal isotretinoin safeguard) — Australian isotretinoin prescribing is governed by the Australasian College of Dermatologists' own position statement and general TGA product information rather than a separate mandatory registry system. A **2025 TGA safety advisory specifically reinforced mental health monitoring** (depression, anxiety, suicidal ideation) as a required part of isotretinoin care before and during treatment — a genuinely current regulatory update reinforcing the safety-netting point already below, not a new contradiction to it.
+
+- **Step-wise approach:**
+  1. Single topical therapy (retinoids, benzoyl peroxide).
+  2. Combination topical therapy (antibiotics, benzoyl peroxide, retinoid).
+  3. Oral antibiotics: tetracyclines (lymecycline, oxytetracycline, doxycycline).
+     - Avoid in pregnant/breastfeeding women and in children <12 years old; use erythromycin in pregnancy.
+     - Use for a maximum of 3 months.
+     - Co-prescribe with a topical retinoid or benzoyl peroxide to reduce risk of resistance developing.
+     - Risk of Gram-negative folliculitis — use high-dose PO trimethoprim if this develops.
+  4. Combined oral contraceptive pill (COCP) — an alternative to oral antibiotics in women; use in combination with topical retinoid or benzoyl peroxide.
+
+> [!warning] **Diane-35** (the Australian brand name — see the correction above) has an increased risk of VTE compared to other COCPs — therefore used second-line, given for only 3 months, with counselling about risks.
+
+  5. PO isotretinoin — only under specialist supervision.
+
+> [!danger] Isotretinoin is absolutely contraindicated in pregnancy, and in hyperlipidaemia.
+
+### Discussion points with the patient
+
+- Can take 4–8 weeks for initial response; full response can take months. Adhere to treatment even if no early response.
+- **With isotretinoin:**
+  - Regular blood tests may be needed.
+  - Safety netting — stop and seek treatment if severe headache, decreased night vision, significant liver enzyme or lipid elevations, or adverse psychiatric events.
+  - Do not donate blood during treatment or for 30 days after.
+  - Do not become pregnant — pregnancy tests and monthly testing while on treatment.
+  - Dry and chapped skin are common — use moisturiser.
+
+
+<!-- ===== SOURCE: 09_05_Dermatology_-_Bacterial_Infections_and_Infestations.md ===== -->
+
+
+## Impetigo
+
+- **D:** superficial, contagious, blistering infection of the skin caused by *Staphylococcus aureus* and *Streptococcus pyogenes*.
+- **R:** ↑humidity, poor hygiene, malnutrition, overcrowding, chronic colonisation with *S. aureus* (nasal, axillary, pharyngeal, perineal), concomitant skin disease (e.g. scabies, head lice, atopic eczema).
+- **A/P:**
+  - GAS → non-bullous type: formation of a thick-walled pustule + erythematous base.
+  - *S. aureus* → bullous type: exfoliative toxin breaks down desmoglein 1 → large blisters in the epidermis with neutrophil & bacterial migration into the bullous cavity. Bullae = fluid-filled lesions >0.5cm diameter.
+  - Spread by direct contact with discharge from the scabs of an infected person — mainly by hands, but can spread indirectly via toys, clothing, equipment, environment.
+- **S/Smx:** "golden", crusted skin lesions typically found around the mouth. Vesicles/bullae seen in bullous impetigo — initially clear, then becomes turbid.
+- **Ix:** clinical diagnosis.
+
+> [!danger] A genuinely important, non-obvious Australian-context complication: **GAS impetigo (skin infection), not only GAS pharyngitis, is now recognised as a trigger for acute rheumatic fever (ARF)** in Australian Aboriginal children — evidence specifically from Australia supports this pathway, distinct from the traditional teaching (based on historical, largely non-Australian data) that ARF follows only streptococcal throat infection. See [[01_Cardiovascular]] 0.22 Rheumatic Fever and 0.22a Rheumatic Heart Disease for the full downstream disease and its severe Australian Indigenous health burden, not repeated here — this is directly relevant to why prompt, effective treatment of impetigo (per the Mx below) matters beyond the skin infection itself in high-ARF-risk populations.
+
+> [!info] Verified against Australian Prescriber (Bacterial skin and soft tissue infections) and state health department school exclusion tables (NSW, Victoria, Queensland, SA), Aug 2026 — found genuine corrections to both the antibiotic sequencing and the exclusion period, not just brand/dose tweaks.
+> **Antibiotic sequencing:** current Australian guidance recommends **topical mupirocin as the first-line topical option for mild impetigo**, rather than fusidic acid first with mupirocin reserved for resistance/MRSA — a genuine reversal of the UK-style sequencing this entry was written against, reflecting documented high fusidic acid resistance rates (cited as high as 32–75% in some studies) that make it a less reliable first choice. In remote/high-burden Australian settings specifically (where impetigo, colloquially "school sores," is a major issue particularly in Aboriginal communities), topical antibiotics are increasingly not used at all due to resistance, with oral/injectable therapy preferred instead — a notably different practice pattern from mainstream urban UK guidance.
+> **School exclusion:** the Australian standard across multiple state health departments (NSW, Victoria, Queensland, SA all broadly consistent) is **exclusion until the day after antibiotic treatment has started** (not "until crusted and healed, or 48h after commencing treatment" as below) — with any exposed sores covered by a waterproof/watertight dressing in the meantime. This is generally a shorter, simpler exclusion period than the UK-style figure, worth knowing as a genuine practical difference for patient/parent advice.
+> **Mx:** H2O2 1% cream, or topical mupirocin first-line (fusidic acid as an alternative, though resistance rates make it a less reliable first choice per the note above). In extensive disease, use PO flucloxacillin or erythromycin (for penicillin allergy). **School exclusion until the day after starting treatment, with any exposed sores covered by a waterproof dressing** (not the longer UK-style period above). Advise twice-daily washing with soap and water — same advice for people who have been in contact.
+
+## Folliculitis
+
+- **D:** inflammatory process involving any part of the hair follicle; most commonly secondary to infection.
+- **R:** trauma (including shaving, extraction), topical corticosteroids, diabetes, immunosuppression.
+- **A/P:** most commonly infectious in origin — *S. aureus*, *Klebsiella*, *Enterobacter*, *Proteus*, *Pseudomonas aeruginosa* (hot tub folliculitis). Fungal agents (often in young men); viral (herpes simplex, VZV, *Molluscum contagiosum*).
+- **S/Smx:** red bumps on skin with history of trauma or other risk factors; ± pruritus/mild discomfort in early stages. If the condition worsens, can become very painful with furuncles or carbuncles.
+- **Ix:** clinical diagnosis; consider viral skin swab, skin scraping for microbiology.
+- **Mx:** uncomplicated folliculitis — usually self-limiting; conservative treatment (antibacterial soaps, loose clothing, cool dry environment, careful shaving). Recurrent infectious folliculitis — PO antibiotic therapy guided by swabs (± flucloxacillin).
+
+## Cellulitis & erysipelas
+
+> [!note] Full entry consolidated into [[08_09_Infectious_Disease_-_Miscellaneous]] Cellulitis, not duplicated here — that entry now incorporates the risk factors, erysipelas distinction, and full Ix/Mx detail (including the AU-specific purulent/non-purulent drug choice and Eron classification) from both this file's original content and the Infectious Disease file's, merged into a single authoritative version. Cross-referenced here as this is also a core dermatology topic, but kept as a single-source entry to avoid drift between two independently-maintained copies of the same disease.
+
+## Head lice (pediculosis capitis)
+
+- **D:** infestation of the parasitic head louse *Pediculus humanus capitis* — also known as "nits".
+- **R:** age 3–12, F>M, close contact with infected people, overcrowding or close living conditions.
+- **A/P:** head lice grow on hair and feed on human blood.
+  - Eggs are grey or brown, approximately the size of a pinhead (diagnostic).
+  - Eggs are glued to the hair close to the scalp, and hatch in 7–10 days.
+  - Nits are the empty egg shells — white and shiny, found further along the hair shaft as hair grows.
+- **S/Smx:** common in children; causes itching and scratching.
+- **Ix:** fine-toothed combing of wet or dry hair should reveal eggs, nits, or living lice.
+
+> [!info] Verified against the eTG "Insects and mites" chapter and Victorian/NSW school exclusion tables, Aug 2026 — this section turns out to already be substantively correct for Australia rather than needing wholesale replacement. The product sequence (dimeticone first-line, topical ivermectin, malathion third-line given resistance) matches current eTG guidance directly. **"School exclusion is not necessary" is also confirmed correct for Australia** — Victorian and NSW health department exclusion tables both confirm head lice do not require school exclusion, consistent with the note below (a case where checking confirmed the existing content rather than needing correction).
+
+- **Mx:** treatment only indicated if living lice are found — contacts do not need to be treated unless living lice are found in them. School exclusion is not necessary.
+  - Dimeticone or cyclomethicone — apply, leave for 30 minutes to 8 hours (depending on product), rinse; repeat treatment after 8–10 days.
+  - Ivermectin topical lotion — apply, leave for 10 minutes, rinse.
+  - 3rd line: malathion (due to resistance) — apply, leave for 8–12h, rinse.
+  - Mechanical removal (especially for children <2 months old) or wet combing.
+  - Follow product instructions carefully to prevent recurrence.
+
+## Scabies
+
+- **D:** infestation with the ectoparasitic mite *Sarcoptes scabiei*.
+- **R:** overcrowding, <15 years old or >65 years old, sexual contact with new or multiple partners, immunosuppression.
+- **A/P:** the scabies mite burrows into the epidermis, tunnels through the stratum corneum, and lays 2–4 eggs per day.
+  - Larvae hatch in 2–4 days, develop into adult mites ~2 weeks later.
+  - Transmission is via direct and prolonged skin-to-skin contact + fomites (clothes, bedding).
+  - Host immune response causes pruritus, erythema, papules and nodules — appears 3–4 weeks after initial infestation, but within 1 day upon re-infestation (delayed type IV hypersensitivity).
+- **S/Smx (clinical diagnosis):** widespread pruritus; linear burrows on the sides of fingers, interdigital webs, flexor aspects of wrist; in infants, face and scalp are affected; also excoriation, secondary infection.
+
+> [!info] Verified against the National Healthy Skin Guideline (Telethon Kids Institute — the dedicated Australian national guideline for scabies and other skin infections), AMH, and NSW Health scabies advisory, Aug 2026 — the core drug choices are consistent, but the hierarchy and paediatric dosing detail benefit from AU-specific clarification.
+> **Permethrin 5% cream is confirmed first-line**, consistent with the note below. **Oral ivermectin is specifically second-line in Australia** — indicated for typical scabies when topical permethrin has failed, and as first-line specifically for crusted scabies (a more severe, heavily-infested form, notably more common in some Aboriginal and Torres Strait Islander communities and immunocompromised patients) — this explicit first/second-line hierarchy isn't stated in the original note, which presents ivermectin and malathion as parallel options rather than making clear permethrin is preferred first. Weight-based paediatric ivermectin dosing exists down to 10–14.9kg (children aged 2–4yo); for children <10kg, permethrin (or crotamiton/Eurax) is used instead given ivermectin isn't established as safe/effective at this weight. Scabies is genuinely more prevalent in some Australian settings (aged care facilities, some remote Aboriginal and Torres Strait Islander communities, institutional settings) — worth knowing as an Australian epidemiological context point, not present in a UK-focused note. Scabies is **not a nationally notifiable condition** in Australia (confirmed at least for NSW), consistent with it not appearing in the NNDSS categories established in [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Notifiable Diseases (Australia), not repeated here.
+> **Mx:**
+> - Permethrin 5% cream applied to all areas including face & scalp — allow to dry and leave on skin for 8–12h; re-apply if washed off (e.g. washing hands); repeat treatment 7 days later. Large quantities needed. Contraindicated in patients allergic to chrysanthemum.
+> - Second-line: PO ivermectin (weight-based dosing; first-line specifically for crusted scabies) or topical malathion 0.5% (24h application) if permethrin fails or is unsuitable.
+> - For all patients: avoid close physical contact with others until treatment is complete; all household and close physical contacts should be treated at the same time, even if asymptomatic; launder, iron or tumble dry clothing, bedding, towels on the first day of treatment; advise that itch can last 4–6 weeks post eradication.
+> - School/childcare exclusion: until the day after appropriate treatment has commenced.
+
+
+<!-- ===== SOURCE: 09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections.md ===== -->
+
+
+## Tinea / Dermatophyte infections
+
+- **D:** superficial fungal infection. Dermatophytes are fungal organisms that require keratin for growth.
+- **R:** exposure to infected people, animals, or soil; exposure to fomites (hats, combs, hairbrushes, upholstery); chronic topical or PO steroid use; HIV; diabetes; occlusive clothing; hot, humid weather; obesity; hyperhydrosis; frequent public bathing + going barefoot; deformities of the feet; recent trauma to skin.
+- **A/P:** fungal organisms (*Microsporum*, *Trichophyton*, *Epidermophyton* spp) transmitted via direct contact, fomites, soil, or animals.
+
+**Sites affected:**
+
+| Site | Terms |
+|---|---|
+| Hair/hair follicles | Tinea capitis, tinea barbae, Majocchi's granuloma |
+| Skin | Tinea faciale, tinea corporis, tinea cruris, tinea manuum, tinea pedis |
+| Nail | Tinea unguium (onychomycosis is the broader term, also covering yeasts and moulds) |
+
+### Onychomycosis (fungal nail infection)
+
+> [!note] Gap-filled — previously only a single row in the table above; expanded given how commonly encountered this presentation is and how genuinely different its management is from skin/scalp tinea (much longer treatment courses, reflecting the slow growth rate of nail rather than skin).
+
+- **D:** fungal infection of the nail unit — dermatophytes (~70% of cases, most commonly *Trichophyton rubrum*) are the leading cause, with non-dermatophyte moulds (~20%) and *Candida* species (~10–20%) accounting for the remainder.
+- **R:** older age, diabetes, concurrent tinea pedis (a genuinely common combination, given the same fungus commonly spreads from foot skin to adjacent nails), poor peripheral circulation, immunosuppression, psoriasis, occlusive footwear.
+- **S/Smx:** nail discolouration (yellow/white/brown), thickening, onycholysis (nail lifting from the nail bed), brittleness, and subungual debris — most commonly affects toenails, less often fingernails.
+- **Ix:** confirm the diagnosis before starting oral treatment, given the length and side-effect profile of the course below — nail clippings/scrapings for microscopy (KOH preparation) and fungal culture; a clinical diagnosis alone is genuinely less reliable here than for skin tinea, given several other conditions (psoriatic nail disease, nail trauma, lichen planus of the nail) can closely mimic onychomycosis on appearance alone.
+- **Mx:**
+  - **Oral antifungals — the preferred, most effective treatment for significant nail involvement:** oral terbinafine is first-line, given superior cure rates compared to itraconazole and griseofulvin in comparative trials. **Course length is genuinely much longer than for skin/scalp tinea, and differs by site: toenails require ~12 weeks of continuous therapy, fingernails typically only ~6 weeks**, reflecting how much more slowly nail grows compared to skin. Baseline LFTs before starting, and monitoring during treatment, given a small but genuine risk of hepatotoxicity.
+  - **A genuinely important point on timing expectations:** visible clinical improvement lags well behind the mycological cure — the nail has to grow out the affected portion, meaning the full cosmetic result isn't apparent until many months after treatment finishes (often not until close to 12 months post-treatment for toenails specifically) — worth explaining clearly to patients so they don't judge treatment as having failed simply because the nail doesn't look normal immediately after finishing the course.
+  - **Topical antifungal lacquers:** an option for mild disease limited to the distal nail plate, or where oral therapy is contraindicated/not tolerated — genuinely less effective than oral treatment given poor nail penetration, but avoids the systemic side-effect profile.
+  - **Nail debridement/removal** (mechanical or chemical) may be used alongside antifungal therapy for thickened nails, improving drug penetration and symptomatic comfort, particularly in severe disease.
+  - **Recurrence is genuinely common** even after apparently successful treatment, particularly if predisposing factors (concurrent tinea pedis, occlusive footwear) aren't also addressed — treating the whole clinical picture (including any co-existing tinea pedis) rather than the nail in isolation reduces this risk.
+
+### Tinea capitis
+
+- Often in children; can cause scarring alopecia.
+- If untreated, a kerion may form — a raised, pustular, spongy/boggy mass.
+- Most common cause is *Trichophyton tonsurans*; also *Microsporum canis* (acquired from cats or dogs).
+- **Dx:** clinical ± scalp scrapings — under Wood's lamp, *Microsporum* will glow green.
+- **Mx:** PO antifungals — terbinafine for *Trichophyton*; griseofulvin for *Microsporum* (take after fatty meals OD, requires an 8–10 week course as it is fungistatic). For both: topical ketoconazole for the first 2 weeks (topical agents alone are not effective as they do not penetrate the hair shaft).
+
+### Tinea corporis (ringworm)
+
+- Well-defined annular, erythematous lesions with pustules and papules.
+- **Mx:** topical agents until no further infection is visible, then continue for 2 weeks thereafter (~2–6 weeks total) ± PO azole therapy.
+
+### Tinea pedis (athlete's foot)
+
+- Itchy, peeling skin between the toes.
+- **Mx:** topical terbinafine + disinfect footwear, avoid going barefoot in public spaces. Apply topical agents until no further infection is visible, then continue for 2 weeks thereafter (~2–6 weeks total).
+
+**General advice:** disinfect hairbrushes and combs; wear loose-fitting clothing; avoid sharing clothes and combs; avoid walking barefoot in public areas; thoroughly dry any infected areas after washing before dressing; for tinea pedis, alternate footwear and use foot powders to reduce risk of relapse.
+
+### Pityriasis versicolor (tinea versicolor)
+
+- **D:** superficial cutaneous fungal infection caused by *Malassezia furfur*.
+- **R:** immunosuppression (although can occur in healthy individuals), Cushing's syndrome, malnutrition.
+- **S/Smx:** most commonly on the trunk; hypopigmented, pink, or brown patches ± scale; mild pruritus.
+- **Mx:** topical antifungal (e.g. ketoconazole shampoo). If diagnosis uncertain, send scrapings to confirm — if confirmed and refractory, PO itraconazole.
+
+## Candida (cutaneous candidiasis)
+
+- **D:** infection of the skin by *Candida albicans*, a yeast-like fungus that is part of the commensal flora of the GIT and vagina.
+- **R:** skin folds, ↑heat, ↑moisture, trauma, immunocompromise.
+- **A/P:** colonisation is usually asymptomatic, but can cause infection if the skin barrier is disrupted or immune defences are lowered.
+- **Ix:** clinical diagnosis ± bloods, blood cultures if sepsis suspected.
+- **Mx (uncomplicated):** adults — topical imidazole (clotrimazole, ketoconazole, etc) or topical terbinafine. Children — topical imidazole.
+- **Mx (inflammation/itch):** topical corticosteroid cream (e.g. hydrocortisone 1%) OD/BD for a maximum of 7–14 days, reassess for improvement.
+- **If widespread, immunocompromised, or refractory to initial treatment:** PO fluconazole for 2 weeks → reassess; consider swabbing and referral to dermatology. For children — refer to dermatology.
+- **General hygiene for all patients:** avoid skin occlusion; wash skin regularly with soap substitute; dry adequately; lose weight if obesity is a contributing factor.
+
+*(For vaginal candidiasis/thrush, see 17.07)*
+
+## Seborrhoeic dermatitis
+
+> [!note] Gap-filled from CSV ("Seborrhoeic dermatitis," Medium yield) — genuinely absent despite being commonly examined; placed here given the *Malassezia* fungal association shared with pityriasis versicolor above, not because it's a true dermatophyte infection itself.
+
+- **D:** a chronic, relapsing inflammatory skin condition affecting sebaceous-gland-rich areas — genuinely distinct from seborrhoeic *keratosis* (a benign proliferative skin lesion, covered elsewhere in this project) despite the similar name, a common point of confusion worth explicitly flagging.
+- **A/P:** thought to involve an inflammatory response to *Malassezia* yeast species (the same genus implicated in pityriasis versicolor above) in genetically predisposed individuals, rather than a straightforward infection — this is why antifungal treatment helps but the underlying process is inflammatory/reactive rather than purely infective.
+- **R:** infancy (a distinct, usually self-limiting form — "cradle cap") and adulthood (typically 30–60yo) are the two peak ages; immunosuppression (including HIV, where seborrhoeic dermatitis can be more extensive/severe) and Parkinson's disease are recognised associations — the latter thought to relate to increased sebum production and reduced facial movement/hygiene in this population.
+- **S/Smx:** erythematous patches with greasy, yellowish scale, typically affecting the scalp (dandruff is a mild form of scalp seborrhoeic dermatitis), nasolabial folds, eyebrows, and ears; mild pruritus is common. In infants, presents as "cradle cap" — greasy yellow scale on the scalp, usually resolving spontaneously within the first year of life without treatment.
+- **Ix:** clinical diagnosis, based on the characteristic distribution and appearance above — no specific test is routinely needed; skin scraping/biopsy is reserved for atypical presentations or to exclude mimics (e.g. psoriasis, which can affect similar areas — see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Psoriasis for the comparison, not repeated here).
+- **Mx:**
+  - **Adults — scalp:** antifungal shampoo (e.g. ketoconazole) is first-line, given the *Malassezia* association above; topical corticosteroids for more inflamed/symptomatic disease, used short-term given the same general steroid-course-limiting principles as elsewhere in this project.
+  - **Adults — face/body:** topical antifungal (e.g. ketoconazole cream) ± mild topical corticosteroid for flares; topical calcineurin inhibitors (e.g. tacrolimus) are a steroid-sparing option for chronic facial disease specifically, given the face's greater vulnerability to steroid-related skin atrophy.
+  - **Infants (cradle cap):** usually no treatment needed given spontaneous resolution; gentle emollient application and soft brushing to loosen scale if parents wish to treat, reserving antifungal/steroid treatment for more extensive or symptomatic cases.
+  - **Chronic/long-term:** genuinely a chronic relapsing-remitting condition in adults (unlike the infantile form) — patients should be counselled to expect recurrence and the need for intermittent rather than one-off treatment, similar in spirit to eczema/psoriasis management above.
+
+## Viral warts
+
+- **D:** warts are elevated, round, hyperkeratotic skin papules with a rough greyish-white or light brown surface.
+- **R:** water immersion, occupations involving handling of meat or fish, nail biting, <35 years old, immunocompromise.
+- **A/P:** HPV types 1, 2, 3, 27, 57, and 63 infect keratinocytes, causing koilocytosis (viral transformation of the keratinocyte) and proliferation. Plantar warts are associated with HPV-1.
+- **S/Smx:** round, raised papules ranging from pinpoint to 1cm, averaging 5mm; tiny black dots on the surface may be seen after gentle paring with a scalpel. Often on fingers or nail folds; filiform warts are associated with facial skin. Warts may fissure, bleed, and cause pain; can also have a rough, scaly appearance.
+- **Ix:** clinical diagnosis.
+- **Mx:** watchful waiting in immunocompetent patients, especially children (90% clear in 5 years spontaneously). Salicylic acid ± duct tape occlusion, cryotherapy, silver nitrate. Daily application of salicylic acid-containing compounds for ~8 weeks. Adverse effects: tenderness, erosion, superinfection. Cryotherapy adverse effects: blistering, pain, pigmentation change, recurrence. For resistant or recurring warts: imiquimod (90% cleared at 4 weeks with daily or every-other-day application), PO zinc sulfate, or pairing with surgical removal/cryotherapy.
+
+## Molluscum contagiosum
+
+- **D:** long-term infectious condition causing cutaneous lesions.
+- **R:** close/sexual contact with affected people, atopic dermatitis, immunocompromise, tropical/humid climate.
+- **A/P:** molluscum contagiosum virus (MCV), a poxvirus, infects keratinocytes ± mucosa → papular lesions. Abnormal keratinocytes are termed Henderson-Patterson bodies.
+- **S/Smx:** pinkish/pearly white papules with central umbilication, ≤5mm. Lesions appear in clusters anywhere on the body, except palms and soles. In adults, sexual contact may lead to lesions on the genitalia, pubis, thighs and lower abdomen. Lesions are rarely on the oral mucosa and eyelids.
+- **Mx:** conservative, as the condition is self-limiting — spontaneously resolves in ~18 months. Avoid sharing towels, clothing, baths with uninfected people. Avoid scratching lesions. School/social exclusion not needed.
+  - Treatment if desired: squeezing (with fingernails) or piercing lesions, then bathing — only a few lesions at once; cryotherapy.
+  - Eczema/inflammation associated with lesions — emollients, mild steroid (hydrocortisone), topical antibiotics (fusidic acid).
+  - Refer if: immunocompromised (e.g. HIV with extensive lesions), eyelid margin or ocular lesions, or anogenital lesions (refer to sexual health service to rule out other STIs).
+
+
+<!-- ===== SOURCE: 09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa.md ===== -->
+
+
+## Varicella zoster virus (VZV) / chickenpox
+
+- **D:** a childhood exanthem caused by the human α-herpesvirus VZV.
+- **R:** exposure, age 1–9 years, unimmunised status, occupational exposure.
+- **A/P:** direct contact or airborne respiratory droplet spread → virus spreads to regional lymph nodes causing a primary viraemic phase → spreads to liver, spleen, etc. Secondary viraemic phase at ~day 9 — mononuclear cells transport the virus to the skin and mucous membranes → classic vesicular rash. Patients are infectious 2–4 days before onset of rash, and remain so until lesions are crusted over. Incubation period is ~14 days.
+- **S/Smx:** fever initially ± mild systemic upset. Rash: itchy, starts on head/trunk; macular → papular → vesicular. Severe disease is associated with complications such as pneumonia, neurological sequelae, hepatitis, secondary bacterial infection.
+
+> [!warning] Do not give NSAIDs in chickenpox — possible increased risk of secondary bacterial infections; secondary invasive GAS infections can result in necrotising fasciitis.
+
+- **Ix:** clinical diagnosis in the large majority of cases, given the characteristic vesicular rash and exposure history — laboratory confirmation is reserved for atypical presentations or when the result would change management (e.g. confirming diagnosis in a pregnant or immunocompromised contact where VZIG/antiviral decisions depend on it): PCR of vesicle fluid (*why:* the most sensitive and specific confirmatory test when needed, particularly useful in atypical or severe presentations; *what:* confirms VZV directly). VZV IgG serology (*why:* used specifically to determine immune status in an exposed but asymptomatic at-risk contact (e.g. a pregnant woman with uncertain vaccination/infection history) — this is the test that directly drives the PEP decision below, not a diagnostic test for active infection; *what:* positive IgG indicates prior immunity, negative indicates susceptibility and potential need for VZIG).
+- **Mx:**
+  - **Immediate/acute:** supportive — keep cool, trim nails, calamine lotion; at-risk patients (immunocompromised, pregnant, neonates, or severe disease) — PO/IV antiviral therapy, given within 72h of onset for maximum benefit.
+  - **Definitive:** school exclusion until lesions have crusted over, matching the infectious period described above.
+  - **Chronic/long-term:** monitor for and manage the complications above (secondary bacterial infection, pneumonia, neurological sequelae) if they develop; varicella vaccination is part of the routine National Immunisation Program schedule for prevention in future — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) for the AU-specific timing, not repeated here.
+
+### Post-exposure prophylaxis (PEP)
+
+- Varicella zoster immunoglobulin (VZIG) for PEP — **passive** immunisation: preformed antibody giving immediate but temporary cover, which is why it is time-limited and why it does not remove the need for vaccination later (see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Passive Immunisation — Immunoglobulin After an Exposure).
+- Indicated for significant exposure to VZV/HZV in patients with clinical conditions that increase risk of severe varicella — pregnant women, immunocompromised patients, neonates — and no antibodies to VZV.
+
+### VZV in pregnancy
+
+> [!danger] VZV infection in pregnancy carries significant maternal and fetal risk.
+> - Mother: 5× risk of pneumonitis.
+> - Fetal varicella syndrome — 1% risk if infection occurs before 20 weeks gestation: skin scarring, eye defects (microphthalmia), limb hypoplasia, microcephaly, learning disabilities.
+> - Shingles in infancy — 1–2% risk if maternal exposure occurs in the 2nd/3rd trimester.
+> - Severe neonatal varicella — fatal in 20% of cases.
+
+- **VZV prophylaxis/Mx in pregnancy:** if in doubt, check maternal blood for varicella antibodies.
+  - If ≤20 weeks and not immune — give VZIG as soon as possible (effective up to 10 days post-exposure).
+  - If >20 weeks and not immune — either VZIG or PO antivirals from day 7 to 14 post-exposure.
+
+## Herpes zoster / shingles
+
+- **D:** reactivation of VZV, characterised by dermatomal pain and papular rash.
+- **R:** >50 years old, F>M, HIV, chronic steroid use, chemotherapy, malignancies.
+- **A/P:** reactivation of latent VZV from the dorsal root or cranial nerve ganglia, present since primary infection. Latent infection is established by evading the immune system.
+- **S/Smx:**
+  - Prodromal period: burning pain for 2–3 days + fever in 20% of patients, headache, fatigue.
+  - Vesicular eruption follows in the dermatomal distribution of the infected ganglion (usually T1 to L2) — pain (localised, stinging), pruritus, rash (erythematous maculopapular → clear vesicles → crusted over). Does not cross the midline.
+  - Corneal ulceration if CN V involved.
+- **Ix:** clinical diagnosis in the large majority of cases, given the characteristic dermatomal vesicular rash — laboratory confirmation (PCR of vesicle fluid) is reserved for atypical presentations (e.g. disseminated disease, diagnostic uncertainty, or immunocompromised patients where the distribution may be less classic).
+- **Mx:**
+  - **Immediate/acute:** antivirals within 72h of onset (aciclovir, famciclovir, valaciclovir) — benefits include ↓incidence of post-herpetic neuralgia, especially in older people, making early recognition and prompt treatment genuinely time-sensitive; analgesia — paracetamol & NSAIDs, neuropathic agents (e.g. amitriptyline, gabapentin/pregabalin) given the neuropathic nature of the pain; PO corticosteroids in the first 2 weeks if immunocompetent, for symptom control (does not reduce post-herpetic neuralgia risk, a distinct point worth knowing from the antiviral benefit above).
+  - **Definitive:** advise patients they are potentially contagious to non-immune contacts (via direct contact with vesicle fluid, not respiratory spread the way primary varicella is) — avoid pregnant women and immunosuppressed people until vesicles have crusted over (usually 5–7 days following onset); covering lesions reduces transmission risk.
+  - **Chronic/long-term:** manage post-herpetic neuralgia if it develops (neuropathic agents, specialist pain referral if refractory); shingles (zoster) vaccination is available for prevention in eligible age/risk groups — see [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Vaccination Schedule (Australia — National Immunisation Program) for the AU-specific eligibility and funding detail (including the earlier funded age for Aboriginal and Torres Strait Islander people), not repeated here.
+- **Complications:** post-herpetic neuralgia (5–30%, resolves within ~6 months, may be longer); ophthalmic involvement; Ramsay Hunt syndrome (ear lesions and facial paralysis).
+
+*(See also [[05_Ophthalmology]] Ophthalmic Shingles)*
+
+## Pityriasis rosea
+
+- **D:** inflammatory skin disease with unclear aetiology.
+- **R:** age 10–35, F>M.
+- **S/Smx:**
+  - In some individuals, there may be a history of a recent viral infection.
+  - Herald patch — usually on the trunk, appearing about 2 weeks before the main rash.
+  - Erythematous, oval, scaly patches — "fir-tree" appearance, where the longitudinal diameters of the oval lesions run parallel to the lines of Langer.
+- **Ix:** clinical diagnosis.
+  - **DDx: guttate psoriasis** (see [[09_04_Dermatology_-_Eczema__Psoriasis__Rosacea]] Psoriasis → Classification & features) — usually preceded by strep throat (2–4 weeks prior), and presents with "tear drop" scaly papules on trunk and limbs. Either way, both conditions are self-resolving.
+- **Mx:** watch & wait — usually resolves spontaneously after 6–12 weeks.
+
+*(See also [[09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections]] Pityriasis versicolor (tinea versicolor))*
+
+## Hidradenitis suppurativa
+
+- **D:** chronic inflammatory skin disease that primarily involves intertriginous areas (e.g. axilla, groin, perineum).
+- **R:** obesity, F>M, smoking, family history.
+- **A/P:** possibly an autoimmune disease — repeated inflammation occludes the hair follicles and apocrine glands → nodules, abscesses and scarring.
+- **S/Smx:** recurrent, painful and inflamed nodules, especially in the axillae; nodules may rupture, releasing pus. More severe/complicated disease: rope-like scarring, plaques, sinus tracts, contractures, lymphatic obstruction.
+
+> [!info] **Hurley classification — 3 stages, and the distinction that separates them is *sinus tracts and scarring*, not how many lesions there are.**
+> - **Stage I:** single or multiple isolated abscesses/nodules — **no sinus tracts, no scarring**.
+> - **Stage II:** recurrent abscesses, **widely separated** lesions, **with sinus tract formation and scarring**.
+> - **Stage III:** **diffuse or near-diffuse involvement** of an entire area, with multiple interconnected sinus tracts and abscesses.
+>
+> **Why it matters clinically:** Hurley stage is what drives the management ladder below — topical therapy and lifestyle measures at stage I, systemic therapy at stage II, and biologic plus surgical management at stage III. Staging a patient is therefore the step that decides treatment, not a descriptive afterthought.
+>
+> **The three classes were named but never listed** before the G4 round (2026-08-29) — the box announced a count and gave nothing, so the classification could not actually be applied. See `PENDING_GUIDELINE_CHECKS.md` **B54** for the Australian drug-specific questions this raised.
+
+- **Ix:** clinical diagnosis.
+- **DDx:** acne vulgaris (mainly face, upper chest; see [[09_03b_Dermatology_-_Acne_Vulgaris]] Acne vulgaris), follicular pyoderma (should respond rapidly to antibiotics), donovanosis (STI, mainly in regions of sexual contact; see [[08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs]] Donovanosis (granuloma inguinale)).
+- **Mx:**
+  - Good hygiene, loose-fitting clothes.
+  - Smoking cessation, weight loss.
+  - Medical management: steroids (injection into lesion, or PO), antibiotics (e.g. flucloxacillin); long-term — topical or PO antibiotics (e.g. topical clindamycin, PO rifampicin).
+  - Surgical: excision of nodules.
+- **P:** depends on how well controlled the disease is; complete remission may require surgical intervention. May have a profound impact on quality of life.
+
+
+<!-- ===== SOURCE: 09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers.md ===== -->
+
+
+## Melanoma
+
+- **D:** malignant tumour arising from melanocytes.
+- **R:** family history, personal history (melanoma, actinic damage, atypical naevi), white skin, red/blond hair colour, light eye colour, high freckle density, sun exposure, sunbed use, large congenital naevi, immunosuppression, xeroderma pigmentosum.
+
+> [!info] Clinical classification
+> - **Superficial spreading melanoma** — 70–80%, spreads superficially before extending to the dermis.
+> - **Nodular melanoma** — 9–15%, poorer prognosis.
+> - **Lentigo maligna melanoma** — 5–15%, slower growing.
+> - **Acral lentiginous melanoma** — 1–3%, seen in darker skin, on palms, soles and nail apparatus.
+> - Plus other rarer variants.
+
+- **S/Smx:**
+
+> [!tip] ABCDE rule for suspicious pigmented lesions
+> - **A**symmetry of lesion
+> - **B**order irregularity
+> - **C**olour variability
+> - **D**iameter >6mm
+> - **E**volution
+
+  - Any lesion that looks atypical compared to surrounding skin should raise suspicion — the "ugly duckling sign".
+  - Melanoma of the nail: persistent single-nail melanonychia striata; Hutchinson's sign (melanoma extending into the proximal/lateral nail fold).
+  - Bleeding of the lesion.
+- **Ix:** dermoscopy (*why:* the first-line non-invasive tool to assess a suspicious pigmented lesion, improving diagnostic accuracy over naked-eye assessment alone and helping decide whether biopsy is warranted; *what:* specific dermoscopic features (atypical pigment network, blue-white veil, irregular streaks) support melanoma over the benign mimickers in the DDx table below). Excision biopsy (*why:* the definitive diagnostic test — a full-thickness excisional biopsy with a narrow margin is preferred over a partial/shave biopsy wherever feasible, since accurate Breslow thickness measurement (the single most important prognostic factor, per below) requires the full depth of the lesion; a partial biopsy risks under-staging if the deepest part of the tumour is missed; *what:* confirms the diagnosis and, critically, measures Breslow thickness — directly determining the further excision margin and staging work-up below). Immunohistochemistry (*why:* used when the diagnosis is histologically ambiguous, to confirm melanocytic origin and support the malignant diagnosis; *what:* melanoma-specific markers e.g. S100, Melan-A, HMB-45 support the diagnosis). Sentinel lymph node biopsy (*why:* offered for intermediate-thickness melanoma (typically ≥0.8mm or with other high-risk features) to stage regional nodal involvement, which is prognostically important and can guide further Mx, though it is a staging procedure rather than proven to improve survival itself; *what:* a positive sentinel node indicates regional metastatic spread, upstaging the disease and prompting further staging/consideration of adjuvant therapy). Bloods, CT/PET scans (*why:* reserved for more advanced/high-risk disease to screen for distant metastatic spread, not needed for early, thin, node-negative melanoma; *what:* identifies visceral or distant nodal metastases if present).
+
+> [!info] Breslow thickness determines excision margin
+> - 0–1mm thick → 1cm margin
+> - 1–2mm thick → 1–2cm margin
+> - 2–4mm thick → 2–3cm margin
+> - >4mm thick → 3cm margin
+
+**Mx:**
+- **Immediate/definitive:** excision biopsy first, with margins determined by the initial diagnostic excision; once Breslow thickness is known, **wide local excision** to the definitive margin per the Breslow-thickness table above — this staged approach (diagnostic excision, then wider definitive excision once thickness is known) avoids over-excising a lesion that turns out to be thin/low-risk.
+- **Further staging/adjuvant Mx (thicker or node-positive disease):** sentinel lymph node biopsy as above for intermediate/high-risk lesions; **adjuvant systemic therapy** (immunotherapy — e.g. checkpoint inhibitors, or targeted therapy for BRAF-mutant disease) is increasingly used for stage III (node-positive) and high-risk stage II disease, reflecting a significant evolution in melanoma management in recent years beyond surgery alone — this is a genuinely active and rapidly-changing area of oncology.
+- **Metastatic disease:** systemic therapy (immunotherapy, targeted therapy per mutation status) — melanoma treatment has been transformed by these agents over the past decade, with outcomes for metastatic disease now substantially better than the historical prognosis Breslow-based tables below might suggest for equivalent disease extent.
+- **Chronic/long-term (all patients):** regular skin checks and surveillance for recurrence/new primary melanomas, sun protection education, self-examination training — melanoma patients carry an elevated lifetime risk of a second primary melanoma, making ongoing surveillance a standard part of long-term Mx, not just a formality.
+
+- **P:** Breslow thickness is the single most important factor in predicting prognosis.
+
+| Breslow thickness | 5-year survival |
+|---|---|
+| <0.75mm | 95–100% |
+| 0.76–1.50mm | 80–96% |
+| 1.51–4mm | 60–75% |
+| >4mm | ~50% |
+
+- **Risk factors for metastasis:** age >55, acral or head/neck tumour, Breslow's >4mm, vascular invasion, absence of regression, TERT promoter & BRAF mutations.
+
+> [!note] Marjolin's ulcer: cutaneous malignancy arising in the setting of previous tissue damage (e.g. old burn scar, chronic ulcer) — a general concept, not specific to melanoma.
+
+### Melanoma — differential diagnosis
+
+| Diagnosis | Distinguishing features |
+|---|---|
+| Benign/dysplastic melanocytic naevi | More uniform in shape and colour; less likely to itch or bleed |
+| Seborrhoeic keratosis | Waxy, "stuck on", often hyperkeratotic appearance; dermoscopy shows horned cysts, hairpin-shaped blood vessels |
+| Pigmented basal cell carcinoma | Pearly appearance, less pigmented, prominent telangiectatic vessels; dermoscopy shows leaf-like areas of pigmentation, arborising vessels |
+| Pigmented actinic keratosis | More hyperkeratosis and erythema, less pigmented, usually smaller, ± painful |
+| Dermatofibroma | Skin dimpling on palpation, scar-like appearance, typically localised to extremities |
+| Subungual haematoma | Reddish-black globules of pigment growing out distally as the nail grows; usually history of trauma; Hutchinson's sign negative |
+| Intracorneal haematoma | Can be pared away with a scalpel blade |
+| Tinea nigra (superficial infection) | On hands/feet; usually not itchy; more homogenous pigmentation; can be pared away with a scalpel blade |
+| Pyogenic granuloma (lobular haemangioma, usually in children) | Bright red, becomes fleshy pink over time |
+
+## Benign naevi
+
+- **D:** benign collection of melanocytes in the epidermis, dermis, or both.
+- **R:** genetic predisposition, fair skin, age — older children and young adults.
+
+### Subtypes
+
+- **Congenital melanocytic naevi** — >1cm diameter, ↑risk of malignant transformation.
+- **Junctional melanocytic naevi** — circular macules, may have heterogenous colour; most naevi of the palms, soles, and mucous membranes are this type.
+- **Compound naevi** — domed pigmented nodules ≤1cm diameter; arise from junctional naevi, usually uniform colour + smooth.
+- **Spitz naevi** — usually develop over a few months in children; pink or red, most common on the face and legs; may grow ≤1cm ± rapid growth.
+- **Atypical naevus syndrome** — ± autosomal dominant inheritance; some increased risk of melanoma, especially if a parent/sibling has had melanoma.
+
+## Seborrhoeic keratosis
+
+- **D:** benign skin tumour, usually multiple, typically over the torso and forehead.
+- **R:** >50 years old, light skin, family history, sun/UV exposure.
+- **A/P:** skin ageing.
+- **S/Smx:** appears "stuck on" with a wart-like texture. Subtypes: flat, raised, filiform (thread-like), and pedunculated. Variable colours; surface may have a greasy scale overlying it. Painless, but can be very itchy. Associated with blepharitis (eyelid inflammation).
+- **Ix:** dermoscopy — milia-like cysts and comedo-like openings.
+- **Mx:** conservative or shave excision.
+
+## Dermatofibroma
+
+- **D:** solitary dermal fibrous nodule.
+- **A/P:** may develop after minor trauma to the skin (e.g. shaving).
+- **S/Smx:** young adults, F>M; usually <1cm, on extremities; feels like a small rubbery button lying just under the surface of the skin; pink to brown in colour, forming a ring around the knot of tissue.
+- **Mx:** conservative or excision.
+
+## Pyoderma gangrenosum
+
+> [!warning] FLAG 2026-09-01 — cross-system association worth keeping visible
+> Strongly associated with inflammatory bowel disease. `GI_merged §0.16.3 Extra-intestinal features of
+> IBD (both CD and UC)` is the other end. **The skin lesion stays here**; the link is flagged so a
+> reader arriving from either side finds the other.
+
+- **D:** non-infectious, inflammatory disorder resulting in painful ulcers.
+- **A/P:** neutrophilic dermatosis — dense infiltration of neutrophils in the affected tissue.
+- **Associations:** IBD (10–15%), rheumatological disorders (RA, SLE), haematological disorders (myeloproliferative disease, lymphoma, myeloid leukaemias, MGUS), granulomatosis with polyangiitis ("Wegener's"), primary biliary cirrhosis; 50% idiopathic.
+- **S/Smx:**
+  - Location: typically the lower limb, often at the site of minor injury (pathergy).
+  - Usually starts suddenly as a small pustule, red bump, or blood-blister.
+  - Later, the skin breaks down resulting in an often-painful ulcer — edge is purple, violaceous and undermined; ulcer may be deep and necrotic.
+  - May be associated with fever and myalgia.
+- **Ix:** clinical diagnosis ± histology to rule out other causes of ulcer.
+- **Mx:** PO steroids. In difficult cases, ciclosporin and infliximab may have a role. Surgical options delayed until disease is relatively under control, to prevent further damage.
+
+
+<!-- ===== SOURCE: 09_03a_Dermatology_-_Non-Melanoma_Skin_Cancer.md ===== -->
+
+
+## Basal cell carcinoma (BCC)
+
+- **D:** neoplasm of the skin related to sun exposure. Also known as "rodent ulcer".
+- **R:** UV/sunlight, X-ray exposure, arsenic exposure, xeroderma pigmentosum, childhood cancer survivor, transplant patients.
+- **S/Smx:**
+  - Nodular: pearly white with telangiectasias, "rolled borders", small crusts and non-healing wounds; may later ulcerate with a central crater.
+  - Sun-exposed sites, especially head and neck.
+  - Other subtypes (e.g. superficial, pigmented) may have atypical presentations.
+- **Ix:** biopsy (*why:* the definitive diagnostic test, and histopathology (subtype, depth, margin involvement) directly determines which Mx option is appropriate below — exact histopathology matters more here than in many other cancers given how much subtype influences treatment choice; *what:* confirms BCC and identifies the specific histological subtype (nodular, superficial, morphoeic/infiltrative, etc.) and any high-risk features per the prognosis list below).
+
+**Mx:**
+- **Definitive (low-risk lesions):** standard surgical excision (most common approach), or cryosurgery, or non-surgical topical therapies (imiquimod, fluorouracil) for select superficial subtypes, or radiotherapy for patients unsuitable for surgery.
+- **Definitive (high-risk lesions — per the recurrence risk factors below):** Mohs micrographic surgery (with intraoperative frozen sections to ensure margins are clear) — preferred specifically for high-risk lesions and cosmetically/functionally sensitive sites (face, periorbital, nose) given its superior margin control compared to standard excision.
+- **Chronic/long-term (all patients):** strict sun protection measures + frequent skin checks — given the high risk of a further BCC or other skin cancer developing given the same underlying UV-damage risk factors, ongoing surveillance is a standard and important part of long-term Mx, not just a formality.
+- **P:** high risk factors for recurrence — tumour >2cm, located on the central face, poorly defined margins, high-risk histological subtype, histological features of aggression (perineural or perivascular location), failure of previous treatment, immunosuppression.
+
+## Squamous cell carcinoma (SCC)
+
+- **D:** proliferation of atypical, transformed keratinocytes in the skin with malignant behaviour.
+  - Precursor lesions are known as **actinic keratosis (AK)**.
+  - In situ tumours are known as **Bowen's disease**.
+  - Progression: invasive tumours → metastatic disease.
+- **R:** UV exposure, solid organ transplant recipient, immunosuppression, light skin, family history, increasing age, M>F, X-ray/radiotherapy, carcinogens, actinic keratosis, previous skin cancer, long-standing leg ulcers (Marjolin's ulcer).
+
+### Features by stage
+
+- **Actinic keratoses:** small, crusty or scaly lesions; pink, red, brown, or same colour as skin; typically on sun-exposed areas; multiple lesions may be present.
+- **Bowen's disease (SCC in situ):** red, scaly patches, often 10–15mm, slow-growing.
+- **SCC:** tumour grows over 3–6 months. Painless, ulcerating ± bleeding. Cauliflower-like appearance.
+  - Keratoacanthoma — dome-shaped, central keratin-filled crater; involutes after 2–3 months.
+  - Verrucous carcinoma — locally destructive but rarely metastatic; grows outwards, fungus/wart-like.
+- **Ix:** biopsy (*why:* the definitive diagnostic test at every stage of this disease spectrum, and critically distinguishes the three stages below by depth of atypia — a distinction that fundamentally changes Mx urgency and approach, from watchful/topical therapy for AK through to surgical excision for invasive disease; *what:* the specific histological pattern per stage below).
+  - AK — intraepidermal keratinocytic dysplasia, especially in the basal layer.
+  - Bowen's disease — full-thickness atypia, confined to the epidermis, intact basement membrane.
+  - Invasive disease — crosses the basement membrane.
+
+### Management
+
+> [!info] Verified against Cancer Council Australia's own "Clinical Practice Guidelines for Keratinocyte Cancer" (the dedicated Australian national guideline for this exact topic, referenced by Medicine Today) and DermNet, Aug 2026 — the treatment principles below (fluorouracil courses, cryotherapy as the mainstay for solitary/limited AK lesions, and standard excision margins) are broadly internationally consistent and match Australian practice, so this isn't a wholesale replacement — but note a few AU-specific/current refinements: Australia has one of the highest skin cancer rates in the world, so keratinocyte cancer guidance here is genuinely mature and dedicated (not a generic import), and a newer **combined 5-fluorouracil 0.5% + salicylic acid 10% solution** is now available in Australia specifically for lesion-directed and small-field-directed AK therapy (up to 25cm²) — a genuinely current addition not in the original UK-style note. SCC excision margins (4mm for <20mm lesions, 6mm for >20mm, as below) are consistent with international low-risk-tumour margins more broadly, not a UK-specific figure.
+
+- **Mx of actinic keratosis (a precursor lesion, not yet invasive):**
+  - Prevention of further risk — sun avoidance, sun cream.
+  - Fluorouracil cream — typically a 2–3 week course; warn the patient skin will become red and inflamed but to continue; can prescribe a steroid cream to help with inflammation.
+  - Topical diclofenac — may be used for mild AKs, moderate efficacy but fewer side effects.
+  - Topical imiquimod — trials have shown good efficacy.
+  - Cryotherapy; curettage and cautery.
+- **Mx of Bowen's disease (in situ, hasn't crossed the basement membrane):**
+  - As with actinic keratosis. Fluorouracil cream BD for 4 weeks (same warning re: redness/inflammation, ± steroid cream). Cryotherapy. Curettage and cautery.
+- **Mx of invasive SCC:**
+  - **Definitive:** surgical excision with 4mm margins if lesion <20mm; if tumour >20mm, margins should be 6mm — genuinely wider margins than BCC above, reflecting SCC's greater propensity for local invasion and metastasis. Mohs micrographic surgery may be used in high-risk patients and cosmetically important sites, as for BCC above.
+  - **Chronic/long-term:** given SCC (unlike BCC) carries a genuine, if generally low, metastatic potential, patients with high-risk features (per the risk factors above) warrant closer follow-up and consideration of regional lymph node assessment — a distinction worth knowing from BCC's Mx above, which doesn't carry the same metastatic consideration; ongoing sun protection and skin surveillance as for BCC, given the same underlying UV-damage risk factors predispose to further lesions.
+- **P:** good prognostic factors include well-differentiated tumour, <20mm diameter, <2mm deep, no immunosuppression.
 
 
 <!-- ===== SOURCE: G5_Lumps__Ulcers_and_Nails.md ===== -->
@@ -2218,116 +2328,6 @@
 > Acute rash and skin colour assessment in darker skin → [[G1]] 0.1 · Purpura, livedo and mottling → [[G3]] 0.4 · Rosacea and fixed facial erythema → [[G4]] 0.3 · Skin cancer → [[G5]] · Urticaria, anaphylaxis and drug reaction labelling → [[K4]] 0.2–0.3 · Phaeochromocytoma and secondary hypertension → [[I4]] 0.5 and [[B2]] 0.4 · Thyrotoxicosis and medullary thyroid carcinoma → [[I1]] 0.3, 0.5 · Hypoglycaemia → [[I2]] 0.4 · Addison disease and pigmentation → [[I4]] 0.3 · Menopause and vasomotor symptoms → [[O4]] 0.6 · Aromatase inhibitors and adherence → [[O7]] 0.5 · Lymphoma and B symptoms → [[J4]] 0.4 · G6PD deficiency and methylene blue → [[J2]] 0.2 · Carbon monoxide and toxidromes → [[A5]] and [[F0.1]] 0.2 · Heat stroke and hyperthermia → [[A6]] 0.2 · Anticholinergic burden and deprescribing → [[GER1]] 0.4 · Horner syndrome and carotid dissection → [[E3]] and [[D5]] · Jaundice → [[C3]] 0.1 · Perioperative risk in carcinoid and mastocytosis → [[AN1]] 0.7
 
 
-<!-- ===== SOURCE: NEW_Dermatology.md ===== -->
-
-
-# NEW — Dermatology
-
-> [!warning] **Standalone build, not yet integrated.** Built against the header-only existence check in `data/new_build_topics.md`. No cross-references written into existing corpus files.
-
-> [!danger] **Sourcing limitation applying to this whole file.** Australian primary guideline domains are **egress-blocked in this environment** (verified 2026-08-30: 38 domains, `curl` and `WebFetch`, all 403 at the gateway). Entries are **snippet-sourced**. Numerics appear only on three-source agreement; where sources disagreed the figure is omitted and the disagreement stated.
-
-> [!info] **How to use this file.** Rash presentations are split by **morphology** (maculopapular, blistering, non-blanching) and by **tempo** (acute, chronic), because that is how the differential actually narrows at the bedside. The single highest-yield question in all of them is the same: **is this patient systemically unwell, and does this rash blanch?**
-
-## Acute Rash
-
-- **DDx — sort by "sick or not sick" first, then by morphology:**
-  - **Rash in a systemically unwell patient — the emergencies:** **meningococcal septicaemia** (non-blanching, may start blanching and evolve within hours), **toxic shock syndrome**, **necrotising fasciitis** (pain grossly out of proportion to appearance, rapid progression, systemic toxicity), **staphylococcal scalded skin syndrome**, **Stevens–Johnson syndrome/toxic epidermal necrolysis**, **DRESS**, **acute meningococcal or other bacterial sepsis with purpura fulminans**, **erythroderma**, **anaphylaxis with urticaria**.
-  - **Infective:** viral exanthems (measles, rubella, parvovirus B19, enterovirus, EBV, HHV-6), scarlet fever, secondary syphilis, chickenpox, hand-foot-and-mouth, cellulitis, impetigo, fungal infection, scabies, **acute HIV seroconversion illness** (a recognised and frequently missed cause of an acute maculopapular rash with fever).
-  - **Drug-related:** morbilliform drug eruption (much the commonest), urticarial drug reaction, fixed drug eruption, AGEP, and the severe end — SJS/TEN and DRESS above.
-  - **Inflammatory:** acute urticaria, eczema flare or eczema herpeticum, acute contact dermatitis, guttate psoriasis (classically 1–3 weeks after streptococcal throat infection), pityriasis rosea, erythema multiforme.
-  - **Vascular/haematological:** vasculitis, **immune thrombocytopenia**, other causes of purpura (see Non-Blanching Rash below).
-- **Focused Hx:** **time of onset and rate of spread** (hours versus days changes urgency); **where it started and how it spread** (centrifugal, centripetal, flexural, sun-exposed); **fever and systemic symptoms**; **pain, burning or tenderness of the skin** — pain in a rash is a red flag; **mucosal involvement — mouth, eyes, genitals — asked explicitly**, because it separates a benign drug eruption from SJS/TEN; itch; **complete drug history with dates of starting each agent, including antibiotics, anticonvulsants, allopurinol, NSAIDs, over-the-counter and complementary medicines** (a morbilliform eruption typically appears 7–14 days after a new drug; DRESS and SJS/TEN typically 2–8 weeks — the latency is genuinely discriminating); recent infections; contacts and outbreaks; **immunisation status**; travel; sexual history; new soaps, cosmetics, plants, occupational exposures; immunosuppression; atopy and previous skin disease.
-- **Examination:** **vital signs first — this is a systemic assessment, not a skin assessment.** Then: **distribution** (whole body, dermatomal, sun-exposed, flexural, palms and soles — **palm and sole involvement narrows sharply to secondary syphilis, hand-foot-and-mouth, rickettsial disease, erythema multiforme and drug reactions**); **morphology** of the primary lesion (macule, papule, plaque, vesicle, bulla, pustule, wheal, petechia, purpura, nodule); **blanching — press with a glass slide or finger**; **mucous membranes: conjunctivae, mouth, genitals**; **Nikolsky's sign** (skin shears with lateral pressure) where blistering or SJS/TEN is suspected; **percentage body surface area involved**; lymphadenopathy; hepatosplenomegaly; joint swelling; **facial oedema** (a distinctive early sign of DRESS).
-- **First-line Ix:** driven by severity. In a well patient with a classic viral or drug exanthem, **often none**. Otherwise: **FBC with differential** (**eosinophilia points to DRESS**, atypical lymphocytes to viral illness, thrombocytopenia to ITP or sepsis), **CRP**, **UEC**, **LFTs** (transaminitis in DRESS), **blood cultures** if febrile and unwell, **coagulation profile and fibrinogen** if purpura or sepsis, **blood film**, **lactate**, **β-hCG**. Then targeted: **viral serology or PCR**, **HIV testing with consent**, **syphilis serology**, **throat swab and ASOT** in guttate psoriasis, **skin swab** for bacterial or viral (HSV/VZV) PCR, **skin scraping and fungal microscopy**, **skin biopsy** where the diagnosis is unclear or a severe reaction is suspected.
-
-> [!danger] **The five features that make an acute rash an emergency rather than a dermatology referral:** **systemic illness or haemodynamic instability**; **a non-blanching rash**; **mucosal involvement**; **skin pain, blistering or a positive Nikolsky's sign**; **rapid progression over hours**. Any one of them warrants senior review the same hour, not the next clinic.
-
-## Chronic Rash
-
-- **DDx:** **eczema/atopic dermatitis**, contact dermatitis (irritant and allergic), **psoriasis**, seborrhoeic dermatitis, lichen planus, **fungal infection (tinea — commonly misdiagnosed and made worse by topical steroids)**, **scabies** (itch worse at night, burrows in web spaces, household contacts affected), urticaria persisting beyond 6 weeks (chronic urticaria), discoid eczema, pityriasis versicolor, rosacea, **cutaneous T-cell lymphoma/mycosis fungoides** (a long-standing "eczema" that never quite responds is the classic presentation and the one worth remembering), **cutaneous lupus**, dermatomyositis, granuloma annulare, drug-induced photosensitive eruption, and **skin manifestations of systemic disease** — diabetes, thyroid disease, coeliac disease with dermatitis herpetiformis, chronic liver or kidney disease.
-- **Focused Hx:** duration and pattern of relapse and remission; **what makes it better or worse — heat, sweating, sunlight, stress, seasons, occupation, weekends and holidays** (improvement away from work strongly suggests occupational contact dermatitis); distribution and whether it has changed; itch and its severity, including sleep disturbance; **treatments already tried, including potency and duration of topical steroids and whether they helped, partially helped, or made it worse** — worsening on steroids suggests tinea or scabies; personal and family history of atopy, psoriasis, autoimmune disease; systemic symptoms; joint pain and nail changes (psoriatic arthritis); occupational and hobby exposures; **household contacts with itch**.
-- **Examination:** full skin examination **with the patient undressed** — including **scalp, behind the ears, umbilicus, natal cleft, nails, palms, soles and web spaces**, all of which are commonly skipped and all of which carry diagnostic information; distribution pattern (**extensor versus flexural is one of the highest-yield discriminators — psoriasis extensor, atopic eczema flexural**); morphology and scale character (silvery scale, greasy scale, fine collarette); **nail changes** (pitting, onycholysis, oil-drop sign in psoriasis); **Auspitz sign**; lichenification and excoriation; mucosal involvement (Wickham's striae in lichen planus); lymphadenopathy; joint examination.
-- **First-line Ix:** **often clinical**. Where needed: **skin scrapings for fungal microscopy and culture** — a low threshold, since tinea incognito is a common and avoidable error; **skin swab** if secondary infection; **FBC, UEC, LFTs, TFTs, glucose/HbA1c, CRP**; **iron studies and ferritin** where itch is prominent; **coeliac serology** where dermatitis herpetiformis is suspected; **ANA and extractable nuclear antigens** where connective tissue disease is possible; **patch testing** for suspected allergic contact dermatitis (referred, not done acutely); **skin biopsy** where the diagnosis remains unclear, and specifically where **a chronic "eczema" has failed to respond to adequate treatment** — the situation in which cutaneous lymphoma is found.
-
-## Acute Inflammatory Dermatosis
-
-> A framework entry rather than a single condition — built because the build list asks for the comparison itself, not only its members.
-
-- **The concept:** an acute inflammatory dermatosis is **inflammation of the skin presenting acutely**, and the clinical task is to place the patient on a **severity spectrum** rather than to name the entity immediately. The spectrum runs from self-limiting (irritant contact dermatitis, mild eczema flare) through significant-but-manageable (widespread eczema, acute generalised urticaria) to **life-threatening (SJS/TEN, DRESS, AGEP, erythroderma, staphylococcal scalded skin syndrome, necrotising soft tissue infection)**.
-- **The organising questions, in order:**
-  1. **Is the patient systemically unwell?** Fever, tachycardia, hypotension, confusion → resuscitate and escalate before refining the dermatological diagnosis.
-  2. **Is there mucosal involvement?** Eye, mouth or genital involvement moves the patient toward SJS/TEN and away from a simple exanthem.
-  3. **Is the skin painful, blistering, or shearing (Nikolsky positive)?** Loss of the epidermal barrier is a fluid, temperature and infection problem as much as a skin problem.
-  4. **How much body surface area is involved?** **Erythroderma is defined as ≥90–95% involvement** and is a medical emergency in its own right regardless of cause, through fluid loss, heat loss, high-output cardiac failure and infection. (Sources state both 90% and 95%; the exact figure is **not** settled here — the point is "almost all of it".)
-  5. **Is there a drug that could have caused this, and when was it started?** Latency separates the entities more reliably than morphology alone.
-- **Management principle at intern level:** **stop the suspected culprit drug**, assess and support fluids and temperature, provide analgesia, involve dermatology and, for extensive skin loss, discuss with a burns or intensive care service — the physiology of extensive epidermal loss is the physiology of a burn.
-
-## Maculopapular Rash
-
-- **DDx:** **drug eruption** (morbilliform — the commonest cause in hospital, typically 7–14 days after a new drug); **viral exanthem** (measles — with Koplik spots, coryza, conjunctivitis and a descending rash; rubella; parvovirus B19; EBV — classically after amoxicillin; enterovirus; HHV-6 roseola; **acute HIV seroconversion**); **scarlet fever** (sandpaper texture, circumoral pallor, strawberry tongue); **secondary syphilis** (**palms and soles involved** — the finding that should trigger serology); **rickettsial infection** in a returned traveller; **Kawasaki disease** in a child with prolonged fever; **acute rheumatic fever**; early **DRESS**; **graft-versus-host disease** in a transplant recipient.
-- **Focused Hx:** **drug timeline with exact start dates**; fever pattern and whether the rash appeared before, with or after the fever; **immunisation history — measles specifically**; contacts, outbreaks and childcare or school exposure; travel with dates and destinations; **sexual history**, asked properly, since syphilis and HIV both present this way; immunosuppression; sore throat; conjunctivitis; arthralgia (parvovirus, rubella); recent antibiotic exposure.
-- **Examination:** distribution and direction of spread; **palms and soles**; **mucosae — Koplik spots, strawberry tongue, mucosal erosions**; conjunctivae; lymphadenopathy (**posterior auricular and suboccipital in rubella**); hepatosplenomegaly; joint examination; **facial oedema** and skin tenderness as early markers of a severe drug reaction; temperature and full vital signs.
-- **First-line Ix:** **FBC with differential** (eosinophilia → DRESS; atypical lymphocytes → EBV/viral), **CRP**, **LFTs**, **UEC**; **measles PCR/serology and urgent public health notification if measles is suspected** — a notifiable disease where the diagnosis has consequences beyond the patient; **EBV serology or monospot**; **parvovirus B19 serology**; **syphilis serology**; **HIV testing**; **throat swab/ASOT**; **blood cultures** if febrile and unwell; **β-hCG** (parvovirus and rubella both matter in pregnancy).
-
-## Blistering Rash
-
-- **DDx — separate by the level of the split, which determines both appearance and danger:**
-  - **Infective:** **herpes simplex** (grouped vesicles on an erythematous base), **varicella/zoster** (dermatomal in zoster; **disseminated zoster in the immunosuppressed**), **eczema herpeticum** (monomorphic punched-out erosions on eczematous skin, unwell child or adult — an emergency), **impetigo** (bullous and non-bullous), **staphylococcal scalded skin syndrome**, **hand-foot-and-mouth disease**, **necrotising fasciitis** with haemorrhagic bullae.
-  - **Drug-induced and immune:** **SJS/TEN**, **fixed drug eruption with blistering**, **AGEP**, **erythema multiforme** (target lesions), **bullous pemphigoid** (tense blisters, older patients, intensely itchy, subepidermal split), **pemphigus vulgaris** (flaccid blisters and erosions, **mucosal involvement early**, intraepidermal split, Nikolsky positive), **dermatitis herpetiformis** (intensely itchy, extensor, associated with coeliac disease), **linear IgA disease**.
-  - **Physical and other:** burns (thermal, chemical, friction), **phytophotodermatitis**, insect bites, **acute contact dermatitis with vesiculation**, oedema blisters in severe peripheral oedema, porphyria cutanea tarda on sun-exposed skin, diabetic bullae.
-- **Focused Hx:** speed of onset; **pain versus itch — pain suggests infection, SJS/TEN or necrotising infection; itch suggests pemphigoid, dermatitis herpetiformis or contact dermatitis**; distribution and whether dermatomal; **mucosal involvement and its timing** (early mucosal disease suggests pemphigus or SJS/TEN); systemic symptoms; **drug timeline**; sun and plant exposure; contacts; previous similar episodes and whether at the same site (fixed drug eruption); immunosuppression; known eczema; coeliac symptoms; occupational and chemical exposures.
-- **Examination:** **blister character — tense versus flaccid**; **Nikolsky's sign**; distribution including **dermatomal pattern**; mucosae (all three sites); **estimate body surface area of detached and detachable skin**; signs of secondary infection; temperature and vital signs; lymphadenopathy; and in a child, assessment for **non-accidental injury** where the pattern of burns or blistering is not consistent with the history given.
-- **First-line Ix:** **viral swab of deroofed blister base for HSV/VZV PCR** — fast, cheap and frequently diagnostic; **bacterial swab** for culture; **FBC, CRP, UEC, LFTs, albumin, coagulation profile**; **blood cultures** if febrile; **skin biopsy including a perilesional sample for direct immunofluorescence** where an autoimmune blistering disease is suspected — the DIF sample must be taken from perilesional skin, which is the technical point most often got wrong; **coeliac serology** for dermatitis herpetiformis; **urinary porphyrins** where PCT is suspected; **fluid balance and daily weights** where the area is extensive.
-
-## Non-Blanching Rash and Purpuric Rash
-
-> Built as one entry — a purpuric rash *is* a non-blanching rash, and separating them would duplicate identical content. Both list topics are covered here.
-
-- **D:** a rash that **does not blanch under pressure** indicates **blood outside the vessels**, in contrast to erythema, which does blanch. **Petechiae** are small (pinpoint) lesions; **purpura** larger; **ecchymoses** larger still. The distinction from a blanching rash is made at the bedside with a glass slide or firm finger pressure, and it is the single most consequential examination manoeuvre in acute dermatology.
-- **DDx:**
-  - **Must exclude immediately:** **meningococcal septicaemia** — the rash may be **blanching and maculopapular early and become petechial or purpuric over hours**, so a blanching rash in an unwell febrile patient does not exclude it and warrants re-examination; other causes of **sepsis with disseminated intravascular coagulation**; **purpura fulminans**.
-  - **Thrombocytopenic:** **immune thrombocytopenia**, marrow failure or infiltration (**leukaemia — petechiae plus pallor plus lymphadenopathy in a child is the presentation not to miss**), **thrombotic thrombocytopenic purpura**, **haemolytic uraemic syndrome**, drug-induced thrombocytopenia including heparin, hypersplenism, DIC.
-  - **Non-thrombocytopenic, vascular/vasculitic:** **Henoch–Schönlein purpura/IgA vasculitis** (palpable purpura on buttocks and extensor legs in a child, with arthralgia, abdominal pain and renal involvement), other small-vessel vasculitis, **infective endocarditis** (splinter haemorrhages, Janeway lesions, Osler nodes), rickettsial infection, **scurvy** (perifollicular purpura with corkscrew hairs — rare but genuinely occurs in restricted diets and alcohol dependence).
-  - **Non-thrombocytopenic, mechanical or structural:** senile/actinic purpura, **corticosteroid-induced purpura**, trauma including **non-accidental injury**, raised intravascular pressure from coughing or vomiting (typically head and neck petechiae), amyloidosis, **anticoagulant-related bleeding**.
-- **Focused Hx:** **fever and how unwell** — the first branch point; speed of onset and progression; **headache, neck stiffness, photophobia, altered conscious state**; bleeding elsewhere (gums, epistaxis, menorrhagia, haematuria, melaena); bruising tendency and its duration; **drugs — anticoagulants, antiplatelets, heparin, quinine, corticosteroids, recently started antibiotics**; recent viral illness (ITP often follows one); recent vaccination; joint and abdominal pain (HSP); weight loss, night sweats, bone pain (malignancy); diet and alcohol; family bleeding history; **in a child, an explicit and non-judgemental account of how any bruising occurred, and whether it fits the child's developmental stage**.
-- **Examination:** **vital signs and conscious state first**; **confirm non-blanching with a glass slide**; distribution and whether **palpable** (palpable purpura implies vasculitis, non-palpable implies thrombocytopenia or a vascular fragility cause — a genuinely useful discriminator); size and pattern of lesions; **mucosal bleeding, wet purpura in the mouth** (a marker of higher bleeding risk); fundoscopy for retinal haemorrhage; **lymphadenopathy, hepatosplenomegaly and pallor** (leukaemia); joint swelling; abdominal tenderness; **blood pressure and urinalysis** (renal involvement in HSP and vasculitis); signs of endocarditis; **in a child, full examination for injuries of differing ages and in unusual sites**.
-- **First-line Ix:** **FBC with platelet count and blood film — urgently**, since the film distinguishes ITP from leukaemia, TTP and HUS; **coagulation profile with fibrinogen and D-dimer** (DIC); **UEC** and **urinalysis for blood and protein**; **LFTs**; **CRP**; **blood cultures** if febrile; **group and hold**; **lactate**; **β-hCG**. Then as directed: **meningococcal PCR**, lumbar puncture (**only after considering contraindications and never delaying antibiotics**), **autoimmune screen and ANCA**, **complement**, **immunoglobulins**, **skin biopsy for vasculitis with immunofluorescence**, **echocardiography** for endocarditis, **bone marrow examination** where marrow pathology is suspected.
-
-> [!danger] **A non-blanching rash in a febrile or unwell patient is meningococcal sepsis until proven otherwise.** Antibiotics are given immediately on suspicion; investigation follows, and no test result should delay the first dose. **Specific antibiotic agents and doses are deliberately not stated here** — they are the local sepsis protocol's, that protocol is egress-blocked in this environment, and a reproduced-from-memory dose for a time-critical infection is exactly the failure this project has documented before.
-
----
-
-## Build status of this file
-
-**Partial.** The six entries above were written **before the tiered build list arrived**, under the original list order. Against the tier tags, they cover:
-
-| Entry | Tier | Note |
-|---|---|---|
-| Acute Rash | **T2** | In scope for the current priority order |
-| Acute Inflammatory Dermatosis | **T2** | In scope for the current priority order |
-| Chronic Rash | T3 | Built ahead of priority — keep, do not rebuild |
-| Maculopapular Rash | T3 | Built ahead of priority — keep, do not rebuild |
-| Blistering Rash | T3 | Built ahead of priority — keep, do not rebuild |
-| Non-Blanching Rash and Purpuric Rash | T3 | Built ahead of priority — covers two list topics |
-
-**Dermatology has no T1 topics.** The remaining 23 unbuilt Dermatology topics are all T3 and are deferred until T1 and T2 are complete across all categories.
-
-## Topics skipped in this category
-
-| Topic | Matched header | File | Match type |
-|---|---|---|---|
-| **Hair Loss** | `## Alopecia (Hair Loss) — Approach and Differential` | `09_08_Dermatology_-_Miscellaneous.md` | Partial — the topic name appears in the header verbatim |
-| **Pallor** | `## Fatigue and Pallor — Approach and Differential` | `10_09b_Haemonc_-_Miscellaneous_Haematology.md` | Partial — combined header |
-| **Pruritus** | `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` | `09_08_Dermatology_-_Miscellaneous.md` | Partial |
-| **Rash** | `## Skin Lesion / Rash` | `History-Taking.md` | Partial — combined header |
-| **Skin Lesion** | `## Skin Lesion / Rash` | `History-Taking.md` | Partial — combined header |
-
-### Judgement calls you should check
-
-**Generalised Pruritus** and **Localised Pruritus** were **skipped, and this is my judgement rather than a literal match.** Neither string appears in any header. Both were skipped because the matched header `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` **explicitly names both** in its own title. Under a strictly literal reading they would be built; I judged "Generalised and Localised" in the header to be a direct statement that the existing entry covers them. **Overrule me if you want them built separately.**
-
-
 <!-- ===== SOURCE: NEW_Drugs_08_Dermatological.md ===== -->
 
 
@@ -2341,52 +2341,6 @@
 > **Ointments** are greasier, more occlusive and more potent for the same steroid, and are better for dry, lichenified skin; **creams** are better tolerated and suit weeping or flexural areas; **lotions, gels and foams** suit hairy areas and the scalp. **Under-prescribing quantity is the commonest reason topical treatment "fails"** — a patient given a 15 g tube for widespread eczema cannot possibly apply enough.
 
 ---
-
-## 0.1 Drugs for Acne
-
-> [!info] **Match the treatment to the lesion type, and combine mechanisms.** **Comedonal** acne → a topical retinoid. **Inflammatory papulopustular** → benzoyl peroxide ± topical retinoid ± topical or oral antibiotic. **Nodulocystic or scarring** → **oral isotretinoin, referred early**. Combination therapy attacking different mechanisms outperforms monotherapy, and **treatment takes 6–8 weeks to show benefit** — telling the patient that prevents them abandoning it at week three.
-
-### 0.1.1 Keratolytics
-- **Mechanism:** loosen and dissolve the **stratum corneum** and the keratinous plug, reducing comedone formation and aiding penetration of other agents.
-- **Key agents:** **benzoyl peroxide** (also directly antibacterial and oxidising), **salicylic acid**, azelaic acid, urea, lactic and glycolic acid, sulfur.
-- **Indications:** acne (benzoyl peroxide, salicylic and azelaic acid); **hyperkeratotic conditions** — warts, corns and calluses (high-strength salicylic acid), keratosis pilaris, ichthyosis and xerosis (urea, lactic acid); seborrhoeic dermatitis (sulfur, salicylic acid).
-
-> [!danger] **BENZOYL PEROXIDE IS THE SINGLE MOST IMPORTANT AGENT FOR PREVENTING ANTIBIOTIC RESISTANCE IN ACNE.**
-> *Cutibacterium acnes* readily develops resistance to macrolides and tetracyclines. **Benzoyl peroxide has no resistance**, and **co-prescribing it with any topical or oral antibiotic markedly reduces the emergence of resistant organisms.** **Never prescribe a topical antibiotic for acne as monotherapy**, and never continue an oral antibiotic for acne indefinitely — cap the course and hand over to a maintenance topical retinoid.
-
-- **Adverse effects:** irritation, dryness, peeling and erythema — **expected, dose-related, and the reason to start low-strength, alternate-night, and build up**. **Benzoyl peroxide BLEACHES fabric** — warn about towels, pillowcases, clothing and hair; contact allergy occurs.
-- **Cautions:** **salicylic acid over large areas or in children risks systemic salicylism**; avoid keratolytics on broken or inflamed skin and near the eyes.
-
-### 0.1.2 Topical Retinoids (RAR Agonists)
-*(covers build-list classes: Retinoids (Topical RAR Agonists); Retinoids (skin))*
-- **Mechanism:** bind **retinoic acid receptors**, normalising follicular keratinisation, **preventing microcomedone formation** — the precursor of every acne lesion — and exerting an anti-inflammatory effect.
-- **Key agents:** **adapalene** (best tolerated, photostable, can be combined with benzoyl peroxide), **tretinoin**, **tazarotene**, isotretinoin gel; **trifarotene**.
-- **Indications:** **comedonal and inflammatory acne — first-line, and the maintenance treatment after clearance**; photoageing; psoriasis (tazarotene); and, off-label, a range of keratinisation disorders.
-
-> [!warning] **Retinoids cause an initial flare and irritation, and patients stop because nobody warned them.** Apply **at night, to dry skin, a pea-sized amount for the whole face, starting every second or third night**; expect dryness and peeling for the first weeks; use a non-comedogenic moisturiser; and **use sun protection** (photosensitivity, and Australian UV levels make this non-negotiable).
-- **Contraindication:** **pregnancy.** Systemic absorption from topical use is low and the risk is much smaller than with oral retinoids, but **topical retinoids are avoided in pregnancy and when planning pregnancy** — use an alternative.
-
-### 0.1.3 Systemic (Oral) Retinoids
-*(covers build-list classes: Retinoids (Systemic); Retinoids (oral))*
-- **Key agents:** **isotretinoin** (acne), **acitretin** (psoriasis and disorders of keratinisation — see 0.3.5), bexarotene (cutaneous T-cell lymphoma).
-- **Isotretinoin — indications:** **severe nodulocystic or scarring acne**, acne unresponsive to adequate conventional therapy, and acne causing significant psychological distress. Sources note the Australian convention of a **cumulative total dose over roughly 5–8 months**. In Australia it is largely a **dermatologist-initiated** medicine.
-
-> [!danger] **ISOTRETINOIN IS ONE OF THE MOST POTENT HUMAN TERATOGENS IN CLINICAL USE.**
-> Sources state it is **highly teratogenic at all therapeutic doses**, with **malformations reported after a single dose in pregnancy** — producing **craniofacial, cardiac, thymic and central nervous system malformations**. Formal **pregnancy prevention programmes** (iPLEDGE in the US, the European PPP) require negative pregnancy tests before, during and after treatment and **two forms of contraception**; sources note candidly that even stringent programmes **do not eliminate fetal exposure**, which is an argument for taking the counselling seriously rather than treating it as paperwork.
-> **Practical requirements:** exclude pregnancy before starting; **effective contraception from before treatment, throughout, and for at least a month after stopping**; monthly pregnancy testing; **no blood donation during or for a month after treatment**; and explicit documented counselling. **This applies to every patient who could become pregnant, including adolescents** — and the conversation must be had with them directly and privately.
-
-- **Other adverse effects (sources name the systemic profile):** **hyperlipidaemia**, **hepatotoxicity**, **musculoskeletal pain**, and **psychiatric symptoms including depression and anxiety**; plus near-universal **cheilitis, dry eyes** (problematic for contact lens wearers), dry nose and epistaxis, photosensitivity, myalgia, and an **initial acne flare**. **Benign intracranial hypertension** occurs and is **markedly increased by concurrent tetracyclines — never combine isotretinoin with doxycycline or minocycline.**
-- **Monitoring:** **pregnancy test, lipids and LFTs at baseline and during treatment**; sources note extra caution in **diabetes, hyperlipidaemia and mood disorder**. **Ask about mood at every review** and give the patient and family an explicit instruction to report change.
-- **Caution:** avoid elective procedures causing dermal wounding (waxing, laser, dermabrasion) during and for a period after treatment.
-
-### 0.1.4 Other Drugs for Acne
-- **Topical antibiotics — clindamycin, erythromycin.** **Always with benzoyl peroxide, never alone** (see 0.1.1).
-- **Oral antibiotics — doxycycline, minocycline, erythromycin.** For moderate-to-severe inflammatory acne, **for a limited course (conventionally around 3 months) with a topical retinoid continued as maintenance afterwards.** **Doxycycline: photosensitivity and oesophagitis** (see `NEW_Drugs_05_Anti_infectives.md` 0.2.13). **Minocycline is generally avoided** where alternatives exist — drug-induced lupus, hyperpigmentation, hypersensitivity and benign intracranial hypertension.
-- **Combined oral contraceptives** — reduce free androgens; useful in women where acne is hormonally patterned or contraception is also wanted. Consider the VTE risk profile of the specific preparation.
-- **Spironolactone** — an anti-androgen, genuinely effective for adult female acne, particularly jawline and hormonal patterns. Causes hyperkalaemia (usually not clinically significant in young healthy women, but check in renal impairment), menstrual irregularity and breast tenderness; **teratogenic — contraception required**.
-- **Azelaic acid** — useful in pregnancy and in **post-inflammatory hyperpigmentation**, and in rosacea.
-- **Topical dapsone**, **clascoterone** (a topical androgen receptor inhibitor), and intralesional corticosteroid for individual nodules.
-- **Consider the underlying cause:** **PCOS** in a woman with acne, hirsutism and irregular cycles; drug causes (**corticosteroids, anabolic steroids, lithium, some antiepileptics, EGFR inhibitors**); and **acne fulminans** — an abrupt, ulcerating, systemically unwell presentation sometimes precipitated by starting isotretinoin, which needs corticosteroids and urgent specialist care. See [[09_03b_Dermatology_-_Acne_Vulgaris]].
 
 ## 0.2 Drugs for Eczema
 
@@ -2485,6 +2439,52 @@
 - **Phototherapy — narrowband UVB** (first-line for extensive plaque disease) and **PUVA** (more effective but with a documented long-term skin cancer risk that matters especially in Australia).
 - **Address the whole patient:** **psoriatic arthritis** (ask about joint pain and morning stiffness — early treatment prevents erosive damage), **cardiovascular and metabolic risk** (psoriasis is an independent risk factor — screen for hypertension, lipids, diabetes, obesity), **depression**, alcohol and smoking, and the **very substantial quality-of-life burden**.
 - **Recognise the triggers and the emergencies:** **streptococcal throat infection precipitating guttate psoriasis**; **drugs that provoke psoriasis — lithium, beta-blockers, antimalarials, NSAIDs, and steroid withdrawal**; and **generalised pustular and erythrodermic psoriasis**, which are **dermatological emergencies** with fluid, thermoregulatory and infective risk requiring admission. See [[09_01_Dermatology_-_Dermatological_Emergencies]].
+
+## 0.1 Drugs for Acne
+
+> [!info] **Match the treatment to the lesion type, and combine mechanisms.** **Comedonal** acne → a topical retinoid. **Inflammatory papulopustular** → benzoyl peroxide ± topical retinoid ± topical or oral antibiotic. **Nodulocystic or scarring** → **oral isotretinoin, referred early**. Combination therapy attacking different mechanisms outperforms monotherapy, and **treatment takes 6–8 weeks to show benefit** — telling the patient that prevents them abandoning it at week three.
+
+### 0.1.1 Keratolytics
+- **Mechanism:** loosen and dissolve the **stratum corneum** and the keratinous plug, reducing comedone formation and aiding penetration of other agents.
+- **Key agents:** **benzoyl peroxide** (also directly antibacterial and oxidising), **salicylic acid**, azelaic acid, urea, lactic and glycolic acid, sulfur.
+- **Indications:** acne (benzoyl peroxide, salicylic and azelaic acid); **hyperkeratotic conditions** — warts, corns and calluses (high-strength salicylic acid), keratosis pilaris, ichthyosis and xerosis (urea, lactic acid); seborrhoeic dermatitis (sulfur, salicylic acid).
+
+> [!danger] **BENZOYL PEROXIDE IS THE SINGLE MOST IMPORTANT AGENT FOR PREVENTING ANTIBIOTIC RESISTANCE IN ACNE.**
+> *Cutibacterium acnes* readily develops resistance to macrolides and tetracyclines. **Benzoyl peroxide has no resistance**, and **co-prescribing it with any topical or oral antibiotic markedly reduces the emergence of resistant organisms.** **Never prescribe a topical antibiotic for acne as monotherapy**, and never continue an oral antibiotic for acne indefinitely — cap the course and hand over to a maintenance topical retinoid.
+
+- **Adverse effects:** irritation, dryness, peeling and erythema — **expected, dose-related, and the reason to start low-strength, alternate-night, and build up**. **Benzoyl peroxide BLEACHES fabric** — warn about towels, pillowcases, clothing and hair; contact allergy occurs.
+- **Cautions:** **salicylic acid over large areas or in children risks systemic salicylism**; avoid keratolytics on broken or inflamed skin and near the eyes.
+
+### 0.1.2 Topical Retinoids (RAR Agonists)
+*(covers build-list classes: Retinoids (Topical RAR Agonists); Retinoids (skin))*
+- **Mechanism:** bind **retinoic acid receptors**, normalising follicular keratinisation, **preventing microcomedone formation** — the precursor of every acne lesion — and exerting an anti-inflammatory effect.
+- **Key agents:** **adapalene** (best tolerated, photostable, can be combined with benzoyl peroxide), **tretinoin**, **tazarotene**, isotretinoin gel; **trifarotene**.
+- **Indications:** **comedonal and inflammatory acne — first-line, and the maintenance treatment after clearance**; photoageing; psoriasis (tazarotene); and, off-label, a range of keratinisation disorders.
+
+> [!warning] **Retinoids cause an initial flare and irritation, and patients stop because nobody warned them.** Apply **at night, to dry skin, a pea-sized amount for the whole face, starting every second or third night**; expect dryness and peeling for the first weeks; use a non-comedogenic moisturiser; and **use sun protection** (photosensitivity, and Australian UV levels make this non-negotiable).
+- **Contraindication:** **pregnancy.** Systemic absorption from topical use is low and the risk is much smaller than with oral retinoids, but **topical retinoids are avoided in pregnancy and when planning pregnancy** — use an alternative.
+
+### 0.1.3 Systemic (Oral) Retinoids
+*(covers build-list classes: Retinoids (Systemic); Retinoids (oral))*
+- **Key agents:** **isotretinoin** (acne), **acitretin** (psoriasis and disorders of keratinisation — see 0.3.5), bexarotene (cutaneous T-cell lymphoma).
+- **Isotretinoin — indications:** **severe nodulocystic or scarring acne**, acne unresponsive to adequate conventional therapy, and acne causing significant psychological distress. Sources note the Australian convention of a **cumulative total dose over roughly 5–8 months**. In Australia it is largely a **dermatologist-initiated** medicine.
+
+> [!danger] **ISOTRETINOIN IS ONE OF THE MOST POTENT HUMAN TERATOGENS IN CLINICAL USE.**
+> Sources state it is **highly teratogenic at all therapeutic doses**, with **malformations reported after a single dose in pregnancy** — producing **craniofacial, cardiac, thymic and central nervous system malformations**. Formal **pregnancy prevention programmes** (iPLEDGE in the US, the European PPP) require negative pregnancy tests before, during and after treatment and **two forms of contraception**; sources note candidly that even stringent programmes **do not eliminate fetal exposure**, which is an argument for taking the counselling seriously rather than treating it as paperwork.
+> **Practical requirements:** exclude pregnancy before starting; **effective contraception from before treatment, throughout, and for at least a month after stopping**; monthly pregnancy testing; **no blood donation during or for a month after treatment**; and explicit documented counselling. **This applies to every patient who could become pregnant, including adolescents** — and the conversation must be had with them directly and privately.
+
+- **Other adverse effects (sources name the systemic profile):** **hyperlipidaemia**, **hepatotoxicity**, **musculoskeletal pain**, and **psychiatric symptoms including depression and anxiety**; plus near-universal **cheilitis, dry eyes** (problematic for contact lens wearers), dry nose and epistaxis, photosensitivity, myalgia, and an **initial acne flare**. **Benign intracranial hypertension** occurs and is **markedly increased by concurrent tetracyclines — never combine isotretinoin with doxycycline or minocycline.**
+- **Monitoring:** **pregnancy test, lipids and LFTs at baseline and during treatment**; sources note extra caution in **diabetes, hyperlipidaemia and mood disorder**. **Ask about mood at every review** and give the patient and family an explicit instruction to report change.
+- **Caution:** avoid elective procedures causing dermal wounding (waxing, laser, dermabrasion) during and for a period after treatment.
+
+### 0.1.4 Other Drugs for Acne
+- **Topical antibiotics — clindamycin, erythromycin.** **Always with benzoyl peroxide, never alone** (see 0.1.1).
+- **Oral antibiotics — doxycycline, minocycline, erythromycin.** For moderate-to-severe inflammatory acne, **for a limited course (conventionally around 3 months) with a topical retinoid continued as maintenance afterwards.** **Doxycycline: photosensitivity and oesophagitis** (see `NEW_Drugs_05_Anti_infectives.md` 0.2.13). **Minocycline is generally avoided** where alternatives exist — drug-induced lupus, hyperpigmentation, hypersensitivity and benign intracranial hypertension.
+- **Combined oral contraceptives** — reduce free androgens; useful in women where acne is hormonally patterned or contraception is also wanted. Consider the VTE risk profile of the specific preparation.
+- **Spironolactone** — an anti-androgen, genuinely effective for adult female acne, particularly jawline and hormonal patterns. Causes hyperkalaemia (usually not clinically significant in young healthy women, but check in renal impairment), menstrual irregularity and breast tenderness; **teratogenic — contraception required**.
+- **Azelaic acid** — useful in pregnancy and in **post-inflammatory hyperpigmentation**, and in rosacea.
+- **Topical dapsone**, **clascoterone** (a topical androgen receptor inhibitor), and intralesional corticosteroid for individual nodules.
+- **Consider the underlying cause:** **PCOS** in a woman with acne, hirsutism and irregular cycles; drug causes (**corticosteroids, anabolic steroids, lithium, some antiepileptics, EGFR inhibitors**); and **acne fulminans** — an abrupt, ulcerating, systemically unwell presentation sometimes precipitated by starting isotretinoin, which needs corticosteroids and urgent specialist care. See [[09_03b_Dermatology_-_Acne_Vulgaris]].
 
 ## 0.4 Drugs for Skin Infections
 
