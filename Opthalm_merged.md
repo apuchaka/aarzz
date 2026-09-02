@@ -748,7 +748,7 @@ Both skips are T3.
 | Keratitis, incl. microbial (see Keratitis below) | | |
 | Endophthalmitis (see below) | | |
 
-**Red flags warranting same-day/urgent ophthalmology review regardless of which category above:** reduced visual acuity, severe pain, photophobia, a fixed/irregular/poorly-reactive pupil, corneal opacity or visible infiltrate, hypopyon, recent intraocular surgery (endophthalmitis risk — see below), contact lens wear with pain (higher risk of severe microbial keratitis, including *Pseudomonas* and acanthamoeba — see Keratitis above), and any history of trauma.
+**Red flags warranting same-day/urgent ophthalmology review regardless of which category above:** reduced visual acuity, severe pain, photophobia, a fixed/irregular/poorly-reactive pupil, corneal opacity or visible infiltrate, hypopyon, recent intraocular surgery (endophthalmitis risk — see below), contact lens wear with pain (higher risk of severe microbial keratitis, including *Pseudomonas* and acanthamoeba — see `05_Ophthalmology ## Keratitis` below), and any history of trauma.
 
 **Closing note:** conjunctivitis is the most common cause of a red eye overall but should be a diagnosis of exclusion once vision-threatening causes are excluded, particularly in a painful or vision-affected presentation — see Conjunctivitis above for the specific bacterial/viral/allergic differentiation once the more urgent causes above have been ruled out.
 

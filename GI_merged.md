@@ -3757,7 +3757,7 @@ Total or segmental non-obstructive colonic distension associated with systemic t
 
 **Abnormal:** Polyps (removed and sent for histology, determining the surveillance interval), cancers, inflammation with biopsies for pattern, angiodysplasia, diverticulosis.
 
-**Alt:** **CT colonography** (see 0.16) where colonoscopy is incomplete, contraindicated or declined; capsule colonoscopy; barium enema (largely obsolete — see 0.13 below).
+**Alt:** **CT colonography** (see 0.16) where colonoscopy is incomplete, contraindicated or declined; capsule colonoscopy; barium enema (largely obsolete — see `0.18 Barium Enema` below).
 
 ## 0.16 CT Colonography (Virtual Colonoscopy)
 

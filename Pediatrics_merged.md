@@ -2291,7 +2291,7 @@ Children 6 months to 5 years old, ~3% of children; occurs early in a viral infec
 > [!warning] **This is a one-line definition and was the whole entry.** [[15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus]] Febrile seizures/convulsions owns it, and carries the three things missing here that change what you do:
 > - **Simple vs complex.** A *simple* febrile seizure is generalised, lasts **<15 minutes**, and occurs **once in 24 hours**. Focal onset, duration >15 minutes, or recurrence within 24 hours make it **complex** — which changes the risk and the threshold for investigation.
 > - **Meningitis must be actively excluded** — the fever is the presenting feature of both, and this entry named neither the differential nor the work-up (source of infection, MSU, CXR, ENT swabs; avoid LP in the postictal period).
-> - **Management**, including that a seizure lasting **>5 minutes is treated as status epilepticus** — see Status Epilepticus below in this file.
+> - **Management**, including that a seizure lasting **>5 minutes is treated as status epilepticus** — see `15_12a ## Status epilepticus — management` above in this file.
 >
 > Linked and summarised by the G27 round (2026-08-29). Both entries agree on the ~3% incidence and the seizure description.
 

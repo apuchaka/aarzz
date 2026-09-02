@@ -2246,7 +2246,7 @@ Increase monitoring ± check ketones; consume 3L of fluids/24h ± sugary drinks.
 **Dx:** (1) hypovolaemia, (2) BGC >30 mmol/L without significant ketonaemia or acidosis, (3) significantly raised serum osmolarity (>320 mosmol/kg)
 
 **Mx principles:**
-1. Gradually normalise osmolality — monitor serum osmolarity, or infer from Na, glucose, and urea; aim for a gradual decline (~3–8 mOsm/kg/h) rather than rapid correction, given the cerebral oedema/osmotic demyelination risk from over-rapid correction (see the Urgent Considerations in Hyponatraemia section above for the analogous principle in severe hyponatraemia)
+1. Gradually normalise osmolality — monitor serum osmolarity, or infer from Na, glucose, and urea; aim for a gradual decline (~3–8 mOsm/kg/h) rather than rapid correction, given the cerebral oedema/osmotic demyelination risk from over-rapid correction (see `§0.25.5 Urgent Considerations in Hyponatraemia` below for the analogous principle in severe hyponatraemia)
 2. Replace fluid and electrolyte losses — isotonic 0.9% NaCl first, may need to switch to 0.45% NaCl; aim for positive fluid balance of 3–6L by 12h, replace remaining fluid over the next 12h; monitor K levels (may need cautious replacement)
 3. Gradually normalise blood glucose — fluid resuscitation alone lowers BGC; insulin only needed if ketosis is significant, otherwise monitor
 

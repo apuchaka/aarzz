@@ -2111,7 +2111,7 @@ Hearing rehabilitation, facial reanimation, swallow management, and surveillance
 > (4) Clinical symptoms consistent, e.g. gait disturbance, urinary incontinence
 
 **Mx:**
-- **Definitive (no acute tier — this is a chronic, progressive condition, though acute strokes contributing to it are managed per the Strokes section above):** consider referral to specialist dementia clinic/neuro services; secondary prevention of stroke (antiplatelets, antihypertensives — the mainstay of Mx, since preventing further vascular injury is the main lever available, unlike AD where disease-modifying drugs exist); no specific drugs for VD itself.
+- **Definitive (no acute tier — this is a chronic, progressive condition, though acute strokes contributing to it are managed per `D3 §0.1 Acute Stroke — Recognition and Hyperacute Management` above):** consider referral to specialist dementia clinic/neuro services; secondary prevention of stroke (antiplatelets, antihypertensives — the mainstay of Mx, since preventing further vascular injury is the main lever available, unlike AD where disease-modifying drugs exist); no specific drugs for VD itself.
 - **Chronic/long-term:** non-pharmacological — cognitive stimulation programmes, music/art therapy; ensure social support for family/carers; ongoing cardiovascular risk factor management (the same risk factors driving the vascular disease itself).
 
 ### Alzheimer's Disease (AD)

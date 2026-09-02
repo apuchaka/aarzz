@@ -1324,7 +1324,7 @@
 
 ### Prothrombin complex concentrate (PCC)
 
-- Aka factor IX complex — a 4-factor PCC containing factors II, VII, IX and X at therapeutic concentration (Beriplex is the current standard Australian product, replacing the older 3-factor Prothrombinex-VF in June 2024 — see the Warfarin Reversal section above for the fuller detail, not repeated here).
+- Aka factor IX complex — a 4-factor PCC containing factors II, VII, IX and X at therapeutic concentration (Beriplex is the current standard Australian product, replacing the older 3-factor Prothrombinex-VF in June 2024 — see `10_09a ### Warfarin` above for the fuller reversal detail, not repeated here).
 - Dose: Beriplex 50 U/kg.
 - Main indication is emergency reversal of anticoagulation in patients with severe bleeding or head injury with suspected intracranial haemorrhage.
 - Rarely used for prophylaxis.
@@ -1346,7 +1346,7 @@
 > - Conversely, **type AB red cells carry both A and B antigens** — an AB recipient has neither anti-A nor anti-B antibodies (since their own cells carry both antigens), so **AB recipients can receive red cells of any ABO type** — making **AB the universal red cell recipient**.
 
 > [!info] Plasma — the opposite logic, because plasma is being matched by its antibody content instead
-> - **Type AB plasma contains neither anti-A nor anti-B antibodies** — since an AB person's own cells carry both antigens, their plasma was never exposed to develop antibodies against either — so **AB plasma can be given to any ABO recipient without triggering a reaction against the recipient's own red cell antigens**, making **AB the universal plasma donor** (the statement already in the FFP section above, now with the reasoning behind it).
+> - **Type AB plasma contains neither anti-A nor anti-B antibodies** — since an AB person's own cells carry both antigens, their plasma was never exposed to develop antibodies against either — so **AB plasma can be given to any ABO recipient without triggering a reaction against the recipient's own red cell antigens**, making **AB the universal plasma donor** (the statement already in `### Fresh frozen plasma (FFP)` above, now with the reasoning behind it).
 > - Conversely, **type O plasma contains both anti-A and anti-B antibodies** (since a type O person's own cells carry neither antigen, their immune system develops antibodies against both) — so **only type O recipients can safely receive type O plasma**, making **O recipients the most restricted for plasma specifically** — genuinely the opposite pattern from red cells, where O is the most flexible donor.
 
 **Rh(D) compatibility — a separate system, layered on top of ABO:** Rh-negative individuals lack the RhD antigen and can develop anti-D antibodies if exposed to RhD-positive blood (via transfusion or, in pregnancy, via fetomaternal exposure — see [[16_01-05_Antenatal_Care]] for the anti-D prophylaxis detail this underlies, not repeated here) — **Rh-negative blood is preferred whenever the recipient's Rh status is unknown or when transfusing Rh-negative individuals specifically**, given the risk of sensitisation with future exposures (transfusion reactions or, for a person capable of pregnancy, haemolytic disease of the newborn in a future pregnancy).
