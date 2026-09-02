@@ -23,9 +23,25 @@ a record of where a block came from or where it went — and you read past it.
 
 Five. Nothing else at the root is for reading.
 
+The notes are no longer 40 files at the root. They are **178 files in folders by
+system**, same content, cut at the seams the merge left behind. The folder is the
+old file; the number is reading order inside it.
+
+```
+Cardio/   13    OBGYN/    12    MSK/      12    Endo/     12
+Emergency/11    Paeds/    10    HemeOnc/  10    GI/       10
+Psych/     9    Neuro/     9    ID/        9    Ophth/     7
+Derm/      7    Resp/      6    Renal/     6    ENT/       6
+Geri/      3    GP/        1    Anaes/     1
+Clinical/ 17    Examination (5), History-Taking, Communication, Procedures,
+                Investigation-Interpretation, and eight merged-away stubs
+Practice/  6    Ethics, Population Health, Preventive Health, Safeguarding,
+                Australian Health Context, EBM
+```
+
 | File | What it is | When to open it | What you do with it |
 |---|---|---|---|
-| **the 40 system files** at the root — `Cardio_merged.md`, `Neuro_merged.md`, `Examination.md` and the rest | the notes. 66,431 lines | always | read top to bottom |
+| **the study files**, in the folders above — `Cardio/Cardio_01_…`, `Neuro/Neuro_01_…` and the rest | the notes. **178 files, 67,526 lines.** Not one line of content changed in the split; every line of the old 40 is in exactly one of these, in the same order | always | read a folder top to bottom, in file-number order |
 | **`checklist.csv`** | 872 topics, 24 categories, each rated High / Medium / Low yield (308 / 394 / 170). Read it with `encoding='utf-8-sig'` or the first column header breaks | when choosing what to read next, and to record what you have read | the `Studied? (Y/N)` and `Confidence (1-3)` columns are **blank for all 872 rows** — it is a topic list you have not yet used as a tracker |
 | **`MY_TASKS.md`** | 70 lines. Every known clinical defect, contradiction and boundary problem, one line each: file, line, what is wrong, what to change | when a marker makes you stop, and once before each exam | check whether the thing in front of you is already on it. If it is, the line tells you what is wrong without you re-deriving it |
 | **`PENDING_GUIDELINE_CHECKS.md`** | 65 rows, **64 still open**, IDs B1–B67 | when you hit a figure you intend to rely on | search the file, line or drug. A row means the figure is known to need a source check |
@@ -48,10 +64,9 @@ Reading it is what cost you three days. It is written to be exhaustive so that
 a future you, at 11pm, wondering whether there is context in `_meta/`, can see
 the answer here and not open a single one of them.
 
-## The whole of `_meta/` — 29 files, none of them for reading
+## The whole of `_meta/` — 47 files, none of them for reading
 
 ```
-MY_TASKS.md                    ← THE ONE EXCEPTION. Section 1. Read this.
 _meta/PENDING_ROWS_TO_ADD.md            rows drafted for the tracker, not yet added by hand
 _meta/flags/_INVENTORY.md               an index of duplicated topics
 _meta/flags/_CONSOLIDATED.md            the same, consolidated
@@ -61,6 +76,9 @@ _meta/flags/_RULE5_FIGURES.md           an audit of paediatric figures, by span
 _meta/flags/_TRAUMA.md                  a trauma-content audit
 _meta/flags/_Clinical_Process_set.md    a ruling about four files
 _meta/flags/THE_161.md                  161 flagged items, with dispositions
+_meta/split_manifest.json               which output file each line range became
+_meta/split_baseline/<18 files>.body    the pre-split text of each file that was cut,
+                                        kept so the split can be re-verified byte for byte
 _meta/flags/<19 system files>.md        per-file move proposals: Anaes, Cardio, Derm,
                                         ENT, Emergency, Endocrine, GI, GP, Geriatrics,
                                         Heme Onc, Infectious Disease, MSK, Neuro,
@@ -79,7 +97,9 @@ numbers went stale the moment the moves happened.
 RUN_STATE.md                what each session did, in order. 1,078 lines. Not study.
 CLAUDE.md                   the rules the sessions worked under. Not study, except
                             §1.7 and §1.12 if you want the marker definitions first-hand.
-scripts/                    17 Python checkers. They verify the corpus; they teach nothing.
+scripts/                    20 Python checkers. They verify the corpus; they teach nothing.
+GER6_Drug_Class_Addendum.md a crosswalk for the NEW_Drugs_01-21 set. Reference, not study,
+                            and nothing points at it.
 ```
 
 ## Inside the system files themselves
@@ -155,7 +175,7 @@ NOT checked: lines       0   (see the warning above — this is the one that mat
 # 4 Four things about this corpus that would bite you
 
 **Most of it is unverified, and the absence of a marker is not evidence.**
-919 `UNVERIFIED` markers sit across 32 of the 40 files; 8 files carry none at
+919 `UNVERIFIED` markers sit across 102 of the 178 files; 76 carry none at
 all, and that means nobody checked those files, not that they are clean. The
 markers were added by people reading for particular defects, so they cluster
 where somebody happened to look. The sharpest case: an ASCIA adrenaline table
@@ -166,12 +186,13 @@ specifically fine.
 
 **A bare `§0.x` reference is ambiguous.** Every system file is several source
 files concatenated under `SOURCE:` dividers, and **each block restarts its
-numbering at 0.1**. There are **182 colliding section numbers across 23 files** —
-GI has 26, Renal 13, OBGYN 12. A pointer that says `see 0.20` means 0.20 *of the
-block it is written in*, which is not the 0.20 you will find by searching. If a
-reference names a file or a block prefix — `` `C4 §0.2` ``, `` `03_Gastrointestinal
-§0.31` `` — trust it. If it is bare, scroll up to the nearest `SOURCE:` divider
-first and count from there.
+numbering at 0.1**. **The split made this much better and did not cure it.** Measured the same way
+either side: **1,809 repeated section numbers across 24 files before, 396 across
+39 files after** — down 78%, because most files now hold fewer blocks. A pointer
+that says `see 0.20` still means 0.20 *of the block it is written in*, which is
+not the 0.20 you will find by searching. If a reference names a file or a block
+prefix — `` `C4 §0.2` ``, `` `03_Gastrointestinal §0.31` `` — trust it. If it is
+bare, scroll up to the nearest `SOURCE:` divider first and count from there.
 
 **Banded tables fail in four distinct ways here, and three of them look fine.**
 *Gaps* — 39–40 kg has no needle size. *Overlaps* — a potassium of 3.0 is both
@@ -241,9 +262,19 @@ marker is an instruction to look it up at the point of use.
         COM1, Medications_Reference, Shock_Phenotypes, 13_ENT, 15_Paeds.
         Those targets have no file and no source block anywhere; the adjacent
         prose names the topic, so nothing is unreachable, only unclickable
-     0  bare internal pointers that do not resolve in their own block
-     0  references whose stated title disagrees with the section number
+    57  bare internal pointers that do not resolve in their own block
+        (48 resolve in a different block of the same file, 9 nowhere)
+     2  references whose stated title disagrees with the section number
+    32  CF-PAIR markers naming an account that is in a different file
 ```
+
+**The last three used to read 0, and the 0 was an artefact.** Those two checkers
+selected files by the name `*_merged.md`, so they never looked at Communication,
+Procedures, History-Taking, Investigation-Interpretation, A10, PH1, EBM1,
+Preventive-Health or Safeguarding — which is where all of them live. Re-run over
+the whole corpus, the pre-split tree scores **76, 2 and 36** on the same three
+lines, so the split improved every one of them. None is a reason to stop reading:
+each is a pointer you may have to resolve by scrolling rather than by clicking.
 
 **`checklist.csv` — 872 topics**, 308 High yield, 394 Medium, 170 Low.
 `Studied?` and `Confidence` are blank for all 872.
