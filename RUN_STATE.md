@@ -879,3 +879,88 @@ of `Procedures.md`, `Preventive-Health.md` and `Safeguarding.md`.
 
 **Blocks 1 and 2 resolved 11 of block 5's 51.** 140 items remain: 38 arguable · 56 no destination ·
 46 block-approvable.
+
+---
+
+# 4 Two-review pass (2026-09-02)
+
+Two independent reviews of the corpus, acted on section by section, one commit per section.
+Baseline for every count below: `8699425`.
+
+| § | What it asked for | Done | Deferred to `_meta/MY_TASKS.md` |
+|---|---|---|---|
+| **A** | frontmatter aliases | 402 aliases, 27 files | — |
+| **B** | 13 wrong section numbers | 22 references fixed | — |
+| **C** | dead and stale pointers | 22 re-aimed | — |
+| **D** | scaffolding deletions | 226 lines | 5 live overlap decisions rescued from deleted build tables |
+| **E** | false absence claims | 10 notes | — |
+| **F** | stale `standalone` status | 40 banners, 3 status lines | — |
+| **G** | 7 within-file reorders | 1 pure move, 1 pointer | 5 (3 reverse this session's own reasoned order, 2 need a divider crossed) |
+| **H** | 9 mutual declarations | all 9 | — |
+| **I** | stale line-number citations | 5 (review named 2) | — |
+| **J** | band-tiling sweep | report only | 7 confirmed of 30 candidates |
+| **Part 2** | do not fix | — | 19 rows, 4 questions answered |
+
+**The headline number: wikilinks resolving under Obsidian's own rules went from 328 of 5,500 to
+5,486 of 5,522.** The corpus links by SOURCE-file name and those files are blocks inside merged
+files, not files on disk. CLAUDE.md §1.10's prefix rule is a project convention; **Obsidian
+resolves filenames and declared `aliases:` and nothing else.** The 36 that remain are 9 targets
+with no file and no SOURCE block anywhere — `P1` `P3` `P4` `P6` `COM1` `Medications_Reference`
+`Shock_Phenotypes` `13_ENT` `15_Paeds` — genuinely dangling, not an alias problem.
+
+### What the reviews got wrong, recorded because the pattern will recur
+
+- **Line numbers drift.** Two Emergency numbers, several in the OBGYN and Neuro lists, and every
+  number quoted after section A was off by that file's frontmatter length. Everything was located
+  by content and re-verified against the actual heading before being changed.
+- **Counts were low, consistently.** The alias estimate was ~280 against 5,172. "Two flag records"
+  citing `Derm:2242` was five. "Three `:102` citations" was four. "One ENT `[[D5]]`" was three,
+  plus three more in Neuro. "One banner" was 40. "Two of the same shape in Geriatrics" was ten
+  vault-wide.
+- **One claim was simply false:** D5 §0.3 does name Ménière's, twice. What it lacked was the
+  pointer to ENT.
+- **Three of the seven reorders in G ask this session to reverse its own documented reasoning**
+  (malaria first in the protozoan block; ACP before end-of-life care; the ear-nose-throat drug
+  order). Those are teaching-order judgements, not defects, and they went to `MY_TASKS.md`.
+
+### Rule 13 caught this session out again, twice, in its own new text
+
+The CF-PAIR declarations written for section H used bare `§0.3` / `§0.5` / `§0.20.2` inside merged
+files where every source block restarts at `0.1`. `scripts/internal_misaimed.py` and
+`scripts/internalrefs.py` found 6 and 3. **This is the exact failure the rule was written for, in
+text written by the session that wrote the rule.** All qualified with their source-file prefix.
+Both scripts now return 0, against 2 and 8 before the fix.
+
+### New tool
+
+`scripts/bandcheck.py` — band-tiling. Carries a `--selftest` over the three known instances, one
+known false positive and two known-clean lines, and states its blind spots in its own docstring:
+it cannot see a band set spread down a table with the unit in the header, a **two-axis** set (which
+is what B67 is), or a set split across two files.
+
+### Verification, against `8699425`
+
+```
+files                       71 -> 72   (+_meta/MY_TASKS.md)   0 removed
+SOURCE dividers            423 -> 421  (the 2 empty MSK ones)  convention: all 421 pass
+headings lost                    22    all section-D scaffolding, itemised in 2495aba
+new duplicate headings            0
+conflict markers                  0
+frontmatter broken or lost        0
+newly broken callouts             0    (9 single-line callouts exist; all 9 pre-date this run)
+content lines absent            272    226 = section D; 52 = lines edited in place, all listed
+protected markers            no count decreased in any file
+  UNVERIFIED 927->930 · VERIFIED 930->933 · CF-PAIR 166->181 · CONFLICT 6->6
+  TODO:link 5->5 · SRC: 10->10 · →MED: 3->3 · [!check] 4->4 · NOT checked: 5->5
+gone-wrong-before list      all present: the <7.5 kg ASCIA row and both its callouts ·
+  the EZ-IO do-not-tile warning · B66 and B67 · NEVER OMIT in NEW_Drugs_21 ·
+  Cardio §0.20 still sandwiched between the two F0-3 blocks in Emergency
+dangling numeric pointers    7 -> 7    (6 to A10, 1 to B2; identical set, pre-existing)
+misaimed pointers            0 -> 0
+bare internal pointers       8 -> 0
+positional wrong-way         0 new
+prose name pointers          4 -> 3
+```
+
+**Read honestly (rule 8): clean against everything currently known to check for.** The band sweep
+found two new instances of a class the reviews thought had three, which is the usual result.
