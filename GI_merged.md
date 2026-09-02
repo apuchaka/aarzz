@@ -2812,7 +2812,7 @@ Patient is systemically well, but can progress to acute cholecystitis. **Mx — 
 **Ix:** LFTs (ALP, GGT, AST, ALT, bilirubin, albumin) (*why:* screens for and characterises the cholestatic pattern; *what:* disproportionately raised ALP/GGT relative to transaminases, the hallmark cholestatic picture). FBC, PT (*why:* baseline and screens for synthetic liver dysfunction/portal hypertension-related cytopenias as disease progresses; *what:* may show anaemia, thrombocytopenia in advanced disease; prolonged PT if synthetic function impaired). Antibodies, incl. p-ANCA (*why:* p-ANCA is positive in a majority of PSC patients and supports the diagnosis, though not specific; *what:* positive p-ANCA in ~70%). Abdominal US, MRCP, ERCP, CT — imaging is essential for diagnosis (*why:* PSC is fundamentally a radiological/cholangiographic diagnosis — visualising the characteristic multifocal biliary strictures is how the diagnosis is actually made, more so than any blood test; *what:* multifocal stricturing and beading of the intra- and/or extrahepatic bile ducts — "beaded" appearance).
 
 **Mx:**
-- **Immediate/acute** (presenting with cholangitis from a dominant stricture): treat as ascending cholangitis (see below) — antibiotics, resuscitation, urgent ERCP for decompression if obstructed.
+- **Immediate/acute** (presenting with cholangitis from a dominant stricture): treat as ascending cholangitis (cross-refer [[F0.3]] 0.11) — antibiotics, resuscitation, urgent ERCP for decompression if obstructed.
 - **Definitive:**
   - Conservative: lifestyle change, management of pruritus, management of hepatic osteopenia (calcium + vitamin D, bisphosphonate, HRT)
   - ERCP and balloon dilation of a dominant stricture
@@ -3597,7 +3597,7 @@ Total or segmental non-obstructive colonic distension associated with systemic t
 
 **Abnormal:** Refer to hepatology. Note the association of PBC and AIH with **other autoimmune disease**, and screen accordingly.
 
-**Alt:** Immunoglobulins; **liver biopsy** (see 0.4); MRCP for PSC (see 0.20); coeliac serology.
+**Alt:** Immunoglobulins; **liver biopsy** (see 0.4); MRCP for PSC (see 0.21); coeliac serology.
 
 ## 0.3 Anti-LKM Antibody (Anti-Liver Kidney Microsomal Antibody)
 
@@ -3691,7 +3691,7 @@ Total or segmental non-obstructive colonic distension associated with systemic t
 > **Raised amylase is not specific to the pancreas** — it also rises with salivary pathology (parotitis), bowel perforation or ischaemia, ectopic pregnancy, diabetic ketoacidosis, renal impairment, and macroamylasaemia.
 
 > [!danger] **Do not ignore**
-> Pancreatitis **with hypocalcaemia, hypoxia, oliguria or rising CRP** — severe disease; escalate. **Gallstone pancreatitis with cholangitis** (fever, jaundice, raised bilirubin) needs **urgent ERCP** (see 0.19).
+> Pancreatitis **with hypocalcaemia, hypoxia, oliguria or rising CRP** — severe disease; escalate. **Gallstone pancreatitis with cholangitis** (fever, jaundice, raised bilirubin) needs **urgent ERCP** (see `03_Gastrointestinal §0.31 ERCP`).
 
 **Normal:** Assay-specific; **absolute reference intervals are not stated here**. A normal faecal elastase makes significant exocrine insufficiency unlikely.
 

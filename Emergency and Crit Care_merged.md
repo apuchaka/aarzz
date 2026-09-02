@@ -1939,7 +1939,7 @@ Pump failure (heart cannot pump blood around the body).
 **Mx:**
 - **Immediate/acute:** ABCDE as above; loop diuretic if fluid-overloaded; vasopressors/inotropes (e.g. dobutamine, noradrenaline — specialist-guided); mechanical circulatory support (e.g. IABP, ECMO) in refractory cases.
 - **Definitive:** treat the underlying cause — urgent PCI if MI-driven, antiarrhythmic/cardioversion if arrhythmia-driven, surgical repair if mechanical complication.
-- **Chronic/long-term:** manage as per chronic heart failure (section 0.27) once stabilised.
+- **Chronic/long-term:** manage as per chronic heart failure (`Cardio_merged.md 01_Cardiovascular §0.28 Chronic Heart Failure`) once stabilised.
 **P:** very high mortality if occurring secondary to MI
 
 ### 0.20.2 Hypovolaemic shock
@@ -2007,7 +2007,7 @@ Obstruction of blood flow → hypoperfusion of tissues distal to obstruction.
 **A:** tension pneumothorax, cardiac tamponade
 **Mx:**
 - **Immediate/acute:** ABCDE; needle decompression for tension pneumothorax, pericardiocentesis for tamponade — mechanical obstruction requires mechanical relief, not just fluids/pressors.
-- **Definitive:** chest drain insertion (pneumothorax) or definitive pericardial drainage/surgery (tamponade), treating the underlying cause (see sections 0.29 PE, 0.33 Tamponade).
+- **Definitive:** chest drain insertion (pneumothorax) or definitive pericardial drainage/surgery (tamponade), treating the underlying cause (see `F0-3 §0.5 Obstructive Shock — Massive Pulmonary Embolism` and `F0-3 §0.4 Obstructive Shock — Cardiac Tamponade`).
 - **Chronic/long-term:** dependent on underlying cause — e.g. anticoagulation if PE-driven obstruction (massive PE causing obstructive physiology).
 
 ---

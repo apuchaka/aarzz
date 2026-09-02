@@ -2118,7 +2118,7 @@ Risk stratify with **GRACE score** (predicts all-cause mortality at 6 months pos
 - Lifestyle: smoking cessation, limit alcohol, cardioprotective diet, weight loss and exercise
 - Consider revascularisation (PCI/CABG) if symptoms persist despite optimal medical therapy, or high-risk anatomy on angiography
 
-> [!info] Verified against Austroads *Assessing Fitness to Drive* 2022, Aug 2026 — same underlying principle as the UK DVLA rule, restated in Austroads' own private-vehicle terms (see full driving standards table in section 0.34.5 below).
+> [!info] Verified against Austroads *Assessing Fitness to Drive* 2022, Aug 2026 — same underlying principle as the UK DVLA rule, restated in Austroads' own private-vehicle terms (see full driving standards table in section 0.35.5 below).
 > A person with angina that is usually absent on mild exertion, and who is treatment-compliant, may drive without restriction and without notifying the driver licensing authority. A person is not fit to hold an unconditional licence if angina occurs at rest or on minimal exertion despite treatment, or if unstable.
 
 ---
@@ -2211,7 +2211,7 @@ Treat if <80yo AND (target organ damage OR established CVD/AKI/CKD/T2DM OR 10-ye
 - Isolated systolic hypertension: treat as normal HTN
 
 ### 0.2.4 Antihypertensives — side effects
-> [!info] Verified against AMH, Aug 2026 — adverse-effect profiles are pharmacological and not jurisdiction-specific; no change needed. (Specific dosing/monitoring schedules are addressed separately in section 0.34 below, which still needs full AMH dose verification.)
+> [!info] Verified against AMH, Aug 2026 — adverse-effect profiles are pharmacological and not jurisdiction-specific; no change needed. (Specific dosing/monitoring schedules are addressed separately in section 0.35 below, which still needs full AMH dose verification.)
 
 **ACE-inhibitors:**
 - Dry cough (15%, usually in 1st year), angioedema, hyperkalaemia, first-dose hypotension
@@ -2716,7 +2716,7 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 
 > [!note] Gap-filled — the cluster of AR peripheral signs (collapsing pulse, wide pulse pressure, De Musset's sign, Quincke's sign) were listed as bare named findings above with no shared explanation, despite all tracing back to a single mechanism. **The core mechanism, shared by all four:** in AR, the incompetent aortic valve allows blood to flow backward from the aorta into the LV during diastole — this produces a rapid, exaggerated rise in systolic pressure (a large stroke volume, since the LV ejects both the normal forward volume and the regurgitant volume it received back) followed by an equally rapid *fall* in diastolic pressure (as blood continues to leak backward into the LV rather than being held in the arterial system) — this rapid rise-and-fall pattern is the direct cause of every sign in this cluster, not four separate phenomena. **Wide pulse pressure** is simply this pattern quantified (high systolic, low diastolic). **Collapsing/"water-hammer" pulse**: the peripheral pulse is felt to rise rapidly then collapse away just as rapidly when palpated with the arm elevated — the physical sensation of the same rapid rise-and-fall transmitted to a peripheral artery. **De Musset's sign** (rhythmic head bobbing with each heartbeat) and **Quincke's sign** (visible capillary pulsation in the nailbed when light pressure is applied) are both peripheral manifestations of this same exaggerated pulse pressure being transmitted into small vessels and soft tissue — genuinely eponymous curiosities rather than separate pathophysiology, and their presence (or absence) roughly tracks with regurgitation severity given they all share this one underlying cause.
 
-> [!info] Mx tiering for the table above — Immediate/acute: decompensated valvular disease presenting with acute pulmonary oedema/cardiogenic shock is managed as per acute heart failure (section 0.27.1) ± the medical measures in the table (nitrates/diuretics/inotropes for MR, avoiding nitrates in AS). Definitive: the surgical/percutaneous options in the table (valvotomy, repair, replacement, TAVI). Chronic/long-term: serial echo surveillance for asymptomatic disease not yet meeting intervention criteria, anticoagulation for AF, medical HF therapy alongside or in place of surgery where appropriate.
+> [!info] Mx tiering for the table above — Immediate/acute: decompensated valvular disease presenting with acute pulmonary oedema/cardiogenic shock is managed as per acute heart failure (section 0.28.1) ± the medical measures in the table (nitrates/diuretics/inotropes for MR, avoiding nitrates in AS). Definitive: the surgical/percutaneous options in the table (valvotomy, repair, replacement, TAVI). Chronic/long-term: serial echo surveillance for asymptomatic disease not yet meeting intervention criteria, anticoagulation for AF, medical HF therapy alongside or in place of surgery where appropriate.
 
 **Ix for valvular disease generally:** echo — *why:* first-line for diagnosis, quantifies severity (gradient, regurgitant volume), and assesses LV function/chamber size to guide the timing of intervention; *what:* valve-specific findings as above, quantified severity grade. ECG — *why:* screens for AF (common with mitral disease) and LVH (AS); *what:* AF, LVH pattern. CXR — *why:* screens for cardiomegaly and pulmonary congestion, and valve calcification; *what:* may show cardiomegaly, pulmonary oedema, calcified valve. Cardiac catheterisation — *why:* used when echo findings are discordant with symptoms, or to assess concurrent coronary disease before surgery; *what:* directly measures valve gradients/pressures and coronary anatomy.
 
@@ -2905,9 +2905,9 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 
 **S/Smx:** heart failure symptoms + S3. Tricuspid and mitral valve regurgitation cause pansystolic murmur.
 
-**Ix:** CXR (*why:* screens for cardiomegaly and pulmonary congestion; *what:* classic "balloon appearance" of an enlarged globular heart). Others as per heart failure (section 0.27) — echo (*why:* confirms dilation and quantifies systolic dysfunction/EF, the key diagnostic test; *what:* dilated LV ± RV with reduced EF ≤40%), NTproBNP (*why:* supports the diagnosis and quantifies severity; *what:* elevated), bloods to screen for reversible/secondary causes — iron studies (haemochromatosis), TFT, HIV serology if risk factors, alcohol history — (*why:* identifying a treatable secondary cause changes management significantly; *what:* positive findings point to the specific cause), cardiac MRI (*why:* can identify myocarditis, infiltrative disease, or scar pattern distinguishing ischaemic from non-ischaemic aetiology; *what:* late gadolinium enhancement pattern specific to the cause).
+**Ix:** CXR (*why:* screens for cardiomegaly and pulmonary congestion; *what:* classic "balloon appearance" of an enlarged globular heart). Others as per heart failure (section 0.28) — echo (*why:* confirms dilation and quantifies systolic dysfunction/EF, the key diagnostic test; *what:* dilated LV ± RV with reduced EF ≤40%), NTproBNP (*why:* supports the diagnosis and quantifies severity; *what:* elevated), bloods to screen for reversible/secondary causes — iron studies (haemochromatosis), TFT, HIV serology if risk factors, alcohol history — (*why:* identifying a treatable secondary cause changes management significantly; *what:* positive findings point to the specific cause), cardiac MRI (*why:* can identify myocarditis, infiltrative disease, or scar pattern distinguishing ischaemic from non-ischaemic aetiology; *what:* late gadolinium enhancement pattern specific to the cause).
 
-**Mx:** as per chronic/acute heart failure (section 0.27), with additional attention to treating/removing the underlying cause where identified (e.g. alcohol cessation, iron chelation/venesection for haemochromatosis, immunosuppression for some myocarditis, stopping the causative chemotherapy agent) — this is the key Mx distinction from primary HFrEF, since some causes are reversible with cause-specific treatment on top of standard HF therapy.
+**Mx:** as per chronic/acute heart failure (section 0.28), with additional attention to treating/removing the underlying cause where identified (e.g. alcohol cessation, iron chelation/venesection for haemochromatosis, immunosuppression for some myocarditis, stopping the causative chemotherapy agent) — this is the key Mx distinction from primary HFrEF, since some causes are reversible with cause-specific treatment on top of standard HF therapy.
 
 ---
 
@@ -2931,7 +2931,7 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 **Mx:**
 - **Immediate/acute (decompensated HF):** diuretics for congestion — used cautiously, as restrictive physiology is preload-dependent and over-diuresis can drop cardiac output.
 - **Definitive:** treat the underlying cause where possible (e.g. disease-modifying therapy for amyloidosis — e.g. tafamidis for transthyretin amyloidosis, or chemotherapy for light-chain amyloidosis; venesection for haemochromatosis; immunosuppression for sarcoidosis).
-- **Chronic/long-term:** heart failure symptom management as per chronic HF (see section 0.27), with caution around standard HFrEF drug titration since these patients are often preload-dependent and intolerant of vasodilators/negative inotropes; rate control (avoiding aggressive negative chronotropes) if AF develops (common, given atrial enlargement); consider anticoagulation given AF/stasis risk from the enlarged, poorly-contracting atria; heart transplant for refractory end-stage disease in selected patients.
+- **Chronic/long-term:** heart failure symptom management as per chronic HF (see section 0.28), with caution around standard HFrEF drug titration since these patients are often preload-dependent and intolerant of vasodilators/negative inotropes; rate control (avoiding aggressive negative chronotropes) if AF develops (common, given atrial enlargement); consider anticoagulation given AF/stasis risk from the enlarged, poorly-contracting atria; heart transplant for refractory end-stage disease in selected patients.
 
 **P:** generally poor, especially for infiltrative causes such as amyloidosis, unless the underlying disease is identified early and disease-modifying therapy is available; significantly better if a treatable secondary cause (e.g. haemochromatosis) is identified and treated early.
 
@@ -2973,7 +2973,7 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 **Ix:** NTproBNP (*why:* highly sensitive rule-out test for HF and quantifies severity; *what:* ≥400 ng/L = high, warranting urgent echo; low level makes HF unlikely). TTEcho within 2 weeks of a high NTproBNP (*why:* confirms the diagnosis, quantifies EF (HFpEF vs HFrEF), and identifies a structural cause (valvular, ischaemic); *what:* reduced EF in HFrEF, normal EF with diastolic dysfunction in HFpEF, chamber size/wall motion abnormalities). Other bloods — FBC (*why:* screens for anaemia as a reversible contributor/mimic; *what:* may show anaemia), U&Es (*why:* baseline renal function before ACEI/diuretic and to detect cardiorenal syndrome; *what:* may show renal impairment). CXR (*why:* supports the diagnosis and screens for alternative/co-existing pathology; *what:* bilateral pleural effusions, fluid in interlobar fissures, septal (Kerley B) lines, cardiomegaly). ECG (*why:* screens for an underlying cause — ischaemia, arrhythmia, LVH; *what:* may show prior infarct changes, AF, LVH, or be normal).
 
 **Mx:**
-- **Definitive/chronic (guideline-directed medical therapy, titrated over time — this condition doesn't have a separate "immediate" tier for stable chronic HF; see 0.27.1 for acute decompensation):**
+- **Definitive/chronic (guideline-directed medical therapy, titrated over time — this condition doesn't have a separate "immediate" tier for stable chronic HF; see 0.28.1 for acute decompensation):**
   - ACEI + β-blocker (e.g. bisoprolol) — start one drug at a time
   - Aldosterone antagonist (e.g. eplerenone) — monitor renal function (risk of hyperkalaemia)
   - SGLT2 inhibitor
@@ -2997,7 +2997,7 @@ Ventricular pacing and sensing ICDs are most commonly used. Shows up on ECG with
 A normal heart is unable to pump enough blood to meet the body's metabolic needs, e.g. severe anaemia, pregnancy, Paget's disease, thiamine deficiency. **Mx — definitive:** treat the underlying cause (e.g. transfusion/iron for anaemia, thiamine replacement for beriberi) rather than standard HFrEF therapy alone.
 
 ### 0.28.3 Cor pulmonale
-Right heart failure arising from lung disease specifically — COPD, PE, interstitial lung disease, cystic fibrosis, pulmonary HTN. **Mx — definitive:** treat the underlying lung disease/pulmonary hypertension (see section 0.36) as the primary driver; long-term O2 therapy if hypoxic; diuretics for fluid overload as an adjunct.
+Right heart failure arising from lung disease specifically — COPD, PE, interstitial lung disease, cystic fibrosis, pulmonary HTN. **Mx — definitive:** treat the underlying lung disease/pulmonary hypertension (see section 0.37) as the primary driver; long-term O2 therapy if hypoxic; diuretics for fluid overload as an adjunct.
 
 ### 0.28.4 Explaining a new heart failure diagnosis to a patient
 
@@ -3005,10 +3005,10 @@ Right heart failure arising from lung disease specifically — COPD, PE, interst
 
 - Plain-language explanation: "Your heart isn't pumping as effectively as it should, which means fluid can build up in your lungs and body — that's what's causing your breathlessness and swelling."
 - Be honest but measured about prognosis — HF carries real mortality risk, but modern guideline-directed therapy substantially improves both symptoms and survival; avoid both false reassurance and undue alarm.
-- Explain the medication regimen as a coordinated set working via different mechanisms (section 0.27) rather than an overwhelming list — patients often need to hear that the combination, built up gradually, is what improves outcomes, not any single drug.
+- Explain the medication regimen as a coordinated set working via different mechanisms (section 0.28) rather than an overwhelming list — patients often need to hear that the combination, built up gradually, is what improves outcomes, not any single drug.
 - Cover practical self-management explicitly: daily weighing to catch early fluid retention, fluid/salt restriction, what symptoms should prompt urgent review (rapid weight gain, worsening breathlessness/orthopnoea, leg swelling).
 - Address the emotional weight of a chronic, life-limiting diagnosis — check in on how the patient is feeling about it, not just what they understand factually.
-- Discuss vaccination (influenza, pneumococcal — section 0.27) and cardiac rehabilitation/exercise as part of ongoing management, not just medication.
+- Discuss vaccination (influenza, pneumococcal — section 0.28) and cardiac rehabilitation/exercise as part of ongoing management, not just medication.
 - Check understanding and invite questions before closing; involve family/carers if the patient wishes, given the ongoing self-monitoring burden.
 
 ---
@@ -3058,7 +3058,7 @@ Right heart failure arising from lung disease specifically — COPD, PE, interst
 
 **S/Smx:** dyspnoea; right heart failure (↑JVP, ascites, oedema, hepatomegaly); JVP with prominent x and y descent; pericardial knock (loud S3); Kussmaul's sign positive (paradoxical rise in JVP during inspiration)
 
-**Ix:** as per acute pericarditis (ECG, echo, bloods) — *why/what as above*, plus: CXR (*why:* screens for the characteristic chronic finding; *what:* may show pericardial calcification). Cardiac MRI or CT (*why:* better delineates pericardial thickening/calcification than echo and helps distinguish from restrictive cardiomyopathy — see section 0.41 for that key differential; *what:* thickened/calcified pericardium). Cardiac catheterisation (*why:* used when imaging is equivocal to confirm the haemodynamic pattern and distinguish from restrictive cardiomyopathy; *what:* equalisation of diastolic pressures across chambers, "dip-and-plateau" (square root sign) pattern).
+**Ix:** as per acute pericarditis (ECG, echo, bloods) — *why/what as above*, plus: CXR (*why:* screens for the characteristic chronic finding; *what:* may show pericardial calcification). Cardiac MRI or CT (*why:* better delineates pericardial thickening/calcification than echo and helps distinguish from restrictive cardiomyopathy — see section 0.42 for that key differential; *what:* thickened/calcified pericardium). Cardiac catheterisation (*why:* used when imaging is equivocal to confirm the haemodynamic pattern and distinguish from restrictive cardiomyopathy; *what:* equalisation of diastolic pressures across chambers, "dip-and-plateau" (square root sign) pattern).
 
 **Mx:**
 - **Immediate/acute:** manage decompensated right heart failure symptoms (diuretics) while working up definitive treatment.
@@ -3170,7 +3170,7 @@ Right heart failure arising from lung disease specifically — COPD, PE, interst
 **Mx:**
 - **Immediate/acute:** if massive PE with circulatory failure (hypotension/shock) → systemic thrombolysis (or catheter-directed thrombolysis/embolectomy if thrombolysis contraindicated); O2, resuscitation as needed.
 - **Definitive:** anticoagulation as per DVT (same drug options/special situations).
-- **Chronic/long-term:** duration as per DVT; Pulmonary Embolism Severity Index (PESI) used to determine suitability for outpatient treatment (accounts for haemodynamic stability, comorbidities, etc.); IVC filter considered for recurrent PE despite adequate anticoagulation, or when anticoagulation is contraindicated; screen for and manage chronic thromboembolic pulmonary hypertension (CTEPH — see section 0.36) if symptoms persist post-PE.
+- **Chronic/long-term:** duration as per DVT; Pulmonary Embolism Severity Index (PESI) used to determine suitability for outpatient treatment (accounts for haemodynamic stability, comorbidities, etc.); IVC filter considered for recurrent PE despite adequate anticoagulation, or when anticoagulation is contraindicated; screen for and manage chronic thromboembolic pulmonary hypertension (CTEPH — see section 0.37) if symptoms persist post-PE.
 
 ---
 
