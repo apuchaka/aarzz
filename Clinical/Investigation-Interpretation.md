@@ -141,7 +141,7 @@ Right hemidiaphragm normally sits slightly higher than left. Look for free air u
 **What it measures:** distinguishes the cause of a pleural effusion by biochemical/cytological analysis of aspirated fluid.
 
 **Systematic approach:**
-1. Apply Light's criteria to classify transudate vs exudate — see [[02_Respiratory]] Pleural Effusions for the full criteria and the transudate/exudate differential table. **That deferral is currently broken: `Resp §0.12` carries a protein-only table (transudate <30 g/L, exudate >30 g/L), not Light's criteria, which are absent from the corpus — see the FLAG there and `_meta/MY_TASKS.md`.**
+1. Apply Light's criteria to classify transudate vs exudate — see [[02_Respiratory]] Pleural Effusions for the full criteria and the transudate/exudate differential table. **That deferral is currently broken: `Resp §0.12` carries a protein-only table (transudate <30 g/L, exudate >30 g/L), not Light's criteria, which are absent from the corpus — see the FLAG there and `MY_TASKS.md`.**
 2. If exudate — check pH, glucose, and Gram stain/culture specifically to screen for a complicated parapneumonic effusion/empyema (pH <7.2, low glucose, positive Gram stain/culture all indicate the need for drainage rather than antibiotics alone) — see [[02_Respiratory]] Empyema and Haemothorax.
 3. Cytology — screens for malignant cells if a malignant effusion is suspected.
 4. Other fluid markers as clinically indicated (e.g. amylase for a pancreatitis-related effusion, triglycerides for suspected chylothorax).

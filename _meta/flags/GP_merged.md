@@ -64,7 +64,7 @@ is **16 general laboratory tests**. Neither is disease content, and the file has
   `01_Cardiovascular` for absolute cardiovascular risk and colorectal screening.
 - `GP`'s LDH entry NAMES two of Light's three criteria in passing and states no threshold — corrected
   2026-09-02, this row previously called it a third copy. There is no first or second copy: the
-  criteria are absent from the corpus. See Resp's flags and `_meta/MY_TASKS.md`.
+  criteria are absent from the corpus. See Resp's flags and `MY_TASKS.md`.
 
 ## GROUPINGS
 **HIGH**

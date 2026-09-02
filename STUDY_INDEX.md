@@ -27,7 +27,7 @@ Five. Nothing else at the root is for reading.
 |---|---|---|---|
 | **the 40 system files** at the root — `Cardio_merged.md`, `Neuro_merged.md`, `Examination.md` and the rest | the notes. 66,431 lines | always | read top to bottom |
 | **`checklist.csv`** | 872 topics, 24 categories, each rated High / Medium / Low yield (308 / 394 / 170). Read it with `encoding='utf-8-sig'` or the first column header breaks | when choosing what to read next, and to record what you have read | the `Studied? (Y/N)` and `Confidence (1-3)` columns are **blank for all 872 rows** — it is a topic list you have not yet used as a tracker |
-| **`_meta/MY_TASKS.md`** | 70 lines. Every known clinical defect, contradiction and boundary problem, one line each: file, line, what is wrong, what to change | when a marker makes you stop, and once before each exam | check whether the thing in front of you is already on it. If it is, the line tells you what is wrong without you re-deriving it |
+| **`MY_TASKS.md`** | 70 lines. Every known clinical defect, contradiction and boundary problem, one line each: file, line, what is wrong, what to change | when a marker makes you stop, and once before each exam | check whether the thing in front of you is already on it. If it is, the line tells you what is wrong without you re-deriving it |
 | **`PENDING_GUIDELINE_CHECKS.md`** | 65 rows, **64 still open**, IDs B1–B67 | when you hit a figure you intend to rely on | search the file, line or drug. A row means the figure is known to need a source check |
 | **`CLAUDE.md` §1.7 and §1.12** | the marker definitions, if you want them first-hand | rarely — section 3 below is the short version | — |
 
@@ -51,7 +51,7 @@ the answer here and not open a single one of them.
 ## The whole of `_meta/` — 29 files, none of them for reading
 
 ```
-_meta/MY_TASKS.md                    ← THE ONE EXCEPTION. Section 1. Read this.
+MY_TASKS.md                    ← THE ONE EXCEPTION. Section 1. Read this.
 _meta/PENDING_ROWS_TO_ADD.md            rows drafted for the tracker, not yet added by hand
 _meta/flags/_INVENTORY.md               an index of duplicated topics
 _meta/flags/_CONSOLIDATED.md            the same, consolidated
@@ -180,7 +180,7 @@ child of exactly 3 months with no antibiotic regimen, and the arithmetic gap is
 zero, so nothing flags it. *Two-axis coupling* — the ASCIA rows require a weight
 **and** an age, so a 20 kg six-year-old matches no row at all. Twelve were found
 by reading; seven more appeared the moment the checker could see overlaps and
-point boundaries. All are listed in `_meta/MY_TASKS.md`. **Before you rely on
+point boundaries. All are listed in `MY_TASKS.md`. **Before you rely on
 any banded table, read the boundaries against each other, not down the column.**
 
 **Searching this corpus is not like searching a textbook.** Acronym expansions
@@ -201,7 +201,7 @@ it is absent.
 
 Counts and where they live. Not the items.
 
-**`_meta/MY_TASKS.md` — 70 lines**, every cited line number verified against
+**`MY_TASKS.md` — 70 lines**, every cited line number verified against
 live content on 2026-09-02:
 
 ```

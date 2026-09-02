@@ -464,7 +464,7 @@ part: "1 of 7"
 ### Judgement calls you should check
 
 **Generalised Pruritus** and **Localised Pruritus** were **skipped, and this is my judgement rather than a literal match.** Neither string appears in any header. Both were skipped because the matched header `## Pruritus (Itch) — Generalised and Localised, Approach and Differential` **explicitly names both** in its own title. Under a strictly literal reading they would be built; I judged "Generalised and Localised" in the header to be a direct statement that the existing entry covers them. **Overrule me if you want them built separately.**
-`ALSO IN _meta/MY_TASKS.md` **Restored 2026-09-02: this note was deleted with the build-status block in `67e5d31` and put back once the merge verification found it. It is a judgement about what was NOT built, and it is the only record of why.**
+`ALSO IN MY_TASKS.md` **Restored 2026-09-02: this note was deleted with the build-status block in `67e5d31` and put back once the merge verification found it. It is a judgement about what was NOT built, and it is the only record of why.**
 
 
 

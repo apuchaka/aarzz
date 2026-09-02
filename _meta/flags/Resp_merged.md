@@ -88,7 +88,7 @@ asbestos exposure; `02_Respiratory` is richer on mesothelioma staging.
   `Investigation-Interpretation §1.4` defers to `Resp §0.12` for "the full criteria"; `Resp §0.12`
   has a protein-only table (<30 / >30 g/L), which is a different rule; `GP_merged`'s LDH entry names
   two of the three in passing with no threshold. **The criteria themselves are absent from the
-  corpus** and are recorded in `_meta/MY_TASKS.md`.
+  corpus** and are recorded in `MY_TASKS.md`.
 - `## 0.13 Oxygen Therapy` +`.1 Delivery devices` +`.2 NIV` (571–594) — **not** investigation
   interpretation (nothing is being read), so the standing rule does not reach it. Flag as a
   candidate for a procedures home; leave for now.

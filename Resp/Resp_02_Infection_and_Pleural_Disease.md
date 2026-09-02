@@ -263,7 +263,7 @@ Tuberculous meningitis (CNS), Pott's disease (vertebral bodies), scrofuloderma (
 > criteria"* — a forward reference to criteria that are not here. **`GP_merged`'s LDH entry** names two
 > of the three in passing (*"pleural:serum LDH ratio and absolute pleural LDH form two of the three"*)
 > and states no threshold. **So the protein ratio >0.5, the LDH ratio >0.6 and the LDH above two-thirds
-> of the serum upper limit are in the corpus nowhere.** Recorded in `_meta/MY_TASKS.md`; not written
+> of the serum upper limit are in the corpus nowhere.** Recorded in `MY_TASKS.md`; not written
 > here, because they need an Australian source rather than my memory.
 
 | Transudate (<30 g/L protein) | Exudate (>30 g/L protein) |

@@ -1,0 +1,1811 @@
+{
+ "GI_merged.md": [
+  {
+   "file": "GI/GI_01_Acute_Abdomen.md",
+   "lines": [
+    1,
+    515
+   ],
+   "aliases": [
+    "C1",
+    "C1_Acute_Abdomen",
+    "NEW_Gastroenterology_and_Hepatology"
+   ]
+  },
+  {
+   "file": "GI/GI_02_Nausea_Vomiting_Dyspepsia_and_Oesophageal.md",
+   "lines": [
+    516,
+    1082
+   ],
+   "aliases": [
+    "C2",
+    "C6",
+    "C2_Nausea_and_Vomiting",
+    "C6_Dyspepsia__Oesophageal_and_Anorectal_Disease"
+   ]
+  },
+  {
+   "file": "GI/GI_03_GI_Bleeding_and_Altered_Bowel_Habit.md",
+   "lines": [
+    1083,
+    1571
+   ],
+   "aliases": [
+    "C4",
+    "C5",
+    "C4_Gastrointestinal_Bleeding",
+    "C5_Bowel_Habit__Obstruction_and_Distension"
+   ]
+  },
+  {
+   "file": "GI/GI_04_Jaundice_Liver_and_Pancreatobiliary.md",
+   "lines": [
+    1572,
+    2108
+   ],
+   "aliases": [
+    "C3",
+    "C7",
+    "C3_Jaundice_and_Liver_Disease",
+    "C7_Pancreatobiliary_Disease"
+   ]
+  },
+  {
+   "file": "GI/GI_05_Upper_GI_Disease.md",
+   "lines": [
+    2109,
+    2377
+   ],
+   "aliases": []
+  },
+  {
+   "file": "GI/GI_06_Liver_Disease.md",
+   "lines": [
+    2378,
+    2770
+   ],
+   "aliases": []
+  },
+  {
+   "file": "GI/GI_07_Biliary_Pancreas_Small_Bowel_and_IBD.md",
+   "lines": [
+    2771,
+    3171
+   ],
+   "aliases": [
+    "03_Gastrointestinal"
+   ]
+  },
+  {
+   "file": "GI/GI_08_Obstruction_Appendix_Colorectal_and_Anorectal.md",
+   "lines": [
+    3172,
+    3546
+   ],
+   "aliases": []
+  },
+  {
+   "file": "GI/GI_09_Investigations.md",
+   "lines": [
+    3547,
+    4065
+   ],
+   "aliases": [
+    "NEW_Investigations_Gastroenterology"
+   ]
+  },
+  {
+   "file": "GI/GI_10_Drugs.md",
+   "lines": [
+    4066,
+    4325
+   ],
+   "aliases": [
+    "NEW_Drugs_12_Gastrointestinal"
+   ]
+  }
+ ],
+ "Examination.md": [
+  {
+   "file": "Clinical/Exam_01_ABCDE_Cardioresp_Abdominal_and_Perioperative.md",
+   "lines": [
+    1,
+    491
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Clinical/Exam_02_Neurological_Skin_and_Head_and_Neck.md",
+   "lines": [
+    492,
+    996
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Clinical/Exam_03_MSE_Paediatric_and_Gait_Ulcers_Wounds.md",
+   "lines": [
+    997,
+    1212
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Clinical/Exam_04_System_File_Examination_Fragments.md",
+   "lines": [
+    1213,
+    1640
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Clinical/Exam_05_Named_Manoeuvres_and_Special_Tests.md",
+   "lines": [
+    1641,
+    1990
+   ],
+   "aliases": []
+  }
+ ],
+ "Cardio_merged.md": [
+  {
+   "file": "Cardio/Cardio_01_Chest_Pain_and_Cardiac_Biomarkers.md",
+   "lines": [
+    1,
+    241
+   ],
+   "aliases": [
+    "B1",
+    "B1_Chest_Pain_Framework_and_Cardiac_Biomarkers"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_02_Cardiology_and_Vascular_Gap_Fill.md",
+   "lines": [
+    242,
+    453
+   ],
+   "aliases": [
+    "NEW_Cardiology_and_Vascular"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_03_Hypertension_Spectrum.md",
+   "lines": [
+    454,
+    623
+   ],
+   "aliases": [
+    "B2",
+    "B2_Hypertension_Spectrum"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_04_Arrhythmia_Devices_Syncope_and_Hypotension.md",
+   "lines": [
+    624,
+    1084
+   ],
+   "aliases": [
+    "B3",
+    "B4",
+    "B3_Arrhythmia__Bradycardia_and_Cardiac_Devices",
+    "B4_Syncope__Collapse_and_Hypotension"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_05_Murmurs_Endocarditis_and_Peripheral_Vascular.md",
+   "lines": [
+    1085,
+    1338
+   ],
+   "aliases": [
+    "B5",
+    "B5_Murmurs__Endocarditis_and_Vascular_Disease"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_06_Oedema_Fatigue_and_Undifferentiated.md",
+   "lines": [
+    1339,
+    1658
+   ],
+   "aliases": [
+    "B6",
+    "B6_Oedema__Fatigue__Weakness_and_Undifferentiated_Presentations"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_07_Chronic_Heart_Failure.md",
+   "lines": [
+    1659,
+    1979
+   ],
+   "aliases": [
+    "CV-X",
+    "CV-X_Chronic_Heart_Failure"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_08_ACS_IHD_Hypertension_and_Lipids.md",
+   "lines": [
+    1980,
+    2273
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Cardio/Cardio_09_ECG_and_Arrhythmias.md",
+   "lines": [
+    2274,
+    2696
+   ],
+   "aliases": [
+    "01_Cardiovascular"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_10_Valves_Endocarditis_Cardiomyopathy_HF_and_Pericardium.md",
+   "lines": [
+    2697,
+    3101
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Cardio/Cardio_11_VTE_Pulmonary_Hypertension_and_Vascular.md",
+   "lines": [
+    3102,
+    3394
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Cardio/Cardio_12_Congenital_and_Cardiac_Investigations.md",
+   "lines": [
+    3395,
+    3624
+   ],
+   "aliases": [
+    "NEW_Investigations_Cardiology"
+   ]
+  },
+  {
+   "file": "Cardio/Cardio_13_Cardiovascular_Drugs.md",
+   "lines": [
+    3625,
+    4215
+   ],
+   "aliases": [
+    "NEW_Drug_Classes_Cardiovascular_Antihypertensives",
+    "NEW_Drugs_06_Cardiovascular"
+   ]
+  }
+ ],
+ "MSK_merged.md": [
+  {
+   "file": "MSK/MSK_01_Acute_MSK_Presentations_Gap_Fill.md",
+   "lines": [
+    1,
+    199
+   ],
+   "aliases": [
+    "NEW_Orthopaedics_and_Trauma",
+    "NEW_Rheumatology_and_Immunology"
+   ]
+  },
+  {
+   "file": "MSK/MSK_02_Hot_Swollen_Joint_and_Orthopaedic_Emergencies.md",
+   "lines": [
+    200,
+    680
+   ],
+   "aliases": [
+    "L1",
+    "11_01_Ortho_-_Orthopaedic_Emergencies",
+    "L1_Hot_and_Swollen_Joint"
+   ]
+  },
+  {
+   "file": "MSK/MSK_03_Polyarthralgia_and_Rheumatological_Serology.md",
+   "lines": [
+    681,
+    1258
+   ],
+   "aliases": [
+    "L2",
+    "L2_Polyarthralgia_and_Inflammatory_Arthritis",
+    "NEW_Investigations_Rheumatology"
+   ]
+  },
+  {
+   "file": "MSK/MSK_04_Rheumatological_Disease_and_Widespread_Pain.md",
+   "lines": [
+    1259,
+    1979
+   ],
+   "aliases": [
+    "L3",
+    "12_01_Rheum_-_Rheumatoid_Arthritis__Osteoarthritis__Psoriatic_Arthritis",
+    "12_02_Rheum_-_Ankylosing_Spondylitis__Gout__Pseudogout__Reactive_Arthritis__Fibromyalgia__PMR__CFS",
+    "12_03_Rheum_-_Connective_Tissue_Diseases__SLE__Systemic_Sclerosis__Dermatomyositis__Polymyositis__Sjogren_",
+    "12_04_Rheum_-_Vasculitis",
+    "L3_Muscle_Symptoms_and_Widespread_Pain"
+   ]
+  },
+  {
+   "file": "MSK/MSK_05_Back_Neck_and_Spinal_Orthopaedics.md",
+   "lines": [
+    1980,
+    2361
+   ],
+   "aliases": [
+    "L4",
+    "11_06_Ortho_-_Spinal_Orthopaedics",
+    "L4_Back_and_Neck_Pain"
+   ]
+  },
+  {
+   "file": "MSK/MSK_06_Regional_Limb_Pain_and_Limb_Orthopaedics.md",
+   "lines": [
+    2362,
+    3209
+   ],
+   "aliases": [
+    "L5",
+    "11_02_Ortho_-_Upper_Limb__Shoulder__Elbow__Distal_Radius_Fractures_",
+    "11_03_Ortho_-_Hand_and_Foot",
+    "11_04_Ortho_-_Hip",
+    "11_05_Ortho_-_Knee_and_Ankle",
+    "11_07a_Ortho_-_Dermatomes_and_Myotomes_Reference",
+    "L5_Regional_Limb_Pain"
+   ]
+  },
+  {
+   "file": "MSK/MSK_07_Soft_Tissue_Injury_and_Fractures.md",
+   "lines": [
+    3210,
+    3706
+   ],
+   "aliases": [
+    "L6",
+    "L7",
+    "L6_Soft_Tissue_Injury_and_Mobility",
+    "L7_Fractures_and_Eponyms"
+   ]
+  },
+  {
+   "file": "MSK/MSK_08_Bone_Disease_Tumours_and_Paediatric_Orthopaedics.md",
+   "lines": [
+    3707,
+    4104
+   ],
+   "aliases": [
+    "11_07b_Ortho_-_Osteomyelitis__Osteochondritis_Dissecans__Fat_Embolism__Charcot_Joint__Osteomalacia",
+    "11_08a_Ortho_-_Joint_Replacements",
+    "11_08b_Ortho_-_Paget_s_Disease_and_Osteoporosis",
+    "11_08c_Ortho_-_Fracture_Types_and_Pathological_Fractures",
+    "11_09a_Ortho_-_Orthopaedic_and_Bone_Malignancies",
+    "11_10_Ortho_-_Paediatric_Orthopaedics"
+   ]
+  },
+  {
+   "file": "MSK/MSK_09_Head_Torso_and_Major_Trauma.md",
+   "lines": [
+    4105,
+    4508
+   ],
+   "aliases": [
+    "L8",
+    "11_09b_Ortho_-_Trauma",
+    "L8_Facial__Head_and_Torso_Trauma"
+   ]
+  },
+  {
+   "file": "MSK/MSK_10_Investigations_Bone_Spine_and_Nerve.md",
+   "lines": [
+    4509,
+    4832
+   ],
+   "aliases": [
+    "NEW_Investigations_Orthopaedics_Neurology_and_Other"
+   ]
+  },
+  {
+   "file": "MSK/MSK_11_Investigations_Miscellany.md",
+   "lines": [
+    4833,
+    5108
+   ],
+   "aliases": []
+  },
+  {
+   "file": "MSK/MSK_12_Rheumatological_Drugs.md",
+   "lines": [
+    5109,
+    5179
+   ],
+   "aliases": [
+    "NEW_Drugs_19_Rheumatological"
+   ]
+  }
+ ],
+ "Endocrine and metabolics_merged.md": [
+  {
+   "file": "Endo/Endo_01_Thyroid_Presentations.md",
+   "lines": [
+    1,
+    310
+   ],
+   "aliases": [
+    "I1",
+    "I1_Thyroid_Disease"
+   ]
+  },
+  {
+   "file": "Endo/Endo_02_Diabetes_and_Glucose_Disorders.md",
+   "lines": [
+    311,
+    597
+   ],
+   "aliases": [
+    "I2",
+    "I2_Diabetes_and_Glucose_Disorders"
+   ]
+  },
+  {
+   "file": "Endo/Endo_03_Acid_Base_DKA_Fluids_and_Electrolytes.md",
+   "lines": [
+    598,
+    1005
+   ],
+   "aliases": [
+    "F0.2",
+    "F0-2_Acid-Base__DKA_and_Fluid_States",
+    "NEW_Acid-Base_Fluids_and_Electrolytes"
+   ]
+  },
+  {
+   "file": "Endo/Endo_04_Weight_Lipids_and_Fluid_Balance.md",
+   "lines": [
+    1006,
+    1277
+   ],
+   "aliases": [
+    "I5",
+    "I5_Weight__Lipids_and_Fluid_Balance"
+   ]
+  },
+  {
+   "file": "Endo/Endo_05_Calcium_Parathyroid_and_Bone.md",
+   "lines": [
+    1278,
+    1543
+   ],
+   "aliases": [
+    "I3",
+    "I3_Calcium__Parathyroid_and_Bone"
+   ]
+  },
+  {
+   "file": "Endo/Endo_06_Pituitary_Adrenal_and_Sex_Hormones.md",
+   "lines": [
+    1544,
+    1886
+   ],
+   "aliases": [
+    "I4",
+    "I4_Pituitary__Adrenal_and_Sex_Hormone"
+   ]
+  },
+  {
+   "file": "Endo/Endo_07_Thyroid_Disease.md",
+   "lines": [
+    1887,
+    2042
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Endo/Endo_08_Diabetes_DKA_HHS_and_Metabolic_Syndrome.md",
+   "lines": [
+    2043,
+    2357
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Endo/Endo_09_Pituitary_Adrenal_and_Weight_Change.md",
+   "lines": [
+    2358,
+    2583
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Endo/Endo_10_Parathyroid_DI_Acid_Base_and_Electrolytes.md",
+   "lines": [
+    2584,
+    2974
+   ],
+   "aliases": [
+    "06_Metabolic_Medicine_and_Endocrinology"
+   ]
+  },
+  {
+   "file": "Endo/Endo_11_Investigations.md",
+   "lines": [
+    2975,
+    3152
+   ],
+   "aliases": [
+    "NEW_Investigations_Endocrine"
+   ]
+  },
+  {
+   "file": "Endo/Endo_12_Drugs.md",
+   "lines": [
+    3153,
+    3514
+   ],
+   "aliases": [
+    "NEW_Drugs_10_Endocrine"
+   ]
+  }
+ ],
+ "Pediatrics_merged.md": [
+  {
+   "file": "Paeds/Paeds_01_Seriously_Unwell_Child_and_Resuscitation.md",
+   "lines": [
+    1,
+    461
+   ],
+   "aliases": [
+    "M1",
+    "15_01a_Paeds_-_Paediatric_and_Newborn_Life_Support",
+    "15_01b_Paeds_-_Anaphylaxis",
+    "M1_The_Seriously_Unwell_Child"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_02_Fever_and_Infection.md",
+   "lines": [
+    462,
+    873
+   ],
+   "aliases": [
+    "M2",
+    "15_02_Paeds_-_Ill_and_Feverish_Child__Meningitis__Encephalitis",
+    "15_03a_Paeds_-_Childhood_Viral_Exanthems",
+    "15_03b_Paeds_-_HIV_in_Children",
+    "M2_Fever_in_Children"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_03_Neonatology.md",
+   "lines": [
+    874,
+    1356
+   ],
+   "aliases": [
+    "M3",
+    "15_22a_Paeds_-_Neonatal_Sepsis_and_Seizures",
+    "15_22b_Paeds_-_Neonatal_Respiratory_Distress_and_Jaundice",
+    "15_23a_Paeds_-_NEC__Neonatal_Hypoglycaemia__Hypotonia",
+    "15_23b_Paeds_-_Minor_Neonatal_Problems",
+    "M3_Neonatal_Problems"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_04_Growth_Development_and_Neurodisability.md",
+   "lines": [
+    1357,
+    1741
+   ],
+   "aliases": [
+    "M4",
+    "15_13b_Paeds_-_Autism_Spectrum_Disorder_and_Cleft_Lip_Palate",
+    "15_19a_Paeds_-_Developmental_Milestones_and_Delay",
+    "15_19b_Paeds_-_Cerebral_Palsy_and_Muscular_Dystrophies",
+    "M4_Growth_and_Development"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_05_Respiratory_and_Neurology.md",
+   "lines": [
+    1742,
+    2352
+   ],
+   "aliases": [
+    "M6",
+    "15_04a_Paeds_-_URTI_and_LRTI",
+    "15_04b_Paeds_-_Asthma_in_Children",
+    "15_12a_Paeds_-_Epilepsy_Syndromes_and_Status_Epilepticus",
+    "15_12b_Paeds_-_Brain_Tumours",
+    "15_13a_Paeds_-_Neural_Tube_Defects",
+    "M6_Paediatric_Respiratory_and_Neurology"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_06_Gastroenterology_and_Surgery.md",
+   "lines": [
+    2353,
+    2875
+   ],
+   "aliases": [
+    "M5",
+    "15_07_Paeds_-_Abdominal_Pain__Neuroblastoma__Coeliac_Disease__Malnutrition__Diarrhoea_and_Vomiting",
+    "15_08_Paeds_-_Surgical_Abdomen__Appendicitis__Intussusception__Pyloric_Stenosis__Hirschsprung__Oesophageal_Atresia_",
+    "15_09a_Paeds_-_Congenital_Abdominal_Wall_and_GI_Anomalies",
+    "15_09b_Paeds_-_Infant_Feeding_Problems",
+    "M5_Paediatric_GI__GU_and_Limb"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_07_Renal_Urology_and_Cardiology.md",
+   "lines": [
+    2876,
+    3281
+   ],
+   "aliases": [
+    "15_05_Paeds_-_Acyanotic_Congenital_Heart_Disease",
+    "15_06_Paeds_-_Cyanotic_CHD__Kawasaki_Disease__Murmurs",
+    "15_10_Paeds_-_UTI__Nephrotic_Syndrome__Glomerulonephritis",
+    "15_11_Paeds_-_Urological_and_Renal_Anomalies__Wilms_Tumour__HUS"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_08_Haematology_Immunology_Endocrine_and_Metabolic.md",
+   "lines": [
+    3282,
+    3705
+   ],
+   "aliases": [
+    "15_14_Paeds_-_Anaemia__Sickle_Cell__Hereditary_Spherocytosis__HSP",
+    "15_15a_Paeds_-_ITP_and_Acute_Lymphoblastic_Leukaemia",
+    "15_15b_Paeds_-_Primary_Immunodeficiencies_and_SCID",
+    "15_16a_Paeds_-_Hypothyroidism",
+    "15_16b_Paeds_-_Diabetes_Mellitus__MODY__DKA",
+    "15_17a_Paeds_-_Hyperthyroidism_and_Approach_to_Inherited_Metabolic_Disease",
+    "15_17b_Paeds_-_Glycogen_Storage_Disorders__PKU__Lysosomal_Storage_Diseases"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_09_Puberty_and_Clinical_Genetics.md",
+   "lines": [
+    3706,
+    3991
+   ],
+   "aliases": [
+    "15_18a_Paeds_-_Precocious_and_Delayed_Puberty__CAH",
+    "15_18b_Paeds_-_Genetic_Disorders_Inheritance_Summary",
+    "15_20a_Paeds_-_Trisomies_and_Sex_Chromosome_Disorders",
+    "15_20b_Paeds_-_Imprinting_Disorders__Prader-Willi__Angelman_",
+    "15_21a_Paeds_-_Microdeletion_Syndromes__Cri_du_Chat__DiGeorge__Williams_",
+    "15_21b_Paeds_-_Fragile_X__Achondroplasia__Noonan__Marfan"
+   ]
+  },
+  {
+   "file": "Paeds/Paeds_10_Adolescent_Behavioural_and_Preventive.md",
+   "lines": [
+    3992,
+    4176
+   ],
+   "aliases": [
+    "M7",
+    "M7_Adolescent_and_Behavioural_Health"
+   ]
+  }
+ ],
+ "Psychiatry_merged.md": [
+  {
+   "file": "Psych/Psych_01_MSE_and_Risk_Assessment.md",
+   "lines": [
+    1,
+    330
+   ],
+   "aliases": [
+    "N1",
+    "N1_Mental_State_Examination_and_Risk",
+    "NEW_Psychiatry"
+   ]
+  },
+  {
+   "file": "Psych/Psych_02_Acute_Disturbance_Substance_Use_and_Mental_Health_Act.md",
+   "lines": [
+    331,
+    730
+   ],
+   "aliases": [
+    "N2",
+    "14_06b_Psych_-_Mental_Health_Act_and_Sectioning",
+    "14a-1_Psych_-_Substance_Misuse__Recreational_Drug_Profiles_",
+    "N2_Acute_Behavioural_Disturbance_and_Substance_Use"
+   ]
+  },
+  {
+   "file": "Psych/Psych_03_Mood_Disorders.md",
+   "lines": [
+    731,
+    1141
+   ],
+   "aliases": [
+    "N4",
+    "14_01_Psych_-_Mood_Disorders__Depression__Suicide__Bipolar_",
+    "N4_Mood_Disorders"
+   ]
+  },
+  {
+   "file": "Psych/Psych_04_Psychosis_and_Antipsychotics.md",
+   "lines": [
+    1142,
+    1515
+   ],
+   "aliases": [
+    "N3",
+    "14_03_Psych_-_Psychotic_Disorders_and_Antipsychotics",
+    "N3_Psychosis_and_Antipsychotics"
+   ]
+  },
+  {
+   "file": "Psych/Psych_05_Anxiety_OCD_and_Trauma.md",
+   "lines": [
+    1516,
+    1823
+   ],
+   "aliases": [
+    "N5",
+    "14_02_Psych_-_Anxiety_and_Related_Disorders",
+    "N5_Anxiety__OCD_and_Trauma"
+   ]
+  },
+  {
+   "file": "Psych/Psych_06_Functional_Dissociative_and_Personality.md",
+   "lines": [
+    1824,
+    2206
+   ],
+   "aliases": [
+    "N6",
+    "14_04_Psych_-_Personality_Disorders",
+    "14_05c_Psych_-_Unexplained_Symptoms__Somatoform__Dissociative__Factitious_Disorders_",
+    "N6_Functional__Dissociative_and_Personality_Disorders"
+   ]
+  },
+  {
+   "file": "Psych/Psych_07_Eating_Disorders.md",
+   "lines": [
+    2207,
+    2464
+   ],
+   "aliases": [
+    "N8",
+    "14_05a_Psych_-_Eating_Disorders",
+    "N8_Eating_Disorders"
+   ]
+  },
+  {
+   "file": "Psych/Psych_08_Sleep_Disorders.md",
+   "lines": [
+    2465,
+    2667
+   ],
+   "aliases": [
+    "N7",
+    "14_05b_Psych_-_Insomnia",
+    "N7_Sleep_Disorders"
+   ]
+  },
+  {
+   "file": "Psych/Psych_09_ADHD_ECT_and_Psychotropic_Drugs.md",
+   "lines": [
+    2668,
+    3030
+   ],
+   "aliases": [
+    "14_06a_Psych_-_Drugs_Used_in_Psychiatry",
+    "14_07_Psych_-_Attention_Deficit_Hyperactivity_Disorder",
+    "NEW_Drugs_17_Psychotropic"
+   ]
+  }
+ ],
+ "Opthalm_merged.md": [
+  {
+   "file": "Ophth/Ophth_01_Red_and_Painful_Eye.md",
+   "lines": [
+    1,
+    213
+   ],
+   "aliases": [
+    "E1",
+    "E1_Red_and_Painful_Eye"
+   ]
+  },
+  {
+   "file": "Ophth/Ophth_02_Vision_Loss_and_Disturbance.md",
+   "lines": [
+    214,
+    426
+   ],
+   "aliases": [
+    "E2",
+    "E2_Vision_Loss_and_Disturbance"
+   ]
+  },
+  {
+   "file": "Ophth/Ophth_03_Orbit_Lids_Pupil_and_Gap_Fill.md",
+   "lines": [
+    427,
+    737
+   ],
+   "aliases": [
+    "E3",
+    "E3_Orbit__Lids_and_Pupil",
+    "NEW_Ophthalmology"
+   ]
+  },
+  {
+   "file": "Ophth/Ophth_04_Red_Eye_Disease.md",
+   "lines": [
+    738,
+    969
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Ophth/Ophth_05_Glaucoma_Retina_and_Optic_Nerve.md",
+   "lines": [
+    970,
+    1315
+   ],
+   "aliases": [
+    "05_Ophthalmology"
+   ]
+  },
+  {
+   "file": "Ophth/Ophth_06_Pupil_Strabismus_Lids_and_Orbit.md",
+   "lines": [
+    1316,
+    1645
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Ophth/Ophth_07_Eye_Drugs.md",
+   "lines": [
+    1646,
+    1820
+   ],
+   "aliases": [
+    "NEW_Drugs_11_Eye"
+   ]
+  }
+ ],
+ "Resp_merged.md": [
+  {
+   "file": "Resp/Resp_01_Respiratory_Failure_Asthma_and_COPD.md",
+   "lines": [
+    1,
+    213
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Resp/Resp_02_Infection_and_Pleural_Disease.md",
+   "lines": [
+    214,
+    561
+   ],
+   "aliases": [
+    "02_Respiratory"
+   ]
+  },
+  {
+   "file": "Resp/Resp_03_Malignancy_Interstitial_and_Suppurative.md",
+   "lines": [
+    562,
+    843
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Resp/Resp_04_Occupational_and_Chronic_Lung_Disease.md",
+   "lines": [
+    844,
+    1179
+   ],
+   "aliases": [
+    "RESP-X",
+    "RESP-X_Occupational_and_Chronic_Lung_Disease"
+   ]
+  },
+  {
+   "file": "Resp/Resp_05_Investigations.md",
+   "lines": [
+    1180,
+    1398
+   ],
+   "aliases": [
+    "NEW_Investigations_Respiratory"
+   ]
+  },
+  {
+   "file": "Resp/Resp_06_Drugs.md",
+   "lines": [
+    1399,
+    1561
+   ],
+   "aliases": [
+    "NEW_Drugs_18_Respiratory"
+   ]
+  }
+ ],
+ "OBGYN_merged.md": [
+  {
+   "file": "OBGYN/OBGYN_01_Early_Pregnancy_Bleeding_and_Loss.md",
+   "lines": [
+    1,
+    498
+   ],
+   "aliases": [
+    "O1",
+    "17_03_Termination_of_Pregnancy_and_Miscarriage",
+    "17_04_Ectopic_Pregnancy_and_GTD",
+    "NEW_Obstetrics",
+    "O1_Early_Pregnancy"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_02_Antenatal_Care_and_Infections.md",
+   "lines": [
+    499,
+    1377
+   ],
+   "aliases": [
+    "16_01-05_Antenatal_Care",
+    "16_06-07_Ante-Perinatal_Infections"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_03_Later_Pregnancy_Complications.md",
+   "lines": [
+    1378,
+    1797
+   ],
+   "aliases": [
+    "O2",
+    "16_08-09_Antenatal_and_Perinatal_Problems",
+    "O2_Later_Pregnancy_and_Fetal"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_04_Labour_Delivery_and_Postpartum.md",
+   "lines": [
+    1798,
+    2438
+   ],
+   "aliases": [
+    "O3",
+    "16_10-13_Labour_and_Delivery",
+    "O3_Labour__Delivery_and_Postpartum"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_05_Obstetric_Emergencies_and_Fetal_Assessment.md",
+   "lines": [
+    2439,
+    2768
+   ],
+   "aliases": [
+    "16_14-15_Obstetric_Emergencies"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_06_Investigations.md",
+   "lines": [
+    2769,
+    3080
+   ],
+   "aliases": [
+    "NEW_Investigations_Obstetrics_and_Gynaecology"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_07_Abnormal_Bleeding_Menstrual_and_Menopause.md",
+   "lines": [
+    3081,
+    3695
+   ],
+   "aliases": [
+    "O4",
+    "17_01_FGM__Amenorrhoea__PCOS",
+    "17_02_Menorrhagia__PMS__Menopause__HRT",
+    "NEW_Gynaecology_and_Reproductive",
+    "O4_Abnormal_and_Menstrual_Bleeding"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_08_Pelvic_Pain_Ovarian_and_Subfertility.md",
+   "lines": [
+    3696,
+    4288
+   ],
+   "aliases": [
+    "O5",
+    "17_05_PID__Endometriosis__Fibroids",
+    "17_06_Subfertility_and_OHSS",
+    "17_10_Ovarian_Cancer__Cysts_and_Torsion",
+    "O5_Pelvic_and_Vulval_Conditions"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_09_Vulvovaginal_Prolapse_and_Gynae_Cancers.md",
+   "lines": [
+    4289,
+    4707
+   ],
+   "aliases": [
+    "17_07_Vulval_Problems__Genital_Warts_and_Herpes__Vulval_Carcinoma",
+    "17_08_Vaginal_Discharge__Urinary_Incontinence__Pelvic_Organ_Prolapse",
+    "17_09_Cervical__Vaginal_and_Endometrial_Cancer"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_10_Sexual_Health_and_Contraception.md",
+   "lines": [
+    4708,
+    5210
+   ],
+   "aliases": [
+    "O6",
+    "16_16-17_Contraception",
+    "O6_Sexual_and_Reproductive_Health"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_11_Breast.md",
+   "lines": [
+    5211,
+    5502
+   ],
+   "aliases": [
+    "O7",
+    "NEW_Breast",
+    "O7_Breast_Disease"
+   ]
+  },
+  {
+   "file": "OBGYN/OBGYN_12_Drugs.md",
+   "lines": [
+    5503,
+    5716
+   ],
+   "aliases": [
+    "NEW_Drugs_16_Obstetric_and_Gynaecological"
+   ]
+  }
+ ],
+ "Emergency and Crit Care_merged.md": [
+  {
+   "file": "Emergency/Emerg_01_Resuscitation_and_the_Deteriorating_Patient.md",
+   "lines": [
+    1,
+    468
+   ],
+   "aliases": [
+    "A1",
+    "F0.4",
+    "A1_Emergency_-_Deteriorating_Patient__Sepsis__Cardiac_Arrest",
+    "F0-4_Resuscitation_Algorithms_and_Emergency_Procedures"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_02_Airway_and_Respiratory_Failure.md",
+   "lines": [
+    469,
+    1048
+   ],
+   "aliases": [
+    "A2",
+    "A3",
+    "A2_Airway_Compromise__Stridor_and_Tracheostomy_Emergencies",
+    "A3_Respiratory_Failure__Bronchospasm_and_Hypoxia"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_03_Dyspnoea_Cough_and_Pulmonary_Nodule.md",
+   "lines": [
+    1049,
+    1361
+   ],
+   "aliases": [
+    "A4",
+    "A4_Dyspnoea__Cough_and_the_Solitary_Pulmonary_Nodule",
+    "NEW_Respiratory"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_04_Acute_Respiratory_Emergencies_and_Head_Injury.md",
+   "lines": [
+    1362,
+    1697
+   ],
+   "aliases": [
+    "F0.5",
+    "F0-5_Acute_Respiratory__Headache_and_Head_Injury"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_05_Shock_and_Sepsis.md",
+   "lines": [
+    1698,
+    2172
+   ],
+   "aliases": [
+    "F0.3",
+    "F0-3_Shock_Phenotypes_and_Sepsis_Syndromes"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_06_Transfusion_and_Coagulopathy.md",
+   "lines": [
+    2173,
+    2361
+   ],
+   "aliases": [
+    "A9",
+    "A9_Transfusion__Coagulopathy_and_Anticoagulant_Emergencies"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_07_Toxidromes_Anaphylaxis_and_Envenomation.md",
+   "lines": [
+    2362,
+    2862
+   ],
+   "aliases": [
+    "F0.1",
+    "F0-1_Toxidromes__Allergic_Emergencies_and_Envenomation",
+    "NEW_Drugs_01_Allergy_and_Anaphylaxis"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_08_Poisoned_Patient_and_Specific_Overdoses.md",
+   "lines": [
+    2863,
+    3320
+   ],
+   "aliases": [
+    "A5",
+    "14a-2_Psych_-_Overdose_and_Poisoning_Management",
+    "A5_Toxicology_II_-_Poisoned_Patient__ADRs_and_Immunotherapy"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_09_Antidotes_and_Antivenoms.md",
+   "lines": [
+    3321,
+    3483
+   ],
+   "aliases": [
+    "NEW_Drugs_04_Antidotes_and_Antivenoms"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_10_Thermal_Environmental_and_Burn_Injury.md",
+   "lines": [
+    3484,
+    4005
+   ],
+   "aliases": [
+    "A6",
+    "A7",
+    "A6_Thermal_and_Environmental_Injury",
+    "A7_Burns__Chemical_Injury__Wounds_and_Crush_Injury"
+   ]
+  },
+  {
+   "file": "Emergency/Emerg_11_Foreign_Bodies_by_Site.md",
+   "lines": [
+    4006,
+    4283
+   ],
+   "aliases": [
+    "A8",
+    "A8_Foreign_Bodies_by_Site"
+   ]
+  }
+ ],
+ "Neuro_merged.md": [
+  {
+   "file": "Neuro/Neuro_01_Headache_Meningism_and_Altered_Consciousness.md",
+   "lines": [
+    1,
+    603
+   ],
+   "aliases": [
+    "D1",
+    "D2",
+    "D1_Headache_and_Meningism",
+    "D2_Altered_Consciousness_and_Cognition"
+   ]
+  },
+  {
+   "file": "Neuro/Neuro_02_Stroke_Seizures_and_Movement_Disorders.md",
+   "lines": [
+    604,
+    1215
+   ],
+   "aliases": [
+    "D3",
+    "D6",
+    "D3_Stroke_and_Focal_Neurological_Deficit",
+    "D6_Seizures_and_Movement_Disorders"
+   ]
+  },
+  {
+   "file": "Neuro/Neuro_03_Weakness_Dizziness_and_Cranial_Nerves.md",
+   "lines": [
+    1216,
+    1911
+   ],
+   "aliases": [
+    "D4",
+    "D5",
+    "D7",
+    "D4_Weakness__Neuropathy_and_Radiculopathy",
+    "D5_Dizziness__Vertigo_and_Gait",
+    "D7_Cranial_Nerves_and_Special_Senses"
+   ]
+  },
+  {
+   "file": "Neuro/Neuro_04_Headache_Disorders_Delirium_and_Dementia.md",
+   "lines": [
+    1912,
+    2234
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Neuro/Neuro_05_Stroke_Epilepsy_Syncope_and_Movement.md",
+   "lines": [
+    2235,
+    2696
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Neuro/Neuro_06_Weakness_Spinal_and_Neuroinflammatory.md",
+   "lines": [
+    2697,
+    3158
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Neuro/Neuro_07_CNS_Infection_Tumour_and_Head_Injury.md",
+   "lines": [
+    3159,
+    3649
+   ],
+   "aliases": [
+    "04_Neurology"
+   ]
+  },
+  {
+   "file": "Neuro/Neuro_08_Acute_Neurological_Presentations.md",
+   "lines": [
+    3650,
+    3821
+   ],
+   "aliases": [
+    "NEW_Neurology"
+   ]
+  },
+  {
+   "file": "Neuro/Neuro_09_Drugs.md",
+   "lines": [
+    3822,
+    4041
+   ],
+   "aliases": [
+    "NEW_Drugs_15_Neurological"
+   ]
+  }
+ ],
+ "Heme Onc_merged.md": [
+  {
+   "file": "HemeOnc/HemeOnc_01_Anaemia_and_the_Cytopenias.md",
+   "lines": [
+    1,
+    417
+   ],
+   "aliases": [
+    "J1",
+    "10_04_Haemonc_-_Anaemia_Overview_and_Microcytic_Anaemia",
+    "10_06a_Haemonc_-_Macrocytic_Anaemia",
+    "J1_Cytopenias_and_Marrow_Failure"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_02_Haemolysis_and_Haemoglobinopathies.md",
+   "lines": [
+    418,
+    791
+   ],
+   "aliases": [
+    "J2",
+    "10_05_Haemonc_-_Normocytic_Anaemia_and_Sickle_Cell_Disease",
+    "J2_Haemoglobinopathy_and_Haemolysis"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_03_Bleeding_Thrombosis_and_Transfusion.md",
+   "lines": [
+    792,
+    1445
+   ],
+   "aliases": [
+    "J3",
+    "10_06b_Haemonc_-_Thrombophilia__APS__Thrombocytosis__Methaemoglobinaemia",
+    "10_07_Haemonc_-_Platelet_and_Clotting_Disorders__Neutropaenia",
+    "10_08_Haemonc_-_Blood_Products_and_Transfusion",
+    "10_09a_Haemonc_-_Anticoagulants_and_Antiplatelets",
+    "J3_Bleeding_and_Thrombosis"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_04_Blood_and_Electrolyte_Drugs.md",
+   "lines": [
+    1446,
+    1693
+   ],
+   "aliases": [
+    "NEW_Drugs_07_Blood_and_Electrolytes"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_05_Haematological_Malignancy.md",
+   "lines": [
+    1694,
+    2213
+   ],
+   "aliases": [
+    "J4",
+    "10_01_Haemonc_-_Leukaemias_and_Myeloproliferative_Disorders",
+    "10_02_Haemonc_-_Lymphomas_and_Multiple_Myeloma",
+    "10_09b_Haemonc_-_Miscellaneous_Haematology",
+    "J4_Paraproteins_and_Lymphoproliferative"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_06_Oncology_Principles_and_Breast_Cancer.md",
+   "lines": [
+    2214,
+    2548
+   ],
+   "aliases": [
+    "10_11a_Oncology_-_Common_Cancers__Carcinogens__Tumour_Markers",
+    "10_11b_Oncology_-_Genetic_Cancer_Predisposition_Syndromes",
+    "10_12_Oncology_-_Breast"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_07_Transplant_Oncological_Emergencies_and_Palliative_Care.md",
+   "lines": [
+    2549,
+    2963
+   ],
+   "aliases": [
+    "J5",
+    "10_10a_Haemonc_-_Haematological_and_Oncological_Emergencies",
+    "10_10b_Haemonc_-_Transplant_Medicine",
+    "10_11c_Oncology_-_Palliative_Care_Prescribing",
+    "J5_Oncological_Emergencies_and_Palliative_Care"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_08_Immunodeficiency_Porphyria_and_Antineoplastic_Drugs.md",
+   "lines": [
+    2964,
+    3331
+   ],
+   "aliases": [
+    "10_03a_Haemonc_-_Primary_Immunodeficiencies",
+    "10_03b_Haemonc_-_Acute_Intermittent_Porphyria",
+    "NEW_Drugs_14_Immunomodulators_and_Antineoplastics"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_09_Investigations_Anaemia_Workup.md",
+   "lines": [
+    3332,
+    3457
+   ],
+   "aliases": [
+    "NEW_Investigations_Haematology"
+   ]
+  },
+  {
+   "file": "HemeOnc/HemeOnc_10_Investigations_Coagulation_and_Malignancy.md",
+   "lines": [
+    3458,
+    3850
+   ],
+   "aliases": [
+    "NEW_Investigations_Haematology_Part2"
+   ]
+  }
+ ],
+ "Infectious Disease_merged.md": [
+  {
+   "file": "ID/ID_01_Fever_Approach_and_Workup.md",
+   "lines": [
+    1,
+    341
+   ],
+   "aliases": [
+    "K1",
+    "K1_Fever_Workup",
+    "NEW_Infectious_Diseases"
+   ]
+  },
+  {
+   "file": "ID/ID_02_Skin_and_Soft_Tissue_Infection_and_Sepsis.md",
+   "lines": [
+    342,
+    728
+   ],
+   "aliases": [
+    "K2",
+    "08_09_Infectious_Disease_-_Miscellaneous",
+    "K2_Skin_and_Soft_Tissue_Infection"
+   ]
+  },
+  {
+   "file": "ID/ID_03_Prolonged_Fever_Travel_Exposure_TB_and_HIV.md",
+   "lines": [
+    729,
+    1106
+   ],
+   "aliases": [
+    "K3",
+    "K3_Exposure__Tuberculosis__HIV_and_Immunodeficiency"
+   ]
+  },
+  {
+   "file": "ID/ID_04_Gastroenteritis_and_Sexually_Transmitted_Infection.md",
+   "lines": [
+    1107,
+    1371
+   ],
+   "aliases": [
+    "08_08_Infectious_Disease_-_Genitourinary_Infections_and_STIs",
+    "08_10_Infectious_Disease_-_Diarrhoea_DDx_and_Gastroenteritis"
+   ]
+  },
+  {
+   "file": "ID/ID_05_Bacterial_Organisms_and_the_Antibiogram.md",
+   "lines": [
+    1372,
+    1796
+   ],
+   "aliases": [
+    "08_01-03_Infectious_Disease_-_Bacterial_Infections",
+    "08_04_Infectious_Disease_-_Antibiogram"
+   ]
+  },
+  {
+   "file": "ID/ID_06_Viral_and_Protozoan_Infection.md",
+   "lines": [
+    1797,
+    2190
+   ],
+   "aliases": [
+    "08_05-06_Infectious_Disease_-_Viral_Infections",
+    "08_07_Infectious_Disease_-_Protozoan_Infections"
+   ]
+  },
+  {
+   "file": "ID/ID_07_Allergy_and_Clinical_Immunology.md",
+   "lines": [
+    2191,
+    2509
+   ],
+   "aliases": [
+    "K4",
+    "K4_Allergy_and_Clinical_Immunology"
+   ]
+  },
+  {
+   "file": "ID/ID_08_Investigations_and_Serology.md",
+   "lines": [
+    2510,
+    3063
+   ],
+   "aliases": [
+    "NEW_Investigations_Infectious_Diseases"
+   ]
+  },
+  {
+   "file": "ID/ID_09_Anti_infectives_Vaccines_and_Immunoglobulins.md",
+   "lines": [
+    3064,
+    3510
+   ],
+   "aliases": [
+    "NEW_Drugs_05_Anti_infectives",
+    "NEW_Drugs_20_Vaccines"
+   ]
+  }
+ ],
+ "Derm_merged.md": [
+  {
+   "file": "Derm/Derm_01_Acute_Rash_and_Dermatological_Emergencies.md",
+   "lines": [
+    1,
+    485
+   ],
+   "aliases": [
+    "G1",
+    "09_01_Dermatology_-_Dermatological_Emergencies",
+    "G1_Acute_Rash_and_Erythema",
+    "NEW_Dermatology"
+   ]
+  },
+  {
+   "file": "Derm/Derm_02_Blistering_Purpura_and_Inflammatory_Dermatoses.md",
+   "lines": [
+    486,
+    1076
+   ],
+   "aliases": [
+    "G2",
+    "G3",
+    "09_08_Dermatology_-_Miscellaneous",
+    "G2_Blisters_and_Skin_Failure",
+    "G3_Purpura_and_Vasculitis"
+   ]
+  },
+  {
+   "file": "Derm/Derm_03_Chronic_Dermatoses_Pruritus_and_Pigment.md",
+   "lines": [
+    1077,
+    1537
+   ],
+   "aliases": [
+    "G4",
+    "09_03b_Dermatology_-_Acne_Vulgaris",
+    "09_04_Dermatology_-_Eczema__Psoriasis__Rosacea",
+    "G4_Chronic_Rash__Pruritus_and_Pigment"
+   ]
+  },
+  {
+   "file": "Derm/Derm_04_Skin_Infections_and_Infestations.md",
+   "lines": [
+    1538,
+    1811
+   ],
+   "aliases": [
+    "09_05_Dermatology_-_Bacterial_Infections_and_Infestations",
+    "09_06_Dermatology_-_Fungal_and_Viral_Skin_Infections",
+    "09_07_Dermatology_-_Chickenpox__Shingles__Pityriasis_Rosea__Hidradenitis_Suppurativa"
+   ]
+  },
+  {
+   "file": "Derm/Derm_05_Skin_Lesions_and_Neoplasia.md",
+   "lines": [
+    1812,
+    2125
+   ],
+   "aliases": [
+    "G5",
+    "09_02_Dermatology_-_Melanocytic_Lesions_and_Mimickers",
+    "09_03a_Dermatology_-_Non-Melanoma_Skin_Cancer",
+    "G5_Lumps__Ulcers_and_Nails"
+   ]
+  },
+  {
+   "file": "Derm/Derm_06_Flushing_Sweating_and_Cyanosis.md",
+   "lines": [
+    2126,
+    2336
+   ],
+   "aliases": [
+    "G6",
+    "G6_Flushing__Sweating_and_Cyanosis"
+   ]
+  },
+  {
+   "file": "Derm/Derm_07_Drugs.md",
+   "lines": [
+    2337,
+    2557
+   ],
+   "aliases": [
+    "NEW_Drugs_08_Dermatological"
+   ]
+  }
+ ],
+ "Renal and Urology_merged.md": [
+  {
+   "file": "Renal/Renal_01_AKI_CKD_Haematuria_and_Proteinuria.md",
+   "lines": [
+    1,
+    420
+   ],
+   "aliases": [
+    "H1",
+    "H3",
+    "H1_Haematuria_and_Proteinuria",
+    "H3_Acute_Kidney_Injury_and_CKD"
+   ]
+  },
+  {
+   "file": "Renal/Renal_02_Renal_Medicine_Disease_Layer.md",
+   "lines": [
+    421,
+    734
+   ],
+   "aliases": []
+  },
+  {
+   "file": "Renal/Renal_03_Urology_Disease_Layer.md",
+   "lines": [
+    735,
+    1215
+   ],
+   "aliases": [
+    "07_Renal_Medicine_and_Urology"
+   ]
+  },
+  {
+   "file": "Renal/Renal_04_LUTS_Retention_Scrotum_and_Groin.md",
+   "lines": [
+    1216,
+    1680
+   ],
+   "aliases": [
+    "H2",
+    "H4",
+    "H2_LUTS__Retention_and_Incontinence",
+    "H4_Scrotum__Groin_and_Loin",
+    "NEW_Renal_and_Urology"
+   ]
+  },
+  {
+   "file": "Renal/Renal_05_Investigations.md",
+   "lines": [
+    1681,
+    1935
+   ],
+   "aliases": [
+    "NEW_Investigations_Renal_and_Urology"
+   ]
+  },
+  {
+   "file": "Renal/Renal_06_Drugs.md",
+   "lines": [
+    1936,
+    2083
+   ],
+   "aliases": [
+    "NEW_Drugs_13_Genitourinary"
+   ]
+  }
+ ],
+ "ENT_merged.md": [
+  {
+   "file": "ENT/ENT_01_Ear_Hearing_Vertigo_and_Facial_Palsy.md",
+   "lines": [
+    1,
+    509
+   ],
+   "aliases": [
+    "F1",
+    "13_01_ENT_-_Otalgia__Otitis_Externa__Otitis_Media__Glue_Ear",
+    "13_02_ENT_-_Hearing_Loss__Tinnitus__Vertigo__DDx_Charts_",
+    "13_03_ENT_-_Deafness_and_Vertigo_Conditions",
+    "13_06c_ENT_-_Bell_s_Palsy",
+    "F1_Ear"
+   ]
+  },
+  {
+   "file": "ENT/ENT_02_Nose_and_Sinus.md",
+   "lines": [
+    510,
+    835
+   ],
+   "aliases": [
+    "F2",
+    "13_04_ENT_-_Nose__Rhinosinusitis__Fractures__CSF_Rhinorrhoea__Epistaxis__Nasal_Cancers_",
+    "F2_Nose_and_Sinus"
+   ]
+  },
+  {
+   "file": "ENT/ENT_03_Throat_Airway_Voice_and_Swallowing.md",
+   "lines": [
+    836,
+    1344
+   ],
+   "aliases": [
+    "F3",
+    "13_05a_ENT_-_Sore_Throat_and_Tonsillitis",
+    "13_05b_ENT_-_Stridor__Croup__Epiglottitis__Laryngomalacia__OSA",
+    "13_06a_ENT_-_Dysphonia_and_HNSCC",
+    "13_06b_ENT_-_Dysphagia_and_Oesophageal_Pathology",
+    "F3_Throat__Voice_and_Oral"
+   ]
+  },
+  {
+   "file": "ENT/ENT_04_Neck_Lumps_Salivary_and_Dental.md",
+   "lines": [
+    1345,
+    1673
+   ],
+   "aliases": [
+    "F4",
+    "13_07a_ENT_-_Neck_Lumps",
+    "13_07b_ENT_-_Salivary_Gland_Problems_and_Xerostomia",
+    "13_07c_ENT_-_Dental_and_Teeth_Problems",
+    "F4_Neck_Lumps_and_Facial_Pain"
+   ]
+  },
+  {
+   "file": "ENT/ENT_05_Acute_ENT_Presentations.md",
+   "lines": [
+    1674,
+    1746
+   ],
+   "aliases": [
+    "NEW_ENT_and_Oral"
+   ]
+  },
+  {
+   "file": "ENT/ENT_06_ENT_Drugs.md",
+   "lines": [
+    1747,
+    1858
+   ],
+   "aliases": [
+    "NEW_Drugs_09_ENT"
+   ]
+  }
+ ],
+ "Geriatrics_merged.md": [
+  {
+   "file": "Geri/Geri_01_Comprehensive_Geriatric_Assessment.md",
+   "lines": [
+    1,
+    320
+   ],
+   "aliases": [
+    "GER1",
+    "GER1_Comprehensive_Geriatric_Assessment"
+   ]
+  },
+  {
+   "file": "Geri/Geri_02_Falls_Frailty_Polypharmacy_and_the_Vulnerable_Older_Person.md",
+   "lines": [
+    321,
+    654
+   ],
+   "aliases": [
+    "18_Geriatrics_and_Older_Persons_Health"
+   ]
+  },
+  {
+   "file": "Geri/Geri_03_Geriatric_Syndromes_and_End_of_Life_Care.md",
+   "lines": [
+    655,
+    1021
+   ],
+   "aliases": [
+    "GER2",
+    "GER2_Geriatric_Syndromes_and_End_of_Life_Care",
+    "NEW_Geriatrics"
+   ]
+  }
+ ]
+}
