@@ -1902,6 +1902,8 @@ If mother has primary infection lesions at time of delivery:
 > **· EXAMINE FOR TRAUMA — inspect the cervix and vagina properly with adequate light, retraction and analgesia, and repair. A bleeding tear will not respond to any amount of oxytocin.**
 > **· CHECK THE PLACENTA IS COMPLETE, and consider retained tissue requiring examination under anaesthesia.**
 > **· ESCALATE: intrauterine BALLOON TAMPONADE · uterine compression sutures (B-Lynch) · arterial ligation or interventional radiological EMBOLISATION · and hysterectomy as the definitive life-saving measure, which should not be delayed until the woman is moribund.**
+> 
+> **The Australian uterotonic figures ARE in this file, at `16_14-15_Obstetric_Emergencies ## Postpartum haemorrhage (PPH)`: oxytocin 10 IU IM/IV first-line per Safer Care Victoria, and carbetocin 100 mcg IM/IV as an alternative for all births.** They are verified there and are deliberately not repeated here — but the two `UNVERIFIED` markers above were written as if nothing in the corpus supplied them, which is no longer true. Tranexamic acid still has no dose in either account.
 
 > [!danger] Uterine inversion — and do not remove the placenta first
 > **The uterine fundus inverts and descends, sometimes through the cervix, usually associated with excessive cord traction on a fundal placenta.**
@@ -2580,6 +2582,8 @@ Delivery of the placenta.
 
 ## Postpartum haemorrhage (PPH)
 
+`CF-PAIR` **A second account of PPH is in this file at `O3 §0.3 Postpartum Haemorrhage`** — the resuscitation sequence and the escalation ladder, deliberately abstaining from every uterotonic dose and pointing here for them. **Both kept in full, neither reconciled.**
+
 **D**: blood loss >500mL after vaginal delivery.
 - Primary PPH: within 24h of delivery
 - Secondary PPH: >24h after delivery
@@ -2774,6 +2778,8 @@ Delivery of the placenta.
 ---
 
 ## 0.1 Cervical Screening Test and Cervical Screening Abnormality (Australian NCSP)
+
+`CF-PAIR` **A second account is in this file at `17_09 ## Cervical cancer screening`**, which is the disease-led version and carries the NCSP schedule, the self-collection equity material and the colposcopy referral pathway. **Both kept in full, neither reconciled.**
 
 **D:** The **Cervical Screening Test** is a **primary oncogenic HPV nucleic-acid test** with **partial genotyping** (HPV 16/18 reported separately from other oncogenic types), performed on a **liquid-based cytology** specimen so that cytology can be run **reflexively on the same sample** when the HPV result requires it.
 
@@ -4585,6 +4591,8 @@ Also known as urogenital prolapse — general term encompassing:
 
 ## Cervical cancer screening
 
+`CF-PAIR` **A second account is in this file at `NEW_Investigations_Obstetrics_and_Gynaecology §0.1 Cervical Screening Test and Cervical Screening Abnormality (Australian NCSP)` (L2780)**, which is the test-led version — how the CST is read and what each result triggers. **Both kept in full, neither reconciled.**
+
 **D**: the **Cervical Screening Test (CST)** — a sample collected from the ecto-/endocervical junction, tested primarily for high-risk HPV; if HPV-positive, the same sample is reflexed to cytological (liquid-based cytology) examination without needing a second visit. Self-collection (a vaginal swab the patient takes themselves, rather than a speculum examination) is a validated, available option in Australia for eligible patients, and is a genuinely important access feature, particularly for patients who find a speculum examination distressing or who are under-screened.
 
 > [!danger] A genuine, severe Australian health equity issue with a specific, proven, actionable intervention — not a generic epidemiological footnote. **Aboriginal and Torres Strait Islander women experience cervical cancer at roughly 2 times the incidence and up to 4 times the mortality rate of non-Indigenous women** (incidence ~23 per 100,000 vs the non-Indigenous rate in the same period; mortality ~8 per 100,000, almost 4-fold higher) — despite Australia being on track to become the first country to formally eliminate cervical cancer as a public health problem, a target that genuinely cannot be met unless this specific gap closes. Nationally, over 70% of all cervical cancers occur in women who have never been screened or have screened only occasionally, meaning **participation itself — not treatment once diagnosed — is the single biggest lever** for closing this gap.
@@ -4843,6 +4851,7 @@ Review of tolerability and continuation, **a plan for device replacement before 
 > **· Ulipristal acetate** — a longer window and **greater efficacy than levonorgestrel, particularly later in the window and at higher body weight.** **It delays the resumption of hormonal contraception**, which must be explained.
 > **· Levonorgestrel** — a shorter window with declining efficacy, and **a higher dose is used at higher body weight or with enzyme inducers.**
 > `UNVERIFIED — the time windows, doses, weight thresholds and the interval before restarting hormonal contraception.`
+> **All four ARE supplied in this file, at `16_16-17_Contraception ## Emergency contraception`:** levonorgestrel 1.5 mg to 72 h with a doubled dose above 70 kg or BMI 26, ulipristal 30 mg to 120 h with hormonal contraception restarted at 5 days, and the copper IUD to 5 days or 5 days past likely ovulation. **The marker above stays** — that entry cites **FSRH (UK)** guidance, not an Australian source, so the figures are reachable but still unverified against RANZCOG or an Australian sexual-health guideline.
 
 > [!warning] Emergency contraceptive pills are not abortifacients
 > **They act principally by delaying or preventing ovulation. They do not disrupt an established pregnancy and are not effective if implantation has occurred.**
@@ -5118,6 +5127,8 @@ General advice: use barrier method (e.g. condoms) until pills taken 7 days in a 
 ---
 
 ## Emergency contraception
+
+`CF-PAIR` **A second account is in this file at `O6 §0.4 Emergency Contraception and Unintended Pregnancy`**, which teaches the choice between the three methods and deliberately abstains from every figure. **Both kept in full, neither reconciled.** The figures below are FSRH-sourced (see the note under Copper IUD), not Australian-verified.
 
 ### Levonorgestrel
 - Single dose = 1.5mg (double dose if BMI >26 or weight >70kg)

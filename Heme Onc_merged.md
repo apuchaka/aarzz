@@ -754,6 +754,7 @@ aliases:
 - **Causes:** sepsis, trauma, obstetric complications (e.g. HELLP syndrome), malignancy.
 - **Ix:** bloods (↓platelets, ↓fibrinogen, ↑PT, ↑APTT, ↑D-dimer); blood film (schistocytes).
 - **Mx:** treat underlying disorder. If platelets <20, or <50 with active bleeding — platelet transfusion. Fresh frozen plasma to replace coagulation factors.
+  - **These figures are the DIC-specific trigger.** The general transfusion thresholds, the ITP treatment threshold and the MTP target are all different numbers answering different questions — see the reconciling box under `## Blood products` in this file.
 
 ### Macroangiopathic haemolytic anaemia
 
@@ -1062,6 +1063,7 @@ aliases:
 - **Mx:**
   - Life/organ-threatening bleed — **IVIG (intravenous immunoglobulin** — here an immunomodulator, not passive protection; see [[04_Neurology]] Guillain-Barré Syndrome (GBS) for what it is doing and [[08_01-03_Infectious_Disease_-_Bacterial_Infections]] Passive Immunisation — Immunoglobulin After an Exposure for the contrast**)** + prednisolone + platelet transfusion.
   - Platelets <30 or bleeding — prednisolone ± IVIG.
+  - **`<30` here is a TREATMENT threshold, not a transfusion trigger** — see the reconciling box under `## Blood products` in this file.
   - Mild with no other risk factors — consider observation. In children, 80% resolve within 6 months with or without treatment. In adults, only 5–10% resolve — monitor.
   - Advise avoiding activities that may result in trauma, e.g. contact sports.
   - **In children specifically:** safety-net for concerning bleeding signs (persistent headache — raises concern for intracranial haemorrhage, melaena, menorrhagia); splenectomy (where needed) is delayed for ≥12 months given the genuine chance of spontaneous resolution in this age group, unlike the lower spontaneous-resolution rate in adults above.
@@ -1313,6 +1315,13 @@ aliases:
 
 > [!warning] Platelets carry the highest risk of bacterial contamination compared to other blood products.
 
+> [!info] **Platelet numbers appear in four places in this file and they answer four different questions. Nothing said so before 2026-09-02, and nothing here reconciles them.**
+> **· `## Blood products` — here.** The general transfusion triggers: `<30` with clinically significant bleeding, `<100` with severe or critical-site bleeding, `>50` before most procedures, `<10` prophylactically.
+> **· `## Normocytic haemolytic anaemias — extrinsic causes` (DIC).** `<20`, or `<50` with active bleeding — a transfusion trigger in consumptive coagulopathy, not the general one.
+> **· `## Immune thrombocytopenia (ITP)`.** `<30 or bleeding` is a **treatment** threshold for prednisolone ± IVIG, not a transfusion trigger — platelet transfusion is largely ineffective in ITP.
+> **· `## Massive Transfusion Protocol (MTP)`.** Aim to keep `>50 ×10⁹/L`, higher for intracranial or critical-site injury — a target during resuscitation, not a trigger.
+> **They are probably all correct in their own context. This box says what the context is; it does not choose between them.**
+
 **Indications for giving:**
 - Active bleeding — platelets <30 ×10⁹ with clinically significant bleeding (e.g. melaena); platelets <100 ×10⁹ with severe bleeding or bleeding at critical sites (e.g. CNS).
 - Before an invasive procedure — aim for >50 ×10⁹ in most patients; >50–75 if high risk of bleeding; >100 if surgery at a critical site.
@@ -1397,7 +1406,7 @@ aliases:
 
 > [!info] Ratio-based product delivery — the genuinely important Australian-specific point: Lifeblood's institutional guidance specifies **no fewer than 4 units of FFP and 1 adult unit of platelets for every 8 units of RBC** — a minimum ratio framing, distinct from (though broadly in the same direction as) the "1:1:1" ratio more commonly cited internationally from the PROPPR trial. Local Health Districts/hospitals customise this into a site-specific MTP with predefined product "packs," so the exact configuration genuinely varies by institution — check the local protocol rather than assuming a fixed national number. **Viscoelastic haemostatic assay (VHA)-guided algorithms** are an accepted alternative to fixed ratio-based dosing where locally available, allowing product delivery to be tailored to the patient's actual measured coagulation status rather than a predefined ratio alone.
 > - **Fibrinogen replacement:** usual adult target dose 3–4g, achievable via cryoprecipitate (10 units whole-blood-equivalent) or fibrinogen concentrate per local protocol; allow up to 30 minutes thawing time for FFP/cryoprecipitate — a genuinely practical logistic point, given this delay needs to be anticipated rather than discovered mid-crisis.
-> - **Platelets:** thrombocytopenia <50×10⁹/L can be anticipated after two blood-volume equivalents of replacement, from dilution and consumption — aim to keep platelets >50×10⁹/L (higher thresholds for intracranial/spinal bleeding, consistent with the general platelet transfusion thresholds already established above, not repeated here); usual adult platelet dose is 1 unit.
+> - **Platelets:** thrombocytopenia <50×10⁹/L can be anticipated after two blood-volume equivalents of replacement, from dilution and consumption — aim to keep platelets >50×10⁹/L (higher thresholds for intracranial/spinal bleeding, consistent with the general platelet transfusion thresholds already established above, not repeated here); usual adult platelet dose is 1 unit. **This `>50` is an MTP target, not the general transfusion trigger — see the reconciling box under `## Blood products` in this file.**
 
 - **Practical/logistic principles beyond the product ratios themselves:**
   - **Communication between the clinical team and the transfusion laboratory is genuinely critical**, not a secondary administrative concern — MTP is as much a logistics protocol as a clinical one, and delays or miscommunication directly translate into delayed product availability during active haemorrhage.

@@ -1981,7 +1981,7 @@ Systemic IgE-mediated hypersensitivity — massive mast cell degranulation → i
 > - **>20 kg and ≥5 years: 0.3 mL (300 mcg)**
 > - **7.5–20 kg and ≤5 years: 0.15 mL (150 mcg)**
 > - **<7.5 kg / <6 months: 0.1–0.15 mL (100–150 mcg)** — unverified, see `PENDING_GUIDELINE_CHECKS.md` **B50**
-> `CF-PAIR` **THIS IS THE SECOND OF ONLY TWO PLACES IN THE CORPUS CARRYING THE `<7.5 kg` INFANT ADRENALINE ROW.** The other is `[[09_01_Dermatology_-_Dermatological_Emergencies]]` Anaphylaxis, which this box already points at as the owner. **Neither is redundant and neither should be deleted** — the copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and `NEW_Drugs_01 §0.5` both begin at 7.5 kg. Units differ (`mL` here, `mg` there) and are the same quantity at 1:1000. Both flag `PENDING_GUIDELINE_CHECKS.md` **B50**.
+> `CF-PAIR` **THIS IS THE SECOND OF ONLY TWO PLACES IN THE CORPUS CARRYING THE `<7.5 kg` INFANT ADRENALINE ROW.** The other is `[[09_01_Dermatology_-_Dermatological_Emergencies]]` Anaphylaxis, which this box already points at as the owner. **The clinical account of anaphylaxis in THIS file is `F0-1 §0.9 Anaphylaxis and Acute Allergic Reaction`, which abstains from every dose and points here for them.** **Neither is redundant and neither should be deleted** — the copies in `[[15_01b_Paeds_-_Anaphylaxis]]` and `NEW_Drugs_01 §0.5` both begin at 7.5 kg. Units differ (`mL` here, `mg` there) and are the same quantity at 1:1000. Both flag `PENDING_GUIDELINE_CHECKS.md` **B50**.
 >
 > Overall rule: **0.01 mg/kg up to a maximum of 0.5 mg**. See [[09_01_Dermatology_-_Dermatological_Emergencies]] Anaphylaxis for the full entry, and [[15_01b_Paeds_-_Anaphylaxis]] for the paediatric-specific observation criteria — the ASCIA correction from age bands to weight-and-age was made in that file and had not been carried across to here.
 > - Repeat every 5 min if necessary
@@ -2660,7 +2660,7 @@ Remove the trigger where possible. Lie flat with legs elevated. **Intramuscular 
 Observation for biphasic reaction, which can occur hours after apparent resolution. Refractory cases require adrenaline infusion and ICU. Patients on beta-blockers may respond poorly to adrenaline; glucagon is described as an adjunct. `UNVERIFIED — observation period duration and glucagon dosing require verification.`
 
 ### 0.9.3 Mx – Chronic/long-term
-Adrenaline autoinjector prescription with **demonstrated** technique, not just a script. ASCIA action plan. Medical alert identification. Allergy or immunology referral. Documentation of the allergy in the record and on discharge summary. Cross-refer [[15_01b_Paeds_-_Anaphylaxis]].
+Adrenaline autoinjector prescription with **demonstrated** technique, not just a script. ASCIA action plan. Medical alert identification. Allergy or immunology referral. Documentation of the allergy in the record and on discharge summary. Cross-refer [[15_01b_Paeds_-_Anaphylaxis]]. **Every dose in this section is deliberately abstained from: the ASCIA IM adrenaline box is `01_Cardiovascular §0.20.3 Distributive shock` in this file, and the drug-class entry is `NEW_Drugs_01 §0.5 Sympathomimetics (Anaphylaxis) — Adrenaline`, also in this file.**
 
 ---
 
@@ -2762,9 +2762,9 @@ Wound care and tetanus status. Warn about serum sickness after antivenom. Redbac
 ## 0.5 Sympathomimetics (Anaphylaxis) — Adrenaline
 
 > [!warning] FLAG 2026-09-01 — ⚠️ **CLAUDE.md rule 5 territory. Do not merge without a figure-by-figure check.**
-> Anaphylaxis has **five homes**: here · `F0-1 §0.9 Anaphylaxis and Acute Allergic Reaction` ·
+> Anaphylaxis has **six homes**: here · `F0-1 §0.9 Anaphylaxis and Acute Allergic Reaction` ·
 > `Derm_merged 09_01 ## Anaphylaxis` · `Pediatrics_merged 15_01b_Paeds_-_Anaphylaxis` ·
-> `Infectious Disease_merged K4` (allergy).
+> `Infectious Disease_merged K4` (allergy) · **`01_Cardiovascular §0.20.3 Distributive shock`, co-located into this file 2026-09-01, which carries the ASCIA box including the `<7.5 kg` row**.
 > **This section and `F0-4 §0.4 Paediatric Resuscitation` are where weight-banded adrenaline figures
 > live.** The ASCIA table in this corpus has already produced one live paediatric dosing defect.
 > **Every per-kg figure and injector band must be listed and checked before any merge.**

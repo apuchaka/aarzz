@@ -1490,6 +1490,8 @@ Protective measures where sensation is lost — **foot care, water temperature c
 
 ## 0.1 The "Dizzy" Patient — Disambiguating the Complaint
 
+`CF-PAIR` **Three accounts of vertigo sit in this file and none declared the others before 2026-09-02:** `D5 §0.1 The "Dizzy" Patient` / `§0.3 Episodic Vertigo` / `§0.4 Disequilibrium and Chronic Dizziness` (which carry the Dix-Hallpike discriminators) · `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` · `NEW_Neurology ## Acute Vertigo` (the only one with otoscopy and Rinne/Weber). **All three kept in full, none reconciled.** The HINTS examination itself is `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`; the ear causes — Ménière's disease in particular — are `[[ENT_merged]] 13_03 ## Ménière's disease`.
+
 **D:** "Dizziness" is a lay term covering at least four distinct symptoms, and the word alone is uninformative.
 
 > [!danger] The old approach — "what do you mean by dizzy?" — is unreliable on its own
@@ -1534,6 +1536,7 @@ Protective measures where sensation is lost — **foot care, water temperature c
 > **Episodes lasting 20 minutes to several hours** — not seconds (that is BPPV), not days (that is acute vestibular syndrome) — **with the characteristic triad of fluctuating sensorineural hearing loss, tinnitus and aural fullness**, alongside the vertigo.
 > The hearing loss is **low-frequency initially and fluctuates**, becoming permanent over years. **Documented hearing loss on audiometry is required for the diagnosis** — Ménière is over-diagnosed clinically in patients who actually have vestibular migraine.
 > Management: salt restriction, diuretics, betahistine, and for refractory disease intratympanic corticosteroid or gentamicin, or surgery. **Falls and drop attacks (Tumarkin otolithic crises)** can occur and matter for driving and occupational safety. `UNVERIFIED — diagnostic criteria and all treatment regimens; the evidence for several is weak.`
+> **The full ENT entry is `[[ENT_merged]] 13_03 ## Ménière's disease`** — ENT points at this file's vertigo material four times and this block carried no return pointer at all until 2026-09-02. **Both accounts kept; neither reconciled.**
 
 > [!danger] Vestibular migraine is the commonest cause of recurrent spontaneous vertigo — and it is under-diagnosed
 > **Episodes of vertigo of variable duration — minutes to days — in a patient with a history of migraine**, with photophobia, phonophobia, visual aura or headache **which may or may not accompany the vertigo.** Many patients have vertigo without any headache at all, which is precisely why it is missed.
@@ -3129,6 +3132,8 @@ Most often presents as a global pattern, ?generalised fatigue. Causes: cardio-pu
 
 ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)
 
+`CF-PAIR` **Three accounts of vertigo sit in this file and none declared the others before 2026-09-02:** `D5 §0.1 The "Dizzy" Patient` / `§0.3 Episodic Vertigo` / `§0.4 Disequilibrium and Chronic Dizziness` (which carry the Dix-Hallpike discriminators) · `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` · `NEW_Neurology ## Acute Vertigo` (the only one with otoscopy and Rinne/Weber). **All three kept in full, none reconciled.** The HINTS examination itself is `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`; the ear causes — Ménière's disease in particular — are `[[ENT_merged]] 13_03 ## Ménière's disease`.
+
 **D:** an illusory sensation of movement (typically spinning) of oneself or the environment, reflecting a mismatch between vestibular, visual, and proprioceptive input.
 
 > [!info] Peripheral vs central vertigo — the key bedside distinction
@@ -3787,6 +3792,8 @@ Different inheritance patterns; can affect Schwann cells and myelin (CMT1) or ax
 ---
 
 ## Acute Vertigo
+
+`CF-PAIR` **Three accounts of vertigo sit in this file and none declared the others before 2026-09-02:** `D5 §0.1 The "Dizzy" Patient` / `§0.3 Episodic Vertigo` / `§0.4 Disequilibrium and Chronic Dizziness` (which carry the Dix-Hallpike discriminators) · `04_Neurology ### Vertigo (Peripheral vs Central, BPPV, Vestibular Neuritis)` · `NEW_Neurology ## Acute Vertigo` (the only one with otoscopy and Rinne/Weber). **All three kept in full, none reconciled.** The HINTS examination itself is `[[Examination]] §1.21 Vertigo Examination (Dix-Hallpike and the HINTS Exam)`; the ear causes — Ménière's disease in particular — are `[[ENT_merged]] 13_03 ## Ménière's disease`.
 
 - **D:** an acute, persistent sensation of spinning or self-motion. **The clinical question is not "is this vertigo?" but "is this a stroke?"** — around one in five to one in four cases of acute vestibular syndrome presenting to hospital have a central cause, and posterior circulation stroke is the one that is missed.
 - **DDx:**
